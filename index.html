@@ -26,6 +26,7 @@
     --phase-4: #f85149;
     --phase-5: #a371f7;
     --phase-6: #39d2c0;
+    --phase-7: #f778ba;
     --shadow: 0 4px 24px rgba(0,0,0,0.3);
   }
 
@@ -209,7 +210,8 @@
     width: 2px;
     background: linear-gradient(to bottom,
       var(--phase-1), var(--phase-2), var(--phase-3),
-      var(--phase-4), var(--phase-5), var(--phase-6));
+      var(--phase-4), var(--phase-5), var(--phase-6),
+      var(--phase-7));
     border-radius: 1px;
   }
 
@@ -245,6 +247,7 @@
   .timeline-item.phase-4::before { background: var(--phase-4); }
   .timeline-item.phase-5::before { background: var(--phase-5); }
   .timeline-item.phase-6::before { background: var(--phase-6); }
+  .timeline-item.phase-7::before { background: var(--phase-7); }
 
   .phase-badge {
     display: inline-flex;
@@ -263,6 +266,7 @@
   .phase-4 .phase-badge { background: rgba(248,81,73,0.15); color: var(--phase-4); }
   .phase-5 .phase-badge { background: rgba(163,113,247,0.15); color: var(--phase-5); }
   .phase-6 .phase-badge { background: rgba(57,210,192,0.15); color: var(--phase-6); }
+  .phase-7 .phase-badge { background: rgba(247,120,186,0.15); color: var(--phase-7); }
 
   .timeline-item h3 {
     font-size: 19px;
@@ -636,11 +640,11 @@
 <!-- Stats -->
 <div class="stats-bar">
   <div class="stat-card">
-    <div class="stat-value">6</div>
+    <div class="stat-value">7</div>
     <div class="stat-label">探索阶段</div>
   </div>
   <div class="stat-card">
-    <div class="stat-value">5</div>
+    <div class="stat-value">6</div>
     <div class="stat-label">平台评测</div>
   </div>
   <div class="stat-card">
@@ -871,6 +875,46 @@
             <div class="platform-name">DataAgent</div>
             <div class="platform-status focus">当前聚焦</div>
           </div>
+          <div class="platform-card">
+            <div class="platform-name">商汤 AI</div>
+            <div class="platform-status tested">POC 进行中</div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Phase 7 -->
+      <div class="timeline-item phase-7">
+        <span class="phase-badge">🩷 阶段七</span>
+        <h3>商汤 AI — 事务 Agent + 知识检索 POC</h3>
+        <p class="summary">
+          与商汤科技合作，将事务性 Agent 需求和知识检索类场景交由商汤 AI 产品进行概念验证（POC），探索大模型在企业事务处理与知识管理方向的应用。
+        </p>
+        <div class="info-grid">
+          <div class="info-box approach">
+            <div class="box-label">▸ 方案</div>
+            <ul>
+              <li>商汤 AI 产品开通试用，建立合作沟通</li>
+              <li>输出事务性 Agent 需求：自动化流程、审批处理、数据录入等</li>
+              <li>输出知识检索需求：企业制度问答、SOP 查询、培训材料检索</li>
+              <li>由商汤基于其 AI 产品进行 POC 搭建与效果验证</li>
+            </ul>
+          </div>
+          <div class="info-box outcome">
+            <div class="box-label">▸ 目标</div>
+            <ul>
+              <li>验证事务性 Agent 在企业流程中的可行性</li>
+              <li>评估商汤 AI 在知识检索场景的召回率与准确率</li>
+              <li>对比外部厂商方案与自建方案的投入产出比</li>
+            </ul>
+          </div>
+        </div>
+        <div class="info-box pitfall" style="margin-top:12px;">
+          <div class="box-label">▸ 关注点</div>
+          <ul>
+            <li>POC 效果与实际生产环境可能有较大差距</li>
+            <li>外部厂商方案的数据安全与合规风险</li>
+            <li>与现有钉钉生态、Agent 平台的集成难度</li>
+          </ul>
         </div>
       </div>
 
