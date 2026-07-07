@@ -1,0 +1,1174 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Wagas AI 企业问数探索之路</title>
+<style>
+  :root {
+    --bg-primary: #0d1117;
+    --bg-secondary: #161b22;
+    --bg-card: #1c2128;
+    --bg-hover: #252c35;
+    --border: #30363d;
+    --text-primary: #e6edf3;
+    --text-secondary: #8b949e;
+    --text-muted: #6e7681;
+    --accent-blue: #58a6ff;
+    --accent-green: #3fb950;
+    --accent-orange: #d2991d;
+    --accent-red: #f85149;
+    --accent-purple: #a371f7;
+    --accent-cyan: #39d2c0;
+    --phase-1: #58a6ff;
+    --phase-2: #3fb950;
+    --phase-3: #d2991d;
+    --phase-4: #f85149;
+    --phase-5: #a371f7;
+    --phase-6: #39d2c0;
+    --shadow: 0 4px 24px rgba(0,0,0,0.3);
+  }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC", "Microsoft YaHei", sans-serif;
+    background: var(--bg-primary);
+    color: var(--text-primary);
+    line-height: 1.7;
+    min-height: 100vh;
+  }
+
+  /* Header */
+  .header {
+    background: linear-gradient(135deg, #1a2332 0%, #0d1b2a 50%, #1a1a2e 100%);
+    border-bottom: 1px solid var(--border);
+    padding: 48px 0 40px;
+    text-align: center;
+    position: relative;
+    overflow: hidden;
+  }
+
+  .header::before {
+    content: '';
+    position: absolute;
+    top: 0; left: 0; right: 0; bottom: 0;
+    background: radial-gradient(ellipse at 30% 50%, rgba(88,166,255,0.08) 0%, transparent 60%),
+                radial-gradient(ellipse at 70% 50%, rgba(163,113,247,0.06) 0%, transparent 60%);
+  }
+
+  .header-content {
+    position: relative;
+    z-index: 1;
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 0 24px;
+  }
+
+  .header h1 {
+    font-size: 32px;
+    font-weight: 700;
+    letter-spacing: -0.5px;
+    margin-bottom: 12px;
+    background: linear-gradient(135deg, #58a6ff, #a371f7);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+  }
+
+  .header .subtitle {
+    font-size: 15px;
+    color: var(--text-secondary);
+    max-width: 650px;
+    margin: 0 auto;
+    line-height: 1.7;
+  }
+
+  .header .meta {
+    margin-top: 16px;
+    font-size: 13px;
+    color: var(--text-muted);
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+  }
+
+  .header .meta span {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+  }
+
+  /* Stats Bar */
+  .stats-bar {
+    max-width: 1100px;
+    margin: -20px auto 0;
+    padding: 0 24px;
+    position: relative;
+    z-index: 2;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 16px;
+  }
+
+  .stat-card {
+    background: var(--bg-card);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 20px 24px;
+    text-align: center;
+    box-shadow: var(--shadow);
+    transition: transform 0.2s, border-color 0.2s;
+  }
+
+  .stat-card:hover {
+    transform: translateY(-2px);
+    border-color: var(--accent-blue);
+  }
+
+  .stat-card .stat-value {
+    font-size: 28px;
+    font-weight: 700;
+    color: var(--accent-blue);
+  }
+
+  .stat-card .stat-label {
+    font-size: 13px;
+    color: var(--text-secondary);
+    margin-top: 4px;
+  }
+
+  /* Main Content */
+  .container {
+    max-width: 1100px;
+    margin: 40px auto 60px;
+    padding: 0 24px;
+  }
+
+  /* Section Tabs */
+  .section-tabs {
+    display: flex;
+    gap: 4px;
+    background: var(--bg-card);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 4px;
+    margin-bottom: 32px;
+    overflow-x: auto;
+  }
+
+  .section-tab {
+    flex: 1;
+    min-width: 120px;
+    padding: 10px 16px;
+    border-radius: 8px;
+    border: none;
+    background: transparent;
+    color: var(--text-secondary);
+    font-size: 14px;
+    cursor: pointer;
+    transition: all 0.2s;
+    font-family: inherit;
+    white-space: nowrap;
+    text-align: center;
+  }
+
+  .section-tab:hover {
+    color: var(--text-primary);
+    background: var(--bg-hover);
+  }
+
+  .section-tab.active {
+    background: var(--accent-blue);
+    color: #fff;
+    font-weight: 600;
+  }
+
+  /* Section Content */
+  .section {
+    display: none;
+  }
+
+  .section.active {
+    display: block;
+  }
+
+  /* Timeline */
+  .timeline {
+    position: relative;
+    padding-left: 40px;
+  }
+
+  .timeline::before {
+    content: '';
+    position: absolute;
+    left: 18px;
+    top: 0;
+    bottom: 0;
+    width: 2px;
+    background: linear-gradient(to bottom,
+      var(--phase-1), var(--phase-2), var(--phase-3),
+      var(--phase-4), var(--phase-5), var(--phase-6));
+    border-radius: 1px;
+  }
+
+  .timeline-item {
+    position: relative;
+    margin-bottom: 40px;
+    background: var(--bg-card);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 28px 28px 24px;
+    transition: border-color 0.2s, transform 0.2s;
+  }
+
+  .timeline-item:hover {
+    border-color: var(--accent-blue);
+  }
+
+  .timeline-item::before {
+    content: '';
+    position: absolute;
+    left: -31px;
+    top: 32px;
+    width: 14px;
+    height: 14px;
+    border-radius: 50%;
+    border: 3px solid var(--bg-primary);
+    z-index: 1;
+  }
+
+  .timeline-item.phase-1::before { background: var(--phase-1); }
+  .timeline-item.phase-2::before { background: var(--phase-2); }
+  .timeline-item.phase-3::before { background: var(--phase-3); }
+  .timeline-item.phase-4::before { background: var(--phase-4); }
+  .timeline-item.phase-5::before { background: var(--phase-5); }
+  .timeline-item.phase-6::before { background: var(--phase-6); }
+
+  .phase-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    padding: 3px 12px;
+    border-radius: 20px;
+    font-size: 12px;
+    font-weight: 600;
+    margin-bottom: 12px;
+  }
+
+  .phase-1 .phase-badge { background: rgba(88,166,255,0.15); color: var(--phase-1); }
+  .phase-2 .phase-badge { background: rgba(63,185,80,0.15); color: var(--phase-2); }
+  .phase-3 .phase-badge { background: rgba(210,153,29,0.15); color: var(--phase-3); }
+  .phase-4 .phase-badge { background: rgba(248,81,73,0.15); color: var(--phase-4); }
+  .phase-5 .phase-badge { background: rgba(163,113,247,0.15); color: var(--phase-5); }
+  .phase-6 .phase-badge { background: rgba(57,210,192,0.15); color: var(--phase-6); }
+
+  .timeline-item h3 {
+    font-size: 19px;
+    font-weight: 600;
+    margin-bottom: 8px;
+    color: var(--text-primary);
+  }
+
+  .timeline-item .summary {
+    color: var(--text-secondary);
+    font-size: 14px;
+    margin-bottom: 16px;
+    line-height: 1.6;
+  }
+
+  /* Info boxes */
+  .info-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 12px;
+    margin-top: 16px;
+  }
+
+  @media (max-width: 768px) {
+    .info-grid { grid-template-columns: 1fr; }
+    .stats-bar { grid-template-columns: repeat(2, 1fr); }
+  }
+
+  .info-box {
+    padding: 14px 16px;
+    border-radius: 8px;
+    font-size: 13px;
+    line-height: 1.6;
+  }
+
+  .info-box.approach {
+    background: rgba(88,166,255,0.06);
+    border: 1px solid rgba(88,166,255,0.2);
+  }
+
+  .info-box.pitfall {
+    background: rgba(248,81,73,0.06);
+    border: 1px solid rgba(248,81,73,0.2);
+  }
+
+  .info-box.outcome {
+    background: rgba(63,185,80,0.06);
+    border: 1px solid rgba(63,185,80,0.2);
+  }
+
+  .info-box .box-label {
+    font-size: 11px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    margin-bottom: 6px;
+  }
+
+  .info-box.approach .box-label { color: var(--phase-1); }
+  .info-box.pitfall .box-label { color: var(--accent-red); }
+  .info-box.outcome .box-label { color: var(--accent-green); }
+
+  .info-box ul {
+    list-style: none;
+    padding: 0;
+  }
+
+  .info-box ul li {
+    padding: 3px 0;
+    padding-left: 16px;
+    position: relative;
+    color: var(--text-secondary);
+  }
+
+  .info-box ul li::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 10px;
+    width: 6px;
+    height: 6px;
+    border-radius: 50%;
+  }
+
+  .info-box.approach ul li::before { background: var(--phase-1); }
+  .info-box.pitfall ul li::before { background: var(--accent-red); }
+  .info-box.outcome ul li::before { background: var(--accent-green); }
+
+  /* Platforms Section */
+  .platform-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+    gap: 12px;
+    margin-top: 16px;
+  }
+
+  .platform-card {
+    background: var(--bg-hover);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 18px;
+    text-align: center;
+    transition: all 0.2s;
+  }
+
+  .platform-card:hover {
+    border-color: var(--accent-purple);
+    transform: translateY(-2px);
+  }
+
+  .platform-card .platform-name {
+    font-size: 16px;
+    font-weight: 600;
+    color: var(--text-primary);
+  }
+
+  .platform-card .platform-status {
+    display: inline-block;
+    margin-top: 6px;
+    padding: 2px 10px;
+    border-radius: 12px;
+    font-size: 11px;
+    font-weight: 600;
+  }
+
+  .platform-card .platform-status.tested {
+    background: rgba(210,153,29,0.15);
+    color: var(--accent-orange);
+  }
+
+  .platform-card .platform-status.focus {
+    background: rgba(63,185,80,0.15);
+    color: var(--accent-green);
+  }
+
+  /* Problems Section */
+  .problem-list {
+    display: grid;
+    gap: 20px;
+  }
+
+  .problem-card {
+    background: var(--bg-card);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 24px;
+    transition: border-color 0.2s;
+    position: relative;
+    overflow: hidden;
+  }
+
+  .problem-card:hover {
+    border-color: var(--accent-orange);
+  }
+
+  .problem-card .problem-num {
+    position: absolute;
+    top: 16px;
+    right: 20px;
+    font-size: 48px;
+    font-weight: 800;
+    color: rgba(248,81,73,0.08);
+    line-height: 1;
+  }
+
+  .problem-card .problem-category {
+    display: inline-block;
+    padding: 2px 10px;
+    border-radius: 12px;
+    font-size: 11px;
+    font-weight: 600;
+    background: rgba(248,81,73,0.12);
+    color: var(--accent-red);
+    margin-bottom: 10px;
+  }
+
+  .problem-card h4 {
+    font-size: 17px;
+    font-weight: 600;
+    margin-bottom: 8px;
+    position: relative;
+    z-index: 1;
+  }
+
+  .problem-card .problem-desc {
+    color: var(--text-secondary);
+    font-size: 14px;
+    line-height: 1.7;
+    position: relative;
+    z-index: 1;
+  }
+
+  .problem-card .problem-detail {
+    margin-top: 12px;
+    padding-top: 12px;
+    border-top: 1px solid var(--border);
+  }
+
+  .problem-card .problem-detail ul {
+    list-style: none;
+    padding: 0;
+  }
+
+  .problem-card .problem-detail ul li {
+    padding: 4px 0;
+    padding-left: 18px;
+    position: relative;
+    font-size: 13px;
+    color: var(--text-secondary);
+  }
+
+  .problem-card .problem-detail ul li::before {
+    content: '→';
+    position: absolute;
+    left: 0;
+    color: var(--accent-orange);
+    font-size: 12px;
+  }
+
+  /* Architecture Section */
+  .arch-diagram {
+    background: var(--bg-card);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 32px;
+    margin-top: 16px;
+  }
+
+  .arch-layer {
+    margin-bottom: 20px;
+    padding: 16px 20px;
+    border-radius: 8px;
+    border-left: 3px solid;
+  }
+
+  .arch-layer.users { border-left-color: var(--accent-purple); background: rgba(163,113,247,0.04); }
+  .arch-layer.access { border-left-color: var(--accent-blue); background: rgba(88,166,255,0.04); }
+  .arch-layer.agent { border-left-color: var(--accent-green); background: rgba(63,185,80,0.04); }
+  .arch-layer.connect { border-left-color: var(--accent-orange); background: rgba(210,153,29,0.04); }
+  .arch-layer.data { border-left-color: var(--accent-cyan); background: rgba(57,210,192,0.04); }
+  .arch-layer.gap { border-left-color: var(--accent-red); background: rgba(248,81,73,0.04); border-style: dashed; }
+
+  .arch-layer .layer-title {
+    font-size: 13px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    margin-bottom: 6px;
+  }
+
+  .arch-layer.users .layer-title { color: var(--accent-purple); }
+  .arch-layer.access .layer-title { color: var(--accent-blue); }
+  .arch-layer.agent .layer-title { color: var(--accent-green); }
+  .arch-layer.connect .layer-title { color: var(--accent-orange); }
+  .arch-layer.data .layer-title { color: var(--accent-cyan); }
+  .arch-layer.gap .layer-title { color: var(--accent-red); }
+
+  .arch-layer .layer-content {
+    font-size: 13px;
+    color: var(--text-secondary);
+  }
+
+  .arch-layer .layer-items {
+    display: flex;
+    gap: 8px;
+    flex-wrap: wrap;
+    margin-top: 8px;
+  }
+
+  .arch-layer .layer-tag {
+    padding: 4px 10px;
+    border-radius: 6px;
+    font-size: 12px;
+    background: var(--bg-hover);
+    color: var(--text-primary);
+    border: 1px solid var(--border);
+  }
+
+  .arch-layer.gap .layer-tag {
+    background: rgba(248,81,73,0.08);
+    border-color: rgba(248,81,73,0.2);
+    color: var(--accent-red);
+  }
+
+  /* Pitfalls Summary */
+  .pitfall-summary-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 16px;
+    font-size: 13px;
+  }
+
+  .pitfall-summary-table th {
+    text-align: left;
+    padding: 12px 16px;
+    background: var(--bg-hover);
+    border-bottom: 1px solid var(--border);
+    color: var(--text-secondary);
+    font-weight: 600;
+    font-size: 12px;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+  }
+
+  .pitfall-summary-table td {
+    padding: 12px 16px;
+    border-bottom: 1px solid var(--border);
+    color: var(--text-secondary);
+    vertical-align: top;
+  }
+
+  .pitfall-summary-table tr:hover td {
+    background: rgba(88,166,255,0.03);
+  }
+
+  .severity-badge {
+    display: inline-block;
+    padding: 2px 8px;
+    border-radius: 10px;
+    font-size: 11px;
+    font-weight: 600;
+  }
+
+  .severity-badge.high {
+    background: rgba(248,81,73,0.15);
+    color: var(--accent-red);
+  }
+
+  .severity-badge.medium {
+    background: rgba(210,153,29,0.15);
+    color: var(--accent-orange);
+  }
+
+  /* Footer */
+  .footer {
+    text-align: center;
+    padding: 32px 24px;
+    border-top: 1px solid var(--border);
+    color: var(--text-muted);
+    font-size: 13px;
+  }
+
+  /* Responsive */
+  @media (max-width: 640px) {
+    .header h1 { font-size: 24px; }
+    .timeline { padding-left: 32px; }
+    .timeline-item { padding: 20px 16px 16px; }
+    .timeline-item::before { left: -24px; width: 12px; height: 12px; }
+    .timeline::before { left: 13px; }
+    .arch-layer { padding: 12px 14px; }
+  }
+</style>
+</head>
+<body>
+
+<!-- Header -->
+<div class="header">
+  <div class="header-content">
+    <h1>Wagas AI 企业问数探索之路</h1>
+    <p class="subtitle">
+      从 Excel POC 到 Multi-Agent 架构，记录 Wagas IT 团队在 AI 赋能企业数据问答领域的完整探索历程、踩坑经验与未来方向。
+    </p>
+    <div class="meta">
+      <span>📅 更新于 2026-07-03</span>
+      <span>👤 Alex · Wagas IT</span>
+      <span>🏷️ 持续更新中</span>
+    </div>
+  </div>
+</div>
+
+<!-- Stats -->
+<div class="stats-bar">
+  <div class="stat-card">
+    <div class="stat-value">6</div>
+    <div class="stat-label">探索阶段</div>
+  </div>
+  <div class="stat-card">
+    <div class="stat-value">5</div>
+    <div class="stat-label">平台评测</div>
+  </div>
+  <div class="stat-card">
+    <div class="stat-value">8+</div>
+    <div class="stat-label">关键踩坑</div>
+  </div>
+  <div class="stat-card">
+    <div class="stat-value">5</div>
+    <div class="stat-label">待解决问题</div>
+  </div>
+</div>
+
+<!-- Main Content -->
+<div class="container">
+
+  <!-- Tabs -->
+  <div class="section-tabs">
+    <button class="section-tab active" onclick="switchSection('timeline')">🗺️ 探索时间线</button>
+    <button class="section-tab" onclick="switchSection('pitfalls')">⚠️ 踩坑总结</button>
+    <button class="section-tab" onclick="switchSection('problems')">🔴 待解决问题</button>
+    <button class="section-tab" onclick="switchSection('architecture')">🏗️ 架构演进</button>
+  </div>
+
+  <!-- ==================== TIMELINE SECTION ==================== -->
+  <div id="timeline" class="section active">
+    <div class="timeline">
+
+      <!-- Phase 1 -->
+      <div class="timeline-item phase-1">
+        <span class="phase-badge">🔵 阶段一</span>
+        <h3>OpenClaw 小龙虾 — LLM + Agent 能力验证</h3>
+        <p class="summary">
+          利用 OpenClaw（小龙虾）平台，导入 Excel 业务样例数据，初步验证大模型与 Agent 在企业问数场景中的可行性。
+        </p>
+        <div class="info-grid">
+          <div class="info-box approach">
+            <div class="box-label">▸ 方案</div>
+            <ul>
+              <li>通过 OpenClaw 平台能力导入 Excel 业务样例数据</li>
+              <li>测试大模型对表格数据的理解与问答能力</li>
+              <li>验证 Agent 调用链路的基本可行性</li>
+            </ul>
+          </div>
+          <div class="info-box pitfall">
+            <div class="box-label">▸ 踩坑</div>
+            <ul>
+              <li>数据对接困难：Excel 离线导入，无法实时同步业务数据</li>
+              <li>数据安全风险：样例数据上传到第三方平台，存在泄露隐患</li>
+              <li>无法规模化：仅能处理静态快照数据，不支持动态查询</li>
+            </ul>
+          </div>
+        </div>
+        <div class="info-box outcome" style="margin-top:12px;">
+          <div class="box-label">▸ 结论</div>
+          <ul>
+            <li>LLM + Agent 路线技术上可行，但数据通道是核心瓶颈</li>
+            <li>企业级落地需要解决数据安全与实时连接两大问题</li>
+          </ul>
+        </div>
+      </div>
+
+      <!-- Phase 2 -->
+      <div class="timeline-item phase-2">
+        <span class="phase-badge">🟢 阶段二</span>
+        <h3>观远BI ChatBI — 商业产品试用</h3>
+        <p class="summary">
+          现有 BI 厂商观远数据提供 ChatBI 产品试用，评估商业产品是否能满足企业问数需求。
+        </p>
+        <div class="info-grid">
+          <div class="info-box approach">
+            <div class="box-label">▸ 方案</div>
+            <ul>
+              <li>观远BI 开通 ChatBI 模块试用</li>
+              <li>基于已有 BI 数据集进行自然语言问答</li>
+            </ul>
+          </div>
+          <div class="info-box pitfall">
+            <div class="box-label">▸ 踩坑</div>
+            <ul>
+              <li>输出文件行数限制：查询结果超过一定行数被截断</li>
+              <li>不支持文件上传：无法基于临时 Excel/CSV 提问</li>
+              <li>无历史关联：不支持关联历史提问做上下文推理</li>
+              <li>价格较贵：商业授权费用超出预算预期</li>
+            </ul>
+          </div>
+        </div>
+        <div class="info-box outcome" style="margin-top:12px;">
+          <div class="box-label">▸ 结论</div>
+          <ul>
+            <li>功能基本可用，但限制较多且成本偏高</li>
+            <li>需要更开放、更灵活的方案</li>
+          </ul>
+        </div>
+      </div>
+
+      <!-- Phase 3 -->
+      <div class="timeline-item phase-3">
+        <span class="phase-badge">🟡 阶段三</span>
+        <h3>BI CLI + Agent → 钉钉机器人（CRM 场景）</h3>
+        <p class="summary">
+          BI 开放 CLI 能力后，通过 Agent 产品（Qoderwork）连接到 BI 数据集，以钉钉机器人的方式嵌入群聊，实现 CRM 场景的 @机器人 问答。
+        </p>
+        <div class="info-grid">
+          <div class="info-box approach">
+            <div class="box-label">▸ 方案</div>
+            <ul>
+              <li>利用 BI 的 CLI 接口作为数据通道</li>
+              <li>通过 Qoderwork Agent 封装为对话服务</li>
+              <li>钉钉机器人 + IM 群聊模式，@ 触发问答</li>
+              <li>首批落地场景：CRM 数据查询</li>
+            </ul>
+          </div>
+          <div class="info-box pitfall">
+            <div class="box-label">▸ 踩坑</div>
+            <ul>
+              <li>数据范围受限：只能查询 BI 上已有的数据集</li>
+              <li>CLI 稳定性依赖 BI 平台，存在接口变动风险</li>
+              <li>场景单一：仅覆盖 CRM，难以扩展到其他业务域</li>
+            </ul>
+          </div>
+        </div>
+        <div class="info-box outcome" style="margin-top:12px;">
+          <div class="box-label">▸ 结论</div>
+          <ul>
+            <li>钉钉 + Agent 的 IM 模式验证成功</li>
+            <li>打通了"用户 → 钉钉 → Agent → BI → 数据"全链路</li>
+            <li>下一步：拓展到外卖等更多业务场景</li>
+          </ul>
+        </div>
+      </div>
+
+      <!-- Phase 4 -->
+      <div class="timeline-item phase-4">
+        <span class="phase-badge">🔴 阶段四</span>
+        <h3>阿里云 Ontology — 连接 PG 数据库</h3>
+        <p class="summary">
+          拓展外卖场景时发现外卖数据存储在阿里云 PostgreSQL 中，Agent 无法直连。通过阿里云 Ontology 能力连接 PG，封装为知识图谱并发布为 Skill，实现业务指标规则化查询。
+        </p>
+        <div class="info-grid">
+          <div class="info-box approach">
+            <div class="box-label">▸ 方案</div>
+            <ul>
+              <li>阿里云 Ontology 连接 PG 数据库</li>
+              <li>将数据表结构封装为知识图谱（语义层）</li>
+              <li>打包发布为 Skill，定义指标计算规则</li>
+              <li>业务通过 Skill 中的指标规则提问</li>
+            </ul>
+          </div>
+          <div class="info-box pitfall">
+            <div class="box-label">▸ 踩坑</div>
+            <ul>
+              <li>链路长：PG → Ontology → 知识图谱 → Skill → Agent</li>
+              <li>Ontology 建模成本高：需要人工定义实体关系与指标规则</li>
+              <li>依赖阿里云生态：绑定了特定云厂商能力</li>
+            </ul>
+          </div>
+        </div>
+        <div class="info-box outcome" style="margin-top:12px;">
+          <div class="box-label">▸ 结论</div>
+          <ul>
+            <li>突破了 Agent 无法直连 PG 的问题</li>
+            <li>语义层（知识图谱）在复杂业务问数中确实有价值</li>
+            <li>但链路过长，维护成本不可忽视</li>
+          </ul>
+        </div>
+      </div>
+
+      <!-- Phase 5 -->
+      <div class="timeline-item phase-5">
+        <span class="phase-badge">🟣 阶段五</span>
+        <h3>PG → MCP 直连 — 简化数据通道</h3>
+        <p class="summary">
+          发现可以将 PostgreSQL 封装为 MCP（Model Context Protocol），直接在 Agent 中使用，简化了中间层链路。
+        </p>
+        <div class="info-grid">
+          <div class="info-box approach">
+            <div class="box-label">▸ 方案</div>
+            <ul>
+              <li>将 PG 数据库封装为 MCP Server</li>
+              <li>Agent 通过 MCP 协议直连数据库</li>
+              <li>减少 Ontology / Skill 中间层</li>
+            </ul>
+          </div>
+          <div class="info-box outcome">
+            <div class="box-label">▸ 优势</div>
+            <ul>
+              <li>路径更短：Agent → MCP → PG</li>
+              <li>标准化协议：MCP 是行业通用标准</li>
+              <li>灵活性更高：可自主控制查询逻辑</li>
+            </ul>
+          </div>
+        </div>
+        <div class="info-box pitfall" style="margin-top:12px;">
+          <div class="box-label">▸ 新问题</div>
+          <ul>
+            <li>缺少语义层：直接暴露数据库表结构给大模型，理解准确率下降</li>
+            <li>安全风险：需要在 MCP 层做精细化的查询权限控制</li>
+            <li>复杂指标：跨表聚合、业务口径仍需 Skill 层定义</li>
+          </ul>
+        </div>
+      </div>
+
+      <!-- Phase 6 -->
+      <div class="timeline-item phase-6">
+        <span class="phase-badge">🩵 阶段六</span>
+        <h3>多平台横向评测</h3>
+        <p class="summary">
+          对多个 Agent 平台进行横向对比评测，寻找最合适的企业问数解决方案。
+        </p>
+        <div class="platform-grid">
+          <div class="platform-card">
+            <div class="platform-name">WorkBuddy</div>
+            <div class="platform-status tested">已评测</div>
+          </div>
+          <div class="platform-card">
+            <div class="platform-name">Tarework</div>
+            <div class="platform-status tested">已评测</div>
+          </div>
+          <div class="platform-card">
+            <div class="platform-name">Qoderwake</div>
+            <div class="platform-status tested">已评测</div>
+          </div>
+          <div class="platform-card">
+            <div class="platform-name">MuleRun</div>
+            <div class="platform-status tested">已评测</div>
+          </div>
+          <div class="platform-card">
+            <div class="platform-name">DataAgent</div>
+            <div class="platform-status focus">当前聚焦</div>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+  <!-- ==================== PITFALLS SECTION ==================== -->
+  <div id="pitfalls" class="section">
+    <h2 style="font-size:22px;margin-bottom:8px;">⚠️ 踩坑全景总结</h2>
+    <p style="color:var(--text-secondary);margin-bottom:24px;font-size:14px;">
+      按主题归类，覆盖数据、产品、架构、安全、成本五个维度的关键踩坑记录。
+    </p>
+
+    <table class="pitfall-summary-table">
+      <thead>
+        <tr>
+          <th style="width:100px;">主题</th>
+          <th>坑点</th>
+          <th>阶段</th>
+          <th style="width:80px;">严重程度</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td rowspan="3"><strong>数据连接</strong></td>
+          <td>Excel 离线导入无法实时同步业务数据</td>
+          <td>阶段一</td>
+          <td><span class="severity-badge high">高</span></td>
+        </tr>
+        <tr>
+          <td>Agent 无法直连阿里云 PG，需经过多层中间件</td>
+          <td>阶段四</td>
+          <td><span class="severity-badge high">高</span></td>
+        </tr>
+        <tr>
+          <td>BI CLI 数据范围受限，仅能查询已有数据集</td>
+          <td>阶段三</td>
+          <td><span class="severity-badge medium">中</span></td>
+        </tr>
+        <tr>
+          <td rowspan="3"><strong>产品限制</strong></td>
+          <td>ChatBI 输出行数限制，大结果集被截断</td>
+          <td>阶段二</td>
+          <td><span class="severity-badge high">高</span></td>
+        </tr>
+        <tr>
+          <td>不支持上传临时文件（Excel/CSV）进行即时分析</td>
+          <td>阶段二</td>
+          <td><span class="severity-badge medium">中</span></td>
+        </tr>
+        <tr>
+          <td>不支持关联历史提问，缺少上下文推理能力</td>
+          <td>阶段二</td>
+          <td><span class="severity-badge medium">中</span></td>
+        </tr>
+        <tr>
+          <td rowspan="2"><strong>数据安全</strong></td>
+          <td>样例数据上传第三方平台，存在数据泄露风险</td>
+          <td>阶段一</td>
+          <td><span class="severity-badge high">高</span></td>
+        </tr>
+        <tr>
+          <td>MCP 直连数据库缺少精细化查询权限控制</td>
+          <td>阶段五</td>
+          <td><span class="severity-badge high">高</span></td>
+        </tr>
+        <tr>
+          <td rowspan="2"><strong>架构复杂度</strong></td>
+          <td>Ontology 链路过长（PG→Ontology→KG→Skill→Agent）</td>
+          <td>阶段四</td>
+          <td><span class="severity-badge medium">中</span></td>
+        </tr>
+        <tr>
+          <td>MCP 直连缺少语义层，大模型对表结构理解准确率下降</td>
+          <td>阶段五</td>
+          <td><span class="severity-badge medium">中</span></td>
+        </tr>
+        <tr>
+          <td><strong>商业成本</strong></td>
+          <td>观远BI ChatBI 产品价格过高</td>
+          <td>阶段二</td>
+          <td><span class="severity-badge high">高</span></td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+
+  <!-- ==================== PROBLEMS SECTION ==================== -->
+  <div id="problems" class="section">
+    <h2 style="font-size:22px;margin-bottom:8px;">🔴 当前待解决问题</h2>
+    <p style="color:var(--text-secondary);margin-bottom:24px;font-size:14px;">
+      基于 DataAgent 评测结果，梳理的 5 项仍需解决的核心问题。
+    </p>
+
+    <div class="problem-list">
+
+      <div class="problem-card">
+        <div class="problem-num">01</div>
+        <span class="problem-category">知识管理</span>
+        <h4>每个 Agent 需要独立的知识库</h4>
+        <p class="problem-desc">
+          不能将所有业务知识都塞进 Skill 中。Agent 应当具备自己的知识库（Knowledge Base），用于存储业务术语定义、指标口径、常见问题答案等非结构化知识。Skill 应专注于可执行的操作定义，知识库应承担"业务字典"和"问答上下文"的角色。
+        </p>
+        <div class="problem-detail">
+          <ul>
+            <li>Skill 膨胀：将业务知识硬编码到 Skill 中导致 Skill 臃肿、难以维护</li>
+            <li>知识复用差：不同 Agent 之间的业务知识无法共享</li>
+            <li>更新滞后：业务口径变化时，Skill 更新需要技术介入</li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="problem-card">
+        <div class="problem-num">02</div>
+        <span class="problem-category">多租户隔离</span>
+        <h4>不同主题的 Agent 需要做权限与资源隔离</h4>
+        <p class="problem-desc">
+          外卖、CRM、财务等不同业务主题需要独立的 Agent 实例。每个 Agent 之间需要做数据权限、Skill 能力、以及模型资源的隔离，确保业务数据不交叉泄露、计算资源不互相抢占。
+        </p>
+        <div class="problem-detail">
+          <ul>
+            <li>数据隔离：CRM Agent 不能访问外卖数据库，反之亦然</li>
+            <li>Skill 隔离：不同业务的指标规则、查询逻辑不能混用</li>
+            <li>模型隔离：不同场景可能使用不同的模型（GPT / 开源模型），需要独立配置</li>
+            <li>资源隔离：高并发场景下避免 Agent 间资源争抢</li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="problem-card">
+        <div class="problem-num">03</div>
+        <span class="problem-category">可观测性</span>
+        <h4>用户问题追踪、Token 管理、溯源能力</h4>
+        <p class="problem-desc">
+          当前缺少完整的问题生命周期追踪体系。需要记录每个用户问题的完整链路——从提问到 Agent 推理、到数据查询、到最终回答，以及每一步消耗的 Token。当回答出现偏差时，需要能快速定位到是哪个环节出了问题。
+        </p>
+        <div class="problem-detail">
+          <ul>
+            <li>问题追踪：记录"谁在什么时候问了什么问题，得到了什么回答"</li>
+            <li>Token 管理：按用户 / 部门 / 时间维度统计模型调用成本</li>
+            <li>溯源：回答出错时，能追溯到是 SQL 写错、数据问题、还是大模型幻觉</li>
+            <li>审计：满足企业合规审计需求</li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="problem-card">
+        <div class="problem-num">04</div>
+        <span class="problem-category">权限映射</span>
+        <h4>数据权限与人员权限的对应关系</h4>
+        <p class="problem-desc">
+          数据库中的行级数据权限（如区域经理只能看自己区域的数据）需要与 Agent 层的用户身份体系建立映射。当前缺少从"钉钉用户"到"数据库权限"的自动化映射机制。
+        </p>
+        <div class="problem-detail">
+          <ul>
+            <li>行级安全：不同用户查询同一指标时应返回不同范围的数据</li>
+            <li>身份传递：钉钉用户身份需要透传到数据查询层</li>
+            <li>动态权限：人员调岗、离职等场景下权限需实时生效</li>
+            <li>权限审计：能够追溯"谁在什么时候访问了什么数据"</li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="problem-card">
+        <div class="problem-num">05</div>
+        <span class="problem-category">生态集成</span>
+        <h4>与钉钉及企业生态的深度集成</h4>
+        <p class="problem-desc">
+          钉钉是 Wagas 的一线业务入口，Agent 需要与钉钉深度集成——不仅是消息收发，还包括审批流、日程、待办、以及企业内部系统（ERP、HR 等）的打通。
+        </p>
+        <div class="problem-detail">
+          <ul>
+            <li>钉钉机器人消息体验优化：支持卡片消息、图文混排、快捷操作按钮</li>
+            <li>审批流集成：问数结果可直接触发审批流程（如异常数据告警 → 发起整改工单）</li>
+            <li>单点登录：统一钉钉身份认证，无需二次登录</li>
+            <li>企业系统打通：ERP、HR、POS 等系统数据通过统一入口查询</li>
+          </ul>
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+  <!-- ==================== ARCHITECTURE SECTION ==================== -->
+  <div id="architecture" class="section">
+    <h2 style="font-size:22px;margin-bottom:8px;">🏗️ 架构演进与目标蓝图</h2>
+    <p style="color:var(--text-secondary);margin-bottom:24px;font-size:14px;">
+      从探索期到当前状态，以及未来目标架构的全景分层视图。
+    </p>
+
+    <div class="arch-diagram">
+      <!-- Current State -->
+      <h3 style="font-size:16px;margin-bottom:16px;color:var(--text-primary);">已实现层</h3>
+
+      <div class="arch-layer users">
+        <div class="layer-title">📱 用户接入层 · 已实现</div>
+        <div class="layer-content">一线业务人员通过钉钉群 @机器人 触发问答</div>
+        <div class="layer-items">
+          <span class="layer-tag">钉钉机器人</span>
+          <span class="layer-tag">@ 触发</span>
+          <span class="layer-tag">IM 群聊</span>
+        </div>
+      </div>
+
+      <div class="arch-layer access">
+        <div class="layer-title">🔗 Agent 接入层 · 部分实现</div>
+        <div class="layer-content">Agent 平台接收用户提问，调度推理与工具调用</div>
+        <div class="layer-items">
+          <span class="layer-tag">DataAgent</span>
+          <span class="layer-tag">Skill 定义</span>
+          <span class="layer-tag">MCP 连接</span>
+        </div>
+      </div>
+
+      <div class="arch-layer connect">
+        <div class="layer-title">🔌 数据连接层 · 已实现多种方案</div>
+        <div class="layer-content">通过多种协议连接不同数据源</div>
+        <div class="layer-items">
+          <span class="layer-tag">BI CLI</span>
+          <span class="layer-tag">MCP (PG)</span>
+          <span class="layer-tag">Ontology/KG</span>
+          <span class="layer-tag">API</span>
+        </div>
+      </div>
+
+      <div class="arch-layer data">
+        <div class="layer-title">🗄️ 数据源层 · 已接入</div>
+        <div class="layer-content">企业核心业务数据存储</div>
+        <div class="layer-items">
+          <span class="layer-tag">BI 数据集 (CRM)</span>
+          <span class="layer-tag">阿里云 PG (外卖)</span>
+          <span class="layer-tag">Excel 离线数据</span>
+        </div>
+      </div>
+
+      <!-- Gaps -->
+      <h3 style="font-size:16px;margin:28px 0 16px;color:var(--accent-red);">❌ 能力缺失层（待建设）</h3>
+
+      <div class="arch-layer gap">
+        <div class="layer-title">📚 知识库层 · 待建设</div>
+        <div class="layer-content">每个 Agent 需要独立的知识库：业务术语、指标口径、FAQ、上下文记忆</div>
+        <div class="layer-items">
+          <span class="layer-tag">业务字典</span>
+          <span class="layer-tag">指标口径库</span>
+          <span class="layer-tag">问答历史</span>
+          <span class="layer-tag">RAG 检索</span>
+        </div>
+      </div>
+
+      <div class="arch-layer gap">
+        <div class="layer-title">🛡️ 权限与隔离层 · 待建设</div>
+        <div class="layer-content">按业务主题隔离 Agent 实例，映射数据权限与用户身份</div>
+        <div class="layer-items">
+          <span class="layer-tag">Agent 隔离</span>
+          <span class="layer-tag">行级数据权限</span>
+          <span class="layer-tag">身份映射</span>
+          <span class="layer-tag">RBAC</span>
+        </div>
+      </div>
+
+      <div class="arch-layer gap">
+        <div class="layer-title">📊 可观测性层 · 待建设</div>
+        <div class="layer-content">问题生命周期追踪、Token 消耗统计、回答溯源审计</div>
+        <div class="layer-items">
+          <span class="layer-tag">问题追踪</span>
+          <span class="layer-tag">Token 管理</span>
+          <span class="layer-tag">溯源日志</span>
+          <span class="layer-tag">审计报表</span>
+        </div>
+      </div>
+
+      <div class="arch-layer gap">
+        <div class="layer-title">🔗 生态集成层 · 待增强</div>
+        <div class="layer-content">钉钉深度集成、企业系统打通、工作流自动化</div>
+        <div class="layer-items">
+          <span class="layer-tag">钉钉卡片消息</span>
+          <span class="layer-tag">审批流集成</span>
+          <span class="layer-tag">SSO 单点登录</span>
+          <span class="layer-tag">ERP/HR 打通</span>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</div>
+
+<div class="footer">
+  Wagas IT · AI 企业问数探索记录 · 持续更新中 · Last updated 2026-07-03
+</div>
+
+<script>
+  function switchSection(name) {
+    document.querySelectorAll('.section').forEach(s => s.classList.remove('active'));
+    document.querySelectorAll('.section-tab').forEach(t => t.classList.remove('active'));
+    document.getElementById(name).classList.add('active');
+    event.target.classList.add('active');
+  }
+</script>
+
+</body>
+</html>
