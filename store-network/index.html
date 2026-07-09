@@ -156,7 +156,7 @@ function createPopup(s){
     }
   }
 
-  h+='<button class="btn btn-heat" onclick="toggleHeat(''+s.sid+'',this)" style="margin-top:8px">'+
+  h+='<button class="btn btn-heat" data-sid="'+s.sid+'" onclick="toggleHeat(this.dataset.sid,this)" style="margin-top:8px">'+
     '&#128293; 外卖热力图</button>';
   h+='</div>';return h;
 }
