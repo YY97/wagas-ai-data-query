@@ -9,60 +9,114 @@
 <style>
 *{margin:0;padding:0;box-sizing:border-box}
 html,body{height:100vh;overflow:hidden}
-body{font-family:-apple-system,"SF Pro","PingFang SC","Microsoft YaHei",sans-serif;background:#0f172a;color:#e2e8f0}
-#map{position:absolute;top:0;left:320px;right:0;bottom:0}
-.panel{position:absolute;top:0;left:0;width:310px;height:100vh;overflow-y:auto;
-  background:#1e293b;padding:16px;z-index:1000;border-right:1px solid #334155}
-h1{font-size:17px;font-weight:700;color:#f8fafc;margin-bottom:4px;line-height:1.3}
-.subtitle{font-size:11px;color:#94a3b8;margin-bottom:12px;line-height:1.6}
-.stat-row{display:flex;justify-content:space-between;font-size:12px;padding:5px 0;border-bottom:1px solid #334155}
-.stat-label{color:#94a3b8}.stat-value{color:#f8fafc;font-weight:600}
-.section{margin-top:12px;padding-top:8px;border-top:1px solid #334155}
-.section-title{font-size:12px;font-weight:600;color:#cbd5e1;margin-bottom:6px}
-.band-stat{display:flex;align-items:center;gap:6px;font-size:11px;padding:2px 0}
-.dot{width:10px;height:10px;border-radius:50%;flex-shrink:0}
+body{font-family:-apple-system,"SF Pro","PingFang SC","Microsoft YaHei",sans-serif;background:#f1f5f9;color:#1e293b}
+#map{position:absolute;top:0;left:360px;right:0;bottom:0;z-index:1}
+
+/* ====== 侧栏 ====== */
+.panel{position:absolute;top:0;left:0;width:350px;height:100vh;overflow-y:auto;overflow-x:hidden;
+  background:#fff;padding:20px 18px;z-index:1000;
+  box-shadow:2px 0 12px rgba(0,0,0,0.06);border-right:1px solid #e2e8f0}
+
+/* ====== 标题区 ====== */
+.panel h1{font-size:16px;font-weight:700;color:#0f172a;margin-bottom:2px;letter-spacing:-0.3px}
+.subtitle{font-size:11px;color:#64748b;margin-bottom:16px;line-height:1.5}
+.subtitle strong{color:#334155;font-weight:600}
+
+/* ====== 指标卡片 ====== */
+.kpi-grid{display:grid;grid-template-columns:1fr 1fr;gap:8px;margin-bottom:16px}
+.kpi-card{background:#f8fafc;border-radius:8px;padding:10px 12px;border:1px solid #e2e8f0}
+.kpi-label{font-size:10px;color:#64748b;margin-bottom:2px;text-transform:uppercase;letter-spacing:0.3px}
+.kpi-value{font-size:18px;font-weight:700;color:#0f172a;line-height:1.2}
+.kpi-sub{font-size:10px;color:#94a3b8;margin-top:1px}
+
+/* ====== 分区 ====== */
+.section{margin-bottom:14px}
+.section-title{font-size:11px;font-weight:700;color:#475569;margin-bottom:6px;
+  text-transform:uppercase;letter-spacing:0.5px;display:flex;align-items:center;gap:6px}
+.section-title::after{content:"";flex:1;height:1px;background:#e2e8f0}
+
+/* ====== 筛选器 ====== */
 .filter-group{margin-bottom:6px}
-.filter-group label{display:block;font-size:10px;color:#94a3b8;margin-bottom:2px}
-.filter-group select,input{width:100%;padding:4px 6px;border-radius:5px;
-  border:1px solid #475569;background:#0f172a;color:#e2e8f0;font-size:11px;outline:none}
-.btn{display:inline-block;padding:4px 10px;margin-top:6px;border-radius:4px;border:none;
+.filter-group label{display:block;font-size:10px;color:#64748b;margin-bottom:2px;font-weight:500}
+.filter-group select, .filter-group input{width:100%;padding:6px 8px;border-radius:6px;
+  border:1px solid #cbd5e1;background:#fff;color:#1e293b;font-size:12px;outline:none;
+  transition:border-color 0.15s;appearance:none;-webkit-appearance:none;
+  background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 12 12'%3E%3Cpath d='M3 5l3 3 3-3' fill='none' stroke='%2394a3b8' stroke-width='1.5'/%3E%3C/svg%3E");
+  background-repeat:no-repeat;background-position:right 8px center;padding-right:28px}
+.filter-group select:hover, .filter-group input:hover{border-color:#94a3b8}
+.filter-group select:focus, .filter-group input:focus{border-color:#f97316;box-shadow:0 0 0 2px rgba(249,115,22,0.1)}
+
+/* ====== 图层开关 ====== */
+.toggle-item{display:flex;align-items:center;justify-content:space-between;
+  padding:6px 10px;margin-bottom:4px;font-size:11px;color:#475569;
+  background:#f8fafc;border-radius:6px;border:1px solid #e2e8f0;
+  transition:background 0.15s}
+.toggle-item:hover{background:#f1f5f9}
+.toggle-item input[type="checkbox"]{width:32px;height:18px;appearance:none;background:#cbd5e1;
+  border-radius:9px;position:relative;cursor:pointer;transition:0.2s;border:none}
+.toggle-item input[type="checkbox"]:checked{background:#f97316}
+.toggle-item input[type="checkbox"]::after{content:"";position:absolute;width:14px;height:14px;
+  background:#fff;border-radius:50%;top:2px;left:2px;transition:0.2s;box-shadow:0 1px 2px rgba(0,0,0,0.2)}
+.toggle-item input[type="checkbox"]:checked::after{left:16px}
+
+/* ====== ADS 分段 ====== */
+.band-grid{display:grid;grid-template-columns:1fr 1fr;gap:4px}
+.band-stat{display:flex;align-items:center;gap:6px;font-size:11px;padding:4px 8px;
+  background:#f8fafc;border-radius:5px;border:1px solid #e2e8f0;color:#475569}
+.dot{width:10px;height:10px;border-radius:3px;flex-shrink:0}
+
+/* ====== 按钮 ====== */
+.btn{display:inline-block;padding:4px 10px;margin-top:6px;border-radius:5px;border:none;
   font-size:11px;font-weight:600;cursor:pointer;transition:0.15s}
 .btn-heat{background:#f97316;color:#fff}
-.btn-heat.active{background:#dc2626}
-.btn-heat:hover{opacity:0.85}
-.toggle-item{display:flex;align-items:center;justify-content:space-between;padding:4px 0;font-size:11px;color:#cbd5e1}
-.legend{position:absolute;bottom:40px;left:330px;background:#1e293b;border:1px solid #334155;
-  border-radius:8px;padding:10px;font-size:10px;z-index:999;max-width:150px}
-.legend-title{font-weight:600;color:#cbd5e1;margin-bottom:4px}
-.legend-item{display:flex;align-items:center;gap:4px;padding:1px 0}
+.btn-heat.active{background:#dc2626;color:#fff}
+.btn-heat:hover{opacity:0.9}
+.btn-heat.loading{background:#94a3b8;pointer-events:none}
+
+/* ====== 图例 ====== */
+.legend{position:absolute;bottom:40px;left:370px;background:#fff;border:1px solid #e2e8f0;
+  border-radius:8px;padding:10px 12px;font-size:10px;z-index:999;box-shadow:0 2px 8px rgba(0,0,0,0.08)}
+.legend-title{font-weight:600;color:#475569;margin-bottom:4px}
+.legend-item{display:flex;align-items:center;gap:5px;padding:1px 0;color:#64748b}
+
+/* ====== 热力图提示 ====== */
+.heat-info{position:absolute;top:12px;right:12px;background:rgba(255,255,255,0.95);color:#1e293b;
+  padding:8px 14px;border-radius:8px;font-size:12px;z-index:999;display:none;
+  box-shadow:0 2px 10px rgba(0,0,0,0.1);border:1px solid #e2e8f0}
+.heat-info .heat-count{font-weight:700;color:#f97316}
+
+/* ====== 地图标记 ====== */
 .custom-marker{background:transparent!important}
 @keyframes pulse{0%,100%{opacity:1}50%{opacity:0.4}}
-.heat-info{position:absolute;top:10px;right:10px;background:#1e293bcc;color:#f8fafc;
-  padding:6px 10px;border-radius:6px;font-size:11px;z-index:999;display:none}
+
+/* ====== Toast 提示 ====== */
+.toast{position:fixed;top:16px;left:50%;transform:translateX(-50%);z-index:9999;
+  background:#1e293b;color:#f8fafc;padding:10px 20px;border-radius:8px;font-size:13px;
+  box-shadow:0 4px 16px rgba(0,0,0,0.2);animation:toastIn 0.3s ease}
+@keyframes toastIn{from{opacity:0;transform:translateX(-50%) translateY(-8px)}to{opacity:1;transform:translateX(-50%) translateY(0)}}
 </style></head><body>
 
 <div class="panel">
-<h1>📍 Wagas 门店网络效率诊断</h1>
-<div class="subtitle" id="panel-date">数据日期: <strong id="cur-date-display">2026-07-08</strong><br>
-352 店 · 日均 ¥14,621 · 1km覆盖圈</div>
+<h1>Wagas 门店网络效率诊断</h1>
+<div class="subtitle" id="panel-date">快照: <strong id="cur-date-display">2026-07-08</strong> &nbsp;·&nbsp; 352 家门店</div>
 
-<div class="stat-row"><span class="stat-label">地图门店数</span><span class="stat-value">352</span></div>
-<div class="stat-row"><span class="stat-label">平均当日销售额</span><span class="stat-value" id="stat-avg">¥14,621</span></div>
-<div class="stat-row"><span class="stat-label">1km 重合均值</span><span class="stat-value">0.9 家</span></div>
-<div class="stat-row"><span class="stat-label">单日外卖配送点</span><span class="stat-value">117,700 (7天)</span></div>
+<div class="kpi-grid">
+<div class="kpi-card"><div class="kpi-label">日均销售额</div><div class="kpi-value" id="stat-avg">¥14,621</div><div class="kpi-sub">所选日期</div></div>
+<div class="kpi-card"><div class="kpi-label">1km 重合</div><div class="kpi-value">0.9<span style="font-size:12px;color:#64748b"> 家</span></div><div class="kpi-sub">均值 / 最大 5</div></div>
+</div>
 
-<div class="section"><div class="section-title">ADS 分段分布</div>
-<div id="band-dist">
+<div class="section"><div class="section-title">ADS 分布</div>
+<div class="band-grid" id="band-dist">
 <div class="band-stat"><span class="dot" style="background:#93c5fd"></span>&lt;5K: 0</div>
 <div class="band-stat"><span class="dot" style="background:#86efac"></span>5-10K: 0</div>
 <div class="band-stat"><span class="dot" style="background:#fdba74"></span>10-20K: 0</div>
 <div class="band-stat"><span class="dot" style="background:#fca5a5"></span>&gt;20K: 0</div>
 </div></div>
 
-<div class="section"><div class="section-title">📅 日期筛选</div>
+<div class="section"><div class="section-title">📅 日期</div>
 <div class="filter-group"><select id="date-filter" onchange="onDateChange()"><option value="">全部日期(均值)</option><option value="2026-07-08" selected>2026-07-08</option><option value="2026-07-07" >2026-07-07</option><option value="2026-07-06" >2026-07-06</option><option value="2026-07-05" >2026-07-05</option><option value="2026-07-04" >2026-07-04</option><option value="2026-07-03" >2026-07-03</option></select></div></div>
 
-<div class="section"><div class="section-title">🔍 品牌/城市/销售额</div>
+<div class="section"><div class="section-title">🔍 筛选</div>
 <div class="filter-group"><select id="brand-filter" onchange="applyFilter()">
 <option value="all">全部品牌</option>
 <option value="Wagas">Wagas (236)</option>
@@ -75,17 +129,16 @@ h1{font-size:17px;font-weight:700;color:#f8fafc;margin-bottom:4px;line-height:1.
 <option value="all">全部城市</option><option value="上海市">上海市</option><option value="北京市">北京市</option><option value="南京市">南京市</option><option value="天津市">天津市</option><option value="宁波市">宁波市</option><option value="广州市">广州市</option><option value="成都市">成都市</option><option value="无锡市">无锡市</option><option value="昆山市">昆山市</option><option value="杭州市">杭州市</option><option value="武汉市">武汉市</option><option value="深圳市">深圳市</option><option value="温州市">温州市</option><option value="珠海市">珠海市</option><option value="苏州市">苏州市</option><option value="西安市">西安市</option><option value="重庆市">重庆市</option><option value="青岛市">青岛市</option></select></div>
 <div class="filter-group"><select id="ads-filter" onchange="applyFilter()">
 <option value="all">全部 ADS 区间</option>
-<option value="lt5000">&lt;5,000</option><option value="5000to10000">5-10K</option>
-<option value="10000to20000">10-20K</option><option value="gt20000">&gt;20K</option>
+<option value="lt5000">&lt;5,000</option><option value="5000to10000">5,000-10,000</option>
+<option value="10000to20000">10,000-20,000</option><option value="gt20000">&gt;20,000</option>
 </select></div>
 <div class="filter-group"><input id="search-input" placeholder="搜索门店名称..." oninput="applyFilter()"></div></div>
 
-<div class="section"><div class="section-title">🎛 图层开关</div>
+<div class="section"><div class="section-title">🎛 图层</div>
 <div class="toggle-item"><span>门店点位</span><input type="checkbox" id="show-markers" checked onchange="applyFilter()"></div>
 <div class="toggle-item"><span>1km 覆盖圈</span><input type="checkbox" id="show-circles" checked onchange="applyFilter()"></div>
-<div class="toggle-item"><span>高亮重合</span><input type="checkbox" id="highlight-overlap" onchange="applyFilter()"></div>
-<div class="toggle-item"><span>按销售额着色</span><input type="checkbox" id="color-by-ads" checked onchange="applyFilter()"></div>
-</div>
+<div class="toggle-item"><span>高亮重合区域</span><input type="checkbox" id="highlight-overlap" onchange="applyFilter()"></div>
+<div class="toggle-item"><span>按销售额着色</span><input type="checkbox" id="color-by-ads" checked onchange="applyFilter()"></div></div>
 </div>
 
 <div id="map"></div>
@@ -162,9 +215,9 @@ function createPopup(s){
 }
 
 function toggleHeat(sid,btn){
-  if(!deliveryData){alert("外卖数据加载中,请稍候");return}
+  if(!deliveryData){showToast("外卖数据加载中，请稍候");btn.classList.add("loading");setTimeout(function(){btn.classList.remove("loading")},2000);return}
   var pts=deliveryData[sid];
-  if(!pts||!pts.length){alert("该门店无外卖配送数据");return}
+  if(!pts||!pts.length){showToast("该门店暂无外卖配送数据");return}
 
   if(activeHeatStore===sid){
     // 关闭热力
@@ -188,9 +241,8 @@ function toggleHeat(sid,btn){
 
   activeHeatStore=sid;
   document.getElementById("heat-info").style.display="block";
-  document.getElementById("heat-info").innerHTML="🔥 "+s.name+" · "+
-    pts.length+"个配送点(7天) · 点击已选门店关闭";
-  btn.classList.add("active");btn.textContent="🔥 关闭热力图";
+  document.getElementById("heat-info").innerHTML='<span class="heat-count">'+pts.length+'</span> 个配送地址(7天) &nbsp;·&nbsp; 再次点击关闭';
+  btn.classList.add("active");btn.textContent="关闭热力图";
 }
 
 function passFilters(s){
@@ -272,6 +324,12 @@ function updateStats(fs){
     '<div class="band-stat"><span class="dot" style="background:#86efac"></span>5-10K: '+bs["5-10K"]+'</div>'+
     '<div class="band-stat"><span class="dot" style="background:#fdba74"></span>10-20K: '+bs["10-20K"]+'</div>'+
     '<div class="band-stat"><span class="dot" style="background:#fca5a5"></span>&gt;20K: '+bs[">20K"]+'</div>';
+}
+
+// Toast 通知
+function showToast(msg,dur){dur=dur||2000;
+  var t=document.createElement("div");t.className="toast";t.textContent=msg;document.body.appendChild(t);
+  setTimeout(function(){t.remove()},dur);
 }
 
 function onDateChange(){
