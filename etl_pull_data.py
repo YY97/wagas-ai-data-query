@@ -39,7 +39,7 @@ SM_COLS = [
     "是否为子店", "门店状态", "开业日期", "门店地址(中文)",
 ]
 
-HOURLY_COLS = ["StoreID", "orderDate", "revenue", "TC"]
+HOURLY_COLS = ["StoreID", "orderDate", "revenue", "TC", "orderType_Level1"]
 
 
 # ===== 跨平台 guancli 查找 =====
@@ -217,18 +217,30 @@ def pull_daily_sales(days_back, output_dir):
 
     print(f"  总计拉取: {len(all_raw)} 行")
 
-    # 聚合: StoreID x orderDate
+    # 聚合: StoreID x orderDate (日汇总)  +  StoreID x orderDate x orderType_Level1 (渠道拆分)
     agg = {}
+    ch_agg = {}
     for row in all_raw:
         sid = str(row.get("StoreID", ""))
         od = str(row.get("orderDate", ""))
         if not sid or not od:
             continue
+        rev = float(row.get("revenue", 0) or 0)
+        tc = int(row.get("TC", 0) or 0)
+        # 日汇总
         key = (sid, od)
         if key not in agg:
             agg[key] = {"revenue": 0.0, "orders": 0}
-        agg[key]["revenue"] += float(row.get("revenue", 0) or 0)
-        agg[key]["orders"] += int(row.get("TC", 0) or 0)
+        agg[key]["revenue"] += rev
+        agg[key]["orders"] += tc
+        # 渠道拆分
+        ot = str(row.get("orderType_Level1", "")).strip()
+        if ot:
+            ch_key = (sid, od, ot)
+            if ch_key not in ch_agg:
+                ch_agg[ch_key] = {"revenue": 0.0, "orders": 0}
+            ch_agg[ch_key]["revenue"] += rev
+            ch_agg[ch_key]["orders"] += tc
 
     result = []
     for (sid, od), v in sorted(agg.items()):
@@ -259,6 +271,27 @@ def pull_daily_sales(days_back, output_dir):
         for key in sorted(existing.keys()):
             w.writerow(existing[key])
     print(f"  -> {csv_path} ({len(existing)} 行)")
+
+    # 渠道拆分 CSV（合并已有数据）
+    ch_csv_path = os.path.join(output_dir, "store_channel_sales.csv")
+    ch_existing = {}
+    if os.path.exists(ch_csv_path):
+        with open(ch_csv_path, "r", encoding="utf-8-sig") as f:
+            for row in csv.DictReader(f):
+                ch_key = (row["门店ID"], row["营业日期"], row["渠道"])
+                ch_existing[ch_key] = {
+                    "revenue": float(row["渠道销售额"]),
+                    "orders": int(row["渠道订单量"])
+                }
+    for (sid, od, ot), v in ch_agg.items():
+        ch_existing[(sid, od, ot)] = {"revenue": round(v["revenue"], 2), "orders": v["orders"]}
+    with open(ch_csv_path, "w", newline="", encoding="utf-8-sig") as f:
+        w = csv.writer(f)
+        w.writerow(["门店ID", "营业日期", "渠道", "渠道销售额", "渠道订单量"])
+        for key in sorted(ch_existing.keys()):
+            sid, od, ot = key
+            w.writerow([sid, od, ot, ch_existing[key]["revenue"], ch_existing[key]["orders"]])
+    print(f"  -> {ch_csv_path} ({len(ch_existing)} 行)")
 
     # 最新一天各店 ADS (供地图)
     latest = max(unique_dates, key=lambda d: d) if unique_dates else ""

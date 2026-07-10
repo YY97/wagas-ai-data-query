@@ -44,12 +44,6 @@ jobs:
         working-directory: ${{ github.workspace }}
         continue-on-error: true
 
-      - name: 拉取渠道销售拆分
-        id: channel
-        run: python etl_channel_sales.py 2 --output-dir ./output
-        working-directory: ${{ github.workspace }}
-        continue-on-error: true
-
       - name: 刷新外卖配送点
         id: delivery
         run: python etl_delivery_heatmap.py 30
