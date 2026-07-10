@@ -50,12 +50,16 @@ jobs:
           EOF
 
       - name: 拉取昨天销售数据
+        id: sales
         run: python etl_pull_data.py --days 1 --output-dir ./output
         working-directory: ${{ github.workspace }}
+        continue-on-error: true
 
       - name: 刷新外卖配送点
+        id: delivery
         run: python etl_delivery_heatmap.py 30
         working-directory: ${{ github.workspace }}
+        continue-on-error: true
 
       - name: 生成地图
         run: python gen_coverage_v4.py

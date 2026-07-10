@@ -130,9 +130,15 @@ for sid, points in store_points.items():
 
 print(f"\n聚合结果:")
 print(f"  门店数: {len(result)}")
-print(f"  唯一点: {total_points} (原始 {len(all_rows)} 行, 去重率 {total_points/len(all_rows)*100:.1f}%)")
-print(f"  最大权重: {max_weight}")
-print(f"  平均每店点数: {total_points/len(result):.1f}")
+if len(all_rows) > 0:
+    print(f"  唯一点: {total_points} (原始 {len(all_rows)} 行, 去重率 {total_points/len(all_rows)*100:.1f}%)")
+    print(f"  最大权重: {max_weight}")
+    print(f"  平均每店点数: {total_points/len(result):.1f}")
+else:
+    print(f"  唯一点: 0 (原始 0 行)")
+    print(f"  最大权重: 0")
+    print(f"  平均每店点数: 0")
+    print(f"  [警告] 没有数据，保留上一次 delivery_points.json")
 
 # 输出 JSON
 out_path = os.path.join(OUTPUT_DIR, "delivery_points.json")
