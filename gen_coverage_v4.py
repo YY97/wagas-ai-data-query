@@ -86,20 +86,36 @@ else:
                 store_ads.setdefault(sid, {})[od] = ds
                 all_dates.add(od)
 
-# 只保留最近 N 天
+# 只保留最近 N 个自然日
+from datetime import datetime, timedelta
 LOOKBACK_DAYS = 30
 sorted_dates = sorted(all_dates)
 if sorted_dates:
-    # 从最新日期开始取 LOOKBACK_DAYS 个有数据的日期（跳过中间无数据的自然日）
-    recent_dates = sorted_dates[-LOOKBACK_DAYS:] if len(sorted_dates) >= LOOKBACK_DAYS else sorted_dates
-    start_date = recent_dates[0]
+    # 以最新数据日期为终点，往前推 30 个自然日
+    latest = datetime.strptime(sorted_dates[-1], "%Y-%m-%d")
+    start_dt = latest - timedelta(days=LOOKBACK_DAYS - 1)
+    start_date = start_dt.strftime("%Y-%m-%d")
+    # 生成完整的 30 天日期序列
+    expected_dates = set()
+    d = start_dt
+    while d <= latest:
+        expected_dates.add(d.strftime("%Y-%m-%d"))
+        d += timedelta(days=1)
+    # 检测缺失日期
+    missing = sorted(expected_dates - all_dates)
+    if missing:
+        print(f"   [WARN] 30天内缺少 {len(missing)} 天数据: {', '.join(missing[:10])}" + (" ..." if len(missing) > 10 else ""))
+    else:
+        print(f"   30天数据完整，无缺失")
+    # 过滤：只保留窗口内的数据
     trimmed = 0
     for sid in list(store_ads.keys()):
-        store_ads[sid] = {d: v for d, v in store_ads[sid].items() if d >= start_date}
+        store_ads[sid] = {d: v for d, v in store_ads[sid].items() if start_date <= d <= sorted_dates[-1]}
         if not store_ads[sid]:
             del store_ads[sid]
             trimmed += 1
-    print(f"   全量: {len(sorted_dates)} 天 → 最新 {LOOKBACK_DAYS} 天: {len(recent_dates)} 天 ({start_date}~{recent_dates[-1]})")
+    recent_dates = sorted(expected_dates & all_dates)
+    print(f"   全量: {len(sorted_dates)} 天 -> 自然日窗口: {start_date}~{sorted_dates[-1]} ({len(recent_dates)}/{LOOKBACK_DAYS} 天有数据)")
 else:
     recent_dates = []
     start_date = ""
