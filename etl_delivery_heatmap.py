@@ -70,6 +70,7 @@ start = today - timedelta(days=DAYS - 1)
 
 # 逐天拉取 (单日约 30K, 不截断)
 all_rows = []
+missing_dates = []
 current = start
 while current <= today:
     ds = current.isoformat()
@@ -97,9 +98,15 @@ while current <= today:
 
     print(f"  {ds}: {len(data)} 行{' [TRUNCATED]' if len(data)>=50000 else ''}")
     all_rows.extend(data)
+    if not data:
+        missing_dates.append(ds)
     current += timedelta(days=1)
 
 print(f"\n总计: {len(all_rows)} 行")
+if missing_dates:
+    print(f"  [WARN] {DAYS}天内缺少 {len(missing_dates)} 天数据: {', '.join(missing_dates[:10])}" + (" ..." if len(missing_dates) > 10 else ""))
+else:
+    print(f"  {DAYS}天数据完整，无缺失")
 
 # 按 store_id → (lat, lng) → 去重+累加权重
 store_points = defaultdict(lambda: defaultdict(int))  # store_points[sid][(lat,lng)] = weight

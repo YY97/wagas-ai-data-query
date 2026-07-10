@@ -40,7 +40,7 @@ jobs:
 
       - name: 拉取昨天销售数据
         id: sales
-        run: python etl_pull_data.py --days 1 --output-dir ./output
+        run: python etl_pull_data.py --days 2 --output-dir ./output
         working-directory: ${{ github.workspace }}
         continue-on-error: true
 
