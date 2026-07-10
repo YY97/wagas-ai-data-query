@@ -57,11 +57,12 @@ jobs:
       - name: 拷贝文件到发布目录
         shell: powershell
         run: |
+          New-Item -ItemType Directory -Force -Path store-network | Out-Null
           if (Test-Path wagas_stores_coverage_v4.html) {
             Copy-Item -Force wagas_stores_coverage_v4.html store-network/index.html
             Write-Host "HTML copied"
           } else {
-            Write-Host "HTML not generated (0 stores), skipping"
+            Write-Host "HTML not generated, skipping"
           }
           if (Test-Path output/delivery_points_compact.json) {
             Copy-Item -Force output/delivery_points_compact.json store-network/delivery_points_compact.json
