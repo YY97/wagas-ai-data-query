@@ -8,46 +8,13 @@ on:
 
 jobs:
   update:
-    runs-on: ubuntu-latest
+    runs-on: self-hosted
     permissions:
       contents: write
 
     steps:
       - name: 检出代码
         uses: actions/checkout@v4
-
-      - name: 安装 Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.10'
-
-      - name: 安装 Node.js & guancli
-        uses: actions/setup-node@v4
-        with:
-          node-version: '22'
-      - run: npm install -g @guandata/guancli
-
-      - name: 配置 guancli & 环境变量
-        run: |
-          # 设置 GUANCLI_JS 让 Python 脚本能找到 run.js
-          export GUANCLI_JS=$(npm root -g)/@guandata/guancli/bin/run.js
-          echo "GUANCLI_JS=$GUANCLI_JS" >> $GITHUB_ENV
-          # 写配置文件
-          mkdir -p ~/.guancli
-          cat > ~/.guancli/config.json << 'EOF'
-          {
-            "profiles": {
-              "wagas": {
-                "name": "wagas",
-                "base_url": "https://bi.wagas.com.cn",
-                "domain": "wagas",
-                "login_id": "${{ secrets.GUANCLI_USER }}",
-                "password": "${{ secrets.GUANCLI_PASS }}",
-                "auth_method": "password"
-              }
-            }
-          }
-          EOF
 
       - name: 拉取昨天销售数据
         id: sales
@@ -66,13 +33,17 @@ jobs:
         working-directory: ${{ github.workspace }}
 
       - name: 拷贝文件到发布目录
+        shell: pwsh
         run: |
-          cp wagas_stores_coverage_v4.html store-network/index.html
-          cp output/delivery_points_compact.json store-network/delivery_points_compact.json
+          Copy-Item -Force wagas_stores_coverage_v4.html store-network/index.html
+          Copy-Item -Force output/delivery_points_compact.json store-network/delivery_points_compact.json
+        working-directory: ${{ github.workspace }}
 
       - name: 提交并推送到 GitHub
+        shell: bash
         run: |
           git config user.name "Wagas Bot"
           git config user.email "bot@wagas.com"
           git add store-network/index.html store-network/delivery_points_compact.json output/
           git diff --staged --quiet || (git commit -m "Daily update $(date +%Y-%m-%d)" && git push)
+        working-directory: ${{ github.workspace }}
