@@ -252,20 +252,26 @@ for s in stores:
         "delivery_pct": round(delivery_total / total_rev * 100, 1) if total_rev > 0 else None,
         "days": ch_days
     }
-    # 配送距离分布（从 delivery_points 计算）
+    # 配送距离分布（互斥区间，加起来 = 100%）
     pts = delivery_data.get(sid, [])
-    d1 = d2 = d3 = d_total = 0
+    d1 = d2 = d3 = d4 = d_total = 0
     for p in pts:
         dist = hd(s["lat"], s["lng"], p["lat"], p["lng"])
         w = p.get("w", 1)
         d_total += w
-        if dist <= 1.0: d1 += w
-        if dist <= 2.0: d2 += w
-        if dist <= 3.0: d3 += w
+        if dist <= 1.0:
+            d1 += w
+        elif dist <= 2.0:
+            d2 += w
+        elif dist <= 3.0:
+            d3 += w
+        else:
+            d4 += w
     s["dist"] = {
         "d1_pct": round(d1 / d_total * 100, 1) if d_total > 0 else None,
         "d2_pct": round(d2 / d_total * 100, 1) if d_total > 0 else None,
         "d3_pct": round(d3 / d_total * 100, 1) if d_total > 0 else None,
+        "d4_pct": round(d4 / d_total * 100, 1) if d_total > 0 else None,
         "total_orders": d_total
     }
 
@@ -526,10 +532,11 @@ function createPopup(s){{
     var dt=s.dist;
     h+='<div style="margin-top:6px;padding:6px 8px;background:#fef3c7;border-left:3px solid #d97706;border-radius:3px;font-size:10px">';
     h+='<div style="font-weight:700;color:#92400e;margin-bottom:3px">外卖订单距离分布 ('+dt.total_orders+'单)</div>';
-    h+='<div style="display:grid;grid-template-columns:1fr 1fr 1fr;gap:2px;text-align:center">';
+    h+='<div style="display:grid;grid-template-columns:1fr 1fr 1fr 1fr;gap:2px;text-align:center">';
     h+='<div>&le;1km<br><b>'+(dt.d1_pct!=null?dt.d1_pct+'%':'N/A')+'</b></div>';
-    h+='<div>&le;2km<br><b>'+(dt.d2_pct!=null?dt.d2_pct+'%':'N/A')+'</b></div>';
-    h+='<div>&le;3km<br><b>'+(dt.d3_pct!=null?dt.d3_pct+'%':'N/A')+'</b></div>';
+    h+='<div>1-2km<br><b>'+(dt.d2_pct!=null?dt.d2_pct+'%':'N/A')+'</b></div>';
+    h+='<div>2-3km<br><b>'+(dt.d3_pct!=null?dt.d3_pct+'%':'N/A')+'</b></div>';
+    h+='<div>&gt;3km<br><b>'+(dt.d4_pct!=null?dt.d4_pct+'%':'N/A')+'</b></div>';
     h+='</div></div>';
   }}
 
