@@ -22,37 +22,49 @@ from collections import Counter
 
 AMAP_API = "https://restapi.amap.com/v5/place/around"
 SEARCH_RADIUS = 3000  # 3km
-POI_TYPE = "050000"   # 餐饮服务大类
+POI_TYPES = {
+    "050100": "中餐厅",
+    "050200": "外国餐厅",
+    "050300": "快餐厅",
+    "050400": "休闲餐饮",
+    "050500": "咖啡厅",
+}
 PAGE_SIZE = 25
 SLEEP_BETWEEN = 0.4   # 秒，控制 QPS（免费 3 QPS）
 
 
 def search_nearby(key, lng, lat, radius=SEARCH_RADIUS, max_pages=4):
-    """搜索周边餐饮 POI，自动分页，最多 max_pages 页"""
+    """搜索周边餐饮 POI，按子品类分别搜索并去重"""
+    seen = set()  # 用 (name, lat, lng) 去重
     all_pois = []
-    for page in range(1, max_pages + 1):
-        url = (f"{AMAP_API}?key={key}&location={lng},{lat}"
-               f"&radius={radius}&types={POI_TYPE}"
-               f"&offset={PAGE_SIZE}&page={page}&show_fields=business")
-        for attempt in range(3):
-            try:
-                req = urllib.request.urlopen(url, timeout=15)
-                data = json.loads(req.read())
+    for type_code, type_name in POI_TYPES.items():
+        for page in range(1, max_pages + 1):
+            url = (f"{AMAP_API}?key={key}&location={lng},{lat}"
+                   f"&radius={radius}&types={type_code}"
+                   f"&offset={PAGE_SIZE}&page={page}&show_fields=business")
+            for attempt in range(3):
+                try:
+                    req = urllib.request.urlopen(url, timeout=15)
+                    data = json.loads(req.read())
+                    break
+                except Exception as e:
+                    if attempt < 2:
+                        time.sleep(2)
+                    else:
+                        print(f"    [WARN] API 请求失败: {e}")
+                        data = {}
+            if data.get("status") != "1":
                 break
-            except Exception as e:
-                if attempt < 2:
-                    time.sleep(2)
-                else:
-                    print(f"    [WARN] API 请求失败: {e}")
-                    data = {}
-        if data.get("status") != "1":
-            print(f"    [WARN] API 返回: {data.get('info', 'unknown')}")
-            break
-        pois = data.get("pois", [])
-        all_pois.extend(pois)
-        total = int(data.get("count", 0))
-        if page * PAGE_SIZE >= total:
-            break
+            pois = data.get("pois", [])
+            for p in pois:
+                dedup_key = (p.get("name",""), p.get("location",""))
+                if dedup_key not in seen:
+                    seen.add(dedup_key)
+                    all_pois.append(p)
+            total = int(data.get("count", 0))
+            if page * PAGE_SIZE >= total:
+                break
+            time.sleep(SLEEP_BETWEEN)
         time.sleep(SLEEP_BETWEEN)
     return all_pois
 
