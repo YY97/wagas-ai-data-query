@@ -21,7 +21,7 @@ import urllib.error
 from collections import Counter
 
 AMAP_API = "https://restapi.amap.com/v5/place/around"
-SEARCH_RADIUS = 1000  # 1km
+SEARCH_RADIUS = 3000  # 3km
 POI_TYPE = "050000"   # 餐饮服务大类
 PAGE_SIZE = 25
 SLEEP_BETWEEN = 0.4   # 秒，控制 QPS（免费 3 QPS）

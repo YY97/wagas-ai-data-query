@@ -537,7 +537,7 @@ function createPopup(s){{
   if(s.market && s.market.poi_count>0){{
     var mk=s.market;
     h+='<div style="margin-top:6px;padding:6px 8px;background:#f0fdf4;border-left:3px solid #22c55e;border-radius:3px;font-size:10px">';
-    h+='<div style="font-weight:700;color:#166534;margin-bottom:3px">商圈环境 (1km内)</div>';
+    h+='<div style="font-weight:700;color:#166534;margin-bottom:3px">商圈环境 (3km内)</div>';
     h+='<div style="display:grid;grid-template-columns:1fr 1fr;gap:2px">';
     h+='<div>餐厅数: <b>'+mk.poi_count+'</b></div>';
     h+='<div>评分: <b>'+(mk.avg_rating?mk.avg_rating.toFixed(1):'N/A')+'</b></div>';

@@ -52,7 +52,14 @@ jobs:
 
       - name: 更新商圈环境数据
         id: market
-        run: python etl_market_context.py --key ${{ secrets.AMAP_KEY }} --output-dir ./output
+        shell: powershell
+        run: |
+          $day = (Get-Date).DayOfWeek
+          if ($day -ne 'Monday' -and '${{ github.event_name }}' -ne 'workflow_dispatch') {
+            Write-Host "Skipping market ETL (today is $day, only runs on Monday)"
+            exit 0
+          }
+          python etl_market_context.py --key ${{ secrets.AMAP_KEY }} --output-dir ./output
         working-directory: ${{ github.workspace }}
         continue-on-error: true
 
