@@ -54,9 +54,9 @@ jobs:
         id: market
         shell: powershell
         run: |
-          $day = (Get-Date).DayOfWeek
-          if ($day -ne 'Monday' -and '${{ github.event_name }}' -ne 'workflow_dispatch') {
-            Write-Host "Skipping market ETL (today is $day, only runs on Monday)"
+          $day = (Get-Date).Day
+          if ($day -ne 1 -and '${{ github.event_name }}' -ne 'workflow_dispatch') {
+            Write-Host "Skipping market ETL (today is day $day, only runs on 1st of month)"
             exit 0
           }
           python etl_market_context.py --key ${{ secrets.AMAP_KEY }} --output-dir ./output
