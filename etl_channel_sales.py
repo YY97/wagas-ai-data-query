@@ -101,7 +101,7 @@ while current <= today:
 
     # 按门店×渠道聚合
     data = run_guancli(DS_HOURLY,
-                       filters=[f"orderDate EQ {ds}", "isCancel EQ 0"],
+                       filters=[f"orderDate BT {ds},{ds}", "isCancel EQ 0"],
                        columns=["StoreID", "orderDate", "orderType_Level1", "revenue", "TC"],
                        out_file=out_file,
                        limit=50000)

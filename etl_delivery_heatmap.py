@@ -54,10 +54,21 @@ def run(dsid, filters, columns, out_file):
            "--columns", ",".join(columns), "--limit", "50000", "-f", "json"]
     for f in filters:
         cmd.extend(["--filter", f])
-    print(f"  [guancli] {out_file} ...")
-    r = subprocess.run(cmd, capture_output=True, text=True, timeout=300, encoding='utf-8', errors='replace')
+    print(f"  [guancli] pulling {out_file} ...")
+
+    import time
+    for attempt in range(3):
+        r = subprocess.run(cmd, capture_output=True, text=True, timeout=300, encoding='utf-8', errors='replace')
+        if r.returncode == 0 and r.stdout and r.stdout.strip():
+            break
+        print(f"  [RETRY {attempt+1}/3] guancli exit={r.returncode}" + (f" err={r.stderr[:60]}" if r.stderr else ""))
+        if attempt < 2:
+            time.sleep(5)
+
     with open(out_file, "w", encoding="utf-8") as f:
         f.write(r.stdout or "")
+    if r.returncode != 0:
+        print(f"  [WARN] guancli exit code={r.returncode}")
     return json.loads(r.stdout) if r.stdout and r.stdout.strip() else []
 
 
@@ -81,7 +92,7 @@ while current <= today:
         if os.path.exists(out_file) and os.path.getsize(out_file) < 100:
             os.remove(out_file)
         data = run(DS_DELIVERY,
-                   filters=[f"orderDate EQ {ds}"],
+                   filters=[f"orderDate BT {ds},{ds}"],
                    columns=["StoreID", "latitude", "longitude", "orderType_level2"],
                    out_file=out_file)
     else:
@@ -91,7 +102,7 @@ while current <= today:
             except json.JSONDecodeError:
                 os.remove(out_file)
                 data = run(DS_DELIVERY,
-                           filters=[f"orderDate EQ {ds}"],
+                           filters=[f"orderDate BT {ds},{ds}"],
                            columns=["StoreID", "latitude", "longitude", "orderType_level2"],
                            out_file=out_file)
         print(f"  [cached] {out_file}")
