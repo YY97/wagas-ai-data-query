@@ -27,8 +27,12 @@ jobs:
           node-version: '22'
       - run: npm install -g @guandata/guancli
 
-      - name: 配置 guancli
+      - name: 配置 guancli & 环境变量
         run: |
+          # 设置 GUANCLI_JS 让 Python 脚本能找到 run.js
+          export GUANCLI_JS=$(npm root -g)/@guandata/guancli/bin/run.js
+          echo "GUANCLI_JS=$GUANCLI_JS" >> $GITHUB_ENV
+          # 写配置文件
           mkdir -p ~/.guancli
           cat > ~/.guancli/config.json << 'EOF'
           {

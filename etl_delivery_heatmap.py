@@ -11,8 +11,38 @@ import json, os, subprocess, sys
 from collections import defaultdict
 from datetime import date, timedelta
 
-NODE_EXE = r"C:\Users\alex9\.workbuddy\binaries\node\versions\22.22.2\node.exe"
-GUANCLI_JS = r"C:\Users\alex9\.workbuddy\binaries\node\versions\22.22.2\node_modules\@guandata\guancli\bin\run.js"
+# ===== 跨平台 guancli 查找 =====
+def _find_node():
+    import shutil
+    n = shutil.which("node") or shutil.which("node.exe")
+    if n:
+        return n
+    if os.name == "nt":
+        p = r"C:\Users\alex9\.workbuddy\binaries\node\versions\22.22.2\node.exe"
+        if os.path.exists(p):
+            return p
+    raise FileNotFoundError("node not found")
+
+def _find_guancli_js():
+    js = os.environ.get("GUANCLI_JS")
+    if js and os.path.exists(js):
+        return js
+    try:
+        r = subprocess.run(["npm", "root", "-g"], capture_output=True, text=True, check=True, timeout=10)
+        nm = r.stdout.strip()
+        p = os.path.join(nm, "@guandata", "guancli", "bin", "run.js")
+        if os.path.exists(p):
+            return p
+    except:
+        pass
+    if os.name == "nt":
+        p = r"C:\Users\alex9\.workbuddy\binaries\node\versions\22.22.2\node_modules\@guandata\guancli\bin\run.js"
+        if os.path.exists(p):
+            return p
+    raise FileNotFoundError("guancli run.js not found")
+
+NODE_EXE = _find_node()
+GUANCLI_JS = _find_guancli_js()
 DS_DELIVERY = "f95e1fb19f3434625b27a887"
 DAYS = int(sys.argv[1]) if len(sys.argv) > 1 else 7
 OUTPUT_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "output")

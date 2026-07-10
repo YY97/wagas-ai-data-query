@@ -42,8 +42,40 @@ SM_COLS = [
 HOURLY_COLS = ["StoreID", "orderDate", "revenue", "TC"]
 
 
-GUANCLI_EXE = r"C:\Users\alex9\.workbuddy\binaries\node\versions\22.22.2\node.exe"
-GUANCLI_SCRIPT = r"C:\Users\alex9\.workbuddy\binaries\node\versions\22.22.2\node_modules\@guandata\guancli\bin\run.js"
+# ===== 跨平台 guancli 查找 =====
+def _find_node():
+    import shutil
+    n = shutil.which("node") or shutil.which("node.exe")
+    if n:
+        return n
+    if os.name == "nt":
+        p = r"C:\Users\alex9\.workbuddy\binaries\node\versions\22.22.2\node.exe"
+        if os.path.exists(p):
+            return p
+    raise FileNotFoundError("node not found")
+
+def _find_guancli_js():
+    js = os.environ.get("GUANCLI_JS")
+    if js and os.path.exists(js):
+        return js
+    # 通过 npm 全局目录查找
+    try:
+        r = subprocess.run(["npm", "root", "-g"], capture_output=True, text=True, check=True, timeout=10)
+        nm = r.stdout.strip()
+        p = os.path.join(nm, "@guandata", "guancli", "bin", "run.js")
+        if os.path.exists(p):
+            return p
+    except:
+        pass
+    # Windows 回退
+    if os.name == "nt":
+        p = r"C:\Users\alex9\.workbuddy\binaries\node\versions\22.22.2\node_modules\@guandata\guancli\bin\run.js"
+        if os.path.exists(p):
+            return p
+    raise FileNotFoundError("guancli run.js not found")
+
+GUANCLI_EXE = _find_node()
+GUANCLI_SCRIPT = _find_guancli_js()
 
 def run_guancli(ds_id, filters, columns, limit=50000, out_file=None):
     cmd = [GUANCLI_EXE, GUANCLI_SCRIPT, "ds", "preview", ds_id,
