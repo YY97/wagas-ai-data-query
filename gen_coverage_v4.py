@@ -11,6 +11,7 @@ import csv, json, math, os, sys
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 SM_CSV = os.path.join(SCRIPT_DIR, "output", "store_master.csv")
 ADS_CSV = os.path.join(SCRIPT_DIR, "output", "store_daily_sales.csv")
+CHS_CSV = os.path.join(SCRIPT_DIR, "output", "store_channel_sales.csv")
 DLV_JSON = os.path.join(SCRIPT_DIR, "output", "delivery_points.json")
 DLV_OUT = os.path.join(SCRIPT_DIR, "output", "delivery_points_compact.json")
 OUTPUT_HTML = os.path.join(SCRIPT_DIR, "wagas_stores_coverage_v4.html")
@@ -145,6 +146,35 @@ dlv_size = os.path.getsize(DLV_OUT) / 1024
 print(f"   门店: {dlv_stores}, 唯一点: {dlv_points}, 压缩: {dlv_size:.0f}KB")
 
 # ============================================================
+# 3b. 读取渠道销售拆分 (店内/外卖)
+# ============================================================
+CHS_CSV_PATH = CHS_CSV
+print("3b. 渠道销售:", CHS_CSV_PATH)
+store_channel = {}  # {sid: {date: {"dine_in": rev, "delivery": rev, "dine_in_orders": n, "delivery_orders": n}}}
+if not os.path.exists(CHS_CSV_PATH):
+    print("   [WARN] store_channel_sales.csv 不存在，跳过渠道拆分")
+else:
+    with open(CHS_CSV_PATH, "r", encoding="utf-8-sig") as f:
+        for r in csv.DictReader(f):
+            sid = r.get("门店ID", "").strip()
+            od = r.get("营业日期", "").strip()
+            ch = r.get("渠道", "").strip()
+            rev = float(r.get("渠道销售额", 0) or 0)
+            orders = int(r.get("渠道订单量", 0) or 0)
+            if sid and od:
+                if sid not in store_channel:
+                    store_channel[sid] = {}
+                if od not in store_channel[sid]:
+                    store_channel[sid][od] = {"dine_in": 0, "delivery": 0, "dine_in_orders": 0, "delivery_orders": 0}
+                if ch == "店内":
+                    store_channel[sid][od]["dine_in"] += rev
+                    store_channel[sid][od]["dine_in_orders"] += orders
+                elif ch == "外卖":
+                    store_channel[sid][od]["delivery"] += rev
+                    store_channel[sid][od]["delivery_orders"] += orders
+    print(f"   门店: {len(store_channel)}, 日期覆盖: {len(set(d for s in store_channel.values() for d in s))} 天")
+
+# ============================================================
 # 4. 合并门店 + 销售 → 地图门店列表
 # ============================================================
 stores = []
@@ -175,6 +205,45 @@ for i, s1 in enumerate(stores):
             nb.append(s2["name"])
     s1["overlap"] = len(nb)
     s1["overlap_names"] = nb
+
+# 渠道汇总 + 配送距离分布
+print("   计算渠道拆分 + 配送距离...")
+for s in stores:
+    sid = s["sid"]
+    # 渠道汇总（日期窗口内）
+    ch_data = store_channel.get(sid, {})
+    dine_in_total = 0; delivery_total = 0; dine_in_orders = 0; delivery_orders = 0; ch_days = 0
+    for d in ch_data:
+        if start_date <= d <= sorted_dates[0]:  # sorted_dates is reverse sorted, [0] is latest
+            dine_in_total += ch_data[d]["dine_in"]
+            delivery_total += ch_data[d]["delivery"]
+            dine_in_orders += ch_data[d]["dine_in_orders"]
+            delivery_orders += ch_data[d]["delivery_orders"]
+            ch_days += 1
+    total_rev = dine_in_total + delivery_total
+    s["channel"] = {
+        "dine_in_avg": round(dine_in_total / ch_days) if ch_days > 0 else None,
+        "delivery_avg": round(delivery_total / ch_days) if ch_days > 0 else None,
+        "dine_in_pct": round(dine_in_total / total_rev * 100, 1) if total_rev > 0 else None,
+        "delivery_pct": round(delivery_total / total_rev * 100, 1) if total_rev > 0 else None,
+        "days": ch_days
+    }
+    # 配送距离分布（从 delivery_points 计算）
+    pts = delivery_data.get(sid, [])
+    d1 = d2 = d3 = d_total = 0
+    for p in pts:
+        dist = hd(s["lat"], s["lng"], p["lat"], p["lng"])
+        w = p.get("w", 1)
+        d_total += w
+        if dist <= 1.0: d1 += w
+        if dist <= 2.0: d2 += w
+        if dist <= 3.0: d3 += w
+    s["dist"] = {
+        "d1_pct": round(d1 / d_total * 100, 1) if d_total > 0 else None,
+        "d2_pct": round(d2 / d_total * 100, 1) if d_total > 0 else None,
+        "d3_pct": round(d3 / d_total * 100, 1) if d_total > 0 else None,
+        "total_orders": d_total
+    }
 
 # 统计(默认日期)
 bx, cx, fx = {}, {}, {}
@@ -415,6 +484,29 @@ function createPopup(s){{
     h+='<div style="margin-top:8px;padding:5px 8px;background:'+ac+'20;border-left:3px solid '+ac+
       ';border-radius:3px;font-size:11px;font-weight:600;color:#1f2937">'+
       '区间均值: '+fm(a)+' ('+adb(a)+')</div>';
+  }}
+
+  // 渠道拆分
+  if(s.channel && s.channel.days>0){{
+    var ch=s.channel;
+    h+='<div style="margin-top:8px;padding:6px 8px;background:#f0f9ff;border-left:3px solid #3b82f6;border-radius:3px;font-size:10px">';
+    h+='<div style="font-weight:700;color:#1e40af;margin-bottom:3px">渠道拆分 (日均)</div>';
+    h+='<div style="display:grid;grid-template-columns:1fr 1fr;gap:2px">';
+    h+='<div>堂食: <b>'+fm(ch.dine_in_avg)+'</b>'+(ch.dine_in_pct!=null?' ('+ch.dine_in_pct+'%)':'')+'</div>';
+    h+='<div>外卖: <b>'+fm(ch.delivery_avg)+'</b>'+(ch.delivery_pct!=null?' ('+ch.delivery_pct+'%)':'')+'</div>';
+    h+='</div></div>';
+  }}
+
+  // 配送距离分布
+  if(s.dist && s.dist.total_orders>0){{
+    var dt=s.dist;
+    h+='<div style="margin-top:6px;padding:6px 8px;background:#fef3c7;border-left:3px solid #d97706;border-radius:3px;font-size:10px">';
+    h+='<div style="font-weight:700;color:#92400e;margin-bottom:3px">外卖订单距离分布 ('+dt.total_orders+'单)</div>';
+    h+='<div style="display:grid;grid-template-columns:1fr 1fr 1fr;gap:2px;text-align:center">';
+    h+='<div>&le;1km<br><b>'+(dt.d1_pct!=null?dt.d1_pct+'%':'N/A')+'</b></div>';
+    h+='<div>&le;2km<br><b>'+(dt.d2_pct!=null?dt.d2_pct+'%':'N/A')+'</b></div>';
+    h+='<div>&le;3km<br><b>'+(dt.d3_pct!=null?dt.d3_pct+'%':'N/A')+'</b></div>';
+    h+='</div></div>';
   }}
 
   var ol=s.overlap||0;
