@@ -128,14 +128,19 @@ def haversine_km(lat1, lng1, lat2, lng2):
 def pull_store_master(output_dir):
     print("\n=== Step 1: 拉取 StoreMaster ===")
     out = os.path.join(output_dir, "_raw_storemaster.json")
+    # 全量拉取，不过滤（CI 环境下 guancli 中文过滤器可能失败）
     run_guancli(DS_STOREMASTER,
-                filters=["门店状态 EQ 已开业"],
+                filters=[],
                 columns=SM_COLS, limit=50000, out_file=out)
     rows = load_json(out)
-    print(f"  原始已开业门店: {len(rows)} 行")
+    print(f"  原始全量门店: {len(rows)} 行")
 
+    # Python 侧过滤：门店状态=已开业 + 有效坐标
     valid = []
     for r in rows:
+        status = str(r.get("门店状态", "")).strip()
+        if status != "已开业":
+            continue
         lng = str(r.get("经度", "")).strip()
         lat = str(r.get("纬度", "")).strip()
         if lng and lat and lng != "None" and lat != "None":
@@ -145,7 +150,7 @@ def pull_store_master(output_dir):
                 valid.append(r)
             except ValueError:
                 pass
-    print(f"  有效坐标门店: {len(valid)} 行")
+    print(f"  已开业+有效坐标: {len(valid)} 行")
 
     # 写 CSV（空数据时不覆盖旧文件）
     csv_path = os.path.join(output_dir, "store_master.csv")
