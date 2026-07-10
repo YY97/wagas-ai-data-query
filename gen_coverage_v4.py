@@ -51,6 +51,9 @@ def fmt(n):
 # ============================================================
 print("1. 门店主数据:", SM_CSV)
 sm = {}
+if not os.path.exists(SM_CSV):
+    print("   ⚠️ store_master.csv 不存在，请先运行 etl_pull_data.py")
+    sys.exit(0)
 with open(SM_CSV, "r", encoding="utf-8-sig") as f:
     for r in csv.DictReader(f):
         sid = r.get("Store_ID", "").strip()
@@ -71,14 +74,17 @@ print(f"   有效门店: {len(sm)}")
 print("2. 日销售:", ADS_CSV)
 store_ads = {}  # {sid: {date: sales}}
 all_dates = set()
-with open(ADS_CSV, "r", encoding="utf-8-sig") as f:
-    for r in csv.DictReader(f):
-        sid = r.get("门店ID", "").strip()
-        od = r.get("营业日期", "").strip()
-        ds = float(r.get("当日销售额", 0) or 0)
-        if sid and od:
-            store_ads.setdefault(sid, {})[od] = ds
-            all_dates.add(od)
+if not os.path.exists(ADS_CSV):
+    print("   ⚠️ store_daily_sales.csv 不存在，使用空销售数据")
+else:
+    with open(ADS_CSV, "r", encoding="utf-8-sig") as f:
+        for r in csv.DictReader(f):
+            sid = r.get("门店ID", "").strip()
+            od = r.get("营业日期", "").strip()
+            ds = float(r.get("当日销售额", 0) or 0)
+            if sid and od:
+                store_ads.setdefault(sid, {})[od] = ds
+                all_dates.add(od)
 
 # 只保留最近 N 天
 LOOKBACK_DAYS = 30
@@ -107,8 +113,12 @@ print(f"   日期范围: {sorted_dates[-1]}~{sorted_dates[0]}, {len(sorted_dates
 # 3. 读取外卖配送点 (已聚合, 供热力图)
 # ============================================================
 print("3. 外卖配送点:", DLV_JSON)
-with open(DLV_JSON, "r", encoding="utf-8") as f:
-    delivery_data = json.load(f)
+if not os.path.exists(DLV_JSON):
+    print("   ⚠️ 文件不存在，使用空配送点数据")
+    delivery_data = {}
+else:
+    with open(DLV_JSON, "r", encoding="utf-8") as f:
+        delivery_data = json.load(f)
 dlv_stores = len(delivery_data)
 dlv_points = sum(len(v) for v in delivery_data.values())
 
@@ -129,6 +139,15 @@ for sid, s in sm.items():
     stores.append(s)
 
 print(f"   地图门店: {len(stores)}")
+
+# 空数据保护：上游 ETL 可能拉不到数据，此时优雅退出而非崩溃
+if len(stores) == 0:
+    print("\n⚠️ [警告] 地图门店数为 0，跳过地图生成。")
+    print("   请检查上游 ETL (etl_pull_data.py) 是否正常拉取到 store_master.csv 和 store_daily_sales.csv")
+    # 如果旧 HTML 存在就保留，不覆盖
+    if os.path.exists(OUTPUT_HTML):
+        print(f"   保留上一次地图: {OUTPUT_HTML}")
+    sys.exit(0)
 
 # overlap 计算
 print("   计算 1km 重合...")

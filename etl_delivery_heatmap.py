@@ -140,10 +140,19 @@ else:
     print(f"  平均每店点数: 0")
     print(f"  [警告] 没有数据，保留上一次 delivery_points.json")
 
-# 输出 JSON
+# 输出 JSON — 空数据时不覆盖，保留上一次
 out_path = os.path.join(OUTPUT_DIR, "delivery_points.json")
-with open(out_path, "w", encoding="utf-8") as f:
-    json.dump(result, f, ensure_ascii=False)
-size_mb = os.path.getsize(out_path) / 1024 / 1024
-print(f"  -> {out_path} ({size_mb:.2f} MB)")
+if result:
+    with open(out_path, "w", encoding="utf-8") as f:
+        json.dump(result, f, ensure_ascii=False)
+    size_mb = os.path.getsize(out_path) / 1024 / 1024
+    print(f"  -> {out_path} ({size_mb:.2f} MB)")
+else:
+    if os.path.exists(out_path):
+        size_mb = os.path.getsize(out_path) / 1024 / 1024
+        print(f"  保留已有 {out_path} ({size_mb:.2f} MB)")
+    else:
+        with open(out_path, "w", encoding="utf-8") as f:
+            json.dump({}, f)
+        print(f"  -> {out_path} (空，首次运行无数据)")
 print("=" * 60)
