@@ -149,7 +149,7 @@ for s in stores:
     cx[s["city"]] = cx.get(s["city"], 0) + 1
     fx[s.get("fmt", "")] = fx.get(s.get("fmt", ""), 0) + 1
     at += a; ot += s["overlap"]; mx = max(mx, s["overlap"])
-avg_ad = round(at / len(stores))
+avg_ad = round(at / len(stores)) if len(stores) > 0 else 0
 
 
 # ============================================================
