@@ -95,7 +95,7 @@ while current <= today:
                            out_file=out_file)
         print(f"  [cached] {out_file}")
 
-    print(f"  {ds}: {len(data)} 行{' ⚠️截断' if len(data)>=50000 else ''}")
+    print(f"  {ds}: {len(data)} 行{' [TRUNCATED]' if len(data)>=50000 else ''}")
     all_rows.extend(data)
     current += timedelta(days=1)
 

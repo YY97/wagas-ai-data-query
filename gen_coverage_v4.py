@@ -52,7 +52,7 @@ def fmt(n):
 print("1. 门店主数据:", SM_CSV)
 sm = {}
 if not os.path.exists(SM_CSV):
-    print("   ⚠️ store_master.csv 不存在，请先运行 etl_pull_data.py")
+    print("   [WARN] store_master.csv 不存在，请先运行 etl_pull_data.py")
     sys.exit(0)
 with open(SM_CSV, "r", encoding="utf-8-sig") as f:
     for r in csv.DictReader(f):
@@ -75,7 +75,7 @@ print("2. 日销售:", ADS_CSV)
 store_ads = {}  # {sid: {date: sales}}
 all_dates = set()
 if not os.path.exists(ADS_CSV):
-    print("   ⚠️ store_daily_sales.csv 不存在，使用空销售数据")
+    print("   [WARN] store_daily_sales.csv 不存在，使用空销售数据")
 else:
     with open(ADS_CSV, "r", encoding="utf-8-sig") as f:
         for r in csv.DictReader(f):
@@ -114,7 +114,7 @@ print(f"   日期范围: {sorted_dates[-1]}~{sorted_dates[0]}, {len(sorted_dates
 # ============================================================
 print("3. 外卖配送点:", DLV_JSON)
 if not os.path.exists(DLV_JSON):
-    print("   ⚠️ 文件不存在，使用空配送点数据")
+    print("   [WARN] 文件不存在，使用空配送点数据")
     delivery_data = {}
 else:
     with open(DLV_JSON, "r", encoding="utf-8") as f:
@@ -142,7 +142,7 @@ print(f"   地图门店: {len(stores)}")
 
 # 空数据保护：上游 ETL 可能拉不到数据，此时优雅退出而非崩溃
 if len(stores) == 0:
-    print("\n⚠️ [警告] 地图门店数为 0，跳过地图生成。")
+    print("\n[WARN] 地图门店数为 0，跳过地图生成。")
     print("   请检查上游 ETL (etl_pull_data.py) 是否正常拉取到 store_master.csv 和 store_daily_sales.csv")
     # 如果旧 HTML 存在就保留，不覆盖
     if os.path.exists(OUTPUT_HTML):
