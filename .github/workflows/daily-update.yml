@@ -28,14 +28,16 @@ jobs:
       - run: npm install -g @guandata/guancli
 
       - name: 配置 guancli & 环境变量
-        shell: bash
+        shell: pwsh
         run: |
           # 设置 GUANCLI_JS 让 Python 脚本能找到 run.js
-          export GUANCLI_JS=$(npm root -g)/@guandata/guancli/bin/run.js
-          echo "GUANCLI_JS=$GUANCLI_JS" >> $GITHUB_ENV
+          $npmRoot = (npm root -g).Trim()
+          $guancliJs = "$npmRoot\@guandata\guancli\bin\run.js"
+          echo "GUANCLI_JS=$guancliJs" >> $env:GITHUB_ENV
           # 写配置文件
-          mkdir -p ~/.guancli
-          cat > ~/.guancli/config.json << 'EOF'
+          $configDir = "$env:USERPROFILE\.guancli"
+          New-Item -ItemType Directory -Force -Path $configDir | Out-Null
+          $config = @"
           {
             "profiles": {
               "wagas": {
@@ -48,7 +50,8 @@ jobs:
               }
             }
           }
-          EOF
+          "@
+          Set-Content -Path "$configDir\config.json" -Value $config -Encoding UTF8
 
       - name: 拉取昨天销售数据
         id: sales
@@ -74,10 +77,15 @@ jobs:
         working-directory: ${{ github.workspace }}
 
       - name: 提交并推送到 GitHub
-        shell: bash
+        shell: pwsh
         run: |
           git config user.name "Wagas Bot"
           git config user.email "bot@wagas.com"
           git add store-network/index.html store-network/delivery_points_compact.json output/
-          git diff --staged --quiet || (git commit -m "Daily update $(date +%Y-%m-%d)" && git push)
+          $diff = git diff --staged --quiet 2>&1
+          if ($LASTEXITCODE -ne 0) {
+            $today = Get-Date -Format "yyyy-MM-dd"
+            git commit -m "Daily update $today"
+            git push
+          }
         working-directory: ${{ github.workspace }}
