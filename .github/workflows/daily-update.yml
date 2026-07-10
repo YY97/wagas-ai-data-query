@@ -33,7 +33,7 @@ jobs:
           $npmRoot = (npm root -g).Trim()
           $guancliJs = "$npmRoot\@guandata\guancli\bin\run.js"
           echo "GUANCLI_JS=$guancliJs" >> $env:GITHUB_ENV
-          $configDir = "$env:USERPROFILE\.guancli"
+          $configDir = "$env:APPDATA\guancli"
           New-Item -ItemType Directory -Force -Path $configDir | Out-Null
           $configJson = '{"profiles":{"wagas":{"name":"wagas","base_url":"https://bi.wagas.com.cn","domain":"wagas","login_id":"${{ secrets.GUANCLI_USER }}","password":"${{ secrets.GUANCLI_PASS }}","auth_method":"password"}}}'
           [IO.File]::WriteAllText("$configDir\config.json", $configJson)
