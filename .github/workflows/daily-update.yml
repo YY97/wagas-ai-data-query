@@ -50,6 +50,12 @@ jobs:
         working-directory: ${{ github.workspace }}
         continue-on-error: true
 
+      - name: 更新商圈环境数据
+        id: market
+        run: python etl_market_context.py --key ${{ secrets.AMAP_KEY }} --output-dir ./output
+        working-directory: ${{ github.workspace }}
+        continue-on-error: true
+
       - name: 生成地图
         run: python gen_coverage_v4.py
         working-directory: ${{ github.workspace }}

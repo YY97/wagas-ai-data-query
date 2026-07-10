@@ -14,6 +14,7 @@ ADS_CSV = os.path.join(SCRIPT_DIR, "output", "store_daily_sales.csv")
 CHS_CSV = os.path.join(SCRIPT_DIR, "output", "store_channel_sales.csv")
 DLV_JSON = os.path.join(SCRIPT_DIR, "output", "delivery_points.json")
 DLV_OUT = os.path.join(SCRIPT_DIR, "output", "delivery_points_compact.json")
+MKT_CSV = os.path.join(SCRIPT_DIR, "output", "store_market_context.csv")
 OUTPUT_HTML = os.path.join(SCRIPT_DIR, "wagas_stores_coverage_v4.html")
 
 R = 6371000
@@ -175,6 +176,28 @@ else:
     print(f"   门店: {len(store_channel)}, 日期覆盖: {len(set(d for s in store_channel.values() for d in s))} 天")
 
 # ============================================================
+# 3c. 读取商圈环境数据 (高德 POI)
+# ============================================================
+print("3c. 商圈环境:", MKT_CSV)
+store_market = {}
+if not os.path.exists(MKT_CSV):
+    print("   [WARN] store_market_context.csv 不存在，跳过商圈数据")
+else:
+    with open(MKT_CSV, "r", encoding="utf-8-sig") as f:
+        for r in csv.DictReader(f):
+            sid = r.get("门店ID", "").strip()
+            if sid:
+                store_market[sid] = {
+                    "poi_count": int(r.get("poi_count", 0) or 0),
+                    "avg_cost": float(r.get("avg_cost", 0) or 0) or None,
+                    "median_cost": float(r.get("median_cost", 0) or 0) or None,
+                    "avg_rating": float(r.get("avg_rating", 0) or 0) or None,
+                    "top_categories": r.get("top_categories", ""),
+                    "business_area": r.get("business_area", "")
+                }
+    print(f"   门店: {len(store_market)}")
+
+# ============================================================
 # 4. 合并门店 + 销售 → 地图门店列表
 # ============================================================
 stores = []
@@ -182,6 +205,7 @@ for sid, s in sm.items():
     if sid not in store_ads: continue
     s["ads_data"] = store_ads[sid]
     s["ads"] = s["ads_data"].get(default_date)
+    s["market"] = store_market.get(sid)
     stores.append(s)
 
 print(f"   地图门店: {len(stores)}")
@@ -507,6 +531,22 @@ function createPopup(s){{
     h+='<div>&le;2km<br><b>'+(dt.d2_pct!=null?dt.d2_pct+'%':'N/A')+'</b></div>';
     h+='<div>&le;3km<br><b>'+(dt.d3_pct!=null?dt.d3_pct+'%':'N/A')+'</b></div>';
     h+='</div></div>';
+  }}
+
+  // 商圈环境
+  if(s.market && s.market.poi_count>0){{
+    var mk=s.market;
+    h+='<div style="margin-top:6px;padding:6px 8px;background:#f0fdf4;border-left:3px solid #22c55e;border-radius:3px;font-size:10px">';
+    h+='<div style="font-weight:700;color:#166534;margin-bottom:3px">商圈环境 (1km内)</div>';
+    h+='<div style="display:grid;grid-template-columns:1fr 1fr;gap:2px">';
+    h+='<div>餐厅数: <b>'+mk.poi_count+'</b></div>';
+    h+='<div>评分: <b>'+(mk.avg_rating?mk.avg_rating.toFixed(1):'N/A')+'</b></div>';
+    h+='<div>人均: <b>'+(mk.avg_cost?'¥'+mk.avg_cost:'N/A')+'</b></div>';
+    h+='<div>中位数: <b>'+(mk.median_cost?'¥'+mk.median_cost:'N/A')+'</b></div>';
+    h+='</div>';
+    if(mk.business_area) h+='<div style="margin-top:2px;color:#4b5563">商圈: <b>'+mk.business_area+'</b></div>';
+    if(mk.top_categories) h+='<div style="margin-top:2px;color:#4b5563;font-size:9px">品类: '+mk.top_categories+'</div>';
+    h+='</div>';
   }}
 
   var ol=s.overlap||0;
