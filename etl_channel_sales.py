@@ -6,6 +6,7 @@ Wagas 门店渠道销售拆分 ETL
 输出: output/store_channel_sales.csv — 门店×日期×渠道 的销售和订单
 """
 
+import argparse
 import csv
 import json
 import os
@@ -47,8 +48,17 @@ def _find_guancli_js():
 NODE_EXE = _find_node()
 GUANCLI_JS = _find_guancli_js()
 DS_HOURLY = "x010c246a2e114278808e984"
-DAYS = int(sys.argv[1]) if len(sys.argv) > 1 else 2
-OUTPUT_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "output")
+
+parser = argparse.ArgumentParser(description="渠道销售 ETL")
+parser.add_argument("days", nargs="?", type=int, default=2, help="回溯天数 (默认 2)")
+parser.add_argument("--output-dir", default=None, help="输出目录")
+args = parser.parse_args()
+
+DAYS = args.days
+if args.output_dir:
+    OUTPUT_DIR = args.output_dir
+else:
+    OUTPUT_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "output")
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
 

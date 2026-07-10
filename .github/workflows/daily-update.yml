@@ -46,7 +46,7 @@ jobs:
 
       - name: 拉取渠道销售拆分
         id: channel
-        run: python etl_channel_sales.py 2
+        run: python etl_channel_sales.py 2 --output-dir ./output
         working-directory: ${{ github.workspace }}
         continue-on-error: true
 

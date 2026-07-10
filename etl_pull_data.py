@@ -147,8 +147,11 @@ def pull_store_master(output_dir):
                 pass
     print(f"  有效坐标门店: {len(valid)} 行")
 
-    # 写 CSV
+    # 写 CSV（空数据时不覆盖旧文件）
     csv_path = os.path.join(output_dir, "store_master.csv")
+    if not valid and os.path.exists(csv_path) and os.path.getsize(csv_path) > 200:
+        print(f"  [WARN] 拉到 0 家门店，保留已有 store_master.csv")
+        return []
     with open(csv_path, "w", newline="", encoding="utf-8-sig") as f:
         w = csv.writer(f)
         w.writerow(["Store_ID", "门店名称", "品牌", "城市", "商圈", "业态",
