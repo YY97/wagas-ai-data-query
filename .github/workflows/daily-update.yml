@@ -28,30 +28,15 @@ jobs:
       - run: npm install -g @guandata/guancli
 
       - name: 配置 guancli & 环境变量
-        shell: pwsh
+        shell: powershell
         run: |
-          # 设置 GUANCLI_JS 让 Python 脚本能找到 run.js
           $npmRoot = (npm root -g).Trim()
           $guancliJs = "$npmRoot\@guandata\guancli\bin\run.js"
           echo "GUANCLI_JS=$guancliJs" >> $env:GITHUB_ENV
-          # 写配置文件
           $configDir = "$env:USERPROFILE\.guancli"
           New-Item -ItemType Directory -Force -Path $configDir | Out-Null
-          $config = @"
-          {
-            "profiles": {
-              "wagas": {
-                "name": "wagas",
-                "base_url": "https://bi.wagas.com.cn",
-                "domain": "wagas",
-                "login_id": "${{ secrets.GUANCLI_USER }}",
-                "password": "${{ secrets.GUANCLI_PASS }}",
-                "auth_method": "password"
-              }
-            }
-          }
-          "@
-          Set-Content -Path "$configDir\config.json" -Value $config -Encoding UTF8
+          $configJson = '{"profiles":{"wagas":{"name":"wagas","base_url":"https://bi.wagas.com.cn","domain":"wagas","login_id":"${{ secrets.GUANCLI_USER }}","password":"${{ secrets.GUANCLI_PASS }}","auth_method":"password"}}}'
+          [IO.File]::WriteAllText("$configDir\config.json", $configJson)
 
       - name: 拉取昨天销售数据
         id: sales
@@ -70,14 +55,14 @@ jobs:
         working-directory: ${{ github.workspace }}
 
       - name: 拷贝文件到发布目录
-        shell: pwsh
+        shell: powershell
         run: |
           Copy-Item -Force wagas_stores_coverage_v4.html store-network/index.html
           Copy-Item -Force output/delivery_points_compact.json store-network/delivery_points_compact.json
         working-directory: ${{ github.workspace }}
 
       - name: 提交并推送到 GitHub
-        shell: pwsh
+        shell: powershell
         run: |
           git config user.name "Wagas Bot"
           git config user.email "bot@wagas.com"
