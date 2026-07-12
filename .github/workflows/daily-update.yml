@@ -38,6 +38,15 @@ jobs:
           $configJson = '{"profiles":{"wagas":{"name":"wagas","base_url":"https://bi.wagas.com.cn","domain":"wagas","login_id":"${{ secrets.GUANCLI_USER }}","password":"${{ secrets.GUANCLI_PASS }}","auth_method":"password"}}}'
           [IO.File]::WriteAllText("$configDir\config.json", $configJson)
 
+      - name: 登录 guancli 获取 token
+        shell: powershell
+        run: |
+          $env:GUANCLI_JS = (npm root -g).Trim() + "\@guandata\guancli\bin\run.js"
+          node $env:GUANCLI_JS auth login --profile wagas
+          Write-Host "guancli login completed"
+          Get-Content "$env:APPDATA\guancli\config.json" | Select-String "token"
+        continue-on-error: false
+
       - name: 拉取昨天销售数据
         id: sales
         run: python etl_pull_data.py --days 2 --output-dir ./output
