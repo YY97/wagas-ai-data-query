@@ -57,13 +57,13 @@ def run(dsid, filters, columns, out_file):
     print(f"  [guancli] pulling {out_file} ...")
 
     import time
-    for attempt in range(3):
+    for attempt in range(5):
         r = subprocess.run(cmd, capture_output=True, text=True, timeout=300, encoding='utf-8', errors='replace')
         if r.returncode == 0 and r.stdout and r.stdout.strip():
             break
-        print(f"  [RETRY {attempt+1}/3] guancli exit={r.returncode}" + (f" err={r.stderr[:60]}" if r.stderr else ""))
-        if attempt < 2:
-            time.sleep(5)
+        print(f"  [RETRY {attempt+1}/5] guancli exit={r.returncode}" + (f" err={r.stderr[:60]}" if r.stderr else ""))
+        if attempt < 4:
+            time.sleep(10)
 
     with open(out_file, "w", encoding="utf-8") as f:
         f.write(r.stdout or "")

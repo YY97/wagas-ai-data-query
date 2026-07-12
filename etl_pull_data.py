@@ -90,13 +90,13 @@ def run_guancli(ds_id, filters, columns, limit=50000, out_file=None):
 
     print(f"  [guancli] pulling {len(columns)} cols to {os.path.basename(out_file)} ...")
 
-    for attempt in range(3):
+    for attempt in range(5):
         result = subprocess.run(cmd, capture_output=True, text=True, timeout=300, encoding='utf-8', errors='replace')
         if result.returncode == 0 and result.stdout and result.stdout.strip():
             break
-        print(f"  [RETRY {attempt+1}/3] guancli exit={result.returncode}" + (f" err={result.stderr[:60]}" if result.stderr else ""))
-        if attempt < 2:
-            time.sleep(5)
+        print(f"  [RETRY {attempt+1}/5] guancli exit={result.returncode}" + (f" err={result.stderr[:60]}" if result.stderr else ""))
+        if attempt < 4:
+            time.sleep(10)
 
     with open(out_file, "w", encoding="utf-8") as fout:
         fout.write(result.stdout or "")
