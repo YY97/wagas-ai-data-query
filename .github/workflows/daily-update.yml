@@ -42,9 +42,8 @@ jobs:
         shell: powershell
         run: |
           $env:GUANCLI_JS = (npm root -g).Trim() + "\@guandata\guancli\bin\run.js"
-          node $env:GUANCLI_JS auth login --profile wagas
+          node $env:GUANCLI_JS auth login --profile wagas --login-id "${{ secrets.GUANCLI_USER }}" --password "${{ secrets.GUANCLI_PASS }}" --save-password
           Write-Host "guancli login completed"
-          Get-Content "$env:APPDATA\guancli\config.json" | Select-String "token"
         continue-on-error: false
 
       - name: 拉取昨天销售数据
