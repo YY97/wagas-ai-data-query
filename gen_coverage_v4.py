@@ -289,6 +289,10 @@ avg_ad = round(at / len(stores)) if len(stores) > 0 else 0
 # ============================================================
 # 5. 生成 HTML
 # ============================================================
+from datetime import datetime as dt
+update_time = dt.now().strftime("%Y-%m-%d %H:%M")
+missing_dates_js = json.dumps(missing, ensure_ascii=False) if missing else "[]"
+
 city_opts = "".join(f'<option value="{c}">{c}</option>' for c in sorted(cx.keys()))
 bsn = bx.get("Baker & Spice", 0) + bx.get("Baker&Spice", 0)
 fkn = bx.get("Funk & Kale", 0) + bx.get("Funk&Kale", 0)
@@ -408,11 +412,31 @@ body{{font-family:-apple-system,"SF Pro","PingFang SC","Microsoft YaHei",sans-se
   background:#1e293b;color:#f8fafc;padding:10px 20px;border-radius:8px;font-size:13px;
   box-shadow:0 4px 16px rgba(0,0,0,0.2);animation:toastIn 0.3s ease}}
 @keyframes toastIn{{from{{opacity:0;transform:translateX(-50%) translateY(-8px)}}to{{opacity:1;transform:translateX(-50%) translateY(0)}}}}
+
+/* ====== Loading 动画 ====== */
+.loading-overlay{{position:absolute;top:0;left:360px;right:0;bottom:0;z-index:999;
+  background:rgba(241,245,249,0.92);display:flex;flex-direction:column;align-items:center;justify-content:center;
+  transition:opacity 0.4s ease}}
+.loading-overlay.hidden{{opacity:0;pointer-events:none}}
+.loading-spinner{{width:40px;height:40px;border:4px solid #e2e8f0;border-top:4px solid #f97316;
+  border-radius:50%;animation:spin 0.8s linear infinite}}
+@keyframes spin{{to{{transform:rotate(360deg)}}}}
+.loading-text{{margin-top:12px;font-size:13px;color:#64748b}}
+
+/* ====== 数据缺失警告 ====== */
+.data-warning{{background:#fef2f2;border:1px solid #fecaca;border-radius:6px;padding:8px 12px;
+  margin-bottom:12px;font-size:11px;color:#991b1b;line-height:1.5}}
+.data-warning b{{color:#dc2626}}
+
+/* ====== 更新时间戳 ====== */
+.update-time{{font-size:10px;color:#94a3b8;margin-bottom:10px}}
 </style></head><body>
 
 <div class="panel">
 <h1>Wagas 门店网络效率诊断</h1>
 <div class="subtitle" id="panel-date">快照: <strong id="cur-date-display">{start_default} ~ {end_default}</strong> &nbsp;·&nbsp; {len(stores)} 家门店</div>
+<div class="update-time">数据更新于 {update_time}</div>
+<div class="data-warning" id="missing-warning" style="display:none"></div>
 
 <div class="kpi-grid">
 <div class="kpi-card"><div class="kpi-label">日均销售额</div><div class="kpi-value" id="stat-avg">{fmt(avg_ad)}</div><div class="kpi-sub" id="date-range-label">{start_default} ~ {end_default}</div></div>
@@ -461,6 +485,10 @@ body{{font-family:-apple-system,"SF Pro","PingFang SC","Microsoft YaHei",sans-se
 <div class="toggle-item"><span>按销售额着色</span><input type="checkbox" id="color-by-ads" checked onchange="applyFilter()"></div></div>
 </div>
 
+<div class="loading-overlay" id="loading-overlay">
+  <div class="loading-spinner"></div>
+  <div class="loading-text">加载外卖配送数据中...</div>
+</div>
 <div id="map"></div>
 <div class="heat-info" id="heat-info"></div>
 
@@ -487,7 +515,25 @@ var dateStart="{start_default}";var dateEnd="{end_default}";
 var deliveryData=null;
 fetch("delivery_points_compact.json").then(function(r){{return r.json()}}).then(function(d){{
   deliveryData=d;console.log("外卖点已加载: "+Object.keys(d).length+"店");
-}}).catch(function(e){{console.log("外卖点加载失败(可忽略):",e)}});
+  var overlay=document.getElementById("loading-overlay");
+  if(overlay) overlay.classList.add("hidden");
+}}).catch(function(e){{
+  console.log("外卖点加载失败(可忽略):",e);
+  var overlay=document.getElementById("loading-overlay");
+  if(overlay){{overlay.querySelector(".loading-text").textContent="外卖数据加载失败，地图仍可使用";overlay.classList.add("hidden");}}
+}});
+
+// 数据缺失警告
+var missingDates={missing_dates_js};
+if(missingDates.length>0){{
+  var w=document.getElementById("missing-warning");
+  if(w){{
+    w.style.display="block";
+    var shown=missingDates.slice(0,5).join(", ");
+    var extra=missingDates.length>5?" 等"+missingDates.length+"天":"";
+    w.innerHTML="<b>数据缺失提醒:</b> 近30天内有 "+missingDates.length+" 天缺少销售数据 ("+shown+extra+")，相关日期的门店指标可能不准确。";
+  }}
+}}
 
 var heatLayer=null, activeHeatStore=null;
 
