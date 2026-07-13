@@ -15,6 +15,7 @@ CHS_CSV = os.path.join(SCRIPT_DIR, "output", "store_channel_sales.csv")
 DLV_JSON = os.path.join(SCRIPT_DIR, "output", "delivery_points.json")
 DLV_OUT = os.path.join(SCRIPT_DIR, "output", "delivery_points_compact.json")
 MKT_CSV = os.path.join(SCRIPT_DIR, "output", "store_market_context.csv")
+TOP_LOC_CSV = os.path.join(SCRIPT_DIR, "output", "delivery_top_locations.csv")
 OUTPUT_HTML = os.path.join(SCRIPT_DIR, "wagas_stores_coverage_v4.html")
 
 R = 6371000
@@ -140,11 +141,31 @@ else:
 dlv_stores = len(delivery_data)
 dlv_points = sum(len(v) for v in delivery_data.values())
 
-# 输出压缩版 (紧凑 JSON, 浏览器用)
-with open(DLV_OUT, "w", encoding="utf-8") as f:
-    json.dump(delivery_data, f, ensure_ascii=False, separators=(",", ":"))
-dlv_size = os.path.getsize(DLV_OUT) / 1024
-print(f"   门店: {dlv_stores}, 唯一点: {dlv_points}, 压缩: {dlv_size:.0f}KB")
+# 按城市拆分输出配送数据（前端按需加载，避免一次性加载 13MB）
+DLV_DIR = os.path.join(SCRIPT_DIR, "output", "delivery_by_city")
+os.makedirs(DLV_DIR, exist_ok=True)
+# 建立 store_id -> city 映射
+store_city = {{}}
+for sid, s in sm.items():
+    store_city[sid] = s.get("city", "未知")
+# 按城市分组配送数据
+city_delivery = {{}}
+for sid, pts in delivery_data.items():
+    city = store_city.get(sid, "未知")
+    if city not in city_delivery:
+        city_delivery[city] = {{}}
+    city_delivery[city][sid] = pts
+# 写每个城市的 JSON
+for city, city_data in city_delivery.items():
+    city_file = os.path.join(DLV_DIR, f"delivery_{{city}}.json")
+    with open(city_file, "w", encoding="utf-8") as f:
+        json.dump(city_data, f, ensure_ascii=False, separators=(",", ":"))
+# 写索引文件（store_id -> city 映射）
+index_file = os.path.join(os.path.join(SCRIPT_DIR, "output"), "delivery_city_index.json")
+with open(index_file, "w", encoding="utf-8") as f:
+    json.dump(store_city, f, ensure_ascii=False, separators=(",", ":"))
+dlv_size = sum(os.path.getsize(os.path.join(DLV_DIR, f)) for f in os.listdir(DLV_DIR)) / 1024
+print(f"   门店: {dlv_stores}, 唯一点: {dlv_points}, 城市数: {len(city_delivery)}, 总大小: {dlv_size:.0f}KB")
 
 # ============================================================
 # 3b. 读取渠道销售拆分 (店内/外卖)
@@ -202,6 +223,28 @@ else:
     print(f"   门店: {len(store_market)}")
 
 # ============================================================
+# 3d. 读取热门配送地 TOP10
+# ============================================================
+print("3d. 热门配送地:", TOP_LOC_CSV)
+store_top_loc = {}  # {sid: [{rank, name, dist, count}, ...]}
+if not os.path.exists(TOP_LOC_CSV):
+    print("   [WARN] delivery_top_locations.csv 不存在，跳过热门配送地数据")
+else:
+    with open(TOP_LOC_CSV, "r", encoding="utf-8-sig") as f:
+        for r in csv.DictReader(f):
+            sid = r.get("门店ID", "").strip()
+            if sid:
+                if sid not in store_top_loc:
+                    store_top_loc[sid] = []
+                store_top_loc[sid].append({
+                    "rank": int(r.get("排名", 0)),
+                    "name": r.get("地点名称", ""),
+                    "dist": float(r.get("距离(km)", 0) or 0),
+                    "count": int(r.get("配送次数", 0) or 0)
+                })
+    print(f"   门店: {len(store_top_loc)}")
+
+# ============================================================
 # 4. 合并门店 + 销售 → 地图门店列表
 # ============================================================
 stores = []
@@ -210,6 +253,7 @@ for sid, s in sm.items():
     s["ads_data"] = store_ads[sid]
     s["ads"] = s["ads_data"].get(default_date)
     s["market"] = store_market.get(sid)
+    s["top_loc"] = store_top_loc.get(sid, [])
     stores.append(s)
 
 print(f"   地图门店: {len(stores)}")
@@ -577,14 +621,15 @@ var stores={json.dumps(store_js, ensure_ascii=False)};
 var dateData={date_data_js};
 var dateStart="{start_default}";var dateEnd="{end_default}";
 
-// 外卖配送点数据 (异步加载)
-var deliveryData=null;
-fetch("delivery_points_compact.json").then(function(r){{return r.json()}}).then(function(d){{
-  deliveryData=d;console.log("外卖点已加载: "+Object.keys(d).length+"店");
+// 外卖配送点数据 (按城市按需加载)
+var deliveryCityIndex=null;
+var deliveryCityCache={{}};
+fetch("delivery_city_index.json").then(function(r){{return r.json()}}).then(function(d){{
+  deliveryCityIndex=d;console.log("配送城市索引已加载: "+Object.keys(d).length+"店");
   var overlay=document.getElementById("loading-overlay");
   if(overlay) overlay.classList.add("hidden");
 }}).catch(function(e){{
-  console.log("外卖点加载失败(可忽略):",e);
+  console.log("配送索引加载失败(可忽略):",e);
   var overlay=document.getElementById("loading-overlay");
   if(overlay){{overlay.querySelector(".loading-text").textContent="外卖数据加载失败，地图仍可使用";overlay.classList.add("hidden");}}
 }});
@@ -773,6 +818,24 @@ function createPopup(s){{
     h+='</div>';
   }}
 
+  // 热门配送地 TOP10
+  if(s.top_loc && s.top_loc.length>0){{
+    h+='<div style="margin-top:6px;padding:6px 8px;background:#eff6ff;border-left:3px solid #3b82f6;border-radius:3px;font-size:10px">';
+    h+='<div style="font-weight:700;color:#1e40af;margin-bottom:3px">热门配送地 TOP'+s.top_loc.length+'</div>';
+    h+='<div style="max-height:150px;overflow-y:auto">';
+    h+='<table style="width:100%;border-collapse:collapse;font-size:9px">';
+    h+='<tr style="color:#64748b;border-bottom:1px solid #dbeafe"><th style="text-align:left;padding:2px 0">#</th><th style="text-align:left;padding:2px 0">地点</th><th style="text-align:right;padding:2px 4px">距离</th><th style="text-align:right;padding:2px 0">单数</th></tr>';
+    s.top_loc.forEach(function(t){{
+      h+='<tr style="border-bottom:1px solid #f1f5f9">';
+      h+='<td style="padding:2px 0;color:#94a3b8">'+t.rank+'</td>';
+      h+='<td style="padding:2px 0;max-width:120px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap">'+(t.name||'未知')+'</td>';
+      h+='<td style="padding:2px 4px;text-align:right;color:#64748b">'+t.dist+'km</td>';
+      h+='<td style="padding:2px 0;text-align:right;font-weight:600">'+t.count+'</td>';
+      h+='</tr>';
+    }});
+    h+='</table></div></div>';
+  }}
+
   var ol=s.overlap||0;
   if(ol>0){{
     h+='<div style="margin-top:6px;padding:4px 6px;background:#fef3c7;border-left:3px solid #d97706;border-radius:3px;font-size:10px">'+
@@ -794,34 +857,51 @@ function createPopup(s){{
 }}
 
 function toggleHeat(sid,btn){{
-  if(!deliveryData){{showToast("外卖数据加载中，请稍候");btn.classList.add("loading");setTimeout(function(){{btn.classList.remove("loading")}},2000);return}}
-  var pts=deliveryData[sid];
-  if(!pts||!pts.length){{showToast("该门店暂无外卖配送数据");return}}
+  if(!deliveryCityIndex){{showToast("配送索引加载中，请稍候");return}}
+  var city=deliveryCityIndex[sid];
+  if(!city){{showToast("该门店暂无外卖配送数据");return}}
 
-  if(activeHeatStore===sid){{
-    // 关闭热力
-    if(heatLayer){{map.removeLayer(heatLayer);heatLayer=null}}
-    activeHeatStore=null;
-    document.getElementById("heat-info").style.display="none";
-    btn.classList.remove("active");btn.textContent="🔥 外卖热力图";
-    return;
+  // 按需加载城市配送数据
+  function showHeat(cityData){{
+    var pts=cityData[sid];
+    if(!pts||!pts.length){{showToast("该门店暂无外卖配送数据");return}}
+    if(activeHeatStore===sid){{
+      if(heatLayer){{map.removeLayer(heatLayer);heatLayer=null}}
+      activeHeatStore=null;
+      document.getElementById("heat-info").style.display="none";
+      btn.classList.remove("active");btn.textContent="🔥 外卖热力图";
+      return;
+    }}
+    if(heatLayer){{map.removeLayer(heatLayer)}}
+    var hp=pts.map(function(p){{return [p.lat,p.lng,p.w]}});
+    heatLayer=L.heatLayer(hp,{{
+      radius:25,blur:15,maxZoom:17,
+      gradient:{{0.2:"blue",0.4:"cyan",0.6:"lime",0.8:"yellow",1.0:"red"}},
+      max:Math.max.apply(null,pts.map(function(p){{return p.w}}))
+    }}).addTo(map);
+    activeHeatStore=sid;
+    document.getElementById("heat-info").style.display="block";
+    document.getElementById("heat-info").innerHTML='<span class="heat-count">'+pts.length+'</span> 个配送地址(7天) &nbsp;·&nbsp; 再次点击关闭';
+    btn.classList.add("active");btn.textContent="关闭热力图";
   }}
 
-  // 移除旧热力
-  if(heatLayer){{map.removeLayer(heatLayer)}}
-
-  // 创建新热力
-  var hp=pts.map(function(p){{return [p.lat,p.lng,p.w]}});
-  heatLayer=L.heatLayer(hp,{{
-    radius:25,blur:15,maxZoom:17,
-    gradient:{{0.2:"blue",0.4:"cyan",0.6:"lime",0.8:"yellow",1.0:"red"}},
-    max:Math.max.apply(null,pts.map(function(p){{return p.w}}))
-  }}).addTo(map);
-
-  activeHeatStore=sid;
-  document.getElementById("heat-info").style.display="block";
-  document.getElementById("heat-info").innerHTML='<span class="heat-count">'+pts.length+'</span> 个配送地址(7天) &nbsp;·&nbsp; 再次点击关闭';
-  btn.classList.add("active");btn.textContent="关闭热力图";
+  // 检查缓存
+  if(deliveryCityCache[city]){{
+    showHeat(deliveryCityCache[city]);
+  }}else{{
+    btn.classList.add("loading");
+    showToast("加载"+city+"配送数据...");
+    fetch("delivery_by_city/delivery_"+encodeURIComponent(city)+".json").then(function(r){{return r.json()}}).then(function(d){{
+      deliveryCityCache[city]=d;
+      console.log(city+"配送数据已加载: "+Object.keys(d).length+"店");
+      btn.classList.remove("loading");
+      showHeat(d);
+    }}).catch(function(e){{
+      btn.classList.remove("loading");
+      showToast("配送数据加载失败");
+      console.log("加载失败:",e);
+    }});
+  }}
 }}
 
 function passFilters(s){{
@@ -955,5 +1035,5 @@ with open(OUTPUT_HTML, "w", encoding="utf-8") as f:
     f.write(html)
 
 print(f"\nV4 地图: {OUTPUT_HTML}  ({os.path.getsize(OUTPUT_HTML)/1024:.0f}KB)")
-print(f"外卖热力数据: {DLV_OUT}  ({dlv_size:.0f}KB)")
-print(f"部署需复制: {os.path.basename(OUTPUT_HTML)} + {os.path.basename(DLV_OUT)}")
+print(f"外卖热力数据: delivery_by_city/ ({len(city_delivery)} 个城市, {dlv_size:.0f}KB)")
+print(f"部署需复制: {os.path.basename(OUTPUT_HTML)} + delivery_city_index.json + delivery_by_city/")

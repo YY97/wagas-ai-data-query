@@ -71,6 +71,19 @@ jobs:
         working-directory: ${{ github.workspace }}
         continue-on-error: true
 
+      - name: 更新热门配送地 TOP10
+        id: toploc
+        shell: powershell
+        run: |
+          $day = (Get-Date).Day
+          if ($day -ne 1 -and '${{ github.event_name }}' -ne 'workflow_dispatch') {
+            Write-Host "Skipping top locations ETL (today is day $day, only runs on 1st of month)"
+            exit 0
+          }
+          python etl_delivery_top_locations.py --key ${{ secrets.AMAP_KEY }} --output-dir ./output
+        working-directory: ${{ github.workspace }}
+        continue-on-error: true
+
       - name: 生成地图
         run: python gen_coverage_v4.py
         working-directory: ${{ github.workspace }}
@@ -85,11 +98,18 @@ jobs:
           } else {
             Write-Host "HTML not generated, skipping"
           }
-          if (Test-Path output/delivery_points_compact.json) {
-            Copy-Item -Force output/delivery_points_compact.json store-network/delivery_points_compact.json
-            Write-Host "Delivery JSON copied"
+          if (Test-Path output/delivery_city_index.json) {
+            Copy-Item -Force output/delivery_city_index.json store-network/delivery_city_index.json
+            Write-Host "Delivery index copied"
           } else {
-            Write-Host "Delivery JSON not found, skipping"
+            Write-Host "Delivery index not found, skipping"
+          }
+          if (Test-Path output/delivery_by_city) {
+            New-Item -ItemType Directory -Force -Path store-network/delivery_by_city | Out-Null
+            Copy-Item -Force -Recurse output/delivery_by_city/* store-network/delivery_by_city/
+            Write-Host "Delivery city data copied"
+          } else {
+            Write-Host "Delivery city data not found, skipping"
           }
         working-directory: ${{ github.workspace }}
 
@@ -98,7 +118,7 @@ jobs:
         run: |
           git config user.name "Wagas Bot"
           git config user.email "bot@wagas.com"
-          git add store-network/index.html store-network/delivery_points_compact.json output/
+          git add store-network/ output/
           $diff = git diff --staged --quiet 2>&1
           if ($LASTEXITCODE -ne 0) {
             $today = Get-Date -Format "yyyy-MM-dd"
