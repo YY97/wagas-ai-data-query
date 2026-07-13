@@ -193,7 +193,11 @@ else:
                     "median_cost": float(r.get("median_cost", 0) or 0) or None,
                     "avg_rating": float(r.get("avg_rating", 0) or 0) or None,
                     "top_categories": r.get("top_categories", ""),
-                    "business_area": r.get("business_area", "")
+                    "business_area": r.get("business_area", ""),
+                    "office_count": int(r.get("office_count", 0) or 0),
+                    "residential_count": int(r.get("residential_count", 0) or 0),
+                    "metro_count": int(r.get("metro_count", 0) or 0),
+                    "nearest_metro_km": float(r.get("nearest_metro_km", 0) or 0) or None
                 }
     print(f"   门店: {len(store_market)}")
 
@@ -592,10 +596,14 @@ function createPopup(s){{
     h+='<div style="margin-top:6px;padding:6px 8px;background:#f0fdf4;border-left:3px solid #22c55e;border-radius:3px;font-size:10px">';
     h+='<div style="font-weight:700;color:#166534;margin-bottom:3px">商圈环境 (3km内)</div>';
     h+='<div style="display:grid;grid-template-columns:1fr 1fr;gap:2px">';
-    h+='<div>餐厅数: <b>'+mk.poi_count+'</b></div>';
+    h+='<div>餐厅: <b>'+mk.poi_count+'</b></div>';
     h+='<div>评分: <b>'+(mk.avg_rating?mk.avg_rating.toFixed(1):'N/A')+'</b></div>';
     h+='<div>人均: <b>'+(mk.avg_cost?'¥'+mk.avg_cost:'N/A')+'</b></div>';
     h+='<div>中位数: <b>'+(mk.median_cost?'¥'+mk.median_cost:'N/A')+'</b></div>';
+    h+='<div>写字楼: <b>'+mk.office_count+'</b></div>';
+    h+='<div>住宅: <b>'+mk.residential_count+'</b></div>';
+    h+='<div>地铁站: <b>'+mk.metro_count+'</b></div>';
+    h+='<div>最近地铁: <b>'+(mk.nearest_metro_km?mk.nearest_metro_km+'km':'N/A')+'</b></div>';
     h+='</div>';
     if(mk.business_area) h+='<div style="margin-top:2px;color:#4b5563">商圈: <b>'+mk.business_area+'</b></div>';
     if(mk.top_categories) h+='<div style="margin-top:2px;color:#4b5563;font-size:9px">品类: '+mk.top_categories+'</div>';

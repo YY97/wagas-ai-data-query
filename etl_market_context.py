@@ -29,8 +29,26 @@ POI_TYPES = {
     "050400": "休闲餐饮",
     "050500": "咖啡厅",
 }
+# 额外品类：写字楼、住宅小区、地铁站（只计数量，不做评分/人均聚合）
+POI_TYPES_EXTRA = {
+    "120200": "office",      # 商务楼宇
+    "120300": "residential", # 住宅小区
+    "150500": "metro",       # 地铁站
+}
 PAGE_SIZE = 25
 SLEEP_BETWEEN = 0.4   # 秒，控制 QPS（免费 3 QPS）
+
+
+def haversine(lat1, lng1, lat2, lng2):
+    """两点间距离(km)，用 Haversine 公式"""
+    import math
+    R = 6371
+    dlat = math.radians(lat2 - lat1)
+    dlng = math.radians(lng2 - lng1)
+    a = (math.sin(dlat / 2) ** 2 +
+         math.cos(math.radians(lat1)) * math.cos(math.radians(lat2)) *
+         math.sin(dlng / 2) ** 2)
+    return R * 2 * math.atan2(math.sqrt(a), math.sqrt(1 - a))
 
 
 def search_nearby(key, lng, lat, radius=SEARCH_RADIUS, max_pages=4):
@@ -67,6 +85,47 @@ def search_nearby(key, lng, lat, radius=SEARCH_RADIUS, max_pages=4):
             time.sleep(SLEEP_BETWEEN)
         time.sleep(SLEEP_BETWEEN)
     return all_pois
+
+
+def search_extra(key, lng, lat, radius=SEARCH_RADIUS):
+    """搜索写字楼、住宅小区、地铁站，返回数量和最近地铁距离"""
+    counts = {"office": 0, "residential": 0, "metro": 0}
+    nearest_metro_km = None
+    for type_code, category in POI_TYPES_EXTRA.items():
+        url = (f"{AMAP_API}?key={key}&location={lng},{lat}"
+               f"&radius={radius}&types={type_code}"
+               f"&offset={PAGE_SIZE}&page=1")
+        for attempt in range(3):
+            try:
+                req = urllib.request.urlopen(url, timeout=15)
+                data = json.loads(req.read())
+                break
+            except Exception as e:
+                if attempt < 2:
+                    time.sleep(2)
+                else:
+                    data = {}
+        if data.get("status") != "1":
+            continue
+        pois = data.get("pois", [])
+        counts[category] = len(pois)
+        # 地铁站算最近距离
+        if category == "metro" and pois:
+            min_dist = float("inf")
+            for p in pois:
+                loc = p.get("location", "")
+                if "," in loc:
+                    try:
+                        plng, plat = float(loc.split(",")[0]), float(loc.split(",")[1])
+                        d = haversine(lat, lng, plat, plng)
+                        if d < min_dist:
+                            min_dist = d
+                    except (ValueError, IndexError):
+                        pass
+            if min_dist < float("inf"):
+                nearest_metro_km = round(min_dist, 2)
+        time.sleep(SLEEP_BETWEEN)
+    return counts, nearest_metro_km
 
 
 def aggregate(pois):
@@ -185,15 +244,17 @@ def main():
     # 逐店查询
     results = []
     for i, s in enumerate(stores):
-        # 跳过已有数据的门店（增量更新）
-        if s["sid"] in existing and existing[s["sid"]].get("poi_count", "0") != "0":
-            results.append(existing[s["sid"]])
+        # 跳过已有完整数据的门店（增量更新，需要包含新字段）
+        ex = existing.get(s["sid"])
+        if ex and ex.get("poi_count", "0") != "0" and ex.get("office_count", "") != "":
+            results.append(ex)
             if (i + 1) % 50 == 0:
                 print(f"  [{i+1}/{len(stores)}] {s['name']} (cached)")
             continue
 
         pois = search_nearby(args.key, s["lng"], s["lat"], args.radius)
         agg = aggregate(pois)
+        extra, nearest_metro = search_extra(args.key, s["lng"], s["lat"], args.radius)
         row = {
             "门店ID": s["sid"],
             "门店名称": s["name"],
@@ -203,20 +264,26 @@ def main():
             "median_cost": agg["median_cost"] if agg["median_cost"] else "",
             "avg_rating": agg["avg_rating"] if agg["avg_rating"] else "",
             "top_categories": agg["top_categories"],
-            "business_area": agg["business_area"]
+            "business_area": agg["business_area"],
+            "office_count": extra["office"],
+            "residential_count": extra["residential"],
+            "metro_count": extra["metro"],
+            "nearest_metro_km": nearest_metro if nearest_metro else ""
         }
         results.append(row)
 
         if (i + 1) % 10 == 0 or i == len(stores) - 1:
-            print(f"  [{i+1}/{len(stores)}] {s['name']}: {agg['count']} 家餐厅"
-                  f" | 人均 {agg['avg_cost'] or 'N/A'}"
-                  f" | 评分 {agg['avg_rating'] or 'N/A'}"
+            metro_str = f"{nearest_metro}km" if nearest_metro else "N/A"
+            print(f"  [{i+1}/{len(stores)}] {s['name']}: {agg['count']}餐厅"
+                  f" | 写字楼{extra['office']} 住宅{extra['residential']}"
+                  f" | 地铁{extra['metro']}站(最近{metro_str})"
                   f" | 商圈 {agg['business_area']}")
         time.sleep(SLEEP_BETWEEN)
 
     # 写 CSV
     fieldnames = ["门店ID", "门店名称", "城市", "poi_count", "avg_cost",
-                  "median_cost", "avg_rating", "top_categories", "business_area"]
+                  "median_cost", "avg_rating", "top_categories", "business_area",
+                  "office_count", "residential_count", "metro_count", "nearest_metro_km"]
     os.makedirs(output_dir, exist_ok=True)
     with open(out_csv, "w", newline="", encoding="utf-8-sig") as f:
         w = csv.DictWriter(f, fieldnames=fieldnames)
