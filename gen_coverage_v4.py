@@ -145,19 +145,19 @@ dlv_points = sum(len(v) for v in delivery_data.values())
 DLV_DIR = os.path.join(SCRIPT_DIR, "output", "delivery_by_city")
 os.makedirs(DLV_DIR, exist_ok=True)
 # 建立 store_id -> city 映射
-store_city = {{}}
+store_city = {}
 for sid, s in sm.items():
     store_city[sid] = s.get("city", "未知")
 # 按城市分组配送数据
-city_delivery = {{}}
+city_delivery = {}
 for sid, pts in delivery_data.items():
     city = store_city.get(sid, "未知")
     if city not in city_delivery:
-        city_delivery[city] = {{}}
+        city_delivery[city] = {}
     city_delivery[city][sid] = pts
 # 写每个城市的 JSON
 for city, city_data in city_delivery.items():
-    city_file = os.path.join(DLV_DIR, f"delivery_{{city}}.json")
+    city_file = os.path.join(DLV_DIR, f"delivery_{city}.json")
     with open(city_file, "w", encoding="utf-8") as f:
         json.dump(city_data, f, ensure_ascii=False, separators=(",", ":"))
 # 写索引文件（store_id -> city 映射）
