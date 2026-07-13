@@ -110,6 +110,7 @@ def main():
     sm_csv = os.path.join(output_dir, "store_master.csv")
     dlv_json = os.path.join(output_dir, "delivery_points.json")
     out_csv = os.path.join(output_dir, "delivery_top_locations.csv")
+    cache_file = os.path.join(output_dir, "delivery_geocode_cache.json")
 
     if not os.path.exists(sm_csv):
         print(f"[ERROR] {sm_csv} 不存在")
@@ -117,6 +118,13 @@ def main():
     if not os.path.exists(dlv_json):
         print(f"[ERROR] {dlv_json} 不存在")
         sys.exit(1)
+
+    # 加载地理编码缓存
+    geo_cache = {}
+    if os.path.exists(cache_file):
+        with open(cache_file, "r", encoding="utf-8") as f:
+            geo_cache = json.load(f)
+        print(f"  地理编码缓存: {len(geo_cache)} 条")
 
     # 读取门店坐标
     store_coords = {}
@@ -153,6 +161,8 @@ def main():
     # 逐店处理
     results = []
     processed = 0
+    cache_hits = 0
+    cache_misses = 0
     for sid, (slat, slng) in store_coords.items():
         # 跳过已有数据的门店
         if sid in existing and len(existing[sid]) >= TOP_N:
@@ -179,9 +189,16 @@ def main():
             weight = p.get("w", 1)
             dist_km = round(haversine(slat, slng, plat, plng), 2)
 
-            # 逆地理编码获取地点名称
-            loc_name = reverse_geo_name(args.key, plng, plat)
-            time.sleep(SLEEP_BETWEEN)
+            # 逆地理编码（先查缓存）
+            cache_key = f"{plat},{plng}"
+            if cache_key in geo_cache:
+                loc_name = geo_cache[cache_key]
+                cache_hits += 1
+            else:
+                loc_name = reverse_geo_name(args.key, plng, plat)
+                geo_cache[cache_key] = loc_name
+                cache_misses += 1
+                time.sleep(SLEEP_BETWEEN)
 
             results.append({
                 "门店ID": sid,
@@ -204,7 +221,12 @@ def main():
         for row in results:
             w.writerow(row)
 
+    # 保存地理编码缓存
+    with open(cache_file, "w", encoding="utf-8") as f:
+        json.dump(geo_cache, f, ensure_ascii=False)
+
     print(f"\n  -> {out_csv} ({len(results)} 行)")
+    print(f"  缓存命中: {cache_hits}, 新查询: {cache_misses}, 缓存总量: {len(geo_cache)}")
     print(f"{'=' * 60}")
 
 
