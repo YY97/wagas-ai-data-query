@@ -258,7 +258,7 @@ for s in stores:
     }
     # 配送距离分布（互斥区间，加起来 = 100%）
     pts = delivery_data.get(sid, [])
-    d1 = d2 = d3 = d4 = d_total = 0
+    d1 = d2 = d3 = d4 = d5 = d_total = 0
     for p in pts:
         dist = hd(s["lat"], s["lng"], p["lat"], p["lng"])
         w = p.get("w", 1)
@@ -269,13 +269,16 @@ for s in stores:
             d2 += w
         elif dist <= 3.0:
             d3 += w
-        else:
+        elif dist <= 5.0:
             d4 += w
+        else:
+            d5 += w
     s["dist"] = {
         "d1_pct": round(d1 / d_total * 100, 1) if d_total > 0 else None,
         "d2_pct": round(d2 / d_total * 100, 1) if d_total > 0 else None,
         "d3_pct": round(d3 / d_total * 100, 1) if d_total > 0 else None,
         "d4_pct": round(d4 / d_total * 100, 1) if d_total > 0 else None,
+        "d5_pct": round(d5 / d_total * 100, 1) if d_total > 0 else None,
         "total_orders": d_total
     }
 
@@ -480,11 +483,13 @@ body{{font-family:-apple-system,"SF Pro","PingFang SC","Microsoft YaHei",sans-se
 <div class="filter-group"><select id="fmt-filter" onchange="applyFilter()">
 <option value="all">全部门店类型</option>{fmt_opts}
 </select></div>
-<div class="filter-group"><input id="search-input" placeholder="搜索门店名称..." oninput="applyFilter()"></div></div>
+<div class="filter-group"><input id="search-input" placeholder="门店名称(逗号分隔可多选)..." oninput="applyFilter()"></div>
+<div class="filter-group"><input id="search-sid" placeholder="Store ID(逗号分隔可多选)..." oninput="applyFilter()"></div></div>
 
 <div class="section"><div class="section-title">🎛 图层</div>
 <div class="toggle-item"><span>门店点位</span><input type="checkbox" id="show-markers" checked onchange="applyFilter()"></div>
 <div class="toggle-item"><span>1km 覆盖圈</span><input type="checkbox" id="show-circles" checked onchange="applyFilter()"></div>
+<div class="toggle-item"><span>3km 覆盖圈</span><input type="checkbox" id="show-circles-3km" onchange="applyFilter()"></div>
 <div class="toggle-item"><span>高亮重合区域</span><input type="checkbox" id="highlight-overlap" onchange="applyFilter()"></div>
 <div class="toggle-item"><span>按销售额着色</span><input type="checkbox" id="color-by-ads" checked onchange="applyFilter()"></div></div>
 </div>
@@ -582,11 +587,12 @@ function createPopup(s){{
     var dt=s.dist;
     h+='<div style="margin-top:6px;padding:6px 8px;background:#fef3c7;border-left:3px solid #d97706;border-radius:3px;font-size:10px">';
     h+='<div style="font-weight:700;color:#92400e;margin-bottom:3px">外卖订单距离分布 ('+dt.total_orders+'单)</div>';
-    h+='<div style="display:grid;grid-template-columns:1fr 1fr 1fr 1fr;gap:2px;text-align:center">';
+    h+='<div style="display:grid;grid-template-columns:1fr 1fr 1fr 1fr 1fr;gap:2px;text-align:center">';
     h+='<div>&le;1km<br><b>'+(dt.d1_pct!=null?dt.d1_pct+'%':'N/A')+'</b></div>';
     h+='<div>1-2km<br><b>'+(dt.d2_pct!=null?dt.d2_pct+'%':'N/A')+'</b></div>';
     h+='<div>2-3km<br><b>'+(dt.d3_pct!=null?dt.d3_pct+'%':'N/A')+'</b></div>';
-    h+='<div>&gt;3km<br><b>'+(dt.d4_pct!=null?dt.d4_pct+'%':'N/A')+'</b></div>';
+    h+='<div>3-5km<br><b>'+(dt.d4_pct!=null?dt.d4_pct+'%':'N/A')+'</b></div>';
+    h+='<div>&gt;5km<br><b>'+(dt.d5_pct!=null?dt.d5_pct+'%':'N/A')+'</b></div>';
     h+='</div></div>';
   }}
 
@@ -667,10 +673,20 @@ function passFilters(s){{
   var ff=document.getElementById("fmt-filter").value;
   var af=document.getElementById("ads-filter").value;
   var sf=document.getElementById("search-input").value.trim().toLowerCase();
+  var sidf=document.getElementById("search-sid").value.trim().toUpperCase();
   if(bf!=="all"&&s.brand!==bf&&s.brand!==bf.replace("&"," & "))return false;
   if(cf!=="all"&&s.city!==cf)return false;
   if(ff!=="all"&&s.fmt!==ff)return false;
-  if(sf&&!s.name.toLowerCase().includes(sf))return false;
+  // 门店名称支持逗号分隔多选
+  if(sf){{
+    var terms=sf.split(",").map(function(t){{return t.trim()}}).filter(Boolean);
+    if(terms.length>0&&!terms.some(function(t){{return s.name.toLowerCase().includes(t)}}))return false;
+  }}
+  // Store ID 支持逗号分隔多选
+  if(sidf){{
+    var sids=sidf.split(",").map(function(t){{return t.trim()}}).filter(Boolean);
+    if(sids.length>0&&!sids.some(function(id){{return s.sid.toUpperCase().includes(id)}}))return false;
+  }}
   if(af!=="all"){{var v=getAds(s.sid)||0;
     if(af==="lt5000"&&v>=5000)return false;
     if(af==="5000to10000"&&(v<5000||v>=10000))return false;
@@ -683,16 +699,18 @@ var map=L.map("map").setView([{MAP_CENTER[0]},{MAP_CENTER[1]}],10);
 L.tileLayer("https://webrd0{{s}}.is.autonavi.com/appmaptile?lang=zh_cn&size=1&scale=1&style=8&x={{x}}&y={{y}}&z={{z}}",
   {{subdomains:"1234",attribution:"高德底图"}}).addTo(map);
 
-var markers=[],circles=[];
+var markers=[],circles=[],circles3km=[];
 
 function applyFilter(){{
   // 保持热力图(如果有)
   markers.forEach(function(m){{map.removeLayer(m)}});
   circles.forEach(function(c){{map.removeLayer(c)}});
-  markers=[];circles=[];
+  circles3km.forEach(function(c){{map.removeLayer(c)}});
+  markers=[];circles=[];circles3km=[];
 
   var sm=document.getElementById("show-markers").checked;
   var sc=document.getElementById("show-circles").checked;
+  var sc3=document.getElementById("show-circles-3km").checked;
   var ho=document.getElementById("highlight-overlap").checked;
   var ca=document.getElementById("color-by-ads").checked;
 
@@ -700,12 +718,21 @@ function applyFilter(){{
   if(!filtered.length)return;
   var bounds=[];
 
-  // 覆盖圈
+  // 1km 覆盖圈
   if(sc||!sm){{
     filtered.forEach(function(s){{
       var oc=s.overlap>=3?"#dc2626":"#3b82f6",op=ho&&s.overlap>=3?0.25:0.08,ow=ho&&s.overlap>=3?2:1;
       var c=L.circle([s.lat,s.lng],{{radius:1000,color:oc,weight:ow,opacity:ow,fillColor:oc,fillOpacity:op}});
       c.bindPopup(createPopup(s));c.addTo(map);circles.push(c);
+      bounds.push([s.lat,s.lng]);
+    }});
+  }}
+
+  // 3km 覆盖圈
+  if(sc3){{
+    filtered.forEach(function(s){{
+      var c=L.circle([s.lat,s.lng],{{radius:3000,color:"#22c55e",weight:1,opacity:0.6,fillColor:"#22c55e",fillOpacity:0.04,dashArray:"6,4"}});
+      c.addTo(map);circles3km.push(c);
       bounds.push([s.lat,s.lng]);
     }});
   }}
