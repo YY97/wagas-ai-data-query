@@ -20,8 +20,9 @@ import urllib.request
 import urllib.error
 from collections import Counter
 
-AMAP_API = "https://restapi.amap.com/v5/place/around"
-SEARCH_RADIUS = 3000  # 3km
+AMAP_V3 = "https://restapi.amap.com/v3/place/around"
+RESTAURANT_RADIUS = 1000  # 1km
+EXTRA_RADII = {"office": 1000, "residential": 1000, "metro": 3000}
 POI_TYPES = {
     "050100": "中餐厅",
     "050200": "外国餐厅",
@@ -29,14 +30,13 @@ POI_TYPES = {
     "050400": "休闲餐饮",
     "050500": "咖啡厅",
 }
-# 额外品类：写字楼、住宅小区、地铁站（只计数量，不做评分/人均聚合）
 POI_TYPES_EXTRA = {
     "120200": "office",      # 商务楼宇
     "120300": "residential", # 住宅小区
     "150500": "metro",       # 地铁站
 }
 PAGE_SIZE = 25
-SLEEP_BETWEEN = 0.4   # 秒，控制 QPS（免费 3 QPS）
+SLEEP_BETWEEN = 0.4   # 秒，控制 QPS（免费 30 QPS，保守用 0.4s）
 
 
 def haversine(lat1, lng1, lat2, lng2):
@@ -51,69 +51,117 @@ def haversine(lat1, lng1, lat2, lng2):
     return R * 2 * math.atan2(math.sqrt(a), math.sqrt(1 - a))
 
 
-def search_nearby(key, lng, lat, radius=SEARCH_RADIUS, max_pages=4):
-    """搜索周边餐饮 POI，按子品类分别搜索并去重"""
-    seen = set()  # 用 (name, lat, lng) 去重
+def _api_get(url, retries=3):
+    """带重试的 API 请求"""
+    for attempt in range(retries):
+        try:
+            req = urllib.request.urlopen(url, timeout=15)
+            data = json.loads(req.read())
+            if data.get("status") == "1":
+                return data
+        except Exception as e:
+            if attempt < retries - 1:
+                time.sleep(2)
+            else:
+                print(f"    [WARN] API 请求失败: {e}")
+    return {}
+
+
+def _normalize_v3_poi(p):
+    """将 v3 POI 字段标准化为 business dict 格式"""
+    biz_ext = p.get("biz_ext", {}) or {}
+    p["business"] = {
+        "cost": biz_ext.get("cost"),
+        "rating": biz_ext.get("rating"),
+        "business_area": p.get("business_area", "")
+    }
+    return p
+
+
+def search_nearby(key, lng, lat, radius=RESTAURANT_RADIUS, max_pages=10):
+    """搜索周边餐饮 POI（v3 API），按子品类分别搜索，分页遍历全部数据并去重。
+    每品类最多 max_pages 页（250条），覆盖绝大多数门店全量数据。"""
+    seen = set()
     all_pois = []
     for type_code, type_name in POI_TYPES.items():
-        for page in range(1, max_pages + 1):
-            url = (f"{AMAP_API}?key={key}&location={lng},{lat}"
+        page = 1
+        total = None
+        while page <= max_pages:
+            url = (f"{AMAP_V3}?key={key}&location={lng},{lat}"
                    f"&radius={radius}&types={type_code}"
-                   f"&offset={PAGE_SIZE}&page={page}&show_fields=business")
-            for attempt in range(3):
-                try:
-                    req = urllib.request.urlopen(url, timeout=15)
-                    data = json.loads(req.read())
-                    break
-                except Exception as e:
-                    if attempt < 2:
-                        time.sleep(2)
-                    else:
-                        print(f"    [WARN] API 请求失败: {e}")
-                        data = {}
-            if data.get("status") != "1":
+                   f"&offset={PAGE_SIZE}&page={page}&extensions=all")
+            data = _api_get(url)
+            if not data:
                 break
+            if total is None:
+                total = int(data.get("count", 0))
             pois = data.get("pois", [])
             for p in pois:
                 dedup_key = (p.get("name",""), p.get("location",""))
                 if dedup_key not in seen:
                     seen.add(dedup_key)
-                    all_pois.append(p)
-            total = int(data.get("count", 0))
+                    all_pois.append(_normalize_v3_poi(p))
             if page * PAGE_SIZE >= total:
                 break
+            page += 1
             time.sleep(SLEEP_BETWEEN)
         time.sleep(SLEEP_BETWEEN)
     return all_pois
 
 
-def search_extra(key, lng, lat, radius=SEARCH_RADIUS):
-    """搜索写字楼、住宅小区、地铁站（用 v3 API，count 返回真实总数）"""
-    AMAP_V3 = "https://restapi.amap.com/v3/place/around"
+def _extract_station_name(name):
+    """从 POI 名称提取地铁站名（循环去掉出入口/口/(地铁站)/地铁站/站等后缀）"""
+    import re
+    name = name.strip()
+    suffixes = [r'\(地铁站\)', r'出入口', r'[A-Z]\d?口', r'\d+号口', r'地铁站', r'站$']
+    prev = None
+    while prev != name:
+        prev = name
+        for s in suffixes:
+            name = re.sub(s + r'$', '', name)
+    return name.strip()
+
+
+def search_extra(key, lng, lat, max_pages=10):
+    """搜索写字楼、住宅小区、地铁站（v3 API），分页遍历数据。
+    写字楼/住宅 1km，地铁 3km。地铁站按站名去重返回真实站点数。"""
     counts = {"office": 0, "residential": 0, "metro": 0}
     nearest_metro_km = None
     for type_code, category in POI_TYPES_EXTRA.items():
-        url = (f"{AMAP_V3}?key={key}&location={lng},{lat}"
-               f"&radius={radius}&types={type_code}"
-               f"&offset={PAGE_SIZE}&page=1&extensions=all")
-        for attempt in range(3):
-            try:
-                req = urllib.request.urlopen(url, timeout=15)
-                data = json.loads(req.read())
+        radius = EXTRA_RADII.get(category, 1000)
+        page = 1
+        total = None
+        metro_pois = []
+        while page <= max_pages:
+            url = (f"{AMAP_V3}?key={key}&location={lng},{lat}"
+                   f"&radius={radius}&types={type_code}"
+                   f"&offset={PAGE_SIZE}&page={page}&extensions=all")
+            data = _api_get(url)
+            if not data:
                 break
-            except Exception as e:
-                if attempt < 2:
-                    time.sleep(2)
-                else:
-                    data = {}
-        if data.get("status") != "1":
-            continue
-        pois = data.get("pois", [])
-        counts[category] = int(data.get("count", 0))  # v3 返回真实总数
-        # 地铁站算最近距离
-        if category == "metro" and pois:
+            if total is None:
+                total = int(data.get("count", 0))
+            pois = data.get("pois", [])
+            if category == "metro":
+                metro_pois.extend(pois)
+            if page * PAGE_SIZE >= total:
+                break
+            page += 1
+            time.sleep(SLEEP_BETWEEN)
+        # 地铁站按站名去重
+        if category == "metro" and metro_pois:
+            unique_stations = set()
+            for p in metro_pois:
+                sname = _extract_station_name(p.get("name", ""))
+                if sname:
+                    unique_stations.add(sname)
+            counts[category] = len(unique_stations)
+        else:
+            counts[category] = total or 0
+        # 地铁站算最近距离（遍历全部地铁站）
+        if category == "metro" and metro_pois:
             min_dist = float("inf")
-            for p in pois:
+            for p in metro_pois:
                 loc = p.get("location", "")
                 if "," in loc:
                     try:
@@ -190,8 +238,6 @@ def main():
     parser.add_argument("--key", default=os.environ.get("AMAP_KEY", ""),
                         help="高德 Web 服务 API Key")
     parser.add_argument("--output-dir", default=None, help="输出目录")
-    parser.add_argument("--radius", type=int, default=SEARCH_RADIUS,
-                        help="搜索半径(米), 默认 1000")
     args = parser.parse_args()
 
     if not args.key:
@@ -231,7 +277,7 @@ def main():
                     pass
 
     print(f"{'=' * 60}")
-    print(f"商圈环境 ETL | {len(stores)} 家门店 | 半径 {args.radius}m")
+    print(f"商圈环境 ETL | {len(stores)} 家门店 | 餐厅/写字楼/住宅 1km, 地铁 3km")
     print(f"{'=' * 60}")
 
     # 读取已有数据（支持增量更新）
@@ -253,9 +299,9 @@ def main():
                 print(f"  [{i+1}/{len(stores)}] {s['name']} (cached)")
             continue
 
-        pois = search_nearby(args.key, s["lng"], s["lat"], args.radius)
+        pois = search_nearby(args.key, s["lng"], s["lat"])
         agg = aggregate(pois)
-        extra, nearest_metro = search_extra(args.key, s["lng"], s["lat"], 1000)
+        extra, nearest_metro = search_extra(args.key, s["lng"], s["lat"])
         row = {
             "门店ID": s["sid"],
             "门店名称": s["name"],

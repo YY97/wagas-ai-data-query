@@ -90,7 +90,7 @@ else:
 
 # 只保留最近 N 个自然日
 from datetime import datetime, timedelta
-LOOKBACK_DAYS = 30
+LOOKBACK_DAYS = 365
 sorted_dates = sorted(all_dates)
 if sorted_dates:
     # 以最新数据日期为终点，往前推 30 个自然日
@@ -596,13 +596,13 @@ function createPopup(s){{
     h+='<div style="margin-top:6px;padding:6px 8px;background:#f0fdf4;border-left:3px solid #22c55e;border-radius:3px;font-size:10px">';
     h+='<div style="font-weight:700;color:#166534;margin-bottom:3px">商圈环境</div>';
     h+='<div style="display:grid;grid-template-columns:1fr 1fr;gap:2px">';
-    h+='<div>餐厅(3km): <b>'+mk.poi_count+'</b></div>';
+    h+='<div>餐厅(1km): <b>'+mk.poi_count+'</b></div>';
     h+='<div>评分: <b>'+(mk.avg_rating?mk.avg_rating.toFixed(1):'N/A')+'</b></div>';
     h+='<div>人均: <b>'+(mk.avg_cost?'¥'+mk.avg_cost:'N/A')+'</b></div>';
     h+='<div>中位数: <b>'+(mk.median_cost?'¥'+mk.median_cost:'N/A')+'</b></div>';
     h+='<div>写字楼(1km): <b>'+mk.office_count+'</b></div>';
     h+='<div>住宅(1km): <b>'+mk.residential_count+'</b></div>';
-    h+='<div>地铁(1km): <b>'+mk.metro_count+'</b></div>';
+    h+='<div>地铁站(3km): <b>'+mk.metro_count+'</b></div>';
     h+='<div>最近地铁: <b>'+(mk.nearest_metro_km?mk.nearest_metro_km+'km':'N/A')+'</b></div>';
     h+='</div>';
     if(mk.business_area) h+='<div style="margin-top:2px;color:#4b5563">商圈: <b>'+mk.business_area+'</b></div>';
