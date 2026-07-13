@@ -254,7 +254,7 @@ def main():
 
         pois = search_nearby(args.key, s["lng"], s["lat"], args.radius)
         agg = aggregate(pois)
-        extra, nearest_metro = search_extra(args.key, s["lng"], s["lat"], args.radius)
+        extra, nearest_metro = search_extra(args.key, s["lng"], s["lat"], 1000)
         row = {
             "门店ID": s["sid"],
             "门店名称": s["name"],
