@@ -112,12 +112,53 @@ body{font-family:-apple-system,"SF Pro","PingFang SC","Microsoft YaHei",sans-ser
 
 /* ====== 更新时间戳 ====== */
 .update-time{font-size:10px;color:#94a3b8;margin-bottom:10px}
+
+/* ====== 多选下拉组件 ====== */
+.ms-wrap{position:relative;margin-bottom:6px}
+.ms-trigger{width:100%;min-height:32px;padding:4px 28px 4px 8px;border-radius:6px;
+  border:1px solid #cbd5e1;background:#fff;cursor:pointer;display:flex;flex-wrap:wrap;gap:3px;
+  align-items:center;font-size:12px;color:#1e293b;position:relative;
+  background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 12 12'%3E%3Cpath d='M3 5l3 3 3-3' fill='none' stroke='%2394a3b8' stroke-width='1.5'/%3E%3C/svg%3E");
+  background-repeat:no-repeat;background-position:right 8px center}
+.ms-trigger:hover{border-color:#94a3b8}
+.ms-trigger.open{border-color:#f97316;box-shadow:0 0 0 2px rgba(249,115,22,0.1)}
+.ms-placeholder{color:#94a3b8;font-size:12px}
+.ms-tag{display:inline-flex;align-items:center;gap:2px;background:#f1f5f9;border:1px solid #e2e8f0;
+  border-radius:4px;padding:1px 6px;font-size:11px;color:#334155;max-width:120px}
+.ms-tag span{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.ms-tag-x{cursor:pointer;color:#94a3b8;font-size:13px;line-height:1;margin-left:2px}
+.ms-tag-x:hover{color:#dc2626}
+.ms-panel{position:absolute;top:100%;left:0;right:0;z-index:2000;background:#fff;
+  border:1px solid #cbd5e1;border-radius:6px;box-shadow:0 4px 16px rgba(0,0,0,0.12);
+  margin-top:4px;display:none;max-height:280px;overflow:hidden;flex-direction:column}
+.ms-panel.open{display:flex}
+.ms-search{padding:6px 8px;border-bottom:1px solid #e2e8f0}
+.ms-search input{width:100%;padding:5px 8px;border:1px solid #e2e8f0;border-radius:4px;
+  font-size:12px;outline:none}
+.ms-search input:focus{border-color:#f97316}
+.ms-actions{display:flex;justify-content:space-between;align-items:center;padding:4px 8px;
+  border-bottom:1px solid #e2e8f0;font-size:11px;color:#64748b}
+.ms-actions label{display:flex;align-items:center;gap:4px;cursor:pointer}
+.ms-actions input[type="checkbox"]{width:14px;height:14px;accent-color:#f97316}
+.ms-count{font-size:10px;color:#94a3b8}
+.ms-list{flex:1;overflow-y:auto;padding:4px 0}
+.ms-item{display:flex;align-items:center;gap:6px;padding:4px 10px;font-size:12px;cursor:pointer;
+  color:#1e293b}
+.ms-item:hover{background:#f8fafc}
+.ms-item input[type="checkbox"]{width:14px;height:14px;accent-color:#f97316;flex-shrink:0}
+.ms-pager{display:flex;justify-content:center;align-items:center;gap:4px;padding:4px 8px;
+  border-top:1px solid #e2e8f0;font-size:11px}
+.ms-pager button{padding:2px 8px;border:1px solid #e2e8f0;border-radius:4px;background:#fff;
+  cursor:pointer;font-size:11px;color:#475569}
+.ms-pager button:hover{background:#f8fafc}
+.ms-pager button:disabled{opacity:0.4;cursor:default}
+.ms-pager span{color:#64748b;min-width:60px;text-align:center}
 </style></head><body>
 
 <div class="panel">
 <h1>Wagas 门店网络效率诊断</h1>
 <div class="subtitle" id="panel-date">快照: <strong id="cur-date-display">2026-07-06 ~ 2026-07-12</strong> &nbsp;·&nbsp; 353 家门店</div>
-<div class="update-time">数据更新于 2026-07-13 17:02</div>
+<div class="update-time">数据更新于 2026-07-13 17:11</div>
 <div class="data-warning" id="missing-warning" style="display:none"></div>
 
 <div class="kpi-grid">
@@ -158,8 +199,24 @@ body{font-family:-apple-system,"SF Pro","PingFang SC","Microsoft YaHei",sans-ser
 <div class="filter-group"><select id="fmt-filter" onchange="applyFilter()">
 <option value="all">全部门店类型</option><option value="Office/BusinessPark">Office/BusinessPark (73)</option><option value="Shopping Mall">Shopping Mall (264)</option><option value="Street-front">Street-front (12)</option><option value="Transportation center">Transportation center (4)</option>
 </select></div>
-<div class="filter-group"><input id="search-input" placeholder="门店名称(逗号分隔可多选)..." oninput="applyFilter()"></div>
-<div class="filter-group"><input id="search-sid" placeholder="Store ID(逗号分隔可多选)..." oninput="applyFilter()"></div></div>
+<div class="ms-wrap" id="ms-name-wrap">
+  <div class="ms-trigger" id="ms-name-trigger" onclick="msToggle('name')"><span class="ms-placeholder">门店名称(多选)</span></div>
+  <div class="ms-panel" id="ms-name-panel">
+    <div class="ms-search"><input id="ms-name-search" placeholder="搜索门店..." oninput="msFilter('name')"></div>
+    <div class="ms-actions"><label><input type="checkbox" id="ms-name-all" onchange="msSelectAll('name')">全选</label><span class="ms-count" id="ms-name-count">已选: 0</span></div>
+    <div class="ms-list" id="ms-name-list"></div>
+    <div class="ms-pager"><button onclick="msPage('name',-1)">&lt;</button><span id="ms-name-page">1/1</span><button onclick="msPage('name',1)">&gt;</button></div>
+  </div>
+</div>
+<div class="ms-wrap" id="ms-sid-wrap">
+  <div class="ms-trigger" id="ms-sid-trigger" onclick="msToggle('sid')"><span class="ms-placeholder">Store ID(多选)</span></div>
+  <div class="ms-panel" id="ms-sid-panel">
+    <div class="ms-search"><input id="ms-sid-search" placeholder="搜索ID..." oninput="msFilter('sid')"></div>
+    <div class="ms-actions"><label><input type="checkbox" id="ms-sid-all" onchange="msSelectAll('sid')">全选</label><span class="ms-count" id="ms-sid-count">已选: 0</span></div>
+    <div class="ms-list" id="ms-sid-list"></div>
+    <div class="ms-pager"><button onclick="msPage('sid',-1)">&lt;</button><span id="ms-sid-page">1/1</span><button onclick="msPage('sid',1)">&gt;</button></div>
+  </div>
+</div></div>
 
 <div class="section"><div class="section-title">🎛 图层</div>
 <div class="toggle-item"><span>门店点位</span><input type="checkbox" id="show-markers" checked onchange="applyFilter()"></div>
@@ -218,6 +275,106 @@ if(missingDates.length>0){
     w.innerHTML="<b>数据缺失提醒:</b> 近30天内有 "+missingDates.length+" 天缺少销售数据 ("+shown+extra+")，相关日期的门店指标可能不准确。";
   }
 }
+
+// ====== 多选下拉组件 ======
+var msData = {
+  name: { items: stores.map(function(s){return {id:s.sid, label:s.name}}), selected: [], page: 1, perPage: 15, filtered: [] },
+  sid: { items: stores.map(function(s){return {id:s.sid, label:s.sid}}), selected: [], page: 1, perPage: 15, filtered: [] }
+};
+function msInit(type) {
+  msData[type].filtered = msData[type].items.slice();
+  msRender(type);
+}
+function msToggle(type) {
+  var panel = document.getElementById('ms-'+type+'-panel');
+  var trigger = document.getElementById('ms-'+type+'-trigger');
+  var isOpen = panel.classList.contains('open');
+  // 关闭所有面板
+  document.querySelectorAll('.ms-panel').forEach(function(p){p.classList.remove('open')});
+  document.querySelectorAll('.ms-trigger').forEach(function(t){t.classList.remove('open')});
+  if (!isOpen) {
+    panel.classList.add('open');
+    trigger.classList.add('open');
+    document.getElementById('ms-'+type+'-search').focus();
+  }
+}
+function msFilter(type) {
+  var q = document.getElementById('ms-'+type+'-search').value.trim().toLowerCase();
+  msData[type].filtered = msData[type].items.filter(function(item){
+    return item.label.toLowerCase().includes(q) || item.id.toLowerCase().includes(q);
+  });
+  msData[type].page = 1;
+  msRender(type);
+}
+function msRender(type) {
+  var d = msData[type];
+  var list = document.getElementById('ms-'+type+'-list');
+  var totalPages = Math.max(1, Math.ceil(d.filtered.length / d.perPage));
+  if (d.page > totalPages) d.page = totalPages;
+  var start = (d.page - 1) * d.perPage;
+  var pageItems = d.filtered.slice(start, start + d.perPage);
+  var html = '';
+  pageItems.forEach(function(item) {
+    var checked = d.selected.indexOf(item.id) >= 0 ? 'checked' : '';
+    html += '<div class="ms-item" onclick="msSelect(''+type+'',''+item.id+'')">'
+      + '<input type="checkbox" '+checked+' onclick="event.stopPropagation();msSelect(''+type+'',''+item.id+'')">'
+      + '<span>'+item.label+'</span></div>';
+  });
+  list.innerHTML = html;
+  document.getElementById('ms-'+type+'-page').textContent = d.page+'/'+totalPages;
+  document.getElementById('ms-'+type+'-count').textContent = '已选: '+d.selected.length;
+  document.getElementById('ms-'+type+'-all').checked = d.selected.length > 0 && d.selected.length === d.items.length;
+  msRenderTags(type);
+}
+function msSelect(type, id) {
+  var d = msData[type];
+  var idx = d.selected.indexOf(id);
+  if (idx >= 0) d.selected.splice(idx, 1);
+  else d.selected.push(id);
+  msRender(type);
+  applyFilter();
+}
+function msSelectAll(type) {
+  var d = msData[type];
+  var allChecked = document.getElementById('ms-'+type+'-all').checked;
+  if (allChecked) {
+    d.selected = d.items.map(function(i){return i.id});
+  } else {
+    d.selected = [];
+  }
+  msRender(type);
+  applyFilter();
+}
+function msPage(type, dir) {
+  var d = msData[type];
+  var totalPages = Math.max(1, Math.ceil(d.filtered.length / d.perPage));
+  d.page = Math.max(1, Math.min(totalPages, d.page + dir));
+  msRender(type);
+}
+function msRenderTags(type) {
+  var d = msData[type];
+  var trigger = document.getElementById('ms-'+type+'-trigger');
+  if (d.selected.length === 0) {
+    trigger.innerHTML = '<span class="ms-placeholder">'+(type==='name'?'门店名称(多选)':'Store ID(多选)')+'</span>';
+    return;
+  }
+  var html = '';
+  d.selected.forEach(function(id) {
+    var item = d.items.find(function(i){return i.id===id});
+    var label = item ? item.label : id;
+    html += '<div class="ms-tag"><span>'+label+'</span><span class="ms-tag-x" onclick="event.stopPropagation();msSelect(''+type+'',''+id+'')">&times;</span></div>';
+  });
+  trigger.innerHTML = html;
+}
+// 点击外部关闭面板
+document.addEventListener('click', function(e) {
+  if (!e.target.closest('.ms-wrap')) {
+    document.querySelectorAll('.ms-panel').forEach(function(p){p.classList.remove('open')});
+    document.querySelectorAll('.ms-trigger').forEach(function(t){t.classList.remove('open')});
+  }
+});
+msInit('name');
+msInit('sid');
 
 var heatLayer=null, activeHeatStore=null;
 
@@ -347,21 +504,15 @@ function passFilters(s){
   var cf=document.getElementById("city-filter").value;
   var ff=document.getElementById("fmt-filter").value;
   var af=document.getElementById("ads-filter").value;
-  var sf=document.getElementById("search-input").value.trim().toLowerCase();
-  var sidf=document.getElementById("search-sid").value.trim().toUpperCase();
+  // 多选门店名称
+  var nameSel=msData.name.selected;
+  if(nameSel.length>0&&nameSel.indexOf(s.sid)<0)return false;
+  // 多选 Store ID
+  var sidSel=msData.sid.selected;
+  if(sidSel.length>0&&sidSel.indexOf(s.sid)<0)return false;
   if(bf!=="all"&&s.brand!==bf&&s.brand!==bf.replace("&"," & "))return false;
   if(cf!=="all"&&s.city!==cf)return false;
   if(ff!=="all"&&s.fmt!==ff)return false;
-  // 门店名称支持逗号分隔多选
-  if(sf){
-    var terms=sf.split(",").map(function(t){return t.trim()}).filter(Boolean);
-    if(terms.length>0&&!terms.some(function(t){return s.name.toLowerCase().includes(t)}))return false;
-  }
-  // Store ID 支持逗号分隔多选
-  if(sidf){
-    var sids=sidf.split(",").map(function(t){return t.trim()}).filter(Boolean);
-    if(sids.length>0&&!sids.some(function(id){return s.sid.toUpperCase().includes(id)}))return false;
-  }
   if(af!=="all"){var v=getAds(s.sid)||0;
     if(af==="lt5000"&&v>=5000)return false;
     if(af==="5000to10000"&&(v<5000||v>=10000))return false;
