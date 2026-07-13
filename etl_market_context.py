@@ -88,13 +88,14 @@ def search_nearby(key, lng, lat, radius=SEARCH_RADIUS, max_pages=4):
 
 
 def search_extra(key, lng, lat, radius=SEARCH_RADIUS):
-    """搜索写字楼、住宅小区、地铁站，返回数量和最近地铁距离"""
+    """搜索写字楼、住宅小区、地铁站（用 v3 API，count 返回真实总数）"""
+    AMAP_V3 = "https://restapi.amap.com/v3/place/around"
     counts = {"office": 0, "residential": 0, "metro": 0}
     nearest_metro_km = None
     for type_code, category in POI_TYPES_EXTRA.items():
-        url = (f"{AMAP_API}?key={key}&location={lng},{lat}"
+        url = (f"{AMAP_V3}?key={key}&location={lng},{lat}"
                f"&radius={radius}&types={type_code}"
-               f"&offset={PAGE_SIZE}&page=1")
+               f"&offset={PAGE_SIZE}&page=1&extensions=all")
         for attempt in range(3):
             try:
                 req = urllib.request.urlopen(url, timeout=15)
@@ -108,7 +109,7 @@ def search_extra(key, lng, lat, radius=SEARCH_RADIUS):
         if data.get("status") != "1":
             continue
         pois = data.get("pois", [])
-        counts[category] = len(pois)
+        counts[category] = int(data.get("count", 0))  # v3 返回真实总数
         # 地铁站算最近距离
         if category == "metro" and pois:
             min_dist = float("inf")
