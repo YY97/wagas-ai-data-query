@@ -111,6 +111,12 @@ jobs:
           } else {
             Write-Host "Delivery city data not found, skipping"
           }
+          if (Test-Path output/store_top_locations.json) {
+            Copy-Item -Force output/store_top_locations.json store-network/store_top_locations.json
+            Write-Host "Top locations copied"
+          } else {
+            Write-Host "Top locations not found, skipping"
+          }
         working-directory: ${{ github.workspace }}
 
       - name: 提交并推送到 GitHub

@@ -360,10 +360,21 @@ date_opts_end = "".join(f'<option value="{d}" {"selected" if d==end_default else
 # 门店类型选项
 fmt_opts = "".join(f'<option value="{f}">{f} ({n})</option>' for f, n in sorted(fx.items()) if f)
 
-# stores JS (不含 ads_data, ads_data 在 dateData 里)
+# stores JS (不含 ads_data 和 top_loc, 这两个按需加载)
 store_js = []
 for s in stores:
-    store_js.append({k: v for k, v in s.items() if k != "ads_data"})
+    store_js.append({k: v for k, v in s.items() if k not in ("ads_data", "top_loc")})
+
+# 单独写 top_loc 数据（按需加载，避免 HTML 过大）
+top_loc_file = os.path.join(os.path.join(SCRIPT_DIR, "output"), "store_top_locations.json")
+top_loc_js = {}
+for s in stores:
+    tl = s.get("top_loc", [])
+    if tl:
+        top_loc_js[s["sid"]] = tl
+with open(top_loc_file, "w", encoding="utf-8") as f:
+    json.dump(top_loc_js, f, ensure_ascii=False, separators=(",", ":"))
+print(f"   热门配送地: {top_loc_file} ({os.path.getsize(top_loc_file)/1024:.0f}KB)")
 
 date_data_js = json.dumps(store_ads, ensure_ascii=False)
 
@@ -818,23 +829,8 @@ function createPopup(s){{
     h+='</div>';
   }}
 
-  // 热门配送地 TOP10
-  if(s.top_loc && s.top_loc.length>0){{
-    h+='<div style="margin-top:6px;padding:6px 8px;background:#eff6ff;border-left:3px solid #3b82f6;border-radius:3px;font-size:10px">';
-    h+='<div style="font-weight:700;color:#1e40af;margin-bottom:3px">热门配送地 TOP'+s.top_loc.length+'</div>';
-    h+='<div style="max-height:150px;overflow-y:auto">';
-    h+='<table style="width:100%;border-collapse:collapse;font-size:9px">';
-    h+='<tr style="color:#64748b;border-bottom:1px solid #dbeafe"><th style="text-align:left;padding:2px 0">#</th><th style="text-align:left;padding:2px 0">地点</th><th style="text-align:right;padding:2px 4px">距离</th><th style="text-align:right;padding:2px 0">单数</th></tr>';
-    s.top_loc.forEach(function(t){{
-      h+='<tr style="border-bottom:1px solid #f1f5f9">';
-      h+='<td style="padding:2px 0;color:#94a3b8">'+t.rank+'</td>';
-      h+='<td style="padding:2px 0;max-width:120px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap">'+(t.name||'未知')+'</td>';
-      h+='<td style="padding:2px 4px;text-align:right;color:#64748b">'+t.dist+'km</td>';
-      h+='<td style="padding:2px 0;text-align:right;font-weight:600">'+t.count+'</td>';
-      h+='</tr>';
-    }});
-    h+='</table></div></div>';
-  }}
+  // 热门配送地（按需加载）
+  h+='<button class="btn" style="background:#3b82f6;color:#fff;margin-top:6px" onclick="loadTopLoc(\''+s.sid+'\',this)">&#128205; 热门配送地</button>';
 
   var ol=s.overlap||0;
   if(ol>0){{
@@ -854,6 +850,43 @@ function createPopup(s){{
   h+='<button class="btn btn-heat" data-sid="'+s.sid+'" onclick="toggleHeat(this.dataset.sid,this)" style="margin-top:8px">'+
     '&#128293; 外卖热力图</button>';
   h+='</div>';return h;
+}}
+
+// ====== 热门配送地按需加载 ======
+var topLocData=null;
+var topLocLoading=false;
+function loadTopLoc(sid,btn){{
+  function renderTable(data){{
+    var locs=data[sid];
+    if(!locs||!locs.length){{btn.outerHTML='<span style="font-size:10px;color:#94a3b8">暂无配送地数据</span>';return;}}
+    var h='<div style="margin-top:6px;padding:6px 8px;background:#eff6ff;border-left:3px solid #3b82f6;border-radius:3px;font-size:10px">';
+    h+='<div style="font-weight:700;color:#1e40af;margin-bottom:3px">热门配送地 TOP'+locs.length+'</div>';
+    h+='<div style="max-height:150px;overflow-y:auto">';
+    h+='<table style="width:100%;border-collapse:collapse;font-size:9px">';
+    h+='<tr style="color:#64748b;border-bottom:1px solid #dbeafe"><th style="text-align:left;padding:2px 0">#</th><th style="text-align:left;padding:2px 0">地点</th><th style="text-align:right;padding:2px 4px">距离</th><th style="text-align:right;padding:2px 0">单数</th></tr>';
+    locs.forEach(function(t){{
+      h+='<tr style="border-bottom:1px solid #f1f5f9">';
+      h+='<td style="padding:2px 0;color:#94a3b8">'+t.rank+'</td>';
+      h+='<td style="padding:2px 0;max-width:120px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap">'+(t.name||'未知')+'</td>';
+      h+='<td style="padding:2px 4px;text-align:right;color:#64748b">'+t.dist+'km</td>';
+      h+='<td style="padding:2px 0;text-align:right;font-weight:600">'+t.count+'</td>';
+      h+='</tr>';
+    }});
+    h+='</table></div></div>';
+    btn.outerHTML=h;
+  }}
+  if(topLocData){{renderTable(topLocData);return;}}
+  if(topLocLoading){{btn.textContent='加载中...';return;}}
+  topLocLoading=true;
+  btn.textContent='加载中...';
+  fetch("store_top_locations.json").then(function(r){{return r.json()}}).then(function(d){{
+    topLocData=d;topLocLoading=false;
+    console.log("热门配送地已加载: "+Object.keys(d).length+"店");
+    renderTable(d);
+  }}).catch(function(e){{
+    topLocLoading=false;btn.textContent='加载失败，点击重试';
+    console.log("加载失败:",e);
+  }});
 }}
 
 function toggleHeat(sid,btn){{
