@@ -1,10 +1,12 @@
 import { useRef, useEffect, useState, useCallback } from 'react';
-import { Map } from 'maplibre-gl';
+import { Map, Popup } from 'maplibre-gl';
 import 'maplibre-gl/dist/maplibre-gl.css';
 import { ScatterplotLayer } from '@deck.gl/layers';
 import { HeatmapLayer } from '@deck.gl/aggregation-layers';
 import { MapboxOverlay } from '@deck.gl/mapbox';
+import { createRoot } from 'react-dom/client';
 import { useAppStore } from '../store';
+import StorePopupCard from './StorePopupCard';
 
 // ADS 颜色映射
 function adsColor(v: number | null): [number, number, number, number] {
@@ -15,7 +17,6 @@ function adsColor(v: number | null): [number, number, number, number] {
   return [252, 165, 165, 220];
 }
 
-// 品牌颜色映射
 const BRAND_COLORS: Record<string, [number, number, number, number]> = {
   'Wagas': [225, 29, 72, 220],
   'Baker&Spice': [245, 158, 11, 220],
@@ -32,6 +33,8 @@ export default function MapView() {
   const mapContainer = useRef<HTMLDivElement>(null);
   const map = useRef<Map | null>(null);
   const deckOverlay = useRef<MapboxOverlay | null>(null);
+  const popupRef = useRef<Popup | null>(null);
+  const popupRootRef = useRef<ReturnType<typeof createRoot> | null>(null);
   const { stores, filters, layers, getAds, selectedStore, setSelectedStore } = useAppStore();
   const [deliveryData, setDeliveryData] = useState<Record<string, any[]>>({});
   const [showHeatmap, setShowHeatmap] = useState(false);
@@ -57,24 +60,19 @@ export default function MapView() {
           }
         },
         layers: [{
-          id: 'amap-tiles',
-          type: 'raster',
-          source: 'amap-tiles',
-          minzoom: 0,
-          maxzoom: 18
+          id: 'amap-tiles', type: 'raster', source: 'amap-tiles',
+          minzoom: 0, maxzoom: 18
         }]
       },
       center: [121.4737, 31.2304],
       zoom: 10
     });
 
-    deckOverlay.current = new MapboxOverlay({
-      interleaved: true,
-      layers: []
-    });
+    deckOverlay.current = new MapboxOverlay({ interleaved: true, layers: [] });
     map.current.addControl(deckOverlay.current);
 
     return () => {
+      if (popupRef.current) { popupRef.current.remove(); popupRef.current = null; }
       if (deckOverlay.current && map.current) {
         map.current.removeControl(deckOverlay.current);
         deckOverlay.current.finalize();
@@ -95,12 +93,10 @@ export default function MapView() {
   }, [deliveryData]);
 
   useEffect(() => {
-    if (filters.city !== 'all') {
-      loadCityDeliveryData(filters.city);
-    }
-  }, [filters.city, loadCityDeliveryData]);
+    if (selectedStore) loadCityDeliveryData(selectedStore.city);
+    if (filters.city !== 'all') loadCityDeliveryData(filters.city);
+  }, [filters.city, selectedStore, loadCityDeliveryData]);
 
-  // 筛选门店
   const filteredStores = stores.filter(store => {
     if (filters.brand !== 'all' && store.brand !== filters.brand) return false;
     if (filters.city !== 'all' && store.city !== filters.city) return false;
@@ -120,10 +116,8 @@ export default function MapView() {
   // 更新 deck.gl 图层
   useEffect(() => {
     if (!deckOverlay.current) return;
-
     const layerList: any[] = [];
 
-    // 1km 覆盖圈
     if (layers.showCircles1km || !layers.showMarkers) {
       layerList.push(
         new ScatterplotLayer({
@@ -131,28 +125,17 @@ export default function MapView() {
           data: filteredStores,
           getPosition: (d: any) => [d.lng, d.lat],
           getRadius: 1000,
-          getFillColor: (d: any) => {
-            const isHighOverlap = d.overlap >= 3;
-            return isHighOverlap ? [220, 38, 38, 20] : [59, 130, 246, 20];
-          },
-          getLineColor: (d: any) => {
-            const isHighOverlap = d.overlap >= 3;
-            return isHighOverlap ? [220, 38, 38, 200] : [59, 130, 246, 200];
-          },
-          stroked: true,
-          filled: true,
+          getFillColor: (d: any) => (d.overlap >= 3 ? [220, 38, 38, 20] : [59, 130, 246, 20]),
+          getLineColor: (d: any) => (d.overlap >= 3 ? [220, 38, 38, 200] : [59, 130, 246, 200]),
+          stroked: true, filled: true,
           getLineWidth: (d: any) => (d.overlap >= 3 && layers.highlightOverlap) ? 2 : 1,
           lineWidthMinPixels: 1,
-          radiusUnits: 'meters',
-          pickable: true,
-          onClick: (info: any) => {
-            if (info.object) setSelectedStore(info.object);
-          }
+          radiusUnits: 'meters', pickable: true,
+          onClick: (info: any) => { if (info.object) setSelectedStore(info.object); }
         })
       );
     }
 
-    // 3km 覆盖圈
     if (layers.showCircles3km) {
       layerList.push(
         new ScatterplotLayer({
@@ -162,15 +145,12 @@ export default function MapView() {
           getRadius: 3000,
           getFillColor: [34, 197, 94, 10],
           getLineColor: [34, 197, 94, 150],
-          stroked: true,
-          filled: true,
-          lineWidthMinPixels: 1,
+          stroked: true, filled: true, lineWidthMinPixels: 1,
           radiusUnits: 'meters',
         })
       );
     }
 
-    // 门店标记
     if (layers.showMarkers) {
       layerList.push(
         new ScatterplotLayer({
@@ -179,47 +159,35 @@ export default function MapView() {
           getPosition: (d: any) => [d.lng, d.lat],
           getFillColor: (d: any) => {
             if (selectedStore?.sid === d.sid) return [249, 115, 22, 255];
-            if (layers.colorByAds) {
-              return adsColor(getAds(d.sid));
-            }
-            return brandColor(d.brand);
+            return layers.colorByAds ? adsColor(getAds(d.sid)) : brandColor(d.brand);
           },
           getRadius: (d: any) => (d.overlap >= 3) ? 14 : 9,
-          radiusMinPixels: (d: any) => (d.overlap >= 3) ? 7 : 5,
-          radiusMaxPixels: (d: any) => (d.overlap >= 3) ? 14 : 12,
+          radiusMinPixels: 5, radiusMaxPixels: 14,
           getLineWidth: (d: any) => (d.overlap >= 3) ? 3 : 2,
           lineWidthMinPixels: 2,
           getLineColor: (d: any) => (d.overlap >= 3) ? [194, 65, 12, 255] : [255, 255, 255, 255],
-          stroked: true,
-          filled: true,
-          pickable: true,
-          onClick: (info: any) => {
-            if (info.object) setSelectedStore(info.object);
-          }
+          stroked: true, filled: true, pickable: true,
+          onClick: (info: any) => { if (info.object) setSelectedStore(info.object); }
         })
       );
     }
 
     // 配送热力图
-    if (showHeatmap && filters.city !== 'all' && deliveryData[filters.city]) {
+    const heatCity = selectedStore?.city || (filters.city !== 'all' ? filters.city : null);
+    if (showHeatmap && heatCity && deliveryData[heatCity]) {
       const heatData: any[] = [];
-      const cityData = deliveryData[filters.city];
-      Object.values(cityData).forEach((points: any) => {
+      Object.values(deliveryData[heatCity]).forEach((points: any) => {
         if (Array.isArray(points)) {
-          (points as any[]).forEach((p: any) => {
+          points.forEach((p: any) => {
             heatData.push({ position: [p.lng, p.lat], weight: p.w || p.count || 1 });
           });
         }
       });
       layerList.push(
         new HeatmapLayer({
-          id: 'delivery-heatmap',
-          data: heatData,
-          getPosition: (d: any) => d.position,
-          getWeight: (d: any) => d.weight,
-          radiusPixels: 60,
-          intensity: 1,
-          threshold: 0.03,
+          id: 'delivery-heatmap', data: heatData,
+          getPosition: (d: any) => d.position, getWeight: (d: any) => d.weight,
+          radiusPixels: 60, intensity: 1, threshold: 0.03,
           colorRange: [
             [0, 0, 255, 100], [0, 255, 255, 150], [0, 255, 0, 200],
             [255, 255, 0, 230], [255, 0, 0, 255]
@@ -231,13 +199,46 @@ export default function MapView() {
     deckOverlay.current.setProps({ layers: layerList });
   }, [filteredStores, filters, layers, selectedStore, showHeatmap, deliveryData, setSelectedStore, getAds]);
 
+  // MapLibre Popup 锚定在标记旁
+  useEffect(() => {
+    if (!map.current) return;
+
+    if (selectedStore) {
+      if (!popupRef.current) {
+        popupRef.current = new Popup({ maxWidth: '320px', closeButton: false, offset: 15 });
+        const el = document.createElement('div');
+        popupRootRef.current = createRoot(el);
+        popupRef.current.setDOMContent(el).setLngLat([selectedStore.lng, selectedStore.lat]).addTo(map.current);
+      }
+
+      // 更新 popup 内容
+      popupRootRef.current!.render(
+        <StorePopupCard
+          showHeatmap={showHeatmap}
+          onToggleHeatmap={() => {
+            const city = selectedStore.city;
+            if (!showHeatmap) loadCityDeliveryData(city);
+            setShowHeatmap(!showHeatmap);
+          }}
+          onClose={() => { setSelectedStore(null); setShowHeatmap(false); }}
+        />
+      );
+      popupRef.current.setLngLat([selectedStore.lng, selectedStore.lat]);
+    } else {
+      if (popupRef.current) {
+        popupRef.current.remove();
+        popupRef.current = null;
+        popupRootRef.current = null;
+      }
+    }
+  }, [selectedStore, showHeatmap, deliveryData, setSelectedStore, loadCityDeliveryData]);
+
   // fit bounds
   useEffect(() => {
     if (!map.current || filteredStores.length === 0) return;
-    const bounds = filteredStores.map(s => [s.lng, s.lat] as [number, number]);
-    if (bounds.length > 1) {
-      const lngs = bounds.map(b => b[0]);
-      const lats = bounds.map(b => b[1]);
+    const lngs = filteredStores.map(s => s.lng);
+    const lats = filteredStores.map(s => s.lat);
+    if (lngs.length > 1) {
       map.current.fitBounds([
         [Math.min(...lngs), Math.min(...lats)],
         [Math.max(...lngs), Math.max(...lats)]
@@ -247,10 +248,7 @@ export default function MapView() {
 
   return (
     <div style={{ width: '100%', height: '100%', position: 'relative' }}>
-      <div
-        ref={mapContainer}
-        style={{ width: '100%', height: '100%', position: 'absolute', top: 0, left: 0 }}
-      />
+      <div ref={mapContainer} style={{ width: '100%', height: '100%', position: 'absolute', top: 0, left: 0 }} />
 
       {/* 图例 */}
       <div style={{
@@ -290,36 +288,6 @@ export default function MapView() {
               </div>
             ))}
           </>
-        )}
-      </div>
-
-      {/* 图层控制 */}
-      <div style={{
-        position: 'absolute', top: '20px', right: '20px',
-        background: 'rgba(255,255,255,0.95)', padding: '12px',
-        borderRadius: '8px', boxShadow: '0 2px 8px rgba(0,0,0,0.1)',
-        zIndex: 1000, fontSize: '13px'
-      }}>
-        <div style={{ fontWeight: 600, marginBottom: '8px' }}>图层</div>
-        <label style={{ display: 'block', marginBottom: '6px' }}>
-          <input type="checkbox" checked={layers.showCircles1km}
-            onChange={e => {}} readOnly style={{ marginRight: '6px' }} />
-          1km 覆盖圈
-        </label>
-        <label style={{ display: 'block', marginBottom: '6px' }}>
-          <input type="checkbox" checked={layers.showCircles3km}
-            onChange={e => {}} readOnly style={{ marginRight: '6px' }} />
-          3km 覆盖圈
-        </label>
-        <label style={{ display: 'block', marginBottom: '6px' }}>
-          <input type="checkbox" checked={showHeatmap}
-            onChange={e => setShowHeatmap(e.target.checked)} style={{ marginRight: '6px' }} />
-          配送热力图
-        </label>
-        {showHeatmap && filters.city === 'all' && (
-          <div style={{ fontSize: '11px', color: '#dc2626', marginTop: '6px' }}>
-            请先选择城市查看热力图
-          </div>
         )}
       </div>
     </div>

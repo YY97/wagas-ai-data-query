@@ -4,7 +4,6 @@ import type { Store, SalesData } from './types';
 import MapView from './components/MapView';
 import FilterPanel from './components/FilterPanel';
 import KPICards from './components/KPICards';
-import StorePopup from './components/StorePopup';
 
 function App() {
   const { initData, loading } = useAppStore();
@@ -72,7 +71,6 @@ function App() {
       </div>
       <div className="map-container" style={{ flex: 1, position: 'relative' }}>
         <MapView />
-        <StorePopup />
       </div>
     </div>
   );
