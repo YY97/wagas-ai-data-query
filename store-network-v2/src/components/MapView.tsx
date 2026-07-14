@@ -51,7 +51,7 @@ export default function MapView() {
 
     // 初始化 deck.gl overlay
     deckOverlay.current = new MapboxOverlay({
-      interleaved: false,
+      interleaved: true,
       layers: []
     });
     map.current.addControl(deckOverlay.current);
