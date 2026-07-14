@@ -647,25 +647,9 @@ function checkReady(){{
   }}
 }}
 
-// 日销售数据 (按需加载)
-fetch("store_daily_sales_data.json").then(function(r){{return r.json()}}).then(function(d){{
-  dateData=d;console.log("日销售数据已加载: "+Object.keys(d).length+"店");
-  checkReady();
-}}).catch(function(e){{
-  console.log("日销售数据加载失败:",e);
-  dateData={{}};checkReady();
-}});
-
-// 外卖配送点数据 (按城市按需加载)
+// 外卖配送点数据变量
 var deliveryCityIndex=null;
 var deliveryCityCache={{}};
-fetch("delivery_city_index.json").then(function(r){{return r.json()}}).then(function(d){{
-  deliveryCityIndex=d;console.log("配送城市索引已加载: "+Object.keys(d).length+"店");
-  checkReady();
-}}).catch(function(e){{
-  console.log("配送索引加载失败(可忽略):",e);
-  deliveryCityIndex={{}};checkReady();
-}});
 
 // 数据缺失警告
 var missingDates={missing_dates_js};
@@ -1082,6 +1066,23 @@ function onDateRangeChange(){{
   document.getElementById("cur-date-display").textContent=label;
   applyFilter();
 }}
+
+// ====== 数据加载（必须在所有变量和函数定义之后） ======
+fetch("store_daily_sales_data.json").then(function(r){{return r.json()}}).then(function(d){{
+  dateData=d;console.log("日销售数据已加载: "+Object.keys(d).length+"店");
+  checkReady();
+}}).catch(function(e){{
+  console.log("日销售数据加载失败:",e);
+  dateData={{}};checkReady();
+}});
+
+fetch("delivery_city_index.json").then(function(r){{return r.json()}}).then(function(d){{
+  deliveryCityIndex=d;console.log("配送城市索引已加载: "+Object.keys(d).length+"店");
+  checkReady();
+}}).catch(function(e){{
+  console.log("配送索引加载失败(可忽略):",e);
+  deliveryCityIndex={{}};checkReady();
+}});
 </script>
 </body></html>'''
 
