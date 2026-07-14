@@ -18,6 +18,21 @@ export default function KPICards() {
     ? filteredStores.reduce((sum, s) => sum + s.overlap, 0) / filteredStores.length
     : 0;
 
+  // 计算 ADS 分布
+  const adsDistribution = {
+    under5k: 0,
+    '5k-10k': 0,
+    '10k-20k': 0,
+    over20k: 0,
+  };
+  filteredStores.forEach(store => {
+    const ads = store.ads || 0;
+    if (ads < 5000) adsDistribution.under5k++;
+    else if (ads < 10000) adsDistribution['5k-10k']++;
+    else if (ads < 20000) adsDistribution['10k-20k']++;
+    else adsDistribution.over20k++;
+  });
+
   return (
     <div style={{ padding: '16px', borderBottom: '1px solid #e2e8f0' }}>
       <h2 style={{ fontSize: '18px', fontWeight: 700, marginBottom: '12px' }}>
@@ -52,6 +67,37 @@ export default function KPICards() {
       
       <div style={{ marginTop: '8px', fontSize: '12px', color: '#94a3b8' }}>
         {filteredStores.length} 家门店
+      </div>
+
+      {/* ADS 分布条 */}
+      <div style={{ marginTop: '16px' }}>
+        <div style={{ fontSize: '12px', color: '#64748b', marginBottom: '8px', fontWeight: 600 }}>
+          ADS 分布
+        </div>
+        <div style={{ display: 'flex', gap: '4px', marginBottom: '8px' }}>
+          <div style={{ flex: adsDistribution.under5k, background: '#3b82f6', height: '8px', borderRadius: '4px', minWidth: adsDistribution.under5k > 0 ? '4px' : '0' }} />
+          <div style={{ flex: adsDistribution['5k-10k'], background: '#22c55e', height: '8px', borderRadius: '4px', minWidth: adsDistribution['5k-10k'] > 0 ? '4px' : '0' }} />
+          <div style={{ flex: adsDistribution['10k-20k'], background: '#f97316', height: '8px', borderRadius: '4px', minWidth: adsDistribution['10k-20k'] > 0 ? '4px' : '0' }} />
+          <div style={{ flex: adsDistribution.over20k, background: '#ef4444', height: '8px', borderRadius: '4px', minWidth: adsDistribution.over20k > 0 ? '4px' : '0' }} />
+        </div>
+        <div style={{ display: 'flex', justifyContent: 'space-between', fontSize: '11px', color: '#64748b' }}>
+          <div style={{ display: 'flex', alignItems: 'center', gap: '4px' }}>
+            <div style={{ width: '8px', height: '8px', background: '#3b82f6', borderRadius: '2px' }} />
+            &lt;5K ({adsDistribution.under5k})
+          </div>
+          <div style={{ display: 'flex', alignItems: 'center', gap: '4px' }}>
+            <div style={{ width: '8px', height: '8px', background: '#22c55e', borderRadius: '2px' }} />
+            5-10K ({adsDistribution['5k-10k']})
+          </div>
+          <div style={{ display: 'flex', alignItems: 'center', gap: '4px' }}>
+            <div style={{ width: '8px', height: '8px', background: '#f97316', borderRadius: '2px' }} />
+            10-20K ({adsDistribution['10k-20k']})
+          </div>
+          <div style={{ display: 'flex', alignItems: 'center', gap: '4px' }}>
+            <div style={{ width: '8px', height: '8px', background: '#ef4444', borderRadius: '2px' }} />
+            &gt;20K ({adsDistribution.over20k})
+          </div>
+        </div>
       </div>
     </div>
   );
