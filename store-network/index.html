@@ -158,7 +158,7 @@ body{font-family:-apple-system,"SF Pro","PingFang SC","Microsoft YaHei",sans-ser
 <div class="panel">
 <h1>Wagas 门店网络效率诊断</h1>
 <div class="subtitle" id="panel-date">快照: <strong id="cur-date-display">2026-07-07 ~ 2026-07-13</strong> &nbsp;·&nbsp; 353 家门店</div>
-<div class="update-time">数据更新于 2026-07-14 10:25</div>
+<div class="update-time">数据更新于 2026-07-14 10:29</div>
 <div class="data-warning" id="missing-warning" style="display:none"></div>
 
 <div class="kpi-grid">
@@ -181,7 +181,7 @@ body{font-family:-apple-system,"SF Pro","PingFang SC","Microsoft YaHei",sans-ser
 </div></div>
 
 <div class="section"><div class="section-title">🔍 筛选</div>
-<div class="filter-group"><select id="brand-filter" onchange="applyFilter()">
+<div class="filter-group"><select id="brand-filter" onchange="updateMsOptions();applyFilter()">
 <option value="all">全部品牌</option>
 <option value="Wagas">Wagas (236)</option>
 <option value="Baker&Spice">Baker & Spice (97)</option>
@@ -189,7 +189,7 @@ body{font-family:-apple-system,"SF Pro","PingFang SC","Microsoft YaHei",sans-ser
 <option value="JUNi">JUNi (1)</option>
 <option value="Funk&Kale">Funk & Kale (1)</option>
 </select></div>
-<div class="filter-group"><select id="city-filter" onchange="applyFilter()">
+<div class="filter-group"><select id="city-filter" onchange="updateMsOptions();applyFilter()">
 <option value="all">全部城市</option><option value="上海市">上海市</option><option value="北京市">北京市</option><option value="南京市">南京市</option><option value="天津市">天津市</option><option value="宁波市">宁波市</option><option value="广州市">广州市</option><option value="成都市">成都市</option><option value="无锡市">无锡市</option><option value="昆山市">昆山市</option><option value="杭州市">杭州市</option><option value="武汉市">武汉市</option><option value="深圳市">深圳市</option><option value="温州市">温州市</option><option value="珠海市">珠海市</option><option value="苏州市">苏州市</option><option value="西安市">西安市</option><option value="重庆市">重庆市</option><option value="青岛市">青岛市</option></select></div>
 <div class="filter-group"><select id="ads-filter" onchange="applyFilter()">
 <option value="all">全部 ADS 区间</option>

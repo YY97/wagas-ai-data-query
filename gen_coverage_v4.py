@@ -573,7 +573,7 @@ body{{font-family:-apple-system,"SF Pro","PingFang SC","Microsoft YaHei",sans-se
 </div></div>
 
 <div class="section"><div class="section-title">🔍 筛选</div>
-<div class="filter-group"><select id="brand-filter" onchange="applyFilter()">
+<div class="filter-group"><select id="brand-filter" onchange="updateMsOptions();applyFilter()">
 <option value="all">全部品牌</option>
 <option value="Wagas">Wagas ({bx.get('Wagas',0)})</option>
 <option value="Baker&Spice">Baker & Spice ({bsn})</option>
@@ -581,7 +581,7 @@ body{{font-family:-apple-system,"SF Pro","PingFang SC","Microsoft YaHei",sans-se
 <option value="JUNi">JUNi ({bx.get('JUNi',0)})</option>
 <option value="Funk&Kale">Funk & Kale ({fkn})</option>
 </select></div>
-<div class="filter-group"><select id="city-filter" onchange="applyFilter()">
+<div class="filter-group"><select id="city-filter" onchange="updateMsOptions();applyFilter()">
 <option value="all">全部城市</option>{city_opts}</select></div>
 <div class="filter-group"><select id="ads-filter" onchange="applyFilter()">
 <option value="all">全部 ADS 区间</option>
