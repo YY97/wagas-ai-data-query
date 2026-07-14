@@ -1,5 +1,6 @@
 import { useState } from 'react';
-import { DayPicker, DateRange } from 'react-day-picker';
+import { DayPicker } from 'react-day-picker';
+import type { DateRange } from 'react-day-picker';
 import 'react-day-picker/dist/style.css';
 import { useAppStore } from '../store';
 
@@ -78,10 +79,9 @@ export default function DateRangePicker() {
               months: { display: 'flex', gap: '16px' },
               month: { margin: 0 },
               nav: { position: 'relative' },
-              head_cell: { color: '#64748b', fontSize: '12px', fontWeight: 600 },
               day: { fontSize: '13px' },
-              day_selected: { background: '#3b82f6', color: '#fff' },
-              day_range_middle: { background: '#dbeafe', color: '#1e40af' }
+              selected: { background: '#3b82f6', color: '#fff' },
+              range_middle: { background: '#dbeafe', color: '#1e40af' }
             }}
           />
           <div style={{ display: 'flex', gap: '8px', marginTop: '12px', justifyContent: 'flex-end' }}>

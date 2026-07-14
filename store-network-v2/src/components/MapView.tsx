@@ -1,7 +1,8 @@
 import { useRef, useEffect, useState, useCallback } from 'react';
 import { Map } from 'maplibre-gl';
 import 'maplibre-gl/dist/maplibre-gl.css';
-import { ScatterplotLayer, CircleLayer, HeatmapLayer } from '@deck.gl/layers';
+import { ScatterplotLayer } from '@deck.gl/layers';
+import { HeatmapLayer } from '@deck.gl/aggregation-layers';
 import { Deck } from '@deck.gl/core';
 import { useAppStore } from '../store';
 
@@ -96,7 +97,7 @@ export default function MapView() {
     // 1km 覆盖圈
     if (show1kmCircles) {
       layers.push(
-        new CircleLayer({
+        new ScatterplotLayer({
           id: 'coverage-1km',
           data: filteredStores,
           getPosition: (d: any) => [d.lng, d.lat],
@@ -114,7 +115,7 @@ export default function MapView() {
     // 3km 覆盖圈
     if (show3kmCircles) {
       layers.push(
-        new CircleLayer({
+        new ScatterplotLayer({
           id: 'coverage-3km',
           data: filteredStores,
           getPosition: (d: any) => [d.lng, d.lat],
