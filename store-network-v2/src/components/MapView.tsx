@@ -25,19 +25,24 @@ export default function MapView() {
       style: {
         version: 8,
         sources: {
-          'osm-tiles': {
+          'amap-tiles': {
             type: 'raster',
-            tiles: ['https://tile.openstreetmap.org/{z}/{x}/{y}.png'],
+            tiles: [
+              'https://webrd01.is.autonavi.com/appmaptile?lang=zh_cn&size=1&scale=1&style=8&x={x}&y={y}&z={z}',
+              'https://webrd02.is.autonavi.com/appmaptile?lang=zh_cn&size=1&scale=1&style=8&x={x}&y={y}&z={z}',
+              'https://webrd03.is.autonavi.com/appmaptile?lang=zh_cn&size=1&scale=1&style=8&x={x}&y={y}&z={z}',
+              'https://webrd04.is.autonavi.com/appmaptile?lang=zh_cn&size=1&scale=1&style=8&x={x}&y={y}&z={z}'
+            ],
             tileSize: 256,
-            attribution: '© OpenStreetMap'
+            attribution: '© 高德地图'
           }
         },
         layers: [{
-          id: 'osm-tiles',
+          id: 'amap-tiles',
           type: 'raster',
-          source: 'osm-tiles',
+          source: 'amap-tiles',
           minzoom: 0,
-          maxzoom: 19
+          maxzoom: 18
         }]
       },
       center: [121.4737, 31.2304], // 上海中心
