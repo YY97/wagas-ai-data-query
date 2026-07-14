@@ -104,12 +104,18 @@ if sorted_dates:
     while d <= latest:
         expected_dates.add(d.strftime("%Y-%m-%d"))
         d += timedelta(days=1)
-    # 检测缺失日期
-    missing = sorted(expected_dates - all_dates)
+    # 检测缺失日期（只看最近30天）
+    warn_start = latest - timedelta(days=29)
+    warn_dates = set()
+    d = warn_start
+    while d <= latest:
+        warn_dates.add(d.strftime("%Y-%m-%d"))
+        d += timedelta(days=1)
+    missing = sorted(warn_dates - all_dates)
     if missing:
-        print(f"   [WARN] 30天内缺少 {len(missing)} 天数据: {', '.join(missing[:10])}" + (" ..." if len(missing) > 10 else ""))
+        print(f"   [WARN] 近30天内缺少 {len(missing)} 天数据: {', '.join(missing[:10])}" + (" ..." if len(missing) > 10 else ""))
     else:
-        print(f"   30天数据完整，无缺失")
+        print(f"   近30天数据完整，无缺失")
     # 过滤：只保留窗口内的数据
     trimmed = 0
     for sid in list(store_ads.keys()):
@@ -777,7 +783,7 @@ function getAds(sid){{
 
 function adc(v){{if(v==null)return"#6b7280";if(v<5000)return"#93c5fd";if(v<10000)return"#86efac";if(v<20000)return"#fdba74";return"#fca5a5"}}
 function adb(v){{if(v==null)return"N/A";if(v<5000)return"<5K";if(v<10000)return"5-10K";if(v<20000)return"10-20K";return">20K"}}
-function fm(n){{return n!=null?"¥"+n.toLocaleString():"N/A"}}
+function fm(n){{return n!=null?"¥"+Math.round(n).toLocaleString():"N/A"}}
 
 function createPopup(s){{
   var a=getAds(s.sid);
@@ -867,11 +873,12 @@ function loadTopLoc(sid,btn){{
     var locs=data[sid];
     if(!locs||!locs.length){{btn.outerHTML='<span style="font-size:10px;color:#94a3b8">暂无配送地数据</span>';return;}}
     var h='<div style="margin-top:6px;padding:6px 8px;background:#eff6ff;border-left:3px solid #3b82f6;border-radius:3px;font-size:10px">';
-    h+='<div style="font-weight:700;color:#1e40af;margin-bottom:3px">热门配送地 TOP'+locs.length+'</div>';
+    h+='<div style="font-weight:700;color:#1e40af;margin-bottom:3px">热门配送地 TOP10 <span style="font-weight:400;color:#94a3b8;font-size:8px">(总量)</span></div>';
     h+='<div style="max-height:150px;overflow-y:auto">';
     h+='<table style="width:100%;border-collapse:collapse;font-size:9px">';
-    h+='<tr style="color:#64748b;border-bottom:1px solid #dbeafe"><th style="text-align:left;padding:2px 0">#</th><th style="text-align:left;padding:2px 0">地点</th><th style="text-align:right;padding:2px 4px">距离</th><th style="text-align:right;padding:2px 0">单数</th></tr>';
-    locs.forEach(function(t){{
+    h+='<tr style="color:#64748b;border-bottom:1px solid #dbeafe"><th style="text-align:left;padding:2px 0">#</th><th style="text-align:left;padding:2px 0">地点</th><th style="text-align:right;padding:2px 4px">距离</th><th style="text-align:right;padding:2px 0">单数(总量)</th></tr>';
+    var top10=locs.slice(0,10);
+    top10.forEach(function(t){{
       h+='<tr style="border-bottom:1px solid #f1f5f9">';
       h+='<td style="padding:2px 0;color:#94a3b8">'+t.rank+'</td>';
       h+='<td style="padding:2px 0;max-width:120px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap">'+(t.name||'未知')+'</td>';
