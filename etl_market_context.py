@@ -220,7 +220,7 @@ def aggregate(pois):
     avg_cost = round(sum(costs) / len(costs), 1) if costs else None
     avg_rating = round(sum(ratings) / len(ratings), 2) if ratings else None
     median_cost = round(sorted(costs)[len(costs) // 2], 1) if costs else None
-    top_cats = ", ".join(f"{k}({v})" for k, v in categories.most_common(3))
+    top_cats = ", ".join(f"{k}({v})" for k, v in categories.most_common(5))
     top_biz = biz_areas.most_common(1)[0][0] if biz_areas else ""
 
     return {
