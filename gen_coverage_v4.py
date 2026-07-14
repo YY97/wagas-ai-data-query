@@ -703,8 +703,8 @@ function msRender(type) {{
   var html = '';
   pageItems.forEach(function(item) {{
     var checked = d.selected.indexOf(item.id) >= 0 ? 'checked' : '';
-    html += '<div class="ms-item" onclick="msSelect(\''+type+'\',\''+item.id+'\')">'
-      + '<input type="checkbox" '+checked+' onclick="event.stopPropagation();msSelect(\''+type+'\',\''+item.id+'\')">'
+    html += '<div class="ms-item" onclick="msSelect(\\''+type+'\\',\\''+item.id+'\\')">'
+      + '<input type="checkbox" '+checked+' onclick="event.stopPropagation();msSelect(\\''+type+'\\',\\''+item.id+'\\')">'
       + '<span>'+item.label+'</span></div>';
   }});
   list.innerHTML = html;
@@ -749,7 +749,7 @@ function msRenderTags(type) {{
   d.selected.forEach(function(id) {{
     var item = d.items.find(function(i){{return i.id===id}});
     var label = item ? item.label : id;
-    html += '<div class="ms-tag"><span>'+label+'</span><span class="ms-tag-x" onclick="event.stopPropagation();msSelect(\''+type+'\',\''+id+'\')">&times;</span></div>';
+    html += '<div class="ms-tag"><span>'+label+'</span><span class="ms-tag-x" onclick="event.stopPropagation();msSelect(\\''+type+'\\',\\''+id+'\\')">&times;</span></div>';
   }});
   trigger.innerHTML = html;
 }}
@@ -837,7 +837,7 @@ function createPopup(s){{
   }}
 
   // 热门配送地（按需加载）
-  h+='<button class="btn" style="background:#3b82f6;color:#fff;margin-top:6px" onclick="loadTopLoc(\''+s.sid+'\',this)">&#128205; 热门配送地</button>';
+  h+='<button class="btn" style="background:#3b82f6;color:#fff;margin-top:6px" onclick="loadTopLoc(\\''+s.sid+'\\',this)">&#128205; 热门配送地</button>';
 
   var ol=s.overlap||0;
   if(ol>0){{
