@@ -10,6 +10,7 @@ interface AppState {
   // 筛选
   filters: Filters;
   setFilter: <K extends keyof Filters>(key: K, value: Filters[K]) => void;
+  setDateRange: (range: { start: string; end: string }) => void;
   
   // UI 状态
   selectedStore: Store | null;
@@ -45,6 +46,8 @@ export const useAppStore = create<AppState>((set) => ({
   setFilter: (key, value) => set((state) => ({
     filters: { ...state.filters, [key]: value }
   })),
+  
+  setDateRange: (range) => set({ dateRange: range }),
   
   setSelectedStore: (store) => set({ selectedStore: store }),
   setLoading: (loading) => set({ loading }),

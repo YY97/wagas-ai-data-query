@@ -1,5 +1,6 @@
 import { useAppStore } from '../store';
 import * as Select from '@radix-ui/react-select';
+import DateRangePicker from './DateRangePicker';
 
 export default function FilterPanel() {
   const { filters, setFilter, stores } = useAppStore();
@@ -13,6 +14,11 @@ export default function FilterPanel() {
       <h3 style={{ fontSize: '14px', fontWeight: 600, marginBottom: '12px' }}>
         筛选
       </h3>
+
+      {/* 日期范围 */}
+      <div style={{ marginBottom: '16px' }}>
+        <DateRangePicker />
+      </div>
 
       {/* 品牌筛选 */}
       <div style={{ marginBottom: '12px' }}>
