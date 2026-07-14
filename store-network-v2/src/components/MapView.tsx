@@ -70,7 +70,7 @@ export default function MapView() {
     if (deliveryData[city]) return; // 已加载
     
     try {
-      const response = await fetch(`/data/delivery/${city}.json`);
+      const response = await fetch(`${import.meta.env.BASE_URL}data/delivery/${city}.json`);
       const data = await response.json();
       setDeliveryData(prev => ({ ...prev, [city]: data }));
     } catch (error) {
@@ -93,6 +93,15 @@ export default function MapView() {
     const filteredStores = stores.filter(store => {
       if (filters.brand !== 'all' && store.brand !== filters.brand) return false;
       if (filters.city !== 'all' && store.city !== filters.city) return false;
+      if (filters.fmt !== 'all' && store.fmt !== filters.fmt) return false;
+      // ADS 区间筛选
+      if (filters.adsRange !== 'all') {
+        const ads = store.ads ?? 0;
+        if (filters.adsRange === 'lt5000' && ads >= 5000) return false;
+        if (filters.adsRange === '5000to10000' && (ads < 5000 || ads >= 10000)) return false;
+        if (filters.adsRange === '10000to20000' && (ads < 10000 || ads >= 20000)) return false;
+        if (filters.adsRange === 'gt20000' && ads < 20000) return false;
+      }
       return true;
     });
 

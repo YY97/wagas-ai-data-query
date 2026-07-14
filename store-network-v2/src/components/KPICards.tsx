@@ -7,6 +7,14 @@ export default function KPICards() {
   const filteredStores = stores.filter(store => {
     if (filters.brand !== 'all' && store.brand !== filters.brand) return false;
     if (filters.city !== 'all' && store.city !== filters.city) return false;
+    if (filters.fmt !== 'all' && store.fmt !== filters.fmt) return false;
+    if (filters.adsRange !== 'all') {
+      const ads = store.ads ?? 0;
+      if (filters.adsRange === 'lt5000' && ads >= 5000) return false;
+      if (filters.adsRange === '5000to10000' && (ads < 5000 || ads >= 10000)) return false;
+      if (filters.adsRange === '10000to20000' && (ads < 10000 || ads >= 20000)) return false;
+      if (filters.adsRange === 'gt20000' && ads < 20000) return false;
+    }
     return true;
   });
 
