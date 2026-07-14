@@ -172,28 +172,31 @@ export default function MapView() {
       );
     }
 
-    // 配送热力图
-    const heatCity = selectedStore?.city || (filters.city !== 'all' ? filters.city : null);
-    if (showHeatmap && heatCity && deliveryData[heatCity]) {
-      const heatData: any[] = [];
-      Object.values(deliveryData[heatCity]).forEach((points: any) => {
-        if (Array.isArray(points)) {
-          points.forEach((p: any) => {
-            heatData.push({ position: [p.lng, p.lat], weight: p.w || p.count || 1 });
-          });
+    // 配送热力图（单店配送数据）
+    if (showHeatmap && selectedStore) {
+      const heatCity = selectedStore.city;
+      const cityData = deliveryData[heatCity];
+      if (cityData) {
+        const storePoints = cityData[selectedStore.sid];
+        if (Array.isArray(storePoints) && storePoints.length > 0) {
+          const heatData = storePoints.map((p: any) => ({
+            position: [p.lng, p.lat],
+            weight: p.w || p.count || 1
+          }));
+          const maxWeight = Math.max(...storePoints.map((p: any) => p.w || p.count || 1));
+          layerList.push(
+            new HeatmapLayer({
+              id: 'delivery-heatmap', data: heatData,
+              getPosition: (d: any) => d.position, getWeight: (d: any) => d.weight,
+              radiusPixels: 25, intensity: maxWeight * 0.3, threshold: 0.03,
+              colorRange: [
+                [0, 0, 255, 100], [0, 255, 255, 150], [0, 255, 0, 200],
+                [255, 255, 0, 230], [255, 0, 0, 255]
+              ]
+            })
+          );
         }
-      });
-      layerList.push(
-        new HeatmapLayer({
-          id: 'delivery-heatmap', data: heatData,
-          getPosition: (d: any) => d.position, getWeight: (d: any) => d.weight,
-          radiusPixels: 60, intensity: 1, threshold: 0.03,
-          colorRange: [
-            [0, 0, 255, 100], [0, 255, 255, 150], [0, 255, 0, 200],
-            [255, 255, 0, 230], [255, 0, 0, 255]
-          ]
-        })
-      );
+      }
     }
 
     deckOverlay.current.setProps({ layers: layerList });
