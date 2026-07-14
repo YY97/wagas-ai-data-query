@@ -3,13 +3,13 @@ import { Map } from 'maplibre-gl';
 import 'maplibre-gl/dist/maplibre-gl.css';
 import { ScatterplotLayer } from '@deck.gl/layers';
 import { HeatmapLayer } from '@deck.gl/aggregation-layers';
-import { Deck } from '@deck.gl/core';
+import { MapboxOverlay } from '@deck.gl/mapbox';
 import { useAppStore } from '../store';
 
 export default function MapView() {
   const mapContainer = useRef<HTMLDivElement>(null);
   const map = useRef<Map | null>(null);
-  const deck = useRef<Deck | null>(null);
+  const deckOverlay = useRef<MapboxOverlay | null>(null);
   const { stores, filters, selectedStore, setSelectedStore } = useAppStore();
   const [deliveryData, setDeliveryData] = useState<Record<string, any[]>>({});
   const [showHeatmap, setShowHeatmap] = useState(false);
@@ -49,19 +49,18 @@ export default function MapView() {
       zoom: 10
     });
 
-    // 初始化 deck.gl
-    deck.current = new Deck({
-      canvas: 'deck-canvas',
-      initialViewState: {
-        longitude: 121.4737,
-        latitude: 31.2304,
-        zoom: 10
-      },
-      controller: true
+    // 初始化 deck.gl overlay
+    deckOverlay.current = new MapboxOverlay({
+      interleaved: false,
+      layers: []
     });
+    map.current.addControl(deckOverlay.current);
 
     return () => {
-      deck.current?.finalize();
+      if (deckOverlay.current && map.current) {
+        map.current.removeControl(deckOverlay.current);
+        deckOverlay.current.finalize();
+      }
       map.current?.remove();
     };
   }, []);
@@ -88,7 +87,7 @@ export default function MapView() {
 
   // 更新 deck.gl 图层
   useEffect(() => {
-    if (!deck.current) return;
+    if (!deckOverlay.current) return;
 
     // 筛选门店
     const filteredStores = stores.filter(store => {
@@ -189,7 +188,7 @@ export default function MapView() {
       );
     }
 
-    deck.current.setProps({ layers });
+    deckOverlay.current.setProps({ layers });
   }, [stores, filters, selectedStore, showHeatmap, show1kmCircles, show3kmCircles, deliveryData, setSelectedStore]);
 
   return (
@@ -197,17 +196,6 @@ export default function MapView() {
       <div 
         ref={mapContainer} 
         style={{ width: '100%', height: '100%', position: 'absolute', top: 0, left: 0 }}
-      />
-      <canvas 
-        id="deck-canvas" 
-        style={{ 
-          width: '100%', 
-          height: '100%', 
-          position: 'absolute', 
-          top: 0, 
-          left: 0,
-          pointerEvents: 'none'
-        }}
       />
       
       {/* 图层控制面板 */}
