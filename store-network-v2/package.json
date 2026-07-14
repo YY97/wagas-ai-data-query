@@ -10,6 +10,9 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@deck.gl/aggregation-layers": "^9.3.6",
+    "@deck.gl/core": "^9.3.6",
+    "@deck.gl/layers": "^9.3.6",
     "@radix-ui/react-select": "^2.3.3",
     "@tanstack/react-table": "^8.21.3",
     "@tanstack/react-virtual": "^3.14.6",
