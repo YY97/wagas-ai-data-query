@@ -158,7 +158,7 @@ body{font-family:-apple-system,"SF Pro","PingFang SC","Microsoft YaHei",sans-ser
 <div class="panel">
 <h1>Wagas 门店网络效率诊断</h1>
 <div class="subtitle" id="panel-date">快照: <strong id="cur-date-display">2026-07-07 ~ 2026-07-13</strong> &nbsp;·&nbsp; 353 家门店</div>
-<div class="update-time">数据更新于 2026-07-14 09:49</div>
+<div class="update-time">数据更新于 2026-07-14 10:21</div>
 <div class="data-warning" id="missing-warning" style="display:none"></div>
 
 <div class="kpi-grid">
@@ -279,9 +279,12 @@ if(missingDates.length>0){
 
 // ====== 多选下拉组件 ======
 var msData = {
-  name: { items: stores.map(function(s){return {id:s.sid, label:s.name}}), selected: [], page: 1, perPage: 15, filtered: [] },
-  sid: { items: stores.map(function(s){return {id:s.sid, label:s.sid}}), selected: [], page: 1, perPage: 15, filtered: [] }
+  name: { items: [], selected: [], page: 1, perPage: 15, filtered: [], fullItems: stores.map(function(s){return {id:s.sid, label:s.name, brand:s.brand, city:s.city}}) },
+  sid: { items: [], selected: [], page: 1, perPage: 15, filtered: [], fullItems: stores.map(function(s){return {id:s.sid, label:s.sid, brand:s.brand, city:s.city}}) }
 };
+// 初始化：从 fullItems 复制到 items
+msData.name.items = msData.name.fullItems.slice();
+msData.sid.items = msData.sid.fullItems.slice();
 function msInit(type) {
   msData[type].filtered = msData[type].items.slice();
   msRender(type);
@@ -376,6 +379,25 @@ document.addEventListener('click', function(e) {
 });
 msInit('name');
 msInit('sid');
+
+// ====== 筛选器联动：品牌/城市改变时更新门店多选列表 ======
+function updateMsOptions(){
+  var bf=document.getElementById("brand-filter").value;
+  var cf=document.getElementById("city-filter").value;
+  ["name","sid"].forEach(function(type){
+    var prevSel=msData[type].selected.slice();
+    msData[type].items=msData[type].fullItems.filter(function(item){
+      if(bf!=="all"&&item.brand!==bf&&item.brand!==bf.replace("&"," & "))return false;
+      if(cf!=="all"&&item.city!==cf)return false;
+      return true;
+    });
+    var newIds=msData[type].items.map(function(i){return i.id});
+    msData[type].selected=prevSel.filter(function(id){return newIds.indexOf(id)>=0});
+    msData[type].filtered=msData[type].items.slice();
+    msData[type].page=1;
+    msRender(type);
+  });
+}
 
 var heatLayer=null, activeHeatStore=null;
 
@@ -481,10 +503,10 @@ function loadTopLoc(sid,btn){
     var locs=data[sid];
     if(!locs||!locs.length){btn.outerHTML='<span style="font-size:10px;color:#94a3b8">暂无配送地数据</span>';return;}
     var h='<div style="margin-top:6px;padding:6px 8px;background:#eff6ff;border-left:3px solid #3b82f6;border-radius:3px;font-size:10px">';
-    h+='<div style="font-weight:700;color:#1e40af;margin-bottom:3px">热门配送地 TOP10 <span style="font-weight:400;color:#94a3b8;font-size:8px">(总量)</span></div>';
+    h+='<div style="font-weight:700;color:#1e40af;margin-bottom:3px">热门配送地 TOP10 <span style="font-weight:400;color:#94a3b8;font-size:8px">(全量单数)</span></div>';
     h+='<div style="max-height:150px;overflow-y:auto">';
     h+='<table style="width:100%;border-collapse:collapse;font-size:9px">';
-    h+='<tr style="color:#64748b;border-bottom:1px solid #dbeafe"><th style="text-align:left;padding:2px 0">#</th><th style="text-align:left;padding:2px 0">地点</th><th style="text-align:right;padding:2px 4px">距离</th><th style="text-align:right;padding:2px 0">单数(总量)</th></tr>';
+    h+='<tr style="color:#64748b;border-bottom:1px solid #dbeafe"><th style="text-align:left;padding:2px 0">#</th><th style="text-align:left;padding:2px 0">地点</th><th style="text-align:right;padding:2px 4px">距离</th><th style="text-align:right;padding:2px 0">单数</th></tr>';
     var top10=locs.slice(0,10);
     top10.forEach(function(t){
       h+='<tr style="border-bottom:1px solid #f1f5f9">';
