@@ -865,7 +865,7 @@ function createPopup(s){{
   }}
 
   // 热门配送地（按需加载）
-  h+='<button class="btn" style="background:#3b82f6;color:#fff;margin-top:6px" onclick="loadTopLoc(\\''+s.sid+'\\',this)">&#128205; 热门配送地</button>';
+  h+='<button class="btn btn-toploc" style="background:#3b82f6;color:#fff;margin-top:6px" data-sid="'+s.sid+'">&#128205; 热门配送地</button>';
 
   var ol=s.overlap||0;
   if(ol>0){{
@@ -924,6 +924,15 @@ function loadTopLoc(sid,btn){{
     console.log("加载失败:",e);
   }});
 }}
+
+// 事件委托：处理热门配送地按钮点击
+document.addEventListener('click', function(e) {{
+  var btn = e.target.closest('.btn-toploc');
+  if (btn) {{
+    var sid = btn.dataset.sid;
+    if (sid) loadTopLoc(sid, btn);
+  }}
+}});
 
 function toggleHeat(sid,btn){{
   if(!deliveryCityIndex){{showToast("配送索引加载中，请稍候");return}}
