@@ -117,6 +117,12 @@ jobs:
           } else {
             Write-Host "Top locations not found, skipping"
           }
+          if (Test-Path output/store_daily_sales_data.json) {
+            Copy-Item -Force output/store_daily_sales_data.json store-network/store_daily_sales_data.json
+            Write-Host "Daily sales data copied"
+          } else {
+            Write-Host "Daily sales data not found, skipping"
+          }
         working-directory: ${{ github.workspace }}
 
       - name: 提交并推送到 GitHub

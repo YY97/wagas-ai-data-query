@@ -376,7 +376,13 @@ with open(top_loc_file, "w", encoding="utf-8") as f:
     json.dump(top_loc_js, f, ensure_ascii=False, separators=(",", ":"))
 print(f"   热门配送地: {top_loc_file} ({os.path.getsize(top_loc_file)/1024:.0f}KB)")
 
-date_data_js = json.dumps(store_ads, ensure_ascii=False)
+# 单独写 dateData（按需加载，避免 HTML 过大）
+date_data_file = os.path.join(os.path.join(SCRIPT_DIR, "output"), "store_daily_sales_data.json")
+with open(date_data_file, "w", encoding="utf-8") as f:
+    json.dump(store_ads, f, ensure_ascii=False, separators=(",", ":"))
+print(f"   日销售数据: {date_data_file} ({os.path.getsize(date_data_file)/1024:.0f}KB)")
+
+date_data_js = "{}"  # 占位，实际数据按需加载
 
 html = f'''<!DOCTYPE html>
 <html lang="zh-CN">
@@ -608,7 +614,7 @@ body{{font-family:-apple-system,"SF Pro","PingFang SC","Microsoft YaHei",sans-se
 
 <div class="loading-overlay" id="loading-overlay">
   <div class="loading-spinner"></div>
-  <div class="loading-text">加载外卖配送数据中...</div>
+  <div class="loading-text">数据加载中...</div>
 </div>
 <div id="map"></div>
 <div class="heat-info" id="heat-info"></div>
@@ -629,20 +635,36 @@ body{{font-family:-apple-system,"SF Pro","PingFang SC","Microsoft YaHei",sans-se
 var BC={{Wagas:"#e11d48","Baker & Spice":"#f59e0b","Baker&Spice":"#f59e0b",
   Lokal:"#22c55e",JUNi:"#8b5cf6","Funk & Kale":"#06b6d4","Funk&Kale":"#06b6d4"}};
 var stores={json.dumps(store_js, ensure_ascii=False)};
-var dateData={date_data_js};
+var dateData=null;
 var dateStart="{start_default}";var dateEnd="{end_default}";
+var dataReady=0; // 计数器：2个数据源都加载完后=2
+function checkReady(){{
+  dataReady++;
+  if(dataReady>=2){{
+    var overlay=document.getElementById("loading-overlay");
+    if(overlay) overlay.classList.add("hidden");
+    applyFilter();
+  }}
+}}
+
+// 日销售数据 (按需加载)
+fetch("store_daily_sales_data.json").then(function(r){{return r.json()}}).then(function(d){{
+  dateData=d;console.log("日销售数据已加载: "+Object.keys(d).length+"店");
+  checkReady();
+}}).catch(function(e){{
+  console.log("日销售数据加载失败:",e);
+  dateData={{}};checkReady();
+}});
 
 // 外卖配送点数据 (按城市按需加载)
 var deliveryCityIndex=null;
 var deliveryCityCache={{}};
 fetch("delivery_city_index.json").then(function(r){{return r.json()}}).then(function(d){{
   deliveryCityIndex=d;console.log("配送城市索引已加载: "+Object.keys(d).length+"店");
-  var overlay=document.getElementById("loading-overlay");
-  if(overlay) overlay.classList.add("hidden");
+  checkReady();
 }}).catch(function(e){{
   console.log("配送索引加载失败(可忽略):",e);
-  var overlay=document.getElementById("loading-overlay");
-  if(overlay){{overlay.querySelector(".loading-text").textContent="外卖数据加载失败，地图仍可使用";overlay.classList.add("hidden");}}
+  deliveryCityIndex={{}};checkReady();
 }});
 
 // 数据缺失警告
@@ -760,6 +782,7 @@ msInit('sid');
 var heatLayer=null, activeHeatStore=null;
 
 function getAds(sid){{
+  if(!dateData)return null;
   var dd=dateData[sid];if(!dd)return null;
   var vs=[];
   for(var k in dd){{
@@ -1059,8 +1082,6 @@ function onDateRangeChange(){{
   document.getElementById("cur-date-display").textContent=label;
   applyFilter();
 }}
-
-applyFilter();
 </script>
 </body></html>'''
 
