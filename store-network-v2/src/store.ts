@@ -1,26 +1,29 @@
 import { create } from 'zustand';
 import type { Store, SalesData, Filters } from './types';
 
+export interface LayerToggles {
+  showMarkers: boolean;
+  showCircles1km: boolean;
+  showCircles3km: boolean;
+  highlightOverlap: boolean;
+  colorByAds: boolean;
+}
+
 interface AppState {
-  // 数据
   stores: Store[];
   salesData: SalesData;
   dateRange: { start: string; end: string };
-  
-  // 筛选
+  allDates: string[];
   filters: Filters;
+  layers: LayerToggles;
+  selectedStore: Store | null;
+  loading: boolean;
   setFilter: <K extends keyof Filters>(key: K, value: Filters[K]) => void;
   setDateRange: (range: { start: string; end: string }) => void;
-  
-  // UI 状态
-  selectedStore: Store | null;
+  setLayer: <K extends keyof LayerToggles>(key: K, value: boolean) => void;
   setSelectedStore: (store: Store | null) => void;
-  
-  // 加载状态
-  loading: boolean;
   setLoading: (loading: boolean) => void;
-  
-  // 初始化数据
+  getAds: (sid: string) => number | null;
   initData: (stores: Store[], salesData: SalesData, dateRange: { start: string; end: string }) => void;
 }
 
@@ -35,32 +38,74 @@ const defaultFilters: Filters = {
   dateEnd: '',
 };
 
-export const useAppStore = create<AppState>((set) => ({
+const defaultLayers: LayerToggles = {
+  showMarkers: true,
+  showCircles1km: true,
+  showCircles3km: false,
+  highlightOverlap: false,
+  colorByAds: true,
+};
+
+export const useAppStore = create<AppState>((set, get) => ({
   stores: [],
   salesData: {},
   dateRange: { start: '', end: '' },
+  allDates: [],
   filters: defaultFilters,
+  layers: defaultLayers,
   selectedStore: null,
   loading: true,
-  
+
   setFilter: (key, value) => set((state) => ({
     filters: { ...state.filters, [key]: value }
   })),
-  
-  setDateRange: (range) => set({ dateRange: range }),
-  
+
+  setDateRange: (range) => set((state) => ({
+    dateRange: range,
+    filters: { ...state.filters, dateStart: range.start, dateEnd: range.end }
+  })),
+
+  setLayer: (key, value) => set((state) => ({
+    layers: { ...state.layers, [key]: value }
+  })),
+
   setSelectedStore: (store) => set({ selectedStore: store }),
   setLoading: (loading) => set({ loading }),
-  
-  initData: (stores, salesData, dateRange) => set({
-    stores,
-    salesData,
-    dateRange,
-    loading: false,
-    filters: {
-      ...defaultFilters,
-      dateStart: dateRange.start,
-      dateEnd: dateRange.end,
+
+  getAds: (sid: string) => {
+    const state = get();
+    const dd = state.salesData[sid];
+    if (!dd) return null;
+    const { dateStart, dateEnd } = state.filters;
+    const ds = dateStart || state.dateRange.start;
+    const de = dateEnd || state.dateRange.end;
+    const values: number[] = [];
+    for (const k in dd) {
+      if (dd[k] != null && dd[k] > 0 && k >= ds && k <= de) {
+        values.push(dd[k]);
+      }
     }
-  }),
+    return values.length ? values.reduce((a, b) => a + b, 0) / values.length : null;
+  },
+
+  initData: (stores, salesData, dateRange) => {
+    const allDates = new Set<string>();
+    Object.values(salesData).forEach(storeSales => {
+      Object.keys(storeSales).forEach(date => allDates.add(date));
+    });
+    const sortedDates = Array.from(allDates).sort();
+
+    set({
+      stores,
+      salesData,
+      dateRange,
+      allDates: sortedDates,
+      loading: false,
+      filters: {
+        ...defaultFilters,
+        dateStart: dateRange.start,
+        dateEnd: dateRange.end,
+      }
+    });
+  },
 }));

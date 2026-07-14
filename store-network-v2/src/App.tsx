@@ -11,20 +11,17 @@ function App() {
   const [error, setError] = useState<string | null>(null);
 
   useEffect(() => {
-    // 加载数据
     Promise.all([
-      fetch('./data/stores.json').then(r => r.json()),
-      fetch('./data/sales_data.json').then(r => r.json()),
-      fetch('./data/delivery_top_locations.json').then(r => r.json()).catch(() => ({})),
+      fetch(`${import.meta.env.BASE_URL}data/stores.json`).then(r => r.json()),
+      fetch(`${import.meta.env.BASE_URL}data/sales_data.json`).then(r => r.json()),
+      fetch(`${import.meta.env.BASE_URL}data/delivery_top_locations.json`).then(r => r.json()).catch(() => ({})),
     ])
       .then(([stores, salesData, topLocationsData]: [Store[], SalesData, Record<string, any[]>]) => {
-        // 合并 top_locations 到 stores
         const storesWithLocations = stores.map(store => ({
           ...store,
           top_locations: topLocationsData[store.sid] || [],
         }));
 
-        // 计算日期范围
         const allDates = new Set<string>();
         Object.values(salesData).forEach(storeSales => {
           Object.keys(storeSales).forEach(date => allDates.add(date));
@@ -34,7 +31,7 @@ function App() {
           start: sortedDates[0] || '',
           end: sortedDates[sortedDates.length - 1] || '',
         };
-        
+
         initData(storesWithLocations, salesData, dateRange);
       })
       .catch(err => {
@@ -53,31 +50,26 @@ function App() {
 
   if (loading) {
     return (
-      <div style={{ 
-        display: 'flex', 
-        justifyContent: 'center', 
-        alignItems: 'center', 
-        height: '100vh' 
+      <div style={{
+        display: 'flex', justifyContent: 'center', alignItems: 'center',
+        height: '100vh', flexDirection: 'column', gap: '12px',
       }}>
-        <div>加载中...</div>
+        <div style={{ width: '40px', height: '40px', border: '4px solid #e2e8f0', borderTop: '4px solid #f97316', borderRadius: '50%', animation: 'spin 0.8s linear infinite' }} />
+        <div style={{ fontSize: '13px', color: '#64748b' }}>加载中...</div>
+        <style>{`@keyframes spin { to { transform: rotate(360deg); } }`}</style>
       </div>
     );
   }
 
   return (
     <div className="app-layout" style={{ display: 'flex', height: '100vh', overflow: 'hidden' }}>
-      {/* 左侧筛选面板 */}
-      <div className="side-panel" style={{ 
-        width: '350px', 
-        overflowY: 'auto',
-        borderRight: '1px solid #e2e8f0',
-        background: '#fff'
+      <div className="side-panel" style={{
+        width: '350px', overflowY: 'auto', overflowX: 'hidden',
+        borderRight: '1px solid #e2e8f0', background: '#fff',
       }}>
         <KPICards />
         <FilterPanel />
       </div>
-      
-      {/* 地图区域 */}
       <div className="map-container" style={{ flex: 1, position: 'relative' }}>
         <MapView />
         <StorePopup />

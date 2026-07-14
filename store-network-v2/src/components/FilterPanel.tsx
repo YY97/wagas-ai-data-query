@@ -1,84 +1,241 @@
+import { useState, useRef, useEffect, useCallback } from 'react';
 import { useAppStore } from '../store';
-import DateRangePicker from './DateRangePicker';
 
 const selectStyle: React.CSSProperties = {
-  width: '100%',
-  padding: '8px 12px',
-  border: '1px solid #cbd5e1',
-  borderRadius: '6px',
-  background: '#fff',
-  fontSize: '14px'
+  width: '100%', padding: '6px 8px', borderRadius: '6px',
+  border: '1px solid #cbd5e1', background: '#fff', color: '#1e293b',
+  fontSize: '12px', outline: 'none', appearance: 'none',
 };
 
-export default function FilterPanel() {
-  const { filters, setFilter, stores } = useAppStore();
+function SectionTitle({ children }: { children: React.ReactNode }) {
+  return (
+    <div style={{ fontSize: '11px', fontWeight: 700, color: '#475569', marginBottom: '6px', textTransform: 'uppercase', letterSpacing: '0.5px', display: 'flex', alignItems: 'center', gap: '6px' }}>
+      {children}
+      <span style={{ flex: 1, height: '1px', background: '#e2e8f0' }} />
+    </div>
+  );
+}
 
-  const brands = Array.from(new Set(stores.map(s => s.brand))).sort();
-  const cities = Array.from(new Set(stores.map(s => s.city))).sort();
-  const fmts = Array.from(new Set(stores.map(s => s.fmt).filter(Boolean))).sort();
+// 多选下拉组件
+function MultiSelect({
+  label, items, selected, onChange
+}: {
+  label: string;
+  items: { value: string; label: string }[];
+  selected: string[];
+  onChange: (values: string[]) => void;
+}) {
+  const [open, setOpen] = useState(false);
+  const [search, setSearch] = useState('');
+  const wrapRef = useRef<HTMLDivElement>(null);
+
+  useEffect(() => {
+    const handler = (e: MouseEvent) => {
+      if (wrapRef.current && !wrapRef.current.contains(e.target as Node)) setOpen(false);
+    };
+    document.addEventListener('mousedown', handler);
+    return () => document.removeEventListener('mousedown', handler);
+  }, []);
+
+  const filtered = items.filter(i => i.label.toLowerCase().includes(search.toLowerCase()));
+
+  const toggle = (val: string) => {
+    onChange(selected.includes(val) ? selected.filter(v => v !== val) : [...selected, val]);
+  };
 
   return (
-    <div className="filter-panel" style={{ padding: '16px' }}>
-      <h3 style={{ fontSize: '14px', fontWeight: 600, marginBottom: '12px' }}>
-        筛选
-      </h3>
+    <div ref={wrapRef} style={{ position: 'relative', marginBottom: '6px' }}>
+      <div
+        onClick={() => setOpen(!open)}
+        style={{
+          width: '100%', minHeight: '32px', padding: '4px 28px 4px 8px', borderRadius: '6px',
+          border: `1px solid ${open ? '#f97316' : '#cbd5e1'}`, background: '#fff', cursor: 'pointer',
+          display: 'flex', flexWrap: 'wrap', gap: '3px', alignItems: 'center', fontSize: '12px',
+          color: '#1e293b', position: 'relative',
+          boxShadow: open ? '0 0 0 2px rgba(249,115,22,0.1)' : 'none',
+        }}
+      >
+        {selected.length === 0 ? (
+          <span style={{ color: '#94a3b8', fontSize: '12px' }}>{label}</span>
+        ) : (
+          selected.slice(0, 3).map(s => {
+            const item = items.find(i => i.value === s);
+            return (
+              <span key={s} style={{
+                display: 'inline-flex', alignItems: 'center', gap: '2px',
+                background: '#f1f5f9', border: '1px solid #e2e8f0', borderRadius: '4px',
+                padding: '1px 6px', fontSize: '11px', color: '#334155', maxWidth: '120px',
+                overflow: 'hidden', textOverflow: 'ellipsis', whiteSpace: 'nowrap',
+              }}>
+                {item?.label || s}
+                <span onClick={(e) => { e.stopPropagation(); toggle(s); }} style={{ cursor: 'pointer', color: '#94a3b8', fontSize: '13px', marginLeft: '2px' }}>&times;</span>
+              </span>
+            );
+          })
+        )}
+        {selected.length > 3 && <span style={{ fontSize: '10px', color: '#94a3b8' }}>+{selected.length - 3}</span>}
+      </div>
+      {open && (
+        <div style={{
+          position: 'absolute', top: '100%', left: 0, right: 0, zIndex: 2000,
+          background: '#fff', border: '1px solid #cbd5e1', borderRadius: '6px',
+          boxShadow: '0 4px 16px rgba(0,0,0,0.12)', marginTop: '4px',
+          maxHeight: '280px', overflow: 'hidden', display: 'flex', flexDirection: 'column',
+        }}>
+          <div style={{ padding: '6px 8px', borderBottom: '1px solid #e2e8f0' }}>
+            <input
+              value={search} onChange={e => setSearch(e.target.value)}
+              placeholder="搜索..."
+              style={{ width: '100%', padding: '5px 8px', border: '1px solid #e2e8f0', borderRadius: '4px', fontSize: '12px', outline: 'none' }}
+            />
+          </div>
+          <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', padding: '4px 8px', borderBottom: '1px solid #e2e8f0', fontSize: '11px', color: '#64748b' }}>
+            <label style={{ display: 'flex', alignItems: 'center', gap: '4px', cursor: 'pointer' }}>
+              <input type="checkbox" checked={selected.length === items.length && items.length > 0}
+                onChange={() => onChange(selected.length === items.length ? [] : items.map(i => i.value))}
+                style={{ width: '14px', height: '14px', accentColor: '#f97316' }} />
+              全选
+            </label>
+            <span style={{ fontSize: '10px', color: '#94a3b8' }}>{selected.length}/{items.length}</span>
+          </div>
+          <div style={{ flex: 1, overflowY: 'auto', padding: '4px 0' }}>
+            {filtered.map(item => (
+              <div key={item.value}
+                onClick={() => toggle(item.value)}
+                style={{ display: 'flex', alignItems: 'center', gap: '6px', padding: '4px 10px', fontSize: '12px', cursor: 'pointer', color: '#1e293b' }}
+              >
+                <input type="checkbox" checked={selected.includes(item.value)} readOnly
+                  style={{ width: '14px', height: '14px', accentColor: '#f97316', flexShrink: 0 }} />
+                {item.label}
+              </div>
+            ))}
+          </div>
+        </div>
+      )}
+    </div>
+  );
+}
 
-      {/* 日期范围 */}
-      <div style={{ marginBottom: '16px' }}>
-        <DateRangePicker />
+// 图层开关
+function ToggleItem({ label, checked, onChange }: { label: string; checked: boolean; onChange: (v: boolean) => void }) {
+  return (
+    <div style={{
+      display: 'flex', alignItems: 'center', justifyContent: 'space-between',
+      padding: '6px 10px', marginBottom: '4px', fontSize: '11px', color: '#475569',
+      background: '#f8fafc', borderRadius: '6px', border: '1px solid #e2e8f0',
+    }}>
+      <span>{label}</span>
+      <div
+        onClick={() => onChange(!checked)}
+        style={{
+          width: '32px', height: '18px', borderRadius: '9px', cursor: 'pointer',
+          background: checked ? '#f97316' : '#cbd5e1', position: 'relative',
+          transition: '0.2s',
+        }}
+      >
+        <div style={{
+          width: '14px', height: '14px', background: '#fff', borderRadius: '50%',
+          position: 'absolute', top: '2px', left: checked ? '16px' : '2px',
+          transition: '0.2s', boxShadow: '0 1px 2px rgba(0,0,0,0.2)',
+        }} />
+      </div>
+    </div>
+  );
+}
+
+export default function FilterPanel() {
+  const { stores, filters, setFilter, layers, setLayer, dateRange, allDates, setDateRange } = useAppStore();
+
+  // 品牌选项（带计数）
+  const brandCounts: Record<string, number> = {};
+  stores.forEach(s => { brandCounts[s.brand] = (brandCounts[s.brand] || 0) + 1; });
+  const brands = Object.keys(brandCounts).sort();
+
+  // 城市选项
+  const citySet = new Set(stores.map(s => s.city));
+  const cities = Array.from(citySet).sort();
+
+  // 门店类型（带计数）
+  const fmtCounts: Record<string, number> = {};
+  stores.forEach(s => { if (s.fmt) fmtCounts[s.fmt] = (fmtCounts[s.fmt] || 0) + 1; });
+  const fmts = Object.keys(fmtCounts).sort();
+
+  // 门店名称和ID选项
+  const storeNameItems = stores.map(s => ({ value: s.sid, label: s.name }));
+  const storeIdItems = stores.map(s => ({ value: s.sid, label: s.sid }));
+
+  // 日期下拉选项
+  const dateOptions = [...allDates].reverse();
+
+  return (
+    <div style={{ padding: '0 18px 16px' }}>
+      {/* 日期区间 */}
+      <div style={{ marginBottom: '14px' }}>
+        <SectionTitle>日期区间</SectionTitle>
+        <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '6px' }}>
+          <div>
+            <div style={{ fontSize: '10px', color: '#64748b', marginBottom: '2px', fontWeight: 500 }}>起始</div>
+            <select value={filters.dateStart || dateRange.start}
+              onChange={e => setDateRange({ start: e.target.value, end: filters.dateEnd || dateRange.end })}
+              style={selectStyle}>
+              {dateOptions.map(d => <option key={d} value={d}>{d}</option>)}
+            </select>
+          </div>
+          <div>
+            <div style={{ fontSize: '10px', color: '#64748b', marginBottom: '2px', fontWeight: 500 }}>结束</div>
+            <select value={filters.dateEnd || dateRange.end}
+              onChange={e => setDateRange({ start: filters.dateStart || dateRange.start, end: e.target.value })}
+              style={selectStyle}>
+              {dateOptions.map(d => <option key={d} value={d}>{d}</option>)}
+            </select>
+          </div>
+        </div>
       </div>
 
-      {/* 品牌筛选 */}
-      <div style={{ marginBottom: '12px' }}>
-        <label style={{ fontSize: '12px', color: '#64748b', display: 'block', marginBottom: '4px' }}>
-          品牌
-        </label>
-        <select value={filters.brand} onChange={(e) => setFilter('brand', e.target.value)} style={selectStyle}>
-          <option value="all">全部品牌</option>
-          {brands.map(brand => (
-            <option key={brand} value={brand}>{brand}</option>
-          ))}
-        </select>
+      {/* 筛选 */}
+      <div style={{ marginBottom: '14px' }}>
+        <SectionTitle>筛选</SectionTitle>
+        <div style={{ marginBottom: '6px' }}>
+          <select value={filters.brand} onChange={e => setFilter('brand', e.target.value)} style={selectStyle}>
+            <option value="all">全部品牌</option>
+            {brands.map(b => <option key={b} value={b}>{b} ({brandCounts[b]})</option>)}
+          </select>
+        </div>
+        <div style={{ marginBottom: '6px' }}>
+          <select value={filters.city} onChange={e => setFilter('city', e.target.value)} style={selectStyle}>
+            <option value="all">全部城市</option>
+            {cities.map(c => <option key={c} value={c}>{c}</option>)}
+          </select>
+        </div>
+        <div style={{ marginBottom: '6px' }}>
+          <select value={filters.adsRange} onChange={e => setFilter('adsRange', e.target.value)} style={selectStyle}>
+            <option value="all">全部 ADS 区间</option>
+            <option value="lt5000">&lt;5,000</option>
+            <option value="5000to10000">5,000-10,000</option>
+            <option value="10000to20000">10,000-20,000</option>
+            <option value="gt20000">&gt;20,000</option>
+          </select>
+        </div>
+        <div style={{ marginBottom: '6px' }}>
+          <select value={filters.fmt} onChange={e => setFilter('fmt', e.target.value)} style={selectStyle}>
+            <option value="all">全部门店类型</option>
+            {fmts.map(f => <option key={f} value={f}>{f} ({fmtCounts[f]})</option>)}
+          </select>
+        </div>
+        <MultiSelect label="门店名称(多选)" items={storeNameItems} selected={filters.storeNames}
+          onChange={v => setFilter('storeNames', v)} />
+        <MultiSelect label="Store ID(多选)" items={storeIdItems} selected={filters.storeIds}
+          onChange={v => setFilter('storeIds', v)} />
       </div>
 
-      {/* 城市筛选 */}
-      <div style={{ marginBottom: '12px' }}>
-        <label style={{ fontSize: '12px', color: '#64748b', display: 'block', marginBottom: '4px' }}>
-          城市
-        </label>
-        <select value={filters.city} onChange={(e) => setFilter('city', e.target.value)} style={selectStyle}>
-          <option value="all">全部城市</option>
-          {cities.map(city => (
-            <option key={city} value={city}>{city}</option>
-          ))}
-        </select>
-      </div>
-
-      {/* ADS 区间 */}
-      <div style={{ marginBottom: '12px' }}>
-        <label style={{ fontSize: '12px', color: '#64748b', display: 'block', marginBottom: '4px' }}>
-          ADS 区间
-        </label>
-        <select value={filters.adsRange} onChange={(e) => setFilter('adsRange', e.target.value)} style={selectStyle}>
-          <option value="all">全部 ADS 区间</option>
-          <option value="lt5000">&lt;5,000</option>
-          <option value="5000to10000">5,000-10,000</option>
-          <option value="10000to20000">10,000-20,000</option>
-          <option value="gt20000">&gt;20,000</option>
-        </select>
-      </div>
-
-      {/* 门店类型 */}
-      <div style={{ marginBottom: '12px' }}>
-        <label style={{ fontSize: '12px', color: '#64748b', display: 'block', marginBottom: '4px' }}>
-          门店类型
-        </label>
-        <select value={filters.fmt} onChange={(e) => setFilter('fmt', e.target.value)} style={selectStyle}>
-          <option value="all">全部门店类型</option>
-          {fmts.map(fmt => (
-            <option key={fmt} value={fmt}>{fmt}</option>
-          ))}
-        </select>
+      {/* 图层 */}
+      <div style={{ marginBottom: '14px' }}>
+        <SectionTitle>图层</SectionTitle>
+        <ToggleItem label="门店点位" checked={layers.showMarkers} onChange={v => setLayer('showMarkers', v)} />
+        <ToggleItem label="1km 覆盖圈" checked={layers.showCircles1km} onChange={v => setLayer('showCircles1km', v)} />
+        <ToggleItem label="3km 覆盖圈" checked={layers.showCircles3km} onChange={v => setLayer('showCircles3km', v)} />
+        <ToggleItem label="高亮重合区域" checked={layers.highlightOverlap} onChange={v => setLayer('highlightOverlap', v)} />
+        <ToggleItem label="按销售额着色" checked={layers.colorByAds} onChange={v => setLayer('colorByAds', v)} />
       </div>
     </div>
   );

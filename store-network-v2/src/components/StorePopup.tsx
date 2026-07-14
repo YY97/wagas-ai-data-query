@@ -1,213 +1,178 @@
+import { useState } from 'react';
 import { useAppStore } from '../store';
 
+// ADS 颜色
+function adsColorHex(v: number | null): string {
+  if (v == null) return '#6b7280';
+  if (v < 5000) return '#93c5fd';
+  if (v < 10000) return '#86efac';
+  if (v < 20000) return '#fdba74';
+  return '#fca5a5';
+}
+
+function adsBand(v: number | null): string {
+  if (v == null) return 'N/A';
+  if (v < 5000) return '<5K';
+  if (v < 10000) return '5-10K';
+  if (v < 20000) return '10-20K';
+  return '>20K';
+}
+
+function fm(n: number | null | undefined): string {
+  return n != null ? '¥' + Math.round(n).toLocaleString() : 'N/A';
+}
+
 export default function StorePopup() {
-  const { selectedStore, setSelectedStore } = useAppStore();
+  const { selectedStore, setSelectedStore, stores, getAds } = useAppStore();
+  const [showTopLocations, setShowTopLocations] = useState(false);
 
   if (!selectedStore) return null;
+  const s = selectedStore;
+  const a = getAds(s.sid);
+  const ac = adsColorHex(a);
 
-  const store = selectedStore;
+  // 重置 top locations 状态
+  if (showTopLocations && !selectedStore) setShowTopLocations(false);
 
   return (
-    <div
-      className="store-popup"
-      style={{
-        position: 'absolute',
-        top: '20px',
-        right: '20px',
-        width: '380px',
-        maxHeight: '80vh',
-        overflowY: 'auto',
-        background: '#fff',
-        borderRadius: '12px',
-        boxShadow: '0 8px 24px rgba(0,0,0,0.15)',
-        padding: '20px',
-        zIndex: 100
-      }}
-    >
-      {/* 拖拽手柄（移动端） */}
-      <div className="drag-handle" style={{ display: 'none' }} />
-
+    <div style={{
+      position: 'absolute', top: '20px', right: '20px',
+      width: '320px', maxHeight: '85vh', overflowY: 'auto',
+      background: '#fff', borderRadius: '10px',
+      boxShadow: '0 4px 20px rgba(0,0,0,0.15)',
+      padding: '16px', zIndex: 100, fontSize: '11px',
+    }}>
       {/* 关闭按钮 */}
-      <button
-        onClick={() => setSelectedStore(null)}
+      <button onClick={() => { setSelectedStore(null); setShowTopLocations(false); }}
         style={{
-          position: 'absolute',
-          top: '12px',
-          right: '12px',
-          background: 'none',
-          border: 'none',
-          fontSize: '20px',
-          cursor: 'pointer',
-          color: '#64748b'
-        }}
-      >
-        ×
-      </button>
+          position: 'absolute', top: '8px', right: '10px',
+          background: 'none', border: 'none', fontSize: '18px',
+          cursor: 'pointer', color: '#94a3b8', lineHeight: 1,
+        }}>&times;</button>
 
       {/* 门店名称 */}
-      <h2 style={{ fontSize: '18px', fontWeight: 700, marginBottom: '4px' }}>
-        {store.name}
-      </h2>
-      <div style={{ fontSize: '13px', color: '#64748b', marginBottom: '16px' }}>
-        {store.brand} · {store.city}
+      <div style={{ fontWeight: 700, color: '#1e293b', fontSize: '13px', marginBottom: '3px' }}>
+        {s.name}
       </div>
-      <div style={{ fontSize: '12px', color: '#94a3b8', marginBottom: '16px' }}>
-        {store.addr}
+      <div style={{ fontSize: '11px', color: '#64748b', marginBottom: '8px' }}>
+        {s.brand} &middot; {s.city}
+        {s.addr && <><br />{s.addr}</>}
       </div>
 
       {/* 区间均值 */}
-      {store.ads && (
+      {a != null && (
         <div style={{
-          padding: '12px',
-          background: '#fef3c7',
-          borderRadius: '8px',
-          marginBottom: '16px'
+          marginTop: '8px', padding: '5px 8px',
+          background: ac + '20', borderLeft: `3px solid ${ac}`,
+          borderRadius: '3px', fontSize: '11px', fontWeight: 600, color: '#1f2937'
         }}>
-          <div style={{ fontSize: '14px', fontWeight: 600 }}>
-            区间均值: ¥{store.ads.toLocaleString()}
-          </div>
+          区间均值: {fm(a)} ({adsBand(a)})
         </div>
       )}
 
       {/* 渠道拆分 */}
-      {store.channel && (
+      {s.channel && s.channel.days > 0 && (
         <div style={{
-          padding: '12px',
-          background: '#eff6ff',
-          borderRadius: '8px',
-          marginBottom: '16px'
+          marginTop: '8px', padding: '6px 8px',
+          background: '#f0f9ff', borderLeft: '3px solid #3b82f6',
+          borderRadius: '3px', fontSize: '10px'
         }}>
-          <div style={{ fontSize: '14px', fontWeight: 600, marginBottom: '8px' }}>
-            渠道拆分 (日均)
-          </div>
-          <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '8px' }}>
-            <div>
-              <span style={{ fontSize: '13px' }}>堂食: </span>
-              <strong>¥{store.channel.dine_in_avg.toLocaleString()}</strong>
-              <span style={{ fontSize: '12px', color: '#64748b' }}>
-                ({store.channel.dine_in_pct}%)
-              </span>
-            </div>
-            <div>
-              <span style={{ fontSize: '13px' }}>外卖: </span>
-              <strong>¥{store.channel.delivery_avg.toLocaleString()}</strong>
-              <span style={{ fontSize: '12px', color: '#64748b' }}>
-                ({store.channel.delivery_pct}%)
-              </span>
-            </div>
+          <div style={{ fontWeight: 700, color: '#1e40af', marginBottom: '3px' }}>渠道拆分 (日均)</div>
+          <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '2px' }}>
+            <div>堂食: <b>{fm(s.channel.dine_in_avg)}</b>{s.channel.dine_in_pct != null ? ` (${s.channel.dine_in_pct}%)` : ''}</div>
+            <div>外卖: <b>{fm(s.channel.delivery_avg)}</b>{s.channel.delivery_pct != null ? ` (${s.channel.delivery_pct}%)` : ''}</div>
           </div>
         </div>
       )}
 
       {/* 配送距离分布 */}
-      {store.dist && store.dist.total_orders > 0 && (
+      {s.dist && s.dist.total_orders > 0 && (
         <div style={{
-          padding: '12px',
-          background: '#fef3c7',
-          borderRadius: '8px',
-          marginBottom: '16px'
+          marginTop: '6px', padding: '6px 8px',
+          background: '#fef3c7', borderLeft: '3px solid #d97706',
+          borderRadius: '3px', fontSize: '10px'
         }}>
-          <div style={{ fontSize: '14px', fontWeight: 600, marginBottom: '8px' }}>
-            外卖订单距离分布 ({store.dist.total_orders}单)
+          <div style={{ fontWeight: 700, color: '#92400e', marginBottom: '3px' }}>
+            外卖订单距离分布 ({s.dist.total_orders}单)
           </div>
-          <div style={{ display: 'grid', gridTemplateColumns: 'repeat(5, 1fr)', gap: '4px', textAlign: 'center' }}>
-            <div>
-              <div style={{ fontSize: '11px' }}>≤1km</div>
-              <strong>{store.dist.d1_pct}%</strong>
-            </div>
-            <div>
-              <div style={{ fontSize: '11px' }}>1-2km</div>
-              <strong>{store.dist.d2_pct}%</strong>
-            </div>
-            <div>
-              <div style={{ fontSize: '11px' }}>2-3km</div>
-              <strong>{store.dist.d3_pct}%</strong>
-            </div>
-            <div>
-              <div style={{ fontSize: '11px' }}>3-5km</div>
-              <strong>{store.dist.d4_pct}%</strong>
-            </div>
-            <div>
-              <div style={{ fontSize: '11px' }}>&gt;5km</div>
-              <strong>{store.dist.d5_pct}%</strong>
-            </div>
+          <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr 1fr 1fr 1fr', gap: '2px', textAlign: 'center' }}>
+            <div>&le;1km<br /><b>{s.dist.d1_pct != null ? `${s.dist.d1_pct}%` : 'N/A'}</b></div>
+            <div>1-2km<br /><b>{s.dist.d2_pct != null ? `${s.dist.d2_pct}%` : 'N/A'}</b></div>
+            <div>2-3km<br /><b>{s.dist.d3_pct != null ? `${s.dist.d3_pct}%` : 'N/A'}</b></div>
+            <div>3-5km<br /><b>{s.dist.d4_pct != null ? `${s.dist.d4_pct}%` : 'N/A'}</b></div>
+            <div>&gt;5km<br /><b>{s.dist.d5_pct != null ? `${s.dist.d5_pct}%` : 'N/A'}</b></div>
           </div>
         </div>
       )}
 
       {/* 商圈环境 */}
-      {store.market && store.market.poi_count > 0 && (
+      {s.market && s.market.poi_count > 0 && (
         <div style={{
-          padding: '12px',
-          background: '#f0fdf4',
-          borderRadius: '8px',
-          marginBottom: '16px'
+          marginTop: '6px', padding: '6px 8px',
+          background: '#f0fdf4', borderLeft: '3px solid #22c55e',
+          borderRadius: '3px', fontSize: '10px'
         }}>
-          <div style={{ fontSize: '14px', fontWeight: 600, marginBottom: '8px' }}>
-            商圈环境
+          <div style={{ fontWeight: 700, color: '#166534', marginBottom: '3px' }}>商圈环境</div>
+          <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '2px' }}>
+            <div>餐厅(1km): <b>{s.market.poi_count}</b></div>
+            <div>评分: <b>{s.market.avg_rating ? s.market.avg_rating.toFixed(1) : 'N/A'}</b></div>
+            <div>人均: <b>{s.market.avg_cost ? `¥${s.market.avg_cost}` : 'N/A'}</b></div>
+            <div>中位数: <b>{s.market.median_cost ? `¥${s.market.median_cost}` : 'N/A'}</b></div>
+            <div>写字楼(1km): <b>{s.market.office_count}</b></div>
+            <div>住宅(1km): <b>{s.market.residential_count}</b></div>
+            <div>地铁站(3km): <b>{s.market.metro_count}</b></div>
+            <div>最近地铁: <b>{s.market.nearest_metro_km ? `${s.market.nearest_metro_km}km` : 'N/A'}</b></div>
           </div>
-          <div className="market-info" style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '8px', fontSize: '13px' }}>
-            <div>餐厅(1km): <strong>{store.market.poi_count}</strong></div>
-            <div>评分: <strong>{store.market.avg_rating}</strong></div>
-            <div>人均: <strong>¥{store.market.avg_cost}</strong></div>
-            <div>中位数: <strong>¥{store.market.median_cost}</strong></div>
-            <div>写字楼(1km): <strong>{store.market.office_count}</strong></div>
-            <div>住宅(1km): <strong>{store.market.residential_count}</strong></div>
-            <div>地铁站(3km): <strong>{store.market.metro_count}</strong></div>
-            <div>最近地铁: <strong>{store.market.nearest_metro_km}km</strong></div>
-          </div>
-          {store.market.business_area && (
-            <div style={{ marginTop: '8px', fontSize: '12px', color: '#4b5563' }}>
-              商圈: <strong>{store.market.business_area}</strong>
-            </div>
+          {s.market.business_area && (
+            <div style={{ marginTop: '2px', color: '#4b5563' }}>商圈: <b>{s.market.business_area}</b></div>
+          )}
+          {s.market.top_categories && (
+            <div style={{ marginTop: '2px', color: '#4b5563', fontSize: '9px' }}>品类: {s.market.top_categories}</div>
           )}
         </div>
       )}
 
-      {/* 1km 重合 */}
-      {store.overlap > 0 && (
-        <div style={{
-          padding: '12px',
-          background: '#fef3c7',
-          borderRadius: '8px',
-          marginBottom: '16px'
-        }}>
-          <div style={{ fontSize: '14px', fontWeight: 600 }}>
-            ⚠️ 1km内重合: <strong>{store.overlap}</strong> 家
-          </div>
-          {store.overlap_names.length > 0 && (
-            <div style={{ marginTop: '8px', fontSize: '12px', color: '#64748b' }}>
-              {store.overlap_names.join(', ')}
-            </div>
-          )}
-        </div>
-      )}
+      {/* 热门配送地按钮 */}
+      {!showTopLocations ? (
+        <button
+          onClick={() => setShowTopLocations(true)}
+          style={{
+            display: 'inline-block', padding: '4px 10px', marginTop: '6px',
+            borderRadius: '5px', border: 'none', fontSize: '11px',
+            fontWeight: 600, cursor: 'pointer', background: '#3b82f6', color: '#fff',
+          }}
+        >&#128205; 热门配送地</button>
+      ) : null}
 
       {/* 热门配送地 TOP10 */}
-      {store.top_locations && store.top_locations.length > 0 && (
-        <div style={{ marginBottom: '16px' }}>
-          <h3 style={{ fontSize: '14px', fontWeight: 600, marginBottom: '8px' }}>
-            热门配送地 TOP10
-          </h3>
-          <div style={{ maxHeight: '300px', overflowY: 'auto', border: '1px solid #e2e8f0', borderRadius: '8px' }}>
-            <table className="top-locations-table" style={{ width: '100%', borderCollapse: 'collapse', fontSize: '12px' }}>
+      {showTopLocations && s.top_locations && s.top_locations.length > 0 && (
+        <div style={{
+          marginTop: '6px', padding: '6px 8px',
+          background: '#eff6ff', borderLeft: '3px solid #3b82f6',
+          borderRadius: '3px', fontSize: '10px'
+        }}>
+          <div style={{ fontWeight: 700, color: '#1e40af', marginBottom: '3px' }}>
+            热门配送地 TOP10 <span style={{ fontWeight: 400, color: '#94a3b8', fontSize: '8px' }}>(全量单数)</span>
+          </div>
+          <div style={{ maxHeight: '150px', overflowY: 'auto' }}>
+            <table style={{ width: '100%', borderCollapse: 'collapse', fontSize: '9px' }}>
               <thead>
-                <tr style={{ background: '#f8fafc', position: 'sticky', top: 0, zIndex: 10 }}>
-                  <th style={{ padding: '8px', textAlign: 'left', fontWeight: 600, borderBottom: '1px solid #e2e8f0' }}>#</th>
-                  <th style={{ padding: '8px', textAlign: 'left', fontWeight: 600, borderBottom: '1px solid #e2e8f0' }}>地点名称</th>
-                  <th style={{ padding: '8px', textAlign: 'right', fontWeight: 600, borderBottom: '1px solid #e2e8f0' }}>距离(km)</th>
-                  <th style={{ padding: '8px', textAlign: 'right', fontWeight: 600, borderBottom: '1px solid #e2e8f0' }}>配送次数</th>
+                <tr style={{ color: '#64748b', borderBottom: '1px solid #dbeafe' }}>
+                  <th style={{ textAlign: 'left', padding: '2px 0' }}>#</th>
+                  <th style={{ textAlign: 'left', padding: '2px 0' }}>地点</th>
+                  <th style={{ textAlign: 'right', padding: '2px 4px' }}>距离</th>
+                  <th style={{ textAlign: 'right', padding: '2px 0' }}>单数</th>
                 </tr>
               </thead>
               <tbody>
-                {store.top_locations.slice(0, 10).map((loc, idx) => (
-                  <tr key={idx} style={{ borderBottom: '1px solid #f1f5f9' }}>
-                    <td style={{ padding: '6px 8px', color: '#64748b' }}>{loc.rank}</td>
-                    <td style={{ padding: '6px 8px', maxWidth: '150px', overflow: 'hidden', textOverflow: 'ellipsis', whiteSpace: 'nowrap' }}>
-                      {loc.name}
+                {s.top_locations.slice(0, 10).map(t => (
+                  <tr key={t.rank} style={{ borderBottom: '1px solid #f1f5f9' }}>
+                    <td style={{ padding: '2px 0', color: '#94a3b8' }}>{t.rank}</td>
+                    <td style={{ padding: '2px 0', maxWidth: '120px', overflow: 'hidden', textOverflow: 'ellipsis', whiteSpace: 'nowrap' }}>
+                      {t.name || '未知'}
                     </td>
-                    <td style={{ padding: '6px 8px', textAlign: 'right' }}>{loc.dist.toFixed(2)}</td>
-                    <td style={{ padding: '6px 8px', textAlign: 'right', fontWeight: 600 }}>{loc.count}</td>
+                    <td style={{ padding: '2px 4px', textAlign: 'right', color: '#64748b' }}>{t.dist}km</td>
+                    <td style={{ padding: '2px 0', textAlign: 'right', fontWeight: 600 }}>{t.count}</td>
                   </tr>
                 ))}
               </tbody>
@@ -215,6 +180,45 @@ export default function StorePopup() {
           </div>
         </div>
       )}
+      {showTopLocations && (!s.top_locations || s.top_locations.length === 0) && (
+        <span style={{ fontSize: '10px', color: '#94a3b8', display: 'block', marginTop: '6px' }}>暂无配送地数据</span>
+      )}
+
+      {/* 1km 重合 */}
+      {(s.overlap || 0) > 0 && (
+        <div style={{
+          marginTop: '6px', padding: '4px 6px',
+          background: '#fef3c7', borderLeft: '3px solid #d97706',
+          borderRadius: '3px', fontSize: '10px'
+        }}>
+          &#9888; 1km内重合: <b>{s.overlap}</b> 家
+          {s.overlap_names && s.overlap_names.length > 0 && (
+            <div style={{ maxHeight: '80px', overflowY: 'auto', marginTop: '3px', fontSize: '9px', lineHeight: 1.6 }}>
+              {s.overlap_names.map((n, i) => {
+                const ms = stores.find(x => x.name === n);
+                return (
+                  <div key={i} style={{ padding: '1px 0', borderBottom: '1px dashed #e5e7eb' }}>
+                    <b>{ms?.brand || ''}</b> &middot; {n} ({fm(getAds(ms?.sid || ''))})
+                  </div>
+                );
+              })}
+            </div>
+          )}
+        </div>
+      )}
+
+      {/* 外卖热力图按钮 */}
+      <button
+        onClick={() => {
+          // TODO: trigger heatmap for this store's city
+        }}
+        style={{
+          display: 'inline-block', padding: '4px 10px', marginTop: '8px',
+          borderRadius: '5px', border: 'none', fontSize: '11px',
+          fontWeight: 600, cursor: 'pointer', background: '#f97316', color: '#fff',
+          width: '100%'
+        }}
+      >&#128293; 外卖热力图</button>
     </div>
   );
 }
