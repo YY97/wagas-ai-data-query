@@ -141,7 +141,8 @@ export default function MapView() {
           },
           stroked: true,
           filled: true,
-          lineWidthMinPixels: (d: any) => (d.overlap >= 3 && layers.highlightOverlap) ? 2 : 1,
+          getLineWidth: (d: any) => (d.overlap >= 3 && layers.highlightOverlap) ? 2 : 1,
+          lineWidthMinPixels: 1,
           radiusUnits: 'meters',
           pickable: true,
           onClick: (info: any) => {
