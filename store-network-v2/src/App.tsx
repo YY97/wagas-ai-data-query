@@ -65,9 +65,9 @@ function App() {
   }
 
   return (
-    <div style={{ display: 'flex', height: '100vh', overflow: 'hidden' }}>
+    <div className="app-layout" style={{ display: 'flex', height: '100vh', overflow: 'hidden' }}>
       {/* 左侧筛选面板 */}
-      <div style={{ 
+      <div className="side-panel" style={{ 
         width: '350px', 
         overflowY: 'auto',
         borderRight: '1px solid #e2e8f0',
@@ -78,7 +78,7 @@ function App() {
       </div>
       
       {/* 地图区域 */}
-      <div style={{ flex: 1, position: 'relative' }}>
+      <div className="map-container" style={{ flex: 1, position: 'relative' }}>
         <MapView />
         <StorePopup />
       </div>

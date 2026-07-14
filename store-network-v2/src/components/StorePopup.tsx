@@ -9,6 +9,7 @@ export default function StorePopup() {
 
   return (
     <div
+      className="store-popup"
       style={{
         position: 'absolute',
         top: '20px',
@@ -23,6 +24,9 @@ export default function StorePopup() {
         zIndex: 100
       }}
     >
+      {/* 拖拽手柄（移动端） */}
+      <div className="drag-handle" style={{ display: 'none' }} />
+
       {/* 关闭按钮 */}
       <button
         onClick={() => setSelectedStore(null)}
@@ -142,7 +146,7 @@ export default function StorePopup() {
           <div style={{ fontSize: '14px', fontWeight: 600, marginBottom: '8px' }}>
             商圈环境
           </div>
-          <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '8px', fontSize: '13px' }}>
+          <div className="market-info" style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '8px', fontSize: '13px' }}>
             <div>餐厅(1km): <strong>{store.market.poi_count}</strong></div>
             <div>评分: <strong>{store.market.avg_rating}</strong></div>
             <div>人均: <strong>¥{store.market.avg_cost}</strong></div>
@@ -186,7 +190,7 @@ export default function StorePopup() {
             热门配送地 TOP10
           </h3>
           <div style={{ maxHeight: '300px', overflowY: 'auto', border: '1px solid #e2e8f0', borderRadius: '8px' }}>
-            <table style={{ width: '100%', borderCollapse: 'collapse', fontSize: '12px' }}>
+            <table className="top-locations-table" style={{ width: '100%', borderCollapse: 'collapse', fontSize: '12px' }}>
               <thead>
                 <tr style={{ background: '#f8fafc', position: 'sticky', top: 0, zIndex: 10 }}>
                   <th style={{ padding: '8px', textAlign: 'left', fontWeight: 600, borderBottom: '1px solid #e2e8f0' }}>#</th>

@@ -10,7 +10,7 @@ export default function FilterPanel() {
   const cities = Array.from(new Set(stores.map(s => s.city))).sort();
 
   return (
-    <div style={{ padding: '16px' }}>
+    <div className="filter-panel" style={{ padding: '16px' }}>
       <h3 style={{ fontSize: '14px', fontWeight: 600, marginBottom: '12px' }}>
         筛选
       </h3>

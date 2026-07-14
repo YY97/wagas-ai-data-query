@@ -24,27 +24,27 @@ export default function KPICards() {
         Wagas 门店网络效率诊断
       </h2>
       
-      <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '12px' }}>
-        <div style={{ 
+      <div className="kpi-cards" style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '12px' }}>
+        <div className="kpi-card" style={{ 
           padding: '12px', 
           background: '#f8fafc', 
           borderRadius: '8px',
           border: '1px solid #e2e8f0'
         }}>
           <div style={{ fontSize: '12px', color: '#64748b' }}>日均销售额</div>
-          <div style={{ fontSize: '24px', fontWeight: 700 }}>
+          <div className="value" style={{ fontSize: '24px', fontWeight: 700 }}>
             ¥{Math.round(avgAds).toLocaleString()}
           </div>
         </div>
         
-        <div style={{ 
+        <div className="kpi-card" style={{ 
           padding: '12px', 
           background: '#f8fafc', 
           borderRadius: '8px',
           border: '1px solid #e2e8f0'
         }}>
           <div style={{ fontSize: '12px', color: '#64748b' }}>1KM 重合</div>
-          <div style={{ fontSize: '24px', fontWeight: 700 }}>
+          <div className="value" style={{ fontSize: '24px', fontWeight: 700 }}>
             {avgOverlap.toFixed(1)} 家
           </div>
         </div>

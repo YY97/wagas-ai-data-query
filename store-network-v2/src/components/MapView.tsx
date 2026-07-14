@@ -205,7 +205,7 @@ export default function MapView() {
       />
       
       {/* 图层控制面板 */}
-      <div style={{
+      <div className="layer-control" style={{
         position: 'absolute',
         top: '20px',
         right: '20px',
