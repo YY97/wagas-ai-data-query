@@ -203,10 +203,13 @@ export default function MapView() {
     // 配送热力图
     if (showHeatmap && filters.city !== 'all' && deliveryData[filters.city]) {
       const heatData: any[] = [];
-      Object.entries(deliveryData[filters.city]).forEach(([_, points]) => {
-        (points as any[]).forEach((p: any) => {
-          heatData.push({ position: [p.lng, p.lat], weight: p.count || 1 });
-        });
+      const cityData = deliveryData[filters.city];
+      Object.values(cityData).forEach((points: any) => {
+        if (Array.isArray(points)) {
+          (points as any[]).forEach((p: any) => {
+            heatData.push({ position: [p.lng, p.lat], weight: p.w || p.count || 1 });
+          });
+        }
       });
       layerList.push(
         new HeatmapLayer({
