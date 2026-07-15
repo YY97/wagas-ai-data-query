@@ -90,6 +90,7 @@ export default function MapView() {
 
     map.current = new Map({
       container: mapContainer.current,
+      maxZoom: 18,
       style: {
         version: 8,
         sources: {
