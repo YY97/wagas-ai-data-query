@@ -108,13 +108,20 @@ jobs:
         shell: powershell
         run: |
           New-Item -ItemType Directory -Force -Path store-network/assets | Out-Null
+          New-Item -ItemType Directory -Force -Path store-network/data/delivery | Out-Null
           if (Test-Path store-network-v2/dist/index.html) {
             Copy-Item -Force store-network-v2/dist/index.html store-network/index.html
             Copy-Item -Force store-network-v2/dist/assets/* store-network/assets/
             Copy-Item -Force store-network-v2/public/favicon.svg store-network/
             Copy-Item -Force store-network-v2/public/icons.svg store-network/
             Remove-Item -Recurse -Force store-network-v2/dist
-            Write-Host "Deployed to store-network/"
+            Write-Host "Build deployed"
+          }
+          # 复制数据文件
+          if (Test-Path store-network-v2/public/data/stores.json) {
+            Copy-Item -Force store-network-v2/public/data/*.json store-network/data/
+            Copy-Item -Force -Recurse store-network-v2/public/data/delivery/* store-network/data/delivery/
+            Write-Host "Data files copied"
           }
         working-directory: ${{ github.workspace }}
         continue-on-error: true
