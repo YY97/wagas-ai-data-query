@@ -95,6 +95,13 @@ export const useAppStore = create<AppState>((set, get) => ({
     });
     const sortedDates = Array.from(allDates).sort();
 
+    // 默认显示最近 7 天
+    const lastDate = sortedDates[sortedDates.length - 1];
+    const sevenDaysAgo = new Date(lastDate);
+    sevenDaysAgo.setDate(sevenDaysAgo.getDate() - 6);
+    const defaultStart = sevenDaysAgo.toISOString().split('T')[0];
+    const clampedStart = sortedDates.includes(defaultStart) ? defaultStart : sortedDates[0];
+
     set({
       stores,
       salesData,
@@ -103,8 +110,8 @@ export const useAppStore = create<AppState>((set, get) => ({
       loading: false,
       filters: {
         ...defaultFilters,
-        dateStart: dateRange.start,
-        dateEnd: dateRange.end,
+        dateStart: clampedStart,
+        dateEnd: lastDate,
       }
     });
   },

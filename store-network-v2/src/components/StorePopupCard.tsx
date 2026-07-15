@@ -9,6 +9,33 @@ function adsColorHex(v: number | null): string {
   return '#fca5a5';
 }
 
+// 计算指定日期范围内的 ADS 日均
+function calcAdsRange(salesData: Record<string, Record<string, number>>, sid: string, start: string, end: string): number | null {
+  const dd = salesData[sid];
+  if (!dd) return null;
+  const values: number[] = [];
+  for (const k in dd) {
+    if (dd[k] != null && dd[k] > 0 && k >= start && k <= end) values.push(dd[k]);
+  }
+  return values.length ? values.reduce((a, b) => a + b, 0) / values.length : null;
+}
+
+// 日期偏移：同比（-1年）、环比（-1月）
+function shiftDate(dateStr: string, type: 'yoy' | 'mom'): string {
+  const d = new Date(dateStr);
+  if (type === 'yoy') d.setFullYear(d.getFullYear() - 1);
+  else d.setMonth(d.getMonth() - 1);
+  return d.toISOString().split('T')[0];
+}
+
+// 百分比变化展示
+function pctChange(current: number | null, previous: number | null): string {
+  if (current == null || previous == null || previous === 0) return '-';
+  const pct = ((current - previous) / previous) * 100;
+  const sign = pct >= 0 ? '+' : '';
+  return `${sign}${pct.toFixed(1)}%`;
+}
+
 function adsBand(v: number | null): string {
   if (v == null) return 'N/A';
   if (v < 5000) return '<5K';
@@ -36,7 +63,7 @@ export default function StorePopupCard({
   onToggleHeatmap: () => void;
   onClose: () => void;
 }) {
-  const { selectedStore, stores, getAds } = useAppStore();
+  const { selectedStore, stores, getAds, salesData, filters } = useAppStore();
   const [showTopLoc, setShowTopLoc] = useState(false);
   const [minimized, setMinimized] = useState(false);
 
@@ -44,6 +71,16 @@ export default function StorePopupCard({
   const s = selectedStore;
   const a = getAds(s.sid);
   const ac = adsColorHex(a);
+
+  // 同比/环比计算
+  const ds = filters.dateStart || '';
+  const de = filters.dateEnd || '';
+  const yoyStart = shiftDate(ds, 'yoy');
+  const yoyEnd = shiftDate(de, 'yoy');
+  const momStart = shiftDate(ds, 'mom');
+  const momEnd = shiftDate(de, 'mom');
+  const aYoy = calcAdsRange(salesData, s.sid, yoyStart, yoyEnd);
+  const aMom = calcAdsRange(salesData, s.sid, momStart, momEnd);
 
   // 最小化状态：只显示小条
   if (minimized) {
@@ -91,6 +128,11 @@ export default function StorePopupCard({
           borderRadius: '3px', fontSize: '11px', fontWeight: 600, color: '#1f2937'
         }}>
           区间均值: {fm(a)} ({adsBand(a)})
+          <div style={{ fontSize: '9px', fontWeight: 400, color: '#64748b', marginTop: '2px' }}>
+            同比: <span style={{ color: aYoy != null && a >= aYoy ? '#16a34a' : '#dc2626' }}>{pctChange(a, aYoy)}</span>
+            &nbsp;&middot;&nbsp;
+            环比: <span style={{ color: aMom != null && a >= aMom ? '#16a34a' : '#dc2626' }}>{pctChange(a, aMom)}</span>
+          </div>
         </div>
       )}
 

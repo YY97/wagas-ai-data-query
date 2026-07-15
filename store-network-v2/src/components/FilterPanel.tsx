@@ -201,8 +201,12 @@ export default function FilterPanel() {
     setTimeout(() => setFilter('fmt', 'all'), 0);
   }
 
-  // 日期下拉选项
-  const dateOptions = [...allDates].reverse();
+  // 日期下拉选项（仅近 60 天）
+  const lastDate = allDates[allDates.length - 1];
+  const sixtyDaysAgo = new Date(lastDate);
+  sixtyDaysAgo.setDate(sixtyDaysAgo.getDate() - 59);
+  const cutoff = sixtyDaysAgo.toISOString().split('T')[0];
+  const dateOptions = [...allDates].filter(d => d >= cutoff).reverse();
 
   return (
     <div style={{ padding: '0 18px 16px' }}>
