@@ -222,64 +222,33 @@ export default function MapView() {
       );
     }
 
-    // 配送气泡图（替代热力图）
+    // 配送热力图（匹配旧版 Leaflet L.heatLayer 效果）
     if (showDelivery && selectedStore) {
       const cityData = deliveryData[selectedStore.city];
       if (cityData) {
         const storePoints = cityData[selectedStore.sid];
         if (Array.isArray(storePoints) && storePoints.length > 0) {
-          const sLat = selectedStore.lat, sLng = selectedStore.lng;
           const maxW = Math.max(...storePoints.map((p: any) => p.w || 1));
-
-          // 底层：六边形区域聚合（显示哪个区域单子多）
+          const heatData = storePoints.map((p: any) => ({
+            position: [p.lng, p.lat],
+            weight: (p.w || 1) / maxW
+          }));
           layerList.push(
-            new HexagonLayer({
-              id: 'delivery-hexbin',
-              data: storePoints.map((p: any) => ({
-                position: [p.lng, p.lat],
-                weight: p.w || 1
-              })),
+            new HeatmapLayer({
+              id: 'delivery-heatmap',
+              data: heatData,
               getPosition: (d: any) => d.position,
-              getElevationWeight: (d: any) => d.weight,
-              elevationScale: 0,
-              radius: 200,
-              coverage: 0.8,
-              getColorWeight: (d: any) => d.weight,
+              getWeight: (d: any) => d.weight,
+              radiusPixels: 25,
+              intensity: 1,
+              threshold: 0.02,
               colorRange: [
-                [59, 130, 246, 40],
-                [59, 130, 246, 70],
-                [234, 179, 8, 90],
-                [249, 115, 22, 120],
-                [239, 68, 68, 160]
-              ],
-              opacity: 0.5,
-              pickable: false,
-            })
-          );
-
-          // 上层：散点气泡（每个配送地址）
-          layerList.push(
-            new ScatterplotLayer({
-              id: 'delivery-points',
-              data: storePoints,
-              getPosition: (d: any) => [d.lng, d.lat],
-              getRadius: (d: any) => {
-                const w = d.w || 1;
-                return Math.max(4, Math.min(18, 4 + (w / maxW) * 14));
-              },
-              radiusMinPixels: 3,
-              radiusMaxPixels: 18,
-              getFillColor: (d: any) => {
-                const dist = haversineKm(sLat, sLng, d.lat, d.lng);
-                return distColor(dist);
-              },
-              getLineColor: [255, 255, 255, 200],
-              lineWidthMinPixels: 1,
-              stroked: true, filled: true,
-              pickable: true,
-              onClick: (info: any) => {
-                // 不干扰门店选择
-              }
+                [0, 0, 255, 120],
+                [0, 255, 255, 160],
+                [0, 255, 0, 200],
+                [255, 255, 0, 230],
+                [255, 0, 0, 255]
+              ]
             })
           );
         }
