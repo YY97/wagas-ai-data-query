@@ -94,19 +94,18 @@ export default function MapView() {
       style: {
         version: 8,
         sources: {
-          'amap-tiles': {
+          'basemap': {
             type: 'raster',
             tiles: [
-              'https://webrd01.is.autonavi.com/appmaptile?lang=zh_cn&size=1&scale=1&style=8&x={x}&y={y}&z={z}',
-              'https://webrd02.is.autonavi.com/appmaptile?lang=zh_cn&size=1&scale=1&style=8&x={x}&y={y}&z={z}',
-              'https://webrd03.is.autonavi.com/appmaptile?lang=zh_cn&size=1&scale=1&style=8&x={x}&y={y}&z={z}',
-              'https://webrd04.is.autonavi.com/appmaptile?lang=zh_cn&size=1&scale=1&style=8&x={x}&y={y}&z={z}'
+              'https://a.basemaps.cartocdn.com/light_all/{z}/{x}/{y}@2x.png',
+              'https://b.basemaps.cartocdn.com/light_all/{z}/{x}/{y}@2x.png',
+              'https://c.basemaps.cartocdn.com/light_all/{z}/{x}/{y}@2x.png'
             ],
             tileSize: 256,
-            attribution: '高德底图'
+            attribution: 'CartoDB | 高德底图'
           }
         },
-        layers: [{ id: 'amap-tiles', type: 'raster', source: 'amap-tiles', minzoom: 0, maxzoom: 18 }]
+        layers: [{ id: 'basemap', type: 'raster', source: 'basemap', minzoom: 0, maxzoom: 18 }]
       },
       center: [121.4737, 31.2304],
       zoom: 10
