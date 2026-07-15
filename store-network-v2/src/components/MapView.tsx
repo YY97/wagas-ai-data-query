@@ -1,167 +1,129 @@
-import { useRef, useEffect, useState, useCallback } from 'react';
-import { Map, Marker } from 'maplibre-gl';
-import 'maplibre-gl/dist/maplibre-gl.css';
-import { ScatterplotLayer } from '@deck.gl/layers';
-import { HeatmapLayer } from '@deck.gl/aggregation-layers';
-import { MapboxOverlay } from '@deck.gl/mapbox';
+import { useEffect, useRef, useState, useCallback } from 'react';
+import { MapContainer, TileLayer, CircleMarker, Circle, Marker, useMap } from 'react-leaflet';
+import L from 'leaflet';
+import 'leaflet/dist/leaflet.css';
+import 'leaflet.heat';
+import { createPortal } from 'react-dom';
 import { useAppStore } from '../store';
 import StorePopupCard from './StorePopupCard';
 
-function adsColor(v: number | null): [number, number, number, number] {
-  if (v == null) return [107, 114, 128, 200];
-  if (v < 5000) return [147, 197, 253, 220];
-  if (v < 10000) return [134, 239, 172, 220];
-  if (v < 20000) return [253, 186, 116, 220];
-  return [252, 165, 165, 220];
+function adsColor(v: number | null): string {
+  if (v == null) return '#6b7280';
+  if (v < 5000) return '#93c5fd';
+  if (v < 10000) return '#86efac';
+  if (v < 20000) return '#fdba74';
+  return '#fca5a5';
 }
 
-const BRAND_COLORS: Record<string, [number, number, number, number]> = {
-  'Wagas': [225, 29, 72, 220],
-  'Baker&Spice': [245, 158, 11, 220],
-  'Lokal': [34, 197, 94, 220],
-  'JUNi': [139, 92, 246, 220],
-  'Funk&Kale': [6, 182, 212, 220],
+const BRAND_COLORS: Record<string, string> = {
+  'Wagas': '#e11d48', 'Baker&Spice': '#f59e0b', 'Baker & Spice': '#f59e0b',
+  'Lokal': '#22c55e', 'JUNi': '#8b5cf6', 'Funk&Kale': '#06b6d4', 'Funk & Kale': '#06b6d4',
 };
-function brandColor(brand: string): [number, number, number, number] {
-  return BRAND_COLORS[brand] || [107, 114, 128, 200];
-}
+function brandColor(brand: string): string { return BRAND_COLORS[brand] || '#6b7280'; }
 
-// Haversine 距离 (km)
 function haversineKm(lat1: number, lng1: number, lat2: number, lng2: number): number {
-  const R = 6371;
-  const dLat = (lat2 - lat1) * Math.PI / 180;
-  const dLng = (lng2 - lng1) * Math.PI / 180;
-  const a = Math.sin(dLat/2)**2 + Math.cos(lat1*Math.PI/180) * Math.cos(lat2*Math.PI/180) * Math.sin(dLng/2)**2;
+  const R = 6371, dLat = (lat2-lat1)*Math.PI/180, dLng = (lng2-lng1)*Math.PI/180;
+  const a = Math.sin(dLat/2)**2 + Math.cos(lat1*Math.PI/180)*Math.cos(lat2*Math.PI/180)*Math.sin(dLng/2)**2;
   return R * 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1-a));
 }
 
-// 为 TOP10 配送地匹配近似坐标
-function matchTopLocationCoords(
-  topLocations: { rank: number; name: string; dist: number; count: number }[],
-  deliveryPoints: { lat: number; lng: number; w: number }[],
-  storeLat: number,
-  storeLng: number
-): { rank: number; name: string; dist: number; count: number; lat: number; lng: number }[] {
+function matchTopLocationCoords(topLocs: any[], pts: any[], sLat: number, sLng: number) {
   const results: any[] = [];
   const used = new Set<number>();
-
-  for (const loc of topLocations.slice(0, 10)) {
-    const targetDist = loc.dist;
-    const tolerance = Math.max(targetDist * 0.3, 0.3); // ±30% 或 ±300m
-    let bestIdx = -1;
-    let bestWeight = -1;
-
-    for (let i = 0; i < deliveryPoints.length; i++) {
+  for (const loc of topLocs.slice(0, 10)) {
+    const tol = Math.max(loc.dist * 0.3, 0.3);
+    let bestIdx = -1, bestW = -1;
+    for (let i = 0; i < pts.length; i++) {
       if (used.has(i)) continue;
-      const p = deliveryPoints[i];
-      const d = haversineKm(storeLat, storeLng, p.lat, p.lng);
-      if (Math.abs(d - targetDist) <= tolerance && p.w > bestWeight) {
-        bestIdx = i;
-        bestWeight = p.w;
-      }
+      const d = haversineKm(sLat, sLng, pts[i].lat, pts[i].lng);
+      if (Math.abs(d - loc.dist) <= tol && pts[i].w > bestW) { bestIdx = i; bestW = pts[i].w; }
     }
-
-    if (bestIdx >= 0) {
-      used.add(bestIdx);
-      const p = deliveryPoints[bestIdx];
-      results.push({ ...loc, lat: p.lat, lng: p.lng });
-    }
+    if (bestIdx >= 0) { used.add(bestIdx); results.push({ ...loc, lat: pts[bestIdx].lat, lng: pts[bestIdx].lng }); }
   }
   return results;
 }
 
+function HeatmapLayer({ points }: { points: [number, number, number][] }) {
+  const map = useMap();
+  const heatRef = useRef<any>(null);
+  useEffect(() => {
+    if (heatRef.current) { map.removeLayer(heatRef.current); heatRef.current = null; }
+    if (points.length === 0) return;
+    heatRef.current = (L as any).heatLayer(points, {
+      radius: 25, blur: 15, maxZoom: 17,
+      gradient: { 0.2: 'blue', 0.4: 'cyan', 0.6: 'lime', 0.8: 'yellow', 1.0: 'red' }
+    }).addTo(map);
+    return () => { if (heatRef.current) { map.removeLayer(heatRef.current); heatRef.current = null; } };
+  }, [points, map]);
+  return null;
+}
+
+function TopLocationMarkers({ locations }: { locations: any[] }) {
+  return (
+    <>
+      {locations.map(loc => (
+        <Marker key={loc.rank} position={[loc.lat, loc.lng]}
+          icon={L.divIcon({
+            className: '', iconSize: [22, 22], iconAnchor: [11, 11],
+            html: `<div style="width:22px;height:22px;border-radius:50%;background:#3b82f6;color:#fff;font-size:11px;font-weight:700;display:flex;align-items:center;justify-content:center;border:2px solid #fff;box-shadow:0 2px 6px rgba(0,0,0,0.3)">${loc.rank}</div>`
+          })}
+        />
+      ))}
+    </>
+  );
+}
+
+function PopupFollow({ store, visible, onClose, showDelivery, onToggleDelivery }: any) {
+  const map = useMap();
+  const popupRef = useRef<L.Popup | null>(null);
+  const containerRef = useRef<HTMLDivElement | null>(null);
+  const [renderKey, setRenderKey] = useState(0);
+
+  useEffect(() => {
+    if (!store || !visible) {
+      if (popupRef.current) { map.closePopup(popupRef.current); popupRef.current = null; }
+      containerRef.current = null;
+      return;
+    }
+    if (!containerRef.current) {
+      containerRef.current = document.createElement('div');
+      containerRef.current.style.pointerEvents = 'auto';
+    }
+    if (!popupRef.current) {
+      popupRef.current = L.popup({
+        maxWidth: 320, closeButton: false, autoClose: false, closeOnClick: false,
+        offset: [15, 0], className: 'store-popup-leaflet'
+      }).setLatLng([store.lat, store.lng]).setContent(containerRef.current).openOn(map);
+    } else {
+      popupRef.current.setLatLng([store.lat, store.lng]);
+    }
+    setRenderKey(k => k + 1);
+    return () => {
+      if (popupRef.current) { map.closePopup(popupRef.current); popupRef.current = null; }
+    };
+  }, [store?.sid, visible, map]); // eslint-disable-line
+
+  if (!store || !visible || !containerRef.current) return null;
+  return createPortal(
+    <StorePopupCard key={`${store.sid}-${renderKey}`} showHeatmap={showDelivery}
+      onToggleHeatmap={onToggleDelivery} onClose={onClose} />,
+    containerRef.current
+  );
+}
 
 export default function MapView() {
-  const mapContainer = useRef<HTMLDivElement>(null);
-  const map = useRef<Map | null>(null);
-  const deckOverlay = useRef<MapboxOverlay | null>(null);
-  const popupRef = useRef<HTMLDivElement | null>(null);
-  const topLocMarkersRef = useRef<any[]>([]);
   const { stores, filters, layers, getAds, selectedStore, setSelectedStore } = useAppStore();
   const [deliveryData, setDeliveryData] = useState<Record<string, any>>({});
   const [showDelivery, setShowDelivery] = useState(false);
   const [popupVisible, setPopupVisible] = useState(true);
 
-  const selectedStoreRef = useRef(selectedStore);
-  useEffect(() => { selectedStoreRef.current = selectedStore; }, [selectedStore]);
-
-  useEffect(() => {
-    if (!mapContainer.current || map.current) return;
-
-    map.current = new Map({
-      container: mapContainer.current,
-      maxZoom: 18,
-      style: {
-        version: 8,
-        sources: {
-          'basemap': {
-            type: 'raster',
-            tiles: [
-              'https://a.basemaps.cartocdn.com/light_all/{z}/{x}/{y}@2x.png',
-              'https://b.basemaps.cartocdn.com/light_all/{z}/{x}/{y}@2x.png',
-              'https://c.basemaps.cartocdn.com/light_all/{z}/{x}/{y}@2x.png'
-            ],
-            tileSize: 256,
-            attribution: 'CartoDB | 高德底图'
-          }
-        },
-        layers: [{ id: 'basemap', type: 'raster', source: 'basemap', minzoom: 0, maxzoom: 18 }]
-      },
-      center: [121.4737, 31.2304],
-      zoom: 10
-    });
-
-    deckOverlay.current = new MapboxOverlay({ interleaved: true, layers: [] });
-    map.current.addControl(deckOverlay.current);
-
-    // 地图移动时直接操作 DOM 更新弹窗位置（绕过 React 渲染）
-    const updatePopupPos = () => {
-      const el = popupRef.current;
-      const store = selectedStoreRef.current;
-      if (el && store && map.current) {
-        const pt = map.current.project([store.lng, store.lat]);
-        el.style.left = `${pt.x + 15}px`;
-        el.style.top = `${pt.y - 20}px`;
-        el.style.display = 'block';
-      } else if (el) {
-        el.style.display = 'none';
-      }
-    };
-    map.current.on('move', updatePopupPos);
-    map.current.on('zoom', updatePopupPos);
-    map.current.on('moveend', updatePopupPos);
-
-    return () => {
-      if (deckOverlay.current && map.current) {
-        map.current.removeControl(deckOverlay.current);
-        deckOverlay.current.finalize();
-      }
-      map.current?.remove();
-    };
-  }, []);
-
-  // 选中/切换门店时定位弹窗
-  useEffect(() => {
-    const el = popupRef.current;
-    if (el && selectedStore && popupVisible && map.current) {
-      const pt = map.current.project([selectedStore.lng, selectedStore.lat]);
-      el.style.left = `${pt.x + 15}px`;
-      el.style.top = `${pt.y - 20}px`;
-      el.style.display = 'block';
-    } else if (el) {
-      el.style.display = 'none';
-    }
-  }, [selectedStore, popupVisible]);
-
   const loadCityDeliveryData = useCallback(async (city: string) => {
     if (deliveryData[city]) return;
     try {
-      const response = await fetch(`${import.meta.env.BASE_URL}data/delivery/${city}.json`);
-      const data = await response.json();
+      const r = await fetch(`${import.meta.env.BASE_URL}data/delivery/${city}.json`);
+      const data = await r.json();
       setDeliveryData(prev => ({ ...prev, [city]: data }));
-    } catch (error) {
-      console.error(`Failed to load delivery data for ${city}:`, error);
-    }
+    } catch (e) { console.error(e); }
   }, [deliveryData]);
 
   useEffect(() => {
@@ -185,259 +147,110 @@ export default function MapView() {
     return true;
   });
 
-  // 更新 deck.gl 图层
-  useEffect(() => {
-    if (!deckOverlay.current) return;
-    const layerList: any[] = [];
-
-    // 1km 覆盖圈
-    if (layers.showCircles1km || !layers.showMarkers) {
-      layerList.push(
-        new ScatterplotLayer({
-          id: 'coverage-1km', data: filteredStores,
-          getPosition: (d: any) => [d.lng, d.lat],
-          getRadius: 1000,
-          getFillColor: (d: any) => (d.overlap >= 3 ? [220, 38, 38, 20] : [59, 130, 246, 20]),
-          getLineColor: (d: any) => (d.overlap >= 3 ? [220, 38, 38, 200] : [59, 130, 246, 200]),
-          stroked: true, filled: true,
-          getLineWidth: (d: any) => (d.overlap >= 3 && layers.highlightOverlap) ? 2 : 1,
-          lineWidthMinPixels: 1, radiusUnits: 'meters', pickable: true,
-          onClick: (info: any) => {
-            if (info.object) {
-              setSelectedStore(info.object);
-              setPopupVisible(true);
-            }
-          }
-        })
-      );
+  // 热力图数据
+  const heatPoints: [number, number, number][] = [];
+  if (showDelivery && selectedStore) {
+    const pts = deliveryData[selectedStore.city]?.[selectedStore.sid];
+    if (Array.isArray(pts) && pts.length > 0) {
+      const maxW = Math.max(...pts.map((p: any) => p.w || 1));
+      pts.forEach((p: any) => heatPoints.push([p.lat, p.lng, (p.w || 1) / maxW]));
     }
+  }
 
-    // 3km 覆盖圈
-    if (layers.showCircles3km) {
-      layerList.push(
-        new ScatterplotLayer({
-          id: 'coverage-3km', data: filteredStores,
-          getPosition: (d: any) => [d.lng, d.lat],
-          getRadius: 3000,
-          getFillColor: [34, 197, 94, 10], getLineColor: [34, 197, 94, 150],
-          stroked: true, filled: true, lineWidthMinPixels: 1, radiusUnits: 'meters',
-        })
-      );
+  // TOP10 标记
+  const topLocMarkers: any[] = [];
+  if (showDelivery && selectedStore) {
+    const pts = deliveryData[selectedStore.city]?.[selectedStore.sid];
+    if (Array.isArray(pts) && selectedStore.top_locations?.length > 0) {
+      topLocMarkers.push(...matchTopLocationCoords(selectedStore.top_locations, pts, selectedStore.lat, selectedStore.lng));
     }
+  }
 
-    // 门店标记
-    if (layers.showMarkers) {
-      layerList.push(
-        new ScatterplotLayer({
-          id: 'stores', data: filteredStores,
-          getPosition: (d: any) => [d.lng, d.lat],
-          getFillColor: (d: any) => {
-            if (selectedStore?.sid === d.sid) return [249, 115, 22, 255];
-            return layers.colorByAds ? adsColor(getAds(d.sid)) : brandColor(d.brand);
-          },
-          getRadius: (d: any) => (d.overlap >= 3) ? 14 : 9,
-          radiusMinPixels: 5, radiusMaxPixels: 14,
-          getLineWidth: (d: any) => (d.overlap >= 3) ? 3 : 2,
-          lineWidthMinPixels: 2,
-          getLineColor: (d: any) => (d.overlap >= 3) ? [194, 65, 12, 255] : [255, 255, 255, 255],
-          stroked: true, filled: true, pickable: true,
-          onClick: (info: any) => {
-            if (info.object) {
-              setSelectedStore(info.object);
-              setPopupVisible(true);
-            }
-          }
-        })
-      );
-    }
+  const deliveryCount = showDelivery && selectedStore ? (deliveryData[selectedStore.city]?.[selectedStore.sid]?.length || 0) : 0;
 
-    // 配送热力图（匹配旧版 Leaflet L.heatLayer 效果）
-    if (showDelivery && selectedStore) {
-      const cityData = deliveryData[selectedStore.city];
-      if (cityData) {
-        const storePoints = cityData[selectedStore.sid];
-        if (Array.isArray(storePoints) && storePoints.length > 0) {
-          const maxW = Math.max(...storePoints.map((p: any) => p.w || 1));
-          const heatData = storePoints.map((p: any) => ({
-            position: [p.lng, p.lat],
-            weight: (p.w || 1) / maxW
-          }));
-          layerList.push(
-            new HeatmapLayer({
-              id: 'delivery-heatmap',
-              data: heatData,
-              getPosition: (d: any) => d.position,
-              getWeight: (d: any) => d.weight,
-              radiusPixels: 25,
-              intensity: 1,
-              threshold: 0.02,
-              colorRange: [
-                [0, 0, 255, 100],
-                [0, 200, 255, 140],
-                [0, 255, 100, 180],
-                [200, 255, 0, 210],
-                [255, 180, 0, 240],
-                [255, 0, 0, 255]
-              ]
-            })
-          );
-        }
-      }
-    }
-
-    deckOverlay.current.setProps({ layers: layerList });
-  }, [filteredStores, filters, layers, selectedStore, showDelivery, deliveryData, setSelectedStore, getAds]);
-
-  // TOP10 配送地标记
-  useEffect(() => {
-    // 清除旧标记
-    topLocMarkersRef.current.forEach(m => m.remove());
-    topLocMarkersRef.current = [];
-
-    if (!showDelivery || !selectedStore || !map.current) return;
-
-    const cityData = deliveryData[selectedStore.city];
-    if (!cityData) return;
-
-    const storePoints = cityData[selectedStore.sid];
-    if (!Array.isArray(storePoints) || storePoints.length === 0) return;
-
-    const topLocs = selectedStore.top_locations;
-    if (!topLocs || topLocs.length === 0) return;
-
-    const matched = matchTopLocationCoords(
-      topLocs, storePoints, selectedStore.lat, selectedStore.lng
-    );
-
-    matched.forEach(loc => {
-      const el = document.createElement('div');
-      el.style.cssText = `
-        width: 22px; height: 22px; border-radius: 50%;
-        background: #3b82f6; color: #fff; font-size: 11px; font-weight: 700;
-        display: flex; align-items: center; justify-content: center;
-        border: 2px solid #fff; box-shadow: 0 2px 6px rgba(0,0,0,0.3);
-        cursor: pointer;
-      `;
-      el.textContent = String(loc.rank);
-      el.title = `#${loc.rank} ${loc.name} (${loc.dist}km, ${loc.count}单)`;
-
-      const marker = new Marker({ element: el })
-        .setLngLat([loc.lng, loc.lat])
-        .addTo(map.current);
-      topLocMarkersRef.current.push(marker);
-    });
-  }, [showDelivery, selectedStore, deliveryData]);
-
-  // fit bounds
-  useEffect(() => {
-    if (!map.current || filteredStores.length === 0) return;
-    const lngs = filteredStores.map(s => s.lng);
-    const lats = filteredStores.map(s => s.lat);
-    if (lngs.length > 1) {
-      map.current.fitBounds([
-        [Math.min(...lngs), Math.min(...lats)],
-        [Math.max(...lngs), Math.max(...lats)]
-      ], { padding: 40 });
-    }
-  }, [filteredStores.length, filters.brand, filters.city]); // eslint-disable-line
-
-  // 配送点统计
-  const deliveryCount = showDelivery && selectedStore
-    ? (deliveryData[selectedStore.city]?.[selectedStore.sid]?.length || 0)
-    : 0;
+  const handleStoreClick = (store: any) => { setSelectedStore(store); setPopupVisible(true); };
 
   return (
     <div style={{ width: '100%', height: '100%', position: 'relative' }}>
-      <div ref={mapContainer} style={{ width: '100%', height: '100%', position: 'absolute', top: 0, left: 0 }} />
+      <MapContainer center={[31.2304, 121.4737]} zoom={10} maxZoom={18} style={{ width: '100%', height: '100%' }}>
+        <TileLayer
+          url="https://webrd0{s}.is.autonavi.com/appmaptile?lang=zh_cn&size=1&scale=1&style=8&x={x}&y={y}&z={z}"
+          subdomains={['1','2','3','4']}
+          attribution="高德底图"
+        />
 
-      {/* 弹窗容器（ref 直接操作 DOM，不走 React 渲染） */}
-      {selectedStore && popupVisible && (
-        <div
-          ref={popupRef}
-          style={{
-            position: 'absolute', zIndex: 100, display: 'none',
-            pointerEvents: 'auto',
-          }}
-        >
-          <StorePopupCard
-            key={selectedStore?.sid}
-            showHeatmap={showDelivery}
-            onToggleHeatmap={() => {
-              const city = selectedStore?.city;
-              if (!showDelivery && city) loadCityDeliveryData(city);
-              setShowDelivery(!showDelivery);
-            }}
-            onClose={() => { setPopupVisible(false); }}
-          />
-        </div>
-      )}
+        {(layers.showCircles1km || !layers.showMarkers) && filteredStores.map(s => (
+          <Circle key={`c1-${s.sid}`} center={[s.lat, s.lng]} radius={1000}
+            pathOptions={{ color: s.overlap >= 3 ? '#dc2626' : '#3b82f6', weight: (s.overlap >= 3 && layers.highlightOverlap) ? 2 : 1,
+              fillColor: s.overlap >= 3 ? '#dc2626' : '#3b82f6', fillOpacity: 0.06 }} />
+        ))}
+
+        {layers.showCircles3km && filteredStores.map(s => (
+          <Circle key={`c3-${s.sid}`} center={[s.lat, s.lng]} radius={3000}
+            pathOptions={{ color: '#22c55e', weight: 1, fillColor: '#22c55e', fillOpacity: 0.04, dashArray: '6,4' }} />
+        ))}
+
+        {layers.showMarkers && filteredStores.map(s => {
+          const isSel = selectedStore?.sid === s.sid;
+          const color = isSel ? '#f97316' : (layers.colorByAds ? adsColor(getAds(s.sid)) : brandColor(s.brand));
+          const hi = s.overlap >= 3;
+          return (
+            <CircleMarker key={s.sid} center={[s.lat, s.lng]} radius={hi ? 8 : 5}
+              pathOptions={{ color: hi ? '#c2410c' : '#fff', weight: hi ? 3 : 2, fillColor: color, fillOpacity: 0.85 }}
+              eventHandlers={{ click: () => handleStoreClick(s) }} />
+          );
+        })}
+
+        {heatPoints.length > 0 && <HeatmapLayer points={heatPoints} />}
+        {topLocMarkers.length > 0 && <TopLocationMarkers locations={topLocMarkers} />}
+
+        <PopupFollow store={selectedStore} visible={popupVisible}
+          onClose={() => setPopupVisible(false)} showDelivery={showDelivery}
+          onToggleDelivery={() => {
+            if (!showDelivery && selectedStore) loadCityDeliveryData(selectedStore.city);
+            setShowDelivery(!showDelivery);
+          }} />
+      </MapContainer>
 
       {/* 图例 */}
-      <div style={{
-        position: 'absolute', bottom: '40px', left: '10px',
+      <div style={{ position: 'absolute', bottom: '40px', left: '10px', zIndex: 999,
         background: '#fff', border: '1px solid #e2e8f0', borderRadius: '8px',
-        padding: '10px 12px', fontSize: '10px', zIndex: 999,
-        boxShadow: '0 2px 8px rgba(0,0,0,0.08)'
-      }}>
+        padding: '10px 12px', fontSize: '10px', boxShadow: '0 2px 8px rgba(0,0,0,0.08)' }}>
         {showDelivery && selectedStore ? (
           <>
             <div style={{ fontWeight: 600, color: '#475569', marginBottom: '4px' }}>配送距离</div>
-            {[
-              { color: '#ef4444', label: '≤1km' },
-              { color: '#f97316', label: '1-2km' },
-              { color: '#eab308', label: '2-3km' },
-              { color: '#3b82f6', label: '3-5km' },
-              { color: '#94a3b8', label: '>5km' },
-            ].map(item => (
-              <div key={item.label} style={{ display: 'flex', alignItems: 'center', gap: '5px', padding: '1px 0', color: '#64748b' }}>
-                <span style={{ width: '10px', height: '10px', borderRadius: '50%', background: item.color, flexShrink: 0 }} />
-                {item.label}
+            {[{c:'#ef4444',l:'≤1km'},{c:'#f97316',l:'1-2km'},{c:'#eab308',l:'2-3km'},{c:'#3b82f6',l:'3-5km'},{c:'#94a3b8',l:'>5km'}].map(i => (
+              <div key={i.l} style={{ display:'flex',alignItems:'center',gap:'5px',padding:'1px 0',color:'#64748b' }}>
+                <span style={{ width:'10px',height:'10px',borderRadius:'50%',background:i.c,flexShrink:0 }} />{i.l}
               </div>
             ))}
           </>
         ) : layers.colorByAds ? (
           <>
             <div style={{ fontWeight: 600, color: '#475569', marginBottom: '4px' }}>ADS</div>
-            {[
-              { color: '#93c5fd', label: '<5K' },
-              { color: '#86efac', label: '5-10K' },
-              { color: '#fdba74', label: '10-20K' },
-              { color: '#fca5a5', label: '>20K' },
-            ].map(item => (
-              <div key={item.label} style={{ display: 'flex', alignItems: 'center', gap: '5px', padding: '1px 0', color: '#64748b' }}>
-                <span style={{ width: '10px', height: '10px', borderRadius: '3px', background: item.color, flexShrink: 0 }} />
-                {item.label}
+            {[{c:'#93c5fd',l:'<5K'},{c:'#86efac',l:'5-10K'},{c:'#fdba74',l:'10-20K'},{c:'#fca5a5',l:'>20K'}].map(i => (
+              <div key={i.l} style={{ display:'flex',alignItems:'center',gap:'5px',padding:'1px 0',color:'#64748b' }}>
+                <span style={{ width:'10px',height:'10px',borderRadius:'3px',background:i.c,flexShrink:0 }} />{i.l}
               </div>
             ))}
           </>
         ) : (
           <>
             <div style={{ fontWeight: 600, color: '#475569', marginBottom: '4px' }}>品牌</div>
-            {[
-              { color: '#e11d48', label: 'Wagas' },
-              { color: '#f59e0b', label: 'B&S' },
-              { color: '#22c55e', label: 'Lokal' },
-              { color: '#8b5cf6', label: 'JUNi' },
-              { color: '#06b6d4', label: 'F&K' },
-            ].map(item => (
-              <div key={item.label} style={{ display: 'flex', alignItems: 'center', gap: '5px', padding: '1px 0', color: '#64748b' }}>
-                <span style={{ width: '10px', height: '10px', borderRadius: '3px', background: item.color, flexShrink: 0 }} />
-                {item.label}
+            {[{c:'#e11d48',l:'Wagas'},{c:'#f59e0b',l:'B&S'},{c:'#22c55e',l:'Lokal'},{c:'#8b5cf6',l:'JUNi'},{c:'#06b6d4',l:'F&K'}].map(i => (
+              <div key={i.l} style={{ display:'flex',alignItems:'center',gap:'5px',padding:'1px 0',color:'#64748b' }}>
+                <span style={{ width:'10px',height:'10px',borderRadius:'3px',background:i.c,flexShrink:0 }} />{i.l}
               </div>
             ))}
           </>
         )}
       </div>
 
-      {/* 配送信息提示 */}
       {showDelivery && selectedStore && deliveryCount > 0 && (
-        <div style={{
-          position: 'absolute', top: '12px', right: '12px',
-          background: 'rgba(255,255,255,0.95)', color: '#1e293b',
-          padding: '8px 14px', borderRadius: '8px', fontSize: '12px', zIndex: 999,
-          boxShadow: '0 2px 10px rgba(0,0,0,0.1)', border: '1px solid #e2e8f0'
-        }}>
-          <span style={{ fontWeight: 700, color: '#f97316' }}>{deliveryCount}</span> 个配送地址 &nbsp;&middot;&nbsp; 再次点击关闭
+        <div style={{ position:'absolute',top:'12px',right:'12px',zIndex:999,
+          background:'rgba(255,255,255,0.95)',color:'#1e293b',padding:'8px 14px',borderRadius:'8px',fontSize:'12px',
+          boxShadow:'0 2px 10px rgba(0,0,0,0.1)',border:'1px solid #e2e8f0' }}>
+          <span style={{ fontWeight:700,color:'#f97316' }}>{deliveryCount}</span> 个配送地址 &middot; 再次点击关闭
         </div>
       )}
     </div>

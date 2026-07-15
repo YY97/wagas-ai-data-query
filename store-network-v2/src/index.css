@@ -45,6 +45,22 @@ body {
   background: #94a3b8;
 }
 
+/* Leaflet 弹窗自定义 */
+.store-popup-leaflet .leaflet-popup-content-wrapper {
+  padding: 0 !important;
+  border-radius: 8px !important;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.18) !important;
+}
+
+.store-popup-leaflet .leaflet-popup-content {
+  margin: 0 !important;
+  line-height: normal !important;
+}
+
+.store-popup-leaflet .leaflet-popup-tip {
+  border-top-color: #fff !important;
+}
+
 /* 自定义弹窗卡片 */
 .store-popup-card {
   min-width: 220px;
