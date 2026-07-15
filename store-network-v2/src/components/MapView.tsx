@@ -27,20 +27,32 @@ function haversineKm(lat1: number, lng1: number, lat2: number, lng2: number): nu
   return R * 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1-a));
 }
 
-function matchTopLocationCoords(topLocs: any[], pts: any[], sLat: number, sLng: number) {
-  const results: any[] = [];
-  const used = new Set<number>();
-  for (const loc of topLocs.slice(0, 10)) {
-    const tol = Math.max(loc.dist * 0.3, 0.3);
-    let bestIdx = -1, bestW = -1;
-    for (let i = 0; i < pts.length; i++) {
-      if (used.has(i)) continue;
-      const d = haversineKm(sLat, sLng, pts[i].lat, pts[i].lng);
-      if (Math.abs(d - loc.dist) <= tol && pts[i].w > bestW) { bestIdx = i; bestW = pts[i].w; }
+function getTopDeliveryMarkers(pts: any[], maxMarkers: number = 10) {
+  if (!pts || pts.length === 0) return [];
+  // 按权重降序排列
+  const sorted = pts.map((p: any, i: number) => ({ ...p, idx: i })).sort((a: any, b: any) => (b.w || 1) - (a.w || 1));
+  const clusters: any[] = [];
+  const assigned = new Set<number>();
+
+  for (const p of sorted) {
+    if (assigned.has(p.idx)) continue;
+    // 找到 150m 内的所有未分配点，合并为一个簇
+    let sumW = p.w || 1, sumLat = p.lat * (p.w || 1), sumLng = p.lng * (p.w || 1), count = 1;
+    assigned.add(p.idx);
+    for (const q of sorted) {
+      if (assigned.has(q.idx)) continue;
+      if (haversineKm(p.lat, p.lng, q.lat, q.lng) <= 0.15) {
+        const qw = q.w || 1;
+        sumW += qw; sumLat += q.lat * qw; sumLng += q.lng * qw; count++;
+        assigned.add(q.idx);
+      }
     }
-    if (bestIdx >= 0) { used.add(bestIdx); results.push({ ...loc, lat: pts[bestIdx].lat, lng: pts[bestIdx].lng }); }
+    clusters.push({ lat: sumLat / sumW, lng: sumLng / sumW, totalWeight: sumW, pointCount: count });
+    if (clusters.length >= maxMarkers) break;
   }
-  return results;
+  // 按总权重排序，编号 1-N
+  clusters.sort((a, b) => b.totalWeight - a.totalWeight);
+  return clusters.slice(0, maxMarkers).map((c, i) => ({ rank: i + 1, lat: c.lat, lng: c.lng, count: c.totalWeight }));
 }
 
 function HeatmapLayer({ points }: { points: [number, number, number][] }) {
@@ -161,8 +173,8 @@ export default function MapView() {
   const topLocMarkers: any[] = [];
   if (showDelivery && selectedStore) {
     const pts = deliveryData[selectedStore.city]?.[selectedStore.sid];
-    if (Array.isArray(pts) && selectedStore.top_locations?.length > 0) {
-      topLocMarkers.push(...matchTopLocationCoords(selectedStore.top_locations, pts, selectedStore.lat, selectedStore.lng));
+    if (Array.isArray(pts)) {
+      topLocMarkers.push(...getTopDeliveryMarkers(pts));
     }
   }
 
