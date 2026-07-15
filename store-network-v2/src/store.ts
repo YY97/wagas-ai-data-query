@@ -13,6 +13,7 @@ interface AppState {
   stores: Store[];
   salesData: SalesData;
   channelSales: Record<string, Record<string, { dine_in: number; delivery: number }>>;
+  weatherData: Record<string, { date: string; tmax: number | null; tmin: number | null; precip: number; weathercode: number }[]>;
   dateRange: { start: string; end: string };
   allDates: string[];
   filters: Filters;
@@ -51,6 +52,7 @@ export const useAppStore = create<AppState>((set, get) => ({
   stores: [],
   salesData: {},
   channelSales: {},
+  weatherData: {},
   dateRange: { start: '', end: '' },
   allDates: [],
   filters: defaultFilters,
@@ -90,7 +92,7 @@ export const useAppStore = create<AppState>((set, get) => ({
     return values.length ? values.reduce((a, b) => a + b, 0) / values.length : null;
   },
 
-  initData: (stores, salesData, channelSales, dateRange) => {
+  initData: (stores, salesData, channelSales, weatherData, dateRange) => {
     const allDates = new Set<string>();
     Object.values(salesData).forEach(storeSales => {
       Object.keys(storeSales).forEach(date => allDates.add(date));
@@ -108,6 +110,7 @@ export const useAppStore = create<AppState>((set, get) => ({
       stores,
       salesData,
       channelSales,
+      weatherData,
       dateRange,
       allDates: sortedDates,
       loading: false,

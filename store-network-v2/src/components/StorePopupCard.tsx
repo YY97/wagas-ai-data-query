@@ -63,8 +63,9 @@ export default function StorePopupCard({
   onToggleHeatmap: () => void;
   onClose: () => void;
 }) {
-  const { selectedStore, stores, getAds, salesData, channelSales, filters } = useAppStore();
+  const { selectedStore, stores, getAds, salesData, channelSales, weatherData, filters } = useAppStore();
   const [showTopLoc, setShowTopLoc] = useState(false);
+  const [showWeather, setShowWeather] = useState(false);
   const [minimized, setMinimized] = useState(false);
 
   if (!selectedStore) return null;
@@ -211,17 +212,68 @@ export default function StorePopupCard({
         </div>
       )}
 
-      {/* 热门配送地按钮 */}
-      {!showTopLoc ? (
-        <button
-          onClick={() => setShowTopLoc(true)}
-          style={{
-            display: 'inline-block', padding: '4px 10px', marginTop: '6px',
-            borderRadius: '5px', border: 'none', fontSize: '11px',
-            fontWeight: 600, cursor: 'pointer', background: '#3b82f6', color: '#fff',
-          }}
-        >&#128205; 热门配送地</button>
-      ) : null}
+      {/* 按钮区 */}
+      <div style={{ display: 'flex', gap: '4px', marginTop: '6px' }}>
+        {!showTopLoc ? (
+          <button onClick={() => setShowTopLoc(true)}
+            style={{ padding: '4px 10px', borderRadius: '5px', border: 'none', fontSize: '11px', fontWeight: 600, cursor: 'pointer', background: '#3b82f6', color: '#fff' }}>
+            &#128205; 热门配送地</button>
+        ) : null}
+        {!showWeather ? (
+          <button onClick={() => setShowWeather(true)}
+            style={{ padding: '4px 10px', borderRadius: '5px', border: 'none', fontSize: '11px', fontWeight: 600, cursor: 'pointer', background: '#8b5cf6', color: '#fff' }}>
+            &#127780; 天气趋势</button>
+        ) : null}
+      </div>
+
+      {/* 天气趋势 */}
+      {showWeather && (() => {
+        const cityWeather = weatherData[s.city] || [];
+        const filteredWeather = cityWeather.filter(w => w.date >= ds && w.date <= de);
+        if (filteredWeather.length === 0) {
+          return <div style={{ ...sectionBase, background: '#f5f3ff', borderLeft: '3px solid #8b5cf6' }}>
+            <div style={{ fontWeight: 700, color: '#6d28d9', marginBottom: '3px' }}>天气趋势</div>
+            <div style={{ fontSize: '9px', color: '#94a3b8' }}>暂无天气数据</div>
+          </div>;
+        }
+        const avgTmax = filteredWeather.reduce((s, w) => s + (w.tmax || 0), 0) / filteredWeather.length;
+        const avgTmin = filteredWeather.reduce((s, w) => s + (w.tmin || 0), 0) / filteredWeather.length;
+        const totalPrecip = filteredWeather.reduce((s, w) => s + (w.precip || 0), 0);
+        const rainDays = filteredWeather.filter(w => (w.precip || 0) > 0.1).length;
+        return (
+          <div style={{ ...sectionBase, background: '#f5f3ff', borderLeft: '3px solid #8b5cf6' }}>
+            <div style={{ fontWeight: 700, color: '#6d28d9', marginBottom: '3px' }}>天气趋势 ({filteredWeather.length}天)</div>
+            <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '2px', fontSize: '10px' }}>
+              <div>平均最高温: <b>{avgTmax.toFixed(1)}°C</b></div>
+              <div>平均最低温: <b>{avgTmin.toFixed(1)}°C</b></div>
+              <div>累计降水: <b>{totalPrecip.toFixed(1)}mm</b></div>
+              <div>降雨天数: <b>{rainDays}天</b></div>
+            </div>
+            <div style={{ maxHeight: '100px', overflowY: 'auto', marginTop: '4px' }}>
+              <table style={{ width: '100%', borderCollapse: 'collapse', fontSize: '9px' }}>
+                <thead>
+                  <tr style={{ color: '#64748b', borderBottom: '1px solid #e9d5ff' }}>
+                    <th style={{ textAlign: 'left', padding: '1px 0' }}>日期</th>
+                    <th style={{ textAlign: 'right', padding: '1px 2px' }}>最高</th>
+                    <th style={{ textAlign: 'right', padding: '1px 2px' }}>最低</th>
+                    <th style={{ textAlign: 'right', padding: '1px 0' }}>降水</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  {filteredWeather.slice(-14).map(w => (
+                    <tr key={w.date} style={{ borderBottom: '1px solid #f5f3ff' }}>
+                      <td style={{ padding: '1px 0', color: '#64748b' }}>{w.date.slice(5)}</td>
+                      <td style={{ padding: '1px 2px', textAlign: 'right', color: w.tmax != null && w.tmax >= 35 ? '#dc2626' : '#1e293b' }}>{w.tmax != null ? `${w.tmax}°` : '-'}</td>
+                      <td style={{ padding: '1px 2px', textAlign: 'right', color: w.tmin != null && w.tmin <= 5 ? '#3b82f6' : '#1e293b' }}>{w.tmin != null ? `${w.tmin}°` : '-'}</td>
+                      <td style={{ padding: '1px 0', textAlign: 'right', color: (w.precip || 0) > 5 ? '#3b82f6' : '#64748b' }}>{w.precip > 0 ? `${w.precip}mm` : '-'}</td>
+                    </tr>
+                  ))}
+                </tbody>
+              </table>
+            </div>
+          </div>
+        );
+      })()}
 
       {/* 热门配送地 TOP10 */}
       {showTopLoc && s.top_locations && s.top_locations.length > 0 && (
