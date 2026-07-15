@@ -1,5 +1,5 @@
 import { useRef, useEffect, useState, useCallback } from 'react';
-import { Map } from 'maplibre-gl';
+import { Map, Marker } from 'maplibre-gl';
 import 'maplibre-gl/dist/maplibre-gl.css';
 import { ScatterplotLayer } from '@deck.gl/layers';
 import { HeatmapLayer } from '@deck.gl/aggregation-layers';
@@ -26,12 +26,57 @@ function brandColor(brand: string): [number, number, number, number] {
   return BRAND_COLORS[brand] || [107, 114, 128, 200];
 }
 
+// Haversine 距离 (km)
+function haversineKm(lat1: number, lng1: number, lat2: number, lng2: number): number {
+  const R = 6371;
+  const dLat = (lat2 - lat1) * Math.PI / 180;
+  const dLng = (lng2 - lng1) * Math.PI / 180;
+  const a = Math.sin(dLat/2)**2 + Math.cos(lat1*Math.PI/180) * Math.cos(lat2*Math.PI/180) * Math.sin(dLng/2)**2;
+  return R * 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1-a));
+}
+
+// 为 TOP10 配送地匹配近似坐标
+function matchTopLocationCoords(
+  topLocations: { rank: number; name: string; dist: number; count: number }[],
+  deliveryPoints: { lat: number; lng: number; w: number }[],
+  storeLat: number,
+  storeLng: number
+): { rank: number; name: string; dist: number; count: number; lat: number; lng: number }[] {
+  const results: any[] = [];
+  const used = new Set<number>();
+
+  for (const loc of topLocations.slice(0, 10)) {
+    const targetDist = loc.dist;
+    const tolerance = Math.max(targetDist * 0.3, 0.3); // ±30% 或 ±300m
+    let bestIdx = -1;
+    let bestWeight = -1;
+
+    for (let i = 0; i < deliveryPoints.length; i++) {
+      if (used.has(i)) continue;
+      const p = deliveryPoints[i];
+      const d = haversineKm(storeLat, storeLng, p.lat, p.lng);
+      if (Math.abs(d - targetDist) <= tolerance && p.w > bestWeight) {
+        bestIdx = i;
+        bestWeight = p.w;
+      }
+    }
+
+    if (bestIdx >= 0) {
+      used.add(bestIdx);
+      const p = deliveryPoints[bestIdx];
+      results.push({ ...loc, lat: p.lat, lng: p.lng });
+    }
+  }
+  return results;
+}
+
 
 export default function MapView() {
   const mapContainer = useRef<HTMLDivElement>(null);
   const map = useRef<Map | null>(null);
   const deckOverlay = useRef<MapboxOverlay | null>(null);
   const popupRef = useRef<HTMLDivElement | null>(null);
+  const topLocMarkersRef = useRef<any[]>([]);
   const { stores, filters, layers, getAds, selectedStore, setSelectedStore } = useAppStore();
   const [deliveryData, setDeliveryData] = useState<Record<string, any>>({});
   const [showDelivery, setShowDelivery] = useState(false);
@@ -242,6 +287,46 @@ export default function MapView() {
 
     deckOverlay.current.setProps({ layers: layerList });
   }, [filteredStores, filters, layers, selectedStore, showDelivery, deliveryData, setSelectedStore, getAds]);
+
+  // TOP10 配送地标记
+  useEffect(() => {
+    // 清除旧标记
+    topLocMarkersRef.current.forEach(m => m.remove());
+    topLocMarkersRef.current = [];
+
+    if (!showDelivery || !selectedStore || !map.current) return;
+
+    const cityData = deliveryData[selectedStore.city];
+    if (!cityData) return;
+
+    const storePoints = cityData[selectedStore.sid];
+    if (!Array.isArray(storePoints) || storePoints.length === 0) return;
+
+    const topLocs = selectedStore.top_locations;
+    if (!topLocs || topLocs.length === 0) return;
+
+    const matched = matchTopLocationCoords(
+      topLocs, storePoints, selectedStore.lat, selectedStore.lng
+    );
+
+    matched.forEach(loc => {
+      const el = document.createElement('div');
+      el.style.cssText = `
+        width: 22px; height: 22px; border-radius: 50%;
+        background: #3b82f6; color: #fff; font-size: 11px; font-weight: 700;
+        display: flex; align-items: center; justify-content: center;
+        border: 2px solid #fff; box-shadow: 0 2px 6px rgba(0,0,0,0.3);
+        cursor: pointer;
+      `;
+      el.textContent = String(loc.rank);
+      el.title = `#${loc.rank} ${loc.name} (${loc.dist}km, ${loc.count}单)`;
+
+      const marker = new Marker({ element: el })
+        .setLngLat([loc.lng, loc.lat])
+        .addTo(map.current);
+      topLocMarkersRef.current.push(marker);
+    });
+  }, [showDelivery, selectedStore, deliveryData]);
 
   // fit bounds
   useEffect(() => {
