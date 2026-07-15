@@ -12,6 +12,7 @@ export interface LayerToggles {
 interface AppState {
   stores: Store[];
   salesData: SalesData;
+  channelSales: Record<string, Record<string, { dine_in: number; delivery: number }>>;
   dateRange: { start: string; end: string };
   allDates: string[];
   filters: Filters;
@@ -24,7 +25,7 @@ interface AppState {
   setSelectedStore: (store: Store | null) => void;
   setLoading: (loading: boolean) => void;
   getAds: (sid: string) => number | null;
-  initData: (stores: Store[], salesData: SalesData, dateRange: { start: string; end: string }) => void;
+  initData: (stores: Store[], salesData: SalesData, channelSales: any, dateRange: { start: string; end: string }) => void;
 }
 
 const defaultFilters: Filters = {
@@ -49,6 +50,7 @@ const defaultLayers: LayerToggles = {
 export const useAppStore = create<AppState>((set, get) => ({
   stores: [],
   salesData: {},
+  channelSales: {},
   dateRange: { start: '', end: '' },
   allDates: [],
   filters: defaultFilters,
@@ -88,7 +90,7 @@ export const useAppStore = create<AppState>((set, get) => ({
     return values.length ? values.reduce((a, b) => a + b, 0) / values.length : null;
   },
 
-  initData: (stores, salesData, dateRange) => {
+  initData: (stores, salesData, channelSales, dateRange) => {
     const allDates = new Set<string>();
     Object.values(salesData).forEach(storeSales => {
       Object.keys(storeSales).forEach(date => allDates.add(date));
@@ -105,6 +107,7 @@ export const useAppStore = create<AppState>((set, get) => ({
     set({
       stores,
       salesData,
+      channelSales,
       dateRange,
       allDates: sortedDates,
       loading: false,

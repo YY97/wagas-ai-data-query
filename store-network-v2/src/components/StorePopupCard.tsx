@@ -63,7 +63,7 @@ export default function StorePopupCard({
   onToggleHeatmap: () => void;
   onClose: () => void;
 }) {
-  const { selectedStore, stores, getAds, salesData, filters } = useAppStore();
+  const { selectedStore, stores, getAds, salesData, channelSales, filters } = useAppStore();
   const [showTopLoc, setShowTopLoc] = useState(false);
   const [minimized, setMinimized] = useState(false);
 
@@ -81,6 +81,25 @@ export default function StorePopupCard({
   const momEnd = shiftDate(de, 'mom');
   const aYoy = calcAdsRange(salesData, s.sid, yoyStart, yoyEnd);
   const aMom = calcAdsRange(salesData, s.sid, momStart, momEnd);
+
+  // 渠道拆分同比/环比
+  const calcChannelRange = (sid: string, start: string, end: string) => {
+    const cd = channelSales[sid];
+    if (!cd) return null;
+    let dineIn = 0, delivery = 0, days = 0;
+    for (const d in cd) {
+      if (d >= start && d <= end) {
+        dineIn += cd[d].dine_in || 0;
+        delivery += cd[d].delivery || 0;
+        days++;
+      }
+    }
+    if (days === 0) return null;
+    return { dineInAvg: Math.round(dineIn / days), deliveryAvg: Math.round(delivery / days) };
+  };
+  const chCurrent = calcChannelRange(s.sid, ds, de);
+  const chYoy = calcChannelRange(s.sid, yoyStart, yoyEnd);
+  const chMom = calcChannelRange(s.sid, momStart, momEnd);
 
   // 最小化状态：只显示小条
   if (minimized) {
@@ -137,12 +156,18 @@ export default function StorePopupCard({
       )}
 
       {/* 渠道拆分 */}
-      {s.channel && s.channel.days > 0 && (
+      {chCurrent && (
         <div style={{ ...sectionBase, background: '#f0f9ff', borderLeft: '3px solid #3b82f6' }}>
           <div style={{ fontWeight: 700, color: '#1e40af', marginBottom: '3px' }}>渠道拆分 (日均)</div>
           <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '2px' }}>
-            <div>堂食: <b>{fm(s.channel.dine_in_avg)}</b>{s.channel.dine_in_pct != null ? ` (${s.channel.dine_in_pct}%)` : ''}</div>
-            <div>外卖: <b>{fm(s.channel.delivery_avg)}</b>{s.channel.delivery_pct != null ? ` (${s.channel.delivery_pct}%)` : ''}</div>
+            <div>堂食: <b>{fm(chCurrent.dineInAvg)}</b></div>
+            <div>外卖: <b>{fm(chCurrent.deliveryAvg)}</b></div>
+          </div>
+          <div style={{ fontSize: '9px', color: '#64748b', marginTop: '3px' }}>
+            <div>堂食 同比: <span style={{ color: chYoy && chCurrent.dineInAvg >= chYoy.dineInAvg ? '#16a34a' : '#dc2626' }}>{pctChange(chCurrent.dineInAvg, chYoy?.dineInAvg ?? null)}</span>
+              &nbsp;环比: <span style={{ color: chMom && chCurrent.dineInAvg >= chMom.dineInAvg ? '#16a34a' : '#dc2626' }}>{pctChange(chCurrent.dineInAvg, chMom?.dineInAvg ?? null)}</span></div>
+            <div>外卖 同比: <span style={{ color: chYoy && chCurrent.deliveryAvg >= chYoy.deliveryAvg ? '#16a34a' : '#dc2626' }}>{pctChange(chCurrent.deliveryAvg, chYoy?.deliveryAvg ?? null)}</span>
+              &nbsp;环比: <span style={{ color: chMom && chCurrent.deliveryAvg >= chMom.deliveryAvg ? '#16a34a' : '#dc2626' }}>{pctChange(chCurrent.deliveryAvg, chMom?.deliveryAvg ?? null)}</span></div>
           </div>
         </div>
       )}
