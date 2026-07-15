@@ -33,6 +33,7 @@ jobs:
           $npmRoot = (npm root -g).Trim()
           $guancliJs = "$npmRoot\@guandata\guancli\bin\run.js"
           echo "GUANCLI_JS=$guancliJs" >> $env:GITHUB_ENV
+          echo "AMAP_KEY=${{ secrets.AMAP_KEY }}" >> $env:GITHUB_ENV
           $configDir = "$env:APPDATA\guancli"
           New-Item -ItemType Directory -Force -Path $configDir | Out-Null
           $configJson = '{"profiles":{"wagas":{"name":"wagas","base_url":"https://bi.wagas.com.cn","domain":"wagas","login_id":"${{ secrets.GUANCLI_USER }}","password":"${{ secrets.GUANCLI_PASS }}","auth_method":"password"}}}'
@@ -46,95 +47,100 @@ jobs:
           Write-Host "guancli login completed"
         continue-on-error: false
 
-      - name: 拉取昨天销售数据
+      # ===== 每日 ETL =====
+      - name: 拉取销售数据（近2天增量）
         id: sales
         run: python etl_pull_data.py --days 2 --output-dir ./output
         working-directory: ${{ github.workspace }}
         continue-on-error: true
 
-      - name: 刷新外卖配送点
+      - name: 刷新外卖配送点（近30天）
         id: delivery
         run: python etl_delivery_heatmap.py 30
         working-directory: ${{ github.workspace }}
         continue-on-error: true
 
-      - name: 更新商圈环境数据
+      # ===== 月度/季度 ETL =====
+      - name: 更新商圈环境数据（季度月1号运行）
         id: market
         shell: powershell
         run: |
+          $month = (Get-Date).Month
           $day = (Get-Date).Day
-          if ($day -ne 1 -and '${{ github.event_name }}' -ne 'workflow_dispatch') {
-            Write-Host "Skipping market ETL (today is day $day, only runs on 1st of month)"
+          $isQuarterly = ($month -eq 1 -or $month -eq 4 -or $month -eq 7 -or $month -eq 10) -and ($day -eq 1)
+          if (-not $isQuarterly -and '${{ github.event_name }}' -ne 'workflow_dispatch') {
+            Write-Host "Skipping market ETL (quarterly only: Jan/Apr/Jul/Oct 1st)"
             exit 0
           }
           python etl_market_context.py --key ${{ secrets.AMAP_KEY }} --output-dir ./output
         working-directory: ${{ github.workspace }}
         continue-on-error: true
 
-      - name: 更新热门配送地 TOP10
+      - name: 更新热门配送地 TOP10（每月1号运行）
         id: toploc
         shell: powershell
         run: |
           $day = (Get-Date).Day
           if ($day -ne 1 -and '${{ github.event_name }}' -ne 'workflow_dispatch') {
-            Write-Host "Skipping top locations ETL (today is day $day, only runs on 1st of month)"
+            Write-Host "Skipping top locations ETL (monthly, only runs on 1st)"
             exit 0
           }
           python etl_delivery_top_locations.py --key ${{ secrets.AMAP_KEY }} --output-dir ./output
         working-directory: ${{ github.workspace }}
         continue-on-error: true
 
-      - name: 生成地图
+      # ===== 旧版地图生成 =====
+      - name: 生成旧版地图
         run: python gen_coverage_v4.py
         working-directory: ${{ github.workspace }}
+        continue-on-error: true
 
-      - name: 拷贝文件到发布目录
+      # ===== 新版 React 地图数据同步 =====
+      - name: 每日同步 store-network-v2 数据
+        id: v2sync
+        run: python daily_sync.py
+        working-directory: ${{ github.workspace }}
+        continue-on-error: true
+
+      # ===== 拷贝文件到发布目录 =====
+      - name: 拷贝旧版文件
         shell: powershell
         run: |
           New-Item -ItemType Directory -Force -Path store-network | Out-Null
           if (Test-Path wagas_stores_coverage_v4.html) {
             Copy-Item -Force wagas_stores_coverage_v4.html store-network/index.html
-            Write-Host "HTML copied"
-          } else {
-            Write-Host "HTML not generated, skipping"
           }
           if (Test-Path output/delivery_city_index.json) {
             Copy-Item -Force output/delivery_city_index.json store-network/delivery_city_index.json
-            Write-Host "Delivery index copied"
-          } else {
-            Write-Host "Delivery index not found, skipping"
           }
           if (Test-Path output/delivery_by_city) {
             New-Item -ItemType Directory -Force -Path store-network/delivery_by_city | Out-Null
             Copy-Item -Force -Recurse output/delivery_by_city/* store-network/delivery_by_city/
-            Write-Host "Delivery city data copied"
-          } else {
-            Write-Host "Delivery city data not found, skipping"
           }
           if (Test-Path output/store_top_locations.json) {
             Copy-Item -Force output/store_top_locations.json store-network/store_top_locations.json
-            Write-Host "Top locations copied"
-          } else {
-            Write-Host "Top locations not found, skipping"
           }
           if (Test-Path output/store_daily_sales_data.json) {
             Copy-Item -Force output/store_daily_sales_data.json store-network/store_daily_sales_data.json
-            Write-Host "Daily sales data copied"
-          } else {
-            Write-Host "Daily sales data not found, skipping"
           }
         working-directory: ${{ github.workspace }}
+        continue-on-error: true
 
+      # ===== 提交推送 =====
       - name: 提交并推送到 GitHub
         shell: powershell
         run: |
           git config user.name "Wagas Bot"
           git config user.email "bot@wagas.com"
-          git add store-network/ output/
-          $diff = git diff --staged --quiet 2>&1
+          git add store-network/ store-network-v2/data/ store-network-v2/public/data/ output/
+          $hasChanges = git diff --staged --quiet 2>&1
           if ($LASTEXITCODE -ne 0) {
             $today = Get-Date -Format "yyyy-MM-dd"
             git commit -m "Daily update $today"
             git push
+            Write-Host "Committed and pushed"
+          } else {
+            Write-Host "No changes to commit"
           }
         working-directory: ${{ github.workspace }}
+        continue-on-error: true
