@@ -37,6 +37,9 @@ export default function MapView() {
   const [showHeatmap, setShowHeatmap] = useState(false);
   const [popupPos, setPopupPos] = useState<{ x: number; y: number } | null>(null);
 
+  const selectedStoreRef = useRef(selectedStore);
+  useEffect(() => { selectedStoreRef.current = selectedStore; }, [selectedStore]);
+
   useEffect(() => {
     if (!mapContainer.current || map.current) return;
 
@@ -69,15 +72,17 @@ export default function MapView() {
     deckOverlay.current = new MapboxOverlay({ interleaved: true, layers: [] });
     map.current.addControl(deckOverlay.current);
 
-    // 地图移动时更新弹窗位置
+    // 地图移动时更新弹窗位置（用 ref 获取最新 selectedStore）
     const updatePopupPos = () => {
-      if (selectedStore && map.current) {
-        const pt = map.current.project([selectedStore.lng, selectedStore.lat]);
+      const store = selectedStoreRef.current;
+      if (store && map.current) {
+        const pt = map.current.project([store.lng, store.lat]);
         setPopupPos({ x: pt.x, y: pt.y });
       }
     };
     map.current.on('move', updatePopupPos);
     map.current.on('zoom', updatePopupPos);
+    map.current.on('moveend', updatePopupPos);
 
     return () => {
       if (deckOverlay.current && map.current) {
