@@ -208,10 +208,22 @@ export default function MapView() {
 
     if (selectedStore) {
       if (!popupRef.current) {
-        popupRef.current = new Popup({ maxWidth: '320px', closeButton: false, offset: 15 });
+        popupRef.current = new Popup({
+          maxWidth: '320px',
+          closeButton: false,
+          closeOnClick: true,
+          closeOnMove: false,
+          offset: 15
+        });
         const el = document.createElement('div');
         popupRootRef.current = createRoot(el);
         popupRef.current.setDOMContent(el).setLngLat([selectedStore.lng, selectedStore.lat]).addTo(map.current);
+
+        // 让 popup 容器不阻挡地图点击，但内容仍可交互
+        const container = popupRef.current.getElement();
+        container.style.pointerEvents = 'none';
+        const content = container.querySelector('.maplibregl-popup-content');
+        if (content) content.style.pointerEvents = 'auto';
       }
 
       // 更新 popup 内容
