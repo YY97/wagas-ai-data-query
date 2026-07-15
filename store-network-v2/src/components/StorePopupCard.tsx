@@ -38,11 +38,39 @@ export default function StorePopupCard({
 }) {
   const { selectedStore, stores, getAds } = useAppStore();
   const [showTopLoc, setShowTopLoc] = useState(false);
+  const [minimized, setMinimized] = useState(false);
 
   if (!selectedStore) return null;
   const s = selectedStore;
   const a = getAds(s.sid);
   const ac = adsColorHex(a);
+
+  // 最小化状态：只显示小条
+  if (minimized) {
+    return (
+      <div style={{
+        background: '#fff', borderRadius: '6px', padding: '6px 10px',
+        boxShadow: '0 2px 10px rgba(0,0,0,0.15)', display: 'flex',
+        alignItems: 'center', gap: '8px', fontSize: '11px', cursor: 'pointer',
+        minWidth: '160px', maxWidth: '240px',
+      }}>
+        <div style={{ flex: 1, overflow: 'hidden' }}>
+          <div style={{ fontWeight: 700, color: '#1e293b', whiteSpace: 'nowrap', overflow: 'hidden', textOverflow: 'ellipsis' }}>
+            {s.name}
+          </div>
+          <div style={{ fontSize: '9px', color: '#94a3b8' }}>{s.brand} &middot; {s.city}</div>
+        </div>
+        <button
+          onClick={() => setMinimized(false)}
+          style={{
+            background: '#f1f5f9', border: '1px solid #e2e8f0', borderRadius: '4px',
+            padding: '2px 6px', fontSize: '10px', cursor: 'pointer', color: '#475569',
+            whiteSpace: 'nowrap', flexShrink: 0,
+          }}
+        >展开 ▸</button>
+      </div>
+    );
+  }
 
   return (
     <div className="store-popup-card" style={popupStyle}>
@@ -196,12 +224,19 @@ export default function StorePopupCard({
         {showHeatmap ? '关闭热力图' : '🔥 外卖热力图'}
       </button>
 
-      {/* 关闭按钮 */}
-      <button onClick={onClose} style={{
-        display: 'block', width: '100%', padding: '3px', marginTop: '4px',
-        borderRadius: '4px', border: '1px solid #e2e8f0', fontSize: '10px',
-        cursor: 'pointer', background: '#f8fafc', color: '#64748b',
-      }}>关闭</button>
+      {/* 操作按钮区 */}
+      <div style={{ display: 'flex', gap: '4px', marginTop: '4px' }}>
+        <button onClick={() => setMinimized(true)} style={{
+          flex: 1, padding: '3px', borderRadius: '4px',
+          border: '1px solid #e2e8f0', fontSize: '10px',
+          cursor: 'pointer', background: '#f1f5f9', color: '#475569',
+        }}>收起 ▴</button>
+        <button onClick={onClose} style={{
+          flex: 1, padding: '3px', borderRadius: '4px',
+          border: '1px solid #e2e8f0', fontSize: '10px',
+          cursor: 'pointer', background: '#f8fafc', color: '#64748b',
+        }}>关闭</button>
+      </div>
     </div>
   );
 }

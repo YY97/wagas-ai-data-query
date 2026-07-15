@@ -51,6 +51,7 @@ export default function MapView() {
   const { stores, filters, layers, getAds, selectedStore, setSelectedStore } = useAppStore();
   const [deliveryData, setDeliveryData] = useState<Record<string, any>>({});
   const [showDelivery, setShowDelivery] = useState(false);
+  const [popupVisible, setPopupVisible] = useState(true);
 
   const selectedStoreRef = useRef(selectedStore);
   useEffect(() => { selectedStoreRef.current = selectedStore; }, [selectedStore]);
@@ -110,10 +111,10 @@ export default function MapView() {
     };
   }, []);
 
-  // 选中新门店时立即定位弹窗
+  // 选中/切换门店时定位弹窗
   useEffect(() => {
     const el = popupRef.current;
-    if (el && selectedStore && map.current) {
+    if (el && selectedStore && popupVisible && map.current) {
       const pt = map.current.project([selectedStore.lng, selectedStore.lat]);
       el.style.left = `${pt.x + 15}px`;
       el.style.top = `${pt.y - 20}px`;
@@ -121,7 +122,7 @@ export default function MapView() {
     } else if (el) {
       el.style.display = 'none';
     }
-  }, [selectedStore]);
+  }, [selectedStore, popupVisible]);
 
   const loadCityDeliveryData = useCallback(async (city: string) => {
     if (deliveryData[city]) return;
@@ -172,7 +173,12 @@ export default function MapView() {
           stroked: true, filled: true,
           getLineWidth: (d: any) => (d.overlap >= 3 && layers.highlightOverlap) ? 2 : 1,
           lineWidthMinPixels: 1, radiusUnits: 'meters', pickable: true,
-          onClick: (info: any) => { if (info.object) setSelectedStore(info.object); }
+          onClick: (info: any) => {
+            if (info.object) {
+              setSelectedStore(info.object);
+              setPopupVisible(true);
+            }
+          }
         })
       );
     }
@@ -206,7 +212,12 @@ export default function MapView() {
           lineWidthMinPixels: 2,
           getLineColor: (d: any) => (d.overlap >= 3) ? [194, 65, 12, 255] : [255, 255, 255, 255],
           stroked: true, filled: true, pickable: true,
-          onClick: (info: any) => { if (info.object) setSelectedStore(info.object); }
+          onClick: (info: any) => {
+            if (info.object) {
+              setSelectedStore(info.object);
+              setPopupVisible(true);
+            }
+          }
         })
       );
     }
@@ -301,23 +312,26 @@ export default function MapView() {
       <div ref={mapContainer} style={{ width: '100%', height: '100%', position: 'absolute', top: 0, left: 0 }} />
 
       {/* 弹窗容器（ref 直接操作 DOM，不走 React 渲染） */}
-      <div
-        ref={popupRef}
-        style={{
-          position: 'absolute', zIndex: 100, display: 'none',
-          pointerEvents: 'auto',
-        }}
-      >
-        <StorePopupCard
-          showHeatmap={showDelivery}
-          onToggleHeatmap={() => {
-            const city = selectedStore?.city;
-            if (!showDelivery && city) loadCityDeliveryData(city);
-            setShowDelivery(!showDelivery);
+      {selectedStore && popupVisible && (
+        <div
+          ref={popupRef}
+          style={{
+            position: 'absolute', zIndex: 100, display: 'none',
+            pointerEvents: 'auto',
           }}
-          onClose={() => { setSelectedStore(null); setShowDelivery(false); }}
-        />
-      </div>
+        >
+          <StorePopupCard
+            key={selectedStore?.sid}
+            showHeatmap={showDelivery}
+            onToggleHeatmap={() => {
+              const city = selectedStore?.city;
+              if (!showDelivery && city) loadCityDeliveryData(city);
+              setShowDelivery(!showDelivery);
+            }}
+            onClose={() => { setPopupVisible(false); }}
+          />
+        </div>
+      )}
 
       {/* 图例 */}
       <div style={{
