@@ -89,40 +89,10 @@ jobs:
         working-directory: ${{ github.workspace }}
         continue-on-error: true
 
-      # ===== 旧版地图生成 =====
-      - name: 生成旧版地图
-        run: python gen_coverage_v4.py
-        working-directory: ${{ github.workspace }}
-        continue-on-error: true
-
       # ===== 新版 React 地图数据同步 =====
       - name: 每日同步 store-network-v2 数据
         id: v2sync
         run: python daily_sync.py
-        working-directory: ${{ github.workspace }}
-        continue-on-error: true
-
-      # ===== 拷贝文件到发布目录 =====
-      - name: 拷贝旧版文件
-        shell: powershell
-        run: |
-          New-Item -ItemType Directory -Force -Path store-network | Out-Null
-          if (Test-Path wagas_stores_coverage_v4.html) {
-            Copy-Item -Force wagas_stores_coverage_v4.html store-network/index.html
-          }
-          if (Test-Path output/delivery_city_index.json) {
-            Copy-Item -Force output/delivery_city_index.json store-network/delivery_city_index.json
-          }
-          if (Test-Path output/delivery_by_city) {
-            New-Item -ItemType Directory -Force -Path store-network/delivery_by_city | Out-Null
-            Copy-Item -Force -Recurse output/delivery_by_city/* store-network/delivery_by_city/
-          }
-          if (Test-Path output/store_top_locations.json) {
-            Copy-Item -Force output/store_top_locations.json store-network/store_top_locations.json
-          }
-          if (Test-Path output/store_daily_sales_data.json) {
-            Copy-Item -Force output/store_daily_sales_data.json store-network/store_daily_sales_data.json
-          }
         working-directory: ${{ github.workspace }}
         continue-on-error: true
 
@@ -132,7 +102,7 @@ jobs:
         run: |
           git config user.name "Wagas Bot"
           git config user.email "bot@wagas.com"
-          git add store-network/ store-network-v2/data/ store-network-v2/public/data/ output/
+          git add store-network-v2/data/ store-network-v2/public/data/ output/
           $hasChanges = git diff --staged --quiet 2>&1
           if ($LASTEXITCODE -ne 0) {
             $today = Get-Date -Format "yyyy-MM-dd"
