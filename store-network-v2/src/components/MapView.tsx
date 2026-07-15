@@ -1,5 +1,5 @@
 import { useEffect, useRef, useState, useCallback } from 'react';
-import { MapContainer, TileLayer, CircleMarker, Circle, Marker, useMap } from 'react-leaflet';
+import { MapContainer, TileLayer, CircleMarker, Circle, Marker, useMap, useMapEvents } from 'react-leaflet';
 import L from 'leaflet';
 import 'leaflet/dist/leaflet.css';
 import 'leaflet.heat';
@@ -123,6 +123,34 @@ function PopupFollow({ store, visible, onClose, showDelivery, onToggleDelivery }
   );
 }
 
+function AutoFitBounds({ stores }: { stores: any[] }) {
+  const map = useMap();
+  const prevKeyRef = useRef('');
+
+  useEffect(() => {
+    if (stores.length === 0) return;
+    // 生成筛选结果的唯一标识，避免重复 fitBounds
+    const key = stores.map(s => s.sid).sort().join(',');
+    if (key === prevKeyRef.current) return;
+    prevKeyRef.current = key;
+
+    const lngs = stores.map(s => s.lng);
+    const lats = stores.map(s => s.lat);
+    const bounds = L.latLngBounds(
+      [Math.min(...lats), Math.min(...lngs)],
+      [Math.max(...lats), Math.max(...lngs)]
+    );
+    // 单店时放大，多店时自适应
+    if (stores.length === 1) {
+      map.setView([stores[0].lat, stores[0].lng], 14, { animate: true });
+    } else {
+      map.fitBounds(bounds, { padding: [40, 40], maxZoom: 14, animate: true });
+    }
+  }, [stores, map]);
+
+  return null;
+}
+
 export default function MapView() {
   const { stores, filters, layers, getAds, selectedStore, setSelectedStore } = useAppStore();
   const [deliveryData, setDeliveryData] = useState<Record<string, any>>({});
@@ -190,6 +218,8 @@ export default function MapView() {
           subdomains={['1','2','3','4']}
           attribution="高德底图"
         />
+
+        <AutoFitBounds stores={filteredStores} />
 
         {(layers.showCircles1km || !layers.showMarkers) && filteredStores.map(s => (
           <Circle key={`c1-${s.sid}`} center={[s.lat, s.lng]} radius={1000}
