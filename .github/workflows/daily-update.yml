@@ -90,9 +90,32 @@ jobs:
         continue-on-error: true
 
       # ===== 新版 React 地图数据同步 =====
-      - name: 每日同步 store-network-v2 数据
+      - name: 每日同步数据
         id: v2sync
         run: python daily_sync.py
+        working-directory: ${{ github.workspace }}
+        continue-on-error: true
+
+      - name: 构建 React 应用
+        run: |
+          cd store-network-v2
+          npm ci --silent
+          npx vite build
+        working-directory: ${{ github.workspace }}
+        continue-on-error: true
+
+      - name: 部署到 store-network 目录
+        shell: powershell
+        run: |
+          New-Item -ItemType Directory -Force -Path store-network/assets | Out-Null
+          if (Test-Path store-network-v2/dist/index.html) {
+            Copy-Item -Force store-network-v2/dist/index.html store-network/index.html
+            Copy-Item -Force store-network-v2/dist/assets/* store-network/assets/
+            Copy-Item -Force store-network-v2/public/favicon.svg store-network/
+            Copy-Item -Force store-network-v2/public/icons.svg store-network/
+            Remove-Item -Recurse -Force store-network-v2/dist
+            Write-Host "Deployed to store-network/"
+          }
         working-directory: ${{ github.workspace }}
         continue-on-error: true
 
@@ -102,7 +125,7 @@ jobs:
         run: |
           git config user.name "Wagas Bot"
           git config user.email "bot@wagas.com"
-          git add store-network-v2/data/ store-network-v2/public/data/ output/
+          git add store-network/ store-network-v2/data/ store-network-v2/public/data/ output/
           $hasChanges = git diff --staged --quiet 2>&1
           if ($LASTEXITCODE -ne 0) {
             $today = Get-Date -Format "yyyy-MM-dd"
