@@ -56,7 +56,7 @@ export default function StorePopupCard({
       }}>
         <div style={{ flex: 1, overflow: 'hidden' }}>
           <div style={{ fontWeight: 700, color: '#1e293b', whiteSpace: 'nowrap', overflow: 'hidden', textOverflow: 'ellipsis' }}>
-            {s.name}
+            {s.name} <span style={{ fontSize: '9px', color: '#94a3b8', fontWeight: 500 }}>{s.sid}</span>
           </div>
           <div style={{ fontSize: '9px', color: '#94a3b8' }}>{s.brand} &middot; {s.city}</div>
         </div>
@@ -75,8 +75,13 @@ export default function StorePopupCard({
   return (
     <div className="store-popup-card" style={popupStyle}>
       {/* 门店名称 */}
-      <div style={{ fontWeight: 700, color: '#1e293b', fontSize: '13px', marginBottom: '3px' }}>
-        {s.name}
+      <div style={{ display: 'flex', alignItems: 'baseline', gap: '6px', marginBottom: '3px' }}>
+        <div style={{ fontWeight: 700, color: '#1e293b', fontSize: '13px' }}>
+          {s.name}
+        </div>
+        <div style={{ fontSize: '10px', color: '#94a3b8', fontWeight: 500, flexShrink: 0 }}>
+          {s.sid}
+        </div>
       </div>
       <div style={{ fontSize: '11px', color: '#64748b' }}>
         {s.brand} &middot; {s.city}
