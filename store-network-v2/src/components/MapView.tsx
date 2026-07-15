@@ -196,22 +196,26 @@ export default function MapView() {
       if (cityData) {
         const storePoints = cityData[selectedStore.sid];
         if (Array.isArray(storePoints) && storePoints.length > 0) {
+          const maxWeight = Math.max(...storePoints.map((p: any) => p.w || p.count || 1));
+          // 归一化权重到 0-1（和旧版 Leaflet L.heatLayer 的 max 参数一致）
           const heatData = storePoints.map((p: any) => ({
             position: [p.lng, p.lat],
-            weight: p.w || p.count || 1
+            weight: (p.w || p.count || 1) / maxWeight
           }));
-          const maxWeight = Math.max(...storePoints.map((p: any) => p.w || p.count || 1));
           layerList.push(
             new HeatmapLayer({
               id: 'delivery-heatmap', data: heatData,
               getPosition: (d: any) => d.position,
               getWeight: (d: any) => d.weight,
-              radiusPixels: 25,
-              intensity: maxWeight > 0 ? Math.min(maxWeight, 50) : 1,
-              threshold: 0.05,
+              radiusPixels: 18,
+              intensity: 1,
+              threshold: 0.02,
               colorRange: [
-                [0, 0, 255, 150], [0, 255, 255, 180], [0, 255, 0, 200],
-                [255, 255, 0, 220], [255, 0, 0, 255]
+                [0, 0, 255, 120],
+                [0, 255, 255, 160],
+                [0, 255, 0, 200],
+                [255, 255, 0, 230],
+                [255, 0, 0, 255]
               ]
             })
           );
