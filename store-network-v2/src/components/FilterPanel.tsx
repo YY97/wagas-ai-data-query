@@ -146,23 +146,60 @@ function ToggleItem({ label, checked, onChange }: { label: string; checked: bool
 export default function FilterPanel() {
   const { stores, filters, setFilter, layers, setLayer, dateRange, allDates, setDateRange } = useAppStore();
 
-  // 品牌选项（带计数）
+  // === 联动筛选 ===
+  // 先按城市过滤，计算可用品牌（带计数）
+  const storesByCity = filters.city !== 'all'
+    ? stores.filter(s => s.city === filters.city)
+    : stores;
+
   const brandCounts: Record<string, number> = {};
-  stores.forEach(s => { brandCounts[s.brand] = (brandCounts[s.brand] || 0) + 1; });
+  storesByCity.forEach(s => { brandCounts[s.brand] = (brandCounts[s.brand] || 0) + 1; });
   const brands = Object.keys(brandCounts).sort();
 
-  // 城市选项
-  const citySet = new Set(stores.map(s => s.city));
-  const cities = Array.from(citySet).sort();
+  // 先按品牌过滤，计算可用城市（带计数）
+  const storesByBrand = filters.brand !== 'all'
+    ? stores.filter(s => s.brand === filters.brand)
+    : stores;
 
-  // 门店类型（带计数）
+  const cityCounts: Record<string, number> = {};
+  storesByBrand.forEach(s => { cityCounts[s.city] = (cityCounts[s.city] || 0) + 1; });
+  const cities = Object.keys(cityCounts).sort();
+
+  // 门店类型（基于当前品牌+城市过滤）
+  const filteredForFmt = stores.filter(s => {
+    if (filters.brand !== 'all' && s.brand !== filters.brand) return false;
+    if (filters.city !== 'all' && s.city !== filters.city) return false;
+    return true;
+  });
   const fmtCounts: Record<string, number> = {};
-  stores.forEach(s => { if (s.fmt) fmtCounts[s.fmt] = (fmtCounts[s.fmt] || 0) + 1; });
+  filteredForFmt.forEach(s => { if (s.fmt) fmtCounts[s.fmt] = (fmtCounts[s.fmt] || 0) + 1; });
   const fmts = Object.keys(fmtCounts).sort();
 
-  // 门店名称和ID选项
-  const storeNameItems = stores.map(s => ({ value: s.sid, label: s.name }));
-  const storeIdItems = stores.map(s => ({ value: s.sid, label: s.sid }));
+  // 门店名称和ID选项（基于当前品牌+城市过滤）
+  const storeNameItems = filteredForFmt.map(s => ({ value: s.sid, label: s.name }));
+  const storeIdItems = filteredForFmt.map(s => ({ value: s.sid, label: s.sid }));
+
+  // 联动：品牌/城市改变时，清除不再匹配的多选项
+  const validSids = new Set(filteredForFmt.map(s => s.sid));
+  const cleanedNames = filters.storeNames.filter(id => validSids.has(id));
+  const cleanedIds = filters.storeIds.filter(id => validSids.has(id));
+  if (cleanedNames.length !== filters.storeNames.length) {
+    setTimeout(() => setFilter('storeNames', cleanedNames), 0);
+  }
+  if (cleanedIds.length !== filters.storeIds.length) {
+    setTimeout(() => setFilter('storeIds', cleanedIds), 0);
+  }
+
+  // 联动：当前选中的品牌/城市/类型如果不在可用列表中，自动重置
+  if (filters.brand !== 'all' && !brandCounts[filters.brand]) {
+    setTimeout(() => setFilter('brand', 'all'), 0);
+  }
+  if (filters.city !== 'all' && !cityCounts[filters.city]) {
+    setTimeout(() => setFilter('city', 'all'), 0);
+  }
+  if (filters.fmt !== 'all' && !fmtCounts[filters.fmt]) {
+    setTimeout(() => setFilter('fmt', 'all'), 0);
+  }
 
   // 日期下拉选项
   const dateOptions = [...allDates].reverse();
@@ -204,7 +241,7 @@ export default function FilterPanel() {
         <div style={{ marginBottom: '6px' }}>
           <select value={filters.city} onChange={e => setFilter('city', e.target.value)} style={selectStyle}>
             <option value="all">全部城市</option>
-            {cities.map(c => <option key={c} value={c}>{c}</option>)}
+            {cities.map(c => <option key={c} value={c}>{c} ({cityCounts[c]})</option>)}
           </select>
         </div>
         <div style={{ marginBottom: '6px' }}>
