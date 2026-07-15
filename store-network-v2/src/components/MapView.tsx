@@ -2,12 +2,11 @@ import { useRef, useEffect, useState, useCallback } from 'react';
 import { Map } from 'maplibre-gl';
 import 'maplibre-gl/dist/maplibre-gl.css';
 import { ScatterplotLayer } from '@deck.gl/layers';
-import { HeatmapLayer } from '@deck.gl/aggregation-layers';
+import { HexagonLayer } from '@deck.gl/aggregation-layers';
 import { MapboxOverlay } from '@deck.gl/mapbox';
 import { useAppStore } from '../store';
 import StorePopupCard from './StorePopupCard';
 
-// ADS 颜色映射
 function adsColor(v: number | null): [number, number, number, number] {
   if (v == null) return [107, 114, 128, 200];
   if (v < 5000) return [147, 197, 253, 220];
@@ -23,19 +22,35 @@ const BRAND_COLORS: Record<string, [number, number, number, number]> = {
   'JUNi': [139, 92, 246, 220],
   'Funk&Kale': [6, 182, 212, 220],
 };
-
 function brandColor(brand: string): [number, number, number, number] {
   return BRAND_COLORS[brand] || [107, 114, 128, 200];
+}
+
+// 配送点距离颜色：近=红，远=蓝
+function distColor(distKm: number): [number, number, number, number] {
+  if (distKm <= 1) return [239, 68, 68, 180];
+  if (distKm <= 2) return [249, 115, 22, 160];
+  if (distKm <= 3) return [234, 179, 8, 140];
+  if (distKm <= 5) return [59, 130, 246, 120];
+  return [148, 163, 184, 100];
+}
+
+function haversineKm(lat1: number, lng1: number, lat2: number, lng2: number): number {
+  const R = 6371;
+  const dLat = (lat2 - lat1) * Math.PI / 180;
+  const dLng = (lng2 - lng1) * Math.PI / 180;
+  const a = Math.sin(dLat/2)**2 + Math.cos(lat1*Math.PI/180) * Math.cos(lat2*Math.PI/180) * Math.sin(dLng/2)**2;
+  return R * 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1-a));
 }
 
 export default function MapView() {
   const mapContainer = useRef<HTMLDivElement>(null);
   const map = useRef<Map | null>(null);
   const deckOverlay = useRef<MapboxOverlay | null>(null);
+  const popupRef = useRef<HTMLDivElement | null>(null);
   const { stores, filters, layers, getAds, selectedStore, setSelectedStore } = useAppStore();
   const [deliveryData, setDeliveryData] = useState<Record<string, any>>({});
-  const [showHeatmap, setShowHeatmap] = useState(false);
-  const [popupPos, setPopupPos] = useState<{ x: number; y: number } | null>(null);
+  const [showDelivery, setShowDelivery] = useState(false);
 
   const selectedStoreRef = useRef(selectedStore);
   useEffect(() => { selectedStoreRef.current = selectedStore; }, [selectedStore]);
@@ -60,10 +75,7 @@ export default function MapView() {
             attribution: '高德底图'
           }
         },
-        layers: [{
-          id: 'amap-tiles', type: 'raster', source: 'amap-tiles',
-          minzoom: 0, maxzoom: 18
-        }]
+        layers: [{ id: 'amap-tiles', type: 'raster', source: 'amap-tiles', minzoom: 0, maxzoom: 18 }]
       },
       center: [121.4737, 31.2304],
       zoom: 10
@@ -72,12 +84,17 @@ export default function MapView() {
     deckOverlay.current = new MapboxOverlay({ interleaved: true, layers: [] });
     map.current.addControl(deckOverlay.current);
 
-    // 地图移动时更新弹窗位置（用 ref 获取最新 selectedStore）
+    // 地图移动时直接操作 DOM 更新弹窗位置（绕过 React 渲染）
     const updatePopupPos = () => {
+      const el = popupRef.current;
       const store = selectedStoreRef.current;
-      if (store && map.current) {
+      if (el && store && map.current) {
         const pt = map.current.project([store.lng, store.lat]);
-        setPopupPos({ x: pt.x, y: pt.y });
+        el.style.left = `${pt.x + 15}px`;
+        el.style.top = `${pt.y - 20}px`;
+        el.style.display = 'block';
+      } else if (el) {
+        el.style.display = 'none';
       }
     };
     map.current.on('move', updatePopupPos);
@@ -92,6 +109,19 @@ export default function MapView() {
       map.current?.remove();
     };
   }, []);
+
+  // 选中新门店时立即定位弹窗
+  useEffect(() => {
+    const el = popupRef.current;
+    if (el && selectedStore && map.current) {
+      const pt = map.current.project([selectedStore.lng, selectedStore.lat]);
+      el.style.left = `${pt.x + 15}px`;
+      el.style.top = `${pt.y - 20}px`;
+      el.style.display = 'block';
+    } else if (el) {
+      el.style.display = 'none';
+    }
+  }, [selectedStore]);
 
   const loadCityDeliveryData = useCallback(async (city: string) => {
     if (deliveryData[city]) return;
@@ -125,59 +155,46 @@ export default function MapView() {
     return true;
   });
 
-  // 更新弹窗位置
-  useEffect(() => {
-    if (selectedStore && map.current) {
-      const pt = map.current.project([selectedStore.lng, selectedStore.lat]);
-      setPopupPos({ x: pt.x, y: pt.y });
-    } else {
-      setPopupPos(null);
-    }
-  }, [selectedStore]);
-
   // 更新 deck.gl 图层
   useEffect(() => {
     if (!deckOverlay.current) return;
     const layerList: any[] = [];
 
+    // 1km 覆盖圈
     if (layers.showCircles1km || !layers.showMarkers) {
       layerList.push(
         new ScatterplotLayer({
-          id: 'coverage-1km',
-          data: filteredStores,
+          id: 'coverage-1km', data: filteredStores,
           getPosition: (d: any) => [d.lng, d.lat],
           getRadius: 1000,
           getFillColor: (d: any) => (d.overlap >= 3 ? [220, 38, 38, 20] : [59, 130, 246, 20]),
           getLineColor: (d: any) => (d.overlap >= 3 ? [220, 38, 38, 200] : [59, 130, 246, 200]),
           stroked: true, filled: true,
           getLineWidth: (d: any) => (d.overlap >= 3 && layers.highlightOverlap) ? 2 : 1,
-          lineWidthMinPixels: 1,
-          radiusUnits: 'meters', pickable: true,
+          lineWidthMinPixels: 1, radiusUnits: 'meters', pickable: true,
           onClick: (info: any) => { if (info.object) setSelectedStore(info.object); }
         })
       );
     }
 
+    // 3km 覆盖圈
     if (layers.showCircles3km) {
       layerList.push(
         new ScatterplotLayer({
-          id: 'coverage-3km',
-          data: filteredStores,
+          id: 'coverage-3km', data: filteredStores,
           getPosition: (d: any) => [d.lng, d.lat],
           getRadius: 3000,
-          getFillColor: [34, 197, 94, 10],
-          getLineColor: [34, 197, 94, 150],
-          stroked: true, filled: true, lineWidthMinPixels: 1,
-          radiusUnits: 'meters',
+          getFillColor: [34, 197, 94, 10], getLineColor: [34, 197, 94, 150],
+          stroked: true, filled: true, lineWidthMinPixels: 1, radiusUnits: 'meters',
         })
       );
     }
 
+    // 门店标记
     if (layers.showMarkers) {
       layerList.push(
         new ScatterplotLayer({
-          id: 'stores',
-          data: filteredStores,
+          id: 'stores', data: filteredStores,
           getPosition: (d: any) => [d.lng, d.lat],
           getFillColor: (d: any) => {
             if (selectedStore?.sid === d.sid) return [249, 115, 22, 255];
@@ -194,34 +211,64 @@ export default function MapView() {
       );
     }
 
-    // 配送热力图（单店配送数据，和旧版一致）
-    if (showHeatmap && selectedStore) {
-      const heatCity = selectedStore.city;
-      const cityData = deliveryData[heatCity];
+    // 配送气泡图（替代热力图）
+    if (showDelivery && selectedStore) {
+      const cityData = deliveryData[selectedStore.city];
       if (cityData) {
         const storePoints = cityData[selectedStore.sid];
         if (Array.isArray(storePoints) && storePoints.length > 0) {
-          const maxWeight = Math.max(...storePoints.map((p: any) => p.w || p.count || 1));
-          // 归一化权重到 0-1（和旧版 Leaflet L.heatLayer 的 max 参数一致）
-          const heatData = storePoints.map((p: any) => ({
-            position: [p.lng, p.lat],
-            weight: (p.w || p.count || 1) / maxWeight
-          }));
+          const sLat = selectedStore.lat, sLng = selectedStore.lng;
+          const maxW = Math.max(...storePoints.map((p: any) => p.w || 1));
+
+          // 底层：六边形区域聚合（显示哪个区域单子多）
           layerList.push(
-            new HeatmapLayer({
-              id: 'delivery-heatmap', data: heatData,
+            new HexagonLayer({
+              id: 'delivery-hexbin',
+              data: storePoints.map((p: any) => ({
+                position: [p.lng, p.lat],
+                weight: p.w || 1
+              })),
               getPosition: (d: any) => d.position,
-              getWeight: (d: any) => d.weight,
-              radiusPixels: 18,
-              intensity: 1,
-              threshold: 0.02,
+              getElevationWeight: (d: any) => d.weight,
+              elevationScale: 0,
+              radius: 200,
+              coverage: 0.8,
+              getColorWeight: (d: any) => d.weight,
               colorRange: [
-                [0, 0, 255, 120],
-                [0, 255, 255, 160],
-                [0, 255, 0, 200],
-                [255, 255, 0, 230],
-                [255, 0, 0, 255]
-              ]
+                [59, 130, 246, 40],
+                [59, 130, 246, 70],
+                [234, 179, 8, 90],
+                [249, 115, 22, 120],
+                [239, 68, 68, 160]
+              ],
+              opacity: 0.5,
+              pickable: false,
+            })
+          );
+
+          // 上层：散点气泡（每个配送地址）
+          layerList.push(
+            new ScatterplotLayer({
+              id: 'delivery-points',
+              data: storePoints,
+              getPosition: (d: any) => [d.lng, d.lat],
+              getRadius: (d: any) => {
+                const w = d.w || 1;
+                return Math.max(4, Math.min(18, 4 + (w / maxW) * 14));
+              },
+              radiusMinPixels: 3,
+              radiusMaxPixels: 18,
+              getFillColor: (d: any) => {
+                const dist = haversineKm(sLat, sLng, d.lat, d.lng);
+                return distColor(dist);
+              },
+              getLineColor: [255, 255, 255, 200],
+              lineWidthMinPixels: 1,
+              stroked: true, filled: true,
+              pickable: true,
+              onClick: (info: any) => {
+                // 不干扰门店选择
+              }
             })
           );
         }
@@ -229,7 +276,7 @@ export default function MapView() {
     }
 
     deckOverlay.current.setProps({ layers: layerList });
-  }, [filteredStores, filters, layers, selectedStore, showHeatmap, deliveryData, setSelectedStore, getAds]);
+  }, [filteredStores, filters, layers, selectedStore, showDelivery, deliveryData, setSelectedStore, getAds]);
 
   // fit bounds
   useEffect(() => {
@@ -244,33 +291,33 @@ export default function MapView() {
     }
   }, [filteredStores.length, filters.brand, filters.city]); // eslint-disable-line
 
-  // 计算弹窗位置（在标记右侧偏移）
-  const popupStyle: React.CSSProperties | undefined = popupPos ? {
-    position: 'absolute' as const,
-    left: popupPos.x + 15,
-    top: popupPos.y - 20,
-    zIndex: 100,
-    pointerEvents: 'auto' as const,
-  } : undefined;
+  // 配送点统计
+  const deliveryCount = showDelivery && selectedStore
+    ? (deliveryData[selectedStore.city]?.[selectedStore.sid]?.length || 0)
+    : 0;
 
   return (
     <div style={{ width: '100%', height: '100%', position: 'relative' }}>
       <div ref={mapContainer} style={{ width: '100%', height: '100%', position: 'absolute', top: 0, left: 0 }} />
 
-      {/* 自定义浮层弹窗卡片（不阻挡地图点击） */}
-      {selectedStore && popupStyle && (
-        <div style={popupStyle}>
-          <StorePopupCard
-            showHeatmap={showHeatmap}
-            onToggleHeatmap={() => {
-              const city = selectedStore.city;
-              if (!showHeatmap) loadCityDeliveryData(city);
-              setShowHeatmap(!showHeatmap);
-            }}
-            onClose={() => { setSelectedStore(null); setShowHeatmap(false); }}
-          />
-        </div>
-      )}
+      {/* 弹窗容器（ref 直接操作 DOM，不走 React 渲染） */}
+      <div
+        ref={popupRef}
+        style={{
+          position: 'absolute', zIndex: 100, display: 'none',
+          pointerEvents: 'auto',
+        }}
+      >
+        <StorePopupCard
+          showHeatmap={showDelivery}
+          onToggleHeatmap={() => {
+            const city = selectedStore?.city;
+            if (!showDelivery && city) loadCityDeliveryData(city);
+            setShowDelivery(!showDelivery);
+          }}
+          onClose={() => { setSelectedStore(null); setShowDelivery(false); }}
+        />
+      </div>
 
       {/* 图例 */}
       <div style={{
@@ -279,7 +326,23 @@ export default function MapView() {
         padding: '10px 12px', fontSize: '10px', zIndex: 999,
         boxShadow: '0 2px 8px rgba(0,0,0,0.08)'
       }}>
-        {layers.colorByAds ? (
+        {showDelivery && selectedStore ? (
+          <>
+            <div style={{ fontWeight: 600, color: '#475569', marginBottom: '4px' }}>配送距离</div>
+            {[
+              { color: '#ef4444', label: '≤1km' },
+              { color: '#f97316', label: '1-2km' },
+              { color: '#eab308', label: '2-3km' },
+              { color: '#3b82f6', label: '3-5km' },
+              { color: '#94a3b8', label: '>5km' },
+            ].map(item => (
+              <div key={item.label} style={{ display: 'flex', alignItems: 'center', gap: '5px', padding: '1px 0', color: '#64748b' }}>
+                <span style={{ width: '10px', height: '10px', borderRadius: '50%', background: item.color, flexShrink: 0 }} />
+                {item.label}
+              </div>
+            ))}
+          </>
+        ) : layers.colorByAds ? (
           <>
             <div style={{ fontWeight: 600, color: '#475569', marginBottom: '4px' }}>ADS</div>
             {[
@@ -313,17 +376,15 @@ export default function MapView() {
         )}
       </div>
 
-      {/* 热力图信息提示 */}
-      {showHeatmap && selectedStore && (
+      {/* 配送信息提示 */}
+      {showDelivery && selectedStore && deliveryCount > 0 && (
         <div style={{
           position: 'absolute', top: '12px', right: '12px',
           background: 'rgba(255,255,255,0.95)', color: '#1e293b',
           padding: '8px 14px', borderRadius: '8px', fontSize: '12px', zIndex: 999,
           boxShadow: '0 2px 10px rgba(0,0,0,0.1)', border: '1px solid #e2e8f0'
         }}>
-          <span style={{ fontWeight: 700, color: '#f97316' }}>
-            {deliveryData[selectedStore.city]?.[selectedStore.sid]?.length || 0}
-          </span> 个配送地址 &nbsp;&middot;&nbsp; 再次点击关闭
+          <span style={{ fontWeight: 700, color: '#f97316' }}>{deliveryCount}</span> 个配送地址 &nbsp;&middot;&nbsp; 再次点击关闭
         </div>
       )}
     </div>
