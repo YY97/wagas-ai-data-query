@@ -45,7 +45,7 @@ export default function StorePopupCard({
   const ac = adsColorHex(a);
 
   return (
-    <div style={popupStyle}>
+    <div className="store-popup-card" style={popupStyle}>
       {/* 门店名称 */}
       <div style={{ fontWeight: 700, color: '#1e293b', fontSize: '13px', marginBottom: '3px' }}>
         {s.name}

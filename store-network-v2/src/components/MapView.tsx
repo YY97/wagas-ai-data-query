@@ -1,10 +1,9 @@
 import { useRef, useEffect, useState, useCallback } from 'react';
-import { Map, Popup } from 'maplibre-gl';
+import { Map } from 'maplibre-gl';
 import 'maplibre-gl/dist/maplibre-gl.css';
 import { ScatterplotLayer } from '@deck.gl/layers';
 import { HeatmapLayer } from '@deck.gl/aggregation-layers';
 import { MapboxOverlay } from '@deck.gl/mapbox';
-import { createRoot } from 'react-dom/client';
 import { useAppStore } from '../store';
 import StorePopupCard from './StorePopupCard';
 
@@ -33,11 +32,10 @@ export default function MapView() {
   const mapContainer = useRef<HTMLDivElement>(null);
   const map = useRef<Map | null>(null);
   const deckOverlay = useRef<MapboxOverlay | null>(null);
-  const popupRef = useRef<Popup | null>(null);
-  const popupRootRef = useRef<ReturnType<typeof createRoot> | null>(null);
   const { stores, filters, layers, getAds, selectedStore, setSelectedStore } = useAppStore();
-  const [deliveryData, setDeliveryData] = useState<Record<string, any[]>>({});
+  const [deliveryData, setDeliveryData] = useState<Record<string, any>>({});
   const [showHeatmap, setShowHeatmap] = useState(false);
+  const [popupPos, setPopupPos] = useState<{ x: number; y: number } | null>(null);
 
   useEffect(() => {
     if (!mapContainer.current || map.current) return;
@@ -71,8 +69,17 @@ export default function MapView() {
     deckOverlay.current = new MapboxOverlay({ interleaved: true, layers: [] });
     map.current.addControl(deckOverlay.current);
 
+    // 地图移动时更新弹窗位置
+    const updatePopupPos = () => {
+      if (selectedStore && map.current) {
+        const pt = map.current.project([selectedStore.lng, selectedStore.lat]);
+        setPopupPos({ x: pt.x, y: pt.y });
+      }
+    };
+    map.current.on('move', updatePopupPos);
+    map.current.on('zoom', updatePopupPos);
+
     return () => {
-      if (popupRef.current) { popupRef.current.remove(); popupRef.current = null; }
       if (deckOverlay.current && map.current) {
         map.current.removeControl(deckOverlay.current);
         deckOverlay.current.finalize();
@@ -112,6 +119,16 @@ export default function MapView() {
     if (filters.storeIds.length > 0 && !filters.storeIds.includes(store.sid)) return false;
     return true;
   });
+
+  // 更新弹窗位置
+  useEffect(() => {
+    if (selectedStore && map.current) {
+      const pt = map.current.project([selectedStore.lng, selectedStore.lat]);
+      setPopupPos({ x: pt.x, y: pt.y });
+    } else {
+      setPopupPos(null);
+    }
+  }, [selectedStore]);
 
   // 更新 deck.gl 图层
   useEffect(() => {
@@ -172,7 +189,7 @@ export default function MapView() {
       );
     }
 
-    // 配送热力图（单店配送数据）
+    // 配送热力图（单店配送数据，和旧版一致）
     if (showHeatmap && selectedStore) {
       const heatCity = selectedStore.city;
       const cityData = deliveryData[heatCity];
@@ -187,11 +204,14 @@ export default function MapView() {
           layerList.push(
             new HeatmapLayer({
               id: 'delivery-heatmap', data: heatData,
-              getPosition: (d: any) => d.position, getWeight: (d: any) => d.weight,
-              radiusPixels: 25, intensity: maxWeight * 0.3, threshold: 0.03,
+              getPosition: (d: any) => d.position,
+              getWeight: (d: any) => d.weight,
+              radiusPixels: 25,
+              intensity: maxWeight > 0 ? Math.min(maxWeight, 50) : 1,
+              threshold: 0.05,
               colorRange: [
-                [0, 0, 255, 100], [0, 255, 255, 150], [0, 255, 0, 200],
-                [255, 255, 0, 230], [255, 0, 0, 255]
+                [0, 0, 255, 150], [0, 255, 255, 180], [0, 255, 0, 200],
+                [255, 255, 0, 220], [255, 0, 0, 255]
               ]
             })
           );
@@ -201,52 +221,6 @@ export default function MapView() {
 
     deckOverlay.current.setProps({ layers: layerList });
   }, [filteredStores, filters, layers, selectedStore, showHeatmap, deliveryData, setSelectedStore, getAds]);
-
-  // MapLibre Popup 锚定在标记旁
-  useEffect(() => {
-    if (!map.current) return;
-
-    if (selectedStore) {
-      if (!popupRef.current) {
-        popupRef.current = new Popup({
-          maxWidth: '320px',
-          closeButton: false,
-          closeOnClick: true,
-          closeOnMove: false,
-          offset: 15
-        });
-        const el = document.createElement('div');
-        popupRootRef.current = createRoot(el);
-        popupRef.current.setDOMContent(el).setLngLat([selectedStore.lng, selectedStore.lat]).addTo(map.current);
-
-        // 让 popup 容器不阻挡地图点击，但内容仍可交互
-        const container = popupRef.current.getElement();
-        container.style.pointerEvents = 'none';
-        const content = container.querySelector('.maplibregl-popup-content');
-        if (content) content.style.pointerEvents = 'auto';
-      }
-
-      // 更新 popup 内容
-      popupRootRef.current!.render(
-        <StorePopupCard
-          showHeatmap={showHeatmap}
-          onToggleHeatmap={() => {
-            const city = selectedStore.city;
-            if (!showHeatmap) loadCityDeliveryData(city);
-            setShowHeatmap(!showHeatmap);
-          }}
-          onClose={() => { setSelectedStore(null); setShowHeatmap(false); }}
-        />
-      );
-      popupRef.current.setLngLat([selectedStore.lng, selectedStore.lat]);
-    } else {
-      if (popupRef.current) {
-        popupRef.current.remove();
-        popupRef.current = null;
-        popupRootRef.current = null;
-      }
-    }
-  }, [selectedStore, showHeatmap, deliveryData, setSelectedStore, loadCityDeliveryData]);
 
   // fit bounds
   useEffect(() => {
@@ -261,9 +235,33 @@ export default function MapView() {
     }
   }, [filteredStores.length, filters.brand, filters.city]); // eslint-disable-line
 
+  // 计算弹窗位置（在标记右侧偏移）
+  const popupStyle: React.CSSProperties | undefined = popupPos ? {
+    position: 'absolute' as const,
+    left: popupPos.x + 15,
+    top: popupPos.y - 20,
+    zIndex: 100,
+    pointerEvents: 'auto' as const,
+  } : undefined;
+
   return (
     <div style={{ width: '100%', height: '100%', position: 'relative' }}>
       <div ref={mapContainer} style={{ width: '100%', height: '100%', position: 'absolute', top: 0, left: 0 }} />
+
+      {/* 自定义浮层弹窗卡片（不阻挡地图点击） */}
+      {selectedStore && popupStyle && (
+        <div style={popupStyle}>
+          <StorePopupCard
+            showHeatmap={showHeatmap}
+            onToggleHeatmap={() => {
+              const city = selectedStore.city;
+              if (!showHeatmap) loadCityDeliveryData(city);
+              setShowHeatmap(!showHeatmap);
+            }}
+            onClose={() => { setSelectedStore(null); setShowHeatmap(false); }}
+          />
+        </div>
+      )}
 
       {/* 图例 */}
       <div style={{
@@ -305,6 +303,20 @@ export default function MapView() {
           </>
         )}
       </div>
+
+      {/* 热力图信息提示 */}
+      {showHeatmap && selectedStore && (
+        <div style={{
+          position: 'absolute', top: '12px', right: '12px',
+          background: 'rgba(255,255,255,0.95)', color: '#1e293b',
+          padding: '8px 14px', borderRadius: '8px', fontSize: '12px', zIndex: 999,
+          boxShadow: '0 2px 10px rgba(0,0,0,0.1)', border: '1px solid #e2e8f0'
+        }}>
+          <span style={{ fontWeight: 700, color: '#f97316' }}>
+            {deliveryData[selectedStore.city]?.[selectedStore.sid]?.length || 0}
+          </span> 个配送地址 &nbsp;&middot;&nbsp; 再次点击关闭
+        </div>
+      )}
     </div>
   );
 }
