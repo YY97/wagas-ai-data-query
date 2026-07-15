@@ -2,7 +2,7 @@ import { useRef, useEffect, useState, useCallback } from 'react';
 import { Map } from 'maplibre-gl';
 import 'maplibre-gl/dist/maplibre-gl.css';
 import { ScatterplotLayer } from '@deck.gl/layers';
-import { HexagonLayer } from '@deck.gl/aggregation-layers';
+import { HeatmapLayer } from '@deck.gl/aggregation-layers';
 import { MapboxOverlay } from '@deck.gl/mapbox';
 import { useAppStore } from '../store';
 import StorePopupCard from './StorePopupCard';
@@ -26,22 +26,6 @@ function brandColor(brand: string): [number, number, number, number] {
   return BRAND_COLORS[brand] || [107, 114, 128, 200];
 }
 
-// 配送点距离颜色：近=红，远=蓝
-function distColor(distKm: number): [number, number, number, number] {
-  if (distKm <= 1) return [239, 68, 68, 180];
-  if (distKm <= 2) return [249, 115, 22, 160];
-  if (distKm <= 3) return [234, 179, 8, 140];
-  if (distKm <= 5) return [59, 130, 246, 120];
-  return [148, 163, 184, 100];
-}
-
-function haversineKm(lat1: number, lng1: number, lat2: number, lng2: number): number {
-  const R = 6371;
-  const dLat = (lat2 - lat1) * Math.PI / 180;
-  const dLng = (lng2 - lng1) * Math.PI / 180;
-  const a = Math.sin(dLat/2)**2 + Math.cos(lat1*Math.PI/180) * Math.cos(lat2*Math.PI/180) * Math.sin(dLng/2)**2;
-  return R * 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1-a));
-}
 
 export default function MapView() {
   const mapContainer = useRef<HTMLDivElement>(null);
@@ -243,10 +227,11 @@ export default function MapView() {
               intensity: 1,
               threshold: 0.02,
               colorRange: [
-                [0, 0, 255, 120],
-                [0, 255, 255, 160],
-                [0, 255, 0, 200],
-                [255, 255, 0, 230],
+                [0, 0, 255, 100],
+                [0, 200, 255, 140],
+                [0, 255, 100, 180],
+                [200, 255, 0, 210],
+                [255, 180, 0, 240],
                 [255, 0, 0, 255]
               ]
             })
