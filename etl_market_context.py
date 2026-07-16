@@ -327,18 +327,25 @@ def main():
                   f" | 商圈 {agg['business_area']}")
         time.sleep(SLEEP_BETWEEN)
 
-    # 写 CSV
-    fieldnames = ["门店ID", "门店名称", "城市", "poi_count", "avg_cost",
+    # 写 CSV（空数据保护：不覆盖有效旧文件）
+    fieldnames = ["门店 ID", "门店名称", "城市", "poi_count", "avg_cost",
                   "median_cost", "avg_rating", "top_categories", "business_area",
                   "office_count", "residential_count", "metro_count", "nearest_metro_km"]
     os.makedirs(output_dir, exist_ok=True)
-    with open(out_csv, "w", newline="", encoding="utf-8-sig") as f:
-        w = csv.DictWriter(f, fieldnames=fieldnames)
-        w.writeheader()
-        for row in results:
-            w.writerow(row)
 
-    print(f"\n  -> {out_csv} ({len(results)} 行)")
+    # 检查新数据是否有效（至少有部分门店有 POI 数据）
+    valid_count = sum(1 for r in results if int(r.get("poi_count", 0) or 0) > 0)
+    if valid_count == 0 and os.path.exists(out_csv) and os.path.getsize(out_csv) > 200:
+        print(f"
+  [WARN] 新数据全为 0，保留已有 {out_csv}（{os.path.getsize(out_csv)} 字节）")
+    else:
+        with open(out_csv, "w", newline="", encoding="utf-8-sig") as f:
+            w = csv.DictWriter(f, fieldnames=fieldnames)
+            w.writeheader()
+            for row in results:
+                w.writerow(row)
+        print(f"
+  -> {out_csv} ({len(results)} 行，{valid_count} 家有 POI 数据)")
     print(f"{'=' * 60}")
 
 
