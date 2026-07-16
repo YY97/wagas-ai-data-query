@@ -50,7 +50,7 @@ export default function KPICards() {
   return (
     <div style={{ padding: '16px 18px' }}>
       <h1 style={{ fontSize: '16px', fontWeight: 700, color: '#0f172a', marginBottom: '2px', letterSpacing: '-0.3px' }}>
-        Wagas 门店经营地图
+        Wagas 门店经营地图 <span style={{ fontSize: '11px', fontWeight: 400, color: '#f97316' }}>（内测中）</span>
       </h1>
       <div style={{ fontSize: '11px', color: '#64748b', marginBottom: '16px', lineHeight: 1.5 }}>
         快照: <strong style={{ color: '#334155', fontWeight: 600 }}>{dateLabel}</strong>
