@@ -35,12 +35,12 @@ jobs:
           echo "AMAP_KEY=${{ secrets.AMAP_KEY }}" >> $GITHUB_ENV
           CONFIG_DIR="$HOME/.config/guancli"
           mkdir -p "$CONFIG_DIR"
-          cat > "$CONFIG_DIR/config.json" << 'CFGEOF'
-          {"profiles":{"wagas":{"name":"wagas","base_url":"https://bi.wagas.com.cn","domain":"wagas","login_id":"${{ secrets.GUANCLI_USER }}","password":"${{ secrets.GUANCLI_PASS }}","auth_method":"password"}}}
-          CFGEOF
-          # 替换占位符为实际值
-          sed -i "s|\${{ secrets.GUANCLI_USER }}|${{ secrets.GUANCLI_USER }}|g" "$CONFIG_DIR/config.json"
-          sed -i "s|\${{ secrets.GUANCLI_PASS }}|${{ secrets.GUANCLI_PASS }}|g" "$CONFIG_DIR/config.json"
+          # 先写模板（占位符），再 sed 替换，避免密码特殊字符破坏 JSON
+          echo '{"profiles":{"wagas":{"name":"wagas","base_url":"https://bi.wagas.com.cn","domain":"wagas","login_id":"__USER__","password":"__PASS__","auth_method":"password"}}}' > "$CONFIG_DIR/config.json"
+          sed -i "s|__USER__|${{ secrets.GUANCLI_USER }}|g" "$CONFIG_DIR/config.json"
+          sed -i "s|__PASS__|${{ secrets.GUANCLI_PASS }}|g" "$CONFIG_DIR/config.json"
+          echo "guancli config written"
+          python3 -c "import json; json.load(open('$CONFIG_DIR/config.json')); print('JSON valid')"
 
       - name: 登录 guancli 获取 token
         run: |
