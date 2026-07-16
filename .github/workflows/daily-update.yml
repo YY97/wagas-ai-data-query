@@ -9,7 +9,7 @@ on:
 
 jobs:
   update:
-    runs-on: self-hosted
+    runs-on: ubuntu-latest
     permissions:
       contents: write
 
@@ -29,23 +29,24 @@ jobs:
       - run: npm install -g @guandata/guancli
 
       - name: 配置 guancli & 环境变量
-        shell: powershell
         run: |
-          $npmRoot = (npm root -g).Trim()
-          $guancliJs = "$npmRoot\@guandata\guancli\bin\run.js"
-          echo "GUANCLI_JS=$guancliJs" >> $env:GITHUB_ENV
-          echo "AMAP_KEY=${{ secrets.AMAP_KEY }}" >> $env:GITHUB_ENV
-          $configDir = "$env:APPDATA\guancli"
-          New-Item -ItemType Directory -Force -Path $configDir | Out-Null
-          $configJson = '{"profiles":{"wagas":{"name":"wagas","base_url":"https://bi.wagas.com.cn","domain":"wagas","login_id":"${{ secrets.GUANCLI_USER }}","password":"${{ secrets.GUANCLI_PASS }}","auth_method":"password"}}}'
-          [IO.File]::WriteAllText("$configDir\config.json", $configJson)
+          GUANCLI_JS="$(npm root -g)/@guandata/guancli/bin/run.js"
+          echo "GUANCLI_JS=$GUANCLI_JS" >> $GITHUB_ENV
+          echo "AMAP_KEY=${{ secrets.AMAP_KEY }}" >> $GITHUB_ENV
+          CONFIG_DIR="$HOME/.config/guancli"
+          mkdir -p "$CONFIG_DIR"
+          cat > "$CONFIG_DIR/config.json" << 'CFGEOF'
+          {"profiles":{"wagas":{"name":"wagas","base_url":"https://bi.wagas.com.cn","domain":"wagas","login_id":"${{ secrets.GUANCLI_USER }}","password":"${{ secrets.GUANCLI_PASS }}","auth_method":"password"}}}
+          CFGEOF
+          # 替换占位符为实际值
+          sed -i "s|\${{ secrets.GUANCLI_USER }}|${{ secrets.GUANCLI_USER }}|g" "$CONFIG_DIR/config.json"
+          sed -i "s|\${{ secrets.GUANCLI_PASS }}|${{ secrets.GUANCLI_PASS }}|g" "$CONFIG_DIR/config.json"
 
       - name: 登录 guancli 获取 token
-        shell: powershell
         run: |
-          $env:GUANCLI_JS = (npm root -g).Trim() + "\@guandata\guancli\bin\run.js"
-          node $env:GUANCLI_JS auth login --profile wagas --login-id "${{ secrets.GUANCLI_USER }}" --password "${{ secrets.GUANCLI_PASS }}" --save-password
-          Write-Host "guancli login completed"
+          GUANCLI_JS="$(npm root -g)/@guandata/guancli/bin/run.js"
+          node "$GUANCLI_JS" auth login --profile wagas --login-id "${{ secrets.GUANCLI_USER }}" --password "${{ secrets.GUANCLI_PASS }}" --save-password
+          echo "guancli login completed"
         continue-on-error: false
 
       # ===== 每日 ETL =====
@@ -64,28 +65,29 @@ jobs:
       # ===== 月度/季度 ETL =====
       - name: 更新商圈环境数据（季度月1号运行）
         id: market
-        shell: powershell
         run: |
-          $month = (Get-Date).Month
-          $day = (Get-Date).Day
-          $isQuarterly = ($month -eq 1 -or $month -eq 4 -or $month -eq 7 -or $month -eq 10) -and ($day -eq 1)
-          if (-not $isQuarterly -and '${{ github.event_name }}' -ne 'workflow_dispatch') {
-            Write-Host "Skipping market ETL (quarterly only: Jan/Apr/Jul/Oct 1st)"
+          MONTH=$(date +%m)
+          DAY=$(date +%d)
+          IS_QUARTERLY=false
+          if [ "$MONTH" = "01" ] || [ "$MONTH" = "04" ] || [ "$MONTH" = "07" ] || [ "$MONTH" = "10" ]; then
+            if [ "$DAY" = "01" ]; then IS_QUARTERLY=true; fi
+          fi
+          if [ "$IS_QUARTERLY" = "false" ] && [ "${{ github.event_name }}" != "workflow_dispatch" ]; then
+            echo "Skipping market ETL (quarterly only: Jan/Apr/Jul/Oct 1st)"
             exit 0
-          }
+          fi
           python etl_market_context.py --key ${{ secrets.AMAP_KEY }} --output-dir ./output
         working-directory: ${{ github.workspace }}
         continue-on-error: true
 
       - name: 更新热门配送地 TOP10（每月1号运行）
         id: toploc
-        shell: powershell
         run: |
-          $day = (Get-Date).Day
-          if ($day -ne 1 -and '${{ github.event_name }}' -ne 'workflow_dispatch') {
-            Write-Host "Skipping top locations ETL (monthly, only runs on 1st)"
+          DAY=$(date +%d)
+          if [ "$DAY" != "01" ] && [ "${{ github.event_name }}" != "workflow_dispatch" ]; then
+            echo "Skipping top locations ETL (monthly, only runs on 1st)"
             exit 0
-          }
+          fi
           python etl_delivery_top_locations.py --key ${{ secrets.AMAP_KEY }} --output-dir ./output
         working-directory: ${{ github.workspace }}
         continue-on-error: true
@@ -106,42 +108,37 @@ jobs:
         continue-on-error: true
 
       - name: 部署到 store-network 目录
-        shell: powershell
         run: |
-          New-Item -ItemType Directory -Force -Path store-network/assets | Out-Null
-          New-Item -ItemType Directory -Force -Path store-network/data/delivery | Out-Null
-          if (Test-Path store-network-v2/dist/index.html) {
-            Copy-Item -Force store-network-v2/dist/index.html store-network/index.html
-            Copy-Item -Force store-network-v2/dist/assets/* store-network/assets/
-            Copy-Item -Force store-network-v2/public/favicon.svg store-network/
-            Copy-Item -Force store-network-v2/public/icons.svg store-network/
-            Remove-Item -Recurse -Force store-network-v2/dist
-            Write-Host "Build deployed"
-          }
-          # 复制数据文件
-          if (Test-Path store-network-v2/public/data/stores.json) {
-            Copy-Item -Force store-network-v2/public/data/*.json store-network/data/
-            Copy-Item -Force -Recurse store-network-v2/public/data/delivery/* store-network/data/delivery/
-            Write-Host "Data files copied"
-          }
+          mkdir -p store-network/assets store-network/data/delivery
+          if [ -f store-network-v2/dist/index.html ]; then
+            cp -f store-network-v2/dist/index.html store-network/index.html
+            cp -f store-network-v2/dist/assets/* store-network/assets/
+            cp -f store-network-v2/public/favicon.svg store-network/
+            cp -f store-network-v2/public/icons.svg store-network/
+            rm -rf store-network-v2/dist
+            echo "Build deployed"
+          fi
+          if [ -f store-network-v2/public/data/stores.json ]; then
+            cp -f store-network-v2/public/data/*.json store-network/data/
+            cp -rf store-network-v2/public/data/delivery/* store-network/data/delivery/
+            echo "Data files copied"
+          fi
         working-directory: ${{ github.workspace }}
         continue-on-error: true
 
       # ===== 提交推送 =====
       - name: 提交并推送到 GitHub
-        shell: powershell
         run: |
           git config user.name "Wagas Bot"
           git config user.email "bot@wagas.com"
           git add store-network/ store-network-v2/data/ store-network-v2/public/data/ output/
-          $hasChanges = git diff --staged --quiet 2>&1
-          if ($LASTEXITCODE -ne 0) {
-            $today = Get-Date -Format "yyyy-MM-dd"
-            git commit -m "Daily update $today"
+          if ! git diff --staged --quiet; then
+            TODAY=$(date +%Y-%m-%d)
+            git commit -m "Daily update $TODAY"
             git push
-            Write-Host "Committed and pushed"
-          } else {
-            Write-Host "No changes to commit"
-          }
+            echo "Committed and pushed"
+          else
+            echo "No changes to commit"
+          fi
         working-directory: ${{ github.workspace }}
         continue-on-error: true
