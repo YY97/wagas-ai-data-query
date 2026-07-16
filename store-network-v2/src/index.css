@@ -73,8 +73,8 @@ body {
 
 /* 自定义弹窗卡片 */
 .store-popup-card {
-  min-width: 220px;
-  max-width: 280px;
+  min-width: 300px;
+  max-width: 360px;
   max-height: 70vh;
   overflow-y: auto;
   background: #fff;

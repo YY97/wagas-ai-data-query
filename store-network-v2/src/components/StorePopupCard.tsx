@@ -49,7 +49,7 @@ function fm(n: number | null | undefined): string {
 }
 
 const popupStyle: React.CSSProperties = {
-  minWidth: '220px', maxWidth: '280px', fontSize: '10px', lineHeight: 1.5,
+  minWidth: '300px', maxWidth: '360px', fontSize: '10px', lineHeight: 1.5,
 };
 
 const sectionBase: React.CSSProperties = {

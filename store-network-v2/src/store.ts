@@ -26,7 +26,7 @@ interface AppState {
   setSelectedStore: (store: Store | null) => void;
   setLoading: (loading: boolean) => void;
   getAds: (sid: string) => number | null;
-  initData: (stores: Store[], salesData: SalesData, channelSales: any, dateRange: { start: string; end: string }) => void;
+  initData: (stores: Store[], salesData: SalesData, channelSales: any, weatherData: any, dateRange: { start: string; end: string }) => void;
 }
 
 const defaultFilters: Filters = {
@@ -94,7 +94,7 @@ export const useAppStore = create<AppState>((set, get) => ({
 
   initData: (stores, salesData, channelSales, weatherData, dateRange) => {
     const allDates = new Set<string>();
-    Object.values(salesData).forEach(storeSales => {
+    Object.values(salesData).forEach((storeSales: Record<string, number>) => {
       Object.keys(storeSales).forEach(date => allDates.add(date));
     });
     const sortedDates = Array.from(allDates).sort();
