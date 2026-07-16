@@ -1,4 +1,4 @@
-import { useState } from 'react';
+import { useState, useRef, useEffect } from 'react';
 import { useAppStore } from '../store';
 
 function adsColorHex(v: number | null): string {
@@ -129,8 +129,60 @@ export default function StorePopupCard({
     );
   }
 
+  const cardRef = useRef<HTMLDivElement>(null);
+  const dragRef = useRef({ dragging: false, startX: 0, startY: 0, origX: 0, origY: 0 });
+
+  useEffect(() => {
+    const el = cardRef.current;
+    if (!el) return;
+    const onMove = (e: MouseEvent) => {
+      if (!dragRef.current.dragging) return;
+      const dx = e.clientX - dragRef.current.startX;
+      const dy = e.clientY - dragRef.current.startY;
+      el.style.transform = `translate(${dx}px, ${dy}px)`;
+    };
+    const onUp = () => {
+      if (!dragRef.current.dragging) return;
+      dragRef.current.dragging = false;
+      // 记录最终偏移
+      const rect = el.getBoundingClientRect();
+      el.style.left = `${rect.left}px`;
+      el.style.top = `${rect.top}px`;
+      el.style.transform = '';
+      el.style.position = 'fixed';
+    };
+    document.addEventListener('mousemove', onMove);
+    document.addEventListener('mouseup', onUp);
+    return () => {
+      document.removeEventListener('mousemove', onMove);
+      document.removeEventListener('mouseup', onUp);
+    };
+  }, []);
+
+  const onDragStart = (e: React.MouseEvent) => {
+    if (!cardRef.current) return;
+    dragRef.current.dragging = true;
+    dragRef.current.startX = e.clientX;
+    dragRef.current.startY = e.clientY;
+    // 切换为 relative 定位以支持拖拽
+    cardRef.current.style.position = 'relative';
+    cardRef.current.style.left = 'auto';
+    cardRef.current.style.top = 'auto';
+    cardRef.current.style.transform = 'translate(0, 0)';
+  };
+
   return (
-    <div className="store-popup-card" style={popupStyle}>
+    <div className="store-popup-card" ref={cardRef} style={popupStyle}>
+      {/* 拖拽手柄 */}
+      <div
+        onMouseDown={onDragStart}
+        style={{
+          width: '100%', height: '8px', cursor: 'grab',
+          background: 'linear-gradient(to bottom, #e2e8f0, transparent)',
+          borderRadius: '8px 8px 0 0', marginBottom: '4px',
+          userSelect: 'none',
+        }}
+      />
       {/* 门店名称 + Store ID */}
       <div style={{ fontWeight: 700, color: '#1e293b', fontSize: '13px', marginBottom: '3px' }}>
         {s.name} {s.sid}

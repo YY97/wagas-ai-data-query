@@ -46,7 +46,12 @@ body {
 }
 
 /* Leaflet 弹窗自定义 */
+.store-popup-leaflet {
+  pointer-events: none !important;
+}
+
 .store-popup-leaflet .leaflet-popup-content-wrapper {
+  pointer-events: auto !important;
   padding: 0 !important;
   border-radius: 8px !important;
   box-shadow: 0 4px 20px rgba(0,0,0,0.18) !important;
@@ -55,10 +60,15 @@ body {
 .store-popup-leaflet .leaflet-popup-content {
   margin: 0 !important;
   line-height: normal !important;
+  width: auto !important;
 }
 
 .store-popup-leaflet .leaflet-popup-tip {
-  border-top-color: #fff !important;
+  display: none !important;
+}
+
+.store-popup-leaflet .leaflet-popup-close-button {
+  display: none !important;
 }
 
 /* 自定义弹窗卡片 */
@@ -69,24 +79,10 @@ body {
   overflow-y: auto;
   background: #fff;
   border-radius: 8px;
-  box-shadow: 0 4px 20px rgba(0,0,0,0.18);
+  box-shadow: none;
   padding: 12px 14px;
   font-family: -apple-system, "SF Pro", "PingFang SC", "Microsoft YaHei", sans-serif;
   font-size: 10px;
   line-height: 1.5;
   position: relative;
-}
-
-/* 小三角指针 */
-.store-popup-card::before {
-  content: '';
-  position: absolute;
-  left: -8px;
-  top: 18px;
-  width: 0;
-  height: 0;
-  border-top: 8px solid transparent;
-  border-bottom: 8px solid transparent;
-  border-right: 8px solid #fff;
-  filter: drop-shadow(-2px 0 2px rgba(0,0,0,0.08));
 }
