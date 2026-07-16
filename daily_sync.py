@@ -305,6 +305,34 @@ def step2_weather(skip=False):
     save_json(existing, os.path.join(V2_DATA, "weather_data.json"), os.path.join(V2_DEPLOY, "weather_data.json"))
     print(f"  weather_data.json 已更新")
 
+def step3_sales_json():
+    """从 store_daily_sales.csv 重新生成 sales_data.json"""
+    print("\n=== Step 3: 生成 sales_data.json ===")
+    csv_path = os.path.join(OUTPUT_DIR, "store_daily_sales.csv")
+    if not os.path.exists(csv_path):
+        print("  [SKIP] store_daily_sales.csv 不存在")
+        return False
+
+    sales = {}
+    with open(csv_path, "r", encoding="utf-8-sig") as f:
+        for row in csv.DictReader(f):
+            # 使用动态键名避免编码问题
+            keys = list(row.keys())
+            if len(keys) < 3:
+                continue
+            sid = row.get(keys[1], "").strip()
+            od = row.get(keys[0], "").strip()
+            val = float(row.get(keys[2], 0) or 0)
+            if sid and od:
+                sales.setdefault(sid, {})[od] = val
+
+    save_json(sales, os.path.join(V2_DATA, "sales_data.json"), os.path.join(V2_DEPLOY, "sales_data.json"))
+    total_dates = set()
+    for v in sales.values():
+        total_dates.update(v.keys())
+    print(f"  sales_data.json 已更新：{len(sales)} 店，{len(total_dates)} 天，最新：{max(total_dates) if total_dates else 'N/A'}")
+    return True
+
 def main():
     parser = argparse.ArgumentParser(description="Wagas 门店网络 v2 每日同步")
     parser.add_argument("--skip-weather", action="store_true", help="跳过天气数据")
@@ -317,6 +345,7 @@ def main():
     print("=" * 60)
 
     step1_store_master()
+    step3_sales_json()
     step2_weather(skip=args.skip_weather)
 
     print("\n" + "=" * 60)
