@@ -222,13 +222,13 @@ export default function MapView() {
         <AutoFitBounds stores={filteredStores} />
 
         {(layers.showCircles1km || !layers.showMarkers) && filteredStores.map(s => (
-          <Circle key={`c1-${s.sid}`} center={[s.lat, s.lng]} radius={1000}
+          <Circle key={`c1-${s.sid}`} center={[s.lat, s.lng]} radius={1000} interactive={false}
             pathOptions={{ color: s.overlap >= 3 ? '#dc2626' : '#3b82f6', weight: (s.overlap >= 3 && layers.highlightOverlap) ? 2 : 1,
               fillColor: s.overlap >= 3 ? '#dc2626' : '#3b82f6', fillOpacity: 0.06 }} />
         ))}
 
         {layers.showCircles3km && filteredStores.map(s => (
-          <Circle key={`c3-${s.sid}`} center={[s.lat, s.lng]} radius={3000}
+          <Circle key={`c3-${s.sid}`} center={[s.lat, s.lng]} radius={3000} interactive={false}
             pathOptions={{ color: '#22c55e', weight: 1, fillColor: '#22c55e', fillOpacity: 0.04, dashArray: '6,4' }} />
         ))}
 
