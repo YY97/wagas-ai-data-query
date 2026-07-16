@@ -105,7 +105,7 @@ export default function StorePopupCard({
   // 最小化状态：只显示小条
   if (minimized) {
     return (
-      <div style={{
+      <div onClick={(e) => { e.stopPropagation(); setMinimized(false); }} style={{
         background: '#fff', borderRadius: '6px', padding: '6px 10px',
         boxShadow: '0 2px 10px rgba(0,0,0,0.15)', display: 'flex',
         alignItems: 'center', gap: '8px', fontSize: '11px', cursor: 'pointer',
@@ -118,7 +118,8 @@ export default function StorePopupCard({
           <div style={{ fontSize: '9px', color: '#94a3b8' }}>{s.brand} &middot; {s.city}</div>
         </div>
         <button
-          onClick={() => setMinimized(false)}
+          type="button"
+          onClick={(e) => { e.stopPropagation(); setMinimized(false); }}
           style={{
             background: '#f1f5f9', border: '1px solid #e2e8f0', borderRadius: '4px',
             padding: '2px 6px', fontSize: '10px', cursor: 'pointer', color: '#475569',
@@ -175,7 +176,7 @@ export default function StorePopupCard({
     <div className="store-popup-card" ref={cardRef} style={popupStyle}>
       {/* 拖拽手柄 */}
       <div
-        onMouseDown={onDragStart}
+        onMouseDown={(e) => { e.stopPropagation(); onDragStart(e); }}
         style={{
           width: '100%', height: '8px', cursor: 'grab',
           background: 'linear-gradient(to bottom, #e2e8f0, transparent)',
@@ -267,12 +268,12 @@ export default function StorePopupCard({
       {/* 按钮区 */}
       <div style={{ display: 'flex', gap: '4px', marginTop: '6px' }}>
         {!showTopLoc ? (
-          <button onClick={() => setShowTopLoc(true)}
+          <button type="button" onClick={(e) => { e.stopPropagation(); setShowTopLoc(true); }}
             style={{ padding: '4px 10px', borderRadius: '5px', border: 'none', fontSize: '11px', fontWeight: 600, cursor: 'pointer', background: '#3b82f6', color: '#fff' }}>
             &#128205; 热门配送地</button>
         ) : null}
         {!showWeather ? (
-          <button onClick={() => setShowWeather(true)}
+          <button type="button" onClick={(e) => { e.stopPropagation(); setShowWeather(true); }}
             style={{ padding: '4px 10px', borderRadius: '5px', border: 'none', fontSize: '11px', fontWeight: 600, cursor: 'pointer', background: '#8b5cf6', color: '#fff' }}>
             &#127780; 天气趋势</button>
         ) : null}
@@ -384,7 +385,8 @@ export default function StorePopupCard({
 
       {/* 外卖热力图按钮 */}
       <button
-        onClick={onToggleHeatmap}
+        type="button"
+        onClick={(e) => { e.stopPropagation(); onToggleHeatmap(); }}
         style={{
           display: 'block', width: '100%', padding: '4px 10px', marginTop: '8px',
           borderRadius: '5px', border: 'none', fontSize: '11px',
@@ -397,12 +399,12 @@ export default function StorePopupCard({
 
       {/* 操作按钮区 */}
       <div style={{ display: 'flex', gap: '4px', marginTop: '4px' }}>
-        <button onClick={() => setMinimized(true)} style={{
+        <button type="button" onClick={(e) => { e.stopPropagation(); setMinimized(true); }} style={{
           flex: 1, padding: '3px', borderRadius: '4px',
           border: '1px solid #e2e8f0', fontSize: '10px',
           cursor: 'pointer', background: '#f1f5f9', color: '#475569',
         }}>收起 ▴</button>
-        <button onClick={onClose} style={{
+        <button type="button" onClick={(e) => { e.stopPropagation(); onClose(); }} style={{
           flex: 1, padding: '3px', borderRadius: '4px',
           border: '1px solid #e2e8f0', fontSize: '10px',
           cursor: 'pointer', background: '#f8fafc', color: '#64748b',
