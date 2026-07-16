@@ -27,6 +27,22 @@ body {
   transform: scale(1.2);
 }
 
+/* 水滴形指针标记 */
+.store-pin-marker {
+  background: transparent !important;
+  border: none !important;
+}
+
+.store-pin-marker svg {
+  filter: drop-shadow(0 2px 3px rgba(0,0,0,0.3));
+  transition: transform 0.15s ease;
+}
+
+.store-pin-marker:hover svg {
+  transform: scale(1.15);
+  filter: drop-shadow(0 3px 5px rgba(0,0,0,0.4));
+}
+
 /* 滚动条样式 */
 ::-webkit-scrollbar {
   width: 6px;

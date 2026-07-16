@@ -1,5 +1,5 @@
 import { useEffect, useRef, useState, useCallback } from 'react';
-import { MapContainer, TileLayer, CircleMarker, Circle, Marker, useMap } from 'react-leaflet';
+import { MapContainer, TileLayer, Circle, Marker, useMap } from 'react-leaflet';
 import L from 'leaflet';
 import 'leaflet/dist/leaflet.css';
 import 'leaflet.heat';
@@ -20,6 +20,25 @@ const BRAND_COLORS: Record<string, string> = {
   'Lokal': '#22c55e', 'JUNi': '#8b5cf6', 'Funk&Kale': '#06b6d4', 'Funk & Kale': '#06b6d4',
 };
 function brandColor(brand: string): string { return BRAND_COLORS[brand] || '#6b7280'; }
+
+// 生成水滴形指针图标
+function createPinIcon(color: string, isSelected: boolean, isHighOverlap: boolean): L.DivIcon {
+  const size = isSelected ? 32 : (isHighOverlap ? 28 : 24);
+  const stroke = isSelected ? '#f97316' : (isHighOverlap ? '#c2410c' : '#fff');
+  const strokeWidth = isSelected ? 3 : (isHighOverlap ? 2.5 : 2);
+  const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="${size}" height="${size * 1.3}" viewBox="0 0 ${size} ${size * 1.3}">
+    <path d="M${size/2} ${size * 1.25} C${size/2} ${size * 1.25}, 0 ${size * 0.7}, 0 ${size * 0.45} A${size/2} ${size * 0.45} 0 1 1 ${size} ${size * 0.45} C${size} ${size * 0.7}, ${size/2} ${size * 1.25}, ${size/2} ${size * 1.25}Z"
+      fill="${color}" stroke="${stroke}" stroke-width="${strokeWidth}" stroke-linejoin="round"/>
+    <circle cx="${size/2}" cy="${size * 0.42}" r="${size * 0.18}" fill="#fff" opacity="0.9"/>
+  </svg>`;
+  return L.divIcon({
+    className: 'store-pin-marker',
+    html: svg,
+    iconSize: [size, size * 1.3],
+    iconAnchor: [size / 2, size * 1.25],
+    popupAnchor: [0, -size * 0.8],
+  });
+}
 
 function haversineKm(lat1: number, lng1: number, lat2: number, lng2: number): number {
   const R = 6371, dLat = (lat2-lat1)*Math.PI/180, dLng = (lng2-lng1)*Math.PI/180;
@@ -237,8 +256,8 @@ export default function MapView() {
           const color = isSel ? '#f97316' : (layers.colorByAds ? adsColor(getAds(s.sid)) : brandColor(s.brand));
           const hi = s.overlap >= 3;
           return (
-            <CircleMarker key={s.sid} center={[s.lat, s.lng]} radius={hi ? 8 : 5}
-              pathOptions={{ color: hi ? '#c2410c' : '#fff', weight: hi ? 3 : 2, fillColor: color, fillOpacity: 0.85 }}
+            <Marker key={s.sid} position={[s.lat, s.lng]}
+              icon={createPinIcon(color, isSel, hi)}
               eventHandlers={{ click: () => handleStoreClick(s) }} />
           );
         })}
