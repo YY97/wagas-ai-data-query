@@ -81,12 +81,17 @@ def step1_store_master():
         print("  [SKIP] store_master.csv 不存在")
         return False
 
-    # 读取门店
+    # 读取门店（过滤掉云厨子店）
     stores = []
+    skipped_sub = 0
     with open(csv_path, 'r', encoding='utf-8-sig') as f:
         for row in csv.DictReader(f):
             sid = row.get('Store_ID', '').strip()
             if not sid: continue
+            # 云厨子店不纳入门店网络展示
+            if row.get('是否子店', '').strip() == '是':
+                skipped_sub += 1
+                continue
             try:
                 wgs_lng = float(row.get('经度', 0) or 0)
                 wgs_lat = float(row.get('纬度', 0) or 0)
@@ -101,7 +106,7 @@ def step1_store_master():
                 'ads': 0, 'market': None, 'overlap': 0, 'overlap_names': [],
                 'channel': None, 'dist': None
             })
-    print(f"  门店: {len(stores)}")
+    print(f"  门店: {len(stores)}（已过滤 {skipped_sub} 家云厨子店）")
 
     # 合并 ADS（从 sales_data.json）
     sales_path = os.path.join(V2_DATA, "sales_data.json")
