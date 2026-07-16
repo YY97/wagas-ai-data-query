@@ -68,14 +68,10 @@ jobs:
         run: |
           MONTH=$(date +%m)
           DAY=$(date +%d)
-          IS_QUARTERLY=false
-          if [ "$MONTH" = "01" ] || [ "$MONTH" = "04" ] || [ "$MONTH" = "07" ] || [ "$MONTH" = "10" ]; then
-            if [ "$DAY" = "01" ]; then IS_QUARTERLY=true; fi
-          fi
-          if [ "$IS_QUARTERLY" = "true" ] || [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+          if { [ "$MONTH" = "01" ] || [ "$MONTH" = "04" ] || [ "$MONTH" = "07" ] || [ "$MONTH" = "10" ]; } && [ "$DAY" = "01" ]; then
             python etl_market_context.py --key ${{ secrets.AMAP_KEY }} --output-dir ./output
           else
-            echo "Skipping market ETL (quarterly only: Jan/Apr/Jul/Oct 1st, today=${MONTH}-${DAY})"
+            echo "Skipping market ETL (today=${MONTH}-${DAY}, only runs 1st of Jan/Apr/Jul/Oct)"
           fi
         working-directory: ${{ github.workspace }}
         continue-on-error: true
@@ -84,10 +80,10 @@ jobs:
         id: toploc
         run: |
           DAY=$(date +%d)
-          if [ "$DAY" = "01" ] || [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+          if [ "$DAY" = "01" ]; then
             python etl_delivery_top_locations.py --key ${{ secrets.AMAP_KEY }} --output-dir ./output
           else
-            echo "Skipping top locations ETL (monthly, only runs on 1st, today=$DAY)"
+            echo "Skipping top locations ETL (today=$DAY, only runs on 1st)"
           fi
         working-directory: ${{ github.workspace }}
         continue-on-error: true
