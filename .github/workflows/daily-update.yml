@@ -12,6 +12,7 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+      issues: write  # 数据断档时自动开 Issue 告警
 
     steps:
       - name: 检出代码
@@ -53,6 +54,12 @@ jobs:
       - name: 拉取销售数据（近2天增量）
         id: sales
         run: python etl_pull_data.py --days 2 --output-dir ./output
+        working-directory: ${{ github.workspace }}
+        continue-on-error: true
+
+      - name: 更新渠道销售拆分（近2天增量）
+        id: channel
+        run: python etl_channel_sales.py 2 --output-dir ./output
         working-directory: ${{ github.workspace }}
         continue-on-error: true
 
@@ -138,3 +145,27 @@ jobs:
           fi
         working-directory: ${{ github.workspace }}
         continue-on-error: true
+
+      # ===== 数据新鲜度检查（最后执行，断档自动开 Issue，不阻断流程）=====
+      - name: 数据新鲜度检查
+        if: always()
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          LATEST=$(tail -n +2 output/store_daily_sales.csv | cut -d',' -f1 | sort | tail -1)
+          YESTERDAY=$(date -d "yesterday" +%Y-%m-%d)
+          echo "CSV 最新日期: $LATEST | 期望: $YESTERDAY"
+          if [[ "$LATEST" < "$YESTERDAY" ]]; then
+            echo "::warning::销售数据断档：最新 $LATEST，应为 $YESTERDAY"
+            OPEN=$(gh issue list --repo ${{ github.repository }} --state open --search "数据更新告警 in:title" --json number --jq '.[0].number' 2>/dev/null || echo "")
+            if [ -z "$OPEN" ]; then
+              BODY=$(printf '每日 ETL 未拉到最新数据。\n\n- CSV 最新日期: %s\n- 期望日期: %s\n- Workflow: %s\n\n请检查 guancli 登录状态与 BI 可达性。数据恢复后请手动关闭本 Issue。' "$LATEST" "$YESTERDAY" "${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}")
+              gh issue create --repo ${{ github.repository }} --title "⚠️ 数据更新告警：销售数据停留在 $LATEST" --body "$BODY"
+              echo "已创建告警 Issue"
+            else
+              echo "已存在告警 Issue #$OPEN，跳过重复创建"
+            fi
+          else
+            echo "数据新鲜，无需告警"
+          fi
+        working-directory: ${{ github.workspace }}
