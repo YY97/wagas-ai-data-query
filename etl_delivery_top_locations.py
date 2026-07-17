@@ -87,6 +87,9 @@ def reverse_geo_name(key, lng, lat):
             best_name = neighborhood.get("name", "")
         elif isinstance(neighborhood, str):
             best_name = neighborhood
+    # 过滤无效名称（空字符串、"[]" 等）
+    if best_name in ("", "[]", "null", "undefined"):
+        best_name = ""
     return best_name
 
 
