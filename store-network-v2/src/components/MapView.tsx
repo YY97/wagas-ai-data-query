@@ -373,6 +373,7 @@ export default function MapView() {
                 <table style={{ width:'100%',borderCollapse:'collapse',fontSize:'12px' }}>
                   <tbody>
                     <DataRow label="销售数据" value="每日 7:00 / 8:00 自动更新" />
+                    <DataRow label="外卖配送热力图" value="每日更新，展示近 30 天数据" />
                     <DataRow label="热门配送地" value="每月 1 日更新" />
                     <DataRow label="商圈环境" value="每季度（1/4/7/10 月）1 日更新" />
                     <DataRow label="门店总数" value="361 家（已排除 112 家云厨子店）" />
