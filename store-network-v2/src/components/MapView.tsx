@@ -40,40 +40,6 @@ function createPinIcon(color: string, isSelected: boolean, isHighOverlap: boolea
   });
 }
 
-function haversineKm(lat1: number, lng1: number, lat2: number, lng2: number): number {
-  const R = 6371, dLat = (lat2-lat1)*Math.PI/180, dLng = (lng2-lng1)*Math.PI/180;
-  const a = Math.sin(dLat/2)**2 + Math.cos(lat1*Math.PI/180)*Math.cos(lat2*Math.PI/180)*Math.sin(dLng/2)**2;
-  return R * 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1-a));
-}
-
-function getTopDeliveryMarkers(pts: any[], maxMarkers: number = 10) {
-  if (!pts || pts.length === 0) return [];
-  // 按权重降序排列
-  const sorted = pts.map((p: any, i: number) => ({ ...p, idx: i })).sort((a: any, b: any) => (b.w || 1) - (a.w || 1));
-  const clusters: any[] = [];
-  const assigned = new Set<number>();
-
-  for (const p of sorted) {
-    if (assigned.has(p.idx)) continue;
-    // 找到 150m 内的所有未分配点，合并为一个簇
-    let sumW = p.w || 1, sumLat = p.lat * (p.w || 1), sumLng = p.lng * (p.w || 1), count = 1;
-    assigned.add(p.idx);
-    for (const q of sorted) {
-      if (assigned.has(q.idx)) continue;
-      if (haversineKm(p.lat, p.lng, q.lat, q.lng) <= 0.15) {
-        const qw = q.w || 1;
-        sumW += qw; sumLat += q.lat * qw; sumLng += q.lng * qw; count++;
-        assigned.add(q.idx);
-      }
-    }
-    clusters.push({ lat: sumLat / sumW, lng: sumLng / sumW, totalWeight: sumW, pointCount: count });
-    if (clusters.length >= maxMarkers) break;
-  }
-  // 按总权重排序，编号 1-N
-  clusters.sort((a, b) => b.totalWeight - a.totalWeight);
-  return clusters.slice(0, maxMarkers).map((c, i) => ({ rank: i + 1, lat: c.lat, lng: c.lng, count: c.totalWeight }));
-}
-
 function HeatmapLayer({ points }: { points: [number, number, number][] }) {
   const map = useMap();
   const heatRef = useRef<any>(null);
@@ -216,13 +182,10 @@ export default function MapView() {
     }
   }
 
-  // TOP10 标记
+  // TOP10 标记 - 使用 top_locations 数据（包含坐标）
   const topLocMarkers: any[] = [];
-  if (showDelivery && selectedStore) {
-    const pts = deliveryData[selectedStore.city]?.[selectedStore.sid];
-    if (Array.isArray(pts)) {
-      topLocMarkers.push(...getTopDeliveryMarkers(pts));
-    }
+  if (showDelivery && selectedStore?.top_locations) {
+    topLocMarkers.push(...selectedStore.top_locations.slice(0, 10));
   }
 
   const deliveryCount = showDelivery && selectedStore ? (deliveryData[selectedStore.city]?.[selectedStore.sid]?.length || 0) : 0;

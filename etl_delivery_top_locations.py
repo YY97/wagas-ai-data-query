@@ -205,7 +205,9 @@ def main():
                 "排名": rank,
                 "地点名称": loc_name,
                 "距离(km)": dist_km,
-                "配送次数": weight
+                "配送次数": weight,
+                "纬度": plat,
+                "经度": plng
             })
 
         processed += 1
@@ -213,7 +215,7 @@ def main():
             print(f"  [{processed}/{len(store_coords)}] 已处理")
 
     # 写 CSV
-    fieldnames = ["门店ID", "排名", "地点名称", "距离(km)", "配送次数"]
+    fieldnames = ["门店ID", "排名", "地点名称", "距离(km)", "配送次数", "纬度", "经度"]
     os.makedirs(output_dir, exist_ok=True)
     with open(out_csv, "w", newline="", encoding="utf-8-sig") as f:
         w = csv.DictWriter(f, fieldnames=fieldnames)

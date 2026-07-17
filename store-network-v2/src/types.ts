@@ -52,6 +52,8 @@ export interface TopLocation {
   name: string;
   dist: number;
   count: number;
+  lat: number;
+  lng: number;
 }
 
 // 销售数据类型
