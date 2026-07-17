@@ -142,6 +142,7 @@ export default function MapView() {
   const [showDelivery, setShowDelivery] = useState(false);
   const [popupVisible, setPopupVisible] = useState(true);
   const [contourStores, setContourStores] = useState<string[]>([]); // 选中的配送轮廓门店 ID
+  const [showHelp, setShowHelp] = useState(false); // 帮助面板
 
   // 配送轮廓颜色（最多 5 家）
   const CONTOUR_COLORS = ['#3b82f6', '#f97316', '#22c55e', '#a855f7', '#ec4899'];
@@ -345,6 +346,130 @@ export default function MapView() {
           Ctrl+点击门店添加对比（最多 5 家）
         </div>
       )}
+
+      {/* 帮助按钮 */}
+      <button onClick={() => setShowHelp(true)}
+        style={{ position:'absolute',bottom:'12px',right:'12px',zIndex:999,
+          width:'36px',height:'36px',borderRadius:'50%',border:'1px solid #e2e8f0',
+          background:'#fff',color:'#64748b',fontSize:'18px',fontWeight:700,cursor:'pointer',
+          boxShadow:'0 2px 8px rgba(0,0,0,0.1)',display:'flex',alignItems:'center',justifyContent:'center' }}>
+        ?
+      </button>
+
+      {/* 帮助面板 */}
+      {showHelp && (
+        <div style={{ position:'absolute',top:0,left:0,right:0,bottom:0,zIndex:1000,
+          background:'rgba(0,0,0,0.4)',display:'flex',alignItems:'center',justifyContent:'center' }}
+          onClick={() => setShowHelp(false)}>
+          <div style={{ background:'#fff',borderRadius:'12px',padding:'24px',maxWidth:'560px',width:'90%',
+            maxHeight:'80vh',overflowY:'auto',boxShadow:'0 8px 32px rgba(0,0,0,0.2)' }}
+            onClick={e => e.stopPropagation()}>
+            <div style={{ display:'flex',justifyContent:'space-between',alignItems:'center',marginBottom:'16px' }}>
+              <h2 style={{ margin:0,fontSize:'18px',color:'#0f172a' }}>Wagas 门店经营地图 - 使用说明</h2>
+              <button onClick={() => setShowHelp(false)}
+                style={{ background:'none',border:'none',fontSize:'20px',cursor:'pointer',color:'#64748b' }}>×</button>
+            </div>
+
+            <div style={{ fontSize:'13px',color:'#334155',lineHeight:1.6 }}>
+              <Section title="🗺️ 快速上手">
+                <ul style={{ margin:'4px 0',paddingLeft:'20px' }}>
+                  <li>点击地图上的门店标记，查看经营详情</li>
+                  <li>左侧面板可筛选品牌、城市、ADS 区间等</li>
+                  <li>图层开关控制地图显示内容</li>
+                </ul>
+              </Section>
+
+              <Section title=" 数据说明">
+                <table style={{ width:'100%',borderCollapse:'collapse',fontSize:'12px' }}>
+                  <tbody>
+                    <DataRow label="销售数据" value="每日 7:00 / 8:00 自动更新" />
+                    <DataRow label="热门配送地" value="每月 1 日更新" />
+                    <DataRow label="商圈环境" value="每季度（1/4/7/10 月）1 日更新" />
+                    <DataRow label="门店总数" value="361 家（已排除 112 家云厨子店）" />
+                    <DataRow label="数据延迟" value="BI 数据通常 10:00 后就绪" />
+                  </tbody>
+                </table>
+              </Section>
+
+              <Section title="🔵 配送范围对比">
+                <p style={{ margin:'4px 0' }}>用于分析多家门店的配送范围重叠（蚕食）情况：</p>
+                <ol style={{ margin:'4px 0',paddingLeft:'20px' }}>
+                  <li>打开左侧 <b>配送范围对比</b> 开关</li>
+                  <li><b>Ctrl+点击</b>（Mac 用 Cmd）门店标记，最多选 5 家</li>
+                  <li>每家门店显示不同颜色的配送轮廓</li>
+                  <li>轮廓重叠区域 = 潜在蚕食区域</li>
+                  <li>再次 Ctrl+点击已选门店可取消</li>
+                </ol>
+                <p style={{ margin:'4px 0',fontSize:'11px',color:'#64748b' }}>
+                  注：轮廓基于 70% 订单的配送范围，已排除 95 分位距离外的异常订单
+                </p>
+              </Section>
+
+              <Section title="🔥 外卖热力图">
+                <ol style={{ margin:'4px 0',paddingLeft:'20px' }}>
+                  <li>点击门店打开详情弹窗</li>
+                  <li>点击弹窗中的 <b>外卖热力图</b> 按钮</li>
+                  <li>地图显示该店的配送点分布</li>
+                  <li>颜色越红 = 订单越密集</li>
+                </ol>
+              </Section>
+
+              <Section title="📍 图层说明">
+                <table style={{ width:'100%',borderCollapse:'collapse',fontSize:'12px' }}>
+                  <tbody>
+                    <DataRow label="门店点位" value="显示/隐藏所有门店标记" />
+                    <DataRow label="1km 覆盖圈" value="以门店为圆心的 1km 范围" />
+                    <DataRow label="3km 覆盖圈" value="以门店为圆心的 3km 范围" />
+                    <DataRow label="高亮重合区域" value="1km 内有 3 家以上门店时标红" />
+                    <DataRow label="按销售额着色" value="门店颜色反映日均销售额" />
+                    <DataRow label="配送范围对比" value="开启后可多选门店对比配送轮廓" />
+                  </tbody>
+                </table>
+              </Section>
+
+              <Section title="❓ 常见问题">
+                <Qa q="为什么有些门店看不到？" a="地图已过滤 112 家云厨子店（是否子店=是），只显示 361 家常规门店。" />
+                <Qa q="ADS 是什么意思？" a="ADS = Average Daily Sales，日均销售额。按选定日期区间计算。" />
+                <Qa q="为什么数据不是今天的？" a="销售数据每日 7:00/8:00 更新，但 BI 源数据通常 10:00 后才就绪，所以实际看到的是前天的数据。" />
+                <Qa q="如何对比两家店的蚕食情况？" a="打开'配送范围对比'开关，Ctrl+点击两家门店，查看轮廓重叠区域。" />
+                <Qa q="热门配送地的名称显示'未知'？" a="部分配送坐标无法逆地理编码到具体地点名称，已尽量用地址兜底，极少数仍显示未知。" />
+              </Section>
+
+              <div style={{ marginTop:'16px',paddingTop:'12px',borderTop:'1px solid #e2e8f0',fontSize:'11px',color:'#94a3b8',textAlign:'center' }}>
+                Wagas 门店经营地图 v2 · 最后更新：{new Date().toLocaleDateString('zh-CN')}
+              </div>
+            </div>
+          </div>
+        </div>
+      )}
+    </div>
+  );
+}
+
+// 帮助面板子组件
+function Section({ title, children }: { title: string; children: React.ReactNode }) {
+  return (
+    <div style={{ marginBottom: '16px' }}>
+      <div style={{ fontWeight: 700, color: '#0f172a', marginBottom: '6px', fontSize: '14px' }}>{title}</div>
+      {children}
+    </div>
+  );
+}
+
+function DataRow({ label, value }: { label: string; value: string }) {
+  return (
+    <tr style={{ borderBottom: '1px solid #f1f5f9' }}>
+      <td style={{ padding: '4px 8px 4px 0', color: '#64748b', whiteSpace: 'nowrap' }}>{label}</td>
+      <td style={{ padding: '4px 0', color: '#1e293b' }}>{value}</td>
+    </tr>
+  );
+}
+
+function Qa({ q, a }: { q: string; a: string }) {
+  return (
+    <div style={{ marginBottom: '8px' }}>
+      <div style={{ fontWeight: 600, color: '#0f172a', fontSize: '12px' }}>{q}</div>
+      <div style={{ color: '#475569', fontSize: '12px', marginTop: '2px' }}>{a}</div>
     </div>
   );
 }
