@@ -194,9 +194,11 @@ export default function MapView() {
 
   const deliveryCount = showDelivery && selectedStore ? (deliveryData[selectedStore.city]?.[selectedStore.sid]?.length || 0) : 0;
 
-  // Ctrl+点击选择门店用于配送轮廓对比（最多 4 家）
+  // Ctrl/Cmd+点击选择门店用于配送轮廓对比（最多 4 家）
   const handleStoreClick = (store: any, event?: L.LeafletMouseEvent) => {
-    if (layers.showDeliveryContour && event?.originalEvent?.ctrlKey) {
+    const isCtrlOrCmd = event?.originalEvent?.ctrlKey || event?.originalEvent?.metaKey;
+    if (layers.showDeliveryContour && isCtrlOrCmd) {
+      event?.originalEvent?.stopPropagation?.();
       setContourStores(prev => {
         if (prev.includes(store.sid)) {
           return prev.filter(id => id !== store.sid);
@@ -308,6 +310,29 @@ export default function MapView() {
           background:'rgba(255,255,255,0.95)',color:'#1e293b',padding:'8px 14px',borderRadius:'8px',fontSize:'12px',
           boxShadow:'0 2px 10px rgba(0,0,0,0.1)',border:'1px solid #e2e8f0' }}>
           <span style={{ fontWeight:700,color:'#f97316' }}>{deliveryCount}</span> 个配送地址 &middot; 再次点击关闭
+        </div>
+      )}
+
+      {/* 配送轮廓选择提示 */}
+      {layers.showDeliveryContour && contourStores.length > 0 && (
+        <div style={{ position:'absolute',top:'12px',right:'12px',zIndex:999,
+          background:'rgba(255,255,255,0.95)',color:'#1e293b',padding:'8px 14px',borderRadius:'8px',fontSize:'12px',
+          boxShadow:'0 2px 10px rgba(0,0,0,0.1)',border:'1px solid #e2e8f0',display:'flex',alignItems:'center',gap:'8px' }}>
+          <span>已选 <span style={{ fontWeight:700,color:'#f97316' }}>{contourStores.length}</span>/4 家门店</span>
+          <span style={{ color:'#94a3b8',fontSize:'11px' }}>Ctrl+点击取消</span>
+          <button onClick={() => setContourStores([])}
+            style={{ background:'#ef4444',color:'#fff',border:'none',borderRadius:'4px',padding:'2px 8px',fontSize:'11px',cursor:'pointer' }}>
+            清除
+          </button>
+        </div>
+      )}
+
+      {/* 配送轮廓模式提示（未选择时） */}
+      {layers.showDeliveryContour && contourStores.length === 0 && (
+        <div style={{ position:'absolute',top:'12px',right:'12px',zIndex:999,
+          background:'rgba(255,255,255,0.95)',color:'#64748b',padding:'8px 14px',borderRadius:'8px',fontSize:'12px',
+          boxShadow:'0 2px 10px rgba(0,0,0,0.1)',border:'1px solid #e2e8f0' }}>
+          Ctrl+点击门店添加对比（最多 4 家）
         </div>
       )}
     </div>
