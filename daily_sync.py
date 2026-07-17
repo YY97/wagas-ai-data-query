@@ -440,6 +440,68 @@ def step3_sales_json():
     print(f"  sales_data.json 已更新：{len(sales)} 店，{len(total_dates)} 天，最新：{max(total_dates) if total_dates else 'N/A'}")
     return True
 
+def step4_channel_json():
+    """从 store_channel_sales.csv 生成 channel_sales.json（前端按日渠道拆分）
+
+    输出格式与线上保持一致（稠密）：
+      { sid: { date: {"dine_in": x, "delivery": y} } }
+    全局日期范围内每一天都有键，无销售的日期补 0，避免前端图表断档。
+    """
+    print("\n=== Step 4: 生成 channel_sales.json ===")
+    csv_path = os.path.join(OUTPUT_DIR, "store_channel_sales.csv")
+    if not os.path.exists(csv_path):
+        print("  [SKIP] store_channel_sales.csv 不存在")
+        return False
+
+    # 先收集稀疏数据与全局日期范围
+    sparse = {}
+    all_dates = set()
+    with open(csv_path, "r", encoding="utf-8-sig") as f:
+        for row in csv.DictReader(f):
+            sid = row.get("门店ID", "").strip()
+            od = row.get("营业日期", "").strip()
+            ch = row.get("渠道", "").strip()
+            try:
+                rev = float(row.get("渠道销售额", 0) or 0)
+            except (ValueError, TypeError):
+                continue
+            if not sid or not od:
+                continue
+            all_dates.add(od)
+            d = sparse.setdefault(sid, {}).setdefault(od, {"dine_in": 0.0, "delivery": 0.0})
+            if ch == "店内":
+                d["dine_in"] += rev
+            elif ch == "外卖":
+                d["delivery"] += rev
+
+    if not all_dates:
+        print("  [SKIP] 无渠道数据")
+        return False
+
+    # 稠密展开：全局日期范围内的连续日期序列，缺失日期补 0（与线上格式一致）
+    d0 = date.fromisoformat(min(all_dates))
+    d1 = date.fromisoformat(max(all_dates))
+    date_list = []
+    cur = d0
+    while cur <= d1:
+        date_list.append(cur.isoformat())
+        cur += timedelta(days=1)
+
+    channel = {}
+    for sid, days in sparse.items():
+        entry = {}
+        for ds in date_list:
+            v = days.get(ds)
+            if v:
+                entry[ds] = {"dine_in": round(v["dine_in"], 2), "delivery": round(v["delivery"], 2)}
+            else:
+                entry[ds] = {"dine_in": 0, "delivery": 0}
+        channel[sid] = entry
+
+    save_json(channel, os.path.join(V2_DATA, "channel_sales.json"), os.path.join(V2_DEPLOY, "channel_sales.json"))
+    print(f"  channel_sales.json 已更新：{len(channel)} 店，{len(date_list)} 天，最新：{date_list[-1]}")
+    return True
+
 def main():
     parser = argparse.ArgumentParser(description="Wagas 门店网络 v2 每日同步")
     parser.add_argument("--skip-weather", action="store_true", help="跳过天气数据")
@@ -453,6 +515,7 @@ def main():
 
     step1_store_master()
     step3_sales_json()
+    step4_channel_json()
     step2_weather(skip=args.skip_weather)
 
     print("\n" + "=" * 60)
