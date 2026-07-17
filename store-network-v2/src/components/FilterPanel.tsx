@@ -144,7 +144,7 @@ function ToggleItem({ label, checked, onChange }: { label: string; checked: bool
 }
 
 export default function FilterPanel() {
-  const { stores, filters, setFilter, layers, setLayer, dateRange, allDates, setDateRange } = useAppStore();
+  const { stores, filters, setFilter, layers, setLayer, dateRange, allDates, setDateRange, setShowHelp } = useAppStore();
 
   // === 联动筛选 ===
   // 先按城市过滤，计算可用品牌（带计数）
@@ -279,6 +279,21 @@ export default function FilterPanel() {
         <ToggleItem label="按销售额着色" checked={layers.colorByAds} onChange={v => setLayer('colorByAds', v)} />
         <ToggleItem label="配送范围对比" checked={layers.showDeliveryContour} onChange={v => setLayer('showDeliveryContour', v)} />
       </div>
+
+      {/* 帮助按钮 */}
+      <button onClick={() => setShowHelp(true)}
+        style={{
+          width: '100%', padding: '10px 16px', borderRadius: '8px',
+          border: '1px solid #f97316', background: '#fff7ed', color: '#ea580c',
+          fontSize: '13px', fontWeight: 600, cursor: 'pointer',
+          display: 'flex', alignItems: 'center', justifyContent: 'center', gap: '6px',
+          transition: 'all 0.2s',
+        }}
+        onMouseEnter={e => { e.currentTarget.style.background = '#ffedd5'; }}
+        onMouseLeave={e => { e.currentTarget.style.background = '#fff7ed'; }}>
+        <span style={{ fontSize: '16px' }}>?</span>
+        <span>使用说明</span>
+      </button>
     </div>
   );
 }

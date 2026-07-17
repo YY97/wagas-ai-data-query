@@ -21,11 +21,13 @@ interface AppState {
   layers: LayerToggles;
   selectedStore: Store | null;
   loading: boolean;
+  showHelp: boolean;
   setFilter: <K extends keyof Filters>(key: K, value: Filters[K]) => void;
   setDateRange: (range: { start: string; end: string }) => void;
   setLayer: <K extends keyof LayerToggles>(key: K, value: boolean) => void;
   setSelectedStore: (store: Store | null) => void;
   setLoading: (loading: boolean) => void;
+  setShowHelp: (show: boolean) => void;
   getAds: (sid: string) => number | null;
   initData: (stores: Store[], salesData: SalesData, channelSales: any, weatherData: any, dateRange: { start: string; end: string }) => void;
 }
@@ -61,6 +63,7 @@ export const useAppStore = create<AppState>((set, get) => ({
   layers: defaultLayers,
   selectedStore: null,
   loading: true,
+  showHelp: false,
 
   setFilter: (key, value) => set((state) => ({
     filters: { ...state.filters, [key]: value }
@@ -74,6 +77,8 @@ export const useAppStore = create<AppState>((set, get) => ({
   setLayer: (key, value) => set((state) => ({
     layers: { ...state.layers, [key]: value }
   })),
+
+  setShowHelp: (show) => set({ showHelp: show }),
 
   setSelectedStore: (store) => set({ selectedStore: store }),
   setLoading: (loading) => set({ loading }),

@@ -137,12 +137,11 @@ function AutoFitBounds({ stores }: { stores: any[] }) {
 }
 
 export default function MapView() {
-  const { stores, filters, layers, getAds, selectedStore, setSelectedStore } = useAppStore();
+  const { stores, filters, layers, getAds, selectedStore, setSelectedStore, showHelp, setShowHelp } = useAppStore();
   const [deliveryData, setDeliveryData] = useState<Record<string, any>>({});
   const [showDelivery, setShowDelivery] = useState(false);
   const [popupVisible, setPopupVisible] = useState(true);
   const [contourStores, setContourStores] = useState<string[]>([]); // 选中的配送轮廓门店 ID
-  const [showHelp, setShowHelp] = useState(false); // 帮助面板
 
   // 配送轮廓颜色（最多 5 家）
   const CONTOUR_COLORS = ['#3b82f6', '#f97316', '#22c55e', '#a855f7', '#ec4899'];
@@ -346,15 +345,6 @@ export default function MapView() {
           Ctrl+点击门店添加对比（最多 5 家）
         </div>
       )}
-
-      {/* 帮助按钮 */}
-      <button onClick={() => setShowHelp(true)}
-        style={{ position:'absolute',bottom:'12px',right:'12px',zIndex:999,
-          width:'36px',height:'36px',borderRadius:'50%',border:'1px solid #e2e8f0',
-          background:'#fff',color:'#64748b',fontSize:'18px',fontWeight:700,cursor:'pointer',
-          boxShadow:'0 2px 8px rgba(0,0,0,0.1)',display:'flex',alignItems:'center',justifyContent:'center' }}>
-        ?
-      </button>
 
       {/* 帮助面板 */}
       {showHelp && (
