@@ -275,9 +275,19 @@ export default function MapView() {
       <div style={{ position: 'absolute', bottom: '40px', left: '10px', zIndex: 999,
         background: '#fff', border: '1px solid #e2e8f0', borderRadius: '8px',
         padding: '10px 12px', fontSize: '10px', boxShadow: '0 2px 8px rgba(0,0,0,0.08)' }}>
+        {/* 门店标记说明 */}
+        <div style={{ fontWeight: 600, color: '#475569', marginBottom: '4px' }}>门店标记</div>
+        <div style={{ display:'flex',alignItems:'center',gap:'5px',padding:'1px 0',color:'#64748b',marginBottom:'6px' }}>
+          <svg width="12" height="16" viewBox="0 0 24 32" style={{ flexShrink: 0 }}>
+            <path d="M12 30 C12 30, 0 22, 0 14 A12 14 0 1 1 24 14 C24 22, 12 30, 12 30Z" fill="#f97316" stroke="#fff" strokeWidth="2"/>
+            <circle cx="12" cy="13" r="4" fill="#fff" opacity="0.9"/>
+          </svg>
+          <span>门店位置（颜色见下方说明）</span>
+        </div>
+
         {showDelivery && selectedStore ? (
           <>
-            <div style={{ fontWeight: 600, color: '#475569', marginBottom: '4px' }}>配送距离</div>
+            <div style={{ fontWeight: 600, color: '#475569', marginBottom: '4px', marginTop: '4px' }}>配送距离</div>
             {[{c:'#ef4444',l:'≤1km'},{c:'#f97316',l:'1-2km'},{c:'#eab308',l:'2-3km'},{c:'#3b82f6',l:'3-5km'},{c:'#94a3b8',l:'>5km'}].map(i => (
               <div key={i.l} style={{ display:'flex',alignItems:'center',gap:'5px',padding:'1px 0',color:'#64748b' }}>
                 <span style={{ width:'10px',height:'10px',borderRadius:'50%',background:i.c,flexShrink:0 }} />{i.l}
@@ -286,7 +296,7 @@ export default function MapView() {
           </>
         ) : layers.colorByAds ? (
           <>
-            <div style={{ fontWeight: 600, color: '#475569', marginBottom: '4px' }}>ADS</div>
+            <div style={{ fontWeight: 600, color: '#475569', marginBottom: '4px', marginTop: '4px' }}>按日均销售额</div>
             {[{c:'#93c5fd',l:'<5K'},{c:'#86efac',l:'5-10K'},{c:'#fdba74',l:'10-20K'},{c:'#fca5a5',l:'>20K'}].map(i => (
               <div key={i.l} style={{ display:'flex',alignItems:'center',gap:'5px',padding:'1px 0',color:'#64748b' }}>
                 <span style={{ width:'10px',height:'10px',borderRadius:'3px',background:i.c,flexShrink:0 }} />{i.l}
@@ -295,7 +305,7 @@ export default function MapView() {
           </>
         ) : (
           <>
-            <div style={{ fontWeight: 600, color: '#475569', marginBottom: '4px' }}>品牌</div>
+            <div style={{ fontWeight: 600, color: '#475569', marginBottom: '4px', marginTop: '4px' }}>按品牌</div>
             {[{c:'#e11d48',l:'Wagas'},{c:'#f59e0b',l:'B&S'},{c:'#22c55e',l:'Lokal'},{c:'#8b5cf6',l:'JUNi'},{c:'#06b6d4',l:'F&K'}].map(i => (
               <div key={i.l} style={{ display:'flex',alignItems:'center',gap:'5px',padding:'1px 0',color:'#64748b' }}>
                 <span style={{ width:'10px',height:'10px',borderRadius:'3px',background:i.c,flexShrink:0 }} />{i.l}
