@@ -277,6 +277,7 @@ export default function FilterPanel() {
         <ToggleItem label="3km 覆盖圈" checked={layers.showCircles3km} onChange={v => setLayer('showCircles3km', v)} />
         <ToggleItem label="高亮重合区域" checked={layers.highlightOverlap} onChange={v => setLayer('highlightOverlap', v)} />
         <ToggleItem label="按销售额着色" checked={layers.colorByAds} onChange={v => setLayer('colorByAds', v)} />
+        <ToggleItem label="配送范围对比" checked={layers.showDeliveryContour} onChange={v => setLayer('showDeliveryContour', v)} />
       </div>
     </div>
   );

@@ -15,6 +15,7 @@ export interface Store {
   channel: ChannelData | null;
   dist: DistanceData | null;
   top_locations?: TopLocation[];
+  delivery_contour?: [number, number][];
 }
 
 export interface MarketData {

@@ -1,5 +1,5 @@
 import { useEffect, useRef, useState, useCallback } from 'react';
-import { MapContainer, TileLayer, Circle, Marker, useMap } from 'react-leaflet';
+import { MapContainer, TileLayer, Circle, Marker, Polygon, useMap } from 'react-leaflet';
 import L from 'leaflet';
 import 'leaflet/dist/leaflet.css';
 import 'leaflet.heat';
@@ -141,6 +141,10 @@ export default function MapView() {
   const [deliveryData, setDeliveryData] = useState<Record<string, any>>({});
   const [showDelivery, setShowDelivery] = useState(false);
   const [popupVisible, setPopupVisible] = useState(true);
+  const [contourStores, setContourStores] = useState<string[]>([]); // 选中的配送轮廓门店 ID
+
+  // 配送轮廓颜色（最多 4 家）
+  const CONTOUR_COLORS = ['#3b82f6', '#f97316', '#22c55e', '#a855f7'];
 
   const loadCityDeliveryData = useCallback(async (city: string) => {
     if (deliveryData[city]) return;
@@ -190,7 +194,24 @@ export default function MapView() {
 
   const deliveryCount = showDelivery && selectedStore ? (deliveryData[selectedStore.city]?.[selectedStore.sid]?.length || 0) : 0;
 
-  const handleStoreClick = (store: any) => { setSelectedStore(store); setPopupVisible(true); };
+  // Ctrl+点击选择门店用于配送轮廓对比（最多 4 家）
+  const handleStoreClick = (store: any, event?: L.LeafletMouseEvent) => {
+    if (layers.showDeliveryContour && event?.originalEvent?.ctrlKey) {
+      setContourStores(prev => {
+        if (prev.includes(store.sid)) {
+          return prev.filter(id => id !== store.sid);
+        }
+        if (prev.length >= 4) {
+          alert('最多同时对比 4 家门店');
+          return prev;
+        }
+        return [...prev, store.sid];
+      });
+    } else {
+      setSelectedStore(store);
+      setPopupVisible(true);
+    }
+  };
 
   return (
     <div style={{ width: '100%', height: '100%', position: 'relative' }}>
@@ -216,12 +237,24 @@ export default function MapView() {
 
         {layers.showMarkers && filteredStores.map(s => {
           const isSel = selectedStore?.sid === s.sid;
-          const color = isSel ? '#f97316' : (layers.colorByAds ? adsColor(getAds(s.sid)) : brandColor(s.brand));
+          const isContourSel = contourStores.includes(s.sid);
+          const color = isSel ? '#f97316' : (isContourSel ? CONTOUR_COLORS[contourStores.indexOf(s.sid) % 4] : (layers.colorByAds ? adsColor(getAds(s.sid)) : brandColor(s.brand)));
           const hi = s.overlap >= 3;
           return (
             <Marker key={s.sid} position={[s.lat, s.lng]}
-              icon={createPinIcon(color, isSel, hi)}
-              eventHandlers={{ click: () => handleStoreClick(s) }} />
+              icon={createPinIcon(color, isSel || isContourSel, hi)}
+              eventHandlers={{ click: (e) => handleStoreClick(s, e) }} />
+          );
+        })}
+
+        {/* 配送轮廓多边形 */}
+        {layers.showDeliveryContour && contourStores.map((sid, idx) => {
+          const store = stores.find(s => s.sid === sid);
+          if (!store || !store.delivery_contour || store.delivery_contour.length === 0) return null;
+          const color = CONTOUR_COLORS[idx % 4];
+          return (
+            <Polygon key={`contour-${sid}`} positions={store.delivery_contour}
+              pathOptions={{ color, weight: 2, fillColor: color, fillOpacity: 0.15, interactive: false }} />
           );
         })}
 

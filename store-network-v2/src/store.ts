@@ -7,6 +7,7 @@ export interface LayerToggles {
   showCircles3km: boolean;
   highlightOverlap: boolean;
   colorByAds: boolean;
+  showDeliveryContour: boolean;
 }
 
 interface AppState {
@@ -46,6 +47,7 @@ const defaultLayers: LayerToggles = {
   showCircles3km: false,
   highlightOverlap: false,
   colorByAds: true,
+  showDeliveryContour: false,
 };
 
 export const useAppStore = create<AppState>((set, get) => ({

@@ -215,10 +215,91 @@ def step1_store_master():
     overlap_count = sum(1 for s in stores if s['overlap'] > 0)
     print(f"  有重合门店: {overlap_count}/{len(stores)}")
 
+    # 计算配送轮廓
+    print("  计算配送轮廓...")
+    contours = compute_delivery_contour()
+    for s in stores:
+        s['delivery_contour'] = contours.get(s['sid'], [])
+    contour_count = sum(1 for s in stores if s['delivery_contour'])
+    print(f"  配送轮廓：{contour_count}/{len(stores)} 家门店")
+
     # 保存
     save_json(stores, os.path.join(V2_DATA, "stores.json"), os.path.join(V2_DEPLOY, "stores.json"))
     print(f"  stores.json 已更新 ({len(stores)} 店)")
     return True
+
+def convex_hull(points):
+    """计算点集的凸包（Andrew's monotone chain）"""
+    points = sorted(set(points))
+    if len(points) <= 1:
+        return points
+    lower = []
+    for p in points:
+        while len(lower) >= 2 and cross(lower[-2], lower[-1], p) <= 0:
+            lower.pop()
+        lower.append(p)
+    upper = []
+    for p in reversed(points):
+        while len(upper) >= 2 and cross(upper[-2], upper[-1], p) <= 0:
+            upper.pop()
+        upper.append(p)
+    return lower[:-1] + upper[:-1]
+
+def cross(o, a, b):
+    return (a[0] - o[0]) * (b[1] - o[1]) - (a[1] - o[1]) * (b[0] - o[0])
+
+def chaikin_smooth(points, iterations=2):
+    """Chaikin 算法平滑多边形"""
+    for _ in range(iterations):
+        new_points = []
+        for i in range(len(points)):
+            p0 = points[i]
+            p1 = points[(i + 1) % len(points)]
+            new_points.append((p0[0] * 0.75 + p1[0] * 0.25, p0[1] * 0.75 + p1[1] * 0.25))
+            new_points.append((p0[0] * 0.25 + p1[0] * 0.75, p0[1] * 0.25 + p1[1] * 0.75))
+        points = new_points
+    return points
+
+def compute_delivery_contour():
+    """计算每家门店的 80% 配送轮廓（平滑多边形）"""
+    print("\n=== 配送轮廓计算 ===")
+    dlv_path = os.path.join(OUTPUT_DIR, "delivery_points.json")
+    if not os.path.exists(dlv_path):
+        print("  [SKIP] delivery_points.json 不存在")
+        return {}
+
+    with open(dlv_path, 'r', encoding='utf-8') as f:
+        delivery_data = json.load(f)
+
+    contours = {}
+    for sid, pts in delivery_data.items():
+        if not pts or len(pts) < 5:
+            continue
+        # 按权重排序，取累计 80% 的点
+        sorted_pts = sorted(pts, key=lambda p: p.get('w', 1), reverse=True)
+        total_w = sum(p.get('w', 1) for p in sorted_pts)
+        target_w = total_w * 0.8
+        cum_w = 0
+        selected = []
+        for p in sorted_pts:
+            w = p.get('w', 1)
+            cum_w += w
+            selected.append((p['lng'], p['lat']))  # (x, y) = (lng, lat)
+            if cum_w >= target_w:
+                break
+        if len(selected) < 3:
+            continue
+        # 计算凸包
+        hull = convex_hull(selected)
+        if len(hull) < 3:
+            continue
+        # 平滑
+        smooth_hull = chaikin_smooth(hull, iterations=2)
+        # 转换为 [lat, lng] 格式
+        contours[sid] = [[pt[1], pt[0]] for pt in smooth_hull]
+
+    print(f"  计算完成：{len(contours)} 家门店有配送轮廓")
+    return contours
 
 def step2_weather(skip=False):
     """抓取城市天气数据"""
