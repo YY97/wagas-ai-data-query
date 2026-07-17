@@ -143,8 +143,8 @@ export default function MapView() {
   const [popupVisible, setPopupVisible] = useState(true);
   const [contourStores, setContourStores] = useState<string[]>([]); // 选中的配送轮廓门店 ID
 
-  // 配送轮廓颜色（最多 4 家）
-  const CONTOUR_COLORS = ['#3b82f6', '#f97316', '#22c55e', '#a855f7'];
+  // 配送轮廓颜色（最多 5 家）
+  const CONTOUR_COLORS = ['#3b82f6', '#f97316', '#22c55e', '#a855f7', '#ec4899'];
 
   const loadCityDeliveryData = useCallback(async (city: string) => {
     if (deliveryData[city]) return;
@@ -194,7 +194,7 @@ export default function MapView() {
 
   const deliveryCount = showDelivery && selectedStore ? (deliveryData[selectedStore.city]?.[selectedStore.sid]?.length || 0) : 0;
 
-  // Ctrl/Cmd+点击选择门店用于配送轮廓对比（最多 4 家）
+  // Ctrl/Cmd+点击选择门店用于配送轮廓对比（最多 5 家）
   const handleStoreClick = (store: any, event?: L.LeafletMouseEvent) => {
     const isCtrlOrCmd = event?.originalEvent?.ctrlKey || event?.originalEvent?.metaKey;
     if (layers.showDeliveryContour && isCtrlOrCmd) {
@@ -203,8 +203,8 @@ export default function MapView() {
         if (prev.includes(store.sid)) {
           return prev.filter(id => id !== store.sid);
         }
-        if (prev.length >= 4) {
-          alert('最多同时对比 4 家门店');
+        if (prev.length >= 5) {
+          alert('最多同时对比 5 家门店');
           return prev;
         }
         return [...prev, store.sid];
@@ -318,7 +318,7 @@ export default function MapView() {
         <div style={{ position:'absolute',top:'12px',right:'12px',zIndex:999,
           background:'rgba(255,255,255,0.95)',color:'#1e293b',padding:'8px 14px',borderRadius:'8px',fontSize:'12px',
           boxShadow:'0 2px 10px rgba(0,0,0,0.1)',border:'1px solid #e2e8f0',display:'flex',alignItems:'center',gap:'8px' }}>
-          <span>已选 <span style={{ fontWeight:700,color:'#f97316' }}>{contourStores.length}</span>/4 家门店</span>
+          <span>已选 <span style={{ fontWeight:700,color:'#f97316' }}>{contourStores.length}</span>/5 家门店</span>
           <span style={{ color:'#94a3b8',fontSize:'11px' }}>Ctrl+点击取消</span>
           <button onClick={() => setContourStores([])}
             style={{ background:'#ef4444',color:'#fff',border:'none',borderRadius:'4px',padding:'2px 8px',fontSize:'11px',cursor:'pointer' }}>
@@ -332,7 +332,7 @@ export default function MapView() {
         <div style={{ position:'absolute',top:'12px',right:'12px',zIndex:999,
           background:'rgba(255,255,255,0.95)',color:'#64748b',padding:'8px 14px',borderRadius:'8px',fontSize:'12px',
           boxShadow:'0 2px 10px rgba(0,0,0,0.1)',border:'1px solid #e2e8f0' }}>
-          Ctrl+点击门店添加对比（最多 4 家）
+          Ctrl+点击门店添加对比（最多 5 家）
         </div>
       )}
     </div>

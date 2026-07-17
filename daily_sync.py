@@ -217,7 +217,8 @@ def step1_store_master():
 
     # 计算配送轮廓
     print("  计算配送轮廓...")
-    contours = compute_delivery_contour()
+    store_coords = {s['sid']: (s['lat'], s['lng']) for s in stores}
+    contours = compute_delivery_contour(store_coords)
     for s in stores:
         s['delivery_contour'] = contours.get(s['sid'], [])
     contour_count = sum(1 for s in stores if s['delivery_contour'])
@@ -260,8 +261,8 @@ def chaikin_smooth(points, iterations=2):
         points = new_points
     return points
 
-def compute_delivery_contour():
-    """计算每家门店的 80% 配送轮廓（平滑多边形）"""
+def compute_delivery_contour(store_coords=None):
+    """计算每家门店的 70% 配送轮廓（平滑多边形），排除 95 分位距离外的异常点"""
     print("\n=== 配送轮廓计算 ===")
     dlv_path = os.path.join(OUTPUT_DIR, "delivery_points.json")
     if not os.path.exists(dlv_path):
@@ -271,17 +272,42 @@ def compute_delivery_contour():
     with open(dlv_path, 'r', encoding='utf-8') as f:
         delivery_data = json.load(f)
 
+    if store_coords is None:
+        store_coords = {}
+
     contours = {}
     for sid, pts in delivery_data.items():
         if not pts or len(pts) < 5:
             continue
-        # 按权重排序，取累计 80% 的点
-        sorted_pts = sorted(pts, key=lambda p: p.get('w', 1), reverse=True)
-        total_w = sum(p.get('w', 1) for p in sorted_pts)
-        target_w = total_w * 0.8
+
+        # 获取门店坐标
+        if sid not in store_coords:
+            continue
+        slat, slng = store_coords[sid]
+
+        # 计算每个配送点到门店的距离
+        pts_with_dist = []
+        for p in pts:
+            d = hd(slat, slng, p['lat'], p['lng'])
+            pts_with_dist.append((p, d))
+
+        # 计算 95 分位距离
+        distances = sorted([d for _, d in pts_with_dist])
+        p95_idx = int(len(distances) * 0.95)
+        p95_dist = distances[p95_idx] if p95_idx < len(distances) else distances[-1]
+
+        # 过滤掉超过 95 分位距离的异常点
+        filtered = [(p, d) for p, d in pts_with_dist if d <= p95_dist]
+        if len(filtered) < 5:
+            continue
+
+        # 按权重排序，取累计 70% 的点
+        sorted_pts = sorted(filtered, key=lambda x: x[0].get('w', 1), reverse=True)
+        total_w = sum(p.get('w', 1) for p, _ in sorted_pts)
+        target_w = total_w * 0.7
         cum_w = 0
         selected = []
-        for p in sorted_pts:
+        for p, _ in sorted_pts:
             w = p.get('w', 1)
             cum_w += w
             selected.append((p['lng'], p['lat']))  # (x, y) = (lng, lat)
