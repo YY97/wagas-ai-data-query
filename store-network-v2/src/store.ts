@@ -22,12 +22,14 @@ interface AppState {
   selectedStore: Store | null;
   loading: boolean;
   showHelp: boolean;
+  contourStores: string[];
   setFilter: <K extends keyof Filters>(key: K, value: Filters[K]) => void;
   setDateRange: (range: { start: string; end: string }) => void;
   setLayer: <K extends keyof LayerToggles>(key: K, value: boolean) => void;
   setSelectedStore: (store: Store | null) => void;
   setLoading: (loading: boolean) => void;
   setShowHelp: (show: boolean) => void;
+  setContourStores: (fn: (prev: string[]) => string[]) => void;
   getAds: (sid: string) => number | null;
   initData: (stores: Store[], salesData: SalesData, channelSales: any, weatherData: any, dateRange: { start: string; end: string }) => void;
 }
@@ -49,7 +51,7 @@ const defaultLayers: LayerToggles = {
   showCircles3km: false,
   highlightOverlap: false,
   colorByAds: true,
-  showDeliveryContour: false,
+  showDeliveryContour: true,
 };
 
 export const useAppStore = create<AppState>((set, get) => ({
@@ -64,6 +66,7 @@ export const useAppStore = create<AppState>((set, get) => ({
   selectedStore: null,
   loading: true,
   showHelp: false,
+  contourStores: [],
 
   setFilter: (key, value) => set((state) => ({
     filters: { ...state.filters, [key]: value }
@@ -79,6 +82,8 @@ export const useAppStore = create<AppState>((set, get) => ({
   })),
 
   setShowHelp: (show) => set({ showHelp: show }),
+
+  setContourStores: (fn) => set((state) => ({ contourStores: fn(state.contourStores) })),
 
   setSelectedStore: (store) => set({ selectedStore: store }),
   setLoading: (loading) => set({ loading }),

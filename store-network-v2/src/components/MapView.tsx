@@ -137,11 +137,10 @@ function AutoFitBounds({ stores }: { stores: any[] }) {
 }
 
 export default function MapView() {
-  const { stores, filters, layers, getAds, selectedStore, setSelectedStore, showHelp, setShowHelp } = useAppStore();
+  const { stores, filters, layers, getAds, selectedStore, setSelectedStore, showHelp, setShowHelp, contourStores, setContourStores } = useAppStore();
   const [deliveryData, setDeliveryData] = useState<Record<string, any>>({});
   const [showDelivery, setShowDelivery] = useState(false);
   const [popupVisible, setPopupVisible] = useState(true);
-  const [contourStores, setContourStores] = useState<string[]>([]); // 选中的配送轮廓门店 ID
 
   // 配送轮廓颜色（最多 5 家）
   const CONTOUR_COLORS = ['#3b82f6', '#f97316', '#22c55e', '#a855f7', '#ec4899'];
@@ -194,25 +193,9 @@ export default function MapView() {
 
   const deliveryCount = showDelivery && selectedStore ? (deliveryData[selectedStore.city]?.[selectedStore.sid]?.length || 0) : 0;
 
-  // Ctrl/Cmd+点击选择门店用于配送轮廓对比（最多 5 家）
-  const handleStoreClick = (store: any, event?: L.LeafletMouseEvent) => {
-    const isCtrlOrCmd = event?.originalEvent?.ctrlKey || event?.originalEvent?.metaKey;
-    if (layers.showDeliveryContour && isCtrlOrCmd) {
-      event?.originalEvent?.stopPropagation?.();
-      setContourStores(prev => {
-        if (prev.includes(store.sid)) {
-          return prev.filter(id => id !== store.sid);
-        }
-        if (prev.length >= 5) {
-          alert('最多同时对比 5 家门店');
-          return prev;
-        }
-        return [...prev, store.sid];
-      });
-    } else {
-      setSelectedStore(store);
-      setPopupVisible(true);
-    }
+  const handleStoreClick = (store: any) => {
+    setSelectedStore(store);
+    setPopupVisible(true);
   };
 
   return (
@@ -240,12 +223,12 @@ export default function MapView() {
         {layers.showMarkers && filteredStores.map(s => {
           const isSel = selectedStore?.sid === s.sid;
           const isContourSel = contourStores.includes(s.sid);
-          const color = isSel ? '#f97316' : (isContourSel ? CONTOUR_COLORS[contourStores.indexOf(s.sid) % 4] : (layers.colorByAds ? adsColor(getAds(s.sid)) : brandColor(s.brand)));
+          const color = isSel ? '#f97316' : (isContourSel ? CONTOUR_COLORS[contourStores.indexOf(s.sid) % 5] : (layers.colorByAds ? adsColor(getAds(s.sid)) : brandColor(s.brand)));
           const hi = s.overlap >= 3;
           return (
             <Marker key={s.sid} position={[s.lat, s.lng]}
               icon={createPinIcon(color, isSel || isContourSel, hi)}
-              eventHandlers={{ click: (e) => handleStoreClick(s, e) }} />
+              eventHandlers={{ click: () => handleStoreClick(s) }} />
           );
         })}
 
@@ -329,20 +312,10 @@ export default function MapView() {
           background:'rgba(255,255,255,0.95)',color:'#1e293b',padding:'8px 14px',borderRadius:'8px',fontSize:'12px',
           boxShadow:'0 2px 10px rgba(0,0,0,0.1)',border:'1px solid #e2e8f0',display:'flex',alignItems:'center',gap:'8px' }}>
           <span>已选 <span style={{ fontWeight:700,color:'#f97316' }}>{contourStores.length}</span>/5 家门店</span>
-          <span style={{ color:'#94a3b8',fontSize:'11px' }}>Ctrl+点击取消</span>
-          <button onClick={() => setContourStores([])}
+          <button onClick={() => setContourStores(() => [])}
             style={{ background:'#ef4444',color:'#fff',border:'none',borderRadius:'4px',padding:'2px 8px',fontSize:'11px',cursor:'pointer' }}>
             清除
           </button>
-        </div>
-      )}
-
-      {/* 配送轮廓模式提示（未选择时） */}
-      {layers.showDeliveryContour && contourStores.length === 0 && (
-        <div style={{ position:'absolute',top:'12px',right:'12px',zIndex:999,
-          background:'rgba(255,255,255,0.95)',color:'#64748b',padding:'8px 14px',borderRadius:'8px',fontSize:'12px',
-          boxShadow:'0 2px 10px rgba(0,0,0,0.1)',border:'1px solid #e2e8f0' }}>
-          Ctrl+点击门店添加对比（最多 5 家）
         </div>
       )}
 
@@ -385,11 +358,11 @@ export default function MapView() {
               <Section title="🔵 配送范围对比">
                 <p style={{ margin:'4px 0' }}>用于分析多家门店的配送范围重叠（蚕食）情况：</p>
                 <ol style={{ margin:'4px 0',paddingLeft:'20px' }}>
-                  <li>打开左侧 <b>配送范围对比</b> 开关</li>
-                  <li><b>Ctrl+点击</b>（Mac 用 Cmd）门店标记，最多选 5 家</li>
-                  <li>每家门店显示不同颜色的配送轮廓</li>
+                  <li>左侧 <b>配送范围对比</b> 开关默认开启</li>
+                  <li>点击门店打开详情，点击 <b>＋ 加入配送范围对比</b></li>
+                  <li>最多选 5 家，每家显示不同颜色的配送轮廓</li>
                   <li>轮廓重叠区域 = 潜在蚕食区域</li>
-                  <li>再次 Ctrl+点击已选门店可取消</li>
+                  <li>再次点击按钮可取消选中</li>
                 </ol>
                 <p style={{ margin:'4px 0',fontSize:'11px',color:'#64748b' }}>
                   注：轮廓基于 70% 订单的配送范围，已排除 95 分位距离外的异常订单
@@ -422,7 +395,7 @@ export default function MapView() {
                 <Qa q="为什么有些门店看不到？" a="地图已过滤 112 家云厨子店（是否子店=是），只显示 361 家常规门店。" />
                 <Qa q="ADS 是什么意思？" a="ADS = Average Daily Sales，日均销售额。按选定日期区间计算。" />
                 <Qa q="为什么数据不是今天的？" a="销售数据每日 7:00/8:00 更新，但 BI 源数据通常 10:00 后才就绪，所以实际看到的是前天的数据。" />
-                <Qa q="如何对比两家店的蚕食情况？" a="打开'配送范围对比'开关，Ctrl+点击两家门店，查看轮廓重叠区域。" />
+                <Qa q="如何对比两家店的蚕食情况？" a="点击门店打开详情，点击'＋ 加入配送范围对比'按钮，选择 2-5 家门店后查看轮廓重叠区域。" />
                 <Qa q="热门配送地的名称显示'未知'？" a="部分配送坐标无法逆地理编码到具体地点名称，已尽量用地址兜底，极少数仍显示未知。" />
               </Section>
 

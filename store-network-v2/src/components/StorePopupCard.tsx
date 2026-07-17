@@ -56,7 +56,7 @@ export default function StorePopupCard({
   onToggleHeatmap: () => void;
   onClose: () => void;
 }) {
-  const { selectedStore, stores, getAds, salesData, channelSales, weatherData, filters } = useAppStore();
+  const { selectedStore, stores, getAds, salesData, channelSales, weatherData, filters, layers, contourStores, setContourStores } = useAppStore();
   const [showTopLoc, setShowTopLoc] = useState(false);
   const [showWeather, setShowWeather] = useState(false);
   const [minimized, setMinimized] = useState(false);
@@ -385,8 +385,38 @@ export default function StorePopupCard({
             background: showHeatmap ? '#dc2626' : '#f97316', color: '#fff',
           }}
         >
-          {showHeatmap ? '关闭热力图' : '🔥 外卖热力图'}
+          {showHeatmap ? '关闭热力图' : ' 外卖热力图'}
         </button>
+
+        {/* 配送范围对比按钮 */}
+        {layers.showDeliveryContour && selectedStore && (
+          <button
+            type="button"
+            onClick={(e) => {
+              e.stopPropagation();
+              const sid = selectedStore.sid;
+              setContourStores(prev => {
+                if (prev.includes(sid)) {
+                  return prev.filter(id => id !== sid);
+                }
+                if (prev.length >= 5) {
+                  alert('最多同时对比 5 家门店');
+                  return prev;
+                }
+                return [...prev, sid];
+              });
+            }}
+            style={{
+              display: 'block', width: '100%', padding: '4px 10px', marginTop: '4px',
+              borderRadius: '5px', border: '1px solid #3b82f6', fontSize: '11px',
+              fontWeight: 600, cursor: 'pointer',
+              background: contourStores.includes(selectedStore.sid) ? '#dbeafe' : '#fff',
+              color: contourStores.includes(selectedStore.sid) ? '#1d4ed8' : '#3b82f6',
+            }}
+          >
+            {contourStores.includes(selectedStore.sid) ? '✓ 已加入对比（点击取消）' : '＋ 加入配送范围对比'}
+          </button>
+        )}
 
         {/* 操作按钮区 */}
         <div style={{ display: 'flex', gap: '4px', marginTop: '4px' }}>
