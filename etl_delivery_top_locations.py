@@ -87,6 +87,12 @@ def reverse_geo_name(key, lng, lat):
             best_name = neighborhood.get("name", "")
         elif isinstance(neighborhood, str):
             best_name = neighborhood
+    # 如果 neighborhood 也没有，用 formattedAddress 作为兜底
+    if not best_name:
+        formatted = regeo.get("formattedAddress", "")
+        if formatted and formatted not in ("", "[]", "null", "undefined"):
+            # 截取街道级别地址（去掉门牌号等细节）
+            best_name = formatted
     # 过滤无效名称（空字符串、"[]" 等）
     if best_name in ("", "[]", "null", "undefined"):
         best_name = ""
