@@ -333,19 +333,20 @@ def main():
                   "office_count", "residential_count", "metro_count", "nearest_metro_km"]
     os.makedirs(output_dir, exist_ok=True)
 
-    # 检查新数据是否有效（至少有部分门店有 POI 数据）
+    # 检查新数据是否有效（至少 80% 的门店有 POI 数据）
     valid_count = sum(1 for r in results if int(r.get("poi_count", 0) or 0) > 0)
-    if valid_count == 0 and os.path.exists(out_csv) and os.path.getsize(out_csv) > 200:
-        print(f"
-  [WARN] 新数据全为 0，保留已有 {out_csv}（{os.path.getsize(out_csv)} 字节）")
+    total_count = len(results)
+    valid_ratio = valid_count / total_count if total_count > 0 else 0
+
+    if valid_ratio < 0.8 and os.path.exists(out_csv) and os.path.getsize(out_csv) > 200:
+        print(f"  [WARN] 新数据有效率过低（{valid_count}/{total_count} = {valid_ratio:.1%} < 80%），保留已有 {out_csv}（{os.path.getsize(out_csv)} 字节）")
     else:
         with open(out_csv, "w", newline="", encoding="utf-8-sig") as f:
             w = csv.DictWriter(f, fieldnames=fieldnames)
             w.writeheader()
             for row in results:
                 w.writerow(row)
-        print(f"
-  -> {out_csv} ({len(results)} 行，{valid_count} 家有 POI 数据)")
+        print(f"  -> {out_csv} ({len(results)} 行，{valid_count} 家有 POI 数据，有效率 {valid_ratio:.1%})")
     print(f"{'=' * 60}")
 
 
