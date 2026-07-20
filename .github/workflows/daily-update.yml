@@ -130,17 +130,18 @@ jobs:
         continue-on-error: true
 
       # ===== 部署到阿里云 OSS =====
+      - name: 配置 ossutil
+        uses: manyuanrong/setup-ossutil@v3.0
+        with:
+          endpoint: ${{ secrets.ALIBABA_CLOUD_ENDPOINT }}
+          access-key-id: ${{ secrets.ALIBABA_CLOUD_ACCESS_KEY_ID }}
+          access-key-secret: ${{ secrets.ALIBABA_CLOUD_ACCESS_KEY_SECRET }}
+
       - name: 部署到阿里云 OSS
         run: |
-          set -x
-          wget -q https://gosspublic.alicdn.com/ossutil/1.7.19/ossutil-1.7.19-linux-amd64.zip
-          unzip -q ossutil-1.7.19-linux-amd64.zip
-          chmod +x ossutil-1.7.19-linux-amd64/ossutil
-          ENDPOINT="https://${{ secrets.ALIBABA_CLOUD_ENDPOINT }}"
-          echo "Endpoint: $ENDPOINT"
           echo "Bucket: ${{ secrets.ALIBABA_CLOUD_BUCKET }}"
           ls -la store-network/
-          ./ossutil-1.7.19-linux-amd64/ossutil cp -r store-network/ oss://${{ secrets.ALIBABA_CLOUD_BUCKET }}/ -e "$ENDPOINT" -i ${{ secrets.ALIBABA_CLOUD_ACCESS_KEY_ID }} -k ${{ secrets.ALIBABA_CLOUD_ACCESS_KEY_SECRET }} --force
+          ossutil cp -r store-network/ oss://${{ secrets.ALIBABA_CLOUD_BUCKET }}/ --force
           echo "Deployed to OSS"
         working-directory: ${{ github.workspace }}
 
