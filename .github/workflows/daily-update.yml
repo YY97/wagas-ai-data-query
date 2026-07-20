@@ -158,9 +158,15 @@ jobs:
 
       - name: 部署到阿里云 OSS
         run: |
-          echo "Bucket: ${{ secrets.ALIBABA_CLOUD_BUCKET }}"
-          ossutil cp -r store-network/ oss://${{ secrets.ALIBABA_CLOUD_BUCKET }}/ --force
-          echo "Deployed to OSS"
+          BUCKET="oss://${{ secrets.ALIBABA_CLOUD_BUCKET }}"
+          # index.html 和数据文件：不缓存，数据更新后用户刷新即生效
+          ossutil cp store-network/index.html $BUCKET/index.html --force --meta Cache-Control:no-cache
+          ossutil cp -r store-network/data/ $BUCKET/data/ --force --meta Cache-Control:no-cache
+          ossutil cp store-network/favicon.svg $BUCKET/favicon.svg --force --meta Cache-Control:no-cache
+          ossutil cp store-network/icons.svg $BUCKET/icons.svg --force --meta Cache-Control:no-cache
+          # 带哈希的 JS/CSS 静态资源：长缓存（文件名变了浏览器自然会重新拉取）
+          ossutil cp -r store-network/assets/ $BUCKET/assets/ --force --meta Cache-Control:max-age=31536000
+          echo "Deployed to OSS (cache headers set)"
         working-directory: ${{ github.workspace }}
 
       # ===== 数据新鲜度检查（最后执行，断档自动开 Issue，不阻断流程）=====
