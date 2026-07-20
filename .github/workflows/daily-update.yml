@@ -112,14 +112,16 @@ jobs:
 
       - name: 部署到 store-network 目录
         run: |
-          mkdir -p store-network/assets store-network/data/delivery
+          mkdir -p store-network/data/delivery
           if [ -f store-network-v2/dist/index.html ]; then
+            rm -rf store-network/assets
+            mkdir -p store-network/assets
             cp -f store-network-v2/dist/index.html store-network/index.html
             cp -f store-network-v2/dist/assets/* store-network/assets/
             cp -f store-network-v2/public/favicon.svg store-network/
             cp -f store-network-v2/public/icons.svg store-network/
             rm -rf store-network-v2/dist
-            echo "Build deployed"
+            echo "Build deployed (old assets cleaned)"
           fi
           if [ -f store-network-v2/public/data/stores.json ]; then
             cp -f store-network-v2/public/data/*.json store-network/data/
@@ -129,23 +131,7 @@ jobs:
         working-directory: ${{ github.workspace }}
         continue-on-error: true
 
-      # ===== 部署到阿里云 OSS =====
-      - name: 配置 ossutil
-        uses: manyuanrong/setup-ossutil@v3.0
-        with:
-          endpoint: ${{ secrets.ALIBABA_CLOUD_ENDPOINT }}
-          access-key-id: ${{ secrets.ALIBABA_CLOUD_ACCESS_KEY_ID }}
-          access-key-secret: ${{ secrets.ALIBABA_CLOUD_ACCESS_KEY_SECRET }}
-
-      - name: 部署到阿里云 OSS
-        run: |
-          echo "Bucket: ${{ secrets.ALIBABA_CLOUD_BUCKET }}"
-          ls -la store-network/
-          ossutil cp -r store-network/ oss://${{ secrets.ALIBABA_CLOUD_BUCKET }}/ --force
-          echo "Deployed to OSS"
-        working-directory: ${{ github.workspace }}
-
-      # ===== 提交推送 =====
+      # ===== 提交推送（先提交 git 备份，再部署 OSS，OSS 故障不影响数据入库）=====
       - name: 提交并推送到 GitHub
         run: |
           git config user.name "Wagas Bot"
@@ -161,6 +147,21 @@ jobs:
           fi
         working-directory: ${{ github.workspace }}
         continue-on-error: true
+
+      # ===== 部署到阿里云 OSS =====
+      - name: 配置 ossutil
+        uses: manyuanrong/setup-ossutil@v3.0
+        with:
+          endpoint: ${{ secrets.ALIBABA_CLOUD_ENDPOINT }}
+          access-key-id: ${{ secrets.ALIBABA_CLOUD_ACCESS_KEY_ID }}
+          access-key-secret: ${{ secrets.ALIBABA_CLOUD_ACCESS_KEY_SECRET }}
+
+      - name: 部署到阿里云 OSS
+        run: |
+          echo "Bucket: ${{ secrets.ALIBABA_CLOUD_BUCKET }}"
+          ossutil cp -r store-network/ oss://${{ secrets.ALIBABA_CLOUD_BUCKET }}/ --force
+          echo "Deployed to OSS"
+        working-directory: ${{ github.workspace }}
 
       # ===== 数据新鲜度检查（最后执行，断档自动开 Issue，不阻断流程）=====
       - name: 数据新鲜度检查
