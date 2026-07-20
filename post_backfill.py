@@ -121,7 +121,8 @@ def step3_build_stores_json(old_stores, sales_data):
     print("\n=== Step 3: 构建 stores.json ===")
     new_stores = []
     for s in old_stores:
-        gcj_lng, gcj_lat = wgs84_to_gcj02(s['lng'], s['lat'])
+        # 坐标已为 GCJ-02，无需转换
+        lng, lat = s['lng'], s['lat']
         sid = s['sid']
 
         # ADS 从 sales_data 计算
@@ -141,7 +142,7 @@ def step3_build_stores_json(old_stores, sales_data):
             'sid': sid, 'name': s['name'],
             'brand': s.get('brand', ''), 'city': s.get('city', ''),
             'addr': s.get('addr', ''), 'fmt': s.get('fmt', ''),
-            'lng': gcj_lng, 'lat': gcj_lat,
+            'lng': lng, 'lat': lat,
             'ads': ads, 'market': mk,
             'overlap': 0, 'overlap_names': [],
             'channel': ch, 'dist': s.get('dist')

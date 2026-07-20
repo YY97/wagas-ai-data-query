@@ -93,16 +93,16 @@ def step1_store_master():
                 skipped_sub += 1
                 continue
             try:
-                wgs_lng = float(row.get('经度', 0) or 0)
-                wgs_lat = float(row.get('纬度', 0) or 0)
+                lng = float(row.get('经度', 0) or 0)
+                lat = float(row.get('纬度', 0) or 0)
             except: continue
-            if wgs_lng == 0 or wgs_lat == 0: continue
-            gcj_lng, gcj_lat = wgs84_to_gcj02(wgs_lng, wgs_lat)
+            if lng == 0 or lat == 0: continue
+            # BI 系统坐标已为 GCJ-02（来自高德 API），无需转换
             stores.append({
                 'sid': sid, 'name': row.get('门店名称', ''),
                 'brand': row.get('品牌', ''), 'city': row.get('城市', ''),
                 'addr': row.get('门店地址', ''), 'fmt': row.get('业态', ''),
-                'lng': gcj_lng, 'lat': gcj_lat,
+                'lng': lng, 'lat': lat,
                 'ads': 0, 'market': None, 'overlap': 0, 'overlap_names': [],
                 'channel': None, 'dist': None
             })
