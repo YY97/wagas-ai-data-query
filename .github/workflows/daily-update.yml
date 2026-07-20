@@ -132,13 +132,17 @@ jobs:
       # ===== 部署到阿里云 OSS =====
       - name: 部署到阿里云 OSS
         run: |
+          set -x
           wget -q https://gosspublic.alicdn.com/ossutil/1.7.19/ossutil-1.7.19-linux-amd64.zip
           unzip -q ossutil-1.7.19-linux-amd64.zip
           chmod +x ossutil-1.7.19-linux-amd64/ossutil
-          ./ossutil-1.7.19-linux-amd64/ossutil cp -r store-network/ oss://${{ secrets.ALIBABA_CLOUD_BUCKET }}/ -e ${{ secrets.ALIBABA_CLOUD_ENDPOINT }} -i ${{ secrets.ALIBABA_CLOUD_ACCESS_KEY_ID }} -k ${{ secrets.ALIBABA_CLOUD_ACCESS_KEY_SECRET }} --force
-          echo "Deployed to OSS: https://${{ secrets.ALIBABA_CLOUD_BUCKET }}.${{ secrets.ALIBABA_CLOUD_ENDPOINT }}"
+          ENDPOINT="https://${{ secrets.ALIBABA_CLOUD_ENDPOINT }}"
+          echo "Endpoint: $ENDPOINT"
+          echo "Bucket: ${{ secrets.ALIBABA_CLOUD_BUCKET }}"
+          ls -la store-network/
+          ./ossutil-1.7.19-linux-amd64/ossutil cp -r store-network/ oss://${{ secrets.ALIBABA_CLOUD_BUCKET }}/ -e "$ENDPOINT" -i ${{ secrets.ALIBABA_CLOUD_ACCESS_KEY_ID }} -k ${{ secrets.ALIBABA_CLOUD_ACCESS_KEY_SECRET }} --force
+          echo "Deployed to OSS"
         working-directory: ${{ github.workspace }}
-        continue-on-error: true
 
       # ===== 提交推送 =====
       - name: 提交并推送到 GitHub
