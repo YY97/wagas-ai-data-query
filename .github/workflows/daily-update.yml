@@ -129,6 +129,17 @@ jobs:
         working-directory: ${{ github.workspace }}
         continue-on-error: true
 
+      # ===== 部署到阿里云 OSS =====
+      - name: 部署到阿里云 OSS
+        run: |
+          wget -q https://gosspublic.alicdn.com/ossutil/v2/2.1.0/ossutil-v2-linux-amd64.zip
+          unzip -q ossutil-v2-linux-amd64.zip
+          chmod +x ossutil-v2-linux-amd64/ossutil
+          ./ossutil-v2-linux-amd64/ossutil cp -r store-network/ oss://${{ secrets.ALIBABA_CLOUD_BUCKET }}/ --endpoint ${{ secrets.ALIBABA_CLOUD_ENDPOINT }} --access-key-id ${{ secrets.ALIBABA_CLOUD_ACCESS_KEY_ID }} --access-key-secret ${{ secrets.ALIBABA_CLOUD_ACCESS_KEY_SECRET }} --force
+          echo "Deployed to OSS: https://${{ secrets.ALIBABA_CLOUD_BUCKET }}.${{ secrets.ALIBABA_CLOUD_ENDPOINT }}"
+        working-directory: ${{ github.workspace }}
+        continue-on-error: true
+
       # ===== 提交推送 =====
       - name: 提交并推送到 GitHub
         run: |
