@@ -16,8 +16,9 @@ function App() {
       fetch(`${import.meta.env.BASE_URL}data/channel_sales.json`).then(r => r.json()).catch(() => ({})),
       fetch(`${import.meta.env.BASE_URL}data/weather_data.json`).then(r => r.json()).catch(() => ({})),
       fetch(`${import.meta.env.BASE_URL}data/delivery_top_locations.json`).then(r => r.json()).catch(() => ({})),
+      fetch(`${import.meta.env.BASE_URL}data/competitor_stores.json`).then(r => r.json()).catch(() => ({})),
     ])
-      .then(([stores, salesData, channelSales, weatherData, topLocationsData]: [Store[], SalesData, any, any, Record<string, any[]>]) => {
+      .then(([stores, salesData, channelSales, weatherData, topLocationsData, competitors]: [Store[], SalesData, any, any, Record<string, any[]>, any]) => {
         const storesWithLocations = stores.map(store => ({
           ...store,
           top_locations: topLocationsData[store.sid] || [],
@@ -33,7 +34,7 @@ function App() {
           end: sortedDates[sortedDates.length - 1] || '',
         };
 
-        initData(storesWithLocations, salesData, channelSales, weatherData, dateRange);
+        initData(storesWithLocations, salesData, channelSales, weatherData, dateRange, competitors);
       })
       .catch(err => {
         console.error('Failed to load data:', err);

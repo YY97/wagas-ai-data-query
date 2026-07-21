@@ -1,5 +1,5 @@
 import { useEffect, useRef, useState, useCallback } from 'react';
-import { MapContainer, TileLayer, Circle, Marker, Polygon, useMap } from 'react-leaflet';
+import { MapContainer, TileLayer, Circle, CircleMarker, Marker, Polygon, Popup, useMap } from 'react-leaflet';
 import L from 'leaflet';
 import 'leaflet/dist/leaflet.css';
 import 'leaflet.heat';
@@ -20,6 +20,15 @@ const BRAND_COLORS: Record<string, string> = {
   'Lokal': '#22c55e', 'JUNi': '#8b5cf6', 'Funk&Kale': '#06b6d4', 'Funk & Kale': '#06b6d4',
 };
 function brandColor(brand: string): string { return BRAND_COLORS[brand] || '#6b7280'; }
+
+// 竞品品牌颜色
+const COMPETITOR_COLORS: Record<string, string> = {
+  '星巴克': '#00a862',
+  '超级碗': '#8b5cf6',
+  '赛百味': '#f5c518',
+  'gaga鲜语': '#ec4899',
+};
+function competitorColor(brand: string): string { return COMPETITOR_COLORS[brand] || '#64748b'; }
 
 // 生成水滴形指针图标
 function createPinIcon(color: string, isSelected: boolean, isHighOverlap: boolean): L.DivIcon {
@@ -137,7 +146,7 @@ function AutoFitBounds({ stores }: { stores: any[] }) {
 }
 
 export default function MapView() {
-  const { stores, filters, layers, getAds, selectedStore, setSelectedStore, showHelp, setShowHelp, contourStores, setContourStores } = useAppStore();
+  const { stores, filters, layers, getAds, selectedStore, setSelectedStore, showHelp, setShowHelp, contourStores, setContourStores, competitors, competitorBrands } = useAppStore();
   const [deliveryData, setDeliveryData] = useState<Record<string, any>>({});
   const [showDelivery, setShowDelivery] = useState(false);
   const [popupVisible, setPopupVisible] = useState(true);
@@ -230,6 +239,28 @@ export default function MapView() {
               icon={createPinIcon(color, isSel || isContourSel, hi)}
               eventHandlers={{ click: () => handleStoreClick(s) }} />
           );
+        })}
+
+        {/* 竞品门店（小圆点，按品牌着色） */}
+        {layers.showCompetitors && Object.entries(competitors).map(([brand, list]) => {
+          if (!competitorBrands[brand]) return null;
+          const color = competitorColor(brand);
+          const cityFilter = filters.city;
+          return list
+            .filter(c => cityFilter === 'all' || c.city === cityFilter)
+            .map((c, i) => (
+              <CircleMarker key={`${brand}-${i}`} center={[c.lat, c.lng]} radius={5}
+                pathOptions={{ color: '#ffffff', weight: 1, fillColor: color, fillOpacity: 0.85 }}>
+                <Popup>
+                  <div style={{ fontSize: '12px', lineHeight: 1.6, minWidth: '140px' }}>
+                    <div style={{ fontWeight: 700, color }}>{brand}</div>
+                    <div style={{ color: '#1e293b' }}>{c.name}</div>
+                    {c.addr && <div style={{ color: '#64748b' }}>{c.district} {c.addr}</div>}
+                    {c.rating && <div style={{ color: '#f59e0b' }}>★ 评分 {c.rating}</div>}
+                  </div>
+                </Popup>
+              </CircleMarker>
+            ));
         })}
 
         {/* 配送轮廓多边形 */}
@@ -387,6 +418,7 @@ export default function MapView() {
                     <DataRow label="高亮重合区域" value="1km 内有 3 家以上门店时标红" />
                     <DataRow label="按销售额着色" value="门店颜色反映日均销售额" />
                     <DataRow label="配送范围对比" value="开启后可多选门店对比配送轮廓" />
+                    <DataRow label="竞品门店" value="显示星巴克/超级碗/赛百味/gaga 等竞品位置" />
                   </tbody>
                 </table>
               </Section>
@@ -396,6 +428,7 @@ export default function MapView() {
                 <Qa q="ADS 是什么意思？" a="ADS = Average Daily Sales，日均销售额。按选定日期区间计算。" />
                 <Qa q="为什么数据不是今天的？" a="销售数据每日 7:00/8:00 更新，但 BI 源数据通常 10:00 后才就绪，所以实际看到的是前天的数据。" />
                 <Qa q="如何对比两家店的蚕食情况？" a="点击门店打开详情，点击'＋ 加入配送范围对比'按钮，选择 2-5 家门店后查看轮廓重叠区域。" />
+                <Qa q="竞品门店数据从哪来？多久更新？" a="竞品位置来自高德地图 POI 数据，每月 1 号更新一次。新开/关闭门店可能有 1-2 个月滞后。" />
                 <Qa q="热门配送地的名称显示'未知'？" a="部分配送坐标无法逆地理编码到具体地点名称，已尽量用地址兜底，极少数仍显示未知。" />
               </Section>
 

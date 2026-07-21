@@ -57,6 +57,20 @@ export interface TopLocation {
   lng: number;
 }
 
+// 竞品门店类型
+export interface CompetitorStore {
+  name: string;
+  lng: number;
+  lat: number;
+  addr: string;
+  city: string;
+  district: string;
+  rating: string;
+}
+
+// 竞品数据：品牌名 → 门店列表
+export type CompetitorData = Record<string, CompetitorStore[]>;
+
 // 销售数据类型
 export type SalesData = Record<string, Record<string, number>>;
 

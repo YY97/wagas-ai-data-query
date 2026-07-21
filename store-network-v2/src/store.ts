@@ -1,5 +1,5 @@
 import { create } from 'zustand';
-import type { Store, SalesData, Filters } from './types';
+import type { Store, SalesData, Filters, CompetitorData } from './types';
 
 export interface LayerToggles {
   showMarkers: boolean;
@@ -8,6 +8,7 @@ export interface LayerToggles {
   highlightOverlap: boolean;
   colorByAds: boolean;
   showDeliveryContour: boolean;
+  showCompetitors: boolean;
 }
 
 interface AppState {
@@ -15,6 +16,8 @@ interface AppState {
   salesData: SalesData;
   channelSales: Record<string, Record<string, { dine_in: number; delivery: number }>>;
   weatherData: Record<string, { date: string; tmax: number | null; tmin: number | null; precip: number; weathercode: number }[]>;
+  competitors: CompetitorData;
+  competitorBrands: Record<string, boolean>;
   dateRange: { start: string; end: string };
   allDates: string[];
   filters: Filters;
@@ -30,8 +33,9 @@ interface AppState {
   setLoading: (loading: boolean) => void;
   setShowHelp: (show: boolean) => void;
   setContourStores: (fn: (prev: string[]) => string[]) => void;
+  setCompetitorBrand: (brand: string, value: boolean) => void;
   getAds: (sid: string) => number | null;
-  initData: (stores: Store[], salesData: SalesData, channelSales: any, weatherData: any, dateRange: { start: string; end: string }) => void;
+  initData: (stores: Store[], salesData: SalesData, channelSales: any, weatherData: any, dateRange: { start: string; end: string }, competitors?: CompetitorData) => void;
 }
 
 const defaultFilters: Filters = {
@@ -52,6 +56,7 @@ const defaultLayers: LayerToggles = {
   highlightOverlap: false,
   colorByAds: true,
   showDeliveryContour: true,
+  showCompetitors: false,
 };
 
 export const useAppStore = create<AppState>((set, get) => ({
@@ -59,6 +64,8 @@ export const useAppStore = create<AppState>((set, get) => ({
   salesData: {},
   channelSales: {},
   weatherData: {},
+  competitors: {},
+  competitorBrands: {},
   dateRange: { start: '', end: '' },
   allDates: [],
   filters: defaultFilters,
@@ -85,6 +92,10 @@ export const useAppStore = create<AppState>((set, get) => ({
 
   setContourStores: (fn) => set((state) => ({ contourStores: fn(state.contourStores) })),
 
+  setCompetitorBrand: (brand, value) => set((state) => ({
+    competitorBrands: { ...state.competitorBrands, [brand]: value }
+  })),
+
   setSelectedStore: (store) => set({ selectedStore: store }),
   setLoading: (loading) => set({ loading }),
 
@@ -104,7 +115,7 @@ export const useAppStore = create<AppState>((set, get) => ({
     return values.length ? values.reduce((a, b) => a + b, 0) / values.length : null;
   },
 
-  initData: (stores, salesData, channelSales, weatherData, dateRange) => {
+  initData: (stores, salesData, channelSales, weatherData, dateRange, competitors = {}) => {
     const allDates = new Set<string>();
     Object.values(salesData).forEach((storeSales: Record<string, number>) => {
       Object.keys(storeSales).forEach(date => allDates.add(date));
@@ -118,11 +129,17 @@ export const useAppStore = create<AppState>((set, get) => ({
     const defaultStart = sevenDaysAgo.toISOString().split('T')[0];
     const clampedStart = sortedDates.includes(defaultStart) ? defaultStart : sortedDates[0];
 
+    // 竞品品牌默认全部启用
+    const competitorBrands: Record<string, boolean> = {};
+    Object.keys(competitors).forEach(b => { competitorBrands[b] = true; });
+
     set({
       stores,
       salesData,
       channelSales,
       weatherData,
+      competitors,
+      competitorBrands,
       dateRange,
       allDates: sortedDates,
       loading: false,

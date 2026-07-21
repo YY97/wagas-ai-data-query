@@ -95,6 +95,18 @@ jobs:
         working-directory: ${{ github.workspace }}
         continue-on-error: true
 
+      - name: 更新竞品门店（每月1号运行）
+        id: competitor
+        run: |
+          DAY=$(date +%d)
+          if [ "$DAY" = "01" ]; then
+            python etl_competitor_stores.py --key ${{ secrets.AMAP_KEY }} --output-dir ./output
+          else
+            echo "Skipping competitor ETL (today=$DAY, only runs on 1st)"
+          fi
+        working-directory: ${{ github.workspace }}
+        continue-on-error: true
+
       # ===== 新版 React 地图数据同步 =====
       - name: 每日同步数据
         id: v2sync

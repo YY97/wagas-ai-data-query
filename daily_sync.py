@@ -502,6 +502,43 @@ def step4_channel_json():
     print(f"  channel_sales.json 已更新：{len(channel)} 店，{len(date_list)} 天，最新：{date_list[-1]}")
     return True
 
+def step5_competitor_json():
+    """从 competitor_stores.csv 生成 competitor_stores.json（按品牌分组）"""
+    print("\n=== Step 5: 竞品门店 → competitor_stores.json ===")
+    csv_path = os.path.join(OUTPUT_DIR, "competitor_stores.csv")
+    if not os.path.exists(csv_path):
+        print("  [SKIP] competitor_stores.csv 不存在（竞品 ETL 未运行过）")
+        return False
+
+    grouped = {}
+    total = 0
+    with open(csv_path, 'r', encoding='utf-8-sig') as f:
+        for row in csv.DictReader(f):
+            brand = row.get('brand', '').strip()
+            if not brand:
+                continue
+            try:
+                lng = float(row.get('lng', 0) or 0)
+                lat = float(row.get('lat', 0) or 0)
+            except (ValueError, TypeError):
+                continue
+            if lng == 0 or lat == 0:
+                continue
+            grouped.setdefault(brand, []).append({
+                'name': row.get('name', ''),
+                'lng': lng, 'lat': lat,
+                'addr': row.get('address', ''),
+                'city': row.get('city', ''),
+                'district': row.get('district', ''),
+                'rating': row.get('rating', ''),
+            })
+            total += 1
+
+    save_json(grouped, os.path.join(V2_DATA, "competitor_stores.json"), os.path.join(V2_DEPLOY, "competitor_stores.json"))
+    summary = ", ".join(f"{b}: {len(v)}" for b, v in grouped.items())
+    print(f"  competitor_stores.json 已更新：{total} 家（{summary}）")
+    return True
+
 def main():
     parser = argparse.ArgumentParser(description="Wagas 门店网络 v2 每日同步")
     parser.add_argument("--skip-weather", action="store_true", help="跳过天气数据")
@@ -516,6 +553,7 @@ def main():
     step1_store_master()
     step3_sales_json()
     step4_channel_json()
+    step5_competitor_json()
     step2_weather(skip=args.skip_weather)
 
     print("\n" + "=" * 60)

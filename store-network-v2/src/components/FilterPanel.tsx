@@ -143,8 +143,15 @@ function ToggleItem({ label, checked, onChange }: { label: string; checked: bool
   );
 }
 
+const COMPETITOR_COLORS: Record<string, string> = {
+  '星巴克': '#00a862',
+  '超级碗': '#8b5cf6',
+  '赛百味': '#f5c518',
+  'gaga鲜语': '#ec4899',
+};
+
 export default function FilterPanel() {
-  const { stores, filters, setFilter, layers, setLayer, dateRange, allDates, setDateRange, setShowHelp } = useAppStore();
+  const { stores, filters, setFilter, layers, setLayer, dateRange, allDates, setDateRange, setShowHelp, competitors, competitorBrands, setCompetitorBrand } = useAppStore();
 
   // === 联动筛选 ===
   // 先按城市过滤，计算可用品牌（带计数）
@@ -278,6 +285,31 @@ export default function FilterPanel() {
         <ToggleItem label="高亮重合区域" checked={layers.highlightOverlap} onChange={v => setLayer('highlightOverlap', v)} />
         <ToggleItem label="按销售额着色" checked={layers.colorByAds} onChange={v => setLayer('colorByAds', v)} />
         <ToggleItem label="配送范围对比" checked={layers.showDeliveryContour} onChange={v => setLayer('showDeliveryContour', v)} />
+        <ToggleItem label="竞品门店" checked={layers.showCompetitors} onChange={v => setLayer('showCompetitors', v)} />
+        {layers.showCompetitors && Object.keys(competitors).length > 0 && (
+          <div style={{ paddingLeft: '10px', marginTop: '2px' }}>
+            {Object.entries(competitors).map(([brand, list]) => {
+              const on = competitorBrands[brand];
+              const color = COMPETITOR_COLORS[brand] || '#64748b';
+              return (
+                <div key={brand} style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between',
+                  padding: '4px 8px', marginBottom: '3px', fontSize: '11px', color: '#475569',
+                  background: '#fff', borderRadius: '5px', border: '1px solid #f1f5f9' }}>
+                  <span style={{ display: 'flex', alignItems: 'center', gap: '6px' }}>
+                    <span style={{ width: '8px', height: '8px', borderRadius: '50%', background: color, display: 'inline-block' }} />
+                    {brand}（{list.length}）
+                  </span>
+                  <div onClick={() => setCompetitorBrand(brand, !on)}
+                    style={{ width: '28px', height: '16px', borderRadius: '8px', cursor: 'pointer',
+                      background: on ? color : '#cbd5e1', position: 'relative', transition: 'background 0.2s' }}>
+                    <div style={{ position: 'absolute', top: '2px', left: on ? '14px' : '2px',
+                      width: '12px', height: '12px', borderRadius: '50%', background: '#fff', transition: 'left 0.2s' }} />
+                  </div>
+                </div>
+              );
+            })}
+          </div>
+        )}
       </div>
 
       {/* 帮助按钮 */}
