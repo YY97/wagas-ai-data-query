@@ -27,7 +27,7 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: '22'
-      - run: npm install -g @guandata/guancli
+      - run: npm install -g @guandata/guancli@1.0.38
 
       - name: 配置 guancli & 环境变量
         run: |
@@ -46,7 +46,7 @@ jobs:
       - name: 登录 guancli 获取 token
         run: |
           GUANCLI_JS="$(npm root -g)/@guandata/guancli/bin/run.js"
-          node "$GUANCLI_JS" auth login --profile wagas --login-id "${{ secrets.GUANCLI_USER }}" --password "${{ secrets.GUANCLI_PASS }}" --save-password
+          node "$GUANCLI_JS" auth login --profile wagas --url https://bi.wagas.com.cn --domain wagas --login-id "${{ secrets.GUANCLI_USER }}" --password "${{ secrets.GUANCLI_PASS }}" --save-password
           echo "guancli login completed"
         continue-on-error: false
 
