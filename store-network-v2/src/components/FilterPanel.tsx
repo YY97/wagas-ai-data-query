@@ -148,6 +148,8 @@ const COMPETITOR_COLORS: Record<string, string> = {
   '超级碗': '#8b5cf6',
   '赛百味': '#f5c518',
   'gaga鲜语': '#ec4899',
+  '蓝蛙': '#2563eb',
+  'Manner': '#92400e',
 };
 
 export default function FilterPanel() {
@@ -286,6 +288,11 @@ export default function FilterPanel() {
         <ToggleItem label="按销售额着色" checked={layers.colorByAds} onChange={v => setLayer('colorByAds', v)} />
         <ToggleItem label="配送范围对比" checked={layers.showDeliveryContour} onChange={v => setLayer('showDeliveryContour', v)} />
         <ToggleItem label="竞品门店" checked={layers.showCompetitors} onChange={v => setLayer('showCompetitors', v)} />
+        {layers.showCompetitors && (
+          <div style={{ paddingLeft: '10px', marginTop: '2px' }}>
+            <ToggleItem label="焦点模式（底图置灰）" checked={layers.competitorFocus} onChange={v => setLayer('competitorFocus', v)} />
+          </div>
+        )}
         {layers.showCompetitors && Object.keys(competitors).length > 0 && (
           <div style={{ paddingLeft: '10px', marginTop: '2px' }}>
             {Object.entries(competitors).map(([brand, list]) => {

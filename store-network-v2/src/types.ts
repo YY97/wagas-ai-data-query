@@ -16,6 +16,7 @@ export interface Store {
   dist: DistanceData | null;
   top_locations?: TopLocation[];
   delivery_contour?: [number, number][];
+  comp?: Record<string, CompetitorNearStats>;
 }
 
 export interface MarketData {
@@ -70,6 +71,13 @@ export interface CompetitorStore {
 
 // 竞品数据：品牌名 → 门店列表
 export type CompetitorData = Record<string, CompetitorStore[]>;
+
+// 单品牌在门店周边的竞品统计
+export interface CompetitorNearStats {
+  n1: number;          // 1km 内数量
+  n3: number;          // 3km 内数量
+  med: number | null;  // 3km 内评分中位数
+}
 
 // 销售数据类型
 export type SalesData = Record<string, Record<string, number>>;

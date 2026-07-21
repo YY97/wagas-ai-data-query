@@ -73,6 +73,64 @@ def save_json(data, *paths):
         with open(p, 'w', encoding='utf-8') as f:
             json.dump(data, f, ensure_ascii=False)
 
+def compute_competitor_stats(stores):
+    """为每家门店计算周边竞品统计（各品牌 1km/3km 数量 + 3km 评分中位数）。
+
+    读取 output/competitor_stores.csv，结果写入每个 store 的 comp 字段。
+    """
+    csv_path = os.path.join(OUTPUT_DIR, "competitor_stores.csv")
+    if not os.path.exists(csv_path):
+        return
+    # 预加载竞品（按品牌分组，含坐标与评分）
+    comp_by_brand = {}
+    with open(csv_path, 'r', encoding='utf-8-sig') as f:
+        for row in csv.DictReader(f):
+            brand = row.get('brand', '').strip()
+            if not brand:
+                continue
+            try:
+                lng = float(row.get('lng', 0) or 0)
+                lat = float(row.get('lat', 0) or 0)
+            except (ValueError, TypeError):
+                continue
+            if lng == 0 or lat == 0:
+                continue
+            rating = None
+            try:
+                r = float(row.get('rating', '') or '')
+                if r > 0:
+                    rating = r
+            except (ValueError, TypeError):
+                pass
+            comp_by_brand.setdefault(brand, []).append((lat, lng, rating))
+    if not comp_by_brand:
+        return
+
+    def _median(vals):
+        if not vals:
+            return None
+        s = sorted(vals)
+        n = len(s)
+        mid = n // 2
+        return s[mid] if n % 2 else round((s[mid - 1] + s[mid]) / 2, 1)
+
+    for st in stores:
+        comp = {}
+        for brand, items in comp_by_brand.items():
+            n1 = n3 = 0
+            ratings = []
+            for (clat, clng, rating) in items:
+                d = hd(st['lat'], st['lng'], clat, clng)
+                if d <= 3.0:
+                    n3 += 1
+                    if rating is not None:
+                        ratings.append(rating)
+                    if d <= 1.0:
+                        n1 += 1
+            if n3 > 0:
+                comp[brand] = {'n1': n1, 'n3': n3, 'med': _median(ratings)}
+        st['comp'] = comp
+
 def step1_store_master():
     """从 store_master.csv 生成 stores.json（GCJ-02 + 重合度）"""
     print("\n=== Step 1: 门店主数据 → stores.json ===")
@@ -223,6 +281,12 @@ def step1_store_master():
         s['delivery_contour'] = contours.get(s['sid'], [])
     contour_count = sum(1 for s in stores if s['delivery_contour'])
     print(f"  配送轮廓：{contour_count}/{len(stores)} 家门店")
+
+    # 计算周边竞品统计
+    print("  计算周边竞品统计...")
+    compute_competitor_stats(stores)
+    comp_count = sum(1 for s in stores if s.get('comp'))
+    print(f"  周边有竞品的门店: {comp_count}/{len(stores)}")
 
     # 保存
     save_json(stores, os.path.join(V2_DATA, "stores.json"), os.path.join(V2_DEPLOY, "stores.json"))

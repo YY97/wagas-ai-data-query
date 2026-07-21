@@ -102,3 +102,8 @@ body {
   line-height: 1.5;
   position: relative;
 }
+
+/* 竞品焦点模式：底图置灰，让竞品彩色标记更突出 */
+.competitor-focus .leaflet-tile-pane {
+  filter: grayscale(100%) opacity(0.55);
+}

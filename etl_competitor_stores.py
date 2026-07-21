@@ -38,6 +38,8 @@ BRANDS = [
     {"name": "星巴克",   "keywords": ["星巴克"],               "match": ["星巴克", "starbucks"]},
     {"name": "赛百味",   "keywords": ["赛百味", "Subway"],     "match": ["赛百味", "subway"]},
     {"name": "gaga鲜语", "keywords": ["gaga鲜语", "gaga"],     "match": ["gaga"]},
+    {"name": "蓝蛙",     "keywords": ["蓝蛙", "bluefrog"],     "match": ["蓝蛙", "bluefrog", "blue frog"]},
+    {"name": "Manner",   "keywords": ["Manner", "manner coffee"], "match": ["manner"]},
 ]
 
 

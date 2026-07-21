@@ -1,5 +1,5 @@
 import { useEffect, useRef, useState, useCallback } from 'react';
-import { MapContainer, TileLayer, Circle, CircleMarker, Marker, Polygon, Popup, useMap } from 'react-leaflet';
+import { MapContainer, TileLayer, Circle, CircleMarker, Marker, Polygon, Popup, Pane, useMap } from 'react-leaflet';
 import L from 'leaflet';
 import 'leaflet/dist/leaflet.css';
 import 'leaflet.heat';
@@ -27,6 +27,8 @@ const COMPETITOR_COLORS: Record<string, string> = {
   '超级碗': '#8b5cf6',
   '赛百味': '#f5c518',
   'gaga鲜语': '#ec4899',
+  '蓝蛙': '#2563eb',
+  'Manner': '#92400e',
 };
 function competitorColor(brand: string): string { return COMPETITOR_COLORS[brand] || '#64748b'; }
 
@@ -209,7 +211,8 @@ export default function MapView() {
 
   return (
     <div style={{ width: '100%', height: '100%', position: 'relative' }}>
-      <MapContainer center={[31.2304, 121.4737]} zoom={10} maxZoom={18} style={{ width: '100%', height: '100%' }}>
+      <MapContainer center={[31.2304, 121.4737]} zoom={10} maxZoom={18} style={{ width: '100%', height: '100%' }}
+        className={layers.competitorFocus ? 'competitor-focus' : ''}>
         <TileLayer
           url="https://webrd0{s}.is.autonavi.com/appmaptile?lang=zh_cn&size=1&scale=1&style=8&x={x}&y={y}&z={z}"
           subdomains={['1','2','3','4']}
@@ -241,27 +244,31 @@ export default function MapView() {
           );
         })}
 
-        {/* 竞品门店（小圆点，按品牌着色） */}
-        {layers.showCompetitors && Object.entries(competitors).map(([brand, list]) => {
-          if (!competitorBrands[brand]) return null;
-          const color = competitorColor(brand);
-          const cityFilter = filters.city;
-          return list
-            .filter(c => cityFilter === 'all' || c.city === cityFilter)
-            .map((c, i) => (
-              <CircleMarker key={`${brand}-${i}`} center={[c.lat, c.lng]} radius={5}
-                pathOptions={{ color: '#ffffff', weight: 1, fillColor: color, fillOpacity: 0.85 }}>
-                <Popup>
-                  <div style={{ fontSize: '12px', lineHeight: 1.6, minWidth: '140px' }}>
-                    <div style={{ fontWeight: 700, color }}>{brand}</div>
-                    <div style={{ color: '#1e293b' }}>{c.name}</div>
-                    {c.addr && <div style={{ color: '#64748b' }}>{c.district} {c.addr}</div>}
-                    {c.rating && <div style={{ color: '#f59e0b' }}>★ 评分 {c.rating}</div>}
-                  </div>
-                </Popup>
-              </CircleMarker>
-            ));
-        })}
+        {/* 竞品门店（置顶图层，大圆点+白边，按品牌着色） */}
+        {layers.showCompetitors && (
+          <Pane name="competitor-pane" style={{ zIndex: 650 }}>
+            {Object.entries(competitors).map(([brand, list]) => {
+              if (!competitorBrands[brand]) return null;
+              const color = competitorColor(brand);
+              const cityFilter = filters.city;
+              return list
+                .filter(c => cityFilter === 'all' || c.city === cityFilter)
+                .map((c, i) => (
+                  <CircleMarker key={`${brand}-${i}`} center={[c.lat, c.lng]} radius={7}
+                    pathOptions={{ color: '#ffffff', weight: 2, fillColor: color, fillOpacity: 0.95 }}>
+                    <Popup>
+                      <div style={{ fontSize: '12px', lineHeight: 1.6, minWidth: '140px' }}>
+                        <div style={{ fontWeight: 700, color }}>{brand}</div>
+                        <div style={{ color: '#1e293b' }}>{c.name}</div>
+                        {c.addr && <div style={{ color: '#64748b' }}>{c.district} {c.addr}</div>}
+                        {c.rating && <div style={{ color: '#f59e0b' }}>★ 评分 {c.rating}</div>}
+                      </div>
+                    </Popup>
+                  </CircleMarker>
+                ));
+            })}
+          </Pane>
+        )}
 
         {/* 配送轮廓多边形 */}
         {layers.showDeliveryContour && contourStores.map((sid, idx) => {
@@ -418,7 +425,7 @@ export default function MapView() {
                     <DataRow label="高亮重合区域" value="1km 内有 3 家以上门店时标红" />
                     <DataRow label="按销售额着色" value="门店颜色反映日均销售额" />
                     <DataRow label="配送范围对比" value="开启后可多选门店对比配送轮廓" />
-                    <DataRow label="竞品门店" value="显示星巴克/超级碗/赛百味/gaga 等竞品位置" />
+                    <DataRow label="竞品门店" value="显示星巴克/蓝蛙/Manner等6个竞品位置，可开焦点模式突出显示" />
                   </tbody>
                 </table>
               </Section>
@@ -428,7 +435,7 @@ export default function MapView() {
                 <Qa q="ADS 是什么意思？" a="ADS = Average Daily Sales，日均销售额。按选定日期区间计算。" />
                 <Qa q="为什么数据不是今天的？" a="销售数据每日 7:00/8:00 更新，但 BI 源数据通常 10:00 后才就绪，所以实际看到的是前天的数据。" />
                 <Qa q="如何对比两家店的蚕食情况？" a="点击门店打开详情，点击'＋ 加入配送范围对比'按钮，选择 2-5 家门店后查看轮廓重叠区域。" />
-                <Qa q="竞品门店数据从哪来？多久更新？" a="竞品位置来自高德地图 POI 数据，每月 1 号更新一次。新开/关闭门店可能有 1-2 个月滞后。" />
+                <Qa q="竞品门店数据从哪来？多久更新？" a="竞品位置来自高德地图 POI 数据，覆盖星巴克/超级碗/赛百味/gaga鲜语/蓝蛙/Manner 共6个品牌，每月 1 号更新。点开任意门店弹窗可看到周边各品牌竞品数量和评分中位数。觉得竞品标记不够醒目时，可开启'焦点模式'把底图置灰。" />
                 <Qa q="热门配送地的名称显示'未知'？" a="部分配送坐标无法逆地理编码到具体地点名称，已尽量用地址兜底，极少数仍显示未知。" />
               </Section>
 

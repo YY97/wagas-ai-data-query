@@ -9,6 +9,7 @@ export interface LayerToggles {
   colorByAds: boolean;
   showDeliveryContour: boolean;
   showCompetitors: boolean;
+  competitorFocus: boolean;
 }
 
 interface AppState {
@@ -57,6 +58,7 @@ const defaultLayers: LayerToggles = {
   colorByAds: true,
   showDeliveryContour: true,
   showCompetitors: false,
+  competitorFocus: false,
 };
 
 export const useAppStore = create<AppState>((set, get) => ({
