@@ -269,14 +269,14 @@ export default function StorePopupCard({
         {s.comp && Object.keys(s.comp).length > 0 && (
           <div style={{ ...sectionBase, background: '#fdf4ff', borderLeft: '3px solid #a855f7' }}>
             <div style={{ fontWeight: 700, color: '#7e22ce', marginBottom: '3px' }}>
-              周边竞品 <span style={{ fontWeight: 400, color: '#94a3b8', fontSize: '8px' }}>(1km/3km 家数 · 3km 评分中位)</span>
+              周边竞品 <span style={{ fontWeight: 400, color: '#94a3b8', fontSize: '8px' }}>(1km 内家数 · 评分中位)</span>
             </div>
             <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '2px 10px' }}>
               {Object.entries(s.comp).map(([brand, cst]) => (
                 <div key={brand} style={{ display: 'flex', alignItems: 'center', gap: '4px' }}>
                   <span style={{ width: '7px', height: '7px', borderRadius: '50%', background: COMPETITOR_COLORS[brand] || '#64748b', display: 'inline-block', flexShrink: 0 }} />
                   <span style={{ color: '#374151' }}>{brand}</span>
-                  <b style={{ marginLeft: 'auto', color: '#1e293b' }}>{cst.n1}/{cst.n3}</b>
+                  <b style={{ marginLeft: 'auto', color: '#1e293b' }}>{cst.n1}家</b>
                   <span style={{ color: '#f59e0b', fontSize: '9px', minWidth: '26px', textAlign: 'right' }}>{cst.med != null ? `★${cst.med}` : '—'}</span>
                 </div>
               ))}

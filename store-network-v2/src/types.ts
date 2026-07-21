@@ -72,11 +72,10 @@ export interface CompetitorStore {
 // 竞品数据：品牌名 → 门店列表
 export type CompetitorData = Record<string, CompetitorStore[]>;
 
-// 单品牌在门店周边的竞品统计
+// 单品牌在门店周边的竞品统计（1km 内）
 export interface CompetitorNearStats {
   n1: number;          // 1km 内数量
-  n3: number;          // 3km 内数量
-  med: number | null;  // 3km 内评分中位数
+  med: number | null;  // 1km 内评分中位数
 }
 
 // 销售数据类型

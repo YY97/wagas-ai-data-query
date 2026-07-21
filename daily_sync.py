@@ -74,7 +74,7 @@ def save_json(data, *paths):
             json.dump(data, f, ensure_ascii=False)
 
 def compute_competitor_stats(stores):
-    """为每家门店计算周边竞品统计（各品牌 1km/3km 数量 + 3km 评分中位数）。
+    """为每家门店计算周边竞品统计（各品牌 1km 内数量 + 1km 评分中位数）。
 
     读取 output/competitor_stores.csv，结果写入每个 store 的 comp 字段。
     """
@@ -117,18 +117,15 @@ def compute_competitor_stats(stores):
     for st in stores:
         comp = {}
         for brand, items in comp_by_brand.items():
-            n1 = n3 = 0
+            n1 = 0
             ratings = []
             for (clat, clng, rating) in items:
-                d = hd(st['lat'], st['lng'], clat, clng)
-                if d <= 3.0:
-                    n3 += 1
+                if hd(st['lat'], st['lng'], clat, clng) <= 1.0:
+                    n1 += 1
                     if rating is not None:
                         ratings.append(rating)
-                    if d <= 1.0:
-                        n1 += 1
-            if n3 > 0:
-                comp[brand] = {'n1': n1, 'n3': n3, 'med': _median(ratings)}
+            if n1 > 0:
+                comp[brand] = {'n1': n1, 'med': _median(ratings)}
         st['comp'] = comp
 
 def step1_store_master():
