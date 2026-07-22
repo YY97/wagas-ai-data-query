@@ -181,6 +181,27 @@ jobs:
           echo "Deployed to OSS (cache headers set)"
         working-directory: ${{ github.workspace }}
 
+      # ===== 构建并部署选址工具 =====
+      - name: 构建选址工具
+        run: |
+          cd site-selection
+          npm ci --silent
+          npx vite build
+        working-directory: ${{ github.workspace }}
+        continue-on-error: true
+
+      - name: 部署选址工具到 OSS
+        run: |
+          BUCKET="oss://${{ secrets.ALIBABA_CLOUD_BUCKET }}"
+          if [ -d site-selection/dist ]; then
+            ossutil cp -r site-selection/dist/ $BUCKET/site-selection/ --force --meta Cache-Control:no-cache
+            echo "Site selection deployed to /site-selection/"
+          else
+            echo "Site selection build not found, skipping"
+          fi
+        working-directory: ${{ github.workspace }}
+        continue-on-error: true
+
       # ===== 数据新鲜度检查（最后执行，断档自动开 Issue，不阻断流程）=====
       - name: 数据新鲜度检查
         if: always()
