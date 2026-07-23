@@ -174,6 +174,7 @@ export default function App() {
   const [competitorBrands, setCompetitorBrands] = useState<Record<string, boolean>>({});
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
+  const [showHelp, setShowHelp] = useState(false);
 
   // Load data
   useEffect(() => {
@@ -283,6 +284,12 @@ export default function App() {
           <p>• 外卖需求：基于近30天真实配送点</p>
           <p>• 评分为测试版算法，仅供参考</p>
         </div>
+
+        <button onClick={() => setShowHelp(true)} style={{
+          width: '100%', padding: '10px 16px', marginTop: 12, borderRadius: 8,
+          border: '1px solid #f97316', background: '#fff7ed', color: '#ea580c',
+          fontSize: 13, fontWeight: 600, cursor: 'pointer',
+        }}>❓ 使用说明</button>
       </div>
 
       {/* Map */}
@@ -322,6 +329,97 @@ export default function App() {
           <Marker position={[candidate.lat, candidate.lng]} icon={createCandidateIcon()} />
         )}
       </MapContainer>
+
+      {/* 帮助面板 */}
+      {showHelp && (
+        <div onClick={() => setShowHelp(false)} style={{
+          position: 'fixed', inset: 0, background: 'rgba(0,0,0,0.4)',
+          display: 'flex', alignItems: 'center', justifyContent: 'center', zIndex: 9999,
+        }}>
+          <div onClick={e => e.stopPropagation()} style={{
+            background: '#fff', borderRadius: 12, padding: '24px 28px',
+            maxWidth: 560, width: '90%', maxHeight: '85vh', overflowY: 'auto',
+            boxShadow: '0 8px 32px rgba(0,0,0,0.2)', fontSize: 13, lineHeight: 1.7,
+          }}>
+            <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: 16 }}>
+              <h2 style={{ fontSize: 18, fontWeight: 700, margin: 0 }}>使用说明</h2>
+              <button onClick={() => setShowHelp(false)} style={{
+                background: 'none', border: 'none', fontSize: 20, cursor: 'pointer', color: '#94a3b8',
+              }}>✕</button>
+            </div>
+
+            <HelpSection title="🚀 快速上手">
+              <p>1. 在右侧地图上<b>点击任意位置</b>，放置一个红色候选点位标记。</p>
+              <p>2. 左侧面板会自动显示该点位的<b>选址分析报告</b>，包括评分、周边门店、竞品分布、外卖需求和蚕食风险。</p>
+              <p>3. 点击地图其他位置可以<b>移动候选点</b>，重新分析。</p>
+              <p>4. 通过左下角的<b>图层开关</b>控制竞品门店的显示。</p>
+            </HelpSection>
+
+            <HelpSection title="📊 评分说明（满分 100）">
+              <p>评分由 4 个维度加权计算，每个维度的含义和"好方向"不同：</p>
+              <table style={{ width: '100%', borderCollapse: 'collapse', fontSize: 12, marginTop: 6 }}>
+                <thead>
+                  <tr style={{ borderBottom: '2px solid #e2e8f0' }}>
+                    <th style={{ textAlign: 'left', padding: '4px 0' }}>指标</th>
+                    <th style={{ textAlign: 'right', padding: '4px 4px' }}>满分</th>
+                    <th style={{ textAlign: 'left', padding: '4px 4px' }}>高分含义</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr style={{ borderBottom: '1px solid #f1f5f9' }}>
+                    <td style={{ padding: '4px 0' }}>外卖需求热度</td>
+                    <td style={{ textAlign: 'right', padding: '4px 4px' }}>30</td>
+                    <td style={{ padding: '4px 4px' }}>该区域已有大量 Wagas 外卖订单（需求外溢）</td>
+                  </tr>
+                  <tr style={{ borderBottom: '1px solid #f1f5f9' }}>
+                    <td style={{ padding: '4px 0' }}>竞品验证度</td>
+                    <td style={{ textAlign: 'right', padding: '4px 4px' }}>25</td>
+                    <td style={{ padding: '4px 4px' }}>有竞品 = 市场被验证；适中最好，过多不加分</td>
+                  </tr>
+                  <tr style={{ borderBottom: '1px solid #f1f5f9' }}>
+                    <td style={{ padding: '4px 0' }}>蚕食风险</td>
+                    <td style={{ textAlign: 'right', padding: '4px 4px' }}>25</td>
+                    <td style={{ padding: '4px 4px' }}>分数高 = 蚕食少 = 安全；落在现有店配送圈内会扣分</td>
+                  </tr>
+                  <tr>
+                    <td style={{ padding: '4px 0' }}>自有门店距离</td>
+                    <td style={{ textAlign: 'right', padding: '4px 4px' }}>20</td>
+                    <td style={{ padding: '4px 4px' }}>越远分越高（覆盖新客群）；&lt;0.5km 几乎不得分</td>
+                  </tr>
+                </tbody>
+              </table>
+              <p style={{ marginTop: 8, fontSize: 11, color: '#94a3b8' }}>⚠ 当前为测试版评分算法，权重和阈值可根据实际反馈调整。</p>
+            </HelpSection>
+
+            <HelpSection title="🗺️ 地图图层">
+              <p><b style={{ color: '#f97316' }}>🟠 橙色圆点</b> — Wagas 现有门店（362 家）</p>
+              <p><b style={{ color: '#ef4444' }}> 红色水滴</b> — 你选择的候选点位</p>
+              <p><b style={{ color: '#3b82f6' }}> 蓝色轮廓</b> — 现有门店的外卖配送范围（70% 订单覆盖圈）</p>
+              <p><b>彩色小圆点</b> — 竞品门店（绿色=星巴克、紫色=超级碗、黄色=赛百味、粉色=gaga、蓝色=蓝蛙、棕色=Manner）</p>
+            </HelpSection>
+
+            <HelpSection title=" 数据说明">
+              <p>• <b>门店数据</b>：{stores.length} 家常规门店（已过滤云厨子店），含真实 ADS、渠道拆分、配送距离分布</p>
+              <p>• <b>竞品数据</b>：6 个品牌共 {Object.values(competitors).reduce((s, l) => s + l.length, 0)} 家门店，来自高德 POI，每月更新</p>
+              <p>• <b>外卖需求</b>：基于近 30 天真实配送点坐标，反映"顾客实际从哪里下单"</p>
+              <p>• <b>配送轮廓</b>：基于 70% 订单阈值 + 95 分位距离过滤 + Chaikin 平滑算法计算</p>
+              <p>• <b>外卖需求数据</b>目前仅覆盖上海、北京，其他城市显示"暂无数据"</p>
+            </HelpSection>
+
+            <HelpSection title="❓ 常见问题">
+              <QaItem q="评分多少算好？" a="测试版暂无基准线。建议对比多个候选点位的评分，选相对最高的。后续积累数据后可建立基准。" />
+              <QaItem q="蚕食风险高怎么办？" a="说明该点位落在现有门店的配送范围内。如果目的是开纯外卖店扩大覆盖，蚕食风险高意味着新店的订单可能主要来自现有店的客群，而非新客。" />
+              <QaItem q="竞品太多是不是不好？" a="不一定。适度竞品（10-20家/3km）说明市场有需求且被验证。但竞品评分项在 30 家后不再加分，意味着过度饱和的区域优势有限。" />
+              <QaItem q="外卖需求为 0 是什么意思？" a="该点位 500m 范围内近 30 天没有 Wagas 外卖订单。可能是全新市场（机会），也可能是确实没需求（风险），需结合其他指标判断。" />
+              <QaItem q="可以保存多个候选点对比吗？" a="当前测试版只支持一个候选点。后续版本会加入候选点列表和对比功能。" />
+            </HelpSection>
+
+            <div style={{ marginTop: 16, paddingTop: 12, borderTop: '1px solid #e2e8f0', fontSize: 11, color: '#94a3b8', textAlign: 'center' }}>
+              Wagas 外卖店选址工具 v0.1（测试版）· 数据截至 {new Date().toLocaleDateString('zh-CN')}
+            </div>
+          </div>
+        </div>
+      )}
     </div>
   );
 }
@@ -444,6 +542,24 @@ function Section({ title, badge, children }: { title: string; badge?: string; ch
         {badge && <span style={{ fontSize: 10, color: '#94a3b8' }}>{badge}</span>}
       </div>
       {children}
+    </div>
+  );
+}
+
+function HelpSection({ title, children }: { title: string; children: React.ReactNode }) {
+  return (
+    <div style={{ marginBottom: 16 }}>
+      <h3 style={{ fontSize: 14, fontWeight: 700, marginBottom: 8, color: '#1e293b' }}>{title}</h3>
+      <div style={{ fontSize: 13, lineHeight: 1.8, color: '#475569' }}>{children}</div>
+    </div>
+  );
+}
+
+function QaItem({ q, a }: { q: string; a: string }) {
+  return (
+    <div style={{ marginBottom: 8 }}>
+      <div style={{ fontWeight: 600, fontSize: 12, color: '#1e293b' }}>{q}</div>
+      <div style={{ fontSize: 12, color: '#64748b', paddingLeft: 12 }}>{a}</div>
     </div>
   );
 }
