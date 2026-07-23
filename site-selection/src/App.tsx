@@ -19,6 +19,17 @@ type CompetitorData = Record<string, CompetitorStore[]>
 interface DeliveryPoint { lat: number; lng: number; w: number }
 type DeliveryCityData = Record<string, DeliveryPoint[]>
 
+interface MeituanMallData {
+  store_id: string;
+  store_name: string;
+  delivery_orders_all_3km: number | null;
+  delivery_pop_all_3km: number | null;
+  delivery_orders_target_3km: number | null;
+  catering_spending: number | null;
+  work_population: number | null;
+  residential_percentile: number | null;
+}
+
 interface CandidateAnalysis {
   lat: number; lng: number;
   // 自有门店
@@ -37,6 +48,9 @@ interface CandidateAnalysis {
   residentialCount: number | null;
   // 配送效率（周边门店短距离订单占比）
   deliveryEfficiency: number | null;
+  // 美团市场验证（5km内有美团报告的门店数据）
+  meituanStore: { store_id: string; store_name: string; dist: number } | null;
+  meituanData: MeituanMallData | null;
   // 评分
   score: number;
   scoreBreakdown: { label: string; value: number; max: number; note: string; logic: string }[];
@@ -98,6 +112,7 @@ function computeAnalysis(
   lat: number, lng: number,
   stores: Store[], competitors: CompetitorData,
   deliveryData: DeliveryCityData, deliveryCity: string | null,
+  meituanData: MeituanMallData[],
 ): CandidateAnalysis {
   // Nearby our stores
   const nearby1km = stores.filter(s => haversine(lat, lng, s.lat, s.lng) <= 1.0);
@@ -155,7 +170,27 @@ function computeAnalysis(
     }
   }
 
-  // ===== Scoring (5 dimensions, 100 total) =====
+  // Meituan market validation: find nearest store within 5km that has Meituan data
+  let meituanStore: { store_id: string; store_name: string; dist: number } | null = null;
+  let meituanInfo: MeituanMallData | null = null;
+  if (meituanData.length > 0) {
+    const meituanMap = new Map(meituanData.map(m => [m.store_id, m]));
+    let bestDist = Infinity;
+    let bestStore: Store | null = null;
+    for (const s of stores) {
+      const d = haversine(lat, lng, s.lat, s.lng);
+      if (d <= 5.0 && d < bestDist && meituanMap.has(s.sid)) {
+        bestDist = d;
+        bestStore = s;
+      }
+    }
+    if (bestStore) {
+      meituanStore = { store_id: bestStore.sid, store_name: bestStore.name, dist: Math.round(bestDist * 10) / 10 };
+      meituanInfo = meituanMap.get(bestStore.sid) ?? null;
+    }
+  }
+
+  // ===== Scoring (6 dimensions, 115 total) =====
 
   // 1. 外卖需求潜力 (0-30): delivery demand + POI density
   // Solves chicken-and-egg: even with 0 delivery points, high density = potential
@@ -206,7 +241,44 @@ function computeAnalysis(
     storeScore = 10;
   }
 
-  const score = Math.round(demandScore + compScore + cannibScore + efficiencyScore + storeScore);
+  // 6. 美团市场验证 (0-15): based on nearest store's Meituan report data
+  let meituanScore = 0;
+  if (meituanInfo) {
+    // 外卖单量 (0-5): >50千单=5, 20-50=3, <20=1
+    if (meituanInfo.delivery_orders_all_3km != null) {
+      if (meituanInfo.delivery_orders_all_3km > 50) meituanScore += 5;
+      else if (meituanInfo.delivery_orders_all_3km > 20) meituanScore += 3;
+      else meituanScore += 1;
+    }
+    // 外卖人口 (0-3): >30千人=3, 10-30=2, <10=1
+    if (meituanInfo.delivery_pop_all_3km != null) {
+      if (meituanInfo.delivery_pop_all_3km > 30) meituanScore += 3;
+      else if (meituanInfo.delivery_pop_all_3km > 10) meituanScore += 2;
+      else meituanScore += 1;
+    }
+    // 目标品类单量 (0-2): >3千单=2, 1-3=1, <1=0
+    if (meituanInfo.delivery_orders_target_3km != null) {
+      if (meituanInfo.delivery_orders_target_3km > 3) meituanScore += 2;
+      else if (meituanInfo.delivery_orders_target_3km > 1) meituanScore += 1;
+    }
+    // 餐饮消费金额 (0-2): >5000万=2, 1000-5000=1, <1000=0
+    if (meituanInfo.catering_spending != null) {
+      if (meituanInfo.catering_spending > 5000) meituanScore += 2;
+      else if (meituanInfo.catering_spending > 1000) meituanScore += 1;
+    }
+    // 工作人口 (0-2): >50万=2, 20-50=1, <20=0
+    if (meituanInfo.work_population != null) {
+      if (meituanInfo.work_population > 50) meituanScore += 2;
+      else if (meituanInfo.work_population > 20) meituanScore += 1;
+    }
+    // 居住人口百分位 (0-1): >70%=1, <70%=0
+    if (meituanInfo.residential_percentile != null && meituanInfo.residential_percentile > 70) {
+      meituanScore += 1;
+    }
+  }
+  meituanScore = Math.min(15, meituanScore);
+
+  const score = Math.round(demandScore + compScore + cannibScore + efficiencyScore + storeScore + meituanScore);
 
   // ===== Insights =====
   const insights: string[] = [];
@@ -256,6 +328,13 @@ function computeAnalysis(
     }
   }
 
+  // Meituan market validation insight
+  if (meituanStore && meituanInfo) {
+    insights.push(`5km 内有美团报告覆盖的门店「${meituanStore.store_name}」（${meituanStore.dist}km）：外卖单量 ${meituanInfo.delivery_orders_all_3km ?? '?'}千单/3km，外卖人口 ${meituanInfo.delivery_pop_all_3km ?? '?'}千人/3km，餐饮消费 ${meituanInfo.catering_spending ? Math.round(meituanInfo.catering_spending) + '万/月' : '?'}。注意：数据针对商场，非商场位置仅供参考。`);
+  } else {
+    insights.push('5km 内无美团报告覆盖的门店，无法获取第三方市场验证数据。');
+  }
+
   // Recommendation
   let recommendation: string;
   if (score >= 75) {
@@ -273,6 +352,7 @@ function computeAnalysis(
     nearestStore: nearest, cannibalizedBy, competitorStats,
     deliveryDemand, deliveryCity,
     officeCount, residentialCount, deliveryEfficiency,
+    meituanStore, meituanData: meituanInfo,
     score,
     scoreBreakdown: [
       {
@@ -300,6 +380,11 @@ function computeAnalysis(
         note: nearest ? `最近 ${nearest.store.name} ${nearest.dist.toFixed(1)}km` : '周边3km无自有门店',
         logic: '<0.5km=1分, 0.5-1km=3分, 1-2km=6分, 2-3km=8分, >3km或无门店=10分',
       },
+      {
+        label: '美团市场验证', value: meituanScore, max: 15,
+        note: meituanStore ? `基于${meituanStore.store_name}(${meituanStore.dist}km)` : '5km内无美团报告',
+        logic: '外卖单量(0-5) + 外卖人口(0-3) + 目标品类(0-2) + 餐饮消费(0-2) + 工作人口(0-2) + 居住人口(0-1)',
+      },
     ],
     insights,
     recommendation,
@@ -316,6 +401,7 @@ function MapClickHandler({ onClick }: { onClick: (lat: number, lng: number) => v
 export default function App() {
   const [stores, setStores] = useState<Store[]>([]);
   const [competitors, setCompetitors] = useState<CompetitorData>({});
+  const [meituanData, setMeituanData] = useState<MeituanMallData[]>([]);
   const [deliveryData, setDeliveryData] = useState<DeliveryCityData>({});
   const [deliveryCity, setDeliveryCity] = useState<string | null>(null);
   const [candidate, setCandidate] = useState<{ lat: number; lng: number } | null>(null);
@@ -330,9 +416,11 @@ export default function App() {
     Promise.all([
       fetch(`${import.meta.env.BASE_URL}data/stores.json`).then(r => r.json()),
       fetch(`${import.meta.env.BASE_URL}data/competitor_stores.json`).then(r => r.json()).catch(() => ({})),
-    ]).then(([s, c]) => {
+      fetch(`${import.meta.env.BASE_URL}data/meituan_mall_data.json`).then(r => r.json()).catch(() => ([])),
+    ]).then(([s, c, m]) => {
       setStores(s);
       setCompetitors(c);
+      setMeituanData(m);
       const brands: Record<string, boolean> = {};
       Object.keys(c).forEach(b => { brands[b] = true; });
       setCompetitorBrands(brands);
@@ -378,8 +466,8 @@ export default function App() {
   // Compute analysis
   const analysis = useMemo(() => {
     if (!candidate) return null;
-    return computeAnalysis(candidate.lat, candidate.lng, stores, competitors, deliveryData, deliveryCity);
-  }, [candidate, stores, competitors, deliveryData, deliveryCity]);
+    return computeAnalysis(candidate.lat, candidate.lng, stores, competitors, deliveryData, deliveryCity, meituanData);
+  }, [candidate, stores, competitors, deliveryData, deliveryCity, meituanData]);
 
   if (loading) return <div style={{ padding: 40, fontSize: 16 }}>加载中...</div>;
   if (error) return <div style={{ padding: 40, color: 'red' }}>{error}</div>;
