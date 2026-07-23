@@ -7,6 +7,8 @@ import 'leaflet/dist/leaflet.css'
 interface Store {
   sid: string; name: string; brand: string; city: string; addr: string;
   lng: number; lat: number; ads: number | null;
+  market?: { office_count: number; residential_count: number; [key: string]: unknown };
+  dist?: { d1_pct: number | null; d2_pct: number | null; d3_pct: number | null; d4_pct: number | null; d5_pct: number | null; total_orders: number };
   delivery_contour?: [number, number][];
 }
 interface CompetitorStore {
@@ -28,11 +30,20 @@ interface CandidateAnalysis {
   // 竞品
   competitorStats: { brand: string; n1: number; n3: number; med: number | null }[];
   // 外卖需求
-  deliveryDemand: number | null; // total weight within 500m
+  deliveryDemand: number | null;
   deliveryCity: string | null;
+  // 需求潜力（周边写字楼/住宅）
+  officeCount: number | null;
+  residentialCount: number | null;
+  // 配送效率（周边门店短距离订单占比）
+  deliveryEfficiency: number | null;
   // 评分
   score: number;
-  scoreBreakdown: { label: string; value: number; max: number; note: string }[];
+  scoreBreakdown: { label: string; value: number; max: number; note: string; logic: string }[];
+  // 数据洞察结论
+  insights: string[];
+  // 综合建议
+  recommendation: string;
 }
 
 // ========== Geo Utils ==========
@@ -98,7 +109,7 @@ function computeAnalysis(
       }, { store: nearby3km[0], dist: Infinity })
     : null;
 
-  // Cannibalization: which stores' delivery contours contain this point
+  // Cannibalization: point-in-polygon + area overlap estimate
   const cannibalizedBy = stores
     .filter(s => s.delivery_contour && s.delivery_contour.length > 0)
     .filter(s => pointInPolygon(lat, lng, s.delivery_contour!))
@@ -123,37 +134,175 @@ function computeAnalysis(
       .reduce((sum, p) => sum + p.w, 0);
   }
 
-  // Score (0-100)
-  // 1. Delivery demand (0-30): higher = better
-  const demandScore = deliveryDemand != null ? Math.min(30, deliveryDemand / 5) : 10;
-  // 2. Competitor presence (0-25): some = validated, too many = saturated
-  const totalCompetitors3km = competitorStats.reduce((s, c) => s + c.n3, 0);
-  const compScore = totalCompetitors3km === 0 ? 5 : Math.min(25, 10 + totalCompetitors3km * 0.5);
-  // 3. Cannibalization (0-25): fewer = better
-  const cannibScore = Math.max(0, 25 - cannibalizedBy.length * 8);
-  // 4. Nearest store distance (0-20): moderate distance = good
-  let storeScore = 10;
-  if (nearest) {
-    if (nearest.dist < 0.5) storeScore = 2; // too close, cannibalize
-    else if (nearest.dist < 1.0) storeScore = 8;
-    else if (nearest.dist < 2.0) storeScore = 15;
-    else storeScore = 20; // far = new market
-  } else {
-    storeScore = 20; // no nearby store = new market
+  // Demand potential: use nearby stores' market data (office/residential counts)
+  let officeCount: number | null = null;
+  let residentialCount: number | null = null;
+  if (nearby3km.length > 0) {
+    const offices = nearby3km.map(s => s.market?.office_count ?? 0).filter(v => v > 0);
+    const resid = nearby3km.map(s => s.market?.residential_count ?? 0).filter(v => v > 0);
+    officeCount = offices.length > 0 ? Math.round(offices.reduce((a, b) => a + b, 0) / offices.length) : 0;
+    residentialCount = resid.length > 0 ? Math.round(resid.reduce((a, b) => a + b, 0) / resid.length) : 0;
   }
 
-  const score = Math.round(demandScore + compScore + cannibScore + storeScore);
+  // Delivery efficiency: nearby stores' short-distance order ratio (d1+d2)
+  let deliveryEfficiency: number | null = null;
+  if (nearby3km.length > 0) {
+    const effs = nearby3km
+      .map(s => s.dist ? (s.dist.d1_pct ?? 0) + (s.dist.d2_pct ?? 0) : null)
+      .filter((v): v is number => v !== null);
+    if (effs.length > 0) {
+      deliveryEfficiency = Math.round(effs.reduce((a, b) => a + b, 0) / effs.length * 10) / 10;
+    }
+  }
+
+  // ===== Scoring (5 dimensions, 100 total) =====
+
+  // 1. 外卖需求潜力 (0-30): delivery demand + POI density
+  // Solves chicken-and-egg: even with 0 delivery points, high density = potential
+  let demandScore = 0;
+  if (deliveryDemand != null) {
+    demandScore += Math.min(15, deliveryDemand / 3); // 0-15 from actual orders
+  } else {
+    demandScore += 5; // baseline when no delivery data
+  }
+  const densityScore = (officeCount ?? 0) + (residentialCount ?? 0);
+  if (densityScore > 0) {
+    demandScore += Math.min(15, densityScore / 20); // 0-15 from POI density
+  } else {
+    demandScore += 5; // baseline when no POI data
+  }
+  demandScore = Math.min(30, demandScore);
+
+  // 2. 竞品验证度 (0-20): validated market, saturation penalty
+  const totalCompetitors3km = competitorStats.reduce((s, c) => s + c.n3, 0);
+  let compScore: number;
+  if (totalCompetitors3km === 0) compScore = 3;
+  else if (totalCompetitors3km <= 10) compScore = 8 + totalCompetitors3km * 0.7;
+  else if (totalCompetitors3km <= 25) compScore = 15 + (totalCompetitors3km - 10) * 0.4;
+  else compScore = Math.max(10, 20 - (totalCompetitors3km - 25) * 0.3); // saturation penalty
+  compScore = Math.min(20, Math.max(0, compScore));
+
+  // 3. 蚕食风险 (0-25): fewer = better
+  const cannibScore = Math.max(0, 25 - cannibalizedBy.length * 8);
+
+  // 4. 配送效率 (0-15): higher short-distance ratio = more profitable
+  let efficiencyScore = 7; // baseline
+  if (deliveryEfficiency != null) {
+    if (deliveryEfficiency >= 60) efficiencyScore = 15;
+    else if (deliveryEfficiency >= 45) efficiencyScore = 12;
+    else if (deliveryEfficiency >= 30) efficiencyScore = 9;
+    else efficiencyScore = 5;
+  }
+
+  // 5. 自有门店距离 (0-10): farther = new market
+  let storeScore = 5;
+  if (nearest) {
+    if (nearest.dist < 0.5) storeScore = 1;
+    else if (nearest.dist < 1.0) storeScore = 3;
+    else if (nearest.dist < 2.0) storeScore = 6;
+    else if (nearest.dist < 3.0) storeScore = 8;
+    else storeScore = 10;
+  } else {
+    storeScore = 10;
+  }
+
+  const score = Math.round(demandScore + compScore + cannibScore + efficiencyScore + storeScore);
+
+  // ===== Insights =====
+  const insights: string[] = [];
+
+  // Demand insight
+  if (deliveryDemand != null && deliveryDemand > 0) {
+    insights.push(`该点位 500m 范围内近 30 天有 ${Math.round(deliveryDemand)} 笔 Wagas 外卖订单，说明已有真实需求从此处发出。`);
+  } else if (officeCount != null && residentialCount != null) {
+    const total = officeCount + residentialCount;
+    if (total > 100) {
+      insights.push(`周边 3km 内有约 ${officeCount} 栋写字楼、${residentialCount} 个住宅小区，外卖需求潜力较高。`);
+    } else if (total > 30) {
+      insights.push(`周边 3km 内有约 ${officeCount} 栋写字楼、${residentialCount} 个住宅小区，外卖需求潜力中等。`);
+    } else {
+      insights.push(`周边 3km 内写字楼和住宅小区较少（${officeCount} + ${residentialCount}），外卖需求潜力偏低。`);
+    }
+  }
+
+  // Cannibalization insight
+  if (cannibalizedBy.length > 0) {
+    const names = cannibalizedBy.slice(0, 3).map(c => c.store.name).join('、');
+    insights.push(`该点位位于 ${cannibalizedBy.length} 家现有门店的配送范围内（${names}${cannibalizedBy.length > 3 ? '等' : ''}），蚕食风险较高。`);
+  } else {
+    insights.push('该点位不在任何现有门店的配送范围内，蚕食风险低。');
+  }
+
+  // Competitor insight
+  if (totalCompetitors3km > 0) {
+    const topBrand = competitorStats[0]?.brand ?? '';
+    if (totalCompetitors3km > 25) {
+      insights.push(`3km 内有 ${totalCompetitors3km} 家竞品（以${topBrand}为主），市场已被充分验证但趋于饱和。`);
+    } else if (totalCompetitors3km > 10) {
+      insights.push(`3km 内有 ${totalCompetitors3km} 家竞品（以${topBrand}为主），竞争适中，市场有需求。`);
+    } else {
+      insights.push(`3km 内仅 ${totalCompetitors3km} 家竞品，市场竞争较少，可能是机会也可能是需求不足。`);
+    }
+  } else {
+    insights.push('3km 内无竞品，市场尚未被验证，需结合需求潜力综合判断。');
+  }
+
+  // Delivery efficiency insight
+  if (deliveryEfficiency != null) {
+    if (deliveryEfficiency >= 50) {
+      insights.push(`周边门店 ${deliveryEfficiency}% 的订单在 2km 内完成，配送效率高，适合外卖店运营。`);
+    } else {
+      insights.push(`周边门店仅 ${deliveryEfficiency}% 的订单在 2km 内，配送距离偏长，成本较高。`);
+    }
+  }
+
+  // Recommendation
+  let recommendation: string;
+  if (score >= 75) {
+    recommendation = '综合评分优秀，推荐在此开设外卖店。';
+  } else if (score >= 60) {
+    recommendation = '综合评分良好，建议进一步调研后决策。';
+  } else if (score >= 45) {
+    recommendation = '综合评分一般，蚕食风险或需求不足，谨慎考虑。';
+  } else {
+    recommendation = '综合评分较低，不建议在此开设外卖店。';
+  }
 
   return {
     lat, lng, nearbyStores1km: nearby1km, nearbyStores3km: nearby3km,
     nearestStore: nearest, cannibalizedBy, competitorStats,
-    deliveryDemand, deliveryCity, score,
+    deliveryDemand, deliveryCity,
+    officeCount, residentialCount, deliveryEfficiency,
+    score,
     scoreBreakdown: [
-      { label: '外卖需求热度', value: Math.round(demandScore), max: 30, note: deliveryDemand != null ? `${Math.round(deliveryDemand)} 单(500m内)` : '暂无数据' },
-      { label: '竞品验证度', value: Math.round(compScore), max: 25, note: `3km内 ${totalCompetitors3km} 家竞品` },
-      { label: '蚕食风险', value: Math.round(cannibScore), max: 25, note: cannibalizedBy.length > 0 ? `${cannibalizedBy.length} 家门店轮廓覆盖此点` : '无蚕食风险' },
-      { label: '自有门店距离', value: storeScore, max: 20, note: nearest ? `最近 ${nearest.store.name} ${nearest.dist.toFixed(1)}km` : '周边无自有门店' },
+      {
+        label: '外卖需求潜力', value: Math.round(demandScore), max: 30,
+        note: deliveryDemand != null ? `${Math.round(deliveryDemand)} 单(500m) + ${officeCount ?? 0}写字楼/${residentialCount ?? 0}住宅` : `${officeCount ?? 0}写字楼/${residentialCount ?? 0}住宅`,
+        logic: '实际配送单量(0-15分) + 周边写字楼/住宅密度(0-15分)',
+      },
+      {
+        label: '竞品验证度', value: Math.round(compScore), max: 20,
+        note: `3km内 ${totalCompetitors3km} 家竞品`,
+        logic: '0家=3分, 1-10家线性增长至15分, 10-25家缓增至20分, >25家递减(饱和惩罚)',
+      },
+      {
+        label: '蚕食风险', value: Math.round(cannibScore), max: 25,
+        note: cannibalizedBy.length > 0 ? `${cannibalizedBy.length} 家门店配送轮廓覆盖此点` : '无蚕食风险',
+        logic: '25分 - 覆盖门店数×8 (0家=25分, 3家以上=0分)',
+      },
+      {
+        label: '配送效率', value: efficiencyScore, max: 15,
+        note: deliveryEfficiency != null ? `${deliveryEfficiency}% 订单在2km内` : '暂无周边门店配送数据',
+        logic: '≥60%=15分, ≥45%=12分, ≥30%=9分, <30%=5分, 无数据=7分',
+      },
+      {
+        label: '自有门店距离', value: storeScore, max: 10,
+        note: nearest ? `最近 ${nearest.store.name} ${nearest.dist.toFixed(1)}km` : '周边3km无自有门店',
+        logic: '<0.5km=1分, 0.5-1km=3分, 1-2km=6分, 2-3km=8分, >3km或无门店=10分',
+      },
     ],
+    insights,
+    recommendation,
   };
 }
 
@@ -450,19 +599,43 @@ function AnalysisView({ analysis }: { analysis: CandidateAnalysis }) {
       <div style={{ marginBottom: 12 }}>
         <div style={{ fontWeight: 600, fontSize: 12, marginBottom: 6 }}>评分明细</div>
         {a.scoreBreakdown.map((item, i) => (
-          <div key={i} style={{ marginBottom: 6 }}>
+          <div key={i} style={{ marginBottom: 8, padding: '6px 8px', background: '#f8fafc', borderRadius: 4 }}>
             <div style={{ display: 'flex', justifyContent: 'space-between', fontSize: 11 }}>
-              <span>{item.label}</span>
-              <span style={{ fontWeight: 600 }}>{item.value}/{item.max}</span>
+              <span style={{ fontWeight: 600 }}>{item.label}</span>
+              <span style={{ fontWeight: 700 }}>{item.value}/{item.max}</span>
             </div>
-            <div style={{ height: 4, background: '#e2e8f0', borderRadius: 2, overflow: 'hidden' }}>
+            <div style={{ height: 4, background: '#e2e8f0', borderRadius: 2, overflow: 'hidden', marginTop: 4 }}>
               <div style={{ height: '100%', width: `${(item.value / item.max) * 100}%`,
                 background: item.value / item.max > 0.7 ? '#16a34a' : item.value / item.max > 0.4 ? '#f59e0b' : '#ef4444',
                 borderRadius: 2 }} />
             </div>
-            <div style={{ fontSize: 10, color: '#94a3b8' }}>{item.note}</div>
+            <div style={{ fontSize: 10, color: '#64748b', marginTop: 3 }}>{item.note}</div>
+            <div style={{ fontSize: 9, color: '#94a3b8', marginTop: 2, fontStyle: 'italic' }}>算法：{item.logic}</div>
           </div>
         ))}
+      </div>
+
+      {/* Insights */}
+      <div style={{ marginBottom: 12, padding: '10px 12px', background: '#fffbeb', borderRadius: 6, border: '1px solid #fde68a' }}>
+        <div style={{ fontWeight: 600, fontSize: 12, marginBottom: 6, color: '#92400e' }}>数据洞察</div>
+        {a.insights.map((insight, i) => (
+          <div key={i} style={{ fontSize: 11, color: '#78350f', lineHeight: 1.7, marginBottom: 4 }}>
+            • {insight}
+          </div>
+        ))}
+      </div>
+
+      {/* Recommendation */}
+      <div style={{
+        marginBottom: 12, padding: '10px 12px', borderRadius: 6,
+        background: a.score >= 60 ? '#f0fdf4' : a.score >= 45 ? '#fffbeb' : '#fef2f2',
+        border: `1px solid ${a.score >= 60 ? '#bbf7d0' : a.score >= 45 ? '#fde68a' : '#fecaca'}`,
+      }}>
+        <div style={{ fontWeight: 600, fontSize: 12, marginBottom: 4,
+          color: a.score >= 60 ? '#166534' : a.score >= 45 ? '#92400e' : '#991b1b' }}>
+          综合建议
+        </div>
+        <div style={{ fontSize: 12, color: '#374151', lineHeight: 1.6 }}>{a.recommendation}</div>
       </div>
 
       {/* Nearby our stores */}
