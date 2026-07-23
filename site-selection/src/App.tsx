@@ -337,11 +337,11 @@ function computeAnalysis(
 
   // Recommendation
   let recommendation: string;
-  if (score >= 75) {
+  if (score >= 85) {
     recommendation = '综合评分优秀，推荐在此开设外卖店。';
-  } else if (score >= 60) {
+  } else if (score >= 70) {
     recommendation = '综合评分良好，建议进一步调研后决策。';
-  } else if (score >= 45) {
+  } else if (score >= 55) {
     recommendation = '综合评分一般，蚕食风险或需求不足，谨慎考虑。';
   } else {
     recommendation = '综合评分较低，不建议在此开设外卖店。';
@@ -592,8 +592,8 @@ export default function App() {
               <p>4. 通过左下角的<b>图层开关</b>控制竞品门店的显示。</p>
             </HelpSection>
 
-            <HelpSection title="📊 评分说明（满分 100）">
-              <p>评分由 4 个维度加权计算，每个维度的含义和"好方向"不同：</p>
+            <HelpSection title="📊 评分说明（满分 115）">
+              <p>评分由 6 个维度加权计算，每个维度的含义和"好方向"不同：</p>
               <table style={{ width: '100%', borderCollapse: 'collapse', fontSize: 12, marginTop: 6 }}>
                 <thead>
                   <tr style={{ borderBottom: '2px solid #e2e8f0' }}>
@@ -620,8 +620,13 @@ export default function App() {
                   </tr>
                   <tr>
                     <td style={{ padding: '4px 0' }}>自有门店距离</td>
-                    <td style={{ textAlign: 'right', padding: '4px 4px' }}>20</td>
+                    <td style={{ textAlign: 'right', padding: '4px 4px' }}>10</td>
                     <td style={{ padding: '4px 4px' }}>越远分越高（覆盖新客群）；&lt;0.5km 几乎不得分</td>
+                  </tr>
+                  <tr>
+                    <td style={{ padding: '4px 0' }}>美团市场验证</td>
+                    <td style={{ textAlign: 'right', padding: '4px 4px' }}>15</td>
+                    <td style={{ padding: '4px 4px' }}>5km内有美团报告时加分；数据针对商场，非商场仅供参考</td>
                   </tr>
                 </tbody>
               </table>
@@ -673,10 +678,10 @@ function AnalysisView({ analysis }: { analysis: CandidateAnalysis }) {
       }}>
         <div style={{ fontSize: 11, color: '#64748b', marginBottom: 2 }}>综合选址评分</div>
         <div style={{ display: 'flex', alignItems: 'baseline', gap: 8 }}>
-          <span style={{ fontSize: 36, fontWeight: 800, color: a.score >= 70 ? '#16a34a' : a.score >= 50 ? '#f59e0b' : '#ef4444' }}>
+          <span style={{ fontSize: 36, fontWeight: 800, color: a.score >= 85 ? '#16a34a' : a.score >= 60 ? '#f59e0b' : '#ef4444' }}>
             {a.score}
           </span>
-          <span style={{ fontSize: 14, color: '#94a3b8' }}>/ 100</span>
+          <span style={{ fontSize: 14, color: '#94a3b8' }}>/ 115</span>
         </div>
         <div style={{ fontSize: 11, color: '#64748b', marginTop: 4 }}>
           {a.lat.toFixed(5)}, {a.lng.toFixed(5)}
