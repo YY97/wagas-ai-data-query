@@ -111,6 +111,7 @@ function computeAnalysis(
   stores: Store[], competitors: CompetitorData,
   deliveryData: DeliveryCityData, deliveryCity: string | null,
   meituanData: MeituanMallData[],
+  densityGridData: { lat: number; lng: number; office_count: number; residential_count: number }[],
 ): CandidateAnalysis {
   // Nearby our stores
   const nearby1km = stores.filter(s => haversine(lat, lng, s.lat, s.lng) <= 1.0);
@@ -147,14 +148,25 @@ function computeAnalysis(
       .reduce((sum, p) => sum + p.w, 0);
   }
 
-  // Demand potential: use nearby stores' market data (office/residential counts)
+  // Demand potential: use density grid data (office/residential counts)
   let officeCount: number | null = null;
   let residentialCount: number | null = null;
-  if (nearby3km.length > 0) {
-    const offices = nearby3km.map(s => s.market?.office_count ?? 0).filter(v => v > 0);
-    const resid = nearby3km.map(s => s.market?.residential_count ?? 0).filter(v => v > 0);
-    officeCount = offices.length > 0 ? Math.round(offices.reduce((a, b) => a + b, 0) / offices.length) : 0;
-    residentialCount = resid.length > 0 ? Math.round(resid.reduce((a, b) => a + b, 0) / resid.length) : 0;
+  if (densityGridData.length > 0) {
+    // Find nearest grid point (grid is 1km resolution)
+    let nearestGrid: { lat: number; lng: number; office_count: number; residential_count: number } | null = null;
+    let minDist = Infinity;
+    for (const gp of densityGridData) {
+      const d = haversine(lat, lng, gp.lat, gp.lng);
+      if (d < minDist) {
+        minDist = d;
+        nearestGrid = gp;
+      }
+    }
+    // Use grid point if within 1km (grid resolution)
+    if (nearestGrid && minDist <= 1.0) {
+      officeCount = nearestGrid.office_count;
+      residentialCount = nearestGrid.residential_count;
+    }
   }
 
   // Delivery efficiency: nearby stores' short-distance order ratio (d1+d2)
@@ -398,6 +410,7 @@ export default function App() {
   const [candidate, setCandidate] = useState<{ lat: number; lng: number } | null>(null);
   const [showCompetitors, setShowCompetitors] = useState(true);
   const [competitorBrands, setCompetitorBrands] = useState<Record<string, boolean>>({});
+  const [densityGridData, setDensityGridData] = useState<{ lat: number; lng: number; office_count: number; residential_count: number }[]>([]);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
   const [showHelp, setShowHelp] = useState(false);
@@ -408,10 +421,12 @@ export default function App() {
       fetch(`${import.meta.env.BASE_URL}data/stores.json`).then(r => r.json()),
       fetch(`${import.meta.env.BASE_URL}data/competitor_stores.json`).then(r => r.json()).catch(() => ({})),
       fetch(`${import.meta.env.BASE_URL}data/meituan_mall_data.json`).then(r => r.json()).catch(() => ([])),
-    ]).then(([s, c, m]) => {
+      fetch(`${import.meta.env.BASE_URL}data/density_grid.json`).then(r => r.json()).catch(() => ([])),
+    ]).then(([s, c, m, d]) => {
       setStores(s);
       setCompetitors(c);
       setMeituanData(m);
+      setDensityGridData(d);
       const brands: Record<string, boolean> = {};
       Object.keys(c).forEach(b => { brands[b] = true; });
       setCompetitorBrands(brands);
@@ -457,8 +472,8 @@ export default function App() {
   // Compute analysis
   const analysis = useMemo(() => {
     if (!candidate) return null;
-    return computeAnalysis(candidate.lat, candidate.lng, stores, competitors, deliveryData, deliveryCity, meituanData);
-  }, [candidate, stores, competitors, deliveryData, deliveryCity, meituanData]);
+    return computeAnalysis(candidate.lat, candidate.lng, stores, competitors, deliveryData, deliveryCity, meituanData, densityGridData);
+  }, [candidate, stores, competitors, deliveryData, deliveryCity, meituanData, densityGridData]);
 
   if (loading) return <div style={{ padding: 40, fontSize: 16 }}>加载中...</div>;
   if (error) return <div style={{ padding: 40, color: 'red' }}>{error}</div>;
