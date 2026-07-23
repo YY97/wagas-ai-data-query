@@ -46,8 +46,6 @@ interface CandidateAnalysis {
   // 需求潜力（周边写字楼/住宅）
   officeCount: number | null;
   residentialCount: number | null;
-  // 配送效率（周边门店短距离订单占比）
-  deliveryEfficiency: number | null;
   // 美团市场验证（5km内有美团报告的门店数据）
   meituanStore: { store_id: string; store_name: string; dist: number } | null;
   meituanData: MeituanMallData | null;
@@ -190,58 +188,57 @@ function computeAnalysis(
     }
   }
 
-  // ===== Scoring (6 dimensions, 115 total) =====
+  // ===== Scoring (4 dimensions, 100 total) =====
 
-  // 1. 外卖需求潜力 (0-30): delivery demand + POI density
-  // Solves chicken-and-egg: even with 0 delivery points, high density = potential
+  // 1. 外卖需求潜力 (0-45): delivery demand + POI density
+  // Core factor: is there delivery demand here?
   let demandScore = 0;
-  if (deliveryDemand != null) {
-    demandScore += Math.min(15, deliveryDemand / 3); // 0-15 from actual orders
-  } else {
-    demandScore += 5; // baseline when no delivery data
+  let hasDemandData = false;
+  
+  // Delivery heatmap data (0-30 points)
+  if (deliveryDemand != null && deliveryDemand > 0) {
+    hasDemandData = true;
+    if (deliveryDemand >= 30) demandScore += 30;
+    else if (deliveryDemand >= 15) demandScore += 22;
+    else if (deliveryDemand >= 5) demandScore += 15;
+    else demandScore += 8;
   }
+  
+  // POI density data (0-15 points)
   const densityScore = (officeCount ?? 0) + (residentialCount ?? 0);
   if (densityScore > 0) {
-    demandScore += Math.min(15, densityScore / 20); // 0-15 from POI density
-  } else {
-    demandScore += 5; // baseline when no POI data
+    hasDemandData = true;
+    if (densityScore >= 150) demandScore += 15;
+    else if (densityScore >= 80) demandScore += 12;
+    else if (densityScore >= 30) demandScore += 8;
+    else demandScore += 4;
   }
-  demandScore = Math.min(30, demandScore);
+  
+  // If no data at all, score is 0 (honest: we don't know)
+  if (!hasDemandData) {
+    demandScore = 0;
+  }
 
-  // 2. 竞品验证度 (0-20): validated market, saturation penalty
+  // 2. 蚕食风险 (0-20): non-linear impact
+  // 0 cannibalization = best, but diminishing returns as count increases
+  let cannibScore: number;
+  if (cannibalizedBy.length === 0) cannibScore = 20;
+  else if (cannibalizedBy.length === 1) cannibScore = 15;
+  else if (cannibalizedBy.length === 2) cannibScore = 8;
+  else cannibScore = 2; // 3+ = severe
+
+  // 3. 竞品环境 (0-20): bell curve - moderate competition is best
+  // Too few = unvalidated market, too many = saturated
   const totalCompetitors3km = competitorStats.reduce((s, c) => s + c.n3, 0);
   let compScore: number;
-  if (totalCompetitors3km === 0) compScore = 3;
-  else if (totalCompetitors3km <= 10) compScore = 8 + totalCompetitors3km * 0.7;
-  else if (totalCompetitors3km <= 25) compScore = 15 + (totalCompetitors3km - 10) * 0.4;
-  else compScore = Math.max(10, 20 - (totalCompetitors3km - 25) * 0.3); // saturation penalty
-  compScore = Math.min(20, Math.max(0, compScore));
+  if (totalCompetitors3km === 0) compScore = 8;
+  else if (totalCompetitors3km <= 3) compScore = 12;
+  else if (totalCompetitors3km <= 8) compScore = 18;
+  else if (totalCompetitors3km <= 15) compScore = 20;
+  else if (totalCompetitors3km <= 25) compScore = 14;
+  else compScore = 8; // 26+ = over-saturated
 
-  // 3. 蚕食风险 (0-25): fewer = better
-  const cannibScore = Math.max(0, 25 - cannibalizedBy.length * 8);
-
-  // 4. 配送效率 (0-15): higher short-distance ratio = more profitable
-  let efficiencyScore = 7; // baseline
-  if (deliveryEfficiency != null) {
-    if (deliveryEfficiency >= 60) efficiencyScore = 15;
-    else if (deliveryEfficiency >= 45) efficiencyScore = 12;
-    else if (deliveryEfficiency >= 30) efficiencyScore = 9;
-    else efficiencyScore = 5;
-  }
-
-  // 5. 自有门店距离 (0-10): farther = new market
-  let storeScore = 5;
-  if (nearest) {
-    if (nearest.dist < 0.5) storeScore = 1;
-    else if (nearest.dist < 1.0) storeScore = 3;
-    else if (nearest.dist < 2.0) storeScore = 6;
-    else if (nearest.dist < 3.0) storeScore = 8;
-    else storeScore = 10;
-  } else {
-    storeScore = 10;
-  }
-
-  // 6. 美团市场验证 (0-15): based on nearest store's Meituan report data
+  // 4. 美团市场验证 (0-15): based on nearest store's Meituan report data
   let meituanScore = 0;
   if (meituanInfo) {
     // 外卖单量 (0-5): >50千单=5, 20-50=3, <20=1
@@ -278,7 +275,7 @@ function computeAnalysis(
   }
   meituanScore = Math.min(15, meituanScore);
 
-  const score = Math.round(demandScore + compScore + cannibScore + efficiencyScore + storeScore + meituanScore);
+  const score = Math.round(demandScore + cannibScore + compScore + meituanScore);
 
   // ===== Insights =====
   const insights: string[] = [];
@@ -337,12 +334,12 @@ function computeAnalysis(
 
   // Recommendation
   let recommendation: string;
-  if (score >= 85) {
-    recommendation = '综合评分优秀，推荐在此开设外卖店。';
-  } else if (score >= 70) {
-    recommendation = '综合评分良好，建议进一步调研后决策。';
-  } else if (score >= 55) {
-    recommendation = '综合评分一般，蚕食风险或需求不足，谨慎考虑。';
+  if (score >= 80) {
+    recommendation = '综合评分优秀，强烈推荐在此开设外卖店。';
+  } else if (score >= 65) {
+    recommendation = '综合评分良好，建议开设外卖店。';
+  } else if (score >= 50) {
+    recommendation = '综合评分中等，可以考虑但需进一步调研。';
   } else {
     recommendation = '综合评分较低，不建议在此开设外卖店。';
   }
@@ -351,34 +348,28 @@ function computeAnalysis(
     lat, lng, nearbyStores1km: nearby1km, nearbyStores3km: nearby3km,
     nearestStore: nearest, cannibalizedBy, competitorStats,
     deliveryDemand, deliveryCity,
-    officeCount, residentialCount, deliveryEfficiency,
+    officeCount, residentialCount,
     meituanStore, meituanData: meituanInfo,
     score,
     scoreBreakdown: [
       {
-        label: '外卖需求潜力', value: Math.round(demandScore), max: 30,
-        note: deliveryDemand != null ? `${Math.round(deliveryDemand)} 单(500m) + ${officeCount ?? 0}写字楼/${residentialCount ?? 0}住宅` : `${officeCount ?? 0}写字楼/${residentialCount ?? 0}住宅`,
-        logic: '实际配送单量(0-15分) + 周边写字楼/住宅密度(0-15分)',
+        label: '外卖需求潜力', value: Math.round(demandScore), max: 45,
+        note: deliveryDemand != null && deliveryDemand > 0 
+          ? `${Math.round(deliveryDemand)} 单(500m) + ${officeCount ?? 0}写字楼/${residentialCount ?? 0}住宅` 
+          : (officeCount != null || residentialCount != null) 
+            ? `${officeCount ?? 0}写字楼/${residentialCount ?? 0}住宅` 
+            : '无需求数据',
+        logic: '配送热力图(0-30分) + POI密度(0-15分)；无数据时0分（不虚假给分）',
       },
       {
-        label: '竞品验证度', value: Math.round(compScore), max: 20,
-        note: `3km内 ${totalCompetitors3km} 家竞品`,
-        logic: '0家=3分, 1-10家线性增长至15分, 10-25家缓增至20分, >25家递减(饱和惩罚)',
-      },
-      {
-        label: '蚕食风险', value: Math.round(cannibScore), max: 25,
+        label: '蚕食风险', value: Math.round(cannibScore), max: 20,
         note: cannibalizedBy.length > 0 ? `${cannibalizedBy.length} 家门店配送轮廓覆盖此点` : '无蚕食风险',
-        logic: '25分 - 覆盖门店数×8 (0家=25分, 3家以上=0分)',
+        logic: '非线性：0家=20分, 1家=15分, 2家=8分, 3+家=2分（阶梯式递减）',
       },
       {
-        label: '配送效率', value: efficiencyScore, max: 15,
-        note: deliveryEfficiency != null ? `${deliveryEfficiency}% 订单在2km内` : '暂无周边门店配送数据',
-        logic: '≥60%=15分, ≥45%=12分, ≥30%=9分, <30%=5分, 无数据=7分',
-      },
-      {
-        label: '自有门店距离', value: storeScore, max: 10,
-        note: nearest ? `最近 ${nearest.store.name} ${nearest.dist.toFixed(1)}km` : '周边3km无自有门店',
-        logic: '<0.5km=1分, 0.5-1km=3分, 1-2km=6分, 2-3km=8分, >3km或无门店=10分',
+        label: '竞品环境', value: Math.round(compScore), max: 20,
+        note: `3km内 ${totalCompetitors3km} 家竞品`,
+        logic: '钟形曲线：0家=8分, 4-8家=18分, 9-15家=20分（最佳）, 26+家=8分（饱和）',
       },
       {
         label: '美团市场验证', value: meituanScore, max: 15,
@@ -592,8 +583,8 @@ export default function App() {
               <p>4. 通过左下角的<b>图层开关</b>控制竞品门店的显示。</p>
             </HelpSection>
 
-            <HelpSection title="📊 评分说明（满分 115）">
-              <p>评分由 6 个维度加权计算，每个维度的含义和"好方向"不同：</p>
+            <HelpSection title="📊 评分说明（满分 100）">
+              <p>评分由 4 个维度加权计算，每个维度的含义和"好方向"不同：</p>
               <table style={{ width: '100%', borderCollapse: 'collapse', fontSize: 12, marginTop: 6 }}>
                 <thead>
                   <tr style={{ borderBottom: '2px solid #e2e8f0' }}>
@@ -604,29 +595,24 @@ export default function App() {
                 </thead>
                 <tbody>
                   <tr style={{ borderBottom: '1px solid #f1f5f9' }}>
-                    <td style={{ padding: '4px 0' }}>外卖需求热度</td>
-                    <td style={{ textAlign: 'right', padding: '4px 4px' }}>30</td>
-                    <td style={{ padding: '4px 4px' }}>该区域已有大量 Wagas 外卖订单（需求外溢）</td>
-                  </tr>
-                  <tr style={{ borderBottom: '1px solid #f1f5f9' }}>
-                    <td style={{ padding: '4px 0' }}>竞品验证度</td>
-                    <td style={{ textAlign: 'right', padding: '4px 4px' }}>25</td>
-                    <td style={{ padding: '4px 4px' }}>有竞品 = 市场被验证；适中最好，过多不加分</td>
+                    <td style={{ padding: '4px 0' }}>外卖需求潜力</td>
+                    <td style={{ textAlign: 'right', padding: '4px 4px' }}>45</td>
+                    <td style={{ padding: '4px 4px' }}>配送热力图+POI 密度高；无数据时 0 分（不虚假给分）</td>
                   </tr>
                   <tr style={{ borderBottom: '1px solid #f1f5f9' }}>
                     <td style={{ padding: '4px 0' }}>蚕食风险</td>
-                    <td style={{ textAlign: 'right', padding: '4px 4px' }}>25</td>
-                    <td style={{ padding: '4px 4px' }}>分数高 = 蚕食少 = 安全；落在现有店配送圈内会扣分</td>
+                    <td style={{ textAlign: 'right', padding: '4px 4px' }}>20</td>
+                    <td style={{ padding: '4px 4px' }}>非线性递减：0 家蚕食=20 分，3+ 家=2 分</td>
                   </tr>
-                  <tr>
-                    <td style={{ padding: '4px 0' }}>自有门店距离</td>
-                    <td style={{ textAlign: 'right', padding: '4px 4px' }}>10</td>
-                    <td style={{ padding: '4px 4px' }}>越远分越高（覆盖新客群）；&lt;0.5km 几乎不得分</td>
+                  <tr style={{ borderBottom: '1px solid #f1f5f9' }}>
+                    <td style={{ padding: '4px 0' }}>竞品环境</td>
+                    <td style={{ textAlign: 'right', padding: '4px 4px' }}>20</td>
+                    <td style={{ padding: '4px 4px' }}>钟形曲线：9-15 家竞品得分最高（市场验证且未饱和）</td>
                   </tr>
                   <tr>
                     <td style={{ padding: '4px 0' }}>美团市场验证</td>
                     <td style={{ textAlign: 'right', padding: '4px 4px' }}>15</td>
-                    <td style={{ padding: '4px 4px' }}>5km内有美团报告时加分；数据针对商场，非商场仅供参考</td>
+                    <td style={{ padding: '4px 4px' }}>5km 内有美团报告时加分；数据针对商场，非商场仅供参考</td>
                   </tr>
                 </tbody>
               </table>
@@ -681,7 +667,7 @@ function AnalysisView({ analysis }: { analysis: CandidateAnalysis }) {
           <span style={{ fontSize: 36, fontWeight: 800, color: a.score >= 85 ? '#16a34a' : a.score >= 60 ? '#f59e0b' : '#ef4444' }}>
             {a.score}
           </span>
-          <span style={{ fontSize: 14, color: '#94a3b8' }}>/ 115</span>
+          <span style={{ fontSize: 14, color: '#94a3b8' }}>/ 100</span>
         </div>
         <div style={{ fontSize: 11, color: '#64748b', marginTop: 4 }}>
           {a.lat.toFixed(5)}, {a.lng.toFixed(5)}
