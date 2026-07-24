@@ -46,11 +46,13 @@ interface CandidateAnalysis {
   // 需求潜力（周边写字楼/住宅）
   officeCount: number | null;
   residentialCount: number | null;
+  densityDataSource: 'grid' | 'city_avg' | null;
   // 美团市场验证（5km内有美团报告的门店数据）
   meituanStore: { store_id: string; store_name: string; dist: number } | null;
   meituanData: MeituanMallData | null;
   // 评分
   score: number;
+  baseScore: number;
   scoreBreakdown: { label: string; value: number; max: number; note: string; logic: string }[];
   // 数据洞察结论
   insights: string[];
@@ -151,8 +153,10 @@ function computeAnalysis(
   // Demand potential: use density grid data (office/residential counts)
   let officeCount: number | null = null;
   let residentialCount: number | null = null;
+  let densityDataSource: 'grid' | 'city_avg' | null = null;
+  
   if (densityGridData.length > 0) {
-    // Find nearest grid point (grid is 1km resolution)
+    // Find nearest grid point within 3km (expanded from 1km for better coverage)
     let nearestGrid: { lat: number; lng: number; office_count: number; residential_count: number } | null = null;
     let minDist = Infinity;
     for (const gp of densityGridData) {
@@ -162,10 +166,39 @@ function computeAnalysis(
         nearestGrid = gp;
       }
     }
-    // Use grid point if within 1km (grid resolution)
-    if (nearestGrid && minDist <= 1.0) {
+    
+    if (nearestGrid && minDist <= 3.0) {
+      // Use nearest grid point within 3km
       officeCount = nearestGrid.office_count;
       residentialCount = nearestGrid.residential_count;
+      densityDataSource = 'grid';
+    } else {
+      // Fallback: use city-level average from all grid points
+      // Determine city by checking which city's stores are nearest
+      let cityGridPoints: typeof densityGridData = [];
+      if (nearby3km.length > 0) {
+        // Use the city of the nearest store
+        const nearestStoreCity = nearby3km[0].city;
+        cityGridPoints = densityGridData.filter(gp => {
+          // Simple heuristic: filter grid points by approximate city boundaries
+          // Beijing: lat 39.4-40.3, lng 116.1-116.8
+          // Shanghai: lat 30.8-31.4, lng 121.1-121.7
+          if (nearestStoreCity.includes('北京')) {
+            return gp.lat >= 39.4 && gp.lat <= 40.3 && gp.lng >= 116.1 && gp.lng <= 116.8;
+          } else if (nearestStoreCity.includes('上海')) {
+            return gp.lat >= 30.8 && gp.lat <= 31.4 && gp.lng >= 121.1 && gp.lng <= 121.7;
+          }
+          return false;
+        });
+      }
+      
+      if (cityGridPoints.length > 0) {
+        const avgOffice = Math.round(cityGridPoints.reduce((sum, gp) => sum + gp.office_count, 0) / cityGridPoints.length);
+        const avgResidential = Math.round(cityGridPoints.reduce((sum, gp) => sum + gp.residential_count, 0) / cityGridPoints.length);
+        officeCount = avgOffice;
+        residentialCount = avgResidential;
+        densityDataSource = 'city_avg';
+      }
     }
   }
 
@@ -287,70 +320,118 @@ function computeAnalysis(
   }
   meituanScore = Math.min(15, meituanScore);
 
-  const score = Math.round(demandScore + cannibScore + compScore + meituanScore);
+  // Base score: 85 points (demand 45 + cannibalization 20 + competition 20)
+  const baseScore = Math.round(demandScore + cannibScore + compScore);
+  // Meituan validation is a bonus (0-15 points), not part of base score
+  const score = baseScore + meituanScore;
 
   // ===== Insights =====
   const insights: string[] = [];
 
-  // Demand insight
+  // Demand insight (multi-dimensional)
   if (deliveryDemand != null && deliveryDemand > 0) {
     insights.push(`该点位 500m 范围内近 30 天有 ${Math.round(deliveryDemand)} 笔 Wagas 外卖订单，说明已有真实需求从此处发出。`);
+    // Cross-reference with Meituan data if available
+    if (meituanInfo) {
+      const meituanOrders = meituanInfo.delivery_orders_all_3km;
+      if (meituanOrders != null) {
+        insights.push(`美团数据显示该区域 3km 内全品类外卖日均 ${meituanOrders} 千单，建议结合 Wagas 订单占比评估市场渗透空间。`);
+      }
+    }
   } else if (officeCount != null && residentialCount != null) {
     const total = officeCount + residentialCount;
+    const sourceLabel = densityDataSource === 'city_avg' ? '（城市均值）' : '';
     if (total > 100) {
-      insights.push(`周边 3km 内有约 ${officeCount} 栋写字楼、${residentialCount} 个住宅小区，外卖需求潜力较高。`);
+      insights.push(`周边 3km 内有约 ${officeCount} 栋写字楼、${residentialCount} 个住宅小区${sourceLabel}，外卖需求潜力较高。`);
+      insights.push(`建议：写字楼密集区域午餐时段订单占比通常较高，可重点分析周边竞品的午餐/晚餐订单分布。`);
     } else if (total > 30) {
-      insights.push(`周边 3km 内有约 ${officeCount} 栋写字楼、${residentialCount} 个住宅小区，外卖需求潜力中等。`);
+      insights.push(`周边 3km 内有约 ${officeCount} 栋写字楼、${residentialCount} 个住宅小区${sourceLabel}，外卖需求潜力中等。`);
+      insights.push(`建议：住宅区占比高时，晚餐和周末订单可能是主力，建议考察周边家庭消费场景。`);
     } else {
-      insights.push(`周边 3km 内写字楼和住宅小区较少（${officeCount} + ${residentialCount}），外卖需求潜力偏低。`);
+      insights.push(`周边 3km 内写字楼和住宅小区较少（${officeCount} + ${residentialCount}）${sourceLabel}，外卖需求潜力偏低。`);
+      insights.push(`建议：若该区域商业设施（商场、写字楼）正在建设中，可关注未来 1-2 年的需求增长潜力。`);
+    }
+    // Cross-reference with Meituan data
+    if (meituanInfo) {
+      const meituanPop = meituanInfo.delivery_pop_all_3km;
+      if (meituanPop != null) {
+        insights.push(`美团数据显示该区域 3km 内外卖人口 ${meituanPop} 千人，可作为需求验证的第三方参考。`);
+      }
     }
   }
 
-  // Cannibalization insight
+  // Cannibalization insight (with decision guidance)
   if (cannibalizedBy.length > 0) {
     const names = cannibalizedBy.slice(0, 3).map(c => c.store.name).join('、');
     insights.push(`该点位位于 ${cannibalizedBy.length} 家现有门店的配送范围内（${names}${cannibalizedBy.length > 3 ? '等' : ''}），蚕食风险较高。`);
+    insights.push(`建议：计算被蚕食门店的日均外卖单量，若新店预期单量 > 被蚕食门店单量的 30%，则净增量仍为正。`);
   } else {
     insights.push('该点位不在任何现有门店的配送范围内，蚕食风险低。');
+    insights.push(`建议：新市场开拓时，建议先小范围测试（如云厨房模式），验证需求后再投入重资产。`);
   }
 
-  // Competitor insight
+  // Competitor insight (with strategic guidance)
   if (totalCompetitors3km > 0) {
     const topBrand = competitorStats[0]?.brand ?? '';
     if (totalCompetitors3km > 25) {
       insights.push(`3km 内有 ${totalCompetitors3km} 家竞品（以${topBrand}为主），市场已被充分验证但趋于饱和。`);
+      insights.push(`建议：饱和市场中需差异化定位（如高端健康餐、企业团餐），避免价格战。`);
     } else if (totalCompetitors3km > 10) {
       insights.push(`3km 内有 ${totalCompetitors3km} 家竞品（以${topBrand}为主），竞争适中，市场有需求。`);
+      insights.push(`建议：分析竞品评分分布，若头部竞品评分<4.0，说明服务有提升空间，可切入。`);
     } else {
       insights.push(`3km 内仅 ${totalCompetitors3km} 家竞品，市场竞争较少，可能是机会也可能是需求不足。`);
+      insights.push(`建议：结合写字楼/住宅密度判断——若密度高但竞品少，可能是蓝海市场；若密度也低，则需谨慎。`);
+    }
+    // Cross-reference with Meituan category data
+    if (meituanInfo) {
+      const targetOrders = meituanInfo.delivery_orders_target_3km;
+      if (targetOrders != null) {
+        insights.push(`美团数据显示该区域目标品类（特色菜）日均 ${targetOrders} 千单，可作为品类需求验证。`);
+      }
     }
   } else {
     insights.push('3km 内无竞品，市场尚未被验证，需结合需求潜力综合判断。');
+    insights.push(`建议：无竞品区域可能是蓝海，也可能是"死亡地带"。建议实地考察周边商业氛围和人流。`);
   }
 
-  // Delivery efficiency insight
+  // Delivery efficiency insight (with cost guidance)
   if (deliveryEfficiency != null) {
     if (deliveryEfficiency >= 50) {
       insights.push(`周边门店 ${deliveryEfficiency}% 的订单在 2km 内完成，配送效率高，适合外卖店运营。`);
+      insights.push(`建议：短距离订单占比高意味着配送成本低，可考虑设置更低的起送价或免配送费策略。`);
     } else {
       insights.push(`周边门店仅 ${deliveryEfficiency}% 的订单在 2km 内，配送距离偏长，成本较高。`);
+      insights.push(`建议：长距离订单占比高时，建议设置合理的配送费梯度，或聚焦 3km 内的核心区域。`);
     }
   }
 
-  // Meituan market validation insight
+  // Meituan market validation insight (with strategic context)
   if (meituanStore && meituanInfo) {
     insights.push(`5km 内有美团报告覆盖的门店「${meituanStore.store_name}」（${meituanStore.dist}km）：外卖单量 ${meituanInfo.delivery_orders_all_3km ?? '?'}千单/3km，外卖人口 ${meituanInfo.delivery_pop_all_3km ?? '?'}千人/3km，餐饮消费 ${meituanInfo.catering_spending ? Math.round(meituanInfo.catering_spending) + '万/月' : '?'}。注意：数据针对商场，非商场位置仅供参考。`);
+    // Add strategic guidance based on Meituan data
+    const meituanOrders = meituanInfo.delivery_orders_all_3km;
+    if (meituanOrders != null) {
+      if (meituanOrders > 50) {
+        insights.push(`建议：该区域外卖单量高（>50 千单/天），市场成熟度高，但竞争也可能激烈。建议差异化定位。`);
+      } else if (meituanOrders > 20) {
+        insights.push(`建议：该区域外卖单量中等（20-50 千单/天），市场有增长空间，可考虑切入。`);
+      } else {
+        insights.push(`建议：该区域外卖单量较低（<20 千单/天），市场可能未成熟或需求有限，需谨慎评估。`);
+      }
+    }
   } else {
     insights.push('5km 内无美团报告覆盖的门店，无法获取第三方市场验证数据。');
+    insights.push(`建议：美团数据缺失时，建议通过实地调研（人流计数、竞品观察）或购买第三方数据（如极光大数据）补充验证。`);
   }
 
-  // Recommendation
+  // Recommendation (based on base score out of 85)
   let recommendation: string;
-  if (score >= 80) {
+  if (baseScore >= 68) {  // 80% of 85
     recommendation = '综合评分优秀，强烈推荐在此开设外卖店。';
-  } else if (score >= 65) {
+  } else if (baseScore >= 55) {  // 65% of 85
     recommendation = '综合评分良好，建议开设外卖店。';
-  } else if (score >= 50) {
+  } else if (baseScore >= 43) {  // 50% of 85
     recommendation = '综合评分中等，可以考虑但需进一步调研。';
   } else {
     recommendation = '综合评分较低，不建议在此开设外卖店。';
@@ -360,16 +441,16 @@ function computeAnalysis(
     lat, lng, nearbyStores1km: nearby1km, nearbyStores3km: nearby3km,
     nearestStore: nearest, cannibalizedBy, competitorStats,
     deliveryDemand, deliveryCity,
-    officeCount, residentialCount,
+    officeCount, residentialCount, densityDataSource,
     meituanStore, meituanData: meituanInfo,
-    score,
+    score, baseScore,
     scoreBreakdown: [
       {
         label: '外卖需求潜力', value: Math.round(demandScore), max: 45,
         note: deliveryDemand != null && deliveryDemand > 0 
           ? `${Math.round(deliveryDemand)} 单(500m) + ${officeCount ?? 0}写字楼/${residentialCount ?? 0}住宅` 
           : (officeCount != null || residentialCount != null) 
-            ? `${officeCount ?? 0}写字楼/${residentialCount ?? 0}住宅` 
+            ? `${officeCount ?? 0}写字楼/${residentialCount ?? 0}住宅${densityDataSource === 'city_avg' ? '（城市均值）' : ''}` 
             : '无需求数据',
         logic: '配送热力图(0-30分) + POI密度(0-15分)；无数据时0分（不虚假给分）',
       },
@@ -384,9 +465,9 @@ function computeAnalysis(
         logic: '钟形曲线：0家=8分, 4-8家=18分, 9-15家=20分（最佳）, 26+家=8分（饱和）',
       },
       {
-        label: '美团市场验证', value: meituanScore, max: 15,
-        note: meituanStore ? `基于${meituanStore.store_name}(${meituanStore.dist}km)` : '5km内无美团报告',
-        logic: '外卖单量(0-5) + 外卖人口(0-3) + 目标品类(0-2) + 餐饮消费(0-2) + 工作人口(0-2) + 居住人口(0-1)',
+        label: '美团市场验证（加分项）', value: meituanScore, max: 15,
+        note: meituanStore ? `基于${meituanStore.store_name}(${meituanStore.dist}km)` : '5km内无美团报告（不扣分）',
+        logic: '加分项：外卖单量(0-5) + 外卖人口(0-3) + 目标品类(0-2) + 餐饮消费(0-2) + 工作人口(0-2) + 居住人口(0-1)',
       },
     ],
     insights,
