@@ -319,6 +319,18 @@ export default function FilterPanel() {
         )}
       </div>
 
+      {/* 选址模式 */}
+      <div style={{ marginBottom: '14px', borderTop: '1px solid #e2e8f0', paddingTop: '14px' }}>
+        <SectionTitle>选址模式</SectionTitle>
+        <ToggleItem label="启用选址分析" checked={layers.siteSelectionMode} onChange={v => setLayer('siteSelectionMode', v)} />
+        {layers.siteSelectionMode && (
+          <>
+            <ToggleItem label="显示候选点位" checked={layers.showCandidatePoints} onChange={v => setLayer('showCandidatePoints', v)} />
+            <ToggleItem label="显示供需缺口网格" checked={layers.showDensityGrid} onChange={v => setLayer('showDensityGrid', v)} />
+          </>
+        )}
+      </div>
+
       {/* 帮助按钮 */}
       <button onClick={() => setShowHelp(true)}
         style={{

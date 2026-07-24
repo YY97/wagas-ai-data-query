@@ -1,5 +1,5 @@
 import { create } from 'zustand';
-import type { Store, SalesData, Filters, CompetitorData } from './types';
+import type { Store, SalesData, Filters, CompetitorData, DensityGridPoint, MeituanMallData } from './types';
 
 export interface LayerToggles {
   showMarkers: boolean;
@@ -10,6 +10,10 @@ export interface LayerToggles {
   showDeliveryContour: boolean;
   showCompetitors: boolean;
   competitorFocus: boolean;
+  // 选址模式
+  siteSelectionMode: boolean;
+  showCandidatePoints: boolean;
+  showDensityGrid: boolean;
 }
 
 interface AppState {
@@ -19,6 +23,8 @@ interface AppState {
   weatherData: Record<string, { date: string; tmax: number | null; tmin: number | null; precip: number; weathercode: number }[]>;
   competitors: CompetitorData;
   competitorBrands: Record<string, boolean>;
+  densityGridData: DensityGridPoint[];
+  meituanMallData: MeituanMallData[];
   dateRange: { start: string; end: string };
   allDates: string[];
   filters: Filters;
@@ -36,7 +42,7 @@ interface AppState {
   setContourStores: (fn: (prev: string[]) => string[]) => void;
   setCompetitorBrand: (brand: string, value: boolean) => void;
   getAds: (sid: string) => number | null;
-  initData: (stores: Store[], salesData: SalesData, channelSales: any, weatherData: any, dateRange: { start: string; end: string }, competitors?: CompetitorData) => void;
+  initData: (stores: Store[], salesData: SalesData, channelSales: any, weatherData: any, dateRange: { start: string; end: string }, competitors?: CompetitorData, densityGridData?: DensityGridPoint[], meituanMallData?: MeituanMallData[]) => void;
 }
 
 const defaultFilters: Filters = {
@@ -59,6 +65,10 @@ const defaultLayers: LayerToggles = {
   showDeliveryContour: true,
   showCompetitors: false,
   competitorFocus: false,
+  // 选址模式默认关闭
+  siteSelectionMode: false,
+  showCandidatePoints: false,
+  showDensityGrid: false,
 };
 
 export const useAppStore = create<AppState>((set, get) => ({
@@ -68,6 +78,8 @@ export const useAppStore = create<AppState>((set, get) => ({
   weatherData: {},
   competitors: {},
   competitorBrands: {},
+  densityGridData: [],
+  meituanMallData: [],
   dateRange: { start: '', end: '' },
   allDates: [],
   filters: defaultFilters,
@@ -117,7 +129,7 @@ export const useAppStore = create<AppState>((set, get) => ({
     return values.length ? values.reduce((a, b) => a + b, 0) / values.length : null;
   },
 
-  initData: (stores, salesData, channelSales, weatherData, dateRange, competitors = {}) => {
+  initData: (stores, salesData, channelSales, weatherData, dateRange, competitors = {}, densityGridData = [], meituanMallData = []) => {
     const allDates = new Set<string>();
     Object.values(salesData).forEach((storeSales: Record<string, number>) => {
       Object.keys(storeSales).forEach(date => allDates.add(date));
@@ -142,6 +154,8 @@ export const useAppStore = create<AppState>((set, get) => ({
       weatherData,
       competitors,
       competitorBrands,
+      densityGridData,
+      meituanMallData,
       dateRange,
       allDates: sortedDates,
       loading: false,

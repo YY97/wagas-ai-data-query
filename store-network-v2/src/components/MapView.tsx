@@ -148,7 +148,7 @@ function AutoFitBounds({ stores }: { stores: any[] }) {
 }
 
 export default function MapView() {
-  const { stores, filters, layers, getAds, selectedStore, setSelectedStore, showHelp, setShowHelp, contourStores, setContourStores, competitors, competitorBrands } = useAppStore();
+  const { stores, filters, layers, getAds, selectedStore, setSelectedStore, showHelp, setShowHelp, contourStores, setContourStores, competitors, competitorBrands, densityGridData, meituanMallData } = useAppStore();
   const [deliveryData, setDeliveryData] = useState<Record<string, any>>({});
   const [showDelivery, setShowDelivery] = useState(false);
   const [popupVisible, setPopupVisible] = useState(true);
@@ -267,6 +267,80 @@ export default function MapView() {
                   </CircleMarker>
                 ));
             })}
+          </Pane>
+        )}
+
+        {/* 选址模式：密度网格热力层 */}
+        {layers.siteSelectionMode && layers.showDensityGrid && (
+          <Pane name="density-grid-pane" style={{ zIndex: 400 }}>
+            {densityGridData.map((g, i) => {
+              const intensity = (g.office_count + g.residential_count) / 500;
+              const color = intensity > 0.6 ? '#ef4444' : intensity > 0.3 ? '#f59e0b' : '#10b981';
+              return (
+                <CircleMarker 
+                  key={`grid-${i}`} 
+                  center={[g.lat, g.lng]} 
+                  radius={8}
+                  pathOptions={{ 
+                    color: color, 
+                    fillOpacity: 0.3,
+                    weight: 0 
+                  }} 
+                />
+              );
+            })}
+          </Pane>
+        )}
+
+        {/* 选址模式：候选点位标记 */}
+        {layers.siteSelectionMode && layers.showCandidatePoints && (
+          <Pane name="candidate-pane" style={{ zIndex: 700 }}>
+            {meituanMallData.map((c) => (
+              <Marker 
+                key={`candidate-${c.store_id}`} 
+                position={[c.lat, c.lng]} 
+                icon={L.divIcon({
+                  className: 'candidate-marker',
+                  html: `<div style="
+                    width: 28px; 
+                    height: 28px; 
+                    background: #a855f7; 
+                    clip-path: polygon(50% 0%, 100% 50%, 50% 100%, 0% 50%);
+                    border: 2px solid white;
+                    box-shadow: 0 2px 4px rgba(0,0,0,0.3);
+                    display: flex;
+                    align-items: center;
+                    justify-content: center;
+                    font-size: 10px;
+                    font-weight: bold;
+                    color: white;">⭐</div>`,
+                  iconSize: [28, 28],
+                  iconAnchor: [14, 14],
+                })}
+              >
+                <Popup maxWidth={250}>
+                  <div style={{ fontSize: '11px' }}>
+                    <div style={{ fontWeight: 'bold', marginBottom: '4px', color: '#a855f7' }}>
+                      候选点位：{c.store_name}
+                    </div>
+                    <div style={{ color: '#6b7280', marginBottom: '2px' }}>{c.city} · {c.district}</div>
+                    {c.delivery_orders_all_3km != null && (
+                      <div style={{ marginTop: '4px', padding: '3px', background: '#f3f4f6', borderRadius: '3px' }}>
+                        3km 外卖单量：{c.delivery_orders_all_3km}千单/日
+                      </div>
+                    )}
+                    {c.delivery_pop_all_3km != null && (
+                      <div style={{ marginTop: '2px', padding: '3px', background: '#f3f4f6', borderRadius: '3px' }}>
+                        3km 外卖人口：{c.delivery_pop_all_3km}千人
+                      </div>
+                    )}
+                    <div style={{ marginTop: '8px', padding: '6px', background: '#fef3c7', borderRadius: '4px', fontSize: '10px' }}>
+                      💡 点击"启用选址分析"查看 5 维评分
+                    </div>
+                  </div>
+                </Popup>
+              </Marker>
+            ))}
           </Pane>
         )}
 

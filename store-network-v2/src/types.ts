@@ -78,6 +78,44 @@ export interface CompetitorNearStats {
   med: number | null;  // 1km 内评分中位数
 }
 
+// 密度网格数据类型
+export interface DensityGridPoint {
+  lat: number;
+  lng: number;
+  office_count: number;
+  residential_count: number;
+}
+
+// 美团商场候选点数据
+export interface MeituanMallData {
+  store_id: string;
+  store_name: string;
+  lat: number;
+  lng: number;
+  city: string;
+  district: string;
+  delivery_orders_all_3km: number | null;
+  delivery_pop_all_3km: number | null;
+  delivery_orders_target_3km: number | null;
+  catering_spending: number | null;
+  work_population: number | null;
+  residential_percentile: number | null;
+}
+
+// 选址评分结果
+export interface SiteSelectionScore {
+  score: number;
+  baseScore: number;
+  maxScore: number;
+  percentage: number;
+  demandScore: number;
+  cannibScore: number;
+  compScore: number;
+  meituanScore: number;
+  recommendation: string;
+  insights: string[];
+}
+
 // 销售数据类型
 export type SalesData = Record<string, Record<string, number>>;
 
