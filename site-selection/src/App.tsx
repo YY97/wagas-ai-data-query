@@ -53,6 +53,8 @@ interface CandidateAnalysis {
   // 评分
   score: number;
   baseScore: number;
+  maxScore: number;
+  percentage: number;
   scoreBreakdown: { label: string; value: number; max: number; note: string; logic: string }[];
   // 数据洞察结论
   insights: string[];
@@ -425,13 +427,16 @@ function computeAnalysis(
     insights.push(`建议：美团数据缺失时，建议通过实地调研（人流计数、竞品观察）或购买第三方数据（如极光大数据）补充验证。`);
   }
 
-  // Recommendation (based on base score out of 85)
+  // Recommendation (based on percentage of max score)
+  const maxScore = meituanScore > 0 ? 100 : 85;
+  const percentage = score / maxScore;
+  
   let recommendation: string;
-  if (baseScore >= 68) {  // 80% of 85
+  if (percentage >= 0.80) {
     recommendation = '综合评分优秀，强烈推荐在此开设外卖店。';
-  } else if (baseScore >= 55) {  // 65% of 85
+  } else if (percentage >= 0.65) {
     recommendation = '综合评分良好，建议开设外卖店。';
-  } else if (baseScore >= 43) {  // 50% of 85
+  } else if (percentage >= 0.50) {
     recommendation = '综合评分中等，可以考虑但需进一步调研。';
   } else {
     recommendation = '综合评分较低，不建议在此开设外卖店。';
@@ -443,7 +448,7 @@ function computeAnalysis(
     deliveryDemand, deliveryCity,
     officeCount, residentialCount, densityDataSource,
     meituanStore, meituanData: meituanInfo,
-    score, baseScore,
+    score, baseScore, maxScore, percentage,
     scoreBreakdown: [
       {
         label: '外卖需求潜力', value: Math.round(demandScore), max: 45,
@@ -760,13 +765,13 @@ function AnalysisView({ analysis }: { analysis: CandidateAnalysis }) {
       }}>
         <div style={{ fontSize: 11, color: '#64748b', marginBottom: 2 }}>综合选址评分</div>
         <div style={{ display: 'flex', alignItems: 'baseline', gap: 8 }}>
-          <span style={{ fontSize: 36, fontWeight: 800, color: a.score >= 85 ? '#16a34a' : a.score >= 60 ? '#f59e0b' : '#ef4444' }}>
+          <span style={{ fontSize: 36, fontWeight: 800, color: a.percentage >= 0.80 ? '#16a34a' : a.percentage >= 0.65 ? '#f59e0b' : '#ef4444' }}>
             {a.score}
           </span>
-          <span style={{ fontSize: 14, color: '#94a3b8' }}>/ 100</span>
+          <span style={{ fontSize: 14, color: '#94a3b8' }}>/ {a.maxScore}</span>
         </div>
         <div style={{ fontSize: 11, color: '#64748b', marginTop: 4 }}>
-          {a.lat.toFixed(5)}, {a.lng.toFixed(5)}
+          {a.lat.toFixed(5)}, {a.lng.toFixed(5)} · 得分率 {Math.round(a.percentage * 100)}%
         </div>
       </div>
 
