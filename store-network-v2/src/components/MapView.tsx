@@ -162,6 +162,17 @@ export default function MapView() {
   const [deliveryData, setDeliveryData] = useState<Record<string, any>>({});
   const [showDelivery, setShowDelivery] = useState(false);
   const [popupVisible, setPopupVisible] = useState(true);
+  const [selectedSite, setSelectedSite] = useState<{ lat: number; lng: number } | null>(null);
+
+  // 选址模式点击处理
+  useEffect(() => {
+    (window as any).onSiteSelectionClick = (lat: number, lng: number) => {
+      setSelectedSite({ lat, lng });
+    };
+    return () => {
+      delete (window as any).onSiteSelectionClick;
+    };
+  }, []);
 
   // 配送轮廓颜色（最多 5 家）
   const CONTOUR_COLORS = ['#3b82f6', '#f97316', '#22c55e', '#a855f7', '#ec4899'];
@@ -280,14 +291,37 @@ export default function MapView() {
           </Pane>
         )}
 
-        {/* 选址模式：点击地图显示评分报告（不在地图上渲染额外标记） */}
-        {layers.siteSelectionMode && (
-          <MapClickHandler onClick={(lat: number, lng: number) => {
-            const handler = (window as any).onSiteSelectionClick;
-            if (handler) {
-              handler(lat, lng);
-            }
-          }} />
+        {/* 选址模式：点击地图显示评分报告 + 点击标记 */}
+        {layers.siteSelectionMode && selectedSite && (
+          <>
+            <MapClickHandler onClick={(lat: number, lng: number) => {
+              const handler = (window as any).onSiteSelectionClick;
+              if (handler) {
+                handler(lat, lng);
+              }
+            }} />
+            <Marker 
+              position={[selectedSite.lat, selectedSite.lng]} 
+              icon={L.divIcon({
+                className: 'site-selection-marker',
+                html: `<div style="
+                  width: 32px; 
+                  height: 32px; 
+                  background: #ef4444; 
+                  border-radius: 50% 50% 50% 0;
+                  transform: rotate(-45deg);
+                  border: 3px solid white;
+                  box-shadow: 0 2px 8px rgba(0,0,0,0.4);
+                  display: flex;
+                  align-items: center;
+                  justify-content: center;">
+                  <div style="transform: rotate(45deg); color: white; font-size: 14px; font-weight: bold;"></div>
+                </div>`,
+                iconSize: [32, 32],
+                iconAnchor: [16, 32],
+              })}
+            />
+          </>
         )}
 
         {/* 配送轮廓多边形 */}
