@@ -446,8 +446,31 @@ export default function MapView() {
                     <DataRow label="按销售额着色" value="门店颜色反映日均销售额" />
                     <DataRow label="配送范围对比" value="开启后可多选门店对比配送轮廓" />
                     <DataRow label="竞品门店" value="显示星巴克/蓝蛙/Manner等6个竞品位置，可开焦点模式突出显示" />
+                    <DataRow label="选址模式" value="启用后点击地图任意位置，左侧显示选址评分报告" />
                   </tbody>
                 </table>
+              </Section>
+
+              <Section title=" 选址评分">
+                <p style={{ margin:'4px 0' }}>用于评估候选点位的外卖经营潜力：</p>
+                <ol style={{ margin:'4px 0',paddingLeft:'20px' }}>
+                  <li>左侧面板底部打开 <b>选址模式</b> → <b>启用选址分析</b></li>
+                  <li>点击地图任意位置，左侧显示评分报告</li>
+                  <li>报告包含 4 个维度（满分 85 或 100 分）</li>
+                </ol>
+                
+                <table style={{ width:'100%',borderCollapse:'collapse',fontSize:'11px',marginTop:'8px' }}>
+                  <tbody>
+                    <DataRow label="外卖需求潜力" value="0-45 分 | 基于写字楼/住宅数量" />
+                    <DataRow label="蚕食风险" value="0-20 分 | 0 家覆盖=20 分，每多 1 家-5 分" />
+                    <DataRow label="竞品环境" value="0-20 分 | 钟形曲线，6-15 家最佳" />
+                    <DataRow label="美团验证" value="0-15 分 | 加分项，有报告才加分" />
+                  </tbody>
+                </table>
+                
+                <p style={{ margin:'8px 0 4px',fontSize:'11px',color:'#64748b' }}>
+                  💡 得分率 ≥80% 优秀 | ≥65% 良好 | ≥50% 中等 | &lt;50% 较低
+                </p>
               </Section>
 
               <Section title="❓ 常见问题">
