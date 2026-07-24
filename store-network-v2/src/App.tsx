@@ -4,10 +4,22 @@ import type { Store, SalesData } from './types';
 import MapView from './components/MapView';
 import FilterPanel from './components/FilterPanel';
 import KPICards from './components/KPICards';
+import SiteSelectionReport from './components/SiteSelectionReport';
 
 function App() {
   const { initData, loading } = useAppStore();
   const [error, setError] = useState<string | null>(null);
+  const [selectedSite, setSelectedSite] = useState<{ lat: number; lng: number } | null>(null);
+
+  // 选址模式点击处理
+  useEffect(() => {
+    (window as any).onSiteSelectionClick = (lat: number, lng: number) => {
+      setSelectedSite({ lat, lng });
+    };
+    return () => {
+      delete (window as any).onSiteSelectionClick;
+    };
+  }, []);
 
   useEffect(() => {
     Promise.all([
@@ -73,6 +85,9 @@ function App() {
       }}>
         <KPICards />
         <FilterPanel />
+        {selectedSite && (
+          <SiteSelectionReport lat={selectedSite.lat} lng={selectedSite.lng} />
+        )}
       </div>
       <div className="map-container" style={{ flex: 1, position: 'relative' }}>
         <MapView />

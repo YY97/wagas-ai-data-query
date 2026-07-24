@@ -324,10 +324,9 @@ export default function FilterPanel() {
         <SectionTitle>选址模式</SectionTitle>
         <ToggleItem label="启用选址分析" checked={layers.siteSelectionMode} onChange={v => setLayer('siteSelectionMode', v)} />
         {layers.siteSelectionMode && (
-          <>
-            <ToggleItem label="显示候选点位" checked={layers.showCandidatePoints} onChange={v => setLayer('showCandidatePoints', v)} />
-            <ToggleItem label="显示供需缺口网格" checked={layers.showDensityGrid} onChange={v => setLayer('showDensityGrid', v)} />
-          </>
+          <div style={{ fontSize: '11px', color: '#64748b', marginTop: '8px', padding: '8px', background: '#f8fafc', borderRadius: '6px' }}>
+            💡 启用后，点击地图任意位置可查看选址评分报告
+          </div>
         )}
       </div>
 
