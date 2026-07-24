@@ -630,10 +630,42 @@ export default function App() {
         />
         <MapClickHandler onClick={handleMapClick} />
 
-        {/* Our stores */}
+        {/* Our stores - 点击可查看详细信息 */}
         {stores.map(s => (
-          <CircleMarker key={s.sid} center={[s.lat, s.lng]} radius={6}
-            pathOptions={{ color: '#fff', weight: 1.5, fillColor: '#f97316', fillOpacity: 0.85 }} />
+          <Marker 
+            key={s.sid} 
+            position={[s.lat, s.lng]} 
+            icon={L.divIcon({
+              className: 'store-marker',
+              html: `<div style="
+                width: 24px; 
+                height: 24px; 
+                background: #f97316; 
+                border-radius: 50%; 
+                border: 2px solid white;
+                box-shadow: 0 2px 4px rgba(0,0,0,0.3);
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                font-size: 10px;
+                font-weight: bold;
+                color: white;">${s.sid.slice(-2)}</div>`,
+              iconSize: [24, 24],
+              iconAnchor: [12, 12],
+            })}
+          >
+            <Popup maxWidth={200}>
+              <div style={{ fontSize: '11px' }}>
+                <div style={{ fontWeight: 'bold', marginBottom: '4px' }}>{s.name}</div>
+                <div style={{ color: '#6b7280', marginBottom: '2px' }}>{s.brand} · {s.city}</div>
+                {s.ads != null && (
+                  <div style={{ marginTop: '4px', padding: '3px', background: '#f3f4f6', borderRadius: '3px' }}>
+                    ADS: ¥{Math.round(s.ads).toLocaleString()}/日
+                  </div>
+                )}
+              </div>
+            </Popup>
+          </Marker>
         ))}
 
         {/* Competitors */}
