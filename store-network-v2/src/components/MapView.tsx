@@ -486,18 +486,21 @@ export default function MapView({ selectedSite, onSiteSelect }: MapViewProps) {
                   <li>点击地图任意位置，左侧显示评分报告</li>
                   <li>报告包含 4 个维度（满分 85 或 100 分）</li>
                 </ol>
-                
+
                 <table style={{ width:'100%',borderCollapse:'collapse',fontSize:'11px',marginTop:'8px' }}>
                   <tbody>
-                    <DataRow label="外卖需求潜力" value="0-45 分 | 基于写字楼/住宅数量" />
-                    <DataRow label="蚕食风险" value="0-20 分 | 0 家覆盖=20 分，每多 1 家-5 分" />
-                    <DataRow label="竞品环境" value="0-20 分 | 钟形曲线，6-15 家最佳" />
-                    <DataRow label="美团验证" value="0-15 分 | 加分项，有报告才加分" />
+                    <DataRow label="外卖需求潜力" value="0-45 分 | 写字楼×1.5 + 住宅×1.0 加权；>120 得 45 分" />
+                    <DataRow label="蚕食风险" value="0-20 分 | 0 家=20 分；≤1km 每家-10 / 1-2km -6 / 2-3km -3" />
+                    <DataRow label="竞品环境" value="0-20 分 | 0 家=8 / 1-5 家=15 / 6-15 家=20 / 16-25 家=14 / 26+ 家=8" />
+                    <DataRow label="美团验证" value="0-15 分 | 加分项，5km 内有报告才加分" />
                   </tbody>
                 </table>
-                
+
                 <p style={{ margin:'8px 0 4px',fontSize:'11px',color:'#64748b' }}>
                   💡 得分率 ≥80% 优秀 | ≥65% 良好 | ≥50% 中等 | &lt;50% 较低
+                </p>
+                <p style={{ margin:'4px 0',fontSize:'10px',color:'#94a3b8' }}>
+                  注：写字楼/住宅数量来自高德周边搜索，单类型返回上限为 600，高密度区域显示为「≥600」，实际密度可能更高。
                 </p>
               </Section>
 

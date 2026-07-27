@@ -2,6 +2,22 @@ import { useMemo } from 'react';
 import { useAppStore } from '../store';
 import type { DensityGridPoint, MeituanMallData } from '../types';
 
+// 两点间近似距离（km），与地图其余计算保持一致
+function distKm(lat1: number, lng1: number, lat2: number, lng2: number): number {
+  return Math.sqrt(Math.pow(lat1 - lat2, 2) + Math.pow(lng1 - lng2, 2)) * 111;
+}
+
+// 百分位（0-100）
+function percentile(values: number[], value: number): number {
+  if (values.length === 0) return 0;
+  const sorted = [...values].sort((a, b) => a - b);
+  let count = 0;
+  for (const v of sorted) {
+    if (v <= value) count++;
+  }
+  return Math.round((count / sorted.length) * 100);
+}
+
 // 选址评分计算
 function computeSiteSelectionScore(
   lat: number,
@@ -11,62 +27,94 @@ function computeSiteSelectionScore(
   stores: any[],
   competitors: Record<string, any[]>
 ) {
+  // 预计算全局百分位
+  const allOffice = densityGridData.map((g) => g.office_count);
+  const allResidential = densityGridData.map((g) => g.residential_count);
+
   // 1. 外卖需求潜力（0-45 分）
   let demandScore = 0;
   let nearestGrid: DensityGridPoint | null = null;
   let minDist = Infinity;
-  
+
   for (const g of densityGridData) {
-    const d = Math.sqrt(Math.pow(g.lat - lat, 2) + Math.pow(g.lng - lng, 2)) * 111; // 近似 km
+    const d = distKm(g.lat, g.lng, lat, lng);
     if (d < minDist) {
       minDist = d;
       nearestGrid = g;
     }
   }
-  
+
+  let officePct = 0;
+  let residentialPct = 0;
   if (nearestGrid && minDist <= 3) {
-    const total = nearestGrid.office_count + nearestGrid.residential_count;
-    if (total > 100) demandScore = 45;
-    else if (total > 50) demandScore = 30;
-    else if (total > 20) demandScore = 15;
+    officePct = percentile(allOffice, nearestGrid.office_count);
+    residentialPct = percentile(allResidential, nearestGrid.residential_count);
+    // 写字楼权重高于住宅：更贴近 Wagas 轻食外卖的午餐/工作日场景
+    const weightedDemand = nearestGrid.office_count * 1.5 + nearestGrid.residential_count * 1.0;
+    if (weightedDemand > 120) demandScore = 45;
+    else if (weightedDemand > 60) demandScore = 30;
+    else if (weightedDemand > 24) demandScore = 15;
     else demandScore = 5;
   }
 
   // 2. 蚕食风险（0-20 分）
   let cannibScore = 20;
+  let cannibCount = 0;
+  let nearestStoreDist: number | null = null;
+  let nearestStore: any | null = null;
+  const nearbyStores: { store: any; dist: number }[] = [];
+
   for (const s of stores) {
-    const d = Math.sqrt(Math.pow(s.lat - lat, 2) + Math.pow(s.lng - lng, 2)) * 111;
+    const d = distKm(s.lat, s.lng, lat, lng);
     if (d <= 3) {
-      cannibScore = Math.max(0, cannibScore - 5);
+      cannibCount++;
+      nearbyStores.push({ store: s, dist: d });
+      if (nearestStoreDist === null || d < nearestStoreDist) {
+        nearestStoreDist = d;
+        nearestStore = s;
+      }
+      // 距离越近，扣分越重
+      if (d <= 1) cannibScore -= 10;
+      else if (d <= 2) cannibScore -= 6;
+      else cannibScore -= 3;
+      if (cannibScore < 0) cannibScore = 0;
     }
   }
 
   // 3. 竞品环境（0-20 分）
   let compScore = 0;
   let totalCompetitors = 0;
+  const compByBrand: Record<string, number> = {};
   for (const brand in competitors) {
+    let count = 0;
     for (const c of competitors[brand]) {
-      const d = Math.sqrt(Math.pow(c.lat - lat, 2) + Math.pow(c.lng - lng, 2)) * 111;
-      if (d <= 3) totalCompetitors++;
+      const d = distKm(c.lat, c.lng, lat, lng);
+      if (d <= 3) {
+        count++;
+        totalCompetitors++;
+      }
     }
+    if (count > 0) compByBrand[brand] = count;
   }
-  if (totalCompetitors > 0 && totalCompetitors <= 5) compScore = 15;
-  else if (totalCompetitors > 5 && totalCompetitors <= 15) compScore = 20;
-  else if (totalCompetitors > 15) compScore = 10;
+  if (totalCompetitors === 0) compScore = 8;
+  else if (totalCompetitors <= 5) compScore = 15;
+  else if (totalCompetitors <= 15) compScore = 20;
+  else if (totalCompetitors <= 25) compScore = 14;
+  else compScore = 8;
 
   // 4. 美团验证（0-15 分）
   let meituanScore = 0;
   let nearestMall: MeituanMallData | null = null;
   let minMallDist = Infinity;
-  
+
   for (const m of meituanMallData) {
-    const d = Math.sqrt(Math.pow(m.lat - lat, 2) + Math.pow(m.lng - lng, 2)) * 111;
+    const d = distKm(m.lat, m.lng, lat, lng);
     if (d < minMallDist) {
       minMallDist = d;
       nearestMall = m;
     }
   }
-  
+
   if (nearestMall && minMallDist <= 5) {
     if (nearestMall.delivery_orders_all_3km && nearestMall.delivery_orders_all_3km > 50) meituanScore = 15;
     else if (nearestMall.delivery_orders_all_3km && nearestMall.delivery_orders_all_3km > 20) meituanScore = 10;
@@ -96,6 +144,13 @@ function computeSiteSelectionScore(
     recommendation,
     nearestGrid,
     totalCompetitors,
+    compByBrand,
+    cannibCount,
+    nearestStore,
+    nearestStoreDist,
+    nearbyStores,
+    officePct,
+    residentialPct,
     nearestMall,
     nearestMallDist: minMallDist === Infinity ? null : minMallDist,
   };
@@ -112,6 +167,18 @@ export default function SiteSelectionReport({ lat, lng }: SiteSelectionReportPro
   const analysis = useMemo(() => {
     return computeSiteSelectionScore(lat, lng, densityGridData, meituanMallData, stores, competitors);
   }, [lat, lng, densityGridData, meituanMallData, stores, competitors]);
+
+  const cappedOffice = analysis.nearestGrid && analysis.nearestGrid.office_count >= 600;
+  const cappedResidential = analysis.nearestGrid && analysis.nearestGrid.residential_count >= 600;
+
+  // 关键结论：找出最拖分和最加分的维度
+  const dimensionGaps = [
+    { name: '外卖需求潜力', score: analysis.demandScore, max: 45 },
+    { name: '蚕食风险', score: analysis.cannibScore, max: 20 },
+    { name: '竞品环境', score: analysis.compScore, max: 20 },
+  ];
+  const weakest = dimensionGaps.reduce((a, b) => (a.score / a.max < b.score / b.max ? a : b));
+  const strongest = dimensionGaps.reduce((a, b) => (a.score / a.max > b.score / b.max ? a : b));
 
   return (
     <div style={{ marginTop: 16, borderTop: '1px solid #e2e8f0', paddingTop: 16 }}>
@@ -136,7 +203,7 @@ export default function SiteSelectionReport({ lat, lng }: SiteSelectionReportPro
       {/* 评分明细 */}
       <div style={{ marginBottom: 12 }}>
         <div style={{ fontWeight: 600, fontSize: 12, marginBottom: 8 }}>评分明细</div>
-        
+
         {/* 外卖需求潜力 */}
         <div style={{ marginBottom: 12, padding: 8, background: '#f8fafc', borderRadius: 6 }}>
           <div style={{ display: 'flex', justifyContent: 'space-between', fontSize: 11, marginBottom: 4 }}>
@@ -148,11 +215,18 @@ export default function SiteSelectionReport({ lat, lng }: SiteSelectionReportPro
           </div>
           {analysis.nearestGrid && (
             <div style={{ fontSize: 10, color: '#64748b', marginBottom: 4 }}>
-               数据：{analysis.nearestGrid.office_count}写字楼/{analysis.nearestGrid.residential_count}住宅（3km 内）
+               数据：
+              {cappedOffice ? '≥' : ''}{analysis.nearestGrid.office_count}写字楼/
+              {cappedResidential ? '≥' : ''}{analysis.nearestGrid.residential_count}住宅（3km 内）
+              {(cappedOffice || cappedResidential) && (
+                <span style={{ color: '#ef4444', marginLeft: 4 }}>
+                  *高德单类型上限 600，实际密度可能更高
+                </span>
+              )}
             </div>
           )}
           <div style={{ fontSize: 10, color: '#94a3b8', lineHeight: 1.5 }}>
-            💡 评分规则：写字楼 + 住宅总数 &gt;100 得 45 分 | 50-100 得 30 分 | 20-50 得 15 分 | &lt;20 得 5 分
+            💡 评分规则：写字楼×1.5 + 住宅×1.0 加权需求指数 &gt;120 得 45 分 | 60-120 得 30 分 | 24-60 得 15 分 | &lt;24 得 5 分
           </div>
         </div>
 
@@ -166,10 +240,12 @@ export default function SiteSelectionReport({ lat, lng }: SiteSelectionReportPro
             <div style={{ height: '100%', width: `${(analysis.cannibScore / 20) * 100}%`, background: '#10b981' }} />
           </div>
           <div style={{ fontSize: 10, color: '#64748b', marginBottom: 4 }}>
-            📊 数据：3km 内无现有门店覆盖
+            📊 数据：{analysis.cannibCount === 0
+              ? '3km 内无现有门店覆盖'
+              : `3km 内现有门店覆盖：${analysis.cannibCount} 家${analysis.nearestStoreDist !== null ? `（最近 ${analysis.nearestStoreDist.toFixed(1)} km${analysis.nearestStore ? ` · ${analysis.nearestStore.store_name || analysis.nearestStore.name || analysis.nearestStore.store_id}` : ''}）` : ''}`}
           </div>
           <div style={{ fontSize: 10, color: '#94a3b8', lineHeight: 1.5 }}>
-            💡 评分规则：0 家门店覆盖=20 分 | 每多 1 家-5 分 | 3 家以上=2 分（阶梯式递减）
+            💡 评分规则：0 家=20 分 | ≤1km 每家-10 分 | 1-2km 每家-6 分 | 2-3km 每家-3 分
           </div>
         </div>
 
@@ -184,6 +260,13 @@ export default function SiteSelectionReport({ lat, lng }: SiteSelectionReportPro
           </div>
           <div style={{ fontSize: 10, color: '#64748b', marginBottom: 4 }}>
             📊 数据：3km 内 {analysis.totalCompetitors} 家竞品
+            {Object.keys(analysis.compByBrand).length > 0 && (
+              <span>（{Object.entries(analysis.compByBrand)
+                .sort((a, b) => b[1] - a[1])
+                .slice(0, 4)
+                .map(([brand, count]) => `${brand}${count}家`)
+                .join('、')}）</span>
+            )}
           </div>
           <div style={{ fontSize: 10, color: '#94a3b8', lineHeight: 1.5 }}>
             💡 评分规则：钟形曲线 | 0 家=8 分 | 1-5 家=15 分 | 6-15 家=20 分（最佳）| 16-25 家=14 分 | 26+ 家=8 分（饱和）
@@ -209,15 +292,37 @@ export default function SiteSelectionReport({ lat, lng }: SiteSelectionReportPro
       </div>
 
       {/* 综合建议 */}
-      <div style={{ 
+      <div style={{
         background: analysis.percentage >= 0.65 ? '#dcfce7' : '#fef3c7',
-        padding: 12, 
+        padding: 12,
         borderRadius: 8,
         fontSize: 12,
         fontWeight: 600,
         marginBottom: 12
       }}>
         {analysis.recommendation}
+      </div>
+
+      {/* 关键结论 */}
+      <div style={{ fontSize: 11, color: '#475569', lineHeight: 1.6, background: '#eff6ff', padding: 12, borderRadius: 8, marginBottom: 12 }}>
+        <div style={{ fontWeight: 600, marginBottom: 8, color: '#1e40af' }}>🔍 关键结论</div>
+        <ul style={{ paddingLeft: 20, margin: 0 }}>
+          <li style={{ marginBottom: 4 }}>
+            <strong>最强项：</strong>{strongest.name}（{strongest.score}/{strongest.max}）
+          </li>
+          <li style={{ marginBottom: 4 }}>
+            <strong>最弱项：</strong>{weakest.name}（{weakest.score}/{weakest.max}）
+            {weakest.name === '蚕食风险' && analysis.cannibCount > 0 && (
+              <span>，最近门店 {analysis.nearestStoreDist?.toFixed(1)} km</span>
+            )}
+            {weakest.name === '竞品环境' && analysis.totalCompetitors > 0 && (
+              <span>，3km 内 {analysis.totalCompetitors} 家竞品</span>
+            )}
+            {weakest.name === '外卖需求潜力' && analysis.nearestGrid && (
+              <span>，加权需求指数 {Math.round(analysis.nearestGrid.office_count * 1.5 + analysis.nearestGrid.residential_count)}</span>
+            )}
+          </li>
+        </ul>
       </div>
 
       {/* 数据洞察 */}
@@ -228,84 +333,97 @@ export default function SiteSelectionReport({ lat, lng }: SiteSelectionReportPro
           {analysis.nearestGrid && (
             <li style={{ marginBottom: 6 }}>
               <strong>需求潜力：</strong>
-              周边 3km 内有约 {analysis.nearestGrid.office_count} 栋写字楼、{analysis.nearestGrid.residential_count} 个住宅小区，
-              外卖需求潜力{analysis.demandScore > 30 ? '较高' : analysis.demandScore > 15 ? '中等' : '偏低'}。
-              {analysis.nearestGrid.office_count > analysis.nearestGrid.residential_count 
-                ? '写字楼占比高，午餐时段订单可能是主力，建议重点分析周边写字楼的午餐/晚餐订单分布。'
-                : '住宅区占比高，晚餐和周末订单可能是主力，建议考察周边家庭消费场景。'}
+              周边 3km 内{cappedOffice ? '≥' : ''}{analysis.nearestGrid.office_count} 栋写字楼（前 {analysis.officePct}%）、
+              {cappedResidential ? '≥' : ''}{analysis.nearestGrid.residential_count} 个住宅小区（前 {analysis.residentialPct}%）。
+              {analysis.nearestGrid.office_count > analysis.nearestGrid.residential_count
+                ? '写字楼更密集，建议主打工作日午餐 + 下午茶场景，关注 11:00-14:00 运力。'
+                : '住宅区更密集，建议主打晚餐 + 周末家庭场景，关注 17:00-20:00 运力。'}
+              {(cappedOffice || cappedResidential) && (
+                <span style={{ color: '#ef4444' }}> 注：数值已触高德上限 600，实际密度可能更高，建议结合实地人流再验证。</span>
+              )}
             </li>
           )}
-          
+
           {/* 蚕食风险洞察 */}
           {analysis.cannibScore === 20 && (
             <li style={{ marginBottom: 6 }}>
               <strong>蚕食风险：</strong>
-              该点位不在任何现有门店的配送范围内，蚕食风险低。
-              建议：新市场开拓时，建议先小范围测试（如云厨房模式），验证需求后再投入重资产。
+              3km 内无现有 Wagas 门店，空白市场。若需求验证通过，可作为新市场首店优先测试（如云厨房）。
             </li>
           )}
           {analysis.cannibScore < 20 && analysis.cannibScore > 0 && (
             <li style={{ marginBottom: 6 }}>
               <strong>蚕食风险：</strong>
-              该点位位于现有门店的配送范围内，存在一定蚕食风险。
-              建议：计算被蚕食门店的日均外卖单量，若新店预期单量 &gt; 被蚕食门店单量的 30%，则净增量仍为正。
+              3km 内已有 {analysis.cannibCount} 家现有门店，最近为「{analysis.nearestStore?.store_name || analysis.nearestStore?.name || analysis.nearestStore?.store_id}」
+              （{analysis.nearestStoreDist?.toFixed(1)} km）。
+              建议评估该店外卖日均单量：若新店预计净增量 &gt; 被蚕食量的 30%，整体仍为正。
             </li>
           )}
-          
+          {analysis.cannibScore === 0 && analysis.cannibCount > 0 && (
+            <li style={{ marginBottom: 6 }}>
+              <strong>蚕食风险：</strong>
+              3km 内已有 {analysis.cannibCount} 家现有门店，且最近一家在 {analysis.nearestStoreDist?.toFixed(1)} km 内，重叠度极高。
+              建议：优先以云厨房/微店切入，避免堂食资源内耗。
+            </li>
+          )}
+
           {/* 竞品环境洞察 */}
           {analysis.totalCompetitors === 0 && (
             <li style={{ marginBottom: 6 }}>
               <strong>竞品环境：</strong>
-              3km 内无竞品，市场尚未被验证，需结合需求潜力综合判断。
-              建议：无竞品区域可能是蓝海，也可能是"死亡地带"。建议实地考察周边商业氛围和人流。
+              3km 内无轻食/咖啡竞品。若写字楼/住宅密度同时高，可能是蓝海；否则可能是需求未验证区域，建议实地蹲点。
             </li>
           )}
           {analysis.totalCompetitors > 0 && analysis.totalCompetitors <= 5 && (
             <li style={{ marginBottom: 6 }}>
               <strong>竞品环境：</strong>
-              3km 内有 {analysis.totalCompetitors} 家竞品，市场竞争较少，可能是机会也可能是需求不足。
-              建议：结合写字楼/住宅密度判断——若密度高但竞品少，可能是蓝海市场；若密度也低，则需谨慎。
+              3km 内仅 {analysis.totalCompetitors} 家竞品
+              {Object.keys(analysis.compByBrand).length > 0 ? `（${Object.entries(analysis.compByBrand).sort((a, b) => b[1] - a[1]).map(([b, c]) => `${b}${c}家`).join('、')}）` : ''}，
+              竞争压力小。建议快速测试，抢占先入优势。
             </li>
           )}
           {analysis.totalCompetitors > 5 && analysis.totalCompetitors <= 15 && (
             <li style={{ marginBottom: 6 }}>
               <strong>竞品环境：</strong>
-              3km 内有 {analysis.totalCompetitors} 家竞品，竞争适中，市场有需求。
-              建议：分析竞品评分分布，若头部竞品评分&lt;4.0，说明服务有提升空间，可切入。
+              3km 内 {analysis.totalCompetitors} 家竞品，密度适中、需求已被验证。
+              主要品牌：{Object.entries(analysis.compByBrand).sort((a, b) => b[1] - a[1]).slice(0, 3).map(([b, c]) => `${b}${c}家`).join('、')}。
+              若头部竞品评分 &lt;4.0，说明服务有提升空间。
             </li>
           )}
           {analysis.totalCompetitors > 15 && analysis.totalCompetitors <= 25 && (
             <li style={{ marginBottom: 6 }}>
               <strong>竞品环境：</strong>
-              3km 内有 {analysis.totalCompetitors} 家竞品，市场竞争较激烈。
-              建议：饱和市场中需差异化定位（如高端健康餐、企业团餐），避免价格战。
+              3km 内 {analysis.totalCompetitors} 家竞品，竞争较激烈。
+              主要品牌：{Object.entries(analysis.compByBrand).sort((a, b) => b[1] - a[1]).slice(0, 3).map(([b, c]) => `${b}${c}家`).join('、')}。
+              需差异化定位（高端健康餐、企业团餐）才能避开价格战。
             </li>
           )}
           {analysis.totalCompetitors > 25 && (
             <li style={{ marginBottom: 6 }}>
               <strong>竞品环境：</strong>
-              3km 内有 {analysis.totalCompetitors} 家竞品，市场已饱和。
-              建议：除非有显著差异化优势，否则不建议进入。
+              3km 内 {analysis.totalCompetitors} 家竞品，市场高度饱和。
+              主要品牌：{Object.entries(analysis.compByBrand).sort((a, b) => b[1] - a[1]).slice(0, 3).map(([b, c]) => `${b}${c}家`).join('、')}。
+              除非有显著差异化，否则不建议进入。
             </li>
           )}
-          
+
           {/* 美团验证洞察 */}
           {analysis.nearestMall && (
             <li style={{ marginBottom: 6 }}>
               <strong>美团验证：</strong>
-              5km 内有美团报告覆盖的门店「{analysis.nearestMall.store_name}」（{analysis.nearestMallDist?.toFixed(1)}km）。
-              {analysis.nearestMall.delivery_orders_all_3km && analysis.nearestMall.delivery_orders_all_3km > 50 
-                ? '该区域外卖单量高（&gt;50 千单/天），市场成熟度高，但竞争也可能激烈。建议差异化定位。'
+              最近美团报告门店「{analysis.nearestMall.store_name}」距离 {analysis.nearestMallDist?.toFixed(1)} km，
+              3km 内外卖单量约 {analysis.nearestMall.delivery_orders_all_3km ?? '—'} 千单/天。
+              {analysis.nearestMall.delivery_orders_all_3km && analysis.nearestMall.delivery_orders_all_3km > 50
+                ? '外卖市场成熟，可作为需求侧强佐证。'
                 : analysis.nearestMall.delivery_orders_all_3km && analysis.nearestMall.delivery_orders_all_3km > 20
-                ? '该区域外卖单量中等（20-50 千单/天），市场有增长空间，可考虑切入。'
-                : '该区域外卖单量较低（&lt;20 千单/天），市场可能未成熟或需求有限，需谨慎评估。'}
+                ? '外卖单量中等，有一定增长空间。'
+                : '外卖单量偏低，需结合线下人流综合判断。'}
             </li>
           )}
           {!analysis.nearestMall && (
             <li style={{ marginBottom: 6 }}>
               <strong>美团验证：</strong>
-              5km 内无美团报告覆盖的门店，无法获取第三方市场验证数据。
-              建议：美团数据缺失时，建议通过实地调研（人流计数、竞品观察）或购买第三方数据（如极光大数据）补充验证。
+              5km 内无美团报告，缺少第三方单量验证。建议通过实地人流计数或采购极光/美团商业大脑数据补充。
             </li>
           )}
         </ul>
