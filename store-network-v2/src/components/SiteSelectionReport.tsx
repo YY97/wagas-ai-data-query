@@ -34,6 +34,15 @@ function scoreByPercentile(pct: number, maxScore: number): number {
   return Math.round(maxScore * 0.11);
 }
 
+// 中位数
+function median(values: number[]): number | null {
+  if (values.length === 0) return null;
+  const sorted = [...values].sort((a, b) => a - b);
+  const mid = Math.floor(sorted.length / 2);
+  if (sorted.length % 2 === 0) return (sorted[mid - 1] + sorted[mid]) / 2;
+  return sorted[mid];
+}
+
 // 选址评分计算
 function computeSiteSelectionScore(
   lat: number,
@@ -44,14 +53,21 @@ function computeSiteSelectionScore(
   competitors: Record<string, any[]>
 ) {
   // 预计算各城市的百分位分母（北京跟北京比，上海跟上海比）
-  const cityGroups: Record<string, { office: number[]; residential: number[] }> = {};
+  const cityGroups: Record<string, { office: number[]; residential: number[]; weighted: number[] }> = {};
   for (const g of densityGridData) {
     const city = inferCity(g.lat, g.lng);
     if (!city) continue;
-    if (!cityGroups[city]) cityGroups[city] = { office: [], residential: [] };
+    if (!cityGroups[city]) cityGroups[city] = { office: [], residential: [], weighted: [] };
     cityGroups[city].office.push(g.office_count);
     cityGroups[city].residential.push(g.residential_count);
+    cityGroups[city].weighted.push(g.office_count * 1.5 + g.residential_count * 1.0);
   }
+
+  // 全部门店外卖 ADS 中位数（用于缺失数据兜底和蚕食权重）
+  const deliveryAdsList = stores
+    .map((s) => s.channel?.delivery_avg)
+    .filter((v): v is number => typeof v === 'number' && v > 0);
+  const medianDeliveryAds = median(deliveryAdsList) ?? 1;
 
   // 1. 外卖需求潜力（0-45 分）
   let demandScore = 0;
@@ -70,6 +86,8 @@ function computeSiteSelectionScore(
   let residentialPct = 0;
   let officeScore = 0;
   let residentialScore = 0;
+  let weightedDemand = 0;
+  let cityMedianWeightedDemand: number | null = null;
   const gridCity = nearestGrid ? inferCity(nearestGrid.lat, nearestGrid.lng) : null;
   const cityArrays = gridCity ? cityGroups[gridCity] : null;
   if (nearestGrid && minDist <= 3 && cityArrays) {
@@ -80,31 +98,42 @@ function computeSiteSelectionScore(
     officeScore = scoreByPercentile(officePct, 25);
     residentialScore = scoreByPercentile(residentialPct, 20);
     demandScore = officeScore + residentialScore;
+    weightedDemand = nearestGrid.office_count * 1.5 + nearestGrid.residential_count * 1.0;
+    cityMedianWeightedDemand = median(cityArrays.weighted);
   }
 
   // 2. 蚕食风险（0-20 分）
-  let cannibScore = 20;
+  // 基础分 15 分；3km 内无门店且需求潜力不低于城市中位数时 +5 分
+  let cannibScore = 15;
   let cannibCount = 0;
   let nearestStoreDist: number | null = null;
   let nearestStore: any | null = null;
-  const nearbyStores: { store: any; dist: number }[] = [];
+  const nearbyStores: { store: any; dist: number; weight: number }[] = [];
 
   for (const s of stores) {
     const d = distKm(s.lat, s.lng, lat, lng);
     if (d <= 3) {
       cannibCount++;
-      nearbyStores.push({ store: s, dist: d });
+      const storeAds = s.channel?.delivery_avg && s.channel.delivery_avg > 0 ? s.channel.delivery_avg : medianDeliveryAds;
+      const weight = Math.min(Math.max(storeAds / medianDeliveryAds, 0.5), 2.5);
+      nearbyStores.push({ store: s, dist: d, weight });
       if (nearestStoreDist === null || d < nearestStoreDist) {
         nearestStoreDist = d;
         nearestStore = s;
       }
-      // 距离越近，扣分越重
-      if (d <= 1) cannibScore -= 10;
-      else if (d <= 2) cannibScore -= 6;
-      else cannibScore -= 3;
-      if (cannibScore < 0) cannibScore = 0;
+      // 距离越近，基础扣分越重；按该店外卖 ADS 相对中位数加权
+      let basePenalty = 1;
+      if (d <= 1) basePenalty = 10;
+      else if (d <= 2) basePenalty = 4;
+      cannibScore -= basePenalty * weight;
     }
   }
+
+  // 无门店且需求不低于城市中位数时，给满 20 分
+  if (cannibCount === 0 && cityMedianWeightedDemand !== null && weightedDemand >= cityMedianWeightedDemand) {
+    cannibScore += 5;
+  }
+  if (cannibScore < 2) cannibScore = 2; // 高需求成熟区保留最低 2 分，避免一票否决
 
   // 3. 竞品环境（0-20 分）
   let compScore = 0;
@@ -179,6 +208,9 @@ function computeSiteSelectionScore(
     officeScore,
     residentialScore,
     gridCity,
+    weightedDemand,
+    cityMedianWeightedDemand,
+    medianDeliveryAds,
     nearestMall,
     nearestMallDist: minMallDist === Infinity ? null : minMallDist,
   };
@@ -291,11 +323,14 @@ export default function SiteSelectionReport({ lat, lng }: SiteSelectionReportPro
           </div>
           <div style={{ fontSize: 10, color: '#64748b', marginBottom: 4 }}>
             📊 数据：{analysis.cannibCount === 0
-              ? '3km 内无现有门店覆盖'
-              : `3km 内现有门店覆盖：${analysis.cannibCount} 家${analysis.nearestStoreDist !== null ? `（最近 ${analysis.nearestStoreDist.toFixed(1)} km${analysis.nearestStore ? ` · ${analysis.nearestStore.store_name || analysis.nearestStore.name || analysis.nearestStore.store_id}` : ''}）` : ''}`}
+              ? `3km 内无现有门店覆盖（外卖 ADS 中位数 ¥${Math.round(analysis.medianDeliveryAds).toLocaleString()}）`
+              : `3km 内现有门店覆盖：${analysis.cannibCount} 家${analysis.nearestStoreDist !== null ? `（最近 ${analysis.nearestStoreDist.toFixed(1)} km${analysis.nearestStore ? ` · ${analysis.nearestStore.name || analysis.nearestStore.sid || ''} · 外卖日均 ¥${Math.round(analysis.nearestStore.channel?.delivery_avg || analysis.medianDeliveryAds).toLocaleString()}` : ''}）` : ''}`}
+            {analysis.cannibCount === 0 && analysis.cityMedianWeightedDemand !== null && analysis.weightedDemand >= analysis.cityMedianWeightedDemand && (
+              <span style={{ color: '#16a34a', marginLeft: 4 }}>+5 分需求验证奖励</span>
+            )}
           </div>
           <div style={{ fontSize: 10, color: '#94a3b8', lineHeight: 1.5 }}>
-            💡 评分规则：0 家=20 分 | ≤1km 每家-10 分 | 1-2km 每家-6 分 | 2-3km 每家-3 分
+            💡 评分规则：基础 15 分；3km 内无门店且需求潜力不低于城市中位数时 +5 分。有门店则按距离基础扣分 × 外卖 ADS 权重（0.5-2.5 封顶），≤1km 基础-10、1-2km 基础-4、2-3km 基础-1，最低保留 2 分
           </div>
         </div>
 
@@ -362,8 +397,8 @@ export default function SiteSelectionReport({ lat, lng }: SiteSelectionReportPro
           </li>
           <li style={{ marginBottom: 4 }}>
             <strong>最弱项：</strong>{weakest.name}（{weakest.score}/{weakest.max}）
-            {weakest.name === '蚕食风险' && analysis.cannibCount > 0 && (
-              <span>，最近门店 {analysis.nearestStoreDist?.toFixed(1)} km</span>
+            {weakest.name === '蚕食风险' && analysis.cannibCount > 0 && analysis.nearestStore && (
+              <span>，最近门店 {analysis.nearestStoreDist?.toFixed(1)} km · 外卖日均 ¥{Math.round(analysis.nearestStore.channel?.delivery_avg || analysis.medianDeliveryAds).toLocaleString()}</span>
             )}
             {weakest.name === '竞品环境' && analysis.totalCompetitors > 0 && (
               <span>，3km 内 {analysis.totalCompetitors} 家竞品</span>
