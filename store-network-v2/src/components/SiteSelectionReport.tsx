@@ -137,7 +137,7 @@ function computeSiteSelectionScore(
   cannibScore = Math.round(cannibScore);
 
   // 3. 竞品环境（0-20 分）
-  let compScore = 0;
+  // 用「单品牌密度」避免品牌数增加导致分数系统性漂移
   let totalCompetitors = 0;
   const compByBrand: Record<string, number> = {};
   for (const brand in competitors) {
@@ -151,11 +151,24 @@ function computeSiteSelectionScore(
     }
     if (count > 0) compByBrand[brand] = count;
   }
-  if (totalCompetitors === 0) compScore = 8;
-  else if (totalCompetitors <= 5) compScore = 15;
-  else if (totalCompetitors <= 15) compScore = 20;
-  else if (totalCompetitors <= 25) compScore = 14;
-  else compScore = 8;
+
+  const brandCount = Math.max(1, Object.keys(competitors).length);
+  const densityPerBrand = totalCompetitors / brandCount;
+  let compScore = 8;
+  if (densityPerBrand < 0.5) {
+    compScore = 8;
+  } else if (densityPerBrand < 1.5) {
+    // 0.5~1.5 家/品牌：8 → 20（市场验证增强）
+    compScore = Math.round(8 + ((densityPerBrand - 0.5) / 1.0) * 12);
+  } else if (densityPerBrand < 3) {
+    // 1.5~3 家/品牌：20 → 14（最佳竞争密度）
+    compScore = Math.round(20 - ((densityPerBrand - 1.5) / 1.5) * 6);
+  } else if (densityPerBrand < 5) {
+    // 3~5 家/品牌：14 → 8（逐渐饱和）
+    compScore = Math.round(14 - ((densityPerBrand - 3) / 2) * 6);
+  } else {
+    compScore = 8; // >5 家/品牌：高度饱和
+  }
 
   // 4. 美团验证（0-15 分）
   let meituanScore = 0;
@@ -200,6 +213,8 @@ function computeSiteSelectionScore(
     nearestGrid,
     totalCompetitors,
     compByBrand,
+    brandCount,
+    densityPerBrand,
     cannibCount,
     nearestStore,
     nearestStoreDist,
@@ -351,7 +366,7 @@ export default function SiteSelectionReport({ lat, lng }: SiteSelectionReportPro
             <div style={{ height: '100%', width: `${(analysis.compScore / 20) * 100}%`, background: '#f59e0b' }} />
           </div>
           <div style={{ fontSize: 10, color: '#64748b', marginBottom: 4 }}>
-            📊 数据：3km 内 {analysis.totalCompetitors} 家竞品
+            📊 数据：3km 内 {analysis.totalCompetitors} 家竞品 / {analysis.brandCount} 个品牌（单品牌密度 {analysis.densityPerBrand.toFixed(1)} 家/品牌）
             {Object.keys(analysis.compByBrand).length > 0 && (
               <span>（{Object.entries(analysis.compByBrand)
                 .sort((a, b) => b[1] - a[1])
@@ -361,7 +376,7 @@ export default function SiteSelectionReport({ lat, lng }: SiteSelectionReportPro
             )}
           </div>
           <div style={{ fontSize: 10, color: '#94a3b8', lineHeight: 1.5 }}>
-            💡 评分规则：钟形曲线 | 0 家=8 分 | 1-5 家=15 分 | 6-15 家=20 分（最佳）| 16-25 家=14 分 | 26+ 家=8 分（饱和）
+            💡 评分规则：按「单品牌密度」打分（总竞品数 ÷ 追踪品牌数），避免增加品牌数后分数系统性漂移。&lt;0.5 家/品牌=8 分（验证不足）| 0.5-1.5 家/品牌=8→20 分（最佳验证）| 1.5-3 家/品牌=20→14 分（适中）| 3-5 家/品牌=14→8 分（饱和）| &gt;5 家/品牌=8 分（过度饱和）
           </div>
         </div>
 

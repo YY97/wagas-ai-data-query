@@ -491,7 +491,7 @@ export default function MapView({ selectedSite, onSiteSelect }: MapViewProps) {
                   <tbody>
                     <DataRow label="外卖需求潜力" value="0-45 分 | 写字楼 0-25 分 + 住宅 0-20 分，分别按城市内百分位打分（北京/上海各自比），避免 600 上限扎堆满分；数据覆盖现有自营门店周边约 8km 范围" />
                     <DataRow label="蚕食风险" value="0-20 分 | 基础 15 分；0 门店且需求≥中位数 +5；有门店按距离基础扣分 × 外卖 ADS 权重（0.5-2.5），≤1km 基础-10 / 1-2km -4 / 2-3km -1；最低 2 分" />
-                    <DataRow label="竞品环境" value="0-20 分 | 0 家=8 / 1-5 家=15 / 6-15 家=20 / 16-25 家=14 / 26+ 家=8" />
+                    <DataRow label="竞品环境" value="0-20 分 | 按单品牌密度（总竞品数 ÷ 追踪品牌数）打分：&lt;0.5=8 / 0.5-1.5=8→20 / 1.5-3=20→14 / 3-5=14→8 / &gt;5=8，避免品牌数增加后分数漂移" />
                     <DataRow label="美团验证" value="0-15 分 | 加分项，5km 内有报告才加分" />
                   </tbody>
                 </table>
