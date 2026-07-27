@@ -479,8 +479,8 @@ export default function MapView({ selectedSite, onSiteSelect }: MapViewProps) {
                 </table>
               </Section>
 
-              <Section title=" 选址评分">
-                <p style={{ margin:'4px 0' }}>用于评估候选点位的外卖经营潜力：</p>
+              <Section title=" 外卖选址评分">
+                <p style={{ margin:'4px 0' }}>用于评估候选点位的外卖经营潜力，建议重点对比得分率：</p>
                 <ol style={{ margin:'4px 0',paddingLeft:'20px' }}>
                   <li>左侧面板底部打开 <b>选址模式</b> → <b>启用选址分析</b></li>
                   <li>点击地图任意位置，左侧显示评分报告</li>
@@ -489,7 +489,7 @@ export default function MapView({ selectedSite, onSiteSelect }: MapViewProps) {
 
                 <table style={{ width:'100%',borderCollapse:'collapse',fontSize:'11px',marginTop:'8px' }}>
                   <tbody>
-                    <DataRow label="外卖需求潜力" value="0-45 分 | 写字楼 0-25 分 + 住宅 0-20 分，分别按城市内百分位打分（北京/上海各自比），避免 600 上限扎堆满分" />
+                    <DataRow label="外卖需求潜力" value="0-45 分 | 写字楼 0-25 分 + 住宅 0-20 分，分别按城市内百分位打分（北京/上海各自比），避免 600 上限扎堆满分；数据覆盖现有自营门店周边约 8km 范围" />
                     <DataRow label="蚕食风险" value="0-20 分 | 基础 15 分；0 门店且需求≥中位数 +5；有门店按距离基础扣分 × 外卖 ADS 权重（0.5-2.5），≤1km 基础-10 / 1-2km -4 / 2-3km -1；最低 2 分" />
                     <DataRow label="竞品环境" value="0-20 分 | 0 家=8 / 1-5 家=15 / 6-15 家=20 / 16-25 家=14 / 26+ 家=8" />
                     <DataRow label="美团验证" value="0-15 分 | 加分项，5km 内有报告才加分" />
@@ -497,7 +497,7 @@ export default function MapView({ selectedSite, onSiteSelect }: MapViewProps) {
                 </table>
 
                 <p style={{ margin:'8px 0 4px',fontSize:'11px',color:'#64748b' }}>
-                  💡 得分率 ≥80% 优秀 | ≥65% 良好 | ≥50% 中等 | &lt;50% 较低
+                  💡 得分率 ≥80% 优秀 | ≥65% 良好 | ≥50% 中等 | &lt;50% 较低（美团报告为加分项，不同点位满分可能不同，重点看得分率）
                 </p>
                 <p style={{ margin:'4px 0',fontSize:'10px',color:'#94a3b8' }}>
                   注：写字楼/住宅数量来自高德周边搜索，单类型返回上限为 600，高密度区域显示为「≥600」，实际密度可能更高。

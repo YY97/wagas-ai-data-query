@@ -243,12 +243,12 @@ export default function SiteSelectionReport({ lat, lng }: SiteSelectionReportPro
   return (
     <div style={{ marginTop: 16, borderTop: '1px solid #e2e8f0', paddingTop: 16 }}>
       <div style={{ fontWeight: 700, fontSize: 14, marginBottom: 12, color: '#1e293b' }}>
-        选址评分报告
+        外卖选址评分报告
       </div>
 
       {/* 综合评分 */}
       <div style={{ background: '#f0f9ff', padding: 12, borderRadius: 8, marginBottom: 12 }}>
-        <div style={{ fontSize: 11, color: '#64748b', marginBottom: 4 }}>综合选址评分</div>
+        <div style={{ fontSize: 11, color: '#64748b', marginBottom: 4 }}>综合得分（建议以得分率判断店铺优劣）</div>
         <div style={{ display: 'flex', alignItems: 'baseline', gap: 8 }}>
           <span style={{ fontSize: 36, fontWeight: 800, color: analysis.percentage >= 0.80 ? '#16a34a' : analysis.percentage >= 0.65 ? '#f59e0b' : '#ef4444' }}>
             {analysis.score}
@@ -257,6 +257,9 @@ export default function SiteSelectionReport({ lat, lng }: SiteSelectionReportPro
           <span style={{ fontSize: 11, color: '#64748b', marginLeft: 'auto' }}>
             得分率 {Math.round(analysis.percentage * 100)}%
           </span>
+        </div>
+        <div style={{ fontSize: 10, color: '#94a3b8', marginTop: 6, lineHeight: 1.5 }}>
+          💡 美团验证为加分项，存在报告时满分为 100 分、无报告时满分为 85 分，因此不同点位建议重点对比得分率。
         </div>
       </div>
 
@@ -286,6 +289,9 @@ export default function SiteSelectionReport({ lat, lng }: SiteSelectionReportPro
           )}
           <div style={{ fontSize: 10, color: '#94a3b8', lineHeight: 1.5 }}>
             💡 评分规则：写字楼 0-25 分 + 住宅 0-20 分，分别按城市内百分位打分（北京跟北京比，上海跟上海比；前 10% 满分、前 25% 较高、前 50% 中等、前 75% 较低、后 25% 低），避免 600 上限导致扎堆满分
+          </div>
+          <div style={{ fontSize: 10, color: '#f59e0b', lineHeight: 1.5, marginTop: 4 }}>
+            ⚠️ 数据范围：当前写字楼/住宅数据仅覆盖现有自营门店周边约 8km 范围（超出该范围将无 density grid 数据，需求潜力显示为 0 或偏低）
           </div>
           {/* 写字楼/住宅子条 */}
           {analysis.nearestGrid && (
