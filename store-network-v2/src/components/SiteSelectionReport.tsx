@@ -134,6 +134,7 @@ function computeSiteSelectionScore(
     cannibScore += 5;
   }
   if (cannibScore < 2) cannibScore = 2; // 高需求成熟区保留最低 2 分，避免一票否决
+  cannibScore = Math.round(cannibScore);
 
   // 3. 竞品环境（0-20 分）
   let compScore = 0;
@@ -177,7 +178,7 @@ function computeSiteSelectionScore(
 
   const baseScore = demandScore + cannibScore + compScore;
   const maxScore = meituanScore > 0 ? 100 : 85;
-  const score = baseScore + meituanScore;
+  const score = Math.round(baseScore + meituanScore);
   const percentage = score / maxScore;
 
   let recommendation = '';
@@ -249,12 +250,12 @@ export default function SiteSelectionReport({ lat, lng }: SiteSelectionReportPro
       {/* 综合评分 */}
       <div style={{ background: '#f0f9ff', padding: 12, borderRadius: 8, marginBottom: 12 }}>
         <div style={{ fontSize: 11, color: '#64748b', marginBottom: 4 }}>综合得分（建议以得分率判断店铺优劣）</div>
-        <div style={{ display: 'flex', alignItems: 'baseline', gap: 8 }}>
-          <span style={{ fontSize: 36, fontWeight: 800, color: analysis.percentage >= 0.80 ? '#16a34a' : analysis.percentage >= 0.65 ? '#f59e0b' : '#ef4444' }}>
-            {analysis.score}
+        <div style={{ display: 'flex', alignItems: 'baseline', gap: 8, flexWrap: 'nowrap' }}>
+          <span style={{ fontSize: 36, fontWeight: 800, color: analysis.percentage >= 0.80 ? '#16a34a' : analysis.percentage >= 0.65 ? '#f59e0b' : '#ef4444', whiteSpace: 'nowrap' }}>
+            {Math.round(analysis.score)}
           </span>
-          <span style={{ fontSize: 14, color: '#94a3b8' }}>/ {analysis.maxScore}</span>
-          <span style={{ fontSize: 11, color: '#64748b', marginLeft: 'auto' }}>
+          <span style={{ fontSize: 14, color: '#94a3b8', whiteSpace: 'nowrap' }}>/ {analysis.maxScore}</span>
+          <span style={{ fontSize: 11, color: '#64748b', marginLeft: 'auto', whiteSpace: 'nowrap' }}>
             得分率 {Math.round(analysis.percentage * 100)}%
           </span>
         </div>
@@ -322,7 +323,7 @@ export default function SiteSelectionReport({ lat, lng }: SiteSelectionReportPro
         <div style={{ marginBottom: 12, padding: 8, background: '#f8fafc', borderRadius: 6 }}>
           <div style={{ display: 'flex', justifyContent: 'space-between', fontSize: 11, marginBottom: 4 }}>
             <span style={{ fontWeight: 600 }}>蚕食风险</span>
-            <span style={{ fontWeight: 600 }}>{analysis.cannibScore}/20</span>
+            <span style={{ fontWeight: 600 }}>{Math.round(analysis.cannibScore)}/20</span>
           </div>
           <div style={{ height: 4, background: '#e2e8f0', borderRadius: 2, overflow: 'hidden', marginBottom: 6 }}>
             <div style={{ height: '100%', width: `${(analysis.cannibScore / 20) * 100}%`, background: '#10b981' }} />
