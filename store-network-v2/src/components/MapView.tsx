@@ -292,7 +292,7 @@ export default function MapView() {
         )}
 
         {/* 选址模式：点击地图显示评分报告 + 点击标记 */}
-        {layers.siteSelectionMode && selectedSite && (
+        {layers.siteSelectionMode && (
           <>
             <MapClickHandler onClick={(lat: number, lng: number) => {
               const handler = (window as any).onSiteSelectionClick;
@@ -300,27 +300,29 @@ export default function MapView() {
                 handler(lat, lng);
               }
             }} />
-            <Marker 
-              position={[selectedSite.lat, selectedSite.lng]} 
-              icon={L.divIcon({
-                className: 'site-selection-marker',
-                html: `<div style="
-                  width: 32px; 
-                  height: 32px; 
-                  background: #ef4444; 
-                  border-radius: 50% 50% 50% 0;
-                  transform: rotate(-45deg);
-                  border: 3px solid white;
-                  box-shadow: 0 2px 8px rgba(0,0,0,0.4);
-                  display: flex;
-                  align-items: center;
-                  justify-content: center;">
-                  <div style="transform: rotate(45deg); color: white; font-size: 14px; font-weight: bold;"></div>
-                </div>`,
-                iconSize: [32, 32],
-                iconAnchor: [16, 32],
-              })}
-            />
+            {selectedSite && (
+              <Marker 
+                position={[selectedSite.lat, selectedSite.lng]} 
+                icon={L.divIcon({
+                  className: 'site-selection-marker',
+                  html: `<div style="
+                    width: 32px; 
+                    height: 32px; 
+                    background: #ef4444; 
+                    border-radius: 50% 50% 50% 0;
+                    transform: rotate(-45deg);
+                    border: 3px solid white;
+                    box-shadow: 0 2px 8px rgba(0,0,0,0.4);
+                    display: flex;
+                    align-items: center;
+                    justify-content: center;">
+                    <div style="transform: rotate(45deg); color: white; font-size: 14px; font-weight: bold;"></div>
+                  </div>`,
+                  iconSize: [32, 32],
+                  iconAnchor: [16, 32],
+                })}
+              />
+            )}
           </>
         )}
 
