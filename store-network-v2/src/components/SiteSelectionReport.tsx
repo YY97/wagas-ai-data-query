@@ -7,6 +7,13 @@ function distKm(lat1: number, lng1: number, lat2: number, lng2: number): number 
   return Math.sqrt(Math.pow(lat1 - lat2, 2) + Math.pow(lng1 - lng2, 2)) * 111;
 }
 
+// 根据经纬度推断城市（density_grid.json 目前只有北京/上海）
+function inferCity(lat: number, lng: number): '北京' | '上海' | null {
+  if (lat >= 38.5 && lng >= 115 && lng <= 118) return '北京';
+  if (lat >= 30 && lat <= 33.5 && lng >= 120 && lng <= 123) return '上海';
+  return null;
+}
+
 // 百分位（0-100）
 function percentile(values: number[], value: number): number {
   if (values.length === 0) return 0;
@@ -36,9 +43,15 @@ function computeSiteSelectionScore(
   stores: any[],
   competitors: Record<string, any[]>
 ) {
-  // 预计算全局百分位
-  const allOffice = densityGridData.map((g) => g.office_count);
-  const allResidential = densityGridData.map((g) => g.residential_count);
+  // 预计算各城市的百分位分母（北京跟北京比，上海跟上海比）
+  const cityGroups: Record<string, { office: number[]; residential: number[] }> = {};
+  for (const g of densityGridData) {
+    const city = inferCity(g.lat, g.lng);
+    if (!city) continue;
+    if (!cityGroups[city]) cityGroups[city] = { office: [], residential: [] };
+    cityGroups[city].office.push(g.office_count);
+    cityGroups[city].residential.push(g.residential_count);
+  }
 
   // 1. 外卖需求潜力（0-45 分）
   let demandScore = 0;
@@ -57,11 +70,13 @@ function computeSiteSelectionScore(
   let residentialPct = 0;
   let officeScore = 0;
   let residentialScore = 0;
-  if (nearestGrid && minDist <= 3) {
-    officePct = percentile(allOffice, nearestGrid.office_count);
-    residentialPct = percentile(allResidential, nearestGrid.residential_count);
+  const gridCity = nearestGrid ? inferCity(nearestGrid.lat, nearestGrid.lng) : null;
+  const cityArrays = gridCity ? cityGroups[gridCity] : null;
+  if (nearestGrid && minDist <= 3 && cityArrays) {
+    officePct = percentile(cityArrays.office, nearestGrid.office_count);
+    residentialPct = percentile(cityArrays.residential, nearestGrid.residential_count);
     // 写字楼权重高于住宅：更贴近 Wagas 轻食外卖的午餐/工作日场景
-    // 写字楼占 25 分，住宅占 20 分，分别按全局百分位打分，避免 600 上限导致大量满分
+    // 写字楼占 25 分，住宅占 20 分，分别按城市内百分位打分，避免 600 上限导致大量满分
     officeScore = scoreByPercentile(officePct, 25);
     residentialScore = scoreByPercentile(residentialPct, 20);
     demandScore = officeScore + residentialScore;
@@ -163,6 +178,7 @@ function computeSiteSelectionScore(
     residentialPct,
     officeScore,
     residentialScore,
+    gridCity,
     nearestMall,
     nearestMallDist: minMallDist === Infinity ? null : minMallDist,
   };
@@ -227,8 +243,8 @@ export default function SiteSelectionReport({ lat, lng }: SiteSelectionReportPro
           </div>
           {analysis.nearestGrid && (
             <div style={{ fontSize: 10, color: '#64748b', marginBottom: 4 }}>
-              数据：{cappedOffice ? '≥' : ''}{analysis.nearestGrid.office_count}写字楼（前 {analysis.officePct}%）/
-              {cappedResidential ? '≥' : ''}{analysis.nearestGrid.residential_count}住宅（前 {analysis.residentialPct}%）（3km 内）
+              数据：{cappedOffice ? '≥' : ''}{analysis.nearestGrid.office_count}写字楼（{analysis.gridCity}前 {analysis.officePct}%）/
+              {cappedResidential ? '≥' : ''}{analysis.nearestGrid.residential_count}住宅（{analysis.gridCity}前 {analysis.residentialPct}%）（3km 内）
               {(cappedOffice || cappedResidential) && (
                 <span style={{ color: '#ef4444', marginLeft: 4 }}>
                   *高德单类型上限 600，实际密度可能更高
@@ -237,7 +253,7 @@ export default function SiteSelectionReport({ lat, lng }: SiteSelectionReportPro
             </div>
           )}
           <div style={{ fontSize: 10, color: '#94a3b8', lineHeight: 1.5 }}>
-            💡 评分规则：写字楼 0-25 分 + 住宅 0-20 分，分别按全局百分位打分（前 10% 满分、前 25% 较高、前 50% 中等、前 75% 较低、后 25% 低），避免 600 上限导致扎堆满分
+            💡 评分规则：写字楼 0-25 分 + 住宅 0-20 分，分别按城市内百分位打分（北京跟北京比，上海跟上海比；前 10% 满分、前 25% 较高、前 50% 中等、前 75% 较低、后 25% 低），避免 600 上限导致扎堆满分
           </div>
           {/* 写字楼/住宅子条 */}
           {analysis.nearestGrid && (
