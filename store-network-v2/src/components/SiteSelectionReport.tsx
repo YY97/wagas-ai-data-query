@@ -18,6 +18,15 @@ function percentile(values: number[], value: number): number {
   return Math.round((count / sorted.length) * 100);
 }
 
+// 按百分位映射到 0-maxScore
+function scoreByPercentile(pct: number, maxScore: number): number {
+  if (pct >= 90) return maxScore;
+  if (pct >= 75) return Math.round(maxScore * 0.78);
+  if (pct >= 50) return Math.round(maxScore * 0.56);
+  if (pct >= 25) return Math.round(maxScore * 0.33);
+  return Math.round(maxScore * 0.11);
+}
+
 // 选址评分计算
 function computeSiteSelectionScore(
   lat: number,
@@ -46,15 +55,16 @@ function computeSiteSelectionScore(
 
   let officePct = 0;
   let residentialPct = 0;
+  let officeScore = 0;
+  let residentialScore = 0;
   if (nearestGrid && minDist <= 3) {
     officePct = percentile(allOffice, nearestGrid.office_count);
     residentialPct = percentile(allResidential, nearestGrid.residential_count);
     // 写字楼权重高于住宅：更贴近 Wagas 轻食外卖的午餐/工作日场景
-    const weightedDemand = nearestGrid.office_count * 1.5 + nearestGrid.residential_count * 1.0;
-    if (weightedDemand > 120) demandScore = 45;
-    else if (weightedDemand > 60) demandScore = 30;
-    else if (weightedDemand > 24) demandScore = 15;
-    else demandScore = 5;
+    // 写字楼占 25 分，住宅占 20 分，分别按全局百分位打分，避免 600 上限导致大量满分
+    officeScore = scoreByPercentile(officePct, 25);
+    residentialScore = scoreByPercentile(residentialPct, 20);
+    demandScore = officeScore + residentialScore;
   }
 
   // 2. 蚕食风险（0-20 分）
@@ -151,6 +161,8 @@ function computeSiteSelectionScore(
     nearbyStores,
     officePct,
     residentialPct,
+    officeScore,
+    residentialScore,
     nearestMall,
     nearestMallDist: minMallDist === Infinity ? null : minMallDist,
   };
@@ -215,9 +227,8 @@ export default function SiteSelectionReport({ lat, lng }: SiteSelectionReportPro
           </div>
           {analysis.nearestGrid && (
             <div style={{ fontSize: 10, color: '#64748b', marginBottom: 4 }}>
-               数据：
-              {cappedOffice ? '≥' : ''}{analysis.nearestGrid.office_count}写字楼/
-              {cappedResidential ? '≥' : ''}{analysis.nearestGrid.residential_count}住宅（3km 内）
+              数据：{cappedOffice ? '≥' : ''}{analysis.nearestGrid.office_count}写字楼（前 {analysis.officePct}%）/
+              {cappedResidential ? '≥' : ''}{analysis.nearestGrid.residential_count}住宅（前 {analysis.residentialPct}%）（3km 内）
               {(cappedOffice || cappedResidential) && (
                 <span style={{ color: '#ef4444', marginLeft: 4 }}>
                   *高德单类型上限 600，实际密度可能更高
@@ -226,8 +237,31 @@ export default function SiteSelectionReport({ lat, lng }: SiteSelectionReportPro
             </div>
           )}
           <div style={{ fontSize: 10, color: '#94a3b8', lineHeight: 1.5 }}>
-            💡 评分规则：写字楼×1.5 + 住宅×1.0 加权需求指数 &gt;120 得 45 分 | 60-120 得 30 分 | 24-60 得 15 分 | &lt;24 得 5 分
+            💡 评分规则：写字楼 0-25 分 + 住宅 0-20 分，分别按全局百分位打分（前 10% 满分、前 25% 较高、前 50% 中等、前 75% 较低、后 25% 低），避免 600 上限导致扎堆满分
           </div>
+          {/* 写字楼/住宅子条 */}
+          {analysis.nearestGrid && (
+            <div style={{ marginTop: 8, display: 'flex', flexDirection: 'column', gap: 6 }}>
+              <div>
+                <div style={{ display: 'flex', justifyContent: 'space-between', fontSize: 10, color: '#64748b', marginBottom: 2 }}>
+                  <span>写字楼需求</span>
+                  <span>{analysis.officeScore}/25</span>
+                </div>
+                <div style={{ height: 3, background: '#dbeafe', borderRadius: 2, overflow: 'hidden' }}>
+                  <div style={{ height: '100%', width: `${(analysis.officeScore / 25) * 100}%`, background: '#60a5fa' }} />
+                </div>
+              </div>
+              <div>
+                <div style={{ display: 'flex', justifyContent: 'space-between', fontSize: 10, color: '#64748b', marginBottom: 2 }}>
+                  <span>住宅需求</span>
+                  <span>{analysis.residentialScore}/20</span>
+                </div>
+                <div style={{ height: 3, background: '#dbeafe', borderRadius: 2, overflow: 'hidden' }}>
+                  <div style={{ height: '100%', width: `${(analysis.residentialScore / 20) * 100}%`, background: '#34d399' }} />
+                </div>
+              </div>
+            </div>
+          )}
         </div>
 
         {/* 蚕食风险 */}
@@ -319,7 +353,7 @@ export default function SiteSelectionReport({ lat, lng }: SiteSelectionReportPro
               <span>，3km 内 {analysis.totalCompetitors} 家竞品</span>
             )}
             {weakest.name === '外卖需求潜力' && analysis.nearestGrid && (
-              <span>，加权需求指数 {Math.round(analysis.nearestGrid.office_count * 1.5 + analysis.nearestGrid.residential_count)}</span>
+              <span>，写字楼前 {analysis.officePct}%（{analysis.officeScore}/25），住宅前 {analysis.residentialPct}%（{analysis.residentialScore}/20）</span>
             )}
           </li>
         </ul>
