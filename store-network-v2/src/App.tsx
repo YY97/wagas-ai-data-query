@@ -11,16 +11,6 @@ function App() {
   const [error, setError] = useState<string | null>(null);
   const [selectedSite, setSelectedSite] = useState<{ lat: number; lng: number } | null>(null);
 
-  // 选址模式点击处理
-  useEffect(() => {
-    (window as any).onSiteSelectionClick = (lat: number, lng: number) => {
-      setSelectedSite({ lat, lng });
-    };
-    return () => {
-      delete (window as any).onSiteSelectionClick;
-    };
-  }, []);
-
   useEffect(() => {
     Promise.all([
       fetch(`${import.meta.env.BASE_URL}data/stores.json`).then(r => r.json()),
@@ -90,7 +80,7 @@ function App() {
         )}
       </div>
       <div className="map-container" style={{ flex: 1, position: 'relative' }}>
-        <MapView />
+        <MapView selectedSite={selectedSite} onSiteSelect={setSelectedSite} />
       </div>
     </div>
   );

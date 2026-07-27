@@ -157,22 +157,16 @@ function AutoFitBounds({ stores }: { stores: any[] }) {
   return null;
 }
 
-export default function MapView() {
+interface MapViewProps {
+  selectedSite: { lat: number; lng: number } | null;
+  onSiteSelect: (site: { lat: number; lng: number } | null) => void;
+}
+
+export default function MapView({ selectedSite, onSiteSelect }: MapViewProps) {
   const { stores, filters, layers, getAds, selectedStore, setSelectedStore, showHelp, setShowHelp, contourStores, setContourStores, competitors, competitorBrands } = useAppStore();
   const [deliveryData, setDeliveryData] = useState<Record<string, any>>({});
   const [showDelivery, setShowDelivery] = useState(false);
   const [popupVisible, setPopupVisible] = useState(true);
-  const [selectedSite, setSelectedSite] = useState<{ lat: number; lng: number } | null>(null);
-
-  // 选址模式点击处理
-  useEffect(() => {
-    (window as any).onSiteSelectionClick = (lat: number, lng: number) => {
-      setSelectedSite({ lat, lng });
-    };
-    return () => {
-      delete (window as any).onSiteSelectionClick;
-    };
-  }, []);
 
   // 配送轮廓颜色（最多 5 家）
   const CONTOUR_COLORS = ['#3b82f6', '#f97316', '#22c55e', '#a855f7', '#ec4899'];
@@ -260,6 +254,7 @@ export default function MapView() {
           const hi = s.overlap >= 3;
           return (
             <Marker key={s.sid} position={[s.lat, s.lng]}
+              bubblingMouseEvents={false}
               icon={createPinIcon(color, isSel || isContourSel, hi)}
               eventHandlers={{ click: () => handleStoreClick(s) }} />
           );
@@ -295,10 +290,7 @@ export default function MapView() {
         {layers.siteSelectionMode && (
           <>
             <MapClickHandler onClick={(lat: number, lng: number) => {
-              const handler = (window as any).onSiteSelectionClick;
-              if (handler) {
-                handler(lat, lng);
-              }
+              onSiteSelect({ lat, lng });
             }} />
             {selectedSite && (
               <Marker 
