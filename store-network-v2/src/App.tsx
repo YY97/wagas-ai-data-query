@@ -28,6 +28,19 @@ function App() {
           top_locations: topLocationsData[store.sid] || [],
         }));
 
+        // Enrich meituan mall data with store coordinates (lat/lng missing from source JSON)
+        const storeMap = new Map(stores.map(s => [s.sid, s]));
+        const meituanWithCoords = meituanMallData.map((m: any) => {
+          const store = storeMap.get(m.store_id);
+          return {
+            ...m,
+            lat: m.lat ?? store?.lat ?? 0,
+            lng: m.lng ?? store?.lng ?? 0,
+            city: m.city ?? store?.city ?? '',
+            district: m.district ?? '',
+          };
+        });
+
         const allDates = new Set<string>();
         Object.values(salesData).forEach(storeSales => {
           Object.keys(storeSales).forEach(date => allDates.add(date));
@@ -38,7 +51,7 @@ function App() {
           end: sortedDates[sortedDates.length - 1] || '',
         };
 
-        initData(storesWithLocations, salesData, channelSales, weatherData, dateRange, competitors, densityGridData, meituanMallData);
+        initData(storesWithLocations, salesData, channelSales, weatherData, dateRange, competitors, densityGridData, meituanWithCoords);
       })
       .catch(err => {
         console.error('Failed to load data:', err);
