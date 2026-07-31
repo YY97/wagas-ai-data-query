@@ -1,6 +1,6 @@
 import { useMemo } from 'react';
 import { useAppStore } from '../store';
-import type { Store, CompetitorData } from '../types';
+import type { Store, CompetitorData, MeituanMallData } from '../types';
 
 // 两点间近似距离（km）
 function distKm(lat1: number, lng1: number, lat2: number, lng2: number): number {
@@ -41,7 +41,8 @@ function computeSiteSelectionScore(
   lat: number,
   lng: number,
   stores: Store[],
-  competitors: CompetitorData
+  competitors: CompetitorData,
+  meituanMallData: MeituanMallData[]
 ) {
   // ---- 预计算：从所有门店 market 字段提取百分位分母 ----
   const residentialList: number[] = [];
@@ -138,10 +139,48 @@ function computeSiteSelectionScore(
   else if (totalCompetitors <= 25) compScore = 8;
   else compScore = 10;
 
+  // ---- 5. 美团验证（0-15 分）— delivery_orders_all_3km ----
+  let meituanScore = 0;
+  let meituanOrders: number | null = null;
+  let meituanPct = 0;
+  let hasMeituanData = false;
+  let meituanDist: number | null = null;
+
+  // 预计算美团订单百分位分母
+  const meituanOrdersList: number[] = [];
+  for (const m of meituanMallData) {
+    if (typeof m.delivery_orders_all_3km === 'number' && m.delivery_orders_all_3km > 0) {
+      meituanOrdersList.push(m.delivery_orders_all_3km);
+    }
+  }
+
+  if (meituanMallData.length > 0) {
+    // 找到离候选点最近的美团数据点
+    let nearestMeituan: MeituanMallData | null = null;
+    let minMeituanDist = Infinity;
+    for (const m of meituanMallData) {
+      if (typeof m.lat !== 'number' || typeof m.lng !== 'number') continue;
+      const d = distKm(m.lat, m.lng, lat, lng);
+      if (d < minMeituanDist) {
+        minMeituanDist = d;
+        nearestMeituan = m;
+      }
+    }
+
+    // 5km 内有美团数据才使用
+    if (nearestMeituan && minMeituanDist <= 5 && typeof nearestMeituan.delivery_orders_all_3km === 'number' && nearestMeituan.delivery_orders_all_3km > 0) {
+      hasMeituanData = true;
+      meituanDist = minMeituanDist;
+      meituanOrders = nearestMeituan.delivery_orders_all_3km;
+      meituanPct = percentile(meituanOrdersList, meituanOrders);
+      meituanScore = scoreByPercentile(meituanPct, 15);
+    }
+  }
+
   // ---- 汇总 ----
   const baseScore = potentialScore + spendingScore + cannibScore + compScore;
-  const maxScore = 85;
-  const score = Math.round(baseScore);
+  const maxScore = hasMeituanData ? 100 : 85;
+  const score = Math.round(baseScore + meituanScore);
   const percentage = score / maxScore;
 
   let recommendation = '';
@@ -159,6 +198,11 @@ function computeSiteSelectionScore(
     spendingScore,
     cannibScore,
     compScore,
+    meituanScore,
+    hasMeituanData,
+    meituanOrders,
+    meituanPct,
+    meituanDist,
     recommendation,
     nearestStore,
     nearestStoreDist: minDist === Infinity ? null : minDist,
@@ -184,11 +228,11 @@ interface SiteSelectionReportProps {
 }
 
 export default function SiteSelectionReport({ lat, lng }: SiteSelectionReportProps) {
-  const { stores, competitors } = useAppStore();
+  const { stores, competitors, meituanMallData } = useAppStore();
 
   const analysis = useMemo(() => {
-    return computeSiteSelectionScore(lat, lng, stores, competitors);
-  }, [lat, lng, stores, competitors]);
+    return computeSiteSelectionScore(lat, lng, stores, competitors, meituanMallData);
+  }, [lat, lng, stores, competitors, meituanMallData]);
 
   // 关键结论：找出最拖分和最加分的维度
   const dimensionGaps = [
@@ -196,6 +240,7 @@ export default function SiteSelectionReport({ lat, lng }: SiteSelectionReportPro
     { name: '商圈消费力', score: analysis.spendingScore, max: 30 },
     { name: '蚕食风险', score: analysis.cannibScore, max: 10 },
     { name: '竞品环境', score: analysis.compScore, max: 10 },
+    ...(analysis.hasMeituanData ? [{ name: '美团验证', score: analysis.meituanScore, max: 15 }] : []),
   ];
   const weakest = dimensionGaps.reduce((a, b) => (a.score / a.max < b.score / b.max ? a : b));
   const strongest = dimensionGaps.reduce((a, b) => (a.score / a.max > b.score / b.max ? a : b));
@@ -219,7 +264,8 @@ export default function SiteSelectionReport({ lat, lng }: SiteSelectionReportPro
           </span>
         </div>
         <div style={{ fontSize: 10, color: '#94a3b8', marginTop: 6, lineHeight: 1.5 }}>
-          💡 基于门店历史数据回归建模，4 维度加权评分（满分 85 分）。数据源：门店 1km 半径商圈数据。
+          💡 基于门店历史数据回归建模，{analysis.hasMeituanData ? '5' : '4'} 维度加权评分（满分 {analysis.maxScore} 分）。
+          {analysis.hasMeituanData ? '含美团外卖验证数据。' : '该区域暂无美团验证数据，满分 85 分。'}
         </div>
       </div>
 
@@ -313,6 +359,38 @@ export default function SiteSelectionReport({ lat, lng }: SiteSelectionReportPro
             💡 评分规则：竞品越多分越高（单调递增）。0 家=2 | 1-5 家=4 | 6-15 家=6 | 16-25 家=8 | 26+ 家=10
           </div>
         </div>
+
+        {/* 美团验证 */}
+        {analysis.hasMeituanData && (
+          <div style={{ marginBottom: 12, padding: 8, background: '#f8fafc', borderRadius: 6 }}>
+            <div style={{ display: 'flex', justifyContent: 'space-between', fontSize: 11, marginBottom: 4 }}>
+              <span style={{ fontWeight: 600 }}>美团验证</span>
+              <span style={{ fontWeight: 600 }}>{analysis.meituanScore}/15</span>
+            </div>
+            <div style={{ height: 4, background: '#e2e8f0', borderRadius: 2, overflow: 'hidden', marginBottom: 6 }}>
+              <div style={{ height: '100%', width: `${(analysis.meituanScore / 15) * 100}%`, background: '#ef4444' }} />
+            </div>
+            <div style={{ fontSize: 10, color: '#64748b', marginBottom: 4 }}>
+              📊 数据：3km 内外卖订单 {analysis.meituanOrders?.toLocaleString() ?? '—'} 单
+              （全部门店前 {analysis.meituanPct}%）
+              {analysis.meituanDist !== null && <span> · 数据点距离 {analysis.meituanDist.toFixed(1)} km</span>}
+            </div>
+            <div style={{ fontSize: 10, color: '#94a3b8', lineHeight: 1.5 }}>
+              💡 评分规则：美团 3km 外卖订单量按百分位打分，验证区域外卖需求。前 10% 满分 15 分。
+            </div>
+          </div>
+        )}
+        {!analysis.hasMeituanData && (
+          <div style={{ marginBottom: 12, padding: 8, background: '#fef3c7', borderRadius: 6 }}>
+            <div style={{ display: 'flex', justifyContent: 'space-between', fontSize: 11, marginBottom: 4 }}>
+              <span style={{ fontWeight: 600, color: '#92400e' }}>美团验证</span>
+              <span style={{ fontWeight: 600, color: '#92400e' }}>— /15</span>
+            </div>
+            <div style={{ fontSize: 10, color: '#92400e', lineHeight: 1.5 }}>
+              ⚠️ 该区域 5km 内暂无美团验证数据，此项不计入总分。满分按 85 分计算，按得分率评估。
+            </div>
+          </div>
+        )}
       </div>
 
       {/* 综合建议 */}
@@ -347,6 +425,9 @@ export default function SiteSelectionReport({ lat, lng }: SiteSelectionReportPro
             )}
             {weakest.name === '商圈消费力' && analysis.avgCostValue !== null && (
               <span>，人均消费 ¥{analysis.avgCostValue}（前 {analysis.avgCostPct}%）</span>
+            )}
+            {weakest.name === '美团验证' && analysis.meituanOrders !== null && (
+              <span>，3km 外卖订单 {analysis.meituanOrders.toLocaleString()} 单（前 {analysis.meituanPct}%）</span>
             )}
           </li>
         </ul>
@@ -432,6 +513,23 @@ export default function SiteSelectionReport({ lat, lng }: SiteSelectionReportPro
               3km 内 {analysis.totalCompetitors} 家竞品，市场高度饱和。
               主要品牌：{Object.entries(analysis.compByBrand).sort((a, b) => b[1] - a[1]).slice(0, 3).map(([b, c]) => `${b}${c}家`).join('、')}。
               除非有显著差异化，否则不建议进入。
+            </li>
+          )}
+
+          {/* 美团验证洞察 */}
+          {analysis.hasMeituanData && analysis.meituanOrders !== null && (
+            <li style={{ marginBottom: 6 }}>
+              <strong>美团验证：</strong>
+              3km 内外卖订单 {analysis.meituanOrders.toLocaleString()} 单（前 {analysis.meituanPct}%）。
+              {analysis.meituanPct >= 50
+                ? '外卖需求验证通过，区域有稳定的外卖消费基础。'
+                : '外卖需求偏低，建议结合堂食预期综合评估。'}
+            </li>
+          )}
+          {!analysis.hasMeituanData && (
+            <li style={{ marginBottom: 6 }}>
+              <strong>美团验证：</strong>
+              该区域暂无美团验证数据。建议通过美团 App 实地查看周边外卖热度，或联系美团获取商圈报告补充验证。
             </li>
           )}
         </ul>
