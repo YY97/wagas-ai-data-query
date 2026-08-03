@@ -1,0 +1,486 @@
+{
+  "name": "KK mall",
+  "city": "深圳市",
+  "address": "广东省深圳市罗湖区深南东路495号",
+  "lat": 22.545316,
+  "lng": 114.138123,
+  "overview": {
+    "score": 93.9,
+    "score_rank": "市内前30%",
+    "population_score": 80.4,
+    "area_score": 80.4,
+    "consumption_score": 79.4,
+    "industry_score": 94.1,
+    "annual_sales": "3",
+    "annual_sales_unit": "亿元",
+    "area_size_sqm": 8.35,
+    "open_date": "2010-11-26",
+    "operator": "深圳市京基百纳商业管理有限公司",
+    "brand": "京基集团",
+    "type": "购物型",
+    "floors": "B1-L4"
+  },
+  "traffic": {
+    "annual_daily": 2.37,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第77",
+    "jun_total": 101.2,
+    "jun_total_rank": "市内商场第77名",
+    "jun_daily_avg": 3.4,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第77名",
+    "weekday_avg": 3.3,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第73名",
+    "holiday_avg": 3.6,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第91名"
+  },
+  "population": {
+    "residential": {
+      "500m": 2.4,
+      "1_5km": 31.8,
+      "3km": 109.0
+    },
+    "office": {
+      "500m": 5.2,
+      "1_5km": 27.7,
+      "3km": 82.6
+    },
+    "permanent": {
+      "500m": 3.1,
+      "1_5km": 33.2,
+      "3km": 109.4
+    }
+  },
+  "business": {
+    "competitors": 10.0,
+    "food": 298.0,
+    "shopping": 237.0,
+    "leisure": 27.0,
+    "education": 40.0,
+    "hotel": 79.0,
+    "services": 231.0,
+    "fitness": 32.0,
+    "auto": 39.0,
+    "total_stores": 300.0,
+    "old_store_3yr_pct": 57.0
+  },
+  "nearby_poi": {
+    "business": 25.0,
+    "community": 478.0,
+    "office": 186.0,
+    "school": 44.0,
+    "hospital": 253.0,
+    "transport": 16.0,
+    "scenic": 283.0
+  },
+  "demographics": {
+    "male_pct": 47.6,
+    "female_pct": null,
+    "education": {
+      "小学": 12.2,
+      "初中": 21.6,
+      "高中": 12.1,
+      "大专": 9.3,
+      "本科": 40.9,
+      "硕士": 3.3,
+      "博士": 0.6
+    },
+    "has_children_pct": 61.6,
+    "no_children_pct": 38.4
+  },
+  "scraped_at": "2026-08-02T10:29:04.113Z",
+  "nearby_restaurants": [
+    {
+      "brand": "潮发潮汕牛肉店(KKmall店)",
+      "address": "深南东路5016号KKMALL京基百纳空间F4层",
+      "distance": "11m"
+    },
+    {
+      "brand": "海门鱼仔店(KKMALL店)",
+      "address": "桂园街道老围社区深南东路5016号蔡屋围京基一百大厦A座裙楼四楼401B",
+      "distance": "12m"
+    },
+    {
+      "brand": "Nespresso(深圳kk mall)",
+      "address": "深南东路5016号KKMALL京基百纳空间F1层",
+      "distance": "13m"
+    },
+    {
+      "brand": "脆鲜生中山脆鲩鱼火锅(罗湖KKMall店)",
+      "address": "京基一百大厦A座裙楼4层L410号",
+      "distance": "19m"
+    },
+    {
+      "brand": "歌志轩·名古屋拌面(深圳KKmall店)",
+      "address": "深南东路5016号KKMALL京基百纳空间三楼L326a",
+      "distance": "20m"
+    },
+    {
+      "brand": "Peet's Coffee皮爷咖啡(KKMALL京基百纳空间店)",
+      "address": "深南东路5016号京基·百纳空间F1层L128",
+      "distance": "20m"
+    },
+    {
+      "brand": "寿司処·小志(Kkmall店)",
+      "address": "深南东路5016号KKMALL京基百纳空间F3层",
+      "distance": "23m"
+    },
+    {
+      "brand": "野人先生现做冰淇淋(深圳KK MALL店)",
+      "address": "KK mall京基百纳空间b1楼b124号野人先生",
+      "distance": "23m"
+    },
+    {
+      "brand": "丘阿婆·顺德铺子(kkmall店)",
+      "address": "桂园街道老围社区深南东路5016号蔡屋基京基一百大厦A座裙楼四楼L418b.18c号",
+      "distance": "23m"
+    },
+    {
+      "brand": "麺屋猪一(京基KKmall店)",
+      "address": "东门街道KKMALL京基百纳空间4楼L418D",
+      "distance": "23m"
+    },
+    {
+      "brand": "潮发潮汕牛肉店(KKmall店)",
+      "address": "深南东路5016号KKMALL京基百纳空间F4层",
+      "distance": "11m"
+    },
+    {
+      "brand": "海门鱼仔店(KKMALL店)",
+      "address": "桂园街道老围社区深南东路5016号蔡屋围京基一百大厦A座裙楼四楼401B",
+      "distance": "12m"
+    },
+    {
+      "brand": "Nespresso(深圳kk mall)",
+      "address": "深南东路5016号KKMALL京基百纳空间F1层",
+      "distance": "13m"
+    },
+    {
+      "brand": "脆鲜生中山脆鲩鱼火锅(罗湖KKMall店)",
+      "address": "京基一百大厦A座裙楼4层L410号",
+      "distance": "19m"
+    },
+    {
+      "brand": "歌志轩·名古屋拌面(深圳KKmall店)",
+      "address": "深南东路5016号KKMALL京基百纳空间三楼L326a",
+      "distance": "20m"
+    },
+    {
+      "brand": "Peet's Coffee皮爷咖啡(KKMALL京基百纳空间店)",
+      "address": "深南东路5016号京基·百纳空间F1层L128",
+      "distance": "20m"
+    },
+    {
+      "brand": "寿司処·小志(Kkmall店)",
+      "address": "深南东路5016号KKMALL京基百纳空间F3层",
+      "distance": "23m"
+    },
+    {
+      "brand": "野人先生现做冰淇淋(深圳KK MALL店)",
+      "address": "KK mall京基百纳空间b1楼b124号野人先生",
+      "distance": "23m"
+    },
+    {
+      "brand": "丘阿婆·顺德铺子(kkmall店)",
+      "address": "桂园街道老围社区深南东路5016号蔡屋基京基一百大厦A座裙楼四楼L418b.18c号",
+      "distance": "23m"
+    },
+    {
+      "brand": "麺屋猪一(京基KKmall店)",
+      "address": "东门街道KKMALL京基百纳空间4楼L418D",
+      "distance": "23m"
+    },
+    {
+      "brand": "潮发潮汕牛肉店(KKmall店)",
+      "address": "深南东路5016号KKMALL京基百纳空间F4层",
+      "distance": "11m"
+    },
+    {
+      "brand": "海门鱼仔店(KKMALL店)",
+      "address": "桂园街道老围社区深南东路5016号蔡屋围京基一百大厦A座裙楼四楼401B",
+      "distance": "12m"
+    },
+    {
+      "brand": "Nespresso(深圳kk mall)",
+      "address": "深南东路5016号KKMALL京基百纳空间F1层",
+      "distance": "13m"
+    },
+    {
+      "brand": "脆鲜生中山脆鲩鱼火锅(罗湖KKMall店)",
+      "address": "京基一百大厦A座裙楼4层L410号",
+      "distance": "19m"
+    },
+    {
+      "brand": "歌志轩·名古屋拌面(深圳KKmall店)",
+      "address": "深南东路5016号KKMALL京基百纳空间三楼L326a",
+      "distance": "20m"
+    },
+    {
+      "brand": "Peet's Coffee皮爷咖啡(KKMALL京基百纳空间店)",
+      "address": "深南东路5016号京基·百纳空间F1层L128",
+      "distance": "20m"
+    },
+    {
+      "brand": "寿司処·小志(Kkmall店)",
+      "address": "深南东路5016号KKMALL京基百纳空间F3层",
+      "distance": "23m"
+    },
+    {
+      "brand": "野人先生现做冰淇淋(深圳KK MALL店)",
+      "address": "KK mall京基百纳空间b1楼b124号野人先生",
+      "distance": "23m"
+    },
+    {
+      "brand": "丘阿婆·顺德铺子(kkmall店)",
+      "address": "桂园街道老围社区深南东路5016号蔡屋基京基一百大厦A座裙楼四楼L418b.18c号",
+      "distance": "23m"
+    },
+    {
+      "brand": "麺屋猪一(京基KKmall店)",
+      "address": "东门街道KKMALL京基百纳空间4楼L418D",
+      "distance": "23m"
+    },
+    {
+      "brand": "潮发潮汕牛肉店(KKmall店)",
+      "address": "深南东路5016号KKMALL京基百纳空间F4层",
+      "distance": "11m"
+    },
+    {
+      "brand": "海门鱼仔店(KKMALL店)",
+      "address": "桂园街道老围社区深南东路5016号蔡屋围京基一百大厦A座裙楼四楼401B",
+      "distance": "12m"
+    },
+    {
+      "brand": "Nespresso(深圳kk mall)",
+      "address": "深南东路5016号KKMALL京基百纳空间F1层",
+      "distance": "13m"
+    },
+    {
+      "brand": "脆鲜生中山脆鲩鱼火锅(罗湖KKMall店)",
+      "address": "京基一百大厦A座裙楼4层L410号",
+      "distance": "19m"
+    },
+    {
+      "brand": "歌志轩·名古屋拌面(深圳KKmall店)",
+      "address": "深南东路5016号KKMALL京基百纳空间三楼L326a",
+      "distance": "20m"
+    },
+    {
+      "brand": "Peet's Coffee皮爷咖啡(KKMALL京基百纳空间店)",
+      "address": "深南东路5016号京基·百纳空间F1层L128",
+      "distance": "20m"
+    },
+    {
+      "brand": "寿司処·小志(Kkmall店)",
+      "address": "深南东路5016号KKMALL京基百纳空间F3层",
+      "distance": "23m"
+    },
+    {
+      "brand": "野人先生现做冰淇淋(深圳KK MALL店)",
+      "address": "KK mall京基百纳空间b1楼b124号野人先生",
+      "distance": "23m"
+    },
+    {
+      "brand": "丘阿婆·顺德铺子(kkmall店)",
+      "address": "桂园街道老围社区深南东路5016号蔡屋基京基一百大厦A座裙楼四楼L418b.18c号",
+      "distance": "23m"
+    },
+    {
+      "brand": "麺屋猪一(京基KKmall店)",
+      "address": "东门街道KKMALL京基百纳空间4楼L418D",
+      "distance": "23m"
+    },
+    {
+      "brand": "潮发潮汕牛肉店(KKmall店)",
+      "address": "深南东路5016号KKMALL京基百纳空间F4层",
+      "distance": "11m"
+    },
+    {
+      "brand": "海门鱼仔店(KKMALL店)",
+      "address": "桂园街道老围社区深南东路5016号蔡屋围京基一百大厦A座裙楼四楼401B",
+      "distance": "12m"
+    },
+    {
+      "brand": "Nespresso(深圳kk mall)",
+      "address": "深南东路5016号KKMALL京基百纳空间F1层",
+      "distance": "13m"
+    },
+    {
+      "brand": "脆鲜生中山脆鲩鱼火锅(罗湖KKMall店)",
+      "address": "京基一百大厦A座裙楼4层L410号",
+      "distance": "19m"
+    },
+    {
+      "brand": "歌志轩·名古屋拌面(深圳KKmall店)",
+      "address": "深南东路5016号KKMALL京基百纳空间三楼L326a",
+      "distance": "20m"
+    },
+    {
+      "brand": "Peet's Coffee皮爷咖啡(KKMALL京基百纳空间店)",
+      "address": "深南东路5016号京基·百纳空间F1层L128",
+      "distance": "20m"
+    },
+    {
+      "brand": "寿司処·小志(Kkmall店)",
+      "address": "深南东路5016号KKMALL京基百纳空间F3层",
+      "distance": "23m"
+    },
+    {
+      "brand": "野人先生现做冰淇淋(深圳KK MALL店)",
+      "address": "KK mall京基百纳空间b1楼b124号野人先生",
+      "distance": "23m"
+    },
+    {
+      "brand": "丘阿婆·顺德铺子(kkmall店)",
+      "address": "桂园街道老围社区深南东路5016号蔡屋基京基一百大厦A座裙楼四楼L418b.18c号",
+      "distance": "23m"
+    },
+    {
+      "brand": "麺屋猪一(京基KKmall店)",
+      "address": "东门街道KKMALL京基百纳空间4楼L418D",
+      "distance": "23m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "深圳地王购物中心",
+      "open_date": "2018-10-01",
+      "area": "2.2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "深圳万象城",
+      "open_date": "2004-12-09",
+      "area": "18.8万㎡",
+      "jun_daily_avg": "9.2万人次",
+      "weekday_avg": "8.4万人次",
+      "holiday_avg": "11.4万人次"
+    },
+    {
+      "name": "深圳茂业奥特莱斯",
+      "open_date": "1999-10-01",
+      "area": "2.3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "深圳1234Space",
+      "open_date": "2013-10-31",
+      "area": "2万㎡",
+      "jun_daily_avg": "3.4万人次",
+      "weekday_avg": "2.8万人次",
+      "holiday_avg": "5万人次"
+    },
+    {
+      "name": "深圳新城市广场CITY MALL",
+      "open_date": "2002-09-01",
+      "area": "8.4万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "深圳市兆鑫汇金广场",
+      "open_date": "2025-01-18",
+      "area": "2.8万㎡",
+      "jun_daily_avg": "1.2万人次",
+      "weekday_avg": "1.2万人次",
+      "holiday_avg": "1.2万人次"
+    },
+    {
+      "name": "深圳金世界商城",
+      "open_date": "2011-06-11",
+      "area": "1.7万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "深圳西华宫购物中心",
+      "open_date": "1990-01-01",
+      "area": "-",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "深圳太阳广场",
+      "open_date": "1999-11-01",
+      "area": "7万㎡",
+      "jun_daily_avg": "4.8万人次",
+      "weekday_avg": "4万人次",
+      "holiday_avg": "7.1万人次"
+    },
+    {
+      "name": "深圳DDM mall商业广场",
+      "open_date": "2017-04-22",
+      "area": "8万㎡",
+      "jun_daily_avg": "1.3万人次",
+      "weekday_avg": "1.1万人次",
+      "holiday_avg": "1.7万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 85.0,
+      "within_1yr_pct": 14.1,
+      "1_3yr_pct": 27.1,
+      "over_3yr_pct": 58.8
+    },
+    {
+      "type": "购物",
+      "count": 97.0,
+      "within_1yr_pct": 10.3,
+      "1_3yr_pct": 24.7,
+      "over_3yr_pct": 64.9
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 9.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 11.1,
+      "over_3yr_pct": 55.6
+    },
+    {
+      "type": "教育培训",
+      "count": 3.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 33.3
+    },
+    {
+      "type": "酒店住宿",
+      "count": 17.0,
+      "within_1yr_pct": 29.4,
+      "1_3yr_pct": 11.8,
+      "over_3yr_pct": 58.8
+    },
+    {
+      "type": "生活服务",
+      "count": 60.0,
+      "within_1yr_pct": 26.7,
+      "1_3yr_pct": 20.0,
+      "over_3yr_pct": 53.3
+    },
+    {
+      "type": "运动健身",
+      "count": 14.0,
+      "within_1yr_pct": 28.6,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 21.4
+    },
+    {
+      "type": "车辆服务",
+      "count": 15.0,
+      "within_1yr_pct": 26.7,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 40.0
+    }
+  ]
+}

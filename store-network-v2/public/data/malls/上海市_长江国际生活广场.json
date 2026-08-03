@@ -1,0 +1,479 @@
+{
+  "name": "长江国际生活广场",
+  "city": "上海市",
+  "address": "北京市顺义区新顺南大街18号",
+  "lat": null,
+  "lng": null,
+  "overview": {
+    "score": 89.1,
+    "score_rank": "市内前30%",
+    "population_score": 77.4,
+    "area_score": 99.2,
+    "consumption_score": 69.8,
+    "industry_score": 89.1,
+    "annual_sales": "北京新世界百货顺义店为广大消费者提供一个充满“生机、欢愉、放松、休闲”的全新的购物环境。基于该地区对流行、时尚的认知度均趋于国际化、多元化，经济发展迅速，居民对商业的需求不断加大，极具商业市场发展潜力。店内集合了百货、超市、二十余间餐饮、影院、国际流行生活用品连锁店、大型电玩城、儿童艺术学校、游乐园、美发美甲、烘焙咖啡店、银行等功能服务设施。",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 5.6,
+    "open_date": "2010-09-22",
+    "operator": "新世界发展有限公司",
+    "brand": "新世界",
+    "type": "购物型",
+    "floors": "B2-L6"
+  },
+  "traffic": {
+    "annual_daily": 1.79,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第136",
+    "jun_total": 50.0,
+    "jun_total_rank": "市内商场第186名",
+    "jun_daily_avg": 1.7,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第186名",
+    "weekday_avg": 1.4,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第200名",
+    "holiday_avg": 2.3,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第157名"
+  },
+  "population": {
+    "residential": {
+      "500m": 1.2,
+      "1_5km": 12.5,
+      "3km": 31.5
+    },
+    "office": {
+      "500m": 1.9,
+      "1_5km": 6.8,
+      "3km": 14.7
+    },
+    "permanent": {
+      "500m": 2.3,
+      "1_5km": 13.6,
+      "3km": 31.7
+    }
+  },
+  "business": {
+    "competitors": 7.0,
+    "food": 399.0,
+    "shopping": 431.0,
+    "leisure": 47.0,
+    "education": 38.0,
+    "hotel": 17.0,
+    "services": 205.0,
+    "fitness": 28.0,
+    "auto": 22.0,
+    "total_stores": 121.0,
+    "old_store_3yr_pct": 58.0
+  },
+  "nearby_poi": {
+    "business": 10.0,
+    "community": 122.0,
+    "office": 13.0,
+    "school": 30.0,
+    "hospital": 44.0,
+    "transport": 15.0,
+    "scenic": 55.0
+  },
+  "demographics": {
+    "male_pct": 46.6,
+    "female_pct": null,
+    "education": {
+      "小学": 8.7,
+      "初中": 15.6,
+      "高中": 10.3,
+      "大专": 7.8,
+      "本科": 51.2,
+      "硕士": 5.4,
+      "博士": 1.0
+    },
+    "has_children_pct": 70.9,
+    "no_children_pct": 29.1
+  },
+  "scraped_at": "2026-08-01T06:59:51.281Z",
+  "nearby_restaurants": [
+    {
+      "brand": "瑞幸咖啡(新世界百货千姿店)",
+      "address": "北京城区新顺南大街18号新世界百货千姿三层",
+      "distance": "7m"
+    },
+    {
+      "brand": "库迪咖啡(顺义新世界店)",
+      "address": "新顺南大街18号新世界百货4F层(食界小街旁)",
+      "distance": "13m"
+    },
+    {
+      "brand": "乐倾城自助海鲜烤肉(顺义新世界百货店)",
+      "address": "北京城区新顺南大街18号新世界百货(顺义店)6层",
+      "distance": "24m"
+    },
+    {
+      "brand": "渝是乎酸菜鱼·川渝小炒(顺义新世界百货店)",
+      "address": "新顺南大街18号8栋新世界4层夹层",
+      "distance": "26m"
+    },
+    {
+      "brand": "茶大椰(顺义新世界百货店)",
+      "address": "新顺南大街18号新世界商场4层",
+      "distance": "34m"
+    },
+    {
+      "brand": "北京稻香村(顺义新世界百货店)",
+      "address": "胜利街道新顺南大街18号新世界百货B1层",
+      "distance": "47m"
+    },
+    {
+      "brand": "新辣道鱼火锅(顺义新世界百货店)",
+      "address": "北京城区新顺南大街18号新世界百货顺义店4层",
+      "distance": "48m"
+    },
+    {
+      "brand": "肯德基(顺义新世界百货店)",
+      "address": "新顺南大街18号新世界百货顺义店南侧1层",
+      "distance": "48m"
+    },
+    {
+      "brand": "赵钱记卤水烤鸭(顺义新世界百货店)",
+      "address": "新顺南大街18号院8幢一层L01F0346(新世界千姿百货)北门",
+      "distance": "51m"
+    },
+    {
+      "brand": "DQ冰淇淋(顺义站前街店)",
+      "address": "新顺南大街18号1层",
+      "distance": "51m"
+    },
+    {
+      "brand": "瑞幸咖啡(新世界百货千姿店)",
+      "address": "北京城区新顺南大街18号新世界百货千姿三层",
+      "distance": "7m"
+    },
+    {
+      "brand": "库迪咖啡(顺义新世界店)",
+      "address": "新顺南大街18号新世界百货4F层(食界小街旁)",
+      "distance": "13m"
+    },
+    {
+      "brand": "乐倾城自助海鲜烤肉(顺义新世界百货店)",
+      "address": "北京城区新顺南大街18号新世界百货(顺义店)6层",
+      "distance": "24m"
+    },
+    {
+      "brand": "渝是乎酸菜鱼·川渝小炒(顺义新世界百货店)",
+      "address": "新顺南大街18号8栋新世界4层夹层",
+      "distance": "26m"
+    },
+    {
+      "brand": "茶大椰(顺义新世界百货店)",
+      "address": "新顺南大街18号新世界商场4层",
+      "distance": "34m"
+    },
+    {
+      "brand": "北京稻香村(顺义新世界百货店)",
+      "address": "胜利街道新顺南大街18号新世界百货B1层",
+      "distance": "47m"
+    },
+    {
+      "brand": "新辣道鱼火锅(顺义新世界百货店)",
+      "address": "北京城区新顺南大街18号新世界百货顺义店4层",
+      "distance": "48m"
+    },
+    {
+      "brand": "肯德基(顺义新世界百货店)",
+      "address": "新顺南大街18号新世界百货顺义店南侧1层",
+      "distance": "48m"
+    },
+    {
+      "brand": "赵钱记卤水烤鸭(顺义新世界百货店)",
+      "address": "新顺南大街18号院8幢一层L01F0346(新世界千姿百货)北门",
+      "distance": "51m"
+    },
+    {
+      "brand": "DQ冰淇淋(顺义站前街店)",
+      "address": "新顺南大街18号1层",
+      "distance": "51m"
+    },
+    {
+      "brand": "瑞幸咖啡(新世界百货千姿店)",
+      "address": "北京城区新顺南大街18号新世界百货千姿三层",
+      "distance": "7m"
+    },
+    {
+      "brand": "库迪咖啡(顺义新世界店)",
+      "address": "新顺南大街18号新世界百货4F层(食界小街旁)",
+      "distance": "13m"
+    },
+    {
+      "brand": "乐倾城自助海鲜烤肉(顺义新世界百货店)",
+      "address": "北京城区新顺南大街18号新世界百货(顺义店)6层",
+      "distance": "24m"
+    },
+    {
+      "brand": "渝是乎酸菜鱼·川渝小炒(顺义新世界百货店)",
+      "address": "新顺南大街18号8栋新世界4层夹层",
+      "distance": "26m"
+    },
+    {
+      "brand": "茶大椰(顺义新世界百货店)",
+      "address": "新顺南大街18号新世界商场4层",
+      "distance": "34m"
+    },
+    {
+      "brand": "北京稻香村(顺义新世界百货店)",
+      "address": "胜利街道新顺南大街18号新世界百货B1层",
+      "distance": "47m"
+    },
+    {
+      "brand": "新辣道鱼火锅(顺义新世界百货店)",
+      "address": "北京城区新顺南大街18号新世界百货顺义店4层",
+      "distance": "48m"
+    },
+    {
+      "brand": "肯德基(顺义新世界百货店)",
+      "address": "新顺南大街18号新世界百货顺义店南侧1层",
+      "distance": "48m"
+    },
+    {
+      "brand": "赵钱记卤水烤鸭(顺义新世界百货店)",
+      "address": "新顺南大街18号院8幢一层L01F0346(新世界千姿百货)北门",
+      "distance": "51m"
+    },
+    {
+      "brand": "DQ冰淇淋(顺义站前街店)",
+      "address": "新顺南大街18号1层",
+      "distance": "51m"
+    },
+    {
+      "brand": "瑞幸咖啡(新世界百货千姿店)",
+      "address": "北京城区新顺南大街18号新世界百货千姿三层",
+      "distance": "7m"
+    },
+    {
+      "brand": "库迪咖啡(顺义新世界店)",
+      "address": "新顺南大街18号新世界百货4F层(食界小街旁)",
+      "distance": "13m"
+    },
+    {
+      "brand": "乐倾城自助海鲜烤肉(顺义新世界百货店)",
+      "address": "北京城区新顺南大街18号新世界百货(顺义店)6层",
+      "distance": "24m"
+    },
+    {
+      "brand": "渝是乎酸菜鱼·川渝小炒(顺义新世界百货店)",
+      "address": "新顺南大街18号8栋新世界4层夹层",
+      "distance": "26m"
+    },
+    {
+      "brand": "茶大椰(顺义新世界百货店)",
+      "address": "新顺南大街18号新世界商场4层",
+      "distance": "34m"
+    },
+    {
+      "brand": "北京稻香村(顺义新世界百货店)",
+      "address": "胜利街道新顺南大街18号新世界百货B1层",
+      "distance": "47m"
+    },
+    {
+      "brand": "新辣道鱼火锅(顺义新世界百货店)",
+      "address": "北京城区新顺南大街18号新世界百货顺义店4层",
+      "distance": "48m"
+    },
+    {
+      "brand": "肯德基(顺义新世界百货店)",
+      "address": "新顺南大街18号新世界百货顺义店南侧1层",
+      "distance": "48m"
+    },
+    {
+      "brand": "赵钱记卤水烤鸭(顺义新世界百货店)",
+      "address": "新顺南大街18号院8幢一层L01F0346(新世界千姿百货)北门",
+      "distance": "51m"
+    },
+    {
+      "brand": "DQ冰淇淋(顺义站前街店)",
+      "address": "新顺南大街18号1层",
+      "distance": "51m"
+    },
+    {
+      "brand": "瑞幸咖啡(新世界百货千姿店)",
+      "address": "北京城区新顺南大街18号新世界百货千姿三层",
+      "distance": "7m"
+    },
+    {
+      "brand": "库迪咖啡(顺义新世界店)",
+      "address": "新顺南大街18号新世界百货4F层(食界小街旁)",
+      "distance": "13m"
+    },
+    {
+      "brand": "乐倾城自助海鲜烤肉(顺义新世界百货店)",
+      "address": "北京城区新顺南大街18号新世界百货(顺义店)6层",
+      "distance": "24m"
+    },
+    {
+      "brand": "渝是乎酸菜鱼·川渝小炒(顺义新世界百货店)",
+      "address": "新顺南大街18号8栋新世界4层夹层",
+      "distance": "26m"
+    },
+    {
+      "brand": "茶大椰(顺义新世界百货店)",
+      "address": "新顺南大街18号新世界商场4层",
+      "distance": "34m"
+    },
+    {
+      "brand": "北京稻香村(顺义新世界百货店)",
+      "address": "胜利街道新顺南大街18号新世界百货B1层",
+      "distance": "47m"
+    },
+    {
+      "brand": "新辣道鱼火锅(顺义新世界百货店)",
+      "address": "北京城区新顺南大街18号新世界百货顺义店4层",
+      "distance": "48m"
+    },
+    {
+      "brand": "肯德基(顺义新世界百货店)",
+      "address": "新顺南大街18号新世界百货顺义店南侧1层",
+      "distance": "48m"
+    },
+    {
+      "brand": "赵钱记卤水烤鸭(顺义新世界百货店)",
+      "address": "新顺南大街18号院8幢一层L01F0346(新世界千姿百货)北门",
+      "distance": "51m"
+    },
+    {
+      "brand": "DQ冰淇淋(顺义站前街店)",
+      "address": "新顺南大街18号1层",
+      "distance": "51m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "北京顺义隆华购物中心",
+      "open_date": "1997-11-26",
+      "area": "6万㎡",
+      "jun_daily_avg": "1.7万人次",
+      "weekday_avg": "1.4万人次",
+      "holiday_avg": "2.5万人次"
+    },
+    {
+      "name": "BHG Mall北京华联顺义金街购物中心",
+      "open_date": "2014-01-01",
+      "area": "8万㎡",
+      "jun_daily_avg": "6.3万人次",
+      "weekday_avg": "5.2万人次",
+      "holiday_avg": "9.5万人次"
+    },
+    {
+      "name": "北京顺商集团国泰百货",
+      "open_date": "1993-11-28",
+      "area": "3.3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "北京顺义国泰商业大厦",
+      "open_date": "1993-11-28",
+      "area": "3.3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "北京顺义锦荟港亲子娱乐购物中心",
+      "open_date": "2021-11-01",
+      "area": "6.8万㎡",
+      "jun_daily_avg": "1.5万人次",
+      "weekday_avg": "1.3万人次",
+      "holiday_avg": "2万人次"
+    },
+    {
+      "name": "北京鑫海韵通百货",
+      "open_date": "2006-07-08",
+      "area": "1.8万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "北京隆华奥特莱斯购物广场",
+      "open_date": "2012-10-01",
+      "area": "1.5万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "北京聚乐汇",
+      "open_date": "2014-06-01",
+      "area": "1.1万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "北京京汉生活广场",
+      "open_date": "2011-09-25",
+      "area": "6万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "北京卧龙悦购时代购物中心(前进花园玉兰苑店)",
+      "open_date": "2024-01-01",
+      "area": "2.3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 27.0,
+      "within_1yr_pct": 7.4,
+      "1_3yr_pct": 29.6,
+      "over_3yr_pct": 63.0
+    },
+    {
+      "type": "购物",
+      "count": 79.0,
+      "within_1yr_pct": 10.1,
+      "1_3yr_pct": 31.6,
+      "over_3yr_pct": 58.2
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 4.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 1.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "生活服务",
+      "count": 7.0,
+      "within_1yr_pct": 28.6,
+      "1_3yr_pct": 14.3,
+      "over_3yr_pct": 57.1
+    },
+    {
+      "type": "运动健身",
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
+    }
+  ]
+}

@@ -1,0 +1,251 @@
+{
+  "name": "铭泽生活广场",
+  "city": "北京市",
+  "address": "上海市浦东新区潍坊新村街道东方路294号九六广场",
+  "lat": 39.839826,
+  "lng": 116.308634,
+  "overview": {
+    "score": 91.6,
+    "score_rank": "市内前30%",
+    "population_score": 92.8,
+    "area_score": 94.9,
+    "consumption_score": 78.6,
+    "industry_score": 91.6,
+    "annual_sales": "海96广场位于上海市浦东新区东方路796号，是一个集购物、餐饮、娱乐为一体的中端商业楼层B2-L3的街区型开放式购物中心。项目立足为周边办公楼的业主、入驻企业和周边社区居民提供配套服务，打造以休闲广场为核心，结合特色餐饮、时尚体验、休闲娱乐、综合购物等服务功能的社区休闲商业中心",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 6.5,
+    "open_date": "2008-11-28",
+    "operator": "上海陆家嘴（集团）有限公司",
+    "brand": "陆家嘴商业",
+    "type": "美食型",
+    "floors": "B2-L3"
+  },
+  "traffic": {
+    "annual_daily": 1.04,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第245",
+    "jun_total": 31.6,
+    "jun_total_rank": "市内商场第294名",
+    "jun_daily_avg": 1.1,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第294名",
+    "weekday_avg": 1.0,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第301名",
+    "holiday_avg": 1.2,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第292名"
+  },
+  "population": {
+    "residential": {
+      "500m": 2.7,
+      "1_5km": 27.9,
+      "3km": 67.6
+    },
+    "office": {
+      "500m": 4.9,
+      "1_5km": 29.1,
+      "3km": 79.3
+    },
+    "permanent": {
+      "500m": 4.0,
+      "1_5km": 30.2,
+      "3km": 77.0
+    }
+  },
+  "business": {
+    "competitors": 15.0,
+    "food": 471.0,
+    "shopping": 275.0,
+    "leisure": 56.0,
+    "education": 55.0,
+    "hotel": 39.0,
+    "services": 224.0,
+    "fitness": 45.0,
+    "auto": 37.0,
+    "total_stores": 85.0,
+    "old_store_3yr_pct": 62.0
+  },
+  "nearby_poi": {
+    "business": 12.0,
+    "community": 419.0,
+    "office": 167.0,
+    "school": 57.0,
+    "hospital": 130.0,
+    "transport": 16.0,
+    "scenic": 368.0
+  },
+  "demographics": {
+    "male_pct": 48.0,
+    "female_pct": null,
+    "education": {
+      "小学": 9.0,
+      "初中": 16.4,
+      "高中": 10.6,
+      "大专": 6.9,
+      "本科": 48.6,
+      "硕士": 6.6,
+      "博士": 1.9
+    },
+    "has_children_pct": 58.5,
+    "no_children_pct": 41.5
+  },
+  "scraped_at": "2026-08-01T07:39:26.200Z",
+  "nearby_restaurants": [
+    {
+      "brand": "MANNER Coffee",
+      "address": "川沙九六广场店",
+      "distance": "2020.01.01"
+    },
+    {
+      "brand": "星巴克",
+      "address": "上海川沙九六广场店",
+      "distance": "2020.06.01"
+    },
+    {
+      "brand": "奈雪的茶",
+      "address": "上海浦东川沙九六广场店",
+      "distance": "2020.06.01"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海世纪汇广场",
+      "open_date": "2018-12-08",
+      "area": "14万㎡",
+      "jun_daily_avg": "9万人次",
+      "weekday_avg": "8.5万人次",
+      "holiday_avg": "10.3万人次"
+    },
+    {
+      "name": "上海MORE MEE 时尚生活中心",
+      "open_date": "2018-12-15",
+      "area": "3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海浦东新大陆广场",
+      "open_date": "1997-06-03",
+      "area": "4万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海华润时代广场",
+      "open_date": "2019-12-01",
+      "area": "5.1万㎡",
+      "jun_daily_avg": "2.3万人次",
+      "weekday_avg": "2.2万人次",
+      "holiday_avg": "2.7万人次"
+    },
+    {
+      "name": "上海第一八佰伴",
+      "open_date": "1995-12-20",
+      "area": "10.8万㎡",
+      "jun_daily_avg": "3.2万人次",
+      "weekday_avg": "2.9万人次",
+      "holiday_avg": "3.8万人次"
+    },
+    {
+      "name": "上海陆家嘴1885广场",
+      "open_date": "2009-01-01",
+      "area": "-",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海新梅联合广场",
+      "open_date": "2005-01-01",
+      "area": "6万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海1088广场",
+      "open_date": "2014-12-12",
+      "area": "3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海陆家嘴中心L+Mall",
+      "open_date": "2018-12-23",
+      "area": "14万㎡",
+      "jun_daily_avg": "7.2万人次",
+      "weekday_avg": "7.4万人次",
+      "holiday_avg": "6.6万人次"
+    },
+    {
+      "name": "上海湾生活时尚中心",
+      "open_date": "2013-03-18",
+      "area": "3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 40.0,
+      "within_1yr_pct": 7.5,
+      "1_3yr_pct": 22.5,
+      "over_3yr_pct": 70.0
+    },
+    {
+      "type": "购物",
+      "count": 19.0,
+      "within_1yr_pct": 10.5,
+      "1_3yr_pct": 26.3,
+      "over_3yr_pct": 63.2
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 4.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 75.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "教育培训",
+      "count": 6.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 66.7
+    },
+    {
+      "type": "酒店住宿",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "生活服务",
+      "count": 10.0,
+      "within_1yr_pct": 30.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 70.0
+    },
+    {
+      "type": "运动健身",
+      "count": 4.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
+    }
+  ]
+}

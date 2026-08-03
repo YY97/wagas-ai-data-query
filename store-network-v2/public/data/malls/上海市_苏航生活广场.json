@@ -1,0 +1,133 @@
+{
+  "name": "苏航生活广场",
+  "city": "上海市",
+  "address": "北京市朝阳区南磨房乡双龙超市(紫南店)华瀚商业中心",
+  "lat": null,
+  "lng": null,
+  "overview": {
+    "score": 70.9,
+    "score_rank": "市内前70%",
+    "population_score": 87.9,
+    "area_score": 66.6,
+    "consumption_score": 74.1,
+    "industry_score": 70.8,
+    "annual_sales": "华瀚商业中心是一个位于北京市朝阳区的商业综合体项目，项目开业时间为2006年，位于东四环大柳树路南楼梓庄地铁站西200米，周边常驻人口达20余万人，商业氛围浓厚，交通便利",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 1.3,
+    "open_date": "2006-01-01",
+    "operator": "华瀚投资集团有限公司",
+    "brand": "",
+    "type": "综合型",
+    "floors": "B1-L4"
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "-",
+    "annual_daily_rank": "",
+    "jun_total": 3.1,
+    "jun_total_rank": "市内商场第360名",
+    "jun_daily_avg": 1015.0,
+    "jun_daily_unit": "人次",
+    "jun_daily_rank": "市内商场第360名",
+    "weekday_avg": 1030.0,
+    "weekday_unit": "人次",
+    "weekday_rank": "市内商场第360名",
+    "holiday_avg": 976.0,
+    "holiday_unit": "人次",
+    "holiday_rank": "市内商场第366名"
+  },
+  "population": {
+    "residential": {
+      "500m": 2.0,
+      "1_5km": 9.8,
+      "3km": 58.0
+    },
+    "office": {
+      "500m": 5800.0,
+      "1_5km": 5.1,
+      "3km": 29.2
+    },
+    "permanent": {
+      "500m": 1.9,
+      "1_5km": 9.8,
+      "3km": 56.1
+    }
+  },
+  "business": {
+    "competitors": null,
+    "food": 26.0,
+    "shopping": 34.0,
+    "leisure": 2.0,
+    "education": 5.0,
+    "hotel": 2.0,
+    "services": 60.0,
+    "fitness": 5.0,
+    "auto": 6.0,
+    "total_stores": 23.0,
+    "old_store_3yr_pct": 65.0
+  },
+  "nearby_poi": {
+    "business": 2.0,
+    "community": 234.0,
+    "office": 14.0,
+    "school": 23.0,
+    "hospital": 70.0,
+    "transport": 9.0,
+    "scenic": 71.0
+  },
+  "demographics": {
+    "male_pct": 52.8,
+    "female_pct": null,
+    "education": {
+      "小学": 9.0,
+      "初中": 15.4,
+      "高中": 11.0,
+      "大专": 6.6,
+      "本科": 49.2,
+      "硕士": 7.1,
+      "博士": 1.7
+    },
+    "has_children_pct": 57.9,
+    "no_children_pct": 42.1
+  },
+  "scraped_at": "2026-08-01T15:32:04.443Z",
+  "nearby_restaurants": [],
+  "nearby_malls": [],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 8.0,
+      "within_1yr_pct": 12.5,
+      "1_3yr_pct": 12.5,
+      "over_3yr_pct": 75.0
+    },
+    {
+      "type": "购物",
+      "count": 4.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 75.0
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 2.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "生活服务",
+      "count": 8.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "运动健身",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "name": "金谷里G·MALL",
+  "city": "上海市",
+  "address": "上海市徐汇区桂平路188号",
+  "lat": 31.151552,
+  "lng": 121.411915,
+  "overview": {
+    "score": 83.9,
+    "score_rank": "市内前30%",
+    "population_score": 88.9,
+    "area_score": 64.8,
+    "consumption_score": 81.8,
+    "industry_score": 84.0,
+    "annual_sales": "上海金地·喜悦荟Oopcity作为上海徐汇区的城市更新社区商业项目，其设计灵感来源于西班牙童话故事“云朵工厂”，呈现具有互动参与感和趣味创意性的商业空间。同时围绕“悦生活，在一起”的主题，旨在塑造集品质、体验和视觉享受于一体的、具有“惊喜感”的全新社区商业形态，汇聚众多优质及知名品牌，为消费者创造“有趣、新鲜、活力”的全新生活方式，焕新城市“一公里生活圈”",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 2.0,
+    "open_date": "2020-12-01",
+    "operator": "金地商置集团有限公司",
+    "brand": "",
+    "type": "综合型",
+    "floors": "B1-L3"
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "-",
+    "annual_daily_rank": "",
+    "jun_total": 25.6,
+    "jun_total_rank": "市内商场第341名",
+    "jun_daily_avg": 8538.0,
+    "jun_daily_unit": "人次",
+    "jun_daily_rank": "市内商场第341名",
+    "weekday_avg": 8230.0,
+    "weekday_unit": "人次",
+    "weekday_rank": "市内商场第337名",
+    "holiday_avg": 9385.0,
+    "holiday_unit": "人次",
+    "holiday_rank": "市内商场第338名"
+  },
+  "population": {
+    "residential": {
+      "500m": 2.3,
+      "1_5km": 23.6,
+      "3km": 79.0
+    },
+    "office": {
+      "500m": 9200.0,
+      "1_5km": 9.0,
+      "3km": 59.8
+    },
+    "permanent": {
+      "500m": 2.3,
+      "1_5km": 21.6,
+      "3km": 82.7
+    }
+  },
+  "business": {
+    "competitors": 3.0,
+    "food": 45.0,
+    "shopping": 37.0,
+    "leisure": 3.0,
+    "education": 11.0,
+    "hotel": 1.0,
+    "services": 36.0,
+    "fitness": 5.0,
+    "auto": 4.0,
+    "total_stores": 46.0,
+    "old_store_3yr_pct": 35.0
+  },
+  "nearby_poi": {
+    "business": null,
+    "community": 414.0,
+    "office": 28.0,
+    "school": 54.0,
+    "hospital": 67.0,
+    "transport": 14.0,
+    "scenic": 126.0
+  },
+  "demographics": {
+    "male_pct": 47.4,
+    "female_pct": null,
+    "education": {
+      "小学": 8.8,
+      "初中": 16.2,
+      "高中": 11.4,
+      "大专": 6.7,
+      "本科": 48.6,
+      "硕士": 6.4,
+      "博士": 1.9
+    },
+    "has_children_pct": 60.0,
+    "no_children_pct": 40.0
+  },
+  "scraped_at": "2026-08-01T07:50:48.255Z",
+  "nearby_restaurants": [
+    {
+      "brand": "鹅老八(江安路店)",
+      "address": "江安路225-2号",
+      "distance": "460m"
+    },
+    {
+      "brand": "江安路馄炖水饺面馆",
+      "address": "江安路200号馄炖水饺面馆",
+      "distance": "460m"
+    },
+    {
+      "brand": "康乐社区食堂",
+      "address": "虹漕南路与江安路交叉口北100米",
+      "distance": "460m"
+    },
+    {
+      "brand": "阿跷锅贴(江安路店)",
+      "address": "江安路223号",
+      "distance": "461m"
+    },
+    {
+      "brand": "老上海馄饨铺(西樱花园店)",
+      "address": "江安路200号-1",
+      "distance": "473m"
+    }
+  ],
+  "nearby_malls": [],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 18.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 44.4,
+      "over_3yr_pct": 22.2
+    },
+    {
+      "type": "购物",
+      "count": 7.0,
+      "within_1yr_pct": 28.6,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 71.4
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 1.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "教育培训",
+      "count": 6.0,
+      "within_1yr_pct": 16.7,
+      "1_3yr_pct": 16.7,
+      "over_3yr_pct": 66.7
+    },
+    {
+      "type": "生活服务",
+      "count": 11.0,
+      "within_1yr_pct": 36.4,
+      "1_3yr_pct": 45.5,
+      "over_3yr_pct": 18.2
+    },
+    {
+      "type": "运动健身",
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 1.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
+    }
+  ]
+}

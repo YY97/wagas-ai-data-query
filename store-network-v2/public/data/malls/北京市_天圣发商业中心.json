@@ -1,0 +1,446 @@
+{
+  "name": "天圣发商业中心",
+  "city": "北京市",
+  "address": "北京市昌平区朝阳区立汤路202号",
+  "lat": 40.054325,
+  "lng": 116.412049,
+  "overview": {
+    "score": 89.9,
+    "score_rank": "市内前30%",
+    "population_score": 90.1,
+    "area_score": 94.8,
+    "consumption_score": 74.3,
+    "industry_score": 89.9,
+    "annual_sales": "4",
+    "annual_sales_unit": "亿元",
+    "area_size_sqm": 6.6,
+    "open_date": "2021-05-01",
+    "operator": "万科企业股份有限公司",
+    "brand": "广州市万科物业服务有限公司",
+    "type": "购物型",
+    "floors": "B1-L5"
+  },
+  "traffic": {
+    "annual_daily": 1.48,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第160",
+    "jun_total": 52.3,
+    "jun_total_rank": "市内商场第181名",
+    "jun_daily_avg": 1.7,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第181名",
+    "weekday_avg": 1.6,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第184名",
+    "holiday_avg": 2.2,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第162名"
+  },
+  "population": {
+    "residential": {
+      "500m": 2.2,
+      "1_5km": 15.1,
+      "3km": 53.9
+    },
+    "office": {
+      "500m": 1.4,
+      "1_5km": 5.7,
+      "3km": 21.4
+    },
+    "permanent": {
+      "500m": 2.3,
+      "1_5km": 14.0,
+      "3km": 51.4
+    }
+  },
+  "business": {
+    "competitors": 5.0,
+    "food": 342.0,
+    "shopping": 327.0,
+    "leisure": 29.0,
+    "education": 34.0,
+    "hotel": 31.0,
+    "services": 170.0,
+    "fitness": 26.0,
+    "auto": 27.0,
+    "total_stores": 150.0,
+    "old_store_3yr_pct": 52.0
+  },
+  "nearby_poi": {
+    "business": 5.0,
+    "community": 154.0,
+    "office": 11.0,
+    "school": 26.0,
+    "hospital": 38.0,
+    "transport": 8.0,
+    "scenic": 81.0
+  },
+  "demographics": {
+    "male_pct": 49.8,
+    "female_pct": null,
+    "education": {
+      "小学": 7.2,
+      "初中": 12.5,
+      "高中": 9.5,
+      "大专": 7.9,
+      "本科": 53.0,
+      "硕士": 8.1,
+      "博士": 1.8
+    },
+    "has_children_pct": 57.9,
+    "no_children_pct": 42.1
+  },
+  "scraped_at": "2026-08-01T11:25:21.519Z",
+  "nearby_restaurants": [
+    {
+      "brand": "老弄堂生煎",
+      "address": "北方明珠大厦",
+      "distance": "17m"
+    },
+    {
+      "brand": "我们一起去成都(万优汇店)",
+      "address": "东小口镇立汤路188号万优汇5层5C11",
+      "distance": "18m"
+    },
+    {
+      "brand": "嘎嘎好吃东北老饭盒",
+      "address": "中东路与立汤路交叉口东南160米",
+      "distance": "18m"
+    },
+    {
+      "brand": "山泉冷面",
+      "address": "中东路与立汤路交叉口东南160米",
+      "distance": "18m"
+    },
+    {
+      "brand": "耕地累死的牛·老式牛肉饭(万优汇Unit One店)",
+      "address": "中东路与立汤路交叉口东南160米",
+      "distance": "18m"
+    },
+    {
+      "brand": "鲜尾记手工煎饺",
+      "address": "中东路与立汤路交叉口东南160米",
+      "distance": "18m"
+    },
+    {
+      "brand": "鸡架炸货铺",
+      "address": "中东路与立汤路交叉口东南160米",
+      "distance": "18m"
+    },
+    {
+      "brand": "覃记广西南宁老友粉",
+      "address": "中东路与立汤路交叉口东南160米",
+      "distance": "18m"
+    },
+    {
+      "brand": "融柳大铁牛螺蛳粉(万优汇店)",
+      "address": "东小口镇立汤路188号5层5C01-1",
+      "distance": "21m"
+    },
+    {
+      "brand": "Tims天好咖啡(万优汇捷枫店)",
+      "address": "东小口镇立汤路188号万优汇F1层",
+      "distance": "22m"
+    },
+    {
+      "brand": "老弄堂生煎",
+      "address": "北方明珠大厦",
+      "distance": "17m"
+    },
+    {
+      "brand": "我们一起去成都(万优汇店)",
+      "address": "东小口镇立汤路188号万优汇5层5C11",
+      "distance": "18m"
+    },
+    {
+      "brand": "嘎嘎好吃东北老饭盒",
+      "address": "中东路与立汤路交叉口东南160米",
+      "distance": "18m"
+    },
+    {
+      "brand": "山泉冷面",
+      "address": "中东路与立汤路交叉口东南160米",
+      "distance": "18m"
+    },
+    {
+      "brand": "耕地累死的牛·老式牛肉饭(万优汇Unit One店)",
+      "address": "中东路与立汤路交叉口东南160米",
+      "distance": "18m"
+    },
+    {
+      "brand": "鲜尾记手工煎饺",
+      "address": "中东路与立汤路交叉口东南160米",
+      "distance": "18m"
+    },
+    {
+      "brand": "鸡架炸货铺",
+      "address": "中东路与立汤路交叉口东南160米",
+      "distance": "18m"
+    },
+    {
+      "brand": "覃记广西南宁老友粉",
+      "address": "中东路与立汤路交叉口东南160米",
+      "distance": "18m"
+    },
+    {
+      "brand": "融柳大铁牛螺蛳粉(万优汇店)",
+      "address": "东小口镇立汤路188号5层5C01-1",
+      "distance": "21m"
+    },
+    {
+      "brand": "Tims天好咖啡(万优汇捷枫店)",
+      "address": "东小口镇立汤路188号万优汇F1层",
+      "distance": "22m"
+    },
+    {
+      "brand": "老弄堂生煎",
+      "address": "北方明珠大厦",
+      "distance": "17m"
+    },
+    {
+      "brand": "我们一起去成都(万优汇店)",
+      "address": "东小口镇立汤路188号万优汇5层5C11",
+      "distance": "18m"
+    },
+    {
+      "brand": "嘎嘎好吃东北老饭盒",
+      "address": "中东路与立汤路交叉口东南160米",
+      "distance": "18m"
+    },
+    {
+      "brand": "山泉冷面",
+      "address": "中东路与立汤路交叉口东南160米",
+      "distance": "18m"
+    },
+    {
+      "brand": "耕地累死的牛·老式牛肉饭(万优汇Unit One店)",
+      "address": "中东路与立汤路交叉口东南160米",
+      "distance": "18m"
+    },
+    {
+      "brand": "鲜尾记手工煎饺",
+      "address": "中东路与立汤路交叉口东南160米",
+      "distance": "18m"
+    },
+    {
+      "brand": "鸡架炸货铺",
+      "address": "中东路与立汤路交叉口东南160米",
+      "distance": "18m"
+    },
+    {
+      "brand": "覃记广西南宁老友粉",
+      "address": "中东路与立汤路交叉口东南160米",
+      "distance": "18m"
+    },
+    {
+      "brand": "融柳大铁牛螺蛳粉(万优汇店)",
+      "address": "东小口镇立汤路188号5层5C01-1",
+      "distance": "21m"
+    },
+    {
+      "brand": "Tims天好咖啡(万优汇捷枫店)",
+      "address": "东小口镇立汤路188号万优汇F1层",
+      "distance": "22m"
+    },
+    {
+      "brand": "老弄堂生煎",
+      "address": "北方明珠大厦",
+      "distance": "17m"
+    },
+    {
+      "brand": "我们一起去成都(万优汇店)",
+      "address": "东小口镇立汤路188号万优汇5层5C11",
+      "distance": "18m"
+    },
+    {
+      "brand": "嘎嘎好吃东北老饭盒",
+      "address": "中东路与立汤路交叉口东南160米",
+      "distance": "18m"
+    },
+    {
+      "brand": "山泉冷面",
+      "address": "中东路与立汤路交叉口东南160米",
+      "distance": "18m"
+    },
+    {
+      "brand": "耕地累死的牛·老式牛肉饭(万优汇Unit One店)",
+      "address": "中东路与立汤路交叉口东南160米",
+      "distance": "18m"
+    },
+    {
+      "brand": "鲜尾记手工煎饺",
+      "address": "中东路与立汤路交叉口东南160米",
+      "distance": "18m"
+    },
+    {
+      "brand": "鸡架炸货铺",
+      "address": "中东路与立汤路交叉口东南160米",
+      "distance": "18m"
+    },
+    {
+      "brand": "覃记广西南宁老友粉",
+      "address": "中东路与立汤路交叉口东南160米",
+      "distance": "18m"
+    },
+    {
+      "brand": "融柳大铁牛螺蛳粉(万优汇店)",
+      "address": "东小口镇立汤路188号5层5C01-1",
+      "distance": "21m"
+    },
+    {
+      "brand": "Tims天好咖啡(万优汇捷枫店)",
+      "address": "东小口镇立汤路188号万优汇F1层",
+      "distance": "22m"
+    },
+    {
+      "brand": "老弄堂生煎",
+      "address": "北方明珠大厦",
+      "distance": "17m"
+    },
+    {
+      "brand": "我们一起去成都(万优汇店)",
+      "address": "东小口镇立汤路188号万优汇5层5C11",
+      "distance": "18m"
+    },
+    {
+      "brand": "嘎嘎好吃东北老饭盒",
+      "address": "中东路与立汤路交叉口东南160米",
+      "distance": "18m"
+    },
+    {
+      "brand": "山泉冷面",
+      "address": "中东路与立汤路交叉口东南160米",
+      "distance": "18m"
+    },
+    {
+      "brand": "耕地累死的牛·老式牛肉饭(万优汇Unit One店)",
+      "address": "中东路与立汤路交叉口东南160米",
+      "distance": "18m"
+    },
+    {
+      "brand": "鲜尾记手工煎饺",
+      "address": "中东路与立汤路交叉口东南160米",
+      "distance": "18m"
+    },
+    {
+      "brand": "鸡架炸货铺",
+      "address": "中东路与立汤路交叉口东南160米",
+      "distance": "18m"
+    },
+    {
+      "brand": "覃记广西南宁老友粉",
+      "address": "中东路与立汤路交叉口东南160米",
+      "distance": "18m"
+    },
+    {
+      "brand": "融柳大铁牛螺蛳粉(万优汇店)",
+      "address": "东小口镇立汤路188号5层5C01-1",
+      "distance": "21m"
+    },
+    {
+      "brand": "Tims天好咖啡(万优汇捷枫店)",
+      "address": "东小口镇立汤路188号万优汇F1层",
+      "distance": "22m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "北京龙德广场",
+      "open_date": "2008-08-16",
+      "area": "24万㎡",
+      "jun_daily_avg": "4.8万人次",
+      "weekday_avg": "4万人次",
+      "holiday_avg": "6.8万人次"
+    },
+    {
+      "name": "北京西单商场天通苑购物中心",
+      "open_date": "2002-11-01",
+      "area": "1.5万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "佳运广场",
+      "open_date": "2008-10-01",
+      "area": "-",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "北京天通苑华联购物中心",
+      "open_date": "2011-09-01",
+      "area": "7.5万㎡",
+      "jun_daily_avg": "2.6万人次",
+      "weekday_avg": "2.4万人次",
+      "holiday_avg": "3.2万人次"
+    },
+    {
+      "name": "北京华贸天地",
+      "open_date": "2012-09-23",
+      "area": "7万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 50.0,
+      "within_1yr_pct": 58.0,
+      "1_3yr_pct": 14.0,
+      "over_3yr_pct": 28.0
+    },
+    {
+      "type": "购物",
+      "count": 39.0,
+      "within_1yr_pct": 12.8,
+      "1_3yr_pct": 15.4,
+      "over_3yr_pct": 71.8
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 5.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 20.0,
+      "over_3yr_pct": 80.0
+    },
+    {
+      "type": "教育培训",
+      "count": 7.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 42.9,
+      "over_3yr_pct": 57.1
+    },
+    {
+      "type": "酒店住宿",
+      "count": 5.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 40.0,
+      "over_3yr_pct": 40.0
+    },
+    {
+      "type": "生活服务",
+      "count": 33.0,
+      "within_1yr_pct": 12.1,
+      "1_3yr_pct": 15.2,
+      "over_3yr_pct": 72.7
+    },
+    {
+      "type": "运动健身",
+      "count": 10.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 60.0,
+      "over_3yr_pct": 20.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
+    }
+  ]
+}

@@ -1,0 +1,147 @@
+{
+  "name": "马桥满天星生活广场",
+  "city": "上海市",
+  "address": "上海市闵行区马桥镇银春路2156号满天星生活广场(马桥店)",
+  "lat": 31.025478,
+  "lng": 121.387108,
+  "overview": {
+    "score": 84.4,
+    "score_rank": "市内前30%",
+    "population_score": 96.0,
+    "area_score": 67.6,
+    "consumption_score": 66.4,
+    "industry_score": 84.4,
+    "annual_sales": "马桥满天星生活广场是马桥镇第一个统一经营管理的社区商业，商业总面积约3.4万平方米，满足马桥社区居民日常购物、休闲、娱乐、亲子教育、餐饮、配套服务等“一站式”邻里中心",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 2.6,
+    "open_date": "2017-04-01",
+    "operator": "上海澹然资产管理有限公司",
+    "brand": "",
+    "type": "综合型",
+    "floors": "L1-L4"
+  },
+  "traffic": {
+    "annual_daily": 1808.0,
+    "annual_daily_unit": "人次",
+    "annual_daily_rank": "市内第481",
+    "jun_total": null,
+    "jun_total_rank": "",
+    "jun_daily_avg": null,
+    "jun_daily_unit": "",
+    "jun_daily_rank": "",
+    "weekday_avg": null,
+    "weekday_unit": "",
+    "weekday_rank": "",
+    "holiday_avg": null,
+    "holiday_unit": "",
+    "holiday_rank": ""
+  },
+  "population": {
+    "residential": {
+      "500m": 3.2,
+      "1_5km": 11.4,
+      "3km": 36.5
+    },
+    "office": {
+      "500m": 9600.0,
+      "1_5km": 4.0,
+      "3km": 18.7
+    },
+    "permanent": {
+      "500m": 2.9,
+      "1_5km": 10.3,
+      "3km": 33.4
+    }
+  },
+  "business": {
+    "competitors": 4.0,
+    "food": 90.0,
+    "shopping": 46.0,
+    "leisure": 9.0,
+    "education": 23.0,
+    "hotel": 3.0,
+    "services": 64.0,
+    "fitness": 17.0,
+    "auto": 8.0,
+    "total_stores": 75.0,
+    "old_store_3yr_pct": 75.0
+  },
+  "nearby_poi": {
+    "business": 2.0,
+    "community": 130.0,
+    "office": 4.0,
+    "school": 11.0,
+    "hospital": 12.0,
+    "transport": 11.0,
+    "scenic": 39.0
+  },
+  "demographics": {
+    "male_pct": 48.3,
+    "female_pct": null,
+    "education": {
+      "小学": 10.2,
+      "初中": 19.2,
+      "高中": 12.2,
+      "大专": 8.8,
+      "本科": 42.7,
+      "硕士": 5.4,
+      "博士": 1.5
+    },
+    "has_children_pct": 60.7,
+    "no_children_pct": 39.3
+  },
+  "scraped_at": "2026-08-01T12:43:38.618Z",
+  "nearby_restaurants": [],
+  "nearby_malls": [],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 31.0,
+      "within_1yr_pct": 12.9,
+      "1_3yr_pct": 16.1,
+      "over_3yr_pct": 71.0
+    },
+    {
+      "type": "购物",
+      "count": 13.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 23.1,
+      "over_3yr_pct": 76.9
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    },
+    {
+      "type": "教育培训",
+      "count": 11.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 9.1,
+      "over_3yr_pct": 90.9
+    },
+    {
+      "type": "生活服务",
+      "count": 12.0,
+      "within_1yr_pct": 16.7,
+      "1_3yr_pct": 16.7,
+      "over_3yr_pct": 66.7
+    },
+    {
+      "type": "运动健身",
+      "count": 5.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 20.0,
+      "over_3yr_pct": 60.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    }
+  ]
+}

@@ -1,0 +1,391 @@
+{
+  "name": "百联金山购物中心",
+  "city": "上海市",
+  "address": "上海市金山区卫清西路188号",
+  "lat": 30.731588,
+  "lng": 121.347882,
+  "overview": {
+    "score": 93.4,
+    "score_rank": "市内前30%",
+    "population_score": 81.0,
+    "area_score": 72.1,
+    "consumption_score": 62.3,
+    "industry_score": 93.6,
+    "annual_sales": "百联金山购物中心地处金山新城核心商业区，集购物、休闲、餐饮、娱乐、健身、社区服务等一体的购物中心",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 4.0,
+    "open_date": "2010-09-08",
+    "operator": "上海百联集团股份有限公司",
+    "brand": "百联",
+    "type": "购物型",
+    "floors": "B1-L4"
+  },
+  "traffic": {
+    "annual_daily": 2.83,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第90",
+    "jun_total": 78.7,
+    "jun_total_rank": "市内商场第155名",
+    "jun_daily_avg": 2.6,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第155名",
+    "weekday_avg": 2.3,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第159名",
+    "holiday_avg": 3.4,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第143名"
+  },
+  "population": {
+    "residential": {
+      "500m": 1.6,
+      "1_5km": 13.2,
+      "3km": 32.6
+    },
+    "office": {
+      "500m": 9000.0,
+      "1_5km": 5.2,
+      "3km": 14.6
+    },
+    "permanent": {
+      "500m": 1.9,
+      "1_5km": 13.2,
+      "3km": 31.9
+    }
+  },
+  "business": {
+    "competitors": 6.0,
+    "food": 126.0,
+    "shopping": 153.0,
+    "leisure": 21.0,
+    "education": 16.0,
+    "hotel": 13.0,
+    "services": 70.0,
+    "fitness": 11.0,
+    "auto": 15.0,
+    "total_stores": 157.0,
+    "old_store_3yr_pct": 69.0
+  },
+  "nearby_poi": {
+    "business": null,
+    "community": 134.0,
+    "office": 13.0,
+    "school": 24.0,
+    "hospital": 24.0,
+    "transport": 13.0,
+    "scenic": 77.0
+  },
+  "demographics": {
+    "male_pct": 47.1,
+    "female_pct": null,
+    "education": {
+      "小学": 10.7,
+      "初中": 21.4,
+      "高中": 11.6,
+      "大专": 8.0,
+      "本科": 44.8,
+      "硕士": 2.7,
+      "博士": 0.8
+    },
+    "has_children_pct": 62.1,
+    "no_children_pct": 37.9
+  },
+  "scraped_at": "2026-08-01T05:59:02.458Z",
+  "nearby_restaurants": [
+    {
+      "brand": "1点点(百联金山购物中心店)",
+      "address": "卫清西路188号百联金山购物中心1F层",
+      "distance": "4m"
+    },
+    {
+      "brand": "醉辉皇(金山百联店)",
+      "address": "山阳镇卫清西路188号4楼(百联金山购物中心)",
+      "distance": "12m"
+    },
+    {
+      "brand": "朴大叔拌饭(上海金山百联店)",
+      "address": "卫清西路188号百联金山购物中心3层",
+      "distance": "15m"
+    },
+    {
+      "brand": "世航小阿福炭炉牛杂煲·烧烤·烤鱼(金山百联店)",
+      "address": "卫清西路188号百联金山购物中心1层",
+      "distance": "15m"
+    },
+    {
+      "brand": "米陀饭团(百联金山购物中心店)",
+      "address": "卫清西路188号百联金山购物中心F1层G47-01F01-00-0052号铺",
+      "distance": "15m"
+    },
+    {
+      "brand": "赛百味 SUBWAY(百联金山购物中心店)",
+      "address": "卫清西路168弄99号东方商厦金山店F1层",
+      "distance": "18m"
+    },
+    {
+      "brand": "成都你六姐·牛肉冒菜(上海金山百联店)",
+      "address": "卫清西路168弄99号东方商厦金山店F3层",
+      "distance": "19m"
+    },
+    {
+      "brand": "青花椒砂锅鱼(金山百联店)",
+      "address": "金山卫镇卫清西路168号百联金山购物中心3楼",
+      "distance": "20m"
+    },
+    {
+      "brand": "左庭右院鲜牛肉火锅(金山百联店)",
+      "address": "卫清西路188号百联金山购物中心3层",
+      "distance": "21m"
+    },
+    {
+      "brand": "金山百联员工食堂(百联金山购物中心店)",
+      "address": "卫清西路168弄99号东方商厦金山店F1层",
+      "distance": "27m"
+    },
+    {
+      "brand": "1点点(百联金山购物中心店)",
+      "address": "卫清西路188号百联金山购物中心1F层",
+      "distance": "4m"
+    },
+    {
+      "brand": "醉辉皇(金山百联店)",
+      "address": "山阳镇卫清西路188号4楼(百联金山购物中心)",
+      "distance": "12m"
+    },
+    {
+      "brand": "朴大叔拌饭(上海金山百联店)",
+      "address": "卫清西路188号百联金山购物中心3层",
+      "distance": "15m"
+    },
+    {
+      "brand": "世航小阿福炭炉牛杂煲·烧烤·烤鱼(金山百联店)",
+      "address": "卫清西路188号百联金山购物中心1层",
+      "distance": "15m"
+    },
+    {
+      "brand": "米陀饭团(百联金山购物中心店)",
+      "address": "卫清西路188号百联金山购物中心F1层G47-01F01-00-0052号铺",
+      "distance": "15m"
+    },
+    {
+      "brand": "赛百味 SUBWAY(百联金山购物中心店)",
+      "address": "卫清西路168弄99号东方商厦金山店F1层",
+      "distance": "18m"
+    },
+    {
+      "brand": "成都你六姐·牛肉冒菜(上海金山百联店)",
+      "address": "卫清西路168弄99号东方商厦金山店F3层",
+      "distance": "19m"
+    },
+    {
+      "brand": "青花椒砂锅鱼(金山百联店)",
+      "address": "金山卫镇卫清西路168号百联金山购物中心3楼",
+      "distance": "20m"
+    },
+    {
+      "brand": "左庭右院鲜牛肉火锅(金山百联店)",
+      "address": "卫清西路188号百联金山购物中心3层",
+      "distance": "21m"
+    },
+    {
+      "brand": "金山百联员工食堂(百联金山购物中心店)",
+      "address": "卫清西路168弄99号东方商厦金山店F1层",
+      "distance": "27m"
+    },
+    {
+      "brand": "1点点(百联金山购物中心店)",
+      "address": "卫清西路188号百联金山购物中心1F层",
+      "distance": "4m"
+    },
+    {
+      "brand": "醉辉皇(金山百联店)",
+      "address": "山阳镇卫清西路188号4楼(百联金山购物中心)",
+      "distance": "12m"
+    },
+    {
+      "brand": "朴大叔拌饭(上海金山百联店)",
+      "address": "卫清西路188号百联金山购物中心3层",
+      "distance": "15m"
+    },
+    {
+      "brand": "世航小阿福炭炉牛杂煲·烧烤·烤鱼(金山百联店)",
+      "address": "卫清西路188号百联金山购物中心1层",
+      "distance": "15m"
+    },
+    {
+      "brand": "米陀饭团(百联金山购物中心店)",
+      "address": "卫清西路188号百联金山购物中心F1层G47-01F01-00-0052号铺",
+      "distance": "15m"
+    },
+    {
+      "brand": "赛百味 SUBWAY(百联金山购物中心店)",
+      "address": "卫清西路168弄99号东方商厦金山店F1层",
+      "distance": "18m"
+    },
+    {
+      "brand": "成都你六姐·牛肉冒菜(上海金山百联店)",
+      "address": "卫清西路168弄99号东方商厦金山店F3层",
+      "distance": "19m"
+    },
+    {
+      "brand": "青花椒砂锅鱼(金山百联店)",
+      "address": "金山卫镇卫清西路168号百联金山购物中心3楼",
+      "distance": "20m"
+    },
+    {
+      "brand": "左庭右院鲜牛肉火锅(金山百联店)",
+      "address": "卫清西路188号百联金山购物中心3层",
+      "distance": "21m"
+    },
+    {
+      "brand": "金山百联员工食堂(百联金山购物中心店)",
+      "address": "卫清西路168弄99号东方商厦金山店F1层",
+      "distance": "27m"
+    },
+    {
+      "brand": "1点点(百联金山购物中心店)",
+      "address": "卫清西路188号百联金山购物中心1F层",
+      "distance": "4m"
+    },
+    {
+      "brand": "醉辉皇(金山百联店)",
+      "address": "山阳镇卫清西路188号4楼(百联金山购物中心)",
+      "distance": "12m"
+    },
+    {
+      "brand": "朴大叔拌饭(上海金山百联店)",
+      "address": "卫清西路188号百联金山购物中心3层",
+      "distance": "15m"
+    },
+    {
+      "brand": "世航小阿福炭炉牛杂煲·烧烤·烤鱼(金山百联店)",
+      "address": "卫清西路188号百联金山购物中心1层",
+      "distance": "15m"
+    },
+    {
+      "brand": "米陀饭团(百联金山购物中心店)",
+      "address": "卫清西路188号百联金山购物中心F1层G47-01F01-00-0052号铺",
+      "distance": "15m"
+    },
+    {
+      "brand": "赛百味 SUBWAY(百联金山购物中心店)",
+      "address": "卫清西路168弄99号东方商厦金山店F1层",
+      "distance": "18m"
+    },
+    {
+      "brand": "成都你六姐·牛肉冒菜(上海金山百联店)",
+      "address": "卫清西路168弄99号东方商厦金山店F3层",
+      "distance": "19m"
+    },
+    {
+      "brand": "青花椒砂锅鱼(金山百联店)",
+      "address": "金山卫镇卫清西路168号百联金山购物中心3楼",
+      "distance": "20m"
+    },
+    {
+      "brand": "左庭右院鲜牛肉火锅(金山百联店)",
+      "address": "卫清西路188号百联金山购物中心3层",
+      "distance": "21m"
+    },
+    {
+      "brand": "金山百联员工食堂(百联金山购物中心店)",
+      "address": "卫清西路168弄99号东方商厦金山店F1层",
+      "distance": "27m"
+    },
+    {
+      "brand": "1点点(百联金山购物中心店)",
+      "address": "卫清西路188号百联金山购物中心1F层",
+      "distance": "4m"
+    },
+    {
+      "brand": "醉辉皇(金山百联店)",
+      "address": "山阳镇卫清西路188号4楼(百联金山购物中心)",
+      "distance": "12m"
+    },
+    {
+      "brand": "朴大叔拌饭(上海金山百联店)",
+      "address": "卫清西路188号百联金山购物中心3层",
+      "distance": "15m"
+    },
+    {
+      "brand": "世航小阿福炭炉牛杂煲·烧烤·烤鱼(金山百联店)",
+      "address": "卫清西路188号百联金山购物中心1层",
+      "distance": "15m"
+    },
+    {
+      "brand": "米陀饭团(百联金山购物中心店)",
+      "address": "卫清西路188号百联金山购物中心F1层G47-01F01-00-0052号铺",
+      "distance": "15m"
+    },
+    {
+      "brand": "赛百味 SUBWAY(百联金山购物中心店)",
+      "address": "卫清西路168弄99号东方商厦金山店F1层",
+      "distance": "18m"
+    },
+    {
+      "brand": "成都你六姐·牛肉冒菜(上海金山百联店)",
+      "address": "卫清西路168弄99号东方商厦金山店F3层",
+      "distance": "19m"
+    },
+    {
+      "brand": "青花椒砂锅鱼(金山百联店)",
+      "address": "金山卫镇卫清西路168号百联金山购物中心3楼",
+      "distance": "20m"
+    },
+    {
+      "brand": "左庭右院鲜牛肉火锅(金山百联店)",
+      "address": "卫清西路188号百联金山购物中心3层",
+      "distance": "21m"
+    },
+    {
+      "brand": "金山百联员工食堂(百联金山购物中心店)",
+      "address": "卫清西路168弄99号东方商厦金山店F1层",
+      "distance": "27m"
+    }
+  ],
+  "nearby_malls": [],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 56.0,
+      "within_1yr_pct": 16.1,
+      "1_3yr_pct": 14.3,
+      "over_3yr_pct": 69.6
+    },
+    {
+      "type": "购物",
+      "count": 73.0,
+      "within_1yr_pct": 8.2,
+      "1_3yr_pct": 20.5,
+      "over_3yr_pct": 71.2
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 7.0,
+      "within_1yr_pct": 28.6,
+      "1_3yr_pct": 14.3,
+      "over_3yr_pct": 57.1
+    },
+    {
+      "type": "生活服务",
+      "count": 13.0,
+      "within_1yr_pct": 15.4,
+      "1_3yr_pct": 7.7,
+      "over_3yr_pct": 76.9
+    },
+    {
+      "type": "运动健身",
+      "count": 3.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 66.7
+    },
+    {
+      "type": "车辆服务",
+      "count": 5.0,
+      "within_1yr_pct": 40.0,
+      "1_3yr_pct": 40.0,
+      "over_3yr_pct": 20.0
+    }
+  ]
+}

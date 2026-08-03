@@ -1,0 +1,422 @@
+{
+  "name": "京西大悦城",
+  "city": "北京市",
+  "address": "北京市石景山区阜石路173号",
+  "lat": 39.925777,
+  "lng": 116.186083,
+  "overview": {
+    "score": 94.5,
+    "score_rank": "市内前30%",
+    "population_score": 87.8,
+    "area_score": 81.5,
+    "consumption_score": 71.6,
+    "industry_score": 94.6,
+    "annual_sales": "5.6",
+    "annual_sales_unit": "亿元",
+    "area_size_sqm": 11.0,
+    "open_date": "2023-06-18",
+    "operator": "大悦城控股集团股份有限公司",
+    "brand": "大悦城",
+    "type": "购物型",
+    "floors": "B2-L7"
+  },
+  "traffic": {
+    "annual_daily": 3.68,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第47",
+    "jun_total": 164.7,
+    "jun_total_rank": "市内商场第39名",
+    "jun_daily_avg": 5.5,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第39名",
+    "weekday_avg": 4.7,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第43名",
+    "holiday_avg": 7.6,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第32名"
+  },
+  "population": {
+    "residential": {
+      "500m": 2.0,
+      "1_5km": 17.4,
+      "3km": 46.1
+    },
+    "office": {
+      "500m": 1.1,
+      "1_5km": 8.9,
+      "3km": 25.2
+    },
+    "permanent": {
+      "500m": 2.4,
+      "1_5km": 17.6,
+      "3km": 45.5
+    }
+  },
+  "business": {
+    "competitors": 4.0,
+    "food": 215.0,
+    "shopping": 158.0,
+    "leisure": 30.0,
+    "education": 22.0,
+    "hotel": 15.0,
+    "services": 123.0,
+    "fitness": 18.0,
+    "auto": 18.0,
+    "total_stores": 247.0,
+    "old_store_3yr_pct": 53.0
+  },
+  "nearby_poi": {
+    "business": 2.0,
+    "community": 209.0,
+    "office": 50.0,
+    "school": 32.0,
+    "hospital": 45.0,
+    "transport": 12.0,
+    "scenic": 176.0
+  },
+  "demographics": {
+    "male_pct": 45.9,
+    "female_pct": null,
+    "education": {
+      "小学": 8.8,
+      "初中": 15.6,
+      "高中": 11.4,
+      "大专": 7.1,
+      "本科": 48.6,
+      "硕士": 6.8,
+      "博士": 1.7
+    },
+    "has_children_pct": 65.8,
+    "no_children_pct": 34.2
+  },
+  "scraped_at": "2026-07-31T11:34:39.719Z",
+  "nearby_restaurants": [
+    {
+      "brand": "鱼你在一起(京西大悦城店 )",
+      "address": "北京城区阜石路173号院1号楼京西大悦城B2-C13",
+      "distance": "28m"
+    },
+    {
+      "brand": "阿芮烤鸡爪(京西大悦城店)",
+      "address": "北京城区北京城区阜石路173号院1号楼京西大悦城B2层B2-C12",
+      "distance": "31m"
+    },
+    {
+      "brand": "吉野家(京西大悦城店)",
+      "address": "阜石路173号院1号楼京西大悦城B2F层B2-C16",
+      "distance": "32m"
+    },
+    {
+      "brand": "全牛匠·乐山跷脚牛肉(京西大悦城店)",
+      "address": "北京城区阜石路173号院1号楼京西大悦城4层4-13",
+      "distance": "36m"
+    },
+    {
+      "brand": "野人先生现做冰淇淋(北京京西大悦城店)",
+      "address": "京西大悦城负2层",
+      "distance": "36m"
+    },
+    {
+      "brand": "泸溪河桃酥(京西大悦城店)",
+      "address": "阜石路173号院1号楼京西大悦城B2F层B2-C19",
+      "distance": "37m"
+    },
+    {
+      "brand": "老呆炭山葵烤肉(京西大悦城店)",
+      "address": "阜石路173号院1号楼京西大悦城5F层5F-02",
+      "distance": "38m"
+    },
+    {
+      "brand": "都士竟成·现烤牛肉干(京西大悦城店)",
+      "address": "北京城区阜石路173号院1号楼京西大悦城B2层B2-C20",
+      "distance": "39m"
+    },
+    {
+      "brand": "SAME SIAM热啊东南亚餐厅(京西大悦城店)",
+      "address": "古城街道阜石路173号院1号楼京西大悦城5层",
+      "distance": "40m"
+    },
+    {
+      "brand": "好利来(京西大悦城店)",
+      "address": "北京城区阜石路173号院101幢京西大悦城地下一层09号",
+      "distance": "41m"
+    },
+    {
+      "brand": "鱼你在一起(京西大悦城店 )",
+      "address": "北京城区阜石路173号院1号楼京西大悦城B2-C13",
+      "distance": "28m"
+    },
+    {
+      "brand": "阿芮烤鸡爪(京西大悦城店)",
+      "address": "北京城区北京城区阜石路173号院1号楼京西大悦城B2层B2-C12",
+      "distance": "31m"
+    },
+    {
+      "brand": "吉野家(京西大悦城店)",
+      "address": "阜石路173号院1号楼京西大悦城B2F层B2-C16",
+      "distance": "32m"
+    },
+    {
+      "brand": "全牛匠·乐山跷脚牛肉(京西大悦城店)",
+      "address": "北京城区阜石路173号院1号楼京西大悦城4层4-13",
+      "distance": "36m"
+    },
+    {
+      "brand": "野人先生现做冰淇淋(北京京西大悦城店)",
+      "address": "京西大悦城负2层",
+      "distance": "36m"
+    },
+    {
+      "brand": "泸溪河桃酥(京西大悦城店)",
+      "address": "阜石路173号院1号楼京西大悦城B2F层B2-C19",
+      "distance": "37m"
+    },
+    {
+      "brand": "老呆炭山葵烤肉(京西大悦城店)",
+      "address": "阜石路173号院1号楼京西大悦城5F层5F-02",
+      "distance": "38m"
+    },
+    {
+      "brand": "都士竟成·现烤牛肉干(京西大悦城店)",
+      "address": "北京城区阜石路173号院1号楼京西大悦城B2层B2-C20",
+      "distance": "39m"
+    },
+    {
+      "brand": "SAME SIAM热啊东南亚餐厅(京西大悦城店)",
+      "address": "古城街道阜石路173号院1号楼京西大悦城5层",
+      "distance": "40m"
+    },
+    {
+      "brand": "好利来(京西大悦城店)",
+      "address": "北京城区阜石路173号院101幢京西大悦城地下一层09号",
+      "distance": "41m"
+    },
+    {
+      "brand": "鱼你在一起(京西大悦城店 )",
+      "address": "北京城区阜石路173号院1号楼京西大悦城B2-C13",
+      "distance": "28m"
+    },
+    {
+      "brand": "阿芮烤鸡爪(京西大悦城店)",
+      "address": "北京城区北京城区阜石路173号院1号楼京西大悦城B2层B2-C12",
+      "distance": "31m"
+    },
+    {
+      "brand": "吉野家(京西大悦城店)",
+      "address": "阜石路173号院1号楼京西大悦城B2F层B2-C16",
+      "distance": "32m"
+    },
+    {
+      "brand": "全牛匠·乐山跷脚牛肉(京西大悦城店)",
+      "address": "北京城区阜石路173号院1号楼京西大悦城4层4-13",
+      "distance": "36m"
+    },
+    {
+      "brand": "野人先生现做冰淇淋(北京京西大悦城店)",
+      "address": "京西大悦城负2层",
+      "distance": "36m"
+    },
+    {
+      "brand": "泸溪河桃酥(京西大悦城店)",
+      "address": "阜石路173号院1号楼京西大悦城B2F层B2-C19",
+      "distance": "37m"
+    },
+    {
+      "brand": "老呆炭山葵烤肉(京西大悦城店)",
+      "address": "阜石路173号院1号楼京西大悦城5F层5F-02",
+      "distance": "38m"
+    },
+    {
+      "brand": "都士竟成·现烤牛肉干(京西大悦城店)",
+      "address": "北京城区阜石路173号院1号楼京西大悦城B2层B2-C20",
+      "distance": "39m"
+    },
+    {
+      "brand": "SAME SIAM热啊东南亚餐厅(京西大悦城店)",
+      "address": "古城街道阜石路173号院1号楼京西大悦城5层",
+      "distance": "40m"
+    },
+    {
+      "brand": "好利来(京西大悦城店)",
+      "address": "北京城区阜石路173号院101幢京西大悦城地下一层09号",
+      "distance": "41m"
+    },
+    {
+      "brand": "鱼你在一起(京西大悦城店 )",
+      "address": "北京城区阜石路173号院1号楼京西大悦城B2-C13",
+      "distance": "28m"
+    },
+    {
+      "brand": "阿芮烤鸡爪(京西大悦城店)",
+      "address": "北京城区北京城区阜石路173号院1号楼京西大悦城B2层B2-C12",
+      "distance": "31m"
+    },
+    {
+      "brand": "吉野家(京西大悦城店)",
+      "address": "阜石路173号院1号楼京西大悦城B2F层B2-C16",
+      "distance": "32m"
+    },
+    {
+      "brand": "全牛匠·乐山跷脚牛肉(京西大悦城店)",
+      "address": "北京城区阜石路173号院1号楼京西大悦城4层4-13",
+      "distance": "36m"
+    },
+    {
+      "brand": "野人先生现做冰淇淋(北京京西大悦城店)",
+      "address": "京西大悦城负2层",
+      "distance": "36m"
+    },
+    {
+      "brand": "泸溪河桃酥(京西大悦城店)",
+      "address": "阜石路173号院1号楼京西大悦城B2F层B2-C19",
+      "distance": "37m"
+    },
+    {
+      "brand": "老呆炭山葵烤肉(京西大悦城店)",
+      "address": "阜石路173号院1号楼京西大悦城5F层5F-02",
+      "distance": "38m"
+    },
+    {
+      "brand": "都士竟成·现烤牛肉干(京西大悦城店)",
+      "address": "北京城区阜石路173号院1号楼京西大悦城B2层B2-C20",
+      "distance": "39m"
+    },
+    {
+      "brand": "SAME SIAM热啊东南亚餐厅(京西大悦城店)",
+      "address": "古城街道阜石路173号院1号楼京西大悦城5层",
+      "distance": "40m"
+    },
+    {
+      "brand": "好利来(京西大悦城店)",
+      "address": "北京城区阜石路173号院101幢京西大悦城地下一层09号",
+      "distance": "41m"
+    },
+    {
+      "brand": "鱼你在一起(京西大悦城店 )",
+      "address": "北京城区阜石路173号院1号楼京西大悦城B2-C13",
+      "distance": "28m"
+    },
+    {
+      "brand": "阿芮烤鸡爪(京西大悦城店)",
+      "address": "北京城区北京城区阜石路173号院1号楼京西大悦城B2层B2-C12",
+      "distance": "31m"
+    },
+    {
+      "brand": "吉野家(京西大悦城店)",
+      "address": "阜石路173号院1号楼京西大悦城B2F层B2-C16",
+      "distance": "32m"
+    },
+    {
+      "brand": "全牛匠·乐山跷脚牛肉(京西大悦城店)",
+      "address": "北京城区阜石路173号院1号楼京西大悦城4层4-13",
+      "distance": "36m"
+    },
+    {
+      "brand": "野人先生现做冰淇淋(北京京西大悦城店)",
+      "address": "京西大悦城负2层",
+      "distance": "36m"
+    },
+    {
+      "brand": "泸溪河桃酥(京西大悦城店)",
+      "address": "阜石路173号院1号楼京西大悦城B2F层B2-C19",
+      "distance": "37m"
+    },
+    {
+      "brand": "老呆炭山葵烤肉(京西大悦城店)",
+      "address": "阜石路173号院1号楼京西大悦城5F层5F-02",
+      "distance": "38m"
+    },
+    {
+      "brand": "都士竟成·现烤牛肉干(京西大悦城店)",
+      "address": "北京城区阜石路173号院1号楼京西大悦城B2层B2-C20",
+      "distance": "39m"
+    },
+    {
+      "brand": "SAME SIAM热啊东南亚餐厅(京西大悦城店)",
+      "address": "古城街道阜石路173号院1号楼京西大悦城5层",
+      "distance": "40m"
+    },
+    {
+      "brand": "好利来(京西大悦城店)",
+      "address": "北京城区阜石路173号院101幢京西大悦城地下一层09号",
+      "distance": "41m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "北京当代商城店(阜石路店)",
+      "open_date": "2009-10-28",
+      "area": "2.9万㎡",
+      "jun_daily_avg": "2.5万人次",
+      "weekday_avg": "2.4万人次",
+      "holiday_avg": "2.8万人次"
+    },
+    {
+      "name": "北京喜隆多Xirondo Plaza",
+      "open_date": "2014-11-28",
+      "area": "10万㎡",
+      "jun_daily_avg": "6万人次",
+      "weekday_avg": "5.1万人次",
+      "holiday_avg": "8.3万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 70.0,
+      "within_1yr_pct": 8.6,
+      "1_3yr_pct": 32.9,
+      "over_3yr_pct": 58.6
+    },
+    {
+      "type": "购物",
+      "count": 114.0,
+      "within_1yr_pct": 7.9,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 58.8
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 22.0,
+      "within_1yr_pct": 22.7,
+      "1_3yr_pct": 45.5,
+      "over_3yr_pct": 31.8
+    },
+    {
+      "type": "教育培训",
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 1.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "生活服务",
+      "count": 23.0,
+      "within_1yr_pct": 17.4,
+      "1_3yr_pct": 30.4,
+      "over_3yr_pct": 52.2
+    },
+    {
+      "type": "运动健身",
+      "count": 6.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 16.7
+    },
+    {
+      "type": "车辆服务",
+      "count": 9.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 33.3
+    }
+  ]
+}

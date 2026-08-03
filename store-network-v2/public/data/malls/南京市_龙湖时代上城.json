@@ -1,0 +1,422 @@
+{
+  "name": "龙湖时代上城",
+  "city": "南京市",
+  "address": "江苏省南京市建邺区楠溪江东街55号",
+  "lat": 31.988545,
+  "lng": 118.738919,
+  "overview": {
+    "score": 95.2,
+    "score_rank": "市内前30%",
+    "population_score": 75.9,
+    "area_score": 78.2,
+    "consumption_score": 85.4,
+    "industry_score": 95.4,
+    "annual_sales": "1.2",
+    "annual_sales_unit": "亿元",
+    "area_size_sqm": 16.0,
+    "open_date": "2021-08-27",
+    "operator": "龙湖集团控股有限公司",
+    "brand": "龙湖",
+    "type": "综合型",
+    "floors": "B1-L6"
+  },
+  "traffic": {
+    "annual_daily": 2.87,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第35",
+    "jun_total": 134.7,
+    "jun_total_rank": "市内商场第33名",
+    "jun_daily_avg": 4.5,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第33名",
+    "weekday_avg": 4.3,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第30名",
+    "holiday_avg": 5.1,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第40名"
+  },
+  "population": {
+    "residential": {
+      "500m": 9300.0,
+      "1_5km": 7.6,
+      "3km": 31.8
+    },
+    "office": {
+      "500m": 2.2,
+      "1_5km": 11.8,
+      "3km": 36.9
+    },
+    "permanent": {
+      "500m": 1.2,
+      "1_5km": 8.8,
+      "3km": 35.4
+    }
+  },
+  "business": {
+    "competitors": 7.0,
+    "food": 211.0,
+    "shopping": 110.0,
+    "leisure": 15.0,
+    "education": 15.0,
+    "hotel": 36.0,
+    "services": 79.0,
+    "fitness": 21.0,
+    "auto": 21.0,
+    "total_stores": 298.0,
+    "old_store_3yr_pct": 45.0
+  },
+  "nearby_poi": {
+    "business": 2.0,
+    "community": 180.0,
+    "office": 69.0,
+    "school": 20.0,
+    "hospital": 49.0,
+    "transport": 8.0,
+    "scenic": 78.0
+  },
+  "demographics": {
+    "male_pct": 47.4,
+    "female_pct": null,
+    "education": {
+      "小学": 8.7,
+      "初中": 15.4,
+      "高中": 10.1,
+      "大专": 9.6,
+      "本科": 47.2,
+      "硕士": 7.8,
+      "博士": 1.2
+    },
+    "has_children_pct": 61.5,
+    "no_children_pct": 38.5
+  },
+  "scraped_at": "2026-07-31T14:05:17.113Z",
+  "nearby_restaurants": [
+    {
+      "brand": "鲜好婆生烫牛肉米线(南京创意路店)",
+      "address": "云龙山路89号河西天街负一楼永辉超市入口005商铺",
+      "distance": "1m"
+    },
+    {
+      "brand": "厝内小眷村(南京河西天街店)",
+      "address": "云龙山路与楠溪江东街交叉口南160米",
+      "distance": "8m"
+    },
+    {
+      "brand": "老韩煸鸡·中国炸鸡(河西龙湖天街店)",
+      "address": "云龙山路89号龙湖南京河西天街B1层",
+      "distance": "12m"
+    },
+    {
+      "brand": "百分茶(河西天街店)",
+      "address": "云龙山路89号龙湖南京河西天街B1层",
+      "distance": "20m"
+    },
+    {
+      "brand": "周黑鸭(南京建邺区河西龙湖店)",
+      "address": "龙湖天街负一楼霸王茶姬前面一点",
+      "distance": "22m"
+    },
+    {
+      "brand": "老乡鸡(南京龙湖河西天街店)",
+      "address": "河西龙湖天街",
+      "distance": "23m"
+    },
+    {
+      "brand": "徐福记官方旗舰店(河西龙湖天街店)",
+      "address": "创意路与楠溪江东街交叉口西180米",
+      "distance": "25m"
+    },
+    {
+      "brand": "德芙巧克力官方旗舰店(河西龙湖天街店)",
+      "address": "创意路与楠溪江东街交叉口西180米",
+      "distance": "25m"
+    },
+    {
+      "brand": "湾仔码头官方旗舰店",
+      "address": "创意路与楠溪江东街交叉口西180米",
+      "distance": "25m"
+    },
+    {
+      "brand": "脆升升官方旗舰店(河西龙湖天街店)",
+      "address": "创意路与楠溪江东街交叉口西180米",
+      "distance": "25m"
+    },
+    {
+      "brand": "鲜好婆生烫牛肉米线(南京创意路店)",
+      "address": "云龙山路89号河西天街负一楼永辉超市入口005商铺",
+      "distance": "1m"
+    },
+    {
+      "brand": "厝内小眷村(南京河西天街店)",
+      "address": "云龙山路与楠溪江东街交叉口南160米",
+      "distance": "8m"
+    },
+    {
+      "brand": "老韩煸鸡·中国炸鸡(河西龙湖天街店)",
+      "address": "云龙山路89号龙湖南京河西天街B1层",
+      "distance": "12m"
+    },
+    {
+      "brand": "百分茶(河西天街店)",
+      "address": "云龙山路89号龙湖南京河西天街B1层",
+      "distance": "20m"
+    },
+    {
+      "brand": "周黑鸭(南京建邺区河西龙湖店)",
+      "address": "龙湖天街负一楼霸王茶姬前面一点",
+      "distance": "22m"
+    },
+    {
+      "brand": "老乡鸡(南京龙湖河西天街店)",
+      "address": "河西龙湖天街",
+      "distance": "23m"
+    },
+    {
+      "brand": "徐福记官方旗舰店(河西龙湖天街店)",
+      "address": "创意路与楠溪江东街交叉口西180米",
+      "distance": "25m"
+    },
+    {
+      "brand": "德芙巧克力官方旗舰店(河西龙湖天街店)",
+      "address": "创意路与楠溪江东街交叉口西180米",
+      "distance": "25m"
+    },
+    {
+      "brand": "湾仔码头官方旗舰店",
+      "address": "创意路与楠溪江东街交叉口西180米",
+      "distance": "25m"
+    },
+    {
+      "brand": "脆升升官方旗舰店(河西龙湖天街店)",
+      "address": "创意路与楠溪江东街交叉口西180米",
+      "distance": "25m"
+    },
+    {
+      "brand": "鲜好婆生烫牛肉米线(南京创意路店)",
+      "address": "云龙山路89号河西天街负一楼永辉超市入口005商铺",
+      "distance": "1m"
+    },
+    {
+      "brand": "厝内小眷村(南京河西天街店)",
+      "address": "云龙山路与楠溪江东街交叉口南160米",
+      "distance": "8m"
+    },
+    {
+      "brand": "老韩煸鸡·中国炸鸡(河西龙湖天街店)",
+      "address": "云龙山路89号龙湖南京河西天街B1层",
+      "distance": "12m"
+    },
+    {
+      "brand": "百分茶(河西天街店)",
+      "address": "云龙山路89号龙湖南京河西天街B1层",
+      "distance": "20m"
+    },
+    {
+      "brand": "周黑鸭(南京建邺区河西龙湖店)",
+      "address": "龙湖天街负一楼霸王茶姬前面一点",
+      "distance": "22m"
+    },
+    {
+      "brand": "老乡鸡(南京龙湖河西天街店)",
+      "address": "河西龙湖天街",
+      "distance": "23m"
+    },
+    {
+      "brand": "徐福记官方旗舰店(河西龙湖天街店)",
+      "address": "创意路与楠溪江东街交叉口西180米",
+      "distance": "25m"
+    },
+    {
+      "brand": "德芙巧克力官方旗舰店(河西龙湖天街店)",
+      "address": "创意路与楠溪江东街交叉口西180米",
+      "distance": "25m"
+    },
+    {
+      "brand": "湾仔码头官方旗舰店",
+      "address": "创意路与楠溪江东街交叉口西180米",
+      "distance": "25m"
+    },
+    {
+      "brand": "脆升升官方旗舰店(河西龙湖天街店)",
+      "address": "创意路与楠溪江东街交叉口西180米",
+      "distance": "25m"
+    },
+    {
+      "brand": "鲜好婆生烫牛肉米线(南京创意路店)",
+      "address": "云龙山路89号河西天街负一楼永辉超市入口005商铺",
+      "distance": "1m"
+    },
+    {
+      "brand": "厝内小眷村(南京河西天街店)",
+      "address": "云龙山路与楠溪江东街交叉口南160米",
+      "distance": "8m"
+    },
+    {
+      "brand": "老韩煸鸡·中国炸鸡(河西龙湖天街店)",
+      "address": "云龙山路89号龙湖南京河西天街B1层",
+      "distance": "12m"
+    },
+    {
+      "brand": "百分茶(河西天街店)",
+      "address": "云龙山路89号龙湖南京河西天街B1层",
+      "distance": "20m"
+    },
+    {
+      "brand": "周黑鸭(南京建邺区河西龙湖店)",
+      "address": "龙湖天街负一楼霸王茶姬前面一点",
+      "distance": "22m"
+    },
+    {
+      "brand": "老乡鸡(南京龙湖河西天街店)",
+      "address": "河西龙湖天街",
+      "distance": "23m"
+    },
+    {
+      "brand": "徐福记官方旗舰店(河西龙湖天街店)",
+      "address": "创意路与楠溪江东街交叉口西180米",
+      "distance": "25m"
+    },
+    {
+      "brand": "德芙巧克力官方旗舰店(河西龙湖天街店)",
+      "address": "创意路与楠溪江东街交叉口西180米",
+      "distance": "25m"
+    },
+    {
+      "brand": "湾仔码头官方旗舰店",
+      "address": "创意路与楠溪江东街交叉口西180米",
+      "distance": "25m"
+    },
+    {
+      "brand": "脆升升官方旗舰店(河西龙湖天街店)",
+      "address": "创意路与楠溪江东街交叉口西180米",
+      "distance": "25m"
+    },
+    {
+      "brand": "鲜好婆生烫牛肉米线(南京创意路店)",
+      "address": "云龙山路89号河西天街负一楼永辉超市入口005商铺",
+      "distance": "1m"
+    },
+    {
+      "brand": "厝内小眷村(南京河西天街店)",
+      "address": "云龙山路与楠溪江东街交叉口南160米",
+      "distance": "8m"
+    },
+    {
+      "brand": "老韩煸鸡·中国炸鸡(河西龙湖天街店)",
+      "address": "云龙山路89号龙湖南京河西天街B1层",
+      "distance": "12m"
+    },
+    {
+      "brand": "百分茶(河西天街店)",
+      "address": "云龙山路89号龙湖南京河西天街B1层",
+      "distance": "20m"
+    },
+    {
+      "brand": "周黑鸭(南京建邺区河西龙湖店)",
+      "address": "龙湖天街负一楼霸王茶姬前面一点",
+      "distance": "22m"
+    },
+    {
+      "brand": "老乡鸡(南京龙湖河西天街店)",
+      "address": "河西龙湖天街",
+      "distance": "23m"
+    },
+    {
+      "brand": "徐福记官方旗舰店(河西龙湖天街店)",
+      "address": "创意路与楠溪江东街交叉口西180米",
+      "distance": "25m"
+    },
+    {
+      "brand": "德芙巧克力官方旗舰店(河西龙湖天街店)",
+      "address": "创意路与楠溪江东街交叉口西180米",
+      "distance": "25m"
+    },
+    {
+      "brand": "湾仔码头官方旗舰店",
+      "address": "创意路与楠溪江东街交叉口西180米",
+      "distance": "25m"
+    },
+    {
+      "brand": "脆升升官方旗舰店(河西龙湖天街店)",
+      "address": "创意路与楠溪江东街交叉口西180米",
+      "distance": "25m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "南京金奥缤润汇",
+      "open_date": "2016-11-14",
+      "area": "7.8万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "好邻居生活广场(黄山路店)",
+      "open_date": "-",
+      "area": "-",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 115.0,
+      "within_1yr_pct": 27.0,
+      "1_3yr_pct": 32.2,
+      "over_3yr_pct": 40.9
+    },
+    {
+      "type": "购物",
+      "count": 70.0,
+      "within_1yr_pct": 25.7,
+      "1_3yr_pct": 28.6,
+      "over_3yr_pct": 45.7
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 14.0,
+      "within_1yr_pct": 42.9,
+      "1_3yr_pct": 28.6,
+      "over_3yr_pct": 28.6
+    },
+    {
+      "type": "教育培训",
+      "count": 8.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 25.0,
+      "within_1yr_pct": 8.0,
+      "1_3yr_pct": 20.0,
+      "over_3yr_pct": 72.0
+    },
+    {
+      "type": "生活服务",
+      "count": 45.0,
+      "within_1yr_pct": 31.1,
+      "1_3yr_pct": 22.2,
+      "over_3yr_pct": 46.7
+    },
+    {
+      "type": "运动健身",
+      "count": 11.0,
+      "within_1yr_pct": 18.2,
+      "1_3yr_pct": 45.5,
+      "over_3yr_pct": 36.4
+    },
+    {
+      "type": "车辆服务",
+      "count": 10.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 30.0,
+      "over_3yr_pct": 50.0
+    }
+  ]
+}

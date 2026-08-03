@@ -1,0 +1,415 @@
+{
+  "name": "曹路招商花园城",
+  "city": "上海市",
+  "address": "上海市浦东新区顾唐路128号",
+  "lat": 31.263838,
+  "lng": 121.657006,
+  "overview": {
+    "score": 95.3,
+    "score_rank": "市内前30%",
+    "population_score": 89.9,
+    "area_score": 72.8,
+    "consumption_score": 60.0,
+    "industry_score": 95.5,
+    "annual_sales": "10",
+    "annual_sales_unit": "亿元",
+    "area_size_sqm": 15.47,
+    "open_date": "2023-11-30",
+    "operator": "招商局蛇口工业区控股股份有限公司",
+    "brand": "招商",
+    "type": "美食型",
+    "floors": "B2-L5"
+  },
+  "traffic": {
+    "annual_daily": 3.47,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第71",
+    "jun_total": 158.3,
+    "jun_total_rank": "市内商场第61名",
+    "jun_daily_avg": 5.3,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第61名",
+    "weekday_avg": 4.7,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第65名",
+    "holiday_avg": 6.9,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第53名"
+  },
+  "population": {
+    "residential": {
+      "500m": 1.9,
+      "1_5km": 9.6,
+      "3km": 32.2
+    },
+    "office": {
+      "500m": 1.0,
+      "1_5km": 3.8,
+      "3km": 19.9
+    },
+    "permanent": {
+      "500m": 1.7,
+      "1_5km": 8.0,
+      "3km": 28.0
+    }
+  },
+  "business": {
+    "competitors": 4.0,
+    "food": 262.0,
+    "shopping": 109.0,
+    "leisure": 20.0,
+    "education": 15.0,
+    "hotel": 8.0,
+    "services": 71.0,
+    "fitness": 11.0,
+    "auto": 13.0,
+    "total_stores": 250.0,
+    "old_store_3yr_pct": 52.0
+  },
+  "nearby_poi": {
+    "business": 2.0,
+    "community": 86.0,
+    "office": 10.0,
+    "school": 10.0,
+    "hospital": 18.0,
+    "transport": 6.0,
+    "scenic": 45.0
+  },
+  "demographics": {
+    "male_pct": 46.6,
+    "female_pct": null,
+    "education": {
+      "小学": 8.4,
+      "初中": 17.7,
+      "高中": 21.7,
+      "大专": 7.8,
+      "本科": 38.9,
+      "硕士": 4.7,
+      "博士": 0.8
+    },
+    "has_children_pct": 57.9,
+    "no_children_pct": 42.1
+  },
+  "scraped_at": "2026-08-01T04:59:32.762Z",
+  "nearby_restaurants": [
+    {
+      "brand": "绝味鸭脖(上海浦东新区招商花园城店)",
+      "address": "曹路镇招商花园城顾唐路99号地下1层B1010-07-02室",
+      "distance": "4m"
+    },
+    {
+      "brand": "袁记云饺(曹路招商花园城店)",
+      "address": "曹路镇顾唐路99号地下1层B1010-16室、B1010-17室",
+      "distance": "4m"
+    },
+    {
+      "brand": "正新鸡排(金龙6店)",
+      "address": "曹路镇顾唐路99号招商花园城一层B1010一09号",
+      "distance": "4m"
+    },
+    {
+      "brand": "蜜雪冰城(招商花园城店)",
+      "address": "曹路镇顾唐路99号地下1层B1010-04室",
+      "distance": "4m"
+    },
+    {
+      "brand": "广式烧烤",
+      "address": "顾唐路99号招商花园城",
+      "distance": "6m"
+    },
+    {
+      "brand": "秦碗会陕西biangbiang面(曹路花园城店)",
+      "address": "顾唐路99号招商花园城B1层",
+      "distance": "6m"
+    },
+    {
+      "brand": "热辣江西小炒",
+      "address": "顾唐路与金硕路交叉口东北140米",
+      "distance": "10m"
+    },
+    {
+      "brand": "和府捞面(曹路花园城店)",
+      "address": "顾唐路99号招商花园城B1层",
+      "distance": "12m"
+    },
+    {
+      "brand": "盖饭邦·长沙菜馆(招商花园城店)",
+      "address": "曹路镇曹路招商花园城B1012",
+      "distance": "12m"
+    },
+    {
+      "brand": "吉野家(招商花园城店)",
+      "address": "顾唐路99号招商花园城B1层",
+      "distance": "17m"
+    },
+    {
+      "brand": "绝味鸭脖(上海浦东新区招商花园城店)",
+      "address": "曹路镇招商花园城顾唐路99号地下1层B1010-07-02室",
+      "distance": "4m"
+    },
+    {
+      "brand": "袁记云饺(曹路招商花园城店)",
+      "address": "曹路镇顾唐路99号地下1层B1010-16室、B1010-17室",
+      "distance": "4m"
+    },
+    {
+      "brand": "正新鸡排(金龙6店)",
+      "address": "曹路镇顾唐路99号招商花园城一层B1010一09号",
+      "distance": "4m"
+    },
+    {
+      "brand": "蜜雪冰城(招商花园城店)",
+      "address": "曹路镇顾唐路99号地下1层B1010-04室",
+      "distance": "4m"
+    },
+    {
+      "brand": "广式烧烤",
+      "address": "顾唐路99号招商花园城",
+      "distance": "6m"
+    },
+    {
+      "brand": "秦碗会陕西biangbiang面(曹路花园城店)",
+      "address": "顾唐路99号招商花园城B1层",
+      "distance": "6m"
+    },
+    {
+      "brand": "热辣江西小炒",
+      "address": "顾唐路与金硕路交叉口东北140米",
+      "distance": "10m"
+    },
+    {
+      "brand": "和府捞面(曹路花园城店)",
+      "address": "顾唐路99号招商花园城B1层",
+      "distance": "12m"
+    },
+    {
+      "brand": "盖饭邦·长沙菜馆(招商花园城店)",
+      "address": "曹路镇曹路招商花园城B1012",
+      "distance": "12m"
+    },
+    {
+      "brand": "吉野家(招商花园城店)",
+      "address": "顾唐路99号招商花园城B1层",
+      "distance": "17m"
+    },
+    {
+      "brand": "绝味鸭脖(上海浦东新区招商花园城店)",
+      "address": "曹路镇招商花园城顾唐路99号地下1层B1010-07-02室",
+      "distance": "4m"
+    },
+    {
+      "brand": "袁记云饺(曹路招商花园城店)",
+      "address": "曹路镇顾唐路99号地下1层B1010-16室、B1010-17室",
+      "distance": "4m"
+    },
+    {
+      "brand": "正新鸡排(金龙6店)",
+      "address": "曹路镇顾唐路99号招商花园城一层B1010一09号",
+      "distance": "4m"
+    },
+    {
+      "brand": "蜜雪冰城(招商花园城店)",
+      "address": "曹路镇顾唐路99号地下1层B1010-04室",
+      "distance": "4m"
+    },
+    {
+      "brand": "广式烧烤",
+      "address": "顾唐路99号招商花园城",
+      "distance": "6m"
+    },
+    {
+      "brand": "秦碗会陕西biangbiang面(曹路花园城店)",
+      "address": "顾唐路99号招商花园城B1层",
+      "distance": "6m"
+    },
+    {
+      "brand": "热辣江西小炒",
+      "address": "顾唐路与金硕路交叉口东北140米",
+      "distance": "10m"
+    },
+    {
+      "brand": "和府捞面(曹路花园城店)",
+      "address": "顾唐路99号招商花园城B1层",
+      "distance": "12m"
+    },
+    {
+      "brand": "盖饭邦·长沙菜馆(招商花园城店)",
+      "address": "曹路镇曹路招商花园城B1012",
+      "distance": "12m"
+    },
+    {
+      "brand": "吉野家(招商花园城店)",
+      "address": "顾唐路99号招商花园城B1层",
+      "distance": "17m"
+    },
+    {
+      "brand": "绝味鸭脖(上海浦东新区招商花园城店)",
+      "address": "曹路镇招商花园城顾唐路99号地下1层B1010-07-02室",
+      "distance": "4m"
+    },
+    {
+      "brand": "袁记云饺(曹路招商花园城店)",
+      "address": "曹路镇顾唐路99号地下1层B1010-16室、B1010-17室",
+      "distance": "4m"
+    },
+    {
+      "brand": "正新鸡排(金龙6店)",
+      "address": "曹路镇顾唐路99号招商花园城一层B1010一09号",
+      "distance": "4m"
+    },
+    {
+      "brand": "蜜雪冰城(招商花园城店)",
+      "address": "曹路镇顾唐路99号地下1层B1010-04室",
+      "distance": "4m"
+    },
+    {
+      "brand": "广式烧烤",
+      "address": "顾唐路99号招商花园城",
+      "distance": "6m"
+    },
+    {
+      "brand": "秦碗会陕西biangbiang面(曹路花园城店)",
+      "address": "顾唐路99号招商花园城B1层",
+      "distance": "6m"
+    },
+    {
+      "brand": "热辣江西小炒",
+      "address": "顾唐路与金硕路交叉口东北140米",
+      "distance": "10m"
+    },
+    {
+      "brand": "和府捞面(曹路花园城店)",
+      "address": "顾唐路99号招商花园城B1层",
+      "distance": "12m"
+    },
+    {
+      "brand": "盖饭邦·长沙菜馆(招商花园城店)",
+      "address": "曹路镇曹路招商花园城B1012",
+      "distance": "12m"
+    },
+    {
+      "brand": "吉野家(招商花园城店)",
+      "address": "顾唐路99号招商花园城B1层",
+      "distance": "17m"
+    },
+    {
+      "brand": "绝味鸭脖(上海浦东新区招商花园城店)",
+      "address": "曹路镇招商花园城顾唐路99号地下1层B1010-07-02室",
+      "distance": "4m"
+    },
+    {
+      "brand": "袁记云饺(曹路招商花园城店)",
+      "address": "曹路镇顾唐路99号地下1层B1010-16室、B1010-17室",
+      "distance": "4m"
+    },
+    {
+      "brand": "正新鸡排(金龙6店)",
+      "address": "曹路镇顾唐路99号招商花园城一层B1010一09号",
+      "distance": "4m"
+    },
+    {
+      "brand": "蜜雪冰城(招商花园城店)",
+      "address": "曹路镇顾唐路99号地下1层B1010-04室",
+      "distance": "4m"
+    },
+    {
+      "brand": "广式烧烤",
+      "address": "顾唐路99号招商花园城",
+      "distance": "6m"
+    },
+    {
+      "brand": "秦碗会陕西biangbiang面(曹路花园城店)",
+      "address": "顾唐路99号招商花园城B1层",
+      "distance": "6m"
+    },
+    {
+      "brand": "热辣江西小炒",
+      "address": "顾唐路与金硕路交叉口东北140米",
+      "distance": "10m"
+    },
+    {
+      "brand": "和府捞面(曹路花园城店)",
+      "address": "顾唐路99号招商花园城B1层",
+      "distance": "12m"
+    },
+    {
+      "brand": "盖饭邦·长沙菜馆(招商花园城店)",
+      "address": "曹路镇曹路招商花园城B1012",
+      "distance": "12m"
+    },
+    {
+      "brand": "吉野家(招商花园城店)",
+      "address": "顾唐路99号招商花园城B1层",
+      "distance": "17m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海金泰广场",
+      "open_date": "2019-12-01",
+      "area": "1.6万㎡",
+      "jun_daily_avg": "1.4万人次",
+      "weekday_avg": "1.3万人次",
+      "holiday_avg": "1.5万人次"
+    },
+    {
+      "name": "上海曹路宝龙广场",
+      "open_date": "2013-12-15",
+      "area": "18万㎡",
+      "jun_daily_avg": "1.4万人次",
+      "weekday_avg": "1.3万人次",
+      "holiday_avg": "1.5万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 112.0,
+      "within_1yr_pct": 21.4,
+      "1_3yr_pct": 17.9,
+      "over_3yr_pct": 60.7
+    },
+    {
+      "type": "购物",
+      "count": 87.0,
+      "within_1yr_pct": 27.6,
+      "1_3yr_pct": 24.1,
+      "over_3yr_pct": 48.3
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 12.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 8.3,
+      "over_3yr_pct": 66.7
+    },
+    {
+      "type": "教育培训",
+      "count": 8.0,
+      "within_1yr_pct": 37.5,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 12.5
+    },
+    {
+      "type": "生活服务",
+      "count": 18.0,
+      "within_1yr_pct": 11.1,
+      "1_3yr_pct": 38.9,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "运动健身",
+      "count": 6.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 16.7,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 7.0,
+      "within_1yr_pct": 42.9,
+      "1_3yr_pct": 57.1,
+      "over_3yr_pct": 0.0
+    }
+  ]
+}

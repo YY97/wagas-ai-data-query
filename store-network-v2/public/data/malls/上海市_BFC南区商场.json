@@ -1,0 +1,486 @@
+{
+  "name": "BFC南区商场",
+  "city": "上海市",
+  "address": "上海市黄浦区小东门街道枫泾路BFC外滩金融中心北区",
+  "lat": 31.227202,
+  "lng": 121.497235,
+  "overview": {
+    "score": 95.0,
+    "score_rank": "市内前30%",
+    "population_score": 81.3,
+    "area_score": 76.9,
+    "consumption_score": 86.5,
+    "industry_score": 95.2,
+    "annual_sales": "BFC外滩金融中心是外滩金融集聚带核心位置的全业态沉浸式商业地标，英国传奇建筑事务所Heatherwick Studio和Foster + Partners联合打造，以时尚·艺术·设计为三大核心元素，涵盖办公、购物、艺术中心、酒店、健康管理等，拥有418米的临江视角与180米的建筑天际高度BFC外滩金融中心不仅是大家工作的地方，也是生活和快乐的地方，是全世界最美丽的地方BFC将与所有商户和伙伴们一起努力，让每一位顾客都感到幸福和温暖",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 9.6,
+    "open_date": "2019-12-12",
+    "operator": "上海复地产业发展集团有限公司",
+    "brand": "",
+    "type": "美食型",
+    "floors": ""
+  },
+  "traffic": {
+    "annual_daily": 4.98,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第28",
+    "jun_total": 192.1,
+    "jun_total_rank": "市内商场第37名",
+    "jun_daily_avg": 6.4,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第37名",
+    "weekday_avg": 6.3,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第30名",
+    "holiday_avg": 6.6,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第58名"
+  },
+  "population": {
+    "residential": {
+      "500m": 1.7,
+      "1_5km": 12.6,
+      "3km": 81.4
+    },
+    "office": {
+      "500m": 2.4,
+      "1_5km": 22.0,
+      "3km": 105.0
+    },
+    "permanent": {
+      "500m": 2.4,
+      "1_5km": 17.1,
+      "3km": 99.1
+    }
+  },
+  "business": {
+    "competitors": 6.0,
+    "food": 151.0,
+    "shopping": 123.0,
+    "leisure": 13.0,
+    "education": 5.0,
+    "hotel": 25.0,
+    "services": 81.0,
+    "fitness": 4.0,
+    "auto": 16.0,
+    "total_stores": 244.0,
+    "old_store_3yr_pct": 39.0
+  },
+  "nearby_poi": {
+    "business": 14.0,
+    "community": 685.0,
+    "office": 120.0,
+    "school": 50.0,
+    "hospital": 167.0,
+    "transport": 14.0,
+    "scenic": 783.0
+  },
+  "demographics": {
+    "male_pct": 55.6,
+    "female_pct": null,
+    "education": {
+      "小学": 8.3,
+      "初中": 15.7,
+      "高中": 11.5,
+      "大专": 6.6,
+      "本科": 49.3,
+      "硕士": 6.6,
+      "博士": 2.0
+    },
+    "has_children_pct": 58.3,
+    "no_children_pct": 41.7
+  },
+  "scraped_at": "2026-07-31T12:55:25.284Z",
+  "nearby_restaurants": [
+    {
+      "brand": "大馥和风食堂(BFC外滩金融中心店)",
+      "address": "BFC外滩金融中心北区",
+      "distance": "3m"
+    },
+    {
+      "brand": "Peanut Butter花生酱(BFC外滩金融中心店)",
+      "address": "中山东二路558号BFC北区1层(上海复星艺术中心对面)",
+      "distance": "7m"
+    },
+    {
+      "brand": "小狗汉堡PuppyBurget",
+      "address": "中山东二路600号枫泾步行街",
+      "distance": "8m"
+    },
+    {
+      "brand": "茶逻辑(BFC外滩金融中心店)",
+      "address": "中山东二路600号上海外滩BFC商场1层S117",
+      "distance": "16m"
+    },
+    {
+      "brand": "PAWSBUFF毛爪魔力·宠物烘焙·生日蛋糕·零食鲜食(BFC外滩金融中心店)",
+      "address": "BFC外滩金融中心北区",
+      "distance": "16m"
+    },
+    {
+      "brand": "AIRPARK人类友好公园·咖啡",
+      "address": "枫泾路51号地下一层01部位N-B123、B124单元",
+      "distance": "20m"
+    },
+    {
+      "brand": "M Stand上海BFC外滩二店(阅外滩店)",
+      "address": "枫泾路51号地下二层01部位N-B211B",
+      "distance": "23m"
+    },
+    {
+      "brand": "零互ZERLONEG(BFC店)",
+      "address": "BFC外滩金融中心北区B1层(扶梯入口处)",
+      "distance": "25m"
+    },
+    {
+      "brand": "上海拉比卡咖啡有限公司(中山东二路店)",
+      "address": "外滩金融中心",
+      "distance": "26m"
+    },
+    {
+      "brand": "椿芽鲜牛肉杭州拌川上海外滩BFC中心店",
+      "address": "中山东二路560号",
+      "distance": "30m"
+    },
+    {
+      "brand": "大馥和风食堂(BFC外滩金融中心店)",
+      "address": "BFC外滩金融中心北区",
+      "distance": "3m"
+    },
+    {
+      "brand": "Peanut Butter花生酱(BFC外滩金融中心店)",
+      "address": "中山东二路558号BFC北区1层(上海复星艺术中心对面)",
+      "distance": "7m"
+    },
+    {
+      "brand": "小狗汉堡PuppyBurget",
+      "address": "中山东二路600号枫泾步行街",
+      "distance": "8m"
+    },
+    {
+      "brand": "茶逻辑(BFC外滩金融中心店)",
+      "address": "中山东二路600号上海外滩BFC商场1层S117",
+      "distance": "16m"
+    },
+    {
+      "brand": "PAWSBUFF毛爪魔力·宠物烘焙·生日蛋糕·零食鲜食(BFC外滩金融中心店)",
+      "address": "BFC外滩金融中心北区",
+      "distance": "16m"
+    },
+    {
+      "brand": "AIRPARK人类友好公园·咖啡",
+      "address": "枫泾路51号地下一层01部位N-B123、B124单元",
+      "distance": "20m"
+    },
+    {
+      "brand": "M Stand上海BFC外滩二店(阅外滩店)",
+      "address": "枫泾路51号地下二层01部位N-B211B",
+      "distance": "23m"
+    },
+    {
+      "brand": "零互ZERLONEG(BFC店)",
+      "address": "BFC外滩金融中心北区B1层(扶梯入口处)",
+      "distance": "25m"
+    },
+    {
+      "brand": "上海拉比卡咖啡有限公司(中山东二路店)",
+      "address": "外滩金融中心",
+      "distance": "26m"
+    },
+    {
+      "brand": "椿芽鲜牛肉杭州拌川上海外滩BFC中心店",
+      "address": "中山东二路560号",
+      "distance": "30m"
+    },
+    {
+      "brand": "大馥和风食堂(BFC外滩金融中心店)",
+      "address": "BFC外滩金融中心北区",
+      "distance": "3m"
+    },
+    {
+      "brand": "Peanut Butter花生酱(BFC外滩金融中心店)",
+      "address": "中山东二路558号BFC北区1层(上海复星艺术中心对面)",
+      "distance": "7m"
+    },
+    {
+      "brand": "小狗汉堡PuppyBurget",
+      "address": "中山东二路600号枫泾步行街",
+      "distance": "8m"
+    },
+    {
+      "brand": "茶逻辑(BFC外滩金融中心店)",
+      "address": "中山东二路600号上海外滩BFC商场1层S117",
+      "distance": "16m"
+    },
+    {
+      "brand": "PAWSBUFF毛爪魔力·宠物烘焙·生日蛋糕·零食鲜食(BFC外滩金融中心店)",
+      "address": "BFC外滩金融中心北区",
+      "distance": "16m"
+    },
+    {
+      "brand": "AIRPARK人类友好公园·咖啡",
+      "address": "枫泾路51号地下一层01部位N-B123、B124单元",
+      "distance": "20m"
+    },
+    {
+      "brand": "M Stand上海BFC外滩二店(阅外滩店)",
+      "address": "枫泾路51号地下二层01部位N-B211B",
+      "distance": "23m"
+    },
+    {
+      "brand": "零互ZERLONEG(BFC店)",
+      "address": "BFC外滩金融中心北区B1层(扶梯入口处)",
+      "distance": "25m"
+    },
+    {
+      "brand": "上海拉比卡咖啡有限公司(中山东二路店)",
+      "address": "外滩金融中心",
+      "distance": "26m"
+    },
+    {
+      "brand": "椿芽鲜牛肉杭州拌川上海外滩BFC中心店",
+      "address": "中山东二路560号",
+      "distance": "30m"
+    },
+    {
+      "brand": "大馥和风食堂(BFC外滩金融中心店)",
+      "address": "BFC外滩金融中心北区",
+      "distance": "3m"
+    },
+    {
+      "brand": "Peanut Butter花生酱(BFC外滩金融中心店)",
+      "address": "中山东二路558号BFC北区1层(上海复星艺术中心对面)",
+      "distance": "7m"
+    },
+    {
+      "brand": "小狗汉堡PuppyBurget",
+      "address": "中山东二路600号枫泾步行街",
+      "distance": "8m"
+    },
+    {
+      "brand": "茶逻辑(BFC外滩金融中心店)",
+      "address": "中山东二路600号上海外滩BFC商场1层S117",
+      "distance": "16m"
+    },
+    {
+      "brand": "PAWSBUFF毛爪魔力·宠物烘焙·生日蛋糕·零食鲜食(BFC外滩金融中心店)",
+      "address": "BFC外滩金融中心北区",
+      "distance": "16m"
+    },
+    {
+      "brand": "AIRPARK人类友好公园·咖啡",
+      "address": "枫泾路51号地下一层01部位N-B123、B124单元",
+      "distance": "20m"
+    },
+    {
+      "brand": "M Stand上海BFC外滩二店(阅外滩店)",
+      "address": "枫泾路51号地下二层01部位N-B211B",
+      "distance": "23m"
+    },
+    {
+      "brand": "零互ZERLONEG(BFC店)",
+      "address": "BFC外滩金融中心北区B1层(扶梯入口处)",
+      "distance": "25m"
+    },
+    {
+      "brand": "上海拉比卡咖啡有限公司(中山东二路店)",
+      "address": "外滩金融中心",
+      "distance": "26m"
+    },
+    {
+      "brand": "椿芽鲜牛肉杭州拌川上海外滩BFC中心店",
+      "address": "中山东二路560号",
+      "distance": "30m"
+    },
+    {
+      "brand": "大馥和风食堂(BFC外滩金融中心店)",
+      "address": "BFC外滩金融中心北区",
+      "distance": "3m"
+    },
+    {
+      "brand": "Peanut Butter花生酱(BFC外滩金融中心店)",
+      "address": "中山东二路558号BFC北区1层(上海复星艺术中心对面)",
+      "distance": "7m"
+    },
+    {
+      "brand": "小狗汉堡PuppyBurget",
+      "address": "中山东二路600号枫泾步行街",
+      "distance": "8m"
+    },
+    {
+      "brand": "茶逻辑(BFC外滩金融中心店)",
+      "address": "中山东二路600号上海外滩BFC商场1层S117",
+      "distance": "16m"
+    },
+    {
+      "brand": "PAWSBUFF毛爪魔力·宠物烘焙·生日蛋糕·零食鲜食(BFC外滩金融中心店)",
+      "address": "BFC外滩金融中心北区",
+      "distance": "16m"
+    },
+    {
+      "brand": "AIRPARK人类友好公园·咖啡",
+      "address": "枫泾路51号地下一层01部位N-B123、B124单元",
+      "distance": "20m"
+    },
+    {
+      "brand": "M Stand上海BFC外滩二店(阅外滩店)",
+      "address": "枫泾路51号地下二层01部位N-B211B",
+      "distance": "23m"
+    },
+    {
+      "brand": "零互ZERLONEG(BFC店)",
+      "address": "BFC外滩金融中心北区B1层(扶梯入口处)",
+      "distance": "25m"
+    },
+    {
+      "brand": "上海拉比卡咖啡有限公司(中山东二路店)",
+      "address": "外滩金融中心",
+      "distance": "26m"
+    },
+    {
+      "brand": "椿芽鲜牛肉杭州拌川上海外滩BFC中心店",
+      "address": "中山东二路560号",
+      "distance": "30m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海福佑商厦",
+      "open_date": "1998-01-01",
+      "area": "-",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海豫园商城",
+      "open_date": "-",
+      "area": "1000㎡",
+      "jun_daily_avg": "7.6万人次",
+      "weekday_avg": "6.5万人次",
+      "holiday_avg": "10.7万人次"
+    },
+    {
+      "name": "上海悦园商厦",
+      "open_date": "2005-01-01",
+      "area": "1.7万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "城隍庙第一购物中心(丽水路店)",
+      "open_date": "1995-01-01",
+      "area": "1.6万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海香港名都",
+      "open_date": "2010-09-01",
+      "area": "4万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海融创·外滩壹号汇",
+      "open_date": "2021-11-26",
+      "area": "2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海之品商场",
+      "open_date": "-",
+      "area": "7万㎡",
+      "jun_daily_avg": "3.3万人次",
+      "weekday_avg": "3.4万人次",
+      "holiday_avg": "3.2万人次"
+    },
+    {
+      "name": "上海IFC",
+      "open_date": "2010-04-28",
+      "area": "11万㎡",
+      "jun_daily_avg": "5.2万人次",
+      "weekday_avg": "5.2万人次",
+      "holiday_avg": "5万人次"
+    },
+    {
+      "name": "上海正大广场",
+      "open_date": "2002-01-01",
+      "area": "24.3万㎡",
+      "jun_daily_avg": "5.2万人次",
+      "weekday_avg": "4.7万人次",
+      "holiday_avg": "6.3万人次"
+    },
+    {
+      "name": "上海金茂J·LIFE生活时尚中心",
+      "open_date": "2005-09-01",
+      "area": "2.3万㎡",
+      "jun_daily_avg": "1.4万人次",
+      "weekday_avg": "1.4万人次",
+      "holiday_avg": "1.4万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 94.0,
+      "within_1yr_pct": 31.9,
+      "1_3yr_pct": 25.5,
+      "over_3yr_pct": 42.6
+    },
+    {
+      "type": "购物",
+      "count": 86.0,
+      "within_1yr_pct": 25.6,
+      "1_3yr_pct": 38.4,
+      "over_3yr_pct": 36.0
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 14.0,
+      "within_1yr_pct": 42.9,
+      "1_3yr_pct": 42.9,
+      "over_3yr_pct": 14.3
+    },
+    {
+      "type": "教育培训",
+      "count": 4.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 75.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 4.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 25.0
+    },
+    {
+      "type": "生活服务",
+      "count": 30.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 23.3,
+      "over_3yr_pct": 56.7
+    },
+    {
+      "type": "运动健身",
+      "count": 4.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 25.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 8.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 37.5,
+      "over_3yr_pct": 37.5
+    }
+  ]
+}

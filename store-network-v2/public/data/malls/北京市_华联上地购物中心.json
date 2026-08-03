@@ -1,0 +1,140 @@
+{
+  "name": "华联上地购物中心",
+  "city": "北京市",
+  "address": "北京市海淀区农大南路1号院",
+  "lat": 40.039378,
+  "lng": 116.311873,
+  "overview": {
+    "score": 92.9,
+    "score_rank": "市内前30%",
+    "population_score": 79.5,
+    "area_score": 76.1,
+    "consumption_score": 86.5,
+    "industry_score": 93.1,
+    "annual_sales": "1.2",
+    "annual_sales_unit": "亿元",
+    "area_size_sqm": 4.2,
+    "open_date": "2008-05-01",
+    "operator": "北京华联商厦股份有限公司",
+    "brand": "华联",
+    "type": "美食型",
+    "floors": "B1-L4"
+  },
+  "traffic": {
+    "annual_daily": 2.76,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第81",
+    "jun_total": 66.9,
+    "jun_total_rank": "市内商场第147名",
+    "jun_daily_avg": 2.2,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第147名",
+    "weekday_avg": 2.1,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第153名",
+    "holiday_avg": 2.7,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第142名"
+  },
+  "population": {
+    "residential": {
+      "500m": 1.3,
+      "1_5km": 10.0,
+      "3km": 43.6
+    },
+    "office": {
+      "500m": 1.4,
+      "1_5km": 7.9,
+      "3km": 33.5
+    },
+    "permanent": {
+      "500m": 1.4,
+      "1_5km": 10.7,
+      "3km": 42.5
+    }
+  },
+  "business": {
+    "competitors": 4.0,
+    "food": 137.0,
+    "shopping": 94.0,
+    "leisure": 15.0,
+    "education": 30.0,
+    "hotel": 9.0,
+    "services": 65.0,
+    "fitness": 30.0,
+    "auto": 8.0,
+    "total_stores": 185.0,
+    "old_store_3yr_pct": 60.0
+  },
+  "nearby_poi": {
+    "business": null,
+    "community": 190.0,
+    "office": 58.0,
+    "school": 21.0,
+    "hospital": 36.0,
+    "transport": 4.0,
+    "scenic": 336.0
+  },
+  "demographics": {
+    "male_pct": 45.1,
+    "female_pct": null,
+    "education": {
+      "小学": 7.6,
+      "初中": 13.4,
+      "高中": 13.1,
+      "大专": 5.3,
+      "本科": 46.6,
+      "硕士": 10.8,
+      "博士": 3.2
+    },
+    "has_children_pct": 55.8,
+    "no_children_pct": 44.2
+  },
+  "scraped_at": "2026-08-01T05:31:05.052Z",
+  "nearby_restaurants": [],
+  "nearby_malls": [],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 76.0,
+      "within_1yr_pct": 13.2,
+      "1_3yr_pct": 23.7,
+      "over_3yr_pct": 63.2
+    },
+    {
+      "type": "购物",
+      "count": 66.0,
+      "within_1yr_pct": 15.2,
+      "1_3yr_pct": 18.2,
+      "over_3yr_pct": 66.7
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 8.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 25.0
+    },
+    {
+      "type": "教育培训",
+      "count": 9.0,
+      "within_1yr_pct": 11.1,
+      "1_3yr_pct": 22.2,
+      "over_3yr_pct": 66.7
+    },
+    {
+      "type": "生活服务",
+      "count": 20.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 30.0,
+      "over_3yr_pct": 45.0
+    },
+    {
+      "type": "运动健身",
+      "count": 6.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 66.7,
+      "over_3yr_pct": 33.3
+    }
+  ]
+}

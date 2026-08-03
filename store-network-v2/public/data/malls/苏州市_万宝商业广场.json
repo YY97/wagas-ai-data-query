@@ -1,0 +1,438 @@
+{
+  "name": "万宝商业广场",
+  "city": "苏州市",
+  "address": "江苏省苏州市吴江区中山南路1088号",
+  "lat": 31.130468,
+  "lng": 120.645697,
+  "overview": {
+    "score": 95.4,
+    "score_rank": "市内前30%",
+    "population_score": 88.8,
+    "area_score": 79.4,
+    "consumption_score": 76.2,
+    "industry_score": 95.5,
+    "annual_sales": "万宝财富商业广场是苏州市吴江区第一家真正意义上的大型纯商业综合体，集购物、休闲、餐饮、娱乐、儿童游乐于一体的一站式购物中心，项目引进的商业品牌超过200多家，其中大部分品牌都是首次从一线城市进入吴江区",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 16.0,
+    "open_date": "2015-01-18",
+    "operator": "江苏万宝房地产有限公司",
+    "brand": "",
+    "type": "综合型",
+    "floors": "B2-L3"
+  },
+  "traffic": {
+    "annual_daily": 3.21,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第30",
+    "jun_total": 114.3,
+    "jun_total_rank": "市内商场第43名",
+    "jun_daily_avg": 3.8,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第43名",
+    "weekday_avg": 3.2,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第45名",
+    "holiday_avg": 5.4,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第40名"
+  },
+  "population": {
+    "residential": {
+      "500m": 1.2,
+      "1_5km": 8.9,
+      "3km": 29.3
+    },
+    "office": {
+      "500m": 6800.0,
+      "1_5km": 3.8,
+      "3km": 12.5
+    },
+    "permanent": {
+      "500m": 1.5,
+      "1_5km": 8.1,
+      "3km": 26.0
+    }
+  },
+  "business": {
+    "competitors": 4.0,
+    "food": 222.0,
+    "shopping": 168.0,
+    "leisure": 37.0,
+    "education": 58.0,
+    "hotel": 9.0,
+    "services": 163.0,
+    "fitness": 25.0,
+    "auto": 21.0,
+    "total_stores": 344.0,
+    "old_store_3yr_pct": 55.0
+  },
+  "nearby_poi": {
+    "business": 4.0,
+    "community": 144.0,
+    "office": 18.0,
+    "school": 11.0,
+    "hospital": 27.0,
+    "transport": 8.0,
+    "scenic": 90.0
+  },
+  "demographics": {
+    "male_pct": 45.4,
+    "female_pct": null,
+    "education": {
+      "小学": 12.1,
+      "初中": 20.8,
+      "高中": 11.6,
+      "大专": 9.9,
+      "本科": 42.3,
+      "硕士": 2.7,
+      "博士": 0.6
+    },
+    "has_children_pct": 72.0,
+    "no_children_pct": 28.0
+  },
+  "scraped_at": "2026-08-02T10:47:05.216Z",
+  "nearby_restaurants": [
+    {
+      "brand": "7J吴江万宝店",
+      "address": "万宝财富广场2楼S2063",
+      "distance": "1m"
+    },
+    {
+      "brand": "虎三超·中式饭堂",
+      "address": "中山南路1088号万宝广场1楼鑫震源旁边",
+      "distance": "1m"
+    },
+    {
+      "brand": "CoCo都可(吴江万宝广场)",
+      "address": "松陵街道中山南路1088号万宝财富商业广场三楼Z3002号",
+      "distance": "2m"
+    },
+    {
+      "brand": "绿茶餐厅(苏州吴江万宝店)",
+      "address": "松陵街道中山南路1088号万宝财富商业广场S3017号",
+      "distance": "2m"
+    },
+    {
+      "brand": "百分茶(万宝财富广场店)",
+      "address": "中山南路1088号万宝财富商业广场F3层",
+      "distance": "2m"
+    },
+    {
+      "brand": "塔斯汀中国汉堡(苏州市吴江万宝店)",
+      "address": "万宝财富商业广场C1009号",
+      "distance": "2m"
+    },
+    {
+      "brand": "大叹号烤肉·朝鲜族料理(万宝财富店)",
+      "address": "东太湖生态旅游度假区中山南路万宝财富商业广场二楼大叹号烤肉",
+      "distance": "2m"
+    },
+    {
+      "brand": "米村拌饭(吴江区万宝财富广场店)",
+      "address": "中山南路1088号东兴万宝财富商业广场2层S2027小锅侠隔壁",
+      "distance": "2m"
+    },
+    {
+      "brand": "牛叠叠·围炉现烤牛肉饭(万宝财富广场店)",
+      "address": "中山南路1088号东兴万宝财富商业广场F2层",
+      "distance": "5m"
+    },
+    {
+      "brand": "老乡鸡(吴江万宝商业广场店)",
+      "address": "松陵街道中山南路1088号万宝财富商业广场S3006号",
+      "distance": "7m"
+    },
+    {
+      "brand": "7J吴江万宝店",
+      "address": "万宝财富广场2楼S2063",
+      "distance": "1m"
+    },
+    {
+      "brand": "虎三超·中式饭堂",
+      "address": "中山南路1088号万宝广场1楼鑫震源旁边",
+      "distance": "1m"
+    },
+    {
+      "brand": "CoCo都可(吴江万宝广场)",
+      "address": "松陵街道中山南路1088号万宝财富商业广场三楼Z3002号",
+      "distance": "2m"
+    },
+    {
+      "brand": "绿茶餐厅(苏州吴江万宝店)",
+      "address": "松陵街道中山南路1088号万宝财富商业广场S3017号",
+      "distance": "2m"
+    },
+    {
+      "brand": "百分茶(万宝财富广场店)",
+      "address": "中山南路1088号万宝财富商业广场F3层",
+      "distance": "2m"
+    },
+    {
+      "brand": "塔斯汀中国汉堡(苏州市吴江万宝店)",
+      "address": "万宝财富商业广场C1009号",
+      "distance": "2m"
+    },
+    {
+      "brand": "大叹号烤肉·朝鲜族料理(万宝财富店)",
+      "address": "东太湖生态旅游度假区中山南路万宝财富商业广场二楼大叹号烤肉",
+      "distance": "2m"
+    },
+    {
+      "brand": "米村拌饭(吴江区万宝财富广场店)",
+      "address": "中山南路1088号东兴万宝财富商业广场2层S2027小锅侠隔壁",
+      "distance": "2m"
+    },
+    {
+      "brand": "牛叠叠·围炉现烤牛肉饭(万宝财富广场店)",
+      "address": "中山南路1088号东兴万宝财富商业广场F2层",
+      "distance": "5m"
+    },
+    {
+      "brand": "老乡鸡(吴江万宝商业广场店)",
+      "address": "松陵街道中山南路1088号万宝财富商业广场S3006号",
+      "distance": "7m"
+    },
+    {
+      "brand": "7J吴江万宝店",
+      "address": "万宝财富广场2楼S2063",
+      "distance": "1m"
+    },
+    {
+      "brand": "虎三超·中式饭堂",
+      "address": "中山南路1088号万宝广场1楼鑫震源旁边",
+      "distance": "1m"
+    },
+    {
+      "brand": "CoCo都可(吴江万宝广场)",
+      "address": "松陵街道中山南路1088号万宝财富商业广场三楼Z3002号",
+      "distance": "2m"
+    },
+    {
+      "brand": "绿茶餐厅(苏州吴江万宝店)",
+      "address": "松陵街道中山南路1088号万宝财富商业广场S3017号",
+      "distance": "2m"
+    },
+    {
+      "brand": "百分茶(万宝财富广场店)",
+      "address": "中山南路1088号万宝财富商业广场F3层",
+      "distance": "2m"
+    },
+    {
+      "brand": "塔斯汀中国汉堡(苏州市吴江万宝店)",
+      "address": "万宝财富商业广场C1009号",
+      "distance": "2m"
+    },
+    {
+      "brand": "大叹号烤肉·朝鲜族料理(万宝财富店)",
+      "address": "东太湖生态旅游度假区中山南路万宝财富商业广场二楼大叹号烤肉",
+      "distance": "2m"
+    },
+    {
+      "brand": "米村拌饭(吴江区万宝财富广场店)",
+      "address": "中山南路1088号东兴万宝财富商业广场2层S2027小锅侠隔壁",
+      "distance": "2m"
+    },
+    {
+      "brand": "牛叠叠·围炉现烤牛肉饭(万宝财富广场店)",
+      "address": "中山南路1088号东兴万宝财富商业广场F2层",
+      "distance": "5m"
+    },
+    {
+      "brand": "老乡鸡(吴江万宝商业广场店)",
+      "address": "松陵街道中山南路1088号万宝财富商业广场S3006号",
+      "distance": "7m"
+    },
+    {
+      "brand": "7J吴江万宝店",
+      "address": "万宝财富广场2楼S2063",
+      "distance": "1m"
+    },
+    {
+      "brand": "虎三超·中式饭堂",
+      "address": "中山南路1088号万宝广场1楼鑫震源旁边",
+      "distance": "1m"
+    },
+    {
+      "brand": "CoCo都可(吴江万宝广场)",
+      "address": "松陵街道中山南路1088号万宝财富商业广场三楼Z3002号",
+      "distance": "2m"
+    },
+    {
+      "brand": "绿茶餐厅(苏州吴江万宝店)",
+      "address": "松陵街道中山南路1088号万宝财富商业广场S3017号",
+      "distance": "2m"
+    },
+    {
+      "brand": "百分茶(万宝财富广场店)",
+      "address": "中山南路1088号万宝财富商业广场F3层",
+      "distance": "2m"
+    },
+    {
+      "brand": "塔斯汀中国汉堡(苏州市吴江万宝店)",
+      "address": "万宝财富商业广场C1009号",
+      "distance": "2m"
+    },
+    {
+      "brand": "大叹号烤肉·朝鲜族料理(万宝财富店)",
+      "address": "东太湖生态旅游度假区中山南路万宝财富商业广场二楼大叹号烤肉",
+      "distance": "2m"
+    },
+    {
+      "brand": "米村拌饭(吴江区万宝财富广场店)",
+      "address": "中山南路1088号东兴万宝财富商业广场2层S2027小锅侠隔壁",
+      "distance": "2m"
+    },
+    {
+      "brand": "牛叠叠·围炉现烤牛肉饭(万宝财富广场店)",
+      "address": "中山南路1088号东兴万宝财富商业广场F2层",
+      "distance": "5m"
+    },
+    {
+      "brand": "老乡鸡(吴江万宝商业广场店)",
+      "address": "松陵街道中山南路1088号万宝财富商业广场S3006号",
+      "distance": "7m"
+    },
+    {
+      "brand": "7J吴江万宝店",
+      "address": "万宝财富广场2楼S2063",
+      "distance": "1m"
+    },
+    {
+      "brand": "虎三超·中式饭堂",
+      "address": "中山南路1088号万宝广场1楼鑫震源旁边",
+      "distance": "1m"
+    },
+    {
+      "brand": "CoCo都可(吴江万宝广场)",
+      "address": "松陵街道中山南路1088号万宝财富商业广场三楼Z3002号",
+      "distance": "2m"
+    },
+    {
+      "brand": "绿茶餐厅(苏州吴江万宝店)",
+      "address": "松陵街道中山南路1088号万宝财富商业广场S3017号",
+      "distance": "2m"
+    },
+    {
+      "brand": "百分茶(万宝财富广场店)",
+      "address": "中山南路1088号万宝财富商业广场F3层",
+      "distance": "2m"
+    },
+    {
+      "brand": "塔斯汀中国汉堡(苏州市吴江万宝店)",
+      "address": "万宝财富商业广场C1009号",
+      "distance": "2m"
+    },
+    {
+      "brand": "大叹号烤肉·朝鲜族料理(万宝财富店)",
+      "address": "东太湖生态旅游度假区中山南路万宝财富商业广场二楼大叹号烤肉",
+      "distance": "2m"
+    },
+    {
+      "brand": "米村拌饭(吴江区万宝财富广场店)",
+      "address": "中山南路1088号东兴万宝财富商业广场2层S2027小锅侠隔壁",
+      "distance": "2m"
+    },
+    {
+      "brand": "牛叠叠·围炉现烤牛肉饭(万宝财富广场店)",
+      "address": "中山南路1088号东兴万宝财富商业广场F2层",
+      "distance": "5m"
+    },
+    {
+      "brand": "老乡鸡(吴江万宝商业广场店)",
+      "address": "松陵街道中山南路1088号万宝财富商业广场S3006号",
+      "distance": "7m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "苏州恒业站前广场",
+      "open_date": "2018-10-01",
+      "area": "4.5万㎡",
+      "jun_daily_avg": "1.5万人次",
+      "weekday_avg": "1.3万人次",
+      "holiday_avg": "1.8万人次"
+    },
+    {
+      "name": "苏州邻里广场",
+      "open_date": "2022-12-25",
+      "area": "2.9万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "苏州吴江南方时代广场",
+      "open_date": "2021-11-12",
+      "area": "3.7万㎡",
+      "jun_daily_avg": "1.5万人次",
+      "weekday_avg": "1.3万人次",
+      "holiday_avg": "1.8万人次"
+    },
+    {
+      "name": "苏州路劲又一城",
+      "open_date": "2018-03-31",
+      "area": "5万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 137.0,
+      "within_1yr_pct": 16.1,
+      "1_3yr_pct": 34.3,
+      "over_3yr_pct": 49.6
+    },
+    {
+      "type": "购物",
+      "count": 118.0,
+      "within_1yr_pct": 7.6,
+      "1_3yr_pct": 22.9,
+      "over_3yr_pct": 69.5
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 13.0,
+      "within_1yr_pct": 23.1,
+      "1_3yr_pct": 38.5,
+      "over_3yr_pct": 38.5
+    },
+    {
+      "type": "教育培训",
+      "count": 16.0,
+      "within_1yr_pct": 12.5,
+      "1_3yr_pct": 12.5,
+      "over_3yr_pct": 75.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "生活服务",
+      "count": 46.0,
+      "within_1yr_pct": 23.9,
+      "1_3yr_pct": 30.4,
+      "over_3yr_pct": 45.7
+    },
+    {
+      "type": "运动健身",
+      "count": 5.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 60.0,
+      "over_3yr_pct": 20.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 8.0,
+      "within_1yr_pct": 37.5,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 12.5
+    }
+  ]
+}

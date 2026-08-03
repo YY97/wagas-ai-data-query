@@ -1,0 +1,160 @@
+{
+  "name": "曲阳生活购物中心",
+  "city": "上海市",
+  "address": "上海市虹口区曲阳路566号(曲阳路地铁站6号口步行320米)",
+  "lat": 31.279692,
+  "lng": 121.491148,
+  "overview": {
+    "score": 85.0,
+    "score_rank": "市内前30%",
+    "population_score": 100.0,
+    "area_score": 69.4,
+    "consumption_score": 75.9,
+    "industry_score": 85.0,
+    "annual_sales": "上海曲阳生活购物中心位于虹口区曲阳路800号，前身是上海商务中心，后经过改造升级成为百联曲阳购物中心百联曲阳购物中心是一个社交型体验式购物中心，主要面向社区客群、辅以高校年轻潮人及精致商务白领，主打精神文化娱乐活力互动新生活购物中心提供了多元化的社交平台，加深社区居民间场景式的互动、体验，创造一个更具人情味的社交空间百联曲阳购物中心拥有丰富的业态，包括零售、教育、娱乐等，并且定期举办亲子社群活动，如绘画、手工、烘焙等，为家庭提供沉浸式亲子互动体验2024年11月11日，曲阳生活购物中心外立面发生火灾，导致商场停业检查，具体恢复营业时间还不确定",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 6.0,
+    "open_date": "2019-12-15",
+    "operator": "上海曲阳生活购物中心有限公司",
+    "brand": "",
+    "type": "美食型",
+    "floors": "L1-L6"
+  },
+  "traffic": {
+    "annual_daily": 1589.0,
+    "annual_daily_unit": "人次",
+    "annual_daily_rank": "市内第487",
+    "jun_total": null,
+    "jun_total_rank": "",
+    "jun_daily_avg": null,
+    "jun_daily_unit": "",
+    "jun_daily_rank": "",
+    "weekday_avg": null,
+    "weekday_unit": "",
+    "weekday_rank": "",
+    "holiday_avg": null,
+    "holiday_unit": "",
+    "holiday_rank": ""
+  },
+  "population": {
+    "residential": {
+      "500m": 4.7,
+      "1_5km": 32.4,
+      "3km": 123.3
+    },
+    "office": {
+      "500m": 1.8,
+      "1_5km": 16.8,
+      "3km": 64.4
+    },
+    "permanent": {
+      "500m": 4.9,
+      "1_5km": 32.4,
+      "3km": 124.9
+    }
+  },
+  "business": {
+    "competitors": null,
+    "food": 111.0,
+    "shopping": 33.0,
+    "leisure": 7.0,
+    "education": 16.0,
+    "hotel": 12.0,
+    "services": 77.0,
+    "fitness": 7.0,
+    "auto": 3.0,
+    "total_stores": 82.0,
+    "old_store_3yr_pct": 50.0
+  },
+  "nearby_poi": {
+    "business": 2.0,
+    "community": 931.0,
+    "office": 97.0,
+    "school": 73.0,
+    "hospital": 99.0,
+    "transport": 12.0,
+    "scenic": 242.0
+  },
+  "demographics": {
+    "male_pct": 47.7,
+    "female_pct": null,
+    "education": {
+      "小学": 9.2,
+      "初中": 18.4,
+      "高中": 12.4,
+      "大专": 7.0,
+      "本科": 46.6,
+      "硕士": 4.7,
+      "博士": 1.7
+    },
+    "has_children_pct": 57.0,
+    "no_children_pct": 43.0
+  },
+  "scraped_at": "2026-08-02T03:06:27.581Z",
+  "nearby_restaurants": [
+    {
+      "brand": "谷吉来清汤牛肉面",
+      "address": "虹口区东体育会路727号",
+      "distance": "499m"
+    }
+  ],
+  "nearby_malls": [],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 58.0,
+      "within_1yr_pct": 41.4,
+      "1_3yr_pct": 20.7,
+      "over_3yr_pct": 37.9
+    },
+    {
+      "type": "购物",
+      "count": 3.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "教育培训",
+      "count": 6.0,
+      "within_1yr_pct": 16.7,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 83.3
+    },
+    {
+      "type": "酒店住宿",
+      "count": 1.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "生活服务",
+      "count": 6.0,
+      "within_1yr_pct": 16.7,
+      "1_3yr_pct": 16.7,
+      "over_3yr_pct": 66.7
+    },
+    {
+      "type": "运动健身",
+      "count": 5.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    }
+  ]
+}

@@ -1,0 +1,478 @@
+{
+  "name": "上海尚嘉中心",
+  "city": "上海市",
+  "address": "上海市长宁区仙霞路99号",
+  "lat": 31.205688,
+  "lng": 121.407137,
+  "overview": {
+    "score": 90.5,
+    "score_rank": "市内前30%",
+    "population_score": 92.8,
+    "area_score": 90.6,
+    "consumption_score": 77.3,
+    "industry_score": 90.5,
+    "annual_sales": "上海尚嘉中心位于仙霞路遵义路口，总建筑面积14万平方米，建筑总高134米，地面28层，地下4层，其中4.7万平方米超甲级写字楼，4.9万平方米商业设施，其余为配套设施用房，总投资5亿美元。尚嘉中心外形如一只“金靴”、被称为“LV大厦”，为“新虹桥-天山”市级商圈地标性建筑，获“美国能源与环境设计(LEED)金级预认证”奖项",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 4.9,
+    "open_date": "2013-06-01",
+    "operator": "尚嘉国际控股有限公司",
+    "brand": "",
+    "type": "购物型",
+    "floors": "B2-L4"
+  },
+  "traffic": {
+    "annual_daily": 9452.0,
+    "annual_daily_unit": "人次",
+    "annual_daily_rank": "市内第261",
+    "jun_total": 46.9,
+    "jun_total_rank": "市内商场第224名",
+    "jun_daily_avg": 1.6,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第224名",
+    "weekday_avg": 1.7,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第204名",
+    "holiday_avg": 1.3,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第279名"
+  },
+  "population": {
+    "residential": {
+      "500m": 2.7,
+      "1_5km": 23.5,
+      "3km": 84.4
+    },
+    "office": {
+      "500m": 5.0,
+      "1_5km": 22.7,
+      "3km": 69.0
+    },
+    "permanent": {
+      "500m": 3.4,
+      "1_5km": 26.7,
+      "3km": 91.2
+    }
+  },
+  "business": {
+    "competitors": 13.0,
+    "food": 418.0,
+    "shopping": 208.0,
+    "leisure": 27.0,
+    "education": 33.0,
+    "hotel": 29.0,
+    "services": 154.0,
+    "fitness": 41.0,
+    "auto": 41.0,
+    "total_stores": 148.0,
+    "old_store_3yr_pct": 43.0
+  },
+  "nearby_poi": {
+    "business": 9.0,
+    "community": 853.0,
+    "office": 112.0,
+    "school": 49.0,
+    "hospital": 142.0,
+    "transport": 12.0,
+    "scenic": 316.0
+  },
+  "demographics": {
+    "male_pct": 53.4,
+    "female_pct": null,
+    "education": {
+      "小学": 8.8,
+      "初中": 17.1,
+      "高中": 11.8,
+      "大专": 6.7,
+      "本科": 48.4,
+      "硕士": 5.4,
+      "博士": 1.8
+    },
+    "has_children_pct": 63.6,
+    "no_children_pct": 36.4
+  },
+  "scraped_at": "2026-07-31T16:05:20.630Z",
+  "nearby_restaurants": [
+    {
+      "brand": "大山猫(尚嘉中心店)",
+      "address": "仙霞路99号尚嘉中心LG2层",
+      "distance": "1m"
+    },
+    {
+      "brand": "华国隆烧腊皇(尚嘉中心店)",
+      "address": "仙霞路99号尚嘉中心LG2楼福禄吉市05号",
+      "distance": "1m"
+    },
+    {
+      "brand": "THE PHO这越南河粉",
+      "address": "遵义路与紫云路交叉口东南100米",
+      "distance": "2m"
+    },
+    {
+      "brand": "福禄小厨·湘味现炒·智选餐厅",
+      "address": "遵义路与紫云路交叉口东南100米",
+      "distance": "2m"
+    },
+    {
+      "brand": "NIBU牧场酸奶",
+      "address": "仙霞路99号尚嘉中心地下二层LG2-1C-C01",
+      "distance": "2m"
+    },
+    {
+      "brand": "玛尔疆新疆美食",
+      "address": "仙霞路99号尚嘉中心",
+      "distance": "2m"
+    },
+    {
+      "brand": "leafloaf轻食",
+      "address": "仙霞路99号尚嘉中心B2层LG2-A16",
+      "distance": "3m"
+    },
+    {
+      "brand": "张正发茶餐厅(尚嘉中心店)",
+      "address": "仙霞路99号LG2-B02号",
+      "distance": "3m"
+    },
+    {
+      "brand": "九厨·淮扬(尚嘉中心店)",
+      "address": "仙霞路99号尚嘉中心L4层",
+      "distance": "3m"
+    },
+    {
+      "brand": "超级碗 FOODBOWL(尚嘉中心店)",
+      "address": "天山路街道仙霞路99号尚嘉中心LG115B室",
+      "distance": "3m"
+    },
+    {
+      "brand": "大山猫(尚嘉中心店)",
+      "address": "仙霞路99号尚嘉中心LG2层",
+      "distance": "1m"
+    },
+    {
+      "brand": "华国隆烧腊皇(尚嘉中心店)",
+      "address": "仙霞路99号尚嘉中心LG2楼福禄吉市05号",
+      "distance": "1m"
+    },
+    {
+      "brand": "THE PHO这越南河粉",
+      "address": "遵义路与紫云路交叉口东南100米",
+      "distance": "2m"
+    },
+    {
+      "brand": "福禄小厨·湘味现炒·智选餐厅",
+      "address": "遵义路与紫云路交叉口东南100米",
+      "distance": "2m"
+    },
+    {
+      "brand": "NIBU牧场酸奶",
+      "address": "仙霞路99号尚嘉中心地下二层LG2-1C-C01",
+      "distance": "2m"
+    },
+    {
+      "brand": "玛尔疆新疆美食",
+      "address": "仙霞路99号尚嘉中心",
+      "distance": "2m"
+    },
+    {
+      "brand": "leafloaf轻食",
+      "address": "仙霞路99号尚嘉中心B2层LG2-A16",
+      "distance": "3m"
+    },
+    {
+      "brand": "张正发茶餐厅(尚嘉中心店)",
+      "address": "仙霞路99号LG2-B02号",
+      "distance": "3m"
+    },
+    {
+      "brand": "九厨·淮扬(尚嘉中心店)",
+      "address": "仙霞路99号尚嘉中心L4层",
+      "distance": "3m"
+    },
+    {
+      "brand": "超级碗 FOODBOWL(尚嘉中心店)",
+      "address": "天山路街道仙霞路99号尚嘉中心LG115B室",
+      "distance": "3m"
+    },
+    {
+      "brand": "大山猫(尚嘉中心店)",
+      "address": "仙霞路99号尚嘉中心LG2层",
+      "distance": "1m"
+    },
+    {
+      "brand": "华国隆烧腊皇(尚嘉中心店)",
+      "address": "仙霞路99号尚嘉中心LG2楼福禄吉市05号",
+      "distance": "1m"
+    },
+    {
+      "brand": "THE PHO这越南河粉",
+      "address": "遵义路与紫云路交叉口东南100米",
+      "distance": "2m"
+    },
+    {
+      "brand": "福禄小厨·湘味现炒·智选餐厅",
+      "address": "遵义路与紫云路交叉口东南100米",
+      "distance": "2m"
+    },
+    {
+      "brand": "NIBU牧场酸奶",
+      "address": "仙霞路99号尚嘉中心地下二层LG2-1C-C01",
+      "distance": "2m"
+    },
+    {
+      "brand": "玛尔疆新疆美食",
+      "address": "仙霞路99号尚嘉中心",
+      "distance": "2m"
+    },
+    {
+      "brand": "leafloaf轻食",
+      "address": "仙霞路99号尚嘉中心B2层LG2-A16",
+      "distance": "3m"
+    },
+    {
+      "brand": "张正发茶餐厅(尚嘉中心店)",
+      "address": "仙霞路99号LG2-B02号",
+      "distance": "3m"
+    },
+    {
+      "brand": "九厨·淮扬(尚嘉中心店)",
+      "address": "仙霞路99号尚嘉中心L4层",
+      "distance": "3m"
+    },
+    {
+      "brand": "超级碗 FOODBOWL(尚嘉中心店)",
+      "address": "天山路街道仙霞路99号尚嘉中心LG115B室",
+      "distance": "3m"
+    },
+    {
+      "brand": "大山猫(尚嘉中心店)",
+      "address": "仙霞路99号尚嘉中心LG2层",
+      "distance": "1m"
+    },
+    {
+      "brand": "华国隆烧腊皇(尚嘉中心店)",
+      "address": "仙霞路99号尚嘉中心LG2楼福禄吉市05号",
+      "distance": "1m"
+    },
+    {
+      "brand": "THE PHO这越南河粉",
+      "address": "遵义路与紫云路交叉口东南100米",
+      "distance": "2m"
+    },
+    {
+      "brand": "福禄小厨·湘味现炒·智选餐厅",
+      "address": "遵义路与紫云路交叉口东南100米",
+      "distance": "2m"
+    },
+    {
+      "brand": "NIBU牧场酸奶",
+      "address": "仙霞路99号尚嘉中心地下二层LG2-1C-C01",
+      "distance": "2m"
+    },
+    {
+      "brand": "玛尔疆新疆美食",
+      "address": "仙霞路99号尚嘉中心",
+      "distance": "2m"
+    },
+    {
+      "brand": "leafloaf轻食",
+      "address": "仙霞路99号尚嘉中心B2层LG2-A16",
+      "distance": "3m"
+    },
+    {
+      "brand": "张正发茶餐厅(尚嘉中心店)",
+      "address": "仙霞路99号LG2-B02号",
+      "distance": "3m"
+    },
+    {
+      "brand": "九厨·淮扬(尚嘉中心店)",
+      "address": "仙霞路99号尚嘉中心L4层",
+      "distance": "3m"
+    },
+    {
+      "brand": "超级碗 FOODBOWL(尚嘉中心店)",
+      "address": "天山路街道仙霞路99号尚嘉中心LG115B室",
+      "distance": "3m"
+    },
+    {
+      "brand": "大山猫(尚嘉中心店)",
+      "address": "仙霞路99号尚嘉中心LG2层",
+      "distance": "1m"
+    },
+    {
+      "brand": "华国隆烧腊皇(尚嘉中心店)",
+      "address": "仙霞路99号尚嘉中心LG2楼福禄吉市05号",
+      "distance": "1m"
+    },
+    {
+      "brand": "THE PHO这越南河粉",
+      "address": "遵义路与紫云路交叉口东南100米",
+      "distance": "2m"
+    },
+    {
+      "brand": "福禄小厨·湘味现炒·智选餐厅",
+      "address": "遵义路与紫云路交叉口东南100米",
+      "distance": "2m"
+    },
+    {
+      "brand": "NIBU牧场酸奶",
+      "address": "仙霞路99号尚嘉中心地下二层LG2-1C-C01",
+      "distance": "2m"
+    },
+    {
+      "brand": "玛尔疆新疆美食",
+      "address": "仙霞路99号尚嘉中心",
+      "distance": "2m"
+    },
+    {
+      "brand": "leafloaf轻食",
+      "address": "仙霞路99号尚嘉中心B2层LG2-A16",
+      "distance": "3m"
+    },
+    {
+      "brand": "张正发茶餐厅(尚嘉中心店)",
+      "address": "仙霞路99号LG2-B02号",
+      "distance": "3m"
+    },
+    {
+      "brand": "九厨·淮扬(尚嘉中心店)",
+      "address": "仙霞路99号尚嘉中心L4层",
+      "distance": "3m"
+    },
+    {
+      "brand": "超级碗 FOODBOWL(尚嘉中心店)",
+      "address": "天山路街道仙霞路99号尚嘉中心LG115B室",
+      "distance": "3m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海虹桥南丰城",
+      "open_date": "2014-12-19",
+      "area": "11万㎡",
+      "jun_daily_avg": "5.6万人次",
+      "weekday_avg": "5.5万人次",
+      "holiday_avg": "6万人次"
+    },
+    {
+      "name": "上海金虹桥商场",
+      "open_date": "2014-09-26",
+      "area": "8.3万㎡",
+      "jun_daily_avg": "4.6万人次",
+      "weekday_avg": "4.6万人次",
+      "holiday_avg": "4.5万人次"
+    },
+    {
+      "name": "上海百盛优客城市广场",
+      "open_date": "2015-12-19",
+      "area": "5万㎡",
+      "jun_daily_avg": "3万人次",
+      "weekday_avg": "2.7万人次",
+      "holiday_avg": "3.6万人次"
+    },
+    {
+      "name": "上海汇金百货(虹桥店)",
+      "open_date": "2008-12-01",
+      "area": "4万㎡",
+      "jun_daily_avg": "1.3万人次",
+      "weekday_avg": "1.2万人次",
+      "holiday_avg": "1.5万人次"
+    },
+    {
+      "name": "上海世贸商城",
+      "open_date": "1999-01-01",
+      "area": "19万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海巴黎春天(天山店)",
+      "open_date": "2013-01-01",
+      "area": "4.3万㎡",
+      "jun_daily_avg": "3.6万人次",
+      "weekday_avg": "3.4万人次",
+      "holiday_avg": "4.1万人次"
+    },
+    {
+      "name": "上海高岛屋百货",
+      "open_date": "2012-12-01",
+      "area": "6.7万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海长宁来福士广场",
+      "open_date": "2017-06-30",
+      "area": "12万㎡",
+      "jun_daily_avg": "3.6万人次",
+      "weekday_avg": "3.4万人次",
+      "holiday_avg": "4.1万人次"
+    },
+    {
+      "name": "上海星空广场",
+      "open_date": "2015-09-27",
+      "area": "6.5万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 64.0,
+      "within_1yr_pct": 54.7,
+      "1_3yr_pct": 21.9,
+      "over_3yr_pct": 23.4
+    },
+    {
+      "type": "购物",
+      "count": 58.0,
+      "within_1yr_pct": 20.7,
+      "1_3yr_pct": 15.5,
+      "over_3yr_pct": 63.8
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 5.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 80.0,
+      "over_3yr_pct": 20.0
+    },
+    {
+      "type": "教育培训",
+      "count": 3.0,
+      "within_1yr_pct": 66.7,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 1.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "生活服务",
+      "count": 10.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 80.0
+    },
+    {
+      "type": "运动健身",
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 5.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 40.0,
+      "over_3yr_pct": 40.0
+    }
+  ]
+}

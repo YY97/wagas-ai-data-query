@@ -1,0 +1,472 @@
+{
+  "name": "兴业太古汇",
+  "city": "上海市",
+  "address": "上海市静安区石门一路288号",
+  "lat": 31.228616,
+  "lng": 121.463219,
+  "overview": {
+    "score": 95.2,
+    "score_rank": "市内前30%",
+    "population_score": 88.4,
+    "area_score": 100.0,
+    "consumption_score": 90.4,
+    "industry_score": 95.2,
+    "annual_sales": "兴业太古汇是上海市地标级商业综合项目，位处上海主要购物区南京西路商圈核心地段。这个潮奢生活时尚发展项目包括一座购物中心、两幢甲级办公楼、两家精品酒店、一家公寓式酒店，以及一幢百年历史建筑查公馆。兴业太古汇场域由石门一路、商场南北内线、愉景大道三条平行动线构成，坐拥北广场、南花园两个室外大型活动广场，更配备一个全天候、开放式的多功能厅和一个独特的市中心屋顶花园，全场域灵活联动，释放无尽潮奢灵感",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 10.3,
+    "open_date": "2017-11-03",
+    "operator": "太古地产有限公司",
+    "brand": "太古地产有限公司",
+    "type": "购物型",
+    "floors": "B2-L4"
+  },
+  "traffic": {
+    "annual_daily": 3.3,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第75",
+    "jun_total": 179.7,
+    "jun_total_rank": "市内商场第46名",
+    "jun_daily_avg": 6.0,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第46名",
+    "weekday_avg": 5.9,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第37名",
+    "holiday_avg": 6.4,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第61名"
+  },
+  "population": {
+    "residential": {
+      "500m": 2.1,
+      "1_5km": 19.3,
+      "3km": 91.0
+    },
+    "office": {
+      "500m": 5.5,
+      "1_5km": 31.7,
+      "3km": 112.7
+    },
+    "permanent": {
+      "500m": 3.2,
+      "1_5km": 26.2,
+      "3km": 114.6
+    }
+  },
+  "business": {
+    "competitors": 15.0,
+    "food": 483.0,
+    "shopping": 455.0,
+    "leisure": 40.0,
+    "education": 41.0,
+    "hotel": 103.0,
+    "services": 330.0,
+    "fitness": 42.0,
+    "auto": 34.0,
+    "total_stores": 267.0,
+    "old_store_3yr_pct": 46.0
+  },
+  "nearby_poi": {
+    "business": 35.0,
+    "community": 1149.0,
+    "office": 206.0,
+    "school": 67.0,
+    "hospital": 229.0,
+    "transport": 15.0,
+    "scenic": 959.0
+  },
+  "demographics": {
+    "male_pct": 46.1,
+    "female_pct": null,
+    "education": {
+      "小学": 9.1,
+      "初中": 17.9,
+      "高中": 11.9,
+      "大专": 6.8,
+      "本科": 47.9,
+      "硕士": 4.7,
+      "博士": 1.7
+    },
+    "has_children_pct": 58.4,
+    "no_children_pct": 41.6
+  },
+  "scraped_at": "2026-07-31T12:50:04.326Z",
+  "nearby_restaurants": [
+    {
+      "brand": "面包新语(兴业太古汇店)",
+      "address": "兴业太古汇LG2层地铁13号线通道内",
+      "distance": "4m"
+    },
+    {
+      "brand": "野人先生Gelato(上海兴业太古汇店)",
+      "address": "石门一路288号兴业太古汇M45号商铺",
+      "distance": "5m"
+    },
+    {
+      "brand": "何洪记(兴业太古汇店)",
+      "address": "石门一路288号L324室(香港兴业太古汇3楼)",
+      "distance": "26m"
+    },
+    {
+      "brand": "LUNABERRi希腊酸奶碗(上海兴业太古汇店)",
+      "address": "南京西路街道石门一路288号兴业太古汇商场LG217",
+      "distance": "27m"
+    },
+    {
+      "brand": "外物食樘(太古汇店)",
+      "address": "南京西路789号兴业太古汇LG2层Citysuper内",
+      "distance": "28m"
+    },
+    {
+      "brand": "ZEGNA Caffe(兴业太古汇店)",
+      "address": "南京西路789号兴业太古汇L128店铺",
+      "distance": "29m"
+    },
+    {
+      "brand": "杰尼亚咖啡店(兴业太古汇店)",
+      "address": "南京西路789号兴业太古汇一层",
+      "distance": "29m"
+    },
+    {
+      "brand": "贝果树·纽约贝果博物馆",
+      "address": "石门一路288号兴业太古汇(南京西路地铁站6号口旁)",
+      "distance": "29m"
+    },
+    {
+      "brand": "星巴克臻选(上海香港兴业中心二座店)",
+      "address": "石门一路288号兴业太古汇L1层(南京西路地铁站6号口旁)",
+      "distance": "31m"
+    },
+    {
+      "brand": "ILDG冰淇淋实验室(上海兴业太古汇店))",
+      "address": "兴业太古汇L1-105-113(南京西路地铁站6号口旁)",
+      "distance": "34m"
+    },
+    {
+      "brand": "面包新语(兴业太古汇店)",
+      "address": "兴业太古汇LG2层地铁13号线通道内",
+      "distance": "4m"
+    },
+    {
+      "brand": "野人先生Gelato(上海兴业太古汇店)",
+      "address": "石门一路288号兴业太古汇M45号商铺",
+      "distance": "5m"
+    },
+    {
+      "brand": "何洪记(兴业太古汇店)",
+      "address": "石门一路288号L324室(香港兴业太古汇3楼)",
+      "distance": "26m"
+    },
+    {
+      "brand": "LUNABERRi希腊酸奶碗(上海兴业太古汇店)",
+      "address": "南京西路街道石门一路288号兴业太古汇商场LG217",
+      "distance": "27m"
+    },
+    {
+      "brand": "外物食樘(太古汇店)",
+      "address": "南京西路789号兴业太古汇LG2层Citysuper内",
+      "distance": "28m"
+    },
+    {
+      "brand": "ZEGNA Caffe(兴业太古汇店)",
+      "address": "南京西路789号兴业太古汇L128店铺",
+      "distance": "29m"
+    },
+    {
+      "brand": "杰尼亚咖啡店(兴业太古汇店)",
+      "address": "南京西路789号兴业太古汇一层",
+      "distance": "29m"
+    },
+    {
+      "brand": "贝果树·纽约贝果博物馆",
+      "address": "石门一路288号兴业太古汇(南京西路地铁站6号口旁)",
+      "distance": "29m"
+    },
+    {
+      "brand": "星巴克臻选(上海香港兴业中心二座店)",
+      "address": "石门一路288号兴业太古汇L1层(南京西路地铁站6号口旁)",
+      "distance": "31m"
+    },
+    {
+      "brand": "ILDG冰淇淋实验室(上海兴业太古汇店))",
+      "address": "兴业太古汇L1-105-113(南京西路地铁站6号口旁)",
+      "distance": "34m"
+    },
+    {
+      "brand": "面包新语(兴业太古汇店)",
+      "address": "兴业太古汇LG2层地铁13号线通道内",
+      "distance": "4m"
+    },
+    {
+      "brand": "野人先生Gelato(上海兴业太古汇店)",
+      "address": "石门一路288号兴业太古汇M45号商铺",
+      "distance": "5m"
+    },
+    {
+      "brand": "何洪记(兴业太古汇店)",
+      "address": "石门一路288号L324室(香港兴业太古汇3楼)",
+      "distance": "26m"
+    },
+    {
+      "brand": "LUNABERRi希腊酸奶碗(上海兴业太古汇店)",
+      "address": "南京西路街道石门一路288号兴业太古汇商场LG217",
+      "distance": "27m"
+    },
+    {
+      "brand": "外物食樘(太古汇店)",
+      "address": "南京西路789号兴业太古汇LG2层Citysuper内",
+      "distance": "28m"
+    },
+    {
+      "brand": "ZEGNA Caffe(兴业太古汇店)",
+      "address": "南京西路789号兴业太古汇L128店铺",
+      "distance": "29m"
+    },
+    {
+      "brand": "杰尼亚咖啡店(兴业太古汇店)",
+      "address": "南京西路789号兴业太古汇一层",
+      "distance": "29m"
+    },
+    {
+      "brand": "贝果树·纽约贝果博物馆",
+      "address": "石门一路288号兴业太古汇(南京西路地铁站6号口旁)",
+      "distance": "29m"
+    },
+    {
+      "brand": "星巴克臻选(上海香港兴业中心二座店)",
+      "address": "石门一路288号兴业太古汇L1层(南京西路地铁站6号口旁)",
+      "distance": "31m"
+    },
+    {
+      "brand": "ILDG冰淇淋实验室(上海兴业太古汇店))",
+      "address": "兴业太古汇L1-105-113(南京西路地铁站6号口旁)",
+      "distance": "34m"
+    },
+    {
+      "brand": "面包新语(兴业太古汇店)",
+      "address": "兴业太古汇LG2层地铁13号线通道内",
+      "distance": "4m"
+    },
+    {
+      "brand": "野人先生Gelato(上海兴业太古汇店)",
+      "address": "石门一路288号兴业太古汇M45号商铺",
+      "distance": "5m"
+    },
+    {
+      "brand": "何洪记(兴业太古汇店)",
+      "address": "石门一路288号L324室(香港兴业太古汇3楼)",
+      "distance": "26m"
+    },
+    {
+      "brand": "LUNABERRi希腊酸奶碗(上海兴业太古汇店)",
+      "address": "南京西路街道石门一路288号兴业太古汇商场LG217",
+      "distance": "27m"
+    },
+    {
+      "brand": "外物食樘(太古汇店)",
+      "address": "南京西路789号兴业太古汇LG2层Citysuper内",
+      "distance": "28m"
+    },
+    {
+      "brand": "ZEGNA Caffe(兴业太古汇店)",
+      "address": "南京西路789号兴业太古汇L128店铺",
+      "distance": "29m"
+    },
+    {
+      "brand": "杰尼亚咖啡店(兴业太古汇店)",
+      "address": "南京西路789号兴业太古汇一层",
+      "distance": "29m"
+    },
+    {
+      "brand": "贝果树·纽约贝果博物馆",
+      "address": "石门一路288号兴业太古汇(南京西路地铁站6号口旁)",
+      "distance": "29m"
+    },
+    {
+      "brand": "星巴克臻选(上海香港兴业中心二座店)",
+      "address": "石门一路288号兴业太古汇L1层(南京西路地铁站6号口旁)",
+      "distance": "31m"
+    },
+    {
+      "brand": "ILDG冰淇淋实验室(上海兴业太古汇店))",
+      "address": "兴业太古汇L1-105-113(南京西路地铁站6号口旁)",
+      "distance": "34m"
+    },
+    {
+      "brand": "面包新语(兴业太古汇店)",
+      "address": "兴业太古汇LG2层地铁13号线通道内",
+      "distance": "4m"
+    },
+    {
+      "brand": "野人先生Gelato(上海兴业太古汇店)",
+      "address": "石门一路288号兴业太古汇M45号商铺",
+      "distance": "5m"
+    },
+    {
+      "brand": "何洪记(兴业太古汇店)",
+      "address": "石门一路288号L324室(香港兴业太古汇3楼)",
+      "distance": "26m"
+    },
+    {
+      "brand": "LUNABERRi希腊酸奶碗(上海兴业太古汇店)",
+      "address": "南京西路街道石门一路288号兴业太古汇商场LG217",
+      "distance": "27m"
+    },
+    {
+      "brand": "外物食樘(太古汇店)",
+      "address": "南京西路789号兴业太古汇LG2层Citysuper内",
+      "distance": "28m"
+    },
+    {
+      "brand": "ZEGNA Caffe(兴业太古汇店)",
+      "address": "南京西路789号兴业太古汇L128店铺",
+      "distance": "29m"
+    },
+    {
+      "brand": "杰尼亚咖啡店(兴业太古汇店)",
+      "address": "南京西路789号兴业太古汇一层",
+      "distance": "29m"
+    },
+    {
+      "brand": "贝果树·纽约贝果博物馆",
+      "address": "石门一路288号兴业太古汇(南京西路地铁站6号口旁)",
+      "distance": "29m"
+    },
+    {
+      "brand": "星巴克臻选(上海香港兴业中心二座店)",
+      "address": "石门一路288号兴业太古汇L1层(南京西路地铁站6号口旁)",
+      "distance": "31m"
+    },
+    {
+      "brand": "ILDG冰淇淋实验室(上海兴业太古汇店))",
+      "address": "兴业太古汇L1-105-113(南京西路地铁站6号口旁)",
+      "distance": "34m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海南京西路818广场",
+      "open_date": "2009-10-26",
+      "area": "2.1万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海湟普汇商场",
+      "open_date": "-",
+      "area": "2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海通利商厦",
+      "open_date": "2004-11-01",
+      "area": "-",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海张园·丰盛里",
+      "open_date": "2017-04-01",
+      "area": "1.4万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海仙乐斯广场",
+      "open_date": "2001",
+      "area": "2.3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海中信泰富广场",
+      "open_date": "2002-06-15",
+      "area": "3.5万㎡",
+      "jun_daily_avg": "1.1万人次",
+      "weekday_avg": "1.1万人次",
+      "holiday_avg": "1.1万人次"
+    },
+    {
+      "name": "上海金鹰国际购物广场",
+      "open_date": "2024-01-26",
+      "area": "3.8万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海世茂52+",
+      "open_date": "2010-01-01",
+      "area": "1.5万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海JC PLAZA锦沧文华广场",
+      "open_date": "2022-08-18",
+      "area": "2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海恒隆广场",
+      "open_date": "2001-07-14",
+      "area": "11.4万㎡",
+      "jun_daily_avg": "2.2万人次",
+      "weekday_avg": "2.2万人次",
+      "holiday_avg": "2万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 68.0,
+      "within_1yr_pct": 8.8,
+      "1_3yr_pct": 39.7,
+      "over_3yr_pct": 51.5
+    },
+    {
+      "type": "购物",
+      "count": 157.0,
+      "within_1yr_pct": 19.7,
+      "1_3yr_pct": 36.3,
+      "over_3yr_pct": 43.9
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 10.0,
+      "within_1yr_pct": 30.0,
+      "1_3yr_pct": 60.0,
+      "over_3yr_pct": 10.0
+    },
+    {
+      "type": "生活服务",
+      "count": 23.0,
+      "within_1yr_pct": 17.4,
+      "1_3yr_pct": 21.7,
+      "over_3yr_pct": 60.9
+    },
+    {
+      "type": "运动健身",
+      "count": 3.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 33.3
+    },
+    {
+      "type": "车辆服务",
+      "count": 6.0,
+      "within_1yr_pct": 16.7,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 50.0
+    }
+  ]
+}

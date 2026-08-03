@@ -1,0 +1,415 @@
+{
+  "name": "北京JK FUN商城",
+  "city": "北京市",
+  "address": "北京市西城区西直门外大街116号(动物园地铁站C2东南口步行350米)",
+  "lat": 39.938267,
+  "lng": 116.345533,
+  "overview": {
+    "score": 86.0,
+    "score_rank": "市内前30%",
+    "population_score": 89.2,
+    "area_score": 76.4,
+    "consumption_score": 86.4,
+    "industry_score": 86.0,
+    "annual_sales": "西直门外“动批”聚龙市场更新项目，4.18万㎡地下商业，定位金科新区潮流绿岛社交地标",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 1.2,
+    "open_date": "2024-12-21",
+    "operator": "北京华融金科科技发展有限公司",
+    "brand": "",
+    "type": "美食型",
+    "floors": ""
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "-",
+    "annual_daily_rank": "",
+    "jun_total": 23.4,
+    "jun_total_rank": "市内商场第265名",
+    "jun_daily_avg": 7798.0,
+    "jun_daily_unit": "人次",
+    "jun_daily_rank": "市内商场第265名",
+    "weekday_avg": 7525.0,
+    "weekday_unit": "人次",
+    "weekday_rank": "市内商场第268名",
+    "holiday_avg": 8556.0,
+    "holiday_unit": "人次",
+    "holiday_rank": "市内商场第262名"
+  },
+  "population": {
+    "residential": {
+      "500m": 2.1,
+      "1_5km": 20.0,
+      "3km": 86.3
+    },
+    "office": {
+      "500m": 2.0,
+      "1_5km": 18.1,
+      "3km": 68.5
+    },
+    "permanent": {
+      "500m": 2.1,
+      "1_5km": 21.6,
+      "3km": 84.7
+    }
+  },
+  "business": {
+    "competitors": 5.0,
+    "food": 147.0,
+    "shopping": 57.0,
+    "leisure": 22.0,
+    "education": 21.0,
+    "hotel": 17.0,
+    "services": 119.0,
+    "fitness": 21.0,
+    "auto": 4.0,
+    "total_stores": 78.0,
+    "old_store_3yr_pct": 0.0
+  },
+  "nearby_poi": {
+    "business": 2.0,
+    "community": 546.0,
+    "office": 101.0,
+    "school": 44.0,
+    "hospital": 124.0,
+    "transport": 5.0,
+    "scenic": 482.0
+  },
+  "demographics": {
+    "male_pct": 50.9,
+    "female_pct": null,
+    "education": {
+      "小学": 9.4,
+      "初中": 15.8,
+      "高中": 11.8,
+      "大专": 5.5,
+      "本科": 46.1,
+      "硕士": 8.9,
+      "博士": 2.5
+    },
+    "has_children_pct": 56.6,
+    "no_children_pct": 43.4
+  },
+  "scraped_at": "2026-07-31T18:10:58.675Z",
+  "nearby_restaurants": [
+    {
+      "brand": "沈阳烤鸡架",
+      "address": "西直门外大街120号",
+      "distance": "1m"
+    },
+    {
+      "brand": "章鱼小丸子大连炒焖子",
+      "address": "西直门外大街120号",
+      "distance": "7m"
+    },
+    {
+      "brand": "孙姐大鱿鱼",
+      "address": "西直门外大街120号(动物园地铁站C2东南口步行390米)",
+      "distance": "8m"
+    },
+    {
+      "brand": "云南爆米花豆腐",
+      "address": "西直门外大街120号(动物园地铁站C2东南口步行470米)",
+      "distance": "10m"
+    },
+    {
+      "brand": "滕州菜煎饼",
+      "address": "西直门外大街120号",
+      "distance": "12m"
+    },
+    {
+      "brand": "浇汁豆腐",
+      "address": "西直门外大街120号(动物园地铁站C2东南口步行390米)",
+      "distance": "12m"
+    },
+    {
+      "brand": "土家鲜肉饼",
+      "address": "西直门外大街120号",
+      "distance": "12m"
+    },
+    {
+      "brand": "搂钱耙子",
+      "address": "西直门外大街120号",
+      "distance": "12m"
+    },
+    {
+      "brand": "红糖姜枣茶",
+      "address": "西直门外大街120号",
+      "distance": "17m"
+    },
+    {
+      "brand": "金桔养生茶",
+      "address": "西直门外大街120号",
+      "distance": "17m"
+    },
+    {
+      "brand": "沈阳烤鸡架",
+      "address": "西直门外大街120号",
+      "distance": "1m"
+    },
+    {
+      "brand": "章鱼小丸子大连炒焖子",
+      "address": "西直门外大街120号",
+      "distance": "7m"
+    },
+    {
+      "brand": "孙姐大鱿鱼",
+      "address": "西直门外大街120号(动物园地铁站C2东南口步行390米)",
+      "distance": "8m"
+    },
+    {
+      "brand": "云南爆米花豆腐",
+      "address": "西直门外大街120号(动物园地铁站C2东南口步行470米)",
+      "distance": "10m"
+    },
+    {
+      "brand": "滕州菜煎饼",
+      "address": "西直门外大街120号",
+      "distance": "12m"
+    },
+    {
+      "brand": "浇汁豆腐",
+      "address": "西直门外大街120号(动物园地铁站C2东南口步行390米)",
+      "distance": "12m"
+    },
+    {
+      "brand": "土家鲜肉饼",
+      "address": "西直门外大街120号",
+      "distance": "12m"
+    },
+    {
+      "brand": "搂钱耙子",
+      "address": "西直门外大街120号",
+      "distance": "12m"
+    },
+    {
+      "brand": "红糖姜枣茶",
+      "address": "西直门外大街120号",
+      "distance": "17m"
+    },
+    {
+      "brand": "金桔养生茶",
+      "address": "西直门外大街120号",
+      "distance": "17m"
+    },
+    {
+      "brand": "沈阳烤鸡架",
+      "address": "西直门外大街120号",
+      "distance": "1m"
+    },
+    {
+      "brand": "章鱼小丸子大连炒焖子",
+      "address": "西直门外大街120号",
+      "distance": "7m"
+    },
+    {
+      "brand": "孙姐大鱿鱼",
+      "address": "西直门外大街120号(动物园地铁站C2东南口步行390米)",
+      "distance": "8m"
+    },
+    {
+      "brand": "云南爆米花豆腐",
+      "address": "西直门外大街120号(动物园地铁站C2东南口步行470米)",
+      "distance": "10m"
+    },
+    {
+      "brand": "滕州菜煎饼",
+      "address": "西直门外大街120号",
+      "distance": "12m"
+    },
+    {
+      "brand": "浇汁豆腐",
+      "address": "西直门外大街120号(动物园地铁站C2东南口步行390米)",
+      "distance": "12m"
+    },
+    {
+      "brand": "土家鲜肉饼",
+      "address": "西直门外大街120号",
+      "distance": "12m"
+    },
+    {
+      "brand": "搂钱耙子",
+      "address": "西直门外大街120号",
+      "distance": "12m"
+    },
+    {
+      "brand": "红糖姜枣茶",
+      "address": "西直门外大街120号",
+      "distance": "17m"
+    },
+    {
+      "brand": "金桔养生茶",
+      "address": "西直门外大街120号",
+      "distance": "17m"
+    },
+    {
+      "brand": "沈阳烤鸡架",
+      "address": "西直门外大街120号",
+      "distance": "1m"
+    },
+    {
+      "brand": "章鱼小丸子大连炒焖子",
+      "address": "西直门外大街120号",
+      "distance": "7m"
+    },
+    {
+      "brand": "孙姐大鱿鱼",
+      "address": "西直门外大街120号(动物园地铁站C2东南口步行390米)",
+      "distance": "8m"
+    },
+    {
+      "brand": "云南爆米花豆腐",
+      "address": "西直门外大街120号(动物园地铁站C2东南口步行470米)",
+      "distance": "10m"
+    },
+    {
+      "brand": "滕州菜煎饼",
+      "address": "西直门外大街120号",
+      "distance": "12m"
+    },
+    {
+      "brand": "浇汁豆腐",
+      "address": "西直门外大街120号(动物园地铁站C2东南口步行390米)",
+      "distance": "12m"
+    },
+    {
+      "brand": "土家鲜肉饼",
+      "address": "西直门外大街120号",
+      "distance": "12m"
+    },
+    {
+      "brand": "搂钱耙子",
+      "address": "西直门外大街120号",
+      "distance": "12m"
+    },
+    {
+      "brand": "红糖姜枣茶",
+      "address": "西直门外大街120号",
+      "distance": "17m"
+    },
+    {
+      "brand": "金桔养生茶",
+      "address": "西直门外大街120号",
+      "distance": "17m"
+    },
+    {
+      "brand": "沈阳烤鸡架",
+      "address": "西直门外大街120号",
+      "distance": "1m"
+    },
+    {
+      "brand": "章鱼小丸子大连炒焖子",
+      "address": "西直门外大街120号",
+      "distance": "7m"
+    },
+    {
+      "brand": "孙姐大鱿鱼",
+      "address": "西直门外大街120号(动物园地铁站C2东南口步行390米)",
+      "distance": "8m"
+    },
+    {
+      "brand": "云南爆米花豆腐",
+      "address": "西直门外大街120号(动物园地铁站C2东南口步行470米)",
+      "distance": "10m"
+    },
+    {
+      "brand": "滕州菜煎饼",
+      "address": "西直门外大街120号",
+      "distance": "12m"
+    },
+    {
+      "brand": "浇汁豆腐",
+      "address": "西直门外大街120号(动物园地铁站C2东南口步行390米)",
+      "distance": "12m"
+    },
+    {
+      "brand": "土家鲜肉饼",
+      "address": "西直门外大街120号",
+      "distance": "12m"
+    },
+    {
+      "brand": "搂钱耙子",
+      "address": "西直门外大街120号",
+      "distance": "12m"
+    },
+    {
+      "brand": "红糖姜枣茶",
+      "address": "西直门外大街120号",
+      "distance": "17m"
+    },
+    {
+      "brand": "金桔养生茶",
+      "address": "西直门外大街120号",
+      "distance": "17m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "北京凯德MALL（西直门店）",
+      "open_date": "2007-10-01",
+      "area": "8.3万㎡",
+      "jun_daily_avg": "14.6万人次",
+      "weekday_avg": "14.1万人次",
+      "holiday_avg": "16.1万人次"
+    },
+    {
+      "name": "北京甘家口百货",
+      "open_date": "2000-01-09",
+      "area": "2.1万㎡",
+      "jun_daily_avg": "5万人次",
+      "weekday_avg": "5万人次",
+      "holiday_avg": "5万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 46.0,
+      "within_1yr_pct": 52.2,
+      "1_3yr_pct": 47.8,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "购物",
+      "count": 12.0,
+      "within_1yr_pct": 58.3,
+      "1_3yr_pct": 41.7,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 7.0,
+      "within_1yr_pct": 57.1,
+      "1_3yr_pct": 42.9,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "教育培训",
+      "count": 3.0,
+      "within_1yr_pct": 66.7,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "生活服务",
+      "count": 5.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 80.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "运动健身",
+      "count": 3.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 2.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 0.0
+    }
+  ]
+}

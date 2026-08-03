@@ -1,0 +1,439 @@
+{
+  "name": "上海古北1699",
+  "city": "上海市",
+  "address": "上海市闵行区古北路1699b2号",
+  "lat": 31.188321,
+  "lng": 121.40277,
+  "overview": {
+    "score": 93.2,
+    "score_rank": "市内前30%",
+    "population_score": 77.9,
+    "area_score": 67.4,
+    "consumption_score": 84.3,
+    "industry_score": 93.4,
+    "annual_sales": "古北1699项目位于上海市闵行区红松东路以南、古北路以东，属于徐汇、长宁、闵行三区交汇处，地处古北国际社区腹地，毗邻古北国际社区，地理位置优越。项目由写字楼和商业两部分组成，其中地上1-3层、地下1-2层为商业，建筑面积约3万平方米",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 2.6,
+    "open_date": "2016-01-01",
+    "operator": "上海海昌房地产有限公司",
+    "brand": "",
+    "type": "美食型",
+    "floors": "B2-L3"
+  },
+  "traffic": {
+    "annual_daily": 1.21,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第215",
+    "jun_total": 49.5,
+    "jun_total_rank": "市内商场第218名",
+    "jun_daily_avg": 1.6,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第218名",
+    "weekday_avg": 1.7,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第203名",
+    "holiday_avg": 1.6,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第241名"
+  },
+  "population": {
+    "residential": {
+      "500m": 1.3,
+      "1_5km": 13.8,
+      "3km": 73.3
+    },
+    "office": {
+      "500m": 9800.0,
+      "1_5km": 13.3,
+      "3km": 78.5
+    },
+    "permanent": {
+      "500m": 1.4,
+      "1_5km": 14.4,
+      "3km": 79.7
+    }
+  },
+  "business": {
+    "competitors": 2.0,
+    "food": 123.0,
+    "shopping": 26.0,
+    "leisure": 19.0,
+    "education": 14.0,
+    "hotel": 18.0,
+    "services": 48.0,
+    "fitness": 34.0,
+    "auto": 18.0,
+    "total_stores": 144.0,
+    "old_store_3yr_pct": 51.0
+  },
+  "nearby_poi": {
+    "business": 5.0,
+    "community": 651.0,
+    "office": 67.0,
+    "school": 26.0,
+    "hospital": 135.0,
+    "transport": 13.0,
+    "scenic": 170.0
+  },
+  "demographics": {
+    "male_pct": 53.7,
+    "female_pct": null,
+    "education": {
+      "小学": 9.6,
+      "初中": 17.8,
+      "高中": 11.6,
+      "大专": 9.3,
+      "本科": 46.3,
+      "硕士": 4.4,
+      "博士": 1.0
+    },
+    "has_children_pct": 58.0,
+    "no_children_pct": 42.0
+  },
+  "scraped_at": "2026-07-31T15:51:06.201Z",
+  "nearby_restaurants": [
+    {
+      "brand": "三五筷伴市井冒菜(古北路店)",
+      "address": "古北路1699号B2层室内滑雪场隔壁",
+      "distance": "1m"
+    },
+    {
+      "brand": "塞上嘉宴(1699商业广场店)",
+      "address": "古北路1699号古北1699商业广场F3层",
+      "distance": "4m"
+    },
+    {
+      "brand": "洋葱炸弹能量碗",
+      "address": "古北路1699号古北1699商业广场B2层50号商铺",
+      "distance": "4m"
+    },
+    {
+      "brand": "农耕记·湖南土菜(古北1699商业广场店)",
+      "address": "古北路1699号古北1699商业广场B1层",
+      "distance": "5m"
+    },
+    {
+      "brand": "塔斯汀中国汉堡(上海市闵行古北1699广场店)",
+      "address": "虹桥镇古北路1699号古北1699商业广场地下二层B213",
+      "distance": "6m"
+    },
+    {
+      "brand": "青春贝壳韩国烤肉·料理(上海首店)",
+      "address": "虹桥镇古北路1699号(靠近红菘东路)大成商务广场2层",
+      "distance": "7m"
+    },
+    {
+      "brand": "统营阿姨(古北1699广场店)",
+      "address": "古北路1699号古北1699商业广场1F层4",
+      "distance": "7m"
+    },
+    {
+      "brand": "香港东记烧腊(古北1699广场店)",
+      "address": "古北路1699号古北1699商业广场B2层",
+      "distance": "8m"
+    },
+    {
+      "brand": "笨凤凰荷叶烤鸡",
+      "address": "古北路1699号古北1699商业广场B261-2室",
+      "distance": "8m"
+    },
+    {
+      "brand": "平田拉面(1699广场店)",
+      "address": "古北路1699号古北1699商业广场B2层",
+      "distance": "9m"
+    },
+    {
+      "brand": "三五筷伴市井冒菜(古北路店)",
+      "address": "古北路1699号B2层室内滑雪场隔壁",
+      "distance": "1m"
+    },
+    {
+      "brand": "塞上嘉宴(1699商业广场店)",
+      "address": "古北路1699号古北1699商业广场F3层",
+      "distance": "4m"
+    },
+    {
+      "brand": "洋葱炸弹能量碗",
+      "address": "古北路1699号古北1699商业广场B2层50号商铺",
+      "distance": "4m"
+    },
+    {
+      "brand": "农耕记·湖南土菜(古北1699商业广场店)",
+      "address": "古北路1699号古北1699商业广场B1层",
+      "distance": "5m"
+    },
+    {
+      "brand": "塔斯汀中国汉堡(上海市闵行古北1699广场店)",
+      "address": "虹桥镇古北路1699号古北1699商业广场地下二层B213",
+      "distance": "6m"
+    },
+    {
+      "brand": "青春贝壳韩国烤肉·料理(上海首店)",
+      "address": "虹桥镇古北路1699号(靠近红菘东路)大成商务广场2层",
+      "distance": "7m"
+    },
+    {
+      "brand": "统营阿姨(古北1699广场店)",
+      "address": "古北路1699号古北1699商业广场1F层4",
+      "distance": "7m"
+    },
+    {
+      "brand": "香港东记烧腊(古北1699广场店)",
+      "address": "古北路1699号古北1699商业广场B2层",
+      "distance": "8m"
+    },
+    {
+      "brand": "笨凤凰荷叶烤鸡",
+      "address": "古北路1699号古北1699商业广场B261-2室",
+      "distance": "8m"
+    },
+    {
+      "brand": "平田拉面(1699广场店)",
+      "address": "古北路1699号古北1699商业广场B2层",
+      "distance": "9m"
+    },
+    {
+      "brand": "三五筷伴市井冒菜(古北路店)",
+      "address": "古北路1699号B2层室内滑雪场隔壁",
+      "distance": "1m"
+    },
+    {
+      "brand": "塞上嘉宴(1699商业广场店)",
+      "address": "古北路1699号古北1699商业广场F3层",
+      "distance": "4m"
+    },
+    {
+      "brand": "洋葱炸弹能量碗",
+      "address": "古北路1699号古北1699商业广场B2层50号商铺",
+      "distance": "4m"
+    },
+    {
+      "brand": "农耕记·湖南土菜(古北1699商业广场店)",
+      "address": "古北路1699号古北1699商业广场B1层",
+      "distance": "5m"
+    },
+    {
+      "brand": "塔斯汀中国汉堡(上海市闵行古北1699广场店)",
+      "address": "虹桥镇古北路1699号古北1699商业广场地下二层B213",
+      "distance": "6m"
+    },
+    {
+      "brand": "青春贝壳韩国烤肉·料理(上海首店)",
+      "address": "虹桥镇古北路1699号(靠近红菘东路)大成商务广场2层",
+      "distance": "7m"
+    },
+    {
+      "brand": "统营阿姨(古北1699广场店)",
+      "address": "古北路1699号古北1699商业广场1F层4",
+      "distance": "7m"
+    },
+    {
+      "brand": "香港东记烧腊(古北1699广场店)",
+      "address": "古北路1699号古北1699商业广场B2层",
+      "distance": "8m"
+    },
+    {
+      "brand": "笨凤凰荷叶烤鸡",
+      "address": "古北路1699号古北1699商业广场B261-2室",
+      "distance": "8m"
+    },
+    {
+      "brand": "平田拉面(1699广场店)",
+      "address": "古北路1699号古北1699商业广场B2层",
+      "distance": "9m"
+    },
+    {
+      "brand": "三五筷伴市井冒菜(古北路店)",
+      "address": "古北路1699号B2层室内滑雪场隔壁",
+      "distance": "1m"
+    },
+    {
+      "brand": "塞上嘉宴(1699商业广场店)",
+      "address": "古北路1699号古北1699商业广场F3层",
+      "distance": "4m"
+    },
+    {
+      "brand": "洋葱炸弹能量碗",
+      "address": "古北路1699号古北1699商业广场B2层50号商铺",
+      "distance": "4m"
+    },
+    {
+      "brand": "农耕记·湖南土菜(古北1699商业广场店)",
+      "address": "古北路1699号古北1699商业广场B1层",
+      "distance": "5m"
+    },
+    {
+      "brand": "塔斯汀中国汉堡(上海市闵行古北1699广场店)",
+      "address": "虹桥镇古北路1699号古北1699商业广场地下二层B213",
+      "distance": "6m"
+    },
+    {
+      "brand": "青春贝壳韩国烤肉·料理(上海首店)",
+      "address": "虹桥镇古北路1699号(靠近红菘东路)大成商务广场2层",
+      "distance": "7m"
+    },
+    {
+      "brand": "统营阿姨(古北1699广场店)",
+      "address": "古北路1699号古北1699商业广场1F层4",
+      "distance": "7m"
+    },
+    {
+      "brand": "香港东记烧腊(古北1699广场店)",
+      "address": "古北路1699号古北1699商业广场B2层",
+      "distance": "8m"
+    },
+    {
+      "brand": "笨凤凰荷叶烤鸡",
+      "address": "古北路1699号古北1699商业广场B261-2室",
+      "distance": "8m"
+    },
+    {
+      "brand": "平田拉面(1699广场店)",
+      "address": "古北路1699号古北1699商业广场B2层",
+      "distance": "9m"
+    },
+    {
+      "brand": "三五筷伴市井冒菜(古北路店)",
+      "address": "古北路1699号B2层室内滑雪场隔壁",
+      "distance": "1m"
+    },
+    {
+      "brand": "塞上嘉宴(1699商业广场店)",
+      "address": "古北路1699号古北1699商业广场F3层",
+      "distance": "4m"
+    },
+    {
+      "brand": "洋葱炸弹能量碗",
+      "address": "古北路1699号古北1699商业广场B2层50号商铺",
+      "distance": "4m"
+    },
+    {
+      "brand": "农耕记·湖南土菜(古北1699商业广场店)",
+      "address": "古北路1699号古北1699商业广场B1层",
+      "distance": "5m"
+    },
+    {
+      "brand": "塔斯汀中国汉堡(上海市闵行古北1699广场店)",
+      "address": "虹桥镇古北路1699号古北1699商业广场地下二层B213",
+      "distance": "6m"
+    },
+    {
+      "brand": "青春贝壳韩国烤肉·料理(上海首店)",
+      "address": "虹桥镇古北路1699号(靠近红菘东路)大成商务广场2层",
+      "distance": "7m"
+    },
+    {
+      "brand": "统营阿姨(古北1699广场店)",
+      "address": "古北路1699号古北1699商业广场1F层4",
+      "distance": "7m"
+    },
+    {
+      "brand": "香港东记烧腊(古北1699广场店)",
+      "address": "古北路1699号古北1699商业广场B2层",
+      "distance": "8m"
+    },
+    {
+      "brand": "笨凤凰荷叶烤鸡",
+      "address": "古北路1699号古北1699商业广场B261-2室",
+      "distance": "8m"
+    },
+    {
+      "brand": "平田拉面(1699广场店)",
+      "address": "古北路1699号古北1699商业广场B2层",
+      "distance": "9m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海高岛屋百货",
+      "open_date": "2012-12-01",
+      "area": "6.7万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海徐汇古北时尚广场",
+      "open_date": "2012-01-01",
+      "area": "3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "六月汇广场",
+      "open_date": "2022-10-10",
+      "area": "2.4万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "九洲生活广场(泰豪大厦北)",
+      "open_date": "-",
+      "area": "-",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海世贸商城",
+      "open_date": "1999-01-01",
+      "area": "19万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 92.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 18.5,
+      "over_3yr_pct": 56.5
+    },
+    {
+      "type": "购物",
+      "count": 10.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 40.0,
+      "over_3yr_pct": 60.0
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 9.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 22.2,
+      "over_3yr_pct": 44.4
+    },
+    {
+      "type": "教育培训",
+      "count": 3.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 66.7,
+      "over_3yr_pct": 33.3
+    },
+    {
+      "type": "生活服务",
+      "count": 18.0,
+      "within_1yr_pct": 11.1,
+      "1_3yr_pct": 38.9,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "运动健身",
+      "count": 6.0,
+      "within_1yr_pct": 16.7,
+      "1_3yr_pct": 83.3,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 6.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 16.7,
+      "over_3yr_pct": 33.3
+    }
+  ]
+}

@@ -1,0 +1,423 @@
+{
+  "name": "上海百联滨江购物中心",
+  "city": "上海市",
+  "address": "上海市杨浦区宁国路222号",
+  "lat": 31.265107,
+  "lng": 121.537705,
+  "overview": {
+    "score": 93.2,
+    "score_rank": "市内前30%",
+    "population_score": 92.6,
+    "area_score": 77.9,
+    "consumption_score": 79.7,
+    "industry_score": 93.3,
+    "annual_sales": "百联滨江购物中心是以“快乐休闲、放心购物”和全方位服务为理念、以家庭休闲为定位的综合性社区型购物中心。",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 6.0,
+    "open_date": "2014-11-22",
+    "operator": "上海百联集团股份有限公司",
+    "brand": "百联",
+    "type": "综合型",
+    "floors": "B1-L4"
+  },
+  "traffic": {
+    "annual_daily": 1.72,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第159",
+    "jun_total": 62.1,
+    "jun_total_rank": "市内商场第185名",
+    "jun_daily_avg": 2.1,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第185名",
+    "weekday_avg": 2.0,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第181名",
+    "holiday_avg": 2.2,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第194名"
+  },
+  "population": {
+    "residential": {
+      "500m": 2.6,
+      "1_5km": 23.0,
+      "3km": 90.0
+    },
+    "office": {
+      "500m": 1.6,
+      "1_5km": 15.1,
+      "3km": 51.0
+    },
+    "permanent": {
+      "500m": 2.7,
+      "1_5km": 23.0,
+      "3km": 91.9
+    }
+  },
+  "business": {
+    "competitors": 3.0,
+    "food": 174.0,
+    "shopping": 111.0,
+    "leisure": 18.0,
+    "education": 19.0,
+    "hotel": 31.0,
+    "services": 130.0,
+    "fitness": 12.0,
+    "auto": 14.0,
+    "total_stores": 149.0,
+    "old_store_3yr_pct": 51.0
+  },
+  "nearby_poi": {
+    "business": 3.0,
+    "community": 668.0,
+    "office": 78.0,
+    "school": 39.0,
+    "hospital": 79.0,
+    "transport": 11.0,
+    "scenic": 144.0
+  },
+  "demographics": {
+    "male_pct": 45.2,
+    "female_pct": null,
+    "education": {
+      "小学": 9.4,
+      "初中": 17.7,
+      "高中": 11.7,
+      "大专": 7.0,
+      "本科": 47.4,
+      "硕士": 5.1,
+      "博士": 1.7
+    },
+    "has_children_pct": 67.5,
+    "no_children_pct": 32.5
+  },
+  "scraped_at": "2026-07-31T17:09:38.851Z",
+  "nearby_restaurants": [
+    {
+      "brand": "Tims咖啡(杨浦百联店)",
+      "address": "宁国路218号百联滨江购物中心G56-F01-1-025B室",
+      "distance": "5m"
+    },
+    {
+      "brand": "麦悠悠养生小馆(杨浦滨江店)",
+      "address": "宁国路218号1101室",
+      "distance": "7m"
+    },
+    {
+      "brand": "星巴克(百联滨江购物中心店)",
+      "address": "宁国路218号百联滨江购物中心L1层1A-024室",
+      "distance": "8m"
+    },
+    {
+      "brand": "巴黎贝甜(百联滨江购物中心店)",
+      "address": "平凉路1399号百联滨江购物中心1F商铺",
+      "distance": "8m"
+    },
+    {
+      "brand": "麦当劳(上海麦当劳杨浦百联滨江餐厅)",
+      "address": "大桥街道平凉路1399号百联滨江购物中心F2层",
+      "distance": "28m"
+    },
+    {
+      "brand": "农小锅(上海百联滨江店)",
+      "address": "大桥街道平凉路1399号滨江百联购物中心b1层",
+      "distance": "29m"
+    },
+    {
+      "brand": "喜乐小觅(百联滨江购物中心店)",
+      "address": "百联滨江购物中心",
+      "distance": "30m"
+    },
+    {
+      "brand": "大米先生(百联滨江店)",
+      "address": "平凉路1399号百联滨江购物中心B1层G56-B01-1029",
+      "distance": "34m"
+    },
+    {
+      "brand": "呷哺呷哺(百联滨江店)",
+      "address": "平凉路1399号百联滨江购物中心B1层",
+      "distance": "34m"
+    },
+    {
+      "brand": "大师卤肉饭(上海滨江百联店)",
+      "address": "平凉路1399号百联滨江购物中心B1层",
+      "distance": "36m"
+    },
+    {
+      "brand": "Tims咖啡(杨浦百联店)",
+      "address": "宁国路218号百联滨江购物中心G56-F01-1-025B室",
+      "distance": "5m"
+    },
+    {
+      "brand": "麦悠悠养生小馆(杨浦滨江店)",
+      "address": "宁国路218号1101室",
+      "distance": "7m"
+    },
+    {
+      "brand": "星巴克(百联滨江购物中心店)",
+      "address": "宁国路218号百联滨江购物中心L1层1A-024室",
+      "distance": "8m"
+    },
+    {
+      "brand": "巴黎贝甜(百联滨江购物中心店)",
+      "address": "平凉路1399号百联滨江购物中心1F商铺",
+      "distance": "8m"
+    },
+    {
+      "brand": "麦当劳(上海麦当劳杨浦百联滨江餐厅)",
+      "address": "大桥街道平凉路1399号百联滨江购物中心F2层",
+      "distance": "28m"
+    },
+    {
+      "brand": "农小锅(上海百联滨江店)",
+      "address": "大桥街道平凉路1399号滨江百联购物中心b1层",
+      "distance": "29m"
+    },
+    {
+      "brand": "喜乐小觅(百联滨江购物中心店)",
+      "address": "百联滨江购物中心",
+      "distance": "30m"
+    },
+    {
+      "brand": "大米先生(百联滨江店)",
+      "address": "平凉路1399号百联滨江购物中心B1层G56-B01-1029",
+      "distance": "34m"
+    },
+    {
+      "brand": "呷哺呷哺(百联滨江店)",
+      "address": "平凉路1399号百联滨江购物中心B1层",
+      "distance": "34m"
+    },
+    {
+      "brand": "大师卤肉饭(上海滨江百联店)",
+      "address": "平凉路1399号百联滨江购物中心B1层",
+      "distance": "36m"
+    },
+    {
+      "brand": "Tims咖啡(杨浦百联店)",
+      "address": "宁国路218号百联滨江购物中心G56-F01-1-025B室",
+      "distance": "5m"
+    },
+    {
+      "brand": "麦悠悠养生小馆(杨浦滨江店)",
+      "address": "宁国路218号1101室",
+      "distance": "7m"
+    },
+    {
+      "brand": "星巴克(百联滨江购物中心店)",
+      "address": "宁国路218号百联滨江购物中心L1层1A-024室",
+      "distance": "8m"
+    },
+    {
+      "brand": "巴黎贝甜(百联滨江购物中心店)",
+      "address": "平凉路1399号百联滨江购物中心1F商铺",
+      "distance": "8m"
+    },
+    {
+      "brand": "麦当劳(上海麦当劳杨浦百联滨江餐厅)",
+      "address": "大桥街道平凉路1399号百联滨江购物中心F2层",
+      "distance": "28m"
+    },
+    {
+      "brand": "农小锅(上海百联滨江店)",
+      "address": "大桥街道平凉路1399号滨江百联购物中心b1层",
+      "distance": "29m"
+    },
+    {
+      "brand": "喜乐小觅(百联滨江购物中心店)",
+      "address": "百联滨江购物中心",
+      "distance": "30m"
+    },
+    {
+      "brand": "大米先生(百联滨江店)",
+      "address": "平凉路1399号百联滨江购物中心B1层G56-B01-1029",
+      "distance": "34m"
+    },
+    {
+      "brand": "呷哺呷哺(百联滨江店)",
+      "address": "平凉路1399号百联滨江购物中心B1层",
+      "distance": "34m"
+    },
+    {
+      "brand": "大师卤肉饭(上海滨江百联店)",
+      "address": "平凉路1399号百联滨江购物中心B1层",
+      "distance": "36m"
+    },
+    {
+      "brand": "Tims咖啡(杨浦百联店)",
+      "address": "宁国路218号百联滨江购物中心G56-F01-1-025B室",
+      "distance": "5m"
+    },
+    {
+      "brand": "麦悠悠养生小馆(杨浦滨江店)",
+      "address": "宁国路218号1101室",
+      "distance": "7m"
+    },
+    {
+      "brand": "星巴克(百联滨江购物中心店)",
+      "address": "宁国路218号百联滨江购物中心L1层1A-024室",
+      "distance": "8m"
+    },
+    {
+      "brand": "巴黎贝甜(百联滨江购物中心店)",
+      "address": "平凉路1399号百联滨江购物中心1F商铺",
+      "distance": "8m"
+    },
+    {
+      "brand": "麦当劳(上海麦当劳杨浦百联滨江餐厅)",
+      "address": "大桥街道平凉路1399号百联滨江购物中心F2层",
+      "distance": "28m"
+    },
+    {
+      "brand": "农小锅(上海百联滨江店)",
+      "address": "大桥街道平凉路1399号滨江百联购物中心b1层",
+      "distance": "29m"
+    },
+    {
+      "brand": "喜乐小觅(百联滨江购物中心店)",
+      "address": "百联滨江购物中心",
+      "distance": "30m"
+    },
+    {
+      "brand": "大米先生(百联滨江店)",
+      "address": "平凉路1399号百联滨江购物中心B1层G56-B01-1029",
+      "distance": "34m"
+    },
+    {
+      "brand": "呷哺呷哺(百联滨江店)",
+      "address": "平凉路1399号百联滨江购物中心B1层",
+      "distance": "34m"
+    },
+    {
+      "brand": "大师卤肉饭(上海滨江百联店)",
+      "address": "平凉路1399号百联滨江购物中心B1层",
+      "distance": "36m"
+    },
+    {
+      "brand": "Tims咖啡(杨浦百联店)",
+      "address": "宁国路218号百联滨江购物中心G56-F01-1-025B室",
+      "distance": "5m"
+    },
+    {
+      "brand": "麦悠悠养生小馆(杨浦滨江店)",
+      "address": "宁国路218号1101室",
+      "distance": "7m"
+    },
+    {
+      "brand": "星巴克(百联滨江购物中心店)",
+      "address": "宁国路218号百联滨江购物中心L1层1A-024室",
+      "distance": "8m"
+    },
+    {
+      "brand": "巴黎贝甜(百联滨江购物中心店)",
+      "address": "平凉路1399号百联滨江购物中心1F商铺",
+      "distance": "8m"
+    },
+    {
+      "brand": "麦当劳(上海麦当劳杨浦百联滨江餐厅)",
+      "address": "大桥街道平凉路1399号百联滨江购物中心F2层",
+      "distance": "28m"
+    },
+    {
+      "brand": "农小锅(上海百联滨江店)",
+      "address": "大桥街道平凉路1399号滨江百联购物中心b1层",
+      "distance": "29m"
+    },
+    {
+      "brand": "喜乐小觅(百联滨江购物中心店)",
+      "address": "百联滨江购物中心",
+      "distance": "30m"
+    },
+    {
+      "brand": "大米先生(百联滨江店)",
+      "address": "平凉路1399号百联滨江购物中心B1层G56-B01-1029",
+      "distance": "34m"
+    },
+    {
+      "brand": "呷哺呷哺(百联滨江店)",
+      "address": "平凉路1399号百联滨江购物中心B1层",
+      "distance": "34m"
+    },
+    {
+      "brand": "大师卤肉饭(上海滨江百联店)",
+      "address": "平凉路1399号百联滨江购物中心B1层",
+      "distance": "36m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海七巧国",
+      "open_date": "2015-08-20",
+      "area": "2万㎡",
+      "jun_daily_avg": "1.1万人次",
+      "weekday_avg": "1万人次",
+      "holiday_avg": "1.1万人次"
+    },
+    {
+      "name": "上海东方渔人码头",
+      "open_date": "2016-04-01",
+      "area": "4.8万㎡",
+      "jun_daily_avg": "1.1万人次",
+      "weekday_avg": "1万人次",
+      "holiday_avg": "1.1万人次"
+    },
+    {
+      "name": "上海宝龙·旭辉广场",
+      "open_date": "2021-07-30",
+      "area": "4.2万㎡",
+      "jun_daily_avg": "2.1万人次",
+      "weekday_avg": "2.1万人次",
+      "holiday_avg": "2.3万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 50.0,
+      "within_1yr_pct": 14.0,
+      "1_3yr_pct": 22.0,
+      "over_3yr_pct": 64.0
+    },
+    {
+      "type": "购物",
+      "count": 24.0,
+      "within_1yr_pct": 20.8,
+      "1_3yr_pct": 20.8,
+      "over_3yr_pct": 58.3
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 7.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 57.1,
+      "over_3yr_pct": 42.9
+    },
+    {
+      "type": "教育培训",
+      "count": 10.0,
+      "within_1yr_pct": 40.0,
+      "1_3yr_pct": 40.0,
+      "over_3yr_pct": 20.0
+    },
+    {
+      "type": "生活服务",
+      "count": 47.0,
+      "within_1yr_pct": 25.5,
+      "1_3yr_pct": 31.9,
+      "over_3yr_pct": 42.6
+    },
+    {
+      "type": "运动健身",
+      "count": 5.0,
+      "within_1yr_pct": 40.0,
+      "1_3yr_pct": 40.0,
+      "over_3yr_pct": 20.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 6.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 66.7
+    }
+  ]
+}

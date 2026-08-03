@@ -1,0 +1,158 @@
+{
+  "name": "多伦生活广场(四川北路商业街店)",
+  "city": "上海市",
+  "address": "上海市浦东新区东川公路5979",
+  "lat": 31.235373,
+  "lng": 121.719616,
+  "overview": {
+    "score": 83.3,
+    "score_rank": "市内前30%",
+    "population_score": 80.1,
+    "area_score": 75.5,
+    "consumption_score": 63.8,
+    "industry_score": 83.4,
+    "annual_sales": "心玛特购物中心（合庆店）是一家集购物、娱乐、餐饮为一体的商贸连锁企业，拥有13家直营门店，销售额超2亿元",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 1.2,
+    "open_date": "1997",
+    "operator": "上海一心玛特超市有限公司",
+    "brand": "",
+    "type": "综合型",
+    "floors": "L1-L6"
+  },
+  "traffic": {
+    "annual_daily": 1.23,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第212",
+    "jun_total": 44.6,
+    "jun_total_rank": "市内商场第235名",
+    "jun_daily_avg": 1.5,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第235名",
+    "weekday_avg": 1.3,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第241名",
+    "holiday_avg": 1.9,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第215名"
+  },
+  "population": {
+    "residential": {
+      "500m": null,
+      "1_5km": null,
+      "3km": null
+    },
+    "office": {
+      "500m": null,
+      "1_5km": null,
+      "3km": null
+    },
+    "permanent": {
+      "500m": null,
+      "1_5km": null,
+      "3km": null
+    }
+  },
+  "business": {
+    "competitors": 1.0,
+    "food": 193.0,
+    "shopping": 136.0,
+    "leisure": 9.0,
+    "education": 5.0,
+    "hotel": 11.0,
+    "services": 127.0,
+    "fitness": 7.0,
+    "auto": 6.0,
+    "total_stores": 48.0,
+    "old_store_3yr_pct": 52.0
+  },
+  "nearby_poi": {
+    "business": 1.0,
+    "community": 34.0,
+    "office": 5.0,
+    "school": 9.0,
+    "hospital": 17.0,
+    "transport": 7.0,
+    "scenic": 24.0
+  },
+  "demographics": {
+    "male_pct": 48.8,
+    "female_pct": null,
+    "education": {
+      "小学": 13.3,
+      "初中": 24.0,
+      "高中": 13.6,
+      "大专": 10.0,
+      "本科": 36.8,
+      "硕士": 1.7,
+      "博士": 0.6
+    },
+    "has_children_pct": 56.9,
+    "no_children_pct": 43.1
+  },
+  "scraped_at": "2026-08-01T08:52:04.484Z",
+  "nearby_restaurants": [
+    {
+      "brand": "灵一麻辣香锅(合庆店)",
+      "address": "合庆镇庆荣路457号",
+      "distance": "463m"
+    },
+    {
+      "brand": "糠鉢鋀乡野土菜(有名堂2号店)",
+      "address": "环庆中路350号",
+      "distance": "464m"
+    },
+    {
+      "brand": "家乡饭店(庆荣路店)",
+      "address": "合庆镇庆荣路477号",
+      "distance": "497m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "置天一号广场(环庆中路店)",
+      "open_date": "-",
+      "area": "1.5万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 14.0,
+      "within_1yr_pct": 35.7,
+      "1_3yr_pct": 14.3,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "购物",
+      "count": 16.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "教育培训",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 2.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "生活服务",
+      "count": 15.0,
+      "within_1yr_pct": 13.3,
+      "1_3yr_pct": 26.7,
+      "over_3yr_pct": 60.0
+    }
+  ]
+}

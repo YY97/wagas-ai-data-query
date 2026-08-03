@@ -1,0 +1,423 @@
+{
+  "name": "嘉定大融城",
+  "city": "上海市",
+  "address": "上海市嘉定区马陆镇小菜园新徽菜(大融城店)大融城",
+  "lat": 31.33073,
+  "lng": 121.279758,
+  "overview": {
+    "score": 94.8,
+    "score_rank": "市内前30%",
+    "population_score": 88.2,
+    "area_score": 82.8,
+    "consumption_score": 65.3,
+    "industry_score": 95.0,
+    "annual_sales": "上海嘉定大融城是嘉宝集团开发建设史上的第一个大型商业综合体项目，位于嘉定新城核心区，是一个集时尚零售、特色餐饮、电影院、儿童天地于一体的综合购物中心。项目采用\\\"购物中心+外街\\\"的形式，定位于\\\"有色彩\\\"的全家庭生活中心，致力于创造一个舒适、休闲、愉悦、生活\\\"家\\\"的购物休闲场所。项目力推\\\"一站式\\\"消费和\\\"体验式\\\"购物，集零售、餐饮、文化、休闲、娱乐等业态于一体，涵盖国际快时尚、特色餐饮、大型超市、电影院、儿童乐园、美容健身等全方位体验品牌",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 12.0,
+    "open_date": "2016-05-28",
+    "operator": "光大安石（北京）资产管理有限公司",
+    "brand": "",
+    "type": "综合型",
+    "floors": "B2-L5"
+  },
+  "traffic": {
+    "annual_daily": 3.26,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第76",
+    "jun_total": 109.7,
+    "jun_total_rank": "市内商场第107名",
+    "jun_daily_avg": 3.7,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第107名",
+    "weekday_avg": 3.2,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第120名",
+    "holiday_avg": 5.0,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第89名"
+  },
+  "population": {
+    "residential": {
+      "500m": 2.2,
+      "1_5km": 12.3,
+      "3km": 32.2
+    },
+    "office": {
+      "500m": 9900.0,
+      "1_5km": 4.1,
+      "3km": 14.8
+    },
+    "permanent": {
+      "500m": 2.3,
+      "1_5km": 10.6,
+      "3km": 28.3
+    }
+  },
+  "business": {
+    "competitors": 4.0,
+    "food": 256.0,
+    "shopping": 244.0,
+    "leisure": 21.0,
+    "education": 16.0,
+    "hotel": 12.0,
+    "services": 167.0,
+    "fitness": 18.0,
+    "auto": 15.0,
+    "total_stores": 231.0,
+    "old_store_3yr_pct": 44.0
+  },
+  "nearby_poi": {
+    "business": 3.0,
+    "community": 120.0,
+    "office": 10.0,
+    "school": 17.0,
+    "hospital": 13.0,
+    "transport": 9.0,
+    "scenic": 26.0
+  },
+  "demographics": {
+    "male_pct": 53.9,
+    "female_pct": null,
+    "education": {
+      "小学": 11.0,
+      "初中": 19.9,
+      "高中": 12.7,
+      "大专": 9.8,
+      "本科": 42.2,
+      "硕士": 3.6,
+      "博士": 0.8
+    },
+    "has_children_pct": 61.1,
+    "no_children_pct": 38.9
+  },
+  "scraped_at": "2026-08-01T05:26:18.615Z",
+  "nearby_restaurants": [
+    {
+      "brand": "醉美里(大融城店)",
+      "address": "宝安公路3386号大融城F4层407",
+      "distance": "25m"
+    },
+    {
+      "brand": "小罐茶(大融城嘉定店)",
+      "address": "宝安公路3386号大融城F5层501-2室501-3室",
+      "distance": "31m"
+    },
+    {
+      "brand": "古鲁特烤肉自助餐厅(上海嘉定大融城店)",
+      "address": "宝安公路3386号大融城F5层",
+      "distance": "31m"
+    },
+    {
+      "brand": "本素·酸菜鱼(大融城店)",
+      "address": "宝安公路3388号大融城4楼",
+      "distance": "33m"
+    },
+    {
+      "brand": "红渡小香超级香锅(大融城店)",
+      "address": "马陆镇宝安公路3456号B119-4室",
+      "distance": "33m"
+    },
+    {
+      "brand": "渝八两重庆鸡公煲(上海大融城店)",
+      "address": "宝安公路3456号B119-5",
+      "distance": "34m"
+    },
+    {
+      "brand": "小菜园新徽菜(上海嘉定大融城店)",
+      "address": "宝安公路嘉定大融城lMlXPARK4楼4F054号",
+      "distance": "38m"
+    },
+    {
+      "brand": "顺风江南宴(嘉定店)",
+      "address": "宝安公路3386号大融城F5层503-2",
+      "distance": "39m"
+    },
+    {
+      "brand": "云阿蛮云南生烫牛肉米线(嘉定大融城店)",
+      "address": "马陆镇宝安公路3386号嘉定大融城B1-12商铺",
+      "distance": "41m"
+    },
+    {
+      "brand": "三两拌面(嘉定大融城店)",
+      "address": "宝安公路3386号大融城B1层",
+      "distance": "43m"
+    },
+    {
+      "brand": "醉美里(大融城店)",
+      "address": "宝安公路3386号大融城F4层407",
+      "distance": "25m"
+    },
+    {
+      "brand": "小罐茶(大融城嘉定店)",
+      "address": "宝安公路3386号大融城F5层501-2室501-3室",
+      "distance": "31m"
+    },
+    {
+      "brand": "古鲁特烤肉自助餐厅(上海嘉定大融城店)",
+      "address": "宝安公路3386号大融城F5层",
+      "distance": "31m"
+    },
+    {
+      "brand": "本素·酸菜鱼(大融城店)",
+      "address": "宝安公路3388号大融城4楼",
+      "distance": "33m"
+    },
+    {
+      "brand": "红渡小香超级香锅(大融城店)",
+      "address": "马陆镇宝安公路3456号B119-4室",
+      "distance": "33m"
+    },
+    {
+      "brand": "渝八两重庆鸡公煲(上海大融城店)",
+      "address": "宝安公路3456号B119-5",
+      "distance": "34m"
+    },
+    {
+      "brand": "小菜园新徽菜(上海嘉定大融城店)",
+      "address": "宝安公路嘉定大融城lMlXPARK4楼4F054号",
+      "distance": "38m"
+    },
+    {
+      "brand": "顺风江南宴(嘉定店)",
+      "address": "宝安公路3386号大融城F5层503-2",
+      "distance": "39m"
+    },
+    {
+      "brand": "云阿蛮云南生烫牛肉米线(嘉定大融城店)",
+      "address": "马陆镇宝安公路3386号嘉定大融城B1-12商铺",
+      "distance": "41m"
+    },
+    {
+      "brand": "三两拌面(嘉定大融城店)",
+      "address": "宝安公路3386号大融城B1层",
+      "distance": "43m"
+    },
+    {
+      "brand": "醉美里(大融城店)",
+      "address": "宝安公路3386号大融城F4层407",
+      "distance": "25m"
+    },
+    {
+      "brand": "小罐茶(大融城嘉定店)",
+      "address": "宝安公路3386号大融城F5层501-2室501-3室",
+      "distance": "31m"
+    },
+    {
+      "brand": "古鲁特烤肉自助餐厅(上海嘉定大融城店)",
+      "address": "宝安公路3386号大融城F5层",
+      "distance": "31m"
+    },
+    {
+      "brand": "本素·酸菜鱼(大融城店)",
+      "address": "宝安公路3388号大融城4楼",
+      "distance": "33m"
+    },
+    {
+      "brand": "红渡小香超级香锅(大融城店)",
+      "address": "马陆镇宝安公路3456号B119-4室",
+      "distance": "33m"
+    },
+    {
+      "brand": "渝八两重庆鸡公煲(上海大融城店)",
+      "address": "宝安公路3456号B119-5",
+      "distance": "34m"
+    },
+    {
+      "brand": "小菜园新徽菜(上海嘉定大融城店)",
+      "address": "宝安公路嘉定大融城lMlXPARK4楼4F054号",
+      "distance": "38m"
+    },
+    {
+      "brand": "顺风江南宴(嘉定店)",
+      "address": "宝安公路3386号大融城F5层503-2",
+      "distance": "39m"
+    },
+    {
+      "brand": "云阿蛮云南生烫牛肉米线(嘉定大融城店)",
+      "address": "马陆镇宝安公路3386号嘉定大融城B1-12商铺",
+      "distance": "41m"
+    },
+    {
+      "brand": "三两拌面(嘉定大融城店)",
+      "address": "宝安公路3386号大融城B1层",
+      "distance": "43m"
+    },
+    {
+      "brand": "醉美里(大融城店)",
+      "address": "宝安公路3386号大融城F4层407",
+      "distance": "25m"
+    },
+    {
+      "brand": "小罐茶(大融城嘉定店)",
+      "address": "宝安公路3386号大融城F5层501-2室501-3室",
+      "distance": "31m"
+    },
+    {
+      "brand": "古鲁特烤肉自助餐厅(上海嘉定大融城店)",
+      "address": "宝安公路3386号大融城F5层",
+      "distance": "31m"
+    },
+    {
+      "brand": "本素·酸菜鱼(大融城店)",
+      "address": "宝安公路3388号大融城4楼",
+      "distance": "33m"
+    },
+    {
+      "brand": "红渡小香超级香锅(大融城店)",
+      "address": "马陆镇宝安公路3456号B119-4室",
+      "distance": "33m"
+    },
+    {
+      "brand": "渝八两重庆鸡公煲(上海大融城店)",
+      "address": "宝安公路3456号B119-5",
+      "distance": "34m"
+    },
+    {
+      "brand": "小菜园新徽菜(上海嘉定大融城店)",
+      "address": "宝安公路嘉定大融城lMlXPARK4楼4F054号",
+      "distance": "38m"
+    },
+    {
+      "brand": "顺风江南宴(嘉定店)",
+      "address": "宝安公路3386号大融城F5层503-2",
+      "distance": "39m"
+    },
+    {
+      "brand": "云阿蛮云南生烫牛肉米线(嘉定大融城店)",
+      "address": "马陆镇宝安公路3386号嘉定大融城B1-12商铺",
+      "distance": "41m"
+    },
+    {
+      "brand": "三两拌面(嘉定大融城店)",
+      "address": "宝安公路3386号大融城B1层",
+      "distance": "43m"
+    },
+    {
+      "brand": "醉美里(大融城店)",
+      "address": "宝安公路3386号大融城F4层407",
+      "distance": "25m"
+    },
+    {
+      "brand": "小罐茶(大融城嘉定店)",
+      "address": "宝安公路3386号大融城F5层501-2室501-3室",
+      "distance": "31m"
+    },
+    {
+      "brand": "古鲁特烤肉自助餐厅(上海嘉定大融城店)",
+      "address": "宝安公路3386号大融城F5层",
+      "distance": "31m"
+    },
+    {
+      "brand": "本素·酸菜鱼(大融城店)",
+      "address": "宝安公路3388号大融城4楼",
+      "distance": "33m"
+    },
+    {
+      "brand": "红渡小香超级香锅(大融城店)",
+      "address": "马陆镇宝安公路3456号B119-4室",
+      "distance": "33m"
+    },
+    {
+      "brand": "渝八两重庆鸡公煲(上海大融城店)",
+      "address": "宝安公路3456号B119-5",
+      "distance": "34m"
+    },
+    {
+      "brand": "小菜园新徽菜(上海嘉定大融城店)",
+      "address": "宝安公路嘉定大融城lMlXPARK4楼4F054号",
+      "distance": "38m"
+    },
+    {
+      "brand": "顺风江南宴(嘉定店)",
+      "address": "宝安公路3386号大融城F5层503-2",
+      "distance": "39m"
+    },
+    {
+      "brand": "云阿蛮云南生烫牛肉米线(嘉定大融城店)",
+      "address": "马陆镇宝安公路3386号嘉定大融城B1-12商铺",
+      "distance": "41m"
+    },
+    {
+      "brand": "三两拌面(嘉定大融城店)",
+      "address": "宝安公路3386号大融城B1层",
+      "distance": "43m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海东方荟商业广场",
+      "open_date": "2024-09-26",
+      "area": "1.7万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海吉宝绿地缤纷城",
+      "open_date": "2018-12-01",
+      "area": "4万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "天林商业广场",
+      "open_date": "2020-12-18",
+      "area": "-",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 75.0,
+      "within_1yr_pct": 14.7,
+      "1_3yr_pct": 42.7,
+      "over_3yr_pct": 42.7
+    },
+    {
+      "type": "购物",
+      "count": 82.0,
+      "within_1yr_pct": 13.4,
+      "1_3yr_pct": 32.9,
+      "over_3yr_pct": 53.7
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 13.0,
+      "within_1yr_pct": 30.8,
+      "1_3yr_pct": 53.8,
+      "over_3yr_pct": 15.4
+    },
+    {
+      "type": "教育培训",
+      "count": 11.0,
+      "within_1yr_pct": 9.1,
+      "1_3yr_pct": 54.5,
+      "over_3yr_pct": 36.4
+    },
+    {
+      "type": "生活服务",
+      "count": 30.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 40.0,
+      "over_3yr_pct": 40.0
+    },
+    {
+      "type": "运动健身",
+      "count": 13.0,
+      "within_1yr_pct": 23.1,
+      "1_3yr_pct": 53.8,
+      "over_3yr_pct": 23.1
+    },
+    {
+      "type": "车辆服务",
+      "count": 7.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 42.9,
+      "over_3yr_pct": 57.1
+    }
+  ]
+}

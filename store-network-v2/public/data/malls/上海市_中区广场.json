@@ -1,0 +1,486 @@
+{
+  "name": "中区广场",
+  "city": "上海市",
+  "address": "上海市黄浦区南京东路街道中区广场江阴小区",
+  "lat": 31.229911,
+  "lng": 121.47016,
+  "overview": {
+    "score": 83.9,
+    "score_rank": "市内前30%",
+    "population_score": 89.7,
+    "area_score": 86.8,
+    "consumption_score": 86.7,
+    "industry_score": 83.8,
+    "annual_sales": "",
+    "annual_sales_unit": "",
+    "area_size_sqm": null,
+    "open_date": "",
+    "operator": "",
+    "brand": "",
+    "type": "",
+    "floors": ""
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "",
+    "annual_daily_rank": "",
+    "jun_total": null,
+    "jun_total_rank": "",
+    "jun_daily_avg": null,
+    "jun_daily_unit": "",
+    "jun_daily_rank": "",
+    "weekday_avg": null,
+    "weekday_unit": "",
+    "weekday_rank": "",
+    "holiday_avg": null,
+    "holiday_unit": "",
+    "holiday_rank": ""
+  },
+  "population": {
+    "residential": {
+      "500m": 2.4,
+      "1_5km": 19.3,
+      "3km": 86.8
+    },
+    "office": {
+      "500m": 4.2,
+      "1_5km": 33.7,
+      "3km": 109.9
+    },
+    "permanent": {
+      "500m": 2.7,
+      "1_5km": 25.8,
+      "3km": 110.2
+    }
+  },
+  "business": {
+    "competitors": 9.0,
+    "food": 282.0,
+    "shopping": 210.0,
+    "leisure": 42.0,
+    "education": 31.0,
+    "hotel": 65.0,
+    "services": 149.0,
+    "fitness": 18.0,
+    "auto": 28.0,
+    "total_stores": 837.0,
+    "old_store_3yr_pct": 49.0
+  },
+  "nearby_poi": {
+    "business": 37.0,
+    "community": 1082.0,
+    "office": 212.0,
+    "school": 62.0,
+    "hospital": 224.0,
+    "transport": 17.0,
+    "scenic": 974.0
+  },
+  "demographics": {
+    "male_pct": 48.0,
+    "female_pct": null,
+    "education": {
+      "小学": 9.3,
+      "初中": 17.3,
+      "高中": 11.6,
+      "大专": 7.1,
+      "本科": 47.4,
+      "硕士": 5.6,
+      "博士": 1.7
+    },
+    "has_children_pct": null,
+    "no_children_pct": null
+  },
+  "scraped_at": "2026-07-31T12:39:26.909Z",
+  "nearby_restaurants": [
+    {
+      "brand": "尊府(人民广场洋房店)",
+      "address": "威海路48号(民生银行后侧独栋洋房)",
+      "distance": "44m"
+    },
+    {
+      "brand": "喜禾年·健康家常菜·中式轻食",
+      "address": "黄陂北路227号中区广场1号楼",
+      "distance": "52m"
+    },
+    {
+      "brand": "岳阳楼湘菜馆(人民广场店)",
+      "address": "江阴路与黄陂北路交叉口西南100米",
+      "distance": "56m"
+    },
+    {
+      "brand": "百川惠",
+      "address": "黄陂北路与威海路交叉口西北120米",
+      "distance": "59m"
+    },
+    {
+      "brand": "克比叔叔印度餐厅KebabsontheGrille人民广场店",
+      "address": "黄陂北路227号中区广场103单元",
+      "distance": "71m"
+    },
+    {
+      "brand": "甬台汇·海鲜火锅(黄浦店)",
+      "address": "威海路48号中国民生银行大厦F2层",
+      "distance": "78m"
+    },
+    {
+      "brand": "Tims天好咖啡(中区广场店)",
+      "address": "黄陂北路227号中区广场1层02店铺",
+      "distance": "91m"
+    },
+    {
+      "brand": "苹果花园(威海路店)",
+      "address": "威海路62号",
+      "distance": "96m"
+    },
+    {
+      "brand": "老上海灌汤包杭帮面(威海路店)",
+      "address": "威海小区甲62号",
+      "distance": "96m"
+    },
+    {
+      "brand": "菜饭骨头煲(威海小区店)",
+      "address": "威海路62号威海小区",
+      "distance": "97m"
+    },
+    {
+      "brand": "尊府(人民广场洋房店)",
+      "address": "威海路48号(民生银行后侧独栋洋房)",
+      "distance": "44m"
+    },
+    {
+      "brand": "喜禾年·健康家常菜·中式轻食",
+      "address": "黄陂北路227号中区广场1号楼",
+      "distance": "52m"
+    },
+    {
+      "brand": "岳阳楼湘菜馆(人民广场店)",
+      "address": "江阴路与黄陂北路交叉口西南100米",
+      "distance": "56m"
+    },
+    {
+      "brand": "百川惠",
+      "address": "黄陂北路与威海路交叉口西北120米",
+      "distance": "59m"
+    },
+    {
+      "brand": "克比叔叔印度餐厅KebabsontheGrille人民广场店",
+      "address": "黄陂北路227号中区广场103单元",
+      "distance": "71m"
+    },
+    {
+      "brand": "甬台汇·海鲜火锅(黄浦店)",
+      "address": "威海路48号中国民生银行大厦F2层",
+      "distance": "78m"
+    },
+    {
+      "brand": "Tims天好咖啡(中区广场店)",
+      "address": "黄陂北路227号中区广场1层02店铺",
+      "distance": "91m"
+    },
+    {
+      "brand": "苹果花园(威海路店)",
+      "address": "威海路62号",
+      "distance": "96m"
+    },
+    {
+      "brand": "老上海灌汤包杭帮面(威海路店)",
+      "address": "威海小区甲62号",
+      "distance": "96m"
+    },
+    {
+      "brand": "菜饭骨头煲(威海小区店)",
+      "address": "威海路62号威海小区",
+      "distance": "97m"
+    },
+    {
+      "brand": "尊府(人民广场洋房店)",
+      "address": "威海路48号(民生银行后侧独栋洋房)",
+      "distance": "44m"
+    },
+    {
+      "brand": "喜禾年·健康家常菜·中式轻食",
+      "address": "黄陂北路227号中区广场1号楼",
+      "distance": "52m"
+    },
+    {
+      "brand": "岳阳楼湘菜馆(人民广场店)",
+      "address": "江阴路与黄陂北路交叉口西南100米",
+      "distance": "56m"
+    },
+    {
+      "brand": "百川惠",
+      "address": "黄陂北路与威海路交叉口西北120米",
+      "distance": "59m"
+    },
+    {
+      "brand": "克比叔叔印度餐厅KebabsontheGrille人民广场店",
+      "address": "黄陂北路227号中区广场103单元",
+      "distance": "71m"
+    },
+    {
+      "brand": "甬台汇·海鲜火锅(黄浦店)",
+      "address": "威海路48号中国民生银行大厦F2层",
+      "distance": "78m"
+    },
+    {
+      "brand": "Tims天好咖啡(中区广场店)",
+      "address": "黄陂北路227号中区广场1层02店铺",
+      "distance": "91m"
+    },
+    {
+      "brand": "苹果花园(威海路店)",
+      "address": "威海路62号",
+      "distance": "96m"
+    },
+    {
+      "brand": "老上海灌汤包杭帮面(威海路店)",
+      "address": "威海小区甲62号",
+      "distance": "96m"
+    },
+    {
+      "brand": "菜饭骨头煲(威海小区店)",
+      "address": "威海路62号威海小区",
+      "distance": "97m"
+    },
+    {
+      "brand": "尊府(人民广场洋房店)",
+      "address": "威海路48号(民生银行后侧独栋洋房)",
+      "distance": "44m"
+    },
+    {
+      "brand": "喜禾年·健康家常菜·中式轻食",
+      "address": "黄陂北路227号中区广场1号楼",
+      "distance": "52m"
+    },
+    {
+      "brand": "岳阳楼湘菜馆(人民广场店)",
+      "address": "江阴路与黄陂北路交叉口西南100米",
+      "distance": "56m"
+    },
+    {
+      "brand": "百川惠",
+      "address": "黄陂北路与威海路交叉口西北120米",
+      "distance": "59m"
+    },
+    {
+      "brand": "克比叔叔印度餐厅KebabsontheGrille人民广场店",
+      "address": "黄陂北路227号中区广场103单元",
+      "distance": "71m"
+    },
+    {
+      "brand": "甬台汇·海鲜火锅(黄浦店)",
+      "address": "威海路48号中国民生银行大厦F2层",
+      "distance": "78m"
+    },
+    {
+      "brand": "Tims天好咖啡(中区广场店)",
+      "address": "黄陂北路227号中区广场1层02店铺",
+      "distance": "91m"
+    },
+    {
+      "brand": "苹果花园(威海路店)",
+      "address": "威海路62号",
+      "distance": "96m"
+    },
+    {
+      "brand": "老上海灌汤包杭帮面(威海路店)",
+      "address": "威海小区甲62号",
+      "distance": "96m"
+    },
+    {
+      "brand": "菜饭骨头煲(威海小区店)",
+      "address": "威海路62号威海小区",
+      "distance": "97m"
+    },
+    {
+      "brand": "尊府(人民广场洋房店)",
+      "address": "威海路48号(民生银行后侧独栋洋房)",
+      "distance": "44m"
+    },
+    {
+      "brand": "喜禾年·健康家常菜·中式轻食",
+      "address": "黄陂北路227号中区广场1号楼",
+      "distance": "52m"
+    },
+    {
+      "brand": "岳阳楼湘菜馆(人民广场店)",
+      "address": "江阴路与黄陂北路交叉口西南100米",
+      "distance": "56m"
+    },
+    {
+      "brand": "百川惠",
+      "address": "黄陂北路与威海路交叉口西北120米",
+      "distance": "59m"
+    },
+    {
+      "brand": "克比叔叔印度餐厅KebabsontheGrille人民广场店",
+      "address": "黄陂北路227号中区广场103单元",
+      "distance": "71m"
+    },
+    {
+      "brand": "甬台汇·海鲜火锅(黄浦店)",
+      "address": "威海路48号中国民生银行大厦F2层",
+      "distance": "78m"
+    },
+    {
+      "brand": "Tims天好咖啡(中区广场店)",
+      "address": "黄陂北路227号中区广场1层02店铺",
+      "distance": "91m"
+    },
+    {
+      "brand": "苹果花园(威海路店)",
+      "address": "威海路62号",
+      "distance": "96m"
+    },
+    {
+      "brand": "老上海灌汤包杭帮面(威海路店)",
+      "address": "威海小区甲62号",
+      "distance": "96m"
+    },
+    {
+      "brand": "菜饭骨头煲(威海小区店)",
+      "address": "威海路62号威海小区",
+      "distance": "97m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海仙乐斯广场",
+      "open_date": "2001",
+      "area": "2.3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海迪美购物中心",
+      "open_date": "1995-01-01",
+      "area": "5万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海世茂52+",
+      "open_date": "2010-01-01",
+      "area": "1.5万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海兴业太古汇",
+      "open_date": "2017-11-03",
+      "area": "10.3万㎡",
+      "jun_daily_avg": "6万人次",
+      "weekday_avg": "5.9万人次",
+      "holiday_avg": "6.4万人次"
+    },
+    {
+      "name": "上海K11",
+      "open_date": "2013-06-01",
+      "area": "13万㎡",
+      "jun_daily_avg": "1.8万人次",
+      "weekday_avg": "1.7万人次",
+      "holiday_avg": "2.1万人次"
+    },
+    {
+      "name": "上海来福士广场",
+      "open_date": "2003-11-01",
+      "area": "4.6万㎡",
+      "jun_daily_avg": "2.7万人次",
+      "weekday_avg": "2.4万人次",
+      "holiday_avg": "3.3万人次"
+    },
+    {
+      "name": "上海力宝广场",
+      "open_date": "1999-01-01",
+      "area": "1万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海香港广场",
+      "open_date": "1998-01-01",
+      "area": "3.8万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海新世界城",
+      "open_date": "1995-12-30",
+      "area": "7万㎡",
+      "jun_daily_avg": "5.7万人次",
+      "weekday_avg": "4.9万人次",
+      "holiday_avg": "8.2万人次"
+    },
+    {
+      "name": "上海中环广场",
+      "open_date": "1999-01-01",
+      "area": "1.2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 282.0,
+      "within_1yr_pct": 35.1,
+      "1_3yr_pct": 19.5,
+      "over_3yr_pct": 45.4
+    },
+    {
+      "type": "购物",
+      "count": 210.0,
+      "within_1yr_pct": 19.5,
+      "1_3yr_pct": 18.6,
+      "over_3yr_pct": 61.9
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 54.0,
+      "within_1yr_pct": 22.2,
+      "1_3yr_pct": 38.9,
+      "over_3yr_pct": 38.9
+    },
+    {
+      "type": "教育培训",
+      "count": 31.0,
+      "within_1yr_pct": 29.0,
+      "1_3yr_pct": 29.0,
+      "over_3yr_pct": 41.9
+    },
+    {
+      "type": "酒店住宿",
+      "count": 65.0,
+      "within_1yr_pct": 56.9,
+      "1_3yr_pct": 12.3,
+      "over_3yr_pct": 30.8
+    },
+    {
+      "type": "生活服务",
+      "count": 149.0,
+      "within_1yr_pct": 20.8,
+      "1_3yr_pct": 26.8,
+      "over_3yr_pct": 52.3
+    },
+    {
+      "type": "运动健身",
+      "count": 18.0,
+      "within_1yr_pct": 22.2,
+      "1_3yr_pct": 55.6,
+      "over_3yr_pct": 22.2
+    },
+    {
+      "type": "车辆服务",
+      "count": 28.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 28.6,
+      "over_3yr_pct": 46.4
+    }
+  ]
+}

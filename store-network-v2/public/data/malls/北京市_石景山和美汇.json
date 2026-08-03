@@ -1,0 +1,200 @@
+{
+  "name": "石景山和美汇",
+  "city": "北京市",
+  "address": "北京市昌平区龙域中街1号院",
+  "lat": 40.066458,
+  "lng": 116.316338,
+  "overview": {
+    "score": 91.1,
+    "score_rank": "市内前30%",
+    "population_score": 90.6,
+    "area_score": 79.0,
+    "consumption_score": 73.1,
+    "industry_score": 91.2,
+    "annual_sales": "7",
+    "annual_sales_unit": "亿元",
+    "area_size_sqm": 5.1,
+    "open_date": "2018-10-01",
+    "operator": "印力商用置业有限公司",
+    "brand": "引力",
+    "type": "综合型",
+    "floors": "B2-L5"
+  },
+  "traffic": {
+    "annual_daily": 1.71,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第146",
+    "jun_total": 50.7,
+    "jun_total_rank": "市内商场第185名",
+    "jun_daily_avg": 1.7,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第185名",
+    "weekday_avg": 1.5,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第189名",
+    "holiday_avg": 2.1,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第166名"
+  },
+  "population": {
+    "residential": {
+      "500m": 2.3,
+      "1_5km": 14.9,
+      "3km": 51.8
+    },
+    "office": {
+      "500m": 1.3,
+      "1_5km": 5.6,
+      "3km": 31.7
+    },
+    "permanent": {
+      "500m": 2.3,
+      "1_5km": 13.5,
+      "3km": 49.8
+    }
+  },
+  "business": {
+    "competitors": 2.0,
+    "food": 147.0,
+    "shopping": 69.0,
+    "leisure": 12.0,
+    "education": 30.0,
+    "hotel": 7.0,
+    "services": 118.0,
+    "fitness": 23.0,
+    "auto": 7.0,
+    "total_stores": 119.0,
+    "old_store_3yr_pct": 60.0
+  },
+  "nearby_poi": {
+    "business": 2.0,
+    "community": 188.0,
+    "office": 25.0,
+    "school": 31.0,
+    "hospital": 53.0,
+    "transport": 6.0,
+    "scenic": 57.0
+  },
+  "demographics": {
+    "male_pct": 53.1,
+    "female_pct": null,
+    "education": {
+      "小学": 6.7,
+      "初中": 12.1,
+      "高中": 11.7,
+      "大专": 6.2,
+      "本科": 50.2,
+      "硕士": 11.0,
+      "博士": 2.1
+    },
+    "has_children_pct": 59.9,
+    "no_children_pct": 40.1
+  },
+  "scraped_at": "2026-08-01T07:31:45.984Z",
+  "nearby_restaurants": [
+    {
+      "brand": "黄焖鸡米饭(新龙城店)",
+      "address": "G6京藏高速与G6京藏高速入口交叉口东150米",
+      "distance": "489m"
+    },
+    {
+      "brand": "永顺炸鸡(同成南街店)",
+      "address": "同成南街与G6辅路交叉口东140米",
+      "distance": "489m"
+    },
+    {
+      "brand": "麻辣烫(新龙城)",
+      "address": "新龙城六号楼底商麻辣烫(龙泽地铁站A北口步行480米)",
+      "distance": "493m"
+    },
+    {
+      "brand": "驴臻匠河间驴肉火烧(新龙城店)",
+      "address": "同成南街与G6辅路交叉口东140米",
+      "distance": "493m"
+    },
+    {
+      "brand": "伍哥煎饼+凉皮",
+      "address": "昌平区G6辅路与新龙城小区北侧路交叉口正东方向130米",
+      "distance": "493m"
+    },
+    {
+      "brand": "彪哥串吧(新龙城1期店)",
+      "address": "新龙城6号楼西侧底商",
+      "distance": "494m"
+    },
+    {
+      "brand": "徽州鸭头(新龙城一、三期店)",
+      "address": "新龙城一、三期",
+      "distance": "495m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "北京华联回龙观购物中心",
+      "open_date": "2007-02-01",
+      "area": "6.5万㎡",
+      "jun_daily_avg": "2.7万人次",
+      "weekday_avg": "2.4万人次",
+      "holiday_avg": "3.5万人次"
+    },
+    {
+      "name": "西二旗益民商城",
+      "open_date": "2012-10-01",
+      "area": "1.2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 57.0,
+      "within_1yr_pct": 19.3,
+      "1_3yr_pct": 17.5,
+      "over_3yr_pct": 63.2
+    },
+    {
+      "type": "购物",
+      "count": 26.0,
+      "within_1yr_pct": 15.4,
+      "1_3yr_pct": 23.1,
+      "over_3yr_pct": 61.5
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 7.0,
+      "within_1yr_pct": 14.3,
+      "1_3yr_pct": 14.3,
+      "over_3yr_pct": 71.4
+    },
+    {
+      "type": "教育培训",
+      "count": 5.0,
+      "within_1yr_pct": 40.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 60.0
+    },
+    {
+      "type": "生活服务",
+      "count": 16.0,
+      "within_1yr_pct": 31.3,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 43.8
+    },
+    {
+      "type": "运动健身",
+      "count": 6.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 66.7,
+      "over_3yr_pct": 33.3
+    },
+    {
+      "type": "车辆服务",
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    }
+  ]
+}

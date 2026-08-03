@@ -1,0 +1,439 @@
+{
+  "name": "丁香国际广场",
+  "city": "上海市",
+  "address": "上海市浦东新区丁香路858号",
+  "lat": 31.225199,
+  "lng": 121.551199,
+  "overview": {
+    "score": 93.1,
+    "score_rank": "市内前30%",
+    "population_score": 80.9,
+    "area_score": 70.7,
+    "consumption_score": 87.2,
+    "industry_score": 93.3,
+    "annual_sales": "香国际商业中心集国际美食、时尚服饰、娱乐、亲子服务于一体，旨在提升联洋地区的商业档次，打造区域全新的商业地标 。商场部分功能包括零售、餐饮、影院、健身等",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 4.7,
+    "open_date": "2017-07-09",
+    "operator": "上海申闻置业投资有限公司",
+    "brand": "",
+    "type": "美食型",
+    "floors": "B2-L4"
+  },
+  "traffic": {
+    "annual_daily": 1.66,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第164",
+    "jun_total": 81.1,
+    "jun_total_rank": "市内商场第150名",
+    "jun_daily_avg": 2.7,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第150名",
+    "weekday_avg": 2.7,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第138名",
+    "holiday_avg": 2.6,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第177名"
+  },
+  "population": {
+    "residential": {
+      "500m": 1.6,
+      "1_5km": 10.9,
+      "3km": 64.2
+    },
+    "office": {
+      "500m": 3.2,
+      "1_5km": 10.5,
+      "3km": 49.1
+    },
+    "permanent": {
+      "500m": 2.2,
+      "1_5km": 12.2,
+      "3km": 68.2
+    }
+  },
+  "business": {
+    "competitors": 5.0,
+    "food": 98.0,
+    "shopping": 52.0,
+    "leisure": 5.0,
+    "education": 20.0,
+    "hotel": 10.0,
+    "services": 59.0,
+    "fitness": 18.0,
+    "auto": 15.0,
+    "total_stores": 95.0,
+    "old_store_3yr_pct": 66.0
+  },
+  "nearby_poi": {
+    "business": 5.0,
+    "community": 370.0,
+    "office": 38.0,
+    "school": 19.0,
+    "hospital": 89.0,
+    "transport": 16.0,
+    "scenic": 211.0
+  },
+  "demographics": {
+    "male_pct": 49.3,
+    "female_pct": null,
+    "education": {
+      "小学": 9.0,
+      "初中": 16.4,
+      "高中": 10.6,
+      "大专": 7.0,
+      "本科": 48.6,
+      "硕士": 6.6,
+      "博士": 1.8
+    },
+    "has_children_pct": 58.4,
+    "no_children_pct": 41.6
+  },
+  "scraped_at": "2026-07-31T12:46:48.799Z",
+  "nearby_restaurants": [
+    {
+      "brand": "遇见小面(丁香国际店)",
+      "address": "丁香路880弄丁香国际购物中心地下一层LG104-2",
+      "distance": "6m"
+    },
+    {
+      "brand": "YA BENJIA by元爱本家·正宗韩国烤肉(丁香国际店)",
+      "address": "丁香路858号丁香国际商业中心2楼",
+      "distance": "7m"
+    },
+    {
+      "brand": "柠季·手打柠檬茶(上海丁香国际店)",
+      "address": "花木街道丁香路858号丁香国际商业中心LG212-4室",
+      "distance": "9m"
+    },
+    {
+      "brand": "小雪人东北菜",
+      "address": "民生路与丁香路交叉口东140米",
+      "distance": "9m"
+    },
+    {
+      "brand": "成都你六姐·牛肉冒菜(上海丁香国际店)",
+      "address": "花木街道丁香路858号丁香国际商业中心负二楼",
+      "distance": "10m"
+    },
+    {
+      "brand": "倾长安大美陕菜(丁香国际商业中心店)",
+      "address": "中国(上海)自由贸易试验区丁香路880弄2号地下二层LG208室",
+      "distance": "11m"
+    },
+    {
+      "brand": "BUTTER&FISH黄油&渔·黄油手工烤鱼片(丁香国际店)",
+      "address": "丁香国际广场(杨高中路地铁站7号口步行110米)",
+      "distance": "11m"
+    },
+    {
+      "brand": "马记永·兰州牛肉面(上海丁香国际商业中心店)",
+      "address": "丁香路858号上海丁香国际商业中心LG2层",
+      "distance": "14m"
+    },
+    {
+      "brand": "赛百味 SUBWAY(上海丁香国际商业中心店)(暂停营业)",
+      "address": "丁香路858号丁香国际商业中旬负2层",
+      "distance": "14m"
+    },
+    {
+      "brand": "新太二·鲜料川菜(上海丁香国际分店)",
+      "address": "丁香路880弄丁香国际商业中心2楼(星巴克扶梯上2楼)",
+      "distance": "15m"
+    },
+    {
+      "brand": "遇见小面(丁香国际店)",
+      "address": "丁香路880弄丁香国际购物中心地下一层LG104-2",
+      "distance": "6m"
+    },
+    {
+      "brand": "YA BENJIA by元爱本家·正宗韩国烤肉(丁香国际店)",
+      "address": "丁香路858号丁香国际商业中心2楼",
+      "distance": "7m"
+    },
+    {
+      "brand": "柠季·手打柠檬茶(上海丁香国际店)",
+      "address": "花木街道丁香路858号丁香国际商业中心LG212-4室",
+      "distance": "9m"
+    },
+    {
+      "brand": "小雪人东北菜",
+      "address": "民生路与丁香路交叉口东140米",
+      "distance": "9m"
+    },
+    {
+      "brand": "成都你六姐·牛肉冒菜(上海丁香国际店)",
+      "address": "花木街道丁香路858号丁香国际商业中心负二楼",
+      "distance": "10m"
+    },
+    {
+      "brand": "倾长安大美陕菜(丁香国际商业中心店)",
+      "address": "中国(上海)自由贸易试验区丁香路880弄2号地下二层LG208室",
+      "distance": "11m"
+    },
+    {
+      "brand": "BUTTER&FISH黄油&渔·黄油手工烤鱼片(丁香国际店)",
+      "address": "丁香国际广场(杨高中路地铁站7号口步行110米)",
+      "distance": "11m"
+    },
+    {
+      "brand": "马记永·兰州牛肉面(上海丁香国际商业中心店)",
+      "address": "丁香路858号上海丁香国际商业中心LG2层",
+      "distance": "14m"
+    },
+    {
+      "brand": "赛百味 SUBWAY(上海丁香国际商业中心店)(暂停营业)",
+      "address": "丁香路858号丁香国际商业中旬负2层",
+      "distance": "14m"
+    },
+    {
+      "brand": "新太二·鲜料川菜(上海丁香国际分店)",
+      "address": "丁香路880弄丁香国际商业中心2楼(星巴克扶梯上2楼)",
+      "distance": "15m"
+    },
+    {
+      "brand": "遇见小面(丁香国际店)",
+      "address": "丁香路880弄丁香国际购物中心地下一层LG104-2",
+      "distance": "6m"
+    },
+    {
+      "brand": "YA BENJIA by元爱本家·正宗韩国烤肉(丁香国际店)",
+      "address": "丁香路858号丁香国际商业中心2楼",
+      "distance": "7m"
+    },
+    {
+      "brand": "柠季·手打柠檬茶(上海丁香国际店)",
+      "address": "花木街道丁香路858号丁香国际商业中心LG212-4室",
+      "distance": "9m"
+    },
+    {
+      "brand": "小雪人东北菜",
+      "address": "民生路与丁香路交叉口东140米",
+      "distance": "9m"
+    },
+    {
+      "brand": "成都你六姐·牛肉冒菜(上海丁香国际店)",
+      "address": "花木街道丁香路858号丁香国际商业中心负二楼",
+      "distance": "10m"
+    },
+    {
+      "brand": "倾长安大美陕菜(丁香国际商业中心店)",
+      "address": "中国(上海)自由贸易试验区丁香路880弄2号地下二层LG208室",
+      "distance": "11m"
+    },
+    {
+      "brand": "BUTTER&FISH黄油&渔·黄油手工烤鱼片(丁香国际店)",
+      "address": "丁香国际广场(杨高中路地铁站7号口步行110米)",
+      "distance": "11m"
+    },
+    {
+      "brand": "马记永·兰州牛肉面(上海丁香国际商业中心店)",
+      "address": "丁香路858号上海丁香国际商业中心LG2层",
+      "distance": "14m"
+    },
+    {
+      "brand": "赛百味 SUBWAY(上海丁香国际商业中心店)(暂停营业)",
+      "address": "丁香路858号丁香国际商业中旬负2层",
+      "distance": "14m"
+    },
+    {
+      "brand": "新太二·鲜料川菜(上海丁香国际分店)",
+      "address": "丁香路880弄丁香国际商业中心2楼(星巴克扶梯上2楼)",
+      "distance": "15m"
+    },
+    {
+      "brand": "遇见小面(丁香国际店)",
+      "address": "丁香路880弄丁香国际购物中心地下一层LG104-2",
+      "distance": "6m"
+    },
+    {
+      "brand": "YA BENJIA by元爱本家·正宗韩国烤肉(丁香国际店)",
+      "address": "丁香路858号丁香国际商业中心2楼",
+      "distance": "7m"
+    },
+    {
+      "brand": "柠季·手打柠檬茶(上海丁香国际店)",
+      "address": "花木街道丁香路858号丁香国际商业中心LG212-4室",
+      "distance": "9m"
+    },
+    {
+      "brand": "小雪人东北菜",
+      "address": "民生路与丁香路交叉口东140米",
+      "distance": "9m"
+    },
+    {
+      "brand": "成都你六姐·牛肉冒菜(上海丁香国际店)",
+      "address": "花木街道丁香路858号丁香国际商业中心负二楼",
+      "distance": "10m"
+    },
+    {
+      "brand": "倾长安大美陕菜(丁香国际商业中心店)",
+      "address": "中国(上海)自由贸易试验区丁香路880弄2号地下二层LG208室",
+      "distance": "11m"
+    },
+    {
+      "brand": "BUTTER&FISH黄油&渔·黄油手工烤鱼片(丁香国际店)",
+      "address": "丁香国际广场(杨高中路地铁站7号口步行110米)",
+      "distance": "11m"
+    },
+    {
+      "brand": "马记永·兰州牛肉面(上海丁香国际商业中心店)",
+      "address": "丁香路858号上海丁香国际商业中心LG2层",
+      "distance": "14m"
+    },
+    {
+      "brand": "赛百味 SUBWAY(上海丁香国际商业中心店)(暂停营业)",
+      "address": "丁香路858号丁香国际商业中旬负2层",
+      "distance": "14m"
+    },
+    {
+      "brand": "新太二·鲜料川菜(上海丁香国际分店)",
+      "address": "丁香路880弄丁香国际商业中心2楼(星巴克扶梯上2楼)",
+      "distance": "15m"
+    },
+    {
+      "brand": "遇见小面(丁香国际店)",
+      "address": "丁香路880弄丁香国际购物中心地下一层LG104-2",
+      "distance": "6m"
+    },
+    {
+      "brand": "YA BENJIA by元爱本家·正宗韩国烤肉(丁香国际店)",
+      "address": "丁香路858号丁香国际商业中心2楼",
+      "distance": "7m"
+    },
+    {
+      "brand": "柠季·手打柠檬茶(上海丁香国际店)",
+      "address": "花木街道丁香路858号丁香国际商业中心LG212-4室",
+      "distance": "9m"
+    },
+    {
+      "brand": "小雪人东北菜",
+      "address": "民生路与丁香路交叉口东140米",
+      "distance": "9m"
+    },
+    {
+      "brand": "成都你六姐·牛肉冒菜(上海丁香国际店)",
+      "address": "花木街道丁香路858号丁香国际商业中心负二楼",
+      "distance": "10m"
+    },
+    {
+      "brand": "倾长安大美陕菜(丁香国际商业中心店)",
+      "address": "中国(上海)自由贸易试验区丁香路880弄2号地下二层LG208室",
+      "distance": "11m"
+    },
+    {
+      "brand": "BUTTER&FISH黄油&渔·黄油手工烤鱼片(丁香国际店)",
+      "address": "丁香国际广场(杨高中路地铁站7号口步行110米)",
+      "distance": "11m"
+    },
+    {
+      "brand": "马记永·兰州牛肉面(上海丁香国际商业中心店)",
+      "address": "丁香路858号上海丁香国际商业中心LG2层",
+      "distance": "14m"
+    },
+    {
+      "brand": "赛百味 SUBWAY(上海丁香国际商业中心店)(暂停营业)",
+      "address": "丁香路858号丁香国际商业中旬负2层",
+      "distance": "14m"
+    },
+    {
+      "brand": "新太二·鲜料川菜(上海丁香国际分店)",
+      "address": "丁香路880弄丁香国际商业中心2楼(星巴克扶梯上2楼)",
+      "distance": "15m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海联洋广场",
+      "open_date": "2008-12-24",
+      "area": "5.8万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海浦东大拇指广场",
+      "open_date": "2005-03-01",
+      "area": "11万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海FOR天物空间",
+      "open_date": "2020-03-01",
+      "area": "-",
+      "jun_daily_avg": "1.7万人次",
+      "weekday_avg": "1.5万人次",
+      "holiday_avg": "2.1万人次"
+    },
+    {
+      "name": "上海锦绣坊",
+      "open_date": "2007-05-01",
+      "area": "1.9万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海花木时光里",
+      "open_date": "2024-09-27",
+      "area": "4.7万㎡",
+      "jun_daily_avg": "2.6万人次",
+      "weekday_avg": "2.3万人次",
+      "holiday_avg": "3.6万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 44.0,
+      "within_1yr_pct": 6.8,
+      "1_3yr_pct": 27.3,
+      "over_3yr_pct": 65.9
+    },
+    {
+      "type": "购物",
+      "count": 19.0,
+      "within_1yr_pct": 21.1,
+      "1_3yr_pct": 10.5,
+      "over_3yr_pct": 68.4
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 5.0,
+      "within_1yr_pct": 60.0,
+      "1_3yr_pct": 20.0,
+      "over_3yr_pct": 20.0
+    },
+    {
+      "type": "教育培训",
+      "count": 3.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    },
+    {
+      "type": "生活服务",
+      "count": 18.0,
+      "within_1yr_pct": 5.6,
+      "1_3yr_pct": 11.1,
+      "over_3yr_pct": 83.3
+    },
+    {
+      "type": "运动健身",
+      "count": 5.0,
+      "within_1yr_pct": 60.0,
+      "1_3yr_pct": 20.0,
+      "over_3yr_pct": 20.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    }
+  ]
+}

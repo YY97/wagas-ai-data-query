@@ -1,0 +1,422 @@
+{
+  "name": "漕河泾印象城",
+  "city": "上海市",
+  "address": "上海市徐汇区虹梅路街道吉腾の拉面漕河泾现代服务业园区",
+  "lat": 31.164905,
+  "lng": 121.398371,
+  "overview": {
+    "score": 85.8,
+    "score_rank": "市内前30%",
+    "population_score": 67.5,
+    "area_score": 83.0,
+    "consumption_score": 60.0,
+    "industry_score": 85.9,
+    "annual_sales": "",
+    "annual_sales_unit": "",
+    "area_size_sqm": null,
+    "open_date": "",
+    "operator": "",
+    "brand": "",
+    "type": "",
+    "floors": ""
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "",
+    "annual_daily_rank": "",
+    "jun_total": null,
+    "jun_total_rank": "",
+    "jun_daily_avg": null,
+    "jun_daily_unit": "",
+    "jun_daily_rank": "",
+    "weekday_avg": null,
+    "weekday_unit": "",
+    "weekday_rank": "",
+    "holiday_avg": null,
+    "holiday_unit": "",
+    "holiday_rank": ""
+  },
+  "population": {
+    "residential": {
+      "500m": 5800.0,
+      "1_5km": 12.9,
+      "3km": 69.5
+    },
+    "office": {
+      "500m": 6.0,
+      "1_5km": 24.6,
+      "3km": 60.3
+    },
+    "permanent": {
+      "500m": 1.6,
+      "1_5km": 14.5,
+      "3km": 72.3
+    }
+  },
+  "business": {
+    "competitors": 12.0,
+    "food": 244.0,
+    "shopping": 74.0,
+    "leisure": 12.0,
+    "education": 12.0,
+    "hotel": 14.0,
+    "services": 76.0,
+    "fitness": 17.0,
+    "auto": 22.0,
+    "total_stores": 475.0,
+    "old_store_3yr_pct": 47.0
+  },
+  "nearby_poi": {
+    "business": 2.0,
+    "community": 397.0,
+    "office": 142.0,
+    "school": 24.0,
+    "hospital": 66.0,
+    "transport": 8.0,
+    "scenic": 112.0
+  },
+  "demographics": {
+    "male_pct": 47.6,
+    "female_pct": null,
+    "education": {
+      "小学": 8.3,
+      "初中": 15.5,
+      "高中": 11.2,
+      "大专": 7.0,
+      "本科": 49.8,
+      "硕士": 6.5,
+      "博士": 1.7
+    },
+    "has_children_pct": null,
+    "no_children_pct": null
+  },
+  "scraped_at": "2026-07-31T11:31:54.671Z",
+  "nearby_restaurants": [
+    {
+      "brand": "瑞幸咖啡(漕河泾现代服务园区店)",
+      "address": "古美路1528号漕河泾现代服务业园区7幢一层101B号",
+      "distance": "4m"
+    },
+    {
+      "brand": "复川小食堂(会议中心店)",
+      "address": "古美路与田州路交叉口东180米",
+      "distance": "6m"
+    },
+    {
+      "brand": "阿明潮汕鲜牛肉粿条汤",
+      "address": "古美路与田州路交叉口东160米",
+      "distance": "8m"
+    },
+    {
+      "brand": "老乡鸡(漕河泾现代服务业园区店)",
+      "address": "古美路1528号漕河泾会议中心A7号楼1层",
+      "distance": "9m"
+    },
+    {
+      "brand": "SilverFlow银流咖啡&贝果 (古美路店)",
+      "address": "古美路与田州路交叉口东180米",
+      "distance": "11m"
+    },
+    {
+      "brand": "Wagas沃歌斯(上海漕河泾园区店)",
+      "address": "古美路1528号7幢1层01商业101F1室商铺",
+      "distance": "13m"
+    },
+    {
+      "brand": "CHAGEE霸王茶姬(上海漕河泾总部园区店)",
+      "address": "古美路1528号7幢101-78室(漕河泾总部园区星巴克旁)",
+      "distance": "15m"
+    },
+    {
+      "brand": "CONTENT U COFFEE(漕河泾店)",
+      "address": "古美路1528号a7号楼地下一层D9室",
+      "distance": "20m"
+    },
+    {
+      "brand": "吉祥馄饨(上海漕河泾现代店)",
+      "address": "古美路1528号8栋地下1层02商业D10室商铺",
+      "distance": "24m"
+    },
+    {
+      "brand": "星巴克(古美路店)",
+      "address": "古美路1528号漕河泾现代服务园7幢1层101D室",
+      "distance": "26m"
+    },
+    {
+      "brand": "瑞幸咖啡(漕河泾现代服务园区店)",
+      "address": "古美路1528号漕河泾现代服务业园区7幢一层101B号",
+      "distance": "4m"
+    },
+    {
+      "brand": "复川小食堂(会议中心店)",
+      "address": "古美路与田州路交叉口东180米",
+      "distance": "6m"
+    },
+    {
+      "brand": "阿明潮汕鲜牛肉粿条汤",
+      "address": "古美路与田州路交叉口东160米",
+      "distance": "8m"
+    },
+    {
+      "brand": "老乡鸡(漕河泾现代服务业园区店)",
+      "address": "古美路1528号漕河泾会议中心A7号楼1层",
+      "distance": "9m"
+    },
+    {
+      "brand": "SilverFlow银流咖啡&贝果 (古美路店)",
+      "address": "古美路与田州路交叉口东180米",
+      "distance": "11m"
+    },
+    {
+      "brand": "Wagas沃歌斯(上海漕河泾园区店)",
+      "address": "古美路1528号7幢1层01商业101F1室商铺",
+      "distance": "13m"
+    },
+    {
+      "brand": "CHAGEE霸王茶姬(上海漕河泾总部园区店)",
+      "address": "古美路1528号7幢101-78室(漕河泾总部园区星巴克旁)",
+      "distance": "15m"
+    },
+    {
+      "brand": "CONTENT U COFFEE(漕河泾店)",
+      "address": "古美路1528号a7号楼地下一层D9室",
+      "distance": "20m"
+    },
+    {
+      "brand": "吉祥馄饨(上海漕河泾现代店)",
+      "address": "古美路1528号8栋地下1层02商业D10室商铺",
+      "distance": "24m"
+    },
+    {
+      "brand": "星巴克(古美路店)",
+      "address": "古美路1528号漕河泾现代服务园7幢1层101D室",
+      "distance": "26m"
+    },
+    {
+      "brand": "瑞幸咖啡(漕河泾现代服务园区店)",
+      "address": "古美路1528号漕河泾现代服务业园区7幢一层101B号",
+      "distance": "4m"
+    },
+    {
+      "brand": "复川小食堂(会议中心店)",
+      "address": "古美路与田州路交叉口东180米",
+      "distance": "6m"
+    },
+    {
+      "brand": "阿明潮汕鲜牛肉粿条汤",
+      "address": "古美路与田州路交叉口东160米",
+      "distance": "8m"
+    },
+    {
+      "brand": "老乡鸡(漕河泾现代服务业园区店)",
+      "address": "古美路1528号漕河泾会议中心A7号楼1层",
+      "distance": "9m"
+    },
+    {
+      "brand": "SilverFlow银流咖啡&贝果 (古美路店)",
+      "address": "古美路与田州路交叉口东180米",
+      "distance": "11m"
+    },
+    {
+      "brand": "Wagas沃歌斯(上海漕河泾园区店)",
+      "address": "古美路1528号7幢1层01商业101F1室商铺",
+      "distance": "13m"
+    },
+    {
+      "brand": "CHAGEE霸王茶姬(上海漕河泾总部园区店)",
+      "address": "古美路1528号7幢101-78室(漕河泾总部园区星巴克旁)",
+      "distance": "15m"
+    },
+    {
+      "brand": "CONTENT U COFFEE(漕河泾店)",
+      "address": "古美路1528号a7号楼地下一层D9室",
+      "distance": "20m"
+    },
+    {
+      "brand": "吉祥馄饨(上海漕河泾现代店)",
+      "address": "古美路1528号8栋地下1层02商业D10室商铺",
+      "distance": "24m"
+    },
+    {
+      "brand": "星巴克(古美路店)",
+      "address": "古美路1528号漕河泾现代服务园7幢1层101D室",
+      "distance": "26m"
+    },
+    {
+      "brand": "瑞幸咖啡(漕河泾现代服务园区店)",
+      "address": "古美路1528号漕河泾现代服务业园区7幢一层101B号",
+      "distance": "4m"
+    },
+    {
+      "brand": "复川小食堂(会议中心店)",
+      "address": "古美路与田州路交叉口东180米",
+      "distance": "6m"
+    },
+    {
+      "brand": "阿明潮汕鲜牛肉粿条汤",
+      "address": "古美路与田州路交叉口东160米",
+      "distance": "8m"
+    },
+    {
+      "brand": "老乡鸡(漕河泾现代服务业园区店)",
+      "address": "古美路1528号漕河泾会议中心A7号楼1层",
+      "distance": "9m"
+    },
+    {
+      "brand": "SilverFlow银流咖啡&贝果 (古美路店)",
+      "address": "古美路与田州路交叉口东180米",
+      "distance": "11m"
+    },
+    {
+      "brand": "Wagas沃歌斯(上海漕河泾园区店)",
+      "address": "古美路1528号7幢1层01商业101F1室商铺",
+      "distance": "13m"
+    },
+    {
+      "brand": "CHAGEE霸王茶姬(上海漕河泾总部园区店)",
+      "address": "古美路1528号7幢101-78室(漕河泾总部园区星巴克旁)",
+      "distance": "15m"
+    },
+    {
+      "brand": "CONTENT U COFFEE(漕河泾店)",
+      "address": "古美路1528号a7号楼地下一层D9室",
+      "distance": "20m"
+    },
+    {
+      "brand": "吉祥馄饨(上海漕河泾现代店)",
+      "address": "古美路1528号8栋地下1层02商业D10室商铺",
+      "distance": "24m"
+    },
+    {
+      "brand": "星巴克(古美路店)",
+      "address": "古美路1528号漕河泾现代服务园7幢1层101D室",
+      "distance": "26m"
+    },
+    {
+      "brand": "瑞幸咖啡(漕河泾现代服务园区店)",
+      "address": "古美路1528号漕河泾现代服务业园区7幢一层101B号",
+      "distance": "4m"
+    },
+    {
+      "brand": "复川小食堂(会议中心店)",
+      "address": "古美路与田州路交叉口东180米",
+      "distance": "6m"
+    },
+    {
+      "brand": "阿明潮汕鲜牛肉粿条汤",
+      "address": "古美路与田州路交叉口东160米",
+      "distance": "8m"
+    },
+    {
+      "brand": "老乡鸡(漕河泾现代服务业园区店)",
+      "address": "古美路1528号漕河泾会议中心A7号楼1层",
+      "distance": "9m"
+    },
+    {
+      "brand": "SilverFlow银流咖啡&贝果 (古美路店)",
+      "address": "古美路与田州路交叉口东180米",
+      "distance": "11m"
+    },
+    {
+      "brand": "Wagas沃歌斯(上海漕河泾园区店)",
+      "address": "古美路1528号7幢1层01商业101F1室商铺",
+      "distance": "13m"
+    },
+    {
+      "brand": "CHAGEE霸王茶姬(上海漕河泾总部园区店)",
+      "address": "古美路1528号7幢101-78室(漕河泾总部园区星巴克旁)",
+      "distance": "15m"
+    },
+    {
+      "brand": "CONTENT U COFFEE(漕河泾店)",
+      "address": "古美路1528号a7号楼地下一层D9室",
+      "distance": "20m"
+    },
+    {
+      "brand": "吉祥馄饨(上海漕河泾现代店)",
+      "address": "古美路1528号8栋地下1层02商业D10室商铺",
+      "distance": "24m"
+    },
+    {
+      "brand": "星巴克(古美路店)",
+      "address": "古美路1528号漕河泾现代服务园7幢1层101D室",
+      "distance": "26m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海漕河泾印象城",
+      "open_date": "2021-05-28",
+      "area": "5.6万㎡",
+      "jun_daily_avg": "3.8万人次",
+      "weekday_avg": "4万人次",
+      "holiday_avg": "3.1万人次"
+    },
+    {
+      "name": "上海鑫耀·光环Live二期",
+      "open_date": "2025-06-01",
+      "area": "10万㎡",
+      "jun_daily_avg": "4万人次",
+      "weekday_avg": "3.8万人次",
+      "holiday_avg": "4.5万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 244.0,
+      "within_1yr_pct": 20.9,
+      "1_3yr_pct": 29.5,
+      "over_3yr_pct": 49.6
+    },
+    {
+      "type": "购物",
+      "count": 74.0,
+      "within_1yr_pct": 21.6,
+      "1_3yr_pct": 27.0,
+      "over_3yr_pct": 51.4
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 16.0,
+      "within_1yr_pct": 18.8,
+      "1_3yr_pct": 43.8,
+      "over_3yr_pct": 37.5
+    },
+    {
+      "type": "教育培训",
+      "count": 12.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 41.7
+    },
+    {
+      "type": "酒店住宿",
+      "count": 14.0,
+      "within_1yr_pct": 21.4,
+      "1_3yr_pct": 28.6,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "生活服务",
+      "count": 76.0,
+      "within_1yr_pct": 23.7,
+      "1_3yr_pct": 34.2,
+      "over_3yr_pct": 42.1
+    },
+    {
+      "type": "运动健身",
+      "count": 17.0,
+      "within_1yr_pct": 11.8,
+      "1_3yr_pct": 64.7,
+      "over_3yr_pct": 23.5
+    },
+    {
+      "type": "车辆服务",
+      "count": 22.0,
+      "within_1yr_pct": 18.2,
+      "1_3yr_pct": 40.9,
+      "over_3yr_pct": 40.9
+    }
+  ]
+}

@@ -1,0 +1,226 @@
+{
+  "name": "合憬荟",
+  "city": "北京市",
+  "address": "北京市朝阳区和平街街道华夏银行(北京东直门支行)建达大厦",
+  "lat": 39.953309,
+  "lng": 116.433247,
+  "overview": {
+    "score": 72.8,
+    "score_rank": "市内前50%",
+    "population_score": 93.3,
+    "area_score": 72.1,
+    "consumption_score": 80.5,
+    "industry_score": 72.7,
+    "annual_sales": "",
+    "annual_sales_unit": "",
+    "area_size_sqm": null,
+    "open_date": "",
+    "operator": "",
+    "brand": "",
+    "type": "",
+    "floors": ""
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "",
+    "annual_daily_rank": "",
+    "jun_total": null,
+    "jun_total_rank": "",
+    "jun_daily_avg": null,
+    "jun_daily_unit": "",
+    "jun_daily_rank": "",
+    "weekday_avg": null,
+    "weekday_unit": "",
+    "weekday_rank": "",
+    "holiday_avg": null,
+    "holiday_unit": "",
+    "holiday_rank": ""
+  },
+  "population": {
+    "residential": {
+      "500m": 2.6,
+      "1_5km": 21.9,
+      "3km": 77.8
+    },
+    "office": {
+      "500m": 1.6,
+      "1_5km": 13.4,
+      "3km": 60.3
+    },
+    "permanent": {
+      "500m": 2.6,
+      "1_5km": 21.8,
+      "3km": 79.3
+    }
+  },
+  "business": {
+    "competitors": 1.0,
+    "food": 66.0,
+    "shopping": 60.0,
+    "leisure": 10.0,
+    "education": 14.0,
+    "hotel": 16.0,
+    "services": 58.0,
+    "fitness": 5.0,
+    "auto": 4.0,
+    "total_stores": 234.0,
+    "old_store_3yr_pct": 39.0
+  },
+  "nearby_poi": {
+    "business": 5.0,
+    "community": 454.0,
+    "office": 80.0,
+    "school": 53.0,
+    "hospital": 132.0,
+    "transport": 12.0,
+    "scenic": 364.0
+  },
+  "demographics": {
+    "male_pct": 48.1,
+    "female_pct": null,
+    "education": {
+      "小学": 9.0,
+      "初中": 15.3,
+      "高中": 11.5,
+      "大专": 5.7,
+      "本科": 48.2,
+      "硕士": 8.2,
+      "博士": 2.1
+    },
+    "has_children_pct": null,
+    "no_children_pct": null
+  },
+  "scraped_at": "2026-08-01T11:55:24.201Z",
+  "nearby_restaurants": [
+    {
+      "brand": "亚星早餐(柳芳店)",
+      "address": "柳芳北里甲12号1幢1-9号",
+      "distance": "475m"
+    },
+    {
+      "brand": "恋尚麻辣烫·羊蝎子火锅(柳芳店)",
+      "address": "北京城区柳芳街柳芳北里甲12号亚星菜市场",
+      "distance": "477m"
+    },
+    {
+      "brand": "黑牛岭齐齐哈尔烤牛肉(柳芳店)",
+      "address": "柳芳街与左家庄西街交叉口西100米",
+      "distance": "477m"
+    },
+    {
+      "brand": "享口福饺子馆(民旺园店)",
+      "address": "民旺南胡同乙16号",
+      "distance": "481m"
+    },
+    {
+      "brand": "穆香源清真牛羊肉(柳芳店)",
+      "address": "柳芳北街靠近柳芳北里社区东区亚星菜市场牛羊肉",
+      "distance": "484m"
+    },
+    {
+      "brand": "鲁味土菜馆(柳芳店)",
+      "address": "柳芳街与左家庄西街交叉口西80米",
+      "distance": "489m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "中业生活大厦",
+      "open_date": "-",
+      "area": "-",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "北京和平之星生活广场",
+      "open_date": "2018-03-09",
+      "area": "-",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "北京国展天虹购物中心",
+      "open_date": "2024-10-13",
+      "area": "2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "北京来福士中心",
+      "open_date": "2009-06-05",
+      "area": "4万㎡",
+      "jun_daily_avg": "4.5万人次",
+      "weekday_avg": "4.4万人次",
+      "holiday_avg": "4.6万人次"
+    },
+    {
+      "name": "北京东方银座mall",
+      "open_date": "2007-01-27",
+      "area": "3万㎡",
+      "jun_daily_avg": "2.8万人次",
+      "weekday_avg": "2.8万人次",
+      "holiday_avg": "2.9万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 66.0,
+      "within_1yr_pct": 40.9,
+      "1_3yr_pct": 27.3,
+      "over_3yr_pct": 31.8
+    },
+    {
+      "type": "购物",
+      "count": 60.0,
+      "within_1yr_pct": 38.3,
+      "1_3yr_pct": 20.0,
+      "over_3yr_pct": 41.7
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 11.0,
+      "within_1yr_pct": 45.5,
+      "1_3yr_pct": 27.3,
+      "over_3yr_pct": 27.3
+    },
+    {
+      "type": "教育培训",
+      "count": 14.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 21.4,
+      "over_3yr_pct": 28.6
+    },
+    {
+      "type": "酒店住宿",
+      "count": 16.0,
+      "within_1yr_pct": 43.8,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 31.3
+    },
+    {
+      "type": "生活服务",
+      "count": 58.0,
+      "within_1yr_pct": 17.2,
+      "1_3yr_pct": 29.3,
+      "over_3yr_pct": 53.4
+    },
+    {
+      "type": "运动健身",
+      "count": 5.0,
+      "within_1yr_pct": 60.0,
+      "1_3yr_pct": 20.0,
+      "over_3yr_pct": 20.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 4.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 25.0
+    }
+  ]
+}

@@ -1,0 +1,440 @@
+{
+  "name": "上海虹桥阿里中心",
+  "city": "上海市",
+  "address": "上海市闵行区新虹街道阿里中心·上海虹桥阿里中心·上海虹桥商场南区",
+  "lat": 31.205186,
+  "lng": 121.314008,
+  "overview": {
+    "score": 85.8,
+    "score_rank": "市内前30%",
+    "population_score": 80.7,
+    "area_score": 74.9,
+    "consumption_score": 77.1,
+    "industry_score": 85.9,
+    "annual_sales": "上海虹桥阿里中心位于虹桥商务区核心区，涵盖阿里旗下阿里云、智慧汽车、智慧建筑、智慧办公等板块，41家智慧企业集聚",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 2.1,
+    "open_date": "2019-05-10",
+    "operator": "",
+    "brand": "",
+    "type": "综合型",
+    "floors": "B1-L2"
+  },
+  "traffic": {
+    "annual_daily": 7808.0,
+    "annual_daily_unit": "人次",
+    "annual_daily_rank": "市内第298",
+    "jun_total": 47.1,
+    "jun_total_rank": "市内商场第223名",
+    "jun_daily_avg": 1.6,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第223名",
+    "weekday_avg": 1.8,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第192名",
+    "holiday_avg": 8562.0,
+    "holiday_unit": "人次",
+    "holiday_rank": "市内商场第354名"
+  },
+  "population": {
+    "residential": {
+      "500m": 1.6,
+      "1_5km": 8.7,
+      "3km": 33.3
+    },
+    "office": {
+      "500m": 2.0,
+      "1_5km": 10.0,
+      "3km": 23.3
+    },
+    "permanent": {
+      "500m": 1.6,
+      "1_5km": 15.7,
+      "3km": 42.6
+    }
+  },
+  "business": {
+    "competitors": 4.0,
+    "food": 122.0,
+    "shopping": 52.0,
+    "leisure": 6.0,
+    "education": 9.0,
+    "hotel": 36.0,
+    "services": 78.0,
+    "fitness": 9.0,
+    "auto": 36.0,
+    "total_stores": 38.0,
+    "old_store_3yr_pct": 34.0
+  },
+  "nearby_poi": {
+    "business": 6.0,
+    "community": 117.0,
+    "office": 54.0,
+    "school": 7.0,
+    "hospital": 36.0,
+    "transport": 9.0,
+    "scenic": 39.0
+  },
+  "demographics": {
+    "male_pct": 55.9,
+    "female_pct": null,
+    "education": {
+      "小学": 9.8,
+      "初中": 18.3,
+      "高中": 11.9,
+      "大专": 10.1,
+      "本科": 45.3,
+      "硕士": 3.8,
+      "博士": 0.8
+    },
+    "has_children_pct": 57.8,
+    "no_children_pct": 42.2
+  },
+  "scraped_at": "2026-07-31T17:32:04.484Z",
+  "nearby_restaurants": [
+    {
+      "brand": "赶面人·老卤面(阿里中心店)",
+      "address": "申长路1398弄1-4号阿里中心·上海虹桥商场南区F6层",
+      "distance": "2m"
+    },
+    {
+      "brand": "咖喱满满(阿里中心店)",
+      "address": "新虹街道申长路1398弄1-4号阿里中心·上海虹桥地下一层17",
+      "distance": "21m"
+    },
+    {
+      "brand": "心花怒放·十年衢州热炒",
+      "address": "新虹街道申长路1398弄1-4号B1层12",
+      "distance": "24m"
+    },
+    {
+      "brand": "湘八爷辣椒炒肉",
+      "address": "阿里中心T3申长路1398栋1-4地下一层12号商铺",
+      "distance": "26m"
+    },
+    {
+      "brand": "小杨生煎(上海虹桥阿里店)",
+      "address": "申长路1398弄1阿里中心·上海虹桥B1层",
+      "distance": "29m"
+    },
+    {
+      "brand": "胡子大厨·湖南小炒(阿里中心店)",
+      "address": "申长路1398弄1-4号1幢1-4号地下一层16铺位",
+      "distance": "32m"
+    },
+    {
+      "brand": "釜大班·韩国炸酱面(虹桥店)",
+      "address": "新虹街道申长路1398弄1-4号B1层10",
+      "distance": "44m"
+    },
+    {
+      "brand": "拌将麻辣拌·麻辣烫(虹桥店)",
+      "address": "申长路1398弄1幢1-4号地下一层09B",
+      "distance": "58m"
+    },
+    {
+      "brand": "星巴克(阿里中心店)",
+      "address": "申长路1398弄1-2号102B",
+      "distance": "60m"
+    },
+    {
+      "brand": "山风岚(虹桥阿里中心店)",
+      "address": "申长路1398弄虹桥阿里中心B1层",
+      "distance": "61m"
+    },
+    {
+      "brand": "赶面人·老卤面(阿里中心店)",
+      "address": "申长路1398弄1-4号阿里中心·上海虹桥商场南区F6层",
+      "distance": "2m"
+    },
+    {
+      "brand": "咖喱满满(阿里中心店)",
+      "address": "新虹街道申长路1398弄1-4号阿里中心·上海虹桥地下一层17",
+      "distance": "21m"
+    },
+    {
+      "brand": "心花怒放·十年衢州热炒",
+      "address": "新虹街道申长路1398弄1-4号B1层12",
+      "distance": "24m"
+    },
+    {
+      "brand": "湘八爷辣椒炒肉",
+      "address": "阿里中心T3申长路1398栋1-4地下一层12号商铺",
+      "distance": "26m"
+    },
+    {
+      "brand": "小杨生煎(上海虹桥阿里店)",
+      "address": "申长路1398弄1阿里中心·上海虹桥B1层",
+      "distance": "29m"
+    },
+    {
+      "brand": "胡子大厨·湖南小炒(阿里中心店)",
+      "address": "申长路1398弄1-4号1幢1-4号地下一层16铺位",
+      "distance": "32m"
+    },
+    {
+      "brand": "釜大班·韩国炸酱面(虹桥店)",
+      "address": "新虹街道申长路1398弄1-4号B1层10",
+      "distance": "44m"
+    },
+    {
+      "brand": "拌将麻辣拌·麻辣烫(虹桥店)",
+      "address": "申长路1398弄1幢1-4号地下一层09B",
+      "distance": "58m"
+    },
+    {
+      "brand": "星巴克(阿里中心店)",
+      "address": "申长路1398弄1-2号102B",
+      "distance": "60m"
+    },
+    {
+      "brand": "山风岚(虹桥阿里中心店)",
+      "address": "申长路1398弄虹桥阿里中心B1层",
+      "distance": "61m"
+    },
+    {
+      "brand": "赶面人·老卤面(阿里中心店)",
+      "address": "申长路1398弄1-4号阿里中心·上海虹桥商场南区F6层",
+      "distance": "2m"
+    },
+    {
+      "brand": "咖喱满满(阿里中心店)",
+      "address": "新虹街道申长路1398弄1-4号阿里中心·上海虹桥地下一层17",
+      "distance": "21m"
+    },
+    {
+      "brand": "心花怒放·十年衢州热炒",
+      "address": "新虹街道申长路1398弄1-4号B1层12",
+      "distance": "24m"
+    },
+    {
+      "brand": "湘八爷辣椒炒肉",
+      "address": "阿里中心T3申长路1398栋1-4地下一层12号商铺",
+      "distance": "26m"
+    },
+    {
+      "brand": "小杨生煎(上海虹桥阿里店)",
+      "address": "申长路1398弄1阿里中心·上海虹桥B1层",
+      "distance": "29m"
+    },
+    {
+      "brand": "胡子大厨·湖南小炒(阿里中心店)",
+      "address": "申长路1398弄1-4号1幢1-4号地下一层16铺位",
+      "distance": "32m"
+    },
+    {
+      "brand": "釜大班·韩国炸酱面(虹桥店)",
+      "address": "新虹街道申长路1398弄1-4号B1层10",
+      "distance": "44m"
+    },
+    {
+      "brand": "拌将麻辣拌·麻辣烫(虹桥店)",
+      "address": "申长路1398弄1幢1-4号地下一层09B",
+      "distance": "58m"
+    },
+    {
+      "brand": "星巴克(阿里中心店)",
+      "address": "申长路1398弄1-2号102B",
+      "distance": "60m"
+    },
+    {
+      "brand": "山风岚(虹桥阿里中心店)",
+      "address": "申长路1398弄虹桥阿里中心B1层",
+      "distance": "61m"
+    },
+    {
+      "brand": "赶面人·老卤面(阿里中心店)",
+      "address": "申长路1398弄1-4号阿里中心·上海虹桥商场南区F6层",
+      "distance": "2m"
+    },
+    {
+      "brand": "咖喱满满(阿里中心店)",
+      "address": "新虹街道申长路1398弄1-4号阿里中心·上海虹桥地下一层17",
+      "distance": "21m"
+    },
+    {
+      "brand": "心花怒放·十年衢州热炒",
+      "address": "新虹街道申长路1398弄1-4号B1层12",
+      "distance": "24m"
+    },
+    {
+      "brand": "湘八爷辣椒炒肉",
+      "address": "阿里中心T3申长路1398栋1-4地下一层12号商铺",
+      "distance": "26m"
+    },
+    {
+      "brand": "小杨生煎(上海虹桥阿里店)",
+      "address": "申长路1398弄1阿里中心·上海虹桥B1层",
+      "distance": "29m"
+    },
+    {
+      "brand": "胡子大厨·湖南小炒(阿里中心店)",
+      "address": "申长路1398弄1-4号1幢1-4号地下一层16铺位",
+      "distance": "32m"
+    },
+    {
+      "brand": "釜大班·韩国炸酱面(虹桥店)",
+      "address": "新虹街道申长路1398弄1-4号B1层10",
+      "distance": "44m"
+    },
+    {
+      "brand": "拌将麻辣拌·麻辣烫(虹桥店)",
+      "address": "申长路1398弄1幢1-4号地下一层09B",
+      "distance": "58m"
+    },
+    {
+      "brand": "星巴克(阿里中心店)",
+      "address": "申长路1398弄1-2号102B",
+      "distance": "60m"
+    },
+    {
+      "brand": "山风岚(虹桥阿里中心店)",
+      "address": "申长路1398弄虹桥阿里中心B1层",
+      "distance": "61m"
+    },
+    {
+      "brand": "赶面人·老卤面(阿里中心店)",
+      "address": "申长路1398弄1-4号阿里中心·上海虹桥商场南区F6层",
+      "distance": "2m"
+    },
+    {
+      "brand": "咖喱满满(阿里中心店)",
+      "address": "新虹街道申长路1398弄1-4号阿里中心·上海虹桥地下一层17",
+      "distance": "21m"
+    },
+    {
+      "brand": "心花怒放·十年衢州热炒",
+      "address": "新虹街道申长路1398弄1-4号B1层12",
+      "distance": "24m"
+    },
+    {
+      "brand": "湘八爷辣椒炒肉",
+      "address": "阿里中心T3申长路1398栋1-4地下一层12号商铺",
+      "distance": "26m"
+    },
+    {
+      "brand": "小杨生煎(上海虹桥阿里店)",
+      "address": "申长路1398弄1阿里中心·上海虹桥B1层",
+      "distance": "29m"
+    },
+    {
+      "brand": "胡子大厨·湖南小炒(阿里中心店)",
+      "address": "申长路1398弄1-4号1幢1-4号地下一层16铺位",
+      "distance": "32m"
+    },
+    {
+      "brand": "釜大班·韩国炸酱面(虹桥店)",
+      "address": "新虹街道申长路1398弄1-4号B1层10",
+      "distance": "44m"
+    },
+    {
+      "brand": "拌将麻辣拌·麻辣烫(虹桥店)",
+      "address": "申长路1398弄1幢1-4号地下一层09B",
+      "distance": "58m"
+    },
+    {
+      "brand": "星巴克(阿里中心店)",
+      "address": "申长路1398弄1-2号102B",
+      "distance": "60m"
+    },
+    {
+      "brand": "山风岚(虹桥阿里中心店)",
+      "address": "申长路1398弄虹桥阿里中心B1层",
+      "distance": "61m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海虹桥良华购物广场",
+      "open_date": "2014-04-12",
+      "area": "10.6万㎡",
+      "jun_daily_avg": "1.3万人次",
+      "weekday_avg": "1.2万人次",
+      "holiday_avg": "1.4万人次"
+    },
+    {
+      "name": "上海新华联国际中心",
+      "open_date": "2016-11-19",
+      "area": "2.3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海虹顺商业广场",
+      "open_date": "-",
+      "area": "-",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海虹桥丽宝乐园",
+      "open_date": "2019-09-13",
+      "area": "7万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海虹桥天地",
+      "open_date": "2015-12-12",
+      "area": "11万㎡",
+      "jun_daily_avg": "7.4万人次",
+      "weekday_avg": "7.1万人次",
+      "holiday_avg": "8.1万人次"
+    },
+    {
+      "name": "龙湖上海虹桥天街",
+      "open_date": "2016-12-17",
+      "area": "17万㎡",
+      "jun_daily_avg": "3.7万人次",
+      "weekday_avg": "3.7万人次",
+      "holiday_avg": "3.5万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 19.0,
+      "within_1yr_pct": 10.5,
+      "1_3yr_pct": 42.1,
+      "over_3yr_pct": 47.4
+    },
+    {
+      "type": "购物",
+      "count": 6.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 16.7
+    },
+    {
+      "type": "酒店住宿",
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "生活服务",
+      "count": 6.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 16.7
+    },
+    {
+      "type": "运动健身",
+      "count": 2.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 3.0,
+      "within_1yr_pct": 66.7,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 33.3
+    }
+  ]
+}

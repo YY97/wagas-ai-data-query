@@ -1,0 +1,147 @@
+{
+  "name": "中海大吉巷",
+  "city": "北京市",
+  "address": "上海市松江区新桥镇明中广场",
+  "lat": null,
+  "lng": null,
+  "overview": {
+    "score": 92.3,
+    "score_rank": "市内前30%",
+    "population_score": 94.1,
+    "area_score": 64.8,
+    "consumption_score": 64.9,
+    "industry_score": 92.5,
+    "annual_sales": "明中广场位于上海市松江区明中路1885号，1KM内5万人口，2KM内12万人口，3KM内20万人口，位属社区核心地段交通要道明中广场涵盖了：超市、影院、餐饮、儿童、零售、健身、亲子、教育培训等业态，目前招商率90%，主要商家有：星巴克、麦当劳、盒小马、馨乔环球影城、巴拉巴拉、M’X明星健身、华为授权体验店、上海金店、意尔康等等明中广场拥有车位超430个，其中地面车位162个，机械立体车位270个，属于区域性商业，定位以年轻家庭为主的区域型社区邻里休闲中心",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 2.1,
+    "open_date": "2018-10-16",
+    "operator": "上海航源实业有限公司",
+    "brand": "上海航源实业有限公司",
+    "type": "美食型",
+    "floors": "B1-L3"
+  },
+  "traffic": {
+    "annual_daily": 1.41,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第185",
+    "jun_total": 55.4,
+    "jun_total_rank": "市内商场第199名",
+    "jun_daily_avg": 1.8,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第199名",
+    "weekday_avg": 1.7,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第206名",
+    "holiday_avg": 2.4,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第185名"
+  },
+  "population": {
+    "residential": {
+      "500m": 2.9,
+      "1_5km": 11.0,
+      "3km": 23.6
+    },
+    "office": {
+      "500m": 6000.0,
+      "1_5km": 3.0,
+      "3km": 11.3
+    },
+    "permanent": {
+      "500m": 2.4,
+      "1_5km": 9.1,
+      "3km": 20.4
+    }
+  },
+  "business": {
+    "competitors": 2.0,
+    "food": 78.0,
+    "shopping": 36.0,
+    "leisure": 11.0,
+    "education": 5.0,
+    "hotel": 1.0,
+    "services": 28.0,
+    "fitness": 5.0,
+    "auto": 4.0,
+    "total_stores": 103.0,
+    "old_store_3yr_pct": 53.0
+  },
+  "nearby_poi": {
+    "business": 1.0,
+    "community": 106.0,
+    "office": 5.0,
+    "school": 12.0,
+    "hospital": 9.0,
+    "transport": 4.0,
+    "scenic": 16.0
+  },
+  "demographics": {
+    "male_pct": 51.6,
+    "female_pct": null,
+    "education": {
+      "小学": 11.4,
+      "初中": 20.8,
+      "高中": 12.3,
+      "大专": 9.4,
+      "本科": 42.5,
+      "硕士": 2.9,
+      "博士": 0.7
+    },
+    "has_children_pct": 62.2,
+    "no_children_pct": 37.8
+  },
+  "scraped_at": "2026-08-01T08:39:28.517Z",
+  "nearby_restaurants": [],
+  "nearby_malls": [],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 55.0,
+      "within_1yr_pct": 27.3,
+      "1_3yr_pct": 21.8,
+      "over_3yr_pct": 50.9
+    },
+    {
+      "type": "购物",
+      "count": 20.0,
+      "within_1yr_pct": 10.0,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 65.0
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 7.0,
+      "within_1yr_pct": 14.3,
+      "1_3yr_pct": 42.9,
+      "over_3yr_pct": 42.9
+    },
+    {
+      "type": "教育培训",
+      "count": 5.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 40.0,
+      "over_3yr_pct": 60.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 1.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "生活服务",
+      "count": 13.0,
+      "within_1yr_pct": 7.7,
+      "1_3yr_pct": 38.5,
+      "over_3yr_pct": 53.8
+    },
+    {
+      "type": "运动健身",
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 50.0
+    }
+  ]
+}

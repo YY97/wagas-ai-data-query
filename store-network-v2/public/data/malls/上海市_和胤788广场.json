@@ -1,0 +1,185 @@
+{
+  "name": "和胤788广场",
+  "city": "上海市",
+  "address": "上海市普陀区甘泉路街道99旅馆(上海延长路店)展宏大厦",
+  "lat": 31.261797,
+  "lng": 121.437033,
+  "overview": {
+    "score": 78.4,
+    "score_rank": "市内前30%",
+    "population_score": 100.0,
+    "area_score": 71.6,
+    "consumption_score": 71.3,
+    "industry_score": 78.4,
+    "annual_sales": "",
+    "annual_sales_unit": "",
+    "area_size_sqm": null,
+    "open_date": "",
+    "operator": "",
+    "brand": "",
+    "type": "",
+    "floors": ""
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "",
+    "annual_daily_rank": "",
+    "jun_total": null,
+    "jun_total_rank": "",
+    "jun_daily_avg": null,
+    "jun_daily_unit": "",
+    "jun_daily_rank": "",
+    "weekday_avg": null,
+    "weekday_unit": "",
+    "weekday_rank": "",
+    "holiday_avg": null,
+    "holiday_unit": "",
+    "holiday_rank": ""
+  },
+  "population": {
+    "residential": {
+      "500m": 4.8,
+      "1_5km": 35.0,
+      "3km": 118.1
+    },
+    "office": {
+      "500m": 1.7,
+      "1_5km": 14.2,
+      "3km": 67.4
+    },
+    "permanent": {
+      "500m": 5.0,
+      "1_5km": 35.6,
+      "3km": 126.2
+    }
+  },
+  "business": {
+    "competitors": 1.0,
+    "food": 133.0,
+    "shopping": 78.0,
+    "leisure": 16.0,
+    "education": 8.0,
+    "hotel": 16.0,
+    "services": 99.0,
+    "fitness": 10.0,
+    "auto": 6.0,
+    "total_stores": 366.0,
+    "old_store_3yr_pct": 55.0
+  },
+  "nearby_poi": {
+    "business": 3.0,
+    "community": 686.0,
+    "office": 46.0,
+    "school": 66.0,
+    "hospital": 105.0,
+    "transport": 11.0,
+    "scenic": 183.0
+  },
+  "demographics": {
+    "male_pct": 48.7,
+    "female_pct": null,
+    "education": {
+      "小学": 9.5,
+      "初中": 18.3,
+      "高中": 11.7,
+      "大专": 7.1,
+      "本科": 47.8,
+      "硕士": 4.0,
+      "博士": 1.6
+    },
+    "has_children_pct": null,
+    "no_children_pct": null
+  },
+  "scraped_at": "2026-08-01T09:31:41.047Z",
+  "nearby_restaurants": [
+    {
+      "brand": "星巴克",
+      "address": "上海永乐文化广场店",
+      "distance": "2020.06.01"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海永乐文化广场",
+      "open_date": "-",
+      "area": "-",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "宜乐荟",
+      "open_date": "2020-01-01",
+      "area": "-",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海融创精彩天地",
+      "open_date": "2019-12-01",
+      "area": "1.8万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 133.0,
+      "within_1yr_pct": 23.3,
+      "1_3yr_pct": 24.1,
+      "over_3yr_pct": 52.6
+    },
+    {
+      "type": "购物",
+      "count": 78.0,
+      "within_1yr_pct": 16.7,
+      "1_3yr_pct": 26.9,
+      "over_3yr_pct": 56.4
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 16.0,
+      "within_1yr_pct": 31.3,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 68.8
+    },
+    {
+      "type": "教育培训",
+      "count": 8.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 37.5,
+      "over_3yr_pct": 37.5
+    },
+    {
+      "type": "酒店住宿",
+      "count": 16.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 31.3,
+      "over_3yr_pct": 43.8
+    },
+    {
+      "type": "生活服务",
+      "count": 99.0,
+      "within_1yr_pct": 18.2,
+      "1_3yr_pct": 27.3,
+      "over_3yr_pct": 54.5
+    },
+    {
+      "type": "运动健身",
+      "count": 10.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 20.0,
+      "over_3yr_pct": 80.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 6.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 66.7
+    }
+  ]
+}

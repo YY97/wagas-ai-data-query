@@ -1,0 +1,202 @@
+{
+  "name": "万科2049@翡翠公园",
+  "city": "上海市",
+  "address": "上海市闵行区吴泾镇ES&salon艺术空间(吴泾宝龙广场店)宝龙广场(吴泾店)",
+  "lat": 31.037867,
+  "lng": 121.45065,
+  "overview": {
+    "score": 93.1,
+    "score_rank": "市内前30%",
+    "population_score": 92.3,
+    "area_score": 70.7,
+    "consumption_score": 68.3,
+    "industry_score": 93.2,
+    "annual_sales": "上海吴泾宝龙广场集风情商业街、高端商务写字楼、大型ShoppingMall、艺术酒店为一体的商业综合体，购物、餐饮、娱乐、商务、文化等一站式解决",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 4.0,
+    "open_date": "2017-07-08",
+    "operator": "宝龙商业管理控股有限公司",
+    "brand": "宝龙",
+    "type": "美食型",
+    "floors": "L1-L4"
+  },
+  "traffic": {
+    "annual_daily": 1.16,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第226",
+    "jun_total": 49.5,
+    "jun_total_rank": "市内商场第219名",
+    "jun_daily_avg": 1.6,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第219名",
+    "weekday_avg": 1.6,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第215名",
+    "holiday_avg": 1.9,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第219名"
+  },
+  "population": {
+    "residential": {
+      "500m": 2.3,
+      "1_5km": 14.3,
+      "3km": 33.6
+    },
+    "office": {
+      "500m": 9500.0,
+      "1_5km": 6.7,
+      "3km": 19.1
+    },
+    "permanent": {
+      "500m": 1.6,
+      "1_5km": 11.8,
+      "3km": 26.9
+    }
+  },
+  "business": {
+    "competitors": 5.0,
+    "food": 186.0,
+    "shopping": 42.0,
+    "leisure": 16.0,
+    "education": 13.0,
+    "hotel": 18.0,
+    "services": 64.0,
+    "fitness": 21.0,
+    "auto": 17.0,
+    "total_stores": 157.0,
+    "old_store_3yr_pct": 39.0
+  },
+  "nearby_poi": {
+    "business": 2.0,
+    "community": 80.0,
+    "office": 7.0,
+    "school": 21.0,
+    "hospital": 13.0,
+    "transport": 6.0,
+    "scenic": 34.0
+  },
+  "demographics": {
+    "male_pct": 46.3,
+    "female_pct": null,
+    "education": {
+      "小学": 7.7,
+      "初中": 17.9,
+      "高中": 18.1,
+      "大专": 5.8,
+      "本科": 41.5,
+      "硕士": 6.6,
+      "博士": 2.4
+    },
+    "has_children_pct": 49.1,
+    "no_children_pct": 50.9
+  },
+  "scraped_at": "2026-08-01T07:35:20.849Z",
+  "nearby_restaurants": [
+    {
+      "brand": "吉林烧烤(永德路店)",
+      "address": "永德路与虹梅南路交叉口西80米",
+      "distance": "432m"
+    },
+    {
+      "brand": "陈记麻辣香锅(永德路店)",
+      "address": "永德路与虹梅南路交叉口西60米",
+      "distance": "435m"
+    },
+    {
+      "brand": "赵记古法传统牛肉汤(永德路店)",
+      "address": "永德路656号",
+      "distance": "444m"
+    },
+    {
+      "brand": "俏传奇地锅(吴泾旗舰店)",
+      "address": "吴泾镇永德路656号",
+      "distance": "451m"
+    },
+    {
+      "brand": "茏庭轩茶艺·棋牌(永德路店)",
+      "address": "永德路650号2楼",
+      "distance": "458m"
+    },
+    {
+      "brand": "正元名饮(吴泾旗舰店)",
+      "address": "吴泾镇永德路650号101室正元名饮",
+      "distance": "463m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海弘基时尚生活中心",
+      "open_date": "2013-12-16",
+      "area": "2.6万㎡",
+      "jun_daily_avg": "1.2万人次",
+      "weekday_avg": "1.1万人次",
+      "holiday_avg": "1.3万人次"
+    },
+    {
+      "name": "上海吴泾满天星生活广场",
+      "open_date": "2016-09-01",
+      "area": "2.1万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 103.0,
+      "within_1yr_pct": 26.2,
+      "1_3yr_pct": 36.9,
+      "over_3yr_pct": 36.9
+    },
+    {
+      "type": "购物",
+      "count": 13.0,
+      "within_1yr_pct": 23.1,
+      "1_3yr_pct": 30.8,
+      "over_3yr_pct": 46.2
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 4.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 25.0
+    },
+    {
+      "type": "教育培训",
+      "count": 6.0,
+      "within_1yr_pct": 16.7,
+      "1_3yr_pct": 16.7,
+      "over_3yr_pct": 66.7
+    },
+    {
+      "type": "酒店住宿",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    },
+    {
+      "type": "生活服务",
+      "count": 17.0,
+      "within_1yr_pct": 11.8,
+      "1_3yr_pct": 47.1,
+      "over_3yr_pct": 41.2
+    },
+    {
+      "type": "运动健身",
+      "count": 10.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 30.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 3.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 66.7,
+      "over_3yr_pct": 0.0
+    }
+  ]
+}

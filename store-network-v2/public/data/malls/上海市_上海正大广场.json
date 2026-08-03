@@ -1,0 +1,486 @@
+{
+  "name": "上海正大广场",
+  "city": "上海市",
+  "address": "上海市浦东新区陆家嘴西路168号",
+  "lat": 31.236732,
+  "lng": 121.499227,
+  "overview": {
+    "score": 95.9,
+    "score_rank": "市内前30%",
+    "population_score": 65.1,
+    "area_score": 83.6,
+    "consumption_score": 99.3,
+    "industry_score": 96.0,
+    "annual_sales": "上海正大广场是正大集团在中国最大的投资项目之一，集零售购物、餐饮、娱乐、配套服务、停车为一体的大型国际化都会购物中心，定位于多功能生活场所。",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 24.3,
+    "open_date": "2002-01-01",
+    "operator": "正大置地有限公司",
+    "brand": "正大商业房地产管理有限公司",
+    "type": "综合型",
+    "floors": "B2-L9"
+  },
+  "traffic": {
+    "annual_daily": 4.53,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第40",
+    "jun_total": 155.1,
+    "jun_total_rank": "市内商场第64名",
+    "jun_daily_avg": 5.2,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第64名",
+    "weekday_avg": 4.7,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第60名",
+    "holiday_avg": 6.3,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第62名"
+  },
+  "population": {
+    "residential": {
+      "500m": 4300.0,
+      "1_5km": 8.4,
+      "3km": 72.7
+    },
+    "office": {
+      "500m": 4.3,
+      "1_5km": 32.0,
+      "3km": 105.0
+    },
+    "permanent": {
+      "500m": 2.3,
+      "1_5km": 18.1,
+      "3km": 91.2
+    }
+  },
+  "business": {
+    "competitors": 17.0,
+    "food": 281.0,
+    "shopping": 313.0,
+    "leisure": 26.0,
+    "education": 8.0,
+    "hotel": 17.0,
+    "services": 74.0,
+    "fitness": 15.0,
+    "auto": 22.0,
+    "total_stores": 251.0,
+    "old_store_3yr_pct": 45.0
+  },
+  "nearby_poi": {
+    "business": 20.0,
+    "community": 669.0,
+    "office": 192.0,
+    "school": 18.0,
+    "hospital": 157.0,
+    "transport": 12.0,
+    "scenic": 769.0
+  },
+  "demographics": {
+    "male_pct": 47.7,
+    "female_pct": null,
+    "education": {
+      "小学": 10.0,
+      "初中": 18.4,
+      "高中": 11.4,
+      "大专": 8.0,
+      "本科": 46.2,
+      "硕士": 4.6,
+      "博士": 1.4
+    },
+    "has_children_pct": 58.4,
+    "no_children_pct": 41.6
+  },
+  "scraped_at": "2026-07-31T12:22:27.186Z",
+  "nearby_restaurants": [
+    {
+      "brand": "毕真烤肉店(正大广场店)",
+      "address": "陆家嘴西路168号正大广场购物中心8楼30号(地铁2号线陆家嘴地铁站1号出口)",
+      "distance": "5m"
+    },
+    {
+      "brand": "穿蒸引鲜·嗲记(正大广场店)",
+      "address": "陆家嘴西路168号正大广场8楼",
+      "distance": "5m"
+    },
+    {
+      "brand": "iBAKING蛋糕·下午茶歇·甜品台订制(正大广场店)",
+      "address": "中国(上海)自由贸易试验区陆家嘴西路168号正大广场",
+      "distance": "5m"
+    },
+    {
+      "brand": "BUTCHER'S&RESTAURANT(正大广场店)",
+      "address": "名商路与富城路交叉口东北140米",
+      "distance": "6m"
+    },
+    {
+      "brand": "费大厨辣椒炒肉(正大广场店)",
+      "address": "正大广场6楼",
+      "distance": "7m"
+    },
+    {
+      "brand": "美心月饼",
+      "address": "名商路与富城路交叉口东北140米",
+      "distance": "8m"
+    },
+    {
+      "brand": "巧国源记(正大广场店)",
+      "address": "正大广场",
+      "distance": "8m"
+    },
+    {
+      "brand": "阳坊涮肉(正大广场店)",
+      "address": "陆家嘴西路168号正大广场6楼01",
+      "distance": "8m"
+    },
+    {
+      "brand": "俄士厨房(正大广场店)",
+      "address": "正大广场7层(陆家嘴地铁站1号入口步行340米)",
+      "distance": "9m"
+    },
+    {
+      "brand": "Cafe MUJI(正大广场店)",
+      "address": "陆家嘴街道陆家嘴西路168号正大广场3层",
+      "distance": "21m"
+    },
+    {
+      "brand": "毕真烤肉店(正大广场店)",
+      "address": "陆家嘴西路168号正大广场购物中心8楼30号(地铁2号线陆家嘴地铁站1号出口)",
+      "distance": "5m"
+    },
+    {
+      "brand": "穿蒸引鲜·嗲记(正大广场店)",
+      "address": "陆家嘴西路168号正大广场8楼",
+      "distance": "5m"
+    },
+    {
+      "brand": "iBAKING蛋糕·下午茶歇·甜品台订制(正大广场店)",
+      "address": "中国(上海)自由贸易试验区陆家嘴西路168号正大广场",
+      "distance": "5m"
+    },
+    {
+      "brand": "BUTCHER'S&RESTAURANT(正大广场店)",
+      "address": "名商路与富城路交叉口东北140米",
+      "distance": "6m"
+    },
+    {
+      "brand": "费大厨辣椒炒肉(正大广场店)",
+      "address": "正大广场6楼",
+      "distance": "7m"
+    },
+    {
+      "brand": "美心月饼",
+      "address": "名商路与富城路交叉口东北140米",
+      "distance": "8m"
+    },
+    {
+      "brand": "巧国源记(正大广场店)",
+      "address": "正大广场",
+      "distance": "8m"
+    },
+    {
+      "brand": "阳坊涮肉(正大广场店)",
+      "address": "陆家嘴西路168号正大广场6楼01",
+      "distance": "8m"
+    },
+    {
+      "brand": "俄士厨房(正大广场店)",
+      "address": "正大广场7层(陆家嘴地铁站1号入口步行340米)",
+      "distance": "9m"
+    },
+    {
+      "brand": "Cafe MUJI(正大广场店)",
+      "address": "陆家嘴街道陆家嘴西路168号正大广场3层",
+      "distance": "21m"
+    },
+    {
+      "brand": "毕真烤肉店(正大广场店)",
+      "address": "陆家嘴西路168号正大广场购物中心8楼30号(地铁2号线陆家嘴地铁站1号出口)",
+      "distance": "5m"
+    },
+    {
+      "brand": "穿蒸引鲜·嗲记(正大广场店)",
+      "address": "陆家嘴西路168号正大广场8楼",
+      "distance": "5m"
+    },
+    {
+      "brand": "iBAKING蛋糕·下午茶歇·甜品台订制(正大广场店)",
+      "address": "中国(上海)自由贸易试验区陆家嘴西路168号正大广场",
+      "distance": "5m"
+    },
+    {
+      "brand": "BUTCHER'S&RESTAURANT(正大广场店)",
+      "address": "名商路与富城路交叉口东北140米",
+      "distance": "6m"
+    },
+    {
+      "brand": "费大厨辣椒炒肉(正大广场店)",
+      "address": "正大广场6楼",
+      "distance": "7m"
+    },
+    {
+      "brand": "美心月饼",
+      "address": "名商路与富城路交叉口东北140米",
+      "distance": "8m"
+    },
+    {
+      "brand": "巧国源记(正大广场店)",
+      "address": "正大广场",
+      "distance": "8m"
+    },
+    {
+      "brand": "阳坊涮肉(正大广场店)",
+      "address": "陆家嘴西路168号正大广场6楼01",
+      "distance": "8m"
+    },
+    {
+      "brand": "俄士厨房(正大广场店)",
+      "address": "正大广场7层(陆家嘴地铁站1号入口步行340米)",
+      "distance": "9m"
+    },
+    {
+      "brand": "Cafe MUJI(正大广场店)",
+      "address": "陆家嘴街道陆家嘴西路168号正大广场3层",
+      "distance": "21m"
+    },
+    {
+      "brand": "毕真烤肉店(正大广场店)",
+      "address": "陆家嘴西路168号正大广场购物中心8楼30号(地铁2号线陆家嘴地铁站1号出口)",
+      "distance": "5m"
+    },
+    {
+      "brand": "穿蒸引鲜·嗲记(正大广场店)",
+      "address": "陆家嘴西路168号正大广场8楼",
+      "distance": "5m"
+    },
+    {
+      "brand": "iBAKING蛋糕·下午茶歇·甜品台订制(正大广场店)",
+      "address": "中国(上海)自由贸易试验区陆家嘴西路168号正大广场",
+      "distance": "5m"
+    },
+    {
+      "brand": "BUTCHER'S&RESTAURANT(正大广场店)",
+      "address": "名商路与富城路交叉口东北140米",
+      "distance": "6m"
+    },
+    {
+      "brand": "费大厨辣椒炒肉(正大广场店)",
+      "address": "正大广场6楼",
+      "distance": "7m"
+    },
+    {
+      "brand": "美心月饼",
+      "address": "名商路与富城路交叉口东北140米",
+      "distance": "8m"
+    },
+    {
+      "brand": "巧国源记(正大广场店)",
+      "address": "正大广场",
+      "distance": "8m"
+    },
+    {
+      "brand": "阳坊涮肉(正大广场店)",
+      "address": "陆家嘴西路168号正大广场6楼01",
+      "distance": "8m"
+    },
+    {
+      "brand": "俄士厨房(正大广场店)",
+      "address": "正大广场7层(陆家嘴地铁站1号入口步行340米)",
+      "distance": "9m"
+    },
+    {
+      "brand": "Cafe MUJI(正大广场店)",
+      "address": "陆家嘴街道陆家嘴西路168号正大广场3层",
+      "distance": "21m"
+    },
+    {
+      "brand": "毕真烤肉店(正大广场店)",
+      "address": "陆家嘴西路168号正大广场购物中心8楼30号(地铁2号线陆家嘴地铁站1号出口)",
+      "distance": "5m"
+    },
+    {
+      "brand": "穿蒸引鲜·嗲记(正大广场店)",
+      "address": "陆家嘴西路168号正大广场8楼",
+      "distance": "5m"
+    },
+    {
+      "brand": "iBAKING蛋糕·下午茶歇·甜品台订制(正大广场店)",
+      "address": "中国(上海)自由贸易试验区陆家嘴西路168号正大广场",
+      "distance": "5m"
+    },
+    {
+      "brand": "BUTCHER'S&RESTAURANT(正大广场店)",
+      "address": "名商路与富城路交叉口东北140米",
+      "distance": "6m"
+    },
+    {
+      "brand": "费大厨辣椒炒肉(正大广场店)",
+      "address": "正大广场6楼",
+      "distance": "7m"
+    },
+    {
+      "brand": "美心月饼",
+      "address": "名商路与富城路交叉口东北140米",
+      "distance": "8m"
+    },
+    {
+      "brand": "巧国源记(正大广场店)",
+      "address": "正大广场",
+      "distance": "8m"
+    },
+    {
+      "brand": "阳坊涮肉(正大广场店)",
+      "address": "陆家嘴西路168号正大广场6楼01",
+      "distance": "8m"
+    },
+    {
+      "brand": "俄士厨房(正大广场店)",
+      "address": "正大广场7层(陆家嘴地铁站1号入口步行340米)",
+      "distance": "9m"
+    },
+    {
+      "brand": "Cafe MUJI(正大广场店)",
+      "address": "陆家嘴街道陆家嘴西路168号正大广场3层",
+      "distance": "21m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海IFC",
+      "open_date": "2010-04-28",
+      "area": "11万㎡",
+      "jun_daily_avg": "5.2万人次",
+      "weekday_avg": "5.2万人次",
+      "holiday_avg": "5万人次"
+    },
+    {
+      "name": "上海金茂J·LIFE生活时尚中心",
+      "open_date": "2005-09-01",
+      "area": "2.3万㎡",
+      "jun_daily_avg": "1.4万人次",
+      "weekday_avg": "1.4万人次",
+      "holiday_avg": "1.4万人次"
+    },
+    {
+      "name": "上海之品商场",
+      "open_date": "-",
+      "area": "7万㎡",
+      "jun_daily_avg": "3.3万人次",
+      "weekday_avg": "3.4万人次",
+      "holiday_avg": "3.2万人次"
+    },
+    {
+      "name": "上海环球金融中心",
+      "open_date": "2008-08-29",
+      "area": "1.4万㎡",
+      "jun_daily_avg": "1.9万人次",
+      "weekday_avg": "2.2万人次",
+      "holiday_avg": "1万人次"
+    },
+    {
+      "name": "上海览海国际广场",
+      "open_date": "2017-11-28",
+      "area": "3.7万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海益丰外滩源",
+      "open_date": "2012-05-17",
+      "area": "6000㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海BFC外滩金融中心",
+      "open_date": "2019-12-12",
+      "area": "9.6万㎡",
+      "jun_daily_avg": "6.4万人次",
+      "weekday_avg": "6.3万人次",
+      "holiday_avg": "6.6万人次"
+    },
+    {
+      "name": "上海悦园商厦",
+      "open_date": "2005-01-01",
+      "area": "1.7万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海外滩中央广场",
+      "open_date": "2017-09-24",
+      "area": "4.5万㎡",
+      "jun_daily_avg": "1.8万人次",
+      "weekday_avg": "1.6万人次",
+      "holiday_avg": "2.5万人次"
+    },
+    {
+      "name": "上海GALA MALL尚悦湾广场",
+      "open_date": "2017-12-23",
+      "area": "7万㎡",
+      "jun_daily_avg": "2.8万人次",
+      "weekday_avg": "3.2万人次",
+      "holiday_avg": "1.6万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 109.0,
+      "within_1yr_pct": 22.0,
+      "1_3yr_pct": 31.2,
+      "over_3yr_pct": 46.8
+    },
+    {
+      "type": "购物",
+      "count": 91.0,
+      "within_1yr_pct": 22.0,
+      "1_3yr_pct": 37.4,
+      "over_3yr_pct": 40.7
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 18.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 44.4,
+      "over_3yr_pct": 22.2
+    },
+    {
+      "type": "教育培训",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "生活服务",
+      "count": 24.0,
+      "within_1yr_pct": 16.7,
+      "1_3yr_pct": 12.5,
+      "over_3yr_pct": 70.8
+    },
+    {
+      "type": "运动健身",
+      "count": 3.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 33.3
+    },
+    {
+      "type": "车辆服务",
+      "count": 4.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 50.0
+    }
+  ]
+}

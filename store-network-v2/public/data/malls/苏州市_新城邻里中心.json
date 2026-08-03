@@ -1,0 +1,422 @@
+{
+  "name": "新城邻里中心",
+  "city": "苏州市",
+  "address": "江苏省苏州市吴中区现代大道158号",
+  "lat": 31.321758,
+  "lng": 120.66796,
+  "overview": {
+    "score": 89.8,
+    "score_rank": "市内前30%",
+    "population_score": 82.8,
+    "area_score": 66.7,
+    "consumption_score": 86.7,
+    "industry_score": 90.0,
+    "annual_sales": "新城邻里中心是集商业、文化、娱乐、体育、卫生、服务于一体的综合性商业大楼，设有超市、银行、邮政通讯、餐饮店、洗衣房、美容美发店、药店、文化用品店、维修店、文体中心、邻里生鲜店和社区卫生服务中心等12项居住配套功能。",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 2.1,
+    "open_date": "1998-05-30",
+    "operator": "苏州工业园区邻里中心发展有限公司",
+    "brand": "",
+    "type": "美食型",
+    "floors": "L1-L4"
+  },
+  "traffic": {
+    "annual_daily": 1.1,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第114",
+    "jun_total": 42.8,
+    "jun_total_rank": "市内商场第126名",
+    "jun_daily_avg": 1.4,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第126名",
+    "weekday_avg": 1.3,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第130名",
+    "holiday_avg": 1.7,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第129名"
+  },
+  "population": {
+    "residential": {
+      "500m": 8900.0,
+      "1_5km": 6.1,
+      "3km": 23.6
+    },
+    "office": {
+      "500m": 5300.0,
+      "1_5km": 7.9,
+      "3km": 18.3
+    },
+    "permanent": {
+      "500m": 8400.0,
+      "1_5km": 8.4,
+      "3km": 25.1
+    }
+  },
+  "business": {
+    "competitors": null,
+    "food": 35.0,
+    "shopping": 42.0,
+    "leisure": 9.0,
+    "education": 17.0,
+    "hotel": 6.0,
+    "services": 66.0,
+    "fitness": 16.0,
+    "auto": 4.0,
+    "total_stores": 63.0,
+    "old_store_3yr_pct": 56.0
+  },
+  "nearby_poi": {
+    "business": 15.0,
+    "community": 185.0,
+    "office": 41.0,
+    "school": 11.0,
+    "hospital": 33.0,
+    "transport": 15.0,
+    "scenic": 156.0
+  },
+  "demographics": {
+    "male_pct": null,
+    "female_pct": null,
+    "education": {
+      "小学": 9.7,
+      "初中": 18.7,
+      "高中": 14.0,
+      "大专": 9.5,
+      "本科": 43.1,
+      "硕士": 4.0,
+      "博士": 1.0
+    },
+    "has_children_pct": 57.6,
+    "no_children_pct": 42.4
+  },
+  "scraped_at": "2026-08-02T10:48:10.529Z",
+  "nearby_restaurants": [
+    {
+      "brand": "味九鼎苏式鲜肉月饼(新城邻里中心店)",
+      "address": "现代大道158号新城邻里中心B111室",
+      "distance": "2m"
+    },
+    {
+      "brand": "代数学家咖啡algebraist(苏州胜浦邻里中心店)",
+      "address": "吴中区工业园区胜浦街道胜浦邻里中心101-2",
+      "distance": "4m"
+    },
+    {
+      "brand": "代数学家algebraist(苏州新城邻里中心店)",
+      "address": "苏州工业园区现代大道158号新城邻里中心B105室",
+      "distance": "4m"
+    },
+    {
+      "brand": "竹贤馆(新城邻里中心店)",
+      "address": "现代大道158号新城邻里中心F2层",
+      "distance": "5m"
+    },
+    {
+      "brand": "久久丫鸭脖(湖东邻里中心路店)",
+      "address": "湖东邻里中心共享空间",
+      "distance": "13m"
+    },
+    {
+      "brand": "红泥小火炉(新城店)",
+      "address": "现代大道158号新城邻里中心B102-1",
+      "distance": "16m"
+    },
+    {
+      "brand": "百分茶(新城邻里中心店)",
+      "address": "苏州工业园区现代大道158号新城邻里中心K幢113室",
+      "distance": "18m"
+    },
+    {
+      "brand": "路边羊烧烤酒场(新城邻里中心店)",
+      "address": "现代大道158号新城邻里中心B1层",
+      "distance": "22m"
+    },
+    {
+      "brand": "好利来(苏州邻里中心店)",
+      "address": "现代大道158号新城邻里中心F1层B119",
+      "distance": "22m"
+    },
+    {
+      "brand": "铁酱披萨(新城邻里中心店)",
+      "address": "现代大道158号新城邻里中心B1层",
+      "distance": "23m"
+    },
+    {
+      "brand": "味九鼎苏式鲜肉月饼(新城邻里中心店)",
+      "address": "现代大道158号新城邻里中心B111室",
+      "distance": "2m"
+    },
+    {
+      "brand": "代数学家咖啡algebraist(苏州胜浦邻里中心店)",
+      "address": "吴中区工业园区胜浦街道胜浦邻里中心101-2",
+      "distance": "4m"
+    },
+    {
+      "brand": "代数学家algebraist(苏州新城邻里中心店)",
+      "address": "苏州工业园区现代大道158号新城邻里中心B105室",
+      "distance": "4m"
+    },
+    {
+      "brand": "竹贤馆(新城邻里中心店)",
+      "address": "现代大道158号新城邻里中心F2层",
+      "distance": "5m"
+    },
+    {
+      "brand": "久久丫鸭脖(湖东邻里中心路店)",
+      "address": "湖东邻里中心共享空间",
+      "distance": "13m"
+    },
+    {
+      "brand": "红泥小火炉(新城店)",
+      "address": "现代大道158号新城邻里中心B102-1",
+      "distance": "16m"
+    },
+    {
+      "brand": "百分茶(新城邻里中心店)",
+      "address": "苏州工业园区现代大道158号新城邻里中心K幢113室",
+      "distance": "18m"
+    },
+    {
+      "brand": "路边羊烧烤酒场(新城邻里中心店)",
+      "address": "现代大道158号新城邻里中心B1层",
+      "distance": "22m"
+    },
+    {
+      "brand": "好利来(苏州邻里中心店)",
+      "address": "现代大道158号新城邻里中心F1层B119",
+      "distance": "22m"
+    },
+    {
+      "brand": "铁酱披萨(新城邻里中心店)",
+      "address": "现代大道158号新城邻里中心B1层",
+      "distance": "23m"
+    },
+    {
+      "brand": "味九鼎苏式鲜肉月饼(新城邻里中心店)",
+      "address": "现代大道158号新城邻里中心B111室",
+      "distance": "2m"
+    },
+    {
+      "brand": "代数学家咖啡algebraist(苏州胜浦邻里中心店)",
+      "address": "吴中区工业园区胜浦街道胜浦邻里中心101-2",
+      "distance": "4m"
+    },
+    {
+      "brand": "代数学家algebraist(苏州新城邻里中心店)",
+      "address": "苏州工业园区现代大道158号新城邻里中心B105室",
+      "distance": "4m"
+    },
+    {
+      "brand": "竹贤馆(新城邻里中心店)",
+      "address": "现代大道158号新城邻里中心F2层",
+      "distance": "5m"
+    },
+    {
+      "brand": "久久丫鸭脖(湖东邻里中心路店)",
+      "address": "湖东邻里中心共享空间",
+      "distance": "13m"
+    },
+    {
+      "brand": "红泥小火炉(新城店)",
+      "address": "现代大道158号新城邻里中心B102-1",
+      "distance": "16m"
+    },
+    {
+      "brand": "百分茶(新城邻里中心店)",
+      "address": "苏州工业园区现代大道158号新城邻里中心K幢113室",
+      "distance": "18m"
+    },
+    {
+      "brand": "路边羊烧烤酒场(新城邻里中心店)",
+      "address": "现代大道158号新城邻里中心B1层",
+      "distance": "22m"
+    },
+    {
+      "brand": "好利来(苏州邻里中心店)",
+      "address": "现代大道158号新城邻里中心F1层B119",
+      "distance": "22m"
+    },
+    {
+      "brand": "铁酱披萨(新城邻里中心店)",
+      "address": "现代大道158号新城邻里中心B1层",
+      "distance": "23m"
+    },
+    {
+      "brand": "味九鼎苏式鲜肉月饼(新城邻里中心店)",
+      "address": "现代大道158号新城邻里中心B111室",
+      "distance": "2m"
+    },
+    {
+      "brand": "代数学家咖啡algebraist(苏州胜浦邻里中心店)",
+      "address": "吴中区工业园区胜浦街道胜浦邻里中心101-2",
+      "distance": "4m"
+    },
+    {
+      "brand": "代数学家algebraist(苏州新城邻里中心店)",
+      "address": "苏州工业园区现代大道158号新城邻里中心B105室",
+      "distance": "4m"
+    },
+    {
+      "brand": "竹贤馆(新城邻里中心店)",
+      "address": "现代大道158号新城邻里中心F2层",
+      "distance": "5m"
+    },
+    {
+      "brand": "久久丫鸭脖(湖东邻里中心路店)",
+      "address": "湖东邻里中心共享空间",
+      "distance": "13m"
+    },
+    {
+      "brand": "红泥小火炉(新城店)",
+      "address": "现代大道158号新城邻里中心B102-1",
+      "distance": "16m"
+    },
+    {
+      "brand": "百分茶(新城邻里中心店)",
+      "address": "苏州工业园区现代大道158号新城邻里中心K幢113室",
+      "distance": "18m"
+    },
+    {
+      "brand": "路边羊烧烤酒场(新城邻里中心店)",
+      "address": "现代大道158号新城邻里中心B1层",
+      "distance": "22m"
+    },
+    {
+      "brand": "好利来(苏州邻里中心店)",
+      "address": "现代大道158号新城邻里中心F1层B119",
+      "distance": "22m"
+    },
+    {
+      "brand": "铁酱披萨(新城邻里中心店)",
+      "address": "现代大道158号新城邻里中心B1层",
+      "distance": "23m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "苏州星雅汇",
+      "open_date": "2018-05-08",
+      "area": "2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "苏州天虹商场(苏雅路店)",
+      "open_date": "2022-10-28",
+      "area": "13万㎡",
+      "jun_daily_avg": "3.6万人次",
+      "weekday_avg": "3.4万人次",
+      "holiday_avg": "4.1万人次"
+    },
+    {
+      "name": "苏州凤凰广场",
+      "open_date": "2013-01-01",
+      "area": "5万㎡",
+      "jun_daily_avg": "2.2万人次",
+      "weekday_avg": "2.1万人次",
+      "holiday_avg": "2.3万人次"
+    },
+    {
+      "name": "苏州苏悦广场",
+      "open_date": "2016-10-01",
+      "area": "9万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "苏州星海生活广场",
+      "open_date": "2012-04-28",
+      "area": "5.2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "苏州尼盛尚品汇",
+      "open_date": "2008-01-01",
+      "area": "1.5万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "苏州环球188购物中心",
+      "open_date": "2011-03-01",
+      "area": "2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "苏州星悦汇",
+      "open_date": "2017-11-11",
+      "area": "5万㎡",
+      "jun_daily_avg": "4.8万人次",
+      "weekday_avg": "4万人次",
+      "holiday_avg": "7万人次"
+    },
+    {
+      "name": "苏州中心广场",
+      "open_date": "2017-11-11",
+      "area": "35万㎡",
+      "jun_daily_avg": "16.3万人次",
+      "weekday_avg": "13.1万人次",
+      "holiday_avg": "25.2万人次"
+    },
+    {
+      "name": "苏州中天湖畔广场",
+      "open_date": "-",
+      "area": "8000㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 23.0,
+      "within_1yr_pct": 8.7,
+      "1_3yr_pct": 39.1,
+      "over_3yr_pct": 52.2
+    },
+    {
+      "type": "购物",
+      "count": 22.0,
+      "within_1yr_pct": 31.8,
+      "1_3yr_pct": 18.2,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    },
+    {
+      "type": "教育培训",
+      "count": 3.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 66.7
+    },
+    {
+      "type": "生活服务",
+      "count": 10.0,
+      "within_1yr_pct": 10.0,
+      "1_3yr_pct": 20.0,
+      "over_3yr_pct": 70.0
+    },
+    {
+      "type": "运动健身",
+      "count": 4.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 50.0
+    }
+  ]
+}

@@ -1,0 +1,479 @@
+{
+  "name": "伊藤洋华堂(春熙路店)",
+  "city": "成都市",
+  "address": "四川省成都市锦江区总府路15号",
+  "lat": 30.658288,
+  "lng": 104.079662,
+  "overview": {
+    "score": 84.7,
+    "score_rank": "市内前30%",
+    "population_score": 90.2,
+    "area_score": 99.1,
+    "consumption_score": 80.1,
+    "industry_score": 84.6,
+    "annual_sales": "成都王府井百货（总府店）位于繁华的总府-春熙商圈，集购物、餐饮、休闲于一体，是王府井集团股份有限公司在北京以外投资的最大项目",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 4.2,
+    "open_date": "1999-12-30",
+    "operator": "王府井集团股份有限公司",
+    "brand": "王府井",
+    "type": "购物型",
+    "floors": "B1-L5"
+  },
+  "traffic": {
+    "annual_daily": 1.64,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第108",
+    "jun_total": 37.6,
+    "jun_total_rank": "市内商场第153名",
+    "jun_daily_avg": 1.3,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第153名",
+    "weekday_avg": 1.2,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第154名",
+    "holiday_avg": 1.5,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第144名"
+  },
+  "population": {
+    "residential": {
+      "500m": 2.3,
+      "1_5km": 26.6,
+      "3km": 83.8
+    },
+    "office": {
+      "500m": 4.7,
+      "1_5km": 32.0,
+      "3km": 68.7
+    },
+    "permanent": {
+      "500m": 4.3,
+      "1_5km": 33.6,
+      "3km": 87.3
+    }
+  },
+  "business": {
+    "competitors": 14.0,
+    "food": 871.0,
+    "shopping": 1359.0,
+    "leisure": 252.0,
+    "education": 80.0,
+    "hotel": 630.0,
+    "services": 628.0,
+    "fitness": 31.0,
+    "auto": 37.0,
+    "total_stores": 256.0,
+    "old_store_3yr_pct": 60.0
+  },
+  "nearby_poi": {
+    "business": 33.0,
+    "community": 1339.0,
+    "office": 171.0,
+    "school": 50.0,
+    "hospital": 288.0,
+    "transport": 19.0,
+    "scenic": 419.0
+  },
+  "demographics": {
+    "male_pct": 46.4,
+    "female_pct": null,
+    "education": {
+      "小学": 9.2,
+      "初中": 17.6,
+      "高中": 14.1,
+      "大专": 10.6,
+      "本科": 43.1,
+      "硕士": 4.3,
+      "博士": 1.1
+    },
+    "has_children_pct": 56.9,
+    "no_children_pct": 43.1
+  },
+  "scraped_at": "2026-08-02T07:26:57.578Z",
+  "nearby_restaurants": [
+    {
+      "brand": "LELECHA乐乐茶(总府路王府井店)",
+      "address": "王府井百货总府路店",
+      "distance": "1m"
+    },
+    {
+      "brand": "晏氏三千食麻辣串烧(王府井店)",
+      "address": "总府路15号王府井百货总府路店B1层",
+      "distance": "2m"
+    },
+    {
+      "brand": "野人先生现做冰淇淋(成都王府井总府路店)",
+      "address": "总府路15号王府井百货(总府路店)1层L01003号野人先生",
+      "distance": "9m"
+    },
+    {
+      "brand": "AL RAYYAN",
+      "address": "王府井喜悦6层",
+      "distance": "13m"
+    },
+    {
+      "brand": "成都王府井总府店2楼HAZZYS",
+      "address": "总府路15号王府井百货总府路店2F层",
+      "distance": "16m"
+    },
+    {
+      "brand": "良木缘咖啡西餐(春熙王府井店)",
+      "address": "春熙路王府井2层",
+      "distance": "22m"
+    },
+    {
+      "brand": "三缺一茶室",
+      "address": "总府路15号王府井百货(总府路店)",
+      "distance": "29m"
+    },
+    {
+      "brand": "老周家现炸酥肉(王府井百货总府店)",
+      "address": "总府路15号王府井百货(总府路店)",
+      "distance": "30m"
+    },
+    {
+      "brand": "成都甘唐咖啡饮品体验中心",
+      "address": "11楼1105",
+      "distance": "31m"
+    },
+    {
+      "brand": "成都春熙王府井1店FILA店",
+      "address": "总府路15号王府井百货总府路店6F层",
+      "distance": "32m"
+    },
+    {
+      "brand": "LELECHA乐乐茶(总府路王府井店)",
+      "address": "王府井百货总府路店",
+      "distance": "1m"
+    },
+    {
+      "brand": "晏氏三千食麻辣串烧(王府井店)",
+      "address": "总府路15号王府井百货总府路店B1层",
+      "distance": "2m"
+    },
+    {
+      "brand": "野人先生现做冰淇淋(成都王府井总府路店)",
+      "address": "总府路15号王府井百货(总府路店)1层L01003号野人先生",
+      "distance": "9m"
+    },
+    {
+      "brand": "AL RAYYAN",
+      "address": "王府井喜悦6层",
+      "distance": "13m"
+    },
+    {
+      "brand": "成都王府井总府店2楼HAZZYS",
+      "address": "总府路15号王府井百货总府路店2F层",
+      "distance": "16m"
+    },
+    {
+      "brand": "良木缘咖啡西餐(春熙王府井店)",
+      "address": "春熙路王府井2层",
+      "distance": "22m"
+    },
+    {
+      "brand": "三缺一茶室",
+      "address": "总府路15号王府井百货(总府路店)",
+      "distance": "29m"
+    },
+    {
+      "brand": "老周家现炸酥肉(王府井百货总府店)",
+      "address": "总府路15号王府井百货(总府路店)",
+      "distance": "30m"
+    },
+    {
+      "brand": "成都甘唐咖啡饮品体验中心",
+      "address": "11楼1105",
+      "distance": "31m"
+    },
+    {
+      "brand": "成都春熙王府井1店FILA店",
+      "address": "总府路15号王府井百货总府路店6F层",
+      "distance": "32m"
+    },
+    {
+      "brand": "LELECHA乐乐茶(总府路王府井店)",
+      "address": "王府井百货总府路店",
+      "distance": "1m"
+    },
+    {
+      "brand": "晏氏三千食麻辣串烧(王府井店)",
+      "address": "总府路15号王府井百货总府路店B1层",
+      "distance": "2m"
+    },
+    {
+      "brand": "野人先生现做冰淇淋(成都王府井总府路店)",
+      "address": "总府路15号王府井百货(总府路店)1层L01003号野人先生",
+      "distance": "9m"
+    },
+    {
+      "brand": "AL RAYYAN",
+      "address": "王府井喜悦6层",
+      "distance": "13m"
+    },
+    {
+      "brand": "成都王府井总府店2楼HAZZYS",
+      "address": "总府路15号王府井百货总府路店2F层",
+      "distance": "16m"
+    },
+    {
+      "brand": "良木缘咖啡西餐(春熙王府井店)",
+      "address": "春熙路王府井2层",
+      "distance": "22m"
+    },
+    {
+      "brand": "三缺一茶室",
+      "address": "总府路15号王府井百货(总府路店)",
+      "distance": "29m"
+    },
+    {
+      "brand": "老周家现炸酥肉(王府井百货总府店)",
+      "address": "总府路15号王府井百货(总府路店)",
+      "distance": "30m"
+    },
+    {
+      "brand": "成都甘唐咖啡饮品体验中心",
+      "address": "11楼1105",
+      "distance": "31m"
+    },
+    {
+      "brand": "成都春熙王府井1店FILA店",
+      "address": "总府路15号王府井百货总府路店6F层",
+      "distance": "32m"
+    },
+    {
+      "brand": "LELECHA乐乐茶(总府路王府井店)",
+      "address": "王府井百货总府路店",
+      "distance": "1m"
+    },
+    {
+      "brand": "晏氏三千食麻辣串烧(王府井店)",
+      "address": "总府路15号王府井百货总府路店B1层",
+      "distance": "2m"
+    },
+    {
+      "brand": "野人先生现做冰淇淋(成都王府井总府路店)",
+      "address": "总府路15号王府井百货(总府路店)1层L01003号野人先生",
+      "distance": "9m"
+    },
+    {
+      "brand": "AL RAYYAN",
+      "address": "王府井喜悦6层",
+      "distance": "13m"
+    },
+    {
+      "brand": "成都王府井总府店2楼HAZZYS",
+      "address": "总府路15号王府井百货总府路店2F层",
+      "distance": "16m"
+    },
+    {
+      "brand": "良木缘咖啡西餐(春熙王府井店)",
+      "address": "春熙路王府井2层",
+      "distance": "22m"
+    },
+    {
+      "brand": "三缺一茶室",
+      "address": "总府路15号王府井百货(总府路店)",
+      "distance": "29m"
+    },
+    {
+      "brand": "老周家现炸酥肉(王府井百货总府店)",
+      "address": "总府路15号王府井百货(总府路店)",
+      "distance": "30m"
+    },
+    {
+      "brand": "成都甘唐咖啡饮品体验中心",
+      "address": "11楼1105",
+      "distance": "31m"
+    },
+    {
+      "brand": "成都春熙王府井1店FILA店",
+      "address": "总府路15号王府井百货总府路店6F层",
+      "distance": "32m"
+    },
+    {
+      "brand": "LELECHA乐乐茶(总府路王府井店)",
+      "address": "王府井百货总府路店",
+      "distance": "1m"
+    },
+    {
+      "brand": "晏氏三千食麻辣串烧(王府井店)",
+      "address": "总府路15号王府井百货总府路店B1层",
+      "distance": "2m"
+    },
+    {
+      "brand": "野人先生现做冰淇淋(成都王府井总府路店)",
+      "address": "总府路15号王府井百货(总府路店)1层L01003号野人先生",
+      "distance": "9m"
+    },
+    {
+      "brand": "AL RAYYAN",
+      "address": "王府井喜悦6层",
+      "distance": "13m"
+    },
+    {
+      "brand": "成都王府井总府店2楼HAZZYS",
+      "address": "总府路15号王府井百货总府路店2F层",
+      "distance": "16m"
+    },
+    {
+      "brand": "良木缘咖啡西餐(春熙王府井店)",
+      "address": "春熙路王府井2层",
+      "distance": "22m"
+    },
+    {
+      "brand": "三缺一茶室",
+      "address": "总府路15号王府井百货(总府路店)",
+      "distance": "29m"
+    },
+    {
+      "brand": "老周家现炸酥肉(王府井百货总府店)",
+      "address": "总府路15号王府井百货(总府路店)",
+      "distance": "30m"
+    },
+    {
+      "brand": "成都甘唐咖啡饮品体验中心",
+      "address": "11楼1105",
+      "distance": "31m"
+    },
+    {
+      "brand": "成都春熙王府井1店FILA店",
+      "address": "总府路15号王府井百货总府路店6F层",
+      "distance": "32m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "成都茂业百货(春熙店)",
+      "open_date": "2013-11-04",
+      "area": "5万㎡",
+      "jun_daily_avg": "1.5万人次",
+      "weekday_avg": "1.4万人次",
+      "holiday_avg": "1.8万人次"
+    },
+    {
+      "name": "成都总府Z31",
+      "open_date": "2019-05-01",
+      "area": "1万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "成都百盛购物中心(四川时代店)",
+      "open_date": "2008-01-01",
+      "area": "2.8万㎡",
+      "jun_daily_avg": "3.3万人次",
+      "weekday_avg": "3.1万人次",
+      "holiday_avg": "4万人次"
+    },
+    {
+      "name": "成都第一城",
+      "open_date": "2015-01-01",
+      "area": "10万㎡",
+      "jun_daily_avg": "3万人次",
+      "weekday_avg": "2.7万人次",
+      "holiday_avg": "3.7万人次"
+    },
+    {
+      "name": "成都伊藤洋华堂(春熙路店)",
+      "open_date": "1997-11-21",
+      "area": "4万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "成都春熙路阳光百货",
+      "open_date": "2008-01-01",
+      "area": "4万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "成都IFS",
+      "open_date": "2014-01-14",
+      "area": "21万㎡",
+      "jun_daily_avg": "16.1万人次",
+      "weekday_avg": "14.9万人次",
+      "holiday_avg": "19.3万人次"
+    },
+    {
+      "name": "成都尚都服饰广场",
+      "open_date": "2015-11-27",
+      "area": "10万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "成都群光广场",
+      "open_date": "2010-10-23",
+      "area": "10万㎡",
+      "jun_daily_avg": "6.7万人次",
+      "weekday_avg": "5.9万人次",
+      "holiday_avg": "9.1万人次"
+    },
+    {
+      "name": "成都银石广场",
+      "open_date": "2013-01-01",
+      "area": "2.4万㎡",
+      "jun_daily_avg": "11万人次",
+      "weekday_avg": "10.1万人次",
+      "holiday_avg": "13.5万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 17.0,
+      "within_1yr_pct": 23.5,
+      "1_3yr_pct": 47.1,
+      "over_3yr_pct": 29.4
+    },
+    {
+      "type": "购物",
+      "count": 209.0,
+      "within_1yr_pct": 12.4,
+      "1_3yr_pct": 21.5,
+      "over_3yr_pct": 66.0
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 8.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 12.5,
+      "over_3yr_pct": 37.5
+    },
+    {
+      "type": "教育培训",
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 6.0,
+      "within_1yr_pct": 66.7,
+      "1_3yr_pct": 16.7,
+      "over_3yr_pct": 16.7
+    },
+    {
+      "type": "生活服务",
+      "count": 9.0,
+      "within_1yr_pct": 22.2,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 44.4
+    },
+    {
+      "type": "车辆服务",
+      "count": 5.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 40.0,
+      "over_3yr_pct": 60.0
+    }
+  ]
+}

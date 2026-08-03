@@ -1,0 +1,486 @@
+{
+  "name": "城市广场",
+  "city": "北京市",
+  "address": "广东省深圳市福田区深南中路2001号(科学馆地铁站C口步行60米)",
+  "lat": null,
+  "lng": null,
+  "overview": {
+    "score": 88.0,
+    "score_rank": "市内前30%",
+    "population_score": 91.7,
+    "area_score": 84.3,
+    "consumption_score": 80.1,
+    "industry_score": 88.0,
+    "annual_sales": "商场的项目简介：深圳新城市广场CITY MALL是深圳商业史上第一家大型城市购物中心，集购物、餐饮、娱乐、休闲、观光为一体的SHOPPING MALL，曾开创深圳“shopping mall”时代",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 8.4,
+    "open_date": "2002-09-01",
+    "operator": "印力商用置业有限公司",
+    "brand": "",
+    "type": "综合型",
+    "floors": "B1-L5"
+  },
+  "traffic": {
+    "annual_daily": 2082.0,
+    "annual_daily_unit": "人次",
+    "annual_daily_rank": "市内第294",
+    "jun_total": 28.7,
+    "jun_total_rank": "市内商场第212名",
+    "jun_daily_avg": 9563.0,
+    "jun_daily_unit": "人次",
+    "jun_daily_rank": "市内商场第212名",
+    "weekday_avg": 8797.0,
+    "weekday_unit": "人次",
+    "weekday_rank": "市内商场第218名",
+    "holiday_avg": 1.2,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第207名"
+  },
+  "population": {
+    "residential": {
+      "500m": 4.3,
+      "1_5km": 25.4,
+      "3km": 94.8
+    },
+    "office": {
+      "500m": 3.5,
+      "1_5km": 26.7,
+      "3km": 75.3
+    },
+    "permanent": {
+      "500m": 4.3,
+      "1_5km": 28.4,
+      "3km": 96.1
+    }
+  },
+  "business": {
+    "competitors": 9.0,
+    "food": 442.0,
+    "shopping": 291.0,
+    "leisure": 29.0,
+    "education": 42.0,
+    "hotel": 79.0,
+    "services": 241.0,
+    "fitness": 22.0,
+    "auto": 37.0,
+    "total_stores": 199.0,
+    "old_store_3yr_pct": 8.0
+  },
+  "nearby_poi": {
+    "business": 13.0,
+    "community": 379.0,
+    "office": 146.0,
+    "school": 38.0,
+    "hospital": 233.0,
+    "transport": 18.0,
+    "scenic": 244.0
+  },
+  "demographics": {
+    "male_pct": 50.1,
+    "female_pct": null,
+    "education": {
+      "小学": 12.5,
+      "初中": 22.3,
+      "高中": 12.2,
+      "大专": 9.1,
+      "本科": 40.1,
+      "硕士": 3.1,
+      "博士": 0.7
+    },
+    "has_children_pct": 56.7,
+    "no_children_pct": 43.3
+  },
+  "scraped_at": "2026-07-31T11:27:29.816Z",
+  "nearby_restaurants": [
+    {
+      "brand": "煲掌柜老广煲仔饭",
+      "address": "南园路与埔新街交叉口北100米",
+      "distance": "3m"
+    },
+    {
+      "brand": "陈香贵·兰州牛肉面(深圳福田iN城市广场店)",
+      "address": "南园路与埔新街交叉口北100米",
+      "distance": "4m"
+    },
+    {
+      "brand": "小柴火(城市广场店)",
+      "address": "巴登社区深南中路1095号新城市广场四楼L4-12辅位",
+      "distance": "4m"
+    },
+    {
+      "brand": "小木屋拌饭(深圳福田IN城市生活广场店)",
+      "address": "深南中路1095号新城市广场LG层M",
+      "distance": "4m"
+    },
+    {
+      "brand": "原石牛扒(iN城市广场店)",
+      "address": "深南中路1095号新城市广场LG层LG-M-11号铺",
+      "distance": "4m"
+    },
+    {
+      "brand": "orbitone奥彼文星球食研所",
+      "address": "深南中路1095号iN城市广场LG层",
+      "distance": "4m"
+    },
+    {
+      "brand": "LINLEE·手打柠檬茶(福田in城市广场店)",
+      "address": "深南中路1095号iN城市广场LG层LG-T-26号商铺",
+      "distance": "4m"
+    },
+    {
+      "brand": "克茗香港茶餐厅(iN城市广场店)",
+      "address": "深南中路1095号iN城市广场LG层LG-M-03/04(科学馆站F出口)",
+      "distance": "9m"
+    },
+    {
+      "brand": "茶理宜世(IN城市广场店)",
+      "address": "南园街道深南中路1095号新城市广场LG层LG-LM-15铺",
+      "distance": "11m"
+    },
+    {
+      "brand": "煌上煌(福田新城市广场专卖店)",
+      "address": "南园街道巴登社区深南中路1095号新城市广场LG层T-23号",
+      "distance": "11m"
+    },
+    {
+      "brand": "煲掌柜老广煲仔饭",
+      "address": "南园路与埔新街交叉口北100米",
+      "distance": "3m"
+    },
+    {
+      "brand": "陈香贵·兰州牛肉面(深圳福田iN城市广场店)",
+      "address": "南园路与埔新街交叉口北100米",
+      "distance": "4m"
+    },
+    {
+      "brand": "小柴火(城市广场店)",
+      "address": "巴登社区深南中路1095号新城市广场四楼L4-12辅位",
+      "distance": "4m"
+    },
+    {
+      "brand": "小木屋拌饭(深圳福田IN城市生活广场店)",
+      "address": "深南中路1095号新城市广场LG层M",
+      "distance": "4m"
+    },
+    {
+      "brand": "原石牛扒(iN城市广场店)",
+      "address": "深南中路1095号新城市广场LG层LG-M-11号铺",
+      "distance": "4m"
+    },
+    {
+      "brand": "orbitone奥彼文星球食研所",
+      "address": "深南中路1095号iN城市广场LG层",
+      "distance": "4m"
+    },
+    {
+      "brand": "LINLEE·手打柠檬茶(福田in城市广场店)",
+      "address": "深南中路1095号iN城市广场LG层LG-T-26号商铺",
+      "distance": "4m"
+    },
+    {
+      "brand": "克茗香港茶餐厅(iN城市广场店)",
+      "address": "深南中路1095号iN城市广场LG层LG-M-03/04(科学馆站F出口)",
+      "distance": "9m"
+    },
+    {
+      "brand": "茶理宜世(IN城市广场店)",
+      "address": "南园街道深南中路1095号新城市广场LG层LG-LM-15铺",
+      "distance": "11m"
+    },
+    {
+      "brand": "煌上煌(福田新城市广场专卖店)",
+      "address": "南园街道巴登社区深南中路1095号新城市广场LG层T-23号",
+      "distance": "11m"
+    },
+    {
+      "brand": "煲掌柜老广煲仔饭",
+      "address": "南园路与埔新街交叉口北100米",
+      "distance": "3m"
+    },
+    {
+      "brand": "陈香贵·兰州牛肉面(深圳福田iN城市广场店)",
+      "address": "南园路与埔新街交叉口北100米",
+      "distance": "4m"
+    },
+    {
+      "brand": "小柴火(城市广场店)",
+      "address": "巴登社区深南中路1095号新城市广场四楼L4-12辅位",
+      "distance": "4m"
+    },
+    {
+      "brand": "小木屋拌饭(深圳福田IN城市生活广场店)",
+      "address": "深南中路1095号新城市广场LG层M",
+      "distance": "4m"
+    },
+    {
+      "brand": "原石牛扒(iN城市广场店)",
+      "address": "深南中路1095号新城市广场LG层LG-M-11号铺",
+      "distance": "4m"
+    },
+    {
+      "brand": "orbitone奥彼文星球食研所",
+      "address": "深南中路1095号iN城市广场LG层",
+      "distance": "4m"
+    },
+    {
+      "brand": "LINLEE·手打柠檬茶(福田in城市广场店)",
+      "address": "深南中路1095号iN城市广场LG层LG-T-26号商铺",
+      "distance": "4m"
+    },
+    {
+      "brand": "克茗香港茶餐厅(iN城市广场店)",
+      "address": "深南中路1095号iN城市广场LG层LG-M-03/04(科学馆站F出口)",
+      "distance": "9m"
+    },
+    {
+      "brand": "茶理宜世(IN城市广场店)",
+      "address": "南园街道深南中路1095号新城市广场LG层LG-LM-15铺",
+      "distance": "11m"
+    },
+    {
+      "brand": "煌上煌(福田新城市广场专卖店)",
+      "address": "南园街道巴登社区深南中路1095号新城市广场LG层T-23号",
+      "distance": "11m"
+    },
+    {
+      "brand": "煲掌柜老广煲仔饭",
+      "address": "南园路与埔新街交叉口北100米",
+      "distance": "3m"
+    },
+    {
+      "brand": "陈香贵·兰州牛肉面(深圳福田iN城市广场店)",
+      "address": "南园路与埔新街交叉口北100米",
+      "distance": "4m"
+    },
+    {
+      "brand": "小柴火(城市广场店)",
+      "address": "巴登社区深南中路1095号新城市广场四楼L4-12辅位",
+      "distance": "4m"
+    },
+    {
+      "brand": "小木屋拌饭(深圳福田IN城市生活广场店)",
+      "address": "深南中路1095号新城市广场LG层M",
+      "distance": "4m"
+    },
+    {
+      "brand": "原石牛扒(iN城市广场店)",
+      "address": "深南中路1095号新城市广场LG层LG-M-11号铺",
+      "distance": "4m"
+    },
+    {
+      "brand": "orbitone奥彼文星球食研所",
+      "address": "深南中路1095号iN城市广场LG层",
+      "distance": "4m"
+    },
+    {
+      "brand": "LINLEE·手打柠檬茶(福田in城市广场店)",
+      "address": "深南中路1095号iN城市广场LG层LG-T-26号商铺",
+      "distance": "4m"
+    },
+    {
+      "brand": "克茗香港茶餐厅(iN城市广场店)",
+      "address": "深南中路1095号iN城市广场LG层LG-M-03/04(科学馆站F出口)",
+      "distance": "9m"
+    },
+    {
+      "brand": "茶理宜世(IN城市广场店)",
+      "address": "南园街道深南中路1095号新城市广场LG层LG-LM-15铺",
+      "distance": "11m"
+    },
+    {
+      "brand": "煌上煌(福田新城市广场专卖店)",
+      "address": "南园街道巴登社区深南中路1095号新城市广场LG层T-23号",
+      "distance": "11m"
+    },
+    {
+      "brand": "煲掌柜老广煲仔饭",
+      "address": "南园路与埔新街交叉口北100米",
+      "distance": "3m"
+    },
+    {
+      "brand": "陈香贵·兰州牛肉面(深圳福田iN城市广场店)",
+      "address": "南园路与埔新街交叉口北100米",
+      "distance": "4m"
+    },
+    {
+      "brand": "小柴火(城市广场店)",
+      "address": "巴登社区深南中路1095号新城市广场四楼L4-12辅位",
+      "distance": "4m"
+    },
+    {
+      "brand": "小木屋拌饭(深圳福田IN城市生活广场店)",
+      "address": "深南中路1095号新城市广场LG层M",
+      "distance": "4m"
+    },
+    {
+      "brand": "原石牛扒(iN城市广场店)",
+      "address": "深南中路1095号新城市广场LG层LG-M-11号铺",
+      "distance": "4m"
+    },
+    {
+      "brand": "orbitone奥彼文星球食研所",
+      "address": "深南中路1095号iN城市广场LG层",
+      "distance": "4m"
+    },
+    {
+      "brand": "LINLEE·手打柠檬茶(福田in城市广场店)",
+      "address": "深南中路1095号iN城市广场LG层LG-T-26号商铺",
+      "distance": "4m"
+    },
+    {
+      "brand": "克茗香港茶餐厅(iN城市广场店)",
+      "address": "深南中路1095号iN城市广场LG层LG-M-03/04(科学馆站F出口)",
+      "distance": "9m"
+    },
+    {
+      "brand": "茶理宜世(IN城市广场店)",
+      "address": "南园街道深南中路1095号新城市广场LG层LG-LM-15铺",
+      "distance": "11m"
+    },
+    {
+      "brand": "煌上煌(福田新城市广场专卖店)",
+      "address": "南园街道巴登社区深南中路1095号新城市广场LG层T-23号",
+      "distance": "11m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "深圳中信信荟",
+      "open_date": "2024-04-30",
+      "area": "3万㎡",
+      "jun_daily_avg": "2.7万人次",
+      "weekday_avg": "2.9万人次",
+      "holiday_avg": "2.3万人次"
+    },
+    {
+      "name": "深圳茂业百货(深南店)",
+      "open_date": "2004-12-07",
+      "area": "2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "深圳KK mall",
+      "open_date": "2010-11-26",
+      "area": "8.3万㎡",
+      "jun_daily_avg": "3.4万人次",
+      "weekday_avg": "3.3万人次",
+      "holiday_avg": "3.6万人次"
+    },
+    {
+      "name": "深圳地王购物中心",
+      "open_date": "2018-10-01",
+      "area": "2.2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "深圳万象城",
+      "open_date": "2004-12-09",
+      "area": "18.8万㎡",
+      "jun_daily_avg": "9.2万人次",
+      "weekday_avg": "8.4万人次",
+      "holiday_avg": "11.4万人次"
+    },
+    {
+      "name": "深圳华强南商业中心",
+      "open_date": "2024-09-26",
+      "area": "9.1万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "深圳紫荆城(振兴中路店)",
+      "open_date": "2012-08-01",
+      "area": "7000㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "深圳万佳广场",
+      "open_date": "2016-03-04",
+      "area": "-",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "深圳NICO女人名店",
+      "open_date": "1997-05-01",
+      "area": "1.1万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "深圳华强茂业天地",
+      "open_date": "2003-10-01",
+      "area": "8万㎡",
+      "jun_daily_avg": "1.8万人次",
+      "weekday_avg": "1.6万人次",
+      "holiday_avg": "2.3万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 84.0,
+      "within_1yr_pct": 23.8,
+      "1_3yr_pct": 67.9,
+      "over_3yr_pct": 8.3
+    },
+    {
+      "type": "购物",
+      "count": 72.0,
+      "within_1yr_pct": 29.2,
+      "1_3yr_pct": 66.7,
+      "over_3yr_pct": 4.2
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 10.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 40.0,
+      "over_3yr_pct": 10.0
+    },
+    {
+      "type": "教育培训",
+      "count": 2.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "生活服务",
+      "count": 19.0,
+      "within_1yr_pct": 31.6,
+      "1_3yr_pct": 63.2,
+      "over_3yr_pct": 5.3
+    },
+    {
+      "type": "运动健身",
+      "count": 3.0,
+      "within_1yr_pct": 66.7,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 33.3
+    },
+    {
+      "type": "车辆服务",
+      "count": 8.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 25.0
+    }
+  ]
+}

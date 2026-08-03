@@ -1,0 +1,182 @@
+{
+  "name": "金隅嘉品mall",
+  "city": "北京市",
+  "address": "北京市朝阳区东坝中路38号",
+  "lat": 39.951453,
+  "lng": 116.548051,
+  "overview": {
+    "score": 92.3,
+    "score_rank": "市内前30%",
+    "population_score": 85.1,
+    "area_score": 71.9,
+    "consumption_score": 71.5,
+    "industry_score": 92.5,
+    "annual_sales": "16",
+    "annual_sales_unit": "亿元",
+    "area_size_sqm": 4.4,
+    "open_date": "2015-09-20",
+    "operator": "北京金隅集团股份有限公司",
+    "brand": "",
+    "type": "美食型",
+    "floors": "L1-L5"
+  },
+  "traffic": {
+    "annual_daily": 1.79,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第135",
+    "jun_total": 74.9,
+    "jun_total_rank": "市内商场第129名",
+    "jun_daily_avg": 2.5,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第129名",
+    "weekday_avg": 2.4,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第129名",
+    "holiday_avg": 2.9,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第135名"
+  },
+  "population": {
+    "residential": {
+      "500m": 1.8,
+      "1_5km": 11.2,
+      "3km": 27.3
+    },
+    "office": {
+      "500m": 6800.0,
+      "1_5km": 3.7,
+      "3km": 10.4
+    },
+    "permanent": {
+      "500m": 1.9,
+      "1_5km": 10.6,
+      "3km": 25.4
+    }
+  },
+  "business": {
+    "competitors": 3.0,
+    "food": 115.0,
+    "shopping": 94.0,
+    "leisure": 16.0,
+    "education": 10.0,
+    "hotel": 2.0,
+    "services": 58.0,
+    "fitness": 14.0,
+    "auto": 11.0,
+    "total_stores": 131.0,
+    "old_store_3yr_pct": 63.0
+  },
+  "nearby_poi": {
+    "business": 1.0,
+    "community": 120.0,
+    "office": 4.0,
+    "school": 25.0,
+    "hospital": 22.0,
+    "transport": 5.0,
+    "scenic": 66.0
+  },
+  "demographics": {
+    "male_pct": 45.3,
+    "female_pct": null,
+    "education": {
+      "小学": 10.3,
+      "初中": 17.4,
+      "高中": 11.1,
+      "大专": 8.0,
+      "本科": 46.8,
+      "硕士": 5.2,
+      "博士": 1.2
+    },
+    "has_children_pct": 63.6,
+    "no_children_pct": 36.4
+  },
+  "scraped_at": "2026-08-01T05:49:18.327Z",
+  "nearby_restaurants": [
+    {
+      "brand": "大串油边王",
+      "address": "丽富嘉园小区南区北1门旁",
+      "distance": "472m"
+    },
+    {
+      "brand": "手工鲜肉烤肠",
+      "address": "丽富嘉园小区南区",
+      "distance": "474m"
+    },
+    {
+      "brand": "便民主食",
+      "address": "驹子房路与养和路交叉口东北120米",
+      "distance": "477m"
+    },
+    {
+      "brand": "长沙臭豆腐蚝门盛宴",
+      "address": "东坝中路与康居中街交叉口西南260米",
+      "distance": "486m"
+    },
+    {
+      "brand": "东来顺门",
+      "address": "平房路与单店南路交叉口东南300米",
+      "distance": "495m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "北京东坝万达广场",
+      "open_date": "2023-09-28",
+      "area": "18万㎡",
+      "jun_daily_avg": "6.5万人次",
+      "weekday_avg": "5.7万人次",
+      "holiday_avg": "8.4万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 59.0,
+      "within_1yr_pct": 20.3,
+      "1_3yr_pct": 13.6,
+      "over_3yr_pct": 66.1
+    },
+    {
+      "type": "购物",
+      "count": 33.0,
+      "within_1yr_pct": 3.0,
+      "1_3yr_pct": 18.2,
+      "over_3yr_pct": 78.8
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 10.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 40.0,
+      "over_3yr_pct": 40.0
+    },
+    {
+      "type": "教育培训",
+      "count": 5.0,
+      "within_1yr_pct": 40.0,
+      "1_3yr_pct": 60.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "生活服务",
+      "count": 15.0,
+      "within_1yr_pct": 26.7,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 40.0
+    },
+    {
+      "type": "运动健身",
+      "count": 7.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 14.3,
+      "over_3yr_pct": 85.7
+    },
+    {
+      "type": "车辆服务",
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 50.0
+    }
+  ]
+}

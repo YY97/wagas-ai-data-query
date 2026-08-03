@@ -1,0 +1,462 @@
+{
+  "name": "博荟广场ONE EAST",
+  "city": "上海市",
+  "address": "上海市黄浦区中山南一路788号",
+  "lat": 31.197116,
+  "lng": 121.480438,
+  "overview": {
+    "score": 95.6,
+    "score_rank": "市内前30%",
+    "population_score": 92.6,
+    "area_score": 80.6,
+    "consumption_score": 86.6,
+    "industry_score": 95.7,
+    "annual_sales": "重庆首家青主题购物公园，拥有13万平方米的总体量，并畅享15万平方米人性化与自然景观结合的公共空间",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 7.5,
+    "open_date": "2021-12-31",
+    "operator": "博枫资产管理公司(Brookfield)",
+    "brand": "",
+    "type": "美食型",
+    "floors": "B2-L2"
+  },
+  "traffic": {
+    "annual_daily": 3.32,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第74",
+    "jun_total": 171.0,
+    "jun_total_rank": "市内商场第53名",
+    "jun_daily_avg": 5.7,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第53名",
+    "weekday_avg": 6.2,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第32名",
+    "holiday_avg": 4.4,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第107名"
+  },
+  "population": {
+    "residential": {
+      "500m": 2.7,
+      "1_5km": 24.9,
+      "3km": 82.9
+    },
+    "office": {
+      "500m": 3.2,
+      "1_5km": 17.4,
+      "3km": 68.9
+    },
+    "permanent": {
+      "500m": 3.3,
+      "1_5km": 26.5,
+      "3km": 91.2
+    }
+  },
+  "business": {
+    "competitors": 12.0,
+    "food": 231.0,
+    "shopping": 144.0,
+    "leisure": 16.0,
+    "education": 20.0,
+    "hotel": 14.0,
+    "services": 108.0,
+    "fitness": 17.0,
+    "auto": 18.0,
+    "total_stores": 223.0,
+    "old_store_3yr_pct": 38.0
+  },
+  "nearby_poi": {
+    "business": 7.0,
+    "community": 774.0,
+    "office": 94.0,
+    "school": 51.0,
+    "hospital": 125.0,
+    "transport": 21.0,
+    "scenic": 404.0
+  },
+  "demographics": {
+    "male_pct": 53.6,
+    "female_pct": null,
+    "education": {
+      "小学": 8.7,
+      "初中": 15.9,
+      "高中": 11.3,
+      "大专": 7.0,
+      "本科": 49.0,
+      "硕士": 6.3,
+      "博士": 1.8
+    },
+    "has_children_pct": 58.6,
+    "no_children_pct": 41.4
+  },
+  "scraped_at": "2026-08-01T04:51:24.689Z",
+  "nearby_restaurants": [
+    {
+      "brand": "皇浦荟(博荟广场ONE EAST店)",
+      "address": "中山南一路788号博荟广场L02-09AB",
+      "distance": "9m"
+    },
+    {
+      "brand": "牛腩之旅·牛腩牛杂煲(博荟店)",
+      "address": "中山南一路788号博荟广场ONE EASTBB2-29-B",
+      "distance": "11m"
+    },
+    {
+      "brand": "赵财财·肠粉·煲仔饭(博荟广场店)",
+      "address": "中山南一路788号博荟广场ONE EASTB1-12",
+      "distance": "11m"
+    },
+    {
+      "brand": "秦香岚·黔贵江湖菜·凯里酸汤鱼(博荟广场店)",
+      "address": "中山南一路788号博荟广场ONE EASTB1-A+B",
+      "distance": "11m"
+    },
+    {
+      "brand": "御延公馆·江浙菜(博荟广场店)",
+      "address": "中山南一路788号博荟广场ONEEAST2层",
+      "distance": "11m"
+    },
+    {
+      "brand": "成都你六姐牛肉冒菜(博荟广场ONE EAST店)",
+      "address": "龙华东路325号博荟广场ONE EASTB2层",
+      "distance": "11m"
+    },
+    {
+      "brand": "红唇麻辣拌(博荟店)",
+      "address": "五里桥街道中山南一路788号博荟广场B2-12室",
+      "distance": "11m"
+    },
+    {
+      "brand": "SpreadTheBagel(博荟广场店)",
+      "address": "中山南一路788号博荟广场L1层L1-17-B室",
+      "distance": "11m"
+    },
+    {
+      "brand": "爷爷不泡茶NOYEYENOTEA(上海博荟广场店)",
+      "address": "中山南一路788号博荟广场地下一层KB1号11",
+      "distance": "12m"
+    },
+    {
+      "brand": "7分甜(上海黄浦博荟广场店)",
+      "address": "中山南一路788号博荟广场地下二层B2-12号铺位",
+      "distance": "12m"
+    },
+    {
+      "brand": "皇浦荟(博荟广场ONE EAST店)",
+      "address": "中山南一路788号博荟广场L02-09AB",
+      "distance": "9m"
+    },
+    {
+      "brand": "牛腩之旅·牛腩牛杂煲(博荟店)",
+      "address": "中山南一路788号博荟广场ONE EASTBB2-29-B",
+      "distance": "11m"
+    },
+    {
+      "brand": "赵财财·肠粉·煲仔饭(博荟广场店)",
+      "address": "中山南一路788号博荟广场ONE EASTB1-12",
+      "distance": "11m"
+    },
+    {
+      "brand": "秦香岚·黔贵江湖菜·凯里酸汤鱼(博荟广场店)",
+      "address": "中山南一路788号博荟广场ONE EASTB1-A+B",
+      "distance": "11m"
+    },
+    {
+      "brand": "御延公馆·江浙菜(博荟广场店)",
+      "address": "中山南一路788号博荟广场ONEEAST2层",
+      "distance": "11m"
+    },
+    {
+      "brand": "成都你六姐牛肉冒菜(博荟广场ONE EAST店)",
+      "address": "龙华东路325号博荟广场ONE EASTB2层",
+      "distance": "11m"
+    },
+    {
+      "brand": "红唇麻辣拌(博荟店)",
+      "address": "五里桥街道中山南一路788号博荟广场B2-12室",
+      "distance": "11m"
+    },
+    {
+      "brand": "SpreadTheBagel(博荟广场店)",
+      "address": "中山南一路788号博荟广场L1层L1-17-B室",
+      "distance": "11m"
+    },
+    {
+      "brand": "爷爷不泡茶NOYEYENOTEA(上海博荟广场店)",
+      "address": "中山南一路788号博荟广场地下一层KB1号11",
+      "distance": "12m"
+    },
+    {
+      "brand": "7分甜(上海黄浦博荟广场店)",
+      "address": "中山南一路788号博荟广场地下二层B2-12号铺位",
+      "distance": "12m"
+    },
+    {
+      "brand": "皇浦荟(博荟广场ONE EAST店)",
+      "address": "中山南一路788号博荟广场L02-09AB",
+      "distance": "9m"
+    },
+    {
+      "brand": "牛腩之旅·牛腩牛杂煲(博荟店)",
+      "address": "中山南一路788号博荟广场ONE EASTBB2-29-B",
+      "distance": "11m"
+    },
+    {
+      "brand": "赵财财·肠粉·煲仔饭(博荟广场店)",
+      "address": "中山南一路788号博荟广场ONE EASTB1-12",
+      "distance": "11m"
+    },
+    {
+      "brand": "秦香岚·黔贵江湖菜·凯里酸汤鱼(博荟广场店)",
+      "address": "中山南一路788号博荟广场ONE EASTB1-A+B",
+      "distance": "11m"
+    },
+    {
+      "brand": "御延公馆·江浙菜(博荟广场店)",
+      "address": "中山南一路788号博荟广场ONEEAST2层",
+      "distance": "11m"
+    },
+    {
+      "brand": "成都你六姐牛肉冒菜(博荟广场ONE EAST店)",
+      "address": "龙华东路325号博荟广场ONE EASTB2层",
+      "distance": "11m"
+    },
+    {
+      "brand": "红唇麻辣拌(博荟店)",
+      "address": "五里桥街道中山南一路788号博荟广场B2-12室",
+      "distance": "11m"
+    },
+    {
+      "brand": "SpreadTheBagel(博荟广场店)",
+      "address": "中山南一路788号博荟广场L1层L1-17-B室",
+      "distance": "11m"
+    },
+    {
+      "brand": "爷爷不泡茶NOYEYENOTEA(上海博荟广场店)",
+      "address": "中山南一路788号博荟广场地下一层KB1号11",
+      "distance": "12m"
+    },
+    {
+      "brand": "7分甜(上海黄浦博荟广场店)",
+      "address": "中山南一路788号博荟广场地下二层B2-12号铺位",
+      "distance": "12m"
+    },
+    {
+      "brand": "皇浦荟(博荟广场ONE EAST店)",
+      "address": "中山南一路788号博荟广场L02-09AB",
+      "distance": "9m"
+    },
+    {
+      "brand": "牛腩之旅·牛腩牛杂煲(博荟店)",
+      "address": "中山南一路788号博荟广场ONE EASTBB2-29-B",
+      "distance": "11m"
+    },
+    {
+      "brand": "赵财财·肠粉·煲仔饭(博荟广场店)",
+      "address": "中山南一路788号博荟广场ONE EASTB1-12",
+      "distance": "11m"
+    },
+    {
+      "brand": "秦香岚·黔贵江湖菜·凯里酸汤鱼(博荟广场店)",
+      "address": "中山南一路788号博荟广场ONE EASTB1-A+B",
+      "distance": "11m"
+    },
+    {
+      "brand": "御延公馆·江浙菜(博荟广场店)",
+      "address": "中山南一路788号博荟广场ONEEAST2层",
+      "distance": "11m"
+    },
+    {
+      "brand": "成都你六姐牛肉冒菜(博荟广场ONE EAST店)",
+      "address": "龙华东路325号博荟广场ONE EASTB2层",
+      "distance": "11m"
+    },
+    {
+      "brand": "红唇麻辣拌(博荟店)",
+      "address": "五里桥街道中山南一路788号博荟广场B2-12室",
+      "distance": "11m"
+    },
+    {
+      "brand": "SpreadTheBagel(博荟广场店)",
+      "address": "中山南一路788号博荟广场L1层L1-17-B室",
+      "distance": "11m"
+    },
+    {
+      "brand": "爷爷不泡茶NOYEYENOTEA(上海博荟广场店)",
+      "address": "中山南一路788号博荟广场地下一层KB1号11",
+      "distance": "12m"
+    },
+    {
+      "brand": "7分甜(上海黄浦博荟广场店)",
+      "address": "中山南一路788号博荟广场地下二层B2-12号铺位",
+      "distance": "12m"
+    },
+    {
+      "brand": "皇浦荟(博荟广场ONE EAST店)",
+      "address": "中山南一路788号博荟广场L02-09AB",
+      "distance": "9m"
+    },
+    {
+      "brand": "牛腩之旅·牛腩牛杂煲(博荟店)",
+      "address": "中山南一路788号博荟广场ONE EASTBB2-29-B",
+      "distance": "11m"
+    },
+    {
+      "brand": "赵财财·肠粉·煲仔饭(博荟广场店)",
+      "address": "中山南一路788号博荟广场ONE EASTB1-12",
+      "distance": "11m"
+    },
+    {
+      "brand": "秦香岚·黔贵江湖菜·凯里酸汤鱼(博荟广场店)",
+      "address": "中山南一路788号博荟广场ONE EASTB1-A+B",
+      "distance": "11m"
+    },
+    {
+      "brand": "御延公馆·江浙菜(博荟广场店)",
+      "address": "中山南一路788号博荟广场ONEEAST2层",
+      "distance": "11m"
+    },
+    {
+      "brand": "成都你六姐牛肉冒菜(博荟广场ONE EAST店)",
+      "address": "龙华东路325号博荟广场ONE EASTB2层",
+      "distance": "11m"
+    },
+    {
+      "brand": "红唇麻辣拌(博荟店)",
+      "address": "五里桥街道中山南一路788号博荟广场B2-12室",
+      "distance": "11m"
+    },
+    {
+      "brand": "SpreadTheBagel(博荟广场店)",
+      "address": "中山南一路788号博荟广场L1层L1-17-B室",
+      "distance": "11m"
+    },
+    {
+      "brand": "爷爷不泡茶NOYEYENOTEA(上海博荟广场店)",
+      "address": "中山南一路788号博荟广场地下一层KB1号11",
+      "distance": "12m"
+    },
+    {
+      "brand": "7分甜(上海黄浦博荟广场店)",
+      "address": "中山南一路788号博荟广场地下二层B2-12号铺位",
+      "distance": "12m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海歌斐中心",
+      "open_date": "2016-01-01",
+      "area": "2.8万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海汇暻生活广场",
+      "open_date": "2012-01-01",
+      "area": "3.5万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海黄浦绿地缤纷城",
+      "open_date": "2018-06-27",
+      "area": "4.9万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海LuOne凯德晶萃广场",
+      "open_date": "2018-09-22",
+      "area": "13万㎡",
+      "jun_daily_avg": "3.1万人次",
+      "weekday_avg": "3.1万人次",
+      "holiday_avg": "3.3万人次"
+    },
+    {
+      "name": "上海日月光中心",
+      "open_date": "2010-06-18",
+      "area": "14万㎡",
+      "jun_daily_avg": "11.1万人次",
+      "weekday_avg": "11.3万人次",
+      "holiday_avg": "10.4万人次"
+    },
+    {
+      "name": "上海世博天地",
+      "open_date": "2024-06-21",
+      "area": "3万㎡",
+      "jun_daily_avg": "2.3万人次",
+      "weekday_avg": "2.1万人次",
+      "holiday_avg": "3万人次"
+    },
+    {
+      "name": "上海世博源",
+      "open_date": "2014-04-23",
+      "area": "29万㎡",
+      "jun_daily_avg": "7.9万人次",
+      "weekday_avg": "6.7万人次",
+      "holiday_avg": "11.3万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 95.0,
+      "within_1yr_pct": 21.1,
+      "1_3yr_pct": 36.8,
+      "over_3yr_pct": 42.1
+    },
+    {
+      "type": "购物",
+      "count": 63.0,
+      "within_1yr_pct": 39.7,
+      "1_3yr_pct": 28.6,
+      "over_3yr_pct": 31.7
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 9.0,
+      "within_1yr_pct": 44.4,
+      "1_3yr_pct": 11.1,
+      "over_3yr_pct": 44.4
+    },
+    {
+      "type": "教育培训",
+      "count": 6.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 33.3
+    },
+    {
+      "type": "酒店住宿",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "生活服务",
+      "count": 35.0,
+      "within_1yr_pct": 25.7,
+      "1_3yr_pct": 42.9,
+      "over_3yr_pct": 31.4
+    },
+    {
+      "type": "运动健身",
+      "count": 6.0,
+      "within_1yr_pct": 16.7,
+      "1_3yr_pct": 16.7,
+      "over_3yr_pct": 66.7
+    },
+    {
+      "type": "车辆服务",
+      "count": 8.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 62.5,
+      "over_3yr_pct": 37.5
+    }
+  ]
+}

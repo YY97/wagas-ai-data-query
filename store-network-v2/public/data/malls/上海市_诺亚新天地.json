@@ -1,0 +1,168 @@
+{
+  "name": "诺亚新天地",
+  "city": "上海市",
+  "address": "上海市宝山区吴淞街道牛约堡·手作牛肉汉堡(诺亚新天地店)诺亚新天地",
+  "lat": 31.381276,
+  "lng": 121.494641,
+  "overview": {
+    "score": 84.7,
+    "score_rank": "市内前30%",
+    "population_score": 96.3,
+    "area_score": 72.6,
+    "consumption_score": 66.2,
+    "industry_score": 84.7,
+    "annual_sales": "诺亚新天地位于宝山核心城区牡丹江路318号，集零售、餐饮、娱乐、教育于一体，打造多方位的综合性商业平台",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 4.5,
+    "open_date": "2014-03-18",
+    "operator": "上海淞银投资管理有限公司",
+    "brand": "",
+    "type": "综合型",
+    "floors": "L1-L4"
+  },
+  "traffic": {
+    "annual_daily": 5507.0,
+    "annual_daily_unit": "人次",
+    "annual_daily_rank": "市内第347",
+    "jun_total": 19.0,
+    "jun_total_rank": "市内商场第391名",
+    "jun_daily_avg": 6327.0,
+    "jun_daily_unit": "人次",
+    "jun_daily_rank": "市内商场第391名",
+    "weekday_avg": 5893.0,
+    "weekday_unit": "人次",
+    "weekday_rank": "市内商场第396名",
+    "holiday_avg": 7516.0,
+    "holiday_unit": "人次",
+    "holiday_rank": "市内商场第377名"
+  },
+  "population": {
+    "residential": {
+      "500m": 3.2,
+      "1_5km": 12.8,
+      "3km": 32.5
+    },
+    "office": {
+      "500m": 1.4,
+      "1_5km": 6.4,
+      "3km": 17.1
+    },
+    "permanent": {
+      "500m": 3.4,
+      "1_5km": 13.3,
+      "3km": 33.2
+    }
+  },
+  "business": {
+    "competitors": 3.0,
+    "food": 164.0,
+    "shopping": 103.0,
+    "leisure": 14.0,
+    "education": 17.0,
+    "hotel": 32.0,
+    "services": 94.0,
+    "fitness": 5.0,
+    "auto": 13.0,
+    "total_stores": 54.0,
+    "old_store_3yr_pct": 69.0
+  },
+  "nearby_poi": {
+    "business": 3.0,
+    "community": 151.0,
+    "office": 22.0,
+    "school": 32.0,
+    "hospital": 22.0,
+    "transport": 12.0,
+    "scenic": 72.0
+  },
+  "demographics": {
+    "male_pct": 48.6,
+    "female_pct": null,
+    "education": {
+      "小学": 11.4,
+      "初中": 21.1,
+      "高中": 12.2,
+      "大专": 8.0,
+      "本科": 43.7,
+      "硕士": 2.6,
+      "博士": 1.0
+    },
+    "has_children_pct": 63.5,
+    "no_children_pct": 36.5
+  },
+  "scraped_at": "2026-08-02T03:13:57.370Z",
+  "nearby_restaurants": [
+    {
+      "brand": "乡村基·新鲜食材现炒餐厅(百联吴淞店)",
+      "address": "水产路1234号世纪联华(吴淞店)",
+      "distance": "497m"
+    },
+    {
+      "brand": "稻香世家智选餐厅(百联吴淞生活中心店)",
+      "address": "水产路1234号吴淞百联一楼",
+      "distance": "498m"
+    },
+    {
+      "brand": "多乐之日(吴淞店)",
+      "address": "水产路1234号1幢一层B区G70-F01-01-027铺位",
+      "distance": "499m"
+    },
+    {
+      "brand": "马记永·兰州牛肉面(吴淞世纪联华店)",
+      "address": "吴淞街道水产路1234号百联吴淞生活中心第1层G70-F01-01-012室",
+      "distance": "499m"
+    }
+  ],
+  "nearby_malls": [],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 14.0,
+      "within_1yr_pct": 7.1,
+      "1_3yr_pct": 7.1,
+      "over_3yr_pct": 85.7
+    },
+    {
+      "type": "购物",
+      "count": 13.0,
+      "within_1yr_pct": 15.4,
+      "1_3yr_pct": 7.7,
+      "over_3yr_pct": 76.9
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 6.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 33.3
+    },
+    {
+      "type": "教育培训",
+      "count": 8.0,
+      "within_1yr_pct": 12.5,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 62.5
+    },
+    {
+      "type": "生活服务",
+      "count": 6.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 66.7
+    },
+    {
+      "type": "运动健身",
+      "count": 4.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 3.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 66.7
+    }
+  ]
+}

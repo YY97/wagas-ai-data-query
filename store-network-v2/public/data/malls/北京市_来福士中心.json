@@ -1,0 +1,438 @@
+{
+  "name": "来福士中心",
+  "city": "北京市",
+  "address": "北京市东城区东直门南大街1-1",
+  "lat": 39.940096,
+  "lng": 116.432384,
+  "overview": {
+    "score": 94.9,
+    "score_rank": "市内前30%",
+    "population_score": 93.6,
+    "area_score": 92.8,
+    "consumption_score": 84.9,
+    "industry_score": 94.9,
+    "annual_sales": "5",
+    "annual_sales_unit": "亿元",
+    "area_size_sqm": 4.0,
+    "open_date": "2009-06-05",
+    "operator": "凯德置地（中国）投资有限公司",
+    "brand": "凯德",
+    "type": "综合型",
+    "floors": "B2-L5"
+  },
+  "traffic": {
+    "annual_daily": 2.99,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第70",
+    "jun_total": 134.8,
+    "jun_total_rank": "市内商场第65名",
+    "jun_daily_avg": 4.5,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第65名",
+    "weekday_avg": 4.4,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第53名",
+    "holiday_avg": 4.6,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第80名"
+  },
+  "population": {
+    "residential": {
+      "500m": 2.7,
+      "1_5km": 20.7,
+      "3km": 75.0
+    },
+    "office": {
+      "500m": 3.7,
+      "1_5km": 17.0,
+      "3km": 68.3
+    },
+    "permanent": {
+      "500m": 3.4,
+      "1_5km": 21.2,
+      "3km": 80.6
+    }
+  },
+  "business": {
+    "competitors": 12.0,
+    "food": 274.0,
+    "shopping": 187.0,
+    "leisure": 25.0,
+    "education": 41.0,
+    "hotel": 12.0,
+    "services": 234.0,
+    "fitness": 31.0,
+    "auto": 21.0,
+    "total_stores": 151.0,
+    "old_store_3yr_pct": 60.0
+  },
+  "nearby_poi": {
+    "business": 4.0,
+    "community": 479.0,
+    "office": 103.0,
+    "school": 48.0,
+    "hospital": 149.0,
+    "transport": 6.0,
+    "scenic": 531.0
+  },
+  "demographics": {
+    "male_pct": 45.9,
+    "female_pct": null,
+    "education": {
+      "小学": 10.0,
+      "初中": 17.0,
+      "高中": 10.8,
+      "大专": 6.2,
+      "本科": 47.1,
+      "硕士": 7.0,
+      "博士": 1.9
+    },
+    "has_children_pct": 56.7,
+    "no_children_pct": 43.3
+  },
+  "scraped_at": "2026-08-01T04:52:12.618Z",
+  "nearby_restaurants": [
+    {
+      "brand": "Salud撒露欧洲冻酸奶(北京东直门来福士店)",
+      "address": "东直门南大街1来福士B1层(东直门地铁站D西南口旁)",
+      "distance": "3m"
+    },
+    {
+      "brand": "Peet's皮爷咖啡(北京来福士中心店)",
+      "address": "北新桥街道东直门南大街1号北京来福士中心办公楼01层02号",
+      "distance": "3m"
+    },
+    {
+      "brand": "轻遇现烤三明治(来福士店)",
+      "address": "来福士(东直门地铁站D西南口旁)",
+      "distance": "6m"
+    },
+    {
+      "brand": "沙胆彪炭炉牛杂煲(北京来福士中心店)",
+      "address": "北新桥街道东直门南大街1-1号来福士中心三层03-01C",
+      "distance": "6m"
+    },
+    {
+      "brand": "隆延茶铺·正统奶茶(东直门来福士店)",
+      "address": "东直门南大街1-1来福士B1层B1-K22K25",
+      "distance": "6m"
+    },
+    {
+      "brand": "THE WOODS餐厅(来福士店)",
+      "address": "东直门南大街1号02层01C号来福士2层",
+      "distance": "7m"
+    },
+    {
+      "brand": "布歌东京(来福士店)",
+      "address": "北京城区东直门南大街1号B1层02A号",
+      "distance": "8m"
+    },
+    {
+      "brand": "黑马小灶锅包肉(来福士店)",
+      "address": "北京城区来福士B1-14B(东直门地铁站D西南口步行50米)",
+      "distance": "9m"
+    },
+    {
+      "brand": "富马爷巧克力派(来福士店)",
+      "address": "北京城区东直门南大街1-1北京来福士中心B1层B1-K03",
+      "distance": "9m"
+    },
+    {
+      "brand": "炙香铁板厨房(来福士店)",
+      "address": "东直门南大街1来福士B1层(东直门地铁站D西南口旁)",
+      "distance": "9m"
+    },
+    {
+      "brand": "Salud撒露欧洲冻酸奶(北京东直门来福士店)",
+      "address": "东直门南大街1来福士B1层(东直门地铁站D西南口旁)",
+      "distance": "3m"
+    },
+    {
+      "brand": "Peet's皮爷咖啡(北京来福士中心店)",
+      "address": "北新桥街道东直门南大街1号北京来福士中心办公楼01层02号",
+      "distance": "3m"
+    },
+    {
+      "brand": "轻遇现烤三明治(来福士店)",
+      "address": "来福士(东直门地铁站D西南口旁)",
+      "distance": "6m"
+    },
+    {
+      "brand": "沙胆彪炭炉牛杂煲(北京来福士中心店)",
+      "address": "北新桥街道东直门南大街1-1号来福士中心三层03-01C",
+      "distance": "6m"
+    },
+    {
+      "brand": "隆延茶铺·正统奶茶(东直门来福士店)",
+      "address": "东直门南大街1-1来福士B1层B1-K22K25",
+      "distance": "6m"
+    },
+    {
+      "brand": "THE WOODS餐厅(来福士店)",
+      "address": "东直门南大街1号02层01C号来福士2层",
+      "distance": "7m"
+    },
+    {
+      "brand": "布歌东京(来福士店)",
+      "address": "北京城区东直门南大街1号B1层02A号",
+      "distance": "8m"
+    },
+    {
+      "brand": "黑马小灶锅包肉(来福士店)",
+      "address": "北京城区来福士B1-14B(东直门地铁站D西南口步行50米)",
+      "distance": "9m"
+    },
+    {
+      "brand": "富马爷巧克力派(来福士店)",
+      "address": "北京城区东直门南大街1-1北京来福士中心B1层B1-K03",
+      "distance": "9m"
+    },
+    {
+      "brand": "炙香铁板厨房(来福士店)",
+      "address": "东直门南大街1来福士B1层(东直门地铁站D西南口旁)",
+      "distance": "9m"
+    },
+    {
+      "brand": "Salud撒露欧洲冻酸奶(北京东直门来福士店)",
+      "address": "东直门南大街1来福士B1层(东直门地铁站D西南口旁)",
+      "distance": "3m"
+    },
+    {
+      "brand": "Peet's皮爷咖啡(北京来福士中心店)",
+      "address": "北新桥街道东直门南大街1号北京来福士中心办公楼01层02号",
+      "distance": "3m"
+    },
+    {
+      "brand": "轻遇现烤三明治(来福士店)",
+      "address": "来福士(东直门地铁站D西南口旁)",
+      "distance": "6m"
+    },
+    {
+      "brand": "沙胆彪炭炉牛杂煲(北京来福士中心店)",
+      "address": "北新桥街道东直门南大街1-1号来福士中心三层03-01C",
+      "distance": "6m"
+    },
+    {
+      "brand": "隆延茶铺·正统奶茶(东直门来福士店)",
+      "address": "东直门南大街1-1来福士B1层B1-K22K25",
+      "distance": "6m"
+    },
+    {
+      "brand": "THE WOODS餐厅(来福士店)",
+      "address": "东直门南大街1号02层01C号来福士2层",
+      "distance": "7m"
+    },
+    {
+      "brand": "布歌东京(来福士店)",
+      "address": "北京城区东直门南大街1号B1层02A号",
+      "distance": "8m"
+    },
+    {
+      "brand": "黑马小灶锅包肉(来福士店)",
+      "address": "北京城区来福士B1-14B(东直门地铁站D西南口步行50米)",
+      "distance": "9m"
+    },
+    {
+      "brand": "富马爷巧克力派(来福士店)",
+      "address": "北京城区东直门南大街1-1北京来福士中心B1层B1-K03",
+      "distance": "9m"
+    },
+    {
+      "brand": "炙香铁板厨房(来福士店)",
+      "address": "东直门南大街1来福士B1层(东直门地铁站D西南口旁)",
+      "distance": "9m"
+    },
+    {
+      "brand": "Salud撒露欧洲冻酸奶(北京东直门来福士店)",
+      "address": "东直门南大街1来福士B1层(东直门地铁站D西南口旁)",
+      "distance": "3m"
+    },
+    {
+      "brand": "Peet's皮爷咖啡(北京来福士中心店)",
+      "address": "北新桥街道东直门南大街1号北京来福士中心办公楼01层02号",
+      "distance": "3m"
+    },
+    {
+      "brand": "轻遇现烤三明治(来福士店)",
+      "address": "来福士(东直门地铁站D西南口旁)",
+      "distance": "6m"
+    },
+    {
+      "brand": "沙胆彪炭炉牛杂煲(北京来福士中心店)",
+      "address": "北新桥街道东直门南大街1-1号来福士中心三层03-01C",
+      "distance": "6m"
+    },
+    {
+      "brand": "隆延茶铺·正统奶茶(东直门来福士店)",
+      "address": "东直门南大街1-1来福士B1层B1-K22K25",
+      "distance": "6m"
+    },
+    {
+      "brand": "THE WOODS餐厅(来福士店)",
+      "address": "东直门南大街1号02层01C号来福士2层",
+      "distance": "7m"
+    },
+    {
+      "brand": "布歌东京(来福士店)",
+      "address": "北京城区东直门南大街1号B1层02A号",
+      "distance": "8m"
+    },
+    {
+      "brand": "黑马小灶锅包肉(来福士店)",
+      "address": "北京城区来福士B1-14B(东直门地铁站D西南口步行50米)",
+      "distance": "9m"
+    },
+    {
+      "brand": "富马爷巧克力派(来福士店)",
+      "address": "北京城区东直门南大街1-1北京来福士中心B1层B1-K03",
+      "distance": "9m"
+    },
+    {
+      "brand": "炙香铁板厨房(来福士店)",
+      "address": "东直门南大街1来福士B1层(东直门地铁站D西南口旁)",
+      "distance": "9m"
+    },
+    {
+      "brand": "Salud撒露欧洲冻酸奶(北京东直门来福士店)",
+      "address": "东直门南大街1来福士B1层(东直门地铁站D西南口旁)",
+      "distance": "3m"
+    },
+    {
+      "brand": "Peet's皮爷咖啡(北京来福士中心店)",
+      "address": "北新桥街道东直门南大街1号北京来福士中心办公楼01层02号",
+      "distance": "3m"
+    },
+    {
+      "brand": "轻遇现烤三明治(来福士店)",
+      "address": "来福士(东直门地铁站D西南口旁)",
+      "distance": "6m"
+    },
+    {
+      "brand": "沙胆彪炭炉牛杂煲(北京来福士中心店)",
+      "address": "北新桥街道东直门南大街1-1号来福士中心三层03-01C",
+      "distance": "6m"
+    },
+    {
+      "brand": "隆延茶铺·正统奶茶(东直门来福士店)",
+      "address": "东直门南大街1-1来福士B1层B1-K22K25",
+      "distance": "6m"
+    },
+    {
+      "brand": "THE WOODS餐厅(来福士店)",
+      "address": "东直门南大街1号02层01C号来福士2层",
+      "distance": "7m"
+    },
+    {
+      "brand": "布歌东京(来福士店)",
+      "address": "北京城区东直门南大街1号B1层02A号",
+      "distance": "8m"
+    },
+    {
+      "brand": "黑马小灶锅包肉(来福士店)",
+      "address": "北京城区来福士B1-14B(东直门地铁站D西南口步行50米)",
+      "distance": "9m"
+    },
+    {
+      "brand": "富马爷巧克力派(来福士店)",
+      "address": "北京城区东直门南大街1-1北京来福士中心B1层B1-K03",
+      "distance": "9m"
+    },
+    {
+      "brand": "炙香铁板厨房(来福士店)",
+      "address": "东直门南大街1来福士B1层(东直门地铁站D西南口旁)",
+      "distance": "9m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "北京东方银座mall",
+      "open_date": "2007-01-27",
+      "area": "3万㎡",
+      "jun_daily_avg": "2.8万人次",
+      "weekday_avg": "2.8万人次",
+      "holiday_avg": "2.9万人次"
+    },
+    {
+      "name": "北京三里屯永利国际购物中心",
+      "open_date": "2011-01-01",
+      "area": "3.3万㎡",
+      "jun_daily_avg": "1.1万人次",
+      "weekday_avg": "1.1万人次",
+      "holiday_avg": "1.1万人次"
+    },
+    {
+      "name": "中业生活大厦",
+      "open_date": "-",
+      "area": "-",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "北京世茂广场(工三店)",
+      "open_date": "2011-12-23",
+      "area": "6.6万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 57.0,
+      "within_1yr_pct": 15.8,
+      "1_3yr_pct": 31.6,
+      "over_3yr_pct": 52.6
+    },
+    {
+      "type": "购物",
+      "count": 65.0,
+      "within_1yr_pct": 15.4,
+      "1_3yr_pct": 21.5,
+      "over_3yr_pct": 63.1
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 4.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 75.0
+    },
+    {
+      "type": "教育培训",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    },
+    {
+      "type": "生活服务",
+      "count": 15.0,
+      "within_1yr_pct": 6.7,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 60.0
+    },
+    {
+      "type": "运动健身",
+      "count": 3.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 66.7
+    },
+    {
+      "type": "车辆服务",
+      "count": 5.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 20.0,
+      "over_3yr_pct": 60.0
+    }
+  ]
+}

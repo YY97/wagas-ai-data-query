@@ -1,0 +1,479 @@
+{
+  "name": "圆融星座",
+  "city": "苏州市",
+  "address": "江苏省苏州市吴中区钟园路b1层",
+  "lat": 31.317923,
+  "lng": 120.714959,
+  "overview": {
+    "score": 83.5,
+    "score_rank": "市内前30%",
+    "population_score": 67.8,
+    "area_score": 83.4,
+    "consumption_score": 85.6,
+    "industry_score": 83.6,
+    "annual_sales": "苏州圆融星座是由苏州圆融集团开发的综合性购物中心，位于江苏苏州工业园区，是一个集高端商业、精品湖景公寓、商务写字楼于一体的综合物业。项目以立体景观为概念，打造了具有超现代感的商业景观和生态建筑，提供了自然生态体验生活方式，是国内首座国家绿色二星设计标识认证的城市综合体项目",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 6.0,
+    "open_date": "2013-09-28",
+    "operator": "苏州圆融发展集团有限公司",
+    "brand": "",
+    "type": "综合型",
+    "floors": "B1-L5"
+  },
+  "traffic": {
+    "annual_daily": 6384.0,
+    "annual_daily_unit": "人次",
+    "annual_daily_rank": "市内第164",
+    "jun_total": 14.9,
+    "jun_total_rank": "市内商场第217名",
+    "jun_daily_avg": 4960.0,
+    "jun_daily_unit": "人次",
+    "jun_daily_rank": "市内商场第217名",
+    "weekday_avg": 5490.0,
+    "weekday_unit": "人次",
+    "weekday_rank": "市内商场第202名",
+    "holiday_avg": 3502.0,
+    "holiday_unit": "人次",
+    "holiday_rank": "市内商场第252名"
+  },
+  "population": {
+    "residential": {
+      "500m": 2700.0,
+      "1_5km": 4.4,
+      "3km": 18.4
+    },
+    "office": {
+      "500m": 1.1,
+      "1_5km": 5.6,
+      "3km": 13.6
+    },
+    "permanent": {
+      "500m": 6600.0,
+      "1_5km": 5.7,
+      "3km": 20.4
+    }
+  },
+  "business": {
+    "competitors": 6.0,
+    "food": 150.0,
+    "shopping": 253.0,
+    "leisure": 26.0,
+    "education": 23.0,
+    "hotel": 105.0,
+    "services": 210.0,
+    "fitness": 29.0,
+    "auto": 25.0,
+    "total_stores": 33.0,
+    "old_store_3yr_pct": 70.0
+  },
+  "nearby_poi": {
+    "business": 12.0,
+    "community": 112.0,
+    "office": 33.0,
+    "school": 9.0,
+    "hospital": 40.0,
+    "transport": 13.0,
+    "scenic": 176.0
+  },
+  "demographics": {
+    "male_pct": 49.5,
+    "female_pct": null,
+    "education": {
+      "小学": 9.4,
+      "初中": 17.0,
+      "高中": 10.6,
+      "大专": 8.8,
+      "本科": 46.7,
+      "硕士": 6.6,
+      "博士": 0.9
+    },
+    "has_children_pct": 58.0,
+    "no_children_pct": 42.0
+  },
+  "scraped_at": "2026-08-02T10:54:54.563Z",
+  "nearby_restaurants": [
+    {
+      "brand": "星巴克(苏州圆融星座店)",
+      "address": "苏州市工业园区旺墩路269号圆融星座广场",
+      "distance": "31m"
+    },
+    {
+      "brand": "小龙坎火锅(圆融星座店)",
+      "address": "旺墩路269号圆融购物中心4层",
+      "distance": "33m"
+    },
+    {
+      "brand": "麦当劳甜品站(圆融购物中心店)",
+      "address": "旺墩路269号圆融购物中心3F层3120",
+      "distance": "39m"
+    },
+    {
+      "brand": "Tims咖啡(圆融星座店)(暂停营业)",
+      "address": "是吴中工业园区旺墩路269号一层1290-1300号",
+      "distance": "59m"
+    },
+    {
+      "brand": "东北一绝(圆融购物中心店)(暂停营业)",
+      "address": "旺墩路269号圆融星座F3层3190商铺",
+      "distance": "93m"
+    },
+    {
+      "brand": "Beast&Butterflies Restaurant野地花园餐厅",
+      "address": "苏州市工业园区钟园路788号丰隆城市生活广场4幢M SOCIAL酒店25楼",
+      "distance": "133m"
+    },
+    {
+      "brand": "喜粤8号(丰隆汇店)",
+      "address": "钟园路788号丰隆城市广场4幢千琇悦酒店25楼中餐厅",
+      "distance": "141m"
+    },
+    {
+      "brand": "BeanStar比星咖啡(圆融星座写字楼店)",
+      "address": "旺墩路242号",
+      "distance": "148m"
+    },
+    {
+      "brand": "T4外卖柜",
+      "address": "丰隆城市中心(苏州当代美术馆地铁站2号口步行310米)",
+      "distance": "167m"
+    },
+    {
+      "brand": "臻兴荟苏式面·姑苏宴(当代美术馆店)",
+      "address": "苏州工业园区思安街1号摩天轮商业广场19幢102室负一层114-115号",
+      "distance": "173m"
+    },
+    {
+      "brand": "星巴克(苏州圆融星座店)",
+      "address": "苏州市工业园区旺墩路269号圆融星座广场",
+      "distance": "31m"
+    },
+    {
+      "brand": "小龙坎火锅(圆融星座店)",
+      "address": "旺墩路269号圆融购物中心4层",
+      "distance": "33m"
+    },
+    {
+      "brand": "麦当劳甜品站(圆融购物中心店)",
+      "address": "旺墩路269号圆融购物中心3F层3120",
+      "distance": "39m"
+    },
+    {
+      "brand": "Tims咖啡(圆融星座店)(暂停营业)",
+      "address": "是吴中工业园区旺墩路269号一层1290-1300号",
+      "distance": "59m"
+    },
+    {
+      "brand": "东北一绝(圆融购物中心店)(暂停营业)",
+      "address": "旺墩路269号圆融星座F3层3190商铺",
+      "distance": "93m"
+    },
+    {
+      "brand": "Beast&Butterflies Restaurant野地花园餐厅",
+      "address": "苏州市工业园区钟园路788号丰隆城市生活广场4幢M SOCIAL酒店25楼",
+      "distance": "133m"
+    },
+    {
+      "brand": "喜粤8号(丰隆汇店)",
+      "address": "钟园路788号丰隆城市广场4幢千琇悦酒店25楼中餐厅",
+      "distance": "141m"
+    },
+    {
+      "brand": "BeanStar比星咖啡(圆融星座写字楼店)",
+      "address": "旺墩路242号",
+      "distance": "148m"
+    },
+    {
+      "brand": "T4外卖柜",
+      "address": "丰隆城市中心(苏州当代美术馆地铁站2号口步行310米)",
+      "distance": "167m"
+    },
+    {
+      "brand": "臻兴荟苏式面·姑苏宴(当代美术馆店)",
+      "address": "苏州工业园区思安街1号摩天轮商业广场19幢102室负一层114-115号",
+      "distance": "173m"
+    },
+    {
+      "brand": "星巴克(苏州圆融星座店)",
+      "address": "苏州市工业园区旺墩路269号圆融星座广场",
+      "distance": "31m"
+    },
+    {
+      "brand": "小龙坎火锅(圆融星座店)",
+      "address": "旺墩路269号圆融购物中心4层",
+      "distance": "33m"
+    },
+    {
+      "brand": "麦当劳甜品站(圆融购物中心店)",
+      "address": "旺墩路269号圆融购物中心3F层3120",
+      "distance": "39m"
+    },
+    {
+      "brand": "Tims咖啡(圆融星座店)(暂停营业)",
+      "address": "是吴中工业园区旺墩路269号一层1290-1300号",
+      "distance": "59m"
+    },
+    {
+      "brand": "东北一绝(圆融购物中心店)(暂停营业)",
+      "address": "旺墩路269号圆融星座F3层3190商铺",
+      "distance": "93m"
+    },
+    {
+      "brand": "Beast&Butterflies Restaurant野地花园餐厅",
+      "address": "苏州市工业园区钟园路788号丰隆城市生活广场4幢M SOCIAL酒店25楼",
+      "distance": "133m"
+    },
+    {
+      "brand": "喜粤8号(丰隆汇店)",
+      "address": "钟园路788号丰隆城市广场4幢千琇悦酒店25楼中餐厅",
+      "distance": "141m"
+    },
+    {
+      "brand": "BeanStar比星咖啡(圆融星座写字楼店)",
+      "address": "旺墩路242号",
+      "distance": "148m"
+    },
+    {
+      "brand": "T4外卖柜",
+      "address": "丰隆城市中心(苏州当代美术馆地铁站2号口步行310米)",
+      "distance": "167m"
+    },
+    {
+      "brand": "臻兴荟苏式面·姑苏宴(当代美术馆店)",
+      "address": "苏州工业园区思安街1号摩天轮商业广场19幢102室负一层114-115号",
+      "distance": "173m"
+    },
+    {
+      "brand": "星巴克(苏州圆融星座店)",
+      "address": "苏州市工业园区旺墩路269号圆融星座广场",
+      "distance": "31m"
+    },
+    {
+      "brand": "小龙坎火锅(圆融星座店)",
+      "address": "旺墩路269号圆融购物中心4层",
+      "distance": "33m"
+    },
+    {
+      "brand": "麦当劳甜品站(圆融购物中心店)",
+      "address": "旺墩路269号圆融购物中心3F层3120",
+      "distance": "39m"
+    },
+    {
+      "brand": "Tims咖啡(圆融星座店)(暂停营业)",
+      "address": "是吴中工业园区旺墩路269号一层1290-1300号",
+      "distance": "59m"
+    },
+    {
+      "brand": "东北一绝(圆融购物中心店)(暂停营业)",
+      "address": "旺墩路269号圆融星座F3层3190商铺",
+      "distance": "93m"
+    },
+    {
+      "brand": "Beast&Butterflies Restaurant野地花园餐厅",
+      "address": "苏州市工业园区钟园路788号丰隆城市生活广场4幢M SOCIAL酒店25楼",
+      "distance": "133m"
+    },
+    {
+      "brand": "喜粤8号(丰隆汇店)",
+      "address": "钟园路788号丰隆城市广场4幢千琇悦酒店25楼中餐厅",
+      "distance": "141m"
+    },
+    {
+      "brand": "BeanStar比星咖啡(圆融星座写字楼店)",
+      "address": "旺墩路242号",
+      "distance": "148m"
+    },
+    {
+      "brand": "T4外卖柜",
+      "address": "丰隆城市中心(苏州当代美术馆地铁站2号口步行310米)",
+      "distance": "167m"
+    },
+    {
+      "brand": "臻兴荟苏式面·姑苏宴(当代美术馆店)",
+      "address": "苏州工业园区思安街1号摩天轮商业广场19幢102室负一层114-115号",
+      "distance": "173m"
+    },
+    {
+      "brand": "星巴克(苏州圆融星座店)",
+      "address": "苏州市工业园区旺墩路269号圆融星座广场",
+      "distance": "31m"
+    },
+    {
+      "brand": "小龙坎火锅(圆融星座店)",
+      "address": "旺墩路269号圆融购物中心4层",
+      "distance": "33m"
+    },
+    {
+      "brand": "麦当劳甜品站(圆融购物中心店)",
+      "address": "旺墩路269号圆融购物中心3F层3120",
+      "distance": "39m"
+    },
+    {
+      "brand": "Tims咖啡(圆融星座店)(暂停营业)",
+      "address": "是吴中工业园区旺墩路269号一层1290-1300号",
+      "distance": "59m"
+    },
+    {
+      "brand": "东北一绝(圆融购物中心店)(暂停营业)",
+      "address": "旺墩路269号圆融星座F3层3190商铺",
+      "distance": "93m"
+    },
+    {
+      "brand": "Beast&Butterflies Restaurant野地花园餐厅",
+      "address": "苏州市工业园区钟园路788号丰隆城市生活广场4幢M SOCIAL酒店25楼",
+      "distance": "133m"
+    },
+    {
+      "brand": "喜粤8号(丰隆汇店)",
+      "address": "钟园路788号丰隆城市广场4幢千琇悦酒店25楼中餐厅",
+      "distance": "141m"
+    },
+    {
+      "brand": "BeanStar比星咖啡(圆融星座写字楼店)",
+      "address": "旺墩路242号",
+      "distance": "148m"
+    },
+    {
+      "brand": "T4外卖柜",
+      "address": "丰隆城市中心(苏州当代美术馆地铁站2号口步行310米)",
+      "distance": "167m"
+    },
+    {
+      "brand": "臻兴荟苏式面·姑苏宴(当代美术馆店)",
+      "address": "苏州工业园区思安街1号摩天轮商业广场19幢102室负一层114-115号",
+      "distance": "173m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "苏州丰隆汇HLCC mall",
+      "open_date": "2018-06-16",
+      "area": "6万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "苏州久光百货",
+      "open_date": "2009-01-16",
+      "area": "17万㎡",
+      "jun_daily_avg": "2万人次",
+      "weekday_avg": "1.8万人次",
+      "holiday_avg": "2.8万人次"
+    },
+    {
+      "name": "苏州圆融时代广场",
+      "open_date": "2008-09-28",
+      "area": "17万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "苏州星合广场",
+      "open_date": "2014-06-01",
+      "area": "2万㎡",
+      "jun_daily_avg": "1.2万人次",
+      "weekday_avg": "1.2万人次",
+      "holiday_avg": "1.1万人次"
+    },
+    {
+      "name": "苏州诚品生活",
+      "open_date": "2015-11-29",
+      "area": "5.6万㎡",
+      "jun_daily_avg": "1.9万人次",
+      "weekday_avg": "1.4万人次",
+      "holiday_avg": "3.3万人次"
+    },
+    {
+      "name": "苏州新光天地",
+      "open_date": "2015-06-25",
+      "area": "8.8万㎡",
+      "jun_daily_avg": "2.9万人次",
+      "weekday_avg": "2.6万人次",
+      "holiday_avg": "3.7万人次"
+    },
+    {
+      "name": "苏州晋合360度生活广场",
+      "open_date": "2015-10-01",
+      "area": "1.8万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "苏州协鑫广场",
+      "open_date": "2019-10-18",
+      "area": "3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "月光码头",
+      "open_date": "2009-05-01",
+      "area": "-",
+      "jun_daily_avg": "1.4万人次",
+      "weekday_avg": "1万人次",
+      "holiday_avg": "2.3万人次"
+    },
+    {
+      "name": "苏州湖东邻里中心",
+      "open_date": "2004-01-01",
+      "area": "3万㎡",
+      "jun_daily_avg": "1.7万人次",
+      "weekday_avg": "1.6万人次",
+      "holiday_avg": "2.1万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 5.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 20.0,
+      "over_3yr_pct": 80.0
+    },
+    {
+      "type": "购物",
+      "count": 10.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 10.0,
+      "over_3yr_pct": 70.0
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    },
+    {
+      "type": "教育培训",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    },
+    {
+      "type": "生活服务",
+      "count": 11.0,
+      "within_1yr_pct": 27.3,
+      "1_3yr_pct": 9.1,
+      "over_3yr_pct": 63.6
+    },
+    {
+      "type": "运动健身",
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    }
+  ]
+}

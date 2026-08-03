@@ -1,0 +1,201 @@
+{
+  "name": "万科红商业广场",
+  "city": "上海市",
+  "address": "上海市宝山区通河路531-539号",
+  "lat": 31.333964,
+  "lng": 121.445391,
+  "overview": {
+    "score": 93.0,
+    "score_rank": "市内前30%",
+    "population_score": 98.6,
+    "area_score": 73.4,
+    "consumption_score": 70.2,
+    "industry_score": 93.1,
+    "annual_sales": "上海红太阳商业广场位于宝山区张庙镇，通河路和呼玛路的东南角，是一个集购物中心、休闲文化娱乐为一体的商业综合体广场业态齐全，产品多样，能全方位满足人们的购物、休闲、文化娱乐等需求永辉超市、大光明影城、奥乐齐超市等主力店已入驻广场通过对原有老旧商业进行场景升级、业态升级和服务升级，已经实现整体焕新，重新引入众多年轻、时尚新品牌，积极快速响应瞬息万变的市场与消费者此外，地下停车场提供500个停车位，并配备充电站，给开车一族带来巨大便利",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 3.8,
+    "open_date": "2014-09-01",
+    "operator": "上海荷中实业投资有限公司",
+    "brand": "",
+    "type": "综合型",
+    "floors": "B1-L3"
+  },
+  "traffic": {
+    "annual_daily": 1.75,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第157",
+    "jun_total": 61.3,
+    "jun_total_rank": "市内商场第187名",
+    "jun_daily_avg": 2.0,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第187名",
+    "weekday_avg": 1.9,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第186名",
+    "holiday_avg": 2.4,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第185名"
+  },
+  "population": {
+    "residential": {
+      "500m": 3.6,
+      "1_5km": 23.7,
+      "3km": 75.5
+    },
+    "office": {
+      "500m": 1.4,
+      "1_5km": 10.5,
+      "3km": 31.0
+    },
+    "permanent": {
+      "500m": 3.8,
+      "1_5km": 25.0,
+      "3km": 77.0
+    }
+  },
+  "business": {
+    "competitors": 2.0,
+    "food": 164.0,
+    "shopping": 101.0,
+    "leisure": 12.0,
+    "education": 19.0,
+    "hotel": 13.0,
+    "services": 120.0,
+    "fitness": 14.0,
+    "auto": 6.0,
+    "total_stores": 137.0,
+    "old_store_3yr_pct": 45.0
+  },
+  "nearby_poi": {
+    "business": 4.0,
+    "community": 272.0,
+    "office": 31.0,
+    "school": 35.0,
+    "hospital": 30.0,
+    "transport": 13.0,
+    "scenic": 91.0
+  },
+  "demographics": {
+    "male_pct": 49.2,
+    "female_pct": null,
+    "education": {
+      "小学": 11.0,
+      "初中": 21.5,
+      "高中": 12.9,
+      "大专": 8.6,
+      "本科": 42.8,
+      "硕士": 2.4,
+      "博士": 0.8
+    },
+    "has_children_pct": 67.2,
+    "no_children_pct": 32.8
+  },
+  "scraped_at": "2026-08-02T04:30:42.499Z",
+  "nearby_restaurants": [
+    {
+      "brand": "豫东正宗黄牛肉(呼玛路店)",
+      "address": "呼玛路535号呼玛集市场南门E6门面",
+      "distance": "466m"
+    },
+    {
+      "brand": "朱师傅爆鱼店",
+      "address": "呼玛路呼玛二村1号市场内c8号",
+      "distance": "467m"
+    },
+    {
+      "brand": "阿娘家(长江西路店)(暂停营业)",
+      "address": "长江西路1555号",
+      "distance": "478m"
+    },
+    {
+      "brand": "和苑遇见小海鲜小炒夜宵(大华虎城店)",
+      "address": "爱辉路与呼玛路交叉口西北180米",
+      "distance": "491m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海百渠广场",
+      "open_date": "2024-01-01",
+      "area": "3万㎡",
+      "jun_daily_avg": "6.2万人次",
+      "weekday_avg": "5.5万人次",
+      "holiday_avg": "8.2万人次"
+    },
+    {
+      "name": "凯旋丽都广场",
+      "open_date": "2016-10-01",
+      "area": "-",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海宝山云瑞邻里中心",
+      "open_date": "2017-12-16",
+      "area": "4万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海宝山万达广场",
+      "open_date": "2012-06-29",
+      "area": "20.6万㎡",
+      "jun_daily_avg": "6.2万人次",
+      "weekday_avg": "5.5万人次",
+      "holiday_avg": "8.2万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 66.0,
+      "within_1yr_pct": 37.9,
+      "1_3yr_pct": 22.7,
+      "over_3yr_pct": 39.4
+    },
+    {
+      "type": "购物",
+      "count": 19.0,
+      "within_1yr_pct": 15.8,
+      "1_3yr_pct": 31.6,
+      "over_3yr_pct": 52.6
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 5.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 40.0,
+      "over_3yr_pct": 40.0
+    },
+    {
+      "type": "教育培训",
+      "count": 16.0,
+      "within_1yr_pct": 6.3,
+      "1_3yr_pct": 31.3,
+      "over_3yr_pct": 62.5
+    },
+    {
+      "type": "生活服务",
+      "count": 21.0,
+      "within_1yr_pct": 28.6,
+      "1_3yr_pct": 23.8,
+      "over_3yr_pct": 47.6
+    },
+    {
+      "type": "运动健身",
+      "count": 8.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 37.5,
+      "over_3yr_pct": 12.5
+    },
+    {
+      "type": "车辆服务",
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    }
+  ]
+}

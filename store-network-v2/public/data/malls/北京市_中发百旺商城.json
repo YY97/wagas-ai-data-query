@@ -1,0 +1,407 @@
+{
+  "name": "中发百旺商城",
+  "city": "北京市",
+  "address": "北京市海淀区圆明园西路9-5怡城",
+  "lat": 40.024254,
+  "lng": 116.279259,
+  "overview": {
+    "score": 92.1,
+    "score_rank": "市内前30%",
+    "population_score": 96.1,
+    "area_score": 70.8,
+    "consumption_score": 79.0,
+    "industry_score": 92.2,
+    "annual_sales": "北京中发百旺商城位于北京市海淀区圆明园西路18号，是集购物、休闲、娱乐、餐饮、旅游、文化于一体的一站式购物中心，提供吃、喝、玩、乐、购全方位综合性多元化的消费感受。以独有的经营理念及定位，为消费者打造一个介于商场和市场之间的购物“第三空间”",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 4.3,
+    "open_date": "2005-01-01",
+    "operator": "中发实业（集团）有限公司",
+    "brand": "",
+    "type": "购物型",
+    "floors": "B2-L5"
+  },
+  "traffic": {
+    "annual_daily": 2.55,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第93",
+    "jun_total": 86.5,
+    "jun_total_rank": "市内商场第107名",
+    "jun_daily_avg": 2.9,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第107名",
+    "weekday_avg": 2.7,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第109名",
+    "holiday_avg": 3.4,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第111名"
+  },
+  "population": {
+    "residential": {
+      "500m": 3.0,
+      "1_5km": 12.7,
+      "3km": 28.7
+    },
+    "office": {
+      "500m": 9900.0,
+      "1_5km": 7.2,
+      "3km": 25.7
+    },
+    "permanent": {
+      "500m": 2.7,
+      "1_5km": 11.5,
+      "3km": 27.6
+    }
+  },
+  "business": {
+    "competitors": 2.0,
+    "food": 96.0,
+    "shopping": 114.0,
+    "leisure": 2.0,
+    "education": 12.0,
+    "hotel": 2.0,
+    "services": 62.0,
+    "fitness": 5.0,
+    "auto": 6.0,
+    "total_stores": 197.0,
+    "old_store_3yr_pct": 49.0
+  },
+  "nearby_poi": {
+    "business": 1.0,
+    "community": 116.0,
+    "office": 11.0,
+    "school": 29.0,
+    "hospital": 23.0,
+    "transport": 6.0,
+    "scenic": 213.0
+  },
+  "demographics": {
+    "male_pct": 50.4,
+    "female_pct": null,
+    "education": {
+      "小学": 7.5,
+      "初中": 12.9,
+      "高中": 11.2,
+      "大专": 5.8,
+      "本科": 48.9,
+      "硕士": 11.1,
+      "博士": 2.6
+    },
+    "has_children_pct": 55.4,
+    "no_children_pct": 44.6
+  },
+  "scraped_at": "2026-08-01T20:47:09.889Z",
+  "nearby_restaurants": [
+    {
+      "brand": "非遗手工酱肉包",
+      "address": "圆明园西路18号中发百旺商城",
+      "distance": "2m"
+    },
+    {
+      "brand": "五芳斋粽子(海淀百旺店)",
+      "address": "北京城区圆明园西路",
+      "distance": "5m"
+    },
+    {
+      "brand": "谢蟹浓肉蟹煲(中发百旺商城店)",
+      "address": "圆明园西路18号中发百旺商城F5层",
+      "distance": "6m"
+    },
+    {
+      "brand": "港粤发茶点粤炒港式茶餐厅(风味01店)",
+      "address": "圆明园西路18号中发百旺商城F5层",
+      "distance": "7m"
+    },
+    {
+      "brand": "笔记安顺夺夺粉火锅(西北旺店)",
+      "address": "北京城区圆明园西路18号中发百旺商城F5层",
+      "distance": "9m"
+    },
+    {
+      "brand": "乡村基(中发百旺商城店)",
+      "address": "圆明园西路18号中发百旺商城F1层",
+      "distance": "10m"
+    },
+    {
+      "brand": "宜燃齐齐哈尔家庭烤肉(中发百旺商城店)",
+      "address": "圆明园西路18号中发百旺4层4002",
+      "distance": "10m"
+    },
+    {
+      "brand": "麻里麻里(中发百旺商城店)",
+      "address": "圆明园西路18号中发百旺商城5层",
+      "distance": "11m"
+    },
+    {
+      "brand": "张拉拉兰州手撕牛肉面(北京中发百旺)",
+      "address": "北京城区北京中发百旺商城五层525号",
+      "distance": "12m"
+    },
+    {
+      "brand": "潮正粤潮汕砂锅粥(中发百旺商城店)",
+      "address": "圆明园西路18号中发百旺商城5层502",
+      "distance": "12m"
+    },
+    {
+      "brand": "非遗手工酱肉包",
+      "address": "圆明园西路18号中发百旺商城",
+      "distance": "2m"
+    },
+    {
+      "brand": "五芳斋粽子(海淀百旺店)",
+      "address": "北京城区圆明园西路",
+      "distance": "5m"
+    },
+    {
+      "brand": "谢蟹浓肉蟹煲(中发百旺商城店)",
+      "address": "圆明园西路18号中发百旺商城F5层",
+      "distance": "6m"
+    },
+    {
+      "brand": "港粤发茶点粤炒港式茶餐厅(风味01店)",
+      "address": "圆明园西路18号中发百旺商城F5层",
+      "distance": "7m"
+    },
+    {
+      "brand": "笔记安顺夺夺粉火锅(西北旺店)",
+      "address": "北京城区圆明园西路18号中发百旺商城F5层",
+      "distance": "9m"
+    },
+    {
+      "brand": "乡村基(中发百旺商城店)",
+      "address": "圆明园西路18号中发百旺商城F1层",
+      "distance": "10m"
+    },
+    {
+      "brand": "宜燃齐齐哈尔家庭烤肉(中发百旺商城店)",
+      "address": "圆明园西路18号中发百旺4层4002",
+      "distance": "10m"
+    },
+    {
+      "brand": "麻里麻里(中发百旺商城店)",
+      "address": "圆明园西路18号中发百旺商城5层",
+      "distance": "11m"
+    },
+    {
+      "brand": "张拉拉兰州手撕牛肉面(北京中发百旺)",
+      "address": "北京城区北京中发百旺商城五层525号",
+      "distance": "12m"
+    },
+    {
+      "brand": "潮正粤潮汕砂锅粥(中发百旺商城店)",
+      "address": "圆明园西路18号中发百旺商城5层502",
+      "distance": "12m"
+    },
+    {
+      "brand": "非遗手工酱肉包",
+      "address": "圆明园西路18号中发百旺商城",
+      "distance": "2m"
+    },
+    {
+      "brand": "五芳斋粽子(海淀百旺店)",
+      "address": "北京城区圆明园西路",
+      "distance": "5m"
+    },
+    {
+      "brand": "谢蟹浓肉蟹煲(中发百旺商城店)",
+      "address": "圆明园西路18号中发百旺商城F5层",
+      "distance": "6m"
+    },
+    {
+      "brand": "港粤发茶点粤炒港式茶餐厅(风味01店)",
+      "address": "圆明园西路18号中发百旺商城F5层",
+      "distance": "7m"
+    },
+    {
+      "brand": "笔记安顺夺夺粉火锅(西北旺店)",
+      "address": "北京城区圆明园西路18号中发百旺商城F5层",
+      "distance": "9m"
+    },
+    {
+      "brand": "乡村基(中发百旺商城店)",
+      "address": "圆明园西路18号中发百旺商城F1层",
+      "distance": "10m"
+    },
+    {
+      "brand": "宜燃齐齐哈尔家庭烤肉(中发百旺商城店)",
+      "address": "圆明园西路18号中发百旺4层4002",
+      "distance": "10m"
+    },
+    {
+      "brand": "麻里麻里(中发百旺商城店)",
+      "address": "圆明园西路18号中发百旺商城5层",
+      "distance": "11m"
+    },
+    {
+      "brand": "张拉拉兰州手撕牛肉面(北京中发百旺)",
+      "address": "北京城区北京中发百旺商城五层525号",
+      "distance": "12m"
+    },
+    {
+      "brand": "潮正粤潮汕砂锅粥(中发百旺商城店)",
+      "address": "圆明园西路18号中发百旺商城5层502",
+      "distance": "12m"
+    },
+    {
+      "brand": "非遗手工酱肉包",
+      "address": "圆明园西路18号中发百旺商城",
+      "distance": "2m"
+    },
+    {
+      "brand": "五芳斋粽子(海淀百旺店)",
+      "address": "北京城区圆明园西路",
+      "distance": "5m"
+    },
+    {
+      "brand": "谢蟹浓肉蟹煲(中发百旺商城店)",
+      "address": "圆明园西路18号中发百旺商城F5层",
+      "distance": "6m"
+    },
+    {
+      "brand": "港粤发茶点粤炒港式茶餐厅(风味01店)",
+      "address": "圆明园西路18号中发百旺商城F5层",
+      "distance": "7m"
+    },
+    {
+      "brand": "笔记安顺夺夺粉火锅(西北旺店)",
+      "address": "北京城区圆明园西路18号中发百旺商城F5层",
+      "distance": "9m"
+    },
+    {
+      "brand": "乡村基(中发百旺商城店)",
+      "address": "圆明园西路18号中发百旺商城F1层",
+      "distance": "10m"
+    },
+    {
+      "brand": "宜燃齐齐哈尔家庭烤肉(中发百旺商城店)",
+      "address": "圆明园西路18号中发百旺4层4002",
+      "distance": "10m"
+    },
+    {
+      "brand": "麻里麻里(中发百旺商城店)",
+      "address": "圆明园西路18号中发百旺商城5层",
+      "distance": "11m"
+    },
+    {
+      "brand": "张拉拉兰州手撕牛肉面(北京中发百旺)",
+      "address": "北京城区北京中发百旺商城五层525号",
+      "distance": "12m"
+    },
+    {
+      "brand": "潮正粤潮汕砂锅粥(中发百旺商城店)",
+      "address": "圆明园西路18号中发百旺商城5层502",
+      "distance": "12m"
+    },
+    {
+      "brand": "非遗手工酱肉包",
+      "address": "圆明园西路18号中发百旺商城",
+      "distance": "2m"
+    },
+    {
+      "brand": "五芳斋粽子(海淀百旺店)",
+      "address": "北京城区圆明园西路",
+      "distance": "5m"
+    },
+    {
+      "brand": "谢蟹浓肉蟹煲(中发百旺商城店)",
+      "address": "圆明园西路18号中发百旺商城F5层",
+      "distance": "6m"
+    },
+    {
+      "brand": "港粤发茶点粤炒港式茶餐厅(风味01店)",
+      "address": "圆明园西路18号中发百旺商城F5层",
+      "distance": "7m"
+    },
+    {
+      "brand": "笔记安顺夺夺粉火锅(西北旺店)",
+      "address": "北京城区圆明园西路18号中发百旺商城F5层",
+      "distance": "9m"
+    },
+    {
+      "brand": "乡村基(中发百旺商城店)",
+      "address": "圆明园西路18号中发百旺商城F1层",
+      "distance": "10m"
+    },
+    {
+      "brand": "宜燃齐齐哈尔家庭烤肉(中发百旺商城店)",
+      "address": "圆明园西路18号中发百旺4层4002",
+      "distance": "10m"
+    },
+    {
+      "brand": "麻里麻里(中发百旺商城店)",
+      "address": "圆明园西路18号中发百旺商城5层",
+      "distance": "11m"
+    },
+    {
+      "brand": "张拉拉兰州手撕牛肉面(北京中发百旺)",
+      "address": "北京城区北京中发百旺商城五层525号",
+      "distance": "12m"
+    },
+    {
+      "brand": "潮正粤潮汕砂锅粥(中发百旺商城店)",
+      "address": "圆明园西路18号中发百旺商城5层502",
+      "distance": "12m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "BHG Mall北京华联肖家河购物中心",
+      "open_date": "2013-03-01",
+      "area": "4.1万㎡",
+      "jun_daily_avg": "2.8万人次",
+      "weekday_avg": "2.6万人次",
+      "holiday_avg": "3.5万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 70.0,
+      "within_1yr_pct": 40.0,
+      "1_3yr_pct": 14.3,
+      "over_3yr_pct": 45.7
+    },
+    {
+      "type": "购物",
+      "count": 84.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 13.1,
+      "over_3yr_pct": 53.6
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "教育培训",
+      "count": 7.0,
+      "within_1yr_pct": 57.1,
+      "1_3yr_pct": 14.3,
+      "over_3yr_pct": 28.6
+    },
+    {
+      "type": "生活服务",
+      "count": 30.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 13.3,
+      "over_3yr_pct": 53.3
+    },
+    {
+      "type": "运动健身",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 3.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 33.3
+    }
+  ]
+}

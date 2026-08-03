@@ -1,0 +1,454 @@
+{
+  "name": "前滩东方广场",
+  "city": "上海市",
+  "address": "上海市浦东新区三林镇前滩东方悦耀",
+  "lat": 31.150374,
+  "lng": 121.482904,
+  "overview": {
+    "score": 77.0,
+    "score_rank": "市内前50%",
+    "population_score": 72.3,
+    "area_score": 76.9,
+    "consumption_score": 91.3,
+    "industry_score": 77.0,
+    "annual_sales": "",
+    "annual_sales_unit": "",
+    "area_size_sqm": null,
+    "open_date": "",
+    "operator": "",
+    "brand": "",
+    "type": "",
+    "floors": ""
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "",
+    "annual_daily_rank": "",
+    "jun_total": null,
+    "jun_total_rank": "",
+    "jun_daily_avg": null,
+    "jun_daily_unit": "",
+    "jun_daily_rank": "",
+    "weekday_avg": null,
+    "weekday_unit": "",
+    "weekday_rank": "",
+    "holiday_avg": null,
+    "holiday_unit": "",
+    "holiday_rank": ""
+  },
+  "population": {
+    "residential": {
+      "500m": 9400.0,
+      "1_5km": 10.9,
+      "3km": 49.9
+    },
+    "office": {
+      "500m": 2.6,
+      "1_5km": 9.1,
+      "3km": 30.1
+    },
+    "permanent": {
+      "500m": 1.7,
+      "1_5km": 12.4,
+      "3km": 51.4
+    }
+  },
+  "business": {
+    "competitors": 10.0,
+    "food": 203.0,
+    "shopping": 216.0,
+    "leisure": 9.0,
+    "education": 8.0,
+    "hotel": 8.0,
+    "services": 61.0,
+    "fitness": 16.0,
+    "auto": 14.0,
+    "total_stores": 544.0,
+    "old_store_3yr_pct": 53.0
+  },
+  "nearby_poi": {
+    "business": 6.0,
+    "community": 271.0,
+    "office": 25.0,
+    "school": 17.0,
+    "hospital": 31.0,
+    "transport": 7.0,
+    "scenic": 117.0
+  },
+  "demographics": {
+    "male_pct": 49.0,
+    "female_pct": null,
+    "education": {
+      "小学": 9.4,
+      "初中": 17.6,
+      "高中": 11.0,
+      "大专": 7.8,
+      "本科": 46.9,
+      "硕士": 5.6,
+      "博士": 1.7
+    },
+    "has_children_pct": null,
+    "no_children_pct": null
+  },
+  "scraped_at": "2026-07-31T11:40:47.869Z",
+  "nearby_restaurants": [
+    {
+      "brand": "miigoo cafe",
+      "address": "高青西路667弄1-4号前滩东方悦耀",
+      "distance": "52m"
+    },
+    {
+      "brand": "瑞幸咖啡(前滩东方广场2期店)",
+      "address": "海阳西路556号前滩东方广场2期F1层",
+      "distance": "55m"
+    },
+    {
+      "brand": "Brothers Kebab兄弟烤肉店(前滩店)",
+      "address": "海阳西路578号1层澜臻美食餐厅2楼",
+      "distance": "71m"
+    },
+    {
+      "brand": "澜臻美食(前滩上海店)",
+      "address": "高青西路667弄1-4号前滩东方悦耀",
+      "distance": "77m"
+    },
+    {
+      "brand": "道海元潮粤汇(前滩东方悦耀店)",
+      "address": "海东新区东育路652号",
+      "distance": "78m"
+    },
+    {
+      "brand": "隐溪茶馆(前滩东方店)",
+      "address": "东育路638号(东育路和海阳西路交叉口)",
+      "distance": "79m"
+    },
+    {
+      "brand": "逸匠关东煮(海阳西路店)",
+      "address": "高青西路与前茂路交叉口西北60米",
+      "distance": "83m"
+    },
+    {
+      "brand": "Wagas沃歌斯(上海东方广场店)",
+      "address": "东育路636号1层/海阳西路590号1层",
+      "distance": "86m"
+    },
+    {
+      "brand": "泽田本家·铜锣烧(前滩店)",
+      "address": "海阳西路555号",
+      "distance": "93m"
+    },
+    {
+      "brand": "Manner Coffee(前滩中心店)",
+      "address": "海阳西路555号前滩中心F1层",
+      "distance": "110m"
+    },
+    {
+      "brand": "miigoo cafe",
+      "address": "高青西路667弄1-4号前滩东方悦耀",
+      "distance": "52m"
+    },
+    {
+      "brand": "瑞幸咖啡(前滩东方广场2期店)",
+      "address": "海阳西路556号前滩东方广场2期F1层",
+      "distance": "55m"
+    },
+    {
+      "brand": "Brothers Kebab兄弟烤肉店(前滩店)",
+      "address": "海阳西路578号1层澜臻美食餐厅2楼",
+      "distance": "71m"
+    },
+    {
+      "brand": "澜臻美食(前滩上海店)",
+      "address": "高青西路667弄1-4号前滩东方悦耀",
+      "distance": "77m"
+    },
+    {
+      "brand": "道海元潮粤汇(前滩东方悦耀店)",
+      "address": "海东新区东育路652号",
+      "distance": "78m"
+    },
+    {
+      "brand": "隐溪茶馆(前滩东方店)",
+      "address": "东育路638号(东育路和海阳西路交叉口)",
+      "distance": "79m"
+    },
+    {
+      "brand": "逸匠关东煮(海阳西路店)",
+      "address": "高青西路与前茂路交叉口西北60米",
+      "distance": "83m"
+    },
+    {
+      "brand": "Wagas沃歌斯(上海东方广场店)",
+      "address": "东育路636号1层/海阳西路590号1层",
+      "distance": "86m"
+    },
+    {
+      "brand": "泽田本家·铜锣烧(前滩店)",
+      "address": "海阳西路555号",
+      "distance": "93m"
+    },
+    {
+      "brand": "Manner Coffee(前滩中心店)",
+      "address": "海阳西路555号前滩中心F1层",
+      "distance": "110m"
+    },
+    {
+      "brand": "miigoo cafe",
+      "address": "高青西路667弄1-4号前滩东方悦耀",
+      "distance": "52m"
+    },
+    {
+      "brand": "瑞幸咖啡(前滩东方广场2期店)",
+      "address": "海阳西路556号前滩东方广场2期F1层",
+      "distance": "55m"
+    },
+    {
+      "brand": "Brothers Kebab兄弟烤肉店(前滩店)",
+      "address": "海阳西路578号1层澜臻美食餐厅2楼",
+      "distance": "71m"
+    },
+    {
+      "brand": "澜臻美食(前滩上海店)",
+      "address": "高青西路667弄1-4号前滩东方悦耀",
+      "distance": "77m"
+    },
+    {
+      "brand": "道海元潮粤汇(前滩东方悦耀店)",
+      "address": "海东新区东育路652号",
+      "distance": "78m"
+    },
+    {
+      "brand": "隐溪茶馆(前滩东方店)",
+      "address": "东育路638号(东育路和海阳西路交叉口)",
+      "distance": "79m"
+    },
+    {
+      "brand": "逸匠关东煮(海阳西路店)",
+      "address": "高青西路与前茂路交叉口西北60米",
+      "distance": "83m"
+    },
+    {
+      "brand": "Wagas沃歌斯(上海东方广场店)",
+      "address": "东育路636号1层/海阳西路590号1层",
+      "distance": "86m"
+    },
+    {
+      "brand": "泽田本家·铜锣烧(前滩店)",
+      "address": "海阳西路555号",
+      "distance": "93m"
+    },
+    {
+      "brand": "Manner Coffee(前滩中心店)",
+      "address": "海阳西路555号前滩中心F1层",
+      "distance": "110m"
+    },
+    {
+      "brand": "miigoo cafe",
+      "address": "高青西路667弄1-4号前滩东方悦耀",
+      "distance": "52m"
+    },
+    {
+      "brand": "瑞幸咖啡(前滩东方广场2期店)",
+      "address": "海阳西路556号前滩东方广场2期F1层",
+      "distance": "55m"
+    },
+    {
+      "brand": "Brothers Kebab兄弟烤肉店(前滩店)",
+      "address": "海阳西路578号1层澜臻美食餐厅2楼",
+      "distance": "71m"
+    },
+    {
+      "brand": "澜臻美食(前滩上海店)",
+      "address": "高青西路667弄1-4号前滩东方悦耀",
+      "distance": "77m"
+    },
+    {
+      "brand": "道海元潮粤汇(前滩东方悦耀店)",
+      "address": "海东新区东育路652号",
+      "distance": "78m"
+    },
+    {
+      "brand": "隐溪茶馆(前滩东方店)",
+      "address": "东育路638号(东育路和海阳西路交叉口)",
+      "distance": "79m"
+    },
+    {
+      "brand": "逸匠关东煮(海阳西路店)",
+      "address": "高青西路与前茂路交叉口西北60米",
+      "distance": "83m"
+    },
+    {
+      "brand": "Wagas沃歌斯(上海东方广场店)",
+      "address": "东育路636号1层/海阳西路590号1层",
+      "distance": "86m"
+    },
+    {
+      "brand": "泽田本家·铜锣烧(前滩店)",
+      "address": "海阳西路555号",
+      "distance": "93m"
+    },
+    {
+      "brand": "Manner Coffee(前滩中心店)",
+      "address": "海阳西路555号前滩中心F1层",
+      "distance": "110m"
+    },
+    {
+      "brand": "miigoo cafe",
+      "address": "高青西路667弄1-4号前滩东方悦耀",
+      "distance": "52m"
+    },
+    {
+      "brand": "瑞幸咖啡(前滩东方广场2期店)",
+      "address": "海阳西路556号前滩东方广场2期F1层",
+      "distance": "55m"
+    },
+    {
+      "brand": "Brothers Kebab兄弟烤肉店(前滩店)",
+      "address": "海阳西路578号1层澜臻美食餐厅2楼",
+      "distance": "71m"
+    },
+    {
+      "brand": "澜臻美食(前滩上海店)",
+      "address": "高青西路667弄1-4号前滩东方悦耀",
+      "distance": "77m"
+    },
+    {
+      "brand": "道海元潮粤汇(前滩东方悦耀店)",
+      "address": "海东新区东育路652号",
+      "distance": "78m"
+    },
+    {
+      "brand": "隐溪茶馆(前滩东方店)",
+      "address": "东育路638号(东育路和海阳西路交叉口)",
+      "distance": "79m"
+    },
+    {
+      "brand": "逸匠关东煮(海阳西路店)",
+      "address": "高青西路与前茂路交叉口西北60米",
+      "distance": "83m"
+    },
+    {
+      "brand": "Wagas沃歌斯(上海东方广场店)",
+      "address": "东育路636号1层/海阳西路590号1层",
+      "distance": "86m"
+    },
+    {
+      "brand": "泽田本家·铜锣烧(前滩店)",
+      "address": "海阳西路555号",
+      "distance": "93m"
+    },
+    {
+      "brand": "Manner Coffee(前滩中心店)",
+      "address": "海阳西路555号前滩中心F1层",
+      "distance": "110m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海前滩31乐荟",
+      "open_date": "2023-04-01",
+      "area": "4万㎡",
+      "jun_daily_avg": "1.1万人次",
+      "weekday_avg": "1万人次",
+      "holiday_avg": "1.4万人次"
+    },
+    {
+      "name": "上海前滩太古里",
+      "open_date": "2021-09-30",
+      "area": "12万㎡",
+      "jun_daily_avg": "7.6万人次",
+      "weekday_avg": "7万人次",
+      "holiday_avg": "9.4万人次"
+    },
+    {
+      "name": "上海晶耀前滩",
+      "open_date": "2019-08-23",
+      "area": "6.8万㎡",
+      "jun_daily_avg": "4万人次",
+      "weekday_avg": "3.8万人次",
+      "holiday_avg": "4.5万人次"
+    },
+    {
+      "name": "上海前难L+PLAZA陆家嘴广场",
+      "open_date": "2023-01-01",
+      "area": "3.1万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海森宏购物广场",
+      "open_date": "2010-01-01",
+      "area": "5万㎡",
+      "jun_daily_avg": "1.7万人次",
+      "weekday_avg": "1.6万人次",
+      "holiday_avg": "2万人次"
+    },
+    {
+      "name": "上海陆悦汇",
+      "open_date": "2022-10-10",
+      "area": "3.4万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 203.0,
+      "within_1yr_pct": 16.7,
+      "1_3yr_pct": 31.5,
+      "over_3yr_pct": 51.7
+    },
+    {
+      "type": "购物",
+      "count": 216.0,
+      "within_1yr_pct": 14.4,
+      "1_3yr_pct": 24.1,
+      "over_3yr_pct": 61.6
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 18.0,
+      "within_1yr_pct": 27.8,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 38.9
+    },
+    {
+      "type": "教育培训",
+      "count": 8.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 25.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 8.0,
+      "within_1yr_pct": 12.5,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 62.5
+    },
+    {
+      "type": "生活服务",
+      "count": 61.0,
+      "within_1yr_pct": 32.8,
+      "1_3yr_pct": 24.6,
+      "over_3yr_pct": 42.6
+    },
+    {
+      "type": "运动健身",
+      "count": 16.0,
+      "within_1yr_pct": 31.3,
+      "1_3yr_pct": 37.5,
+      "over_3yr_pct": 31.3
+    },
+    {
+      "type": "车辆服务",
+      "count": 14.0,
+      "within_1yr_pct": 28.6,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 21.4
+    }
+  ]
+}

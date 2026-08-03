@@ -1,0 +1,357 @@
+{
+  "name": "万优汇Unit One",
+  "city": "北京市",
+  "address": "",
+  "lat": null,
+  "lng": null,
+  "overview": {
+    "score": 90.3,
+    "score_rank": "市内前30%",
+    "population_score": 75.6,
+    "area_score": 85.6,
+    "consumption_score": 60.0,
+    "industry_score": 90.4,
+    "annual_sales": "",
+    "annual_sales_unit": "",
+    "area_size_sqm": null,
+    "open_date": "",
+    "operator": "",
+    "brand": "",
+    "type": "",
+    "floors": ""
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "",
+    "annual_daily_rank": "",
+    "jun_total": null,
+    "jun_total_rank": "",
+    "jun_daily_avg": null,
+    "jun_daily_unit": "",
+    "jun_daily_rank": "",
+    "weekday_avg": null,
+    "weekday_unit": "",
+    "weekday_rank": "",
+    "holiday_avg": null,
+    "holiday_unit": "",
+    "holiday_rank": ""
+  },
+  "population": {
+    "residential": {
+      "500m": 1.1,
+      "1_5km": 12.7,
+      "3km": 55.7
+    },
+    "office": {
+      "500m": 1.4,
+      "1_5km": 10.1,
+      "3km": 54.4
+    },
+    "permanent": {
+      "500m": 1.8,
+      "1_5km": 14.7,
+      "3km": 68.3
+    }
+  },
+  "business": {
+    "competitors": 7.0,
+    "food": 405.0,
+    "shopping": 216.0,
+    "leisure": 26.0,
+    "education": 1.0,
+    "hotel": 107.0,
+    "services": 45.0,
+    "fitness": null,
+    "auto": 7.0,
+    "total_stores": null,
+    "old_store_3yr_pct": null
+  },
+  "nearby_poi": {
+    "business": 1.0,
+    "community": 289.0,
+    "office": 21.0,
+    "school": 44.0,
+    "hospital": 120.0,
+    "transport": 12.0,
+    "scenic": 964.0
+  },
+  "demographics": {
+    "male_pct": 45.6,
+    "female_pct": null,
+    "education": {
+      "小学": 10.1,
+      "初中": 16.4,
+      "高中": 10.7,
+      "大专": 6.2,
+      "本科": 46.9,
+      "硕士": 7.6,
+      "博士": 2.1
+    },
+    "has_children_pct": null,
+    "no_children_pct": null
+  },
+  "scraped_at": "2026-08-01T06:43:37.939Z",
+  "nearby_restaurants": [
+    {
+      "brand": "五芳斋粽子",
+      "address": "北京城区久敬庄路丙57号",
+      "distance": "12m"
+    },
+    {
+      "brand": "必胜客(德贤路店)",
+      "address": "德贤路与久敬庄路交汇口北京大兴王府井奥莱UP TOWN1F层1065(6号门附近)",
+      "distance": "31m"
+    },
+    {
+      "brand": "肯德基(德贤路店)",
+      "address": "德贤路与久敬庄路交汇口北京大兴王府井奥莱UP TOWN1F层1063(6号门附近)",
+      "distance": "34m"
+    },
+    {
+      "brand": "欧酷·聚会餐厅·团建·生日会(王府井奥莱UP TOWN店)",
+      "address": "德贤路与久敬庄路交汇口北京大兴王府井奥莱UP TOWN4F层4109",
+      "distance": "41m"
+    },
+    {
+      "brand": "九本居酒屋(王府井奥莱店)",
+      "address": "北京城区久敬庄路王府井奥莱室外1层(3号门外)",
+      "distance": "55m"
+    },
+    {
+      "brand": "海底捞火锅(王府井奥莱UPTOWN店)",
+      "address": "北京经济技术开发区(大兴)德贤路59号院1号楼4层1-F4068",
+      "distance": "57m"
+    },
+    {
+      "brand": "COSTA COFFEE(王府井奥莱UP TOWN店)",
+      "address": "德贤路与久敬庄路交汇口北京大兴王府井奥莱UP TOWN1F层1062",
+      "distance": "61m"
+    },
+    {
+      "brand": "渝面小匠(王府井奥莱店)",
+      "address": "德贤路59号元1号楼王府井奥莱3层",
+      "distance": "67m"
+    },
+    {
+      "brand": "汤派·炖炖(王府井奥莱UP TOWN店)",
+      "address": "德贤路与久敬庄路交汇口北京大兴王府井奥莱UP TOWN4F层4032",
+      "distance": "71m"
+    },
+    {
+      "brand": "玖佰鲜自助餐厅",
+      "address": "北京经济开发区(大兴)德贤路59号院1号楼1-F4063",
+      "distance": "80m"
+    },
+    {
+      "brand": "五芳斋粽子",
+      "address": "北京城区久敬庄路丙57号",
+      "distance": "12m"
+    },
+    {
+      "brand": "必胜客(德贤路店)",
+      "address": "德贤路与久敬庄路交汇口北京大兴王府井奥莱UP TOWN1F层1065(6号门附近)",
+      "distance": "31m"
+    },
+    {
+      "brand": "肯德基(德贤路店)",
+      "address": "德贤路与久敬庄路交汇口北京大兴王府井奥莱UP TOWN1F层1063(6号门附近)",
+      "distance": "34m"
+    },
+    {
+      "brand": "欧酷·聚会餐厅·团建·生日会(王府井奥莱UP TOWN店)",
+      "address": "德贤路与久敬庄路交汇口北京大兴王府井奥莱UP TOWN4F层4109",
+      "distance": "41m"
+    },
+    {
+      "brand": "九本居酒屋(王府井奥莱店)",
+      "address": "北京城区久敬庄路王府井奥莱室外1层(3号门外)",
+      "distance": "55m"
+    },
+    {
+      "brand": "海底捞火锅(王府井奥莱UPTOWN店)",
+      "address": "北京经济技术开发区(大兴)德贤路59号院1号楼4层1-F4068",
+      "distance": "57m"
+    },
+    {
+      "brand": "COSTA COFFEE(王府井奥莱UP TOWN店)",
+      "address": "德贤路与久敬庄路交汇口北京大兴王府井奥莱UP TOWN1F层1062",
+      "distance": "61m"
+    },
+    {
+      "brand": "渝面小匠(王府井奥莱店)",
+      "address": "德贤路59号元1号楼王府井奥莱3层",
+      "distance": "67m"
+    },
+    {
+      "brand": "汤派·炖炖(王府井奥莱UP TOWN店)",
+      "address": "德贤路与久敬庄路交汇口北京大兴王府井奥莱UP TOWN4F层4032",
+      "distance": "71m"
+    },
+    {
+      "brand": "玖佰鲜自助餐厅",
+      "address": "北京经济开发区(大兴)德贤路59号院1号楼1-F4063",
+      "distance": "80m"
+    },
+    {
+      "brand": "五芳斋粽子",
+      "address": "北京城区久敬庄路丙57号",
+      "distance": "12m"
+    },
+    {
+      "brand": "必胜客(德贤路店)",
+      "address": "德贤路与久敬庄路交汇口北京大兴王府井奥莱UP TOWN1F层1065(6号门附近)",
+      "distance": "31m"
+    },
+    {
+      "brand": "肯德基(德贤路店)",
+      "address": "德贤路与久敬庄路交汇口北京大兴王府井奥莱UP TOWN1F层1063(6号门附近)",
+      "distance": "34m"
+    },
+    {
+      "brand": "欧酷·聚会餐厅·团建·生日会(王府井奥莱UP TOWN店)",
+      "address": "德贤路与久敬庄路交汇口北京大兴王府井奥莱UP TOWN4F层4109",
+      "distance": "41m"
+    },
+    {
+      "brand": "九本居酒屋(王府井奥莱店)",
+      "address": "北京城区久敬庄路王府井奥莱室外1层(3号门外)",
+      "distance": "55m"
+    },
+    {
+      "brand": "海底捞火锅(王府井奥莱UPTOWN店)",
+      "address": "北京经济技术开发区(大兴)德贤路59号院1号楼4层1-F4068",
+      "distance": "57m"
+    },
+    {
+      "brand": "COSTA COFFEE(王府井奥莱UP TOWN店)",
+      "address": "德贤路与久敬庄路交汇口北京大兴王府井奥莱UP TOWN1F层1062",
+      "distance": "61m"
+    },
+    {
+      "brand": "渝面小匠(王府井奥莱店)",
+      "address": "德贤路59号元1号楼王府井奥莱3层",
+      "distance": "67m"
+    },
+    {
+      "brand": "汤派·炖炖(王府井奥莱UP TOWN店)",
+      "address": "德贤路与久敬庄路交汇口北京大兴王府井奥莱UP TOWN4F层4032",
+      "distance": "71m"
+    },
+    {
+      "brand": "玖佰鲜自助餐厅",
+      "address": "北京经济开发区(大兴)德贤路59号院1号楼1-F4063",
+      "distance": "80m"
+    },
+    {
+      "brand": "五芳斋粽子",
+      "address": "北京城区久敬庄路丙57号",
+      "distance": "12m"
+    },
+    {
+      "brand": "必胜客(德贤路店)",
+      "address": "德贤路与久敬庄路交汇口北京大兴王府井奥莱UP TOWN1F层1065(6号门附近)",
+      "distance": "31m"
+    },
+    {
+      "brand": "肯德基(德贤路店)",
+      "address": "德贤路与久敬庄路交汇口北京大兴王府井奥莱UP TOWN1F层1063(6号门附近)",
+      "distance": "34m"
+    },
+    {
+      "brand": "欧酷·聚会餐厅·团建·生日会(王府井奥莱UP TOWN店)",
+      "address": "德贤路与久敬庄路交汇口北京大兴王府井奥莱UP TOWN4F层4109",
+      "distance": "41m"
+    },
+    {
+      "brand": "九本居酒屋(王府井奥莱店)",
+      "address": "北京城区久敬庄路王府井奥莱室外1层(3号门外)",
+      "distance": "55m"
+    },
+    {
+      "brand": "海底捞火锅(王府井奥莱UPTOWN店)",
+      "address": "北京经济技术开发区(大兴)德贤路59号院1号楼4层1-F4068",
+      "distance": "57m"
+    },
+    {
+      "brand": "COSTA COFFEE(王府井奥莱UP TOWN店)",
+      "address": "德贤路与久敬庄路交汇口北京大兴王府井奥莱UP TOWN1F层1062",
+      "distance": "61m"
+    },
+    {
+      "brand": "渝面小匠(王府井奥莱店)",
+      "address": "德贤路59号元1号楼王府井奥莱3层",
+      "distance": "67m"
+    },
+    {
+      "brand": "汤派·炖炖(王府井奥莱UP TOWN店)",
+      "address": "德贤路与久敬庄路交汇口北京大兴王府井奥莱UP TOWN4F层4032",
+      "distance": "71m"
+    },
+    {
+      "brand": "玖佰鲜自助餐厅",
+      "address": "北京经济开发区(大兴)德贤路59号院1号楼1-F4063",
+      "distance": "80m"
+    },
+    {
+      "brand": "五芳斋粽子",
+      "address": "北京城区久敬庄路丙57号",
+      "distance": "12m"
+    },
+    {
+      "brand": "必胜客(德贤路店)",
+      "address": "德贤路与久敬庄路交汇口北京大兴王府井奥莱UP TOWN1F层1065(6号门附近)",
+      "distance": "31m"
+    },
+    {
+      "brand": "肯德基(德贤路店)",
+      "address": "德贤路与久敬庄路交汇口北京大兴王府井奥莱UP TOWN1F层1063(6号门附近)",
+      "distance": "34m"
+    },
+    {
+      "brand": "欧酷·聚会餐厅·团建·生日会(王府井奥莱UP TOWN店)",
+      "address": "德贤路与久敬庄路交汇口北京大兴王府井奥莱UP TOWN4F层4109",
+      "distance": "41m"
+    },
+    {
+      "brand": "九本居酒屋(王府井奥莱店)",
+      "address": "北京城区久敬庄路王府井奥莱室外1层(3号门外)",
+      "distance": "55m"
+    },
+    {
+      "brand": "海底捞火锅(王府井奥莱UPTOWN店)",
+      "address": "北京经济技术开发区(大兴)德贤路59号院1号楼4层1-F4068",
+      "distance": "57m"
+    },
+    {
+      "brand": "COSTA COFFEE(王府井奥莱UP TOWN店)",
+      "address": "德贤路与久敬庄路交汇口北京大兴王府井奥莱UP TOWN1F层1062",
+      "distance": "61m"
+    },
+    {
+      "brand": "渝面小匠(王府井奥莱店)",
+      "address": "德贤路59号元1号楼王府井奥莱3层",
+      "distance": "67m"
+    },
+    {
+      "brand": "汤派·炖炖(王府井奥莱UP TOWN店)",
+      "address": "德贤路与久敬庄路交汇口北京大兴王府井奥莱UP TOWN4F层4032",
+      "distance": "71m"
+    },
+    {
+      "brand": "玖佰鲜自助餐厅",
+      "address": "北京经济开发区(大兴)德贤路59号院1号楼1-F4063",
+      "distance": "80m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "北京新活馆",
+      "open_date": "2012-10-01",
+      "area": "4万㎡",
+      "jun_daily_avg": "1.8万人次",
+      "weekday_avg": "1.8万人次",
+      "holiday_avg": "2万人次"
+    }
+  ],
+  "business_survival": []
+}

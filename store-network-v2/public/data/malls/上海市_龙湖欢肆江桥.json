@@ -1,0 +1,154 @@
+{
+  "name": "龙湖欢肆江桥",
+  "city": "上海市",
+  "address": "上海市黄浦区徐家汇路618号",
+  "lat": 31.206522,
+  "lng": 121.468448,
+  "overview": {
+    "score": 97.0,
+    "score_rank": "市内前30%",
+    "population_score": 96.9,
+    "area_score": 98.4,
+    "consumption_score": 87.5,
+    "industry_score": 97.0,
+    "annual_sales": "",
+    "annual_sales_unit": "",
+    "area_size_sqm": null,
+    "open_date": "",
+    "operator": "",
+    "brand": "",
+    "type": "",
+    "floors": ""
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "",
+    "annual_daily_rank": "",
+    "jun_total": null,
+    "jun_total_rank": "",
+    "jun_daily_avg": null,
+    "jun_daily_unit": "",
+    "jun_daily_rank": "",
+    "weekday_avg": null,
+    "weekday_unit": "",
+    "weekday_rank": "",
+    "holiday_avg": null,
+    "holiday_unit": "",
+    "holiday_rank": ""
+  },
+  "population": {
+    "residential": {
+      "500m": 188.0,
+      "1_5km": null,
+      "3km": null
+    },
+    "office": {
+      "500m": 188.0,
+      "1_5km": null,
+      "3km": null
+    },
+    "permanent": {
+      "500m": 102.0,
+      "1_5km": null,
+      "3km": null
+    }
+  },
+  "business": {
+    "competitors": null,
+    "food": null,
+    "shopping": null,
+    "leisure": null,
+    "education": null,
+    "hotel": null,
+    "services": null,
+    "fitness": null,
+    "auto": null,
+    "total_stores": 420.0,
+    "old_store_3yr_pct": 50.0
+  },
+  "nearby_poi": {
+    "business": null,
+    "community": null,
+    "office": null,
+    "school": null,
+    "hospital": null,
+    "transport": null,
+    "scenic": null
+  },
+  "demographics": {
+    "male_pct": null,
+    "female_pct": null,
+    "education": {
+      "小学": null,
+      "初中": null,
+      "高中": null,
+      "大专": null,
+      "本科": null,
+      "硕士": null,
+      "博士": null
+    },
+    "has_children_pct": null,
+    "no_children_pct": null
+  },
+  "scraped_at": "2026-08-01T11:05:53.532Z",
+  "nearby_restaurants": [],
+  "nearby_malls": [],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 188.0,
+      "within_1yr_pct": 15.4,
+      "1_3yr_pct": 33.0,
+      "over_3yr_pct": 51.6
+    },
+    {
+      "type": "购物",
+      "count": 102.0,
+      "within_1yr_pct": 16.7,
+      "1_3yr_pct": 27.5,
+      "over_3yr_pct": 55.9
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 10.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 30.0
+    },
+    {
+      "type": "教育培训",
+      "count": 12.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 41.7,
+      "over_3yr_pct": 58.3
+    },
+    {
+      "type": "酒店住宿",
+      "count": 16.0,
+      "within_1yr_pct": 37.5,
+      "1_3yr_pct": 37.5,
+      "over_3yr_pct": 25.0
+    },
+    {
+      "type": "生活服务",
+      "count": 77.0,
+      "within_1yr_pct": 29.9,
+      "1_3yr_pct": 24.7,
+      "over_3yr_pct": 45.5
+    },
+    {
+      "type": "运动健身",
+      "count": 11.0,
+      "within_1yr_pct": 27.3,
+      "1_3yr_pct": 18.2,
+      "over_3yr_pct": 54.5
+    },
+    {
+      "type": "车辆服务",
+      "count": 4.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 75.0
+    }
+  ]
+}

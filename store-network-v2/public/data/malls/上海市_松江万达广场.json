@@ -1,0 +1,438 @@
+{
+  "name": "松江万达广场",
+  "city": "上海市",
+  "address": "上海市松江区广富林路612号",
+  "lat": 31.057637,
+  "lng": 121.243015,
+  "overview": {
+    "score": 96.0,
+    "score_rank": "市内前30%",
+    "population_score": 86.6,
+    "area_score": 93.0,
+    "consumption_score": 68.2,
+    "industry_score": 96.1,
+    "annual_sales": "上海松江万达广场是集购物、休闲、娱乐、餐饮为一体的城市综合体，主力店主要经营中高档时尚百货（万达百货）、五星级数码影院（万达影院）、量贩式KTV（大歌星KTV）、电玩城（大玩家超乐场）、国际知名时尚品牌、大型品牌餐饮等多种业态及室内步行街。",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 18.71,
+    "open_date": "2014-05-30",
+    "operator": "珠海万达商业管理集团股份有限公司",
+    "brand": "万达",
+    "type": "综合型",
+    "floors": "B1-L6"
+  },
+  "traffic": {
+    "annual_daily": 4.67,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第37",
+    "jun_total": 171.9,
+    "jun_total_rank": "市内商场第51名",
+    "jun_daily_avg": 5.7,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第51名",
+    "weekday_avg": 4.9,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第59名",
+    "holiday_avg": 8.1,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第38名"
+  },
+  "population": {
+    "residential": {
+      "500m": 2.1,
+      "1_5km": 11.2,
+      "3km": 27.3
+    },
+    "office": {
+      "500m": 1.6,
+      "1_5km": 5.0,
+      "3km": 14.5
+    },
+    "permanent": {
+      "500m": 2.5,
+      "1_5km": 10.4,
+      "3km": 24.2
+    }
+  },
+  "business": {
+    "competitors": 7.0,
+    "food": 338.0,
+    "shopping": 294.0,
+    "leisure": 74.0,
+    "education": 72.0,
+    "hotel": 55.0,
+    "services": 395.0,
+    "fitness": 35.0,
+    "auto": 41.0,
+    "total_stores": 739.0,
+    "old_store_3yr_pct": 46.0
+  },
+  "nearby_poi": {
+    "business": 4.0,
+    "community": 91.0,
+    "office": 21.0,
+    "school": 10.0,
+    "hospital": 17.0,
+    "transport": 6.0,
+    "scenic": 38.0
+  },
+  "demographics": {
+    "male_pct": 47.5,
+    "female_pct": null,
+    "education": {
+      "小学": 8.1,
+      "初中": 17.1,
+      "高中": 16.2,
+      "大专": 6.9,
+      "本科": 45.4,
+      "硕士": 5.0,
+      "博士": 1.3
+    },
+    "has_children_pct": 63.7,
+    "no_children_pct": 36.3
+  },
+  "scraped_at": "2026-08-01T04:36:10.651Z",
+  "nearby_restaurants": [
+    {
+      "brand": "森谷小城(松江万达二店)",
+      "address": "广富林路658号万达金街159号森谷小城",
+      "distance": "2m"
+    },
+    {
+      "brand": "味绝美蛙鱼头火锅(万达广场松江店)",
+      "address": "中山街道广富林路658弄万达广场金街143号2楼",
+      "distance": "5m"
+    },
+    {
+      "brand": "茶百道(上海松江万达金街店)",
+      "address": "上海城区广富林路658弄80号1-2层商铺",
+      "distance": "8m"
+    },
+    {
+      "brand": "Yee3·三号椰`椰子炒冰(上海松江万达店)",
+      "address": "中山街道广富林路万达广场3楼(费大厨门口)",
+      "distance": "9m"
+    },
+    {
+      "brand": "费大厨辣椒炒肉(松江万达店)",
+      "address": "上海城区广富林路658号",
+      "distance": "9m"
+    },
+    {
+      "brand": "喜茶(上海松江万达广场店)",
+      "address": "广富林路658号万达广场(上海松江店)1F层1022",
+      "distance": "10m"
+    },
+    {
+      "brand": "巡湘记•乡野湖南菜(松江万达店)",
+      "address": "广富林路658号万达广场松江店3层",
+      "distance": "10m"
+    },
+    {
+      "brand": "云贵小馆",
+      "address": "松江万达",
+      "distance": "14m"
+    },
+    {
+      "brand": "正烧记卤味(松江万达店)",
+      "address": "中山街道广富林路658弄666号地下一层",
+      "distance": "14m"
+    },
+    {
+      "brand": "云边·云南罐罐米线",
+      "address": "广富林路与光星路交叉口东220米",
+      "distance": "15m"
+    },
+    {
+      "brand": "森谷小城(松江万达二店)",
+      "address": "广富林路658号万达金街159号森谷小城",
+      "distance": "2m"
+    },
+    {
+      "brand": "味绝美蛙鱼头火锅(万达广场松江店)",
+      "address": "中山街道广富林路658弄万达广场金街143号2楼",
+      "distance": "5m"
+    },
+    {
+      "brand": "茶百道(上海松江万达金街店)",
+      "address": "上海城区广富林路658弄80号1-2层商铺",
+      "distance": "8m"
+    },
+    {
+      "brand": "Yee3·三号椰`椰子炒冰(上海松江万达店)",
+      "address": "中山街道广富林路万达广场3楼(费大厨门口)",
+      "distance": "9m"
+    },
+    {
+      "brand": "费大厨辣椒炒肉(松江万达店)",
+      "address": "上海城区广富林路658号",
+      "distance": "9m"
+    },
+    {
+      "brand": "喜茶(上海松江万达广场店)",
+      "address": "广富林路658号万达广场(上海松江店)1F层1022",
+      "distance": "10m"
+    },
+    {
+      "brand": "巡湘记•乡野湖南菜(松江万达店)",
+      "address": "广富林路658号万达广场松江店3层",
+      "distance": "10m"
+    },
+    {
+      "brand": "云贵小馆",
+      "address": "松江万达",
+      "distance": "14m"
+    },
+    {
+      "brand": "正烧记卤味(松江万达店)",
+      "address": "中山街道广富林路658弄666号地下一层",
+      "distance": "14m"
+    },
+    {
+      "brand": "云边·云南罐罐米线",
+      "address": "广富林路与光星路交叉口东220米",
+      "distance": "15m"
+    },
+    {
+      "brand": "森谷小城(松江万达二店)",
+      "address": "广富林路658号万达金街159号森谷小城",
+      "distance": "2m"
+    },
+    {
+      "brand": "味绝美蛙鱼头火锅(万达广场松江店)",
+      "address": "中山街道广富林路658弄万达广场金街143号2楼",
+      "distance": "5m"
+    },
+    {
+      "brand": "茶百道(上海松江万达金街店)",
+      "address": "上海城区广富林路658弄80号1-2层商铺",
+      "distance": "8m"
+    },
+    {
+      "brand": "Yee3·三号椰`椰子炒冰(上海松江万达店)",
+      "address": "中山街道广富林路万达广场3楼(费大厨门口)",
+      "distance": "9m"
+    },
+    {
+      "brand": "费大厨辣椒炒肉(松江万达店)",
+      "address": "上海城区广富林路658号",
+      "distance": "9m"
+    },
+    {
+      "brand": "喜茶(上海松江万达广场店)",
+      "address": "广富林路658号万达广场(上海松江店)1F层1022",
+      "distance": "10m"
+    },
+    {
+      "brand": "巡湘记•乡野湖南菜(松江万达店)",
+      "address": "广富林路658号万达广场松江店3层",
+      "distance": "10m"
+    },
+    {
+      "brand": "云贵小馆",
+      "address": "松江万达",
+      "distance": "14m"
+    },
+    {
+      "brand": "正烧记卤味(松江万达店)",
+      "address": "中山街道广富林路658弄666号地下一层",
+      "distance": "14m"
+    },
+    {
+      "brand": "云边·云南罐罐米线",
+      "address": "广富林路与光星路交叉口东220米",
+      "distance": "15m"
+    },
+    {
+      "brand": "森谷小城(松江万达二店)",
+      "address": "广富林路658号万达金街159号森谷小城",
+      "distance": "2m"
+    },
+    {
+      "brand": "味绝美蛙鱼头火锅(万达广场松江店)",
+      "address": "中山街道广富林路658弄万达广场金街143号2楼",
+      "distance": "5m"
+    },
+    {
+      "brand": "茶百道(上海松江万达金街店)",
+      "address": "上海城区广富林路658弄80号1-2层商铺",
+      "distance": "8m"
+    },
+    {
+      "brand": "Yee3·三号椰`椰子炒冰(上海松江万达店)",
+      "address": "中山街道广富林路万达广场3楼(费大厨门口)",
+      "distance": "9m"
+    },
+    {
+      "brand": "费大厨辣椒炒肉(松江万达店)",
+      "address": "上海城区广富林路658号",
+      "distance": "9m"
+    },
+    {
+      "brand": "喜茶(上海松江万达广场店)",
+      "address": "广富林路658号万达广场(上海松江店)1F层1022",
+      "distance": "10m"
+    },
+    {
+      "brand": "巡湘记•乡野湖南菜(松江万达店)",
+      "address": "广富林路658号万达广场松江店3层",
+      "distance": "10m"
+    },
+    {
+      "brand": "云贵小馆",
+      "address": "松江万达",
+      "distance": "14m"
+    },
+    {
+      "brand": "正烧记卤味(松江万达店)",
+      "address": "中山街道广富林路658弄666号地下一层",
+      "distance": "14m"
+    },
+    {
+      "brand": "云边·云南罐罐米线",
+      "address": "广富林路与光星路交叉口东220米",
+      "distance": "15m"
+    },
+    {
+      "brand": "森谷小城(松江万达二店)",
+      "address": "广富林路658号万达金街159号森谷小城",
+      "distance": "2m"
+    },
+    {
+      "brand": "味绝美蛙鱼头火锅(万达广场松江店)",
+      "address": "中山街道广富林路658弄万达广场金街143号2楼",
+      "distance": "5m"
+    },
+    {
+      "brand": "茶百道(上海松江万达金街店)",
+      "address": "上海城区广富林路658弄80号1-2层商铺",
+      "distance": "8m"
+    },
+    {
+      "brand": "Yee3·三号椰`椰子炒冰(上海松江万达店)",
+      "address": "中山街道广富林路万达广场3楼(费大厨门口)",
+      "distance": "9m"
+    },
+    {
+      "brand": "费大厨辣椒炒肉(松江万达店)",
+      "address": "上海城区广富林路658号",
+      "distance": "9m"
+    },
+    {
+      "brand": "喜茶(上海松江万达广场店)",
+      "address": "广富林路658号万达广场(上海松江店)1F层1022",
+      "distance": "10m"
+    },
+    {
+      "brand": "巡湘记•乡野湖南菜(松江万达店)",
+      "address": "广富林路658号万达广场松江店3层",
+      "distance": "10m"
+    },
+    {
+      "brand": "云贵小馆",
+      "address": "松江万达",
+      "distance": "14m"
+    },
+    {
+      "brand": "正烧记卤味(松江万达店)",
+      "address": "中山街道广富林路658弄666号地下一层",
+      "distance": "14m"
+    },
+    {
+      "brand": "云边·云南罐罐米线",
+      "address": "广富林路与光星路交叉口东220米",
+      "distance": "15m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海马利来广场",
+      "open_date": "2018-05-01",
+      "area": "5万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海五龙商业广场",
+      "open_date": "2017-09-30",
+      "area": "3.5万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海阳普邻里小世界",
+      "open_date": "2021-12-14",
+      "area": "-",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海三湘财富广场",
+      "open_date": "2012-09-15",
+      "area": "37万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 212.0,
+      "within_1yr_pct": 19.3,
+      "1_3yr_pct": 32.5,
+      "over_3yr_pct": 48.1
+    },
+    {
+      "type": "购物",
+      "count": 198.0,
+      "within_1yr_pct": 19.7,
+      "1_3yr_pct": 28.3,
+      "over_3yr_pct": 52.0
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 53.0,
+      "within_1yr_pct": 41.5,
+      "1_3yr_pct": 35.8,
+      "over_3yr_pct": 22.6
+    },
+    {
+      "type": "教育培训",
+      "count": 25.0,
+      "within_1yr_pct": 28.0,
+      "1_3yr_pct": 16.0,
+      "over_3yr_pct": 56.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 23.0,
+      "within_1yr_pct": 30.4,
+      "1_3yr_pct": 13.0,
+      "over_3yr_pct": 56.5
+    },
+    {
+      "type": "生活服务",
+      "count": 203.0,
+      "within_1yr_pct": 30.0,
+      "1_3yr_pct": 28.6,
+      "over_3yr_pct": 41.4
+    },
+    {
+      "type": "运动健身",
+      "count": 9.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 55.6,
+      "over_3yr_pct": 44.4
+    },
+    {
+      "type": "车辆服务",
+      "count": 16.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 18.8,
+      "over_3yr_pct": 31.3
+    }
+  ]
+}

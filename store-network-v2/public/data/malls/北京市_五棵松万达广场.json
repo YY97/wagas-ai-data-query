@@ -1,0 +1,423 @@
+{
+  "name": "五棵松万达广场",
+  "city": "北京市",
+  "address": "北京市海淀区五棵松北路1号",
+  "lat": 39.914233,
+  "lng": 116.280042,
+  "overview": {
+    "score": 96.3,
+    "score_rank": "市内前30%",
+    "population_score": 75.6,
+    "area_score": 88.8,
+    "consumption_score": 79.1,
+    "industry_score": 96.5,
+    "annual_sales": "北京五棵松万达广场位于海淀区复兴路69号，长安街、西四环交汇处，毗邻华熙LIVE，处于五棵松商圈的核心位置。项目在建筑外轮廓不变、建筑面积不增加的前提下，对建筑平面布局和人流动线进行调整，重新规划商场布局，提升空间场景的体验性。改造后的项目将成为五棵松商圈的活力中心，也是轻资产打造闲置老旧楼宇升级改造的典型案例。此次更新由传统零售向体验消费过渡，以“未来之城”“天空花园”“地心引力”为主题，围绕情景娱乐、文化休闲、圈层社交、先锋科技4大功能，打造昼夜全时段消费中心",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 30.0,
+    "open_date": "2023-09-28",
+    "operator": "珠海万达商业管理集团股份有限公司",
+    "brand": "万达",
+    "type": "综合型",
+    "floors": "B1-L6"
+  },
+  "traffic": {
+    "annual_daily": 7.22,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第10",
+    "jun_total": 338.7,
+    "jun_total_rank": "市内商场第7名",
+    "jun_daily_avg": 11.3,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第7名",
+    "weekday_avg": 9.3,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第9名",
+    "holiday_avg": 16.7,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第3名"
+  },
+  "population": {
+    "residential": {
+      "500m": 1.1,
+      "1_5km": 20.0,
+      "3km": 74.3
+    },
+    "office": {
+      "500m": 2.5,
+      "1_5km": 15.4,
+      "3km": 42.7
+    },
+    "permanent": {
+      "500m": 2.5,
+      "1_5km": 21.9,
+      "3km": 75.4
+    }
+  },
+  "business": {
+    "competitors": 9.0,
+    "food": 358.0,
+    "shopping": 208.0,
+    "leisure": 56.0,
+    "education": 16.0,
+    "hotel": 14.0,
+    "services": 137.0,
+    "fitness": 34.0,
+    "auto": 33.0,
+    "total_stores": 414.0,
+    "old_store_3yr_pct": 44.0
+  },
+  "nearby_poi": {
+    "business": 3.0,
+    "community": 394.0,
+    "office": 28.0,
+    "school": 23.0,
+    "hospital": 71.0,
+    "transport": 5.0,
+    "scenic": 157.0
+  },
+  "demographics": {
+    "male_pct": 47.8,
+    "female_pct": null,
+    "education": {
+      "小学": 7.8,
+      "初中": 13.4,
+      "高中": 12.5,
+      "大专": 5.5,
+      "本科": 46.7,
+      "硕士": 11.1,
+      "博士": 3.0
+    },
+    "has_children_pct": 57.9,
+    "no_children_pct": 42.1
+  },
+  "scraped_at": "2026-08-01T04:31:33.631Z",
+  "nearby_restaurants": [
+    {
+      "brand": "宁海食府(五棵松万达店)",
+      "address": "复兴路69号3号楼5层503五棵松万达广场5层南区",
+      "distance": "4m"
+    },
+    {
+      "brand": "蜀到三川渝本土家常菜(万达广场店)",
+      "address": "复兴路69号北京五棵松万达广场6F层",
+      "distance": "19m"
+    },
+    {
+      "brand": "万家早安",
+      "address": "探五哩街区麦颂KTV斜对面",
+      "distance": "19m"
+    },
+    {
+      "brand": "华莱士·全鸡汉堡(北京五棵松店)",
+      "address": "复兴路69号11幢-1层-101B-131号",
+      "distance": "20m"
+    },
+    {
+      "brand": "Hi鲜榨果汁(万达广场店)",
+      "address": "复兴路69号北京五棵松万达广场LG层",
+      "distance": "28m"
+    },
+    {
+      "brand": "了辛·爆汁烤冷面(万达广场南区店)",
+      "address": "复兴路69号五棵松万达广场LG层探五哩街区B1107",
+      "distance": "32m"
+    },
+    {
+      "brand": "牛约堡-牛肉汉堡(五棵松店)",
+      "address": "复兴路69号10幢-1层-101",
+      "distance": "34m"
+    },
+    {
+      "brand": "刘阿妹·重庆鸡公煲(五棵松万达店)",
+      "address": "北京城区复兴路69号12幢负一层探五哩街区近Fudi超市出口",
+      "distance": "36m"
+    },
+    {
+      "brand": "农小锅(北京五棵松探五哩店)",
+      "address": "北京城区五棵松探五哩街区7号门负1层左转",
+      "distance": "36m"
+    },
+    {
+      "brand": "东北老式粘糊糊麻辣烫",
+      "address": "玉渊潭南路与西四环中路辅路交叉口东140米",
+      "distance": "38m"
+    },
+    {
+      "brand": "宁海食府(五棵松万达店)",
+      "address": "复兴路69号3号楼5层503五棵松万达广场5层南区",
+      "distance": "4m"
+    },
+    {
+      "brand": "蜀到三川渝本土家常菜(万达广场店)",
+      "address": "复兴路69号北京五棵松万达广场6F层",
+      "distance": "19m"
+    },
+    {
+      "brand": "万家早安",
+      "address": "探五哩街区麦颂KTV斜对面",
+      "distance": "19m"
+    },
+    {
+      "brand": "华莱士·全鸡汉堡(北京五棵松店)",
+      "address": "复兴路69号11幢-1层-101B-131号",
+      "distance": "20m"
+    },
+    {
+      "brand": "Hi鲜榨果汁(万达广场店)",
+      "address": "复兴路69号北京五棵松万达广场LG层",
+      "distance": "28m"
+    },
+    {
+      "brand": "了辛·爆汁烤冷面(万达广场南区店)",
+      "address": "复兴路69号五棵松万达广场LG层探五哩街区B1107",
+      "distance": "32m"
+    },
+    {
+      "brand": "牛约堡-牛肉汉堡(五棵松店)",
+      "address": "复兴路69号10幢-1层-101",
+      "distance": "34m"
+    },
+    {
+      "brand": "刘阿妹·重庆鸡公煲(五棵松万达店)",
+      "address": "北京城区复兴路69号12幢负一层探五哩街区近Fudi超市出口",
+      "distance": "36m"
+    },
+    {
+      "brand": "农小锅(北京五棵松探五哩店)",
+      "address": "北京城区五棵松探五哩街区7号门负1层左转",
+      "distance": "36m"
+    },
+    {
+      "brand": "东北老式粘糊糊麻辣烫",
+      "address": "玉渊潭南路与西四环中路辅路交叉口东140米",
+      "distance": "38m"
+    },
+    {
+      "brand": "宁海食府(五棵松万达店)",
+      "address": "复兴路69号3号楼5层503五棵松万达广场5层南区",
+      "distance": "4m"
+    },
+    {
+      "brand": "蜀到三川渝本土家常菜(万达广场店)",
+      "address": "复兴路69号北京五棵松万达广场6F层",
+      "distance": "19m"
+    },
+    {
+      "brand": "万家早安",
+      "address": "探五哩街区麦颂KTV斜对面",
+      "distance": "19m"
+    },
+    {
+      "brand": "华莱士·全鸡汉堡(北京五棵松店)",
+      "address": "复兴路69号11幢-1层-101B-131号",
+      "distance": "20m"
+    },
+    {
+      "brand": "Hi鲜榨果汁(万达广场店)",
+      "address": "复兴路69号北京五棵松万达广场LG层",
+      "distance": "28m"
+    },
+    {
+      "brand": "了辛·爆汁烤冷面(万达广场南区店)",
+      "address": "复兴路69号五棵松万达广场LG层探五哩街区B1107",
+      "distance": "32m"
+    },
+    {
+      "brand": "牛约堡-牛肉汉堡(五棵松店)",
+      "address": "复兴路69号10幢-1层-101",
+      "distance": "34m"
+    },
+    {
+      "brand": "刘阿妹·重庆鸡公煲(五棵松万达店)",
+      "address": "北京城区复兴路69号12幢负一层探五哩街区近Fudi超市出口",
+      "distance": "36m"
+    },
+    {
+      "brand": "农小锅(北京五棵松探五哩店)",
+      "address": "北京城区五棵松探五哩街区7号门负1层左转",
+      "distance": "36m"
+    },
+    {
+      "brand": "东北老式粘糊糊麻辣烫",
+      "address": "玉渊潭南路与西四环中路辅路交叉口东140米",
+      "distance": "38m"
+    },
+    {
+      "brand": "宁海食府(五棵松万达店)",
+      "address": "复兴路69号3号楼5层503五棵松万达广场5层南区",
+      "distance": "4m"
+    },
+    {
+      "brand": "蜀到三川渝本土家常菜(万达广场店)",
+      "address": "复兴路69号北京五棵松万达广场6F层",
+      "distance": "19m"
+    },
+    {
+      "brand": "万家早安",
+      "address": "探五哩街区麦颂KTV斜对面",
+      "distance": "19m"
+    },
+    {
+      "brand": "华莱士·全鸡汉堡(北京五棵松店)",
+      "address": "复兴路69号11幢-1层-101B-131号",
+      "distance": "20m"
+    },
+    {
+      "brand": "Hi鲜榨果汁(万达广场店)",
+      "address": "复兴路69号北京五棵松万达广场LG层",
+      "distance": "28m"
+    },
+    {
+      "brand": "了辛·爆汁烤冷面(万达广场南区店)",
+      "address": "复兴路69号五棵松万达广场LG层探五哩街区B1107",
+      "distance": "32m"
+    },
+    {
+      "brand": "牛约堡-牛肉汉堡(五棵松店)",
+      "address": "复兴路69号10幢-1层-101",
+      "distance": "34m"
+    },
+    {
+      "brand": "刘阿妹·重庆鸡公煲(五棵松万达店)",
+      "address": "北京城区复兴路69号12幢负一层探五哩街区近Fudi超市出口",
+      "distance": "36m"
+    },
+    {
+      "brand": "农小锅(北京五棵松探五哩店)",
+      "address": "北京城区五棵松探五哩街区7号门负1层左转",
+      "distance": "36m"
+    },
+    {
+      "brand": "东北老式粘糊糊麻辣烫",
+      "address": "玉渊潭南路与西四环中路辅路交叉口东140米",
+      "distance": "38m"
+    },
+    {
+      "brand": "宁海食府(五棵松万达店)",
+      "address": "复兴路69号3号楼5层503五棵松万达广场5层南区",
+      "distance": "4m"
+    },
+    {
+      "brand": "蜀到三川渝本土家常菜(万达广场店)",
+      "address": "复兴路69号北京五棵松万达广场6F层",
+      "distance": "19m"
+    },
+    {
+      "brand": "万家早安",
+      "address": "探五哩街区麦颂KTV斜对面",
+      "distance": "19m"
+    },
+    {
+      "brand": "华莱士·全鸡汉堡(北京五棵松店)",
+      "address": "复兴路69号11幢-1层-101B-131号",
+      "distance": "20m"
+    },
+    {
+      "brand": "Hi鲜榨果汁(万达广场店)",
+      "address": "复兴路69号北京五棵松万达广场LG层",
+      "distance": "28m"
+    },
+    {
+      "brand": "了辛·爆汁烤冷面(万达广场南区店)",
+      "address": "复兴路69号五棵松万达广场LG层探五哩街区B1107",
+      "distance": "32m"
+    },
+    {
+      "brand": "牛约堡-牛肉汉堡(五棵松店)",
+      "address": "复兴路69号10幢-1层-101",
+      "distance": "34m"
+    },
+    {
+      "brand": "刘阿妹·重庆鸡公煲(五棵松万达店)",
+      "address": "北京城区复兴路69号12幢负一层探五哩街区近Fudi超市出口",
+      "distance": "36m"
+    },
+    {
+      "brand": "农小锅(北京五棵松探五哩店)",
+      "address": "北京城区五棵松探五哩街区7号门负1层左转",
+      "distance": "36m"
+    },
+    {
+      "brand": "东北老式粘糊糊麻辣烫",
+      "address": "玉渊潭南路与西四环中路辅路交叉口东140米",
+      "distance": "38m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "北京华熙LIVE·五棵松店",
+      "open_date": "2017-04-01",
+      "area": "2.5万㎡",
+      "jun_daily_avg": "9.1万人次",
+      "weekday_avg": "8.2万人次",
+      "holiday_avg": "11.6万人次"
+    },
+    {
+      "name": "北京西点Mall",
+      "open_date": "2017-01-01",
+      "area": "2.5万㎡",
+      "jun_daily_avg": "2.1万人次",
+      "weekday_avg": "2.1万人次",
+      "holiday_avg": "2.3万人次"
+    },
+    {
+      "name": "北京上品折扣(五棵松店)",
+      "open_date": "2005-10-01",
+      "area": "1.2万㎡",
+      "jun_daily_avg": "2.4万人次",
+      "weekday_avg": "2.3万人次",
+      "holiday_avg": "2.6万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 173.0,
+      "within_1yr_pct": 23.7,
+      "1_3yr_pct": 33.5,
+      "over_3yr_pct": 42.8
+    },
+    {
+      "type": "购物",
+      "count": 126.0,
+      "within_1yr_pct": 16.7,
+      "1_3yr_pct": 30.2,
+      "over_3yr_pct": 53.2
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 30.0,
+      "within_1yr_pct": 23.3,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 43.3
+    },
+    {
+      "type": "教育培训",
+      "count": 12.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "生活服务",
+      "count": 49.0,
+      "within_1yr_pct": 32.7,
+      "1_3yr_pct": 42.9,
+      "over_3yr_pct": 24.5
+    },
+    {
+      "type": "运动健身",
+      "count": 14.0,
+      "within_1yr_pct": 14.3,
+      "1_3yr_pct": 21.4,
+      "over_3yr_pct": 64.3
+    },
+    {
+      "type": "车辆服务",
+      "count": 10.0,
+      "within_1yr_pct": 40.0,
+      "1_3yr_pct": 30.0,
+      "over_3yr_pct": 30.0
+    }
+  ]
+}

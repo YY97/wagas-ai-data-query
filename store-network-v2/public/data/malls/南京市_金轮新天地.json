@@ -1,0 +1,486 @@
+{
+  "name": "金轮新天地",
+  "city": "南京市",
+  "address": "江苏省南京市鼓楼区华侨路街道慈悲社沈举人巷小区",
+  "lat": 32.043928,
+  "lng": 118.780596,
+  "overview": {
+    "score": 90.6,
+    "score_rank": "市内前30%",
+    "population_score": 93.4,
+    "area_score": 95.5,
+    "consumption_score": 86.8,
+    "industry_score": 90.5,
+    "annual_sales": "",
+    "annual_sales_unit": "",
+    "area_size_sqm": null,
+    "open_date": "",
+    "operator": "",
+    "brand": "",
+    "type": "",
+    "floors": ""
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "",
+    "annual_daily_rank": "",
+    "jun_total": null,
+    "jun_total_rank": "",
+    "jun_daily_avg": null,
+    "jun_daily_unit": "",
+    "jun_daily_rank": "",
+    "weekday_avg": null,
+    "weekday_unit": "",
+    "weekday_rank": "",
+    "holiday_avg": null,
+    "holiday_unit": "",
+    "holiday_rank": ""
+  },
+  "population": {
+    "residential": {
+      "500m": 2.2,
+      "1_5km": 22.0,
+      "3km": 72.9
+    },
+    "office": {
+      "500m": 3.5,
+      "1_5km": 24.8,
+      "3km": 63.1
+    },
+    "permanent": {
+      "500m": 3.2,
+      "1_5km": 27.7,
+      "3km": 81.0
+    }
+  },
+  "business": {
+    "competitors": 12.0,
+    "food": 548.0,
+    "shopping": 725.0,
+    "leisure": 83.0,
+    "education": 122.0,
+    "hotel": 174.0,
+    "services": 449.0,
+    "fitness": 46.0,
+    "auto": 31.0,
+    "total_stores": 2199.0,
+    "old_store_3yr_pct": 49.0
+  },
+  "nearby_poi": {
+    "business": 19.0,
+    "community": 731.0,
+    "office": 163.0,
+    "school": 66.0,
+    "hospital": 184.0,
+    "transport": 8.0,
+    "scenic": 1064.0
+  },
+  "demographics": {
+    "male_pct": 44.8,
+    "female_pct": null,
+    "education": {
+      "小学": 9.4,
+      "初中": 17.3,
+      "高中": 11.9,
+      "大专": 7.5,
+      "本科": 45.1,
+      "硕士": 6.8,
+      "博士": 2.0
+    },
+    "has_children_pct": null,
+    "no_children_pct": null
+  },
+  "scraped_at": "2026-08-02T09:25:25.605Z",
+  "nearby_restaurants": [
+    {
+      "brand": "秘密花园西餐厅",
+      "address": "慈悲社与沈举人巷交叉口北60米",
+      "distance": "16m"
+    },
+    {
+      "brand": "老卤风草鸡面馆",
+      "address": "华侨路街道华侨路33号-7",
+      "distance": "42m"
+    },
+    {
+      "brand": "祖传符离集烧鸡店",
+      "address": "慈悲社5-1号附近(新街口地铁站20号口步行460米)",
+      "distance": "51m"
+    },
+    {
+      "brand": "思思家常菜馆(新街口店)",
+      "address": "慈悲社16号4栋104室",
+      "distance": "57m"
+    },
+    {
+      "brand": "咖啡komo",
+      "address": "华侨路慈悲社16幢",
+      "distance": "83m"
+    },
+    {
+      "brand": "CUPPER精品咖啡(沈举人巷小区店)",
+      "address": "沈举人巷22-4号(新街口地铁站20号口步行320米)",
+      "distance": "95m"
+    },
+    {
+      "brand": "牧心花园",
+      "address": "大锏银巷17号文艺金陵博慧楼(大草坪边白楼)",
+      "distance": "99m"
+    },
+    {
+      "brand": "TOOPO COFFEE局部咖啡(大锏银巷店)",
+      "address": "大锏银巷66-8号(上海路地铁站4号口步行340米)",
+      "distance": "99m"
+    },
+    {
+      "brand": "猪油小馄饨",
+      "address": "沈举人巷与慈悲社交叉口东80米",
+      "distance": "106m"
+    },
+    {
+      "brand": "塔斯汀中国汉堡(南京市沈举人巷店)",
+      "address": "沈举人巷19号(长发华辰大厦)",
+      "distance": "110m"
+    },
+    {
+      "brand": "秘密花园西餐厅",
+      "address": "慈悲社与沈举人巷交叉口北60米",
+      "distance": "16m"
+    },
+    {
+      "brand": "老卤风草鸡面馆",
+      "address": "华侨路街道华侨路33号-7",
+      "distance": "42m"
+    },
+    {
+      "brand": "祖传符离集烧鸡店",
+      "address": "慈悲社5-1号附近(新街口地铁站20号口步行460米)",
+      "distance": "51m"
+    },
+    {
+      "brand": "思思家常菜馆(新街口店)",
+      "address": "慈悲社16号4栋104室",
+      "distance": "57m"
+    },
+    {
+      "brand": "咖啡komo",
+      "address": "华侨路慈悲社16幢",
+      "distance": "83m"
+    },
+    {
+      "brand": "CUPPER精品咖啡(沈举人巷小区店)",
+      "address": "沈举人巷22-4号(新街口地铁站20号口步行320米)",
+      "distance": "95m"
+    },
+    {
+      "brand": "牧心花园",
+      "address": "大锏银巷17号文艺金陵博慧楼(大草坪边白楼)",
+      "distance": "99m"
+    },
+    {
+      "brand": "TOOPO COFFEE局部咖啡(大锏银巷店)",
+      "address": "大锏银巷66-8号(上海路地铁站4号口步行340米)",
+      "distance": "99m"
+    },
+    {
+      "brand": "猪油小馄饨",
+      "address": "沈举人巷与慈悲社交叉口东80米",
+      "distance": "106m"
+    },
+    {
+      "brand": "塔斯汀中国汉堡(南京市沈举人巷店)",
+      "address": "沈举人巷19号(长发华辰大厦)",
+      "distance": "110m"
+    },
+    {
+      "brand": "秘密花园西餐厅",
+      "address": "慈悲社与沈举人巷交叉口北60米",
+      "distance": "16m"
+    },
+    {
+      "brand": "老卤风草鸡面馆",
+      "address": "华侨路街道华侨路33号-7",
+      "distance": "42m"
+    },
+    {
+      "brand": "祖传符离集烧鸡店",
+      "address": "慈悲社5-1号附近(新街口地铁站20号口步行460米)",
+      "distance": "51m"
+    },
+    {
+      "brand": "思思家常菜馆(新街口店)",
+      "address": "慈悲社16号4栋104室",
+      "distance": "57m"
+    },
+    {
+      "brand": "咖啡komo",
+      "address": "华侨路慈悲社16幢",
+      "distance": "83m"
+    },
+    {
+      "brand": "CUPPER精品咖啡(沈举人巷小区店)",
+      "address": "沈举人巷22-4号(新街口地铁站20号口步行320米)",
+      "distance": "95m"
+    },
+    {
+      "brand": "牧心花园",
+      "address": "大锏银巷17号文艺金陵博慧楼(大草坪边白楼)",
+      "distance": "99m"
+    },
+    {
+      "brand": "TOOPO COFFEE局部咖啡(大锏银巷店)",
+      "address": "大锏银巷66-8号(上海路地铁站4号口步行340米)",
+      "distance": "99m"
+    },
+    {
+      "brand": "猪油小馄饨",
+      "address": "沈举人巷与慈悲社交叉口东80米",
+      "distance": "106m"
+    },
+    {
+      "brand": "塔斯汀中国汉堡(南京市沈举人巷店)",
+      "address": "沈举人巷19号(长发华辰大厦)",
+      "distance": "110m"
+    },
+    {
+      "brand": "秘密花园西餐厅",
+      "address": "慈悲社与沈举人巷交叉口北60米",
+      "distance": "16m"
+    },
+    {
+      "brand": "老卤风草鸡面馆",
+      "address": "华侨路街道华侨路33号-7",
+      "distance": "42m"
+    },
+    {
+      "brand": "祖传符离集烧鸡店",
+      "address": "慈悲社5-1号附近(新街口地铁站20号口步行460米)",
+      "distance": "51m"
+    },
+    {
+      "brand": "思思家常菜馆(新街口店)",
+      "address": "慈悲社16号4栋104室",
+      "distance": "57m"
+    },
+    {
+      "brand": "咖啡komo",
+      "address": "华侨路慈悲社16幢",
+      "distance": "83m"
+    },
+    {
+      "brand": "CUPPER精品咖啡(沈举人巷小区店)",
+      "address": "沈举人巷22-4号(新街口地铁站20号口步行320米)",
+      "distance": "95m"
+    },
+    {
+      "brand": "牧心花园",
+      "address": "大锏银巷17号文艺金陵博慧楼(大草坪边白楼)",
+      "distance": "99m"
+    },
+    {
+      "brand": "TOOPO COFFEE局部咖啡(大锏银巷店)",
+      "address": "大锏银巷66-8号(上海路地铁站4号口步行340米)",
+      "distance": "99m"
+    },
+    {
+      "brand": "猪油小馄饨",
+      "address": "沈举人巷与慈悲社交叉口东80米",
+      "distance": "106m"
+    },
+    {
+      "brand": "塔斯汀中国汉堡(南京市沈举人巷店)",
+      "address": "沈举人巷19号(长发华辰大厦)",
+      "distance": "110m"
+    },
+    {
+      "brand": "秘密花园西餐厅",
+      "address": "慈悲社与沈举人巷交叉口北60米",
+      "distance": "16m"
+    },
+    {
+      "brand": "老卤风草鸡面馆",
+      "address": "华侨路街道华侨路33号-7",
+      "distance": "42m"
+    },
+    {
+      "brand": "祖传符离集烧鸡店",
+      "address": "慈悲社5-1号附近(新街口地铁站20号口步行460米)",
+      "distance": "51m"
+    },
+    {
+      "brand": "思思家常菜馆(新街口店)",
+      "address": "慈悲社16号4栋104室",
+      "distance": "57m"
+    },
+    {
+      "brand": "咖啡komo",
+      "address": "华侨路慈悲社16幢",
+      "distance": "83m"
+    },
+    {
+      "brand": "CUPPER精品咖啡(沈举人巷小区店)",
+      "address": "沈举人巷22-4号(新街口地铁站20号口步行320米)",
+      "distance": "95m"
+    },
+    {
+      "brand": "牧心花园",
+      "address": "大锏银巷17号文艺金陵博慧楼(大草坪边白楼)",
+      "distance": "99m"
+    },
+    {
+      "brand": "TOOPO COFFEE局部咖啡(大锏银巷店)",
+      "address": "大锏银巷66-8号(上海路地铁站4号口步行340米)",
+      "distance": "99m"
+    },
+    {
+      "brand": "猪油小馄饨",
+      "address": "沈举人巷与慈悲社交叉口东80米",
+      "distance": "106m"
+    },
+    {
+      "brand": "塔斯汀中国汉堡(南京市沈举人巷店)",
+      "address": "沈举人巷19号(长发华辰大厦)",
+      "distance": "110m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "南京金轮新天地",
+      "open_date": "2008-08-01",
+      "area": "1.8万㎡",
+      "jun_daily_avg": "1.8万人次",
+      "weekday_avg": "1.7万人次",
+      "holiday_avg": "1.9万人次"
+    },
+    {
+      "name": "南京金鹰国际购物中心(新街口店)",
+      "open_date": "1996-01-01",
+      "area": "11万㎡",
+      "jun_daily_avg": "5.5万人次",
+      "weekday_avg": "5万人次",
+      "holiday_avg": "6.7万人次"
+    },
+    {
+      "name": "南京友谊广场",
+      "open_date": "2016-09-30",
+      "area": "3.5万㎡",
+      "jun_daily_avg": "1.8万人次",
+      "weekday_avg": "1.6万人次",
+      "holiday_avg": "2.3万人次"
+    },
+    {
+      "name": "南京JLC金陵中環",
+      "open_date": "2023-09-28",
+      "area": "8.6万㎡",
+      "jun_daily_avg": "9.1万人次",
+      "weekday_avg": "7.9万人次",
+      "holiday_avg": "12.3万人次"
+    },
+    {
+      "name": "南京德基广场",
+      "open_date": "2006-06-26",
+      "area": "12.8万㎡",
+      "jun_daily_avg": "15.1万人次",
+      "weekday_avg": "13.2万人次",
+      "holiday_avg": "20.5万人次"
+    },
+    {
+      "name": "南京House of Fraser 东方福来德",
+      "open_date": "2016-12-01",
+      "area": "5.5万㎡",
+      "jun_daily_avg": "12.5万人次",
+      "weekday_avg": "10.8万人次",
+      "holiday_avg": "17.2万人次"
+    },
+    {
+      "name": "南京ist艾尚天地购物中心",
+      "open_date": "2012-10-01",
+      "area": "5万㎡",
+      "jun_daily_avg": "2.7万人次",
+      "weekday_avg": "2.4万人次",
+      "holiday_avg": "3.4万人次"
+    },
+    {
+      "name": "南京新百",
+      "open_date": "2021-08-01",
+      "area": "6万㎡",
+      "jun_daily_avg": "8.9万人次",
+      "weekday_avg": "7.6万人次",
+      "holiday_avg": "12.5万人次"
+    },
+    {
+      "name": "南京新街口大洋百货",
+      "open_date": "2003-01-01",
+      "area": "4万㎡",
+      "jun_daily_avg": "4.7万人次",
+      "weekday_avg": "4万人次",
+      "holiday_avg": "6.6万人次"
+    },
+    {
+      "name": "南京时尚莱迪商城",
+      "open_date": "2005-04-01",
+      "area": "2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 548.0,
+      "within_1yr_pct": 21.2,
+      "1_3yr_pct": 30.8,
+      "over_3yr_pct": 48.0
+    },
+    {
+      "type": "购物",
+      "count": 725.0,
+      "within_1yr_pct": 21.1,
+      "1_3yr_pct": 27.0,
+      "over_3yr_pct": 51.9
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 104.0,
+      "within_1yr_pct": 37.5,
+      "1_3yr_pct": 31.7,
+      "over_3yr_pct": 30.8
+    },
+    {
+      "type": "教育培训",
+      "count": 122.0,
+      "within_1yr_pct": 16.4,
+      "1_3yr_pct": 30.3,
+      "over_3yr_pct": 53.3
+    },
+    {
+      "type": "酒店住宿",
+      "count": 174.0,
+      "within_1yr_pct": 31.0,
+      "1_3yr_pct": 29.3,
+      "over_3yr_pct": 39.7
+    },
+    {
+      "type": "生活服务",
+      "count": 449.0,
+      "within_1yr_pct": 21.2,
+      "1_3yr_pct": 27.6,
+      "over_3yr_pct": 51.2
+    },
+    {
+      "type": "运动健身",
+      "count": 46.0,
+      "within_1yr_pct": 15.2,
+      "1_3yr_pct": 32.6,
+      "over_3yr_pct": 52.2
+    },
+    {
+      "type": "车辆服务",
+      "count": 31.0,
+      "within_1yr_pct": 22.6,
+      "1_3yr_pct": 32.3,
+      "over_3yr_pct": 45.2
+    }
+  ]
+}

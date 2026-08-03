@@ -1,0 +1,154 @@
+{
+  "name": "max city 百佳华购物中心(坂田店)",
+  "city": "深圳市",
+  "address": "广东省深圳市龙岗区坂田街道吉华路653号",
+  "lat": 22.632872,
+  "lng": 114.059574,
+  "overview": {
+    "score": 93.1,
+    "score_rank": "市内前30%",
+    "population_score": 100.0,
+    "area_score": 95.5,
+    "consumption_score": 74.6,
+    "industry_score": 93.1,
+    "annual_sales": "百佳华Max city，又称百佳华领汇广场，位于深圳市龙岗坂田街道五和大道和吉华路交汇处 。该位置是龙坂繁华原点，拥有深圳核心位置的资源优势，双地铁交汇，为坂田带来全新商业体验 。",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 5.0,
+    "open_date": "2016-12-24",
+    "operator": "深圳市百佳华百货有限公司",
+    "brand": "",
+    "type": "综合型",
+    "floors": "B1-L6"
+  },
+  "traffic": {
+    "annual_daily": 2.26,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第81",
+    "jun_total": 108.3,
+    "jun_total_rank": "市内商场第72名",
+    "jun_daily_avg": 3.6,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第72名",
+    "weekday_avg": 3.1,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第79名",
+    "holiday_avg": 5.0,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第66名"
+  },
+  "population": {
+    "residential": {
+      "500m": 7.7,
+      "1_5km": 43.0,
+      "3km": 133.7
+    },
+    "office": {
+      "500m": 3.1,
+      "1_5km": 19.6,
+      "3km": 69.9
+    },
+    "permanent": {
+      "500m": 6.4,
+      "1_5km": 34.3,
+      "3km": 106.4
+    }
+  },
+  "business": {
+    "competitors": 8.0,
+    "food": 885.0,
+    "shopping": 563.0,
+    "leisure": 67.0,
+    "education": 56.0,
+    "hotel": 171.0,
+    "services": 450.0,
+    "fitness": 40.0,
+    "auto": 31.0,
+    "total_stores": 145.0,
+    "old_store_3yr_pct": 45.0
+  },
+  "nearby_poi": {
+    "business": 10.0,
+    "community": 363.0,
+    "office": 137.0,
+    "school": 35.0,
+    "hospital": 142.0,
+    "transport": 11.0,
+    "scenic": 119.0
+  },
+  "demographics": {
+    "male_pct": 49.9,
+    "female_pct": null,
+    "education": {
+      "小学": 8.6,
+      "初中": 16.8,
+      "高中": 11.7,
+      "大专": 13.7,
+      "本科": 45.6,
+      "硕士": 3.1,
+      "博士": 0.5
+    },
+    "has_children_pct": 61.2,
+    "no_children_pct": 38.8
+  },
+  "scraped_at": "2026-08-02T06:45:58.809Z",
+  "nearby_restaurants": [],
+  "nearby_malls": [],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 42.0,
+      "within_1yr_pct": 14.3,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 52.4
+    },
+    {
+      "type": "购物",
+      "count": 30.0,
+      "within_1yr_pct": 23.3,
+      "1_3yr_pct": 36.7,
+      "over_3yr_pct": 40.0
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 10.0,
+      "within_1yr_pct": 40.0,
+      "1_3yr_pct": 30.0,
+      "over_3yr_pct": 30.0
+    },
+    {
+      "type": "教育培训",
+      "count": 4.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 75.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 2.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "生活服务",
+      "count": 54.0,
+      "within_1yr_pct": 29.6,
+      "1_3yr_pct": 25.9,
+      "over_3yr_pct": 44.4
+    },
+    {
+      "type": "运动健身",
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 1.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
+    }
+  ]
+}

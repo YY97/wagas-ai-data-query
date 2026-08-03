@@ -1,0 +1,336 @@
+{
+  "name": "王府井购物中心(右安门店)",
+  "city": "北京市",
+  "address": "上海市静安区石门二路街道郑家巷小区嘉地中心",
+  "lat": null,
+  "lng": null,
+  "overview": {
+    "score": 84.8,
+    "score_rank": "市内前30%",
+    "population_score": 92.3,
+    "area_score": 99.8,
+    "consumption_score": 86.3,
+    "industry_score": 84.7,
+    "annual_sales": "",
+    "annual_sales_unit": "",
+    "area_size_sqm": null,
+    "open_date": "",
+    "operator": "",
+    "brand": "",
+    "type": "",
+    "floors": ""
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "",
+    "annual_daily_rank": "",
+    "jun_total": null,
+    "jun_total_rank": "",
+    "jun_daily_avg": null,
+    "jun_daily_unit": "",
+    "jun_daily_rank": "",
+    "weekday_avg": null,
+    "weekday_unit": "",
+    "weekday_rank": "",
+    "holiday_avg": null,
+    "holiday_unit": "",
+    "holiday_rank": ""
+  },
+  "population": {
+    "residential": {
+      "500m": 2.6,
+      "1_5km": 22.1,
+      "3km": 97.7
+    },
+    "office": {
+      "500m": 4.0,
+      "1_5km": 31.1,
+      "3km": 106.4
+    },
+    "permanent": {
+      "500m": 3.3,
+      "1_5km": 27.3,
+      "3km": 118.0
+    }
+  },
+  "business": {
+    "competitors": 16.0,
+    "food": 443.0,
+    "shopping": 328.0,
+    "leisure": 39.0,
+    "education": 35.0,
+    "hotel": 115.0,
+    "services": 402.0,
+    "fitness": 50.0,
+    "auto": 23.0,
+    "total_stores": 1467.0,
+    "old_store_3yr_pct": 48.0
+  },
+  "nearby_poi": {
+    "business": 21.0,
+    "community": 1141.0,
+    "office": 230.0,
+    "school": 70.0,
+    "hospital": 221.0,
+    "transport": 14.0,
+    "scenic": 740.0
+  },
+  "demographics": {
+    "male_pct": 47.1,
+    "female_pct": null,
+    "education": {
+      "小学": 9.1,
+      "初中": 17.9,
+      "高中": 12.0,
+      "大专": 6.8,
+      "本科": 47.9,
+      "硕士": 4.7,
+      "博士": 1.6
+    },
+    "has_children_pct": null,
+    "no_children_pct": null
+  },
+  "scraped_at": "2026-08-01T07:44:15.863Z",
+  "nearby_restaurants": [
+    {
+      "brand": "星巴克",
+      "address": "星巴克",
+      "distance": "2020.06.01"
+    },
+    {
+      "brand": "MANNER Coffee",
+      "address": "南汇路75号店",
+      "distance": "2024.09.01"
+    },
+    {
+      "brand": "MANNER Coffee",
+      "address": "美琪大戏院店",
+      "distance": "2020.01.01"
+    },
+    {
+      "brand": "星巴克",
+      "address": "星巴克远中风华店",
+      "distance": "2020.06.01"
+    },
+    {
+      "brand": "星巴克",
+      "address": "星巴克静安紫苑店",
+      "distance": "2020.06.01"
+    },
+    {
+      "brand": "星巴克",
+      "address": "上海中信泰富1楼店",
+      "distance": "2025.08.01"
+    },
+    {
+      "brand": "星巴克",
+      "address": "星巴克金鹰店",
+      "distance": "2020.06.01"
+    },
+    {
+      "brand": "霸王茶姬",
+      "address": "上海金鹰国际购物广场店",
+      "distance": "2020.06.01"
+    },
+    {
+      "brand": "星巴克",
+      "address": "上海中信泰富3F店",
+      "distance": "2020.06.01"
+    },
+    {
+      "brand": "霸王茶姬",
+      "address": "上海吴江路店",
+      "distance": "2020.06.01"
+    },
+    {
+      "brand": "星巴克",
+      "address": "星巴克",
+      "distance": "2020.06.01"
+    },
+    {
+      "brand": "MANNER Coffee",
+      "address": "南汇路75号店",
+      "distance": "2024.09.01"
+    },
+    {
+      "brand": "MANNER Coffee",
+      "address": "美琪大戏院店",
+      "distance": "2020.01.01"
+    },
+    {
+      "brand": "星巴克",
+      "address": "星巴克远中风华店",
+      "distance": "2020.06.01"
+    },
+    {
+      "brand": "星巴克",
+      "address": "星巴克静安紫苑店",
+      "distance": "2020.06.01"
+    },
+    {
+      "brand": "星巴克",
+      "address": "上海中信泰富1楼店",
+      "distance": "2025.08.01"
+    },
+    {
+      "brand": "星巴克",
+      "address": "星巴克金鹰店",
+      "distance": "2020.06.01"
+    },
+    {
+      "brand": "霸王茶姬",
+      "address": "上海金鹰国际购物广场店",
+      "distance": "2020.06.01"
+    },
+    {
+      "brand": "星巴克",
+      "address": "上海中信泰富3F店",
+      "distance": "2020.06.01"
+    },
+    {
+      "brand": "霸王茶姬",
+      "address": "上海吴江路店",
+      "distance": "2020.06.01"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海通利商厦",
+      "open_date": "2004-11-01",
+      "area": "-",
+      "jun_daily_avg": "1.1万人次",
+      "weekday_avg": "1.1万人次",
+      "holiday_avg": "1.1万人次"
+    },
+    {
+      "name": "上海金鹰国际购物广场",
+      "open_date": "2024-01-26",
+      "area": "3.8万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海中信泰富广场",
+      "open_date": "2002-06-15",
+      "area": "3.5万㎡",
+      "jun_daily_avg": "1.1万人次",
+      "weekday_avg": "1.1万人次",
+      "holiday_avg": "1.1万人次"
+    },
+    {
+      "name": "上海湟普汇商场",
+      "open_date": "-",
+      "area": "2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海南京西路818广场",
+      "open_date": "2009-10-26",
+      "area": "2.1万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海恒隆广场",
+      "open_date": "2001-07-14",
+      "area": "11.4万㎡",
+      "jun_daily_avg": "2.2万人次",
+      "weekday_avg": "2.2万人次",
+      "holiday_avg": "2万人次"
+    },
+    {
+      "name": "上海张园·丰盛里",
+      "open_date": "2017-04-01",
+      "area": "1.4万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海JC PLAZA锦沧文华广场",
+      "open_date": "2022-08-18",
+      "area": "2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海商城",
+      "open_date": "1990-04-27",
+      "area": "3万㎡",
+      "jun_daily_avg": "1.2万人次",
+      "weekday_avg": "1.2万人次",
+      "holiday_avg": "1.3万人次"
+    },
+    {
+      "name": "上海兴业太古汇",
+      "open_date": "2017-11-03",
+      "area": "10.3万㎡",
+      "jun_daily_avg": "6万人次",
+      "weekday_avg": "5.9万人次",
+      "holiday_avg": "6.4万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 443.0,
+      "within_1yr_pct": 21.9,
+      "1_3yr_pct": 28.4,
+      "over_3yr_pct": 49.7
+    },
+    {
+      "type": "购物",
+      "count": 328.0,
+      "within_1yr_pct": 21.3,
+      "1_3yr_pct": 31.7,
+      "over_3yr_pct": 47.0
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 71.0,
+      "within_1yr_pct": 28.2,
+      "1_3yr_pct": 43.7,
+      "over_3yr_pct": 28.2
+    },
+    {
+      "type": "教育培训",
+      "count": 35.0,
+      "within_1yr_pct": 25.7,
+      "1_3yr_pct": 31.4,
+      "over_3yr_pct": 42.9
+    },
+    {
+      "type": "酒店住宿",
+      "count": 115.0,
+      "within_1yr_pct": 42.6,
+      "1_3yr_pct": 22.6,
+      "over_3yr_pct": 34.8
+    },
+    {
+      "type": "生活服务",
+      "count": 402.0,
+      "within_1yr_pct": 20.9,
+      "1_3yr_pct": 23.9,
+      "over_3yr_pct": 55.2
+    },
+    {
+      "type": "运动健身",
+      "count": 50.0,
+      "within_1yr_pct": 22.0,
+      "1_3yr_pct": 26.0,
+      "over_3yr_pct": 52.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 23.0,
+      "within_1yr_pct": 26.1,
+      "1_3yr_pct": 30.4,
+      "over_3yr_pct": 43.5
+    }
+  ]
+}

@@ -1,0 +1,415 @@
+{
+  "name": "清河万象汇",
+  "city": "北京市",
+  "address": "北京市海淀区清河中街68号",
+  "lat": 40.030445,
+  "lng": 116.335206,
+  "overview": {
+    "score": 95.0,
+    "score_rank": "市内前30%",
+    "population_score": 91.3,
+    "area_score": 80.9,
+    "consumption_score": 84.8,
+    "industry_score": 95.1,
+    "annual_sales": "2.6",
+    "annual_sales_unit": "亿元",
+    "area_size_sqm": 20.0,
+    "open_date": "2020-12-18",
+    "operator": "华润万象生活有限公司",
+    "brand": "华润",
+    "type": "购物型",
+    "floors": "B2-L5"
+  },
+  "traffic": {
+    "annual_daily": 4.05,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第38",
+    "jun_total": 187.5,
+    "jun_total_rank": "市内商场第27名",
+    "jun_daily_avg": 6.3,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第27名",
+    "weekday_avg": 5.6,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第26名",
+    "holiday_avg": 8.1,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第28名"
+  },
+  "population": {
+    "residential": {
+      "500m": 2.4,
+      "1_5km": 15.1,
+      "3km": 55.3
+    },
+    "office": {
+      "500m": 1.0,
+      "1_5km": 6.0,
+      "3km": 33.9
+    },
+    "permanent": {
+      "500m": 2.5,
+      "1_5km": 13.5,
+      "3km": 52.0
+    }
+  },
+  "business": {
+    "competitors": 4.0,
+    "food": 120.0,
+    "shopping": 205.0,
+    "leisure": 12.0,
+    "education": 25.0,
+    "hotel": 6.0,
+    "services": 131.0,
+    "fitness": 7.0,
+    "auto": 14.0,
+    "total_stores": 331.0,
+    "old_store_3yr_pct": 56.0
+  },
+  "nearby_poi": {
+    "business": 2.0,
+    "community": 252.0,
+    "office": 23.0,
+    "school": 31.0,
+    "hospital": 43.0,
+    "transport": 7.0,
+    "scenic": 128.0
+  },
+  "demographics": {
+    "male_pct": 47.7,
+    "female_pct": null,
+    "education": {
+      "小学": 6.3,
+      "初中": 13.0,
+      "高中": 17.5,
+      "大专": 3.8,
+      "本科": 44.8,
+      "硕士": 10.6,
+      "博士": 4.0
+    },
+    "has_children_pct": 56.4,
+    "no_children_pct": 43.6
+  },
+  "scraped_at": "2026-08-01T04:47:45.402Z",
+  "nearby_restaurants": [
+    {
+      "brand": "和府捞面(北京清河万象汇店)",
+      "address": "清河中街68号清河万象汇西区5层L501",
+      "distance": "3m"
+    },
+    {
+      "brand": "伊豆野菜村(清河万象汇店)",
+      "address": "清河中街华润五彩城五楼东区L559",
+      "distance": "10m"
+    },
+    {
+      "brand": "西塔老太太泥炉烤肉(清河万象汇店)",
+      "address": "清河中街68号清河万象汇东区6层",
+      "distance": "12m"
+    },
+    {
+      "brand": "PHO爺越南料理",
+      "address": "北京城区清河中街66号院1号楼4层401",
+      "distance": "16m"
+    },
+    {
+      "brand": "布歌东京(北京清河万象汇店)",
+      "address": "北京城区清河中街清河万象汇东区一层西门L163号商铺",
+      "distance": "20m"
+    },
+    {
+      "brand": "王繁星面馆(清河万象汇店)",
+      "address": "清河中街68号北京清河万象汇东区L5层L560",
+      "distance": "21m"
+    },
+    {
+      "brand": "巴奴毛肚火锅(清河万象汇店)",
+      "address": "清河中街66号院1号楼6层L655东区西门4-5电梯上六楼即到",
+      "distance": "22m"
+    },
+    {
+      "brand": "艾炒酸奶(北京清河万象汇店)",
+      "address": "北京城区清河中街68号北京清河万象汇东区L4层L4K01",
+      "distance": "26m"
+    },
+    {
+      "brand": "宝珠奶酪(清河万象汇东区店)",
+      "address": "清河中街68号北京清河万象汇东区L5层L557A",
+      "distance": "31m"
+    },
+    {
+      "brand": "滇大池云南菜·蒸汽石锅鱼(清河万象汇店)",
+      "address": "清河中街68号北京清河万象汇东区L6层L654",
+      "distance": "33m"
+    },
+    {
+      "brand": "和府捞面(北京清河万象汇店)",
+      "address": "清河中街68号清河万象汇西区5层L501",
+      "distance": "3m"
+    },
+    {
+      "brand": "伊豆野菜村(清河万象汇店)",
+      "address": "清河中街华润五彩城五楼东区L559",
+      "distance": "10m"
+    },
+    {
+      "brand": "西塔老太太泥炉烤肉(清河万象汇店)",
+      "address": "清河中街68号清河万象汇东区6层",
+      "distance": "12m"
+    },
+    {
+      "brand": "PHO爺越南料理",
+      "address": "北京城区清河中街66号院1号楼4层401",
+      "distance": "16m"
+    },
+    {
+      "brand": "布歌东京(北京清河万象汇店)",
+      "address": "北京城区清河中街清河万象汇东区一层西门L163号商铺",
+      "distance": "20m"
+    },
+    {
+      "brand": "王繁星面馆(清河万象汇店)",
+      "address": "清河中街68号北京清河万象汇东区L5层L560",
+      "distance": "21m"
+    },
+    {
+      "brand": "巴奴毛肚火锅(清河万象汇店)",
+      "address": "清河中街66号院1号楼6层L655东区西门4-5电梯上六楼即到",
+      "distance": "22m"
+    },
+    {
+      "brand": "艾炒酸奶(北京清河万象汇店)",
+      "address": "北京城区清河中街68号北京清河万象汇东区L4层L4K01",
+      "distance": "26m"
+    },
+    {
+      "brand": "宝珠奶酪(清河万象汇东区店)",
+      "address": "清河中街68号北京清河万象汇东区L5层L557A",
+      "distance": "31m"
+    },
+    {
+      "brand": "滇大池云南菜·蒸汽石锅鱼(清河万象汇店)",
+      "address": "清河中街68号北京清河万象汇东区L6层L654",
+      "distance": "33m"
+    },
+    {
+      "brand": "和府捞面(北京清河万象汇店)",
+      "address": "清河中街68号清河万象汇西区5层L501",
+      "distance": "3m"
+    },
+    {
+      "brand": "伊豆野菜村(清河万象汇店)",
+      "address": "清河中街华润五彩城五楼东区L559",
+      "distance": "10m"
+    },
+    {
+      "brand": "西塔老太太泥炉烤肉(清河万象汇店)",
+      "address": "清河中街68号清河万象汇东区6层",
+      "distance": "12m"
+    },
+    {
+      "brand": "PHO爺越南料理",
+      "address": "北京城区清河中街66号院1号楼4层401",
+      "distance": "16m"
+    },
+    {
+      "brand": "布歌东京(北京清河万象汇店)",
+      "address": "北京城区清河中街清河万象汇东区一层西门L163号商铺",
+      "distance": "20m"
+    },
+    {
+      "brand": "王繁星面馆(清河万象汇店)",
+      "address": "清河中街68号北京清河万象汇东区L5层L560",
+      "distance": "21m"
+    },
+    {
+      "brand": "巴奴毛肚火锅(清河万象汇店)",
+      "address": "清河中街66号院1号楼6层L655东区西门4-5电梯上六楼即到",
+      "distance": "22m"
+    },
+    {
+      "brand": "艾炒酸奶(北京清河万象汇店)",
+      "address": "北京城区清河中街68号北京清河万象汇东区L4层L4K01",
+      "distance": "26m"
+    },
+    {
+      "brand": "宝珠奶酪(清河万象汇东区店)",
+      "address": "清河中街68号北京清河万象汇东区L5层L557A",
+      "distance": "31m"
+    },
+    {
+      "brand": "滇大池云南菜·蒸汽石锅鱼(清河万象汇店)",
+      "address": "清河中街68号北京清河万象汇东区L6层L654",
+      "distance": "33m"
+    },
+    {
+      "brand": "和府捞面(北京清河万象汇店)",
+      "address": "清河中街68号清河万象汇西区5层L501",
+      "distance": "3m"
+    },
+    {
+      "brand": "伊豆野菜村(清河万象汇店)",
+      "address": "清河中街华润五彩城五楼东区L559",
+      "distance": "10m"
+    },
+    {
+      "brand": "西塔老太太泥炉烤肉(清河万象汇店)",
+      "address": "清河中街68号清河万象汇东区6层",
+      "distance": "12m"
+    },
+    {
+      "brand": "PHO爺越南料理",
+      "address": "北京城区清河中街66号院1号楼4层401",
+      "distance": "16m"
+    },
+    {
+      "brand": "布歌东京(北京清河万象汇店)",
+      "address": "北京城区清河中街清河万象汇东区一层西门L163号商铺",
+      "distance": "20m"
+    },
+    {
+      "brand": "王繁星面馆(清河万象汇店)",
+      "address": "清河中街68号北京清河万象汇东区L5层L560",
+      "distance": "21m"
+    },
+    {
+      "brand": "巴奴毛肚火锅(清河万象汇店)",
+      "address": "清河中街66号院1号楼6层L655东区西门4-5电梯上六楼即到",
+      "distance": "22m"
+    },
+    {
+      "brand": "艾炒酸奶(北京清河万象汇店)",
+      "address": "北京城区清河中街68号北京清河万象汇东区L4层L4K01",
+      "distance": "26m"
+    },
+    {
+      "brand": "宝珠奶酪(清河万象汇东区店)",
+      "address": "清河中街68号北京清河万象汇东区L5层L557A",
+      "distance": "31m"
+    },
+    {
+      "brand": "滇大池云南菜·蒸汽石锅鱼(清河万象汇店)",
+      "address": "清河中街68号北京清河万象汇东区L6层L654",
+      "distance": "33m"
+    },
+    {
+      "brand": "和府捞面(北京清河万象汇店)",
+      "address": "清河中街68号清河万象汇西区5层L501",
+      "distance": "3m"
+    },
+    {
+      "brand": "伊豆野菜村(清河万象汇店)",
+      "address": "清河中街华润五彩城五楼东区L559",
+      "distance": "10m"
+    },
+    {
+      "brand": "西塔老太太泥炉烤肉(清河万象汇店)",
+      "address": "清河中街68号清河万象汇东区6层",
+      "distance": "12m"
+    },
+    {
+      "brand": "PHO爺越南料理",
+      "address": "北京城区清河中街66号院1号楼4层401",
+      "distance": "16m"
+    },
+    {
+      "brand": "布歌东京(北京清河万象汇店)",
+      "address": "北京城区清河中街清河万象汇东区一层西门L163号商铺",
+      "distance": "20m"
+    },
+    {
+      "brand": "王繁星面馆(清河万象汇店)",
+      "address": "清河中街68号北京清河万象汇东区L5层L560",
+      "distance": "21m"
+    },
+    {
+      "brand": "巴奴毛肚火锅(清河万象汇店)",
+      "address": "清河中街66号院1号楼6层L655东区西门4-5电梯上六楼即到",
+      "distance": "22m"
+    },
+    {
+      "brand": "艾炒酸奶(北京清河万象汇店)",
+      "address": "北京城区清河中街68号北京清河万象汇东区L4层L4K01",
+      "distance": "26m"
+    },
+    {
+      "brand": "宝珠奶酪(清河万象汇东区店)",
+      "address": "清河中街68号北京清河万象汇东区L5层L557A",
+      "distance": "31m"
+    },
+    {
+      "brand": "滇大池云南菜·蒸汽石锅鱼(清河万象汇店)",
+      "address": "清河中街68号北京清河万象汇东区L6层L654",
+      "distance": "33m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "清河百货商场",
+      "open_date": "-",
+      "area": "3000㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "北京泰鑫源商厦",
+      "open_date": "2005-09-06",
+      "area": "1.4万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 106.0,
+      "within_1yr_pct": 17.9,
+      "1_3yr_pct": 22.6,
+      "over_3yr_pct": 59.4
+    },
+    {
+      "type": "购物",
+      "count": 162.0,
+      "within_1yr_pct": 13.6,
+      "1_3yr_pct": 27.8,
+      "over_3yr_pct": 58.6
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 8.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "教育培训",
+      "count": 6.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 16.7
+    },
+    {
+      "type": "生活服务",
+      "count": 32.0,
+      "within_1yr_pct": 31.3,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 43.8
+    },
+    {
+      "type": "运动健身",
+      "count": 5.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 60.0,
+      "over_3yr_pct": 40.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 12.0,
+      "within_1yr_pct": 16.7,
+      "1_3yr_pct": 41.7,
+      "over_3yr_pct": 41.7
+    }
+  ]
+}

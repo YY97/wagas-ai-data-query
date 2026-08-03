@@ -1,0 +1,430 @@
+{
+  "name": "嘉定宝龙广场",
+  "city": "上海市",
+  "address": "上海市嘉定区阿克苏路1099号",
+  "lat": 31.345663,
+  "lng": 121.260556,
+  "overview": {
+    "score": 95.2,
+    "score_rank": "市内前30%",
+    "population_score": 83.9,
+    "area_score": 78.6,
+    "consumption_score": 67.9,
+    "industry_score": 95.4,
+    "annual_sales": "嘉定宝龙广场位于上海市嘉定新城（马陆镇），总建筑面积20万平米，由2幢商业裙房及3幢高层写字楼组成，是集购物、餐饮、休闲、娱乐和商务于一体的现代化商业办公城市综合体建筑。嘉定宝龙广场的美食有本帮菜、日本料理、西北菜、北京菜、火锅、烧烤、烤肉、甜品、川菜、意大利菜、牛排、湘菜，购物有服饰、美妆等品牌，该商场亲子教育项目较多。",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 6.0,
+    "open_date": "2016-10-01",
+    "operator": "上海宝龙地产商业管理有限公司",
+    "brand": "宝龙地产",
+    "type": "美食型",
+    "floors": "L1-L3"
+  },
+  "traffic": {
+    "annual_daily": 2.97,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第87",
+    "jun_total": 118.2,
+    "jun_total_rank": "市内商场第98名",
+    "jun_daily_avg": 3.9,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第98名",
+    "weekday_avg": 3.5,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第100名",
+    "holiday_avg": 5.2,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第82名"
+  },
+  "population": {
+    "residential": {
+      "500m": 1.9,
+      "1_5km": 7.2,
+      "3km": 35.7
+    },
+    "office": {
+      "500m": 1.3,
+      "1_5km": 4.8,
+      "3km": 16.7
+    },
+    "permanent": {
+      "500m": 1.9,
+      "1_5km": 7.3,
+      "3km": 32.3
+    }
+  },
+  "business": {
+    "competitors": 4.0,
+    "food": 228.0,
+    "shopping": 111.0,
+    "leisure": 31.0,
+    "education": 27.0,
+    "hotel": 15.0,
+    "services": 173.0,
+    "fitness": 16.0,
+    "auto": 23.0,
+    "total_stores": 302.0,
+    "old_store_3yr_pct": 46.0
+  },
+  "nearby_poi": {
+    "business": 3.0,
+    "community": 151.0,
+    "office": 28.0,
+    "school": 15.0,
+    "hospital": 28.0,
+    "transport": 8.0,
+    "scenic": 34.0
+  },
+  "demographics": {
+    "male_pct": 50.6,
+    "female_pct": null,
+    "education": {
+      "小学": 10.1,
+      "初中": 18.4,
+      "高中": 11.8,
+      "大专": 9.4,
+      "本科": 44.7,
+      "硕士": 4.6,
+      "博士": 1.0
+    },
+    "has_children_pct": 60.7,
+    "no_children_pct": 39.3
+  },
+  "scraped_at": "2026-08-01T05:04:54.011Z",
+  "nearby_restaurants": [
+    {
+      "brand": "成都你六姐·牛肉冒菜(嘉定宝龙广场店)",
+      "address": "阿克苏路1099号嘉定宝龙广场B1层",
+      "distance": "1m"
+    },
+    {
+      "brand": "梧桐姥姥(嘉定宝龙广场店)",
+      "address": "阿克苏路1099号嘉定宝龙广场B1层",
+      "distance": "3m"
+    },
+    {
+      "brand": "赛百味 SUBWAY(嘉定宝龙广场店)",
+      "address": "菊园新区阿克苏路1099号1018室",
+      "distance": "3m"
+    },
+    {
+      "brand": "茉酸奶(嘉定宝龙广场店)",
+      "address": "阿克苏路1099号嘉定宝龙1层M1-F1-1069号",
+      "distance": "3m"
+    },
+    {
+      "brand": "TOUCH泰奇",
+      "address": "阿克苏路1099号嘉定宝龙广场B1层",
+      "distance": "4m"
+    },
+    {
+      "brand": "米粉兽·新疆炒米粉",
+      "address": "阿克苏路1099号嘉定宝龙广场B1层",
+      "distance": "5m"
+    },
+    {
+      "brand": "LINLEE·手打柠檬茶(嘉定宝龙店)",
+      "address": "上海城区上海城区阿克苏路嘉定宝龙广场1099号B1层M6-B1-49",
+      "distance": "6m"
+    },
+    {
+      "brand": "克拉森林ken'skitchen(嘉定宝龙广场店)",
+      "address": "阿克苏路1099号1层F1-1021号",
+      "distance": "6m"
+    },
+    {
+      "brand": "LELECHA乐乐茶(嘉定宝龙广场店)",
+      "address": "阿克苏路1097号嘉定宝龙广场一层M2-F1-147/148(近商场6号门)",
+      "distance": "6m"
+    },
+    {
+      "brand": "蜜雪冰城(嘉定宝龙店)",
+      "address": "阿克苏路1077号地下1层39室",
+      "distance": "6m"
+    },
+    {
+      "brand": "成都你六姐·牛肉冒菜(嘉定宝龙广场店)",
+      "address": "阿克苏路1099号嘉定宝龙广场B1层",
+      "distance": "1m"
+    },
+    {
+      "brand": "梧桐姥姥(嘉定宝龙广场店)",
+      "address": "阿克苏路1099号嘉定宝龙广场B1层",
+      "distance": "3m"
+    },
+    {
+      "brand": "赛百味 SUBWAY(嘉定宝龙广场店)",
+      "address": "菊园新区阿克苏路1099号1018室",
+      "distance": "3m"
+    },
+    {
+      "brand": "茉酸奶(嘉定宝龙广场店)",
+      "address": "阿克苏路1099号嘉定宝龙1层M1-F1-1069号",
+      "distance": "3m"
+    },
+    {
+      "brand": "TOUCH泰奇",
+      "address": "阿克苏路1099号嘉定宝龙广场B1层",
+      "distance": "4m"
+    },
+    {
+      "brand": "米粉兽·新疆炒米粉",
+      "address": "阿克苏路1099号嘉定宝龙广场B1层",
+      "distance": "5m"
+    },
+    {
+      "brand": "LINLEE·手打柠檬茶(嘉定宝龙店)",
+      "address": "上海城区上海城区阿克苏路嘉定宝龙广场1099号B1层M6-B1-49",
+      "distance": "6m"
+    },
+    {
+      "brand": "克拉森林ken'skitchen(嘉定宝龙广场店)",
+      "address": "阿克苏路1099号1层F1-1021号",
+      "distance": "6m"
+    },
+    {
+      "brand": "LELECHA乐乐茶(嘉定宝龙广场店)",
+      "address": "阿克苏路1097号嘉定宝龙广场一层M2-F1-147/148(近商场6号门)",
+      "distance": "6m"
+    },
+    {
+      "brand": "蜜雪冰城(嘉定宝龙店)",
+      "address": "阿克苏路1077号地下1层39室",
+      "distance": "6m"
+    },
+    {
+      "brand": "成都你六姐·牛肉冒菜(嘉定宝龙广场店)",
+      "address": "阿克苏路1099号嘉定宝龙广场B1层",
+      "distance": "1m"
+    },
+    {
+      "brand": "梧桐姥姥(嘉定宝龙广场店)",
+      "address": "阿克苏路1099号嘉定宝龙广场B1层",
+      "distance": "3m"
+    },
+    {
+      "brand": "赛百味 SUBWAY(嘉定宝龙广场店)",
+      "address": "菊园新区阿克苏路1099号1018室",
+      "distance": "3m"
+    },
+    {
+      "brand": "茉酸奶(嘉定宝龙广场店)",
+      "address": "阿克苏路1099号嘉定宝龙1层M1-F1-1069号",
+      "distance": "3m"
+    },
+    {
+      "brand": "TOUCH泰奇",
+      "address": "阿克苏路1099号嘉定宝龙广场B1层",
+      "distance": "4m"
+    },
+    {
+      "brand": "米粉兽·新疆炒米粉",
+      "address": "阿克苏路1099号嘉定宝龙广场B1层",
+      "distance": "5m"
+    },
+    {
+      "brand": "LINLEE·手打柠檬茶(嘉定宝龙店)",
+      "address": "上海城区上海城区阿克苏路嘉定宝龙广场1099号B1层M6-B1-49",
+      "distance": "6m"
+    },
+    {
+      "brand": "克拉森林ken'skitchen(嘉定宝龙广场店)",
+      "address": "阿克苏路1099号1层F1-1021号",
+      "distance": "6m"
+    },
+    {
+      "brand": "LELECHA乐乐茶(嘉定宝龙广场店)",
+      "address": "阿克苏路1097号嘉定宝龙广场一层M2-F1-147/148(近商场6号门)",
+      "distance": "6m"
+    },
+    {
+      "brand": "蜜雪冰城(嘉定宝龙店)",
+      "address": "阿克苏路1077号地下1层39室",
+      "distance": "6m"
+    },
+    {
+      "brand": "成都你六姐·牛肉冒菜(嘉定宝龙广场店)",
+      "address": "阿克苏路1099号嘉定宝龙广场B1层",
+      "distance": "1m"
+    },
+    {
+      "brand": "梧桐姥姥(嘉定宝龙广场店)",
+      "address": "阿克苏路1099号嘉定宝龙广场B1层",
+      "distance": "3m"
+    },
+    {
+      "brand": "赛百味 SUBWAY(嘉定宝龙广场店)",
+      "address": "菊园新区阿克苏路1099号1018室",
+      "distance": "3m"
+    },
+    {
+      "brand": "茉酸奶(嘉定宝龙广场店)",
+      "address": "阿克苏路1099号嘉定宝龙1层M1-F1-1069号",
+      "distance": "3m"
+    },
+    {
+      "brand": "TOUCH泰奇",
+      "address": "阿克苏路1099号嘉定宝龙广场B1层",
+      "distance": "4m"
+    },
+    {
+      "brand": "米粉兽·新疆炒米粉",
+      "address": "阿克苏路1099号嘉定宝龙广场B1层",
+      "distance": "5m"
+    },
+    {
+      "brand": "LINLEE·手打柠檬茶(嘉定宝龙店)",
+      "address": "上海城区上海城区阿克苏路嘉定宝龙广场1099号B1层M6-B1-49",
+      "distance": "6m"
+    },
+    {
+      "brand": "克拉森林ken'skitchen(嘉定宝龙广场店)",
+      "address": "阿克苏路1099号1层F1-1021号",
+      "distance": "6m"
+    },
+    {
+      "brand": "LELECHA乐乐茶(嘉定宝龙广场店)",
+      "address": "阿克苏路1097号嘉定宝龙广场一层M2-F1-147/148(近商场6号门)",
+      "distance": "6m"
+    },
+    {
+      "brand": "蜜雪冰城(嘉定宝龙店)",
+      "address": "阿克苏路1077号地下1层39室",
+      "distance": "6m"
+    },
+    {
+      "brand": "成都你六姐·牛肉冒菜(嘉定宝龙广场店)",
+      "address": "阿克苏路1099号嘉定宝龙广场B1层",
+      "distance": "1m"
+    },
+    {
+      "brand": "梧桐姥姥(嘉定宝龙广场店)",
+      "address": "阿克苏路1099号嘉定宝龙广场B1层",
+      "distance": "3m"
+    },
+    {
+      "brand": "赛百味 SUBWAY(嘉定宝龙广场店)",
+      "address": "菊园新区阿克苏路1099号1018室",
+      "distance": "3m"
+    },
+    {
+      "brand": "茉酸奶(嘉定宝龙广场店)",
+      "address": "阿克苏路1099号嘉定宝龙1层M1-F1-1069号",
+      "distance": "3m"
+    },
+    {
+      "brand": "TOUCH泰奇",
+      "address": "阿克苏路1099号嘉定宝龙广场B1层",
+      "distance": "4m"
+    },
+    {
+      "brand": "米粉兽·新疆炒米粉",
+      "address": "阿克苏路1099号嘉定宝龙广场B1层",
+      "distance": "5m"
+    },
+    {
+      "brand": "LINLEE·手打柠檬茶(嘉定宝龙店)",
+      "address": "上海城区上海城区阿克苏路嘉定宝龙广场1099号B1层M6-B1-49",
+      "distance": "6m"
+    },
+    {
+      "brand": "克拉森林ken'skitchen(嘉定宝龙广场店)",
+      "address": "阿克苏路1099号1层F1-1021号",
+      "distance": "6m"
+    },
+    {
+      "brand": "LELECHA乐乐茶(嘉定宝龙广场店)",
+      "address": "阿克苏路1097号嘉定宝龙广场一层M2-F1-147/148(近商场6号门)",
+      "distance": "6m"
+    },
+    {
+      "brand": "蜜雪冰城(嘉定宝龙店)",
+      "address": "阿克苏路1077号地下1层39室",
+      "distance": "6m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海嘉定TSF",
+      "open_date": "2023-12-24",
+      "area": "4.2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海嘉定莘潮国际家居",
+      "open_date": "2016-07-30",
+      "area": "10.5万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "壹号街",
+      "open_date": "-",
+      "area": "3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 140.0,
+      "within_1yr_pct": 19.3,
+      "1_3yr_pct": 38.6,
+      "over_3yr_pct": 42.1
+    },
+    {
+      "type": "购物",
+      "count": 61.0,
+      "within_1yr_pct": 31.1,
+      "1_3yr_pct": 14.8,
+      "over_3yr_pct": 54.1
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 15.0,
+      "within_1yr_pct": 13.3,
+      "1_3yr_pct": 53.3,
+      "over_3yr_pct": 33.3
+    },
+    {
+      "type": "教育培训",
+      "count": 16.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 31.3,
+      "over_3yr_pct": 43.8
+    },
+    {
+      "type": "酒店住宿",
+      "count": 2.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "生活服务",
+      "count": 51.0,
+      "within_1yr_pct": 21.6,
+      "1_3yr_pct": 31.4,
+      "over_3yr_pct": 47.1
+    },
+    {
+      "type": "运动健身",
+      "count": 9.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 11.1,
+      "over_3yr_pct": 88.9
+    },
+    {
+      "type": "车辆服务",
+      "count": 8.0,
+      "within_1yr_pct": 37.5,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 37.5
+    }
+  ]
+}

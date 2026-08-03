@@ -1,0 +1,479 @@
+{
+  "name": "上海中海环宇荟",
+  "city": "上海市",
+  "address": "上海市黄浦区黄陂南路838号",
+  "lat": 31.211594,
+  "lng": 121.476719,
+  "overview": {
+    "score": 92.1,
+    "score_rank": "市内前30%",
+    "population_score": 93.4,
+    "area_score": 86.8,
+    "consumption_score": 89.3,
+    "industry_score": 92.2,
+    "annual_sales": "上海中海环宇荟定位为精品社区型商业中心，主要满足周边1-2公里居民和白领生活需求。项目主打餐饮业态，占比近80%，引入了部分首店和特色餐饮品牌。项目位于地铁9号线、13号线马当路站，地下1层、地上2层，已进驻品牌量60-70家",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 3.0,
+    "open_date": "2018-07-02",
+    "operator": "中海地产集团有限责任公司",
+    "brand": "中海",
+    "type": "美食型",
+    "floors": "B1-L2"
+  },
+  "traffic": {
+    "annual_daily": 1.28,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第201",
+    "jun_total": 59.3,
+    "jun_total_rank": "市内商场第190名",
+    "jun_daily_avg": 2.0,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第190名",
+    "weekday_avg": 2.1,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第170名",
+    "holiday_avg": 1.6,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第234名"
+  },
+  "population": {
+    "residential": {
+      "500m": 2.8,
+      "1_5km": 30.5,
+      "3km": 86.1
+    },
+    "office": {
+      "500m": 3.4,
+      "1_5km": 26.9,
+      "3km": 93.3
+    },
+    "permanent": {
+      "500m": 3.5,
+      "1_5km": 34.6,
+      "3km": 101.9
+    }
+  },
+  "business": {
+    "competitors": 10.0,
+    "food": 308.0,
+    "shopping": 198.0,
+    "leisure": 26.0,
+    "education": 20.0,
+    "hotel": 45.0,
+    "services": 192.0,
+    "fitness": 26.0,
+    "auto": 23.0,
+    "total_stores": 106.0,
+    "old_store_3yr_pct": 42.0
+  },
+  "nearby_poi": {
+    "business": 23.0,
+    "community": 1006.0,
+    "office": 151.0,
+    "school": 93.0,
+    "hospital": 184.0,
+    "transport": 13.0,
+    "scenic": 792.0
+  },
+  "demographics": {
+    "male_pct": 48.4,
+    "female_pct": null,
+    "education": {
+      "小学": 9.7,
+      "初中": 17.6,
+      "高中": 11.6,
+      "大专": 7.3,
+      "本科": 46.8,
+      "硕士": 5.4,
+      "博士": 1.6
+    },
+    "has_children_pct": 58.2,
+    "no_children_pct": 41.8
+  },
+  "scraped_at": "2026-07-31T15:23:44.681Z",
+  "nearby_restaurants": [
+    {
+      "brand": "趣味牛羊烧烤酒肆(中海环宇荟店)",
+      "address": "黄陂南路798号中海国际中心B1层",
+      "distance": "3m"
+    },
+    {
+      "brand": "江粤垚·顺德干蒸(黄浦店)",
+      "address": "黄陂南路798号中海国际中心B1层",
+      "distance": "3m"
+    },
+    {
+      "brand": "火腿博物馆(中海环宇荟店)",
+      "address": "黄陂南路838弄中海环宇荟B123",
+      "distance": "5m"
+    },
+    {
+      "brand": "梧桐姥姥(上海中海环宇荟店)",
+      "address": "黄陂南路与永年路交叉口西100米",
+      "distance": "5m"
+    },
+    {
+      "brand": "鹅庄·台湾美食(中海环宇荟店)",
+      "address": "黄陂南路798号中海国际中心B1层",
+      "distance": "5m"
+    },
+    {
+      "brand": "JR烘焙坊(中海国际中心店)",
+      "address": "黄陂南路838弄中海国际中心B楼",
+      "distance": "5m"
+    },
+    {
+      "brand": "肥佬九记牛腩",
+      "address": "黄陂南路与永年路交叉口西100米",
+      "distance": "14m"
+    },
+    {
+      "brand": "马记永·兰州牛肉面(中海国际中心店)",
+      "address": "黄陂南路与永年路交叉口西100米中海环宇荟B1层B150-1",
+      "distance": "14m"
+    },
+    {
+      "brand": "武圣羊汤(中海环宇荟店)",
+      "address": "黄陂南路838弄中海环宇荟B1层室内b138-1",
+      "distance": "18m"
+    },
+    {
+      "brand": "衢面拾捌",
+      "address": "马当路与建国东路交叉口东南100米",
+      "distance": "20m"
+    },
+    {
+      "brand": "趣味牛羊烧烤酒肆(中海环宇荟店)",
+      "address": "黄陂南路798号中海国际中心B1层",
+      "distance": "3m"
+    },
+    {
+      "brand": "江粤垚·顺德干蒸(黄浦店)",
+      "address": "黄陂南路798号中海国际中心B1层",
+      "distance": "3m"
+    },
+    {
+      "brand": "火腿博物馆(中海环宇荟店)",
+      "address": "黄陂南路838弄中海环宇荟B123",
+      "distance": "5m"
+    },
+    {
+      "brand": "梧桐姥姥(上海中海环宇荟店)",
+      "address": "黄陂南路与永年路交叉口西100米",
+      "distance": "5m"
+    },
+    {
+      "brand": "鹅庄·台湾美食(中海环宇荟店)",
+      "address": "黄陂南路798号中海国际中心B1层",
+      "distance": "5m"
+    },
+    {
+      "brand": "JR烘焙坊(中海国际中心店)",
+      "address": "黄陂南路838弄中海国际中心B楼",
+      "distance": "5m"
+    },
+    {
+      "brand": "肥佬九记牛腩",
+      "address": "黄陂南路与永年路交叉口西100米",
+      "distance": "14m"
+    },
+    {
+      "brand": "马记永·兰州牛肉面(中海国际中心店)",
+      "address": "黄陂南路与永年路交叉口西100米中海环宇荟B1层B150-1",
+      "distance": "14m"
+    },
+    {
+      "brand": "武圣羊汤(中海环宇荟店)",
+      "address": "黄陂南路838弄中海环宇荟B1层室内b138-1",
+      "distance": "18m"
+    },
+    {
+      "brand": "衢面拾捌",
+      "address": "马当路与建国东路交叉口东南100米",
+      "distance": "20m"
+    },
+    {
+      "brand": "趣味牛羊烧烤酒肆(中海环宇荟店)",
+      "address": "黄陂南路798号中海国际中心B1层",
+      "distance": "3m"
+    },
+    {
+      "brand": "江粤垚·顺德干蒸(黄浦店)",
+      "address": "黄陂南路798号中海国际中心B1层",
+      "distance": "3m"
+    },
+    {
+      "brand": "火腿博物馆(中海环宇荟店)",
+      "address": "黄陂南路838弄中海环宇荟B123",
+      "distance": "5m"
+    },
+    {
+      "brand": "梧桐姥姥(上海中海环宇荟店)",
+      "address": "黄陂南路与永年路交叉口西100米",
+      "distance": "5m"
+    },
+    {
+      "brand": "鹅庄·台湾美食(中海环宇荟店)",
+      "address": "黄陂南路798号中海国际中心B1层",
+      "distance": "5m"
+    },
+    {
+      "brand": "JR烘焙坊(中海国际中心店)",
+      "address": "黄陂南路838弄中海国际中心B楼",
+      "distance": "5m"
+    },
+    {
+      "brand": "肥佬九记牛腩",
+      "address": "黄陂南路与永年路交叉口西100米",
+      "distance": "14m"
+    },
+    {
+      "brand": "马记永·兰州牛肉面(中海国际中心店)",
+      "address": "黄陂南路与永年路交叉口西100米中海环宇荟B1层B150-1",
+      "distance": "14m"
+    },
+    {
+      "brand": "武圣羊汤(中海环宇荟店)",
+      "address": "黄陂南路838弄中海环宇荟B1层室内b138-1",
+      "distance": "18m"
+    },
+    {
+      "brand": "衢面拾捌",
+      "address": "马当路与建国东路交叉口东南100米",
+      "distance": "20m"
+    },
+    {
+      "brand": "趣味牛羊烧烤酒肆(中海环宇荟店)",
+      "address": "黄陂南路798号中海国际中心B1层",
+      "distance": "3m"
+    },
+    {
+      "brand": "江粤垚·顺德干蒸(黄浦店)",
+      "address": "黄陂南路798号中海国际中心B1层",
+      "distance": "3m"
+    },
+    {
+      "brand": "火腿博物馆(中海环宇荟店)",
+      "address": "黄陂南路838弄中海环宇荟B123",
+      "distance": "5m"
+    },
+    {
+      "brand": "梧桐姥姥(上海中海环宇荟店)",
+      "address": "黄陂南路与永年路交叉口西100米",
+      "distance": "5m"
+    },
+    {
+      "brand": "鹅庄·台湾美食(中海环宇荟店)",
+      "address": "黄陂南路798号中海国际中心B1层",
+      "distance": "5m"
+    },
+    {
+      "brand": "JR烘焙坊(中海国际中心店)",
+      "address": "黄陂南路838弄中海国际中心B楼",
+      "distance": "5m"
+    },
+    {
+      "brand": "肥佬九记牛腩",
+      "address": "黄陂南路与永年路交叉口西100米",
+      "distance": "14m"
+    },
+    {
+      "brand": "马记永·兰州牛肉面(中海国际中心店)",
+      "address": "黄陂南路与永年路交叉口西100米中海环宇荟B1层B150-1",
+      "distance": "14m"
+    },
+    {
+      "brand": "武圣羊汤(中海环宇荟店)",
+      "address": "黄陂南路838弄中海环宇荟B1层室内b138-1",
+      "distance": "18m"
+    },
+    {
+      "brand": "衢面拾捌",
+      "address": "马当路与建国东路交叉口东南100米",
+      "distance": "20m"
+    },
+    {
+      "brand": "趣味牛羊烧烤酒肆(中海环宇荟店)",
+      "address": "黄陂南路798号中海国际中心B1层",
+      "distance": "3m"
+    },
+    {
+      "brand": "江粤垚·顺德干蒸(黄浦店)",
+      "address": "黄陂南路798号中海国际中心B1层",
+      "distance": "3m"
+    },
+    {
+      "brand": "火腿博物馆(中海环宇荟店)",
+      "address": "黄陂南路838弄中海环宇荟B123",
+      "distance": "5m"
+    },
+    {
+      "brand": "梧桐姥姥(上海中海环宇荟店)",
+      "address": "黄陂南路与永年路交叉口西100米",
+      "distance": "5m"
+    },
+    {
+      "brand": "鹅庄·台湾美食(中海环宇荟店)",
+      "address": "黄陂南路798号中海国际中心B1层",
+      "distance": "5m"
+    },
+    {
+      "brand": "JR烘焙坊(中海国际中心店)",
+      "address": "黄陂南路838弄中海国际中心B楼",
+      "distance": "5m"
+    },
+    {
+      "brand": "肥佬九记牛腩",
+      "address": "黄陂南路与永年路交叉口西100米",
+      "distance": "14m"
+    },
+    {
+      "brand": "马记永·兰州牛肉面(中海国际中心店)",
+      "address": "黄陂南路与永年路交叉口西100米中海环宇荟B1层B150-1",
+      "distance": "14m"
+    },
+    {
+      "brand": "武圣羊汤(中海环宇荟店)",
+      "address": "黄陂南路838弄中海环宇荟B1层室内b138-1",
+      "distance": "18m"
+    },
+    {
+      "brand": "衢面拾捌",
+      "address": "马当路与建国东路交叉口东南100米",
+      "distance": "20m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海LuOne凯德晶萃广场",
+      "open_date": "2018-09-22",
+      "area": "13万㎡",
+      "jun_daily_avg": "3.1万人次",
+      "weekday_avg": "3.1万人次",
+      "holiday_avg": "3.3万人次"
+    },
+    {
+      "name": "上海恒基·旭辉天地",
+      "open_date": "2021-04-30",
+      "area": "1万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海SOHO复兴广场",
+      "open_date": "2014",
+      "area": "2.2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海新天地时尚Ⅱ",
+      "open_date": "2023-01-12",
+      "area": "2.6万㎡",
+      "jun_daily_avg": "1.3万人次",
+      "weekday_avg": "1.1万人次",
+      "holiday_avg": "1.8万人次"
+    },
+    {
+      "name": "上海思南公馆",
+      "open_date": "2010-10-01",
+      "area": "2.2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "田子坊",
+      "open_date": "1998-01-01",
+      "area": "3万㎡",
+      "jun_daily_avg": "1.3万人次",
+      "weekday_avg": "1.2万人次",
+      "holiday_avg": "1.6万人次"
+    },
+    {
+      "name": "上海新邻生活站",
+      "open_date": "2015-04-01",
+      "area": "2.3万㎡",
+      "jun_daily_avg": "1.2万人次",
+      "weekday_avg": "1.2万人次",
+      "holiday_avg": "1.2万人次"
+    },
+    {
+      "name": "上海新天地北里",
+      "open_date": "2001-01-01",
+      "area": "5.7万㎡",
+      "jun_daily_avg": "1.5万人次",
+      "weekday_avg": "1.4万人次",
+      "holiday_avg": "2万人次"
+    },
+    {
+      "name": "上海日月光中心",
+      "open_date": "2010-06-18",
+      "area": "14万㎡",
+      "jun_daily_avg": "11.1万人次",
+      "weekday_avg": "11.3万人次",
+      "holiday_avg": "10.4万人次"
+    },
+    {
+      "name": "上海无限极荟",
+      "open_date": "2016-12-03",
+      "area": "3万㎡",
+      "jun_daily_avg": "1.5万人次",
+      "weekday_avg": "1.6万人次",
+      "holiday_avg": "1.2万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 66.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 24.2,
+      "over_3yr_pct": 42.4
+    },
+    {
+      "type": "购物",
+      "count": 13.0,
+      "within_1yr_pct": 15.4,
+      "1_3yr_pct": 46.2,
+      "over_3yr_pct": 38.5
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 9.0,
+      "within_1yr_pct": 22.2,
+      "1_3yr_pct": 22.2,
+      "over_3yr_pct": 55.6
+    },
+    {
+      "type": "教育培训",
+      "count": 2.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "生活服务",
+      "count": 6.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 66.7
+    },
+    {
+      "type": "运动健身",
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 8.0,
+      "within_1yr_pct": 62.5,
+      "1_3yr_pct": 12.5,
+      "over_3yr_pct": 25.0
+    }
+  ]
+}

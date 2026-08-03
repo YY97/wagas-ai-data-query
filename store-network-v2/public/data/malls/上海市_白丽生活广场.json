@@ -1,0 +1,414 @@
+{
+  "name": "白丽生活广场",
+  "city": "上海市",
+  "address": "上海市普陀区武威路1126号",
+  "lat": 31.281935,
+  "lng": 121.349618,
+  "overview": {
+    "score": 87.6,
+    "score_rank": "市内前30%",
+    "population_score": 100.0,
+    "area_score": 72.8,
+    "consumption_score": 66.6,
+    "industry_score": 87.7,
+    "annual_sales": "上海白丽生活广场位于普陀区桃浦镇居住区核心位置，与轨交11号线桃浦新村站“零距离”广场以“家的延伸”为改造理念，为周边1-1.5km范围内的消费者带去更有趣有盼的购物体验广场总面积约为3.7万平方米，建筑体量大概是环球港的1/10此次改造，广场外立面增添了穿孔铝板幕墙，使建筑外墙更有立体感；部分沿街店铺延伸出户外用餐区，打造更时尚的露天休闲环境；位于三层转角处的幕墙沿建筑进行了包圆处理，与整体建筑形体风格统一；镶嵌在铝板之间的灯柱在入夜后点亮，LED灯组可呈现不同变化效果和图形的夜景，也为桃浦地区增添一道亮丽的风景业态品牌定制升级，整体出租率已经超过80%，以社区生活配套、休闲餐饮和综合培训机构为主，引进集生鲜超市、各色美食、家庭生活与儿童教培于一体的60余家优质品牌",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 3.7,
+    "open_date": "2010-05-06",
+    "operator": "上海安居房产开发有限责任公司",
+    "brand": "",
+    "type": "美食型",
+    "floors": "B2-L5"
+  },
+  "traffic": {
+    "annual_daily": 1.05,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第244",
+    "jun_total": 47.4,
+    "jun_total_rank": "市内商场第222名",
+    "jun_daily_avg": 1.6,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第222名",
+    "weekday_avg": 1.6,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第217名",
+    "holiday_avg": 1.6,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第236名"
+  },
+  "population": {
+    "residential": {
+      "500m": 4.2,
+      "1_5km": 11.0,
+      "3km": 38.8
+    },
+    "office": {
+      "500m": 1.4,
+      "1_5km": 4.2,
+      "3km": 18.6
+    },
+    "permanent": {
+      "500m": 4.3,
+      "1_5km": 11.1,
+      "3km": 36.3
+    }
+  },
+  "business": {
+    "competitors": 5.0,
+    "food": 138.0,
+    "shopping": 100.0,
+    "leisure": 9.0,
+    "education": 21.0,
+    "hotel": 8.0,
+    "services": 115.0,
+    "fitness": 13.0,
+    "auto": 7.0,
+    "total_stores": 58.0,
+    "old_store_3yr_pct": 60.0
+  },
+  "nearby_poi": {
+    "business": 1.0,
+    "community": 143.0,
+    "office": 5.0,
+    "school": 15.0,
+    "hospital": 15.0,
+    "transport": 17.0,
+    "scenic": 57.0
+  },
+  "demographics": {
+    "male_pct": 50.6,
+    "female_pct": null,
+    "education": {
+      "小学": 10.4,
+      "初中": 19.6,
+      "高中": 11.8,
+      "大专": 9.4,
+      "本科": 44.9,
+      "硕士": 2.9,
+      "博士": 1.0
+    },
+    "has_children_pct": 61.5,
+    "no_children_pct": 38.5
+  },
+  "scraped_at": "2026-08-02T02:35:03.084Z",
+  "nearby_restaurants": [
+    {
+      "brand": "阿跷锅贴(武威路卫星店)",
+      "address": "武威路1118号地下一层",
+      "distance": "3m"
+    },
+    {
+      "brand": "精悦蓉(白丽生活广场店)",
+      "address": "武威路1118号白丽生活广场2层",
+      "distance": "3m"
+    },
+    {
+      "brand": "韩渝鸡公煲",
+      "address": "武威路与红棉路交叉口西北120米",
+      "distance": "5m"
+    },
+    {
+      "brand": "LELECHA乐乐茶",
+      "address": "武威路与红棉路交叉口西北120米",
+      "distance": "5m"
+    },
+    {
+      "brand": "大森の深夜食堂(白丽广场店)",
+      "address": "桃浦镇武威路1118号白丽生活广场127室",
+      "distance": "9m"
+    },
+    {
+      "brand": "超级鸡车(普陀白丽生活广场店)",
+      "address": "武威路1118号白丽生活广场B1层(桃浦新村地铁站4号口旁)",
+      "distance": "11m"
+    },
+    {
+      "brand": "海品人家(白丽生活广场店)",
+      "address": "武威路1118号白丽生活广场F2层(桃浦新村地铁站4号口旁)",
+      "distance": "12m"
+    },
+    {
+      "brand": "必胜客(桃浦白丽店)",
+      "address": "武威路1118号白丽生活广场F1层",
+      "distance": "14m"
+    },
+    {
+      "brand": "五芳斋(桃浦店)",
+      "address": "武威路1118号白丽生活广场F1层",
+      "distance": "15m"
+    },
+    {
+      "brand": "香港美心月饼(桃浦百丽生活广场店)",
+      "address": "武威路1118号白丽生活广场F1层",
+      "distance": "15m"
+    },
+    {
+      "brand": "阿跷锅贴(武威路卫星店)",
+      "address": "武威路1118号地下一层",
+      "distance": "3m"
+    },
+    {
+      "brand": "精悦蓉(白丽生活广场店)",
+      "address": "武威路1118号白丽生活广场2层",
+      "distance": "3m"
+    },
+    {
+      "brand": "韩渝鸡公煲",
+      "address": "武威路与红棉路交叉口西北120米",
+      "distance": "5m"
+    },
+    {
+      "brand": "LELECHA乐乐茶",
+      "address": "武威路与红棉路交叉口西北120米",
+      "distance": "5m"
+    },
+    {
+      "brand": "大森の深夜食堂(白丽广场店)",
+      "address": "桃浦镇武威路1118号白丽生活广场127室",
+      "distance": "9m"
+    },
+    {
+      "brand": "超级鸡车(普陀白丽生活广场店)",
+      "address": "武威路1118号白丽生活广场B1层(桃浦新村地铁站4号口旁)",
+      "distance": "11m"
+    },
+    {
+      "brand": "海品人家(白丽生活广场店)",
+      "address": "武威路1118号白丽生活广场F2层(桃浦新村地铁站4号口旁)",
+      "distance": "12m"
+    },
+    {
+      "brand": "必胜客(桃浦白丽店)",
+      "address": "武威路1118号白丽生活广场F1层",
+      "distance": "14m"
+    },
+    {
+      "brand": "五芳斋(桃浦店)",
+      "address": "武威路1118号白丽生活广场F1层",
+      "distance": "15m"
+    },
+    {
+      "brand": "香港美心月饼(桃浦百丽生活广场店)",
+      "address": "武威路1118号白丽生活广场F1层",
+      "distance": "15m"
+    },
+    {
+      "brand": "阿跷锅贴(武威路卫星店)",
+      "address": "武威路1118号地下一层",
+      "distance": "3m"
+    },
+    {
+      "brand": "精悦蓉(白丽生活广场店)",
+      "address": "武威路1118号白丽生活广场2层",
+      "distance": "3m"
+    },
+    {
+      "brand": "韩渝鸡公煲",
+      "address": "武威路与红棉路交叉口西北120米",
+      "distance": "5m"
+    },
+    {
+      "brand": "LELECHA乐乐茶",
+      "address": "武威路与红棉路交叉口西北120米",
+      "distance": "5m"
+    },
+    {
+      "brand": "大森の深夜食堂(白丽广场店)",
+      "address": "桃浦镇武威路1118号白丽生活广场127室",
+      "distance": "9m"
+    },
+    {
+      "brand": "超级鸡车(普陀白丽生活广场店)",
+      "address": "武威路1118号白丽生活广场B1层(桃浦新村地铁站4号口旁)",
+      "distance": "11m"
+    },
+    {
+      "brand": "海品人家(白丽生活广场店)",
+      "address": "武威路1118号白丽生活广场F2层(桃浦新村地铁站4号口旁)",
+      "distance": "12m"
+    },
+    {
+      "brand": "必胜客(桃浦白丽店)",
+      "address": "武威路1118号白丽生活广场F1层",
+      "distance": "14m"
+    },
+    {
+      "brand": "五芳斋(桃浦店)",
+      "address": "武威路1118号白丽生活广场F1层",
+      "distance": "15m"
+    },
+    {
+      "brand": "香港美心月饼(桃浦百丽生活广场店)",
+      "address": "武威路1118号白丽生活广场F1层",
+      "distance": "15m"
+    },
+    {
+      "brand": "阿跷锅贴(武威路卫星店)",
+      "address": "武威路1118号地下一层",
+      "distance": "3m"
+    },
+    {
+      "brand": "精悦蓉(白丽生活广场店)",
+      "address": "武威路1118号白丽生活广场2层",
+      "distance": "3m"
+    },
+    {
+      "brand": "韩渝鸡公煲",
+      "address": "武威路与红棉路交叉口西北120米",
+      "distance": "5m"
+    },
+    {
+      "brand": "LELECHA乐乐茶",
+      "address": "武威路与红棉路交叉口西北120米",
+      "distance": "5m"
+    },
+    {
+      "brand": "大森の深夜食堂(白丽广场店)",
+      "address": "桃浦镇武威路1118号白丽生活广场127室",
+      "distance": "9m"
+    },
+    {
+      "brand": "超级鸡车(普陀白丽生活广场店)",
+      "address": "武威路1118号白丽生活广场B1层(桃浦新村地铁站4号口旁)",
+      "distance": "11m"
+    },
+    {
+      "brand": "海品人家(白丽生活广场店)",
+      "address": "武威路1118号白丽生活广场F2层(桃浦新村地铁站4号口旁)",
+      "distance": "12m"
+    },
+    {
+      "brand": "必胜客(桃浦白丽店)",
+      "address": "武威路1118号白丽生活广场F1层",
+      "distance": "14m"
+    },
+    {
+      "brand": "五芳斋(桃浦店)",
+      "address": "武威路1118号白丽生活广场F1层",
+      "distance": "15m"
+    },
+    {
+      "brand": "香港美心月饼(桃浦百丽生活广场店)",
+      "address": "武威路1118号白丽生活广场F1层",
+      "distance": "15m"
+    },
+    {
+      "brand": "阿跷锅贴(武威路卫星店)",
+      "address": "武威路1118号地下一层",
+      "distance": "3m"
+    },
+    {
+      "brand": "精悦蓉(白丽生活广场店)",
+      "address": "武威路1118号白丽生活广场2层",
+      "distance": "3m"
+    },
+    {
+      "brand": "韩渝鸡公煲",
+      "address": "武威路与红棉路交叉口西北120米",
+      "distance": "5m"
+    },
+    {
+      "brand": "LELECHA乐乐茶",
+      "address": "武威路与红棉路交叉口西北120米",
+      "distance": "5m"
+    },
+    {
+      "brand": "大森の深夜食堂(白丽广场店)",
+      "address": "桃浦镇武威路1118号白丽生活广场127室",
+      "distance": "9m"
+    },
+    {
+      "brand": "超级鸡车(普陀白丽生活广场店)",
+      "address": "武威路1118号白丽生活广场B1层(桃浦新村地铁站4号口旁)",
+      "distance": "11m"
+    },
+    {
+      "brand": "海品人家(白丽生活广场店)",
+      "address": "武威路1118号白丽生活广场F2层(桃浦新村地铁站4号口旁)",
+      "distance": "12m"
+    },
+    {
+      "brand": "必胜客(桃浦白丽店)",
+      "address": "武威路1118号白丽生活广场F1层",
+      "distance": "14m"
+    },
+    {
+      "brand": "五芳斋(桃浦店)",
+      "address": "武威路1118号白丽生活广场F1层",
+      "distance": "15m"
+    },
+    {
+      "brand": "香港美心月饼(桃浦百丽生活广场店)",
+      "address": "武威路1118号白丽生活广场F1层",
+      "distance": "15m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海新邻天地",
+      "open_date": "2011-10-08",
+      "area": "3万㎡",
+      "jun_daily_avg": "1.1万人次",
+      "weekday_avg": "1.1万人次",
+      "holiday_avg": "1.4万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 23.0,
+      "within_1yr_pct": 17.4,
+      "1_3yr_pct": 21.7,
+      "over_3yr_pct": 60.9
+    },
+    {
+      "type": "购物",
+      "count": 12.0,
+      "within_1yr_pct": 16.7,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 58.3
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 4.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 75.0,
+      "over_3yr_pct": 25.0
+    },
+    {
+      "type": "教育培训",
+      "count": 3.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 66.7
+    },
+    {
+      "type": "酒店住宿",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    },
+    {
+      "type": "生活服务",
+      "count": 10.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 10.0,
+      "over_3yr_pct": 70.0
+    },
+    {
+      "type": "运动健身",
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 3.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 66.7,
+      "over_3yr_pct": 33.3
+    }
+  ]
+}

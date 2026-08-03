@@ -1,0 +1,486 @@
+{
+  "name": "宝地广场",
+  "city": "上海市",
+  "address": "上海市杨浦区大连路688号",
+  "lat": 31.261187,
+  "lng": 121.511729,
+  "overview": {
+    "score": 92.3,
+    "score_rank": "市内前30%",
+    "population_score": 90.9,
+    "area_score": 77.3,
+    "consumption_score": 80.2,
+    "industry_score": 92.4,
+    "annual_sales": "宝地广场位于大连路588、688号（A、B座），占地面积约2.9万平方米，建筑面积约15.6万平方米，办公面积约8万平方米，商业面积约3.5万平方米。由2栋现代化甲级办公楼和商业配套组成，商场包括大卖场、大中型餐饮、休闲特色餐饮、轻餐小食、商务咖啡、西式面包房、个人护理、健身中心、运动休闲零售、美容美体、儿童教育娱乐等多种业态及相同业态的不同品类，为周边商务楼、社区提供了完善的服务配套，提升商务人群的工作环境、提高社区居民的生活质量",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 3.5,
+    "open_date": "2012-01-01",
+    "operator": "上海宝地不动产资产管理有限公司",
+    "brand": "宝地杨浦",
+    "type": "美食型",
+    "floors": "L1-L4"
+  },
+  "traffic": {
+    "annual_daily": 1.17,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第222",
+    "jun_total": 50.9,
+    "jun_total_rank": "市内商场第210名",
+    "jun_daily_avg": 1.7,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第210名",
+    "weekday_avg": 1.8,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第199名",
+    "holiday_avg": 1.5,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第247名"
+  },
+  "population": {
+    "residential": {
+      "500m": 2.5,
+      "1_5km": 23.4,
+      "3km": 97.4
+    },
+    "office": {
+      "500m": 3.2,
+      "1_5km": 20.0,
+      "3km": 80.3
+    },
+    "permanent": {
+      "500m": 2.9,
+      "1_5km": 26.0,
+      "3km": 105.2
+    }
+  },
+  "business": {
+    "competitors": 6.0,
+    "food": 181.0,
+    "shopping": 80.0,
+    "leisure": 18.0,
+    "education": 12.0,
+    "hotel": 18.0,
+    "services": 116.0,
+    "fitness": 16.0,
+    "auto": 17.0,
+    "total_stores": 109.0,
+    "old_store_3yr_pct": 52.0
+  },
+  "nearby_poi": {
+    "business": 10.0,
+    "community": 760.0,
+    "office": 117.0,
+    "school": 57.0,
+    "hospital": 117.0,
+    "transport": 12.0,
+    "scenic": 391.0
+  },
+  "demographics": {
+    "male_pct": 47.0,
+    "female_pct": null,
+    "education": {
+      "小学": 8.9,
+      "初中": 17.4,
+      "高中": 12.7,
+      "大专": 6.4,
+      "本科": 47.2,
+      "硕士": 5.4,
+      "博士": 2.0
+    },
+    "has_children_pct": 59.1,
+    "no_children_pct": 40.9
+  },
+  "scraped_at": "2026-07-31T12:52:30.972Z",
+  "nearby_restaurants": [
+    {
+      "brand": "爷叔炒饭(宝地广场店)",
+      "address": "唐山路1018号地下一层B101号(盒马鲜生)",
+      "distance": "6m"
+    },
+    {
+      "brand": "磨逗(宝地广场店)",
+      "address": "唐山路1018号宝地广场C座B1层",
+      "distance": "25m"
+    },
+    {
+      "brand": "LINLEE·手打柠檬茶(宝地广场城市集市店)",
+      "address": "唐山路1018号宝地广场C座B1层",
+      "distance": "25m"
+    },
+    {
+      "brand": "大嘴砂锅鸡",
+      "address": "荆州路与昆明路交叉口西120米",
+      "distance": "29m"
+    },
+    {
+      "brand": "鹅庄.台湾食堂(宝地广场店)",
+      "address": "唐山路1018号宝地广场C座B1层",
+      "distance": "29m"
+    },
+    {
+      "brand": "喜家德虾仁水饺(宝地广场城市集市店)",
+      "address": "江浦路街道唐山路1018号(宝地广场B1层)",
+      "distance": "30m"
+    },
+    {
+      "brand": "炫炫小龙虾",
+      "address": "荆州路与昆明路交叉口西120米",
+      "distance": "30m"
+    },
+    {
+      "brand": "Manner Coffee(宝地广场店)",
+      "address": "唐山路1018号宝地广场C座B1层",
+      "distance": "32m"
+    },
+    {
+      "brand": "小满手工粉(上海城市集市宝地广场店)",
+      "address": "唐山路1018号宝地广场C座B1层",
+      "distance": "32m"
+    },
+    {
+      "brand": "成都你六姐(城市集市宝地广场店)",
+      "address": "唐山路1018号宝地广场C座B1层",
+      "distance": "33m"
+    },
+    {
+      "brand": "爷叔炒饭(宝地广场店)",
+      "address": "唐山路1018号地下一层B101号(盒马鲜生)",
+      "distance": "6m"
+    },
+    {
+      "brand": "磨逗(宝地广场店)",
+      "address": "唐山路1018号宝地广场C座B1层",
+      "distance": "25m"
+    },
+    {
+      "brand": "LINLEE·手打柠檬茶(宝地广场城市集市店)",
+      "address": "唐山路1018号宝地广场C座B1层",
+      "distance": "25m"
+    },
+    {
+      "brand": "大嘴砂锅鸡",
+      "address": "荆州路与昆明路交叉口西120米",
+      "distance": "29m"
+    },
+    {
+      "brand": "鹅庄.台湾食堂(宝地广场店)",
+      "address": "唐山路1018号宝地广场C座B1层",
+      "distance": "29m"
+    },
+    {
+      "brand": "喜家德虾仁水饺(宝地广场城市集市店)",
+      "address": "江浦路街道唐山路1018号(宝地广场B1层)",
+      "distance": "30m"
+    },
+    {
+      "brand": "炫炫小龙虾",
+      "address": "荆州路与昆明路交叉口西120米",
+      "distance": "30m"
+    },
+    {
+      "brand": "Manner Coffee(宝地广场店)",
+      "address": "唐山路1018号宝地广场C座B1层",
+      "distance": "32m"
+    },
+    {
+      "brand": "小满手工粉(上海城市集市宝地广场店)",
+      "address": "唐山路1018号宝地广场C座B1层",
+      "distance": "32m"
+    },
+    {
+      "brand": "成都你六姐(城市集市宝地广场店)",
+      "address": "唐山路1018号宝地广场C座B1层",
+      "distance": "33m"
+    },
+    {
+      "brand": "爷叔炒饭(宝地广场店)",
+      "address": "唐山路1018号地下一层B101号(盒马鲜生)",
+      "distance": "6m"
+    },
+    {
+      "brand": "磨逗(宝地广场店)",
+      "address": "唐山路1018号宝地广场C座B1层",
+      "distance": "25m"
+    },
+    {
+      "brand": "LINLEE·手打柠檬茶(宝地广场城市集市店)",
+      "address": "唐山路1018号宝地广场C座B1层",
+      "distance": "25m"
+    },
+    {
+      "brand": "大嘴砂锅鸡",
+      "address": "荆州路与昆明路交叉口西120米",
+      "distance": "29m"
+    },
+    {
+      "brand": "鹅庄.台湾食堂(宝地广场店)",
+      "address": "唐山路1018号宝地广场C座B1层",
+      "distance": "29m"
+    },
+    {
+      "brand": "喜家德虾仁水饺(宝地广场城市集市店)",
+      "address": "江浦路街道唐山路1018号(宝地广场B1层)",
+      "distance": "30m"
+    },
+    {
+      "brand": "炫炫小龙虾",
+      "address": "荆州路与昆明路交叉口西120米",
+      "distance": "30m"
+    },
+    {
+      "brand": "Manner Coffee(宝地广场店)",
+      "address": "唐山路1018号宝地广场C座B1层",
+      "distance": "32m"
+    },
+    {
+      "brand": "小满手工粉(上海城市集市宝地广场店)",
+      "address": "唐山路1018号宝地广场C座B1层",
+      "distance": "32m"
+    },
+    {
+      "brand": "成都你六姐(城市集市宝地广场店)",
+      "address": "唐山路1018号宝地广场C座B1层",
+      "distance": "33m"
+    },
+    {
+      "brand": "爷叔炒饭(宝地广场店)",
+      "address": "唐山路1018号地下一层B101号(盒马鲜生)",
+      "distance": "6m"
+    },
+    {
+      "brand": "磨逗(宝地广场店)",
+      "address": "唐山路1018号宝地广场C座B1层",
+      "distance": "25m"
+    },
+    {
+      "brand": "LINLEE·手打柠檬茶(宝地广场城市集市店)",
+      "address": "唐山路1018号宝地广场C座B1层",
+      "distance": "25m"
+    },
+    {
+      "brand": "大嘴砂锅鸡",
+      "address": "荆州路与昆明路交叉口西120米",
+      "distance": "29m"
+    },
+    {
+      "brand": "鹅庄.台湾食堂(宝地广场店)",
+      "address": "唐山路1018号宝地广场C座B1层",
+      "distance": "29m"
+    },
+    {
+      "brand": "喜家德虾仁水饺(宝地广场城市集市店)",
+      "address": "江浦路街道唐山路1018号(宝地广场B1层)",
+      "distance": "30m"
+    },
+    {
+      "brand": "炫炫小龙虾",
+      "address": "荆州路与昆明路交叉口西120米",
+      "distance": "30m"
+    },
+    {
+      "brand": "Manner Coffee(宝地广场店)",
+      "address": "唐山路1018号宝地广场C座B1层",
+      "distance": "32m"
+    },
+    {
+      "brand": "小满手工粉(上海城市集市宝地广场店)",
+      "address": "唐山路1018号宝地广场C座B1层",
+      "distance": "32m"
+    },
+    {
+      "brand": "成都你六姐(城市集市宝地广场店)",
+      "address": "唐山路1018号宝地广场C座B1层",
+      "distance": "33m"
+    },
+    {
+      "brand": "爷叔炒饭(宝地广场店)",
+      "address": "唐山路1018号地下一层B101号(盒马鲜生)",
+      "distance": "6m"
+    },
+    {
+      "brand": "磨逗(宝地广场店)",
+      "address": "唐山路1018号宝地广场C座B1层",
+      "distance": "25m"
+    },
+    {
+      "brand": "LINLEE·手打柠檬茶(宝地广场城市集市店)",
+      "address": "唐山路1018号宝地广场C座B1层",
+      "distance": "25m"
+    },
+    {
+      "brand": "大嘴砂锅鸡",
+      "address": "荆州路与昆明路交叉口西120米",
+      "distance": "29m"
+    },
+    {
+      "brand": "鹅庄.台湾食堂(宝地广场店)",
+      "address": "唐山路1018号宝地广场C座B1层",
+      "distance": "29m"
+    },
+    {
+      "brand": "喜家德虾仁水饺(宝地广场城市集市店)",
+      "address": "江浦路街道唐山路1018号(宝地广场B1层)",
+      "distance": "30m"
+    },
+    {
+      "brand": "炫炫小龙虾",
+      "address": "荆州路与昆明路交叉口西120米",
+      "distance": "30m"
+    },
+    {
+      "brand": "Manner Coffee(宝地广场店)",
+      "address": "唐山路1018号宝地广场C座B1层",
+      "distance": "32m"
+    },
+    {
+      "brand": "小满手工粉(上海城市集市宝地广场店)",
+      "address": "唐山路1018号宝地广场C座B1层",
+      "distance": "32m"
+    },
+    {
+      "brand": "成都你六姐(城市集市宝地广场店)",
+      "address": "唐山路1018号宝地广场C座B1层",
+      "distance": "33m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海昇汇广场",
+      "open_date": "2018-12-01",
+      "area": "3200㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海上滨生活广场",
+      "open_date": "2019-06-18",
+      "area": "4.5万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海北外滩来福士",
+      "open_date": "2021-07-10",
+      "area": "12万㎡",
+      "jun_daily_avg": "4.3万人次",
+      "weekday_avg": "4.6万人次",
+      "holiday_avg": "3.6万人次"
+    },
+    {
+      "name": "上海瑞虹新天地太阳宫",
+      "open_date": "2021-09-19",
+      "area": "18万㎡",
+      "jun_daily_avg": "7.4万人次",
+      "weekday_avg": "6.8万人次",
+      "holiday_avg": "9.1万人次"
+    },
+    {
+      "name": "上海瑞虹坊",
+      "open_date": "2020-10-03",
+      "area": "3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "金茂时尚生活中心",
+      "open_date": "2005-09-01",
+      "area": "2.3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海瑞虹天地月亮湾",
+      "open_date": "2017-06-13",
+      "area": "6.4万㎡",
+      "jun_daily_avg": "4.5万人次",
+      "weekday_avg": "4万人次",
+      "holiday_avg": "5.9万人次"
+    },
+    {
+      "name": "上海君欣时代广场",
+      "open_date": "2018-04-01",
+      "area": "4万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海控江旭辉MALL",
+      "open_date": "2016-08-27",
+      "area": "3万㎡",
+      "jun_daily_avg": "3.6万人次",
+      "weekday_avg": "3.4万人次",
+      "holiday_avg": "4.1万人次"
+    },
+    {
+      "name": "上海瑞虹天地星星堂",
+      "open_date": "2015-05-14",
+      "area": "2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 51.0,
+      "within_1yr_pct": 25.5,
+      "1_3yr_pct": 29.4,
+      "over_3yr_pct": 45.1
+    },
+    {
+      "type": "购物",
+      "count": 20.0,
+      "within_1yr_pct": 5.0,
+      "1_3yr_pct": 15.0,
+      "over_3yr_pct": 80.0
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "教育培训",
+      "count": 2.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "生活服务",
+      "count": 24.0,
+      "within_1yr_pct": 12.5,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 54.2
+    },
+    {
+      "type": "运动健身",
+      "count": 6.0,
+      "within_1yr_pct": 16.7,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 33.3
+    },
+    {
+      "type": "车辆服务",
+      "count": 3.0,
+      "within_1yr_pct": 66.7,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 33.3
+    }
+  ]
+}

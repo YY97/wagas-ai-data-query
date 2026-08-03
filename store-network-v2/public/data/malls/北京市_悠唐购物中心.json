@@ -1,0 +1,486 @@
+{
+  "name": "悠唐购物中心",
+  "city": "北京市",
+  "address": "北京市朝阳区三丰路2号",
+  "lat": 39.921901,
+  "lng": 116.439363,
+  "overview": {
+    "score": 95.8,
+    "score_rank": "市内前30%",
+    "population_score": 94.6,
+    "area_score": 100.0,
+    "consumption_score": 83.2,
+    "industry_score": 95.8,
+    "annual_sales": "9",
+    "annual_sales_unit": "亿元",
+    "area_size_sqm": 12.0,
+    "open_date": "2009-04-01",
+    "operator": "北京兆泰集团股份有限公司",
+    "brand": "",
+    "type": "综合型",
+    "floors": "B1-L5"
+  },
+  "traffic": {
+    "annual_daily": 4.13,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第36",
+    "jun_total": 194.5,
+    "jun_total_rank": "市内商场第21名",
+    "jun_daily_avg": 6.5,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第21名",
+    "weekday_avg": 6.4,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第19名",
+    "holiday_avg": 6.7,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第43名"
+  },
+  "population": {
+    "residential": {
+      "500m": 2.7,
+      "1_5km": 18.7,
+      "3km": 68.8
+    },
+    "office": {
+      "500m": 6.8,
+      "1_5km": 25.1,
+      "3km": 86.7
+    },
+    "permanent": {
+      "500m": 4.0,
+      "1_5km": 21.5,
+      "3km": 82.8
+    }
+  },
+  "business": {
+    "competitors": 9.0,
+    "food": 516.0,
+    "shopping": 323.0,
+    "leisure": 54.0,
+    "education": 40.0,
+    "hotel": 60.0,
+    "services": 256.0,
+    "fitness": 47.0,
+    "auto": 21.0,
+    "total_stores": 280.0,
+    "old_store_3yr_pct": 43.0
+  },
+  "nearby_poi": {
+    "business": 11.0,
+    "community": 441.0,
+    "office": 138.0,
+    "school": 34.0,
+    "hospital": 175.0,
+    "transport": 6.0,
+    "scenic": 389.0
+  },
+  "demographics": {
+    "male_pct": 46.8,
+    "female_pct": null,
+    "education": {
+      "小学": 9.9,
+      "初中": 17.2,
+      "高中": 11.0,
+      "大专": 6.6,
+      "本科": 46.9,
+      "硕士": 6.7,
+      "博士": 1.7
+    },
+    "has_children_pct": 58.0,
+    "no_children_pct": 42.0
+  },
+  "scraped_at": "2026-07-31T11:38:06.811Z",
+  "nearby_restaurants": [
+    {
+      "brand": "遇见小面(悠唐广场店)",
+      "address": "北京城区朝阳门外三丰北里2号楼悠唐购物中心地下一层",
+      "distance": "2m"
+    },
+    {
+      "brand": "农小锅(北京悠唐中心店)",
+      "address": "北京城区三丰北里16幢等4幢-01层-101内B01A(悠唐中心B1)",
+      "distance": "14m"
+    },
+    {
+      "brand": "汉堡王(悠唐购物中心1期店)",
+      "address": "三丰路2号悠唐购物中心B1层",
+      "distance": "15m"
+    },
+    {
+      "brand": "达美乐比萨(朝阳门外店)",
+      "address": "三丰北里内16幢-B1层-101",
+      "distance": "18m"
+    },
+    {
+      "brand": "Blueglass酸奶(悠唐店)",
+      "address": "北京城区朝外南街悠唐购物中心2号楼1层010号",
+      "distance": "20m"
+    },
+    {
+      "brand": "都士竟成·先考牛肉干(悠唐购物中心店)",
+      "address": "北京城区朝外南街悠唐购物中心B1层(近电影院门口)",
+      "distance": "20m"
+    },
+    {
+      "brand": "巴奴毛肚火锅(北京悠唐店)",
+      "address": "朝外市场街与朝外南街交叉口悠唐购物中心东1门4层",
+      "distance": "20m"
+    },
+    {
+      "brand": "左庭右院鲜牛肉火锅(悠唐广场店)",
+      "address": "北京城区悠唐购物中心5层516",
+      "distance": "21m"
+    },
+    {
+      "brand": "TANYU(悠唐国际店)",
+      "address": "三丰路与三丰南巷交叉口东北120米",
+      "distance": "22m"
+    },
+    {
+      "brand": "星巴克臻选北京朝外悠唐店",
+      "address": "北京城区三丰北里2号楼悠唐生活广场",
+      "distance": "23m"
+    },
+    {
+      "brand": "遇见小面(悠唐广场店)",
+      "address": "北京城区朝阳门外三丰北里2号楼悠唐购物中心地下一层",
+      "distance": "2m"
+    },
+    {
+      "brand": "农小锅(北京悠唐中心店)",
+      "address": "北京城区三丰北里16幢等4幢-01层-101内B01A(悠唐中心B1)",
+      "distance": "14m"
+    },
+    {
+      "brand": "汉堡王(悠唐购物中心1期店)",
+      "address": "三丰路2号悠唐购物中心B1层",
+      "distance": "15m"
+    },
+    {
+      "brand": "达美乐比萨(朝阳门外店)",
+      "address": "三丰北里内16幢-B1层-101",
+      "distance": "18m"
+    },
+    {
+      "brand": "Blueglass酸奶(悠唐店)",
+      "address": "北京城区朝外南街悠唐购物中心2号楼1层010号",
+      "distance": "20m"
+    },
+    {
+      "brand": "都士竟成·先考牛肉干(悠唐购物中心店)",
+      "address": "北京城区朝外南街悠唐购物中心B1层(近电影院门口)",
+      "distance": "20m"
+    },
+    {
+      "brand": "巴奴毛肚火锅(北京悠唐店)",
+      "address": "朝外市场街与朝外南街交叉口悠唐购物中心东1门4层",
+      "distance": "20m"
+    },
+    {
+      "brand": "左庭右院鲜牛肉火锅(悠唐广场店)",
+      "address": "北京城区悠唐购物中心5层516",
+      "distance": "21m"
+    },
+    {
+      "brand": "TANYU(悠唐国际店)",
+      "address": "三丰路与三丰南巷交叉口东北120米",
+      "distance": "22m"
+    },
+    {
+      "brand": "星巴克臻选北京朝外悠唐店",
+      "address": "北京城区三丰北里2号楼悠唐生活广场",
+      "distance": "23m"
+    },
+    {
+      "brand": "遇见小面(悠唐广场店)",
+      "address": "北京城区朝阳门外三丰北里2号楼悠唐购物中心地下一层",
+      "distance": "2m"
+    },
+    {
+      "brand": "农小锅(北京悠唐中心店)",
+      "address": "北京城区三丰北里16幢等4幢-01层-101内B01A(悠唐中心B1)",
+      "distance": "14m"
+    },
+    {
+      "brand": "汉堡王(悠唐购物中心1期店)",
+      "address": "三丰路2号悠唐购物中心B1层",
+      "distance": "15m"
+    },
+    {
+      "brand": "达美乐比萨(朝阳门外店)",
+      "address": "三丰北里内16幢-B1层-101",
+      "distance": "18m"
+    },
+    {
+      "brand": "Blueglass酸奶(悠唐店)",
+      "address": "北京城区朝外南街悠唐购物中心2号楼1层010号",
+      "distance": "20m"
+    },
+    {
+      "brand": "都士竟成·先考牛肉干(悠唐购物中心店)",
+      "address": "北京城区朝外南街悠唐购物中心B1层(近电影院门口)",
+      "distance": "20m"
+    },
+    {
+      "brand": "巴奴毛肚火锅(北京悠唐店)",
+      "address": "朝外市场街与朝外南街交叉口悠唐购物中心东1门4层",
+      "distance": "20m"
+    },
+    {
+      "brand": "左庭右院鲜牛肉火锅(悠唐广场店)",
+      "address": "北京城区悠唐购物中心5层516",
+      "distance": "21m"
+    },
+    {
+      "brand": "TANYU(悠唐国际店)",
+      "address": "三丰路与三丰南巷交叉口东北120米",
+      "distance": "22m"
+    },
+    {
+      "brand": "星巴克臻选北京朝外悠唐店",
+      "address": "北京城区三丰北里2号楼悠唐生活广场",
+      "distance": "23m"
+    },
+    {
+      "brand": "遇见小面(悠唐广场店)",
+      "address": "北京城区朝阳门外三丰北里2号楼悠唐购物中心地下一层",
+      "distance": "2m"
+    },
+    {
+      "brand": "农小锅(北京悠唐中心店)",
+      "address": "北京城区三丰北里16幢等4幢-01层-101内B01A(悠唐中心B1)",
+      "distance": "14m"
+    },
+    {
+      "brand": "汉堡王(悠唐购物中心1期店)",
+      "address": "三丰路2号悠唐购物中心B1层",
+      "distance": "15m"
+    },
+    {
+      "brand": "达美乐比萨(朝阳门外店)",
+      "address": "三丰北里内16幢-B1层-101",
+      "distance": "18m"
+    },
+    {
+      "brand": "Blueglass酸奶(悠唐店)",
+      "address": "北京城区朝外南街悠唐购物中心2号楼1层010号",
+      "distance": "20m"
+    },
+    {
+      "brand": "都士竟成·先考牛肉干(悠唐购物中心店)",
+      "address": "北京城区朝外南街悠唐购物中心B1层(近电影院门口)",
+      "distance": "20m"
+    },
+    {
+      "brand": "巴奴毛肚火锅(北京悠唐店)",
+      "address": "朝外市场街与朝外南街交叉口悠唐购物中心东1门4层",
+      "distance": "20m"
+    },
+    {
+      "brand": "左庭右院鲜牛肉火锅(悠唐广场店)",
+      "address": "北京城区悠唐购物中心5层516",
+      "distance": "21m"
+    },
+    {
+      "brand": "TANYU(悠唐国际店)",
+      "address": "三丰路与三丰南巷交叉口东北120米",
+      "distance": "22m"
+    },
+    {
+      "brand": "星巴克臻选北京朝外悠唐店",
+      "address": "北京城区三丰北里2号楼悠唐生活广场",
+      "distance": "23m"
+    },
+    {
+      "brand": "遇见小面(悠唐广场店)",
+      "address": "北京城区朝阳门外三丰北里2号楼悠唐购物中心地下一层",
+      "distance": "2m"
+    },
+    {
+      "brand": "农小锅(北京悠唐中心店)",
+      "address": "北京城区三丰北里16幢等4幢-01层-101内B01A(悠唐中心B1)",
+      "distance": "14m"
+    },
+    {
+      "brand": "汉堡王(悠唐购物中心1期店)",
+      "address": "三丰路2号悠唐购物中心B1层",
+      "distance": "15m"
+    },
+    {
+      "brand": "达美乐比萨(朝阳门外店)",
+      "address": "三丰北里内16幢-B1层-101",
+      "distance": "18m"
+    },
+    {
+      "brand": "Blueglass酸奶(悠唐店)",
+      "address": "北京城区朝外南街悠唐购物中心2号楼1层010号",
+      "distance": "20m"
+    },
+    {
+      "brand": "都士竟成·先考牛肉干(悠唐购物中心店)",
+      "address": "北京城区朝外南街悠唐购物中心B1层(近电影院门口)",
+      "distance": "20m"
+    },
+    {
+      "brand": "巴奴毛肚火锅(北京悠唐店)",
+      "address": "朝外市场街与朝外南街交叉口悠唐购物中心东1门4层",
+      "distance": "20m"
+    },
+    {
+      "brand": "左庭右院鲜牛肉火锅(悠唐广场店)",
+      "address": "北京城区悠唐购物中心5层516",
+      "distance": "21m"
+    },
+    {
+      "brand": "TANYU(悠唐国际店)",
+      "address": "三丰路与三丰南巷交叉口东北120米",
+      "distance": "22m"
+    },
+    {
+      "brand": "星巴克臻选北京朝外悠唐店",
+      "address": "北京城区三丰北里2号楼悠唐生活广场",
+      "distance": "23m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "北京丰联广场",
+      "open_date": "1997-01-01",
+      "area": "1.6万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "北京THE BOX 朝外｜年轻力中心",
+      "open_date": "2023-06-10",
+      "area": "1.8万㎡",
+      "jun_daily_avg": "1.9万人次",
+      "weekday_avg": "1.6万人次",
+      "holiday_avg": "2.9万人次"
+    },
+    {
+      "name": "北京银河SOHO",
+      "open_date": "2012-12-01",
+      "area": "8.6万㎡",
+      "jun_daily_avg": "2.4万人次",
+      "weekday_avg": "2.6万人次",
+      "holiday_avg": "1.8万人次"
+    },
+    {
+      "name": "北京国雅大厦",
+      "open_date": "2007-09-01",
+      "area": "2.9万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "北京侨福芳草地",
+      "open_date": "2012-09-01",
+      "area": "4.7万㎡",
+      "jun_daily_avg": "2.3万人次",
+      "weekday_avg": "2.4万人次",
+      "holiday_avg": "2.2万人次"
+    },
+    {
+      "name": "北京蓝岛大厦金隅百货",
+      "open_date": "2007-01-27",
+      "area": "1.6万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "北京春平广场",
+      "open_date": "2007-01-01",
+      "area": "2500㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "北京CBD中骏世界城",
+      "open_date": "2009-12-01",
+      "area": "3万㎡",
+      "jun_daily_avg": "2.4万人次",
+      "weekday_avg": "2.4万人次",
+      "holiday_avg": "2.4万人次"
+    },
+    {
+      "name": "北京世贸天阶",
+      "open_date": "2007-09-15",
+      "area": "8万㎡",
+      "jun_daily_avg": "2.2万人次",
+      "weekday_avg": "2.4万人次",
+      "holiday_avg": "1.9万人次"
+    },
+    {
+      "name": "北京SOHO尚都",
+      "open_date": "2005-01-06",
+      "area": "3.7万㎡",
+      "jun_daily_avg": "2.2万人次",
+      "weekday_avg": "2.3万人次",
+      "holiday_avg": "1.9万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 103.0,
+      "within_1yr_pct": 14.6,
+      "1_3yr_pct": 37.9,
+      "over_3yr_pct": 47.6
+    },
+    {
+      "type": "购物",
+      "count": 97.0,
+      "within_1yr_pct": 18.6,
+      "1_3yr_pct": 43.3,
+      "over_3yr_pct": 38.1
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 20.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 35.0,
+      "over_3yr_pct": 40.0
+    },
+    {
+      "type": "教育培训",
+      "count": 7.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 42.9,
+      "over_3yr_pct": 57.1
+    },
+    {
+      "type": "酒店住宿",
+      "count": 9.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 22.2,
+      "over_3yr_pct": 44.4
+    },
+    {
+      "type": "生活服务",
+      "count": 36.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 41.7
+    },
+    {
+      "type": "运动健身",
+      "count": 4.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 75.0,
+      "over_3yr_pct": 25.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 4.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 50.0
+    }
+  ]
+}

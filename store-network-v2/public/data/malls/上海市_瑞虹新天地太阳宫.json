@@ -1,0 +1,486 @@
+{
+  "name": "瑞虹新天地太阳宫",
+  "city": "上海市",
+  "address": "上海市虹口区瑞虹路188号",
+  "lat": 31.264339,
+  "lng": 121.498696,
+  "overview": {
+    "score": 96.1,
+    "score_rank": "市内前30%",
+    "population_score": 97.8,
+    "area_score": 92.1,
+    "consumption_score": 86.9,
+    "industry_score": 96.1,
+    "annual_sales": "瑞虹天地太阳宫定位“品质生活力中心”，集艺术、文化、自然、生活美学为一体，打造北上海生活力中心。拥有18万平方米超大商业体量，汇聚30%上海首店、40%北上海首店、70%虹口首店",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 18.0,
+    "open_date": "2021-09-19",
+    "operator": "瑞安新天地有限公司",
+    "brand": "瑞安房地产",
+    "type": "美食型",
+    "floors": "L1-L8"
+  },
+  "traffic": {
+    "annual_daily": 4.67,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第36",
+    "jun_total": 222.7,
+    "jun_total_rank": "市内商场第24名",
+    "jun_daily_avg": 7.4,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第24名",
+    "weekday_avg": 6.8,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第20名",
+    "holiday_avg": 9.1,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第28名"
+  },
+  "population": {
+    "residential": {
+      "500m": 3.5,
+      "1_5km": 29.4,
+      "3km": 100.2
+    },
+    "office": {
+      "500m": 2.6,
+      "1_5km": 19.9,
+      "3km": 82.2
+    },
+    "permanent": {
+      "500m": 4.2,
+      "1_5km": 30.9,
+      "3km": 108.6
+    }
+  },
+  "business": {
+    "competitors": 14.0,
+    "food": 386.0,
+    "shopping": 342.0,
+    "leisure": 46.0,
+    "education": 50.0,
+    "hotel": 12.0,
+    "services": 238.0,
+    "fitness": 55.0,
+    "auto": 25.0,
+    "total_stores": 399.0,
+    "old_store_3yr_pct": 50.0
+  },
+  "nearby_poi": {
+    "business": 10.0,
+    "community": 839.0,
+    "office": 125.0,
+    "school": 62.0,
+    "hospital": 110.0,
+    "transport": 18.0,
+    "scenic": 464.0
+  },
+  "demographics": {
+    "male_pct": 48.1,
+    "female_pct": null,
+    "education": {
+      "小学": 9.2,
+      "初中": 18.4,
+      "高中": 12.4,
+      "大专": 7.0,
+      "本科": 46.6,
+      "硕士": 4.7,
+      "博士": 1.7
+    },
+    "has_children_pct": 62.4,
+    "no_children_pct": 37.6
+  },
+  "scraped_at": "2026-07-31T11:09:50.041Z",
+  "nearby_restaurants": [
+    {
+      "brand": "红鸟(瑞虹新天地太阳宫店)",
+      "address": "瑞虹路181号瑞虹新天地太阳宫L5层",
+      "distance": "1m"
+    },
+    {
+      "brand": "德罗心DELORSIM(瑞虹天地太阳宫)",
+      "address": "瑞虹路181号瑞虹天地太阳宫4层5室",
+      "distance": "7m"
+    },
+    {
+      "brand": "客屿·山湖海(瑞虹天地太阳宫店)",
+      "address": "瑞虹路181号瑞虹新天地太阳宫L7层",
+      "distance": "7m"
+    },
+    {
+      "brand": "老虎姑婆·手作火锅(瑞虹新天地太阳宫店)",
+      "address": "飞虹路与虹镇老街交叉口西120米",
+      "distance": "7m"
+    },
+    {
+      "brand": "唐饼家(太阳宫店)",
+      "address": "天虹路181号(临平路地铁站1号口步行410米)",
+      "distance": "7m"
+    },
+    {
+      "brand": "Dairy Queen(瑞虹新天地太阳宫)",
+      "address": "瑞虹路181号瑞虹新天地太阳宫L4层",
+      "distance": "9m"
+    },
+    {
+      "brand": "哈根达斯(上海太阳宫店)",
+      "address": "瑞虹路181号瑞虹新天地太阳宫L3层",
+      "distance": "9m"
+    },
+    {
+      "brand": "云上袅袅蒸汽石锅鱼(太阳宫店)",
+      "address": "瑞虹路181号瑞虹新天地太阳宫L5层",
+      "distance": "9m"
+    },
+    {
+      "brand": "西树泡芙(瑞虹新天地太阳宫店)",
+      "address": "瑞虹路181号瑞虹天地太阳宫L4-34B",
+      "distance": "10m"
+    },
+    {
+      "brand": "茶米有言(太阳宫店)",
+      "address": "瑞虹路181号瑞虹天地太阳宫5层K2室",
+      "distance": "11m"
+    },
+    {
+      "brand": "红鸟(瑞虹新天地太阳宫店)",
+      "address": "瑞虹路181号瑞虹新天地太阳宫L5层",
+      "distance": "1m"
+    },
+    {
+      "brand": "德罗心DELORSIM(瑞虹天地太阳宫)",
+      "address": "瑞虹路181号瑞虹天地太阳宫4层5室",
+      "distance": "7m"
+    },
+    {
+      "brand": "客屿·山湖海(瑞虹天地太阳宫店)",
+      "address": "瑞虹路181号瑞虹新天地太阳宫L7层",
+      "distance": "7m"
+    },
+    {
+      "brand": "老虎姑婆·手作火锅(瑞虹新天地太阳宫店)",
+      "address": "飞虹路与虹镇老街交叉口西120米",
+      "distance": "7m"
+    },
+    {
+      "brand": "唐饼家(太阳宫店)",
+      "address": "天虹路181号(临平路地铁站1号口步行410米)",
+      "distance": "7m"
+    },
+    {
+      "brand": "Dairy Queen(瑞虹新天地太阳宫)",
+      "address": "瑞虹路181号瑞虹新天地太阳宫L4层",
+      "distance": "9m"
+    },
+    {
+      "brand": "哈根达斯(上海太阳宫店)",
+      "address": "瑞虹路181号瑞虹新天地太阳宫L3层",
+      "distance": "9m"
+    },
+    {
+      "brand": "云上袅袅蒸汽石锅鱼(太阳宫店)",
+      "address": "瑞虹路181号瑞虹新天地太阳宫L5层",
+      "distance": "9m"
+    },
+    {
+      "brand": "西树泡芙(瑞虹新天地太阳宫店)",
+      "address": "瑞虹路181号瑞虹天地太阳宫L4-34B",
+      "distance": "10m"
+    },
+    {
+      "brand": "茶米有言(太阳宫店)",
+      "address": "瑞虹路181号瑞虹天地太阳宫5层K2室",
+      "distance": "11m"
+    },
+    {
+      "brand": "红鸟(瑞虹新天地太阳宫店)",
+      "address": "瑞虹路181号瑞虹新天地太阳宫L5层",
+      "distance": "1m"
+    },
+    {
+      "brand": "德罗心DELORSIM(瑞虹天地太阳宫)",
+      "address": "瑞虹路181号瑞虹天地太阳宫4层5室",
+      "distance": "7m"
+    },
+    {
+      "brand": "客屿·山湖海(瑞虹天地太阳宫店)",
+      "address": "瑞虹路181号瑞虹新天地太阳宫L7层",
+      "distance": "7m"
+    },
+    {
+      "brand": "老虎姑婆·手作火锅(瑞虹新天地太阳宫店)",
+      "address": "飞虹路与虹镇老街交叉口西120米",
+      "distance": "7m"
+    },
+    {
+      "brand": "唐饼家(太阳宫店)",
+      "address": "天虹路181号(临平路地铁站1号口步行410米)",
+      "distance": "7m"
+    },
+    {
+      "brand": "Dairy Queen(瑞虹新天地太阳宫)",
+      "address": "瑞虹路181号瑞虹新天地太阳宫L4层",
+      "distance": "9m"
+    },
+    {
+      "brand": "哈根达斯(上海太阳宫店)",
+      "address": "瑞虹路181号瑞虹新天地太阳宫L3层",
+      "distance": "9m"
+    },
+    {
+      "brand": "云上袅袅蒸汽石锅鱼(太阳宫店)",
+      "address": "瑞虹路181号瑞虹新天地太阳宫L5层",
+      "distance": "9m"
+    },
+    {
+      "brand": "西树泡芙(瑞虹新天地太阳宫店)",
+      "address": "瑞虹路181号瑞虹天地太阳宫L4-34B",
+      "distance": "10m"
+    },
+    {
+      "brand": "茶米有言(太阳宫店)",
+      "address": "瑞虹路181号瑞虹天地太阳宫5层K2室",
+      "distance": "11m"
+    },
+    {
+      "brand": "红鸟(瑞虹新天地太阳宫店)",
+      "address": "瑞虹路181号瑞虹新天地太阳宫L5层",
+      "distance": "1m"
+    },
+    {
+      "brand": "德罗心DELORSIM(瑞虹天地太阳宫)",
+      "address": "瑞虹路181号瑞虹天地太阳宫4层5室",
+      "distance": "7m"
+    },
+    {
+      "brand": "客屿·山湖海(瑞虹天地太阳宫店)",
+      "address": "瑞虹路181号瑞虹新天地太阳宫L7层",
+      "distance": "7m"
+    },
+    {
+      "brand": "老虎姑婆·手作火锅(瑞虹新天地太阳宫店)",
+      "address": "飞虹路与虹镇老街交叉口西120米",
+      "distance": "7m"
+    },
+    {
+      "brand": "唐饼家(太阳宫店)",
+      "address": "天虹路181号(临平路地铁站1号口步行410米)",
+      "distance": "7m"
+    },
+    {
+      "brand": "Dairy Queen(瑞虹新天地太阳宫)",
+      "address": "瑞虹路181号瑞虹新天地太阳宫L4层",
+      "distance": "9m"
+    },
+    {
+      "brand": "哈根达斯(上海太阳宫店)",
+      "address": "瑞虹路181号瑞虹新天地太阳宫L3层",
+      "distance": "9m"
+    },
+    {
+      "brand": "云上袅袅蒸汽石锅鱼(太阳宫店)",
+      "address": "瑞虹路181号瑞虹新天地太阳宫L5层",
+      "distance": "9m"
+    },
+    {
+      "brand": "西树泡芙(瑞虹新天地太阳宫店)",
+      "address": "瑞虹路181号瑞虹天地太阳宫L4-34B",
+      "distance": "10m"
+    },
+    {
+      "brand": "茶米有言(太阳宫店)",
+      "address": "瑞虹路181号瑞虹天地太阳宫5层K2室",
+      "distance": "11m"
+    },
+    {
+      "brand": "红鸟(瑞虹新天地太阳宫店)",
+      "address": "瑞虹路181号瑞虹新天地太阳宫L5层",
+      "distance": "1m"
+    },
+    {
+      "brand": "德罗心DELORSIM(瑞虹天地太阳宫)",
+      "address": "瑞虹路181号瑞虹天地太阳宫4层5室",
+      "distance": "7m"
+    },
+    {
+      "brand": "客屿·山湖海(瑞虹天地太阳宫店)",
+      "address": "瑞虹路181号瑞虹新天地太阳宫L7层",
+      "distance": "7m"
+    },
+    {
+      "brand": "老虎姑婆·手作火锅(瑞虹新天地太阳宫店)",
+      "address": "飞虹路与虹镇老街交叉口西120米",
+      "distance": "7m"
+    },
+    {
+      "brand": "唐饼家(太阳宫店)",
+      "address": "天虹路181号(临平路地铁站1号口步行410米)",
+      "distance": "7m"
+    },
+    {
+      "brand": "Dairy Queen(瑞虹新天地太阳宫)",
+      "address": "瑞虹路181号瑞虹新天地太阳宫L4层",
+      "distance": "9m"
+    },
+    {
+      "brand": "哈根达斯(上海太阳宫店)",
+      "address": "瑞虹路181号瑞虹新天地太阳宫L3层",
+      "distance": "9m"
+    },
+    {
+      "brand": "云上袅袅蒸汽石锅鱼(太阳宫店)",
+      "address": "瑞虹路181号瑞虹新天地太阳宫L5层",
+      "distance": "9m"
+    },
+    {
+      "brand": "西树泡芙(瑞虹新天地太阳宫店)",
+      "address": "瑞虹路181号瑞虹天地太阳宫L4-34B",
+      "distance": "10m"
+    },
+    {
+      "brand": "茶米有言(太阳宫店)",
+      "address": "瑞虹路181号瑞虹天地太阳宫5层K2室",
+      "distance": "11m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海瑞虹坊",
+      "open_date": "2020-10-03",
+      "area": "3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海瑞虹天地月亮湾",
+      "open_date": "2017-06-13",
+      "area": "6.4万㎡",
+      "jun_daily_avg": "4.5万人次",
+      "weekday_avg": "4万人次",
+      "holiday_avg": "5.9万人次"
+    },
+    {
+      "name": "上海瑞虹天地星星堂",
+      "open_date": "2015-05-14",
+      "area": "2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海上滨生活广场",
+      "open_date": "2019-06-18",
+      "area": "4.5万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海宝地广场",
+      "open_date": "2012-01-01",
+      "area": "3.5万㎡",
+      "jun_daily_avg": "1.7万人次",
+      "weekday_avg": "1.8万人次",
+      "holiday_avg": "1.5万人次"
+    },
+    {
+      "name": "上海昇汇广场",
+      "open_date": "2018-12-01",
+      "area": "3200㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海北外滩来福士",
+      "open_date": "2021-07-10",
+      "area": "12万㎡",
+      "jun_daily_avg": "4.3万人次",
+      "weekday_avg": "4.6万人次",
+      "holiday_avg": "3.6万人次"
+    },
+    {
+      "name": "上海控江旭辉MALL",
+      "open_date": "2016-08-27",
+      "area": "3万㎡",
+      "jun_daily_avg": "3.6万人次",
+      "weekday_avg": "3.4万人次",
+      "holiday_avg": "4.1万人次"
+    },
+    {
+      "name": "上海虹口宝华商业广场",
+      "open_date": "2023-05-20",
+      "area": "2.2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海白玉兰广场",
+      "open_date": "2017-01-04",
+      "area": "11万㎡",
+      "jun_daily_avg": "5.7万人次",
+      "weekday_avg": "5.7万人次",
+      "holiday_avg": "5.7万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 165.0,
+      "within_1yr_pct": 13.9,
+      "1_3yr_pct": 32.7,
+      "over_3yr_pct": 53.3
+    },
+    {
+      "type": "购物",
+      "count": 155.0,
+      "within_1yr_pct": 27.7,
+      "1_3yr_pct": 23.2,
+      "over_3yr_pct": 49.0
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 24.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 41.7
+    },
+    {
+      "type": "教育培训",
+      "count": 4.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 75.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "生活服务",
+      "count": 31.0,
+      "within_1yr_pct": 22.6,
+      "1_3yr_pct": 32.3,
+      "over_3yr_pct": 45.2
+    },
+    {
+      "type": "运动健身",
+      "count": 8.0,
+      "within_1yr_pct": 12.5,
+      "1_3yr_pct": 37.5,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 10.0,
+      "within_1yr_pct": 30.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 20.0
+    }
+  ]
+}

@@ -1,0 +1,465 @@
+{
+  "name": "上海芮欧百货",
+  "city": "上海市",
+  "address": "上海市静安区南京西路1601号",
+  "lat": 31.223219,
+  "lng": 121.447464,
+  "overview": {
+    "score": 93.3,
+    "score_rank": "市内前30%",
+    "population_score": 76.8,
+    "area_score": 100.0,
+    "consumption_score": 89.6,
+    "industry_score": 93.3,
+    "annual_sales": "芮欧百货以Réel为名，源于法文，代表“真实”之意。芮欧百货希冀以其缤彩纷呈的高端精品，以及精致贴心的服务与梦幻多变的创意，诠释现代女性的万种风貌，创造令人惊艳向往的购物体验，成为现代女性乐为女人的摩登之苑。芮欧百货地理位置优越，位于上海市静安区精华地段，地处时尚、创意、文化交汇的南京西路，临近拥有百年历史的老上海时尚圣地百乐门，直接与地铁2号线与7号线以及机场航站楼的出口相接。项目周边还有久光百货、恒隆广场、静安嘉里中心等高端购物场所，与芮欧共同呈现最摩登的生活理念，促进时尚生活圈的共荣发展。此外，静安公园亦与芮欧毗邻而居，绿荫环绕的天然景致触手可及。芮欧百货的总面积达40,000平方米，总营业面积为约25,000平方米",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 6.5,
+    "open_date": "2011-01-01",
+    "operator": "芮欧百货(上海)有限公司",
+    "brand": "",
+    "type": "综合型",
+    "floors": "B1-L5"
+  },
+  "traffic": {
+    "annual_daily": 1.93,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第143",
+    "jun_total": 87.0,
+    "jun_total_rank": "市内商场第139名",
+    "jun_daily_avg": 2.9,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第139名",
+    "weekday_avg": 2.7,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第139名",
+    "holiday_avg": 3.4,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第146名"
+  },
+  "population": {
+    "residential": {
+      "500m": 1.4,
+      "1_5km": 22.0,
+      "3km": 96.8
+    },
+    "office": {
+      "500m": 5.6,
+      "1_5km": 28.4,
+      "3km": 103.2
+    },
+    "permanent": {
+      "500m": 3.6,
+      "1_5km": 27.5,
+      "3km": 113.2
+    }
+  },
+  "business": {
+    "competitors": 23.0,
+    "food": 700.0,
+    "shopping": 746.0,
+    "leisure": 33.0,
+    "education": 53.0,
+    "hotel": 81.0,
+    "services": 464.0,
+    "fitness": 47.0,
+    "auto": 33.0,
+    "total_stores": 122.0,
+    "old_store_3yr_pct": 49.0
+  },
+  "nearby_poi": {
+    "business": 17.0,
+    "community": 1296.0,
+    "office": 211.0,
+    "school": 91.0,
+    "hospital": 207.0,
+    "transport": 13.0,
+    "scenic": 828.0
+  },
+  "demographics": {
+    "male_pct": 45.8,
+    "female_pct": null,
+    "education": {
+      "小学": 9.1,
+      "初中": 17.9,
+      "高中": 12.0,
+      "大专": 6.8,
+      "本科": 47.9,
+      "硕士": 4.7,
+      "博士": 1.6
+    },
+    "has_children_pct": 57.8,
+    "no_children_pct": 42.2
+  },
+  "scraped_at": "2026-07-31T17:22:07.213Z",
+  "nearby_restaurants": [
+    {
+      "brand": "吉屋出猪·金猪脂渣(芮欧百货店)",
+      "address": "常德路与安义路交叉口西80米(静安寺地铁站4号口旁)",
+      "distance": "1m"
+    },
+    {
+      "brand": "乐寿司(南京西路店)",
+      "address": "南京西路1601号芮欧百货1楼(近Henkes)",
+      "distance": "3m"
+    },
+    {
+      "brand": "福福饼店(芮欧百货店)",
+      "address": "南京西路1601号芮欧百货B250号(静安寺地铁站4号口旁)",
+      "distance": "3m"
+    },
+    {
+      "brand": "喜茶(上海芮欧百货店)",
+      "address": "南京西路1601号芮欧百货5楼(静安寺地铁站4号口旁)",
+      "distance": "5m"
+    },
+    {
+      "brand": "阿不就·台湾食堂(芮欧百货店)",
+      "address": "南京西路1601号芮欧百货B2层(静安寺地铁站4号口旁)",
+      "distance": "5m"
+    },
+    {
+      "brand": "茶二·现萃茶(芮欧百货店)",
+      "address": "南京西路1601号芮欧百货B2层(静安寺地铁站4号口旁)",
+      "distance": "5m"
+    },
+    {
+      "brand": "Master Fang罗宋坊(芮欧百货店)",
+      "address": "南京西路1601号芮欧百货B2层(静安寺地铁站4号口旁)",
+      "distance": "5m"
+    },
+    {
+      "brand": "满来寿喜烧·雅苑(芮欧百货店)",
+      "address": "南京西路1601号芮欧百货2层2A(静安寺地铁站4号口旁)",
+      "distance": "5m"
+    },
+    {
+      "brand": "肥佬九记牛腩",
+      "address": "常德路与安义路交叉口西80米(静安寺地铁站4号口旁)",
+      "distance": "5m"
+    },
+    {
+      "brand": "FOURNIL福你有(芮欧百货店)",
+      "address": "南京西路1601号芮欧百货B2层B230",
+      "distance": "7m"
+    },
+    {
+      "brand": "吉屋出猪·金猪脂渣(芮欧百货店)",
+      "address": "常德路与安义路交叉口西80米(静安寺地铁站4号口旁)",
+      "distance": "1m"
+    },
+    {
+      "brand": "乐寿司(南京西路店)",
+      "address": "南京西路1601号芮欧百货1楼(近Henkes)",
+      "distance": "3m"
+    },
+    {
+      "brand": "福福饼店(芮欧百货店)",
+      "address": "南京西路1601号芮欧百货B250号(静安寺地铁站4号口旁)",
+      "distance": "3m"
+    },
+    {
+      "brand": "喜茶(上海芮欧百货店)",
+      "address": "南京西路1601号芮欧百货5楼(静安寺地铁站4号口旁)",
+      "distance": "5m"
+    },
+    {
+      "brand": "阿不就·台湾食堂(芮欧百货店)",
+      "address": "南京西路1601号芮欧百货B2层(静安寺地铁站4号口旁)",
+      "distance": "5m"
+    },
+    {
+      "brand": "茶二·现萃茶(芮欧百货店)",
+      "address": "南京西路1601号芮欧百货B2层(静安寺地铁站4号口旁)",
+      "distance": "5m"
+    },
+    {
+      "brand": "Master Fang罗宋坊(芮欧百货店)",
+      "address": "南京西路1601号芮欧百货B2层(静安寺地铁站4号口旁)",
+      "distance": "5m"
+    },
+    {
+      "brand": "满来寿喜烧·雅苑(芮欧百货店)",
+      "address": "南京西路1601号芮欧百货2层2A(静安寺地铁站4号口旁)",
+      "distance": "5m"
+    },
+    {
+      "brand": "肥佬九记牛腩",
+      "address": "常德路与安义路交叉口西80米(静安寺地铁站4号口旁)",
+      "distance": "5m"
+    },
+    {
+      "brand": "FOURNIL福你有(芮欧百货店)",
+      "address": "南京西路1601号芮欧百货B2层B230",
+      "distance": "7m"
+    },
+    {
+      "brand": "吉屋出猪·金猪脂渣(芮欧百货店)",
+      "address": "常德路与安义路交叉口西80米(静安寺地铁站4号口旁)",
+      "distance": "1m"
+    },
+    {
+      "brand": "乐寿司(南京西路店)",
+      "address": "南京西路1601号芮欧百货1楼(近Henkes)",
+      "distance": "3m"
+    },
+    {
+      "brand": "福福饼店(芮欧百货店)",
+      "address": "南京西路1601号芮欧百货B250号(静安寺地铁站4号口旁)",
+      "distance": "3m"
+    },
+    {
+      "brand": "喜茶(上海芮欧百货店)",
+      "address": "南京西路1601号芮欧百货5楼(静安寺地铁站4号口旁)",
+      "distance": "5m"
+    },
+    {
+      "brand": "阿不就·台湾食堂(芮欧百货店)",
+      "address": "南京西路1601号芮欧百货B2层(静安寺地铁站4号口旁)",
+      "distance": "5m"
+    },
+    {
+      "brand": "茶二·现萃茶(芮欧百货店)",
+      "address": "南京西路1601号芮欧百货B2层(静安寺地铁站4号口旁)",
+      "distance": "5m"
+    },
+    {
+      "brand": "Master Fang罗宋坊(芮欧百货店)",
+      "address": "南京西路1601号芮欧百货B2层(静安寺地铁站4号口旁)",
+      "distance": "5m"
+    },
+    {
+      "brand": "满来寿喜烧·雅苑(芮欧百货店)",
+      "address": "南京西路1601号芮欧百货2层2A(静安寺地铁站4号口旁)",
+      "distance": "5m"
+    },
+    {
+      "brand": "肥佬九记牛腩",
+      "address": "常德路与安义路交叉口西80米(静安寺地铁站4号口旁)",
+      "distance": "5m"
+    },
+    {
+      "brand": "FOURNIL福你有(芮欧百货店)",
+      "address": "南京西路1601号芮欧百货B2层B230",
+      "distance": "7m"
+    },
+    {
+      "brand": "吉屋出猪·金猪脂渣(芮欧百货店)",
+      "address": "常德路与安义路交叉口西80米(静安寺地铁站4号口旁)",
+      "distance": "1m"
+    },
+    {
+      "brand": "乐寿司(南京西路店)",
+      "address": "南京西路1601号芮欧百货1楼(近Henkes)",
+      "distance": "3m"
+    },
+    {
+      "brand": "福福饼店(芮欧百货店)",
+      "address": "南京西路1601号芮欧百货B250号(静安寺地铁站4号口旁)",
+      "distance": "3m"
+    },
+    {
+      "brand": "喜茶(上海芮欧百货店)",
+      "address": "南京西路1601号芮欧百货5楼(静安寺地铁站4号口旁)",
+      "distance": "5m"
+    },
+    {
+      "brand": "阿不就·台湾食堂(芮欧百货店)",
+      "address": "南京西路1601号芮欧百货B2层(静安寺地铁站4号口旁)",
+      "distance": "5m"
+    },
+    {
+      "brand": "茶二·现萃茶(芮欧百货店)",
+      "address": "南京西路1601号芮欧百货B2层(静安寺地铁站4号口旁)",
+      "distance": "5m"
+    },
+    {
+      "brand": "Master Fang罗宋坊(芮欧百货店)",
+      "address": "南京西路1601号芮欧百货B2层(静安寺地铁站4号口旁)",
+      "distance": "5m"
+    },
+    {
+      "brand": "满来寿喜烧·雅苑(芮欧百货店)",
+      "address": "南京西路1601号芮欧百货2层2A(静安寺地铁站4号口旁)",
+      "distance": "5m"
+    },
+    {
+      "brand": "肥佬九记牛腩",
+      "address": "常德路与安义路交叉口西80米(静安寺地铁站4号口旁)",
+      "distance": "5m"
+    },
+    {
+      "brand": "FOURNIL福你有(芮欧百货店)",
+      "address": "南京西路1601号芮欧百货B2层B230",
+      "distance": "7m"
+    },
+    {
+      "brand": "吉屋出猪·金猪脂渣(芮欧百货店)",
+      "address": "常德路与安义路交叉口西80米(静安寺地铁站4号口旁)",
+      "distance": "1m"
+    },
+    {
+      "brand": "乐寿司(南京西路店)",
+      "address": "南京西路1601号芮欧百货1楼(近Henkes)",
+      "distance": "3m"
+    },
+    {
+      "brand": "福福饼店(芮欧百货店)",
+      "address": "南京西路1601号芮欧百货B250号(静安寺地铁站4号口旁)",
+      "distance": "3m"
+    },
+    {
+      "brand": "喜茶(上海芮欧百货店)",
+      "address": "南京西路1601号芮欧百货5楼(静安寺地铁站4号口旁)",
+      "distance": "5m"
+    },
+    {
+      "brand": "阿不就·台湾食堂(芮欧百货店)",
+      "address": "南京西路1601号芮欧百货B2层(静安寺地铁站4号口旁)",
+      "distance": "5m"
+    },
+    {
+      "brand": "茶二·现萃茶(芮欧百货店)",
+      "address": "南京西路1601号芮欧百货B2层(静安寺地铁站4号口旁)",
+      "distance": "5m"
+    },
+    {
+      "brand": "Master Fang罗宋坊(芮欧百货店)",
+      "address": "南京西路1601号芮欧百货B2层(静安寺地铁站4号口旁)",
+      "distance": "5m"
+    },
+    {
+      "brand": "满来寿喜烧·雅苑(芮欧百货店)",
+      "address": "南京西路1601号芮欧百货2层2A(静安寺地铁站4号口旁)",
+      "distance": "5m"
+    },
+    {
+      "brand": "肥佬九记牛腩",
+      "address": "常德路与安义路交叉口西80米(静安寺地铁站4号口旁)",
+      "distance": "5m"
+    },
+    {
+      "brand": "FOURNIL福你有(芮欧百货店)",
+      "address": "南京西路1601号芮欧百货B2层B230",
+      "distance": "7m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海久光百货",
+      "open_date": "2004-09-04",
+      "area": "9.1万㎡",
+      "jun_daily_avg": "3.7万人次",
+      "weekday_avg": "3.3万人次",
+      "holiday_avg": "4.9万人次"
+    },
+    {
+      "name": "上海静安嘉里中心",
+      "open_date": "2013-01-01",
+      "area": "9.4万㎡",
+      "jun_daily_avg": "6万人次",
+      "weekday_avg": "5.5万人次",
+      "holiday_avg": "7.6万人次"
+    },
+    {
+      "name": "上海晶品Crystal Galleria",
+      "open_date": "2015-09-20",
+      "area": "7.3万㎡",
+      "jun_daily_avg": "3.6万人次",
+      "weekday_avg": "3.3万人次",
+      "holiday_avg": "4.5万人次"
+    },
+    {
+      "name": "上海UX 88",
+      "open_date": "2013-01-01",
+      "area": "6000㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海1788square",
+      "open_date": "2013-04-18",
+      "area": "2.3万㎡",
+      "jun_daily_avg": "1.1万人次",
+      "weekday_avg": "1万人次",
+      "holiday_avg": "1.1万人次"
+    },
+    {
+      "name": "上海商城",
+      "open_date": "1990-04-27",
+      "area": "3万㎡",
+      "jun_daily_avg": "1.2万人次",
+      "weekday_avg": "1.2万人次",
+      "holiday_avg": "1.3万人次"
+    },
+    {
+      "name": "上海JC PLAZA锦沧文华广场",
+      "open_date": "2022-08-18",
+      "area": "2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海恒隆广场",
+      "open_date": "2001-07-14",
+      "area": "11.4万㎡",
+      "jun_daily_avg": "2.2万人次",
+      "weekday_avg": "2.2万人次",
+      "holiday_avg": "2万人次"
+    },
+    {
+      "name": "上海金鹰国际购物广场",
+      "open_date": "2024-01-26",
+      "area": "3.8万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海中信泰富广场",
+      "open_date": "2002-06-15",
+      "area": "3.5万㎡",
+      "jun_daily_avg": "1.1万人次",
+      "weekday_avg": "1.1万人次",
+      "holiday_avg": "1.1万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 51.0,
+      "within_1yr_pct": 17.6,
+      "1_3yr_pct": 31.4,
+      "over_3yr_pct": 51.0
+    },
+    {
+      "type": "购物",
+      "count": 56.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 3.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 66.7,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "生活服务",
+      "count": 10.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 40.0,
+      "over_3yr_pct": 40.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    }
+  ]
+}

@@ -1,0 +1,486 @@
+{
+  "name": "上海仙乐斯广场",
+  "city": "上海市",
+  "address": "上海市黄浦区南京东路街道新昌路75号天安中心",
+  "lat": 31.231785,
+  "lng": 121.469671,
+  "overview": {
+    "score": 89.4,
+    "score_rank": "市内前30%",
+    "population_score": 95.3,
+    "area_score": 93.4,
+    "consumption_score": 88.7,
+    "industry_score": 89.4,
+    "annual_sales": "",
+    "annual_sales_unit": "",
+    "area_size_sqm": null,
+    "open_date": "",
+    "operator": "",
+    "brand": "",
+    "type": "",
+    "floors": ""
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "",
+    "annual_daily_rank": "",
+    "jun_total": null,
+    "jun_total_rank": "",
+    "jun_daily_avg": null,
+    "jun_daily_unit": "",
+    "jun_daily_rank": "",
+    "weekday_avg": null,
+    "weekday_unit": "",
+    "weekday_rank": "",
+    "holiday_avg": null,
+    "holiday_unit": "",
+    "holiday_rank": ""
+  },
+  "population": {
+    "residential": {
+      "500m": 3.0,
+      "1_5km": 20.8,
+      "3km": 85.4
+    },
+    "office": {
+      "500m": 4.6,
+      "1_5km": 34.5,
+      "3km": 110.3
+    },
+    "permanent": {
+      "500m": 3.7,
+      "1_5km": 27.8,
+      "3km": 108.7
+    }
+  },
+  "business": {
+    "competitors": 12.0,
+    "food": 361.0,
+    "shopping": 363.0,
+    "leisure": 43.0,
+    "education": 35.0,
+    "hotel": 88.0,
+    "services": 174.0,
+    "fitness": 16.0,
+    "auto": 31.0,
+    "total_stores": 1126.0,
+    "old_store_3yr_pct": 52.0
+  },
+  "nearby_poi": {
+    "business": 41.0,
+    "community": 1034.0,
+    "office": 229.0,
+    "school": 56.0,
+    "hospital": 225.0,
+    "transport": 22.0,
+    "scenic": 988.0
+  },
+  "demographics": {
+    "male_pct": 48.2,
+    "female_pct": null,
+    "education": {
+      "小学": 9.4,
+      "初中": 17.3,
+      "高中": 11.5,
+      "大专": 7.1,
+      "本科": 47.3,
+      "硕士": 5.7,
+      "博士": 1.7
+    },
+    "has_children_pct": null,
+    "no_children_pct": null
+  },
+  "scraped_at": "2026-07-31T15:33:23.632Z",
+  "nearby_restaurants": [
+    {
+      "brand": "锄禾炒饭",
+      "address": "新昌路与南京西路交叉口西北120米",
+      "distance": "13m"
+    },
+    {
+      "brand": "嘉厨小馆(新昌路店)",
+      "address": "新昌路77号(人民广场地铁站11号口步行260米)",
+      "distance": "15m"
+    },
+    {
+      "brand": "环球美食广场(天安中心店)",
+      "address": "人民广场黄陂北路227号中区广场B1",
+      "distance": "15m"
+    },
+    {
+      "brand": "浆小白豆浆夜市(人民广场店)",
+      "address": "新昌路与南京西路交叉口西北120米",
+      "distance": "15m"
+    },
+    {
+      "brand": "谷麦香中式健康菜·绝无预制菜(南京西路店)",
+      "address": "新昌路与南京西路交叉口西北120米",
+      "distance": "15m"
+    },
+    {
+      "brand": "库迪咖啡(新昌路店)",
+      "address": "南京东路街道南京西路338号天安中心一楼环球美食广场",
+      "distance": "16m"
+    },
+    {
+      "brand": "知味厨房自选餐",
+      "address": "新昌路与南京西路交叉口西北120米",
+      "distance": "20m"
+    },
+    {
+      "brand": "上海老爷叔面菜馆(懋德里二衖店)",
+      "address": "新昌路61弄30-78号懋德里二衖",
+      "distance": "20m"
+    },
+    {
+      "brand": "鲁小姐·鲜炖蹄花(热先生美食城店)",
+      "address": "新昌路与南京西路交叉口西北100米",
+      "distance": "24m"
+    },
+    {
+      "brand": "湘轩湖南土家菜(天安中心店)",
+      "address": "南京西路338号天安中心B1层",
+      "distance": "30m"
+    },
+    {
+      "brand": "锄禾炒饭",
+      "address": "新昌路与南京西路交叉口西北120米",
+      "distance": "13m"
+    },
+    {
+      "brand": "嘉厨小馆(新昌路店)",
+      "address": "新昌路77号(人民广场地铁站11号口步行260米)",
+      "distance": "15m"
+    },
+    {
+      "brand": "环球美食广场(天安中心店)",
+      "address": "人民广场黄陂北路227号中区广场B1",
+      "distance": "15m"
+    },
+    {
+      "brand": "浆小白豆浆夜市(人民广场店)",
+      "address": "新昌路与南京西路交叉口西北120米",
+      "distance": "15m"
+    },
+    {
+      "brand": "谷麦香中式健康菜·绝无预制菜(南京西路店)",
+      "address": "新昌路与南京西路交叉口西北120米",
+      "distance": "15m"
+    },
+    {
+      "brand": "库迪咖啡(新昌路店)",
+      "address": "南京东路街道南京西路338号天安中心一楼环球美食广场",
+      "distance": "16m"
+    },
+    {
+      "brand": "知味厨房自选餐",
+      "address": "新昌路与南京西路交叉口西北120米",
+      "distance": "20m"
+    },
+    {
+      "brand": "上海老爷叔面菜馆(懋德里二衖店)",
+      "address": "新昌路61弄30-78号懋德里二衖",
+      "distance": "20m"
+    },
+    {
+      "brand": "鲁小姐·鲜炖蹄花(热先生美食城店)",
+      "address": "新昌路与南京西路交叉口西北100米",
+      "distance": "24m"
+    },
+    {
+      "brand": "湘轩湖南土家菜(天安中心店)",
+      "address": "南京西路338号天安中心B1层",
+      "distance": "30m"
+    },
+    {
+      "brand": "锄禾炒饭",
+      "address": "新昌路与南京西路交叉口西北120米",
+      "distance": "13m"
+    },
+    {
+      "brand": "嘉厨小馆(新昌路店)",
+      "address": "新昌路77号(人民广场地铁站11号口步行260米)",
+      "distance": "15m"
+    },
+    {
+      "brand": "环球美食广场(天安中心店)",
+      "address": "人民广场黄陂北路227号中区广场B1",
+      "distance": "15m"
+    },
+    {
+      "brand": "浆小白豆浆夜市(人民广场店)",
+      "address": "新昌路与南京西路交叉口西北120米",
+      "distance": "15m"
+    },
+    {
+      "brand": "谷麦香中式健康菜·绝无预制菜(南京西路店)",
+      "address": "新昌路与南京西路交叉口西北120米",
+      "distance": "15m"
+    },
+    {
+      "brand": "库迪咖啡(新昌路店)",
+      "address": "南京东路街道南京西路338号天安中心一楼环球美食广场",
+      "distance": "16m"
+    },
+    {
+      "brand": "知味厨房自选餐",
+      "address": "新昌路与南京西路交叉口西北120米",
+      "distance": "20m"
+    },
+    {
+      "brand": "上海老爷叔面菜馆(懋德里二衖店)",
+      "address": "新昌路61弄30-78号懋德里二衖",
+      "distance": "20m"
+    },
+    {
+      "brand": "鲁小姐·鲜炖蹄花(热先生美食城店)",
+      "address": "新昌路与南京西路交叉口西北100米",
+      "distance": "24m"
+    },
+    {
+      "brand": "湘轩湖南土家菜(天安中心店)",
+      "address": "南京西路338号天安中心B1层",
+      "distance": "30m"
+    },
+    {
+      "brand": "锄禾炒饭",
+      "address": "新昌路与南京西路交叉口西北120米",
+      "distance": "13m"
+    },
+    {
+      "brand": "嘉厨小馆(新昌路店)",
+      "address": "新昌路77号(人民广场地铁站11号口步行260米)",
+      "distance": "15m"
+    },
+    {
+      "brand": "环球美食广场(天安中心店)",
+      "address": "人民广场黄陂北路227号中区广场B1",
+      "distance": "15m"
+    },
+    {
+      "brand": "浆小白豆浆夜市(人民广场店)",
+      "address": "新昌路与南京西路交叉口西北120米",
+      "distance": "15m"
+    },
+    {
+      "brand": "谷麦香中式健康菜·绝无预制菜(南京西路店)",
+      "address": "新昌路与南京西路交叉口西北120米",
+      "distance": "15m"
+    },
+    {
+      "brand": "库迪咖啡(新昌路店)",
+      "address": "南京东路街道南京西路338号天安中心一楼环球美食广场",
+      "distance": "16m"
+    },
+    {
+      "brand": "知味厨房自选餐",
+      "address": "新昌路与南京西路交叉口西北120米",
+      "distance": "20m"
+    },
+    {
+      "brand": "上海老爷叔面菜馆(懋德里二衖店)",
+      "address": "新昌路61弄30-78号懋德里二衖",
+      "distance": "20m"
+    },
+    {
+      "brand": "鲁小姐·鲜炖蹄花(热先生美食城店)",
+      "address": "新昌路与南京西路交叉口西北100米",
+      "distance": "24m"
+    },
+    {
+      "brand": "湘轩湖南土家菜(天安中心店)",
+      "address": "南京西路338号天安中心B1层",
+      "distance": "30m"
+    },
+    {
+      "brand": "锄禾炒饭",
+      "address": "新昌路与南京西路交叉口西北120米",
+      "distance": "13m"
+    },
+    {
+      "brand": "嘉厨小馆(新昌路店)",
+      "address": "新昌路77号(人民广场地铁站11号口步行260米)",
+      "distance": "15m"
+    },
+    {
+      "brand": "环球美食广场(天安中心店)",
+      "address": "人民广场黄陂北路227号中区广场B1",
+      "distance": "15m"
+    },
+    {
+      "brand": "浆小白豆浆夜市(人民广场店)",
+      "address": "新昌路与南京西路交叉口西北120米",
+      "distance": "15m"
+    },
+    {
+      "brand": "谷麦香中式健康菜·绝无预制菜(南京西路店)",
+      "address": "新昌路与南京西路交叉口西北120米",
+      "distance": "15m"
+    },
+    {
+      "brand": "库迪咖啡(新昌路店)",
+      "address": "南京东路街道南京西路338号天安中心一楼环球美食广场",
+      "distance": "16m"
+    },
+    {
+      "brand": "知味厨房自选餐",
+      "address": "新昌路与南京西路交叉口西北120米",
+      "distance": "20m"
+    },
+    {
+      "brand": "上海老爷叔面菜馆(懋德里二衖店)",
+      "address": "新昌路61弄30-78号懋德里二衖",
+      "distance": "20m"
+    },
+    {
+      "brand": "鲁小姐·鲜炖蹄花(热先生美食城店)",
+      "address": "新昌路与南京西路交叉口西北100米",
+      "distance": "24m"
+    },
+    {
+      "brand": "湘轩湖南土家菜(天安中心店)",
+      "address": "南京西路338号天安中心B1层",
+      "distance": "30m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海仙乐斯广场",
+      "open_date": "2001",
+      "area": "2.3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海世茂52+",
+      "open_date": "2010-01-01",
+      "area": "1.5万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海新世界城",
+      "open_date": "1995-12-30",
+      "area": "7万㎡",
+      "jun_daily_avg": "5.7万人次",
+      "weekday_avg": "4.9万人次",
+      "holiday_avg": "8.2万人次"
+    },
+    {
+      "name": "上海雅居乐国际广场",
+      "open_date": "2014-07-12",
+      "area": "2.2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海迪美购物中心",
+      "open_date": "1995-01-01",
+      "area": "5万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海世茂广场",
+      "open_date": "2018-09-28",
+      "area": "5.8万㎡",
+      "jun_daily_avg": "6.6万人次",
+      "weekday_avg": "5.6万人次",
+      "holiday_avg": "9.5万人次"
+    },
+    {
+      "name": "上海第一百货商店",
+      "open_date": "2024-09-30",
+      "area": "2万㎡",
+      "jun_daily_avg": "12.1万人次",
+      "weekday_avg": "10.4万人次",
+      "holiday_avg": "16.7万人次"
+    },
+    {
+      "name": "上海来福士广场",
+      "open_date": "2003-11-01",
+      "area": "4.6万㎡",
+      "jun_daily_avg": "2.7万人次",
+      "weekday_avg": "2.4万人次",
+      "holiday_avg": "3.3万人次"
+    },
+    {
+      "name": "上海兴业太古汇",
+      "open_date": "2017-11-03",
+      "area": "10.3万㎡",
+      "jun_daily_avg": "6万人次",
+      "weekday_avg": "5.9万人次",
+      "holiday_avg": "6.4万人次"
+    },
+    {
+      "name": "上海南京西路818广场",
+      "open_date": "2009-10-26",
+      "area": "2.1万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 361.0,
+      "within_1yr_pct": 24.9,
+      "1_3yr_pct": 20.2,
+      "over_3yr_pct": 54.8
+    },
+    {
+      "type": "购物",
+      "count": 363.0,
+      "within_1yr_pct": 24.2,
+      "1_3yr_pct": 20.9,
+      "over_3yr_pct": 54.8
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 58.0,
+      "within_1yr_pct": 24.1,
+      "1_3yr_pct": 37.9,
+      "over_3yr_pct": 37.9
+    },
+    {
+      "type": "教育培训",
+      "count": 35.0,
+      "within_1yr_pct": 25.7,
+      "1_3yr_pct": 34.3,
+      "over_3yr_pct": 40.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 88.0,
+      "within_1yr_pct": 37.5,
+      "1_3yr_pct": 15.9,
+      "over_3yr_pct": 46.6
+    },
+    {
+      "type": "生活服务",
+      "count": 174.0,
+      "within_1yr_pct": 21.3,
+      "1_3yr_pct": 29.9,
+      "over_3yr_pct": 48.9
+    },
+    {
+      "type": "运动健身",
+      "count": 16.0,
+      "within_1yr_pct": 12.5,
+      "1_3yr_pct": 37.5,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 31.0,
+      "within_1yr_pct": 32.3,
+      "1_3yr_pct": 25.8,
+      "over_3yr_pct": 41.9
+    }
+  ]
+}

@@ -1,0 +1,446 @@
+{
+  "name": "大宁国际商业广场",
+  "city": "上海市",
+  "address": "上海市静安区共和新路1878-2008号",
+  "lat": 31.270478,
+  "lng": 121.455989,
+  "overview": {
+    "score": 95.4,
+    "score_rank": "市内前30%",
+    "population_score": 97.9,
+    "area_score": 90.1,
+    "consumption_score": 78.4,
+    "industry_score": 95.5,
+    "annual_sales": "上海大宁国际商业广场位于上海市浦西中轴交通主干线共和新路与大宁路交界，项目占地面积约55000平方米，总建筑面积约为250000平方米。项目包含15幢高3-19层、错落有致的建筑；11个大小广场；1500个机动停车位；8个主要功能，包括酒店/公寓式酒店、办公楼、SOHO式商住楼、百货零售、餐饮、娱乐、文化/教育、现代服务业等，旨在为上海的中高档消费群创造一个便利、舒适、时尚、新颖和物有所值的综合性城市生活中心",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 10.5,
+    "open_date": "2006-01-01",
+    "operator": "崇邦新基（上海）企业管理咨询有限公司",
+    "brand": "",
+    "type": "综合型",
+    "floors": "L1-L4"
+  },
+  "traffic": {
+    "annual_daily": 3.88,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第53",
+    "jun_total": 97.8,
+    "jun_total_rank": "市内商场第126名",
+    "jun_daily_avg": 3.3,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第126名",
+    "weekday_avg": 2.9,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第130名",
+    "holiday_avg": 4.2,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第111名"
+  },
+  "population": {
+    "residential": {
+      "500m": 3.5,
+      "1_5km": 25.4,
+      "3km": 108.0
+    },
+    "office": {
+      "500m": 2.8,
+      "1_5km": 15.3,
+      "3km": 60.1
+    },
+    "permanent": {
+      "500m": 4.5,
+      "1_5km": 26.7,
+      "3km": 115.5
+    }
+  },
+  "business": {
+    "competitors": 9.0,
+    "food": 316.0,
+    "shopping": 347.0,
+    "leisure": 32.0,
+    "education": 24.0,
+    "hotel": 26.0,
+    "services": 152.0,
+    "fitness": 13.0,
+    "auto": 22.0,
+    "total_stores": 240.0,
+    "old_store_3yr_pct": 60.0
+  },
+  "nearby_poi": {
+    "business": 5.0,
+    "community": 685.0,
+    "office": 74.0,
+    "school": 43.0,
+    "hospital": 93.0,
+    "transport": 11.0,
+    "scenic": 160.0
+  },
+  "demographics": {
+    "male_pct": 46.1,
+    "female_pct": null,
+    "education": {
+      "小学": 9.4,
+      "初中": 18.4,
+      "高中": 11.8,
+      "大专": 7.4,
+      "本科": 47.5,
+      "硕士": 4.0,
+      "博士": 1.5
+    },
+    "has_children_pct": 61.2,
+    "no_children_pct": 38.8
+  },
+  "scraped_at": "2026-07-31T13:02:43.424Z",
+  "nearby_restaurants": [
+    {
+      "brand": "韩宫宴炭火烤肉(大宁国际店)(暂停营业)",
+      "address": "共和新路1978号大宁国际9座2楼201",
+      "distance": "6m"
+    },
+    {
+      "brand": "萨莉亚意式餐厅(大宁国际商业广场店)",
+      "address": "共和新路1878-2008号大宁国际商业广场9座P4层",
+      "distance": "7m"
+    },
+    {
+      "brand": "大宁福朋喜来登大堂吧(共和新路店)",
+      "address": "共和新路1928号大宁福朋喜来登酒店1楼大堂",
+      "distance": "23m"
+    },
+    {
+      "brand": "黔夺夺贵州酸汤火锅(大宁国际店)",
+      "address": "共和新路1928号大宁国际商业广场12座F5层",
+      "distance": "30m"
+    },
+    {
+      "brand": "bluefrog蓝蛙(大宁国际商业广场6座店)",
+      "address": "共和新路1918号大宁国际商业广场6座1层",
+      "distance": "35m"
+    },
+    {
+      "brand": "DQ·蛋糕·冰淇淋(上海大宁店)",
+      "address": "共和新路1978号大宁国际商业中心9幢110c室",
+      "distance": "35m"
+    },
+    {
+      "brand": "望湘园(大宁店)",
+      "address": "共和新路1978号大宁国际商业广场9座4F",
+      "distance": "35m"
+    },
+    {
+      "brand": "熬八年火锅(大宁国际店)",
+      "address": "共和新路2008号大宁国际商业广场9座2层",
+      "distance": "35m"
+    },
+    {
+      "brand": "尚一汤(大宁国际商业广场6座)",
+      "address": "共和新路1918号大宁国际商业广场6座3楼",
+      "distance": "36m"
+    },
+    {
+      "brand": "港丽餐厅(大宁国际商业广场店)",
+      "address": "共和新路1978号大宁国际商业广场9座L301",
+      "distance": "36m"
+    },
+    {
+      "brand": "韩宫宴炭火烤肉(大宁国际店)(暂停营业)",
+      "address": "共和新路1978号大宁国际9座2楼201",
+      "distance": "6m"
+    },
+    {
+      "brand": "萨莉亚意式餐厅(大宁国际商业广场店)",
+      "address": "共和新路1878-2008号大宁国际商业广场9座P4层",
+      "distance": "7m"
+    },
+    {
+      "brand": "大宁福朋喜来登大堂吧(共和新路店)",
+      "address": "共和新路1928号大宁福朋喜来登酒店1楼大堂",
+      "distance": "23m"
+    },
+    {
+      "brand": "黔夺夺贵州酸汤火锅(大宁国际店)",
+      "address": "共和新路1928号大宁国际商业广场12座F5层",
+      "distance": "30m"
+    },
+    {
+      "brand": "bluefrog蓝蛙(大宁国际商业广场6座店)",
+      "address": "共和新路1918号大宁国际商业广场6座1层",
+      "distance": "35m"
+    },
+    {
+      "brand": "DQ·蛋糕·冰淇淋(上海大宁店)",
+      "address": "共和新路1978号大宁国际商业中心9幢110c室",
+      "distance": "35m"
+    },
+    {
+      "brand": "望湘园(大宁店)",
+      "address": "共和新路1978号大宁国际商业广场9座4F",
+      "distance": "35m"
+    },
+    {
+      "brand": "熬八年火锅(大宁国际店)",
+      "address": "共和新路2008号大宁国际商业广场9座2层",
+      "distance": "35m"
+    },
+    {
+      "brand": "尚一汤(大宁国际商业广场6座)",
+      "address": "共和新路1918号大宁国际商业广场6座3楼",
+      "distance": "36m"
+    },
+    {
+      "brand": "港丽餐厅(大宁国际商业广场店)",
+      "address": "共和新路1978号大宁国际商业广场9座L301",
+      "distance": "36m"
+    },
+    {
+      "brand": "韩宫宴炭火烤肉(大宁国际店)(暂停营业)",
+      "address": "共和新路1978号大宁国际9座2楼201",
+      "distance": "6m"
+    },
+    {
+      "brand": "萨莉亚意式餐厅(大宁国际商业广场店)",
+      "address": "共和新路1878-2008号大宁国际商业广场9座P4层",
+      "distance": "7m"
+    },
+    {
+      "brand": "大宁福朋喜来登大堂吧(共和新路店)",
+      "address": "共和新路1928号大宁福朋喜来登酒店1楼大堂",
+      "distance": "23m"
+    },
+    {
+      "brand": "黔夺夺贵州酸汤火锅(大宁国际店)",
+      "address": "共和新路1928号大宁国际商业广场12座F5层",
+      "distance": "30m"
+    },
+    {
+      "brand": "bluefrog蓝蛙(大宁国际商业广场6座店)",
+      "address": "共和新路1918号大宁国际商业广场6座1层",
+      "distance": "35m"
+    },
+    {
+      "brand": "DQ·蛋糕·冰淇淋(上海大宁店)",
+      "address": "共和新路1978号大宁国际商业中心9幢110c室",
+      "distance": "35m"
+    },
+    {
+      "brand": "望湘园(大宁店)",
+      "address": "共和新路1978号大宁国际商业广场9座4F",
+      "distance": "35m"
+    },
+    {
+      "brand": "熬八年火锅(大宁国际店)",
+      "address": "共和新路2008号大宁国际商业广场9座2层",
+      "distance": "35m"
+    },
+    {
+      "brand": "尚一汤(大宁国际商业广场6座)",
+      "address": "共和新路1918号大宁国际商业广场6座3楼",
+      "distance": "36m"
+    },
+    {
+      "brand": "港丽餐厅(大宁国际商业广场店)",
+      "address": "共和新路1978号大宁国际商业广场9座L301",
+      "distance": "36m"
+    },
+    {
+      "brand": "韩宫宴炭火烤肉(大宁国际店)(暂停营业)",
+      "address": "共和新路1978号大宁国际9座2楼201",
+      "distance": "6m"
+    },
+    {
+      "brand": "萨莉亚意式餐厅(大宁国际商业广场店)",
+      "address": "共和新路1878-2008号大宁国际商业广场9座P4层",
+      "distance": "7m"
+    },
+    {
+      "brand": "大宁福朋喜来登大堂吧(共和新路店)",
+      "address": "共和新路1928号大宁福朋喜来登酒店1楼大堂",
+      "distance": "23m"
+    },
+    {
+      "brand": "黔夺夺贵州酸汤火锅(大宁国际店)",
+      "address": "共和新路1928号大宁国际商业广场12座F5层",
+      "distance": "30m"
+    },
+    {
+      "brand": "bluefrog蓝蛙(大宁国际商业广场6座店)",
+      "address": "共和新路1918号大宁国际商业广场6座1层",
+      "distance": "35m"
+    },
+    {
+      "brand": "DQ·蛋糕·冰淇淋(上海大宁店)",
+      "address": "共和新路1978号大宁国际商业中心9幢110c室",
+      "distance": "35m"
+    },
+    {
+      "brand": "望湘园(大宁店)",
+      "address": "共和新路1978号大宁国际商业广场9座4F",
+      "distance": "35m"
+    },
+    {
+      "brand": "熬八年火锅(大宁国际店)",
+      "address": "共和新路2008号大宁国际商业广场9座2层",
+      "distance": "35m"
+    },
+    {
+      "brand": "尚一汤(大宁国际商业广场6座)",
+      "address": "共和新路1918号大宁国际商业广场6座3楼",
+      "distance": "36m"
+    },
+    {
+      "brand": "港丽餐厅(大宁国际商业广场店)",
+      "address": "共和新路1978号大宁国际商业广场9座L301",
+      "distance": "36m"
+    },
+    {
+      "brand": "韩宫宴炭火烤肉(大宁国际店)(暂停营业)",
+      "address": "共和新路1978号大宁国际9座2楼201",
+      "distance": "6m"
+    },
+    {
+      "brand": "萨莉亚意式餐厅(大宁国际商业广场店)",
+      "address": "共和新路1878-2008号大宁国际商业广场9座P4层",
+      "distance": "7m"
+    },
+    {
+      "brand": "大宁福朋喜来登大堂吧(共和新路店)",
+      "address": "共和新路1928号大宁福朋喜来登酒店1楼大堂",
+      "distance": "23m"
+    },
+    {
+      "brand": "黔夺夺贵州酸汤火锅(大宁国际店)",
+      "address": "共和新路1928号大宁国际商业广场12座F5层",
+      "distance": "30m"
+    },
+    {
+      "brand": "bluefrog蓝蛙(大宁国际商业广场6座店)",
+      "address": "共和新路1918号大宁国际商业广场6座1层",
+      "distance": "35m"
+    },
+    {
+      "brand": "DQ·蛋糕·冰淇淋(上海大宁店)",
+      "address": "共和新路1978号大宁国际商业中心9幢110c室",
+      "distance": "35m"
+    },
+    {
+      "brand": "望湘园(大宁店)",
+      "address": "共和新路1978号大宁国际商业广场9座4F",
+      "distance": "35m"
+    },
+    {
+      "brand": "熬八年火锅(大宁国际店)",
+      "address": "共和新路2008号大宁国际商业广场9座2层",
+      "distance": "35m"
+    },
+    {
+      "brand": "尚一汤(大宁国际商业广场6座)",
+      "address": "共和新路1918号大宁国际商业广场6座3楼",
+      "distance": "36m"
+    },
+    {
+      "brand": "港丽餐厅(大宁国际商业广场店)",
+      "address": "共和新路1978号大宁国际商业广场9座L301",
+      "distance": "36m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海久光中心",
+      "open_date": "2021-11-27",
+      "area": "18万㎡",
+      "jun_daily_avg": "4.5万人次",
+      "weekday_avg": "4万人次",
+      "holiday_avg": "5.8万人次"
+    },
+    {
+      "name": "上海百联莘荟购物中心",
+      "open_date": "2021-05-01",
+      "area": "3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海大宁音乐广场",
+      "open_date": "2016-05-27",
+      "area": "4万㎡",
+      "jun_daily_avg": "2.2万人次",
+      "weekday_avg": "2.2万人次",
+      "holiday_avg": "2.4万人次"
+    },
+    {
+      "name": "上海盛源生活广场",
+      "open_date": "2012-07-01",
+      "area": "4.8万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海宝燕商城(大宁店)",
+      "open_date": "-",
+      "area": "-",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 89.0,
+      "within_1yr_pct": 6.7,
+      "1_3yr_pct": 15.7,
+      "over_3yr_pct": 77.5
+    },
+    {
+      "type": "购物",
+      "count": 50.0,
+      "within_1yr_pct": 18.0,
+      "1_3yr_pct": 24.0,
+      "over_3yr_pct": 58.0
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 13.0,
+      "within_1yr_pct": 30.8,
+      "1_3yr_pct": 23.1,
+      "over_3yr_pct": 46.2
+    },
+    {
+      "type": "教育培训",
+      "count": 11.0,
+      "within_1yr_pct": 27.3,
+      "1_3yr_pct": 27.3,
+      "over_3yr_pct": 45.5
+    },
+    {
+      "type": "酒店住宿",
+      "count": 2.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "生活服务",
+      "count": 52.0,
+      "within_1yr_pct": 23.1,
+      "1_3yr_pct": 28.8,
+      "over_3yr_pct": 48.1
+    },
+    {
+      "type": "运动健身",
+      "count": 9.0,
+      "within_1yr_pct": 11.1,
+      "1_3yr_pct": 55.6,
+      "over_3yr_pct": 33.3
+    },
+    {
+      "type": "车辆服务",
+      "count": 14.0,
+      "within_1yr_pct": 14.3,
+      "1_3yr_pct": 35.7,
+      "over_3yr_pct": 50.0
+    }
+  ]
+}

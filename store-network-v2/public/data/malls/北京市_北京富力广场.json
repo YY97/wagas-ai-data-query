@@ -1,0 +1,446 @@
+{
+  "name": "北京富力广场",
+  "city": "北京市",
+  "address": "北京市朝阳区东三环中路65号楼",
+  "lat": 39.895483,
+  "lng": 116.460629,
+  "overview": {
+    "score": 93.8,
+    "score_rank": "市内前30%",
+    "population_score": 96.7,
+    "area_score": 100.0,
+    "consumption_score": 81.3,
+    "industry_score": 93.7,
+    "annual_sales": "10",
+    "annual_sales_unit": "亿元",
+    "area_size_sqm": 10.0,
+    "open_date": "2007-01-01",
+    "operator": "广州富力地产股份有限公司",
+    "brand": "富力集团商业运营管理公司",
+    "type": "综合型",
+    "floors": "B2-L10"
+  },
+  "traffic": {
+    "annual_daily": 3.23,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第64",
+    "jun_total": 135.6,
+    "jun_total_rank": "市内商场第64名",
+    "jun_daily_avg": 4.5,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第64名",
+    "weekday_avg": 4.3,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第58名",
+    "holiday_avg": 5.0,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第71名"
+  },
+  "population": {
+    "residential": {
+      "500m": 3.2,
+      "1_5km": 24.3,
+      "3km": 82.6
+    },
+    "office": {
+      "500m": 2.8,
+      "1_5km": 18.2,
+      "3km": 71.8
+    },
+    "permanent": {
+      "500m": 3.8,
+      "1_5km": 25.3,
+      "3km": 90.5
+    }
+  },
+  "business": {
+    "competitors": 9.0,
+    "food": 348.0,
+    "shopping": 234.0,
+    "leisure": 67.0,
+    "education": 60.0,
+    "hotel": 50.0,
+    "services": 441.0,
+    "fitness": 47.0,
+    "auto": 26.0,
+    "total_stores": 205.0,
+    "old_store_3yr_pct": 49.0
+  },
+  "nearby_poi": {
+    "business": 5.0,
+    "community": 412.0,
+    "office": 100.0,
+    "school": 36.0,
+    "hospital": 146.0,
+    "transport": 20.0,
+    "scenic": 223.0
+  },
+  "demographics": {
+    "male_pct": 51.8,
+    "female_pct": null,
+    "education": {
+      "小学": 9.0,
+      "初中": 15.5,
+      "高中": 11.0,
+      "大专": 6.5,
+      "本科": 49.2,
+      "硕士": 7.1,
+      "博士": 1.7
+    },
+    "has_children_pct": 57.1,
+    "no_children_pct": 42.9
+  },
+  "scraped_at": "2026-07-31T11:13:07.700Z",
+  "nearby_restaurants": [
+    {
+      "brand": "兰湘子·湘菜小炒(北京富力广场店)",
+      "address": "北京城区东三环中路65号ViVa北京富力广场F3",
+      "distance": "0m"
+    },
+    {
+      "brand": "LINLEE·手打柠檬茶(朝阳富力广场店)",
+      "address": "北京城区北京城区东三环中路65号富力广场购物中心三层322号",
+      "distance": "3m"
+    },
+    {
+      "brand": "小满手工粉(北京富力广场店)",
+      "address": "东三环中路65号楼富力广场B1层B02-5号",
+      "distance": "3m"
+    },
+    {
+      "brand": "口口欢喜·新麻辣香锅(北京富力广场店)",
+      "address": "东三环中路65号北京富力广场B1层",
+      "distance": "4m"
+    },
+    {
+      "brand": "咿道南门涮肉(北京富力广场店)",
+      "address": "东三环中路65号楼11层(3/4/5/6/7号电梯直达)",
+      "distance": "6m"
+    },
+    {
+      "brand": "和番井饭(浣熊食堂店)",
+      "address": "东三环中路65号北京富力广场(双井地铁站出入口步行180米)",
+      "distance": "6m"
+    },
+    {
+      "brand": "煲仔皇(北京富力广场店)(暂停营业)",
+      "address": "北京城区东三环中路65号北京富力广场B1层",
+      "distance": "7m"
+    },
+    {
+      "brand": "遇见小面(富力广场店)",
+      "address": "北京城区富力广场负一层102内B02-8号(扶梯旁)",
+      "distance": "9m"
+    },
+    {
+      "brand": "紫龙火锅(富力广场店)",
+      "address": "双井街道东三环中路65号富力广场10层",
+      "distance": "10m"
+    },
+    {
+      "brand": "牛小鲜牛肉串串小火锅(富力广场店)",
+      "address": "北京富力广场B1层-102内B02-6号商铺",
+      "distance": "15m"
+    },
+    {
+      "brand": "兰湘子·湘菜小炒(北京富力广场店)",
+      "address": "北京城区东三环中路65号ViVa北京富力广场F3",
+      "distance": "0m"
+    },
+    {
+      "brand": "LINLEE·手打柠檬茶(朝阳富力广场店)",
+      "address": "北京城区北京城区东三环中路65号富力广场购物中心三层322号",
+      "distance": "3m"
+    },
+    {
+      "brand": "小满手工粉(北京富力广场店)",
+      "address": "东三环中路65号楼富力广场B1层B02-5号",
+      "distance": "3m"
+    },
+    {
+      "brand": "口口欢喜·新麻辣香锅(北京富力广场店)",
+      "address": "东三环中路65号北京富力广场B1层",
+      "distance": "4m"
+    },
+    {
+      "brand": "咿道南门涮肉(北京富力广场店)",
+      "address": "东三环中路65号楼11层(3/4/5/6/7号电梯直达)",
+      "distance": "6m"
+    },
+    {
+      "brand": "和番井饭(浣熊食堂店)",
+      "address": "东三环中路65号北京富力广场(双井地铁站出入口步行180米)",
+      "distance": "6m"
+    },
+    {
+      "brand": "煲仔皇(北京富力广场店)(暂停营业)",
+      "address": "北京城区东三环中路65号北京富力广场B1层",
+      "distance": "7m"
+    },
+    {
+      "brand": "遇见小面(富力广场店)",
+      "address": "北京城区富力广场负一层102内B02-8号(扶梯旁)",
+      "distance": "9m"
+    },
+    {
+      "brand": "紫龙火锅(富力广场店)",
+      "address": "双井街道东三环中路65号富力广场10层",
+      "distance": "10m"
+    },
+    {
+      "brand": "牛小鲜牛肉串串小火锅(富力广场店)",
+      "address": "北京富力广场B1层-102内B02-6号商铺",
+      "distance": "15m"
+    },
+    {
+      "brand": "兰湘子·湘菜小炒(北京富力广场店)",
+      "address": "北京城区东三环中路65号ViVa北京富力广场F3",
+      "distance": "0m"
+    },
+    {
+      "brand": "LINLEE·手打柠檬茶(朝阳富力广场店)",
+      "address": "北京城区北京城区东三环中路65号富力广场购物中心三层322号",
+      "distance": "3m"
+    },
+    {
+      "brand": "小满手工粉(北京富力广场店)",
+      "address": "东三环中路65号楼富力广场B1层B02-5号",
+      "distance": "3m"
+    },
+    {
+      "brand": "口口欢喜·新麻辣香锅(北京富力广场店)",
+      "address": "东三环中路65号北京富力广场B1层",
+      "distance": "4m"
+    },
+    {
+      "brand": "咿道南门涮肉(北京富力广场店)",
+      "address": "东三环中路65号楼11层(3/4/5/6/7号电梯直达)",
+      "distance": "6m"
+    },
+    {
+      "brand": "和番井饭(浣熊食堂店)",
+      "address": "东三环中路65号北京富力广场(双井地铁站出入口步行180米)",
+      "distance": "6m"
+    },
+    {
+      "brand": "煲仔皇(北京富力广场店)(暂停营业)",
+      "address": "北京城区东三环中路65号北京富力广场B1层",
+      "distance": "7m"
+    },
+    {
+      "brand": "遇见小面(富力广场店)",
+      "address": "北京城区富力广场负一层102内B02-8号(扶梯旁)",
+      "distance": "9m"
+    },
+    {
+      "brand": "紫龙火锅(富力广场店)",
+      "address": "双井街道东三环中路65号富力广场10层",
+      "distance": "10m"
+    },
+    {
+      "brand": "牛小鲜牛肉串串小火锅(富力广场店)",
+      "address": "北京富力广场B1层-102内B02-6号商铺",
+      "distance": "15m"
+    },
+    {
+      "brand": "兰湘子·湘菜小炒(北京富力广场店)",
+      "address": "北京城区东三环中路65号ViVa北京富力广场F3",
+      "distance": "0m"
+    },
+    {
+      "brand": "LINLEE·手打柠檬茶(朝阳富力广场店)",
+      "address": "北京城区北京城区东三环中路65号富力广场购物中心三层322号",
+      "distance": "3m"
+    },
+    {
+      "brand": "小满手工粉(北京富力广场店)",
+      "address": "东三环中路65号楼富力广场B1层B02-5号",
+      "distance": "3m"
+    },
+    {
+      "brand": "口口欢喜·新麻辣香锅(北京富力广场店)",
+      "address": "东三环中路65号北京富力广场B1层",
+      "distance": "4m"
+    },
+    {
+      "brand": "咿道南门涮肉(北京富力广场店)",
+      "address": "东三环中路65号楼11层(3/4/5/6/7号电梯直达)",
+      "distance": "6m"
+    },
+    {
+      "brand": "和番井饭(浣熊食堂店)",
+      "address": "东三环中路65号北京富力广场(双井地铁站出入口步行180米)",
+      "distance": "6m"
+    },
+    {
+      "brand": "煲仔皇(北京富力广场店)(暂停营业)",
+      "address": "北京城区东三环中路65号北京富力广场B1层",
+      "distance": "7m"
+    },
+    {
+      "brand": "遇见小面(富力广场店)",
+      "address": "北京城区富力广场负一层102内B02-8号(扶梯旁)",
+      "distance": "9m"
+    },
+    {
+      "brand": "紫龙火锅(富力广场店)",
+      "address": "双井街道东三环中路65号富力广场10层",
+      "distance": "10m"
+    },
+    {
+      "brand": "牛小鲜牛肉串串小火锅(富力广场店)",
+      "address": "北京富力广场B1层-102内B02-6号商铺",
+      "distance": "15m"
+    },
+    {
+      "brand": "兰湘子·湘菜小炒(北京富力广场店)",
+      "address": "北京城区东三环中路65号ViVa北京富力广场F3",
+      "distance": "0m"
+    },
+    {
+      "brand": "LINLEE·手打柠檬茶(朝阳富力广场店)",
+      "address": "北京城区北京城区东三环中路65号富力广场购物中心三层322号",
+      "distance": "3m"
+    },
+    {
+      "brand": "小满手工粉(北京富力广场店)",
+      "address": "东三环中路65号楼富力广场B1层B02-5号",
+      "distance": "3m"
+    },
+    {
+      "brand": "口口欢喜·新麻辣香锅(北京富力广场店)",
+      "address": "东三环中路65号北京富力广场B1层",
+      "distance": "4m"
+    },
+    {
+      "brand": "咿道南门涮肉(北京富力广场店)",
+      "address": "东三环中路65号楼11层(3/4/5/6/7号电梯直达)",
+      "distance": "6m"
+    },
+    {
+      "brand": "和番井饭(浣熊食堂店)",
+      "address": "东三环中路65号北京富力广场(双井地铁站出入口步行180米)",
+      "distance": "6m"
+    },
+    {
+      "brand": "煲仔皇(北京富力广场店)(暂停营业)",
+      "address": "北京城区东三环中路65号北京富力广场B1层",
+      "distance": "7m"
+    },
+    {
+      "brand": "遇见小面(富力广场店)",
+      "address": "北京城区富力广场负一层102内B02-8号(扶梯旁)",
+      "distance": "9m"
+    },
+    {
+      "brand": "紫龙火锅(富力广场店)",
+      "address": "双井街道东三环中路65号富力广场10层",
+      "distance": "10m"
+    },
+    {
+      "brand": "牛小鲜牛肉串串小火锅(富力广场店)",
+      "address": "北京富力广场B1层-102内B02-6号商铺",
+      "distance": "15m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "北京乐成中心SPACE3",
+      "open_date": "2018-05-01",
+      "area": "3.5万㎡",
+      "jun_daily_avg": "2万人次",
+      "weekday_avg": "2万人次",
+      "holiday_avg": "2万人次"
+    },
+    {
+      "name": "北京缤纷汇购物中心",
+      "open_date": "2019-05-01",
+      "area": "1万㎡",
+      "jun_daily_avg": "2.1万人次",
+      "weekday_avg": "2万人次",
+      "holiday_avg": "2.3万人次"
+    },
+    {
+      "name": "北京银泰中心in01",
+      "open_date": "2018-10-01",
+      "area": "3万㎡",
+      "jun_daily_avg": "1.8万人次",
+      "weekday_avg": "1.9万人次",
+      "holiday_avg": "1.5万人次"
+    },
+    {
+      "name": "北京朝阳合生汇",
+      "open_date": "2017-10-01",
+      "area": "20万㎡",
+      "jun_daily_avg": "20.2万人次",
+      "weekday_avg": "17.8万人次",
+      "holiday_avg": "26.9万人次"
+    },
+    {
+      "name": "北京国贸商城",
+      "open_date": "1990-08-01",
+      "area": "7.5万㎡",
+      "jun_daily_avg": "13.8万人次",
+      "weekday_avg": "13.7万人次",
+      "holiday_avg": "14万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 63.0,
+      "within_1yr_pct": 19.0,
+      "1_3yr_pct": 25.4,
+      "over_3yr_pct": 55.6
+    },
+    {
+      "type": "购物",
+      "count": 69.0,
+      "within_1yr_pct": 23.2,
+      "1_3yr_pct": 27.5,
+      "over_3yr_pct": 49.3
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 12.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 41.7,
+      "over_3yr_pct": 25.0
+    },
+    {
+      "type": "教育培训",
+      "count": 13.0,
+      "within_1yr_pct": 7.7,
+      "1_3yr_pct": 30.8,
+      "over_3yr_pct": 61.5
+    },
+    {
+      "type": "酒店住宿",
+      "count": 1.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "生活服务",
+      "count": 32.0,
+      "within_1yr_pct": 12.5,
+      "1_3yr_pct": 34.4,
+      "over_3yr_pct": 53.1
+    },
+    {
+      "type": "运动健身",
+      "count": 12.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 58.3,
+      "over_3yr_pct": 16.7
+    },
+    {
+      "type": "车辆服务",
+      "count": 3.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 66.7
+    }
+  ]
+}

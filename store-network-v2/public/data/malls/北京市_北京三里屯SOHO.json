@@ -1,0 +1,486 @@
+{
+  "name": "北京三里屯SOHO",
+  "city": "北京市",
+  "address": "北京市朝阳区工人体育场北路甲8号",
+  "lat": 39.932926,
+  "lng": 116.454034,
+  "overview": {
+    "score": 94.9,
+    "score_rank": "市内前30%",
+    "population_score": 91.6,
+    "area_score": 100.0,
+    "consumption_score": 82.5,
+    "industry_score": 94.9,
+    "annual_sales": "1.5",
+    "annual_sales_unit": "亿元",
+    "area_size_sqm": 12.8,
+    "open_date": "2010-09-01",
+    "operator": "SOHO中国商业运营团队",
+    "brand": "SOHO中国",
+    "type": "休闲娱乐型",
+    "floors": "B1-L4"
+  },
+  "traffic": {
+    "annual_daily": 4.58,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第22",
+    "jun_total": 154.9,
+    "jun_total_rank": "市内商场第44名",
+    "jun_daily_avg": 5.2,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第44名",
+    "weekday_avg": 4.8,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第42名",
+    "holiday_avg": 6.2,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第49名"
+  },
+  "population": {
+    "residential": {
+      "500m": 2.3,
+      "1_5km": 17.5,
+      "3km": 67.6
+    },
+    "office": {
+      "500m": 2.5,
+      "1_5km": 18.4,
+      "3km": 79.9
+    },
+    "permanent": {
+      "500m": 3.0,
+      "1_5km": 19.6,
+      "3km": 76.6
+    }
+  },
+  "business": {
+    "competitors": 15.0,
+    "food": 531.0,
+    "shopping": 432.0,
+    "leisure": 105.0,
+    "education": 33.0,
+    "hotel": 78.0,
+    "services": 400.0,
+    "fitness": 22.0,
+    "auto": 24.0,
+    "total_stores": 718.0,
+    "old_store_3yr_pct": 40.0
+  },
+  "nearby_poi": {
+    "business": 11.0,
+    "community": 473.0,
+    "office": 135.0,
+    "school": 47.0,
+    "hospital": 180.0,
+    "transport": 7.0,
+    "scenic": 313.0
+  },
+  "demographics": {
+    "male_pct": 51.2,
+    "female_pct": null,
+    "education": {
+      "小学": 9.6,
+      "初中": 16.7,
+      "高中": 10.9,
+      "大专": 6.5,
+      "本科": 47.7,
+      "硕士": 6.9,
+      "博士": 1.7
+    },
+    "has_children_pct": 54.6,
+    "no_children_pct": 45.4
+  },
+  "scraped_at": "2026-07-31T18:15:37.750Z",
+  "nearby_restaurants": [
+    {
+      "brand": "大师卤肉饭(北京三里屯SOHO店)",
+      "address": "南三里屯中街与东大桥斜街交叉口北80米",
+      "distance": "23m"
+    },
+    {
+      "brand": "成都火锅",
+      "address": "东大桥斜街与南三里屯中街交叉口北140米",
+      "distance": "27m"
+    },
+    {
+      "brand": "河东羊肉胡卜烩面",
+      "address": "北京城区三里屯SOHO地下广场德云社斜对面",
+      "distance": "27m"
+    },
+    {
+      "brand": "LINLEE·手打柠檬茶(三里屯SOHO店)",
+      "address": "北京城区工人体育场北路三里屯soho5号商场B1层508",
+      "distance": "29m"
+    },
+    {
+      "brand": "胖二两螺蛳粉",
+      "address": "南三里屯中街与东大桥斜街交叉口北120米",
+      "distance": "31m"
+    },
+    {
+      "brand": "真心茶事",
+      "address": "三里屯SOHO商场3(工人体育场地铁站D口步行450米)",
+      "distance": "31m"
+    },
+    {
+      "brand": "淮香毛旦牛肉汤",
+      "address": "朝阳区工人体育场北路8号三里屯SOHO负一层广场德云社对面",
+      "distance": "32m"
+    },
+    {
+      "brand": "安徽板面(三里屯SOHO商场店)",
+      "address": "工人体育场北路8号三里屯SOHOF2层",
+      "distance": "32m"
+    },
+    {
+      "brand": "牛久食堂(三里屯SOHO店)",
+      "address": "工人体育场北路8号三里屯SOHOB1层",
+      "distance": "35m"
+    },
+    {
+      "brand": "武汉热干面",
+      "address": "三里屯SOHO6号商场",
+      "distance": "36m"
+    },
+    {
+      "brand": "大师卤肉饭(北京三里屯SOHO店)",
+      "address": "南三里屯中街与东大桥斜街交叉口北80米",
+      "distance": "23m"
+    },
+    {
+      "brand": "成都火锅",
+      "address": "东大桥斜街与南三里屯中街交叉口北140米",
+      "distance": "27m"
+    },
+    {
+      "brand": "河东羊肉胡卜烩面",
+      "address": "北京城区三里屯SOHO地下广场德云社斜对面",
+      "distance": "27m"
+    },
+    {
+      "brand": "LINLEE·手打柠檬茶(三里屯SOHO店)",
+      "address": "北京城区工人体育场北路三里屯soho5号商场B1层508",
+      "distance": "29m"
+    },
+    {
+      "brand": "胖二两螺蛳粉",
+      "address": "南三里屯中街与东大桥斜街交叉口北120米",
+      "distance": "31m"
+    },
+    {
+      "brand": "真心茶事",
+      "address": "三里屯SOHO商场3(工人体育场地铁站D口步行450米)",
+      "distance": "31m"
+    },
+    {
+      "brand": "淮香毛旦牛肉汤",
+      "address": "朝阳区工人体育场北路8号三里屯SOHO负一层广场德云社对面",
+      "distance": "32m"
+    },
+    {
+      "brand": "安徽板面(三里屯SOHO商场店)",
+      "address": "工人体育场北路8号三里屯SOHOF2层",
+      "distance": "32m"
+    },
+    {
+      "brand": "牛久食堂(三里屯SOHO店)",
+      "address": "工人体育场北路8号三里屯SOHOB1层",
+      "distance": "35m"
+    },
+    {
+      "brand": "武汉热干面",
+      "address": "三里屯SOHO6号商场",
+      "distance": "36m"
+    },
+    {
+      "brand": "大师卤肉饭(北京三里屯SOHO店)",
+      "address": "南三里屯中街与东大桥斜街交叉口北80米",
+      "distance": "23m"
+    },
+    {
+      "brand": "成都火锅",
+      "address": "东大桥斜街与南三里屯中街交叉口北140米",
+      "distance": "27m"
+    },
+    {
+      "brand": "河东羊肉胡卜烩面",
+      "address": "北京城区三里屯SOHO地下广场德云社斜对面",
+      "distance": "27m"
+    },
+    {
+      "brand": "LINLEE·手打柠檬茶(三里屯SOHO店)",
+      "address": "北京城区工人体育场北路三里屯soho5号商场B1层508",
+      "distance": "29m"
+    },
+    {
+      "brand": "胖二两螺蛳粉",
+      "address": "南三里屯中街与东大桥斜街交叉口北120米",
+      "distance": "31m"
+    },
+    {
+      "brand": "真心茶事",
+      "address": "三里屯SOHO商场3(工人体育场地铁站D口步行450米)",
+      "distance": "31m"
+    },
+    {
+      "brand": "淮香毛旦牛肉汤",
+      "address": "朝阳区工人体育场北路8号三里屯SOHO负一层广场德云社对面",
+      "distance": "32m"
+    },
+    {
+      "brand": "安徽板面(三里屯SOHO商场店)",
+      "address": "工人体育场北路8号三里屯SOHOF2层",
+      "distance": "32m"
+    },
+    {
+      "brand": "牛久食堂(三里屯SOHO店)",
+      "address": "工人体育场北路8号三里屯SOHOB1层",
+      "distance": "35m"
+    },
+    {
+      "brand": "武汉热干面",
+      "address": "三里屯SOHO6号商场",
+      "distance": "36m"
+    },
+    {
+      "brand": "大师卤肉饭(北京三里屯SOHO店)",
+      "address": "南三里屯中街与东大桥斜街交叉口北80米",
+      "distance": "23m"
+    },
+    {
+      "brand": "成都火锅",
+      "address": "东大桥斜街与南三里屯中街交叉口北140米",
+      "distance": "27m"
+    },
+    {
+      "brand": "河东羊肉胡卜烩面",
+      "address": "北京城区三里屯SOHO地下广场德云社斜对面",
+      "distance": "27m"
+    },
+    {
+      "brand": "LINLEE·手打柠檬茶(三里屯SOHO店)",
+      "address": "北京城区工人体育场北路三里屯soho5号商场B1层508",
+      "distance": "29m"
+    },
+    {
+      "brand": "胖二两螺蛳粉",
+      "address": "南三里屯中街与东大桥斜街交叉口北120米",
+      "distance": "31m"
+    },
+    {
+      "brand": "真心茶事",
+      "address": "三里屯SOHO商场3(工人体育场地铁站D口步行450米)",
+      "distance": "31m"
+    },
+    {
+      "brand": "淮香毛旦牛肉汤",
+      "address": "朝阳区工人体育场北路8号三里屯SOHO负一层广场德云社对面",
+      "distance": "32m"
+    },
+    {
+      "brand": "安徽板面(三里屯SOHO商场店)",
+      "address": "工人体育场北路8号三里屯SOHOF2层",
+      "distance": "32m"
+    },
+    {
+      "brand": "牛久食堂(三里屯SOHO店)",
+      "address": "工人体育场北路8号三里屯SOHOB1层",
+      "distance": "35m"
+    },
+    {
+      "brand": "武汉热干面",
+      "address": "三里屯SOHO6号商场",
+      "distance": "36m"
+    },
+    {
+      "brand": "大师卤肉饭(北京三里屯SOHO店)",
+      "address": "南三里屯中街与东大桥斜街交叉口北80米",
+      "distance": "23m"
+    },
+    {
+      "brand": "成都火锅",
+      "address": "东大桥斜街与南三里屯中街交叉口北140米",
+      "distance": "27m"
+    },
+    {
+      "brand": "河东羊肉胡卜烩面",
+      "address": "北京城区三里屯SOHO地下广场德云社斜对面",
+      "distance": "27m"
+    },
+    {
+      "brand": "LINLEE·手打柠檬茶(三里屯SOHO店)",
+      "address": "北京城区工人体育场北路三里屯soho5号商场B1层508",
+      "distance": "29m"
+    },
+    {
+      "brand": "胖二两螺蛳粉",
+      "address": "南三里屯中街与东大桥斜街交叉口北120米",
+      "distance": "31m"
+    },
+    {
+      "brand": "真心茶事",
+      "address": "三里屯SOHO商场3(工人体育场地铁站D口步行450米)",
+      "distance": "31m"
+    },
+    {
+      "brand": "淮香毛旦牛肉汤",
+      "address": "朝阳区工人体育场北路8号三里屯SOHO负一层广场德云社对面",
+      "distance": "32m"
+    },
+    {
+      "brand": "安徽板面(三里屯SOHO商场店)",
+      "address": "工人体育场北路8号三里屯SOHOF2层",
+      "distance": "32m"
+    },
+    {
+      "brand": "牛久食堂(三里屯SOHO店)",
+      "address": "工人体育场北路8号三里屯SOHOB1层",
+      "distance": "35m"
+    },
+    {
+      "brand": "武汉热干面",
+      "address": "三里屯SOHO6号商场",
+      "distance": "36m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "北京T+MALL",
+      "open_date": "2023-12-22",
+      "area": "2.5万㎡",
+      "jun_daily_avg": "2.1万人次",
+      "weekday_avg": "1.7万人次",
+      "holiday_avg": "3.1万人次"
+    },
+    {
+      "name": "北京三里屯太古里",
+      "open_date": "2008-01-01",
+      "area": "13.5万㎡",
+      "jun_daily_avg": "9.9万人次",
+      "weekday_avg": "8.6万人次",
+      "holiday_avg": "13.3万人次"
+    },
+    {
+      "name": "北京世茂广场(工三店)",
+      "open_date": "2011-12-23",
+      "area": "6.6万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "北京三里屯3.3大厦",
+      "open_date": "2005-10-01",
+      "area": "4万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "北京三里屯永利国际购物中心",
+      "open_date": "2011-01-01",
+      "area": "3.3万㎡",
+      "jun_daily_avg": "1.1万人次",
+      "weekday_avg": "1.1万人次",
+      "holiday_avg": "1.1万人次"
+    },
+    {
+      "name": "北京春平广场",
+      "open_date": "2007-01-01",
+      "area": "2500㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "北京蓝岛大厦金隅百货",
+      "open_date": "2007-01-27",
+      "area": "1.6万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "北京THE BOX 朝外｜年轻力中心",
+      "open_date": "2023-06-10",
+      "area": "1.8万㎡",
+      "jun_daily_avg": "1.9万人次",
+      "weekday_avg": "1.6万人次",
+      "holiday_avg": "2.9万人次"
+    },
+    {
+      "name": "北京侨福芳草地",
+      "open_date": "2012-09-01",
+      "area": "4.7万㎡",
+      "jun_daily_avg": "2.3万人次",
+      "weekday_avg": "2.4万人次",
+      "holiday_avg": "2.2万人次"
+    },
+    {
+      "name": "北京好世界商业广场",
+      "open_date": "2015-01-01",
+      "area": "2.4万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 194.0,
+      "within_1yr_pct": 29.9,
+      "1_3yr_pct": 32.5,
+      "over_3yr_pct": 37.6
+    },
+    {
+      "type": "购物",
+      "count": 127.0,
+      "within_1yr_pct": 21.3,
+      "1_3yr_pct": 31.5,
+      "over_3yr_pct": 47.2
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 77.0,
+      "within_1yr_pct": 40.3,
+      "1_3yr_pct": 36.4,
+      "over_3yr_pct": 23.4
+    },
+    {
+      "type": "教育培训",
+      "count": 16.0,
+      "within_1yr_pct": 31.3,
+      "1_3yr_pct": 31.3,
+      "over_3yr_pct": 37.5
+    },
+    {
+      "type": "酒店住宿",
+      "count": 13.0,
+      "within_1yr_pct": 23.1,
+      "1_3yr_pct": 15.4,
+      "over_3yr_pct": 61.5
+    },
+    {
+      "type": "生活服务",
+      "count": 276.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 33.0,
+      "over_3yr_pct": 42.0
+    },
+    {
+      "type": "运动健身",
+      "count": 10.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 40.0,
+      "over_3yr_pct": 60.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 5.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 60.0,
+      "over_3yr_pct": 20.0
+    }
+  ]
+}

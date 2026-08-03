@@ -1,0 +1,222 @@
+{
+  "name": "青峰时代广场(奉贤店)",
+  "city": "上海市",
+  "address": "上海市金山区山阳镇龙翔路768号欧富商业广场",
+  "lat": 30.746847,
+  "lng": 121.335985,
+  "overview": {
+    "score": null,
+    "score_rank": "",
+    "population_score": 79.8,
+    "area_score": 72.3,
+    "consumption_score": 62.2,
+    "industry_score": 67.0,
+    "annual_sales": "",
+    "annual_sales_unit": "",
+    "area_size_sqm": null,
+    "open_date": "",
+    "operator": "",
+    "brand": "",
+    "type": "综合型",
+    "floors": ""
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "",
+    "annual_daily_rank": "",
+    "jun_total": null,
+    "jun_total_rank": "",
+    "jun_daily_avg": null,
+    "jun_daily_unit": "",
+    "jun_daily_rank": "",
+    "weekday_avg": null,
+    "weekday_unit": "",
+    "weekday_rank": "",
+    "holiday_avg": null,
+    "holiday_unit": "",
+    "holiday_rank": ""
+  },
+  "population": {
+    "residential": {
+      "500m": 1.6,
+      "1_5km": 9.3,
+      "3km": 35.6
+    },
+    "office": {
+      "500m": 7500.0,
+      "1_5km": 4.5,
+      "3km": 14.1
+    },
+    "permanent": {
+      "500m": 1.6,
+      "1_5km": 9.5,
+      "3km": 33.6
+    }
+  },
+  "business": {
+    "competitors": 1.0,
+    "food": 118.0,
+    "shopping": 85.0,
+    "leisure": 14.0,
+    "education": 25.0,
+    "hotel": 14.0,
+    "services": 100.0,
+    "fitness": 21.0,
+    "auto": 8.0,
+    "total_stores": 21.0,
+    "old_store_3yr_pct": 67.0
+  },
+  "nearby_poi": {
+    "business": 5.0,
+    "community": 131.0,
+    "office": 6.0,
+    "school": 13.0,
+    "hospital": 26.0,
+    "transport": 10.0,
+    "scenic": 49.0
+  },
+  "demographics": {
+    "male_pct": 46.4,
+    "female_pct": null,
+    "education": {
+      "小学": 10.7,
+      "初中": 21.2,
+      "高中": 11.5,
+      "大专": 8.1,
+      "本科": 45.0,
+      "硕士": 2.7,
+      "博士": 0.8
+    },
+    "has_children_pct": 64.3,
+    "no_children_pct": 35.7
+  },
+  "scraped_at": "2026-08-01T16:35:43.412Z",
+  "nearby_restaurants": [
+    {
+      "brand": "缤果很忙·水果·果切·果捞(金山店)",
+      "address": "海汇街500号金山光明荟",
+      "distance": "451m"
+    },
+    {
+      "brand": "六合茶庄",
+      "address": "君逸公馆住宅小区东北门西北50米",
+      "distance": "470m"
+    },
+    {
+      "brand": "奥灶面·黄鱼面(金山新城万达店)",
+      "address": "海汇街500号金山光明荟F1层",
+      "distance": "477m"
+    },
+    {
+      "brand": "阿贵锅贴(卫零北路店)",
+      "address": "卫零北路501号103室",
+      "distance": "479m"
+    },
+    {
+      "brand": "牛老太火烧馍",
+      "address": "卫零北路501号良民广场",
+      "distance": "479m"
+    },
+    {
+      "brand": "三嫂下饭菜(海汇街店)",
+      "address": "海汇街6号",
+      "distance": "483m"
+    },
+    {
+      "brand": "Kcar cafe",
+      "address": "龙山路与海凌路交叉口西140米",
+      "distance": "484m"
+    },
+    {
+      "brand": "Kcarcafé",
+      "address": "龙山路海汇街4号",
+      "distance": "486m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海思致商业广场",
+      "open_date": "2018-12-29",
+      "area": "-",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海光明·koko都乐汇",
+      "open_date": "2021-09-30",
+      "area": "3.3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海金山万达广场",
+      "open_date": "2015-07-17",
+      "area": "16.8万㎡",
+      "jun_daily_avg": "7.3万人次",
+      "weekday_avg": "6.5万人次",
+      "holiday_avg": "9.5万人次"
+    },
+    {
+      "name": "上海金山红星国际广场",
+      "open_date": "2016-04-30",
+      "area": "12.8万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海中锐悦立方商业广场",
+      "open_date": "-",
+      "area": "-",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 5.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 20.0,
+      "over_3yr_pct": 60.0
+    },
+    {
+      "type": "购物",
+      "count": 7.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 14.3,
+      "over_3yr_pct": 85.7
+    },
+    {
+      "type": "教育培训",
+      "count": 4.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 25.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    },
+    {
+      "type": "生活服务",
+      "count": 3.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 66.7
+    },
+    {
+      "type": "运动健身",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    }
+  ]
+}

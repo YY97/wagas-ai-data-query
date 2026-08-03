@@ -1,0 +1,486 @@
+{
+  "name": "星合广场2座",
+  "city": "苏州市",
+  "address": "江苏省苏州市吴中区苏州工业园区苏州大道东456号",
+  "lat": 31.322856,
+  "lng": 120.712025,
+  "overview": {
+    "score": 94.6,
+    "score_rank": "市内前30%",
+    "population_score": 73.5,
+    "area_score": 89.4,
+    "consumption_score": 88.4,
+    "industry_score": 94.7,
+    "annual_sales": "苏州新光天地是中国首家现代园林式的百货公司，项目坐落于工业园区CBD商业中心，紧靠金鸡湖风景区，于地铁1号线时代广场站直接连通。地上七层。项目建筑和景观设计，无论室内、室外都在考虑和人、城市、文化与四季的互动，而苏州特有的文化意境和园林艺术，更是一直贯穿缭绕在整个的设计里。结合江南意境，开启苏适新生活",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 8.8,
+    "open_date": "2015-06-25",
+    "operator": "新光三越（中国）投资有限公司",
+    "brand": "",
+    "type": "美食型",
+    "floors": "B1-L7"
+  },
+  "traffic": {
+    "annual_daily": 1.8,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第68",
+    "jun_total": 86.3,
+    "jun_total_rank": "市内商场第65名",
+    "jun_daily_avg": 2.9,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第65名",
+    "weekday_avg": 2.6,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第64名",
+    "holiday_avg": 3.7,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第63名"
+  },
+  "population": {
+    "residential": {
+      "500m": 4900.0,
+      "1_5km": 5.3,
+      "3km": 18.4
+    },
+    "office": {
+      "500m": 1.4,
+      "1_5km": 6.1,
+      "3km": 14.2
+    },
+    "permanent": {
+      "500m": 1.2,
+      "1_5km": 6.3,
+      "3km": 20.1
+    }
+  },
+  "business": {
+    "competitors": 18.0,
+    "food": 322.0,
+    "shopping": 260.0,
+    "leisure": 21.0,
+    "education": 38.0,
+    "hotel": 44.0,
+    "services": 182.0,
+    "fitness": 35.0,
+    "auto": 23.0,
+    "total_stores": 243.0,
+    "old_store_3yr_pct": 50.0
+  },
+  "nearby_poi": {
+    "business": 12.0,
+    "community": 103.0,
+    "office": 34.0,
+    "school": 10.0,
+    "hospital": 31.0,
+    "transport": 13.0,
+    "scenic": 147.0
+  },
+  "demographics": {
+    "male_pct": 46.5,
+    "female_pct": null,
+    "education": {
+      "小学": 9.9,
+      "初中": 18.3,
+      "高中": 11.2,
+      "大专": 9.0,
+      "本科": 45.0,
+      "硕士": 5.8,
+      "博士": 0.8
+    },
+    "has_children_pct": 56.3,
+    "no_children_pct": 43.7
+  },
+  "scraped_at": "2026-07-31T13:45:04.027Z",
+  "nearby_restaurants": [
+    {
+      "brand": "源僖·烧肉丼饭(新光天地店)",
+      "address": "苏州工业园区苏州大道东456号新光天地商场B1层编号001",
+      "distance": "8m"
+    },
+    {
+      "brand": "OneBagel·一个贝果(新光天地店)",
+      "address": "苏州大道东456号新光天地B1层",
+      "distance": "11m"
+    },
+    {
+      "brand": "昌舟记舟山海鲜饭店(新光天地店)",
+      "address": "苏州大道东456号新光天地商务中心F5层",
+      "distance": "17m"
+    },
+    {
+      "brand": "喜茶(苏州新光天地店)",
+      "address": "工业园区苏州大道东456号新光天地1层01024-1号铺",
+      "distance": "17m"
+    },
+    {
+      "brand": "茶颜悦色(苏州新光天地店)",
+      "address": "金鸡湖街道苏州大道东456号新光天地B1层B1001-1号",
+      "distance": "18m"
+    },
+    {
+      "brand": "LAVAZZA拉瓦萨咖啡(新光天地店)",
+      "address": "吴中区工业园区苏州大道东456号新光天地一楼042铺",
+      "distance": "19m"
+    },
+    {
+      "brand": "姚妃媱冒烤鸭(新光天地店)",
+      "address": "苏州大道东456号商场7层编07018",
+      "distance": "19m"
+    },
+    {
+      "brand": "年俗里冰糖葫芦(新光天地店)",
+      "address": "苏州大道东456号新光天地F1层",
+      "distance": "19m"
+    },
+    {
+      "brand": "青焙厨房(新光天地店)",
+      "address": "吴中区工业园区新光天地负一楼源禧超市内",
+      "distance": "19m"
+    },
+    {
+      "brand": "捞王锅物料理(苏州新光天地店)",
+      "address": "新光天地四楼 地铁1号线/8号线4号口直达",
+      "distance": "19m"
+    },
+    {
+      "brand": "源僖·烧肉丼饭(新光天地店)",
+      "address": "苏州工业园区苏州大道东456号新光天地商场B1层编号001",
+      "distance": "8m"
+    },
+    {
+      "brand": "OneBagel·一个贝果(新光天地店)",
+      "address": "苏州大道东456号新光天地B1层",
+      "distance": "11m"
+    },
+    {
+      "brand": "昌舟记舟山海鲜饭店(新光天地店)",
+      "address": "苏州大道东456号新光天地商务中心F5层",
+      "distance": "17m"
+    },
+    {
+      "brand": "喜茶(苏州新光天地店)",
+      "address": "工业园区苏州大道东456号新光天地1层01024-1号铺",
+      "distance": "17m"
+    },
+    {
+      "brand": "茶颜悦色(苏州新光天地店)",
+      "address": "金鸡湖街道苏州大道东456号新光天地B1层B1001-1号",
+      "distance": "18m"
+    },
+    {
+      "brand": "LAVAZZA拉瓦萨咖啡(新光天地店)",
+      "address": "吴中区工业园区苏州大道东456号新光天地一楼042铺",
+      "distance": "19m"
+    },
+    {
+      "brand": "姚妃媱冒烤鸭(新光天地店)",
+      "address": "苏州大道东456号商场7层编07018",
+      "distance": "19m"
+    },
+    {
+      "brand": "年俗里冰糖葫芦(新光天地店)",
+      "address": "苏州大道东456号新光天地F1层",
+      "distance": "19m"
+    },
+    {
+      "brand": "青焙厨房(新光天地店)",
+      "address": "吴中区工业园区新光天地负一楼源禧超市内",
+      "distance": "19m"
+    },
+    {
+      "brand": "捞王锅物料理(苏州新光天地店)",
+      "address": "新光天地四楼 地铁1号线/8号线4号口直达",
+      "distance": "19m"
+    },
+    {
+      "brand": "源僖·烧肉丼饭(新光天地店)",
+      "address": "苏州工业园区苏州大道东456号新光天地商场B1层编号001",
+      "distance": "8m"
+    },
+    {
+      "brand": "OneBagel·一个贝果(新光天地店)",
+      "address": "苏州大道东456号新光天地B1层",
+      "distance": "11m"
+    },
+    {
+      "brand": "昌舟记舟山海鲜饭店(新光天地店)",
+      "address": "苏州大道东456号新光天地商务中心F5层",
+      "distance": "17m"
+    },
+    {
+      "brand": "喜茶(苏州新光天地店)",
+      "address": "工业园区苏州大道东456号新光天地1层01024-1号铺",
+      "distance": "17m"
+    },
+    {
+      "brand": "茶颜悦色(苏州新光天地店)",
+      "address": "金鸡湖街道苏州大道东456号新光天地B1层B1001-1号",
+      "distance": "18m"
+    },
+    {
+      "brand": "LAVAZZA拉瓦萨咖啡(新光天地店)",
+      "address": "吴中区工业园区苏州大道东456号新光天地一楼042铺",
+      "distance": "19m"
+    },
+    {
+      "brand": "姚妃媱冒烤鸭(新光天地店)",
+      "address": "苏州大道东456号商场7层编07018",
+      "distance": "19m"
+    },
+    {
+      "brand": "年俗里冰糖葫芦(新光天地店)",
+      "address": "苏州大道东456号新光天地F1层",
+      "distance": "19m"
+    },
+    {
+      "brand": "青焙厨房(新光天地店)",
+      "address": "吴中区工业园区新光天地负一楼源禧超市内",
+      "distance": "19m"
+    },
+    {
+      "brand": "捞王锅物料理(苏州新光天地店)",
+      "address": "新光天地四楼 地铁1号线/8号线4号口直达",
+      "distance": "19m"
+    },
+    {
+      "brand": "源僖·烧肉丼饭(新光天地店)",
+      "address": "苏州工业园区苏州大道东456号新光天地商场B1层编号001",
+      "distance": "8m"
+    },
+    {
+      "brand": "OneBagel·一个贝果(新光天地店)",
+      "address": "苏州大道东456号新光天地B1层",
+      "distance": "11m"
+    },
+    {
+      "brand": "昌舟记舟山海鲜饭店(新光天地店)",
+      "address": "苏州大道东456号新光天地商务中心F5层",
+      "distance": "17m"
+    },
+    {
+      "brand": "喜茶(苏州新光天地店)",
+      "address": "工业园区苏州大道东456号新光天地1层01024-1号铺",
+      "distance": "17m"
+    },
+    {
+      "brand": "茶颜悦色(苏州新光天地店)",
+      "address": "金鸡湖街道苏州大道东456号新光天地B1层B1001-1号",
+      "distance": "18m"
+    },
+    {
+      "brand": "LAVAZZA拉瓦萨咖啡(新光天地店)",
+      "address": "吴中区工业园区苏州大道东456号新光天地一楼042铺",
+      "distance": "19m"
+    },
+    {
+      "brand": "姚妃媱冒烤鸭(新光天地店)",
+      "address": "苏州大道东456号商场7层编07018",
+      "distance": "19m"
+    },
+    {
+      "brand": "年俗里冰糖葫芦(新光天地店)",
+      "address": "苏州大道东456号新光天地F1层",
+      "distance": "19m"
+    },
+    {
+      "brand": "青焙厨房(新光天地店)",
+      "address": "吴中区工业园区新光天地负一楼源禧超市内",
+      "distance": "19m"
+    },
+    {
+      "brand": "捞王锅物料理(苏州新光天地店)",
+      "address": "新光天地四楼 地铁1号线/8号线4号口直达",
+      "distance": "19m"
+    },
+    {
+      "brand": "源僖·烧肉丼饭(新光天地店)",
+      "address": "苏州工业园区苏州大道东456号新光天地商场B1层编号001",
+      "distance": "8m"
+    },
+    {
+      "brand": "OneBagel·一个贝果(新光天地店)",
+      "address": "苏州大道东456号新光天地B1层",
+      "distance": "11m"
+    },
+    {
+      "brand": "昌舟记舟山海鲜饭店(新光天地店)",
+      "address": "苏州大道东456号新光天地商务中心F5层",
+      "distance": "17m"
+    },
+    {
+      "brand": "喜茶(苏州新光天地店)",
+      "address": "工业园区苏州大道东456号新光天地1层01024-1号铺",
+      "distance": "17m"
+    },
+    {
+      "brand": "茶颜悦色(苏州新光天地店)",
+      "address": "金鸡湖街道苏州大道东456号新光天地B1层B1001-1号",
+      "distance": "18m"
+    },
+    {
+      "brand": "LAVAZZA拉瓦萨咖啡(新光天地店)",
+      "address": "吴中区工业园区苏州大道东456号新光天地一楼042铺",
+      "distance": "19m"
+    },
+    {
+      "brand": "姚妃媱冒烤鸭(新光天地店)",
+      "address": "苏州大道东456号商场7层编07018",
+      "distance": "19m"
+    },
+    {
+      "brand": "年俗里冰糖葫芦(新光天地店)",
+      "address": "苏州大道东456号新光天地F1层",
+      "distance": "19m"
+    },
+    {
+      "brand": "青焙厨房(新光天地店)",
+      "address": "吴中区工业园区新光天地负一楼源禧超市内",
+      "distance": "19m"
+    },
+    {
+      "brand": "捞王锅物料理(苏州新光天地店)",
+      "address": "新光天地四楼 地铁1号线/8号线4号口直达",
+      "distance": "19m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "苏州星合广场",
+      "open_date": "2014-06-01",
+      "area": "2万㎡",
+      "jun_daily_avg": "1.2万人次",
+      "weekday_avg": "1.2万人次",
+      "holiday_avg": "1.1万人次"
+    },
+    {
+      "name": "苏州诚品生活",
+      "open_date": "2015-11-29",
+      "area": "5.6万㎡",
+      "jun_daily_avg": "1.9万人次",
+      "weekday_avg": "1.4万人次",
+      "holiday_avg": "3.3万人次"
+    },
+    {
+      "name": "苏州圆融时代广场",
+      "open_date": "2008-09-28",
+      "area": "17万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "苏州协鑫广场",
+      "open_date": "2019-10-18",
+      "area": "3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "苏州久光百货",
+      "open_date": "2009-01-16",
+      "area": "17万㎡",
+      "jun_daily_avg": "2万人次",
+      "weekday_avg": "1.8万人次",
+      "holiday_avg": "2.8万人次"
+    },
+    {
+      "name": "月光码头",
+      "open_date": "2009-05-01",
+      "area": "-",
+      "jun_daily_avg": "1.4万人次",
+      "weekday_avg": "1万人次",
+      "holiday_avg": "2.3万人次"
+    },
+    {
+      "name": "苏州圆融星座",
+      "open_date": "2013-09-28",
+      "area": "6万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "苏州星汇生活广场",
+      "open_date": "2018-01-11",
+      "area": "5万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "苏州丰隆汇HLCC mall",
+      "open_date": "2018-06-16",
+      "area": "6万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "苏州玲珑邻里中心",
+      "open_date": "2019-01-01",
+      "area": "2万㎡",
+      "jun_daily_avg": "1.7万人次",
+      "weekday_avg": "1.7万人次",
+      "holiday_avg": "1.8万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 100.0,
+      "within_1yr_pct": 16.0,
+      "1_3yr_pct": 32.0,
+      "over_3yr_pct": 52.0
+    },
+    {
+      "type": "购物",
+      "count": 54.0,
+      "within_1yr_pct": 14.8,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 51.9
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 13.0,
+      "within_1yr_pct": 30.8,
+      "1_3yr_pct": 23.1,
+      "over_3yr_pct": 46.2
+    },
+    {
+      "type": "教育培训",
+      "count": 14.0,
+      "within_1yr_pct": 21.4,
+      "1_3yr_pct": 21.4,
+      "over_3yr_pct": 57.1
+    },
+    {
+      "type": "酒店住宿",
+      "count": 2.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "生活服务",
+      "count": 42.0,
+      "within_1yr_pct": 21.4,
+      "1_3yr_pct": 23.8,
+      "over_3yr_pct": 54.8
+    },
+    {
+      "type": "运动健身",
+      "count": 11.0,
+      "within_1yr_pct": 18.2,
+      "1_3yr_pct": 45.5,
+      "over_3yr_pct": 36.4
+    },
+    {
+      "type": "车辆服务",
+      "count": 7.0,
+      "within_1yr_pct": 28.6,
+      "1_3yr_pct": 57.1,
+      "over_3yr_pct": 14.3
+    }
+  ]
+}

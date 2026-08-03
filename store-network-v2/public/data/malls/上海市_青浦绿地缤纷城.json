@@ -1,0 +1,415 @@
+{
+  "name": "青浦绿地缤纷城",
+  "city": "上海市",
+  "address": "上海市青浦区夏阳街道绿地缤纷城",
+  "lat": 31.159446,
+  "lng": 121.12533,
+  "overview": {
+    "score": 88.0,
+    "score_rank": "市内前30%",
+    "population_score": 78.9,
+    "area_score": 70.8,
+    "consumption_score": 65.4,
+    "industry_score": 88.1,
+    "annual_sales": "青浦绿地缤纷城以“聚生活家、享生活+”为定位，融入绿地贸易港旗下进博同款元素，导入品牌餐饮、进口超市、儿童亲子、休闲零售等品牌业态，将成为上海青浦又一座品质社区商业综合体",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 5.0,
+    "open_date": "2019-12-28",
+    "operator": "绿地控股集团股份有限公司",
+    "brand": "绿地控股greenland",
+    "type": "美食型",
+    "floors": "B1-L4"
+  },
+  "traffic": {
+    "annual_daily": 1.14,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第228",
+    "jun_total": 37.0,
+    "jun_total_rank": "市内商场第264名",
+    "jun_daily_avg": 1.2,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第264名",
+    "weekday_avg": 1.2,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第253名",
+    "holiday_avg": 1.2,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第282名"
+  },
+  "population": {
+    "residential": {
+      "500m": 1.5,
+      "1_5km": 10.7,
+      "3km": 38.9
+    },
+    "office": {
+      "500m": 6500.0,
+      "1_5km": 5.5,
+      "3km": 19.7
+    },
+    "permanent": {
+      "500m": 1.5,
+      "1_5km": 10.8,
+      "3km": 38.5
+    }
+  },
+  "business": {
+    "competitors": 3.0,
+    "food": 91.0,
+    "shopping": 82.0,
+    "leisure": 7.0,
+    "education": 8.0,
+    "hotel": 12.0,
+    "services": 57.0,
+    "fitness": 7.0,
+    "auto": 9.0,
+    "total_stores": 47.0,
+    "old_store_3yr_pct": 62.0
+  },
+  "nearby_poi": {
+    "business": 2.0,
+    "community": 217.0,
+    "office": 15.0,
+    "school": 19.0,
+    "hospital": 36.0,
+    "transport": 9.0,
+    "scenic": 69.0
+  },
+  "demographics": {
+    "male_pct": 50.9,
+    "female_pct": null,
+    "education": {
+      "小学": 10.2,
+      "初中": 19.7,
+      "高中": 12.0,
+      "大专": 8.4,
+      "本科": 46.0,
+      "硕士": 2.9,
+      "博士": 0.8
+    },
+    "has_children_pct": 62.8,
+    "no_children_pct": 37.2
+  },
+  "scraped_at": "2026-08-02T02:33:58.934Z",
+  "nearby_restaurants": [
+    {
+      "brand": "丁佬食餐饮",
+      "address": "绿地缤纷城B1,12-1,13-1",
+      "distance": "14m"
+    },
+    {
+      "brand": "比那多咖啡(青浦青松公路店)",
+      "address": "绿地缤纷城1层-18号(青浦新城地铁站4号口步行210米)",
+      "distance": "21m"
+    },
+    {
+      "brand": "圣嘉艺术中心(青浦店)",
+      "address": "外青松公路5999弄2号4层08号",
+      "distance": "30m"
+    },
+    {
+      "brand": "老乡鸡(上海青浦绿地缤纷城店)",
+      "address": "外青松公路5999号绿地缤纷城青浦店B1层",
+      "distance": "31m"
+    },
+    {
+      "brand": "焙小贝精致烘焙(绿地缤纷城店)",
+      "address": "外青松公路5999号绿地缤纷城青浦店B1层",
+      "distance": "31m"
+    },
+    {
+      "brand": "张拉拉兰州手撕牛肉面(青浦缤纷城店)(暂停营业)",
+      "address": "上海城区绿地缤纷城外青松公路5999弄2号B1层编号B1-24,25房屋",
+      "distance": "32m"
+    },
+    {
+      "brand": "浓风麻辣香锅(绿地缤纷城店)",
+      "address": "外青松公路5999号绿地缤纷城青浦店B1层",
+      "distance": "32m"
+    },
+    {
+      "brand": "张亮麻辣烫(绿地缤纷城店)",
+      "address": "外青松公路5999号绿地缤纷城B1层",
+      "distance": "44m"
+    },
+    {
+      "brand": "星巴克(青浦绿地缤纷城店)",
+      "address": "盈港东路8900弄1-3号(青浦新城地铁站4号口旁)",
+      "distance": "44m"
+    },
+    {
+      "brand": "瑞幸咖啡(青浦绿地缤纷城店)",
+      "address": "外青松公路5999号绿地缤纷城一层08号",
+      "distance": "46m"
+    },
+    {
+      "brand": "丁佬食餐饮",
+      "address": "绿地缤纷城B1,12-1,13-1",
+      "distance": "14m"
+    },
+    {
+      "brand": "比那多咖啡(青浦青松公路店)",
+      "address": "绿地缤纷城1层-18号(青浦新城地铁站4号口步行210米)",
+      "distance": "21m"
+    },
+    {
+      "brand": "圣嘉艺术中心(青浦店)",
+      "address": "外青松公路5999弄2号4层08号",
+      "distance": "30m"
+    },
+    {
+      "brand": "老乡鸡(上海青浦绿地缤纷城店)",
+      "address": "外青松公路5999号绿地缤纷城青浦店B1层",
+      "distance": "31m"
+    },
+    {
+      "brand": "焙小贝精致烘焙(绿地缤纷城店)",
+      "address": "外青松公路5999号绿地缤纷城青浦店B1层",
+      "distance": "31m"
+    },
+    {
+      "brand": "张拉拉兰州手撕牛肉面(青浦缤纷城店)(暂停营业)",
+      "address": "上海城区绿地缤纷城外青松公路5999弄2号B1层编号B1-24,25房屋",
+      "distance": "32m"
+    },
+    {
+      "brand": "浓风麻辣香锅(绿地缤纷城店)",
+      "address": "外青松公路5999号绿地缤纷城青浦店B1层",
+      "distance": "32m"
+    },
+    {
+      "brand": "张亮麻辣烫(绿地缤纷城店)",
+      "address": "外青松公路5999号绿地缤纷城B1层",
+      "distance": "44m"
+    },
+    {
+      "brand": "星巴克(青浦绿地缤纷城店)",
+      "address": "盈港东路8900弄1-3号(青浦新城地铁站4号口旁)",
+      "distance": "44m"
+    },
+    {
+      "brand": "瑞幸咖啡(青浦绿地缤纷城店)",
+      "address": "外青松公路5999号绿地缤纷城一层08号",
+      "distance": "46m"
+    },
+    {
+      "brand": "丁佬食餐饮",
+      "address": "绿地缤纷城B1,12-1,13-1",
+      "distance": "14m"
+    },
+    {
+      "brand": "比那多咖啡(青浦青松公路店)",
+      "address": "绿地缤纷城1层-18号(青浦新城地铁站4号口步行210米)",
+      "distance": "21m"
+    },
+    {
+      "brand": "圣嘉艺术中心(青浦店)",
+      "address": "外青松公路5999弄2号4层08号",
+      "distance": "30m"
+    },
+    {
+      "brand": "老乡鸡(上海青浦绿地缤纷城店)",
+      "address": "外青松公路5999号绿地缤纷城青浦店B1层",
+      "distance": "31m"
+    },
+    {
+      "brand": "焙小贝精致烘焙(绿地缤纷城店)",
+      "address": "外青松公路5999号绿地缤纷城青浦店B1层",
+      "distance": "31m"
+    },
+    {
+      "brand": "张拉拉兰州手撕牛肉面(青浦缤纷城店)(暂停营业)",
+      "address": "上海城区绿地缤纷城外青松公路5999弄2号B1层编号B1-24,25房屋",
+      "distance": "32m"
+    },
+    {
+      "brand": "浓风麻辣香锅(绿地缤纷城店)",
+      "address": "外青松公路5999号绿地缤纷城青浦店B1层",
+      "distance": "32m"
+    },
+    {
+      "brand": "张亮麻辣烫(绿地缤纷城店)",
+      "address": "外青松公路5999号绿地缤纷城B1层",
+      "distance": "44m"
+    },
+    {
+      "brand": "星巴克(青浦绿地缤纷城店)",
+      "address": "盈港东路8900弄1-3号(青浦新城地铁站4号口旁)",
+      "distance": "44m"
+    },
+    {
+      "brand": "瑞幸咖啡(青浦绿地缤纷城店)",
+      "address": "外青松公路5999号绿地缤纷城一层08号",
+      "distance": "46m"
+    },
+    {
+      "brand": "丁佬食餐饮",
+      "address": "绿地缤纷城B1,12-1,13-1",
+      "distance": "14m"
+    },
+    {
+      "brand": "比那多咖啡(青浦青松公路店)",
+      "address": "绿地缤纷城1层-18号(青浦新城地铁站4号口步行210米)",
+      "distance": "21m"
+    },
+    {
+      "brand": "圣嘉艺术中心(青浦店)",
+      "address": "外青松公路5999弄2号4层08号",
+      "distance": "30m"
+    },
+    {
+      "brand": "老乡鸡(上海青浦绿地缤纷城店)",
+      "address": "外青松公路5999号绿地缤纷城青浦店B1层",
+      "distance": "31m"
+    },
+    {
+      "brand": "焙小贝精致烘焙(绿地缤纷城店)",
+      "address": "外青松公路5999号绿地缤纷城青浦店B1层",
+      "distance": "31m"
+    },
+    {
+      "brand": "张拉拉兰州手撕牛肉面(青浦缤纷城店)(暂停营业)",
+      "address": "上海城区绿地缤纷城外青松公路5999弄2号B1层编号B1-24,25房屋",
+      "distance": "32m"
+    },
+    {
+      "brand": "浓风麻辣香锅(绿地缤纷城店)",
+      "address": "外青松公路5999号绿地缤纷城青浦店B1层",
+      "distance": "32m"
+    },
+    {
+      "brand": "张亮麻辣烫(绿地缤纷城店)",
+      "address": "外青松公路5999号绿地缤纷城B1层",
+      "distance": "44m"
+    },
+    {
+      "brand": "星巴克(青浦绿地缤纷城店)",
+      "address": "盈港东路8900弄1-3号(青浦新城地铁站4号口旁)",
+      "distance": "44m"
+    },
+    {
+      "brand": "瑞幸咖啡(青浦绿地缤纷城店)",
+      "address": "外青松公路5999号绿地缤纷城一层08号",
+      "distance": "46m"
+    },
+    {
+      "brand": "丁佬食餐饮",
+      "address": "绿地缤纷城B1,12-1,13-1",
+      "distance": "14m"
+    },
+    {
+      "brand": "比那多咖啡(青浦青松公路店)",
+      "address": "绿地缤纷城1层-18号(青浦新城地铁站4号口步行210米)",
+      "distance": "21m"
+    },
+    {
+      "brand": "圣嘉艺术中心(青浦店)",
+      "address": "外青松公路5999弄2号4层08号",
+      "distance": "30m"
+    },
+    {
+      "brand": "老乡鸡(上海青浦绿地缤纷城店)",
+      "address": "外青松公路5999号绿地缤纷城青浦店B1层",
+      "distance": "31m"
+    },
+    {
+      "brand": "焙小贝精致烘焙(绿地缤纷城店)",
+      "address": "外青松公路5999号绿地缤纷城青浦店B1层",
+      "distance": "31m"
+    },
+    {
+      "brand": "张拉拉兰州手撕牛肉面(青浦缤纷城店)(暂停营业)",
+      "address": "上海城区绿地缤纷城外青松公路5999弄2号B1层编号B1-24,25房屋",
+      "distance": "32m"
+    },
+    {
+      "brand": "浓风麻辣香锅(绿地缤纷城店)",
+      "address": "外青松公路5999号绿地缤纷城青浦店B1层",
+      "distance": "32m"
+    },
+    {
+      "brand": "张亮麻辣烫(绿地缤纷城店)",
+      "address": "外青松公路5999号绿地缤纷城B1层",
+      "distance": "44m"
+    },
+    {
+      "brand": "星巴克(青浦绿地缤纷城店)",
+      "address": "盈港东路8900弄1-3号(青浦新城地铁站4号口旁)",
+      "distance": "44m"
+    },
+    {
+      "brand": "瑞幸咖啡(青浦绿地缤纷城店)",
+      "address": "外青松公路5999号绿地缤纷城一层08号",
+      "distance": "46m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海富绅商业中心",
+      "open_date": "2017",
+      "area": "6万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海凯特利广场",
+      "open_date": "2007-11-01",
+      "area": "2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 20.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 10.0,
+      "over_3yr_pct": 70.0
+    },
+    {
+      "type": "购物",
+      "count": 7.0,
+      "within_1yr_pct": 57.1,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 42.9
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 3.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 66.7
+    },
+    {
+      "type": "教育培训",
+      "count": 5.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 20.0,
+      "over_3yr_pct": 60.0
+    },
+    {
+      "type": "生活服务",
+      "count": 7.0,
+      "within_1yr_pct": 14.3,
+      "1_3yr_pct": 14.3,
+      "over_3yr_pct": 71.4
+    },
+    {
+      "type": "运动健身",
+      "count": 4.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 1.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
+    }
+  ]
+}

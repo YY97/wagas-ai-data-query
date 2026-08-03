@@ -1,0 +1,398 @@
+{
+  "name": "北京新一代商城",
+  "city": "北京市",
+  "address": "北京市顺义区南彩镇幸福街6条",
+  "lat": 40.135677,
+  "lng": 116.705542,
+  "overview": {
+    "score": 84.3,
+    "score_rank": "市内前30%",
+    "population_score": 95.0,
+    "area_score": 80.8,
+    "consumption_score": 60.0,
+    "industry_score": 84.3,
+    "annual_sales": "",
+    "annual_sales_unit": "",
+    "area_size_sqm": null,
+    "open_date": "",
+    "operator": "",
+    "brand": "",
+    "type": "",
+    "floors": ""
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "",
+    "annual_daily_rank": "",
+    "jun_total": null,
+    "jun_total_rank": "",
+    "jun_daily_avg": null,
+    "jun_daily_unit": "",
+    "jun_daily_rank": "",
+    "weekday_avg": null,
+    "weekday_unit": "",
+    "weekday_rank": "",
+    "holiday_avg": null,
+    "holiday_unit": "",
+    "holiday_rank": ""
+  },
+  "population": {
+    "residential": {
+      "500m": 2.8,
+      "1_5km": 5.0,
+      "3km": 7.4
+    },
+    "office": {
+      "500m": 6000.0,
+      "1_5km": 1.7,
+      "3km": 2.5
+    },
+    "permanent": {
+      "500m": 2.3,
+      "1_5km": 4.2,
+      "3km": 6.5
+    }
+  },
+  "business": {
+    "competitors": null,
+    "food": 226.0,
+    "shopping": 108.0,
+    "leisure": 3.0,
+    "education": null,
+    "hotel": 83.0,
+    "services": 104.0,
+    "fitness": 5.0,
+    "auto": 5.0,
+    "total_stores": 536.0,
+    "old_store_3yr_pct": 49.0
+  },
+  "nearby_poi": {
+    "business": null,
+    "community": 29.0,
+    "office": 4.0,
+    "school": 11.0,
+    "hospital": 15.0,
+    "transport": 1.0,
+    "scenic": 37.0
+  },
+  "demographics": {
+    "male_pct": 53.6,
+    "female_pct": null,
+    "education": {
+      "小学": 8.7,
+      "初中": 15.6,
+      "高中": 10.3,
+      "大专": 7.7,
+      "本科": 51.3,
+      "硕士": 5.2,
+      "博士": 1.2
+    },
+    "has_children_pct": null,
+    "no_children_pct": null
+  },
+  "scraped_at": "2026-07-31T18:48:35.765Z",
+  "nearby_restaurants": [
+    {
+      "brand": "兰州老马食府",
+      "address": "南彩镇后俸伯村光明街一条2号",
+      "distance": "34m"
+    },
+    {
+      "brand": "巴邑小面",
+      "address": "后俸伯西环路与光明街交叉口东南40米",
+      "distance": "37m"
+    },
+    {
+      "brand": "兴源熟食凉菜",
+      "address": "后俸伯西环路与后俸伯西路交叉口东80米",
+      "distance": "48m"
+    },
+    {
+      "brand": "山西面馆(俸伯店)",
+      "address": "幸福街2号",
+      "distance": "50m"
+    },
+    {
+      "brand": "临汾饸饹面",
+      "address": "后俸伯西环路与光明街交叉口东80米",
+      "distance": "53m"
+    },
+    {
+      "brand": "山东馒头(后俸伯村店)",
+      "address": "后俸伯西环路与后俸伯西路交叉口东40米",
+      "distance": "54m"
+    },
+    {
+      "brand": "沈阳喷醋铁板鸡架",
+      "address": "后俸伯西环路与后俸伯西路交叉口东80米",
+      "distance": "54m"
+    },
+    {
+      "brand": "云来过桥米线",
+      "address": "南彩镇后俸伯村幸福街51号",
+      "distance": "55m"
+    },
+    {
+      "brand": "和乐麻辣香串",
+      "address": "后俸伯西环路与后俸伯西路交叉口东80米",
+      "distance": "61m"
+    },
+    {
+      "brand": "安徽正宗板面",
+      "address": "幸福街6条",
+      "distance": "62m"
+    },
+    {
+      "brand": "兰州老马食府",
+      "address": "南彩镇后俸伯村光明街一条2号",
+      "distance": "34m"
+    },
+    {
+      "brand": "巴邑小面",
+      "address": "后俸伯西环路与光明街交叉口东南40米",
+      "distance": "37m"
+    },
+    {
+      "brand": "兴源熟食凉菜",
+      "address": "后俸伯西环路与后俸伯西路交叉口东80米",
+      "distance": "48m"
+    },
+    {
+      "brand": "山西面馆(俸伯店)",
+      "address": "幸福街2号",
+      "distance": "50m"
+    },
+    {
+      "brand": "临汾饸饹面",
+      "address": "后俸伯西环路与光明街交叉口东80米",
+      "distance": "53m"
+    },
+    {
+      "brand": "山东馒头(后俸伯村店)",
+      "address": "后俸伯西环路与后俸伯西路交叉口东40米",
+      "distance": "54m"
+    },
+    {
+      "brand": "沈阳喷醋铁板鸡架",
+      "address": "后俸伯西环路与后俸伯西路交叉口东80米",
+      "distance": "54m"
+    },
+    {
+      "brand": "云来过桥米线",
+      "address": "南彩镇后俸伯村幸福街51号",
+      "distance": "55m"
+    },
+    {
+      "brand": "和乐麻辣香串",
+      "address": "后俸伯西环路与后俸伯西路交叉口东80米",
+      "distance": "61m"
+    },
+    {
+      "brand": "安徽正宗板面",
+      "address": "幸福街6条",
+      "distance": "62m"
+    },
+    {
+      "brand": "兰州老马食府",
+      "address": "南彩镇后俸伯村光明街一条2号",
+      "distance": "34m"
+    },
+    {
+      "brand": "巴邑小面",
+      "address": "后俸伯西环路与光明街交叉口东南40米",
+      "distance": "37m"
+    },
+    {
+      "brand": "兴源熟食凉菜",
+      "address": "后俸伯西环路与后俸伯西路交叉口东80米",
+      "distance": "48m"
+    },
+    {
+      "brand": "山西面馆(俸伯店)",
+      "address": "幸福街2号",
+      "distance": "50m"
+    },
+    {
+      "brand": "临汾饸饹面",
+      "address": "后俸伯西环路与光明街交叉口东80米",
+      "distance": "53m"
+    },
+    {
+      "brand": "山东馒头(后俸伯村店)",
+      "address": "后俸伯西环路与后俸伯西路交叉口东40米",
+      "distance": "54m"
+    },
+    {
+      "brand": "沈阳喷醋铁板鸡架",
+      "address": "后俸伯西环路与后俸伯西路交叉口东80米",
+      "distance": "54m"
+    },
+    {
+      "brand": "云来过桥米线",
+      "address": "南彩镇后俸伯村幸福街51号",
+      "distance": "55m"
+    },
+    {
+      "brand": "和乐麻辣香串",
+      "address": "后俸伯西环路与后俸伯西路交叉口东80米",
+      "distance": "61m"
+    },
+    {
+      "brand": "安徽正宗板面",
+      "address": "幸福街6条",
+      "distance": "62m"
+    },
+    {
+      "brand": "兰州老马食府",
+      "address": "南彩镇后俸伯村光明街一条2号",
+      "distance": "34m"
+    },
+    {
+      "brand": "巴邑小面",
+      "address": "后俸伯西环路与光明街交叉口东南40米",
+      "distance": "37m"
+    },
+    {
+      "brand": "兴源熟食凉菜",
+      "address": "后俸伯西环路与后俸伯西路交叉口东80米",
+      "distance": "48m"
+    },
+    {
+      "brand": "山西面馆(俸伯店)",
+      "address": "幸福街2号",
+      "distance": "50m"
+    },
+    {
+      "brand": "临汾饸饹面",
+      "address": "后俸伯西环路与光明街交叉口东80米",
+      "distance": "53m"
+    },
+    {
+      "brand": "山东馒头(后俸伯村店)",
+      "address": "后俸伯西环路与后俸伯西路交叉口东40米",
+      "distance": "54m"
+    },
+    {
+      "brand": "沈阳喷醋铁板鸡架",
+      "address": "后俸伯西环路与后俸伯西路交叉口东80米",
+      "distance": "54m"
+    },
+    {
+      "brand": "云来过桥米线",
+      "address": "南彩镇后俸伯村幸福街51号",
+      "distance": "55m"
+    },
+    {
+      "brand": "和乐麻辣香串",
+      "address": "后俸伯西环路与后俸伯西路交叉口东80米",
+      "distance": "61m"
+    },
+    {
+      "brand": "安徽正宗板面",
+      "address": "幸福街6条",
+      "distance": "62m"
+    },
+    {
+      "brand": "兰州老马食府",
+      "address": "南彩镇后俸伯村光明街一条2号",
+      "distance": "34m"
+    },
+    {
+      "brand": "巴邑小面",
+      "address": "后俸伯西环路与光明街交叉口东南40米",
+      "distance": "37m"
+    },
+    {
+      "brand": "兴源熟食凉菜",
+      "address": "后俸伯西环路与后俸伯西路交叉口东80米",
+      "distance": "48m"
+    },
+    {
+      "brand": "山西面馆(俸伯店)",
+      "address": "幸福街2号",
+      "distance": "50m"
+    },
+    {
+      "brand": "临汾饸饹面",
+      "address": "后俸伯西环路与光明街交叉口东80米",
+      "distance": "53m"
+    },
+    {
+      "brand": "山东馒头(后俸伯村店)",
+      "address": "后俸伯西环路与后俸伯西路交叉口东40米",
+      "distance": "54m"
+    },
+    {
+      "brand": "沈阳喷醋铁板鸡架",
+      "address": "后俸伯西环路与后俸伯西路交叉口东80米",
+      "distance": "54m"
+    },
+    {
+      "brand": "云来过桥米线",
+      "address": "南彩镇后俸伯村幸福街51号",
+      "distance": "55m"
+    },
+    {
+      "brand": "和乐麻辣香串",
+      "address": "后俸伯西环路与后俸伯西路交叉口东80米",
+      "distance": "61m"
+    },
+    {
+      "brand": "安徽正宗板面",
+      "address": "幸福街6条",
+      "distance": "62m"
+    }
+  ],
+  "nearby_malls": [],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 226.0,
+      "within_1yr_pct": 28.8,
+      "1_3yr_pct": 29.2,
+      "over_3yr_pct": 42.0
+    },
+    {
+      "type": "购物",
+      "count": 108.0,
+      "within_1yr_pct": 15.7,
+      "1_3yr_pct": 19.4,
+      "over_3yr_pct": 64.8
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 5.0,
+      "within_1yr_pct": 60.0,
+      "1_3yr_pct": 20.0,
+      "over_3yr_pct": 20.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 83.0,
+      "within_1yr_pct": 18.1,
+      "1_3yr_pct": 24.1,
+      "over_3yr_pct": 57.8
+    },
+    {
+      "type": "生活服务",
+      "count": 104.0,
+      "within_1yr_pct": 16.3,
+      "1_3yr_pct": 40.4,
+      "over_3yr_pct": 43.3
+    },
+    {
+      "type": "运动健身",
+      "count": 5.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 40.0,
+      "over_3yr_pct": 60.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 5.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 20.0,
+      "over_3yr_pct": 60.0
+    }
+  ]
+}

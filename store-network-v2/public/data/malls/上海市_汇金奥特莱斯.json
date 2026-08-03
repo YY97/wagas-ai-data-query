@@ -1,0 +1,200 @@
+{
+  "name": "汇金奥特莱斯",
+  "city": "上海市",
+  "address": "上海市徐汇区漕河泾街道上海南站",
+  "lat": 31.154579,
+  "lng": 121.430041,
+  "overview": {
+    "score": 90.4,
+    "score_rank": "市内前30%",
+    "population_score": 76.1,
+    "area_score": 69.6,
+    "consumption_score": 80.1,
+    "industry_score": 90.5,
+    "annual_sales": "",
+    "annual_sales_unit": "",
+    "area_size_sqm": null,
+    "open_date": "",
+    "operator": "",
+    "brand": "",
+    "type": "",
+    "floors": ""
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "",
+    "annual_daily_rank": "",
+    "jun_total": null,
+    "jun_total_rank": "",
+    "jun_daily_avg": null,
+    "jun_daily_unit": "",
+    "jun_daily_rank": "",
+    "weekday_avg": null,
+    "weekday_unit": "",
+    "weekday_rank": "",
+    "holiday_avg": null,
+    "holiday_unit": "",
+    "holiday_rank": ""
+  },
+  "population": {
+    "residential": {
+      "500m": 1.3,
+      "1_5km": 21.7,
+      "3km": 84.0
+    },
+    "office": {
+      "500m": 6800.0,
+      "1_5km": 11.1,
+      "3km": 49.4
+    },
+    "permanent": {
+      "500m": 3.7,
+      "1_5km": 22.4,
+      "3km": 85.3
+    }
+  },
+  "business": {
+    "competitors": 3.0,
+    "food": 154.0,
+    "shopping": 119.0,
+    "leisure": 5.0,
+    "education": 10.0,
+    "hotel": 31.0,
+    "services": 47.0,
+    "fitness": 9.0,
+    "auto": 9.0,
+    "total_stores": 387.0,
+    "old_store_3yr_pct": 44.0
+  },
+  "nearby_poi": {
+    "business": 3.0,
+    "community": 482.0,
+    "office": 35.0,
+    "school": 43.0,
+    "hospital": 74.0,
+    "transport": 11.0,
+    "scenic": 166.0
+  },
+  "demographics": {
+    "male_pct": 47.8,
+    "female_pct": null,
+    "education": {
+      "小学": 10.2,
+      "初中": 18.2,
+      "高中": 11.4,
+      "大专": 7.4,
+      "本科": 45.8,
+      "硕士": 5.2,
+      "博士": 1.8
+    },
+    "has_children_pct": null,
+    "no_children_pct": null
+  },
+  "scraped_at": "2026-08-01T07:02:50.162Z",
+  "nearby_restaurants": [
+    {
+      "brand": "MissBlue生日蛋糕高端定制(徐汇日月光店)",
+      "address": "浦北路21弄1-41号康宁坊",
+      "distance": "495m"
+    },
+    {
+      "brand": "CHAGEE霸王茶姬(上海徐汇万科中心店)",
+      "address": "定安路55号徐汇万科中心B1-24店铺(15号线9号口)",
+      "distance": "496m"
+    },
+    {
+      "brand": "星洲小馆·新加坡料理(徐汇万科中心店)",
+      "address": "沪闵路9191号徐汇万科广场L3楼",
+      "distance": "497m"
+    },
+    {
+      "brand": "肥汁米蘭香港米綫(徐匯萬科分號)",
+      "address": "上海城区沪闵路9191号徐汇万科广场地下二层B2-20号",
+      "distance": "499m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海汇金奥特莱斯",
+      "open_date": "2016-01-01",
+      "area": "3万㎡",
+      "jun_daily_avg": "4.5万人次",
+      "weekday_avg": "4.3万人次",
+      "holiday_avg": "5万人次"
+    },
+    {
+      "name": "上海徐汇万科中心（三期）",
+      "open_date": "2024-06-13",
+      "area": "10万㎡",
+      "jun_daily_avg": "4.5万人次",
+      "weekday_avg": "4.3万人次",
+      "holiday_avg": "5万人次"
+    },
+    {
+      "name": "上海徐汇中星城",
+      "open_date": "2013-10-18",
+      "area": "10万㎡",
+      "jun_daily_avg": "1.1万人次",
+      "weekday_avg": "1.1万人次",
+      "holiday_avg": "1.3万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 154.0,
+      "within_1yr_pct": 26.0,
+      "1_3yr_pct": 33.8,
+      "over_3yr_pct": 40.3
+    },
+    {
+      "type": "购物",
+      "count": 119.0,
+      "within_1yr_pct": 26.9,
+      "1_3yr_pct": 36.1,
+      "over_3yr_pct": 37.0
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 8.0,
+      "within_1yr_pct": 12.5,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 37.5
+    },
+    {
+      "type": "教育培训",
+      "count": 10.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 30.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 31.0,
+      "within_1yr_pct": 6.5,
+      "1_3yr_pct": 12.9,
+      "over_3yr_pct": 80.6
+    },
+    {
+      "type": "生活服务",
+      "count": 47.0,
+      "within_1yr_pct": 12.8,
+      "1_3yr_pct": 29.8,
+      "over_3yr_pct": 57.4
+    },
+    {
+      "type": "运动健身",
+      "count": 9.0,
+      "within_1yr_pct": 22.2,
+      "1_3yr_pct": 55.6,
+      "over_3yr_pct": 22.2
+    },
+    {
+      "type": "车辆服务",
+      "count": 9.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 55.6,
+      "over_3yr_pct": 44.4
+    }
+  ]
+}

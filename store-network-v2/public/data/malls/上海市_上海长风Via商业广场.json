@@ -1,0 +1,462 @@
+{
+  "name": "上海长风Via商业广场",
+  "city": "上海市",
+  "address": "上海市普陀区长风新村街道国浩长风城",
+  "lat": 31.226044,
+  "lng": 121.394427,
+  "overview": {
+    "score": 84.8,
+    "score_rank": "市内前30%",
+    "population_score": 78.6,
+    "area_score": 76.4,
+    "consumption_score": 75.9,
+    "industry_score": 84.8,
+    "annual_sales": "",
+    "annual_sales_unit": "",
+    "area_size_sqm": null,
+    "open_date": "",
+    "operator": "",
+    "brand": "",
+    "type": "",
+    "floors": ""
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "",
+    "annual_daily_rank": "",
+    "jun_total": null,
+    "jun_total_rank": "",
+    "jun_daily_avg": null,
+    "jun_daily_unit": "",
+    "jun_daily_rank": "",
+    "weekday_avg": null,
+    "weekday_unit": "",
+    "weekday_rank": "",
+    "holiday_avg": null,
+    "holiday_unit": "",
+    "holiday_rank": ""
+  },
+  "population": {
+    "residential": {
+      "500m": 1.5,
+      "1_5km": 18.0,
+      "3km": 92.5
+    },
+    "office": {
+      "500m": 3.5,
+      "1_5km": 15.7,
+      "3km": 66.9
+    },
+    "permanent": {
+      "500m": 2.0,
+      "1_5km": 19.4,
+      "3km": 101.6
+    }
+  },
+  "business": {
+    "competitors": 11.0,
+    "food": 160.0,
+    "shopping": 76.0,
+    "leisure": 20.0,
+    "education": 11.0,
+    "hotel": 13.0,
+    "services": 76.0,
+    "fitness": 14.0,
+    "auto": 11.0,
+    "total_stores": 384.0,
+    "old_store_3yr_pct": 54.0
+  },
+  "nearby_poi": {
+    "business": 7.0,
+    "community": 567.0,
+    "office": 73.0,
+    "school": 29.0,
+    "hospital": 87.0,
+    "transport": 11.0,
+    "scenic": 285.0
+  },
+  "demographics": {
+    "male_pct": 47.8,
+    "female_pct": null,
+    "education": {
+      "小学": 8.7,
+      "初中": 16.7,
+      "高中": 11.6,
+      "大专": 6.9,
+      "本科": 48.8,
+      "硕士": 5.5,
+      "博士": 1.8
+    },
+    "has_children_pct": null,
+    "no_children_pct": null
+  },
+  "scraped_at": "2026-07-31T17:43:34.770Z",
+  "nearby_restaurants": [
+    {
+      "brand": "COAT·coffee",
+      "address": "中江路388弄1号国浩长风城",
+      "distance": "28m"
+    },
+    {
+      "brand": "库迪咖啡(长风VIA店)",
+      "address": "大渡河路452号长风VIA商场地下1层1-06C号(711便利店北侧)",
+      "distance": "38m"
+    },
+    {
+      "brand": "逸匠烫捞·干拌关东煮",
+      "address": "大渡河路与云岭东路交叉口西北260米",
+      "distance": "63m"
+    },
+    {
+      "brand": "山浙里超级小炒肉(长风VIA商业广场店)",
+      "address": "长风新村街道大渡河路508号长风VIA商业广场地下一层2-01A商铺",
+      "distance": "80m"
+    },
+    {
+      "brand": "1点点(长风VIA店)",
+      "address": "大渡河路452号",
+      "distance": "81m"
+    },
+    {
+      "brand": "隆记干炒牛河",
+      "address": "大渡河路与云岭东路交叉口西北240米",
+      "distance": "93m"
+    },
+    {
+      "brand": "老西北兰州牛肉面(国浩长风城店)",
+      "address": "国浩长风城商业广场(长风公园地铁站出入口步行180米)",
+      "distance": "93m"
+    },
+    {
+      "brand": "渝八两重庆鸡公煲(长风公园店)",
+      "address": "长风新村街道大渡河路452号地下一层1-18B号",
+      "distance": "95m"
+    },
+    {
+      "brand": "蔡记蒸饺·杀猪菜馆(长风公园店)",
+      "address": "大渡河路452号地下一层#1-09号(楷叔拌饭隔壁)",
+      "distance": "101m"
+    },
+    {
+      "brand": "楷叔拌饭",
+      "address": "长风街道大渡河路452号B1层1-09号",
+      "distance": "101m"
+    },
+    {
+      "brand": "COAT·coffee",
+      "address": "中江路388弄1号国浩长风城",
+      "distance": "28m"
+    },
+    {
+      "brand": "库迪咖啡(长风VIA店)",
+      "address": "大渡河路452号长风VIA商场地下1层1-06C号(711便利店北侧)",
+      "distance": "38m"
+    },
+    {
+      "brand": "逸匠烫捞·干拌关东煮",
+      "address": "大渡河路与云岭东路交叉口西北260米",
+      "distance": "63m"
+    },
+    {
+      "brand": "山浙里超级小炒肉(长风VIA商业广场店)",
+      "address": "长风新村街道大渡河路508号长风VIA商业广场地下一层2-01A商铺",
+      "distance": "80m"
+    },
+    {
+      "brand": "1点点(长风VIA店)",
+      "address": "大渡河路452号",
+      "distance": "81m"
+    },
+    {
+      "brand": "隆记干炒牛河",
+      "address": "大渡河路与云岭东路交叉口西北240米",
+      "distance": "93m"
+    },
+    {
+      "brand": "老西北兰州牛肉面(国浩长风城店)",
+      "address": "国浩长风城商业广场(长风公园地铁站出入口步行180米)",
+      "distance": "93m"
+    },
+    {
+      "brand": "渝八两重庆鸡公煲(长风公园店)",
+      "address": "长风新村街道大渡河路452号地下一层1-18B号",
+      "distance": "95m"
+    },
+    {
+      "brand": "蔡记蒸饺·杀猪菜馆(长风公园店)",
+      "address": "大渡河路452号地下一层#1-09号(楷叔拌饭隔壁)",
+      "distance": "101m"
+    },
+    {
+      "brand": "楷叔拌饭",
+      "address": "长风街道大渡河路452号B1层1-09号",
+      "distance": "101m"
+    },
+    {
+      "brand": "COAT·coffee",
+      "address": "中江路388弄1号国浩长风城",
+      "distance": "28m"
+    },
+    {
+      "brand": "库迪咖啡(长风VIA店)",
+      "address": "大渡河路452号长风VIA商场地下1层1-06C号(711便利店北侧)",
+      "distance": "38m"
+    },
+    {
+      "brand": "逸匠烫捞·干拌关东煮",
+      "address": "大渡河路与云岭东路交叉口西北260米",
+      "distance": "63m"
+    },
+    {
+      "brand": "山浙里超级小炒肉(长风VIA商业广场店)",
+      "address": "长风新村街道大渡河路508号长风VIA商业广场地下一层2-01A商铺",
+      "distance": "80m"
+    },
+    {
+      "brand": "1点点(长风VIA店)",
+      "address": "大渡河路452号",
+      "distance": "81m"
+    },
+    {
+      "brand": "隆记干炒牛河",
+      "address": "大渡河路与云岭东路交叉口西北240米",
+      "distance": "93m"
+    },
+    {
+      "brand": "老西北兰州牛肉面(国浩长风城店)",
+      "address": "国浩长风城商业广场(长风公园地铁站出入口步行180米)",
+      "distance": "93m"
+    },
+    {
+      "brand": "渝八两重庆鸡公煲(长风公园店)",
+      "address": "长风新村街道大渡河路452号地下一层1-18B号",
+      "distance": "95m"
+    },
+    {
+      "brand": "蔡记蒸饺·杀猪菜馆(长风公园店)",
+      "address": "大渡河路452号地下一层#1-09号(楷叔拌饭隔壁)",
+      "distance": "101m"
+    },
+    {
+      "brand": "楷叔拌饭",
+      "address": "长风街道大渡河路452号B1层1-09号",
+      "distance": "101m"
+    },
+    {
+      "brand": "COAT·coffee",
+      "address": "中江路388弄1号国浩长风城",
+      "distance": "28m"
+    },
+    {
+      "brand": "库迪咖啡(长风VIA店)",
+      "address": "大渡河路452号长风VIA商场地下1层1-06C号(711便利店北侧)",
+      "distance": "38m"
+    },
+    {
+      "brand": "逸匠烫捞·干拌关东煮",
+      "address": "大渡河路与云岭东路交叉口西北260米",
+      "distance": "63m"
+    },
+    {
+      "brand": "山浙里超级小炒肉(长风VIA商业广场店)",
+      "address": "长风新村街道大渡河路508号长风VIA商业广场地下一层2-01A商铺",
+      "distance": "80m"
+    },
+    {
+      "brand": "1点点(长风VIA店)",
+      "address": "大渡河路452号",
+      "distance": "81m"
+    },
+    {
+      "brand": "隆记干炒牛河",
+      "address": "大渡河路与云岭东路交叉口西北240米",
+      "distance": "93m"
+    },
+    {
+      "brand": "老西北兰州牛肉面(国浩长风城店)",
+      "address": "国浩长风城商业广场(长风公园地铁站出入口步行180米)",
+      "distance": "93m"
+    },
+    {
+      "brand": "渝八两重庆鸡公煲(长风公园店)",
+      "address": "长风新村街道大渡河路452号地下一层1-18B号",
+      "distance": "95m"
+    },
+    {
+      "brand": "蔡记蒸饺·杀猪菜馆(长风公园店)",
+      "address": "大渡河路452号地下一层#1-09号(楷叔拌饭隔壁)",
+      "distance": "101m"
+    },
+    {
+      "brand": "楷叔拌饭",
+      "address": "长风街道大渡河路452号B1层1-09号",
+      "distance": "101m"
+    },
+    {
+      "brand": "COAT·coffee",
+      "address": "中江路388弄1号国浩长风城",
+      "distance": "28m"
+    },
+    {
+      "brand": "库迪咖啡(长风VIA店)",
+      "address": "大渡河路452号长风VIA商场地下1层1-06C号(711便利店北侧)",
+      "distance": "38m"
+    },
+    {
+      "brand": "逸匠烫捞·干拌关东煮",
+      "address": "大渡河路与云岭东路交叉口西北260米",
+      "distance": "63m"
+    },
+    {
+      "brand": "山浙里超级小炒肉(长风VIA商业广场店)",
+      "address": "长风新村街道大渡河路508号长风VIA商业广场地下一层2-01A商铺",
+      "distance": "80m"
+    },
+    {
+      "brand": "1点点(长风VIA店)",
+      "address": "大渡河路452号",
+      "distance": "81m"
+    },
+    {
+      "brand": "隆记干炒牛河",
+      "address": "大渡河路与云岭东路交叉口西北240米",
+      "distance": "93m"
+    },
+    {
+      "brand": "老西北兰州牛肉面(国浩长风城店)",
+      "address": "国浩长风城商业广场(长风公园地铁站出入口步行180米)",
+      "distance": "93m"
+    },
+    {
+      "brand": "渝八两重庆鸡公煲(长风公园店)",
+      "address": "长风新村街道大渡河路452号地下一层1-18B号",
+      "distance": "95m"
+    },
+    {
+      "brand": "蔡记蒸饺·杀猪菜馆(长风公园店)",
+      "address": "大渡河路452号地下一层#1-09号(楷叔拌饭隔壁)",
+      "distance": "101m"
+    },
+    {
+      "brand": "楷叔拌饭",
+      "address": "长风街道大渡河路452号B1层1-09号",
+      "distance": "101m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海长风Via商业广场",
+      "open_date": "2023-07-01",
+      "area": "4万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海长风大悦城",
+      "open_date": "2018-05-01",
+      "area": "12万㎡",
+      "jun_daily_avg": "3.4万人次",
+      "weekday_avg": "3.2万人次",
+      "holiday_avg": "3.9万人次"
+    },
+    {
+      "name": "上海桃源π商业广场",
+      "open_date": "2020-11-28",
+      "area": "5.8万㎡",
+      "jun_daily_avg": "1.3万人次",
+      "weekday_avg": "1.4万人次",
+      "holiday_avg": "1万人次"
+    },
+    {
+      "name": "上海主场ESP电竞文化体验中心",
+      "open_date": "2021-06-23",
+      "area": "3.6万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海和胤788广场",
+      "open_date": "2018-01-01",
+      "area": "9000㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海近铁城市广场",
+      "open_date": "2014-11-18",
+      "area": "8.8万㎡",
+      "jun_daily_avg": "4.5万人次",
+      "weekday_avg": "4.7万人次",
+      "holiday_avg": "3.9万人次"
+    },
+    {
+      "name": "上海缤谷文化休闲广场",
+      "open_date": "2016-05-01",
+      "area": "3.2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 160.0,
+      "within_1yr_pct": 18.8,
+      "1_3yr_pct": 30.0,
+      "over_3yr_pct": 51.3
+    },
+    {
+      "type": "购物",
+      "count": 76.0,
+      "within_1yr_pct": 22.4,
+      "1_3yr_pct": 19.7,
+      "over_3yr_pct": 57.9
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 23.0,
+      "within_1yr_pct": 17.4,
+      "1_3yr_pct": 30.4,
+      "over_3yr_pct": 52.2
+    },
+    {
+      "type": "教育培训",
+      "count": 11.0,
+      "within_1yr_pct": 18.2,
+      "1_3yr_pct": 18.2,
+      "over_3yr_pct": 63.6
+    },
+    {
+      "type": "酒店住宿",
+      "count": 13.0,
+      "within_1yr_pct": 23.1,
+      "1_3yr_pct": 23.1,
+      "over_3yr_pct": 53.8
+    },
+    {
+      "type": "生活服务",
+      "count": 76.0,
+      "within_1yr_pct": 15.8,
+      "1_3yr_pct": 26.3,
+      "over_3yr_pct": 57.9
+    },
+    {
+      "type": "运动健身",
+      "count": 14.0,
+      "within_1yr_pct": 35.7,
+      "1_3yr_pct": 42.9,
+      "over_3yr_pct": 21.4
+    },
+    {
+      "type": "车辆服务",
+      "count": 11.0,
+      "within_1yr_pct": 18.2,
+      "1_3yr_pct": 18.2,
+      "over_3yr_pct": 63.6
+    }
+  ]
+}

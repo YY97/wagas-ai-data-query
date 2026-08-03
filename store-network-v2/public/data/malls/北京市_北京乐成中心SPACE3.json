@@ -1,0 +1,438 @@
+{
+  "name": "北京乐成中心SPACE3",
+  "city": "北京市",
+  "address": "北京市朝阳区东三环中路22号",
+  "lat": 39.894618,
+  "lng": 116.46252,
+  "overview": {
+    "score": 91.4,
+    "score_rank": "市内前30%",
+    "population_score": 100.0,
+    "area_score": 100.0,
+    "consumption_score": 79.6,
+    "industry_score": 91.3,
+    "annual_sales": "1000",
+    "annual_sales_unit": "万元",
+    "area_size_sqm": 3.5,
+    "open_date": "2018-05-01",
+    "operator": "乐成集团有限公司",
+    "brand": "",
+    "type": "美食型",
+    "floors": "B2-L3"
+  },
+  "traffic": {
+    "annual_daily": 1.44,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第164",
+    "jun_total": 59.0,
+    "jun_total_rank": "市内商场第164名",
+    "jun_daily_avg": 2.0,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第164名",
+    "weekday_avg": 2.0,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第160名",
+    "holiday_avg": 2.0,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第175名"
+  },
+  "population": {
+    "residential": {
+      "500m": 4.1,
+      "1_5km": 24.9,
+      "3km": 82.1
+    },
+    "office": {
+      "500m": 3.2,
+      "1_5km": 17.7,
+      "3km": 69.5
+    },
+    "permanent": {
+      "500m": 4.6,
+      "1_5km": 25.7,
+      "3km": 87.9
+    }
+  },
+  "business": {
+    "competitors": 9.0,
+    "food": 442.0,
+    "shopping": 211.0,
+    "leisure": 68.0,
+    "education": 66.0,
+    "hotel": 98.0,
+    "services": 447.0,
+    "fitness": 47.0,
+    "auto": 29.0,
+    "total_stores": 96.0,
+    "old_store_3yr_pct": 54.0
+  },
+  "nearby_poi": {
+    "business": 4.0,
+    "community": 408.0,
+    "office": 99.0,
+    "school": 38.0,
+    "hospital": 140.0,
+    "transport": 17.0,
+    "scenic": 217.0
+  },
+  "demographics": {
+    "male_pct": 51.2,
+    "female_pct": null,
+    "education": {
+      "小学": 9.0,
+      "初中": 15.4,
+      "高中": 11.0,
+      "大专": 6.5,
+      "本科": 49.2,
+      "硕士": 7.1,
+      "博士": 1.8
+    },
+    "has_children_pct": 57.6,
+    "no_children_pct": 42.4
+  },
+  "scraped_at": "2026-07-31T18:25:45.727Z",
+  "nearby_restaurants": [
+    {
+      "brand": "隆延茶铺·正统奶茶(乐成中心店)",
+      "address": "乐成中心B座东三环中路辅路24号B1",
+      "distance": "3m"
+    },
+    {
+      "brand": "荣叔黄鱼面(乐成中心SPACE3店)",
+      "address": "东三环中路20号乐成中心SPACE3 F3层",
+      "distance": "7m"
+    },
+    {
+      "brand": "荣小馆(乐成中心SPACE3店)",
+      "address": "东三环中路24号乐成中心Space3三层(双井地铁站E口旁)",
+      "distance": "8m"
+    },
+    {
+      "brand": "谷田稻香·砂锅菜((乐成中心店)",
+      "address": "北京城区东三环中路20号乐成中心SPACE3 B1层",
+      "distance": "9m"
+    },
+    {
+      "brand": "鲜芋仙(乐成中心SPACE3店)",
+      "address": "东三环中路20号乐成中心SPACE3 B1层",
+      "distance": "11m"
+    },
+    {
+      "brand": "方砖厂69号炸酱面(双井店)",
+      "address": "乐成中心3层03号08室",
+      "distance": "11m"
+    },
+    {
+      "brand": "181 toast手工吐司(乐成中心SPACE3店)",
+      "address": "东三环中路20号乐成中心SPACE3 F1层",
+      "distance": "12m"
+    },
+    {
+      "brand": "奈雪的茶(北京乐成中心green店)",
+      "address": "东三环中路22号楼-1至1层01内1层K01号",
+      "distance": "12m"
+    },
+    {
+      "brand": "JuiceLab(乐成中心店)",
+      "address": "东三环中路22号乐成中心SPACE3 B1层",
+      "distance": "12m"
+    },
+    {
+      "brand": "喜家德虾仁水饺(乐成店)",
+      "address": "北京城区东三环中路22号楼乐成中心地下一层B1-21室",
+      "distance": "12m"
+    },
+    {
+      "brand": "隆延茶铺·正统奶茶(乐成中心店)",
+      "address": "乐成中心B座东三环中路辅路24号B1",
+      "distance": "3m"
+    },
+    {
+      "brand": "荣叔黄鱼面(乐成中心SPACE3店)",
+      "address": "东三环中路20号乐成中心SPACE3 F3层",
+      "distance": "7m"
+    },
+    {
+      "brand": "荣小馆(乐成中心SPACE3店)",
+      "address": "东三环中路24号乐成中心Space3三层(双井地铁站E口旁)",
+      "distance": "8m"
+    },
+    {
+      "brand": "谷田稻香·砂锅菜((乐成中心店)",
+      "address": "北京城区东三环中路20号乐成中心SPACE3 B1层",
+      "distance": "9m"
+    },
+    {
+      "brand": "鲜芋仙(乐成中心SPACE3店)",
+      "address": "东三环中路20号乐成中心SPACE3 B1层",
+      "distance": "11m"
+    },
+    {
+      "brand": "方砖厂69号炸酱面(双井店)",
+      "address": "乐成中心3层03号08室",
+      "distance": "11m"
+    },
+    {
+      "brand": "181 toast手工吐司(乐成中心SPACE3店)",
+      "address": "东三环中路20号乐成中心SPACE3 F1层",
+      "distance": "12m"
+    },
+    {
+      "brand": "奈雪的茶(北京乐成中心green店)",
+      "address": "东三环中路22号楼-1至1层01内1层K01号",
+      "distance": "12m"
+    },
+    {
+      "brand": "JuiceLab(乐成中心店)",
+      "address": "东三环中路22号乐成中心SPACE3 B1层",
+      "distance": "12m"
+    },
+    {
+      "brand": "喜家德虾仁水饺(乐成店)",
+      "address": "北京城区东三环中路22号楼乐成中心地下一层B1-21室",
+      "distance": "12m"
+    },
+    {
+      "brand": "隆延茶铺·正统奶茶(乐成中心店)",
+      "address": "乐成中心B座东三环中路辅路24号B1",
+      "distance": "3m"
+    },
+    {
+      "brand": "荣叔黄鱼面(乐成中心SPACE3店)",
+      "address": "东三环中路20号乐成中心SPACE3 F3层",
+      "distance": "7m"
+    },
+    {
+      "brand": "荣小馆(乐成中心SPACE3店)",
+      "address": "东三环中路24号乐成中心Space3三层(双井地铁站E口旁)",
+      "distance": "8m"
+    },
+    {
+      "brand": "谷田稻香·砂锅菜((乐成中心店)",
+      "address": "北京城区东三环中路20号乐成中心SPACE3 B1层",
+      "distance": "9m"
+    },
+    {
+      "brand": "鲜芋仙(乐成中心SPACE3店)",
+      "address": "东三环中路20号乐成中心SPACE3 B1层",
+      "distance": "11m"
+    },
+    {
+      "brand": "方砖厂69号炸酱面(双井店)",
+      "address": "乐成中心3层03号08室",
+      "distance": "11m"
+    },
+    {
+      "brand": "181 toast手工吐司(乐成中心SPACE3店)",
+      "address": "东三环中路20号乐成中心SPACE3 F1层",
+      "distance": "12m"
+    },
+    {
+      "brand": "奈雪的茶(北京乐成中心green店)",
+      "address": "东三环中路22号楼-1至1层01内1层K01号",
+      "distance": "12m"
+    },
+    {
+      "brand": "JuiceLab(乐成中心店)",
+      "address": "东三环中路22号乐成中心SPACE3 B1层",
+      "distance": "12m"
+    },
+    {
+      "brand": "喜家德虾仁水饺(乐成店)",
+      "address": "北京城区东三环中路22号楼乐成中心地下一层B1-21室",
+      "distance": "12m"
+    },
+    {
+      "brand": "隆延茶铺·正统奶茶(乐成中心店)",
+      "address": "乐成中心B座东三环中路辅路24号B1",
+      "distance": "3m"
+    },
+    {
+      "brand": "荣叔黄鱼面(乐成中心SPACE3店)",
+      "address": "东三环中路20号乐成中心SPACE3 F3层",
+      "distance": "7m"
+    },
+    {
+      "brand": "荣小馆(乐成中心SPACE3店)",
+      "address": "东三环中路24号乐成中心Space3三层(双井地铁站E口旁)",
+      "distance": "8m"
+    },
+    {
+      "brand": "谷田稻香·砂锅菜((乐成中心店)",
+      "address": "北京城区东三环中路20号乐成中心SPACE3 B1层",
+      "distance": "9m"
+    },
+    {
+      "brand": "鲜芋仙(乐成中心SPACE3店)",
+      "address": "东三环中路20号乐成中心SPACE3 B1层",
+      "distance": "11m"
+    },
+    {
+      "brand": "方砖厂69号炸酱面(双井店)",
+      "address": "乐成中心3层03号08室",
+      "distance": "11m"
+    },
+    {
+      "brand": "181 toast手工吐司(乐成中心SPACE3店)",
+      "address": "东三环中路20号乐成中心SPACE3 F1层",
+      "distance": "12m"
+    },
+    {
+      "brand": "奈雪的茶(北京乐成中心green店)",
+      "address": "东三环中路22号楼-1至1层01内1层K01号",
+      "distance": "12m"
+    },
+    {
+      "brand": "JuiceLab(乐成中心店)",
+      "address": "东三环中路22号乐成中心SPACE3 B1层",
+      "distance": "12m"
+    },
+    {
+      "brand": "喜家德虾仁水饺(乐成店)",
+      "address": "北京城区东三环中路22号楼乐成中心地下一层B1-21室",
+      "distance": "12m"
+    },
+    {
+      "brand": "隆延茶铺·正统奶茶(乐成中心店)",
+      "address": "乐成中心B座东三环中路辅路24号B1",
+      "distance": "3m"
+    },
+    {
+      "brand": "荣叔黄鱼面(乐成中心SPACE3店)",
+      "address": "东三环中路20号乐成中心SPACE3 F3层",
+      "distance": "7m"
+    },
+    {
+      "brand": "荣小馆(乐成中心SPACE3店)",
+      "address": "东三环中路24号乐成中心Space3三层(双井地铁站E口旁)",
+      "distance": "8m"
+    },
+    {
+      "brand": "谷田稻香·砂锅菜((乐成中心店)",
+      "address": "北京城区东三环中路20号乐成中心SPACE3 B1层",
+      "distance": "9m"
+    },
+    {
+      "brand": "鲜芋仙(乐成中心SPACE3店)",
+      "address": "东三环中路20号乐成中心SPACE3 B1层",
+      "distance": "11m"
+    },
+    {
+      "brand": "方砖厂69号炸酱面(双井店)",
+      "address": "乐成中心3层03号08室",
+      "distance": "11m"
+    },
+    {
+      "brand": "181 toast手工吐司(乐成中心SPACE3店)",
+      "address": "东三环中路20号乐成中心SPACE3 F1层",
+      "distance": "12m"
+    },
+    {
+      "brand": "奈雪的茶(北京乐成中心green店)",
+      "address": "东三环中路22号楼-1至1层01内1层K01号",
+      "distance": "12m"
+    },
+    {
+      "brand": "JuiceLab(乐成中心店)",
+      "address": "东三环中路22号乐成中心SPACE3 B1层",
+      "distance": "12m"
+    },
+    {
+      "brand": "喜家德虾仁水饺(乐成店)",
+      "address": "北京城区东三环中路22号楼乐成中心地下一层B1-21室",
+      "distance": "12m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "北京富力广场",
+      "open_date": "2007-01-01",
+      "area": "10万㎡",
+      "jun_daily_avg": "4.5万人次",
+      "weekday_avg": "4.3万人次",
+      "holiday_avg": "5万人次"
+    },
+    {
+      "name": "北京缤纷汇购物中心",
+      "open_date": "2019-05-01",
+      "area": "1万㎡",
+      "jun_daily_avg": "2.1万人次",
+      "weekday_avg": "2万人次",
+      "holiday_avg": "2.3万人次"
+    },
+    {
+      "name": "北京银泰中心in01",
+      "open_date": "2018-10-01",
+      "area": "3万㎡",
+      "jun_daily_avg": "1.8万人次",
+      "weekday_avg": "1.9万人次",
+      "holiday_avg": "1.5万人次"
+    },
+    {
+      "name": "北京朝阳合生汇",
+      "open_date": "2017-10-01",
+      "area": "20万㎡",
+      "jun_daily_avg": "20.2万人次",
+      "weekday_avg": "17.8万人次",
+      "holiday_avg": "26.9万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 44.0,
+      "within_1yr_pct": 4.5,
+      "1_3yr_pct": 34.1,
+      "over_3yr_pct": 61.4
+    },
+    {
+      "type": "购物",
+      "count": 15.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 46.7
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 2.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "教育培训",
+      "count": 6.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 16.7,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "生活服务",
+      "count": 20.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 30.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "运动健身",
+      "count": 5.0,
+      "within_1yr_pct": 40.0,
+      "1_3yr_pct": 20.0,
+      "over_3yr_pct": 40.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 2.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 50.0
+    }
+  ]
+}

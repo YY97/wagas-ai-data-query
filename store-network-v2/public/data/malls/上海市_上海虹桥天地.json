@@ -1,0 +1,438 @@
+{
+  "name": "上海虹桥天地",
+  "city": "上海市",
+  "address": "上海市闵行区申长路894号",
+  "lat": 31.191669,
+  "lng": 121.313931,
+  "overview": {
+    "score": 96.3,
+    "score_rank": "市内前30%",
+    "population_score": 65.3,
+    "area_score": 90.6,
+    "consumption_score": 60.0,
+    "industry_score": 96.5,
+    "annual_sales": "16.5",
+    "annual_sales_unit": "亿元",
+    "area_size_sqm": 11.0,
+    "open_date": "2015-12-12",
+    "operator": "上海瑞安房地产发展管理有限公司",
+    "brand": "瑞安房地产",
+    "type": "美食型",
+    "floors": "B1-L6"
+  },
+  "traffic": {
+    "annual_daily": 5.08,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第22",
+    "jun_total": 221.2,
+    "jun_total_rank": "市内商场第25名",
+    "jun_daily_avg": 7.4,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第25名",
+    "weekday_avg": 7.1,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第14名",
+    "holiday_avg": 8.1,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第39名"
+  },
+  "population": {
+    "residential": {
+      "500m": 4300.0,
+      "1_5km": 3.4,
+      "3km": 22.1
+    },
+    "office": {
+      "500m": 3.5,
+      "1_5km": 10.1,
+      "3km": 21.4
+    },
+    "permanent": {
+      "500m": 8.5,
+      "1_5km": 12.8,
+      "3km": 33.5
+    }
+  },
+  "business": {
+    "competitors": 21.0,
+    "food": 438.0,
+    "shopping": 263.0,
+    "leisure": 39.0,
+    "education": 11.0,
+    "hotel": 14.0,
+    "services": 151.0,
+    "fitness": 20.0,
+    "auto": 41.0,
+    "total_stores": 355.0,
+    "old_store_3yr_pct": 48.0
+  },
+  "nearby_poi": {
+    "business": 4.0,
+    "community": 96.0,
+    "office": 56.0,
+    "school": 3.0,
+    "hospital": 33.0,
+    "transport": 23.0,
+    "scenic": 37.0
+  },
+  "demographics": {
+    "male_pct": 50.3,
+    "female_pct": null,
+    "education": {
+      "小学": 9.2,
+      "初中": 17.6,
+      "高中": 11.6,
+      "大专": 9.9,
+      "本科": 46.7,
+      "硕士": 4.3,
+      "博士": 0.7
+    },
+    "has_children_pct": 58.4,
+    "no_children_pct": 41.6
+  },
+  "scraped_at": "2026-07-31T17:31:26.568Z",
+  "nearby_restaurants": [
+    {
+      "brand": "POETS泰狮(虹桥天地店)",
+      "address": "申长路688号虹桥新天地购物中心北区B1层05A室",
+      "distance": "27m"
+    },
+    {
+      "brand": "BROWNSTONE布朗石西班牙餐厅(虹桥天地店)",
+      "address": "虹桥天地新天地B1(虹桥火车站地铁站C出口步行460米)",
+      "distance": "28m"
+    },
+    {
+      "brand": "上海滩餐厅(虹桥天地店)",
+      "address": "申长路888弄虹桥天地北区2号楼B栋1楼2楼",
+      "distance": "29m"
+    },
+    {
+      "brand": "kokyo SUSHI BAR(虹桥天地北区店)",
+      "address": "申长路888弄虹桥新天地北区A座G层01室(汇丰银行楼下)",
+      "distance": "30m"
+    },
+    {
+      "brand": "黑门和牛(虹桥天地店)",
+      "address": "申长路888弄虹桥天地北区A栋L1-02(浦发银行旁)",
+      "distance": "30m"
+    },
+    {
+      "brand": "熏今和牛烧肉",
+      "address": "申长路888弄虹桥天地北区B1层",
+      "distance": "32m"
+    },
+    {
+      "brand": "凤凰湘语(虹桥新天地店)",
+      "address": "申长路888号虹桥新天地北区B座G层",
+      "distance": "32m"
+    },
+    {
+      "brand": "purevegan气候餐厅(虹桥新天地·北区)",
+      "address": "申长路888弄虹桥新天地·北区L2层",
+      "distance": "35m"
+    },
+    {
+      "brand": "Peet's皮爷咖啡(虹桥新天地店)",
+      "address": "苏虹路17号地下1层05B室",
+      "distance": "35m"
+    },
+    {
+      "brand": "PHO MI粉迷越南粉(虹桥天地店)",
+      "address": "申长路896号虹桥天地B1-06室",
+      "distance": "41m"
+    },
+    {
+      "brand": "POETS泰狮(虹桥天地店)",
+      "address": "申长路688号虹桥新天地购物中心北区B1层05A室",
+      "distance": "27m"
+    },
+    {
+      "brand": "BROWNSTONE布朗石西班牙餐厅(虹桥天地店)",
+      "address": "虹桥天地新天地B1(虹桥火车站地铁站C出口步行460米)",
+      "distance": "28m"
+    },
+    {
+      "brand": "上海滩餐厅(虹桥天地店)",
+      "address": "申长路888弄虹桥天地北区2号楼B栋1楼2楼",
+      "distance": "29m"
+    },
+    {
+      "brand": "kokyo SUSHI BAR(虹桥天地北区店)",
+      "address": "申长路888弄虹桥新天地北区A座G层01室(汇丰银行楼下)",
+      "distance": "30m"
+    },
+    {
+      "brand": "黑门和牛(虹桥天地店)",
+      "address": "申长路888弄虹桥天地北区A栋L1-02(浦发银行旁)",
+      "distance": "30m"
+    },
+    {
+      "brand": "熏今和牛烧肉",
+      "address": "申长路888弄虹桥天地北区B1层",
+      "distance": "32m"
+    },
+    {
+      "brand": "凤凰湘语(虹桥新天地店)",
+      "address": "申长路888号虹桥新天地北区B座G层",
+      "distance": "32m"
+    },
+    {
+      "brand": "purevegan气候餐厅(虹桥新天地·北区)",
+      "address": "申长路888弄虹桥新天地·北区L2层",
+      "distance": "35m"
+    },
+    {
+      "brand": "Peet's皮爷咖啡(虹桥新天地店)",
+      "address": "苏虹路17号地下1层05B室",
+      "distance": "35m"
+    },
+    {
+      "brand": "PHO MI粉迷越南粉(虹桥天地店)",
+      "address": "申长路896号虹桥天地B1-06室",
+      "distance": "41m"
+    },
+    {
+      "brand": "POETS泰狮(虹桥天地店)",
+      "address": "申长路688号虹桥新天地购物中心北区B1层05A室",
+      "distance": "27m"
+    },
+    {
+      "brand": "BROWNSTONE布朗石西班牙餐厅(虹桥天地店)",
+      "address": "虹桥天地新天地B1(虹桥火车站地铁站C出口步行460米)",
+      "distance": "28m"
+    },
+    {
+      "brand": "上海滩餐厅(虹桥天地店)",
+      "address": "申长路888弄虹桥天地北区2号楼B栋1楼2楼",
+      "distance": "29m"
+    },
+    {
+      "brand": "kokyo SUSHI BAR(虹桥天地北区店)",
+      "address": "申长路888弄虹桥新天地北区A座G层01室(汇丰银行楼下)",
+      "distance": "30m"
+    },
+    {
+      "brand": "黑门和牛(虹桥天地店)",
+      "address": "申长路888弄虹桥天地北区A栋L1-02(浦发银行旁)",
+      "distance": "30m"
+    },
+    {
+      "brand": "熏今和牛烧肉",
+      "address": "申长路888弄虹桥天地北区B1层",
+      "distance": "32m"
+    },
+    {
+      "brand": "凤凰湘语(虹桥新天地店)",
+      "address": "申长路888号虹桥新天地北区B座G层",
+      "distance": "32m"
+    },
+    {
+      "brand": "purevegan气候餐厅(虹桥新天地·北区)",
+      "address": "申长路888弄虹桥新天地·北区L2层",
+      "distance": "35m"
+    },
+    {
+      "brand": "Peet's皮爷咖啡(虹桥新天地店)",
+      "address": "苏虹路17号地下1层05B室",
+      "distance": "35m"
+    },
+    {
+      "brand": "PHO MI粉迷越南粉(虹桥天地店)",
+      "address": "申长路896号虹桥天地B1-06室",
+      "distance": "41m"
+    },
+    {
+      "brand": "POETS泰狮(虹桥天地店)",
+      "address": "申长路688号虹桥新天地购物中心北区B1层05A室",
+      "distance": "27m"
+    },
+    {
+      "brand": "BROWNSTONE布朗石西班牙餐厅(虹桥天地店)",
+      "address": "虹桥天地新天地B1(虹桥火车站地铁站C出口步行460米)",
+      "distance": "28m"
+    },
+    {
+      "brand": "上海滩餐厅(虹桥天地店)",
+      "address": "申长路888弄虹桥天地北区2号楼B栋1楼2楼",
+      "distance": "29m"
+    },
+    {
+      "brand": "kokyo SUSHI BAR(虹桥天地北区店)",
+      "address": "申长路888弄虹桥新天地北区A座G层01室(汇丰银行楼下)",
+      "distance": "30m"
+    },
+    {
+      "brand": "黑门和牛(虹桥天地店)",
+      "address": "申长路888弄虹桥天地北区A栋L1-02(浦发银行旁)",
+      "distance": "30m"
+    },
+    {
+      "brand": "熏今和牛烧肉",
+      "address": "申长路888弄虹桥天地北区B1层",
+      "distance": "32m"
+    },
+    {
+      "brand": "凤凰湘语(虹桥新天地店)",
+      "address": "申长路888号虹桥新天地北区B座G层",
+      "distance": "32m"
+    },
+    {
+      "brand": "purevegan气候餐厅(虹桥新天地·北区)",
+      "address": "申长路888弄虹桥新天地·北区L2层",
+      "distance": "35m"
+    },
+    {
+      "brand": "Peet's皮爷咖啡(虹桥新天地店)",
+      "address": "苏虹路17号地下1层05B室",
+      "distance": "35m"
+    },
+    {
+      "brand": "PHO MI粉迷越南粉(虹桥天地店)",
+      "address": "申长路896号虹桥天地B1-06室",
+      "distance": "41m"
+    },
+    {
+      "brand": "POETS泰狮(虹桥天地店)",
+      "address": "申长路688号虹桥新天地购物中心北区B1层05A室",
+      "distance": "27m"
+    },
+    {
+      "brand": "BROWNSTONE布朗石西班牙餐厅(虹桥天地店)",
+      "address": "虹桥天地新天地B1(虹桥火车站地铁站C出口步行460米)",
+      "distance": "28m"
+    },
+    {
+      "brand": "上海滩餐厅(虹桥天地店)",
+      "address": "申长路888弄虹桥天地北区2号楼B栋1楼2楼",
+      "distance": "29m"
+    },
+    {
+      "brand": "kokyo SUSHI BAR(虹桥天地北区店)",
+      "address": "申长路888弄虹桥新天地北区A座G层01室(汇丰银行楼下)",
+      "distance": "30m"
+    },
+    {
+      "brand": "黑门和牛(虹桥天地店)",
+      "address": "申长路888弄虹桥天地北区A栋L1-02(浦发银行旁)",
+      "distance": "30m"
+    },
+    {
+      "brand": "熏今和牛烧肉",
+      "address": "申长路888弄虹桥天地北区B1层",
+      "distance": "32m"
+    },
+    {
+      "brand": "凤凰湘语(虹桥新天地店)",
+      "address": "申长路888号虹桥新天地北区B座G层",
+      "distance": "32m"
+    },
+    {
+      "brand": "purevegan气候餐厅(虹桥新天地·北区)",
+      "address": "申长路888弄虹桥新天地·北区L2层",
+      "distance": "35m"
+    },
+    {
+      "brand": "Peet's皮爷咖啡(虹桥新天地店)",
+      "address": "苏虹路17号地下1层05B室",
+      "distance": "35m"
+    },
+    {
+      "brand": "PHO MI粉迷越南粉(虹桥天地店)",
+      "address": "申长路896号虹桥天地B1-06室",
+      "distance": "41m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "龙湖上海虹桥天街",
+      "open_date": "2016-12-17",
+      "area": "17万㎡",
+      "jun_daily_avg": "3.7万人次",
+      "weekday_avg": "3.7万人次",
+      "holiday_avg": "3.5万人次"
+    },
+    {
+      "name": "上海虹桥丽宝乐园",
+      "open_date": "2019-09-13",
+      "area": "7万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海新华联国际中心",
+      "open_date": "2016-11-19",
+      "area": "2.3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海虹桥阿里中心",
+      "open_date": "2019-05-10",
+      "area": "2.1万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 144.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 21.5,
+      "over_3yr_pct": 53.5
+    },
+    {
+      "type": "购物",
+      "count": 125.0,
+      "within_1yr_pct": 34.4,
+      "1_3yr_pct": 21.6,
+      "over_3yr_pct": 44.0
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 20.0,
+      "within_1yr_pct": 35.0,
+      "1_3yr_pct": 20.0,
+      "over_3yr_pct": 45.0
+    },
+    {
+      "type": "教育培训",
+      "count": 2.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 4.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 75.0
+    },
+    {
+      "type": "生活服务",
+      "count": 41.0,
+      "within_1yr_pct": 29.3,
+      "1_3yr_pct": 19.5,
+      "over_3yr_pct": 51.2
+    },
+    {
+      "type": "运动健身",
+      "count": 7.0,
+      "within_1yr_pct": 57.1,
+      "1_3yr_pct": 28.6,
+      "over_3yr_pct": 14.3
+    },
+    {
+      "type": "车辆服务",
+      "count": 12.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 41.7
+    }
+  ]
+}

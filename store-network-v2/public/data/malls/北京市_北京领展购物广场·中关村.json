@@ -1,0 +1,439 @@
+{
+  "name": "北京领展购物广场·中关村",
+  "city": "北京市",
+  "address": "北京市海淀区丹棱街甲1号",
+  "lat": 39.979708,
+  "lng": 116.31397,
+  "overview": {
+    "score": 94.6,
+    "score_rank": "市内前30%",
+    "population_score": 88.4,
+    "area_score": 100.0,
+    "consumption_score": 87.6,
+    "industry_score": 94.6,
+    "annual_sales": "4",
+    "annual_sales_unit": "亿元",
+    "area_size_sqm": 5.3,
+    "open_date": "2015-01-01",
+    "operator": "领展资产管理有限公司",
+    "brand": "领展资产管理有限公司",
+    "type": "购物型",
+    "floors": "B1-L6"
+  },
+  "traffic": {
+    "annual_daily": 2.49,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第97",
+    "jun_total": 150.3,
+    "jun_total_rank": "市内商场第49名",
+    "jun_daily_avg": 5.0,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第49名",
+    "weekday_avg": 4.6,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第49名",
+    "holiday_avg": 6.2,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第48名"
+  },
+  "population": {
+    "residential": {
+      "500m": 2.1,
+      "1_5km": 21.3,
+      "3km": 67.0
+    },
+    "office": {
+      "500m": 6.5,
+      "1_5km": 24.4,
+      "3km": 61.5
+    },
+    "permanent": {
+      "500m": 3.4,
+      "1_5km": 21.5,
+      "3km": 64.2
+    }
+  },
+  "business": {
+    "competitors": 15.0,
+    "food": 566.0,
+    "shopping": 413.0,
+    "leisure": 43.0,
+    "education": 129.0,
+    "hotel": 39.0,
+    "services": 358.0,
+    "fitness": 39.0,
+    "auto": 33.0,
+    "total_stores": 209.0,
+    "old_store_3yr_pct": 33.0
+  },
+  "nearby_poi": {
+    "business": 5.0,
+    "community": 289.0,
+    "office": 120.0,
+    "school": 51.0,
+    "hospital": 89.0,
+    "transport": 11.0,
+    "scenic": 297.0
+  },
+  "demographics": {
+    "male_pct": 47.7,
+    "female_pct": null,
+    "education": {
+      "小学": 7.6,
+      "初中": 13.7,
+      "高中": 12.4,
+      "大专": 4.7,
+      "本科": 47.9,
+      "硕士": 10.4,
+      "博士": 3.3
+    },
+    "has_children_pct": 53.6,
+    "no_children_pct": 46.4
+  },
+  "scraped_at": "2026-07-31T19:12:52.553Z",
+  "nearby_restaurants": [
+    {
+      "brand": "绿色庄园·韩式烤肉(中关村领展店)",
+      "address": "领展广场6楼",
+      "distance": "5m"
+    },
+    {
+      "brand": "绿茶餐厅(领展购物广场·中关村店)",
+      "address": "北京城区甲单棱街1号欧美汇购物中心6层601-04号",
+      "distance": "6m"
+    },
+    {
+      "brand": "鳗鳗の爱(领展购物广场·中关村餐厅)",
+      "address": "丹棱街甲1号北京中关村领展广场F1层",
+      "distance": "9m"
+    },
+    {
+      "brand": "达脆哆菜煎饼",
+      "address": "北京城区领展购物广场B1",
+      "distance": "14m"
+    },
+    {
+      "brand": "南京大牌档(中关村领展广场店)",
+      "address": "丹棱街甲1号4层401",
+      "distance": "14m"
+    },
+    {
+      "brand": "SAME SIAM热啊东南亚餐厅(中关村领展广场店)",
+      "address": "北京城区单棱街甲1号领展购物广场4层401",
+      "distance": "15m"
+    },
+    {
+      "brand": "鸡柳大人(中关村领展广场店)",
+      "address": "丹棱街甲1号北京中关村领展广场B1层",
+      "distance": "16m"
+    },
+    {
+      "brand": "茶百道(北京中关村领展店)",
+      "address": "北京城区丹棱街甲1号中关村领展广场B1层B37-B38",
+      "distance": "19m"
+    },
+    {
+      "brand": "Peet's皮爷咖啡(中关村领展店)",
+      "address": "北京城区丹棱街甲1号中关村领展广场F1-13号",
+      "distance": "19m"
+    },
+    {
+      "brand": "滨寿司(中关村领展广场店)",
+      "address": "丹棱街甲1号北京中关村领展广场五层501-03",
+      "distance": "20m"
+    },
+    {
+      "brand": "绿色庄园·韩式烤肉(中关村领展店)",
+      "address": "领展广场6楼",
+      "distance": "5m"
+    },
+    {
+      "brand": "绿茶餐厅(领展购物广场·中关村店)",
+      "address": "北京城区甲单棱街1号欧美汇购物中心6层601-04号",
+      "distance": "6m"
+    },
+    {
+      "brand": "鳗鳗の爱(领展购物广场·中关村餐厅)",
+      "address": "丹棱街甲1号北京中关村领展广场F1层",
+      "distance": "9m"
+    },
+    {
+      "brand": "达脆哆菜煎饼",
+      "address": "北京城区领展购物广场B1",
+      "distance": "14m"
+    },
+    {
+      "brand": "南京大牌档(中关村领展广场店)",
+      "address": "丹棱街甲1号4层401",
+      "distance": "14m"
+    },
+    {
+      "brand": "SAME SIAM热啊东南亚餐厅(中关村领展广场店)",
+      "address": "北京城区单棱街甲1号领展购物广场4层401",
+      "distance": "15m"
+    },
+    {
+      "brand": "鸡柳大人(中关村领展广场店)",
+      "address": "丹棱街甲1号北京中关村领展广场B1层",
+      "distance": "16m"
+    },
+    {
+      "brand": "茶百道(北京中关村领展店)",
+      "address": "北京城区丹棱街甲1号中关村领展广场B1层B37-B38",
+      "distance": "19m"
+    },
+    {
+      "brand": "Peet's皮爷咖啡(中关村领展店)",
+      "address": "北京城区丹棱街甲1号中关村领展广场F1-13号",
+      "distance": "19m"
+    },
+    {
+      "brand": "滨寿司(中关村领展广场店)",
+      "address": "丹棱街甲1号北京中关村领展广场五层501-03",
+      "distance": "20m"
+    },
+    {
+      "brand": "绿色庄园·韩式烤肉(中关村领展店)",
+      "address": "领展广场6楼",
+      "distance": "5m"
+    },
+    {
+      "brand": "绿茶餐厅(领展购物广场·中关村店)",
+      "address": "北京城区甲单棱街1号欧美汇购物中心6层601-04号",
+      "distance": "6m"
+    },
+    {
+      "brand": "鳗鳗の爱(领展购物广场·中关村餐厅)",
+      "address": "丹棱街甲1号北京中关村领展广场F1层",
+      "distance": "9m"
+    },
+    {
+      "brand": "达脆哆菜煎饼",
+      "address": "北京城区领展购物广场B1",
+      "distance": "14m"
+    },
+    {
+      "brand": "南京大牌档(中关村领展广场店)",
+      "address": "丹棱街甲1号4层401",
+      "distance": "14m"
+    },
+    {
+      "brand": "SAME SIAM热啊东南亚餐厅(中关村领展广场店)",
+      "address": "北京城区单棱街甲1号领展购物广场4层401",
+      "distance": "15m"
+    },
+    {
+      "brand": "鸡柳大人(中关村领展广场店)",
+      "address": "丹棱街甲1号北京中关村领展广场B1层",
+      "distance": "16m"
+    },
+    {
+      "brand": "茶百道(北京中关村领展店)",
+      "address": "北京城区丹棱街甲1号中关村领展广场B1层B37-B38",
+      "distance": "19m"
+    },
+    {
+      "brand": "Peet's皮爷咖啡(中关村领展店)",
+      "address": "北京城区丹棱街甲1号中关村领展广场F1-13号",
+      "distance": "19m"
+    },
+    {
+      "brand": "滨寿司(中关村领展广场店)",
+      "address": "丹棱街甲1号北京中关村领展广场五层501-03",
+      "distance": "20m"
+    },
+    {
+      "brand": "绿色庄园·韩式烤肉(中关村领展店)",
+      "address": "领展广场6楼",
+      "distance": "5m"
+    },
+    {
+      "brand": "绿茶餐厅(领展购物广场·中关村店)",
+      "address": "北京城区甲单棱街1号欧美汇购物中心6层601-04号",
+      "distance": "6m"
+    },
+    {
+      "brand": "鳗鳗の爱(领展购物广场·中关村餐厅)",
+      "address": "丹棱街甲1号北京中关村领展广场F1层",
+      "distance": "9m"
+    },
+    {
+      "brand": "达脆哆菜煎饼",
+      "address": "北京城区领展购物广场B1",
+      "distance": "14m"
+    },
+    {
+      "brand": "南京大牌档(中关村领展广场店)",
+      "address": "丹棱街甲1号4层401",
+      "distance": "14m"
+    },
+    {
+      "brand": "SAME SIAM热啊东南亚餐厅(中关村领展广场店)",
+      "address": "北京城区单棱街甲1号领展购物广场4层401",
+      "distance": "15m"
+    },
+    {
+      "brand": "鸡柳大人(中关村领展广场店)",
+      "address": "丹棱街甲1号北京中关村领展广场B1层",
+      "distance": "16m"
+    },
+    {
+      "brand": "茶百道(北京中关村领展店)",
+      "address": "北京城区丹棱街甲1号中关村领展广场B1层B37-B38",
+      "distance": "19m"
+    },
+    {
+      "brand": "Peet's皮爷咖啡(中关村领展店)",
+      "address": "北京城区丹棱街甲1号中关村领展广场F1-13号",
+      "distance": "19m"
+    },
+    {
+      "brand": "滨寿司(中关村领展广场店)",
+      "address": "丹棱街甲1号北京中关村领展广场五层501-03",
+      "distance": "20m"
+    },
+    {
+      "brand": "绿色庄园·韩式烤肉(中关村领展店)",
+      "address": "领展广场6楼",
+      "distance": "5m"
+    },
+    {
+      "brand": "绿茶餐厅(领展购物广场·中关村店)",
+      "address": "北京城区甲单棱街1号欧美汇购物中心6层601-04号",
+      "distance": "6m"
+    },
+    {
+      "brand": "鳗鳗の爱(领展购物广场·中关村餐厅)",
+      "address": "丹棱街甲1号北京中关村领展广场F1层",
+      "distance": "9m"
+    },
+    {
+      "brand": "达脆哆菜煎饼",
+      "address": "北京城区领展购物广场B1",
+      "distance": "14m"
+    },
+    {
+      "brand": "南京大牌档(中关村领展广场店)",
+      "address": "丹棱街甲1号4层401",
+      "distance": "14m"
+    },
+    {
+      "brand": "SAME SIAM热啊东南亚餐厅(中关村领展广场店)",
+      "address": "北京城区单棱街甲1号领展购物广场4层401",
+      "distance": "15m"
+    },
+    {
+      "brand": "鸡柳大人(中关村领展广场店)",
+      "address": "丹棱街甲1号北京中关村领展广场B1层",
+      "distance": "16m"
+    },
+    {
+      "brand": "茶百道(北京中关村领展店)",
+      "address": "北京城区丹棱街甲1号中关村领展广场B1层B37-B38",
+      "distance": "19m"
+    },
+    {
+      "brand": "Peet's皮爷咖啡(中关村领展店)",
+      "address": "北京城区丹棱街甲1号中关村领展广场F1-13号",
+      "distance": "19m"
+    },
+    {
+      "brand": "滨寿司(中关村领展广场店)",
+      "address": "丹棱街甲1号北京中关村领展广场五层501-03",
+      "distance": "20m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "北京新中关购物中心",
+      "open_date": "2006-01-01",
+      "area": "4.5万㎡",
+      "jun_daily_avg": "4.8万人次",
+      "weekday_avg": "4.6万人次",
+      "holiday_avg": "5.4万人次"
+    },
+    {
+      "name": "北京中关村ART PARK大融城",
+      "open_date": "2025-05-16",
+      "area": "20万㎡",
+      "jun_daily_avg": "4.7万人次",
+      "weekday_avg": "4.3万人次",
+      "holiday_avg": "5.7万人次"
+    },
+    {
+      "name": "北京中关村广场购物中心",
+      "open_date": "2005",
+      "area": "14万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "北京鼎好THE HUB（B座）",
+      "open_date": "2025-10-16",
+      "area": "2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "融科天地(融科资讯中心)",
+      "open_date": "2002-01-01",
+      "area": "2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 62.0,
+      "within_1yr_pct": 24.2,
+      "1_3yr_pct": 43.5,
+      "over_3yr_pct": 32.3
+    },
+    {
+      "type": "购物",
+      "count": 99.0,
+      "within_1yr_pct": 42.4,
+      "1_3yr_pct": 25.3,
+      "over_3yr_pct": 32.3
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 5.0,
+      "within_1yr_pct": 60.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 40.0
+    },
+    {
+      "type": "教育培训",
+      "count": 6.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "生活服务",
+      "count": 27.0,
+      "within_1yr_pct": 7.4,
+      "1_3yr_pct": 48.1,
+      "over_3yr_pct": 44.4
+    },
+    {
+      "type": "运动健身",
+      "count": 6.0,
+      "within_1yr_pct": 16.7,
+      "1_3yr_pct": 66.7,
+      "over_3yr_pct": 16.7
+    },
+    {
+      "type": "车辆服务",
+      "count": 4.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 50.0
+    }
+  ]
+}

@@ -1,0 +1,470 @@
+{
+  "name": "百丽广场",
+  "city": "青岛市",
+  "address": "山东省青岛市市南区澳门路88",
+  "lat": 36.060527,
+  "lng": 120.393378,
+  "overview": {
+    "score": 77.4,
+    "score_rank": "市内前30%",
+    "population_score": 70.5,
+    "area_score": 77.5,
+    "consumption_score": 91.9,
+    "industry_score": 77.5,
+    "annual_sales": "百丽广场是集休闲、娱乐、购物功能为一体的综合性购物中心，曾是山东省第一个业态完整的商业MALL",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 8.6,
+    "open_date": "2010-04-01",
+    "operator": "",
+    "brand": "",
+    "type": "美食型",
+    "floors": "B1-L3"
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "-",
+    "annual_daily_rank": "",
+    "jun_total": 8.5,
+    "jun_total_rank": "市内商场第118名",
+    "jun_daily_avg": 2831.0,
+    "jun_daily_unit": "人次",
+    "jun_daily_rank": "市内商场第118名",
+    "weekday_avg": 2627.0,
+    "weekday_unit": "人次",
+    "weekday_rank": "市内商场第118名",
+    "holiday_avg": 3396.0,
+    "holiday_unit": "人次",
+    "holiday_rank": "市内商场第118名"
+  },
+  "population": {
+    "residential": {
+      "500m": 4500.0,
+      "1_5km": 8.7,
+      "3km": 34.1
+    },
+    "office": {
+      "500m": 8900.0,
+      "1_5km": 11.8,
+      "3km": 30.1
+    },
+    "permanent": {
+      "500m": 9200.0,
+      "1_5km": 13.6,
+      "3km": 41.1
+    }
+  },
+  "business": {
+    "competitors": 2.0,
+    "food": 157.0,
+    "shopping": 378.0,
+    "leisure": 15.0,
+    "education": 7.0,
+    "hotel": 80.0,
+    "services": 88.0,
+    "fitness": 13.0,
+    "auto": 13.0,
+    "total_stores": 117.0,
+    "old_store_3yr_pct": 50.0
+  },
+  "nearby_poi": {
+    "business": 8.0,
+    "community": 330.0,
+    "office": 61.0,
+    "school": 9.0,
+    "hospital": 140.0,
+    "transport": 3.0,
+    "scenic": 238.0
+  },
+  "demographics": {
+    "male_pct": 46.5,
+    "female_pct": null,
+    "education": {
+      "小学": 9.0,
+      "初中": 15.2,
+      "高中": 15.1,
+      "大专": 8.3,
+      "本科": 46.1,
+      "硕士": 4.9,
+      "博士": 1.4
+    },
+    "has_children_pct": 54.8,
+    "no_children_pct": 45.2
+  },
+  "scraped_at": "2026-08-02T09:52:21.884Z",
+  "nearby_restaurants": [
+    {
+      "brand": "觅棠咖啡",
+      "address": "澳门路88号百丽广场",
+      "distance": "38m"
+    },
+    {
+      "brand": "阿良炭烧",
+      "address": "澳门路88号百丽广场",
+      "distance": "61m"
+    },
+    {
+      "brand": "La Finca领地工作室(百丽广场店)",
+      "address": "澳门路86号百丽广场西区二楼205",
+      "distance": "71m"
+    },
+    {
+      "brand": "柏海餐厅(奥帆中心店)(暂停营业)",
+      "address": "澳门路86号126-127户",
+      "distance": "72m"
+    },
+    {
+      "brand": "麦当劳(澳门路餐厅)",
+      "address": "澳门路86号百丽广场一层和澳门路88号负一层",
+      "distance": "73m"
+    },
+    {
+      "brand": "依海湾蒸汽·手抓海鲜(奥帆中心店)",
+      "address": "澳门路88号",
+      "distance": "78m"
+    },
+    {
+      "brand": "糕幸一点·Cake(青岛百丽广场店)",
+      "address": "清远路1号百丽广场-西区",
+      "distance": "82m"
+    },
+    {
+      "brand": "有口福水饺",
+      "address": "清远路1号百丽广场-西区",
+      "distance": "86m"
+    },
+    {
+      "brand": "笨蛤蜊·地标小吃大排档(奥帆中心店)",
+      "address": "澳门路89号(奥林匹克码头对面)",
+      "distance": "93m"
+    },
+    {
+      "brand": "米兰大道",
+      "address": "澳门路97号",
+      "distance": "93m"
+    },
+    {
+      "brand": "觅棠咖啡",
+      "address": "澳门路88号百丽广场",
+      "distance": "38m"
+    },
+    {
+      "brand": "阿良炭烧",
+      "address": "澳门路88号百丽广场",
+      "distance": "61m"
+    },
+    {
+      "brand": "La Finca领地工作室(百丽广场店)",
+      "address": "澳门路86号百丽广场西区二楼205",
+      "distance": "71m"
+    },
+    {
+      "brand": "柏海餐厅(奥帆中心店)(暂停营业)",
+      "address": "澳门路86号126-127户",
+      "distance": "72m"
+    },
+    {
+      "brand": "麦当劳(澳门路餐厅)",
+      "address": "澳门路86号百丽广场一层和澳门路88号负一层",
+      "distance": "73m"
+    },
+    {
+      "brand": "依海湾蒸汽·手抓海鲜(奥帆中心店)",
+      "address": "澳门路88号",
+      "distance": "78m"
+    },
+    {
+      "brand": "糕幸一点·Cake(青岛百丽广场店)",
+      "address": "清远路1号百丽广场-西区",
+      "distance": "82m"
+    },
+    {
+      "brand": "有口福水饺",
+      "address": "清远路1号百丽广场-西区",
+      "distance": "86m"
+    },
+    {
+      "brand": "笨蛤蜊·地标小吃大排档(奥帆中心店)",
+      "address": "澳门路89号(奥林匹克码头对面)",
+      "distance": "93m"
+    },
+    {
+      "brand": "米兰大道",
+      "address": "澳门路97号",
+      "distance": "93m"
+    },
+    {
+      "brand": "觅棠咖啡",
+      "address": "澳门路88号百丽广场",
+      "distance": "38m"
+    },
+    {
+      "brand": "阿良炭烧",
+      "address": "澳门路88号百丽广场",
+      "distance": "61m"
+    },
+    {
+      "brand": "La Finca领地工作室(百丽广场店)",
+      "address": "澳门路86号百丽广场西区二楼205",
+      "distance": "71m"
+    },
+    {
+      "brand": "柏海餐厅(奥帆中心店)(暂停营业)",
+      "address": "澳门路86号126-127户",
+      "distance": "72m"
+    },
+    {
+      "brand": "麦当劳(澳门路餐厅)",
+      "address": "澳门路86号百丽广场一层和澳门路88号负一层",
+      "distance": "73m"
+    },
+    {
+      "brand": "依海湾蒸汽·手抓海鲜(奥帆中心店)",
+      "address": "澳门路88号",
+      "distance": "78m"
+    },
+    {
+      "brand": "糕幸一点·Cake(青岛百丽广场店)",
+      "address": "清远路1号百丽广场-西区",
+      "distance": "82m"
+    },
+    {
+      "brand": "有口福水饺",
+      "address": "清远路1号百丽广场-西区",
+      "distance": "86m"
+    },
+    {
+      "brand": "笨蛤蜊·地标小吃大排档(奥帆中心店)",
+      "address": "澳门路89号(奥林匹克码头对面)",
+      "distance": "93m"
+    },
+    {
+      "brand": "米兰大道",
+      "address": "澳门路97号",
+      "distance": "93m"
+    },
+    {
+      "brand": "觅棠咖啡",
+      "address": "澳门路88号百丽广场",
+      "distance": "38m"
+    },
+    {
+      "brand": "阿良炭烧",
+      "address": "澳门路88号百丽广场",
+      "distance": "61m"
+    },
+    {
+      "brand": "La Finca领地工作室(百丽广场店)",
+      "address": "澳门路86号百丽广场西区二楼205",
+      "distance": "71m"
+    },
+    {
+      "brand": "柏海餐厅(奥帆中心店)(暂停营业)",
+      "address": "澳门路86号126-127户",
+      "distance": "72m"
+    },
+    {
+      "brand": "麦当劳(澳门路餐厅)",
+      "address": "澳门路86号百丽广场一层和澳门路88号负一层",
+      "distance": "73m"
+    },
+    {
+      "brand": "依海湾蒸汽·手抓海鲜(奥帆中心店)",
+      "address": "澳门路88号",
+      "distance": "78m"
+    },
+    {
+      "brand": "糕幸一点·Cake(青岛百丽广场店)",
+      "address": "清远路1号百丽广场-西区",
+      "distance": "82m"
+    },
+    {
+      "brand": "有口福水饺",
+      "address": "清远路1号百丽广场-西区",
+      "distance": "86m"
+    },
+    {
+      "brand": "笨蛤蜊·地标小吃大排档(奥帆中心店)",
+      "address": "澳门路89号(奥林匹克码头对面)",
+      "distance": "93m"
+    },
+    {
+      "brand": "米兰大道",
+      "address": "澳门路97号",
+      "distance": "93m"
+    },
+    {
+      "brand": "觅棠咖啡",
+      "address": "澳门路88号百丽广场",
+      "distance": "38m"
+    },
+    {
+      "brand": "阿良炭烧",
+      "address": "澳门路88号百丽广场",
+      "distance": "61m"
+    },
+    {
+      "brand": "La Finca领地工作室(百丽广场店)",
+      "address": "澳门路86号百丽广场西区二楼205",
+      "distance": "71m"
+    },
+    {
+      "brand": "柏海餐厅(奥帆中心店)(暂停营业)",
+      "address": "澳门路86号126-127户",
+      "distance": "72m"
+    },
+    {
+      "brand": "麦当劳(澳门路餐厅)",
+      "address": "澳门路86号百丽广场一层和澳门路88号负一层",
+      "distance": "73m"
+    },
+    {
+      "brand": "依海湾蒸汽·手抓海鲜(奥帆中心店)",
+      "address": "澳门路88号",
+      "distance": "78m"
+    },
+    {
+      "brand": "糕幸一点·Cake(青岛百丽广场店)",
+      "address": "清远路1号百丽广场-西区",
+      "distance": "82m"
+    },
+    {
+      "brand": "有口福水饺",
+      "address": "清远路1号百丽广场-西区",
+      "distance": "86m"
+    },
+    {
+      "brand": "笨蛤蜊·地标小吃大排档(奥帆中心店)",
+      "address": "澳门路89号(奥林匹克码头对面)",
+      "distance": "93m"
+    },
+    {
+      "brand": "米兰大道",
+      "address": "澳门路97号",
+      "distance": "93m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "青岛海信广场",
+      "open_date": "2006-06-21",
+      "area": "6.3万㎡",
+      "jun_daily_avg": "3.1万人次",
+      "weekday_avg": "2.8万人次",
+      "holiday_avg": "4万人次"
+    },
+    {
+      "name": "青岛永旺东部购物中心",
+      "open_date": "1998-01-18",
+      "area": "4万㎡",
+      "jun_daily_avg": "2.3万人次",
+      "weekday_avg": "2.2万人次",
+      "holiday_avg": "2.5万人次"
+    },
+    {
+      "name": "阳光百货(C入口)",
+      "open_date": "2003-09-29",
+      "area": "3万㎡",
+      "jun_daily_avg": "2.4万人次",
+      "weekday_avg": "2.5万人次",
+      "holiday_avg": "2.3万人次"
+    },
+    {
+      "name": "青岛银座中心",
+      "open_date": "2016-01-31",
+      "area": "9.2万㎡",
+      "jun_daily_avg": "2.8万人次",
+      "weekday_avg": "2.7万人次",
+      "holiday_avg": "3.2万人次"
+    },
+    {
+      "name": "青岛远雄未来广场",
+      "open_date": "2011-02-27",
+      "area": "3.5万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "青岛麦凯乐(香港中路店)",
+      "open_date": "2006-09-30",
+      "area": "11万㎡",
+      "jun_daily_avg": "2.1万人次",
+      "weekday_avg": "1.9万人次",
+      "holiday_avg": "2.5万人次"
+    },
+    {
+      "name": "青岛爱购时尚广场",
+      "open_date": "2009-05-01",
+      "area": "1.8万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "青岛华润万象城",
+      "open_date": "2015-04-01",
+      "area": "36.3万㎡",
+      "jun_daily_avg": "16.2万人次",
+      "weekday_avg": "14.5万人次",
+      "holiday_avg": "20.8万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 41.0,
+      "within_1yr_pct": 26.8,
+      "1_3yr_pct": 31.7,
+      "over_3yr_pct": 41.5
+    },
+    {
+      "type": "购物",
+      "count": 32.0,
+      "within_1yr_pct": 21.9,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 53.1
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 8.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "教育培训",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 4.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 25.0
+    },
+    {
+      "type": "生活服务",
+      "count": 27.0,
+      "within_1yr_pct": 11.1,
+      "1_3yr_pct": 29.6,
+      "over_3yr_pct": 59.3
+    },
+    {
+      "type": "运动健身",
+      "count": 3.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
+    }
+  ]
+}

@@ -1,0 +1,446 @@
+{
+  "name": "北京亿潼隆万丰购物中心",
+  "city": "北京市",
+  "address": "北京市丰台区万丰路305号",
+  "lat": 39.873051,
+  "lng": 116.296457,
+  "overview": {
+    "score": 80.0,
+    "score_rank": "市内前30%",
+    "population_score": 72.6,
+    "area_score": 69.8,
+    "consumption_score": 82.3,
+    "industry_score": 80.1,
+    "annual_sales": "亿潼隆万丰购物中心位于北京市丰台区万丰路305号，提供购物、餐饮等多种服务。购物中心地下有超市，一层主要经营化妆品，二层为服装服饰，三层为运动品牌服装，外面牌子上的奥特莱斯指的就是这一层",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 3.7,
+    "open_date": "2010-12-25",
+    "operator": "北京亿潼隆连锁超市有限公司",
+    "brand": "",
+    "type": "购物型",
+    "floors": "B1-L4"
+  },
+  "traffic": {
+    "annual_daily": 1.91,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第128",
+    "jun_total": 63.4,
+    "jun_total_rank": "市内商场第151名",
+    "jun_daily_avg": 2.1,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第151名",
+    "weekday_avg": 2.0,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第155名",
+    "holiday_avg": 2.4,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第152名"
+  },
+  "population": {
+    "residential": {
+      "500m": 8500.0,
+      "1_5km": 15.7,
+      "3km": 63.7
+    },
+    "office": {
+      "500m": 6200.0,
+      "1_5km": 8.5,
+      "3km": 32.5
+    },
+    "permanent": {
+      "500m": 9400.0,
+      "1_5km": 16.1,
+      "3km": 63.4
+    }
+  },
+  "business": {
+    "competitors": null,
+    "food": 79.0,
+    "shopping": 67.0,
+    "leisure": 13.0,
+    "education": 8.0,
+    "hotel": 18.0,
+    "services": 34.0,
+    "fitness": 12.0,
+    "auto": 11.0,
+    "total_stores": 94.0,
+    "old_store_3yr_pct": 62.0
+  },
+  "nearby_poi": {
+    "business": 5.0,
+    "community": 297.0,
+    "office": 41.0,
+    "school": 24.0,
+    "hospital": 59.0,
+    "transport": 5.0,
+    "scenic": 88.0
+  },
+  "demographics": {
+    "male_pct": 49.2,
+    "female_pct": null,
+    "education": {
+      "小学": 9.3,
+      "初中": 16.0,
+      "高中": 11.1,
+      "大专": 6.6,
+      "本科": 48.0,
+      "硕士": 7.3,
+      "博士": 1.7
+    },
+    "has_children_pct": 67.0,
+    "no_children_pct": 33.0
+  },
+  "scraped_at": "2026-07-31T18:26:54.186Z",
+  "nearby_restaurants": [
+    {
+      "brand": "老北京糖葫芦(万丰路亿潼隆购物店)",
+      "address": "卢沟桥乡七里庄万丰路305号亿潼隆万丰购物中心一层西门入口内左侧",
+      "distance": "10m"
+    },
+    {
+      "brand": "肯德基(亿潼隆万丰购物中心店)",
+      "address": "万丰路305号亿潼隆万丰购物中心1层",
+      "distance": "13m"
+    },
+    {
+      "brand": "呷哺呷哺(亿潼隆万丰购物中心店)",
+      "address": "万丰路305号亿潼隆万丰购物中心1F层",
+      "distance": "15m"
+    },
+    {
+      "brand": "蜜雪冰城(亿潼隆店)",
+      "address": "万丰路305号地上一层E-73A",
+      "distance": "16m"
+    },
+    {
+      "brand": "瑞幸咖啡(亿潼隆万丰店)",
+      "address": "六里桥街道万丰路305号亿潼隆万丰购物中心地上一层E-75A",
+      "distance": "16m"
+    },
+    {
+      "brand": "燕郊烧鸽子(亿潼隆万丰购物中心店)",
+      "address": "万丰路305号亿潼隆万丰购物中心1F层",
+      "distance": "19m"
+    },
+    {
+      "brand": "鱼你在一起(万丰路店)",
+      "address": "万丰路305号亿潼隆万丰购物中心首层",
+      "distance": "20m"
+    },
+    {
+      "brand": "亿潼隆美食汇(亿潼隆万丰购物中心店)",
+      "address": "万丰路305号亿潼隆万丰购物中心1F层",
+      "distance": "21m"
+    },
+    {
+      "brand": "达美乐比萨(万丰店)",
+      "address": "北京城区万丰路305号亿客隆万丰购物中心一层边厅31号",
+      "distance": "29m"
+    },
+    {
+      "brand": "秘制烤羊腿肉",
+      "address": "万丰路305号亿潼隆万丰购物中心1F层",
+      "distance": "33m"
+    },
+    {
+      "brand": "老北京糖葫芦(万丰路亿潼隆购物店)",
+      "address": "卢沟桥乡七里庄万丰路305号亿潼隆万丰购物中心一层西门入口内左侧",
+      "distance": "10m"
+    },
+    {
+      "brand": "肯德基(亿潼隆万丰购物中心店)",
+      "address": "万丰路305号亿潼隆万丰购物中心1层",
+      "distance": "13m"
+    },
+    {
+      "brand": "呷哺呷哺(亿潼隆万丰购物中心店)",
+      "address": "万丰路305号亿潼隆万丰购物中心1F层",
+      "distance": "15m"
+    },
+    {
+      "brand": "蜜雪冰城(亿潼隆店)",
+      "address": "万丰路305号地上一层E-73A",
+      "distance": "16m"
+    },
+    {
+      "brand": "瑞幸咖啡(亿潼隆万丰店)",
+      "address": "六里桥街道万丰路305号亿潼隆万丰购物中心地上一层E-75A",
+      "distance": "16m"
+    },
+    {
+      "brand": "燕郊烧鸽子(亿潼隆万丰购物中心店)",
+      "address": "万丰路305号亿潼隆万丰购物中心1F层",
+      "distance": "19m"
+    },
+    {
+      "brand": "鱼你在一起(万丰路店)",
+      "address": "万丰路305号亿潼隆万丰购物中心首层",
+      "distance": "20m"
+    },
+    {
+      "brand": "亿潼隆美食汇(亿潼隆万丰购物中心店)",
+      "address": "万丰路305号亿潼隆万丰购物中心1F层",
+      "distance": "21m"
+    },
+    {
+      "brand": "达美乐比萨(万丰店)",
+      "address": "北京城区万丰路305号亿客隆万丰购物中心一层边厅31号",
+      "distance": "29m"
+    },
+    {
+      "brand": "秘制烤羊腿肉",
+      "address": "万丰路305号亿潼隆万丰购物中心1F层",
+      "distance": "33m"
+    },
+    {
+      "brand": "老北京糖葫芦(万丰路亿潼隆购物店)",
+      "address": "卢沟桥乡七里庄万丰路305号亿潼隆万丰购物中心一层西门入口内左侧",
+      "distance": "10m"
+    },
+    {
+      "brand": "肯德基(亿潼隆万丰购物中心店)",
+      "address": "万丰路305号亿潼隆万丰购物中心1层",
+      "distance": "13m"
+    },
+    {
+      "brand": "呷哺呷哺(亿潼隆万丰购物中心店)",
+      "address": "万丰路305号亿潼隆万丰购物中心1F层",
+      "distance": "15m"
+    },
+    {
+      "brand": "蜜雪冰城(亿潼隆店)",
+      "address": "万丰路305号地上一层E-73A",
+      "distance": "16m"
+    },
+    {
+      "brand": "瑞幸咖啡(亿潼隆万丰店)",
+      "address": "六里桥街道万丰路305号亿潼隆万丰购物中心地上一层E-75A",
+      "distance": "16m"
+    },
+    {
+      "brand": "燕郊烧鸽子(亿潼隆万丰购物中心店)",
+      "address": "万丰路305号亿潼隆万丰购物中心1F层",
+      "distance": "19m"
+    },
+    {
+      "brand": "鱼你在一起(万丰路店)",
+      "address": "万丰路305号亿潼隆万丰购物中心首层",
+      "distance": "20m"
+    },
+    {
+      "brand": "亿潼隆美食汇(亿潼隆万丰购物中心店)",
+      "address": "万丰路305号亿潼隆万丰购物中心1F层",
+      "distance": "21m"
+    },
+    {
+      "brand": "达美乐比萨(万丰店)",
+      "address": "北京城区万丰路305号亿客隆万丰购物中心一层边厅31号",
+      "distance": "29m"
+    },
+    {
+      "brand": "秘制烤羊腿肉",
+      "address": "万丰路305号亿潼隆万丰购物中心1F层",
+      "distance": "33m"
+    },
+    {
+      "brand": "老北京糖葫芦(万丰路亿潼隆购物店)",
+      "address": "卢沟桥乡七里庄万丰路305号亿潼隆万丰购物中心一层西门入口内左侧",
+      "distance": "10m"
+    },
+    {
+      "brand": "肯德基(亿潼隆万丰购物中心店)",
+      "address": "万丰路305号亿潼隆万丰购物中心1层",
+      "distance": "13m"
+    },
+    {
+      "brand": "呷哺呷哺(亿潼隆万丰购物中心店)",
+      "address": "万丰路305号亿潼隆万丰购物中心1F层",
+      "distance": "15m"
+    },
+    {
+      "brand": "蜜雪冰城(亿潼隆店)",
+      "address": "万丰路305号地上一层E-73A",
+      "distance": "16m"
+    },
+    {
+      "brand": "瑞幸咖啡(亿潼隆万丰店)",
+      "address": "六里桥街道万丰路305号亿潼隆万丰购物中心地上一层E-75A",
+      "distance": "16m"
+    },
+    {
+      "brand": "燕郊烧鸽子(亿潼隆万丰购物中心店)",
+      "address": "万丰路305号亿潼隆万丰购物中心1F层",
+      "distance": "19m"
+    },
+    {
+      "brand": "鱼你在一起(万丰路店)",
+      "address": "万丰路305号亿潼隆万丰购物中心首层",
+      "distance": "20m"
+    },
+    {
+      "brand": "亿潼隆美食汇(亿潼隆万丰购物中心店)",
+      "address": "万丰路305号亿潼隆万丰购物中心1F层",
+      "distance": "21m"
+    },
+    {
+      "brand": "达美乐比萨(万丰店)",
+      "address": "北京城区万丰路305号亿客隆万丰购物中心一层边厅31号",
+      "distance": "29m"
+    },
+    {
+      "brand": "秘制烤羊腿肉",
+      "address": "万丰路305号亿潼隆万丰购物中心1F层",
+      "distance": "33m"
+    },
+    {
+      "brand": "老北京糖葫芦(万丰路亿潼隆购物店)",
+      "address": "卢沟桥乡七里庄万丰路305号亿潼隆万丰购物中心一层西门入口内左侧",
+      "distance": "10m"
+    },
+    {
+      "brand": "肯德基(亿潼隆万丰购物中心店)",
+      "address": "万丰路305号亿潼隆万丰购物中心1层",
+      "distance": "13m"
+    },
+    {
+      "brand": "呷哺呷哺(亿潼隆万丰购物中心店)",
+      "address": "万丰路305号亿潼隆万丰购物中心1F层",
+      "distance": "15m"
+    },
+    {
+      "brand": "蜜雪冰城(亿潼隆店)",
+      "address": "万丰路305号地上一层E-73A",
+      "distance": "16m"
+    },
+    {
+      "brand": "瑞幸咖啡(亿潼隆万丰店)",
+      "address": "六里桥街道万丰路305号亿潼隆万丰购物中心地上一层E-75A",
+      "distance": "16m"
+    },
+    {
+      "brand": "燕郊烧鸽子(亿潼隆万丰购物中心店)",
+      "address": "万丰路305号亿潼隆万丰购物中心1F层",
+      "distance": "19m"
+    },
+    {
+      "brand": "鱼你在一起(万丰路店)",
+      "address": "万丰路305号亿潼隆万丰购物中心首层",
+      "distance": "20m"
+    },
+    {
+      "brand": "亿潼隆美食汇(亿潼隆万丰购物中心店)",
+      "address": "万丰路305号亿潼隆万丰购物中心1F层",
+      "distance": "21m"
+    },
+    {
+      "brand": "达美乐比萨(万丰店)",
+      "address": "北京城区万丰路305号亿客隆万丰购物中心一层边厅31号",
+      "distance": "29m"
+    },
+    {
+      "brand": "秘制烤羊腿肉",
+      "address": "万丰路305号亿潼隆万丰购物中心1F层",
+      "distance": "33m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "北京丽泽天地商业中心",
+      "open_date": "2022-09-30",
+      "area": "8.2万㎡",
+      "jun_daily_avg": "2.9万人次",
+      "weekday_avg": "2.5万人次",
+      "holiday_avg": "3.8万人次"
+    },
+    {
+      "name": "北京银座和谐广场",
+      "open_date": "2016-09-10",
+      "area": "8.5万㎡",
+      "jun_daily_avg": "5.1万人次",
+      "weekday_avg": "4.5万人次",
+      "holiday_avg": "6.7万人次"
+    },
+    {
+      "name": "北京金唐新光界",
+      "open_date": "2021-10-01",
+      "area": "10万㎡",
+      "jun_daily_avg": "3万人次",
+      "weekday_avg": "2.9万人次",
+      "holiday_avg": "3.1万人次"
+    },
+    {
+      "name": "北京丽泽16号购物中心",
+      "open_date": "2024-06-29",
+      "area": "5.5万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "北京月恒正大新生活广场",
+      "open_date": "2018-07-01",
+      "area": "3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 18.0,
+      "within_1yr_pct": 22.2,
+      "1_3yr_pct": 27.8,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "购物",
+      "count": 47.0,
+      "within_1yr_pct": 8.5,
+      "1_3yr_pct": 17.0,
+      "over_3yr_pct": 74.5
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 3.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 66.7
+    },
+    {
+      "type": "教育培训",
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 1.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "生活服务",
+      "count": 14.0,
+      "within_1yr_pct": 21.4,
+      "1_3yr_pct": 35.7,
+      "over_3yr_pct": 42.9
+    },
+    {
+      "type": "运动健身",
+      "count": 6.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 16.7,
+      "over_3yr_pct": 33.3
+    },
+    {
+      "type": "车辆服务",
+      "count": 3.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    }
+  ]
+}

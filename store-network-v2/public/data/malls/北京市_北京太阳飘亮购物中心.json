@@ -1,0 +1,454 @@
+{
+  "name": "北京太阳飘亮购物中心",
+  "city": "北京市",
+  "address": "北京市朝阳区安立路68号",
+  "lat": 39.997926,
+  "lng": 116.409078,
+  "overview": {
+    "score": 92.5,
+    "score_rank": "市内前30%",
+    "population_score": 95.7,
+    "area_score": 83.8,
+    "consumption_score": 78.4,
+    "industry_score": 92.5,
+    "annual_sales": "500",
+    "annual_sales_unit": "万元",
+    "area_size_sqm": 4.0,
+    "open_date": "2018-09-22",
+    "operator": "北京盈泰控股有限公司",
+    "brand": "",
+    "type": "综合型",
+    "floors": "B1-L2"
+  },
+  "traffic": {
+    "annual_daily": 1.64,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第154",
+    "jun_total": 71.9,
+    "jun_total_rank": "市内商场第136名",
+    "jun_daily_avg": 2.4,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第136名",
+    "weekday_avg": 2.3,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第135名",
+    "holiday_avg": 2.6,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第143名"
+  },
+  "population": {
+    "residential": {
+      "500m": 3.1,
+      "1_5km": 19.8,
+      "3km": 54.6
+    },
+    "office": {
+      "500m": 2.5,
+      "1_5km": 12.7,
+      "3km": 37.6
+    },
+    "permanent": {
+      "500m": 3.1,
+      "1_5km": 20.0,
+      "3km": 55.9
+    }
+  },
+  "business": {
+    "competitors": 2.0,
+    "food": 221.0,
+    "shopping": 110.0,
+    "leisure": 14.0,
+    "education": 73.0,
+    "hotel": 17.0,
+    "services": 136.0,
+    "fitness": 18.0,
+    "auto": 7.0,
+    "total_stores": 199.0,
+    "old_store_3yr_pct": 39.0
+  },
+  "nearby_poi": {
+    "business": 6.0,
+    "community": 283.0,
+    "office": 71.0,
+    "school": 34.0,
+    "hospital": 58.0,
+    "transport": 9.0,
+    "scenic": 312.0
+  },
+  "demographics": {
+    "male_pct": 52.5,
+    "female_pct": null,
+    "education": {
+      "小学": 8.0,
+      "初中": 14.0,
+      "高中": 12.6,
+      "大专": 5.3,
+      "本科": 47.3,
+      "硕士": 10.0,
+      "博士": 2.8
+    },
+    "has_children_pct": 57.9,
+    "no_children_pct": 42.1
+  },
+  "scraped_at": "2026-07-31T18:44:01.811Z",
+  "nearby_restaurants": [
+    {
+      "brand": "北京烤鱼匠麻辣烤鱼",
+      "address": "安立路68号太阳飘亮购物中心B1层",
+      "distance": "13m"
+    },
+    {
+      "brand": "大宋蟹略·江南蟹黄面",
+      "address": "安立路68号太阳飘亮购物中心B1层",
+      "distance": "14m"
+    },
+    {
+      "brand": "友家冒菜·麻辣拌(亚运村美食城第21档口)",
+      "address": "安立路68号太阳飘亮购物中心B1层",
+      "distance": "14m"
+    },
+    {
+      "brand": "粤茗客茶点",
+      "address": "安立路68号太阳飘亮购物中心B1层",
+      "distance": "14m"
+    },
+    {
+      "brand": "蜜雪冰城(太阳飘亮购物中心店)",
+      "address": "安立路68号太阳飘亮购物中心B1层",
+      "distance": "17m"
+    },
+    {
+      "brand": "老妈蹄花(北京亚运村店)",
+      "address": "安立路68号太阳飘亮购物中心B1层",
+      "distance": "19m"
+    },
+    {
+      "brand": "鱼你在一起(太阳飘亮购物中心店)",
+      "address": "安立路68号太阳飘亮购物中心F2层",
+      "distance": "21m"
+    },
+    {
+      "brand": "奈喜乐·分子果汁(太阳飘亮购物中心店)",
+      "address": "大屯街道安立路68号太阳飘亮购物中心-1层A-8区内B1-086",
+      "distance": "24m"
+    },
+    {
+      "brand": "老北京爆肚粉烧饼夹肉(天下膳食美食城第28档口店)",
+      "address": "安立路辅路与慧忠北路交叉口东南160米",
+      "distance": "26m"
+    },
+    {
+      "brand": "净香居稍麦(太阳飘亮购物中心店)",
+      "address": "安立路68号飘亮广场二楼美食区",
+      "distance": "27m"
+    },
+    {
+      "brand": "北京烤鱼匠麻辣烤鱼",
+      "address": "安立路68号太阳飘亮购物中心B1层",
+      "distance": "13m"
+    },
+    {
+      "brand": "大宋蟹略·江南蟹黄面",
+      "address": "安立路68号太阳飘亮购物中心B1层",
+      "distance": "14m"
+    },
+    {
+      "brand": "友家冒菜·麻辣拌(亚运村美食城第21档口)",
+      "address": "安立路68号太阳飘亮购物中心B1层",
+      "distance": "14m"
+    },
+    {
+      "brand": "粤茗客茶点",
+      "address": "安立路68号太阳飘亮购物中心B1层",
+      "distance": "14m"
+    },
+    {
+      "brand": "蜜雪冰城(太阳飘亮购物中心店)",
+      "address": "安立路68号太阳飘亮购物中心B1层",
+      "distance": "17m"
+    },
+    {
+      "brand": "老妈蹄花(北京亚运村店)",
+      "address": "安立路68号太阳飘亮购物中心B1层",
+      "distance": "19m"
+    },
+    {
+      "brand": "鱼你在一起(太阳飘亮购物中心店)",
+      "address": "安立路68号太阳飘亮购物中心F2层",
+      "distance": "21m"
+    },
+    {
+      "brand": "奈喜乐·分子果汁(太阳飘亮购物中心店)",
+      "address": "大屯街道安立路68号太阳飘亮购物中心-1层A-8区内B1-086",
+      "distance": "24m"
+    },
+    {
+      "brand": "老北京爆肚粉烧饼夹肉(天下膳食美食城第28档口店)",
+      "address": "安立路辅路与慧忠北路交叉口东南160米",
+      "distance": "26m"
+    },
+    {
+      "brand": "净香居稍麦(太阳飘亮购物中心店)",
+      "address": "安立路68号飘亮广场二楼美食区",
+      "distance": "27m"
+    },
+    {
+      "brand": "北京烤鱼匠麻辣烤鱼",
+      "address": "安立路68号太阳飘亮购物中心B1层",
+      "distance": "13m"
+    },
+    {
+      "brand": "大宋蟹略·江南蟹黄面",
+      "address": "安立路68号太阳飘亮购物中心B1层",
+      "distance": "14m"
+    },
+    {
+      "brand": "友家冒菜·麻辣拌(亚运村美食城第21档口)",
+      "address": "安立路68号太阳飘亮购物中心B1层",
+      "distance": "14m"
+    },
+    {
+      "brand": "粤茗客茶点",
+      "address": "安立路68号太阳飘亮购物中心B1层",
+      "distance": "14m"
+    },
+    {
+      "brand": "蜜雪冰城(太阳飘亮购物中心店)",
+      "address": "安立路68号太阳飘亮购物中心B1层",
+      "distance": "17m"
+    },
+    {
+      "brand": "老妈蹄花(北京亚运村店)",
+      "address": "安立路68号太阳飘亮购物中心B1层",
+      "distance": "19m"
+    },
+    {
+      "brand": "鱼你在一起(太阳飘亮购物中心店)",
+      "address": "安立路68号太阳飘亮购物中心F2层",
+      "distance": "21m"
+    },
+    {
+      "brand": "奈喜乐·分子果汁(太阳飘亮购物中心店)",
+      "address": "大屯街道安立路68号太阳飘亮购物中心-1层A-8区内B1-086",
+      "distance": "24m"
+    },
+    {
+      "brand": "老北京爆肚粉烧饼夹肉(天下膳食美食城第28档口店)",
+      "address": "安立路辅路与慧忠北路交叉口东南160米",
+      "distance": "26m"
+    },
+    {
+      "brand": "净香居稍麦(太阳飘亮购物中心店)",
+      "address": "安立路68号飘亮广场二楼美食区",
+      "distance": "27m"
+    },
+    {
+      "brand": "北京烤鱼匠麻辣烤鱼",
+      "address": "安立路68号太阳飘亮购物中心B1层",
+      "distance": "13m"
+    },
+    {
+      "brand": "大宋蟹略·江南蟹黄面",
+      "address": "安立路68号太阳飘亮购物中心B1层",
+      "distance": "14m"
+    },
+    {
+      "brand": "友家冒菜·麻辣拌(亚运村美食城第21档口)",
+      "address": "安立路68号太阳飘亮购物中心B1层",
+      "distance": "14m"
+    },
+    {
+      "brand": "粤茗客茶点",
+      "address": "安立路68号太阳飘亮购物中心B1层",
+      "distance": "14m"
+    },
+    {
+      "brand": "蜜雪冰城(太阳飘亮购物中心店)",
+      "address": "安立路68号太阳飘亮购物中心B1层",
+      "distance": "17m"
+    },
+    {
+      "brand": "老妈蹄花(北京亚运村店)",
+      "address": "安立路68号太阳飘亮购物中心B1层",
+      "distance": "19m"
+    },
+    {
+      "brand": "鱼你在一起(太阳飘亮购物中心店)",
+      "address": "安立路68号太阳飘亮购物中心F2层",
+      "distance": "21m"
+    },
+    {
+      "brand": "奈喜乐·分子果汁(太阳飘亮购物中心店)",
+      "address": "大屯街道安立路68号太阳飘亮购物中心-1层A-8区内B1-086",
+      "distance": "24m"
+    },
+    {
+      "brand": "老北京爆肚粉烧饼夹肉(天下膳食美食城第28档口店)",
+      "address": "安立路辅路与慧忠北路交叉口东南160米",
+      "distance": "26m"
+    },
+    {
+      "brand": "净香居稍麦(太阳飘亮购物中心店)",
+      "address": "安立路68号飘亮广场二楼美食区",
+      "distance": "27m"
+    },
+    {
+      "brand": "北京烤鱼匠麻辣烤鱼",
+      "address": "安立路68号太阳飘亮购物中心B1层",
+      "distance": "13m"
+    },
+    {
+      "brand": "大宋蟹略·江南蟹黄面",
+      "address": "安立路68号太阳飘亮购物中心B1层",
+      "distance": "14m"
+    },
+    {
+      "brand": "友家冒菜·麻辣拌(亚运村美食城第21档口)",
+      "address": "安立路68号太阳飘亮购物中心B1层",
+      "distance": "14m"
+    },
+    {
+      "brand": "粤茗客茶点",
+      "address": "安立路68号太阳飘亮购物中心B1层",
+      "distance": "14m"
+    },
+    {
+      "brand": "蜜雪冰城(太阳飘亮购物中心店)",
+      "address": "安立路68号太阳飘亮购物中心B1层",
+      "distance": "17m"
+    },
+    {
+      "brand": "老妈蹄花(北京亚运村店)",
+      "address": "安立路68号太阳飘亮购物中心B1层",
+      "distance": "19m"
+    },
+    {
+      "brand": "鱼你在一起(太阳飘亮购物中心店)",
+      "address": "安立路68号太阳飘亮购物中心F2层",
+      "distance": "21m"
+    },
+    {
+      "brand": "奈喜乐·分子果汁(太阳飘亮购物中心店)",
+      "address": "大屯街道安立路68号太阳飘亮购物中心-1层A-8区内B1-086",
+      "distance": "24m"
+    },
+    {
+      "brand": "老北京爆肚粉烧饼夹肉(天下膳食美食城第28档口店)",
+      "address": "安立路辅路与慧忠北路交叉口东南160米",
+      "distance": "26m"
+    },
+    {
+      "brand": "净香居稍麦(太阳飘亮购物中心店)",
+      "address": "安立路68号飘亮广场二楼美食区",
+      "distance": "27m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "北京亚运村图书大厦",
+      "open_date": "2016-06-07",
+      "area": "3000㎡",
+      "jun_daily_avg": "2.8万人次",
+      "weekday_avg": "2.8万人次",
+      "holiday_avg": "2.9万人次"
+    },
+    {
+      "name": "北京新辰里购物中心",
+      "open_date": "2019-08-01",
+      "area": "1.8万㎡",
+      "jun_daily_avg": "3.3万人次",
+      "weekday_avg": "3.2万人次",
+      "holiday_avg": "3.7万人次"
+    },
+    {
+      "name": "北京DT51",
+      "open_date": "2023-01-06",
+      "area": "8万㎡",
+      "jun_daily_avg": "1.6万人次",
+      "weekday_avg": "1.4万人次",
+      "holiday_avg": "2.2万人次"
+    },
+    {
+      "name": "北京金泉广场购物中心",
+      "open_date": "2022-05-01",
+      "area": "5万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "北京新奥购物中心",
+      "open_date": "2010-09-28",
+      "area": "24.5万㎡",
+      "jun_daily_avg": "5.2万人次",
+      "weekday_avg": "4.2万人次",
+      "holiday_avg": "7.7万人次"
+    },
+    {
+      "name": "北京华堂商场(亚运村店)",
+      "open_date": "2001-12-12",
+      "area": "2.1万㎡",
+      "jun_daily_avg": "1.7万人次",
+      "weekday_avg": "1.6万人次",
+      "holiday_avg": "2.1万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 80.0,
+      "within_1yr_pct": 43.8,
+      "1_3yr_pct": 32.5,
+      "over_3yr_pct": 23.8
+    },
+    {
+      "type": "购物",
+      "count": 45.0,
+      "within_1yr_pct": 11.1,
+      "1_3yr_pct": 44.4,
+      "over_3yr_pct": 44.4
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 7.0,
+      "within_1yr_pct": 57.1,
+      "1_3yr_pct": 14.3,
+      "over_3yr_pct": 28.6
+    },
+    {
+      "type": "教育培训",
+      "count": 15.0,
+      "within_1yr_pct": 13.3,
+      "1_3yr_pct": 20.0,
+      "over_3yr_pct": 66.7
+    },
+    {
+      "type": "酒店住宿",
+      "count": 1.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "生活服务",
+      "count": 44.0,
+      "within_1yr_pct": 15.9,
+      "1_3yr_pct": 31.8,
+      "over_3yr_pct": 52.3
+    },
+    {
+      "type": "运动健身",
+      "count": 6.0,
+      "within_1yr_pct": 16.7,
+      "1_3yr_pct": 16.7,
+      "over_3yr_pct": 66.7
+    },
+    {
+      "type": "车辆服务",
+      "count": 1.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
+    }
+  ]
+}

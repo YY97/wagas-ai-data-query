@@ -1,0 +1,436 @@
+{
+  "name": "上海瑞虹天地月亮湾",
+  "city": "上海市",
+  "address": "上海市虹口区瑞虹路188号",
+  "lat": 31.264339,
+  "lng": 121.498696,
+  "overview": {
+    "score": 94.4,
+    "score_rank": "市内前30%",
+    "population_score": 99.6,
+    "area_score": 88.4,
+    "consumption_score": 87.5,
+    "industry_score": 94.4,
+    "annual_sales": "瑞虹天地月亮湾定位为“生活·音乐·家”，树立“音乐娱乐”标签，引进一系列音乐主题特色商户，并着力打造精彩不断的音乐艺术活动，旨在为消费者带来全方位升级的购物、餐饮、社交等多元化消费体验",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 6.4,
+    "open_date": "2017-06-13",
+    "operator": "瑞安新天地有限公司",
+    "brand": "",
+    "type": "美食型",
+    "floors": "B2-L5"
+  },
+  "traffic": {
+    "annual_daily": 2.67,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第99",
+    "jun_total": 135.6,
+    "jun_total_rank": "市内商场第79名",
+    "jun_daily_avg": 4.5,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第79名",
+    "weekday_avg": 4.0,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第82名",
+    "holiday_avg": 5.9,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第69名"
+  },
+  "population": {
+    "residential": {
+      "500m": 3.8,
+      "1_5km": 31.9,
+      "3km": 102.2
+    },
+    "office": {
+      "500m": 2.4,
+      "1_5km": 17.9,
+      "3km": 79.2
+    },
+    "permanent": {
+      "500m": 4.3,
+      "1_5km": 32.7,
+      "3km": 109.2
+    }
+  },
+  "business": {
+    "competitors": 12.0,
+    "food": 341.0,
+    "shopping": 279.0,
+    "leisure": 35.0,
+    "education": 30.0,
+    "hotel": 10.0,
+    "services": 204.0,
+    "fitness": 43.0,
+    "auto": 21.0,
+    "total_stores": 137.0,
+    "old_store_3yr_pct": 32.0
+  },
+  "nearby_poi": {
+    "business": 11.0,
+    "community": 849.0,
+    "office": 112.0,
+    "school": 70.0,
+    "hospital": 110.0,
+    "transport": 12.0,
+    "scenic": 463.0
+  },
+  "demographics": {
+    "male_pct": 49.9,
+    "female_pct": null,
+    "education": {
+      "小学": 9.2,
+      "初中": 18.4,
+      "高中": 12.4,
+      "大专": 7.0,
+      "本科": 46.6,
+      "硕士": 4.7,
+      "博士": 1.7
+    },
+    "has_children_pct": 65.7,
+    "no_children_pct": 34.3
+  },
+  "scraped_at": "2026-07-31T17:02:54.535Z",
+  "nearby_restaurants": [
+    {
+      "brand": "潘小烧·云南烧烤(月亮湾店)",
+      "address": "瑞虹路188号瑞虹天地月亮湾3层317d室",
+      "distance": "3m"
+    },
+    {
+      "brand": "PAWSBUFF毛爪魔力超宠餐厅(瑞虹天地月亮湾店)",
+      "address": "瑞虹路188号瑞虹天地月亮湾2层207号",
+      "distance": "4m"
+    },
+    {
+      "brand": "鸿运粤式点心(瑞虹新天地月亮湾店)",
+      "address": "嘉兴路街道瑞虹路188号一层B2室",
+      "distance": "4m"
+    },
+    {
+      "brand": "米酒熟醉",
+      "address": "瑞虹路188号瑞虹新天地月亮湾",
+      "distance": "4m"
+    },
+    {
+      "brand": "沪食光老羌饼(城市集市月亮湾店)",
+      "address": "天宝路与天虹路交叉口东北120米",
+      "distance": "7m"
+    },
+    {
+      "brand": "江边城外烤全鱼(月亮湾店)",
+      "address": "瑞虹路188号L3-306A号铺位(西贝隔壁)",
+      "distance": "7m"
+    },
+    {
+      "brand": "寿司郎(瑞虹天地店)",
+      "address": "瑞虹路188号瑞虹新天地月亮湾LG层",
+      "distance": "10m"
+    },
+    {
+      "brand": "孔岳冒菜(月亮湾店)",
+      "address": "瑞虹路188号地下一层03室孔岳冒菜",
+      "distance": "11m"
+    },
+    {
+      "brand": "第八日(瑞虹新天地月亮湾店)",
+      "address": "天宝路与天虹路交叉口东北120米",
+      "distance": "11m"
+    },
+    {
+      "brand": "欢喜花生(瑞虹月亮湾欢囍店)",
+      "address": "瑞虹路188号地下一层35室r6欢囍花生",
+      "distance": "13m"
+    },
+    {
+      "brand": "潘小烧·云南烧烤(月亮湾店)",
+      "address": "瑞虹路188号瑞虹天地月亮湾3层317d室",
+      "distance": "3m"
+    },
+    {
+      "brand": "PAWSBUFF毛爪魔力超宠餐厅(瑞虹天地月亮湾店)",
+      "address": "瑞虹路188号瑞虹天地月亮湾2层207号",
+      "distance": "4m"
+    },
+    {
+      "brand": "鸿运粤式点心(瑞虹新天地月亮湾店)",
+      "address": "嘉兴路街道瑞虹路188号一层B2室",
+      "distance": "4m"
+    },
+    {
+      "brand": "米酒熟醉",
+      "address": "瑞虹路188号瑞虹新天地月亮湾",
+      "distance": "4m"
+    },
+    {
+      "brand": "沪食光老羌饼(城市集市月亮湾店)",
+      "address": "天宝路与天虹路交叉口东北120米",
+      "distance": "7m"
+    },
+    {
+      "brand": "江边城外烤全鱼(月亮湾店)",
+      "address": "瑞虹路188号L3-306A号铺位(西贝隔壁)",
+      "distance": "7m"
+    },
+    {
+      "brand": "寿司郎(瑞虹天地店)",
+      "address": "瑞虹路188号瑞虹新天地月亮湾LG层",
+      "distance": "10m"
+    },
+    {
+      "brand": "孔岳冒菜(月亮湾店)",
+      "address": "瑞虹路188号地下一层03室孔岳冒菜",
+      "distance": "11m"
+    },
+    {
+      "brand": "第八日(瑞虹新天地月亮湾店)",
+      "address": "天宝路与天虹路交叉口东北120米",
+      "distance": "11m"
+    },
+    {
+      "brand": "欢喜花生(瑞虹月亮湾欢囍店)",
+      "address": "瑞虹路188号地下一层35室r6欢囍花生",
+      "distance": "13m"
+    },
+    {
+      "brand": "潘小烧·云南烧烤(月亮湾店)",
+      "address": "瑞虹路188号瑞虹天地月亮湾3层317d室",
+      "distance": "3m"
+    },
+    {
+      "brand": "PAWSBUFF毛爪魔力超宠餐厅(瑞虹天地月亮湾店)",
+      "address": "瑞虹路188号瑞虹天地月亮湾2层207号",
+      "distance": "4m"
+    },
+    {
+      "brand": "鸿运粤式点心(瑞虹新天地月亮湾店)",
+      "address": "嘉兴路街道瑞虹路188号一层B2室",
+      "distance": "4m"
+    },
+    {
+      "brand": "米酒熟醉",
+      "address": "瑞虹路188号瑞虹新天地月亮湾",
+      "distance": "4m"
+    },
+    {
+      "brand": "沪食光老羌饼(城市集市月亮湾店)",
+      "address": "天宝路与天虹路交叉口东北120米",
+      "distance": "7m"
+    },
+    {
+      "brand": "江边城外烤全鱼(月亮湾店)",
+      "address": "瑞虹路188号L3-306A号铺位(西贝隔壁)",
+      "distance": "7m"
+    },
+    {
+      "brand": "寿司郎(瑞虹天地店)",
+      "address": "瑞虹路188号瑞虹新天地月亮湾LG层",
+      "distance": "10m"
+    },
+    {
+      "brand": "孔岳冒菜(月亮湾店)",
+      "address": "瑞虹路188号地下一层03室孔岳冒菜",
+      "distance": "11m"
+    },
+    {
+      "brand": "第八日(瑞虹新天地月亮湾店)",
+      "address": "天宝路与天虹路交叉口东北120米",
+      "distance": "11m"
+    },
+    {
+      "brand": "欢喜花生(瑞虹月亮湾欢囍店)",
+      "address": "瑞虹路188号地下一层35室r6欢囍花生",
+      "distance": "13m"
+    },
+    {
+      "brand": "潘小烧·云南烧烤(月亮湾店)",
+      "address": "瑞虹路188号瑞虹天地月亮湾3层317d室",
+      "distance": "3m"
+    },
+    {
+      "brand": "PAWSBUFF毛爪魔力超宠餐厅(瑞虹天地月亮湾店)",
+      "address": "瑞虹路188号瑞虹天地月亮湾2层207号",
+      "distance": "4m"
+    },
+    {
+      "brand": "鸿运粤式点心(瑞虹新天地月亮湾店)",
+      "address": "嘉兴路街道瑞虹路188号一层B2室",
+      "distance": "4m"
+    },
+    {
+      "brand": "米酒熟醉",
+      "address": "瑞虹路188号瑞虹新天地月亮湾",
+      "distance": "4m"
+    },
+    {
+      "brand": "沪食光老羌饼(城市集市月亮湾店)",
+      "address": "天宝路与天虹路交叉口东北120米",
+      "distance": "7m"
+    },
+    {
+      "brand": "江边城外烤全鱼(月亮湾店)",
+      "address": "瑞虹路188号L3-306A号铺位(西贝隔壁)",
+      "distance": "7m"
+    },
+    {
+      "brand": "寿司郎(瑞虹天地店)",
+      "address": "瑞虹路188号瑞虹新天地月亮湾LG层",
+      "distance": "10m"
+    },
+    {
+      "brand": "孔岳冒菜(月亮湾店)",
+      "address": "瑞虹路188号地下一层03室孔岳冒菜",
+      "distance": "11m"
+    },
+    {
+      "brand": "第八日(瑞虹新天地月亮湾店)",
+      "address": "天宝路与天虹路交叉口东北120米",
+      "distance": "11m"
+    },
+    {
+      "brand": "欢喜花生(瑞虹月亮湾欢囍店)",
+      "address": "瑞虹路188号地下一层35室r6欢囍花生",
+      "distance": "13m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海瑞虹天地星星堂",
+      "open_date": "2015-05-14",
+      "area": "2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海瑞虹新天地太阳宫",
+      "open_date": "2021-09-19",
+      "area": "18万㎡",
+      "jun_daily_avg": "7.4万人次",
+      "weekday_avg": "6.8万人次",
+      "holiday_avg": "9.1万人次"
+    },
+    {
+      "name": "上海瑞虹坊",
+      "open_date": "2020-10-03",
+      "area": "3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海上滨生活广场",
+      "open_date": "2019-06-18",
+      "area": "4.5万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海宝地广场",
+      "open_date": "2012-01-01",
+      "area": "3.5万㎡",
+      "jun_daily_avg": "1.7万人次",
+      "weekday_avg": "1.8万人次",
+      "holiday_avg": "1.5万人次"
+    },
+    {
+      "name": "上海昇汇广场",
+      "open_date": "2018-12-01",
+      "area": "3200㎡",
+      "jun_daily_avg": "3.6万人次",
+      "weekday_avg": "3.4万人次",
+      "holiday_avg": "4.1万人次"
+    },
+    {
+      "name": "上海虹口宝华商业广场",
+      "open_date": "2023-05-20",
+      "area": "2.2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海控江旭辉MALL",
+      "open_date": "2016-08-27",
+      "area": "3万㎡",
+      "jun_daily_avg": "3.6万人次",
+      "weekday_avg": "3.4万人次",
+      "holiday_avg": "4.1万人次"
+    },
+    {
+      "name": "上海时装商厦",
+      "open_date": "-",
+      "area": "-",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海多伦生活广场(四川北路商业街店)",
+      "open_date": "-",
+      "area": "-",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 67.0,
+      "within_1yr_pct": 28.4,
+      "1_3yr_pct": 41.8,
+      "over_3yr_pct": 29.9
+    },
+    {
+      "type": "购物",
+      "count": 21.0,
+      "within_1yr_pct": 14.3,
+      "1_3yr_pct": 52.4,
+      "over_3yr_pct": 33.3
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 13.0,
+      "within_1yr_pct": 7.7,
+      "1_3yr_pct": 69.2,
+      "over_3yr_pct": 23.1
+    },
+    {
+      "type": "教育培训",
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "生活服务",
+      "count": 21.0,
+      "within_1yr_pct": 23.8,
+      "1_3yr_pct": 28.6,
+      "over_3yr_pct": 47.6
+    },
+    {
+      "type": "运动健身",
+      "count": 8.0,
+      "within_1yr_pct": 12.5,
+      "1_3yr_pct": 75.0,
+      "over_3yr_pct": 12.5
+    },
+    {
+      "type": "车辆服务",
+      "count": 3.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 33.3
+    }
+  ]
+}

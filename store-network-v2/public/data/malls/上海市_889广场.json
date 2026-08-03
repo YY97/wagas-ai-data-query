@@ -2,32 +2,39 @@
   "name": "889广场",
   "city": "上海市",
   "address": "上海市静安区万航渡路889号",
-  "lat": 31.225,
-  "lng": 121.433,
+  "lat": 31.229326,
+  "lng": 121.428517,
   "overview": {
-    "score": 90,
+    "score": 90.0,
     "score_rank": "市内前30%",
     "population_score": 99.3,
     "area_score": 81.9,
     "consumption_score": 84.4,
-    "industry_score": 90,
+    "industry_score": 90.0,
     "annual_sales": "上海悦达889广场位于上海市静安区长寿路1111号，是一个集办公、购物、休闲、娱乐于一体的城市综合体，属于曹家渡板块内较高端的写字楼产品总建筑面积约10万余平方米，其中办公面积达4万多平方米，开放式广场约1.6万平方米配备了现代化的办公设施，如架空地板和新风系统，提供了舒适的办公环境悦达889广场以其独特的玻璃幕墙外立面和内部黑白色大理石装饰，展现出强烈的现代气息商场内部设计国际知名设计公司如英国Benoy贝诺建筑设计公司量身打造，提供了新颖、奇特的环境体验悦达889广场以其国际化视野、艺术与商业融合的定位，旨在成为像东京六本木一样的时尚城市生活中心，满足曹家渡商圈日益提高的消费层次和日益丰富的消费需求，带给顾客独特的消费体验和生活方式悦达889广场拥有亚洲首创的“幻影云顶”，独特的个性、轻盈流畅的云顶式设计，将整个上海的风貌浓缩于云顶天空之下，给人以通透感和现代节奏感商场内部还设有1600平方米的休闲中心广场，作为串联办公与购物的核心点，成为一个吸引人流的主要场所以上是上海悦达889广场的基本信息概览如果需要更详细的信息，可以提供具体的查询要求",
-    "annual_sales_unit": null,
+    "annual_sales_unit": "-",
     "area_size_sqm": 4.7,
     "open_date": "2010-05-05",
     "operator": "悦达地产集团有限公司",
-    "brand": null,
+    "brand": "",
     "type": "美食型",
     "floors": "B2-L4"
   },
   "traffic": {
     "annual_daily": 1.3,
     "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第195",
     "jun_total": 18.9,
-    "jun_daily_avg": 6301,
+    "jun_total_rank": "市内商场第392名",
+    "jun_daily_avg": 6301.0,
     "jun_daily_unit": "人次",
-    "weekday_avg": 6247,
-    "holiday_avg": 6444
+    "jun_daily_rank": "市内商场第392名",
+    "weekday_avg": 6247.0,
+    "weekday_unit": "人次",
+    "weekday_rank": "市内商场第384名",
+    "holiday_avg": 6444.0,
+    "holiday_unit": "人次",
+    "holiday_rank": "市内商场第404名"
   },
   "population": {
     "residential": {
@@ -47,29 +54,30 @@
     }
   },
   "business": {
-    "competitors": 6,
-    "food": 200,
-    "shopping": 127,
-    "leisure": 53,
-    "education": 32,
-    "hotel": 43,
-    "services": 196,
-    "fitness": 60,
-    "auto": 20,
-    "total_stores": 93,
-    "old_store_3yr_pct": "48%"
+    "competitors": 6.0,
+    "food": 200.0,
+    "shopping": 127.0,
+    "leisure": 53.0,
+    "education": 32.0,
+    "hotel": 43.0,
+    "services": 196.0,
+    "fitness": 60.0,
+    "auto": 20.0,
+    "total_stores": 93.0,
+    "old_store_3yr_pct": 48.0
   },
   "nearby_poi": {
-    "business": 15,
-    "community": 1142,
-    "office": 138,
-    "school": 84,
-    "hospital": 157,
-    "transport": 18,
-    "scenic": 553
+    "business": 15.0,
+    "community": 1142.0,
+    "office": 138.0,
+    "school": 84.0,
+    "hospital": 157.0,
+    "transport": 18.0,
+    "scenic": 553.0
   },
   "demographics": {
     "male_pct": 48.4,
+    "female_pct": null,
     "education": {
       "小学": 9.0,
       "初中": 17.5,
@@ -79,90 +87,10 @@
       "硕士": 5.0,
       "博士": 1.7
     },
-    "has_children_pct": 58.1
+    "has_children_pct": 58.1,
+    "no_children_pct": 41.9
   },
-  "nearby_malls": [
-    {
-      "name": "上海星方汇",
-      "open_date": "2019-01-01",
-      "area": "5万㎡",
-      "jun_daily_avg": null,
-      "weekday_avg": null,
-      "holiday_avg": null
-    },
-    {
-      "name": "上海绿地·柒彩里",
-      "open_date": "2019-03-01",
-      "area": "3.2万㎡",
-      "jun_daily_avg": null,
-      "weekday_avg": null,
-      "holiday_avg": null
-    },
-    {
-      "name": "上海KiNG88",
-      "open_date": "2017-09-08",
-      "area": "3.9万㎡",
-      "jun_daily_avg": "1万人次",
-      "weekday_avg": "1万人次",
-      "holiday_avg": "1万人次"
-    },
-    {
-      "name": "上海我格广场",
-      "open_date": "2010-06-06",
-      "area": "4.8万㎡",
-      "jun_daily_avg": "1.7万人次",
-      "weekday_avg": "1.6万人次",
-      "holiday_avg": "1.9万人次"
-    },
-    {
-      "name": "上海100AM新百安商场",
-      "open_date": "2019-04-21",
-      "area": "3.5万㎡",
-      "jun_daily_avg": null,
-      "weekday_avg": null,
-      "holiday_avg": null
-    },
-    {
-      "name": "上海米域·这里MIXPACE·HERE",
-      "open_date": "2018-01-01",
-      "area": "1万㎡",
-      "jun_daily_avg": null,
-      "weekday_avg": null,
-      "holiday_avg": null
-    },
-    {
-      "name": "上海汇融天地",
-      "open_date": "2013-01-01",
-      "area": "1.7万㎡",
-      "jun_daily_avg": null,
-      "weekday_avg": null,
-      "holiday_avg": null
-    },
-    {
-      "name": "上海亚新生活广场",
-      "open_date": "1996-12-08",
-      "area": "4.5万㎡",
-      "jun_daily_avg": null,
-      "weekday_avg": null,
-      "holiday_avg": null
-    },
-    {
-      "name": "上海华美达广场",
-      "open_date": "2024-01-01",
-      "area": "2万㎡",
-      "jun_daily_avg": null,
-      "weekday_avg": null,
-      "holiday_avg": null
-    },
-    {
-      "name": "上海华宁弘基生活中心",
-      "open_date": "2012-12-01",
-      "area": "2万㎡",
-      "jun_daily_avg": null,
-      "weekday_avg": null,
-      "holiday_avg": null
-    }
-  ],
+  "scraped_at": "2026-07-31T12:43:11.802Z",
   "nearby_restaurants": [
     {
       "brand": "1973继光香香鸡(889广场店)",
@@ -263,58 +191,289 @@
       "brand": "双喜大叔烤肉干式熟成",
       "address": "万航渡路889号四层L4-07室",
       "distance": "15m"
+    },
+    {
+      "brand": "1973继光香香鸡(889广场店)",
+      "address": "万航渡路889号悦达889广场B1层",
+      "distance": "9m"
+    },
+    {
+      "brand": "果之满满鲜榨果汁(889广场店)",
+      "address": "万航渡路889号悦达889广场B1层",
+      "distance": "9m"
+    },
+    {
+      "brand": "糖小满冰糖葫芦(889广场店)",
+      "address": "万航渡路889号悦达889广场B1层",
+      "distance": "10m"
+    },
+    {
+      "brand": "PHO MI粉迷越南粉(889广场店)",
+      "address": "万航渡路与长寿路交叉口东80米",
+      "distance": "11m"
+    },
+    {
+      "brand": "老碗会(上海静安889广场店)",
+      "address": "长寿路889号889广场B1层",
+      "distance": "12m"
+    },
+    {
+      "brand": "夸父炸串(889广场店)",
+      "address": "万航渡路889号889广场B楼",
+      "distance": "12m"
+    },
+    {
+      "brand": "facepork脸猪咖喱·比脸大的猪排(静安889广场店)",
+      "address": "曹家渡街道万航渡路889号悦达889广场地下一层B1-K5B、C室",
+      "distance": "14m"
+    },
+    {
+      "brand": "马记永·兰州牛肉面(889广场店)",
+      "address": "万航渡路889号广场B1-05",
+      "distance": "14m"
+    },
+    {
+      "brand": "虎咆屋台牛肉饭堂",
+      "address": "万航渡路889号B1",
+      "distance": "15m"
+    },
+    {
+      "brand": "双喜大叔烤肉干式熟成",
+      "address": "万航渡路889号四层L4-07室",
+      "distance": "15m"
+    },
+    {
+      "brand": "1973继光香香鸡(889广场店)",
+      "address": "万航渡路889号悦达889广场B1层",
+      "distance": "9m"
+    },
+    {
+      "brand": "果之满满鲜榨果汁(889广场店)",
+      "address": "万航渡路889号悦达889广场B1层",
+      "distance": "9m"
+    },
+    {
+      "brand": "糖小满冰糖葫芦(889广场店)",
+      "address": "万航渡路889号悦达889广场B1层",
+      "distance": "10m"
+    },
+    {
+      "brand": "PHO MI粉迷越南粉(889广场店)",
+      "address": "万航渡路与长寿路交叉口东80米",
+      "distance": "11m"
+    },
+    {
+      "brand": "老碗会(上海静安889广场店)",
+      "address": "长寿路889号889广场B1层",
+      "distance": "12m"
+    },
+    {
+      "brand": "夸父炸串(889广场店)",
+      "address": "万航渡路889号889广场B楼",
+      "distance": "12m"
+    },
+    {
+      "brand": "facepork脸猪咖喱·比脸大的猪排(静安889广场店)",
+      "address": "曹家渡街道万航渡路889号悦达889广场地下一层B1-K5B、C室",
+      "distance": "14m"
+    },
+    {
+      "brand": "马记永·兰州牛肉面(889广场店)",
+      "address": "万航渡路889号广场B1-05",
+      "distance": "14m"
+    },
+    {
+      "brand": "虎咆屋台牛肉饭堂",
+      "address": "万航渡路889号B1",
+      "distance": "15m"
+    },
+    {
+      "brand": "双喜大叔烤肉干式熟成",
+      "address": "万航渡路889号四层L4-07室",
+      "distance": "15m"
+    },
+    {
+      "brand": "1973继光香香鸡(889广场店)",
+      "address": "万航渡路889号悦达889广场B1层",
+      "distance": "9m"
+    },
+    {
+      "brand": "果之满满鲜榨果汁(889广场店)",
+      "address": "万航渡路889号悦达889广场B1层",
+      "distance": "9m"
+    },
+    {
+      "brand": "糖小满冰糖葫芦(889广场店)",
+      "address": "万航渡路889号悦达889广场B1层",
+      "distance": "10m"
+    },
+    {
+      "brand": "PHO MI粉迷越南粉(889广场店)",
+      "address": "万航渡路与长寿路交叉口东80米",
+      "distance": "11m"
+    },
+    {
+      "brand": "老碗会(上海静安889广场店)",
+      "address": "长寿路889号889广场B1层",
+      "distance": "12m"
+    },
+    {
+      "brand": "夸父炸串(889广场店)",
+      "address": "万航渡路889号889广场B楼",
+      "distance": "12m"
+    },
+    {
+      "brand": "facepork脸猪咖喱·比脸大的猪排(静安889广场店)",
+      "address": "曹家渡街道万航渡路889号悦达889广场地下一层B1-K5B、C室",
+      "distance": "14m"
+    },
+    {
+      "brand": "马记永·兰州牛肉面(889广场店)",
+      "address": "万航渡路889号广场B1-05",
+      "distance": "14m"
+    },
+    {
+      "brand": "虎咆屋台牛肉饭堂",
+      "address": "万航渡路889号B1",
+      "distance": "15m"
+    },
+    {
+      "brand": "双喜大叔烤肉干式熟成",
+      "address": "万航渡路889号四层L4-07室",
+      "distance": "15m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海星方汇",
+      "open_date": "2019-01-01",
+      "area": "5万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海绿地·柒彩里",
+      "open_date": "2019-03-01",
+      "area": "3.2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海KiNG88",
+      "open_date": "2017-09-08",
+      "area": "3.9万㎡",
+      "jun_daily_avg": "1万人次",
+      "weekday_avg": "1万人次",
+      "holiday_avg": "1万人次"
+    },
+    {
+      "name": "上海我格广场",
+      "open_date": "2010-06-06",
+      "area": "4.8万㎡",
+      "jun_daily_avg": "1.7万人次",
+      "weekday_avg": "1.6万人次",
+      "holiday_avg": "1.9万人次"
+    },
+    {
+      "name": "上海100AM新百安商场",
+      "open_date": "2019-04-21",
+      "area": "3.5万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海米域·这里MIXPACE·HERE",
+      "open_date": "2018-01-01",
+      "area": "1万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海汇融天地",
+      "open_date": "2013-01-01",
+      "area": "1.7万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海亚新生活广场",
+      "open_date": "1996-12-08",
+      "area": "4.5万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海华美达广场",
+      "open_date": "2024-01-01",
+      "area": "2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海华宁弘基生活中心",
+      "open_date": "2012-12-01",
+      "area": "2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
     }
   ],
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 39,
+      "count": 39.0,
       "within_1yr_pct": 15.4,
       "1_3yr_pct": 20.5,
       "over_3yr_pct": 64.1
     },
     {
       "type": "购物",
-      "count": 23,
+      "count": 23.0,
       "within_1yr_pct": 21.7,
       "1_3yr_pct": 47.8,
       "over_3yr_pct": 30.4
     },
     {
       "type": "休闲娱乐",
-      "count": 4,
+      "count": 4.0,
       "within_1yr_pct": 25.0,
       "1_3yr_pct": 75.0,
       "over_3yr_pct": 0.0
     },
     {
       "type": "教育培训",
-      "count": 10,
+      "count": 10.0,
       "within_1yr_pct": 40.0,
       "1_3yr_pct": 40.0,
       "over_3yr_pct": 20.0
     },
     {
       "type": "生活服务",
-      "count": 12,
+      "count": 12.0,
       "within_1yr_pct": 8.3,
       "1_3yr_pct": 25.0,
       "over_3yr_pct": 66.7
     },
     {
       "type": "运动健身",
-      "count": 2,
+      "count": 2.0,
       "within_1yr_pct": 50.0,
       "1_3yr_pct": 50.0,
       "over_3yr_pct": 0.0
     },
     {
       "type": "车辆服务",
-      "count": 3,
+      "count": 3.0,
       "within_1yr_pct": 0.0,
       "1_3yr_pct": 0.0,
       "over_3yr_pct": 100.0
     }
-  ],
-  "scraped_at": "2026-07-31T12:43:11.802Z"
+  ]
 }

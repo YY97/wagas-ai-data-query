@@ -1,0 +1,455 @@
+{
+  "name": "上海莲花国际广场",
+  "city": "上海市",
+  "address": "上海市闵行区沪闵路7866号",
+  "lat": 31.133603,
+  "lng": 121.402616,
+  "overview": {
+    "score": 89.3,
+    "score_rank": "市内前30%",
+    "population_score": 80.1,
+    "area_score": 83.0,
+    "consumption_score": 78.5,
+    "industry_score": 89.3,
+    "annual_sales": "莲花国际广场位于南方商圈核心地段，上海西南城际主轴，与百联南方购物中心一路之隔，南临沪闵路和沪闵高架，西临古方路，轨道交通连接莘庄、徐汇和闵行大部分区域，出行十分便捷。项目建筑总面积近10万平方米、商业部分莲花广场近5万平方米；双中庭设计，三幢办公塔楼和底部商业裙房呈“品”字布局，加上以玻璃、金属幕墙和石材相结合的现代时尚外立面，凸显其活力与品位的契合。商场以年轻、时尚的风格定位，目标打造青春亮丽的消费主场。",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 5.0,
+    "open_date": "2011-01-01",
+    "operator": "上海碧盛房地产开发经营有限公司",
+    "brand": "",
+    "type": "亲子型",
+    "floors": "L1-L4"
+  },
+  "traffic": {
+    "annual_daily": 1.09,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第235",
+    "jun_total": 33.2,
+    "jun_total_rank": "市内商场第286名",
+    "jun_daily_avg": 1.1,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第286名",
+    "weekday_avg": 9639.0,
+    "weekday_unit": "人次",
+    "weekday_rank": "市内商场第308名",
+    "holiday_avg": 1.5,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第252名"
+  },
+  "population": {
+    "residential": {
+      "500m": 1.6,
+      "1_5km": 19.7,
+      "3km": 78.0
+    },
+    "office": {
+      "500m": 1.6,
+      "1_5km": 9.2,
+      "3km": 30.6
+    },
+    "permanent": {
+      "500m": 2.3,
+      "1_5km": 20.9,
+      "3km": 76.2
+    }
+  },
+  "business": {
+    "competitors": 7.0,
+    "food": 291.0,
+    "shopping": 217.0,
+    "leisure": 35.0,
+    "education": 89.0,
+    "hotel": 13.0,
+    "services": 171.0,
+    "fitness": 34.0,
+    "auto": 21.0,
+    "total_stores": 166.0,
+    "old_store_3yr_pct": 61.0
+  },
+  "nearby_poi": {
+    "business": 7.0,
+    "community": 385.0,
+    "office": 20.0,
+    "school": 33.0,
+    "hospital": 39.0,
+    "transport": 14.0,
+    "scenic": 77.0
+  },
+  "demographics": {
+    "male_pct": 47.6,
+    "female_pct": null,
+    "education": {
+      "小学": 8.7,
+      "初中": 15.8,
+      "高中": 11.1,
+      "大专": 6.8,
+      "本科": 49.7,
+      "硕士": 6.2,
+      "博士": 1.7
+    },
+    "has_children_pct": 61.7,
+    "no_children_pct": 38.3
+  },
+  "scraped_at": "2026-07-31T17:26:39.655Z",
+  "nearby_restaurants": [
+    {
+      "brand": "成都你六姐·牛肉冒菜(上海莲花国际店)",
+      "address": "沪闵路莲花国际广场B1层007商户",
+      "distance": "3m"
+    },
+    {
+      "brand": "牛力烧肉丼寿喜烧",
+      "address": "沪闵路与莲花路交叉口西160米",
+      "distance": "6m"
+    },
+    {
+      "brand": "超牛·烧肉丼饭牛肉饭(莲花国际店)",
+      "address": "莲花国际广场(莲花路地铁站1号口步行280米)",
+      "distance": "9m"
+    },
+    {
+      "brand": "超级泰泰式麻辣烫(莲花国际广场店)",
+      "address": "沪闵路与莲花路交叉口西140米",
+      "distance": "16m"
+    },
+    {
+      "brand": "Team Chen泡芙(莲花国际广场店)",
+      "address": "梅陇镇沪闵路7866号莲花国际广场1层",
+      "distance": "16m"
+    },
+    {
+      "brand": "贝儿多爸爸泡芙工房(莲花国际广场店)",
+      "address": "沪闵路7866号莲花国际广场F1层",
+      "distance": "18m"
+    },
+    {
+      "brand": "谷田稻香·砂锅菜(上海闵行莲花国际店)",
+      "address": "古方路56号莲花国际广场地下一层B08商铺谷田稻香",
+      "distance": "18m"
+    },
+    {
+      "brand": "达美乐比萨(古方路店)",
+      "address": "古方路56号地下1层37室",
+      "distance": "18m"
+    },
+    {
+      "brand": "顺风海鲜港",
+      "address": "梅陇镇沪闵路7866号莲花国际广场4层401室",
+      "distance": "19m"
+    },
+    {
+      "brand": "幸福满满(莲花国际广场店)",
+      "address": "沪闵路7866号莲花国际广场B1层",
+      "distance": "20m"
+    },
+    {
+      "brand": "成都你六姐·牛肉冒菜(上海莲花国际店)",
+      "address": "沪闵路莲花国际广场B1层007商户",
+      "distance": "3m"
+    },
+    {
+      "brand": "牛力烧肉丼寿喜烧",
+      "address": "沪闵路与莲花路交叉口西160米",
+      "distance": "6m"
+    },
+    {
+      "brand": "超牛·烧肉丼饭牛肉饭(莲花国际店)",
+      "address": "莲花国际广场(莲花路地铁站1号口步行280米)",
+      "distance": "9m"
+    },
+    {
+      "brand": "超级泰泰式麻辣烫(莲花国际广场店)",
+      "address": "沪闵路与莲花路交叉口西140米",
+      "distance": "16m"
+    },
+    {
+      "brand": "Team Chen泡芙(莲花国际广场店)",
+      "address": "梅陇镇沪闵路7866号莲花国际广场1层",
+      "distance": "16m"
+    },
+    {
+      "brand": "贝儿多爸爸泡芙工房(莲花国际广场店)",
+      "address": "沪闵路7866号莲花国际广场F1层",
+      "distance": "18m"
+    },
+    {
+      "brand": "谷田稻香·砂锅菜(上海闵行莲花国际店)",
+      "address": "古方路56号莲花国际广场地下一层B08商铺谷田稻香",
+      "distance": "18m"
+    },
+    {
+      "brand": "达美乐比萨(古方路店)",
+      "address": "古方路56号地下1层37室",
+      "distance": "18m"
+    },
+    {
+      "brand": "顺风海鲜港",
+      "address": "梅陇镇沪闵路7866号莲花国际广场4层401室",
+      "distance": "19m"
+    },
+    {
+      "brand": "幸福满满(莲花国际广场店)",
+      "address": "沪闵路7866号莲花国际广场B1层",
+      "distance": "20m"
+    },
+    {
+      "brand": "成都你六姐·牛肉冒菜(上海莲花国际店)",
+      "address": "沪闵路莲花国际广场B1层007商户",
+      "distance": "3m"
+    },
+    {
+      "brand": "牛力烧肉丼寿喜烧",
+      "address": "沪闵路与莲花路交叉口西160米",
+      "distance": "6m"
+    },
+    {
+      "brand": "超牛·烧肉丼饭牛肉饭(莲花国际店)",
+      "address": "莲花国际广场(莲花路地铁站1号口步行280米)",
+      "distance": "9m"
+    },
+    {
+      "brand": "超级泰泰式麻辣烫(莲花国际广场店)",
+      "address": "沪闵路与莲花路交叉口西140米",
+      "distance": "16m"
+    },
+    {
+      "brand": "Team Chen泡芙(莲花国际广场店)",
+      "address": "梅陇镇沪闵路7866号莲花国际广场1层",
+      "distance": "16m"
+    },
+    {
+      "brand": "贝儿多爸爸泡芙工房(莲花国际广场店)",
+      "address": "沪闵路7866号莲花国际广场F1层",
+      "distance": "18m"
+    },
+    {
+      "brand": "谷田稻香·砂锅菜(上海闵行莲花国际店)",
+      "address": "古方路56号莲花国际广场地下一层B08商铺谷田稻香",
+      "distance": "18m"
+    },
+    {
+      "brand": "达美乐比萨(古方路店)",
+      "address": "古方路56号地下1层37室",
+      "distance": "18m"
+    },
+    {
+      "brand": "顺风海鲜港",
+      "address": "梅陇镇沪闵路7866号莲花国际广场4层401室",
+      "distance": "19m"
+    },
+    {
+      "brand": "幸福满满(莲花国际广场店)",
+      "address": "沪闵路7866号莲花国际广场B1层",
+      "distance": "20m"
+    },
+    {
+      "brand": "成都你六姐·牛肉冒菜(上海莲花国际店)",
+      "address": "沪闵路莲花国际广场B1层007商户",
+      "distance": "3m"
+    },
+    {
+      "brand": "牛力烧肉丼寿喜烧",
+      "address": "沪闵路与莲花路交叉口西160米",
+      "distance": "6m"
+    },
+    {
+      "brand": "超牛·烧肉丼饭牛肉饭(莲花国际店)",
+      "address": "莲花国际广场(莲花路地铁站1号口步行280米)",
+      "distance": "9m"
+    },
+    {
+      "brand": "超级泰泰式麻辣烫(莲花国际广场店)",
+      "address": "沪闵路与莲花路交叉口西140米",
+      "distance": "16m"
+    },
+    {
+      "brand": "Team Chen泡芙(莲花国际广场店)",
+      "address": "梅陇镇沪闵路7866号莲花国际广场1层",
+      "distance": "16m"
+    },
+    {
+      "brand": "贝儿多爸爸泡芙工房(莲花国际广场店)",
+      "address": "沪闵路7866号莲花国际广场F1层",
+      "distance": "18m"
+    },
+    {
+      "brand": "谷田稻香·砂锅菜(上海闵行莲花国际店)",
+      "address": "古方路56号莲花国际广场地下一层B08商铺谷田稻香",
+      "distance": "18m"
+    },
+    {
+      "brand": "达美乐比萨(古方路店)",
+      "address": "古方路56号地下1层37室",
+      "distance": "18m"
+    },
+    {
+      "brand": "顺风海鲜港",
+      "address": "梅陇镇沪闵路7866号莲花国际广场4层401室",
+      "distance": "19m"
+    },
+    {
+      "brand": "幸福满满(莲花国际广场店)",
+      "address": "沪闵路7866号莲花国际广场B1层",
+      "distance": "20m"
+    },
+    {
+      "brand": "成都你六姐·牛肉冒菜(上海莲花国际店)",
+      "address": "沪闵路莲花国际广场B1层007商户",
+      "distance": "3m"
+    },
+    {
+      "brand": "牛力烧肉丼寿喜烧",
+      "address": "沪闵路与莲花路交叉口西160米",
+      "distance": "6m"
+    },
+    {
+      "brand": "超牛·烧肉丼饭牛肉饭(莲花国际店)",
+      "address": "莲花国际广场(莲花路地铁站1号口步行280米)",
+      "distance": "9m"
+    },
+    {
+      "brand": "超级泰泰式麻辣烫(莲花国际广场店)",
+      "address": "沪闵路与莲花路交叉口西140米",
+      "distance": "16m"
+    },
+    {
+      "brand": "Team Chen泡芙(莲花国际广场店)",
+      "address": "梅陇镇沪闵路7866号莲花国际广场1层",
+      "distance": "16m"
+    },
+    {
+      "brand": "贝儿多爸爸泡芙工房(莲花国际广场店)",
+      "address": "沪闵路7866号莲花国际广场F1层",
+      "distance": "18m"
+    },
+    {
+      "brand": "谷田稻香·砂锅菜(上海闵行莲花国际店)",
+      "address": "古方路56号莲花国际广场地下一层B08商铺谷田稻香",
+      "distance": "18m"
+    },
+    {
+      "brand": "达美乐比萨(古方路店)",
+      "address": "古方路56号地下1层37室",
+      "distance": "18m"
+    },
+    {
+      "brand": "顺风海鲜港",
+      "address": "梅陇镇沪闵路7866号莲花国际广场4层401室",
+      "distance": "19m"
+    },
+    {
+      "brand": "幸福满满(莲花国际广场店)",
+      "address": "沪闵路7866号莲花国际广场B1层",
+      "distance": "20m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海百联南方购物中心一区",
+      "open_date": "1999-09-01",
+      "area": "10万㎡",
+      "jun_daily_avg": "9.7万人次",
+      "weekday_avg": "8.8万人次",
+      "holiday_avg": "12万人次"
+    },
+    {
+      "name": "LaLa station上海莲花路",
+      "open_date": "2021-12-22",
+      "area": "3.1万㎡",
+      "jun_daily_avg": "1.7万人次",
+      "weekday_avg": "1.6万人次",
+      "holiday_avg": "1.9万人次"
+    },
+    {
+      "name": "上海百联南方购物中心二区",
+      "open_date": "1999-01-01",
+      "area": "6万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海中庚漫游城",
+      "open_date": "2018-10-26",
+      "area": "15万㎡",
+      "jun_daily_avg": "7.8万人次",
+      "weekday_avg": "6.8万人次",
+      "holiday_avg": "10.5万人次"
+    },
+    {
+      "name": "上海力波·九坊",
+      "open_date": "2023-08-15",
+      "area": "3.9万㎡",
+      "jun_daily_avg": "1.7万人次",
+      "weekday_avg": "1.6万人次",
+      "holiday_avg": "1.9万人次"
+    },
+    {
+      "name": "上海万源坊",
+      "open_date": "2005-06-10",
+      "area": "3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海城开优享+",
+      "open_date": "2021-07-09",
+      "area": "8000㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 29.0,
+      "within_1yr_pct": 10.3,
+      "1_3yr_pct": 17.2,
+      "over_3yr_pct": 72.4
+    },
+    {
+      "type": "购物",
+      "count": 28.0,
+      "within_1yr_pct": 14.3,
+      "1_3yr_pct": 7.1,
+      "over_3yr_pct": 78.6
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 10.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 10.0,
+      "over_3yr_pct": 40.0
+    },
+    {
+      "type": "教育培训",
+      "count": 46.0,
+      "within_1yr_pct": 15.2,
+      "1_3yr_pct": 34.8,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "生活服务",
+      "count": 43.0,
+      "within_1yr_pct": 9.3,
+      "1_3yr_pct": 27.9,
+      "over_3yr_pct": 62.8
+    },
+    {
+      "type": "运动健身",
+      "count": 9.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 22.2,
+      "over_3yr_pct": 44.4
+    },
+    {
+      "type": "车辆服务",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    }
+  ]
+}

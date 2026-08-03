@@ -1,0 +1,416 @@
+{
+  "name": "首钢融石广场",
+  "city": "北京市",
+  "address": "北京市石景山区古城街道北辛安路21号",
+  "lat": 39.920732,
+  "lng": 116.162389,
+  "overview": {
+    "score": null,
+    "score_rank": "",
+    "population_score": 69.9,
+    "area_score": 66.4,
+    "consumption_score": 79.6,
+    "industry_score": 65.1,
+    "annual_sales": "",
+    "annual_sales_unit": "",
+    "area_size_sqm": 2.8,
+    "open_date": "2025-10-01",
+    "operator": "首程融石（北京）基金管理有限公司",
+    "brand": "",
+    "type": "",
+    "floors": ""
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "-",
+    "annual_daily_rank": "",
+    "jun_total": null,
+    "jun_total_rank": "",
+    "jun_daily_avg": null,
+    "jun_daily_unit": "",
+    "jun_daily_rank": "",
+    "weekday_avg": null,
+    "weekday_unit": "",
+    "weekday_rank": "",
+    "holiday_avg": null,
+    "holiday_unit": "",
+    "holiday_rank": ""
+  },
+  "population": {
+    "residential": {
+      "500m": 6900.0,
+      "1_5km": 9.4,
+      "3km": 34.0
+    },
+    "office": {
+      "500m": 9200.0,
+      "1_5km": 5.5,
+      "3km": 16.8
+    },
+    "permanent": {
+      "500m": 8700.0,
+      "1_5km": 9.8,
+      "3km": 33.5
+    }
+  },
+  "business": {
+    "competitors": 2.0,
+    "food": 61.0,
+    "shopping": 23.0,
+    "leisure": 7.0,
+    "education": 4.0,
+    "hotel": 2.0,
+    "services": 21.0,
+    "fitness": 4.0,
+    "auto": 9.0,
+    "total_stores": 28.0,
+    "old_store_3yr_pct": 0.0
+  },
+  "nearby_poi": {
+    "business": 3.0,
+    "community": 177.0,
+    "office": 23.0,
+    "school": 10.0,
+    "hospital": 35.0,
+    "transport": 6.0,
+    "scenic": 179.0
+  },
+  "demographics": {
+    "male_pct": 47.5,
+    "female_pct": null,
+    "education": {
+      "小学": 9.1,
+      "初中": 15.4,
+      "高中": 10.0,
+      "大专": 7.4,
+      "本科": 49.8,
+      "硕士": 6.7,
+      "博士": 1.6
+    },
+    "has_children_pct": 58.9,
+    "no_children_pct": 41.1
+  },
+  "scraped_at": "2026-08-02T00:12:36.240Z",
+  "nearby_restaurants": [
+    {
+      "brand": "泡面星球(首钢园店)",
+      "address": "首钢园二高炉南路8号院融石广场6号楼L1",
+      "distance": "25m"
+    },
+    {
+      "brand": "DQ(融石广场店)",
+      "address": "二高炉南路8号院1号楼融石广场1层103室",
+      "distance": "62m"
+    },
+    {
+      "brand": "MOREFUNCOFFEE城市书房",
+      "address": "北京城区2楼魔方图书城(金安桥地铁站J口步行320米)",
+      "distance": "65m"
+    },
+    {
+      "brand": "中古厨房·褶皱饺子",
+      "address": "首钢园融石广场R生活中心3F",
+      "distance": "71m"
+    },
+    {
+      "brand": "午馬咖啡 UMA Café",
+      "address": "二高炉南路融石广场R生活中心一层",
+      "distance": "73m"
+    },
+    {
+      "brand": "Goodone cafe咖啡(首钢店)",
+      "address": "融石广场(金安桥地铁站J口步行350米)",
+      "distance": "83m"
+    },
+    {
+      "brand": "阿辉·Napoli披萨餐厅",
+      "address": "融石广场2号楼",
+      "distance": "84m"
+    },
+    {
+      "brand": "太给农庄火塘牛肉(首钢店)",
+      "address": "融石广场(金安桥地铁站J口步行280米)",
+      "distance": "84m"
+    },
+    {
+      "brand": "北京同仁堂·知嘛健康(首钢园店)",
+      "address": "北京城区二高炉南路8号院(金安桥地铁站J口步行380米)",
+      "distance": "85m"
+    },
+    {
+      "brand": "德南面包房(首钢园融石广场店)",
+      "address": "北京城区融石广场1号楼107-108号",
+      "distance": "86m"
+    },
+    {
+      "brand": "泡面星球(首钢园店)",
+      "address": "首钢园二高炉南路8号院融石广场6号楼L1",
+      "distance": "25m"
+    },
+    {
+      "brand": "DQ(融石广场店)",
+      "address": "二高炉南路8号院1号楼融石广场1层103室",
+      "distance": "62m"
+    },
+    {
+      "brand": "MOREFUNCOFFEE城市书房",
+      "address": "北京城区2楼魔方图书城(金安桥地铁站J口步行320米)",
+      "distance": "65m"
+    },
+    {
+      "brand": "中古厨房·褶皱饺子",
+      "address": "首钢园融石广场R生活中心3F",
+      "distance": "71m"
+    },
+    {
+      "brand": "午馬咖啡 UMA Café",
+      "address": "二高炉南路融石广场R生活中心一层",
+      "distance": "73m"
+    },
+    {
+      "brand": "Goodone cafe咖啡(首钢店)",
+      "address": "融石广场(金安桥地铁站J口步行350米)",
+      "distance": "83m"
+    },
+    {
+      "brand": "阿辉·Napoli披萨餐厅",
+      "address": "融石广场2号楼",
+      "distance": "84m"
+    },
+    {
+      "brand": "太给农庄火塘牛肉(首钢店)",
+      "address": "融石广场(金安桥地铁站J口步行280米)",
+      "distance": "84m"
+    },
+    {
+      "brand": "北京同仁堂·知嘛健康(首钢园店)",
+      "address": "北京城区二高炉南路8号院(金安桥地铁站J口步行380米)",
+      "distance": "85m"
+    },
+    {
+      "brand": "德南面包房(首钢园融石广场店)",
+      "address": "北京城区融石广场1号楼107-108号",
+      "distance": "86m"
+    },
+    {
+      "brand": "泡面星球(首钢园店)",
+      "address": "首钢园二高炉南路8号院融石广场6号楼L1",
+      "distance": "25m"
+    },
+    {
+      "brand": "DQ(融石广场店)",
+      "address": "二高炉南路8号院1号楼融石广场1层103室",
+      "distance": "62m"
+    },
+    {
+      "brand": "MOREFUNCOFFEE城市书房",
+      "address": "北京城区2楼魔方图书城(金安桥地铁站J口步行320米)",
+      "distance": "65m"
+    },
+    {
+      "brand": "中古厨房·褶皱饺子",
+      "address": "首钢园融石广场R生活中心3F",
+      "distance": "71m"
+    },
+    {
+      "brand": "午馬咖啡 UMA Café",
+      "address": "二高炉南路融石广场R生活中心一层",
+      "distance": "73m"
+    },
+    {
+      "brand": "Goodone cafe咖啡(首钢店)",
+      "address": "融石广场(金安桥地铁站J口步行350米)",
+      "distance": "83m"
+    },
+    {
+      "brand": "阿辉·Napoli披萨餐厅",
+      "address": "融石广场2号楼",
+      "distance": "84m"
+    },
+    {
+      "brand": "太给农庄火塘牛肉(首钢店)",
+      "address": "融石广场(金安桥地铁站J口步行280米)",
+      "distance": "84m"
+    },
+    {
+      "brand": "北京同仁堂·知嘛健康(首钢园店)",
+      "address": "北京城区二高炉南路8号院(金安桥地铁站J口步行380米)",
+      "distance": "85m"
+    },
+    {
+      "brand": "德南面包房(首钢园融石广场店)",
+      "address": "北京城区融石广场1号楼107-108号",
+      "distance": "86m"
+    },
+    {
+      "brand": "泡面星球(首钢园店)",
+      "address": "首钢园二高炉南路8号院融石广场6号楼L1",
+      "distance": "25m"
+    },
+    {
+      "brand": "DQ(融石广场店)",
+      "address": "二高炉南路8号院1号楼融石广场1层103室",
+      "distance": "62m"
+    },
+    {
+      "brand": "MOREFUNCOFFEE城市书房",
+      "address": "北京城区2楼魔方图书城(金安桥地铁站J口步行320米)",
+      "distance": "65m"
+    },
+    {
+      "brand": "中古厨房·褶皱饺子",
+      "address": "首钢园融石广场R生活中心3F",
+      "distance": "71m"
+    },
+    {
+      "brand": "午馬咖啡 UMA Café",
+      "address": "二高炉南路融石广场R生活中心一层",
+      "distance": "73m"
+    },
+    {
+      "brand": "Goodone cafe咖啡(首钢店)",
+      "address": "融石广场(金安桥地铁站J口步行350米)",
+      "distance": "83m"
+    },
+    {
+      "brand": "阿辉·Napoli披萨餐厅",
+      "address": "融石广场2号楼",
+      "distance": "84m"
+    },
+    {
+      "brand": "太给农庄火塘牛肉(首钢店)",
+      "address": "融石广场(金安桥地铁站J口步行280米)",
+      "distance": "84m"
+    },
+    {
+      "brand": "北京同仁堂·知嘛健康(首钢园店)",
+      "address": "北京城区二高炉南路8号院(金安桥地铁站J口步行380米)",
+      "distance": "85m"
+    },
+    {
+      "brand": "德南面包房(首钢园融石广场店)",
+      "address": "北京城区融石广场1号楼107-108号",
+      "distance": "86m"
+    },
+    {
+      "brand": "泡面星球(首钢园店)",
+      "address": "首钢园二高炉南路8号院融石广场6号楼L1",
+      "distance": "25m"
+    },
+    {
+      "brand": "DQ(融石广场店)",
+      "address": "二高炉南路8号院1号楼融石广场1层103室",
+      "distance": "62m"
+    },
+    {
+      "brand": "MOREFUNCOFFEE城市书房",
+      "address": "北京城区2楼魔方图书城(金安桥地铁站J口步行320米)",
+      "distance": "65m"
+    },
+    {
+      "brand": "中古厨房·褶皱饺子",
+      "address": "首钢园融石广场R生活中心3F",
+      "distance": "71m"
+    },
+    {
+      "brand": "午馬咖啡 UMA Café",
+      "address": "二高炉南路融石广场R生活中心一层",
+      "distance": "73m"
+    },
+    {
+      "brand": "Goodone cafe咖啡(首钢店)",
+      "address": "融石广场(金安桥地铁站J口步行350米)",
+      "distance": "83m"
+    },
+    {
+      "brand": "阿辉·Napoli披萨餐厅",
+      "address": "融石广场2号楼",
+      "distance": "84m"
+    },
+    {
+      "brand": "太给农庄火塘牛肉(首钢店)",
+      "address": "融石广场(金安桥地铁站J口步行280米)",
+      "distance": "84m"
+    },
+    {
+      "brand": "北京同仁堂·知嘛健康(首钢园店)",
+      "address": "北京城区二高炉南路8号院(金安桥地铁站J口步行380米)",
+      "distance": "85m"
+    },
+    {
+      "brand": "德南面包房(首钢园融石广场店)",
+      "address": "北京城区融石广场1号楼107-108号",
+      "distance": "86m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "北京中海金安环宇荟",
+      "open_date": "2022-06-25",
+      "area": "2万㎡",
+      "jun_daily_avg": "2.1万人次",
+      "weekday_avg": "2.3万人次",
+      "holiday_avg": "1.6万人次"
+    },
+    {
+      "name": "北京六工汇",
+      "open_date": "2021-12-18",
+      "area": "6.7万㎡",
+      "jun_daily_avg": "1.8万人次",
+      "weekday_avg": "1.3万人次",
+      "holiday_avg": "3.2万人次"
+    },
+    {
+      "name": "北京喜隆多Xirondo Plaza",
+      "open_date": "2014-11-28",
+      "area": "10万㎡",
+      "jun_daily_avg": "6万人次",
+      "weekday_avg": "5.1万人次",
+      "holiday_avg": "8.3万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 13.0,
+      "within_1yr_pct": 38.5,
+      "1_3yr_pct": 61.5,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "购物",
+      "count": 9.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 66.7,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 3.0,
+      "within_1yr_pct": 66.7,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "生活服务",
+      "count": 1.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "运动健身",
+      "count": 1.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
+    }
+  ]
+}

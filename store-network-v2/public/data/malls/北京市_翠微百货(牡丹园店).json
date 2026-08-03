@@ -1,0 +1,377 @@
+{
+  "name": "翠微百货(牡丹园店)",
+  "city": "北京市",
+  "address": "北京市海淀区北土城西路147号",
+  "lat": 39.977477,
+  "lng": 116.367206,
+  "overview": {
+    "score": 92.3,
+    "score_rank": "市内前30%",
+    "population_score": 88.9,
+    "area_score": 84.8,
+    "consumption_score": 82.9,
+    "industry_score": 92.4,
+    "annual_sales": "1.2",
+    "annual_sales_unit": "亿元",
+    "area_size_sqm": 2.7,
+    "open_date": "2003-12-26",
+    "operator": "北京翠微大厦股份有限公司",
+    "brand": "",
+    "type": "购物型",
+    "floors": "B1-L3"
+  },
+  "traffic": {
+    "annual_daily": 2.26,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第108",
+    "jun_total": 134.0,
+    "jun_total_rank": "市内商场第67名",
+    "jun_daily_avg": 4.5,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第67名",
+    "weekday_avg": 4.4,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第55名",
+    "holiday_avg": 4.7,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第77名"
+  },
+  "population": {
+    "residential": {
+      "500m": 2.1,
+      "1_5km": 22.4,
+      "3km": 90.8
+    },
+    "office": {
+      "500m": 2.0,
+      "1_5km": 16.3,
+      "3km": 58.3
+    },
+    "permanent": {
+      "500m": 2.4,
+      "1_5km": 21.1,
+      "3km": 82.1
+    }
+  },
+  "business": {
+    "competitors": 3.0,
+    "food": 220.0,
+    "shopping": 177.0,
+    "leisure": 16.0,
+    "education": 25.0,
+    "hotel": 32.0,
+    "services": 106.0,
+    "fitness": 15.0,
+    "auto": 6.0,
+    "total_stores": 147.0,
+    "old_store_3yr_pct": 64.0
+  },
+  "nearby_poi": {
+    "business": null,
+    "community": 408.0,
+    "office": 80.0,
+    "school": 46.0,
+    "hospital": 102.0,
+    "transport": 9.0,
+    "scenic": 319.0
+  },
+  "demographics": {
+    "male_pct": 51.9,
+    "female_pct": null,
+    "education": {
+      "小学": 6.8,
+      "初中": 12.5,
+      "高中": 13.8,
+      "大专": 5.5,
+      "本科": 48.7,
+      "硕士": 9.9,
+      "博士": 2.8
+    },
+    "has_children_pct": 55.9,
+    "no_children_pct": 44.1
+  },
+  "scraped_at": "2026-08-01T05:49:58.300Z",
+  "nearby_restaurants": [
+    {
+      "brand": "好利来(宋家庄福茂店)",
+      "address": "宋家庄顺八条8号院三区3号首开福茂购物中心B1丰台区",
+      "distance": "4m"
+    },
+    {
+      "brand": "渝是乎(首开福茂店)",
+      "address": "顺八条8号院3号楼首开福茂3层302",
+      "distance": "7m"
+    },
+    {
+      "brand": "剪花娘子餐厅(首开·福茂店)",
+      "address": "首开·福茂(宋家庄地铁站I西北2口旁)",
+      "distance": "10m"
+    },
+    {
+      "brand": "龙凤记(首开·福茂店)",
+      "address": "首开·福茂(宋家庄地铁站I西北2口旁)",
+      "distance": "11m"
+    },
+    {
+      "brand": "金喜娜(首开·福茂店)",
+      "address": "宋家庄顺八条8号院三区3号楼",
+      "distance": "12m"
+    },
+    {
+      "brand": "久久丫鸭脖(首开福茂商场店)",
+      "address": "石榴庄街道石榴庄大街首开福茂商场负一层幸福荣耀超市出口",
+      "distance": "13m"
+    },
+    {
+      "brand": "润禧喜多多自助小火锅",
+      "address": "石榴庄街道首开福茂购物中心(宋家庄店)3楼2-1号",
+      "distance": "13m"
+    },
+    {
+      "brand": "阿香米线(北京首开福茂餐厅)",
+      "address": "北京城区顺八条8号院3号楼路首开福茂购物中心F2层27和28单元",
+      "distance": "13m"
+    },
+    {
+      "brand": "狄仁杰刀削面山西菜(首开福茂)",
+      "address": "顺八条8号院三区3号楼1-3层102内F3-09-10",
+      "distance": "13m"
+    },
+    {
+      "brand": "姨母家(首开·福茂店)",
+      "address": "石榴庄街道宋庄路67号首开福茂购物中心三层",
+      "distance": "15m"
+    },
+    {
+      "brand": "好利来(宋家庄福茂店)",
+      "address": "宋家庄顺八条8号院三区3号首开福茂购物中心B1丰台区",
+      "distance": "4m"
+    },
+    {
+      "brand": "渝是乎(首开福茂店)",
+      "address": "顺八条8号院3号楼首开福茂3层302",
+      "distance": "7m"
+    },
+    {
+      "brand": "剪花娘子餐厅(首开·福茂店)",
+      "address": "首开·福茂(宋家庄地铁站I西北2口旁)",
+      "distance": "10m"
+    },
+    {
+      "brand": "龙凤记(首开·福茂店)",
+      "address": "首开·福茂(宋家庄地铁站I西北2口旁)",
+      "distance": "11m"
+    },
+    {
+      "brand": "金喜娜(首开·福茂店)",
+      "address": "宋家庄顺八条8号院三区3号楼",
+      "distance": "12m"
+    },
+    {
+      "brand": "久久丫鸭脖(首开福茂商场店)",
+      "address": "石榴庄街道石榴庄大街首开福茂商场负一层幸福荣耀超市出口",
+      "distance": "13m"
+    },
+    {
+      "brand": "润禧喜多多自助小火锅",
+      "address": "石榴庄街道首开福茂购物中心(宋家庄店)3楼2-1号",
+      "distance": "13m"
+    },
+    {
+      "brand": "阿香米线(北京首开福茂餐厅)",
+      "address": "北京城区顺八条8号院3号楼路首开福茂购物中心F2层27和28单元",
+      "distance": "13m"
+    },
+    {
+      "brand": "狄仁杰刀削面山西菜(首开福茂)",
+      "address": "顺八条8号院三区3号楼1-3层102内F3-09-10",
+      "distance": "13m"
+    },
+    {
+      "brand": "姨母家(首开·福茂店)",
+      "address": "石榴庄街道宋庄路67号首开福茂购物中心三层",
+      "distance": "15m"
+    },
+    {
+      "brand": "好利来(宋家庄福茂店)",
+      "address": "宋家庄顺八条8号院三区3号首开福茂购物中心B1丰台区",
+      "distance": "4m"
+    },
+    {
+      "brand": "渝是乎(首开福茂店)",
+      "address": "顺八条8号院3号楼首开福茂3层302",
+      "distance": "7m"
+    },
+    {
+      "brand": "剪花娘子餐厅(首开·福茂店)",
+      "address": "首开·福茂(宋家庄地铁站I西北2口旁)",
+      "distance": "10m"
+    },
+    {
+      "brand": "龙凤记(首开·福茂店)",
+      "address": "首开·福茂(宋家庄地铁站I西北2口旁)",
+      "distance": "11m"
+    },
+    {
+      "brand": "金喜娜(首开·福茂店)",
+      "address": "宋家庄顺八条8号院三区3号楼",
+      "distance": "12m"
+    },
+    {
+      "brand": "久久丫鸭脖(首开福茂商场店)",
+      "address": "石榴庄街道石榴庄大街首开福茂商场负一层幸福荣耀超市出口",
+      "distance": "13m"
+    },
+    {
+      "brand": "润禧喜多多自助小火锅",
+      "address": "石榴庄街道首开福茂购物中心(宋家庄店)3楼2-1号",
+      "distance": "13m"
+    },
+    {
+      "brand": "阿香米线(北京首开福茂餐厅)",
+      "address": "北京城区顺八条8号院3号楼路首开福茂购物中心F2层27和28单元",
+      "distance": "13m"
+    },
+    {
+      "brand": "狄仁杰刀削面山西菜(首开福茂)",
+      "address": "顺八条8号院三区3号楼1-3层102内F3-09-10",
+      "distance": "13m"
+    },
+    {
+      "brand": "姨母家(首开·福茂店)",
+      "address": "石榴庄街道宋庄路67号首开福茂购物中心三层",
+      "distance": "15m"
+    },
+    {
+      "brand": "好利来(宋家庄福茂店)",
+      "address": "宋家庄顺八条8号院三区3号首开福茂购物中心B1丰台区",
+      "distance": "4m"
+    },
+    {
+      "brand": "渝是乎(首开福茂店)",
+      "address": "顺八条8号院3号楼首开福茂3层302",
+      "distance": "7m"
+    },
+    {
+      "brand": "剪花娘子餐厅(首开·福茂店)",
+      "address": "首开·福茂(宋家庄地铁站I西北2口旁)",
+      "distance": "10m"
+    },
+    {
+      "brand": "龙凤记(首开·福茂店)",
+      "address": "首开·福茂(宋家庄地铁站I西北2口旁)",
+      "distance": "11m"
+    },
+    {
+      "brand": "金喜娜(首开·福茂店)",
+      "address": "宋家庄顺八条8号院三区3号楼",
+      "distance": "12m"
+    },
+    {
+      "brand": "久久丫鸭脖(首开福茂商场店)",
+      "address": "石榴庄街道石榴庄大街首开福茂商场负一层幸福荣耀超市出口",
+      "distance": "13m"
+    },
+    {
+      "brand": "润禧喜多多自助小火锅",
+      "address": "石榴庄街道首开福茂购物中心(宋家庄店)3楼2-1号",
+      "distance": "13m"
+    },
+    {
+      "brand": "阿香米线(北京首开福茂餐厅)",
+      "address": "北京城区顺八条8号院3号楼路首开福茂购物中心F2层27和28单元",
+      "distance": "13m"
+    },
+    {
+      "brand": "狄仁杰刀削面山西菜(首开福茂)",
+      "address": "顺八条8号院三区3号楼1-3层102内F3-09-10",
+      "distance": "13m"
+    },
+    {
+      "brand": "姨母家(首开·福茂店)",
+      "address": "石榴庄街道宋庄路67号首开福茂购物中心三层",
+      "distance": "15m"
+    },
+    {
+      "brand": "好利来(宋家庄福茂店)",
+      "address": "宋家庄顺八条8号院三区3号首开福茂购物中心B1丰台区",
+      "distance": "4m"
+    },
+    {
+      "brand": "渝是乎(首开福茂店)",
+      "address": "顺八条8号院3号楼首开福茂3层302",
+      "distance": "7m"
+    },
+    {
+      "brand": "剪花娘子餐厅(首开·福茂店)",
+      "address": "首开·福茂(宋家庄地铁站I西北2口旁)",
+      "distance": "10m"
+    },
+    {
+      "brand": "龙凤记(首开·福茂店)",
+      "address": "首开·福茂(宋家庄地铁站I西北2口旁)",
+      "distance": "11m"
+    },
+    {
+      "brand": "金喜娜(首开·福茂店)",
+      "address": "宋家庄顺八条8号院三区3号楼",
+      "distance": "12m"
+    },
+    {
+      "brand": "久久丫鸭脖(首开福茂商场店)",
+      "address": "石榴庄街道石榴庄大街首开福茂商场负一层幸福荣耀超市出口",
+      "distance": "13m"
+    },
+    {
+      "brand": "润禧喜多多自助小火锅",
+      "address": "石榴庄街道首开福茂购物中心(宋家庄店)3楼2-1号",
+      "distance": "13m"
+    },
+    {
+      "brand": "阿香米线(北京首开福茂餐厅)",
+      "address": "北京城区顺八条8号院3号楼路首开福茂购物中心F2层27和28单元",
+      "distance": "13m"
+    },
+    {
+      "brand": "狄仁杰刀削面山西菜(首开福茂)",
+      "address": "顺八条8号院三区3号楼1-3层102内F3-09-10",
+      "distance": "13m"
+    },
+    {
+      "brand": "姨母家(首开·福茂店)",
+      "address": "石榴庄街道宋庄路67号首开福茂购物中心三层",
+      "distance": "15m"
+    }
+  ],
+  "nearby_malls": [],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 30.0,
+      "within_1yr_pct": 23.3,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 43.3
+    },
+    {
+      "type": "购物",
+      "count": 107.0,
+      "within_1yr_pct": 16.8,
+      "1_3yr_pct": 11.2,
+      "over_3yr_pct": 72.0
+    },
+    {
+      "type": "生活服务",
+      "count": 9.0,
+      "within_1yr_pct": 22.2,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 44.4
+    },
+    {
+      "type": "运动健身",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
+    }
+  ]
+}

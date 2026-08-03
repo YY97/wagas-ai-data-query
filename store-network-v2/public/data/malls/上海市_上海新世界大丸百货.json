@@ -1,0 +1,465 @@
+{
+  "name": "上海新世界大丸百货",
+  "city": "上海市",
+  "address": "上海市黄浦区南京路步行街228号",
+  "lat": 31.238376,
+  "lng": 121.48551,
+  "overview": {
+    "score": 94.3,
+    "score_rank": "市内前30%",
+    "population_score": 87.2,
+    "area_score": 100.0,
+    "consumption_score": 86.3,
+    "industry_score": 94.3,
+    "annual_sales": "1000",
+    "annual_sales_unit": "万元",
+    "area_size_sqm": 7.0,
+    "open_date": "2015-05-15",
+    "operator": "上海新世界（集团）有限公司",
+    "brand": "新世界",
+    "type": "购物型",
+    "floors": "B2-L6"
+  },
+  "traffic": {
+    "annual_daily": 6.17,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第12",
+    "jun_total": 156.2,
+    "jun_total_rank": "市内商场第62名",
+    "jun_daily_avg": 5.2,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第62名",
+    "weekday_avg": 4.6,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第70名",
+    "holiday_avg": 6.9,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第54名"
+  },
+  "population": {
+    "residential": {
+      "500m": 2.1,
+      "1_5km": 13.1,
+      "3km": 78.5
+    },
+    "office": {
+      "500m": 5.7,
+      "1_5km": 31.3,
+      "3km": 106.5
+    },
+    "permanent": {
+      "500m": 4.2,
+      "1_5km": 21.7,
+      "3km": 96.7
+    }
+  },
+  "business": {
+    "competitors": 17.0,
+    "food": 625.0,
+    "shopping": 686.0,
+    "leisure": 46.0,
+    "education": 26.0,
+    "hotel": 205.0,
+    "services": 225.0,
+    "fitness": 24.0,
+    "auto": 24.0,
+    "total_stores": 335.0,
+    "old_store_3yr_pct": 54.0
+  },
+  "nearby_poi": {
+    "business": 30.0,
+    "community": 799.0,
+    "office": 235.0,
+    "school": 39.0,
+    "hospital": 171.0,
+    "transport": 32.0,
+    "scenic": 923.0
+  },
+  "demographics": {
+    "male_pct": 48.5,
+    "female_pct": null,
+    "education": {
+      "小学": 8.9,
+      "初中": 16.3,
+      "高中": 11.4,
+      "大专": 6.8,
+      "本科": 48.4,
+      "硕士": 6.5,
+      "博士": 1.7
+    },
+    "has_children_pct": 57.7,
+    "no_children_pct": 42.3
+  },
+  "scraped_at": "2026-07-31T16:25:25.006Z",
+  "nearby_restaurants": [
+    {
+      "brand": "方白白烧味饭店",
+      "address": "南京东路228号上海新世界新丸中心B2楼B2A-05",
+      "distance": "0m"
+    },
+    {
+      "brand": "大神太神铁板烧(新世界大丸百货店)",
+      "address": "南京东路228号新世界新丸中心5楼",
+      "distance": "0m"
+    },
+    {
+      "brand": "CHaKO LAB(新世界新丸中心店)",
+      "address": "南京东路228号新世界新丸中心 NEW ONE F4层",
+      "distance": "1m"
+    },
+    {
+      "brand": "福鼓的食堂(外滩南京东路店)",
+      "address": "外滩街道南京东路228号新世界新丸中心5楼5TF04",
+      "distance": "2m"
+    },
+    {
+      "brand": "马加锅市·农场牛肉小火锅(新世界新丸中心店)",
+      "address": "南京东路228号新世界新丸中心B2层D区B2D-03马加锅市",
+      "distance": "4m"
+    },
+    {
+      "brand": "阿不就·金牌台湾食堂(新世界新丸中心店)",
+      "address": "外滩街道南京东路228号新世界新丸中心B2楼B2A-04(苏小柳旁边)",
+      "distance": "7m"
+    },
+    {
+      "brand": "星巴克臻选世茂广场店",
+      "address": "南京东路829号G05商铺",
+      "distance": "8m"
+    },
+    {
+      "brand": "何所有·玉米说(新世界新丸中心店)",
+      "address": "南京东路228号新世界新丸中心 NEW ONEB2层",
+      "distance": "10m"
+    },
+    {
+      "brand": "布歌东京(新世界新丸中心店)",
+      "address": "南京东路228号新世界新丸中心B2楼",
+      "distance": "10m"
+    },
+    {
+      "brand": "7分甜(新世界新丸中心店)",
+      "address": "南京东路228号新世界新丸中心B1楼B1B-09-01",
+      "distance": "10m"
+    },
+    {
+      "brand": "方白白烧味饭店",
+      "address": "南京东路228号上海新世界新丸中心B2楼B2A-05",
+      "distance": "0m"
+    },
+    {
+      "brand": "大神太神铁板烧(新世界大丸百货店)",
+      "address": "南京东路228号新世界新丸中心5楼",
+      "distance": "0m"
+    },
+    {
+      "brand": "CHaKO LAB(新世界新丸中心店)",
+      "address": "南京东路228号新世界新丸中心 NEW ONE F4层",
+      "distance": "1m"
+    },
+    {
+      "brand": "福鼓的食堂(外滩南京东路店)",
+      "address": "外滩街道南京东路228号新世界新丸中心5楼5TF04",
+      "distance": "2m"
+    },
+    {
+      "brand": "马加锅市·农场牛肉小火锅(新世界新丸中心店)",
+      "address": "南京东路228号新世界新丸中心B2层D区B2D-03马加锅市",
+      "distance": "4m"
+    },
+    {
+      "brand": "阿不就·金牌台湾食堂(新世界新丸中心店)",
+      "address": "外滩街道南京东路228号新世界新丸中心B2楼B2A-04(苏小柳旁边)",
+      "distance": "7m"
+    },
+    {
+      "brand": "星巴克臻选世茂广场店",
+      "address": "南京东路829号G05商铺",
+      "distance": "8m"
+    },
+    {
+      "brand": "何所有·玉米说(新世界新丸中心店)",
+      "address": "南京东路228号新世界新丸中心 NEW ONEB2层",
+      "distance": "10m"
+    },
+    {
+      "brand": "布歌东京(新世界新丸中心店)",
+      "address": "南京东路228号新世界新丸中心B2楼",
+      "distance": "10m"
+    },
+    {
+      "brand": "7分甜(新世界新丸中心店)",
+      "address": "南京东路228号新世界新丸中心B1楼B1B-09-01",
+      "distance": "10m"
+    },
+    {
+      "brand": "方白白烧味饭店",
+      "address": "南京东路228号上海新世界新丸中心B2楼B2A-05",
+      "distance": "0m"
+    },
+    {
+      "brand": "大神太神铁板烧(新世界大丸百货店)",
+      "address": "南京东路228号新世界新丸中心5楼",
+      "distance": "0m"
+    },
+    {
+      "brand": "CHaKO LAB(新世界新丸中心店)",
+      "address": "南京东路228号新世界新丸中心 NEW ONE F4层",
+      "distance": "1m"
+    },
+    {
+      "brand": "福鼓的食堂(外滩南京东路店)",
+      "address": "外滩街道南京东路228号新世界新丸中心5楼5TF04",
+      "distance": "2m"
+    },
+    {
+      "brand": "马加锅市·农场牛肉小火锅(新世界新丸中心店)",
+      "address": "南京东路228号新世界新丸中心B2层D区B2D-03马加锅市",
+      "distance": "4m"
+    },
+    {
+      "brand": "阿不就·金牌台湾食堂(新世界新丸中心店)",
+      "address": "外滩街道南京东路228号新世界新丸中心B2楼B2A-04(苏小柳旁边)",
+      "distance": "7m"
+    },
+    {
+      "brand": "星巴克臻选世茂广场店",
+      "address": "南京东路829号G05商铺",
+      "distance": "8m"
+    },
+    {
+      "brand": "何所有·玉米说(新世界新丸中心店)",
+      "address": "南京东路228号新世界新丸中心 NEW ONEB2层",
+      "distance": "10m"
+    },
+    {
+      "brand": "布歌东京(新世界新丸中心店)",
+      "address": "南京东路228号新世界新丸中心B2楼",
+      "distance": "10m"
+    },
+    {
+      "brand": "7分甜(新世界新丸中心店)",
+      "address": "南京东路228号新世界新丸中心B1楼B1B-09-01",
+      "distance": "10m"
+    },
+    {
+      "brand": "方白白烧味饭店",
+      "address": "南京东路228号上海新世界新丸中心B2楼B2A-05",
+      "distance": "0m"
+    },
+    {
+      "brand": "大神太神铁板烧(新世界大丸百货店)",
+      "address": "南京东路228号新世界新丸中心5楼",
+      "distance": "0m"
+    },
+    {
+      "brand": "CHaKO LAB(新世界新丸中心店)",
+      "address": "南京东路228号新世界新丸中心 NEW ONE F4层",
+      "distance": "1m"
+    },
+    {
+      "brand": "福鼓的食堂(外滩南京东路店)",
+      "address": "外滩街道南京东路228号新世界新丸中心5楼5TF04",
+      "distance": "2m"
+    },
+    {
+      "brand": "马加锅市·农场牛肉小火锅(新世界新丸中心店)",
+      "address": "南京东路228号新世界新丸中心B2层D区B2D-03马加锅市",
+      "distance": "4m"
+    },
+    {
+      "brand": "阿不就·金牌台湾食堂(新世界新丸中心店)",
+      "address": "外滩街道南京东路228号新世界新丸中心B2楼B2A-04(苏小柳旁边)",
+      "distance": "7m"
+    },
+    {
+      "brand": "星巴克臻选世茂广场店",
+      "address": "南京东路829号G05商铺",
+      "distance": "8m"
+    },
+    {
+      "brand": "何所有·玉米说(新世界新丸中心店)",
+      "address": "南京东路228号新世界新丸中心 NEW ONEB2层",
+      "distance": "10m"
+    },
+    {
+      "brand": "布歌东京(新世界新丸中心店)",
+      "address": "南京东路228号新世界新丸中心B2楼",
+      "distance": "10m"
+    },
+    {
+      "brand": "7分甜(新世界新丸中心店)",
+      "address": "南京东路228号新世界新丸中心B1楼B1B-09-01",
+      "distance": "10m"
+    },
+    {
+      "brand": "方白白烧味饭店",
+      "address": "南京东路228号上海新世界新丸中心B2楼B2A-05",
+      "distance": "0m"
+    },
+    {
+      "brand": "大神太神铁板烧(新世界大丸百货店)",
+      "address": "南京东路228号新世界新丸中心5楼",
+      "distance": "0m"
+    },
+    {
+      "brand": "CHaKO LAB(新世界新丸中心店)",
+      "address": "南京东路228号新世界新丸中心 NEW ONE F4层",
+      "distance": "1m"
+    },
+    {
+      "brand": "福鼓的食堂(外滩南京东路店)",
+      "address": "外滩街道南京东路228号新世界新丸中心5楼5TF04",
+      "distance": "2m"
+    },
+    {
+      "brand": "马加锅市·农场牛肉小火锅(新世界新丸中心店)",
+      "address": "南京东路228号新世界新丸中心B2层D区B2D-03马加锅市",
+      "distance": "4m"
+    },
+    {
+      "brand": "阿不就·金牌台湾食堂(新世界新丸中心店)",
+      "address": "外滩街道南京东路228号新世界新丸中心B2楼B2A-04(苏小柳旁边)",
+      "distance": "7m"
+    },
+    {
+      "brand": "星巴克臻选世茂广场店",
+      "address": "南京东路829号G05商铺",
+      "distance": "8m"
+    },
+    {
+      "brand": "何所有·玉米说(新世界新丸中心店)",
+      "address": "南京东路228号新世界新丸中心 NEW ONEB2层",
+      "distance": "10m"
+    },
+    {
+      "brand": "布歌东京(新世界新丸中心店)",
+      "address": "南京东路228号新世界新丸中心B2楼",
+      "distance": "10m"
+    },
+    {
+      "brand": "7分甜(新世界新丸中心店)",
+      "address": "南京东路228号新世界新丸中心B1楼B1B-09-01",
+      "distance": "10m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海恒基名人购物中心",
+      "open_date": "2011-11-11",
+      "area": "4万㎡",
+      "jun_daily_avg": "1.2万人次",
+      "weekday_avg": "1.1万人次",
+      "holiday_avg": "1.4万人次"
+    },
+    {
+      "name": "上海外滩中央广场",
+      "open_date": "2017-09-24",
+      "area": "4.5万㎡",
+      "jun_daily_avg": "1.8万人次",
+      "weekday_avg": "1.6万人次",
+      "holiday_avg": "2.5万人次"
+    },
+    {
+      "name": "上海宏伊国际广场",
+      "open_date": "2005-07-24",
+      "area": "2.8万㎡",
+      "jun_daily_avg": "2.2万人次",
+      "weekday_avg": "1.9万人次",
+      "holiday_avg": "2.9万人次"
+    },
+    {
+      "name": "上海百联ZX创趣场",
+      "open_date": "2023-01-15",
+      "area": "1万㎡",
+      "jun_daily_avg": "3.4万人次",
+      "weekday_avg": "2.7万人次",
+      "holiday_avg": "5.6万人次"
+    },
+    {
+      "name": "上海悦荟广场",
+      "open_date": "2014-12-01",
+      "area": "2.5万㎡",
+      "jun_daily_avg": "1.3万人次",
+      "weekday_avg": "1.1万人次",
+      "holiday_avg": "1.8万人次"
+    },
+    {
+      "name": "上海益丰外滩源",
+      "open_date": "2012-05-17",
+      "area": "6000㎡",
+      "jun_daily_avg": "1.3万人次",
+      "weekday_avg": "1.1万人次",
+      "holiday_avg": "1.7万人次"
+    },
+    {
+      "name": "上海U479",
+      "open_date": "2021-06-01",
+      "area": "1万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海阳光商厦",
+      "open_date": "-",
+      "area": "-",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海联富服饰市场",
+      "open_date": "2006-09-28",
+      "area": "-",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海永安百货",
+      "open_date": "2020-01-01",
+      "area": "1.5万㎡",
+      "jun_daily_avg": "1.3万人次",
+      "weekday_avg": "1.1万人次",
+      "holiday_avg": "1.7万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 64.0,
+      "within_1yr_pct": 28.1,
+      "1_3yr_pct": 26.6,
+      "over_3yr_pct": 45.3
+    },
+    {
+      "type": "购物",
+      "count": 250.0,
+      "within_1yr_pct": 23.6,
+      "1_3yr_pct": 18.8,
+      "over_3yr_pct": 57.6
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 4.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "生活服务",
+      "count": 16.0,
+      "within_1yr_pct": 18.8,
+      "1_3yr_pct": 37.5,
+      "over_3yr_pct": 43.8
+    },
+    {
+      "type": "车辆服务",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    }
+  ]
+}

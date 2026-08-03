@@ -1,0 +1,479 @@
+{
+  "name": "上海恒基名人购物中心",
+  "city": "上海市",
+  "address": "上海市黄浦区天津路157号",
+  "lat": 31.237702,
+  "lng": 121.4835,
+  "overview": {
+    "score": 92.1,
+    "score_rank": "市内前30%",
+    "population_score": 90.9,
+    "area_score": 100.0,
+    "consumption_score": 86.3,
+    "industry_score": 92.1,
+    "annual_sales": "恒基名人商业大厦位于上海市核心商务区——南京东路步行街，是集商务办公与商业购物于一体的综合性项目。项目共有24层（包含2层地下楼层），分别为9层约40万平方呎的大型综合性商业购物中心，领衔南京东路步行街，吸引众多知名品牌在此开设旗舰店",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 4.0,
+    "open_date": "2011-11-11",
+    "operator": "恒基兆业地产有限公司",
+    "brand": "",
+    "type": "美食型",
+    "floors": "B2-L6"
+  },
+  "traffic": {
+    "annual_daily": 2.59,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第103",
+    "jun_total": 34.7,
+    "jun_total_rank": "市内商场第275名",
+    "jun_daily_avg": 1.2,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第275名",
+    "weekday_avg": 1.1,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第285名",
+    "holiday_avg": 1.4,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第257名"
+  },
+  "population": {
+    "residential": {
+      "500m": 2.5,
+      "1_5km": 14.1,
+      "3km": 77.5
+    },
+    "office": {
+      "500m": 5.6,
+      "1_5km": 30.7,
+      "3km": 107.7
+    },
+    "permanent": {
+      "500m": 4.5,
+      "1_5km": 21.6,
+      "3km": 99.1
+    }
+  },
+  "business": {
+    "competitors": 16.0,
+    "food": 583.0,
+    "shopping": 693.0,
+    "leisure": 50.0,
+    "education": 23.0,
+    "hotel": 185.0,
+    "services": 226.0,
+    "fitness": 27.0,
+    "auto": 23.0,
+    "total_stores": 101.0,
+    "old_store_3yr_pct": 52.0
+  },
+  "nearby_poi": {
+    "business": 32.0,
+    "community": 808.0,
+    "office": 230.0,
+    "school": 43.0,
+    "hospital": 182.0,
+    "transport": 28.0,
+    "scenic": 943.0
+  },
+  "demographics": {
+    "male_pct": 48.2,
+    "female_pct": null,
+    "education": {
+      "小学": 8.8,
+      "初中": 16.2,
+      "高中": 11.4,
+      "大专": 6.8,
+      "本科": 48.5,
+      "硕士": 6.5,
+      "博士": 1.8
+    },
+    "has_children_pct": 57.6,
+    "no_children_pct": 42.4
+  },
+  "scraped_at": "2026-07-31T16:19:41.608Z",
+  "nearby_restaurants": [
+    {
+      "brand": "七辛客·四川担担面(恒基名人店)",
+      "address": "南京东路300号恒基名人购物中心B1层",
+      "distance": "2m"
+    },
+    {
+      "brand": "品冠·荟聚新派上海菜",
+      "address": "恒基名人购物中心300号4层L418、4层L419-20室",
+      "distance": "4m"
+    },
+    {
+      "brand": "鮨乐寿司料理放题(恒基名人购物中心店)",
+      "address": "南京东路300号恒基名人购物中心F4层L423",
+      "distance": "6m"
+    },
+    {
+      "brand": "luckin coffee 瑞幸咖啡(恒基名人购物中心店)",
+      "address": "南京东路300号恒基名人购物中心3楼L314",
+      "distance": "9m"
+    },
+    {
+      "brand": "馋三尺蟹粉小笼(恒基名人购物中心店)",
+      "address": "南京东路300号恒基名人购物中心B1层",
+      "distance": "11m"
+    },
+    {
+      "brand": "醉玖兰亭·精细绍兴菜(南京东路店)",
+      "address": "南京东路300号恒基名人购物中心6层",
+      "distance": "13m"
+    },
+    {
+      "brand": "新禾牛社",
+      "address": "L414-415",
+      "distance": "14m"
+    },
+    {
+      "brand": "煌面屋",
+      "address": "南京东路300号恒基名人购物中心B1",
+      "distance": "15m"
+    },
+    {
+      "brand": "金饭碗·自选快餐(恒基购物中心店)",
+      "address": "南京路步行街与山东中路交叉口北60米",
+      "distance": "16m"
+    },
+    {
+      "brand": "Wayo洋膳创意料理(南京东路店)",
+      "address": "南京东路300号恒基名人购物中心L4层",
+      "distance": "17m"
+    },
+    {
+      "brand": "七辛客·四川担担面(恒基名人店)",
+      "address": "南京东路300号恒基名人购物中心B1层",
+      "distance": "2m"
+    },
+    {
+      "brand": "品冠·荟聚新派上海菜",
+      "address": "恒基名人购物中心300号4层L418、4层L419-20室",
+      "distance": "4m"
+    },
+    {
+      "brand": "鮨乐寿司料理放题(恒基名人购物中心店)",
+      "address": "南京东路300号恒基名人购物中心F4层L423",
+      "distance": "6m"
+    },
+    {
+      "brand": "luckin coffee 瑞幸咖啡(恒基名人购物中心店)",
+      "address": "南京东路300号恒基名人购物中心3楼L314",
+      "distance": "9m"
+    },
+    {
+      "brand": "馋三尺蟹粉小笼(恒基名人购物中心店)",
+      "address": "南京东路300号恒基名人购物中心B1层",
+      "distance": "11m"
+    },
+    {
+      "brand": "醉玖兰亭·精细绍兴菜(南京东路店)",
+      "address": "南京东路300号恒基名人购物中心6层",
+      "distance": "13m"
+    },
+    {
+      "brand": "新禾牛社",
+      "address": "L414-415",
+      "distance": "14m"
+    },
+    {
+      "brand": "煌面屋",
+      "address": "南京东路300号恒基名人购物中心B1",
+      "distance": "15m"
+    },
+    {
+      "brand": "金饭碗·自选快餐(恒基购物中心店)",
+      "address": "南京路步行街与山东中路交叉口北60米",
+      "distance": "16m"
+    },
+    {
+      "brand": "Wayo洋膳创意料理(南京东路店)",
+      "address": "南京东路300号恒基名人购物中心L4层",
+      "distance": "17m"
+    },
+    {
+      "brand": "七辛客·四川担担面(恒基名人店)",
+      "address": "南京东路300号恒基名人购物中心B1层",
+      "distance": "2m"
+    },
+    {
+      "brand": "品冠·荟聚新派上海菜",
+      "address": "恒基名人购物中心300号4层L418、4层L419-20室",
+      "distance": "4m"
+    },
+    {
+      "brand": "鮨乐寿司料理放题(恒基名人购物中心店)",
+      "address": "南京东路300号恒基名人购物中心F4层L423",
+      "distance": "6m"
+    },
+    {
+      "brand": "luckin coffee 瑞幸咖啡(恒基名人购物中心店)",
+      "address": "南京东路300号恒基名人购物中心3楼L314",
+      "distance": "9m"
+    },
+    {
+      "brand": "馋三尺蟹粉小笼(恒基名人购物中心店)",
+      "address": "南京东路300号恒基名人购物中心B1层",
+      "distance": "11m"
+    },
+    {
+      "brand": "醉玖兰亭·精细绍兴菜(南京东路店)",
+      "address": "南京东路300号恒基名人购物中心6层",
+      "distance": "13m"
+    },
+    {
+      "brand": "新禾牛社",
+      "address": "L414-415",
+      "distance": "14m"
+    },
+    {
+      "brand": "煌面屋",
+      "address": "南京东路300号恒基名人购物中心B1",
+      "distance": "15m"
+    },
+    {
+      "brand": "金饭碗·自选快餐(恒基购物中心店)",
+      "address": "南京路步行街与山东中路交叉口北60米",
+      "distance": "16m"
+    },
+    {
+      "brand": "Wayo洋膳创意料理(南京东路店)",
+      "address": "南京东路300号恒基名人购物中心L4层",
+      "distance": "17m"
+    },
+    {
+      "brand": "七辛客·四川担担面(恒基名人店)",
+      "address": "南京东路300号恒基名人购物中心B1层",
+      "distance": "2m"
+    },
+    {
+      "brand": "品冠·荟聚新派上海菜",
+      "address": "恒基名人购物中心300号4层L418、4层L419-20室",
+      "distance": "4m"
+    },
+    {
+      "brand": "鮨乐寿司料理放题(恒基名人购物中心店)",
+      "address": "南京东路300号恒基名人购物中心F4层L423",
+      "distance": "6m"
+    },
+    {
+      "brand": "luckin coffee 瑞幸咖啡(恒基名人购物中心店)",
+      "address": "南京东路300号恒基名人购物中心3楼L314",
+      "distance": "9m"
+    },
+    {
+      "brand": "馋三尺蟹粉小笼(恒基名人购物中心店)",
+      "address": "南京东路300号恒基名人购物中心B1层",
+      "distance": "11m"
+    },
+    {
+      "brand": "醉玖兰亭·精细绍兴菜(南京东路店)",
+      "address": "南京东路300号恒基名人购物中心6层",
+      "distance": "13m"
+    },
+    {
+      "brand": "新禾牛社",
+      "address": "L414-415",
+      "distance": "14m"
+    },
+    {
+      "brand": "煌面屋",
+      "address": "南京东路300号恒基名人购物中心B1",
+      "distance": "15m"
+    },
+    {
+      "brand": "金饭碗·自选快餐(恒基购物中心店)",
+      "address": "南京路步行街与山东中路交叉口北60米",
+      "distance": "16m"
+    },
+    {
+      "brand": "Wayo洋膳创意料理(南京东路店)",
+      "address": "南京东路300号恒基名人购物中心L4层",
+      "distance": "17m"
+    },
+    {
+      "brand": "七辛客·四川担担面(恒基名人店)",
+      "address": "南京东路300号恒基名人购物中心B1层",
+      "distance": "2m"
+    },
+    {
+      "brand": "品冠·荟聚新派上海菜",
+      "address": "恒基名人购物中心300号4层L418、4层L419-20室",
+      "distance": "4m"
+    },
+    {
+      "brand": "鮨乐寿司料理放题(恒基名人购物中心店)",
+      "address": "南京东路300号恒基名人购物中心F4层L423",
+      "distance": "6m"
+    },
+    {
+      "brand": "luckin coffee 瑞幸咖啡(恒基名人购物中心店)",
+      "address": "南京东路300号恒基名人购物中心3楼L314",
+      "distance": "9m"
+    },
+    {
+      "brand": "馋三尺蟹粉小笼(恒基名人购物中心店)",
+      "address": "南京东路300号恒基名人购物中心B1层",
+      "distance": "11m"
+    },
+    {
+      "brand": "醉玖兰亭·精细绍兴菜(南京东路店)",
+      "address": "南京东路300号恒基名人购物中心6层",
+      "distance": "13m"
+    },
+    {
+      "brand": "新禾牛社",
+      "address": "L414-415",
+      "distance": "14m"
+    },
+    {
+      "brand": "煌面屋",
+      "address": "南京东路300号恒基名人购物中心B1",
+      "distance": "15m"
+    },
+    {
+      "brand": "金饭碗·自选快餐(恒基购物中心店)",
+      "address": "南京路步行街与山东中路交叉口北60米",
+      "distance": "16m"
+    },
+    {
+      "brand": "Wayo洋膳创意料理(南京东路店)",
+      "address": "南京东路300号恒基名人购物中心L4层",
+      "distance": "17m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海百联ZX创趣场",
+      "open_date": "2023-01-15",
+      "area": "1万㎡",
+      "jun_daily_avg": "3.4万人次",
+      "weekday_avg": "2.7万人次",
+      "holiday_avg": "5.6万人次"
+    },
+    {
+      "name": "上海宏伊国际广场",
+      "open_date": "2005-07-24",
+      "area": "2.8万㎡",
+      "jun_daily_avg": "2.2万人次",
+      "weekday_avg": "1.9万人次",
+      "holiday_avg": "2.9万人次"
+    },
+    {
+      "name": "上海新世界大丸百货",
+      "open_date": "2015-05-15",
+      "area": "7万㎡",
+      "jun_daily_avg": "5.2万人次",
+      "weekday_avg": "4.6万人次",
+      "holiday_avg": "6.9万人次"
+    },
+    {
+      "name": "上海悦荟广场",
+      "open_date": "2014-12-01",
+      "area": "2.5万㎡",
+      "jun_daily_avg": "1.3万人次",
+      "weekday_avg": "1.1万人次",
+      "holiday_avg": "1.8万人次"
+    },
+    {
+      "name": "上海外滩中央广场",
+      "open_date": "2017-09-24",
+      "area": "4.5万㎡",
+      "jun_daily_avg": "1.8万人次",
+      "weekday_avg": "1.6万人次",
+      "holiday_avg": "2.5万人次"
+    },
+    {
+      "name": "上海U479",
+      "open_date": "2021-06-01",
+      "area": "1万㎡",
+      "jun_daily_avg": "1.3万人次",
+      "weekday_avg": "1.1万人次",
+      "holiday_avg": "1.7万人次"
+    },
+    {
+      "name": "上海阳光商厦",
+      "open_date": "-",
+      "area": "-",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海益丰外滩源",
+      "open_date": "2012-05-17",
+      "area": "6000㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海永安百货",
+      "open_date": "2020-01-01",
+      "area": "1.5万㎡",
+      "jun_daily_avg": "1.3万人次",
+      "weekday_avg": "1.1万人次",
+      "holiday_avg": "1.7万人次"
+    },
+    {
+      "name": "上海苏河湾万象天地",
+      "open_date": "2022-01-01",
+      "area": "6万㎡",
+      "jun_daily_avg": "2.7万人次",
+      "weekday_avg": "2.4万人次",
+      "holiday_avg": "3.5万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 38.0,
+      "within_1yr_pct": 13.2,
+      "1_3yr_pct": 23.7,
+      "over_3yr_pct": 63.2
+    },
+    {
+      "type": "购物",
+      "count": 32.0,
+      "within_1yr_pct": 28.1,
+      "1_3yr_pct": 15.6,
+      "over_3yr_pct": 56.3
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 4.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 25.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 1.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "生活服务",
+      "count": 21.0,
+      "within_1yr_pct": 14.3,
+      "1_3yr_pct": 47.6,
+      "over_3yr_pct": 38.1
+    },
+    {
+      "type": "运动健身",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 4.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 50.0
+    }
+  ]
+}

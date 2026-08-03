@@ -1,0 +1,454 @@
+{
+  "name": "长宁Art Park大融城",
+  "city": "上海市",
+  "address": "上海市长宁区淞虹路377号近天山西路(淞虹路地铁站3号口步行110米)",
+  "lat": 31.218401,
+  "lng": 121.360395,
+  "overview": {
+    "score": 94.6,
+    "score_rank": "市内前30%",
+    "population_score": 87.2,
+    "area_score": 80.9,
+    "consumption_score": 75.6,
+    "industry_score": 94.7,
+    "annual_sales": "上海虹桥中心Art Park大融城位于长宁区淞虹路377号，隶属于虹桥临空商圈，是轨道交通2号线淞虹路站和26号线（规划）上盖项目以“品质点亮生活”的理念打造一座将艺术、品质与商业有机兼容的综合体，致力于打造一座艺术、品质与商业有机兼容的综合体，填补了临空商圈缺乏现代化综合型商业体的空白，为西上海客群带来体验式消费新惊喜",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 6.0,
+    "open_date": "2021-12-31",
+    "operator": "光大安石（北京）资产管理有限公司",
+    "brand": "",
+    "type": "美食型",
+    "floors": "B2-L2"
+  },
+  "traffic": {
+    "annual_daily": 2.78,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第93",
+    "jun_total": 88.1,
+    "jun_total_rank": "市内商场第138名",
+    "jun_daily_avg": 2.9,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第138名",
+    "weekday_avg": 3.0,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第127名",
+    "holiday_avg": 2.9,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第168名"
+  },
+  "population": {
+    "residential": {
+      "500m": 2.2,
+      "1_5km": 17.9,
+      "3km": 47.2
+    },
+    "office": {
+      "500m": 2.5,
+      "1_5km": 13.5,
+      "3km": 34.1
+    },
+    "permanent": {
+      "500m": 2.5,
+      "1_5km": 19.1,
+      "3km": 49.0
+    }
+  },
+  "business": {
+    "competitors": 11.0,
+    "food": 250.0,
+    "shopping": 139.0,
+    "leisure": 7.0,
+    "education": 17.0,
+    "hotel": 11.0,
+    "services": 119.0,
+    "fitness": 31.0,
+    "auto": 16.0,
+    "total_stores": 193.0,
+    "old_store_3yr_pct": 49.0
+  },
+  "nearby_poi": {
+    "business": 6.0,
+    "community": 301.0,
+    "office": 68.0,
+    "school": 28.0,
+    "hospital": 50.0,
+    "transport": 14.0,
+    "scenic": 169.0
+  },
+  "demographics": {
+    "male_pct": 48.8,
+    "female_pct": null,
+    "education": {
+      "小学": 9.3,
+      "初中": 16.8,
+      "高中": 10.9,
+      "大专": 7.4,
+      "本科": 48.8,
+      "硕士": 5.3,
+      "博士": 1.5
+    },
+    "has_children_pct": 67.2,
+    "no_children_pct": 32.8
+  },
+  "scraped_at": "2026-07-31T12:45:34.701Z",
+  "nearby_restaurants": [
+    {
+      "brand": "星发道·茶餐厅(天山西路店)",
+      "address": "淞虹路377号长宁Art Park大融城",
+      "distance": "2m"
+    },
+    {
+      "brand": "肯德基(淞虹路地铁站店)",
+      "address": "淞虹路377号LG2-64、66单元",
+      "distance": "4m"
+    },
+    {
+      "brand": "一围小火锅(长宁大融城店)",
+      "address": "淞虹路377号长宁Art Park大融城B2层",
+      "distance": "5m"
+    },
+    {
+      "brand": "申立春·泉州牛肉馆(虹桥光大大融城店)",
+      "address": "新泾镇淞虹路377号长宁Art Park大融城LG2-58号",
+      "distance": "11m"
+    },
+    {
+      "brand": "滩外滩宴会厅(长宁Art Park大融城店)",
+      "address": "淞虹路377号长宁Art Park大融城L2层",
+      "distance": "19m"
+    },
+    {
+      "brand": "Ora Coffee(长宁大融城店)",
+      "address": "上海城区淞虹路377号长宁大融城LG2层LG2-84室(山崎面包旁)",
+      "distance": "19m"
+    },
+    {
+      "brand": "果甘王(长宁Art Park大融城光大安石虹桥中心店)",
+      "address": "天山西路541号光大安石虹桥中心LG2层",
+      "distance": "20m"
+    },
+    {
+      "brand": "21cake(上海长宁大融城)",
+      "address": "新泾镇长宁ArtPark大融城L1层T1-04室",
+      "distance": "21m"
+    },
+    {
+      "brand": "达美乐比萨(淞虹路店)",
+      "address": "淞虹路377号LG1层LG1-51室",
+      "distance": "23m"
+    },
+    {
+      "brand": "傅二火贵州烧椒牛肉(虹桥光大大融城店)",
+      "address": "淞虹路377号长宁Art Park大融城LG2层",
+      "distance": "23m"
+    },
+    {
+      "brand": "星发道·茶餐厅(天山西路店)",
+      "address": "淞虹路377号长宁Art Park大融城",
+      "distance": "2m"
+    },
+    {
+      "brand": "肯德基(淞虹路地铁站店)",
+      "address": "淞虹路377号LG2-64、66单元",
+      "distance": "4m"
+    },
+    {
+      "brand": "一围小火锅(长宁大融城店)",
+      "address": "淞虹路377号长宁Art Park大融城B2层",
+      "distance": "5m"
+    },
+    {
+      "brand": "申立春·泉州牛肉馆(虹桥光大大融城店)",
+      "address": "新泾镇淞虹路377号长宁Art Park大融城LG2-58号",
+      "distance": "11m"
+    },
+    {
+      "brand": "滩外滩宴会厅(长宁Art Park大融城店)",
+      "address": "淞虹路377号长宁Art Park大融城L2层",
+      "distance": "19m"
+    },
+    {
+      "brand": "Ora Coffee(长宁大融城店)",
+      "address": "上海城区淞虹路377号长宁大融城LG2层LG2-84室(山崎面包旁)",
+      "distance": "19m"
+    },
+    {
+      "brand": "果甘王(长宁Art Park大融城光大安石虹桥中心店)",
+      "address": "天山西路541号光大安石虹桥中心LG2层",
+      "distance": "20m"
+    },
+    {
+      "brand": "21cake(上海长宁大融城)",
+      "address": "新泾镇长宁ArtPark大融城L1层T1-04室",
+      "distance": "21m"
+    },
+    {
+      "brand": "达美乐比萨(淞虹路店)",
+      "address": "淞虹路377号LG1层LG1-51室",
+      "distance": "23m"
+    },
+    {
+      "brand": "傅二火贵州烧椒牛肉(虹桥光大大融城店)",
+      "address": "淞虹路377号长宁Art Park大融城LG2层",
+      "distance": "23m"
+    },
+    {
+      "brand": "星发道·茶餐厅(天山西路店)",
+      "address": "淞虹路377号长宁Art Park大融城",
+      "distance": "2m"
+    },
+    {
+      "brand": "肯德基(淞虹路地铁站店)",
+      "address": "淞虹路377号LG2-64、66单元",
+      "distance": "4m"
+    },
+    {
+      "brand": "一围小火锅(长宁大融城店)",
+      "address": "淞虹路377号长宁Art Park大融城B2层",
+      "distance": "5m"
+    },
+    {
+      "brand": "申立春·泉州牛肉馆(虹桥光大大融城店)",
+      "address": "新泾镇淞虹路377号长宁Art Park大融城LG2-58号",
+      "distance": "11m"
+    },
+    {
+      "brand": "滩外滩宴会厅(长宁Art Park大融城店)",
+      "address": "淞虹路377号长宁Art Park大融城L2层",
+      "distance": "19m"
+    },
+    {
+      "brand": "Ora Coffee(长宁大融城店)",
+      "address": "上海城区淞虹路377号长宁大融城LG2层LG2-84室(山崎面包旁)",
+      "distance": "19m"
+    },
+    {
+      "brand": "果甘王(长宁Art Park大融城光大安石虹桥中心店)",
+      "address": "天山西路541号光大安石虹桥中心LG2层",
+      "distance": "20m"
+    },
+    {
+      "brand": "21cake(上海长宁大融城)",
+      "address": "新泾镇长宁ArtPark大融城L1层T1-04室",
+      "distance": "21m"
+    },
+    {
+      "brand": "达美乐比萨(淞虹路店)",
+      "address": "淞虹路377号LG1层LG1-51室",
+      "distance": "23m"
+    },
+    {
+      "brand": "傅二火贵州烧椒牛肉(虹桥光大大融城店)",
+      "address": "淞虹路377号长宁Art Park大融城LG2层",
+      "distance": "23m"
+    },
+    {
+      "brand": "星发道·茶餐厅(天山西路店)",
+      "address": "淞虹路377号长宁Art Park大融城",
+      "distance": "2m"
+    },
+    {
+      "brand": "肯德基(淞虹路地铁站店)",
+      "address": "淞虹路377号LG2-64、66单元",
+      "distance": "4m"
+    },
+    {
+      "brand": "一围小火锅(长宁大融城店)",
+      "address": "淞虹路377号长宁Art Park大融城B2层",
+      "distance": "5m"
+    },
+    {
+      "brand": "申立春·泉州牛肉馆(虹桥光大大融城店)",
+      "address": "新泾镇淞虹路377号长宁Art Park大融城LG2-58号",
+      "distance": "11m"
+    },
+    {
+      "brand": "滩外滩宴会厅(长宁Art Park大融城店)",
+      "address": "淞虹路377号长宁Art Park大融城L2层",
+      "distance": "19m"
+    },
+    {
+      "brand": "Ora Coffee(长宁大融城店)",
+      "address": "上海城区淞虹路377号长宁大融城LG2层LG2-84室(山崎面包旁)",
+      "distance": "19m"
+    },
+    {
+      "brand": "果甘王(长宁Art Park大融城光大安石虹桥中心店)",
+      "address": "天山西路541号光大安石虹桥中心LG2层",
+      "distance": "20m"
+    },
+    {
+      "brand": "21cake(上海长宁大融城)",
+      "address": "新泾镇长宁ArtPark大融城L1层T1-04室",
+      "distance": "21m"
+    },
+    {
+      "brand": "达美乐比萨(淞虹路店)",
+      "address": "淞虹路377号LG1层LG1-51室",
+      "distance": "23m"
+    },
+    {
+      "brand": "傅二火贵州烧椒牛肉(虹桥光大大融城店)",
+      "address": "淞虹路377号长宁Art Park大融城LG2层",
+      "distance": "23m"
+    },
+    {
+      "brand": "星发道·茶餐厅(天山西路店)",
+      "address": "淞虹路377号长宁Art Park大融城",
+      "distance": "2m"
+    },
+    {
+      "brand": "肯德基(淞虹路地铁站店)",
+      "address": "淞虹路377号LG2-64、66单元",
+      "distance": "4m"
+    },
+    {
+      "brand": "一围小火锅(长宁大融城店)",
+      "address": "淞虹路377号长宁Art Park大融城B2层",
+      "distance": "5m"
+    },
+    {
+      "brand": "申立春·泉州牛肉馆(虹桥光大大融城店)",
+      "address": "新泾镇淞虹路377号长宁Art Park大融城LG2-58号",
+      "distance": "11m"
+    },
+    {
+      "brand": "滩外滩宴会厅(长宁Art Park大融城店)",
+      "address": "淞虹路377号长宁Art Park大融城L2层",
+      "distance": "19m"
+    },
+    {
+      "brand": "Ora Coffee(长宁大融城店)",
+      "address": "上海城区淞虹路377号长宁大融城LG2层LG2-84室(山崎面包旁)",
+      "distance": "19m"
+    },
+    {
+      "brand": "果甘王(长宁Art Park大融城光大安石虹桥中心店)",
+      "address": "天山西路541号光大安石虹桥中心LG2层",
+      "distance": "20m"
+    },
+    {
+      "brand": "21cake(上海长宁大融城)",
+      "address": "新泾镇长宁ArtPark大融城L1层T1-04室",
+      "distance": "21m"
+    },
+    {
+      "brand": "达美乐比萨(淞虹路店)",
+      "address": "淞虹路377号LG1层LG1-51室",
+      "distance": "23m"
+    },
+    {
+      "brand": "傅二火贵州烧椒牛肉(虹桥光大大融城店)",
+      "address": "淞虹路377号长宁Art Park大融城LG2层",
+      "distance": "23m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海荟聚购物中心",
+      "open_date": "2024-09-29",
+      "area": "21万㎡",
+      "jun_daily_avg": "7.5万人次",
+      "weekday_avg": "6.8万人次",
+      "holiday_avg": "9.5万人次"
+    },
+    {
+      "name": "上海建滔广场",
+      "open_date": "2015-11-01",
+      "area": "4.5万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海宜嘉坊广场(天山西路店)",
+      "open_date": "2006-01-01",
+      "area": "-",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海百联西郊购物中心",
+      "open_date": "2004-12-01",
+      "area": "11万㎡",
+      "jun_daily_avg": "3.2万人次",
+      "weekday_avg": "2.9万人次",
+      "holiday_avg": "4万人次"
+    },
+    {
+      "name": "上海申亚珺悦18广场",
+      "open_date": "2018-04-28",
+      "area": "2.3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海福缘湾九华商业广场",
+      "open_date": "2016-01-01",
+      "area": "2.3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 89.0,
+      "within_1yr_pct": 20.2,
+      "1_3yr_pct": 29.2,
+      "over_3yr_pct": 50.6
+    },
+    {
+      "type": "购物",
+      "count": 49.0,
+      "within_1yr_pct": 20.4,
+      "1_3yr_pct": 30.6,
+      "over_3yr_pct": 49.0
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 4.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 25.0
+    },
+    {
+      "type": "教育培训",
+      "count": 9.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 44.4,
+      "over_3yr_pct": 55.6
+    },
+    {
+      "type": "酒店住宿",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    },
+    {
+      "type": "生活服务",
+      "count": 20.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 35.0,
+      "over_3yr_pct": 40.0
+    },
+    {
+      "type": "运动健身",
+      "count": 15.0,
+      "within_1yr_pct": 13.3,
+      "1_3yr_pct": 46.7,
+      "over_3yr_pct": 40.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 6.0,
+      "within_1yr_pct": 16.7,
+      "1_3yr_pct": 16.7,
+      "over_3yr_pct": 66.7
+    }
+  ]
+}

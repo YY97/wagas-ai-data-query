@@ -1,0 +1,462 @@
+{
+  "name": "上海百联南方购物中心二区",
+  "city": "上海市",
+  "address": "上海市闵行区沪闵路7388号",
+  "lat": 31.131863,
+  "lng": 121.400458,
+  "overview": {
+    "score": 83.0,
+    "score_rank": "市内前30%",
+    "population_score": 76.3,
+    "area_score": 90.3,
+    "consumption_score": 77.7,
+    "industry_score": 83.0,
+    "annual_sales": "百联南方购物中心2区是百联集团顺应时代需求，加速转型发展，加大改革力度的百联首个购物中心4.0项目。以“连接人、场、景的多维度社交购物中心”为定位，贯彻SCT(Social Connect Together)经营理念，强调无处不在的社交、连接与分享。致力于打造颜值高、潮味足、话题性的上海城市新地标",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 6.0,
+    "open_date": "1999-01-01",
+    "operator": "上海百联集团股份有限公司",
+    "brand": "百联",
+    "type": "综合型",
+    "floors": "L1-L9"
+  },
+  "traffic": {
+    "annual_daily": 3.07,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第82",
+    "jun_total": null,
+    "jun_total_rank": "",
+    "jun_daily_avg": null,
+    "jun_daily_unit": "",
+    "jun_daily_rank": "",
+    "weekday_avg": 2.6,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第88名",
+    "holiday_avg": 3.8,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第78名"
+  },
+  "population": {
+    "residential": {
+      "500m": 1.3,
+      "1_5km": 20.3,
+      "3km": 74.6
+    },
+    "office": {
+      "500m": 2.4,
+      "1_5km": 9.2,
+      "3km": 30.4
+    },
+    "permanent": {
+      "500m": 2.6,
+      "1_5km": 21.5,
+      "3km": 73.7
+    }
+  },
+  "business": {
+    "competitors": 12.0,
+    "food": 373.0,
+    "shopping": 264.0,
+    "leisure": 46.0,
+    "education": 102.0,
+    "hotel": 16.0,
+    "services": 198.0,
+    "fitness": 45.0,
+    "auto": 34.0,
+    "total_stores": 77.0,
+    "old_store_3yr_pct": 47.0
+  },
+  "nearby_poi": {
+    "business": 7.0,
+    "community": 361.0,
+    "office": 18.0,
+    "school": 37.0,
+    "hospital": 38.0,
+    "transport": 13.0,
+    "scenic": 81.0
+  },
+  "demographics": {
+    "male_pct": 47.7,
+    "female_pct": null,
+    "education": {
+      "小学": 8.8,
+      "初中": 15.9,
+      "高中": 11.0,
+      "大专": 6.8,
+      "本科": 49.7,
+      "硕士": 6.2,
+      "博士": 1.6
+    },
+    "has_children_pct": 61.2,
+    "no_children_pct": 38.8
+  },
+  "scraped_at": "2026-07-31T17:08:06.308Z",
+  "nearby_restaurants": [
+    {
+      "brand": "牛小新烧肉·和牛放题(南方商城店)",
+      "address": "沪闵路7250号百联南方购物中心二区5层(靠近万源路口)",
+      "distance": "3m"
+    },
+    {
+      "brand": "三花奶奶的甜品(百联南方购物中心店)",
+      "address": "沪闵路7250号友谊商城百联南方购物中心店3F层",
+      "distance": "6m"
+    },
+    {
+      "brand": "東盛炭烤自助料理(百联南方商城)",
+      "address": "沪闵路7250号百联南方购物中心2区5楼",
+      "distance": "7m"
+    },
+    {
+      "brand": "美芝莲(南方商城店)",
+      "address": "沪闵路7250号友谊商城百联南方购物中心店1F层",
+      "distance": "9m"
+    },
+    {
+      "brand": "佬太公海鸭·宁波食府(百联南方店)",
+      "address": "沪闵路7250号百联南方商城购物中心二区6楼",
+      "distance": "10m"
+    },
+    {
+      "brand": "蛙喔牛蛙(上海百联南方店)",
+      "address": "上海省沪闵路7250号G44-F05-1-011号蛙喔",
+      "distance": "12m"
+    },
+    {
+      "brand": "牛New寿喜烧(南方商城店)",
+      "address": "沪闵路7250号百联南方友谊商城5楼",
+      "distance": "13m"
+    },
+    {
+      "brand": "润妃鲜炖(润妃鲜炖上海南方商城店)",
+      "address": "沪闵路7388号百联南方购物中心北区1层",
+      "distance": "16m"
+    },
+    {
+      "brand": "MoiMoiaKira偶像主题餐厅",
+      "address": "沪闵路7250号百联南方购物中心二区四层402",
+      "distance": "19m"
+    },
+    {
+      "brand": "五里关火锅(百联南方店)",
+      "address": "上海市闵行区沪闵路7250号F04层G04-02F04-01-0002、G04-02F04-01-0001室",
+      "distance": "25m"
+    },
+    {
+      "brand": "牛小新烧肉·和牛放题(南方商城店)",
+      "address": "沪闵路7250号百联南方购物中心二区5层(靠近万源路口)",
+      "distance": "3m"
+    },
+    {
+      "brand": "三花奶奶的甜品(百联南方购物中心店)",
+      "address": "沪闵路7250号友谊商城百联南方购物中心店3F层",
+      "distance": "6m"
+    },
+    {
+      "brand": "東盛炭烤自助料理(百联南方商城)",
+      "address": "沪闵路7250号百联南方购物中心2区5楼",
+      "distance": "7m"
+    },
+    {
+      "brand": "美芝莲(南方商城店)",
+      "address": "沪闵路7250号友谊商城百联南方购物中心店1F层",
+      "distance": "9m"
+    },
+    {
+      "brand": "佬太公海鸭·宁波食府(百联南方店)",
+      "address": "沪闵路7250号百联南方商城购物中心二区6楼",
+      "distance": "10m"
+    },
+    {
+      "brand": "蛙喔牛蛙(上海百联南方店)",
+      "address": "上海省沪闵路7250号G44-F05-1-011号蛙喔",
+      "distance": "12m"
+    },
+    {
+      "brand": "牛New寿喜烧(南方商城店)",
+      "address": "沪闵路7250号百联南方友谊商城5楼",
+      "distance": "13m"
+    },
+    {
+      "brand": "润妃鲜炖(润妃鲜炖上海南方商城店)",
+      "address": "沪闵路7388号百联南方购物中心北区1层",
+      "distance": "16m"
+    },
+    {
+      "brand": "MoiMoiaKira偶像主题餐厅",
+      "address": "沪闵路7250号百联南方购物中心二区四层402",
+      "distance": "19m"
+    },
+    {
+      "brand": "五里关火锅(百联南方店)",
+      "address": "上海市闵行区沪闵路7250号F04层G04-02F04-01-0002、G04-02F04-01-0001室",
+      "distance": "25m"
+    },
+    {
+      "brand": "牛小新烧肉·和牛放题(南方商城店)",
+      "address": "沪闵路7250号百联南方购物中心二区5层(靠近万源路口)",
+      "distance": "3m"
+    },
+    {
+      "brand": "三花奶奶的甜品(百联南方购物中心店)",
+      "address": "沪闵路7250号友谊商城百联南方购物中心店3F层",
+      "distance": "6m"
+    },
+    {
+      "brand": "東盛炭烤自助料理(百联南方商城)",
+      "address": "沪闵路7250号百联南方购物中心2区5楼",
+      "distance": "7m"
+    },
+    {
+      "brand": "美芝莲(南方商城店)",
+      "address": "沪闵路7250号友谊商城百联南方购物中心店1F层",
+      "distance": "9m"
+    },
+    {
+      "brand": "佬太公海鸭·宁波食府(百联南方店)",
+      "address": "沪闵路7250号百联南方商城购物中心二区6楼",
+      "distance": "10m"
+    },
+    {
+      "brand": "蛙喔牛蛙(上海百联南方店)",
+      "address": "上海省沪闵路7250号G44-F05-1-011号蛙喔",
+      "distance": "12m"
+    },
+    {
+      "brand": "牛New寿喜烧(南方商城店)",
+      "address": "沪闵路7250号百联南方友谊商城5楼",
+      "distance": "13m"
+    },
+    {
+      "brand": "润妃鲜炖(润妃鲜炖上海南方商城店)",
+      "address": "沪闵路7388号百联南方购物中心北区1层",
+      "distance": "16m"
+    },
+    {
+      "brand": "MoiMoiaKira偶像主题餐厅",
+      "address": "沪闵路7250号百联南方购物中心二区四层402",
+      "distance": "19m"
+    },
+    {
+      "brand": "五里关火锅(百联南方店)",
+      "address": "上海市闵行区沪闵路7250号F04层G04-02F04-01-0002、G04-02F04-01-0001室",
+      "distance": "25m"
+    },
+    {
+      "brand": "牛小新烧肉·和牛放题(南方商城店)",
+      "address": "沪闵路7250号百联南方购物中心二区5层(靠近万源路口)",
+      "distance": "3m"
+    },
+    {
+      "brand": "三花奶奶的甜品(百联南方购物中心店)",
+      "address": "沪闵路7250号友谊商城百联南方购物中心店3F层",
+      "distance": "6m"
+    },
+    {
+      "brand": "東盛炭烤自助料理(百联南方商城)",
+      "address": "沪闵路7250号百联南方购物中心2区5楼",
+      "distance": "7m"
+    },
+    {
+      "brand": "美芝莲(南方商城店)",
+      "address": "沪闵路7250号友谊商城百联南方购物中心店1F层",
+      "distance": "9m"
+    },
+    {
+      "brand": "佬太公海鸭·宁波食府(百联南方店)",
+      "address": "沪闵路7250号百联南方商城购物中心二区6楼",
+      "distance": "10m"
+    },
+    {
+      "brand": "蛙喔牛蛙(上海百联南方店)",
+      "address": "上海省沪闵路7250号G44-F05-1-011号蛙喔",
+      "distance": "12m"
+    },
+    {
+      "brand": "牛New寿喜烧(南方商城店)",
+      "address": "沪闵路7250号百联南方友谊商城5楼",
+      "distance": "13m"
+    },
+    {
+      "brand": "润妃鲜炖(润妃鲜炖上海南方商城店)",
+      "address": "沪闵路7388号百联南方购物中心北区1层",
+      "distance": "16m"
+    },
+    {
+      "brand": "MoiMoiaKira偶像主题餐厅",
+      "address": "沪闵路7250号百联南方购物中心二区四层402",
+      "distance": "19m"
+    },
+    {
+      "brand": "五里关火锅(百联南方店)",
+      "address": "上海市闵行区沪闵路7250号F04层G04-02F04-01-0002、G04-02F04-01-0001室",
+      "distance": "25m"
+    },
+    {
+      "brand": "牛小新烧肉·和牛放题(南方商城店)",
+      "address": "沪闵路7250号百联南方购物中心二区5层(靠近万源路口)",
+      "distance": "3m"
+    },
+    {
+      "brand": "三花奶奶的甜品(百联南方购物中心店)",
+      "address": "沪闵路7250号友谊商城百联南方购物中心店3F层",
+      "distance": "6m"
+    },
+    {
+      "brand": "東盛炭烤自助料理(百联南方商城)",
+      "address": "沪闵路7250号百联南方购物中心2区5楼",
+      "distance": "7m"
+    },
+    {
+      "brand": "美芝莲(南方商城店)",
+      "address": "沪闵路7250号友谊商城百联南方购物中心店1F层",
+      "distance": "9m"
+    },
+    {
+      "brand": "佬太公海鸭·宁波食府(百联南方店)",
+      "address": "沪闵路7250号百联南方商城购物中心二区6楼",
+      "distance": "10m"
+    },
+    {
+      "brand": "蛙喔牛蛙(上海百联南方店)",
+      "address": "上海省沪闵路7250号G44-F05-1-011号蛙喔",
+      "distance": "12m"
+    },
+    {
+      "brand": "牛New寿喜烧(南方商城店)",
+      "address": "沪闵路7250号百联南方友谊商城5楼",
+      "distance": "13m"
+    },
+    {
+      "brand": "润妃鲜炖(润妃鲜炖上海南方商城店)",
+      "address": "沪闵路7388号百联南方购物中心北区1层",
+      "distance": "16m"
+    },
+    {
+      "brand": "MoiMoiaKira偶像主题餐厅",
+      "address": "沪闵路7250号百联南方购物中心二区四层402",
+      "distance": "19m"
+    },
+    {
+      "brand": "五里关火锅(百联南方店)",
+      "address": "上海市闵行区沪闵路7250号F04层G04-02F04-01-0002、G04-02F04-01-0001室",
+      "distance": "25m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海百联南方购物中心一区",
+      "open_date": "1999-09-01",
+      "area": "10万㎡",
+      "jun_daily_avg": "9.7万人次",
+      "weekday_avg": "8.8万人次",
+      "holiday_avg": "12万人次"
+    },
+    {
+      "name": "LaLa station上海莲花路",
+      "open_date": "2021-12-22",
+      "area": "3.1万㎡",
+      "jun_daily_avg": "1.7万人次",
+      "weekday_avg": "1.6万人次",
+      "holiday_avg": "1.9万人次"
+    },
+    {
+      "name": "上海中庚漫游城",
+      "open_date": "2018-10-26",
+      "area": "15万㎡",
+      "jun_daily_avg": "7.8万人次",
+      "weekday_avg": "6.8万人次",
+      "holiday_avg": "10.5万人次"
+    },
+    {
+      "name": "上海莲花国际广场",
+      "open_date": "2011-01-01",
+      "area": "5万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海城开优享+",
+      "open_date": "2021-07-09",
+      "area": "8000㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海万源坊",
+      "open_date": "2005-06-10",
+      "area": "3万㎡",
+      "jun_daily_avg": "1.7万人次",
+      "weekday_avg": "1.6万人次",
+      "holiday_avg": "1.9万人次"
+    },
+    {
+      "name": "上海力波·九坊",
+      "open_date": "2023-08-15",
+      "area": "3.9万㎡",
+      "jun_daily_avg": "1.7万人次",
+      "weekday_avg": "1.6万人次",
+      "holiday_avg": "1.9万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 19.0,
+      "within_1yr_pct": 5.3,
+      "1_3yr_pct": 42.1,
+      "over_3yr_pct": 52.6
+    },
+    {
+      "type": "购物",
+      "count": 31.0,
+      "within_1yr_pct": 25.8,
+      "1_3yr_pct": 29.0,
+      "over_3yr_pct": 45.2
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 10.0,
+      "within_1yr_pct": 40.0,
+      "1_3yr_pct": 20.0,
+      "over_3yr_pct": 40.0
+    },
+    {
+      "type": "教育培训",
+      "count": 3.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 33.3
+    },
+    {
+      "type": "酒店住宿",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    },
+    {
+      "type": "生活服务",
+      "count": 6.0,
+      "within_1yr_pct": 16.7,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "运动健身",
+      "count": 3.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 66.7,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 4.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 75.0
+    }
+  ]
+}

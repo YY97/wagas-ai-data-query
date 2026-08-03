@@ -1,0 +1,431 @@
+{
+  "name": "宝龙旭辉广场",
+  "city": "上海市",
+  "address": "上海市杨浦区周家嘴路3608号(隆昌路地铁站4号口步行490米)",
+  "lat": 31.277706,
+  "lng": 121.542377,
+  "overview": {
+    "score": 92.8,
+    "score_rank": "市内前30%",
+    "population_score": 76.8,
+    "area_score": 76.3,
+    "consumption_score": 78.0,
+    "industry_score": 93.0,
+    "annual_sales": "上海宝龙·旭辉广场位于上海市杨浦区的核心地带，是长阳路创新街区的标杆项目之一。该项目距地铁12号线隆昌路站步行10分钟，周边常驻人口约60万，紧临同济大学等多个高等院校的同时，还汇聚了城市概念创意园、复旦软件园、长阳创谷等众多办公项目。宝龙·旭辉广场综合体包含高层办公楼宇和商业街区，其中办公面积约10万平方米，商业面积4.2万平方米左右。项目围绕“漫步轻生活”主题，秉承“城市综合”理念，以林荫、花廊、喷泉、光影等元素筑就“打工人”的“休憩公园”，项目强调人、建筑、生活与自然的和谐共生，为城市居民带来绿色的生活方式和消费空间",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 4.2,
+    "open_date": "2021-07-30",
+    "operator": "旭辉商业",
+    "brand": "旭辉商业",
+    "type": "美食型",
+    "floors": "B1-L2"
+  },
+  "traffic": {
+    "annual_daily": 1.24,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第211",
+    "jun_total": 63.6,
+    "jun_total_rank": "市内商场第182名",
+    "jun_daily_avg": 2.1,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第182名",
+    "weekday_avg": 2.1,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第175名",
+    "holiday_avg": 2.3,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第193名"
+  },
+  "population": {
+    "residential": {
+      "500m": 1.4,
+      "1_5km": 29.0,
+      "3km": 86.4
+    },
+    "office": {
+      "500m": 2.2,
+      "1_5km": 15.5,
+      "3km": 42.4
+    },
+    "permanent": {
+      "500m": 1.7,
+      "1_5km": 29.4,
+      "3km": 85.6
+    }
+  },
+  "business": {
+    "competitors": 6.0,
+    "food": 219.0,
+    "shopping": 70.0,
+    "leisure": 20.0,
+    "education": 27.0,
+    "hotel": 15.0,
+    "services": 83.0,
+    "fitness": 33.0,
+    "auto": 32.0,
+    "total_stores": 128.0,
+    "old_store_3yr_pct": 42.0
+  },
+  "nearby_poi": {
+    "business": 4.0,
+    "community": 556.0,
+    "office": 47.0,
+    "school": 60.0,
+    "hospital": 61.0,
+    "transport": 16.0,
+    "scenic": 152.0
+  },
+  "demographics": {
+    "male_pct": 45.5,
+    "female_pct": null,
+    "education": {
+      "小学": 8.9,
+      "初中": 17.5,
+      "高中": 13.7,
+      "大专": 6.5,
+      "本科": 46.8,
+      "硕士": 4.8,
+      "博士": 1.8
+    },
+    "has_children_pct": 58.2,
+    "no_children_pct": 41.8
+  },
+  "scraped_at": "2026-07-31T11:42:20.048Z",
+  "nearby_restaurants": [
+    {
+      "brand": "瑞幸咖啡(宝龙·旭辉广场店)",
+      "address": "周家嘴路3628号环创中心F栋一层003室",
+      "distance": "13m"
+    },
+    {
+      "brand": "蜀六婆婆老砂锅",
+      "address": "周家嘴路3608号宝龙旭辉广场",
+      "distance": "16m"
+    },
+    {
+      "brand": "王春春鸡汤饭(宝龙旭辉广场店)",
+      "address": "周家嘴路3608号地下一层M-B1-009商铺",
+      "distance": "17m"
+    },
+    {
+      "brand": "煲仔皇(宝龙旭辉店)",
+      "address": "周家嘴路3608号宝龙旭辉广场B1层",
+      "distance": "18m"
+    },
+    {
+      "brand": "米陀饭团(杨浦宝龙旭辉店)",
+      "address": "周家嘴路3608宝龙旭辉广场负一层DB1012号铺",
+      "distance": "21m"
+    },
+    {
+      "brand": "艾宴氏·签签旋转火锅(宝龙旭辉店)",
+      "address": "周家嘴路3608号宝龙旭辉广场B1层",
+      "distance": "22m"
+    },
+    {
+      "brand": "杨国福麻辣烫(杨浦宝龙旭辉店)",
+      "address": "周家嘴路3608号宝龙旭辉广场1F层M-B1-055商铺",
+      "distance": "22m"
+    },
+    {
+      "brand": "刘关张把子肉(宝龙旭辉广场店)",
+      "address": "周家嘴路3608号宝龙旭辉广场B1层",
+      "distance": "24m"
+    },
+    {
+      "brand": "不二烫捞麻辣烫(宝龙旭辉店)",
+      "address": "周家嘴路3608号宝龙旭辉广场B1层",
+      "distance": "26m"
+    },
+    {
+      "brand": "椒锅锅·麻辣香锅(宝龙旭辉广场店)",
+      "address": "周家嘴路3608号宝龙旭辉广场B1层",
+      "distance": "27m"
+    },
+    {
+      "brand": "瑞幸咖啡(宝龙·旭辉广场店)",
+      "address": "周家嘴路3628号环创中心F栋一层003室",
+      "distance": "13m"
+    },
+    {
+      "brand": "蜀六婆婆老砂锅",
+      "address": "周家嘴路3608号宝龙旭辉广场",
+      "distance": "16m"
+    },
+    {
+      "brand": "王春春鸡汤饭(宝龙旭辉广场店)",
+      "address": "周家嘴路3608号地下一层M-B1-009商铺",
+      "distance": "17m"
+    },
+    {
+      "brand": "煲仔皇(宝龙旭辉店)",
+      "address": "周家嘴路3608号宝龙旭辉广场B1层",
+      "distance": "18m"
+    },
+    {
+      "brand": "米陀饭团(杨浦宝龙旭辉店)",
+      "address": "周家嘴路3608宝龙旭辉广场负一层DB1012号铺",
+      "distance": "21m"
+    },
+    {
+      "brand": "艾宴氏·签签旋转火锅(宝龙旭辉店)",
+      "address": "周家嘴路3608号宝龙旭辉广场B1层",
+      "distance": "22m"
+    },
+    {
+      "brand": "杨国福麻辣烫(杨浦宝龙旭辉店)",
+      "address": "周家嘴路3608号宝龙旭辉广场1F层M-B1-055商铺",
+      "distance": "22m"
+    },
+    {
+      "brand": "刘关张把子肉(宝龙旭辉广场店)",
+      "address": "周家嘴路3608号宝龙旭辉广场B1层",
+      "distance": "24m"
+    },
+    {
+      "brand": "不二烫捞麻辣烫(宝龙旭辉店)",
+      "address": "周家嘴路3608号宝龙旭辉广场B1层",
+      "distance": "26m"
+    },
+    {
+      "brand": "椒锅锅·麻辣香锅(宝龙旭辉广场店)",
+      "address": "周家嘴路3608号宝龙旭辉广场B1层",
+      "distance": "27m"
+    },
+    {
+      "brand": "瑞幸咖啡(宝龙·旭辉广场店)",
+      "address": "周家嘴路3628号环创中心F栋一层003室",
+      "distance": "13m"
+    },
+    {
+      "brand": "蜀六婆婆老砂锅",
+      "address": "周家嘴路3608号宝龙旭辉广场",
+      "distance": "16m"
+    },
+    {
+      "brand": "王春春鸡汤饭(宝龙旭辉广场店)",
+      "address": "周家嘴路3608号地下一层M-B1-009商铺",
+      "distance": "17m"
+    },
+    {
+      "brand": "煲仔皇(宝龙旭辉店)",
+      "address": "周家嘴路3608号宝龙旭辉广场B1层",
+      "distance": "18m"
+    },
+    {
+      "brand": "米陀饭团(杨浦宝龙旭辉店)",
+      "address": "周家嘴路3608宝龙旭辉广场负一层DB1012号铺",
+      "distance": "21m"
+    },
+    {
+      "brand": "艾宴氏·签签旋转火锅(宝龙旭辉店)",
+      "address": "周家嘴路3608号宝龙旭辉广场B1层",
+      "distance": "22m"
+    },
+    {
+      "brand": "杨国福麻辣烫(杨浦宝龙旭辉店)",
+      "address": "周家嘴路3608号宝龙旭辉广场1F层M-B1-055商铺",
+      "distance": "22m"
+    },
+    {
+      "brand": "刘关张把子肉(宝龙旭辉广场店)",
+      "address": "周家嘴路3608号宝龙旭辉广场B1层",
+      "distance": "24m"
+    },
+    {
+      "brand": "不二烫捞麻辣烫(宝龙旭辉店)",
+      "address": "周家嘴路3608号宝龙旭辉广场B1层",
+      "distance": "26m"
+    },
+    {
+      "brand": "椒锅锅·麻辣香锅(宝龙旭辉广场店)",
+      "address": "周家嘴路3608号宝龙旭辉广场B1层",
+      "distance": "27m"
+    },
+    {
+      "brand": "瑞幸咖啡(宝龙·旭辉广场店)",
+      "address": "周家嘴路3628号环创中心F栋一层003室",
+      "distance": "13m"
+    },
+    {
+      "brand": "蜀六婆婆老砂锅",
+      "address": "周家嘴路3608号宝龙旭辉广场",
+      "distance": "16m"
+    },
+    {
+      "brand": "王春春鸡汤饭(宝龙旭辉广场店)",
+      "address": "周家嘴路3608号地下一层M-B1-009商铺",
+      "distance": "17m"
+    },
+    {
+      "brand": "煲仔皇(宝龙旭辉店)",
+      "address": "周家嘴路3608号宝龙旭辉广场B1层",
+      "distance": "18m"
+    },
+    {
+      "brand": "米陀饭团(杨浦宝龙旭辉店)",
+      "address": "周家嘴路3608宝龙旭辉广场负一层DB1012号铺",
+      "distance": "21m"
+    },
+    {
+      "brand": "艾宴氏·签签旋转火锅(宝龙旭辉店)",
+      "address": "周家嘴路3608号宝龙旭辉广场B1层",
+      "distance": "22m"
+    },
+    {
+      "brand": "杨国福麻辣烫(杨浦宝龙旭辉店)",
+      "address": "周家嘴路3608号宝龙旭辉广场1F层M-B1-055商铺",
+      "distance": "22m"
+    },
+    {
+      "brand": "刘关张把子肉(宝龙旭辉广场店)",
+      "address": "周家嘴路3608号宝龙旭辉广场B1层",
+      "distance": "24m"
+    },
+    {
+      "brand": "不二烫捞麻辣烫(宝龙旭辉店)",
+      "address": "周家嘴路3608号宝龙旭辉广场B1层",
+      "distance": "26m"
+    },
+    {
+      "brand": "椒锅锅·麻辣香锅(宝龙旭辉广场店)",
+      "address": "周家嘴路3608号宝龙旭辉广场B1层",
+      "distance": "27m"
+    },
+    {
+      "brand": "瑞幸咖啡(宝龙·旭辉广场店)",
+      "address": "周家嘴路3628号环创中心F栋一层003室",
+      "distance": "13m"
+    },
+    {
+      "brand": "蜀六婆婆老砂锅",
+      "address": "周家嘴路3608号宝龙旭辉广场",
+      "distance": "16m"
+    },
+    {
+      "brand": "王春春鸡汤饭(宝龙旭辉广场店)",
+      "address": "周家嘴路3608号地下一层M-B1-009商铺",
+      "distance": "17m"
+    },
+    {
+      "brand": "煲仔皇(宝龙旭辉店)",
+      "address": "周家嘴路3608号宝龙旭辉广场B1层",
+      "distance": "18m"
+    },
+    {
+      "brand": "米陀饭团(杨浦宝龙旭辉店)",
+      "address": "周家嘴路3608宝龙旭辉广场负一层DB1012号铺",
+      "distance": "21m"
+    },
+    {
+      "brand": "艾宴氏·签签旋转火锅(宝龙旭辉店)",
+      "address": "周家嘴路3608号宝龙旭辉广场B1层",
+      "distance": "22m"
+    },
+    {
+      "brand": "杨国福麻辣烫(杨浦宝龙旭辉店)",
+      "address": "周家嘴路3608号宝龙旭辉广场1F层M-B1-055商铺",
+      "distance": "22m"
+    },
+    {
+      "brand": "刘关张把子肉(宝龙旭辉广场店)",
+      "address": "周家嘴路3608号宝龙旭辉广场B1层",
+      "distance": "24m"
+    },
+    {
+      "brand": "不二烫捞麻辣烫(宝龙旭辉店)",
+      "address": "周家嘴路3608号宝龙旭辉广场B1层",
+      "distance": "26m"
+    },
+    {
+      "brand": "椒锅锅·麻辣香锅(宝龙旭辉广场店)",
+      "address": "周家嘴路3608号宝龙旭辉广场B1层",
+      "distance": "27m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海七巧国",
+      "open_date": "2015-08-20",
+      "area": "2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海阳普邻里·小世界",
+      "open_date": "2021-01-01",
+      "area": "5700㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海百联滨江购物中心",
+      "open_date": "2014-11-22",
+      "area": "6万㎡",
+      "jun_daily_avg": "2.1万人次",
+      "weekday_avg": "2万人次",
+      "holiday_avg": "2.2万人次"
+    },
+    {
+      "name": "上海国际时尚中心",
+      "open_date": "2010-01-01",
+      "area": "13万㎡",
+      "jun_daily_avg": "1.3万人次",
+      "weekday_avg": "1.1万人次",
+      "holiday_avg": "1.8万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 80.0,
+      "within_1yr_pct": 23.8,
+      "1_3yr_pct": 32.5,
+      "over_3yr_pct": 43.8
+    },
+    {
+      "type": "购物",
+      "count": 16.0,
+      "within_1yr_pct": 37.5,
+      "1_3yr_pct": 12.5,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 4.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 75.0,
+      "over_3yr_pct": 25.0
+    },
+    {
+      "type": "教育培训",
+      "count": 4.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 75.0
+    },
+    {
+      "type": "生活服务",
+      "count": 16.0,
+      "within_1yr_pct": 31.3,
+      "1_3yr_pct": 43.8,
+      "over_3yr_pct": 25.0
+    },
+    {
+      "type": "运动健身",
+      "count": 6.0,
+      "within_1yr_pct": 16.7,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 33.3
+    },
+    {
+      "type": "车辆服务",
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 50.0
+    }
+  ]
+}

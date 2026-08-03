@@ -1,0 +1,154 @@
+{
+  "name": "城开优享+",
+  "city": "上海市",
+  "address": "上海市黄浦区南京东路街道人民公园-张思德像",
+  "lat": 31.232852,
+  "lng": 121.473763,
+  "overview": {
+    "score": 89.3,
+    "score_rank": "市内前30%",
+    "population_score": 86.0,
+    "area_score": 100.0,
+    "consumption_score": 88.5,
+    "industry_score": 89.3,
+    "annual_sales": "",
+    "annual_sales_unit": "",
+    "area_size_sqm": null,
+    "open_date": "",
+    "operator": "",
+    "brand": "",
+    "type": "",
+    "floors": ""
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "",
+    "annual_daily_rank": "",
+    "jun_total": null,
+    "jun_total_rank": "",
+    "jun_daily_avg": null,
+    "jun_daily_unit": "",
+    "jun_daily_rank": "",
+    "weekday_avg": null,
+    "weekday_unit": "",
+    "weekday_rank": "",
+    "holiday_avg": null,
+    "holiday_unit": "",
+    "holiday_rank": ""
+  },
+  "population": {
+    "residential": {
+      "500m": 2.0,
+      "1_5km": 19.9,
+      "3km": 82.7
+    },
+    "office": {
+      "500m": 5.5,
+      "1_5km": 35.7,
+      "3km": 111.2
+    },
+    "permanent": {
+      "500m": 4.5,
+      "1_5km": 28.2,
+      "3km": 106.5
+    }
+  },
+  "business": {
+    "competitors": 30.0,
+    "food": 759.0,
+    "shopping": 877.0,
+    "leisure": 178.0,
+    "education": 51.0,
+    "hotel": 147.0,
+    "services": 279.0,
+    "fitness": 23.0,
+    "auto": 45.0,
+    "total_stores": 2389.0,
+    "old_store_3yr_pct": 49.0
+  },
+  "nearby_poi": {
+    "business": 40.0,
+    "community": 975.0,
+    "office": 243.0,
+    "school": 49.0,
+    "hospital": 205.0,
+    "transport": 23.0,
+    "scenic": 1048.0
+  },
+  "demographics": {
+    "male_pct": 47.3,
+    "female_pct": null,
+    "education": {
+      "小学": 9.3,
+      "初中": 16.9,
+      "高中": 11.4,
+      "大专": 7.0,
+      "本科": 47.7,
+      "硕士": 6.0,
+      "博士": 1.7
+    },
+    "has_children_pct": null,
+    "no_children_pct": null
+  },
+  "scraped_at": "2026-08-02T03:34:06.879Z",
+  "nearby_restaurants": [],
+  "nearby_malls": [],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 759.0,
+      "within_1yr_pct": 23.7,
+      "1_3yr_pct": 25.8,
+      "over_3yr_pct": 50.5
+    },
+    {
+      "type": "购物",
+      "count": 877.0,
+      "within_1yr_pct": 20.9,
+      "1_3yr_pct": 26.8,
+      "over_3yr_pct": 52.3
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 208.0,
+      "within_1yr_pct": 27.9,
+      "1_3yr_pct": 39.4,
+      "over_3yr_pct": 32.7
+    },
+    {
+      "type": "教育培训",
+      "count": 51.0,
+      "within_1yr_pct": 23.5,
+      "1_3yr_pct": 43.1,
+      "over_3yr_pct": 33.3
+    },
+    {
+      "type": "酒店住宿",
+      "count": 147.0,
+      "within_1yr_pct": 29.9,
+      "1_3yr_pct": 22.4,
+      "over_3yr_pct": 47.6
+    },
+    {
+      "type": "生活服务",
+      "count": 279.0,
+      "within_1yr_pct": 26.5,
+      "1_3yr_pct": 27.2,
+      "over_3yr_pct": 46.2
+    },
+    {
+      "type": "运动健身",
+      "count": 23.0,
+      "within_1yr_pct": 13.0,
+      "1_3yr_pct": 39.1,
+      "over_3yr_pct": 47.8
+    },
+    {
+      "type": "车辆服务",
+      "count": 45.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 31.1,
+      "over_3yr_pct": 48.9
+    }
+  ]
+}

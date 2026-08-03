@@ -1,0 +1,422 @@
+{
+  "name": "恒生商业广场",
+  "city": "上海市",
+  "address": "上海市浦东新区高科东路500号",
+  "lat": 31.21056,
+  "lng": 121.652719,
+  "overview": {
+    "score": 92.0,
+    "score_rank": "市内前30%",
+    "population_score": 77.9,
+    "area_score": 74.9,
+    "consumption_score": 71.5,
+    "industry_score": 92.1,
+    "annual_sales": "恒生万鹂商业广场位于高科东路唐陆公路交汇处，毗邻轨道交通2号线唐镇站，商场约5.8，包括大型高端购物中心、家乐福超市、保利影院等",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 5.8,
+    "open_date": "2019-05-27",
+    "operator": "上海恒谷置业有限公司",
+    "brand": "",
+    "type": "亲子型",
+    "floors": "B2-L4"
+  },
+  "traffic": {
+    "annual_daily": 1.52,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第174",
+    "jun_total": 48.9,
+    "jun_total_rank": "市内商场第220名",
+    "jun_daily_avg": 1.6,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第220名",
+    "weekday_avg": 1.4,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第233名",
+    "holiday_avg": 2.3,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第192名"
+  },
+  "population": {
+    "residential": {
+      "500m": 1.3,
+      "1_5km": 10.4,
+      "3km": 32.7
+    },
+    "office": {
+      "500m": 7700.0,
+      "1_5km": 3.2,
+      "3km": 20.9
+    },
+    "permanent": {
+      "500m": 1.6,
+      "1_5km": 9.2,
+      "3km": 28.4
+    }
+  },
+  "business": {
+    "competitors": 4.0,
+    "food": 172.0,
+    "shopping": 136.0,
+    "leisure": 21.0,
+    "education": 42.0,
+    "hotel": 63.0,
+    "services": 148.0,
+    "fitness": 23.0,
+    "auto": 23.0,
+    "total_stores": 151.0,
+    "old_store_3yr_pct": 57.0
+  },
+  "nearby_poi": {
+    "business": 2.0,
+    "community": 126.0,
+    "office": 5.0,
+    "school": 13.0,
+    "hospital": 18.0,
+    "transport": 8.0,
+    "scenic": 50.0
+  },
+  "demographics": {
+    "male_pct": 48.8,
+    "female_pct": null,
+    "education": {
+      "小学": 8.4,
+      "初中": 15.4,
+      "高中": 10.2,
+      "大专": 8.7,
+      "本科": 46.7,
+      "硕士": 9.1,
+      "博士": 1.5
+    },
+    "has_children_pct": 63.5,
+    "no_children_pct": 36.5
+  },
+  "scraped_at": "2026-08-02T02:29:32.980Z",
+  "nearby_restaurants": [
+    {
+      "brand": "禧仓东南亚融合菜(恒生万鹂广场店)",
+      "address": "高科东路515弄27号",
+      "distance": "30m"
+    },
+    {
+      "brand": "荆九爷爆炒桥头三嫩(唐镇店)",
+      "address": "高科东路515弄23号恒生万鹂广场北面小洋房",
+      "distance": "36m"
+    },
+    {
+      "brand": "憨FU台湾食堂(唐镇恒生万鹂店)",
+      "address": "高科东路515弄2号恒生万鹂广场一层104-2-A室",
+      "distance": "39m"
+    },
+    {
+      "brand": "大吉炙(恒生万鹂广场店)",
+      "address": "唐镇高科东路515弄恒生万鹂广场27号独栋楼大吉炙日式烧肉",
+      "distance": "40m"
+    },
+    {
+      "brand": "裕四楼海鲜火锅(恒生万鹂广场店)",
+      "address": "宝燕商城(唐镇店)",
+      "distance": "60m"
+    },
+    {
+      "brand": "嗦粉儿·瓦罐鲜汤爆肚粉(唐镇店)",
+      "address": "高科东路515弄1、24号B1层B1-103室D16号",
+      "distance": "60m"
+    },
+    {
+      "brand": "七欣天(浦东恒生万鹂店)",
+      "address": "高科东路恒生万鹂广场2号1层113-114室",
+      "distance": "62m"
+    },
+    {
+      "brand": "粥皇港式茶餐厅(恒生万鹂店)",
+      "address": "高科东路与唐陆公路交叉口西140米",
+      "distance": "62m"
+    },
+    {
+      "brand": "Manner Coffee",
+      "address": "高科东路与唐安路交叉口东北160米",
+      "distance": "62m"
+    },
+    {
+      "brand": "曹氏鸭脖(唐镇店)",
+      "address": "唐镇高科东路恒生万鹂515弄负一楼b1-C05室",
+      "distance": "62m"
+    },
+    {
+      "brand": "禧仓东南亚融合菜(恒生万鹂广场店)",
+      "address": "高科东路515弄27号",
+      "distance": "30m"
+    },
+    {
+      "brand": "荆九爷爆炒桥头三嫩(唐镇店)",
+      "address": "高科东路515弄23号恒生万鹂广场北面小洋房",
+      "distance": "36m"
+    },
+    {
+      "brand": "憨FU台湾食堂(唐镇恒生万鹂店)",
+      "address": "高科东路515弄2号恒生万鹂广场一层104-2-A室",
+      "distance": "39m"
+    },
+    {
+      "brand": "大吉炙(恒生万鹂广场店)",
+      "address": "唐镇高科东路515弄恒生万鹂广场27号独栋楼大吉炙日式烧肉",
+      "distance": "40m"
+    },
+    {
+      "brand": "裕四楼海鲜火锅(恒生万鹂广场店)",
+      "address": "宝燕商城(唐镇店)",
+      "distance": "60m"
+    },
+    {
+      "brand": "嗦粉儿·瓦罐鲜汤爆肚粉(唐镇店)",
+      "address": "高科东路515弄1、24号B1层B1-103室D16号",
+      "distance": "60m"
+    },
+    {
+      "brand": "七欣天(浦东恒生万鹂店)",
+      "address": "高科东路恒生万鹂广场2号1层113-114室",
+      "distance": "62m"
+    },
+    {
+      "brand": "粥皇港式茶餐厅(恒生万鹂店)",
+      "address": "高科东路与唐陆公路交叉口西140米",
+      "distance": "62m"
+    },
+    {
+      "brand": "Manner Coffee",
+      "address": "高科东路与唐安路交叉口东北160米",
+      "distance": "62m"
+    },
+    {
+      "brand": "曹氏鸭脖(唐镇店)",
+      "address": "唐镇高科东路恒生万鹂515弄负一楼b1-C05室",
+      "distance": "62m"
+    },
+    {
+      "brand": "禧仓东南亚融合菜(恒生万鹂广场店)",
+      "address": "高科东路515弄27号",
+      "distance": "30m"
+    },
+    {
+      "brand": "荆九爷爆炒桥头三嫩(唐镇店)",
+      "address": "高科东路515弄23号恒生万鹂广场北面小洋房",
+      "distance": "36m"
+    },
+    {
+      "brand": "憨FU台湾食堂(唐镇恒生万鹂店)",
+      "address": "高科东路515弄2号恒生万鹂广场一层104-2-A室",
+      "distance": "39m"
+    },
+    {
+      "brand": "大吉炙(恒生万鹂广场店)",
+      "address": "唐镇高科东路515弄恒生万鹂广场27号独栋楼大吉炙日式烧肉",
+      "distance": "40m"
+    },
+    {
+      "brand": "裕四楼海鲜火锅(恒生万鹂广场店)",
+      "address": "宝燕商城(唐镇店)",
+      "distance": "60m"
+    },
+    {
+      "brand": "嗦粉儿·瓦罐鲜汤爆肚粉(唐镇店)",
+      "address": "高科东路515弄1、24号B1层B1-103室D16号",
+      "distance": "60m"
+    },
+    {
+      "brand": "七欣天(浦东恒生万鹂店)",
+      "address": "高科东路恒生万鹂广场2号1层113-114室",
+      "distance": "62m"
+    },
+    {
+      "brand": "粥皇港式茶餐厅(恒生万鹂店)",
+      "address": "高科东路与唐陆公路交叉口西140米",
+      "distance": "62m"
+    },
+    {
+      "brand": "Manner Coffee",
+      "address": "高科东路与唐安路交叉口东北160米",
+      "distance": "62m"
+    },
+    {
+      "brand": "曹氏鸭脖(唐镇店)",
+      "address": "唐镇高科东路恒生万鹂515弄负一楼b1-C05室",
+      "distance": "62m"
+    },
+    {
+      "brand": "禧仓东南亚融合菜(恒生万鹂广场店)",
+      "address": "高科东路515弄27号",
+      "distance": "30m"
+    },
+    {
+      "brand": "荆九爷爆炒桥头三嫩(唐镇店)",
+      "address": "高科东路515弄23号恒生万鹂广场北面小洋房",
+      "distance": "36m"
+    },
+    {
+      "brand": "憨FU台湾食堂(唐镇恒生万鹂店)",
+      "address": "高科东路515弄2号恒生万鹂广场一层104-2-A室",
+      "distance": "39m"
+    },
+    {
+      "brand": "大吉炙(恒生万鹂广场店)",
+      "address": "唐镇高科东路515弄恒生万鹂广场27号独栋楼大吉炙日式烧肉",
+      "distance": "40m"
+    },
+    {
+      "brand": "裕四楼海鲜火锅(恒生万鹂广场店)",
+      "address": "宝燕商城(唐镇店)",
+      "distance": "60m"
+    },
+    {
+      "brand": "嗦粉儿·瓦罐鲜汤爆肚粉(唐镇店)",
+      "address": "高科东路515弄1、24号B1层B1-103室D16号",
+      "distance": "60m"
+    },
+    {
+      "brand": "七欣天(浦东恒生万鹂店)",
+      "address": "高科东路恒生万鹂广场2号1层113-114室",
+      "distance": "62m"
+    },
+    {
+      "brand": "粥皇港式茶餐厅(恒生万鹂店)",
+      "address": "高科东路与唐陆公路交叉口西140米",
+      "distance": "62m"
+    },
+    {
+      "brand": "Manner Coffee",
+      "address": "高科东路与唐安路交叉口东北160米",
+      "distance": "62m"
+    },
+    {
+      "brand": "曹氏鸭脖(唐镇店)",
+      "address": "唐镇高科东路恒生万鹂515弄负一楼b1-C05室",
+      "distance": "62m"
+    },
+    {
+      "brand": "禧仓东南亚融合菜(恒生万鹂广场店)",
+      "address": "高科东路515弄27号",
+      "distance": "30m"
+    },
+    {
+      "brand": "荆九爷爆炒桥头三嫩(唐镇店)",
+      "address": "高科东路515弄23号恒生万鹂广场北面小洋房",
+      "distance": "36m"
+    },
+    {
+      "brand": "憨FU台湾食堂(唐镇恒生万鹂店)",
+      "address": "高科东路515弄2号恒生万鹂广场一层104-2-A室",
+      "distance": "39m"
+    },
+    {
+      "brand": "大吉炙(恒生万鹂广场店)",
+      "address": "唐镇高科东路515弄恒生万鹂广场27号独栋楼大吉炙日式烧肉",
+      "distance": "40m"
+    },
+    {
+      "brand": "裕四楼海鲜火锅(恒生万鹂广场店)",
+      "address": "宝燕商城(唐镇店)",
+      "distance": "60m"
+    },
+    {
+      "brand": "嗦粉儿·瓦罐鲜汤爆肚粉(唐镇店)",
+      "address": "高科东路515弄1、24号B1层B1-103室D16号",
+      "distance": "60m"
+    },
+    {
+      "brand": "七欣天(浦东恒生万鹂店)",
+      "address": "高科东路恒生万鹂广场2号1层113-114室",
+      "distance": "62m"
+    },
+    {
+      "brand": "粥皇港式茶餐厅(恒生万鹂店)",
+      "address": "高科东路与唐陆公路交叉口西140米",
+      "distance": "62m"
+    },
+    {
+      "brand": "Manner Coffee",
+      "address": "高科东路与唐安路交叉口东北160米",
+      "distance": "62m"
+    },
+    {
+      "brand": "曹氏鸭脖(唐镇店)",
+      "address": "唐镇高科东路恒生万鹂515弄负一楼b1-C05室",
+      "distance": "62m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海阳光天地(唐镇店)",
+      "open_date": "2017-12-06",
+      "area": "6.6万㎡",
+      "jun_daily_avg": "4.6万人次",
+      "weekday_avg": "4.3万人次",
+      "holiday_avg": "5.1万人次"
+    },
+    {
+      "name": "上海张江大橘天地",
+      "open_date": "2024-11-29",
+      "area": "2万㎡",
+      "jun_daily_avg": "1.4万人次",
+      "weekday_avg": "1.3万人次",
+      "holiday_avg": "1.5万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 56.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 17.9,
+      "over_3yr_pct": 57.1
+    },
+    {
+      "type": "购物",
+      "count": 26.0,
+      "within_1yr_pct": 7.7,
+      "1_3yr_pct": 30.8,
+      "over_3yr_pct": 61.5
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 7.0,
+      "within_1yr_pct": 28.6,
+      "1_3yr_pct": 42.9,
+      "over_3yr_pct": 28.6
+    },
+    {
+      "type": "教育培训",
+      "count": 16.0,
+      "within_1yr_pct": 6.3,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 68.8
+    },
+    {
+      "type": "酒店住宿",
+      "count": 4.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 75.0
+    },
+    {
+      "type": "生活服务",
+      "count": 30.0,
+      "within_1yr_pct": 23.3,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 43.3
+    },
+    {
+      "type": "运动健身",
+      "count": 6.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 16.7,
+      "over_3yr_pct": 83.3
+    },
+    {
+      "type": "车辆服务",
+      "count": 6.0,
+      "within_1yr_pct": 16.7,
+      "1_3yr_pct": 16.7,
+      "over_3yr_pct": 66.7
+    }
+  ]
+}

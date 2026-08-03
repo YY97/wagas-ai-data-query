@@ -1,0 +1,486 @@
+{
+  "name": "平安金融中心PAFCmall",
+  "city": "深圳市",
+  "address": "广东省深圳市福田区益田路6053号",
+  "lat": 22.53318,
+  "lng": 114.055639,
+  "overview": {
+    "score": 93.8,
+    "score_rank": "市内前30%",
+    "population_score": 71.9,
+    "area_score": 91.6,
+    "consumption_score": 89.0,
+    "industry_score": 93.9,
+    "annual_sales": "7000",
+    "annual_sales_unit": "万元",
+    "area_size_sqm": 8.0,
+    "open_date": "2019-12-01",
+    "operator": "华润万象生活有限公司",
+    "brand": "华润",
+    "type": "美食型",
+    "floors": "B1-L9"
+  },
+  "traffic": {
+    "annual_daily": 3.8,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第44",
+    "jun_total": 160.2,
+    "jun_total_rank": "市内商场第48名",
+    "jun_daily_avg": 5.3,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第48名",
+    "weekday_avg": 5.8,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第36名",
+    "holiday_avg": 4.1,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第78名"
+  },
+  "population": {
+    "residential": {
+      "500m": 1.5,
+      "1_5km": 28.4,
+      "3km": 112.5
+    },
+    "office": {
+      "500m": 8.2,
+      "1_5km": 34.7,
+      "3km": 79.0
+    },
+    "permanent": {
+      "500m": 4.9,
+      "1_5km": 32.5,
+      "3km": 107.9
+    }
+  },
+  "business": {
+    "competitors": 18.0,
+    "food": 711.0,
+    "shopping": 550.0,
+    "leisure": 60.0,
+    "education": 32.0,
+    "hotel": 17.0,
+    "services": 315.0,
+    "fitness": 48.0,
+    "auto": 65.0,
+    "total_stores": 203.0,
+    "old_store_3yr_pct": 33.0
+  },
+  "nearby_poi": {
+    "business": 13.0,
+    "community": 459.0,
+    "office": 138.0,
+    "school": 39.0,
+    "hospital": 197.0,
+    "transport": 24.0,
+    "scenic": 248.0
+  },
+  "demographics": {
+    "male_pct": 48.6,
+    "female_pct": null,
+    "education": {
+      "小学": 11.1,
+      "初中": 19.0,
+      "高中": 11.2,
+      "大专": 9.3,
+      "本科": 44.0,
+      "硕士": 4.6,
+      "博士": 0.8
+    },
+    "has_children_pct": 58.0,
+    "no_children_pct": 42.0
+  },
+  "scraped_at": "2026-08-02T10:14:41.403Z",
+  "nearby_restaurants": [
+    {
+      "brand": "MR.WALDEN COFFEE(平安金融中心店)",
+      "address": "福田街道益田路5033号平安金融中心(北塔)LG层N101商铺",
+      "distance": "9m"
+    },
+    {
+      "brand": "Manner Coffee(平安金融中心店)",
+      "address": "益田路与福田中心三路交叉口西80米",
+      "distance": "10m"
+    },
+    {
+      "brand": "老乾杯(PA MALL平安金融中心店)",
+      "address": "益田路5033号平安金融中心商场7楼北塔(A座)",
+      "distance": "13m"
+    },
+    {
+      "brand": "莫尔顿扒房(PA MALL平安金融中心店)",
+      "address": "福田街道益田路5033号平安金融中心北塔L701号",
+      "distance": "14m"
+    },
+    {
+      "brand": "BELLOCO倍乐(平安金融中心店)",
+      "address": "益田路5033号(PAFC MALL)3楼NL301号",
+      "distance": "15m"
+    },
+    {
+      "brand": "大食代(PA MALL 平安金融中心店)",
+      "address": "益田路5033号平安金融中心店3楼",
+      "distance": "16m"
+    },
+    {
+      "brand": "深圳市超味饭点餐饮有限公司地王大厦分店",
+      "address": "益田路5033号PA MALL平安金融中心",
+      "distance": "18m"
+    },
+    {
+      "brand": "喜公馆(平安金融中心店)",
+      "address": "福田街道福安社区益田路5033号平安金融中心N408",
+      "distance": "19m"
+    },
+    {
+      "brand": "包老爷手工拉面小笼包(平安金融中心店)",
+      "address": "益田路5033号平安金融中心A座B1层B130",
+      "distance": "20m"
+    },
+    {
+      "brand": "CHIC1699远洋私厨(平安金融中心店)",
+      "address": "益田路5033号平安金融中心北塔L5层1699远洋私厨",
+      "distance": "21m"
+    },
+    {
+      "brand": "MR.WALDEN COFFEE(平安金融中心店)",
+      "address": "福田街道益田路5033号平安金融中心(北塔)LG层N101商铺",
+      "distance": "9m"
+    },
+    {
+      "brand": "Manner Coffee(平安金融中心店)",
+      "address": "益田路与福田中心三路交叉口西80米",
+      "distance": "10m"
+    },
+    {
+      "brand": "老乾杯(PA MALL平安金融中心店)",
+      "address": "益田路5033号平安金融中心商场7楼北塔(A座)",
+      "distance": "13m"
+    },
+    {
+      "brand": "莫尔顿扒房(PA MALL平安金融中心店)",
+      "address": "福田街道益田路5033号平安金融中心北塔L701号",
+      "distance": "14m"
+    },
+    {
+      "brand": "BELLOCO倍乐(平安金融中心店)",
+      "address": "益田路5033号(PAFC MALL)3楼NL301号",
+      "distance": "15m"
+    },
+    {
+      "brand": "大食代(PA MALL 平安金融中心店)",
+      "address": "益田路5033号平安金融中心店3楼",
+      "distance": "16m"
+    },
+    {
+      "brand": "深圳市超味饭点餐饮有限公司地王大厦分店",
+      "address": "益田路5033号PA MALL平安金融中心",
+      "distance": "18m"
+    },
+    {
+      "brand": "喜公馆(平安金融中心店)",
+      "address": "福田街道福安社区益田路5033号平安金融中心N408",
+      "distance": "19m"
+    },
+    {
+      "brand": "包老爷手工拉面小笼包(平安金融中心店)",
+      "address": "益田路5033号平安金融中心A座B1层B130",
+      "distance": "20m"
+    },
+    {
+      "brand": "CHIC1699远洋私厨(平安金融中心店)",
+      "address": "益田路5033号平安金融中心北塔L5层1699远洋私厨",
+      "distance": "21m"
+    },
+    {
+      "brand": "MR.WALDEN COFFEE(平安金融中心店)",
+      "address": "福田街道益田路5033号平安金融中心(北塔)LG层N101商铺",
+      "distance": "9m"
+    },
+    {
+      "brand": "Manner Coffee(平安金融中心店)",
+      "address": "益田路与福田中心三路交叉口西80米",
+      "distance": "10m"
+    },
+    {
+      "brand": "老乾杯(PA MALL平安金融中心店)",
+      "address": "益田路5033号平安金融中心商场7楼北塔(A座)",
+      "distance": "13m"
+    },
+    {
+      "brand": "莫尔顿扒房(PA MALL平安金融中心店)",
+      "address": "福田街道益田路5033号平安金融中心北塔L701号",
+      "distance": "14m"
+    },
+    {
+      "brand": "BELLOCO倍乐(平安金融中心店)",
+      "address": "益田路5033号(PAFC MALL)3楼NL301号",
+      "distance": "15m"
+    },
+    {
+      "brand": "大食代(PA MALL 平安金融中心店)",
+      "address": "益田路5033号平安金融中心店3楼",
+      "distance": "16m"
+    },
+    {
+      "brand": "深圳市超味饭点餐饮有限公司地王大厦分店",
+      "address": "益田路5033号PA MALL平安金融中心",
+      "distance": "18m"
+    },
+    {
+      "brand": "喜公馆(平安金融中心店)",
+      "address": "福田街道福安社区益田路5033号平安金融中心N408",
+      "distance": "19m"
+    },
+    {
+      "brand": "包老爷手工拉面小笼包(平安金融中心店)",
+      "address": "益田路5033号平安金融中心A座B1层B130",
+      "distance": "20m"
+    },
+    {
+      "brand": "CHIC1699远洋私厨(平安金融中心店)",
+      "address": "益田路5033号平安金融中心北塔L5层1699远洋私厨",
+      "distance": "21m"
+    },
+    {
+      "brand": "MR.WALDEN COFFEE(平安金融中心店)",
+      "address": "福田街道益田路5033号平安金融中心(北塔)LG层N101商铺",
+      "distance": "9m"
+    },
+    {
+      "brand": "Manner Coffee(平安金融中心店)",
+      "address": "益田路与福田中心三路交叉口西80米",
+      "distance": "10m"
+    },
+    {
+      "brand": "老乾杯(PA MALL平安金融中心店)",
+      "address": "益田路5033号平安金融中心商场7楼北塔(A座)",
+      "distance": "13m"
+    },
+    {
+      "brand": "莫尔顿扒房(PA MALL平安金融中心店)",
+      "address": "福田街道益田路5033号平安金融中心北塔L701号",
+      "distance": "14m"
+    },
+    {
+      "brand": "BELLOCO倍乐(平安金融中心店)",
+      "address": "益田路5033号(PAFC MALL)3楼NL301号",
+      "distance": "15m"
+    },
+    {
+      "brand": "大食代(PA MALL 平安金融中心店)",
+      "address": "益田路5033号平安金融中心店3楼",
+      "distance": "16m"
+    },
+    {
+      "brand": "深圳市超味饭点餐饮有限公司地王大厦分店",
+      "address": "益田路5033号PA MALL平安金融中心",
+      "distance": "18m"
+    },
+    {
+      "brand": "喜公馆(平安金融中心店)",
+      "address": "福田街道福安社区益田路5033号平安金融中心N408",
+      "distance": "19m"
+    },
+    {
+      "brand": "包老爷手工拉面小笼包(平安金融中心店)",
+      "address": "益田路5033号平安金融中心A座B1层B130",
+      "distance": "20m"
+    },
+    {
+      "brand": "CHIC1699远洋私厨(平安金融中心店)",
+      "address": "益田路5033号平安金融中心北塔L5层1699远洋私厨",
+      "distance": "21m"
+    },
+    {
+      "brand": "MR.WALDEN COFFEE(平安金融中心店)",
+      "address": "福田街道益田路5033号平安金融中心(北塔)LG层N101商铺",
+      "distance": "9m"
+    },
+    {
+      "brand": "Manner Coffee(平安金融中心店)",
+      "address": "益田路与福田中心三路交叉口西80米",
+      "distance": "10m"
+    },
+    {
+      "brand": "老乾杯(PA MALL平安金融中心店)",
+      "address": "益田路5033号平安金融中心商场7楼北塔(A座)",
+      "distance": "13m"
+    },
+    {
+      "brand": "莫尔顿扒房(PA MALL平安金融中心店)",
+      "address": "福田街道益田路5033号平安金融中心北塔L701号",
+      "distance": "14m"
+    },
+    {
+      "brand": "BELLOCO倍乐(平安金融中心店)",
+      "address": "益田路5033号(PAFC MALL)3楼NL301号",
+      "distance": "15m"
+    },
+    {
+      "brand": "大食代(PA MALL 平安金融中心店)",
+      "address": "益田路5033号平安金融中心店3楼",
+      "distance": "16m"
+    },
+    {
+      "brand": "深圳市超味饭点餐饮有限公司地王大厦分店",
+      "address": "益田路5033号PA MALL平安金融中心",
+      "distance": "18m"
+    },
+    {
+      "brand": "喜公馆(平安金融中心店)",
+      "address": "福田街道福安社区益田路5033号平安金融中心N408",
+      "distance": "19m"
+    },
+    {
+      "brand": "包老爷手工拉面小笼包(平安金融中心店)",
+      "address": "益田路5033号平安金融中心A座B1层B130",
+      "distance": "20m"
+    },
+    {
+      "brand": "CHIC1699远洋私厨(平安金融中心店)",
+      "address": "益田路5033号平安金融中心北塔L5层1699远洋私厨",
+      "distance": "21m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "深圳福田COCO park",
+      "open_date": "2006-09-30",
+      "area": "8万㎡",
+      "jun_daily_avg": "8.2万人次",
+      "weekday_avg": "7.5万人次",
+      "holiday_avg": "10万人次"
+    },
+    {
+      "name": "深圳福田COCO Park二期",
+      "open_date": "2020-05-30",
+      "area": "4.3万㎡",
+      "jun_daily_avg": "1.9万人次",
+      "weekday_avg": "1.9万人次",
+      "holiday_avg": "2.1万人次"
+    },
+    {
+      "name": "深圳购物公园",
+      "open_date": "2006-09-30",
+      "area": "-",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "深圳皇庭广场",
+      "open_date": "2013-12-25",
+      "area": "8.1万㎡",
+      "jun_daily_avg": "7.6万人次",
+      "weekday_avg": "6.9万人次",
+      "holiday_avg": "9.4万人次"
+    },
+    {
+      "name": "深圳领展中心城",
+      "open_date": "2007-04-28",
+      "area": "13万㎡",
+      "jun_daily_avg": "6.1万人次",
+      "weekday_avg": "5.5万人次",
+      "holiday_avg": "7.6万人次"
+    },
+    {
+      "name": "深圳Galaxy·星河中心",
+      "open_date": "2008-02-01",
+      "area": "5万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "深圳大中华·HUA广场",
+      "open_date": "2005-12-18",
+      "area": "8.5万㎡",
+      "jun_daily_avg": "4.2万人次",
+      "weekday_avg": "3.7万人次",
+      "holiday_avg": "5.6万人次"
+    },
+    {
+      "name": "深圳卓越·INTOWN购物中心",
+      "open_date": "2015-01-01",
+      "area": "5万㎡",
+      "jun_daily_avg": "5.4万人次",
+      "weekday_avg": "5.6万人次",
+      "holiday_avg": "4.8万人次"
+    },
+    {
+      "name": "深圳One Avenue卓悦中心",
+      "open_date": "2019-09-28",
+      "area": "18.6万㎡",
+      "jun_daily_avg": "10.7万人次",
+      "weekday_avg": "9.7万人次",
+      "holiday_avg": "13.5万人次"
+    },
+    {
+      "name": "深圳天虹商场(福民店)",
+      "open_date": "2000-07-08",
+      "area": "3万㎡",
+      "jun_daily_avg": "2.2万人次",
+      "weekday_avg": "2.1万人次",
+      "holiday_avg": "2.5万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 76.0,
+      "within_1yr_pct": 14.5,
+      "1_3yr_pct": 43.4,
+      "over_3yr_pct": 42.1
+    },
+    {
+      "type": "购物",
+      "count": 83.0,
+      "within_1yr_pct": 20.5,
+      "1_3yr_pct": 66.3,
+      "over_3yr_pct": 13.3
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 5.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 40.0,
+      "over_3yr_pct": 40.0
+    },
+    {
+      "type": "教育培训",
+      "count": 2.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 3.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 66.7
+    },
+    {
+      "type": "生活服务",
+      "count": 26.0,
+      "within_1yr_pct": 15.4,
+      "1_3yr_pct": 23.1,
+      "over_3yr_pct": 61.5
+    },
+    {
+      "type": "运动健身",
+      "count": 7.0,
+      "within_1yr_pct": 28.6,
+      "1_3yr_pct": 28.6,
+      "over_3yr_pct": 42.9
+    },
+    {
+      "type": "车辆服务",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
+    }
+  ]
+}

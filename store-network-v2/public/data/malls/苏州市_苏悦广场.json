@@ -1,0 +1,486 @@
+{
+  "name": "苏悦广场",
+  "city": "苏州市",
+  "address": "江苏省苏州市吴中区江金鸡湖街道苏州大道西苏悦广场",
+  "lat": 31.326937,
+  "lng": 120.725567,
+  "overview": {
+    "score": 90.3,
+    "score_rank": "市内前30%",
+    "population_score": 85.1,
+    "area_score": 100.0,
+    "consumption_score": 86.8,
+    "industry_score": 90.3,
+    "annual_sales": "苏悦广场位于江苏省苏州市吴中区金鸡湖街道苏州大道西，是苏州工业园区核心地段的一个地标性城市综合体项目 。该项目由美国开发商铁狮门倾力打造 。苏悦广场包括近6万平方米的国际甲级写字楼、4购物中心以及2.2万平方米的精装公寓 。南楼共有42层，其中6至23层用于办公；北楼共有18层，5至18层同样用于办公 。B1至4层为商业相连，提供购物、餐饮和娱乐等多功能服务",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 9.0,
+    "open_date": "2016-10-01",
+    "operator": "铁狮门房地产咨询（北京）有限公司",
+    "brand": "",
+    "type": "美食型",
+    "floors": "L1-L3"
+  },
+  "traffic": {
+    "annual_daily": 5205.0,
+    "annual_daily_unit": "人次",
+    "annual_daily_rank": "市内第178",
+    "jun_total": 22.4,
+    "jun_total_rank": "市内商场第183名",
+    "jun_daily_avg": 7460.0,
+    "jun_daily_unit": "人次",
+    "jun_daily_rank": "市内商场第183名",
+    "weekday_avg": 7666.0,
+    "weekday_unit": "人次",
+    "weekday_rank": "市内商场第172名",
+    "holiday_avg": 6889.0,
+    "holiday_unit": "人次",
+    "holiday_rank": "市内商场第199名"
+  },
+  "population": {
+    "residential": {
+      "500m": 9700.0,
+      "1_5km": 6.7,
+      "3km": 25.2
+    },
+    "office": {
+      "500m": 2.9,
+      "1_5km": 8.7,
+      "3km": 18.5
+    },
+    "permanent": {
+      "500m": 1.9,
+      "1_5km": 9.1,
+      "3km": 26.7
+    }
+  },
+  "business": {
+    "competitors": 14.0,
+    "food": 479.0,
+    "shopping": 356.0,
+    "leisure": 58.0,
+    "education": 132.0,
+    "hotel": 52.0,
+    "services": 384.0,
+    "fitness": 51.0,
+    "auto": 26.0,
+    "total_stores": 118.0,
+    "old_store_3yr_pct": 50.0
+  },
+  "nearby_poi": {
+    "business": 16.0,
+    "community": 203.0,
+    "office": 43.0,
+    "school": 12.0,
+    "hospital": 40.0,
+    "transport": 12.0,
+    "scenic": 156.0
+  },
+  "demographics": {
+    "male_pct": 46.6,
+    "female_pct": null,
+    "education": {
+      "小学": 9.2,
+      "初中": 18.0,
+      "高中": 14.8,
+      "大专": 9.4,
+      "本科": 43.3,
+      "硕士": 4.2,
+      "博士": 1.1
+    },
+    "has_children_pct": 57.2,
+    "no_children_pct": 42.8
+  },
+  "scraped_at": "2026-07-31T13:12:09.762Z",
+  "nearby_restaurants": [
+    {
+      "brand": "库迪咖啡(星海站前町商业街店)",
+      "address": "苏惠路156号",
+      "distance": "25m"
+    },
+    {
+      "brand": "小南爷重庆泡椒米线(星海广场店)",
+      "address": "金鸡湖街道工业园区星海生活广场地铁站前町商业街A07商铺",
+      "distance": "32m"
+    },
+    {
+      "brand": "Grid Coffee(苏悦广场店)",
+      "address": "工业园区苏州大道西118号苏悦广场北区(近南门)",
+      "distance": "32m"
+    },
+    {
+      "brand": "和州人秘制酱香饼(苏州大道西店)",
+      "address": "苏州大道西119号苏悦广场",
+      "distance": "33m"
+    },
+    {
+      "brand": "Manner Coffee(苏悦广场南楼店)",
+      "address": "苏州大道西119号苏悦商贸广场南区商场S1层S1-11单元",
+      "distance": "36m"
+    },
+    {
+      "brand": "赛百味(苏州苏悦广场店)",
+      "address": "苏州工业园区金鸡湖街道苏州大道西118号苏悦广场北楼N1层N1-03B单元",
+      "distance": "37m"
+    },
+    {
+      "brand": "也崎日式西点(苏悦店)",
+      "address": "中国()自由贸易实验区苏州片区苏州工业园区苏悦商贸广场南区商场S1层S107单元",
+      "distance": "37m"
+    },
+    {
+      "brand": "米村拌饭(吴中区站前町店)",
+      "address": "金鸡湖街道苏州大道西与星海街交叉口西80米站前町商业街A02-A03号商铺",
+      "distance": "37m"
+    },
+    {
+      "brand": "WOOOOF(装修中)",
+      "address": "工业园区娄葑街道星海广场站-B007号",
+      "distance": "43m"
+    },
+    {
+      "brand": "洒瓦芭泰芒",
+      "address": "苏州大道西119号苏悦广场",
+      "distance": "43m"
+    },
+    {
+      "brand": "库迪咖啡(星海站前町商业街店)",
+      "address": "苏惠路156号",
+      "distance": "25m"
+    },
+    {
+      "brand": "小南爷重庆泡椒米线(星海广场店)",
+      "address": "金鸡湖街道工业园区星海生活广场地铁站前町商业街A07商铺",
+      "distance": "32m"
+    },
+    {
+      "brand": "Grid Coffee(苏悦广场店)",
+      "address": "工业园区苏州大道西118号苏悦广场北区(近南门)",
+      "distance": "32m"
+    },
+    {
+      "brand": "和州人秘制酱香饼(苏州大道西店)",
+      "address": "苏州大道西119号苏悦广场",
+      "distance": "33m"
+    },
+    {
+      "brand": "Manner Coffee(苏悦广场南楼店)",
+      "address": "苏州大道西119号苏悦商贸广场南区商场S1层S1-11单元",
+      "distance": "36m"
+    },
+    {
+      "brand": "赛百味(苏州苏悦广场店)",
+      "address": "苏州工业园区金鸡湖街道苏州大道西118号苏悦广场北楼N1层N1-03B单元",
+      "distance": "37m"
+    },
+    {
+      "brand": "也崎日式西点(苏悦店)",
+      "address": "中国()自由贸易实验区苏州片区苏州工业园区苏悦商贸广场南区商场S1层S107单元",
+      "distance": "37m"
+    },
+    {
+      "brand": "米村拌饭(吴中区站前町店)",
+      "address": "金鸡湖街道苏州大道西与星海街交叉口西80米站前町商业街A02-A03号商铺",
+      "distance": "37m"
+    },
+    {
+      "brand": "WOOOOF(装修中)",
+      "address": "工业园区娄葑街道星海广场站-B007号",
+      "distance": "43m"
+    },
+    {
+      "brand": "洒瓦芭泰芒",
+      "address": "苏州大道西119号苏悦广场",
+      "distance": "43m"
+    },
+    {
+      "brand": "库迪咖啡(星海站前町商业街店)",
+      "address": "苏惠路156号",
+      "distance": "25m"
+    },
+    {
+      "brand": "小南爷重庆泡椒米线(星海广场店)",
+      "address": "金鸡湖街道工业园区星海生活广场地铁站前町商业街A07商铺",
+      "distance": "32m"
+    },
+    {
+      "brand": "Grid Coffee(苏悦广场店)",
+      "address": "工业园区苏州大道西118号苏悦广场北区(近南门)",
+      "distance": "32m"
+    },
+    {
+      "brand": "和州人秘制酱香饼(苏州大道西店)",
+      "address": "苏州大道西119号苏悦广场",
+      "distance": "33m"
+    },
+    {
+      "brand": "Manner Coffee(苏悦广场南楼店)",
+      "address": "苏州大道西119号苏悦商贸广场南区商场S1层S1-11单元",
+      "distance": "36m"
+    },
+    {
+      "brand": "赛百味(苏州苏悦广场店)",
+      "address": "苏州工业园区金鸡湖街道苏州大道西118号苏悦广场北楼N1层N1-03B单元",
+      "distance": "37m"
+    },
+    {
+      "brand": "也崎日式西点(苏悦店)",
+      "address": "中国()自由贸易实验区苏州片区苏州工业园区苏悦商贸广场南区商场S1层S107单元",
+      "distance": "37m"
+    },
+    {
+      "brand": "米村拌饭(吴中区站前町店)",
+      "address": "金鸡湖街道苏州大道西与星海街交叉口西80米站前町商业街A02-A03号商铺",
+      "distance": "37m"
+    },
+    {
+      "brand": "WOOOOF(装修中)",
+      "address": "工业园区娄葑街道星海广场站-B007号",
+      "distance": "43m"
+    },
+    {
+      "brand": "洒瓦芭泰芒",
+      "address": "苏州大道西119号苏悦广场",
+      "distance": "43m"
+    },
+    {
+      "brand": "库迪咖啡(星海站前町商业街店)",
+      "address": "苏惠路156号",
+      "distance": "25m"
+    },
+    {
+      "brand": "小南爷重庆泡椒米线(星海广场店)",
+      "address": "金鸡湖街道工业园区星海生活广场地铁站前町商业街A07商铺",
+      "distance": "32m"
+    },
+    {
+      "brand": "Grid Coffee(苏悦广场店)",
+      "address": "工业园区苏州大道西118号苏悦广场北区(近南门)",
+      "distance": "32m"
+    },
+    {
+      "brand": "和州人秘制酱香饼(苏州大道西店)",
+      "address": "苏州大道西119号苏悦广场",
+      "distance": "33m"
+    },
+    {
+      "brand": "Manner Coffee(苏悦广场南楼店)",
+      "address": "苏州大道西119号苏悦商贸广场南区商场S1层S1-11单元",
+      "distance": "36m"
+    },
+    {
+      "brand": "赛百味(苏州苏悦广场店)",
+      "address": "苏州工业园区金鸡湖街道苏州大道西118号苏悦广场北楼N1层N1-03B单元",
+      "distance": "37m"
+    },
+    {
+      "brand": "也崎日式西点(苏悦店)",
+      "address": "中国()自由贸易实验区苏州片区苏州工业园区苏悦商贸广场南区商场S1层S107单元",
+      "distance": "37m"
+    },
+    {
+      "brand": "米村拌饭(吴中区站前町店)",
+      "address": "金鸡湖街道苏州大道西与星海街交叉口西80米站前町商业街A02-A03号商铺",
+      "distance": "37m"
+    },
+    {
+      "brand": "WOOOOF(装修中)",
+      "address": "工业园区娄葑街道星海广场站-B007号",
+      "distance": "43m"
+    },
+    {
+      "brand": "洒瓦芭泰芒",
+      "address": "苏州大道西119号苏悦广场",
+      "distance": "43m"
+    },
+    {
+      "brand": "库迪咖啡(星海站前町商业街店)",
+      "address": "苏惠路156号",
+      "distance": "25m"
+    },
+    {
+      "brand": "小南爷重庆泡椒米线(星海广场店)",
+      "address": "金鸡湖街道工业园区星海生活广场地铁站前町商业街A07商铺",
+      "distance": "32m"
+    },
+    {
+      "brand": "Grid Coffee(苏悦广场店)",
+      "address": "工业园区苏州大道西118号苏悦广场北区(近南门)",
+      "distance": "32m"
+    },
+    {
+      "brand": "和州人秘制酱香饼(苏州大道西店)",
+      "address": "苏州大道西119号苏悦广场",
+      "distance": "33m"
+    },
+    {
+      "brand": "Manner Coffee(苏悦广场南楼店)",
+      "address": "苏州大道西119号苏悦商贸广场南区商场S1层S1-11单元",
+      "distance": "36m"
+    },
+    {
+      "brand": "赛百味(苏州苏悦广场店)",
+      "address": "苏州工业园区金鸡湖街道苏州大道西118号苏悦广场北楼N1层N1-03B单元",
+      "distance": "37m"
+    },
+    {
+      "brand": "也崎日式西点(苏悦店)",
+      "address": "中国()自由贸易实验区苏州片区苏州工业园区苏悦商贸广场南区商场S1层S107单元",
+      "distance": "37m"
+    },
+    {
+      "brand": "米村拌饭(吴中区站前町店)",
+      "address": "金鸡湖街道苏州大道西与星海街交叉口西80米站前町商业街A02-A03号商铺",
+      "distance": "37m"
+    },
+    {
+      "brand": "WOOOOF(装修中)",
+      "address": "工业园区娄葑街道星海广场站-B007号",
+      "distance": "43m"
+    },
+    {
+      "brand": "洒瓦芭泰芒",
+      "address": "苏州大道西119号苏悦广场",
+      "distance": "43m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "苏州星海生活广场",
+      "open_date": "2012-04-28",
+      "area": "5.2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "苏州凤凰广场",
+      "open_date": "2013-01-01",
+      "area": "5万㎡",
+      "jun_daily_avg": "2.2万人次",
+      "weekday_avg": "2.1万人次",
+      "holiday_avg": "2.3万人次"
+    },
+    {
+      "name": "苏州环球188购物中心",
+      "open_date": "2011-03-01",
+      "area": "2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "苏州星雅汇",
+      "open_date": "2018-05-08",
+      "area": "2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "苏州尼盛尚品汇",
+      "open_date": "2008-01-01",
+      "area": "1.5万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "苏州师惠邻里中心",
+      "open_date": "2004-05-30",
+      "area": "3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "苏州天虹商场(苏雅路店)",
+      "open_date": "2022-10-28",
+      "area": "13万㎡",
+      "jun_daily_avg": "3.6万人次",
+      "weekday_avg": "3.4万人次",
+      "holiday_avg": "4.1万人次"
+    },
+    {
+      "name": "苏州新城邻里中心",
+      "open_date": "1998-05-30",
+      "area": "2.1万㎡",
+      "jun_daily_avg": "1.4万人次",
+      "weekday_avg": "1.3万人次",
+      "holiday_avg": "1.7万人次"
+    },
+    {
+      "name": "苏州中心广场",
+      "open_date": "2017-11-11",
+      "area": "35万㎡",
+      "jun_daily_avg": "16.3万人次",
+      "weekday_avg": "13.1万人次",
+      "holiday_avg": "25.2万人次"
+    },
+    {
+      "name": "苏州星悦汇",
+      "open_date": "2017-11-11",
+      "area": "5万㎡",
+      "jun_daily_avg": "4.8万人次",
+      "weekday_avg": "4万人次",
+      "holiday_avg": "7万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 50.0,
+      "within_1yr_pct": 16.0,
+      "1_3yr_pct": 34.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "购物",
+      "count": 17.0,
+      "within_1yr_pct": 17.6,
+      "1_3yr_pct": 47.1,
+      "over_3yr_pct": 35.3
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 9.0,
+      "within_1yr_pct": 44.4,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 22.2
+    },
+    {
+      "type": "教育培训",
+      "count": 11.0,
+      "within_1yr_pct": 18.2,
+      "1_3yr_pct": 18.2,
+      "over_3yr_pct": 63.6
+    },
+    {
+      "type": "酒店住宿",
+      "count": 3.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 33.3
+    },
+    {
+      "type": "生活服务",
+      "count": 22.0,
+      "within_1yr_pct": 22.7,
+      "1_3yr_pct": 9.1,
+      "over_3yr_pct": 68.2
+    },
+    {
+      "type": "运动健身",
+      "count": 5.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 40.0,
+      "over_3yr_pct": 40.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    }
+  ]
+}

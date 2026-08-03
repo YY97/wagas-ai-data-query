@@ -1,0 +1,207 @@
+{
+  "name": "北投爱琴海购物公园",
+  "city": "北京市",
+  "address": "北京市通州区新华东街289号院",
+  "lat": 39.908755,
+  "lng": 116.658697,
+  "overview": {
+    "score": 93.0,
+    "score_rank": "市内前30%",
+    "population_score": 78.3,
+    "area_score": 78.8,
+    "consumption_score": 67.8,
+    "industry_score": 93.2,
+    "annual_sales": "2",
+    "annual_sales_unit": "亿元",
+    "area_size_sqm": 8.3,
+    "open_date": "2021-06-18",
+    "operator": "上海爱琴海商业集团股份有限公司",
+    "brand": "爱琴海",
+    "type": "综合型",
+    "floors": "B2-L6"
+  },
+  "traffic": {
+    "annual_daily": 2.19,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第112",
+    "jun_total": 91.3,
+    "jun_total_rank": "市内商场第101名",
+    "jun_daily_avg": 3.0,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第101名",
+    "weekday_avg": 2.7,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第107名",
+    "holiday_avg": 3.9,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第95名"
+  },
+  "population": {
+    "residential": {
+      "500m": 1.3,
+      "1_5km": 13.6,
+      "3km": 54.1
+    },
+    "office": {
+      "500m": 1.2,
+      "1_5km": 8.7,
+      "3km": 25.3
+    },
+    "permanent": {
+      "500m": 1.5,
+      "1_5km": 13.2,
+      "3km": 53.0
+    }
+  },
+  "business": {
+    "competitors": 4.0,
+    "food": 150.0,
+    "shopping": 145.0,
+    "leisure": 19.0,
+    "education": 25.0,
+    "hotel": 6.0,
+    "services": 109.0,
+    "fitness": 35.0,
+    "auto": 16.0,
+    "total_stores": 175.0,
+    "old_store_3yr_pct": 46.0
+  },
+  "nearby_poi": {
+    "business": 1.0,
+    "community": 351.0,
+    "office": 22.0,
+    "school": 42.0,
+    "hospital": 60.0,
+    "transport": 6.0,
+    "scenic": 116.0
+  },
+  "demographics": {
+    "male_pct": 47.4,
+    "female_pct": null,
+    "education": {
+      "小学": 8.5,
+      "初中": 15.1,
+      "高中": 10.9,
+      "大专": 8.6,
+      "本科": 51.0,
+      "硕士": 5.0,
+      "博士": 0.9
+    },
+    "has_children_pct": 62.3,
+    "no_children_pct": 37.7
+  },
+  "scraped_at": "2026-08-01T05:28:36.350Z",
+  "nearby_restaurants": [
+    {
+      "brand": "京味坊(中仓店)",
+      "address": "中仓小区北门旁",
+      "distance": "445m"
+    },
+    {
+      "brand": "BerryBeans(新华西街店)",
+      "address": "新华西街中图文创南门园区直走50米右手边红房子",
+      "distance": "451m"
+    },
+    {
+      "brand": "佼佼者大馅水饺(车站路小区店)",
+      "address": "车站路25号车站路小区",
+      "distance": "455m"
+    },
+    {
+      "brand": "大顺斋食品店(新华东街)",
+      "address": "新华东街238号(近新华大街公交车站)",
+      "distance": "460m"
+    },
+    {
+      "brand": "吉祥馄饨(车站路店)",
+      "address": "车站路25号车站路小区",
+      "distance": "465m"
+    },
+    {
+      "brand": "芦月轩羊蝎子(通州店)",
+      "address": "车站路4号楼(邮局北侧)",
+      "distance": "486m"
+    },
+    {
+      "brand": "京华家宴(通州店)",
+      "address": "新华北街75号",
+      "distance": "486m"
+    },
+    {
+      "brand": "小排骨",
+      "address": "新华北路123号(近滨惠北二街)",
+      "distance": "490m"
+    },
+    {
+      "brand": "北京烤鸭家常菜",
+      "address": "文化地标·通惠1933创意园东门旁",
+      "distance": "492m"
+    },
+    {
+      "brand": "马记东北清真美食(西大街店)",
+      "address": "北京城区西大街74号1层",
+      "distance": "497m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "北京通州万达广场",
+      "open_date": "2014-11-29",
+      "area": "22万㎡",
+      "jun_daily_avg": "11.1万人次",
+      "weekday_avg": "10.2万人次",
+      "holiday_avg": "13.6万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 54.0,
+      "within_1yr_pct": 13.0,
+      "1_3yr_pct": 31.5,
+      "over_3yr_pct": 55.6
+    },
+    {
+      "type": "购物",
+      "count": 54.0,
+      "within_1yr_pct": 18.5,
+      "1_3yr_pct": 27.8,
+      "over_3yr_pct": 53.7
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 14.0,
+      "within_1yr_pct": 28.6,
+      "1_3yr_pct": 21.4,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "教育培训",
+      "count": 11.0,
+      "within_1yr_pct": 45.5,
+      "1_3yr_pct": 27.3,
+      "over_3yr_pct": 27.3
+    },
+    {
+      "type": "生活服务",
+      "count": 32.0,
+      "within_1yr_pct": 28.1,
+      "1_3yr_pct": 43.8,
+      "over_3yr_pct": 28.1
+    },
+    {
+      "type": "运动健身",
+      "count": 9.0,
+      "within_1yr_pct": 22.2,
+      "1_3yr_pct": 44.4,
+      "over_3yr_pct": 33.3
+    },
+    {
+      "type": "车辆服务",
+      "count": 1.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
+    }
+  ]
+}

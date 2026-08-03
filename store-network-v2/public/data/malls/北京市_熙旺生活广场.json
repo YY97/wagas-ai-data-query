@@ -1,0 +1,405 @@
+{
+  "name": "熙旺生活广场",
+  "city": "北京市",
+  "address": "北京市门头沟区双峪路35号院1",
+  "lat": 39.935634,
+  "lng": 116.113472,
+  "overview": {
+    "score": 89.6,
+    "score_rank": "市内前30%",
+    "population_score": 86.6,
+    "area_score": 81.0,
+    "consumption_score": 65.0,
+    "industry_score": 89.6,
+    "annual_sales": "熙旺生活广场位于北京市门头沟区门户位置，双峪环岛的东南角，是三横莲花池快速路、阜石快速路、西长安街沿线一纵西六环交汇处的地标性建筑。项目商业建筑面积约4.5万平方米，地处西CBD核心位置、门头沟门户，是大型高档商业的优选之地。",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 4.5,
+    "open_date": "2011-10-01",
+    "operator": "东方巴黎国际商业管理（北京）有限公司",
+    "brand": "",
+    "type": "美食型",
+    "floors": "B1-L5"
+  },
+  "traffic": {
+    "annual_daily": 1.74,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第141",
+    "jun_total": 46.9,
+    "jun_total_rank": "市内商场第196名",
+    "jun_daily_avg": 1.6,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第196名",
+    "weekday_avg": 1.5,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第190名",
+    "holiday_avg": 1.7,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第201名"
+  },
+  "population": {
+    "residential": {
+      "500m": 1.9,
+      "1_5km": 11.2,
+      "3km": 32.2
+    },
+    "office": {
+      "500m": 1.0,
+      "1_5km": 5.3,
+      "3km": 12.3
+    },
+    "permanent": {
+      "500m": 2.0,
+      "1_5km": 11.7,
+      "3km": 32.0
+    }
+  },
+  "business": {
+    "competitors": null,
+    "food": 141.0,
+    "shopping": 125.0,
+    "leisure": 7.0,
+    "education": 21.0,
+    "hotel": 10.0,
+    "services": 152.0,
+    "fitness": 20.0,
+    "auto": 22.0,
+    "total_stores": 128.0,
+    "old_store_3yr_pct": 45.0
+  },
+  "nearby_poi": {
+    "business": null,
+    "community": 219.0,
+    "office": 10.0,
+    "school": 21.0,
+    "hospital": 34.0,
+    "transport": 10.0,
+    "scenic": 62.0
+  },
+  "demographics": {
+    "male_pct": 47.4,
+    "female_pct": null,
+    "education": {
+      "小学": 11.2,
+      "初中": 17.6,
+      "高中": 11.0,
+      "大专": 8.2,
+      "本科": 46.5,
+      "硕士": 4.3,
+      "博士": 1.2
+    },
+    "has_children_pct": 67.7,
+    "no_children_pct": 32.3
+  },
+  "scraped_at": "2026-08-01T06:50:42.698Z",
+  "nearby_restaurants": [
+    {
+      "brand": "窑鸡王(门头沟店)",
+      "address": "双峪路35号院1号楼B1层B101、B102、B103-D1-26",
+      "distance": "1m"
+    },
+    {
+      "brand": "呷哺呷哺(门头沟双峪物美店)",
+      "address": "双峪路35号物美大卖场1层1005",
+      "distance": "2m"
+    },
+    {
+      "brand": "糊涂婶麻辣烫·炸串(双峪环岛店)",
+      "address": "北京城区双峪路35号院1号B1层102-09室",
+      "distance": "2m"
+    },
+    {
+      "brand": "糯叽叽·浇汁土豆泥拌饭",
+      "address": "双峪路辅路与石担路交叉口东80米",
+      "distance": "3m"
+    },
+    {
+      "brand": "半天妖烤鱼(物美超市店)",
+      "address": "北京城区双峪路35号院1号1层1378-F1-B008",
+      "distance": "4m"
+    },
+    {
+      "brand": "京西福地·燕京音乐夜市",
+      "address": "双峪路辅路与石担路交叉口东80米",
+      "distance": "5m"
+    },
+    {
+      "brand": "蜜雪冰城(双峪环岛物美店)",
+      "address": "双峪路35号院1号1层1378-F1-B010",
+      "distance": "5m"
+    },
+    {
+      "brand": "青蔬麻辣烫(朝阳店)",
+      "address": "定福庄东街1号",
+      "distance": "6m"
+    },
+    {
+      "brand": "华莱士·全鸡汉堡(北京次渠)",
+      "address": "台湖镇次二村委会东南1500米",
+      "distance": "6m"
+    },
+    {
+      "brand": "华莱士·全鸡汉堡(北京通州物资学院店)",
+      "address": "物资学院路35号二层华莱士",
+      "distance": "6m"
+    },
+    {
+      "brand": "窑鸡王(门头沟店)",
+      "address": "双峪路35号院1号楼B1层B101、B102、B103-D1-26",
+      "distance": "1m"
+    },
+    {
+      "brand": "呷哺呷哺(门头沟双峪物美店)",
+      "address": "双峪路35号物美大卖场1层1005",
+      "distance": "2m"
+    },
+    {
+      "brand": "糊涂婶麻辣烫·炸串(双峪环岛店)",
+      "address": "北京城区双峪路35号院1号B1层102-09室",
+      "distance": "2m"
+    },
+    {
+      "brand": "糯叽叽·浇汁土豆泥拌饭",
+      "address": "双峪路辅路与石担路交叉口东80米",
+      "distance": "3m"
+    },
+    {
+      "brand": "半天妖烤鱼(物美超市店)",
+      "address": "北京城区双峪路35号院1号1层1378-F1-B008",
+      "distance": "4m"
+    },
+    {
+      "brand": "京西福地·燕京音乐夜市",
+      "address": "双峪路辅路与石担路交叉口东80米",
+      "distance": "5m"
+    },
+    {
+      "brand": "蜜雪冰城(双峪环岛物美店)",
+      "address": "双峪路35号院1号1层1378-F1-B010",
+      "distance": "5m"
+    },
+    {
+      "brand": "青蔬麻辣烫(朝阳店)",
+      "address": "定福庄东街1号",
+      "distance": "6m"
+    },
+    {
+      "brand": "华莱士·全鸡汉堡(北京次渠)",
+      "address": "台湖镇次二村委会东南1500米",
+      "distance": "6m"
+    },
+    {
+      "brand": "华莱士·全鸡汉堡(北京通州物资学院店)",
+      "address": "物资学院路35号二层华莱士",
+      "distance": "6m"
+    },
+    {
+      "brand": "窑鸡王(门头沟店)",
+      "address": "双峪路35号院1号楼B1层B101、B102、B103-D1-26",
+      "distance": "1m"
+    },
+    {
+      "brand": "呷哺呷哺(门头沟双峪物美店)",
+      "address": "双峪路35号物美大卖场1层1005",
+      "distance": "2m"
+    },
+    {
+      "brand": "糊涂婶麻辣烫·炸串(双峪环岛店)",
+      "address": "北京城区双峪路35号院1号B1层102-09室",
+      "distance": "2m"
+    },
+    {
+      "brand": "糯叽叽·浇汁土豆泥拌饭",
+      "address": "双峪路辅路与石担路交叉口东80米",
+      "distance": "3m"
+    },
+    {
+      "brand": "半天妖烤鱼(物美超市店)",
+      "address": "北京城区双峪路35号院1号1层1378-F1-B008",
+      "distance": "4m"
+    },
+    {
+      "brand": "京西福地·燕京音乐夜市",
+      "address": "双峪路辅路与石担路交叉口东80米",
+      "distance": "5m"
+    },
+    {
+      "brand": "蜜雪冰城(双峪环岛物美店)",
+      "address": "双峪路35号院1号1层1378-F1-B010",
+      "distance": "5m"
+    },
+    {
+      "brand": "青蔬麻辣烫(朝阳店)",
+      "address": "定福庄东街1号",
+      "distance": "6m"
+    },
+    {
+      "brand": "华莱士·全鸡汉堡(北京次渠)",
+      "address": "台湖镇次二村委会东南1500米",
+      "distance": "6m"
+    },
+    {
+      "brand": "华莱士·全鸡汉堡(北京通州物资学院店)",
+      "address": "物资学院路35号二层华莱士",
+      "distance": "6m"
+    },
+    {
+      "brand": "窑鸡王(门头沟店)",
+      "address": "双峪路35号院1号楼B1层B101、B102、B103-D1-26",
+      "distance": "1m"
+    },
+    {
+      "brand": "呷哺呷哺(门头沟双峪物美店)",
+      "address": "双峪路35号物美大卖场1层1005",
+      "distance": "2m"
+    },
+    {
+      "brand": "糊涂婶麻辣烫·炸串(双峪环岛店)",
+      "address": "北京城区双峪路35号院1号B1层102-09室",
+      "distance": "2m"
+    },
+    {
+      "brand": "糯叽叽·浇汁土豆泥拌饭",
+      "address": "双峪路辅路与石担路交叉口东80米",
+      "distance": "3m"
+    },
+    {
+      "brand": "半天妖烤鱼(物美超市店)",
+      "address": "北京城区双峪路35号院1号1层1378-F1-B008",
+      "distance": "4m"
+    },
+    {
+      "brand": "京西福地·燕京音乐夜市",
+      "address": "双峪路辅路与石担路交叉口东80米",
+      "distance": "5m"
+    },
+    {
+      "brand": "蜜雪冰城(双峪环岛物美店)",
+      "address": "双峪路35号院1号1层1378-F1-B010",
+      "distance": "5m"
+    },
+    {
+      "brand": "青蔬麻辣烫(朝阳店)",
+      "address": "定福庄东街1号",
+      "distance": "6m"
+    },
+    {
+      "brand": "华莱士·全鸡汉堡(北京次渠)",
+      "address": "台湖镇次二村委会东南1500米",
+      "distance": "6m"
+    },
+    {
+      "brand": "华莱士·全鸡汉堡(北京通州物资学院店)",
+      "address": "物资学院路35号二层华莱士",
+      "distance": "6m"
+    },
+    {
+      "brand": "窑鸡王(门头沟店)",
+      "address": "双峪路35号院1号楼B1层B101、B102、B103-D1-26",
+      "distance": "1m"
+    },
+    {
+      "brand": "呷哺呷哺(门头沟双峪物美店)",
+      "address": "双峪路35号物美大卖场1层1005",
+      "distance": "2m"
+    },
+    {
+      "brand": "糊涂婶麻辣烫·炸串(双峪环岛店)",
+      "address": "北京城区双峪路35号院1号B1层102-09室",
+      "distance": "2m"
+    },
+    {
+      "brand": "糯叽叽·浇汁土豆泥拌饭",
+      "address": "双峪路辅路与石担路交叉口东80米",
+      "distance": "3m"
+    },
+    {
+      "brand": "半天妖烤鱼(物美超市店)",
+      "address": "北京城区双峪路35号院1号1层1378-F1-B008",
+      "distance": "4m"
+    },
+    {
+      "brand": "京西福地·燕京音乐夜市",
+      "address": "双峪路辅路与石担路交叉口东80米",
+      "distance": "5m"
+    },
+    {
+      "brand": "蜜雪冰城(双峪环岛物美店)",
+      "address": "双峪路35号院1号1层1378-F1-B010",
+      "distance": "5m"
+    },
+    {
+      "brand": "青蔬麻辣烫(朝阳店)",
+      "address": "定福庄东街1号",
+      "distance": "6m"
+    },
+    {
+      "brand": "华莱士·全鸡汉堡(北京次渠)",
+      "address": "台湖镇次二村委会东南1500米",
+      "distance": "6m"
+    },
+    {
+      "brand": "华莱士·全鸡汉堡(北京通州物资学院店)",
+      "address": "物资学院路35号二层华莱士",
+      "distance": "6m"
+    }
+  ],
+  "nearby_malls": [],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 44.0,
+      "within_1yr_pct": 38.6,
+      "1_3yr_pct": 15.9,
+      "over_3yr_pct": 45.5
+    },
+    {
+      "type": "购物",
+      "count": 18.0,
+      "within_1yr_pct": 27.8,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 38.9
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 3.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    },
+    {
+      "type": "教育培训",
+      "count": 9.0,
+      "within_1yr_pct": 44.4,
+      "1_3yr_pct": 22.2,
+      "over_3yr_pct": 33.3
+    },
+    {
+      "type": "酒店住宿",
+      "count": 2.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "生活服务",
+      "count": 44.0,
+      "within_1yr_pct": 20.5,
+      "1_3yr_pct": 31.8,
+      "over_3yr_pct": 47.7
+    },
+    {
+      "type": "运动健身",
+      "count": 5.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 60.0,
+      "over_3yr_pct": 20.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 3.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 33.3
+    }
+  ]
+}

@@ -1,0 +1,486 @@
+{
+  "name": "北外滩来福士广场",
+  "city": "上海市",
+  "address": "上海市虹口区东大名路999号层",
+  "lat": 31.252633,
+  "lng": 121.507261,
+  "overview": {
+    "score": 95.1,
+    "score_rank": "市内前30%",
+    "population_score": 75.8,
+    "area_score": 80.1,
+    "consumption_score": 83.2,
+    "industry_score": 95.3,
+    "annual_sales": "30",
+    "annual_sales_unit": "亿元",
+    "area_size_sqm": 12.0,
+    "open_date": "2021-07-10",
+    "operator": "凯德置地（中国）投资有限公司",
+    "brand": "凯德",
+    "type": "综合型",
+    "floors": "B2-L4"
+  },
+  "traffic": {
+    "annual_daily": 3.6,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第63",
+    "jun_total": 129.8,
+    "jun_total_rank": "市内商场第84名",
+    "jun_daily_avg": 4.3,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第84名",
+    "weekday_avg": 4.6,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第71名",
+    "holiday_avg": 3.6,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第133名"
+  },
+  "population": {
+    "residential": {
+      "500m": 1.2,
+      "1_5km": 13.4,
+      "3km": 86.4
+    },
+    "office": {
+      "500m": 3.7,
+      "1_5km": 22.7,
+      "3km": 90.8
+    },
+    "permanent": {
+      "500m": 2.0,
+      "1_5km": 17.3,
+      "3km": 99.5
+    }
+  },
+  "business": {
+    "competitors": 10.0,
+    "food": 243.0,
+    "shopping": 126.0,
+    "leisure": 22.0,
+    "education": 10.0,
+    "hotel": 28.0,
+    "services": 88.0,
+    "fitness": 37.0,
+    "auto": 25.0,
+    "total_stores": 279.0,
+    "old_store_3yr_pct": 49.0
+  },
+  "nearby_poi": {
+    "business": 10.0,
+    "community": 725.0,
+    "office": 136.0,
+    "school": 34.0,
+    "hospital": 128.0,
+    "transport": 18.0,
+    "scenic": 544.0
+  },
+  "demographics": {
+    "male_pct": 48.4,
+    "female_pct": null,
+    "education": {
+      "小学": 9.7,
+      "初中": 18.4,
+      "高中": 11.4,
+      "大专": 7.0,
+      "本科": 46.3,
+      "硕士": 5.6,
+      "博士": 1.6
+    },
+    "has_children_pct": 60.0,
+    "no_children_pct": 40.0
+  },
+  "scraped_at": "2026-07-31T12:44:50.004Z",
+  "nearby_restaurants": [
+    {
+      "brand": "争鲜回转寿司(北外滩来福士PLUS店)",
+      "address": "东大名路999号北外滩来福士B2层06A-06B号",
+      "distance": "0m"
+    },
+    {
+      "brand": "老碗会(上海虹口北外滩来福士店)",
+      "address": "北外滩街道上海北外滩来福士广场B2层50号,B2层51号",
+      "distance": "0m"
+    },
+    {
+      "brand": "烟火江熙·本味江西菜(北外滩来福士店)",
+      "address": "上海城区东大名路999号B2层07室",
+      "distance": "0m"
+    },
+    {
+      "brand": "关东小磨东北菜(北外滩来福士店)",
+      "address": "东大名路999号北外滩来福士广场F3层",
+      "distance": "0m"
+    },
+    {
+      "brand": "TACO BELL塔可贝尔(北外滩来福士店)",
+      "address": "东大名路999号北外滩来福士广场B2",
+      "distance": "0m"
+    },
+    {
+      "brand": "阿元来了(北外滩来福士店)",
+      "address": "东大名路999号B2层46号",
+      "distance": "0m"
+    },
+    {
+      "brand": "茉莉奶白(上海北外滩来福士店)",
+      "address": "大名路999号上海北外滩来福士B2层25B号",
+      "distance": "1m"
+    },
+    {
+      "brand": "司康和乳酪",
+      "address": "东大名路999号北外滩来福士B2层",
+      "distance": "1m"
+    },
+    {
+      "brand": "M·K意大利餐厅(北外滩来福士店)",
+      "address": "东大名路999号北外滩来福士广场",
+      "distance": "1m"
+    },
+    {
+      "brand": "味师蒋大厨东坡肉(凯德来福士店)",
+      "address": "东大名路999号北外滩来福士B2层",
+      "distance": "1m"
+    },
+    {
+      "brand": "争鲜回转寿司(北外滩来福士PLUS店)",
+      "address": "东大名路999号北外滩来福士B2层06A-06B号",
+      "distance": "0m"
+    },
+    {
+      "brand": "老碗会(上海虹口北外滩来福士店)",
+      "address": "北外滩街道上海北外滩来福士广场B2层50号,B2层51号",
+      "distance": "0m"
+    },
+    {
+      "brand": "烟火江熙·本味江西菜(北外滩来福士店)",
+      "address": "上海城区东大名路999号B2层07室",
+      "distance": "0m"
+    },
+    {
+      "brand": "关东小磨东北菜(北外滩来福士店)",
+      "address": "东大名路999号北外滩来福士广场F3层",
+      "distance": "0m"
+    },
+    {
+      "brand": "TACO BELL塔可贝尔(北外滩来福士店)",
+      "address": "东大名路999号北外滩来福士广场B2",
+      "distance": "0m"
+    },
+    {
+      "brand": "阿元来了(北外滩来福士店)",
+      "address": "东大名路999号B2层46号",
+      "distance": "0m"
+    },
+    {
+      "brand": "茉莉奶白(上海北外滩来福士店)",
+      "address": "大名路999号上海北外滩来福士B2层25B号",
+      "distance": "1m"
+    },
+    {
+      "brand": "司康和乳酪",
+      "address": "东大名路999号北外滩来福士B2层",
+      "distance": "1m"
+    },
+    {
+      "brand": "M·K意大利餐厅(北外滩来福士店)",
+      "address": "东大名路999号北外滩来福士广场",
+      "distance": "1m"
+    },
+    {
+      "brand": "味师蒋大厨东坡肉(凯德来福士店)",
+      "address": "东大名路999号北外滩来福士B2层",
+      "distance": "1m"
+    },
+    {
+      "brand": "争鲜回转寿司(北外滩来福士PLUS店)",
+      "address": "东大名路999号北外滩来福士B2层06A-06B号",
+      "distance": "0m"
+    },
+    {
+      "brand": "老碗会(上海虹口北外滩来福士店)",
+      "address": "北外滩街道上海北外滩来福士广场B2层50号,B2层51号",
+      "distance": "0m"
+    },
+    {
+      "brand": "烟火江熙·本味江西菜(北外滩来福士店)",
+      "address": "上海城区东大名路999号B2层07室",
+      "distance": "0m"
+    },
+    {
+      "brand": "关东小磨东北菜(北外滩来福士店)",
+      "address": "东大名路999号北外滩来福士广场F3层",
+      "distance": "0m"
+    },
+    {
+      "brand": "TACO BELL塔可贝尔(北外滩来福士店)",
+      "address": "东大名路999号北外滩来福士广场B2",
+      "distance": "0m"
+    },
+    {
+      "brand": "阿元来了(北外滩来福士店)",
+      "address": "东大名路999号B2层46号",
+      "distance": "0m"
+    },
+    {
+      "brand": "茉莉奶白(上海北外滩来福士店)",
+      "address": "大名路999号上海北外滩来福士B2层25B号",
+      "distance": "1m"
+    },
+    {
+      "brand": "司康和乳酪",
+      "address": "东大名路999号北外滩来福士B2层",
+      "distance": "1m"
+    },
+    {
+      "brand": "M·K意大利餐厅(北外滩来福士店)",
+      "address": "东大名路999号北外滩来福士广场",
+      "distance": "1m"
+    },
+    {
+      "brand": "味师蒋大厨东坡肉(凯德来福士店)",
+      "address": "东大名路999号北外滩来福士B2层",
+      "distance": "1m"
+    },
+    {
+      "brand": "争鲜回转寿司(北外滩来福士PLUS店)",
+      "address": "东大名路999号北外滩来福士B2层06A-06B号",
+      "distance": "0m"
+    },
+    {
+      "brand": "老碗会(上海虹口北外滩来福士店)",
+      "address": "北外滩街道上海北外滩来福士广场B2层50号,B2层51号",
+      "distance": "0m"
+    },
+    {
+      "brand": "烟火江熙·本味江西菜(北外滩来福士店)",
+      "address": "上海城区东大名路999号B2层07室",
+      "distance": "0m"
+    },
+    {
+      "brand": "关东小磨东北菜(北外滩来福士店)",
+      "address": "东大名路999号北外滩来福士广场F3层",
+      "distance": "0m"
+    },
+    {
+      "brand": "TACO BELL塔可贝尔(北外滩来福士店)",
+      "address": "东大名路999号北外滩来福士广场B2",
+      "distance": "0m"
+    },
+    {
+      "brand": "阿元来了(北外滩来福士店)",
+      "address": "东大名路999号B2层46号",
+      "distance": "0m"
+    },
+    {
+      "brand": "茉莉奶白(上海北外滩来福士店)",
+      "address": "大名路999号上海北外滩来福士B2层25B号",
+      "distance": "1m"
+    },
+    {
+      "brand": "司康和乳酪",
+      "address": "东大名路999号北外滩来福士B2层",
+      "distance": "1m"
+    },
+    {
+      "brand": "M·K意大利餐厅(北外滩来福士店)",
+      "address": "东大名路999号北外滩来福士广场",
+      "distance": "1m"
+    },
+    {
+      "brand": "味师蒋大厨东坡肉(凯德来福士店)",
+      "address": "东大名路999号北外滩来福士B2层",
+      "distance": "1m"
+    },
+    {
+      "brand": "争鲜回转寿司(北外滩来福士PLUS店)",
+      "address": "东大名路999号北外滩来福士B2层06A-06B号",
+      "distance": "0m"
+    },
+    {
+      "brand": "老碗会(上海虹口北外滩来福士店)",
+      "address": "北外滩街道上海北外滩来福士广场B2层50号,B2层51号",
+      "distance": "0m"
+    },
+    {
+      "brand": "烟火江熙·本味江西菜(北外滩来福士店)",
+      "address": "上海城区东大名路999号B2层07室",
+      "distance": "0m"
+    },
+    {
+      "brand": "关东小磨东北菜(北外滩来福士店)",
+      "address": "东大名路999号北外滩来福士广场F3层",
+      "distance": "0m"
+    },
+    {
+      "brand": "TACO BELL塔可贝尔(北外滩来福士店)",
+      "address": "东大名路999号北外滩来福士广场B2",
+      "distance": "0m"
+    },
+    {
+      "brand": "阿元来了(北外滩来福士店)",
+      "address": "东大名路999号B2层46号",
+      "distance": "0m"
+    },
+    {
+      "brand": "茉莉奶白(上海北外滩来福士店)",
+      "address": "大名路999号上海北外滩来福士B2层25B号",
+      "distance": "1m"
+    },
+    {
+      "brand": "司康和乳酪",
+      "address": "东大名路999号北外滩来福士B2层",
+      "distance": "1m"
+    },
+    {
+      "brand": "M·K意大利餐厅(北外滩来福士店)",
+      "address": "东大名路999号北外滩来福士广场",
+      "distance": "1m"
+    },
+    {
+      "brand": "味师蒋大厨东坡肉(凯德来福士店)",
+      "address": "东大名路999号北外滩来福士B2层",
+      "distance": "1m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "金茂时尚生活中心",
+      "open_date": "2005-09-01",
+      "area": "2.3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海昇汇广场",
+      "open_date": "2018-12-01",
+      "area": "3200㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海上滨生活广场",
+      "open_date": "2019-06-18",
+      "area": "4.5万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海宝地广场",
+      "open_date": "2012-01-01",
+      "area": "3.5万㎡",
+      "jun_daily_avg": "1.7万人次",
+      "weekday_avg": "1.8万人次",
+      "holiday_avg": "1.5万人次"
+    },
+    {
+      "name": "上海白玉兰广场",
+      "open_date": "2017-01-04",
+      "area": "11万㎡",
+      "jun_daily_avg": "5.7万人次",
+      "weekday_avg": "5.7万人次",
+      "holiday_avg": "5.7万人次"
+    },
+    {
+      "name": "上海1862时尚艺术中心",
+      "open_date": "2018-05-06",
+      "area": "1.6万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海瑞虹坊",
+      "open_date": "2020-10-03",
+      "area": "3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海瑞虹新天地太阳宫",
+      "open_date": "2021-09-19",
+      "area": "18万㎡",
+      "jun_daily_avg": "7.4万人次",
+      "weekday_avg": "6.8万人次",
+      "holiday_avg": "9.1万人次"
+    },
+    {
+      "name": "上海GALA MALL尚悦湾广场",
+      "open_date": "2017-12-23",
+      "area": "7万㎡",
+      "jun_daily_avg": "2.8万人次",
+      "weekday_avg": "3.2万人次",
+      "holiday_avg": "1.6万人次"
+    },
+    {
+      "name": "上海瑞虹天地月亮湾",
+      "open_date": "2017-06-13",
+      "area": "6.4万㎡",
+      "jun_daily_avg": "4.5万人次",
+      "weekday_avg": "4万人次",
+      "holiday_avg": "5.9万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 125.0,
+      "within_1yr_pct": 19.2,
+      "1_3yr_pct": 34.4,
+      "over_3yr_pct": 46.4
+    },
+    {
+      "type": "购物",
+      "count": 81.0,
+      "within_1yr_pct": 16.0,
+      "1_3yr_pct": 25.9,
+      "over_3yr_pct": 58.0
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 15.0,
+      "within_1yr_pct": 53.3,
+      "1_3yr_pct": 20.0,
+      "over_3yr_pct": 26.7
+    },
+    {
+      "type": "教育培训",
+      "count": 3.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 66.7,
+      "over_3yr_pct": 33.3
+    },
+    {
+      "type": "酒店住宿",
+      "count": 2.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "生活服务",
+      "count": 35.0,
+      "within_1yr_pct": 14.3,
+      "1_3yr_pct": 25.7,
+      "over_3yr_pct": 60.0
+    },
+    {
+      "type": "运动健身",
+      "count": 12.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 41.7,
+      "over_3yr_pct": 25.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 6.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 16.7,
+      "over_3yr_pct": 50.0
+    }
+  ]
+}

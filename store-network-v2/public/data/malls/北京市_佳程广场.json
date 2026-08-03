@@ -1,0 +1,462 @@
+{
+  "name": "佳程广场",
+  "city": "北京市",
+  "address": "北京市朝阳区麦子店街道霞光里南街霞光里35号院",
+  "lat": 39.956468,
+  "lng": 116.460856,
+  "overview": {
+    "score": 87.0,
+    "score_rank": "市内前30%",
+    "population_score": 86.4,
+    "area_score": 93.0,
+    "consumption_score": 78.2,
+    "industry_score": 87.0,
+    "annual_sales": "",
+    "annual_sales_unit": "",
+    "area_size_sqm": null,
+    "open_date": "",
+    "operator": "",
+    "brand": "",
+    "type": "",
+    "floors": ""
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "",
+    "annual_daily_rank": "",
+    "jun_total": null,
+    "jun_total_rank": "",
+    "jun_daily_avg": null,
+    "jun_daily_unit": "",
+    "jun_daily_rank": "",
+    "weekday_avg": null,
+    "weekday_unit": "",
+    "weekday_rank": "",
+    "holiday_avg": null,
+    "holiday_unit": "",
+    "holiday_rank": ""
+  },
+  "population": {
+    "residential": {
+      "500m": 1.9,
+      "1_5km": 13.2,
+      "3km": 52.7
+    },
+    "office": {
+      "500m": 3.4,
+      "1_5km": 14.2,
+      "3km": 41.0
+    },
+    "permanent": {
+      "500m": 2.1,
+      "1_5km": 13.6,
+      "3km": 54.4
+    }
+  },
+  "business": {
+    "competitors": 9.0,
+    "food": 327.0,
+    "shopping": 89.0,
+    "leisure": 9.0,
+    "education": 21.0,
+    "hotel": 51.0,
+    "services": 173.0,
+    "fitness": 33.0,
+    "auto": 32.0,
+    "total_stores": 745.0,
+    "old_store_3yr_pct": 47.0
+  },
+  "nearby_poi": {
+    "business": 7.0,
+    "community": 354.0,
+    "office": 96.0,
+    "school": 25.0,
+    "hospital": 124.0,
+    "transport": 7.0,
+    "scenic": 199.0
+  },
+  "demographics": {
+    "male_pct": 49.4,
+    "female_pct": null,
+    "education": {
+      "小学": 8.8,
+      "初中": 15.2,
+      "高中": 10.6,
+      "大专": 6.7,
+      "本科": 49.3,
+      "硕士": 7.9,
+      "博士": 1.5
+    },
+    "has_children_pct": null,
+    "no_children_pct": null
+  },
+  "scraped_at": "2026-07-31T12:07:38.445Z",
+  "nearby_restaurants": [
+    {
+      "brand": "北京鑫钱餐饮管理有限公司",
+      "address": "霞光里南街与霞光里西路交叉口东北120米",
+      "distance": "5m"
+    },
+    {
+      "brand": "JacuCoffee 黑鸟咖啡(霄云路店)",
+      "address": "霄云路35号新干线南侧美食街靠西停车场第二家",
+      "distance": "10m"
+    },
+    {
+      "brand": "老重庆地摊火锅(三元桥店)",
+      "address": "远洋新干线东南门东南50米",
+      "distance": "11m"
+    },
+    {
+      "brand": "板面王(霞光里35号院店)",
+      "address": "霞光里南街与霞光里西路交叉口东北120米",
+      "distance": "22m"
+    },
+    {
+      "brand": "一群发小",
+      "address": "霄云路35号院",
+      "distance": "23m"
+    },
+    {
+      "brand": "刘老三东北大冷面(第3档口霄云美食城店)",
+      "address": "霞光里南街与霞光里南巷交叉口西南120米",
+      "distance": "23m"
+    },
+    {
+      "brand": "小龙虾研究所",
+      "address": "霞光里南街与霞光里南巷交叉口西南120米",
+      "distance": "28m"
+    },
+    {
+      "brand": "三元桥的一家小酒馆",
+      "address": "远洋新干线东南门东60米",
+      "distance": "28m"
+    },
+    {
+      "brand": "黄焖鸡米饭(霞光里35号院店)",
+      "address": "霞光里南街霞光里35号院",
+      "distance": "30m"
+    },
+    {
+      "brand": "蛙赛牛蛙(霞光里南街店)",
+      "address": "霞光里南街与霞光里南巷交叉口西南120米",
+      "distance": "31m"
+    },
+    {
+      "brand": "北京鑫钱餐饮管理有限公司",
+      "address": "霞光里南街与霞光里西路交叉口东北120米",
+      "distance": "5m"
+    },
+    {
+      "brand": "JacuCoffee 黑鸟咖啡(霄云路店)",
+      "address": "霄云路35号新干线南侧美食街靠西停车场第二家",
+      "distance": "10m"
+    },
+    {
+      "brand": "老重庆地摊火锅(三元桥店)",
+      "address": "远洋新干线东南门东南50米",
+      "distance": "11m"
+    },
+    {
+      "brand": "板面王(霞光里35号院店)",
+      "address": "霞光里南街与霞光里西路交叉口东北120米",
+      "distance": "22m"
+    },
+    {
+      "brand": "一群发小",
+      "address": "霄云路35号院",
+      "distance": "23m"
+    },
+    {
+      "brand": "刘老三东北大冷面(第3档口霄云美食城店)",
+      "address": "霞光里南街与霞光里南巷交叉口西南120米",
+      "distance": "23m"
+    },
+    {
+      "brand": "小龙虾研究所",
+      "address": "霞光里南街与霞光里南巷交叉口西南120米",
+      "distance": "28m"
+    },
+    {
+      "brand": "三元桥的一家小酒馆",
+      "address": "远洋新干线东南门东60米",
+      "distance": "28m"
+    },
+    {
+      "brand": "黄焖鸡米饭(霞光里35号院店)",
+      "address": "霞光里南街霞光里35号院",
+      "distance": "30m"
+    },
+    {
+      "brand": "蛙赛牛蛙(霞光里南街店)",
+      "address": "霞光里南街与霞光里南巷交叉口西南120米",
+      "distance": "31m"
+    },
+    {
+      "brand": "北京鑫钱餐饮管理有限公司",
+      "address": "霞光里南街与霞光里西路交叉口东北120米",
+      "distance": "5m"
+    },
+    {
+      "brand": "JacuCoffee 黑鸟咖啡(霄云路店)",
+      "address": "霄云路35号新干线南侧美食街靠西停车场第二家",
+      "distance": "10m"
+    },
+    {
+      "brand": "老重庆地摊火锅(三元桥店)",
+      "address": "远洋新干线东南门东南50米",
+      "distance": "11m"
+    },
+    {
+      "brand": "板面王(霞光里35号院店)",
+      "address": "霞光里南街与霞光里西路交叉口东北120米",
+      "distance": "22m"
+    },
+    {
+      "brand": "一群发小",
+      "address": "霄云路35号院",
+      "distance": "23m"
+    },
+    {
+      "brand": "刘老三东北大冷面(第3档口霄云美食城店)",
+      "address": "霞光里南街与霞光里南巷交叉口西南120米",
+      "distance": "23m"
+    },
+    {
+      "brand": "小龙虾研究所",
+      "address": "霞光里南街与霞光里南巷交叉口西南120米",
+      "distance": "28m"
+    },
+    {
+      "brand": "三元桥的一家小酒馆",
+      "address": "远洋新干线东南门东60米",
+      "distance": "28m"
+    },
+    {
+      "brand": "黄焖鸡米饭(霞光里35号院店)",
+      "address": "霞光里南街霞光里35号院",
+      "distance": "30m"
+    },
+    {
+      "brand": "蛙赛牛蛙(霞光里南街店)",
+      "address": "霞光里南街与霞光里南巷交叉口西南120米",
+      "distance": "31m"
+    },
+    {
+      "brand": "北京鑫钱餐饮管理有限公司",
+      "address": "霞光里南街与霞光里西路交叉口东北120米",
+      "distance": "5m"
+    },
+    {
+      "brand": "JacuCoffee 黑鸟咖啡(霄云路店)",
+      "address": "霄云路35号新干线南侧美食街靠西停车场第二家",
+      "distance": "10m"
+    },
+    {
+      "brand": "老重庆地摊火锅(三元桥店)",
+      "address": "远洋新干线东南门东南50米",
+      "distance": "11m"
+    },
+    {
+      "brand": "板面王(霞光里35号院店)",
+      "address": "霞光里南街与霞光里西路交叉口东北120米",
+      "distance": "22m"
+    },
+    {
+      "brand": "一群发小",
+      "address": "霄云路35号院",
+      "distance": "23m"
+    },
+    {
+      "brand": "刘老三东北大冷面(第3档口霄云美食城店)",
+      "address": "霞光里南街与霞光里南巷交叉口西南120米",
+      "distance": "23m"
+    },
+    {
+      "brand": "小龙虾研究所",
+      "address": "霞光里南街与霞光里南巷交叉口西南120米",
+      "distance": "28m"
+    },
+    {
+      "brand": "三元桥的一家小酒馆",
+      "address": "远洋新干线东南门东60米",
+      "distance": "28m"
+    },
+    {
+      "brand": "黄焖鸡米饭(霞光里35号院店)",
+      "address": "霞光里南街霞光里35号院",
+      "distance": "30m"
+    },
+    {
+      "brand": "蛙赛牛蛙(霞光里南街店)",
+      "address": "霞光里南街与霞光里南巷交叉口西南120米",
+      "distance": "31m"
+    },
+    {
+      "brand": "北京鑫钱餐饮管理有限公司",
+      "address": "霞光里南街与霞光里西路交叉口东北120米",
+      "distance": "5m"
+    },
+    {
+      "brand": "JacuCoffee 黑鸟咖啡(霄云路店)",
+      "address": "霄云路35号新干线南侧美食街靠西停车场第二家",
+      "distance": "10m"
+    },
+    {
+      "brand": "老重庆地摊火锅(三元桥店)",
+      "address": "远洋新干线东南门东南50米",
+      "distance": "11m"
+    },
+    {
+      "brand": "板面王(霞光里35号院店)",
+      "address": "霞光里南街与霞光里西路交叉口东北120米",
+      "distance": "22m"
+    },
+    {
+      "brand": "一群发小",
+      "address": "霄云路35号院",
+      "distance": "23m"
+    },
+    {
+      "brand": "刘老三东北大冷面(第3档口霄云美食城店)",
+      "address": "霞光里南街与霞光里南巷交叉口西南120米",
+      "distance": "23m"
+    },
+    {
+      "brand": "小龙虾研究所",
+      "address": "霞光里南街与霞光里南巷交叉口西南120米",
+      "distance": "28m"
+    },
+    {
+      "brand": "三元桥的一家小酒馆",
+      "address": "远洋新干线东南门东60米",
+      "distance": "28m"
+    },
+    {
+      "brand": "黄焖鸡米饭(霞光里35号院店)",
+      "address": "霞光里南街霞光里35号院",
+      "distance": "30m"
+    },
+    {
+      "brand": "蛙赛牛蛙(霞光里南街店)",
+      "address": "霞光里南街与霞光里南巷交叉口西南120米",
+      "distance": "31m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "北京官舍",
+      "open_date": "2012-02-18",
+      "area": "1.1万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "北京凤凰汇购物中心",
+      "open_date": "2024-11-11",
+      "area": "1.2万㎡",
+      "jun_daily_avg": "2.1万人次",
+      "weekday_avg": "2.1万人次",
+      "holiday_avg": "2.1万人次"
+    },
+    {
+      "name": "北京都汇天地",
+      "open_date": "2010-09-27",
+      "area": "2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "北京佳亿广场",
+      "open_date": "2001-09-18",
+      "area": "3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "北京燕莎友谊商城",
+      "open_date": "1992-06-30",
+      "area": "2.2万㎡",
+      "jun_daily_avg": "2万人次",
+      "weekday_avg": "2万人次",
+      "holiday_avg": "2.1万人次"
+    },
+    {
+      "name": "北京国展天虹购物中心",
+      "open_date": "2024-10-13",
+      "area": "2万㎡",
+      "jun_daily_avg": "6.3万人次",
+      "weekday_avg": "5.3万人次",
+      "holiday_avg": "9.2万人次"
+    },
+    {
+      "name": "北京SOLANA蓝色港湾",
+      "open_date": "2024-12-08",
+      "area": "13.6万㎡",
+      "jun_daily_avg": "6.3万人次",
+      "weekday_avg": "5.3万人次",
+      "holiday_avg": "9.2万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 327.0,
+      "within_1yr_pct": 29.7,
+      "1_3yr_pct": 24.2,
+      "over_3yr_pct": 46.2
+    },
+    {
+      "type": "购物",
+      "count": 89.0,
+      "within_1yr_pct": 27.0,
+      "1_3yr_pct": 37.1,
+      "over_3yr_pct": 36.0
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 19.0,
+      "within_1yr_pct": 31.6,
+      "1_3yr_pct": 26.3,
+      "over_3yr_pct": 42.1
+    },
+    {
+      "type": "教育培训",
+      "count": 21.0,
+      "within_1yr_pct": 19.0,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 47.6
+    },
+    {
+      "type": "酒店住宿",
+      "count": 51.0,
+      "within_1yr_pct": 11.8,
+      "1_3yr_pct": 19.6,
+      "over_3yr_pct": 68.6
+    },
+    {
+      "type": "生活服务",
+      "count": 173.0,
+      "within_1yr_pct": 26.0,
+      "1_3yr_pct": 26.0,
+      "over_3yr_pct": 48.0
+    },
+    {
+      "type": "运动健身",
+      "count": 33.0,
+      "within_1yr_pct": 6.1,
+      "1_3yr_pct": 39.4,
+      "over_3yr_pct": 54.5
+    },
+    {
+      "type": "车辆服务",
+      "count": 32.0,
+      "within_1yr_pct": 21.9,
+      "1_3yr_pct": 37.5,
+      "over_3yr_pct": 40.6
+    }
+  ]
+}

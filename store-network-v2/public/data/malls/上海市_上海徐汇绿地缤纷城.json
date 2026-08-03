@@ -1,0 +1,431 @@
+{
+  "name": "上海徐汇绿地缤纷城",
+  "city": "上海市",
+  "address": "上海市徐汇区东安路562号",
+  "lat": 31.183567,
+  "lng": 121.456586,
+  "overview": {
+    "score": 95.9,
+    "score_rank": "市内前30%",
+    "population_score": 83.4,
+    "area_score": 78.9,
+    "consumption_score": 90.3,
+    "industry_score": 96.0,
+    "annual_sales": "15.5",
+    "annual_sales_unit": "亿元",
+    "area_size_sqm": 8.4,
+    "open_date": "2017-04-27",
+    "operator": "绿地控股集团股份有限公司",
+    "brand": "绿地控股greenland",
+    "type": "美食型",
+    "floors": "B2-L6"
+  },
+  "traffic": {
+    "annual_daily": 4.78,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第34",
+    "jun_total": 193.8,
+    "jun_total_rank": "市内商场第36名",
+    "jun_daily_avg": 6.5,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第36名",
+    "weekday_avg": 6.6,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第25名",
+    "holiday_avg": 6.1,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第65名"
+  },
+  "population": {
+    "residential": {
+      "500m": 1.7,
+      "1_5km": 19.9,
+      "3km": 76.6
+    },
+    "office": {
+      "500m": 3.4,
+      "1_5km": 15.0,
+      "3km": 70.9
+    },
+    "permanent": {
+      "500m": 2.9,
+      "1_5km": 21.5,
+      "3km": 86.4
+    }
+  },
+  "business": {
+    "competitors": 12.0,
+    "food": 238.0,
+    "shopping": 111.0,
+    "leisure": 26.0,
+    "education": 50.0,
+    "hotel": 20.0,
+    "services": 159.0,
+    "fitness": 49.0,
+    "auto": 21.0,
+    "total_stores": 242.0,
+    "old_store_3yr_pct": 54.0
+  },
+  "nearby_poi": {
+    "business": 4.0,
+    "community": 723.0,
+    "office": 68.0,
+    "school": 49.0,
+    "hospital": 88.0,
+    "transport": 8.0,
+    "scenic": 340.0
+  },
+  "demographics": {
+    "male_pct": 52.3,
+    "female_pct": null,
+    "education": {
+      "小学": 8.1,
+      "初中": 15.5,
+      "高中": 11.6,
+      "大专": 6.6,
+      "本科": 49.4,
+      "硕士": 6.7,
+      "博士": 2.1
+    },
+    "has_children_pct": 58.1,
+    "no_children_pct": 41.9
+  },
+  "scraped_at": "2026-07-31T16:17:20.241Z",
+  "nearby_restaurants": [
+    {
+      "brand": "杨小鱼铜锅鲜椒鱼馆",
+      "address": "东安路562号徐汇绿地缤纷城西区",
+      "distance": "1m"
+    },
+    {
+      "brand": "大鼓米线(徐汇绿地缤纷城店)",
+      "address": "龙华中路759号徐汇绿地缤纷地下一层(W-B117a、W-B117b)",
+      "distance": "5m"
+    },
+    {
+      "brand": "希望先生(绿地缤纷城徐汇店)",
+      "address": "东安路562号徐汇绿地缤纷城西区",
+      "distance": "6m"
+    },
+    {
+      "brand": "LAVAZZA拉瓦萨咖啡(上海徐汇绿地缤纷城店)",
+      "address": "瑞平路68号徐汇绿地缤纷城一层WE-102-1商铺",
+      "distance": "8m"
+    },
+    {
+      "brand": "柠檬向右(徐汇绿地缤纷城店)",
+      "address": "龙华中路759号绿地缤纷城一层WA-112室",
+      "distance": "9m"
+    },
+    {
+      "brand": "Tims咖啡(龙华绿地缤纷城店)",
+      "address": "龙华中路759号一层商业WA-113",
+      "distance": "10m"
+    },
+    {
+      "brand": "兜约·刀口辣水煮肉片(徐汇绿地缤纷城店)",
+      "address": "龙华中路759号绿地缤纷城B1-114室",
+      "distance": "10m"
+    },
+    {
+      "brand": "鼎鼎轩·现炒浇头面(上海首店)",
+      "address": "东安路562号徐汇绿地缤纷城西区B1层",
+      "distance": "13m"
+    },
+    {
+      "brand": "麦记牛奶(绿地缤纷城店)",
+      "address": "绿地缤纷城瑞平路88号一层商业WD-101c",
+      "distance": "13m"
+    },
+    {
+      "brand": "詹记桃酥(上海绿地缤纷城店)",
+      "address": "东安路562号绿地缤纷城B1",
+      "distance": "14m"
+    },
+    {
+      "brand": "杨小鱼铜锅鲜椒鱼馆",
+      "address": "东安路562号徐汇绿地缤纷城西区",
+      "distance": "1m"
+    },
+    {
+      "brand": "大鼓米线(徐汇绿地缤纷城店)",
+      "address": "龙华中路759号徐汇绿地缤纷地下一层(W-B117a、W-B117b)",
+      "distance": "5m"
+    },
+    {
+      "brand": "希望先生(绿地缤纷城徐汇店)",
+      "address": "东安路562号徐汇绿地缤纷城西区",
+      "distance": "6m"
+    },
+    {
+      "brand": "LAVAZZA拉瓦萨咖啡(上海徐汇绿地缤纷城店)",
+      "address": "瑞平路68号徐汇绿地缤纷城一层WE-102-1商铺",
+      "distance": "8m"
+    },
+    {
+      "brand": "柠檬向右(徐汇绿地缤纷城店)",
+      "address": "龙华中路759号绿地缤纷城一层WA-112室",
+      "distance": "9m"
+    },
+    {
+      "brand": "Tims咖啡(龙华绿地缤纷城店)",
+      "address": "龙华中路759号一层商业WA-113",
+      "distance": "10m"
+    },
+    {
+      "brand": "兜约·刀口辣水煮肉片(徐汇绿地缤纷城店)",
+      "address": "龙华中路759号绿地缤纷城B1-114室",
+      "distance": "10m"
+    },
+    {
+      "brand": "鼎鼎轩·现炒浇头面(上海首店)",
+      "address": "东安路562号徐汇绿地缤纷城西区B1层",
+      "distance": "13m"
+    },
+    {
+      "brand": "麦记牛奶(绿地缤纷城店)",
+      "address": "绿地缤纷城瑞平路88号一层商业WD-101c",
+      "distance": "13m"
+    },
+    {
+      "brand": "詹记桃酥(上海绿地缤纷城店)",
+      "address": "东安路562号绿地缤纷城B1",
+      "distance": "14m"
+    },
+    {
+      "brand": "杨小鱼铜锅鲜椒鱼馆",
+      "address": "东安路562号徐汇绿地缤纷城西区",
+      "distance": "1m"
+    },
+    {
+      "brand": "大鼓米线(徐汇绿地缤纷城店)",
+      "address": "龙华中路759号徐汇绿地缤纷地下一层(W-B117a、W-B117b)",
+      "distance": "5m"
+    },
+    {
+      "brand": "希望先生(绿地缤纷城徐汇店)",
+      "address": "东安路562号徐汇绿地缤纷城西区",
+      "distance": "6m"
+    },
+    {
+      "brand": "LAVAZZA拉瓦萨咖啡(上海徐汇绿地缤纷城店)",
+      "address": "瑞平路68号徐汇绿地缤纷城一层WE-102-1商铺",
+      "distance": "8m"
+    },
+    {
+      "brand": "柠檬向右(徐汇绿地缤纷城店)",
+      "address": "龙华中路759号绿地缤纷城一层WA-112室",
+      "distance": "9m"
+    },
+    {
+      "brand": "Tims咖啡(龙华绿地缤纷城店)",
+      "address": "龙华中路759号一层商业WA-113",
+      "distance": "10m"
+    },
+    {
+      "brand": "兜约·刀口辣水煮肉片(徐汇绿地缤纷城店)",
+      "address": "龙华中路759号绿地缤纷城B1-114室",
+      "distance": "10m"
+    },
+    {
+      "brand": "鼎鼎轩·现炒浇头面(上海首店)",
+      "address": "东安路562号徐汇绿地缤纷城西区B1层",
+      "distance": "13m"
+    },
+    {
+      "brand": "麦记牛奶(绿地缤纷城店)",
+      "address": "绿地缤纷城瑞平路88号一层商业WD-101c",
+      "distance": "13m"
+    },
+    {
+      "brand": "詹记桃酥(上海绿地缤纷城店)",
+      "address": "东安路562号绿地缤纷城B1",
+      "distance": "14m"
+    },
+    {
+      "brand": "杨小鱼铜锅鲜椒鱼馆",
+      "address": "东安路562号徐汇绿地缤纷城西区",
+      "distance": "1m"
+    },
+    {
+      "brand": "大鼓米线(徐汇绿地缤纷城店)",
+      "address": "龙华中路759号徐汇绿地缤纷地下一层(W-B117a、W-B117b)",
+      "distance": "5m"
+    },
+    {
+      "brand": "希望先生(绿地缤纷城徐汇店)",
+      "address": "东安路562号徐汇绿地缤纷城西区",
+      "distance": "6m"
+    },
+    {
+      "brand": "LAVAZZA拉瓦萨咖啡(上海徐汇绿地缤纷城店)",
+      "address": "瑞平路68号徐汇绿地缤纷城一层WE-102-1商铺",
+      "distance": "8m"
+    },
+    {
+      "brand": "柠檬向右(徐汇绿地缤纷城店)",
+      "address": "龙华中路759号绿地缤纷城一层WA-112室",
+      "distance": "9m"
+    },
+    {
+      "brand": "Tims咖啡(龙华绿地缤纷城店)",
+      "address": "龙华中路759号一层商业WA-113",
+      "distance": "10m"
+    },
+    {
+      "brand": "兜约·刀口辣水煮肉片(徐汇绿地缤纷城店)",
+      "address": "龙华中路759号绿地缤纷城B1-114室",
+      "distance": "10m"
+    },
+    {
+      "brand": "鼎鼎轩·现炒浇头面(上海首店)",
+      "address": "东安路562号徐汇绿地缤纷城西区B1层",
+      "distance": "13m"
+    },
+    {
+      "brand": "麦记牛奶(绿地缤纷城店)",
+      "address": "绿地缤纷城瑞平路88号一层商业WD-101c",
+      "distance": "13m"
+    },
+    {
+      "brand": "詹记桃酥(上海绿地缤纷城店)",
+      "address": "东安路562号绿地缤纷城B1",
+      "distance": "14m"
+    },
+    {
+      "brand": "杨小鱼铜锅鲜椒鱼馆",
+      "address": "东安路562号徐汇绿地缤纷城西区",
+      "distance": "1m"
+    },
+    {
+      "brand": "大鼓米线(徐汇绿地缤纷城店)",
+      "address": "龙华中路759号徐汇绿地缤纷地下一层(W-B117a、W-B117b)",
+      "distance": "5m"
+    },
+    {
+      "brand": "希望先生(绿地缤纷城徐汇店)",
+      "address": "东安路562号徐汇绿地缤纷城西区",
+      "distance": "6m"
+    },
+    {
+      "brand": "LAVAZZA拉瓦萨咖啡(上海徐汇绿地缤纷城店)",
+      "address": "瑞平路68号徐汇绿地缤纷城一层WE-102-1商铺",
+      "distance": "8m"
+    },
+    {
+      "brand": "柠檬向右(徐汇绿地缤纷城店)",
+      "address": "龙华中路759号绿地缤纷城一层WA-112室",
+      "distance": "9m"
+    },
+    {
+      "brand": "Tims咖啡(龙华绿地缤纷城店)",
+      "address": "龙华中路759号一层商业WA-113",
+      "distance": "10m"
+    },
+    {
+      "brand": "兜约·刀口辣水煮肉片(徐汇绿地缤纷城店)",
+      "address": "龙华中路759号绿地缤纷城B1-114室",
+      "distance": "10m"
+    },
+    {
+      "brand": "鼎鼎轩·现炒浇头面(上海首店)",
+      "address": "东安路562号徐汇绿地缤纷城西区B1层",
+      "distance": "13m"
+    },
+    {
+      "brand": "麦记牛奶(绿地缤纷城店)",
+      "address": "绿地缤纷城瑞平路88号一层商业WD-101c",
+      "distance": "13m"
+    },
+    {
+      "brand": "詹记桃酥(上海绿地缤纷城店)",
+      "address": "东安路562号绿地缤纷城B1",
+      "distance": "14m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海徐汇保利时光里",
+      "open_date": "2017-12-01",
+      "area": "4.7万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海徐汇正大乐城",
+      "open_date": "2013-01-01",
+      "area": "5.5万㎡",
+      "jun_daily_avg": "1.7万人次",
+      "weekday_avg": "1.7万人次",
+      "holiday_avg": "1.6万人次"
+    },
+    {
+      "name": "上海龙华会",
+      "open_date": "2023-09-26",
+      "area": "10万㎡",
+      "jun_daily_avg": "4.1万人次",
+      "weekday_avg": "3.8万人次",
+      "holiday_avg": "5万人次"
+    },
+    {
+      "name": "上海腾飞广场",
+      "open_date": "2009-01-01",
+      "area": "1.3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 120.0,
+      "within_1yr_pct": 16.7,
+      "1_3yr_pct": 24.2,
+      "over_3yr_pct": 59.2
+    },
+    {
+      "type": "购物",
+      "count": 37.0,
+      "within_1yr_pct": 24.3,
+      "1_3yr_pct": 35.1,
+      "over_3yr_pct": 40.5
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 9.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 22.2,
+      "over_3yr_pct": 44.4
+    },
+    {
+      "type": "教育培训",
+      "count": 16.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 37.5,
+      "over_3yr_pct": 62.5
+    },
+    {
+      "type": "生活服务",
+      "count": 37.0,
+      "within_1yr_pct": 27.0,
+      "1_3yr_pct": 24.3,
+      "over_3yr_pct": 48.6
+    },
+    {
+      "type": "运动健身",
+      "count": 13.0,
+      "within_1yr_pct": 23.1,
+      "1_3yr_pct": 30.8,
+      "over_3yr_pct": 46.2
+    },
+    {
+      "type": "车辆服务",
+      "count": 10.0,
+      "within_1yr_pct": 10.0,
+      "1_3yr_pct": 20.0,
+      "over_3yr_pct": 70.0
+    }
+  ]
+}

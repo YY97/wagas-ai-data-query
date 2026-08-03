@@ -1,0 +1,189 @@
+{
+  "name": "紫荆广场",
+  "city": "上海市",
+  "address": "上海市浦东新区曹路镇金钻路上川路交叉口恒越荣欣广场",
+  "lat": 31.280868,
+  "lng": 121.676112,
+  "overview": {
+    "score": 95.0,
+    "score_rank": "市内前30%",
+    "population_score": 95.8,
+    "area_score": 69.4,
+    "consumption_score": 66.5,
+    "industry_score": 95.1,
+    "annual_sales": "恒越荣欣广场是曹路继宝龙城市广场外又一大型商场，填补了区域大型商业的空白，商场总建筑超11万平方米，由8栋建筑组成",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 11.0,
+    "open_date": "2019-09-28",
+    "operator": "上海合越置业有限公司",
+    "brand": "",
+    "type": "综合型",
+    "floors": "B1-L6"
+  },
+  "traffic": {
+    "annual_daily": 4.0,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第51",
+    "jun_total": 152.1,
+    "jun_total_rank": "市内商场第66名",
+    "jun_daily_avg": 5.1,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第66名",
+    "weekday_avg": 4.5,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第73名",
+    "holiday_avg": 6.7,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第56名"
+  },
+  "population": {
+    "residential": {
+      "500m": 3.0,
+      "1_5km": 14.7,
+      "3km": 35.1
+    },
+    "office": {
+      "500m": 9200.0,
+      "1_5km": 4.1,
+      "3km": 11.0
+    },
+    "permanent": {
+      "500m": 3.0,
+      "1_5km": 12.8,
+      "3km": 29.9
+    }
+  },
+  "business": {
+    "competitors": 3.0,
+    "food": 135.0,
+    "shopping": 58.0,
+    "leisure": 13.0,
+    "education": 17.0,
+    "hotel": 7.0,
+    "services": 109.0,
+    "fitness": 7.0,
+    "auto": 2.0,
+    "total_stores": 204.0,
+    "old_store_3yr_pct": 50.0
+  },
+  "nearby_poi": {
+    "business": 1.0,
+    "community": 94.0,
+    "office": 11.0,
+    "school": 18.0,
+    "hospital": 21.0,
+    "transport": 9.0,
+    "scenic": 30.0
+  },
+  "demographics": {
+    "male_pct": 46.5,
+    "female_pct": null,
+    "education": {
+      "小学": 8.4,
+      "初中": 17.2,
+      "高中": 18.4,
+      "大专": 8.9,
+      "本科": 41.8,
+      "硕士": 4.5,
+      "博士": 0.8
+    },
+    "has_children_pct": 59.6,
+    "no_children_pct": 40.4
+  },
+  "scraped_at": "2026-08-01T05:19:31.636Z",
+  "nearby_restaurants": [
+    {
+      "brand": "河南金晓拉面烩面(星晓家园店)",
+      "address": "曹路镇星晓路80号",
+      "distance": "413m"
+    },
+    {
+      "brand": "耍川串串火锅(海鸣路店)",
+      "address": "海鸣路与金睦路交叉口东100米",
+      "distance": "415m"
+    },
+    {
+      "brand": "百祥鲁味小笼包",
+      "address": "金晓路96弄1-56号星晓家园",
+      "distance": "420m"
+    },
+    {
+      "brand": "独绣馒头(中虹家园店)",
+      "address": "曹路镇海鸣路114号",
+      "distance": "463m"
+    },
+    {
+      "brand": "沙县小吃(中虹家园店)",
+      "address": "海鸣路98弄1-77号中虹家园",
+      "distance": "499m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海中惠棠里",
+      "open_date": "2023-10-01",
+      "area": "4.5万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 89.0,
+      "within_1yr_pct": 18.0,
+      "1_3yr_pct": 40.4,
+      "over_3yr_pct": 41.6
+    },
+    {
+      "type": "购物",
+      "count": 36.0,
+      "within_1yr_pct": 13.9,
+      "1_3yr_pct": 22.2,
+      "over_3yr_pct": 63.9
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 11.0,
+      "within_1yr_pct": 18.2,
+      "1_3yr_pct": 36.4,
+      "over_3yr_pct": 45.5
+    },
+    {
+      "type": "教育培训",
+      "count": 15.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 20.0,
+      "over_3yr_pct": 60.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    },
+    {
+      "type": "生活服务",
+      "count": 43.0,
+      "within_1yr_pct": 18.6,
+      "1_3yr_pct": 27.9,
+      "over_3yr_pct": 53.5
+    },
+    {
+      "type": "运动健身",
+      "count": 7.0,
+      "within_1yr_pct": 14.3,
+      "1_3yr_pct": 42.9,
+      "over_3yr_pct": 42.9
+    },
+    {
+      "type": "车辆服务",
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    }
+  ]
+}

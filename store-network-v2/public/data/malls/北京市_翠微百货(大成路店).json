@@ -1,0 +1,422 @@
+{
+  "name": "翠微百货(大成路店)",
+  "city": "北京市",
+  "address": "北京市丰台区大成路8号",
+  "lat": 39.888455,
+  "lng": 116.265266,
+  "overview": {
+    "score": 86.6,
+    "score_rank": "市内前30%",
+    "population_score": 91.8,
+    "area_score": 72.4,
+    "consumption_score": 76.9,
+    "industry_score": 86.7,
+    "annual_sales": "北京翠微百货（大成路店）位于北京市丰台区大成路8号，是翠微股份旗下以百货业态为主的连锁百货店之一。翠微股份集百货、超市、餐饮、休闲娱乐等都市品质生活服务于一体，是北京市著名的商业品牌和大型商业企业",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 3.5,
+    "open_date": "2011-12-30",
+    "operator": "北京翠微大厦股份有限公司",
+    "brand": "",
+    "type": "购物型",
+    "floors": "B2-L5"
+  },
+  "traffic": {
+    "annual_daily": 1.13,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第196",
+    "jun_total": 56.1,
+    "jun_total_rank": "市内商场第167名",
+    "jun_daily_avg": 1.9,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第167名",
+    "weekday_avg": 1.8,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第170名",
+    "holiday_avg": 2.2,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第161名"
+  },
+  "population": {
+    "residential": {
+      "500m": 2.4,
+      "1_5km": 19.3,
+      "3km": 63.6
+    },
+    "office": {
+      "500m": 1.1,
+      "1_5km": 6.7,
+      "3km": 30.9
+    },
+    "permanent": {
+      "500m": 2.5,
+      "1_5km": 18.4,
+      "3km": 63.0
+    }
+  },
+  "business": {
+    "competitors": 2.0,
+    "food": 69.0,
+    "shopping": 119.0,
+    "leisure": 11.0,
+    "education": 16.0,
+    "hotel": 12.0,
+    "services": 74.0,
+    "fitness": 13.0,
+    "auto": 12.0,
+    "total_stores": 115.0,
+    "old_store_3yr_pct": 63.0
+  },
+  "nearby_poi": {
+    "business": 2.0,
+    "community": 272.0,
+    "office": 18.0,
+    "school": 26.0,
+    "hospital": 61.0,
+    "transport": 6.0,
+    "scenic": 145.0
+  },
+  "demographics": {
+    "male_pct": 46.8,
+    "female_pct": null,
+    "education": {
+      "小学": 11.0,
+      "初中": 18.2,
+      "高中": 12.1,
+      "大专": 7.6,
+      "本科": 44.6,
+      "硕士": 5.2,
+      "博士": 1.3
+    },
+    "has_children_pct": 59.9,
+    "no_children_pct": 40.1
+  },
+  "scraped_at": "2026-08-01T21:28:58.765Z",
+  "nearby_restaurants": [
+    {
+      "brand": "大晟府烤鸭",
+      "address": "大成路8号翠微百货大成路店5F层",
+      "distance": "5m"
+    },
+    {
+      "brand": "鸭血粉丝汤(大成路翠微百货店)",
+      "address": "大成路8号翠微百货大成路店5F层",
+      "distance": "10m"
+    },
+    {
+      "brand": "寂如素然",
+      "address": "北京城区翠微百货大成路8号5层101内25-26",
+      "distance": "11m"
+    },
+    {
+      "brand": "创赢天下美食广场(大成路翠微百货店)",
+      "address": "大成路8号翠微百货(大成路店)5F层",
+      "distance": "12m"
+    },
+    {
+      "brand": "大咖美食城(大成路翠微百货店)",
+      "address": "青塔街道大成路8号翠微百货五层",
+      "distance": "12m"
+    },
+    {
+      "brand": "海盈阁寿司(大成路翠微百货店)",
+      "address": "大成路8号翠微百货大成路店B1层",
+      "distance": "13m"
+    },
+    {
+      "brand": "吴大姐现包饺子店",
+      "address": "大成路8号翠微百货大成路店5F层",
+      "distance": "22m"
+    },
+    {
+      "brand": "磨逗手工好豆腐(大成店)",
+      "address": "大成路8号翠微百货大成路店B1层(盒马鲜生内)",
+      "distance": "33m"
+    },
+    {
+      "brand": "盒马烘焙(翠微百货大成路店)",
+      "address": "大成路8号翠微百货大成路店B1层",
+      "distance": "37m"
+    },
+    {
+      "brand": "柳林小馆(大成路店)",
+      "address": "青塔街道大成路8号翠微百货四楼",
+      "distance": "40m"
+    },
+    {
+      "brand": "大晟府烤鸭",
+      "address": "大成路8号翠微百货大成路店5F层",
+      "distance": "5m"
+    },
+    {
+      "brand": "鸭血粉丝汤(大成路翠微百货店)",
+      "address": "大成路8号翠微百货大成路店5F层",
+      "distance": "10m"
+    },
+    {
+      "brand": "寂如素然",
+      "address": "北京城区翠微百货大成路8号5层101内25-26",
+      "distance": "11m"
+    },
+    {
+      "brand": "创赢天下美食广场(大成路翠微百货店)",
+      "address": "大成路8号翠微百货(大成路店)5F层",
+      "distance": "12m"
+    },
+    {
+      "brand": "大咖美食城(大成路翠微百货店)",
+      "address": "青塔街道大成路8号翠微百货五层",
+      "distance": "12m"
+    },
+    {
+      "brand": "海盈阁寿司(大成路翠微百货店)",
+      "address": "大成路8号翠微百货大成路店B1层",
+      "distance": "13m"
+    },
+    {
+      "brand": "吴大姐现包饺子店",
+      "address": "大成路8号翠微百货大成路店5F层",
+      "distance": "22m"
+    },
+    {
+      "brand": "磨逗手工好豆腐(大成店)",
+      "address": "大成路8号翠微百货大成路店B1层(盒马鲜生内)",
+      "distance": "33m"
+    },
+    {
+      "brand": "盒马烘焙(翠微百货大成路店)",
+      "address": "大成路8号翠微百货大成路店B1层",
+      "distance": "37m"
+    },
+    {
+      "brand": "柳林小馆(大成路店)",
+      "address": "青塔街道大成路8号翠微百货四楼",
+      "distance": "40m"
+    },
+    {
+      "brand": "大晟府烤鸭",
+      "address": "大成路8号翠微百货大成路店5F层",
+      "distance": "5m"
+    },
+    {
+      "brand": "鸭血粉丝汤(大成路翠微百货店)",
+      "address": "大成路8号翠微百货大成路店5F层",
+      "distance": "10m"
+    },
+    {
+      "brand": "寂如素然",
+      "address": "北京城区翠微百货大成路8号5层101内25-26",
+      "distance": "11m"
+    },
+    {
+      "brand": "创赢天下美食广场(大成路翠微百货店)",
+      "address": "大成路8号翠微百货(大成路店)5F层",
+      "distance": "12m"
+    },
+    {
+      "brand": "大咖美食城(大成路翠微百货店)",
+      "address": "青塔街道大成路8号翠微百货五层",
+      "distance": "12m"
+    },
+    {
+      "brand": "海盈阁寿司(大成路翠微百货店)",
+      "address": "大成路8号翠微百货大成路店B1层",
+      "distance": "13m"
+    },
+    {
+      "brand": "吴大姐现包饺子店",
+      "address": "大成路8号翠微百货大成路店5F层",
+      "distance": "22m"
+    },
+    {
+      "brand": "磨逗手工好豆腐(大成店)",
+      "address": "大成路8号翠微百货大成路店B1层(盒马鲜生内)",
+      "distance": "33m"
+    },
+    {
+      "brand": "盒马烘焙(翠微百货大成路店)",
+      "address": "大成路8号翠微百货大成路店B1层",
+      "distance": "37m"
+    },
+    {
+      "brand": "柳林小馆(大成路店)",
+      "address": "青塔街道大成路8号翠微百货四楼",
+      "distance": "40m"
+    },
+    {
+      "brand": "大晟府烤鸭",
+      "address": "大成路8号翠微百货大成路店5F层",
+      "distance": "5m"
+    },
+    {
+      "brand": "鸭血粉丝汤(大成路翠微百货店)",
+      "address": "大成路8号翠微百货大成路店5F层",
+      "distance": "10m"
+    },
+    {
+      "brand": "寂如素然",
+      "address": "北京城区翠微百货大成路8号5层101内25-26",
+      "distance": "11m"
+    },
+    {
+      "brand": "创赢天下美食广场(大成路翠微百货店)",
+      "address": "大成路8号翠微百货(大成路店)5F层",
+      "distance": "12m"
+    },
+    {
+      "brand": "大咖美食城(大成路翠微百货店)",
+      "address": "青塔街道大成路8号翠微百货五层",
+      "distance": "12m"
+    },
+    {
+      "brand": "海盈阁寿司(大成路翠微百货店)",
+      "address": "大成路8号翠微百货大成路店B1层",
+      "distance": "13m"
+    },
+    {
+      "brand": "吴大姐现包饺子店",
+      "address": "大成路8号翠微百货大成路店5F层",
+      "distance": "22m"
+    },
+    {
+      "brand": "磨逗手工好豆腐(大成店)",
+      "address": "大成路8号翠微百货大成路店B1层(盒马鲜生内)",
+      "distance": "33m"
+    },
+    {
+      "brand": "盒马烘焙(翠微百货大成路店)",
+      "address": "大成路8号翠微百货大成路店B1层",
+      "distance": "37m"
+    },
+    {
+      "brand": "柳林小馆(大成路店)",
+      "address": "青塔街道大成路8号翠微百货四楼",
+      "distance": "40m"
+    },
+    {
+      "brand": "大晟府烤鸭",
+      "address": "大成路8号翠微百货大成路店5F层",
+      "distance": "5m"
+    },
+    {
+      "brand": "鸭血粉丝汤(大成路翠微百货店)",
+      "address": "大成路8号翠微百货大成路店5F层",
+      "distance": "10m"
+    },
+    {
+      "brand": "寂如素然",
+      "address": "北京城区翠微百货大成路8号5层101内25-26",
+      "distance": "11m"
+    },
+    {
+      "brand": "创赢天下美食广场(大成路翠微百货店)",
+      "address": "大成路8号翠微百货(大成路店)5F层",
+      "distance": "12m"
+    },
+    {
+      "brand": "大咖美食城(大成路翠微百货店)",
+      "address": "青塔街道大成路8号翠微百货五层",
+      "distance": "12m"
+    },
+    {
+      "brand": "海盈阁寿司(大成路翠微百货店)",
+      "address": "大成路8号翠微百货大成路店B1层",
+      "distance": "13m"
+    },
+    {
+      "brand": "吴大姐现包饺子店",
+      "address": "大成路8号翠微百货大成路店5F层",
+      "distance": "22m"
+    },
+    {
+      "brand": "磨逗手工好豆腐(大成店)",
+      "address": "大成路8号翠微百货大成路店B1层(盒马鲜生内)",
+      "distance": "33m"
+    },
+    {
+      "brand": "盒马烘焙(翠微百货大成路店)",
+      "address": "大成路8号翠微百货大成路店B1层",
+      "distance": "37m"
+    },
+    {
+      "brand": "柳林小馆(大成路店)",
+      "address": "青塔街道大成路8号翠微百货四楼",
+      "distance": "40m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "北京久隆百货青塔店",
+      "open_date": "2010-12-31",
+      "area": "2.7万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "千禧商业街",
+      "open_date": "2007-10-01",
+      "area": "-",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 22.0,
+      "within_1yr_pct": 9.1,
+      "1_3yr_pct": 40.9,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "购物",
+      "count": 69.0,
+      "within_1yr_pct": 10.1,
+      "1_3yr_pct": 13.0,
+      "over_3yr_pct": 76.8
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 3.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 33.3
+    },
+    {
+      "type": "教育培训",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "生活服务",
+      "count": 14.0,
+      "within_1yr_pct": 21.4,
+      "1_3yr_pct": 28.6,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "运动健身",
+      "count": 4.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 75.0,
+      "over_3yr_pct": 25.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
+    }
+  ]
+}

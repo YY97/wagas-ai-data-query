@@ -1,0 +1,486 @@
+{
+  "name": "上海旭辉里",
+  "city": "上海市",
+  "address": "上海市徐汇区徐家汇街道徐家汇书院(图书馆)教堂广场",
+  "lat": 31.191082,
+  "lng": 121.437472,
+  "overview": {
+    "score": 75.4,
+    "score_rank": "市内前50%",
+    "population_score": 93.3,
+    "area_score": 100.0,
+    "consumption_score": 88.5,
+    "industry_score": 75.2,
+    "annual_sales": "",
+    "annual_sales_unit": "",
+    "area_size_sqm": null,
+    "open_date": "",
+    "operator": "",
+    "brand": "",
+    "type": "",
+    "floors": ""
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "",
+    "annual_daily_rank": "",
+    "jun_total": null,
+    "jun_total_rank": "",
+    "jun_daily_avg": null,
+    "jun_daily_unit": "",
+    "jun_daily_rank": "",
+    "weekday_avg": null,
+    "weekday_unit": "",
+    "weekday_rank": "",
+    "holiday_avg": null,
+    "holiday_unit": "",
+    "holiday_rank": ""
+  },
+  "population": {
+    "residential": {
+      "500m": 2.7,
+      "1_5km": 27.0,
+      "3km": 95.4
+    },
+    "office": {
+      "500m": 4.5,
+      "1_5km": 26.3,
+      "3km": 81.8
+    },
+    "permanent": {
+      "500m": 4.9,
+      "1_5km": 31.0,
+      "3km": 105.2
+    }
+  },
+  "business": {
+    "competitors": 18.0,
+    "food": 421.0,
+    "shopping": 469.0,
+    "leisure": 65.0,
+    "education": 78.0,
+    "hotel": 53.0,
+    "services": 289.0,
+    "fitness": 42.0,
+    "auto": 27.0,
+    "total_stores": 1453.0,
+    "old_store_3yr_pct": 48.0
+  },
+  "nearby_poi": {
+    "business": 16.0,
+    "community": 1028.0,
+    "office": 163.0,
+    "school": 73.0,
+    "hospital": 153.0,
+    "transport": 10.0,
+    "scenic": 359.0
+  },
+  "demographics": {
+    "male_pct": 47.5,
+    "female_pct": null,
+    "education": {
+      "小学": 8.1,
+      "初中": 15.5,
+      "高中": 11.6,
+      "大专": 6.6,
+      "本科": 49.4,
+      "硕士": 6.7,
+      "博士": 2.1
+    },
+    "has_children_pct": null,
+    "no_children_pct": null
+  },
+  "scraped_at": "2026-07-31T16:33:39.576Z",
+  "nearby_restaurants": [
+    {
+      "brand": "永璞咖啡(徐家汇书院旗舰店)",
+      "address": "漕溪北路158号徐家汇书院一楼(徐家汇地铁站3号口旁)",
+      "distance": "15m"
+    },
+    {
+      "brand": "Peet's Coffee皮爷咖啡(徐家汇书院店)",
+      "address": "漕溪北路158号徐家汇书院一楼东西公园102",
+      "distance": "15m"
+    },
+    {
+      "brand": "木寸野集茶客厅(徐家汇书院店)",
+      "address": "蒲西路与紫阳路交叉口东南80米(徐家汇地铁站3号口旁)",
+      "distance": "17m"
+    },
+    {
+      "brand": "西园抹茶专门店(徐家汇书院店)",
+      "address": "蒲西路与紫阳路交叉口东南80米(徐家汇地铁站3号口旁)",
+      "distance": "36m"
+    },
+    {
+      "brand": "申立春泉州牛排馆(百脑汇店)",
+      "address": "漕溪北路339号百脑汇5楼5Y04室(徐家汇地铁站4号口旁)",
+      "distance": "85m"
+    },
+    {
+      "brand": "新斋桥苏式面馆",
+      "address": "漕溪北路439号(徐家汇地铁站4号口步行80米)",
+      "distance": "89m"
+    },
+    {
+      "brand": "苏虞斋精品面馆(徐家汇店)",
+      "address": "漕溪北路439号1幢1层B区(徐家汇地铁站4号口步行70米)",
+      "distance": "92m"
+    },
+    {
+      "brand": "大志丼·烧肉食堂(徐家汇店)",
+      "address": "漕溪北路与蒲西路交叉口东南60米(徐家汇地铁站4号口旁)",
+      "distance": "95m"
+    },
+    {
+      "brand": "BeanStar比星咖啡(上海徐汇百脑汇店)",
+      "address": "徐家汇漕溪北路339号百脑汇一楼地铁四号口",
+      "distance": "100m"
+    },
+    {
+      "brand": "DQ(漕溪北路店)",
+      "address": "百脑汇2期南门旁(徐家汇地铁站4号口步行70米)",
+      "distance": "107m"
+    },
+    {
+      "brand": "永璞咖啡(徐家汇书院旗舰店)",
+      "address": "漕溪北路158号徐家汇书院一楼(徐家汇地铁站3号口旁)",
+      "distance": "15m"
+    },
+    {
+      "brand": "Peet's Coffee皮爷咖啡(徐家汇书院店)",
+      "address": "漕溪北路158号徐家汇书院一楼东西公园102",
+      "distance": "15m"
+    },
+    {
+      "brand": "木寸野集茶客厅(徐家汇书院店)",
+      "address": "蒲西路与紫阳路交叉口东南80米(徐家汇地铁站3号口旁)",
+      "distance": "17m"
+    },
+    {
+      "brand": "西园抹茶专门店(徐家汇书院店)",
+      "address": "蒲西路与紫阳路交叉口东南80米(徐家汇地铁站3号口旁)",
+      "distance": "36m"
+    },
+    {
+      "brand": "申立春泉州牛排馆(百脑汇店)",
+      "address": "漕溪北路339号百脑汇5楼5Y04室(徐家汇地铁站4号口旁)",
+      "distance": "85m"
+    },
+    {
+      "brand": "新斋桥苏式面馆",
+      "address": "漕溪北路439号(徐家汇地铁站4号口步行80米)",
+      "distance": "89m"
+    },
+    {
+      "brand": "苏虞斋精品面馆(徐家汇店)",
+      "address": "漕溪北路439号1幢1层B区(徐家汇地铁站4号口步行70米)",
+      "distance": "92m"
+    },
+    {
+      "brand": "大志丼·烧肉食堂(徐家汇店)",
+      "address": "漕溪北路与蒲西路交叉口东南60米(徐家汇地铁站4号口旁)",
+      "distance": "95m"
+    },
+    {
+      "brand": "BeanStar比星咖啡(上海徐汇百脑汇店)",
+      "address": "徐家汇漕溪北路339号百脑汇一楼地铁四号口",
+      "distance": "100m"
+    },
+    {
+      "brand": "DQ(漕溪北路店)",
+      "address": "百脑汇2期南门旁(徐家汇地铁站4号口步行70米)",
+      "distance": "107m"
+    },
+    {
+      "brand": "永璞咖啡(徐家汇书院旗舰店)",
+      "address": "漕溪北路158号徐家汇书院一楼(徐家汇地铁站3号口旁)",
+      "distance": "15m"
+    },
+    {
+      "brand": "Peet's Coffee皮爷咖啡(徐家汇书院店)",
+      "address": "漕溪北路158号徐家汇书院一楼东西公园102",
+      "distance": "15m"
+    },
+    {
+      "brand": "木寸野集茶客厅(徐家汇书院店)",
+      "address": "蒲西路与紫阳路交叉口东南80米(徐家汇地铁站3号口旁)",
+      "distance": "17m"
+    },
+    {
+      "brand": "西园抹茶专门店(徐家汇书院店)",
+      "address": "蒲西路与紫阳路交叉口东南80米(徐家汇地铁站3号口旁)",
+      "distance": "36m"
+    },
+    {
+      "brand": "申立春泉州牛排馆(百脑汇店)",
+      "address": "漕溪北路339号百脑汇5楼5Y04室(徐家汇地铁站4号口旁)",
+      "distance": "85m"
+    },
+    {
+      "brand": "新斋桥苏式面馆",
+      "address": "漕溪北路439号(徐家汇地铁站4号口步行80米)",
+      "distance": "89m"
+    },
+    {
+      "brand": "苏虞斋精品面馆(徐家汇店)",
+      "address": "漕溪北路439号1幢1层B区(徐家汇地铁站4号口步行70米)",
+      "distance": "92m"
+    },
+    {
+      "brand": "大志丼·烧肉食堂(徐家汇店)",
+      "address": "漕溪北路与蒲西路交叉口东南60米(徐家汇地铁站4号口旁)",
+      "distance": "95m"
+    },
+    {
+      "brand": "BeanStar比星咖啡(上海徐汇百脑汇店)",
+      "address": "徐家汇漕溪北路339号百脑汇一楼地铁四号口",
+      "distance": "100m"
+    },
+    {
+      "brand": "DQ(漕溪北路店)",
+      "address": "百脑汇2期南门旁(徐家汇地铁站4号口步行70米)",
+      "distance": "107m"
+    },
+    {
+      "brand": "永璞咖啡(徐家汇书院旗舰店)",
+      "address": "漕溪北路158号徐家汇书院一楼(徐家汇地铁站3号口旁)",
+      "distance": "15m"
+    },
+    {
+      "brand": "Peet's Coffee皮爷咖啡(徐家汇书院店)",
+      "address": "漕溪北路158号徐家汇书院一楼东西公园102",
+      "distance": "15m"
+    },
+    {
+      "brand": "木寸野集茶客厅(徐家汇书院店)",
+      "address": "蒲西路与紫阳路交叉口东南80米(徐家汇地铁站3号口旁)",
+      "distance": "17m"
+    },
+    {
+      "brand": "西园抹茶专门店(徐家汇书院店)",
+      "address": "蒲西路与紫阳路交叉口东南80米(徐家汇地铁站3号口旁)",
+      "distance": "36m"
+    },
+    {
+      "brand": "申立春泉州牛排馆(百脑汇店)",
+      "address": "漕溪北路339号百脑汇5楼5Y04室(徐家汇地铁站4号口旁)",
+      "distance": "85m"
+    },
+    {
+      "brand": "新斋桥苏式面馆",
+      "address": "漕溪北路439号(徐家汇地铁站4号口步行80米)",
+      "distance": "89m"
+    },
+    {
+      "brand": "苏虞斋精品面馆(徐家汇店)",
+      "address": "漕溪北路439号1幢1层B区(徐家汇地铁站4号口步行70米)",
+      "distance": "92m"
+    },
+    {
+      "brand": "大志丼·烧肉食堂(徐家汇店)",
+      "address": "漕溪北路与蒲西路交叉口东南60米(徐家汇地铁站4号口旁)",
+      "distance": "95m"
+    },
+    {
+      "brand": "BeanStar比星咖啡(上海徐汇百脑汇店)",
+      "address": "徐家汇漕溪北路339号百脑汇一楼地铁四号口",
+      "distance": "100m"
+    },
+    {
+      "brand": "DQ(漕溪北路店)",
+      "address": "百脑汇2期南门旁(徐家汇地铁站4号口步行70米)",
+      "distance": "107m"
+    },
+    {
+      "brand": "永璞咖啡(徐家汇书院旗舰店)",
+      "address": "漕溪北路158号徐家汇书院一楼(徐家汇地铁站3号口旁)",
+      "distance": "15m"
+    },
+    {
+      "brand": "Peet's Coffee皮爷咖啡(徐家汇书院店)",
+      "address": "漕溪北路158号徐家汇书院一楼东西公园102",
+      "distance": "15m"
+    },
+    {
+      "brand": "木寸野集茶客厅(徐家汇书院店)",
+      "address": "蒲西路与紫阳路交叉口东南80米(徐家汇地铁站3号口旁)",
+      "distance": "17m"
+    },
+    {
+      "brand": "西园抹茶专门店(徐家汇书院店)",
+      "address": "蒲西路与紫阳路交叉口东南80米(徐家汇地铁站3号口旁)",
+      "distance": "36m"
+    },
+    {
+      "brand": "申立春泉州牛排馆(百脑汇店)",
+      "address": "漕溪北路339号百脑汇5楼5Y04室(徐家汇地铁站4号口旁)",
+      "distance": "85m"
+    },
+    {
+      "brand": "新斋桥苏式面馆",
+      "address": "漕溪北路439号(徐家汇地铁站4号口步行80米)",
+      "distance": "89m"
+    },
+    {
+      "brand": "苏虞斋精品面馆(徐家汇店)",
+      "address": "漕溪北路439号1幢1层B区(徐家汇地铁站4号口步行70米)",
+      "distance": "92m"
+    },
+    {
+      "brand": "大志丼·烧肉食堂(徐家汇店)",
+      "address": "漕溪北路与蒲西路交叉口东南60米(徐家汇地铁站4号口旁)",
+      "distance": "95m"
+    },
+    {
+      "brand": "BeanStar比星咖啡(上海徐汇百脑汇店)",
+      "address": "徐家汇漕溪北路339号百脑汇一楼地铁四号口",
+      "distance": "100m"
+    },
+    {
+      "brand": "DQ(漕溪北路店)",
+      "address": "百脑汇2期南门旁(徐家汇地铁站4号口步行70米)",
+      "distance": "107m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海东方商厦(旗舰店)",
+      "open_date": "1993-01-01",
+      "area": "9万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海徐家汇TPY中心",
+      "open_date": "2024-04-30",
+      "area": "1.5万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海美罗城",
+      "open_date": "1998-01-01",
+      "area": "6.7万㎡",
+      "jun_daily_avg": "6.5万人次",
+      "weekday_avg": "5.7万人次",
+      "holiday_avg": "8.7万人次"
+    },
+    {
+      "name": "上海汇联商厦",
+      "open_date": "1991-07-18",
+      "area": "1.3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海港汇恒隆广场",
+      "open_date": "1999-12-28",
+      "area": "7万㎡",
+      "jun_daily_avg": "6.3万人次",
+      "weekday_avg": "6.2万人次",
+      "holiday_avg": "6.7万人次"
+    },
+    {
+      "name": "上海城开YOYO",
+      "open_date": "2018-09-30",
+      "area": "1.4万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海腾飞广场",
+      "open_date": "2009-01-01",
+      "area": "1.3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海永新坊",
+      "open_date": "2007-12-01",
+      "area": "1.2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海南洋1931",
+      "open_date": "2018-07-03",
+      "area": "2.2万㎡",
+      "jun_daily_avg": "1.5万人次",
+      "weekday_avg": "1.4万人次",
+      "holiday_avg": "1.6万人次"
+    },
+    {
+      "name": "上海汇金百货(徐汇店)",
+      "open_date": "1998-09-01",
+      "area": "4万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 421.0,
+      "within_1yr_pct": 23.0,
+      "1_3yr_pct": 32.8,
+      "over_3yr_pct": 44.2
+    },
+    {
+      "type": "购物",
+      "count": 469.0,
+      "within_1yr_pct": 19.2,
+      "1_3yr_pct": 21.7,
+      "over_3yr_pct": 59.1
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 74.0,
+      "within_1yr_pct": 41.9,
+      "1_3yr_pct": 31.1,
+      "over_3yr_pct": 27.0
+    },
+    {
+      "type": "教育培训",
+      "count": 78.0,
+      "within_1yr_pct": 21.8,
+      "1_3yr_pct": 26.9,
+      "over_3yr_pct": 51.3
+    },
+    {
+      "type": "酒店住宿",
+      "count": 53.0,
+      "within_1yr_pct": 47.2,
+      "1_3yr_pct": 18.9,
+      "over_3yr_pct": 34.0
+    },
+    {
+      "type": "生活服务",
+      "count": 289.0,
+      "within_1yr_pct": 26.6,
+      "1_3yr_pct": 31.5,
+      "over_3yr_pct": 41.9
+    },
+    {
+      "type": "运动健身",
+      "count": 42.0,
+      "within_1yr_pct": 26.2,
+      "1_3yr_pct": 28.6,
+      "over_3yr_pct": 45.2
+    },
+    {
+      "type": "车辆服务",
+      "count": 27.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 25.9,
+      "over_3yr_pct": 40.7
+    }
+  ]
+}

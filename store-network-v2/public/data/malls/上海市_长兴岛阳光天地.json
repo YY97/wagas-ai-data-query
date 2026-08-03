@@ -1,0 +1,384 @@
+{
+  "name": "长兴岛阳光天地",
+  "city": "上海市",
+  "address": "上海市崇明区长兴镇长兴阳光天地",
+  "lat": 31.35352,
+  "lng": 121.760872,
+  "overview": {
+    "score": 86.5,
+    "score_rank": "市内前30%",
+    "population_score": 62.2,
+    "area_score": 62.6,
+    "consumption_score": 60.0,
+    "industry_score": 86.7,
+    "annual_sales": "",
+    "annual_sales_unit": "",
+    "area_size_sqm": 4.0,
+    "open_date": "2024-11-29",
+    "operator": "万芊荟（上海）商业管理有限公司",
+    "brand": "",
+    "type": "美食型",
+    "floors": ""
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "-",
+    "annual_daily_rank": "",
+    "jun_total": 68.4,
+    "jun_total_rank": "市内商场第173名",
+    "jun_daily_avg": 2.3,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第173名",
+    "weekday_avg": 2.4,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第155名",
+    "holiday_avg": 1.9,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第213名"
+  },
+  "population": {
+    "residential": {
+      "500m": 1400.0,
+      "1_5km": 3.9,
+      "3km": 8.9
+    },
+    "office": {
+      "500m": 4800.0,
+      "1_5km": 2.7,
+      "3km": 6.1
+    },
+    "permanent": {
+      "500m": 3300.0,
+      "1_5km": 3.0,
+      "3km": 6.3
+    }
+  },
+  "business": {
+    "competitors": 2.0,
+    "food": 49.0,
+    "shopping": 20.0,
+    "leisure": 3.0,
+    "education": null,
+    "hotel": 4.0,
+    "services": 11.0,
+    "fitness": 3.0,
+    "auto": 1.0,
+    "total_stores": 40.0,
+    "old_store_3yr_pct": 0.0
+  },
+  "nearby_poi": {
+    "business": null,
+    "community": 15.0,
+    "office": 1.0,
+    "school": 4.0,
+    "hospital": 4.0,
+    "transport": 2.0,
+    "scenic": 3.0
+  },
+  "demographics": {
+    "male_pct": 53.0,
+    "female_pct": null,
+    "education": {
+      "小学": 12.3,
+      "初中": 23.9,
+      "高中": 12.5,
+      "大专": 6.7,
+      "本科": 41.7,
+      "硕士": 1.9,
+      "博士": 1.0
+    },
+    "has_children_pct": 58.7,
+    "no_children_pct": 41.3
+  },
+  "scraped_at": "2026-08-02T02:58:11.415Z",
+  "nearby_restaurants": [
+    {
+      "brand": "江南悦(阳光天地店)",
+      "address": "长兴岛兴坤路18号阳光天地北区二楼",
+      "distance": "6m"
+    },
+    {
+      "brand": "TOUCH泰奇(长兴阳光天地店)",
+      "address": "长兴镇兴坤路18号L1017室",
+      "distance": "8m"
+    },
+    {
+      "brand": "长兴土菜馆(长兴阳光天地店)",
+      "address": "兴坤路18号长兴阳光天地F2层",
+      "distance": "28m"
+    },
+    {
+      "brand": "星巴克(长兴阳光天地店)",
+      "address": "兴坤路18号长兴阳光天地F1层",
+      "distance": "32m"
+    },
+    {
+      "brand": "luckin coffee 瑞幸咖啡(长兴阳光天地店)",
+      "address": "兴坤路18号长兴阳光天地F1层",
+      "distance": "34m"
+    },
+    {
+      "brand": "伴山里·江浙融合菜",
+      "address": "区兴坤路18号阳光天地四楼",
+      "distance": "36m"
+    },
+    {
+      "brand": "先启半步颠小酒馆(长兴阳光天地)",
+      "address": "长兴镇兴坤路18号L3005、L3007",
+      "distance": "36m"
+    },
+    {
+      "brand": "古鲁特烤肉自助餐厅(上海长兴阳光天地店)",
+      "address": "崇明区区阳光天地二楼(盒马右边,5号门二楼)",
+      "distance": "36m"
+    },
+    {
+      "brand": "必胜客(上海长兴岛阳光天地店)",
+      "address": "崇明区兴坤路18号一层L1019单元",
+      "distance": "37m"
+    },
+    {
+      "brand": "谷田稻香·砂锅菜(上海长兴岛阳光天地店)",
+      "address": "兴坤路18号长兴阳光天地商场二层L2023单元",
+      "distance": "38m"
+    },
+    {
+      "brand": "江南悦(阳光天地店)",
+      "address": "长兴岛兴坤路18号阳光天地北区二楼",
+      "distance": "6m"
+    },
+    {
+      "brand": "TOUCH泰奇(长兴阳光天地店)",
+      "address": "长兴镇兴坤路18号L1017室",
+      "distance": "8m"
+    },
+    {
+      "brand": "长兴土菜馆(长兴阳光天地店)",
+      "address": "兴坤路18号长兴阳光天地F2层",
+      "distance": "28m"
+    },
+    {
+      "brand": "星巴克(长兴阳光天地店)",
+      "address": "兴坤路18号长兴阳光天地F1层",
+      "distance": "32m"
+    },
+    {
+      "brand": "luckin coffee 瑞幸咖啡(长兴阳光天地店)",
+      "address": "兴坤路18号长兴阳光天地F1层",
+      "distance": "34m"
+    },
+    {
+      "brand": "伴山里·江浙融合菜",
+      "address": "区兴坤路18号阳光天地四楼",
+      "distance": "36m"
+    },
+    {
+      "brand": "先启半步颠小酒馆(长兴阳光天地)",
+      "address": "长兴镇兴坤路18号L3005、L3007",
+      "distance": "36m"
+    },
+    {
+      "brand": "古鲁特烤肉自助餐厅(上海长兴阳光天地店)",
+      "address": "崇明区区阳光天地二楼(盒马右边,5号门二楼)",
+      "distance": "36m"
+    },
+    {
+      "brand": "必胜客(上海长兴岛阳光天地店)",
+      "address": "崇明区兴坤路18号一层L1019单元",
+      "distance": "37m"
+    },
+    {
+      "brand": "谷田稻香·砂锅菜(上海长兴岛阳光天地店)",
+      "address": "兴坤路18号长兴阳光天地商场二层L2023单元",
+      "distance": "38m"
+    },
+    {
+      "brand": "江南悦(阳光天地店)",
+      "address": "长兴岛兴坤路18号阳光天地北区二楼",
+      "distance": "6m"
+    },
+    {
+      "brand": "TOUCH泰奇(长兴阳光天地店)",
+      "address": "长兴镇兴坤路18号L1017室",
+      "distance": "8m"
+    },
+    {
+      "brand": "长兴土菜馆(长兴阳光天地店)",
+      "address": "兴坤路18号长兴阳光天地F2层",
+      "distance": "28m"
+    },
+    {
+      "brand": "星巴克(长兴阳光天地店)",
+      "address": "兴坤路18号长兴阳光天地F1层",
+      "distance": "32m"
+    },
+    {
+      "brand": "luckin coffee 瑞幸咖啡(长兴阳光天地店)",
+      "address": "兴坤路18号长兴阳光天地F1层",
+      "distance": "34m"
+    },
+    {
+      "brand": "伴山里·江浙融合菜",
+      "address": "区兴坤路18号阳光天地四楼",
+      "distance": "36m"
+    },
+    {
+      "brand": "先启半步颠小酒馆(长兴阳光天地)",
+      "address": "长兴镇兴坤路18号L3005、L3007",
+      "distance": "36m"
+    },
+    {
+      "brand": "古鲁特烤肉自助餐厅(上海长兴阳光天地店)",
+      "address": "崇明区区阳光天地二楼(盒马右边,5号门二楼)",
+      "distance": "36m"
+    },
+    {
+      "brand": "必胜客(上海长兴岛阳光天地店)",
+      "address": "崇明区兴坤路18号一层L1019单元",
+      "distance": "37m"
+    },
+    {
+      "brand": "谷田稻香·砂锅菜(上海长兴岛阳光天地店)",
+      "address": "兴坤路18号长兴阳光天地商场二层L2023单元",
+      "distance": "38m"
+    },
+    {
+      "brand": "江南悦(阳光天地店)",
+      "address": "长兴岛兴坤路18号阳光天地北区二楼",
+      "distance": "6m"
+    },
+    {
+      "brand": "TOUCH泰奇(长兴阳光天地店)",
+      "address": "长兴镇兴坤路18号L1017室",
+      "distance": "8m"
+    },
+    {
+      "brand": "长兴土菜馆(长兴阳光天地店)",
+      "address": "兴坤路18号长兴阳光天地F2层",
+      "distance": "28m"
+    },
+    {
+      "brand": "星巴克(长兴阳光天地店)",
+      "address": "兴坤路18号长兴阳光天地F1层",
+      "distance": "32m"
+    },
+    {
+      "brand": "luckin coffee 瑞幸咖啡(长兴阳光天地店)",
+      "address": "兴坤路18号长兴阳光天地F1层",
+      "distance": "34m"
+    },
+    {
+      "brand": "伴山里·江浙融合菜",
+      "address": "区兴坤路18号阳光天地四楼",
+      "distance": "36m"
+    },
+    {
+      "brand": "先启半步颠小酒馆(长兴阳光天地)",
+      "address": "长兴镇兴坤路18号L3005、L3007",
+      "distance": "36m"
+    },
+    {
+      "brand": "古鲁特烤肉自助餐厅(上海长兴阳光天地店)",
+      "address": "崇明区区阳光天地二楼(盒马右边,5号门二楼)",
+      "distance": "36m"
+    },
+    {
+      "brand": "必胜客(上海长兴岛阳光天地店)",
+      "address": "崇明区兴坤路18号一层L1019单元",
+      "distance": "37m"
+    },
+    {
+      "brand": "谷田稻香·砂锅菜(上海长兴岛阳光天地店)",
+      "address": "兴坤路18号长兴阳光天地商场二层L2023单元",
+      "distance": "38m"
+    },
+    {
+      "brand": "江南悦(阳光天地店)",
+      "address": "长兴岛兴坤路18号阳光天地北区二楼",
+      "distance": "6m"
+    },
+    {
+      "brand": "TOUCH泰奇(长兴阳光天地店)",
+      "address": "长兴镇兴坤路18号L1017室",
+      "distance": "8m"
+    },
+    {
+      "brand": "长兴土菜馆(长兴阳光天地店)",
+      "address": "兴坤路18号长兴阳光天地F2层",
+      "distance": "28m"
+    },
+    {
+      "brand": "星巴克(长兴阳光天地店)",
+      "address": "兴坤路18号长兴阳光天地F1层",
+      "distance": "32m"
+    },
+    {
+      "brand": "luckin coffee 瑞幸咖啡(长兴阳光天地店)",
+      "address": "兴坤路18号长兴阳光天地F1层",
+      "distance": "34m"
+    },
+    {
+      "brand": "伴山里·江浙融合菜",
+      "address": "区兴坤路18号阳光天地四楼",
+      "distance": "36m"
+    },
+    {
+      "brand": "先启半步颠小酒馆(长兴阳光天地)",
+      "address": "长兴镇兴坤路18号L3005、L3007",
+      "distance": "36m"
+    },
+    {
+      "brand": "古鲁特烤肉自助餐厅(上海长兴阳光天地店)",
+      "address": "崇明区区阳光天地二楼(盒马右边,5号门二楼)",
+      "distance": "36m"
+    },
+    {
+      "brand": "必胜客(上海长兴岛阳光天地店)",
+      "address": "崇明区兴坤路18号一层L1019单元",
+      "distance": "37m"
+    },
+    {
+      "brand": "谷田稻香·砂锅菜(上海长兴岛阳光天地店)",
+      "address": "兴坤路18号长兴阳光天地商场二层L2023单元",
+      "distance": "38m"
+    }
+  ],
+  "nearby_malls": [],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 21.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "购物",
+      "count": 9.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 3.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "生活服务",
+      "count": 5.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "运动健身",
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
+    }
+  ]
+}

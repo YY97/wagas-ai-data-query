@@ -1,0 +1,414 @@
+{
+  "name": "通州万达广场",
+  "city": "北京市",
+  "address": "北京市通州区新华西街581号楼",
+  "lat": 39.90532,
+  "lng": 116.640763,
+  "overview": {
+    "score": 96.9,
+    "score_rank": "市内前30%",
+    "population_score": 91.0,
+    "area_score": 100.0,
+    "consumption_score": 67.4,
+    "industry_score": 96.9,
+    "annual_sales": "10",
+    "annual_sales_unit": "亿元",
+    "area_size_sqm": 22.0,
+    "open_date": "2014-11-29",
+    "operator": "珠海万达商业管理集团股份有限公司",
+    "brand": "万达",
+    "type": "综合型",
+    "floors": "L1-L5"
+  },
+  "traffic": {
+    "annual_daily": 9.22,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第4",
+    "jun_total": 332.9,
+    "jun_total_rank": "市内商场第8名",
+    "jun_daily_avg": 11.1,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第8名",
+    "weekday_avg": 10.2,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第7名",
+    "holiday_avg": 13.6,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第10名"
+  },
+  "population": {
+    "residential": {
+      "500m": 2.3,
+      "1_5km": 17.7,
+      "3km": 46.5
+    },
+    "office": {
+      "500m": 2.5,
+      "1_5km": 7.5,
+      "3km": 21.4
+    },
+    "permanent": {
+      "500m": 3.5,
+      "1_5km": 17.3,
+      "3km": 45.1
+    }
+  },
+  "business": {
+    "competitors": 5.0,
+    "food": 524.0,
+    "shopping": 434.0,
+    "leisure": 64.0,
+    "education": 78.0,
+    "hotel": 11.0,
+    "services": 384.0,
+    "fitness": 40.0,
+    "auto": 26.0,
+    "total_stores": 1095.0,
+    "old_store_3yr_pct": 46.0
+  },
+  "nearby_poi": {
+    "business": 1.0,
+    "community": 294.0,
+    "office": 16.0,
+    "school": 40.0,
+    "hospital": 48.0,
+    "transport": 16.0,
+    "scenic": 83.0
+  },
+  "demographics": {
+    "male_pct": 49.6,
+    "female_pct": null,
+    "education": {
+      "小学": 8.3,
+      "初中": 14.9,
+      "高中": 11.0,
+      "大专": 8.8,
+      "本科": 51.0,
+      "硕士": 5.0,
+      "博士": 1.0
+    },
+    "has_children_pct": 57.8,
+    "no_children_pct": 42.2
+  },
+  "scraped_at": "2026-08-01T04:17:59.341Z",
+  "nearby_restaurants": [
+    {
+      "brand": "胖哥俩肉蟹煲(北京通州万达店)",
+      "address": "新华西街58号万达广场西区5楼胖哥俩肉蟹煲",
+      "distance": "6m"
+    },
+    {
+      "brand": "味巴哥·现烤肉脯(北京通州万达店)",
+      "address": "北京城区北京城区新华西街58号院6幢B1层109-DP1002-1",
+      "distance": "9m"
+    },
+    {
+      "brand": "尖叫熊猫成都冒菜(通州万达广场西门金街B区店)",
+      "address": "北京城区万达广场西门金街B区(通州北苑地铁站A东北口步行290米)",
+      "distance": "11m"
+    },
+    {
+      "brand": "呷哺呷哺(通州北苑苏宁易购)",
+      "address": "新华西街58号1号楼万达广场苏宁百货5层号",
+      "distance": "13m"
+    },
+    {
+      "brand": "Tamkoko泰柯茶园(通州万达店)",
+      "address": "新华大街58号B1层DP1001",
+      "distance": "13m"
+    },
+    {
+      "brand": "八珍王(北京通州万达店)",
+      "address": "北京城区北京城区北苑街道,新华西街58号,万达广场,负1层",
+      "distance": "14m"
+    },
+    {
+      "brand": "茶里鲜笙(苏宁百货店)",
+      "address": "新华西街58号院1号楼5层107-5007通州万达五层扶梯正对面",
+      "distance": "15m"
+    },
+    {
+      "brand": "潇湘阁(通州万达店)",
+      "address": "北京城区新华西街58号万达广场4F层4027",
+      "distance": "16m"
+    },
+    {
+      "brand": "罗曼林冰淇淋(通州万达广场店)",
+      "address": "北苑街道万达广场B1层永辉超市门口",
+      "distance": "17m"
+    },
+    {
+      "brand": "方砖厂69号炸酱面(通州万达广场西门金街B区店)",
+      "address": "北京城区万达广场B1层105",
+      "distance": "17m"
+    },
+    {
+      "brand": "胖哥俩肉蟹煲(北京通州万达店)",
+      "address": "新华西街58号万达广场西区5楼胖哥俩肉蟹煲",
+      "distance": "6m"
+    },
+    {
+      "brand": "味巴哥·现烤肉脯(北京通州万达店)",
+      "address": "北京城区北京城区新华西街58号院6幢B1层109-DP1002-1",
+      "distance": "9m"
+    },
+    {
+      "brand": "尖叫熊猫成都冒菜(通州万达广场西门金街B区店)",
+      "address": "北京城区万达广场西门金街B区(通州北苑地铁站A东北口步行290米)",
+      "distance": "11m"
+    },
+    {
+      "brand": "呷哺呷哺(通州北苑苏宁易购)",
+      "address": "新华西街58号1号楼万达广场苏宁百货5层号",
+      "distance": "13m"
+    },
+    {
+      "brand": "Tamkoko泰柯茶园(通州万达店)",
+      "address": "新华大街58号B1层DP1001",
+      "distance": "13m"
+    },
+    {
+      "brand": "八珍王(北京通州万达店)",
+      "address": "北京城区北京城区北苑街道,新华西街58号,万达广场,负1层",
+      "distance": "14m"
+    },
+    {
+      "brand": "茶里鲜笙(苏宁百货店)",
+      "address": "新华西街58号院1号楼5层107-5007通州万达五层扶梯正对面",
+      "distance": "15m"
+    },
+    {
+      "brand": "潇湘阁(通州万达店)",
+      "address": "北京城区新华西街58号万达广场4F层4027",
+      "distance": "16m"
+    },
+    {
+      "brand": "罗曼林冰淇淋(通州万达广场店)",
+      "address": "北苑街道万达广场B1层永辉超市门口",
+      "distance": "17m"
+    },
+    {
+      "brand": "方砖厂69号炸酱面(通州万达广场西门金街B区店)",
+      "address": "北京城区万达广场B1层105",
+      "distance": "17m"
+    },
+    {
+      "brand": "胖哥俩肉蟹煲(北京通州万达店)",
+      "address": "新华西街58号万达广场西区5楼胖哥俩肉蟹煲",
+      "distance": "6m"
+    },
+    {
+      "brand": "味巴哥·现烤肉脯(北京通州万达店)",
+      "address": "北京城区北京城区新华西街58号院6幢B1层109-DP1002-1",
+      "distance": "9m"
+    },
+    {
+      "brand": "尖叫熊猫成都冒菜(通州万达广场西门金街B区店)",
+      "address": "北京城区万达广场西门金街B区(通州北苑地铁站A东北口步行290米)",
+      "distance": "11m"
+    },
+    {
+      "brand": "呷哺呷哺(通州北苑苏宁易购)",
+      "address": "新华西街58号1号楼万达广场苏宁百货5层号",
+      "distance": "13m"
+    },
+    {
+      "brand": "Tamkoko泰柯茶园(通州万达店)",
+      "address": "新华大街58号B1层DP1001",
+      "distance": "13m"
+    },
+    {
+      "brand": "八珍王(北京通州万达店)",
+      "address": "北京城区北京城区北苑街道,新华西街58号,万达广场,负1层",
+      "distance": "14m"
+    },
+    {
+      "brand": "茶里鲜笙(苏宁百货店)",
+      "address": "新华西街58号院1号楼5层107-5007通州万达五层扶梯正对面",
+      "distance": "15m"
+    },
+    {
+      "brand": "潇湘阁(通州万达店)",
+      "address": "北京城区新华西街58号万达广场4F层4027",
+      "distance": "16m"
+    },
+    {
+      "brand": "罗曼林冰淇淋(通州万达广场店)",
+      "address": "北苑街道万达广场B1层永辉超市门口",
+      "distance": "17m"
+    },
+    {
+      "brand": "方砖厂69号炸酱面(通州万达广场西门金街B区店)",
+      "address": "北京城区万达广场B1层105",
+      "distance": "17m"
+    },
+    {
+      "brand": "胖哥俩肉蟹煲(北京通州万达店)",
+      "address": "新华西街58号万达广场西区5楼胖哥俩肉蟹煲",
+      "distance": "6m"
+    },
+    {
+      "brand": "味巴哥·现烤肉脯(北京通州万达店)",
+      "address": "北京城区北京城区新华西街58号院6幢B1层109-DP1002-1",
+      "distance": "9m"
+    },
+    {
+      "brand": "尖叫熊猫成都冒菜(通州万达广场西门金街B区店)",
+      "address": "北京城区万达广场西门金街B区(通州北苑地铁站A东北口步行290米)",
+      "distance": "11m"
+    },
+    {
+      "brand": "呷哺呷哺(通州北苑苏宁易购)",
+      "address": "新华西街58号1号楼万达广场苏宁百货5层号",
+      "distance": "13m"
+    },
+    {
+      "brand": "Tamkoko泰柯茶园(通州万达店)",
+      "address": "新华大街58号B1层DP1001",
+      "distance": "13m"
+    },
+    {
+      "brand": "八珍王(北京通州万达店)",
+      "address": "北京城区北京城区北苑街道,新华西街58号,万达广场,负1层",
+      "distance": "14m"
+    },
+    {
+      "brand": "茶里鲜笙(苏宁百货店)",
+      "address": "新华西街58号院1号楼5层107-5007通州万达五层扶梯正对面",
+      "distance": "15m"
+    },
+    {
+      "brand": "潇湘阁(通州万达店)",
+      "address": "北京城区新华西街58号万达广场4F层4027",
+      "distance": "16m"
+    },
+    {
+      "brand": "罗曼林冰淇淋(通州万达广场店)",
+      "address": "北苑街道万达广场B1层永辉超市门口",
+      "distance": "17m"
+    },
+    {
+      "brand": "方砖厂69号炸酱面(通州万达广场西门金街B区店)",
+      "address": "北京城区万达广场B1层105",
+      "distance": "17m"
+    },
+    {
+      "brand": "胖哥俩肉蟹煲(北京通州万达店)",
+      "address": "新华西街58号万达广场西区5楼胖哥俩肉蟹煲",
+      "distance": "6m"
+    },
+    {
+      "brand": "味巴哥·现烤肉脯(北京通州万达店)",
+      "address": "北京城区北京城区新华西街58号院6幢B1层109-DP1002-1",
+      "distance": "9m"
+    },
+    {
+      "brand": "尖叫熊猫成都冒菜(通州万达广场西门金街B区店)",
+      "address": "北京城区万达广场西门金街B区(通州北苑地铁站A东北口步行290米)",
+      "distance": "11m"
+    },
+    {
+      "brand": "呷哺呷哺(通州北苑苏宁易购)",
+      "address": "新华西街58号1号楼万达广场苏宁百货5层号",
+      "distance": "13m"
+    },
+    {
+      "brand": "Tamkoko泰柯茶园(通州万达店)",
+      "address": "新华大街58号B1层DP1001",
+      "distance": "13m"
+    },
+    {
+      "brand": "八珍王(北京通州万达店)",
+      "address": "北京城区北京城区北苑街道,新华西街58号,万达广场,负1层",
+      "distance": "14m"
+    },
+    {
+      "brand": "茶里鲜笙(苏宁百货店)",
+      "address": "新华西街58号院1号楼5层107-5007通州万达五层扶梯正对面",
+      "distance": "15m"
+    },
+    {
+      "brand": "潇湘阁(通州万达店)",
+      "address": "北京城区新华西街58号万达广场4F层4027",
+      "distance": "16m"
+    },
+    {
+      "brand": "罗曼林冰淇淋(通州万达广场店)",
+      "address": "北苑街道万达广场B1层永辉超市门口",
+      "distance": "17m"
+    },
+    {
+      "brand": "方砖厂69号炸酱面(通州万达广场西门金街B区店)",
+      "address": "北京城区万达广场B1层105",
+      "distance": "17m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "BHG Mall北京华联天时名苑购物中心",
+      "open_date": "2012-01-01",
+      "area": "1.5万㎡",
+      "jun_daily_avg": "1.2万人次",
+      "weekday_avg": "1.1万人次",
+      "holiday_avg": "1.4万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 404.0,
+      "within_1yr_pct": 29.7,
+      "1_3yr_pct": 30.0,
+      "over_3yr_pct": 40.3
+    },
+    {
+      "type": "购物",
+      "count": 308.0,
+      "within_1yr_pct": 16.6,
+      "1_3yr_pct": 25.3,
+      "over_3yr_pct": 58.1
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 64.0,
+      "within_1yr_pct": 43.8,
+      "1_3yr_pct": 28.1,
+      "over_3yr_pct": 28.1
+    },
+    {
+      "type": "教育培训",
+      "count": 39.0,
+      "within_1yr_pct": 30.8,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 35.9
+    },
+    {
+      "type": "酒店住宿",
+      "count": 2.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "生活服务",
+      "count": 244.0,
+      "within_1yr_pct": 23.4,
+      "1_3yr_pct": 29.5,
+      "over_3yr_pct": 47.1
+    },
+    {
+      "type": "运动健身",
+      "count": 17.0,
+      "within_1yr_pct": 17.6,
+      "1_3yr_pct": 29.4,
+      "over_3yr_pct": 52.9
+    },
+    {
+      "type": "车辆服务",
+      "count": 17.0,
+      "within_1yr_pct": 29.4,
+      "1_3yr_pct": 41.2,
+      "over_3yr_pct": 29.4
+    }
+  ]
+}

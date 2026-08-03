@@ -1,0 +1,195 @@
+{
+  "name": "新年华购物中心",
+  "city": "北京市",
+  "address": "北京市西城区马连道路25号",
+  "lat": 39.877208,
+  "lng": 116.325651,
+  "overview": {
+    "score": 87.5,
+    "score_rank": "市内前30%",
+    "population_score": 92.8,
+    "area_score": 89.0,
+    "consumption_score": 82.8,
+    "industry_score": 87.5,
+    "annual_sales": "新年华购物中心是由北京中基信和置业有限公司历时5年精心打造的精品时尚购物中心，位于丽泽和马连道两大商圈，将成为时尚达人、潮流新贵休闲购物的首选之地。购物中心总共有七个经营楼层，包括地下一层和地上六层，每一层都主打一个概念，并由这些概念为她的家庭式消费群体构筑了一个面向世界的全方位体验空间",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 4.0,
+    "open_date": "2012-01-01",
+    "operator": "北京中基信和置业有限公司",
+    "brand": "",
+    "type": "美食型",
+    "floors": "B1-L6"
+  },
+  "traffic": {
+    "annual_daily": 1.28,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第179",
+    "jun_total": 29.4,
+    "jun_total_rank": "市内商场第253名",
+    "jun_daily_avg": 9782.0,
+    "jun_daily_unit": "人次",
+    "jun_daily_rank": "市内商场第253名",
+    "weekday_avg": 9498.0,
+    "weekday_unit": "人次",
+    "weekday_rank": "市内商场第249名",
+    "holiday_avg": 1.1,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第253名"
+  },
+  "population": {
+    "residential": {
+      "500m": 2.6,
+      "1_5km": 24.7,
+      "3km": 78.3
+    },
+    "office": {
+      "500m": 1.2,
+      "1_5km": 15.3,
+      "3km": 44.4
+    },
+    "permanent": {
+      "500m": 2.5,
+      "1_5km": 24.4,
+      "3km": 81.8
+    }
+  },
+  "business": {
+    "competitors": null,
+    "food": 126.0,
+    "shopping": 429.0,
+    "leisure": 11.0,
+    "education": 28.0,
+    "hotel": 19.0,
+    "services": 101.0,
+    "fitness": 10.0,
+    "auto": 11.0,
+    "total_stores": 56.0,
+    "old_store_3yr_pct": 64.0
+  },
+  "nearby_poi": {
+    "business": 7.0,
+    "community": 403.0,
+    "office": 58.0,
+    "school": 28.0,
+    "hospital": 71.0,
+    "transport": 15.0,
+    "scenic": 186.0
+  },
+  "demographics": {
+    "male_pct": 52.4,
+    "female_pct": null,
+    "education": {
+      "小学": 9.7,
+      "初中": 15.8,
+      "高中": 10.6,
+      "大专": 5.9,
+      "本科": 47.1,
+      "硕士": 8.7,
+      "博士": 2.2
+    },
+    "has_children_pct": 59.5,
+    "no_children_pct": 40.5
+  },
+  "scraped_at": "2026-08-01T06:49:27.069Z",
+  "nearby_restaurants": [
+    {
+      "brand": "父母暖心食堂南山锦阁",
+      "address": "马连道胡同甲2号西南方向180米茶马街六号院",
+      "distance": "461m"
+    },
+    {
+      "brand": "兀咖啡厅",
+      "address": "茶马街与茶马东路交叉口西40米",
+      "distance": "473m"
+    },
+    {
+      "brand": "建茗茗(高楼5号院店)",
+      "address": "三路居路高楼村高楼5号院",
+      "distance": "477m"
+    },
+    {
+      "brand": "土茶坊",
+      "address": "天福缘茶叶市场一层A1-27",
+      "distance": "483m"
+    },
+    {
+      "brand": "胖子龙虾·烧烤·小海鲜(马连道店)",
+      "address": "马连道路11号",
+      "distance": "487m"
+    },
+    {
+      "brand": "品徽轩(马连道路西宸里店)",
+      "address": "马连道路11号",
+      "distance": "488m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "鸿兴广场",
+      "open_date": "-",
+      "area": "-",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "北京泛悦坊(西城店)",
+      "open_date": "2018-12-22",
+      "area": "1.7万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 22.0,
+      "within_1yr_pct": 4.5,
+      "1_3yr_pct": 13.6,
+      "over_3yr_pct": 81.8
+    },
+    {
+      "type": "购物",
+      "count": 17.0,
+      "within_1yr_pct": 23.5,
+      "1_3yr_pct": 11.8,
+      "over_3yr_pct": 64.7
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 4.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "教育培训",
+      "count": 6.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "生活服务",
+      "count": 5.0,
+      "within_1yr_pct": 40.0,
+      "1_3yr_pct": 40.0,
+      "over_3yr_pct": 20.0
+    },
+    {
+      "type": "运动健身",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    }
+  ]
+}

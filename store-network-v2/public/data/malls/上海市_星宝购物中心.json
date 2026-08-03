@@ -1,0 +1,486 @@
+{
+  "name": "星宝购物中心",
+  "city": "上海市",
+  "address": "上海市虹口区四川北路街道东泰休闲广场宝华商业广场(四川北路商业街店)",
+  "lat": 31.264177,
+  "lng": 121.484387,
+  "overview": {
+    "score": 87.6,
+    "score_rank": "市内前30%",
+    "population_score": 100.0,
+    "area_score": 85.6,
+    "consumption_score": 80.4,
+    "industry_score": 87.5,
+    "annual_sales": "宝华商业广场是一个以“生活、社交、办公”为主题，集零售、美食、服务、娱乐、办公等多种业态于一体的新型商业办公地标",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 2.2,
+    "open_date": "2023-05-20",
+    "operator": "上海祥泰房地产发展有限公司",
+    "brand": "",
+    "type": "美食型",
+    "floors": "B1-L3"
+  },
+  "traffic": {
+    "annual_daily": 7918.0,
+    "annual_daily_unit": "人次",
+    "annual_daily_rank": "市内第294",
+    "jun_total": 21.0,
+    "jun_total_rank": "市内商场第377名",
+    "jun_daily_avg": 6991.0,
+    "jun_daily_unit": "人次",
+    "jun_daily_rank": "市内商场第377名",
+    "weekday_avg": 6965.0,
+    "weekday_unit": "人次",
+    "weekday_rank": "市内商场第365名",
+    "holiday_avg": 7063.0,
+    "holiday_unit": "人次",
+    "holiday_rank": "市内商场第388名"
+  },
+  "population": {
+    "residential": {
+      "500m": 4.2,
+      "1_5km": 32.7,
+      "3km": 113.2
+    },
+    "office": {
+      "500m": 2.2,
+      "1_5km": 19.7,
+      "3km": 76.8
+    },
+    "permanent": {
+      "500m": 4.2,
+      "1_5km": 33.6,
+      "3km": 119.1
+    }
+  },
+  "business": {
+    "competitors": 1.0,
+    "food": 264.0,
+    "shopping": 187.0,
+    "leisure": 16.0,
+    "education": 21.0,
+    "hotel": 54.0,
+    "services": 152.0,
+    "fitness": 18.0,
+    "auto": 15.0,
+    "total_stores": 40.0,
+    "old_store_3yr_pct": 55.0
+  },
+  "nearby_poi": {
+    "business": 12.0,
+    "community": 916.0,
+    "office": 117.0,
+    "school": 73.0,
+    "hospital": 119.0,
+    "transport": 10.0,
+    "scenic": 406.0
+  },
+  "demographics": {
+    "male_pct": 47.9,
+    "female_pct": null,
+    "education": {
+      "小学": 9.2,
+      "初中": 18.4,
+      "高中": 12.4,
+      "大专": 7.0,
+      "本科": 46.6,
+      "硕士": 4.7,
+      "博士": 1.7
+    },
+    "has_children_pct": 59.2,
+    "no_children_pct": 40.8
+  },
+  "scraped_at": "2026-08-01T10:27:38.981Z",
+  "nearby_restaurants": [
+    {
+      "brand": "掌门茶水间",
+      "address": "宝华商业广场(四川北路商业街店)",
+      "distance": "8m"
+    },
+    {
+      "brand": "塔斯汀中国汉堡(虹口宝华店)",
+      "address": "四川北路2000号宝华商业广场1层108室",
+      "distance": "15m"
+    },
+    {
+      "brand": "Baldomir 1901巴多蜜牛排馆",
+      "address": "四川北路2000号宝华商业广场2楼",
+      "distance": "16m"
+    },
+    {
+      "brand": "上海虹口糕团食品厂(四川北路店)",
+      "address": "四川北路2000号宝华商业广场1层",
+      "distance": "16m"
+    },
+    {
+      "brand": "和府捞面(宝华商业广场店)",
+      "address": "四川北路2000号宝华商业广场3楼",
+      "distance": "21m"
+    },
+    {
+      "brand": "茶百道(上海虹口四川北路店)",
+      "address": "四川北路2000号2楼216",
+      "distance": "22m"
+    },
+    {
+      "brand": "骏莱海鲜1号店(宝华商业广场店)",
+      "address": "四川北路2000号宝华商业广场四川北路商业街店F3层",
+      "distance": "24m"
+    },
+    {
+      "brand": "Tims咖啡(虹口宝华商业广场)",
+      "address": "四川北路与溧阳路交叉口东北60米宝华商业广场(四川北路商业街店)L1层",
+      "distance": "29m"
+    },
+    {
+      "brand": "龙江顺天福铁锅炖(宝华商业广场店)",
+      "address": "四川北路2000号宝华广场二楼",
+      "distance": "32m"
+    },
+    {
+      "brand": "大米先生(宝华商业广场店)",
+      "address": "四川北路2000号宝华商业广场F1层",
+      "distance": "32m"
+    },
+    {
+      "brand": "掌门茶水间",
+      "address": "宝华商业广场(四川北路商业街店)",
+      "distance": "8m"
+    },
+    {
+      "brand": "塔斯汀中国汉堡(虹口宝华店)",
+      "address": "四川北路2000号宝华商业广场1层108室",
+      "distance": "15m"
+    },
+    {
+      "brand": "Baldomir 1901巴多蜜牛排馆",
+      "address": "四川北路2000号宝华商业广场2楼",
+      "distance": "16m"
+    },
+    {
+      "brand": "上海虹口糕团食品厂(四川北路店)",
+      "address": "四川北路2000号宝华商业广场1层",
+      "distance": "16m"
+    },
+    {
+      "brand": "和府捞面(宝华商业广场店)",
+      "address": "四川北路2000号宝华商业广场3楼",
+      "distance": "21m"
+    },
+    {
+      "brand": "茶百道(上海虹口四川北路店)",
+      "address": "四川北路2000号2楼216",
+      "distance": "22m"
+    },
+    {
+      "brand": "骏莱海鲜1号店(宝华商业广场店)",
+      "address": "四川北路2000号宝华商业广场四川北路商业街店F3层",
+      "distance": "24m"
+    },
+    {
+      "brand": "Tims咖啡(虹口宝华商业广场)",
+      "address": "四川北路与溧阳路交叉口东北60米宝华商业广场(四川北路商业街店)L1层",
+      "distance": "29m"
+    },
+    {
+      "brand": "龙江顺天福铁锅炖(宝华商业广场店)",
+      "address": "四川北路2000号宝华广场二楼",
+      "distance": "32m"
+    },
+    {
+      "brand": "大米先生(宝华商业广场店)",
+      "address": "四川北路2000号宝华商业广场F1层",
+      "distance": "32m"
+    },
+    {
+      "brand": "掌门茶水间",
+      "address": "宝华商业广场(四川北路商业街店)",
+      "distance": "8m"
+    },
+    {
+      "brand": "塔斯汀中国汉堡(虹口宝华店)",
+      "address": "四川北路2000号宝华商业广场1层108室",
+      "distance": "15m"
+    },
+    {
+      "brand": "Baldomir 1901巴多蜜牛排馆",
+      "address": "四川北路2000号宝华商业广场2楼",
+      "distance": "16m"
+    },
+    {
+      "brand": "上海虹口糕团食品厂(四川北路店)",
+      "address": "四川北路2000号宝华商业广场1层",
+      "distance": "16m"
+    },
+    {
+      "brand": "和府捞面(宝华商业广场店)",
+      "address": "四川北路2000号宝华商业广场3楼",
+      "distance": "21m"
+    },
+    {
+      "brand": "茶百道(上海虹口四川北路店)",
+      "address": "四川北路2000号2楼216",
+      "distance": "22m"
+    },
+    {
+      "brand": "骏莱海鲜1号店(宝华商业广场店)",
+      "address": "四川北路2000号宝华商业广场四川北路商业街店F3层",
+      "distance": "24m"
+    },
+    {
+      "brand": "Tims咖啡(虹口宝华商业广场)",
+      "address": "四川北路与溧阳路交叉口东北60米宝华商业广场(四川北路商业街店)L1层",
+      "distance": "29m"
+    },
+    {
+      "brand": "龙江顺天福铁锅炖(宝华商业广场店)",
+      "address": "四川北路2000号宝华广场二楼",
+      "distance": "32m"
+    },
+    {
+      "brand": "大米先生(宝华商业广场店)",
+      "address": "四川北路2000号宝华商业广场F1层",
+      "distance": "32m"
+    },
+    {
+      "brand": "掌门茶水间",
+      "address": "宝华商业广场(四川北路商业街店)",
+      "distance": "8m"
+    },
+    {
+      "brand": "塔斯汀中国汉堡(虹口宝华店)",
+      "address": "四川北路2000号宝华商业广场1层108室",
+      "distance": "15m"
+    },
+    {
+      "brand": "Baldomir 1901巴多蜜牛排馆",
+      "address": "四川北路2000号宝华商业广场2楼",
+      "distance": "16m"
+    },
+    {
+      "brand": "上海虹口糕团食品厂(四川北路店)",
+      "address": "四川北路2000号宝华商业广场1层",
+      "distance": "16m"
+    },
+    {
+      "brand": "和府捞面(宝华商业广场店)",
+      "address": "四川北路2000号宝华商业广场3楼",
+      "distance": "21m"
+    },
+    {
+      "brand": "茶百道(上海虹口四川北路店)",
+      "address": "四川北路2000号2楼216",
+      "distance": "22m"
+    },
+    {
+      "brand": "骏莱海鲜1号店(宝华商业广场店)",
+      "address": "四川北路2000号宝华商业广场四川北路商业街店F3层",
+      "distance": "24m"
+    },
+    {
+      "brand": "Tims咖啡(虹口宝华商业广场)",
+      "address": "四川北路与溧阳路交叉口东北60米宝华商业广场(四川北路商业街店)L1层",
+      "distance": "29m"
+    },
+    {
+      "brand": "龙江顺天福铁锅炖(宝华商业广场店)",
+      "address": "四川北路2000号宝华广场二楼",
+      "distance": "32m"
+    },
+    {
+      "brand": "大米先生(宝华商业广场店)",
+      "address": "四川北路2000号宝华商业广场F1层",
+      "distance": "32m"
+    },
+    {
+      "brand": "掌门茶水间",
+      "address": "宝华商业广场(四川北路商业街店)",
+      "distance": "8m"
+    },
+    {
+      "brand": "塔斯汀中国汉堡(虹口宝华店)",
+      "address": "四川北路2000号宝华商业广场1层108室",
+      "distance": "15m"
+    },
+    {
+      "brand": "Baldomir 1901巴多蜜牛排馆",
+      "address": "四川北路2000号宝华商业广场2楼",
+      "distance": "16m"
+    },
+    {
+      "brand": "上海虹口糕团食品厂(四川北路店)",
+      "address": "四川北路2000号宝华商业广场1层",
+      "distance": "16m"
+    },
+    {
+      "brand": "和府捞面(宝华商业广场店)",
+      "address": "四川北路2000号宝华商业广场3楼",
+      "distance": "21m"
+    },
+    {
+      "brand": "茶百道(上海虹口四川北路店)",
+      "address": "四川北路2000号2楼216",
+      "distance": "22m"
+    },
+    {
+      "brand": "骏莱海鲜1号店(宝华商业广场店)",
+      "address": "四川北路2000号宝华商业广场四川北路商业街店F3层",
+      "distance": "24m"
+    },
+    {
+      "brand": "Tims咖啡(虹口宝华商业广场)",
+      "address": "四川北路与溧阳路交叉口东北60米宝华商业广场(四川北路商业街店)L1层",
+      "distance": "29m"
+    },
+    {
+      "brand": "龙江顺天福铁锅炖(宝华商业广场店)",
+      "address": "四川北路2000号宝华广场二楼",
+      "distance": "32m"
+    },
+    {
+      "brand": "大米先生(宝华商业广场店)",
+      "address": "四川北路2000号宝华商业广场F1层",
+      "distance": "32m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海时装商厦",
+      "open_date": "-",
+      "area": "-",
+      "jun_daily_avg": "1.1万人次",
+      "weekday_avg": "1.1万人次",
+      "holiday_avg": "1.1万人次"
+    },
+    {
+      "name": "上海多伦生活广场(四川北路商业街店)",
+      "open_date": "-",
+      "area": "-",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "合新里",
+      "open_date": "2021-01-01",
+      "area": "2.4万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海ist艾尚天地",
+      "open_date": "2019-06-01",
+      "area": "3万㎡",
+      "jun_daily_avg": "1.1万人次",
+      "weekday_avg": "1.1万人次",
+      "holiday_avg": "1.1万人次"
+    },
+    {
+      "name": "上海宏慧新里",
+      "open_date": "2024-02-21",
+      "area": "2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海凯德虹口商业中心",
+      "open_date": "2010-01-01",
+      "area": "17.3万㎡",
+      "jun_daily_avg": "7.5万人次",
+      "weekday_avg": "7.1万人次",
+      "holiday_avg": "8.8万人次"
+    },
+    {
+      "name": "上海瑞虹天地星星堂",
+      "open_date": "2015-05-14",
+      "area": "2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海利通广场",
+      "open_date": "2012-01-01",
+      "area": "2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海壹丰广场",
+      "open_date": "2012-11-09",
+      "area": "2.8万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海瑞虹天地月亮湾",
+      "open_date": "2017-06-13",
+      "area": "6.4万㎡",
+      "jun_daily_avg": "4.5万人次",
+      "weekday_avg": "4万人次",
+      "holiday_avg": "5.9万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 17.0,
+      "within_1yr_pct": 5.9,
+      "1_3yr_pct": 17.6,
+      "over_3yr_pct": 76.5
+    },
+    {
+      "type": "购物",
+      "count": 8.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 25.0
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "教育培训",
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "生活服务",
+      "count": 6.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 16.7,
+      "over_3yr_pct": 83.3
+    },
+    {
+      "type": "运动健身",
+      "count": 4.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 25.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    }
+  ]
+}

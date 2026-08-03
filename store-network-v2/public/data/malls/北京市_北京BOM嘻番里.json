@@ -1,0 +1,407 @@
+{
+  "name": "北京BOM嘻番里",
+  "city": "北京市",
+  "address": "北京市海淀区学院路街道金码大厦金码大酒店",
+  "lat": 40.001825,
+  "lng": 116.35383,
+  "overview": {
+    "score": 87.7,
+    "score_rank": "市内前30%",
+    "population_score": 93.7,
+    "area_score": 73.0,
+    "consumption_score": 83.5,
+    "industry_score": 87.8,
+    "annual_sales": "7000",
+    "annual_sales_unit": "万元",
+    "area_size_sqm": 1.5,
+    "open_date": "2021-01-01",
+    "operator": "北京首创郎园文化发展有限公司",
+    "brand": "首创钜大",
+    "type": "美食型",
+    "floors": "L1-L4"
+  },
+  "traffic": {
+    "annual_daily": 7370.0,
+    "annual_daily_unit": "人次",
+    "annual_daily_rank": "市内第243",
+    "jun_total": 29.9,
+    "jun_total_rank": "市内商场第249名",
+    "jun_daily_avg": 9958.0,
+    "jun_daily_unit": "人次",
+    "jun_daily_rank": "市内商场第249名",
+    "weekday_avg": 8803.0,
+    "weekday_unit": "人次",
+    "weekday_rank": "市内商场第255名",
+    "holiday_avg": 1.3,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第230名"
+  },
+  "population": {
+    "residential": {
+      "500m": 2.5,
+      "1_5km": 23.5,
+      "3km": 69.2
+    },
+    "office": {
+      "500m": 1.7,
+      "1_5km": 12.4,
+      "3km": 46.8
+    },
+    "permanent": {
+      "500m": 2.3,
+      "1_5km": 18.3,
+      "3km": 59.4
+    }
+  },
+  "business": {
+    "competitors": 3.0,
+    "food": 126.0,
+    "shopping": 58.0,
+    "leisure": 9.0,
+    "education": 27.0,
+    "hotel": 12.0,
+    "services": 76.0,
+    "fitness": 11.0,
+    "auto": 4.0,
+    "total_stores": 63.0,
+    "old_store_3yr_pct": 56.0
+  },
+  "nearby_poi": {
+    "business": 1.0,
+    "community": 260.0,
+    "office": 40.0,
+    "school": 34.0,
+    "hospital": 60.0,
+    "transport": 6.0,
+    "scenic": 187.0
+  },
+  "demographics": {
+    "male_pct": 48.9,
+    "female_pct": null,
+    "education": {
+      "小学": 6.1,
+      "初中": 12.8,
+      "高中": 17.6,
+      "大专": 3.7,
+      "本科": 45.3,
+      "硕士": 10.6,
+      "博士": 3.9
+    },
+    "has_children_pct": 50.8,
+    "no_children_pct": 49.2
+  },
+  "scraped_at": "2026-07-31T18:08:49.503Z",
+  "nearby_restaurants": [
+    {
+      "brand": "阿桂酸嘢(BOM嘻番里店)",
+      "address": "学清路38号金码大厦B座4层(六道口地铁站B东北口旁)",
+      "distance": "1m"
+    },
+    {
+      "brand": "上岸螺蛳粉(BOM嘻番里店)",
+      "address": "学清路甲38号嘻番里四层(六道口地铁站B东北口步行180米)",
+      "distance": "12m"
+    },
+    {
+      "brand": "泡面研究院",
+      "address": "金码大厦B座甲38号BOM嘻番里4层",
+      "distance": "14m"
+    },
+    {
+      "brand": "西树泡芙(北京嘻番里店)",
+      "address": "学清路辅路与清华东路交叉口东北100米",
+      "distance": "16m"
+    },
+    {
+      "brand": "云卷小酒馆(六道口店)",
+      "address": "学清路甲38号金码大厦B座四层402",
+      "distance": "17m"
+    },
+    {
+      "brand": "霸碗盖码饭(北京六道口店)",
+      "address": "北京城区北京城区学清路38号金码大厦B座4楼一号铺位",
+      "distance": "21m"
+    },
+    {
+      "brand": "疯猴焖饭(六道口店)",
+      "address": "学清路辅路与清华东路交叉口东北100米",
+      "distance": "21m"
+    },
+    {
+      "brand": "付小姐在成都(六道口店)",
+      "address": "北京城区学清路38号4层436室",
+      "distance": "22m"
+    },
+    {
+      "brand": "汕头八合里海记牛肉店(六道口店)",
+      "address": "学清路甲38金码大厦B座4层(六道口地铁站B东北口旁)",
+      "distance": "23m"
+    },
+    {
+      "brand": "落云食府",
+      "address": "六道口嘻番里3层HAPPYZOO",
+      "distance": "24m"
+    },
+    {
+      "brand": "阿桂酸嘢(BOM嘻番里店)",
+      "address": "学清路38号金码大厦B座4层(六道口地铁站B东北口旁)",
+      "distance": "1m"
+    },
+    {
+      "brand": "上岸螺蛳粉(BOM嘻番里店)",
+      "address": "学清路甲38号嘻番里四层(六道口地铁站B东北口步行180米)",
+      "distance": "12m"
+    },
+    {
+      "brand": "泡面研究院",
+      "address": "金码大厦B座甲38号BOM嘻番里4层",
+      "distance": "14m"
+    },
+    {
+      "brand": "西树泡芙(北京嘻番里店)",
+      "address": "学清路辅路与清华东路交叉口东北100米",
+      "distance": "16m"
+    },
+    {
+      "brand": "云卷小酒馆(六道口店)",
+      "address": "学清路甲38号金码大厦B座四层402",
+      "distance": "17m"
+    },
+    {
+      "brand": "霸碗盖码饭(北京六道口店)",
+      "address": "北京城区北京城区学清路38号金码大厦B座4楼一号铺位",
+      "distance": "21m"
+    },
+    {
+      "brand": "疯猴焖饭(六道口店)",
+      "address": "学清路辅路与清华东路交叉口东北100米",
+      "distance": "21m"
+    },
+    {
+      "brand": "付小姐在成都(六道口店)",
+      "address": "北京城区学清路38号4层436室",
+      "distance": "22m"
+    },
+    {
+      "brand": "汕头八合里海记牛肉店(六道口店)",
+      "address": "学清路甲38金码大厦B座4层(六道口地铁站B东北口旁)",
+      "distance": "23m"
+    },
+    {
+      "brand": "落云食府",
+      "address": "六道口嘻番里3层HAPPYZOO",
+      "distance": "24m"
+    },
+    {
+      "brand": "阿桂酸嘢(BOM嘻番里店)",
+      "address": "学清路38号金码大厦B座4层(六道口地铁站B东北口旁)",
+      "distance": "1m"
+    },
+    {
+      "brand": "上岸螺蛳粉(BOM嘻番里店)",
+      "address": "学清路甲38号嘻番里四层(六道口地铁站B东北口步行180米)",
+      "distance": "12m"
+    },
+    {
+      "brand": "泡面研究院",
+      "address": "金码大厦B座甲38号BOM嘻番里4层",
+      "distance": "14m"
+    },
+    {
+      "brand": "西树泡芙(北京嘻番里店)",
+      "address": "学清路辅路与清华东路交叉口东北100米",
+      "distance": "16m"
+    },
+    {
+      "brand": "云卷小酒馆(六道口店)",
+      "address": "学清路甲38号金码大厦B座四层402",
+      "distance": "17m"
+    },
+    {
+      "brand": "霸碗盖码饭(北京六道口店)",
+      "address": "北京城区北京城区学清路38号金码大厦B座4楼一号铺位",
+      "distance": "21m"
+    },
+    {
+      "brand": "疯猴焖饭(六道口店)",
+      "address": "学清路辅路与清华东路交叉口东北100米",
+      "distance": "21m"
+    },
+    {
+      "brand": "付小姐在成都(六道口店)",
+      "address": "北京城区学清路38号4层436室",
+      "distance": "22m"
+    },
+    {
+      "brand": "汕头八合里海记牛肉店(六道口店)",
+      "address": "学清路甲38金码大厦B座4层(六道口地铁站B东北口旁)",
+      "distance": "23m"
+    },
+    {
+      "brand": "落云食府",
+      "address": "六道口嘻番里3层HAPPYZOO",
+      "distance": "24m"
+    },
+    {
+      "brand": "阿桂酸嘢(BOM嘻番里店)",
+      "address": "学清路38号金码大厦B座4层(六道口地铁站B东北口旁)",
+      "distance": "1m"
+    },
+    {
+      "brand": "上岸螺蛳粉(BOM嘻番里店)",
+      "address": "学清路甲38号嘻番里四层(六道口地铁站B东北口步行180米)",
+      "distance": "12m"
+    },
+    {
+      "brand": "泡面研究院",
+      "address": "金码大厦B座甲38号BOM嘻番里4层",
+      "distance": "14m"
+    },
+    {
+      "brand": "西树泡芙(北京嘻番里店)",
+      "address": "学清路辅路与清华东路交叉口东北100米",
+      "distance": "16m"
+    },
+    {
+      "brand": "云卷小酒馆(六道口店)",
+      "address": "学清路甲38号金码大厦B座四层402",
+      "distance": "17m"
+    },
+    {
+      "brand": "霸碗盖码饭(北京六道口店)",
+      "address": "北京城区北京城区学清路38号金码大厦B座4楼一号铺位",
+      "distance": "21m"
+    },
+    {
+      "brand": "疯猴焖饭(六道口店)",
+      "address": "学清路辅路与清华东路交叉口东北100米",
+      "distance": "21m"
+    },
+    {
+      "brand": "付小姐在成都(六道口店)",
+      "address": "北京城区学清路38号4层436室",
+      "distance": "22m"
+    },
+    {
+      "brand": "汕头八合里海记牛肉店(六道口店)",
+      "address": "学清路甲38金码大厦B座4层(六道口地铁站B东北口旁)",
+      "distance": "23m"
+    },
+    {
+      "brand": "落云食府",
+      "address": "六道口嘻番里3层HAPPYZOO",
+      "distance": "24m"
+    },
+    {
+      "brand": "阿桂酸嘢(BOM嘻番里店)",
+      "address": "学清路38号金码大厦B座4层(六道口地铁站B东北口旁)",
+      "distance": "1m"
+    },
+    {
+      "brand": "上岸螺蛳粉(BOM嘻番里店)",
+      "address": "学清路甲38号嘻番里四层(六道口地铁站B东北口步行180米)",
+      "distance": "12m"
+    },
+    {
+      "brand": "泡面研究院",
+      "address": "金码大厦B座甲38号BOM嘻番里4层",
+      "distance": "14m"
+    },
+    {
+      "brand": "西树泡芙(北京嘻番里店)",
+      "address": "学清路辅路与清华东路交叉口东北100米",
+      "distance": "16m"
+    },
+    {
+      "brand": "云卷小酒馆(六道口店)",
+      "address": "学清路甲38号金码大厦B座四层402",
+      "distance": "17m"
+    },
+    {
+      "brand": "霸碗盖码饭(北京六道口店)",
+      "address": "北京城区北京城区学清路38号金码大厦B座4楼一号铺位",
+      "distance": "21m"
+    },
+    {
+      "brand": "疯猴焖饭(六道口店)",
+      "address": "学清路辅路与清华东路交叉口东北100米",
+      "distance": "21m"
+    },
+    {
+      "brand": "付小姐在成都(六道口店)",
+      "address": "北京城区学清路38号4层436室",
+      "distance": "22m"
+    },
+    {
+      "brand": "汕头八合里海记牛肉店(六道口店)",
+      "address": "学清路甲38金码大厦B座4层(六道口地铁站B东北口旁)",
+      "distance": "23m"
+    },
+    {
+      "brand": "落云食府",
+      "address": "六道口嘻番里3层HAPPYZOO",
+      "distance": "24m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "北京圣熙8号购物中心",
+      "open_date": "2010-01-01",
+      "area": "5万㎡",
+      "jun_daily_avg": "2.9万人次",
+      "weekday_avg": "2.7万人次",
+      "holiday_avg": "3.4万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 27.0,
+      "within_1yr_pct": 11.1,
+      "1_3yr_pct": 25.9,
+      "over_3yr_pct": 63.0
+    },
+    {
+      "type": "购物",
+      "count": 18.0,
+      "within_1yr_pct": 22.2,
+      "1_3yr_pct": 38.9,
+      "over_3yr_pct": 38.9
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 5.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 20.0,
+      "over_3yr_pct": 60.0
+    },
+    {
+      "type": "教育培训",
+      "count": 4.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    },
+    {
+      "type": "生活服务",
+      "count": 4.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 75.0
+    },
+    {
+      "type": "运动健身",
+      "count": 3.0,
+      "within_1yr_pct": 66.7,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 33.3
+    }
+  ]
+}

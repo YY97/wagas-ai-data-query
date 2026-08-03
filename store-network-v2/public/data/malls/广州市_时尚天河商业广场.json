@@ -1,0 +1,145 @@
+{
+  "name": "时尚天河商业广场",
+  "city": "广州市",
+  "address": "上海市浦东新区金杨新村街道世贸家具(浦东店)近悦远来百货商场",
+  "lat": null,
+  "lng": null,
+  "overview": {
+    "score": null,
+    "score_rank": "",
+    "population_score": 78.7,
+    "area_score": 65.5,
+    "consumption_score": 74.7,
+    "industry_score": 69.2,
+    "annual_sales": "",
+    "annual_sales_unit": "",
+    "area_size_sqm": null,
+    "open_date": "",
+    "operator": "",
+    "brand": "",
+    "type": "",
+    "floors": ""
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "",
+    "annual_daily_rank": "",
+    "jun_total": null,
+    "jun_total_rank": "",
+    "jun_daily_avg": null,
+    "jun_daily_unit": "",
+    "jun_daily_rank": "",
+    "weekday_avg": null,
+    "weekday_unit": "",
+    "weekday_rank": "",
+    "holiday_avg": null,
+    "holiday_unit": "",
+    "holiday_rank": ""
+  },
+  "population": {
+    "residential": {
+      "500m": null,
+      "1_5km": null,
+      "3km": null
+    },
+    "office": {
+      "500m": null,
+      "1_5km": null,
+      "3km": null
+    },
+    "permanent": {
+      "500m": null,
+      "1_5km": null,
+      "3km": null
+    }
+  },
+  "business": {
+    "competitors": null,
+    "food": 33.0,
+    "shopping": 42.0,
+    "leisure": 8.0,
+    "education": null,
+    "hotel": 11.0,
+    "services": 28.0,
+    "fitness": 1.0,
+    "auto": 4.0,
+    "total_stores": 10.0,
+    "old_store_3yr_pct": 50.0
+  },
+  "nearby_poi": {
+    "business": null,
+    "community": null,
+    "office": null,
+    "school": null,
+    "hospital": null,
+    "transport": null,
+    "scenic": null
+  },
+  "demographics": {
+    "male_pct": 45.7,
+    "female_pct": null,
+    "education": {
+      "小学": 9.0,
+      "初中": 17.1,
+      "高中": 11.0,
+      "大专": 7.3,
+      "本科": 47.1,
+      "硕士": 6.8,
+      "博士": 1.7
+    },
+    "has_children_pct": 58.4,
+    "no_children_pct": 41.6
+  },
+  "scraped_at": "2026-08-02T05:22:38.968Z",
+  "nearby_restaurants": [
+    {
+      "brand": "汤茶匠(上房金丰苑店)",
+      "address": "浦东大道2567弄1-24号上房金丰苑",
+      "distance": "436m"
+    },
+    {
+      "brand": "源香山沙县小食(罗山二居店)",
+      "address": "德平路12弄10号罗山二居",
+      "distance": "465m"
+    },
+    {
+      "brand": "阿炳汤包(德平路店)",
+      "address": "德平路30号(靠近罗山二村)",
+      "distance": "497m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "浦商百货(博山店)",
+      "open_date": "2018-01-01",
+      "area": "-",
+      "jun_daily_avg": "1.3万人次",
+      "weekday_avg": "1.1万人次",
+      "holiday_avg": "1.8万人次"
+    },
+    {
+      "name": "上海国际时尚中心",
+      "open_date": "2010-01-01",
+      "area": "13万㎡",
+      "jun_daily_avg": "1.3万人次",
+      "weekday_avg": "1.1万人次",
+      "holiday_avg": "1.8万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 7.0,
+      "within_1yr_pct": 42.9,
+      "1_3yr_pct": 14.3,
+      "over_3yr_pct": 42.9
+    },
+    {
+      "type": "购物",
+      "count": 3.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 66.7
+    }
+  ]
+}

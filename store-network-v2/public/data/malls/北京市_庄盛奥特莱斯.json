@@ -1,0 +1,126 @@
+{
+  "name": "庄盛奥特莱斯",
+  "city": "北京市",
+  "address": "上海市静安区北站街道牛百碗上海联富服饰市场",
+  "lat": null,
+  "lng": null,
+  "overview": {
+    "score": null,
+    "score_rank": "",
+    "population_score": 87.3,
+    "area_score": 93.4,
+    "consumption_score": 88.6,
+    "industry_score": 63.8,
+    "annual_sales": "位于上海市静安区河南北路99号七浦路核心商圈，5万㎡综合体，主营中高档女装、杭广派、日韩欧美精品女装及童装批发，配有品牌发布中心，日均客流曾达10万人次，是上海乃至长三角知名女装旗舰市场。",
+    "annual_sales_unit": "-",
+    "area_size_sqm": null,
+    "open_date": "2006-09-28",
+    "operator": "上海联富服饰市场经营管理有限公司",
+    "brand": "",
+    "type": "综合型",
+    "floors": "B2-L5"
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "-",
+    "annual_daily_rank": "",
+    "jun_total": null,
+    "jun_total_rank": "",
+    "jun_daily_avg": null,
+    "jun_daily_unit": "",
+    "jun_daily_rank": "",
+    "weekday_avg": null,
+    "weekday_unit": "",
+    "weekday_rank": "",
+    "holiday_avg": null,
+    "holiday_unit": "",
+    "holiday_rank": ""
+  },
+  "population": {
+    "residential": {
+      "500m": 2.0,
+      "1_5km": 20.0,
+      "3km": 82.5
+    },
+    "office": {
+      "500m": 3.3,
+      "1_5km": 29.7,
+      "3km": 108.9
+    },
+    "permanent": {
+      "500m": 2.7,
+      "1_5km": 26.0,
+      "3km": 105.7
+    }
+  },
+  "business": {
+    "competitors": 8.0,
+    "food": 244.0,
+    "shopping": 644.0,
+    "leisure": 23.0,
+    "education": 9.0,
+    "hotel": 87.0,
+    "services": 151.0,
+    "fitness": 14.0,
+    "auto": 38.0,
+    "total_stores": 33.0,
+    "old_store_3yr_pct": 70.0
+  },
+  "nearby_poi": {
+    "business": 26.0,
+    "community": 826.0,
+    "office": 230.0,
+    "school": 46.0,
+    "hospital": 175.0,
+    "transport": 17.0,
+    "scenic": 859.0
+  },
+  "demographics": {
+    "male_pct": 46.9,
+    "female_pct": null,
+    "education": {
+      "小学": 9.8,
+      "初中": 19.3,
+      "高中": 12.1,
+      "大专": 7.4,
+      "本科": 45.9,
+      "硕士": 4.0,
+      "博士": 1.5
+    },
+    "has_children_pct": 58.5,
+    "no_children_pct": 41.5
+  },
+  "scraped_at": "2026-08-01T11:09:18.903Z",
+  "nearby_restaurants": [],
+  "nearby_malls": [],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 3.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 66.7
+    },
+    {
+      "type": "购物",
+      "count": 28.0,
+      "within_1yr_pct": 7.1,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 67.9
+    },
+    {
+      "type": "生活服务",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    }
+  ]
+}

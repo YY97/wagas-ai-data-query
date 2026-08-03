@@ -1,0 +1,405 @@
+{
+  "name": "西北旺万象汇",
+  "city": "北京市",
+  "address": "北京市海淀区德政路与西北旺三街交叉口西南",
+  "lat": 40.05037,
+  "lng": 116.261623,
+  "overview": {
+    "score": 93.3,
+    "score_rank": "市内前30%",
+    "population_score": 82.3,
+    "area_score": 72.3,
+    "consumption_score": 84.3,
+    "industry_score": 93.4,
+    "annual_sales": "北京西北旺万象汇位于海淀区，属于中关村科学城核心区域。项目以“自然生活创想地”为定位，打造“自然、户外、社交”的特色标签，引入228家品牌商户，包括万象影城、盒马鲜生、优衣库、西西弗书店等，满足周边居民与科技园区办公人群的消费需求.",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 4.0,
+    "open_date": "2024-05-31",
+    "operator": "华润万象生活有限公司",
+    "brand": "华润",
+    "type": "购物型",
+    "floors": "B2-L7"
+  },
+  "traffic": {
+    "annual_daily": 3.78,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第44",
+    "jun_total": 137.1,
+    "jun_total_rank": "市内商场第63名",
+    "jun_daily_avg": 4.6,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第63名",
+    "weekday_avg": 4.1,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第64名",
+    "holiday_avg": 5.8,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第56名"
+  },
+  "population": {
+    "residential": {
+      "500m": 1.6,
+      "1_5km": 6.4,
+      "3km": 21.9
+    },
+    "office": {
+      "500m": 9100.0,
+      "1_5km": 5.3,
+      "3km": 20.8
+    },
+    "permanent": {
+      "500m": 1.8,
+      "1_5km": 6.2,
+      "3km": 20.6
+    }
+  },
+  "business": {
+    "competitors": 3.0,
+    "food": 100.0,
+    "shopping": 135.0,
+    "leisure": 6.0,
+    "education": 6.0,
+    "hotel": 2.0,
+    "services": 55.0,
+    "fitness": 12.0,
+    "auto": 14.0,
+    "total_stores": 220.0,
+    "old_store_3yr_pct": 65.0
+  },
+  "nearby_poi": {
+    "business": null,
+    "community": 91.0,
+    "office": 10.0,
+    "school": 11.0,
+    "hospital": 16.0,
+    "transport": 11.0,
+    "scenic": 90.0
+  },
+  "demographics": {
+    "male_pct": 46.9,
+    "female_pct": null,
+    "education": {
+      "小学": 8.0,
+      "初中": 12.9,
+      "高中": 11.2,
+      "大专": 6.7,
+      "本科": 47.4,
+      "硕士": 11.1,
+      "博士": 2.7
+    },
+    "has_children_pct": 57.9,
+    "no_children_pct": 42.1
+  },
+  "scraped_at": "2026-07-31T11:35:12.226Z",
+  "nearby_restaurants": [
+    {
+      "brand": "磨逗(西北旺店)",
+      "address": "德政路16号院9幢地下一层B1101(盒马鲜生内)",
+      "distance": "1m"
+    },
+    {
+      "brand": "盒马烘焙(西北旺万象汇店)",
+      "address": "冠城大通·启辰中心(西北旺地铁站C东南口步行390米)",
+      "distance": "1m"
+    },
+    {
+      "brand": "新太二·鲜料川菜(北京西北旺万象汇店)",
+      "address": "西北旺万象汇5楼(寿司郎对面)",
+      "distance": "1m"
+    },
+    {
+      "brand": "争鲜回转寿司(海淀西北旺万象汇PLUS店)",
+      "address": "永丰路与德政路西北旺万象汇五层L526-527",
+      "distance": "1m"
+    },
+    {
+      "brand": "石头先生的烤炉(西北旺万象汇店)",
+      "address": "德政路16号院西北旺万象汇B1层(8号门旁)",
+      "distance": "2m"
+    },
+    {
+      "brand": "McCafe(西北旺万象汇店)",
+      "address": "冠城大通·启辰中心(西北旺地铁站C东南口步行370米)",
+      "distance": "5m"
+    },
+    {
+      "brand": "咏巷炸鸡(西北旺万象汇店)",
+      "address": "德政路61号西北旺万象汇B1层",
+      "distance": "11m"
+    },
+    {
+      "brand": "鹿野制菓.铜锣烧(西北旺万象汇店)",
+      "address": "马连洼街道德政路16号院9幢-1层B1101",
+      "distance": "29m"
+    },
+    {
+      "brand": "OBABATA泰式黄油煎饼(西北旺万象汇店)",
+      "address": "北京市北京市西北旺万象汇负一层餐饮区K157负一层餐饮区中岛边岛",
+      "distance": "31m"
+    },
+    {
+      "brand": "酥小牛牛肉饼(西北旺万象汇店)",
+      "address": "永丰路与德政路交叉口东南180米",
+      "distance": "32m"
+    },
+    {
+      "brand": "磨逗(西北旺店)",
+      "address": "德政路16号院9幢地下一层B1101(盒马鲜生内)",
+      "distance": "1m"
+    },
+    {
+      "brand": "盒马烘焙(西北旺万象汇店)",
+      "address": "冠城大通·启辰中心(西北旺地铁站C东南口步行390米)",
+      "distance": "1m"
+    },
+    {
+      "brand": "新太二·鲜料川菜(北京西北旺万象汇店)",
+      "address": "西北旺万象汇5楼(寿司郎对面)",
+      "distance": "1m"
+    },
+    {
+      "brand": "争鲜回转寿司(海淀西北旺万象汇PLUS店)",
+      "address": "永丰路与德政路西北旺万象汇五层L526-527",
+      "distance": "1m"
+    },
+    {
+      "brand": "石头先生的烤炉(西北旺万象汇店)",
+      "address": "德政路16号院西北旺万象汇B1层(8号门旁)",
+      "distance": "2m"
+    },
+    {
+      "brand": "McCafe(西北旺万象汇店)",
+      "address": "冠城大通·启辰中心(西北旺地铁站C东南口步行370米)",
+      "distance": "5m"
+    },
+    {
+      "brand": "咏巷炸鸡(西北旺万象汇店)",
+      "address": "德政路61号西北旺万象汇B1层",
+      "distance": "11m"
+    },
+    {
+      "brand": "鹿野制菓.铜锣烧(西北旺万象汇店)",
+      "address": "马连洼街道德政路16号院9幢-1层B1101",
+      "distance": "29m"
+    },
+    {
+      "brand": "OBABATA泰式黄油煎饼(西北旺万象汇店)",
+      "address": "北京市北京市西北旺万象汇负一层餐饮区K157负一层餐饮区中岛边岛",
+      "distance": "31m"
+    },
+    {
+      "brand": "酥小牛牛肉饼(西北旺万象汇店)",
+      "address": "永丰路与德政路交叉口东南180米",
+      "distance": "32m"
+    },
+    {
+      "brand": "磨逗(西北旺店)",
+      "address": "德政路16号院9幢地下一层B1101(盒马鲜生内)",
+      "distance": "1m"
+    },
+    {
+      "brand": "盒马烘焙(西北旺万象汇店)",
+      "address": "冠城大通·启辰中心(西北旺地铁站C东南口步行390米)",
+      "distance": "1m"
+    },
+    {
+      "brand": "新太二·鲜料川菜(北京西北旺万象汇店)",
+      "address": "西北旺万象汇5楼(寿司郎对面)",
+      "distance": "1m"
+    },
+    {
+      "brand": "争鲜回转寿司(海淀西北旺万象汇PLUS店)",
+      "address": "永丰路与德政路西北旺万象汇五层L526-527",
+      "distance": "1m"
+    },
+    {
+      "brand": "石头先生的烤炉(西北旺万象汇店)",
+      "address": "德政路16号院西北旺万象汇B1层(8号门旁)",
+      "distance": "2m"
+    },
+    {
+      "brand": "McCafe(西北旺万象汇店)",
+      "address": "冠城大通·启辰中心(西北旺地铁站C东南口步行370米)",
+      "distance": "5m"
+    },
+    {
+      "brand": "咏巷炸鸡(西北旺万象汇店)",
+      "address": "德政路61号西北旺万象汇B1层",
+      "distance": "11m"
+    },
+    {
+      "brand": "鹿野制菓.铜锣烧(西北旺万象汇店)",
+      "address": "马连洼街道德政路16号院9幢-1层B1101",
+      "distance": "29m"
+    },
+    {
+      "brand": "OBABATA泰式黄油煎饼(西北旺万象汇店)",
+      "address": "北京市北京市西北旺万象汇负一层餐饮区K157负一层餐饮区中岛边岛",
+      "distance": "31m"
+    },
+    {
+      "brand": "酥小牛牛肉饼(西北旺万象汇店)",
+      "address": "永丰路与德政路交叉口东南180米",
+      "distance": "32m"
+    },
+    {
+      "brand": "磨逗(西北旺店)",
+      "address": "德政路16号院9幢地下一层B1101(盒马鲜生内)",
+      "distance": "1m"
+    },
+    {
+      "brand": "盒马烘焙(西北旺万象汇店)",
+      "address": "冠城大通·启辰中心(西北旺地铁站C东南口步行390米)",
+      "distance": "1m"
+    },
+    {
+      "brand": "新太二·鲜料川菜(北京西北旺万象汇店)",
+      "address": "西北旺万象汇5楼(寿司郎对面)",
+      "distance": "1m"
+    },
+    {
+      "brand": "争鲜回转寿司(海淀西北旺万象汇PLUS店)",
+      "address": "永丰路与德政路西北旺万象汇五层L526-527",
+      "distance": "1m"
+    },
+    {
+      "brand": "石头先生的烤炉(西北旺万象汇店)",
+      "address": "德政路16号院西北旺万象汇B1层(8号门旁)",
+      "distance": "2m"
+    },
+    {
+      "brand": "McCafe(西北旺万象汇店)",
+      "address": "冠城大通·启辰中心(西北旺地铁站C东南口步行370米)",
+      "distance": "5m"
+    },
+    {
+      "brand": "咏巷炸鸡(西北旺万象汇店)",
+      "address": "德政路61号西北旺万象汇B1层",
+      "distance": "11m"
+    },
+    {
+      "brand": "鹿野制菓.铜锣烧(西北旺万象汇店)",
+      "address": "马连洼街道德政路16号院9幢-1层B1101",
+      "distance": "29m"
+    },
+    {
+      "brand": "OBABATA泰式黄油煎饼(西北旺万象汇店)",
+      "address": "北京市北京市西北旺万象汇负一层餐饮区K157负一层餐饮区中岛边岛",
+      "distance": "31m"
+    },
+    {
+      "brand": "酥小牛牛肉饼(西北旺万象汇店)",
+      "address": "永丰路与德政路交叉口东南180米",
+      "distance": "32m"
+    },
+    {
+      "brand": "磨逗(西北旺店)",
+      "address": "德政路16号院9幢地下一层B1101(盒马鲜生内)",
+      "distance": "1m"
+    },
+    {
+      "brand": "盒马烘焙(西北旺万象汇店)",
+      "address": "冠城大通·启辰中心(西北旺地铁站C东南口步行390米)",
+      "distance": "1m"
+    },
+    {
+      "brand": "新太二·鲜料川菜(北京西北旺万象汇店)",
+      "address": "西北旺万象汇5楼(寿司郎对面)",
+      "distance": "1m"
+    },
+    {
+      "brand": "争鲜回转寿司(海淀西北旺万象汇PLUS店)",
+      "address": "永丰路与德政路西北旺万象汇五层L526-527",
+      "distance": "1m"
+    },
+    {
+      "brand": "石头先生的烤炉(西北旺万象汇店)",
+      "address": "德政路16号院西北旺万象汇B1层(8号门旁)",
+      "distance": "2m"
+    },
+    {
+      "brand": "McCafe(西北旺万象汇店)",
+      "address": "冠城大通·启辰中心(西北旺地铁站C东南口步行370米)",
+      "distance": "5m"
+    },
+    {
+      "brand": "咏巷炸鸡(西北旺万象汇店)",
+      "address": "德政路61号西北旺万象汇B1层",
+      "distance": "11m"
+    },
+    {
+      "brand": "鹿野制菓.铜锣烧(西北旺万象汇店)",
+      "address": "马连洼街道德政路16号院9幢-1层B1101",
+      "distance": "29m"
+    },
+    {
+      "brand": "OBABATA泰式黄油煎饼(西北旺万象汇店)",
+      "address": "北京市北京市西北旺万象汇负一层餐饮区K157负一层餐饮区中岛边岛",
+      "distance": "31m"
+    },
+    {
+      "brand": "酥小牛牛肉饼(西北旺万象汇店)",
+      "address": "永丰路与德政路交叉口东南180米",
+      "distance": "32m"
+    }
+  ],
+  "nearby_malls": [],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 80.0,
+      "within_1yr_pct": 16.3,
+      "1_3yr_pct": 16.3,
+      "over_3yr_pct": 67.5
+    },
+    {
+      "type": "购物",
+      "count": 111.0,
+      "within_1yr_pct": 17.1,
+      "1_3yr_pct": 16.2,
+      "over_3yr_pct": 66.7
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 5.0,
+      "within_1yr_pct": 40.0,
+      "1_3yr_pct": 20.0,
+      "over_3yr_pct": 40.0
+    },
+    {
+      "type": "教育培训",
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 1.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "生活服务",
+      "count": 16.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 12.5,
+      "over_3yr_pct": 62.5
+    },
+    {
+      "type": "运动健身",
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 3.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 66.7,
+      "over_3yr_pct": 0.0
+    }
+  ]
+}

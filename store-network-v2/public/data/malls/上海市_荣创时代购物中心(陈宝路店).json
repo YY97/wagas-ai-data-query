@@ -1,0 +1,176 @@
+{
+  "name": "荣创时代购物中心(陈宝路店)",
+  "city": "上海市",
+  "address": "上海市嘉定区马陆镇陈宝路23号",
+  "lat": 31.348973,
+  "lng": 121.328548,
+  "overview": {
+    "score": 74.2,
+    "score_rank": "市内前50%",
+    "population_score": 70.8,
+    "area_score": 64.8,
+    "consumption_score": 62.0,
+    "industry_score": 74.3,
+    "annual_sales": "荣创时代购物中心（陈宝路店）位于上海市嘉定区，提供购物和休闲选择，品牌和市区的相似，有些商品价格可能更优惠",
+    "annual_sales_unit": "-",
+    "area_size_sqm": null,
+    "open_date": "2016-04-26",
+    "operator": "上海商城有限公司",
+    "brand": "",
+    "type": "美食型",
+    "floors": "L1-L6"
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "-",
+    "annual_daily_rank": "",
+    "jun_total": null,
+    "jun_total_rank": "",
+    "jun_daily_avg": null,
+    "jun_daily_unit": "",
+    "jun_daily_rank": "",
+    "weekday_avg": null,
+    "weekday_unit": "",
+    "weekday_rank": "",
+    "holiday_avg": null,
+    "holiday_unit": "",
+    "holiday_rank": ""
+  },
+  "population": {
+    "residential": {
+      "500m": 8900.0,
+      "1_5km": 4.6,
+      "3km": 18.0
+    },
+    "office": {
+      "500m": 4700.0,
+      "1_5km": 2.4,
+      "3km": 9.3
+    },
+    "permanent": {
+      "500m": 7500.0,
+      "1_5km": 3.9,
+      "3km": 15.3
+    }
+  },
+  "business": {
+    "competitors": null,
+    "food": 28.0,
+    "shopping": 20.0,
+    "leisure": 2.0,
+    "education": null,
+    "hotel": 4.0,
+    "services": 24.0,
+    "fitness": 4.0,
+    "auto": 48.0,
+    "total_stores": 19.0,
+    "old_store_3yr_pct": 58.0
+  },
+  "nearby_poi": {
+    "business": null,
+    "community": 48.0,
+    "office": 5.0,
+    "school": 2.0,
+    "hospital": 6.0,
+    "transport": 5.0,
+    "scenic": 14.0
+  },
+  "demographics": {
+    "male_pct": 53.3,
+    "female_pct": null,
+    "education": {
+      "小学": 10.1,
+      "初中": 19.1,
+      "高中": 11.7,
+      "大专": 9.2,
+      "本科": 45.0,
+      "硕士": 3.9,
+      "博士": 1.0
+    },
+    "has_children_pct": 54.5,
+    "no_children_pct": 45.5
+  },
+  "scraped_at": "2026-08-01T10:31:48.793Z",
+  "nearby_restaurants": [
+    {
+      "brand": "巴比馒头(宝安公路三店)",
+      "address": "宝安公路2466弄",
+      "distance": "177m"
+    },
+    {
+      "brand": "东北家常菜(陈宝路店)",
+      "address": "宝安公路2442号",
+      "distance": "180m"
+    },
+    {
+      "brand": "砂锅麻辣烫",
+      "address": "宝安公路2466弄1号B幢",
+      "distance": "181m"
+    },
+    {
+      "brand": "金卮鱼头泡饭",
+      "address": "宝安公路2465号2幢105室",
+      "distance": "204m"
+    },
+    {
+      "brand": "沈氏牛肉汤馆(上海总店)",
+      "address": "马陆镇宝安公路2465号沈氏牛肉汤",
+      "distance": "217m"
+    },
+    {
+      "brand": "李家村为民餐厅",
+      "address": "马陆李家科盛公寓西南(科盛路东)",
+      "distance": "244m"
+    },
+    {
+      "brand": "沙县小吃",
+      "address": "宝安公路2517号",
+      "distance": "440m"
+    },
+    {
+      "brand": "阚疃鑫鑫羊肉汤科福路店(宝安公路店)",
+      "address": "宝安公路2445号",
+      "distance": "472m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海富绅商业中心",
+      "open_date": "2017",
+      "area": "6万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 13.0,
+      "within_1yr_pct": 23.1,
+      "1_3yr_pct": 30.8,
+      "over_3yr_pct": 46.2
+    },
+    {
+      "type": "购物",
+      "count": 3.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    },
+    {
+      "type": "生活服务",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    },
+    {
+      "type": "运动健身",
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 50.0
+    }
+  ]
+}

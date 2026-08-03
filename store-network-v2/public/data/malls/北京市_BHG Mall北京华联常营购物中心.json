@@ -1,0 +1,423 @@
+{
+  "name": "BHG Mall北京华联常营购物中心",
+  "city": "北京市",
+  "address": "北京市朝阳区朝阳北路17号楼",
+  "lat": 39.926411,
+  "lng": 116.597544,
+  "overview": {
+    "score": 92.9,
+    "score_rank": "市内前30%",
+    "population_score": 85.6,
+    "area_score": 100.0,
+    "consumption_score": 76.1,
+    "industry_score": 92.9,
+    "annual_sales": "2",
+    "annual_sales_unit": "亿元",
+    "area_size_sqm": 11.0,
+    "open_date": "2013-08-01",
+    "operator": "北京华联商厦股份有限公司",
+    "brand": "华联",
+    "type": "综合型",
+    "floors": "B1-L4"
+  },
+  "traffic": {
+    "annual_daily": 2.62,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第91",
+    "jun_total": 70.5,
+    "jun_total_rank": "市内商场第141名",
+    "jun_daily_avg": 2.3,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第141名",
+    "weekday_avg": 2.1,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第152名",
+    "holiday_avg": 3.1,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第122名"
+  },
+  "population": {
+    "residential": {
+      "500m": 1.8,
+      "1_5km": 17.4,
+      "3km": 36.9
+    },
+    "office": {
+      "500m": 2.1,
+      "1_5km": 7.6,
+      "3km": 15.6
+    },
+    "permanent": {
+      "500m": 2.8,
+      "1_5km": 17.0,
+      "3km": 35.4
+    }
+  },
+  "business": {
+    "competitors": 13.0,
+    "food": 483.0,
+    "shopping": 377.0,
+    "leisure": 72.0,
+    "education": 84.0,
+    "hotel": 15.0,
+    "services": 363.0,
+    "fitness": 55.0,
+    "auto": 27.0,
+    "total_stores": 191.0,
+    "old_store_3yr_pct": 51.0
+  },
+  "nearby_poi": {
+    "business": 3.0,
+    "community": 157.0,
+    "office": 22.0,
+    "school": 30.0,
+    "hospital": 41.0,
+    "transport": 7.0,
+    "scenic": 63.0
+  },
+  "demographics": {
+    "male_pct": 48.1,
+    "female_pct": null,
+    "education": {
+      "小学": 8.1,
+      "初中": 14.3,
+      "高中": 10.4,
+      "大专": 8.3,
+      "本科": 52.0,
+      "硕士": 5.7,
+      "博士": 1.2
+    },
+    "has_children_pct": 67.6,
+    "no_children_pct": 32.4
+  },
+  "scraped_at": "2026-07-31T18:05:28.272Z",
+  "nearby_restaurants": [
+    {
+      "brand": "赛百味 SUBWAY(北京华联常营店)",
+      "address": "朝阳北路17号北京华联常营购物中心地下一层B1-53B号",
+      "distance": "17m"
+    },
+    {
+      "brand": "薯之缘·砂锅麻酱土豆粉(常营店)",
+      "address": "朝阳北路17号北京华联常营购物中心B1层",
+      "distance": "20m"
+    },
+    {
+      "brand": "香骨鸡·C·C·one(常营店)",
+      "address": "朝阳北路17号楼-1至3层109内",
+      "distance": "24m"
+    },
+    {
+      "brand": "米村拌饭(常营北京华联店)",
+      "address": "北京城区朝阳北路17号北京华联常营购物中心B1-56号商铺",
+      "distance": "26m"
+    },
+    {
+      "brand": "杨记蟹粉小笼(北京华联常营店)",
+      "address": "朝阳北路17号BHG Mall北京华联常营购物中心B1层B1-57",
+      "distance": "27m"
+    },
+    {
+      "brand": "汉堡王(北京华联常营店)",
+      "address": "北京城区常营中路17号北京华联常营购物中心东门1楼",
+      "distance": "27m"
+    },
+    {
+      "brand": "熊大爷现包饺子(华联常营购物中心店)",
+      "address": "朝阳北路17号北京华联常营购物中心东区B1层",
+      "distance": "28m"
+    },
+    {
+      "brand": "乐摩吧(北京华联常营店3F二店)",
+      "address": "朝阳北路17号北京华联常营购物中心东区2层",
+      "distance": "31m"
+    },
+    {
+      "brand": "凉皮先生·米线·肉夹馍(常营华联店)",
+      "address": "常营华联B1层常营地铁站B西北口旁",
+      "distance": "34m"
+    },
+    {
+      "brand": "一屋之煮麻辣烫(常营华联店)",
+      "address": "朝阳北路17号北京华联常营购物中心东区B1层",
+      "distance": "39m"
+    },
+    {
+      "brand": "赛百味 SUBWAY(北京华联常营店)",
+      "address": "朝阳北路17号北京华联常营购物中心地下一层B1-53B号",
+      "distance": "17m"
+    },
+    {
+      "brand": "薯之缘·砂锅麻酱土豆粉(常营店)",
+      "address": "朝阳北路17号北京华联常营购物中心B1层",
+      "distance": "20m"
+    },
+    {
+      "brand": "香骨鸡·C·C·one(常营店)",
+      "address": "朝阳北路17号楼-1至3层109内",
+      "distance": "24m"
+    },
+    {
+      "brand": "米村拌饭(常营北京华联店)",
+      "address": "北京城区朝阳北路17号北京华联常营购物中心B1-56号商铺",
+      "distance": "26m"
+    },
+    {
+      "brand": "杨记蟹粉小笼(北京华联常营店)",
+      "address": "朝阳北路17号BHG Mall北京华联常营购物中心B1层B1-57",
+      "distance": "27m"
+    },
+    {
+      "brand": "汉堡王(北京华联常营店)",
+      "address": "北京城区常营中路17号北京华联常营购物中心东门1楼",
+      "distance": "27m"
+    },
+    {
+      "brand": "熊大爷现包饺子(华联常营购物中心店)",
+      "address": "朝阳北路17号北京华联常营购物中心东区B1层",
+      "distance": "28m"
+    },
+    {
+      "brand": "乐摩吧(北京华联常营店3F二店)",
+      "address": "朝阳北路17号北京华联常营购物中心东区2层",
+      "distance": "31m"
+    },
+    {
+      "brand": "凉皮先生·米线·肉夹馍(常营华联店)",
+      "address": "常营华联B1层常营地铁站B西北口旁",
+      "distance": "34m"
+    },
+    {
+      "brand": "一屋之煮麻辣烫(常营华联店)",
+      "address": "朝阳北路17号北京华联常营购物中心东区B1层",
+      "distance": "39m"
+    },
+    {
+      "brand": "赛百味 SUBWAY(北京华联常营店)",
+      "address": "朝阳北路17号北京华联常营购物中心地下一层B1-53B号",
+      "distance": "17m"
+    },
+    {
+      "brand": "薯之缘·砂锅麻酱土豆粉(常营店)",
+      "address": "朝阳北路17号北京华联常营购物中心B1层",
+      "distance": "20m"
+    },
+    {
+      "brand": "香骨鸡·C·C·one(常营店)",
+      "address": "朝阳北路17号楼-1至3层109内",
+      "distance": "24m"
+    },
+    {
+      "brand": "米村拌饭(常营北京华联店)",
+      "address": "北京城区朝阳北路17号北京华联常营购物中心B1-56号商铺",
+      "distance": "26m"
+    },
+    {
+      "brand": "杨记蟹粉小笼(北京华联常营店)",
+      "address": "朝阳北路17号BHG Mall北京华联常营购物中心B1层B1-57",
+      "distance": "27m"
+    },
+    {
+      "brand": "汉堡王(北京华联常营店)",
+      "address": "北京城区常营中路17号北京华联常营购物中心东门1楼",
+      "distance": "27m"
+    },
+    {
+      "brand": "熊大爷现包饺子(华联常营购物中心店)",
+      "address": "朝阳北路17号北京华联常营购物中心东区B1层",
+      "distance": "28m"
+    },
+    {
+      "brand": "乐摩吧(北京华联常营店3F二店)",
+      "address": "朝阳北路17号北京华联常营购物中心东区2层",
+      "distance": "31m"
+    },
+    {
+      "brand": "凉皮先生·米线·肉夹馍(常营华联店)",
+      "address": "常营华联B1层常营地铁站B西北口旁",
+      "distance": "34m"
+    },
+    {
+      "brand": "一屋之煮麻辣烫(常营华联店)",
+      "address": "朝阳北路17号北京华联常营购物中心东区B1层",
+      "distance": "39m"
+    },
+    {
+      "brand": "赛百味 SUBWAY(北京华联常营店)",
+      "address": "朝阳北路17号北京华联常营购物中心地下一层B1-53B号",
+      "distance": "17m"
+    },
+    {
+      "brand": "薯之缘·砂锅麻酱土豆粉(常营店)",
+      "address": "朝阳北路17号北京华联常营购物中心B1层",
+      "distance": "20m"
+    },
+    {
+      "brand": "香骨鸡·C·C·one(常营店)",
+      "address": "朝阳北路17号楼-1至3层109内",
+      "distance": "24m"
+    },
+    {
+      "brand": "米村拌饭(常营北京华联店)",
+      "address": "北京城区朝阳北路17号北京华联常营购物中心B1-56号商铺",
+      "distance": "26m"
+    },
+    {
+      "brand": "杨记蟹粉小笼(北京华联常营店)",
+      "address": "朝阳北路17号BHG Mall北京华联常营购物中心B1层B1-57",
+      "distance": "27m"
+    },
+    {
+      "brand": "汉堡王(北京华联常营店)",
+      "address": "北京城区常营中路17号北京华联常营购物中心东门1楼",
+      "distance": "27m"
+    },
+    {
+      "brand": "熊大爷现包饺子(华联常营购物中心店)",
+      "address": "朝阳北路17号北京华联常营购物中心东区B1层",
+      "distance": "28m"
+    },
+    {
+      "brand": "乐摩吧(北京华联常营店3F二店)",
+      "address": "朝阳北路17号北京华联常营购物中心东区2层",
+      "distance": "31m"
+    },
+    {
+      "brand": "凉皮先生·米线·肉夹馍(常营华联店)",
+      "address": "常营华联B1层常营地铁站B西北口旁",
+      "distance": "34m"
+    },
+    {
+      "brand": "一屋之煮麻辣烫(常营华联店)",
+      "address": "朝阳北路17号北京华联常营购物中心东区B1层",
+      "distance": "39m"
+    },
+    {
+      "brand": "赛百味 SUBWAY(北京华联常营店)",
+      "address": "朝阳北路17号北京华联常营购物中心地下一层B1-53B号",
+      "distance": "17m"
+    },
+    {
+      "brand": "薯之缘·砂锅麻酱土豆粉(常营店)",
+      "address": "朝阳北路17号北京华联常营购物中心B1层",
+      "distance": "20m"
+    },
+    {
+      "brand": "香骨鸡·C·C·one(常营店)",
+      "address": "朝阳北路17号楼-1至3层109内",
+      "distance": "24m"
+    },
+    {
+      "brand": "米村拌饭(常营北京华联店)",
+      "address": "北京城区朝阳北路17号北京华联常营购物中心B1-56号商铺",
+      "distance": "26m"
+    },
+    {
+      "brand": "杨记蟹粉小笼(北京华联常营店)",
+      "address": "朝阳北路17号BHG Mall北京华联常营购物中心B1层B1-57",
+      "distance": "27m"
+    },
+    {
+      "brand": "汉堡王(北京华联常营店)",
+      "address": "北京城区常营中路17号北京华联常营购物中心东门1楼",
+      "distance": "27m"
+    },
+    {
+      "brand": "熊大爷现包饺子(华联常营购物中心店)",
+      "address": "朝阳北路17号北京华联常营购物中心东区B1层",
+      "distance": "28m"
+    },
+    {
+      "brand": "乐摩吧(北京华联常营店3F二店)",
+      "address": "朝阳北路17号北京华联常营购物中心东区2层",
+      "distance": "31m"
+    },
+    {
+      "brand": "凉皮先生·米线·肉夹馍(常营华联店)",
+      "address": "常营华联B1层常营地铁站B西北口旁",
+      "distance": "34m"
+    },
+    {
+      "brand": "一屋之煮麻辣烫(常营华联店)",
+      "address": "朝阳北路17号北京华联常营购物中心东区B1层",
+      "distance": "39m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "龙湖北京长楹天街",
+      "open_date": "2014-12-02",
+      "area": "27万㎡",
+      "jun_daily_avg": "12.4万人次",
+      "weekday_avg": "11.2万人次",
+      "holiday_avg": "15.6万人次"
+    },
+    {
+      "name": "陆港城",
+      "open_date": "2019-12-31",
+      "area": "-",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "万鑫佰隆购物商城",
+      "open_date": "-",
+      "area": "-",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 65.0,
+      "within_1yr_pct": 18.5,
+      "1_3yr_pct": 23.1,
+      "over_3yr_pct": 58.5
+    },
+    {
+      "type": "购物",
+      "count": 50.0,
+      "within_1yr_pct": 24.0,
+      "1_3yr_pct": 30.0,
+      "over_3yr_pct": 46.0
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 18.0,
+      "within_1yr_pct": 5.6,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 44.4
+    },
+    {
+      "type": "教育培训",
+      "count": 16.0,
+      "within_1yr_pct": 18.8,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 31.3
+    },
+    {
+      "type": "生活服务",
+      "count": 28.0,
+      "within_1yr_pct": 21.4,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 53.6
+    },
+    {
+      "type": "运动健身",
+      "count": 11.0,
+      "within_1yr_pct": 27.3,
+      "1_3yr_pct": 18.2,
+      "over_3yr_pct": 54.5
+    },
+    {
+      "type": "车辆服务",
+      "count": 3.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 66.7
+    }
+  ]
+}

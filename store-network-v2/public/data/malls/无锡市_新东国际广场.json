@@ -1,0 +1,422 @@
+{
+  "name": "新东国际广场",
+  "city": "无锡市",
+  "address": "江苏省无锡市滨湖区周新路188-1023号",
+  "lat": 31.507564,
+  "lng": 120.297066,
+  "overview": {
+    "score": 86.5,
+    "score_rank": "市内前30%",
+    "population_score": 91.6,
+    "area_score": 77.0,
+    "consumption_score": 81.3,
+    "industry_score": 86.6,
+    "annual_sales": "新东国际广场是集休闲、购物、娱乐、餐饮、美食为一体的太湖新城首席生活休闲Mall，升级无锡城市商业模式和国际化开放式时尚生活。",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 2.7,
+    "open_date": "2011-05-01",
+    "operator": "磐泰集团自持运营",
+    "brand": "",
+    "type": "综合型",
+    "floors": "L1-L4"
+  },
+  "traffic": {
+    "annual_daily": 7041.0,
+    "annual_daily_unit": "人次",
+    "annual_daily_rank": "市内第66",
+    "jun_total": 30.7,
+    "jun_total_rank": "市内商场第66名",
+    "jun_daily_avg": 1.0,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第66名",
+    "weekday_avg": 9936.0,
+    "weekday_unit": "人次",
+    "weekday_rank": "市内商场第66名",
+    "holiday_avg": 1.1,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第71名"
+  },
+  "population": {
+    "residential": {
+      "500m": 1.3,
+      "1_5km": 8.3,
+      "3km": 31.4
+    },
+    "office": {
+      "500m": 4200.0,
+      "1_5km": 2.5,
+      "3km": 13.5
+    },
+    "permanent": {
+      "500m": 1.1,
+      "1_5km": 7.5,
+      "3km": 29.3
+    }
+  },
+  "business": {
+    "competitors": null,
+    "food": 160.0,
+    "shopping": 114.0,
+    "leisure": 12.0,
+    "education": 4.0,
+    "hotel": 10.0,
+    "services": 90.0,
+    "fitness": 4.0,
+    "auto": 12.0,
+    "total_stores": 63.0,
+    "old_store_3yr_pct": 51.0
+  },
+  "nearby_poi": {
+    "business": 2.0,
+    "community": 195.0,
+    "office": 6.0,
+    "school": 10.0,
+    "hospital": 34.0,
+    "transport": 7.0,
+    "scenic": 132.0
+  },
+  "demographics": {
+    "male_pct": 46.5,
+    "female_pct": null,
+    "education": {
+      "小学": 9.9,
+      "初中": 20.1,
+      "高中": 14.3,
+      "大专": 9.3,
+      "本科": 40.4,
+      "硕士": 4.6,
+      "博士": 1.4
+    },
+    "has_children_pct": 57.9,
+    "no_children_pct": 42.1
+  },
+  "scraped_at": "2026-08-02T10:58:21.970Z",
+  "nearby_restaurants": [
+    {
+      "brand": "溢品香酒馆(新东国际广场店)",
+      "address": "周新中路188号新东国际广场",
+      "distance": "9m"
+    },
+    {
+      "brand": "泗县炸串",
+      "address": "周新中路188号新东国际广场",
+      "distance": "12m"
+    },
+    {
+      "brand": "徐州烧烤(滨湖店)",
+      "address": "太湖街道周新中路188号新东国际广场2楼",
+      "distance": "15m"
+    },
+    {
+      "brand": "有家鲜货火锅(东降店)",
+      "address": "周新中路188号E栋二楼",
+      "distance": "15m"
+    },
+    {
+      "brand": "甜野烘焙",
+      "address": "新东国际广场2楼周新中路188号2057号",
+      "distance": "15m"
+    },
+    {
+      "brand": "华莱士·全鸡汉堡(新东国际广场)",
+      "address": "周新中路188号新东国际广场(嘉悦福超市旁)",
+      "distance": "17m"
+    },
+    {
+      "brand": "达玛音乐茶座",
+      "address": "周新中路188号新东国际广场",
+      "distance": "20m"
+    },
+    {
+      "brand": "塔斯汀中国汉堡(无锡市新东国际广场店)",
+      "address": "周新中路188-1019号188-1020号",
+      "distance": "25m"
+    },
+    {
+      "brand": "卤益味南京盐水鸭(锡南路店)",
+      "address": "周新中路188号新东国际广场F1层",
+      "distance": "25m"
+    },
+    {
+      "brand": "熠东炸串(东绛店)",
+      "address": "滨湖区经济开发区太湖街道周新中路188-1075",
+      "distance": "32m"
+    },
+    {
+      "brand": "溢品香酒馆(新东国际广场店)",
+      "address": "周新中路188号新东国际广场",
+      "distance": "9m"
+    },
+    {
+      "brand": "泗县炸串",
+      "address": "周新中路188号新东国际广场",
+      "distance": "12m"
+    },
+    {
+      "brand": "徐州烧烤(滨湖店)",
+      "address": "太湖街道周新中路188号新东国际广场2楼",
+      "distance": "15m"
+    },
+    {
+      "brand": "有家鲜货火锅(东降店)",
+      "address": "周新中路188号E栋二楼",
+      "distance": "15m"
+    },
+    {
+      "brand": "甜野烘焙",
+      "address": "新东国际广场2楼周新中路188号2057号",
+      "distance": "15m"
+    },
+    {
+      "brand": "华莱士·全鸡汉堡(新东国际广场)",
+      "address": "周新中路188号新东国际广场(嘉悦福超市旁)",
+      "distance": "17m"
+    },
+    {
+      "brand": "达玛音乐茶座",
+      "address": "周新中路188号新东国际广场",
+      "distance": "20m"
+    },
+    {
+      "brand": "塔斯汀中国汉堡(无锡市新东国际广场店)",
+      "address": "周新中路188-1019号188-1020号",
+      "distance": "25m"
+    },
+    {
+      "brand": "卤益味南京盐水鸭(锡南路店)",
+      "address": "周新中路188号新东国际广场F1层",
+      "distance": "25m"
+    },
+    {
+      "brand": "熠东炸串(东绛店)",
+      "address": "滨湖区经济开发区太湖街道周新中路188-1075",
+      "distance": "32m"
+    },
+    {
+      "brand": "溢品香酒馆(新东国际广场店)",
+      "address": "周新中路188号新东国际广场",
+      "distance": "9m"
+    },
+    {
+      "brand": "泗县炸串",
+      "address": "周新中路188号新东国际广场",
+      "distance": "12m"
+    },
+    {
+      "brand": "徐州烧烤(滨湖店)",
+      "address": "太湖街道周新中路188号新东国际广场2楼",
+      "distance": "15m"
+    },
+    {
+      "brand": "有家鲜货火锅(东降店)",
+      "address": "周新中路188号E栋二楼",
+      "distance": "15m"
+    },
+    {
+      "brand": "甜野烘焙",
+      "address": "新东国际广场2楼周新中路188号2057号",
+      "distance": "15m"
+    },
+    {
+      "brand": "华莱士·全鸡汉堡(新东国际广场)",
+      "address": "周新中路188号新东国际广场(嘉悦福超市旁)",
+      "distance": "17m"
+    },
+    {
+      "brand": "达玛音乐茶座",
+      "address": "周新中路188号新东国际广场",
+      "distance": "20m"
+    },
+    {
+      "brand": "塔斯汀中国汉堡(无锡市新东国际广场店)",
+      "address": "周新中路188-1019号188-1020号",
+      "distance": "25m"
+    },
+    {
+      "brand": "卤益味南京盐水鸭(锡南路店)",
+      "address": "周新中路188号新东国际广场F1层",
+      "distance": "25m"
+    },
+    {
+      "brand": "熠东炸串(东绛店)",
+      "address": "滨湖区经济开发区太湖街道周新中路188-1075",
+      "distance": "32m"
+    },
+    {
+      "brand": "溢品香酒馆(新东国际广场店)",
+      "address": "周新中路188号新东国际广场",
+      "distance": "9m"
+    },
+    {
+      "brand": "泗县炸串",
+      "address": "周新中路188号新东国际广场",
+      "distance": "12m"
+    },
+    {
+      "brand": "徐州烧烤(滨湖店)",
+      "address": "太湖街道周新中路188号新东国际广场2楼",
+      "distance": "15m"
+    },
+    {
+      "brand": "有家鲜货火锅(东降店)",
+      "address": "周新中路188号E栋二楼",
+      "distance": "15m"
+    },
+    {
+      "brand": "甜野烘焙",
+      "address": "新东国际广场2楼周新中路188号2057号",
+      "distance": "15m"
+    },
+    {
+      "brand": "华莱士·全鸡汉堡(新东国际广场)",
+      "address": "周新中路188号新东国际广场(嘉悦福超市旁)",
+      "distance": "17m"
+    },
+    {
+      "brand": "达玛音乐茶座",
+      "address": "周新中路188号新东国际广场",
+      "distance": "20m"
+    },
+    {
+      "brand": "塔斯汀中国汉堡(无锡市新东国际广场店)",
+      "address": "周新中路188-1019号188-1020号",
+      "distance": "25m"
+    },
+    {
+      "brand": "卤益味南京盐水鸭(锡南路店)",
+      "address": "周新中路188号新东国际广场F1层",
+      "distance": "25m"
+    },
+    {
+      "brand": "熠东炸串(东绛店)",
+      "address": "滨湖区经济开发区太湖街道周新中路188-1075",
+      "distance": "32m"
+    },
+    {
+      "brand": "溢品香酒馆(新东国际广场店)",
+      "address": "周新中路188号新东国际广场",
+      "distance": "9m"
+    },
+    {
+      "brand": "泗县炸串",
+      "address": "周新中路188号新东国际广场",
+      "distance": "12m"
+    },
+    {
+      "brand": "徐州烧烤(滨湖店)",
+      "address": "太湖街道周新中路188号新东国际广场2楼",
+      "distance": "15m"
+    },
+    {
+      "brand": "有家鲜货火锅(东降店)",
+      "address": "周新中路188号E栋二楼",
+      "distance": "15m"
+    },
+    {
+      "brand": "甜野烘焙",
+      "address": "新东国际广场2楼周新中路188号2057号",
+      "distance": "15m"
+    },
+    {
+      "brand": "华莱士·全鸡汉堡(新东国际广场)",
+      "address": "周新中路188号新东国际广场(嘉悦福超市旁)",
+      "distance": "17m"
+    },
+    {
+      "brand": "达玛音乐茶座",
+      "address": "周新中路188号新东国际广场",
+      "distance": "20m"
+    },
+    {
+      "brand": "塔斯汀中国汉堡(无锡市新东国际广场店)",
+      "address": "周新中路188-1019号188-1020号",
+      "distance": "25m"
+    },
+    {
+      "brand": "卤益味南京盐水鸭(锡南路店)",
+      "address": "周新中路188号新东国际广场F1层",
+      "distance": "25m"
+    },
+    {
+      "brand": "熠东炸串(东绛店)",
+      "address": "滨湖区经济开发区太湖街道周新中路188-1075",
+      "distance": "32m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "无锡万象城",
+      "open_date": "2014-12-20",
+      "area": "24万㎡",
+      "jun_daily_avg": "8.1万人次",
+      "weekday_avg": "6.5万人次",
+      "holiday_avg": "12.5万人次"
+    },
+    {
+      "name": "无锡万科邻里家live",
+      "open_date": "2017-12-16",
+      "area": "1.5万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 18.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 33.3
+    },
+    {
+      "type": "购物",
+      "count": 20.0,
+      "within_1yr_pct": 15.0,
+      "1_3yr_pct": 10.0,
+      "over_3yr_pct": 75.0
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 9.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 55.6,
+      "over_3yr_pct": 44.4
+    },
+    {
+      "type": "教育培训",
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "生活服务",
+      "count": 9.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 33.3
+    },
+    {
+      "type": "运动健身",
+      "count": 3.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 66.7
+    },
+    {
+      "type": "车辆服务",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    }
+  ]
+}

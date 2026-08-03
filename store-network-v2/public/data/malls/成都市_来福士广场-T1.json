@@ -1,0 +1,430 @@
+{
+  "name": "来福士广场-T1",
+  "city": "成都市",
+  "address": "四川省成都市武侯区人民南路四段3号",
+  "lat": 30.631834,
+  "lng": 104.067358,
+  "overview": {
+    "score": 93.6,
+    "score_rank": "市内前30%",
+    "population_score": 81.8,
+    "area_score": 85.8,
+    "consumption_score": 79.1,
+    "industry_score": 93.7,
+    "annual_sales": "成都来福士广场是凯德置地在中国开发、管理和持有的“来福士”品牌系列建筑之一，汇集了国际甲级写字楼、购物中心、国际高端服务公寓、酒店和珍藏单位于一身。项目运用了地源热泵供热和制冷系统、热回收系统、冷热水蓄藏、中水回用、屋顶与裙楼绿化、就地取材、太阳能等可再生能源的利用等节能环保措施，并已经申请了美国绿色建筑委员会颁发的LEED金奖",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 7.4,
+    "open_date": "2012-09-23",
+    "operator": "凯德置地（中国）投资有限公司",
+    "brand": "凯德",
+    "type": "综合型",
+    "floors": "B2-L5"
+  },
+  "traffic": {
+    "annual_daily": 2.41,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第76",
+    "jun_total": 104.6,
+    "jun_total_rank": "市内商场第64名",
+    "jun_daily_avg": 3.5,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第64名",
+    "weekday_avg": 3.3,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第64名",
+    "holiday_avg": 4.0,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第71名"
+  },
+  "population": {
+    "residential": {
+      "500m": 1.6,
+      "1_5km": 15.3,
+      "3km": 52.3
+    },
+    "office": {
+      "500m": 2.4,
+      "1_5km": 13.7,
+      "3km": 47.4
+    },
+    "permanent": {
+      "500m": 2.0,
+      "1_5km": 14.6,
+      "3km": 56.8
+    }
+  },
+  "business": {
+    "competitors": 5.0,
+    "food": 219.0,
+    "shopping": 230.0,
+    "leisure": 15.0,
+    "education": 25.0,
+    "hotel": 37.0,
+    "services": 165.0,
+    "fitness": 27.0,
+    "auto": 20.0,
+    "total_stores": 253.0,
+    "old_store_3yr_pct": 51.0
+  },
+  "nearby_poi": {
+    "business": 3.0,
+    "community": 1132.0,
+    "office": 71.0,
+    "school": 47.0,
+    "hospital": 262.0,
+    "transport": 16.0,
+    "scenic": 338.0
+  },
+  "demographics": {
+    "male_pct": 47.3,
+    "female_pct": null,
+    "education": {
+      "小学": 8.6,
+      "初中": 16.1,
+      "高中": 14.1,
+      "大专": 9.5,
+      "本科": 44.4,
+      "硕士": 5.6,
+      "博士": 1.7
+    },
+    "has_children_pct": 50.8,
+    "no_children_pct": 49.2
+  },
+  "scraped_at": "2026-07-31T13:40:42.463Z",
+  "nearby_restaurants": [
+    {
+      "brand": "一醒·现做手工面(来福士店)",
+      "address": "人民南路四段3号B2层34号(省体育馆地铁站F2口步行330米)",
+      "distance": "2m"
+    },
+    {
+      "brand": "德益汤膳·猪肚鸡汤锅(来福士店)",
+      "address": "人民南路四段3号成都来福士广场L2层",
+      "distance": "2m"
+    },
+    {
+      "brand": "水景平台锦庐餐厅",
+      "address": "人民南路四段3号成都来福士广场L3层",
+      "distance": "2m"
+    },
+    {
+      "brand": "爆脾气生炸鸡架(武侯区来福士店)",
+      "address": "人民南路四段3号成都来福士广场L2层",
+      "distance": "2m"
+    },
+    {
+      "brand": "栀木小馆-云贵菜(来福士店)",
+      "address": "人民南路四段3号成都来福士广场02层23A号",
+      "distance": "2m"
+    },
+    {
+      "brand": "爱棵米ACMEITEM(成都来福士店)",
+      "address": "人民南路四段三号成都来福士广场1楼08/09号",
+      "distance": "2m"
+    },
+    {
+      "brand": "禄广门贵州原汤牛肉粉(来福士店)",
+      "address": "人民南路四段3号成都来福士广场B2层5455号",
+      "distance": "2m"
+    },
+    {
+      "brand": "朝家瓦舍拌饭馆(来福士店)",
+      "address": "人民南路四段3号成都来福士广场B2层",
+      "distance": "9m"
+    },
+    {
+      "brand": "牧之初心原切牛排(来福士店)",
+      "address": "人民南路四段3号成都来福士广场B2层",
+      "distance": "9m"
+    },
+    {
+      "brand": "野人先生现做冰淇淋(成都来福士店)",
+      "address": "人民南路四段3号成都来福士广场B2-40B号",
+      "distance": "11m"
+    },
+    {
+      "brand": "一醒·现做手工面(来福士店)",
+      "address": "人民南路四段3号B2层34号(省体育馆地铁站F2口步行330米)",
+      "distance": "2m"
+    },
+    {
+      "brand": "德益汤膳·猪肚鸡汤锅(来福士店)",
+      "address": "人民南路四段3号成都来福士广场L2层",
+      "distance": "2m"
+    },
+    {
+      "brand": "水景平台锦庐餐厅",
+      "address": "人民南路四段3号成都来福士广场L3层",
+      "distance": "2m"
+    },
+    {
+      "brand": "爆脾气生炸鸡架(武侯区来福士店)",
+      "address": "人民南路四段3号成都来福士广场L2层",
+      "distance": "2m"
+    },
+    {
+      "brand": "栀木小馆-云贵菜(来福士店)",
+      "address": "人民南路四段3号成都来福士广场02层23A号",
+      "distance": "2m"
+    },
+    {
+      "brand": "爱棵米ACMEITEM(成都来福士店)",
+      "address": "人民南路四段三号成都来福士广场1楼08/09号",
+      "distance": "2m"
+    },
+    {
+      "brand": "禄广门贵州原汤牛肉粉(来福士店)",
+      "address": "人民南路四段3号成都来福士广场B2层5455号",
+      "distance": "2m"
+    },
+    {
+      "brand": "朝家瓦舍拌饭馆(来福士店)",
+      "address": "人民南路四段3号成都来福士广场B2层",
+      "distance": "9m"
+    },
+    {
+      "brand": "牧之初心原切牛排(来福士店)",
+      "address": "人民南路四段3号成都来福士广场B2层",
+      "distance": "9m"
+    },
+    {
+      "brand": "野人先生现做冰淇淋(成都来福士店)",
+      "address": "人民南路四段3号成都来福士广场B2-40B号",
+      "distance": "11m"
+    },
+    {
+      "brand": "一醒·现做手工面(来福士店)",
+      "address": "人民南路四段3号B2层34号(省体育馆地铁站F2口步行330米)",
+      "distance": "2m"
+    },
+    {
+      "brand": "德益汤膳·猪肚鸡汤锅(来福士店)",
+      "address": "人民南路四段3号成都来福士广场L2层",
+      "distance": "2m"
+    },
+    {
+      "brand": "水景平台锦庐餐厅",
+      "address": "人民南路四段3号成都来福士广场L3层",
+      "distance": "2m"
+    },
+    {
+      "brand": "爆脾气生炸鸡架(武侯区来福士店)",
+      "address": "人民南路四段3号成都来福士广场L2层",
+      "distance": "2m"
+    },
+    {
+      "brand": "栀木小馆-云贵菜(来福士店)",
+      "address": "人民南路四段3号成都来福士广场02层23A号",
+      "distance": "2m"
+    },
+    {
+      "brand": "爱棵米ACMEITEM(成都来福士店)",
+      "address": "人民南路四段三号成都来福士广场1楼08/09号",
+      "distance": "2m"
+    },
+    {
+      "brand": "禄广门贵州原汤牛肉粉(来福士店)",
+      "address": "人民南路四段3号成都来福士广场B2层5455号",
+      "distance": "2m"
+    },
+    {
+      "brand": "朝家瓦舍拌饭馆(来福士店)",
+      "address": "人民南路四段3号成都来福士广场B2层",
+      "distance": "9m"
+    },
+    {
+      "brand": "牧之初心原切牛排(来福士店)",
+      "address": "人民南路四段3号成都来福士广场B2层",
+      "distance": "9m"
+    },
+    {
+      "brand": "野人先生现做冰淇淋(成都来福士店)",
+      "address": "人民南路四段3号成都来福士广场B2-40B号",
+      "distance": "11m"
+    },
+    {
+      "brand": "一醒·现做手工面(来福士店)",
+      "address": "人民南路四段3号B2层34号(省体育馆地铁站F2口步行330米)",
+      "distance": "2m"
+    },
+    {
+      "brand": "德益汤膳·猪肚鸡汤锅(来福士店)",
+      "address": "人民南路四段3号成都来福士广场L2层",
+      "distance": "2m"
+    },
+    {
+      "brand": "水景平台锦庐餐厅",
+      "address": "人民南路四段3号成都来福士广场L3层",
+      "distance": "2m"
+    },
+    {
+      "brand": "爆脾气生炸鸡架(武侯区来福士店)",
+      "address": "人民南路四段3号成都来福士广场L2层",
+      "distance": "2m"
+    },
+    {
+      "brand": "栀木小馆-云贵菜(来福士店)",
+      "address": "人民南路四段3号成都来福士广场02层23A号",
+      "distance": "2m"
+    },
+    {
+      "brand": "爱棵米ACMEITEM(成都来福士店)",
+      "address": "人民南路四段三号成都来福士广场1楼08/09号",
+      "distance": "2m"
+    },
+    {
+      "brand": "禄广门贵州原汤牛肉粉(来福士店)",
+      "address": "人民南路四段3号成都来福士广场B2层5455号",
+      "distance": "2m"
+    },
+    {
+      "brand": "朝家瓦舍拌饭馆(来福士店)",
+      "address": "人民南路四段3号成都来福士广场B2层",
+      "distance": "9m"
+    },
+    {
+      "brand": "牧之初心原切牛排(来福士店)",
+      "address": "人民南路四段3号成都来福士广场B2层",
+      "distance": "9m"
+    },
+    {
+      "brand": "野人先生现做冰淇淋(成都来福士店)",
+      "address": "人民南路四段3号成都来福士广场B2-40B号",
+      "distance": "11m"
+    },
+    {
+      "brand": "一醒·现做手工面(来福士店)",
+      "address": "人民南路四段3号B2层34号(省体育馆地铁站F2口步行330米)",
+      "distance": "2m"
+    },
+    {
+      "brand": "德益汤膳·猪肚鸡汤锅(来福士店)",
+      "address": "人民南路四段3号成都来福士广场L2层",
+      "distance": "2m"
+    },
+    {
+      "brand": "水景平台锦庐餐厅",
+      "address": "人民南路四段3号成都来福士广场L3层",
+      "distance": "2m"
+    },
+    {
+      "brand": "爆脾气生炸鸡架(武侯区来福士店)",
+      "address": "人民南路四段3号成都来福士广场L2层",
+      "distance": "2m"
+    },
+    {
+      "brand": "栀木小馆-云贵菜(来福士店)",
+      "address": "人民南路四段3号成都来福士广场02层23A号",
+      "distance": "2m"
+    },
+    {
+      "brand": "爱棵米ACMEITEM(成都来福士店)",
+      "address": "人民南路四段三号成都来福士广场1楼08/09号",
+      "distance": "2m"
+    },
+    {
+      "brand": "禄广门贵州原汤牛肉粉(来福士店)",
+      "address": "人民南路四段3号成都来福士广场B2层5455号",
+      "distance": "2m"
+    },
+    {
+      "brand": "朝家瓦舍拌饭馆(来福士店)",
+      "address": "人民南路四段3号成都来福士广场B2层",
+      "distance": "9m"
+    },
+    {
+      "brand": "牧之初心原切牛排(来福士店)",
+      "address": "人民南路四段3号成都来福士广场B2层",
+      "distance": "9m"
+    },
+    {
+      "brand": "野人先生现做冰淇淋(成都来福士店)",
+      "address": "人民南路四段3号成都来福士广场B2-40B号",
+      "distance": "11m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "成都国贸时尚汇",
+      "open_date": "2019-07-01",
+      "area": "3万㎡",
+      "jun_daily_avg": "1.3万人次",
+      "weekday_avg": "1.3万人次",
+      "holiday_avg": "1.3万人次"
+    },
+    {
+      "name": "成都玉林生活广场",
+      "open_date": "2001-01-01",
+      "area": "-",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "成都王府井购物中心",
+      "open_date": "2011-12-24",
+      "area": "10万㎡",
+      "jun_daily_avg": "2.8万人次",
+      "weekday_avg": "2.6万人次",
+      "holiday_avg": "3.4万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 94.0,
+      "within_1yr_pct": 17.0,
+      "1_3yr_pct": 31.9,
+      "over_3yr_pct": 51.1
+    },
+    {
+      "type": "购物",
+      "count": 89.0,
+      "within_1yr_pct": 16.9,
+      "1_3yr_pct": 33.7,
+      "over_3yr_pct": 49.4
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 5.0,
+      "within_1yr_pct": 40.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 60.0
+    },
+    {
+      "type": "教育培训",
+      "count": 11.0,
+      "within_1yr_pct": 27.3,
+      "1_3yr_pct": 18.2,
+      "over_3yr_pct": 54.5
+    },
+    {
+      "type": "酒店住宿",
+      "count": 8.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 37.5,
+      "over_3yr_pct": 37.5
+    },
+    {
+      "type": "生活服务",
+      "count": 33.0,
+      "within_1yr_pct": 21.2,
+      "1_3yr_pct": 27.3,
+      "over_3yr_pct": 51.5
+    },
+    {
+      "type": "运动健身",
+      "count": 8.0,
+      "within_1yr_pct": 12.5,
+      "1_3yr_pct": 37.5,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 5.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 20.0,
+      "over_3yr_pct": 60.0
+    }
+  ]
+}

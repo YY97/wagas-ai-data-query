@@ -1,0 +1,154 @@
+{
+  "name": "虹霞商城",
+  "city": "上海市",
+  "address": "北京市朝阳区西大望路甲22号",
+  "lat": null,
+  "lng": null,
+  "overview": {
+    "score": 97.0,
+    "score_rank": "市内前30%",
+    "population_score": 85.6,
+    "area_score": 100.0,
+    "consumption_score": 85.1,
+    "industry_score": 97.0,
+    "annual_sales": "85",
+    "annual_sales_unit": "亿元",
+    "area_size_sqm": 20.0,
+    "open_date": "2017-10-01",
+    "operator": "合生创展集团",
+    "brand": "合生",
+    "type": "综合型",
+    "floors": "B2-L6"
+  },
+  "traffic": {
+    "annual_daily": 10.56,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第2",
+    "jun_total": 606.5,
+    "jun_total_rank": "市内商场第1名",
+    "jun_daily_avg": 20.2,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第1名",
+    "weekday_avg": 17.8,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第1名",
+    "holiday_avg": 26.9,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第1名"
+  },
+  "population": {
+    "residential": {
+      "500m": 1.8,
+      "1_5km": 21.4,
+      "3km": 77.2
+    },
+    "office": {
+      "500m": 2.1,
+      "1_5km": 13.6,
+      "3km": 61.1
+    },
+    "permanent": {
+      "500m": 3.1,
+      "1_5km": 21.4,
+      "3km": 80.7
+    }
+  },
+  "business": {
+    "competitors": 10.0,
+    "food": 370.0,
+    "shopping": 452.0,
+    "leisure": 46.0,
+    "education": 32.0,
+    "hotel": 10.0,
+    "services": 287.0,
+    "fitness": 30.0,
+    "auto": 54.0,
+    "total_stores": 796.0,
+    "old_store_3yr_pct": 40.0
+  },
+  "nearby_poi": {
+    "business": 3.0,
+    "community": 353.0,
+    "office": 80.0,
+    "school": 31.0,
+    "hospital": 121.0,
+    "transport": 8.0,
+    "scenic": 122.0
+  },
+  "demographics": {
+    "male_pct": 48.0,
+    "female_pct": null,
+    "education": {
+      "小学": 8.7,
+      "初中": 15.1,
+      "高中": 11.0,
+      "大专": 6.7,
+      "本科": 49.7,
+      "硕士": 7.1,
+      "博士": 1.7
+    },
+    "has_children_pct": 56.7,
+    "no_children_pct": 43.3
+  },
+  "scraped_at": "2026-08-01T15:44:49.805Z",
+  "nearby_restaurants": [],
+  "nearby_malls": [],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 278.0,
+      "within_1yr_pct": 26.3,
+      "1_3yr_pct": 30.2,
+      "over_3yr_pct": 43.5
+    },
+    {
+      "type": "购物",
+      "count": 336.0,
+      "within_1yr_pct": 17.6,
+      "1_3yr_pct": 41.1,
+      "over_3yr_pct": 41.4
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 34.0,
+      "within_1yr_pct": 35.3,
+      "1_3yr_pct": 47.1,
+      "over_3yr_pct": 17.6
+    },
+    {
+      "type": "教育培训",
+      "count": 10.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 30.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "生活服务",
+      "count": 97.0,
+      "within_1yr_pct": 27.8,
+      "1_3yr_pct": 39.2,
+      "over_3yr_pct": 33.0
+    },
+    {
+      "type": "运动健身",
+      "count": 9.0,
+      "within_1yr_pct": 44.4,
+      "1_3yr_pct": 55.6,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 31.0,
+      "within_1yr_pct": 19.4,
+      "1_3yr_pct": 38.7,
+      "over_3yr_pct": 41.9
+    }
+  ]
+}

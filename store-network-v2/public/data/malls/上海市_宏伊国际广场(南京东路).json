@@ -1,0 +1,465 @@
+{
+  "name": "宏伊国际广场(南京东路)",
+  "city": "上海市",
+  "address": "上海市黄浦区外滩街道宏伊国际广场宏伊国际广场(南京东路)",
+  "lat": 31.237096,
+  "lng": 121.484147,
+  "overview": {
+    "score": 93.4,
+    "score_rank": "市内前30%",
+    "population_score": 92.4,
+    "area_score": 100.0,
+    "consumption_score": 84.8,
+    "industry_score": 93.4,
+    "annual_sales": "宏伊国际广场位于上海市黄浦区南京东路步行街东端，美国凯里森（Callison）建筑设计事务所设计主体塔楼和裙楼组成，地面29层、地下3层，总建筑面积63,453平方米，总建筑高度142米其中地下1层至裙楼7层为高档时尚购物和休闲餐饮中心，塔楼8至29层为国际甲级办公区，是一幢综合了购物、休闲、餐饮和办公功能的智能化楼宇作为步行街东大门的标志性建筑，宏伊国际广场将瞄准市场高端定位，以国际化的管理理念和设施环境，打造南京路商业和办公楼宇中的优势品牌",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 2.8,
+    "open_date": "2005-07-24",
+    "operator": "上海宏伊企业集团有限公司",
+    "brand": "上海宏伊置业有限公司",
+    "type": "美食型",
+    "floors": "B1-L7"
+  },
+  "traffic": {
+    "annual_daily": 1.97,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第140",
+    "jun_total": 65.3,
+    "jun_total_rank": "市内商场第178名",
+    "jun_daily_avg": 2.2,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第178名",
+    "weekday_avg": 1.9,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第185名",
+    "holiday_avg": 2.9,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第169名"
+  },
+  "population": {
+    "residential": {
+      "500m": 2.6,
+      "1_5km": 13.8,
+      "3km": 76.8
+    },
+    "office": {
+      "500m": 6.0,
+      "1_5km": 31.0,
+      "3km": 108.4
+    },
+    "permanent": {
+      "500m": 4.8,
+      "1_5km": 22.7,
+      "3km": 95.9
+    }
+  },
+  "business": {
+    "competitors": 16.0,
+    "food": 612.0,
+    "shopping": 709.0,
+    "leisure": 54.0,
+    "education": 25.0,
+    "hotel": 234.0,
+    "services": 248.0,
+    "fitness": 26.0,
+    "auto": 24.0,
+    "total_stores": 83.0,
+    "old_store_3yr_pct": 60.0
+  },
+  "nearby_poi": {
+    "business": 32.0,
+    "community": 808.0,
+    "office": 228.0,
+    "school": 42.0,
+    "hospital": 184.0,
+    "transport": 29.0,
+    "scenic": 943.0
+  },
+  "demographics": {
+    "male_pct": 48.2,
+    "female_pct": null,
+    "education": {
+      "小学": 9.0,
+      "初中": 16.5,
+      "高中": 11.4,
+      "大专": 6.8,
+      "本科": 47.9,
+      "硕士": 6.4,
+      "博士": 2.0
+    },
+    "has_children_pct": 57.6,
+    "no_children_pct": 42.4
+  },
+  "scraped_at": "2026-07-31T12:27:49.016Z",
+  "nearby_restaurants": [
+    {
+      "brand": "煲珠公·老红糖珍珠奶茶(宏伊广场店)",
+      "address": "宏伊广场B104(南京东路地铁站出入口旁)",
+      "distance": "0m"
+    },
+    {
+      "brand": "胡子大厨·超级小炒肉(黄浦宏伊广场店)",
+      "address": "南京东路299号宏伊国际广场B1层",
+      "distance": "0m"
+    },
+    {
+      "brand": "柠妹茶坊(宏伊广场店)",
+      "address": "外滩街道南京东路299号宏伊国际广场地下一层B-119单元",
+      "distance": "1m"
+    },
+    {
+      "brand": "ButMayCoffee泊湄咖点",
+      "address": "南京东路299号宏伊国际广场B1层(南京东路地铁站出入口旁)",
+      "distance": "4m"
+    },
+    {
+      "brand": "山葵爱鳗鱼·炭火烧肉(外滩南京东路店)",
+      "address": "南京东路299号宏伊国际广场F5层(南京东路地铁站出入口旁)",
+      "distance": "5m"
+    },
+    {
+      "brand": "瑞幸咖啡(宏伊国际店)",
+      "address": "南京东路299号宏伊国际广场B1层(南京东路地铁站出入口旁)",
+      "distance": "6m"
+    },
+    {
+      "brand": "达摩寿司·黑米OMAKASE",
+      "address": "南京东路299号宏伊国际广场F6层(南京东路地铁站出入口旁)",
+      "distance": "6m"
+    },
+    {
+      "brand": "小杨生煎(上海宏伊广场店)",
+      "address": "南京东路299号宏伊国际广场地下一层B-107A单元",
+      "distance": "7m"
+    },
+    {
+      "brand": "LINLEE·手打柠檬茶(黄浦宏伊国际店)",
+      "address": "外滩街道南京东路299号宏伊国际广场B-122B单元",
+      "distance": "7m"
+    },
+    {
+      "brand": "红唇串串香(宏伊国际广场店)",
+      "address": "南京东路299号宏伊国际广场B1层B-120",
+      "distance": "7m"
+    },
+    {
+      "brand": "煲珠公·老红糖珍珠奶茶(宏伊广场店)",
+      "address": "宏伊广场B104(南京东路地铁站出入口旁)",
+      "distance": "0m"
+    },
+    {
+      "brand": "胡子大厨·超级小炒肉(黄浦宏伊广场店)",
+      "address": "南京东路299号宏伊国际广场B1层",
+      "distance": "0m"
+    },
+    {
+      "brand": "柠妹茶坊(宏伊广场店)",
+      "address": "外滩街道南京东路299号宏伊国际广场地下一层B-119单元",
+      "distance": "1m"
+    },
+    {
+      "brand": "ButMayCoffee泊湄咖点",
+      "address": "南京东路299号宏伊国际广场B1层(南京东路地铁站出入口旁)",
+      "distance": "4m"
+    },
+    {
+      "brand": "山葵爱鳗鱼·炭火烧肉(外滩南京东路店)",
+      "address": "南京东路299号宏伊国际广场F5层(南京东路地铁站出入口旁)",
+      "distance": "5m"
+    },
+    {
+      "brand": "瑞幸咖啡(宏伊国际店)",
+      "address": "南京东路299号宏伊国际广场B1层(南京东路地铁站出入口旁)",
+      "distance": "6m"
+    },
+    {
+      "brand": "达摩寿司·黑米OMAKASE",
+      "address": "南京东路299号宏伊国际广场F6层(南京东路地铁站出入口旁)",
+      "distance": "6m"
+    },
+    {
+      "brand": "小杨生煎(上海宏伊广场店)",
+      "address": "南京东路299号宏伊国际广场地下一层B-107A单元",
+      "distance": "7m"
+    },
+    {
+      "brand": "LINLEE·手打柠檬茶(黄浦宏伊国际店)",
+      "address": "外滩街道南京东路299号宏伊国际广场B-122B单元",
+      "distance": "7m"
+    },
+    {
+      "brand": "红唇串串香(宏伊国际广场店)",
+      "address": "南京东路299号宏伊国际广场B1层B-120",
+      "distance": "7m"
+    },
+    {
+      "brand": "煲珠公·老红糖珍珠奶茶(宏伊广场店)",
+      "address": "宏伊广场B104(南京东路地铁站出入口旁)",
+      "distance": "0m"
+    },
+    {
+      "brand": "胡子大厨·超级小炒肉(黄浦宏伊广场店)",
+      "address": "南京东路299号宏伊国际广场B1层",
+      "distance": "0m"
+    },
+    {
+      "brand": "柠妹茶坊(宏伊广场店)",
+      "address": "外滩街道南京东路299号宏伊国际广场地下一层B-119单元",
+      "distance": "1m"
+    },
+    {
+      "brand": "ButMayCoffee泊湄咖点",
+      "address": "南京东路299号宏伊国际广场B1层(南京东路地铁站出入口旁)",
+      "distance": "4m"
+    },
+    {
+      "brand": "山葵爱鳗鱼·炭火烧肉(外滩南京东路店)",
+      "address": "南京东路299号宏伊国际广场F5层(南京东路地铁站出入口旁)",
+      "distance": "5m"
+    },
+    {
+      "brand": "瑞幸咖啡(宏伊国际店)",
+      "address": "南京东路299号宏伊国际广场B1层(南京东路地铁站出入口旁)",
+      "distance": "6m"
+    },
+    {
+      "brand": "达摩寿司·黑米OMAKASE",
+      "address": "南京东路299号宏伊国际广场F6层(南京东路地铁站出入口旁)",
+      "distance": "6m"
+    },
+    {
+      "brand": "小杨生煎(上海宏伊广场店)",
+      "address": "南京东路299号宏伊国际广场地下一层B-107A单元",
+      "distance": "7m"
+    },
+    {
+      "brand": "LINLEE·手打柠檬茶(黄浦宏伊国际店)",
+      "address": "外滩街道南京东路299号宏伊国际广场B-122B单元",
+      "distance": "7m"
+    },
+    {
+      "brand": "红唇串串香(宏伊国际广场店)",
+      "address": "南京东路299号宏伊国际广场B1层B-120",
+      "distance": "7m"
+    },
+    {
+      "brand": "煲珠公·老红糖珍珠奶茶(宏伊广场店)",
+      "address": "宏伊广场B104(南京东路地铁站出入口旁)",
+      "distance": "0m"
+    },
+    {
+      "brand": "胡子大厨·超级小炒肉(黄浦宏伊广场店)",
+      "address": "南京东路299号宏伊国际广场B1层",
+      "distance": "0m"
+    },
+    {
+      "brand": "柠妹茶坊(宏伊广场店)",
+      "address": "外滩街道南京东路299号宏伊国际广场地下一层B-119单元",
+      "distance": "1m"
+    },
+    {
+      "brand": "ButMayCoffee泊湄咖点",
+      "address": "南京东路299号宏伊国际广场B1层(南京东路地铁站出入口旁)",
+      "distance": "4m"
+    },
+    {
+      "brand": "山葵爱鳗鱼·炭火烧肉(外滩南京东路店)",
+      "address": "南京东路299号宏伊国际广场F5层(南京东路地铁站出入口旁)",
+      "distance": "5m"
+    },
+    {
+      "brand": "瑞幸咖啡(宏伊国际店)",
+      "address": "南京东路299号宏伊国际广场B1层(南京东路地铁站出入口旁)",
+      "distance": "6m"
+    },
+    {
+      "brand": "达摩寿司·黑米OMAKASE",
+      "address": "南京东路299号宏伊国际广场F6层(南京东路地铁站出入口旁)",
+      "distance": "6m"
+    },
+    {
+      "brand": "小杨生煎(上海宏伊广场店)",
+      "address": "南京东路299号宏伊国际广场地下一层B-107A单元",
+      "distance": "7m"
+    },
+    {
+      "brand": "LINLEE·手打柠檬茶(黄浦宏伊国际店)",
+      "address": "外滩街道南京东路299号宏伊国际广场B-122B单元",
+      "distance": "7m"
+    },
+    {
+      "brand": "红唇串串香(宏伊国际广场店)",
+      "address": "南京东路299号宏伊国际广场B1层B-120",
+      "distance": "7m"
+    },
+    {
+      "brand": "煲珠公·老红糖珍珠奶茶(宏伊广场店)",
+      "address": "宏伊广场B104(南京东路地铁站出入口旁)",
+      "distance": "0m"
+    },
+    {
+      "brand": "胡子大厨·超级小炒肉(黄浦宏伊广场店)",
+      "address": "南京东路299号宏伊国际广场B1层",
+      "distance": "0m"
+    },
+    {
+      "brand": "柠妹茶坊(宏伊广场店)",
+      "address": "外滩街道南京东路299号宏伊国际广场地下一层B-119单元",
+      "distance": "1m"
+    },
+    {
+      "brand": "ButMayCoffee泊湄咖点",
+      "address": "南京东路299号宏伊国际广场B1层(南京东路地铁站出入口旁)",
+      "distance": "4m"
+    },
+    {
+      "brand": "山葵爱鳗鱼·炭火烧肉(外滩南京东路店)",
+      "address": "南京东路299号宏伊国际广场F5层(南京东路地铁站出入口旁)",
+      "distance": "5m"
+    },
+    {
+      "brand": "瑞幸咖啡(宏伊国际店)",
+      "address": "南京东路299号宏伊国际广场B1层(南京东路地铁站出入口旁)",
+      "distance": "6m"
+    },
+    {
+      "brand": "达摩寿司·黑米OMAKASE",
+      "address": "南京东路299号宏伊国际广场F6层(南京东路地铁站出入口旁)",
+      "distance": "6m"
+    },
+    {
+      "brand": "小杨生煎(上海宏伊广场店)",
+      "address": "南京东路299号宏伊国际广场地下一层B-107A单元",
+      "distance": "7m"
+    },
+    {
+      "brand": "LINLEE·手打柠檬茶(黄浦宏伊国际店)",
+      "address": "外滩街道南京东路299号宏伊国际广场B-122B单元",
+      "distance": "7m"
+    },
+    {
+      "brand": "红唇串串香(宏伊国际广场店)",
+      "address": "南京东路299号宏伊国际广场B1层B-120",
+      "distance": "7m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海悦荟广场",
+      "open_date": "2014-12-01",
+      "area": "2.5万㎡",
+      "jun_daily_avg": "1.3万人次",
+      "weekday_avg": "1.1万人次",
+      "holiday_avg": "1.8万人次"
+    },
+    {
+      "name": "上海恒基名人购物中心",
+      "open_date": "2011-11-11",
+      "area": "4万㎡",
+      "jun_daily_avg": "1.2万人次",
+      "weekday_avg": "1.1万人次",
+      "holiday_avg": "1.4万人次"
+    },
+    {
+      "name": "上海百联ZX创趣场",
+      "open_date": "2023-01-15",
+      "area": "1万㎡",
+      "jun_daily_avg": "3.4万人次",
+      "weekday_avg": "2.7万人次",
+      "holiday_avg": "5.6万人次"
+    },
+    {
+      "name": "上海新世界大丸百货",
+      "open_date": "2015-05-15",
+      "area": "7万㎡",
+      "jun_daily_avg": "5.2万人次",
+      "weekday_avg": "4.6万人次",
+      "holiday_avg": "6.9万人次"
+    },
+    {
+      "name": "上海外滩中央广场",
+      "open_date": "2017-09-24",
+      "area": "4.5万㎡",
+      "jun_daily_avg": "1.8万人次",
+      "weekday_avg": "1.6万人次",
+      "holiday_avg": "2.5万人次"
+    },
+    {
+      "name": "上海U479",
+      "open_date": "2021-06-01",
+      "area": "1万㎡",
+      "jun_daily_avg": "1.3万人次",
+      "weekday_avg": "1.1万人次",
+      "holiday_avg": "1.7万人次"
+    },
+    {
+      "name": "上海阳光商厦",
+      "open_date": "-",
+      "area": "-",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海益丰外滩源",
+      "open_date": "2012-05-17",
+      "area": "6000㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海永安百货",
+      "open_date": "2020-01-01",
+      "area": "1.5万㎡",
+      "jun_daily_avg": "1.3万人次",
+      "weekday_avg": "1.1万人次",
+      "holiday_avg": "1.7万人次"
+    },
+    {
+      "name": "上海苏河湾万象天地",
+      "open_date": "2022-01-01",
+      "area": "6万㎡",
+      "jun_daily_avg": "2.7万人次",
+      "weekday_avg": "2.4万人次",
+      "holiday_avg": "3.5万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 39.0,
+      "within_1yr_pct": 5.1,
+      "1_3yr_pct": 23.1,
+      "over_3yr_pct": 71.8
+    },
+    {
+      "type": "购物",
+      "count": 33.0,
+      "within_1yr_pct": 27.3,
+      "1_3yr_pct": 27.3,
+      "over_3yr_pct": 45.5
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    },
+    {
+      "type": "生活服务",
+      "count": 9.0,
+      "within_1yr_pct": 11.1,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 55.6
+    },
+    {
+      "type": "运动健身",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    }
+  ]
+}

@@ -1,0 +1,462 @@
+{
+  "name": "上海龙华会",
+  "city": "上海市",
+  "address": "上海市徐汇区11号线12号线",
+  "lat": 31.188334,
+  "lng": 121.436307,
+  "overview": {
+    "score": 95.0,
+    "score_rank": "市内前30%",
+    "population_score": 77.1,
+    "area_score": 69.9,
+    "consumption_score": 84.6,
+    "industry_score": 95.2,
+    "annual_sales": "上海龙华会定位为集民俗故事、文化碰撞、青年潮流、绿色生态的城市理想街区，以“meet on street 龙华街巷，妙会横生”为品牌内核，打造一座集休闲娱乐、屋顶露台、滨水餐吧、文化展示等于一体的复合型开放场域",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 10.0,
+    "open_date": "2023-09-26",
+    "operator": "印力商用置业有限公司",
+    "brand": "印力",
+    "type": "美食型",
+    "floors": "B2-L1"
+  },
+  "traffic": {
+    "annual_daily": 2.98,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第85",
+    "jun_total": 122.9,
+    "jun_total_rank": "市内商场第90名",
+    "jun_daily_avg": 4.1,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第90名",
+    "weekday_avg": 3.8,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第92名",
+    "holiday_avg": 5.0,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第90名"
+  },
+  "population": {
+    "residential": {
+      "500m": 1.4,
+      "1_5km": 16.4,
+      "3km": 68.3
+    },
+    "office": {
+      "500m": 9500.0,
+      "1_5km": 13.2,
+      "3km": 59.1
+    },
+    "permanent": {
+      "500m": 1.9,
+      "1_5km": 17.6,
+      "3km": 76.2
+    }
+  },
+  "business": {
+    "competitors": 5.0,
+    "food": 110.0,
+    "shopping": 82.0,
+    "leisure": 8.0,
+    "education": 6.0,
+    "hotel": 2.0,
+    "services": 55.0,
+    "fitness": 10.0,
+    "auto": 8.0,
+    "total_stores": 179.0,
+    "old_store_3yr_pct": 44.0
+  },
+  "nearby_poi": {
+    "business": 7.0,
+    "community": 498.0,
+    "office": 51.0,
+    "school": 38.0,
+    "hospital": 70.0,
+    "transport": 7.0,
+    "scenic": 244.0
+  },
+  "demographics": {
+    "male_pct": 45.8,
+    "female_pct": null,
+    "education": {
+      "小学": 8.1,
+      "初中": 15.5,
+      "高中": 11.6,
+      "大专": 6.6,
+      "本科": 49.4,
+      "硕士": 6.7,
+      "博士": 2.1
+    },
+    "has_children_pct": 67.3,
+    "no_children_pct": 32.7
+  },
+  "scraped_at": "2026-07-31T17:55:46.706Z",
+  "nearby_restaurants": [
+    {
+      "brand": "巧克力玩家(上海龙华会店)",
+      "address": "龙华路2778号上海龙华会C3L1层",
+      "distance": "6m"
+    },
+    {
+      "brand": "囍越越南餐厅(龙华会店)",
+      "address": "龙华路2728号3幢C3地上1层C3-L1S01囍越越南餐厅",
+      "distance": "7m"
+    },
+    {
+      "brand": "罗宋千礼·罗宋面包(上海龙华会店)",
+      "address": "龙华路2778号上海龙华会B2层(龙华地铁站5号口旁)",
+      "distance": "11m"
+    },
+    {
+      "brand": "Tamkoko泰柯茶园(龙华会店)",
+      "address": "龙华路2618号地下2/201B2S08A",
+      "distance": "11m"
+    },
+    {
+      "brand": "果之满满鲜榨果汁(上海龙华会店)",
+      "address": "龙华路2778号上海龙华会C3B2层",
+      "distance": "14m"
+    },
+    {
+      "brand": "沈大成(上海龙华会C2店)",
+      "address": "龙华路2778号上海龙华会C2L1层(龙华地铁站5号口旁)",
+      "distance": "20m"
+    },
+    {
+      "brand": "一茶一舍(龙华会店)",
+      "address": "龙华西路106号",
+      "distance": "20m"
+    },
+    {
+      "brand": "美悦界·精致素食(龙华寺店)",
+      "address": "龙华路2728号龙华会南区2层",
+      "distance": "20m"
+    },
+    {
+      "brand": "CHAGEE霸王茶姬(上海龙华会店)",
+      "address": "龙华路2778号龙华会B2S20B(服务台对面)",
+      "distance": "25m"
+    },
+    {
+      "brand": "湊湊火锅·茶憩(上海龙华会店)",
+      "address": "龙华路2618号龙华会1幢地下二层(龙华地铁站5号口旁)",
+      "distance": "29m"
+    },
+    {
+      "brand": "巧克力玩家(上海龙华会店)",
+      "address": "龙华路2778号上海龙华会C3L1层",
+      "distance": "6m"
+    },
+    {
+      "brand": "囍越越南餐厅(龙华会店)",
+      "address": "龙华路2728号3幢C3地上1层C3-L1S01囍越越南餐厅",
+      "distance": "7m"
+    },
+    {
+      "brand": "罗宋千礼·罗宋面包(上海龙华会店)",
+      "address": "龙华路2778号上海龙华会B2层(龙华地铁站5号口旁)",
+      "distance": "11m"
+    },
+    {
+      "brand": "Tamkoko泰柯茶园(龙华会店)",
+      "address": "龙华路2618号地下2/201B2S08A",
+      "distance": "11m"
+    },
+    {
+      "brand": "果之满满鲜榨果汁(上海龙华会店)",
+      "address": "龙华路2778号上海龙华会C3B2层",
+      "distance": "14m"
+    },
+    {
+      "brand": "沈大成(上海龙华会C2店)",
+      "address": "龙华路2778号上海龙华会C2L1层(龙华地铁站5号口旁)",
+      "distance": "20m"
+    },
+    {
+      "brand": "一茶一舍(龙华会店)",
+      "address": "龙华西路106号",
+      "distance": "20m"
+    },
+    {
+      "brand": "美悦界·精致素食(龙华寺店)",
+      "address": "龙华路2728号龙华会南区2层",
+      "distance": "20m"
+    },
+    {
+      "brand": "CHAGEE霸王茶姬(上海龙华会店)",
+      "address": "龙华路2778号龙华会B2S20B(服务台对面)",
+      "distance": "25m"
+    },
+    {
+      "brand": "湊湊火锅·茶憩(上海龙华会店)",
+      "address": "龙华路2618号龙华会1幢地下二层(龙华地铁站5号口旁)",
+      "distance": "29m"
+    },
+    {
+      "brand": "巧克力玩家(上海龙华会店)",
+      "address": "龙华路2778号上海龙华会C3L1层",
+      "distance": "6m"
+    },
+    {
+      "brand": "囍越越南餐厅(龙华会店)",
+      "address": "龙华路2728号3幢C3地上1层C3-L1S01囍越越南餐厅",
+      "distance": "7m"
+    },
+    {
+      "brand": "罗宋千礼·罗宋面包(上海龙华会店)",
+      "address": "龙华路2778号上海龙华会B2层(龙华地铁站5号口旁)",
+      "distance": "11m"
+    },
+    {
+      "brand": "Tamkoko泰柯茶园(龙华会店)",
+      "address": "龙华路2618号地下2/201B2S08A",
+      "distance": "11m"
+    },
+    {
+      "brand": "果之满满鲜榨果汁(上海龙华会店)",
+      "address": "龙华路2778号上海龙华会C3B2层",
+      "distance": "14m"
+    },
+    {
+      "brand": "沈大成(上海龙华会C2店)",
+      "address": "龙华路2778号上海龙华会C2L1层(龙华地铁站5号口旁)",
+      "distance": "20m"
+    },
+    {
+      "brand": "一茶一舍(龙华会店)",
+      "address": "龙华西路106号",
+      "distance": "20m"
+    },
+    {
+      "brand": "美悦界·精致素食(龙华寺店)",
+      "address": "龙华路2728号龙华会南区2层",
+      "distance": "20m"
+    },
+    {
+      "brand": "CHAGEE霸王茶姬(上海龙华会店)",
+      "address": "龙华路2778号龙华会B2S20B(服务台对面)",
+      "distance": "25m"
+    },
+    {
+      "brand": "湊湊火锅·茶憩(上海龙华会店)",
+      "address": "龙华路2618号龙华会1幢地下二层(龙华地铁站5号口旁)",
+      "distance": "29m"
+    },
+    {
+      "brand": "巧克力玩家(上海龙华会店)",
+      "address": "龙华路2778号上海龙华会C3L1层",
+      "distance": "6m"
+    },
+    {
+      "brand": "囍越越南餐厅(龙华会店)",
+      "address": "龙华路2728号3幢C3地上1层C3-L1S01囍越越南餐厅",
+      "distance": "7m"
+    },
+    {
+      "brand": "罗宋千礼·罗宋面包(上海龙华会店)",
+      "address": "龙华路2778号上海龙华会B2层(龙华地铁站5号口旁)",
+      "distance": "11m"
+    },
+    {
+      "brand": "Tamkoko泰柯茶园(龙华会店)",
+      "address": "龙华路2618号地下2/201B2S08A",
+      "distance": "11m"
+    },
+    {
+      "brand": "果之满满鲜榨果汁(上海龙华会店)",
+      "address": "龙华路2778号上海龙华会C3B2层",
+      "distance": "14m"
+    },
+    {
+      "brand": "沈大成(上海龙华会C2店)",
+      "address": "龙华路2778号上海龙华会C2L1层(龙华地铁站5号口旁)",
+      "distance": "20m"
+    },
+    {
+      "brand": "一茶一舍(龙华会店)",
+      "address": "龙华西路106号",
+      "distance": "20m"
+    },
+    {
+      "brand": "美悦界·精致素食(龙华寺店)",
+      "address": "龙华路2728号龙华会南区2层",
+      "distance": "20m"
+    },
+    {
+      "brand": "CHAGEE霸王茶姬(上海龙华会店)",
+      "address": "龙华路2778号龙华会B2S20B(服务台对面)",
+      "distance": "25m"
+    },
+    {
+      "brand": "湊湊火锅·茶憩(上海龙华会店)",
+      "address": "龙华路2618号龙华会1幢地下二层(龙华地铁站5号口旁)",
+      "distance": "29m"
+    },
+    {
+      "brand": "巧克力玩家(上海龙华会店)",
+      "address": "龙华路2778号上海龙华会C3L1层",
+      "distance": "6m"
+    },
+    {
+      "brand": "囍越越南餐厅(龙华会店)",
+      "address": "龙华路2728号3幢C3地上1层C3-L1S01囍越越南餐厅",
+      "distance": "7m"
+    },
+    {
+      "brand": "罗宋千礼·罗宋面包(上海龙华会店)",
+      "address": "龙华路2778号上海龙华会B2层(龙华地铁站5号口旁)",
+      "distance": "11m"
+    },
+    {
+      "brand": "Tamkoko泰柯茶园(龙华会店)",
+      "address": "龙华路2618号地下2/201B2S08A",
+      "distance": "11m"
+    },
+    {
+      "brand": "果之满满鲜榨果汁(上海龙华会店)",
+      "address": "龙华路2778号上海龙华会C3B2层",
+      "distance": "14m"
+    },
+    {
+      "brand": "沈大成(上海龙华会C2店)",
+      "address": "龙华路2778号上海龙华会C2L1层(龙华地铁站5号口旁)",
+      "distance": "20m"
+    },
+    {
+      "brand": "一茶一舍(龙华会店)",
+      "address": "龙华西路106号",
+      "distance": "20m"
+    },
+    {
+      "brand": "美悦界·精致素食(龙华寺店)",
+      "address": "龙华路2728号龙华会南区2层",
+      "distance": "20m"
+    },
+    {
+      "brand": "CHAGEE霸王茶姬(上海龙华会店)",
+      "address": "龙华路2778号龙华会B2S20B(服务台对面)",
+      "distance": "25m"
+    },
+    {
+      "brand": "湊湊火锅·茶憩(上海龙华会店)",
+      "address": "龙华路2618号龙华会1幢地下二层(龙华地铁站5号口旁)",
+      "distance": "29m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海东航云锦天地 MUPLAZA",
+      "open_date": "2018-07-28",
+      "area": "2.3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海徐汇保利时光里",
+      "open_date": "2017-12-01",
+      "area": "4.7万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海徐汇绿地滨江CLUB",
+      "open_date": "2019-05-01",
+      "area": "3.2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海徐汇绿地缤纷城",
+      "open_date": "2017-04-27",
+      "area": "8.4万㎡",
+      "jun_daily_avg": "6.5万人次",
+      "weekday_avg": "6.6万人次",
+      "holiday_avg": "6.1万人次"
+    },
+    {
+      "name": "上海AI PLAZA西岸凤巢",
+      "open_date": "2021-12-23",
+      "area": "7.5万㎡",
+      "jun_daily_avg": "3.2万人次",
+      "weekday_avg": "3.5万人次",
+      "holiday_avg": "2.6万人次"
+    },
+    {
+      "name": "上海徐汇正大乐城",
+      "open_date": "2013-01-01",
+      "area": "5.5万㎡",
+      "jun_daily_avg": "1.7万人次",
+      "weekday_avg": "1.7万人次",
+      "holiday_avg": "1.6万人次"
+    },
+    {
+      "name": "上海Gate M西岸梦中心",
+      "open_date": "2024-09-26",
+      "area": "10万㎡",
+      "jun_daily_avg": "5.7万人次",
+      "weekday_avg": "4.9万人次",
+      "holiday_avg": "7.9万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 89.0,
+      "within_1yr_pct": 11.2,
+      "1_3yr_pct": 37.1,
+      "over_3yr_pct": 51.7
+    },
+    {
+      "type": "购物",
+      "count": 60.0,
+      "within_1yr_pct": 13.3,
+      "1_3yr_pct": 45.0,
+      "over_3yr_pct": 41.7
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 6.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 16.7,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "教育培训",
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "生活服务",
+      "count": 14.0,
+      "within_1yr_pct": 14.3,
+      "1_3yr_pct": 57.1,
+      "over_3yr_pct": 28.6
+    },
+    {
+      "type": "运动健身",
+      "count": 6.0,
+      "within_1yr_pct": 16.7,
+      "1_3yr_pct": 66.7,
+      "over_3yr_pct": 16.7
+    },
+    {
+      "type": "车辆服务",
+      "count": 1.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
+    }
+  ]
+}

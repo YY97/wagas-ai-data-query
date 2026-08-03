@@ -1,0 +1,438 @@
+{
+  "name": "悦荟万科广场",
+  "city": "北京市",
+  "address": "北京市昌平区南环路10号院",
+  "lat": 40.212133,
+  "lng": 116.2393,
+  "overview": {
+    "score": 95.3,
+    "score_rank": "市内前30%",
+    "population_score": 100.0,
+    "area_score": 84.3,
+    "consumption_score": 66.7,
+    "industry_score": 95.4,
+    "annual_sales": "8",
+    "annual_sales_unit": "亿元",
+    "area_size_sqm": 14.0,
+    "open_date": "2013-12-24",
+    "operator": "北京悦荟商业管理有限公司",
+    "brand": "引力",
+    "type": "综合型",
+    "floors": "B1-L8"
+  },
+  "traffic": {
+    "annual_daily": 4.17,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第33",
+    "jun_total": 147.3,
+    "jun_total_rank": "市内商场第51名",
+    "jun_daily_avg": 4.9,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第51名",
+    "weekday_avg": 4.3,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第59名",
+    "holiday_avg": 6.5,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第45名"
+  },
+  "population": {
+    "residential": {
+      "500m": 4.0,
+      "1_5km": 16.4,
+      "3km": 37.8
+    },
+    "office": {
+      "500m": 1.5,
+      "1_5km": 9.7,
+      "3km": 18.5
+    },
+    "permanent": {
+      "500m": 3.8,
+      "1_5km": 15.6,
+      "3km": 35.3
+    }
+  },
+  "business": {
+    "competitors": 3.0,
+    "food": 190.0,
+    "shopping": 179.0,
+    "leisure": 15.0,
+    "education": 20.0,
+    "hotel": 12.0,
+    "services": 159.0,
+    "fitness": 18.0,
+    "auto": 15.0,
+    "total_stores": 227.0,
+    "old_store_3yr_pct": 53.0
+  },
+  "nearby_poi": {
+    "business": 4.0,
+    "community": 213.0,
+    "office": 31.0,
+    "school": 32.0,
+    "hospital": 80.0,
+    "transport": 11.0,
+    "scenic": 67.0
+  },
+  "demographics": {
+    "male_pct": 47.9,
+    "female_pct": null,
+    "education": {
+      "小学": 7.3,
+      "初中": 13.4,
+      "高中": 11.6,
+      "大专": 7.4,
+      "本科": 49.8,
+      "硕士": 8.9,
+      "博士": 1.6
+    },
+    "has_children_pct": 56.6,
+    "no_children_pct": 43.4
+  },
+  "scraped_at": "2026-08-01T04:42:41.101Z",
+  "nearby_restaurants": [
+    {
+      "brand": "一味一诚·鲜嫩烤鱼(昌平悦荟店)",
+      "address": "北京城区南环路6号悦荟广场5层L5013",
+      "distance": "2m"
+    },
+    {
+      "brand": "茉莉奶白(悦荟店)",
+      "address": "南环路10号悦荟L3层",
+      "distance": "4m"
+    },
+    {
+      "brand": "茶百道(北京昌平悦荟万科店)",
+      "address": "北京城区南环路10号L4049A单元",
+      "distance": "4m"
+    },
+    {
+      "brand": "K22.下午茶市集(昌平区悦荟广场店)",
+      "address": "南环路10号悦荟L4层",
+      "distance": "5m"
+    },
+    {
+      "brand": "海底捞火锅(悦荟广场夜宵主题店)",
+      "address": "南环路10号北京悦荟广场7层",
+      "distance": "5m"
+    },
+    {
+      "brand": "红碗碗杂面(北京悦荟广场店)",
+      "address": "南环路辅路与火炬北路交叉口东南120米",
+      "distance": "6m"
+    },
+    {
+      "brand": "兰熊鲜奶(悦荟店)",
+      "address": "南环路10号悦荟B1层",
+      "distance": "7m"
+    },
+    {
+      "brand": "沪上阿姨·精选茶饮(北京昌平悦荟店)",
+      "address": "北京城区南环路10号院1号楼地上五层L5028A单元",
+      "distance": "7m"
+    },
+    {
+      "brand": "串士多·回转小火锅(北京悦荟店)",
+      "address": "南环路10号悦荟L5层",
+      "distance": "8m"
+    },
+    {
+      "brand": "酸奶罐罐(北京昌平悦荟店)",
+      "address": "北京城区南环路10号北京悦荟广场L5029",
+      "distance": "9m"
+    },
+    {
+      "brand": "一味一诚·鲜嫩烤鱼(昌平悦荟店)",
+      "address": "北京城区南环路6号悦荟广场5层L5013",
+      "distance": "2m"
+    },
+    {
+      "brand": "茉莉奶白(悦荟店)",
+      "address": "南环路10号悦荟L3层",
+      "distance": "4m"
+    },
+    {
+      "brand": "茶百道(北京昌平悦荟万科店)",
+      "address": "北京城区南环路10号L4049A单元",
+      "distance": "4m"
+    },
+    {
+      "brand": "K22.下午茶市集(昌平区悦荟广场店)",
+      "address": "南环路10号悦荟L4层",
+      "distance": "5m"
+    },
+    {
+      "brand": "海底捞火锅(悦荟广场夜宵主题店)",
+      "address": "南环路10号北京悦荟广场7层",
+      "distance": "5m"
+    },
+    {
+      "brand": "红碗碗杂面(北京悦荟广场店)",
+      "address": "南环路辅路与火炬北路交叉口东南120米",
+      "distance": "6m"
+    },
+    {
+      "brand": "兰熊鲜奶(悦荟店)",
+      "address": "南环路10号悦荟B1层",
+      "distance": "7m"
+    },
+    {
+      "brand": "沪上阿姨·精选茶饮(北京昌平悦荟店)",
+      "address": "北京城区南环路10号院1号楼地上五层L5028A单元",
+      "distance": "7m"
+    },
+    {
+      "brand": "串士多·回转小火锅(北京悦荟店)",
+      "address": "南环路10号悦荟L5层",
+      "distance": "8m"
+    },
+    {
+      "brand": "酸奶罐罐(北京昌平悦荟店)",
+      "address": "北京城区南环路10号北京悦荟广场L5029",
+      "distance": "9m"
+    },
+    {
+      "brand": "一味一诚·鲜嫩烤鱼(昌平悦荟店)",
+      "address": "北京城区南环路6号悦荟广场5层L5013",
+      "distance": "2m"
+    },
+    {
+      "brand": "茉莉奶白(悦荟店)",
+      "address": "南环路10号悦荟L3层",
+      "distance": "4m"
+    },
+    {
+      "brand": "茶百道(北京昌平悦荟万科店)",
+      "address": "北京城区南环路10号L4049A单元",
+      "distance": "4m"
+    },
+    {
+      "brand": "K22.下午茶市集(昌平区悦荟广场店)",
+      "address": "南环路10号悦荟L4层",
+      "distance": "5m"
+    },
+    {
+      "brand": "海底捞火锅(悦荟广场夜宵主题店)",
+      "address": "南环路10号北京悦荟广场7层",
+      "distance": "5m"
+    },
+    {
+      "brand": "红碗碗杂面(北京悦荟广场店)",
+      "address": "南环路辅路与火炬北路交叉口东南120米",
+      "distance": "6m"
+    },
+    {
+      "brand": "兰熊鲜奶(悦荟店)",
+      "address": "南环路10号悦荟B1层",
+      "distance": "7m"
+    },
+    {
+      "brand": "沪上阿姨·精选茶饮(北京昌平悦荟店)",
+      "address": "北京城区南环路10号院1号楼地上五层L5028A单元",
+      "distance": "7m"
+    },
+    {
+      "brand": "串士多·回转小火锅(北京悦荟店)",
+      "address": "南环路10号悦荟L5层",
+      "distance": "8m"
+    },
+    {
+      "brand": "酸奶罐罐(北京昌平悦荟店)",
+      "address": "北京城区南环路10号北京悦荟广场L5029",
+      "distance": "9m"
+    },
+    {
+      "brand": "一味一诚·鲜嫩烤鱼(昌平悦荟店)",
+      "address": "北京城区南环路6号悦荟广场5层L5013",
+      "distance": "2m"
+    },
+    {
+      "brand": "茉莉奶白(悦荟店)",
+      "address": "南环路10号悦荟L3层",
+      "distance": "4m"
+    },
+    {
+      "brand": "茶百道(北京昌平悦荟万科店)",
+      "address": "北京城区南环路10号L4049A单元",
+      "distance": "4m"
+    },
+    {
+      "brand": "K22.下午茶市集(昌平区悦荟广场店)",
+      "address": "南环路10号悦荟L4层",
+      "distance": "5m"
+    },
+    {
+      "brand": "海底捞火锅(悦荟广场夜宵主题店)",
+      "address": "南环路10号北京悦荟广场7层",
+      "distance": "5m"
+    },
+    {
+      "brand": "红碗碗杂面(北京悦荟广场店)",
+      "address": "南环路辅路与火炬北路交叉口东南120米",
+      "distance": "6m"
+    },
+    {
+      "brand": "兰熊鲜奶(悦荟店)",
+      "address": "南环路10号悦荟B1层",
+      "distance": "7m"
+    },
+    {
+      "brand": "沪上阿姨·精选茶饮(北京昌平悦荟店)",
+      "address": "北京城区南环路10号院1号楼地上五层L5028A单元",
+      "distance": "7m"
+    },
+    {
+      "brand": "串士多·回转小火锅(北京悦荟店)",
+      "address": "南环路10号悦荟L5层",
+      "distance": "8m"
+    },
+    {
+      "brand": "酸奶罐罐(北京昌平悦荟店)",
+      "address": "北京城区南环路10号北京悦荟广场L5029",
+      "distance": "9m"
+    },
+    {
+      "brand": "一味一诚·鲜嫩烤鱼(昌平悦荟店)",
+      "address": "北京城区南环路6号悦荟广场5层L5013",
+      "distance": "2m"
+    },
+    {
+      "brand": "茉莉奶白(悦荟店)",
+      "address": "南环路10号悦荟L3层",
+      "distance": "4m"
+    },
+    {
+      "brand": "茶百道(北京昌平悦荟万科店)",
+      "address": "北京城区南环路10号L4049A单元",
+      "distance": "4m"
+    },
+    {
+      "brand": "K22.下午茶市集(昌平区悦荟广场店)",
+      "address": "南环路10号悦荟L4层",
+      "distance": "5m"
+    },
+    {
+      "brand": "海底捞火锅(悦荟广场夜宵主题店)",
+      "address": "南环路10号北京悦荟广场7层",
+      "distance": "5m"
+    },
+    {
+      "brand": "红碗碗杂面(北京悦荟广场店)",
+      "address": "南环路辅路与火炬北路交叉口东南120米",
+      "distance": "6m"
+    },
+    {
+      "brand": "兰熊鲜奶(悦荟店)",
+      "address": "南环路10号悦荟B1层",
+      "distance": "7m"
+    },
+    {
+      "brand": "沪上阿姨·精选茶饮(北京昌平悦荟店)",
+      "address": "北京城区南环路10号院1号楼地上五层L5028A单元",
+      "distance": "7m"
+    },
+    {
+      "brand": "串士多·回转小火锅(北京悦荟店)",
+      "address": "南环路10号悦荟L5层",
+      "distance": "8m"
+    },
+    {
+      "brand": "酸奶罐罐(北京昌平悦荟店)",
+      "address": "北京城区南环路10号北京悦荟广场L5029",
+      "distance": "9m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "北京新世纪商城(三宫庙胡同店)",
+      "open_date": "1994-09-28",
+      "area": "1.7万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "北京国泰百货(昌平店)",
+      "open_date": "2006-01-01",
+      "area": "1.5万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "北京阳光商厦(燕平路店)",
+      "open_date": "2016-01-01",
+      "area": "2.7万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "北京佳莲时代广场",
+      "open_date": "2015-07-07",
+      "area": "3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 93.0,
+      "within_1yr_pct": 11.8,
+      "1_3yr_pct": 40.9,
+      "over_3yr_pct": 47.3
+    },
+    {
+      "type": "购物",
+      "count": 88.0,
+      "within_1yr_pct": 9.1,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 65.9
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 11.0,
+      "within_1yr_pct": 45.5,
+      "1_3yr_pct": 18.2,
+      "over_3yr_pct": 36.4
+    },
+    {
+      "type": "教育培训",
+      "count": 5.0,
+      "within_1yr_pct": 60.0,
+      "1_3yr_pct": 20.0,
+      "over_3yr_pct": 20.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "生活服务",
+      "count": 20.0,
+      "within_1yr_pct": 30.0,
+      "1_3yr_pct": 15.0,
+      "over_3yr_pct": 55.0
+    },
+    {
+      "type": "运动健身",
+      "count": 4.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 4.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 25.0
+    }
+  ]
+}

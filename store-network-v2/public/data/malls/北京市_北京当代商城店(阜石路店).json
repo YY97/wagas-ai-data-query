@@ -1,0 +1,415 @@
+{
+  "name": "北京当代商城店(阜石路店)",
+  "city": "北京市",
+  "address": "北京市石景山区阜石路165号",
+  "lat": 39.925565,
+  "lng": 116.19619,
+  "overview": {
+    "score": 92.1,
+    "score_rank": "市内前30%",
+    "population_score": 93.9,
+    "area_score": 79.5,
+    "consumption_score": 71.8,
+    "industry_score": 92.2,
+    "annual_sales": "当代商城鼎城店位于石景山金鼎商贸区，建筑面积为4.3万平方米，经营面积为2.9万平方米，地下一层，地上五层，是集购物、餐饮、休闲等功能于一体的综合性百货商场。",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 2.9,
+    "open_date": "2009-10-28",
+    "operator": "北京翠微大厦股份有限公司",
+    "brand": "",
+    "type": "综合型",
+    "floors": "B1-L5"
+  },
+  "traffic": {
+    "annual_daily": 2.14,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第117",
+    "jun_total": 75.6,
+    "jun_total_rank": "市内商场第127名",
+    "jun_daily_avg": 2.5,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第127名",
+    "weekday_avg": 2.4,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第124名",
+    "holiday_avg": 2.8,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第138名"
+  },
+  "population": {
+    "residential": {
+      "500m": 2.6,
+      "1_5km": 19.7,
+      "3km": 48.3
+    },
+    "office": {
+      "500m": 1.3,
+      "1_5km": 9.2,
+      "3km": 26.1
+    },
+    "permanent": {
+      "500m": 2.6,
+      "1_5km": 18.8,
+      "3km": 47.4
+    }
+  },
+  "business": {
+    "competitors": 1.0,
+    "food": 124.0,
+    "shopping": 127.0,
+    "leisure": 9.0,
+    "education": 2.0,
+    "hotel": 16.0,
+    "services": 85.0,
+    "fitness": 25.0,
+    "auto": 11.0,
+    "total_stores": 169.0,
+    "old_store_3yr_pct": 42.0
+  },
+  "nearby_poi": {
+    "business": 2.0,
+    "community": 223.0,
+    "office": 41.0,
+    "school": 49.0,
+    "hospital": 53.0,
+    "transport": 11.0,
+    "scenic": 88.0
+  },
+  "demographics": {
+    "male_pct": 47.6,
+    "female_pct": null,
+    "education": {
+      "小学": 8.7,
+      "初中": 15.1,
+      "高中": 11.3,
+      "大专": 7.1,
+      "本科": 48.6,
+      "硕士": 7.5,
+      "博士": 1.7
+    },
+    "has_children_pct": 58.7,
+    "no_children_pct": 41.3
+  },
+  "scraped_at": "2026-07-31T18:47:57.512Z",
+  "nearby_restaurants": [
+    {
+      "brand": "马记永·兰州牛肉面(今鼎时代广场店)",
+      "address": "阜石路165号今鼎时代广场B1层",
+      "distance": "2m"
+    },
+    {
+      "brand": "星巴克(鼎城当代商城店)",
+      "address": "北京城区北京城区阜石路165号当代商城1F层",
+      "distance": "4m"
+    },
+    {
+      "brand": "1点点(当代商城店)",
+      "address": "北京城区阜石路165号院5幢B1层-101-E24-2",
+      "distance": "12m"
+    },
+    {
+      "brand": "CoCo都可茶饮(石景山当代商城店)",
+      "address": "阜石路165号院5幢-1层-101-D17(石景山当代商城)",
+      "distance": "15m"
+    },
+    {
+      "brand": "夸父炸串(当代商场鼎城店)",
+      "address": "北京城区阜石路165号院5幢-1层-101-E24",
+      "distance": "17m"
+    },
+    {
+      "brand": "椒太后地摊麻辣烫(当代商城)",
+      "address": "阜石路165号当代商城B1层",
+      "distance": "19m"
+    },
+    {
+      "brand": "大米先生·湘菜小炒(石景山当代商城店)",
+      "address": "杨庄北区南路与杨庄北区东街交叉口南100米",
+      "distance": "19m"
+    },
+    {
+      "brand": "阿甘锅盔(当代商城店)",
+      "address": "北京城区阜石路165号当代商城鼎城店B1层",
+      "distance": "20m"
+    },
+    {
+      "brand": "瑞幸咖啡(石景山当代商城店)",
+      "address": "北京城区阜石路165号院1号楼1层1-101-F12号",
+      "distance": "20m"
+    },
+    {
+      "brand": "咏巷炸鸡(石景山当代商城店)",
+      "address": "北京城区阜石路165号院5幢-1层-101-E17",
+      "distance": "22m"
+    },
+    {
+      "brand": "马记永·兰州牛肉面(今鼎时代广场店)",
+      "address": "阜石路165号今鼎时代广场B1层",
+      "distance": "2m"
+    },
+    {
+      "brand": "星巴克(鼎城当代商城店)",
+      "address": "北京城区北京城区阜石路165号当代商城1F层",
+      "distance": "4m"
+    },
+    {
+      "brand": "1点点(当代商城店)",
+      "address": "北京城区阜石路165号院5幢B1层-101-E24-2",
+      "distance": "12m"
+    },
+    {
+      "brand": "CoCo都可茶饮(石景山当代商城店)",
+      "address": "阜石路165号院5幢-1层-101-D17(石景山当代商城)",
+      "distance": "15m"
+    },
+    {
+      "brand": "夸父炸串(当代商场鼎城店)",
+      "address": "北京城区阜石路165号院5幢-1层-101-E24",
+      "distance": "17m"
+    },
+    {
+      "brand": "椒太后地摊麻辣烫(当代商城)",
+      "address": "阜石路165号当代商城B1层",
+      "distance": "19m"
+    },
+    {
+      "brand": "大米先生·湘菜小炒(石景山当代商城店)",
+      "address": "杨庄北区南路与杨庄北区东街交叉口南100米",
+      "distance": "19m"
+    },
+    {
+      "brand": "阿甘锅盔(当代商城店)",
+      "address": "北京城区阜石路165号当代商城鼎城店B1层",
+      "distance": "20m"
+    },
+    {
+      "brand": "瑞幸咖啡(石景山当代商城店)",
+      "address": "北京城区阜石路165号院1号楼1层1-101-F12号",
+      "distance": "20m"
+    },
+    {
+      "brand": "咏巷炸鸡(石景山当代商城店)",
+      "address": "北京城区阜石路165号院5幢-1层-101-E17",
+      "distance": "22m"
+    },
+    {
+      "brand": "马记永·兰州牛肉面(今鼎时代广场店)",
+      "address": "阜石路165号今鼎时代广场B1层",
+      "distance": "2m"
+    },
+    {
+      "brand": "星巴克(鼎城当代商城店)",
+      "address": "北京城区北京城区阜石路165号当代商城1F层",
+      "distance": "4m"
+    },
+    {
+      "brand": "1点点(当代商城店)",
+      "address": "北京城区阜石路165号院5幢B1层-101-E24-2",
+      "distance": "12m"
+    },
+    {
+      "brand": "CoCo都可茶饮(石景山当代商城店)",
+      "address": "阜石路165号院5幢-1层-101-D17(石景山当代商城)",
+      "distance": "15m"
+    },
+    {
+      "brand": "夸父炸串(当代商场鼎城店)",
+      "address": "北京城区阜石路165号院5幢-1层-101-E24",
+      "distance": "17m"
+    },
+    {
+      "brand": "椒太后地摊麻辣烫(当代商城)",
+      "address": "阜石路165号当代商城B1层",
+      "distance": "19m"
+    },
+    {
+      "brand": "大米先生·湘菜小炒(石景山当代商城店)",
+      "address": "杨庄北区南路与杨庄北区东街交叉口南100米",
+      "distance": "19m"
+    },
+    {
+      "brand": "阿甘锅盔(当代商城店)",
+      "address": "北京城区阜石路165号当代商城鼎城店B1层",
+      "distance": "20m"
+    },
+    {
+      "brand": "瑞幸咖啡(石景山当代商城店)",
+      "address": "北京城区阜石路165号院1号楼1层1-101-F12号",
+      "distance": "20m"
+    },
+    {
+      "brand": "咏巷炸鸡(石景山当代商城店)",
+      "address": "北京城区阜石路165号院5幢-1层-101-E17",
+      "distance": "22m"
+    },
+    {
+      "brand": "马记永·兰州牛肉面(今鼎时代广场店)",
+      "address": "阜石路165号今鼎时代广场B1层",
+      "distance": "2m"
+    },
+    {
+      "brand": "星巴克(鼎城当代商城店)",
+      "address": "北京城区北京城区阜石路165号当代商城1F层",
+      "distance": "4m"
+    },
+    {
+      "brand": "1点点(当代商城店)",
+      "address": "北京城区阜石路165号院5幢B1层-101-E24-2",
+      "distance": "12m"
+    },
+    {
+      "brand": "CoCo都可茶饮(石景山当代商城店)",
+      "address": "阜石路165号院5幢-1层-101-D17(石景山当代商城)",
+      "distance": "15m"
+    },
+    {
+      "brand": "夸父炸串(当代商场鼎城店)",
+      "address": "北京城区阜石路165号院5幢-1层-101-E24",
+      "distance": "17m"
+    },
+    {
+      "brand": "椒太后地摊麻辣烫(当代商城)",
+      "address": "阜石路165号当代商城B1层",
+      "distance": "19m"
+    },
+    {
+      "brand": "大米先生·湘菜小炒(石景山当代商城店)",
+      "address": "杨庄北区南路与杨庄北区东街交叉口南100米",
+      "distance": "19m"
+    },
+    {
+      "brand": "阿甘锅盔(当代商城店)",
+      "address": "北京城区阜石路165号当代商城鼎城店B1层",
+      "distance": "20m"
+    },
+    {
+      "brand": "瑞幸咖啡(石景山当代商城店)",
+      "address": "北京城区阜石路165号院1号楼1层1-101-F12号",
+      "distance": "20m"
+    },
+    {
+      "brand": "咏巷炸鸡(石景山当代商城店)",
+      "address": "北京城区阜石路165号院5幢-1层-101-E17",
+      "distance": "22m"
+    },
+    {
+      "brand": "马记永·兰州牛肉面(今鼎时代广场店)",
+      "address": "阜石路165号今鼎时代广场B1层",
+      "distance": "2m"
+    },
+    {
+      "brand": "星巴克(鼎城当代商城店)",
+      "address": "北京城区北京城区阜石路165号当代商城1F层",
+      "distance": "4m"
+    },
+    {
+      "brand": "1点点(当代商城店)",
+      "address": "北京城区阜石路165号院5幢B1层-101-E24-2",
+      "distance": "12m"
+    },
+    {
+      "brand": "CoCo都可茶饮(石景山当代商城店)",
+      "address": "阜石路165号院5幢-1层-101-D17(石景山当代商城)",
+      "distance": "15m"
+    },
+    {
+      "brand": "夸父炸串(当代商场鼎城店)",
+      "address": "北京城区阜石路165号院5幢-1层-101-E24",
+      "distance": "17m"
+    },
+    {
+      "brand": "椒太后地摊麻辣烫(当代商城)",
+      "address": "阜石路165号当代商城B1层",
+      "distance": "19m"
+    },
+    {
+      "brand": "大米先生·湘菜小炒(石景山当代商城店)",
+      "address": "杨庄北区南路与杨庄北区东街交叉口南100米",
+      "distance": "19m"
+    },
+    {
+      "brand": "阿甘锅盔(当代商城店)",
+      "address": "北京城区阜石路165号当代商城鼎城店B1层",
+      "distance": "20m"
+    },
+    {
+      "brand": "瑞幸咖啡(石景山当代商城店)",
+      "address": "北京城区阜石路165号院1号楼1层1-101-F12号",
+      "distance": "20m"
+    },
+    {
+      "brand": "咏巷炸鸡(石景山当代商城店)",
+      "address": "北京城区阜石路165号院5幢-1层-101-E17",
+      "distance": "22m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "北京京西大悦城",
+      "open_date": "2023-06-18",
+      "area": "11万㎡",
+      "jun_daily_avg": "5.5万人次",
+      "weekday_avg": "4.7万人次",
+      "holiday_avg": "7.6万人次"
+    },
+    {
+      "name": "北京京成商厦",
+      "open_date": "2016-01-16",
+      "area": "1万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 50.0,
+      "within_1yr_pct": 22.0,
+      "1_3yr_pct": 24.0,
+      "over_3yr_pct": 54.0
+    },
+    {
+      "type": "购物",
+      "count": 64.0,
+      "within_1yr_pct": 17.2,
+      "1_3yr_pct": 34.4,
+      "over_3yr_pct": 48.4
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 7.0,
+      "within_1yr_pct": 42.9,
+      "1_3yr_pct": 28.6,
+      "over_3yr_pct": 28.6
+    },
+    {
+      "type": "酒店住宿",
+      "count": 8.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "生活服务",
+      "count": 29.0,
+      "within_1yr_pct": 41.4,
+      "1_3yr_pct": 34.5,
+      "over_3yr_pct": 24.1
+    },
+    {
+      "type": "运动健身",
+      "count": 9.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 66.7,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 2.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 0.0
+    }
+  ]
+}

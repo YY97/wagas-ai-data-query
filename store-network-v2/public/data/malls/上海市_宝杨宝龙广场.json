@@ -1,0 +1,446 @@
+{
+  "name": "宝杨宝龙广场",
+  "city": "上海市",
+  "address": "上海市宝山区同济路699号",
+  "lat": 31.395448,
+  "lng": 121.481621,
+  "overview": {
+    "score": 95.6,
+    "score_rank": "市内前30%",
+    "population_score": 77.3,
+    "area_score": 74.4,
+    "consumption_score": 72.2,
+    "industry_score": 95.8,
+    "annual_sales": "14",
+    "annual_sales_unit": "亿元",
+    "area_size_sqm": 14.8,
+    "open_date": "2019-01-01",
+    "operator": "宝龙商业管理控股有限公司",
+    "brand": "宝龙",
+    "type": "综合型",
+    "floors": "B1-L3"
+  },
+  "traffic": {
+    "annual_daily": 4.39,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第46",
+    "jun_total": 166.8,
+    "jun_total_rank": "市内商场第56名",
+    "jun_daily_avg": 5.6,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第56名",
+    "weekday_avg": 4.9,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第56名",
+    "holiday_avg": 7.3,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第49名"
+  },
+  "population": {
+    "residential": {
+      "500m": 1.4,
+      "1_5km": 13.0,
+      "3km": 40.8
+    },
+    "office": {
+      "500m": 1.4,
+      "1_5km": 8.7,
+      "3km": 24.0
+    },
+    "permanent": {
+      "500m": 2.0,
+      "1_5km": 14.5,
+      "3km": 41.0
+    }
+  },
+  "business": {
+    "competitors": 5.0,
+    "food": 162.0,
+    "shopping": 117.0,
+    "leisure": 15.0,
+    "education": 22.0,
+    "hotel": 12.0,
+    "services": 119.0,
+    "fitness": 17.0,
+    "auto": 34.0,
+    "total_stores": 410.0,
+    "old_store_3yr_pct": 47.0
+  },
+  "nearby_poi": {
+    "business": 5.0,
+    "community": 192.0,
+    "office": 31.0,
+    "school": 27.0,
+    "hospital": 33.0,
+    "transport": 10.0,
+    "scenic": 71.0
+  },
+  "demographics": {
+    "male_pct": 48.3,
+    "female_pct": null,
+    "education": {
+      "小学": 11.0,
+      "初中": 20.4,
+      "高中": 11.6,
+      "大专": 8.2,
+      "本科": 44.9,
+      "硕士": 3.0,
+      "博士": 0.9
+    },
+    "has_children_pct": 71.6,
+    "no_children_pct": 28.4
+  },
+  "scraped_at": "2026-08-01T04:50:00.936Z",
+  "nearby_restaurants": [
+    {
+      "brand": "艾炒酸奶(上海宝杨宝龙店)",
+      "address": "同济路669弄宝杨宝龙广场3楼",
+      "distance": "2m"
+    },
+    {
+      "brand": "西树泡芙(宝杨宝龙广场店)",
+      "address": "同济路669弄宝杨宝龙广场M1-B1-062-2",
+      "distance": "3m"
+    },
+    {
+      "brand": "米莜拌饭(宝龙广场店)",
+      "address": "同济路669弄5号Mall区B1层M1-B1-008-2宝龙广场负一楼",
+      "distance": "4m"
+    },
+    {
+      "brand": "潮界(宝杨宝龙广场店)",
+      "address": "同济路669弄4号第三层M1-L3-022",
+      "distance": "7m"
+    },
+    {
+      "brand": "老碗会(上海宝山宝杨宝龙店)",
+      "address": "同济路669弄4号的上海宝杨宝龙广场第B1层的编号为M1-B1-007的商铺",
+      "distance": "8m"
+    },
+    {
+      "brand": "KUMO KUMO(宝杨宝龙广场店)",
+      "address": "同济路669弄宝杨宝龙广场",
+      "distance": "9m"
+    },
+    {
+      "brand": "一馍家西安特色小吃(宝杨宝龙广场店)",
+      "address": "同济路669弄1宝杨宝龙广场B1层",
+      "distance": "9m"
+    },
+    {
+      "brand": "又炒酸奶(宝杨宝龙广场八店)",
+      "address": "同济路669弄宝杨宝龙广场1楼3楼",
+      "distance": "9m"
+    },
+    {
+      "brand": "鮨人饭团(宝杨宝龙店)",
+      "address": "同济路669弄1宝杨宝龙广场B1层",
+      "distance": "10m"
+    },
+    {
+      "brand": "红渡小香牛肉麻辣香锅(宝龙广场店)",
+      "address": "同济路669号宝杨宝龙广场B1",
+      "distance": "10m"
+    },
+    {
+      "brand": "艾炒酸奶(上海宝杨宝龙店)",
+      "address": "同济路669弄宝杨宝龙广场3楼",
+      "distance": "2m"
+    },
+    {
+      "brand": "西树泡芙(宝杨宝龙广场店)",
+      "address": "同济路669弄宝杨宝龙广场M1-B1-062-2",
+      "distance": "3m"
+    },
+    {
+      "brand": "米莜拌饭(宝龙广场店)",
+      "address": "同济路669弄5号Mall区B1层M1-B1-008-2宝龙广场负一楼",
+      "distance": "4m"
+    },
+    {
+      "brand": "潮界(宝杨宝龙广场店)",
+      "address": "同济路669弄4号第三层M1-L3-022",
+      "distance": "7m"
+    },
+    {
+      "brand": "老碗会(上海宝山宝杨宝龙店)",
+      "address": "同济路669弄4号的上海宝杨宝龙广场第B1层的编号为M1-B1-007的商铺",
+      "distance": "8m"
+    },
+    {
+      "brand": "KUMO KUMO(宝杨宝龙广场店)",
+      "address": "同济路669弄宝杨宝龙广场",
+      "distance": "9m"
+    },
+    {
+      "brand": "一馍家西安特色小吃(宝杨宝龙广场店)",
+      "address": "同济路669弄1宝杨宝龙广场B1层",
+      "distance": "9m"
+    },
+    {
+      "brand": "又炒酸奶(宝杨宝龙广场八店)",
+      "address": "同济路669弄宝杨宝龙广场1楼3楼",
+      "distance": "9m"
+    },
+    {
+      "brand": "鮨人饭团(宝杨宝龙店)",
+      "address": "同济路669弄1宝杨宝龙广场B1层",
+      "distance": "10m"
+    },
+    {
+      "brand": "红渡小香牛肉麻辣香锅(宝龙广场店)",
+      "address": "同济路669号宝杨宝龙广场B1",
+      "distance": "10m"
+    },
+    {
+      "brand": "艾炒酸奶(上海宝杨宝龙店)",
+      "address": "同济路669弄宝杨宝龙广场3楼",
+      "distance": "2m"
+    },
+    {
+      "brand": "西树泡芙(宝杨宝龙广场店)",
+      "address": "同济路669弄宝杨宝龙广场M1-B1-062-2",
+      "distance": "3m"
+    },
+    {
+      "brand": "米莜拌饭(宝龙广场店)",
+      "address": "同济路669弄5号Mall区B1层M1-B1-008-2宝龙广场负一楼",
+      "distance": "4m"
+    },
+    {
+      "brand": "潮界(宝杨宝龙广场店)",
+      "address": "同济路669弄4号第三层M1-L3-022",
+      "distance": "7m"
+    },
+    {
+      "brand": "老碗会(上海宝山宝杨宝龙店)",
+      "address": "同济路669弄4号的上海宝杨宝龙广场第B1层的编号为M1-B1-007的商铺",
+      "distance": "8m"
+    },
+    {
+      "brand": "KUMO KUMO(宝杨宝龙广场店)",
+      "address": "同济路669弄宝杨宝龙广场",
+      "distance": "9m"
+    },
+    {
+      "brand": "一馍家西安特色小吃(宝杨宝龙广场店)",
+      "address": "同济路669弄1宝杨宝龙广场B1层",
+      "distance": "9m"
+    },
+    {
+      "brand": "又炒酸奶(宝杨宝龙广场八店)",
+      "address": "同济路669弄宝杨宝龙广场1楼3楼",
+      "distance": "9m"
+    },
+    {
+      "brand": "鮨人饭团(宝杨宝龙店)",
+      "address": "同济路669弄1宝杨宝龙广场B1层",
+      "distance": "10m"
+    },
+    {
+      "brand": "红渡小香牛肉麻辣香锅(宝龙广场店)",
+      "address": "同济路669号宝杨宝龙广场B1",
+      "distance": "10m"
+    },
+    {
+      "brand": "艾炒酸奶(上海宝杨宝龙店)",
+      "address": "同济路669弄宝杨宝龙广场3楼",
+      "distance": "2m"
+    },
+    {
+      "brand": "西树泡芙(宝杨宝龙广场店)",
+      "address": "同济路669弄宝杨宝龙广场M1-B1-062-2",
+      "distance": "3m"
+    },
+    {
+      "brand": "米莜拌饭(宝龙广场店)",
+      "address": "同济路669弄5号Mall区B1层M1-B1-008-2宝龙广场负一楼",
+      "distance": "4m"
+    },
+    {
+      "brand": "潮界(宝杨宝龙广场店)",
+      "address": "同济路669弄4号第三层M1-L3-022",
+      "distance": "7m"
+    },
+    {
+      "brand": "老碗会(上海宝山宝杨宝龙店)",
+      "address": "同济路669弄4号的上海宝杨宝龙广场第B1层的编号为M1-B1-007的商铺",
+      "distance": "8m"
+    },
+    {
+      "brand": "KUMO KUMO(宝杨宝龙广场店)",
+      "address": "同济路669弄宝杨宝龙广场",
+      "distance": "9m"
+    },
+    {
+      "brand": "一馍家西安特色小吃(宝杨宝龙广场店)",
+      "address": "同济路669弄1宝杨宝龙广场B1层",
+      "distance": "9m"
+    },
+    {
+      "brand": "又炒酸奶(宝杨宝龙广场八店)",
+      "address": "同济路669弄宝杨宝龙广场1楼3楼",
+      "distance": "9m"
+    },
+    {
+      "brand": "鮨人饭团(宝杨宝龙店)",
+      "address": "同济路669弄1宝杨宝龙广场B1层",
+      "distance": "10m"
+    },
+    {
+      "brand": "红渡小香牛肉麻辣香锅(宝龙广场店)",
+      "address": "同济路669号宝杨宝龙广场B1",
+      "distance": "10m"
+    },
+    {
+      "brand": "艾炒酸奶(上海宝杨宝龙店)",
+      "address": "同济路669弄宝杨宝龙广场3楼",
+      "distance": "2m"
+    },
+    {
+      "brand": "西树泡芙(宝杨宝龙广场店)",
+      "address": "同济路669弄宝杨宝龙广场M1-B1-062-2",
+      "distance": "3m"
+    },
+    {
+      "brand": "米莜拌饭(宝龙广场店)",
+      "address": "同济路669弄5号Mall区B1层M1-B1-008-2宝龙广场负一楼",
+      "distance": "4m"
+    },
+    {
+      "brand": "潮界(宝杨宝龙广场店)",
+      "address": "同济路669弄4号第三层M1-L3-022",
+      "distance": "7m"
+    },
+    {
+      "brand": "老碗会(上海宝山宝杨宝龙店)",
+      "address": "同济路669弄4号的上海宝杨宝龙广场第B1层的编号为M1-B1-007的商铺",
+      "distance": "8m"
+    },
+    {
+      "brand": "KUMO KUMO(宝杨宝龙广场店)",
+      "address": "同济路669弄宝杨宝龙广场",
+      "distance": "9m"
+    },
+    {
+      "brand": "一馍家西安特色小吃(宝杨宝龙广场店)",
+      "address": "同济路669弄1宝杨宝龙广场B1层",
+      "distance": "9m"
+    },
+    {
+      "brand": "又炒酸奶(宝杨宝龙广场八店)",
+      "address": "同济路669弄宝杨宝龙广场1楼3楼",
+      "distance": "9m"
+    },
+    {
+      "brand": "鮨人饭团(宝杨宝龙店)",
+      "address": "同济路669弄1宝杨宝龙广场B1层",
+      "distance": "10m"
+    },
+    {
+      "brand": "红渡小香牛肉麻辣香锅(宝龙广场店)",
+      "address": "同济路669号宝杨宝龙广场B1",
+      "distance": "10m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海宝山宝乐汇",
+      "open_date": "2024-01-01",
+      "area": "10万㎡",
+      "jun_daily_avg": "3.6万人次",
+      "weekday_avg": "3.2万人次",
+      "holiday_avg": "4.7万人次"
+    },
+    {
+      "name": "上海海江新天地",
+      "open_date": "2008-12-01",
+      "area": "6万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海夏园恒茂都会",
+      "open_date": "2024-04-04",
+      "area": "2.8万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海宝钢商场",
+      "open_date": "1993-08-15",
+      "area": "-",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "泰名广场",
+      "open_date": "-",
+      "area": "-",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 150.0,
+      "within_1yr_pct": 16.7,
+      "1_3yr_pct": 31.3,
+      "over_3yr_pct": 52.0
+    },
+    {
+      "type": "购物",
+      "count": 104.0,
+      "within_1yr_pct": 22.1,
+      "1_3yr_pct": 24.0,
+      "over_3yr_pct": 53.8
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 12.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 33.3
+    },
+    {
+      "type": "教育培训",
+      "count": 17.0,
+      "within_1yr_pct": 17.6,
+      "1_3yr_pct": 35.3,
+      "over_3yr_pct": 47.1
+    },
+    {
+      "type": "酒店住宿",
+      "count": 6.0,
+      "within_1yr_pct": 16.7,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "生活服务",
+      "count": 95.0,
+      "within_1yr_pct": 26.3,
+      "1_3yr_pct": 34.7,
+      "over_3yr_pct": 38.9
+    },
+    {
+      "type": "运动健身",
+      "count": 11.0,
+      "within_1yr_pct": 27.3,
+      "1_3yr_pct": 45.5,
+      "over_3yr_pct": 27.3
+    },
+    {
+      "type": "车辆服务",
+      "count": 15.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 33.3
+    }
+  ]
+}

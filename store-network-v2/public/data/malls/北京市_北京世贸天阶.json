@@ -1,0 +1,486 @@
+{
+  "name": "北京世贸天阶",
+  "city": "北京市",
+  "address": "北京市朝阳区光华路甲9号",
+  "lat": 39.916341,
+  "lng": 116.451999,
+  "overview": {
+    "score": 92.3,
+    "score_rank": "市内前30%",
+    "population_score": 87.4,
+    "area_score": 100.0,
+    "consumption_score": 80.9,
+    "industry_score": 92.3,
+    "annual_sales": "3",
+    "annual_sales_unit": "亿元",
+    "area_size_sqm": 8.0,
+    "open_date": "2007-09-15",
+    "operator": "世贸天阶投资集团有限公司",
+    "brand": "",
+    "type": "美食型",
+    "floors": "B1-L5"
+  },
+  "traffic": {
+    "annual_daily": 1.89,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第130",
+    "jun_total": 67.3,
+    "jun_total_rank": "市内商场第146名",
+    "jun_daily_avg": 2.2,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第146名",
+    "weekday_avg": 2.4,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第127名",
+    "holiday_avg": 1.9,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第186名"
+  },
+  "population": {
+    "residential": {
+      "500m": 1.9,
+      "1_5km": 15.7,
+      "3km": 74.7
+    },
+    "office": {
+      "500m": 3.9,
+      "1_5km": 32.9,
+      "3km": 86.7
+    },
+    "permanent": {
+      "500m": 2.4,
+      "1_5km": 21.0,
+      "3km": 86.0
+    }
+  },
+  "business": {
+    "competitors": 9.0,
+    "food": 462.0,
+    "shopping": 276.0,
+    "leisure": 48.0,
+    "education": 85.0,
+    "hotel": 40.0,
+    "services": 346.0,
+    "fitness": 65.0,
+    "auto": 27.0,
+    "total_stores": 93.0,
+    "old_store_3yr_pct": 51.0
+  },
+  "nearby_poi": {
+    "business": 19.0,
+    "community": 492.0,
+    "office": 192.0,
+    "school": 31.0,
+    "hospital": 173.0,
+    "transport": 12.0,
+    "scenic": 310.0
+  },
+  "demographics": {
+    "male_pct": 53.7,
+    "female_pct": null,
+    "education": {
+      "小学": 9.6,
+      "初中": 16.8,
+      "高中": 10.8,
+      "大专": 6.7,
+      "本科": 47.5,
+      "硕士": 7.0,
+      "博士": 1.6
+    },
+    "has_children_pct": 56.2,
+    "no_children_pct": 43.8
+  },
+  "scraped_at": "2026-07-31T18:18:07.018Z",
+  "nearby_restaurants": [
+    {
+      "brand": "凉皮先生·米线·肉夹馍(世贸天阶店)",
+      "address": "北京城区光华路9号1号楼-1层-01商业内B145",
+      "distance": "3m"
+    },
+    {
+      "brand": "原汤水饺(世贸天阶北街店)",
+      "address": "光华路甲9号世贸天阶北街B1层",
+      "distance": "3m"
+    },
+    {
+      "brand": "霸碗盖码饭(北京世贸天阶店)",
+      "address": "北京城区北京城区光华路甲9号世贸天阶负一层141号",
+      "distance": "13m"
+    },
+    {
+      "brand": "喜家德虾仁水饺(世贸天阶店)",
+      "address": "北京城区光华路9号世贸天阶商业中心地下一层",
+      "distance": "16m"
+    },
+    {
+      "brand": "米村拌饭(世贸天阶店)",
+      "address": "北京城区光华路甲9号世贸天阶地下1层142号商铺,世贸天阶西门东门扶梯都可以进遇见小面旁边对面喜家德",
+      "distance": "18m"
+    },
+    {
+      "brand": "遇见小面(世贸天阶店)",
+      "address": "光华路甲9号世贸天阶北街B1层",
+      "distance": "21m"
+    },
+    {
+      "brand": "和府捞面(北京世贸天阶店)",
+      "address": "光华路9号世贸天阶南街B1-147号铺",
+      "distance": "23m"
+    },
+    {
+      "brand": "CoCo壱番屋(世贸天阶北街店)",
+      "address": "北京城区光华路甲9号世贸天阶北街B1层B138",
+      "distance": "29m"
+    },
+    {
+      "brand": "碗口居(东大桥店)",
+      "address": "光华路甲9号世贸天阶北街",
+      "distance": "30m"
+    },
+    {
+      "brand": "瑞幸咖啡(世贸天阶店)",
+      "address": "光华路甲9号世贸天阶南街负一层B1K8号",
+      "distance": "34m"
+    },
+    {
+      "brand": "凉皮先生·米线·肉夹馍(世贸天阶店)",
+      "address": "北京城区光华路9号1号楼-1层-01商业内B145",
+      "distance": "3m"
+    },
+    {
+      "brand": "原汤水饺(世贸天阶北街店)",
+      "address": "光华路甲9号世贸天阶北街B1层",
+      "distance": "3m"
+    },
+    {
+      "brand": "霸碗盖码饭(北京世贸天阶店)",
+      "address": "北京城区北京城区光华路甲9号世贸天阶负一层141号",
+      "distance": "13m"
+    },
+    {
+      "brand": "喜家德虾仁水饺(世贸天阶店)",
+      "address": "北京城区光华路9号世贸天阶商业中心地下一层",
+      "distance": "16m"
+    },
+    {
+      "brand": "米村拌饭(世贸天阶店)",
+      "address": "北京城区光华路甲9号世贸天阶地下1层142号商铺,世贸天阶西门东门扶梯都可以进遇见小面旁边对面喜家德",
+      "distance": "18m"
+    },
+    {
+      "brand": "遇见小面(世贸天阶店)",
+      "address": "光华路甲9号世贸天阶北街B1层",
+      "distance": "21m"
+    },
+    {
+      "brand": "和府捞面(北京世贸天阶店)",
+      "address": "光华路9号世贸天阶南街B1-147号铺",
+      "distance": "23m"
+    },
+    {
+      "brand": "CoCo壱番屋(世贸天阶北街店)",
+      "address": "北京城区光华路甲9号世贸天阶北街B1层B138",
+      "distance": "29m"
+    },
+    {
+      "brand": "碗口居(东大桥店)",
+      "address": "光华路甲9号世贸天阶北街",
+      "distance": "30m"
+    },
+    {
+      "brand": "瑞幸咖啡(世贸天阶店)",
+      "address": "光华路甲9号世贸天阶南街负一层B1K8号",
+      "distance": "34m"
+    },
+    {
+      "brand": "凉皮先生·米线·肉夹馍(世贸天阶店)",
+      "address": "北京城区光华路9号1号楼-1层-01商业内B145",
+      "distance": "3m"
+    },
+    {
+      "brand": "原汤水饺(世贸天阶北街店)",
+      "address": "光华路甲9号世贸天阶北街B1层",
+      "distance": "3m"
+    },
+    {
+      "brand": "霸碗盖码饭(北京世贸天阶店)",
+      "address": "北京城区北京城区光华路甲9号世贸天阶负一层141号",
+      "distance": "13m"
+    },
+    {
+      "brand": "喜家德虾仁水饺(世贸天阶店)",
+      "address": "北京城区光华路9号世贸天阶商业中心地下一层",
+      "distance": "16m"
+    },
+    {
+      "brand": "米村拌饭(世贸天阶店)",
+      "address": "北京城区光华路甲9号世贸天阶地下1层142号商铺,世贸天阶西门东门扶梯都可以进遇见小面旁边对面喜家德",
+      "distance": "18m"
+    },
+    {
+      "brand": "遇见小面(世贸天阶店)",
+      "address": "光华路甲9号世贸天阶北街B1层",
+      "distance": "21m"
+    },
+    {
+      "brand": "和府捞面(北京世贸天阶店)",
+      "address": "光华路9号世贸天阶南街B1-147号铺",
+      "distance": "23m"
+    },
+    {
+      "brand": "CoCo壱番屋(世贸天阶北街店)",
+      "address": "北京城区光华路甲9号世贸天阶北街B1层B138",
+      "distance": "29m"
+    },
+    {
+      "brand": "碗口居(东大桥店)",
+      "address": "光华路甲9号世贸天阶北街",
+      "distance": "30m"
+    },
+    {
+      "brand": "瑞幸咖啡(世贸天阶店)",
+      "address": "光华路甲9号世贸天阶南街负一层B1K8号",
+      "distance": "34m"
+    },
+    {
+      "brand": "凉皮先生·米线·肉夹馍(世贸天阶店)",
+      "address": "北京城区光华路9号1号楼-1层-01商业内B145",
+      "distance": "3m"
+    },
+    {
+      "brand": "原汤水饺(世贸天阶北街店)",
+      "address": "光华路甲9号世贸天阶北街B1层",
+      "distance": "3m"
+    },
+    {
+      "brand": "霸碗盖码饭(北京世贸天阶店)",
+      "address": "北京城区北京城区光华路甲9号世贸天阶负一层141号",
+      "distance": "13m"
+    },
+    {
+      "brand": "喜家德虾仁水饺(世贸天阶店)",
+      "address": "北京城区光华路9号世贸天阶商业中心地下一层",
+      "distance": "16m"
+    },
+    {
+      "brand": "米村拌饭(世贸天阶店)",
+      "address": "北京城区光华路甲9号世贸天阶地下1层142号商铺,世贸天阶西门东门扶梯都可以进遇见小面旁边对面喜家德",
+      "distance": "18m"
+    },
+    {
+      "brand": "遇见小面(世贸天阶店)",
+      "address": "光华路甲9号世贸天阶北街B1层",
+      "distance": "21m"
+    },
+    {
+      "brand": "和府捞面(北京世贸天阶店)",
+      "address": "光华路9号世贸天阶南街B1-147号铺",
+      "distance": "23m"
+    },
+    {
+      "brand": "CoCo壱番屋(世贸天阶北街店)",
+      "address": "北京城区光华路甲9号世贸天阶北街B1层B138",
+      "distance": "29m"
+    },
+    {
+      "brand": "碗口居(东大桥店)",
+      "address": "光华路甲9号世贸天阶北街",
+      "distance": "30m"
+    },
+    {
+      "brand": "瑞幸咖啡(世贸天阶店)",
+      "address": "光华路甲9号世贸天阶南街负一层B1K8号",
+      "distance": "34m"
+    },
+    {
+      "brand": "凉皮先生·米线·肉夹馍(世贸天阶店)",
+      "address": "北京城区光华路9号1号楼-1层-01商业内B145",
+      "distance": "3m"
+    },
+    {
+      "brand": "原汤水饺(世贸天阶北街店)",
+      "address": "光华路甲9号世贸天阶北街B1层",
+      "distance": "3m"
+    },
+    {
+      "brand": "霸碗盖码饭(北京世贸天阶店)",
+      "address": "北京城区北京城区光华路甲9号世贸天阶负一层141号",
+      "distance": "13m"
+    },
+    {
+      "brand": "喜家德虾仁水饺(世贸天阶店)",
+      "address": "北京城区光华路9号世贸天阶商业中心地下一层",
+      "distance": "16m"
+    },
+    {
+      "brand": "米村拌饭(世贸天阶店)",
+      "address": "北京城区光华路甲9号世贸天阶地下1层142号商铺,世贸天阶西门东门扶梯都可以进遇见小面旁边对面喜家德",
+      "distance": "18m"
+    },
+    {
+      "brand": "遇见小面(世贸天阶店)",
+      "address": "光华路甲9号世贸天阶北街B1层",
+      "distance": "21m"
+    },
+    {
+      "brand": "和府捞面(北京世贸天阶店)",
+      "address": "光华路9号世贸天阶南街B1-147号铺",
+      "distance": "23m"
+    },
+    {
+      "brand": "CoCo壱番屋(世贸天阶北街店)",
+      "address": "北京城区光华路甲9号世贸天阶北街B1层B138",
+      "distance": "29m"
+    },
+    {
+      "brand": "碗口居(东大桥店)",
+      "address": "光华路甲9号世贸天阶北街",
+      "distance": "30m"
+    },
+    {
+      "brand": "瑞幸咖啡(世贸天阶店)",
+      "address": "光华路甲9号世贸天阶南街负一层B1K8号",
+      "distance": "34m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "北京CBD中骏世界城",
+      "open_date": "2009-12-01",
+      "area": "3万㎡",
+      "jun_daily_avg": "2.4万人次",
+      "weekday_avg": "2.4万人次",
+      "holiday_avg": "2.4万人次"
+    },
+    {
+      "name": "北京SOHO尚都",
+      "open_date": "2005-01-06",
+      "area": "3.7万㎡",
+      "jun_daily_avg": "2.2万人次",
+      "weekday_avg": "2.3万人次",
+      "holiday_avg": "1.9万人次"
+    },
+    {
+      "name": "北京侨福芳草地",
+      "open_date": "2012-09-01",
+      "area": "4.7万㎡",
+      "jun_daily_avg": "2.3万人次",
+      "weekday_avg": "2.4万人次",
+      "holiday_avg": "2.2万人次"
+    },
+    {
+      "name": "北京财富购物中心",
+      "open_date": "2010-11-01",
+      "area": "3.8万㎡",
+      "jun_daily_avg": "1.7万人次",
+      "weekday_avg": "1.9万人次",
+      "holiday_avg": "1.2万人次"
+    },
+    {
+      "name": "北京蓝岛大厦金隅百货",
+      "open_date": "2007-01-27",
+      "area": "1.6万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "北京嘉里城",
+      "open_date": "2012-09-08",
+      "area": "1.3万㎡",
+      "jun_daily_avg": "1.4万人次",
+      "weekday_avg": "1.6万人次",
+      "holiday_avg": "1万人次"
+    },
+    {
+      "name": "北京建外环宇荟",
+      "open_date": "2018-05-29",
+      "area": "4万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "北京秀水街大厦",
+      "open_date": "2005-03-19",
+      "area": "2.8万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "北京贵友大厦",
+      "open_date": "1990-06-12",
+      "area": "9000㎡",
+      "jun_daily_avg": "1.3万人次",
+      "weekday_avg": "1.3万人次",
+      "holiday_avg": "1.2万人次"
+    },
+    {
+      "name": "北京春平广场",
+      "open_date": "2007-01-01",
+      "area": "2500㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 47.0,
+      "within_1yr_pct": 12.8,
+      "1_3yr_pct": 29.8,
+      "over_3yr_pct": 57.4
+    },
+    {
+      "type": "购物",
+      "count": 11.0,
+      "within_1yr_pct": 18.2,
+      "1_3yr_pct": 9.1,
+      "over_3yr_pct": 72.7
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 9.0,
+      "within_1yr_pct": 55.6,
+      "1_3yr_pct": 22.2,
+      "over_3yr_pct": 22.2
+    },
+    {
+      "type": "教育培训",
+      "count": 3.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 66.7,
+      "over_3yr_pct": 33.3
+    },
+    {
+      "type": "酒店住宿",
+      "count": 2.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "生活服务",
+      "count": 12.0,
+      "within_1yr_pct": 16.7,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "运动健身",
+      "count": 6.0,
+      "within_1yr_pct": 16.7,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 3.0,
+      "within_1yr_pct": 66.7,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 0.0
+    }
+  ]
+}

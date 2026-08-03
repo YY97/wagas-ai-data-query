@@ -1,0 +1,260 @@
+{
+  "name": "永乐汇",
+  "city": "上海市",
+  "address": "上海市徐汇区湖南路街道长鑫大厦",
+  "lat": 31.214821,
+  "lng": 121.44262,
+  "overview": {
+    "score": 83.0,
+    "score_rank": "市内前30%",
+    "population_score": 81.9,
+    "area_score": 84.1,
+    "consumption_score": 89.3,
+    "industry_score": 83.0,
+    "annual_sales": "",
+    "annual_sales_unit": "",
+    "area_size_sqm": null,
+    "open_date": "",
+    "operator": "",
+    "brand": "",
+    "type": "",
+    "floors": ""
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "",
+    "annual_daily_rank": "",
+    "jun_total": null,
+    "jun_total_rank": "",
+    "jun_daily_avg": null,
+    "jun_daily_unit": "",
+    "jun_daily_rank": "",
+    "weekday_avg": null,
+    "weekday_unit": "",
+    "weekday_rank": "",
+    "holiday_avg": null,
+    "holiday_unit": "",
+    "holiday_rank": ""
+  },
+  "population": {
+    "residential": {
+      "500m": 1.7,
+      "1_5km": 17.9,
+      "3km": 103.8
+    },
+    "office": {
+      "500m": 2.6,
+      "1_5km": 23.7,
+      "3km": 102.7
+    },
+    "permanent": {
+      "500m": 2.6,
+      "1_5km": 23.0,
+      "3km": 120.5
+    }
+  },
+  "business": {
+    "competitors": 4.0,
+    "food": 198.0,
+    "shopping": 229.0,
+    "leisure": 26.0,
+    "education": 15.0,
+    "hotel": 103.0,
+    "services": 104.0,
+    "fitness": 6.0,
+    "auto": 7.0,
+    "total_stores": 716.0,
+    "old_store_3yr_pct": 51.0
+  },
+  "nearby_poi": {
+    "business": 8.0,
+    "community": 1413.0,
+    "office": 166.0,
+    "school": 86.0,
+    "hospital": 212.0,
+    "transport": 9.0,
+    "scenic": 784.0
+  },
+  "demographics": {
+    "male_pct": 47.3,
+    "female_pct": null,
+    "education": {
+      "小学": 9.0,
+      "初中": 17.3,
+      "高中": 11.7,
+      "大专": 6.8,
+      "本科": 48.1,
+      "硕士": 5.3,
+      "博士": 1.8
+    },
+    "has_children_pct": null,
+    "no_children_pct": null
+  },
+  "scraped_at": "2026-08-01T08:50:24.613Z",
+  "nearby_restaurants": [
+    {
+      "brand": "Azabuya麻布屋(复兴西路洋房店)",
+      "address": "复兴西路洋房(上海图书馆地铁站2号口步行450米)",
+      "distance": "491m"
+    },
+    {
+      "brand": "两样拌面·水饺(上海常熟路店)",
+      "address": "长乐路与常熟路交叉口西20米",
+      "distance": "491m"
+    },
+    {
+      "brand": "吉祥馄饨(上海常熟店)",
+      "address": "长乐路802号(近常熟路)(常熟路地铁站8号口步行280米)",
+      "distance": "492m"
+    },
+    {
+      "brand": "ARTEA艺术空间",
+      "address": "永福路与复兴西路交叉口西南60米",
+      "distance": "492m"
+    },
+    {
+      "brand": "女子饮酒社",
+      "address": "常熟路104弄4号(近108弄,东艺大厦南行50米)",
+      "distance": "494m"
+    },
+    {
+      "brand": "粉八云南米线建水烧烤",
+      "address": "常熟路108弄前门4号(常熟路地铁站8号口步行320米)",
+      "distance": "495m"
+    },
+    {
+      "brand": "振鼎鸡(乌鲁木齐中路店)",
+      "address": "乌鲁木齐中路328号乌中市集",
+      "distance": "499m"
+    },
+    {
+      "brand": "凯司令(乌鲁木齐路店)",
+      "address": "乌鲁木齐中路318号(上海图书馆地铁站2号口步行430米)",
+      "distance": "499m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海1788square",
+      "open_date": "2013-04-18",
+      "area": "2.3万㎡",
+      "jun_daily_avg": "1.1万人次",
+      "weekday_avg": "1万人次",
+      "holiday_avg": "1.1万人次"
+    },
+    {
+      "name": "上海芮欧百货",
+      "open_date": "2011-01-01",
+      "area": "6.5万㎡",
+      "jun_daily_avg": "2.9万人次",
+      "weekday_avg": "2.7万人次",
+      "holiday_avg": "3.4万人次"
+    },
+    {
+      "name": "上海久光百货",
+      "open_date": "2004-09-04",
+      "area": "9.1万㎡",
+      "jun_daily_avg": "3.7万人次",
+      "weekday_avg": "3.3万人次",
+      "holiday_avg": "4.9万人次"
+    },
+    {
+      "name": "上海静安嘉里中心",
+      "open_date": "2013-01-01",
+      "area": "9.4万㎡",
+      "jun_daily_avg": "6万人次",
+      "weekday_avg": "5.5万人次",
+      "holiday_avg": "7.6万人次"
+    },
+    {
+      "name": "上海UX 88",
+      "open_date": "2013-01-01",
+      "area": "6000㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海晶品Crystal Galleria",
+      "open_date": "2015-09-20",
+      "area": "7.3万㎡",
+      "jun_daily_avg": "3.6万人次",
+      "weekday_avg": "3.3万人次",
+      "holiday_avg": "4.5万人次"
+    },
+    {
+      "name": "上海环贸iapm",
+      "open_date": "2013-08-01",
+      "area": "12万㎡",
+      "jun_daily_avg": "6.3万人次",
+      "weekday_avg": "5.9万人次",
+      "holiday_avg": "7.3万人次"
+    },
+    {
+      "name": "上海上生新所",
+      "open_date": "2018-11-01",
+      "area": "5.1万㎡",
+      "jun_daily_avg": "1.5万人次",
+      "weekday_avg": "1.3万人次",
+      "holiday_avg": "2.2万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 198.0,
+      "within_1yr_pct": 20.7,
+      "1_3yr_pct": 26.8,
+      "over_3yr_pct": 52.5
+    },
+    {
+      "type": "购物",
+      "count": 229.0,
+      "within_1yr_pct": 18.3,
+      "1_3yr_pct": 30.6,
+      "over_3yr_pct": 51.1
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 54.0,
+      "within_1yr_pct": 18.5,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 48.1
+    },
+    {
+      "type": "教育培训",
+      "count": 15.0,
+      "within_1yr_pct": 13.3,
+      "1_3yr_pct": 26.7,
+      "over_3yr_pct": 60.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 103.0,
+      "within_1yr_pct": 50.5,
+      "1_3yr_pct": 10.7,
+      "over_3yr_pct": 38.8
+    },
+    {
+      "type": "生活服务",
+      "count": 104.0,
+      "within_1yr_pct": 14.4,
+      "1_3yr_pct": 22.1,
+      "over_3yr_pct": 63.5
+    },
+    {
+      "type": "运动健身",
+      "count": 6.0,
+      "within_1yr_pct": 16.7,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 7.0,
+      "within_1yr_pct": 28.6,
+      "1_3yr_pct": 28.6,
+      "over_3yr_pct": 42.9
+    }
+  ]
+}

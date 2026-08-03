@@ -1,0 +1,154 @@
+{
+  "name": "君尚3019",
+  "city": "深圳市",
+  "address": "广东省深圳市南山区中心路3019号",
+  "lat": 22.506773,
+  "lng": 113.940839,
+  "overview": {
+    "score": 87.7,
+    "score_rank": "市内前30%",
+    "population_score": 68.8,
+    "area_score": 67.8,
+    "consumption_score": 96.1,
+    "industry_score": 87.8,
+    "annual_sales": "君尚3019定位“一个出售生活方式的地方”，以为年轻白领、时尚主妇为主的城市中产阶级提供美好生活解决方案为目的。在业态规划方面，以“新零售”体验为出发点，以购物中心化的运营模式，打破传统百货的业态天花板",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 4.1,
+    "open_date": "2016-12-09",
+    "operator": "天虹数科商业股份有限公司",
+    "brand": "天虹",
+    "type": "综合型",
+    "floors": "L1-L8"
+  },
+  "traffic": {
+    "annual_daily": 1.11,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第157",
+    "jun_total": 46.9,
+    "jun_total_rank": "市内商场第164名",
+    "jun_daily_avg": 1.6,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第164名",
+    "weekday_avg": 1.7,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第140名",
+    "holiday_avg": 1.3,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第197名"
+  },
+  "population": {
+    "residential": {
+      "500m": 1.1,
+      "1_5km": 17.1,
+      "3km": 58.6
+    },
+    "office": {
+      "500m": 2.4,
+      "1_5km": 15.6,
+      "3km": 49.9
+    },
+    "permanent": {
+      "500m": 1.5,
+      "1_5km": 17.9,
+      "3km": 56.3
+    }
+  },
+  "business": {
+    "competitors": 6.0,
+    "food": 119.0,
+    "shopping": 76.0,
+    "leisure": 12.0,
+    "education": 13.0,
+    "hotel": 14.0,
+    "services": 90.0,
+    "fitness": 14.0,
+    "auto": 22.0,
+    "total_stores": 100.0,
+    "old_store_3yr_pct": 52.0
+  },
+  "nearby_poi": {
+    "business": 11.0,
+    "community": 364.0,
+    "office": 59.0,
+    "school": 30.0,
+    "hospital": 162.0,
+    "transport": 7.0,
+    "scenic": 184.0
+  },
+  "demographics": {
+    "male_pct": 54.0,
+    "female_pct": null,
+    "education": {
+      "小学": 10.5,
+      "初中": 17.4,
+      "高中": 11.8,
+      "大专": 8.1,
+      "本科": 45.6,
+      "硕士": 5.7,
+      "博士": 0.9
+    },
+    "has_children_pct": 57.7,
+    "no_children_pct": 42.3
+  },
+  "scraped_at": "2026-08-02T06:29:17.389Z",
+  "nearby_restaurants": [],
+  "nearby_malls": [],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 38.0,
+      "within_1yr_pct": 26.3,
+      "1_3yr_pct": 23.7,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "购物",
+      "count": 19.0,
+      "within_1yr_pct": 26.3,
+      "1_3yr_pct": 21.1,
+      "over_3yr_pct": 52.6
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 10.0,
+      "within_1yr_pct": 30.0,
+      "1_3yr_pct": 30.0,
+      "over_3yr_pct": 40.0
+    },
+    {
+      "type": "教育培训",
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    },
+    {
+      "type": "生活服务",
+      "count": 26.0,
+      "within_1yr_pct": 11.5,
+      "1_3yr_pct": 30.8,
+      "over_3yr_pct": 57.7
+    },
+    {
+      "type": "运动健身",
+      "count": 3.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 33.3
+    },
+    {
+      "type": "车辆服务",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
+    }
+  ]
+}

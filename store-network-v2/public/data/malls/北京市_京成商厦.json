@@ -1,0 +1,140 @@
+{
+  "name": "京成商厦",
+  "city": "北京市",
+  "address": "上海市嘉定区靖远路715号",
+  "lat": null,
+  "lng": null,
+  "overview": {
+    "score": 80.3,
+    "score_rank": "市内前30%",
+    "population_score": 89.1,
+    "area_score": 69.6,
+    "consumption_score": 66.7,
+    "industry_score": 80.3,
+    "annual_sales": "上海永和生活广场位于嘉定区江桥镇中心位置，靖远路727号，紧邻曹安公路，靠近S20外环高速，交通便利。项目定位为集餐饮、休闲、娱乐、购物为一体的中高端商业广场，商铺设计为挑高5.58米，可做两层使用。周边配套完善，临近地铁13号线和14号线。",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 1.1,
+    "open_date": "2012-01-01",
+    "operator": "上海邦龙物业管理有限公司",
+    "brand": "",
+    "type": "美食型",
+    "floors": "L1-L2"
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "-",
+    "annual_daily_rank": "",
+    "jun_total": 16.2,
+    "jun_total_rank": "市内商场第416名",
+    "jun_daily_avg": 5383.0,
+    "jun_daily_unit": "人次",
+    "jun_daily_rank": "市内商场第416名",
+    "weekday_avg": 5286.0,
+    "weekday_unit": "人次",
+    "weekday_rank": "市内商场第412名",
+    "holiday_avg": 5650.0,
+    "holiday_unit": "人次",
+    "holiday_rank": "市内商场第420名"
+  },
+  "population": {
+    "residential": {
+      "500m": 2.3,
+      "1_5km": 17.6,
+      "3km": 57.5
+    },
+    "office": {
+      "500m": 7500.0,
+      "1_5km": 5.9,
+      "3km": 24.8
+    },
+    "permanent": {
+      "500m": 2.1,
+      "1_5km": 15.4,
+      "3km": 52.5
+    }
+  },
+  "business": {
+    "competitors": null,
+    "food": 107.0,
+    "shopping": 71.0,
+    "leisure": 12.0,
+    "education": 3.0,
+    "hotel": 23.0,
+    "services": 47.0,
+    "fitness": 3.0,
+    "auto": 24.0,
+    "total_stores": 72.0,
+    "old_store_3yr_pct": 44.0
+  },
+  "nearby_poi": {
+    "business": 2.0,
+    "community": 195.0,
+    "office": 25.0,
+    "school": 12.0,
+    "hospital": 26.0,
+    "transport": 12.0,
+    "scenic": 52.0
+  },
+  "demographics": {
+    "male_pct": 54.8,
+    "female_pct": null,
+    "education": {
+      "小学": 10.1,
+      "初中": 18.9,
+      "高中": 11.6,
+      "大专": 8.7,
+      "本科": 46.2,
+      "硕士": 3.4,
+      "博士": 1.1
+    },
+    "has_children_pct": 65.0,
+    "no_children_pct": 35.0
+  },
+  "scraped_at": "2026-08-01T09:55:44.043Z",
+  "nearby_restaurants": [],
+  "nearby_malls": [],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 37.0,
+      "within_1yr_pct": 45.9,
+      "1_3yr_pct": 21.6,
+      "over_3yr_pct": 32.4
+    },
+    {
+      "type": "购物",
+      "count": 22.0,
+      "within_1yr_pct": 13.6,
+      "1_3yr_pct": 27.3,
+      "over_3yr_pct": 59.1
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 2.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "教育培训",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    },
+    {
+      "type": "生活服务",
+      "count": 9.0,
+      "within_1yr_pct": 22.2,
+      "1_3yr_pct": 11.1,
+      "over_3yr_pct": 66.7
+    }
+  ]
+}

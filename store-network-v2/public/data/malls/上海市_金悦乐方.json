@@ -1,0 +1,180 @@
+{
+  "name": "金悦乐方",
+  "city": "上海市",
+  "address": "上海市闵行区鹤庆路900号",
+  "lat": 31.006839,
+  "lng": 121.404724,
+  "overview": {
+    "score": 91.5,
+    "score_rank": "市内前30%",
+    "population_score": 90.7,
+    "area_score": 71.3,
+    "consumption_score": 65.9,
+    "industry_score": 91.6,
+    "annual_sales": "",
+    "annual_sales_unit": "",
+    "area_size_sqm": null,
+    "open_date": "",
+    "operator": "",
+    "brand": "",
+    "type": "",
+    "floors": ""
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "",
+    "annual_daily_rank": "",
+    "jun_total": 33.0,
+    "jun_total_rank": "市内商场第292名",
+    "jun_daily_avg": 1.1,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第292名",
+    "weekday_avg": 1.0,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第296名",
+    "holiday_avg": 1.3,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第271名"
+  },
+  "population": {
+    "residential": {
+      "500m": 50.0,
+      "1_5km": null,
+      "3km": null
+    },
+    "office": {
+      "500m": 50.0,
+      "1_5km": null,
+      "3km": null
+    },
+    "permanent": {
+      "500m": 15.0,
+      "1_5km": null,
+      "3km": null
+    }
+  },
+  "business": {
+    "competitors": null,
+    "food": null,
+    "shopping": null,
+    "leisure": null,
+    "education": null,
+    "hotel": null,
+    "services": null,
+    "fitness": null,
+    "auto": null,
+    "total_stores": 111.0,
+    "old_store_3yr_pct": 45.0
+  },
+  "nearby_poi": {
+    "business": null,
+    "community": null,
+    "office": null,
+    "school": null,
+    "hospital": null,
+    "transport": null,
+    "scenic": null
+  },
+  "demographics": {
+    "male_pct": null,
+    "female_pct": null,
+    "education": {
+      "小学": null,
+      "初中": null,
+      "高中": null,
+      "大专": null,
+      "本科": null,
+      "硕士": null,
+      "博士": null
+    },
+    "has_children_pct": null,
+    "no_children_pct": null
+  },
+  "scraped_at": "2026-08-01T06:30:19.213Z",
+  "nearby_restaurants": [
+    {
+      "brand": "鸭得堡老鸭汤鸭血粉丝(瑞丽路店)",
+      "address": "复旦大学附属上海市第五人民医院东3门旁",
+      "distance": "486m"
+    },
+    {
+      "brand": "贵州特色网烤·烙锅·深夜小酒馆",
+      "address": "瑞丽路95号(瑞丽菜场内30米)B30",
+      "distance": "491m"
+    },
+    {
+      "brand": "小弄堂酒家",
+      "address": "瑞丽路95-14号",
+      "distance": "492m"
+    },
+    {
+      "brand": "东方一串烧烤·烤鱼·鸡公煲(瑞丽路店)",
+      "address": "瑞丽路95号",
+      "distance": "495m"
+    },
+    {
+      "brand": "恒香渝重庆小面(瑞丽路店)",
+      "address": "瑞丽路95号",
+      "distance": "498m"
+    }
+  ],
+  "nearby_malls": [],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 50.0,
+      "within_1yr_pct": 22.0,
+      "1_3yr_pct": 26.0,
+      "over_3yr_pct": 52.0
+    },
+    {
+      "type": "购物",
+      "count": 15.0,
+      "within_1yr_pct": 13.3,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 53.3
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 7.0,
+      "within_1yr_pct": 14.3,
+      "1_3yr_pct": 42.9,
+      "over_3yr_pct": 42.9
+    },
+    {
+      "type": "教育培训",
+      "count": 9.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 44.4,
+      "over_3yr_pct": 22.2
+    },
+    {
+      "type": "酒店住宿",
+      "count": 4.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 75.0
+    },
+    {
+      "type": "生活服务",
+      "count": 11.0,
+      "within_1yr_pct": 27.3,
+      "1_3yr_pct": 45.5,
+      "over_3yr_pct": 27.3
+    },
+    {
+      "type": "运动健身",
+      "count": 11.0,
+      "within_1yr_pct": 27.3,
+      "1_3yr_pct": 45.5,
+      "over_3yr_pct": 27.3
+    },
+    {
+      "type": "车辆服务",
+      "count": 4.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 50.0
+    }
+  ]
+}

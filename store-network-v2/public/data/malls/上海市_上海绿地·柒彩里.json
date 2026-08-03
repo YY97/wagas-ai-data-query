@@ -1,0 +1,472 @@
+{
+  "name": "上海绿地·柒彩里",
+  "city": "上海市",
+  "address": "上海市静安区万航渡路838号万航渡路康定路",
+  "lat": 31.232072,
+  "lng": 121.441997,
+  "overview": {
+    "score": 76.4,
+    "score_rank": "市内前50%",
+    "population_score": 100.0,
+    "area_score": 84.3,
+    "consumption_score": 84.4,
+    "industry_score": 76.3,
+    "annual_sales": "上海绿地·柒彩里是绿地集团在上海的首个城市更新项目，位于上海静安区万航渡路838号，属于内环曹家渡核心商圈，交通便利，周边行人如织，写字楼、住宅林立。项目是一座集商业、办公、公寓等多元业态于一体的城市综合体",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 3.2,
+    "open_date": "2019-03-01",
+    "operator": "绿地控股集团股份有限公司",
+    "brand": "",
+    "type": "美食型",
+    "floors": "B1-L4"
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "-",
+    "annual_daily_rank": "",
+    "jun_total": null,
+    "jun_total_rank": "",
+    "jun_daily_avg": null,
+    "jun_daily_unit": "",
+    "jun_daily_rank": "",
+    "weekday_avg": null,
+    "weekday_unit": "",
+    "weekday_rank": "",
+    "holiday_avg": null,
+    "holiday_unit": "",
+    "holiday_rank": ""
+  },
+  "population": {
+    "residential": {
+      "500m": 4.4,
+      "1_5km": 31.0,
+      "3km": 110.8
+    },
+    "office": {
+      "500m": 2.9,
+      "1_5km": 21.5,
+      "3km": 85.5
+    },
+    "permanent": {
+      "500m": 4.5,
+      "1_5km": 31.6,
+      "3km": 119.9
+    }
+  },
+  "business": {
+    "competitors": 6.0,
+    "food": 235.0,
+    "shopping": 149.0,
+    "leisure": 50.0,
+    "education": 27.0,
+    "hotel": 53.0,
+    "services": 211.0,
+    "fitness": 56.0,
+    "auto": 17.0,
+    "total_stores": 36.0,
+    "old_store_3yr_pct": 42.0
+  },
+  "nearby_poi": {
+    "business": 15.0,
+    "community": 1158.0,
+    "office": 148.0,
+    "school": 79.0,
+    "hospital": 165.0,
+    "transport": 17.0,
+    "scenic": 580.0
+  },
+  "demographics": {
+    "male_pct": 47.1,
+    "female_pct": null,
+    "education": {
+      "小学": 9.1,
+      "初中": 17.9,
+      "高中": 11.9,
+      "大专": 6.8,
+      "本科": 47.9,
+      "硕士": 4.7,
+      "博士": 1.7
+    },
+    "has_children_pct": 58.5,
+    "no_children_pct": 41.5
+  },
+  "scraped_at": "2026-07-31T17:18:07.891Z",
+  "nearby_restaurants": [
+    {
+      "brand": "渝味重庆小面(万航渡路店)",
+      "address": "万航渡路838号柒彩里3层美食广场",
+      "distance": "6m"
+    },
+    {
+      "brand": "N派精致便当",
+      "address": "万航渡路838号(万航渡路康定路口)静安绿地柒彩里",
+      "distance": "8m"
+    },
+    {
+      "brand": "龙帝行宫·魅影·商务茶室",
+      "address": "万航渡路818号长白山大厦",
+      "distance": "10m"
+    },
+    {
+      "brand": "毛兴楼牛羊肉泡馍·小炒(静安万航渡路七彩里美食城店)",
+      "address": "万航渡路838号(万航渡路康定路口)静安绿地柒彩里",
+      "distance": "13m"
+    },
+    {
+      "brand": "宴台舟(静安绿地柒彩里店)",
+      "address": "万航渡路838号柒彩里4楼",
+      "distance": "15m"
+    },
+    {
+      "brand": "觅姐汤可以喝的麻辣烫(万航渡路店)",
+      "address": "万航渡路818号长白山大厦F3层",
+      "distance": "19m"
+    },
+    {
+      "brand": "上海吉臣维景酒店·维多利亚餐厅",
+      "address": "万航渡路818号吉臣酒店1楼",
+      "distance": "21m"
+    },
+    {
+      "brand": "盱眙倪氏龙虾",
+      "address": "万航渡路838号(万航渡路康定路口)静安绿地柒彩里",
+      "distance": "22m"
+    },
+    {
+      "brand": "星美势·美食市集",
+      "address": "万航渡路838号(万航渡路康定路口)静安绿地柒彩里",
+      "distance": "26m"
+    },
+    {
+      "brand": "瑞幸咖啡(绿地静安柒彩里店)",
+      "address": "万航渡路858号柒彩里中心F1",
+      "distance": "26m"
+    },
+    {
+      "brand": "渝味重庆小面(万航渡路店)",
+      "address": "万航渡路838号柒彩里3层美食广场",
+      "distance": "6m"
+    },
+    {
+      "brand": "N派精致便当",
+      "address": "万航渡路838号(万航渡路康定路口)静安绿地柒彩里",
+      "distance": "8m"
+    },
+    {
+      "brand": "龙帝行宫·魅影·商务茶室",
+      "address": "万航渡路818号长白山大厦",
+      "distance": "10m"
+    },
+    {
+      "brand": "毛兴楼牛羊肉泡馍·小炒(静安万航渡路七彩里美食城店)",
+      "address": "万航渡路838号(万航渡路康定路口)静安绿地柒彩里",
+      "distance": "13m"
+    },
+    {
+      "brand": "宴台舟(静安绿地柒彩里店)",
+      "address": "万航渡路838号柒彩里4楼",
+      "distance": "15m"
+    },
+    {
+      "brand": "觅姐汤可以喝的麻辣烫(万航渡路店)",
+      "address": "万航渡路818号长白山大厦F3层",
+      "distance": "19m"
+    },
+    {
+      "brand": "上海吉臣维景酒店·维多利亚餐厅",
+      "address": "万航渡路818号吉臣酒店1楼",
+      "distance": "21m"
+    },
+    {
+      "brand": "盱眙倪氏龙虾",
+      "address": "万航渡路838号(万航渡路康定路口)静安绿地柒彩里",
+      "distance": "22m"
+    },
+    {
+      "brand": "星美势·美食市集",
+      "address": "万航渡路838号(万航渡路康定路口)静安绿地柒彩里",
+      "distance": "26m"
+    },
+    {
+      "brand": "瑞幸咖啡(绿地静安柒彩里店)",
+      "address": "万航渡路858号柒彩里中心F1",
+      "distance": "26m"
+    },
+    {
+      "brand": "渝味重庆小面(万航渡路店)",
+      "address": "万航渡路838号柒彩里3层美食广场",
+      "distance": "6m"
+    },
+    {
+      "brand": "N派精致便当",
+      "address": "万航渡路838号(万航渡路康定路口)静安绿地柒彩里",
+      "distance": "8m"
+    },
+    {
+      "brand": "龙帝行宫·魅影·商务茶室",
+      "address": "万航渡路818号长白山大厦",
+      "distance": "10m"
+    },
+    {
+      "brand": "毛兴楼牛羊肉泡馍·小炒(静安万航渡路七彩里美食城店)",
+      "address": "万航渡路838号(万航渡路康定路口)静安绿地柒彩里",
+      "distance": "13m"
+    },
+    {
+      "brand": "宴台舟(静安绿地柒彩里店)",
+      "address": "万航渡路838号柒彩里4楼",
+      "distance": "15m"
+    },
+    {
+      "brand": "觅姐汤可以喝的麻辣烫(万航渡路店)",
+      "address": "万航渡路818号长白山大厦F3层",
+      "distance": "19m"
+    },
+    {
+      "brand": "上海吉臣维景酒店·维多利亚餐厅",
+      "address": "万航渡路818号吉臣酒店1楼",
+      "distance": "21m"
+    },
+    {
+      "brand": "盱眙倪氏龙虾",
+      "address": "万航渡路838号(万航渡路康定路口)静安绿地柒彩里",
+      "distance": "22m"
+    },
+    {
+      "brand": "星美势·美食市集",
+      "address": "万航渡路838号(万航渡路康定路口)静安绿地柒彩里",
+      "distance": "26m"
+    },
+    {
+      "brand": "瑞幸咖啡(绿地静安柒彩里店)",
+      "address": "万航渡路858号柒彩里中心F1",
+      "distance": "26m"
+    },
+    {
+      "brand": "渝味重庆小面(万航渡路店)",
+      "address": "万航渡路838号柒彩里3层美食广场",
+      "distance": "6m"
+    },
+    {
+      "brand": "N派精致便当",
+      "address": "万航渡路838号(万航渡路康定路口)静安绿地柒彩里",
+      "distance": "8m"
+    },
+    {
+      "brand": "龙帝行宫·魅影·商务茶室",
+      "address": "万航渡路818号长白山大厦",
+      "distance": "10m"
+    },
+    {
+      "brand": "毛兴楼牛羊肉泡馍·小炒(静安万航渡路七彩里美食城店)",
+      "address": "万航渡路838号(万航渡路康定路口)静安绿地柒彩里",
+      "distance": "13m"
+    },
+    {
+      "brand": "宴台舟(静安绿地柒彩里店)",
+      "address": "万航渡路838号柒彩里4楼",
+      "distance": "15m"
+    },
+    {
+      "brand": "觅姐汤可以喝的麻辣烫(万航渡路店)",
+      "address": "万航渡路818号长白山大厦F3层",
+      "distance": "19m"
+    },
+    {
+      "brand": "上海吉臣维景酒店·维多利亚餐厅",
+      "address": "万航渡路818号吉臣酒店1楼",
+      "distance": "21m"
+    },
+    {
+      "brand": "盱眙倪氏龙虾",
+      "address": "万航渡路838号(万航渡路康定路口)静安绿地柒彩里",
+      "distance": "22m"
+    },
+    {
+      "brand": "星美势·美食市集",
+      "address": "万航渡路838号(万航渡路康定路口)静安绿地柒彩里",
+      "distance": "26m"
+    },
+    {
+      "brand": "瑞幸咖啡(绿地静安柒彩里店)",
+      "address": "万航渡路858号柒彩里中心F1",
+      "distance": "26m"
+    },
+    {
+      "brand": "渝味重庆小面(万航渡路店)",
+      "address": "万航渡路838号柒彩里3层美食广场",
+      "distance": "6m"
+    },
+    {
+      "brand": "N派精致便当",
+      "address": "万航渡路838号(万航渡路康定路口)静安绿地柒彩里",
+      "distance": "8m"
+    },
+    {
+      "brand": "龙帝行宫·魅影·商务茶室",
+      "address": "万航渡路818号长白山大厦",
+      "distance": "10m"
+    },
+    {
+      "brand": "毛兴楼牛羊肉泡馍·小炒(静安万航渡路七彩里美食城店)",
+      "address": "万航渡路838号(万航渡路康定路口)静安绿地柒彩里",
+      "distance": "13m"
+    },
+    {
+      "brand": "宴台舟(静安绿地柒彩里店)",
+      "address": "万航渡路838号柒彩里4楼",
+      "distance": "15m"
+    },
+    {
+      "brand": "觅姐汤可以喝的麻辣烫(万航渡路店)",
+      "address": "万航渡路818号长白山大厦F3层",
+      "distance": "19m"
+    },
+    {
+      "brand": "上海吉臣维景酒店·维多利亚餐厅",
+      "address": "万航渡路818号吉臣酒店1楼",
+      "distance": "21m"
+    },
+    {
+      "brand": "盱眙倪氏龙虾",
+      "address": "万航渡路838号(万航渡路康定路口)静安绿地柒彩里",
+      "distance": "22m"
+    },
+    {
+      "brand": "星美势·美食市集",
+      "address": "万航渡路838号(万航渡路康定路口)静安绿地柒彩里",
+      "distance": "26m"
+    },
+    {
+      "brand": "瑞幸咖啡(绿地静安柒彩里店)",
+      "address": "万航渡路858号柒彩里中心F1",
+      "distance": "26m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海悦达889广场",
+      "open_date": "2010-05-05",
+      "area": "4.7万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海KiNG88",
+      "open_date": "2017-09-08",
+      "area": "3.9万㎡",
+      "jun_daily_avg": "1万人次",
+      "weekday_avg": "1万人次",
+      "holiday_avg": "1万人次"
+    },
+    {
+      "name": "上海星方汇",
+      "open_date": "2019-01-01",
+      "area": "5万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海米域·这里MIXPACE·HERE",
+      "open_date": "2018-01-01",
+      "area": "1万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海我格广场",
+      "open_date": "2010-06-06",
+      "area": "4.8万㎡",
+      "jun_daily_avg": "1.7万人次",
+      "weekday_avg": "1.6万人次",
+      "holiday_avg": "1.9万人次"
+    },
+    {
+      "name": "上海100AM新百安商场",
+      "open_date": "2019-04-21",
+      "area": "3.5万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海华宁弘基生活中心",
+      "open_date": "2012-12-01",
+      "area": "2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海华美达广场",
+      "open_date": "2024-01-01",
+      "area": "2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海巴黎春天城市奥莱(长宁店)",
+      "open_date": "2004-09-23",
+      "area": "6万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海玫瑰坊",
+      "open_date": "2004-05-01",
+      "area": "1.7万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 17.0,
+      "within_1yr_pct": 47.1,
+      "1_3yr_pct": 23.5,
+      "over_3yr_pct": 29.4
+    },
+    {
+      "type": "购物",
+      "count": 4.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    },
+    {
+      "type": "生活服务",
+      "count": 8.0,
+      "within_1yr_pct": 37.5,
+      "1_3yr_pct": 37.5,
+      "over_3yr_pct": 25.0
+    },
+    {
+      "type": "运动健身",
+      "count": 5.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 20.0,
+      "over_3yr_pct": 80.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    }
+  ]
+}

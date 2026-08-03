@@ -1,0 +1,174 @@
+{
+  "name": "金四季购物中心",
+  "city": "北京市",
+  "address": "北京市海淀区西四环北路117号",
+  "lat": 39.943693,
+  "lng": 116.271167,
+  "overview": {
+    "score": 83.4,
+    "score_rank": "市内前30%",
+    "population_score": 71.7,
+    "area_score": 67.9,
+    "consumption_score": 88.9,
+    "industry_score": 83.5,
+    "annual_sales": "北京金四季购物中心融合了购物、休闲、娱乐，占地6.6万平方米，由北、中、南三个连体建筑组成，总建筑面积13.2万平方米，其中可经营面积10万平方米，停车位超过1300辆。其中包括2万平方米的主力店法国欧尚超市和2.2万平方米的百安居。购物中心将引进SHOPPING MALL的建筑风格和经营理念，实现一站式购物",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 10.0,
+    "open_date": "2003-06-01",
+    "operator": "",
+    "brand": "",
+    "type": "购物型",
+    "floors": "B1-L4"
+  },
+  "traffic": {
+    "annual_daily": 1.23,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第186",
+    "jun_total": 44.5,
+    "jun_total_rank": "市内商场第204名",
+    "jun_daily_avg": 1.5,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第204名",
+    "weekday_avg": 1.5,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第199名",
+    "holiday_avg": 1.6,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第212名"
+  },
+  "population": {
+    "residential": {
+      "500m": 7800.0,
+      "1_5km": 8.8,
+      "3km": 49.5
+    },
+    "office": {
+      "500m": 7200.0,
+      "1_5km": 6.3,
+      "3km": 26.3
+    },
+    "permanent": {
+      "500m": 9000.0,
+      "1_5km": 8.8,
+      "3km": 48.4
+    }
+  },
+  "business": {
+    "competitors": null,
+    "food": 22.0,
+    "shopping": 62.0,
+    "leisure": 2.0,
+    "education": 9.0,
+    "hotel": 5.0,
+    "services": 36.0,
+    "fitness": 14.0,
+    "auto": 5.0,
+    "total_stores": 89.0,
+    "old_store_3yr_pct": 61.0
+  },
+  "nearby_poi": {
+    "business": 1.0,
+    "community": 290.0,
+    "office": 39.0,
+    "school": 26.0,
+    "hospital": 54.0,
+    "transport": 5.0,
+    "scenic": 85.0
+  },
+  "demographics": {
+    "male_pct": 50.6,
+    "female_pct": null,
+    "education": {
+      "小学": 7.1,
+      "初中": 12.1,
+      "高中": 11.4,
+      "大专": 5.7,
+      "本科": 49.2,
+      "硕士": 11.9,
+      "博士": 2.6
+    },
+    "has_children_pct": 58.4,
+    "no_children_pct": 41.6
+  },
+  "scraped_at": "2026-08-01T11:36:36.467Z",
+  "nearby_restaurants": [
+    {
+      "brand": "常家菜(麦德龙店)",
+      "address": "杏石口路1号麦德龙会员店(北京四季青店)",
+      "distance": "376m"
+    },
+    {
+      "brand": "金三罐云南山野牛肉火锅",
+      "address": "北京城区通汇路14号金三罐云南山野牛肉火锅",
+      "distance": "419m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "北京KALCITY能量城市",
+      "open_date": "2020-10-01",
+      "area": "4.3万㎡",
+      "jun_daily_avg": "1.6万人次",
+      "weekday_avg": "1.5万人次",
+      "holiday_avg": "1.8万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 17.0,
+      "within_1yr_pct": 5.9,
+      "1_3yr_pct": 11.8,
+      "over_3yr_pct": 82.4
+    },
+    {
+      "type": "购物",
+      "count": 44.0,
+      "within_1yr_pct": 18.2,
+      "1_3yr_pct": 22.7,
+      "over_3yr_pct": 59.1
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "教育培训",
+      "count": 4.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 75.0,
+      "over_3yr_pct": 25.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 3.0,
+      "within_1yr_pct": 66.7,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 33.3
+    },
+    {
+      "type": "生活服务",
+      "count": 12.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 8.3,
+      "over_3yr_pct": 58.3
+    },
+    {
+      "type": "运动健身",
+      "count": 7.0,
+      "within_1yr_pct": 42.9,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 57.1
+    },
+    {
+      "type": "车辆服务",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    }
+  ]
+}

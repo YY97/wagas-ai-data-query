@@ -1,0 +1,163 @@
+{
+  "name": "BHG Mall北京华联天时名苑购物中心",
+  "city": "北京市",
+  "address": "北京市昌平区旧西路6号",
+  "lat": 40.234928,
+  "lng": 116.190673,
+  "overview": {
+    "score": 91.6,
+    "score_rank": "市内前30%",
+    "population_score": 62.8,
+    "area_score": 67.8,
+    "consumption_score": 60.0,
+    "industry_score": 91.8,
+    "annual_sales": "5",
+    "annual_sales_unit": "亿元",
+    "area_size_sqm": 16.0,
+    "open_date": "2020-12-28",
+    "operator": "珠海万达商业管理集团股份有限公司",
+    "brand": "万达",
+    "type": "综合型",
+    "floors": "B1-L3"
+  },
+  "traffic": {
+    "annual_daily": 2.48,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第99",
+    "jun_total": 86.6,
+    "jun_total_rank": "市内商场第106名",
+    "jun_daily_avg": 2.9,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第106名",
+    "weekday_avg": 2.5,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第120名",
+    "holiday_avg": 3.9,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第94名"
+  },
+  "population": {
+    "residential": {
+      "500m": 1400.0,
+      "1_5km": 2.5,
+      "3km": 11.6
+    },
+    "office": {
+      "500m": 2500.0,
+      "1_5km": 9800.0,
+      "3km": 3.9
+    },
+    "permanent": {
+      "500m": 4000.0,
+      "1_5km": 2.2,
+      "3km": 10.7
+    }
+  },
+  "business": {
+    "competitors": 3.0,
+    "food": 63.0,
+    "shopping": 80.0,
+    "leisure": 24.0,
+    "education": null,
+    "hotel": 4.0,
+    "services": 14.0,
+    "fitness": 8.0,
+    "auto": 11.0,
+    "total_stores": 181.0,
+    "old_store_3yr_pct": 56.0
+  },
+  "nearby_poi": {
+    "business": null,
+    "community": 52.0,
+    "office": 1.0,
+    "school": 7.0,
+    "hospital": 28.0,
+    "transport": 5.0,
+    "scenic": 15.0
+  },
+  "demographics": {
+    "male_pct": 50.4,
+    "female_pct": null,
+    "education": {
+      "小学": 10.6,
+      "初中": 20.1,
+      "高中": 12.7,
+      "大专": 8.5,
+      "本科": 43.5,
+      "硕士": 3.6,
+      "博士": 1.0
+    },
+    "has_children_pct": 67.4,
+    "no_children_pct": 32.6
+  },
+  "scraped_at": "2026-08-01T06:13:17.469Z",
+  "nearby_restaurants": [
+    {
+      "brand": "北京乐多港万豪酒店-万豪中餐厅",
+      "address": "南口路29号北京乐多港万豪酒店",
+      "distance": "314m"
+    },
+    {
+      "brand": "阿香米线(北京多乐港万达餐厅)",
+      "address": "城南街道南口路29号乐多港万达广场餐饮街1F-1156",
+      "distance": "417m"
+    },
+    {
+      "brand": "龙都王婆大虾(G6辅路店)",
+      "address": "G6辅路与旧西路辅路交叉口东100米",
+      "distance": "473m"
+    }
+  ],
+  "nearby_malls": [],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 57.0,
+      "within_1yr_pct": 15.8,
+      "1_3yr_pct": 22.8,
+      "over_3yr_pct": 61.4
+    },
+    {
+      "type": "购物",
+      "count": 75.0,
+      "within_1yr_pct": 13.3,
+      "1_3yr_pct": 29.3,
+      "over_3yr_pct": 57.3
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 21.0,
+      "within_1yr_pct": 28.6,
+      "1_3yr_pct": 23.8,
+      "over_3yr_pct": 47.6
+    },
+    {
+      "type": "酒店住宿",
+      "count": 2.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "生活服务",
+      "count": 11.0,
+      "within_1yr_pct": 45.5,
+      "1_3yr_pct": 18.2,
+      "over_3yr_pct": 36.4
+    },
+    {
+      "type": "运动健身",
+      "count": 6.0,
+      "within_1yr_pct": 16.7,
+      "1_3yr_pct": 16.7,
+      "over_3yr_pct": 66.7
+    },
+    {
+      "type": "车辆服务",
+      "count": 9.0,
+      "within_1yr_pct": 11.1,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 55.6
+    }
+  ]
+}

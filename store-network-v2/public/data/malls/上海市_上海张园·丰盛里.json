@@ -1,0 +1,486 @@
+{
+  "name": "上海张园·丰盛里",
+  "city": "上海市",
+  "address": "上海市静安区南京西路街道南京西路1081弄89号静安别墅",
+  "lat": 31.227484,
+  "lng": 121.458383,
+  "overview": {
+    "score": 89.5,
+    "score_rank": "市内前30%",
+    "population_score": 86.9,
+    "area_score": 100.0,
+    "consumption_score": 88.3,
+    "industry_score": 89.5,
+    "annual_sales": "",
+    "annual_sales_unit": "",
+    "area_size_sqm": null,
+    "open_date": "",
+    "operator": "",
+    "brand": "",
+    "type": "",
+    "floors": ""
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "",
+    "annual_daily_rank": "",
+    "jun_total": null,
+    "jun_total_rank": "",
+    "jun_daily_avg": null,
+    "jun_daily_unit": "",
+    "jun_daily_rank": "",
+    "weekday_avg": null,
+    "weekday_unit": "",
+    "weekday_rank": "",
+    "holiday_avg": null,
+    "holiday_unit": "",
+    "holiday_rank": ""
+  },
+  "population": {
+    "residential": {
+      "500m": 2.1,
+      "1_5km": 21.1,
+      "3km": 94.4
+    },
+    "office": {
+      "500m": 5.0,
+      "1_5km": 31.3,
+      "3km": 110.8
+    },
+    "permanent": {
+      "500m": 3.1,
+      "1_5km": 27.3,
+      "3km": 116.4
+    }
+  },
+  "business": {
+    "competitors": 16.0,
+    "food": 524.0,
+    "shopping": 492.0,
+    "leisure": 29.0,
+    "education": 34.0,
+    "hotel": 107.0,
+    "services": 321.0,
+    "fitness": 25.0,
+    "auto": 40.0,
+    "total_stores": 1602.0,
+    "old_store_3yr_pct": 47.0
+  },
+  "nearby_poi": {
+    "business": 27.0,
+    "community": 1202.0,
+    "office": 211.0,
+    "school": 73.0,
+    "hospital": 227.0,
+    "transport": 14.0,
+    "scenic": 784.0
+  },
+  "demographics": {
+    "male_pct": 47.7,
+    "female_pct": null,
+    "education": {
+      "小学": 9.1,
+      "初中": 17.8,
+      "高中": 11.9,
+      "大专": 6.8,
+      "本科": 47.9,
+      "硕士": 4.8,
+      "博士": 1.7
+    },
+    "has_children_pct": null,
+    "no_children_pct": null
+  },
+  "scraped_at": "2026-07-31T16:13:14.396Z",
+  "nearby_restaurants": [
+    {
+      "brand": "开开小院",
+      "address": "南京西路1081弄51号一楼",
+      "distance": "90m"
+    },
+    {
+      "brand": "梅龙镇酒家(南京西路总店)",
+      "address": "南京西路1081弄22号(南京西路地铁站1号口步行280米)",
+      "distance": "91m"
+    },
+    {
+      "brand": "Star bar茶咖",
+      "address": "威海路652弄之638-692号静安别墅",
+      "distance": "98m"
+    },
+    {
+      "brand": "Leos烘焙DIY个性蛋糕定制(南京西路店)",
+      "address": "南京西路1129弄27号(南京西路地铁站1号口步行390米)",
+      "distance": "105m"
+    },
+    {
+      "brand": "小狮子Lions蛋糕定制·茶歇甜品台",
+      "address": "南京西路1129弄之1-96号安乐坊",
+      "distance": "107m"
+    },
+    {
+      "brand": "Yee3·三号椰(丰盛里店)",
+      "address": "南京西路茂名北路297号丰盛里(南京西路地铁站13号口旁)",
+      "distance": "110m"
+    },
+    {
+      "brand": "金OMAKASE·日本料理(丰盛里店)",
+      "address": "茂名北路281弄16号105单元(南京西路地铁站14号口旁)",
+      "distance": "118m"
+    },
+    {
+      "brand": "富鹿西苑(茂名北路店)",
+      "address": "茂名北路245弄18号2楼(丰盛里)",
+      "distance": "118m"
+    },
+    {
+      "brand": "新镇江酒家(南京西路店)",
+      "address": "南京西路1111号(近江宁路)",
+      "distance": "123m"
+    },
+    {
+      "brand": "Birdie Cup Coffee小鸟杯(丰盛里店)",
+      "address": "茂名北路281弄丰盛里F栋16号1层",
+      "distance": "123m"
+    },
+    {
+      "brand": "开开小院",
+      "address": "南京西路1081弄51号一楼",
+      "distance": "90m"
+    },
+    {
+      "brand": "梅龙镇酒家(南京西路总店)",
+      "address": "南京西路1081弄22号(南京西路地铁站1号口步行280米)",
+      "distance": "91m"
+    },
+    {
+      "brand": "Star bar茶咖",
+      "address": "威海路652弄之638-692号静安别墅",
+      "distance": "98m"
+    },
+    {
+      "brand": "Leos烘焙DIY个性蛋糕定制(南京西路店)",
+      "address": "南京西路1129弄27号(南京西路地铁站1号口步行390米)",
+      "distance": "105m"
+    },
+    {
+      "brand": "小狮子Lions蛋糕定制·茶歇甜品台",
+      "address": "南京西路1129弄之1-96号安乐坊",
+      "distance": "107m"
+    },
+    {
+      "brand": "Yee3·三号椰(丰盛里店)",
+      "address": "南京西路茂名北路297号丰盛里(南京西路地铁站13号口旁)",
+      "distance": "110m"
+    },
+    {
+      "brand": "金OMAKASE·日本料理(丰盛里店)",
+      "address": "茂名北路281弄16号105单元(南京西路地铁站14号口旁)",
+      "distance": "118m"
+    },
+    {
+      "brand": "富鹿西苑(茂名北路店)",
+      "address": "茂名北路245弄18号2楼(丰盛里)",
+      "distance": "118m"
+    },
+    {
+      "brand": "新镇江酒家(南京西路店)",
+      "address": "南京西路1111号(近江宁路)",
+      "distance": "123m"
+    },
+    {
+      "brand": "Birdie Cup Coffee小鸟杯(丰盛里店)",
+      "address": "茂名北路281弄丰盛里F栋16号1层",
+      "distance": "123m"
+    },
+    {
+      "brand": "开开小院",
+      "address": "南京西路1081弄51号一楼",
+      "distance": "90m"
+    },
+    {
+      "brand": "梅龙镇酒家(南京西路总店)",
+      "address": "南京西路1081弄22号(南京西路地铁站1号口步行280米)",
+      "distance": "91m"
+    },
+    {
+      "brand": "Star bar茶咖",
+      "address": "威海路652弄之638-692号静安别墅",
+      "distance": "98m"
+    },
+    {
+      "brand": "Leos烘焙DIY个性蛋糕定制(南京西路店)",
+      "address": "南京西路1129弄27号(南京西路地铁站1号口步行390米)",
+      "distance": "105m"
+    },
+    {
+      "brand": "小狮子Lions蛋糕定制·茶歇甜品台",
+      "address": "南京西路1129弄之1-96号安乐坊",
+      "distance": "107m"
+    },
+    {
+      "brand": "Yee3·三号椰(丰盛里店)",
+      "address": "南京西路茂名北路297号丰盛里(南京西路地铁站13号口旁)",
+      "distance": "110m"
+    },
+    {
+      "brand": "金OMAKASE·日本料理(丰盛里店)",
+      "address": "茂名北路281弄16号105单元(南京西路地铁站14号口旁)",
+      "distance": "118m"
+    },
+    {
+      "brand": "富鹿西苑(茂名北路店)",
+      "address": "茂名北路245弄18号2楼(丰盛里)",
+      "distance": "118m"
+    },
+    {
+      "brand": "新镇江酒家(南京西路店)",
+      "address": "南京西路1111号(近江宁路)",
+      "distance": "123m"
+    },
+    {
+      "brand": "Birdie Cup Coffee小鸟杯(丰盛里店)",
+      "address": "茂名北路281弄丰盛里F栋16号1层",
+      "distance": "123m"
+    },
+    {
+      "brand": "开开小院",
+      "address": "南京西路1081弄51号一楼",
+      "distance": "90m"
+    },
+    {
+      "brand": "梅龙镇酒家(南京西路总店)",
+      "address": "南京西路1081弄22号(南京西路地铁站1号口步行280米)",
+      "distance": "91m"
+    },
+    {
+      "brand": "Star bar茶咖",
+      "address": "威海路652弄之638-692号静安别墅",
+      "distance": "98m"
+    },
+    {
+      "brand": "Leos烘焙DIY个性蛋糕定制(南京西路店)",
+      "address": "南京西路1129弄27号(南京西路地铁站1号口步行390米)",
+      "distance": "105m"
+    },
+    {
+      "brand": "小狮子Lions蛋糕定制·茶歇甜品台",
+      "address": "南京西路1129弄之1-96号安乐坊",
+      "distance": "107m"
+    },
+    {
+      "brand": "Yee3·三号椰(丰盛里店)",
+      "address": "南京西路茂名北路297号丰盛里(南京西路地铁站13号口旁)",
+      "distance": "110m"
+    },
+    {
+      "brand": "金OMAKASE·日本料理(丰盛里店)",
+      "address": "茂名北路281弄16号105单元(南京西路地铁站14号口旁)",
+      "distance": "118m"
+    },
+    {
+      "brand": "富鹿西苑(茂名北路店)",
+      "address": "茂名北路245弄18号2楼(丰盛里)",
+      "distance": "118m"
+    },
+    {
+      "brand": "新镇江酒家(南京西路店)",
+      "address": "南京西路1111号(近江宁路)",
+      "distance": "123m"
+    },
+    {
+      "brand": "Birdie Cup Coffee小鸟杯(丰盛里店)",
+      "address": "茂名北路281弄丰盛里F栋16号1层",
+      "distance": "123m"
+    },
+    {
+      "brand": "开开小院",
+      "address": "南京西路1081弄51号一楼",
+      "distance": "90m"
+    },
+    {
+      "brand": "梅龙镇酒家(南京西路总店)",
+      "address": "南京西路1081弄22号(南京西路地铁站1号口步行280米)",
+      "distance": "91m"
+    },
+    {
+      "brand": "Star bar茶咖",
+      "address": "威海路652弄之638-692号静安别墅",
+      "distance": "98m"
+    },
+    {
+      "brand": "Leos烘焙DIY个性蛋糕定制(南京西路店)",
+      "address": "南京西路1129弄27号(南京西路地铁站1号口步行390米)",
+      "distance": "105m"
+    },
+    {
+      "brand": "小狮子Lions蛋糕定制·茶歇甜品台",
+      "address": "南京西路1129弄之1-96号安乐坊",
+      "distance": "107m"
+    },
+    {
+      "brand": "Yee3·三号椰(丰盛里店)",
+      "address": "南京西路茂名北路297号丰盛里(南京西路地铁站13号口旁)",
+      "distance": "110m"
+    },
+    {
+      "brand": "金OMAKASE·日本料理(丰盛里店)",
+      "address": "茂名北路281弄16号105单元(南京西路地铁站14号口旁)",
+      "distance": "118m"
+    },
+    {
+      "brand": "富鹿西苑(茂名北路店)",
+      "address": "茂名北路245弄18号2楼(丰盛里)",
+      "distance": "118m"
+    },
+    {
+      "brand": "新镇江酒家(南京西路店)",
+      "address": "南京西路1111号(近江宁路)",
+      "distance": "123m"
+    },
+    {
+      "brand": "Birdie Cup Coffee小鸟杯(丰盛里店)",
+      "address": "茂名北路281弄丰盛里F栋16号1层",
+      "distance": "123m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海张园·丰盛里",
+      "open_date": "2017-04-01",
+      "area": "1.4万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海中信泰富广场",
+      "open_date": "2002-06-15",
+      "area": "3.5万㎡",
+      "jun_daily_avg": "1.1万人次",
+      "weekday_avg": "1.1万人次",
+      "holiday_avg": "1.1万人次"
+    },
+    {
+      "name": "上海湟普汇商场",
+      "open_date": "-",
+      "area": "2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海通利商厦",
+      "open_date": "2004-11-01",
+      "area": "-",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海金鹰国际购物广场",
+      "open_date": "2024-01-26",
+      "area": "3.8万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海JC PLAZA锦沧文华广场",
+      "open_date": "2022-08-18",
+      "area": "2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海恒隆广场",
+      "open_date": "2001-07-14",
+      "area": "11.4万㎡",
+      "jun_daily_avg": "2.2万人次",
+      "weekday_avg": "2.2万人次",
+      "holiday_avg": "2万人次"
+    },
+    {
+      "name": "上海南京西路818广场",
+      "open_date": "2009-10-26",
+      "area": "2.1万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海兴业太古汇",
+      "open_date": "2017-11-03",
+      "area": "10.3万㎡",
+      "jun_daily_avg": "6万人次",
+      "weekday_avg": "5.9万人次",
+      "holiday_avg": "6.4万人次"
+    },
+    {
+      "name": "上海商城",
+      "open_date": "1990-04-27",
+      "area": "3万㎡",
+      "jun_daily_avg": "1.2万人次",
+      "weekday_avg": "1.2万人次",
+      "holiday_avg": "1.3万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 524.0,
+      "within_1yr_pct": 23.1,
+      "1_3yr_pct": 27.9,
+      "over_3yr_pct": 49.0
+    },
+    {
+      "type": "购物",
+      "count": 492.0,
+      "within_1yr_pct": 21.3,
+      "1_3yr_pct": 30.7,
+      "over_3yr_pct": 48.0
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 59.0,
+      "within_1yr_pct": 28.8,
+      "1_3yr_pct": 44.1,
+      "over_3yr_pct": 27.1
+    },
+    {
+      "type": "教育培训",
+      "count": 34.0,
+      "within_1yr_pct": 29.4,
+      "1_3yr_pct": 32.4,
+      "over_3yr_pct": 38.2
+    },
+    {
+      "type": "酒店住宿",
+      "count": 107.0,
+      "within_1yr_pct": 37.4,
+      "1_3yr_pct": 26.2,
+      "over_3yr_pct": 36.4
+    },
+    {
+      "type": "生活服务",
+      "count": 321.0,
+      "within_1yr_pct": 25.5,
+      "1_3yr_pct": 24.0,
+      "over_3yr_pct": 50.5
+    },
+    {
+      "type": "运动健身",
+      "count": 25.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 32.0,
+      "over_3yr_pct": 48.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 40.0,
+      "within_1yr_pct": 30.0,
+      "1_3yr_pct": 30.0,
+      "over_3yr_pct": 40.0
+    }
+  ]
+}

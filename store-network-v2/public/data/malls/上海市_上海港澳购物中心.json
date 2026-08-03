@@ -1,0 +1,381 @@
+{
+  "name": "上海港澳购物中心",
+  "city": "上海市",
+  "address": "上海市闵行区水清路1550弄之1-31号",
+  "lat": 31.13555,
+  "lng": 121.37262,
+  "overview": {
+    "score": null,
+    "score_rank": "",
+    "population_score": 76.9,
+    "area_score": 66.4,
+    "consumption_score": 73.9,
+    "industry_score": 67.2,
+    "annual_sales": "上海港澳购物中心位于上海市闵行区水清路1500号，是沪上唯一一家CEPA概念购物中心 购物中心最初以港澳零关税商品为主，包括服装、食品、家居、化妆品、礼品等各行各业的香港中小企业 2005年初期，来自港澳的众多商户纷纷集聚于此，但大多数香港品牌已经撤离，仅有马百良等一些香港著名的老品牌继续留下来 购物中心后来转型为立足于社区的休闲购物中心，耗资1000万元将商场重新装修，并引进大润发超市 购物中心还引入了上海第一家美国布奇儿童中心，占地达到1800多平米，并保留了原港澳购物中心香港免税商品的一些特色，设置了“港澳服饰”商厦 然而，大润发上海港澳店于2017年3月24日正式关闭，这是大润发自1998年进入中国内地市场以来，继大润发潍一广场店后将关闭的第二家门店",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 3.6,
+    "open_date": "",
+    "operator": "",
+    "brand": "",
+    "type": "购物型",
+    "floors": ""
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "-",
+    "annual_daily_rank": "",
+    "jun_total": null,
+    "jun_total_rank": "",
+    "jun_daily_avg": null,
+    "jun_daily_unit": "",
+    "jun_daily_rank": "",
+    "weekday_avg": null,
+    "weekday_unit": "",
+    "weekday_rank": "",
+    "holiday_avg": null,
+    "holiday_unit": "",
+    "holiday_rank": ""
+  },
+  "population": {
+    "residential": {
+      "500m": 1.3,
+      "1_5km": 11.6,
+      "3km": 58.9
+    },
+    "office": {
+      "500m": 4400.0,
+      "1_5km": 8.6,
+      "3km": 32.1
+    },
+    "permanent": {
+      "500m": 1.3,
+      "1_5km": 12.1,
+      "3km": 59.0
+    }
+  },
+  "business": {
+    "competitors": null,
+    "food": 35.0,
+    "shopping": 77.0,
+    "leisure": 8.0,
+    "education": 3.0,
+    "hotel": 9.0,
+    "services": 32.0,
+    "fitness": 5.0,
+    "auto": 12.0,
+    "total_stores": 30.0,
+    "old_store_3yr_pct": 77.0
+  },
+  "nearby_poi": {
+    "business": 4.0,
+    "community": 288.0,
+    "office": 36.0,
+    "school": 24.0,
+    "hospital": 37.0,
+    "transport": 5.0,
+    "scenic": 134.0
+  },
+  "demographics": {
+    "male_pct": 49.4,
+    "female_pct": null,
+    "education": {
+      "小学": 9.3,
+      "初中": 16.8,
+      "高中": 11.0,
+      "大专": 7.5,
+      "本科": 48.5,
+      "硕士": 5.6,
+      "博士": 1.3
+    },
+    "has_children_pct": 64.7,
+    "no_children_pct": 35.3
+  },
+  "scraped_at": "2026-07-31T16:53:28.452Z",
+  "nearby_restaurants": [
+    {
+      "brand": "古度茶和(港澳购物中心店)",
+      "address": "水清路港澳购物中心",
+      "distance": "35m"
+    },
+    {
+      "brand": "食惠饭店",
+      "address": "莘庄镇水清路1460弄3号104食惠饭店(港澳购物中心)",
+      "distance": "37m"
+    },
+    {
+      "brand": "闽馨风味馆(港澳购物中心店)",
+      "address": "莘庄镇水清路1460弄4号101-1",
+      "distance": "47m"
+    },
+    {
+      "brand": "吉林烧烤",
+      "address": "水清路与黎安路交叉口西北280米",
+      "distance": "64m"
+    },
+    {
+      "brand": "7碗茶社(闵莘茶城店)",
+      "address": "莘庄镇水清路1500号闵莘茶城",
+      "distance": "77m"
+    },
+    {
+      "brand": "小马烧烤(港澳购物中心店)",
+      "address": "水清路1460弄1号104室",
+      "distance": "90m"
+    },
+    {
+      "brand": "红旗羊肉店",
+      "address": "莘庄镇水清路1390号101、102、103、201室(莘邦市场)外一层C-37",
+      "distance": "95m"
+    },
+    {
+      "brand": "闲时",
+      "address": "水清路1390号101、102、103室(莘邦市场)外一层C-33、C-35、C-36",
+      "distance": "104m"
+    },
+    {
+      "brand": "润味小馆",
+      "address": "水清路与黎安路交叉口北200米",
+      "distance": "106m"
+    },
+    {
+      "brand": "新月馄饨(鑫米市集店)",
+      "address": "水清路1390号鑫米市集C-32",
+      "distance": "110m"
+    },
+    {
+      "brand": "古度茶和(港澳购物中心店)",
+      "address": "水清路港澳购物中心",
+      "distance": "35m"
+    },
+    {
+      "brand": "食惠饭店",
+      "address": "莘庄镇水清路1460弄3号104食惠饭店(港澳购物中心)",
+      "distance": "37m"
+    },
+    {
+      "brand": "闽馨风味馆(港澳购物中心店)",
+      "address": "莘庄镇水清路1460弄4号101-1",
+      "distance": "47m"
+    },
+    {
+      "brand": "吉林烧烤",
+      "address": "水清路与黎安路交叉口西北280米",
+      "distance": "64m"
+    },
+    {
+      "brand": "7碗茶社(闵莘茶城店)",
+      "address": "莘庄镇水清路1500号闵莘茶城",
+      "distance": "77m"
+    },
+    {
+      "brand": "小马烧烤(港澳购物中心店)",
+      "address": "水清路1460弄1号104室",
+      "distance": "90m"
+    },
+    {
+      "brand": "红旗羊肉店",
+      "address": "莘庄镇水清路1390号101、102、103、201室(莘邦市场)外一层C-37",
+      "distance": "95m"
+    },
+    {
+      "brand": "闲时",
+      "address": "水清路1390号101、102、103室(莘邦市场)外一层C-33、C-35、C-36",
+      "distance": "104m"
+    },
+    {
+      "brand": "润味小馆",
+      "address": "水清路与黎安路交叉口北200米",
+      "distance": "106m"
+    },
+    {
+      "brand": "新月馄饨(鑫米市集店)",
+      "address": "水清路1390号鑫米市集C-32",
+      "distance": "110m"
+    },
+    {
+      "brand": "古度茶和(港澳购物中心店)",
+      "address": "水清路港澳购物中心",
+      "distance": "35m"
+    },
+    {
+      "brand": "食惠饭店",
+      "address": "莘庄镇水清路1460弄3号104食惠饭店(港澳购物中心)",
+      "distance": "37m"
+    },
+    {
+      "brand": "闽馨风味馆(港澳购物中心店)",
+      "address": "莘庄镇水清路1460弄4号101-1",
+      "distance": "47m"
+    },
+    {
+      "brand": "吉林烧烤",
+      "address": "水清路与黎安路交叉口西北280米",
+      "distance": "64m"
+    },
+    {
+      "brand": "7碗茶社(闵莘茶城店)",
+      "address": "莘庄镇水清路1500号闵莘茶城",
+      "distance": "77m"
+    },
+    {
+      "brand": "小马烧烤(港澳购物中心店)",
+      "address": "水清路1460弄1号104室",
+      "distance": "90m"
+    },
+    {
+      "brand": "红旗羊肉店",
+      "address": "莘庄镇水清路1390号101、102、103、201室(莘邦市场)外一层C-37",
+      "distance": "95m"
+    },
+    {
+      "brand": "闲时",
+      "address": "水清路1390号101、102、103室(莘邦市场)外一层C-33、C-35、C-36",
+      "distance": "104m"
+    },
+    {
+      "brand": "润味小馆",
+      "address": "水清路与黎安路交叉口北200米",
+      "distance": "106m"
+    },
+    {
+      "brand": "新月馄饨(鑫米市集店)",
+      "address": "水清路1390号鑫米市集C-32",
+      "distance": "110m"
+    },
+    {
+      "brand": "古度茶和(港澳购物中心店)",
+      "address": "水清路港澳购物中心",
+      "distance": "35m"
+    },
+    {
+      "brand": "食惠饭店",
+      "address": "莘庄镇水清路1460弄3号104食惠饭店(港澳购物中心)",
+      "distance": "37m"
+    },
+    {
+      "brand": "闽馨风味馆(港澳购物中心店)",
+      "address": "莘庄镇水清路1460弄4号101-1",
+      "distance": "47m"
+    },
+    {
+      "brand": "吉林烧烤",
+      "address": "水清路与黎安路交叉口西北280米",
+      "distance": "64m"
+    },
+    {
+      "brand": "7碗茶社(闵莘茶城店)",
+      "address": "莘庄镇水清路1500号闵莘茶城",
+      "distance": "77m"
+    },
+    {
+      "brand": "小马烧烤(港澳购物中心店)",
+      "address": "水清路1460弄1号104室",
+      "distance": "90m"
+    },
+    {
+      "brand": "红旗羊肉店",
+      "address": "莘庄镇水清路1390号101、102、103、201室(莘邦市场)外一层C-37",
+      "distance": "95m"
+    },
+    {
+      "brand": "闲时",
+      "address": "水清路1390号101、102、103室(莘邦市场)外一层C-33、C-35、C-36",
+      "distance": "104m"
+    },
+    {
+      "brand": "润味小馆",
+      "address": "水清路与黎安路交叉口北200米",
+      "distance": "106m"
+    },
+    {
+      "brand": "新月馄饨(鑫米市集店)",
+      "address": "水清路1390号鑫米市集C-32",
+      "distance": "110m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海红象汇",
+      "open_date": "2023-09-28",
+      "area": "3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海莘庄维璟印象城",
+      "open_date": "2017-01-01",
+      "area": "12万㎡",
+      "jun_daily_avg": "4万人次",
+      "weekday_avg": "3.8万人次",
+      "holiday_avg": "4.5万人次"
+    },
+    {
+      "name": "上海平金中心",
+      "open_date": "2022-06-25",
+      "area": "2.5万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海七莘红点城",
+      "open_date": "2017-01-01",
+      "area": "5万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 5.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 20.0,
+      "over_3yr_pct": 80.0
+    },
+    {
+      "type": "购物",
+      "count": 11.0,
+      "within_1yr_pct": 9.1,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 90.9
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 3.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 66.7
+    },
+    {
+      "type": "教育培训",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 3.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    },
+    {
+      "type": "生活服务",
+      "count": 5.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 20.0,
+      "over_3yr_pct": 60.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
+    }
+  ]
+}

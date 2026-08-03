@@ -1,0 +1,393 @@
+{
+  "name": "小站公园STATION PARK",
+  "city": "北京市",
+  "address": "北京市昌平区东小口镇龙锦一街37号院",
+  "lat": 40.09039,
+  "lng": 116.354571,
+  "overview": {
+    "score": null,
+    "score_rank": "",
+    "population_score": 87.6,
+    "area_score": 65.1,
+    "consumption_score": 71.2,
+    "industry_score": 67.6,
+    "annual_sales": "",
+    "annual_sales_unit": "",
+    "area_size_sqm": 3.3,
+    "open_date": "2025-10-01",
+    "operator": "京投发展股份有限公司",
+    "brand": "",
+    "type": "",
+    "floors": ""
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "-",
+    "annual_daily_rank": "",
+    "jun_total": null,
+    "jun_total_rank": "",
+    "jun_daily_avg": null,
+    "jun_daily_unit": "",
+    "jun_daily_rank": "",
+    "weekday_avg": null,
+    "weekday_unit": "",
+    "weekday_rank": "",
+    "holiday_avg": null,
+    "holiday_unit": "",
+    "holiday_rank": ""
+  },
+  "population": {
+    "residential": {
+      "500m": 2.0,
+      "1_5km": 11.3,
+      "3km": 47.5
+    },
+    "office": {
+      "500m": 5200.0,
+      "1_5km": 3.7,
+      "3km": 15.7
+    },
+    "permanent": {
+      "500m": 1.8,
+      "1_5km": 10.2,
+      "3km": 41.9
+    }
+  },
+  "business": {
+    "competitors": 1.0,
+    "food": 59.0,
+    "shopping": 26.0,
+    "leisure": 8.0,
+    "education": 8.0,
+    "hotel": 3.0,
+    "services": 29.0,
+    "fitness": 12.0,
+    "auto": 1.0,
+    "total_stores": 50.0,
+    "old_store_3yr_pct": 0.0
+  },
+  "nearby_poi": {
+    "business": 1.0,
+    "community": 166.0,
+    "office": 7.0,
+    "school": 20.0,
+    "hospital": 54.0,
+    "transport": 5.0,
+    "scenic": 51.0
+  },
+  "demographics": {
+    "male_pct": 50.4,
+    "female_pct": null,
+    "education": {
+      "小学": 6.6,
+      "初中": 11.8,
+      "高中": 11.0,
+      "大专": 7.2,
+      "本科": 51.5,
+      "硕士": 10.1,
+      "博士": 1.8
+    },
+    "has_children_pct": 59.8,
+    "no_children_pct": 40.2
+  },
+  "scraped_at": "2026-08-01T23:54:31.300Z",
+  "nearby_restaurants": [
+    {
+      "brand": "水货之光·碳烤海鲜食集",
+      "address": "回龙观回南北路小站公园3层002",
+      "distance": "13m"
+    },
+    {
+      "brand": "塔挞·西式酥点商店(小站公园店)",
+      "address": "回南北路与文华东路交叉口东200米小站公园商场1层",
+      "distance": "33m"
+    },
+    {
+      "brand": "麦记牛奶公司(昌平小站公园店)",
+      "address": "北京城区平西府地铁口小站公园商业1层1F-017",
+      "distance": "33m"
+    },
+    {
+      "brand": "新京烧·天妇罗牛排饭(小站公园店)",
+      "address": "小站公园STATIONPARK1层",
+      "distance": "34m"
+    },
+    {
+      "brand": "福家窑烤披萨",
+      "address": "北京城区回龙观平西府地铁站B口小站公园2层",
+      "distance": "38m"
+    },
+    {
+      "brand": "沙胆彪炭炉牛杂煲(北京小站公园店)",
+      "address": "霍营街道回南北路与文华东路交叉口东100米小站公园商场2楼003号",
+      "distance": "50m"
+    },
+    {
+      "brand": "瑞幸咖啡(小站公园店)",
+      "address": "东小口镇龙锦一街37号院二区26号楼B1层B1-019号",
+      "distance": "60m"
+    },
+    {
+      "brand": "七天牧场牛奶面包(小站公园店)",
+      "address": "北京城区北京城区龙锦一街37号院2区26号楼B1-022",
+      "distance": "62m"
+    },
+    {
+      "brand": "蓬松FLUFFY MARKET(小站公园店)",
+      "address": "东小口镇回南北路小站公园1层012(平西府地铁站B东北口旁)",
+      "distance": "65m"
+    },
+    {
+      "brand": "金烫烫围炉麻辣烫(小站公园店)",
+      "address": "回南北路小站公园购物中心-1层",
+      "distance": "70m"
+    },
+    {
+      "brand": "水货之光·碳烤海鲜食集",
+      "address": "回龙观回南北路小站公园3层002",
+      "distance": "13m"
+    },
+    {
+      "brand": "塔挞·西式酥点商店(小站公园店)",
+      "address": "回南北路与文华东路交叉口东200米小站公园商场1层",
+      "distance": "33m"
+    },
+    {
+      "brand": "麦记牛奶公司(昌平小站公园店)",
+      "address": "北京城区平西府地铁口小站公园商业1层1F-017",
+      "distance": "33m"
+    },
+    {
+      "brand": "新京烧·天妇罗牛排饭(小站公园店)",
+      "address": "小站公园STATIONPARK1层",
+      "distance": "34m"
+    },
+    {
+      "brand": "福家窑烤披萨",
+      "address": "北京城区回龙观平西府地铁站B口小站公园2层",
+      "distance": "38m"
+    },
+    {
+      "brand": "沙胆彪炭炉牛杂煲(北京小站公园店)",
+      "address": "霍营街道回南北路与文华东路交叉口东100米小站公园商场2楼003号",
+      "distance": "50m"
+    },
+    {
+      "brand": "瑞幸咖啡(小站公园店)",
+      "address": "东小口镇龙锦一街37号院二区26号楼B1层B1-019号",
+      "distance": "60m"
+    },
+    {
+      "brand": "七天牧场牛奶面包(小站公园店)",
+      "address": "北京城区北京城区龙锦一街37号院2区26号楼B1-022",
+      "distance": "62m"
+    },
+    {
+      "brand": "蓬松FLUFFY MARKET(小站公园店)",
+      "address": "东小口镇回南北路小站公园1层012(平西府地铁站B东北口旁)",
+      "distance": "65m"
+    },
+    {
+      "brand": "金烫烫围炉麻辣烫(小站公园店)",
+      "address": "回南北路小站公园购物中心-1层",
+      "distance": "70m"
+    },
+    {
+      "brand": "水货之光·碳烤海鲜食集",
+      "address": "回龙观回南北路小站公园3层002",
+      "distance": "13m"
+    },
+    {
+      "brand": "塔挞·西式酥点商店(小站公园店)",
+      "address": "回南北路与文华东路交叉口东200米小站公园商场1层",
+      "distance": "33m"
+    },
+    {
+      "brand": "麦记牛奶公司(昌平小站公园店)",
+      "address": "北京城区平西府地铁口小站公园商业1层1F-017",
+      "distance": "33m"
+    },
+    {
+      "brand": "新京烧·天妇罗牛排饭(小站公园店)",
+      "address": "小站公园STATIONPARK1层",
+      "distance": "34m"
+    },
+    {
+      "brand": "福家窑烤披萨",
+      "address": "北京城区回龙观平西府地铁站B口小站公园2层",
+      "distance": "38m"
+    },
+    {
+      "brand": "沙胆彪炭炉牛杂煲(北京小站公园店)",
+      "address": "霍营街道回南北路与文华东路交叉口东100米小站公园商场2楼003号",
+      "distance": "50m"
+    },
+    {
+      "brand": "瑞幸咖啡(小站公园店)",
+      "address": "东小口镇龙锦一街37号院二区26号楼B1层B1-019号",
+      "distance": "60m"
+    },
+    {
+      "brand": "七天牧场牛奶面包(小站公园店)",
+      "address": "北京城区北京城区龙锦一街37号院2区26号楼B1-022",
+      "distance": "62m"
+    },
+    {
+      "brand": "蓬松FLUFFY MARKET(小站公园店)",
+      "address": "东小口镇回南北路小站公园1层012(平西府地铁站B东北口旁)",
+      "distance": "65m"
+    },
+    {
+      "brand": "金烫烫围炉麻辣烫(小站公园店)",
+      "address": "回南北路小站公园购物中心-1层",
+      "distance": "70m"
+    },
+    {
+      "brand": "水货之光·碳烤海鲜食集",
+      "address": "回龙观回南北路小站公园3层002",
+      "distance": "13m"
+    },
+    {
+      "brand": "塔挞·西式酥点商店(小站公园店)",
+      "address": "回南北路与文华东路交叉口东200米小站公园商场1层",
+      "distance": "33m"
+    },
+    {
+      "brand": "麦记牛奶公司(昌平小站公园店)",
+      "address": "北京城区平西府地铁口小站公园商业1层1F-017",
+      "distance": "33m"
+    },
+    {
+      "brand": "新京烧·天妇罗牛排饭(小站公园店)",
+      "address": "小站公园STATIONPARK1层",
+      "distance": "34m"
+    },
+    {
+      "brand": "福家窑烤披萨",
+      "address": "北京城区回龙观平西府地铁站B口小站公园2层",
+      "distance": "38m"
+    },
+    {
+      "brand": "沙胆彪炭炉牛杂煲(北京小站公园店)",
+      "address": "霍营街道回南北路与文华东路交叉口东100米小站公园商场2楼003号",
+      "distance": "50m"
+    },
+    {
+      "brand": "瑞幸咖啡(小站公园店)",
+      "address": "东小口镇龙锦一街37号院二区26号楼B1层B1-019号",
+      "distance": "60m"
+    },
+    {
+      "brand": "七天牧场牛奶面包(小站公园店)",
+      "address": "北京城区北京城区龙锦一街37号院2区26号楼B1-022",
+      "distance": "62m"
+    },
+    {
+      "brand": "蓬松FLUFFY MARKET(小站公园店)",
+      "address": "东小口镇回南北路小站公园1层012(平西府地铁站B东北口旁)",
+      "distance": "65m"
+    },
+    {
+      "brand": "金烫烫围炉麻辣烫(小站公园店)",
+      "address": "回南北路小站公园购物中心-1层",
+      "distance": "70m"
+    },
+    {
+      "brand": "水货之光·碳烤海鲜食集",
+      "address": "回龙观回南北路小站公园3层002",
+      "distance": "13m"
+    },
+    {
+      "brand": "塔挞·西式酥点商店(小站公园店)",
+      "address": "回南北路与文华东路交叉口东200米小站公园商场1层",
+      "distance": "33m"
+    },
+    {
+      "brand": "麦记牛奶公司(昌平小站公园店)",
+      "address": "北京城区平西府地铁口小站公园商业1层1F-017",
+      "distance": "33m"
+    },
+    {
+      "brand": "新京烧·天妇罗牛排饭(小站公园店)",
+      "address": "小站公园STATIONPARK1层",
+      "distance": "34m"
+    },
+    {
+      "brand": "福家窑烤披萨",
+      "address": "北京城区回龙观平西府地铁站B口小站公园2层",
+      "distance": "38m"
+    },
+    {
+      "brand": "沙胆彪炭炉牛杂煲(北京小站公园店)",
+      "address": "霍营街道回南北路与文华东路交叉口东100米小站公园商场2楼003号",
+      "distance": "50m"
+    },
+    {
+      "brand": "瑞幸咖啡(小站公园店)",
+      "address": "东小口镇龙锦一街37号院二区26号楼B1层B1-019号",
+      "distance": "60m"
+    },
+    {
+      "brand": "七天牧场牛奶面包(小站公园店)",
+      "address": "北京城区北京城区龙锦一街37号院2区26号楼B1-022",
+      "distance": "62m"
+    },
+    {
+      "brand": "蓬松FLUFFY MARKET(小站公园店)",
+      "address": "东小口镇回南北路小站公园1层012(平西府地铁站B东北口旁)",
+      "distance": "65m"
+    },
+    {
+      "brand": "金烫烫围炉麻辣烫(小站公园店)",
+      "address": "回南北路小站公园购物中心-1层",
+      "distance": "70m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "北京回龙观良庄春天里",
+      "open_date": "2022-12-22",
+      "area": "2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 27.0,
+      "within_1yr_pct": 22.2,
+      "1_3yr_pct": 77.8,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "购物",
+      "count": 10.0,
+      "within_1yr_pct": 40.0,
+      "1_3yr_pct": 60.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 6.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 66.7,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "教育培训",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "生活服务",
+      "count": 6.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 0.0
+    }
+  ]
+}

@@ -1,0 +1,479 @@
+{
+  "name": "上海星方汇",
+  "city": "上海市",
+  "address": "上海市普陀区长寿路1118号",
+  "lat": 31.23071,
+  "lng": 121.42717,
+  "overview": {
+    "score": 78.6,
+    "score_rank": "市内前30%",
+    "population_score": 96.7,
+    "area_score": 81.5,
+    "consumption_score": 84.0,
+    "industry_score": 78.5,
+    "annual_sales": "星方汇广场位于曹家渡核心板块，东沿长寿路，南近万航渡路；建筑模式为商业裙房+两栋双子塔楼。其裙楼原案名为芳汇广场，定位为社区综合商场，初始于2006年开业，2018年被建发集团收购后进行了系统化、有机化的升级改造",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 5.0,
+    "open_date": "2019-01-01",
+    "operator": "厦门建发股份有限公司",
+    "brand": "",
+    "type": "休闲娱乐型",
+    "floors": "L1-L5"
+  },
+  "traffic": {
+    "annual_daily": 4438.0,
+    "annual_daily_unit": "人次",
+    "annual_daily_rank": "市内第380",
+    "jun_total": 28.4,
+    "jun_total_rank": "市内商场第319名",
+    "jun_daily_avg": 9459.0,
+    "jun_daily_unit": "人次",
+    "jun_daily_rank": "市内商场第319名",
+    "weekday_avg": 9168.0,
+    "weekday_unit": "人次",
+    "weekday_rank": "市内商场第318名",
+    "holiday_avg": 1.0,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第319名"
+  },
+  "population": {
+    "residential": {
+      "500m": 3.2,
+      "1_5km": 32.1,
+      "3km": 113.2
+    },
+    "office": {
+      "500m": 2.4,
+      "1_5km": 21.1,
+      "3km": 83.1
+    },
+    "permanent": {
+      "500m": 3.5,
+      "1_5km": 34.1,
+      "3km": 122.4
+    }
+  },
+  "business": {
+    "competitors": 6.0,
+    "food": 207.0,
+    "shopping": 117.0,
+    "leisure": 51.0,
+    "education": 36.0,
+    "hotel": 40.0,
+    "services": 201.0,
+    "fitness": 62.0,
+    "auto": 20.0,
+    "total_stores": 128.0,
+    "old_store_3yr_pct": 40.0
+  },
+  "nearby_poi": {
+    "business": 14.0,
+    "community": 1112.0,
+    "office": 124.0,
+    "school": 80.0,
+    "hospital": 150.0,
+    "transport": 14.0,
+    "scenic": 534.0
+  },
+  "demographics": {
+    "male_pct": 48.2,
+    "female_pct": null,
+    "education": {
+      "小学": 8.8,
+      "初中": 17.2,
+      "高中": 11.8,
+      "大专": 6.8,
+      "本科": 48.4,
+      "硕士": 5.2,
+      "博士": 1.8
+    },
+    "has_children_pct": 58.7,
+    "no_children_pct": 41.3
+  },
+  "scraped_at": "2026-07-31T16:35:47.155Z",
+  "nearby_restaurants": [
+    {
+      "brand": "椿风·养身茶饮(星方汇店)",
+      "address": "长寿路1118号星方汇L1层",
+      "distance": "5m"
+    },
+    {
+      "brand": "咖喱小馆Curry Lounge(星方汇店)",
+      "address": "长寿路1118号星方汇一楼",
+      "distance": "6m"
+    },
+    {
+      "brand": "苗功夫(长寿路店)",
+      "address": "长寿路1118号A栋20楼F",
+      "distance": "12m"
+    },
+    {
+      "brand": "50岚(长寿路店)",
+      "address": "长寿路街道长寿路1118号星方汇一层中部C1-02-FT/C1-04-FT号商铺",
+      "distance": "13m"
+    },
+    {
+      "brand": "瑞幸咖啡(远洋星帆广场店)",
+      "address": "长寿路1188号一层L110-1室",
+      "distance": "15m"
+    },
+    {
+      "brand": "柠檬镜眼镜(曹家渡星方汇店)",
+      "address": "长寿路1118号星方汇4楼",
+      "distance": "16m"
+    },
+    {
+      "brand": "喜姐炸串(星方汇店)",
+      "address": "长寿路1118号1层中部C1-03-DT号",
+      "distance": "18m"
+    },
+    {
+      "brand": "屠龍包",
+      "address": "长寿路街道长寿路1118号星方汇广场1楼",
+      "distance": "19m"
+    },
+    {
+      "brand": "小团圆蛋糕店",
+      "address": "长寿路1118号星方汇广场5楼",
+      "distance": "21m"
+    },
+    {
+      "brand": "Manner Coffee(星方汇店)",
+      "address": "长寿路1118号星方汇1层F106B",
+      "distance": "21m"
+    },
+    {
+      "brand": "椿风·养身茶饮(星方汇店)",
+      "address": "长寿路1118号星方汇L1层",
+      "distance": "5m"
+    },
+    {
+      "brand": "咖喱小馆Curry Lounge(星方汇店)",
+      "address": "长寿路1118号星方汇一楼",
+      "distance": "6m"
+    },
+    {
+      "brand": "苗功夫(长寿路店)",
+      "address": "长寿路1118号A栋20楼F",
+      "distance": "12m"
+    },
+    {
+      "brand": "50岚(长寿路店)",
+      "address": "长寿路街道长寿路1118号星方汇一层中部C1-02-FT/C1-04-FT号商铺",
+      "distance": "13m"
+    },
+    {
+      "brand": "瑞幸咖啡(远洋星帆广场店)",
+      "address": "长寿路1188号一层L110-1室",
+      "distance": "15m"
+    },
+    {
+      "brand": "柠檬镜眼镜(曹家渡星方汇店)",
+      "address": "长寿路1118号星方汇4楼",
+      "distance": "16m"
+    },
+    {
+      "brand": "喜姐炸串(星方汇店)",
+      "address": "长寿路1118号1层中部C1-03-DT号",
+      "distance": "18m"
+    },
+    {
+      "brand": "屠龍包",
+      "address": "长寿路街道长寿路1118号星方汇广场1楼",
+      "distance": "19m"
+    },
+    {
+      "brand": "小团圆蛋糕店",
+      "address": "长寿路1118号星方汇广场5楼",
+      "distance": "21m"
+    },
+    {
+      "brand": "Manner Coffee(星方汇店)",
+      "address": "长寿路1118号星方汇1层F106B",
+      "distance": "21m"
+    },
+    {
+      "brand": "椿风·养身茶饮(星方汇店)",
+      "address": "长寿路1118号星方汇L1层",
+      "distance": "5m"
+    },
+    {
+      "brand": "咖喱小馆Curry Lounge(星方汇店)",
+      "address": "长寿路1118号星方汇一楼",
+      "distance": "6m"
+    },
+    {
+      "brand": "苗功夫(长寿路店)",
+      "address": "长寿路1118号A栋20楼F",
+      "distance": "12m"
+    },
+    {
+      "brand": "50岚(长寿路店)",
+      "address": "长寿路街道长寿路1118号星方汇一层中部C1-02-FT/C1-04-FT号商铺",
+      "distance": "13m"
+    },
+    {
+      "brand": "瑞幸咖啡(远洋星帆广场店)",
+      "address": "长寿路1188号一层L110-1室",
+      "distance": "15m"
+    },
+    {
+      "brand": "柠檬镜眼镜(曹家渡星方汇店)",
+      "address": "长寿路1118号星方汇4楼",
+      "distance": "16m"
+    },
+    {
+      "brand": "喜姐炸串(星方汇店)",
+      "address": "长寿路1118号1层中部C1-03-DT号",
+      "distance": "18m"
+    },
+    {
+      "brand": "屠龍包",
+      "address": "长寿路街道长寿路1118号星方汇广场1楼",
+      "distance": "19m"
+    },
+    {
+      "brand": "小团圆蛋糕店",
+      "address": "长寿路1118号星方汇广场5楼",
+      "distance": "21m"
+    },
+    {
+      "brand": "Manner Coffee(星方汇店)",
+      "address": "长寿路1118号星方汇1层F106B",
+      "distance": "21m"
+    },
+    {
+      "brand": "椿风·养身茶饮(星方汇店)",
+      "address": "长寿路1118号星方汇L1层",
+      "distance": "5m"
+    },
+    {
+      "brand": "咖喱小馆Curry Lounge(星方汇店)",
+      "address": "长寿路1118号星方汇一楼",
+      "distance": "6m"
+    },
+    {
+      "brand": "苗功夫(长寿路店)",
+      "address": "长寿路1118号A栋20楼F",
+      "distance": "12m"
+    },
+    {
+      "brand": "50岚(长寿路店)",
+      "address": "长寿路街道长寿路1118号星方汇一层中部C1-02-FT/C1-04-FT号商铺",
+      "distance": "13m"
+    },
+    {
+      "brand": "瑞幸咖啡(远洋星帆广场店)",
+      "address": "长寿路1188号一层L110-1室",
+      "distance": "15m"
+    },
+    {
+      "brand": "柠檬镜眼镜(曹家渡星方汇店)",
+      "address": "长寿路1118号星方汇4楼",
+      "distance": "16m"
+    },
+    {
+      "brand": "喜姐炸串(星方汇店)",
+      "address": "长寿路1118号1层中部C1-03-DT号",
+      "distance": "18m"
+    },
+    {
+      "brand": "屠龍包",
+      "address": "长寿路街道长寿路1118号星方汇广场1楼",
+      "distance": "19m"
+    },
+    {
+      "brand": "小团圆蛋糕店",
+      "address": "长寿路1118号星方汇广场5楼",
+      "distance": "21m"
+    },
+    {
+      "brand": "Manner Coffee(星方汇店)",
+      "address": "长寿路1118号星方汇1层F106B",
+      "distance": "21m"
+    },
+    {
+      "brand": "椿风·养身茶饮(星方汇店)",
+      "address": "长寿路1118号星方汇L1层",
+      "distance": "5m"
+    },
+    {
+      "brand": "咖喱小馆Curry Lounge(星方汇店)",
+      "address": "长寿路1118号星方汇一楼",
+      "distance": "6m"
+    },
+    {
+      "brand": "苗功夫(长寿路店)",
+      "address": "长寿路1118号A栋20楼F",
+      "distance": "12m"
+    },
+    {
+      "brand": "50岚(长寿路店)",
+      "address": "长寿路街道长寿路1118号星方汇一层中部C1-02-FT/C1-04-FT号商铺",
+      "distance": "13m"
+    },
+    {
+      "brand": "瑞幸咖啡(远洋星帆广场店)",
+      "address": "长寿路1188号一层L110-1室",
+      "distance": "15m"
+    },
+    {
+      "brand": "柠檬镜眼镜(曹家渡星方汇店)",
+      "address": "长寿路1118号星方汇4楼",
+      "distance": "16m"
+    },
+    {
+      "brand": "喜姐炸串(星方汇店)",
+      "address": "长寿路1118号1层中部C1-03-DT号",
+      "distance": "18m"
+    },
+    {
+      "brand": "屠龍包",
+      "address": "长寿路街道长寿路1118号星方汇广场1楼",
+      "distance": "19m"
+    },
+    {
+      "brand": "小团圆蛋糕店",
+      "address": "长寿路1118号星方汇广场5楼",
+      "distance": "21m"
+    },
+    {
+      "brand": "Manner Coffee(星方汇店)",
+      "address": "长寿路1118号星方汇1层F106B",
+      "distance": "21m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海悦达889广场",
+      "open_date": "2010-05-05",
+      "area": "4.7万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海KiNG88",
+      "open_date": "2017-09-08",
+      "area": "3.9万㎡",
+      "jun_daily_avg": "1万人次",
+      "weekday_avg": "1万人次",
+      "holiday_avg": "1万人次"
+    },
+    {
+      "name": "上海绿地·柒彩里",
+      "open_date": "2019-03-01",
+      "area": "3.2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海我格广场",
+      "open_date": "2010-06-06",
+      "area": "4.8万㎡",
+      "jun_daily_avg": "1.7万人次",
+      "weekday_avg": "1.6万人次",
+      "holiday_avg": "1.9万人次"
+    },
+    {
+      "name": "上海汇融天地",
+      "open_date": "2013-01-01",
+      "area": "1.7万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海100AM新百安商场",
+      "open_date": "2019-04-21",
+      "area": "3.5万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海米域·这里MIXPACE·HERE",
+      "open_date": "2018-01-01",
+      "area": "1万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海亚新生活广场",
+      "open_date": "1996-12-08",
+      "area": "4.5万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海月星环球港",
+      "open_date": "2013-09-15",
+      "area": "32万㎡",
+      "jun_daily_avg": "8.2万人次",
+      "weekday_avg": "7.5万人次",
+      "holiday_avg": "10.4万人次"
+    },
+    {
+      "name": "上海玫瑰坊",
+      "open_date": "2004-05-01",
+      "area": "1.7万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 20.0,
+      "within_1yr_pct": 40.0,
+      "1_3yr_pct": 20.0,
+      "over_3yr_pct": 40.0
+    },
+    {
+      "type": "购物",
+      "count": 11.0,
+      "within_1yr_pct": 36.4,
+      "1_3yr_pct": 27.3,
+      "over_3yr_pct": 36.4
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 19.0,
+      "within_1yr_pct": 31.6,
+      "1_3yr_pct": 52.6,
+      "over_3yr_pct": 15.8
+    },
+    {
+      "type": "教育培训",
+      "count": 6.0,
+      "within_1yr_pct": 16.7,
+      "1_3yr_pct": 16.7,
+      "over_3yr_pct": 66.7
+    },
+    {
+      "type": "酒店住宿",
+      "count": 1.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "生活服务",
+      "count": 57.0,
+      "within_1yr_pct": 28.1,
+      "1_3yr_pct": 26.3,
+      "over_3yr_pct": 45.6
+    },
+    {
+      "type": "运动健身",
+      "count": 14.0,
+      "within_1yr_pct": 28.6,
+      "1_3yr_pct": 28.6,
+      "over_3yr_pct": 42.9
+    }
+  ]
+}

@@ -1,0 +1,486 @@
+{
+  "name": "北京T+MALL",
+  "city": "北京市",
+  "address": "北京市朝阳区三里屯街道南三里屯路5号三里屯一号场 T+ MALL",
+  "lat": 39.931566,
+  "lng": 116.45511,
+  "overview": {
+    "score": 88.8,
+    "score_rank": "市内前30%",
+    "population_score": 91.4,
+    "area_score": 100.0,
+    "consumption_score": 83.2,
+    "industry_score": 88.7,
+    "annual_sales": "",
+    "annual_sales_unit": "",
+    "area_size_sqm": null,
+    "open_date": "",
+    "operator": "",
+    "brand": "",
+    "type": "",
+    "floors": ""
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "",
+    "annual_daily_rank": "",
+    "jun_total": null,
+    "jun_total_rank": "",
+    "jun_daily_avg": null,
+    "jun_daily_unit": "",
+    "jun_daily_rank": "",
+    "weekday_avg": null,
+    "weekday_unit": "",
+    "weekday_rank": "",
+    "holiday_avg": null,
+    "holiday_unit": "",
+    "holiday_rank": ""
+  },
+  "population": {
+    "residential": {
+      "500m": 2.3,
+      "1_5km": 17.4,
+      "3km": 66.2
+    },
+    "office": {
+      "500m": 2.6,
+      "1_5km": 17.6,
+      "3km": 80.4
+    },
+    "permanent": {
+      "500m": 2.9,
+      "1_5km": 19.3,
+      "3km": 75.5
+    }
+  },
+  "business": {
+    "competitors": 14.0,
+    "food": 540.0,
+    "shopping": 434.0,
+    "leisure": 91.0,
+    "education": 33.0,
+    "hotel": 76.0,
+    "services": 396.0,
+    "fitness": 23.0,
+    "auto": 22.0,
+    "total_stores": 1697.0,
+    "old_store_3yr_pct": 41.0
+  },
+  "nearby_poi": {
+    "business": 13.0,
+    "community": 464.0,
+    "office": 127.0,
+    "school": 45.0,
+    "hospital": 185.0,
+    "transport": 6.0,
+    "scenic": 314.0
+  },
+  "demographics": {
+    "male_pct": 49.1,
+    "female_pct": null,
+    "education": {
+      "小学": 9.4,
+      "初中": 16.4,
+      "高中": 10.8,
+      "大专": 6.6,
+      "本科": 48.3,
+      "硕士": 6.9,
+      "博士": 1.6
+    },
+    "has_children_pct": null,
+    "no_children_pct": null
+  },
+  "scraped_at": "2026-07-31T18:13:25.154Z",
+  "nearby_restaurants": [
+    {
+      "brand": "安又胖韩国烤肉(北京三里屯T+MALL店)",
+      "address": "南三里屯路1号T+MALLB1层",
+      "distance": "3m"
+    },
+    {
+      "brand": "野人先生现做冰淇淋(三里屯1号T+店)",
+      "address": "北京城区三里屯T+MALL2层团结湖地铁站H口步行330米",
+      "distance": "8m"
+    },
+    {
+      "brand": "沿江海南黎家菜(T+MALL店)",
+      "address": "南三里屯路一号场(T+MALL)三层沿江海南黎家菜",
+      "distance": "15m"
+    },
+    {
+      "brand": "沿江海南鸡饭(T+MALL店)",
+      "address": "三里屯路1号T+MALL(B1层-08)",
+      "distance": "17m"
+    },
+    {
+      "brand": "北京四叶餐饮有限责任公司朝阳三里屯分店",
+      "address": "南三里屯路1号T+MALLF3层",
+      "distance": "17m"
+    },
+    {
+      "brand": "鼎盛鑫·海派精致家常菜",
+      "address": "T+MALLL4-01(团结湖地铁站H口步行430米)",
+      "distance": "20m"
+    },
+    {
+      "brand": "久保屋(T+MALL店)",
+      "address": "南三里屯路1号T +MALL三层",
+      "distance": "21m"
+    },
+    {
+      "brand": "粉浩室·越南粉·真材实料牛骨汤(三里屯店)",
+      "address": "南三里屯路1号T+MALLB1层",
+      "distance": "23m"
+    },
+    {
+      "brand": "鲜芋仙(T+MALL店)",
+      "address": "南三里屯路1号三里屯一号场T+MALL2层",
+      "distance": "25m"
+    },
+    {
+      "brand": "天妇罗·天燚(T+MALL店)",
+      "address": "T+MALL3层10(团结湖地铁站H口步行390米)",
+      "distance": "25m"
+    },
+    {
+      "brand": "安又胖韩国烤肉(北京三里屯T+MALL店)",
+      "address": "南三里屯路1号T+MALLB1层",
+      "distance": "3m"
+    },
+    {
+      "brand": "野人先生现做冰淇淋(三里屯1号T+店)",
+      "address": "北京城区三里屯T+MALL2层团结湖地铁站H口步行330米",
+      "distance": "8m"
+    },
+    {
+      "brand": "沿江海南黎家菜(T+MALL店)",
+      "address": "南三里屯路一号场(T+MALL)三层沿江海南黎家菜",
+      "distance": "15m"
+    },
+    {
+      "brand": "沿江海南鸡饭(T+MALL店)",
+      "address": "三里屯路1号T+MALL(B1层-08)",
+      "distance": "17m"
+    },
+    {
+      "brand": "北京四叶餐饮有限责任公司朝阳三里屯分店",
+      "address": "南三里屯路1号T+MALLF3层",
+      "distance": "17m"
+    },
+    {
+      "brand": "鼎盛鑫·海派精致家常菜",
+      "address": "T+MALLL4-01(团结湖地铁站H口步行430米)",
+      "distance": "20m"
+    },
+    {
+      "brand": "久保屋(T+MALL店)",
+      "address": "南三里屯路1号T +MALL三层",
+      "distance": "21m"
+    },
+    {
+      "brand": "粉浩室·越南粉·真材实料牛骨汤(三里屯店)",
+      "address": "南三里屯路1号T+MALLB1层",
+      "distance": "23m"
+    },
+    {
+      "brand": "鲜芋仙(T+MALL店)",
+      "address": "南三里屯路1号三里屯一号场T+MALL2层",
+      "distance": "25m"
+    },
+    {
+      "brand": "天妇罗·天燚(T+MALL店)",
+      "address": "T+MALL3层10(团结湖地铁站H口步行390米)",
+      "distance": "25m"
+    },
+    {
+      "brand": "安又胖韩国烤肉(北京三里屯T+MALL店)",
+      "address": "南三里屯路1号T+MALLB1层",
+      "distance": "3m"
+    },
+    {
+      "brand": "野人先生现做冰淇淋(三里屯1号T+店)",
+      "address": "北京城区三里屯T+MALL2层团结湖地铁站H口步行330米",
+      "distance": "8m"
+    },
+    {
+      "brand": "沿江海南黎家菜(T+MALL店)",
+      "address": "南三里屯路一号场(T+MALL)三层沿江海南黎家菜",
+      "distance": "15m"
+    },
+    {
+      "brand": "沿江海南鸡饭(T+MALL店)",
+      "address": "三里屯路1号T+MALL(B1层-08)",
+      "distance": "17m"
+    },
+    {
+      "brand": "北京四叶餐饮有限责任公司朝阳三里屯分店",
+      "address": "南三里屯路1号T+MALLF3层",
+      "distance": "17m"
+    },
+    {
+      "brand": "鼎盛鑫·海派精致家常菜",
+      "address": "T+MALLL4-01(团结湖地铁站H口步行430米)",
+      "distance": "20m"
+    },
+    {
+      "brand": "久保屋(T+MALL店)",
+      "address": "南三里屯路1号T +MALL三层",
+      "distance": "21m"
+    },
+    {
+      "brand": "粉浩室·越南粉·真材实料牛骨汤(三里屯店)",
+      "address": "南三里屯路1号T+MALLB1层",
+      "distance": "23m"
+    },
+    {
+      "brand": "鲜芋仙(T+MALL店)",
+      "address": "南三里屯路1号三里屯一号场T+MALL2层",
+      "distance": "25m"
+    },
+    {
+      "brand": "天妇罗·天燚(T+MALL店)",
+      "address": "T+MALL3层10(团结湖地铁站H口步行390米)",
+      "distance": "25m"
+    },
+    {
+      "brand": "安又胖韩国烤肉(北京三里屯T+MALL店)",
+      "address": "南三里屯路1号T+MALLB1层",
+      "distance": "3m"
+    },
+    {
+      "brand": "野人先生现做冰淇淋(三里屯1号T+店)",
+      "address": "北京城区三里屯T+MALL2层团结湖地铁站H口步行330米",
+      "distance": "8m"
+    },
+    {
+      "brand": "沿江海南黎家菜(T+MALL店)",
+      "address": "南三里屯路一号场(T+MALL)三层沿江海南黎家菜",
+      "distance": "15m"
+    },
+    {
+      "brand": "沿江海南鸡饭(T+MALL店)",
+      "address": "三里屯路1号T+MALL(B1层-08)",
+      "distance": "17m"
+    },
+    {
+      "brand": "北京四叶餐饮有限责任公司朝阳三里屯分店",
+      "address": "南三里屯路1号T+MALLF3层",
+      "distance": "17m"
+    },
+    {
+      "brand": "鼎盛鑫·海派精致家常菜",
+      "address": "T+MALLL4-01(团结湖地铁站H口步行430米)",
+      "distance": "20m"
+    },
+    {
+      "brand": "久保屋(T+MALL店)",
+      "address": "南三里屯路1号T +MALL三层",
+      "distance": "21m"
+    },
+    {
+      "brand": "粉浩室·越南粉·真材实料牛骨汤(三里屯店)",
+      "address": "南三里屯路1号T+MALLB1层",
+      "distance": "23m"
+    },
+    {
+      "brand": "鲜芋仙(T+MALL店)",
+      "address": "南三里屯路1号三里屯一号场T+MALL2层",
+      "distance": "25m"
+    },
+    {
+      "brand": "天妇罗·天燚(T+MALL店)",
+      "address": "T+MALL3层10(团结湖地铁站H口步行390米)",
+      "distance": "25m"
+    },
+    {
+      "brand": "安又胖韩国烤肉(北京三里屯T+MALL店)",
+      "address": "南三里屯路1号T+MALLB1层",
+      "distance": "3m"
+    },
+    {
+      "brand": "野人先生现做冰淇淋(三里屯1号T+店)",
+      "address": "北京城区三里屯T+MALL2层团结湖地铁站H口步行330米",
+      "distance": "8m"
+    },
+    {
+      "brand": "沿江海南黎家菜(T+MALL店)",
+      "address": "南三里屯路一号场(T+MALL)三层沿江海南黎家菜",
+      "distance": "15m"
+    },
+    {
+      "brand": "沿江海南鸡饭(T+MALL店)",
+      "address": "三里屯路1号T+MALL(B1层-08)",
+      "distance": "17m"
+    },
+    {
+      "brand": "北京四叶餐饮有限责任公司朝阳三里屯分店",
+      "address": "南三里屯路1号T+MALLF3层",
+      "distance": "17m"
+    },
+    {
+      "brand": "鼎盛鑫·海派精致家常菜",
+      "address": "T+MALLL4-01(团结湖地铁站H口步行430米)",
+      "distance": "20m"
+    },
+    {
+      "brand": "久保屋(T+MALL店)",
+      "address": "南三里屯路1号T +MALL三层",
+      "distance": "21m"
+    },
+    {
+      "brand": "粉浩室·越南粉·真材实料牛骨汤(三里屯店)",
+      "address": "南三里屯路1号T+MALLB1层",
+      "distance": "23m"
+    },
+    {
+      "brand": "鲜芋仙(T+MALL店)",
+      "address": "南三里屯路1号三里屯一号场T+MALL2层",
+      "distance": "25m"
+    },
+    {
+      "brand": "天妇罗·天燚(T+MALL店)",
+      "address": "T+MALL3层10(团结湖地铁站H口步行390米)",
+      "distance": "25m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "北京T+MALL",
+      "open_date": "2023-12-22",
+      "area": "2.5万㎡",
+      "jun_daily_avg": "2.1万人次",
+      "weekday_avg": "1.7万人次",
+      "holiday_avg": "3.1万人次"
+    },
+    {
+      "name": "北京三里屯SOHO",
+      "open_date": "2010-09-01",
+      "area": "12.8万㎡",
+      "jun_daily_avg": "5.2万人次",
+      "weekday_avg": "4.8万人次",
+      "holiday_avg": "6.2万人次"
+    },
+    {
+      "name": "北京三里屯太古里",
+      "open_date": "2008-01-01",
+      "area": "13.5万㎡",
+      "jun_daily_avg": "9.9万人次",
+      "weekday_avg": "8.6万人次",
+      "holiday_avg": "13.3万人次"
+    },
+    {
+      "name": "北京三里屯3.3大厦",
+      "open_date": "2005-10-01",
+      "area": "4万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "北京世茂广场(工三店)",
+      "open_date": "2011-12-23",
+      "area": "6.6万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "北京春平广场",
+      "open_date": "2007-01-01",
+      "area": "2500㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "北京三里屯永利国际购物中心",
+      "open_date": "2011-01-01",
+      "area": "3.3万㎡",
+      "jun_daily_avg": "1.1万人次",
+      "weekday_avg": "1.1万人次",
+      "holiday_avg": "1.1万人次"
+    },
+    {
+      "name": "北京蓝岛大厦金隅百货",
+      "open_date": "2007-01-27",
+      "area": "1.6万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "北京THE BOX 朝外｜年轻力中心",
+      "open_date": "2023-06-10",
+      "area": "1.8万㎡",
+      "jun_daily_avg": "1.9万人次",
+      "weekday_avg": "1.6万人次",
+      "holiday_avg": "2.9万人次"
+    },
+    {
+      "name": "北京好世界商业广场",
+      "open_date": "2015-01-01",
+      "area": "2.4万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 540.0,
+      "within_1yr_pct": 24.4,
+      "1_3yr_pct": 30.6,
+      "over_3yr_pct": 45.0
+    },
+    {
+      "type": "购物",
+      "count": 434.0,
+      "within_1yr_pct": 22.4,
+      "1_3yr_pct": 36.6,
+      "over_3yr_pct": 41.0
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 173.0,
+      "within_1yr_pct": 37.0,
+      "1_3yr_pct": 38.7,
+      "over_3yr_pct": 24.3
+    },
+    {
+      "type": "教育培训",
+      "count": 33.0,
+      "within_1yr_pct": 48.5,
+      "1_3yr_pct": 27.3,
+      "over_3yr_pct": 24.2
+    },
+    {
+      "type": "酒店住宿",
+      "count": 76.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 31.6,
+      "over_3yr_pct": 43.4
+    },
+    {
+      "type": "生活服务",
+      "count": 396.0,
+      "within_1yr_pct": 24.5,
+      "1_3yr_pct": 32.3,
+      "over_3yr_pct": 43.2
+    },
+    {
+      "type": "运动健身",
+      "count": 23.0,
+      "within_1yr_pct": 13.0,
+      "1_3yr_pct": 26.1,
+      "over_3yr_pct": 60.9
+    },
+    {
+      "type": "车辆服务",
+      "count": 22.0,
+      "within_1yr_pct": 18.2,
+      "1_3yr_pct": 40.9,
+      "over_3yr_pct": 40.9
+    }
+  ]
+}

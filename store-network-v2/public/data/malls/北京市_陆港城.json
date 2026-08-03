@@ -1,0 +1,431 @@
+{
+  "name": "陆港城",
+  "city": "北京市",
+  "address": "北京市朝阳区朝阳北路20号院(常营地铁站F西南口步行490米)",
+  "lat": 39.92447,
+  "lng": 116.598856,
+  "overview": {
+    "score": 84.4,
+    "score_rank": "市内前30%",
+    "population_score": 90.9,
+    "area_score": 92.4,
+    "consumption_score": 76.1,
+    "industry_score": 84.3,
+    "annual_sales": "朝阳东坝区域7层地铁上盖商业体，B1-7F，定位为社区型购物中心，体量约7万㎡，零售、餐饮、生活服务为主。",
+    "annual_sales_unit": "-",
+    "area_size_sqm": null,
+    "open_date": "2019-12-31",
+    "operator": "北京陆港城商业管理有限公司",
+    "brand": "",
+    "type": "综合型",
+    "floors": "B1-L7"
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "-",
+    "annual_daily_rank": "",
+    "jun_total": null,
+    "jun_total_rank": "",
+    "jun_daily_avg": null,
+    "jun_daily_unit": "",
+    "jun_daily_rank": "",
+    "weekday_avg": null,
+    "weekday_unit": "",
+    "weekday_rank": "",
+    "holiday_avg": null,
+    "holiday_unit": "",
+    "holiday_rank": ""
+  },
+  "population": {
+    "residential": {
+      "500m": 2.3,
+      "1_5km": 17.6,
+      "3km": 40.2
+    },
+    "office": {
+      "500m": 1.6,
+      "1_5km": 7.9,
+      "3km": 16.9
+    },
+    "permanent": {
+      "500m": 2.4,
+      "1_5km": 17.6,
+      "3km": 38.0
+    }
+  },
+  "business": {
+    "competitors": 7.0,
+    "food": 239.0,
+    "shopping": 222.0,
+    "leisure": 41.0,
+    "education": 68.0,
+    "hotel": 22.0,
+    "services": 219.0,
+    "fitness": 43.0,
+    "auto": 24.0,
+    "total_stores": 57.0,
+    "old_store_3yr_pct": 37.0
+  },
+  "nearby_poi": {
+    "business": 4.0,
+    "community": 177.0,
+    "office": 26.0,
+    "school": 32.0,
+    "hospital": 47.0,
+    "transport": 8.0,
+    "scenic": 63.0
+  },
+  "demographics": {
+    "male_pct": 50.1,
+    "female_pct": null,
+    "education": {
+      "小学": 8.1,
+      "初中": 14.5,
+      "高中": 10.9,
+      "大专": 8.2,
+      "本科": 51.6,
+      "硕士": 5.6,
+      "博士": 1.1
+    },
+    "has_children_pct": 57.8,
+    "no_children_pct": 42.2
+  },
+  "scraped_at": "2026-07-31T19:17:39.836Z",
+  "nearby_restaurants": [
+    {
+      "brand": "李华泽热卤鸭头(陆港城旗舰店)",
+      "address": "北京城区朝阳北路20号院2号楼1层101室",
+      "distance": "5m"
+    },
+    {
+      "brand": "鳥栖烧鸟居酒屋(陆港城店)",
+      "address": "陆港城2号楼",
+      "distance": "6m"
+    },
+    {
+      "brand": "和合谷(陆港城店)",
+      "address": "朝阳北路20号",
+      "distance": "15m"
+    },
+    {
+      "brand": "苏小牛牛肉串(陆港城店)",
+      "address": "陆港城2号楼",
+      "distance": "20m"
+    },
+    {
+      "brand": "李华泽热卤鸭货(陆港城店)",
+      "address": "北京城区朝阳北路20号院2号楼1层101室",
+      "distance": "26m"
+    },
+    {
+      "brand": "芦月轩羊蝎子(常营店)",
+      "address": "北京城区朝阳北路20号院2号楼负一层105室(陆港城下沉广场)",
+      "distance": "27m"
+    },
+    {
+      "brand": "张小啡新青年咖啡馆(常营店)",
+      "address": "陆港城2号楼",
+      "distance": "30m"
+    },
+    {
+      "brand": "好利来(陆港城)",
+      "address": "朝阳北路20号院3号楼陆港城一层110号",
+      "distance": "34m"
+    },
+    {
+      "brand": "吉多多自助火锅",
+      "address": "朝阳北路20号燕保·常营家园",
+      "distance": "43m"
+    },
+    {
+      "brand": "一品玫瑰红烤羊排(北京首店)",
+      "address": "朝阳北路20号3号楼陆港城西区2层208室",
+      "distance": "43m"
+    },
+    {
+      "brand": "李华泽热卤鸭头(陆港城旗舰店)",
+      "address": "北京城区朝阳北路20号院2号楼1层101室",
+      "distance": "5m"
+    },
+    {
+      "brand": "鳥栖烧鸟居酒屋(陆港城店)",
+      "address": "陆港城2号楼",
+      "distance": "6m"
+    },
+    {
+      "brand": "和合谷(陆港城店)",
+      "address": "朝阳北路20号",
+      "distance": "15m"
+    },
+    {
+      "brand": "苏小牛牛肉串(陆港城店)",
+      "address": "陆港城2号楼",
+      "distance": "20m"
+    },
+    {
+      "brand": "李华泽热卤鸭货(陆港城店)",
+      "address": "北京城区朝阳北路20号院2号楼1层101室",
+      "distance": "26m"
+    },
+    {
+      "brand": "芦月轩羊蝎子(常营店)",
+      "address": "北京城区朝阳北路20号院2号楼负一层105室(陆港城下沉广场)",
+      "distance": "27m"
+    },
+    {
+      "brand": "张小啡新青年咖啡馆(常营店)",
+      "address": "陆港城2号楼",
+      "distance": "30m"
+    },
+    {
+      "brand": "好利来(陆港城)",
+      "address": "朝阳北路20号院3号楼陆港城一层110号",
+      "distance": "34m"
+    },
+    {
+      "brand": "吉多多自助火锅",
+      "address": "朝阳北路20号燕保·常营家园",
+      "distance": "43m"
+    },
+    {
+      "brand": "一品玫瑰红烤羊排(北京首店)",
+      "address": "朝阳北路20号3号楼陆港城西区2层208室",
+      "distance": "43m"
+    },
+    {
+      "brand": "李华泽热卤鸭头(陆港城旗舰店)",
+      "address": "北京城区朝阳北路20号院2号楼1层101室",
+      "distance": "5m"
+    },
+    {
+      "brand": "鳥栖烧鸟居酒屋(陆港城店)",
+      "address": "陆港城2号楼",
+      "distance": "6m"
+    },
+    {
+      "brand": "和合谷(陆港城店)",
+      "address": "朝阳北路20号",
+      "distance": "15m"
+    },
+    {
+      "brand": "苏小牛牛肉串(陆港城店)",
+      "address": "陆港城2号楼",
+      "distance": "20m"
+    },
+    {
+      "brand": "李华泽热卤鸭货(陆港城店)",
+      "address": "北京城区朝阳北路20号院2号楼1层101室",
+      "distance": "26m"
+    },
+    {
+      "brand": "芦月轩羊蝎子(常营店)",
+      "address": "北京城区朝阳北路20号院2号楼负一层105室(陆港城下沉广场)",
+      "distance": "27m"
+    },
+    {
+      "brand": "张小啡新青年咖啡馆(常营店)",
+      "address": "陆港城2号楼",
+      "distance": "30m"
+    },
+    {
+      "brand": "好利来(陆港城)",
+      "address": "朝阳北路20号院3号楼陆港城一层110号",
+      "distance": "34m"
+    },
+    {
+      "brand": "吉多多自助火锅",
+      "address": "朝阳北路20号燕保·常营家园",
+      "distance": "43m"
+    },
+    {
+      "brand": "一品玫瑰红烤羊排(北京首店)",
+      "address": "朝阳北路20号3号楼陆港城西区2层208室",
+      "distance": "43m"
+    },
+    {
+      "brand": "李华泽热卤鸭头(陆港城旗舰店)",
+      "address": "北京城区朝阳北路20号院2号楼1层101室",
+      "distance": "5m"
+    },
+    {
+      "brand": "鳥栖烧鸟居酒屋(陆港城店)",
+      "address": "陆港城2号楼",
+      "distance": "6m"
+    },
+    {
+      "brand": "和合谷(陆港城店)",
+      "address": "朝阳北路20号",
+      "distance": "15m"
+    },
+    {
+      "brand": "苏小牛牛肉串(陆港城店)",
+      "address": "陆港城2号楼",
+      "distance": "20m"
+    },
+    {
+      "brand": "李华泽热卤鸭货(陆港城店)",
+      "address": "北京城区朝阳北路20号院2号楼1层101室",
+      "distance": "26m"
+    },
+    {
+      "brand": "芦月轩羊蝎子(常营店)",
+      "address": "北京城区朝阳北路20号院2号楼负一层105室(陆港城下沉广场)",
+      "distance": "27m"
+    },
+    {
+      "brand": "张小啡新青年咖啡馆(常营店)",
+      "address": "陆港城2号楼",
+      "distance": "30m"
+    },
+    {
+      "brand": "好利来(陆港城)",
+      "address": "朝阳北路20号院3号楼陆港城一层110号",
+      "distance": "34m"
+    },
+    {
+      "brand": "吉多多自助火锅",
+      "address": "朝阳北路20号燕保·常营家园",
+      "distance": "43m"
+    },
+    {
+      "brand": "一品玫瑰红烤羊排(北京首店)",
+      "address": "朝阳北路20号3号楼陆港城西区2层208室",
+      "distance": "43m"
+    },
+    {
+      "brand": "李华泽热卤鸭头(陆港城旗舰店)",
+      "address": "北京城区朝阳北路20号院2号楼1层101室",
+      "distance": "5m"
+    },
+    {
+      "brand": "鳥栖烧鸟居酒屋(陆港城店)",
+      "address": "陆港城2号楼",
+      "distance": "6m"
+    },
+    {
+      "brand": "和合谷(陆港城店)",
+      "address": "朝阳北路20号",
+      "distance": "15m"
+    },
+    {
+      "brand": "苏小牛牛肉串(陆港城店)",
+      "address": "陆港城2号楼",
+      "distance": "20m"
+    },
+    {
+      "brand": "李华泽热卤鸭货(陆港城店)",
+      "address": "北京城区朝阳北路20号院2号楼1层101室",
+      "distance": "26m"
+    },
+    {
+      "brand": "芦月轩羊蝎子(常营店)",
+      "address": "北京城区朝阳北路20号院2号楼负一层105室(陆港城下沉广场)",
+      "distance": "27m"
+    },
+    {
+      "brand": "张小啡新青年咖啡馆(常营店)",
+      "address": "陆港城2号楼",
+      "distance": "30m"
+    },
+    {
+      "brand": "好利来(陆港城)",
+      "address": "朝阳北路20号院3号楼陆港城一层110号",
+      "distance": "34m"
+    },
+    {
+      "brand": "吉多多自助火锅",
+      "address": "朝阳北路20号燕保·常营家园",
+      "distance": "43m"
+    },
+    {
+      "brand": "一品玫瑰红烤羊排(北京首店)",
+      "address": "朝阳北路20号3号楼陆港城西区2层208室",
+      "distance": "43m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "BHG Mall北京华联常营购物中心",
+      "open_date": "2013-08-01",
+      "area": "11万㎡",
+      "jun_daily_avg": "2.3万人次",
+      "weekday_avg": "2.1万人次",
+      "holiday_avg": "3.1万人次"
+    },
+    {
+      "name": "龙湖北京长楹天街",
+      "open_date": "2014-12-02",
+      "area": "27万㎡",
+      "jun_daily_avg": "12.4万人次",
+      "weekday_avg": "11.2万人次",
+      "holiday_avg": "15.6万人次"
+    },
+    {
+      "name": "万鑫佰隆购物商城",
+      "open_date": "-",
+      "area": "-",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "北京枫尚奥特莱斯京通店",
+      "open_date": "2011-11-01",
+      "area": "1.9万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 31.0,
+      "within_1yr_pct": 22.6,
+      "1_3yr_pct": 38.7,
+      "over_3yr_pct": 38.7
+    },
+    {
+      "type": "购物",
+      "count": 3.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 66.7
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 6.0,
+      "within_1yr_pct": 16.7,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 33.3
+    },
+    {
+      "type": "教育培训",
+      "count": 5.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 60.0,
+      "over_3yr_pct": 40.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 1.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "生活服务",
+      "count": 8.0,
+      "within_1yr_pct": 12.5,
+      "1_3yr_pct": 62.5,
+      "over_3yr_pct": 25.0
+    },
+    {
+      "type": "运动健身",
+      "count": 3.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 66.7,
+      "over_3yr_pct": 33.3
+    }
+  ]
+}

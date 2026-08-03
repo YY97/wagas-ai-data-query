@@ -1,0 +1,440 @@
+{
+  "name": "上海花木时光里",
+  "city": "上海市",
+  "address": "上海市浦东新区花木街道南志阁艺术中心NANZUKA ART INSTITUTE花木时光里",
+  "lat": 31.218554,
+  "lng": 121.537883,
+  "overview": {
+    "score": 91.6,
+    "score_rank": "市内前30%",
+    "population_score": 63.6,
+    "area_score": 67.7,
+    "consumption_score": 87.1,
+    "industry_score": 91.8,
+    "annual_sales": "上海花木时光里是保利浦开金融中心的商业部分，位于陆家嘴核心区，被上海博物馆东馆、上海图书馆东馆、上海科技馆、东方艺术中心、世纪公园等城市级地标环绕旨在打造一个商务、文化、生活和谐共生的商业生态圈，主要定位吸引办公精英、都市中产、年轻活力族三大主力人群已成功引入多个业态的首店，包括日本当代艺术画廊中国首馆——NANZUKA ART INSTITUTE南志阁艺术中心、高端运动中心TRACTION上海首店等依托紧挨上海博物馆东馆的优越位置，以文化消费为抓手，引入了全国首个以超级IP为驱动的新体验空间品牌“鲸奇Amazing”花木时光里不仅是传统意义上的商场，更是一个可逛可打卡的城市公共空间，拥有室外多元场景，如下沉式广场、露台花园、以及与上海博物馆（东馆）无缝连接的7000㎡中央广场",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 4.7,
+    "open_date": "2024-09-27",
+    "operator": "保利发展控股集团股份有限公司",
+    "brand": "保利",
+    "type": "美食型",
+    "floors": "L1-L4"
+  },
+  "traffic": {
+    "annual_daily": 1.09,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第234",
+    "jun_total": 79.4,
+    "jun_total_rank": "市内商场第153名",
+    "jun_daily_avg": 2.6,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第153名",
+    "weekday_avg": 2.3,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第161名",
+    "holiday_avg": 3.6,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第138名"
+  },
+  "population": {
+    "residential": {
+      "500m": 3000.0,
+      "1_5km": 14.3,
+      "3km": 73.7
+    },
+    "office": {
+      "500m": 2.9,
+      "1_5km": 20.4,
+      "3km": 60.7
+    },
+    "permanent": {
+      "500m": 8600.0,
+      "1_5km": 17.1,
+      "3km": 78.8
+    }
+  },
+  "business": {
+    "competitors": 7.0,
+    "food": 136.0,
+    "shopping": 48.0,
+    "leisure": 6.0,
+    "education": 6.0,
+    "hotel": null,
+    "services": 16.0,
+    "fitness": 6.0,
+    "auto": 12.0,
+    "total_stores": 91.0,
+    "old_store_3yr_pct": 3.0
+  },
+  "nearby_poi": {
+    "business": 6.0,
+    "community": 426.0,
+    "office": 89.0,
+    "school": 35.0,
+    "hospital": 109.0,
+    "transport": 3.0,
+    "scenic": 231.0
+  },
+  "demographics": {
+    "male_pct": 47.1,
+    "female_pct": null,
+    "education": {
+      "小学": 9.0,
+      "初中": 16.4,
+      "高中": 10.6,
+      "大专": 6.9,
+      "本科": 48.6,
+      "硕士": 6.6,
+      "博士": 1.9
+    },
+    "has_children_pct": 58.4,
+    "no_children_pct": 41.6
+  },
+  "scraped_at": "2026-07-31T17:22:45.473Z",
+  "nearby_restaurants": [
+    {
+      "brand": "不入川·豆花川菜(花木时光里店)",
+      "address": "杨高南路99弄1号花木时光里B1层",
+      "distance": "3m"
+    },
+    {
+      "brand": "麦当劳(花木时光里店)",
+      "address": "杨高南路99弄1号花木时光里B1层",
+      "distance": "6m"
+    },
+    {
+      "brand": "澜臻美食(保利店)",
+      "address": "花木时光里B2层",
+      "distance": "8m"
+    },
+    {
+      "brand": "香港维麟茶餐厅(花木时光里店)",
+      "address": "杨高南路99弄1号花木时光里B1层",
+      "distance": "10m"
+    },
+    {
+      "brand": "KOI Thé(花木时光里店)",
+      "address": "杨高南路99弄1号L1层106b商铺",
+      "distance": "13m"
+    },
+    {
+      "brand": "福和面馆·上海现炒浇头面(花木时光里店)",
+      "address": "杨高南路99弄1号保利浦开金融中心B1-104",
+      "distance": "16m"
+    },
+    {
+      "brand": "茶乐媞(花木时光里店)",
+      "address": "花木镇杨高南路99弄1号花木时光里L1-129",
+      "distance": "16m"
+    },
+    {
+      "brand": "云庐小雅(花木时光里店)",
+      "address": "锦康路",
+      "distance": "17m"
+    },
+    {
+      "brand": "花湘(花木时光里店)",
+      "address": "杨高南路与杨高南路出口交叉口东180米",
+      "distance": "18m"
+    },
+    {
+      "brand": "茶米有言(花木时光里店)",
+      "address": "杨高南路99弄1号花木时光里负一层B-104商铺",
+      "distance": "19m"
+    },
+    {
+      "brand": "不入川·豆花川菜(花木时光里店)",
+      "address": "杨高南路99弄1号花木时光里B1层",
+      "distance": "3m"
+    },
+    {
+      "brand": "麦当劳(花木时光里店)",
+      "address": "杨高南路99弄1号花木时光里B1层",
+      "distance": "6m"
+    },
+    {
+      "brand": "澜臻美食(保利店)",
+      "address": "花木时光里B2层",
+      "distance": "8m"
+    },
+    {
+      "brand": "香港维麟茶餐厅(花木时光里店)",
+      "address": "杨高南路99弄1号花木时光里B1层",
+      "distance": "10m"
+    },
+    {
+      "brand": "KOI Thé(花木时光里店)",
+      "address": "杨高南路99弄1号L1层106b商铺",
+      "distance": "13m"
+    },
+    {
+      "brand": "福和面馆·上海现炒浇头面(花木时光里店)",
+      "address": "杨高南路99弄1号保利浦开金融中心B1-104",
+      "distance": "16m"
+    },
+    {
+      "brand": "茶乐媞(花木时光里店)",
+      "address": "花木镇杨高南路99弄1号花木时光里L1-129",
+      "distance": "16m"
+    },
+    {
+      "brand": "云庐小雅(花木时光里店)",
+      "address": "锦康路",
+      "distance": "17m"
+    },
+    {
+      "brand": "花湘(花木时光里店)",
+      "address": "杨高南路与杨高南路出口交叉口东180米",
+      "distance": "18m"
+    },
+    {
+      "brand": "茶米有言(花木时光里店)",
+      "address": "杨高南路99弄1号花木时光里负一层B-104商铺",
+      "distance": "19m"
+    },
+    {
+      "brand": "不入川·豆花川菜(花木时光里店)",
+      "address": "杨高南路99弄1号花木时光里B1层",
+      "distance": "3m"
+    },
+    {
+      "brand": "麦当劳(花木时光里店)",
+      "address": "杨高南路99弄1号花木时光里B1层",
+      "distance": "6m"
+    },
+    {
+      "brand": "澜臻美食(保利店)",
+      "address": "花木时光里B2层",
+      "distance": "8m"
+    },
+    {
+      "brand": "香港维麟茶餐厅(花木时光里店)",
+      "address": "杨高南路99弄1号花木时光里B1层",
+      "distance": "10m"
+    },
+    {
+      "brand": "KOI Thé(花木时光里店)",
+      "address": "杨高南路99弄1号L1层106b商铺",
+      "distance": "13m"
+    },
+    {
+      "brand": "福和面馆·上海现炒浇头面(花木时光里店)",
+      "address": "杨高南路99弄1号保利浦开金融中心B1-104",
+      "distance": "16m"
+    },
+    {
+      "brand": "茶乐媞(花木时光里店)",
+      "address": "花木镇杨高南路99弄1号花木时光里L1-129",
+      "distance": "16m"
+    },
+    {
+      "brand": "云庐小雅(花木时光里店)",
+      "address": "锦康路",
+      "distance": "17m"
+    },
+    {
+      "brand": "花湘(花木时光里店)",
+      "address": "杨高南路与杨高南路出口交叉口东180米",
+      "distance": "18m"
+    },
+    {
+      "brand": "茶米有言(花木时光里店)",
+      "address": "杨高南路99弄1号花木时光里负一层B-104商铺",
+      "distance": "19m"
+    },
+    {
+      "brand": "不入川·豆花川菜(花木时光里店)",
+      "address": "杨高南路99弄1号花木时光里B1层",
+      "distance": "3m"
+    },
+    {
+      "brand": "麦当劳(花木时光里店)",
+      "address": "杨高南路99弄1号花木时光里B1层",
+      "distance": "6m"
+    },
+    {
+      "brand": "澜臻美食(保利店)",
+      "address": "花木时光里B2层",
+      "distance": "8m"
+    },
+    {
+      "brand": "香港维麟茶餐厅(花木时光里店)",
+      "address": "杨高南路99弄1号花木时光里B1层",
+      "distance": "10m"
+    },
+    {
+      "brand": "KOI Thé(花木时光里店)",
+      "address": "杨高南路99弄1号L1层106b商铺",
+      "distance": "13m"
+    },
+    {
+      "brand": "福和面馆·上海现炒浇头面(花木时光里店)",
+      "address": "杨高南路99弄1号保利浦开金融中心B1-104",
+      "distance": "16m"
+    },
+    {
+      "brand": "茶乐媞(花木时光里店)",
+      "address": "花木镇杨高南路99弄1号花木时光里L1-129",
+      "distance": "16m"
+    },
+    {
+      "brand": "云庐小雅(花木时光里店)",
+      "address": "锦康路",
+      "distance": "17m"
+    },
+    {
+      "brand": "花湘(花木时光里店)",
+      "address": "杨高南路与杨高南路出口交叉口东180米",
+      "distance": "18m"
+    },
+    {
+      "brand": "茶米有言(花木时光里店)",
+      "address": "杨高南路99弄1号花木时光里负一层B-104商铺",
+      "distance": "19m"
+    },
+    {
+      "brand": "不入川·豆花川菜(花木时光里店)",
+      "address": "杨高南路99弄1号花木时光里B1层",
+      "distance": "3m"
+    },
+    {
+      "brand": "麦当劳(花木时光里店)",
+      "address": "杨高南路99弄1号花木时光里B1层",
+      "distance": "6m"
+    },
+    {
+      "brand": "澜臻美食(保利店)",
+      "address": "花木时光里B2层",
+      "distance": "8m"
+    },
+    {
+      "brand": "香港维麟茶餐厅(花木时光里店)",
+      "address": "杨高南路99弄1号花木时光里B1层",
+      "distance": "10m"
+    },
+    {
+      "brand": "KOI Thé(花木时光里店)",
+      "address": "杨高南路99弄1号L1层106b商铺",
+      "distance": "13m"
+    },
+    {
+      "brand": "福和面馆·上海现炒浇头面(花木时光里店)",
+      "address": "杨高南路99弄1号保利浦开金融中心B1-104",
+      "distance": "16m"
+    },
+    {
+      "brand": "茶乐媞(花木时光里店)",
+      "address": "花木镇杨高南路99弄1号花木时光里L1-129",
+      "distance": "16m"
+    },
+    {
+      "brand": "云庐小雅(花木时光里店)",
+      "address": "锦康路",
+      "distance": "17m"
+    },
+    {
+      "brand": "花湘(花木时光里店)",
+      "address": "杨高南路与杨高南路出口交叉口东180米",
+      "distance": "18m"
+    },
+    {
+      "brand": "茶米有言(花木时光里店)",
+      "address": "杨高南路99弄1号花木时光里负一层B-104商铺",
+      "distance": "19m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海锦绣坊",
+      "open_date": "2007-05-01",
+      "area": "1.9万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海富都广场",
+      "open_date": "2016-01-01",
+      "area": "2.1万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海陆悦坊",
+      "open_date": "2019-08-01",
+      "area": "1.5万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海世纪汇广场",
+      "open_date": "2018-12-08",
+      "area": "14万㎡",
+      "jun_daily_avg": "9万人次",
+      "weekday_avg": "8.5万人次",
+      "holiday_avg": "10.3万人次"
+    },
+    {
+      "name": "上海丁香国际商业中心",
+      "open_date": "2017-07-09",
+      "area": "4.7万㎡",
+      "jun_daily_avg": "2.7万人次",
+      "weekday_avg": "2.7万人次",
+      "holiday_avg": "2.6万人次"
+    },
+    {
+      "name": "上海九六广场",
+      "open_date": "2008-11-28",
+      "area": "6.5万㎡",
+      "jun_daily_avg": "1.1万人次",
+      "weekday_avg": "1万人次",
+      "holiday_avg": "1.2万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 61.0,
+      "within_1yr_pct": 24.6,
+      "1_3yr_pct": 73.8,
+      "over_3yr_pct": 1.6
+    },
+    {
+      "type": "购物",
+      "count": 14.0,
+      "within_1yr_pct": 35.7,
+      "1_3yr_pct": 57.1,
+      "over_3yr_pct": 7.1
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "生活服务",
+      "count": 8.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 87.5,
+      "over_3yr_pct": 12.5
+    },
+    {
+      "type": "运动健身",
+      "count": 1.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 6.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 0.0
+    }
+  ]
+}

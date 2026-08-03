@@ -1,0 +1,422 @@
+{
+  "name": "领展购物广场·京通",
+  "city": "北京市",
+  "address": "北京市通州区通马路100号",
+  "lat": 39.889015,
+  "lng": 116.658678,
+  "overview": {
+    "score": 94.4,
+    "score_rank": "市内前30%",
+    "population_score": 84.6,
+    "area_score": 79.5,
+    "consumption_score": 68.9,
+    "industry_score": 94.5,
+    "annual_sales": "1.45",
+    "annual_sales_unit": "亿元",
+    "area_size_sqm": 6.75,
+    "open_date": "2014-01-01",
+    "operator": "领展资产管理有限公司",
+    "brand": "领展资产管理有限公司",
+    "type": "美食型",
+    "floors": "B1-L5"
+  },
+  "traffic": {
+    "annual_daily": 3.33,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第58",
+    "jun_total": 108.6,
+    "jun_total_rank": "市内商场第86名",
+    "jun_daily_avg": 3.6,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第86名",
+    "weekday_avg": 3.3,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第85名",
+    "holiday_avg": 4.5,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第86名"
+  },
+  "population": {
+    "residential": {
+      "500m": 1.7,
+      "1_5km": 18.3,
+      "3km": 61.1
+    },
+    "office": {
+      "500m": 1.2,
+      "1_5km": 7.5,
+      "3km": 26.3
+    },
+    "permanent": {
+      "500m": 2.2,
+      "1_5km": 18.1,
+      "3km": 60.5
+    }
+  },
+  "business": {
+    "competitors": 7.0,
+    "food": 177.0,
+    "shopping": 134.0,
+    "leisure": 24.0,
+    "education": 27.0,
+    "hotel": 9.0,
+    "services": 108.0,
+    "fitness": 14.0,
+    "auto": 23.0,
+    "total_stores": 247.0,
+    "old_store_3yr_pct": 54.0
+  },
+  "nearby_poi": {
+    "business": 2.0,
+    "community": 374.0,
+    "office": 12.0,
+    "school": 40.0,
+    "hospital": 67.0,
+    "transport": 9.0,
+    "scenic": 80.0
+  },
+  "demographics": {
+    "male_pct": 48.2,
+    "female_pct": null,
+    "education": {
+      "小学": 8.8,
+      "初中": 14.9,
+      "高中": 10.6,
+      "大专": 8.4,
+      "本科": 51.2,
+      "硕士": 5.0,
+      "博士": 1.1
+    },
+    "has_children_pct": 59.9,
+    "no_children_pct": 40.1
+  },
+  "scraped_at": "2026-08-01T05:00:15.592Z",
+  "nearby_restaurants": [
+    {
+      "brand": "醉面(领展京通店)",
+      "address": "翠景北里21号楼-1层101商业-1-0044、-1-0045",
+      "distance": "2m"
+    },
+    {
+      "brand": "三元梅园(通州领展广场店)",
+      "address": "北京城区领展购物广场B1层京东七鲜超市出口旁",
+      "distance": "4m"
+    },
+    {
+      "brand": "煲仔皇煲仔饭(北京通州领展店)",
+      "address": "通州领展广场B1层",
+      "distance": "5m"
+    },
+    {
+      "brand": "卤享欢小龙虾牛羊骨(爱琴海店)",
+      "address": "梨园镇新华北路北京北投爱琴海购物公园B10",
+      "distance": "6m"
+    },
+    {
+      "brand": "咔滋咔滋西餐",
+      "address": "九棵树街道九棵树中街9号领展购物广场京通五楼",
+      "distance": "6m"
+    },
+    {
+      "brand": "北京稻香村(通州领展广场店)",
+      "address": "领展地下一层(九棵树地铁站出入口步行130米)",
+      "distance": "8m"
+    },
+    {
+      "brand": "子固路拌粉(通州领展广场店)(暂停营业)",
+      "address": "北京城区翠景北里21号楼-1层101商业-1-02号",
+      "distance": "9m"
+    },
+    {
+      "brand": "魏记水煎包",
+      "address": "金成中心(九棵树地铁站出入口步行160米)",
+      "distance": "9m"
+    },
+    {
+      "brand": "椒太后地摊麻辣烫串串香(通州领展广场店)",
+      "address": "九棵树中街9号北京通州领展广场B1层FZ128",
+      "distance": "9m"
+    },
+    {
+      "brand": "新辣道(通州领展广场店)",
+      "address": "梨园镇九棵树领展购物广场新3层",
+      "distance": "12m"
+    },
+    {
+      "brand": "醉面(领展京通店)",
+      "address": "翠景北里21号楼-1层101商业-1-0044、-1-0045",
+      "distance": "2m"
+    },
+    {
+      "brand": "三元梅园(通州领展广场店)",
+      "address": "北京城区领展购物广场B1层京东七鲜超市出口旁",
+      "distance": "4m"
+    },
+    {
+      "brand": "煲仔皇煲仔饭(北京通州领展店)",
+      "address": "通州领展广场B1层",
+      "distance": "5m"
+    },
+    {
+      "brand": "卤享欢小龙虾牛羊骨(爱琴海店)",
+      "address": "梨园镇新华北路北京北投爱琴海购物公园B10",
+      "distance": "6m"
+    },
+    {
+      "brand": "咔滋咔滋西餐",
+      "address": "九棵树街道九棵树中街9号领展购物广场京通五楼",
+      "distance": "6m"
+    },
+    {
+      "brand": "北京稻香村(通州领展广场店)",
+      "address": "领展地下一层(九棵树地铁站出入口步行130米)",
+      "distance": "8m"
+    },
+    {
+      "brand": "子固路拌粉(通州领展广场店)(暂停营业)",
+      "address": "北京城区翠景北里21号楼-1层101商业-1-02号",
+      "distance": "9m"
+    },
+    {
+      "brand": "魏记水煎包",
+      "address": "金成中心(九棵树地铁站出入口步行160米)",
+      "distance": "9m"
+    },
+    {
+      "brand": "椒太后地摊麻辣烫串串香(通州领展广场店)",
+      "address": "九棵树中街9号北京通州领展广场B1层FZ128",
+      "distance": "9m"
+    },
+    {
+      "brand": "新辣道(通州领展广场店)",
+      "address": "梨园镇九棵树领展购物广场新3层",
+      "distance": "12m"
+    },
+    {
+      "brand": "醉面(领展京通店)",
+      "address": "翠景北里21号楼-1层101商业-1-0044、-1-0045",
+      "distance": "2m"
+    },
+    {
+      "brand": "三元梅园(通州领展广场店)",
+      "address": "北京城区领展购物广场B1层京东七鲜超市出口旁",
+      "distance": "4m"
+    },
+    {
+      "brand": "煲仔皇煲仔饭(北京通州领展店)",
+      "address": "通州领展广场B1层",
+      "distance": "5m"
+    },
+    {
+      "brand": "卤享欢小龙虾牛羊骨(爱琴海店)",
+      "address": "梨园镇新华北路北京北投爱琴海购物公园B10",
+      "distance": "6m"
+    },
+    {
+      "brand": "咔滋咔滋西餐",
+      "address": "九棵树街道九棵树中街9号领展购物广场京通五楼",
+      "distance": "6m"
+    },
+    {
+      "brand": "北京稻香村(通州领展广场店)",
+      "address": "领展地下一层(九棵树地铁站出入口步行130米)",
+      "distance": "8m"
+    },
+    {
+      "brand": "子固路拌粉(通州领展广场店)(暂停营业)",
+      "address": "北京城区翠景北里21号楼-1层101商业-1-02号",
+      "distance": "9m"
+    },
+    {
+      "brand": "魏记水煎包",
+      "address": "金成中心(九棵树地铁站出入口步行160米)",
+      "distance": "9m"
+    },
+    {
+      "brand": "椒太后地摊麻辣烫串串香(通州领展广场店)",
+      "address": "九棵树中街9号北京通州领展广场B1层FZ128",
+      "distance": "9m"
+    },
+    {
+      "brand": "新辣道(通州领展广场店)",
+      "address": "梨园镇九棵树领展购物广场新3层",
+      "distance": "12m"
+    },
+    {
+      "brand": "醉面(领展京通店)",
+      "address": "翠景北里21号楼-1层101商业-1-0044、-1-0045",
+      "distance": "2m"
+    },
+    {
+      "brand": "三元梅园(通州领展广场店)",
+      "address": "北京城区领展购物广场B1层京东七鲜超市出口旁",
+      "distance": "4m"
+    },
+    {
+      "brand": "煲仔皇煲仔饭(北京通州领展店)",
+      "address": "通州领展广场B1层",
+      "distance": "5m"
+    },
+    {
+      "brand": "卤享欢小龙虾牛羊骨(爱琴海店)",
+      "address": "梨园镇新华北路北京北投爱琴海购物公园B10",
+      "distance": "6m"
+    },
+    {
+      "brand": "咔滋咔滋西餐",
+      "address": "九棵树街道九棵树中街9号领展购物广场京通五楼",
+      "distance": "6m"
+    },
+    {
+      "brand": "北京稻香村(通州领展广场店)",
+      "address": "领展地下一层(九棵树地铁站出入口步行130米)",
+      "distance": "8m"
+    },
+    {
+      "brand": "子固路拌粉(通州领展广场店)(暂停营业)",
+      "address": "北京城区翠景北里21号楼-1层101商业-1-02号",
+      "distance": "9m"
+    },
+    {
+      "brand": "魏记水煎包",
+      "address": "金成中心(九棵树地铁站出入口步行160米)",
+      "distance": "9m"
+    },
+    {
+      "brand": "椒太后地摊麻辣烫串串香(通州领展广场店)",
+      "address": "九棵树中街9号北京通州领展广场B1层FZ128",
+      "distance": "9m"
+    },
+    {
+      "brand": "新辣道(通州领展广场店)",
+      "address": "梨园镇九棵树领展购物广场新3层",
+      "distance": "12m"
+    },
+    {
+      "brand": "醉面(领展京通店)",
+      "address": "翠景北里21号楼-1层101商业-1-0044、-1-0045",
+      "distance": "2m"
+    },
+    {
+      "brand": "三元梅园(通州领展广场店)",
+      "address": "北京城区领展购物广场B1层京东七鲜超市出口旁",
+      "distance": "4m"
+    },
+    {
+      "brand": "煲仔皇煲仔饭(北京通州领展店)",
+      "address": "通州领展广场B1层",
+      "distance": "5m"
+    },
+    {
+      "brand": "卤享欢小龙虾牛羊骨(爱琴海店)",
+      "address": "梨园镇新华北路北京北投爱琴海购物公园B10",
+      "distance": "6m"
+    },
+    {
+      "brand": "咔滋咔滋西餐",
+      "address": "九棵树街道九棵树中街9号领展购物广场京通五楼",
+      "distance": "6m"
+    },
+    {
+      "brand": "北京稻香村(通州领展广场店)",
+      "address": "领展地下一层(九棵树地铁站出入口步行130米)",
+      "distance": "8m"
+    },
+    {
+      "brand": "子固路拌粉(通州领展广场店)(暂停营业)",
+      "address": "北京城区翠景北里21号楼-1层101商业-1-02号",
+      "distance": "9m"
+    },
+    {
+      "brand": "魏记水煎包",
+      "address": "金成中心(九棵树地铁站出入口步行160米)",
+      "distance": "9m"
+    },
+    {
+      "brand": "椒太后地摊麻辣烫串串香(通州领展广场店)",
+      "address": "九棵树中街9号北京通州领展广场B1层FZ128",
+      "distance": "9m"
+    },
+    {
+      "brand": "新辣道(通州领展广场店)",
+      "address": "梨园镇九棵树领展购物广场新3层",
+      "distance": "12m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "北京阳光新生活广场",
+      "open_date": "2025-06-01",
+      "area": "5万㎡",
+      "jun_daily_avg": "1.4万人次",
+      "weekday_avg": "1.4万人次",
+      "holiday_avg": "1.7万人次"
+    },
+    {
+      "name": "北京贵友大厦通州店",
+      "open_date": "2008-07-01",
+      "area": "3.5万㎡",
+      "jun_daily_avg": "1.6万人次",
+      "weekday_avg": "1.5万人次",
+      "holiday_avg": "1.8万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 114.0,
+      "within_1yr_pct": 14.0,
+      "1_3yr_pct": 30.7,
+      "over_3yr_pct": 55.3
+    },
+    {
+      "type": "购物",
+      "count": 75.0,
+      "within_1yr_pct": 14.7,
+      "1_3yr_pct": 29.3,
+      "over_3yr_pct": 56.0
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 16.0,
+      "within_1yr_pct": 31.3,
+      "1_3yr_pct": 31.3,
+      "over_3yr_pct": 37.5
+    },
+    {
+      "type": "教育培训",
+      "count": 6.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 16.7,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "生活服务",
+      "count": 27.0,
+      "within_1yr_pct": 14.8,
+      "1_3yr_pct": 29.6,
+      "over_3yr_pct": 55.6
+    },
+    {
+      "type": "运动健身",
+      "count": 3.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 5.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 40.0,
+      "over_3yr_pct": 40.0
+    }
+  ]
+}

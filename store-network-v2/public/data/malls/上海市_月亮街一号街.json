@@ -1,0 +1,405 @@
+{
+  "name": "月亮街一号街",
+  "city": "上海市",
+  "address": "北京市东城区东长安街1号",
+  "lat": null,
+  "lng": null,
+  "overview": {
+    "score": 96.4,
+    "score_rank": "市内前30%",
+    "population_score": 77.9,
+    "area_score": 96.1,
+    "consumption_score": 90.5,
+    "industry_score": 96.5,
+    "annual_sales": "30",
+    "annual_sales_unit": "亿元",
+    "area_size_sqm": 12.0,
+    "open_date": "2000-09-01",
+    "operator": "北京东方广场有限公司",
+    "brand": "长江地产",
+    "type": "购物型",
+    "floors": "B2-L2"
+  },
+  "traffic": {
+    "annual_daily": 4.13,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第35",
+    "jun_total": 160.5,
+    "jun_total_rank": "市内商场第40名",
+    "jun_daily_avg": 5.4,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第40名",
+    "weekday_avg": 5.4,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第28名",
+    "holiday_avg": 5.2,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第69名"
+  },
+  "population": {
+    "residential": {
+      "500m": 1.2,
+      "1_5km": 14.6,
+      "3km": 57.1
+    },
+    "office": {
+      "500m": 4.0,
+      "1_5km": 20.6,
+      "3km": 59.8
+    },
+    "permanent": {
+      "500m": 3.1,
+      "1_5km": 21.7,
+      "3km": 69.0
+    }
+  },
+  "business": {
+    "competitors": 13.0,
+    "food": 357.0,
+    "shopping": 407.0,
+    "leisure": 23.0,
+    "education": 6.0,
+    "hotel": 39.0,
+    "services": 106.0,
+    "fitness": 18.0,
+    "auto": 16.0,
+    "total_stores": 354.0,
+    "old_store_3yr_pct": 56.0
+  },
+  "nearby_poi": {
+    "business": 14.0,
+    "community": 314.0,
+    "office": 83.0,
+    "school": 40.0,
+    "hospital": 119.0,
+    "transport": 10.0,
+    "scenic": 1019.0
+  },
+  "demographics": {
+    "male_pct": 47.0,
+    "female_pct": null,
+    "education": {
+      "小学": 10.4,
+      "初中": 17.6,
+      "高中": 11.4,
+      "大专": 6.6,
+      "本科": 45.9,
+      "硕士": 6.4,
+      "博士": 1.7
+    },
+    "has_children_pct": 54.1,
+    "no_children_pct": 45.9
+  },
+  "scraped_at": "2026-08-01T10:22:03.205Z",
+  "nearby_restaurants": [
+    {
+      "brand": "晨燕烧烤·卷饼",
+      "address": "清河中街辅路与清文路交叉口西100米",
+      "distance": "2m"
+    },
+    {
+      "brand": "粒上皇(北京海淀清河店)",
+      "address": "清河三街98号清河百货商场一层",
+      "distance": "2m"
+    },
+    {
+      "brand": "酥本味(清河中街店)",
+      "address": "清河百货商场南门旁",
+      "distance": "2m"
+    },
+    {
+      "brand": "布符(清河百货商场店)",
+      "address": "清河中街辅路与清文路交叉口西100米",
+      "distance": "8m"
+    },
+    {
+      "brand": "luckin coffee 瑞幸咖啡(清河百货商场店)",
+      "address": "清河三街98号清河百货商场F1层",
+      "distance": "10m"
+    },
+    {
+      "brand": "肯德基(清河百货店)",
+      "address": "北京城区清河三街98号一层西第三间",
+      "distance": "13m"
+    },
+    {
+      "brand": "肯悦咖啡清河百货(装修中)",
+      "address": "清河三街98号一层西起第三间",
+      "distance": "14m"
+    },
+    {
+      "brand": "青悦咖啡(清河百货商场店)",
+      "address": "清河三街98号清河百货商场",
+      "distance": "14m"
+    },
+    {
+      "brand": "宏祥南门铜锅炭火涮肉·烧烤(清河店)",
+      "address": "清河三街98号清河百货商场2层208号",
+      "distance": "19m"
+    },
+    {
+      "brand": "南城香(清河店)",
+      "address": "北京城区清河三街98号1层102",
+      "distance": "23m"
+    },
+    {
+      "brand": "晨燕烧烤·卷饼",
+      "address": "清河中街辅路与清文路交叉口西100米",
+      "distance": "2m"
+    },
+    {
+      "brand": "粒上皇(北京海淀清河店)",
+      "address": "清河三街98号清河百货商场一层",
+      "distance": "2m"
+    },
+    {
+      "brand": "酥本味(清河中街店)",
+      "address": "清河百货商场南门旁",
+      "distance": "2m"
+    },
+    {
+      "brand": "布符(清河百货商场店)",
+      "address": "清河中街辅路与清文路交叉口西100米",
+      "distance": "8m"
+    },
+    {
+      "brand": "luckin coffee 瑞幸咖啡(清河百货商场店)",
+      "address": "清河三街98号清河百货商场F1层",
+      "distance": "10m"
+    },
+    {
+      "brand": "肯德基(清河百货店)",
+      "address": "北京城区清河三街98号一层西第三间",
+      "distance": "13m"
+    },
+    {
+      "brand": "肯悦咖啡清河百货(装修中)",
+      "address": "清河三街98号一层西起第三间",
+      "distance": "14m"
+    },
+    {
+      "brand": "青悦咖啡(清河百货商场店)",
+      "address": "清河三街98号清河百货商场",
+      "distance": "14m"
+    },
+    {
+      "brand": "宏祥南门铜锅炭火涮肉·烧烤(清河店)",
+      "address": "清河三街98号清河百货商场2层208号",
+      "distance": "19m"
+    },
+    {
+      "brand": "南城香(清河店)",
+      "address": "北京城区清河三街98号1层102",
+      "distance": "23m"
+    },
+    {
+      "brand": "晨燕烧烤·卷饼",
+      "address": "清河中街辅路与清文路交叉口西100米",
+      "distance": "2m"
+    },
+    {
+      "brand": "粒上皇(北京海淀清河店)",
+      "address": "清河三街98号清河百货商场一层",
+      "distance": "2m"
+    },
+    {
+      "brand": "酥本味(清河中街店)",
+      "address": "清河百货商场南门旁",
+      "distance": "2m"
+    },
+    {
+      "brand": "布符(清河百货商场店)",
+      "address": "清河中街辅路与清文路交叉口西100米",
+      "distance": "8m"
+    },
+    {
+      "brand": "luckin coffee 瑞幸咖啡(清河百货商场店)",
+      "address": "清河三街98号清河百货商场F1层",
+      "distance": "10m"
+    },
+    {
+      "brand": "肯德基(清河百货店)",
+      "address": "北京城区清河三街98号一层西第三间",
+      "distance": "13m"
+    },
+    {
+      "brand": "肯悦咖啡清河百货(装修中)",
+      "address": "清河三街98号一层西起第三间",
+      "distance": "14m"
+    },
+    {
+      "brand": "青悦咖啡(清河百货商场店)",
+      "address": "清河三街98号清河百货商场",
+      "distance": "14m"
+    },
+    {
+      "brand": "宏祥南门铜锅炭火涮肉·烧烤(清河店)",
+      "address": "清河三街98号清河百货商场2层208号",
+      "distance": "19m"
+    },
+    {
+      "brand": "南城香(清河店)",
+      "address": "北京城区清河三街98号1层102",
+      "distance": "23m"
+    },
+    {
+      "brand": "晨燕烧烤·卷饼",
+      "address": "清河中街辅路与清文路交叉口西100米",
+      "distance": "2m"
+    },
+    {
+      "brand": "粒上皇(北京海淀清河店)",
+      "address": "清河三街98号清河百货商场一层",
+      "distance": "2m"
+    },
+    {
+      "brand": "酥本味(清河中街店)",
+      "address": "清河百货商场南门旁",
+      "distance": "2m"
+    },
+    {
+      "brand": "布符(清河百货商场店)",
+      "address": "清河中街辅路与清文路交叉口西100米",
+      "distance": "8m"
+    },
+    {
+      "brand": "luckin coffee 瑞幸咖啡(清河百货商场店)",
+      "address": "清河三街98号清河百货商场F1层",
+      "distance": "10m"
+    },
+    {
+      "brand": "肯德基(清河百货店)",
+      "address": "北京城区清河三街98号一层西第三间",
+      "distance": "13m"
+    },
+    {
+      "brand": "肯悦咖啡清河百货(装修中)",
+      "address": "清河三街98号一层西起第三间",
+      "distance": "14m"
+    },
+    {
+      "brand": "青悦咖啡(清河百货商场店)",
+      "address": "清河三街98号清河百货商场",
+      "distance": "14m"
+    },
+    {
+      "brand": "宏祥南门铜锅炭火涮肉·烧烤(清河店)",
+      "address": "清河三街98号清河百货商场2层208号",
+      "distance": "19m"
+    },
+    {
+      "brand": "南城香(清河店)",
+      "address": "北京城区清河三街98号1层102",
+      "distance": "23m"
+    },
+    {
+      "brand": "晨燕烧烤·卷饼",
+      "address": "清河中街辅路与清文路交叉口西100米",
+      "distance": "2m"
+    },
+    {
+      "brand": "粒上皇(北京海淀清河店)",
+      "address": "清河三街98号清河百货商场一层",
+      "distance": "2m"
+    },
+    {
+      "brand": "酥本味(清河中街店)",
+      "address": "清河百货商场南门旁",
+      "distance": "2m"
+    },
+    {
+      "brand": "布符(清河百货商场店)",
+      "address": "清河中街辅路与清文路交叉口西100米",
+      "distance": "8m"
+    },
+    {
+      "brand": "luckin coffee 瑞幸咖啡(清河百货商场店)",
+      "address": "清河三街98号清河百货商场F1层",
+      "distance": "10m"
+    },
+    {
+      "brand": "肯德基(清河百货店)",
+      "address": "北京城区清河三街98号一层西第三间",
+      "distance": "13m"
+    },
+    {
+      "brand": "肯悦咖啡清河百货(装修中)",
+      "address": "清河三街98号一层西起第三间",
+      "distance": "14m"
+    },
+    {
+      "brand": "青悦咖啡(清河百货商场店)",
+      "address": "清河三街98号清河百货商场",
+      "distance": "14m"
+    },
+    {
+      "brand": "宏祥南门铜锅炭火涮肉·烧烤(清河店)",
+      "address": "清河三街98号清河百货商场2层208号",
+      "distance": "19m"
+    },
+    {
+      "brand": "南城香(清河店)",
+      "address": "北京城区清河三街98号1层102",
+      "distance": "23m"
+    }
+  ],
+  "nearby_malls": [],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 110.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 22.7,
+      "over_3yr_pct": 57.3
+    },
+    {
+      "type": "购物",
+      "count": 154.0,
+      "within_1yr_pct": 14.3,
+      "1_3yr_pct": 24.0,
+      "over_3yr_pct": 61.7
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 9.0,
+      "within_1yr_pct": 22.2,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 44.4
+    },
+    {
+      "type": "教育培训",
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 12.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 16.7,
+      "over_3yr_pct": 58.3
+    },
+    {
+      "type": "生活服务",
+      "count": 51.0,
+      "within_1yr_pct": 23.5,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 43.1
+    },
+    {
+      "type": "运动健身",
+      "count": 4.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 75.0,
+      "over_3yr_pct": 25.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 12.0,
+      "within_1yr_pct": 16.7,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 50.0
+    }
+  ]
+}

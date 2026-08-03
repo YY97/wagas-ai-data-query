@@ -1,0 +1,200 @@
+{
+  "name": "三新汇开元里",
+  "city": "上海市",
+  "address": "上海市闵行区浦江镇满天星生活广场浦江社区",
+  "lat": 31.042795,
+  "lng": 121.541975,
+  "overview": {
+    "score": 73.6,
+    "score_rank": "市内前50%",
+    "population_score": 85.0,
+    "area_score": 66.8,
+    "consumption_score": 64.5,
+    "industry_score": 73.6,
+    "annual_sales": "满天星生活广场秉承“重塑邻里关系，创造幸福社区”的发展理念，立足社区商业，力争为周边居民提供更加优质的社区商业体验，丰富周边社区居民日常活动",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 2.0,
+    "open_date": "2018-01-01",
+    "operator": "上海澹然资产管理有限公司",
+    "brand": "",
+    "type": "综合型",
+    "floors": "L1-L5"
+  },
+  "traffic": {
+    "annual_daily": 795.0,
+    "annual_daily_unit": "人次",
+    "annual_daily_rank": "市内第517",
+    "jun_total": null,
+    "jun_total_rank": "",
+    "jun_daily_avg": null,
+    "jun_daily_unit": "",
+    "jun_daily_rank": "",
+    "weekday_avg": null,
+    "weekday_unit": "",
+    "weekday_rank": "",
+    "holiday_avg": null,
+    "holiday_unit": "",
+    "holiday_rank": ""
+  },
+  "population": {
+    "residential": {
+      "500m": 2.0,
+      "1_5km": 9.5,
+      "3km": 27.9
+    },
+    "office": {
+      "500m": 7400.0,
+      "1_5km": 2.6,
+      "3km": 8.1
+    },
+    "permanent": {
+      "500m": 1.9,
+      "1_5km": 8.8,
+      "3km": 24.8
+    }
+  },
+  "business": {
+    "competitors": 2.0,
+    "food": 64.0,
+    "shopping": 51.0,
+    "leisure": 4.0,
+    "education": 12.0,
+    "hotel": 2.0,
+    "services": 57.0,
+    "fitness": 4.0,
+    "auto": 29.0,
+    "total_stores": 42.0,
+    "old_store_3yr_pct": 64.0
+  },
+  "nearby_poi": {
+    "business": 1.0,
+    "community": 99.0,
+    "office": 2.0,
+    "school": 11.0,
+    "hospital": 12.0,
+    "transport": 12.0,
+    "scenic": 18.0
+  },
+  "demographics": {
+    "male_pct": 47.8,
+    "female_pct": null,
+    "education": {
+      "小学": 9.8,
+      "初中": 18.6,
+      "高中": 11.7,
+      "大专": 9.8,
+      "本科": 45.8,
+      "硕士": 3.3,
+      "博士": 1.0
+    },
+    "has_children_pct": 66.9,
+    "no_children_pct": 33.1
+  },
+  "scraped_at": "2026-08-02T03:27:23.645Z",
+  "nearby_restaurants": [
+    {
+      "brand": "格林豪泰酒店食堂",
+      "address": "鑫都路与新源路交叉口东60米",
+      "distance": "173m"
+    },
+    {
+      "brand": "鼎鼎海鲜",
+      "address": "莘庄工业区鑫都路2599号鑫都菜场二楼",
+      "distance": "173m"
+    },
+    {
+      "brand": "曾三仙米线(鑫都路店)",
+      "address": "鑫都路2460号10幢1层B12室、B14室",
+      "distance": "173m"
+    },
+    {
+      "brand": "我家酸菜鱼·烤鱼",
+      "address": "鑫都路与新源路交叉口东40米",
+      "distance": "176m"
+    },
+    {
+      "brand": "真炭烧烤",
+      "address": "鑫都路2460号B4-B7室",
+      "distance": "188m"
+    },
+    {
+      "brand": "臻串餐饮店",
+      "address": "鑫都路与瓶安路交叉口西80米",
+      "distance": "189m"
+    },
+    {
+      "brand": "虎妞家烤肉",
+      "address": "瓶安路与鑫都路交叉口南160米",
+      "distance": "283m"
+    },
+    {
+      "brand": "真粥道(鑫都路店)",
+      "address": "莘庄工业区鑫都路2683号",
+      "distance": "373m"
+    },
+    {
+      "brand": "巴比馒头(天恒名城店)",
+      "address": "颛桥镇鑫都路2754号",
+      "distance": "423m"
+    },
+    {
+      "brand": "锦鸿茶坊(鑫都路店)",
+      "address": "鑫都路2749号",
+      "distance": "480m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海东苑米兰广场",
+      "open_date": "2019-01-01",
+      "area": "1.4万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 10.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 80.0
+    },
+    {
+      "type": "购物",
+      "count": 16.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 43.8,
+      "over_3yr_pct": 56.3
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    },
+    {
+      "type": "教育培训",
+      "count": 3.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 33.3
+    },
+    {
+      "type": "生活服务",
+      "count": 9.0,
+      "within_1yr_pct": 44.4,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 55.6
+    },
+    {
+      "type": "运动健身",
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    }
+  ]
+}

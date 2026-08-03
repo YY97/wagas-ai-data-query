@@ -1,0 +1,458 @@
+{
+  "name": "上海豫园商城",
+  "city": "上海市",
+  "address": "上海市黄浦区豫园街道百翎路5号",
+  "lat": 31.226391,
+  "lng": 121.491216,
+  "overview": {
+    "score": 94.9,
+    "score_rank": "市内前30%",
+    "population_score": 82.3,
+    "area_score": 91.6,
+    "consumption_score": 87.4,
+    "industry_score": 95.0,
+    "annual_sales": "豫园商城依托豫园股份及复星集团旗下全球平台及资源赋能系统，汇聚1 7个中华老字号、2 0余个品牌时尚演绎中国传统经典为内核的优势产业集群，引领中华文化复兴潮流。",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 1000.0,
+    "open_date": "",
+    "operator": "上海豫园商贸发展有限公司",
+    "brand": "",
+    "type": "美食型",
+    "floors": ""
+  },
+  "traffic": {
+    "annual_daily": 8.93,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第2",
+    "jun_total": 229.0,
+    "jun_total_rank": "市内商场第17名",
+    "jun_daily_avg": 7.6,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第17名",
+    "weekday_avg": 6.5,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第27名",
+    "holiday_avg": 10.7,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第8名"
+  },
+  "population": {
+    "residential": {
+      "500m": 1.7,
+      "1_5km": 15.6,
+      "3km": 79.6
+    },
+    "office": {
+      "500m": 2.6,
+      "1_5km": 26.5,
+      "3km": 107.9
+    },
+    "permanent": {
+      "500m": 3.0,
+      "1_5km": 20.8,
+      "3km": 99.0
+    }
+  },
+  "business": {
+    "competitors": 9.0,
+    "food": 261.0,
+    "shopping": 576.0,
+    "leisure": 33.0,
+    "education": 11.0,
+    "hotel": 44.0,
+    "services": 116.0,
+    "fitness": 6.0,
+    "auto": 15.0,
+    "total_stores": 196.0,
+    "old_store_3yr_pct": 39.0
+  },
+  "nearby_poi": {
+    "business": 25.0,
+    "community": 756.0,
+    "office": 178.0,
+    "school": 53.0,
+    "hospital": 180.0,
+    "transport": 16.0,
+    "scenic": 876.0
+  },
+  "demographics": {
+    "male_pct": 47.8,
+    "female_pct": null,
+    "education": {
+      "小学": 8.9,
+      "初中": 16.3,
+      "高中": 11.4,
+      "大专": 6.8,
+      "本科": 48.7,
+      "硕士": 6.1,
+      "博士": 1.8
+    },
+    "has_children_pct": 57.2,
+    "no_children_pct": 42.8
+  },
+  "scraped_at": "2026-07-31T17:35:44.260Z",
+  "nearby_restaurants": [
+    {
+      "brand": "嗨.李记海鲜(豫园店)",
+      "address": "嗨李记海鲜(豫园店)方浜中路281号",
+      "distance": "18m"
+    },
+    {
+      "brand": "南翔馒头店(城隍庙店)",
+      "address": "豫园路87号(豫园地铁站7号口步行470米)",
+      "distance": "24m"
+    },
+    {
+      "brand": "FASCINO BAKERY(豫园店)",
+      "address": "凝晖路与豫园新路交叉口东北40米",
+      "distance": "25m"
+    },
+    {
+      "brand": "Peet's皮爷咖啡(豫园悦宾楼店)",
+      "address": "凝辉路39号悦宾楼YB1-039",
+      "distance": "29m"
+    },
+    {
+      "brand": "松鹤楼(豫园商城店)",
+      "address": "百翎路5号豫园商城1层(松月楼隔壁)",
+      "distance": "29m"
+    },
+    {
+      "brand": "刘鸿盛汤包",
+      "address": "豫园新路与凝晖路交叉口西20米",
+      "distance": "30m"
+    },
+    {
+      "brand": "宁波汤团店(豫园商城店)",
+      "address": "旧校场路122号靠近上海城隍庙",
+      "distance": "31m"
+    },
+    {
+      "brand": "绿波廊7号(豫园商城店)",
+      "address": "百翎路1号(豫园地铁站7号口步行480米)",
+      "distance": "31m"
+    },
+    {
+      "brand": "沈大成(豫园商城店)",
+      "address": "豫园新路豫园老街64号(豫园地铁站7号口步行430米)",
+      "distance": "31m"
+    },
+    {
+      "brand": "悦宾楼",
+      "address": "方浜中路249号(豫园地铁站7号口步行350米)",
+      "distance": "31m"
+    },
+    {
+      "brand": "嗨.李记海鲜(豫园店)",
+      "address": "嗨李记海鲜(豫园店)方浜中路281号",
+      "distance": "18m"
+    },
+    {
+      "brand": "南翔馒头店(城隍庙店)",
+      "address": "豫园路87号(豫园地铁站7号口步行470米)",
+      "distance": "24m"
+    },
+    {
+      "brand": "FASCINO BAKERY(豫园店)",
+      "address": "凝晖路与豫园新路交叉口东北40米",
+      "distance": "25m"
+    },
+    {
+      "brand": "Peet's皮爷咖啡(豫园悦宾楼店)",
+      "address": "凝辉路39号悦宾楼YB1-039",
+      "distance": "29m"
+    },
+    {
+      "brand": "松鹤楼(豫园商城店)",
+      "address": "百翎路5号豫园商城1层(松月楼隔壁)",
+      "distance": "29m"
+    },
+    {
+      "brand": "刘鸿盛汤包",
+      "address": "豫园新路与凝晖路交叉口西20米",
+      "distance": "30m"
+    },
+    {
+      "brand": "宁波汤团店(豫园商城店)",
+      "address": "旧校场路122号靠近上海城隍庙",
+      "distance": "31m"
+    },
+    {
+      "brand": "绿波廊7号(豫园商城店)",
+      "address": "百翎路1号(豫园地铁站7号口步行480米)",
+      "distance": "31m"
+    },
+    {
+      "brand": "沈大成(豫园商城店)",
+      "address": "豫园新路豫园老街64号(豫园地铁站7号口步行430米)",
+      "distance": "31m"
+    },
+    {
+      "brand": "悦宾楼",
+      "address": "方浜中路249号(豫园地铁站7号口步行350米)",
+      "distance": "31m"
+    },
+    {
+      "brand": "嗨.李记海鲜(豫园店)",
+      "address": "嗨李记海鲜(豫园店)方浜中路281号",
+      "distance": "18m"
+    },
+    {
+      "brand": "南翔馒头店(城隍庙店)",
+      "address": "豫园路87号(豫园地铁站7号口步行470米)",
+      "distance": "24m"
+    },
+    {
+      "brand": "FASCINO BAKERY(豫园店)",
+      "address": "凝晖路与豫园新路交叉口东北40米",
+      "distance": "25m"
+    },
+    {
+      "brand": "Peet's皮爷咖啡(豫园悦宾楼店)",
+      "address": "凝辉路39号悦宾楼YB1-039",
+      "distance": "29m"
+    },
+    {
+      "brand": "松鹤楼(豫园商城店)",
+      "address": "百翎路5号豫园商城1层(松月楼隔壁)",
+      "distance": "29m"
+    },
+    {
+      "brand": "刘鸿盛汤包",
+      "address": "豫园新路与凝晖路交叉口西20米",
+      "distance": "30m"
+    },
+    {
+      "brand": "宁波汤团店(豫园商城店)",
+      "address": "旧校场路122号靠近上海城隍庙",
+      "distance": "31m"
+    },
+    {
+      "brand": "绿波廊7号(豫园商城店)",
+      "address": "百翎路1号(豫园地铁站7号口步行480米)",
+      "distance": "31m"
+    },
+    {
+      "brand": "沈大成(豫园商城店)",
+      "address": "豫园新路豫园老街64号(豫园地铁站7号口步行430米)",
+      "distance": "31m"
+    },
+    {
+      "brand": "悦宾楼",
+      "address": "方浜中路249号(豫园地铁站7号口步行350米)",
+      "distance": "31m"
+    },
+    {
+      "brand": "嗨.李记海鲜(豫园店)",
+      "address": "嗨李记海鲜(豫园店)方浜中路281号",
+      "distance": "18m"
+    },
+    {
+      "brand": "南翔馒头店(城隍庙店)",
+      "address": "豫园路87号(豫园地铁站7号口步行470米)",
+      "distance": "24m"
+    },
+    {
+      "brand": "FASCINO BAKERY(豫园店)",
+      "address": "凝晖路与豫园新路交叉口东北40米",
+      "distance": "25m"
+    },
+    {
+      "brand": "Peet's皮爷咖啡(豫园悦宾楼店)",
+      "address": "凝辉路39号悦宾楼YB1-039",
+      "distance": "29m"
+    },
+    {
+      "brand": "松鹤楼(豫园商城店)",
+      "address": "百翎路5号豫园商城1层(松月楼隔壁)",
+      "distance": "29m"
+    },
+    {
+      "brand": "刘鸿盛汤包",
+      "address": "豫园新路与凝晖路交叉口西20米",
+      "distance": "30m"
+    },
+    {
+      "brand": "宁波汤团店(豫园商城店)",
+      "address": "旧校场路122号靠近上海城隍庙",
+      "distance": "31m"
+    },
+    {
+      "brand": "绿波廊7号(豫园商城店)",
+      "address": "百翎路1号(豫园地铁站7号口步行480米)",
+      "distance": "31m"
+    },
+    {
+      "brand": "沈大成(豫园商城店)",
+      "address": "豫园新路豫园老街64号(豫园地铁站7号口步行430米)",
+      "distance": "31m"
+    },
+    {
+      "brand": "悦宾楼",
+      "address": "方浜中路249号(豫园地铁站7号口步行350米)",
+      "distance": "31m"
+    },
+    {
+      "brand": "嗨.李记海鲜(豫园店)",
+      "address": "嗨李记海鲜(豫园店)方浜中路281号",
+      "distance": "18m"
+    },
+    {
+      "brand": "南翔馒头店(城隍庙店)",
+      "address": "豫园路87号(豫园地铁站7号口步行470米)",
+      "distance": "24m"
+    },
+    {
+      "brand": "FASCINO BAKERY(豫园店)",
+      "address": "凝晖路与豫园新路交叉口东北40米",
+      "distance": "25m"
+    },
+    {
+      "brand": "Peet's皮爷咖啡(豫园悦宾楼店)",
+      "address": "凝辉路39号悦宾楼YB1-039",
+      "distance": "29m"
+    },
+    {
+      "brand": "松鹤楼(豫园商城店)",
+      "address": "百翎路5号豫园商城1层(松月楼隔壁)",
+      "distance": "29m"
+    },
+    {
+      "brand": "刘鸿盛汤包",
+      "address": "豫园新路与凝晖路交叉口西20米",
+      "distance": "30m"
+    },
+    {
+      "brand": "宁波汤团店(豫园商城店)",
+      "address": "旧校场路122号靠近上海城隍庙",
+      "distance": "31m"
+    },
+    {
+      "brand": "绿波廊7号(豫园商城店)",
+      "address": "百翎路1号(豫园地铁站7号口步行480米)",
+      "distance": "31m"
+    },
+    {
+      "brand": "沈大成(豫园商城店)",
+      "address": "豫园新路豫园老街64号(豫园地铁站7号口步行430米)",
+      "distance": "31m"
+    },
+    {
+      "brand": "悦宾楼",
+      "address": "方浜中路249号(豫园地铁站7号口步行350米)",
+      "distance": "31m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海福佑商厦",
+      "open_date": "1998-01-01",
+      "area": "-",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "城隍庙第一购物中心(丽水路店)",
+      "open_date": "1995-01-01",
+      "area": "1.6万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海悦园商厦",
+      "open_date": "2005-01-01",
+      "area": "1.7万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海香港名都",
+      "open_date": "2010-09-01",
+      "area": "4万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海BFC外滩金融中心",
+      "open_date": "2019-12-12",
+      "area": "9.6万㎡",
+      "jun_daily_avg": "6.4万人次",
+      "weekday_avg": "6.3万人次",
+      "holiday_avg": "6.6万人次"
+    },
+    {
+      "name": "上海亚龙国际广场",
+      "open_date": "2007-01-01",
+      "area": "1.5万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海太平洋新天地商业广场",
+      "open_date": "2025",
+      "area": "8.3万㎡",
+      "jun_daily_avg": "2万人次",
+      "weekday_avg": "2万人次",
+      "holiday_avg": "2.1万人次"
+    },
+    {
+      "name": "大上海时代广场",
+      "open_date": "2000-01-01",
+      "area": "5万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海融创·外滩壹号汇",
+      "open_date": "2021-11-26",
+      "area": "2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海广场",
+      "open_date": "2020-09-29",
+      "area": "4万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 92.0,
+      "within_1yr_pct": 30.4,
+      "1_3yr_pct": 35.9,
+      "over_3yr_pct": 33.7
+    },
+    {
+      "type": "购物",
+      "count": 84.0,
+      "within_1yr_pct": 20.2,
+      "1_3yr_pct": 31.0,
+      "over_3yr_pct": 48.8
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 7.0,
+      "within_1yr_pct": 14.3,
+      "1_3yr_pct": 42.9,
+      "over_3yr_pct": 42.9
+    },
+    {
+      "type": "生活服务",
+      "count": 13.0,
+      "within_1yr_pct": 23.1,
+      "1_3yr_pct": 69.2,
+      "over_3yr_pct": 7.7
+    }
+  ]
+}

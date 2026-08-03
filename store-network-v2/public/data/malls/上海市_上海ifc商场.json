@@ -1,0 +1,486 @@
+{
+  "name": "上海ifc商场",
+  "city": "上海市",
+  "address": "上海市浦东新区陆家嘴街道上海国金中心上海ifc商场",
+  "lat": 31.236165,
+  "lng": 121.502326,
+  "overview": {
+    "score": 95.2,
+    "score_rank": "市内前30%",
+    "population_score": 67.6,
+    "area_score": 91.0,
+    "consumption_score": 98.9,
+    "industry_score": 95.3,
+    "annual_sales": "70",
+    "annual_sales_unit": "亿元",
+    "area_size_sqm": 11.0,
+    "open_date": "2010-04-28",
+    "operator": "新鸿基有限公司",
+    "brand": "",
+    "type": "购物型",
+    "floors": "B2-L4"
+  },
+  "traffic": {
+    "annual_daily": 4.42,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第44",
+    "jun_total": 155.2,
+    "jun_total_rank": "市内商场第63名",
+    "jun_daily_avg": 5.2,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第63名",
+    "weekday_avg": 5.2,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第51名",
+    "holiday_avg": 5.0,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第87名"
+  },
+  "population": {
+    "residential": {
+      "500m": 6200.0,
+      "1_5km": 9.5,
+      "3km": 70.6
+    },
+    "office": {
+      "500m": 7.1,
+      "1_5km": 30.5,
+      "3km": 102.1
+    },
+    "permanent": {
+      "500m": 3.4,
+      "1_5km": 17.3,
+      "3km": 88.5
+    }
+  },
+  "business": {
+    "competitors": 24.0,
+    "food": 381.0,
+    "shopping": 337.0,
+    "leisure": 28.0,
+    "education": 9.0,
+    "hotel": 22.0,
+    "services": 120.0,
+    "fitness": 18.0,
+    "auto": 33.0,
+    "total_stores": 281.0,
+    "old_store_3yr_pct": 60.0
+  },
+  "nearby_poi": {
+    "business": 19.0,
+    "community": 624.0,
+    "office": 162.0,
+    "school": 20.0,
+    "hospital": 158.0,
+    "transport": 18.0,
+    "scenic": 762.0
+  },
+  "demographics": {
+    "male_pct": 48.1,
+    "female_pct": null,
+    "education": {
+      "小学": 10.0,
+      "初中": 18.4,
+      "高中": 11.4,
+      "大专": 8.0,
+      "本科": 46.3,
+      "硕士": 4.6,
+      "博士": 1.3
+    },
+    "has_children_pct": 58.4,
+    "no_children_pct": 41.6
+  },
+  "scraped_at": "2026-07-31T12:59:40.276Z",
+  "nearby_restaurants": [
+    {
+      "brand": "鼎+Dimbar(上海ifc商场)",
+      "address": "世纪大道8号上海ifc商场L4层L4-21",
+      "distance": "23m"
+    },
+    {
+      "brand": "ILDG冰淇淋实验室(上海国金中心店)",
+      "address": "银城中路辅路与世纪大道辅路交叉口西南140米",
+      "distance": "29m"
+    },
+    {
+      "brand": "TRATTORIA DEL BISTECCA",
+      "address": "陆家嘴街道世纪大道8号上海国金中心商场LG1-40号",
+      "distance": "30m"
+    },
+    {
+      "brand": "古意(国金中心商场)",
+      "address": "世纪大道8号国金中心LG1楼LG1-81",
+      "distance": "33m"
+    },
+    {
+      "brand": "胡麻(国金店)",
+      "address": "国金IFC四楼商场D座(商场裙房)四层L4-19-2&20",
+      "distance": "33m"
+    },
+    {
+      "brand": "Luneurs(上海国金中心商场店)",
+      "address": "世纪大道8号上海ifc商场LG1层",
+      "distance": "37m"
+    },
+    {
+      "brand": "炉匠 炉端烧·酒",
+      "address": "世纪大道8号ifc国金中心商场L4-22",
+      "distance": "39m"
+    },
+    {
+      "brand": "BUTTERFUL&CREAMOROUS黄油与面包(国金IFC店)",
+      "address": "世纪大道8号D座(商场裙房)B1层LG1-40室",
+      "distance": "40m"
+    },
+    {
+      "brand": "麺屋武蔵(国金中心店)",
+      "address": "陆家嘴世纪大道8号上海国金中心商场LG2-B-8",
+      "distance": "41m"
+    },
+    {
+      "brand": "露天餐厅",
+      "address": "世纪大道8号上海ifc商场(陆家嘴地铁站7号口旁)",
+      "distance": "46m"
+    },
+    {
+      "brand": "鼎+Dimbar(上海ifc商场)",
+      "address": "世纪大道8号上海ifc商场L4层L4-21",
+      "distance": "23m"
+    },
+    {
+      "brand": "ILDG冰淇淋实验室(上海国金中心店)",
+      "address": "银城中路辅路与世纪大道辅路交叉口西南140米",
+      "distance": "29m"
+    },
+    {
+      "brand": "TRATTORIA DEL BISTECCA",
+      "address": "陆家嘴街道世纪大道8号上海国金中心商场LG1-40号",
+      "distance": "30m"
+    },
+    {
+      "brand": "古意(国金中心商场)",
+      "address": "世纪大道8号国金中心LG1楼LG1-81",
+      "distance": "33m"
+    },
+    {
+      "brand": "胡麻(国金店)",
+      "address": "国金IFC四楼商场D座(商场裙房)四层L4-19-2&20",
+      "distance": "33m"
+    },
+    {
+      "brand": "Luneurs(上海国金中心商场店)",
+      "address": "世纪大道8号上海ifc商场LG1层",
+      "distance": "37m"
+    },
+    {
+      "brand": "炉匠 炉端烧·酒",
+      "address": "世纪大道8号ifc国金中心商场L4-22",
+      "distance": "39m"
+    },
+    {
+      "brand": "BUTTERFUL&CREAMOROUS黄油与面包(国金IFC店)",
+      "address": "世纪大道8号D座(商场裙房)B1层LG1-40室",
+      "distance": "40m"
+    },
+    {
+      "brand": "麺屋武蔵(国金中心店)",
+      "address": "陆家嘴世纪大道8号上海国金中心商场LG2-B-8",
+      "distance": "41m"
+    },
+    {
+      "brand": "露天餐厅",
+      "address": "世纪大道8号上海ifc商场(陆家嘴地铁站7号口旁)",
+      "distance": "46m"
+    },
+    {
+      "brand": "鼎+Dimbar(上海ifc商场)",
+      "address": "世纪大道8号上海ifc商场L4层L4-21",
+      "distance": "23m"
+    },
+    {
+      "brand": "ILDG冰淇淋实验室(上海国金中心店)",
+      "address": "银城中路辅路与世纪大道辅路交叉口西南140米",
+      "distance": "29m"
+    },
+    {
+      "brand": "TRATTORIA DEL BISTECCA",
+      "address": "陆家嘴街道世纪大道8号上海国金中心商场LG1-40号",
+      "distance": "30m"
+    },
+    {
+      "brand": "古意(国金中心商场)",
+      "address": "世纪大道8号国金中心LG1楼LG1-81",
+      "distance": "33m"
+    },
+    {
+      "brand": "胡麻(国金店)",
+      "address": "国金IFC四楼商场D座(商场裙房)四层L4-19-2&20",
+      "distance": "33m"
+    },
+    {
+      "brand": "Luneurs(上海国金中心商场店)",
+      "address": "世纪大道8号上海ifc商场LG1层",
+      "distance": "37m"
+    },
+    {
+      "brand": "炉匠 炉端烧·酒",
+      "address": "世纪大道8号ifc国金中心商场L4-22",
+      "distance": "39m"
+    },
+    {
+      "brand": "BUTTERFUL&CREAMOROUS黄油与面包(国金IFC店)",
+      "address": "世纪大道8号D座(商场裙房)B1层LG1-40室",
+      "distance": "40m"
+    },
+    {
+      "brand": "麺屋武蔵(国金中心店)",
+      "address": "陆家嘴世纪大道8号上海国金中心商场LG2-B-8",
+      "distance": "41m"
+    },
+    {
+      "brand": "露天餐厅",
+      "address": "世纪大道8号上海ifc商场(陆家嘴地铁站7号口旁)",
+      "distance": "46m"
+    },
+    {
+      "brand": "鼎+Dimbar(上海ifc商场)",
+      "address": "世纪大道8号上海ifc商场L4层L4-21",
+      "distance": "23m"
+    },
+    {
+      "brand": "ILDG冰淇淋实验室(上海国金中心店)",
+      "address": "银城中路辅路与世纪大道辅路交叉口西南140米",
+      "distance": "29m"
+    },
+    {
+      "brand": "TRATTORIA DEL BISTECCA",
+      "address": "陆家嘴街道世纪大道8号上海国金中心商场LG1-40号",
+      "distance": "30m"
+    },
+    {
+      "brand": "古意(国金中心商场)",
+      "address": "世纪大道8号国金中心LG1楼LG1-81",
+      "distance": "33m"
+    },
+    {
+      "brand": "胡麻(国金店)",
+      "address": "国金IFC四楼商场D座(商场裙房)四层L4-19-2&20",
+      "distance": "33m"
+    },
+    {
+      "brand": "Luneurs(上海国金中心商场店)",
+      "address": "世纪大道8号上海ifc商场LG1层",
+      "distance": "37m"
+    },
+    {
+      "brand": "炉匠 炉端烧·酒",
+      "address": "世纪大道8号ifc国金中心商场L4-22",
+      "distance": "39m"
+    },
+    {
+      "brand": "BUTTERFUL&CREAMOROUS黄油与面包(国金IFC店)",
+      "address": "世纪大道8号D座(商场裙房)B1层LG1-40室",
+      "distance": "40m"
+    },
+    {
+      "brand": "麺屋武蔵(国金中心店)",
+      "address": "陆家嘴世纪大道8号上海国金中心商场LG2-B-8",
+      "distance": "41m"
+    },
+    {
+      "brand": "露天餐厅",
+      "address": "世纪大道8号上海ifc商场(陆家嘴地铁站7号口旁)",
+      "distance": "46m"
+    },
+    {
+      "brand": "鼎+Dimbar(上海ifc商场)",
+      "address": "世纪大道8号上海ifc商场L4层L4-21",
+      "distance": "23m"
+    },
+    {
+      "brand": "ILDG冰淇淋实验室(上海国金中心店)",
+      "address": "银城中路辅路与世纪大道辅路交叉口西南140米",
+      "distance": "29m"
+    },
+    {
+      "brand": "TRATTORIA DEL BISTECCA",
+      "address": "陆家嘴街道世纪大道8号上海国金中心商场LG1-40号",
+      "distance": "30m"
+    },
+    {
+      "brand": "古意(国金中心商场)",
+      "address": "世纪大道8号国金中心LG1楼LG1-81",
+      "distance": "33m"
+    },
+    {
+      "brand": "胡麻(国金店)",
+      "address": "国金IFC四楼商场D座(商场裙房)四层L4-19-2&20",
+      "distance": "33m"
+    },
+    {
+      "brand": "Luneurs(上海国金中心商场店)",
+      "address": "世纪大道8号上海ifc商场LG1层",
+      "distance": "37m"
+    },
+    {
+      "brand": "炉匠 炉端烧·酒",
+      "address": "世纪大道8号ifc国金中心商场L4-22",
+      "distance": "39m"
+    },
+    {
+      "brand": "BUTTERFUL&CREAMOROUS黄油与面包(国金IFC店)",
+      "address": "世纪大道8号D座(商场裙房)B1层LG1-40室",
+      "distance": "40m"
+    },
+    {
+      "brand": "麺屋武蔵(国金中心店)",
+      "address": "陆家嘴世纪大道8号上海国金中心商场LG2-B-8",
+      "distance": "41m"
+    },
+    {
+      "brand": "露天餐厅",
+      "address": "世纪大道8号上海ifc商场(陆家嘴地铁站7号口旁)",
+      "distance": "46m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海金茂J·LIFE生活时尚中心",
+      "open_date": "2005-09-01",
+      "area": "2.3万㎡",
+      "jun_daily_avg": "1.4万人次",
+      "weekday_avg": "1.4万人次",
+      "holiday_avg": "1.4万人次"
+    },
+    {
+      "name": "上海正大广场",
+      "open_date": "2002-01-01",
+      "area": "24.3万㎡",
+      "jun_daily_avg": "5.2万人次",
+      "weekday_avg": "4.7万人次",
+      "holiday_avg": "6.3万人次"
+    },
+    {
+      "name": "上海之品商场",
+      "open_date": "-",
+      "area": "7万㎡",
+      "jun_daily_avg": "3.3万人次",
+      "weekday_avg": "3.4万人次",
+      "holiday_avg": "3.2万人次"
+    },
+    {
+      "name": "上海环球金融中心",
+      "open_date": "2008-08-29",
+      "area": "1.4万㎡",
+      "jun_daily_avg": "1.9万人次",
+      "weekday_avg": "2.2万人次",
+      "holiday_avg": "1万人次"
+    },
+    {
+      "name": "上海览海国际广场",
+      "open_date": "2017-11-28",
+      "area": "3.7万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海GALA MALL尚悦湾广场",
+      "open_date": "2017-12-23",
+      "area": "7万㎡",
+      "jun_daily_avg": "2.8万人次",
+      "weekday_avg": "3.2万人次",
+      "holiday_avg": "1.6万人次"
+    },
+    {
+      "name": "上海BFC外滩金融中心",
+      "open_date": "2019-12-12",
+      "area": "9.6万㎡",
+      "jun_daily_avg": "6.4万人次",
+      "weekday_avg": "6.3万人次",
+      "holiday_avg": "6.6万人次"
+    },
+    {
+      "name": "上海悦园商厦",
+      "open_date": "2005-01-01",
+      "area": "1.7万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海福佑商厦",
+      "open_date": "1998-01-01",
+      "area": "-",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海益丰外滩源",
+      "open_date": "2012-05-17",
+      "area": "6000㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 63.0,
+      "within_1yr_pct": 19.0,
+      "1_3yr_pct": 23.8,
+      "over_3yr_pct": 57.1
+    },
+    {
+      "type": "购物",
+      "count": 184.0,
+      "within_1yr_pct": 19.6,
+      "1_3yr_pct": 17.4,
+      "over_3yr_pct": 63.0
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 6.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 16.7,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "教育培训",
+      "count": 2.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 7.0,
+      "within_1yr_pct": 28.6,
+      "1_3yr_pct": 14.3,
+      "over_3yr_pct": 57.1
+    },
+    {
+      "type": "生活服务",
+      "count": 15.0,
+      "within_1yr_pct": 26.7,
+      "1_3yr_pct": 6.7,
+      "over_3yr_pct": 66.7
+    },
+    {
+      "type": "运动健身",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 3.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 66.7,
+      "over_3yr_pct": 0.0
+    }
+  ]
+}

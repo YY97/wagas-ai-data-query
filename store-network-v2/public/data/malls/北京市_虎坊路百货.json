@@ -1,0 +1,119 @@
+{
+  "name": "虎坊路百货",
+  "city": "北京市",
+  "address": "北京市西城区天桥街道绝味鸭脖虎坊路百货",
+  "lat": 39.883424,
+  "lng": 116.385796,
+  "overview": {
+    "score": null,
+    "score_rank": "",
+    "population_score": 95.8,
+    "area_score": 78.2,
+    "consumption_score": 87.7,
+    "industry_score": 65.0,
+    "annual_sales": "北京虎坊路百货成立于1959年，位于北京市西城区北纬路81号，是一家以经营日用百货为主的综合性百货商场。商场营业面积600余平方米，多年来一直保留着上个世纪七八十年代的风格，主要销售经典老国货，如蛤蜊油、暖水瓶、搪瓷脸盆等。虎坊路百货坚持“服务第一，顾客至上”的宗旨，精心挑选质量过硬、价格合理的老品牌商品。1998年进行股份制改革后，依然保持原有经营模式，以满足周边居民生活需求为主要目标。如今，它不仅深受周边居民青睐，还因独特的怀旧风格成为众多年轻人的“网红打卡地”。",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 300.0,
+    "open_date": "",
+    "operator": "北京市宣武虎坊路百货有限责任公司",
+    "brand": "",
+    "type": "综合型",
+    "floors": "L1-L1"
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "-",
+    "annual_daily_rank": "",
+    "jun_total": 3.1,
+    "jun_total_rank": "市内商场第359名",
+    "jun_daily_avg": 1045.0,
+    "jun_daily_unit": "人次",
+    "jun_daily_rank": "市内商场第359名",
+    "weekday_avg": 1071.0,
+    "weekday_unit": "人次",
+    "weekday_rank": "市内商场第357名",
+    "holiday_avg": 969.0,
+    "holiday_unit": "人次",
+    "holiday_rank": "市内商场第367名"
+  },
+  "population": {
+    "residential": {
+      "500m": 3.1,
+      "1_5km": 17.9,
+      "3km": 69.5
+    },
+    "office": {
+      "500m": 1.8,
+      "1_5km": 10.7,
+      "3km": 46.7
+    },
+    "permanent": {
+      "500m": 3.0,
+      "1_5km": 18.4,
+      "3km": 79.0
+    }
+  },
+  "business": {
+    "competitors": null,
+    "food": 137.0,
+    "shopping": 103.0,
+    "leisure": 8.0,
+    "education": 29.0,
+    "hotel": 18.0,
+    "services": 115.0,
+    "fitness": 11.0,
+    "auto": 7.0,
+    "total_stores": 11.0,
+    "old_store_3yr_pct": 45.0
+  },
+  "nearby_poi": {
+    "business": 3.0,
+    "community": 412.0,
+    "office": 26.0,
+    "school": 63.0,
+    "hospital": 100.0,
+    "transport": 11.0,
+    "scenic": 632.0
+  },
+  "demographics": {
+    "male_pct": null,
+    "female_pct": null,
+    "education": {
+      "小学": 10.2,
+      "初中": 16.7,
+      "高中": 11.0,
+      "大专": 6.0,
+      "本科": 46.1,
+      "硕士": 7.8,
+      "博士": 2.2
+    },
+    "has_children_pct": 57.9,
+    "no_children_pct": 42.1
+  },
+  "scraped_at": "2026-08-01T14:26:45.353Z",
+  "nearby_restaurants": [],
+  "nearby_malls": [],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 3.0,
+      "within_1yr_pct": 66.7,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "购物",
+      "count": 6.0,
+      "within_1yr_pct": 16.7,
+      "1_3yr_pct": 16.7,
+      "over_3yr_pct": 66.7
+    },
+    {
+      "type": "生活服务",
+      "count": 2.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 50.0
+    }
+  ]
+}

@@ -1,0 +1,486 @@
+{
+  "name": "新华联商厦",
+  "city": "宁波市",
+  "address": "浙江省宁波市海曙区浙江厦街道天一广场宁波天一广场",
+  "lat": 29.869959,
+  "lng": 121.556573,
+  "overview": {
+    "score": 97.0,
+    "score_rank": "市内前30%",
+    "population_score": 95.4,
+    "area_score": 100.0,
+    "consumption_score": 80.8,
+    "industry_score": 97.0,
+    "annual_sales": "71",
+    "annual_sales_unit": "亿元",
+    "area_size_sqm": 22.0,
+    "open_date": "2002-10-01",
+    "operator": "宁波城建投资控股有限公司",
+    "brand": "",
+    "type": "美食型",
+    "floors": "B1-L4"
+  },
+  "traffic": {
+    "annual_daily": 7.1,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第1",
+    "jun_total": 337.0,
+    "jun_total_rank": "市内商场第1名",
+    "jun_daily_avg": 11.2,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第1名",
+    "weekday_avg": 9.6,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第1名",
+    "holiday_avg": 15.7,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第1名"
+  },
+  "population": {
+    "residential": {
+      "500m": 1.4,
+      "1_5km": 8.8,
+      "3km": 40.4
+    },
+    "office": {
+      "500m": 3.1,
+      "1_5km": 10.9,
+      "3km": 27.5
+    },
+    "permanent": {
+      "500m": 2.9,
+      "1_5km": 12.0,
+      "3km": 46.9
+    }
+  },
+  "business": {
+    "competitors": 16.0,
+    "food": 810.0,
+    "shopping": 1023.0,
+    "leisure": 191.0,
+    "education": 55.0,
+    "hotel": 102.0,
+    "services": 618.0,
+    "fitness": 46.0,
+    "auto": 36.0,
+    "total_stores": 612.0,
+    "old_store_3yr_pct": 60.0
+  },
+  "nearby_poi": {
+    "business": 16.0,
+    "community": 460.0,
+    "office": 96.0,
+    "school": 35.0,
+    "hospital": 122.0,
+    "transport": 21.0,
+    "scenic": 501.0
+  },
+  "demographics": {
+    "male_pct": 47.5,
+    "female_pct": null,
+    "education": {
+      "小学": 11.6,
+      "初中": 20.1,
+      "高中": 13.6,
+      "大专": 9.3,
+      "本科": 41.8,
+      "硕士": 2.9,
+      "博士": 0.7
+    },
+    "has_children_pct": 53.6,
+    "no_children_pct": 46.4
+  },
+  "scraped_at": "2026-08-02T09:49:29.664Z",
+  "nearby_restaurants": [
+    {
+      "brand": "铁酱披萨(天一广场店)",
+      "address": "开明街天一广场7号门右营巷79号",
+      "distance": "43m"
+    },
+    {
+      "brand": "ICE(天一广场店)",
+      "address": "中山东路188号宁波天一广场",
+      "distance": "44m"
+    },
+    {
+      "brand": "炉鱼(宁波天一店)",
+      "address": "中山东路166号宁波天一国际购物中心3楼",
+      "distance": "60m"
+    },
+    {
+      "brand": "西贝莜面村(国际购物中心店)(暂停营业)",
+      "address": "中山东路166号国际购物中心三楼",
+      "distance": "67m"
+    },
+    {
+      "brand": "大渔铁板烧(天一店)",
+      "address": "中山东路166号天一国际购物中心4楼",
+      "distance": "69m"
+    },
+    {
+      "brand": "肯德基(宁波新水街店)",
+      "address": "碶闸街116号IVC1014、IVC2006号商铺",
+      "distance": "76m"
+    },
+    {
+      "brand": "外婆家(宁波天一店)",
+      "address": "中山东路166号宁波天一国际购物中心4楼",
+      "distance": "77m"
+    },
+    {
+      "brand": "春天里自助小火锅(宁波天一国购店)",
+      "address": "海曙区国际购物中心3F",
+      "distance": "80m"
+    },
+    {
+      "brand": "湘间田舍(天一国购店)",
+      "address": "中山东路166号天一国购三楼012号",
+      "distance": "83m"
+    },
+    {
+      "brand": "胡秋月鲜活花甲粉(宁波天一店)",
+      "address": "中山东路188号宁波天一广场",
+      "distance": "85m"
+    },
+    {
+      "brand": "铁酱披萨(天一广场店)",
+      "address": "开明街天一广场7号门右营巷79号",
+      "distance": "43m"
+    },
+    {
+      "brand": "ICE(天一广场店)",
+      "address": "中山东路188号宁波天一广场",
+      "distance": "44m"
+    },
+    {
+      "brand": "炉鱼(宁波天一店)",
+      "address": "中山东路166号宁波天一国际购物中心3楼",
+      "distance": "60m"
+    },
+    {
+      "brand": "西贝莜面村(国际购物中心店)(暂停营业)",
+      "address": "中山东路166号国际购物中心三楼",
+      "distance": "67m"
+    },
+    {
+      "brand": "大渔铁板烧(天一店)",
+      "address": "中山东路166号天一国际购物中心4楼",
+      "distance": "69m"
+    },
+    {
+      "brand": "肯德基(宁波新水街店)",
+      "address": "碶闸街116号IVC1014、IVC2006号商铺",
+      "distance": "76m"
+    },
+    {
+      "brand": "外婆家(宁波天一店)",
+      "address": "中山东路166号宁波天一国际购物中心4楼",
+      "distance": "77m"
+    },
+    {
+      "brand": "春天里自助小火锅(宁波天一国购店)",
+      "address": "海曙区国际购物中心3F",
+      "distance": "80m"
+    },
+    {
+      "brand": "湘间田舍(天一国购店)",
+      "address": "中山东路166号天一国购三楼012号",
+      "distance": "83m"
+    },
+    {
+      "brand": "胡秋月鲜活花甲粉(宁波天一店)",
+      "address": "中山东路188号宁波天一广场",
+      "distance": "85m"
+    },
+    {
+      "brand": "铁酱披萨(天一广场店)",
+      "address": "开明街天一广场7号门右营巷79号",
+      "distance": "43m"
+    },
+    {
+      "brand": "ICE(天一广场店)",
+      "address": "中山东路188号宁波天一广场",
+      "distance": "44m"
+    },
+    {
+      "brand": "炉鱼(宁波天一店)",
+      "address": "中山东路166号宁波天一国际购物中心3楼",
+      "distance": "60m"
+    },
+    {
+      "brand": "西贝莜面村(国际购物中心店)(暂停营业)",
+      "address": "中山东路166号国际购物中心三楼",
+      "distance": "67m"
+    },
+    {
+      "brand": "大渔铁板烧(天一店)",
+      "address": "中山东路166号天一国际购物中心4楼",
+      "distance": "69m"
+    },
+    {
+      "brand": "肯德基(宁波新水街店)",
+      "address": "碶闸街116号IVC1014、IVC2006号商铺",
+      "distance": "76m"
+    },
+    {
+      "brand": "外婆家(宁波天一店)",
+      "address": "中山东路166号宁波天一国际购物中心4楼",
+      "distance": "77m"
+    },
+    {
+      "brand": "春天里自助小火锅(宁波天一国购店)",
+      "address": "海曙区国际购物中心3F",
+      "distance": "80m"
+    },
+    {
+      "brand": "湘间田舍(天一国购店)",
+      "address": "中山东路166号天一国购三楼012号",
+      "distance": "83m"
+    },
+    {
+      "brand": "胡秋月鲜活花甲粉(宁波天一店)",
+      "address": "中山东路188号宁波天一广场",
+      "distance": "85m"
+    },
+    {
+      "brand": "铁酱披萨(天一广场店)",
+      "address": "开明街天一广场7号门右营巷79号",
+      "distance": "43m"
+    },
+    {
+      "brand": "ICE(天一广场店)",
+      "address": "中山东路188号宁波天一广场",
+      "distance": "44m"
+    },
+    {
+      "brand": "炉鱼(宁波天一店)",
+      "address": "中山东路166号宁波天一国际购物中心3楼",
+      "distance": "60m"
+    },
+    {
+      "brand": "西贝莜面村(国际购物中心店)(暂停营业)",
+      "address": "中山东路166号国际购物中心三楼",
+      "distance": "67m"
+    },
+    {
+      "brand": "大渔铁板烧(天一店)",
+      "address": "中山东路166号天一国际购物中心4楼",
+      "distance": "69m"
+    },
+    {
+      "brand": "肯德基(宁波新水街店)",
+      "address": "碶闸街116号IVC1014、IVC2006号商铺",
+      "distance": "76m"
+    },
+    {
+      "brand": "外婆家(宁波天一店)",
+      "address": "中山东路166号宁波天一国际购物中心4楼",
+      "distance": "77m"
+    },
+    {
+      "brand": "春天里自助小火锅(宁波天一国购店)",
+      "address": "海曙区国际购物中心3F",
+      "distance": "80m"
+    },
+    {
+      "brand": "湘间田舍(天一国购店)",
+      "address": "中山东路166号天一国购三楼012号",
+      "distance": "83m"
+    },
+    {
+      "brand": "胡秋月鲜活花甲粉(宁波天一店)",
+      "address": "中山东路188号宁波天一广场",
+      "distance": "85m"
+    },
+    {
+      "brand": "铁酱披萨(天一广场店)",
+      "address": "开明街天一广场7号门右营巷79号",
+      "distance": "43m"
+    },
+    {
+      "brand": "ICE(天一广场店)",
+      "address": "中山东路188号宁波天一广场",
+      "distance": "44m"
+    },
+    {
+      "brand": "炉鱼(宁波天一店)",
+      "address": "中山东路166号宁波天一国际购物中心3楼",
+      "distance": "60m"
+    },
+    {
+      "brand": "西贝莜面村(国际购物中心店)(暂停营业)",
+      "address": "中山东路166号国际购物中心三楼",
+      "distance": "67m"
+    },
+    {
+      "brand": "大渔铁板烧(天一店)",
+      "address": "中山东路166号天一国际购物中心4楼",
+      "distance": "69m"
+    },
+    {
+      "brand": "肯德基(宁波新水街店)",
+      "address": "碶闸街116号IVC1014、IVC2006号商铺",
+      "distance": "76m"
+    },
+    {
+      "brand": "外婆家(宁波天一店)",
+      "address": "中山东路166号宁波天一国际购物中心4楼",
+      "distance": "77m"
+    },
+    {
+      "brand": "春天里自助小火锅(宁波天一国购店)",
+      "address": "海曙区国际购物中心3F",
+      "distance": "80m"
+    },
+    {
+      "brand": "湘间田舍(天一国购店)",
+      "address": "中山东路166号天一国购三楼012号",
+      "distance": "83m"
+    },
+    {
+      "brand": "胡秋月鲜活花甲粉(宁波天一店)",
+      "address": "中山东路188号宁波天一广场",
+      "distance": "85m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "宁波江荟151",
+      "open_date": "2019-02-01",
+      "area": "1.3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "宁波新华联商厦",
+      "open_date": "2005-01-01",
+      "area": "4.5万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "宁波第二百货",
+      "open_date": "1997-09-01",
+      "area": "2.8万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "宁波亿彩购物中心",
+      "open_date": "2013-04-28",
+      "area": "3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "宁波东门银泰百货",
+      "open_date": "2000-11-18",
+      "area": "2.7万㎡",
+      "jun_daily_avg": "1.6万人次",
+      "weekday_avg": "1.4万人次",
+      "holiday_avg": "2.1万人次"
+    },
+    {
+      "name": "宁波东鼓道",
+      "open_date": "2017-08-21",
+      "area": "-",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "宁波亚细亚商业广场",
+      "open_date": "2010-05-01",
+      "area": "5万㎡",
+      "jun_daily_avg": "1.2万人次",
+      "weekday_avg": "1.1万人次",
+      "holiday_avg": "1.6万人次"
+    },
+    {
+      "name": "宁波和义大道购物中心",
+      "open_date": "2009-09-01",
+      "area": "5.6万㎡",
+      "jun_daily_avg": "1.2万人次",
+      "weekday_avg": "1万人次",
+      "holiday_avg": "1.7万人次"
+    },
+    {
+      "name": "宁波恒一城市广场",
+      "open_date": "2021-01-15",
+      "area": "5.6万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "宁波甬安里",
+      "open_date": "2022-07-31",
+      "area": "8800㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 181.0,
+      "within_1yr_pct": 13.8,
+      "1_3yr_pct": 26.5,
+      "over_3yr_pct": 59.7
+    },
+    {
+      "type": "购物",
+      "count": 340.0,
+      "within_1yr_pct": 17.1,
+      "1_3yr_pct": 19.1,
+      "over_3yr_pct": 63.8
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 20.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 45.0,
+      "over_3yr_pct": 30.0
+    },
+    {
+      "type": "教育培训",
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 5.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 20.0,
+      "over_3yr_pct": 80.0
+    },
+    {
+      "type": "生活服务",
+      "count": 47.0,
+      "within_1yr_pct": 25.5,
+      "1_3yr_pct": 31.9,
+      "over_3yr_pct": 42.6
+    },
+    {
+      "type": "运动健身",
+      "count": 3.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 14.0,
+      "within_1yr_pct": 14.3,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 35.7
+    }
+  ]
+}

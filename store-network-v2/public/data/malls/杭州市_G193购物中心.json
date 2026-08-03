@@ -1,0 +1,438 @@
+{
+  "name": "G193购物中心",
+  "city": "杭州市",
+  "address": "浙江省杭州市拱墅区长浜路956号(新天地街地铁站A口步行400米)",
+  "lat": 30.327556,
+  "lng": 120.183462,
+  "overview": {
+    "score": 87.0,
+    "score_rank": "市内前30%",
+    "population_score": 87.2,
+    "area_score": 95.9,
+    "consumption_score": 81.5,
+    "industry_score": 87.0,
+    "annual_sales": "G193生活购物中心位于长浜路和新北街的交汇处，商业体量约7万平方米，是杭州首个“无边界”的年轻潮流购物综合体。项目采用经典电影元素打造“一层一景”，呈现加勒比海、美国都市丛林、东南亚、爱琴海等多种主题风格。购物中心包括零售、服饰、生活配套、特色餐饮、体验休闲、儿童等业态，强调品牌差异化，引进了多家“首店”和大型旗舰店",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 7.0,
+    "open_date": "2018-04-29",
+    "operator": "杭州万泽实业发展有限公司",
+    "brand": "",
+    "type": "美食型",
+    "floors": "L1-L5"
+  },
+  "traffic": {
+    "annual_daily": 5370.0,
+    "annual_daily_unit": "人次",
+    "annual_daily_rank": "市内第171",
+    "jun_total": 29.9,
+    "jun_total_rank": "市内商场第141名",
+    "jun_daily_avg": 9958.0,
+    "jun_daily_unit": "人次",
+    "jun_daily_rank": "市内商场第141名",
+    "weekday_avg": 9808.0,
+    "weekday_unit": "人次",
+    "weekday_rank": "市内商场第137名",
+    "holiday_avg": 1.0,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第142名"
+  },
+  "population": {
+    "residential": {
+      "500m": 1.3,
+      "1_5km": 8.6,
+      "3km": 33.8
+    },
+    "office": {
+      "500m": 1.5,
+      "1_5km": 5.7,
+      "3km": 18.5
+    },
+    "permanent": {
+      "500m": 1.8,
+      "1_5km": 8.3,
+      "3km": 30.3
+    }
+  },
+  "business": {
+    "competitors": 12.0,
+    "food": 503.0,
+    "shopping": 301.0,
+    "leisure": 84.0,
+    "education": 46.0,
+    "hotel": 73.0,
+    "services": 426.0,
+    "fitness": 38.0,
+    "auto": 32.0,
+    "total_stores": 130.0,
+    "old_store_3yr_pct": 37.0
+  },
+  "nearby_poi": {
+    "business": 4.0,
+    "community": 282.0,
+    "office": 40.0,
+    "school": 22.0,
+    "hospital": 70.0,
+    "transport": 15.0,
+    "scenic": 90.0
+  },
+  "demographics": {
+    "male_pct": 50.7,
+    "female_pct": null,
+    "education": {
+      "小学": 9.7,
+      "初中": 18.7,
+      "高中": 15.7,
+      "大专": 9.1,
+      "本科": 42.6,
+      "硕士": 3.4,
+      "博士": 0.8
+    },
+    "has_children_pct": 56.5,
+    "no_children_pct": 43.5
+  },
+  "scraped_at": "2026-08-02T09:17:03.463Z",
+  "nearby_restaurants": [
+    {
+      "brand": "喜姐炸串(拱墅新天地店)",
+      "address": "华盛达时代中心",
+      "distance": "1m"
+    },
+    {
+      "brand": "新疆馕坑烤牛羊肉蒸牛羊排",
+      "address": "东新街道长浜路956号华盛达时代中心1层150商铺",
+      "distance": "1m"
+    },
+    {
+      "brand": "西安小吃凉皮肉夹馍(新天地店)",
+      "address": "长浜路956号华盛达时代中心F1层",
+      "distance": "3m"
+    },
+    {
+      "brand": "内蒙古秘制烧烤牛羊肉蒸牛羊排",
+      "address": "长浜路956号华盛达时代中心F1层",
+      "distance": "3m"
+    },
+    {
+      "brand": "嗨吃小龙虾",
+      "address": "新北街与安桥港街交叉口南80米",
+      "distance": "3m"
+    },
+    {
+      "brand": "可劲造脆皮烤猪肘",
+      "address": "新北街与安桥港街交叉口南80米",
+      "distance": "3m"
+    },
+    {
+      "brand": "咕噜脆皮鸡烤肉拌饭(新天地店)",
+      "address": "长浜路956号华盛达时代中心F1层",
+      "distance": "3m"
+    },
+    {
+      "brand": "三米粥铺(拱墅新天地店)",
+      "address": "华盛达时代中心1层136号",
+      "distance": "5m"
+    },
+    {
+      "brand": "杭衢土菜馆",
+      "address": "长浜路956号华盛达时代中心F1层",
+      "distance": "6m"
+    },
+    {
+      "brand": "诺诺咖啡",
+      "address": "东新街道长浜路956号华盛达时代中心232室",
+      "distance": "17m"
+    },
+    {
+      "brand": "喜姐炸串(拱墅新天地店)",
+      "address": "华盛达时代中心",
+      "distance": "1m"
+    },
+    {
+      "brand": "新疆馕坑烤牛羊肉蒸牛羊排",
+      "address": "东新街道长浜路956号华盛达时代中心1层150商铺",
+      "distance": "1m"
+    },
+    {
+      "brand": "西安小吃凉皮肉夹馍(新天地店)",
+      "address": "长浜路956号华盛达时代中心F1层",
+      "distance": "3m"
+    },
+    {
+      "brand": "内蒙古秘制烧烤牛羊肉蒸牛羊排",
+      "address": "长浜路956号华盛达时代中心F1层",
+      "distance": "3m"
+    },
+    {
+      "brand": "嗨吃小龙虾",
+      "address": "新北街与安桥港街交叉口南80米",
+      "distance": "3m"
+    },
+    {
+      "brand": "可劲造脆皮烤猪肘",
+      "address": "新北街与安桥港街交叉口南80米",
+      "distance": "3m"
+    },
+    {
+      "brand": "咕噜脆皮鸡烤肉拌饭(新天地店)",
+      "address": "长浜路956号华盛达时代中心F1层",
+      "distance": "3m"
+    },
+    {
+      "brand": "三米粥铺(拱墅新天地店)",
+      "address": "华盛达时代中心1层136号",
+      "distance": "5m"
+    },
+    {
+      "brand": "杭衢土菜馆",
+      "address": "长浜路956号华盛达时代中心F1层",
+      "distance": "6m"
+    },
+    {
+      "brand": "诺诺咖啡",
+      "address": "东新街道长浜路956号华盛达时代中心232室",
+      "distance": "17m"
+    },
+    {
+      "brand": "喜姐炸串(拱墅新天地店)",
+      "address": "华盛达时代中心",
+      "distance": "1m"
+    },
+    {
+      "brand": "新疆馕坑烤牛羊肉蒸牛羊排",
+      "address": "东新街道长浜路956号华盛达时代中心1层150商铺",
+      "distance": "1m"
+    },
+    {
+      "brand": "西安小吃凉皮肉夹馍(新天地店)",
+      "address": "长浜路956号华盛达时代中心F1层",
+      "distance": "3m"
+    },
+    {
+      "brand": "内蒙古秘制烧烤牛羊肉蒸牛羊排",
+      "address": "长浜路956号华盛达时代中心F1层",
+      "distance": "3m"
+    },
+    {
+      "brand": "嗨吃小龙虾",
+      "address": "新北街与安桥港街交叉口南80米",
+      "distance": "3m"
+    },
+    {
+      "brand": "可劲造脆皮烤猪肘",
+      "address": "新北街与安桥港街交叉口南80米",
+      "distance": "3m"
+    },
+    {
+      "brand": "咕噜脆皮鸡烤肉拌饭(新天地店)",
+      "address": "长浜路956号华盛达时代中心F1层",
+      "distance": "3m"
+    },
+    {
+      "brand": "三米粥铺(拱墅新天地店)",
+      "address": "华盛达时代中心1层136号",
+      "distance": "5m"
+    },
+    {
+      "brand": "杭衢土菜馆",
+      "address": "长浜路956号华盛达时代中心F1层",
+      "distance": "6m"
+    },
+    {
+      "brand": "诺诺咖啡",
+      "address": "东新街道长浜路956号华盛达时代中心232室",
+      "distance": "17m"
+    },
+    {
+      "brand": "喜姐炸串(拱墅新天地店)",
+      "address": "华盛达时代中心",
+      "distance": "1m"
+    },
+    {
+      "brand": "新疆馕坑烤牛羊肉蒸牛羊排",
+      "address": "东新街道长浜路956号华盛达时代中心1层150商铺",
+      "distance": "1m"
+    },
+    {
+      "brand": "西安小吃凉皮肉夹馍(新天地店)",
+      "address": "长浜路956号华盛达时代中心F1层",
+      "distance": "3m"
+    },
+    {
+      "brand": "内蒙古秘制烧烤牛羊肉蒸牛羊排",
+      "address": "长浜路956号华盛达时代中心F1层",
+      "distance": "3m"
+    },
+    {
+      "brand": "嗨吃小龙虾",
+      "address": "新北街与安桥港街交叉口南80米",
+      "distance": "3m"
+    },
+    {
+      "brand": "可劲造脆皮烤猪肘",
+      "address": "新北街与安桥港街交叉口南80米",
+      "distance": "3m"
+    },
+    {
+      "brand": "咕噜脆皮鸡烤肉拌饭(新天地店)",
+      "address": "长浜路956号华盛达时代中心F1层",
+      "distance": "3m"
+    },
+    {
+      "brand": "三米粥铺(拱墅新天地店)",
+      "address": "华盛达时代中心1层136号",
+      "distance": "5m"
+    },
+    {
+      "brand": "杭衢土菜馆",
+      "address": "长浜路956号华盛达时代中心F1层",
+      "distance": "6m"
+    },
+    {
+      "brand": "诺诺咖啡",
+      "address": "东新街道长浜路956号华盛达时代中心232室",
+      "distance": "17m"
+    },
+    {
+      "brand": "喜姐炸串(拱墅新天地店)",
+      "address": "华盛达时代中心",
+      "distance": "1m"
+    },
+    {
+      "brand": "新疆馕坑烤牛羊肉蒸牛羊排",
+      "address": "东新街道长浜路956号华盛达时代中心1层150商铺",
+      "distance": "1m"
+    },
+    {
+      "brand": "西安小吃凉皮肉夹馍(新天地店)",
+      "address": "长浜路956号华盛达时代中心F1层",
+      "distance": "3m"
+    },
+    {
+      "brand": "内蒙古秘制烧烤牛羊肉蒸牛羊排",
+      "address": "长浜路956号华盛达时代中心F1层",
+      "distance": "3m"
+    },
+    {
+      "brand": "嗨吃小龙虾",
+      "address": "新北街与安桥港街交叉口南80米",
+      "distance": "3m"
+    },
+    {
+      "brand": "可劲造脆皮烤猪肘",
+      "address": "新北街与安桥港街交叉口南80米",
+      "distance": "3m"
+    },
+    {
+      "brand": "咕噜脆皮鸡烤肉拌饭(新天地店)",
+      "address": "长浜路956号华盛达时代中心F1层",
+      "distance": "3m"
+    },
+    {
+      "brand": "三米粥铺(拱墅新天地店)",
+      "address": "华盛达时代中心1层136号",
+      "distance": "5m"
+    },
+    {
+      "brand": "杭衢土菜馆",
+      "address": "长浜路956号华盛达时代中心F1层",
+      "distance": "6m"
+    },
+    {
+      "brand": "诺诺咖啡",
+      "address": "东新街道长浜路956号华盛达时代中心232室",
+      "distance": "17m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "杭州新天地中心",
+      "open_date": "2017-11-24",
+      "area": "12万㎡",
+      "jun_daily_avg": "5.8万人次",
+      "weekday_avg": "5.4万人次",
+      "holiday_avg": "7万人次"
+    },
+    {
+      "name": "杭州中大银泰城",
+      "open_date": "2015-01-01",
+      "area": "10万㎡",
+      "jun_daily_avg": "3.2万人次",
+      "weekday_avg": "3万人次",
+      "holiday_avg": "3.9万人次"
+    },
+    {
+      "name": "西悦生活广场",
+      "open_date": "2023-01-01",
+      "area": "-",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "杭州西联广场",
+      "open_date": "2015-01-01",
+      "area": "9.4万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 53.0,
+      "within_1yr_pct": 43.4,
+      "1_3yr_pct": 26.4,
+      "over_3yr_pct": 30.2
+    },
+    {
+      "type": "购物",
+      "count": 12.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 41.7,
+      "over_3yr_pct": 33.3
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 12.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 33.3
+    },
+    {
+      "type": "教育培训",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 26.0,
+      "within_1yr_pct": 19.2,
+      "1_3yr_pct": 19.2,
+      "over_3yr_pct": 61.5
+    },
+    {
+      "type": "生活服务",
+      "count": 20.0,
+      "within_1yr_pct": 40.0,
+      "1_3yr_pct": 40.0,
+      "over_3yr_pct": 20.0
+    },
+    {
+      "type": "运动健身",
+      "count": 4.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 2.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 50.0
+    }
+  ]
+}

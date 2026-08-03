@@ -1,0 +1,486 @@
+{
+  "name": "尚悦湾广场",
+  "city": "上海市",
+  "address": "上海市浦东新区银城中路1幢",
+  "lat": 31.241745,
+  "lng": 121.507322,
+  "overview": {
+    "score": 94.2,
+    "score_rank": "市内前30%",
+    "population_score": 71.5,
+    "area_score": 78.6,
+    "consumption_score": 84.4,
+    "industry_score": 94.4,
+    "annual_sales": "GALA MALL尚悦湾广场位于上海市浦东新区银城路66号，是陆家嘴滨江金融城的商业部分，建筑形态丰富的各个商业地块组成各商业地块以文化艺术为亮点，通过引入差异化、体验型的特色业态和品牌，突出各自优势，打造了一条颇具特色的品牌街区尚悦湾广场继承了HBC文艺基因，融合了众多艺术展览与时尚活动，漫步GALA MALL本身就成为了一种新的观展形式，每一步都有可能与艺术不期而遇广场本身整体造型与周边林立的艺术装置就是最佳体现，KPF建筑事务所设计，将整体建筑定位成一个聚集能量和记忆的巨轮",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 7.0,
+    "open_date": "2017-12-23",
+    "operator": "中信泰富（中国）投资有限公司",
+    "brand": "",
+    "type": "美食型",
+    "floors": "B1-L5"
+  },
+  "traffic": {
+    "annual_daily": 2.07,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第132",
+    "jun_total": 82.6,
+    "jun_total_rank": "市内商场第146名",
+    "jun_daily_avg": 2.8,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第146名",
+    "weekday_avg": 3.2,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第119名",
+    "holiday_avg": 1.6,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第242名"
+  },
+  "population": {
+    "residential": {
+      "500m": 9400.0,
+      "1_5km": 13.3,
+      "3km": 71.5
+    },
+    "office": {
+      "500m": 6.3,
+      "1_5km": 30.7,
+      "3km": 95.5
+    },
+    "permanent": {
+      "500m": 2.2,
+      "1_5km": 20.1,
+      "3km": 86.5
+    }
+  },
+  "business": {
+    "competitors": 10.0,
+    "food": 179.0,
+    "shopping": 82.0,
+    "leisure": 13.0,
+    "education": 11.0,
+    "hotel": 22.0,
+    "services": 92.0,
+    "fitness": 16.0,
+    "auto": 36.0,
+    "total_stores": 142.0,
+    "old_store_3yr_pct": 53.0
+  },
+  "nearby_poi": {
+    "business": 16.0,
+    "community": 596.0,
+    "office": 152.0,
+    "school": 25.0,
+    "hospital": 133.0,
+    "transport": 15.0,
+    "scenic": 638.0
+  },
+  "demographics": {
+    "male_pct": 54.0,
+    "female_pct": null,
+    "education": {
+      "小学": 9.0,
+      "初中": 16.4,
+      "高中": 10.6,
+      "大专": 7.0,
+      "本科": 48.6,
+      "硕士": 6.7,
+      "博士": 1.7
+    },
+    "has_children_pct": 57.9,
+    "no_children_pct": 42.1
+  },
+  "scraped_at": "2026-07-31T12:46:15.513Z",
+  "nearby_restaurants": [
+    {
+      "brand": "柠檬向右(尚悦湾店)",
+      "address": "银城路66号B1",
+      "distance": "3m"
+    },
+    {
+      "brand": "和宴(陆家嘴)餐厅",
+      "address": "银城路66号尚悦湾广场五楼",
+      "distance": "8m"
+    },
+    {
+      "brand": "喜茶(上海尚悦湾广场店)",
+      "address": "银城路66(号/幢)地上1层113a-1室",
+      "distance": "10m"
+    },
+    {
+      "brand": "老乡鸡(上海尚悦湾广场店)",
+      "address": "银城路尚悦湾",
+      "distance": "11m"
+    },
+    {
+      "brand": "超级碗 FOODBOWL(上海尚悦湾店)",
+      "address": "银城路滨江金融城尚悦湾广场LG层110室",
+      "distance": "11m"
+    },
+    {
+      "brand": "春沪湘·湘菜馆(尚悦湾店)",
+      "address": "银城路66号尚悦湾广场乐食吉市B一层LG101A",
+      "distance": "11m"
+    },
+    {
+      "brand": "MWO高山流水(GALA MALL店)",
+      "address": "GALA MALL(浦东南路地铁站3B口步行430米)",
+      "distance": "13m"
+    },
+    {
+      "brand": "堀越居酒屋(尚悦湾店)",
+      "address": "GALA MALL(浦东南路地铁站3B口步行450米)",
+      "distance": "15m"
+    },
+    {
+      "brand": "库迪咖啡(GALA MALL店)",
+      "address": "银城路66号尚悦湾LG101c-10号",
+      "distance": "16m"
+    },
+    {
+      "brand": "Seesaw咖啡(上海尚悦湾店)",
+      "address": "银城路66号尚悦湾1层113B商铺",
+      "distance": "17m"
+    },
+    {
+      "brand": "柠檬向右(尚悦湾店)",
+      "address": "银城路66号B1",
+      "distance": "3m"
+    },
+    {
+      "brand": "和宴(陆家嘴)餐厅",
+      "address": "银城路66号尚悦湾广场五楼",
+      "distance": "8m"
+    },
+    {
+      "brand": "喜茶(上海尚悦湾广场店)",
+      "address": "银城路66(号/幢)地上1层113a-1室",
+      "distance": "10m"
+    },
+    {
+      "brand": "老乡鸡(上海尚悦湾广场店)",
+      "address": "银城路尚悦湾",
+      "distance": "11m"
+    },
+    {
+      "brand": "超级碗 FOODBOWL(上海尚悦湾店)",
+      "address": "银城路滨江金融城尚悦湾广场LG层110室",
+      "distance": "11m"
+    },
+    {
+      "brand": "春沪湘·湘菜馆(尚悦湾店)",
+      "address": "银城路66号尚悦湾广场乐食吉市B一层LG101A",
+      "distance": "11m"
+    },
+    {
+      "brand": "MWO高山流水(GALA MALL店)",
+      "address": "GALA MALL(浦东南路地铁站3B口步行430米)",
+      "distance": "13m"
+    },
+    {
+      "brand": "堀越居酒屋(尚悦湾店)",
+      "address": "GALA MALL(浦东南路地铁站3B口步行450米)",
+      "distance": "15m"
+    },
+    {
+      "brand": "库迪咖啡(GALA MALL店)",
+      "address": "银城路66号尚悦湾LG101c-10号",
+      "distance": "16m"
+    },
+    {
+      "brand": "Seesaw咖啡(上海尚悦湾店)",
+      "address": "银城路66号尚悦湾1层113B商铺",
+      "distance": "17m"
+    },
+    {
+      "brand": "柠檬向右(尚悦湾店)",
+      "address": "银城路66号B1",
+      "distance": "3m"
+    },
+    {
+      "brand": "和宴(陆家嘴)餐厅",
+      "address": "银城路66号尚悦湾广场五楼",
+      "distance": "8m"
+    },
+    {
+      "brand": "喜茶(上海尚悦湾广场店)",
+      "address": "银城路66(号/幢)地上1层113a-1室",
+      "distance": "10m"
+    },
+    {
+      "brand": "老乡鸡(上海尚悦湾广场店)",
+      "address": "银城路尚悦湾",
+      "distance": "11m"
+    },
+    {
+      "brand": "超级碗 FOODBOWL(上海尚悦湾店)",
+      "address": "银城路滨江金融城尚悦湾广场LG层110室",
+      "distance": "11m"
+    },
+    {
+      "brand": "春沪湘·湘菜馆(尚悦湾店)",
+      "address": "银城路66号尚悦湾广场乐食吉市B一层LG101A",
+      "distance": "11m"
+    },
+    {
+      "brand": "MWO高山流水(GALA MALL店)",
+      "address": "GALA MALL(浦东南路地铁站3B口步行430米)",
+      "distance": "13m"
+    },
+    {
+      "brand": "堀越居酒屋(尚悦湾店)",
+      "address": "GALA MALL(浦东南路地铁站3B口步行450米)",
+      "distance": "15m"
+    },
+    {
+      "brand": "库迪咖啡(GALA MALL店)",
+      "address": "银城路66号尚悦湾LG101c-10号",
+      "distance": "16m"
+    },
+    {
+      "brand": "Seesaw咖啡(上海尚悦湾店)",
+      "address": "银城路66号尚悦湾1层113B商铺",
+      "distance": "17m"
+    },
+    {
+      "brand": "柠檬向右(尚悦湾店)",
+      "address": "银城路66号B1",
+      "distance": "3m"
+    },
+    {
+      "brand": "和宴(陆家嘴)餐厅",
+      "address": "银城路66号尚悦湾广场五楼",
+      "distance": "8m"
+    },
+    {
+      "brand": "喜茶(上海尚悦湾广场店)",
+      "address": "银城路66(号/幢)地上1层113a-1室",
+      "distance": "10m"
+    },
+    {
+      "brand": "老乡鸡(上海尚悦湾广场店)",
+      "address": "银城路尚悦湾",
+      "distance": "11m"
+    },
+    {
+      "brand": "超级碗 FOODBOWL(上海尚悦湾店)",
+      "address": "银城路滨江金融城尚悦湾广场LG层110室",
+      "distance": "11m"
+    },
+    {
+      "brand": "春沪湘·湘菜馆(尚悦湾店)",
+      "address": "银城路66号尚悦湾广场乐食吉市B一层LG101A",
+      "distance": "11m"
+    },
+    {
+      "brand": "MWO高山流水(GALA MALL店)",
+      "address": "GALA MALL(浦东南路地铁站3B口步行430米)",
+      "distance": "13m"
+    },
+    {
+      "brand": "堀越居酒屋(尚悦湾店)",
+      "address": "GALA MALL(浦东南路地铁站3B口步行450米)",
+      "distance": "15m"
+    },
+    {
+      "brand": "库迪咖啡(GALA MALL店)",
+      "address": "银城路66号尚悦湾LG101c-10号",
+      "distance": "16m"
+    },
+    {
+      "brand": "Seesaw咖啡(上海尚悦湾店)",
+      "address": "银城路66号尚悦湾1层113B商铺",
+      "distance": "17m"
+    },
+    {
+      "brand": "柠檬向右(尚悦湾店)",
+      "address": "银城路66号B1",
+      "distance": "3m"
+    },
+    {
+      "brand": "和宴(陆家嘴)餐厅",
+      "address": "银城路66号尚悦湾广场五楼",
+      "distance": "8m"
+    },
+    {
+      "brand": "喜茶(上海尚悦湾广场店)",
+      "address": "银城路66(号/幢)地上1层113a-1室",
+      "distance": "10m"
+    },
+    {
+      "brand": "老乡鸡(上海尚悦湾广场店)",
+      "address": "银城路尚悦湾",
+      "distance": "11m"
+    },
+    {
+      "brand": "超级碗 FOODBOWL(上海尚悦湾店)",
+      "address": "银城路滨江金融城尚悦湾广场LG层110室",
+      "distance": "11m"
+    },
+    {
+      "brand": "春沪湘·湘菜馆(尚悦湾店)",
+      "address": "银城路66号尚悦湾广场乐食吉市B一层LG101A",
+      "distance": "11m"
+    },
+    {
+      "brand": "MWO高山流水(GALA MALL店)",
+      "address": "GALA MALL(浦东南路地铁站3B口步行430米)",
+      "distance": "13m"
+    },
+    {
+      "brand": "堀越居酒屋(尚悦湾店)",
+      "address": "GALA MALL(浦东南路地铁站3B口步行450米)",
+      "distance": "15m"
+    },
+    {
+      "brand": "库迪咖啡(GALA MALL店)",
+      "address": "银城路66号尚悦湾LG101c-10号",
+      "distance": "16m"
+    },
+    {
+      "brand": "Seesaw咖啡(上海尚悦湾店)",
+      "address": "银城路66号尚悦湾1层113B商铺",
+      "distance": "17m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海1862时尚艺术中心",
+      "open_date": "2018-05-06",
+      "area": "1.6万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海环球金融中心",
+      "open_date": "2008-08-29",
+      "area": "1.4万㎡",
+      "jun_daily_avg": "1.9万人次",
+      "weekday_avg": "2.2万人次",
+      "holiday_avg": "1万人次"
+    },
+    {
+      "name": "上海览海国际广场",
+      "open_date": "2017-11-28",
+      "area": "3.7万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海金茂J·LIFE生活时尚中心",
+      "open_date": "2005-09-01",
+      "area": "2.3万㎡",
+      "jun_daily_avg": "1.4万人次",
+      "weekday_avg": "1.4万人次",
+      "holiday_avg": "1.4万人次"
+    },
+    {
+      "name": "上海之品商场",
+      "open_date": "-",
+      "area": "7万㎡",
+      "jun_daily_avg": "3.3万人次",
+      "weekday_avg": "3.4万人次",
+      "holiday_avg": "3.2万人次"
+    },
+    {
+      "name": "上海IFC",
+      "open_date": "2010-04-28",
+      "area": "11万㎡",
+      "jun_daily_avg": "5.2万人次",
+      "weekday_avg": "5.2万人次",
+      "holiday_avg": "5万人次"
+    },
+    {
+      "name": "金茂时尚生活中心",
+      "open_date": "2005-09-01",
+      "area": "2.3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海正大广场",
+      "open_date": "2002-01-01",
+      "area": "24.3万㎡",
+      "jun_daily_avg": "5.2万人次",
+      "weekday_avg": "4.7万人次",
+      "holiday_avg": "6.3万人次"
+    },
+    {
+      "name": "上海陆家嘴中心L+Mall",
+      "open_date": "2018-12-23",
+      "area": "14万㎡",
+      "jun_daily_avg": "7.2万人次",
+      "weekday_avg": "7.4万人次",
+      "holiday_avg": "6.6万人次"
+    },
+    {
+      "name": "上海陆家嘴1885广场",
+      "open_date": "2009-01-01",
+      "area": "-",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 77.0,
+      "within_1yr_pct": 14.3,
+      "1_3yr_pct": 24.7,
+      "over_3yr_pct": 61.0
+    },
+    {
+      "type": "购物",
+      "count": 26.0,
+      "within_1yr_pct": 23.1,
+      "1_3yr_pct": 23.1,
+      "over_3yr_pct": 53.8
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    },
+    {
+      "type": "教育培训",
+      "count": 3.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 66.7
+    },
+    {
+      "type": "酒店住宿",
+      "count": 1.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "生活服务",
+      "count": 21.0,
+      "within_1yr_pct": 14.3,
+      "1_3yr_pct": 38.1,
+      "over_3yr_pct": 47.6
+    },
+    {
+      "type": "运动健身",
+      "count": 4.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 75.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 9.0,
+      "within_1yr_pct": 22.2,
+      "1_3yr_pct": 66.7,
+      "over_3yr_pct": 11.1
+    }
+  ]
+}

@@ -1,0 +1,465 @@
+{
+  "name": "上海久光百货",
+  "city": "上海市",
+  "address": "上海市静安区南京西路1678号",
+  "lat": 31.223645,
+  "lng": 121.445579,
+  "overview": {
+    "score": 94.2,
+    "score_rank": "市内前30%",
+    "population_score": 80.6,
+    "area_score": 100.0,
+    "consumption_score": 89.5,
+    "industry_score": 94.3,
+    "annual_sales": "9.9",
+    "annual_sales_unit": "亿元",
+    "area_size_sqm": 9.1,
+    "open_date": "2004-09-04",
+    "operator": "上海久光百货有限公司",
+    "brand": "",
+    "type": "购物型",
+    "floors": "B2-L4"
+  },
+  "traffic": {
+    "annual_daily": 2.57,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第105",
+    "jun_total": 111.8,
+    "jun_total_rank": "市内商场第104名",
+    "jun_daily_avg": 3.7,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第104名",
+    "weekday_avg": 3.3,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第113名",
+    "holiday_avg": 4.9,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第91名"
+  },
+  "population": {
+    "residential": {
+      "500m": 1.6,
+      "1_5km": 23.0,
+      "3km": 97.1
+    },
+    "office": {
+      "500m": 5.8,
+      "1_5km": 27.5,
+      "3km": 100.9
+    },
+    "permanent": {
+      "500m": 3.8,
+      "1_5km": 27.9,
+      "3km": 113.2
+    }
+  },
+  "business": {
+    "competitors": 23.0,
+    "food": 703.0,
+    "shopping": 762.0,
+    "leisure": 35.0,
+    "education": 47.0,
+    "hotel": 83.0,
+    "services": 480.0,
+    "fitness": 47.0,
+    "auto": 36.0,
+    "total_stores": 357.0,
+    "old_store_3yr_pct": 64.0
+  },
+  "nearby_poi": {
+    "business": 17.0,
+    "community": 1287.0,
+    "office": 219.0,
+    "school": 93.0,
+    "hospital": 198.0,
+    "transport": 17.0,
+    "scenic": 828.0
+  },
+  "demographics": {
+    "male_pct": 45.3,
+    "female_pct": null,
+    "education": {
+      "小学": 9.1,
+      "初中": 17.9,
+      "高中": 12.0,
+      "大专": 6.8,
+      "本科": 47.9,
+      "硕士": 4.7,
+      "博士": 1.6
+    },
+    "has_children_pct": 58.0,
+    "no_children_pct": 42.0
+  },
+  "scraped_at": "2026-07-31T15:26:08.756Z",
+  "nearby_restaurants": [
+    {
+      "brand": "岡田屋蟹料理专门店(静安久光店)",
+      "address": "南京西路1618号久光百货9楼",
+      "distance": "2m"
+    },
+    {
+      "brand": "贵Guui(上海久光百货店)",
+      "address": "大宁路街道共和新路2188号上海久光中心8层",
+      "distance": "2m"
+    },
+    {
+      "brand": "Tori Shin(久光店)",
+      "address": "南京西路1618号久光百货(静安寺地铁站出入口旁)",
+      "distance": "2m"
+    },
+    {
+      "brand": "RC皇家哥本哈根(久光百货店)",
+      "address": "南京西路1618号久光百货7楼D710-1室",
+      "distance": "4m"
+    },
+    {
+      "brand": "柏宾士",
+      "address": "南京西路1618号久光百货(静安寺地铁站出入口旁)",
+      "distance": "4m"
+    },
+    {
+      "brand": "OETZI(上海久光百货店)",
+      "address": "南京西路1618号久光百货F4层(静安寺地铁站出入口旁)",
+      "distance": "4m"
+    },
+    {
+      "brand": "连杏双皮奶(久光百货店)",
+      "address": "南京西路1618号B1层DB22-2室",
+      "distance": "5m"
+    },
+    {
+      "brand": "初唤·台北大唤店(久光百货店)",
+      "address": "南京西路1618号久光百货B1层(龙记对面)",
+      "distance": "5m"
+    },
+    {
+      "brand": "浙沪人家(上海久光百货店)",
+      "address": "南京西路1618号久光百货B1层(静安寺地铁站出入口旁)",
+      "distance": "6m"
+    },
+    {
+      "brand": "潮堂(久光店)",
+      "address": "南京西路1618号久光百货8层S809",
+      "distance": "7m"
+    },
+    {
+      "brand": "岡田屋蟹料理专门店(静安久光店)",
+      "address": "南京西路1618号久光百货9楼",
+      "distance": "2m"
+    },
+    {
+      "brand": "贵Guui(上海久光百货店)",
+      "address": "大宁路街道共和新路2188号上海久光中心8层",
+      "distance": "2m"
+    },
+    {
+      "brand": "Tori Shin(久光店)",
+      "address": "南京西路1618号久光百货(静安寺地铁站出入口旁)",
+      "distance": "2m"
+    },
+    {
+      "brand": "RC皇家哥本哈根(久光百货店)",
+      "address": "南京西路1618号久光百货7楼D710-1室",
+      "distance": "4m"
+    },
+    {
+      "brand": "柏宾士",
+      "address": "南京西路1618号久光百货(静安寺地铁站出入口旁)",
+      "distance": "4m"
+    },
+    {
+      "brand": "OETZI(上海久光百货店)",
+      "address": "南京西路1618号久光百货F4层(静安寺地铁站出入口旁)",
+      "distance": "4m"
+    },
+    {
+      "brand": "连杏双皮奶(久光百货店)",
+      "address": "南京西路1618号B1层DB22-2室",
+      "distance": "5m"
+    },
+    {
+      "brand": "初唤·台北大唤店(久光百货店)",
+      "address": "南京西路1618号久光百货B1层(龙记对面)",
+      "distance": "5m"
+    },
+    {
+      "brand": "浙沪人家(上海久光百货店)",
+      "address": "南京西路1618号久光百货B1层(静安寺地铁站出入口旁)",
+      "distance": "6m"
+    },
+    {
+      "brand": "潮堂(久光店)",
+      "address": "南京西路1618号久光百货8层S809",
+      "distance": "7m"
+    },
+    {
+      "brand": "岡田屋蟹料理专门店(静安久光店)",
+      "address": "南京西路1618号久光百货9楼",
+      "distance": "2m"
+    },
+    {
+      "brand": "贵Guui(上海久光百货店)",
+      "address": "大宁路街道共和新路2188号上海久光中心8层",
+      "distance": "2m"
+    },
+    {
+      "brand": "Tori Shin(久光店)",
+      "address": "南京西路1618号久光百货(静安寺地铁站出入口旁)",
+      "distance": "2m"
+    },
+    {
+      "brand": "RC皇家哥本哈根(久光百货店)",
+      "address": "南京西路1618号久光百货7楼D710-1室",
+      "distance": "4m"
+    },
+    {
+      "brand": "柏宾士",
+      "address": "南京西路1618号久光百货(静安寺地铁站出入口旁)",
+      "distance": "4m"
+    },
+    {
+      "brand": "OETZI(上海久光百货店)",
+      "address": "南京西路1618号久光百货F4层(静安寺地铁站出入口旁)",
+      "distance": "4m"
+    },
+    {
+      "brand": "连杏双皮奶(久光百货店)",
+      "address": "南京西路1618号B1层DB22-2室",
+      "distance": "5m"
+    },
+    {
+      "brand": "初唤·台北大唤店(久光百货店)",
+      "address": "南京西路1618号久光百货B1层(龙记对面)",
+      "distance": "5m"
+    },
+    {
+      "brand": "浙沪人家(上海久光百货店)",
+      "address": "南京西路1618号久光百货B1层(静安寺地铁站出入口旁)",
+      "distance": "6m"
+    },
+    {
+      "brand": "潮堂(久光店)",
+      "address": "南京西路1618号久光百货8层S809",
+      "distance": "7m"
+    },
+    {
+      "brand": "岡田屋蟹料理专门店(静安久光店)",
+      "address": "南京西路1618号久光百货9楼",
+      "distance": "2m"
+    },
+    {
+      "brand": "贵Guui(上海久光百货店)",
+      "address": "大宁路街道共和新路2188号上海久光中心8层",
+      "distance": "2m"
+    },
+    {
+      "brand": "Tori Shin(久光店)",
+      "address": "南京西路1618号久光百货(静安寺地铁站出入口旁)",
+      "distance": "2m"
+    },
+    {
+      "brand": "RC皇家哥本哈根(久光百货店)",
+      "address": "南京西路1618号久光百货7楼D710-1室",
+      "distance": "4m"
+    },
+    {
+      "brand": "柏宾士",
+      "address": "南京西路1618号久光百货(静安寺地铁站出入口旁)",
+      "distance": "4m"
+    },
+    {
+      "brand": "OETZI(上海久光百货店)",
+      "address": "南京西路1618号久光百货F4层(静安寺地铁站出入口旁)",
+      "distance": "4m"
+    },
+    {
+      "brand": "连杏双皮奶(久光百货店)",
+      "address": "南京西路1618号B1层DB22-2室",
+      "distance": "5m"
+    },
+    {
+      "brand": "初唤·台北大唤店(久光百货店)",
+      "address": "南京西路1618号久光百货B1层(龙记对面)",
+      "distance": "5m"
+    },
+    {
+      "brand": "浙沪人家(上海久光百货店)",
+      "address": "南京西路1618号久光百货B1层(静安寺地铁站出入口旁)",
+      "distance": "6m"
+    },
+    {
+      "brand": "潮堂(久光店)",
+      "address": "南京西路1618号久光百货8层S809",
+      "distance": "7m"
+    },
+    {
+      "brand": "岡田屋蟹料理专门店(静安久光店)",
+      "address": "南京西路1618号久光百货9楼",
+      "distance": "2m"
+    },
+    {
+      "brand": "贵Guui(上海久光百货店)",
+      "address": "大宁路街道共和新路2188号上海久光中心8层",
+      "distance": "2m"
+    },
+    {
+      "brand": "Tori Shin(久光店)",
+      "address": "南京西路1618号久光百货(静安寺地铁站出入口旁)",
+      "distance": "2m"
+    },
+    {
+      "brand": "RC皇家哥本哈根(久光百货店)",
+      "address": "南京西路1618号久光百货7楼D710-1室",
+      "distance": "4m"
+    },
+    {
+      "brand": "柏宾士",
+      "address": "南京西路1618号久光百货(静安寺地铁站出入口旁)",
+      "distance": "4m"
+    },
+    {
+      "brand": "OETZI(上海久光百货店)",
+      "address": "南京西路1618号久光百货F4层(静安寺地铁站出入口旁)",
+      "distance": "4m"
+    },
+    {
+      "brand": "连杏双皮奶(久光百货店)",
+      "address": "南京西路1618号B1层DB22-2室",
+      "distance": "5m"
+    },
+    {
+      "brand": "初唤·台北大唤店(久光百货店)",
+      "address": "南京西路1618号久光百货B1层(龙记对面)",
+      "distance": "5m"
+    },
+    {
+      "brand": "浙沪人家(上海久光百货店)",
+      "address": "南京西路1618号久光百货B1层(静安寺地铁站出入口旁)",
+      "distance": "6m"
+    },
+    {
+      "brand": "潮堂(久光店)",
+      "address": "南京西路1618号久光百货8层S809",
+      "distance": "7m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海芮欧百货",
+      "open_date": "2011-01-01",
+      "area": "6.5万㎡",
+      "jun_daily_avg": "2.9万人次",
+      "weekday_avg": "2.7万人次",
+      "holiday_avg": "3.4万人次"
+    },
+    {
+      "name": "上海晶品Crystal Galleria",
+      "open_date": "2015-09-20",
+      "area": "7.3万㎡",
+      "jun_daily_avg": "3.6万人次",
+      "weekday_avg": "3.3万人次",
+      "holiday_avg": "4.5万人次"
+    },
+    {
+      "name": "上海1788square",
+      "open_date": "2013-04-18",
+      "area": "2.3万㎡",
+      "jun_daily_avg": "1.1万人次",
+      "weekday_avg": "1万人次",
+      "holiday_avg": "1.1万人次"
+    },
+    {
+      "name": "上海静安嘉里中心",
+      "open_date": "2013-01-01",
+      "area": "9.4万㎡",
+      "jun_daily_avg": "6万人次",
+      "weekday_avg": "5.5万人次",
+      "holiday_avg": "7.6万人次"
+    },
+    {
+      "name": "上海UX 88",
+      "open_date": "2013-01-01",
+      "area": "6000㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海商城",
+      "open_date": "1990-04-27",
+      "area": "3万㎡",
+      "jun_daily_avg": "1.2万人次",
+      "weekday_avg": "1.2万人次",
+      "holiday_avg": "1.3万人次"
+    },
+    {
+      "name": "上海JC PLAZA锦沧文华广场",
+      "open_date": "2022-08-18",
+      "area": "2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海恒隆广场",
+      "open_date": "2001-07-14",
+      "area": "11.4万㎡",
+      "jun_daily_avg": "2.2万人次",
+      "weekday_avg": "2.2万人次",
+      "holiday_avg": "2万人次"
+    },
+    {
+      "name": "上海金鹰国际购物广场",
+      "open_date": "2024-01-26",
+      "area": "3.8万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海中信泰富广场",
+      "open_date": "2002-06-15",
+      "area": "3.5万㎡",
+      "jun_daily_avg": "1.1万人次",
+      "weekday_avg": "1.1万人次",
+      "holiday_avg": "1.1万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 64.0,
+      "within_1yr_pct": 14.1,
+      "1_3yr_pct": 29.7,
+      "over_3yr_pct": 56.3
+    },
+    {
+      "type": "购物",
+      "count": 273.0,
+      "within_1yr_pct": 15.0,
+      "1_3yr_pct": 16.8,
+      "over_3yr_pct": 68.1
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 2.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "生活服务",
+      "count": 17.0,
+      "within_1yr_pct": 23.5,
+      "1_3yr_pct": 29.4,
+      "over_3yr_pct": 47.1
+    },
+    {
+      "type": "运动健身",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
+    }
+  ]
+}

@@ -1,0 +1,430 @@
+{
+  "name": "万达广场",
+  "city": "北京市",
+  "address": "广西壮族自治区南宁市青秀区东葛路160号",
+  "lat": null,
+  "lng": null,
+  "overview": {
+    "score": 96.2,
+    "score_rank": "市内前30%",
+    "population_score": 84.0,
+    "area_score": 87.7,
+    "consumption_score": 89.8,
+    "industry_score": 96.3,
+    "annual_sales": "19",
+    "annual_sales_unit": "亿元",
+    "area_size_sqm": 19.66,
+    "open_date": "2014-12-18",
+    "operator": "珠海万达商业管理集团股份有限公司",
+    "brand": "万达",
+    "type": "综合型",
+    "floors": "B1-L5"
+  },
+  "traffic": {
+    "annual_daily": 5.23,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第6",
+    "jun_total": 210.9,
+    "jun_total_rank": "市内商场第4名",
+    "jun_daily_avg": 7.0,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第4名",
+    "weekday_avg": 6.7,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第3名",
+    "holiday_avg": 7.9,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第8名"
+  },
+  "population": {
+    "residential": {
+      "500m": 1.8,
+      "1_5km": 13.0,
+      "3km": 53.5
+    },
+    "office": {
+      "500m": 2.4,
+      "1_5km": 10.2,
+      "3km": 34.7
+    },
+    "permanent": {
+      "500m": 2.5,
+      "1_5km": 13.7,
+      "3km": 52.9
+    }
+  },
+  "business": {
+    "competitors": 5.0,
+    "food": 270.0,
+    "shopping": 233.0,
+    "leisure": 42.0,
+    "education": 41.0,
+    "hotel": 18.0,
+    "services": 188.0,
+    "fitness": 14.0,
+    "auto": 40.0,
+    "total_stores": 373.0,
+    "old_store_3yr_pct": 47.0
+  },
+  "nearby_poi": {
+    "business": 3.0,
+    "community": 425.0,
+    "office": 43.0,
+    "school": 24.0,
+    "hospital": 124.0,
+    "transport": 5.0,
+    "scenic": 128.0
+  },
+  "demographics": {
+    "male_pct": 47.8,
+    "female_pct": null,
+    "education": {
+      "小学": 11.7,
+      "初中": 18.2,
+      "高中": 11.6,
+      "大专": 10.6,
+      "本科": 43.2,
+      "硕士": 4.1,
+      "博士": 0.6
+    },
+    "has_children_pct": 59.7,
+    "no_children_pct": 40.3
+  },
+  "scraped_at": "2026-07-31T11:47:17.213Z",
+  "nearby_restaurants": [
+    {
+      "brand": "高原功夫手工牛肉面(青秀万达店)",
+      "address": "东葛路118号南宁青秀万达广场商业中心内购物中心室内步行街3F层3018B号商铺",
+      "distance": "7m"
+    },
+    {
+      "brand": "美芝莲(南宁青秀万达广场店)",
+      "address": "东葛路118号南宁青秀万达广场商业中心室内步行街F3层3011A3011B号商铺",
+      "distance": "13m"
+    },
+    {
+      "brand": "朴大叔拌饭(南宁青秀万达店)",
+      "address": "东葛路118号青秀万达广场3层3013BA号",
+      "distance": "17m"
+    },
+    {
+      "brand": "小汤总·现炒大碗饭(青秀万达店)",
+      "address": "建政街道东葛路161号绿地中央广场3号楼一楼105室",
+      "distance": "20m"
+    },
+    {
+      "brand": "煲仔正·老广州煲仔饭(青秀万达广场店)(暂停营业)",
+      "address": "建政街道东葛路118号南宁青秀万达广场室内步行街3F层3010AA号商铺",
+      "distance": "22m"
+    },
+    {
+      "brand": "CHAGEE霸王茶姬(广西南宁青秀万达店)",
+      "address": "东葛路118号青秀万达广场室内步行街2F层2032A-B号商铺",
+      "distance": "23m"
+    },
+    {
+      "brand": "茉莉奶白(南宁青秀万达广场店)",
+      "address": "东葛路118号万达广场青秀店2层2032AB-2032B号商铺",
+      "distance": "27m"
+    },
+    {
+      "brand": "蓉掌门成都名小吃(青秀万达店)",
+      "address": "东葛路延长线118号万达广场(青秀店)3F层",
+      "distance": "27m"
+    },
+    {
+      "brand": "阿嬷手作(南宁青秀万达店)",
+      "address": "青秀区-东葛路118号南宁青秀万达广场商业中心室内步行街1F1020AA、1020B号(靠近3号门商场内部)",
+      "distance": "28m"
+    },
+    {
+      "brand": "惠八珍·橄榄鸡煲(青秀万达店)",
+      "address": "东葛路118号青秀万达广场内购物中心3F(coco都可奶茶对面)",
+      "distance": "29m"
+    },
+    {
+      "brand": "高原功夫手工牛肉面(青秀万达店)",
+      "address": "东葛路118号南宁青秀万达广场商业中心内购物中心室内步行街3F层3018B号商铺",
+      "distance": "7m"
+    },
+    {
+      "brand": "美芝莲(南宁青秀万达广场店)",
+      "address": "东葛路118号南宁青秀万达广场商业中心室内步行街F3层3011A3011B号商铺",
+      "distance": "13m"
+    },
+    {
+      "brand": "朴大叔拌饭(南宁青秀万达店)",
+      "address": "东葛路118号青秀万达广场3层3013BA号",
+      "distance": "17m"
+    },
+    {
+      "brand": "小汤总·现炒大碗饭(青秀万达店)",
+      "address": "建政街道东葛路161号绿地中央广场3号楼一楼105室",
+      "distance": "20m"
+    },
+    {
+      "brand": "煲仔正·老广州煲仔饭(青秀万达广场店)(暂停营业)",
+      "address": "建政街道东葛路118号南宁青秀万达广场室内步行街3F层3010AA号商铺",
+      "distance": "22m"
+    },
+    {
+      "brand": "CHAGEE霸王茶姬(广西南宁青秀万达店)",
+      "address": "东葛路118号青秀万达广场室内步行街2F层2032A-B号商铺",
+      "distance": "23m"
+    },
+    {
+      "brand": "茉莉奶白(南宁青秀万达广场店)",
+      "address": "东葛路118号万达广场青秀店2层2032AB-2032B号商铺",
+      "distance": "27m"
+    },
+    {
+      "brand": "蓉掌门成都名小吃(青秀万达店)",
+      "address": "东葛路延长线118号万达广场(青秀店)3F层",
+      "distance": "27m"
+    },
+    {
+      "brand": "阿嬷手作(南宁青秀万达店)",
+      "address": "青秀区-东葛路118号南宁青秀万达广场商业中心室内步行街1F1020AA、1020B号(靠近3号门商场内部)",
+      "distance": "28m"
+    },
+    {
+      "brand": "惠八珍·橄榄鸡煲(青秀万达店)",
+      "address": "东葛路118号青秀万达广场内购物中心3F(coco都可奶茶对面)",
+      "distance": "29m"
+    },
+    {
+      "brand": "高原功夫手工牛肉面(青秀万达店)",
+      "address": "东葛路118号南宁青秀万达广场商业中心内购物中心室内步行街3F层3018B号商铺",
+      "distance": "7m"
+    },
+    {
+      "brand": "美芝莲(南宁青秀万达广场店)",
+      "address": "东葛路118号南宁青秀万达广场商业中心室内步行街F3层3011A3011B号商铺",
+      "distance": "13m"
+    },
+    {
+      "brand": "朴大叔拌饭(南宁青秀万达店)",
+      "address": "东葛路118号青秀万达广场3层3013BA号",
+      "distance": "17m"
+    },
+    {
+      "brand": "小汤总·现炒大碗饭(青秀万达店)",
+      "address": "建政街道东葛路161号绿地中央广场3号楼一楼105室",
+      "distance": "20m"
+    },
+    {
+      "brand": "煲仔正·老广州煲仔饭(青秀万达广场店)(暂停营业)",
+      "address": "建政街道东葛路118号南宁青秀万达广场室内步行街3F层3010AA号商铺",
+      "distance": "22m"
+    },
+    {
+      "brand": "CHAGEE霸王茶姬(广西南宁青秀万达店)",
+      "address": "东葛路118号青秀万达广场室内步行街2F层2032A-B号商铺",
+      "distance": "23m"
+    },
+    {
+      "brand": "茉莉奶白(南宁青秀万达广场店)",
+      "address": "东葛路118号万达广场青秀店2层2032AB-2032B号商铺",
+      "distance": "27m"
+    },
+    {
+      "brand": "蓉掌门成都名小吃(青秀万达店)",
+      "address": "东葛路延长线118号万达广场(青秀店)3F层",
+      "distance": "27m"
+    },
+    {
+      "brand": "阿嬷手作(南宁青秀万达店)",
+      "address": "青秀区-东葛路118号南宁青秀万达广场商业中心室内步行街1F1020AA、1020B号(靠近3号门商场内部)",
+      "distance": "28m"
+    },
+    {
+      "brand": "惠八珍·橄榄鸡煲(青秀万达店)",
+      "address": "东葛路118号青秀万达广场内购物中心3F(coco都可奶茶对面)",
+      "distance": "29m"
+    },
+    {
+      "brand": "高原功夫手工牛肉面(青秀万达店)",
+      "address": "东葛路118号南宁青秀万达广场商业中心内购物中心室内步行街3F层3018B号商铺",
+      "distance": "7m"
+    },
+    {
+      "brand": "美芝莲(南宁青秀万达广场店)",
+      "address": "东葛路118号南宁青秀万达广场商业中心室内步行街F3层3011A3011B号商铺",
+      "distance": "13m"
+    },
+    {
+      "brand": "朴大叔拌饭(南宁青秀万达店)",
+      "address": "东葛路118号青秀万达广场3层3013BA号",
+      "distance": "17m"
+    },
+    {
+      "brand": "小汤总·现炒大碗饭(青秀万达店)",
+      "address": "建政街道东葛路161号绿地中央广场3号楼一楼105室",
+      "distance": "20m"
+    },
+    {
+      "brand": "煲仔正·老广州煲仔饭(青秀万达广场店)(暂停营业)",
+      "address": "建政街道东葛路118号南宁青秀万达广场室内步行街3F层3010AA号商铺",
+      "distance": "22m"
+    },
+    {
+      "brand": "CHAGEE霸王茶姬(广西南宁青秀万达店)",
+      "address": "东葛路118号青秀万达广场室内步行街2F层2032A-B号商铺",
+      "distance": "23m"
+    },
+    {
+      "brand": "茉莉奶白(南宁青秀万达广场店)",
+      "address": "东葛路118号万达广场青秀店2层2032AB-2032B号商铺",
+      "distance": "27m"
+    },
+    {
+      "brand": "蓉掌门成都名小吃(青秀万达店)",
+      "address": "东葛路延长线118号万达广场(青秀店)3F层",
+      "distance": "27m"
+    },
+    {
+      "brand": "阿嬷手作(南宁青秀万达店)",
+      "address": "青秀区-东葛路118号南宁青秀万达广场商业中心室内步行街1F1020AA、1020B号(靠近3号门商场内部)",
+      "distance": "28m"
+    },
+    {
+      "brand": "惠八珍·橄榄鸡煲(青秀万达店)",
+      "address": "东葛路118号青秀万达广场内购物中心3F(coco都可奶茶对面)",
+      "distance": "29m"
+    },
+    {
+      "brand": "高原功夫手工牛肉面(青秀万达店)",
+      "address": "东葛路118号南宁青秀万达广场商业中心内购物中心室内步行街3F层3018B号商铺",
+      "distance": "7m"
+    },
+    {
+      "brand": "美芝莲(南宁青秀万达广场店)",
+      "address": "东葛路118号南宁青秀万达广场商业中心室内步行街F3层3011A3011B号商铺",
+      "distance": "13m"
+    },
+    {
+      "brand": "朴大叔拌饭(南宁青秀万达店)",
+      "address": "东葛路118号青秀万达广场3层3013BA号",
+      "distance": "17m"
+    },
+    {
+      "brand": "小汤总·现炒大碗饭(青秀万达店)",
+      "address": "建政街道东葛路161号绿地中央广场3号楼一楼105室",
+      "distance": "20m"
+    },
+    {
+      "brand": "煲仔正·老广州煲仔饭(青秀万达广场店)(暂停营业)",
+      "address": "建政街道东葛路118号南宁青秀万达广场室内步行街3F层3010AA号商铺",
+      "distance": "22m"
+    },
+    {
+      "brand": "CHAGEE霸王茶姬(广西南宁青秀万达店)",
+      "address": "东葛路118号青秀万达广场室内步行街2F层2032A-B号商铺",
+      "distance": "23m"
+    },
+    {
+      "brand": "茉莉奶白(南宁青秀万达广场店)",
+      "address": "东葛路118号万达广场青秀店2层2032AB-2032B号商铺",
+      "distance": "27m"
+    },
+    {
+      "brand": "蓉掌门成都名小吃(青秀万达店)",
+      "address": "东葛路延长线118号万达广场(青秀店)3F层",
+      "distance": "27m"
+    },
+    {
+      "brand": "阿嬷手作(南宁青秀万达店)",
+      "address": "青秀区-东葛路118号南宁青秀万达广场商业中心室内步行街1F1020AA、1020B号(靠近3号门商场内部)",
+      "distance": "28m"
+    },
+    {
+      "brand": "惠八珍·橄榄鸡煲(青秀万达店)",
+      "address": "东葛路118号青秀万达广场内购物中心3F(coco都可奶茶对面)",
+      "distance": "29m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "南宁289上海天地",
+      "open_date": "2018-08-18",
+      "area": "4万㎡",
+      "jun_daily_avg": "3.4万人次",
+      "weekday_avg": "3.3万人次",
+      "holiday_avg": "3.7万人次"
+    },
+    {
+      "name": "南宁金源CBD现代城名店中心",
+      "open_date": "2019-01-01",
+      "area": "3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "南宁梦之岛百货(水晶城店)",
+      "open_date": "2006-10-29",
+      "area": "5万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 126.0,
+      "within_1yr_pct": 17.5,
+      "1_3yr_pct": 31.7,
+      "over_3yr_pct": 50.8
+    },
+    {
+      "type": "购物",
+      "count": 101.0,
+      "within_1yr_pct": 20.8,
+      "1_3yr_pct": 28.7,
+      "over_3yr_pct": 50.5
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 22.0,
+      "within_1yr_pct": 27.3,
+      "1_3yr_pct": 40.9,
+      "over_3yr_pct": 31.8
+    },
+    {
+      "type": "教育培训",
+      "count": 23.0,
+      "within_1yr_pct": 30.4,
+      "1_3yr_pct": 30.4,
+      "over_3yr_pct": 39.1
+    },
+    {
+      "type": "酒店住宿",
+      "count": 2.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "生活服务",
+      "count": 67.0,
+      "within_1yr_pct": 19.4,
+      "1_3yr_pct": 38.8,
+      "over_3yr_pct": 41.8
+    },
+    {
+      "type": "运动健身",
+      "count": 8.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 37.5,
+      "over_3yr_pct": 37.5
+    },
+    {
+      "type": "车辆服务",
+      "count": 24.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 20.8,
+      "over_3yr_pct": 45.8
+    }
+  ]
+}

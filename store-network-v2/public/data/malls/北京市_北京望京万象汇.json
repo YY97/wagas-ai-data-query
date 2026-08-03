@@ -1,0 +1,430 @@
+{
+  "name": "北京望京万象汇",
+  "city": "北京市",
+  "address": "北京市朝阳区广顺北大街16号",
+  "lat": 40.010779,
+  "lng": 116.46891,
+  "overview": {
+    "score": 94.7,
+    "score_rank": "市内前30%",
+    "population_score": 89.5,
+    "area_score": 85.2,
+    "consumption_score": 80.5,
+    "industry_score": 94.8,
+    "annual_sales": "500",
+    "annual_sales_unit": "万元",
+    "area_size_sqm": 5.0,
+    "open_date": "2024-12-31",
+    "operator": "华润万象生活有限公司",
+    "brand": "华润",
+    "type": "美食型",
+    "floors": "B1-L4"
+  },
+  "traffic": {
+    "annual_daily": 1.77,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第139",
+    "jun_total": 137.4,
+    "jun_total_rank": "市内商场第62名",
+    "jun_daily_avg": 4.6,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第62名",
+    "weekday_avg": 4.3,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第60名",
+    "holiday_avg": 5.3,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第67名"
+  },
+  "population": {
+    "residential": {
+      "500m": 2.2,
+      "1_5km": 13.6,
+      "3km": 35.3
+    },
+    "office": {
+      "500m": 2.0,
+      "1_5km": 11.4,
+      "3km": 30.9
+    },
+    "permanent": {
+      "500m": 2.4,
+      "1_5km": 13.7,
+      "3km": 35.2
+    }
+  },
+  "business": {
+    "competitors": 6.0,
+    "food": 244.0,
+    "shopping": 123.0,
+    "leisure": 14.0,
+    "education": 31.0,
+    "hotel": 18.0,
+    "services": 131.0,
+    "fitness": 19.0,
+    "auto": 17.0,
+    "total_stores": 187.0,
+    "old_store_3yr_pct": 30.0
+  },
+  "nearby_poi": {
+    "business": 3.0,
+    "community": 139.0,
+    "office": 58.0,
+    "school": 32.0,
+    "hospital": 51.0,
+    "transport": 16.0,
+    "scenic": 106.0
+  },
+  "demographics": {
+    "male_pct": 52.0,
+    "female_pct": null,
+    "education": {
+      "小学": 8.9,
+      "初中": 14.8,
+      "高中": 10.2,
+      "大专": 6.5,
+      "本科": 49.9,
+      "硕士": 8.2,
+      "博士": 1.5
+    },
+    "has_children_pct": 58.3,
+    "no_children_pct": 41.7
+  },
+  "scraped_at": "2026-07-31T11:26:01.077Z",
+  "nearby_restaurants": [
+    {
+      "brand": "汉堡王(华彩万象汇店)",
+      "address": "广顺北大街16号北京望京万象汇B1层(北门进入直行50m,扶梯下到B1可见)",
+      "distance": "0m"
+    },
+    {
+      "brand": "西塔老太太(北京望京万象汇)",
+      "address": "广顺北大街16号院3号楼华彩万象汇4F层西塔老太太烤肉",
+      "distance": "2m"
+    },
+    {
+      "brand": "俄士厨房(望京万象汇店)",
+      "address": "广顺北大街16号北京望京万象汇L3层(东湖渠地铁站出入口旁)",
+      "distance": "9m"
+    },
+    {
+      "brand": "叁条伴(北京望京万象汇)",
+      "address": "广顺北大街16号北京望京万象汇B1层",
+      "distance": "11m"
+    },
+    {
+      "brand": "萨莉亚意式餐厅(北京望京万象汇)",
+      "address": "广顺北大街16号北京望京万象汇L4层",
+      "distance": "13m"
+    },
+    {
+      "brand": "桃夫自助火锅",
+      "address": "广顺北大街16号北京望京万象汇L4层",
+      "distance": "13m"
+    },
+    {
+      "brand": "DQ(望京华彩店)",
+      "address": "望京广顺北大街华彩商业中心B1层",
+      "distance": "16m"
+    },
+    {
+      "brand": "米村拌饭(望京万象汇店)",
+      "address": "广顺北大街16号北京望京万象汇L2层(北门进入直行50m,扶梯上到L2可见)",
+      "distance": "17m"
+    },
+    {
+      "brand": "吉屋出猪(望京万象汇店)",
+      "address": "北京城区广顺北大街16号北京望京万象汇B1层",
+      "distance": "18m"
+    },
+    {
+      "brand": "长安记·大美陕菜(望京万象汇店)",
+      "address": "广顺北大街16号北京望京万象汇L3层(东湖渠地铁站出入口旁)",
+      "distance": "19m"
+    },
+    {
+      "brand": "汉堡王(华彩万象汇店)",
+      "address": "广顺北大街16号北京望京万象汇B1层(北门进入直行50m,扶梯下到B1可见)",
+      "distance": "0m"
+    },
+    {
+      "brand": "西塔老太太(北京望京万象汇)",
+      "address": "广顺北大街16号院3号楼华彩万象汇4F层西塔老太太烤肉",
+      "distance": "2m"
+    },
+    {
+      "brand": "俄士厨房(望京万象汇店)",
+      "address": "广顺北大街16号北京望京万象汇L3层(东湖渠地铁站出入口旁)",
+      "distance": "9m"
+    },
+    {
+      "brand": "叁条伴(北京望京万象汇)",
+      "address": "广顺北大街16号北京望京万象汇B1层",
+      "distance": "11m"
+    },
+    {
+      "brand": "萨莉亚意式餐厅(北京望京万象汇)",
+      "address": "广顺北大街16号北京望京万象汇L4层",
+      "distance": "13m"
+    },
+    {
+      "brand": "桃夫自助火锅",
+      "address": "广顺北大街16号北京望京万象汇L4层",
+      "distance": "13m"
+    },
+    {
+      "brand": "DQ(望京华彩店)",
+      "address": "望京广顺北大街华彩商业中心B1层",
+      "distance": "16m"
+    },
+    {
+      "brand": "米村拌饭(望京万象汇店)",
+      "address": "广顺北大街16号北京望京万象汇L2层(北门进入直行50m,扶梯上到L2可见)",
+      "distance": "17m"
+    },
+    {
+      "brand": "吉屋出猪(望京万象汇店)",
+      "address": "北京城区广顺北大街16号北京望京万象汇B1层",
+      "distance": "18m"
+    },
+    {
+      "brand": "长安记·大美陕菜(望京万象汇店)",
+      "address": "广顺北大街16号北京望京万象汇L3层(东湖渠地铁站出入口旁)",
+      "distance": "19m"
+    },
+    {
+      "brand": "汉堡王(华彩万象汇店)",
+      "address": "广顺北大街16号北京望京万象汇B1层(北门进入直行50m,扶梯下到B1可见)",
+      "distance": "0m"
+    },
+    {
+      "brand": "西塔老太太(北京望京万象汇)",
+      "address": "广顺北大街16号院3号楼华彩万象汇4F层西塔老太太烤肉",
+      "distance": "2m"
+    },
+    {
+      "brand": "俄士厨房(望京万象汇店)",
+      "address": "广顺北大街16号北京望京万象汇L3层(东湖渠地铁站出入口旁)",
+      "distance": "9m"
+    },
+    {
+      "brand": "叁条伴(北京望京万象汇)",
+      "address": "广顺北大街16号北京望京万象汇B1层",
+      "distance": "11m"
+    },
+    {
+      "brand": "萨莉亚意式餐厅(北京望京万象汇)",
+      "address": "广顺北大街16号北京望京万象汇L4层",
+      "distance": "13m"
+    },
+    {
+      "brand": "桃夫自助火锅",
+      "address": "广顺北大街16号北京望京万象汇L4层",
+      "distance": "13m"
+    },
+    {
+      "brand": "DQ(望京华彩店)",
+      "address": "望京广顺北大街华彩商业中心B1层",
+      "distance": "16m"
+    },
+    {
+      "brand": "米村拌饭(望京万象汇店)",
+      "address": "广顺北大街16号北京望京万象汇L2层(北门进入直行50m,扶梯上到L2可见)",
+      "distance": "17m"
+    },
+    {
+      "brand": "吉屋出猪(望京万象汇店)",
+      "address": "北京城区广顺北大街16号北京望京万象汇B1层",
+      "distance": "18m"
+    },
+    {
+      "brand": "长安记·大美陕菜(望京万象汇店)",
+      "address": "广顺北大街16号北京望京万象汇L3层(东湖渠地铁站出入口旁)",
+      "distance": "19m"
+    },
+    {
+      "brand": "汉堡王(华彩万象汇店)",
+      "address": "广顺北大街16号北京望京万象汇B1层(北门进入直行50m,扶梯下到B1可见)",
+      "distance": "0m"
+    },
+    {
+      "brand": "西塔老太太(北京望京万象汇)",
+      "address": "广顺北大街16号院3号楼华彩万象汇4F层西塔老太太烤肉",
+      "distance": "2m"
+    },
+    {
+      "brand": "俄士厨房(望京万象汇店)",
+      "address": "广顺北大街16号北京望京万象汇L3层(东湖渠地铁站出入口旁)",
+      "distance": "9m"
+    },
+    {
+      "brand": "叁条伴(北京望京万象汇)",
+      "address": "广顺北大街16号北京望京万象汇B1层",
+      "distance": "11m"
+    },
+    {
+      "brand": "萨莉亚意式餐厅(北京望京万象汇)",
+      "address": "广顺北大街16号北京望京万象汇L4层",
+      "distance": "13m"
+    },
+    {
+      "brand": "桃夫自助火锅",
+      "address": "广顺北大街16号北京望京万象汇L4层",
+      "distance": "13m"
+    },
+    {
+      "brand": "DQ(望京华彩店)",
+      "address": "望京广顺北大街华彩商业中心B1层",
+      "distance": "16m"
+    },
+    {
+      "brand": "米村拌饭(望京万象汇店)",
+      "address": "广顺北大街16号北京望京万象汇L2层(北门进入直行50m,扶梯上到L2可见)",
+      "distance": "17m"
+    },
+    {
+      "brand": "吉屋出猪(望京万象汇店)",
+      "address": "北京城区广顺北大街16号北京望京万象汇B1层",
+      "distance": "18m"
+    },
+    {
+      "brand": "长安记·大美陕菜(望京万象汇店)",
+      "address": "广顺北大街16号北京望京万象汇L3层(东湖渠地铁站出入口旁)",
+      "distance": "19m"
+    },
+    {
+      "brand": "汉堡王(华彩万象汇店)",
+      "address": "广顺北大街16号北京望京万象汇B1层(北门进入直行50m,扶梯下到B1可见)",
+      "distance": "0m"
+    },
+    {
+      "brand": "西塔老太太(北京望京万象汇)",
+      "address": "广顺北大街16号院3号楼华彩万象汇4F层西塔老太太烤肉",
+      "distance": "2m"
+    },
+    {
+      "brand": "俄士厨房(望京万象汇店)",
+      "address": "广顺北大街16号北京望京万象汇L3层(东湖渠地铁站出入口旁)",
+      "distance": "9m"
+    },
+    {
+      "brand": "叁条伴(北京望京万象汇)",
+      "address": "广顺北大街16号北京望京万象汇B1层",
+      "distance": "11m"
+    },
+    {
+      "brand": "萨莉亚意式餐厅(北京望京万象汇)",
+      "address": "广顺北大街16号北京望京万象汇L4层",
+      "distance": "13m"
+    },
+    {
+      "brand": "桃夫自助火锅",
+      "address": "广顺北大街16号北京望京万象汇L4层",
+      "distance": "13m"
+    },
+    {
+      "brand": "DQ(望京华彩店)",
+      "address": "望京广顺北大街华彩商业中心B1层",
+      "distance": "16m"
+    },
+    {
+      "brand": "米村拌饭(望京万象汇店)",
+      "address": "广顺北大街16号北京望京万象汇L2层(北门进入直行50m,扶梯上到L2可见)",
+      "distance": "17m"
+    },
+    {
+      "brand": "吉屋出猪(望京万象汇店)",
+      "address": "北京城区广顺北大街16号北京望京万象汇B1层",
+      "distance": "18m"
+    },
+    {
+      "brand": "长安记·大美陕菜(望京万象汇店)",
+      "address": "广顺北大街16号北京望京万象汇L3层(东湖渠地铁站出入口旁)",
+      "distance": "19m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "望馨商业中心",
+      "open_date": "-",
+      "area": "2万㎡",
+      "jun_daily_avg": "1.7万人次",
+      "weekday_avg": "1.6万人次",
+      "holiday_avg": "1.9万人次"
+    },
+    {
+      "name": "北京保利广场·新座",
+      "open_date": "2024",
+      "area": "3.3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "北京旺角购物广场",
+      "open_date": "2006-05-28",
+      "area": "4万㎡",
+      "jun_daily_avg": "1.7万人次",
+      "weekday_avg": "1.6万人次",
+      "holiday_avg": "1.9万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 102.0,
+      "within_1yr_pct": 13.7,
+      "1_3yr_pct": 53.9,
+      "over_3yr_pct": 32.4
+    },
+    {
+      "type": "购物",
+      "count": 51.0,
+      "within_1yr_pct": 29.4,
+      "1_3yr_pct": 47.1,
+      "over_3yr_pct": 23.5
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 6.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 33.3
+    },
+    {
+      "type": "教育培训",
+      "count": 4.0,
+      "within_1yr_pct": 75.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 25.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    },
+    {
+      "type": "生活服务",
+      "count": 18.0,
+      "within_1yr_pct": 22.2,
+      "1_3yr_pct": 44.4,
+      "over_3yr_pct": 33.3
+    },
+    {
+      "type": "运动健身",
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 3.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 66.7,
+      "over_3yr_pct": 33.3
+    }
+  ]
+}

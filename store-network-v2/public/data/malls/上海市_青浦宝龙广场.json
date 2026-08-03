@@ -1,0 +1,405 @@
+{
+  "name": "青浦宝龙广场",
+  "city": "上海市",
+  "address": "上海市青浦区赵巷镇青浦宝龙广场",
+  "lat": 31.162151,
+  "lng": 121.152898,
+  "overview": {
+    "score": 96.6,
+    "score_rank": "市内前30%",
+    "population_score": 86.4,
+    "area_score": 82.8,
+    "consumption_score": 68.3,
+    "industry_score": 96.7,
+    "annual_sales": "10",
+    "annual_sales_unit": "亿元",
+    "area_size_sqm": 11.0,
+    "open_date": "2018-09-30",
+    "operator": "宝龙商业管理控股有限公司",
+    "brand": "宝龙",
+    "type": "综合型",
+    "floors": "B1-L4"
+  },
+  "traffic": {
+    "annual_daily": 5.73,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第16",
+    "jun_total": 235.5,
+    "jun_total_rank": "市内商场第12名",
+    "jun_daily_avg": 7.8,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第12名",
+    "weekday_avg": 7.2,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第12名",
+    "holiday_avg": 9.6,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第19名"
+  },
+  "population": {
+    "residential": {
+      "500m": 2.0,
+      "1_5km": 10.2,
+      "3km": 25.7
+    },
+    "office": {
+      "500m": 1.4,
+      "1_5km": 4.6,
+      "3km": 16.6
+    },
+    "permanent": {
+      "500m": 2.5,
+      "1_5km": 9.8,
+      "3km": 24.2
+    }
+  },
+  "business": {
+    "competitors": 7.0,
+    "food": 319.0,
+    "shopping": 164.0,
+    "leisure": 22.0,
+    "education": 52.0,
+    "hotel": 36.0,
+    "services": 221.0,
+    "fitness": 26.0,
+    "auto": 24.0,
+    "total_stores": 606.0,
+    "old_store_3yr_pct": 44.0
+  },
+  "nearby_poi": {
+    "business": null,
+    "community": 99.0,
+    "office": 8.0,
+    "school": 10.0,
+    "hospital": 18.0,
+    "transport": 13.0,
+    "scenic": 20.0
+  },
+  "demographics": {
+    "male_pct": 45.1,
+    "female_pct": null,
+    "education": {
+      "小学": 10.0,
+      "初中": 19.4,
+      "高中": 11.8,
+      "大专": 8.7,
+      "本科": 46.4,
+      "硕士": 3.1,
+      "博士": 0.6
+    },
+    "has_children_pct": 63.6,
+    "no_children_pct": 36.4
+  },
+  "scraped_at": "2026-08-01T04:23:57.050Z",
+  "nearby_restaurants": [
+    {
+      "brand": "魔都三兄弟.重庆小面.川渝小吃(青浦宝龙店)",
+      "address": "赵巷镇汇金路606弄48,50号M1层",
+      "distance": "6m"
+    },
+    {
+      "brand": "余百年·现烧烧腊(青浦宝龙广场店)",
+      "address": "汇金路(轨道)606弄52、55、57、58号",
+      "distance": "7m"
+    },
+    {
+      "brand": "蜀谭记·盐帮川菜(青浦宝龙店)",
+      "address": "盈港东路7800号1F~2F",
+      "distance": "8m"
+    },
+    {
+      "brand": "鸿姐老火锅(青浦宝龙店)(暂停营业)",
+      "address": "赵巷镇崧雅路与盈港东路交叉口西北40米鸿姐老火锅",
+      "distance": "8m"
+    },
+    {
+      "brand": "云阿蛮云南生烫牛肉米线(青浦宝龙店)",
+      "address": "汇金路606弄60青浦宝龙广场2期B1层M1-B1-017",
+      "distance": "9m"
+    },
+    {
+      "brand": "京悦南门涮肉青浦宝龙店",
+      "address": "汇金路590号青浦宝龙广场4楼",
+      "distance": "10m"
+    },
+    {
+      "brand": "8690榴芒CAKE(青浦宝龙广场店)",
+      "address": "崧泉路1245弄8号B1层(汇金路地铁站1号口步行130米)",
+      "distance": "10m"
+    },
+    {
+      "brand": "筋牛座(青浦宝龙广场店)",
+      "address": "汇金路590号青浦宝龙广场B1层",
+      "distance": "10m"
+    },
+    {
+      "brand": "大米先生(青浦宝龙店)",
+      "address": "汇金路606弄56号青浦宝龙广场第B1层M1-B1-015/016商铺",
+      "distance": "14m"
+    },
+    {
+      "brand": "小杨生煎(上海青浦宝龙店)",
+      "address": "上海城区汇金路606弄43、46号青浦宝龙广场21区B1层M-B1-012",
+      "distance": "16m"
+    },
+    {
+      "brand": "魔都三兄弟.重庆小面.川渝小吃(青浦宝龙店)",
+      "address": "赵巷镇汇金路606弄48,50号M1层",
+      "distance": "6m"
+    },
+    {
+      "brand": "余百年·现烧烧腊(青浦宝龙广场店)",
+      "address": "汇金路(轨道)606弄52、55、57、58号",
+      "distance": "7m"
+    },
+    {
+      "brand": "蜀谭记·盐帮川菜(青浦宝龙店)",
+      "address": "盈港东路7800号1F~2F",
+      "distance": "8m"
+    },
+    {
+      "brand": "鸿姐老火锅(青浦宝龙店)(暂停营业)",
+      "address": "赵巷镇崧雅路与盈港东路交叉口西北40米鸿姐老火锅",
+      "distance": "8m"
+    },
+    {
+      "brand": "云阿蛮云南生烫牛肉米线(青浦宝龙店)",
+      "address": "汇金路606弄60青浦宝龙广场2期B1层M1-B1-017",
+      "distance": "9m"
+    },
+    {
+      "brand": "京悦南门涮肉青浦宝龙店",
+      "address": "汇金路590号青浦宝龙广场4楼",
+      "distance": "10m"
+    },
+    {
+      "brand": "8690榴芒CAKE(青浦宝龙广场店)",
+      "address": "崧泉路1245弄8号B1层(汇金路地铁站1号口步行130米)",
+      "distance": "10m"
+    },
+    {
+      "brand": "筋牛座(青浦宝龙广场店)",
+      "address": "汇金路590号青浦宝龙广场B1层",
+      "distance": "10m"
+    },
+    {
+      "brand": "大米先生(青浦宝龙店)",
+      "address": "汇金路606弄56号青浦宝龙广场第B1层M1-B1-015/016商铺",
+      "distance": "14m"
+    },
+    {
+      "brand": "小杨生煎(上海青浦宝龙店)",
+      "address": "上海城区汇金路606弄43、46号青浦宝龙广场21区B1层M-B1-012",
+      "distance": "16m"
+    },
+    {
+      "brand": "魔都三兄弟.重庆小面.川渝小吃(青浦宝龙店)",
+      "address": "赵巷镇汇金路606弄48,50号M1层",
+      "distance": "6m"
+    },
+    {
+      "brand": "余百年·现烧烧腊(青浦宝龙广场店)",
+      "address": "汇金路(轨道)606弄52、55、57、58号",
+      "distance": "7m"
+    },
+    {
+      "brand": "蜀谭记·盐帮川菜(青浦宝龙店)",
+      "address": "盈港东路7800号1F~2F",
+      "distance": "8m"
+    },
+    {
+      "brand": "鸿姐老火锅(青浦宝龙店)(暂停营业)",
+      "address": "赵巷镇崧雅路与盈港东路交叉口西北40米鸿姐老火锅",
+      "distance": "8m"
+    },
+    {
+      "brand": "云阿蛮云南生烫牛肉米线(青浦宝龙店)",
+      "address": "汇金路606弄60青浦宝龙广场2期B1层M1-B1-017",
+      "distance": "9m"
+    },
+    {
+      "brand": "京悦南门涮肉青浦宝龙店",
+      "address": "汇金路590号青浦宝龙广场4楼",
+      "distance": "10m"
+    },
+    {
+      "brand": "8690榴芒CAKE(青浦宝龙广场店)",
+      "address": "崧泉路1245弄8号B1层(汇金路地铁站1号口步行130米)",
+      "distance": "10m"
+    },
+    {
+      "brand": "筋牛座(青浦宝龙广场店)",
+      "address": "汇金路590号青浦宝龙广场B1层",
+      "distance": "10m"
+    },
+    {
+      "brand": "大米先生(青浦宝龙店)",
+      "address": "汇金路606弄56号青浦宝龙广场第B1层M1-B1-015/016商铺",
+      "distance": "14m"
+    },
+    {
+      "brand": "小杨生煎(上海青浦宝龙店)",
+      "address": "上海城区汇金路606弄43、46号青浦宝龙广场21区B1层M-B1-012",
+      "distance": "16m"
+    },
+    {
+      "brand": "魔都三兄弟.重庆小面.川渝小吃(青浦宝龙店)",
+      "address": "赵巷镇汇金路606弄48,50号M1层",
+      "distance": "6m"
+    },
+    {
+      "brand": "余百年·现烧烧腊(青浦宝龙广场店)",
+      "address": "汇金路(轨道)606弄52、55、57、58号",
+      "distance": "7m"
+    },
+    {
+      "brand": "蜀谭记·盐帮川菜(青浦宝龙店)",
+      "address": "盈港东路7800号1F~2F",
+      "distance": "8m"
+    },
+    {
+      "brand": "鸿姐老火锅(青浦宝龙店)(暂停营业)",
+      "address": "赵巷镇崧雅路与盈港东路交叉口西北40米鸿姐老火锅",
+      "distance": "8m"
+    },
+    {
+      "brand": "云阿蛮云南生烫牛肉米线(青浦宝龙店)",
+      "address": "汇金路606弄60青浦宝龙广场2期B1层M1-B1-017",
+      "distance": "9m"
+    },
+    {
+      "brand": "京悦南门涮肉青浦宝龙店",
+      "address": "汇金路590号青浦宝龙广场4楼",
+      "distance": "10m"
+    },
+    {
+      "brand": "8690榴芒CAKE(青浦宝龙广场店)",
+      "address": "崧泉路1245弄8号B1层(汇金路地铁站1号口步行130米)",
+      "distance": "10m"
+    },
+    {
+      "brand": "筋牛座(青浦宝龙广场店)",
+      "address": "汇金路590号青浦宝龙广场B1层",
+      "distance": "10m"
+    },
+    {
+      "brand": "大米先生(青浦宝龙店)",
+      "address": "汇金路606弄56号青浦宝龙广场第B1层M1-B1-015/016商铺",
+      "distance": "14m"
+    },
+    {
+      "brand": "小杨生煎(上海青浦宝龙店)",
+      "address": "上海城区汇金路606弄43、46号青浦宝龙广场21区B1层M-B1-012",
+      "distance": "16m"
+    },
+    {
+      "brand": "魔都三兄弟.重庆小面.川渝小吃(青浦宝龙店)",
+      "address": "赵巷镇汇金路606弄48,50号M1层",
+      "distance": "6m"
+    },
+    {
+      "brand": "余百年·现烧烧腊(青浦宝龙广场店)",
+      "address": "汇金路(轨道)606弄52、55、57、58号",
+      "distance": "7m"
+    },
+    {
+      "brand": "蜀谭记·盐帮川菜(青浦宝龙店)",
+      "address": "盈港东路7800号1F~2F",
+      "distance": "8m"
+    },
+    {
+      "brand": "鸿姐老火锅(青浦宝龙店)(暂停营业)",
+      "address": "赵巷镇崧雅路与盈港东路交叉口西北40米鸿姐老火锅",
+      "distance": "8m"
+    },
+    {
+      "brand": "云阿蛮云南生烫牛肉米线(青浦宝龙店)",
+      "address": "汇金路606弄60青浦宝龙广场2期B1层M1-B1-017",
+      "distance": "9m"
+    },
+    {
+      "brand": "京悦南门涮肉青浦宝龙店",
+      "address": "汇金路590号青浦宝龙广场4楼",
+      "distance": "10m"
+    },
+    {
+      "brand": "8690榴芒CAKE(青浦宝龙广场店)",
+      "address": "崧泉路1245弄8号B1层(汇金路地铁站1号口步行130米)",
+      "distance": "10m"
+    },
+    {
+      "brand": "筋牛座(青浦宝龙广场店)",
+      "address": "汇金路590号青浦宝龙广场B1层",
+      "distance": "10m"
+    },
+    {
+      "brand": "大米先生(青浦宝龙店)",
+      "address": "汇金路606弄56号青浦宝龙广场第B1层M1-B1-015/016商铺",
+      "distance": "14m"
+    },
+    {
+      "brand": "小杨生煎(上海青浦宝龙店)",
+      "address": "上海城区汇金路606弄43、46号青浦宝龙广场21区B1层M-B1-012",
+      "distance": "16m"
+    }
+  ],
+  "nearby_malls": [],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 216.0,
+      "within_1yr_pct": 24.5,
+      "1_3yr_pct": 31.0,
+      "over_3yr_pct": 44.4
+    },
+    {
+      "type": "购物",
+      "count": 123.0,
+      "within_1yr_pct": 17.9,
+      "1_3yr_pct": 30.9,
+      "over_3yr_pct": 51.2
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 20.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 35.0,
+      "over_3yr_pct": 40.0
+    },
+    {
+      "type": "教育培训",
+      "count": 41.0,
+      "within_1yr_pct": 17.1,
+      "1_3yr_pct": 43.9,
+      "over_3yr_pct": 39.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 26.0,
+      "within_1yr_pct": 30.8,
+      "1_3yr_pct": 34.6,
+      "over_3yr_pct": 34.6
+    },
+    {
+      "type": "生活服务",
+      "count": 153.0,
+      "within_1yr_pct": 24.8,
+      "1_3yr_pct": 34.6,
+      "over_3yr_pct": 40.5
+    },
+    {
+      "type": "运动健身",
+      "count": 19.0,
+      "within_1yr_pct": 26.3,
+      "1_3yr_pct": 36.8,
+      "over_3yr_pct": 36.8
+    },
+    {
+      "type": "车辆服务",
+      "count": 8.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 50.0
+    }
+  ]
+}

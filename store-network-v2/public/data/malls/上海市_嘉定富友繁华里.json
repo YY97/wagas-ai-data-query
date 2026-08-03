@@ -1,0 +1,97 @@
+{
+  "name": "嘉定富友繁华里",
+  "city": "上海市",
+  "address": "上海市嘉定区江桥镇黄家花园路富友嘉园",
+  "lat": 31.25922,
+  "lng": 121.322466,
+  "overview": {
+    "score": null,
+    "score_rank": "",
+    "population_score": null,
+    "area_score": null,
+    "consumption_score": null,
+    "industry_score": null,
+    "annual_sales": "",
+    "annual_sales_unit": "",
+    "area_size_sqm": null,
+    "open_date": "",
+    "operator": "",
+    "brand": "",
+    "type": "",
+    "floors": ""
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "",
+    "annual_daily_rank": "",
+    "jun_total": null,
+    "jun_total_rank": "",
+    "jun_daily_avg": null,
+    "jun_daily_unit": "",
+    "jun_daily_rank": "",
+    "weekday_avg": null,
+    "weekday_unit": "",
+    "weekday_rank": "",
+    "holiday_avg": null,
+    "holiday_unit": "",
+    "holiday_rank": ""
+  },
+  "population": {
+    "residential": {
+      "500m": 1.8,
+      "1_5km": 16.3,
+      "3km": 54.2
+    },
+    "office": {
+      "500m": 5700.0,
+      "1_5km": 5.6,
+      "3km": 21.3
+    },
+    "permanent": {
+      "500m": 1.5,
+      "1_5km": 13.6,
+      "3km": 48.3
+    }
+  },
+  "business": {
+    "competitors": null,
+    "food": null,
+    "shopping": null,
+    "leisure": null,
+    "education": null,
+    "hotel": null,
+    "services": null,
+    "fitness": null,
+    "auto": null,
+    "total_stores": null,
+    "old_store_3yr_pct": null
+  },
+  "nearby_poi": {
+    "business": 2.0,
+    "community": 179.0,
+    "office": 16.0,
+    "school": 7.0,
+    "hospital": 20.0,
+    "transport": 6.0,
+    "scenic": 34.0
+  },
+  "demographics": {
+    "male_pct": null,
+    "female_pct": null,
+    "education": {
+      "小学": null,
+      "初中": null,
+      "高中": null,
+      "大专": null,
+      "本科": null,
+      "硕士": null,
+      "博士": null
+    },
+    "has_children_pct": null,
+    "no_children_pct": null
+  },
+  "scraped_at": "2026-08-01T11:02:18.221Z",
+  "nearby_restaurants": [],
+  "nearby_malls": [],
+  "business_survival": []
+}

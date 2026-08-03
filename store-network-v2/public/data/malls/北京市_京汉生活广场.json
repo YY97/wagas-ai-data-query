@@ -1,0 +1,462 @@
+{
+  "name": "京汉生活广场",
+  "city": "北京市",
+  "address": "北京市顺义区光明街道绿港家园(1区)汉庭酒店(北京顺义中心店)",
+  "lat": 40.133987,
+  "lng": 116.664867,
+  "overview": {
+    "score": null,
+    "score_rank": "",
+    "population_score": 84.1,
+    "area_score": 66.5,
+    "consumption_score": 65.1,
+    "industry_score": 67.8,
+    "annual_sales": "",
+    "annual_sales_unit": "",
+    "area_size_sqm": null,
+    "open_date": "",
+    "operator": "",
+    "brand": "",
+    "type": "",
+    "floors": ""
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "",
+    "annual_daily_rank": "",
+    "jun_total": null,
+    "jun_total_rank": "",
+    "jun_daily_avg": null,
+    "jun_daily_unit": "",
+    "jun_daily_rank": "",
+    "weekday_avg": null,
+    "weekday_unit": "",
+    "weekday_rank": "",
+    "holiday_avg": null,
+    "holiday_unit": "",
+    "holiday_rank": ""
+  },
+  "population": {
+    "residential": {
+      "500m": 1.7,
+      "1_5km": 8.0,
+      "3km": 25.8
+    },
+    "office": {
+      "500m": 6100.0,
+      "1_5km": 4.2,
+      "3km": 12.8
+    },
+    "permanent": {
+      "500m": 1.6,
+      "1_5km": 8.8,
+      "3km": 26.6
+    }
+  },
+  "business": {
+    "competitors": null,
+    "food": 48.0,
+    "shopping": 33.0,
+    "leisure": 2.0,
+    "education": 17.0,
+    "hotel": 2.0,
+    "services": 53.0,
+    "fitness": 13.0,
+    "auto": 5.0,
+    "total_stores": 173.0,
+    "old_store_3yr_pct": 57.0
+  },
+  "nearby_poi": {
+    "business": 7.0,
+    "community": 118.0,
+    "office": 5.0,
+    "school": 21.0,
+    "hospital": 38.0,
+    "transport": 2.0,
+    "scenic": 48.0
+  },
+  "demographics": {
+    "male_pct": 46.8,
+    "female_pct": null,
+    "education": {
+      "小学": 8.7,
+      "初中": 15.6,
+      "高中": 10.3,
+      "大专": 7.7,
+      "本科": 51.4,
+      "硕士": 5.2,
+      "博士": 1.1
+    },
+    "has_children_pct": null,
+    "no_children_pct": null
+  },
+  "scraped_at": "2026-08-01T23:19:33.690Z",
+  "nearby_restaurants": [
+    {
+      "brand": "烤面筋",
+      "address": "绿港家园2区东南门北120米",
+      "distance": "15m"
+    },
+    {
+      "brand": "杂粮煎饼鸡蛋灌饼主食坊",
+      "address": "东兴路与东兴市场路交叉口西北40米",
+      "distance": "19m"
+    },
+    {
+      "brand": "石门二姐麻辣烫(金汉店)",
+      "address": "绿港家园2区东南门北130米",
+      "distance": "21m"
+    },
+    {
+      "brand": "大耳朵烧烤",
+      "address": "绿港家园2区东南门北150米",
+      "distance": "38m"
+    },
+    {
+      "brand": "曼玲粥店(北京顺义中心汉庭酒店店)",
+      "address": "北京城区金汉绿港一区10号楼101",
+      "distance": "38m"
+    },
+    {
+      "brand": "碗双饺子馆",
+      "address": "绿港家园1区西南1门东南120米",
+      "distance": "42m"
+    },
+    {
+      "brand": "傣劲儿鲜烫肉小锅米线",
+      "address": "北京城区绿港家园一区10号楼1层101内104",
+      "distance": "44m"
+    },
+    {
+      "brand": "石园馒头",
+      "address": "东兴市场路与东兴路交叉口东40米",
+      "distance": "45m"
+    },
+    {
+      "brand": "沙县小吃",
+      "address": "东兴市场路与东兴路交叉口东40米",
+      "distance": "58m"
+    },
+    {
+      "brand": "老家熟食(金汉店)",
+      "address": "绿港家园一区9号楼一层105",
+      "distance": "83m"
+    },
+    {
+      "brand": "烤面筋",
+      "address": "绿港家园2区东南门北120米",
+      "distance": "15m"
+    },
+    {
+      "brand": "杂粮煎饼鸡蛋灌饼主食坊",
+      "address": "东兴路与东兴市场路交叉口西北40米",
+      "distance": "19m"
+    },
+    {
+      "brand": "石门二姐麻辣烫(金汉店)",
+      "address": "绿港家园2区东南门北130米",
+      "distance": "21m"
+    },
+    {
+      "brand": "大耳朵烧烤",
+      "address": "绿港家园2区东南门北150米",
+      "distance": "38m"
+    },
+    {
+      "brand": "曼玲粥店(北京顺义中心汉庭酒店店)",
+      "address": "北京城区金汉绿港一区10号楼101",
+      "distance": "38m"
+    },
+    {
+      "brand": "碗双饺子馆",
+      "address": "绿港家园1区西南1门东南120米",
+      "distance": "42m"
+    },
+    {
+      "brand": "傣劲儿鲜烫肉小锅米线",
+      "address": "北京城区绿港家园一区10号楼1层101内104",
+      "distance": "44m"
+    },
+    {
+      "brand": "石园馒头",
+      "address": "东兴市场路与东兴路交叉口东40米",
+      "distance": "45m"
+    },
+    {
+      "brand": "沙县小吃",
+      "address": "东兴市场路与东兴路交叉口东40米",
+      "distance": "58m"
+    },
+    {
+      "brand": "老家熟食(金汉店)",
+      "address": "绿港家园一区9号楼一层105",
+      "distance": "83m"
+    },
+    {
+      "brand": "烤面筋",
+      "address": "绿港家园2区东南门北120米",
+      "distance": "15m"
+    },
+    {
+      "brand": "杂粮煎饼鸡蛋灌饼主食坊",
+      "address": "东兴路与东兴市场路交叉口西北40米",
+      "distance": "19m"
+    },
+    {
+      "brand": "石门二姐麻辣烫(金汉店)",
+      "address": "绿港家园2区东南门北130米",
+      "distance": "21m"
+    },
+    {
+      "brand": "大耳朵烧烤",
+      "address": "绿港家园2区东南门北150米",
+      "distance": "38m"
+    },
+    {
+      "brand": "曼玲粥店(北京顺义中心汉庭酒店店)",
+      "address": "北京城区金汉绿港一区10号楼101",
+      "distance": "38m"
+    },
+    {
+      "brand": "碗双饺子馆",
+      "address": "绿港家园1区西南1门东南120米",
+      "distance": "42m"
+    },
+    {
+      "brand": "傣劲儿鲜烫肉小锅米线",
+      "address": "北京城区绿港家园一区10号楼1层101内104",
+      "distance": "44m"
+    },
+    {
+      "brand": "石园馒头",
+      "address": "东兴市场路与东兴路交叉口东40米",
+      "distance": "45m"
+    },
+    {
+      "brand": "沙县小吃",
+      "address": "东兴市场路与东兴路交叉口东40米",
+      "distance": "58m"
+    },
+    {
+      "brand": "老家熟食(金汉店)",
+      "address": "绿港家园一区9号楼一层105",
+      "distance": "83m"
+    },
+    {
+      "brand": "烤面筋",
+      "address": "绿港家园2区东南门北120米",
+      "distance": "15m"
+    },
+    {
+      "brand": "杂粮煎饼鸡蛋灌饼主食坊",
+      "address": "东兴路与东兴市场路交叉口西北40米",
+      "distance": "19m"
+    },
+    {
+      "brand": "石门二姐麻辣烫(金汉店)",
+      "address": "绿港家园2区东南门北130米",
+      "distance": "21m"
+    },
+    {
+      "brand": "大耳朵烧烤",
+      "address": "绿港家园2区东南门北150米",
+      "distance": "38m"
+    },
+    {
+      "brand": "曼玲粥店(北京顺义中心汉庭酒店店)",
+      "address": "北京城区金汉绿港一区10号楼101",
+      "distance": "38m"
+    },
+    {
+      "brand": "碗双饺子馆",
+      "address": "绿港家园1区西南1门东南120米",
+      "distance": "42m"
+    },
+    {
+      "brand": "傣劲儿鲜烫肉小锅米线",
+      "address": "北京城区绿港家园一区10号楼1层101内104",
+      "distance": "44m"
+    },
+    {
+      "brand": "石园馒头",
+      "address": "东兴市场路与东兴路交叉口东40米",
+      "distance": "45m"
+    },
+    {
+      "brand": "沙县小吃",
+      "address": "东兴市场路与东兴路交叉口东40米",
+      "distance": "58m"
+    },
+    {
+      "brand": "老家熟食(金汉店)",
+      "address": "绿港家园一区9号楼一层105",
+      "distance": "83m"
+    },
+    {
+      "brand": "烤面筋",
+      "address": "绿港家园2区东南门北120米",
+      "distance": "15m"
+    },
+    {
+      "brand": "杂粮煎饼鸡蛋灌饼主食坊",
+      "address": "东兴路与东兴市场路交叉口西北40米",
+      "distance": "19m"
+    },
+    {
+      "brand": "石门二姐麻辣烫(金汉店)",
+      "address": "绿港家园2区东南门北130米",
+      "distance": "21m"
+    },
+    {
+      "brand": "大耳朵烧烤",
+      "address": "绿港家园2区东南门北150米",
+      "distance": "38m"
+    },
+    {
+      "brand": "曼玲粥店(北京顺义中心汉庭酒店店)",
+      "address": "北京城区金汉绿港一区10号楼101",
+      "distance": "38m"
+    },
+    {
+      "brand": "碗双饺子馆",
+      "address": "绿港家园1区西南1门东南120米",
+      "distance": "42m"
+    },
+    {
+      "brand": "傣劲儿鲜烫肉小锅米线",
+      "address": "北京城区绿港家园一区10号楼1层101内104",
+      "distance": "44m"
+    },
+    {
+      "brand": "石园馒头",
+      "address": "东兴市场路与东兴路交叉口东40米",
+      "distance": "45m"
+    },
+    {
+      "brand": "沙县小吃",
+      "address": "东兴市场路与东兴路交叉口东40米",
+      "distance": "58m"
+    },
+    {
+      "brand": "老家熟食(金汉店)",
+      "address": "绿港家园一区9号楼一层105",
+      "distance": "83m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "北京京汉生活广场",
+      "open_date": "2011-09-25",
+      "area": "6万㎡",
+      "jun_daily_avg": "6.3万人次",
+      "weekday_avg": "5.2万人次",
+      "holiday_avg": "9.5万人次"
+    },
+    {
+      "name": "北京顺义国泰商业大厦",
+      "open_date": "1993-11-28",
+      "area": "3.3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "北京顺商集团国泰百货",
+      "open_date": "1993-11-28",
+      "area": "3.3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "BHG Mall北京华联顺义金街购物中心",
+      "open_date": "2014-01-01",
+      "area": "8万㎡",
+      "jun_daily_avg": "6.3万人次",
+      "weekday_avg": "5.2万人次",
+      "holiday_avg": "9.5万人次"
+    },
+    {
+      "name": "北京鑫海韵通百货",
+      "open_date": "2006-07-08",
+      "area": "1.8万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "北京新世界百货(顺义店)",
+      "open_date": "2010-09-22",
+      "area": "5.6万㎡",
+      "jun_daily_avg": "1.7万人次",
+      "weekday_avg": "1.4万人次",
+      "holiday_avg": "2.3万人次"
+    },
+    {
+      "name": "北京顺义隆华购物中心",
+      "open_date": "1997-11-26",
+      "area": "6万㎡",
+      "jun_daily_avg": "1.7万人次",
+      "weekday_avg": "1.4万人次",
+      "holiday_avg": "2.5万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 48.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 20.8,
+      "over_3yr_pct": 45.8
+    },
+    {
+      "type": "购物",
+      "count": 33.0,
+      "within_1yr_pct": 9.1,
+      "1_3yr_pct": 36.4,
+      "over_3yr_pct": 54.5
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "教育培训",
+      "count": 17.0,
+      "within_1yr_pct": 5.9,
+      "1_3yr_pct": 29.4,
+      "over_3yr_pct": 64.7
+    },
+    {
+      "type": "酒店住宿",
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    },
+    {
+      "type": "生活服务",
+      "count": 53.0,
+      "within_1yr_pct": 13.2,
+      "1_3yr_pct": 24.5,
+      "over_3yr_pct": 62.3
+    },
+    {
+      "type": "运动健身",
+      "count": 13.0,
+      "within_1yr_pct": 15.4,
+      "1_3yr_pct": 15.4,
+      "over_3yr_pct": 69.2
+    },
+    {
+      "type": "车辆服务",
+      "count": 5.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 60.0,
+      "over_3yr_pct": 40.0
+    }
+  ]
+}

@@ -1,0 +1,431 @@
+{
+  "name": "金桥啦啦宝都",
+  "city": "上海市",
+  "address": "上海市松江区人民北路3088号",
+  "lat": 31.018129,
+  "lng": 121.226438,
+  "overview": {
+    "score": 94.2,
+    "score_rank": "市内前30%",
+    "population_score": 71.7,
+    "area_score": 67.4,
+    "consumption_score": 74.3,
+    "industry_score": 94.5,
+    "annual_sales": "21.6",
+    "annual_sales_unit": "亿元",
+    "area_size_sqm": 15.5,
+    "open_date": "2021-11-21",
+    "operator": "印力商用置业有限公司",
+    "brand": "印力",
+    "type": "综合型",
+    "floors": "B2-L4"
+  },
+  "traffic": {
+    "annual_daily": 2.83,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第91",
+    "jun_total": 120.5,
+    "jun_total_rank": "市内商场第91名",
+    "jun_daily_avg": 4.0,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第91名",
+    "weekday_avg": 3.5,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第99名",
+    "holiday_avg": 5.4,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第81名"
+  },
+  "population": {
+    "residential": {
+      "500m": 9700.0,
+      "1_5km": 10.5,
+      "3km": 28.7
+    },
+    "office": {
+      "500m": 6600.0,
+      "1_5km": 4.3,
+      "3km": 13.6
+    },
+    "permanent": {
+      "500m": 1.2,
+      "1_5km": 8.4,
+      "3km": 25.0
+    }
+  },
+  "business": {
+    "competitors": 4.0,
+    "food": 91.0,
+    "shopping": 103.0,
+    "leisure": 9.0,
+    "education": 4.0,
+    "hotel": 1.0,
+    "services": 25.0,
+    "fitness": 8.0,
+    "auto": 16.0,
+    "total_stores": 240.0,
+    "old_store_3yr_pct": 60.0
+  },
+  "nearby_poi": {
+    "business": 2.0,
+    "community": 77.0,
+    "office": 2.0,
+    "school": 15.0,
+    "hospital": 14.0,
+    "transport": 6.0,
+    "scenic": 120.0
+  },
+  "demographics": {
+    "male_pct": 45.8,
+    "female_pct": null,
+    "education": {
+      "小学": 6.2,
+      "初中": 17.6,
+      "高中": 23.9,
+      "大专": 5.3,
+      "本科": 41.7,
+      "硕士": 4.2,
+      "博士": 1.1
+    },
+    "has_children_pct": 65.9,
+    "no_children_pct": 34.1
+  },
+  "scraped_at": "2026-08-01T05:42:15.522Z",
+  "nearby_restaurants": [
+    {
+      "brand": "欢喜花生(松江印象城店)",
+      "address": "广富林路1788弄松江印象城B1-K18地下一楼B1-K18欢囍花生店铺",
+      "distance": "4m"
+    },
+    {
+      "brand": "哈根达斯(上海松江印象城店)",
+      "address": "广富林路1788弄上海松江印象城L1层(东门附近)",
+      "distance": "5m"
+    },
+    {
+      "brand": "安又胖韩国烤肉(上海松江印象城店)",
+      "address": "广富林路1788弄上海松江印象城L3层",
+      "distance": "6m"
+    },
+    {
+      "brand": "马记永·兰州牛肉面(上海松江印象城店)",
+      "address": "广富林路1788弄1号松江印象城B112号",
+      "distance": "7m"
+    },
+    {
+      "brand": "Putoto·薯条专营店(上海松江印象城店)",
+      "address": "松江人民北路3088号B1楼K25",
+      "distance": "8m"
+    },
+    {
+      "brand": "立方铁铁板烧(上海松江印象城店)",
+      "address": "广富林路1788号松江印象城b1层",
+      "distance": "9m"
+    },
+    {
+      "brand": "成都你六姐·牛肉冒菜(上海松江印象城店)",
+      "address": "广富林路1788弄上海松江印象城B1层",
+      "distance": "10m"
+    },
+    {
+      "brand": "阿甘锅盔(上海松江印象城店)",
+      "address": "广富林街道广富林路1788弄1号松江印象城B1层",
+      "distance": "11m"
+    },
+    {
+      "brand": "读酥世家(松江印象城店)",
+      "address": "广富林路1788弄1号松江印象城B1第B136",
+      "distance": "11m"
+    },
+    {
+      "brand": "辛一铜锣烧(上海松江印象城店)",
+      "address": "松江人民北路与广富林路交叉口东北180米B1楼美食广场中间",
+      "distance": "12m"
+    },
+    {
+      "brand": "欢喜花生(松江印象城店)",
+      "address": "广富林路1788弄松江印象城B1-K18地下一楼B1-K18欢囍花生店铺",
+      "distance": "4m"
+    },
+    {
+      "brand": "哈根达斯(上海松江印象城店)",
+      "address": "广富林路1788弄上海松江印象城L1层(东门附近)",
+      "distance": "5m"
+    },
+    {
+      "brand": "安又胖韩国烤肉(上海松江印象城店)",
+      "address": "广富林路1788弄上海松江印象城L3层",
+      "distance": "6m"
+    },
+    {
+      "brand": "马记永·兰州牛肉面(上海松江印象城店)",
+      "address": "广富林路1788弄1号松江印象城B112号",
+      "distance": "7m"
+    },
+    {
+      "brand": "Putoto·薯条专营店(上海松江印象城店)",
+      "address": "松江人民北路3088号B1楼K25",
+      "distance": "8m"
+    },
+    {
+      "brand": "立方铁铁板烧(上海松江印象城店)",
+      "address": "广富林路1788号松江印象城b1层",
+      "distance": "9m"
+    },
+    {
+      "brand": "成都你六姐·牛肉冒菜(上海松江印象城店)",
+      "address": "广富林路1788弄上海松江印象城B1层",
+      "distance": "10m"
+    },
+    {
+      "brand": "阿甘锅盔(上海松江印象城店)",
+      "address": "广富林街道广富林路1788弄1号松江印象城B1层",
+      "distance": "11m"
+    },
+    {
+      "brand": "读酥世家(松江印象城店)",
+      "address": "广富林路1788弄1号松江印象城B1第B136",
+      "distance": "11m"
+    },
+    {
+      "brand": "辛一铜锣烧(上海松江印象城店)",
+      "address": "松江人民北路与广富林路交叉口东北180米B1楼美食广场中间",
+      "distance": "12m"
+    },
+    {
+      "brand": "欢喜花生(松江印象城店)",
+      "address": "广富林路1788弄松江印象城B1-K18地下一楼B1-K18欢囍花生店铺",
+      "distance": "4m"
+    },
+    {
+      "brand": "哈根达斯(上海松江印象城店)",
+      "address": "广富林路1788弄上海松江印象城L1层(东门附近)",
+      "distance": "5m"
+    },
+    {
+      "brand": "安又胖韩国烤肉(上海松江印象城店)",
+      "address": "广富林路1788弄上海松江印象城L3层",
+      "distance": "6m"
+    },
+    {
+      "brand": "马记永·兰州牛肉面(上海松江印象城店)",
+      "address": "广富林路1788弄1号松江印象城B112号",
+      "distance": "7m"
+    },
+    {
+      "brand": "Putoto·薯条专营店(上海松江印象城店)",
+      "address": "松江人民北路3088号B1楼K25",
+      "distance": "8m"
+    },
+    {
+      "brand": "立方铁铁板烧(上海松江印象城店)",
+      "address": "广富林路1788号松江印象城b1层",
+      "distance": "9m"
+    },
+    {
+      "brand": "成都你六姐·牛肉冒菜(上海松江印象城店)",
+      "address": "广富林路1788弄上海松江印象城B1层",
+      "distance": "10m"
+    },
+    {
+      "brand": "阿甘锅盔(上海松江印象城店)",
+      "address": "广富林街道广富林路1788弄1号松江印象城B1层",
+      "distance": "11m"
+    },
+    {
+      "brand": "读酥世家(松江印象城店)",
+      "address": "广富林路1788弄1号松江印象城B1第B136",
+      "distance": "11m"
+    },
+    {
+      "brand": "辛一铜锣烧(上海松江印象城店)",
+      "address": "松江人民北路与广富林路交叉口东北180米B1楼美食广场中间",
+      "distance": "12m"
+    },
+    {
+      "brand": "欢喜花生(松江印象城店)",
+      "address": "广富林路1788弄松江印象城B1-K18地下一楼B1-K18欢囍花生店铺",
+      "distance": "4m"
+    },
+    {
+      "brand": "哈根达斯(上海松江印象城店)",
+      "address": "广富林路1788弄上海松江印象城L1层(东门附近)",
+      "distance": "5m"
+    },
+    {
+      "brand": "安又胖韩国烤肉(上海松江印象城店)",
+      "address": "广富林路1788弄上海松江印象城L3层",
+      "distance": "6m"
+    },
+    {
+      "brand": "马记永·兰州牛肉面(上海松江印象城店)",
+      "address": "广富林路1788弄1号松江印象城B112号",
+      "distance": "7m"
+    },
+    {
+      "brand": "Putoto·薯条专营店(上海松江印象城店)",
+      "address": "松江人民北路3088号B1楼K25",
+      "distance": "8m"
+    },
+    {
+      "brand": "立方铁铁板烧(上海松江印象城店)",
+      "address": "广富林路1788号松江印象城b1层",
+      "distance": "9m"
+    },
+    {
+      "brand": "成都你六姐·牛肉冒菜(上海松江印象城店)",
+      "address": "广富林路1788弄上海松江印象城B1层",
+      "distance": "10m"
+    },
+    {
+      "brand": "阿甘锅盔(上海松江印象城店)",
+      "address": "广富林街道广富林路1788弄1号松江印象城B1层",
+      "distance": "11m"
+    },
+    {
+      "brand": "读酥世家(松江印象城店)",
+      "address": "广富林路1788弄1号松江印象城B1第B136",
+      "distance": "11m"
+    },
+    {
+      "brand": "辛一铜锣烧(上海松江印象城店)",
+      "address": "松江人民北路与广富林路交叉口东北180米B1楼美食广场中间",
+      "distance": "12m"
+    },
+    {
+      "brand": "欢喜花生(松江印象城店)",
+      "address": "广富林路1788弄松江印象城B1-K18地下一楼B1-K18欢囍花生店铺",
+      "distance": "4m"
+    },
+    {
+      "brand": "哈根达斯(上海松江印象城店)",
+      "address": "广富林路1788弄上海松江印象城L1层(东门附近)",
+      "distance": "5m"
+    },
+    {
+      "brand": "安又胖韩国烤肉(上海松江印象城店)",
+      "address": "广富林路1788弄上海松江印象城L3层",
+      "distance": "6m"
+    },
+    {
+      "brand": "马记永·兰州牛肉面(上海松江印象城店)",
+      "address": "广富林路1788弄1号松江印象城B112号",
+      "distance": "7m"
+    },
+    {
+      "brand": "Putoto·薯条专营店(上海松江印象城店)",
+      "address": "松江人民北路3088号B1楼K25",
+      "distance": "8m"
+    },
+    {
+      "brand": "立方铁铁板烧(上海松江印象城店)",
+      "address": "广富林路1788号松江印象城b1层",
+      "distance": "9m"
+    },
+    {
+      "brand": "成都你六姐·牛肉冒菜(上海松江印象城店)",
+      "address": "广富林路1788弄上海松江印象城B1层",
+      "distance": "10m"
+    },
+    {
+      "brand": "阿甘锅盔(上海松江印象城店)",
+      "address": "广富林街道广富林路1788弄1号松江印象城B1层",
+      "distance": "11m"
+    },
+    {
+      "brand": "读酥世家(松江印象城店)",
+      "address": "广富林路1788弄1号松江印象城B1第B136",
+      "distance": "11m"
+    },
+    {
+      "brand": "辛一铜锣烧(上海松江印象城店)",
+      "address": "松江人民北路与广富林路交叉口东北180米B1楼美食广场中间",
+      "distance": "12m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海福缘湾九华商业广场",
+      "open_date": "2016-01-01",
+      "area": "2.3万㎡",
+      "jun_daily_avg": "2.9万人次",
+      "weekday_avg": "3万人次",
+      "holiday_avg": "2.9万人次"
+    },
+    {
+      "name": "上海宜嘉坊广场(天山西路店)",
+      "open_date": "2006-01-01",
+      "area": "-",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海申亚珺悦18广场",
+      "open_date": "2018-04-28",
+      "area": "2.3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海虹桥中心Art Park大融城",
+      "open_date": "2021-12-31",
+      "area": "6万㎡",
+      "jun_daily_avg": "2.9万人次",
+      "weekday_avg": "3万人次",
+      "holiday_avg": "2.9万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 89.0,
+      "within_1yr_pct": 11.2,
+      "1_3yr_pct": 23.6,
+      "over_3yr_pct": 65.2
+    },
+    {
+      "type": "购物",
+      "count": 101.0,
+      "within_1yr_pct": 8.9,
+      "1_3yr_pct": 33.7,
+      "over_3yr_pct": 57.4
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 9.0,
+      "within_1yr_pct": 22.2,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 77.8
+    },
+    {
+      "type": "教育培训",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    },
+    {
+      "type": "生活服务",
+      "count": 21.0,
+      "within_1yr_pct": 19.0,
+      "1_3yr_pct": 38.1,
+      "over_3yr_pct": 42.9
+    },
+    {
+      "type": "运动健身",
+      "count": 3.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 16.0,
+      "within_1yr_pct": 6.3,
+      "1_3yr_pct": 43.8,
+      "over_3yr_pct": 50.0
+    }
+  ]
+}

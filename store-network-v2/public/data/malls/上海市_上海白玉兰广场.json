@@ -1,0 +1,486 @@
+{
+  "name": "上海白玉兰广场",
+  "city": "上海市",
+  "address": "上海市虹口区东长治路590号",
+  "lat": 31.249019,
+  "lng": 121.49787,
+  "overview": {
+    "score": 95.3,
+    "score_rank": "市内前30%",
+    "population_score": 73.3,
+    "area_score": 74.4,
+    "consumption_score": 84.7,
+    "industry_score": 95.5,
+    "annual_sales": "10",
+    "annual_sales_unit": "亿元",
+    "area_size_sqm": 11.0,
+    "open_date": "2017-01-04",
+    "operator": "印尼金光集团",
+    "brand": "金光集团",
+    "type": "美食型",
+    "floors": "B2-L3"
+  },
+  "traffic": {
+    "annual_daily": 4.25,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第48",
+    "jun_total": 170.2,
+    "jun_total_rank": "市内商场第54名",
+    "jun_daily_avg": 5.7,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第54名",
+    "weekday_avg": 5.7,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第43名",
+    "holiday_avg": 5.7,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第76名"
+  },
+  "population": {
+    "residential": {
+      "500m": 1.1,
+      "1_5km": 11.7,
+      "3km": 82.9
+    },
+    "office": {
+      "500m": 2.4,
+      "1_5km": 26.8,
+      "3km": 98.2
+    },
+    "permanent": {
+      "500m": 1.9,
+      "1_5km": 17.1,
+      "3km": 99.3
+    }
+  },
+  "business": {
+    "competitors": 10.0,
+    "food": 155.0,
+    "shopping": 104.0,
+    "leisure": 11.0,
+    "education": 5.0,
+    "hotel": 14.0,
+    "services": 90.0,
+    "fitness": 17.0,
+    "auto": 25.0,
+    "total_stores": 195.0,
+    "old_store_3yr_pct": 49.0
+  },
+  "nearby_poi": {
+    "business": 15.0,
+    "community": 793.0,
+    "office": 174.0,
+    "school": 33.0,
+    "hospital": 137.0,
+    "transport": 13.0,
+    "scenic": 716.0
+  },
+  "demographics": {
+    "male_pct": 51.2,
+    "female_pct": null,
+    "education": {
+      "小学": 9.2,
+      "初中": 18.4,
+      "高中": 12.4,
+      "大专": 7.0,
+      "本科": 46.6,
+      "硕士": 4.7,
+      "博士": 1.7
+    },
+    "has_children_pct": 58.4,
+    "no_children_pct": 41.6
+  },
+  "scraped_at": "2026-07-31T17:04:30.846Z",
+  "nearby_restaurants": [
+    {
+      "brand": "喜米铁板烧(上海白玉兰广场购物中心店)",
+      "address": "东长治路588号上海白玉兰广场购物中心L1层",
+      "distance": "13m"
+    },
+    {
+      "brand": "晓疆山·大美新疆菜(白玉兰广场店)",
+      "address": "东长治路588号白玉兰广场地下2层LG2-05商铺",
+      "distance": "20m"
+    },
+    {
+      "brand": "MUFMUF漁味料理(白玉兰广场店)",
+      "address": "东长治路588号3层13-02",
+      "distance": "26m"
+    },
+    {
+      "brand": "Wolfgang’s Steakhouse沃夫冈牛排馆(上海白玉兰广场购物中心店)",
+      "address": "东大名路501号白玉兰广场1楼L1-04、05(近上海外滩W酒店)",
+      "distance": "30m"
+    },
+    {
+      "brand": "上海宴(上海白玉兰广场店)",
+      "address": "东大名路501号上海白玉兰广场F2层",
+      "distance": "37m"
+    },
+    {
+      "brand": "Fig&Olive 无花果与橄榄(白玉兰店)",
+      "address": "东长治路588号上海白玉兰广场购物中心L3层",
+      "distance": "53m"
+    },
+    {
+      "brand": "加拿大本尼黄金烤鸡(中国首店)",
+      "address": "东长治路588号上海白玉兰广场购物中心LG1层",
+      "distance": "53m"
+    },
+    {
+      "brand": "CHAGEE霸王茶姬(上海白玉兰广场店)",
+      "address": "北外滩街道东大名路501号上海白玉兰广场1楼",
+      "distance": "55m"
+    },
+    {
+      "brand": "发财米·手作糖水(上海白玉兰广场店)",
+      "address": "东长治路588号上海白玉兰广场购物中心LG2层",
+      "distance": "56m"
+    },
+    {
+      "brand": "LENBACH兰巴赫西餐啤酒坊(上海白玉兰广场店)",
+      "address": "东大名路501号上海白玉兰广场L2层",
+      "distance": "56m"
+    },
+    {
+      "brand": "喜米铁板烧(上海白玉兰广场购物中心店)",
+      "address": "东长治路588号上海白玉兰广场购物中心L1层",
+      "distance": "13m"
+    },
+    {
+      "brand": "晓疆山·大美新疆菜(白玉兰广场店)",
+      "address": "东长治路588号白玉兰广场地下2层LG2-05商铺",
+      "distance": "20m"
+    },
+    {
+      "brand": "MUFMUF漁味料理(白玉兰广场店)",
+      "address": "东长治路588号3层13-02",
+      "distance": "26m"
+    },
+    {
+      "brand": "Wolfgang’s Steakhouse沃夫冈牛排馆(上海白玉兰广场购物中心店)",
+      "address": "东大名路501号白玉兰广场1楼L1-04、05(近上海外滩W酒店)",
+      "distance": "30m"
+    },
+    {
+      "brand": "上海宴(上海白玉兰广场店)",
+      "address": "东大名路501号上海白玉兰广场F2层",
+      "distance": "37m"
+    },
+    {
+      "brand": "Fig&Olive 无花果与橄榄(白玉兰店)",
+      "address": "东长治路588号上海白玉兰广场购物中心L3层",
+      "distance": "53m"
+    },
+    {
+      "brand": "加拿大本尼黄金烤鸡(中国首店)",
+      "address": "东长治路588号上海白玉兰广场购物中心LG1层",
+      "distance": "53m"
+    },
+    {
+      "brand": "CHAGEE霸王茶姬(上海白玉兰广场店)",
+      "address": "北外滩街道东大名路501号上海白玉兰广场1楼",
+      "distance": "55m"
+    },
+    {
+      "brand": "发财米·手作糖水(上海白玉兰广场店)",
+      "address": "东长治路588号上海白玉兰广场购物中心LG2层",
+      "distance": "56m"
+    },
+    {
+      "brand": "LENBACH兰巴赫西餐啤酒坊(上海白玉兰广场店)",
+      "address": "东大名路501号上海白玉兰广场L2层",
+      "distance": "56m"
+    },
+    {
+      "brand": "喜米铁板烧(上海白玉兰广场购物中心店)",
+      "address": "东长治路588号上海白玉兰广场购物中心L1层",
+      "distance": "13m"
+    },
+    {
+      "brand": "晓疆山·大美新疆菜(白玉兰广场店)",
+      "address": "东长治路588号白玉兰广场地下2层LG2-05商铺",
+      "distance": "20m"
+    },
+    {
+      "brand": "MUFMUF漁味料理(白玉兰广场店)",
+      "address": "东长治路588号3层13-02",
+      "distance": "26m"
+    },
+    {
+      "brand": "Wolfgang’s Steakhouse沃夫冈牛排馆(上海白玉兰广场购物中心店)",
+      "address": "东大名路501号白玉兰广场1楼L1-04、05(近上海外滩W酒店)",
+      "distance": "30m"
+    },
+    {
+      "brand": "上海宴(上海白玉兰广场店)",
+      "address": "东大名路501号上海白玉兰广场F2层",
+      "distance": "37m"
+    },
+    {
+      "brand": "Fig&Olive 无花果与橄榄(白玉兰店)",
+      "address": "东长治路588号上海白玉兰广场购物中心L3层",
+      "distance": "53m"
+    },
+    {
+      "brand": "加拿大本尼黄金烤鸡(中国首店)",
+      "address": "东长治路588号上海白玉兰广场购物中心LG1层",
+      "distance": "53m"
+    },
+    {
+      "brand": "CHAGEE霸王茶姬(上海白玉兰广场店)",
+      "address": "北外滩街道东大名路501号上海白玉兰广场1楼",
+      "distance": "55m"
+    },
+    {
+      "brand": "发财米·手作糖水(上海白玉兰广场店)",
+      "address": "东长治路588号上海白玉兰广场购物中心LG2层",
+      "distance": "56m"
+    },
+    {
+      "brand": "LENBACH兰巴赫西餐啤酒坊(上海白玉兰广场店)",
+      "address": "东大名路501号上海白玉兰广场L2层",
+      "distance": "56m"
+    },
+    {
+      "brand": "喜米铁板烧(上海白玉兰广场购物中心店)",
+      "address": "东长治路588号上海白玉兰广场购物中心L1层",
+      "distance": "13m"
+    },
+    {
+      "brand": "晓疆山·大美新疆菜(白玉兰广场店)",
+      "address": "东长治路588号白玉兰广场地下2层LG2-05商铺",
+      "distance": "20m"
+    },
+    {
+      "brand": "MUFMUF漁味料理(白玉兰广场店)",
+      "address": "东长治路588号3层13-02",
+      "distance": "26m"
+    },
+    {
+      "brand": "Wolfgang’s Steakhouse沃夫冈牛排馆(上海白玉兰广场购物中心店)",
+      "address": "东大名路501号白玉兰广场1楼L1-04、05(近上海外滩W酒店)",
+      "distance": "30m"
+    },
+    {
+      "brand": "上海宴(上海白玉兰广场店)",
+      "address": "东大名路501号上海白玉兰广场F2层",
+      "distance": "37m"
+    },
+    {
+      "brand": "Fig&Olive 无花果与橄榄(白玉兰店)",
+      "address": "东长治路588号上海白玉兰广场购物中心L3层",
+      "distance": "53m"
+    },
+    {
+      "brand": "加拿大本尼黄金烤鸡(中国首店)",
+      "address": "东长治路588号上海白玉兰广场购物中心LG1层",
+      "distance": "53m"
+    },
+    {
+      "brand": "CHAGEE霸王茶姬(上海白玉兰广场店)",
+      "address": "北外滩街道东大名路501号上海白玉兰广场1楼",
+      "distance": "55m"
+    },
+    {
+      "brand": "发财米·手作糖水(上海白玉兰广场店)",
+      "address": "东长治路588号上海白玉兰广场购物中心LG2层",
+      "distance": "56m"
+    },
+    {
+      "brand": "LENBACH兰巴赫西餐啤酒坊(上海白玉兰广场店)",
+      "address": "东大名路501号上海白玉兰广场L2层",
+      "distance": "56m"
+    },
+    {
+      "brand": "喜米铁板烧(上海白玉兰广场购物中心店)",
+      "address": "东长治路588号上海白玉兰广场购物中心L1层",
+      "distance": "13m"
+    },
+    {
+      "brand": "晓疆山·大美新疆菜(白玉兰广场店)",
+      "address": "东长治路588号白玉兰广场地下2层LG2-05商铺",
+      "distance": "20m"
+    },
+    {
+      "brand": "MUFMUF漁味料理(白玉兰广场店)",
+      "address": "东长治路588号3层13-02",
+      "distance": "26m"
+    },
+    {
+      "brand": "Wolfgang’s Steakhouse沃夫冈牛排馆(上海白玉兰广场购物中心店)",
+      "address": "东大名路501号白玉兰广场1楼L1-04、05(近上海外滩W酒店)",
+      "distance": "30m"
+    },
+    {
+      "brand": "上海宴(上海白玉兰广场店)",
+      "address": "东大名路501号上海白玉兰广场F2层",
+      "distance": "37m"
+    },
+    {
+      "brand": "Fig&Olive 无花果与橄榄(白玉兰店)",
+      "address": "东长治路588号上海白玉兰广场购物中心L3层",
+      "distance": "53m"
+    },
+    {
+      "brand": "加拿大本尼黄金烤鸡(中国首店)",
+      "address": "东长治路588号上海白玉兰广场购物中心LG1层",
+      "distance": "53m"
+    },
+    {
+      "brand": "CHAGEE霸王茶姬(上海白玉兰广场店)",
+      "address": "北外滩街道东大名路501号上海白玉兰广场1楼",
+      "distance": "55m"
+    },
+    {
+      "brand": "发财米·手作糖水(上海白玉兰广场店)",
+      "address": "东长治路588号上海白玉兰广场购物中心LG2层",
+      "distance": "56m"
+    },
+    {
+      "brand": "LENBACH兰巴赫西餐啤酒坊(上海白玉兰广场店)",
+      "address": "东大名路501号上海白玉兰广场L2层",
+      "distance": "56m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海星荟中心",
+      "open_date": "2016-01-01",
+      "area": "7.2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海北外滩来福士",
+      "open_date": "2021-07-10",
+      "area": "12万㎡",
+      "jun_daily_avg": "4.3万人次",
+      "weekday_avg": "4.6万人次",
+      "holiday_avg": "3.6万人次"
+    },
+    {
+      "name": "金茂时尚生活中心",
+      "open_date": "2005-09-01",
+      "area": "2.3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海益丰外滩源",
+      "open_date": "2012-05-17",
+      "area": "6000㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海中信广场",
+      "open_date": "2010-01-01",
+      "area": "10万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海利通广场",
+      "open_date": "2012-01-01",
+      "area": "2万㎡",
+      "jun_daily_avg": "5.2万人次",
+      "weekday_avg": "4.7万人次",
+      "holiday_avg": "6.3万人次"
+    },
+    {
+      "name": "上海正大广场",
+      "open_date": "2002-01-01",
+      "area": "24.3万㎡",
+      "jun_daily_avg": "5.2万人次",
+      "weekday_avg": "4.7万人次",
+      "holiday_avg": "6.3万人次"
+    },
+    {
+      "name": "上海滨港商业中心",
+      "open_date": "2025-01",
+      "area": "11万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海壹丰广场",
+      "open_date": "2012-11-09",
+      "area": "2.8万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海瑞虹坊",
+      "open_date": "2020-10-03",
+      "area": "3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 97.0,
+      "within_1yr_pct": 6.2,
+      "1_3yr_pct": 32.0,
+      "over_3yr_pct": 61.9
+    },
+    {
+      "type": "购物",
+      "count": 42.0,
+      "within_1yr_pct": 14.3,
+      "1_3yr_pct": 52.4,
+      "over_3yr_pct": 33.3
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 10.0,
+      "within_1yr_pct": 30.0,
+      "1_3yr_pct": 30.0,
+      "over_3yr_pct": 40.0
+    },
+    {
+      "type": "教育培训",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 3.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    },
+    {
+      "type": "生活服务",
+      "count": 29.0,
+      "within_1yr_pct": 20.7,
+      "1_3yr_pct": 44.8,
+      "over_3yr_pct": 34.5
+    },
+    {
+      "type": "运动健身",
+      "count": 6.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 16.7
+    },
+    {
+      "type": "车辆服务",
+      "count": 7.0,
+      "within_1yr_pct": 57.1,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 42.9
+    }
+  ]
+}

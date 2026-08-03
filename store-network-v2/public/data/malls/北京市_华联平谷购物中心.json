@@ -1,0 +1,398 @@
+{
+  "name": "华联平谷购物中心",
+  "city": "北京市",
+  "address": "北京市通州区新华街道北京远洋乐堤港",
+  "lat": 39.923819,
+  "lng": 116.656734,
+  "overview": {
+    "score": 91.7,
+    "score_rank": "市内前30%",
+    "population_score": 68.3,
+    "area_score": 75.8,
+    "consumption_score": 64.9,
+    "industry_score": 91.9,
+    "annual_sales": "北京远洋乐堤港位于京杭大运河的北起点，项目总体量37万平方米，由三个主体板块搭建，包括两栋甲级写字楼及配套10万平方米高端购物中心，其中商业综合体将承载260余家商铺入驻，首店品牌超过三成 。项目设计为风帆造型，融入运河情结，象征着“扬帆起航，一帆风顺” 。购物中心正门前“眼睛”状的设计被称为“运河之眼” 。远洋乐堤港集影院、健身中心、生鲜超市、潮流剧场等多种业态于一体，引进诸多有特色项目",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 10.0,
+    "open_date": "2023-06-30",
+    "operator": "远洋集团控股有限公司",
+    "brand": "远洋集团SINOOCEAN",
+    "type": "美食型",
+    "floors": "B1-L6"
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "-",
+    "annual_daily_rank": "",
+    "jun_total": 76.3,
+    "jun_total_rank": "市内商场第126名",
+    "jun_daily_avg": 2.5,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第126名",
+    "weekday_avg": 2.3,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第134名",
+    "holiday_avg": 3.2,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第120名"
+  },
+  "population": {
+    "residential": {
+      "500m": 5200.0,
+      "1_5km": 7.6,
+      "3km": 40.7
+    },
+    "office": {
+      "500m": 9700.0,
+      "1_5km": 4.7,
+      "3km": 19.6
+    },
+    "permanent": {
+      "500m": 7600.0,
+      "1_5km": 7.2,
+      "3km": 39.4
+    }
+  },
+  "business": {
+    "competitors": 2.0,
+    "food": 120.0,
+    "shopping": 83.0,
+    "leisure": 17.0,
+    "education": 8.0,
+    "hotel": 14.0,
+    "services": 84.0,
+    "fitness": 7.0,
+    "auto": 15.0,
+    "total_stores": 123.0,
+    "old_store_3yr_pct": 49.0
+  },
+  "nearby_poi": {
+    "business": null,
+    "community": 259.0,
+    "office": 17.0,
+    "school": 20.0,
+    "hospital": 38.0,
+    "transport": 4.0,
+    "scenic": 103.0
+  },
+  "demographics": {
+    "male_pct": 48.3,
+    "female_pct": null,
+    "education": {
+      "小学": 8.2,
+      "初中": 14.4,
+      "高中": 13.5,
+      "大专": 5.2,
+      "本科": 47.2,
+      "硕士": 8.8,
+      "博士": 2.7
+    },
+    "has_children_pct": 65.7,
+    "no_children_pct": 34.3
+  },
+  "scraped_at": "2026-08-01T06:09:01.822Z",
+  "nearby_restaurants": [
+    {
+      "brand": "南锣肥猫·麻辣烤鱼(北京远洋乐堤港店)",
+      "address": "北京远洋乐堤港",
+      "distance": "13m"
+    },
+    {
+      "brand": "呷哺呷哺(远洋乐堤港)",
+      "address": "北京远洋乐堤港B503号商铺",
+      "distance": "14m"
+    },
+    {
+      "brand": "乡村基(北京远洋乐堤港店)",
+      "address": "北京城区黄船埠街2号院2号楼-B1层-110-B008、B021",
+      "distance": "14m"
+    },
+    {
+      "brand": "必胜客(通州乐堤港店)",
+      "address": "北京城区北京远洋乐堤港项目L3层",
+      "distance": "14m"
+    },
+    {
+      "brand": "晋总面庄(乐堤港店)",
+      "address": "北京城区黄船埠街2号院2号楼-1层-110-3020",
+      "distance": "14m"
+    },
+    {
+      "brand": "仁元五道口枣糕王(北京远洋乐堤港店)",
+      "address": "新华街道黄船埠街2号院2号楼-1层-110-B034",
+      "distance": "15m"
+    },
+    {
+      "brand": "夸父炸串(通州远洋乐堤港店)",
+      "address": "北京城区新华北路北关桥东北角远洋乐堤港B1-6",
+      "distance": "17m"
+    },
+    {
+      "brand": "如轩海鲜砂锅粥(北京远洋乐堤港店)",
+      "address": "北京城区新华北路远洋乐缇港5层(B516)号",
+      "distance": "17m"
+    },
+    {
+      "brand": "TheGreenParty面包喵",
+      "address": "远洋乐堤港",
+      "distance": "19m"
+    },
+    {
+      "brand": "马记永·兰州牛肉面(北京远洋乐堤港店)",
+      "address": "新华街道黄船埠街2号院远洋乐堤港2号楼B1层",
+      "distance": "19m"
+    },
+    {
+      "brand": "南锣肥猫·麻辣烤鱼(北京远洋乐堤港店)",
+      "address": "北京远洋乐堤港",
+      "distance": "13m"
+    },
+    {
+      "brand": "呷哺呷哺(远洋乐堤港)",
+      "address": "北京远洋乐堤港B503号商铺",
+      "distance": "14m"
+    },
+    {
+      "brand": "乡村基(北京远洋乐堤港店)",
+      "address": "北京城区黄船埠街2号院2号楼-B1层-110-B008、B021",
+      "distance": "14m"
+    },
+    {
+      "brand": "必胜客(通州乐堤港店)",
+      "address": "北京城区北京远洋乐堤港项目L3层",
+      "distance": "14m"
+    },
+    {
+      "brand": "晋总面庄(乐堤港店)",
+      "address": "北京城区黄船埠街2号院2号楼-1层-110-3020",
+      "distance": "14m"
+    },
+    {
+      "brand": "仁元五道口枣糕王(北京远洋乐堤港店)",
+      "address": "新华街道黄船埠街2号院2号楼-1层-110-B034",
+      "distance": "15m"
+    },
+    {
+      "brand": "夸父炸串(通州远洋乐堤港店)",
+      "address": "北京城区新华北路北关桥东北角远洋乐堤港B1-6",
+      "distance": "17m"
+    },
+    {
+      "brand": "如轩海鲜砂锅粥(北京远洋乐堤港店)",
+      "address": "北京城区新华北路远洋乐缇港5层(B516)号",
+      "distance": "17m"
+    },
+    {
+      "brand": "TheGreenParty面包喵",
+      "address": "远洋乐堤港",
+      "distance": "19m"
+    },
+    {
+      "brand": "马记永·兰州牛肉面(北京远洋乐堤港店)",
+      "address": "新华街道黄船埠街2号院远洋乐堤港2号楼B1层",
+      "distance": "19m"
+    },
+    {
+      "brand": "南锣肥猫·麻辣烤鱼(北京远洋乐堤港店)",
+      "address": "北京远洋乐堤港",
+      "distance": "13m"
+    },
+    {
+      "brand": "呷哺呷哺(远洋乐堤港)",
+      "address": "北京远洋乐堤港B503号商铺",
+      "distance": "14m"
+    },
+    {
+      "brand": "乡村基(北京远洋乐堤港店)",
+      "address": "北京城区黄船埠街2号院2号楼-B1层-110-B008、B021",
+      "distance": "14m"
+    },
+    {
+      "brand": "必胜客(通州乐堤港店)",
+      "address": "北京城区北京远洋乐堤港项目L3层",
+      "distance": "14m"
+    },
+    {
+      "brand": "晋总面庄(乐堤港店)",
+      "address": "北京城区黄船埠街2号院2号楼-1层-110-3020",
+      "distance": "14m"
+    },
+    {
+      "brand": "仁元五道口枣糕王(北京远洋乐堤港店)",
+      "address": "新华街道黄船埠街2号院2号楼-1层-110-B034",
+      "distance": "15m"
+    },
+    {
+      "brand": "夸父炸串(通州远洋乐堤港店)",
+      "address": "北京城区新华北路北关桥东北角远洋乐堤港B1-6",
+      "distance": "17m"
+    },
+    {
+      "brand": "如轩海鲜砂锅粥(北京远洋乐堤港店)",
+      "address": "北京城区新华北路远洋乐缇港5层(B516)号",
+      "distance": "17m"
+    },
+    {
+      "brand": "TheGreenParty面包喵",
+      "address": "远洋乐堤港",
+      "distance": "19m"
+    },
+    {
+      "brand": "马记永·兰州牛肉面(北京远洋乐堤港店)",
+      "address": "新华街道黄船埠街2号院远洋乐堤港2号楼B1层",
+      "distance": "19m"
+    },
+    {
+      "brand": "南锣肥猫·麻辣烤鱼(北京远洋乐堤港店)",
+      "address": "北京远洋乐堤港",
+      "distance": "13m"
+    },
+    {
+      "brand": "呷哺呷哺(远洋乐堤港)",
+      "address": "北京远洋乐堤港B503号商铺",
+      "distance": "14m"
+    },
+    {
+      "brand": "乡村基(北京远洋乐堤港店)",
+      "address": "北京城区黄船埠街2号院2号楼-B1层-110-B008、B021",
+      "distance": "14m"
+    },
+    {
+      "brand": "必胜客(通州乐堤港店)",
+      "address": "北京城区北京远洋乐堤港项目L3层",
+      "distance": "14m"
+    },
+    {
+      "brand": "晋总面庄(乐堤港店)",
+      "address": "北京城区黄船埠街2号院2号楼-1层-110-3020",
+      "distance": "14m"
+    },
+    {
+      "brand": "仁元五道口枣糕王(北京远洋乐堤港店)",
+      "address": "新华街道黄船埠街2号院2号楼-1层-110-B034",
+      "distance": "15m"
+    },
+    {
+      "brand": "夸父炸串(通州远洋乐堤港店)",
+      "address": "北京城区新华北路北关桥东北角远洋乐堤港B1-6",
+      "distance": "17m"
+    },
+    {
+      "brand": "如轩海鲜砂锅粥(北京远洋乐堤港店)",
+      "address": "北京城区新华北路远洋乐缇港5层(B516)号",
+      "distance": "17m"
+    },
+    {
+      "brand": "TheGreenParty面包喵",
+      "address": "远洋乐堤港",
+      "distance": "19m"
+    },
+    {
+      "brand": "马记永·兰州牛肉面(北京远洋乐堤港店)",
+      "address": "新华街道黄船埠街2号院远洋乐堤港2号楼B1层",
+      "distance": "19m"
+    },
+    {
+      "brand": "南锣肥猫·麻辣烤鱼(北京远洋乐堤港店)",
+      "address": "北京远洋乐堤港",
+      "distance": "13m"
+    },
+    {
+      "brand": "呷哺呷哺(远洋乐堤港)",
+      "address": "北京远洋乐堤港B503号商铺",
+      "distance": "14m"
+    },
+    {
+      "brand": "乡村基(北京远洋乐堤港店)",
+      "address": "北京城区黄船埠街2号院2号楼-B1层-110-B008、B021",
+      "distance": "14m"
+    },
+    {
+      "brand": "必胜客(通州乐堤港店)",
+      "address": "北京城区北京远洋乐堤港项目L3层",
+      "distance": "14m"
+    },
+    {
+      "brand": "晋总面庄(乐堤港店)",
+      "address": "北京城区黄船埠街2号院2号楼-1层-110-3020",
+      "distance": "14m"
+    },
+    {
+      "brand": "仁元五道口枣糕王(北京远洋乐堤港店)",
+      "address": "新华街道黄船埠街2号院2号楼-1层-110-B034",
+      "distance": "15m"
+    },
+    {
+      "brand": "夸父炸串(通州远洋乐堤港店)",
+      "address": "北京城区新华北路北关桥东北角远洋乐堤港B1-6",
+      "distance": "17m"
+    },
+    {
+      "brand": "如轩海鲜砂锅粥(北京远洋乐堤港店)",
+      "address": "北京城区新华北路远洋乐缇港5层(B516)号",
+      "distance": "17m"
+    },
+    {
+      "brand": "TheGreenParty面包喵",
+      "address": "远洋乐堤港",
+      "distance": "19m"
+    },
+    {
+      "brand": "马记永·兰州牛肉面(北京远洋乐堤港店)",
+      "address": "新华街道黄船埠街2号院远洋乐堤港2号楼B1层",
+      "distance": "19m"
+    }
+  ],
+  "nearby_malls": [],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 52.0,
+      "within_1yr_pct": 19.2,
+      "1_3yr_pct": 19.2,
+      "over_3yr_pct": 61.5
+    },
+    {
+      "type": "购物",
+      "count": 34.0,
+      "within_1yr_pct": 23.5,
+      "1_3yr_pct": 35.3,
+      "over_3yr_pct": 41.2
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 11.0,
+      "within_1yr_pct": 36.4,
+      "1_3yr_pct": 27.3,
+      "over_3yr_pct": 36.4
+    },
+    {
+      "type": "教育培训",
+      "count": 2.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "生活服务",
+      "count": 12.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 58.3,
+      "over_3yr_pct": 41.7
+    },
+    {
+      "type": "运动健身",
+      "count": 3.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 33.3
+    },
+    {
+      "type": "车辆服务",
+      "count": 9.0,
+      "within_1yr_pct": 11.1,
+      "1_3yr_pct": 44.4,
+      "over_3yr_pct": 44.4
+    }
+  ]
+}

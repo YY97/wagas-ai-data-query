@@ -1,0 +1,398 @@
+{
+  "name": "上海天空万科广场",
+  "city": "上海市",
+  "address": "上海市青浦区徐泾镇CHAGEE霸王茶姬(上海天空万科广场店)天空万科广场 UNI vanke MALL",
+  "lat": 31.177246,
+  "lng": 121.253957,
+  "overview": {
+    "score": 95.3,
+    "score_rank": "市内前30%",
+    "population_score": 79.5,
+    "area_score": 69.7,
+    "consumption_score": 79.4,
+    "industry_score": 95.5,
+    "annual_sales": "上海天空万科广场是上海万科联合申通资产开发的首个TOD模式多元业态综合体项目，与17号线徐盈路站无缝连接，集商业、办公、住宅和青年公寓、公共绿地和教育为一体，是现代版的“微缩城市”",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 10.0,
+    "open_date": "2022-09-30",
+    "operator": "印力商用置业有限公司",
+    "brand": "引力",
+    "type": "综合型",
+    "floors": "B1-L4"
+  },
+  "traffic": {
+    "annual_daily": 3.48,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第70",
+    "jun_total": 186.2,
+    "jun_total_rank": "市内商场第44名",
+    "jun_daily_avg": 6.2,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第44名",
+    "weekday_avg": 5.4,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第49名",
+    "holiday_avg": 8.4,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第35名"
+  },
+  "population": {
+    "residential": {
+      "500m": 1.4,
+      "1_5km": 10.2,
+      "3km": 29.9
+    },
+    "office": {
+      "500m": 8900.0,
+      "1_5km": 3.3,
+      "3km": 12.6
+    },
+    "permanent": {
+      "500m": 1.8,
+      "1_5km": 9.3,
+      "3km": 26.4
+    }
+  },
+  "business": {
+    "competitors": 3.0,
+    "food": 115.0,
+    "shopping": 102.0,
+    "leisure": 15.0,
+    "education": 13.0,
+    "hotel": 13.0,
+    "services": 70.0,
+    "fitness": 15.0,
+    "auto": 23.0,
+    "total_stores": 237.0,
+    "old_store_3yr_pct": 40.0
+  },
+  "nearby_poi": {
+    "business": null,
+    "community": 145.0,
+    "office": 5.0,
+    "school": 6.0,
+    "hospital": 34.0,
+    "transport": 7.0,
+    "scenic": 37.0
+  },
+  "demographics": {
+    "male_pct": 47.9,
+    "female_pct": null,
+    "education": {
+      "小学": 9.4,
+      "初中": 17.5,
+      "高中": 11.3,
+      "大专": 10.1,
+      "本科": 47.2,
+      "硕士": 3.8,
+      "博士": 0.7
+    },
+    "has_children_pct": 63.2,
+    "no_children_pct": 36.8
+  },
+  "scraped_at": "2026-07-31T11:33:54.426Z",
+  "nearby_restaurants": [
+    {
+      "brand": "熊治面包(万科天空之城店)",
+      "address": "天空万科广场",
+      "distance": "3m"
+    },
+    {
+      "brand": "肥汁米蘭香港米綫(天空萬科廣場分號)",
+      "address": "城区上海崧泽大道2229弄66号L2-56单元房屋",
+      "distance": "6m"
+    },
+    {
+      "brand": "话题食集(天空万科广场店)",
+      "address": "崧泽大道66号UNI-MALL天空之城L2层",
+      "distance": "9m"
+    },
+    {
+      "brand": "马小毛老上海里脊肉(天空万科广场店)",
+      "address": "徐泾镇崧泽大道2229弄66号(徐盈路地铁站出入口旁)UNI-MALL天空之城L2层",
+      "distance": "10m"
+    },
+    {
+      "brand": "轻遇现烤三明治(万科天空之城店)",
+      "address": "徐泾镇崧泽大道66号UNI-MALL天空之城",
+      "distance": "11m"
+    },
+    {
+      "brand": "WenTinG 文汀·半糖蛋糕(天空之城店)",
+      "address": "崧泽大道2229弄66号130(单元号L1-30a)裕莲茶楼隔壁",
+      "distance": "11m"
+    },
+    {
+      "brand": "学峰辣小小麻辣香锅",
+      "address": "徐泾镇崧泽大道2229弄66号(徐盈路地铁站出入口旁)UNI-MALL天空之城L2层",
+      "distance": "12m"
+    },
+    {
+      "brand": "阿甘锅盔·酸辣粉(青浦天空之城店)",
+      "address": "崧泽大道2229弄66号天空万科广场UNI vanke MALLF2层",
+      "distance": "16m"
+    },
+    {
+      "brand": "LELECHA乐乐茶(天空万科广场店)",
+      "address": "崧泽大道2229弄66号上海天空万科广场1楼GF-68号",
+      "distance": "17m"
+    },
+    {
+      "brand": "观甜·潮式手作甜汤(青浦万科天空之城店)",
+      "address": "徐盈路989-1号(徐盈路地铁站出入口步行100米)",
+      "distance": "17m"
+    },
+    {
+      "brand": "熊治面包(万科天空之城店)",
+      "address": "天空万科广场",
+      "distance": "3m"
+    },
+    {
+      "brand": "肥汁米蘭香港米綫(天空萬科廣場分號)",
+      "address": "城区上海崧泽大道2229弄66号L2-56单元房屋",
+      "distance": "6m"
+    },
+    {
+      "brand": "话题食集(天空万科广场店)",
+      "address": "崧泽大道66号UNI-MALL天空之城L2层",
+      "distance": "9m"
+    },
+    {
+      "brand": "马小毛老上海里脊肉(天空万科广场店)",
+      "address": "徐泾镇崧泽大道2229弄66号(徐盈路地铁站出入口旁)UNI-MALL天空之城L2层",
+      "distance": "10m"
+    },
+    {
+      "brand": "轻遇现烤三明治(万科天空之城店)",
+      "address": "徐泾镇崧泽大道66号UNI-MALL天空之城",
+      "distance": "11m"
+    },
+    {
+      "brand": "WenTinG 文汀·半糖蛋糕(天空之城店)",
+      "address": "崧泽大道2229弄66号130(单元号L1-30a)裕莲茶楼隔壁",
+      "distance": "11m"
+    },
+    {
+      "brand": "学峰辣小小麻辣香锅",
+      "address": "徐泾镇崧泽大道2229弄66号(徐盈路地铁站出入口旁)UNI-MALL天空之城L2层",
+      "distance": "12m"
+    },
+    {
+      "brand": "阿甘锅盔·酸辣粉(青浦天空之城店)",
+      "address": "崧泽大道2229弄66号天空万科广场UNI vanke MALLF2层",
+      "distance": "16m"
+    },
+    {
+      "brand": "LELECHA乐乐茶(天空万科广场店)",
+      "address": "崧泽大道2229弄66号上海天空万科广场1楼GF-68号",
+      "distance": "17m"
+    },
+    {
+      "brand": "观甜·潮式手作甜汤(青浦万科天空之城店)",
+      "address": "徐盈路989-1号(徐盈路地铁站出入口步行100米)",
+      "distance": "17m"
+    },
+    {
+      "brand": "熊治面包(万科天空之城店)",
+      "address": "天空万科广场",
+      "distance": "3m"
+    },
+    {
+      "brand": "肥汁米蘭香港米綫(天空萬科廣場分號)",
+      "address": "城区上海崧泽大道2229弄66号L2-56单元房屋",
+      "distance": "6m"
+    },
+    {
+      "brand": "话题食集(天空万科广场店)",
+      "address": "崧泽大道66号UNI-MALL天空之城L2层",
+      "distance": "9m"
+    },
+    {
+      "brand": "马小毛老上海里脊肉(天空万科广场店)",
+      "address": "徐泾镇崧泽大道2229弄66号(徐盈路地铁站出入口旁)UNI-MALL天空之城L2层",
+      "distance": "10m"
+    },
+    {
+      "brand": "轻遇现烤三明治(万科天空之城店)",
+      "address": "徐泾镇崧泽大道66号UNI-MALL天空之城",
+      "distance": "11m"
+    },
+    {
+      "brand": "WenTinG 文汀·半糖蛋糕(天空之城店)",
+      "address": "崧泽大道2229弄66号130(单元号L1-30a)裕莲茶楼隔壁",
+      "distance": "11m"
+    },
+    {
+      "brand": "学峰辣小小麻辣香锅",
+      "address": "徐泾镇崧泽大道2229弄66号(徐盈路地铁站出入口旁)UNI-MALL天空之城L2层",
+      "distance": "12m"
+    },
+    {
+      "brand": "阿甘锅盔·酸辣粉(青浦天空之城店)",
+      "address": "崧泽大道2229弄66号天空万科广场UNI vanke MALLF2层",
+      "distance": "16m"
+    },
+    {
+      "brand": "LELECHA乐乐茶(天空万科广场店)",
+      "address": "崧泽大道2229弄66号上海天空万科广场1楼GF-68号",
+      "distance": "17m"
+    },
+    {
+      "brand": "观甜·潮式手作甜汤(青浦万科天空之城店)",
+      "address": "徐盈路989-1号(徐盈路地铁站出入口步行100米)",
+      "distance": "17m"
+    },
+    {
+      "brand": "熊治面包(万科天空之城店)",
+      "address": "天空万科广场",
+      "distance": "3m"
+    },
+    {
+      "brand": "肥汁米蘭香港米綫(天空萬科廣場分號)",
+      "address": "城区上海崧泽大道2229弄66号L2-56单元房屋",
+      "distance": "6m"
+    },
+    {
+      "brand": "话题食集(天空万科广场店)",
+      "address": "崧泽大道66号UNI-MALL天空之城L2层",
+      "distance": "9m"
+    },
+    {
+      "brand": "马小毛老上海里脊肉(天空万科广场店)",
+      "address": "徐泾镇崧泽大道2229弄66号(徐盈路地铁站出入口旁)UNI-MALL天空之城L2层",
+      "distance": "10m"
+    },
+    {
+      "brand": "轻遇现烤三明治(万科天空之城店)",
+      "address": "徐泾镇崧泽大道66号UNI-MALL天空之城",
+      "distance": "11m"
+    },
+    {
+      "brand": "WenTinG 文汀·半糖蛋糕(天空之城店)",
+      "address": "崧泽大道2229弄66号130(单元号L1-30a)裕莲茶楼隔壁",
+      "distance": "11m"
+    },
+    {
+      "brand": "学峰辣小小麻辣香锅",
+      "address": "徐泾镇崧泽大道2229弄66号(徐盈路地铁站出入口旁)UNI-MALL天空之城L2层",
+      "distance": "12m"
+    },
+    {
+      "brand": "阿甘锅盔·酸辣粉(青浦天空之城店)",
+      "address": "崧泽大道2229弄66号天空万科广场UNI vanke MALLF2层",
+      "distance": "16m"
+    },
+    {
+      "brand": "LELECHA乐乐茶(天空万科广场店)",
+      "address": "崧泽大道2229弄66号上海天空万科广场1楼GF-68号",
+      "distance": "17m"
+    },
+    {
+      "brand": "观甜·潮式手作甜汤(青浦万科天空之城店)",
+      "address": "徐盈路989-1号(徐盈路地铁站出入口步行100米)",
+      "distance": "17m"
+    },
+    {
+      "brand": "熊治面包(万科天空之城店)",
+      "address": "天空万科广场",
+      "distance": "3m"
+    },
+    {
+      "brand": "肥汁米蘭香港米綫(天空萬科廣場分號)",
+      "address": "城区上海崧泽大道2229弄66号L2-56单元房屋",
+      "distance": "6m"
+    },
+    {
+      "brand": "话题食集(天空万科广场店)",
+      "address": "崧泽大道66号UNI-MALL天空之城L2层",
+      "distance": "9m"
+    },
+    {
+      "brand": "马小毛老上海里脊肉(天空万科广场店)",
+      "address": "徐泾镇崧泽大道2229弄66号(徐盈路地铁站出入口旁)UNI-MALL天空之城L2层",
+      "distance": "10m"
+    },
+    {
+      "brand": "轻遇现烤三明治(万科天空之城店)",
+      "address": "徐泾镇崧泽大道66号UNI-MALL天空之城",
+      "distance": "11m"
+    },
+    {
+      "brand": "WenTinG 文汀·半糖蛋糕(天空之城店)",
+      "address": "崧泽大道2229弄66号130(单元号L1-30a)裕莲茶楼隔壁",
+      "distance": "11m"
+    },
+    {
+      "brand": "学峰辣小小麻辣香锅",
+      "address": "徐泾镇崧泽大道2229弄66号(徐盈路地铁站出入口旁)UNI-MALL天空之城L2层",
+      "distance": "12m"
+    },
+    {
+      "brand": "阿甘锅盔·酸辣粉(青浦天空之城店)",
+      "address": "崧泽大道2229弄66号天空万科广场UNI vanke MALLF2层",
+      "distance": "16m"
+    },
+    {
+      "brand": "LELECHA乐乐茶(天空万科广场店)",
+      "address": "崧泽大道2229弄66号上海天空万科广场1楼GF-68号",
+      "distance": "17m"
+    },
+    {
+      "brand": "观甜·潮式手作甜汤(青浦万科天空之城店)",
+      "address": "徐盈路989-1号(徐盈路地铁站出入口步行100米)",
+      "distance": "17m"
+    }
+  ],
+  "nearby_malls": [],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 101.0,
+      "within_1yr_pct": 18.8,
+      "1_3yr_pct": 32.7,
+      "over_3yr_pct": 48.5
+    },
+    {
+      "type": "购物",
+      "count": 81.0,
+      "within_1yr_pct": 42.0,
+      "1_3yr_pct": 24.7,
+      "over_3yr_pct": 33.3
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 14.0,
+      "within_1yr_pct": 42.9,
+      "1_3yr_pct": 21.4,
+      "over_3yr_pct": 35.7
+    },
+    {
+      "type": "教育培训",
+      "count": 8.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 37.5,
+      "over_3yr_pct": 37.5
+    },
+    {
+      "type": "生活服务",
+      "count": 15.0,
+      "within_1yr_pct": 40.0,
+      "1_3yr_pct": 26.7,
+      "over_3yr_pct": 33.3
+    },
+    {
+      "type": "运动健身",
+      "count": 4.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 75.0,
+      "over_3yr_pct": 25.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 14.0,
+      "within_1yr_pct": 35.7,
+      "1_3yr_pct": 35.7,
+      "over_3yr_pct": 28.6
+    }
+  ]
+}

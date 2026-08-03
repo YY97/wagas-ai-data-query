@@ -1,0 +1,454 @@
+{
+  "name": "上海FOR天物空间",
+  "city": "上海市",
+  "address": "上海市浦东新区洋泾街道南洋泾路521号陆家嘴金融街区",
+  "lat": 31.227164,
+  "lng": 121.543968,
+  "overview": {
+    "score": 87.4,
+    "score_rank": "市内前30%",
+    "population_score": 78.9,
+    "area_score": 71.6,
+    "consumption_score": 84.9,
+    "industry_score": 87.5,
+    "annual_sales": "",
+    "annual_sales_unit": "",
+    "area_size_sqm": null,
+    "open_date": "",
+    "operator": "",
+    "brand": "",
+    "type": "",
+    "floors": ""
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "",
+    "annual_daily_rank": "",
+    "jun_total": null,
+    "jun_total_rank": "",
+    "jun_daily_avg": null,
+    "jun_daily_unit": "",
+    "jun_daily_rank": "",
+    "weekday_avg": null,
+    "weekday_unit": "",
+    "weekday_rank": "",
+    "holiday_avg": null,
+    "holiday_unit": "",
+    "holiday_rank": ""
+  },
+  "population": {
+    "residential": {
+      "500m": 1.5,
+      "1_5km": 19.2,
+      "3km": 56.6
+    },
+    "office": {
+      "500m": 1.0,
+      "1_5km": 11.4,
+      "3km": 40.4
+    },
+    "permanent": {
+      "500m": 1.5,
+      "1_5km": 19.6,
+      "3km": 60.2
+    }
+  },
+  "business": {
+    "competitors": 2.0,
+    "food": 86.0,
+    "shopping": 56.0,
+    "leisure": 13.0,
+    "education": 50.0,
+    "hotel": 22.0,
+    "services": 106.0,
+    "fitness": 27.0,
+    "auto": 19.0,
+    "total_stores": 379.0,
+    "old_store_3yr_pct": 54.0
+  },
+  "nearby_poi": {
+    "business": 6.0,
+    "community": 334.0,
+    "office": 27.0,
+    "school": 37.0,
+    "hospital": 70.0,
+    "transport": 10.0,
+    "scenic": 199.0
+  },
+  "demographics": {
+    "male_pct": 48.2,
+    "female_pct": null,
+    "education": {
+      "小学": 8.8,
+      "初中": 16.8,
+      "高中": 10.7,
+      "大专": 6.4,
+      "本科": 48.0,
+      "硕士": 7.5,
+      "博士": 1.8
+    },
+    "has_children_pct": null,
+    "no_children_pct": null
+  },
+  "scraped_at": "2026-07-31T14:56:25.618Z",
+  "nearby_restaurants": [
+    {
+      "brand": "玖园·融合菜",
+      "address": "灵山路1000弄9号楼(芳甸路地铁站3号口步行470米)",
+      "distance": "37m"
+    },
+    {
+      "brand": "山里海里 融合菜",
+      "address": "南洋泾路555号4号楼陆家嘴金融街区2A层山里海里",
+      "distance": "47m"
+    },
+    {
+      "brand": "省家水煎包",
+      "address": "陆家嘴金融街区4号楼(芳甸路地铁站3号口步行290米)",
+      "distance": "49m"
+    },
+    {
+      "brand": "拾海小宴(陆家嘴金融街区店)",
+      "address": "南洋泾路555号1层103-106室",
+      "distance": "52m"
+    },
+    {
+      "brand": "优芙得餐厅(陆家嘴金融街区店)",
+      "address": "陆家嘴金融街南洋泾路555号银月大厦负1楼",
+      "distance": "54m"
+    },
+    {
+      "brand": "北步园火锅(浦东店)",
+      "address": "杨高中路2100-2102号17幢501-503",
+      "distance": "56m"
+    },
+    {
+      "brand": "开门茶馆",
+      "address": "洋泾街道杨高中路2100-2102号17幢504室",
+      "distance": "59m"
+    },
+    {
+      "brand": "星巴克(陆家嘴创业街区店)",
+      "address": "南洋泾路555号101室近陆家嘴创业街区",
+      "distance": "59m"
+    },
+    {
+      "brand": "溜记南门口贵阳烧烤·火锅",
+      "address": "杨高中路2100号4号楼一层",
+      "distance": "60m"
+    },
+    {
+      "brand": "必胜客(陆家嘴金融街区店)",
+      "address": "南洋泾路555号陆家嘴金融街4号楼(南洋泾路与灵山路交叉口东南120米)",
+      "distance": "60m"
+    },
+    {
+      "brand": "玖园·融合菜",
+      "address": "灵山路1000弄9号楼(芳甸路地铁站3号口步行470米)",
+      "distance": "37m"
+    },
+    {
+      "brand": "山里海里 融合菜",
+      "address": "南洋泾路555号4号楼陆家嘴金融街区2A层山里海里",
+      "distance": "47m"
+    },
+    {
+      "brand": "省家水煎包",
+      "address": "陆家嘴金融街区4号楼(芳甸路地铁站3号口步行290米)",
+      "distance": "49m"
+    },
+    {
+      "brand": "拾海小宴(陆家嘴金融街区店)",
+      "address": "南洋泾路555号1层103-106室",
+      "distance": "52m"
+    },
+    {
+      "brand": "优芙得餐厅(陆家嘴金融街区店)",
+      "address": "陆家嘴金融街南洋泾路555号银月大厦负1楼",
+      "distance": "54m"
+    },
+    {
+      "brand": "北步园火锅(浦东店)",
+      "address": "杨高中路2100-2102号17幢501-503",
+      "distance": "56m"
+    },
+    {
+      "brand": "开门茶馆",
+      "address": "洋泾街道杨高中路2100-2102号17幢504室",
+      "distance": "59m"
+    },
+    {
+      "brand": "星巴克(陆家嘴创业街区店)",
+      "address": "南洋泾路555号101室近陆家嘴创业街区",
+      "distance": "59m"
+    },
+    {
+      "brand": "溜记南门口贵阳烧烤·火锅",
+      "address": "杨高中路2100号4号楼一层",
+      "distance": "60m"
+    },
+    {
+      "brand": "必胜客(陆家嘴金融街区店)",
+      "address": "南洋泾路555号陆家嘴金融街4号楼(南洋泾路与灵山路交叉口东南120米)",
+      "distance": "60m"
+    },
+    {
+      "brand": "玖园·融合菜",
+      "address": "灵山路1000弄9号楼(芳甸路地铁站3号口步行470米)",
+      "distance": "37m"
+    },
+    {
+      "brand": "山里海里 融合菜",
+      "address": "南洋泾路555号4号楼陆家嘴金融街区2A层山里海里",
+      "distance": "47m"
+    },
+    {
+      "brand": "省家水煎包",
+      "address": "陆家嘴金融街区4号楼(芳甸路地铁站3号口步行290米)",
+      "distance": "49m"
+    },
+    {
+      "brand": "拾海小宴(陆家嘴金融街区店)",
+      "address": "南洋泾路555号1层103-106室",
+      "distance": "52m"
+    },
+    {
+      "brand": "优芙得餐厅(陆家嘴金融街区店)",
+      "address": "陆家嘴金融街南洋泾路555号银月大厦负1楼",
+      "distance": "54m"
+    },
+    {
+      "brand": "北步园火锅(浦东店)",
+      "address": "杨高中路2100-2102号17幢501-503",
+      "distance": "56m"
+    },
+    {
+      "brand": "开门茶馆",
+      "address": "洋泾街道杨高中路2100-2102号17幢504室",
+      "distance": "59m"
+    },
+    {
+      "brand": "星巴克(陆家嘴创业街区店)",
+      "address": "南洋泾路555号101室近陆家嘴创业街区",
+      "distance": "59m"
+    },
+    {
+      "brand": "溜记南门口贵阳烧烤·火锅",
+      "address": "杨高中路2100号4号楼一层",
+      "distance": "60m"
+    },
+    {
+      "brand": "必胜客(陆家嘴金融街区店)",
+      "address": "南洋泾路555号陆家嘴金融街4号楼(南洋泾路与灵山路交叉口东南120米)",
+      "distance": "60m"
+    },
+    {
+      "brand": "玖园·融合菜",
+      "address": "灵山路1000弄9号楼(芳甸路地铁站3号口步行470米)",
+      "distance": "37m"
+    },
+    {
+      "brand": "山里海里 融合菜",
+      "address": "南洋泾路555号4号楼陆家嘴金融街区2A层山里海里",
+      "distance": "47m"
+    },
+    {
+      "brand": "省家水煎包",
+      "address": "陆家嘴金融街区4号楼(芳甸路地铁站3号口步行290米)",
+      "distance": "49m"
+    },
+    {
+      "brand": "拾海小宴(陆家嘴金融街区店)",
+      "address": "南洋泾路555号1层103-106室",
+      "distance": "52m"
+    },
+    {
+      "brand": "优芙得餐厅(陆家嘴金融街区店)",
+      "address": "陆家嘴金融街南洋泾路555号银月大厦负1楼",
+      "distance": "54m"
+    },
+    {
+      "brand": "北步园火锅(浦东店)",
+      "address": "杨高中路2100-2102号17幢501-503",
+      "distance": "56m"
+    },
+    {
+      "brand": "开门茶馆",
+      "address": "洋泾街道杨高中路2100-2102号17幢504室",
+      "distance": "59m"
+    },
+    {
+      "brand": "星巴克(陆家嘴创业街区店)",
+      "address": "南洋泾路555号101室近陆家嘴创业街区",
+      "distance": "59m"
+    },
+    {
+      "brand": "溜记南门口贵阳烧烤·火锅",
+      "address": "杨高中路2100号4号楼一层",
+      "distance": "60m"
+    },
+    {
+      "brand": "必胜客(陆家嘴金融街区店)",
+      "address": "南洋泾路555号陆家嘴金融街4号楼(南洋泾路与灵山路交叉口东南120米)",
+      "distance": "60m"
+    },
+    {
+      "brand": "玖园·融合菜",
+      "address": "灵山路1000弄9号楼(芳甸路地铁站3号口步行470米)",
+      "distance": "37m"
+    },
+    {
+      "brand": "山里海里 融合菜",
+      "address": "南洋泾路555号4号楼陆家嘴金融街区2A层山里海里",
+      "distance": "47m"
+    },
+    {
+      "brand": "省家水煎包",
+      "address": "陆家嘴金融街区4号楼(芳甸路地铁站3号口步行290米)",
+      "distance": "49m"
+    },
+    {
+      "brand": "拾海小宴(陆家嘴金融街区店)",
+      "address": "南洋泾路555号1层103-106室",
+      "distance": "52m"
+    },
+    {
+      "brand": "优芙得餐厅(陆家嘴金融街区店)",
+      "address": "陆家嘴金融街南洋泾路555号银月大厦负1楼",
+      "distance": "54m"
+    },
+    {
+      "brand": "北步园火锅(浦东店)",
+      "address": "杨高中路2100-2102号17幢501-503",
+      "distance": "56m"
+    },
+    {
+      "brand": "开门茶馆",
+      "address": "洋泾街道杨高中路2100-2102号17幢504室",
+      "distance": "59m"
+    },
+    {
+      "brand": "星巴克(陆家嘴创业街区店)",
+      "address": "南洋泾路555号101室近陆家嘴创业街区",
+      "distance": "59m"
+    },
+    {
+      "brand": "溜记南门口贵阳烧烤·火锅",
+      "address": "杨高中路2100号4号楼一层",
+      "distance": "60m"
+    },
+    {
+      "brand": "必胜客(陆家嘴金融街区店)",
+      "address": "南洋泾路555号陆家嘴金融街4号楼(南洋泾路与灵山路交叉口东南120米)",
+      "distance": "60m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海FOR天物空间",
+      "open_date": "2020-03-01",
+      "area": "-",
+      "jun_daily_avg": "1.7万人次",
+      "weekday_avg": "1.5万人次",
+      "holiday_avg": "2.1万人次"
+    },
+    {
+      "name": "上海乐坊羽山生活广场",
+      "open_date": "2017-04-01",
+      "area": "2.2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海浦东大拇指广场",
+      "open_date": "2005-03-01",
+      "area": "11万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海联洋广场",
+      "open_date": "2008-12-24",
+      "area": "5.8万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海LCM置汇旭辉广场",
+      "open_date": "2018-09-22",
+      "area": "13万㎡",
+      "jun_daily_avg": "7.8万人次",
+      "weekday_avg": "7.1万人次",
+      "holiday_avg": "9.7万人次"
+    },
+    {
+      "name": "上海丁香国际商业中心",
+      "open_date": "2017-07-09",
+      "area": "4.7万㎡",
+      "jun_daily_avg": "2.7万人次",
+      "weekday_avg": "2.7万人次",
+      "holiday_avg": "2.6万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 86.0,
+      "within_1yr_pct": 11.6,
+      "1_3yr_pct": 30.2,
+      "over_3yr_pct": 58.1
+    },
+    {
+      "type": "购物",
+      "count": 56.0,
+      "within_1yr_pct": 12.5,
+      "1_3yr_pct": 26.8,
+      "over_3yr_pct": 60.7
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 13.0,
+      "within_1yr_pct": 46.2,
+      "1_3yr_pct": 38.5,
+      "over_3yr_pct": 15.4
+    },
+    {
+      "type": "教育培训",
+      "count": 50.0,
+      "within_1yr_pct": 28.0,
+      "1_3yr_pct": 28.0,
+      "over_3yr_pct": 44.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 22.0,
+      "within_1yr_pct": 36.4,
+      "1_3yr_pct": 18.2,
+      "over_3yr_pct": 45.5
+    },
+    {
+      "type": "生活服务",
+      "count": 106.0,
+      "within_1yr_pct": 22.6,
+      "1_3yr_pct": 25.5,
+      "over_3yr_pct": 51.9
+    },
+    {
+      "type": "运动健身",
+      "count": 27.0,
+      "within_1yr_pct": 11.1,
+      "1_3yr_pct": 18.5,
+      "over_3yr_pct": 70.4
+    },
+    {
+      "type": "车辆服务",
+      "count": 19.0,
+      "within_1yr_pct": 5.3,
+      "1_3yr_pct": 26.3,
+      "over_3yr_pct": 68.4
+    }
+  ]
+}

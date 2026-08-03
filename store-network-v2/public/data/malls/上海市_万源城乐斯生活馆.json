@@ -1,0 +1,439 @@
+{
+  "name": "万源城乐斯生活馆",
+  "city": "上海市",
+  "address": "上海市闵行区万源路916号",
+  "lat": 31.148642,
+  "lng": 121.394381,
+  "overview": {
+    "score": null,
+    "score_rank": "",
+    "population_score": 85.1,
+    "area_score": 64.2,
+    "consumption_score": 85.6,
+    "industry_score": 67.7,
+    "annual_sales": "万源城乐斯生活会馆位于万源城核心位置，是周边1.8公里生活半径之内落成的首个大型商业中心，总建面达2.3万平方米",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 2.3,
+    "open_date": "2010-12-03",
+    "operator": "上海实业城市开发集团有限公司",
+    "brand": "",
+    "type": "休闲娱乐型",
+    "floors": ""
+  },
+  "traffic": {
+    "annual_daily": 877.0,
+    "annual_daily_unit": "人次",
+    "annual_daily_rank": "市内第516",
+    "jun_total": null,
+    "jun_total_rank": "",
+    "jun_daily_avg": null,
+    "jun_daily_unit": "",
+    "jun_daily_rank": "",
+    "weekday_avg": null,
+    "weekday_unit": "",
+    "weekday_rank": "",
+    "holiday_avg": null,
+    "holiday_unit": "",
+    "holiday_rank": ""
+  },
+  "population": {
+    "residential": {
+      "500m": 2.0,
+      "1_5km": 20.6,
+      "3km": 70.2
+    },
+    "office": {
+      "500m": 5800.0,
+      "1_5km": 8.0,
+      "3km": 46.5
+    },
+    "permanent": {
+      "500m": 1.8,
+      "1_5km": 19.8,
+      "3km": 70.0
+    }
+  },
+  "business": {
+    "competitors": 1.0,
+    "food": 25.0,
+    "shopping": 41.0,
+    "leisure": 2.0,
+    "education": 2.0,
+    "hotel": null,
+    "services": 30.0,
+    "fitness": 5.0,
+    "auto": 7.0,
+    "total_stores": 28.0,
+    "old_store_3yr_pct": 36.0
+  },
+  "nearby_poi": {
+    "business": 5.0,
+    "community": 351.0,
+    "office": 21.0,
+    "school": 39.0,
+    "hospital": 44.0,
+    "transport": 7.0,
+    "scenic": 119.0
+  },
+  "demographics": {
+    "male_pct": 50.8,
+    "female_pct": null,
+    "education": {
+      "小学": 8.1,
+      "初中": 14.7,
+      "高中": 11.2,
+      "大专": 6.7,
+      "本科": 50.9,
+      "硕士": 6.8,
+      "博士": 1.6
+    },
+    "has_children_pct": 58.5,
+    "no_children_pct": 41.5
+  },
+  "scraped_at": "2026-08-01T14:37:05.411Z",
+  "nearby_restaurants": [
+    {
+      "brand": "DQ·蛋糕·冰淇淋(上海奉贤百联店)",
+      "address": "南桥镇百齐路288号一层(G41-F01-1-038)-G区",
+      "distance": "5m"
+    },
+    {
+      "brand": "菊樱寿司(南桥百联店)",
+      "address": "南桥镇百齐路288号二期三楼G41-WQ3F0007",
+      "distance": "9m"
+    },
+    {
+      "brand": "秦䩊会·陕西biangbiang面(南桥百联店)",
+      "address": "百齐路588号百联南桥购物中心3F层",
+      "distance": "16m"
+    },
+    {
+      "brand": "唐饼家(百联南桥购物中心)",
+      "address": "南桥镇百齐路588号第一食品",
+      "distance": "17m"
+    },
+    {
+      "brand": "厚贞日式烤肉(南桥百联店)",
+      "address": "百齐路588号百联南桥购物中心3F层",
+      "distance": "17m"
+    },
+    {
+      "brand": "椿田熟成茶",
+      "address": "百齐路与南方国际二大道交叉口东120米",
+      "distance": "18m"
+    },
+    {
+      "brand": "茉酸奶(奉贤南桥百联店)",
+      "address": "南桥镇百齐路288号二期3楼百联广场",
+      "distance": "19m"
+    },
+    {
+      "brand": "南棠湾·粤小馆(上海首店)",
+      "address": "南桥镇百齐路288号F03层G41-02F03-01-0023室",
+      "distance": "20m"
+    },
+    {
+      "brand": "秦碗会·陕西biangbiang面",
+      "address": "百齐路588号百联南桥购物中心",
+      "distance": "22m"
+    },
+    {
+      "brand": "梦回柳州螺蛳粉(百联南桥购物中心百齐路店)",
+      "address": "南桥镇百齐路588号百联南桥购物中心地下一层111室",
+      "distance": "22m"
+    },
+    {
+      "brand": "DQ·蛋糕·冰淇淋(上海奉贤百联店)",
+      "address": "南桥镇百齐路288号一层(G41-F01-1-038)-G区",
+      "distance": "5m"
+    },
+    {
+      "brand": "菊樱寿司(南桥百联店)",
+      "address": "南桥镇百齐路288号二期三楼G41-WQ3F0007",
+      "distance": "9m"
+    },
+    {
+      "brand": "秦䩊会·陕西biangbiang面(南桥百联店)",
+      "address": "百齐路588号百联南桥购物中心3F层",
+      "distance": "16m"
+    },
+    {
+      "brand": "唐饼家(百联南桥购物中心)",
+      "address": "南桥镇百齐路588号第一食品",
+      "distance": "17m"
+    },
+    {
+      "brand": "厚贞日式烤肉(南桥百联店)",
+      "address": "百齐路588号百联南桥购物中心3F层",
+      "distance": "17m"
+    },
+    {
+      "brand": "椿田熟成茶",
+      "address": "百齐路与南方国际二大道交叉口东120米",
+      "distance": "18m"
+    },
+    {
+      "brand": "茉酸奶(奉贤南桥百联店)",
+      "address": "南桥镇百齐路288号二期3楼百联广场",
+      "distance": "19m"
+    },
+    {
+      "brand": "南棠湾·粤小馆(上海首店)",
+      "address": "南桥镇百齐路288号F03层G41-02F03-01-0023室",
+      "distance": "20m"
+    },
+    {
+      "brand": "秦碗会·陕西biangbiang面",
+      "address": "百齐路588号百联南桥购物中心",
+      "distance": "22m"
+    },
+    {
+      "brand": "梦回柳州螺蛳粉(百联南桥购物中心百齐路店)",
+      "address": "南桥镇百齐路588号百联南桥购物中心地下一层111室",
+      "distance": "22m"
+    },
+    {
+      "brand": "DQ·蛋糕·冰淇淋(上海奉贤百联店)",
+      "address": "南桥镇百齐路288号一层(G41-F01-1-038)-G区",
+      "distance": "5m"
+    },
+    {
+      "brand": "菊樱寿司(南桥百联店)",
+      "address": "南桥镇百齐路288号二期三楼G41-WQ3F0007",
+      "distance": "9m"
+    },
+    {
+      "brand": "秦䩊会·陕西biangbiang面(南桥百联店)",
+      "address": "百齐路588号百联南桥购物中心3F层",
+      "distance": "16m"
+    },
+    {
+      "brand": "唐饼家(百联南桥购物中心)",
+      "address": "南桥镇百齐路588号第一食品",
+      "distance": "17m"
+    },
+    {
+      "brand": "厚贞日式烤肉(南桥百联店)",
+      "address": "百齐路588号百联南桥购物中心3F层",
+      "distance": "17m"
+    },
+    {
+      "brand": "椿田熟成茶",
+      "address": "百齐路与南方国际二大道交叉口东120米",
+      "distance": "18m"
+    },
+    {
+      "brand": "茉酸奶(奉贤南桥百联店)",
+      "address": "南桥镇百齐路288号二期3楼百联广场",
+      "distance": "19m"
+    },
+    {
+      "brand": "南棠湾·粤小馆(上海首店)",
+      "address": "南桥镇百齐路288号F03层G41-02F03-01-0023室",
+      "distance": "20m"
+    },
+    {
+      "brand": "秦碗会·陕西biangbiang面",
+      "address": "百齐路588号百联南桥购物中心",
+      "distance": "22m"
+    },
+    {
+      "brand": "梦回柳州螺蛳粉(百联南桥购物中心百齐路店)",
+      "address": "南桥镇百齐路588号百联南桥购物中心地下一层111室",
+      "distance": "22m"
+    },
+    {
+      "brand": "DQ·蛋糕·冰淇淋(上海奉贤百联店)",
+      "address": "南桥镇百齐路288号一层(G41-F01-1-038)-G区",
+      "distance": "5m"
+    },
+    {
+      "brand": "菊樱寿司(南桥百联店)",
+      "address": "南桥镇百齐路288号二期三楼G41-WQ3F0007",
+      "distance": "9m"
+    },
+    {
+      "brand": "秦䩊会·陕西biangbiang面(南桥百联店)",
+      "address": "百齐路588号百联南桥购物中心3F层",
+      "distance": "16m"
+    },
+    {
+      "brand": "唐饼家(百联南桥购物中心)",
+      "address": "南桥镇百齐路588号第一食品",
+      "distance": "17m"
+    },
+    {
+      "brand": "厚贞日式烤肉(南桥百联店)",
+      "address": "百齐路588号百联南桥购物中心3F层",
+      "distance": "17m"
+    },
+    {
+      "brand": "椿田熟成茶",
+      "address": "百齐路与南方国际二大道交叉口东120米",
+      "distance": "18m"
+    },
+    {
+      "brand": "茉酸奶(奉贤南桥百联店)",
+      "address": "南桥镇百齐路288号二期3楼百联广场",
+      "distance": "19m"
+    },
+    {
+      "brand": "南棠湾·粤小馆(上海首店)",
+      "address": "南桥镇百齐路288号F03层G41-02F03-01-0023室",
+      "distance": "20m"
+    },
+    {
+      "brand": "秦碗会·陕西biangbiang面",
+      "address": "百齐路588号百联南桥购物中心",
+      "distance": "22m"
+    },
+    {
+      "brand": "梦回柳州螺蛳粉(百联南桥购物中心百齐路店)",
+      "address": "南桥镇百齐路588号百联南桥购物中心地下一层111室",
+      "distance": "22m"
+    },
+    {
+      "brand": "DQ·蛋糕·冰淇淋(上海奉贤百联店)",
+      "address": "南桥镇百齐路288号一层(G41-F01-1-038)-G区",
+      "distance": "5m"
+    },
+    {
+      "brand": "菊樱寿司(南桥百联店)",
+      "address": "南桥镇百齐路288号二期三楼G41-WQ3F0007",
+      "distance": "9m"
+    },
+    {
+      "brand": "秦䩊会·陕西biangbiang面(南桥百联店)",
+      "address": "百齐路588号百联南桥购物中心3F层",
+      "distance": "16m"
+    },
+    {
+      "brand": "唐饼家(百联南桥购物中心)",
+      "address": "南桥镇百齐路588号第一食品",
+      "distance": "17m"
+    },
+    {
+      "brand": "厚贞日式烤肉(南桥百联店)",
+      "address": "百齐路588号百联南桥购物中心3F层",
+      "distance": "17m"
+    },
+    {
+      "brand": "椿田熟成茶",
+      "address": "百齐路与南方国际二大道交叉口东120米",
+      "distance": "18m"
+    },
+    {
+      "brand": "茉酸奶(奉贤南桥百联店)",
+      "address": "南桥镇百齐路288号二期3楼百联广场",
+      "distance": "19m"
+    },
+    {
+      "brand": "南棠湾·粤小馆(上海首店)",
+      "address": "南桥镇百齐路288号F03层G41-02F03-01-0023室",
+      "distance": "20m"
+    },
+    {
+      "brand": "秦碗会·陕西biangbiang面",
+      "address": "百齐路588号百联南桥购物中心",
+      "distance": "22m"
+    },
+    {
+      "brand": "梦回柳州螺蛳粉(百联南桥购物中心百齐路店)",
+      "address": "南桥镇百齐路588号百联南桥购物中心地下一层111室",
+      "distance": "22m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海万源坊",
+      "open_date": "2005-06-10",
+      "area": "3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海城开优享+",
+      "open_date": "2021-07-09",
+      "area": "8000㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海古美生活购物广场",
+      "open_date": "2010-01-01",
+      "area": "3.6万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "欧风新天地",
+      "open_date": "2014-01-01",
+      "area": "-",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海漕河泾印象城",
+      "open_date": "2021-05-28",
+      "area": "5.6万㎡",
+      "jun_daily_avg": "3.8万人次",
+      "weekday_avg": "4万人次",
+      "holiday_avg": "3.1万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 9.0,
+      "within_1yr_pct": 22.2,
+      "1_3yr_pct": 44.4,
+      "over_3yr_pct": 33.3
+    },
+    {
+      "type": "购物",
+      "count": 6.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 16.7,
+      "over_3yr_pct": 33.3
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "教育培训",
+      "count": 2.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "生活服务",
+      "count": 5.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 20.0,
+      "over_3yr_pct": 60.0
+    },
+    {
+      "type": "运动健身",
+      "count": 3.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 33.3
+    },
+    {
+      "type": "车辆服务",
+      "count": 1.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
+    }
+  ]
+}

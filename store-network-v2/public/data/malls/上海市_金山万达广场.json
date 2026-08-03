@@ -1,0 +1,381 @@
+{
+  "name": "金山万达广场",
+  "city": "上海市",
+  "address": "",
+  "lat": null,
+  "lng": null,
+  "overview": {
+    "score": 89.0,
+    "score_rank": "市内前30%",
+    "population_score": 90.9,
+    "area_score": 76.3,
+    "consumption_score": 89.0,
+    "industry_score": 89.0,
+    "annual_sales": "",
+    "annual_sales_unit": "",
+    "area_size_sqm": null,
+    "open_date": "",
+    "operator": "",
+    "brand": "",
+    "type": "",
+    "floors": ""
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "",
+    "annual_daily_rank": "",
+    "jun_total": null,
+    "jun_total_rank": "",
+    "jun_daily_avg": null,
+    "jun_daily_unit": "",
+    "jun_daily_rank": "",
+    "weekday_avg": null,
+    "weekday_unit": "",
+    "weekday_rank": "",
+    "holiday_avg": null,
+    "holiday_unit": "",
+    "holiday_rank": ""
+  },
+  "population": {
+    "residential": {
+      "500m": 2.5,
+      "1_5km": 18.9,
+      "3km": 76.8
+    },
+    "office": {
+      "500m": 2.9,
+      "1_5km": 14.4,
+      "3km": 68.1
+    },
+    "permanent": {
+      "500m": 3.2,
+      "1_5km": 20.6,
+      "3km": 86.0
+    }
+  },
+  "business": {
+    "competitors": 6.0,
+    "food": 191.0,
+    "shopping": 95.0,
+    "leisure": 23.0,
+    "education": 30.0,
+    "hotel": 14.0,
+    "services": 142.0,
+    "fitness": 41.0,
+    "auto": 19.0,
+    "total_stores": null,
+    "old_store_3yr_pct": null
+  },
+  "nearby_poi": {
+    "business": 4.0,
+    "community": 681.0,
+    "office": 63.0,
+    "school": 51.0,
+    "hospital": 83.0,
+    "transport": 10.0,
+    "scenic": 296.0
+  },
+  "demographics": {
+    "male_pct": 52.4,
+    "female_pct": null,
+    "education": {
+      "小学": 8.1,
+      "初中": 15.5,
+      "高中": 11.6,
+      "大专": 6.6,
+      "本科": 49.4,
+      "硕士": 6.7,
+      "博士": 2.1
+    },
+    "has_children_pct": null,
+    "no_children_pct": null
+  },
+  "scraped_at": "2026-08-01T07:05:07.960Z",
+  "nearby_restaurants": [
+    {
+      "brand": "MUSEE CAFE(保利·时光里店)",
+      "address": "瑞平路230号保利时光里B1层",
+      "distance": "6m"
+    },
+    {
+      "brand": "汤.come",
+      "address": "徐汇区龙华街道瑞平路230号保利时光里地下2层B2-017号",
+      "distance": "8m"
+    },
+    {
+      "brand": "青和茶艺馆",
+      "address": "瑞平路230号保利时光里(龙华中路地铁站5号口步行400米)",
+      "distance": "15m"
+    },
+    {
+      "brand": "十度鲜家(上海保利时光里店)",
+      "address": "瑞平路230号B1层B1-029商铺",
+      "distance": "19m"
+    },
+    {
+      "brand": "BUTCHER牛排肉铺(保利时光里店)",
+      "address": "瑞平路230号保利时光里B2层",
+      "distance": "20m"
+    },
+    {
+      "brand": "大米先生(保利时光里店)",
+      "address": "瑞平路230号保利时光里B2层16号",
+      "distance": "20m"
+    },
+    {
+      "brand": "柴门公馆(保利时光里店)",
+      "address": "保利时光里(龙华中路地铁站5号口步行350米)",
+      "distance": "24m"
+    },
+    {
+      "brand": "老爸厨房(保利.时光里店)",
+      "address": "瑞平路230号保利时光里商场B1-023",
+      "distance": "32m"
+    },
+    {
+      "brand": "老蕃享浓汤拉面徐汇时光里店",
+      "address": "瑞平路230号保利时光里B2层",
+      "distance": "32m"
+    },
+    {
+      "brand": "喜顶上品海胆水饺(保利时光里店)",
+      "address": "瑞平路230号保利·时光里L2层18室",
+      "distance": "35m"
+    },
+    {
+      "brand": "MUSEE CAFE(保利·时光里店)",
+      "address": "瑞平路230号保利时光里B1层",
+      "distance": "6m"
+    },
+    {
+      "brand": "汤.come",
+      "address": "徐汇区龙华街道瑞平路230号保利时光里地下2层B2-017号",
+      "distance": "8m"
+    },
+    {
+      "brand": "青和茶艺馆",
+      "address": "瑞平路230号保利时光里(龙华中路地铁站5号口步行400米)",
+      "distance": "15m"
+    },
+    {
+      "brand": "十度鲜家(上海保利时光里店)",
+      "address": "瑞平路230号B1层B1-029商铺",
+      "distance": "19m"
+    },
+    {
+      "brand": "BUTCHER牛排肉铺(保利时光里店)",
+      "address": "瑞平路230号保利时光里B2层",
+      "distance": "20m"
+    },
+    {
+      "brand": "大米先生(保利时光里店)",
+      "address": "瑞平路230号保利时光里B2层16号",
+      "distance": "20m"
+    },
+    {
+      "brand": "柴门公馆(保利时光里店)",
+      "address": "保利时光里(龙华中路地铁站5号口步行350米)",
+      "distance": "24m"
+    },
+    {
+      "brand": "老爸厨房(保利.时光里店)",
+      "address": "瑞平路230号保利时光里商场B1-023",
+      "distance": "32m"
+    },
+    {
+      "brand": "老蕃享浓汤拉面徐汇时光里店",
+      "address": "瑞平路230号保利时光里B2层",
+      "distance": "32m"
+    },
+    {
+      "brand": "喜顶上品海胆水饺(保利时光里店)",
+      "address": "瑞平路230号保利·时光里L2层18室",
+      "distance": "35m"
+    },
+    {
+      "brand": "MUSEE CAFE(保利·时光里店)",
+      "address": "瑞平路230号保利时光里B1层",
+      "distance": "6m"
+    },
+    {
+      "brand": "汤.come",
+      "address": "徐汇区龙华街道瑞平路230号保利时光里地下2层B2-017号",
+      "distance": "8m"
+    },
+    {
+      "brand": "青和茶艺馆",
+      "address": "瑞平路230号保利时光里(龙华中路地铁站5号口步行400米)",
+      "distance": "15m"
+    },
+    {
+      "brand": "十度鲜家(上海保利时光里店)",
+      "address": "瑞平路230号B1层B1-029商铺",
+      "distance": "19m"
+    },
+    {
+      "brand": "BUTCHER牛排肉铺(保利时光里店)",
+      "address": "瑞平路230号保利时光里B2层",
+      "distance": "20m"
+    },
+    {
+      "brand": "大米先生(保利时光里店)",
+      "address": "瑞平路230号保利时光里B2层16号",
+      "distance": "20m"
+    },
+    {
+      "brand": "柴门公馆(保利时光里店)",
+      "address": "保利时光里(龙华中路地铁站5号口步行350米)",
+      "distance": "24m"
+    },
+    {
+      "brand": "老爸厨房(保利.时光里店)",
+      "address": "瑞平路230号保利时光里商场B1-023",
+      "distance": "32m"
+    },
+    {
+      "brand": "老蕃享浓汤拉面徐汇时光里店",
+      "address": "瑞平路230号保利时光里B2层",
+      "distance": "32m"
+    },
+    {
+      "brand": "喜顶上品海胆水饺(保利时光里店)",
+      "address": "瑞平路230号保利·时光里L2层18室",
+      "distance": "35m"
+    },
+    {
+      "brand": "MUSEE CAFE(保利·时光里店)",
+      "address": "瑞平路230号保利时光里B1层",
+      "distance": "6m"
+    },
+    {
+      "brand": "汤.come",
+      "address": "徐汇区龙华街道瑞平路230号保利时光里地下2层B2-017号",
+      "distance": "8m"
+    },
+    {
+      "brand": "青和茶艺馆",
+      "address": "瑞平路230号保利时光里(龙华中路地铁站5号口步行400米)",
+      "distance": "15m"
+    },
+    {
+      "brand": "十度鲜家(上海保利时光里店)",
+      "address": "瑞平路230号B1层B1-029商铺",
+      "distance": "19m"
+    },
+    {
+      "brand": "BUTCHER牛排肉铺(保利时光里店)",
+      "address": "瑞平路230号保利时光里B2层",
+      "distance": "20m"
+    },
+    {
+      "brand": "大米先生(保利时光里店)",
+      "address": "瑞平路230号保利时光里B2层16号",
+      "distance": "20m"
+    },
+    {
+      "brand": "柴门公馆(保利时光里店)",
+      "address": "保利时光里(龙华中路地铁站5号口步行350米)",
+      "distance": "24m"
+    },
+    {
+      "brand": "老爸厨房(保利.时光里店)",
+      "address": "瑞平路230号保利时光里商场B1-023",
+      "distance": "32m"
+    },
+    {
+      "brand": "老蕃享浓汤拉面徐汇时光里店",
+      "address": "瑞平路230号保利时光里B2层",
+      "distance": "32m"
+    },
+    {
+      "brand": "喜顶上品海胆水饺(保利时光里店)",
+      "address": "瑞平路230号保利·时光里L2层18室",
+      "distance": "35m"
+    },
+    {
+      "brand": "MUSEE CAFE(保利·时光里店)",
+      "address": "瑞平路230号保利时光里B1层",
+      "distance": "6m"
+    },
+    {
+      "brand": "汤.come",
+      "address": "徐汇区龙华街道瑞平路230号保利时光里地下2层B2-017号",
+      "distance": "8m"
+    },
+    {
+      "brand": "青和茶艺馆",
+      "address": "瑞平路230号保利时光里(龙华中路地铁站5号口步行400米)",
+      "distance": "15m"
+    },
+    {
+      "brand": "十度鲜家(上海保利时光里店)",
+      "address": "瑞平路230号B1层B1-029商铺",
+      "distance": "19m"
+    },
+    {
+      "brand": "BUTCHER牛排肉铺(保利时光里店)",
+      "address": "瑞平路230号保利时光里B2层",
+      "distance": "20m"
+    },
+    {
+      "brand": "大米先生(保利时光里店)",
+      "address": "瑞平路230号保利时光里B2层16号",
+      "distance": "20m"
+    },
+    {
+      "brand": "柴门公馆(保利时光里店)",
+      "address": "保利时光里(龙华中路地铁站5号口步行350米)",
+      "distance": "24m"
+    },
+    {
+      "brand": "老爸厨房(保利.时光里店)",
+      "address": "瑞平路230号保利时光里商场B1-023",
+      "distance": "32m"
+    },
+    {
+      "brand": "老蕃享浓汤拉面徐汇时光里店",
+      "address": "瑞平路230号保利时光里B2层",
+      "distance": "32m"
+    },
+    {
+      "brand": "喜顶上品海胆水饺(保利时光里店)",
+      "address": "瑞平路230号保利·时光里L2层18室",
+      "distance": "35m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海徐汇绿地缤纷城",
+      "open_date": "2017-04-27",
+      "area": "8.4万㎡",
+      "jun_daily_avg": "6.5万人次",
+      "weekday_avg": "6.6万人次",
+      "holiday_avg": "6.1万人次"
+    },
+    {
+      "name": "上海徐汇正大乐城",
+      "open_date": "2013-01-01",
+      "area": "5.5万㎡",
+      "jun_daily_avg": "1.7万人次",
+      "weekday_avg": "1.7万人次",
+      "holiday_avg": "1.6万人次"
+    },
+    {
+      "name": "上海龙华会",
+      "open_date": "2023-09-26",
+      "area": "10万㎡",
+      "jun_daily_avg": "4.1万人次",
+      "weekday_avg": "3.8万人次",
+      "holiday_avg": "5万人次"
+    },
+    {
+      "name": "上海腾飞广场",
+      "open_date": "2009-01-01",
+      "area": "1.3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": []
+}

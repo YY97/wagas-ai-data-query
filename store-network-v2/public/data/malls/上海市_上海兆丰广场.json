@@ -1,0 +1,486 @@
+{
+  "name": "上海兆丰广场",
+  "city": "上海市",
+  "address": "上海市长宁区长宁路999号",
+  "lat": 31.217931,
+  "lng": 121.418276,
+  "overview": {
+    "score": 89.5,
+    "score_rank": "市内前30%",
+    "population_score": 94.6,
+    "area_score": 100.0,
+    "consumption_score": 83.9,
+    "industry_score": 89.4,
+    "annual_sales": "兆丰广场是上海多媒体产业园的核心楼宇，位于中山公园地区，毗邻中山公园城市绿肺，地铁2号线、轻轨3号线、4号线交汇于此，周边商务、商业、生活配套设施成熟兆丰广场共42层，高159米，8层至42层为办公区域，总建筑面积55416平方米，单个标准层建筑面积1900平方米，层高2.5米大楼以5A标准设计，电信、移动、联通各网络运营商在楼内设立机房，为客户提供固话、网络、和移动3G覆盖，做到千兆到楼，百兆到户，网络匹配高科技企业的智能化要求楼内电视监控系统、门禁系统、停车场管理系统、中央空调系统、消防报警系统、BA系统等，新风、空调、公共照明、供水全自动化控制，为客户提供全方位服务 兆丰广场商场（原名“多媒体生活广场”），商业设施从地下一层至地上四层，营业面积41000平方米拥有中山公园商圈周边最大的户外广场空间，可开展多种类型的文化休闲、商业推广活动",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 6.0,
+    "open_date": "2016-01-01",
+    "operator": "上海新长宁（集团）有限公司",
+    "brand": "",
+    "type": "综合型",
+    "floors": "L1-L4"
+  },
+  "traffic": {
+    "annual_daily": 6164.0,
+    "annual_daily_unit": "人次",
+    "annual_daily_rank": "市内第332",
+    "jun_total": 13.7,
+    "jun_total_rank": "市内商场第438名",
+    "jun_daily_avg": 4554.0,
+    "jun_daily_unit": "人次",
+    "jun_daily_rank": "市内商场第438名",
+    "weekday_avg": 4591.0,
+    "weekday_unit": "人次",
+    "weekday_rank": "市内商场第430名",
+    "holiday_avg": 4457.0,
+    "holiday_unit": "人次",
+    "holiday_rank": "市内商场第459名"
+  },
+  "population": {
+    "residential": {
+      "500m": 2.9,
+      "1_5km": 29.9,
+      "3km": 101.3
+    },
+    "office": {
+      "500m": 4.5,
+      "1_5km": 20.8,
+      "3km": 85.1
+    },
+    "permanent": {
+      "500m": 4.9,
+      "1_5km": 31.5,
+      "3km": 111.6
+    }
+  },
+  "business": {
+    "competitors": 20.0,
+    "food": 568.0,
+    "shopping": 491.0,
+    "leisure": 64.0,
+    "education": 89.0,
+    "hotel": 75.0,
+    "services": 371.0,
+    "fitness": 53.0,
+    "auto": 42.0,
+    "total_stores": 96.0,
+    "old_store_3yr_pct": 49.0
+  },
+  "nearby_poi": {
+    "business": 12.0,
+    "community": 1051.0,
+    "office": 139.0,
+    "school": 61.0,
+    "hospital": 159.0,
+    "transport": 15.0,
+    "scenic": 506.0
+  },
+  "demographics": {
+    "male_pct": 48.8,
+    "female_pct": null,
+    "education": {
+      "小学": 8.8,
+      "初中": 17.1,
+      "高中": 11.7,
+      "大专": 6.7,
+      "本科": 48.4,
+      "硕士": 5.4,
+      "博士": 1.9
+    },
+    "has_children_pct": 59.7,
+    "no_children_pct": 40.3
+  },
+  "scraped_at": "2026-07-31T15:36:49.961Z",
+  "nearby_restaurants": [
+    {
+      "brand": "胡裕记港式烧腊(兆丰广场店)",
+      "address": "长宁路999号B1层29号",
+      "distance": "5m"
+    },
+    {
+      "brand": "泽旨日式咖喱",
+      "address": "长宁路999号B1-26单元",
+      "distance": "7m"
+    },
+    {
+      "brand": "甲哺甲哺小火锅",
+      "address": "兆丰广场B1层(中山公园地铁站9号口旁)",
+      "distance": "11m"
+    },
+    {
+      "brand": "稻花香商务团餐",
+      "address": "兆丰广场(中山公园地铁站10号口步行160米)",
+      "distance": "13m"
+    },
+    {
+      "brand": "ZFUNMegaSeafood",
+      "address": "兆丰广场(中山公园地铁站9号口旁)",
+      "distance": "13m"
+    },
+    {
+      "brand": "马记永·兰州牛肉面(兆丰广场店)",
+      "address": "长宁路999号999兆丰广场B1层B103",
+      "distance": "20m"
+    },
+    {
+      "brand": "浪李白·川小馆·跷脚牛肉(中山公园店)",
+      "address": "长宁路999号999兆丰广场B1层B113",
+      "distance": "21m"
+    },
+    {
+      "brand": "虎口砂锅",
+      "address": "999号兆丰广场B1-07虎口砂锅(中山公园地铁站9号口旁)",
+      "distance": "22m"
+    },
+    {
+      "brand": "杨国福麻辣烫(长宁区长宁路店)",
+      "address": "长宁路999号B1层16单元",
+      "distance": "22m"
+    },
+    {
+      "brand": "霸碗盖码饭(上海兆丰广场店)",
+      "address": "长宁路999号兆丰广场地下一楼(中山公园地铁站9号口旁)",
+      "distance": "25m"
+    },
+    {
+      "brand": "胡裕记港式烧腊(兆丰广场店)",
+      "address": "长宁路999号B1层29号",
+      "distance": "5m"
+    },
+    {
+      "brand": "泽旨日式咖喱",
+      "address": "长宁路999号B1-26单元",
+      "distance": "7m"
+    },
+    {
+      "brand": "甲哺甲哺小火锅",
+      "address": "兆丰广场B1层(中山公园地铁站9号口旁)",
+      "distance": "11m"
+    },
+    {
+      "brand": "稻花香商务团餐",
+      "address": "兆丰广场(中山公园地铁站10号口步行160米)",
+      "distance": "13m"
+    },
+    {
+      "brand": "ZFUNMegaSeafood",
+      "address": "兆丰广场(中山公园地铁站9号口旁)",
+      "distance": "13m"
+    },
+    {
+      "brand": "马记永·兰州牛肉面(兆丰广场店)",
+      "address": "长宁路999号999兆丰广场B1层B103",
+      "distance": "20m"
+    },
+    {
+      "brand": "浪李白·川小馆·跷脚牛肉(中山公园店)",
+      "address": "长宁路999号999兆丰广场B1层B113",
+      "distance": "21m"
+    },
+    {
+      "brand": "虎口砂锅",
+      "address": "999号兆丰广场B1-07虎口砂锅(中山公园地铁站9号口旁)",
+      "distance": "22m"
+    },
+    {
+      "brand": "杨国福麻辣烫(长宁区长宁路店)",
+      "address": "长宁路999号B1层16单元",
+      "distance": "22m"
+    },
+    {
+      "brand": "霸碗盖码饭(上海兆丰广场店)",
+      "address": "长宁路999号兆丰广场地下一楼(中山公园地铁站9号口旁)",
+      "distance": "25m"
+    },
+    {
+      "brand": "胡裕记港式烧腊(兆丰广场店)",
+      "address": "长宁路999号B1层29号",
+      "distance": "5m"
+    },
+    {
+      "brand": "泽旨日式咖喱",
+      "address": "长宁路999号B1-26单元",
+      "distance": "7m"
+    },
+    {
+      "brand": "甲哺甲哺小火锅",
+      "address": "兆丰广场B1层(中山公园地铁站9号口旁)",
+      "distance": "11m"
+    },
+    {
+      "brand": "稻花香商务团餐",
+      "address": "兆丰广场(中山公园地铁站10号口步行160米)",
+      "distance": "13m"
+    },
+    {
+      "brand": "ZFUNMegaSeafood",
+      "address": "兆丰广场(中山公园地铁站9号口旁)",
+      "distance": "13m"
+    },
+    {
+      "brand": "马记永·兰州牛肉面(兆丰广场店)",
+      "address": "长宁路999号999兆丰广场B1层B103",
+      "distance": "20m"
+    },
+    {
+      "brand": "浪李白·川小馆·跷脚牛肉(中山公园店)",
+      "address": "长宁路999号999兆丰广场B1层B113",
+      "distance": "21m"
+    },
+    {
+      "brand": "虎口砂锅",
+      "address": "999号兆丰广场B1-07虎口砂锅(中山公园地铁站9号口旁)",
+      "distance": "22m"
+    },
+    {
+      "brand": "杨国福麻辣烫(长宁区长宁路店)",
+      "address": "长宁路999号B1层16单元",
+      "distance": "22m"
+    },
+    {
+      "brand": "霸碗盖码饭(上海兆丰广场店)",
+      "address": "长宁路999号兆丰广场地下一楼(中山公园地铁站9号口旁)",
+      "distance": "25m"
+    },
+    {
+      "brand": "胡裕记港式烧腊(兆丰广场店)",
+      "address": "长宁路999号B1层29号",
+      "distance": "5m"
+    },
+    {
+      "brand": "泽旨日式咖喱",
+      "address": "长宁路999号B1-26单元",
+      "distance": "7m"
+    },
+    {
+      "brand": "甲哺甲哺小火锅",
+      "address": "兆丰广场B1层(中山公园地铁站9号口旁)",
+      "distance": "11m"
+    },
+    {
+      "brand": "稻花香商务团餐",
+      "address": "兆丰广场(中山公园地铁站10号口步行160米)",
+      "distance": "13m"
+    },
+    {
+      "brand": "ZFUNMegaSeafood",
+      "address": "兆丰广场(中山公园地铁站9号口旁)",
+      "distance": "13m"
+    },
+    {
+      "brand": "马记永·兰州牛肉面(兆丰广场店)",
+      "address": "长宁路999号999兆丰广场B1层B103",
+      "distance": "20m"
+    },
+    {
+      "brand": "浪李白·川小馆·跷脚牛肉(中山公园店)",
+      "address": "长宁路999号999兆丰广场B1层B113",
+      "distance": "21m"
+    },
+    {
+      "brand": "虎口砂锅",
+      "address": "999号兆丰广场B1-07虎口砂锅(中山公园地铁站9号口旁)",
+      "distance": "22m"
+    },
+    {
+      "brand": "杨国福麻辣烫(长宁区长宁路店)",
+      "address": "长宁路999号B1层16单元",
+      "distance": "22m"
+    },
+    {
+      "brand": "霸碗盖码饭(上海兆丰广场店)",
+      "address": "长宁路999号兆丰广场地下一楼(中山公园地铁站9号口旁)",
+      "distance": "25m"
+    },
+    {
+      "brand": "胡裕记港式烧腊(兆丰广场店)",
+      "address": "长宁路999号B1层29号",
+      "distance": "5m"
+    },
+    {
+      "brand": "泽旨日式咖喱",
+      "address": "长宁路999号B1-26单元",
+      "distance": "7m"
+    },
+    {
+      "brand": "甲哺甲哺小火锅",
+      "address": "兆丰广场B1层(中山公园地铁站9号口旁)",
+      "distance": "11m"
+    },
+    {
+      "brand": "稻花香商务团餐",
+      "address": "兆丰广场(中山公园地铁站10号口步行160米)",
+      "distance": "13m"
+    },
+    {
+      "brand": "ZFUNMegaSeafood",
+      "address": "兆丰广场(中山公园地铁站9号口旁)",
+      "distance": "13m"
+    },
+    {
+      "brand": "马记永·兰州牛肉面(兆丰广场店)",
+      "address": "长宁路999号999兆丰广场B1层B103",
+      "distance": "20m"
+    },
+    {
+      "brand": "浪李白·川小馆·跷脚牛肉(中山公园店)",
+      "address": "长宁路999号999兆丰广场B1层B113",
+      "distance": "21m"
+    },
+    {
+      "brand": "虎口砂锅",
+      "address": "999号兆丰广场B1-07虎口砂锅(中山公园地铁站9号口旁)",
+      "distance": "22m"
+    },
+    {
+      "brand": "杨国福麻辣烫(长宁区长宁路店)",
+      "address": "长宁路999号B1层16单元",
+      "distance": "22m"
+    },
+    {
+      "brand": "霸碗盖码饭(上海兆丰广场店)",
+      "address": "长宁路999号兆丰广场地下一楼(中山公园地铁站9号口旁)",
+      "distance": "25m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海玫瑰坊",
+      "open_date": "2004-05-01",
+      "area": "1.7万㎡",
+      "jun_daily_avg": "9.5万人次",
+      "weekday_avg": "8.6万人次",
+      "holiday_avg": "11.9万人次"
+    },
+    {
+      "name": "上海华美达广场",
+      "open_date": "2024-01-01",
+      "area": "2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海龙之梦城市生活中心",
+      "open_date": "2006-12-01",
+      "area": "19.8万㎡",
+      "jun_daily_avg": "9.5万人次",
+      "weekday_avg": "8.6万人次",
+      "holiday_avg": "11.9万人次"
+    },
+    {
+      "name": "上海华宁弘基生活中心",
+      "open_date": "2012-12-01",
+      "area": "2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海米域·这里MIXPACE·HERE",
+      "open_date": "2018-01-01",
+      "area": "1万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海巴黎春天城市奥莱(长宁店)",
+      "open_date": "2004-09-23",
+      "area": "6万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海长宁来福士广场",
+      "open_date": "2017-06-30",
+      "area": "12万㎡",
+      "jun_daily_avg": "3.6万人次",
+      "weekday_avg": "3.4万人次",
+      "holiday_avg": "4.1万人次"
+    },
+    {
+      "name": "上海上生新所",
+      "open_date": "2018-11-01",
+      "area": "5.1万㎡",
+      "jun_daily_avg": "1.5万人次",
+      "weekday_avg": "1.3万人次",
+      "holiday_avg": "2.2万人次"
+    },
+    {
+      "name": "上海KiNG88",
+      "open_date": "2017-09-08",
+      "area": "3.9万㎡",
+      "jun_daily_avg": "1万人次",
+      "weekday_avg": "1万人次",
+      "holiday_avg": "1万人次"
+    },
+    {
+      "name": "上海汇金百货(虹桥店)",
+      "open_date": "2008-12-01",
+      "area": "4万㎡",
+      "jun_daily_avg": "1.3万人次",
+      "weekday_avg": "1.2万人次",
+      "holiday_avg": "1.5万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 38.0,
+      "within_1yr_pct": 13.2,
+      "1_3yr_pct": 31.6,
+      "over_3yr_pct": 55.3
+    },
+    {
+      "type": "购物",
+      "count": 19.0,
+      "within_1yr_pct": 31.6,
+      "1_3yr_pct": 10.5,
+      "over_3yr_pct": 57.9
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 4.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 25.0
+    },
+    {
+      "type": "教育培训",
+      "count": 11.0,
+      "within_1yr_pct": 18.2,
+      "1_3yr_pct": 45.5,
+      "over_3yr_pct": 36.4
+    },
+    {
+      "type": "酒店住宿",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    },
+    {
+      "type": "生活服务",
+      "count": 19.0,
+      "within_1yr_pct": 21.1,
+      "1_3yr_pct": 42.1,
+      "over_3yr_pct": 36.8
+    },
+    {
+      "type": "运动健身",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 3.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 33.3
+    }
+  ]
+}

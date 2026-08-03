@@ -1,0 +1,439 @@
+{
+  "name": "上海田尚坊",
+  "city": "上海市",
+  "address": "上海市徐汇区田林街道田尚坊",
+  "lat": 31.180689,
+  "lng": 121.418836,
+  "overview": {
+    "score": 91.0,
+    "score_rank": "市内前30%",
+    "population_score": 93.3,
+    "area_score": 69.1,
+    "consumption_score": 82.8,
+    "industry_score": 91.1,
+    "annual_sales": "田尚坊是上海徐汇地区的一个购物中心，沿钦州北路向东西延伸三百多米长，约3万平方米商业街区，采用开放式建筑形态，由内外步行街围合，通过廊桥、自动扶梯、垂直电梯贯通组合成一个集精品超市、特色餐饮、休闲娱乐、时尚零售为一体的体验式时尚生活中心",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 3.0,
+    "open_date": "2015-01-01",
+    "operator": "上海丰柏企业发展有限公司",
+    "brand": "",
+    "type": "美食型",
+    "floors": "B1-L4"
+  },
+  "traffic": {
+    "annual_daily": 1.35,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第193",
+    "jun_total": 51.9,
+    "jun_total_rank": "市内商场第206名",
+    "jun_daily_avg": 1.7,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第206名",
+    "weekday_avg": 1.8,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第198名",
+    "holiday_avg": 1.6,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第232名"
+  },
+  "population": {
+    "residential": {
+      "500m": 2.8,
+      "1_5km": 21.5,
+      "3km": 82.5
+    },
+    "office": {
+      "500m": 1.9,
+      "1_5km": 22.5,
+      "3km": 83.5
+    },
+    "permanent": {
+      "500m": 3.3,
+      "1_5km": 23.2,
+      "3km": 90.4
+    }
+  },
+  "business": {
+    "competitors": 4.0,
+    "food": 71.0,
+    "shopping": 44.0,
+    "leisure": null,
+    "education": 11.0,
+    "hotel": 25.0,
+    "services": 49.0,
+    "fitness": 7.0,
+    "auto": 7.0,
+    "total_stores": 59.0,
+    "old_store_3yr_pct": 56.0
+  },
+  "nearby_poi": {
+    "business": 5.0,
+    "community": 702.0,
+    "office": 125.0,
+    "school": 51.0,
+    "hospital": 137.0,
+    "transport": 4.0,
+    "scenic": 207.0
+  },
+  "demographics": {
+    "male_pct": 52.7,
+    "female_pct": null,
+    "education": {
+      "小学": 8.2,
+      "初中": 15.1,
+      "高中": 11.2,
+      "大专": 6.8,
+      "本科": 50.2,
+      "硕士": 6.8,
+      "博士": 1.7
+    },
+    "has_children_pct": 58.6,
+    "no_children_pct": 41.4
+  },
+  "scraped_at": "2026-07-31T17:03:25.189Z",
+  "nearby_restaurants": [
+    {
+      "brand": "粮仓饭湘(钦州北路店)",
+      "address": "田林街道钦州北路262-2号",
+      "distance": "10m"
+    },
+    {
+      "brand": "哥哥の深夜食堂(田尚坊店)",
+      "address": "钦州北路226号田尚坊1F层139",
+      "distance": "10m"
+    },
+    {
+      "brand": "王者·黄焖鸡米饭(上海TOP店)",
+      "address": "钦州北路226号田尚坊B1F层",
+      "distance": "13m"
+    },
+    {
+      "brand": "美蛙四季(田林店)",
+      "address": "徐汇区钦州北路田尚坊260号商铺",
+      "distance": "16m"
+    },
+    {
+      "brand": "大成海鲜烧烤(徐汇店)",
+      "address": "钦州北路226号田尚坊时尚生活中心2楼",
+      "distance": "18m"
+    },
+    {
+      "brand": "牛约堡-牛肉汉堡(田尚坊店)",
+      "address": "钦州北路226号田尚坊B1层B09-3",
+      "distance": "19m"
+    },
+    {
+      "brand": "弄堂咪道(田尚坊店)",
+      "address": "钦州北路226号田尚坊1F层141",
+      "distance": "19m"
+    },
+    {
+      "brand": "泰煌鸡·上海白斩鸡·鸡汤面(田尚坊店)",
+      "address": "钦州北路226号田尚坊B1F层B29",
+      "distance": "27m"
+    },
+    {
+      "brand": "食其家·牛丼咖喱(田尚坊店)",
+      "address": "钦州北路226号田尚坊1F层142",
+      "distance": "27m"
+    },
+    {
+      "brand": "Manner Coffee(田尚坊店)",
+      "address": "钦州北路226号田尚坊1F层",
+      "distance": "33m"
+    },
+    {
+      "brand": "粮仓饭湘(钦州北路店)",
+      "address": "田林街道钦州北路262-2号",
+      "distance": "10m"
+    },
+    {
+      "brand": "哥哥の深夜食堂(田尚坊店)",
+      "address": "钦州北路226号田尚坊1F层139",
+      "distance": "10m"
+    },
+    {
+      "brand": "王者·黄焖鸡米饭(上海TOP店)",
+      "address": "钦州北路226号田尚坊B1F层",
+      "distance": "13m"
+    },
+    {
+      "brand": "美蛙四季(田林店)",
+      "address": "徐汇区钦州北路田尚坊260号商铺",
+      "distance": "16m"
+    },
+    {
+      "brand": "大成海鲜烧烤(徐汇店)",
+      "address": "钦州北路226号田尚坊时尚生活中心2楼",
+      "distance": "18m"
+    },
+    {
+      "brand": "牛约堡-牛肉汉堡(田尚坊店)",
+      "address": "钦州北路226号田尚坊B1层B09-3",
+      "distance": "19m"
+    },
+    {
+      "brand": "弄堂咪道(田尚坊店)",
+      "address": "钦州北路226号田尚坊1F层141",
+      "distance": "19m"
+    },
+    {
+      "brand": "泰煌鸡·上海白斩鸡·鸡汤面(田尚坊店)",
+      "address": "钦州北路226号田尚坊B1F层B29",
+      "distance": "27m"
+    },
+    {
+      "brand": "食其家·牛丼咖喱(田尚坊店)",
+      "address": "钦州北路226号田尚坊1F层142",
+      "distance": "27m"
+    },
+    {
+      "brand": "Manner Coffee(田尚坊店)",
+      "address": "钦州北路226号田尚坊1F层",
+      "distance": "33m"
+    },
+    {
+      "brand": "粮仓饭湘(钦州北路店)",
+      "address": "田林街道钦州北路262-2号",
+      "distance": "10m"
+    },
+    {
+      "brand": "哥哥の深夜食堂(田尚坊店)",
+      "address": "钦州北路226号田尚坊1F层139",
+      "distance": "10m"
+    },
+    {
+      "brand": "王者·黄焖鸡米饭(上海TOP店)",
+      "address": "钦州北路226号田尚坊B1F层",
+      "distance": "13m"
+    },
+    {
+      "brand": "美蛙四季(田林店)",
+      "address": "徐汇区钦州北路田尚坊260号商铺",
+      "distance": "16m"
+    },
+    {
+      "brand": "大成海鲜烧烤(徐汇店)",
+      "address": "钦州北路226号田尚坊时尚生活中心2楼",
+      "distance": "18m"
+    },
+    {
+      "brand": "牛约堡-牛肉汉堡(田尚坊店)",
+      "address": "钦州北路226号田尚坊B1层B09-3",
+      "distance": "19m"
+    },
+    {
+      "brand": "弄堂咪道(田尚坊店)",
+      "address": "钦州北路226号田尚坊1F层141",
+      "distance": "19m"
+    },
+    {
+      "brand": "泰煌鸡·上海白斩鸡·鸡汤面(田尚坊店)",
+      "address": "钦州北路226号田尚坊B1F层B29",
+      "distance": "27m"
+    },
+    {
+      "brand": "食其家·牛丼咖喱(田尚坊店)",
+      "address": "钦州北路226号田尚坊1F层142",
+      "distance": "27m"
+    },
+    {
+      "brand": "Manner Coffee(田尚坊店)",
+      "address": "钦州北路226号田尚坊1F层",
+      "distance": "33m"
+    },
+    {
+      "brand": "粮仓饭湘(钦州北路店)",
+      "address": "田林街道钦州北路262-2号",
+      "distance": "10m"
+    },
+    {
+      "brand": "哥哥の深夜食堂(田尚坊店)",
+      "address": "钦州北路226号田尚坊1F层139",
+      "distance": "10m"
+    },
+    {
+      "brand": "王者·黄焖鸡米饭(上海TOP店)",
+      "address": "钦州北路226号田尚坊B1F层",
+      "distance": "13m"
+    },
+    {
+      "brand": "美蛙四季(田林店)",
+      "address": "徐汇区钦州北路田尚坊260号商铺",
+      "distance": "16m"
+    },
+    {
+      "brand": "大成海鲜烧烤(徐汇店)",
+      "address": "钦州北路226号田尚坊时尚生活中心2楼",
+      "distance": "18m"
+    },
+    {
+      "brand": "牛约堡-牛肉汉堡(田尚坊店)",
+      "address": "钦州北路226号田尚坊B1层B09-3",
+      "distance": "19m"
+    },
+    {
+      "brand": "弄堂咪道(田尚坊店)",
+      "address": "钦州北路226号田尚坊1F层141",
+      "distance": "19m"
+    },
+    {
+      "brand": "泰煌鸡·上海白斩鸡·鸡汤面(田尚坊店)",
+      "address": "钦州北路226号田尚坊B1F层B29",
+      "distance": "27m"
+    },
+    {
+      "brand": "食其家·牛丼咖喱(田尚坊店)",
+      "address": "钦州北路226号田尚坊1F层142",
+      "distance": "27m"
+    },
+    {
+      "brand": "Manner Coffee(田尚坊店)",
+      "address": "钦州北路226号田尚坊1F层",
+      "distance": "33m"
+    },
+    {
+      "brand": "粮仓饭湘(钦州北路店)",
+      "address": "田林街道钦州北路262-2号",
+      "distance": "10m"
+    },
+    {
+      "brand": "哥哥の深夜食堂(田尚坊店)",
+      "address": "钦州北路226号田尚坊1F层139",
+      "distance": "10m"
+    },
+    {
+      "brand": "王者·黄焖鸡米饭(上海TOP店)",
+      "address": "钦州北路226号田尚坊B1F层",
+      "distance": "13m"
+    },
+    {
+      "brand": "美蛙四季(田林店)",
+      "address": "徐汇区钦州北路田尚坊260号商铺",
+      "distance": "16m"
+    },
+    {
+      "brand": "大成海鲜烧烤(徐汇店)",
+      "address": "钦州北路226号田尚坊时尚生活中心2楼",
+      "distance": "18m"
+    },
+    {
+      "brand": "牛约堡-牛肉汉堡(田尚坊店)",
+      "address": "钦州北路226号田尚坊B1层B09-3",
+      "distance": "19m"
+    },
+    {
+      "brand": "弄堂咪道(田尚坊店)",
+      "address": "钦州北路226号田尚坊1F层141",
+      "distance": "19m"
+    },
+    {
+      "brand": "泰煌鸡·上海白斩鸡·鸡汤面(田尚坊店)",
+      "address": "钦州北路226号田尚坊B1F层B29",
+      "distance": "27m"
+    },
+    {
+      "brand": "食其家·牛丼咖喱(田尚坊店)",
+      "address": "钦州北路226号田尚坊1F层142",
+      "distance": "27m"
+    },
+    {
+      "brand": "Manner Coffee(田尚坊店)",
+      "address": "钦州北路226号田尚坊1F层",
+      "distance": "33m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海徐汇古北时尚广场",
+      "open_date": "2012-01-01",
+      "area": "3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海大华光启城时尚购物中心",
+      "open_date": "2012-05-28",
+      "area": "12万㎡",
+      "jun_daily_avg": "1.8万人次",
+      "weekday_avg": "1.8万人次",
+      "holiday_avg": "1.8万人次"
+    },
+    {
+      "name": "上海鑫耀·光环Live二期",
+      "open_date": "2025-06-01",
+      "area": "10万㎡",
+      "jun_daily_avg": "4万人次",
+      "weekday_avg": "3.8万人次",
+      "holiday_avg": "4.5万人次"
+    },
+    {
+      "name": "上海南洋1931",
+      "open_date": "2018-07-03",
+      "area": "2.2万㎡",
+      "jun_daily_avg": "1.5万人次",
+      "weekday_avg": "1.4万人次",
+      "holiday_avg": "1.6万人次"
+    },
+    {
+      "name": "上海汇阳广场",
+      "open_date": "2013-01-01",
+      "area": "3.5万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 28.0,
+      "within_1yr_pct": 14.3,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 60.7
+    },
+    {
+      "type": "购物",
+      "count": 9.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 22.2,
+      "over_3yr_pct": 44.4
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    },
+    {
+      "type": "教育培训",
+      "count": 4.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "生活服务",
+      "count": 12.0,
+      "within_1yr_pct": 8.3,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 58.3
+    },
+    {
+      "type": "运动健身",
+      "count": 4.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
+    }
+  ]
+}

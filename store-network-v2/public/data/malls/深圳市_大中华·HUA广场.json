@@ -1,0 +1,154 @@
+{
+  "name": "大中华·HUA广场",
+  "city": "深圳市",
+  "address": "广东省深圳市福田区福田区福华一路11号",
+  "lat": 22.537303,
+  "lng": 114.050858,
+  "overview": {
+    "score": 92.5,
+    "score_rank": "市内前30%",
+    "population_score": 72.6,
+    "area_score": 95.8,
+    "consumption_score": 82.7,
+    "industry_score": 92.5,
+    "annual_sales": "2",
+    "annual_sales_unit": "亿元",
+    "area_size_sqm": 8.5,
+    "open_date": "2005-12-18",
+    "operator": "大中华国际集团（中国）有限公司",
+    "brand": "",
+    "type": "综合型",
+    "floors": "B1-L8"
+  },
+  "traffic": {
+    "annual_daily": 2.09,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第88",
+    "jun_total": 126.8,
+    "jun_total_rank": "市内商场第63名",
+    "jun_daily_avg": 4.2,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第63名",
+    "weekday_avg": 3.7,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第65名",
+    "holiday_avg": 5.6,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第58名"
+  },
+  "population": {
+    "residential": {
+      "500m": 1.6,
+      "1_5km": 26.5,
+      "3km": 104.3
+    },
+    "office": {
+      "500m": 7.0,
+      "1_5km": 35.7,
+      "3km": 80.7
+    },
+    "permanent": {
+      "500m": 4.6,
+      "1_5km": 30.5,
+      "3km": 104.8
+    }
+  },
+  "business": {
+    "competitors": 13.0,
+    "food": 776.0,
+    "shopping": 578.0,
+    "leisure": 69.0,
+    "education": 62.0,
+    "hotel": 72.0,
+    "services": 652.0,
+    "fitness": 48.0,
+    "auto": 59.0,
+    "total_stores": 182.0,
+    "old_store_3yr_pct": 34.0
+  },
+  "nearby_poi": {
+    "business": 11.0,
+    "community": 441.0,
+    "office": 144.0,
+    "school": 37.0,
+    "hospital": 207.0,
+    "transport": 15.0,
+    "scenic": 253.0
+  },
+  "demographics": {
+    "male_pct": 50.4,
+    "female_pct": null,
+    "education": {
+      "小学": 11.7,
+      "初中": 20.3,
+      "高中": 11.5,
+      "大专": 8.8,
+      "本科": 42.7,
+      "硕士": 4.3,
+      "博士": 0.7
+    },
+    "has_children_pct": 57.8,
+    "no_children_pct": 42.2
+  },
+  "scraped_at": "2026-08-02T06:23:59.347Z",
+  "nearby_restaurants": [],
+  "nearby_malls": [],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 71.0,
+      "within_1yr_pct": 26.8,
+      "1_3yr_pct": 38.0,
+      "over_3yr_pct": 35.2
+    },
+    {
+      "type": "购物",
+      "count": 50.0,
+      "within_1yr_pct": 44.0,
+      "1_3yr_pct": 36.0,
+      "over_3yr_pct": 20.0
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 19.0,
+      "within_1yr_pct": 21.1,
+      "1_3yr_pct": 26.3,
+      "over_3yr_pct": 52.6
+    },
+    {
+      "type": "教育培训",
+      "count": 6.0,
+      "within_1yr_pct": 16.7,
+      "1_3yr_pct": 83.3,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 4.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "生活服务",
+      "count": 24.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 41.7,
+      "over_3yr_pct": 33.3
+    },
+    {
+      "type": "运动健身",
+      "count": 7.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 14.3,
+      "over_3yr_pct": 85.7
+    },
+    {
+      "type": "车辆服务",
+      "count": 1.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
+    }
+  ]
+}

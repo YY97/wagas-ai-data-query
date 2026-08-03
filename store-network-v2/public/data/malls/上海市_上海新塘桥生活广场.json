@@ -1,0 +1,424 @@
+{
+  "name": "上海新塘桥生活广场",
+  "city": "上海市",
+  "address": "上海市浦东新区塘桥街道东源大厦新塘桥生活广场",
+  "lat": 31.21051,
+  "lng": 121.518328,
+  "overview": {
+    "score": 85.0,
+    "score_rank": "市内前30%",
+    "population_score": 99.1,
+    "area_score": 80.5,
+    "consumption_score": 81.4,
+    "industry_score": 84.9,
+    "annual_sales": "新塘桥生活广场位于浦东区浦建路1号，北接陆家嘴金融中心，南聚世博园区，集休闲、娱乐、餐饮、服装为一体",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 1.7,
+    "open_date": "2006-06-01",
+    "operator": "上海新塘桥生活广场物业管理有限公司",
+    "brand": "",
+    "type": "美食型",
+    "floors": "B1-L3"
+  },
+  "traffic": {
+    "annual_daily": 3123.0,
+    "annual_daily_unit": "人次",
+    "annual_daily_rank": "市内第433",
+    "jun_total": 9.2,
+    "jun_total_rank": "市内商场第494名",
+    "jun_daily_avg": 3066.0,
+    "jun_daily_unit": "人次",
+    "jun_daily_rank": "市内商场第494名",
+    "weekday_avg": 3155.0,
+    "weekday_unit": "人次",
+    "weekday_rank": "市内商场第487名",
+    "holiday_avg": 2816.0,
+    "holiday_unit": "人次",
+    "holiday_rank": "市内商场第510名"
+  },
+  "population": {
+    "residential": {
+      "500m": 3.7,
+      "1_5km": 22.8,
+      "3km": 82.3
+    },
+    "office": {
+      "500m": 2.0,
+      "1_5km": 14.6,
+      "3km": 68.9
+    },
+    "permanent": {
+      "500m": 3.9,
+      "1_5km": 22.9,
+      "3km": 88.1
+    }
+  },
+  "business": {
+    "competitors": 3.0,
+    "food": 224.0,
+    "shopping": 180.0,
+    "leisure": 16.0,
+    "education": 26.0,
+    "hotel": 98.0,
+    "services": 125.0,
+    "fitness": 17.0,
+    "auto": 19.0,
+    "total_stores": 45.0,
+    "old_store_3yr_pct": 69.0
+  },
+  "nearby_poi": {
+    "business": 4.0,
+    "community": 502.0,
+    "office": 87.0,
+    "school": 43.0,
+    "hospital": 108.0,
+    "transport": 15.0,
+    "scenic": 323.0
+  },
+  "demographics": {
+    "male_pct": 46.7,
+    "female_pct": null,
+    "education": {
+      "小学": 9.0,
+      "初中": 16.4,
+      "高中": 10.6,
+      "大专": 7.0,
+      "本科": 48.6,
+      "硕士": 6.7,
+      "博士": 1.7
+    },
+    "has_children_pct": 59.6,
+    "no_children_pct": 40.4
+  },
+  "scraped_at": "2026-07-31T16:26:38.485Z",
+  "nearby_restaurants": [
+    {
+      "brand": "肯德基(塘桥店)",
+      "address": "浦建路15号",
+      "distance": "14m"
+    },
+    {
+      "brand": "HanBang韩式炸鸡·火鸡面(塘桥店)",
+      "address": "塘桥路400弄之1号-3号新塘桥生活广场",
+      "distance": "16m"
+    },
+    {
+      "brand": "肯德基车速取餐点(塘桥店)",
+      "address": "浦建路与浦东南路交叉口东100米",
+      "distance": "19m"
+    },
+    {
+      "brand": "肯悦咖啡塘桥店",
+      "address": "浦建路15号一层",
+      "distance": "28m"
+    },
+    {
+      "brand": "泰竺·老挝冰咖啡·泰式奶茶(塘桥店)",
+      "address": "浦东南路与塘桥路交叉口东南120米(塘桥地铁站4号口旁)",
+      "distance": "38m"
+    },
+    {
+      "brand": "大院烧烤(第三分店)",
+      "address": "新塘桥生活广场东南门西80米(塘桥地铁站4号口旁)",
+      "distance": "41m"
+    },
+    {
+      "brand": "吉祥馄饨(上海浦建店)",
+      "address": "塘桥路400弄之1号新塘桥生活广场B1层",
+      "distance": "42m"
+    },
+    {
+      "brand": "真功夫(塘桥店)",
+      "address": "浦建路15号新塘桥生活广场B1层(塘桥地铁站4号口旁)",
+      "distance": "48m"
+    },
+    {
+      "brand": "汤一品(陆家嘴店)",
+      "address": "浦建路与浦华路交叉口西北100米(塘桥地铁站4号口旁)",
+      "distance": "58m"
+    },
+    {
+      "brand": "谭师傅纯杂粮煎饼果子(新塘桥生活广场店)",
+      "address": "塘桥路400弄之1号新塘桥生活广场F1层",
+      "distance": "61m"
+    },
+    {
+      "brand": "肯德基(塘桥店)",
+      "address": "浦建路15号",
+      "distance": "14m"
+    },
+    {
+      "brand": "HanBang韩式炸鸡·火鸡面(塘桥店)",
+      "address": "塘桥路400弄之1号-3号新塘桥生活广场",
+      "distance": "16m"
+    },
+    {
+      "brand": "肯德基车速取餐点(塘桥店)",
+      "address": "浦建路与浦东南路交叉口东100米",
+      "distance": "19m"
+    },
+    {
+      "brand": "肯悦咖啡塘桥店",
+      "address": "浦建路15号一层",
+      "distance": "28m"
+    },
+    {
+      "brand": "泰竺·老挝冰咖啡·泰式奶茶(塘桥店)",
+      "address": "浦东南路与塘桥路交叉口东南120米(塘桥地铁站4号口旁)",
+      "distance": "38m"
+    },
+    {
+      "brand": "大院烧烤(第三分店)",
+      "address": "新塘桥生活广场东南门西80米(塘桥地铁站4号口旁)",
+      "distance": "41m"
+    },
+    {
+      "brand": "吉祥馄饨(上海浦建店)",
+      "address": "塘桥路400弄之1号新塘桥生活广场B1层",
+      "distance": "42m"
+    },
+    {
+      "brand": "真功夫(塘桥店)",
+      "address": "浦建路15号新塘桥生活广场B1层(塘桥地铁站4号口旁)",
+      "distance": "48m"
+    },
+    {
+      "brand": "汤一品(陆家嘴店)",
+      "address": "浦建路与浦华路交叉口西北100米(塘桥地铁站4号口旁)",
+      "distance": "58m"
+    },
+    {
+      "brand": "谭师傅纯杂粮煎饼果子(新塘桥生活广场店)",
+      "address": "塘桥路400弄之1号新塘桥生活广场F1层",
+      "distance": "61m"
+    },
+    {
+      "brand": "肯德基(塘桥店)",
+      "address": "浦建路15号",
+      "distance": "14m"
+    },
+    {
+      "brand": "HanBang韩式炸鸡·火鸡面(塘桥店)",
+      "address": "塘桥路400弄之1号-3号新塘桥生活广场",
+      "distance": "16m"
+    },
+    {
+      "brand": "肯德基车速取餐点(塘桥店)",
+      "address": "浦建路与浦东南路交叉口东100米",
+      "distance": "19m"
+    },
+    {
+      "brand": "肯悦咖啡塘桥店",
+      "address": "浦建路15号一层",
+      "distance": "28m"
+    },
+    {
+      "brand": "泰竺·老挝冰咖啡·泰式奶茶(塘桥店)",
+      "address": "浦东南路与塘桥路交叉口东南120米(塘桥地铁站4号口旁)",
+      "distance": "38m"
+    },
+    {
+      "brand": "大院烧烤(第三分店)",
+      "address": "新塘桥生活广场东南门西80米(塘桥地铁站4号口旁)",
+      "distance": "41m"
+    },
+    {
+      "brand": "吉祥馄饨(上海浦建店)",
+      "address": "塘桥路400弄之1号新塘桥生活广场B1层",
+      "distance": "42m"
+    },
+    {
+      "brand": "真功夫(塘桥店)",
+      "address": "浦建路15号新塘桥生活广场B1层(塘桥地铁站4号口旁)",
+      "distance": "48m"
+    },
+    {
+      "brand": "汤一品(陆家嘴店)",
+      "address": "浦建路与浦华路交叉口西北100米(塘桥地铁站4号口旁)",
+      "distance": "58m"
+    },
+    {
+      "brand": "谭师傅纯杂粮煎饼果子(新塘桥生活广场店)",
+      "address": "塘桥路400弄之1号新塘桥生活广场F1层",
+      "distance": "61m"
+    },
+    {
+      "brand": "肯德基(塘桥店)",
+      "address": "浦建路15号",
+      "distance": "14m"
+    },
+    {
+      "brand": "HanBang韩式炸鸡·火鸡面(塘桥店)",
+      "address": "塘桥路400弄之1号-3号新塘桥生活广场",
+      "distance": "16m"
+    },
+    {
+      "brand": "肯德基车速取餐点(塘桥店)",
+      "address": "浦建路与浦东南路交叉口东100米",
+      "distance": "19m"
+    },
+    {
+      "brand": "肯悦咖啡塘桥店",
+      "address": "浦建路15号一层",
+      "distance": "28m"
+    },
+    {
+      "brand": "泰竺·老挝冰咖啡·泰式奶茶(塘桥店)",
+      "address": "浦东南路与塘桥路交叉口东南120米(塘桥地铁站4号口旁)",
+      "distance": "38m"
+    },
+    {
+      "brand": "大院烧烤(第三分店)",
+      "address": "新塘桥生活广场东南门西80米(塘桥地铁站4号口旁)",
+      "distance": "41m"
+    },
+    {
+      "brand": "吉祥馄饨(上海浦建店)",
+      "address": "塘桥路400弄之1号新塘桥生活广场B1层",
+      "distance": "42m"
+    },
+    {
+      "brand": "真功夫(塘桥店)",
+      "address": "浦建路15号新塘桥生活广场B1层(塘桥地铁站4号口旁)",
+      "distance": "48m"
+    },
+    {
+      "brand": "汤一品(陆家嘴店)",
+      "address": "浦建路与浦华路交叉口西北100米(塘桥地铁站4号口旁)",
+      "distance": "58m"
+    },
+    {
+      "brand": "谭师傅纯杂粮煎饼果子(新塘桥生活广场店)",
+      "address": "塘桥路400弄之1号新塘桥生活广场F1层",
+      "distance": "61m"
+    },
+    {
+      "brand": "肯德基(塘桥店)",
+      "address": "浦建路15号",
+      "distance": "14m"
+    },
+    {
+      "brand": "HanBang韩式炸鸡·火鸡面(塘桥店)",
+      "address": "塘桥路400弄之1号-3号新塘桥生活广场",
+      "distance": "16m"
+    },
+    {
+      "brand": "肯德基车速取餐点(塘桥店)",
+      "address": "浦建路与浦东南路交叉口东100米",
+      "distance": "19m"
+    },
+    {
+      "brand": "肯悦咖啡塘桥店",
+      "address": "浦建路15号一层",
+      "distance": "28m"
+    },
+    {
+      "brand": "泰竺·老挝冰咖啡·泰式奶茶(塘桥店)",
+      "address": "浦东南路与塘桥路交叉口东南120米(塘桥地铁站4号口旁)",
+      "distance": "38m"
+    },
+    {
+      "brand": "大院烧烤(第三分店)",
+      "address": "新塘桥生活广场东南门西80米(塘桥地铁站4号口旁)",
+      "distance": "41m"
+    },
+    {
+      "brand": "吉祥馄饨(上海浦建店)",
+      "address": "塘桥路400弄之1号新塘桥生活广场B1层",
+      "distance": "42m"
+    },
+    {
+      "brand": "真功夫(塘桥店)",
+      "address": "浦建路15号新塘桥生活广场B1层(塘桥地铁站4号口旁)",
+      "distance": "48m"
+    },
+    {
+      "brand": "汤一品(陆家嘴店)",
+      "address": "浦建路与浦华路交叉口西北100米(塘桥地铁站4号口旁)",
+      "distance": "58m"
+    },
+    {
+      "brand": "谭师傅纯杂粮煎饼果子(新塘桥生活广场店)",
+      "address": "塘桥路400弄之1号新塘桥生活广场F1层",
+      "distance": "61m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海巴黎春天(浦建店)",
+      "open_date": "2003-01-01",
+      "area": "5万㎡",
+      "jun_daily_avg": "2.2万人次",
+      "weekday_avg": "2.2万人次",
+      "holiday_avg": "2.1万人次"
+    },
+    {
+      "name": "上海富都广场",
+      "open_date": "2016-01-01",
+      "area": "2.1万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海绿地·外滩潮方",
+      "open_date": "2021-09-30",
+      "area": "3.9万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海滨江世茂52+",
+      "open_date": "2018-12-21",
+      "area": "1.2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 21.0,
+      "within_1yr_pct": 28.6,
+      "1_3yr_pct": 14.3,
+      "over_3yr_pct": 57.1
+    },
+    {
+      "type": "购物",
+      "count": 4.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    },
+    {
+      "type": "教育培训",
+      "count": 3.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 66.7
+    },
+    {
+      "type": "酒店住宿",
+      "count": 7.0,
+      "within_1yr_pct": 28.6,
+      "1_3yr_pct": 14.3,
+      "over_3yr_pct": 57.1
+    },
+    {
+      "type": "生活服务",
+      "count": 9.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 11.1,
+      "over_3yr_pct": 88.9
+    },
+    {
+      "type": "运动健身",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "name": "中海金安环宇荟",
+  "city": "北京市",
+  "address": "",
+  "lat": null,
+  "lng": null,
+  "overview": {
+    "score": 89.9,
+    "score_rank": "市内前30%",
+    "population_score": 90.1,
+    "area_score": 94.8,
+    "consumption_score": 74.3,
+    "industry_score": 89.9,
+    "annual_sales": "",
+    "annual_sales_unit": "",
+    "area_size_sqm": null,
+    "open_date": "",
+    "operator": "",
+    "brand": "",
+    "type": "",
+    "floors": ""
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "",
+    "annual_daily_rank": "",
+    "jun_total": null,
+    "jun_total_rank": "",
+    "jun_daily_avg": null,
+    "jun_daily_unit": "",
+    "jun_daily_rank": "",
+    "weekday_avg": null,
+    "weekday_unit": "",
+    "weekday_rank": "",
+    "holiday_avg": null,
+    "holiday_unit": "",
+    "holiday_rank": ""
+  },
+  "population": {
+    "residential": {
+      "500m": 2.2,
+      "1_5km": 15.1,
+      "3km": 53.9
+    },
+    "office": {
+      "500m": 1.4,
+      "1_5km": 5.7,
+      "3km": 21.4
+    },
+    "permanent": {
+      "500m": 2.3,
+      "1_5km": 14.0,
+      "3km": 51.4
+    }
+  },
+  "business": {
+    "competitors": 5.0,
+    "food": 342.0,
+    "shopping": 327.0,
+    "leisure": 29.0,
+    "education": 34.0,
+    "hotel": 31.0,
+    "services": 170.0,
+    "fitness": 26.0,
+    "auto": 27.0,
+    "total_stores": null,
+    "old_store_3yr_pct": null
+  },
+  "nearby_poi": {
+    "business": 5.0,
+    "community": 154.0,
+    "office": 11.0,
+    "school": 26.0,
+    "hospital": 38.0,
+    "transport": 8.0,
+    "scenic": 81.0
+  },
+  "demographics": {
+    "male_pct": 49.8,
+    "female_pct": null,
+    "education": {
+      "小学": 7.2,
+      "初中": 12.5,
+      "高中": 9.5,
+      "大专": 7.9,
+      "本科": 53.0,
+      "硕士": 8.1,
+      "博士": 1.8
+    },
+    "has_children_pct": null,
+    "no_children_pct": null
+  },
+  "scraped_at": "2026-08-01T11:23:00.399Z",
+  "nearby_restaurants": [],
+  "nearby_malls": [],
+  "business_survival": []
+}

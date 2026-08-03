@@ -1,0 +1,416 @@
+{
+  "name": "北京中海环宇荟",
+  "city": "北京市",
+  "address": "北京市朝阳区安定路6号",
+  "lat": 39.977876,
+  "lng": 116.406266,
+  "overview": {
+    "score": 93.7,
+    "score_rank": "市内前30%",
+    "population_score": 83.4,
+    "area_score": 76.4,
+    "consumption_score": 79.7,
+    "industry_score": 93.9,
+    "annual_sales": "2",
+    "annual_sales_unit": "亿元",
+    "area_size_sqm": 4.0,
+    "open_date": "2018-05-26",
+    "operator": "中海地产集团有限责任公司",
+    "brand": "中海",
+    "type": "美食型",
+    "floors": "B1-L5"
+  },
+  "traffic": {
+    "annual_daily": 2.36,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第105",
+    "jun_total": 97.6,
+    "jun_total_rank": "市内商场第96名",
+    "jun_daily_avg": 3.3,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第96名",
+    "weekday_avg": 3.3,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第88名",
+    "holiday_avg": 3.2,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第116名"
+  },
+  "population": {
+    "residential": {
+      "500m": 1.6,
+      "1_5km": 18.4,
+      "3km": 86.7
+    },
+    "office": {
+      "500m": 3.1,
+      "1_5km": 15.2,
+      "3km": 55.8
+    },
+    "permanent": {
+      "500m": 2.5,
+      "1_5km": 19.7,
+      "3km": 85.2
+    }
+  },
+  "business": {
+    "competitors": 6.0,
+    "food": 152.0,
+    "shopping": 75.0,
+    "leisure": 24.0,
+    "education": 7.0,
+    "hotel": 19.0,
+    "services": 63.0,
+    "fitness": 19.0,
+    "auto": 25.0,
+    "total_stores": 111.0,
+    "old_store_3yr_pct": 54.0
+  },
+  "nearby_poi": {
+    "business": 3.0,
+    "community": 442.0,
+    "office": 85.0,
+    "school": 42.0,
+    "hospital": 107.0,
+    "transport": 9.0,
+    "scenic": 371.0
+  },
+  "demographics": {
+    "male_pct": 50.9,
+    "female_pct": null,
+    "education": {
+      "小学": 8.1,
+      "初中": 13.7,
+      "高中": 12.0,
+      "大专": 5.2,
+      "本科": 48.1,
+      "硕士": 10.1,
+      "博士": 2.8
+    },
+    "has_children_pct": 61.5,
+    "no_children_pct": 38.5
+  },
+  "scraped_at": "2026-07-31T18:21:59.202Z",
+  "nearby_restaurants": [
+    {
+      "brand": "老友记南宁老友粉(安贞环宇荟店)",
+      "address": "北京城区安定路5号院北京安贞环宇荟B1层",
+      "distance": "1m"
+    },
+    {
+      "brand": "小厨娘淮扬菜(安贞环宇荟店)",
+      "address": "北京城区安定路5号院北京安贞环宇荟F4层",
+      "distance": "1m"
+    },
+    {
+      "brand": "醉面(中海环宇荟店)",
+      "address": "北京城区安定路5号院6号楼1层101内地下一层B124",
+      "distance": "2m"
+    },
+    {
+      "brand": "卤卤有为(安贞环宇荟店)",
+      "address": "安定路5号院北京安贞环宇荟B1层",
+      "distance": "2m"
+    },
+    {
+      "brand": "花胶楼·花胶鸡火锅(中海环宇荟店)",
+      "address": "安定路5院5号楼环宇荟三层花胶楼(安贞门地铁站出入口旁)",
+      "distance": "3m"
+    },
+    {
+      "brand": "壹霖·洱语云南菜(安贞环宇荟店)(暂停营业)",
+      "address": "安定路5号院北京安贞环宇荟F4层",
+      "distance": "3m"
+    },
+    {
+      "brand": "阳阳中国饭(安贞环宇荟店)",
+      "address": "北京城区安定路5号院北京安贞环宇荟B1层",
+      "distance": "3m"
+    },
+    {
+      "brand": "鸡柳大人(安贞环宇荟店)",
+      "address": "安定路5号院北京安贞环宇荟B1层(安贞门地铁站B东北口旁)",
+      "distance": "3m"
+    },
+    {
+      "brand": "筑地银·居食屋(环宇荟店)",
+      "address": "安贞环宇荟B1层B100-9(安贞门地铁站B东北口旁)",
+      "distance": "3m"
+    },
+    {
+      "brand": "星巴克(北京北投购物公园店)",
+      "address": "北京城区安定路5号院20号楼B1层",
+      "distance": "3m"
+    },
+    {
+      "brand": "老友记南宁老友粉(安贞环宇荟店)",
+      "address": "北京城区安定路5号院北京安贞环宇荟B1层",
+      "distance": "1m"
+    },
+    {
+      "brand": "小厨娘淮扬菜(安贞环宇荟店)",
+      "address": "北京城区安定路5号院北京安贞环宇荟F4层",
+      "distance": "1m"
+    },
+    {
+      "brand": "醉面(中海环宇荟店)",
+      "address": "北京城区安定路5号院6号楼1层101内地下一层B124",
+      "distance": "2m"
+    },
+    {
+      "brand": "卤卤有为(安贞环宇荟店)",
+      "address": "安定路5号院北京安贞环宇荟B1层",
+      "distance": "2m"
+    },
+    {
+      "brand": "花胶楼·花胶鸡火锅(中海环宇荟店)",
+      "address": "安定路5院5号楼环宇荟三层花胶楼(安贞门地铁站出入口旁)",
+      "distance": "3m"
+    },
+    {
+      "brand": "壹霖·洱语云南菜(安贞环宇荟店)(暂停营业)",
+      "address": "安定路5号院北京安贞环宇荟F4层",
+      "distance": "3m"
+    },
+    {
+      "brand": "阳阳中国饭(安贞环宇荟店)",
+      "address": "北京城区安定路5号院北京安贞环宇荟B1层",
+      "distance": "3m"
+    },
+    {
+      "brand": "鸡柳大人(安贞环宇荟店)",
+      "address": "安定路5号院北京安贞环宇荟B1层(安贞门地铁站B东北口旁)",
+      "distance": "3m"
+    },
+    {
+      "brand": "筑地银·居食屋(环宇荟店)",
+      "address": "安贞环宇荟B1层B100-9(安贞门地铁站B东北口旁)",
+      "distance": "3m"
+    },
+    {
+      "brand": "星巴克(北京北投购物公园店)",
+      "address": "北京城区安定路5号院20号楼B1层",
+      "distance": "3m"
+    },
+    {
+      "brand": "老友记南宁老友粉(安贞环宇荟店)",
+      "address": "北京城区安定路5号院北京安贞环宇荟B1层",
+      "distance": "1m"
+    },
+    {
+      "brand": "小厨娘淮扬菜(安贞环宇荟店)",
+      "address": "北京城区安定路5号院北京安贞环宇荟F4层",
+      "distance": "1m"
+    },
+    {
+      "brand": "醉面(中海环宇荟店)",
+      "address": "北京城区安定路5号院6号楼1层101内地下一层B124",
+      "distance": "2m"
+    },
+    {
+      "brand": "卤卤有为(安贞环宇荟店)",
+      "address": "安定路5号院北京安贞环宇荟B1层",
+      "distance": "2m"
+    },
+    {
+      "brand": "花胶楼·花胶鸡火锅(中海环宇荟店)",
+      "address": "安定路5院5号楼环宇荟三层花胶楼(安贞门地铁站出入口旁)",
+      "distance": "3m"
+    },
+    {
+      "brand": "壹霖·洱语云南菜(安贞环宇荟店)(暂停营业)",
+      "address": "安定路5号院北京安贞环宇荟F4层",
+      "distance": "3m"
+    },
+    {
+      "brand": "阳阳中国饭(安贞环宇荟店)",
+      "address": "北京城区安定路5号院北京安贞环宇荟B1层",
+      "distance": "3m"
+    },
+    {
+      "brand": "鸡柳大人(安贞环宇荟店)",
+      "address": "安定路5号院北京安贞环宇荟B1层(安贞门地铁站B东北口旁)",
+      "distance": "3m"
+    },
+    {
+      "brand": "筑地银·居食屋(环宇荟店)",
+      "address": "安贞环宇荟B1层B100-9(安贞门地铁站B东北口旁)",
+      "distance": "3m"
+    },
+    {
+      "brand": "星巴克(北京北投购物公园店)",
+      "address": "北京城区安定路5号院20号楼B1层",
+      "distance": "3m"
+    },
+    {
+      "brand": "老友记南宁老友粉(安贞环宇荟店)",
+      "address": "北京城区安定路5号院北京安贞环宇荟B1层",
+      "distance": "1m"
+    },
+    {
+      "brand": "小厨娘淮扬菜(安贞环宇荟店)",
+      "address": "北京城区安定路5号院北京安贞环宇荟F4层",
+      "distance": "1m"
+    },
+    {
+      "brand": "醉面(中海环宇荟店)",
+      "address": "北京城区安定路5号院6号楼1层101内地下一层B124",
+      "distance": "2m"
+    },
+    {
+      "brand": "卤卤有为(安贞环宇荟店)",
+      "address": "安定路5号院北京安贞环宇荟B1层",
+      "distance": "2m"
+    },
+    {
+      "brand": "花胶楼·花胶鸡火锅(中海环宇荟店)",
+      "address": "安定路5院5号楼环宇荟三层花胶楼(安贞门地铁站出入口旁)",
+      "distance": "3m"
+    },
+    {
+      "brand": "壹霖·洱语云南菜(安贞环宇荟店)(暂停营业)",
+      "address": "安定路5号院北京安贞环宇荟F4层",
+      "distance": "3m"
+    },
+    {
+      "brand": "阳阳中国饭(安贞环宇荟店)",
+      "address": "北京城区安定路5号院北京安贞环宇荟B1层",
+      "distance": "3m"
+    },
+    {
+      "brand": "鸡柳大人(安贞环宇荟店)",
+      "address": "安定路5号院北京安贞环宇荟B1层(安贞门地铁站B东北口旁)",
+      "distance": "3m"
+    },
+    {
+      "brand": "筑地银·居食屋(环宇荟店)",
+      "address": "安贞环宇荟B1层B100-9(安贞门地铁站B东北口旁)",
+      "distance": "3m"
+    },
+    {
+      "brand": "星巴克(北京北投购物公园店)",
+      "address": "北京城区安定路5号院20号楼B1层",
+      "distance": "3m"
+    },
+    {
+      "brand": "老友记南宁老友粉(安贞环宇荟店)",
+      "address": "北京城区安定路5号院北京安贞环宇荟B1层",
+      "distance": "1m"
+    },
+    {
+      "brand": "小厨娘淮扬菜(安贞环宇荟店)",
+      "address": "北京城区安定路5号院北京安贞环宇荟F4层",
+      "distance": "1m"
+    },
+    {
+      "brand": "醉面(中海环宇荟店)",
+      "address": "北京城区安定路5号院6号楼1层101内地下一层B124",
+      "distance": "2m"
+    },
+    {
+      "brand": "卤卤有为(安贞环宇荟店)",
+      "address": "安定路5号院北京安贞环宇荟B1层",
+      "distance": "2m"
+    },
+    {
+      "brand": "花胶楼·花胶鸡火锅(中海环宇荟店)",
+      "address": "安定路5院5号楼环宇荟三层花胶楼(安贞门地铁站出入口旁)",
+      "distance": "3m"
+    },
+    {
+      "brand": "壹霖·洱语云南菜(安贞环宇荟店)(暂停营业)",
+      "address": "安定路5号院北京安贞环宇荟F4层",
+      "distance": "3m"
+    },
+    {
+      "brand": "阳阳中国饭(安贞环宇荟店)",
+      "address": "北京城区安定路5号院北京安贞环宇荟B1层",
+      "distance": "3m"
+    },
+    {
+      "brand": "鸡柳大人(安贞环宇荟店)",
+      "address": "安定路5号院北京安贞环宇荟B1层(安贞门地铁站B东北口旁)",
+      "distance": "3m"
+    },
+    {
+      "brand": "筑地银·居食屋(环宇荟店)",
+      "address": "安贞环宇荟B1层B100-9(安贞门地铁站B东北口旁)",
+      "distance": "3m"
+    },
+    {
+      "brand": "星巴克(北京北投购物公园店)",
+      "address": "北京城区安定路5号院20号楼B1层",
+      "distance": "3m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "北京北投购物公园",
+      "open_date": "2022-09-01",
+      "area": "4.5万㎡",
+      "jun_daily_avg": "3.2万人次",
+      "weekday_avg": "3.2万人次",
+      "holiday_avg": "3.3万人次"
+    },
+    {
+      "name": "北京唐人街购物中心",
+      "open_date": "2008-12-01",
+      "area": "-",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "北京新辰里购物中心",
+      "open_date": "2019-08-01",
+      "area": "1.8万㎡",
+      "jun_daily_avg": "3.3万人次",
+      "weekday_avg": "3.2万人次",
+      "holiday_avg": "3.7万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 70.0,
+      "within_1yr_pct": 11.4,
+      "1_3yr_pct": 34.3,
+      "over_3yr_pct": 54.3
+    },
+    {
+      "type": "购物",
+      "count": 22.0,
+      "within_1yr_pct": 22.7,
+      "1_3yr_pct": 36.4,
+      "over_3yr_pct": 40.9
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    },
+    {
+      "type": "生活服务",
+      "count": 10.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 20.0,
+      "over_3yr_pct": 60.0
+    },
+    {
+      "type": "运动健身",
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 5.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 40.0,
+      "over_3yr_pct": 60.0
+    }
+  ]
+}

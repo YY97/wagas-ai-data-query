@@ -1,0 +1,407 @@
+{
+  "name": "鑫嘉汇购物中心",
+  "city": "北京市",
+  "address": "北京市丰台区丰葆东路8号",
+  "lat": 39.817941,
+  "lng": 116.292375,
+  "overview": {
+    "score": 92.2,
+    "score_rank": "市内前30%",
+    "population_score": 78.4,
+    "area_score": 76.4,
+    "consumption_score": 75.6,
+    "industry_score": 92.3,
+    "annual_sales": "鑫嘉汇购物中心位于北京丰台科技园核心区，其前身为永旺梦乐城，2025年10月16日正式完成换牌并亮相。 商业介绍 - 运营主体：由北京南极星投资管理公司成立的商管公司运营，由原龙湖和万达的团队成员组成。有丰富的商业资源与运营经验。 - 定位：以“家庭欢聚场，拥抱生活每一面”为核心理念，致力于成为能承载亲子互动、朋友社交与商务洽谈的多元化场所。 - 客群：3公里内辐射约34万人口，18-45岁核心消费群体占比68.3%，女性消费者占比65%，主力客群为品质家庭与年轻白领。 - 业态布局：已引入鲜汇生活超市、Moussy、波司登、丽佳宝贝等品牌，未来还将加强首店、概念店和体验店的引入，并在三、四层增加正餐、商务餐以及主题餐饮等品类。 商业亮点 - 交通配套亮点：临近地铁9号线双站点，拥有包含地面、屋面、地下在内的立体停车网络及2500个停车位，方便家庭型与商务型客群出行。 - 空间改造亮点：外广场西侧灯饰亮化工程完成，有近30米高的“汇”聚星河灯光瀑布、“鑫”光森林LED互动光柱等互动场景，营造沉浸式游逛氛围。",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 1.5,
+    "open_date": "2025-10-01",
+    "operator": "永旺（中国）投资有限公司",
+    "brand": "AEON永旺",
+    "type": "综合型",
+    "floors": "L1-L4"
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "-",
+    "annual_daily_rank": "",
+    "jun_total": 77.8,
+    "jun_total_rank": "市内商场第125名",
+    "jun_daily_avg": 2.6,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第125名",
+    "weekday_avg": 2.5,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第119名",
+    "holiday_avg": 2.8,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第137名"
+  },
+  "population": {
+    "residential": {
+      "500m": 1.3,
+      "1_5km": 6.2,
+      "3km": 29.4
+    },
+    "office": {
+      "500m": 1.7,
+      "1_5km": 13.3,
+      "3km": 26.9
+    },
+    "permanent": {
+      "500m": 1.3,
+      "1_5km": 8.0,
+      "3km": 30.0
+    }
+  },
+  "business": {
+    "competitors": 4.0,
+    "food": 145.0,
+    "shopping": 71.0,
+    "leisure": 13.0,
+    "education": 7.0,
+    "hotel": 17.0,
+    "services": 65.0,
+    "fitness": 15.0,
+    "auto": 16.0,
+    "total_stores": 122.0,
+    "old_store_3yr_pct": 48.0
+  },
+  "nearby_poi": {
+    "business": 1.0,
+    "community": 143.0,
+    "office": 91.0,
+    "school": 9.0,
+    "hospital": 33.0,
+    "transport": 7.0,
+    "scenic": 156.0
+  },
+  "demographics": {
+    "male_pct": 51.3,
+    "female_pct": null,
+    "education": {
+      "小学": 8.8,
+      "初中": 15.2,
+      "高中": 11.6,
+      "大专": 7.1,
+      "本科": 48.8,
+      "硕士": 6.8,
+      "博士": 1.7
+    },
+    "has_children_pct": 55.9,
+    "no_children_pct": 44.1
+  },
+  "scraped_at": "2026-08-01T20:46:41.545Z",
+  "nearby_restaurants": [
+    {
+      "brand": "Tubestation站点比萨(丰台永旺店)",
+      "address": "丰葆路88号院1号楼-永旺梦乐城四层NO.456",
+      "distance": "2m"
+    },
+    {
+      "brand": "赛百味(鑫嘉汇店)",
+      "address": "北京城区丰葆路88号院1号楼-2至4层101内1层161-A",
+      "distance": "34m"
+    },
+    {
+      "brand": "瑞幸咖啡(丰台永旺店)",
+      "address": "北京城区丰葆路88号院永旺梦乐城四层401号",
+      "distance": "45m"
+    },
+    {
+      "brand": "星巴克(永旺梦乐城店)",
+      "address": "北京城区丰葆路88号院1号楼鑫嘉汇购物中心1层166号",
+      "distance": "51m"
+    },
+    {
+      "brand": "CHAGEE霸王茶姬(北京丰台永旺店)",
+      "address": "丰葆路88号院永旺梦乐城1F层",
+      "distance": "56m"
+    },
+    {
+      "brand": "麦当劳(鑫嘉汇购物中心店)",
+      "address": "丰葆路88号院1号楼鑫嘉汇购物中心1F层",
+      "distance": "57m"
+    },
+    {
+      "brand": "Tims天好咖啡(丰台永旺梦乐城捷枫店)",
+      "address": "丰葆路88号院1号楼鑫嘉汇购物中心1F层",
+      "distance": "61m"
+    },
+    {
+      "brand": "煲仔皇(丰台永旺梦乐城店)",
+      "address": "丰葆路88号1号楼鑫嘉汇购物中心4层438号",
+      "distance": "65m"
+    },
+    {
+      "brand": "袁记云饺(丰台鑫嘉汇店)",
+      "address": "北京城区丰葆路88号院1号楼永旺梦乐城超市旁边内1层T-106",
+      "distance": "66m"
+    },
+    {
+      "brand": "鲜潭石锅鱼(鑫嘉汇购物中心店)",
+      "address": "看丹街道丰葆路88号院1号楼鑫嘉汇购物中心4层",
+      "distance": "66m"
+    },
+    {
+      "brand": "Tubestation站点比萨(丰台永旺店)",
+      "address": "丰葆路88号院1号楼-永旺梦乐城四层NO.456",
+      "distance": "2m"
+    },
+    {
+      "brand": "赛百味(鑫嘉汇店)",
+      "address": "北京城区丰葆路88号院1号楼-2至4层101内1层161-A",
+      "distance": "34m"
+    },
+    {
+      "brand": "瑞幸咖啡(丰台永旺店)",
+      "address": "北京城区丰葆路88号院永旺梦乐城四层401号",
+      "distance": "45m"
+    },
+    {
+      "brand": "星巴克(永旺梦乐城店)",
+      "address": "北京城区丰葆路88号院1号楼鑫嘉汇购物中心1层166号",
+      "distance": "51m"
+    },
+    {
+      "brand": "CHAGEE霸王茶姬(北京丰台永旺店)",
+      "address": "丰葆路88号院永旺梦乐城1F层",
+      "distance": "56m"
+    },
+    {
+      "brand": "麦当劳(鑫嘉汇购物中心店)",
+      "address": "丰葆路88号院1号楼鑫嘉汇购物中心1F层",
+      "distance": "57m"
+    },
+    {
+      "brand": "Tims天好咖啡(丰台永旺梦乐城捷枫店)",
+      "address": "丰葆路88号院1号楼鑫嘉汇购物中心1F层",
+      "distance": "61m"
+    },
+    {
+      "brand": "煲仔皇(丰台永旺梦乐城店)",
+      "address": "丰葆路88号1号楼鑫嘉汇购物中心4层438号",
+      "distance": "65m"
+    },
+    {
+      "brand": "袁记云饺(丰台鑫嘉汇店)",
+      "address": "北京城区丰葆路88号院1号楼永旺梦乐城超市旁边内1层T-106",
+      "distance": "66m"
+    },
+    {
+      "brand": "鲜潭石锅鱼(鑫嘉汇购物中心店)",
+      "address": "看丹街道丰葆路88号院1号楼鑫嘉汇购物中心4层",
+      "distance": "66m"
+    },
+    {
+      "brand": "Tubestation站点比萨(丰台永旺店)",
+      "address": "丰葆路88号院1号楼-永旺梦乐城四层NO.456",
+      "distance": "2m"
+    },
+    {
+      "brand": "赛百味(鑫嘉汇店)",
+      "address": "北京城区丰葆路88号院1号楼-2至4层101内1层161-A",
+      "distance": "34m"
+    },
+    {
+      "brand": "瑞幸咖啡(丰台永旺店)",
+      "address": "北京城区丰葆路88号院永旺梦乐城四层401号",
+      "distance": "45m"
+    },
+    {
+      "brand": "星巴克(永旺梦乐城店)",
+      "address": "北京城区丰葆路88号院1号楼鑫嘉汇购物中心1层166号",
+      "distance": "51m"
+    },
+    {
+      "brand": "CHAGEE霸王茶姬(北京丰台永旺店)",
+      "address": "丰葆路88号院永旺梦乐城1F层",
+      "distance": "56m"
+    },
+    {
+      "brand": "麦当劳(鑫嘉汇购物中心店)",
+      "address": "丰葆路88号院1号楼鑫嘉汇购物中心1F层",
+      "distance": "57m"
+    },
+    {
+      "brand": "Tims天好咖啡(丰台永旺梦乐城捷枫店)",
+      "address": "丰葆路88号院1号楼鑫嘉汇购物中心1F层",
+      "distance": "61m"
+    },
+    {
+      "brand": "煲仔皇(丰台永旺梦乐城店)",
+      "address": "丰葆路88号1号楼鑫嘉汇购物中心4层438号",
+      "distance": "65m"
+    },
+    {
+      "brand": "袁记云饺(丰台鑫嘉汇店)",
+      "address": "北京城区丰葆路88号院1号楼永旺梦乐城超市旁边内1层T-106",
+      "distance": "66m"
+    },
+    {
+      "brand": "鲜潭石锅鱼(鑫嘉汇购物中心店)",
+      "address": "看丹街道丰葆路88号院1号楼鑫嘉汇购物中心4层",
+      "distance": "66m"
+    },
+    {
+      "brand": "Tubestation站点比萨(丰台永旺店)",
+      "address": "丰葆路88号院1号楼-永旺梦乐城四层NO.456",
+      "distance": "2m"
+    },
+    {
+      "brand": "赛百味(鑫嘉汇店)",
+      "address": "北京城区丰葆路88号院1号楼-2至4层101内1层161-A",
+      "distance": "34m"
+    },
+    {
+      "brand": "瑞幸咖啡(丰台永旺店)",
+      "address": "北京城区丰葆路88号院永旺梦乐城四层401号",
+      "distance": "45m"
+    },
+    {
+      "brand": "星巴克(永旺梦乐城店)",
+      "address": "北京城区丰葆路88号院1号楼鑫嘉汇购物中心1层166号",
+      "distance": "51m"
+    },
+    {
+      "brand": "CHAGEE霸王茶姬(北京丰台永旺店)",
+      "address": "丰葆路88号院永旺梦乐城1F层",
+      "distance": "56m"
+    },
+    {
+      "brand": "麦当劳(鑫嘉汇购物中心店)",
+      "address": "丰葆路88号院1号楼鑫嘉汇购物中心1F层",
+      "distance": "57m"
+    },
+    {
+      "brand": "Tims天好咖啡(丰台永旺梦乐城捷枫店)",
+      "address": "丰葆路88号院1号楼鑫嘉汇购物中心1F层",
+      "distance": "61m"
+    },
+    {
+      "brand": "煲仔皇(丰台永旺梦乐城店)",
+      "address": "丰葆路88号1号楼鑫嘉汇购物中心4层438号",
+      "distance": "65m"
+    },
+    {
+      "brand": "袁记云饺(丰台鑫嘉汇店)",
+      "address": "北京城区丰葆路88号院1号楼永旺梦乐城超市旁边内1层T-106",
+      "distance": "66m"
+    },
+    {
+      "brand": "鲜潭石锅鱼(鑫嘉汇购物中心店)",
+      "address": "看丹街道丰葆路88号院1号楼鑫嘉汇购物中心4层",
+      "distance": "66m"
+    },
+    {
+      "brand": "Tubestation站点比萨(丰台永旺店)",
+      "address": "丰葆路88号院1号楼-永旺梦乐城四层NO.456",
+      "distance": "2m"
+    },
+    {
+      "brand": "赛百味(鑫嘉汇店)",
+      "address": "北京城区丰葆路88号院1号楼-2至4层101内1层161-A",
+      "distance": "34m"
+    },
+    {
+      "brand": "瑞幸咖啡(丰台永旺店)",
+      "address": "北京城区丰葆路88号院永旺梦乐城四层401号",
+      "distance": "45m"
+    },
+    {
+      "brand": "星巴克(永旺梦乐城店)",
+      "address": "北京城区丰葆路88号院1号楼鑫嘉汇购物中心1层166号",
+      "distance": "51m"
+    },
+    {
+      "brand": "CHAGEE霸王茶姬(北京丰台永旺店)",
+      "address": "丰葆路88号院永旺梦乐城1F层",
+      "distance": "56m"
+    },
+    {
+      "brand": "麦当劳(鑫嘉汇购物中心店)",
+      "address": "丰葆路88号院1号楼鑫嘉汇购物中心1F层",
+      "distance": "57m"
+    },
+    {
+      "brand": "Tims天好咖啡(丰台永旺梦乐城捷枫店)",
+      "address": "丰葆路88号院1号楼鑫嘉汇购物中心1F层",
+      "distance": "61m"
+    },
+    {
+      "brand": "煲仔皇(丰台永旺梦乐城店)",
+      "address": "丰葆路88号1号楼鑫嘉汇购物中心4层438号",
+      "distance": "65m"
+    },
+    {
+      "brand": "袁记云饺(丰台鑫嘉汇店)",
+      "address": "北京城区丰葆路88号院1号楼永旺梦乐城超市旁边内1层T-106",
+      "distance": "66m"
+    },
+    {
+      "brand": "鲜潭石锅鱼(鑫嘉汇购物中心店)",
+      "address": "看丹街道丰葆路88号院1号楼鑫嘉汇购物中心4层",
+      "distance": "66m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "北京丰科万达广场",
+      "open_date": "2016-12-01",
+      "area": "14万㎡",
+      "jun_daily_avg": "10.6万人次",
+      "weekday_avg": "10.3万人次",
+      "holiday_avg": "11.4万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 45.0,
+      "within_1yr_pct": 13.3,
+      "1_3yr_pct": 17.8,
+      "over_3yr_pct": 68.9
+    },
+    {
+      "type": "购物",
+      "count": 40.0,
+      "within_1yr_pct": 32.5,
+      "1_3yr_pct": 37.5,
+      "over_3yr_pct": 30.0
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 4.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 25.0
+    },
+    {
+      "type": "教育培训",
+      "count": 4.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    },
+    {
+      "type": "生活服务",
+      "count": 17.0,
+      "within_1yr_pct": 41.2,
+      "1_3yr_pct": 17.6,
+      "over_3yr_pct": 41.2
+    },
+    {
+      "type": "运动健身",
+      "count": 5.0,
+      "within_1yr_pct": 40.0,
+      "1_3yr_pct": 40.0,
+      "over_3yr_pct": 20.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 7.0,
+      "within_1yr_pct": 28.6,
+      "1_3yr_pct": 28.6,
+      "over_3yr_pct": 42.9
+    }
+  ]
+}

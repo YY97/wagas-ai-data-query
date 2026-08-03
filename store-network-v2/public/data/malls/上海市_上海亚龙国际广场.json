@@ -1,0 +1,458 @@
+{
+  "name": "上海亚龙国际广场",
+  "city": "上海市",
+  "address": "上海市黄浦区金陵东路500号(大世界地铁站6号口步行90米)",
+  "lat": 31.227123,
+  "lng": 121.480132,
+  "overview": {
+    "score": 72.5,
+    "score_rank": "市内前70%",
+    "population_score": 80.0,
+    "area_score": 87.6,
+    "consumption_score": 86.6,
+    "industry_score": 72.4,
+    "annual_sales": "亚龙国际广场是集商业、办公于一体的综合国际商业广场，毗邻上海地标建筑“大世界”，地铁8号，14号线大世界站2号口直通广场",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 1.5,
+    "open_date": "2007-01-01",
+    "operator": "上海亚龙国际广场经营管理有限公司",
+    "brand": "",
+    "type": "综合型",
+    "floors": "B2-L5"
+  },
+  "traffic": {
+    "annual_daily": 2575.0,
+    "annual_daily_unit": "人次",
+    "annual_daily_rank": "市内第460",
+    "jun_total": 9.8,
+    "jun_total_rank": "市内商场第487名",
+    "jun_daily_avg": 3281.0,
+    "jun_daily_unit": "人次",
+    "jun_daily_rank": "市内商场第487名",
+    "weekday_avg": 3100.0,
+    "weekday_unit": "人次",
+    "weekday_rank": "市内商场第490名",
+    "holiday_avg": 3777.0,
+    "holiday_unit": "人次",
+    "holiday_rank": "市内商场第479名"
+  },
+  "population": {
+    "residential": {
+      "500m": 1.5,
+      "1_5km": 18.2,
+      "3km": 83.5
+    },
+    "office": {
+      "500m": 4.0,
+      "1_5km": 32.8,
+      "3km": 111.7
+    },
+    "permanent": {
+      "500m": 2.0,
+      "1_5km": 26.4,
+      "3km": 104.0
+    }
+  },
+  "business": {
+    "competitors": 13.0,
+    "food": 274.0,
+    "shopping": 173.0,
+    "leisure": 55.0,
+    "education": 24.0,
+    "hotel": 56.0,
+    "services": 186.0,
+    "fitness": 17.0,
+    "auto": 32.0,
+    "total_stores": 12.0,
+    "old_store_3yr_pct": 50.0
+  },
+  "nearby_poi": {
+    "business": 37.0,
+    "community": 949.0,
+    "office": 217.0,
+    "school": 61.0,
+    "hospital": 201.0,
+    "transport": 31.0,
+    "scenic": 955.0
+  },
+  "demographics": {
+    "male_pct": 48.8,
+    "female_pct": null,
+    "education": {
+      "小学": 9.1,
+      "初中": 16.7,
+      "高中": 11.4,
+      "大专": 7.0,
+      "本科": 48.0,
+      "硕士": 6.0,
+      "博士": 1.8
+    },
+    "has_children_pct": 58.1,
+    "no_children_pct": 41.9
+  },
+  "scraped_at": "2026-07-31T15:32:33.714Z",
+  "nearby_restaurants": [
+    {
+      "brand": "陆子荟客厅(上海金陵阁)",
+      "address": "金陵东路500号亚龙大厦3楼(大世界地铁站2号口)",
+      "distance": "0m"
+    },
+    {
+      "brand": "瑞幸咖啡(亚龙广场店)",
+      "address": "金陵东路500号亚龙国际广场一层1F-05室",
+      "distance": "0m"
+    },
+    {
+      "brand": "金陵阁茶室",
+      "address": "外滩街道金陵东路500号亚龙国际广场303室",
+      "distance": "20m"
+    },
+    {
+      "brand": "麻都·地道成都菜(人民广场店)",
+      "address": "金陵东路500号亚龙国际广场F2层(大世界地铁站2号出口旁)",
+      "distance": "22m"
+    },
+    {
+      "brand": "麦当劳(亚龙国际广场餐厅)",
+      "address": "金陵东路500号亚龙国际广场B2层",
+      "distance": "28m"
+    },
+    {
+      "brand": "红盔甲·小龙虾(人民广场店)",
+      "address": "金陵东路500号亚龙国际广场2楼(8号线大世界2号口步行100m)",
+      "distance": "28m"
+    },
+    {
+      "brand": "裕兴记•蟹黄面馆(大世界店)",
+      "address": "金陵东路500号亚龙国际广场1楼106-107A",
+      "distance": "33m"
+    },
+    {
+      "brand": "弄口里烧烤(人民广场店)",
+      "address": "金陵东路500号",
+      "distance": "34m"
+    },
+    {
+      "brand": "锦江都城经典酒店·宴会厅(上海青年会店)",
+      "address": "西藏南路123号(近金陵东路)(大世界地铁站1号口旁)",
+      "distance": "43m"
+    },
+    {
+      "brand": "青隆轩QINGLONGXUAN",
+      "address": "西藏南路123号2楼3单元",
+      "distance": "50m"
+    },
+    {
+      "brand": "陆子荟客厅(上海金陵阁)",
+      "address": "金陵东路500号亚龙大厦3楼(大世界地铁站2号口)",
+      "distance": "0m"
+    },
+    {
+      "brand": "瑞幸咖啡(亚龙广场店)",
+      "address": "金陵东路500号亚龙国际广场一层1F-05室",
+      "distance": "0m"
+    },
+    {
+      "brand": "金陵阁茶室",
+      "address": "外滩街道金陵东路500号亚龙国际广场303室",
+      "distance": "20m"
+    },
+    {
+      "brand": "麻都·地道成都菜(人民广场店)",
+      "address": "金陵东路500号亚龙国际广场F2层(大世界地铁站2号出口旁)",
+      "distance": "22m"
+    },
+    {
+      "brand": "麦当劳(亚龙国际广场餐厅)",
+      "address": "金陵东路500号亚龙国际广场B2层",
+      "distance": "28m"
+    },
+    {
+      "brand": "红盔甲·小龙虾(人民广场店)",
+      "address": "金陵东路500号亚龙国际广场2楼(8号线大世界2号口步行100m)",
+      "distance": "28m"
+    },
+    {
+      "brand": "裕兴记•蟹黄面馆(大世界店)",
+      "address": "金陵东路500号亚龙国际广场1楼106-107A",
+      "distance": "33m"
+    },
+    {
+      "brand": "弄口里烧烤(人民广场店)",
+      "address": "金陵东路500号",
+      "distance": "34m"
+    },
+    {
+      "brand": "锦江都城经典酒店·宴会厅(上海青年会店)",
+      "address": "西藏南路123号(近金陵东路)(大世界地铁站1号口旁)",
+      "distance": "43m"
+    },
+    {
+      "brand": "青隆轩QINGLONGXUAN",
+      "address": "西藏南路123号2楼3单元",
+      "distance": "50m"
+    },
+    {
+      "brand": "陆子荟客厅(上海金陵阁)",
+      "address": "金陵东路500号亚龙大厦3楼(大世界地铁站2号口)",
+      "distance": "0m"
+    },
+    {
+      "brand": "瑞幸咖啡(亚龙广场店)",
+      "address": "金陵东路500号亚龙国际广场一层1F-05室",
+      "distance": "0m"
+    },
+    {
+      "brand": "金陵阁茶室",
+      "address": "外滩街道金陵东路500号亚龙国际广场303室",
+      "distance": "20m"
+    },
+    {
+      "brand": "麻都·地道成都菜(人民广场店)",
+      "address": "金陵东路500号亚龙国际广场F2层(大世界地铁站2号出口旁)",
+      "distance": "22m"
+    },
+    {
+      "brand": "麦当劳(亚龙国际广场餐厅)",
+      "address": "金陵东路500号亚龙国际广场B2层",
+      "distance": "28m"
+    },
+    {
+      "brand": "红盔甲·小龙虾(人民广场店)",
+      "address": "金陵东路500号亚龙国际广场2楼(8号线大世界2号口步行100m)",
+      "distance": "28m"
+    },
+    {
+      "brand": "裕兴记•蟹黄面馆(大世界店)",
+      "address": "金陵东路500号亚龙国际广场1楼106-107A",
+      "distance": "33m"
+    },
+    {
+      "brand": "弄口里烧烤(人民广场店)",
+      "address": "金陵东路500号",
+      "distance": "34m"
+    },
+    {
+      "brand": "锦江都城经典酒店·宴会厅(上海青年会店)",
+      "address": "西藏南路123号(近金陵东路)(大世界地铁站1号口旁)",
+      "distance": "43m"
+    },
+    {
+      "brand": "青隆轩QINGLONGXUAN",
+      "address": "西藏南路123号2楼3单元",
+      "distance": "50m"
+    },
+    {
+      "brand": "陆子荟客厅(上海金陵阁)",
+      "address": "金陵东路500号亚龙大厦3楼(大世界地铁站2号口)",
+      "distance": "0m"
+    },
+    {
+      "brand": "瑞幸咖啡(亚龙广场店)",
+      "address": "金陵东路500号亚龙国际广场一层1F-05室",
+      "distance": "0m"
+    },
+    {
+      "brand": "金陵阁茶室",
+      "address": "外滩街道金陵东路500号亚龙国际广场303室",
+      "distance": "20m"
+    },
+    {
+      "brand": "麻都·地道成都菜(人民广场店)",
+      "address": "金陵东路500号亚龙国际广场F2层(大世界地铁站2号出口旁)",
+      "distance": "22m"
+    },
+    {
+      "brand": "麦当劳(亚龙国际广场餐厅)",
+      "address": "金陵东路500号亚龙国际广场B2层",
+      "distance": "28m"
+    },
+    {
+      "brand": "红盔甲·小龙虾(人民广场店)",
+      "address": "金陵东路500号亚龙国际广场2楼(8号线大世界2号口步行100m)",
+      "distance": "28m"
+    },
+    {
+      "brand": "裕兴记•蟹黄面馆(大世界店)",
+      "address": "金陵东路500号亚龙国际广场1楼106-107A",
+      "distance": "33m"
+    },
+    {
+      "brand": "弄口里烧烤(人民广场店)",
+      "address": "金陵东路500号",
+      "distance": "34m"
+    },
+    {
+      "brand": "锦江都城经典酒店·宴会厅(上海青年会店)",
+      "address": "西藏南路123号(近金陵东路)(大世界地铁站1号口旁)",
+      "distance": "43m"
+    },
+    {
+      "brand": "青隆轩QINGLONGXUAN",
+      "address": "西藏南路123号2楼3单元",
+      "distance": "50m"
+    },
+    {
+      "brand": "陆子荟客厅(上海金陵阁)",
+      "address": "金陵东路500号亚龙大厦3楼(大世界地铁站2号口)",
+      "distance": "0m"
+    },
+    {
+      "brand": "瑞幸咖啡(亚龙广场店)",
+      "address": "金陵东路500号亚龙国际广场一层1F-05室",
+      "distance": "0m"
+    },
+    {
+      "brand": "金陵阁茶室",
+      "address": "外滩街道金陵东路500号亚龙国际广场303室",
+      "distance": "20m"
+    },
+    {
+      "brand": "麻都·地道成都菜(人民广场店)",
+      "address": "金陵东路500号亚龙国际广场F2层(大世界地铁站2号出口旁)",
+      "distance": "22m"
+    },
+    {
+      "brand": "麦当劳(亚龙国际广场餐厅)",
+      "address": "金陵东路500号亚龙国际广场B2层",
+      "distance": "28m"
+    },
+    {
+      "brand": "红盔甲·小龙虾(人民广场店)",
+      "address": "金陵东路500号亚龙国际广场2楼(8号线大世界2号口步行100m)",
+      "distance": "28m"
+    },
+    {
+      "brand": "裕兴记•蟹黄面馆(大世界店)",
+      "address": "金陵东路500号亚龙国际广场1楼106-107A",
+      "distance": "33m"
+    },
+    {
+      "brand": "弄口里烧烤(人民广场店)",
+      "address": "金陵东路500号",
+      "distance": "34m"
+    },
+    {
+      "brand": "锦江都城经典酒店·宴会厅(上海青年会店)",
+      "address": "西藏南路123号(近金陵东路)(大世界地铁站1号口旁)",
+      "distance": "43m"
+    },
+    {
+      "brand": "青隆轩QINGLONGXUAN",
+      "address": "西藏南路123号2楼3单元",
+      "distance": "50m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海广场",
+      "open_date": "2020-09-29",
+      "area": "4万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "大上海时代广场",
+      "open_date": "2000-01-01",
+      "area": "5万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海力宝广场",
+      "open_date": "1999-01-01",
+      "area": "1万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海太平洋新天地商业广场",
+      "open_date": "2025",
+      "area": "8.3万㎡",
+      "jun_daily_avg": "2万人次",
+      "weekday_avg": "2万人次",
+      "holiday_avg": "2.1万人次"
+    },
+    {
+      "name": "上海香港广场",
+      "open_date": "1998-01-01",
+      "area": "3.8万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海迪美购物中心",
+      "open_date": "1995-01-01",
+      "area": "5万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海湖滨道购物中心",
+      "open_date": "2015-01-01",
+      "area": "5.1万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海来福士广场",
+      "open_date": "2003-11-01",
+      "area": "4.6万㎡",
+      "jun_daily_avg": "2.7万人次",
+      "weekday_avg": "2.4万人次",
+      "holiday_avg": "3.3万人次"
+    },
+    {
+      "name": "上海K11",
+      "open_date": "2013-06-01",
+      "area": "13万㎡",
+      "jun_daily_avg": "1.8万人次",
+      "weekday_avg": "1.7万人次",
+      "holiday_avg": "2.1万人次"
+    },
+    {
+      "name": "上海无限极荟",
+      "open_date": "2016-12-03",
+      "area": "3万㎡",
+      "jun_daily_avg": "1.5万人次",
+      "weekday_avg": "1.6万人次",
+      "holiday_avg": "1.2万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 8.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 12.5,
+      "over_3yr_pct": 62.5
+    },
+    {
+      "type": "购物",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    },
+    {
+      "type": "教育培训",
+      "count": 2.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "生活服务",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
+    }
+  ]
+}

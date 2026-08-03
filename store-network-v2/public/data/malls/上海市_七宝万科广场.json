@@ -1,0 +1,446 @@
+{
+  "name": "七宝万科广场",
+  "city": "上海市",
+  "address": "上海市闵行区民主路128号",
+  "lat": 31.154228,
+  "lng": 121.35216,
+  "overview": {
+    "score": 96.5,
+    "score_rank": "市内前30%",
+    "population_score": 91.8,
+    "area_score": 93.0,
+    "consumption_score": 74.6,
+    "industry_score": 96.6,
+    "annual_sales": "35",
+    "annual_sales_unit": "亿元",
+    "area_size_sqm": 14.9,
+    "open_date": "2016-11-19",
+    "operator": "领展资产管理有限公司",
+    "brand": "领展资产管理有限公司",
+    "type": "综合型",
+    "floors": "B2-L6"
+  },
+  "traffic": {
+    "annual_daily": 5.69,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第18",
+    "jun_total": 229.8,
+    "jun_total_rank": "市内商场第16名",
+    "jun_daily_avg": 7.7,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第16名",
+    "weekday_avg": 6.6,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第24名",
+    "holiday_avg": 10.5,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第10名"
+  },
+  "population": {
+    "residential": {
+      "500m": 2.6,
+      "1_5km": 18.2,
+      "3km": 52.9
+    },
+    "office": {
+      "500m": 1.8,
+      "1_5km": 10.7,
+      "3km": 29.8
+    },
+    "permanent": {
+      "500m": 3.4,
+      "1_5km": 18.8,
+      "3km": 52.2
+    }
+  },
+  "business": {
+    "competitors": 11.0,
+    "food": 380.0,
+    "shopping": 455.0,
+    "leisure": 28.0,
+    "education": 29.0,
+    "hotel": 32.0,
+    "services": 218.0,
+    "fitness": 22.0,
+    "auto": 21.0,
+    "total_stores": 366.0,
+    "old_store_3yr_pct": 54.0
+  },
+  "nearby_poi": {
+    "business": 5.0,
+    "community": 299.0,
+    "office": 37.0,
+    "school": 28.0,
+    "hospital": 26.0,
+    "transport": 9.0,
+    "scenic": 142.0
+  },
+  "demographics": {
+    "male_pct": 46.1,
+    "female_pct": null,
+    "education": {
+      "小学": 9.6,
+      "初中": 18.4,
+      "高中": 11.5,
+      "大专": 8.0,
+      "本科": 46.7,
+      "硕士": 4.6,
+      "博士": 1.2
+    },
+    "has_children_pct": 65.7,
+    "no_children_pct": 34.3
+  },
+  "scraped_at": "2026-08-01T04:24:43.265Z",
+  "nearby_restaurants": [
+    {
+      "brand": "丼丼屋(七宝领展广场店)",
+      "address": "漕宝路3366号七宝领展广场B1-137B",
+      "distance": "2m"
+    },
+    {
+      "brand": "淄博麦香烧饼(上海七宝领展广场店)",
+      "address": "漕宝路3366号上海七宝领展广场",
+      "distance": "3m"
+    },
+    {
+      "brand": "俄士厨房(七宝店)",
+      "address": "七宝领展广场4层418B号(七宝地铁站出入口步行250米)",
+      "distance": "4m"
+    },
+    {
+      "brand": "汕心·潮汕甜汤(七宝领展店)",
+      "address": "漕宝路3366号上海七宝领展广场B1层",
+      "distance": "4m"
+    },
+    {
+      "brand": "南里山房(七宝领展广场店)",
+      "address": "漕宝路3366号上海七宝领展广场5F层",
+      "distance": "5m"
+    },
+    {
+      "brand": "留半山·香港厨房(七宝领展广场店)",
+      "address": "漕宝路3366号上海七宝领展广场5F层",
+      "distance": "5m"
+    },
+    {
+      "brand": "姜先生仙仙糕点(七宝领展店)",
+      "address": "漕宝路3366号上海七宝领展广场B1层",
+      "distance": "6m"
+    },
+    {
+      "brand": "山川饺子铺·东北熏酱(七宝领展广场店)",
+      "address": "漕宝路3366号上海七宝领展广场B1层(七宝地铁站出入口旁)",
+      "distance": "6m"
+    },
+    {
+      "brand": "糕小心烘焙坊(万科店)",
+      "address": "七宝镇漕宝路3366号七宝万科广场2楼F-209号",
+      "distance": "6m"
+    },
+    {
+      "brand": "恰嘎·江西菜(七宝领展店)",
+      "address": "漕宝路与七莘路交叉口东180米",
+      "distance": "8m"
+    },
+    {
+      "brand": "丼丼屋(七宝领展广场店)",
+      "address": "漕宝路3366号七宝领展广场B1-137B",
+      "distance": "2m"
+    },
+    {
+      "brand": "淄博麦香烧饼(上海七宝领展广场店)",
+      "address": "漕宝路3366号上海七宝领展广场",
+      "distance": "3m"
+    },
+    {
+      "brand": "俄士厨房(七宝店)",
+      "address": "七宝领展广场4层418B号(七宝地铁站出入口步行250米)",
+      "distance": "4m"
+    },
+    {
+      "brand": "汕心·潮汕甜汤(七宝领展店)",
+      "address": "漕宝路3366号上海七宝领展广场B1层",
+      "distance": "4m"
+    },
+    {
+      "brand": "南里山房(七宝领展广场店)",
+      "address": "漕宝路3366号上海七宝领展广场5F层",
+      "distance": "5m"
+    },
+    {
+      "brand": "留半山·香港厨房(七宝领展广场店)",
+      "address": "漕宝路3366号上海七宝领展广场5F层",
+      "distance": "5m"
+    },
+    {
+      "brand": "姜先生仙仙糕点(七宝领展店)",
+      "address": "漕宝路3366号上海七宝领展广场B1层",
+      "distance": "6m"
+    },
+    {
+      "brand": "山川饺子铺·东北熏酱(七宝领展广场店)",
+      "address": "漕宝路3366号上海七宝领展广场B1层(七宝地铁站出入口旁)",
+      "distance": "6m"
+    },
+    {
+      "brand": "糕小心烘焙坊(万科店)",
+      "address": "七宝镇漕宝路3366号七宝万科广场2楼F-209号",
+      "distance": "6m"
+    },
+    {
+      "brand": "恰嘎·江西菜(七宝领展店)",
+      "address": "漕宝路与七莘路交叉口东180米",
+      "distance": "8m"
+    },
+    {
+      "brand": "丼丼屋(七宝领展广场店)",
+      "address": "漕宝路3366号七宝领展广场B1-137B",
+      "distance": "2m"
+    },
+    {
+      "brand": "淄博麦香烧饼(上海七宝领展广场店)",
+      "address": "漕宝路3366号上海七宝领展广场",
+      "distance": "3m"
+    },
+    {
+      "brand": "俄士厨房(七宝店)",
+      "address": "七宝领展广场4层418B号(七宝地铁站出入口步行250米)",
+      "distance": "4m"
+    },
+    {
+      "brand": "汕心·潮汕甜汤(七宝领展店)",
+      "address": "漕宝路3366号上海七宝领展广场B1层",
+      "distance": "4m"
+    },
+    {
+      "brand": "南里山房(七宝领展广场店)",
+      "address": "漕宝路3366号上海七宝领展广场5F层",
+      "distance": "5m"
+    },
+    {
+      "brand": "留半山·香港厨房(七宝领展广场店)",
+      "address": "漕宝路3366号上海七宝领展广场5F层",
+      "distance": "5m"
+    },
+    {
+      "brand": "姜先生仙仙糕点(七宝领展店)",
+      "address": "漕宝路3366号上海七宝领展广场B1层",
+      "distance": "6m"
+    },
+    {
+      "brand": "山川饺子铺·东北熏酱(七宝领展广场店)",
+      "address": "漕宝路3366号上海七宝领展广场B1层(七宝地铁站出入口旁)",
+      "distance": "6m"
+    },
+    {
+      "brand": "糕小心烘焙坊(万科店)",
+      "address": "七宝镇漕宝路3366号七宝万科广场2楼F-209号",
+      "distance": "6m"
+    },
+    {
+      "brand": "恰嘎·江西菜(七宝领展店)",
+      "address": "漕宝路与七莘路交叉口东180米",
+      "distance": "8m"
+    },
+    {
+      "brand": "丼丼屋(七宝领展广场店)",
+      "address": "漕宝路3366号七宝领展广场B1-137B",
+      "distance": "2m"
+    },
+    {
+      "brand": "淄博麦香烧饼(上海七宝领展广场店)",
+      "address": "漕宝路3366号上海七宝领展广场",
+      "distance": "3m"
+    },
+    {
+      "brand": "俄士厨房(七宝店)",
+      "address": "七宝领展广场4层418B号(七宝地铁站出入口步行250米)",
+      "distance": "4m"
+    },
+    {
+      "brand": "汕心·潮汕甜汤(七宝领展店)",
+      "address": "漕宝路3366号上海七宝领展广场B1层",
+      "distance": "4m"
+    },
+    {
+      "brand": "南里山房(七宝领展广场店)",
+      "address": "漕宝路3366号上海七宝领展广场5F层",
+      "distance": "5m"
+    },
+    {
+      "brand": "留半山·香港厨房(七宝领展广场店)",
+      "address": "漕宝路3366号上海七宝领展广场5F层",
+      "distance": "5m"
+    },
+    {
+      "brand": "姜先生仙仙糕点(七宝领展店)",
+      "address": "漕宝路3366号上海七宝领展广场B1层",
+      "distance": "6m"
+    },
+    {
+      "brand": "山川饺子铺·东北熏酱(七宝领展广场店)",
+      "address": "漕宝路3366号上海七宝领展广场B1层(七宝地铁站出入口旁)",
+      "distance": "6m"
+    },
+    {
+      "brand": "糕小心烘焙坊(万科店)",
+      "address": "七宝镇漕宝路3366号七宝万科广场2楼F-209号",
+      "distance": "6m"
+    },
+    {
+      "brand": "恰嘎·江西菜(七宝领展店)",
+      "address": "漕宝路与七莘路交叉口东180米",
+      "distance": "8m"
+    },
+    {
+      "brand": "丼丼屋(七宝领展广场店)",
+      "address": "漕宝路3366号七宝领展广场B1-137B",
+      "distance": "2m"
+    },
+    {
+      "brand": "淄博麦香烧饼(上海七宝领展广场店)",
+      "address": "漕宝路3366号上海七宝领展广场",
+      "distance": "3m"
+    },
+    {
+      "brand": "俄士厨房(七宝店)",
+      "address": "七宝领展广场4层418B号(七宝地铁站出入口步行250米)",
+      "distance": "4m"
+    },
+    {
+      "brand": "汕心·潮汕甜汤(七宝领展店)",
+      "address": "漕宝路3366号上海七宝领展广场B1层",
+      "distance": "4m"
+    },
+    {
+      "brand": "南里山房(七宝领展广场店)",
+      "address": "漕宝路3366号上海七宝领展广场5F层",
+      "distance": "5m"
+    },
+    {
+      "brand": "留半山·香港厨房(七宝领展广场店)",
+      "address": "漕宝路3366号上海七宝领展广场5F层",
+      "distance": "5m"
+    },
+    {
+      "brand": "姜先生仙仙糕点(七宝领展店)",
+      "address": "漕宝路3366号上海七宝领展广场B1层",
+      "distance": "6m"
+    },
+    {
+      "brand": "山川饺子铺·东北熏酱(七宝领展广场店)",
+      "address": "漕宝路3366号上海七宝领展广场B1层(七宝地铁站出入口旁)",
+      "distance": "6m"
+    },
+    {
+      "brand": "糕小心烘焙坊(万科店)",
+      "address": "七宝镇漕宝路3366号七宝万科广场2楼F-209号",
+      "distance": "6m"
+    },
+    {
+      "brand": "恰嘎·江西菜(七宝领展店)",
+      "address": "漕宝路与七莘路交叉口东180米",
+      "distance": "8m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海汇宝购物广场",
+      "open_date": "2007-09-21",
+      "area": "2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海七宝宝龙城",
+      "open_date": "2016-10-12",
+      "area": "15万㎡",
+      "jun_daily_avg": "4.9万人次",
+      "weekday_avg": "4.6万人次",
+      "holiday_avg": "5.7万人次"
+    },
+    {
+      "name": "上海融信上坤中心先番城",
+      "open_date": "2021-10-29",
+      "area": "3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海华商时代广场",
+      "open_date": "2009",
+      "area": "13万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海顺恒国际商业广场",
+      "open_date": "2010-01-01",
+      "area": "11万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 134.0,
+      "within_1yr_pct": 14.2,
+      "1_3yr_pct": 30.6,
+      "over_3yr_pct": 55.2
+    },
+    {
+      "type": "购物",
+      "count": 179.0,
+      "within_1yr_pct": 11.2,
+      "1_3yr_pct": 35.2,
+      "over_3yr_pct": 53.6
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 10.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 20.0,
+      "over_3yr_pct": 60.0
+    },
+    {
+      "type": "教育培训",
+      "count": 4.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 75.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "生活服务",
+      "count": 21.0,
+      "within_1yr_pct": 19.0,
+      "1_3yr_pct": 23.8,
+      "over_3yr_pct": 57.1
+    },
+    {
+      "type": "运动健身",
+      "count": 5.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 80.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 12.0,
+      "within_1yr_pct": 8.3,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 41.7
+    }
+  ]
+}

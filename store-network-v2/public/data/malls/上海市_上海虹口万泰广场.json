@@ -1,0 +1,431 @@
+{
+  "name": "上海虹口万泰广场",
+  "city": "上海市",
+  "address": "上海市虹口区凉城新村街道海虹商业广场万泰广场",
+  "lat": 31.283598,
+  "lng": 121.475046,
+  "overview": {
+    "score": 87.1,
+    "score_rank": "市内前30%",
+    "population_score": 94.3,
+    "area_score": 70.6,
+    "consumption_score": 72.1,
+    "industry_score": 87.1,
+    "annual_sales": "万泰广场位于虹口区凉城新村街道的核心地段，商业面积约6万平方米，集餐饮、购物、休闲、娱乐、酒店为一体，为居民提供“全天候、一站式”购物体验",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 6.0,
+    "open_date": "2021-08-28",
+    "operator": "上海欣业万泰商业管理有限公司",
+    "brand": "",
+    "type": "综合型",
+    "floors": "L1-L6"
+  },
+  "traffic": {
+    "annual_daily": 2384.0,
+    "annual_daily_unit": "人次",
+    "annual_daily_rank": "市内第463",
+    "jun_total": 13.6,
+    "jun_total_rank": "市内商场第439名",
+    "jun_daily_avg": 4526.0,
+    "jun_daily_unit": "人次",
+    "jun_daily_rank": "市内商场第439名",
+    "weekday_avg": 4322.0,
+    "weekday_unit": "人次",
+    "weekday_rank": "市内商场第445名",
+    "holiday_avg": 5088.0,
+    "holiday_unit": "人次",
+    "holiday_rank": "市内商场第436名"
+  },
+  "population": {
+    "residential": {
+      "500m": 2.9,
+      "1_5km": 27.6,
+      "3km": 109.9
+    },
+    "office": {
+      "500m": 1.2,
+      "1_5km": 14.2,
+      "3km": 59.0
+    },
+    "permanent": {
+      "500m": 3.0,
+      "1_5km": 29.6,
+      "3km": 112.5
+    }
+  },
+  "business": {
+    "competitors": null,
+    "food": 92.0,
+    "shopping": 69.0,
+    "leisure": 9.0,
+    "education": 13.0,
+    "hotel": 15.0,
+    "services": 66.0,
+    "fitness": 11.0,
+    "auto": 7.0,
+    "total_stores": 66.0,
+    "old_store_3yr_pct": 50.0
+  },
+  "nearby_poi": {
+    "business": 4.0,
+    "community": 782.0,
+    "office": 87.0,
+    "school": 66.0,
+    "hospital": 98.0,
+    "transport": 10.0,
+    "scenic": 212.0
+  },
+  "demographics": {
+    "male_pct": 47.1,
+    "female_pct": null,
+    "education": {
+      "小学": 9.2,
+      "初中": 18.4,
+      "高中": 12.4,
+      "大专": 7.0,
+      "本科": 46.6,
+      "硕士": 4.7,
+      "博士": 1.7
+    },
+    "has_children_pct": 59.4,
+    "no_children_pct": 40.6
+  },
+  "scraped_at": "2026-07-31T17:27:11.633Z",
+  "nearby_restaurants": [
+    {
+      "brand": "1点点(万泰广场店)",
+      "address": "广灵二路259号万泰商业广场一楼",
+      "distance": "8m"
+    },
+    {
+      "brand": "瑞幸咖啡(万泰广场店)",
+      "address": "广灵二路259号万泰广场一层1058室",
+      "distance": "8m"
+    },
+    {
+      "brand": "粤鲜啫啫煲&土鸡火锅",
+      "address": "凉城新村街道万泰广场2楼",
+      "distance": "17m"
+    },
+    {
+      "brand": "吉祥馄饨(万泰广场店)",
+      "address": "广灵二路277号天虹国际广场F1",
+      "distance": "20m"
+    },
+    {
+      "brand": "成都你六姐·牛肉冒菜(上海万泰广场店)",
+      "address": "广灵二路259号万泰广场一楼1018",
+      "distance": "26m"
+    },
+    {
+      "brand": "糖小鱿(万泰广场店)",
+      "address": "广灵二路265号万泰广场F1层",
+      "distance": "27m"
+    },
+    {
+      "brand": "陈香贵·兰州牛肉面(上海虹口万泰广场店)",
+      "address": "广灵二路265号1层地铁3号线赤峰路站步行850米",
+      "distance": "29m"
+    },
+    {
+      "brand": "小菜园新徽菜(上海虹口天虹万泰店)",
+      "address": "广灵二路259号上海天虹万泰广场2F2015商铺",
+      "distance": "31m"
+    },
+    {
+      "brand": "萨莉亚意式餐厅(万泰广场店)",
+      "address": "广灵二路259号万泰广场F2",
+      "distance": "33m"
+    },
+    {
+      "brand": "明小馆(万泰广场店)",
+      "address": "广灵二路265号万泰广场5层",
+      "distance": "36m"
+    },
+    {
+      "brand": "1点点(万泰广场店)",
+      "address": "广灵二路259号万泰商业广场一楼",
+      "distance": "8m"
+    },
+    {
+      "brand": "瑞幸咖啡(万泰广场店)",
+      "address": "广灵二路259号万泰广场一层1058室",
+      "distance": "8m"
+    },
+    {
+      "brand": "粤鲜啫啫煲&土鸡火锅",
+      "address": "凉城新村街道万泰广场2楼",
+      "distance": "17m"
+    },
+    {
+      "brand": "吉祥馄饨(万泰广场店)",
+      "address": "广灵二路277号天虹国际广场F1",
+      "distance": "20m"
+    },
+    {
+      "brand": "成都你六姐·牛肉冒菜(上海万泰广场店)",
+      "address": "广灵二路259号万泰广场一楼1018",
+      "distance": "26m"
+    },
+    {
+      "brand": "糖小鱿(万泰广场店)",
+      "address": "广灵二路265号万泰广场F1层",
+      "distance": "27m"
+    },
+    {
+      "brand": "陈香贵·兰州牛肉面(上海虹口万泰广场店)",
+      "address": "广灵二路265号1层地铁3号线赤峰路站步行850米",
+      "distance": "29m"
+    },
+    {
+      "brand": "小菜园新徽菜(上海虹口天虹万泰店)",
+      "address": "广灵二路259号上海天虹万泰广场2F2015商铺",
+      "distance": "31m"
+    },
+    {
+      "brand": "萨莉亚意式餐厅(万泰广场店)",
+      "address": "广灵二路259号万泰广场F2",
+      "distance": "33m"
+    },
+    {
+      "brand": "明小馆(万泰广场店)",
+      "address": "广灵二路265号万泰广场5层",
+      "distance": "36m"
+    },
+    {
+      "brand": "1点点(万泰广场店)",
+      "address": "广灵二路259号万泰商业广场一楼",
+      "distance": "8m"
+    },
+    {
+      "brand": "瑞幸咖啡(万泰广场店)",
+      "address": "广灵二路259号万泰广场一层1058室",
+      "distance": "8m"
+    },
+    {
+      "brand": "粤鲜啫啫煲&土鸡火锅",
+      "address": "凉城新村街道万泰广场2楼",
+      "distance": "17m"
+    },
+    {
+      "brand": "吉祥馄饨(万泰广场店)",
+      "address": "广灵二路277号天虹国际广场F1",
+      "distance": "20m"
+    },
+    {
+      "brand": "成都你六姐·牛肉冒菜(上海万泰广场店)",
+      "address": "广灵二路259号万泰广场一楼1018",
+      "distance": "26m"
+    },
+    {
+      "brand": "糖小鱿(万泰广场店)",
+      "address": "广灵二路265号万泰广场F1层",
+      "distance": "27m"
+    },
+    {
+      "brand": "陈香贵·兰州牛肉面(上海虹口万泰广场店)",
+      "address": "广灵二路265号1层地铁3号线赤峰路站步行850米",
+      "distance": "29m"
+    },
+    {
+      "brand": "小菜园新徽菜(上海虹口天虹万泰店)",
+      "address": "广灵二路259号上海天虹万泰广场2F2015商铺",
+      "distance": "31m"
+    },
+    {
+      "brand": "萨莉亚意式餐厅(万泰广场店)",
+      "address": "广灵二路259号万泰广场F2",
+      "distance": "33m"
+    },
+    {
+      "brand": "明小馆(万泰广场店)",
+      "address": "广灵二路265号万泰广场5层",
+      "distance": "36m"
+    },
+    {
+      "brand": "1点点(万泰广场店)",
+      "address": "广灵二路259号万泰商业广场一楼",
+      "distance": "8m"
+    },
+    {
+      "brand": "瑞幸咖啡(万泰广场店)",
+      "address": "广灵二路259号万泰广场一层1058室",
+      "distance": "8m"
+    },
+    {
+      "brand": "粤鲜啫啫煲&土鸡火锅",
+      "address": "凉城新村街道万泰广场2楼",
+      "distance": "17m"
+    },
+    {
+      "brand": "吉祥馄饨(万泰广场店)",
+      "address": "广灵二路277号天虹国际广场F1",
+      "distance": "20m"
+    },
+    {
+      "brand": "成都你六姐·牛肉冒菜(上海万泰广场店)",
+      "address": "广灵二路259号万泰广场一楼1018",
+      "distance": "26m"
+    },
+    {
+      "brand": "糖小鱿(万泰广场店)",
+      "address": "广灵二路265号万泰广场F1层",
+      "distance": "27m"
+    },
+    {
+      "brand": "陈香贵·兰州牛肉面(上海虹口万泰广场店)",
+      "address": "广灵二路265号1层地铁3号线赤峰路站步行850米",
+      "distance": "29m"
+    },
+    {
+      "brand": "小菜园新徽菜(上海虹口天虹万泰店)",
+      "address": "广灵二路259号上海天虹万泰广场2F2015商铺",
+      "distance": "31m"
+    },
+    {
+      "brand": "萨莉亚意式餐厅(万泰广场店)",
+      "address": "广灵二路259号万泰广场F2",
+      "distance": "33m"
+    },
+    {
+      "brand": "明小馆(万泰广场店)",
+      "address": "广灵二路265号万泰广场5层",
+      "distance": "36m"
+    },
+    {
+      "brand": "1点点(万泰广场店)",
+      "address": "广灵二路259号万泰商业广场一楼",
+      "distance": "8m"
+    },
+    {
+      "brand": "瑞幸咖啡(万泰广场店)",
+      "address": "广灵二路259号万泰广场一层1058室",
+      "distance": "8m"
+    },
+    {
+      "brand": "粤鲜啫啫煲&土鸡火锅",
+      "address": "凉城新村街道万泰广场2楼",
+      "distance": "17m"
+    },
+    {
+      "brand": "吉祥馄饨(万泰广场店)",
+      "address": "广灵二路277号天虹国际广场F1",
+      "distance": "20m"
+    },
+    {
+      "brand": "成都你六姐·牛肉冒菜(上海万泰广场店)",
+      "address": "广灵二路259号万泰广场一楼1018",
+      "distance": "26m"
+    },
+    {
+      "brand": "糖小鱿(万泰广场店)",
+      "address": "广灵二路265号万泰广场F1层",
+      "distance": "27m"
+    },
+    {
+      "brand": "陈香贵·兰州牛肉面(上海虹口万泰广场店)",
+      "address": "广灵二路265号1层地铁3号线赤峰路站步行850米",
+      "distance": "29m"
+    },
+    {
+      "brand": "小菜园新徽菜(上海虹口天虹万泰店)",
+      "address": "广灵二路259号上海天虹万泰广场2F2015商铺",
+      "distance": "31m"
+    },
+    {
+      "brand": "萨莉亚意式餐厅(万泰广场店)",
+      "address": "广灵二路259号万泰广场F2",
+      "distance": "33m"
+    },
+    {
+      "brand": "明小馆(万泰广场店)",
+      "address": "广灵二路265号万泰广场5层",
+      "distance": "36m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海虹口今雨荟",
+      "open_date": "2025-01-01",
+      "area": "7万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海凉城购物中心",
+      "open_date": "2021-01-01",
+      "area": "5万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海凯德虹口商业中心",
+      "open_date": "2010-01-01",
+      "area": "17.3万㎡",
+      "jun_daily_avg": "7.5万人次",
+      "weekday_avg": "7.1万人次",
+      "holiday_avg": "8.8万人次"
+    },
+    {
+      "name": "上海百联莘荟购物中心",
+      "open_date": "2021-05-01",
+      "area": "3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 26.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 34.6,
+      "over_3yr_pct": 65.4
+    },
+    {
+      "type": "购物",
+      "count": 17.0,
+      "within_1yr_pct": 17.6,
+      "1_3yr_pct": 41.2,
+      "over_3yr_pct": 41.2
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 4.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 75.0,
+      "over_3yr_pct": 25.0
+    },
+    {
+      "type": "教育培训",
+      "count": 6.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 33.3
+    },
+    {
+      "type": "生活服务",
+      "count": 8.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "运动健身",
+      "count": 4.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
+    }
+  ]
+}

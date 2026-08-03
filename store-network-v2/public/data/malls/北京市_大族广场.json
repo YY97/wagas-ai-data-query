@@ -1,0 +1,398 @@
+{
+  "name": "大族广场",
+  "city": "北京市",
+  "address": "北京市大兴区荣华南路2号",
+  "lat": 39.792009,
+  "lng": 116.512694,
+  "overview": {
+    "score": 94.5,
+    "score_rank": "市内前30%",
+    "population_score": 70.6,
+    "area_score": 83.4,
+    "consumption_score": 78.8,
+    "industry_score": 94.7,
+    "annual_sales": "大族广场位于北京经济技术开发区核心商圈荣华路，由荷兰鹿特丹缤纷市场设计师HANS VAN DALEN主持设计，秉持自然与未来和谐共生理念，倡导乐活、有机、绿色环保的生活方式，传递生活美学。大族广场Mall&More汇集众多知名优质品牌，集购物、餐饮、娱乐、文化于一体，丰富的业态品类为消费者提供城市生活的第三空间感受。大族广场地处亦庄中心，拥有完善的周边配套设施，半径1公里内拥有6大星级国际酒店，1家国际会展中心，1家会议中心。",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 6.5,
+    "open_date": "2018-05-26",
+    "operator": "大族环球科技股份有限公司",
+    "brand": "",
+    "type": "综合型",
+    "floors": "B1-L4"
+  },
+  "traffic": {
+    "annual_daily": 3.66,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第48",
+    "jun_total": 183.4,
+    "jun_total_rank": "市内商场第29名",
+    "jun_daily_avg": 6.1,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第29名",
+    "weekday_avg": 5.8,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第21名",
+    "holiday_avg": 6.9,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第38名"
+  },
+  "population": {
+    "residential": {
+      "500m": 7000.0,
+      "1_5km": 4.5,
+      "3km": 21.0
+    },
+    "office": {
+      "500m": 2.2,
+      "1_5km": 11.8,
+      "3km": 27.1
+    },
+    "permanent": {
+      "500m": 1.2,
+      "1_5km": 5.8,
+      "3km": 21.7
+    }
+  },
+  "business": {
+    "competitors": 6.0,
+    "food": 97.0,
+    "shopping": 94.0,
+    "leisure": 16.0,
+    "education": 30.0,
+    "hotel": 27.0,
+    "services": 132.0,
+    "fitness": 16.0,
+    "auto": 21.0,
+    "total_stores": 149.0,
+    "old_store_3yr_pct": 59.0
+  },
+  "nearby_poi": {
+    "business": null,
+    "community": 94.0,
+    "office": 95.0,
+    "school": 2.0,
+    "hospital": 29.0,
+    "transport": 6.0,
+    "scenic": 54.0
+  },
+  "demographics": {
+    "male_pct": 49.4,
+    "female_pct": null,
+    "education": {
+      "小学": 9.8,
+      "初中": 17.6,
+      "高中": 11.4,
+      "大专": 8.0,
+      "本科": 46.0,
+      "硕士": 6.0,
+      "博士": 1.2
+    },
+    "has_children_pct": 58.5,
+    "no_children_pct": 41.5
+  },
+  "scraped_at": "2026-08-01T04:56:27.766Z",
+  "nearby_restaurants": [
+    {
+      "brand": "满记甜品(大族广场Mall&More店)",
+      "address": "北京城区荣华南路2号大族广场购物中心F2361",
+      "distance": "32m"
+    },
+    {
+      "brand": "壹霖•洱语云南菜(大族广场店)",
+      "address": "大族广场3层11-12(荣京东街地铁站B1南口步行120米)",
+      "distance": "32m"
+    },
+    {
+      "brand": "黑马小灶",
+      "address": "北京经济技术开发区荣华南路2号院8号楼3层F3-05室",
+      "distance": "35m"
+    },
+    {
+      "brand": "川阪辣麺(大族广场店)",
+      "address": "北京城区荣华南路2号院(荣京东街地铁站B1南口步行170米)",
+      "distance": "47m"
+    },
+    {
+      "brand": "珍滋味海鲜火锅(大族广场Mall&More店)",
+      "address": "北京城区大族广场T5楼1层(荣京东街地铁站B1南口步行130米)",
+      "distance": "52m"
+    },
+    {
+      "brand": "Peet's皮爷咖啡(大族广场店)",
+      "address": "荣华南路2号大族广场Mall&More F1层-25号",
+      "distance": "57m"
+    },
+    {
+      "brand": "KŌNG胶东小馆(大族广场店)",
+      "address": "经济技术开发区荣华南路2号院10号楼一层F1-43号",
+      "distance": "61m"
+    },
+    {
+      "brand": "馋嘴猫·北京食堂(大族广场店)",
+      "address": "荣华南路2号院大族广场1层1F-39",
+      "distance": "67m"
+    },
+    {
+      "brand": "造务龙牌点心(大族广场Mall&More店)",
+      "address": "荣华南路2号大族广场Mall&More F1层",
+      "distance": "70m"
+    },
+    {
+      "brand": "长安记·大美陕菜(大族广场店)",
+      "address": "荣华南路2号大族广场Mall&MoreF3层",
+      "distance": "74m"
+    },
+    {
+      "brand": "满记甜品(大族广场Mall&More店)",
+      "address": "北京城区荣华南路2号大族广场购物中心F2361",
+      "distance": "32m"
+    },
+    {
+      "brand": "壹霖•洱语云南菜(大族广场店)",
+      "address": "大族广场3层11-12(荣京东街地铁站B1南口步行120米)",
+      "distance": "32m"
+    },
+    {
+      "brand": "黑马小灶",
+      "address": "北京经济技术开发区荣华南路2号院8号楼3层F3-05室",
+      "distance": "35m"
+    },
+    {
+      "brand": "川阪辣麺(大族广场店)",
+      "address": "北京城区荣华南路2号院(荣京东街地铁站B1南口步行170米)",
+      "distance": "47m"
+    },
+    {
+      "brand": "珍滋味海鲜火锅(大族广场Mall&More店)",
+      "address": "北京城区大族广场T5楼1层(荣京东街地铁站B1南口步行130米)",
+      "distance": "52m"
+    },
+    {
+      "brand": "Peet's皮爷咖啡(大族广场店)",
+      "address": "荣华南路2号大族广场Mall&More F1层-25号",
+      "distance": "57m"
+    },
+    {
+      "brand": "KŌNG胶东小馆(大族广场店)",
+      "address": "经济技术开发区荣华南路2号院10号楼一层F1-43号",
+      "distance": "61m"
+    },
+    {
+      "brand": "馋嘴猫·北京食堂(大族广场店)",
+      "address": "荣华南路2号院大族广场1层1F-39",
+      "distance": "67m"
+    },
+    {
+      "brand": "造务龙牌点心(大族广场Mall&More店)",
+      "address": "荣华南路2号大族广场Mall&More F1层",
+      "distance": "70m"
+    },
+    {
+      "brand": "长安记·大美陕菜(大族广场店)",
+      "address": "荣华南路2号大族广场Mall&MoreF3层",
+      "distance": "74m"
+    },
+    {
+      "brand": "满记甜品(大族广场Mall&More店)",
+      "address": "北京城区荣华南路2号大族广场购物中心F2361",
+      "distance": "32m"
+    },
+    {
+      "brand": "壹霖•洱语云南菜(大族广场店)",
+      "address": "大族广场3层11-12(荣京东街地铁站B1南口步行120米)",
+      "distance": "32m"
+    },
+    {
+      "brand": "黑马小灶",
+      "address": "北京经济技术开发区荣华南路2号院8号楼3层F3-05室",
+      "distance": "35m"
+    },
+    {
+      "brand": "川阪辣麺(大族广场店)",
+      "address": "北京城区荣华南路2号院(荣京东街地铁站B1南口步行170米)",
+      "distance": "47m"
+    },
+    {
+      "brand": "珍滋味海鲜火锅(大族广场Mall&More店)",
+      "address": "北京城区大族广场T5楼1层(荣京东街地铁站B1南口步行130米)",
+      "distance": "52m"
+    },
+    {
+      "brand": "Peet's皮爷咖啡(大族广场店)",
+      "address": "荣华南路2号大族广场Mall&More F1层-25号",
+      "distance": "57m"
+    },
+    {
+      "brand": "KŌNG胶东小馆(大族广场店)",
+      "address": "经济技术开发区荣华南路2号院10号楼一层F1-43号",
+      "distance": "61m"
+    },
+    {
+      "brand": "馋嘴猫·北京食堂(大族广场店)",
+      "address": "荣华南路2号院大族广场1层1F-39",
+      "distance": "67m"
+    },
+    {
+      "brand": "造务龙牌点心(大族广场Mall&More店)",
+      "address": "荣华南路2号大族广场Mall&More F1层",
+      "distance": "70m"
+    },
+    {
+      "brand": "长安记·大美陕菜(大族广场店)",
+      "address": "荣华南路2号大族广场Mall&MoreF3层",
+      "distance": "74m"
+    },
+    {
+      "brand": "满记甜品(大族广场Mall&More店)",
+      "address": "北京城区荣华南路2号大族广场购物中心F2361",
+      "distance": "32m"
+    },
+    {
+      "brand": "壹霖•洱语云南菜(大族广场店)",
+      "address": "大族广场3层11-12(荣京东街地铁站B1南口步行120米)",
+      "distance": "32m"
+    },
+    {
+      "brand": "黑马小灶",
+      "address": "北京经济技术开发区荣华南路2号院8号楼3层F3-05室",
+      "distance": "35m"
+    },
+    {
+      "brand": "川阪辣麺(大族广场店)",
+      "address": "北京城区荣华南路2号院(荣京东街地铁站B1南口步行170米)",
+      "distance": "47m"
+    },
+    {
+      "brand": "珍滋味海鲜火锅(大族广场Mall&More店)",
+      "address": "北京城区大族广场T5楼1层(荣京东街地铁站B1南口步行130米)",
+      "distance": "52m"
+    },
+    {
+      "brand": "Peet's皮爷咖啡(大族广场店)",
+      "address": "荣华南路2号大族广场Mall&More F1层-25号",
+      "distance": "57m"
+    },
+    {
+      "brand": "KŌNG胶东小馆(大族广场店)",
+      "address": "经济技术开发区荣华南路2号院10号楼一层F1-43号",
+      "distance": "61m"
+    },
+    {
+      "brand": "馋嘴猫·北京食堂(大族广场店)",
+      "address": "荣华南路2号院大族广场1层1F-39",
+      "distance": "67m"
+    },
+    {
+      "brand": "造务龙牌点心(大族广场Mall&More店)",
+      "address": "荣华南路2号大族广场Mall&More F1层",
+      "distance": "70m"
+    },
+    {
+      "brand": "长安记·大美陕菜(大族广场店)",
+      "address": "荣华南路2号大族广场Mall&MoreF3层",
+      "distance": "74m"
+    },
+    {
+      "brand": "满记甜品(大族广场Mall&More店)",
+      "address": "北京城区荣华南路2号大族广场购物中心F2361",
+      "distance": "32m"
+    },
+    {
+      "brand": "壹霖•洱语云南菜(大族广场店)",
+      "address": "大族广场3层11-12(荣京东街地铁站B1南口步行120米)",
+      "distance": "32m"
+    },
+    {
+      "brand": "黑马小灶",
+      "address": "北京经济技术开发区荣华南路2号院8号楼3层F3-05室",
+      "distance": "35m"
+    },
+    {
+      "brand": "川阪辣麺(大族广场店)",
+      "address": "北京城区荣华南路2号院(荣京东街地铁站B1南口步行170米)",
+      "distance": "47m"
+    },
+    {
+      "brand": "珍滋味海鲜火锅(大族广场Mall&More店)",
+      "address": "北京城区大族广场T5楼1层(荣京东街地铁站B1南口步行130米)",
+      "distance": "52m"
+    },
+    {
+      "brand": "Peet's皮爷咖啡(大族广场店)",
+      "address": "荣华南路2号大族广场Mall&More F1层-25号",
+      "distance": "57m"
+    },
+    {
+      "brand": "KŌNG胶东小馆(大族广场店)",
+      "address": "经济技术开发区荣华南路2号院10号楼一层F1-43号",
+      "distance": "61m"
+    },
+    {
+      "brand": "馋嘴猫·北京食堂(大族广场店)",
+      "address": "荣华南路2号院大族广场1层1F-39",
+      "distance": "67m"
+    },
+    {
+      "brand": "造务龙牌点心(大族广场Mall&More店)",
+      "address": "荣华南路2号大族广场Mall&More F1层",
+      "distance": "70m"
+    },
+    {
+      "brand": "长安记·大美陕菜(大族广场店)",
+      "address": "荣华南路2号大族广场Mall&MoreF3层",
+      "distance": "74m"
+    }
+  ],
+  "nearby_malls": [],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 57.0,
+      "within_1yr_pct": 8.8,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 57.9
+    },
+    {
+      "type": "购物",
+      "count": 52.0,
+      "within_1yr_pct": 9.6,
+      "1_3yr_pct": 21.2,
+      "over_3yr_pct": 69.2
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 7.0,
+      "within_1yr_pct": 28.6,
+      "1_3yr_pct": 14.3,
+      "over_3yr_pct": 57.1
+    },
+    {
+      "type": "教育培训",
+      "count": 7.0,
+      "within_1yr_pct": 14.3,
+      "1_3yr_pct": 14.3,
+      "over_3yr_pct": 71.4
+    },
+    {
+      "type": "生活服务",
+      "count": 19.0,
+      "within_1yr_pct": 26.3,
+      "1_3yr_pct": 31.6,
+      "over_3yr_pct": 42.1
+    },
+    {
+      "type": "运动健身",
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 5.0,
+      "within_1yr_pct": 60.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 40.0
+    }
+  ]
+}

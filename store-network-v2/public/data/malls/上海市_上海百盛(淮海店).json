@@ -1,0 +1,472 @@
+{
+  "name": "上海百盛(淮海店)",
+  "city": "上海市",
+  "address": "上海市徐汇区湖南路街道淮海中路999号环贸iapm商场",
+  "lat": 31.215619,
+  "lng": 121.458078,
+  "overview": {
+    "score": 95.2,
+    "score_rank": "市内前30%",
+    "population_score": 87.6,
+    "area_score": 100.0,
+    "consumption_score": 90.3,
+    "industry_score": 95.2,
+    "annual_sales": "上海环贸iapm是上海首个主打“夜间购物消费”概念的“夜行商场”，，汇聚逾244个国内外高端潮流品牌，其中一成是首次进驻中国市场，更有一成半为首度进驻上海，为追求高端时尚品味的顾客提供最新、最潮的多元化购物体验",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 12.0,
+    "open_date": "2013-08-01",
+    "operator": "新鸿基有限公司",
+    "brand": "新鸿基有限公司",
+    "type": "购物型",
+    "floors": "B2-L6"
+  },
+  "traffic": {
+    "annual_daily": 3.51,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第68",
+    "jun_total": 187.5,
+    "jun_total_rank": "市内商场第42名",
+    "jun_daily_avg": 6.3,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第42名",
+    "weekday_avg": 5.9,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第38名",
+    "holiday_avg": 7.3,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第48名"
+  },
+  "population": {
+    "residential": {
+      "500m": 2.1,
+      "1_5km": 19.1,
+      "3km": 100.4
+    },
+    "office": {
+      "500m": 3.4,
+      "1_5km": 26.0,
+      "3km": 107.7
+    },
+    "permanent": {
+      "500m": 3.0,
+      "1_5km": 25.1,
+      "3km": 117.2
+    }
+  },
+  "business": {
+    "competitors": 8.0,
+    "food": 396.0,
+    "shopping": 549.0,
+    "leisure": 34.0,
+    "education": 39.0,
+    "hotel": 128.0,
+    "services": 252.0,
+    "fitness": 29.0,
+    "auto": 32.0,
+    "total_stores": 282.0,
+    "old_store_3yr_pct": 55.0
+  },
+  "nearby_poi": {
+    "business": 22.0,
+    "community": 1366.0,
+    "office": 147.0,
+    "school": 87.0,
+    "hospital": 233.0,
+    "transport": 10.0,
+    "scenic": 781.0
+  },
+  "demographics": {
+    "male_pct": 46.9,
+    "female_pct": null,
+    "education": {
+      "小学": 8.7,
+      "初中": 16.0,
+      "高中": 11.3,
+      "大专": 6.7,
+      "本科": 49.0,
+      "硕士": 6.4,
+      "博士": 1.9
+    },
+    "has_children_pct": 56.4,
+    "no_children_pct": 43.6
+  },
+  "scraped_at": "2026-07-31T17:05:22.258Z",
+  "nearby_restaurants": [
+    {
+      "brand": "四面泰(环贸IPAM店)",
+      "address": "淮海中路999号环贸IAPM广场LG1-143(南昌路入口下沉广场)",
+      "distance": "5m"
+    },
+    {
+      "brand": "金玡居(环贸店)",
+      "address": "徐淮海中路999号环贸iapm6层611号",
+      "distance": "5m"
+    },
+    {
+      "brand": "cococean椰子水",
+      "address": "淮海中路999号地下一层LG2-273-1室",
+      "distance": "8m"
+    },
+    {
+      "brand": "阿元来了(环贸店)",
+      "address": "淮海中路999号环贸iapm商场L5层L5-513",
+      "distance": "9m"
+    },
+    {
+      "brand": "0566珈琲制作所(环贸iapm店)",
+      "address": "淮海中路999号环贸iapm商场L3层L3-320",
+      "distance": "11m"
+    },
+    {
+      "brand": "namedcup小杯子咖啡(iapm环贸店)",
+      "address": "淮海中路与襄阳南路交叉口东140米",
+      "distance": "12m"
+    },
+    {
+      "brand": "艾炒酸奶(环贸IPAM店)",
+      "address": "淮海中路与襄阳南路交叉口东120米",
+      "distance": "12m"
+    },
+    {
+      "brand": "肥汁米蘭香港米綫•天星碼頭 (環貿IAPM分號)",
+      "address": "淮海中路999号上海环贸广场五层512室",
+      "distance": "14m"
+    },
+    {
+      "brand": "T9tea(环贸店)",
+      "address": "淮海中路999号环贸iapm商场L3层L3-321",
+      "distance": "15m"
+    },
+    {
+      "brand": "Peet's皮爷咖啡(环贸iapm店)",
+      "address": "淮海中路999号IAPM商场2楼221室",
+      "distance": "16m"
+    },
+    {
+      "brand": "四面泰(环贸IPAM店)",
+      "address": "淮海中路999号环贸IAPM广场LG1-143(南昌路入口下沉广场)",
+      "distance": "5m"
+    },
+    {
+      "brand": "金玡居(环贸店)",
+      "address": "徐淮海中路999号环贸iapm6层611号",
+      "distance": "5m"
+    },
+    {
+      "brand": "cococean椰子水",
+      "address": "淮海中路999号地下一层LG2-273-1室",
+      "distance": "8m"
+    },
+    {
+      "brand": "阿元来了(环贸店)",
+      "address": "淮海中路999号环贸iapm商场L5层L5-513",
+      "distance": "9m"
+    },
+    {
+      "brand": "0566珈琲制作所(环贸iapm店)",
+      "address": "淮海中路999号环贸iapm商场L3层L3-320",
+      "distance": "11m"
+    },
+    {
+      "brand": "namedcup小杯子咖啡(iapm环贸店)",
+      "address": "淮海中路与襄阳南路交叉口东140米",
+      "distance": "12m"
+    },
+    {
+      "brand": "艾炒酸奶(环贸IPAM店)",
+      "address": "淮海中路与襄阳南路交叉口东120米",
+      "distance": "12m"
+    },
+    {
+      "brand": "肥汁米蘭香港米綫•天星碼頭 (環貿IAPM分號)",
+      "address": "淮海中路999号上海环贸广场五层512室",
+      "distance": "14m"
+    },
+    {
+      "brand": "T9tea(环贸店)",
+      "address": "淮海中路999号环贸iapm商场L3层L3-321",
+      "distance": "15m"
+    },
+    {
+      "brand": "Peet's皮爷咖啡(环贸iapm店)",
+      "address": "淮海中路999号IAPM商场2楼221室",
+      "distance": "16m"
+    },
+    {
+      "brand": "四面泰(环贸IPAM店)",
+      "address": "淮海中路999号环贸IAPM广场LG1-143(南昌路入口下沉广场)",
+      "distance": "5m"
+    },
+    {
+      "brand": "金玡居(环贸店)",
+      "address": "徐淮海中路999号环贸iapm6层611号",
+      "distance": "5m"
+    },
+    {
+      "brand": "cococean椰子水",
+      "address": "淮海中路999号地下一层LG2-273-1室",
+      "distance": "8m"
+    },
+    {
+      "brand": "阿元来了(环贸店)",
+      "address": "淮海中路999号环贸iapm商场L5层L5-513",
+      "distance": "9m"
+    },
+    {
+      "brand": "0566珈琲制作所(环贸iapm店)",
+      "address": "淮海中路999号环贸iapm商场L3层L3-320",
+      "distance": "11m"
+    },
+    {
+      "brand": "namedcup小杯子咖啡(iapm环贸店)",
+      "address": "淮海中路与襄阳南路交叉口东140米",
+      "distance": "12m"
+    },
+    {
+      "brand": "艾炒酸奶(环贸IPAM店)",
+      "address": "淮海中路与襄阳南路交叉口东120米",
+      "distance": "12m"
+    },
+    {
+      "brand": "肥汁米蘭香港米綫•天星碼頭 (環貿IAPM分號)",
+      "address": "淮海中路999号上海环贸广场五层512室",
+      "distance": "14m"
+    },
+    {
+      "brand": "T9tea(环贸店)",
+      "address": "淮海中路999号环贸iapm商场L3层L3-321",
+      "distance": "15m"
+    },
+    {
+      "brand": "Peet's皮爷咖啡(环贸iapm店)",
+      "address": "淮海中路999号IAPM商场2楼221室",
+      "distance": "16m"
+    },
+    {
+      "brand": "四面泰(环贸IPAM店)",
+      "address": "淮海中路999号环贸IAPM广场LG1-143(南昌路入口下沉广场)",
+      "distance": "5m"
+    },
+    {
+      "brand": "金玡居(环贸店)",
+      "address": "徐淮海中路999号环贸iapm6层611号",
+      "distance": "5m"
+    },
+    {
+      "brand": "cococean椰子水",
+      "address": "淮海中路999号地下一层LG2-273-1室",
+      "distance": "8m"
+    },
+    {
+      "brand": "阿元来了(环贸店)",
+      "address": "淮海中路999号环贸iapm商场L5层L5-513",
+      "distance": "9m"
+    },
+    {
+      "brand": "0566珈琲制作所(环贸iapm店)",
+      "address": "淮海中路999号环贸iapm商场L3层L3-320",
+      "distance": "11m"
+    },
+    {
+      "brand": "namedcup小杯子咖啡(iapm环贸店)",
+      "address": "淮海中路与襄阳南路交叉口东140米",
+      "distance": "12m"
+    },
+    {
+      "brand": "艾炒酸奶(环贸IPAM店)",
+      "address": "淮海中路与襄阳南路交叉口东120米",
+      "distance": "12m"
+    },
+    {
+      "brand": "肥汁米蘭香港米綫•天星碼頭 (環貿IAPM分號)",
+      "address": "淮海中路999号上海环贸广场五层512室",
+      "distance": "14m"
+    },
+    {
+      "brand": "T9tea(环贸店)",
+      "address": "淮海中路999号环贸iapm商场L3层L3-321",
+      "distance": "15m"
+    },
+    {
+      "brand": "Peet's皮爷咖啡(环贸iapm店)",
+      "address": "淮海中路999号IAPM商场2楼221室",
+      "distance": "16m"
+    },
+    {
+      "brand": "四面泰(环贸IPAM店)",
+      "address": "淮海中路999号环贸IAPM广场LG1-143(南昌路入口下沉广场)",
+      "distance": "5m"
+    },
+    {
+      "brand": "金玡居(环贸店)",
+      "address": "徐淮海中路999号环贸iapm6层611号",
+      "distance": "5m"
+    },
+    {
+      "brand": "cococean椰子水",
+      "address": "淮海中路999号地下一层LG2-273-1室",
+      "distance": "8m"
+    },
+    {
+      "brand": "阿元来了(环贸店)",
+      "address": "淮海中路999号环贸iapm商场L5层L5-513",
+      "distance": "9m"
+    },
+    {
+      "brand": "0566珈琲制作所(环贸iapm店)",
+      "address": "淮海中路999号环贸iapm商场L3层L3-320",
+      "distance": "11m"
+    },
+    {
+      "brand": "namedcup小杯子咖啡(iapm环贸店)",
+      "address": "淮海中路与襄阳南路交叉口东140米",
+      "distance": "12m"
+    },
+    {
+      "brand": "艾炒酸奶(环贸IPAM店)",
+      "address": "淮海中路与襄阳南路交叉口东120米",
+      "distance": "12m"
+    },
+    {
+      "brand": "肥汁米蘭香港米綫•天星碼頭 (環貿IAPM分號)",
+      "address": "淮海中路999号上海环贸广场五层512室",
+      "distance": "14m"
+    },
+    {
+      "brand": "T9tea(环贸店)",
+      "address": "淮海中路999号环贸iapm商场L3层L3-321",
+      "distance": "15m"
+    },
+    {
+      "brand": "Peet's皮爷咖啡(环贸iapm店)",
+      "address": "淮海中路999号IAPM商场2楼221室",
+      "distance": "16m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海巴黎春天(淮海店)",
+      "open_date": "2001-01-01",
+      "area": "2.3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海百盛(淮海店)",
+      "open_date": "1996-01-01",
+      "area": "2.8万㎡",
+      "jun_daily_avg": "1.6万人次",
+      "weekday_avg": "1.4万人次",
+      "holiday_avg": "2.1万人次"
+    },
+    {
+      "name": "上海淮海755",
+      "open_date": "2015-12-12",
+      "area": "1.6万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海思南公馆",
+      "open_date": "2010-10-01",
+      "area": "2.2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海UX 88",
+      "open_date": "2013-01-01",
+      "area": "6000㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海HAI550",
+      "open_date": "2024-08-03",
+      "area": "7200㎡",
+      "jun_daily_avg": "4.6万人次",
+      "weekday_avg": "3.9万人次",
+      "holiday_avg": "6.5万人次"
+    },
+    {
+      "name": "上海TX淮海",
+      "open_date": "2019-12-31",
+      "area": "2.7万㎡",
+      "jun_daily_avg": "2.5万人次",
+      "weekday_avg": "2.1万人次",
+      "holiday_avg": "3.6万人次"
+    },
+    {
+      "name": "上海静安嘉里中心",
+      "open_date": "2013-01-01",
+      "area": "9.4万㎡",
+      "jun_daily_avg": "6万人次",
+      "weekday_avg": "5.5万人次",
+      "holiday_avg": "7.6万人次"
+    },
+    {
+      "name": "上海尚街Loft时尚生活园区",
+      "open_date": "2007-12-01",
+      "area": "2.4万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "田子坊",
+      "open_date": "1998-01-01",
+      "area": "3万㎡",
+      "jun_daily_avg": "1.3万人次",
+      "weekday_avg": "1.2万人次",
+      "holiday_avg": "1.6万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 89.0,
+      "within_1yr_pct": 19.1,
+      "1_3yr_pct": 27.0,
+      "over_3yr_pct": 53.9
+    },
+    {
+      "type": "购物",
+      "count": 153.0,
+      "within_1yr_pct": 11.8,
+      "1_3yr_pct": 30.1,
+      "over_3yr_pct": 58.2
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 4.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "生活服务",
+      "count": 26.0,
+      "within_1yr_pct": 15.4,
+      "1_3yr_pct": 34.6,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "运动健身",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 9.0,
+      "within_1yr_pct": 44.4,
+      "1_3yr_pct": 22.2,
+      "over_3yr_pct": 33.3
+    }
+  ]
+}

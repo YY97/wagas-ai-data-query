@@ -1,0 +1,438 @@
+{
+  "name": "深圳天河城购物中心",
+  "city": "深圳市",
+  "address": "广东省深圳市罗湖区太白路3009-1号",
+  "lat": 22.576468,
+  "lng": 114.128204,
+  "overview": {
+    "score": 94.2,
+    "score_rank": "市内前30%",
+    "population_score": 82.6,
+    "area_score": 76.1,
+    "consumption_score": 78.3,
+    "industry_score": 94.3,
+    "annual_sales": "2000",
+    "annual_sales_unit": "万元",
+    "area_size_sqm": 12.0,
+    "open_date": "2022-12-01",
+    "operator": "广东粤海天河城（集团）股份有限公司",
+    "brand": "广东粤海天河城（集团）股份有限公司",
+    "type": "综合型",
+    "floors": "L1-L5"
+  },
+  "traffic": {
+    "annual_daily": 2.82,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第61",
+    "jun_total": 243.3,
+    "jun_total_rank": "市内商场第22名",
+    "jun_daily_avg": 8.1,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第22名",
+    "weekday_avg": 7.6,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第18名",
+    "holiday_avg": 9.5,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第28名"
+  },
+  "population": {
+    "residential": {
+      "500m": 2.9,
+      "1_5km": 26.0,
+      "3km": 85.3
+    },
+    "office": {
+      "500m": 2.3,
+      "1_5km": 15.9,
+      "3km": 40.7
+    },
+    "permanent": {
+      "500m": 2.9,
+      "1_5km": 24.5,
+      "3km": 76.2
+    }
+  },
+  "business": {
+    "competitors": 7.0,
+    "food": 302.0,
+    "shopping": 304.0,
+    "leisure": 29.0,
+    "education": 31.0,
+    "hotel": 11.0,
+    "services": 132.0,
+    "fitness": 26.0,
+    "auto": 40.0,
+    "total_stores": 182.0,
+    "old_store_3yr_pct": 43.0
+  },
+  "nearby_poi": {
+    "business": 4.0,
+    "community": 366.0,
+    "office": 67.0,
+    "school": 45.0,
+    "hospital": 97.0,
+    "transport": 18.0,
+    "scenic": 235.0
+  },
+  "demographics": {
+    "male_pct": 50.9,
+    "female_pct": null,
+    "education": {
+      "小学": 12.1,
+      "初中": 20.7,
+      "高中": 12.0,
+      "大专": 9.7,
+      "本科": 41.7,
+      "硕士": 3.0,
+      "博士": 0.8
+    },
+    "has_children_pct": 59.7,
+    "no_children_pct": 40.3
+  },
+  "scraped_at": "2026-07-31T13:56:09.943Z",
+  "nearby_restaurants": [
+    {
+      "brand": "萨莉亚意式餐厅(217深圳天河城店)",
+      "address": "太白路天河城购物中心负1楼",
+      "distance": "16m"
+    },
+    {
+      "brand": "吴庄(粤海城店)",
+      "address": "太白路3008号深圳天河城负一层B164-B169号",
+      "distance": "19m"
+    },
+    {
+      "brand": "Wagas沃歌斯(深圳天河城店)",
+      "address": "东晓社区太白路3008号深圳天河城B143-B144号",
+      "distance": "19m"
+    },
+    {
+      "brand": "LuckHaHa好运椰(深圳寰映影城罗湖天河城店)",
+      "address": "太白路3009-1号(影院门口)",
+      "distance": "20m"
+    },
+    {
+      "brand": "VIEAING(粤海城南区店)",
+      "address": "太白路3008号东门粤海城",
+      "distance": "21m"
+    },
+    {
+      "brand": "渔语鱼川宴(深圳天河城购物中心店)",
+      "address": "太白路深圳天河城购物中心(布心地铁站B口步行500米)",
+      "distance": "22m"
+    },
+    {
+      "brand": "阿杏饭团",
+      "address": "东晓街道太白路3008号深圳天河城购物中心北区负一楼",
+      "distance": "23m"
+    },
+    {
+      "brand": "越小品·越南餐厅(罗湖天河城店)",
+      "address": "东晓街道东晓社区太白路3008号深圳天河城B104",
+      "distance": "29m"
+    },
+    {
+      "brand": "DQ·蛋糕·冰淇淋(深圳天河城店)",
+      "address": "东晓街道东晓社区太白路3008号深圳天河城B138号商铺",
+      "distance": "30m"
+    },
+    {
+      "brand": "盛香亭转转热卤(深圳罗湖天河城店)",
+      "address": "东晓街道太白路3008号天河城北区B151、B152铺",
+      "distance": "30m"
+    },
+    {
+      "brand": "萨莉亚意式餐厅(217深圳天河城店)",
+      "address": "太白路天河城购物中心负1楼",
+      "distance": "16m"
+    },
+    {
+      "brand": "吴庄(粤海城店)",
+      "address": "太白路3008号深圳天河城负一层B164-B169号",
+      "distance": "19m"
+    },
+    {
+      "brand": "Wagas沃歌斯(深圳天河城店)",
+      "address": "东晓社区太白路3008号深圳天河城B143-B144号",
+      "distance": "19m"
+    },
+    {
+      "brand": "LuckHaHa好运椰(深圳寰映影城罗湖天河城店)",
+      "address": "太白路3009-1号(影院门口)",
+      "distance": "20m"
+    },
+    {
+      "brand": "VIEAING(粤海城南区店)",
+      "address": "太白路3008号东门粤海城",
+      "distance": "21m"
+    },
+    {
+      "brand": "渔语鱼川宴(深圳天河城购物中心店)",
+      "address": "太白路深圳天河城购物中心(布心地铁站B口步行500米)",
+      "distance": "22m"
+    },
+    {
+      "brand": "阿杏饭团",
+      "address": "东晓街道太白路3008号深圳天河城购物中心北区负一楼",
+      "distance": "23m"
+    },
+    {
+      "brand": "越小品·越南餐厅(罗湖天河城店)",
+      "address": "东晓街道东晓社区太白路3008号深圳天河城B104",
+      "distance": "29m"
+    },
+    {
+      "brand": "DQ·蛋糕·冰淇淋(深圳天河城店)",
+      "address": "东晓街道东晓社区太白路3008号深圳天河城B138号商铺",
+      "distance": "30m"
+    },
+    {
+      "brand": "盛香亭转转热卤(深圳罗湖天河城店)",
+      "address": "东晓街道太白路3008号天河城北区B151、B152铺",
+      "distance": "30m"
+    },
+    {
+      "brand": "萨莉亚意式餐厅(217深圳天河城店)",
+      "address": "太白路天河城购物中心负1楼",
+      "distance": "16m"
+    },
+    {
+      "brand": "吴庄(粤海城店)",
+      "address": "太白路3008号深圳天河城负一层B164-B169号",
+      "distance": "19m"
+    },
+    {
+      "brand": "Wagas沃歌斯(深圳天河城店)",
+      "address": "东晓社区太白路3008号深圳天河城B143-B144号",
+      "distance": "19m"
+    },
+    {
+      "brand": "LuckHaHa好运椰(深圳寰映影城罗湖天河城店)",
+      "address": "太白路3009-1号(影院门口)",
+      "distance": "20m"
+    },
+    {
+      "brand": "VIEAING(粤海城南区店)",
+      "address": "太白路3008号东门粤海城",
+      "distance": "21m"
+    },
+    {
+      "brand": "渔语鱼川宴(深圳天河城购物中心店)",
+      "address": "太白路深圳天河城购物中心(布心地铁站B口步行500米)",
+      "distance": "22m"
+    },
+    {
+      "brand": "阿杏饭团",
+      "address": "东晓街道太白路3008号深圳天河城购物中心北区负一楼",
+      "distance": "23m"
+    },
+    {
+      "brand": "越小品·越南餐厅(罗湖天河城店)",
+      "address": "东晓街道东晓社区太白路3008号深圳天河城B104",
+      "distance": "29m"
+    },
+    {
+      "brand": "DQ·蛋糕·冰淇淋(深圳天河城店)",
+      "address": "东晓街道东晓社区太白路3008号深圳天河城B138号商铺",
+      "distance": "30m"
+    },
+    {
+      "brand": "盛香亭转转热卤(深圳罗湖天河城店)",
+      "address": "东晓街道太白路3008号天河城北区B151、B152铺",
+      "distance": "30m"
+    },
+    {
+      "brand": "萨莉亚意式餐厅(217深圳天河城店)",
+      "address": "太白路天河城购物中心负1楼",
+      "distance": "16m"
+    },
+    {
+      "brand": "吴庄(粤海城店)",
+      "address": "太白路3008号深圳天河城负一层B164-B169号",
+      "distance": "19m"
+    },
+    {
+      "brand": "Wagas沃歌斯(深圳天河城店)",
+      "address": "东晓社区太白路3008号深圳天河城B143-B144号",
+      "distance": "19m"
+    },
+    {
+      "brand": "LuckHaHa好运椰(深圳寰映影城罗湖天河城店)",
+      "address": "太白路3009-1号(影院门口)",
+      "distance": "20m"
+    },
+    {
+      "brand": "VIEAING(粤海城南区店)",
+      "address": "太白路3008号东门粤海城",
+      "distance": "21m"
+    },
+    {
+      "brand": "渔语鱼川宴(深圳天河城购物中心店)",
+      "address": "太白路深圳天河城购物中心(布心地铁站B口步行500米)",
+      "distance": "22m"
+    },
+    {
+      "brand": "阿杏饭团",
+      "address": "东晓街道太白路3008号深圳天河城购物中心北区负一楼",
+      "distance": "23m"
+    },
+    {
+      "brand": "越小品·越南餐厅(罗湖天河城店)",
+      "address": "东晓街道东晓社区太白路3008号深圳天河城B104",
+      "distance": "29m"
+    },
+    {
+      "brand": "DQ·蛋糕·冰淇淋(深圳天河城店)",
+      "address": "东晓街道东晓社区太白路3008号深圳天河城B138号商铺",
+      "distance": "30m"
+    },
+    {
+      "brand": "盛香亭转转热卤(深圳罗湖天河城店)",
+      "address": "东晓街道太白路3008号天河城北区B151、B152铺",
+      "distance": "30m"
+    },
+    {
+      "brand": "萨莉亚意式餐厅(217深圳天河城店)",
+      "address": "太白路天河城购物中心负1楼",
+      "distance": "16m"
+    },
+    {
+      "brand": "吴庄(粤海城店)",
+      "address": "太白路3008号深圳天河城负一层B164-B169号",
+      "distance": "19m"
+    },
+    {
+      "brand": "Wagas沃歌斯(深圳天河城店)",
+      "address": "东晓社区太白路3008号深圳天河城B143-B144号",
+      "distance": "19m"
+    },
+    {
+      "brand": "LuckHaHa好运椰(深圳寰映影城罗湖天河城店)",
+      "address": "太白路3009-1号(影院门口)",
+      "distance": "20m"
+    },
+    {
+      "brand": "VIEAING(粤海城南区店)",
+      "address": "太白路3008号东门粤海城",
+      "distance": "21m"
+    },
+    {
+      "brand": "渔语鱼川宴(深圳天河城购物中心店)",
+      "address": "太白路深圳天河城购物中心(布心地铁站B口步行500米)",
+      "distance": "22m"
+    },
+    {
+      "brand": "阿杏饭团",
+      "address": "东晓街道太白路3008号深圳天河城购物中心北区负一楼",
+      "distance": "23m"
+    },
+    {
+      "brand": "越小品·越南餐厅(罗湖天河城店)",
+      "address": "东晓街道东晓社区太白路3008号深圳天河城B104",
+      "distance": "29m"
+    },
+    {
+      "brand": "DQ·蛋糕·冰淇淋(深圳天河城店)",
+      "address": "东晓街道东晓社区太白路3008号深圳天河城B138号商铺",
+      "distance": "30m"
+    },
+    {
+      "brand": "盛香亭转转热卤(深圳罗湖天河城店)",
+      "address": "东晓街道太白路3008号天河城北区B151、B152铺",
+      "distance": "30m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "深圳IBC MALL",
+      "open_date": "2018-12-01",
+      "area": "3万㎡",
+      "jun_daily_avg": "3.9万人次",
+      "weekday_avg": "3.7万人次",
+      "holiday_avg": "4.6万人次"
+    },
+    {
+      "name": "深圳喜荟城购物中心",
+      "open_date": "2010-04-22",
+      "area": "6万㎡",
+      "jun_daily_avg": "2.6万人次",
+      "weekday_avg": "2.4万人次",
+      "holiday_avg": "3.1万人次"
+    },
+    {
+      "name": "深圳KK TIME京基百纳时光",
+      "open_date": "2023-09-08",
+      "area": "10万㎡",
+      "jun_daily_avg": "4.7万人次",
+      "weekday_avg": "4.2万人次",
+      "holiday_avg": "6.1万人次"
+    },
+    {
+      "name": "深圳布吉万象汇",
+      "open_date": "2018-11-10",
+      "area": "8万㎡",
+      "jun_daily_avg": "9.1万人次",
+      "weekday_avg": "7.7万人次",
+      "holiday_avg": "13万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 64.0,
+      "within_1yr_pct": 15.6,
+      "1_3yr_pct": 42.2,
+      "over_3yr_pct": 42.2
+    },
+    {
+      "type": "购物",
+      "count": 59.0,
+      "within_1yr_pct": 22.0,
+      "1_3yr_pct": 30.5,
+      "over_3yr_pct": 47.5
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 13.0,
+      "within_1yr_pct": 38.5,
+      "1_3yr_pct": 15.4,
+      "over_3yr_pct": 46.2
+    },
+    {
+      "type": "教育培训",
+      "count": 3.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 66.7
+    },
+    {
+      "type": "酒店住宿",
+      "count": 3.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 33.3
+    },
+    {
+      "type": "生活服务",
+      "count": 34.0,
+      "within_1yr_pct": 23.5,
+      "1_3yr_pct": 41.2,
+      "over_3yr_pct": 35.3
+    },
+    {
+      "type": "运动健身",
+      "count": 1.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 5.0,
+      "within_1yr_pct": 40.0,
+      "1_3yr_pct": 20.0,
+      "over_3yr_pct": 40.0
+    }
+  ]
+}

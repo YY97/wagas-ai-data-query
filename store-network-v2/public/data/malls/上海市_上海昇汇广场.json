@@ -1,0 +1,428 @@
+{
+  "name": "上海昇汇广场",
+  "city": "上海市",
+  "address": "上海市虹口区大连路515号",
+  "lat": 31.259283,
+  "lng": 121.511455,
+  "overview": {
+    "score": null,
+    "score_rank": "",
+    "population_score": 84.6,
+    "area_score": 78.8,
+    "consumption_score": 78.8,
+    "industry_score": 66.7,
+    "annual_sales": "上海昇汇广场位于虹口区大连路555号，靠近大连路地铁站（4号线、12号线），交通便利。项目共5层，适合各类商业业态。",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 3200.0,
+    "open_date": "2018-12-01",
+    "operator": "上海世纪汇置业有限公司",
+    "brand": "",
+    "type": "综合型",
+    "floors": "B1-L4"
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "-",
+    "annual_daily_rank": "",
+    "jun_total": null,
+    "jun_total_rank": "",
+    "jun_daily_avg": null,
+    "jun_daily_unit": "",
+    "jun_daily_rank": "",
+    "weekday_avg": null,
+    "weekday_unit": "",
+    "weekday_rank": "",
+    "holiday_avg": null,
+    "holiday_unit": "",
+    "holiday_rank": ""
+  },
+  "population": {
+    "residential": {
+      "500m": 1.9,
+      "1_5km": 21.2,
+      "3km": 93.7
+    },
+    "office": {
+      "500m": 3.3,
+      "1_5km": 18.8,
+      "3km": 82.4
+    },
+    "permanent": {
+      "500m": 2.4,
+      "1_5km": 23.0,
+      "3km": 102.5
+    }
+  },
+  "business": {
+    "competitors": 5.0,
+    "food": 178.0,
+    "shopping": 88.0,
+    "leisure": 15.0,
+    "education": 13.0,
+    "hotel": 23.0,
+    "services": 107.0,
+    "fitness": 17.0,
+    "auto": 16.0,
+    "total_stores": 5.0,
+    "old_store_3yr_pct": 80.0
+  },
+  "nearby_poi": {
+    "business": 8.0,
+    "community": 760.0,
+    "office": 115.0,
+    "school": 52.0,
+    "hospital": 119.0,
+    "transport": 12.0,
+    "scenic": 429.0
+  },
+  "demographics": {
+    "male_pct": null,
+    "female_pct": null,
+    "education": {
+      "小学": 9.2,
+      "初中": 18.2,
+      "高中": 12.4,
+      "大专": 6.9,
+      "本科": 46.8,
+      "硕士": 4.8,
+      "博士": 1.7
+    },
+    "has_children_pct": 58.8,
+    "no_children_pct": 41.2
+  },
+  "scraped_at": "2026-07-31T16:35:04.997Z",
+  "nearby_restaurants": [
+    {
+      "brand": "陆鼎记龙虾螃蟹自助(大连路店)",
+      "address": "大连路555号昇汇广场F2层",
+      "distance": "9m"
+    },
+    {
+      "brand": "瑞幸咖啡(昇汇广场店)",
+      "address": "大连路555号昇汇广场一层大堂",
+      "distance": "9m"
+    },
+    {
+      "brand": "肯德基(大连路店)",
+      "address": "大连路555号一层1F-01及B1F-01",
+      "distance": "18m"
+    },
+    {
+      "brand": "永和大王(大连路店)",
+      "address": "北外滩街道大连路555号昇汇广场一楼",
+      "distance": "19m"
+    },
+    {
+      "brand": "大眼包子(昇汇广场店)",
+      "address": "大连路555号昇汇广场F1层",
+      "distance": "22m"
+    },
+    {
+      "brand": "徽州月·民间徽菜(大连路店)",
+      "address": "大连路555号昇汇广场2楼",
+      "distance": "23m"
+    },
+    {
+      "brand": "路怡小菜",
+      "address": "大连路555号",
+      "distance": "27m"
+    },
+    {
+      "brand": "鲜味面馆·沪鲜面馆(大连路店)",
+      "address": "大连路535号创富大厦F1层(大连路地铁站4号口步行50米)",
+      "distance": "27m"
+    },
+    {
+      "brand": "汉堡奶茶好多多",
+      "address": "大连路535号地铁4/12号线四号出口左转20米",
+      "distance": "40m"
+    },
+    {
+      "brand": "鸡蛋灌饼(大连路店)(装修中)",
+      "address": "大连路535号创富大厦F1层(大连路地铁站4号口旁)",
+      "distance": "49m"
+    },
+    {
+      "brand": "陆鼎记龙虾螃蟹自助(大连路店)",
+      "address": "大连路555号昇汇广场F2层",
+      "distance": "9m"
+    },
+    {
+      "brand": "瑞幸咖啡(昇汇广场店)",
+      "address": "大连路555号昇汇广场一层大堂",
+      "distance": "9m"
+    },
+    {
+      "brand": "肯德基(大连路店)",
+      "address": "大连路555号一层1F-01及B1F-01",
+      "distance": "18m"
+    },
+    {
+      "brand": "永和大王(大连路店)",
+      "address": "北外滩街道大连路555号昇汇广场一楼",
+      "distance": "19m"
+    },
+    {
+      "brand": "大眼包子(昇汇广场店)",
+      "address": "大连路555号昇汇广场F1层",
+      "distance": "22m"
+    },
+    {
+      "brand": "徽州月·民间徽菜(大连路店)",
+      "address": "大连路555号昇汇广场2楼",
+      "distance": "23m"
+    },
+    {
+      "brand": "路怡小菜",
+      "address": "大连路555号",
+      "distance": "27m"
+    },
+    {
+      "brand": "鲜味面馆·沪鲜面馆(大连路店)",
+      "address": "大连路535号创富大厦F1层(大连路地铁站4号口步行50米)",
+      "distance": "27m"
+    },
+    {
+      "brand": "汉堡奶茶好多多",
+      "address": "大连路535号地铁4/12号线四号出口左转20米",
+      "distance": "40m"
+    },
+    {
+      "brand": "鸡蛋灌饼(大连路店)(装修中)",
+      "address": "大连路535号创富大厦F1层(大连路地铁站4号口旁)",
+      "distance": "49m"
+    },
+    {
+      "brand": "陆鼎记龙虾螃蟹自助(大连路店)",
+      "address": "大连路555号昇汇广场F2层",
+      "distance": "9m"
+    },
+    {
+      "brand": "瑞幸咖啡(昇汇广场店)",
+      "address": "大连路555号昇汇广场一层大堂",
+      "distance": "9m"
+    },
+    {
+      "brand": "肯德基(大连路店)",
+      "address": "大连路555号一层1F-01及B1F-01",
+      "distance": "18m"
+    },
+    {
+      "brand": "永和大王(大连路店)",
+      "address": "北外滩街道大连路555号昇汇广场一楼",
+      "distance": "19m"
+    },
+    {
+      "brand": "大眼包子(昇汇广场店)",
+      "address": "大连路555号昇汇广场F1层",
+      "distance": "22m"
+    },
+    {
+      "brand": "徽州月·民间徽菜(大连路店)",
+      "address": "大连路555号昇汇广场2楼",
+      "distance": "23m"
+    },
+    {
+      "brand": "路怡小菜",
+      "address": "大连路555号",
+      "distance": "27m"
+    },
+    {
+      "brand": "鲜味面馆·沪鲜面馆(大连路店)",
+      "address": "大连路535号创富大厦F1层(大连路地铁站4号口步行50米)",
+      "distance": "27m"
+    },
+    {
+      "brand": "汉堡奶茶好多多",
+      "address": "大连路535号地铁4/12号线四号出口左转20米",
+      "distance": "40m"
+    },
+    {
+      "brand": "鸡蛋灌饼(大连路店)(装修中)",
+      "address": "大连路535号创富大厦F1层(大连路地铁站4号口旁)",
+      "distance": "49m"
+    },
+    {
+      "brand": "陆鼎记龙虾螃蟹自助(大连路店)",
+      "address": "大连路555号昇汇广场F2层",
+      "distance": "9m"
+    },
+    {
+      "brand": "瑞幸咖啡(昇汇广场店)",
+      "address": "大连路555号昇汇广场一层大堂",
+      "distance": "9m"
+    },
+    {
+      "brand": "肯德基(大连路店)",
+      "address": "大连路555号一层1F-01及B1F-01",
+      "distance": "18m"
+    },
+    {
+      "brand": "永和大王(大连路店)",
+      "address": "北外滩街道大连路555号昇汇广场一楼",
+      "distance": "19m"
+    },
+    {
+      "brand": "大眼包子(昇汇广场店)",
+      "address": "大连路555号昇汇广场F1层",
+      "distance": "22m"
+    },
+    {
+      "brand": "徽州月·民间徽菜(大连路店)",
+      "address": "大连路555号昇汇广场2楼",
+      "distance": "23m"
+    },
+    {
+      "brand": "路怡小菜",
+      "address": "大连路555号",
+      "distance": "27m"
+    },
+    {
+      "brand": "鲜味面馆·沪鲜面馆(大连路店)",
+      "address": "大连路535号创富大厦F1层(大连路地铁站4号口步行50米)",
+      "distance": "27m"
+    },
+    {
+      "brand": "汉堡奶茶好多多",
+      "address": "大连路535号地铁4/12号线四号出口左转20米",
+      "distance": "40m"
+    },
+    {
+      "brand": "鸡蛋灌饼(大连路店)(装修中)",
+      "address": "大连路535号创富大厦F1层(大连路地铁站4号口旁)",
+      "distance": "49m"
+    },
+    {
+      "brand": "陆鼎记龙虾螃蟹自助(大连路店)",
+      "address": "大连路555号昇汇广场F2层",
+      "distance": "9m"
+    },
+    {
+      "brand": "瑞幸咖啡(昇汇广场店)",
+      "address": "大连路555号昇汇广场一层大堂",
+      "distance": "9m"
+    },
+    {
+      "brand": "肯德基(大连路店)",
+      "address": "大连路555号一层1F-01及B1F-01",
+      "distance": "18m"
+    },
+    {
+      "brand": "永和大王(大连路店)",
+      "address": "北外滩街道大连路555号昇汇广场一楼",
+      "distance": "19m"
+    },
+    {
+      "brand": "大眼包子(昇汇广场店)",
+      "address": "大连路555号昇汇广场F1层",
+      "distance": "22m"
+    },
+    {
+      "brand": "徽州月·民间徽菜(大连路店)",
+      "address": "大连路555号昇汇广场2楼",
+      "distance": "23m"
+    },
+    {
+      "brand": "路怡小菜",
+      "address": "大连路555号",
+      "distance": "27m"
+    },
+    {
+      "brand": "鲜味面馆·沪鲜面馆(大连路店)",
+      "address": "大连路535号创富大厦F1层(大连路地铁站4号口步行50米)",
+      "distance": "27m"
+    },
+    {
+      "brand": "汉堡奶茶好多多",
+      "address": "大连路535号地铁4/12号线四号出口左转20米",
+      "distance": "40m"
+    },
+    {
+      "brand": "鸡蛋灌饼(大连路店)(装修中)",
+      "address": "大连路535号创富大厦F1层(大连路地铁站4号口旁)",
+      "distance": "49m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海宝地广场",
+      "open_date": "2012-01-01",
+      "area": "3.5万㎡",
+      "jun_daily_avg": "1.7万人次",
+      "weekday_avg": "1.8万人次",
+      "holiday_avg": "1.5万人次"
+    },
+    {
+      "name": "上海上滨生活广场",
+      "open_date": "2019-06-18",
+      "area": "4.5万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海北外滩来福士",
+      "open_date": "2021-07-10",
+      "area": "12万㎡",
+      "jun_daily_avg": "4.3万人次",
+      "weekday_avg": "4.6万人次",
+      "holiday_avg": "3.6万人次"
+    },
+    {
+      "name": "金茂时尚生活中心",
+      "open_date": "2005-09-01",
+      "area": "2.3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海瑞虹新天地太阳宫",
+      "open_date": "2021-09-19",
+      "area": "18万㎡",
+      "jun_daily_avg": "7.4万人次",
+      "weekday_avg": "6.8万人次",
+      "holiday_avg": "9.1万人次"
+    },
+    {
+      "name": "上海瑞虹坊",
+      "open_date": "2020-10-03",
+      "area": "3万㎡",
+      "jun_daily_avg": "4.5万人次",
+      "weekday_avg": "4万人次",
+      "holiday_avg": "5.9万人次"
+    },
+    {
+      "name": "上海瑞虹天地月亮湾",
+      "open_date": "2017-06-13",
+      "area": "6.4万㎡",
+      "jun_daily_avg": "4.5万人次",
+      "weekday_avg": "4万人次",
+      "holiday_avg": "5.9万人次"
+    },
+    {
+      "name": "上海瑞虹天地星星堂",
+      "open_date": "2015-05-14",
+      "area": "2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 4.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 75.0
+    },
+    {
+      "type": "生活服务",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    }
+  ]
+}

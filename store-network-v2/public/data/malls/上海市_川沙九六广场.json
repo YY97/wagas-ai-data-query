@@ -1,0 +1,193 @@
+{
+  "name": "川沙九六广场",
+  "city": "上海市",
+  "address": "上海市浦东新区川沙新镇川沙九六广场",
+  "lat": 31.227499,
+  "lng": 121.5248,
+  "overview": {
+    "score": 89.7,
+    "score_rank": "市内前30%",
+    "population_score": 74.0,
+    "area_score": 67.9,
+    "consumption_score": 74.4,
+    "industry_score": 89.9,
+    "annual_sales": "川沙九六广场位于上海城市副中心浦东中部川沙新镇核心地带，紧邻川沙路及地铁2号线川沙站。项目是一个集商业、办公、住宅于一体的大型城市综合体，定位为“生活在此，欢聚在此”的社区商业标杆。项目采用半开放式街区设计，打造了宠物友好型街区“汪趣街”、亲子游乐区“星星岛”、低龄儿童阅读区“星空书屋”等特色空间。开业时引入了奥乐齐ALDI、星聚会KTV、星巴克宠物友好概念店等超50%的区域首进品牌。",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 3.5,
+    "open_date": "2024-12-27",
+    "operator": "上海陆家嘴（集团）有限公司",
+    "brand": "",
+    "type": "美食型",
+    "floors": "B1-L3"
+  },
+  "traffic": {
+    "annual_daily": 9397.0,
+    "annual_daily_unit": "人次",
+    "annual_daily_rank": "市内第262",
+    "jun_total": 56.6,
+    "jun_total_rank": "市内商场第198名",
+    "jun_daily_avg": 1.9,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第198名",
+    "weekday_avg": 1.7,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第201名",
+    "holiday_avg": 2.4,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第184名"
+  },
+  "population": {
+    "residential": {
+      "500m": 1.2,
+      "1_5km": 11.9,
+      "3km": 33.3
+    },
+    "office": {
+      "500m": 6400.0,
+      "1_5km": 4.9,
+      "3km": 13.0
+    },
+    "permanent": {
+      "500m": 1.1,
+      "1_5km": 11.9,
+      "3km": 31.4
+    }
+  },
+  "business": {
+    "competitors": 4.0,
+    "food": 74.0,
+    "shopping": 49.0,
+    "leisure": 17.0,
+    "education": 28.0,
+    "hotel": 38.0,
+    "services": 116.0,
+    "fitness": 24.0,
+    "auto": 11.0,
+    "total_stores": 65.0,
+    "old_store_3yr_pct": 3.0
+  },
+  "nearby_poi": {
+    "business": 3.0,
+    "community": 190.0,
+    "office": 6.0,
+    "school": 24.0,
+    "hospital": 28.0,
+    "transport": 11.0,
+    "scenic": 81.0
+  },
+  "demographics": {
+    "male_pct": 50.6,
+    "female_pct": null,
+    "education": {
+      "小学": 9.3,
+      "初中": 17.5,
+      "高中": 11.2,
+      "大专": 8.9,
+      "本科": 46.7,
+      "硕士": 5.2,
+      "博士": 1.2
+    },
+    "has_children_pct": 61.0,
+    "no_children_pct": 39.0
+  },
+  "scraped_at": "2026-08-01T06:52:27.436Z",
+  "nearby_restaurants": [
+    {
+      "brand": "泰来椰川沙店",
+      "address": "绿地东海岸国际广场9号楼",
+      "distance": "488m"
+    },
+    {
+      "brand": "王掌柜地锅鸡",
+      "address": "川沙绿地东海岸3号楼122号(华戴路停车场对面)",
+      "distance": "496m"
+    },
+    {
+      "brand": "云晓光头烧烤吧(川沙绿地店)",
+      "address": "川沙路5558号绿地东海岸国际广场3号楼1层(近绣川路)",
+      "distance": "497m"
+    },
+    {
+      "brand": "香千里馄饨铺",
+      "address": "川沙路与绣川路交叉口西140米",
+      "distance": "498m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海绿地东海岸国际广场",
+      "open_date": "2009-01-01",
+      "area": "14.6万㎡",
+      "jun_daily_avg": "1.3万人次",
+      "weekday_avg": "1.2万人次",
+      "holiday_avg": "1.6万人次"
+    },
+    {
+      "name": "上海百联川沙购物中心",
+      "open_date": "2017-04-27",
+      "area": "6.3万㎡",
+      "jun_daily_avg": "6.6万人次",
+      "weekday_avg": "5.8万人次",
+      "holiday_avg": "8.8万人次"
+    },
+    {
+      "name": "川沙商业广场",
+      "open_date": "-",
+      "area": "-",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 30.0,
+      "within_1yr_pct": 13.3,
+      "1_3yr_pct": 86.7,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "购物",
+      "count": 12.0,
+      "within_1yr_pct": 8.3,
+      "1_3yr_pct": 91.7,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 6.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "教育培训",
+      "count": 4.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "生活服务",
+      "count": 7.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 71.4,
+      "over_3yr_pct": 28.6
+    },
+    {
+      "type": "运动健身",
+      "count": 5.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 80.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
+    }
+  ]
+}
