@@ -114,6 +114,37 @@ jobs:
         working-directory: ${{ github.workspace }}
         continue-on-error: true
 
+      # ===== 商场数据 ETL =====
+      - name: 安装 openpyxl
+        run: pip3 install openpyxl --quiet
+
+      - name: 商场地址地理编码（增量）
+        id: mall_geocode
+        run: |
+          EXCEL_PATH="store-network-v2/data/商场数据结构化总表.xlsx"
+          if [ -f "$EXCEL_PATH" ]; then
+            python etl_geocode_malls.py --key ${{ secrets.AMAP_KEY }} --excel "$EXCEL_PATH" --output-dir store-network-v2/public/data
+            echo "Geocoding done"
+          else
+            echo "Skipping geocode: Excel not found at $EXCEL_PATH"
+          fi
+        working-directory: ${{ github.workspace }}
+        continue-on-error: true
+
+      - name: 商场数据切片
+        id: mall_slice
+        run: |
+          EXCEL_PATH="store-network-v2/data/商场数据结构化总表.xlsx"
+          CACHE="store-network-v2/public/data/malls_geocoded.json"
+          if [ -f "$EXCEL_PATH" ] && [ -f "$CACHE" ]; then
+            python etl_slice_malls.py --excel "$EXCEL_PATH" --geocode "$CACHE" --out-dir store-network-v2/public/data/malls
+            echo "Slicing done"
+          else
+            echo "Skipping slice: Excel=$EXCEL_PATH Cache=$CACHE"
+          fi
+        working-directory: ${{ github.workspace }}
+        continue-on-error: true
+
       - name: 构建 React 应用
         run: |
           cd store-network-v2
