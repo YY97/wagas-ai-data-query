@@ -6,6 +6,8 @@ import 'leaflet.heat';
 import { createPortal } from 'react-dom';
 import { useAppStore } from '../store';
 import StorePopupCard from './StorePopupCard';
+import MallLayer from './MallLayer';
+import MallDetailPanel from './MallDetailPanel';
 
 // 地图点击处理组件
 function MapClickHandler({ onClick }: { onClick: (lat: number, lng: number) => void }) {
@@ -91,7 +93,7 @@ function TopLocationMarkers({ locations }: { locations: any[] }) {
   );
 }
 
-function PopupFollow({ store, visible, onClose, showDelivery, onToggleDelivery }: any) {
+function PopupFollow({ store, visible, onClose, showDelivery, onToggleDelivery, onSelectMall }: any) {
   const map = useMap();
   const popupRef = useRef<L.Popup | null>(null);
   const containerRef = useRef<HTMLDivElement | null>(null);
@@ -124,7 +126,7 @@ function PopupFollow({ store, visible, onClose, showDelivery, onToggleDelivery }
   if (!store || !visible || !containerRef.current) return null;
   return createPortal(
     <StorePopupCard key={`${store.sid}-${renderKey}`} showHeatmap={showDelivery}
-      onToggleHeatmap={onToggleDelivery} onClose={onClose} />,
+      onToggleHeatmap={onToggleDelivery} onClose={onClose} onSelectMall={onSelectMall} />,
     containerRef.current
   );
 }
@@ -163,7 +165,7 @@ interface MapViewProps {
 }
 
 export default function MapView({ selectedSite, onSiteSelect }: MapViewProps) {
-  const { stores, filters, layers, getAds, selectedStore, setSelectedStore, showHelp, setShowHelp, contourStores, setContourStores, competitors, competitorBrands } = useAppStore();
+  const { stores, filters, layers, getAds, selectedStore, setSelectedStore, showHelp, setShowHelp, contourStores, setContourStores, competitors, competitorBrands, selectedMall, setSelectedMall } = useAppStore();
   const [deliveryData, setDeliveryData] = useState<Record<string, any>>({});
   const [showDelivery, setShowDelivery] = useState(false);
   const [popupVisible, setPopupVisible] = useState(true);
@@ -332,13 +334,19 @@ export default function MapView({ selectedSite, onSiteSelect }: MapViewProps) {
         {heatPoints.length > 0 && <HeatmapLayer points={heatPoints} />}
         {topLocMarkers.length > 0 && <TopLocationMarkers locations={topLocMarkers} />}
 
+        <MallLayer onSelectMall={(mall) => setSelectedMall(mall)} />
+
         <PopupFollow store={selectedStore} visible={popupVisible}
           onClose={() => setPopupVisible(false)} showDelivery={showDelivery}
           onToggleDelivery={() => {
             if (!showDelivery && selectedStore) loadCityDeliveryData(selectedStore.city);
             setShowDelivery(!showDelivery);
-          }} />
+          }}
+          onSelectMall={(mall: any) => setSelectedMall(mall)} />
       </MapContainer>
+
+      {/* 商场详情面板 */}
+      <MallDetailPanel mall={selectedMall} onClose={() => setSelectedMall(null)} />
 
       {/* 图例 */}
       <div style={{ position: 'absolute', bottom: '40px', left: '10px', zIndex: 999,
