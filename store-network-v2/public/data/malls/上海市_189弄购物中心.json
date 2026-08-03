@@ -1,0 +1,271 @@
+{
+  "name": "189弄购物中心",
+  "city": "上海市",
+  "address": "上海市浦东新区陆家嘴街道华能联合大厦",
+  "lat": 31.241,
+  "lng": 121.5205,
+  "overview": {
+    "score": 76,
+    "score_rank": "市内前50%",
+    "population_score": 68.3,
+    "area_score": 80.9,
+    "consumption_score": 81.7,
+    "industry_score": 76,
+    "annual_sales": null,
+    "annual_sales_unit": null,
+    "area_size_sqm": "",
+    "open_date": null,
+    "operator": null,
+    "brand": null,
+    "type": null,
+    "floors": ""
+  },
+  "traffic": {
+    "annual_daily": "",
+    "annual_daily_unit": null,
+    "jun_total": "",
+    "jun_daily_avg": "",
+    "jun_daily_unit": null,
+    "weekday_avg": "",
+    "holiday_avg": ""
+  },
+  "population": {
+    "residential": {
+      "500m": 6600,
+      "1_5km": 12.4,
+      "3km": 70.1
+    },
+    "office": {
+      "500m": 8.3,
+      "1_5km": 29.7,
+      "3km": 97.9
+    },
+    "permanent": {
+      "500m": 2.5,
+      "1_5km": 19,
+      "3km": 85.2
+    }
+  },
+  "business": {
+    "competitors": 20,
+    "food": 230,
+    "shopping": 84,
+    "leisure": 3,
+    "education": 8,
+    "hotel": 18,
+    "services": 91,
+    "fitness": 10,
+    "auto": 31,
+    "total_stores": 481,
+    "old_store_3yr_pct": "52%"
+  },
+  "nearby_poi": {
+    "business": 18,
+    "community": 605,
+    "office": 139,
+    "school": 21,
+    "hospital": 138,
+    "transport": 17,
+    "scenic": 661
+  },
+  "demographics": {
+    "male_pct": 49.1,
+    "education": {
+      "小学": 9.4,
+      "初中": 17.1,
+      "高中": 10.9,
+      "大专": 7.3,
+      "本科": 47.6,
+      "硕士": 6.0,
+      "博士": 1.7
+    },
+    "has_children_pct": null
+  },
+  "nearby_malls": [
+    {
+      "name": "上海永乐文化广场",
+      "open_date": null,
+      "area": null,
+      "jun_daily_avg": null,
+      "weekday_avg": null,
+      "holiday_avg": null
+    },
+    {
+      "name": "宜乐荟",
+      "open_date": "2020-01-01",
+      "area": null,
+      "jun_daily_avg": null,
+      "weekday_avg": null,
+      "holiday_avg": null
+    },
+    {
+      "name": "上海融创精彩天地",
+      "open_date": "2019-12-01",
+      "area": "1.8万㎡",
+      "jun_daily_avg": null,
+      "weekday_avg": null,
+      "holiday_avg": null
+    }
+  ],
+  "nearby_restaurants": [
+    {
+      "brand": "星巴克",
+      "address": "星巴克上海恒生银行大厦店",
+      "distance": "2020.06.01"
+    },
+    {
+      "brand": "星巴克",
+      "address": "星巴克船舶大厦店",
+      "distance": "2020.06.01"
+    },
+    {
+      "brand": "星巴克",
+      "address": "星巴克时代金融店",
+      "distance": "2020.06.01"
+    },
+    {
+      "brand": "喜茶HEYTEA",
+      "address": "上海尚悦湾广场店",
+      "distance": "2020.06.01"
+    },
+    {
+      "brand": "星巴克",
+      "address": "星巴克尚悦湾广场店",
+      "distance": "2020.06.01"
+    },
+    {
+      "brand": "星巴克",
+      "address": "星巴克上海中国人寿金融中心店",
+      "distance": "2020.06.01"
+    },
+    {
+      "brand": "星巴克",
+      "address": "星巴克浦江双辉店",
+      "distance": "2020.06.01"
+    },
+    {
+      "brand": "MANNER Coffee",
+      "address": "渣打二店",
+      "distance": "2020.01.01"
+    },
+    {
+      "brand": "MANNER Coffee",
+      "address": "渣打银行大厦店",
+      "distance": "2020.01.01"
+    },
+    {
+      "brand": "星巴克",
+      "address": "汇亚大厦店",
+      "distance": "2020.06.01"
+    },
+    {
+      "brand": "星巴克",
+      "address": "星巴克上海恒生银行大厦店",
+      "distance": "2020.06.01"
+    },
+    {
+      "brand": "星巴克",
+      "address": "星巴克船舶大厦店",
+      "distance": "2020.06.01"
+    },
+    {
+      "brand": "星巴克",
+      "address": "星巴克时代金融店",
+      "distance": "2020.06.01"
+    },
+    {
+      "brand": "喜茶HEYTEA",
+      "address": "上海尚悦湾广场店",
+      "distance": "2020.06.01"
+    },
+    {
+      "brand": "星巴克",
+      "address": "星巴克尚悦湾广场店",
+      "distance": "2020.06.01"
+    },
+    {
+      "brand": "星巴克",
+      "address": "星巴克上海中国人寿金融中心店",
+      "distance": "2020.06.01"
+    },
+    {
+      "brand": "星巴克",
+      "address": "星巴克浦江双辉店",
+      "distance": "2020.06.01"
+    },
+    {
+      "brand": "MANNER Coffee",
+      "address": "渣打二店",
+      "distance": "2020.01.01"
+    },
+    {
+      "brand": "MANNER Coffee",
+      "address": "渣打银行大厦店",
+      "distance": "2020.01.01"
+    },
+    {
+      "brand": "星巴克",
+      "address": "汇亚大厦店",
+      "distance": "2020.06.01"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 230,
+      "within_1yr_pct": 19.6,
+      "1_3yr_pct": 22.2,
+      "over_3yr_pct": 58.3
+    },
+    {
+      "type": "购物",
+      "count": 84,
+      "within_1yr_pct": 28.6,
+      "1_3yr_pct": 19.0,
+      "over_3yr_pct": 52.4
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 9,
+      "within_1yr_pct": 11.1,
+      "1_3yr_pct": 44.4,
+      "over_3yr_pct": 44.4
+    },
+    {
+      "type": "教育培训",
+      "count": 8,
+      "within_1yr_pct": 37.5,
+      "1_3yr_pct": 37.5,
+      "over_3yr_pct": 25.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 18,
+      "within_1yr_pct": 22.2,
+      "1_3yr_pct": 27.8,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "生活服务",
+      "count": 91,
+      "within_1yr_pct": 23.1,
+      "1_3yr_pct": 28.6,
+      "over_3yr_pct": 48.4
+    },
+    {
+      "type": "运动健身",
+      "count": 10,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 40.0,
+      "over_3yr_pct": 40.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 31,
+      "within_1yr_pct": 16.1,
+      "1_3yr_pct": 48.4,
+      "over_3yr_pct": 35.5
+    }
+  ],
+  "scraped_at": "2026-08-01T09:32:47.694Z"
+}
