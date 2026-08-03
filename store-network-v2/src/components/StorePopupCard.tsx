@@ -59,15 +59,16 @@ const sectionBase: React.CSSProperties = {
 };
 
 export default function StorePopupCard({
-  showHeatmap, onToggleHeatmap, onClose
+  showHeatmap, onToggleHeatmap, onClose, onSelectMall
 }: {
   showHeatmap: boolean;
   onToggleHeatmap: () => void;
   onClose: () => void;
+  onSelectMall: (mall: any) => void;
 }) {
-  const { selectedStore, stores, getAds, salesData, channelSales, weatherData, filters, layers, contourStores, setContourStores } = useAppStore();
+  const { selectedStore, stores, getAds, salesData, channelSales, filters, layers, contourStores, setContourStores, mallIndex } = useAppStore();
   const [showTopLoc, setShowTopLoc] = useState(false);
-  const [showWeather, setShowWeather] = useState(false);
+  const [showMalls, setShowMalls] = useState(false);
   const [minimized, setMinimized] = useState(false);
 
   if (!selectedStore) return null;
@@ -291,57 +292,83 @@ export default function StorePopupCard({
               style={{ padding: '4px 10px', borderRadius: '5px', border: 'none', fontSize: '11px', fontWeight: 600, cursor: 'pointer', background: '#3b82f6', color: '#fff' }}>
                热门配送地</button>
           ) : null}
-          {!showWeather ? (
-            <button type="button" onClick={(e) => { e.stopPropagation(); setShowWeather(true); }}
-              style={{ padding: '4px 10px', borderRadius: '5px', border: 'none', fontSize: '11px', fontWeight: 600, cursor: 'pointer', background: '#8b5cf6', color: '#fff' }}>
-              🌤 天气趋势</button>
+          {!showMalls ? (
+            <button type="button" onClick={(e) => { e.stopPropagation(); setShowMalls(true); }}
+              style={{ padding: '4px 10px', borderRadius: '5px', border: 'none', fontSize: '11px', fontWeight: 600, cursor: 'pointer', background: '#f59e0b', color: '#fff' }}>
+              🏢 周边商场详情</button>
           ) : null}
         </div>
 
-        {/* 天气趋势 */}
-        {showWeather && (() => {
-          const cityWeather = weatherData[s.city] || [];
-          const filteredWeather = cityWeather.filter(w => w.date >= ds && w.date <= de);
-          if (filteredWeather.length === 0) {
-            return <div style={{ ...sectionBase, background: '#f5f3ff', borderLeft: '3px solid #8b5cf6' }}>
-              <div style={{ fontWeight: 700, color: '#6d28d9', marginBottom: '3px' }}>天气趋势</div>
-              <div style={{ fontSize: '9px', color: '#94a3b8' }}>暂无天气数据</div>
+        {/* 周边商场详情 */}
+        {showMalls && (() => {
+          if (mallIndex.length === 0) {
+            return <div style={{ ...sectionBase, background: '#fffbeb', borderLeft: '3px solid #f59e0b' }}>
+              <div style={{ fontWeight: 700, color: '#92400e', marginBottom: '3px' }}>周边商场详情</div>
+              <div style={{ fontSize: '9px', color: '#94a3b8' }}>商场数据加载中...</div>
             </div>;
           }
-          const avgTmax = filteredWeather.reduce((sum, w) => sum + (w.tmax || 0), 0) / filteredWeather.length;
-          const avgTmin = filteredWeather.reduce((sum, w) => sum + (w.tmin || 0), 0) / filteredWeather.length;
-          const totalPrecip = filteredWeather.reduce((sum, w) => sum + (w.precip || 0), 0);
-          const rainDays = filteredWeather.filter(w => (w.precip || 0) > 0.1).length;
+          // Compute malls within 3km of the store
+          const R = 6371;
+          const toRad = (d: number) => d * Math.PI / 180;
+          const nearbyMalls = mallIndex
+            .filter(m => m.lat != null && m.lng != null)
+            .map(m => {
+              const dLat = toRad(m.lat - s.lat);
+              const dLng = toRad(m.lng - s.lng);
+              const a = Math.sin(dLat/2)**2 + Math.cos(toRad(s.lat)) * Math.cos(toRad(m.lat)) * Math.sin(dLng/2)**2;
+              return { ...m, dist: R * 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a)) };
+            })
+            .filter(m => m.dist <= 3)
+            .sort((a, b) => a.dist - b.dist);
+
+          if (nearbyMalls.length === 0) {
+            return <div style={{ ...sectionBase, background: '#fffbeb', borderLeft: '3px solid #f59e0b' }}>
+              <div style={{ fontWeight: 700, color: '#92400e', marginBottom: '3px' }}>周边商场详情</div>
+              <div style={{ fontSize: '9px', color: '#94a3b8' }}>3km 内暂无商场数据</div>
+            </div>;
+          }
+
+          const handleMallClick = (mall: typeof nearbyMalls[0]) => {
+            const safeName = `${mall.city}_${mall.name}`.replace(/[\\/:*?"<>|#]/g, '_');
+            fetch(`/data/malls/${encodeURIComponent(safeName)}.json`)
+              .then(r => r.json())
+              .then(detail => onSelectMall(detail))
+              .catch(console.warn);
+          };
+
           return (
-            <div style={{ ...sectionBase, background: '#f5f3ff', borderLeft: '3px solid #8b5cf6' }}>
-              <div style={{ fontWeight: 700, color: '#6d28d9', marginBottom: '3px' }}>天气趋势 ({filteredWeather.length}天)</div>
-              <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '2px', fontSize: '10px' }}>
-                <div>平均最高温：<b>{avgTmax.toFixed(1)}°C</b></div>
-                <div>平均最低温：<b>{avgTmin.toFixed(1)}°C</b></div>
-                <div>累计降水：<b>{totalPrecip.toFixed(1)}mm</b></div>
-                <div>降雨天数：<b>{rainDays}天</b></div>
+            <div style={{ ...sectionBase, background: '#fffbeb', borderLeft: '3px solid #f59e0b' }}>
+              <div style={{ fontWeight: 700, color: '#92400e', marginBottom: '3px' }}>
+                周边商场详情 ({nearbyMalls.length}家)
               </div>
-              <div style={{ maxHeight: '100px', overflowY: 'auto', marginTop: '4px' }}>
-                <table style={{ width: '100%', borderCollapse: 'collapse', fontSize: '9px' }}>
-                  <thead>
-                    <tr style={{ color: '#64748b', borderBottom: '1px solid #e9d5ff' }}>
-                      <th style={{ textAlign: 'left', padding: '1px 0' }}>日期</th>
-                      <th style={{ textAlign: 'right', padding: '1px 2px' }}>最高</th>
-                      <th style={{ textAlign: 'right', padding: '1px 2px' }}>最低</th>
-                      <th style={{ textAlign: 'right', padding: '1px 0' }}>降水</th>
-                    </tr>
-                  </thead>
-                  <tbody>
-                    {filteredWeather.slice(-14).map(w => (
-                      <tr key={w.date} style={{ borderBottom: '1px solid #f5f3ff' }}>
-                        <td style={{ padding: '1px 0', color: '#64748b' }}>{w.date.slice(5)}</td>
-                        <td style={{ padding: '1px 2px', textAlign: 'right', color: w.tmax != null && w.tmax >= 35 ? '#dc2626' : '#1e293b' }}>{w.tmax != null ? `${w.tmax}°` : '-'}</td>
-                        <td style={{ padding: '1px 2px', textAlign: 'right', color: w.tmin != null && w.tmin <= 5 ? '#3b82f6' : '#1e293b' }}>{w.tmin != null ? `${w.tmin}°` : '-'}</td>
-                        <td style={{ padding: '1px 0', textAlign: 'right', color: (w.precip || 0) > 5 ? '#3b82f6' : '#64748b' }}>{w.precip > 0 ? `${w.precip}mm` : '-'}</td>
-                      </tr>
-                    ))}
-                  </tbody>
-                </table>
+              <div style={{ maxHeight: '180px', overflowY: 'auto', fontSize: '10px' }}>
+                {nearbyMalls.map(m => (
+                  <div key={`${m.city}_${m.name}`}
+                    onClick={(e) => { e.stopPropagation(); handleMallClick(m); }}
+                    style={{
+                      display: 'flex', justifyContent: 'space-between', alignItems: 'center',
+                      padding: '3px 4px', cursor: 'pointer',
+                      borderBottom: '1px solid #fef3c7', borderRadius: '3px',
+                      transition: 'background 0.1s',
+                      background: '#fff',
+                    }}
+                    onMouseEnter={e => (e.currentTarget.style.background = '#fffbeb')}
+                    onMouseLeave={e => (e.currentTarget.style.background = '#fff')}
+                  >
+                    <div style={{ flex: 1, minWidth: 0 }}>
+                      <div style={{ fontWeight: 600, color: '#1e293b', overflow: 'hidden', textOverflow: 'ellipsis', whiteSpace: 'nowrap' }}>
+                        {m.name}
+                      </div>
+                      {m.score != null && (
+                        <div style={{ fontSize: '9px', color: '#92400e' }}>⭐ {(m.score/20).toFixed(1)}</div>
+                      )}
+                    </div>
+                    <div style={{ textAlign: 'right', flexShrink: 0, marginLeft: '8px' }}>
+                      <div style={{ fontSize: '9px', color: '#64748b' }}>{m.dist.toFixed(1)}km</div>
+                      <div style={{ fontSize: '9px', color: '#3b82f6', fontWeight: 600 }}>详情 →</div>
+                    </div>
+                  </div>
+                ))}
               </div>
             </div>
           );
