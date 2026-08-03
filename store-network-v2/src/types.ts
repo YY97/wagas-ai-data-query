@@ -130,3 +130,106 @@ export interface Filters {
   dateStart: string;
   dateEnd: string;
 }
+
+// 商场数据类型
+export interface MallIndexItem {
+  name: string;
+  city: string;
+  lat: number;
+  lng: number;
+  score: number | null;
+  type: string;
+  open_date: string;
+}
+
+export interface MallDetail {
+  name: string;
+  city: string;
+  address: string;
+  lat: number;
+  lng: number;
+  overview: {
+    score: number | null;
+    score_rank: string;
+    population_score: number | null;
+    area_score: number | null;
+    consumption_score: number | null;
+    industry_score: number | null;
+    annual_sales: string;
+    annual_sales_unit: string;
+    area_size_sqm: number | null;
+    open_date: string;
+    operator: string;
+    brand: string;
+    type: string;
+    floors: string;
+  };
+  traffic: {
+    annual_daily: number | null;
+    annual_daily_unit: string;
+    jun_total: number | null;
+    jun_daily_avg: number | null;
+    jun_daily_unit: string;
+    weekday_avg: number | null;
+    holiday_avg: number | null;
+  };
+  population: {
+    residential: { '500m': number | null; '1_5km': number | null; '3km': number | null };
+    office: { '500m': number | null; '1_5km': number | null; '3km': number | null };
+    permanent: { '500m': number | null; '1_5km': number | null; '3km': number | null };
+  };
+  business: {
+    competitors: number | null;
+    food: number | null;
+    shopping: number | null;
+    leisure: number | null;
+    education: number | null;
+    hotel: number | null;
+    services: number | null;
+    fitness: number | null;
+    auto: number | null;
+    total_stores: number | null;
+    old_store_3yr_pct: number | null;
+  };
+  demographics: {
+    male_pct: number | null;
+    education: Record<string, number | null>;
+    has_children_pct: number | null;
+  };
+  nearby_poi: {
+    business: number | null;
+    community: number | null;
+    office: number | null;
+    school: number | null;
+    hospital: number | null;
+    transport: number | null;
+    scenic: number | null;
+  };
+  nearby_malls: NearbyMallItem[];
+  nearby_restaurants: NearbyRestaurantItem[];
+  business_survival: BusinessSurvivalItem[];
+  scraped_at: string;
+}
+
+export interface NearbyMallItem {
+  name: string;
+  open_date: string;
+  area: string;
+  jun_daily_avg: string;
+  weekday_avg: string;
+  holiday_avg: string;
+}
+
+export interface NearbyRestaurantItem {
+  brand: string;
+  address: string;
+  distance: string;
+}
+
+export interface BusinessSurvivalItem {
+  type: string;
+  count: number | null;
+  within_1yr_pct: number;
+  '1_3yr_pct': number;
+  over_3yr_pct: number;
+}
