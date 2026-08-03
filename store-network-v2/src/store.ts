@@ -46,7 +46,7 @@ interface AppState {
   getAds: (sid: string) => number | null;
   setMallIndex: (data: MallIndexItem[]) => void;
   setSelectedMall: (mall: MallDetail | null) => void;
-  initData: (stores: Store[], salesData: SalesData, channelSales: any, weatherData: any, dateRange: { start: string; end: string }, competitors?: CompetitorData, densityGridData?: DensityGridPoint[], meituanMallData?: MeituanMallData[]) => void;
+  initData: (stores: Store[], salesData: SalesData, channelSales: any, weatherData: any, dateRange: { start: string; end: string }, competitors?: CompetitorData, densityGridData?: DensityGridPoint[], meituanMallData?: MeituanMallData[], mallIndex?: MallIndexItem[]) => void;
 }
 
 const defaultFilters: Filters = {
@@ -139,7 +139,7 @@ export const useAppStore = create<AppState>((set, get) => ({
     return values.length ? values.reduce((a, b) => a + b, 0) / values.length : null;
   },
 
-  initData: (stores, salesData, channelSales, weatherData, dateRange, competitors = {}, densityGridData = [], meituanMallData = []) => {
+  initData: (stores, salesData, channelSales, weatherData, dateRange, competitors = {}, densityGridData = [], meituanMallData = [], mallIndex = []) => {
     const allDates = new Set<string>();
     Object.values(salesData).forEach((storeSales: Record<string, number>) => {
       Object.keys(storeSales).forEach(date => allDates.add(date));
@@ -166,6 +166,7 @@ export const useAppStore = create<AppState>((set, get) => ({
       competitorBrands,
       densityGridData,
       meituanMallData,
+      mallIndex,
       dateRange,
       allDates: sortedDates,
       loading: false,
