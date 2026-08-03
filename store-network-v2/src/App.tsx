@@ -21,8 +21,9 @@ function App() {
       fetch(`${import.meta.env.BASE_URL}data/competitor_stores.json`).then(r => r.json()).catch(() => ({})),
       fetch(`${import.meta.env.BASE_URL}data/density_grid.json`).then(r => r.json()).catch(() => ([])),
       fetch(`${import.meta.env.BASE_URL}data/meituan_mall_data.json`).then(r => r.json()).catch(() => ([])),
+      fetch(`${import.meta.env.BASE_URL}data/malls/index.json`).then(r => r.json()).catch(() => ([])),
     ])
-      .then(([stores, salesData, channelSales, weatherData, topLocationsData, competitors, densityGridData, meituanMallData]: [Store[], SalesData, any, any, Record<string, any[]>, any, any[], any[]]) => {
+      .then(([stores, salesData, channelSales, weatherData, topLocationsData, competitors, densityGridData, meituanMallData, mallIndex]: [Store[], SalesData, any, any, Record<string, any[]>, any, any[], any[], any[]]) => {
         const storesWithLocations = stores.map(store => ({
           ...store,
           top_locations: topLocationsData[store.sid] || [],
@@ -51,7 +52,7 @@ function App() {
           end: sortedDates[sortedDates.length - 1] || '',
         };
 
-        initData(storesWithLocations, salesData, channelSales, weatherData, dateRange, competitors, densityGridData, meituanWithCoords);
+        initData(storesWithLocations, salesData, channelSales, weatherData, dateRange, competitors, densityGridData, meituanWithCoords, mallIndex);
       })
       .catch(err => {
         console.error('Failed to load data:', err);
