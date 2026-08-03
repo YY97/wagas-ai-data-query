@@ -1,5 +1,5 @@
 import { create } from 'zustand';
-import type { Store, SalesData, Filters, CompetitorData, DensityGridPoint, MeituanMallData } from './types';
+import type { Store, SalesData, Filters, CompetitorData, DensityGridPoint, MeituanMallData, MallIndexItem, MallDetail } from './types';
 
 export interface LayerToggles {
   showMarkers: boolean;
@@ -25,6 +25,8 @@ interface AppState {
   competitorBrands: Record<string, boolean>;
   densityGridData: DensityGridPoint[];
   meituanMallData: MeituanMallData[];
+  mallIndex: MallIndexItem[];
+  selectedMall: MallDetail | null;
   dateRange: { start: string; end: string };
   allDates: string[];
   filters: Filters;
@@ -42,6 +44,8 @@ interface AppState {
   setContourStores: (fn: (prev: string[]) => string[]) => void;
   setCompetitorBrand: (brand: string, value: boolean) => void;
   getAds: (sid: string) => number | null;
+  setMallIndex: (data: MallIndexItem[]) => void;
+  setSelectedMall: (mall: MallDetail | null) => void;
   initData: (stores: Store[], salesData: SalesData, channelSales: any, weatherData: any, dateRange: { start: string; end: string }, competitors?: CompetitorData, densityGridData?: DensityGridPoint[], meituanMallData?: MeituanMallData[]) => void;
 }
 
@@ -80,6 +84,8 @@ export const useAppStore = create<AppState>((set, get) => ({
   competitorBrands: {},
   densityGridData: [],
   meituanMallData: [],
+  mallIndex: [],
+  selectedMall: null,
   dateRange: { start: '', end: '' },
   allDates: [],
   filters: defaultFilters,
@@ -109,6 +115,10 @@ export const useAppStore = create<AppState>((set, get) => ({
   setCompetitorBrand: (brand, value) => set((state) => ({
     competitorBrands: { ...state.competitorBrands, [brand]: value }
   })),
+
+  setMallIndex: (data) => set({ mallIndex: data }),
+
+  setSelectedMall: (mall) => set({ selectedMall: mall }),
 
   setSelectedStore: (store) => set({ selectedStore: store }),
   setLoading: (loading) => set({ loading }),
