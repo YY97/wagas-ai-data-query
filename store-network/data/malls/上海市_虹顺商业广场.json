@@ -1,0 +1,165 @@
+{
+  "name": "虹顺商业广场",
+  "city": "上海市",
+  "address": "上海市闵行区虹桥镇虹井路618弄61号金汇花园一街坊",
+  "lat": 31.182148,
+  "lng": 121.371604,
+  "overview": {
+    "score": 78.9,
+    "score_rank": "市内前30%",
+    "population_score": 94.0,
+    "area_score": 75.6,
+    "consumption_score": 74.2,
+    "industry_score": 78.9,
+    "annual_sales": "",
+    "annual_sales_unit": "",
+    "area_size_sqm": null,
+    "open_date": "",
+    "operator": "",
+    "brand": "",
+    "type": "",
+    "floors": ""
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "",
+    "annual_daily_rank": "",
+    "jun_total": null,
+    "jun_total_rank": "",
+    "jun_daily_avg": null,
+    "jun_daily_unit": "",
+    "jun_daily_rank": "",
+    "weekday_avg": null,
+    "weekday_unit": "",
+    "weekday_rank": "",
+    "holiday_avg": null,
+    "holiday_unit": "",
+    "holiday_rank": ""
+  },
+  "population": {
+    "residential": {
+      "500m": 2.9,
+      "1_5km": 16.0,
+      "3km": 52.8
+    },
+    "office": {
+      "500m": 1.3,
+      "1_5km": 10.1,
+      "3km": 36.8
+    },
+    "permanent": {
+      "500m": 2.9,
+      "1_5km": 17.2,
+      "3km": 54.7
+    }
+  },
+  "business": {
+    "competitors": 1.0,
+    "food": 92.0,
+    "shopping": 162.0,
+    "leisure": 15.0,
+    "education": 9.0,
+    "hotel": 21.0,
+    "services": 109.0,
+    "fitness": 9.0,
+    "auto": 14.0,
+    "total_stores": 439.0,
+    "old_store_3yr_pct": 59.0
+  },
+  "nearby_poi": {
+    "business": 8.0,
+    "community": 443.0,
+    "office": 61.0,
+    "school": 30.0,
+    "hospital": 52.0,
+    "transport": 14.0,
+    "scenic": 209.0
+  },
+  "demographics": {
+    "male_pct": 47.6,
+    "female_pct": null,
+    "education": {
+      "小学": 9.5,
+      "初中": 18.3,
+      "高中": 11.4,
+      "大专": 8.0,
+      "本科": 47.0,
+      "硕士": 4.7,
+      "博士": 1.1
+    },
+    "has_children_pct": null,
+    "no_children_pct": null
+  },
+  "scraped_at": "2026-08-02T03:22:31.998Z",
+  "nearby_restaurants": [
+    {
+      "brand": "一朝鲜包子(程家桥路店)",
+      "address": "程家桥路170号(程家桥路与虹中支路交叉口西50米)",
+      "distance": "480m"
+    },
+    {
+      "brand": "君来顺四季涮肉(程家桥路店)",
+      "address": "虹桥镇程家桥路170号",
+      "distance": "481m"
+    }
+  ],
+  "nearby_malls": [],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 92.0,
+      "within_1yr_pct": 15.2,
+      "1_3yr_pct": 28.3,
+      "over_3yr_pct": 56.5
+    },
+    {
+      "type": "购物",
+      "count": 162.0,
+      "within_1yr_pct": 17.9,
+      "1_3yr_pct": 15.4,
+      "over_3yr_pct": 66.7
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 23.0,
+      "within_1yr_pct": 17.4,
+      "1_3yr_pct": 26.1,
+      "over_3yr_pct": 56.5
+    },
+    {
+      "type": "教育培训",
+      "count": 9.0,
+      "within_1yr_pct": 44.4,
+      "1_3yr_pct": 11.1,
+      "over_3yr_pct": 44.4
+    },
+    {
+      "type": "酒店住宿",
+      "count": 21.0,
+      "within_1yr_pct": 28.6,
+      "1_3yr_pct": 4.8,
+      "over_3yr_pct": 66.7
+    },
+    {
+      "type": "生活服务",
+      "count": 109.0,
+      "within_1yr_pct": 20.2,
+      "1_3yr_pct": 30.3,
+      "over_3yr_pct": 49.5
+    },
+    {
+      "type": "运动健身",
+      "count": 9.0,
+      "within_1yr_pct": 22.2,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 44.4
+    },
+    {
+      "type": "车辆服务",
+      "count": 14.0,
+      "within_1yr_pct": 7.1,
+      "1_3yr_pct": 35.7,
+      "over_3yr_pct": 57.1
+    }
+  ]
+}

@@ -1,0 +1,432 @@
+{
+  "name": "上海玖時活力中心",
+  "city": "上海市",
+  "address": "上海市徐汇区肇嘉浜路151号",
+  "lat": 31.203384,
+  "lng": 121.464467,
+  "overview": {
+    "score": 84.3,
+    "score_rank": "市内前30%",
+    "population_score": 100.0,
+    "area_score": 87.8,
+    "consumption_score": 86.2,
+    "industry_score": 84.2,
+    "annual_sales": "玖時活力中心集商业零售、餐饮、超市、休闲于一体的城市型\\\"小世界\\\"，致力于打造城市新客厅＆集合邻里中心，与周边地块形成联动，提升邻里中心的体验感",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 2.0,
+    "open_date": "2021-12-31",
+    "operator": "上海久事（集团）有限公司",
+    "brand": "",
+    "type": "美食型",
+    "floors": "B2-L4"
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "-",
+    "annual_daily_rank": "",
+    "jun_total": 24.4,
+    "jun_total_rank": "市内商场第348名",
+    "jun_daily_avg": 8124.0,
+    "jun_daily_unit": "人次",
+    "jun_daily_rank": "市内商场第348名",
+    "weekday_avg": 7814.0,
+    "weekday_unit": "人次",
+    "weekday_rank": "市内商场第350名",
+    "holiday_avg": 8979.0,
+    "holiday_unit": "人次",
+    "holiday_rank": "市内商场第346名"
+  },
+  "population": {
+    "residential": {
+      "500m": 4.5,
+      "1_5km": 30.3,
+      "3km": 88.8
+    },
+    "office": {
+      "500m": 2.9,
+      "1_5km": 24.9,
+      "3km": 88.7
+    },
+    "permanent": {
+      "500m": 4.7,
+      "1_5km": 33.2,
+      "3km": 104.7
+    }
+  },
+  "business": {
+    "competitors": 4.0,
+    "food": 226.0,
+    "shopping": 213.0,
+    "leisure": 23.0,
+    "education": 32.0,
+    "hotel": 108.0,
+    "services": 191.0,
+    "fitness": 49.0,
+    "auto": 17.0,
+    "total_stores": 48.0,
+    "old_store_3yr_pct": 63.0
+  },
+  "nearby_poi": {
+    "business": 5.0,
+    "community": 1111.0,
+    "office": 122.0,
+    "school": 81.0,
+    "hospital": 166.0,
+    "transport": 15.0,
+    "scenic": 647.0
+  },
+  "demographics": {
+    "male_pct": 42.6,
+    "female_pct": null,
+    "education": {
+      "小学": 8.4,
+      "初中": 15.9,
+      "高中": 11.5,
+      "大专": 6.7,
+      "本科": 49.0,
+      "硕士": 6.6,
+      "博士": 1.9
+    },
+    "has_children_pct": 63.4,
+    "no_children_pct": 36.6
+  },
+  "scraped_at": "2026-07-31T16:56:59.160Z",
+  "nearby_restaurants": [
+    {
+      "brand": "霸王茶姬(上海玖时活力中心1L店)",
+      "address": "大木桥路18号玖时活力中心1L(地铁4号口旁)",
+      "distance": "5m"
+    },
+    {
+      "brand": "瑞幸咖啡(玖時活力中心店)",
+      "address": "大木桥路18号玖时活力中心商场B2层B2002室",
+      "distance": "5m"
+    },
+    {
+      "brand": "鱼你在一起(徐汇玖时活力中心店 )",
+      "address": "大木桥路18号久岸大厦负二层B2005号",
+      "distance": "6m"
+    },
+    {
+      "brand": "金饭碗(玖時活力中心店)",
+      "address": "大木桥路18号玖时活力中心地下二层(嘉善路地铁站4号口旁)",
+      "distance": "6m"
+    },
+    {
+      "brand": "金城蘭亭序·兰州牛肉面(玖時活力中心店)",
+      "address": "大木桥路18号地下二层(嘉善路地铁站4号口旁)",
+      "distance": "7m"
+    },
+    {
+      "brand": "中古屋咖啡(玖時活力中心店)",
+      "address": "大木桥路18号玖時活力中心F4层(嘉善路地铁站4号口旁)",
+      "distance": "9m"
+    },
+    {
+      "brand": "张亮麻辣烫(上海久岸大厦店)",
+      "address": "大木桥路18号玖時活力中心B2层",
+      "distance": "12m"
+    },
+    {
+      "brand": "老南昌子固路拌粉(玖时活力中心店)",
+      "address": "大木桥路18号B1层(嘉善路地铁站4号口旁)",
+      "distance": "13m"
+    },
+    {
+      "brand": "漠漠家·凉皮·肉夹馍(黄小递美食城店)",
+      "address": "久时活力中心B1楼B1楼1006室漠漠家的面",
+      "distance": "15m"
+    },
+    {
+      "brand": "蒜苗王子清真兰州牛肉面",
+      "address": "大木桥路与医学院路交叉口西北140米(嘉善路地铁站出入口旁)",
+      "distance": "17m"
+    },
+    {
+      "brand": "霸王茶姬(上海玖时活力中心1L店)",
+      "address": "大木桥路18号玖时活力中心1L(地铁4号口旁)",
+      "distance": "5m"
+    },
+    {
+      "brand": "瑞幸咖啡(玖時活力中心店)",
+      "address": "大木桥路18号玖时活力中心商场B2层B2002室",
+      "distance": "5m"
+    },
+    {
+      "brand": "鱼你在一起(徐汇玖时活力中心店 )",
+      "address": "大木桥路18号久岸大厦负二层B2005号",
+      "distance": "6m"
+    },
+    {
+      "brand": "金饭碗(玖時活力中心店)",
+      "address": "大木桥路18号玖时活力中心地下二层(嘉善路地铁站4号口旁)",
+      "distance": "6m"
+    },
+    {
+      "brand": "金城蘭亭序·兰州牛肉面(玖時活力中心店)",
+      "address": "大木桥路18号地下二层(嘉善路地铁站4号口旁)",
+      "distance": "7m"
+    },
+    {
+      "brand": "中古屋咖啡(玖時活力中心店)",
+      "address": "大木桥路18号玖時活力中心F4层(嘉善路地铁站4号口旁)",
+      "distance": "9m"
+    },
+    {
+      "brand": "张亮麻辣烫(上海久岸大厦店)",
+      "address": "大木桥路18号玖時活力中心B2层",
+      "distance": "12m"
+    },
+    {
+      "brand": "老南昌子固路拌粉(玖时活力中心店)",
+      "address": "大木桥路18号B1层(嘉善路地铁站4号口旁)",
+      "distance": "13m"
+    },
+    {
+      "brand": "漠漠家·凉皮·肉夹馍(黄小递美食城店)",
+      "address": "久时活力中心B1楼B1楼1006室漠漠家的面",
+      "distance": "15m"
+    },
+    {
+      "brand": "蒜苗王子清真兰州牛肉面",
+      "address": "大木桥路与医学院路交叉口西北140米(嘉善路地铁站出入口旁)",
+      "distance": "17m"
+    },
+    {
+      "brand": "霸王茶姬(上海玖时活力中心1L店)",
+      "address": "大木桥路18号玖时活力中心1L(地铁4号口旁)",
+      "distance": "5m"
+    },
+    {
+      "brand": "瑞幸咖啡(玖時活力中心店)",
+      "address": "大木桥路18号玖时活力中心商场B2层B2002室",
+      "distance": "5m"
+    },
+    {
+      "brand": "鱼你在一起(徐汇玖时活力中心店 )",
+      "address": "大木桥路18号久岸大厦负二层B2005号",
+      "distance": "6m"
+    },
+    {
+      "brand": "金饭碗(玖時活力中心店)",
+      "address": "大木桥路18号玖时活力中心地下二层(嘉善路地铁站4号口旁)",
+      "distance": "6m"
+    },
+    {
+      "brand": "金城蘭亭序·兰州牛肉面(玖時活力中心店)",
+      "address": "大木桥路18号地下二层(嘉善路地铁站4号口旁)",
+      "distance": "7m"
+    },
+    {
+      "brand": "中古屋咖啡(玖時活力中心店)",
+      "address": "大木桥路18号玖時活力中心F4层(嘉善路地铁站4号口旁)",
+      "distance": "9m"
+    },
+    {
+      "brand": "张亮麻辣烫(上海久岸大厦店)",
+      "address": "大木桥路18号玖時活力中心B2层",
+      "distance": "12m"
+    },
+    {
+      "brand": "老南昌子固路拌粉(玖时活力中心店)",
+      "address": "大木桥路18号B1层(嘉善路地铁站4号口旁)",
+      "distance": "13m"
+    },
+    {
+      "brand": "漠漠家·凉皮·肉夹馍(黄小递美食城店)",
+      "address": "久时活力中心B1楼B1楼1006室漠漠家的面",
+      "distance": "15m"
+    },
+    {
+      "brand": "蒜苗王子清真兰州牛肉面",
+      "address": "大木桥路与医学院路交叉口西北140米(嘉善路地铁站出入口旁)",
+      "distance": "17m"
+    },
+    {
+      "brand": "霸王茶姬(上海玖时活力中心1L店)",
+      "address": "大木桥路18号玖时活力中心1L(地铁4号口旁)",
+      "distance": "5m"
+    },
+    {
+      "brand": "瑞幸咖啡(玖時活力中心店)",
+      "address": "大木桥路18号玖时活力中心商场B2层B2002室",
+      "distance": "5m"
+    },
+    {
+      "brand": "鱼你在一起(徐汇玖时活力中心店 )",
+      "address": "大木桥路18号久岸大厦负二层B2005号",
+      "distance": "6m"
+    },
+    {
+      "brand": "金饭碗(玖時活力中心店)",
+      "address": "大木桥路18号玖时活力中心地下二层(嘉善路地铁站4号口旁)",
+      "distance": "6m"
+    },
+    {
+      "brand": "金城蘭亭序·兰州牛肉面(玖時活力中心店)",
+      "address": "大木桥路18号地下二层(嘉善路地铁站4号口旁)",
+      "distance": "7m"
+    },
+    {
+      "brand": "中古屋咖啡(玖時活力中心店)",
+      "address": "大木桥路18号玖時活力中心F4层(嘉善路地铁站4号口旁)",
+      "distance": "9m"
+    },
+    {
+      "brand": "张亮麻辣烫(上海久岸大厦店)",
+      "address": "大木桥路18号玖時活力中心B2层",
+      "distance": "12m"
+    },
+    {
+      "brand": "老南昌子固路拌粉(玖时活力中心店)",
+      "address": "大木桥路18号B1层(嘉善路地铁站4号口旁)",
+      "distance": "13m"
+    },
+    {
+      "brand": "漠漠家·凉皮·肉夹馍(黄小递美食城店)",
+      "address": "久时活力中心B1楼B1楼1006室漠漠家的面",
+      "distance": "15m"
+    },
+    {
+      "brand": "蒜苗王子清真兰州牛肉面",
+      "address": "大木桥路与医学院路交叉口西北140米(嘉善路地铁站出入口旁)",
+      "distance": "17m"
+    },
+    {
+      "brand": "霸王茶姬(上海玖时活力中心1L店)",
+      "address": "大木桥路18号玖时活力中心1L(地铁4号口旁)",
+      "distance": "5m"
+    },
+    {
+      "brand": "瑞幸咖啡(玖時活力中心店)",
+      "address": "大木桥路18号玖时活力中心商场B2层B2002室",
+      "distance": "5m"
+    },
+    {
+      "brand": "鱼你在一起(徐汇玖时活力中心店 )",
+      "address": "大木桥路18号久岸大厦负二层B2005号",
+      "distance": "6m"
+    },
+    {
+      "brand": "金饭碗(玖時活力中心店)",
+      "address": "大木桥路18号玖时活力中心地下二层(嘉善路地铁站4号口旁)",
+      "distance": "6m"
+    },
+    {
+      "brand": "金城蘭亭序·兰州牛肉面(玖時活力中心店)",
+      "address": "大木桥路18号地下二层(嘉善路地铁站4号口旁)",
+      "distance": "7m"
+    },
+    {
+      "brand": "中古屋咖啡(玖時活力中心店)",
+      "address": "大木桥路18号玖時活力中心F4层(嘉善路地铁站4号口旁)",
+      "distance": "9m"
+    },
+    {
+      "brand": "张亮麻辣烫(上海久岸大厦店)",
+      "address": "大木桥路18号玖時活力中心B2层",
+      "distance": "12m"
+    },
+    {
+      "brand": "老南昌子固路拌粉(玖时活力中心店)",
+      "address": "大木桥路18号B1层(嘉善路地铁站4号口旁)",
+      "distance": "13m"
+    },
+    {
+      "brand": "漠漠家·凉皮·肉夹馍(黄小递美食城店)",
+      "address": "久时活力中心B1楼B1楼1006室漠漠家的面",
+      "distance": "15m"
+    },
+    {
+      "brand": "蒜苗王子清真兰州牛肉面",
+      "address": "大木桥路与医学院路交叉口西北140米(嘉善路地铁站出入口旁)",
+      "distance": "17m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海尚街Loft时尚生活园区",
+      "open_date": "2007-12-01",
+      "area": "2.4万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海日月光中心",
+      "open_date": "2010-06-18",
+      "area": "14万㎡",
+      "jun_daily_avg": "11.1万人次",
+      "weekday_avg": "11.3万人次",
+      "holiday_avg": "10.4万人次"
+    },
+    {
+      "name": "田子坊",
+      "open_date": "1998-01-01",
+      "area": "3万㎡",
+      "jun_daily_avg": "1.3万人次",
+      "weekday_avg": "1.2万人次",
+      "holiday_avg": "1.6万人次"
+    },
+    {
+      "name": "上海黄浦绿地缤纷城",
+      "open_date": "2018-06-27",
+      "area": "4.9万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海环贸iapm",
+      "open_date": "2013-08-01",
+      "area": "12万㎡",
+      "jun_daily_avg": "6.3万人次",
+      "weekday_avg": "5.9万人次",
+      "holiday_avg": "7.3万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 22.0,
+      "within_1yr_pct": 9.1,
+      "1_3yr_pct": 13.6,
+      "over_3yr_pct": 77.3
+    },
+    {
+      "type": "购物",
+      "count": 8.0,
+      "within_1yr_pct": 37.5,
+      "1_3yr_pct": 12.5,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "教育培训",
+      "count": 5.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 20.0,
+      "over_3yr_pct": 60.0
+    },
+    {
+      "type": "生活服务",
+      "count": 6.0,
+      "within_1yr_pct": 16.7,
+      "1_3yr_pct": 16.7,
+      "over_3yr_pct": 66.7
+    },
+    {
+      "type": "运动健身",
+      "count": 6.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 16.7,
+      "over_3yr_pct": 33.3
+    }
+  ]
+}

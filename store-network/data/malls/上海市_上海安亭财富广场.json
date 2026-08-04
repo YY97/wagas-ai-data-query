@@ -1,0 +1,430 @@
+{
+  "name": "上海安亭财富广场",
+  "city": "上海市",
+  "address": "上海市嘉定区安亭镇曹安公路5616号全季酒店(上海安亭地铁站店)",
+  "lat": 31.289831,
+  "lng": 121.161808,
+  "overview": {
+    "score": 88.2,
+    "score_rank": "市内前30%",
+    "population_score": 91.7,
+    "area_score": 88.4,
+    "consumption_score": 64.1,
+    "industry_score": 88.3,
+    "annual_sales": "安亭财富广场位于曹安公路5598号，是墨玉路国际汽车城核心商圈的大型商业广场之一，与地铁11号线安亭站一街之隔，是理想的办公及商业场所",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 2.5,
+    "open_date": "2015-06-01",
+    "operator": "上海世源置业有限公司",
+    "brand": "上海世源置业有限公司",
+    "type": "综合型",
+    "floors": "L1-L5"
+  },
+  "traffic": {
+    "annual_daily": 3096.0,
+    "annual_daily_unit": "人次",
+    "annual_daily_rank": "市内第436",
+    "jun_total": 11.1,
+    "jun_total_rank": "市内商场第477名",
+    "jun_daily_avg": 3702.0,
+    "jun_daily_unit": "人次",
+    "jun_daily_rank": "市内商场第477名",
+    "weekday_avg": 3474.0,
+    "weekday_unit": "人次",
+    "weekday_rank": "市内商场第481名",
+    "holiday_avg": 4329.0,
+    "holiday_unit": "人次",
+    "holiday_rank": "市内商场第464名"
+  },
+  "population": {
+    "residential": {
+      "500m": 2.5,
+      "1_5km": 11.5,
+      "3km": 29.8
+    },
+    "office": {
+      "500m": 2.1,
+      "1_5km": 6.6,
+      "3km": 14.5
+    },
+    "permanent": {
+      "500m": 3.4,
+      "1_5km": 13.8,
+      "3km": 31.5
+    }
+  },
+  "business": {
+    "competitors": 10.0,
+    "food": 325.0,
+    "shopping": 198.0,
+    "leisure": 41.0,
+    "education": 38.0,
+    "hotel": 38.0,
+    "services": 245.0,
+    "fitness": 41.0,
+    "auto": 34.0,
+    "total_stores": 161.0,
+    "old_store_3yr_pct": 40.0
+  },
+  "nearby_poi": {
+    "business": 3.0,
+    "community": 144.0,
+    "office": 27.0,
+    "school": 16.0,
+    "hospital": 21.0,
+    "transport": 11.0,
+    "scenic": 55.0
+  },
+  "demographics": {
+    "male_pct": 51.9,
+    "female_pct": null,
+    "education": {
+      "小学": 9.6,
+      "初中": 19.1,
+      "高中": 11.7,
+      "大专": 9.3,
+      "本科": 44.3,
+      "硕士": 5.2,
+      "博士": 0.8
+    },
+    "has_children_pct": 60.5,
+    "no_children_pct": 39.5
+  },
+  "scraped_at": "2026-07-31T16:01:36.582Z",
+  "nearby_restaurants": [
+    {
+      "brand": "牛约堡-牛肉汉堡(安亭地铁站店)",
+      "address": "曹安公路5616号安亭财富广场南楼1F层",
+      "distance": "9m"
+    },
+    {
+      "brand": "青青瑶",
+      "address": "曹安公路辅路与商场南路交叉口东北160米",
+      "distance": "10m"
+    },
+    {
+      "brand": "1973继光香香鸡(安亭财富广场店)",
+      "address": "安亭镇曹安公路5616号安亭财富广场南楼1F层",
+      "distance": "14m"
+    },
+    {
+      "brand": "羲陇记天水面皮(安亭财富广场店)",
+      "address": "曹安公路5616号安亭财富广场1F层",
+      "distance": "15m"
+    },
+    {
+      "brand": "禧山丘铁板烧(安亭财富广场店)",
+      "address": "安亭镇曹安公路5598号1层176室",
+      "distance": "16m"
+    },
+    {
+      "brand": "杨小勺辣椒炒肉(安亭店)",
+      "address": "曹安公路5598号安亭财富广场南楼1F层",
+      "distance": "17m"
+    },
+    {
+      "brand": "乔杉杉生烫牛肉米线(曹安公路店)",
+      "address": "曹安公路辅路5588号(安亭地铁站1号口步行180米)",
+      "distance": "18m"
+    },
+    {
+      "brand": "臻味源江南",
+      "address": "曹安公路辅路与商场南路交叉口东北160米",
+      "distance": "22m"
+    },
+    {
+      "brand": "世福美食荟餐饮区(安亭财富广场店)",
+      "address": "曹安公路5616号安亭财富广场南楼1F层",
+      "distance": "24m"
+    },
+    {
+      "brand": "老陕一面(安亭店)",
+      "address": "曹安公路5616号安亭财富广场1F层",
+      "distance": "24m"
+    },
+    {
+      "brand": "牛约堡-牛肉汉堡(安亭地铁站店)",
+      "address": "曹安公路5616号安亭财富广场南楼1F层",
+      "distance": "9m"
+    },
+    {
+      "brand": "青青瑶",
+      "address": "曹安公路辅路与商场南路交叉口东北160米",
+      "distance": "10m"
+    },
+    {
+      "brand": "1973继光香香鸡(安亭财富广场店)",
+      "address": "安亭镇曹安公路5616号安亭财富广场南楼1F层",
+      "distance": "14m"
+    },
+    {
+      "brand": "羲陇记天水面皮(安亭财富广场店)",
+      "address": "曹安公路5616号安亭财富广场1F层",
+      "distance": "15m"
+    },
+    {
+      "brand": "禧山丘铁板烧(安亭财富广场店)",
+      "address": "安亭镇曹安公路5598号1层176室",
+      "distance": "16m"
+    },
+    {
+      "brand": "杨小勺辣椒炒肉(安亭店)",
+      "address": "曹安公路5598号安亭财富广场南楼1F层",
+      "distance": "17m"
+    },
+    {
+      "brand": "乔杉杉生烫牛肉米线(曹安公路店)",
+      "address": "曹安公路辅路5588号(安亭地铁站1号口步行180米)",
+      "distance": "18m"
+    },
+    {
+      "brand": "臻味源江南",
+      "address": "曹安公路辅路与商场南路交叉口东北160米",
+      "distance": "22m"
+    },
+    {
+      "brand": "世福美食荟餐饮区(安亭财富广场店)",
+      "address": "曹安公路5616号安亭财富广场南楼1F层",
+      "distance": "24m"
+    },
+    {
+      "brand": "老陕一面(安亭店)",
+      "address": "曹安公路5616号安亭财富广场1F层",
+      "distance": "24m"
+    },
+    {
+      "brand": "牛约堡-牛肉汉堡(安亭地铁站店)",
+      "address": "曹安公路5616号安亭财富广场南楼1F层",
+      "distance": "9m"
+    },
+    {
+      "brand": "青青瑶",
+      "address": "曹安公路辅路与商场南路交叉口东北160米",
+      "distance": "10m"
+    },
+    {
+      "brand": "1973继光香香鸡(安亭财富广场店)",
+      "address": "安亭镇曹安公路5616号安亭财富广场南楼1F层",
+      "distance": "14m"
+    },
+    {
+      "brand": "羲陇记天水面皮(安亭财富广场店)",
+      "address": "曹安公路5616号安亭财富广场1F层",
+      "distance": "15m"
+    },
+    {
+      "brand": "禧山丘铁板烧(安亭财富广场店)",
+      "address": "安亭镇曹安公路5598号1层176室",
+      "distance": "16m"
+    },
+    {
+      "brand": "杨小勺辣椒炒肉(安亭店)",
+      "address": "曹安公路5598号安亭财富广场南楼1F层",
+      "distance": "17m"
+    },
+    {
+      "brand": "乔杉杉生烫牛肉米线(曹安公路店)",
+      "address": "曹安公路辅路5588号(安亭地铁站1号口步行180米)",
+      "distance": "18m"
+    },
+    {
+      "brand": "臻味源江南",
+      "address": "曹安公路辅路与商场南路交叉口东北160米",
+      "distance": "22m"
+    },
+    {
+      "brand": "世福美食荟餐饮区(安亭财富广场店)",
+      "address": "曹安公路5616号安亭财富广场南楼1F层",
+      "distance": "24m"
+    },
+    {
+      "brand": "老陕一面(安亭店)",
+      "address": "曹安公路5616号安亭财富广场1F层",
+      "distance": "24m"
+    },
+    {
+      "brand": "牛约堡-牛肉汉堡(安亭地铁站店)",
+      "address": "曹安公路5616号安亭财富广场南楼1F层",
+      "distance": "9m"
+    },
+    {
+      "brand": "青青瑶",
+      "address": "曹安公路辅路与商场南路交叉口东北160米",
+      "distance": "10m"
+    },
+    {
+      "brand": "1973继光香香鸡(安亭财富广场店)",
+      "address": "安亭镇曹安公路5616号安亭财富广场南楼1F层",
+      "distance": "14m"
+    },
+    {
+      "brand": "羲陇记天水面皮(安亭财富广场店)",
+      "address": "曹安公路5616号安亭财富广场1F层",
+      "distance": "15m"
+    },
+    {
+      "brand": "禧山丘铁板烧(安亭财富广场店)",
+      "address": "安亭镇曹安公路5598号1层176室",
+      "distance": "16m"
+    },
+    {
+      "brand": "杨小勺辣椒炒肉(安亭店)",
+      "address": "曹安公路5598号安亭财富广场南楼1F层",
+      "distance": "17m"
+    },
+    {
+      "brand": "乔杉杉生烫牛肉米线(曹安公路店)",
+      "address": "曹安公路辅路5588号(安亭地铁站1号口步行180米)",
+      "distance": "18m"
+    },
+    {
+      "brand": "臻味源江南",
+      "address": "曹安公路辅路与商场南路交叉口东北160米",
+      "distance": "22m"
+    },
+    {
+      "brand": "世福美食荟餐饮区(安亭财富广场店)",
+      "address": "曹安公路5616号安亭财富广场南楼1F层",
+      "distance": "24m"
+    },
+    {
+      "brand": "老陕一面(安亭店)",
+      "address": "曹安公路5616号安亭财富广场1F层",
+      "distance": "24m"
+    },
+    {
+      "brand": "牛约堡-牛肉汉堡(安亭地铁站店)",
+      "address": "曹安公路5616号安亭财富广场南楼1F层",
+      "distance": "9m"
+    },
+    {
+      "brand": "青青瑶",
+      "address": "曹安公路辅路与商场南路交叉口东北160米",
+      "distance": "10m"
+    },
+    {
+      "brand": "1973继光香香鸡(安亭财富广场店)",
+      "address": "安亭镇曹安公路5616号安亭财富广场南楼1F层",
+      "distance": "14m"
+    },
+    {
+      "brand": "羲陇记天水面皮(安亭财富广场店)",
+      "address": "曹安公路5616号安亭财富广场1F层",
+      "distance": "15m"
+    },
+    {
+      "brand": "禧山丘铁板烧(安亭财富广场店)",
+      "address": "安亭镇曹安公路5598号1层176室",
+      "distance": "16m"
+    },
+    {
+      "brand": "杨小勺辣椒炒肉(安亭店)",
+      "address": "曹安公路5598号安亭财富广场南楼1F层",
+      "distance": "17m"
+    },
+    {
+      "brand": "乔杉杉生烫牛肉米线(曹安公路店)",
+      "address": "曹安公路辅路5588号(安亭地铁站1号口步行180米)",
+      "distance": "18m"
+    },
+    {
+      "brand": "臻味源江南",
+      "address": "曹安公路辅路与商场南路交叉口东北160米",
+      "distance": "22m"
+    },
+    {
+      "brand": "世福美食荟餐饮区(安亭财富广场店)",
+      "address": "曹安公路5616号安亭财富广场南楼1F层",
+      "distance": "24m"
+    },
+    {
+      "brand": "老陕一面(安亭店)",
+      "address": "曹安公路5616号安亭财富广场1F层",
+      "distance": "24m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海嘉亭荟城市生活广场",
+      "open_date": "2012-05-01",
+      "area": "14万㎡",
+      "jun_daily_avg": "4.6万人次",
+      "weekday_avg": "4.1万人次",
+      "holiday_avg": "6万人次"
+    },
+    {
+      "name": "上海曼度泛乐城",
+      "open_date": "2018-01-01",
+      "area": "2.6万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "苏州兆丰99·阳光新生活广场",
+      "open_date": "2016-01-09",
+      "area": "4.5万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 55.0,
+      "within_1yr_pct": 18.2,
+      "1_3yr_pct": 41.8,
+      "over_3yr_pct": 40.0
+    },
+    {
+      "type": "购物",
+      "count": 2.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 10.0,
+      "within_1yr_pct": 80.0,
+      "1_3yr_pct": 10.0,
+      "over_3yr_pct": 10.0
+    },
+    {
+      "type": "教育培训",
+      "count": 10.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 10.0,
+      "over_3yr_pct": 90.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 8.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 12.5,
+      "over_3yr_pct": 62.5
+    },
+    {
+      "type": "生活服务",
+      "count": 72.0,
+      "within_1yr_pct": 29.2,
+      "1_3yr_pct": 34.7,
+      "over_3yr_pct": 36.1
+    },
+    {
+      "type": "运动健身",
+      "count": 3.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    }
+  ]
+}

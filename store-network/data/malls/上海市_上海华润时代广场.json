@@ -1,0 +1,479 @@
+{
+  "name": "上海华润时代广场",
+  "city": "上海市",
+  "address": "上海市浦东新区张杨路500号",
+  "lat": 31.227028,
+  "lng": 121.517458,
+  "overview": {
+    "score": 93.2,
+    "score_rank": "市内前30%",
+    "population_score": 98.7,
+    "area_score": 100.0,
+    "consumption_score": 82.4,
+    "industry_score": 93.2,
+    "annual_sales": "华润时代广场始建于1993年，坐落在上海浦东陆家嘴核心地段，开创了上海的购物中心时代。2019年12月，焕然一新的华润时代广场重装开业，由日本新锐设计师佐藤大（Nendo）主导设计，设计方案围绕“美丽剧院”核心理念，将经典的剧院元素贯穿在建筑物内外，让购物中心升格为艺术生活空间",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 5.1,
+    "open_date": "2019-12-01",
+    "operator": "华润万象生活有限公司",
+    "brand": "华润",
+    "type": "综合型",
+    "floors": "L1-L8"
+  },
+  "traffic": {
+    "annual_daily": 1.38,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第189",
+    "jun_total": 68.8,
+    "jun_total_rank": "市内商场第169名",
+    "jun_daily_avg": 2.3,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第169名",
+    "weekday_avg": 2.2,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第167名",
+    "holiday_avg": 2.7,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第174名"
+  },
+  "population": {
+    "residential": {
+      "500m": 3.6,
+      "1_5km": 26.5,
+      "3km": 67.6
+    },
+    "office": {
+      "500m": 5.3,
+      "1_5km": 28.4,
+      "3km": 82.4
+    },
+    "permanent": {
+      "500m": 5.2,
+      "1_5km": 29.8,
+      "3km": 78.0
+    }
+  },
+  "business": {
+    "competitors": 16.0,
+    "food": 600.0,
+    "shopping": 589.0,
+    "leisure": 67.0,
+    "education": 105.0,
+    "hotel": 73.0,
+    "services": 512.0,
+    "fitness": 71.0,
+    "auto": 39.0,
+    "total_stores": 131.0,
+    "old_store_3yr_pct": 47.0
+  },
+  "nearby_poi": {
+    "business": 15.0,
+    "community": 448.0,
+    "office": 156.0,
+    "school": 49.0,
+    "hospital": 129.0,
+    "transport": 13.0,
+    "scenic": 537.0
+  },
+  "demographics": {
+    "male_pct": 51.0,
+    "female_pct": null,
+    "education": {
+      "小学": 9.0,
+      "初中": 16.4,
+      "高中": 10.6,
+      "大专": 6.9,
+      "本科": 48.6,
+      "硕士": 6.7,
+      "博士": 1.8
+    },
+    "has_children_pct": 57.5,
+    "no_children_pct": 42.5
+  },
+  "scraped_at": "2026-07-31T15:45:31.133Z",
+  "nearby_restaurants": [
+    {
+      "brand": "牛New寿喜烧(华润时代店)",
+      "address": "潍坊新村街道张杨路500号上海华润时代广场8楼(濱寿司旁)",
+      "distance": "2m"
+    },
+    {
+      "brand": "领鲜说小火锅(华润时代广场店)",
+      "address": "张杨路500号华润时代广场L602商铺",
+      "distance": "2m"
+    },
+    {
+      "brand": "笕箪(华润时代广场店)",
+      "address": "张杨路500号华润时代广场L5层",
+      "distance": "8m"
+    },
+    {
+      "brand": "Kyochon1991校村炸鸡(华润时代广场店)",
+      "address": "张杨路500号华润时代广场L6层",
+      "distance": "9m"
+    },
+    {
+      "brand": "玛满矿泰国餐厅(华润时代广场店)",
+      "address": "张杨路500号华润时代广场L8层",
+      "distance": "9m"
+    },
+    {
+      "brand": "TOHEETEA冬星沏(上海华润时代广场店",
+      "address": "华润时代广场6层(商城路地铁站2号口步行430米)",
+      "distance": "9m"
+    },
+    {
+      "brand": "潮界(华润时代广场店)",
+      "address": "张杨路500号华润时代广场L6层",
+      "distance": "10m"
+    },
+    {
+      "brand": "江南一品轩",
+      "address": "张杨路500号华润时代广场",
+      "distance": "10m"
+    },
+    {
+      "brand": "Maki House寿司(华润广场店)",
+      "address": "张杨路500号华润时代广场L6层",
+      "distance": "10m"
+    },
+    {
+      "brand": "豚野家·拉面专门店(华润时代广场店)",
+      "address": "张杨路500号华润时代广场六楼L601",
+      "distance": "11m"
+    },
+    {
+      "brand": "牛New寿喜烧(华润时代店)",
+      "address": "潍坊新村街道张杨路500号上海华润时代广场8楼(濱寿司旁)",
+      "distance": "2m"
+    },
+    {
+      "brand": "领鲜说小火锅(华润时代广场店)",
+      "address": "张杨路500号华润时代广场L602商铺",
+      "distance": "2m"
+    },
+    {
+      "brand": "笕箪(华润时代广场店)",
+      "address": "张杨路500号华润时代广场L5层",
+      "distance": "8m"
+    },
+    {
+      "brand": "Kyochon1991校村炸鸡(华润时代广场店)",
+      "address": "张杨路500号华润时代广场L6层",
+      "distance": "9m"
+    },
+    {
+      "brand": "玛满矿泰国餐厅(华润时代广场店)",
+      "address": "张杨路500号华润时代广场L8层",
+      "distance": "9m"
+    },
+    {
+      "brand": "TOHEETEA冬星沏(上海华润时代广场店",
+      "address": "华润时代广场6层(商城路地铁站2号口步行430米)",
+      "distance": "9m"
+    },
+    {
+      "brand": "潮界(华润时代广场店)",
+      "address": "张杨路500号华润时代广场L6层",
+      "distance": "10m"
+    },
+    {
+      "brand": "江南一品轩",
+      "address": "张杨路500号华润时代广场",
+      "distance": "10m"
+    },
+    {
+      "brand": "Maki House寿司(华润广场店)",
+      "address": "张杨路500号华润时代广场L6层",
+      "distance": "10m"
+    },
+    {
+      "brand": "豚野家·拉面专门店(华润时代广场店)",
+      "address": "张杨路500号华润时代广场六楼L601",
+      "distance": "11m"
+    },
+    {
+      "brand": "牛New寿喜烧(华润时代店)",
+      "address": "潍坊新村街道张杨路500号上海华润时代广场8楼(濱寿司旁)",
+      "distance": "2m"
+    },
+    {
+      "brand": "领鲜说小火锅(华润时代广场店)",
+      "address": "张杨路500号华润时代广场L602商铺",
+      "distance": "2m"
+    },
+    {
+      "brand": "笕箪(华润时代广场店)",
+      "address": "张杨路500号华润时代广场L5层",
+      "distance": "8m"
+    },
+    {
+      "brand": "Kyochon1991校村炸鸡(华润时代广场店)",
+      "address": "张杨路500号华润时代广场L6层",
+      "distance": "9m"
+    },
+    {
+      "brand": "玛满矿泰国餐厅(华润时代广场店)",
+      "address": "张杨路500号华润时代广场L8层",
+      "distance": "9m"
+    },
+    {
+      "brand": "TOHEETEA冬星沏(上海华润时代广场店",
+      "address": "华润时代广场6层(商城路地铁站2号口步行430米)",
+      "distance": "9m"
+    },
+    {
+      "brand": "潮界(华润时代广场店)",
+      "address": "张杨路500号华润时代广场L6层",
+      "distance": "10m"
+    },
+    {
+      "brand": "江南一品轩",
+      "address": "张杨路500号华润时代广场",
+      "distance": "10m"
+    },
+    {
+      "brand": "Maki House寿司(华润广场店)",
+      "address": "张杨路500号华润时代广场L6层",
+      "distance": "10m"
+    },
+    {
+      "brand": "豚野家·拉面专门店(华润时代广场店)",
+      "address": "张杨路500号华润时代广场六楼L601",
+      "distance": "11m"
+    },
+    {
+      "brand": "牛New寿喜烧(华润时代店)",
+      "address": "潍坊新村街道张杨路500号上海华润时代广场8楼(濱寿司旁)",
+      "distance": "2m"
+    },
+    {
+      "brand": "领鲜说小火锅(华润时代广场店)",
+      "address": "张杨路500号华润时代广场L602商铺",
+      "distance": "2m"
+    },
+    {
+      "brand": "笕箪(华润时代广场店)",
+      "address": "张杨路500号华润时代广场L5层",
+      "distance": "8m"
+    },
+    {
+      "brand": "Kyochon1991校村炸鸡(华润时代广场店)",
+      "address": "张杨路500号华润时代广场L6层",
+      "distance": "9m"
+    },
+    {
+      "brand": "玛满矿泰国餐厅(华润时代广场店)",
+      "address": "张杨路500号华润时代广场L8层",
+      "distance": "9m"
+    },
+    {
+      "brand": "TOHEETEA冬星沏(上海华润时代广场店",
+      "address": "华润时代广场6层(商城路地铁站2号口步行430米)",
+      "distance": "9m"
+    },
+    {
+      "brand": "潮界(华润时代广场店)",
+      "address": "张杨路500号华润时代广场L6层",
+      "distance": "10m"
+    },
+    {
+      "brand": "江南一品轩",
+      "address": "张杨路500号华润时代广场",
+      "distance": "10m"
+    },
+    {
+      "brand": "Maki House寿司(华润广场店)",
+      "address": "张杨路500号华润时代广场L6层",
+      "distance": "10m"
+    },
+    {
+      "brand": "豚野家·拉面专门店(华润时代广场店)",
+      "address": "张杨路500号华润时代广场六楼L601",
+      "distance": "11m"
+    },
+    {
+      "brand": "牛New寿喜烧(华润时代店)",
+      "address": "潍坊新村街道张杨路500号上海华润时代广场8楼(濱寿司旁)",
+      "distance": "2m"
+    },
+    {
+      "brand": "领鲜说小火锅(华润时代广场店)",
+      "address": "张杨路500号华润时代广场L602商铺",
+      "distance": "2m"
+    },
+    {
+      "brand": "笕箪(华润时代广场店)",
+      "address": "张杨路500号华润时代广场L5层",
+      "distance": "8m"
+    },
+    {
+      "brand": "Kyochon1991校村炸鸡(华润时代广场店)",
+      "address": "张杨路500号华润时代广场L6层",
+      "distance": "9m"
+    },
+    {
+      "brand": "玛满矿泰国餐厅(华润时代广场店)",
+      "address": "张杨路500号华润时代广场L8层",
+      "distance": "9m"
+    },
+    {
+      "brand": "TOHEETEA冬星沏(上海华润时代广场店",
+      "address": "华润时代广场6层(商城路地铁站2号口步行430米)",
+      "distance": "9m"
+    },
+    {
+      "brand": "潮界(华润时代广场店)",
+      "address": "张杨路500号华润时代广场L6层",
+      "distance": "10m"
+    },
+    {
+      "brand": "江南一品轩",
+      "address": "张杨路500号华润时代广场",
+      "distance": "10m"
+    },
+    {
+      "brand": "Maki House寿司(华润广场店)",
+      "address": "张杨路500号华润时代广场L6层",
+      "distance": "10m"
+    },
+    {
+      "brand": "豚野家·拉面专门店(华润时代广场店)",
+      "address": "张杨路500号华润时代广场六楼L601",
+      "distance": "11m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海第一八佰伴",
+      "open_date": "1995-12-20",
+      "area": "10.8万㎡",
+      "jun_daily_avg": "3.2万人次",
+      "weekday_avg": "2.9万人次",
+      "holiday_avg": "3.8万人次"
+    },
+    {
+      "name": "上海MORE MEE 时尚生活中心",
+      "open_date": "2018-12-15",
+      "area": "3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海1088广场",
+      "open_date": "2014-12-12",
+      "area": "3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海湾生活时尚中心",
+      "open_date": "2013-03-18",
+      "area": "3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海浦东新大陆广场",
+      "open_date": "1997-06-03",
+      "area": "4万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海新梅联合广场",
+      "open_date": "2005-01-01",
+      "area": "6万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海滨江世茂52+",
+      "open_date": "2018-12-21",
+      "area": "1.2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海陆家嘴中心L+Mall",
+      "open_date": "2018-12-23",
+      "area": "14万㎡",
+      "jun_daily_avg": "7.2万人次",
+      "weekday_avg": "7.4万人次",
+      "holiday_avg": "6.6万人次"
+    },
+    {
+      "name": "上海陆家嘴1885广场",
+      "open_date": "2009-01-01",
+      "area": "-",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海九六广场",
+      "open_date": "2008-11-28",
+      "area": "6.5万㎡",
+      "jun_daily_avg": "1.1万人次",
+      "weekday_avg": "1万人次",
+      "holiday_avg": "1.2万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 57.0,
+      "within_1yr_pct": 24.6,
+      "1_3yr_pct": 31.6,
+      "over_3yr_pct": 43.9
+    },
+    {
+      "type": "购物",
+      "count": 48.0,
+      "within_1yr_pct": 22.9,
+      "1_3yr_pct": 31.3,
+      "over_3yr_pct": 45.8
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 4.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 25.0
+    },
+    {
+      "type": "教育培训",
+      "count": 2.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 2.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "生活服务",
+      "count": 14.0,
+      "within_1yr_pct": 14.3,
+      "1_3yr_pct": 21.4,
+      "over_3yr_pct": 64.3
+    },
+    {
+      "type": "运动健身",
+      "count": 4.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 75.0
+    }
+  ]
+}

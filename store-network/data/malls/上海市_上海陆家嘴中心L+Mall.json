@@ -1,0 +1,486 @@
+{
+  "name": "上海陆家嘴中心L+Mall",
+  "city": "上海市",
+  "address": "上海市浦东新区陆家嘴街道世纪大道296号浦东金融广场",
+  "lat": 31.23364,
+  "lng": 121.507317,
+  "overview": {
+    "score": 89.6,
+    "score_rank": "市内前30%",
+    "population_score": 99.4,
+    "area_score": 100.0,
+    "consumption_score": 84.8,
+    "industry_score": 89.5,
+    "annual_sales": "",
+    "annual_sales_unit": "",
+    "area_size_sqm": null,
+    "open_date": "",
+    "operator": "",
+    "brand": "",
+    "type": "",
+    "floors": ""
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "",
+    "annual_daily_rank": "",
+    "jun_total": null,
+    "jun_total_rank": "",
+    "jun_daily_avg": null,
+    "jun_daily_unit": "",
+    "jun_daily_rank": "",
+    "weekday_avg": null,
+    "weekday_unit": "",
+    "weekday_rank": "",
+    "holiday_avg": null,
+    "holiday_unit": "",
+    "holiday_rank": ""
+  },
+  "population": {
+    "residential": {
+      "500m": 3.6,
+      "1_5km": 23.2,
+      "3km": 67.1
+    },
+    "office": {
+      "500m": 5.8,
+      "1_5km": 32.1,
+      "3km": 90.2
+    },
+    "permanent": {
+      "500m": 4.9,
+      "1_5km": 28.2,
+      "3km": 79.6
+    }
+  },
+  "business": {
+    "competitors": 16.0,
+    "food": 600.0,
+    "shopping": 571.0,
+    "leisure": 47.0,
+    "education": 88.0,
+    "hotel": 84.0,
+    "services": 463.0,
+    "fitness": 53.0,
+    "auto": 37.0,
+    "total_stores": 1957.0,
+    "old_store_3yr_pct": 50.0
+  },
+  "nearby_poi": {
+    "business": 19.0,
+    "community": 503.0,
+    "office": 155.0,
+    "school": 46.0,
+    "hospital": 133.0,
+    "transport": 21.0,
+    "scenic": 602.0
+  },
+  "demographics": {
+    "male_pct": 48.1,
+    "female_pct": null,
+    "education": {
+      "小学": 9.0,
+      "初中": 16.4,
+      "高中": 10.6,
+      "大专": 7.0,
+      "本科": 48.6,
+      "硕士": 6.6,
+      "博士": 1.8
+    },
+    "has_children_pct": null,
+    "no_children_pct": null
+  },
+  "scraped_at": "2026-07-31T17:47:22.086Z",
+  "nearby_restaurants": [
+    {
+      "brand": "星巴克臻选(浦东金融广场办公楼3座D座店)",
+      "address": "世纪大道826号陆家嘴金融广场3座第1层09单元",
+      "distance": "23m"
+    },
+    {
+      "brand": "敏华冰厅(陆家嘴L+MALL分店)",
+      "address": "浦东南路877号879号889号897号LG层LG39单元",
+      "distance": "30m"
+    },
+    {
+      "brand": "十二湘·现炒下饭菜(陆家嘴中心店)",
+      "address": "浦东南路877-889、897号LG层MG17-18号",
+      "distance": "30m"
+    },
+    {
+      "brand": "0566珈琲製作所(上海老佛爷百货店)",
+      "address": "浦东南路889号LG层3738单元",
+      "distance": "35m"
+    },
+    {
+      "brand": "La Repete(上海陆家嘴中心店)",
+      "address": "浦东南路899上海陆家嘴中心L+mallB1层",
+      "distance": "37m"
+    },
+    {
+      "brand": "大牛寿喜烧·和牛放题(陆家嘴中心店)",
+      "address": "浦东南路899号陆家嘴中心L+MALL9层",
+      "distance": "42m"
+    },
+    {
+      "brand": "Manner Coffee(陆家嘴中心店)",
+      "address": "浦东南路889号陆家嘴中心LG层",
+      "distance": "42m"
+    },
+    {
+      "brand": "鹿园MOOSE(浦东店)",
+      "address": "浦东南路899号上海陆家嘴中心L+Mall9层",
+      "distance": "45m"
+    },
+    {
+      "brand": "伽喱博士Dr.CURRY咖喱(陆家嘴中心店)",
+      "address": "浦东南路877号879号889号897号LG层MG11+12单元",
+      "distance": "45m"
+    },
+    {
+      "brand": "厢房(陆家嘴中心店)",
+      "address": "浦东南路889号陆家嘴中心11楼",
+      "distance": "47m"
+    },
+    {
+      "brand": "星巴克臻选(浦东金融广场办公楼3座D座店)",
+      "address": "世纪大道826号陆家嘴金融广场3座第1层09单元",
+      "distance": "23m"
+    },
+    {
+      "brand": "敏华冰厅(陆家嘴L+MALL分店)",
+      "address": "浦东南路877号879号889号897号LG层LG39单元",
+      "distance": "30m"
+    },
+    {
+      "brand": "十二湘·现炒下饭菜(陆家嘴中心店)",
+      "address": "浦东南路877-889、897号LG层MG17-18号",
+      "distance": "30m"
+    },
+    {
+      "brand": "0566珈琲製作所(上海老佛爷百货店)",
+      "address": "浦东南路889号LG层3738单元",
+      "distance": "35m"
+    },
+    {
+      "brand": "La Repete(上海陆家嘴中心店)",
+      "address": "浦东南路899上海陆家嘴中心L+mallB1层",
+      "distance": "37m"
+    },
+    {
+      "brand": "大牛寿喜烧·和牛放题(陆家嘴中心店)",
+      "address": "浦东南路899号陆家嘴中心L+MALL9层",
+      "distance": "42m"
+    },
+    {
+      "brand": "Manner Coffee(陆家嘴中心店)",
+      "address": "浦东南路889号陆家嘴中心LG层",
+      "distance": "42m"
+    },
+    {
+      "brand": "鹿园MOOSE(浦东店)",
+      "address": "浦东南路899号上海陆家嘴中心L+Mall9层",
+      "distance": "45m"
+    },
+    {
+      "brand": "伽喱博士Dr.CURRY咖喱(陆家嘴中心店)",
+      "address": "浦东南路877号879号889号897号LG层MG11+12单元",
+      "distance": "45m"
+    },
+    {
+      "brand": "厢房(陆家嘴中心店)",
+      "address": "浦东南路889号陆家嘴中心11楼",
+      "distance": "47m"
+    },
+    {
+      "brand": "星巴克臻选(浦东金融广场办公楼3座D座店)",
+      "address": "世纪大道826号陆家嘴金融广场3座第1层09单元",
+      "distance": "23m"
+    },
+    {
+      "brand": "敏华冰厅(陆家嘴L+MALL分店)",
+      "address": "浦东南路877号879号889号897号LG层LG39单元",
+      "distance": "30m"
+    },
+    {
+      "brand": "十二湘·现炒下饭菜(陆家嘴中心店)",
+      "address": "浦东南路877-889、897号LG层MG17-18号",
+      "distance": "30m"
+    },
+    {
+      "brand": "0566珈琲製作所(上海老佛爷百货店)",
+      "address": "浦东南路889号LG层3738单元",
+      "distance": "35m"
+    },
+    {
+      "brand": "La Repete(上海陆家嘴中心店)",
+      "address": "浦东南路899上海陆家嘴中心L+mallB1层",
+      "distance": "37m"
+    },
+    {
+      "brand": "大牛寿喜烧·和牛放题(陆家嘴中心店)",
+      "address": "浦东南路899号陆家嘴中心L+MALL9层",
+      "distance": "42m"
+    },
+    {
+      "brand": "Manner Coffee(陆家嘴中心店)",
+      "address": "浦东南路889号陆家嘴中心LG层",
+      "distance": "42m"
+    },
+    {
+      "brand": "鹿园MOOSE(浦东店)",
+      "address": "浦东南路899号上海陆家嘴中心L+Mall9层",
+      "distance": "45m"
+    },
+    {
+      "brand": "伽喱博士Dr.CURRY咖喱(陆家嘴中心店)",
+      "address": "浦东南路877号879号889号897号LG层MG11+12单元",
+      "distance": "45m"
+    },
+    {
+      "brand": "厢房(陆家嘴中心店)",
+      "address": "浦东南路889号陆家嘴中心11楼",
+      "distance": "47m"
+    },
+    {
+      "brand": "星巴克臻选(浦东金融广场办公楼3座D座店)",
+      "address": "世纪大道826号陆家嘴金融广场3座第1层09单元",
+      "distance": "23m"
+    },
+    {
+      "brand": "敏华冰厅(陆家嘴L+MALL分店)",
+      "address": "浦东南路877号879号889号897号LG层LG39单元",
+      "distance": "30m"
+    },
+    {
+      "brand": "十二湘·现炒下饭菜(陆家嘴中心店)",
+      "address": "浦东南路877-889、897号LG层MG17-18号",
+      "distance": "30m"
+    },
+    {
+      "brand": "0566珈琲製作所(上海老佛爷百货店)",
+      "address": "浦东南路889号LG层3738单元",
+      "distance": "35m"
+    },
+    {
+      "brand": "La Repete(上海陆家嘴中心店)",
+      "address": "浦东南路899上海陆家嘴中心L+mallB1层",
+      "distance": "37m"
+    },
+    {
+      "brand": "大牛寿喜烧·和牛放题(陆家嘴中心店)",
+      "address": "浦东南路899号陆家嘴中心L+MALL9层",
+      "distance": "42m"
+    },
+    {
+      "brand": "Manner Coffee(陆家嘴中心店)",
+      "address": "浦东南路889号陆家嘴中心LG层",
+      "distance": "42m"
+    },
+    {
+      "brand": "鹿园MOOSE(浦东店)",
+      "address": "浦东南路899号上海陆家嘴中心L+Mall9层",
+      "distance": "45m"
+    },
+    {
+      "brand": "伽喱博士Dr.CURRY咖喱(陆家嘴中心店)",
+      "address": "浦东南路877号879号889号897号LG层MG11+12单元",
+      "distance": "45m"
+    },
+    {
+      "brand": "厢房(陆家嘴中心店)",
+      "address": "浦东南路889号陆家嘴中心11楼",
+      "distance": "47m"
+    },
+    {
+      "brand": "星巴克臻选(浦东金融广场办公楼3座D座店)",
+      "address": "世纪大道826号陆家嘴金融广场3座第1层09单元",
+      "distance": "23m"
+    },
+    {
+      "brand": "敏华冰厅(陆家嘴L+MALL分店)",
+      "address": "浦东南路877号879号889号897号LG层LG39单元",
+      "distance": "30m"
+    },
+    {
+      "brand": "十二湘·现炒下饭菜(陆家嘴中心店)",
+      "address": "浦东南路877-889、897号LG层MG17-18号",
+      "distance": "30m"
+    },
+    {
+      "brand": "0566珈琲製作所(上海老佛爷百货店)",
+      "address": "浦东南路889号LG层3738单元",
+      "distance": "35m"
+    },
+    {
+      "brand": "La Repete(上海陆家嘴中心店)",
+      "address": "浦东南路899上海陆家嘴中心L+mallB1层",
+      "distance": "37m"
+    },
+    {
+      "brand": "大牛寿喜烧·和牛放题(陆家嘴中心店)",
+      "address": "浦东南路899号陆家嘴中心L+MALL9层",
+      "distance": "42m"
+    },
+    {
+      "brand": "Manner Coffee(陆家嘴中心店)",
+      "address": "浦东南路889号陆家嘴中心LG层",
+      "distance": "42m"
+    },
+    {
+      "brand": "鹿园MOOSE(浦东店)",
+      "address": "浦东南路899号上海陆家嘴中心L+Mall9层",
+      "distance": "45m"
+    },
+    {
+      "brand": "伽喱博士Dr.CURRY咖喱(陆家嘴中心店)",
+      "address": "浦东南路877号879号889号897号LG层MG11+12单元",
+      "distance": "45m"
+    },
+    {
+      "brand": "厢房(陆家嘴中心店)",
+      "address": "浦东南路889号陆家嘴中心11楼",
+      "distance": "47m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海陆家嘴中心L+Mall",
+      "open_date": "2018-12-23",
+      "area": "14万㎡",
+      "jun_daily_avg": "7.2万人次",
+      "weekday_avg": "7.4万人次",
+      "holiday_avg": "6.6万人次"
+    },
+    {
+      "name": "上海陆家嘴1885广场",
+      "open_date": "2009-01-01",
+      "area": "-",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海新梅联合广场",
+      "open_date": "2005-01-01",
+      "area": "6万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海浦东新大陆广场",
+      "open_date": "1997-06-03",
+      "area": "4万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海1088广场",
+      "open_date": "2014-12-12",
+      "area": "3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海第一八佰伴",
+      "open_date": "1995-12-20",
+      "area": "10.8万㎡",
+      "jun_daily_avg": "3.2万人次",
+      "weekday_avg": "2.9万人次",
+      "holiday_avg": "3.8万人次"
+    },
+    {
+      "name": "上海湾生活时尚中心",
+      "open_date": "2013-03-18",
+      "area": "3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海华润时代广场",
+      "open_date": "2019-12-01",
+      "area": "5.1万㎡",
+      "jun_daily_avg": "2.3万人次",
+      "weekday_avg": "2.2万人次",
+      "holiday_avg": "2.7万人次"
+    },
+    {
+      "name": "上海MORE MEE 时尚生活中心",
+      "open_date": "2018-12-15",
+      "area": "3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海览海国际广场",
+      "open_date": "2017-11-28",
+      "area": "3.7万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 600.0,
+      "within_1yr_pct": 27.0,
+      "1_3yr_pct": 29.0,
+      "over_3yr_pct": 44.0
+    },
+    {
+      "type": "购物",
+      "count": 571.0,
+      "within_1yr_pct": 19.3,
+      "1_3yr_pct": 21.7,
+      "over_3yr_pct": 59.0
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 61.0,
+      "within_1yr_pct": 34.4,
+      "1_3yr_pct": 32.8,
+      "over_3yr_pct": 32.8
+    },
+    {
+      "type": "教育培训",
+      "count": 88.0,
+      "within_1yr_pct": 17.0,
+      "1_3yr_pct": 28.4,
+      "over_3yr_pct": 54.5
+    },
+    {
+      "type": "酒店住宿",
+      "count": 84.0,
+      "within_1yr_pct": 40.5,
+      "1_3yr_pct": 19.0,
+      "over_3yr_pct": 40.5
+    },
+    {
+      "type": "生活服务",
+      "count": 463.0,
+      "within_1yr_pct": 23.5,
+      "1_3yr_pct": 25.3,
+      "over_3yr_pct": 51.2
+    },
+    {
+      "type": "运动健身",
+      "count": 53.0,
+      "within_1yr_pct": 20.8,
+      "1_3yr_pct": 41.5,
+      "over_3yr_pct": 37.7
+    },
+    {
+      "type": "车辆服务",
+      "count": 37.0,
+      "within_1yr_pct": 35.1,
+      "1_3yr_pct": 18.9,
+      "over_3yr_pct": 45.9
+    }
+  ]
+}

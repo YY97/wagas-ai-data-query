@@ -1,0 +1,462 @@
+{
+  "name": "IMC国际广场",
+  "city": "成都市",
+  "address": "四川省成都市武侯区桂溪街道IMC国际广场",
+  "lat": 30.55811,
+  "lng": 104.063705,
+  "overview": {
+    "score": 83.3,
+    "score_rank": "市内前30%",
+    "population_score": 77.7,
+    "area_score": 74.7,
+    "consumption_score": 87.6,
+    "industry_score": 83.3,
+    "annual_sales": "",
+    "annual_sales_unit": "",
+    "area_size_sqm": null,
+    "open_date": "",
+    "operator": "",
+    "brand": "",
+    "type": "",
+    "floors": ""
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "",
+    "annual_daily_rank": "",
+    "jun_total": null,
+    "jun_total_rank": "",
+    "jun_daily_avg": null,
+    "jun_daily_unit": "",
+    "jun_daily_rank": "",
+    "weekday_avg": null,
+    "weekday_unit": "",
+    "weekday_rank": "",
+    "holiday_avg": null,
+    "holiday_unit": "",
+    "holiday_rank": ""
+  },
+  "population": {
+    "residential": {
+      "500m": 5400.0,
+      "1_5km": 4.5,
+      "3km": 20.1
+    },
+    "office": {
+      "500m": 1.2,
+      "1_5km": 16.1,
+      "3km": 36.4
+    },
+    "permanent": {
+      "500m": 5700.0,
+      "1_5km": 7.9,
+      "3km": 23.4
+    }
+  },
+  "business": {
+    "competitors": 6.0,
+    "food": 261.0,
+    "shopping": 146.0,
+    "leisure": 15.0,
+    "education": 11.0,
+    "hotel": 63.0,
+    "services": 121.0,
+    "fitness": 18.0,
+    "auto": 26.0,
+    "total_stores": 678.0,
+    "old_store_3yr_pct": 35.0
+  },
+  "nearby_poi": {
+    "business": 7.0,
+    "community": 223.0,
+    "office": 77.0,
+    "school": 11.0,
+    "hospital": 91.0,
+    "transport": 17.0,
+    "scenic": 210.0
+  },
+  "demographics": {
+    "male_pct": 48.0,
+    "female_pct": null,
+    "education": {
+      "小学": 7.5,
+      "初中": 14.3,
+      "高中": 11.2,
+      "大专": 10.6,
+      "本科": 48.8,
+      "硕士": 6.5,
+      "博士": 1.1
+    },
+    "has_children_pct": null,
+    "no_children_pct": null
+  },
+  "scraped_at": "2026-07-31T14:00:49.154Z",
+  "nearby_restaurants": [
+    {
+      "brand": "乡村基(吉庆四路IMC餐厅)",
+      "address": "吉庆四路188号IMC国际广场内一楼",
+      "distance": "4m"
+    },
+    {
+      "brand": "十八味乡(IMC店)",
+      "address": "吉庆四路188号IMC国际广场",
+      "distance": "16m"
+    },
+    {
+      "brand": "李与白((IMC国际广场店))",
+      "address": "石羊街道吉庆四路188号IMC国际广场1栋1层附76号",
+      "distance": "40m"
+    },
+    {
+      "brand": "谢记双流蘸水肥肠",
+      "address": "吉庆四路188号IMC国际广场1-1号",
+      "distance": "44m"
+    },
+    {
+      "brand": "吉抄手(IMC国际广场店)",
+      "address": "桂溪街道吉庆四路188号IMC国际广场1栋1层附12号",
+      "distance": "48m"
+    },
+    {
+      "brand": "腩煲煲.砂锅煲(IMC国际广场店)",
+      "address": "吉庆四路188号IMC国际广场",
+      "distance": "49m"
+    },
+    {
+      "brand": "钱塘廊桥(IMC国际广场店)",
+      "address": "吉瑞一路400号",
+      "distance": "53m"
+    },
+    {
+      "brand": "何笑笑老火锅(成都总店)",
+      "address": "吉瑞二路86号",
+      "distance": "53m"
+    },
+    {
+      "brand": "黄泼辣牛肉面(IMC国际广场店)",
+      "address": "吉庆四路188号IMC国际广场",
+      "distance": "54m"
+    },
+    {
+      "brand": "孙三仙米线(IMC广场店)",
+      "address": "吉庆三路205号IMC国际广场2单元底",
+      "distance": "55m"
+    },
+    {
+      "brand": "乡村基(吉庆四路IMC餐厅)",
+      "address": "吉庆四路188号IMC国际广场内一楼",
+      "distance": "4m"
+    },
+    {
+      "brand": "十八味乡(IMC店)",
+      "address": "吉庆四路188号IMC国际广场",
+      "distance": "16m"
+    },
+    {
+      "brand": "李与白((IMC国际广场店))",
+      "address": "石羊街道吉庆四路188号IMC国际广场1栋1层附76号",
+      "distance": "40m"
+    },
+    {
+      "brand": "谢记双流蘸水肥肠",
+      "address": "吉庆四路188号IMC国际广场1-1号",
+      "distance": "44m"
+    },
+    {
+      "brand": "吉抄手(IMC国际广场店)",
+      "address": "桂溪街道吉庆四路188号IMC国际广场1栋1层附12号",
+      "distance": "48m"
+    },
+    {
+      "brand": "腩煲煲.砂锅煲(IMC国际广场店)",
+      "address": "吉庆四路188号IMC国际广场",
+      "distance": "49m"
+    },
+    {
+      "brand": "钱塘廊桥(IMC国际广场店)",
+      "address": "吉瑞一路400号",
+      "distance": "53m"
+    },
+    {
+      "brand": "何笑笑老火锅(成都总店)",
+      "address": "吉瑞二路86号",
+      "distance": "53m"
+    },
+    {
+      "brand": "黄泼辣牛肉面(IMC国际广场店)",
+      "address": "吉庆四路188号IMC国际广场",
+      "distance": "54m"
+    },
+    {
+      "brand": "孙三仙米线(IMC广场店)",
+      "address": "吉庆三路205号IMC国际广场2单元底",
+      "distance": "55m"
+    },
+    {
+      "brand": "乡村基(吉庆四路IMC餐厅)",
+      "address": "吉庆四路188号IMC国际广场内一楼",
+      "distance": "4m"
+    },
+    {
+      "brand": "十八味乡(IMC店)",
+      "address": "吉庆四路188号IMC国际广场",
+      "distance": "16m"
+    },
+    {
+      "brand": "李与白((IMC国际广场店))",
+      "address": "石羊街道吉庆四路188号IMC国际广场1栋1层附76号",
+      "distance": "40m"
+    },
+    {
+      "brand": "谢记双流蘸水肥肠",
+      "address": "吉庆四路188号IMC国际广场1-1号",
+      "distance": "44m"
+    },
+    {
+      "brand": "吉抄手(IMC国际广场店)",
+      "address": "桂溪街道吉庆四路188号IMC国际广场1栋1层附12号",
+      "distance": "48m"
+    },
+    {
+      "brand": "腩煲煲.砂锅煲(IMC国际广场店)",
+      "address": "吉庆四路188号IMC国际广场",
+      "distance": "49m"
+    },
+    {
+      "brand": "钱塘廊桥(IMC国际广场店)",
+      "address": "吉瑞一路400号",
+      "distance": "53m"
+    },
+    {
+      "brand": "何笑笑老火锅(成都总店)",
+      "address": "吉瑞二路86号",
+      "distance": "53m"
+    },
+    {
+      "brand": "黄泼辣牛肉面(IMC国际广场店)",
+      "address": "吉庆四路188号IMC国际广场",
+      "distance": "54m"
+    },
+    {
+      "brand": "孙三仙米线(IMC广场店)",
+      "address": "吉庆三路205号IMC国际广场2单元底",
+      "distance": "55m"
+    },
+    {
+      "brand": "乡村基(吉庆四路IMC餐厅)",
+      "address": "吉庆四路188号IMC国际广场内一楼",
+      "distance": "4m"
+    },
+    {
+      "brand": "十八味乡(IMC店)",
+      "address": "吉庆四路188号IMC国际广场",
+      "distance": "16m"
+    },
+    {
+      "brand": "李与白((IMC国际广场店))",
+      "address": "石羊街道吉庆四路188号IMC国际广场1栋1层附76号",
+      "distance": "40m"
+    },
+    {
+      "brand": "谢记双流蘸水肥肠",
+      "address": "吉庆四路188号IMC国际广场1-1号",
+      "distance": "44m"
+    },
+    {
+      "brand": "吉抄手(IMC国际广场店)",
+      "address": "桂溪街道吉庆四路188号IMC国际广场1栋1层附12号",
+      "distance": "48m"
+    },
+    {
+      "brand": "腩煲煲.砂锅煲(IMC国际广场店)",
+      "address": "吉庆四路188号IMC国际广场",
+      "distance": "49m"
+    },
+    {
+      "brand": "钱塘廊桥(IMC国际广场店)",
+      "address": "吉瑞一路400号",
+      "distance": "53m"
+    },
+    {
+      "brand": "何笑笑老火锅(成都总店)",
+      "address": "吉瑞二路86号",
+      "distance": "53m"
+    },
+    {
+      "brand": "黄泼辣牛肉面(IMC国际广场店)",
+      "address": "吉庆四路188号IMC国际广场",
+      "distance": "54m"
+    },
+    {
+      "brand": "孙三仙米线(IMC广场店)",
+      "address": "吉庆三路205号IMC国际广场2单元底",
+      "distance": "55m"
+    },
+    {
+      "brand": "乡村基(吉庆四路IMC餐厅)",
+      "address": "吉庆四路188号IMC国际广场内一楼",
+      "distance": "4m"
+    },
+    {
+      "brand": "十八味乡(IMC店)",
+      "address": "吉庆四路188号IMC国际广场",
+      "distance": "16m"
+    },
+    {
+      "brand": "李与白((IMC国际广场店))",
+      "address": "石羊街道吉庆四路188号IMC国际广场1栋1层附76号",
+      "distance": "40m"
+    },
+    {
+      "brand": "谢记双流蘸水肥肠",
+      "address": "吉庆四路188号IMC国际广场1-1号",
+      "distance": "44m"
+    },
+    {
+      "brand": "吉抄手(IMC国际广场店)",
+      "address": "桂溪街道吉庆四路188号IMC国际广场1栋1层附12号",
+      "distance": "48m"
+    },
+    {
+      "brand": "腩煲煲.砂锅煲(IMC国际广场店)",
+      "address": "吉庆四路188号IMC国际广场",
+      "distance": "49m"
+    },
+    {
+      "brand": "钱塘廊桥(IMC国际广场店)",
+      "address": "吉瑞一路400号",
+      "distance": "53m"
+    },
+    {
+      "brand": "何笑笑老火锅(成都总店)",
+      "address": "吉瑞二路86号",
+      "distance": "53m"
+    },
+    {
+      "brand": "黄泼辣牛肉面(IMC国际广场店)",
+      "address": "吉庆四路188号IMC国际广场",
+      "distance": "54m"
+    },
+    {
+      "brand": "孙三仙米线(IMC广场店)",
+      "address": "吉庆三路205号IMC国际广场2单元底",
+      "distance": "55m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "成都保利时光里",
+      "open_date": "2024-10-18",
+      "area": "10万㎡",
+      "jun_daily_avg": "1.5万人次",
+      "weekday_avg": "1.6万人次",
+      "holiday_avg": "1.5万人次"
+    },
+    {
+      "name": "成都乐家保利广场",
+      "open_date": "2021-09-01",
+      "area": "8.8万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "成都东方希望天祥广场",
+      "open_date": "2020-01-01",
+      "area": "5万㎡",
+      "jun_daily_avg": "4万人次",
+      "weekday_avg": "4.7万人次",
+      "holiday_avg": "2.1万人次"
+    },
+    {
+      "name": "汇锦广场",
+      "open_date": "2013-01-01",
+      "area": "4.1万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "成都环球MALL",
+      "open_date": "2013-09-03",
+      "area": "40万㎡",
+      "jun_daily_avg": "10.7万人次",
+      "weekday_avg": "10.7万人次",
+      "holiday_avg": "10.5万人次"
+    },
+    {
+      "name": "成都复城国际广场",
+      "open_date": "2014-09-01",
+      "area": "10万㎡",
+      "jun_daily_avg": "1.3万人次",
+      "weekday_avg": "1.4万人次",
+      "holiday_avg": "1万人次"
+    },
+    {
+      "name": "成都SKP",
+      "open_date": "2022-12-20",
+      "area": "15.1万㎡",
+      "jun_daily_avg": "3.4万人次",
+      "weekday_avg": "3万人次",
+      "holiday_avg": "4.2万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 261.0,
+      "within_1yr_pct": 24.9,
+      "1_3yr_pct": 40.6,
+      "over_3yr_pct": 34.5
+    },
+    {
+      "type": "购物",
+      "count": 146.0,
+      "within_1yr_pct": 17.8,
+      "1_3yr_pct": 52.7,
+      "over_3yr_pct": 29.5
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 32.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 31.3,
+      "over_3yr_pct": 18.8
+    },
+    {
+      "type": "教育培训",
+      "count": 11.0,
+      "within_1yr_pct": 45.5,
+      "1_3yr_pct": 36.4,
+      "over_3yr_pct": 18.2
+    },
+    {
+      "type": "酒店住宿",
+      "count": 63.0,
+      "within_1yr_pct": 14.3,
+      "1_3yr_pct": 22.2,
+      "over_3yr_pct": 63.5
+    },
+    {
+      "type": "生活服务",
+      "count": 121.0,
+      "within_1yr_pct": 23.1,
+      "1_3yr_pct": 35.5,
+      "over_3yr_pct": 41.3
+    },
+    {
+      "type": "运动健身",
+      "count": 18.0,
+      "within_1yr_pct": 27.8,
+      "1_3yr_pct": 55.6,
+      "over_3yr_pct": 16.7
+    },
+    {
+      "type": "车辆服务",
+      "count": 26.0,
+      "within_1yr_pct": 46.2,
+      "1_3yr_pct": 34.6,
+      "over_3yr_pct": 19.2
+    }
+  ]
+}

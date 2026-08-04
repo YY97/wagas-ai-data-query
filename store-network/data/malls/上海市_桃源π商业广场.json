@@ -1,0 +1,365 @@
+{
+  "name": "桃源π商业广场",
+  "city": "上海市",
+  "address": "",
+  "lat": null,
+  "lng": null,
+  "overview": {
+    "score": 89.2,
+    "score_rank": "市内前30%",
+    "population_score": 74.1,
+    "area_score": 66.6,
+    "consumption_score": 81.1,
+    "industry_score": 89.4,
+    "annual_sales": "",
+    "annual_sales_unit": "",
+    "area_size_sqm": null,
+    "open_date": "",
+    "operator": "",
+    "brand": "",
+    "type": "",
+    "floors": ""
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "",
+    "annual_daily_rank": "",
+    "jun_total": null,
+    "jun_total_rank": "",
+    "jun_daily_avg": null,
+    "jun_daily_unit": "",
+    "jun_daily_rank": "",
+    "weekday_avg": null,
+    "weekday_unit": "",
+    "weekday_rank": "",
+    "holiday_avg": null,
+    "holiday_unit": "",
+    "holiday_rank": ""
+  },
+  "population": {
+    "residential": {
+      "500m": 1.0,
+      "1_5km": 14.8,
+      "3km": 81.5
+    },
+    "office": {
+      "500m": 1.2,
+      "1_5km": 9.8,
+      "3km": 68.9
+    },
+    "permanent": {
+      "500m": 1.2,
+      "1_5km": 14.6,
+      "3km": 87.4
+    }
+  },
+  "business": {
+    "competitors": 4.0,
+    "food": 48.0,
+    "shopping": 36.0,
+    "leisure": 8.0,
+    "education": 4.0,
+    "hotel": 8.0,
+    "services": 19.0,
+    "fitness": 6.0,
+    "auto": 18.0,
+    "total_stores": null,
+    "old_store_3yr_pct": null
+  },
+  "nearby_poi": {
+    "business": 2.0,
+    "community": 641.0,
+    "office": 81.0,
+    "school": 34.0,
+    "hospital": 108.0,
+    "transport": 9.0,
+    "scenic": 202.0
+  },
+  "demographics": {
+    "male_pct": 47.1,
+    "female_pct": null,
+    "education": {
+      "小学": 8.9,
+      "初中": 17.4,
+      "高中": 12.7,
+      "大专": 6.4,
+      "本科": 47.3,
+      "硕士": 5.4,
+      "博士": 1.9
+    },
+    "has_children_pct": null,
+    "no_children_pct": null
+  },
+  "scraped_at": "2026-08-01T07:48:50.243Z",
+  "nearby_restaurants": [
+    {
+      "brand": "野串手工现串烧烤(江浦路店)",
+      "address": "平凉路街道杨树浦路1088号东方渔人码头国际中心",
+      "distance": "26m"
+    },
+    {
+      "brand": "红姐南昌拌粉",
+      "address": "东方渔人码头C座B1-101(丹阳路地铁站2号口旁)",
+      "distance": "36m"
+    },
+    {
+      "brand": "袁记云饺(东方渔人码头店)",
+      "address": "江浦路88号B1层B101-2室",
+      "distance": "40m"
+    },
+    {
+      "brand": "马记永·兰州牛肉面(东方渔人码头店)",
+      "address": "东方渔人码头国际中心C区(丹阳路地铁站2号口步行150米)",
+      "distance": "42m"
+    },
+    {
+      "brand": "Manner Coffee(东方渔人码头国际中心店)",
+      "address": "杨树浦路1088号东方渔人码头商铺C区105-5室",
+      "distance": "44m"
+    },
+    {
+      "brand": "大米先生东方渔人码头",
+      "address": "江浦路88号B1层(丹阳路地铁站2号口步行160米)",
+      "distance": "47m"
+    },
+    {
+      "brand": "鸿邑轩",
+      "address": "杨树浦路与江浦路交叉口东60米",
+      "distance": "52m"
+    },
+    {
+      "brand": "順風新弘府",
+      "address": "杨树浦路1088号东方渔人码头36楼",
+      "distance": "56m"
+    },
+    {
+      "brand": "井银精致料理(杨浦渔人码头店)",
+      "address": "杨树浦路1088号东方渔人码头A座F4层",
+      "distance": "57m"
+    },
+    {
+      "brand": "虾滨蟹巷周末市集",
+      "address": "平凉路街道杨树浦路1088号东方渔人码头国际中心",
+      "distance": "64m"
+    },
+    {
+      "brand": "野串手工现串烧烤(江浦路店)",
+      "address": "平凉路街道杨树浦路1088号东方渔人码头国际中心",
+      "distance": "26m"
+    },
+    {
+      "brand": "红姐南昌拌粉",
+      "address": "东方渔人码头C座B1-101(丹阳路地铁站2号口旁)",
+      "distance": "36m"
+    },
+    {
+      "brand": "袁记云饺(东方渔人码头店)",
+      "address": "江浦路88号B1层B101-2室",
+      "distance": "40m"
+    },
+    {
+      "brand": "马记永·兰州牛肉面(东方渔人码头店)",
+      "address": "东方渔人码头国际中心C区(丹阳路地铁站2号口步行150米)",
+      "distance": "42m"
+    },
+    {
+      "brand": "Manner Coffee(东方渔人码头国际中心店)",
+      "address": "杨树浦路1088号东方渔人码头商铺C区105-5室",
+      "distance": "44m"
+    },
+    {
+      "brand": "大米先生东方渔人码头",
+      "address": "江浦路88号B1层(丹阳路地铁站2号口步行160米)",
+      "distance": "47m"
+    },
+    {
+      "brand": "鸿邑轩",
+      "address": "杨树浦路与江浦路交叉口东60米",
+      "distance": "52m"
+    },
+    {
+      "brand": "順風新弘府",
+      "address": "杨树浦路1088号东方渔人码头36楼",
+      "distance": "56m"
+    },
+    {
+      "brand": "井银精致料理(杨浦渔人码头店)",
+      "address": "杨树浦路1088号东方渔人码头A座F4层",
+      "distance": "57m"
+    },
+    {
+      "brand": "虾滨蟹巷周末市集",
+      "address": "平凉路街道杨树浦路1088号东方渔人码头国际中心",
+      "distance": "64m"
+    },
+    {
+      "brand": "野串手工现串烧烤(江浦路店)",
+      "address": "平凉路街道杨树浦路1088号东方渔人码头国际中心",
+      "distance": "26m"
+    },
+    {
+      "brand": "红姐南昌拌粉",
+      "address": "东方渔人码头C座B1-101(丹阳路地铁站2号口旁)",
+      "distance": "36m"
+    },
+    {
+      "brand": "袁记云饺(东方渔人码头店)",
+      "address": "江浦路88号B1层B101-2室",
+      "distance": "40m"
+    },
+    {
+      "brand": "马记永·兰州牛肉面(东方渔人码头店)",
+      "address": "东方渔人码头国际中心C区(丹阳路地铁站2号口步行150米)",
+      "distance": "42m"
+    },
+    {
+      "brand": "Manner Coffee(东方渔人码头国际中心店)",
+      "address": "杨树浦路1088号东方渔人码头商铺C区105-5室",
+      "distance": "44m"
+    },
+    {
+      "brand": "大米先生东方渔人码头",
+      "address": "江浦路88号B1层(丹阳路地铁站2号口步行160米)",
+      "distance": "47m"
+    },
+    {
+      "brand": "鸿邑轩",
+      "address": "杨树浦路与江浦路交叉口东60米",
+      "distance": "52m"
+    },
+    {
+      "brand": "順風新弘府",
+      "address": "杨树浦路1088号东方渔人码头36楼",
+      "distance": "56m"
+    },
+    {
+      "brand": "井银精致料理(杨浦渔人码头店)",
+      "address": "杨树浦路1088号东方渔人码头A座F4层",
+      "distance": "57m"
+    },
+    {
+      "brand": "虾滨蟹巷周末市集",
+      "address": "平凉路街道杨树浦路1088号东方渔人码头国际中心",
+      "distance": "64m"
+    },
+    {
+      "brand": "野串手工现串烧烤(江浦路店)",
+      "address": "平凉路街道杨树浦路1088号东方渔人码头国际中心",
+      "distance": "26m"
+    },
+    {
+      "brand": "红姐南昌拌粉",
+      "address": "东方渔人码头C座B1-101(丹阳路地铁站2号口旁)",
+      "distance": "36m"
+    },
+    {
+      "brand": "袁记云饺(东方渔人码头店)",
+      "address": "江浦路88号B1层B101-2室",
+      "distance": "40m"
+    },
+    {
+      "brand": "马记永·兰州牛肉面(东方渔人码头店)",
+      "address": "东方渔人码头国际中心C区(丹阳路地铁站2号口步行150米)",
+      "distance": "42m"
+    },
+    {
+      "brand": "Manner Coffee(东方渔人码头国际中心店)",
+      "address": "杨树浦路1088号东方渔人码头商铺C区105-5室",
+      "distance": "44m"
+    },
+    {
+      "brand": "大米先生东方渔人码头",
+      "address": "江浦路88号B1层(丹阳路地铁站2号口步行160米)",
+      "distance": "47m"
+    },
+    {
+      "brand": "鸿邑轩",
+      "address": "杨树浦路与江浦路交叉口东60米",
+      "distance": "52m"
+    },
+    {
+      "brand": "順風新弘府",
+      "address": "杨树浦路1088号东方渔人码头36楼",
+      "distance": "56m"
+    },
+    {
+      "brand": "井银精致料理(杨浦渔人码头店)",
+      "address": "杨树浦路1088号东方渔人码头A座F4层",
+      "distance": "57m"
+    },
+    {
+      "brand": "虾滨蟹巷周末市集",
+      "address": "平凉路街道杨树浦路1088号东方渔人码头国际中心",
+      "distance": "64m"
+    },
+    {
+      "brand": "野串手工现串烧烤(江浦路店)",
+      "address": "平凉路街道杨树浦路1088号东方渔人码头国际中心",
+      "distance": "26m"
+    },
+    {
+      "brand": "红姐南昌拌粉",
+      "address": "东方渔人码头C座B1-101(丹阳路地铁站2号口旁)",
+      "distance": "36m"
+    },
+    {
+      "brand": "袁记云饺(东方渔人码头店)",
+      "address": "江浦路88号B1层B101-2室",
+      "distance": "40m"
+    },
+    {
+      "brand": "马记永·兰州牛肉面(东方渔人码头店)",
+      "address": "东方渔人码头国际中心C区(丹阳路地铁站2号口步行150米)",
+      "distance": "42m"
+    },
+    {
+      "brand": "Manner Coffee(东方渔人码头国际中心店)",
+      "address": "杨树浦路1088号东方渔人码头商铺C区105-5室",
+      "distance": "44m"
+    },
+    {
+      "brand": "大米先生东方渔人码头",
+      "address": "江浦路88号B1层(丹阳路地铁站2号口步行160米)",
+      "distance": "47m"
+    },
+    {
+      "brand": "鸿邑轩",
+      "address": "杨树浦路与江浦路交叉口东60米",
+      "distance": "52m"
+    },
+    {
+      "brand": "順風新弘府",
+      "address": "杨树浦路1088号东方渔人码头36楼",
+      "distance": "56m"
+    },
+    {
+      "brand": "井银精致料理(杨浦渔人码头店)",
+      "address": "杨树浦路1088号东方渔人码头A座F4层",
+      "distance": "57m"
+    },
+    {
+      "brand": "虾滨蟹巷周末市集",
+      "address": "平凉路街道杨树浦路1088号东方渔人码头国际中心",
+      "distance": "64m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海滨江·万芊荟",
+      "open_date": "2025-12-25",
+      "area": "2万㎡",
+      "jun_daily_avg": "1.5万人次",
+      "weekday_avg": "1.5万人次",
+      "holiday_avg": "1.4万人次"
+    },
+    {
+      "name": "上海百联滨江购物中心",
+      "open_date": "2014-11-22",
+      "area": "6万㎡",
+      "jun_daily_avg": "2.1万人次",
+      "weekday_avg": "2万人次",
+      "holiday_avg": "2.2万人次"
+    }
+  ],
+  "business_survival": []
+}

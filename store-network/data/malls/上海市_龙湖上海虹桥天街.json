@@ -1,0 +1,438 @@
+{
+  "name": "龙湖上海虹桥天街",
+  "city": "上海市",
+  "address": "上海市闵行区申长路885号",
+  "lat": 31.193772,
+  "lng": 121.314298,
+  "overview": {
+    "score": 95.4,
+    "score_rank": "市内前30%",
+    "population_score": 63.8,
+    "area_score": 89.0,
+    "consumption_score": 60.0,
+    "industry_score": 95.6,
+    "annual_sales": "龙湖虹桥天街位于闵行区虹桥商务区版块，项目紧邻区域内两大功能性项目——虹桥枢纽站，国家会展中心。项目周边有地铁2号线和10号线虹桥火车站站。龙湖虹桥天街共有一站式中高端购物中心、中岛特色商业街、奢华精品酒店等4种业态形式组成，总建筑面积达43万方。其中写字楼均是地下2层、地上9层设计，1-2层为商业，3-9层为办公楼。",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 17.05,
+    "open_date": "2016-12-17",
+    "operator": "上海恒骏房地产有限公司",
+    "brand": "龙湖",
+    "type": "美食型",
+    "floors": "B2-L6"
+  },
+  "traffic": {
+    "annual_daily": 3.0,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第84",
+    "jun_total": 109.9,
+    "jun_total_rank": "市内商场第106名",
+    "jun_daily_avg": 3.7,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第106名",
+    "weekday_avg": 3.7,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第94名",
+    "holiday_avg": 3.5,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第141名"
+  },
+  "population": {
+    "residential": {
+      "500m": 3200.0,
+      "1_5km": 3.0,
+      "3km": 23.2
+    },
+    "office": {
+      "500m": 3.0,
+      "1_5km": 9.3,
+      "3km": 22.0
+    },
+    "permanent": {
+      "500m": 1.5,
+      "1_5km": 12.5,
+      "3km": 34.4
+    }
+  },
+  "business": {
+    "competitors": 15.0,
+    "food": 396.0,
+    "shopping": 234.0,
+    "leisure": 35.0,
+    "education": 13.0,
+    "hotel": 19.0,
+    "services": 157.0,
+    "fitness": 20.0,
+    "auto": 35.0,
+    "total_stores": 411.0,
+    "old_store_3yr_pct": 45.0
+  },
+  "nearby_poi": {
+    "business": 4.0,
+    "community": 105.0,
+    "office": 48.0,
+    "school": 3.0,
+    "hospital": 40.0,
+    "transport": 14.0,
+    "scenic": 34.0
+  },
+  "demographics": {
+    "male_pct": 54.2,
+    "female_pct": null,
+    "education": {
+      "小学": 9.1,
+      "初中": 17.5,
+      "高中": 11.5,
+      "大专": 9.9,
+      "本科": 46.9,
+      "硕士": 4.3,
+      "博士": 0.8
+    },
+    "has_children_pct": 58.0,
+    "no_children_pct": 42.0
+  },
+  "scraped_at": "2026-08-01T04:55:48.690Z",
+  "nearby_restaurants": [
+    {
+      "brand": "锦鸿虾焰集",
+      "address": "申滨南路1058号1层102室",
+      "distance": "5m"
+    },
+    {
+      "brand": "九龙冰室(龙湖虹桥天街店)",
+      "address": "龙湖虹桥天街购物中心A馆-B2-65铺",
+      "distance": "28m"
+    },
+    {
+      "brand": "小菜园新徽菜(上海闵行虹桥龙湖天街店)",
+      "address": "申长路799号上海虹桥天街B馆2楼16-19号",
+      "distance": "31m"
+    },
+    {
+      "brand": "星巴克(龙湖虹桥天街店)",
+      "address": "申长路799号龙湖天街B馆1楼(麦当劳后面)",
+      "distance": "31m"
+    },
+    {
+      "brand": "虾趣龙虾·烧烤·大排档(虹桥天街夜宵店)",
+      "address": "绍虹路225号",
+      "distance": "33m"
+    },
+    {
+      "brand": "晒鱼市·江浙菜小海鲜(虹桥龙湖天街店)",
+      "address": "申长路869号龙湖虹桥天街A馆地上1层124号",
+      "distance": "34m"
+    },
+    {
+      "brand": "哈灵现炒本帮面(虹桥龙湖天街店)",
+      "address": "申长路869号龙湖虹桥天街购物中心170号",
+      "distance": "35m"
+    },
+    {
+      "brand": "Blueglass酸奶(龙湖虹桥天街店)",
+      "address": "申长路869号/799号龙湖虹桥天街B-1F-20b,B-1F-21号(星巴克对面)",
+      "distance": "35m"
+    },
+    {
+      "brand": "京悦南门涮羊肉(虹桥天街店)",
+      "address": "申长路869号虹桥天街购物中心B馆",
+      "distance": "38m"
+    },
+    {
+      "brand": "超级夜市(龙湖虹桥天街店)",
+      "address": "申长路869号龙湖虹桥天街购物中心A馆L1层",
+      "distance": "39m"
+    },
+    {
+      "brand": "锦鸿虾焰集",
+      "address": "申滨南路1058号1层102室",
+      "distance": "5m"
+    },
+    {
+      "brand": "九龙冰室(龙湖虹桥天街店)",
+      "address": "龙湖虹桥天街购物中心A馆-B2-65铺",
+      "distance": "28m"
+    },
+    {
+      "brand": "小菜园新徽菜(上海闵行虹桥龙湖天街店)",
+      "address": "申长路799号上海虹桥天街B馆2楼16-19号",
+      "distance": "31m"
+    },
+    {
+      "brand": "星巴克(龙湖虹桥天街店)",
+      "address": "申长路799号龙湖天街B馆1楼(麦当劳后面)",
+      "distance": "31m"
+    },
+    {
+      "brand": "虾趣龙虾·烧烤·大排档(虹桥天街夜宵店)",
+      "address": "绍虹路225号",
+      "distance": "33m"
+    },
+    {
+      "brand": "晒鱼市·江浙菜小海鲜(虹桥龙湖天街店)",
+      "address": "申长路869号龙湖虹桥天街A馆地上1层124号",
+      "distance": "34m"
+    },
+    {
+      "brand": "哈灵现炒本帮面(虹桥龙湖天街店)",
+      "address": "申长路869号龙湖虹桥天街购物中心170号",
+      "distance": "35m"
+    },
+    {
+      "brand": "Blueglass酸奶(龙湖虹桥天街店)",
+      "address": "申长路869号/799号龙湖虹桥天街B-1F-20b,B-1F-21号(星巴克对面)",
+      "distance": "35m"
+    },
+    {
+      "brand": "京悦南门涮羊肉(虹桥天街店)",
+      "address": "申长路869号虹桥天街购物中心B馆",
+      "distance": "38m"
+    },
+    {
+      "brand": "超级夜市(龙湖虹桥天街店)",
+      "address": "申长路869号龙湖虹桥天街购物中心A馆L1层",
+      "distance": "39m"
+    },
+    {
+      "brand": "锦鸿虾焰集",
+      "address": "申滨南路1058号1层102室",
+      "distance": "5m"
+    },
+    {
+      "brand": "九龙冰室(龙湖虹桥天街店)",
+      "address": "龙湖虹桥天街购物中心A馆-B2-65铺",
+      "distance": "28m"
+    },
+    {
+      "brand": "小菜园新徽菜(上海闵行虹桥龙湖天街店)",
+      "address": "申长路799号上海虹桥天街B馆2楼16-19号",
+      "distance": "31m"
+    },
+    {
+      "brand": "星巴克(龙湖虹桥天街店)",
+      "address": "申长路799号龙湖天街B馆1楼(麦当劳后面)",
+      "distance": "31m"
+    },
+    {
+      "brand": "虾趣龙虾·烧烤·大排档(虹桥天街夜宵店)",
+      "address": "绍虹路225号",
+      "distance": "33m"
+    },
+    {
+      "brand": "晒鱼市·江浙菜小海鲜(虹桥龙湖天街店)",
+      "address": "申长路869号龙湖虹桥天街A馆地上1层124号",
+      "distance": "34m"
+    },
+    {
+      "brand": "哈灵现炒本帮面(虹桥龙湖天街店)",
+      "address": "申长路869号龙湖虹桥天街购物中心170号",
+      "distance": "35m"
+    },
+    {
+      "brand": "Blueglass酸奶(龙湖虹桥天街店)",
+      "address": "申长路869号/799号龙湖虹桥天街B-1F-20b,B-1F-21号(星巴克对面)",
+      "distance": "35m"
+    },
+    {
+      "brand": "京悦南门涮羊肉(虹桥天街店)",
+      "address": "申长路869号虹桥天街购物中心B馆",
+      "distance": "38m"
+    },
+    {
+      "brand": "超级夜市(龙湖虹桥天街店)",
+      "address": "申长路869号龙湖虹桥天街购物中心A馆L1层",
+      "distance": "39m"
+    },
+    {
+      "brand": "锦鸿虾焰集",
+      "address": "申滨南路1058号1层102室",
+      "distance": "5m"
+    },
+    {
+      "brand": "九龙冰室(龙湖虹桥天街店)",
+      "address": "龙湖虹桥天街购物中心A馆-B2-65铺",
+      "distance": "28m"
+    },
+    {
+      "brand": "小菜园新徽菜(上海闵行虹桥龙湖天街店)",
+      "address": "申长路799号上海虹桥天街B馆2楼16-19号",
+      "distance": "31m"
+    },
+    {
+      "brand": "星巴克(龙湖虹桥天街店)",
+      "address": "申长路799号龙湖天街B馆1楼(麦当劳后面)",
+      "distance": "31m"
+    },
+    {
+      "brand": "虾趣龙虾·烧烤·大排档(虹桥天街夜宵店)",
+      "address": "绍虹路225号",
+      "distance": "33m"
+    },
+    {
+      "brand": "晒鱼市·江浙菜小海鲜(虹桥龙湖天街店)",
+      "address": "申长路869号龙湖虹桥天街A馆地上1层124号",
+      "distance": "34m"
+    },
+    {
+      "brand": "哈灵现炒本帮面(虹桥龙湖天街店)",
+      "address": "申长路869号龙湖虹桥天街购物中心170号",
+      "distance": "35m"
+    },
+    {
+      "brand": "Blueglass酸奶(龙湖虹桥天街店)",
+      "address": "申长路869号/799号龙湖虹桥天街B-1F-20b,B-1F-21号(星巴克对面)",
+      "distance": "35m"
+    },
+    {
+      "brand": "京悦南门涮羊肉(虹桥天街店)",
+      "address": "申长路869号虹桥天街购物中心B馆",
+      "distance": "38m"
+    },
+    {
+      "brand": "超级夜市(龙湖虹桥天街店)",
+      "address": "申长路869号龙湖虹桥天街购物中心A馆L1层",
+      "distance": "39m"
+    },
+    {
+      "brand": "锦鸿虾焰集",
+      "address": "申滨南路1058号1层102室",
+      "distance": "5m"
+    },
+    {
+      "brand": "九龙冰室(龙湖虹桥天街店)",
+      "address": "龙湖虹桥天街购物中心A馆-B2-65铺",
+      "distance": "28m"
+    },
+    {
+      "brand": "小菜园新徽菜(上海闵行虹桥龙湖天街店)",
+      "address": "申长路799号上海虹桥天街B馆2楼16-19号",
+      "distance": "31m"
+    },
+    {
+      "brand": "星巴克(龙湖虹桥天街店)",
+      "address": "申长路799号龙湖天街B馆1楼(麦当劳后面)",
+      "distance": "31m"
+    },
+    {
+      "brand": "虾趣龙虾·烧烤·大排档(虹桥天街夜宵店)",
+      "address": "绍虹路225号",
+      "distance": "33m"
+    },
+    {
+      "brand": "晒鱼市·江浙菜小海鲜(虹桥龙湖天街店)",
+      "address": "申长路869号龙湖虹桥天街A馆地上1层124号",
+      "distance": "34m"
+    },
+    {
+      "brand": "哈灵现炒本帮面(虹桥龙湖天街店)",
+      "address": "申长路869号龙湖虹桥天街购物中心170号",
+      "distance": "35m"
+    },
+    {
+      "brand": "Blueglass酸奶(龙湖虹桥天街店)",
+      "address": "申长路869号/799号龙湖虹桥天街B-1F-20b,B-1F-21号(星巴克对面)",
+      "distance": "35m"
+    },
+    {
+      "brand": "京悦南门涮羊肉(虹桥天街店)",
+      "address": "申长路869号虹桥天街购物中心B馆",
+      "distance": "38m"
+    },
+    {
+      "brand": "超级夜市(龙湖虹桥天街店)",
+      "address": "申长路869号龙湖虹桥天街购物中心A馆L1层",
+      "distance": "39m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海虹桥天地",
+      "open_date": "2015-12-12",
+      "area": "11万㎡",
+      "jun_daily_avg": "7.4万人次",
+      "weekday_avg": "7.1万人次",
+      "holiday_avg": "8.1万人次"
+    },
+    {
+      "name": "上海虹桥丽宝乐园",
+      "open_date": "2019-09-13",
+      "area": "7万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海新华联国际中心",
+      "open_date": "2016-11-19",
+      "area": "2.3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海虹桥阿里中心",
+      "open_date": "2019-05-10",
+      "area": "2.1万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 195.0,
+      "within_1yr_pct": 19.0,
+      "1_3yr_pct": 34.4,
+      "over_3yr_pct": 46.7
+    },
+    {
+      "type": "购物",
+      "count": 79.0,
+      "within_1yr_pct": 16.5,
+      "1_3yr_pct": 32.9,
+      "over_3yr_pct": 50.6
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 24.0,
+      "within_1yr_pct": 16.7,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 33.3
+    },
+    {
+      "type": "教育培训",
+      "count": 6.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 66.7,
+      "over_3yr_pct": 33.3
+    },
+    {
+      "type": "酒店住宿",
+      "count": 3.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 66.7
+    },
+    {
+      "type": "生活服务",
+      "count": 80.0,
+      "within_1yr_pct": 18.8,
+      "1_3yr_pct": 35.0,
+      "over_3yr_pct": 46.3
+    },
+    {
+      "type": "运动健身",
+      "count": 12.0,
+      "within_1yr_pct": 16.7,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 33.3
+    },
+    {
+      "type": "车辆服务",
+      "count": 12.0,
+      "within_1yr_pct": 41.7,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 25.0
+    }
+  ]
+}

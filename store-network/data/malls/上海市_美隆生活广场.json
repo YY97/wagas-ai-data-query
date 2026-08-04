@@ -1,0 +1,200 @@
+{
+  "name": "美隆生活广场",
+  "city": "上海市",
+  "address": "上海市宝山区大华三路81号(大华三路地铁站3号口步行490米)",
+  "lat": 31.275793,
+  "lng": 121.418663,
+  "overview": {
+    "score": 77.7,
+    "score_rank": "市内前30%",
+    "population_score": 100.0,
+    "area_score": 72.3,
+    "consumption_score": 70.8,
+    "industry_score": 77.6,
+    "annual_sales": "上海美隆生活广场位于上海宝山区大华三路，近临地铁7号线大华三路站，一期为2.2万平方米，定位为健康生活中心，二期面积为2.7万平方米，共三层，定位为精致、品质生活，增加了零售于娱乐、潮流、科技的业态",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 2.68,
+    "open_date": "2020-03-14",
+    "operator": "",
+    "brand": "",
+    "type": "综合型",
+    "floors": ""
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "-",
+    "annual_daily_rank": "",
+    "jun_total": null,
+    "jun_total_rank": "",
+    "jun_daily_avg": null,
+    "jun_daily_unit": "",
+    "jun_daily_rank": "",
+    "weekday_avg": null,
+    "weekday_unit": "",
+    "weekday_rank": "",
+    "holiday_avg": null,
+    "holiday_unit": "",
+    "holiday_rank": ""
+  },
+  "population": {
+    "residential": {
+      "500m": 3.9,
+      "1_5km": 27.1,
+      "3km": 91.4
+    },
+    "office": {
+      "500m": 1.5,
+      "1_5km": 11.9,
+      "3km": 43.9
+    },
+    "permanent": {
+      "500m": 4.1,
+      "1_5km": 28.6,
+      "3km": 93.0
+    }
+  },
+  "business": {
+    "competitors": 3.0,
+    "food": 139.0,
+    "shopping": 94.0,
+    "leisure": 8.0,
+    "education": 16.0,
+    "hotel": 13.0,
+    "services": 104.0,
+    "fitness": 4.0,
+    "auto": 8.0,
+    "total_stores": 26.0,
+    "old_store_3yr_pct": 46.0
+  },
+  "nearby_poi": {
+    "business": 8.0,
+    "community": 445.0,
+    "office": 36.0,
+    "school": 42.0,
+    "hospital": 69.0,
+    "transport": 13.0,
+    "scenic": 120.0
+  },
+  "demographics": {
+    "male_pct": 49.2,
+    "female_pct": null,
+    "education": {
+      "小学": 9.6,
+      "初中": 18.4,
+      "高中": 11.7,
+      "大专": 7.6,
+      "本科": 47.7,
+      "硕士": 3.7,
+      "博士": 1.3
+    },
+    "has_children_pct": 59.3,
+    "no_children_pct": 40.7
+  },
+  "scraped_at": "2026-08-02T04:06:43.568Z",
+  "nearby_restaurants": [
+    {
+      "brand": "肯悦咖啡大华店",
+      "address": "大场镇华灵路1051号九百购物中心F1层",
+      "distance": "481m"
+    },
+    {
+      "brand": "努尔买买提新疆羊肉串烤",
+      "address": "华灵路780号(大华三路地铁站1号口步行470米)",
+      "distance": "483m"
+    },
+    {
+      "brand": "绍兴白斩鸡(大华二村二街坊大华路455弄店)",
+      "address": "大场镇大华二路34号",
+      "distance": "486m"
+    },
+    {
+      "brand": "皇牛王",
+      "address": "新沪路869号",
+      "distance": "486m"
+    },
+    {
+      "brand": "重庆鸡公煲(虎城店)",
+      "address": "大华二路32号",
+      "distance": "487m"
+    },
+    {
+      "brand": "重庆鸡公煲.巫山烤全鱼",
+      "address": "大华二路与大华路交叉口东100米",
+      "distance": "490m"
+    },
+    {
+      "brand": "绍兴卤香坊",
+      "address": "大华二村三街坊南门旁",
+      "distance": "490m"
+    },
+    {
+      "brand": "肯德基(大华店)",
+      "address": "大场镇华灵路1051号九百购物中心F1层",
+      "distance": "492m"
+    },
+    {
+      "brand": "豫东卤菜",
+      "address": "上海市上海市宝山区华灵路515号1幢1层M-5室",
+      "distance": "499m"
+    }
+  ],
+  "nearby_malls": [],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 10.0,
+      "within_1yr_pct": 40.0,
+      "1_3yr_pct": 30.0,
+      "over_3yr_pct": 30.0
+    },
+    {
+      "type": "购物",
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    },
+    {
+      "type": "教育培训",
+      "count": 3.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 66.7,
+      "over_3yr_pct": 33.3
+    },
+    {
+      "type": "酒店住宿",
+      "count": 3.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 66.7
+    },
+    {
+      "type": "生活服务",
+      "count": 5.0,
+      "within_1yr_pct": 40.0,
+      "1_3yr_pct": 20.0,
+      "over_3yr_pct": 40.0
+    },
+    {
+      "type": "运动健身",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    }
+  ]
+}

@@ -1,0 +1,465 @@
+{
+  "name": "上海时装商厦",
+  "city": "上海市",
+  "address": "上海市虹口区四川北路1915号",
+  "lat": 31.262235,
+  "lng": 121.483611,
+  "overview": {
+    "score": 76.7,
+    "score_rank": "市内前50%",
+    "population_score": 100.0,
+    "area_score": 87.1,
+    "consumption_score": 79.5,
+    "industry_score": 76.5,
+    "annual_sales": "",
+    "annual_sales_unit": "",
+    "area_size_sqm": null,
+    "open_date": "",
+    "operator": "上海时装商厦有限公司",
+    "brand": "",
+    "type": "综合型",
+    "floors": "L1-L3"
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "",
+    "annual_daily_rank": "",
+    "jun_total": null,
+    "jun_total_rank": "",
+    "jun_daily_avg": null,
+    "jun_daily_unit": "",
+    "jun_daily_rank": "",
+    "weekday_avg": null,
+    "weekday_unit": "",
+    "weekday_rank": "",
+    "holiday_avg": null,
+    "holiday_unit": "",
+    "holiday_rank": ""
+  },
+  "population": {
+    "residential": {
+      "500m": 3.9,
+      "1_5km": 31.5,
+      "3km": 110.8
+    },
+    "office": {
+      "500m": 2.3,
+      "1_5km": 19.6,
+      "3km": 77.9
+    },
+    "permanent": {
+      "500m": 4.0,
+      "1_5km": 32.6,
+      "3km": 120.7
+    }
+  },
+  "business": {
+    "competitors": 2.0,
+    "food": 255.0,
+    "shopping": 213.0,
+    "leisure": 30.0,
+    "education": 19.0,
+    "hotel": 48.0,
+    "services": 179.0,
+    "fitness": 24.0,
+    "auto": 9.0,
+    "total_stores": 17.0,
+    "old_store_3yr_pct": 35.0
+  },
+  "nearby_poi": {
+    "business": 14.0,
+    "community": 912.0,
+    "office": 125.0,
+    "school": 75.0,
+    "hospital": 118.0,
+    "transport": 10.0,
+    "scenic": 502.0
+  },
+  "demographics": {
+    "male_pct": null,
+    "female_pct": null,
+    "education": {
+      "小学": 9.2,
+      "初中": 18.4,
+      "高中": 12.4,
+      "大专": 7.0,
+      "本科": 46.6,
+      "硕士": 4.7,
+      "博士": 1.7
+    },
+    "has_children_pct": 57.4,
+    "no_children_pct": 42.6
+  },
+  "scraped_at": "2026-07-31T16:34:24.158Z",
+  "nearby_restaurants": [
+    {
+      "brand": "海盗虾饭(四川北路店)",
+      "address": "四川北路1851号4层",
+      "distance": "2m"
+    },
+    {
+      "brand": "粤茗客茶点",
+      "address": "四川北路1915号上海时装商厦",
+      "distance": "2m"
+    },
+    {
+      "brand": "QCHanBang韩式炸鸡·火鸡面",
+      "address": "多伦路文化名人街与四川北路交叉口西北40米",
+      "distance": "6m"
+    },
+    {
+      "brand": "鲸尚渝·砂锅双椒炖大鹅",
+      "address": "四川北路1915号上海时装商厦",
+      "distance": "8m"
+    },
+    {
+      "brand": "红亮老火锅(虹口店)",
+      "address": "四川北路1915号时装商厦二楼(多伦路口)",
+      "distance": "10m"
+    },
+    {
+      "brand": "牛约堡·手作牛肉汉堡",
+      "address": "四川北路与多伦路文化名人街交叉口西北40米",
+      "distance": "11m"
+    },
+    {
+      "brand": "垫小饿共享厨房(上海时装商厦店)",
+      "address": "四川北路1915号上海时装商厦3楼301-330",
+      "distance": "13m"
+    },
+    {
+      "brand": "一碗香·麻辣香锅·新鲜现炒(虹口店)",
+      "address": "四川北路街道上海时装商厦",
+      "distance": "14m"
+    },
+    {
+      "brand": "一品名仕包子(四川北路店)",
+      "address": "四川北路1915号",
+      "distance": "18m"
+    },
+    {
+      "brand": "牛尚煌酱牛肉(上海时装商厦店)",
+      "address": "余庆坊西门西北50米",
+      "distance": "24m"
+    },
+    {
+      "brand": "海盗虾饭(四川北路店)",
+      "address": "四川北路1851号4层",
+      "distance": "2m"
+    },
+    {
+      "brand": "粤茗客茶点",
+      "address": "四川北路1915号上海时装商厦",
+      "distance": "2m"
+    },
+    {
+      "brand": "QCHanBang韩式炸鸡·火鸡面",
+      "address": "多伦路文化名人街与四川北路交叉口西北40米",
+      "distance": "6m"
+    },
+    {
+      "brand": "鲸尚渝·砂锅双椒炖大鹅",
+      "address": "四川北路1915号上海时装商厦",
+      "distance": "8m"
+    },
+    {
+      "brand": "红亮老火锅(虹口店)",
+      "address": "四川北路1915号时装商厦二楼(多伦路口)",
+      "distance": "10m"
+    },
+    {
+      "brand": "牛约堡·手作牛肉汉堡",
+      "address": "四川北路与多伦路文化名人街交叉口西北40米",
+      "distance": "11m"
+    },
+    {
+      "brand": "垫小饿共享厨房(上海时装商厦店)",
+      "address": "四川北路1915号上海时装商厦3楼301-330",
+      "distance": "13m"
+    },
+    {
+      "brand": "一碗香·麻辣香锅·新鲜现炒(虹口店)",
+      "address": "四川北路街道上海时装商厦",
+      "distance": "14m"
+    },
+    {
+      "brand": "一品名仕包子(四川北路店)",
+      "address": "四川北路1915号",
+      "distance": "18m"
+    },
+    {
+      "brand": "牛尚煌酱牛肉(上海时装商厦店)",
+      "address": "余庆坊西门西北50米",
+      "distance": "24m"
+    },
+    {
+      "brand": "海盗虾饭(四川北路店)",
+      "address": "四川北路1851号4层",
+      "distance": "2m"
+    },
+    {
+      "brand": "粤茗客茶点",
+      "address": "四川北路1915号上海时装商厦",
+      "distance": "2m"
+    },
+    {
+      "brand": "QCHanBang韩式炸鸡·火鸡面",
+      "address": "多伦路文化名人街与四川北路交叉口西北40米",
+      "distance": "6m"
+    },
+    {
+      "brand": "鲸尚渝·砂锅双椒炖大鹅",
+      "address": "四川北路1915号上海时装商厦",
+      "distance": "8m"
+    },
+    {
+      "brand": "红亮老火锅(虹口店)",
+      "address": "四川北路1915号时装商厦二楼(多伦路口)",
+      "distance": "10m"
+    },
+    {
+      "brand": "牛约堡·手作牛肉汉堡",
+      "address": "四川北路与多伦路文化名人街交叉口西北40米",
+      "distance": "11m"
+    },
+    {
+      "brand": "垫小饿共享厨房(上海时装商厦店)",
+      "address": "四川北路1915号上海时装商厦3楼301-330",
+      "distance": "13m"
+    },
+    {
+      "brand": "一碗香·麻辣香锅·新鲜现炒(虹口店)",
+      "address": "四川北路街道上海时装商厦",
+      "distance": "14m"
+    },
+    {
+      "brand": "一品名仕包子(四川北路店)",
+      "address": "四川北路1915号",
+      "distance": "18m"
+    },
+    {
+      "brand": "牛尚煌酱牛肉(上海时装商厦店)",
+      "address": "余庆坊西门西北50米",
+      "distance": "24m"
+    },
+    {
+      "brand": "海盗虾饭(四川北路店)",
+      "address": "四川北路1851号4层",
+      "distance": "2m"
+    },
+    {
+      "brand": "粤茗客茶点",
+      "address": "四川北路1915号上海时装商厦",
+      "distance": "2m"
+    },
+    {
+      "brand": "QCHanBang韩式炸鸡·火鸡面",
+      "address": "多伦路文化名人街与四川北路交叉口西北40米",
+      "distance": "6m"
+    },
+    {
+      "brand": "鲸尚渝·砂锅双椒炖大鹅",
+      "address": "四川北路1915号上海时装商厦",
+      "distance": "8m"
+    },
+    {
+      "brand": "红亮老火锅(虹口店)",
+      "address": "四川北路1915号时装商厦二楼(多伦路口)",
+      "distance": "10m"
+    },
+    {
+      "brand": "牛约堡·手作牛肉汉堡",
+      "address": "四川北路与多伦路文化名人街交叉口西北40米",
+      "distance": "11m"
+    },
+    {
+      "brand": "垫小饿共享厨房(上海时装商厦店)",
+      "address": "四川北路1915号上海时装商厦3楼301-330",
+      "distance": "13m"
+    },
+    {
+      "brand": "一碗香·麻辣香锅·新鲜现炒(虹口店)",
+      "address": "四川北路街道上海时装商厦",
+      "distance": "14m"
+    },
+    {
+      "brand": "一品名仕包子(四川北路店)",
+      "address": "四川北路1915号",
+      "distance": "18m"
+    },
+    {
+      "brand": "牛尚煌酱牛肉(上海时装商厦店)",
+      "address": "余庆坊西门西北50米",
+      "distance": "24m"
+    },
+    {
+      "brand": "海盗虾饭(四川北路店)",
+      "address": "四川北路1851号4层",
+      "distance": "2m"
+    },
+    {
+      "brand": "粤茗客茶点",
+      "address": "四川北路1915号上海时装商厦",
+      "distance": "2m"
+    },
+    {
+      "brand": "QCHanBang韩式炸鸡·火鸡面",
+      "address": "多伦路文化名人街与四川北路交叉口西北40米",
+      "distance": "6m"
+    },
+    {
+      "brand": "鲸尚渝·砂锅双椒炖大鹅",
+      "address": "四川北路1915号上海时装商厦",
+      "distance": "8m"
+    },
+    {
+      "brand": "红亮老火锅(虹口店)",
+      "address": "四川北路1915号时装商厦二楼(多伦路口)",
+      "distance": "10m"
+    },
+    {
+      "brand": "牛约堡·手作牛肉汉堡",
+      "address": "四川北路与多伦路文化名人街交叉口西北40米",
+      "distance": "11m"
+    },
+    {
+      "brand": "垫小饿共享厨房(上海时装商厦店)",
+      "address": "四川北路1915号上海时装商厦3楼301-330",
+      "distance": "13m"
+    },
+    {
+      "brand": "一碗香·麻辣香锅·新鲜现炒(虹口店)",
+      "address": "四川北路街道上海时装商厦",
+      "distance": "14m"
+    },
+    {
+      "brand": "一品名仕包子(四川北路店)",
+      "address": "四川北路1915号",
+      "distance": "18m"
+    },
+    {
+      "brand": "牛尚煌酱牛肉(上海时装商厦店)",
+      "address": "余庆坊西门西北50米",
+      "distance": "24m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海多伦生活广场(四川北路商业街店)",
+      "open_date": "-",
+      "area": "-",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海虹口宝华商业广场",
+      "open_date": "2023-05-20",
+      "area": "2.2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "合新里",
+      "open_date": "2021-01-01",
+      "area": "2.4万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海ist艾尚天地",
+      "open_date": "2019-06-01",
+      "area": "3万㎡",
+      "jun_daily_avg": "1.1万人次",
+      "weekday_avg": "1.1万人次",
+      "holiday_avg": "1.1万人次"
+    },
+    {
+      "name": "上海宏慧新里",
+      "open_date": "2024-02-21",
+      "area": "2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海利通广场",
+      "open_date": "2012-01-01",
+      "area": "2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海壹丰广场",
+      "open_date": "2012-11-09",
+      "area": "2.8万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海凯德虹口商业中心",
+      "open_date": "2010-01-01",
+      "area": "17.3万㎡",
+      "jun_daily_avg": "7.5万人次",
+      "weekday_avg": "7.1万人次",
+      "holiday_avg": "8.8万人次"
+    },
+    {
+      "name": "上海瑞虹天地星星堂",
+      "open_date": "2015-05-14",
+      "area": "2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海滨港商业中心",
+      "open_date": "2025-01",
+      "area": "11万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 9.0,
+      "within_1yr_pct": 44.4,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 22.2
+    },
+    {
+      "type": "购物",
+      "count": 3.0,
+      "within_1yr_pct": 66.7,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 33.3
+    },
+    {
+      "type": "酒店住宿",
+      "count": 2.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "生活服务",
+      "count": 1.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "运动健身",
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    }
+  ]
+}

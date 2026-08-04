@@ -1,0 +1,192 @@
+{
+  "name": "卧龙悦购时代购物中心(前进花园玉兰苑店)",
+  "city": "北京市",
+  "address": "北京市顺义区顺白路79号",
+  "lat": 40.134337,
+  "lng": 116.64015,
+  "overview": {
+    "score": 84.8,
+    "score_rank": "市内前30%",
+    "population_score": 87.1,
+    "area_score": 73.2,
+    "consumption_score": 65.0,
+    "industry_score": 84.8,
+    "annual_sales": "位于北京市顺义区前进花园玉兰苑甲1号楼，毗邻卧龙环岛及卧龙公园，集永辉超市、旗舰餐饮、网红小吃、亲子智趣、时尚零售、教育娱乐六大业态为一体，是社区型商业综合体",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 2.3,
+    "open_date": "2024-01-01",
+    "operator": "",
+    "brand": "",
+    "type": "美食型",
+    "floors": "B1-L2"
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "-",
+    "annual_daily_rank": "",
+    "jun_total": 15.6,
+    "jun_total_rank": "市内商场第296名",
+    "jun_daily_avg": 5199.0,
+    "jun_daily_unit": "人次",
+    "jun_daily_rank": "市内商场第296名",
+    "weekday_avg": 4578.0,
+    "weekday_unit": "人次",
+    "weekday_rank": "市内商场第302名",
+    "holiday_avg": 6907.0,
+    "holiday_unit": "人次",
+    "holiday_rank": "市内商场第278名"
+  },
+  "population": {
+    "residential": {
+      "500m": 2.0,
+      "1_5km": 10.3,
+      "3km": 31.0
+    },
+    "office": {
+      "500m": 6700.0,
+      "1_5km": 4.8,
+      "3km": 13.6
+    },
+    "permanent": {
+      "500m": 1.9,
+      "1_5km": 10.7,
+      "3km": 29.9
+    }
+  },
+  "business": {
+    "competitors": 1.0,
+    "food": 185.0,
+    "shopping": 68.0,
+    "leisure": 8.0,
+    "education": 13.0,
+    "hotel": 6.0,
+    "services": 75.0,
+    "fitness": 13.0,
+    "auto": 11.0,
+    "total_stores": 80.0,
+    "old_store_3yr_pct": 40.0
+  },
+  "nearby_poi": {
+    "business": 9.0,
+    "community": 118.0,
+    "office": 7.0,
+    "school": 17.0,
+    "hospital": 54.0,
+    "transport": 8.0,
+    "scenic": 53.0
+  },
+  "demographics": {
+    "male_pct": 46.6,
+    "female_pct": null,
+    "education": {
+      "小学": 9.5,
+      "初中": 16.7,
+      "高中": 10.7,
+      "大专": 8.6,
+      "本科": 49.0,
+      "硕士": 4.5,
+      "博士": 1.0
+    },
+    "has_children_pct": 59.9,
+    "no_children_pct": 40.1
+  },
+  "scraped_at": "2026-08-01T07:27:59.494Z",
+  "nearby_restaurants": [
+    {
+      "brand": "山西刀削面家常菜",
+      "address": "仁和镇顺沙路旁西辛北区",
+      "distance": "459m"
+    },
+    {
+      "brand": "熊家无二·韩式炸鸡(西辛北区店)",
+      "address": "北京市西辛北区(西辛农副产品市场内5号)",
+      "distance": "466m"
+    },
+    {
+      "brand": "石门铁板烧(前进花园店)",
+      "address": "石门苑北门1号楼底商乔氏台球一楼",
+      "distance": "478m"
+    },
+    {
+      "brand": "一路向甜蛋糕店",
+      "address": "仁和前进花园石门苑一号楼底商一路",
+      "distance": "485m"
+    },
+    {
+      "brand": "老北京烧饼(石门苑店)",
+      "address": "顺于路87号前进花园石门苑社区",
+      "distance": "498m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "北京顺商集团国泰百货",
+      "open_date": "1993-11-28",
+      "area": "3.3万㎡",
+      "jun_daily_avg": "1.7万人次",
+      "weekday_avg": "1.4万人次",
+      "holiday_avg": "2.5万人次"
+    },
+    {
+      "name": "北京顺义隆华购物中心",
+      "open_date": "1997-11-26",
+      "area": "6万㎡",
+      "jun_daily_avg": "1.7万人次",
+      "weekday_avg": "1.4万人次",
+      "holiday_avg": "2.5万人次"
+    },
+    {
+      "name": "BHG Mall北京华联顺义金街购物中心",
+      "open_date": "2014-01-01",
+      "area": "8万㎡",
+      "jun_daily_avg": "6.3万人次",
+      "weekday_avg": "5.2万人次",
+      "holiday_avg": "9.5万人次"
+    },
+    {
+      "name": "北京新世界百货(顺义店)",
+      "open_date": "2010-09-22",
+      "area": "5.6万㎡",
+      "jun_daily_avg": "1.7万人次",
+      "weekday_avg": "1.4万人次",
+      "holiday_avg": "2.3万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 49.0,
+      "within_1yr_pct": 30.6,
+      "1_3yr_pct": 26.5,
+      "over_3yr_pct": 42.9
+    },
+    {
+      "type": "购物",
+      "count": 13.0,
+      "within_1yr_pct": 23.1,
+      "1_3yr_pct": 38.5,
+      "over_3yr_pct": 38.5
+    },
+    {
+      "type": "教育培训",
+      "count": 3.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 33.3
+    },
+    {
+      "type": "生活服务",
+      "count": 12.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 33.3
+    },
+    {
+      "type": "运动健身",
+      "count": 3.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 66.7,
+      "over_3yr_pct": 33.3
+    }
+  ]
+}

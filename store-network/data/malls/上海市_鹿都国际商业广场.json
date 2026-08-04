@@ -1,0 +1,438 @@
+{
+  "name": "鹿都国际商业广场",
+  "city": "上海市",
+  "address": "上海市松江区庙前街45号",
+  "lat": 31.005228,
+  "lng": 121.235168,
+  "overview": {
+    "score": 93.8,
+    "score_rank": "市内前30%",
+    "population_score": 84.8,
+    "area_score": 90.5,
+    "consumption_score": 63.7,
+    "industry_score": 93.8,
+    "annual_sales": "鹿都国际商业广场集大型综合大卖场、时尚百货、各类专卖店、运动城，并配套大型餐饮、量贩式KTV、游艺中心等休闲娱乐服务配套设施为一体的超大规模商业广场",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 7.7,
+    "open_date": "2011-01-01",
+    "operator": "上海鹿都房地产开发有限公司",
+    "brand": "海伦堡商业集团",
+    "type": "美食型",
+    "floors": "B2-L4"
+  },
+  "traffic": {
+    "annual_daily": 1.99,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第139",
+    "jun_total": 65.0,
+    "jun_total_rank": "市内商场第181名",
+    "jun_daily_avg": 2.2,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第181名",
+    "weekday_avg": 1.8,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第191名",
+    "holiday_avg": 3.1,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第155名"
+  },
+  "population": {
+    "residential": {
+      "500m": 1.9,
+      "1_5km": 14.2,
+      "3km": 40.5
+    },
+    "office": {
+      "500m": 1.4,
+      "1_5km": 6.8,
+      "3km": 17.0
+    },
+    "permanent": {
+      "500m": 2.3,
+      "1_5km": 14.7,
+      "3km": 40.2
+    }
+  },
+  "business": {
+    "competitors": 6.0,
+    "food": 328.0,
+    "shopping": 384.0,
+    "leisure": 39.0,
+    "education": 26.0,
+    "hotel": 34.0,
+    "services": 251.0,
+    "fitness": 15.0,
+    "auto": 19.0,
+    "total_stores": 266.0,
+    "old_store_3yr_pct": 52.0
+  },
+  "nearby_poi": {
+    "business": 4.0,
+    "community": 201.0,
+    "office": 22.0,
+    "school": 28.0,
+    "hospital": 35.0,
+    "transport": 12.0,
+    "scenic": 188.0
+  },
+  "demographics": {
+    "male_pct": 47.9,
+    "female_pct": null,
+    "education": {
+      "小学": 10.4,
+      "初中": 22.1,
+      "高中": 12.6,
+      "大专": 8.5,
+      "本科": 43.2,
+      "硕士": 2.5,
+      "博士": 0.7
+    },
+    "has_children_pct": 64.1,
+    "no_children_pct": 35.9
+  },
+  "scraped_at": "2026-08-01T05:53:05.015Z",
+  "nearby_restaurants": [
+    {
+      "brand": "辣萃天椒麻辣香锅",
+      "address": "岳阳路街道松汇中路568号A座1层1204-1、1334-3号",
+      "distance": "16m"
+    },
+    {
+      "brand": "辣想啵啵鱼·无刺小锅鱼",
+      "address": "松江中山中路与白龙潭巷交叉口南220米",
+      "distance": "17m"
+    },
+    {
+      "brand": "鹿家厨房(鹿都国际购物广场店)",
+      "address": "松汇中路568号鹿都国际购物广场F4层",
+      "distance": "18m"
+    },
+    {
+      "brand": "楚汉传奇·洪湖藕汤(松江鹿都国际店)",
+      "address": "松汇中路568号鹿都国际购物广场F3层",
+      "distance": "18m"
+    },
+    {
+      "brand": "许府牛火锅(鹿都国际购物广场店)",
+      "address": "商场2楼(北门马记永拉面店旁观光电梯上2楼)",
+      "distance": "18m"
+    },
+    {
+      "brand": "索菲克战斧牛排餐厅",
+      "address": "松汇中路568号鹿都国际购物广场F4层",
+      "distance": "19m"
+    },
+    {
+      "brand": "欧味多(松江鹿都店)",
+      "address": "松汇中路568号鹿都国际购物广场F1层",
+      "distance": "19m"
+    },
+    {
+      "brand": "蜜可朵拉蛋仔",
+      "address": "松江中山中路与白龙潭巷交叉口南180米",
+      "distance": "21m"
+    },
+    {
+      "brand": "老北京爆肚(庙前街店)",
+      "address": "松江中山中路与白龙潭巷交叉口南180米",
+      "distance": "22m"
+    },
+    {
+      "brand": "湘约屋坎上·湘西土家菜·湘西炊锅(鹿都国际购物广场店)",
+      "address": "松汇中路568号鹿都国际购物广场F1层",
+      "distance": "26m"
+    },
+    {
+      "brand": "辣萃天椒麻辣香锅",
+      "address": "岳阳路街道松汇中路568号A座1层1204-1、1334-3号",
+      "distance": "16m"
+    },
+    {
+      "brand": "辣想啵啵鱼·无刺小锅鱼",
+      "address": "松江中山中路与白龙潭巷交叉口南220米",
+      "distance": "17m"
+    },
+    {
+      "brand": "鹿家厨房(鹿都国际购物广场店)",
+      "address": "松汇中路568号鹿都国际购物广场F4层",
+      "distance": "18m"
+    },
+    {
+      "brand": "楚汉传奇·洪湖藕汤(松江鹿都国际店)",
+      "address": "松汇中路568号鹿都国际购物广场F3层",
+      "distance": "18m"
+    },
+    {
+      "brand": "许府牛火锅(鹿都国际购物广场店)",
+      "address": "商场2楼(北门马记永拉面店旁观光电梯上2楼)",
+      "distance": "18m"
+    },
+    {
+      "brand": "索菲克战斧牛排餐厅",
+      "address": "松汇中路568号鹿都国际购物广场F4层",
+      "distance": "19m"
+    },
+    {
+      "brand": "欧味多(松江鹿都店)",
+      "address": "松汇中路568号鹿都国际购物广场F1层",
+      "distance": "19m"
+    },
+    {
+      "brand": "蜜可朵拉蛋仔",
+      "address": "松江中山中路与白龙潭巷交叉口南180米",
+      "distance": "21m"
+    },
+    {
+      "brand": "老北京爆肚(庙前街店)",
+      "address": "松江中山中路与白龙潭巷交叉口南180米",
+      "distance": "22m"
+    },
+    {
+      "brand": "湘约屋坎上·湘西土家菜·湘西炊锅(鹿都国际购物广场店)",
+      "address": "松汇中路568号鹿都国际购物广场F1层",
+      "distance": "26m"
+    },
+    {
+      "brand": "辣萃天椒麻辣香锅",
+      "address": "岳阳路街道松汇中路568号A座1层1204-1、1334-3号",
+      "distance": "16m"
+    },
+    {
+      "brand": "辣想啵啵鱼·无刺小锅鱼",
+      "address": "松江中山中路与白龙潭巷交叉口南220米",
+      "distance": "17m"
+    },
+    {
+      "brand": "鹿家厨房(鹿都国际购物广场店)",
+      "address": "松汇中路568号鹿都国际购物广场F4层",
+      "distance": "18m"
+    },
+    {
+      "brand": "楚汉传奇·洪湖藕汤(松江鹿都国际店)",
+      "address": "松汇中路568号鹿都国际购物广场F3层",
+      "distance": "18m"
+    },
+    {
+      "brand": "许府牛火锅(鹿都国际购物广场店)",
+      "address": "商场2楼(北门马记永拉面店旁观光电梯上2楼)",
+      "distance": "18m"
+    },
+    {
+      "brand": "索菲克战斧牛排餐厅",
+      "address": "松汇中路568号鹿都国际购物广场F4层",
+      "distance": "19m"
+    },
+    {
+      "brand": "欧味多(松江鹿都店)",
+      "address": "松汇中路568号鹿都国际购物广场F1层",
+      "distance": "19m"
+    },
+    {
+      "brand": "蜜可朵拉蛋仔",
+      "address": "松江中山中路与白龙潭巷交叉口南180米",
+      "distance": "21m"
+    },
+    {
+      "brand": "老北京爆肚(庙前街店)",
+      "address": "松江中山中路与白龙潭巷交叉口南180米",
+      "distance": "22m"
+    },
+    {
+      "brand": "湘约屋坎上·湘西土家菜·湘西炊锅(鹿都国际购物广场店)",
+      "address": "松汇中路568号鹿都国际购物广场F1层",
+      "distance": "26m"
+    },
+    {
+      "brand": "辣萃天椒麻辣香锅",
+      "address": "岳阳路街道松汇中路568号A座1层1204-1、1334-3号",
+      "distance": "16m"
+    },
+    {
+      "brand": "辣想啵啵鱼·无刺小锅鱼",
+      "address": "松江中山中路与白龙潭巷交叉口南220米",
+      "distance": "17m"
+    },
+    {
+      "brand": "鹿家厨房(鹿都国际购物广场店)",
+      "address": "松汇中路568号鹿都国际购物广场F4层",
+      "distance": "18m"
+    },
+    {
+      "brand": "楚汉传奇·洪湖藕汤(松江鹿都国际店)",
+      "address": "松汇中路568号鹿都国际购物广场F3层",
+      "distance": "18m"
+    },
+    {
+      "brand": "许府牛火锅(鹿都国际购物广场店)",
+      "address": "商场2楼(北门马记永拉面店旁观光电梯上2楼)",
+      "distance": "18m"
+    },
+    {
+      "brand": "索菲克战斧牛排餐厅",
+      "address": "松汇中路568号鹿都国际购物广场F4层",
+      "distance": "19m"
+    },
+    {
+      "brand": "欧味多(松江鹿都店)",
+      "address": "松汇中路568号鹿都国际购物广场F1层",
+      "distance": "19m"
+    },
+    {
+      "brand": "蜜可朵拉蛋仔",
+      "address": "松江中山中路与白龙潭巷交叉口南180米",
+      "distance": "21m"
+    },
+    {
+      "brand": "老北京爆肚(庙前街店)",
+      "address": "松江中山中路与白龙潭巷交叉口南180米",
+      "distance": "22m"
+    },
+    {
+      "brand": "湘约屋坎上·湘西土家菜·湘西炊锅(鹿都国际购物广场店)",
+      "address": "松汇中路568号鹿都国际购物广场F1层",
+      "distance": "26m"
+    },
+    {
+      "brand": "辣萃天椒麻辣香锅",
+      "address": "岳阳路街道松汇中路568号A座1层1204-1、1334-3号",
+      "distance": "16m"
+    },
+    {
+      "brand": "辣想啵啵鱼·无刺小锅鱼",
+      "address": "松江中山中路与白龙潭巷交叉口南220米",
+      "distance": "17m"
+    },
+    {
+      "brand": "鹿家厨房(鹿都国际购物广场店)",
+      "address": "松汇中路568号鹿都国际购物广场F4层",
+      "distance": "18m"
+    },
+    {
+      "brand": "楚汉传奇·洪湖藕汤(松江鹿都国际店)",
+      "address": "松汇中路568号鹿都国际购物广场F3层",
+      "distance": "18m"
+    },
+    {
+      "brand": "许府牛火锅(鹿都国际购物广场店)",
+      "address": "商场2楼(北门马记永拉面店旁观光电梯上2楼)",
+      "distance": "18m"
+    },
+    {
+      "brand": "索菲克战斧牛排餐厅",
+      "address": "松汇中路568号鹿都国际购物广场F4层",
+      "distance": "19m"
+    },
+    {
+      "brand": "欧味多(松江鹿都店)",
+      "address": "松汇中路568号鹿都国际购物广场F1层",
+      "distance": "19m"
+    },
+    {
+      "brand": "蜜可朵拉蛋仔",
+      "address": "松江中山中路与白龙潭巷交叉口南180米",
+      "distance": "21m"
+    },
+    {
+      "brand": "老北京爆肚(庙前街店)",
+      "address": "松江中山中路与白龙潭巷交叉口南180米",
+      "distance": "22m"
+    },
+    {
+      "brand": "湘约屋坎上·湘西土家菜·湘西炊锅(鹿都国际购物广场店)",
+      "address": "松汇中路568号鹿都国际购物广场F1层",
+      "distance": "26m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海松江商城",
+      "open_date": "1995-09-16",
+      "area": "1.5万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海云间新天地",
+      "open_date": "2023-09-01",
+      "area": "8万㎡",
+      "jun_daily_avg": "2万人次",
+      "weekday_avg": "1.8万人次",
+      "holiday_avg": "2.4万人次"
+    },
+    {
+      "name": "上海平高广场",
+      "open_date": "2013",
+      "area": "3.5万㎡",
+      "jun_daily_avg": "1万人次",
+      "weekday_avg": "1万人次",
+      "holiday_avg": "1.1万人次"
+    },
+    {
+      "name": "上海松江大橘邻里中心",
+      "open_date": "2025-07-13",
+      "area": "3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 105.0,
+      "within_1yr_pct": 22.9,
+      "1_3yr_pct": 30.5,
+      "over_3yr_pct": 46.7
+    },
+    {
+      "type": "购物",
+      "count": 106.0,
+      "within_1yr_pct": 15.1,
+      "1_3yr_pct": 19.8,
+      "over_3yr_pct": 65.1
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 12.0,
+      "within_1yr_pct": 8.3,
+      "1_3yr_pct": 58.3,
+      "over_3yr_pct": 33.3
+    },
+    {
+      "type": "教育培训",
+      "count": 8.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 37.5,
+      "over_3yr_pct": 37.5
+    },
+    {
+      "type": "酒店住宿",
+      "count": 2.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "生活服务",
+      "count": 22.0,
+      "within_1yr_pct": 18.2,
+      "1_3yr_pct": 36.4,
+      "over_3yr_pct": 45.5
+    },
+    {
+      "type": "运动健身",
+      "count": 9.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 44.4,
+      "over_3yr_pct": 22.2
+    },
+    {
+      "type": "车辆服务",
+      "count": 2.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 50.0
+    }
+  ]
+}

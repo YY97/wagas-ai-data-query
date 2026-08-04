@@ -1,0 +1,446 @@
+{
+  "name": "上海云际π",
+  "city": "上海市",
+  "address": "上海市松江区中山街道上海云间粮仓文创园",
+  "lat": 31.000823,
+  "lng": 121.244301,
+  "overview": {
+    "score": 78.7,
+    "score_rank": "市内前30%",
+    "population_score": 77.5,
+    "area_score": 66.7,
+    "consumption_score": 63.0,
+    "industry_score": 78.8,
+    "annual_sales": "",
+    "annual_sales_unit": "",
+    "area_size_sqm": null,
+    "open_date": "",
+    "operator": "",
+    "brand": "",
+    "type": "",
+    "floors": ""
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "",
+    "annual_daily_rank": "",
+    "jun_total": null,
+    "jun_total_rank": "",
+    "jun_daily_avg": null,
+    "jun_daily_unit": "",
+    "jun_daily_rank": "",
+    "weekday_avg": null,
+    "weekday_unit": "",
+    "weekday_rank": "",
+    "holiday_avg": null,
+    "holiday_unit": "",
+    "holiday_rank": ""
+  },
+  "population": {
+    "residential": {
+      "500m": 1.4,
+      "1_5km": 10.7,
+      "3km": 39.9
+    },
+    "office": {
+      "500m": 4900.0,
+      "1_5km": 4.6,
+      "3km": 16.2
+    },
+    "permanent": {
+      "500m": 1.3,
+      "1_5km": 10.9,
+      "3km": 38.7
+    }
+  },
+  "business": {
+    "competitors": null,
+    "food": 94.0,
+    "shopping": 45.0,
+    "leisure": 12.0,
+    "education": 5.0,
+    "hotel": 15.0,
+    "services": 33.0,
+    "fitness": 8.0,
+    "auto": 16.0,
+    "total_stores": 233.0,
+    "old_store_3yr_pct": 57.0
+  },
+  "nearby_poi": {
+    "business": 5.0,
+    "community": 188.0,
+    "office": 13.0,
+    "school": 22.0,
+    "hospital": 32.0,
+    "transport": 5.0,
+    "scenic": 171.0
+  },
+  "demographics": {
+    "male_pct": 49.5,
+    "female_pct": null,
+    "education": {
+      "小学": 10.5,
+      "初中": 21.7,
+      "高中": 12.5,
+      "大专": 8.5,
+      "本科": 43.5,
+      "硕士": 2.6,
+      "博士": 0.7
+    },
+    "has_children_pct": null,
+    "no_children_pct": null
+  },
+  "scraped_at": "2026-07-31T15:29:11.839Z",
+  "nearby_restaurants": [
+    {
+      "brand": "T.P.T COFFEE幼象咖啡",
+      "address": "云间粮仓西1",
+      "distance": "49m"
+    },
+    {
+      "brand": "满仓烧肉(云间粮仓店)",
+      "address": "松汇东路327号云间粮仓西1幢",
+      "distance": "50m"
+    },
+    {
+      "brand": "TASTEA品味茶室",
+      "address": "松汇东路327号",
+      "distance": "60m"
+    },
+    {
+      "brand": "禾勝日式居酒屋(云间粮仓店)",
+      "address": "松汇东路327号云间创意园西1幢101禾勝",
+      "distance": "60m"
+    },
+    {
+      "brand": "上海宽居云涧酒店·餐厅",
+      "address": "松汇东路327号云间粮仓西二距离醉白池地铁站-2口",
+      "distance": "61m"
+    },
+    {
+      "brand": "熊猫·涮·烤·串自助馆(云间粮仓店)",
+      "address": "松金公路与沪昆线交叉口西北280米",
+      "distance": "62m"
+    },
+    {
+      "brand": "糯小甜",
+      "address": "松金公路与沪昆线交叉口西北280米",
+      "distance": "62m"
+    },
+    {
+      "brand": "寻野烧鸟",
+      "address": "松汇东路327号云间粮仓西L02号",
+      "distance": "67m"
+    },
+    {
+      "brand": "常见面火锅烤肉排档",
+      "address": "松金公路与沪昆线交叉口西北260米",
+      "distance": "76m"
+    },
+    {
+      "brand": "Mix Shakalaka鲨卡·美式融合餐吧(松江店)",
+      "address": "松金公路10053号云间粮仓27栋-1",
+      "distance": "80m"
+    },
+    {
+      "brand": "T.P.T COFFEE幼象咖啡",
+      "address": "云间粮仓西1",
+      "distance": "49m"
+    },
+    {
+      "brand": "满仓烧肉(云间粮仓店)",
+      "address": "松汇东路327号云间粮仓西1幢",
+      "distance": "50m"
+    },
+    {
+      "brand": "TASTEA品味茶室",
+      "address": "松汇东路327号",
+      "distance": "60m"
+    },
+    {
+      "brand": "禾勝日式居酒屋(云间粮仓店)",
+      "address": "松汇东路327号云间创意园西1幢101禾勝",
+      "distance": "60m"
+    },
+    {
+      "brand": "上海宽居云涧酒店·餐厅",
+      "address": "松汇东路327号云间粮仓西二距离醉白池地铁站-2口",
+      "distance": "61m"
+    },
+    {
+      "brand": "熊猫·涮·烤·串自助馆(云间粮仓店)",
+      "address": "松金公路与沪昆线交叉口西北280米",
+      "distance": "62m"
+    },
+    {
+      "brand": "糯小甜",
+      "address": "松金公路与沪昆线交叉口西北280米",
+      "distance": "62m"
+    },
+    {
+      "brand": "寻野烧鸟",
+      "address": "松汇东路327号云间粮仓西L02号",
+      "distance": "67m"
+    },
+    {
+      "brand": "常见面火锅烤肉排档",
+      "address": "松金公路与沪昆线交叉口西北260米",
+      "distance": "76m"
+    },
+    {
+      "brand": "Mix Shakalaka鲨卡·美式融合餐吧(松江店)",
+      "address": "松金公路10053号云间粮仓27栋-1",
+      "distance": "80m"
+    },
+    {
+      "brand": "T.P.T COFFEE幼象咖啡",
+      "address": "云间粮仓西1",
+      "distance": "49m"
+    },
+    {
+      "brand": "满仓烧肉(云间粮仓店)",
+      "address": "松汇东路327号云间粮仓西1幢",
+      "distance": "50m"
+    },
+    {
+      "brand": "TASTEA品味茶室",
+      "address": "松汇东路327号",
+      "distance": "60m"
+    },
+    {
+      "brand": "禾勝日式居酒屋(云间粮仓店)",
+      "address": "松汇东路327号云间创意园西1幢101禾勝",
+      "distance": "60m"
+    },
+    {
+      "brand": "上海宽居云涧酒店·餐厅",
+      "address": "松汇东路327号云间粮仓西二距离醉白池地铁站-2口",
+      "distance": "61m"
+    },
+    {
+      "brand": "熊猫·涮·烤·串自助馆(云间粮仓店)",
+      "address": "松金公路与沪昆线交叉口西北280米",
+      "distance": "62m"
+    },
+    {
+      "brand": "糯小甜",
+      "address": "松金公路与沪昆线交叉口西北280米",
+      "distance": "62m"
+    },
+    {
+      "brand": "寻野烧鸟",
+      "address": "松汇东路327号云间粮仓西L02号",
+      "distance": "67m"
+    },
+    {
+      "brand": "常见面火锅烤肉排档",
+      "address": "松金公路与沪昆线交叉口西北260米",
+      "distance": "76m"
+    },
+    {
+      "brand": "Mix Shakalaka鲨卡·美式融合餐吧(松江店)",
+      "address": "松金公路10053号云间粮仓27栋-1",
+      "distance": "80m"
+    },
+    {
+      "brand": "T.P.T COFFEE幼象咖啡",
+      "address": "云间粮仓西1",
+      "distance": "49m"
+    },
+    {
+      "brand": "满仓烧肉(云间粮仓店)",
+      "address": "松汇东路327号云间粮仓西1幢",
+      "distance": "50m"
+    },
+    {
+      "brand": "TASTEA品味茶室",
+      "address": "松汇东路327号",
+      "distance": "60m"
+    },
+    {
+      "brand": "禾勝日式居酒屋(云间粮仓店)",
+      "address": "松汇东路327号云间创意园西1幢101禾勝",
+      "distance": "60m"
+    },
+    {
+      "brand": "上海宽居云涧酒店·餐厅",
+      "address": "松汇东路327号云间粮仓西二距离醉白池地铁站-2口",
+      "distance": "61m"
+    },
+    {
+      "brand": "熊猫·涮·烤·串自助馆(云间粮仓店)",
+      "address": "松金公路与沪昆线交叉口西北280米",
+      "distance": "62m"
+    },
+    {
+      "brand": "糯小甜",
+      "address": "松金公路与沪昆线交叉口西北280米",
+      "distance": "62m"
+    },
+    {
+      "brand": "寻野烧鸟",
+      "address": "松汇东路327号云间粮仓西L02号",
+      "distance": "67m"
+    },
+    {
+      "brand": "常见面火锅烤肉排档",
+      "address": "松金公路与沪昆线交叉口西北260米",
+      "distance": "76m"
+    },
+    {
+      "brand": "Mix Shakalaka鲨卡·美式融合餐吧(松江店)",
+      "address": "松金公路10053号云间粮仓27栋-1",
+      "distance": "80m"
+    },
+    {
+      "brand": "T.P.T COFFEE幼象咖啡",
+      "address": "云间粮仓西1",
+      "distance": "49m"
+    },
+    {
+      "brand": "满仓烧肉(云间粮仓店)",
+      "address": "松汇东路327号云间粮仓西1幢",
+      "distance": "50m"
+    },
+    {
+      "brand": "TASTEA品味茶室",
+      "address": "松汇东路327号",
+      "distance": "60m"
+    },
+    {
+      "brand": "禾勝日式居酒屋(云间粮仓店)",
+      "address": "松汇东路327号云间创意园西1幢101禾勝",
+      "distance": "60m"
+    },
+    {
+      "brand": "上海宽居云涧酒店·餐厅",
+      "address": "松汇东路327号云间粮仓西二距离醉白池地铁站-2口",
+      "distance": "61m"
+    },
+    {
+      "brand": "熊猫·涮·烤·串自助馆(云间粮仓店)",
+      "address": "松金公路与沪昆线交叉口西北280米",
+      "distance": "62m"
+    },
+    {
+      "brand": "糯小甜",
+      "address": "松金公路与沪昆线交叉口西北280米",
+      "distance": "62m"
+    },
+    {
+      "brand": "寻野烧鸟",
+      "address": "松汇东路327号云间粮仓西L02号",
+      "distance": "67m"
+    },
+    {
+      "brand": "常见面火锅烤肉排档",
+      "address": "松金公路与沪昆线交叉口西北260米",
+      "distance": "76m"
+    },
+    {
+      "brand": "Mix Shakalaka鲨卡·美式融合餐吧(松江店)",
+      "address": "松金公路10053号云间粮仓27栋-1",
+      "distance": "80m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海云间新天地",
+      "open_date": "2023-09-01",
+      "area": "8万㎡",
+      "jun_daily_avg": "2万人次",
+      "weekday_avg": "1.8万人次",
+      "holiday_avg": "2.4万人次"
+    },
+    {
+      "name": "上海鹿都国际商业广场",
+      "open_date": "2011-01-01",
+      "area": "7.7万㎡",
+      "jun_daily_avg": "2.2万人次",
+      "weekday_avg": "1.8万人次",
+      "holiday_avg": "3.1万人次"
+    },
+    {
+      "name": "上海城东商业广场",
+      "open_date": "-",
+      "area": "7.2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海松江商城",
+      "open_date": "1995-09-16",
+      "area": "1.5万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海玩酷天地美食广场",
+      "open_date": "-",
+      "area": "4000㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 94.0,
+      "within_1yr_pct": 25.5,
+      "1_3yr_pct": 25.5,
+      "over_3yr_pct": 48.9
+    },
+    {
+      "type": "购物",
+      "count": 45.0,
+      "within_1yr_pct": 15.6,
+      "1_3yr_pct": 26.7,
+      "over_3yr_pct": 57.8
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 17.0,
+      "within_1yr_pct": 11.8,
+      "1_3yr_pct": 41.2,
+      "over_3yr_pct": 47.1
+    },
+    {
+      "type": "教育培训",
+      "count": 5.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 15.0,
+      "within_1yr_pct": 6.7,
+      "1_3yr_pct": 20.0,
+      "over_3yr_pct": 73.3
+    },
+    {
+      "type": "生活服务",
+      "count": 33.0,
+      "within_1yr_pct": 9.1,
+      "1_3yr_pct": 30.3,
+      "over_3yr_pct": 60.6
+    },
+    {
+      "type": "运动健身",
+      "count": 8.0,
+      "within_1yr_pct": 37.5,
+      "1_3yr_pct": 12.5,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 16.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 75.0
+    }
+  ]
+}

@@ -1,0 +1,479 @@
+{
+  "name": "上海恒隆广场",
+  "city": "上海市",
+  "address": "上海市静安区南京西路街道恒隆广场上海恒隆广场",
+  "lat": 31.227845,
+  "lng": 121.453484,
+  "overview": {
+    "score": 88.5,
+    "score_rank": "市内前30%",
+    "population_score": 86.0,
+    "area_score": 100.0,
+    "consumption_score": 87.9,
+    "industry_score": 88.5,
+    "annual_sales": "171",
+    "annual_sales_unit": "亿元",
+    "area_size_sqm": 11.4,
+    "open_date": "2001-07-14",
+    "operator": "恒隆地产有限公司",
+    "brand": "恒隆地产有限公司",
+    "type": "购物型",
+    "floors": "B1-L5"
+  },
+  "traffic": {
+    "annual_daily": 1.77,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第154",
+    "jun_total": 65.2,
+    "jun_total_rank": "市内商场第179名",
+    "jun_daily_avg": 2.2,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第179名",
+    "weekday_avg": 2.2,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第163名",
+    "holiday_avg": 2.0,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第211名"
+  },
+  "population": {
+    "residential": {
+      "500m": 2.0,
+      "1_5km": 21.6,
+      "3km": 94.7
+    },
+    "office": {
+      "500m": 5.1,
+      "1_5km": 31.1,
+      "3km": 106.3
+    },
+    "permanent": {
+      "500m": 2.9,
+      "1_5km": 27.5,
+      "3km": 114.5
+    }
+  },
+  "business": {
+    "competitors": 25.0,
+    "food": 449.0,
+    "shopping": 441.0,
+    "leisure": 22.0,
+    "education": 29.0,
+    "hotel": 98.0,
+    "services": 255.0,
+    "fitness": 31.0,
+    "auto": 36.0,
+    "total_stores": 188.0,
+    "old_store_3yr_pct": 47.0
+  },
+  "nearby_poi": {
+    "business": 22.0,
+    "community": 1215.0,
+    "office": 223.0,
+    "school": 75.0,
+    "hospital": 218.0,
+    "transport": 13.0,
+    "scenic": 777.0
+  },
+  "demographics": {
+    "male_pct": 51.2,
+    "female_pct": null,
+    "education": {
+      "小学": 9.1,
+      "初中": 17.9,
+      "高中": 11.9,
+      "大专": 6.8,
+      "本科": 47.9,
+      "硕士": 4.7,
+      "博士": 1.7
+    },
+    "has_children_pct": 58.4,
+    "no_children_pct": 41.6
+  },
+  "scraped_at": "2026-07-31T12:48:16.225Z",
+  "nearby_restaurants": [
+    {
+      "brand": "恒隆广场商场员工通道取餐点",
+      "address": "南京西路街道南京西路1266号恒隆广场1楼",
+      "distance": "1m"
+    },
+    {
+      "brand": "Jellycat CAFÉ",
+      "address": "陕西北路与南阳路交叉口南120米",
+      "distance": "21m"
+    },
+    {
+      "brand": "EAUCAFE(恒隆广场店)",
+      "address": "静安区南京西路1266号恒隆广场L4楼401A",
+      "distance": "26m"
+    },
+    {
+      "brand": "gaga(恒隆广场店)",
+      "address": "南京西路1266号上海恒隆广场L楼509",
+      "distance": "30m"
+    },
+    {
+      "brand": "璦鮨(恒隆广场店)",
+      "address": "南京西路1266号恒隆广场1期F5层",
+      "distance": "43m"
+    },
+    {
+      "brand": "晶采轩(恒隆广场店)",
+      "address": "南京西路1266号恒隆广场5楼",
+      "distance": "46m"
+    },
+    {
+      "brand": "PIERRE MARCOLINI(上海恒隆广场店)",
+      "address": "南京西路1266号上海恒隆广场L3层",
+      "distance": "48m"
+    },
+    {
+      "brand": "Peet's皮爷咖啡(南京西路恒隆店)",
+      "address": "南京西路1266号恒隆广场办公楼一期一楼大堂",
+      "distance": "48m"
+    },
+    {
+      "brand": "野选·亭院-中式自然料理(南京西路恒隆店)",
+      "address": "南京西路1266号(靠近陕西北路)恒隆广场1期",
+      "distance": "52m"
+    },
+    {
+      "brand": "CHA&JOY茶九",
+      "address": "南京西路1266号2号写字楼138B铺位",
+      "distance": "53m"
+    },
+    {
+      "brand": "恒隆广场商场员工通道取餐点",
+      "address": "南京西路街道南京西路1266号恒隆广场1楼",
+      "distance": "1m"
+    },
+    {
+      "brand": "Jellycat CAFÉ",
+      "address": "陕西北路与南阳路交叉口南120米",
+      "distance": "21m"
+    },
+    {
+      "brand": "EAUCAFE(恒隆广场店)",
+      "address": "静安区南京西路1266号恒隆广场L4楼401A",
+      "distance": "26m"
+    },
+    {
+      "brand": "gaga(恒隆广场店)",
+      "address": "南京西路1266号上海恒隆广场L楼509",
+      "distance": "30m"
+    },
+    {
+      "brand": "璦鮨(恒隆广场店)",
+      "address": "南京西路1266号恒隆广场1期F5层",
+      "distance": "43m"
+    },
+    {
+      "brand": "晶采轩(恒隆广场店)",
+      "address": "南京西路1266号恒隆广场5楼",
+      "distance": "46m"
+    },
+    {
+      "brand": "PIERRE MARCOLINI(上海恒隆广场店)",
+      "address": "南京西路1266号上海恒隆广场L3层",
+      "distance": "48m"
+    },
+    {
+      "brand": "Peet's皮爷咖啡(南京西路恒隆店)",
+      "address": "南京西路1266号恒隆广场办公楼一期一楼大堂",
+      "distance": "48m"
+    },
+    {
+      "brand": "野选·亭院-中式自然料理(南京西路恒隆店)",
+      "address": "南京西路1266号(靠近陕西北路)恒隆广场1期",
+      "distance": "52m"
+    },
+    {
+      "brand": "CHA&JOY茶九",
+      "address": "南京西路1266号2号写字楼138B铺位",
+      "distance": "53m"
+    },
+    {
+      "brand": "恒隆广场商场员工通道取餐点",
+      "address": "南京西路街道南京西路1266号恒隆广场1楼",
+      "distance": "1m"
+    },
+    {
+      "brand": "Jellycat CAFÉ",
+      "address": "陕西北路与南阳路交叉口南120米",
+      "distance": "21m"
+    },
+    {
+      "brand": "EAUCAFE(恒隆广场店)",
+      "address": "静安区南京西路1266号恒隆广场L4楼401A",
+      "distance": "26m"
+    },
+    {
+      "brand": "gaga(恒隆广场店)",
+      "address": "南京西路1266号上海恒隆广场L楼509",
+      "distance": "30m"
+    },
+    {
+      "brand": "璦鮨(恒隆广场店)",
+      "address": "南京西路1266号恒隆广场1期F5层",
+      "distance": "43m"
+    },
+    {
+      "brand": "晶采轩(恒隆广场店)",
+      "address": "南京西路1266号恒隆广场5楼",
+      "distance": "46m"
+    },
+    {
+      "brand": "PIERRE MARCOLINI(上海恒隆广场店)",
+      "address": "南京西路1266号上海恒隆广场L3层",
+      "distance": "48m"
+    },
+    {
+      "brand": "Peet's皮爷咖啡(南京西路恒隆店)",
+      "address": "南京西路1266号恒隆广场办公楼一期一楼大堂",
+      "distance": "48m"
+    },
+    {
+      "brand": "野选·亭院-中式自然料理(南京西路恒隆店)",
+      "address": "南京西路1266号(靠近陕西北路)恒隆广场1期",
+      "distance": "52m"
+    },
+    {
+      "brand": "CHA&JOY茶九",
+      "address": "南京西路1266号2号写字楼138B铺位",
+      "distance": "53m"
+    },
+    {
+      "brand": "恒隆广场商场员工通道取餐点",
+      "address": "南京西路街道南京西路1266号恒隆广场1楼",
+      "distance": "1m"
+    },
+    {
+      "brand": "Jellycat CAFÉ",
+      "address": "陕西北路与南阳路交叉口南120米",
+      "distance": "21m"
+    },
+    {
+      "brand": "EAUCAFE(恒隆广场店)",
+      "address": "静安区南京西路1266号恒隆广场L4楼401A",
+      "distance": "26m"
+    },
+    {
+      "brand": "gaga(恒隆广场店)",
+      "address": "南京西路1266号上海恒隆广场L楼509",
+      "distance": "30m"
+    },
+    {
+      "brand": "璦鮨(恒隆广场店)",
+      "address": "南京西路1266号恒隆广场1期F5层",
+      "distance": "43m"
+    },
+    {
+      "brand": "晶采轩(恒隆广场店)",
+      "address": "南京西路1266号恒隆广场5楼",
+      "distance": "46m"
+    },
+    {
+      "brand": "PIERRE MARCOLINI(上海恒隆广场店)",
+      "address": "南京西路1266号上海恒隆广场L3层",
+      "distance": "48m"
+    },
+    {
+      "brand": "Peet's皮爷咖啡(南京西路恒隆店)",
+      "address": "南京西路1266号恒隆广场办公楼一期一楼大堂",
+      "distance": "48m"
+    },
+    {
+      "brand": "野选·亭院-中式自然料理(南京西路恒隆店)",
+      "address": "南京西路1266号(靠近陕西北路)恒隆广场1期",
+      "distance": "52m"
+    },
+    {
+      "brand": "CHA&JOY茶九",
+      "address": "南京西路1266号2号写字楼138B铺位",
+      "distance": "53m"
+    },
+    {
+      "brand": "恒隆广场商场员工通道取餐点",
+      "address": "南京西路街道南京西路1266号恒隆广场1楼",
+      "distance": "1m"
+    },
+    {
+      "brand": "Jellycat CAFÉ",
+      "address": "陕西北路与南阳路交叉口南120米",
+      "distance": "21m"
+    },
+    {
+      "brand": "EAUCAFE(恒隆广场店)",
+      "address": "静安区南京西路1266号恒隆广场L4楼401A",
+      "distance": "26m"
+    },
+    {
+      "brand": "gaga(恒隆广场店)",
+      "address": "南京西路1266号上海恒隆广场L楼509",
+      "distance": "30m"
+    },
+    {
+      "brand": "璦鮨(恒隆广场店)",
+      "address": "南京西路1266号恒隆广场1期F5层",
+      "distance": "43m"
+    },
+    {
+      "brand": "晶采轩(恒隆广场店)",
+      "address": "南京西路1266号恒隆广场5楼",
+      "distance": "46m"
+    },
+    {
+      "brand": "PIERRE MARCOLINI(上海恒隆广场店)",
+      "address": "南京西路1266号上海恒隆广场L3层",
+      "distance": "48m"
+    },
+    {
+      "brand": "Peet's皮爷咖啡(南京西路恒隆店)",
+      "address": "南京西路1266号恒隆广场办公楼一期一楼大堂",
+      "distance": "48m"
+    },
+    {
+      "brand": "野选·亭院-中式自然料理(南京西路恒隆店)",
+      "address": "南京西路1266号(靠近陕西北路)恒隆广场1期",
+      "distance": "52m"
+    },
+    {
+      "brand": "CHA&JOY茶九",
+      "address": "南京西路1266号2号写字楼138B铺位",
+      "distance": "53m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海JC PLAZA锦沧文华广场",
+      "open_date": "2022-08-18",
+      "area": "2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海金鹰国际购物广场",
+      "open_date": "2024-01-26",
+      "area": "3.8万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海商城",
+      "open_date": "1990-04-27",
+      "area": "3万㎡",
+      "jun_daily_avg": "1.2万人次",
+      "weekday_avg": "1.2万人次",
+      "holiday_avg": "1.3万人次"
+    },
+    {
+      "name": "上海中信泰富广场",
+      "open_date": "2002-06-15",
+      "area": "3.5万㎡",
+      "jun_daily_avg": "1.1万人次",
+      "weekday_avg": "1.1万人次",
+      "holiday_avg": "1.1万人次"
+    },
+    {
+      "name": "上海UX 88",
+      "open_date": "2013-01-01",
+      "area": "6000㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海张园·丰盛里",
+      "open_date": "2017-04-01",
+      "area": "1.4万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海通利商厦",
+      "open_date": "2004-11-01",
+      "area": "-",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海湟普汇商场",
+      "open_date": "-",
+      "area": "2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海静安嘉里中心",
+      "open_date": "2013-01-01",
+      "area": "9.4万㎡",
+      "jun_daily_avg": "6万人次",
+      "weekday_avg": "5.5万人次",
+      "holiday_avg": "7.6万人次"
+    },
+    {
+      "name": "上海晶品Crystal Galleria",
+      "open_date": "2015-09-20",
+      "area": "7.3万㎡",
+      "jun_daily_avg": "3.6万人次",
+      "weekday_avg": "3.3万人次",
+      "holiday_avg": "4.5万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 24.0,
+      "within_1yr_pct": 20.8,
+      "1_3yr_pct": 37.5,
+      "over_3yr_pct": 41.7
+    },
+    {
+      "type": "购物",
+      "count": 124.0,
+      "within_1yr_pct": 16.1,
+      "1_3yr_pct": 29.8,
+      "over_3yr_pct": 54.0
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 4.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "教育培训",
+      "count": 3.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 33.3
+    },
+    {
+      "type": "酒店住宿",
+      "count": 1.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "生活服务",
+      "count": 26.0,
+      "within_1yr_pct": 34.6,
+      "1_3yr_pct": 26.9,
+      "over_3yr_pct": 38.5
+    },
+    {
+      "type": "车辆服务",
+      "count": 6.0,
+      "within_1yr_pct": 83.3,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 16.7
+    }
+  ]
+}

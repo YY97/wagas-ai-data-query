@@ -1,0 +1,205 @@
+{
+  "name": "远洋乐堤港",
+  "city": "北京市",
+  "address": "北京市门头沟区永定镇西长安中骏世界城奥莱Mall中骏世界城(西长安店)",
+  "lat": 39.911423,
+  "lng": 116.124093,
+  "overview": {
+    "score": 92.3,
+    "score_rank": "市内前30%",
+    "population_score": 86.6,
+    "area_score": 71.9,
+    "consumption_score": 67.2,
+    "industry_score": 92.4,
+    "annual_sales": "北京长安中骏世界城位于北京市门头沟区，是中骏集团控股有限公司开发的大型购物中心。作为中骏“一体两翼”战略模式下的标杆级项目，它采用了“超级TOD综合体模式”，旨在焕新城市活力，赋能城市发展。项目一层直通门头沟地区最大的公交总站，并与地铁S1号线桥户营站通过连廊无缝连接，方便市民出行。",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 12.0,
+    "open_date": "2023-03-17",
+    "operator": "中骏商管智慧服务控股有限公司",
+    "brand": "中骏",
+    "type": "综合型",
+    "floors": "B1-L5"
+  },
+  "traffic": {
+    "annual_daily": 2.17,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第114",
+    "jun_total": 80.8,
+    "jun_total_rank": "市内商场第119名",
+    "jun_daily_avg": 2.7,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第119名",
+    "weekday_avg": 2.4,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第123名",
+    "holiday_avg": 3.4,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第112名"
+  },
+  "population": {
+    "residential": {
+      "500m": 1.9,
+      "1_5km": 7.8,
+      "3km": 26.3
+    },
+    "office": {
+      "500m": 5600.0,
+      "1_5km": 3.1,
+      "3km": 10.6
+    },
+    "permanent": {
+      "500m": 1.8,
+      "1_5km": 7.5,
+      "3km": 25.1
+    }
+  },
+  "business": {
+    "competitors": 4.0,
+    "food": 108.0,
+    "shopping": 122.0,
+    "leisure": 19.0,
+    "education": 7.0,
+    "hotel": 29.0,
+    "services": 62.0,
+    "fitness": 8.0,
+    "auto": 5.0,
+    "total_stores": 160.0,
+    "old_store_3yr_pct": 46.0
+  },
+  "nearby_poi": {
+    "business": 2.0,
+    "community": 143.0,
+    "office": 9.0,
+    "school": 8.0,
+    "hospital": 18.0,
+    "transport": 3.0,
+    "scenic": 102.0
+  },
+  "demographics": {
+    "male_pct": 46.8,
+    "female_pct": null,
+    "education": {
+      "小学": 10.2,
+      "初中": 16.0,
+      "高中": 10.5,
+      "大专": 8.6,
+      "本科": 48.1,
+      "硕士": 5.4,
+      "博士": 1.2
+    },
+    "has_children_pct": 71.3,
+    "no_children_pct": 28.7
+  },
+  "scraped_at": "2026-08-01T05:51:24.366Z",
+  "nearby_restaurants": [
+    {
+      "brand": "遇见正宗·武汉热干面",
+      "address": "新城东街与曹各庄南路交叉口西南40米",
+      "distance": "439m"
+    },
+    {
+      "brand": "花小小新疆炒米粉·烤包子(长安天街店)",
+      "address": "门头沟区曹各庄南路38号院3号楼1层104",
+      "distance": "439m"
+    },
+    {
+      "brand": "聚朋友家常菜(曹各庄店)",
+      "address": "曹各庄路34号院(上岸地铁站B1东口步行420米)",
+      "distance": "440m"
+    },
+    {
+      "brand": "中国兰州牛肉拉面(西长安壹号34号院店)",
+      "address": "新城大街与曹各庄南路交叉口东80米",
+      "distance": "444m"
+    },
+    {
+      "brand": "旗馨斋",
+      "address": "新城东街与曹各庄南路交叉口西南60米",
+      "distance": "447m"
+    },
+    {
+      "brand": "山西刀削面(西长安壹号店)",
+      "address": "西长安壹号34号院4号楼(上岸地铁站B1东口步行400米)",
+      "distance": "453m"
+    },
+    {
+      "brand": "骨大叔浇汁酱骨饭",
+      "address": "金沙街与曹各庄南路交叉口南40米",
+      "distance": "458m"
+    },
+    {
+      "brand": "周记·鲜椒牛肉拌粉(门头沟店)",
+      "address": "西长安壹号28号院2号楼107",
+      "distance": "463m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "龙湖北京长安天街",
+      "open_date": "2019-11-15",
+      "area": "5.3万㎡",
+      "jun_daily_avg": "3万人次",
+      "weekday_avg": "2.8万人次",
+      "holiday_avg": "3.6万人次"
+    },
+    {
+      "name": "北京华润Plus365购物中心",
+      "open_date": "2014-09-27",
+      "area": "1.5万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 59.0,
+      "within_1yr_pct": 28.8,
+      "1_3yr_pct": 20.3,
+      "over_3yr_pct": 50.8
+    },
+    {
+      "type": "购物",
+      "count": 73.0,
+      "within_1yr_pct": 30.1,
+      "1_3yr_pct": 26.0,
+      "over_3yr_pct": 43.8
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 12.0,
+      "within_1yr_pct": 41.7,
+      "1_3yr_pct": 8.3,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "教育培训",
+      "count": 3.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 66.7,
+      "over_3yr_pct": 33.3
+    },
+    {
+      "type": "生活服务",
+      "count": 10.0,
+      "within_1yr_pct": 10.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 40.0
+    },
+    {
+      "type": "运动健身",
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 1.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
+    }
+  ]
+}

@@ -1,0 +1,205 @@
+{
+  "name": "亿发购物中心",
+  "city": "北京市",
+  "address": "上海市松江区九亭镇沪亭南路183号象屿都城4期",
+  "lat": 39.894683,
+  "lng": 116.505025,
+  "overview": {
+    "score": null,
+    "score_rank": "",
+    "population_score": 87.0,
+    "area_score": 66.7,
+    "consumption_score": 70.9,
+    "industry_score": 68.1,
+    "annual_sales": "",
+    "annual_sales_unit": "",
+    "area_size_sqm": null,
+    "open_date": "",
+    "operator": "",
+    "brand": "",
+    "type": "",
+    "floors": ""
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "",
+    "annual_daily_rank": "",
+    "jun_total": null,
+    "jun_total_rank": "",
+    "jun_daily_avg": null,
+    "jun_daily_unit": "",
+    "jun_daily_rank": "",
+    "weekday_avg": null,
+    "weekday_unit": "",
+    "weekday_rank": "",
+    "holiday_avg": null,
+    "holiday_unit": "",
+    "holiday_rank": ""
+  },
+  "population": {
+    "residential": {
+      "500m": 2.1,
+      "1_5km": 17.9,
+      "3km": 45.5
+    },
+    "office": {
+      "500m": 5300.0,
+      "1_5km": 5.0,
+      "3km": 21.9
+    },
+    "permanent": {
+      "500m": 1.8,
+      "1_5km": 14.4,
+      "3km": 38.6
+    }
+  },
+  "business": {
+    "competitors": null,
+    "food": 100.0,
+    "shopping": 60.0,
+    "leisure": 4.0,
+    "education": 7.0,
+    "hotel": 4.0,
+    "services": 50.0,
+    "fitness": 3.0,
+    "auto": 4.0,
+    "total_stores": 232.0,
+    "old_store_3yr_pct": 52.0
+  },
+  "nearby_poi": {
+    "business": null,
+    "community": 177.0,
+    "office": 12.0,
+    "school": 18.0,
+    "hospital": 19.0,
+    "transport": 7.0,
+    "scenic": 44.0
+  },
+  "demographics": {
+    "male_pct": 51.9,
+    "female_pct": null,
+    "education": {
+      "小学": 9.8,
+      "初中": 18.2,
+      "高中": 11.7,
+      "大专": 9.1,
+      "本科": 46.6,
+      "硕士": 3.9,
+      "博士": 0.7
+    },
+    "has_children_pct": null,
+    "no_children_pct": null
+  },
+  "scraped_at": "2026-08-01T16:05:45.656Z",
+  "nearby_restaurants": [
+    {
+      "brand": "阿跷锅贴(沪亭南路店)(暂停营业)",
+      "address": "沪亭南路26号",
+      "distance": "436m"
+    },
+    {
+      "brand": "冷饮批发",
+      "address": "九亭镇沪亭南路26号",
+      "distance": "436m"
+    },
+    {
+      "brand": "1点点(沪亭南路店)",
+      "address": "沪亭南路22号",
+      "distance": "440m"
+    },
+    {
+      "brand": "金湖龙虾",
+      "address": "沪亭南路与九亭大街交叉口东140米",
+      "distance": "444m"
+    },
+    {
+      "brand": "85度C(上海松江九亭店)",
+      "address": "沪亭南路22号、24号",
+      "distance": "451m"
+    },
+    {
+      "brand": "中国兰州牛肉面(易富路店)",
+      "address": "庆云中医门诊部西北侧110米",
+      "distance": "477m"
+    },
+    {
+      "brand": "辣椒飞川菜馆",
+      "address": "九亭镇沪亭南路457号",
+      "distance": "488m"
+    },
+    {
+      "brand": "亮子烧烤(沪亭南路店)",
+      "address": "沪亭南路459号",
+      "distance": "489m"
+    },
+    {
+      "brand": "女王派对(九州小商品市场店)",
+      "address": "九亭镇九亭大街525弄九洲小商品市场20号",
+      "distance": "491m"
+    },
+    {
+      "brand": "高记早餐",
+      "address": "沪亭南路459号",
+      "distance": "495m"
+    }
+  ],
+  "nearby_malls": [],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 100.0,
+      "within_1yr_pct": 30.0,
+      "1_3yr_pct": 28.0,
+      "over_3yr_pct": 42.0
+    },
+    {
+      "type": "购物",
+      "count": 60.0,
+      "within_1yr_pct": 21.7,
+      "1_3yr_pct": 13.3,
+      "over_3yr_pct": 65.0
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 4.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "教育培训",
+      "count": 7.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 14.3,
+      "over_3yr_pct": 85.7
+    },
+    {
+      "type": "酒店住宿",
+      "count": 4.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "生活服务",
+      "count": 50.0,
+      "within_1yr_pct": 12.0,
+      "1_3yr_pct": 32.0,
+      "over_3yr_pct": 56.0
+    },
+    {
+      "type": "运动健身",
+      "count": 3.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 33.3
+    },
+    {
+      "type": "车辆服务",
+      "count": 4.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 25.0
+    }
+  ]
+}

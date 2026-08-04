@@ -1,0 +1,414 @@
+{
+  "name": "龙湖上海闵行天街",
+  "city": "上海市",
+  "address": "上海市闵行区颛桥镇喜茶(上海闵行天街店)龙湖上海闵行天街",
+  "lat": 31.026158,
+  "lng": 121.414887,
+  "overview": {
+    "score": 95.1,
+    "score_rank": "市内前30%",
+    "population_score": 75.9,
+    "area_score": 70.9,
+    "consumption_score": 69.9,
+    "industry_score": 95.4,
+    "annual_sales": "6.32",
+    "annual_sales_unit": "亿元",
+    "area_size_sqm": 9.2,
+    "open_date": "2019-12-20",
+    "operator": "龙湖集团控股有限公司",
+    "brand": "龙湖",
+    "type": "综合型",
+    "floors": "B1-L6"
+  },
+  "traffic": {
+    "annual_daily": 4.54,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第39",
+    "jun_total": 158.4,
+    "jun_total_rank": "市内商场第60名",
+    "jun_daily_avg": 5.3,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第60名",
+    "weekday_avg": 4.7,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第67名",
+    "holiday_avg": 7.0,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第51名"
+  },
+  "population": {
+    "residential": {
+      "500m": 1.2,
+      "1_5km": 10.8,
+      "3km": 47.7
+    },
+    "office": {
+      "500m": 1.1,
+      "1_5km": 5.4,
+      "3km": 22.9
+    },
+    "permanent": {
+      "500m": 1.7,
+      "1_5km": 10.1,
+      "3km": 43.3
+    }
+  },
+  "business": {
+    "competitors": 5.0,
+    "food": 151.0,
+    "shopping": 130.0,
+    "leisure": 12.0,
+    "education": 13.0,
+    "hotel": 9.0,
+    "services": 57.0,
+    "fitness": 14.0,
+    "auto": 29.0,
+    "total_stores": 312.0,
+    "old_store_3yr_pct": 43.0
+  },
+  "nearby_poi": {
+    "business": 1.0,
+    "community": 150.0,
+    "office": 16.0,
+    "school": 14.0,
+    "hospital": 15.0,
+    "transport": 8.0,
+    "scenic": 60.0
+  },
+  "demographics": {
+    "male_pct": 47.4,
+    "female_pct": null,
+    "education": {
+      "小学": 8.2,
+      "初中": 17.3,
+      "高中": 14.0,
+      "大专": 6.8,
+      "本科": 44.6,
+      "硕士": 6.6,
+      "博士": 2.5
+    },
+    "has_children_pct": 67.8,
+    "no_children_pct": 32.2
+  },
+  "scraped_at": "2026-07-31T12:13:57.462Z",
+  "nearby_restaurants": [
+    {
+      "brand": "茉沏",
+      "address": "剑川路1000号龙湖上海闵行天街",
+      "distance": "2m"
+    },
+    {
+      "brand": "争鲜回转寿司(闵行龙湖PLUS店)",
+      "address": "颛桥镇龙湖天街5楼(剑川路地铁站2号口步行380米)",
+      "distance": "2m"
+    },
+    {
+      "brand": "闽叔福建菜(闵行龙湖天街店)",
+      "address": "剑川路1000号龙湖上海闵行天街5楼",
+      "distance": "2m"
+    },
+    {
+      "brand": "家府潮汕菜(闵行龙湖天街店)",
+      "address": "剑川路1000弄1号A-4F-5室",
+      "distance": "2m"
+    },
+    {
+      "brand": "玉十三·雲南傣家菜(龙湖闵行天街店)",
+      "address": "剑川路1000弄1号龙湖上海闵行天街F4层",
+      "distance": "2m"
+    },
+    {
+      "brand": "蜜雪冰城(龙湖闵行天街店)",
+      "address": "剑川路1000弄4号地下1层A-B1-36室",
+      "distance": "2m"
+    },
+    {
+      "brand": "滨寿司(龙湖上海闵行天街店)",
+      "address": "剑川路1000号龙湖上海闵行天街F2层",
+      "distance": "3m"
+    },
+    {
+      "brand": "滇牛云南酸菜牛肉火锅(龙湖上海闵行天街店)",
+      "address": "剑川路1000号龙湖上海闵行天街F4层",
+      "distance": "3m"
+    },
+    {
+      "brand": "悸动烧仙草(龙湖上海闵行天街店)",
+      "address": "龙湖上海闵行天街B1层",
+      "distance": "4m"
+    },
+    {
+      "brand": "柠妹茶坊(闵行龙湖天街店)",
+      "address": "剑川路1000号龙湖上海闵行天街B1层",
+      "distance": "4m"
+    },
+    {
+      "brand": "茉沏",
+      "address": "剑川路1000号龙湖上海闵行天街",
+      "distance": "2m"
+    },
+    {
+      "brand": "争鲜回转寿司(闵行龙湖PLUS店)",
+      "address": "颛桥镇龙湖天街5楼(剑川路地铁站2号口步行380米)",
+      "distance": "2m"
+    },
+    {
+      "brand": "闽叔福建菜(闵行龙湖天街店)",
+      "address": "剑川路1000号龙湖上海闵行天街5楼",
+      "distance": "2m"
+    },
+    {
+      "brand": "家府潮汕菜(闵行龙湖天街店)",
+      "address": "剑川路1000弄1号A-4F-5室",
+      "distance": "2m"
+    },
+    {
+      "brand": "玉十三·雲南傣家菜(龙湖闵行天街店)",
+      "address": "剑川路1000弄1号龙湖上海闵行天街F4层",
+      "distance": "2m"
+    },
+    {
+      "brand": "蜜雪冰城(龙湖闵行天街店)",
+      "address": "剑川路1000弄4号地下1层A-B1-36室",
+      "distance": "2m"
+    },
+    {
+      "brand": "滨寿司(龙湖上海闵行天街店)",
+      "address": "剑川路1000号龙湖上海闵行天街F2层",
+      "distance": "3m"
+    },
+    {
+      "brand": "滇牛云南酸菜牛肉火锅(龙湖上海闵行天街店)",
+      "address": "剑川路1000号龙湖上海闵行天街F4层",
+      "distance": "3m"
+    },
+    {
+      "brand": "悸动烧仙草(龙湖上海闵行天街店)",
+      "address": "龙湖上海闵行天街B1层",
+      "distance": "4m"
+    },
+    {
+      "brand": "柠妹茶坊(闵行龙湖天街店)",
+      "address": "剑川路1000号龙湖上海闵行天街B1层",
+      "distance": "4m"
+    },
+    {
+      "brand": "茉沏",
+      "address": "剑川路1000号龙湖上海闵行天街",
+      "distance": "2m"
+    },
+    {
+      "brand": "争鲜回转寿司(闵行龙湖PLUS店)",
+      "address": "颛桥镇龙湖天街5楼(剑川路地铁站2号口步行380米)",
+      "distance": "2m"
+    },
+    {
+      "brand": "闽叔福建菜(闵行龙湖天街店)",
+      "address": "剑川路1000号龙湖上海闵行天街5楼",
+      "distance": "2m"
+    },
+    {
+      "brand": "家府潮汕菜(闵行龙湖天街店)",
+      "address": "剑川路1000弄1号A-4F-5室",
+      "distance": "2m"
+    },
+    {
+      "brand": "玉十三·雲南傣家菜(龙湖闵行天街店)",
+      "address": "剑川路1000弄1号龙湖上海闵行天街F4层",
+      "distance": "2m"
+    },
+    {
+      "brand": "蜜雪冰城(龙湖闵行天街店)",
+      "address": "剑川路1000弄4号地下1层A-B1-36室",
+      "distance": "2m"
+    },
+    {
+      "brand": "滨寿司(龙湖上海闵行天街店)",
+      "address": "剑川路1000号龙湖上海闵行天街F2层",
+      "distance": "3m"
+    },
+    {
+      "brand": "滇牛云南酸菜牛肉火锅(龙湖上海闵行天街店)",
+      "address": "剑川路1000号龙湖上海闵行天街F4层",
+      "distance": "3m"
+    },
+    {
+      "brand": "悸动烧仙草(龙湖上海闵行天街店)",
+      "address": "龙湖上海闵行天街B1层",
+      "distance": "4m"
+    },
+    {
+      "brand": "柠妹茶坊(闵行龙湖天街店)",
+      "address": "剑川路1000号龙湖上海闵行天街B1层",
+      "distance": "4m"
+    },
+    {
+      "brand": "茉沏",
+      "address": "剑川路1000号龙湖上海闵行天街",
+      "distance": "2m"
+    },
+    {
+      "brand": "争鲜回转寿司(闵行龙湖PLUS店)",
+      "address": "颛桥镇龙湖天街5楼(剑川路地铁站2号口步行380米)",
+      "distance": "2m"
+    },
+    {
+      "brand": "闽叔福建菜(闵行龙湖天街店)",
+      "address": "剑川路1000号龙湖上海闵行天街5楼",
+      "distance": "2m"
+    },
+    {
+      "brand": "家府潮汕菜(闵行龙湖天街店)",
+      "address": "剑川路1000弄1号A-4F-5室",
+      "distance": "2m"
+    },
+    {
+      "brand": "玉十三·雲南傣家菜(龙湖闵行天街店)",
+      "address": "剑川路1000弄1号龙湖上海闵行天街F4层",
+      "distance": "2m"
+    },
+    {
+      "brand": "蜜雪冰城(龙湖闵行天街店)",
+      "address": "剑川路1000弄4号地下1层A-B1-36室",
+      "distance": "2m"
+    },
+    {
+      "brand": "滨寿司(龙湖上海闵行天街店)",
+      "address": "剑川路1000号龙湖上海闵行天街F2层",
+      "distance": "3m"
+    },
+    {
+      "brand": "滇牛云南酸菜牛肉火锅(龙湖上海闵行天街店)",
+      "address": "剑川路1000号龙湖上海闵行天街F4层",
+      "distance": "3m"
+    },
+    {
+      "brand": "悸动烧仙草(龙湖上海闵行天街店)",
+      "address": "龙湖上海闵行天街B1层",
+      "distance": "4m"
+    },
+    {
+      "brand": "柠妹茶坊(闵行龙湖天街店)",
+      "address": "剑川路1000号龙湖上海闵行天街B1层",
+      "distance": "4m"
+    },
+    {
+      "brand": "茉沏",
+      "address": "剑川路1000号龙湖上海闵行天街",
+      "distance": "2m"
+    },
+    {
+      "brand": "争鲜回转寿司(闵行龙湖PLUS店)",
+      "address": "颛桥镇龙湖天街5楼(剑川路地铁站2号口步行380米)",
+      "distance": "2m"
+    },
+    {
+      "brand": "闽叔福建菜(闵行龙湖天街店)",
+      "address": "剑川路1000号龙湖上海闵行天街5楼",
+      "distance": "2m"
+    },
+    {
+      "brand": "家府潮汕菜(闵行龙湖天街店)",
+      "address": "剑川路1000弄1号A-4F-5室",
+      "distance": "2m"
+    },
+    {
+      "brand": "玉十三·雲南傣家菜(龙湖闵行天街店)",
+      "address": "剑川路1000弄1号龙湖上海闵行天街F4层",
+      "distance": "2m"
+    },
+    {
+      "brand": "蜜雪冰城(龙湖闵行天街店)",
+      "address": "剑川路1000弄4号地下1层A-B1-36室",
+      "distance": "2m"
+    },
+    {
+      "brand": "滨寿司(龙湖上海闵行天街店)",
+      "address": "剑川路1000号龙湖上海闵行天街F2层",
+      "distance": "3m"
+    },
+    {
+      "brand": "滇牛云南酸菜牛肉火锅(龙湖上海闵行天街店)",
+      "address": "剑川路1000号龙湖上海闵行天街F4层",
+      "distance": "3m"
+    },
+    {
+      "brand": "悸动烧仙草(龙湖上海闵行天街店)",
+      "address": "龙湖上海闵行天街B1层",
+      "distance": "4m"
+    },
+    {
+      "brand": "柠妹茶坊(闵行龙湖天街店)",
+      "address": "剑川路1000号龙湖上海闵行天街B1层",
+      "distance": "4m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "置业广场",
+      "open_date": "2004-11-30",
+      "area": "6万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 121.0,
+      "within_1yr_pct": 25.6,
+      "1_3yr_pct": 33.1,
+      "over_3yr_pct": 41.3
+    },
+    {
+      "type": "购物",
+      "count": 110.0,
+      "within_1yr_pct": 13.6,
+      "1_3yr_pct": 40.0,
+      "over_3yr_pct": 46.4
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 10.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 40.0,
+      "over_3yr_pct": 40.0
+    },
+    {
+      "type": "教育培训",
+      "count": 7.0,
+      "within_1yr_pct": 42.9,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 57.1
+    },
+    {
+      "type": "酒店住宿",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    },
+    {
+      "type": "生活服务",
+      "count": 38.0,
+      "within_1yr_pct": 21.1,
+      "1_3yr_pct": 34.2,
+      "over_3yr_pct": 44.7
+    },
+    {
+      "type": "运动健身",
+      "count": 7.0,
+      "within_1yr_pct": 28.6,
+      "1_3yr_pct": 42.9,
+      "over_3yr_pct": 28.6
+    },
+    {
+      "type": "车辆服务",
+      "count": 18.0,
+      "within_1yr_pct": 27.8,
+      "1_3yr_pct": 44.4,
+      "over_3yr_pct": 27.8
+    }
+  ]
+}

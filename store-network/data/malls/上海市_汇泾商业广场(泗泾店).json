@@ -1,0 +1,154 @@
+{
+  "name": "汇泾商业广场(泗泾店)",
+  "city": "上海市",
+  "address": "上海市虹口区曲阳路街道虹口区图书馆曲阳分馆上海市虹口区图书馆(曲阳分馆)",
+  "lat": 31.296647,
+  "lng": 121.476054,
+  "overview": {
+    "score": 77.1,
+    "score_rank": "市内前50%",
+    "population_score": 100.0,
+    "area_score": 69.6,
+    "consumption_score": 75.9,
+    "industry_score": 77.1,
+    "annual_sales": "",
+    "annual_sales_unit": "",
+    "area_size_sqm": null,
+    "open_date": "",
+    "operator": "",
+    "brand": "",
+    "type": "",
+    "floors": ""
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "",
+    "annual_daily_rank": "",
+    "jun_total": null,
+    "jun_total_rank": "",
+    "jun_daily_avg": null,
+    "jun_daily_unit": "",
+    "jun_daily_rank": "",
+    "weekday_avg": null,
+    "weekday_unit": "",
+    "weekday_rank": "",
+    "holiday_avg": null,
+    "holiday_unit": "",
+    "holiday_rank": ""
+  },
+  "population": {
+    "residential": {
+      "500m": 4.7,
+      "1_5km": 32.5,
+      "3km": 122.7
+    },
+    "office": {
+      "500m": 1.8,
+      "1_5km": 17.1,
+      "3km": 63.7
+    },
+    "permanent": {
+      "500m": 4.7,
+      "1_5km": 32.5,
+      "3km": 124.6
+    }
+  },
+  "business": {
+    "competitors": null,
+    "food": 107.0,
+    "shopping": 32.0,
+    "leisure": 8.0,
+    "education": 15.0,
+    "hotel": 11.0,
+    "services": 80.0,
+    "fitness": 9.0,
+    "auto": 4.0,
+    "total_stores": 267.0,
+    "old_store_3yr_pct": 57.0
+  },
+  "nearby_poi": {
+    "business": 2.0,
+    "community": 921.0,
+    "office": 98.0,
+    "school": 75.0,
+    "hospital": 100.0,
+    "transport": 10.0,
+    "scenic": 245.0
+  },
+  "demographics": {
+    "male_pct": 46.7,
+    "female_pct": null,
+    "education": {
+      "小学": 9.2,
+      "初中": 18.4,
+      "高中": 12.4,
+      "大专": 7.0,
+      "本科": 46.6,
+      "硕士": 4.7,
+      "博士": 1.7
+    },
+    "has_children_pct": null,
+    "no_children_pct": null
+  },
+  "scraped_at": "2026-08-01T10:40:37.845Z",
+  "nearby_restaurants": [],
+  "nearby_malls": [],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 107.0,
+      "within_1yr_pct": 37.4,
+      "1_3yr_pct": 20.6,
+      "over_3yr_pct": 42.1
+    },
+    {
+      "type": "购物",
+      "count": 32.0,
+      "within_1yr_pct": 18.8,
+      "1_3yr_pct": 12.5,
+      "over_3yr_pct": 68.8
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 9.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 11.1,
+      "over_3yr_pct": 88.9
+    },
+    {
+      "type": "教育培训",
+      "count": 15.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 6.7,
+      "over_3yr_pct": 60.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 11.0,
+      "within_1yr_pct": 18.2,
+      "1_3yr_pct": 9.1,
+      "over_3yr_pct": 72.7
+    },
+    {
+      "type": "生活服务",
+      "count": 80.0,
+      "within_1yr_pct": 12.5,
+      "1_3yr_pct": 22.5,
+      "over_3yr_pct": 65.0
+    },
+    {
+      "type": "运动健身",
+      "count": 9.0,
+      "within_1yr_pct": 22.2,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 77.8
+    },
+    {
+      "type": "车辆服务",
+      "count": 4.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 75.0,
+      "over_3yr_pct": 25.0
+    }
+  ]
+}

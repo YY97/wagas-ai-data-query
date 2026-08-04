@@ -1,0 +1,438 @@
+{
+  "name": "天虹商场(北京宣武店)",
+  "city": "北京市",
+  "address": "浙江省杭州市拱墅区莫干山路969号(和睦地铁站E1口步行130米)",
+  "lat": null,
+  "lng": null,
+  "overview": {
+    "score": 86.7,
+    "score_rank": "市内前30%",
+    "population_score": 92.6,
+    "area_score": 76.6,
+    "consumption_score": 95.8,
+    "industry_score": 86.8,
+    "annual_sales": "杭州七乐汇生活广场是好安居蓝钻天城的商业配套，位处莫干山路与萍水街交叉口，属于被喻为杭州未来“徐家汇”的申花板块。申花板块主要由三墩路、莫干山路、登云路、余杭塘河和古墩路围合而成，举步城西银泰城，板块日渐成熟的商业、交通、学区等配套为众多客户所青睐。在城市化进程如火如荼的时代背景下，申花商圈无疑是继武林商圈、钱江新城商圈之后最热的商业核心。项目于2017年1月开业，目前已入驻大量的知名品牌，包含餐饮、休闲、购物、娱乐等多重业态。其中包括星巴克、汉堡王、花季餐厅等，地下负一层已入驻世纪联华超市。除此之外，七乐汇广场还成功引入了主题电竞游乐——全游电竞馆，四层则以影食在线为主，大地影院神画国际影城与美食同步七彩生活。",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 7.0,
+    "open_date": "2017-01-01",
+    "operator": "浙江好安好居置业有限公司",
+    "brand": "",
+    "type": "美食型",
+    "floors": "B1-L4"
+  },
+  "traffic": {
+    "annual_daily": 1.53,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第96",
+    "jun_total": 27.2,
+    "jun_total_rank": "市内商场第149名",
+    "jun_daily_avg": 9074.0,
+    "jun_daily_unit": "人次",
+    "jun_daily_rank": "市内商场第149名",
+    "weekday_avg": 8847.0,
+    "weekday_unit": "人次",
+    "weekday_rank": "市内商场第147名",
+    "holiday_avg": 9695.0,
+    "holiday_unit": "人次",
+    "holiday_rank": "市内商场第148名"
+  },
+  "population": {
+    "residential": {
+      "500m": 1.8,
+      "1_5km": 13.8,
+      "3km": 53.6
+    },
+    "office": {
+      "500m": 8000.0,
+      "1_5km": 6.3,
+      "3km": 29.7
+    },
+    "permanent": {
+      "500m": 1.7,
+      "1_5km": 12.5,
+      "3km": 51.7
+    }
+  },
+  "business": {
+    "competitors": 1.0,
+    "food": 121.0,
+    "shopping": 99.0,
+    "leisure": 22.0,
+    "education": 26.0,
+    "hotel": 20.0,
+    "services": 149.0,
+    "fitness": 13.0,
+    "auto": 12.0,
+    "total_stores": 102.0,
+    "old_store_3yr_pct": 34.0
+  },
+  "nearby_poi": {
+    "business": 4.0,
+    "community": 387.0,
+    "office": 34.0,
+    "school": 33.0,
+    "hospital": 101.0,
+    "transport": 8.0,
+    "scenic": 223.0
+  },
+  "demographics": {
+    "male_pct": 47.2,
+    "female_pct": null,
+    "education": {
+      "小学": 8.3,
+      "初中": 14.8,
+      "高中": 11.3,
+      "大专": 9.4,
+      "本科": 48.9,
+      "硕士": 6.1,
+      "博士": 1.2
+    },
+    "has_children_pct": 59.9,
+    "no_children_pct": 40.1
+  },
+  "scraped_at": "2026-08-02T05:37:54.463Z",
+  "nearby_restaurants": [
+    {
+      "brand": "杭州市上城区胡良俊餐饮店",
+      "address": "杭海路238号森禾广场",
+      "distance": "13m"
+    },
+    {
+      "brand": "胤隆汇休闲主题酒店-自助餐(森禾广场店)",
+      "address": "杭海路238号森禾广场F3层",
+      "distance": "18m"
+    },
+    {
+      "brand": "姚记渔粉",
+      "address": "杭海路238号森禾广场F2层",
+      "distance": "26m"
+    },
+    {
+      "brand": "钳多多小龙虾牛蛙大闸蟹",
+      "address": "江锦路与采东路交叉口东南120米",
+      "distance": "38m"
+    },
+    {
+      "brand": "柳霸王螺蛳粉(钱江新城店)",
+      "address": "杭海路238号森禾广场F2层",
+      "distance": "39m"
+    },
+    {
+      "brand": "元池餐厅",
+      "address": "杭海路238号森禾广场B座4楼410室",
+      "distance": "40m"
+    },
+    {
+      "brand": "星选闪电厨房(森禾广场店)",
+      "address": "杭海路238号森禾广场F2层",
+      "distance": "41m"
+    },
+    {
+      "brand": "浣熊食堂(森禾广场店)",
+      "address": "杭海路238号森禾广场F2层",
+      "distance": "41m"
+    },
+    {
+      "brand": "黔山婆·骨汤米线",
+      "address": "杭海路238号森禾商务广场B楼",
+      "distance": "41m"
+    },
+    {
+      "brand": "杨掌勺·沂蒙山炒鸡(钱江新城店)",
+      "address": "杭海路238号森禾商务广场B楼F2层",
+      "distance": "41m"
+    },
+    {
+      "brand": "杭州市上城区胡良俊餐饮店",
+      "address": "杭海路238号森禾广场",
+      "distance": "13m"
+    },
+    {
+      "brand": "胤隆汇休闲主题酒店-自助餐(森禾广场店)",
+      "address": "杭海路238号森禾广场F3层",
+      "distance": "18m"
+    },
+    {
+      "brand": "姚记渔粉",
+      "address": "杭海路238号森禾广场F2层",
+      "distance": "26m"
+    },
+    {
+      "brand": "钳多多小龙虾牛蛙大闸蟹",
+      "address": "江锦路与采东路交叉口东南120米",
+      "distance": "38m"
+    },
+    {
+      "brand": "柳霸王螺蛳粉(钱江新城店)",
+      "address": "杭海路238号森禾广场F2层",
+      "distance": "39m"
+    },
+    {
+      "brand": "元池餐厅",
+      "address": "杭海路238号森禾广场B座4楼410室",
+      "distance": "40m"
+    },
+    {
+      "brand": "星选闪电厨房(森禾广场店)",
+      "address": "杭海路238号森禾广场F2层",
+      "distance": "41m"
+    },
+    {
+      "brand": "浣熊食堂(森禾广场店)",
+      "address": "杭海路238号森禾广场F2层",
+      "distance": "41m"
+    },
+    {
+      "brand": "黔山婆·骨汤米线",
+      "address": "杭海路238号森禾商务广场B楼",
+      "distance": "41m"
+    },
+    {
+      "brand": "杨掌勺·沂蒙山炒鸡(钱江新城店)",
+      "address": "杭海路238号森禾商务广场B楼F2层",
+      "distance": "41m"
+    },
+    {
+      "brand": "杭州市上城区胡良俊餐饮店",
+      "address": "杭海路238号森禾广场",
+      "distance": "13m"
+    },
+    {
+      "brand": "胤隆汇休闲主题酒店-自助餐(森禾广场店)",
+      "address": "杭海路238号森禾广场F3层",
+      "distance": "18m"
+    },
+    {
+      "brand": "姚记渔粉",
+      "address": "杭海路238号森禾广场F2层",
+      "distance": "26m"
+    },
+    {
+      "brand": "钳多多小龙虾牛蛙大闸蟹",
+      "address": "江锦路与采东路交叉口东南120米",
+      "distance": "38m"
+    },
+    {
+      "brand": "柳霸王螺蛳粉(钱江新城店)",
+      "address": "杭海路238号森禾广场F2层",
+      "distance": "39m"
+    },
+    {
+      "brand": "元池餐厅",
+      "address": "杭海路238号森禾广场B座4楼410室",
+      "distance": "40m"
+    },
+    {
+      "brand": "星选闪电厨房(森禾广场店)",
+      "address": "杭海路238号森禾广场F2层",
+      "distance": "41m"
+    },
+    {
+      "brand": "浣熊食堂(森禾广场店)",
+      "address": "杭海路238号森禾广场F2层",
+      "distance": "41m"
+    },
+    {
+      "brand": "黔山婆·骨汤米线",
+      "address": "杭海路238号森禾商务广场B楼",
+      "distance": "41m"
+    },
+    {
+      "brand": "杨掌勺·沂蒙山炒鸡(钱江新城店)",
+      "address": "杭海路238号森禾商务广场B楼F2层",
+      "distance": "41m"
+    },
+    {
+      "brand": "杭州市上城区胡良俊餐饮店",
+      "address": "杭海路238号森禾广场",
+      "distance": "13m"
+    },
+    {
+      "brand": "胤隆汇休闲主题酒店-自助餐(森禾广场店)",
+      "address": "杭海路238号森禾广场F3层",
+      "distance": "18m"
+    },
+    {
+      "brand": "姚记渔粉",
+      "address": "杭海路238号森禾广场F2层",
+      "distance": "26m"
+    },
+    {
+      "brand": "钳多多小龙虾牛蛙大闸蟹",
+      "address": "江锦路与采东路交叉口东南120米",
+      "distance": "38m"
+    },
+    {
+      "brand": "柳霸王螺蛳粉(钱江新城店)",
+      "address": "杭海路238号森禾广场F2层",
+      "distance": "39m"
+    },
+    {
+      "brand": "元池餐厅",
+      "address": "杭海路238号森禾广场B座4楼410室",
+      "distance": "40m"
+    },
+    {
+      "brand": "星选闪电厨房(森禾广场店)",
+      "address": "杭海路238号森禾广场F2层",
+      "distance": "41m"
+    },
+    {
+      "brand": "浣熊食堂(森禾广场店)",
+      "address": "杭海路238号森禾广场F2层",
+      "distance": "41m"
+    },
+    {
+      "brand": "黔山婆·骨汤米线",
+      "address": "杭海路238号森禾商务广场B楼",
+      "distance": "41m"
+    },
+    {
+      "brand": "杨掌勺·沂蒙山炒鸡(钱江新城店)",
+      "address": "杭海路238号森禾商务广场B楼F2层",
+      "distance": "41m"
+    },
+    {
+      "brand": "杭州市上城区胡良俊餐饮店",
+      "address": "杭海路238号森禾广场",
+      "distance": "13m"
+    },
+    {
+      "brand": "胤隆汇休闲主题酒店-自助餐(森禾广场店)",
+      "address": "杭海路238号森禾广场F3层",
+      "distance": "18m"
+    },
+    {
+      "brand": "姚记渔粉",
+      "address": "杭海路238号森禾广场F2层",
+      "distance": "26m"
+    },
+    {
+      "brand": "钳多多小龙虾牛蛙大闸蟹",
+      "address": "江锦路与采东路交叉口东南120米",
+      "distance": "38m"
+    },
+    {
+      "brand": "柳霸王螺蛳粉(钱江新城店)",
+      "address": "杭海路238号森禾广场F2层",
+      "distance": "39m"
+    },
+    {
+      "brand": "元池餐厅",
+      "address": "杭海路238号森禾广场B座4楼410室",
+      "distance": "40m"
+    },
+    {
+      "brand": "星选闪电厨房(森禾广场店)",
+      "address": "杭海路238号森禾广场F2层",
+      "distance": "41m"
+    },
+    {
+      "brand": "浣熊食堂(森禾广场店)",
+      "address": "杭海路238号森禾广场F2层",
+      "distance": "41m"
+    },
+    {
+      "brand": "黔山婆·骨汤米线",
+      "address": "杭海路238号森禾商务广场B楼",
+      "distance": "41m"
+    },
+    {
+      "brand": "杨掌勺·沂蒙山炒鸡(钱江新城店)",
+      "address": "杭海路238号森禾商务广场B楼F2层",
+      "distance": "41m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "杭州H108购物广场",
+      "open_date": "-",
+      "area": "-",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "杭州大悦城",
+      "open_date": "2018-08-28",
+      "area": "15万㎡",
+      "jun_daily_avg": "9.5万人次",
+      "weekday_avg": "8.1万人次",
+      "holiday_avg": "13.3万人次"
+    },
+    {
+      "name": "杭州复地活力广场",
+      "open_date": "2018-12-01",
+      "area": "2.6万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "杭州城西银泰城",
+      "open_date": "2013-09-08",
+      "area": "19万㎡",
+      "jun_daily_avg": "6.2万人次",
+      "weekday_avg": "5.6万人次",
+      "holiday_avg": "7.9万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 31.0,
+      "within_1yr_pct": 22.6,
+      "1_3yr_pct": 22.6,
+      "over_3yr_pct": 54.8
+    },
+    {
+      "type": "购物",
+      "count": 11.0,
+      "within_1yr_pct": 18.2,
+      "1_3yr_pct": 36.4,
+      "over_3yr_pct": 45.5
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 13.0,
+      "within_1yr_pct": 69.2,
+      "1_3yr_pct": 23.1,
+      "over_3yr_pct": 7.7
+    },
+    {
+      "type": "教育培训",
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 9.0,
+      "within_1yr_pct": 77.8,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 22.2
+    },
+    {
+      "type": "生活服务",
+      "count": 27.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 48.1,
+      "over_3yr_pct": 18.5
+    },
+    {
+      "type": "运动健身",
+      "count": 3.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 33.3
+    },
+    {
+      "type": "车辆服务",
+      "count": 6.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 33.3
+    }
+  ]
+}

@@ -1,0 +1,219 @@
+{
+  "name": "保利时光里",
+  "city": "成都市",
+  "address": "四川省成都市武侯区吉瑞四路307号",
+  "lat": 30.554101,
+  "lng": 104.063644,
+  "overview": {
+    "score": 90.2,
+    "score_rank": "市内前30%",
+    "population_score": 86.3,
+    "area_score": 81.7,
+    "consumption_score": 88.3,
+    "industry_score": 90.3,
+    "annual_sales": "",
+    "annual_sales_unit": "",
+    "area_size_sqm": null,
+    "open_date": "",
+    "operator": "",
+    "brand": "",
+    "type": "",
+    "floors": ""
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "",
+    "annual_daily_rank": "",
+    "jun_total": 46.2,
+    "jun_total_rank": "市内商场第133名",
+    "jun_daily_avg": 1.5,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第133名",
+    "weekday_avg": 1.6,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第128名",
+    "holiday_avg": 1.5,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第150名"
+  },
+  "population": {
+    "residential": {
+      "500m": null,
+      "1_5km": null,
+      "3km": null
+    },
+    "office": {
+      "500m": null,
+      "1_5km": null,
+      "3km": null
+    },
+    "permanent": {
+      "500m": null,
+      "1_5km": null,
+      "3km": null
+    }
+  },
+  "business": {
+    "competitors": 6.0,
+    "food": 383.0,
+    "shopping": 214.0,
+    "leisure": 33.0,
+    "education": 22.0,
+    "hotel": 78.0,
+    "services": 184.0,
+    "fitness": 35.0,
+    "auto": 29.0,
+    "total_stores": 174.0,
+    "old_store_3yr_pct": 5.0
+  },
+  "nearby_poi": {
+    "business": null,
+    "community": null,
+    "office": null,
+    "school": null,
+    "hospital": null,
+    "transport": null,
+    "scenic": null
+  },
+  "demographics": {
+    "male_pct": 48.5,
+    "female_pct": null,
+    "education": {
+      "小学": 7.8,
+      "初中": 14.5,
+      "高中": 11.5,
+      "大专": 10.5,
+      "本科": 48.3,
+      "硕士": 6.3,
+      "博士": 1.1
+    },
+    "has_children_pct": 58.1,
+    "no_children_pct": 41.9
+  },
+  "scraped_at": "2026-08-02T04:54:15.089Z",
+  "nearby_restaurants": [
+    {
+      "brand": "青隐篱茶空间(绿地之窗店)",
+      "address": "吉庆一路178号绿地之窗F3层",
+      "distance": "499m"
+    },
+    {
+      "brand": "耘金挞挞面(两江国际店)",
+      "address": "吉庆一路728号两江国际F1层",
+      "distance": "499m"
+    },
+    {
+      "brand": "成都高新区三顾冒炉冒菜餐饮店",
+      "address": "益州大道中段555号附5号",
+      "distance": "499m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "成都乐家保利广场",
+      "open_date": "2021-09-01",
+      "area": "8.8万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "成都东方希望天祥广场",
+      "open_date": "2020-01-01",
+      "area": "5万㎡",
+      "jun_daily_avg": "4万人次",
+      "weekday_avg": "4.7万人次",
+      "holiday_avg": "2.1万人次"
+    },
+    {
+      "name": "汇锦广场",
+      "open_date": "2013-01-01",
+      "area": "4.1万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "成都复城国际广场",
+      "open_date": "2014-09-01",
+      "area": "10万㎡",
+      "jun_daily_avg": "1.3万人次",
+      "weekday_avg": "1.4万人次",
+      "holiday_avg": "1万人次"
+    },
+    {
+      "name": "成都环球MALL",
+      "open_date": "2013-09-03",
+      "area": "40万㎡",
+      "jun_daily_avg": "10.7万人次",
+      "weekday_avg": "10.7万人次",
+      "holiday_avg": "10.5万人次"
+    },
+    {
+      "name": "成都SKP",
+      "open_date": "2022-12-20",
+      "area": "15.1万㎡",
+      "jun_daily_avg": "3.4万人次",
+      "weekday_avg": "3万人次",
+      "holiday_avg": "4.2万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 67.0,
+      "within_1yr_pct": 34.3,
+      "1_3yr_pct": 65.7,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "购物",
+      "count": 54.0,
+      "within_1yr_pct": 14.8,
+      "1_3yr_pct": 85.2,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 14.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 42.9,
+      "over_3yr_pct": 7.1
+    },
+    {
+      "type": "教育培训",
+      "count": 2.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 13.0,
+      "within_1yr_pct": 7.7,
+      "1_3yr_pct": 38.5,
+      "over_3yr_pct": 53.8
+    },
+    {
+      "type": "生活服务",
+      "count": 14.0,
+      "within_1yr_pct": 28.6,
+      "1_3yr_pct": 64.3,
+      "over_3yr_pct": 7.1
+    },
+    {
+      "type": "运动健身",
+      "count": 7.0,
+      "within_1yr_pct": 57.1,
+      "1_3yr_pct": 42.9,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 3.0,
+      "within_1yr_pct": 66.7,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 0.0
+    }
+  ]
+}

@@ -1,0 +1,486 @@
+{
+  "name": "上海阳光商厦",
+  "city": "上海市",
+  "address": "上海市黄浦区南京东路街道上海旅游品商厦阳光商厦",
+  "lat": 31.235878,
+  "lng": 121.479768,
+  "overview": {
+    "score": 84.4,
+    "score_rank": "市内前30%",
+    "population_score": 97.4,
+    "area_score": 100.0,
+    "consumption_score": 86.3,
+    "industry_score": 84.2,
+    "annual_sales": "",
+    "annual_sales_unit": "",
+    "area_size_sqm": null,
+    "open_date": "",
+    "operator": "",
+    "brand": "",
+    "type": "",
+    "floors": ""
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "",
+    "annual_daily_rank": "",
+    "jun_total": null,
+    "jun_total_rank": "",
+    "jun_daily_avg": null,
+    "jun_daily_unit": "",
+    "jun_daily_rank": "",
+    "weekday_avg": null,
+    "weekday_unit": "",
+    "weekday_rank": "",
+    "holiday_avg": null,
+    "holiday_unit": "",
+    "holiday_rank": ""
+  },
+  "population": {
+    "residential": {
+      "500m": 3.3,
+      "1_5km": 17.9,
+      "3km": 78.5
+    },
+    "office": {
+      "500m": 6.1,
+      "1_5km": 33.4,
+      "3km": 109.4
+    },
+    "permanent": {
+      "500m": 5.0,
+      "1_5km": 25.2,
+      "3km": 101.2
+    }
+  },
+  "business": {
+    "competitors": 26.0,
+    "food": 923.0,
+    "shopping": 957.0,
+    "leisure": 199.0,
+    "education": 62.0,
+    "hotel": 229.0,
+    "services": 393.0,
+    "fitness": 35.0,
+    "auto": 47.0,
+    "total_stores": 2870.0,
+    "old_store_3yr_pct": 47.0
+  },
+  "nearby_poi": {
+    "business": 37.0,
+    "community": 865.0,
+    "office": 251.0,
+    "school": 46.0,
+    "hospital": 194.0,
+    "transport": 22.0,
+    "scenic": 953.0
+  },
+  "demographics": {
+    "male_pct": 47.1,
+    "female_pct": null,
+    "education": {
+      "小学": 9.2,
+      "初中": 16.8,
+      "高中": 11.4,
+      "大专": 7.0,
+      "本科": 47.9,
+      "硕士": 6.0,
+      "博士": 1.7
+    },
+    "has_children_pct": null,
+    "no_children_pct": null
+  },
+  "scraped_at": "2026-07-31T17:45:01.146Z",
+  "nearby_restaurants": [
+    {
+      "brand": "哈根达斯(阳光商厦店)",
+      "address": "南京路步行街580号1-3层",
+      "distance": "23m"
+    },
+    {
+      "brand": "雁城味道(丝绸商厦店)",
+      "address": "南京东路588号丝绸商厦6层",
+      "distance": "26m"
+    },
+    {
+      "brand": "NNCAFE诺诺咖啡(南京东路店)",
+      "address": "南京东路558号阳光商厦F2层",
+      "distance": "28m"
+    },
+    {
+      "brand": "嗨.李记海鲜(南京路店)",
+      "address": "南京东路588号丝绸商厦F2层",
+      "distance": "30m"
+    },
+    {
+      "brand": "蟹小友·蟹黄面·手工点心(南京东路店)",
+      "address": "南京东路588号丝绸商厦负一楼",
+      "distance": "30m"
+    },
+    {
+      "brand": "中丝大食堂(浙江中路店)",
+      "address": "香粉弄68号(南京东路地铁站1号口步行490米)",
+      "distance": "33m"
+    },
+    {
+      "brand": "炙城烤肉(南京东路店)",
+      "address": "南京东路598号亚太广场6楼",
+      "distance": "34m"
+    },
+    {
+      "brand": "龙记渝火锅(丝绸商厦店)",
+      "address": "南京东路588号丝绸商厦七楼",
+      "distance": "35m"
+    },
+    {
+      "brand": "瑞幸咖啡(南京东路第一医药店)",
+      "address": "南京路步行街第一药店底商",
+      "distance": "65m"
+    },
+    {
+      "brand": "沪香记莉莉老上海汤包",
+      "address": "上海市上海城区上海市上海城区上海市黄浦区福建中路355号",
+      "distance": "78m"
+    },
+    {
+      "brand": "哈根达斯(阳光商厦店)",
+      "address": "南京路步行街580号1-3层",
+      "distance": "23m"
+    },
+    {
+      "brand": "雁城味道(丝绸商厦店)",
+      "address": "南京东路588号丝绸商厦6层",
+      "distance": "26m"
+    },
+    {
+      "brand": "NNCAFE诺诺咖啡(南京东路店)",
+      "address": "南京东路558号阳光商厦F2层",
+      "distance": "28m"
+    },
+    {
+      "brand": "嗨.李记海鲜(南京路店)",
+      "address": "南京东路588号丝绸商厦F2层",
+      "distance": "30m"
+    },
+    {
+      "brand": "蟹小友·蟹黄面·手工点心(南京东路店)",
+      "address": "南京东路588号丝绸商厦负一楼",
+      "distance": "30m"
+    },
+    {
+      "brand": "中丝大食堂(浙江中路店)",
+      "address": "香粉弄68号(南京东路地铁站1号口步行490米)",
+      "distance": "33m"
+    },
+    {
+      "brand": "炙城烤肉(南京东路店)",
+      "address": "南京东路598号亚太广场6楼",
+      "distance": "34m"
+    },
+    {
+      "brand": "龙记渝火锅(丝绸商厦店)",
+      "address": "南京东路588号丝绸商厦七楼",
+      "distance": "35m"
+    },
+    {
+      "brand": "瑞幸咖啡(南京东路第一医药店)",
+      "address": "南京路步行街第一药店底商",
+      "distance": "65m"
+    },
+    {
+      "brand": "沪香记莉莉老上海汤包",
+      "address": "上海市上海城区上海市上海城区上海市黄浦区福建中路355号",
+      "distance": "78m"
+    },
+    {
+      "brand": "哈根达斯(阳光商厦店)",
+      "address": "南京路步行街580号1-3层",
+      "distance": "23m"
+    },
+    {
+      "brand": "雁城味道(丝绸商厦店)",
+      "address": "南京东路588号丝绸商厦6层",
+      "distance": "26m"
+    },
+    {
+      "brand": "NNCAFE诺诺咖啡(南京东路店)",
+      "address": "南京东路558号阳光商厦F2层",
+      "distance": "28m"
+    },
+    {
+      "brand": "嗨.李记海鲜(南京路店)",
+      "address": "南京东路588号丝绸商厦F2层",
+      "distance": "30m"
+    },
+    {
+      "brand": "蟹小友·蟹黄面·手工点心(南京东路店)",
+      "address": "南京东路588号丝绸商厦负一楼",
+      "distance": "30m"
+    },
+    {
+      "brand": "中丝大食堂(浙江中路店)",
+      "address": "香粉弄68号(南京东路地铁站1号口步行490米)",
+      "distance": "33m"
+    },
+    {
+      "brand": "炙城烤肉(南京东路店)",
+      "address": "南京东路598号亚太广场6楼",
+      "distance": "34m"
+    },
+    {
+      "brand": "龙记渝火锅(丝绸商厦店)",
+      "address": "南京东路588号丝绸商厦七楼",
+      "distance": "35m"
+    },
+    {
+      "brand": "瑞幸咖啡(南京东路第一医药店)",
+      "address": "南京路步行街第一药店底商",
+      "distance": "65m"
+    },
+    {
+      "brand": "沪香记莉莉老上海汤包",
+      "address": "上海市上海城区上海市上海城区上海市黄浦区福建中路355号",
+      "distance": "78m"
+    },
+    {
+      "brand": "哈根达斯(阳光商厦店)",
+      "address": "南京路步行街580号1-3层",
+      "distance": "23m"
+    },
+    {
+      "brand": "雁城味道(丝绸商厦店)",
+      "address": "南京东路588号丝绸商厦6层",
+      "distance": "26m"
+    },
+    {
+      "brand": "NNCAFE诺诺咖啡(南京东路店)",
+      "address": "南京东路558号阳光商厦F2层",
+      "distance": "28m"
+    },
+    {
+      "brand": "嗨.李记海鲜(南京路店)",
+      "address": "南京东路588号丝绸商厦F2层",
+      "distance": "30m"
+    },
+    {
+      "brand": "蟹小友·蟹黄面·手工点心(南京东路店)",
+      "address": "南京东路588号丝绸商厦负一楼",
+      "distance": "30m"
+    },
+    {
+      "brand": "中丝大食堂(浙江中路店)",
+      "address": "香粉弄68号(南京东路地铁站1号口步行490米)",
+      "distance": "33m"
+    },
+    {
+      "brand": "炙城烤肉(南京东路店)",
+      "address": "南京东路598号亚太广场6楼",
+      "distance": "34m"
+    },
+    {
+      "brand": "龙记渝火锅(丝绸商厦店)",
+      "address": "南京东路588号丝绸商厦七楼",
+      "distance": "35m"
+    },
+    {
+      "brand": "瑞幸咖啡(南京东路第一医药店)",
+      "address": "南京路步行街第一药店底商",
+      "distance": "65m"
+    },
+    {
+      "brand": "沪香记莉莉老上海汤包",
+      "address": "上海市上海城区上海市上海城区上海市黄浦区福建中路355号",
+      "distance": "78m"
+    },
+    {
+      "brand": "哈根达斯(阳光商厦店)",
+      "address": "南京路步行街580号1-3层",
+      "distance": "23m"
+    },
+    {
+      "brand": "雁城味道(丝绸商厦店)",
+      "address": "南京东路588号丝绸商厦6层",
+      "distance": "26m"
+    },
+    {
+      "brand": "NNCAFE诺诺咖啡(南京东路店)",
+      "address": "南京东路558号阳光商厦F2层",
+      "distance": "28m"
+    },
+    {
+      "brand": "嗨.李记海鲜(南京路店)",
+      "address": "南京东路588号丝绸商厦F2层",
+      "distance": "30m"
+    },
+    {
+      "brand": "蟹小友·蟹黄面·手工点心(南京东路店)",
+      "address": "南京东路588号丝绸商厦负一楼",
+      "distance": "30m"
+    },
+    {
+      "brand": "中丝大食堂(浙江中路店)",
+      "address": "香粉弄68号(南京东路地铁站1号口步行490米)",
+      "distance": "33m"
+    },
+    {
+      "brand": "炙城烤肉(南京东路店)",
+      "address": "南京东路598号亚太广场6楼",
+      "distance": "34m"
+    },
+    {
+      "brand": "龙记渝火锅(丝绸商厦店)",
+      "address": "南京东路588号丝绸商厦七楼",
+      "distance": "35m"
+    },
+    {
+      "brand": "瑞幸咖啡(南京东路第一医药店)",
+      "address": "南京路步行街第一药店底商",
+      "distance": "65m"
+    },
+    {
+      "brand": "沪香记莉莉老上海汤包",
+      "address": "上海市上海城区上海市上海城区上海市黄浦区福建中路355号",
+      "distance": "78m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海阳光商厦",
+      "open_date": "-",
+      "area": "-",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海永安百货",
+      "open_date": "2020-01-01",
+      "area": "1.5万㎡",
+      "jun_daily_avg": "1.3万人次",
+      "weekday_avg": "1.1万人次",
+      "holiday_avg": "1.7万人次"
+    },
+    {
+      "name": "上海U479",
+      "open_date": "2021-06-01",
+      "area": "1万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海世茂广场",
+      "open_date": "2018-09-28",
+      "area": "5.8万㎡",
+      "jun_daily_avg": "6.6万人次",
+      "weekday_avg": "5.6万人次",
+      "holiday_avg": "9.5万人次"
+    },
+    {
+      "name": "上海百联ZX创趣场",
+      "open_date": "2023-01-15",
+      "area": "1万㎡",
+      "jun_daily_avg": "3.4万人次",
+      "weekday_avg": "2.7万人次",
+      "holiday_avg": "5.6万人次"
+    },
+    {
+      "name": "上海悦荟广场",
+      "open_date": "2014-12-01",
+      "area": "2.5万㎡",
+      "jun_daily_avg": "1.3万人次",
+      "weekday_avg": "1.1万人次",
+      "holiday_avg": "1.8万人次"
+    },
+    {
+      "name": "上海第一百货商店",
+      "open_date": "2024-09-30",
+      "area": "2万㎡",
+      "jun_daily_avg": "12.1万人次",
+      "weekday_avg": "10.4万人次",
+      "holiday_avg": "16.7万人次"
+    },
+    {
+      "name": "上海来福士广场",
+      "open_date": "2003-11-01",
+      "area": "4.6万㎡",
+      "jun_daily_avg": "2.7万人次",
+      "weekday_avg": "2.4万人次",
+      "holiday_avg": "3.3万人次"
+    },
+    {
+      "name": "上海恒基名人购物中心",
+      "open_date": "2011-11-11",
+      "area": "4万㎡",
+      "jun_daily_avg": "1.2万人次",
+      "weekday_avg": "1.1万人次",
+      "holiday_avg": "1.4万人次"
+    },
+    {
+      "name": "上海宏伊国际广场",
+      "open_date": "2005-07-24",
+      "area": "2.8万㎡",
+      "jun_daily_avg": "2.2万人次",
+      "weekday_avg": "1.9万人次",
+      "holiday_avg": "2.9万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 923.0,
+      "within_1yr_pct": 22.9,
+      "1_3yr_pct": 28.6,
+      "over_3yr_pct": 48.5
+    },
+    {
+      "type": "购物",
+      "count": 957.0,
+      "within_1yr_pct": 20.6,
+      "1_3yr_pct": 30.5,
+      "over_3yr_pct": 48.9
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 224.0,
+      "within_1yr_pct": 27.7,
+      "1_3yr_pct": 40.6,
+      "over_3yr_pct": 31.7
+    },
+    {
+      "type": "教育培训",
+      "count": 62.0,
+      "within_1yr_pct": 27.4,
+      "1_3yr_pct": 30.6,
+      "over_3yr_pct": 41.9
+    },
+    {
+      "type": "酒店住宿",
+      "count": 229.0,
+      "within_1yr_pct": 33.6,
+      "1_3yr_pct": 19.7,
+      "over_3yr_pct": 46.7
+    },
+    {
+      "type": "生活服务",
+      "count": 393.0,
+      "within_1yr_pct": 24.4,
+      "1_3yr_pct": 26.2,
+      "over_3yr_pct": 49.4
+    },
+    {
+      "type": "运动健身",
+      "count": 35.0,
+      "within_1yr_pct": 8.6,
+      "1_3yr_pct": 34.3,
+      "over_3yr_pct": 57.1
+    },
+    {
+      "type": "车辆服务",
+      "count": 47.0,
+      "within_1yr_pct": 23.4,
+      "1_3yr_pct": 36.2,
+      "over_3yr_pct": 40.4
+    }
+  ]
+}

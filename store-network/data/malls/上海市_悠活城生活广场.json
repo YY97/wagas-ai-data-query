@@ -1,0 +1,193 @@
+{
+  "name": "悠活城生活广场",
+  "city": "上海市",
+  "address": "上海市浦东新区上钢新村街道博成路850号",
+  "lat": 31.183591,
+  "lng": 121.48998,
+  "overview": {
+    "score": 85.4,
+    "score_rank": "市内前30%",
+    "population_score": 62.8,
+    "area_score": 74.8,
+    "consumption_score": 60.0,
+    "industry_score": 85.6,
+    "annual_sales": "世博天地，作为新晋的顶流板块，世博即将迎来新的地标项目，由国寿申润城市发展基金所打造的约32万平方米商业综合体，将会在2024年入市。她将是世博板块一个新建商业综合体。 地理位置世博天地位于上海市浦东新区，位于世博大道以南，周家渡路以东，博成路以北，世博馆路以西距离黄浦江仅391米，东接世博源，南接上海世博展览馆，北看世博中心，紧临上海世博文化公园和千古情景区。共有三条轨道交汇于此，可以通过打浦路隧道、南北高架和西藏南路隧道直通浦西黄浦滨江商务区。地铁 8号线中华艺术宫站世博源出口步行332米13号线世博大道站1号步行520米7、8号线耀华路站4号口步行982米 世博天地的地块原是2010年世博园的美食广场，是世博版块一个新建商业综合体项目。项目总计由7栋建筑组成，由两栋凯悦旗下奢雅酒店、两栋26层甲级写字楼，2栋6层的企业总部，外加一栋约4万平方米的购物中心，办公总体量约10.5万平方米。",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 3.0,
+    "open_date": "2024-06-21",
+    "operator": "上海铂园实业有限公司",
+    "brand": "",
+    "type": "美食型",
+    "floors": "B2-L8"
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "-",
+    "annual_daily_rank": "",
+    "jun_total": 69.8,
+    "jun_total_rank": "市内商场第167名",
+    "jun_daily_avg": 2.3,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第167名",
+    "weekday_avg": 2.1,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第176名",
+    "holiday_avg": 3.0,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第158名"
+  },
+  "population": {
+    "residential": {
+      "500m": 2300.0,
+      "1_5km": 9.8,
+      "3km": 78.9
+    },
+    "office": {
+      "500m": 2.5,
+      "1_5km": 9.7,
+      "3km": 48.7
+    },
+    "permanent": {
+      "500m": 1.5,
+      "1_5km": 11.3,
+      "3km": 82.1
+    }
+  },
+  "business": {
+    "competitors": 13.0,
+    "food": 231.0,
+    "shopping": 122.0,
+    "leisure": 25.0,
+    "education": 15.0,
+    "hotel": 8.0,
+    "services": 43.0,
+    "fitness": 19.0,
+    "auto": 34.0,
+    "total_stores": 171.0,
+    "old_store_3yr_pct": 1.0
+  },
+  "nearby_poi": {
+    "business": 4.0,
+    "community": 477.0,
+    "office": 42.0,
+    "school": 18.0,
+    "hospital": 69.0,
+    "transport": 7.0,
+    "scenic": 192.0
+  },
+  "demographics": {
+    "male_pct": 50.1,
+    "female_pct": null,
+    "education": {
+      "小学": 9.1,
+      "初中": 17.0,
+      "高中": 10.8,
+      "大专": 7.5,
+      "本科": 48.2,
+      "硕士": 5.7,
+      "博士": 1.7
+    },
+    "has_children_pct": 60.3,
+    "no_children_pct": 39.7
+  },
+  "scraped_at": "2026-08-01T08:42:59.863Z",
+  "nearby_restaurants": [
+    {
+      "brand": "上勤博风食堂(鲁能店)",
+      "address": "国耀路211号鲁能国际中心C座B1",
+      "distance": "499m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海世博源",
+      "open_date": "2014-04-23",
+      "area": "29万㎡",
+      "jun_daily_avg": "7.9万人次",
+      "weekday_avg": "6.7万人次",
+      "holiday_avg": "11.3万人次"
+    },
+    {
+      "name": "上海浦东商场(昌里店)",
+      "open_date": "2005-04-25",
+      "area": "13万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海漫乐城",
+      "open_date": "2021-11-27",
+      "area": "2.6万㎡",
+      "jun_daily_avg": "3.1万人次",
+      "weekday_avg": "2.8万人次",
+      "holiday_avg": "3.8万人次"
+    },
+    {
+      "name": "上海博荟广场ONE EAST",
+      "open_date": "2021-12-31",
+      "area": "7.5万㎡",
+      "jun_daily_avg": "5.7万人次",
+      "weekday_avg": "6.2万人次",
+      "holiday_avg": "4.4万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 97.0,
+      "within_1yr_pct": 27.8,
+      "1_3yr_pct": 71.1,
+      "over_3yr_pct": 1.0
+    },
+    {
+      "type": "购物",
+      "count": 44.0,
+      "within_1yr_pct": 34.1,
+      "1_3yr_pct": 63.6,
+      "over_3yr_pct": 2.3
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 3.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 66.7,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "教育培训",
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 4.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "生活服务",
+      "count": 9.0,
+      "within_1yr_pct": 22.2,
+      "1_3yr_pct": 77.8,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "运动健身",
+      "count": 5.0,
+      "within_1yr_pct": 60.0,
+      "1_3yr_pct": 40.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 7.0,
+      "within_1yr_pct": 42.9,
+      "1_3yr_pct": 57.1,
+      "over_3yr_pct": 0.0
+    }
+  ]
+}

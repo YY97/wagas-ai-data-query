@@ -1,0 +1,486 @@
+{
+  "name": "平高广场",
+  "city": "上海市",
+  "address": "上海市普陀区长寿路街道昌化路743号玉佛城",
+  "lat": 31.242525,
+  "lng": 121.446471,
+  "overview": {
+    "score": 77.2,
+    "score_rank": "市内前50%",
+    "population_score": 99.0,
+    "area_score": 87.4,
+    "consumption_score": 85.4,
+    "industry_score": 77.0,
+    "annual_sales": "",
+    "annual_sales_unit": "",
+    "area_size_sqm": null,
+    "open_date": "",
+    "operator": "",
+    "brand": "",
+    "type": "",
+    "floors": ""
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "",
+    "annual_daily_rank": "",
+    "jun_total": null,
+    "jun_total_rank": "",
+    "jun_daily_avg": null,
+    "jun_daily_unit": "",
+    "jun_daily_rank": "",
+    "weekday_avg": null,
+    "weekday_unit": "",
+    "weekday_rank": "",
+    "holiday_avg": null,
+    "holiday_unit": "",
+    "holiday_rank": ""
+  },
+  "population": {
+    "residential": {
+      "500m": 3.7,
+      "1_5km": 28.6,
+      "3km": 119.1
+    },
+    "office": {
+      "500m": 2.4,
+      "1_5km": 24.3,
+      "3km": 91.0
+    },
+    "permanent": {
+      "500m": 3.5,
+      "1_5km": 33.9,
+      "3km": 132.2
+    }
+  },
+  "business": {
+    "competitors": 7.0,
+    "food": 214.0,
+    "shopping": 198.0,
+    "leisure": 40.0,
+    "education": 48.0,
+    "hotel": 73.0,
+    "services": 331.0,
+    "fitness": 29.0,
+    "auto": 17.0,
+    "total_stores": 966.0,
+    "old_store_3yr_pct": 46.0
+  },
+  "nearby_poi": {
+    "business": 13.0,
+    "community": 990.0,
+    "office": 187.0,
+    "school": 64.0,
+    "hospital": 162.0,
+    "transport": 18.0,
+    "scenic": 445.0
+  },
+  "demographics": {
+    "male_pct": 47.4,
+    "female_pct": null,
+    "education": {
+      "小学": 8.9,
+      "初中": 17.2,
+      "高中": 11.8,
+      "大专": 6.8,
+      "本科": 48.5,
+      "硕士": 5.2,
+      "博士": 1.6
+    },
+    "has_children_pct": null,
+    "no_children_pct": null
+  },
+  "scraped_at": "2026-08-01T06:55:22.796Z",
+  "nearby_restaurants": [
+    {
+      "brand": "呈祥號·家宴",
+      "address": "长寿路街道安远路128号平高国际广场4楼",
+      "distance": "37m"
+    },
+    {
+      "brand": "鲐赏河豚(长寿店)",
+      "address": "安远路128号平高国际4楼(江宁路地铁站3号口步行400米)",
+      "distance": "40m"
+    },
+    {
+      "brand": "御隆荟(平高国际广场店)",
+      "address": "平高国际广场东南门旁(江宁路地铁站3号口步行420米)",
+      "distance": "48m"
+    },
+    {
+      "brand": "星巴克(平高国际广场店)",
+      "address": "安远路108号平高国际广场1层01室",
+      "distance": "48m"
+    },
+    {
+      "brand": "瑞幸咖啡(平高国际广场店)",
+      "address": "安远路108号平高国际广场一层06号",
+      "distance": "49m"
+    },
+    {
+      "brand": "山东水饺(安远路店)",
+      "address": "平高国际广场东南门旁(江宁路地铁站3号口步行380米)",
+      "distance": "51m"
+    },
+    {
+      "brand": "Manner Coffee(平高国际广场店)",
+      "address": "平高国际广场11号楼(江宁路地铁站3号口步行400米)",
+      "distance": "51m"
+    },
+    {
+      "brand": "洪振缘1号饭堂(安远路店)",
+      "address": "锦绣里社区西南门旁(江宁路地铁站3号口步行340米)",
+      "distance": "76m"
+    },
+    {
+      "brand": "沙县小吃(安远路店)",
+      "address": "江宁路街道安远路143号-3",
+      "distance": "82m"
+    },
+    {
+      "brand": "福建馄饨王",
+      "address": "安远路与江宁路交叉口东60米",
+      "distance": "82m"
+    },
+    {
+      "brand": "呈祥號·家宴",
+      "address": "长寿路街道安远路128号平高国际广场4楼",
+      "distance": "37m"
+    },
+    {
+      "brand": "鲐赏河豚(长寿店)",
+      "address": "安远路128号平高国际4楼(江宁路地铁站3号口步行400米)",
+      "distance": "40m"
+    },
+    {
+      "brand": "御隆荟(平高国际广场店)",
+      "address": "平高国际广场东南门旁(江宁路地铁站3号口步行420米)",
+      "distance": "48m"
+    },
+    {
+      "brand": "星巴克(平高国际广场店)",
+      "address": "安远路108号平高国际广场1层01室",
+      "distance": "48m"
+    },
+    {
+      "brand": "瑞幸咖啡(平高国际广场店)",
+      "address": "安远路108号平高国际广场一层06号",
+      "distance": "49m"
+    },
+    {
+      "brand": "山东水饺(安远路店)",
+      "address": "平高国际广场东南门旁(江宁路地铁站3号口步行380米)",
+      "distance": "51m"
+    },
+    {
+      "brand": "Manner Coffee(平高国际广场店)",
+      "address": "平高国际广场11号楼(江宁路地铁站3号口步行400米)",
+      "distance": "51m"
+    },
+    {
+      "brand": "洪振缘1号饭堂(安远路店)",
+      "address": "锦绣里社区西南门旁(江宁路地铁站3号口步行340米)",
+      "distance": "76m"
+    },
+    {
+      "brand": "沙县小吃(安远路店)",
+      "address": "江宁路街道安远路143号-3",
+      "distance": "82m"
+    },
+    {
+      "brand": "福建馄饨王",
+      "address": "安远路与江宁路交叉口东60米",
+      "distance": "82m"
+    },
+    {
+      "brand": "呈祥號·家宴",
+      "address": "长寿路街道安远路128号平高国际广场4楼",
+      "distance": "37m"
+    },
+    {
+      "brand": "鲐赏河豚(长寿店)",
+      "address": "安远路128号平高国际4楼(江宁路地铁站3号口步行400米)",
+      "distance": "40m"
+    },
+    {
+      "brand": "御隆荟(平高国际广场店)",
+      "address": "平高国际广场东南门旁(江宁路地铁站3号口步行420米)",
+      "distance": "48m"
+    },
+    {
+      "brand": "星巴克(平高国际广场店)",
+      "address": "安远路108号平高国际广场1层01室",
+      "distance": "48m"
+    },
+    {
+      "brand": "瑞幸咖啡(平高国际广场店)",
+      "address": "安远路108号平高国际广场一层06号",
+      "distance": "49m"
+    },
+    {
+      "brand": "山东水饺(安远路店)",
+      "address": "平高国际广场东南门旁(江宁路地铁站3号口步行380米)",
+      "distance": "51m"
+    },
+    {
+      "brand": "Manner Coffee(平高国际广场店)",
+      "address": "平高国际广场11号楼(江宁路地铁站3号口步行400米)",
+      "distance": "51m"
+    },
+    {
+      "brand": "洪振缘1号饭堂(安远路店)",
+      "address": "锦绣里社区西南门旁(江宁路地铁站3号口步行340米)",
+      "distance": "76m"
+    },
+    {
+      "brand": "沙县小吃(安远路店)",
+      "address": "江宁路街道安远路143号-3",
+      "distance": "82m"
+    },
+    {
+      "brand": "福建馄饨王",
+      "address": "安远路与江宁路交叉口东60米",
+      "distance": "82m"
+    },
+    {
+      "brand": "呈祥號·家宴",
+      "address": "长寿路街道安远路128号平高国际广场4楼",
+      "distance": "37m"
+    },
+    {
+      "brand": "鲐赏河豚(长寿店)",
+      "address": "安远路128号平高国际4楼(江宁路地铁站3号口步行400米)",
+      "distance": "40m"
+    },
+    {
+      "brand": "御隆荟(平高国际广场店)",
+      "address": "平高国际广场东南门旁(江宁路地铁站3号口步行420米)",
+      "distance": "48m"
+    },
+    {
+      "brand": "星巴克(平高国际广场店)",
+      "address": "安远路108号平高国际广场1层01室",
+      "distance": "48m"
+    },
+    {
+      "brand": "瑞幸咖啡(平高国际广场店)",
+      "address": "安远路108号平高国际广场一层06号",
+      "distance": "49m"
+    },
+    {
+      "brand": "山东水饺(安远路店)",
+      "address": "平高国际广场东南门旁(江宁路地铁站3号口步行380米)",
+      "distance": "51m"
+    },
+    {
+      "brand": "Manner Coffee(平高国际广场店)",
+      "address": "平高国际广场11号楼(江宁路地铁站3号口步行400米)",
+      "distance": "51m"
+    },
+    {
+      "brand": "洪振缘1号饭堂(安远路店)",
+      "address": "锦绣里社区西南门旁(江宁路地铁站3号口步行340米)",
+      "distance": "76m"
+    },
+    {
+      "brand": "沙县小吃(安远路店)",
+      "address": "江宁路街道安远路143号-3",
+      "distance": "82m"
+    },
+    {
+      "brand": "福建馄饨王",
+      "address": "安远路与江宁路交叉口东60米",
+      "distance": "82m"
+    },
+    {
+      "brand": "呈祥號·家宴",
+      "address": "长寿路街道安远路128号平高国际广场4楼",
+      "distance": "37m"
+    },
+    {
+      "brand": "鲐赏河豚(长寿店)",
+      "address": "安远路128号平高国际4楼(江宁路地铁站3号口步行400米)",
+      "distance": "40m"
+    },
+    {
+      "brand": "御隆荟(平高国际广场店)",
+      "address": "平高国际广场东南门旁(江宁路地铁站3号口步行420米)",
+      "distance": "48m"
+    },
+    {
+      "brand": "星巴克(平高国际广场店)",
+      "address": "安远路108号平高国际广场1层01室",
+      "distance": "48m"
+    },
+    {
+      "brand": "瑞幸咖啡(平高国际广场店)",
+      "address": "安远路108号平高国际广场一层06号",
+      "distance": "49m"
+    },
+    {
+      "brand": "山东水饺(安远路店)",
+      "address": "平高国际广场东南门旁(江宁路地铁站3号口步行380米)",
+      "distance": "51m"
+    },
+    {
+      "brand": "Manner Coffee(平高国际广场店)",
+      "address": "平高国际广场11号楼(江宁路地铁站3号口步行400米)",
+      "distance": "51m"
+    },
+    {
+      "brand": "洪振缘1号饭堂(安远路店)",
+      "address": "锦绣里社区西南门旁(江宁路地铁站3号口步行340米)",
+      "distance": "76m"
+    },
+    {
+      "brand": "沙县小吃(安远路店)",
+      "address": "江宁路街道安远路143号-3",
+      "distance": "82m"
+    },
+    {
+      "brand": "福建馄饨王",
+      "address": "安远路与江宁路交叉口东60米",
+      "distance": "82m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海巴黎春天(陕西路店)",
+      "open_date": "2011-11-01",
+      "area": "4.2万㎡",
+      "jun_daily_avg": "1.2万人次",
+      "weekday_avg": "1.1万人次",
+      "holiday_avg": "1.3万人次"
+    },
+    {
+      "name": "上海189弄购物中心",
+      "open_date": "2017-01-18",
+      "area": "2万㎡",
+      "jun_daily_avg": "1.4万人次",
+      "weekday_avg": "1.3万人次",
+      "holiday_avg": "1.4万人次"
+    },
+    {
+      "name": "上海静安国际中心",
+      "open_date": "2019-10-01",
+      "area": "7.6万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海MOHO",
+      "open_date": "2023-01-13",
+      "area": "8万㎡",
+      "jun_daily_avg": "2万人次",
+      "weekday_avg": "2万人次",
+      "holiday_avg": "1.9万人次"
+    },
+    {
+      "name": "上海瑞安鸿寿坊",
+      "open_date": "2023-09-28",
+      "area": "1.5万㎡",
+      "jun_daily_avg": "1.9万人次",
+      "weekday_avg": "1.9万人次",
+      "holiday_avg": "2.1万人次"
+    },
+    {
+      "name": "上海旭辉里",
+      "open_date": "2021-10-29",
+      "area": "2万㎡",
+      "jun_daily_avg": "2.9万人次",
+      "weekday_avg": "2.8万人次",
+      "holiday_avg": "3万人次"
+    },
+    {
+      "name": "上海大洋晶典·天安千树",
+      "open_date": "2021-12-22",
+      "area": "3.9万㎡",
+      "jun_daily_avg": "2.4万人次",
+      "weekday_avg": "2.1万人次",
+      "holiday_avg": "3.1万人次"
+    },
+    {
+      "name": "上海亚新生活广场",
+      "open_date": "1996-12-08",
+      "area": "4.5万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海太阳CITY广场",
+      "open_date": "2015-01-01",
+      "area": "-",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海环龙商厦",
+      "open_date": "1992-01-01",
+      "area": "3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 214.0,
+      "within_1yr_pct": 24.8,
+      "1_3yr_pct": 26.6,
+      "over_3yr_pct": 48.6
+    },
+    {
+      "type": "购物",
+      "count": 198.0,
+      "within_1yr_pct": 23.2,
+      "1_3yr_pct": 28.3,
+      "over_3yr_pct": 48.5
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 56.0,
+      "within_1yr_pct": 35.7,
+      "1_3yr_pct": 37.5,
+      "over_3yr_pct": 26.8
+    },
+    {
+      "type": "教育培训",
+      "count": 48.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 31.3,
+      "over_3yr_pct": 35.4
+    },
+    {
+      "type": "酒店住宿",
+      "count": 73.0,
+      "within_1yr_pct": 28.8,
+      "1_3yr_pct": 24.7,
+      "over_3yr_pct": 46.6
+    },
+    {
+      "type": "生活服务",
+      "count": 331.0,
+      "within_1yr_pct": 24.5,
+      "1_3yr_pct": 28.7,
+      "over_3yr_pct": 46.8
+    },
+    {
+      "type": "运动健身",
+      "count": 29.0,
+      "within_1yr_pct": 20.7,
+      "1_3yr_pct": 27.6,
+      "over_3yr_pct": 51.7
+    },
+    {
+      "type": "车辆服务",
+      "count": 17.0,
+      "within_1yr_pct": 11.8,
+      "1_3yr_pct": 58.8,
+      "over_3yr_pct": 29.4
+    }
+  ]
+}

@@ -1,0 +1,486 @@
+{
+  "name": "VT101维多利广场",
+  "city": "广州市",
+  "address": "广东省广州市天河区体育西路103号",
+  "lat": 23.134895,
+  "lng": 113.320895,
+  "overview": {
+    "score": 89.9,
+    "score_rank": "市内前30%",
+    "population_score": 88.5,
+    "area_score": 96.6,
+    "consumption_score": 90.2,
+    "industry_score": 89.9,
+    "annual_sales": "10",
+    "annual_sales_unit": "亿元",
+    "area_size_sqm": 2.7,
+    "open_date": "2002-01-01",
+    "operator": "越秀地产股份有限公司",
+    "brand": "越秀地产",
+    "type": "综合型",
+    "floors": "B1-L6"
+  },
+  "traffic": {
+    "annual_daily": 2.47,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第61",
+    "jun_total": 61.9,
+    "jun_total_rank": "市内商场第107名",
+    "jun_daily_avg": 2.1,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第107名",
+    "weekday_avg": 1.9,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第108名",
+    "holiday_avg": 2.6,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第100名"
+  },
+  "population": {
+    "residential": {
+      "500m": 3.1,
+      "1_5km": 26.0,
+      "3km": 103.8
+    },
+    "office": {
+      "500m": 4.4,
+      "1_5km": 39.5,
+      "3km": 106.0
+    },
+    "permanent": {
+      "500m": 5.1,
+      "1_5km": 32.6,
+      "3km": 112.8
+    }
+  },
+  "business": {
+    "competitors": 16.0,
+    "food": 498.0,
+    "shopping": 951.0,
+    "leisure": 70.0,
+    "education": 67.0,
+    "hotel": 106.0,
+    "services": 276.0,
+    "fitness": 31.0,
+    "auto": 36.0,
+    "total_stores": 92.0,
+    "old_store_3yr_pct": 43.0
+  },
+  "nearby_poi": {
+    "business": 19.0,
+    "community": 557.0,
+    "office": 199.0,
+    "school": 55.0,
+    "hospital": 222.0,
+    "transport": 11.0,
+    "scenic": 528.0
+  },
+  "demographics": {
+    "male_pct": 47.4,
+    "female_pct": null,
+    "education": {
+      "小学": 9.4,
+      "初中": 18.2,
+      "高中": 12.8,
+      "大专": 8.2,
+      "本科": 43.5,
+      "硕士": 6.3,
+      "博士": 1.6
+    },
+    "has_children_pct": 59.0,
+    "no_children_pct": 41.0
+  },
+  "scraped_at": "2026-08-02T09:03:07.330Z",
+  "nearby_restaurants": [
+    {
+      "brand": "植机坪·蔬果汁(VT101店)",
+      "address": "体育西路101号维多利广场写字楼F1层",
+      "distance": "5m"
+    },
+    {
+      "brand": "小红鸭咖啡Reduck Coffee(购书中心店)",
+      "address": "天河路123号购书中心一楼(东门)",
+      "distance": "17m"
+    },
+    {
+      "brand": "汉方凉茶(维多利店)",
+      "address": "体育西路101号维多利广场写字楼",
+      "distance": "18m"
+    },
+    {
+      "brand": "虎头炸·潮汕南乳炸鸡(维多利广场店)",
+      "address": "体育西路101号维多利广场架空层走廊自编号叁号",
+      "distance": "18m"
+    },
+    {
+      "brand": "蜜雪冰城(维多利店)",
+      "address": "体育西路101号维多利广场F1层",
+      "distance": "18m"
+    },
+    {
+      "brand": "瑞幸咖啡(天河维多利广场店)",
+      "address": "体育西路101号天河维多利广场首层",
+      "distance": "19m"
+    },
+    {
+      "brand": "侨美食家(体育西路店)",
+      "address": "体育西路101号VT101维多利广场6层",
+      "distance": "23m"
+    },
+    {
+      "brand": "煌上煌酱鸭(维多利广场店)",
+      "address": "维多利广场一层(购书中心进口旁)",
+      "distance": "25m"
+    },
+    {
+      "brand": "喜姐炸串(体育西店)",
+      "address": "体育西路101号架空层维多利广场内铺23号",
+      "distance": "27m"
+    },
+    {
+      "brand": "达美乐比萨(天河路分店)",
+      "address": "天河路123号购书中心一层",
+      "distance": "28m"
+    },
+    {
+      "brand": "植机坪·蔬果汁(VT101店)",
+      "address": "体育西路101号维多利广场写字楼F1层",
+      "distance": "5m"
+    },
+    {
+      "brand": "小红鸭咖啡Reduck Coffee(购书中心店)",
+      "address": "天河路123号购书中心一楼(东门)",
+      "distance": "17m"
+    },
+    {
+      "brand": "汉方凉茶(维多利店)",
+      "address": "体育西路101号维多利广场写字楼",
+      "distance": "18m"
+    },
+    {
+      "brand": "虎头炸·潮汕南乳炸鸡(维多利广场店)",
+      "address": "体育西路101号维多利广场架空层走廊自编号叁号",
+      "distance": "18m"
+    },
+    {
+      "brand": "蜜雪冰城(维多利店)",
+      "address": "体育西路101号维多利广场F1层",
+      "distance": "18m"
+    },
+    {
+      "brand": "瑞幸咖啡(天河维多利广场店)",
+      "address": "体育西路101号天河维多利广场首层",
+      "distance": "19m"
+    },
+    {
+      "brand": "侨美食家(体育西路店)",
+      "address": "体育西路101号VT101维多利广场6层",
+      "distance": "23m"
+    },
+    {
+      "brand": "煌上煌酱鸭(维多利广场店)",
+      "address": "维多利广场一层(购书中心进口旁)",
+      "distance": "25m"
+    },
+    {
+      "brand": "喜姐炸串(体育西店)",
+      "address": "体育西路101号架空层维多利广场内铺23号",
+      "distance": "27m"
+    },
+    {
+      "brand": "达美乐比萨(天河路分店)",
+      "address": "天河路123号购书中心一层",
+      "distance": "28m"
+    },
+    {
+      "brand": "植机坪·蔬果汁(VT101店)",
+      "address": "体育西路101号维多利广场写字楼F1层",
+      "distance": "5m"
+    },
+    {
+      "brand": "小红鸭咖啡Reduck Coffee(购书中心店)",
+      "address": "天河路123号购书中心一楼(东门)",
+      "distance": "17m"
+    },
+    {
+      "brand": "汉方凉茶(维多利店)",
+      "address": "体育西路101号维多利广场写字楼",
+      "distance": "18m"
+    },
+    {
+      "brand": "虎头炸·潮汕南乳炸鸡(维多利广场店)",
+      "address": "体育西路101号维多利广场架空层走廊自编号叁号",
+      "distance": "18m"
+    },
+    {
+      "brand": "蜜雪冰城(维多利店)",
+      "address": "体育西路101号维多利广场F1层",
+      "distance": "18m"
+    },
+    {
+      "brand": "瑞幸咖啡(天河维多利广场店)",
+      "address": "体育西路101号天河维多利广场首层",
+      "distance": "19m"
+    },
+    {
+      "brand": "侨美食家(体育西路店)",
+      "address": "体育西路101号VT101维多利广场6层",
+      "distance": "23m"
+    },
+    {
+      "brand": "煌上煌酱鸭(维多利广场店)",
+      "address": "维多利广场一层(购书中心进口旁)",
+      "distance": "25m"
+    },
+    {
+      "brand": "喜姐炸串(体育西店)",
+      "address": "体育西路101号架空层维多利广场内铺23号",
+      "distance": "27m"
+    },
+    {
+      "brand": "达美乐比萨(天河路分店)",
+      "address": "天河路123号购书中心一层",
+      "distance": "28m"
+    },
+    {
+      "brand": "植机坪·蔬果汁(VT101店)",
+      "address": "体育西路101号维多利广场写字楼F1层",
+      "distance": "5m"
+    },
+    {
+      "brand": "小红鸭咖啡Reduck Coffee(购书中心店)",
+      "address": "天河路123号购书中心一楼(东门)",
+      "distance": "17m"
+    },
+    {
+      "brand": "汉方凉茶(维多利店)",
+      "address": "体育西路101号维多利广场写字楼",
+      "distance": "18m"
+    },
+    {
+      "brand": "虎头炸·潮汕南乳炸鸡(维多利广场店)",
+      "address": "体育西路101号维多利广场架空层走廊自编号叁号",
+      "distance": "18m"
+    },
+    {
+      "brand": "蜜雪冰城(维多利店)",
+      "address": "体育西路101号维多利广场F1层",
+      "distance": "18m"
+    },
+    {
+      "brand": "瑞幸咖啡(天河维多利广场店)",
+      "address": "体育西路101号天河维多利广场首层",
+      "distance": "19m"
+    },
+    {
+      "brand": "侨美食家(体育西路店)",
+      "address": "体育西路101号VT101维多利广场6层",
+      "distance": "23m"
+    },
+    {
+      "brand": "煌上煌酱鸭(维多利广场店)",
+      "address": "维多利广场一层(购书中心进口旁)",
+      "distance": "25m"
+    },
+    {
+      "brand": "喜姐炸串(体育西店)",
+      "address": "体育西路101号架空层维多利广场内铺23号",
+      "distance": "27m"
+    },
+    {
+      "brand": "达美乐比萨(天河路分店)",
+      "address": "天河路123号购书中心一层",
+      "distance": "28m"
+    },
+    {
+      "brand": "植机坪·蔬果汁(VT101店)",
+      "address": "体育西路101号维多利广场写字楼F1层",
+      "distance": "5m"
+    },
+    {
+      "brand": "小红鸭咖啡Reduck Coffee(购书中心店)",
+      "address": "天河路123号购书中心一楼(东门)",
+      "distance": "17m"
+    },
+    {
+      "brand": "汉方凉茶(维多利店)",
+      "address": "体育西路101号维多利广场写字楼",
+      "distance": "18m"
+    },
+    {
+      "brand": "虎头炸·潮汕南乳炸鸡(维多利广场店)",
+      "address": "体育西路101号维多利广场架空层走廊自编号叁号",
+      "distance": "18m"
+    },
+    {
+      "brand": "蜜雪冰城(维多利店)",
+      "address": "体育西路101号维多利广场F1层",
+      "distance": "18m"
+    },
+    {
+      "brand": "瑞幸咖啡(天河维多利广场店)",
+      "address": "体育西路101号天河维多利广场首层",
+      "distance": "19m"
+    },
+    {
+      "brand": "侨美食家(体育西路店)",
+      "address": "体育西路101号VT101维多利广场6层",
+      "distance": "23m"
+    },
+    {
+      "brand": "煌上煌酱鸭(维多利广场店)",
+      "address": "维多利广场一层(购书中心进口旁)",
+      "distance": "25m"
+    },
+    {
+      "brand": "喜姐炸串(体育西店)",
+      "address": "体育西路101号架空层维多利广场内铺23号",
+      "distance": "27m"
+    },
+    {
+      "brand": "达美乐比萨(天河路分店)",
+      "address": "天河路123号购书中心一层",
+      "distance": "28m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "广州广百百货(天河中怡店)",
+      "open_date": "2006-09-29",
+      "area": "7万㎡",
+      "jun_daily_avg": "1.9万人次",
+      "weekday_avg": "1.7万人次",
+      "holiday_avg": "2.6万人次"
+    },
+    {
+      "name": "广州天河城",
+      "open_date": "1996-08-18",
+      "area": "16万㎡",
+      "jun_daily_avg": "9.1万人次",
+      "weekday_avg": "7.7万人次",
+      "holiday_avg": "13.1万人次"
+    },
+    {
+      "name": "广州时尚天河商业广场",
+      "open_date": "2011-01-01",
+      "area": "14万㎡",
+      "jun_daily_avg": "8.1万人次",
+      "weekday_avg": "6.3万人次",
+      "holiday_avg": "13.1万人次"
+    },
+    {
+      "name": "广州天环Parc Central",
+      "open_date": "2016-01-01",
+      "area": "11万㎡",
+      "jun_daily_avg": "9.8万人次",
+      "weekday_avg": "7.8万人次",
+      "holiday_avg": "15.3万人次"
+    },
+    {
+      "name": "广州天河汇运动商城",
+      "open_date": "2006-09-01",
+      "area": "-",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "广州佳兆业广场",
+      "open_date": "2008-06-01",
+      "area": "4万㎡",
+      "jun_daily_avg": "2.2万人次",
+      "weekday_avg": "2.3万人次",
+      "holiday_avg": "1.8万人次"
+    },
+    {
+      "name": "广州正佳广场",
+      "open_date": "2005-01-15",
+      "area": "30万㎡",
+      "jun_daily_avg": "15.5万人次",
+      "weekday_avg": "12.4万人次",
+      "holiday_avg": "23.9万人次"
+    },
+    {
+      "name": "广州友谊OUTLETS(时代广场)",
+      "open_date": "2013-11-30",
+      "area": "2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "百福广场",
+      "open_date": "-",
+      "area": "-",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "广州保利时光汇·克洛维",
+      "open_date": "2013-01-01",
+      "area": "3.7万㎡",
+      "jun_daily_avg": "2.5万人次",
+      "weekday_avg": "2.8万人次",
+      "holiday_avg": "1.5万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 23.0,
+      "within_1yr_pct": 21.7,
+      "1_3yr_pct": 26.1,
+      "over_3yr_pct": 52.2
+    },
+    {
+      "type": "购物",
+      "count": 27.0,
+      "within_1yr_pct": 40.7,
+      "1_3yr_pct": 18.5,
+      "over_3yr_pct": 40.7
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 3.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "教育培训",
+      "count": 19.0,
+      "within_1yr_pct": 15.8,
+      "1_3yr_pct": 26.3,
+      "over_3yr_pct": 57.9
+    },
+    {
+      "type": "酒店住宿",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "生活服务",
+      "count": 14.0,
+      "within_1yr_pct": 35.7,
+      "1_3yr_pct": 21.4,
+      "over_3yr_pct": 42.9
+    },
+    {
+      "type": "运动健身",
+      "count": 2.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 3.0,
+      "within_1yr_pct": 66.7,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 0.0
+    }
+  ]
+}

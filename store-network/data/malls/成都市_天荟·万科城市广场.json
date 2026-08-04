@@ -1,0 +1,439 @@
+{
+  "name": "天荟·万科城市广场",
+  "city": "成都市",
+  "address": "四川省成都市成华区杉板桥路369号",
+  "lat": 30.662709,
+  "lng": 104.114512,
+  "overview": {
+    "score": 89.9,
+    "score_rank": "市内前30%",
+    "population_score": 91.3,
+    "area_score": 92.7,
+    "consumption_score": 88.9,
+    "industry_score": 89.9,
+    "annual_sales": "5",
+    "annual_sales_unit": "亿元",
+    "area_size_sqm": 10.0,
+    "open_date": "2019-12-30",
+    "operator": "万科企业股份有限公司",
+    "brand": "引力",
+    "type": "综合型",
+    "floors": "B1-L3"
+  },
+  "traffic": {
+    "annual_daily": 3.87,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第34",
+    "jun_total": 156.1,
+    "jun_total_rank": "市内商场第35名",
+    "jun_daily_avg": 5.2,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第35名",
+    "weekday_avg": 4.9,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第32名",
+    "holiday_avg": 6.1,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第42名"
+  },
+  "population": {
+    "residential": {
+      "500m": 2.5,
+      "1_5km": 20.7,
+      "3km": 81.5
+    },
+    "office": {
+      "500m": 2.2,
+      "1_5km": 10.5,
+      "3km": 36.9
+    },
+    "permanent": {
+      "500m": 3.4,
+      "1_5km": 20.1,
+      "3km": 75.4
+    }
+  },
+  "business": {
+    "competitors": 9.0,
+    "food": 710.0,
+    "shopping": 534.0,
+    "leisure": 88.0,
+    "education": 48.0,
+    "hotel": 259.0,
+    "services": 404.0,
+    "fitness": 40.0,
+    "auto": 43.0,
+    "total_stores": 103.0,
+    "old_store_3yr_pct": 40.0
+  },
+  "nearby_poi": {
+    "business": 5.0,
+    "community": 564.0,
+    "office": 19.0,
+    "school": 24.0,
+    "hospital": 105.0,
+    "transport": 11.0,
+    "scenic": 154.0
+  },
+  "demographics": {
+    "male_pct": 48.1,
+    "female_pct": null,
+    "education": {
+      "小学": 8.8,
+      "初中": 17.1,
+      "高中": 15.2,
+      "大专": 10.2,
+      "本科": 44.1,
+      "硕士": 3.5,
+      "博士": 1.1
+    },
+    "has_children_pct": 59.2,
+    "no_children_pct": 40.8
+  },
+  "scraped_at": "2026-08-02T08:34:06.283Z",
+  "nearby_restaurants": [
+    {
+      "brand": "四海小馆·新中式餐厅(万科天荟店)",
+      "address": "成华大道杉板桥路369号1栋6单元2楼1号、1栋7单元2楼2号",
+      "distance": "8m"
+    },
+    {
+      "brand": "河马茶餐厅(天荟店)",
+      "address": "万科天荟2层(东郊记忆地铁站B1口步行360米)",
+      "distance": "15m"
+    },
+    {
+      "brand": "赵ZHAO·牛排坊(天荟·万科广场店)",
+      "address": "杉板桥路369号(万科天荟1F-021)",
+      "distance": "21m"
+    },
+    {
+      "brand": "丁海记粤式大排档(万科天荟店)",
+      "address": "跳蹬河街道成华大道杉板桥路369号1栋2单元2楼2-5号",
+      "distance": "23m"
+    },
+    {
+      "brand": "日出云居料理酒场(万科天荟店)",
+      "address": "天荟·万科广场(东郊记忆地铁站B1口步行370米)",
+      "distance": "24m"
+    },
+    {
+      "brand": "回望炊烟(东郊记忆店)",
+      "address": "天荟·万科城市广场2栋2楼",
+      "distance": "29m"
+    },
+    {
+      "brand": "MEDM(天荟·万科广场店)",
+      "address": "天荟·万科广场(东郊记忆地铁站B1口步行280米)",
+      "distance": "31m"
+    },
+    {
+      "brand": "玄武蟹料理",
+      "address": "成华大道杉板桥路369号1栋6单元2层014a",
+      "distance": "34m"
+    },
+    {
+      "brand": "茉里柒佰烤肉(万科天荟店)",
+      "address": "成华区天荟·万科广场2楼(网红天桥口龙湖天街对面)",
+      "distance": "35m"
+    },
+    {
+      "brand": "园里火锅(万科天荟店)",
+      "address": "杉板桥路369号天荟万科城市广场1栋6单元3层",
+      "distance": "36m"
+    },
+    {
+      "brand": "四海小馆·新中式餐厅(万科天荟店)",
+      "address": "成华大道杉板桥路369号1栋6单元2楼1号、1栋7单元2楼2号",
+      "distance": "8m"
+    },
+    {
+      "brand": "河马茶餐厅(天荟店)",
+      "address": "万科天荟2层(东郊记忆地铁站B1口步行360米)",
+      "distance": "15m"
+    },
+    {
+      "brand": "赵ZHAO·牛排坊(天荟·万科广场店)",
+      "address": "杉板桥路369号(万科天荟1F-021)",
+      "distance": "21m"
+    },
+    {
+      "brand": "丁海记粤式大排档(万科天荟店)",
+      "address": "跳蹬河街道成华大道杉板桥路369号1栋2单元2楼2-5号",
+      "distance": "23m"
+    },
+    {
+      "brand": "日出云居料理酒场(万科天荟店)",
+      "address": "天荟·万科广场(东郊记忆地铁站B1口步行370米)",
+      "distance": "24m"
+    },
+    {
+      "brand": "回望炊烟(东郊记忆店)",
+      "address": "天荟·万科城市广场2栋2楼",
+      "distance": "29m"
+    },
+    {
+      "brand": "MEDM(天荟·万科广场店)",
+      "address": "天荟·万科广场(东郊记忆地铁站B1口步行280米)",
+      "distance": "31m"
+    },
+    {
+      "brand": "玄武蟹料理",
+      "address": "成华大道杉板桥路369号1栋6单元2层014a",
+      "distance": "34m"
+    },
+    {
+      "brand": "茉里柒佰烤肉(万科天荟店)",
+      "address": "成华区天荟·万科广场2楼(网红天桥口龙湖天街对面)",
+      "distance": "35m"
+    },
+    {
+      "brand": "园里火锅(万科天荟店)",
+      "address": "杉板桥路369号天荟万科城市广场1栋6单元3层",
+      "distance": "36m"
+    },
+    {
+      "brand": "四海小馆·新中式餐厅(万科天荟店)",
+      "address": "成华大道杉板桥路369号1栋6单元2楼1号、1栋7单元2楼2号",
+      "distance": "8m"
+    },
+    {
+      "brand": "河马茶餐厅(天荟店)",
+      "address": "万科天荟2层(东郊记忆地铁站B1口步行360米)",
+      "distance": "15m"
+    },
+    {
+      "brand": "赵ZHAO·牛排坊(天荟·万科广场店)",
+      "address": "杉板桥路369号(万科天荟1F-021)",
+      "distance": "21m"
+    },
+    {
+      "brand": "丁海记粤式大排档(万科天荟店)",
+      "address": "跳蹬河街道成华大道杉板桥路369号1栋2单元2楼2-5号",
+      "distance": "23m"
+    },
+    {
+      "brand": "日出云居料理酒场(万科天荟店)",
+      "address": "天荟·万科广场(东郊记忆地铁站B1口步行370米)",
+      "distance": "24m"
+    },
+    {
+      "brand": "回望炊烟(东郊记忆店)",
+      "address": "天荟·万科城市广场2栋2楼",
+      "distance": "29m"
+    },
+    {
+      "brand": "MEDM(天荟·万科广场店)",
+      "address": "天荟·万科广场(东郊记忆地铁站B1口步行280米)",
+      "distance": "31m"
+    },
+    {
+      "brand": "玄武蟹料理",
+      "address": "成华大道杉板桥路369号1栋6单元2层014a",
+      "distance": "34m"
+    },
+    {
+      "brand": "茉里柒佰烤肉(万科天荟店)",
+      "address": "成华区天荟·万科广场2楼(网红天桥口龙湖天街对面)",
+      "distance": "35m"
+    },
+    {
+      "brand": "园里火锅(万科天荟店)",
+      "address": "杉板桥路369号天荟万科城市广场1栋6单元3层",
+      "distance": "36m"
+    },
+    {
+      "brand": "四海小馆·新中式餐厅(万科天荟店)",
+      "address": "成华大道杉板桥路369号1栋6单元2楼1号、1栋7单元2楼2号",
+      "distance": "8m"
+    },
+    {
+      "brand": "河马茶餐厅(天荟店)",
+      "address": "万科天荟2层(东郊记忆地铁站B1口步行360米)",
+      "distance": "15m"
+    },
+    {
+      "brand": "赵ZHAO·牛排坊(天荟·万科广场店)",
+      "address": "杉板桥路369号(万科天荟1F-021)",
+      "distance": "21m"
+    },
+    {
+      "brand": "丁海记粤式大排档(万科天荟店)",
+      "address": "跳蹬河街道成华大道杉板桥路369号1栋2单元2楼2-5号",
+      "distance": "23m"
+    },
+    {
+      "brand": "日出云居料理酒场(万科天荟店)",
+      "address": "天荟·万科广场(东郊记忆地铁站B1口步行370米)",
+      "distance": "24m"
+    },
+    {
+      "brand": "回望炊烟(东郊记忆店)",
+      "address": "天荟·万科城市广场2栋2楼",
+      "distance": "29m"
+    },
+    {
+      "brand": "MEDM(天荟·万科广场店)",
+      "address": "天荟·万科广场(东郊记忆地铁站B1口步行280米)",
+      "distance": "31m"
+    },
+    {
+      "brand": "玄武蟹料理",
+      "address": "成华大道杉板桥路369号1栋6单元2层014a",
+      "distance": "34m"
+    },
+    {
+      "brand": "茉里柒佰烤肉(万科天荟店)",
+      "address": "成华区天荟·万科广场2楼(网红天桥口龙湖天街对面)",
+      "distance": "35m"
+    },
+    {
+      "brand": "园里火锅(万科天荟店)",
+      "address": "杉板桥路369号天荟万科城市广场1栋6单元3层",
+      "distance": "36m"
+    },
+    {
+      "brand": "四海小馆·新中式餐厅(万科天荟店)",
+      "address": "成华大道杉板桥路369号1栋6单元2楼1号、1栋7单元2楼2号",
+      "distance": "8m"
+    },
+    {
+      "brand": "河马茶餐厅(天荟店)",
+      "address": "万科天荟2层(东郊记忆地铁站B1口步行360米)",
+      "distance": "15m"
+    },
+    {
+      "brand": "赵ZHAO·牛排坊(天荟·万科广场店)",
+      "address": "杉板桥路369号(万科天荟1F-021)",
+      "distance": "21m"
+    },
+    {
+      "brand": "丁海记粤式大排档(万科天荟店)",
+      "address": "跳蹬河街道成华大道杉板桥路369号1栋2单元2楼2-5号",
+      "distance": "23m"
+    },
+    {
+      "brand": "日出云居料理酒场(万科天荟店)",
+      "address": "天荟·万科广场(东郊记忆地铁站B1口步行370米)",
+      "distance": "24m"
+    },
+    {
+      "brand": "回望炊烟(东郊记忆店)",
+      "address": "天荟·万科城市广场2栋2楼",
+      "distance": "29m"
+    },
+    {
+      "brand": "MEDM(天荟·万科广场店)",
+      "address": "天荟·万科广场(东郊记忆地铁站B1口步行280米)",
+      "distance": "31m"
+    },
+    {
+      "brand": "玄武蟹料理",
+      "address": "成华大道杉板桥路369号1栋6单元2层014a",
+      "distance": "34m"
+    },
+    {
+      "brand": "茉里柒佰烤肉(万科天荟店)",
+      "address": "成华区天荟·万科广场2楼(网红天桥口龙湖天街对面)",
+      "distance": "35m"
+    },
+    {
+      "brand": "园里火锅(万科天荟店)",
+      "address": "杉板桥路369号天荟万科城市广场1栋6单元3层",
+      "distance": "36m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "龙湖成都滨江天街",
+      "open_date": "2019-12-31",
+      "area": "14万㎡",
+      "jun_daily_avg": "7.8万人次",
+      "weekday_avg": "7.1万人次",
+      "holiday_avg": "9.9万人次"
+    },
+    {
+      "name": "成都招商花园城",
+      "open_date": "2020-05-01",
+      "area": "4.9万㎡",
+      "jun_daily_avg": "1.8万人次",
+      "weekday_avg": "1.8万人次",
+      "holiday_avg": "1.9万人次"
+    },
+    {
+      "name": "成都多弗汇DOOF MALL",
+      "open_date": "2018-04-01",
+      "area": "5万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "成都成华SM城市广场",
+      "open_date": "2006-10-20",
+      "area": "17万㎡",
+      "jun_daily_avg": "3万人次",
+      "weekday_avg": "2.7万人次",
+      "holiday_avg": "3.7万人次"
+    },
+    {
+      "name": "成都市朗FUN",
+      "open_date": "2021-12-24",
+      "area": "1.8万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 32.0,
+      "within_1yr_pct": 9.4,
+      "1_3yr_pct": 46.9,
+      "over_3yr_pct": 43.8
+    },
+    {
+      "type": "购物",
+      "count": 46.0,
+      "within_1yr_pct": 21.7,
+      "1_3yr_pct": 47.8,
+      "over_3yr_pct": 30.4
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 7.0,
+      "within_1yr_pct": 28.6,
+      "1_3yr_pct": 14.3,
+      "over_3yr_pct": 57.1
+    },
+    {
+      "type": "酒店住宿",
+      "count": 3.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "生活服务",
+      "count": 9.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 66.7
+    },
+    {
+      "type": "运动健身",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 5.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 40.0,
+      "over_3yr_pct": 60.0
+    }
+  ]
+}

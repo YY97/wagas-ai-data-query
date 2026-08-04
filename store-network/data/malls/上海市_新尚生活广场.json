@@ -1,0 +1,97 @@
+{
+  "name": "新尚生活广场",
+  "city": "上海市",
+  "address": "",
+  "lat": null,
+  "lng": null,
+  "overview": {
+    "score": 73.4,
+    "score_rank": "市内前50%",
+    "population_score": 80.9,
+    "area_score": 63.2,
+    "consumption_score": 65.3,
+    "industry_score": 73.4,
+    "annual_sales": "",
+    "annual_sales_unit": "",
+    "area_size_sqm": null,
+    "open_date": "",
+    "operator": "",
+    "brand": "",
+    "type": "",
+    "floors": ""
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "",
+    "annual_daily_rank": "",
+    "jun_total": null,
+    "jun_total_rank": "",
+    "jun_daily_avg": null,
+    "jun_daily_unit": "",
+    "jun_daily_rank": "",
+    "weekday_avg": null,
+    "weekday_unit": "",
+    "weekday_rank": "",
+    "holiday_avg": null,
+    "holiday_unit": "",
+    "holiday_rank": ""
+  },
+  "population": {
+    "residential": {
+      "500m": 1.6,
+      "1_5km": 10.6,
+      "3km": 31.5
+    },
+    "office": {
+      "500m": 4400.0,
+      "1_5km": 3.7,
+      "3km": 13.9
+    },
+    "permanent": {
+      "500m": 1.5,
+      "1_5km": 10.0,
+      "3km": 30.1
+    }
+  },
+  "business": {
+    "competitors": 1.0,
+    "food": 33.0,
+    "shopping": 28.0,
+    "leisure": 4.0,
+    "education": 9.0,
+    "hotel": null,
+    "services": 30.0,
+    "fitness": 1.0,
+    "auto": 4.0,
+    "total_stores": null,
+    "old_store_3yr_pct": null
+  },
+  "nearby_poi": {
+    "business": 1.0,
+    "community": 133.0,
+    "office": 5.0,
+    "school": 21.0,
+    "hospital": 32.0,
+    "transport": 7.0,
+    "scenic": 44.0
+  },
+  "demographics": {
+    "male_pct": 47.3,
+    "female_pct": null,
+    "education": {
+      "小学": 10.2,
+      "初中": 19.4,
+      "高中": 11.8,
+      "大专": 8.4,
+      "本科": 46.4,
+      "硕士": 2.9,
+      "博士": 0.9
+    },
+    "has_children_pct": null,
+    "no_children_pct": null
+  },
+  "scraped_at": "2026-08-01T10:31:27.753Z",
+  "nearby_restaurants": [],
+  "nearby_malls": [],
+  "business_survival": []
+}

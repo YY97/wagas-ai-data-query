@@ -1,0 +1,440 @@
+{
+  "name": "北京都汇天地",
+  "city": "北京市",
+  "address": "北京市朝阳区左家庄街道平安国际金融中心(新源南路)都汇天地购物中心",
+  "lat": 39.94924,
+  "lng": 116.460254,
+  "overview": {
+    "score": 90.7,
+    "score_rank": "市内前30%",
+    "population_score": 74.5,
+    "area_score": 86.8,
+    "consumption_score": 80.3,
+    "industry_score": 90.8,
+    "annual_sales": "60",
+    "annual_sales_unit": "亿元",
+    "area_size_sqm": 2.0,
+    "open_date": "2010-09-27",
+    "operator": "北京都汇天地购物中心有限公司",
+    "brand": "",
+    "type": "美食型",
+    "floors": "B1-L6"
+  },
+  "traffic": {
+    "annual_daily": 1.31,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第176",
+    "jun_total": 42.7,
+    "jun_total_rank": "市内商场第212名",
+    "jun_daily_avg": 1.4,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第212名",
+    "weekday_avg": 1.6,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第179名",
+    "holiday_avg": 8499.0,
+    "holiday_unit": "人次",
+    "holiday_rank": "市内商场第263名"
+  },
+  "population": {
+    "residential": {
+      "500m": 9900.0,
+      "1_5km": 12.3,
+      "3km": 57.2
+    },
+    "office": {
+      "500m": 2.2,
+      "1_5km": 14.2,
+      "3km": 46.2
+    },
+    "permanent": {
+      "500m": 1.4,
+      "1_5km": 13.3,
+      "3km": 59.9
+    }
+  },
+  "business": {
+    "competitors": 7.0,
+    "food": 225.0,
+    "shopping": 219.0,
+    "leisure": 10.0,
+    "education": 4.0,
+    "hotel": 34.0,
+    "services": 112.0,
+    "fitness": 22.0,
+    "auto": 17.0,
+    "total_stores": 73.0,
+    "old_store_3yr_pct": 51.0
+  },
+  "nearby_poi": {
+    "business": 6.0,
+    "community": 403.0,
+    "office": 93.0,
+    "school": 33.0,
+    "hospital": 138.0,
+    "transport": 12.0,
+    "scenic": 235.0
+  },
+  "demographics": {
+    "male_pct": 54.6,
+    "female_pct": null,
+    "education": {
+      "小学": 8.8,
+      "初中": 15.2,
+      "高中": 10.6,
+      "大专": 6.7,
+      "本科": 49.3,
+      "硕士": 7.9,
+      "博士": 1.5
+    },
+    "has_children_pct": 54.4,
+    "no_children_pct": 45.6
+  },
+  "scraped_at": "2026-07-31T19:07:35.837Z",
+  "nearby_restaurants": [
+    {
+      "brand": "HotPotato薯条专门店(新源南路店)",
+      "address": "北京城区新源南路1号-1至4层101内地下一层B56号",
+      "distance": "13m"
+    },
+    {
+      "brand": "极致·极度意大利经典比萨(亮马桥平安大厦店)",
+      "address": "北京城区新源南路1号-1至4层101内B1层B56号",
+      "distance": "13m"
+    },
+    {
+      "brand": "Grid Coffee(平安国际金融中心店)",
+      "address": "北京城区新源南路1号平安国际金融中心101号铺",
+      "distance": "14m"
+    },
+    {
+      "brand": "台客厚甲·台湾卤肉饭(平安金融中心店)",
+      "address": "北京城区新源南路1号平安国际金融中心B1地下一层鲸鱼街区B51号",
+      "distance": "15m"
+    },
+    {
+      "brand": "福安可越南小馆(平安金融中心店)",
+      "address": "北京城区新源南路1号-1至4层101内地下一层B19号-20号",
+      "distance": "35m"
+    },
+    {
+      "brand": "鱼你在一起(平安国际大厦店 )",
+      "address": "新源南路1号-1至4层101内-1层B106号亮马桥地铁站A西北口步行130米",
+      "distance": "36m"
+    },
+    {
+      "brand": "楚褚热干面",
+      "address": "新源南路1号-1至4层101内-1层地下一层B25-B26",
+      "distance": "38m"
+    },
+    {
+      "brand": "茶百道(北京朝阳都汇天地店)",
+      "address": "北京城区北京城区新源南路1号都汇天地商场B1层23号铺",
+      "distance": "38m"
+    },
+    {
+      "brand": "喜家德虾仁水饺(平安中心店)",
+      "address": "新源南路1号都汇天地B1层",
+      "distance": "38m"
+    },
+    {
+      "brand": "笨笨福慢熬骨汤米线(亮马桥店)",
+      "address": "北京城区北京城区亮马桥地铁平安国际金融中心地下一层",
+      "distance": "39m"
+    },
+    {
+      "brand": "HotPotato薯条专门店(新源南路店)",
+      "address": "北京城区新源南路1号-1至4层101内地下一层B56号",
+      "distance": "13m"
+    },
+    {
+      "brand": "极致·极度意大利经典比萨(亮马桥平安大厦店)",
+      "address": "北京城区新源南路1号-1至4层101内B1层B56号",
+      "distance": "13m"
+    },
+    {
+      "brand": "Grid Coffee(平安国际金融中心店)",
+      "address": "北京城区新源南路1号平安国际金融中心101号铺",
+      "distance": "14m"
+    },
+    {
+      "brand": "台客厚甲·台湾卤肉饭(平安金融中心店)",
+      "address": "北京城区新源南路1号平安国际金融中心B1地下一层鲸鱼街区B51号",
+      "distance": "15m"
+    },
+    {
+      "brand": "福安可越南小馆(平安金融中心店)",
+      "address": "北京城区新源南路1号-1至4层101内地下一层B19号-20号",
+      "distance": "35m"
+    },
+    {
+      "brand": "鱼你在一起(平安国际大厦店 )",
+      "address": "新源南路1号-1至4层101内-1层B106号亮马桥地铁站A西北口步行130米",
+      "distance": "36m"
+    },
+    {
+      "brand": "楚褚热干面",
+      "address": "新源南路1号-1至4层101内-1层地下一层B25-B26",
+      "distance": "38m"
+    },
+    {
+      "brand": "茶百道(北京朝阳都汇天地店)",
+      "address": "北京城区北京城区新源南路1号都汇天地商场B1层23号铺",
+      "distance": "38m"
+    },
+    {
+      "brand": "喜家德虾仁水饺(平安中心店)",
+      "address": "新源南路1号都汇天地B1层",
+      "distance": "38m"
+    },
+    {
+      "brand": "笨笨福慢熬骨汤米线(亮马桥店)",
+      "address": "北京城区北京城区亮马桥地铁平安国际金融中心地下一层",
+      "distance": "39m"
+    },
+    {
+      "brand": "HotPotato薯条专门店(新源南路店)",
+      "address": "北京城区新源南路1号-1至4层101内地下一层B56号",
+      "distance": "13m"
+    },
+    {
+      "brand": "极致·极度意大利经典比萨(亮马桥平安大厦店)",
+      "address": "北京城区新源南路1号-1至4层101内B1层B56号",
+      "distance": "13m"
+    },
+    {
+      "brand": "Grid Coffee(平安国际金融中心店)",
+      "address": "北京城区新源南路1号平安国际金融中心101号铺",
+      "distance": "14m"
+    },
+    {
+      "brand": "台客厚甲·台湾卤肉饭(平安金融中心店)",
+      "address": "北京城区新源南路1号平安国际金融中心B1地下一层鲸鱼街区B51号",
+      "distance": "15m"
+    },
+    {
+      "brand": "福安可越南小馆(平安金融中心店)",
+      "address": "北京城区新源南路1号-1至4层101内地下一层B19号-20号",
+      "distance": "35m"
+    },
+    {
+      "brand": "鱼你在一起(平安国际大厦店 )",
+      "address": "新源南路1号-1至4层101内-1层B106号亮马桥地铁站A西北口步行130米",
+      "distance": "36m"
+    },
+    {
+      "brand": "楚褚热干面",
+      "address": "新源南路1号-1至4层101内-1层地下一层B25-B26",
+      "distance": "38m"
+    },
+    {
+      "brand": "茶百道(北京朝阳都汇天地店)",
+      "address": "北京城区北京城区新源南路1号都汇天地商场B1层23号铺",
+      "distance": "38m"
+    },
+    {
+      "brand": "喜家德虾仁水饺(平安中心店)",
+      "address": "新源南路1号都汇天地B1层",
+      "distance": "38m"
+    },
+    {
+      "brand": "笨笨福慢熬骨汤米线(亮马桥店)",
+      "address": "北京城区北京城区亮马桥地铁平安国际金融中心地下一层",
+      "distance": "39m"
+    },
+    {
+      "brand": "HotPotato薯条专门店(新源南路店)",
+      "address": "北京城区新源南路1号-1至4层101内地下一层B56号",
+      "distance": "13m"
+    },
+    {
+      "brand": "极致·极度意大利经典比萨(亮马桥平安大厦店)",
+      "address": "北京城区新源南路1号-1至4层101内B1层B56号",
+      "distance": "13m"
+    },
+    {
+      "brand": "Grid Coffee(平安国际金融中心店)",
+      "address": "北京城区新源南路1号平安国际金融中心101号铺",
+      "distance": "14m"
+    },
+    {
+      "brand": "台客厚甲·台湾卤肉饭(平安金融中心店)",
+      "address": "北京城区新源南路1号平安国际金融中心B1地下一层鲸鱼街区B51号",
+      "distance": "15m"
+    },
+    {
+      "brand": "福安可越南小馆(平安金融中心店)",
+      "address": "北京城区新源南路1号-1至4层101内地下一层B19号-20号",
+      "distance": "35m"
+    },
+    {
+      "brand": "鱼你在一起(平安国际大厦店 )",
+      "address": "新源南路1号-1至4层101内-1层B106号亮马桥地铁站A西北口步行130米",
+      "distance": "36m"
+    },
+    {
+      "brand": "楚褚热干面",
+      "address": "新源南路1号-1至4层101内-1层地下一层B25-B26",
+      "distance": "38m"
+    },
+    {
+      "brand": "茶百道(北京朝阳都汇天地店)",
+      "address": "北京城区北京城区新源南路1号都汇天地商场B1层23号铺",
+      "distance": "38m"
+    },
+    {
+      "brand": "喜家德虾仁水饺(平安中心店)",
+      "address": "新源南路1号都汇天地B1层",
+      "distance": "38m"
+    },
+    {
+      "brand": "笨笨福慢熬骨汤米线(亮马桥店)",
+      "address": "北京城区北京城区亮马桥地铁平安国际金融中心地下一层",
+      "distance": "39m"
+    },
+    {
+      "brand": "HotPotato薯条专门店(新源南路店)",
+      "address": "北京城区新源南路1号-1至4层101内地下一层B56号",
+      "distance": "13m"
+    },
+    {
+      "brand": "极致·极度意大利经典比萨(亮马桥平安大厦店)",
+      "address": "北京城区新源南路1号-1至4层101内B1层B56号",
+      "distance": "13m"
+    },
+    {
+      "brand": "Grid Coffee(平安国际金融中心店)",
+      "address": "北京城区新源南路1号平安国际金融中心101号铺",
+      "distance": "14m"
+    },
+    {
+      "brand": "台客厚甲·台湾卤肉饭(平安金融中心店)",
+      "address": "北京城区新源南路1号平安国际金融中心B1地下一层鲸鱼街区B51号",
+      "distance": "15m"
+    },
+    {
+      "brand": "福安可越南小馆(平安金融中心店)",
+      "address": "北京城区新源南路1号-1至4层101内地下一层B19号-20号",
+      "distance": "35m"
+    },
+    {
+      "brand": "鱼你在一起(平安国际大厦店 )",
+      "address": "新源南路1号-1至4层101内-1层B106号亮马桥地铁站A西北口步行130米",
+      "distance": "36m"
+    },
+    {
+      "brand": "楚褚热干面",
+      "address": "新源南路1号-1至4层101内-1层地下一层B25-B26",
+      "distance": "38m"
+    },
+    {
+      "brand": "茶百道(北京朝阳都汇天地店)",
+      "address": "北京城区北京城区新源南路1号都汇天地商场B1层23号铺",
+      "distance": "38m"
+    },
+    {
+      "brand": "喜家德虾仁水饺(平安中心店)",
+      "address": "新源南路1号都汇天地B1层",
+      "distance": "38m"
+    },
+    {
+      "brand": "笨笨福慢熬骨汤米线(亮马桥店)",
+      "address": "北京城区北京城区亮马桥地铁平安国际金融中心地下一层",
+      "distance": "39m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "北京佳亿广场",
+      "open_date": "2001-09-18",
+      "area": "3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "北京燕莎友谊商城",
+      "open_date": "1992-06-30",
+      "area": "2.2万㎡",
+      "jun_daily_avg": "2万人次",
+      "weekday_avg": "2万人次",
+      "holiday_avg": "2.1万人次"
+    },
+    {
+      "name": "北京官舍",
+      "open_date": "2012-02-18",
+      "area": "1.1万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "北京SOLANA蓝色港湾",
+      "open_date": "2024-12-08",
+      "area": "13.6万㎡",
+      "jun_daily_avg": "6.3万人次",
+      "weekday_avg": "5.3万人次",
+      "holiday_avg": "9.2万人次"
+    },
+    {
+      "name": "北京凤凰汇购物中心",
+      "open_date": "2024-11-11",
+      "area": "1.2万㎡",
+      "jun_daily_avg": "2.1万人次",
+      "weekday_avg": "2.1万人次",
+      "holiday_avg": "2.1万人次"
+    },
+    {
+      "name": "北京三里屯3.3大厦",
+      "open_date": "2005-10-01",
+      "area": "4万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 42.0,
+      "within_1yr_pct": 19.0,
+      "1_3yr_pct": 26.2,
+      "over_3yr_pct": 54.8
+    },
+    {
+      "type": "购物",
+      "count": 9.0,
+      "within_1yr_pct": 44.4,
+      "1_3yr_pct": 11.1,
+      "over_3yr_pct": 44.4
+    },
+    {
+      "type": "酒店住宿",
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "生活服务",
+      "count": 15.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 46.7
+    },
+    {
+      "type": "运动健身",
+      "count": 4.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
+    }
+  ]
+}

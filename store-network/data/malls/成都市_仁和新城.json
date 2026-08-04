@@ -1,0 +1,243 @@
+{
+  "name": "仁和新城",
+  "city": "成都市",
+  "address": "广东省广州市越秀区北京街道北京街流水井社区星光老人之家何家祠道",
+  "lat": 30.973408,
+  "lng": 103.934558,
+  "overview": {
+    "score": 87.1,
+    "score_rank": "市内前30%",
+    "population_score": 85.9,
+    "area_score": 98.8,
+    "consumption_score": 84.7,
+    "industry_score": 87.0,
+    "annual_sales": "",
+    "annual_sales_unit": "",
+    "area_size_sqm": null,
+    "open_date": "",
+    "operator": "",
+    "brand": "",
+    "type": "",
+    "floors": ""
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "",
+    "annual_daily_rank": "",
+    "jun_total": null,
+    "jun_total_rank": "",
+    "jun_daily_avg": null,
+    "jun_daily_unit": "",
+    "jun_daily_rank": "",
+    "weekday_avg": null,
+    "weekday_unit": "",
+    "weekday_rank": "",
+    "holiday_avg": null,
+    "holiday_unit": "",
+    "holiday_rank": ""
+  },
+  "population": {
+    "residential": {
+      "500m": 2.7,
+      "1_5km": 35.2,
+      "3km": 124.0
+    },
+    "office": {
+      "500m": 4.0,
+      "1_5km": 31.2,
+      "3km": 90.5
+    },
+    "permanent": {
+      "500m": 6.1,
+      "1_5km": 39.9,
+      "3km": 134.4
+    }
+  },
+  "business": {
+    "competitors": 15.0,
+    "food": 853.0,
+    "shopping": 986.0,
+    "leisure": 179.0,
+    "education": 66.0,
+    "hotel": 217.0,
+    "services": 536.0,
+    "fitness": 38.0,
+    "auto": 25.0,
+    "total_stores": 2916.0,
+    "old_store_3yr_pct": 52.0
+  },
+  "nearby_poi": {
+    "business": 19.0,
+    "community": 724.0,
+    "office": 190.0,
+    "school": 113.0,
+    "hospital": 209.0,
+    "transport": 20.0,
+    "scenic": 1378.0
+  },
+  "demographics": {
+    "male_pct": 49.8,
+    "female_pct": null,
+    "education": {
+      "小学": 11.4,
+      "初中": 20.3,
+      "高中": 12.4,
+      "大专": 8.5,
+      "本科": 41.9,
+      "硕士": 4.2,
+      "博士": 1.3
+    },
+    "has_children_pct": null,
+    "no_children_pct": null
+  },
+  "scraped_at": "2026-08-02T07:39:05.088Z",
+  "nearby_restaurants": [
+    {
+      "brand": "渔米之香(侨力大厦店)",
+      "address": "广州起义路133号(海珠广场地铁站B3口步行460米)",
+      "distance": "497m"
+    },
+    {
+      "brand": "翠华餐厅(北京路天河城店)",
+      "address": "北京路168号北京路天河城B1层",
+      "distance": "498m"
+    },
+    {
+      "brand": "尊宝比萨(惠福西店)",
+      "address": "惠福西路406号首层",
+      "distance": "498m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "广州北京路天河城",
+      "open_date": "1996-08-18",
+      "area": "3万㎡",
+      "jun_daily_avg": "12.2万人次",
+      "weekday_avg": "10.4万人次",
+      "holiday_avg": "17.1万人次"
+    },
+    {
+      "name": "广州海印缤缤广场",
+      "open_date": "2001-05-01",
+      "area": "4万㎡",
+      "jun_daily_avg": "1.3万人次",
+      "weekday_avg": "1.2万人次",
+      "holiday_avg": "1.4万人次"
+    },
+    {
+      "name": "广州珠江星火1926",
+      "open_date": "2023-08-26",
+      "area": "3.5万㎡",
+      "jun_daily_avg": "4.1万人次",
+      "weekday_avg": "3.9万人次",
+      "holiday_avg": "4.5万人次"
+    },
+    {
+      "name": "广州万菱广场",
+      "open_date": "2004-10-01",
+      "area": "4万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "广州星寰国际商业中心",
+      "open_date": "2022-12-28",
+      "area": "6.5万㎡",
+      "jun_daily_avg": "4万人次",
+      "weekday_avg": "3.8万人次",
+      "holiday_avg": "4.5万人次"
+    },
+    {
+      "name": "广州越富创兴广场",
+      "open_date": "2000-01-01",
+      "area": "3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "广州西门口广场",
+      "open_date": "2015-12-01",
+      "area": "3万㎡",
+      "jun_daily_avg": "1.6万人次",
+      "weekday_avg": "1.5万人次",
+      "holiday_avg": "1.8万人次"
+    },
+    {
+      "name": "广州富邦中心",
+      "open_date": "2009-09-01",
+      "area": "1.7万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "广州江湾阳光天地",
+      "open_date": "2019-09-28",
+      "area": "3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 853.0,
+      "within_1yr_pct": 19.2,
+      "1_3yr_pct": 26.4,
+      "over_3yr_pct": 54.4
+    },
+    {
+      "type": "购物",
+      "count": 986.0,
+      "within_1yr_pct": 19.4,
+      "1_3yr_pct": 21.8,
+      "over_3yr_pct": 58.8
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 195.0,
+      "within_1yr_pct": 25.6,
+      "1_3yr_pct": 36.4,
+      "over_3yr_pct": 37.9
+    },
+    {
+      "type": "教育培训",
+      "count": 66.0,
+      "within_1yr_pct": 19.7,
+      "1_3yr_pct": 30.3,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 217.0,
+      "within_1yr_pct": 35.9,
+      "1_3yr_pct": 24.9,
+      "over_3yr_pct": 39.2
+    },
+    {
+      "type": "生活服务",
+      "count": 536.0,
+      "within_1yr_pct": 21.3,
+      "1_3yr_pct": 33.0,
+      "over_3yr_pct": 45.7
+    },
+    {
+      "type": "运动健身",
+      "count": 38.0,
+      "within_1yr_pct": 21.1,
+      "1_3yr_pct": 26.3,
+      "over_3yr_pct": 52.6
+    },
+    {
+      "type": "车辆服务",
+      "count": 25.0,
+      "within_1yr_pct": 28.0,
+      "1_3yr_pct": 44.0,
+      "over_3yr_pct": 28.0
+    }
+  ]
+}

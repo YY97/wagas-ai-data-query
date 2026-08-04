@@ -1,0 +1,479 @@
+{
+  "name": "狮山天街生活广场",
+  "city": "苏州市",
+  "address": "江苏省苏州市虎丘区塔园路180号",
+  "lat": 31.293775,
+  "lng": 120.555877,
+  "overview": {
+    "score": 92.4,
+    "score_rank": "市内前30%",
+    "population_score": 86.6,
+    "area_score": 94.3,
+    "consumption_score": 85.9,
+    "industry_score": 92.4,
+    "annual_sales": "苏州狮山天街位于苏州市高新区门户商圈，是政府重点打造的商贸核心区。项目与轻轨1号线和3号线无缝链接，周边四大道毗连全城，交通通达，覆盖狮山、枫桥、木渎、横塘、姑苏5大成熟板块。定位为“城市新趣生活全主场”，汇聚了400余个知名品牌，包括Ole’精品超市、西西弗书店、UME国际影城等，满足不同消费群体的需求。",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 27.0,
+    "open_date": "2017-09-28",
+    "operator": "龙湖集团控股有限公司",
+    "brand": "龙湖",
+    "type": "综合型",
+    "floors": "B1-L8"
+  },
+  "traffic": {
+    "annual_daily": 1.09,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第116",
+    "jun_total": 44.8,
+    "jun_total_rank": "市内商场第122名",
+    "jun_daily_avg": 1.5,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第122名",
+    "weekday_avg": 1.4,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第122名",
+    "holiday_avg": 1.7,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第127名"
+  },
+  "population": {
+    "residential": {
+      "500m": 1.1,
+      "1_5km": 8.5,
+      "3km": 36.6
+    },
+    "office": {
+      "500m": 1.3,
+      "1_5km": 6.2,
+      "3km": 23.1
+    },
+    "permanent": {
+      "500m": 2.0,
+      "1_5km": 9.7,
+      "3km": 35.9
+    }
+  },
+  "business": {
+    "competitors": 9.0,
+    "food": 374.0,
+    "shopping": 415.0,
+    "leisure": 52.0,
+    "education": 80.0,
+    "hotel": 13.0,
+    "services": 279.0,
+    "fitness": 34.0,
+    "auto": 28.0,
+    "total_stores": 332.0,
+    "old_store_3yr_pct": 45.0
+  },
+  "nearby_poi": {
+    "business": 10.0,
+    "community": 252.0,
+    "office": 38.0,
+    "school": 22.0,
+    "hospital": 44.0,
+    "transport": 9.0,
+    "scenic": 183.0
+  },
+  "demographics": {
+    "male_pct": 48.4,
+    "female_pct": null,
+    "education": {
+      "小学": 9.6,
+      "初中": 19.2,
+      "高中": 13.2,
+      "大专": 10.3,
+      "本科": 43.0,
+      "硕士": 4.0,
+      "博士": 0.7
+    },
+    "has_children_pct": 59.1,
+    "no_children_pct": 40.9
+  },
+  "scraped_at": "2026-08-02T10:45:42.179Z",
+  "nearby_restaurants": [
+    {
+      "brand": "穆蘭香兰州牛肉面",
+      "address": "狮山天街生活广场8幢106",
+      "distance": "6m"
+    },
+    {
+      "brand": "湘味记湖南特色菜(狮山店)",
+      "address": "塔园路181号狮山天街生活广场",
+      "distance": "11m"
+    },
+    {
+      "brand": "海圣娘海鲜卤面(狮山天街生活广场店)",
+      "address": "狮山街道龙湖金街6幢202",
+      "distance": "14m"
+    },
+    {
+      "brand": "本素·鲜活酸菜鱼(苏州龙湖店)",
+      "address": "苏州高新区塔园路181号龙湖狮山天街生活广场四期SZSSTJ-A-5F-23号",
+      "distance": "14m"
+    },
+    {
+      "brand": "甄稀冰淇淋生日蛋糕(狮山天街店)",
+      "address": "狮山街道塔园路181号狮山天街生活广场6幢206室",
+      "distance": "18m"
+    },
+    {
+      "brand": "桂花山川·手作糖水(苏州狮山龙湖店)",
+      "address": "塔园路181号狮山天街生活广场F5层",
+      "distance": "19m"
+    },
+    {
+      "brand": "Julius Meinl小红帽咖啡(龙湖狮山天街)",
+      "address": "狮子山龙湖金街生活广场6幢101",
+      "distance": "20m"
+    },
+    {
+      "brand": "牛呢炖了·牛腩煲饭(苏州虎丘店)",
+      "address": "狮山天街生活广场6栋(狮子山地铁站4B口步行400米)",
+      "distance": "20m"
+    },
+    {
+      "brand": "米小嗝东北砂锅米线(狮山龙湖店)",
+      "address": "狮山街道塔园路181号狮山天街生活广场8幢112室",
+      "distance": "20m"
+    },
+    {
+      "brand": "塔斯汀中国汉堡(苏州市虎丘狮山天街店)",
+      "address": "狮山天街生活广场",
+      "distance": "20m"
+    },
+    {
+      "brand": "穆蘭香兰州牛肉面",
+      "address": "狮山天街生活广场8幢106",
+      "distance": "6m"
+    },
+    {
+      "brand": "湘味记湖南特色菜(狮山店)",
+      "address": "塔园路181号狮山天街生活广场",
+      "distance": "11m"
+    },
+    {
+      "brand": "海圣娘海鲜卤面(狮山天街生活广场店)",
+      "address": "狮山街道龙湖金街6幢202",
+      "distance": "14m"
+    },
+    {
+      "brand": "本素·鲜活酸菜鱼(苏州龙湖店)",
+      "address": "苏州高新区塔园路181号龙湖狮山天街生活广场四期SZSSTJ-A-5F-23号",
+      "distance": "14m"
+    },
+    {
+      "brand": "甄稀冰淇淋生日蛋糕(狮山天街店)",
+      "address": "狮山街道塔园路181号狮山天街生活广场6幢206室",
+      "distance": "18m"
+    },
+    {
+      "brand": "桂花山川·手作糖水(苏州狮山龙湖店)",
+      "address": "塔园路181号狮山天街生活广场F5层",
+      "distance": "19m"
+    },
+    {
+      "brand": "Julius Meinl小红帽咖啡(龙湖狮山天街)",
+      "address": "狮子山龙湖金街生活广场6幢101",
+      "distance": "20m"
+    },
+    {
+      "brand": "牛呢炖了·牛腩煲饭(苏州虎丘店)",
+      "address": "狮山天街生活广场6栋(狮子山地铁站4B口步行400米)",
+      "distance": "20m"
+    },
+    {
+      "brand": "米小嗝东北砂锅米线(狮山龙湖店)",
+      "address": "狮山街道塔园路181号狮山天街生活广场8幢112室",
+      "distance": "20m"
+    },
+    {
+      "brand": "塔斯汀中国汉堡(苏州市虎丘狮山天街店)",
+      "address": "狮山天街生活广场",
+      "distance": "20m"
+    },
+    {
+      "brand": "穆蘭香兰州牛肉面",
+      "address": "狮山天街生活广场8幢106",
+      "distance": "6m"
+    },
+    {
+      "brand": "湘味记湖南特色菜(狮山店)",
+      "address": "塔园路181号狮山天街生活广场",
+      "distance": "11m"
+    },
+    {
+      "brand": "海圣娘海鲜卤面(狮山天街生活广场店)",
+      "address": "狮山街道龙湖金街6幢202",
+      "distance": "14m"
+    },
+    {
+      "brand": "本素·鲜活酸菜鱼(苏州龙湖店)",
+      "address": "苏州高新区塔园路181号龙湖狮山天街生活广场四期SZSSTJ-A-5F-23号",
+      "distance": "14m"
+    },
+    {
+      "brand": "甄稀冰淇淋生日蛋糕(狮山天街店)",
+      "address": "狮山街道塔园路181号狮山天街生活广场6幢206室",
+      "distance": "18m"
+    },
+    {
+      "brand": "桂花山川·手作糖水(苏州狮山龙湖店)",
+      "address": "塔园路181号狮山天街生活广场F5层",
+      "distance": "19m"
+    },
+    {
+      "brand": "Julius Meinl小红帽咖啡(龙湖狮山天街)",
+      "address": "狮子山龙湖金街生活广场6幢101",
+      "distance": "20m"
+    },
+    {
+      "brand": "牛呢炖了·牛腩煲饭(苏州虎丘店)",
+      "address": "狮山天街生活广场6栋(狮子山地铁站4B口步行400米)",
+      "distance": "20m"
+    },
+    {
+      "brand": "米小嗝东北砂锅米线(狮山龙湖店)",
+      "address": "狮山街道塔园路181号狮山天街生活广场8幢112室",
+      "distance": "20m"
+    },
+    {
+      "brand": "塔斯汀中国汉堡(苏州市虎丘狮山天街店)",
+      "address": "狮山天街生活广场",
+      "distance": "20m"
+    },
+    {
+      "brand": "穆蘭香兰州牛肉面",
+      "address": "狮山天街生活广场8幢106",
+      "distance": "6m"
+    },
+    {
+      "brand": "湘味记湖南特色菜(狮山店)",
+      "address": "塔园路181号狮山天街生活广场",
+      "distance": "11m"
+    },
+    {
+      "brand": "海圣娘海鲜卤面(狮山天街生活广场店)",
+      "address": "狮山街道龙湖金街6幢202",
+      "distance": "14m"
+    },
+    {
+      "brand": "本素·鲜活酸菜鱼(苏州龙湖店)",
+      "address": "苏州高新区塔园路181号龙湖狮山天街生活广场四期SZSSTJ-A-5F-23号",
+      "distance": "14m"
+    },
+    {
+      "brand": "甄稀冰淇淋生日蛋糕(狮山天街店)",
+      "address": "狮山街道塔园路181号狮山天街生活广场6幢206室",
+      "distance": "18m"
+    },
+    {
+      "brand": "桂花山川·手作糖水(苏州狮山龙湖店)",
+      "address": "塔园路181号狮山天街生活广场F5层",
+      "distance": "19m"
+    },
+    {
+      "brand": "Julius Meinl小红帽咖啡(龙湖狮山天街)",
+      "address": "狮子山龙湖金街生活广场6幢101",
+      "distance": "20m"
+    },
+    {
+      "brand": "牛呢炖了·牛腩煲饭(苏州虎丘店)",
+      "address": "狮山天街生活广场6栋(狮子山地铁站4B口步行400米)",
+      "distance": "20m"
+    },
+    {
+      "brand": "米小嗝东北砂锅米线(狮山龙湖店)",
+      "address": "狮山街道塔园路181号狮山天街生活广场8幢112室",
+      "distance": "20m"
+    },
+    {
+      "brand": "塔斯汀中国汉堡(苏州市虎丘狮山天街店)",
+      "address": "狮山天街生活广场",
+      "distance": "20m"
+    },
+    {
+      "brand": "穆蘭香兰州牛肉面",
+      "address": "狮山天街生活广场8幢106",
+      "distance": "6m"
+    },
+    {
+      "brand": "湘味记湖南特色菜(狮山店)",
+      "address": "塔园路181号狮山天街生活广场",
+      "distance": "11m"
+    },
+    {
+      "brand": "海圣娘海鲜卤面(狮山天街生活广场店)",
+      "address": "狮山街道龙湖金街6幢202",
+      "distance": "14m"
+    },
+    {
+      "brand": "本素·鲜活酸菜鱼(苏州龙湖店)",
+      "address": "苏州高新区塔园路181号龙湖狮山天街生活广场四期SZSSTJ-A-5F-23号",
+      "distance": "14m"
+    },
+    {
+      "brand": "甄稀冰淇淋生日蛋糕(狮山天街店)",
+      "address": "狮山街道塔园路181号狮山天街生活广场6幢206室",
+      "distance": "18m"
+    },
+    {
+      "brand": "桂花山川·手作糖水(苏州狮山龙湖店)",
+      "address": "塔园路181号狮山天街生活广场F5层",
+      "distance": "19m"
+    },
+    {
+      "brand": "Julius Meinl小红帽咖啡(龙湖狮山天街)",
+      "address": "狮子山龙湖金街生活广场6幢101",
+      "distance": "20m"
+    },
+    {
+      "brand": "牛呢炖了·牛腩煲饭(苏州虎丘店)",
+      "address": "狮山天街生活广场6栋(狮子山地铁站4B口步行400米)",
+      "distance": "20m"
+    },
+    {
+      "brand": "米小嗝东北砂锅米线(狮山龙湖店)",
+      "address": "狮山街道塔园路181号狮山天街生活广场8幢112室",
+      "distance": "20m"
+    },
+    {
+      "brand": "塔斯汀中国汉堡(苏州市虎丘狮山天街店)",
+      "address": "狮山天街生活广场",
+      "distance": "20m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "苏州龙湖狮山天街",
+      "open_date": "2017-09-28",
+      "area": "27万㎡",
+      "jun_daily_avg": "10.1万人次",
+      "weekday_avg": "8.8万人次",
+      "holiday_avg": "13.6万人次"
+    },
+    {
+      "name": "苏州金鹰国际购物中心(高新店)",
+      "open_date": "2017-01-18",
+      "area": "17万㎡",
+      "jun_daily_avg": "4万人次",
+      "weekday_avg": "3.4万人次",
+      "holiday_avg": "5.5万人次"
+    },
+    {
+      "name": "苏州吴宫丽都",
+      "open_date": "2006-01-01",
+      "area": "6.8万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "龙湖苏州狮山天街北里(B馆)",
+      "open_date": "2021-04-30",
+      "area": "4万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "苏州If Mall易生活购物公园",
+      "open_date": "2016-12-10",
+      "area": "6万㎡",
+      "jun_daily_avg": "1.8万人次",
+      "weekday_avg": "1.7万人次",
+      "holiday_avg": "2.4万人次"
+    },
+    {
+      "name": "苏州绿宝广场",
+      "open_date": "2007-04-28",
+      "area": "30万㎡",
+      "jun_daily_avg": "4.7万人次",
+      "weekday_avg": "4万人次",
+      "holiday_avg": "6.6万人次"
+    },
+    {
+      "name": "苏州红唐购物中心",
+      "open_date": "2021-09-01",
+      "area": "12万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "苏州佐阾锦华购物中心",
+      "open_date": "2002-01-01",
+      "area": "1万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "苏州泉屋百货",
+      "open_date": "2011-09-01",
+      "area": "3万㎡",
+      "jun_daily_avg": "1.7万人次",
+      "weekday_avg": "1.6万人次",
+      "holiday_avg": "2.1万人次"
+    },
+    {
+      "name": "苏州美罗商城(新区店)",
+      "open_date": "2012-01-05",
+      "area": "12.6万㎡",
+      "jun_daily_avg": "1.7万人次",
+      "weekday_avg": "1.6万人次",
+      "holiday_avg": "2万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 73.0,
+      "within_1yr_pct": 37.0,
+      "1_3yr_pct": 27.4,
+      "over_3yr_pct": 35.6
+    },
+    {
+      "type": "购物",
+      "count": 65.0,
+      "within_1yr_pct": 15.4,
+      "1_3yr_pct": 21.5,
+      "over_3yr_pct": 63.1
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 15.0,
+      "within_1yr_pct": 40.0,
+      "1_3yr_pct": 40.0,
+      "over_3yr_pct": 20.0
+    },
+    {
+      "type": "教育培训",
+      "count": 30.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 36.7,
+      "over_3yr_pct": 30.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "生活服务",
+      "count": 144.0,
+      "within_1yr_pct": 21.5,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 45.1
+    },
+    {
+      "type": "运动健身",
+      "count": 4.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    }
+  ]
+}

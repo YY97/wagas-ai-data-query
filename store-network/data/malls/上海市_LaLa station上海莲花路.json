@@ -1,0 +1,455 @@
+{
+  "name": "LaLa station上海莲花路",
+  "city": "上海市",
+  "address": "上海市闵行区梅陇镇罗锦路818号",
+  "lat": 31.122192,
+  "lng": 121.399265,
+  "overview": {
+    "score": 88.0,
+    "score_rank": "市内前30%",
+    "population_score": 77.4,
+    "area_score": 84.3,
+    "consumption_score": 80.4,
+    "industry_score": 88.1,
+    "annual_sales": "LaLa station上海莲花路是三井不动产在海外的首个车站大楼商业设施，位于上海地铁1号线莲花路站，是一个集车站、商业、办公于一体的复合型设施项目秉持“Smart Lifestyle Station”的设施理念，旨在为每天必经的车站增添乐趣，让车站使用者的常生活更丰富多彩",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 3.1,
+    "open_date": "2021-12-22",
+    "operator": "三井物产（中国）有限公司",
+    "brand": "",
+    "type": "美食型",
+    "floors": "L1-L5"
+  },
+  "traffic": {
+    "annual_daily": 1.62,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第168",
+    "jun_total": 51.0,
+    "jun_total_rank": "市内商场第209名",
+    "jun_daily_avg": 1.7,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第209名",
+    "weekday_avg": 1.6,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第209名",
+    "holiday_avg": 1.9,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第218名"
+  },
+  "population": {
+    "residential": {
+      "500m": 1.4,
+      "1_5km": 19.4,
+      "3km": 76.4
+    },
+    "office": {
+      "500m": 1.6,
+      "1_5km": 8.9,
+      "3km": 30.9
+    },
+    "permanent": {
+      "500m": 2.1,
+      "1_5km": 20.6,
+      "3km": 75.4
+    }
+  },
+  "business": {
+    "competitors": 9.0,
+    "food": 313.0,
+    "shopping": 236.0,
+    "leisure": 44.0,
+    "education": 89.0,
+    "hotel": 15.0,
+    "services": 182.0,
+    "fitness": 38.0,
+    "auto": 24.0,
+    "total_stores": 55.0,
+    "old_store_3yr_pct": 55.0
+  },
+  "nearby_poi": {
+    "business": 7.0,
+    "community": 368.0,
+    "office": 20.0,
+    "school": 36.0,
+    "hospital": 39.0,
+    "transport": 11.0,
+    "scenic": 78.0
+  },
+  "demographics": {
+    "male_pct": 48.0,
+    "female_pct": null,
+    "education": {
+      "小学": 8.7,
+      "初中": 15.8,
+      "高中": 11.0,
+      "大专": 6.8,
+      "本科": 49.7,
+      "硕士": 6.2,
+      "博士": 1.8
+    },
+    "has_children_pct": 60.9,
+    "no_children_pct": 39.1
+  },
+  "scraped_at": "2026-07-31T14:50:26.795Z",
+  "nearby_restaurants": [
+    {
+      "brand": "爷爷不泡茶NOYEYENOTEA(上海lala station莲花路店)",
+      "address": "沪闵路7399号LaLa station上海莲花路2楼213店铺",
+      "distance": "5m"
+    },
+    {
+      "brand": "西树泡芙(上海啦啦荟城莲花路店)",
+      "address": "沪闵路7399号1楼105A号",
+      "distance": "6m"
+    },
+    {
+      "brand": "上海虹口糕团食品厂(莲花路地铁站店)",
+      "address": "莲花路地铁站出入口处(LaLastation二楼)",
+      "distance": "6m"
+    },
+    {
+      "brand": "琦王花生(上海闵行莲花路啦啦荟城店)",
+      "address": "沪闵路7399号啦啦荟城1层193室(莲花路地铁站出入口旁)",
+      "distance": "6m"
+    },
+    {
+      "brand": "森时光(莲花路店)",
+      "address": "LaLa station上海莲花路",
+      "distance": "9m"
+    },
+    {
+      "brand": "百春原湖南牛肉粉(莲花路店)",
+      "address": "沪闵路7399号4楼425-426(莲花路地铁站出入口旁)",
+      "distance": "9m"
+    },
+    {
+      "brand": "CoCo壱番屋(沪闵路店)",
+      "address": "LaLa station上海莲花路4层",
+      "distance": "13m"
+    },
+    {
+      "brand": "瑞幸咖啡(中庚漫游城店)",
+      "address": "闵虹路8号中庚·漫游城B1(莲花路地铁站3号口步行470米)",
+      "distance": "13m"
+    },
+    {
+      "brand": "胡子大厨·湖南小炒(啦啦荟城店)",
+      "address": "沪闵路7399号4楼424室",
+      "distance": "14m"
+    },
+    {
+      "brand": "布歌东京(上海LaLastation店)",
+      "address": "LaLa station上海莲花路(莲花路地铁站出入口旁)",
+      "distance": "15m"
+    },
+    {
+      "brand": "爷爷不泡茶NOYEYENOTEA(上海lala station莲花路店)",
+      "address": "沪闵路7399号LaLa station上海莲花路2楼213店铺",
+      "distance": "5m"
+    },
+    {
+      "brand": "西树泡芙(上海啦啦荟城莲花路店)",
+      "address": "沪闵路7399号1楼105A号",
+      "distance": "6m"
+    },
+    {
+      "brand": "上海虹口糕团食品厂(莲花路地铁站店)",
+      "address": "莲花路地铁站出入口处(LaLastation二楼)",
+      "distance": "6m"
+    },
+    {
+      "brand": "琦王花生(上海闵行莲花路啦啦荟城店)",
+      "address": "沪闵路7399号啦啦荟城1层193室(莲花路地铁站出入口旁)",
+      "distance": "6m"
+    },
+    {
+      "brand": "森时光(莲花路店)",
+      "address": "LaLa station上海莲花路",
+      "distance": "9m"
+    },
+    {
+      "brand": "百春原湖南牛肉粉(莲花路店)",
+      "address": "沪闵路7399号4楼425-426(莲花路地铁站出入口旁)",
+      "distance": "9m"
+    },
+    {
+      "brand": "CoCo壱番屋(沪闵路店)",
+      "address": "LaLa station上海莲花路4层",
+      "distance": "13m"
+    },
+    {
+      "brand": "瑞幸咖啡(中庚漫游城店)",
+      "address": "闵虹路8号中庚·漫游城B1(莲花路地铁站3号口步行470米)",
+      "distance": "13m"
+    },
+    {
+      "brand": "胡子大厨·湖南小炒(啦啦荟城店)",
+      "address": "沪闵路7399号4楼424室",
+      "distance": "14m"
+    },
+    {
+      "brand": "布歌东京(上海LaLastation店)",
+      "address": "LaLa station上海莲花路(莲花路地铁站出入口旁)",
+      "distance": "15m"
+    },
+    {
+      "brand": "爷爷不泡茶NOYEYENOTEA(上海lala station莲花路店)",
+      "address": "沪闵路7399号LaLa station上海莲花路2楼213店铺",
+      "distance": "5m"
+    },
+    {
+      "brand": "西树泡芙(上海啦啦荟城莲花路店)",
+      "address": "沪闵路7399号1楼105A号",
+      "distance": "6m"
+    },
+    {
+      "brand": "上海虹口糕团食品厂(莲花路地铁站店)",
+      "address": "莲花路地铁站出入口处(LaLastation二楼)",
+      "distance": "6m"
+    },
+    {
+      "brand": "琦王花生(上海闵行莲花路啦啦荟城店)",
+      "address": "沪闵路7399号啦啦荟城1层193室(莲花路地铁站出入口旁)",
+      "distance": "6m"
+    },
+    {
+      "brand": "森时光(莲花路店)",
+      "address": "LaLa station上海莲花路",
+      "distance": "9m"
+    },
+    {
+      "brand": "百春原湖南牛肉粉(莲花路店)",
+      "address": "沪闵路7399号4楼425-426(莲花路地铁站出入口旁)",
+      "distance": "9m"
+    },
+    {
+      "brand": "CoCo壱番屋(沪闵路店)",
+      "address": "LaLa station上海莲花路4层",
+      "distance": "13m"
+    },
+    {
+      "brand": "瑞幸咖啡(中庚漫游城店)",
+      "address": "闵虹路8号中庚·漫游城B1(莲花路地铁站3号口步行470米)",
+      "distance": "13m"
+    },
+    {
+      "brand": "胡子大厨·湖南小炒(啦啦荟城店)",
+      "address": "沪闵路7399号4楼424室",
+      "distance": "14m"
+    },
+    {
+      "brand": "布歌东京(上海LaLastation店)",
+      "address": "LaLa station上海莲花路(莲花路地铁站出入口旁)",
+      "distance": "15m"
+    },
+    {
+      "brand": "爷爷不泡茶NOYEYENOTEA(上海lala station莲花路店)",
+      "address": "沪闵路7399号LaLa station上海莲花路2楼213店铺",
+      "distance": "5m"
+    },
+    {
+      "brand": "西树泡芙(上海啦啦荟城莲花路店)",
+      "address": "沪闵路7399号1楼105A号",
+      "distance": "6m"
+    },
+    {
+      "brand": "上海虹口糕团食品厂(莲花路地铁站店)",
+      "address": "莲花路地铁站出入口处(LaLastation二楼)",
+      "distance": "6m"
+    },
+    {
+      "brand": "琦王花生(上海闵行莲花路啦啦荟城店)",
+      "address": "沪闵路7399号啦啦荟城1层193室(莲花路地铁站出入口旁)",
+      "distance": "6m"
+    },
+    {
+      "brand": "森时光(莲花路店)",
+      "address": "LaLa station上海莲花路",
+      "distance": "9m"
+    },
+    {
+      "brand": "百春原湖南牛肉粉(莲花路店)",
+      "address": "沪闵路7399号4楼425-426(莲花路地铁站出入口旁)",
+      "distance": "9m"
+    },
+    {
+      "brand": "CoCo壱番屋(沪闵路店)",
+      "address": "LaLa station上海莲花路4层",
+      "distance": "13m"
+    },
+    {
+      "brand": "瑞幸咖啡(中庚漫游城店)",
+      "address": "闵虹路8号中庚·漫游城B1(莲花路地铁站3号口步行470米)",
+      "distance": "13m"
+    },
+    {
+      "brand": "胡子大厨·湖南小炒(啦啦荟城店)",
+      "address": "沪闵路7399号4楼424室",
+      "distance": "14m"
+    },
+    {
+      "brand": "布歌东京(上海LaLastation店)",
+      "address": "LaLa station上海莲花路(莲花路地铁站出入口旁)",
+      "distance": "15m"
+    },
+    {
+      "brand": "爷爷不泡茶NOYEYENOTEA(上海lala station莲花路店)",
+      "address": "沪闵路7399号LaLa station上海莲花路2楼213店铺",
+      "distance": "5m"
+    },
+    {
+      "brand": "西树泡芙(上海啦啦荟城莲花路店)",
+      "address": "沪闵路7399号1楼105A号",
+      "distance": "6m"
+    },
+    {
+      "brand": "上海虹口糕团食品厂(莲花路地铁站店)",
+      "address": "莲花路地铁站出入口处(LaLastation二楼)",
+      "distance": "6m"
+    },
+    {
+      "brand": "琦王花生(上海闵行莲花路啦啦荟城店)",
+      "address": "沪闵路7399号啦啦荟城1层193室(莲花路地铁站出入口旁)",
+      "distance": "6m"
+    },
+    {
+      "brand": "森时光(莲花路店)",
+      "address": "LaLa station上海莲花路",
+      "distance": "9m"
+    },
+    {
+      "brand": "百春原湖南牛肉粉(莲花路店)",
+      "address": "沪闵路7399号4楼425-426(莲花路地铁站出入口旁)",
+      "distance": "9m"
+    },
+    {
+      "brand": "CoCo壱番屋(沪闵路店)",
+      "address": "LaLa station上海莲花路4层",
+      "distance": "13m"
+    },
+    {
+      "brand": "瑞幸咖啡(中庚漫游城店)",
+      "address": "闵虹路8号中庚·漫游城B1(莲花路地铁站3号口步行470米)",
+      "distance": "13m"
+    },
+    {
+      "brand": "胡子大厨·湖南小炒(啦啦荟城店)",
+      "address": "沪闵路7399号4楼424室",
+      "distance": "14m"
+    },
+    {
+      "brand": "布歌东京(上海LaLastation店)",
+      "address": "LaLa station上海莲花路(莲花路地铁站出入口旁)",
+      "distance": "15m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海百联南方购物中心一区",
+      "open_date": "1999-09-01",
+      "area": "10万㎡",
+      "jun_daily_avg": "9.7万人次",
+      "weekday_avg": "8.8万人次",
+      "holiday_avg": "12万人次"
+    },
+    {
+      "name": "上海百联南方购物中心二区",
+      "open_date": "1999-01-01",
+      "area": "6万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海莲花国际广场",
+      "open_date": "2011-01-01",
+      "area": "5万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海中庚漫游城",
+      "open_date": "2018-10-26",
+      "area": "15万㎡",
+      "jun_daily_avg": "7.8万人次",
+      "weekday_avg": "6.8万人次",
+      "holiday_avg": "10.5万人次"
+    },
+    {
+      "name": "上海力波·九坊",
+      "open_date": "2023-08-15",
+      "area": "3.9万㎡",
+      "jun_daily_avg": "1.7万人次",
+      "weekday_avg": "1.6万人次",
+      "holiday_avg": "1.9万人次"
+    },
+    {
+      "name": "上海万源坊",
+      "open_date": "2005-06-10",
+      "area": "3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海城开优享+",
+      "open_date": "2021-07-09",
+      "area": "8000㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 25.0,
+      "within_1yr_pct": 12.0,
+      "1_3yr_pct": 24.0,
+      "over_3yr_pct": 64.0
+    },
+    {
+      "type": "购物",
+      "count": 9.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 11.1,
+      "over_3yr_pct": 55.6
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 2.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "教育培训",
+      "count": 4.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "生活服务",
+      "count": 12.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "运动健身",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 50.0
+    }
+  ]
+}

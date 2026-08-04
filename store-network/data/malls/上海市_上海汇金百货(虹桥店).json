@@ -1,0 +1,479 @@
+{
+  "name": "上海汇金百货(虹桥店)",
+  "city": "上海市",
+  "address": "上海市长宁区天山路900号",
+  "lat": 31.211507,
+  "lng": 121.405071,
+  "overview": {
+    "score": 91.5,
+    "score_rank": "市内前30%",
+    "population_score": 100.0,
+    "area_score": 95.5,
+    "consumption_score": 75.4,
+    "industry_score": 91.4,
+    "annual_sales": "汇金百货虹桥店地处上海市级商业中心之一的虹桥商圈共8个营业层面。地下二层与地铁2号线站厅直接相连，地面有多条公交线路站点，交通十分便利。商场内经营男女服饰、黄金珠宝、手表饰品、家居用品、童装童品等30多个商品大类，近十万种商品。品牌构成涵盖诸多国内主要知名品牌，以中高档商品为主，满足周边顾客的日常消费需求。同时商场内设有人气美食、电影院、美容美发等休闲娱乐设施，与购物消费形成有效互动，使汇金百货虹桥店成为集购物、休闲、娱乐为一体的大型综合性百货商场",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 4.0,
+    "open_date": "2008-12-01",
+    "operator": "上海徐家汇商城股份有限公司",
+    "brand": "",
+    "type": "综合型",
+    "floors": "L1-L8"
+  },
+  "traffic": {
+    "annual_daily": 7096.0,
+    "annual_daily_unit": "人次",
+    "annual_daily_rank": "市内第314",
+    "jun_total": 37.8,
+    "jun_total_rank": "市内商场第262名",
+    "jun_daily_avg": 1.3,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第262名",
+    "weekday_avg": 1.2,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第262名",
+    "holiday_avg": 1.5,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第248名"
+  },
+  "population": {
+    "residential": {
+      "500m": 4.3,
+      "1_5km": 24.3,
+      "3km": 88.4
+    },
+    "office": {
+      "500m": 4.1,
+      "1_5km": 21.2,
+      "3km": 70.0
+    },
+    "permanent": {
+      "500m": 5.6,
+      "1_5km": 28.0,
+      "3km": 95.8
+    }
+  },
+  "business": {
+    "competitors": 18.0,
+    "food": 512.0,
+    "shopping": 322.0,
+    "leisure": 29.0,
+    "education": 38.0,
+    "hotel": 37.0,
+    "services": 256.0,
+    "fitness": 63.0,
+    "auto": 25.0,
+    "total_stores": 114.0,
+    "old_store_3yr_pct": 45.0
+  },
+  "nearby_poi": {
+    "business": 12.0,
+    "community": 845.0,
+    "office": 99.0,
+    "school": 48.0,
+    "hospital": 147.0,
+    "transport": 17.0,
+    "scenic": 320.0
+  },
+  "demographics": {
+    "male_pct": 47.1,
+    "female_pct": null,
+    "education": {
+      "小学": 8.8,
+      "初中": 17.1,
+      "高中": 11.8,
+      "大专": 6.7,
+      "本科": 48.4,
+      "硕士": 5.4,
+      "博士": 1.8
+    },
+    "has_children_pct": 58.8,
+    "no_children_pct": 41.2
+  },
+  "scraped_at": "2026-07-31T16:48:51.352Z",
+  "nearby_restaurants": [
+    {
+      "brand": "巫山烤全鱼(天山路店)",
+      "address": "天山路900号汇金百货B1层(近娄山关路地铁站)",
+      "distance": "2m"
+    },
+    {
+      "brand": "外婆甸炒饭(虹桥汇金百货店)",
+      "address": "天山路900号汇金百货虹桥店6F层(娄山关路地铁站1号口旁)",
+      "distance": "3m"
+    },
+    {
+      "brand": "THE 817 BURGER美式汉堡(汇金百货店)",
+      "address": "天山路与娄山关路交叉口东北80米",
+      "distance": "4m"
+    },
+    {
+      "brand": "泰澜东南亚美食小馆",
+      "address": "天山路与娄山关路交叉口东北80米(娄山关路地铁站1号口旁)",
+      "distance": "4m"
+    },
+    {
+      "brand": "蟹往今来阳澄湖大闸蟹(天山店)",
+      "address": "汇金百货(虹桥店)(娄山关路地铁站1号口旁)",
+      "distance": "4m"
+    },
+    {
+      "brand": "诺原·轻火锅(汇金百货店)",
+      "address": "天山路街道天山路900号汇金百货虹桥店4F-22区域",
+      "distance": "4m"
+    },
+    {
+      "brand": "SKYLINE美式汉堡(汇金百货虹桥店)",
+      "address": "天山路900号汇金百货虹桥店6F层(娄山关路地铁站1号口旁)",
+      "distance": "4m"
+    },
+    {
+      "brand": "叶聚兴枫泾非遗糯味手作(天山路店)",
+      "address": "天山路与娄山关路交叉口东北80米(娄山关路地铁站1号口旁)",
+      "distance": "5m"
+    },
+    {
+      "brand": "Fusion美式汉堡",
+      "address": "天山路900号汇金百货虹桥店6楼(娄山关路地铁站1号口旁)",
+      "distance": "5m"
+    },
+    {
+      "brand": "花小小新疆炒米粉(仙霞路店)",
+      "address": "天山路900号汇金百货6楼大厅A5(娄山关路地铁站1号口旁)",
+      "distance": "6m"
+    },
+    {
+      "brand": "巫山烤全鱼(天山路店)",
+      "address": "天山路900号汇金百货B1层(近娄山关路地铁站)",
+      "distance": "2m"
+    },
+    {
+      "brand": "外婆甸炒饭(虹桥汇金百货店)",
+      "address": "天山路900号汇金百货虹桥店6F层(娄山关路地铁站1号口旁)",
+      "distance": "3m"
+    },
+    {
+      "brand": "THE 817 BURGER美式汉堡(汇金百货店)",
+      "address": "天山路与娄山关路交叉口东北80米",
+      "distance": "4m"
+    },
+    {
+      "brand": "泰澜东南亚美食小馆",
+      "address": "天山路与娄山关路交叉口东北80米(娄山关路地铁站1号口旁)",
+      "distance": "4m"
+    },
+    {
+      "brand": "蟹往今来阳澄湖大闸蟹(天山店)",
+      "address": "汇金百货(虹桥店)(娄山关路地铁站1号口旁)",
+      "distance": "4m"
+    },
+    {
+      "brand": "诺原·轻火锅(汇金百货店)",
+      "address": "天山路街道天山路900号汇金百货虹桥店4F-22区域",
+      "distance": "4m"
+    },
+    {
+      "brand": "SKYLINE美式汉堡(汇金百货虹桥店)",
+      "address": "天山路900号汇金百货虹桥店6F层(娄山关路地铁站1号口旁)",
+      "distance": "4m"
+    },
+    {
+      "brand": "叶聚兴枫泾非遗糯味手作(天山路店)",
+      "address": "天山路与娄山关路交叉口东北80米(娄山关路地铁站1号口旁)",
+      "distance": "5m"
+    },
+    {
+      "brand": "Fusion美式汉堡",
+      "address": "天山路900号汇金百货虹桥店6楼(娄山关路地铁站1号口旁)",
+      "distance": "5m"
+    },
+    {
+      "brand": "花小小新疆炒米粉(仙霞路店)",
+      "address": "天山路900号汇金百货6楼大厅A5(娄山关路地铁站1号口旁)",
+      "distance": "6m"
+    },
+    {
+      "brand": "巫山烤全鱼(天山路店)",
+      "address": "天山路900号汇金百货B1层(近娄山关路地铁站)",
+      "distance": "2m"
+    },
+    {
+      "brand": "外婆甸炒饭(虹桥汇金百货店)",
+      "address": "天山路900号汇金百货虹桥店6F层(娄山关路地铁站1号口旁)",
+      "distance": "3m"
+    },
+    {
+      "brand": "THE 817 BURGER美式汉堡(汇金百货店)",
+      "address": "天山路与娄山关路交叉口东北80米",
+      "distance": "4m"
+    },
+    {
+      "brand": "泰澜东南亚美食小馆",
+      "address": "天山路与娄山关路交叉口东北80米(娄山关路地铁站1号口旁)",
+      "distance": "4m"
+    },
+    {
+      "brand": "蟹往今来阳澄湖大闸蟹(天山店)",
+      "address": "汇金百货(虹桥店)(娄山关路地铁站1号口旁)",
+      "distance": "4m"
+    },
+    {
+      "brand": "诺原·轻火锅(汇金百货店)",
+      "address": "天山路街道天山路900号汇金百货虹桥店4F-22区域",
+      "distance": "4m"
+    },
+    {
+      "brand": "SKYLINE美式汉堡(汇金百货虹桥店)",
+      "address": "天山路900号汇金百货虹桥店6F层(娄山关路地铁站1号口旁)",
+      "distance": "4m"
+    },
+    {
+      "brand": "叶聚兴枫泾非遗糯味手作(天山路店)",
+      "address": "天山路与娄山关路交叉口东北80米(娄山关路地铁站1号口旁)",
+      "distance": "5m"
+    },
+    {
+      "brand": "Fusion美式汉堡",
+      "address": "天山路900号汇金百货虹桥店6楼(娄山关路地铁站1号口旁)",
+      "distance": "5m"
+    },
+    {
+      "brand": "花小小新疆炒米粉(仙霞路店)",
+      "address": "天山路900号汇金百货6楼大厅A5(娄山关路地铁站1号口旁)",
+      "distance": "6m"
+    },
+    {
+      "brand": "巫山烤全鱼(天山路店)",
+      "address": "天山路900号汇金百货B1层(近娄山关路地铁站)",
+      "distance": "2m"
+    },
+    {
+      "brand": "外婆甸炒饭(虹桥汇金百货店)",
+      "address": "天山路900号汇金百货虹桥店6F层(娄山关路地铁站1号口旁)",
+      "distance": "3m"
+    },
+    {
+      "brand": "THE 817 BURGER美式汉堡(汇金百货店)",
+      "address": "天山路与娄山关路交叉口东北80米",
+      "distance": "4m"
+    },
+    {
+      "brand": "泰澜东南亚美食小馆",
+      "address": "天山路与娄山关路交叉口东北80米(娄山关路地铁站1号口旁)",
+      "distance": "4m"
+    },
+    {
+      "brand": "蟹往今来阳澄湖大闸蟹(天山店)",
+      "address": "汇金百货(虹桥店)(娄山关路地铁站1号口旁)",
+      "distance": "4m"
+    },
+    {
+      "brand": "诺原·轻火锅(汇金百货店)",
+      "address": "天山路街道天山路900号汇金百货虹桥店4F-22区域",
+      "distance": "4m"
+    },
+    {
+      "brand": "SKYLINE美式汉堡(汇金百货虹桥店)",
+      "address": "天山路900号汇金百货虹桥店6F层(娄山关路地铁站1号口旁)",
+      "distance": "4m"
+    },
+    {
+      "brand": "叶聚兴枫泾非遗糯味手作(天山路店)",
+      "address": "天山路与娄山关路交叉口东北80米(娄山关路地铁站1号口旁)",
+      "distance": "5m"
+    },
+    {
+      "brand": "Fusion美式汉堡",
+      "address": "天山路900号汇金百货虹桥店6楼(娄山关路地铁站1号口旁)",
+      "distance": "5m"
+    },
+    {
+      "brand": "花小小新疆炒米粉(仙霞路店)",
+      "address": "天山路900号汇金百货6楼大厅A5(娄山关路地铁站1号口旁)",
+      "distance": "6m"
+    },
+    {
+      "brand": "巫山烤全鱼(天山路店)",
+      "address": "天山路900号汇金百货B1层(近娄山关路地铁站)",
+      "distance": "2m"
+    },
+    {
+      "brand": "外婆甸炒饭(虹桥汇金百货店)",
+      "address": "天山路900号汇金百货虹桥店6F层(娄山关路地铁站1号口旁)",
+      "distance": "3m"
+    },
+    {
+      "brand": "THE 817 BURGER美式汉堡(汇金百货店)",
+      "address": "天山路与娄山关路交叉口东北80米",
+      "distance": "4m"
+    },
+    {
+      "brand": "泰澜东南亚美食小馆",
+      "address": "天山路与娄山关路交叉口东北80米(娄山关路地铁站1号口旁)",
+      "distance": "4m"
+    },
+    {
+      "brand": "蟹往今来阳澄湖大闸蟹(天山店)",
+      "address": "汇金百货(虹桥店)(娄山关路地铁站1号口旁)",
+      "distance": "4m"
+    },
+    {
+      "brand": "诺原·轻火锅(汇金百货店)",
+      "address": "天山路街道天山路900号汇金百货虹桥店4F-22区域",
+      "distance": "4m"
+    },
+    {
+      "brand": "SKYLINE美式汉堡(汇金百货虹桥店)",
+      "address": "天山路900号汇金百货虹桥店6F层(娄山关路地铁站1号口旁)",
+      "distance": "4m"
+    },
+    {
+      "brand": "叶聚兴枫泾非遗糯味手作(天山路店)",
+      "address": "天山路与娄山关路交叉口东北80米(娄山关路地铁站1号口旁)",
+      "distance": "5m"
+    },
+    {
+      "brand": "Fusion美式汉堡",
+      "address": "天山路900号汇金百货虹桥店6楼(娄山关路地铁站1号口旁)",
+      "distance": "5m"
+    },
+    {
+      "brand": "花小小新疆炒米粉(仙霞路店)",
+      "address": "天山路900号汇金百货6楼大厅A5(娄山关路地铁站1号口旁)",
+      "distance": "6m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海百盛优客城市广场",
+      "open_date": "2015-12-19",
+      "area": "5万㎡",
+      "jun_daily_avg": "3万人次",
+      "weekday_avg": "2.7万人次",
+      "holiday_avg": "3.6万人次"
+    },
+    {
+      "name": "上海巴黎春天(天山店)",
+      "open_date": "2013-01-01",
+      "area": "4.3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海金虹桥商场",
+      "open_date": "2014-09-26",
+      "area": "8.3万㎡",
+      "jun_daily_avg": "4.6万人次",
+      "weekday_avg": "4.6万人次",
+      "holiday_avg": "4.5万人次"
+    },
+    {
+      "name": "上海虹桥南丰城",
+      "open_date": "2014-12-19",
+      "area": "11万㎡",
+      "jun_daily_avg": "5.6万人次",
+      "weekday_avg": "5.5万人次",
+      "holiday_avg": "6万人次"
+    },
+    {
+      "name": "上海尚嘉中心",
+      "open_date": "2013-06-01",
+      "area": "4.9万㎡",
+      "jun_daily_avg": "1.6万人次",
+      "weekday_avg": "1.7万人次",
+      "holiday_avg": "1.3万人次"
+    },
+    {
+      "name": "上海长宁来福士广场",
+      "open_date": "2017-06-30",
+      "area": "12万㎡",
+      "jun_daily_avg": "3.6万人次",
+      "weekday_avg": "3.4万人次",
+      "holiday_avg": "4.1万人次"
+    },
+    {
+      "name": "上海世贸商城",
+      "open_date": "1999-01-01",
+      "area": "19万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海龙之梦城市生活中心",
+      "open_date": "2006-12-01",
+      "area": "19.8万㎡",
+      "jun_daily_avg": "9.5万人次",
+      "weekday_avg": "8.6万人次",
+      "holiday_avg": "11.9万人次"
+    },
+    {
+      "name": "上海兆丰广场",
+      "open_date": "2016-01-01",
+      "area": "6万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海玫瑰坊",
+      "open_date": "2004-05-01",
+      "area": "1.7万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 52.0,
+      "within_1yr_pct": 36.5,
+      "1_3yr_pct": 26.9,
+      "over_3yr_pct": 36.5
+    },
+    {
+      "type": "购物",
+      "count": 34.0,
+      "within_1yr_pct": 26.5,
+      "1_3yr_pct": 20.6,
+      "over_3yr_pct": 52.9
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 7.0,
+      "within_1yr_pct": 14.3,
+      "1_3yr_pct": 28.6,
+      "over_3yr_pct": 57.1
+    },
+    {
+      "type": "教育培训",
+      "count": 3.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 66.7,
+      "over_3yr_pct": 33.3
+    },
+    {
+      "type": "酒店住宿",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    },
+    {
+      "type": "生活服务",
+      "count": 12.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "运动健身",
+      "count": 5.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 60.0,
+      "over_3yr_pct": 40.0
+    }
+  ]
+}

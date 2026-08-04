@@ -1,0 +1,454 @@
+{
+  "name": "青岛万象城",
+  "city": "青岛市",
+  "address": "山东省青岛市市南区山东路6号甲(五四广场地铁站出入口旁)",
+  "lat": 36.06274,
+  "lng": 120.384576,
+  "overview": {
+    "score": 96.9,
+    "score_rank": "市内前30%",
+    "population_score": 87.8,
+    "area_score": 93.1,
+    "consumption_score": 91.1,
+    "industry_score": 97.0,
+    "annual_sales": "45",
+    "annual_sales_unit": "亿元",
+    "area_size_sqm": 36.29,
+    "open_date": "2015-04-01",
+    "operator": "华润万象生活有限公司",
+    "brand": "华润",
+    "type": "购物型",
+    "floors": "B1-L4"
+  },
+  "traffic": {
+    "annual_daily": 11.85,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第1",
+    "jun_total": 486.1,
+    "jun_total_rank": "市内商场第1名",
+    "jun_daily_avg": 16.2,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第1名",
+    "weekday_avg": 14.5,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第1名",
+    "holiday_avg": 20.8,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第1名"
+  },
+  "population": {
+    "residential": {
+      "500m": 1.6,
+      "1_5km": 14.1,
+      "3km": 51.2
+    },
+    "office": {
+      "500m": 2.9,
+      "1_5km": 16.2,
+      "3km": 42.1
+    },
+    "permanent": {
+      "500m": 3.0,
+      "1_5km": 20.0,
+      "3km": 60.9
+    }
+  },
+  "business": {
+    "competitors": 8.0,
+    "food": 315.0,
+    "shopping": 467.0,
+    "leisure": 45.0,
+    "education": 49.0,
+    "hotel": 154.0,
+    "services": 270.0,
+    "fitness": 28.0,
+    "auto": 40.0,
+    "total_stores": 838.0,
+    "old_store_3yr_pct": 47.0
+  },
+  "nearby_poi": {
+    "business": 6.0,
+    "community": 427.0,
+    "office": 89.0,
+    "school": 29.0,
+    "hospital": 207.0,
+    "transport": 16.0,
+    "scenic": 372.0
+  },
+  "demographics": {
+    "male_pct": 46.5,
+    "female_pct": null,
+    "education": {
+      "小学": 9.5,
+      "初中": 15.8,
+      "高中": 12.6,
+      "大专": 9.1,
+      "本科": 46.9,
+      "硕士": 4.8,
+      "博士": 1.3
+    },
+    "has_children_pct": 56.3,
+    "no_children_pct": 43.7
+  },
+  "scraped_at": "2026-07-31T14:01:43.060Z",
+  "nearby_restaurants": [
+    {
+      "brand": "贵州蘸水活油烙锅",
+      "address": "青岛万象城(五四广场地铁站A2口步行240米)",
+      "distance": "2m"
+    },
+    {
+      "brand": "烹小鲜椰子鸡(青岛万象城店)",
+      "address": "湛山街道山东路6号甲青岛万象城L6层L-608A",
+      "distance": "10m"
+    },
+    {
+      "brand": "美珍香(青岛万象城店)",
+      "address": "山东路6号甲青岛万象城L5层L538a",
+      "distance": "11m"
+    },
+    {
+      "brand": "YEGUO(青岛万象城1期)",
+      "address": "青岛万象城1期(五四广场地铁站A2口步行240米)",
+      "distance": "11m"
+    },
+    {
+      "brand": "开海·红岛海鲜虾水饺店(万象城店)",
+      "address": "山东路6号华润万象城一期四层中庭L422",
+      "distance": "12m"
+    },
+    {
+      "brand": "星巴克(青岛万象城店)",
+      "address": "山东路6号甲青岛万象城L5层",
+      "distance": "13m"
+    },
+    {
+      "brand": "入口天物(青岛万象城店)",
+      "address": "山东路6号甲青岛万象城1期B1层",
+      "distance": "14m"
+    },
+    {
+      "brand": "星巴克(青岛万象城第二分店)",
+      "address": "山东路6号华润中心万象城地上5层L-537",
+      "distance": "15m"
+    },
+    {
+      "brand": "芒果树泰国餐厅(万象城店)",
+      "address": "山东路6号甲华润中心万象城B1层B122",
+      "distance": "15m"
+    },
+    {
+      "brand": "湘爱(青岛万象城店)",
+      "address": "万象城L3-355(五四广场地铁站A2口步行240米)",
+      "distance": "15m"
+    },
+    {
+      "brand": "贵州蘸水活油烙锅",
+      "address": "青岛万象城(五四广场地铁站A2口步行240米)",
+      "distance": "2m"
+    },
+    {
+      "brand": "烹小鲜椰子鸡(青岛万象城店)",
+      "address": "湛山街道山东路6号甲青岛万象城L6层L-608A",
+      "distance": "10m"
+    },
+    {
+      "brand": "美珍香(青岛万象城店)",
+      "address": "山东路6号甲青岛万象城L5层L538a",
+      "distance": "11m"
+    },
+    {
+      "brand": "YEGUO(青岛万象城1期)",
+      "address": "青岛万象城1期(五四广场地铁站A2口步行240米)",
+      "distance": "11m"
+    },
+    {
+      "brand": "开海·红岛海鲜虾水饺店(万象城店)",
+      "address": "山东路6号华润万象城一期四层中庭L422",
+      "distance": "12m"
+    },
+    {
+      "brand": "星巴克(青岛万象城店)",
+      "address": "山东路6号甲青岛万象城L5层",
+      "distance": "13m"
+    },
+    {
+      "brand": "入口天物(青岛万象城店)",
+      "address": "山东路6号甲青岛万象城1期B1层",
+      "distance": "14m"
+    },
+    {
+      "brand": "星巴克(青岛万象城第二分店)",
+      "address": "山东路6号华润中心万象城地上5层L-537",
+      "distance": "15m"
+    },
+    {
+      "brand": "芒果树泰国餐厅(万象城店)",
+      "address": "山东路6号甲华润中心万象城B1层B122",
+      "distance": "15m"
+    },
+    {
+      "brand": "湘爱(青岛万象城店)",
+      "address": "万象城L3-355(五四广场地铁站A2口步行240米)",
+      "distance": "15m"
+    },
+    {
+      "brand": "贵州蘸水活油烙锅",
+      "address": "青岛万象城(五四广场地铁站A2口步行240米)",
+      "distance": "2m"
+    },
+    {
+      "brand": "烹小鲜椰子鸡(青岛万象城店)",
+      "address": "湛山街道山东路6号甲青岛万象城L6层L-608A",
+      "distance": "10m"
+    },
+    {
+      "brand": "美珍香(青岛万象城店)",
+      "address": "山东路6号甲青岛万象城L5层L538a",
+      "distance": "11m"
+    },
+    {
+      "brand": "YEGUO(青岛万象城1期)",
+      "address": "青岛万象城1期(五四广场地铁站A2口步行240米)",
+      "distance": "11m"
+    },
+    {
+      "brand": "开海·红岛海鲜虾水饺店(万象城店)",
+      "address": "山东路6号华润万象城一期四层中庭L422",
+      "distance": "12m"
+    },
+    {
+      "brand": "星巴克(青岛万象城店)",
+      "address": "山东路6号甲青岛万象城L5层",
+      "distance": "13m"
+    },
+    {
+      "brand": "入口天物(青岛万象城店)",
+      "address": "山东路6号甲青岛万象城1期B1层",
+      "distance": "14m"
+    },
+    {
+      "brand": "星巴克(青岛万象城第二分店)",
+      "address": "山东路6号华润中心万象城地上5层L-537",
+      "distance": "15m"
+    },
+    {
+      "brand": "芒果树泰国餐厅(万象城店)",
+      "address": "山东路6号甲华润中心万象城B1层B122",
+      "distance": "15m"
+    },
+    {
+      "brand": "湘爱(青岛万象城店)",
+      "address": "万象城L3-355(五四广场地铁站A2口步行240米)",
+      "distance": "15m"
+    },
+    {
+      "brand": "贵州蘸水活油烙锅",
+      "address": "青岛万象城(五四广场地铁站A2口步行240米)",
+      "distance": "2m"
+    },
+    {
+      "brand": "烹小鲜椰子鸡(青岛万象城店)",
+      "address": "湛山街道山东路6号甲青岛万象城L6层L-608A",
+      "distance": "10m"
+    },
+    {
+      "brand": "美珍香(青岛万象城店)",
+      "address": "山东路6号甲青岛万象城L5层L538a",
+      "distance": "11m"
+    },
+    {
+      "brand": "YEGUO(青岛万象城1期)",
+      "address": "青岛万象城1期(五四广场地铁站A2口步行240米)",
+      "distance": "11m"
+    },
+    {
+      "brand": "开海·红岛海鲜虾水饺店(万象城店)",
+      "address": "山东路6号华润万象城一期四层中庭L422",
+      "distance": "12m"
+    },
+    {
+      "brand": "星巴克(青岛万象城店)",
+      "address": "山东路6号甲青岛万象城L5层",
+      "distance": "13m"
+    },
+    {
+      "brand": "入口天物(青岛万象城店)",
+      "address": "山东路6号甲青岛万象城1期B1层",
+      "distance": "14m"
+    },
+    {
+      "brand": "星巴克(青岛万象城第二分店)",
+      "address": "山东路6号华润中心万象城地上5层L-537",
+      "distance": "15m"
+    },
+    {
+      "brand": "芒果树泰国餐厅(万象城店)",
+      "address": "山东路6号甲华润中心万象城B1层B122",
+      "distance": "15m"
+    },
+    {
+      "brand": "湘爱(青岛万象城店)",
+      "address": "万象城L3-355(五四广场地铁站A2口步行240米)",
+      "distance": "15m"
+    },
+    {
+      "brand": "贵州蘸水活油烙锅",
+      "address": "青岛万象城(五四广场地铁站A2口步行240米)",
+      "distance": "2m"
+    },
+    {
+      "brand": "烹小鲜椰子鸡(青岛万象城店)",
+      "address": "湛山街道山东路6号甲青岛万象城L6层L-608A",
+      "distance": "10m"
+    },
+    {
+      "brand": "美珍香(青岛万象城店)",
+      "address": "山东路6号甲青岛万象城L5层L538a",
+      "distance": "11m"
+    },
+    {
+      "brand": "YEGUO(青岛万象城1期)",
+      "address": "青岛万象城1期(五四广场地铁站A2口步行240米)",
+      "distance": "11m"
+    },
+    {
+      "brand": "开海·红岛海鲜虾水饺店(万象城店)",
+      "address": "山东路6号华润万象城一期四层中庭L422",
+      "distance": "12m"
+    },
+    {
+      "brand": "星巴克(青岛万象城店)",
+      "address": "山东路6号甲青岛万象城L5层",
+      "distance": "13m"
+    },
+    {
+      "brand": "入口天物(青岛万象城店)",
+      "address": "山东路6号甲青岛万象城1期B1层",
+      "distance": "14m"
+    },
+    {
+      "brand": "星巴克(青岛万象城第二分店)",
+      "address": "山东路6号华润中心万象城地上5层L-537",
+      "distance": "15m"
+    },
+    {
+      "brand": "芒果树泰国餐厅(万象城店)",
+      "address": "山东路6号甲华润中心万象城B1层B122",
+      "distance": "15m"
+    },
+    {
+      "brand": "湘爱(青岛万象城店)",
+      "address": "万象城L3-355(五四广场地铁站A2口步行240米)",
+      "distance": "15m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "青岛海航万邦",
+      "open_date": "2012-01-01",
+      "area": "3.8万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "青岛远雄未来广场",
+      "open_date": "2011-02-27",
+      "area": "3.5万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "阳光百货(C入口)",
+      "open_date": "2003-09-29",
+      "area": "3万㎡",
+      "jun_daily_avg": "2.4万人次",
+      "weekday_avg": "2.5万人次",
+      "holiday_avg": "2.3万人次"
+    },
+    {
+      "name": "青岛银座中心",
+      "open_date": "2016-01-31",
+      "area": "9.2万㎡",
+      "jun_daily_avg": "2.8万人次",
+      "weekday_avg": "2.7万人次",
+      "holiday_avg": "3.2万人次"
+    },
+    {
+      "name": "青岛海天MALL",
+      "open_date": "2021-08-28",
+      "area": "3万㎡",
+      "jun_daily_avg": "2.5万人次",
+      "weekday_avg": "2.5万人次",
+      "holiday_avg": "2.5万人次"
+    },
+    {
+      "name": "青岛百丽广场",
+      "open_date": "2010-04-01",
+      "area": "8.6万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 207.0,
+      "within_1yr_pct": 15.9,
+      "1_3yr_pct": 34.8,
+      "over_3yr_pct": 49.3
+    },
+    {
+      "type": "购物",
+      "count": 389.0,
+      "within_1yr_pct": 13.4,
+      "1_3yr_pct": 37.8,
+      "over_3yr_pct": 48.8
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 34.0,
+      "within_1yr_pct": 17.6,
+      "1_3yr_pct": 61.8,
+      "over_3yr_pct": 20.6
+    },
+    {
+      "type": "教育培训",
+      "count": 23.0,
+      "within_1yr_pct": 30.4,
+      "1_3yr_pct": 30.4,
+      "over_3yr_pct": 39.1
+    },
+    {
+      "type": "酒店住宿",
+      "count": 34.0,
+      "within_1yr_pct": 20.6,
+      "1_3yr_pct": 17.6,
+      "over_3yr_pct": 61.8
+    },
+    {
+      "type": "生活服务",
+      "count": 117.0,
+      "within_1yr_pct": 24.8,
+      "1_3yr_pct": 29.9,
+      "over_3yr_pct": 45.3
+    },
+    {
+      "type": "运动健身",
+      "count": 14.0,
+      "within_1yr_pct": 14.3,
+      "1_3yr_pct": 28.6,
+      "over_3yr_pct": 57.1
+    },
+    {
+      "type": "车辆服务",
+      "count": 20.0,
+      "within_1yr_pct": 35.0,
+      "1_3yr_pct": 35.0,
+      "over_3yr_pct": 30.0
+    }
+  ]
+}

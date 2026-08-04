@@ -1,0 +1,472 @@
+{
+  "name": "上海陆家嘴1885广场",
+  "city": "上海市",
+  "address": "上海市浦东新区商城路665号",
+  "lat": 31.231241,
+  "lng": 121.517981,
+  "overview": {
+    "score": 80.3,
+    "score_rank": "市内前30%",
+    "population_score": 95.9,
+    "area_score": 100.0,
+    "consumption_score": 82.7,
+    "industry_score": 80.1,
+    "annual_sales": "陆家嘴1885文化休闲中心是以精品及休闲餐饮为主要业态的时尚休闲广场，并以历史人文主题、海派建筑文化及新老建筑共同构建出了丰富的商业空间，同时项目很好地结合了文化传播、交流和文化休闲娱乐的功能，精心打造出了浦东的时尚新地标",
+    "annual_sales_unit": "-",
+    "area_size_sqm": null,
+    "open_date": "2009-01-01",
+    "operator": "上海陆家嘴商业经营管理有限公司",
+    "brand": "",
+    "type": "综合型",
+    "floors": "B1-L4"
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "-",
+    "annual_daily_rank": "",
+    "jun_total": null,
+    "jun_total_rank": "",
+    "jun_daily_avg": null,
+    "jun_daily_unit": "",
+    "jun_daily_rank": "",
+    "weekday_avg": null,
+    "weekday_unit": "",
+    "weekday_rank": "",
+    "holiday_avg": null,
+    "holiday_unit": "",
+    "holiday_rank": ""
+  },
+  "population": {
+    "residential": {
+      "500m": 2.9,
+      "1_5km": 25.3,
+      "3km": 66.5
+    },
+    "office": {
+      "500m": 6.0,
+      "1_5km": 31.0,
+      "3km": 88.0
+    },
+    "permanent": {
+      "500m": 4.4,
+      "1_5km": 29.5,
+      "3km": 78.9
+    }
+  },
+  "business": {
+    "competitors": 18.0,
+    "food": 585.0,
+    "shopping": 587.0,
+    "leisure": 58.0,
+    "education": 85.0,
+    "hotel": 68.0,
+    "services": 467.0,
+    "fitness": 61.0,
+    "auto": 44.0,
+    "total_stores": 32.0,
+    "old_store_3yr_pct": 19.0
+  },
+  "nearby_poi": {
+    "business": 18.0,
+    "community": 473.0,
+    "office": 166.0,
+    "school": 51.0,
+    "hospital": 135.0,
+    "transport": 19.0,
+    "scenic": 565.0
+  },
+  "demographics": {
+    "male_pct": null,
+    "female_pct": null,
+    "education": {
+      "小学": 9.0,
+      "初中": 16.4,
+      "高中": 10.6,
+      "大专": 6.9,
+      "本科": 48.6,
+      "硕士": 6.6,
+      "博士": 1.9
+    },
+    "has_children_pct": 58.1,
+    "no_children_pct": 41.9
+  },
+  "scraped_at": "2026-07-31T17:46:24.253Z",
+  "nearby_restaurants": [
+    {
+      "brand": "Efes Restaurant艾菲斯餐厅(陆家嘴店)",
+      "address": "商城路665号陆家嘴1885广场B座一层",
+      "distance": "37m"
+    },
+    {
+      "brand": "单一起源咖啡",
+      "address": "商城路与南泉北路交叉口东北120米",
+      "distance": "38m"
+    },
+    {
+      "brand": "荷风细雨·中国茶宴(世纪大道店)(暂停营业)",
+      "address": "商城路665号1栋地下一层B101室、1层101、102、103、105、106、107、108室、二层201室",
+      "distance": "38m"
+    },
+    {
+      "brand": "土耳其餐厅(陆家嘴1885广场店)",
+      "address": "商城路665号LU1885陆里F1层",
+      "distance": "38m"
+    },
+    {
+      "brand": "Amour Mets爱遇里",
+      "address": "商城路665号陆家嘴1885广场A栋一层103-105单元",
+      "distance": "39m"
+    },
+    {
+      "brand": "食茶计(陆家嘴1885广场店)",
+      "address": "商城路665号LU1885陆里F2层",
+      "distance": "41m"
+    },
+    {
+      "brand": "CAKE BOSS蛋糕老板(陆家嘴1885广场店)",
+      "address": "商城路665号LU1885陆里B1层",
+      "distance": "43m"
+    },
+    {
+      "brand": "前卤面局",
+      "address": "商城路665号陆家嘴1885广场A栋1层101、102单元",
+      "distance": "46m"
+    },
+    {
+      "brand": "禧和荟(陆家嘴1885广场店)",
+      "address": "商城路665号陆家嘴1885广场B栋3楼301单元禧和荟",
+      "distance": "47m"
+    },
+    {
+      "brand": "SOSA那么南洋",
+      "address": "商城路665号LU1885陆里F1栋SOSA",
+      "distance": "51m"
+    },
+    {
+      "brand": "Efes Restaurant艾菲斯餐厅(陆家嘴店)",
+      "address": "商城路665号陆家嘴1885广场B座一层",
+      "distance": "37m"
+    },
+    {
+      "brand": "单一起源咖啡",
+      "address": "商城路与南泉北路交叉口东北120米",
+      "distance": "38m"
+    },
+    {
+      "brand": "荷风细雨·中国茶宴(世纪大道店)(暂停营业)",
+      "address": "商城路665号1栋地下一层B101室、1层101、102、103、105、106、107、108室、二层201室",
+      "distance": "38m"
+    },
+    {
+      "brand": "土耳其餐厅(陆家嘴1885广场店)",
+      "address": "商城路665号LU1885陆里F1层",
+      "distance": "38m"
+    },
+    {
+      "brand": "Amour Mets爱遇里",
+      "address": "商城路665号陆家嘴1885广场A栋一层103-105单元",
+      "distance": "39m"
+    },
+    {
+      "brand": "食茶计(陆家嘴1885广场店)",
+      "address": "商城路665号LU1885陆里F2层",
+      "distance": "41m"
+    },
+    {
+      "brand": "CAKE BOSS蛋糕老板(陆家嘴1885广场店)",
+      "address": "商城路665号LU1885陆里B1层",
+      "distance": "43m"
+    },
+    {
+      "brand": "前卤面局",
+      "address": "商城路665号陆家嘴1885广场A栋1层101、102单元",
+      "distance": "46m"
+    },
+    {
+      "brand": "禧和荟(陆家嘴1885广场店)",
+      "address": "商城路665号陆家嘴1885广场B栋3楼301单元禧和荟",
+      "distance": "47m"
+    },
+    {
+      "brand": "SOSA那么南洋",
+      "address": "商城路665号LU1885陆里F1栋SOSA",
+      "distance": "51m"
+    },
+    {
+      "brand": "Efes Restaurant艾菲斯餐厅(陆家嘴店)",
+      "address": "商城路665号陆家嘴1885广场B座一层",
+      "distance": "37m"
+    },
+    {
+      "brand": "单一起源咖啡",
+      "address": "商城路与南泉北路交叉口东北120米",
+      "distance": "38m"
+    },
+    {
+      "brand": "荷风细雨·中国茶宴(世纪大道店)(暂停营业)",
+      "address": "商城路665号1栋地下一层B101室、1层101、102、103、105、106、107、108室、二层201室",
+      "distance": "38m"
+    },
+    {
+      "brand": "土耳其餐厅(陆家嘴1885广场店)",
+      "address": "商城路665号LU1885陆里F1层",
+      "distance": "38m"
+    },
+    {
+      "brand": "Amour Mets爱遇里",
+      "address": "商城路665号陆家嘴1885广场A栋一层103-105单元",
+      "distance": "39m"
+    },
+    {
+      "brand": "食茶计(陆家嘴1885广场店)",
+      "address": "商城路665号LU1885陆里F2层",
+      "distance": "41m"
+    },
+    {
+      "brand": "CAKE BOSS蛋糕老板(陆家嘴1885广场店)",
+      "address": "商城路665号LU1885陆里B1层",
+      "distance": "43m"
+    },
+    {
+      "brand": "前卤面局",
+      "address": "商城路665号陆家嘴1885广场A栋1层101、102单元",
+      "distance": "46m"
+    },
+    {
+      "brand": "禧和荟(陆家嘴1885广场店)",
+      "address": "商城路665号陆家嘴1885广场B栋3楼301单元禧和荟",
+      "distance": "47m"
+    },
+    {
+      "brand": "SOSA那么南洋",
+      "address": "商城路665号LU1885陆里F1栋SOSA",
+      "distance": "51m"
+    },
+    {
+      "brand": "Efes Restaurant艾菲斯餐厅(陆家嘴店)",
+      "address": "商城路665号陆家嘴1885广场B座一层",
+      "distance": "37m"
+    },
+    {
+      "brand": "单一起源咖啡",
+      "address": "商城路与南泉北路交叉口东北120米",
+      "distance": "38m"
+    },
+    {
+      "brand": "荷风细雨·中国茶宴(世纪大道店)(暂停营业)",
+      "address": "商城路665号1栋地下一层B101室、1层101、102、103、105、106、107、108室、二层201室",
+      "distance": "38m"
+    },
+    {
+      "brand": "土耳其餐厅(陆家嘴1885广场店)",
+      "address": "商城路665号LU1885陆里F1层",
+      "distance": "38m"
+    },
+    {
+      "brand": "Amour Mets爱遇里",
+      "address": "商城路665号陆家嘴1885广场A栋一层103-105单元",
+      "distance": "39m"
+    },
+    {
+      "brand": "食茶计(陆家嘴1885广场店)",
+      "address": "商城路665号LU1885陆里F2层",
+      "distance": "41m"
+    },
+    {
+      "brand": "CAKE BOSS蛋糕老板(陆家嘴1885广场店)",
+      "address": "商城路665号LU1885陆里B1层",
+      "distance": "43m"
+    },
+    {
+      "brand": "前卤面局",
+      "address": "商城路665号陆家嘴1885广场A栋1层101、102单元",
+      "distance": "46m"
+    },
+    {
+      "brand": "禧和荟(陆家嘴1885广场店)",
+      "address": "商城路665号陆家嘴1885广场B栋3楼301单元禧和荟",
+      "distance": "47m"
+    },
+    {
+      "brand": "SOSA那么南洋",
+      "address": "商城路665号LU1885陆里F1栋SOSA",
+      "distance": "51m"
+    },
+    {
+      "brand": "Efes Restaurant艾菲斯餐厅(陆家嘴店)",
+      "address": "商城路665号陆家嘴1885广场B座一层",
+      "distance": "37m"
+    },
+    {
+      "brand": "单一起源咖啡",
+      "address": "商城路与南泉北路交叉口东北120米",
+      "distance": "38m"
+    },
+    {
+      "brand": "荷风细雨·中国茶宴(世纪大道店)(暂停营业)",
+      "address": "商城路665号1栋地下一层B101室、1层101、102、103、105、106、107、108室、二层201室",
+      "distance": "38m"
+    },
+    {
+      "brand": "土耳其餐厅(陆家嘴1885广场店)",
+      "address": "商城路665号LU1885陆里F1层",
+      "distance": "38m"
+    },
+    {
+      "brand": "Amour Mets爱遇里",
+      "address": "商城路665号陆家嘴1885广场A栋一层103-105单元",
+      "distance": "39m"
+    },
+    {
+      "brand": "食茶计(陆家嘴1885广场店)",
+      "address": "商城路665号LU1885陆里F2层",
+      "distance": "41m"
+    },
+    {
+      "brand": "CAKE BOSS蛋糕老板(陆家嘴1885广场店)",
+      "address": "商城路665号LU1885陆里B1层",
+      "distance": "43m"
+    },
+    {
+      "brand": "前卤面局",
+      "address": "商城路665号陆家嘴1885广场A栋1层101、102单元",
+      "distance": "46m"
+    },
+    {
+      "brand": "禧和荟(陆家嘴1885广场店)",
+      "address": "商城路665号陆家嘴1885广场B栋3楼301单元禧和荟",
+      "distance": "47m"
+    },
+    {
+      "brand": "SOSA那么南洋",
+      "address": "商城路665号LU1885陆里F1栋SOSA",
+      "distance": "51m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海陆家嘴中心L+Mall",
+      "open_date": "2018-12-23",
+      "area": "14万㎡",
+      "jun_daily_avg": "7.2万人次",
+      "weekday_avg": "7.4万人次",
+      "holiday_avg": "6.6万人次"
+    },
+    {
+      "name": "上海浦东新大陆广场",
+      "open_date": "1997-06-03",
+      "area": "4万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海新梅联合广场",
+      "open_date": "2005-01-01",
+      "area": "6万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海第一八佰伴",
+      "open_date": "1995-12-20",
+      "area": "10.8万㎡",
+      "jun_daily_avg": "3.2万人次",
+      "weekday_avg": "2.9万人次",
+      "holiday_avg": "3.8万人次"
+    },
+    {
+      "name": "上海MORE MEE 时尚生活中心",
+      "open_date": "2018-12-15",
+      "area": "3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海1088广场",
+      "open_date": "2014-12-12",
+      "area": "3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海华润时代广场",
+      "open_date": "2019-12-01",
+      "area": "5.1万㎡",
+      "jun_daily_avg": "2.3万人次",
+      "weekday_avg": "2.2万人次",
+      "holiday_avg": "2.7万人次"
+    },
+    {
+      "name": "上海湾生活时尚中心",
+      "open_date": "2013-03-18",
+      "area": "3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海九六广场",
+      "open_date": "2008-11-28",
+      "area": "6.5万㎡",
+      "jun_daily_avg": "1.1万人次",
+      "weekday_avg": "1万人次",
+      "holiday_avg": "1.2万人次"
+    },
+    {
+      "name": "上海滨江世茂52+",
+      "open_date": "2018-12-21",
+      "area": "1.2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 18.0,
+      "within_1yr_pct": 38.9,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 27.8
+    },
+    {
+      "type": "购物",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 6.0,
+      "within_1yr_pct": 83.3,
+      "1_3yr_pct": 16.7,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "生活服务",
+      "count": 4.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 25.0
+    },
+    {
+      "type": "运动健身",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 2.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
+    }
+  ]
+}

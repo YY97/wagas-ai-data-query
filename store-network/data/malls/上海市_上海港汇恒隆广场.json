@@ -1,0 +1,486 @@
+{
+  "name": "上海港汇恒隆广场",
+  "city": "上海市",
+  "address": "上海市徐汇区虹桥路100-2号",
+  "lat": 31.194345,
+  "lng": 121.423767,
+  "overview": {
+    "score": 95.9,
+    "score_rank": "市内前30%",
+    "population_score": 85.1,
+    "area_score": 100.0,
+    "consumption_score": 86.9,
+    "industry_score": 96.0,
+    "annual_sales": "上海港汇恒隆广场位于上海市徐汇区华山路与虹桥路交界处，毗邻徐家汇商业中心，地理位置优越。商场内设有7个营业层面，包括地下一层和地上六层，汇聚了众多国际知名品牌，涵盖时尚、餐饮、娱乐等多元化业态",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 7.0,
+    "open_date": "1999-12-28",
+    "operator": "恒隆地产有限公司",
+    "brand": "恒隆地产有限公司",
+    "type": "购物型",
+    "floors": "B1-L6"
+  },
+  "traffic": {
+    "annual_daily": 4.44,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第42",
+    "jun_total": 190.0,
+    "jun_total_rank": "市内商场第39名",
+    "jun_daily_avg": 6.3,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第39名",
+    "weekday_avg": 6.2,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第31名",
+    "holiday_avg": 6.7,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第57名"
+  },
+  "population": {
+    "residential": {
+      "500m": 1.9,
+      "1_5km": 25.6,
+      "3km": 97.6
+    },
+    "office": {
+      "500m": 5.3,
+      "1_5km": 25.4,
+      "3km": 84.7
+    },
+    "permanent": {
+      "500m": 5.3,
+      "1_5km": 30.1,
+      "3km": 108.3
+    }
+  },
+  "business": {
+    "competitors": 33.0,
+    "food": 560.0,
+    "shopping": 749.0,
+    "leisure": 76.0,
+    "education": 107.0,
+    "hotel": 49.0,
+    "services": 347.0,
+    "fitness": 42.0,
+    "auto": 41.0,
+    "total_stores": 401.0,
+    "old_store_3yr_pct": 56.0
+  },
+  "nearby_poi": {
+    "business": 16.0,
+    "community": 1124.0,
+    "office": 160.0,
+    "school": 77.0,
+    "hospital": 158.0,
+    "transport": 12.0,
+    "scenic": 420.0
+  },
+  "demographics": {
+    "male_pct": 47.7,
+    "female_pct": null,
+    "education": {
+      "小学": 8.1,
+      "初中": 15.5,
+      "高中": 11.6,
+      "大专": 6.6,
+      "本科": 49.4,
+      "硕士": 6.7,
+      "博士": 2.1
+    },
+    "has_children_pct": 59.7,
+    "no_children_pct": 40.3
+  },
+  "scraped_at": "2026-07-31T11:59:31.190Z",
+  "nearby_restaurants": [
+    {
+      "brand": "CHAGEE霸王茶姬(上海港汇恒隆1L店)",
+      "address": "虹桥路1号港汇恒隆广场内街J101铺位",
+      "distance": "5m"
+    },
+    {
+      "brand": "阿吾罗·月咏精致日料(港汇恒隆广场店)",
+      "address": "虹桥路1号港汇恒隆广场南座6楼615A/D",
+      "distance": "8m"
+    },
+    {
+      "brand": "雍容荟活帝王蟹活波龙自助餐(港汇恒隆广场黑金店)",
+      "address": "虹桥路1号港汇恒隆广场南座6层603号",
+      "distance": "8m"
+    },
+    {
+      "brand": "糖水川菜(上海首店港汇店)",
+      "address": "虹桥路1号港汇恒隆广场北座5层539商铺",
+      "distance": "9m"
+    },
+    {
+      "brand": "bulubulu 轻养餐咖(港汇恒隆店)",
+      "address": "徐家汇街道虹桥路1号港汇恒隆广场4楼431A/B铺位",
+      "distance": "9m"
+    },
+    {
+      "brand": "HERERS赫芮斯·轻糖蛋糕(上海首店)",
+      "address": "虹桥路1号港汇恒隆广场B1层B107I商铺",
+      "distance": "9m"
+    },
+    {
+      "brand": "油梨树AVOCADO TEEE(港汇恒隆店)",
+      "address": "港汇恒隆广场6层602号店铺",
+      "distance": "9m"
+    },
+    {
+      "brand": "山缓缓火锅(上海港汇恒隆店)",
+      "address": "徐家汇街道虹桥路1号港汇恒隆广场北座5层532号铺位",
+      "distance": "9m"
+    },
+    {
+      "brand": "風毡記XINJIANG",
+      "address": "虹桥路1号6层610号",
+      "distance": "9m"
+    },
+    {
+      "brand": "CAFE DE KARL",
+      "address": "虹桥路一号港汇恒隆广场北座",
+      "distance": "9m"
+    },
+    {
+      "brand": "CHAGEE霸王茶姬(上海港汇恒隆1L店)",
+      "address": "虹桥路1号港汇恒隆广场内街J101铺位",
+      "distance": "5m"
+    },
+    {
+      "brand": "阿吾罗·月咏精致日料(港汇恒隆广场店)",
+      "address": "虹桥路1号港汇恒隆广场南座6楼615A/D",
+      "distance": "8m"
+    },
+    {
+      "brand": "雍容荟活帝王蟹活波龙自助餐(港汇恒隆广场黑金店)",
+      "address": "虹桥路1号港汇恒隆广场南座6层603号",
+      "distance": "8m"
+    },
+    {
+      "brand": "糖水川菜(上海首店港汇店)",
+      "address": "虹桥路1号港汇恒隆广场北座5层539商铺",
+      "distance": "9m"
+    },
+    {
+      "brand": "bulubulu 轻养餐咖(港汇恒隆店)",
+      "address": "徐家汇街道虹桥路1号港汇恒隆广场4楼431A/B铺位",
+      "distance": "9m"
+    },
+    {
+      "brand": "HERERS赫芮斯·轻糖蛋糕(上海首店)",
+      "address": "虹桥路1号港汇恒隆广场B1层B107I商铺",
+      "distance": "9m"
+    },
+    {
+      "brand": "油梨树AVOCADO TEEE(港汇恒隆店)",
+      "address": "港汇恒隆广场6层602号店铺",
+      "distance": "9m"
+    },
+    {
+      "brand": "山缓缓火锅(上海港汇恒隆店)",
+      "address": "徐家汇街道虹桥路1号港汇恒隆广场北座5层532号铺位",
+      "distance": "9m"
+    },
+    {
+      "brand": "風毡記XINJIANG",
+      "address": "虹桥路1号6层610号",
+      "distance": "9m"
+    },
+    {
+      "brand": "CAFE DE KARL",
+      "address": "虹桥路一号港汇恒隆广场北座",
+      "distance": "9m"
+    },
+    {
+      "brand": "CHAGEE霸王茶姬(上海港汇恒隆1L店)",
+      "address": "虹桥路1号港汇恒隆广场内街J101铺位",
+      "distance": "5m"
+    },
+    {
+      "brand": "阿吾罗·月咏精致日料(港汇恒隆广场店)",
+      "address": "虹桥路1号港汇恒隆广场南座6楼615A/D",
+      "distance": "8m"
+    },
+    {
+      "brand": "雍容荟活帝王蟹活波龙自助餐(港汇恒隆广场黑金店)",
+      "address": "虹桥路1号港汇恒隆广场南座6层603号",
+      "distance": "8m"
+    },
+    {
+      "brand": "糖水川菜(上海首店港汇店)",
+      "address": "虹桥路1号港汇恒隆广场北座5层539商铺",
+      "distance": "9m"
+    },
+    {
+      "brand": "bulubulu 轻养餐咖(港汇恒隆店)",
+      "address": "徐家汇街道虹桥路1号港汇恒隆广场4楼431A/B铺位",
+      "distance": "9m"
+    },
+    {
+      "brand": "HERERS赫芮斯·轻糖蛋糕(上海首店)",
+      "address": "虹桥路1号港汇恒隆广场B1层B107I商铺",
+      "distance": "9m"
+    },
+    {
+      "brand": "油梨树AVOCADO TEEE(港汇恒隆店)",
+      "address": "港汇恒隆广场6层602号店铺",
+      "distance": "9m"
+    },
+    {
+      "brand": "山缓缓火锅(上海港汇恒隆店)",
+      "address": "徐家汇街道虹桥路1号港汇恒隆广场北座5层532号铺位",
+      "distance": "9m"
+    },
+    {
+      "brand": "風毡記XINJIANG",
+      "address": "虹桥路1号6层610号",
+      "distance": "9m"
+    },
+    {
+      "brand": "CAFE DE KARL",
+      "address": "虹桥路一号港汇恒隆广场北座",
+      "distance": "9m"
+    },
+    {
+      "brand": "CHAGEE霸王茶姬(上海港汇恒隆1L店)",
+      "address": "虹桥路1号港汇恒隆广场内街J101铺位",
+      "distance": "5m"
+    },
+    {
+      "brand": "阿吾罗·月咏精致日料(港汇恒隆广场店)",
+      "address": "虹桥路1号港汇恒隆广场南座6楼615A/D",
+      "distance": "8m"
+    },
+    {
+      "brand": "雍容荟活帝王蟹活波龙自助餐(港汇恒隆广场黑金店)",
+      "address": "虹桥路1号港汇恒隆广场南座6层603号",
+      "distance": "8m"
+    },
+    {
+      "brand": "糖水川菜(上海首店港汇店)",
+      "address": "虹桥路1号港汇恒隆广场北座5层539商铺",
+      "distance": "9m"
+    },
+    {
+      "brand": "bulubulu 轻养餐咖(港汇恒隆店)",
+      "address": "徐家汇街道虹桥路1号港汇恒隆广场4楼431A/B铺位",
+      "distance": "9m"
+    },
+    {
+      "brand": "HERERS赫芮斯·轻糖蛋糕(上海首店)",
+      "address": "虹桥路1号港汇恒隆广场B1层B107I商铺",
+      "distance": "9m"
+    },
+    {
+      "brand": "油梨树AVOCADO TEEE(港汇恒隆店)",
+      "address": "港汇恒隆广场6层602号店铺",
+      "distance": "9m"
+    },
+    {
+      "brand": "山缓缓火锅(上海港汇恒隆店)",
+      "address": "徐家汇街道虹桥路1号港汇恒隆广场北座5层532号铺位",
+      "distance": "9m"
+    },
+    {
+      "brand": "風毡記XINJIANG",
+      "address": "虹桥路1号6层610号",
+      "distance": "9m"
+    },
+    {
+      "brand": "CAFE DE KARL",
+      "address": "虹桥路一号港汇恒隆广场北座",
+      "distance": "9m"
+    },
+    {
+      "brand": "CHAGEE霸王茶姬(上海港汇恒隆1L店)",
+      "address": "虹桥路1号港汇恒隆广场内街J101铺位",
+      "distance": "5m"
+    },
+    {
+      "brand": "阿吾罗·月咏精致日料(港汇恒隆广场店)",
+      "address": "虹桥路1号港汇恒隆广场南座6楼615A/D",
+      "distance": "8m"
+    },
+    {
+      "brand": "雍容荟活帝王蟹活波龙自助餐(港汇恒隆广场黑金店)",
+      "address": "虹桥路1号港汇恒隆广场南座6层603号",
+      "distance": "8m"
+    },
+    {
+      "brand": "糖水川菜(上海首店港汇店)",
+      "address": "虹桥路1号港汇恒隆广场北座5层539商铺",
+      "distance": "9m"
+    },
+    {
+      "brand": "bulubulu 轻养餐咖(港汇恒隆店)",
+      "address": "徐家汇街道虹桥路1号港汇恒隆广场4楼431A/B铺位",
+      "distance": "9m"
+    },
+    {
+      "brand": "HERERS赫芮斯·轻糖蛋糕(上海首店)",
+      "address": "虹桥路1号港汇恒隆广场B1层B107I商铺",
+      "distance": "9m"
+    },
+    {
+      "brand": "油梨树AVOCADO TEEE(港汇恒隆店)",
+      "address": "港汇恒隆广场6层602号店铺",
+      "distance": "9m"
+    },
+    {
+      "brand": "山缓缓火锅(上海港汇恒隆店)",
+      "address": "徐家汇街道虹桥路1号港汇恒隆广场北座5层532号铺位",
+      "distance": "9m"
+    },
+    {
+      "brand": "風毡記XINJIANG",
+      "address": "虹桥路1号6层610号",
+      "distance": "9m"
+    },
+    {
+      "brand": "CAFE DE KARL",
+      "address": "虹桥路一号港汇恒隆广场北座",
+      "distance": "9m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海东方商厦(旗舰店)",
+      "open_date": "1993-01-01",
+      "area": "9万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海TWO ITC",
+      "open_date": "2019-01-01",
+      "area": "3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海徐家汇TPY中心",
+      "open_date": "2024-04-30",
+      "area": "1.5万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海百联徐汇商业广场",
+      "open_date": "2012-01-19",
+      "area": "2万㎡",
+      "jun_daily_avg": "1.5万人次",
+      "weekday_avg": "1.4万人次",
+      "holiday_avg": "1.8万人次"
+    },
+    {
+      "name": "上海汇金百货(徐汇店)",
+      "open_date": "1998-09-01",
+      "area": "4万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海美罗城",
+      "open_date": "1998-01-01",
+      "area": "6.7万㎡",
+      "jun_daily_avg": "6.5万人次",
+      "weekday_avg": "5.7万人次",
+      "holiday_avg": "8.7万人次"
+    },
+    {
+      "name": "上海One ITC",
+      "open_date": "2019-12-15",
+      "area": "3.8万㎡",
+      "jun_daily_avg": "1.4万人次",
+      "weekday_avg": "1.3万人次",
+      "holiday_avg": "1.6万人次"
+    },
+    {
+      "name": "上海汇联商厦",
+      "open_date": "1991-07-18",
+      "area": "1.3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海城开YOYO",
+      "open_date": "2018-09-30",
+      "area": "1.4万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海永新坊",
+      "open_date": "2007-12-01",
+      "area": "1.2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 89.0,
+      "within_1yr_pct": 23.6,
+      "1_3yr_pct": 34.8,
+      "over_3yr_pct": 41.6
+    },
+    {
+      "type": "购物",
+      "count": 257.0,
+      "within_1yr_pct": 12.5,
+      "1_3yr_pct": 22.6,
+      "over_3yr_pct": 65.0
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 5.0,
+      "within_1yr_pct": 60.0,
+      "1_3yr_pct": 20.0,
+      "over_3yr_pct": 20.0
+    },
+    {
+      "type": "教育培训",
+      "count": 3.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "生活服务",
+      "count": 34.0,
+      "within_1yr_pct": 26.5,
+      "1_3yr_pct": 23.5,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "运动健身",
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 9.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 55.6,
+      "over_3yr_pct": 11.1
+    }
+  ]
+}

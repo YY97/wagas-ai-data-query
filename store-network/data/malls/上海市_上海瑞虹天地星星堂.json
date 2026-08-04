@@ -1,0 +1,486 @@
+{
+  "name": "上海瑞虹天地星星堂",
+  "city": "上海市",
+  "address": "上海市虹口区天虹路328-330号",
+  "lat": 31.26207,
+  "lng": 121.501137,
+  "overview": {
+    "score": 76.3,
+    "score_rank": "市内前50%",
+    "population_score": 99.6,
+    "area_score": 88.1,
+    "consumption_score": 86.3,
+    "industry_score": 76.1,
+    "annual_sales": "瑞虹天地星星堂定位为上海首个情景式亲子体验街区，引入了家庭式餐饮名店、生活零售、个人护理及儿童相关的教育服务品牌，满足沪上亲子家庭对零售、娱乐、体验、培训、餐饮、社交于一体的“生活中心式”新需求",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 2.0,
+    "open_date": "2015-05-14",
+    "operator": "瑞安新天地有限公司",
+    "brand": "",
+    "type": "综合型",
+    "floors": "B1-L2"
+  },
+  "traffic": {
+    "annual_daily": 5041.0,
+    "annual_daily_unit": "人次",
+    "annual_daily_rank": "市内第356",
+    "jun_total": 14.4,
+    "jun_total_rank": "市内商场第430名",
+    "jun_daily_avg": 4806.0,
+    "jun_daily_unit": "人次",
+    "jun_daily_rank": "市内商场第430名",
+    "weekday_avg": 4635.0,
+    "weekday_unit": "人次",
+    "weekday_rank": "市内商场第428名",
+    "holiday_avg": 5277.0,
+    "holiday_unit": "人次",
+    "holiday_rank": "市内商场第431名"
+  },
+  "population": {
+    "residential": {
+      "500m": 3.8,
+      "1_5km": 31.9,
+      "3km": 102.7
+    },
+    "office": {
+      "500m": 2.5,
+      "1_5km": 17.5,
+      "3km": 78.8
+    },
+    "permanent": {
+      "500m": 4.4,
+      "1_5km": 32.4,
+      "3km": 109.5
+    }
+  },
+  "business": {
+    "competitors": 12.0,
+    "food": 333.0,
+    "shopping": 275.0,
+    "leisure": 35.0,
+    "education": 31.0,
+    "hotel": 12.0,
+    "services": 202.0,
+    "fitness": 43.0,
+    "auto": 20.0,
+    "total_stores": 52.0,
+    "old_store_3yr_pct": 60.0
+  },
+  "nearby_poi": {
+    "business": 11.0,
+    "community": 854.0,
+    "office": 109.0,
+    "school": 71.0,
+    "hospital": 114.0,
+    "transport": 10.0,
+    "scenic": 466.0
+  },
+  "demographics": {
+    "male_pct": 51.1,
+    "female_pct": null,
+    "education": {
+      "小学": 9.2,
+      "初中": 18.4,
+      "高中": 12.4,
+      "大专": 7.0,
+      "本科": 46.6,
+      "硕士": 4.7,
+      "博士": 1.7
+    },
+    "has_children_pct": 64.8,
+    "no_children_pct": 35.2
+  },
+  "scraped_at": "2026-07-31T17:02:21.183Z",
+  "nearby_restaurants": [
+    {
+      "brand": "Manner Coffee(瑞虹新天地星星堂店)",
+      "address": "天宝路280弄3号瑞虹坊星星堂L1-21a室(星巴克旁)",
+      "distance": "20m"
+    },
+    {
+      "brand": "星巴克(瑞虹天地店)",
+      "address": "天宝路280弄瑞虹天地星星堂L1层L1-17、L1-20",
+      "distance": "38m"
+    },
+    {
+      "brand": "达美乐比萨(天宝路店)",
+      "address": "天宝路280弄星星堂一层",
+      "distance": "75m"
+    },
+    {
+      "brand": "马厂老火锅(瑞虹新天地店)",
+      "address": "天宝路280弄31号瑞虹天地星星堂L1层L1-32",
+      "distance": "84m"
+    },
+    {
+      "brand": "麦当劳(瑞虹新天地星星堂店)",
+      "address": "天宝路280弄瑞虹天地星星堂L1层L1-33",
+      "distance": "97m"
+    },
+    {
+      "brand": "哥哥的深夜食堂(瑞虹天地月亮湾)",
+      "address": "瑞虹路188号一层32a 32b室",
+      "distance": "104m"
+    },
+    {
+      "brand": "好柏世精酿啤酒餐厅(瑞虹天地月亮湾店)",
+      "address": "瑞虹路188号瑞虹天地月亮湾F1",
+      "distance": "105m"
+    },
+    {
+      "brand": "CHARLIE’S粉红汉堡(瑞虹天地月亮湾店)",
+      "address": "瑞虹路188号瑞虹天地月亮湾L1-131室",
+      "distance": "110m"
+    },
+    {
+      "brand": "三由麵(上海首店)",
+      "address": "瑞虹路188号1层138a室",
+      "distance": "112m"
+    },
+    {
+      "brand": "Rice Whale鲸鱼饭堂(瑞虹天地月亮湾店)",
+      "address": "瑞虹天地月亮湾L1-42b(临平路地铁站4号口步行410米)",
+      "distance": "116m"
+    },
+    {
+      "brand": "Manner Coffee(瑞虹新天地星星堂店)",
+      "address": "天宝路280弄3号瑞虹坊星星堂L1-21a室(星巴克旁)",
+      "distance": "20m"
+    },
+    {
+      "brand": "星巴克(瑞虹天地店)",
+      "address": "天宝路280弄瑞虹天地星星堂L1层L1-17、L1-20",
+      "distance": "38m"
+    },
+    {
+      "brand": "达美乐比萨(天宝路店)",
+      "address": "天宝路280弄星星堂一层",
+      "distance": "75m"
+    },
+    {
+      "brand": "马厂老火锅(瑞虹新天地店)",
+      "address": "天宝路280弄31号瑞虹天地星星堂L1层L1-32",
+      "distance": "84m"
+    },
+    {
+      "brand": "麦当劳(瑞虹新天地星星堂店)",
+      "address": "天宝路280弄瑞虹天地星星堂L1层L1-33",
+      "distance": "97m"
+    },
+    {
+      "brand": "哥哥的深夜食堂(瑞虹天地月亮湾)",
+      "address": "瑞虹路188号一层32a 32b室",
+      "distance": "104m"
+    },
+    {
+      "brand": "好柏世精酿啤酒餐厅(瑞虹天地月亮湾店)",
+      "address": "瑞虹路188号瑞虹天地月亮湾F1",
+      "distance": "105m"
+    },
+    {
+      "brand": "CHARLIE’S粉红汉堡(瑞虹天地月亮湾店)",
+      "address": "瑞虹路188号瑞虹天地月亮湾L1-131室",
+      "distance": "110m"
+    },
+    {
+      "brand": "三由麵(上海首店)",
+      "address": "瑞虹路188号1层138a室",
+      "distance": "112m"
+    },
+    {
+      "brand": "Rice Whale鲸鱼饭堂(瑞虹天地月亮湾店)",
+      "address": "瑞虹天地月亮湾L1-42b(临平路地铁站4号口步行410米)",
+      "distance": "116m"
+    },
+    {
+      "brand": "Manner Coffee(瑞虹新天地星星堂店)",
+      "address": "天宝路280弄3号瑞虹坊星星堂L1-21a室(星巴克旁)",
+      "distance": "20m"
+    },
+    {
+      "brand": "星巴克(瑞虹天地店)",
+      "address": "天宝路280弄瑞虹天地星星堂L1层L1-17、L1-20",
+      "distance": "38m"
+    },
+    {
+      "brand": "达美乐比萨(天宝路店)",
+      "address": "天宝路280弄星星堂一层",
+      "distance": "75m"
+    },
+    {
+      "brand": "马厂老火锅(瑞虹新天地店)",
+      "address": "天宝路280弄31号瑞虹天地星星堂L1层L1-32",
+      "distance": "84m"
+    },
+    {
+      "brand": "麦当劳(瑞虹新天地星星堂店)",
+      "address": "天宝路280弄瑞虹天地星星堂L1层L1-33",
+      "distance": "97m"
+    },
+    {
+      "brand": "哥哥的深夜食堂(瑞虹天地月亮湾)",
+      "address": "瑞虹路188号一层32a 32b室",
+      "distance": "104m"
+    },
+    {
+      "brand": "好柏世精酿啤酒餐厅(瑞虹天地月亮湾店)",
+      "address": "瑞虹路188号瑞虹天地月亮湾F1",
+      "distance": "105m"
+    },
+    {
+      "brand": "CHARLIE’S粉红汉堡(瑞虹天地月亮湾店)",
+      "address": "瑞虹路188号瑞虹天地月亮湾L1-131室",
+      "distance": "110m"
+    },
+    {
+      "brand": "三由麵(上海首店)",
+      "address": "瑞虹路188号1层138a室",
+      "distance": "112m"
+    },
+    {
+      "brand": "Rice Whale鲸鱼饭堂(瑞虹天地月亮湾店)",
+      "address": "瑞虹天地月亮湾L1-42b(临平路地铁站4号口步行410米)",
+      "distance": "116m"
+    },
+    {
+      "brand": "Manner Coffee(瑞虹新天地星星堂店)",
+      "address": "天宝路280弄3号瑞虹坊星星堂L1-21a室(星巴克旁)",
+      "distance": "20m"
+    },
+    {
+      "brand": "星巴克(瑞虹天地店)",
+      "address": "天宝路280弄瑞虹天地星星堂L1层L1-17、L1-20",
+      "distance": "38m"
+    },
+    {
+      "brand": "达美乐比萨(天宝路店)",
+      "address": "天宝路280弄星星堂一层",
+      "distance": "75m"
+    },
+    {
+      "brand": "马厂老火锅(瑞虹新天地店)",
+      "address": "天宝路280弄31号瑞虹天地星星堂L1层L1-32",
+      "distance": "84m"
+    },
+    {
+      "brand": "麦当劳(瑞虹新天地星星堂店)",
+      "address": "天宝路280弄瑞虹天地星星堂L1层L1-33",
+      "distance": "97m"
+    },
+    {
+      "brand": "哥哥的深夜食堂(瑞虹天地月亮湾)",
+      "address": "瑞虹路188号一层32a 32b室",
+      "distance": "104m"
+    },
+    {
+      "brand": "好柏世精酿啤酒餐厅(瑞虹天地月亮湾店)",
+      "address": "瑞虹路188号瑞虹天地月亮湾F1",
+      "distance": "105m"
+    },
+    {
+      "brand": "CHARLIE’S粉红汉堡(瑞虹天地月亮湾店)",
+      "address": "瑞虹路188号瑞虹天地月亮湾L1-131室",
+      "distance": "110m"
+    },
+    {
+      "brand": "三由麵(上海首店)",
+      "address": "瑞虹路188号1层138a室",
+      "distance": "112m"
+    },
+    {
+      "brand": "Rice Whale鲸鱼饭堂(瑞虹天地月亮湾店)",
+      "address": "瑞虹天地月亮湾L1-42b(临平路地铁站4号口步行410米)",
+      "distance": "116m"
+    },
+    {
+      "brand": "Manner Coffee(瑞虹新天地星星堂店)",
+      "address": "天宝路280弄3号瑞虹坊星星堂L1-21a室(星巴克旁)",
+      "distance": "20m"
+    },
+    {
+      "brand": "星巴克(瑞虹天地店)",
+      "address": "天宝路280弄瑞虹天地星星堂L1层L1-17、L1-20",
+      "distance": "38m"
+    },
+    {
+      "brand": "达美乐比萨(天宝路店)",
+      "address": "天宝路280弄星星堂一层",
+      "distance": "75m"
+    },
+    {
+      "brand": "马厂老火锅(瑞虹新天地店)",
+      "address": "天宝路280弄31号瑞虹天地星星堂L1层L1-32",
+      "distance": "84m"
+    },
+    {
+      "brand": "麦当劳(瑞虹新天地星星堂店)",
+      "address": "天宝路280弄瑞虹天地星星堂L1层L1-33",
+      "distance": "97m"
+    },
+    {
+      "brand": "哥哥的深夜食堂(瑞虹天地月亮湾)",
+      "address": "瑞虹路188号一层32a 32b室",
+      "distance": "104m"
+    },
+    {
+      "brand": "好柏世精酿啤酒餐厅(瑞虹天地月亮湾店)",
+      "address": "瑞虹路188号瑞虹天地月亮湾F1",
+      "distance": "105m"
+    },
+    {
+      "brand": "CHARLIE’S粉红汉堡(瑞虹天地月亮湾店)",
+      "address": "瑞虹路188号瑞虹天地月亮湾L1-131室",
+      "distance": "110m"
+    },
+    {
+      "brand": "三由麵(上海首店)",
+      "address": "瑞虹路188号1层138a室",
+      "distance": "112m"
+    },
+    {
+      "brand": "Rice Whale鲸鱼饭堂(瑞虹天地月亮湾店)",
+      "address": "瑞虹天地月亮湾L1-42b(临平路地铁站4号口步行410米)",
+      "distance": "116m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海瑞虹天地月亮湾",
+      "open_date": "2017-06-13",
+      "area": "6.4万㎡",
+      "jun_daily_avg": "4.5万人次",
+      "weekday_avg": "4万人次",
+      "holiday_avg": "5.9万人次"
+    },
+    {
+      "name": "上海瑞虹新天地太阳宫",
+      "open_date": "2021-09-19",
+      "area": "18万㎡",
+      "jun_daily_avg": "7.4万人次",
+      "weekday_avg": "6.8万人次",
+      "holiday_avg": "9.1万人次"
+    },
+    {
+      "name": "上海瑞虹坊",
+      "open_date": "2020-10-03",
+      "area": "3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海上滨生活广场",
+      "open_date": "2019-06-18",
+      "area": "4.5万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海虹口宝华商业广场",
+      "open_date": "2023-05-20",
+      "area": "2.2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海时装商厦",
+      "open_date": "-",
+      "area": "-",
+      "jun_daily_avg": "1.7万人次",
+      "weekday_avg": "1.8万人次",
+      "holiday_avg": "1.5万人次"
+    },
+    {
+      "name": "上海多伦生活广场(四川北路商业街店)",
+      "open_date": "-",
+      "area": "-",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海宝地广场",
+      "open_date": "2012-01-01",
+      "area": "3.5万㎡",
+      "jun_daily_avg": "1.7万人次",
+      "weekday_avg": "1.8万人次",
+      "holiday_avg": "1.5万人次"
+    },
+    {
+      "name": "上海昇汇广场",
+      "open_date": "2018-12-01",
+      "area": "3200㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海控江旭辉MALL",
+      "open_date": "2016-08-27",
+      "area": "3万㎡",
+      "jun_daily_avg": "3.6万人次",
+      "weekday_avg": "3.4万人次",
+      "holiday_avg": "4.1万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 6.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 16.7,
+      "over_3yr_pct": 83.3
+    },
+    {
+      "type": "购物",
+      "count": 3.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 66.7
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "教育培训",
+      "count": 12.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 8.3,
+      "over_3yr_pct": 66.7
+    },
+    {
+      "type": "酒店住宿",
+      "count": 1.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "生活服务",
+      "count": 15.0,
+      "within_1yr_pct": 6.7,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 60.0
+    },
+    {
+      "type": "运动健身",
+      "count": 11.0,
+      "within_1yr_pct": 9.1,
+      "1_3yr_pct": 45.5,
+      "over_3yr_pct": 45.5
+    },
+    {
+      "type": "车辆服务",
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 50.0
+    }
+  ]
+}

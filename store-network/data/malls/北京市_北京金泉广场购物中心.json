@@ -1,0 +1,430 @@
+{
+  "name": "北京金泉广场购物中心",
+  "city": "北京市",
+  "address": "北京市朝阳区亚运村大屯里317号楼(5号线地铁大屯路东站)",
+  "lat": 40.004456,
+  "lng": 116.416107,
+  "overview": {
+    "score": 71.2,
+    "score_rank": "市内前70%",
+    "population_score": 93.8,
+    "area_score": 74.6,
+    "consumption_score": 78.4,
+    "industry_score": 71.1,
+    "annual_sales": "金泉广场购物中心位于北京市朝阳亚运村，由怀来昊璟矿建房地产开发有限公司建成，共计房屋2户，小区物业公司为深圳长城物业集团股份有限公司北京分公司。购物中心将提供多种品牌的时尚服装、奢侈品、家居用品和美食餐饮等，满足消费者的各种需求。此外，购物中心还将设有娱乐设施和特色活动，如儿童游乐区、电影院和定期举办的特别促销活动",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 5.0,
+    "open_date": "2022-05-01",
+    "operator": "",
+    "brand": "",
+    "type": "综合型",
+    "floors": "B1-L4"
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "-",
+    "annual_daily_rank": "",
+    "jun_total": null,
+    "jun_total_rank": "",
+    "jun_daily_avg": null,
+    "jun_daily_unit": "",
+    "jun_daily_rank": "",
+    "weekday_avg": null,
+    "weekday_unit": "",
+    "weekday_rank": "",
+    "holiday_avg": null,
+    "holiday_unit": "",
+    "holiday_rank": ""
+  },
+  "population": {
+    "residential": {
+      "500m": 2.7,
+      "1_5km": 17.8,
+      "3km": 44.6
+    },
+    "office": {
+      "500m": 1.3,
+      "1_5km": 9.8,
+      "3km": 29.5
+    },
+    "permanent": {
+      "500m": 2.9,
+      "1_5km": 17.1,
+      "3km": 45.6
+    }
+  },
+  "business": {
+    "competitors": 2.0,
+    "food": 112.0,
+    "shopping": 75.0,
+    "leisure": 17.0,
+    "education": 25.0,
+    "hotel": 18.0,
+    "services": 97.0,
+    "fitness": 17.0,
+    "auto": 27.0,
+    "total_stores": 129.0,
+    "old_store_3yr_pct": 16.0
+  },
+  "nearby_poi": {
+    "business": 3.0,
+    "community": 217.0,
+    "office": 58.0,
+    "school": 24.0,
+    "hospital": 44.0,
+    "transport": 7.0,
+    "scenic": 173.0
+  },
+  "demographics": {
+    "male_pct": 49.8,
+    "female_pct": null,
+    "education": {
+      "小学": 8.0,
+      "初中": 14.4,
+      "高中": 13.1,
+      "大专": 5.5,
+      "本科": 47.1,
+      "硕士": 9.4,
+      "博士": 2.5
+    },
+    "has_children_pct": 58.7,
+    "no_children_pct": 41.3
+  },
+  "scraped_at": "2026-07-31T19:08:50.196Z",
+  "nearby_restaurants": [
+    {
+      "brand": "煌上煌酱鸭(金泉广场购物中心店)",
+      "address": "大屯里318号楼金泉港地下一层",
+      "distance": "104m"
+    },
+    {
+      "brand": "段公子(金泉广场购物中心店)",
+      "address": "大屯路370号金泉广场购物中心F1层",
+      "distance": "106m"
+    },
+    {
+      "brand": "食柒小馆",
+      "address": "北京城区金泉港B1门东南90米(大屯路东地铁站A1西南口旁)",
+      "distance": "158m"
+    },
+    {
+      "brand": "所味小馆",
+      "address": "北苑路与大屯路辅路交叉口西北100米",
+      "distance": "159m"
+    },
+    {
+      "brand": "松鼠家面包房(北京朝阳区)",
+      "address": "大屯路东地铁站A1西南口旁",
+      "distance": "161m"
+    },
+    {
+      "brand": "久久丫·火锅鲜卤(大屯路东地铁站店)",
+      "address": "大屯路420号",
+      "distance": "164m"
+    },
+    {
+      "brand": "大眼包子(北苑路店)",
+      "address": "北京城区北苑路与大屯路辅路交叉口西北80米",
+      "distance": "166m"
+    },
+    {
+      "brand": "余婆炸鸡(大屯店)",
+      "address": "北京城区北苑路与大屯路辅路交叉口西北80米",
+      "distance": "176m"
+    },
+    {
+      "brand": "马大胡子食府",
+      "address": "北苑路150号(近地铁大屯路东站B1口)",
+      "distance": "177m"
+    },
+    {
+      "brand": "鸭卤乐·新鲜热卤(大屯路东店)",
+      "address": "北京城区大屯里422号1号楼1层",
+      "distance": "178m"
+    },
+    {
+      "brand": "煌上煌酱鸭(金泉广场购物中心店)",
+      "address": "大屯里318号楼金泉港地下一层",
+      "distance": "104m"
+    },
+    {
+      "brand": "段公子(金泉广场购物中心店)",
+      "address": "大屯路370号金泉广场购物中心F1层",
+      "distance": "106m"
+    },
+    {
+      "brand": "食柒小馆",
+      "address": "北京城区金泉港B1门东南90米(大屯路东地铁站A1西南口旁)",
+      "distance": "158m"
+    },
+    {
+      "brand": "所味小馆",
+      "address": "北苑路与大屯路辅路交叉口西北100米",
+      "distance": "159m"
+    },
+    {
+      "brand": "松鼠家面包房(北京朝阳区)",
+      "address": "大屯路东地铁站A1西南口旁",
+      "distance": "161m"
+    },
+    {
+      "brand": "久久丫·火锅鲜卤(大屯路东地铁站店)",
+      "address": "大屯路420号",
+      "distance": "164m"
+    },
+    {
+      "brand": "大眼包子(北苑路店)",
+      "address": "北京城区北苑路与大屯路辅路交叉口西北80米",
+      "distance": "166m"
+    },
+    {
+      "brand": "余婆炸鸡(大屯店)",
+      "address": "北京城区北苑路与大屯路辅路交叉口西北80米",
+      "distance": "176m"
+    },
+    {
+      "brand": "马大胡子食府",
+      "address": "北苑路150号(近地铁大屯路东站B1口)",
+      "distance": "177m"
+    },
+    {
+      "brand": "鸭卤乐·新鲜热卤(大屯路东店)",
+      "address": "北京城区大屯里422号1号楼1层",
+      "distance": "178m"
+    },
+    {
+      "brand": "煌上煌酱鸭(金泉广场购物中心店)",
+      "address": "大屯里318号楼金泉港地下一层",
+      "distance": "104m"
+    },
+    {
+      "brand": "段公子(金泉广场购物中心店)",
+      "address": "大屯路370号金泉广场购物中心F1层",
+      "distance": "106m"
+    },
+    {
+      "brand": "食柒小馆",
+      "address": "北京城区金泉港B1门东南90米(大屯路东地铁站A1西南口旁)",
+      "distance": "158m"
+    },
+    {
+      "brand": "所味小馆",
+      "address": "北苑路与大屯路辅路交叉口西北100米",
+      "distance": "159m"
+    },
+    {
+      "brand": "松鼠家面包房(北京朝阳区)",
+      "address": "大屯路东地铁站A1西南口旁",
+      "distance": "161m"
+    },
+    {
+      "brand": "久久丫·火锅鲜卤(大屯路东地铁站店)",
+      "address": "大屯路420号",
+      "distance": "164m"
+    },
+    {
+      "brand": "大眼包子(北苑路店)",
+      "address": "北京城区北苑路与大屯路辅路交叉口西北80米",
+      "distance": "166m"
+    },
+    {
+      "brand": "余婆炸鸡(大屯店)",
+      "address": "北京城区北苑路与大屯路辅路交叉口西北80米",
+      "distance": "176m"
+    },
+    {
+      "brand": "马大胡子食府",
+      "address": "北苑路150号(近地铁大屯路东站B1口)",
+      "distance": "177m"
+    },
+    {
+      "brand": "鸭卤乐·新鲜热卤(大屯路东店)",
+      "address": "北京城区大屯里422号1号楼1层",
+      "distance": "178m"
+    },
+    {
+      "brand": "煌上煌酱鸭(金泉广场购物中心店)",
+      "address": "大屯里318号楼金泉港地下一层",
+      "distance": "104m"
+    },
+    {
+      "brand": "段公子(金泉广场购物中心店)",
+      "address": "大屯路370号金泉广场购物中心F1层",
+      "distance": "106m"
+    },
+    {
+      "brand": "食柒小馆",
+      "address": "北京城区金泉港B1门东南90米(大屯路东地铁站A1西南口旁)",
+      "distance": "158m"
+    },
+    {
+      "brand": "所味小馆",
+      "address": "北苑路与大屯路辅路交叉口西北100米",
+      "distance": "159m"
+    },
+    {
+      "brand": "松鼠家面包房(北京朝阳区)",
+      "address": "大屯路东地铁站A1西南口旁",
+      "distance": "161m"
+    },
+    {
+      "brand": "久久丫·火锅鲜卤(大屯路东地铁站店)",
+      "address": "大屯路420号",
+      "distance": "164m"
+    },
+    {
+      "brand": "大眼包子(北苑路店)",
+      "address": "北京城区北苑路与大屯路辅路交叉口西北80米",
+      "distance": "166m"
+    },
+    {
+      "brand": "余婆炸鸡(大屯店)",
+      "address": "北京城区北苑路与大屯路辅路交叉口西北80米",
+      "distance": "176m"
+    },
+    {
+      "brand": "马大胡子食府",
+      "address": "北苑路150号(近地铁大屯路东站B1口)",
+      "distance": "177m"
+    },
+    {
+      "brand": "鸭卤乐·新鲜热卤(大屯路东店)",
+      "address": "北京城区大屯里422号1号楼1层",
+      "distance": "178m"
+    },
+    {
+      "brand": "煌上煌酱鸭(金泉广场购物中心店)",
+      "address": "大屯里318号楼金泉港地下一层",
+      "distance": "104m"
+    },
+    {
+      "brand": "段公子(金泉广场购物中心店)",
+      "address": "大屯路370号金泉广场购物中心F1层",
+      "distance": "106m"
+    },
+    {
+      "brand": "食柒小馆",
+      "address": "北京城区金泉港B1门东南90米(大屯路东地铁站A1西南口旁)",
+      "distance": "158m"
+    },
+    {
+      "brand": "所味小馆",
+      "address": "北苑路与大屯路辅路交叉口西北100米",
+      "distance": "159m"
+    },
+    {
+      "brand": "松鼠家面包房(北京朝阳区)",
+      "address": "大屯路东地铁站A1西南口旁",
+      "distance": "161m"
+    },
+    {
+      "brand": "久久丫·火锅鲜卤(大屯路东地铁站店)",
+      "address": "大屯路420号",
+      "distance": "164m"
+    },
+    {
+      "brand": "大眼包子(北苑路店)",
+      "address": "北京城区北苑路与大屯路辅路交叉口西北80米",
+      "distance": "166m"
+    },
+    {
+      "brand": "余婆炸鸡(大屯店)",
+      "address": "北京城区北苑路与大屯路辅路交叉口西北80米",
+      "distance": "176m"
+    },
+    {
+      "brand": "马大胡子食府",
+      "address": "北苑路150号(近地铁大屯路东站B1口)",
+      "distance": "177m"
+    },
+    {
+      "brand": "鸭卤乐·新鲜热卤(大屯路东店)",
+      "address": "北京城区大屯里422号1号楼1层",
+      "distance": "178m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "北京DT51",
+      "open_date": "2023-01-06",
+      "area": "8万㎡",
+      "jun_daily_avg": "1.6万人次",
+      "weekday_avg": "1.4万人次",
+      "holiday_avg": "2.2万人次"
+    },
+    {
+      "name": "北京亚运村图书大厦",
+      "open_date": "2016-06-07",
+      "area": "3000㎡",
+      "jun_daily_avg": "2.8万人次",
+      "weekday_avg": "2.8万人次",
+      "holiday_avg": "2.9万人次"
+    },
+    {
+      "name": "北京太阳飘亮购物中心",
+      "open_date": "2018-09-22",
+      "area": "4万㎡",
+      "jun_daily_avg": "2.4万人次",
+      "weekday_avg": "2.3万人次",
+      "holiday_avg": "2.6万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 40.0,
+      "within_1yr_pct": 32.5,
+      "1_3yr_pct": 62.5,
+      "over_3yr_pct": 5.0
+    },
+    {
+      "type": "购物",
+      "count": 26.0,
+      "within_1yr_pct": 34.6,
+      "1_3yr_pct": 53.8,
+      "over_3yr_pct": 11.5
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 9.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 55.6,
+      "over_3yr_pct": 11.1
+    },
+    {
+      "type": "教育培训",
+      "count": 7.0,
+      "within_1yr_pct": 42.9,
+      "1_3yr_pct": 28.6,
+      "over_3yr_pct": 28.6
+    },
+    {
+      "type": "酒店住宿",
+      "count": 5.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "生活服务",
+      "count": 28.0,
+      "within_1yr_pct": 28.6,
+      "1_3yr_pct": 46.4,
+      "over_3yr_pct": 25.0
+    },
+    {
+      "type": "运动健身",
+      "count": 7.0,
+      "within_1yr_pct": 14.3,
+      "1_3yr_pct": 42.9,
+      "over_3yr_pct": 42.9
+    },
+    {
+      "type": "车辆服务",
+      "count": 7.0,
+      "within_1yr_pct": 28.6,
+      "1_3yr_pct": 28.6,
+      "over_3yr_pct": 42.9
+    }
+  ]
+}

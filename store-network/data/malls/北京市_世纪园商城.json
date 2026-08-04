@@ -1,0 +1,430 @@
+{
+  "name": "世纪园商城",
+  "city": "北京市",
+  "address": "北京市怀柔区龙山街道南马道4号世纪园商城",
+  "lat": 40.314258,
+  "lng": 116.63466,
+  "overview": {
+    "score": 88.3,
+    "score_rank": "市内前30%",
+    "population_score": 83.8,
+    "area_score": 95.7,
+    "consumption_score": 64.6,
+    "industry_score": 88.3,
+    "annual_sales": "",
+    "annual_sales_unit": "",
+    "area_size_sqm": null,
+    "open_date": "",
+    "operator": "",
+    "brand": "",
+    "type": "",
+    "floors": ""
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "",
+    "annual_daily_rank": "",
+    "jun_total": null,
+    "jun_total_rank": "",
+    "jun_daily_avg": null,
+    "jun_daily_unit": "",
+    "jun_daily_rank": "",
+    "weekday_avg": null,
+    "weekday_unit": "",
+    "weekday_rank": "",
+    "holiday_avg": null,
+    "holiday_unit": "",
+    "holiday_rank": ""
+  },
+  "population": {
+    "residential": {
+      "500m": 1.7,
+      "1_5km": 9.7,
+      "3km": 18.6
+    },
+    "office": {
+      "500m": 1.6,
+      "1_5km": 4.9,
+      "3km": 8.9
+    },
+    "permanent": {
+      "500m": 2.5,
+      "1_5km": 10.6,
+      "3km": 19.5
+    }
+  },
+  "business": {
+    "competitors": 4.0,
+    "food": 278.0,
+    "shopping": 328.0,
+    "leisure": 22.0,
+    "education": 30.0,
+    "hotel": 31.0,
+    "services": 216.0,
+    "fitness": 15.0,
+    "auto": 14.0,
+    "total_stores": 936.0,
+    "old_store_3yr_pct": 59.0
+  },
+  "nearby_poi": {
+    "business": 3.0,
+    "community": 142.0,
+    "office": 9.0,
+    "school": 25.0,
+    "hospital": 42.0,
+    "transport": 17.0,
+    "scenic": 34.0
+  },
+  "demographics": {
+    "male_pct": 47.1,
+    "female_pct": null,
+    "education": {
+      "小学": 11.2,
+      "初中": 20.9,
+      "高中": 12.6,
+      "大专": 7.3,
+      "本科": 44.5,
+      "硕士": 2.5,
+      "博士": 1.0
+    },
+    "has_children_pct": null,
+    "no_children_pct": null
+  },
+  "scraped_at": "2026-08-01T23:45:13.723Z",
+  "nearby_restaurants": [
+    {
+      "brand": "暖燕·姨妈热饮·现炖燕窝(怀柔店)",
+      "address": "北京城区南小街2号2幢2层2018室",
+      "distance": "13m"
+    },
+    {
+      "brand": "家和水饺(第二档口美食汇美食城店)",
+      "address": "南马道与商业斜街交叉口西120米",
+      "distance": "51m"
+    },
+    {
+      "brand": "小熊家·徐州肉筋卷饼",
+      "address": "龙山街道商业街38号世纪园服装市场内二层212-1号",
+      "distance": "56m"
+    },
+    {
+      "brand": "米悦朝鲜族拌饭(怀柔店)",
+      "address": "商业街38号世纪园美食汇二层894",
+      "distance": "58m"
+    },
+    {
+      "brand": "沂蒙霸王炒鸡",
+      "address": "南马道与商业斜街交叉口西120米",
+      "distance": "63m"
+    },
+    {
+      "brand": "达每诺披萨",
+      "address": "南马道与商业斜街交叉口西100米",
+      "distance": "64m"
+    },
+    {
+      "brand": "北京陶辛怡小吃店",
+      "address": "南马道8号富商",
+      "distance": "71m"
+    },
+    {
+      "brand": "麻辣香锅王(元宝街店)",
+      "address": "北京市富商19号",
+      "distance": "73m"
+    },
+    {
+      "brand": "特色面食牛杂面",
+      "address": "北京城区元宝街小吃1号",
+      "distance": "74m"
+    },
+    {
+      "brand": "花小小新疆炒米粉·烤包子(怀柔嗨吃节商业街店)",
+      "address": "南马道8号富商F1层",
+      "distance": "75m"
+    },
+    {
+      "brand": "暖燕·姨妈热饮·现炖燕窝(怀柔店)",
+      "address": "北京城区南小街2号2幢2层2018室",
+      "distance": "13m"
+    },
+    {
+      "brand": "家和水饺(第二档口美食汇美食城店)",
+      "address": "南马道与商业斜街交叉口西120米",
+      "distance": "51m"
+    },
+    {
+      "brand": "小熊家·徐州肉筋卷饼",
+      "address": "龙山街道商业街38号世纪园服装市场内二层212-1号",
+      "distance": "56m"
+    },
+    {
+      "brand": "米悦朝鲜族拌饭(怀柔店)",
+      "address": "商业街38号世纪园美食汇二层894",
+      "distance": "58m"
+    },
+    {
+      "brand": "沂蒙霸王炒鸡",
+      "address": "南马道与商业斜街交叉口西120米",
+      "distance": "63m"
+    },
+    {
+      "brand": "达每诺披萨",
+      "address": "南马道与商业斜街交叉口西100米",
+      "distance": "64m"
+    },
+    {
+      "brand": "北京陶辛怡小吃店",
+      "address": "南马道8号富商",
+      "distance": "71m"
+    },
+    {
+      "brand": "麻辣香锅王(元宝街店)",
+      "address": "北京市富商19号",
+      "distance": "73m"
+    },
+    {
+      "brand": "特色面食牛杂面",
+      "address": "北京城区元宝街小吃1号",
+      "distance": "74m"
+    },
+    {
+      "brand": "花小小新疆炒米粉·烤包子(怀柔嗨吃节商业街店)",
+      "address": "南马道8号富商F1层",
+      "distance": "75m"
+    },
+    {
+      "brand": "暖燕·姨妈热饮·现炖燕窝(怀柔店)",
+      "address": "北京城区南小街2号2幢2层2018室",
+      "distance": "13m"
+    },
+    {
+      "brand": "家和水饺(第二档口美食汇美食城店)",
+      "address": "南马道与商业斜街交叉口西120米",
+      "distance": "51m"
+    },
+    {
+      "brand": "小熊家·徐州肉筋卷饼",
+      "address": "龙山街道商业街38号世纪园服装市场内二层212-1号",
+      "distance": "56m"
+    },
+    {
+      "brand": "米悦朝鲜族拌饭(怀柔店)",
+      "address": "商业街38号世纪园美食汇二层894",
+      "distance": "58m"
+    },
+    {
+      "brand": "沂蒙霸王炒鸡",
+      "address": "南马道与商业斜街交叉口西120米",
+      "distance": "63m"
+    },
+    {
+      "brand": "达每诺披萨",
+      "address": "南马道与商业斜街交叉口西100米",
+      "distance": "64m"
+    },
+    {
+      "brand": "北京陶辛怡小吃店",
+      "address": "南马道8号富商",
+      "distance": "71m"
+    },
+    {
+      "brand": "麻辣香锅王(元宝街店)",
+      "address": "北京市富商19号",
+      "distance": "73m"
+    },
+    {
+      "brand": "特色面食牛杂面",
+      "address": "北京城区元宝街小吃1号",
+      "distance": "74m"
+    },
+    {
+      "brand": "花小小新疆炒米粉·烤包子(怀柔嗨吃节商业街店)",
+      "address": "南马道8号富商F1层",
+      "distance": "75m"
+    },
+    {
+      "brand": "暖燕·姨妈热饮·现炖燕窝(怀柔店)",
+      "address": "北京城区南小街2号2幢2层2018室",
+      "distance": "13m"
+    },
+    {
+      "brand": "家和水饺(第二档口美食汇美食城店)",
+      "address": "南马道与商业斜街交叉口西120米",
+      "distance": "51m"
+    },
+    {
+      "brand": "小熊家·徐州肉筋卷饼",
+      "address": "龙山街道商业街38号世纪园服装市场内二层212-1号",
+      "distance": "56m"
+    },
+    {
+      "brand": "米悦朝鲜族拌饭(怀柔店)",
+      "address": "商业街38号世纪园美食汇二层894",
+      "distance": "58m"
+    },
+    {
+      "brand": "沂蒙霸王炒鸡",
+      "address": "南马道与商业斜街交叉口西120米",
+      "distance": "63m"
+    },
+    {
+      "brand": "达每诺披萨",
+      "address": "南马道与商业斜街交叉口西100米",
+      "distance": "64m"
+    },
+    {
+      "brand": "北京陶辛怡小吃店",
+      "address": "南马道8号富商",
+      "distance": "71m"
+    },
+    {
+      "brand": "麻辣香锅王(元宝街店)",
+      "address": "北京市富商19号",
+      "distance": "73m"
+    },
+    {
+      "brand": "特色面食牛杂面",
+      "address": "北京城区元宝街小吃1号",
+      "distance": "74m"
+    },
+    {
+      "brand": "花小小新疆炒米粉·烤包子(怀柔嗨吃节商业街店)",
+      "address": "南马道8号富商F1层",
+      "distance": "75m"
+    },
+    {
+      "brand": "暖燕·姨妈热饮·现炖燕窝(怀柔店)",
+      "address": "北京城区南小街2号2幢2层2018室",
+      "distance": "13m"
+    },
+    {
+      "brand": "家和水饺(第二档口美食汇美食城店)",
+      "address": "南马道与商业斜街交叉口西120米",
+      "distance": "51m"
+    },
+    {
+      "brand": "小熊家·徐州肉筋卷饼",
+      "address": "龙山街道商业街38号世纪园服装市场内二层212-1号",
+      "distance": "56m"
+    },
+    {
+      "brand": "米悦朝鲜族拌饭(怀柔店)",
+      "address": "商业街38号世纪园美食汇二层894",
+      "distance": "58m"
+    },
+    {
+      "brand": "沂蒙霸王炒鸡",
+      "address": "南马道与商业斜街交叉口西120米",
+      "distance": "63m"
+    },
+    {
+      "brand": "达每诺披萨",
+      "address": "南马道与商业斜街交叉口西100米",
+      "distance": "64m"
+    },
+    {
+      "brand": "北京陶辛怡小吃店",
+      "address": "南马道8号富商",
+      "distance": "71m"
+    },
+    {
+      "brand": "麻辣香锅王(元宝街店)",
+      "address": "北京市富商19号",
+      "distance": "73m"
+    },
+    {
+      "brand": "特色面食牛杂面",
+      "address": "北京城区元宝街小吃1号",
+      "distance": "74m"
+    },
+    {
+      "brand": "花小小新疆炒米粉·烤包子(怀柔嗨吃节商业街店)",
+      "address": "南马道8号富商F1层",
+      "distance": "75m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "北京世纪园商城",
+      "open_date": "2003-01-01",
+      "area": "-",
+      "jun_daily_avg": "2.6万人次",
+      "weekday_avg": "2.4万人次",
+      "holiday_avg": "3.4万人次"
+    },
+    {
+      "name": "北京京北大世界",
+      "open_date": "1995-08-18",
+      "area": "5万㎡",
+      "jun_daily_avg": "2.6万人次",
+      "weekday_avg": "2.4万人次",
+      "holiday_avg": "3.4万人次"
+    },
+    {
+      "name": "北京怀柔万达购物广场",
+      "open_date": "2018-01-01",
+      "area": "9万㎡",
+      "jun_daily_avg": "5.1万人次",
+      "weekday_avg": "4.4万人次",
+      "holiday_avg": "7.2万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 278.0,
+      "within_1yr_pct": 20.5,
+      "1_3yr_pct": 29.1,
+      "over_3yr_pct": 50.4
+    },
+    {
+      "type": "购物",
+      "count": 328.0,
+      "within_1yr_pct": 14.0,
+      "1_3yr_pct": 22.9,
+      "over_3yr_pct": 63.1
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 24.0,
+      "within_1yr_pct": 20.8,
+      "1_3yr_pct": 37.5,
+      "over_3yr_pct": 41.7
+    },
+    {
+      "type": "教育培训",
+      "count": 30.0,
+      "within_1yr_pct": 3.3,
+      "1_3yr_pct": 13.3,
+      "over_3yr_pct": 83.3
+    },
+    {
+      "type": "酒店住宿",
+      "count": 31.0,
+      "within_1yr_pct": 6.5,
+      "1_3yr_pct": 3.2,
+      "over_3yr_pct": 90.3
+    },
+    {
+      "type": "生活服务",
+      "count": 216.0,
+      "within_1yr_pct": 18.5,
+      "1_3yr_pct": 24.1,
+      "over_3yr_pct": 57.4
+    },
+    {
+      "type": "运动健身",
+      "count": 15.0,
+      "within_1yr_pct": 6.7,
+      "1_3yr_pct": 26.7,
+      "over_3yr_pct": 66.7
+    },
+    {
+      "type": "车辆服务",
+      "count": 14.0,
+      "within_1yr_pct": 21.4,
+      "1_3yr_pct": 14.3,
+      "over_3yr_pct": 64.3
+    }
+  ]
+}

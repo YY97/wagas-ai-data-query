@@ -1,0 +1,463 @@
+{
+  "name": "阿拉城",
+  "city": "上海市",
+  "address": "上海市闵行区虹桥镇先锋街66号阿拉城",
+  "lat": 31.177126,
+  "lng": 121.373745,
+  "overview": {
+    "score": 88.7,
+    "score_rank": "市内前30%",
+    "population_score": 85.9,
+    "area_score": 90.8,
+    "consumption_score": 78.5,
+    "industry_score": 88.8,
+    "annual_sales": "阿拉城是一个24小时不间断营业的商业体，融合了本土文化的归属感、异国情调的新鲜感和生态交互的自然感，提供餐饮、娱乐、教育、休闲等多种业态",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 3.7,
+    "open_date": "2018-06-19",
+    "operator": "上海老外街商业投资管理有限公司",
+    "brand": "",
+    "type": "美食型",
+    "floors": "B1-L4"
+  },
+  "traffic": {
+    "annual_daily": 3918.0,
+    "annual_daily_unit": "人次",
+    "annual_daily_rank": "市内第398",
+    "jun_total": 12.1,
+    "jun_total_rank": "市内商场第463名",
+    "jun_daily_avg": 4029.0,
+    "jun_daily_unit": "人次",
+    "jun_daily_rank": "市内商场第463名",
+    "weekday_avg": 3873.0,
+    "weekday_unit": "人次",
+    "weekday_rank": "市内商场第462名",
+    "holiday_avg": 4459.0,
+    "holiday_unit": "人次",
+    "holiday_rank": "市内商场第458名"
+  },
+  "population": {
+    "residential": {
+      "500m": 2.0,
+      "1_5km": 18.0,
+      "3km": 52.2
+    },
+    "office": {
+      "500m": 2.0,
+      "1_5km": 11.9,
+      "3km": 45.0
+    },
+    "permanent": {
+      "500m": 2.5,
+      "1_5km": 19.0,
+      "3km": 55.1
+    }
+  },
+  "business": {
+    "competitors": 7.0,
+    "food": 347.0,
+    "shopping": 233.0,
+    "leisure": 62.0,
+    "education": 66.0,
+    "hotel": 32.0,
+    "services": 255.0,
+    "fitness": 41.0,
+    "auto": 44.0,
+    "total_stores": 66.0,
+    "old_store_3yr_pct": 58.0
+  },
+  "nearby_poi": {
+    "business": 8.0,
+    "community": 406.0,
+    "office": 83.0,
+    "school": 32.0,
+    "hospital": 44.0,
+    "transport": 13.0,
+    "scenic": 219.0
+  },
+  "demographics": {
+    "male_pct": 52.1,
+    "female_pct": null,
+    "education": {
+      "小学": 9.4,
+      "初中": 18.0,
+      "高中": 11.4,
+      "大专": 7.9,
+      "本科": 47.3,
+      "硕士": 4.8,
+      "博士": 1.2
+    },
+    "has_children_pct": 59.5,
+    "no_children_pct": 40.5
+  },
+  "scraped_at": "2026-08-02T02:30:19.261Z",
+  "nearby_restaurants": [
+    {
+      "brand": "甬港汇三鲜·宁波菜小馆",
+      "address": "虹桥镇先锋街66号阿拉城街楼103-105",
+      "distance": "7m"
+    },
+    {
+      "brand": "咏富楼广式大排档(阿拉城店)",
+      "address": "先锋街66号阿拉城(龙柏新村地铁站3号口步行380米)",
+      "distance": "8m"
+    },
+    {
+      "brand": "高升私房菜",
+      "address": "闵行区青杉路先锋街66号阿拉城3号楼一楼3101-2(稠州银行旁边)",
+      "distance": "10m"
+    },
+    {
+      "brand": "破店肥哈·海鲜·烧烤(阿拉城店)",
+      "address": "先锋街66号(阿拉城)街楼",
+      "distance": "14m"
+    },
+    {
+      "brand": "美乐·MEILLEUR定制蛋糕·甜品台(阿拉城店)",
+      "address": "虹桥镇先锋街66号阿拉城2号楼111室",
+      "distance": "15m"
+    },
+    {
+      "brand": "拾猿精酿Ape Craft Beer(阿拉城店)",
+      "address": "阿拉城2号楼1楼110室(青衫路北门进中庭)",
+      "distance": "33m"
+    },
+    {
+      "brand": "彭浦一炸(青衫夜市店)",
+      "address": "先锋街66号阿拉城F1层(龙柏新村地铁站2号口步行380米)",
+      "distance": "33m"
+    },
+    {
+      "brand": "老友热面馆(青杉夜市店)",
+      "address": "先锋街66号阿拉城F1层(龙柏新村地铁站2号口步行420米)",
+      "distance": "36m"
+    },
+    {
+      "brand": "TPLUS茶家(阿拉城店)",
+      "address": "先锋街66号阿拉城F1层",
+      "distance": "36m"
+    },
+    {
+      "brand": "佬灶台湾街头小吃(阿拉城店)",
+      "address": "先锋街66号阿拉城F1层(龙柏新村地铁站2号口步行430米)",
+      "distance": "40m"
+    },
+    {
+      "brand": "甬港汇三鲜·宁波菜小馆",
+      "address": "虹桥镇先锋街66号阿拉城街楼103-105",
+      "distance": "7m"
+    },
+    {
+      "brand": "咏富楼广式大排档(阿拉城店)",
+      "address": "先锋街66号阿拉城(龙柏新村地铁站3号口步行380米)",
+      "distance": "8m"
+    },
+    {
+      "brand": "高升私房菜",
+      "address": "闵行区青杉路先锋街66号阿拉城3号楼一楼3101-2(稠州银行旁边)",
+      "distance": "10m"
+    },
+    {
+      "brand": "破店肥哈·海鲜·烧烤(阿拉城店)",
+      "address": "先锋街66号(阿拉城)街楼",
+      "distance": "14m"
+    },
+    {
+      "brand": "美乐·MEILLEUR定制蛋糕·甜品台(阿拉城店)",
+      "address": "虹桥镇先锋街66号阿拉城2号楼111室",
+      "distance": "15m"
+    },
+    {
+      "brand": "拾猿精酿Ape Craft Beer(阿拉城店)",
+      "address": "阿拉城2号楼1楼110室(青衫路北门进中庭)",
+      "distance": "33m"
+    },
+    {
+      "brand": "彭浦一炸(青衫夜市店)",
+      "address": "先锋街66号阿拉城F1层(龙柏新村地铁站2号口步行380米)",
+      "distance": "33m"
+    },
+    {
+      "brand": "老友热面馆(青杉夜市店)",
+      "address": "先锋街66号阿拉城F1层(龙柏新村地铁站2号口步行420米)",
+      "distance": "36m"
+    },
+    {
+      "brand": "TPLUS茶家(阿拉城店)",
+      "address": "先锋街66号阿拉城F1层",
+      "distance": "36m"
+    },
+    {
+      "brand": "佬灶台湾街头小吃(阿拉城店)",
+      "address": "先锋街66号阿拉城F1层(龙柏新村地铁站2号口步行430米)",
+      "distance": "40m"
+    },
+    {
+      "brand": "甬港汇三鲜·宁波菜小馆",
+      "address": "虹桥镇先锋街66号阿拉城街楼103-105",
+      "distance": "7m"
+    },
+    {
+      "brand": "咏富楼广式大排档(阿拉城店)",
+      "address": "先锋街66号阿拉城(龙柏新村地铁站3号口步行380米)",
+      "distance": "8m"
+    },
+    {
+      "brand": "高升私房菜",
+      "address": "闵行区青杉路先锋街66号阿拉城3号楼一楼3101-2(稠州银行旁边)",
+      "distance": "10m"
+    },
+    {
+      "brand": "破店肥哈·海鲜·烧烤(阿拉城店)",
+      "address": "先锋街66号(阿拉城)街楼",
+      "distance": "14m"
+    },
+    {
+      "brand": "美乐·MEILLEUR定制蛋糕·甜品台(阿拉城店)",
+      "address": "虹桥镇先锋街66号阿拉城2号楼111室",
+      "distance": "15m"
+    },
+    {
+      "brand": "拾猿精酿Ape Craft Beer(阿拉城店)",
+      "address": "阿拉城2号楼1楼110室(青衫路北门进中庭)",
+      "distance": "33m"
+    },
+    {
+      "brand": "彭浦一炸(青衫夜市店)",
+      "address": "先锋街66号阿拉城F1层(龙柏新村地铁站2号口步行380米)",
+      "distance": "33m"
+    },
+    {
+      "brand": "老友热面馆(青杉夜市店)",
+      "address": "先锋街66号阿拉城F1层(龙柏新村地铁站2号口步行420米)",
+      "distance": "36m"
+    },
+    {
+      "brand": "TPLUS茶家(阿拉城店)",
+      "address": "先锋街66号阿拉城F1层",
+      "distance": "36m"
+    },
+    {
+      "brand": "佬灶台湾街头小吃(阿拉城店)",
+      "address": "先锋街66号阿拉城F1层(龙柏新村地铁站2号口步行430米)",
+      "distance": "40m"
+    },
+    {
+      "brand": "甬港汇三鲜·宁波菜小馆",
+      "address": "虹桥镇先锋街66号阿拉城街楼103-105",
+      "distance": "7m"
+    },
+    {
+      "brand": "咏富楼广式大排档(阿拉城店)",
+      "address": "先锋街66号阿拉城(龙柏新村地铁站3号口步行380米)",
+      "distance": "8m"
+    },
+    {
+      "brand": "高升私房菜",
+      "address": "闵行区青杉路先锋街66号阿拉城3号楼一楼3101-2(稠州银行旁边)",
+      "distance": "10m"
+    },
+    {
+      "brand": "破店肥哈·海鲜·烧烤(阿拉城店)",
+      "address": "先锋街66号(阿拉城)街楼",
+      "distance": "14m"
+    },
+    {
+      "brand": "美乐·MEILLEUR定制蛋糕·甜品台(阿拉城店)",
+      "address": "虹桥镇先锋街66号阿拉城2号楼111室",
+      "distance": "15m"
+    },
+    {
+      "brand": "拾猿精酿Ape Craft Beer(阿拉城店)",
+      "address": "阿拉城2号楼1楼110室(青衫路北门进中庭)",
+      "distance": "33m"
+    },
+    {
+      "brand": "彭浦一炸(青衫夜市店)",
+      "address": "先锋街66号阿拉城F1层(龙柏新村地铁站2号口步行380米)",
+      "distance": "33m"
+    },
+    {
+      "brand": "老友热面馆(青杉夜市店)",
+      "address": "先锋街66号阿拉城F1层(龙柏新村地铁站2号口步行420米)",
+      "distance": "36m"
+    },
+    {
+      "brand": "TPLUS茶家(阿拉城店)",
+      "address": "先锋街66号阿拉城F1层",
+      "distance": "36m"
+    },
+    {
+      "brand": "佬灶台湾街头小吃(阿拉城店)",
+      "address": "先锋街66号阿拉城F1层(龙柏新村地铁站2号口步行430米)",
+      "distance": "40m"
+    },
+    {
+      "brand": "甬港汇三鲜·宁波菜小馆",
+      "address": "虹桥镇先锋街66号阿拉城街楼103-105",
+      "distance": "7m"
+    },
+    {
+      "brand": "咏富楼广式大排档(阿拉城店)",
+      "address": "先锋街66号阿拉城(龙柏新村地铁站3号口步行380米)",
+      "distance": "8m"
+    },
+    {
+      "brand": "高升私房菜",
+      "address": "闵行区青杉路先锋街66号阿拉城3号楼一楼3101-2(稠州银行旁边)",
+      "distance": "10m"
+    },
+    {
+      "brand": "破店肥哈·海鲜·烧烤(阿拉城店)",
+      "address": "先锋街66号(阿拉城)街楼",
+      "distance": "14m"
+    },
+    {
+      "brand": "美乐·MEILLEUR定制蛋糕·甜品台(阿拉城店)",
+      "address": "虹桥镇先锋街66号阿拉城2号楼111室",
+      "distance": "15m"
+    },
+    {
+      "brand": "拾猿精酿Ape Craft Beer(阿拉城店)",
+      "address": "阿拉城2号楼1楼110室(青衫路北门进中庭)",
+      "distance": "33m"
+    },
+    {
+      "brand": "彭浦一炸(青衫夜市店)",
+      "address": "先锋街66号阿拉城F1层(龙柏新村地铁站2号口步行380米)",
+      "distance": "33m"
+    },
+    {
+      "brand": "老友热面馆(青杉夜市店)",
+      "address": "先锋街66号阿拉城F1层(龙柏新村地铁站2号口步行420米)",
+      "distance": "36m"
+    },
+    {
+      "brand": "TPLUS茶家(阿拉城店)",
+      "address": "先锋街66号阿拉城F1层",
+      "distance": "36m"
+    },
+    {
+      "brand": "佬灶台湾街头小吃(阿拉城店)",
+      "address": "先锋街66号阿拉城F1层(龙柏新村地铁站2号口步行430米)",
+      "distance": "40m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海金石广场",
+      "open_date": "2023-01-01",
+      "area": "5.3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海乐坊·虹井生活广场",
+      "open_date": "2010-07-01",
+      "area": "2.4万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海爱琴海购物公园",
+      "open_date": "2017-12-16",
+      "area": "24万㎡",
+      "jun_daily_avg": "6万人次",
+      "weekday_avg": "5.6万人次",
+      "holiday_avg": "7.1万人次"
+    },
+    {
+      "name": "上海金汇四季广场",
+      "open_date": "2012-05-01",
+      "area": "3.3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海井亭天地生活广场",
+      "open_date": "2010-10-10",
+      "area": "2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海万象城",
+      "open_date": "2017-09-23",
+      "area": "24万㎡",
+      "jun_daily_avg": "6.8万人次",
+      "weekday_avg": "6万人次",
+      "holiday_avg": "8.8万人次"
+    },
+    {
+      "name": "风度国际生活广场",
+      "open_date": "-",
+      "area": "-",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "虹霞商城",
+      "open_date": "-",
+      "area": "-",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 35.0,
+      "within_1yr_pct": 17.1,
+      "1_3yr_pct": 17.1,
+      "over_3yr_pct": 65.7
+    },
+    {
+      "type": "购物",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 13.0,
+      "within_1yr_pct": 15.4,
+      "1_3yr_pct": 30.8,
+      "over_3yr_pct": 53.8
+    },
+    {
+      "type": "教育培训",
+      "count": 10.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "生活服务",
+      "count": 4.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 25.0
+    },
+    {
+      "type": "运动健身",
+      "count": 2.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    }
+  ]
+}

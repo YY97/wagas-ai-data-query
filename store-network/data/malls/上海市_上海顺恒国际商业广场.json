@@ -1,0 +1,454 @@
+{
+  "name": "上海顺恒国际商业广场",
+  "city": "上海市",
+  "address": "上海市闵行区沪星路289号",
+  "lat": 31.163547,
+  "lng": 121.338461,
+  "overview": {
+    "score": 78.9,
+    "score_rank": "市内前30%",
+    "population_score": 77.4,
+    "area_score": 68.5,
+    "consumption_score": 82.6,
+    "industry_score": 78.9,
+    "annual_sales": "上海顺恒国际商业广场位于上海七宝商圈，是一个集大型餐饮、娱乐、酒店、及综合休闲广场于一身的综合性商业中心 广场充分发挥体量优势，整合不同类型、各种消费层次商家，形成人性化、一站式的综合性商业中心 广场拥有近900个停车位，交通便利，7条建成以及拟建的轨道交通线路在此穿越，凭借地铁为商城带来巨大的人流量 广场坐拥七宝核心商圈，周边商业氛围成熟，精英客群在广场周边入驻率高 随着消费需求的升级及京沪高铁和虹桥机场开通，到2018年高端消费群体将极速增加，顺恒国际广场也将成为这些购物休闲群体的集中地 地址：上海市闵行区七宝镇沪星路289弄18号",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 11.0,
+    "open_date": "2010-01-01",
+    "operator": "上海顺恒实业有限公司",
+    "brand": "",
+    "type": "综合型",
+    "floors": "L1-L4"
+  },
+  "traffic": {
+    "annual_daily": 5452.0,
+    "annual_daily_unit": "人次",
+    "annual_daily_rank": "市内第349",
+    "jun_total": 15.3,
+    "jun_total_rank": "市内商场第421名",
+    "jun_daily_avg": 5103.0,
+    "jun_daily_unit": "人次",
+    "jun_daily_rank": "市内商场第421名",
+    "weekday_avg": 5019.0,
+    "weekday_unit": "人次",
+    "weekday_rank": "市内商场第420名",
+    "holiday_avg": 5333.0,
+    "holiday_unit": "人次",
+    "holiday_rank": "市内商场第428名"
+  },
+  "population": {
+    "residential": {
+      "500m": 1.4,
+      "1_5km": 12.9,
+      "3km": 48.5
+    },
+    "office": {
+      "500m": 6400.0,
+      "1_5km": 8.2,
+      "3km": 25.0
+    },
+    "permanent": {
+      "500m": 1.3,
+      "1_5km": 13.1,
+      "3km": 46.8
+    }
+  },
+  "business": {
+    "competitors": null,
+    "food": 100.0,
+    "shopping": 68.0,
+    "leisure": 13.0,
+    "education": 11.0,
+    "hotel": 33.0,
+    "services": 48.0,
+    "fitness": 22.0,
+    "auto": 28.0,
+    "total_stores": 88.0,
+    "old_store_3yr_pct": 56.0
+  },
+  "nearby_poi": {
+    "business": 6.0,
+    "community": 258.0,
+    "office": 23.0,
+    "school": 14.0,
+    "hospital": 33.0,
+    "transport": 7.0,
+    "scenic": 128.0
+  },
+  "demographics": {
+    "male_pct": 56.3,
+    "female_pct": null,
+    "education": {
+      "小学": 9.7,
+      "初中": 18.6,
+      "高中": 11.6,
+      "大专": 8.3,
+      "本科": 46.5,
+      "硕士": 4.4,
+      "博士": 0.9
+    },
+    "has_children_pct": 58.5,
+    "no_children_pct": 41.5
+  },
+  "scraped_at": "2026-07-31T17:51:10.872Z",
+  "nearby_restaurants": [
+    {
+      "brand": "御荐奇茗武夷岩茶空间(顺恒国际商业广场店)",
+      "address": "沪星路289弄18号顺恒国际商业广场C座F1层",
+      "distance": "12m"
+    },
+    {
+      "brand": "聚点音乐烤吧",
+      "address": "顺恒街与星站路交叉口西北160米",
+      "distance": "28m"
+    },
+    {
+      "brand": "星光夜市城(顺恒国际商业广场店)",
+      "address": "七宝镇沪星路289弄28号一层",
+      "distance": "32m"
+    },
+    {
+      "brand": "御彩轩中餐(顺恒国际商业广场店)",
+      "address": "沪星路289弄顺恒国际商业广场27号(近巴黎春天)",
+      "distance": "34m"
+    },
+    {
+      "brand": "马记云兰州牛肉面(顺恒国际商业广场店)",
+      "address": "沪星路289弄18号顺恒国际商业广场F1层",
+      "distance": "58m"
+    },
+    {
+      "brand": "食尚旋转小火锅",
+      "address": "七宝镇沪星路289弄32号顺恒国际商业广场D幢C-3地下车库旁",
+      "distance": "66m"
+    },
+    {
+      "brand": "星光烧烤(星光城店)",
+      "address": "顺恒街与星站路交叉口西北200米",
+      "distance": "67m"
+    },
+    {
+      "brand": "海鲨湾(七宝店)",
+      "address": "沪星路289弄25号",
+      "distance": "80m"
+    },
+    {
+      "brand": "河南农家大烩菜",
+      "address": "顺恒街与沪星路交叉口南180米",
+      "distance": "84m"
+    },
+    {
+      "brand": "好真记功夫面隆江猪脚饭(沪星路店)",
+      "address": "七宝镇沪星路289弄36号1层K区",
+      "distance": "85m"
+    },
+    {
+      "brand": "御荐奇茗武夷岩茶空间(顺恒国际商业广场店)",
+      "address": "沪星路289弄18号顺恒国际商业广场C座F1层",
+      "distance": "12m"
+    },
+    {
+      "brand": "聚点音乐烤吧",
+      "address": "顺恒街与星站路交叉口西北160米",
+      "distance": "28m"
+    },
+    {
+      "brand": "星光夜市城(顺恒国际商业广场店)",
+      "address": "七宝镇沪星路289弄28号一层",
+      "distance": "32m"
+    },
+    {
+      "brand": "御彩轩中餐(顺恒国际商业广场店)",
+      "address": "沪星路289弄顺恒国际商业广场27号(近巴黎春天)",
+      "distance": "34m"
+    },
+    {
+      "brand": "马记云兰州牛肉面(顺恒国际商业广场店)",
+      "address": "沪星路289弄18号顺恒国际商业广场F1层",
+      "distance": "58m"
+    },
+    {
+      "brand": "食尚旋转小火锅",
+      "address": "七宝镇沪星路289弄32号顺恒国际商业广场D幢C-3地下车库旁",
+      "distance": "66m"
+    },
+    {
+      "brand": "星光烧烤(星光城店)",
+      "address": "顺恒街与星站路交叉口西北200米",
+      "distance": "67m"
+    },
+    {
+      "brand": "海鲨湾(七宝店)",
+      "address": "沪星路289弄25号",
+      "distance": "80m"
+    },
+    {
+      "brand": "河南农家大烩菜",
+      "address": "顺恒街与沪星路交叉口南180米",
+      "distance": "84m"
+    },
+    {
+      "brand": "好真记功夫面隆江猪脚饭(沪星路店)",
+      "address": "七宝镇沪星路289弄36号1层K区",
+      "distance": "85m"
+    },
+    {
+      "brand": "御荐奇茗武夷岩茶空间(顺恒国际商业广场店)",
+      "address": "沪星路289弄18号顺恒国际商业广场C座F1层",
+      "distance": "12m"
+    },
+    {
+      "brand": "聚点音乐烤吧",
+      "address": "顺恒街与星站路交叉口西北160米",
+      "distance": "28m"
+    },
+    {
+      "brand": "星光夜市城(顺恒国际商业广场店)",
+      "address": "七宝镇沪星路289弄28号一层",
+      "distance": "32m"
+    },
+    {
+      "brand": "御彩轩中餐(顺恒国际商业广场店)",
+      "address": "沪星路289弄顺恒国际商业广场27号(近巴黎春天)",
+      "distance": "34m"
+    },
+    {
+      "brand": "马记云兰州牛肉面(顺恒国际商业广场店)",
+      "address": "沪星路289弄18号顺恒国际商业广场F1层",
+      "distance": "58m"
+    },
+    {
+      "brand": "食尚旋转小火锅",
+      "address": "七宝镇沪星路289弄32号顺恒国际商业广场D幢C-3地下车库旁",
+      "distance": "66m"
+    },
+    {
+      "brand": "星光烧烤(星光城店)",
+      "address": "顺恒街与星站路交叉口西北200米",
+      "distance": "67m"
+    },
+    {
+      "brand": "海鲨湾(七宝店)",
+      "address": "沪星路289弄25号",
+      "distance": "80m"
+    },
+    {
+      "brand": "河南农家大烩菜",
+      "address": "顺恒街与沪星路交叉口南180米",
+      "distance": "84m"
+    },
+    {
+      "brand": "好真记功夫面隆江猪脚饭(沪星路店)",
+      "address": "七宝镇沪星路289弄36号1层K区",
+      "distance": "85m"
+    },
+    {
+      "brand": "御荐奇茗武夷岩茶空间(顺恒国际商业广场店)",
+      "address": "沪星路289弄18号顺恒国际商业广场C座F1层",
+      "distance": "12m"
+    },
+    {
+      "brand": "聚点音乐烤吧",
+      "address": "顺恒街与星站路交叉口西北160米",
+      "distance": "28m"
+    },
+    {
+      "brand": "星光夜市城(顺恒国际商业广场店)",
+      "address": "七宝镇沪星路289弄28号一层",
+      "distance": "32m"
+    },
+    {
+      "brand": "御彩轩中餐(顺恒国际商业广场店)",
+      "address": "沪星路289弄顺恒国际商业广场27号(近巴黎春天)",
+      "distance": "34m"
+    },
+    {
+      "brand": "马记云兰州牛肉面(顺恒国际商业广场店)",
+      "address": "沪星路289弄18号顺恒国际商业广场F1层",
+      "distance": "58m"
+    },
+    {
+      "brand": "食尚旋转小火锅",
+      "address": "七宝镇沪星路289弄32号顺恒国际商业广场D幢C-3地下车库旁",
+      "distance": "66m"
+    },
+    {
+      "brand": "星光烧烤(星光城店)",
+      "address": "顺恒街与星站路交叉口西北200米",
+      "distance": "67m"
+    },
+    {
+      "brand": "海鲨湾(七宝店)",
+      "address": "沪星路289弄25号",
+      "distance": "80m"
+    },
+    {
+      "brand": "河南农家大烩菜",
+      "address": "顺恒街与沪星路交叉口南180米",
+      "distance": "84m"
+    },
+    {
+      "brand": "好真记功夫面隆江猪脚饭(沪星路店)",
+      "address": "七宝镇沪星路289弄36号1层K区",
+      "distance": "85m"
+    },
+    {
+      "brand": "御荐奇茗武夷岩茶空间(顺恒国际商业广场店)",
+      "address": "沪星路289弄18号顺恒国际商业广场C座F1层",
+      "distance": "12m"
+    },
+    {
+      "brand": "聚点音乐烤吧",
+      "address": "顺恒街与星站路交叉口西北160米",
+      "distance": "28m"
+    },
+    {
+      "brand": "星光夜市城(顺恒国际商业广场店)",
+      "address": "七宝镇沪星路289弄28号一层",
+      "distance": "32m"
+    },
+    {
+      "brand": "御彩轩中餐(顺恒国际商业广场店)",
+      "address": "沪星路289弄顺恒国际商业广场27号(近巴黎春天)",
+      "distance": "34m"
+    },
+    {
+      "brand": "马记云兰州牛肉面(顺恒国际商业广场店)",
+      "address": "沪星路289弄18号顺恒国际商业广场F1层",
+      "distance": "58m"
+    },
+    {
+      "brand": "食尚旋转小火锅",
+      "address": "七宝镇沪星路289弄32号顺恒国际商业广场D幢C-3地下车库旁",
+      "distance": "66m"
+    },
+    {
+      "brand": "星光烧烤(星光城店)",
+      "address": "顺恒街与星站路交叉口西北200米",
+      "distance": "67m"
+    },
+    {
+      "brand": "海鲨湾(七宝店)",
+      "address": "沪星路289弄25号",
+      "distance": "80m"
+    },
+    {
+      "brand": "河南农家大烩菜",
+      "address": "顺恒街与沪星路交叉口南180米",
+      "distance": "84m"
+    },
+    {
+      "brand": "好真记功夫面隆江猪脚饭(沪星路店)",
+      "address": "七宝镇沪星路289弄36号1层K区",
+      "distance": "85m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海金樽广场",
+      "open_date": "2015-12-01",
+      "area": "3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海华商时代广场",
+      "open_date": "2009",
+      "area": "13万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海汇宝购物广场",
+      "open_date": "2007-09-21",
+      "area": "2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海七宝万科广场",
+      "open_date": "2016-11-19",
+      "area": "14.9万㎡",
+      "jun_daily_avg": "7.7万人次",
+      "weekday_avg": "6.6万人次",
+      "holiday_avg": "10.5万人次"
+    },
+    {
+      "name": "上海融信上坤中心先番城",
+      "open_date": "2021-10-29",
+      "area": "3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海七宝宝龙城",
+      "open_date": "2016-10-12",
+      "area": "15万㎡",
+      "jun_daily_avg": "4.9万人次",
+      "weekday_avg": "4.6万人次",
+      "holiday_avg": "5.7万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 19.0,
+      "within_1yr_pct": 26.3,
+      "1_3yr_pct": 15.8,
+      "over_3yr_pct": 57.9
+    },
+    {
+      "type": "购物",
+      "count": 15.0,
+      "within_1yr_pct": 26.7,
+      "1_3yr_pct": 20.0,
+      "over_3yr_pct": 53.3
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 3.0,
+      "within_1yr_pct": 66.7,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 33.3
+    },
+    {
+      "type": "教育培训",
+      "count": 3.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 66.7
+    },
+    {
+      "type": "酒店住宿",
+      "count": 16.0,
+      "within_1yr_pct": 18.8,
+      "1_3yr_pct": 37.5,
+      "over_3yr_pct": 43.8
+    },
+    {
+      "type": "生活服务",
+      "count": 18.0,
+      "within_1yr_pct": 16.7,
+      "1_3yr_pct": 16.7,
+      "over_3yr_pct": 66.7
+    },
+    {
+      "type": "运动健身",
+      "count": 10.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 20.0,
+      "over_3yr_pct": 60.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 4.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 50.0
+    }
+  ]
+}

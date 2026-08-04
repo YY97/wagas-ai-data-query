@@ -1,0 +1,154 @@
+{
+  "name": "东方希望天祥广场",
+  "city": "成都市",
+  "address": "四川省成都市武侯区天府大道中段d5号",
+  "lat": 30.55291,
+  "lng": 104.067924,
+  "overview": {
+    "score": 94.8,
+    "score_rank": "市内前30%",
+    "population_score": 83.6,
+    "area_score": 92.1,
+    "consumption_score": 87.4,
+    "industry_score": 94.8,
+    "annual_sales": "东方希望天祥广场是位于成都国际城南CBD中央商务区核心的项目，包括2栋超高甲级写字楼、1栋精装酒店公寓、2栋精装华宅及中国首创的地标级峡谷商业群，其中超甲写字楼以219米的高度成为城南最高建筑 。",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 5.0,
+    "open_date": "2020-01-01",
+    "operator": "成都东方希望天祥置地有限公司",
+    "brand": "",
+    "type": "美食型",
+    "floors": "B1-L4"
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "-",
+    "annual_daily_rank": "",
+    "jun_total": 121.0,
+    "jun_total_rank": "市内商场第56名",
+    "jun_daily_avg": 4.0,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第56名",
+    "weekday_avg": 4.7,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第36名",
+    "holiday_avg": 2.1,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第117名"
+  },
+  "population": {
+    "residential": {
+      "500m": 1.8,
+      "1_5km": 7.1,
+      "3km": 33.1
+    },
+    "office": {
+      "500m": 7.4,
+      "1_5km": 20.3,
+      "3km": 38.7
+    },
+    "permanent": {
+      "500m": 2.9,
+      "1_5km": 8.8,
+      "3km": 34.4
+    }
+  },
+  "business": {
+    "competitors": 10.0,
+    "food": 371.0,
+    "shopping": 165.0,
+    "leisure": 44.0,
+    "education": 30.0,
+    "hotel": 79.0,
+    "services": 302.0,
+    "fitness": 41.0,
+    "auto": 36.0,
+    "total_stores": 324.0,
+    "old_store_3yr_pct": 43.0
+  },
+  "nearby_poi": {
+    "business": 4.0,
+    "community": 241.0,
+    "office": 91.0,
+    "school": 8.0,
+    "hospital": 76.0,
+    "transport": 19.0,
+    "scenic": 183.0
+  },
+  "demographics": {
+    "male_pct": 53.1,
+    "female_pct": null,
+    "education": {
+      "小学": 6.8,
+      "初中": 13.3,
+      "高中": 10.7,
+      "大专": 11.7,
+      "本科": 50.4,
+      "硕士": 6.3,
+      "博士": 0.8
+    },
+    "has_children_pct": 57.3,
+    "no_children_pct": 42.7
+  },
+  "scraped_at": "2026-08-02T07:14:38.400Z",
+  "nearby_restaurants": [],
+  "nearby_malls": [],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 96.0,
+      "within_1yr_pct": 16.7,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "购物",
+      "count": 33.0,
+      "within_1yr_pct": 15.2,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 51.5
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 16.0,
+      "within_1yr_pct": 62.5,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 12.5
+    },
+    {
+      "type": "教育培训",
+      "count": 14.0,
+      "within_1yr_pct": 14.3,
+      "1_3yr_pct": 42.9,
+      "over_3yr_pct": 42.9
+    },
+    {
+      "type": "酒店住宿",
+      "count": 34.0,
+      "within_1yr_pct": 23.5,
+      "1_3yr_pct": 20.6,
+      "over_3yr_pct": 55.9
+    },
+    {
+      "type": "生活服务",
+      "count": 110.0,
+      "within_1yr_pct": 23.6,
+      "1_3yr_pct": 39.1,
+      "over_3yr_pct": 37.3
+    },
+    {
+      "type": "运动健身",
+      "count": 8.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 12.5,
+      "over_3yr_pct": 62.5
+    },
+    {
+      "type": "车辆服务",
+      "count": 13.0,
+      "within_1yr_pct": 23.1,
+      "1_3yr_pct": 69.2,
+      "over_3yr_pct": 7.7
+    }
+  ]
+}

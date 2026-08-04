@@ -1,0 +1,241 @@
+{
+  "name": "华联力宝购物中心",
+  "city": "北京市",
+  "address": "上海市浦东新区南泉北路231号",
+  "lat": null,
+  "lng": null,
+  "overview": {
+    "score": 96.1,
+    "score_rank": "市内前30%",
+    "population_score": 95.3,
+    "area_score": 100.0,
+    "consumption_score": 84.6,
+    "industry_score": 96.1,
+    "annual_sales": "上海陆家嘴中心L+Mall是陆家嘴金融贸易区开发股份有限公司耗时6年精心开发的高端商业中心，是陆家嘴核心区大型城市综合体——陆家嘴金融广场的重要组成部分。项目商业体量约14万方，位于世纪大道、浦东南路、南泉北路、商城路交汇处，这里是陆家嘴核心区域黄金角",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 14.0,
+    "open_date": "2018-12-23",
+    "operator": "上海陆家嘴（集团）有限公司",
+    "brand": "陆家嘴商业",
+    "type": "综合型",
+    "floors": "B1-L9"
+  },
+  "traffic": {
+    "annual_daily": 4.29,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第47",
+    "jun_total": 216.1,
+    "jun_total_rank": "市内商场第27名",
+    "jun_daily_avg": 7.2,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第27名",
+    "weekday_avg": 7.4,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第11名",
+    "holiday_avg": 6.6,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第59名"
+  },
+  "population": {
+    "residential": {
+      "500m": 3.0,
+      "1_5km": 23.8,
+      "3km": 67.3
+    },
+    "office": {
+      "500m": 6.2,
+      "1_5km": 32.1,
+      "3km": 89.3
+    },
+    "permanent": {
+      "500m": 4.7,
+      "1_5km": 28.8,
+      "3km": 79.8
+    }
+  },
+  "business": {
+    "competitors": 20.0,
+    "food": 661.0,
+    "shopping": 627.0,
+    "leisure": 58.0,
+    "education": 102.0,
+    "hotel": 78.0,
+    "services": 507.0,
+    "fitness": 65.0,
+    "auto": 40.0,
+    "total_stores": 209.0,
+    "old_store_3yr_pct": 51.0
+  },
+  "nearby_poi": {
+    "business": 18.0,
+    "community": 487.0,
+    "office": 156.0,
+    "school": 46.0,
+    "hospital": 133.0,
+    "transport": 17.0,
+    "scenic": 616.0
+  },
+  "demographics": {
+    "male_pct": 46.0,
+    "female_pct": null,
+    "education": {
+      "小学": 9.0,
+      "初中": 16.4,
+      "高中": 10.6,
+      "大专": 7.0,
+      "本科": 48.6,
+      "硕士": 6.7,
+      "博士": 1.7
+    },
+    "has_children_pct": 58.2,
+    "no_children_pct": 41.8
+  },
+  "scraped_at": "2026-08-01T07:11:59.476Z",
+  "nearby_restaurants": [
+    {
+      "brand": "黄山菜饭骨头汤(陆家嘴店)",
+      "address": "东昌路445号(近浦城路)",
+      "distance": "499m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海新梅联合广场",
+      "open_date": "2005-01-01",
+      "area": "6万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海陆家嘴1885广场",
+      "open_date": "2009-01-01",
+      "area": "-",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海1088广场",
+      "open_date": "2014-12-12",
+      "area": "3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海浦东新大陆广场",
+      "open_date": "1997-06-03",
+      "area": "4万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海第一八佰伴",
+      "open_date": "1995-12-20",
+      "area": "10.8万㎡",
+      "jun_daily_avg": "3.2万人次",
+      "weekday_avg": "2.9万人次",
+      "holiday_avg": "3.8万人次"
+    },
+    {
+      "name": "上海湾生活时尚中心",
+      "open_date": "2013-03-18",
+      "area": "3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海华润时代广场",
+      "open_date": "2019-12-01",
+      "area": "5.1万㎡",
+      "jun_daily_avg": "2.3万人次",
+      "weekday_avg": "2.2万人次",
+      "holiday_avg": "2.7万人次"
+    },
+    {
+      "name": "上海MORE MEE 时尚生活中心",
+      "open_date": "2018-12-15",
+      "area": "3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海览海国际广场",
+      "open_date": "2017-11-28",
+      "area": "3.7万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海滨江世茂52+",
+      "open_date": "2018-12-21",
+      "area": "1.2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 74.0,
+      "within_1yr_pct": 14.9,
+      "1_3yr_pct": 27.0,
+      "over_3yr_pct": 58.1
+    },
+    {
+      "type": "购物",
+      "count": 85.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 30.6,
+      "over_3yr_pct": 49.4
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 9.0,
+      "within_1yr_pct": 44.4,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 22.2
+    },
+    {
+      "type": "教育培训",
+      "count": 5.0,
+      "within_1yr_pct": 40.0,
+      "1_3yr_pct": 20.0,
+      "over_3yr_pct": 40.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "生活服务",
+      "count": 20.0,
+      "within_1yr_pct": 30.0,
+      "1_3yr_pct": 20.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "运动健身",
+      "count": 6.0,
+      "within_1yr_pct": 16.7,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 8.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 50.0
+    }
+  ]
+}

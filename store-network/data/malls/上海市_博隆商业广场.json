@@ -1,0 +1,205 @@
+{
+  "name": "博隆商业广场",
+  "city": "上海市",
+  "address": "上海市浦东新区周祝公路270号",
+  "lat": 31.102616,
+  "lng": 121.609883,
+  "overview": {
+    "score": 91.9,
+    "score_rank": "市内前30%",
+    "population_score": 67.8,
+    "area_score": 64.6,
+    "consumption_score": 64.9,
+    "industry_score": 92.1,
+    "annual_sales": "集购物、餐饮、娱乐、休闲于一体的多元化时尚生活中心商业中心，依托医学园区庞大的产业体量和周边别墅群强大消费力",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 3.5,
+    "open_date": "2015-09-01",
+    "operator": "绿地控股集团股份有限公司",
+    "brand": "绿地控股greenland",
+    "type": "美食型",
+    "floors": "B1-L3"
+  },
+  "traffic": {
+    "annual_daily": 1.36,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第191",
+    "jun_total": 45.3,
+    "jun_total_rank": "市内商场第232名",
+    "jun_daily_avg": 1.5,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第232名",
+    "weekday_avg": 1.6,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第219名",
+    "holiday_avg": 1.4,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第265名"
+  },
+  "population": {
+    "residential": {
+      "500m": 6100.0,
+      "1_5km": 6.8,
+      "3km": 32.7
+    },
+    "office": {
+      "500m": 5800.0,
+      "1_5km": 3.5,
+      "3km": 14.5
+    },
+    "permanent": {
+      "500m": 5700.0,
+      "1_5km": 5.8,
+      "3km": 30.2
+    }
+  },
+  "business": {
+    "competitors": 3.0,
+    "food": 80.0,
+    "shopping": 20.0,
+    "leisure": 4.0,
+    "education": 4.0,
+    "hotel": 20.0,
+    "services": 13.0,
+    "fitness": 11.0,
+    "auto": 8.0,
+    "total_stores": 116.0,
+    "old_store_3yr_pct": 53.0
+  },
+  "nearby_poi": {
+    "business": null,
+    "community": 132.0,
+    "office": 15.0,
+    "school": 11.0,
+    "hospital": 22.0,
+    "transport": 7.0,
+    "scenic": 38.0
+  },
+  "demographics": {
+    "male_pct": 52.0,
+    "female_pct": null,
+    "education": {
+      "小学": 8.7,
+      "初中": 17.3,
+      "高中": 13.0,
+      "大专": 9.1,
+      "本科": 44.9,
+      "硕士": 5.6,
+      "博士": 1.4
+    },
+    "has_children_pct": 61.7,
+    "no_children_pct": 38.3
+  },
+  "scraped_at": "2026-08-01T12:12:15.124Z",
+  "nearby_restaurants": [
+    {
+      "brand": "NOWWA挪瓦咖啡(上海健康医学院店)",
+      "address": "天雄路555号上海健康医学院北苑食堂二楼",
+      "distance": "413m"
+    },
+    {
+      "brand": "安吉竹林土鸡✌(活杀新鲜)",
+      "address": "周秀路99号平安里菜场内B7",
+      "distance": "416m"
+    },
+    {
+      "brand": "豫香正宗黄牛肉(周秀路店)",
+      "address": "周浦镇周秀路99号内B25",
+      "distance": "418m"
+    },
+    {
+      "brand": "早阳肉包(平安里菜场店)",
+      "address": "周浦镇周秀路99号A8",
+      "distance": "421m"
+    },
+    {
+      "brand": "京卤坊老北京烤鸭(平安里店)",
+      "address": "周秀路99号",
+      "distance": "421m"
+    },
+    {
+      "brand": "星巴克沿街取餐点(医谷现代商务园店)",
+      "address": "天雄路588号",
+      "distance": "458m"
+    },
+    {
+      "brand": "秋林阁千岛湖鱼味馆(周浦店)",
+      "address": "周浦镇天雄路588弄第1-28号14幢2楼",
+      "distance": "460m"
+    },
+    {
+      "brand": "库迪咖啡(周秀北路店)",
+      "address": "周秀北路89弄1-60号慧智·仁恒派国际租赁社区25号",
+      "distance": "476m"
+    },
+    {
+      "brand": "Fresh Vibe希腊酸奶碗(周浦店)",
+      "address": "周浦镇周秀北路八十九弄28号",
+      "distance": "482m"
+    },
+    {
+      "brand": "福建千里香馄饨王(周秀北路店)",
+      "address": "周秀北路与周祝公路交叉口西北140米",
+      "distance": "499m"
+    }
+  ],
+  "nearby_malls": [],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 66.0,
+      "within_1yr_pct": 22.7,
+      "1_3yr_pct": 24.2,
+      "over_3yr_pct": 53.0
+    },
+    {
+      "type": "购物",
+      "count": 12.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 75.0
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 3.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 33.3
+    },
+    {
+      "type": "教育培训",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 18.0,
+      "within_1yr_pct": 16.7,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "生活服务",
+      "count": 10.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 30.0
+    },
+    {
+      "type": "运动健身",
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 4.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 50.0
+    }
+  ]
+}

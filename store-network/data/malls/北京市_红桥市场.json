@@ -1,0 +1,183 @@
+{
+  "name": "红桥市场",
+  "city": "北京市",
+  "address": "上海市奉贤区海湾镇海尚·生活广场",
+  "lat": null,
+  "lng": null,
+  "overview": {
+    "score": 87.5,
+    "score_rank": "市内前30%",
+    "population_score": 96.1,
+    "area_score": 63.8,
+    "consumption_score": 60.9,
+    "industry_score": 87.6,
+    "annual_sales": "海尚广场位于郑州主城西北高档住宅区，是一个集自持商业、开放式商业街区、SOHO办公、LOFT塔楼、生态企业总部等于一体的综合体。项目旨在创建一个全新的本地步行、生活方式零售对话框，以公园式的互动街区和商业无缝衔接，为顾客打造良好的购物+社交双重体验",
+    "annual_sales_unit": "-",
+    "area_size_sqm": null,
+    "open_date": "2019-12-01",
+    "operator": "",
+    "brand": "",
+    "type": "美食型",
+    "floors": "L1-L5"
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "-",
+    "annual_daily_rank": "",
+    "jun_total": 4.4,
+    "jun_total_rank": "市内商场第556名",
+    "jun_daily_avg": 1460.0,
+    "jun_daily_unit": "人次",
+    "jun_daily_rank": "市内商场第556名",
+    "weekday_avg": 1403.0,
+    "weekday_unit": "人次",
+    "weekday_rank": "市内商场第556名",
+    "holiday_avg": 1614.0,
+    "holiday_unit": "人次",
+    "holiday_rank": "市内商场第554名"
+  },
+  "population": {
+    "residential": {
+      "500m": 2.4,
+      "1_5km": 9.8,
+      "3km": 14.0
+    },
+    "office": {
+      "500m": 5400.0,
+      "1_5km": 3.2,
+      "3km": 5.3
+    },
+    "permanent": {
+      "500m": 1.2,
+      "1_5km": 5.7,
+      "3km": 9.4
+    }
+  },
+  "business": {
+    "competitors": null,
+    "food": 108.0,
+    "shopping": 17.0,
+    "leisure": 5.0,
+    "education": 3.0,
+    "hotel": null,
+    "services": 12.0,
+    "fitness": 2.0,
+    "auto": 2.0,
+    "total_stores": 83.0,
+    "old_store_3yr_pct": 43.0
+  },
+  "nearby_poi": {
+    "business": 1.0,
+    "community": 36.0,
+    "office": 2.0,
+    "school": 11.0,
+    "hospital": 4.0,
+    "transport": 3.0,
+    "scenic": 45.0
+  },
+  "demographics": {
+    "male_pct": 51.1,
+    "female_pct": null,
+    "education": {
+      "小学": 7.6,
+      "初中": 21.5,
+      "高中": 26.9,
+      "大专": 5.5,
+      "本科": 36.1,
+      "硕士": 1.8,
+      "博士": 0.6
+    },
+    "has_children_pct": 45.2,
+    "no_children_pct": 54.8
+  },
+  "scraped_at": "2026-08-01T08:10:09.292Z",
+  "nearby_restaurants": [
+    {
+      "brand": "王记东北大盒饭",
+      "address": "沁园路与奋进路交叉口北120米",
+      "distance": "474m"
+    },
+    {
+      "brand": "陕西腊汁肉夹馍凉皮水饺(海湾路店)",
+      "address": "柘林镇海泉路888弄3号",
+      "distance": "474m"
+    },
+    {
+      "brand": "香喷喷木桶饭",
+      "address": "沁园路与奋进路交叉口北120米",
+      "distance": "478m"
+    },
+    {
+      "brand": "兰州牛肉面(海泉路店)",
+      "address": "海泉路888弄10号",
+      "distance": "482m"
+    },
+    {
+      "brand": "紫阳烧烤(华理店)",
+      "address": "柘林镇海泉路888号",
+      "distance": "488m"
+    },
+    {
+      "brand": "阿婆春饼",
+      "address": "沁园路与奋进路交叉口西北100米",
+      "distance": "489m"
+    },
+    {
+      "brand": "GaPao泰式打抛饭(海湾店)",
+      "address": "沁园路与奋进路交叉口西北120米",
+      "distance": "490m"
+    },
+    {
+      "brand": "老狼拌面拌饭米线",
+      "address": "海泉路888弄15号",
+      "distance": "490m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海佳源梦想广场",
+      "open_date": "2017-01-01",
+      "area": "10万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 74.0,
+      "within_1yr_pct": 28.4,
+      "1_3yr_pct": 28.4,
+      "over_3yr_pct": 43.2
+    },
+    {
+      "type": "购物",
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "教育培训",
+      "count": 2.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "生活服务",
+      "count": 3.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 66.7
+    }
+  ]
+}

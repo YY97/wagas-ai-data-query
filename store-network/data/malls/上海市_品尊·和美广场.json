@@ -1,0 +1,454 @@
+{
+  "name": "品尊·和美广场",
+  "city": "上海市",
+  "address": "上海市普陀区石泉路街道喜茶(品尊国际中心B座店)品尊国际中心B座",
+  "lat": 31.256736,
+  "lng": 121.420606,
+  "overview": {
+    "score": 82.7,
+    "score_rank": "市内前30%",
+    "population_score": 90.1,
+    "area_score": 68.4,
+    "consumption_score": 72.8,
+    "industry_score": 82.8,
+    "annual_sales": "",
+    "annual_sales_unit": "",
+    "area_size_sqm": null,
+    "open_date": "",
+    "operator": "",
+    "brand": "",
+    "type": "",
+    "floors": ""
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "",
+    "annual_daily_rank": "",
+    "jun_total": null,
+    "jun_total_rank": "",
+    "jun_daily_avg": null,
+    "jun_daily_unit": "",
+    "jun_daily_rank": "",
+    "weekday_avg": null,
+    "weekday_unit": "",
+    "weekday_rank": "",
+    "holiday_avg": null,
+    "holiday_unit": "",
+    "holiday_rank": ""
+  },
+  "population": {
+    "residential": {
+      "500m": 2.5,
+      "1_5km": 27.7,
+      "3km": 118.3
+    },
+    "office": {
+      "500m": 1.3,
+      "1_5km": 14.0,
+      "3km": 59.9
+    },
+    "permanent": {
+      "500m": 2.5,
+      "1_5km": 29.1,
+      "3km": 122.9
+    }
+  },
+  "business": {
+    "competitors": 6.0,
+    "food": 77.0,
+    "shopping": 37.0,
+    "leisure": 6.0,
+    "education": 4.0,
+    "hotel": 9.0,
+    "services": 41.0,
+    "fitness": 14.0,
+    "auto": 7.0,
+    "total_stores": 197.0,
+    "old_store_3yr_pct": 57.0
+  },
+  "nearby_poi": {
+    "business": 6.0,
+    "community": 635.0,
+    "office": 59.0,
+    "school": 49.0,
+    "hospital": 73.0,
+    "transport": 7.0,
+    "scenic": 171.0
+  },
+  "demographics": {
+    "male_pct": 50.3,
+    "female_pct": null,
+    "education": {
+      "小学": 9.4,
+      "初中": 18.1,
+      "高中": 11.7,
+      "大专": 7.1,
+      "本科": 48.0,
+      "硕士": 4.1,
+      "博士": 1.6
+    },
+    "has_children_pct": null,
+    "no_children_pct": null
+  },
+  "scraped_at": "2026-07-31T11:47:59.990Z",
+  "nearby_restaurants": [
+    {
+      "brand": "廿門冰室(品尊国际店)",
+      "address": "铜川路26号地下一层38廿门冰室",
+      "distance": "12m"
+    },
+    {
+      "brand": "磁盛天毛血旺(品尊国际店)",
+      "address": "岚皋路567号品尊国际中心B座B1层",
+      "distance": "20m"
+    },
+    {
+      "brand": "新叻荟·南洋小馆(品尊店)",
+      "address": "铜川路26号地下一层-16-5",
+      "distance": "24m"
+    },
+    {
+      "brand": "老乡鸡(品尊国际中心店)",
+      "address": "铜川路26号B1层18室号",
+      "distance": "28m"
+    },
+    {
+      "brand": "弄堂咪道(品尊和美店)",
+      "address": "岚皋路555号品尊国际中心A座B1层",
+      "distance": "28m"
+    },
+    {
+      "brand": "潮味居陈记潮汕牛肉火锅·汕头牛肉粿条",
+      "address": "岚皋路555号品尊国际中心A座B1层",
+      "distance": "38m"
+    },
+    {
+      "brand": "提姆餐饮(品尊国际中心B座店)",
+      "address": "岚皋路567号品尊国际中心B座",
+      "distance": "40m"
+    },
+    {
+      "brand": "小杨生煎(上海品尊国际店)",
+      "address": "上海城区铜川路26-35号",
+      "distance": "41m"
+    },
+    {
+      "brand": "小满手工粉(品尊国际店)",
+      "address": "岚皋路555号品尊国际中心B1层17-3号",
+      "distance": "41m"
+    },
+    {
+      "brand": "滨寿司(岚皋路辅路店)",
+      "address": "岚皋路555号品尊国际中心A座B1层(岚皋路地铁站5号口旁)",
+      "distance": "43m"
+    },
+    {
+      "brand": "廿門冰室(品尊国际店)",
+      "address": "铜川路26号地下一层38廿门冰室",
+      "distance": "12m"
+    },
+    {
+      "brand": "磁盛天毛血旺(品尊国际店)",
+      "address": "岚皋路567号品尊国际中心B座B1层",
+      "distance": "20m"
+    },
+    {
+      "brand": "新叻荟·南洋小馆(品尊店)",
+      "address": "铜川路26号地下一层-16-5",
+      "distance": "24m"
+    },
+    {
+      "brand": "老乡鸡(品尊国际中心店)",
+      "address": "铜川路26号B1层18室号",
+      "distance": "28m"
+    },
+    {
+      "brand": "弄堂咪道(品尊和美店)",
+      "address": "岚皋路555号品尊国际中心A座B1层",
+      "distance": "28m"
+    },
+    {
+      "brand": "潮味居陈记潮汕牛肉火锅·汕头牛肉粿条",
+      "address": "岚皋路555号品尊国际中心A座B1层",
+      "distance": "38m"
+    },
+    {
+      "brand": "提姆餐饮(品尊国际中心B座店)",
+      "address": "岚皋路567号品尊国际中心B座",
+      "distance": "40m"
+    },
+    {
+      "brand": "小杨生煎(上海品尊国际店)",
+      "address": "上海城区铜川路26-35号",
+      "distance": "41m"
+    },
+    {
+      "brand": "小满手工粉(品尊国际店)",
+      "address": "岚皋路555号品尊国际中心B1层17-3号",
+      "distance": "41m"
+    },
+    {
+      "brand": "滨寿司(岚皋路辅路店)",
+      "address": "岚皋路555号品尊国际中心A座B1层(岚皋路地铁站5号口旁)",
+      "distance": "43m"
+    },
+    {
+      "brand": "廿門冰室(品尊国际店)",
+      "address": "铜川路26号地下一层38廿门冰室",
+      "distance": "12m"
+    },
+    {
+      "brand": "磁盛天毛血旺(品尊国际店)",
+      "address": "岚皋路567号品尊国际中心B座B1层",
+      "distance": "20m"
+    },
+    {
+      "brand": "新叻荟·南洋小馆(品尊店)",
+      "address": "铜川路26号地下一层-16-5",
+      "distance": "24m"
+    },
+    {
+      "brand": "老乡鸡(品尊国际中心店)",
+      "address": "铜川路26号B1层18室号",
+      "distance": "28m"
+    },
+    {
+      "brand": "弄堂咪道(品尊和美店)",
+      "address": "岚皋路555号品尊国际中心A座B1层",
+      "distance": "28m"
+    },
+    {
+      "brand": "潮味居陈记潮汕牛肉火锅·汕头牛肉粿条",
+      "address": "岚皋路555号品尊国际中心A座B1层",
+      "distance": "38m"
+    },
+    {
+      "brand": "提姆餐饮(品尊国际中心B座店)",
+      "address": "岚皋路567号品尊国际中心B座",
+      "distance": "40m"
+    },
+    {
+      "brand": "小杨生煎(上海品尊国际店)",
+      "address": "上海城区铜川路26-35号",
+      "distance": "41m"
+    },
+    {
+      "brand": "小满手工粉(品尊国际店)",
+      "address": "岚皋路555号品尊国际中心B1层17-3号",
+      "distance": "41m"
+    },
+    {
+      "brand": "滨寿司(岚皋路辅路店)",
+      "address": "岚皋路555号品尊国际中心A座B1层(岚皋路地铁站5号口旁)",
+      "distance": "43m"
+    },
+    {
+      "brand": "廿門冰室(品尊国际店)",
+      "address": "铜川路26号地下一层38廿门冰室",
+      "distance": "12m"
+    },
+    {
+      "brand": "磁盛天毛血旺(品尊国际店)",
+      "address": "岚皋路567号品尊国际中心B座B1层",
+      "distance": "20m"
+    },
+    {
+      "brand": "新叻荟·南洋小馆(品尊店)",
+      "address": "铜川路26号地下一层-16-5",
+      "distance": "24m"
+    },
+    {
+      "brand": "老乡鸡(品尊国际中心店)",
+      "address": "铜川路26号B1层18室号",
+      "distance": "28m"
+    },
+    {
+      "brand": "弄堂咪道(品尊和美店)",
+      "address": "岚皋路555号品尊国际中心A座B1层",
+      "distance": "28m"
+    },
+    {
+      "brand": "潮味居陈记潮汕牛肉火锅·汕头牛肉粿条",
+      "address": "岚皋路555号品尊国际中心A座B1层",
+      "distance": "38m"
+    },
+    {
+      "brand": "提姆餐饮(品尊国际中心B座店)",
+      "address": "岚皋路567号品尊国际中心B座",
+      "distance": "40m"
+    },
+    {
+      "brand": "小杨生煎(上海品尊国际店)",
+      "address": "上海城区铜川路26-35号",
+      "distance": "41m"
+    },
+    {
+      "brand": "小满手工粉(品尊国际店)",
+      "address": "岚皋路555号品尊国际中心B1层17-3号",
+      "distance": "41m"
+    },
+    {
+      "brand": "滨寿司(岚皋路辅路店)",
+      "address": "岚皋路555号品尊国际中心A座B1层(岚皋路地铁站5号口旁)",
+      "distance": "43m"
+    },
+    {
+      "brand": "廿門冰室(品尊国际店)",
+      "address": "铜川路26号地下一层38廿门冰室",
+      "distance": "12m"
+    },
+    {
+      "brand": "磁盛天毛血旺(品尊国际店)",
+      "address": "岚皋路567号品尊国际中心B座B1层",
+      "distance": "20m"
+    },
+    {
+      "brand": "新叻荟·南洋小馆(品尊店)",
+      "address": "铜川路26号地下一层-16-5",
+      "distance": "24m"
+    },
+    {
+      "brand": "老乡鸡(品尊国际中心店)",
+      "address": "铜川路26号B1层18室号",
+      "distance": "28m"
+    },
+    {
+      "brand": "弄堂咪道(品尊和美店)",
+      "address": "岚皋路555号品尊国际中心A座B1层",
+      "distance": "28m"
+    },
+    {
+      "brand": "潮味居陈记潮汕牛肉火锅·汕头牛肉粿条",
+      "address": "岚皋路555号品尊国际中心A座B1层",
+      "distance": "38m"
+    },
+    {
+      "brand": "提姆餐饮(品尊国际中心B座店)",
+      "address": "岚皋路567号品尊国际中心B座",
+      "distance": "40m"
+    },
+    {
+      "brand": "小杨生煎(上海品尊国际店)",
+      "address": "上海城区铜川路26-35号",
+      "distance": "41m"
+    },
+    {
+      "brand": "小满手工粉(品尊国际店)",
+      "address": "岚皋路555号品尊国际中心B1层17-3号",
+      "distance": "41m"
+    },
+    {
+      "brand": "滨寿司(岚皋路辅路店)",
+      "address": "岚皋路555号品尊国际中心A座B1层(岚皋路地铁站5号口旁)",
+      "distance": "43m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海弘基时尚生活中心(铜川路店)",
+      "open_date": "2012-03-01",
+      "area": "3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海融创精彩天地",
+      "open_date": "2019-12-01",
+      "area": "1.8万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海真如环宇城MAX",
+      "open_date": "2023-12-22",
+      "area": "7.1万㎡",
+      "jun_daily_avg": "9.5万人次",
+      "weekday_avg": "8.7万人次",
+      "holiday_avg": "11.6万人次"
+    },
+    {
+      "name": "上海高·尚领域国际购物城",
+      "open_date": "-",
+      "area": "-",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海真如复悦荟",
+      "open_date": "2019-01-11",
+      "area": "4.8万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海普陀绿地缤纷城",
+      "open_date": "2021-04-30",
+      "area": "3.4万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 77.0,
+      "within_1yr_pct": 13.0,
+      "1_3yr_pct": 24.7,
+      "over_3yr_pct": 62.3
+    },
+    {
+      "type": "购物",
+      "count": 37.0,
+      "within_1yr_pct": 24.3,
+      "1_3yr_pct": 16.2,
+      "over_3yr_pct": 59.5
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 8.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 62.5,
+      "over_3yr_pct": 37.5
+    },
+    {
+      "type": "教育培训",
+      "count": 4.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 9.0,
+      "within_1yr_pct": 22.2,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 44.4
+    },
+    {
+      "type": "生活服务",
+      "count": 41.0,
+      "within_1yr_pct": 4.9,
+      "1_3yr_pct": 29.3,
+      "over_3yr_pct": 65.9
+    },
+    {
+      "type": "运动健身",
+      "count": 14.0,
+      "within_1yr_pct": 28.6,
+      "1_3yr_pct": 35.7,
+      "over_3yr_pct": 35.7
+    },
+    {
+      "type": "车辆服务",
+      "count": 7.0,
+      "within_1yr_pct": 28.6,
+      "1_3yr_pct": 42.9,
+      "over_3yr_pct": 28.6
+    }
+  ]
+}

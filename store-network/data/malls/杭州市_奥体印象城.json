@@ -1,0 +1,422 @@
+{
+  "name": "奥体印象城",
+  "city": "杭州市",
+  "address": "浙江省杭州市萧山区飞虹路1408号",
+  "lat": 30.223465,
+  "lng": 120.252861,
+  "overview": {
+    "score": 96.5,
+    "score_rank": "市内前30%",
+    "population_score": 87.3,
+    "area_score": 76.3,
+    "consumption_score": 90.6,
+    "industry_score": 96.6,
+    "annual_sales": "42.58",
+    "annual_sales_unit": "亿元",
+    "area_size_sqm": 25.0,
+    "open_date": "2021-09-30",
+    "operator": "印力商用置业有限公司",
+    "brand": "印力",
+    "type": "综合型",
+    "floors": "B1-L6"
+  },
+  "traffic": {
+    "annual_daily": 5.7,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第7",
+    "jun_total": 289.8,
+    "jun_total_rank": "市内商场第3名",
+    "jun_daily_avg": 9.7,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第3名",
+    "weekday_avg": 8.4,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第3名",
+    "holiday_avg": 13.3,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第5名"
+  },
+  "population": {
+    "residential": {
+      "500m": 1.3,
+      "1_5km": 10.6,
+      "3km": 30.6
+    },
+    "office": {
+      "500m": 5500.0,
+      "1_5km": 5.4,
+      "3km": 21.1
+    },
+    "permanent": {
+      "500m": 1.4,
+      "1_5km": 9.2,
+      "3km": 26.9
+    }
+  },
+  "business": {
+    "competitors": 5.0,
+    "food": 215.0,
+    "shopping": 182.0,
+    "leisure": 18.0,
+    "education": 12.0,
+    "hotel": 3.0,
+    "services": 71.0,
+    "fitness": 8.0,
+    "auto": 20.0,
+    "total_stores": 381.0,
+    "old_store_3yr_pct": 46.0
+  },
+  "nearby_poi": {
+    "business": 2.0,
+    "community": 172.0,
+    "office": 43.0,
+    "school": 17.0,
+    "hospital": 42.0,
+    "transport": 7.0,
+    "scenic": 66.0
+  },
+  "demographics": {
+    "male_pct": 50.7,
+    "female_pct": null,
+    "education": {
+      "小学": 7.5,
+      "初中": 14.3,
+      "高中": 11.4,
+      "大专": 11.7,
+      "本科": 49.0,
+      "硕士": 5.3,
+      "博士": 0.8
+    },
+    "has_children_pct": 58.6,
+    "no_children_pct": 41.4
+  },
+  "scraped_at": "2026-07-31T13:23:51.723Z",
+  "nearby_restaurants": [
+    {
+      "brand": "甘煸记·干煸辣子鸡(奥体印象城店)",
+      "address": "盈丰街道飞虹路1408号汇德隆印象城MG-B1-K04号(淡马茶坊对面)",
+      "distance": "0m"
+    },
+    {
+      "brand": "牛哒寿喜烧·和牛海鲜自助火锅(奥体店)",
+      "address": "飞虹路1408号奥体印象城L5层15号",
+      "distance": "1m"
+    },
+    {
+      "brand": "狐狸爱上椰子鸡(奥体印象城5楼)",
+      "address": "飞虹路与书音路交叉口南120米,印象城5楼",
+      "distance": "2m"
+    },
+    {
+      "brand": "蔚来咖啡(奥体印象城店)",
+      "address": "飞虹路1408号印力汇德隆杭州奥体印象城2F层",
+      "distance": "2m"
+    },
+    {
+      "brand": "O2鲜榨果汁(杭州奥体印象城店)",
+      "address": "飞虹路杭州奥体印象城MG-B1-K10",
+      "distance": "4m"
+    },
+    {
+      "brand": "左庭右院鲜牛肉火锅(杭州奥体印象城店)",
+      "address": "飞虹路1408号汇德隆奥体印象城5F左庭右院",
+      "distance": "5m"
+    },
+    {
+      "brand": "轻丘·轻糖蛋糕(奥体印象城店)",
+      "address": "飞虹路1408号汇德隆印象城B1层MG-B1-K18",
+      "distance": "6m"
+    },
+    {
+      "brand": "柒园·三十年创意杭帮菜(奥体店)",
+      "address": "飞虹路1408号汇德隆奥体印象城4层L4-34",
+      "distance": "7m"
+    },
+    {
+      "brand": "巧克叔叔",
+      "address": "奥体印象城B1层B1-K01A(必胜客对面)",
+      "distance": "7m"
+    },
+    {
+      "brand": "寿司郎(印力汇德隆杭州奥体印象城店)",
+      "address": "印力汇德隆杭州奥体印象城4层03-04",
+      "distance": "9m"
+    },
+    {
+      "brand": "甘煸记·干煸辣子鸡(奥体印象城店)",
+      "address": "盈丰街道飞虹路1408号汇德隆印象城MG-B1-K04号(淡马茶坊对面)",
+      "distance": "0m"
+    },
+    {
+      "brand": "牛哒寿喜烧·和牛海鲜自助火锅(奥体店)",
+      "address": "飞虹路1408号奥体印象城L5层15号",
+      "distance": "1m"
+    },
+    {
+      "brand": "狐狸爱上椰子鸡(奥体印象城5楼)",
+      "address": "飞虹路与书音路交叉口南120米,印象城5楼",
+      "distance": "2m"
+    },
+    {
+      "brand": "蔚来咖啡(奥体印象城店)",
+      "address": "飞虹路1408号印力汇德隆杭州奥体印象城2F层",
+      "distance": "2m"
+    },
+    {
+      "brand": "O2鲜榨果汁(杭州奥体印象城店)",
+      "address": "飞虹路杭州奥体印象城MG-B1-K10",
+      "distance": "4m"
+    },
+    {
+      "brand": "左庭右院鲜牛肉火锅(杭州奥体印象城店)",
+      "address": "飞虹路1408号汇德隆奥体印象城5F左庭右院",
+      "distance": "5m"
+    },
+    {
+      "brand": "轻丘·轻糖蛋糕(奥体印象城店)",
+      "address": "飞虹路1408号汇德隆印象城B1层MG-B1-K18",
+      "distance": "6m"
+    },
+    {
+      "brand": "柒园·三十年创意杭帮菜(奥体店)",
+      "address": "飞虹路1408号汇德隆奥体印象城4层L4-34",
+      "distance": "7m"
+    },
+    {
+      "brand": "巧克叔叔",
+      "address": "奥体印象城B1层B1-K01A(必胜客对面)",
+      "distance": "7m"
+    },
+    {
+      "brand": "寿司郎(印力汇德隆杭州奥体印象城店)",
+      "address": "印力汇德隆杭州奥体印象城4层03-04",
+      "distance": "9m"
+    },
+    {
+      "brand": "甘煸记·干煸辣子鸡(奥体印象城店)",
+      "address": "盈丰街道飞虹路1408号汇德隆印象城MG-B1-K04号(淡马茶坊对面)",
+      "distance": "0m"
+    },
+    {
+      "brand": "牛哒寿喜烧·和牛海鲜自助火锅(奥体店)",
+      "address": "飞虹路1408号奥体印象城L5层15号",
+      "distance": "1m"
+    },
+    {
+      "brand": "狐狸爱上椰子鸡(奥体印象城5楼)",
+      "address": "飞虹路与书音路交叉口南120米,印象城5楼",
+      "distance": "2m"
+    },
+    {
+      "brand": "蔚来咖啡(奥体印象城店)",
+      "address": "飞虹路1408号印力汇德隆杭州奥体印象城2F层",
+      "distance": "2m"
+    },
+    {
+      "brand": "O2鲜榨果汁(杭州奥体印象城店)",
+      "address": "飞虹路杭州奥体印象城MG-B1-K10",
+      "distance": "4m"
+    },
+    {
+      "brand": "左庭右院鲜牛肉火锅(杭州奥体印象城店)",
+      "address": "飞虹路1408号汇德隆奥体印象城5F左庭右院",
+      "distance": "5m"
+    },
+    {
+      "brand": "轻丘·轻糖蛋糕(奥体印象城店)",
+      "address": "飞虹路1408号汇德隆印象城B1层MG-B1-K18",
+      "distance": "6m"
+    },
+    {
+      "brand": "柒园·三十年创意杭帮菜(奥体店)",
+      "address": "飞虹路1408号汇德隆奥体印象城4层L4-34",
+      "distance": "7m"
+    },
+    {
+      "brand": "巧克叔叔",
+      "address": "奥体印象城B1层B1-K01A(必胜客对面)",
+      "distance": "7m"
+    },
+    {
+      "brand": "寿司郎(印力汇德隆杭州奥体印象城店)",
+      "address": "印力汇德隆杭州奥体印象城4层03-04",
+      "distance": "9m"
+    },
+    {
+      "brand": "甘煸记·干煸辣子鸡(奥体印象城店)",
+      "address": "盈丰街道飞虹路1408号汇德隆印象城MG-B1-K04号(淡马茶坊对面)",
+      "distance": "0m"
+    },
+    {
+      "brand": "牛哒寿喜烧·和牛海鲜自助火锅(奥体店)",
+      "address": "飞虹路1408号奥体印象城L5层15号",
+      "distance": "1m"
+    },
+    {
+      "brand": "狐狸爱上椰子鸡(奥体印象城5楼)",
+      "address": "飞虹路与书音路交叉口南120米,印象城5楼",
+      "distance": "2m"
+    },
+    {
+      "brand": "蔚来咖啡(奥体印象城店)",
+      "address": "飞虹路1408号印力汇德隆杭州奥体印象城2F层",
+      "distance": "2m"
+    },
+    {
+      "brand": "O2鲜榨果汁(杭州奥体印象城店)",
+      "address": "飞虹路杭州奥体印象城MG-B1-K10",
+      "distance": "4m"
+    },
+    {
+      "brand": "左庭右院鲜牛肉火锅(杭州奥体印象城店)",
+      "address": "飞虹路1408号汇德隆奥体印象城5F左庭右院",
+      "distance": "5m"
+    },
+    {
+      "brand": "轻丘·轻糖蛋糕(奥体印象城店)",
+      "address": "飞虹路1408号汇德隆印象城B1层MG-B1-K18",
+      "distance": "6m"
+    },
+    {
+      "brand": "柒园·三十年创意杭帮菜(奥体店)",
+      "address": "飞虹路1408号汇德隆奥体印象城4层L4-34",
+      "distance": "7m"
+    },
+    {
+      "brand": "巧克叔叔",
+      "address": "奥体印象城B1层B1-K01A(必胜客对面)",
+      "distance": "7m"
+    },
+    {
+      "brand": "寿司郎(印力汇德隆杭州奥体印象城店)",
+      "address": "印力汇德隆杭州奥体印象城4层03-04",
+      "distance": "9m"
+    },
+    {
+      "brand": "甘煸记·干煸辣子鸡(奥体印象城店)",
+      "address": "盈丰街道飞虹路1408号汇德隆印象城MG-B1-K04号(淡马茶坊对面)",
+      "distance": "0m"
+    },
+    {
+      "brand": "牛哒寿喜烧·和牛海鲜自助火锅(奥体店)",
+      "address": "飞虹路1408号奥体印象城L5层15号",
+      "distance": "1m"
+    },
+    {
+      "brand": "狐狸爱上椰子鸡(奥体印象城5楼)",
+      "address": "飞虹路与书音路交叉口南120米,印象城5楼",
+      "distance": "2m"
+    },
+    {
+      "brand": "蔚来咖啡(奥体印象城店)",
+      "address": "飞虹路1408号印力汇德隆杭州奥体印象城2F层",
+      "distance": "2m"
+    },
+    {
+      "brand": "O2鲜榨果汁(杭州奥体印象城店)",
+      "address": "飞虹路杭州奥体印象城MG-B1-K10",
+      "distance": "4m"
+    },
+    {
+      "brand": "左庭右院鲜牛肉火锅(杭州奥体印象城店)",
+      "address": "飞虹路1408号汇德隆奥体印象城5F左庭右院",
+      "distance": "5m"
+    },
+    {
+      "brand": "轻丘·轻糖蛋糕(奥体印象城店)",
+      "address": "飞虹路1408号汇德隆印象城B1层MG-B1-K18",
+      "distance": "6m"
+    },
+    {
+      "brand": "柒园·三十年创意杭帮菜(奥体店)",
+      "address": "飞虹路1408号汇德隆奥体印象城4层L4-34",
+      "distance": "7m"
+    },
+    {
+      "brand": "巧克叔叔",
+      "address": "奥体印象城B1层B1-K01A(必胜客对面)",
+      "distance": "7m"
+    },
+    {
+      "brand": "寿司郎(印力汇德隆杭州奥体印象城店)",
+      "address": "印力汇德隆杭州奥体印象城4层03-04",
+      "distance": "9m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "杭州融创钱江印",
+      "open_date": "2021-09-30",
+      "area": "10万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "杭州世纪中心商场AURA HZ",
+      "open_date": "2025-12-24",
+      "area": "12万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 153.0,
+      "within_1yr_pct": 12.4,
+      "1_3yr_pct": 43.1,
+      "over_3yr_pct": 44.4
+    },
+    {
+      "type": "购物",
+      "count": 141.0,
+      "within_1yr_pct": 15.6,
+      "1_3yr_pct": 38.3,
+      "over_3yr_pct": 46.1
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 19.0,
+      "within_1yr_pct": 21.1,
+      "1_3yr_pct": 15.8,
+      "over_3yr_pct": 63.2
+    },
+    {
+      "type": "教育培训",
+      "count": 8.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 25.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    },
+    {
+      "type": "生活服务",
+      "count": 33.0,
+      "within_1yr_pct": 21.2,
+      "1_3yr_pct": 36.4,
+      "over_3yr_pct": 42.4
+    },
+    {
+      "type": "运动健身",
+      "count": 8.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 18.0,
+      "within_1yr_pct": 22.2,
+      "1_3yr_pct": 27.8,
+      "over_3yr_pct": 50.0
+    }
+  ]
+}

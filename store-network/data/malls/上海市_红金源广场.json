@@ -1,0 +1,163 @@
+{
+  "name": "红金源广场",
+  "city": "上海市",
+  "address": "上海市金山区石化街道卫零路133号红金源广场",
+  "lat": 30.714467,
+  "lng": 121.339043,
+  "overview": {
+    "score": null,
+    "score_rank": "",
+    "population_score": 80.1,
+    "area_score": 69.8,
+    "consumption_score": 60.6,
+    "industry_score": 66.7,
+    "annual_sales": "",
+    "annual_sales_unit": "",
+    "area_size_sqm": null,
+    "open_date": "",
+    "operator": "",
+    "brand": "",
+    "type": "综合型",
+    "floors": ""
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "",
+    "annual_daily_rank": "",
+    "jun_total": null,
+    "jun_total_rank": "",
+    "jun_daily_avg": null,
+    "jun_daily_unit": "",
+    "jun_daily_rank": "",
+    "weekday_avg": null,
+    "weekday_unit": "",
+    "weekday_rank": "",
+    "holiday_avg": null,
+    "holiday_unit": "",
+    "holiday_rank": ""
+  },
+  "population": {
+    "residential": {
+      "500m": 1.6,
+      "1_5km": 8.8,
+      "3km": 22.4
+    },
+    "office": {
+      "500m": 7900.0,
+      "1_5km": 4.4,
+      "3km": 10.2
+    },
+    "permanent": {
+      "500m": 1.5,
+      "1_5km": 8.8,
+      "3km": 21.9
+    }
+  },
+  "business": {
+    "competitors": 1.0,
+    "food": 90.0,
+    "shopping": 89.0,
+    "leisure": 10.0,
+    "education": 2.0,
+    "hotel": 27.0,
+    "services": 65.0,
+    "fitness": 6.0,
+    "auto": 5.0,
+    "total_stores": 16.0,
+    "old_store_3yr_pct": 88.0
+  },
+  "nearby_poi": {
+    "business": null,
+    "community": 92.0,
+    "office": 18.0,
+    "school": 28.0,
+    "hospital": 17.0,
+    "transport": 17.0,
+    "scenic": 63.0
+  },
+  "demographics": {
+    "male_pct": null,
+    "female_pct": null,
+    "education": {
+      "小学": 11.2,
+      "初中": 21.9,
+      "高中": 11.8,
+      "大专": 8.1,
+      "本科": 43.8,
+      "硕士": 2.4,
+      "博士": 0.8
+    },
+    "has_children_pct": 59.1,
+    "no_children_pct": 40.9
+  },
+  "scraped_at": "2026-08-01T14:41:12.424Z",
+  "nearby_restaurants": [
+    {
+      "brand": "爱琴海音乐茶室(卫一路店)",
+      "address": "卫一路128号",
+      "distance": "392m"
+    },
+    {
+      "brand": "网红玉锁牛肉粉丝煲",
+      "address": "北随塘河路与新城路交叉口西南140米",
+      "distance": "399m"
+    },
+    {
+      "brand": "下半场音乐烤吧",
+      "address": "石化一村西南门北160米",
+      "distance": "403m"
+    },
+    {
+      "brand": "车站老饭店",
+      "address": "沪杭公路8508弄-1",
+      "distance": "411m"
+    },
+    {
+      "brand": "逍遥镇胡辣汤(卫一路店)",
+      "address": "石化街道卫一路120号-临",
+      "distance": "412m"
+    },
+    {
+      "brand": "九玖茶室(北随塘河路商业街店)",
+      "address": "北随塘河路138号北随塘河路商业街",
+      "distance": "438m"
+    },
+    {
+      "brand": "再回首烧鸡公火锅城(北随塘河路商业街店)",
+      "address": "北随塘河路226号",
+      "distance": "449m"
+    },
+    {
+      "brand": "海宁煲店(北随塘河路商业街店)",
+      "address": "北随塘河路248号",
+      "distance": "477m"
+    },
+    {
+      "brand": "兔喜",
+      "address": "隆安路与梅州街交叉口西140米",
+      "distance": "477m"
+    },
+    {
+      "brand": "云南生态石锅鱼",
+      "address": "隆平路759号(石化汽车站旁边)",
+      "distance": "483m"
+    }
+  ],
+  "nearby_malls": [],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 7.0,
+      "within_1yr_pct": 14.3,
+      "1_3yr_pct": 14.3,
+      "over_3yr_pct": 71.4
+    },
+    {
+      "type": "购物",
+      "count": 9.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    }
+  ]
+}

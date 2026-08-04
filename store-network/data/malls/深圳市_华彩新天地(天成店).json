@@ -1,0 +1,486 @@
+{
+  "name": "华彩新天地(天成店)",
+  "city": "深圳市",
+  "address": "广东省深圳市南山区粤海街道文心一路98号金钟大厦",
+  "lat": 22.517873,
+  "lng": 113.928886,
+  "overview": {
+    "score": 86.3,
+    "score_rank": "市内前30%",
+    "population_score": 95.4,
+    "area_score": 90.9,
+    "consumption_score": 86.1,
+    "industry_score": 86.3,
+    "annual_sales": "",
+    "annual_sales_unit": "",
+    "area_size_sqm": null,
+    "open_date": "",
+    "operator": "",
+    "brand": "",
+    "type": "",
+    "floors": ""
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "",
+    "annual_daily_rank": "",
+    "jun_total": null,
+    "jun_total_rank": "",
+    "jun_daily_avg": null,
+    "jun_daily_unit": "",
+    "jun_daily_rank": "",
+    "weekday_avg": null,
+    "weekday_unit": "",
+    "weekday_rank": "",
+    "holiday_avg": null,
+    "holiday_unit": "",
+    "holiday_rank": ""
+  },
+  "population": {
+    "residential": {
+      "500m": 5.3,
+      "1_5km": 44.4,
+      "3km": 94.1
+    },
+    "office": {
+      "500m": 2.9,
+      "1_5km": 28.4,
+      "3km": 71.1
+    },
+    "permanent": {
+      "500m": 5.1,
+      "1_5km": 39.9,
+      "3km": 87.5
+    }
+  },
+  "business": {
+    "competitors": 7.0,
+    "food": 395.0,
+    "shopping": 529.0,
+    "leisure": 45.0,
+    "education": 123.0,
+    "hotel": 90.0,
+    "services": 348.0,
+    "fitness": 56.0,
+    "auto": 33.0,
+    "total_stores": 1649.0,
+    "old_store_3yr_pct": 51.0
+  },
+  "nearby_poi": {
+    "business": 14.0,
+    "community": 441.0,
+    "office": 154.0,
+    "school": 38.0,
+    "hospital": 196.0,
+    "transport": 19.0,
+    "scenic": 241.0
+  },
+  "demographics": {
+    "male_pct": 47.2,
+    "female_pct": null,
+    "education": {
+      "小学": 10.4,
+      "初中": 17.0,
+      "高中": 11.5,
+      "大专": 8.1,
+      "本科": 46.2,
+      "硕士": 5.9,
+      "博士": 0.9
+    },
+    "has_children_pct": null,
+    "no_children_pct": null
+  },
+  "scraped_at": "2026-08-02T10:07:15.539Z",
+  "nearby_restaurants": [
+    {
+      "brand": "潮汕华发牛肉店(青春家园店)",
+      "address": "文心一路100号(南山书城地铁站H口步行210米)",
+      "distance": "23m"
+    },
+    {
+      "brand": "客味古法盐焗鸡(粤海店)",
+      "address": "粤海街道海珠社区文心一路99号金钟大厦161",
+      "distance": "26m"
+    },
+    {
+      "brand": "Project Beef",
+      "address": "文心一路99-34号金钟大厦",
+      "distance": "30m"
+    },
+    {
+      "brand": "中华牛肉面(金钟大厦店)",
+      "address": "金钟大厦东南门旁(南山书城地铁站H口步行250米)",
+      "distance": "34m"
+    },
+    {
+      "brand": "杨姐汕头牛肉粉店(金钟大厦店)",
+      "address": "文心一路103号金钟大厦F1层",
+      "distance": "35m"
+    },
+    {
+      "brand": "阿内哥·古早味(青春家园店)",
+      "address": "南海大道2718青春家园",
+      "distance": "36m"
+    },
+    {
+      "brand": "潮鲜味汤粉店(金钟大厦店)",
+      "address": "文心一路103号金钟大厦F1层",
+      "distance": "40m"
+    },
+    {
+      "brand": "耕读茶社(明香商业广场店)",
+      "address": "文心一路48号明香商业广场F3层",
+      "distance": "40m"
+    },
+    {
+      "brand": "三两粉·湖南手工米粉(深圳南山金钟店)",
+      "address": "粤海道海珠社区文心一路99号金钟大厦1-22",
+      "distance": "41m"
+    },
+    {
+      "brand": "楠楠茶馆",
+      "address": "海德一道与文心一路交叉口北80米",
+      "distance": "49m"
+    },
+    {
+      "brand": "潮汕华发牛肉店(青春家园店)",
+      "address": "文心一路100号(南山书城地铁站H口步行210米)",
+      "distance": "23m"
+    },
+    {
+      "brand": "客味古法盐焗鸡(粤海店)",
+      "address": "粤海街道海珠社区文心一路99号金钟大厦161",
+      "distance": "26m"
+    },
+    {
+      "brand": "Project Beef",
+      "address": "文心一路99-34号金钟大厦",
+      "distance": "30m"
+    },
+    {
+      "brand": "中华牛肉面(金钟大厦店)",
+      "address": "金钟大厦东南门旁(南山书城地铁站H口步行250米)",
+      "distance": "34m"
+    },
+    {
+      "brand": "杨姐汕头牛肉粉店(金钟大厦店)",
+      "address": "文心一路103号金钟大厦F1层",
+      "distance": "35m"
+    },
+    {
+      "brand": "阿内哥·古早味(青春家园店)",
+      "address": "南海大道2718青春家园",
+      "distance": "36m"
+    },
+    {
+      "brand": "潮鲜味汤粉店(金钟大厦店)",
+      "address": "文心一路103号金钟大厦F1层",
+      "distance": "40m"
+    },
+    {
+      "brand": "耕读茶社(明香商业广场店)",
+      "address": "文心一路48号明香商业广场F3层",
+      "distance": "40m"
+    },
+    {
+      "brand": "三两粉·湖南手工米粉(深圳南山金钟店)",
+      "address": "粤海道海珠社区文心一路99号金钟大厦1-22",
+      "distance": "41m"
+    },
+    {
+      "brand": "楠楠茶馆",
+      "address": "海德一道与文心一路交叉口北80米",
+      "distance": "49m"
+    },
+    {
+      "brand": "潮汕华发牛肉店(青春家园店)",
+      "address": "文心一路100号(南山书城地铁站H口步行210米)",
+      "distance": "23m"
+    },
+    {
+      "brand": "客味古法盐焗鸡(粤海店)",
+      "address": "粤海街道海珠社区文心一路99号金钟大厦161",
+      "distance": "26m"
+    },
+    {
+      "brand": "Project Beef",
+      "address": "文心一路99-34号金钟大厦",
+      "distance": "30m"
+    },
+    {
+      "brand": "中华牛肉面(金钟大厦店)",
+      "address": "金钟大厦东南门旁(南山书城地铁站H口步行250米)",
+      "distance": "34m"
+    },
+    {
+      "brand": "杨姐汕头牛肉粉店(金钟大厦店)",
+      "address": "文心一路103号金钟大厦F1层",
+      "distance": "35m"
+    },
+    {
+      "brand": "阿内哥·古早味(青春家园店)",
+      "address": "南海大道2718青春家园",
+      "distance": "36m"
+    },
+    {
+      "brand": "潮鲜味汤粉店(金钟大厦店)",
+      "address": "文心一路103号金钟大厦F1层",
+      "distance": "40m"
+    },
+    {
+      "brand": "耕读茶社(明香商业广场店)",
+      "address": "文心一路48号明香商业广场F3层",
+      "distance": "40m"
+    },
+    {
+      "brand": "三两粉·湖南手工米粉(深圳南山金钟店)",
+      "address": "粤海道海珠社区文心一路99号金钟大厦1-22",
+      "distance": "41m"
+    },
+    {
+      "brand": "楠楠茶馆",
+      "address": "海德一道与文心一路交叉口北80米",
+      "distance": "49m"
+    },
+    {
+      "brand": "潮汕华发牛肉店(青春家园店)",
+      "address": "文心一路100号(南山书城地铁站H口步行210米)",
+      "distance": "23m"
+    },
+    {
+      "brand": "客味古法盐焗鸡(粤海店)",
+      "address": "粤海街道海珠社区文心一路99号金钟大厦161",
+      "distance": "26m"
+    },
+    {
+      "brand": "Project Beef",
+      "address": "文心一路99-34号金钟大厦",
+      "distance": "30m"
+    },
+    {
+      "brand": "中华牛肉面(金钟大厦店)",
+      "address": "金钟大厦东南门旁(南山书城地铁站H口步行250米)",
+      "distance": "34m"
+    },
+    {
+      "brand": "杨姐汕头牛肉粉店(金钟大厦店)",
+      "address": "文心一路103号金钟大厦F1层",
+      "distance": "35m"
+    },
+    {
+      "brand": "阿内哥·古早味(青春家园店)",
+      "address": "南海大道2718青春家园",
+      "distance": "36m"
+    },
+    {
+      "brand": "潮鲜味汤粉店(金钟大厦店)",
+      "address": "文心一路103号金钟大厦F1层",
+      "distance": "40m"
+    },
+    {
+      "brand": "耕读茶社(明香商业广场店)",
+      "address": "文心一路48号明香商业广场F3层",
+      "distance": "40m"
+    },
+    {
+      "brand": "三两粉·湖南手工米粉(深圳南山金钟店)",
+      "address": "粤海道海珠社区文心一路99号金钟大厦1-22",
+      "distance": "41m"
+    },
+    {
+      "brand": "楠楠茶馆",
+      "address": "海德一道与文心一路交叉口北80米",
+      "distance": "49m"
+    },
+    {
+      "brand": "潮汕华发牛肉店(青春家园店)",
+      "address": "文心一路100号(南山书城地铁站H口步行210米)",
+      "distance": "23m"
+    },
+    {
+      "brand": "客味古法盐焗鸡(粤海店)",
+      "address": "粤海街道海珠社区文心一路99号金钟大厦161",
+      "distance": "26m"
+    },
+    {
+      "brand": "Project Beef",
+      "address": "文心一路99-34号金钟大厦",
+      "distance": "30m"
+    },
+    {
+      "brand": "中华牛肉面(金钟大厦店)",
+      "address": "金钟大厦东南门旁(南山书城地铁站H口步行250米)",
+      "distance": "34m"
+    },
+    {
+      "brand": "杨姐汕头牛肉粉店(金钟大厦店)",
+      "address": "文心一路103号金钟大厦F1层",
+      "distance": "35m"
+    },
+    {
+      "brand": "阿内哥·古早味(青春家园店)",
+      "address": "南海大道2718青春家园",
+      "distance": "36m"
+    },
+    {
+      "brand": "潮鲜味汤粉店(金钟大厦店)",
+      "address": "文心一路103号金钟大厦F1层",
+      "distance": "40m"
+    },
+    {
+      "brand": "耕读茶社(明香商业广场店)",
+      "address": "文心一路48号明香商业广场F3层",
+      "distance": "40m"
+    },
+    {
+      "brand": "三两粉·湖南手工米粉(深圳南山金钟店)",
+      "address": "粤海道海珠社区文心一路99号金钟大厦1-22",
+      "distance": "41m"
+    },
+    {
+      "brand": "楠楠茶馆",
+      "address": "海德一道与文心一路交叉口北80米",
+      "distance": "49m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "深圳华彩新天地(天成店)",
+      "open_date": "-",
+      "area": "-",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "深圳海雅缤纷广场",
+      "open_date": "1999",
+      "area": "19.8万㎡",
+      "jun_daily_avg": "2.6万人次",
+      "weekday_avg": "2.1万人次",
+      "holiday_avg": "3.8万人次"
+    },
+    {
+      "name": "深圳茂业百货(南山店)",
+      "open_date": "2009-09-26",
+      "area": "6.8万㎡",
+      "jun_daily_avg": "1.6万人次",
+      "weekday_avg": "1.4万人次",
+      "holiday_avg": "2.1万人次"
+    },
+    {
+      "name": "ONE IPARK",
+      "open_date": "2016-10-01",
+      "area": "-",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "深圳天利名城购物中心",
+      "open_date": "2010-01-01",
+      "area": "3.7万㎡",
+      "jun_daily_avg": "3.5万人次",
+      "weekday_avg": "3.3万人次",
+      "holiday_avg": "4.1万人次"
+    },
+    {
+      "name": "深圳海岸城购物中心",
+      "open_date": "2007-12-16",
+      "area": "10万㎡",
+      "jun_daily_avg": "8.3万人次",
+      "weekday_avg": "7.2万人次",
+      "holiday_avg": "11.6万人次"
+    },
+    {
+      "name": "深圳来福士广场",
+      "open_date": "2017-04-01",
+      "area": "8.8万㎡",
+      "jun_daily_avg": "6.6万人次",
+      "weekday_avg": "5.9万人次",
+      "holiday_avg": "8.4万人次"
+    },
+    {
+      "name": "深圳上上城(登良路店)",
+      "open_date": "2024-01-01",
+      "area": "-",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "深圳保利文化广场",
+      "open_date": "2008-01-01",
+      "area": "15万㎡",
+      "jun_daily_avg": "1.4万人次",
+      "weekday_avg": "1.3万人次",
+      "holiday_avg": "1.9万人次"
+    },
+    {
+      "name": "深圳OKMALL潮流广场",
+      "open_date": "2016-01-01",
+      "area": "4万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 395.0,
+      "within_1yr_pct": 24.1,
+      "1_3yr_pct": 27.6,
+      "over_3yr_pct": 48.4
+    },
+    {
+      "type": "购物",
+      "count": 529.0,
+      "within_1yr_pct": 17.4,
+      "1_3yr_pct": 31.6,
+      "over_3yr_pct": 51.0
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 75.0,
+      "within_1yr_pct": 16.0,
+      "1_3yr_pct": 37.3,
+      "over_3yr_pct": 46.7
+    },
+    {
+      "type": "教育培训",
+      "count": 123.0,
+      "within_1yr_pct": 20.3,
+      "1_3yr_pct": 24.4,
+      "over_3yr_pct": 55.3
+    },
+    {
+      "type": "酒店住宿",
+      "count": 90.0,
+      "within_1yr_pct": 22.2,
+      "1_3yr_pct": 25.6,
+      "over_3yr_pct": 52.2
+    },
+    {
+      "type": "生活服务",
+      "count": 348.0,
+      "within_1yr_pct": 18.4,
+      "1_3yr_pct": 27.6,
+      "over_3yr_pct": 54.0
+    },
+    {
+      "type": "运动健身",
+      "count": 56.0,
+      "within_1yr_pct": 16.1,
+      "1_3yr_pct": 33.9,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 33.0,
+      "within_1yr_pct": 18.2,
+      "1_3yr_pct": 39.4,
+      "over_3yr_pct": 42.4
+    }
+  ]
+}

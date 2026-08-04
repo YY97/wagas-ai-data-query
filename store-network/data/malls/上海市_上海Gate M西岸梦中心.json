@@ -1,0 +1,440 @@
+{
+  "name": "上海Gate M西岸梦中心",
+  "city": "上海市",
+  "address": "上海市徐汇区龙华街道BAPE Gallery(Gate M西岸梦中心)Gate M西岸梦中心",
+  "lat": 31.161004,
+  "lng": 121.466079,
+  "overview": {
+    "score": 93.8,
+    "score_rank": "市内前30%",
+    "population_score": 62.1,
+    "area_score": 73.3,
+    "consumption_score": 60.0,
+    "industry_score": 94.1,
+    "annual_sales": "Gate M西岸梦中心前身为亚洲大型水泥厂，后由西岸集团与华之门资本联袂打造，蝶变为16.2万平方米的城市更新典范，成为上海这座城市独具情怀的符号。项目沿海岸线800米铺陈，整体划分为演艺文化区、可持续时尚区、微度假休闲区、梦工场、现象级城市户外区五大分区",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 10.0,
+    "open_date": "2024-09-26",
+    "operator": "上海华之门信息技术有限公司",
+    "brand": "",
+    "type": "美食型",
+    "floors": "L1-L4"
+  },
+  "traffic": {
+    "annual_daily": 2.96,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第88",
+    "jun_total": 171.4,
+    "jun_total_rank": "市内商场第52名",
+    "jun_daily_avg": 5.7,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第52名",
+    "weekday_avg": 4.9,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第55名",
+    "holiday_avg": 7.9,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第41名"
+  },
+  "population": {
+    "residential": {
+      "500m": 2000.0,
+      "1_5km": 7.0,
+      "3km": 48.2
+    },
+    "office": {
+      "500m": 2.5,
+      "1_5km": 11.7,
+      "3km": 35.3
+    },
+    "permanent": {
+      "500m": 9600.0,
+      "1_5km": 8.5,
+      "3km": 50.6
+    }
+  },
+  "business": {
+    "competitors": 9.0,
+    "food": 214.0,
+    "shopping": 122.0,
+    "leisure": 13.0,
+    "education": 8.0,
+    "hotel": 7.0,
+    "services": 30.0,
+    "fitness": 18.0,
+    "auto": 23.0,
+    "total_stores": 192.0,
+    "old_store_3yr_pct": 30.0
+  },
+  "nearby_poi": {
+    "business": 6.0,
+    "community": 313.0,
+    "office": 39.0,
+    "school": 17.0,
+    "hospital": 40.0,
+    "transport": 1.0,
+    "scenic": 206.0
+  },
+  "demographics": {
+    "male_pct": 46.9,
+    "female_pct": null,
+    "education": {
+      "小学": 9.1,
+      "初中": 16.6,
+      "高中": 11.4,
+      "大专": 6.8,
+      "本科": 47.7,
+      "硕士": 6.5,
+      "博士": 1.9
+    },
+    "has_children_pct": 57.8,
+    "no_children_pct": 42.2
+  },
+  "scraped_at": "2026-07-31T14:57:47.815Z",
+  "nearby_restaurants": [
+    {
+      "brand": "和牛十兵卫·炭火焼肉(西岸梦中心店)",
+      "address": "龙腾大道2266号Gate M西岸梦中心2F层",
+      "distance": "15m"
+    },
+    {
+      "brand": "圈儿潮汕牛肉火锅(西岸梦中心店)",
+      "address": "龙腾大道2252号6栋301室",
+      "distance": "22m"
+    },
+    {
+      "brand": "瓦屋川菜(Gate M西岸梦中心)",
+      "address": "龙腾大道西岸梦中心6栋2楼202号",
+      "distance": "29m"
+    },
+    {
+      "brand": "星巴克(GateM西岸梦中心店)",
+      "address": "龙腾大道2266号GATE M西岸梦中心5号楼102号",
+      "distance": "30m"
+    },
+    {
+      "brand": "琥家(西岸梦中心店)",
+      "address": "龙腾大道2266号Gate M西岸梦中心5栋201",
+      "distance": "30m"
+    },
+    {
+      "brand": "Xibo锡伯·新疆·丝路小馆(西岸梦中心店)",
+      "address": "龙华街道龙腾大道2266号GateM西岸梦中心6号楼203",
+      "distance": "34m"
+    },
+    {
+      "brand": "楼下酸奶(西岸梦中心店)",
+      "address": "龙腾大道2266号西岸梦中心5号楼101B",
+      "distance": "39m"
+    },
+    {
+      "brand": "Tapa Tapa(Gate M西岸梦中心)",
+      "address": "龙腾大道2266号Gate M西岸梦中心6号楼107",
+      "distance": "39m"
+    },
+    {
+      "brand": "哥哥の深夜食堂(Gate M西岸梦中心店)",
+      "address": "龙腾大道2266号Gate M西岸梦中心2F层",
+      "distance": "40m"
+    },
+    {
+      "brand": "Mill Hill(Gate M西岸梦中心)",
+      "address": "龙腾大道2266号Gate M西岸梦中心1F层",
+      "distance": "42m"
+    },
+    {
+      "brand": "和牛十兵卫·炭火焼肉(西岸梦中心店)",
+      "address": "龙腾大道2266号Gate M西岸梦中心2F层",
+      "distance": "15m"
+    },
+    {
+      "brand": "圈儿潮汕牛肉火锅(西岸梦中心店)",
+      "address": "龙腾大道2252号6栋301室",
+      "distance": "22m"
+    },
+    {
+      "brand": "瓦屋川菜(Gate M西岸梦中心)",
+      "address": "龙腾大道西岸梦中心6栋2楼202号",
+      "distance": "29m"
+    },
+    {
+      "brand": "星巴克(GateM西岸梦中心店)",
+      "address": "龙腾大道2266号GATE M西岸梦中心5号楼102号",
+      "distance": "30m"
+    },
+    {
+      "brand": "琥家(西岸梦中心店)",
+      "address": "龙腾大道2266号Gate M西岸梦中心5栋201",
+      "distance": "30m"
+    },
+    {
+      "brand": "Xibo锡伯·新疆·丝路小馆(西岸梦中心店)",
+      "address": "龙华街道龙腾大道2266号GateM西岸梦中心6号楼203",
+      "distance": "34m"
+    },
+    {
+      "brand": "楼下酸奶(西岸梦中心店)",
+      "address": "龙腾大道2266号西岸梦中心5号楼101B",
+      "distance": "39m"
+    },
+    {
+      "brand": "Tapa Tapa(Gate M西岸梦中心)",
+      "address": "龙腾大道2266号Gate M西岸梦中心6号楼107",
+      "distance": "39m"
+    },
+    {
+      "brand": "哥哥の深夜食堂(Gate M西岸梦中心店)",
+      "address": "龙腾大道2266号Gate M西岸梦中心2F层",
+      "distance": "40m"
+    },
+    {
+      "brand": "Mill Hill(Gate M西岸梦中心)",
+      "address": "龙腾大道2266号Gate M西岸梦中心1F层",
+      "distance": "42m"
+    },
+    {
+      "brand": "和牛十兵卫·炭火焼肉(西岸梦中心店)",
+      "address": "龙腾大道2266号Gate M西岸梦中心2F层",
+      "distance": "15m"
+    },
+    {
+      "brand": "圈儿潮汕牛肉火锅(西岸梦中心店)",
+      "address": "龙腾大道2252号6栋301室",
+      "distance": "22m"
+    },
+    {
+      "brand": "瓦屋川菜(Gate M西岸梦中心)",
+      "address": "龙腾大道西岸梦中心6栋2楼202号",
+      "distance": "29m"
+    },
+    {
+      "brand": "星巴克(GateM西岸梦中心店)",
+      "address": "龙腾大道2266号GATE M西岸梦中心5号楼102号",
+      "distance": "30m"
+    },
+    {
+      "brand": "琥家(西岸梦中心店)",
+      "address": "龙腾大道2266号Gate M西岸梦中心5栋201",
+      "distance": "30m"
+    },
+    {
+      "brand": "Xibo锡伯·新疆·丝路小馆(西岸梦中心店)",
+      "address": "龙华街道龙腾大道2266号GateM西岸梦中心6号楼203",
+      "distance": "34m"
+    },
+    {
+      "brand": "楼下酸奶(西岸梦中心店)",
+      "address": "龙腾大道2266号西岸梦中心5号楼101B",
+      "distance": "39m"
+    },
+    {
+      "brand": "Tapa Tapa(Gate M西岸梦中心)",
+      "address": "龙腾大道2266号Gate M西岸梦中心6号楼107",
+      "distance": "39m"
+    },
+    {
+      "brand": "哥哥の深夜食堂(Gate M西岸梦中心店)",
+      "address": "龙腾大道2266号Gate M西岸梦中心2F层",
+      "distance": "40m"
+    },
+    {
+      "brand": "Mill Hill(Gate M西岸梦中心)",
+      "address": "龙腾大道2266号Gate M西岸梦中心1F层",
+      "distance": "42m"
+    },
+    {
+      "brand": "和牛十兵卫·炭火焼肉(西岸梦中心店)",
+      "address": "龙腾大道2266号Gate M西岸梦中心2F层",
+      "distance": "15m"
+    },
+    {
+      "brand": "圈儿潮汕牛肉火锅(西岸梦中心店)",
+      "address": "龙腾大道2252号6栋301室",
+      "distance": "22m"
+    },
+    {
+      "brand": "瓦屋川菜(Gate M西岸梦中心)",
+      "address": "龙腾大道西岸梦中心6栋2楼202号",
+      "distance": "29m"
+    },
+    {
+      "brand": "星巴克(GateM西岸梦中心店)",
+      "address": "龙腾大道2266号GATE M西岸梦中心5号楼102号",
+      "distance": "30m"
+    },
+    {
+      "brand": "琥家(西岸梦中心店)",
+      "address": "龙腾大道2266号Gate M西岸梦中心5栋201",
+      "distance": "30m"
+    },
+    {
+      "brand": "Xibo锡伯·新疆·丝路小馆(西岸梦中心店)",
+      "address": "龙华街道龙腾大道2266号GateM西岸梦中心6号楼203",
+      "distance": "34m"
+    },
+    {
+      "brand": "楼下酸奶(西岸梦中心店)",
+      "address": "龙腾大道2266号西岸梦中心5号楼101B",
+      "distance": "39m"
+    },
+    {
+      "brand": "Tapa Tapa(Gate M西岸梦中心)",
+      "address": "龙腾大道2266号Gate M西岸梦中心6号楼107",
+      "distance": "39m"
+    },
+    {
+      "brand": "哥哥の深夜食堂(Gate M西岸梦中心店)",
+      "address": "龙腾大道2266号Gate M西岸梦中心2F层",
+      "distance": "40m"
+    },
+    {
+      "brand": "Mill Hill(Gate M西岸梦中心)",
+      "address": "龙腾大道2266号Gate M西岸梦中心1F层",
+      "distance": "42m"
+    },
+    {
+      "brand": "和牛十兵卫·炭火焼肉(西岸梦中心店)",
+      "address": "龙腾大道2266号Gate M西岸梦中心2F层",
+      "distance": "15m"
+    },
+    {
+      "brand": "圈儿潮汕牛肉火锅(西岸梦中心店)",
+      "address": "龙腾大道2252号6栋301室",
+      "distance": "22m"
+    },
+    {
+      "brand": "瓦屋川菜(Gate M西岸梦中心)",
+      "address": "龙腾大道西岸梦中心6栋2楼202号",
+      "distance": "29m"
+    },
+    {
+      "brand": "星巴克(GateM西岸梦中心店)",
+      "address": "龙腾大道2266号GATE M西岸梦中心5号楼102号",
+      "distance": "30m"
+    },
+    {
+      "brand": "琥家(西岸梦中心店)",
+      "address": "龙腾大道2266号Gate M西岸梦中心5栋201",
+      "distance": "30m"
+    },
+    {
+      "brand": "Xibo锡伯·新疆·丝路小馆(西岸梦中心店)",
+      "address": "龙华街道龙腾大道2266号GateM西岸梦中心6号楼203",
+      "distance": "34m"
+    },
+    {
+      "brand": "楼下酸奶(西岸梦中心店)",
+      "address": "龙腾大道2266号西岸梦中心5号楼101B",
+      "distance": "39m"
+    },
+    {
+      "brand": "Tapa Tapa(Gate M西岸梦中心)",
+      "address": "龙腾大道2266号Gate M西岸梦中心6号楼107",
+      "distance": "39m"
+    },
+    {
+      "brand": "哥哥の深夜食堂(Gate M西岸梦中心店)",
+      "address": "龙腾大道2266号Gate M西岸梦中心2F层",
+      "distance": "40m"
+    },
+    {
+      "brand": "Mill Hill(Gate M西岸梦中心)",
+      "address": "龙腾大道2266号Gate M西岸梦中心1F层",
+      "distance": "42m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海传媒港花园里",
+      "open_date": "2024-07-01",
+      "area": "6万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海AI PLAZA西岸凤巢",
+      "open_date": "2021-12-23",
+      "area": "7.5万㎡",
+      "jun_daily_avg": "3.2万人次",
+      "weekday_avg": "3.5万人次",
+      "holiday_avg": "2.6万人次"
+    },
+    {
+      "name": "上海徐汇绿地滨江CLUB",
+      "open_date": "2019-05-01",
+      "area": "3.2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海东航云锦天地 MUPLAZA",
+      "open_date": "2018-07-28",
+      "area": "2.3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海晶耀前滩",
+      "open_date": "2019-08-23",
+      "area": "6.8万㎡",
+      "jun_daily_avg": "4万人次",
+      "weekday_avg": "3.8万人次",
+      "holiday_avg": "4.5万人次"
+    },
+    {
+      "name": "上海陆悦汇",
+      "open_date": "2022-10-10",
+      "area": "3.4万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 86.0,
+      "within_1yr_pct": 19.8,
+      "1_3yr_pct": 47.7,
+      "over_3yr_pct": 32.6
+    },
+    {
+      "type": "购物",
+      "count": 76.0,
+      "within_1yr_pct": 19.7,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 30.3
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 16.0,
+      "within_1yr_pct": 6.3,
+      "1_3yr_pct": 62.5,
+      "over_3yr_pct": 31.3
+    },
+    {
+      "type": "教育培训",
+      "count": 1.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 5.0,
+      "within_1yr_pct": 60.0,
+      "1_3yr_pct": 20.0,
+      "over_3yr_pct": 20.0
+    },
+    {
+      "type": "生活服务",
+      "count": 8.0,
+      "within_1yr_pct": 37.5,
+      "1_3yr_pct": 62.5,
+      "over_3yr_pct": 0.0
+    }
+  ]
+}

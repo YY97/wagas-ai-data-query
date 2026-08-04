@@ -1,0 +1,465 @@
+{
+  "name": "上海湟普汇商场",
+  "city": "上海市",
+  "address": "上海市静安区昌化路230号",
+  "lat": 31.236085,
+  "lng": 121.453009,
+  "overview": {
+    "score": 87.8,
+    "score_rank": "市内前30%",
+    "population_score": 87.8,
+    "area_score": 100.0,
+    "consumption_score": 87.8,
+    "industry_score": 87.7,
+    "annual_sales": "上海湟普汇商场位于静安区吴江路269号，靠近茂名北路、威海路和石门一路，交通便利，周边有多条公交线路。商场定位为小型商业综合体，以餐饮、零售等业态为主，吸引了众多网红品牌入驻，如AMAM伦敦烘焙小镇、Tims Coffee&Beer等，是上海吴江路上的热门打卡地。",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 2.0,
+    "open_date": "",
+    "operator": "",
+    "brand": "",
+    "type": "综合型",
+    "floors": "B1-L3"
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "-",
+    "annual_daily_rank": "",
+    "jun_total": 12.1,
+    "jun_total_rank": "市内商场第464名",
+    "jun_daily_avg": 4023.0,
+    "jun_daily_unit": "人次",
+    "jun_daily_rank": "市内商场第464名",
+    "weekday_avg": 3860.0,
+    "weekday_unit": "人次",
+    "weekday_rank": "市内商场第463名",
+    "holiday_avg": 4472.0,
+    "holiday_unit": "人次",
+    "holiday_rank": "市内商场第457名"
+  },
+  "population": {
+    "residential": {
+      "500m": 2.1,
+      "1_5km": 20.2,
+      "3km": 93.5
+    },
+    "office": {
+      "500m": 5.7,
+      "1_5km": 30.3,
+      "3km": 111.4
+    },
+    "permanent": {
+      "500m": 3.4,
+      "1_5km": 26.0,
+      "3km": 115.5
+    }
+  },
+  "business": {
+    "competitors": 18.0,
+    "food": 546.0,
+    "shopping": 497.0,
+    "leisure": 35.0,
+    "education": 39.0,
+    "hotel": 91.0,
+    "services": 337.0,
+    "fitness": 30.0,
+    "auto": 35.0,
+    "total_stores": 42.0,
+    "old_store_3yr_pct": 48.0
+  },
+  "nearby_poi": {
+    "business": 31.0,
+    "community": 1161.0,
+    "office": 205.0,
+    "school": 65.0,
+    "hospital": 226.0,
+    "transport": 12.0,
+    "scenic": 822.0
+  },
+  "demographics": {
+    "male_pct": 46.4,
+    "female_pct": null,
+    "education": {
+      "小学": 9.1,
+      "初中": 17.9,
+      "高中": 12.0,
+      "大专": 6.8,
+      "本科": 47.9,
+      "硕士": 4.7,
+      "博士": 1.6
+    },
+    "has_children_pct": 56.5,
+    "no_children_pct": 43.5
+  },
+  "scraped_at": "2026-07-31T16:54:24.946Z",
+  "nearby_restaurants": [
+    {
+      "brand": "包一切馅饼(南京西路店)",
+      "address": "泰兴路与吴江路交叉口南60米",
+      "distance": "8m"
+    },
+    {
+      "brand": "天边砂锅焖面(湟普汇店)",
+      "address": "吴江路269号",
+      "distance": "14m"
+    },
+    {
+      "brand": "DRUNK BAKER(吴江路店)(装修中)",
+      "address": "吴江路269-106号",
+      "distance": "15m"
+    },
+    {
+      "brand": "鮨瞬Omakase(南京西路店)",
+      "address": "吴江路269号湟潽汇商场(南京西路地铁站4号口旁)2楼",
+      "distance": "16m"
+    },
+    {
+      "brand": "CHAGEE霸王茶姬(上海吴江路店)",
+      "address": "吴江路267号(南京西路地铁站4号口步行10米)",
+      "distance": "18m"
+    },
+    {
+      "brand": "赛百味 SUBWAY(吴江路店)",
+      "address": "南京西路吴江路269号湟普汇2楼221单元",
+      "distance": "19m"
+    },
+    {
+      "brand": "马子禄牛肉面(湟普美食汇店)",
+      "address": "泰兴路175号湟普汇商场F1层(南京西路地铁站4号口旁)",
+      "distance": "20m"
+    },
+    {
+      "brand": "喜家德虾仁水饺(上海吴江路店)",
+      "address": "吴江路269号208-1单元(南京西路地铁站4号口旁)",
+      "distance": "20m"
+    },
+    {
+      "brand": "柠季·手打柠檬茶(上海吴江路步行街店)",
+      "address": "北京西路1248号",
+      "distance": "21m"
+    },
+    {
+      "brand": "DIY滋滋胡椒牛肉饭(湟普汇商场店)",
+      "address": "泰兴路175号湟普汇商场(南京西路地铁站4号口旁)",
+      "distance": "22m"
+    },
+    {
+      "brand": "包一切馅饼(南京西路店)",
+      "address": "泰兴路与吴江路交叉口南60米",
+      "distance": "8m"
+    },
+    {
+      "brand": "天边砂锅焖面(湟普汇店)",
+      "address": "吴江路269号",
+      "distance": "14m"
+    },
+    {
+      "brand": "DRUNK BAKER(吴江路店)(装修中)",
+      "address": "吴江路269-106号",
+      "distance": "15m"
+    },
+    {
+      "brand": "鮨瞬Omakase(南京西路店)",
+      "address": "吴江路269号湟潽汇商场(南京西路地铁站4号口旁)2楼",
+      "distance": "16m"
+    },
+    {
+      "brand": "CHAGEE霸王茶姬(上海吴江路店)",
+      "address": "吴江路267号(南京西路地铁站4号口步行10米)",
+      "distance": "18m"
+    },
+    {
+      "brand": "赛百味 SUBWAY(吴江路店)",
+      "address": "南京西路吴江路269号湟普汇2楼221单元",
+      "distance": "19m"
+    },
+    {
+      "brand": "马子禄牛肉面(湟普美食汇店)",
+      "address": "泰兴路175号湟普汇商场F1层(南京西路地铁站4号口旁)",
+      "distance": "20m"
+    },
+    {
+      "brand": "喜家德虾仁水饺(上海吴江路店)",
+      "address": "吴江路269号208-1单元(南京西路地铁站4号口旁)",
+      "distance": "20m"
+    },
+    {
+      "brand": "柠季·手打柠檬茶(上海吴江路步行街店)",
+      "address": "北京西路1248号",
+      "distance": "21m"
+    },
+    {
+      "brand": "DIY滋滋胡椒牛肉饭(湟普汇商场店)",
+      "address": "泰兴路175号湟普汇商场(南京西路地铁站4号口旁)",
+      "distance": "22m"
+    },
+    {
+      "brand": "包一切馅饼(南京西路店)",
+      "address": "泰兴路与吴江路交叉口南60米",
+      "distance": "8m"
+    },
+    {
+      "brand": "天边砂锅焖面(湟普汇店)",
+      "address": "吴江路269号",
+      "distance": "14m"
+    },
+    {
+      "brand": "DRUNK BAKER(吴江路店)(装修中)",
+      "address": "吴江路269-106号",
+      "distance": "15m"
+    },
+    {
+      "brand": "鮨瞬Omakase(南京西路店)",
+      "address": "吴江路269号湟潽汇商场(南京西路地铁站4号口旁)2楼",
+      "distance": "16m"
+    },
+    {
+      "brand": "CHAGEE霸王茶姬(上海吴江路店)",
+      "address": "吴江路267号(南京西路地铁站4号口步行10米)",
+      "distance": "18m"
+    },
+    {
+      "brand": "赛百味 SUBWAY(吴江路店)",
+      "address": "南京西路吴江路269号湟普汇2楼221单元",
+      "distance": "19m"
+    },
+    {
+      "brand": "马子禄牛肉面(湟普美食汇店)",
+      "address": "泰兴路175号湟普汇商场F1层(南京西路地铁站4号口旁)",
+      "distance": "20m"
+    },
+    {
+      "brand": "喜家德虾仁水饺(上海吴江路店)",
+      "address": "吴江路269号208-1单元(南京西路地铁站4号口旁)",
+      "distance": "20m"
+    },
+    {
+      "brand": "柠季·手打柠檬茶(上海吴江路步行街店)",
+      "address": "北京西路1248号",
+      "distance": "21m"
+    },
+    {
+      "brand": "DIY滋滋胡椒牛肉饭(湟普汇商场店)",
+      "address": "泰兴路175号湟普汇商场(南京西路地铁站4号口旁)",
+      "distance": "22m"
+    },
+    {
+      "brand": "包一切馅饼(南京西路店)",
+      "address": "泰兴路与吴江路交叉口南60米",
+      "distance": "8m"
+    },
+    {
+      "brand": "天边砂锅焖面(湟普汇店)",
+      "address": "吴江路269号",
+      "distance": "14m"
+    },
+    {
+      "brand": "DRUNK BAKER(吴江路店)(装修中)",
+      "address": "吴江路269-106号",
+      "distance": "15m"
+    },
+    {
+      "brand": "鮨瞬Omakase(南京西路店)",
+      "address": "吴江路269号湟潽汇商场(南京西路地铁站4号口旁)2楼",
+      "distance": "16m"
+    },
+    {
+      "brand": "CHAGEE霸王茶姬(上海吴江路店)",
+      "address": "吴江路267号(南京西路地铁站4号口步行10米)",
+      "distance": "18m"
+    },
+    {
+      "brand": "赛百味 SUBWAY(吴江路店)",
+      "address": "南京西路吴江路269号湟普汇2楼221单元",
+      "distance": "19m"
+    },
+    {
+      "brand": "马子禄牛肉面(湟普美食汇店)",
+      "address": "泰兴路175号湟普汇商场F1层(南京西路地铁站4号口旁)",
+      "distance": "20m"
+    },
+    {
+      "brand": "喜家德虾仁水饺(上海吴江路店)",
+      "address": "吴江路269号208-1单元(南京西路地铁站4号口旁)",
+      "distance": "20m"
+    },
+    {
+      "brand": "柠季·手打柠檬茶(上海吴江路步行街店)",
+      "address": "北京西路1248号",
+      "distance": "21m"
+    },
+    {
+      "brand": "DIY滋滋胡椒牛肉饭(湟普汇商场店)",
+      "address": "泰兴路175号湟普汇商场(南京西路地铁站4号口旁)",
+      "distance": "22m"
+    },
+    {
+      "brand": "包一切馅饼(南京西路店)",
+      "address": "泰兴路与吴江路交叉口南60米",
+      "distance": "8m"
+    },
+    {
+      "brand": "天边砂锅焖面(湟普汇店)",
+      "address": "吴江路269号",
+      "distance": "14m"
+    },
+    {
+      "brand": "DRUNK BAKER(吴江路店)(装修中)",
+      "address": "吴江路269-106号",
+      "distance": "15m"
+    },
+    {
+      "brand": "鮨瞬Omakase(南京西路店)",
+      "address": "吴江路269号湟潽汇商场(南京西路地铁站4号口旁)2楼",
+      "distance": "16m"
+    },
+    {
+      "brand": "CHAGEE霸王茶姬(上海吴江路店)",
+      "address": "吴江路267号(南京西路地铁站4号口步行10米)",
+      "distance": "18m"
+    },
+    {
+      "brand": "赛百味 SUBWAY(吴江路店)",
+      "address": "南京西路吴江路269号湟普汇2楼221单元",
+      "distance": "19m"
+    },
+    {
+      "brand": "马子禄牛肉面(湟普美食汇店)",
+      "address": "泰兴路175号湟普汇商场F1层(南京西路地铁站4号口旁)",
+      "distance": "20m"
+    },
+    {
+      "brand": "喜家德虾仁水饺(上海吴江路店)",
+      "address": "吴江路269号208-1单元(南京西路地铁站4号口旁)",
+      "distance": "20m"
+    },
+    {
+      "brand": "柠季·手打柠檬茶(上海吴江路步行街店)",
+      "address": "北京西路1248号",
+      "distance": "21m"
+    },
+    {
+      "brand": "DIY滋滋胡椒牛肉饭(湟普汇商场店)",
+      "address": "泰兴路175号湟普汇商场(南京西路地铁站4号口旁)",
+      "distance": "22m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海通利商厦",
+      "open_date": "2004-11-01",
+      "area": "-",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海张园·丰盛里",
+      "open_date": "2017-04-01",
+      "area": "1.4万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海南京西路818广场",
+      "open_date": "2009-10-26",
+      "area": "2.1万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海中信泰富广场",
+      "open_date": "2002-06-15",
+      "area": "3.5万㎡",
+      "jun_daily_avg": "1.1万人次",
+      "weekday_avg": "1.1万人次",
+      "holiday_avg": "1.1万人次"
+    },
+    {
+      "name": "上海兴业太古汇",
+      "open_date": "2017-11-03",
+      "area": "10.3万㎡",
+      "jun_daily_avg": "6万人次",
+      "weekday_avg": "5.9万人次",
+      "holiday_avg": "6.4万人次"
+    },
+    {
+      "name": "上海金鹰国际购物广场",
+      "open_date": "2024-01-26",
+      "area": "3.8万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海JC PLAZA锦沧文华广场",
+      "open_date": "2022-08-18",
+      "area": "2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海恒隆广场",
+      "open_date": "2001-07-14",
+      "area": "11.4万㎡",
+      "jun_daily_avg": "2.2万人次",
+      "weekday_avg": "2.2万人次",
+      "holiday_avg": "2万人次"
+    },
+    {
+      "name": "上海商城",
+      "open_date": "1990-04-27",
+      "area": "3万㎡",
+      "jun_daily_avg": "1.2万人次",
+      "weekday_avg": "1.2万人次",
+      "holiday_avg": "1.3万人次"
+    },
+    {
+      "name": "上海仙乐斯广场",
+      "open_date": "2001",
+      "area": "2.3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 33.0,
+      "within_1yr_pct": 21.2,
+      "1_3yr_pct": 27.3,
+      "over_3yr_pct": 51.5
+    },
+    {
+      "type": "购物",
+      "count": 6.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 16.7,
+      "over_3yr_pct": 33.3
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "生活服务",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 1.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
+    }
+  ]
+}

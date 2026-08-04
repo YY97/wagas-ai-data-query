@@ -1,0 +1,405 @@
+{
+  "name": "成都天府大悦城",
+  "city": "成都市",
+  "address": "四川省成都市双流区兴象街356号",
+  "lat": 30.436659,
+  "lng": 104.0917,
+  "overview": {
+    "score": 94.9,
+    "score_rank": "市内前30%",
+    "population_score": 72.9,
+    "area_score": 68.1,
+    "consumption_score": 87.9,
+    "industry_score": 95.1,
+    "annual_sales": "成都天府大悦城定位为“首个立体美学购物公园”，将汇聚“精致烟火、社交生活、游乐体验、时尚风格”四大元素，倾力打造天府新区文化潮流地标",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 14.4,
+    "open_date": "2023-12-30",
+    "operator": "大悦城控股集团股份有限公司",
+    "brand": "大悦城",
+    "type": "综合型",
+    "floors": "B1-L7"
+  },
+  "traffic": {
+    "annual_daily": 3.08,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第56",
+    "jun_total": 170.8,
+    "jun_total_rank": "市内商场第26名",
+    "jun_daily_avg": 5.7,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第26名",
+    "weekday_avg": 4.9,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第33名",
+    "holiday_avg": 8.0,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第23名"
+  },
+  "population": {
+    "residential": {
+      "500m": 8300.0,
+      "1_5km": 3.4,
+      "3km": 9.6
+    },
+    "office": {
+      "500m": 7700.0,
+      "1_5km": 2.6,
+      "3km": 5.5
+    },
+    "permanent": {
+      "500m": 1.0,
+      "1_5km": 3.1,
+      "3km": 8.8
+    }
+  },
+  "business": {
+    "competitors": 5.0,
+    "food": 167.0,
+    "shopping": 179.0,
+    "leisure": 15.0,
+    "education": 6.0,
+    "hotel": 42.0,
+    "services": 86.0,
+    "fitness": 15.0,
+    "auto": 12.0,
+    "total_stores": 329.0,
+    "old_store_3yr_pct": 59.0
+  },
+  "nearby_poi": {
+    "business": null,
+    "community": 111.0,
+    "office": 11.0,
+    "school": 4.0,
+    "hospital": 6.0,
+    "transport": 9.0,
+    "scenic": 58.0
+  },
+  "demographics": {
+    "male_pct": 48.4,
+    "female_pct": null,
+    "education": {
+      "小学": 11.4,
+      "初中": 19.1,
+      "高中": 11.7,
+      "大专": 9.2,
+      "本科": 42.4,
+      "硕士": 5.2,
+      "博士": 1.0
+    },
+    "has_children_pct": 66.5,
+    "no_children_pct": 33.5
+  },
+  "scraped_at": "2026-07-31T13:25:06.283Z",
+  "nearby_restaurants": [
+    {
+      "brand": "茶话弄(成都天府大悦城店)",
+      "address": "兴康三街505号成都天府大悦城B馆L5层L5-B-16",
+      "distance": "8m"
+    },
+    {
+      "brand": "李俱全黑鸭煲(天府大悦城店)",
+      "address": "天府新区中央商务区(夔州大道与兴康三街交界处东侧)成都天府大悦城B馆",
+      "distance": "15m"
+    },
+    {
+      "brand": "句象咖啡(成都天府店)",
+      "address": "兴康三街505号成都天府大悦城B馆2楼",
+      "distance": "23m"
+    },
+    {
+      "brand": "阿亲家.韩式无限烤肉(天府大悦城甄选店)",
+      "address": "天府大悦城五楼连廊附518、519号",
+      "distance": "24m"
+    },
+    {
+      "brand": "BA(天府大悦城店)",
+      "address": "正兴街道兴康三街500号1栋附124号",
+      "distance": "28m"
+    },
+    {
+      "brand": "巴蜀大将火锅(天府大悦城店)",
+      "address": "天府大悦城5楼B02",
+      "distance": "29m"
+    },
+    {
+      "brand": "奈雪的茶(成都天府大悦城店)",
+      "address": "天府新区中央商务区天府大悦城L123",
+      "distance": "29m"
+    },
+    {
+      "brand": "兴悦鸡毛店(成都天府大悦城店)",
+      "address": "兴康三街505号成都天府大悦城A馆L6层L6-B-11、L6、B-12",
+      "distance": "30m"
+    },
+    {
+      "brand": "旦3蛋烘糕(天府大悦城店)",
+      "address": "天府新区中央商务区(夔州大道与兴康三街交界处东侧)成都天府大悦城A馆",
+      "distance": "40m"
+    },
+    {
+      "brand": "豆相识·豆腐脑(天府大悦城店)",
+      "address": "正兴街道兴康三街505号成都天府大悦城A馆负一楼",
+      "distance": "44m"
+    },
+    {
+      "brand": "茶话弄(成都天府大悦城店)",
+      "address": "兴康三街505号成都天府大悦城B馆L5层L5-B-16",
+      "distance": "8m"
+    },
+    {
+      "brand": "李俱全黑鸭煲(天府大悦城店)",
+      "address": "天府新区中央商务区(夔州大道与兴康三街交界处东侧)成都天府大悦城B馆",
+      "distance": "15m"
+    },
+    {
+      "brand": "句象咖啡(成都天府店)",
+      "address": "兴康三街505号成都天府大悦城B馆2楼",
+      "distance": "23m"
+    },
+    {
+      "brand": "阿亲家.韩式无限烤肉(天府大悦城甄选店)",
+      "address": "天府大悦城五楼连廊附518、519号",
+      "distance": "24m"
+    },
+    {
+      "brand": "BA(天府大悦城店)",
+      "address": "正兴街道兴康三街500号1栋附124号",
+      "distance": "28m"
+    },
+    {
+      "brand": "巴蜀大将火锅(天府大悦城店)",
+      "address": "天府大悦城5楼B02",
+      "distance": "29m"
+    },
+    {
+      "brand": "奈雪的茶(成都天府大悦城店)",
+      "address": "天府新区中央商务区天府大悦城L123",
+      "distance": "29m"
+    },
+    {
+      "brand": "兴悦鸡毛店(成都天府大悦城店)",
+      "address": "兴康三街505号成都天府大悦城A馆L6层L6-B-11、L6、B-12",
+      "distance": "30m"
+    },
+    {
+      "brand": "旦3蛋烘糕(天府大悦城店)",
+      "address": "天府新区中央商务区(夔州大道与兴康三街交界处东侧)成都天府大悦城A馆",
+      "distance": "40m"
+    },
+    {
+      "brand": "豆相识·豆腐脑(天府大悦城店)",
+      "address": "正兴街道兴康三街505号成都天府大悦城A馆负一楼",
+      "distance": "44m"
+    },
+    {
+      "brand": "茶话弄(成都天府大悦城店)",
+      "address": "兴康三街505号成都天府大悦城B馆L5层L5-B-16",
+      "distance": "8m"
+    },
+    {
+      "brand": "李俱全黑鸭煲(天府大悦城店)",
+      "address": "天府新区中央商务区(夔州大道与兴康三街交界处东侧)成都天府大悦城B馆",
+      "distance": "15m"
+    },
+    {
+      "brand": "句象咖啡(成都天府店)",
+      "address": "兴康三街505号成都天府大悦城B馆2楼",
+      "distance": "23m"
+    },
+    {
+      "brand": "阿亲家.韩式无限烤肉(天府大悦城甄选店)",
+      "address": "天府大悦城五楼连廊附518、519号",
+      "distance": "24m"
+    },
+    {
+      "brand": "BA(天府大悦城店)",
+      "address": "正兴街道兴康三街500号1栋附124号",
+      "distance": "28m"
+    },
+    {
+      "brand": "巴蜀大将火锅(天府大悦城店)",
+      "address": "天府大悦城5楼B02",
+      "distance": "29m"
+    },
+    {
+      "brand": "奈雪的茶(成都天府大悦城店)",
+      "address": "天府新区中央商务区天府大悦城L123",
+      "distance": "29m"
+    },
+    {
+      "brand": "兴悦鸡毛店(成都天府大悦城店)",
+      "address": "兴康三街505号成都天府大悦城A馆L6层L6-B-11、L6、B-12",
+      "distance": "30m"
+    },
+    {
+      "brand": "旦3蛋烘糕(天府大悦城店)",
+      "address": "天府新区中央商务区(夔州大道与兴康三街交界处东侧)成都天府大悦城A馆",
+      "distance": "40m"
+    },
+    {
+      "brand": "豆相识·豆腐脑(天府大悦城店)",
+      "address": "正兴街道兴康三街505号成都天府大悦城A馆负一楼",
+      "distance": "44m"
+    },
+    {
+      "brand": "茶话弄(成都天府大悦城店)",
+      "address": "兴康三街505号成都天府大悦城B馆L5层L5-B-16",
+      "distance": "8m"
+    },
+    {
+      "brand": "李俱全黑鸭煲(天府大悦城店)",
+      "address": "天府新区中央商务区(夔州大道与兴康三街交界处东侧)成都天府大悦城B馆",
+      "distance": "15m"
+    },
+    {
+      "brand": "句象咖啡(成都天府店)",
+      "address": "兴康三街505号成都天府大悦城B馆2楼",
+      "distance": "23m"
+    },
+    {
+      "brand": "阿亲家.韩式无限烤肉(天府大悦城甄选店)",
+      "address": "天府大悦城五楼连廊附518、519号",
+      "distance": "24m"
+    },
+    {
+      "brand": "BA(天府大悦城店)",
+      "address": "正兴街道兴康三街500号1栋附124号",
+      "distance": "28m"
+    },
+    {
+      "brand": "巴蜀大将火锅(天府大悦城店)",
+      "address": "天府大悦城5楼B02",
+      "distance": "29m"
+    },
+    {
+      "brand": "奈雪的茶(成都天府大悦城店)",
+      "address": "天府新区中央商务区天府大悦城L123",
+      "distance": "29m"
+    },
+    {
+      "brand": "兴悦鸡毛店(成都天府大悦城店)",
+      "address": "兴康三街505号成都天府大悦城A馆L6层L6-B-11、L6、B-12",
+      "distance": "30m"
+    },
+    {
+      "brand": "旦3蛋烘糕(天府大悦城店)",
+      "address": "天府新区中央商务区(夔州大道与兴康三街交界处东侧)成都天府大悦城A馆",
+      "distance": "40m"
+    },
+    {
+      "brand": "豆相识·豆腐脑(天府大悦城店)",
+      "address": "正兴街道兴康三街505号成都天府大悦城A馆负一楼",
+      "distance": "44m"
+    },
+    {
+      "brand": "茶话弄(成都天府大悦城店)",
+      "address": "兴康三街505号成都天府大悦城B馆L5层L5-B-16",
+      "distance": "8m"
+    },
+    {
+      "brand": "李俱全黑鸭煲(天府大悦城店)",
+      "address": "天府新区中央商务区(夔州大道与兴康三街交界处东侧)成都天府大悦城B馆",
+      "distance": "15m"
+    },
+    {
+      "brand": "句象咖啡(成都天府店)",
+      "address": "兴康三街505号成都天府大悦城B馆2楼",
+      "distance": "23m"
+    },
+    {
+      "brand": "阿亲家.韩式无限烤肉(天府大悦城甄选店)",
+      "address": "天府大悦城五楼连廊附518、519号",
+      "distance": "24m"
+    },
+    {
+      "brand": "BA(天府大悦城店)",
+      "address": "正兴街道兴康三街500号1栋附124号",
+      "distance": "28m"
+    },
+    {
+      "brand": "巴蜀大将火锅(天府大悦城店)",
+      "address": "天府大悦城5楼B02",
+      "distance": "29m"
+    },
+    {
+      "brand": "奈雪的茶(成都天府大悦城店)",
+      "address": "天府新区中央商务区天府大悦城L123",
+      "distance": "29m"
+    },
+    {
+      "brand": "兴悦鸡毛店(成都天府大悦城店)",
+      "address": "兴康三街505号成都天府大悦城A馆L6层L6-B-11、L6、B-12",
+      "distance": "30m"
+    },
+    {
+      "brand": "旦3蛋烘糕(天府大悦城店)",
+      "address": "天府新区中央商务区(夔州大道与兴康三街交界处东侧)成都天府大悦城A馆",
+      "distance": "40m"
+    },
+    {
+      "brand": "豆相识·豆腐脑(天府大悦城店)",
+      "address": "正兴街道兴康三街505号成都天府大悦城A馆负一楼",
+      "distance": "44m"
+    }
+  ],
+  "nearby_malls": [],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 111.0,
+      "within_1yr_pct": 23.4,
+      "1_3yr_pct": 14.4,
+      "over_3yr_pct": 62.2
+    },
+    {
+      "type": "购物",
+      "count": 136.0,
+      "within_1yr_pct": 27.9,
+      "1_3yr_pct": 13.2,
+      "over_3yr_pct": 58.8
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 16.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "教育培训",
+      "count": 5.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 20.0,
+      "over_3yr_pct": 80.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 5.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 80.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "生活服务",
+      "count": 36.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 22.2,
+      "over_3yr_pct": 52.8
+    },
+    {
+      "type": "运动健身",
+      "count": 14.0,
+      "within_1yr_pct": 28.6,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 71.4
+    },
+    {
+      "type": "车辆服务",
+      "count": 6.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 16.7,
+      "over_3yr_pct": 50.0
+    }
+  ]
+}

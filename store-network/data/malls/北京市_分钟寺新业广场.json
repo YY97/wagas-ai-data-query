@@ -1,0 +1,187 @@
+{
+  "name": "分钟寺新业广场",
+  "city": "北京市",
+  "address": "北京市东城区交道口街道沙井胡同南锣鼓巷",
+  "lat": 39.936302,
+  "lng": 116.403145,
+  "overview": {
+    "score": 85.5,
+    "score_rank": "市内前30%",
+    "population_score": 82.6,
+    "area_score": 82.5,
+    "consumption_score": 93.7,
+    "industry_score": 85.5,
+    "annual_sales": "",
+    "annual_sales_unit": "",
+    "area_size_sqm": null,
+    "open_date": "",
+    "operator": "",
+    "brand": "",
+    "type": "",
+    "floors": ""
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "",
+    "annual_daily_rank": "",
+    "jun_total": null,
+    "jun_total_rank": "",
+    "jun_daily_avg": null,
+    "jun_daily_unit": "",
+    "jun_daily_rank": "",
+    "weekday_avg": null,
+    "weekday_unit": "",
+    "weekday_rank": "",
+    "holiday_avg": null,
+    "holiday_unit": "",
+    "holiday_rank": ""
+  },
+  "population": {
+    "residential": {
+      "500m": 1.5,
+      "1_5km": 13.3,
+      "3km": 62.7
+    },
+    "office": {
+      "500m": 8500.0,
+      "1_5km": 8.4,
+      "3km": 50.3
+    },
+    "permanent": {
+      "500m": 2.0,
+      "1_5km": 14.4,
+      "3km": 68.2
+    }
+  },
+  "business": {
+    "competitors": 5.0,
+    "food": 286.0,
+    "shopping": 201.0,
+    "leisure": 23.0,
+    "education": 10.0,
+    "hotel": 34.0,
+    "services": 67.0,
+    "fitness": null,
+    "auto": 4.0,
+    "total_stores": 648.0,
+    "old_store_3yr_pct": 47.0
+  },
+  "nearby_poi": {
+    "business": 1.0,
+    "community": 385.0,
+    "office": 20.0,
+    "school": 58.0,
+    "hospital": 133.0,
+    "transport": 5.0,
+    "scenic": 1281.0
+  },
+  "demographics": {
+    "male_pct": 47.3,
+    "female_pct": null,
+    "education": {
+      "小学": 10.4,
+      "初中": 17.7,
+      "高中": 11.5,
+      "大专": 6.7,
+      "本科": 45.7,
+      "硕士": 6.3,
+      "博士": 1.7
+    },
+    "has_children_pct": null,
+    "no_children_pct": null
+  },
+  "scraped_at": "2026-08-01T18:17:20.223Z",
+  "nearby_restaurants": [
+    {
+      "brand": "南京盐水鸭(南锣鼓巷店)",
+      "address": "前圆恩寺胡同5号院东门北120米",
+      "distance": "495m"
+    },
+    {
+      "brand": "VOYAGE COFFEE Espresso(南锣鼓巷店)",
+      "address": "地安门东大街97号(南锣鼓巷地铁站A西北口步行190米)",
+      "distance": "496m"
+    },
+    {
+      "brand": "铁客茶歇",
+      "address": "鼓楼东大街257号",
+      "distance": "496m"
+    },
+    {
+      "brand": "杂粮煎饼",
+      "address": "前圆恩寺胡同5号院东门北120米",
+      "distance": "497m"
+    },
+    {
+      "brand": "永顺炸鸡交道口店",
+      "address": "交道口南大街29号",
+      "distance": "499m"
+    },
+    {
+      "brand": "老回回牛街清真小吃(鼓楼店)",
+      "address": "北京城区鼓楼东大街240号(什刹海地铁站A2西北口步行460米)",
+      "distance": "499m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "北京新地佰",
+      "open_date": "2022-12-31",
+      "area": "-",
+      "jun_daily_avg": "1.6万人次",
+      "weekday_avg": "1.4万人次",
+      "holiday_avg": "2.2万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 286.0,
+      "within_1yr_pct": 25.2,
+      "1_3yr_pct": 30.1,
+      "over_3yr_pct": 44.8
+    },
+    {
+      "type": "购物",
+      "count": 201.0,
+      "within_1yr_pct": 22.4,
+      "1_3yr_pct": 29.9,
+      "over_3yr_pct": 47.8
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 46.0,
+      "within_1yr_pct": 23.9,
+      "1_3yr_pct": 23.9,
+      "over_3yr_pct": 52.2
+    },
+    {
+      "type": "教育培训",
+      "count": 10.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 20.0,
+      "over_3yr_pct": 60.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 34.0,
+      "within_1yr_pct": 17.6,
+      "1_3yr_pct": 26.5,
+      "over_3yr_pct": 55.9
+    },
+    {
+      "type": "生活服务",
+      "count": 67.0,
+      "within_1yr_pct": 19.4,
+      "1_3yr_pct": 35.8,
+      "over_3yr_pct": 44.8
+    },
+    {
+      "type": "车辆服务",
+      "count": 4.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
+    }
+  ]
+}

@@ -1,0 +1,177 @@
+{
+  "name": "延庆万达广场",
+  "city": "北京市",
+  "address": "北京市丰台区大红门街道大红门路28号丹陛华生活展示中心",
+  "lat": 39.849662,
+  "lng": 116.405533,
+  "overview": {
+    "score": null,
+    "score_rank": "",
+    "population_score": 86.9,
+    "area_score": 73.9,
+    "consumption_score": 70.1,
+    "industry_score": 67.8,
+    "annual_sales": "",
+    "annual_sales_unit": "",
+    "area_size_sqm": 2.85,
+    "open_date": "",
+    "operator": "",
+    "brand": "",
+    "type": "购物型",
+    "floors": "B1-L5"
+  },
+  "traffic": {
+    "annual_daily": 1.15,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第192",
+    "jun_total": 29.8,
+    "jun_total_rank": "市内商场第250名",
+    "jun_daily_avg": 9932.0,
+    "jun_daily_unit": "人次",
+    "jun_daily_rank": "市内商场第250名",
+    "weekday_avg": 9704.0,
+    "weekday_unit": "人次",
+    "weekday_rank": "市内商场第242名",
+    "holiday_avg": 1.1,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第254名"
+  },
+  "population": {
+    "residential": {
+      "500m": 1.5,
+      "1_5km": 23.9,
+      "3km": 80.6
+    },
+    "office": {
+      "500m": 5700.0,
+      "1_5km": 9.9,
+      "3km": 33.8
+    },
+    "permanent": {
+      "500m": 1.2,
+      "1_5km": 23.6,
+      "3km": 84.5
+    }
+  },
+  "business": {
+    "competitors": null,
+    "food": 35.0,
+    "shopping": 127.0,
+    "leisure": 4.0,
+    "education": 5.0,
+    "hotel": 3.0,
+    "services": 32.0,
+    "fitness": 10.0,
+    "auto": 13.0,
+    "total_stores": 46.0,
+    "old_store_3yr_pct": 59.0
+  },
+  "nearby_poi": {
+    "business": 3.0,
+    "community": 418.0,
+    "office": 22.0,
+    "school": 42.0,
+    "hospital": 69.0,
+    "transport": 7.0,
+    "scenic": 86.0
+  },
+  "demographics": {
+    "male_pct": 53.6,
+    "female_pct": null,
+    "education": {
+      "小学": 9.7,
+      "初中": 16.3,
+      "高中": 10.6,
+      "大专": 6.9,
+      "本科": 47.9,
+      "硕士": 6.9,
+      "博士": 1.7
+    },
+    "has_children_pct": 66.6,
+    "no_children_pct": 33.4
+  },
+  "scraped_at": "2026-08-01T12:33:59.734Z",
+  "nearby_restaurants": [
+    {
+      "brand": "紫光园·烤鸭·小馆(木樨园店)",
+      "address": "永外海户屯166号院4幢1层108室",
+      "distance": "489m"
+    },
+    {
+      "brand": "宽板凳老灶火锅(木樨园店)",
+      "address": "北京城区海户屯166号5号楼2层201",
+      "distance": "491m"
+    },
+    {
+      "brand": "郭记温州海鲜排档",
+      "address": "大红门海兴大酒店旁边停车场内4栋一层106号",
+      "distance": "492m"
+    },
+    {
+      "brand": "东北饭包",
+      "address": "南苑路辅路与丰海街交叉口西北80米",
+      "distance": "495m"
+    },
+    {
+      "brand": "阿祥嫂隆江猪脚饭(木樨园店)",
+      "address": "丰台区南苑路永外海户屯166号院一层底商餐馆阿祥嫂隆江猪脚饭",
+      "distance": "495m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "北京木樨园合生广场",
+      "open_date": "2017-01-01",
+      "area": "4万㎡",
+      "jun_daily_avg": "3.9万人次",
+      "weekday_avg": "3.6万人次",
+      "holiday_avg": "4.6万人次"
+    },
+    {
+      "name": "北京京港城生活广场",
+      "open_date": "2016-12-01",
+      "area": "2.3万㎡",
+      "jun_daily_avg": "1.5万人次",
+      "weekday_avg": "1.4万人次",
+      "holiday_avg": "1.6万人次"
+    },
+    {
+      "name": "北京百荣世贸商城",
+      "open_date": "2004-04-29",
+      "area": "40万㎡",
+      "jun_daily_avg": "8.4万人次",
+      "weekday_avg": "7.3万人次",
+      "holiday_avg": "11.5万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 3.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 66.7,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "购物",
+      "count": 39.0,
+      "within_1yr_pct": 7.7,
+      "1_3yr_pct": 28.2,
+      "over_3yr_pct": 64.1
+    },
+    {
+      "type": "生活服务",
+      "count": 3.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 66.7
+    },
+    {
+      "type": "车辆服务",
+      "count": 1.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
+    }
+  ]
+}

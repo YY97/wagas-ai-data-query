@@ -1,0 +1,486 @@
+{
+  "name": "上海静安嘉里中心",
+  "city": "上海市",
+  "address": "上海市静安区安义路61号",
+  "lat": 31.223465,
+  "lng": 121.44963,
+  "overview": {
+    "score": 95.4,
+    "score_rank": "市内前30%",
+    "population_score": 78.3,
+    "area_score": 100.0,
+    "consumption_score": 89.6,
+    "industry_score": 95.5,
+    "annual_sales": "15",
+    "annual_sales_unit": "亿元",
+    "area_size_sqm": 9.4,
+    "open_date": "2013-01-01",
+    "operator": "嘉里建设有限公司",
+    "brand": "嘉里建设有限公司",
+    "type": "购物型",
+    "floors": "B2-L4"
+  },
+  "traffic": {
+    "annual_daily": 3.59,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第64",
+    "jun_total": 180.9,
+    "jun_total_rank": "市内商场第45名",
+    "jun_daily_avg": 6.0,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第45名",
+    "weekday_avg": 5.5,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第48名",
+    "holiday_avg": 7.6,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第45名"
+  },
+  "population": {
+    "residential": {
+      "500m": 1.5,
+      "1_5km": 21.0,
+      "3km": 96.9
+    },
+    "office": {
+      "500m": 4.9,
+      "1_5km": 29.4,
+      "3km": 106.4
+    },
+    "permanent": {
+      "500m": 3.5,
+      "1_5km": 27.1,
+      "3km": 113.9
+    }
+  },
+  "business": {
+    "competitors": 21.0,
+    "food": 553.0,
+    "shopping": 729.0,
+    "leisure": 29.0,
+    "education": 35.0,
+    "hotel": 78.0,
+    "services": 222.0,
+    "fitness": 25.0,
+    "auto": 25.0,
+    "total_stores": 296.0,
+    "old_store_3yr_pct": 51.0
+  },
+  "nearby_poi": {
+    "business": 19.0,
+    "community": 1299.0,
+    "office": 213.0,
+    "school": 86.0,
+    "hospital": 215.0,
+    "transport": 8.0,
+    "scenic": 822.0
+  },
+  "demographics": {
+    "male_pct": 46.2,
+    "female_pct": null,
+    "education": {
+      "小学": 9.1,
+      "初中": 17.9,
+      "高中": 12.0,
+      "大专": 6.8,
+      "本科": 47.9,
+      "硕士": 4.7,
+      "博士": 1.6
+    },
+    "has_children_pct": 57.8,
+    "no_children_pct": 42.2
+  },
+  "scraped_at": "2026-07-31T17:49:52.402Z",
+  "nearby_restaurants": [
+    {
+      "brand": "李派·喇沙新加坡菜(上海静安嘉里中心店)",
+      "address": "静安嘉里中心南区商场(静安寺地铁站8号口步行170米)",
+      "distance": "12m"
+    },
+    {
+      "brand": "小野茶坊(静安嘉里中心店)",
+      "address": "南京西路1605号静安嘉里中心南区商场B2层",
+      "distance": "16m"
+    },
+    {
+      "brand": "ralph's coffee(静安嘉里中心北区商场店)",
+      "address": "静安嘉里中心南区商场(静安寺地铁站6号口步行210米)",
+      "distance": "16m"
+    },
+    {
+      "brand": "Gifting Your Day(上海静安嘉里中心店)",
+      "address": "南京西路1515号静安嘉里中心南区商场B1层",
+      "distance": "19m"
+    },
+    {
+      "brand": "LB咖啡(静安嘉里中心店)",
+      "address": "南京西路1515号静安嘉里中心南区商场B2层",
+      "distance": "20m"
+    },
+    {
+      "brand": "琥家(静安嘉里店)",
+      "address": "延安中路1218号B2层SB2-19室",
+      "distance": "21m"
+    },
+    {
+      "brand": "久米碗",
+      "address": "嘉里中心南区B2层SB2-11、SB2-12室",
+      "distance": "23m"
+    },
+    {
+      "brand": "松发肉骨茶(静安嘉里中心店)",
+      "address": "南京西路1515号静安嘉里中心南区SB1-12",
+      "distance": "26m"
+    },
+    {
+      "brand": "Paper Stone Bakery(静安嘉里中心店)",
+      "address": "静安嘉里中心南区商场(静安寺地铁站8号口步行190米)",
+      "distance": "27m"
+    },
+    {
+      "brand": "PS.Cafe(静安嘉里中心店)",
+      "address": "延安中路1218号静安嘉里中心南区B1-15号",
+      "distance": "27m"
+    },
+    {
+      "brand": "李派·喇沙新加坡菜(上海静安嘉里中心店)",
+      "address": "静安嘉里中心南区商场(静安寺地铁站8号口步行170米)",
+      "distance": "12m"
+    },
+    {
+      "brand": "小野茶坊(静安嘉里中心店)",
+      "address": "南京西路1605号静安嘉里中心南区商场B2层",
+      "distance": "16m"
+    },
+    {
+      "brand": "ralph's coffee(静安嘉里中心北区商场店)",
+      "address": "静安嘉里中心南区商场(静安寺地铁站6号口步行210米)",
+      "distance": "16m"
+    },
+    {
+      "brand": "Gifting Your Day(上海静安嘉里中心店)",
+      "address": "南京西路1515号静安嘉里中心南区商场B1层",
+      "distance": "19m"
+    },
+    {
+      "brand": "LB咖啡(静安嘉里中心店)",
+      "address": "南京西路1515号静安嘉里中心南区商场B2层",
+      "distance": "20m"
+    },
+    {
+      "brand": "琥家(静安嘉里店)",
+      "address": "延安中路1218号B2层SB2-19室",
+      "distance": "21m"
+    },
+    {
+      "brand": "久米碗",
+      "address": "嘉里中心南区B2层SB2-11、SB2-12室",
+      "distance": "23m"
+    },
+    {
+      "brand": "松发肉骨茶(静安嘉里中心店)",
+      "address": "南京西路1515号静安嘉里中心南区SB1-12",
+      "distance": "26m"
+    },
+    {
+      "brand": "Paper Stone Bakery(静安嘉里中心店)",
+      "address": "静安嘉里中心南区商场(静安寺地铁站8号口步行190米)",
+      "distance": "27m"
+    },
+    {
+      "brand": "PS.Cafe(静安嘉里中心店)",
+      "address": "延安中路1218号静安嘉里中心南区B1-15号",
+      "distance": "27m"
+    },
+    {
+      "brand": "李派·喇沙新加坡菜(上海静安嘉里中心店)",
+      "address": "静安嘉里中心南区商场(静安寺地铁站8号口步行170米)",
+      "distance": "12m"
+    },
+    {
+      "brand": "小野茶坊(静安嘉里中心店)",
+      "address": "南京西路1605号静安嘉里中心南区商场B2层",
+      "distance": "16m"
+    },
+    {
+      "brand": "ralph's coffee(静安嘉里中心北区商场店)",
+      "address": "静安嘉里中心南区商场(静安寺地铁站6号口步行210米)",
+      "distance": "16m"
+    },
+    {
+      "brand": "Gifting Your Day(上海静安嘉里中心店)",
+      "address": "南京西路1515号静安嘉里中心南区商场B1层",
+      "distance": "19m"
+    },
+    {
+      "brand": "LB咖啡(静安嘉里中心店)",
+      "address": "南京西路1515号静安嘉里中心南区商场B2层",
+      "distance": "20m"
+    },
+    {
+      "brand": "琥家(静安嘉里店)",
+      "address": "延安中路1218号B2层SB2-19室",
+      "distance": "21m"
+    },
+    {
+      "brand": "久米碗",
+      "address": "嘉里中心南区B2层SB2-11、SB2-12室",
+      "distance": "23m"
+    },
+    {
+      "brand": "松发肉骨茶(静安嘉里中心店)",
+      "address": "南京西路1515号静安嘉里中心南区SB1-12",
+      "distance": "26m"
+    },
+    {
+      "brand": "Paper Stone Bakery(静安嘉里中心店)",
+      "address": "静安嘉里中心南区商场(静安寺地铁站8号口步行190米)",
+      "distance": "27m"
+    },
+    {
+      "brand": "PS.Cafe(静安嘉里中心店)",
+      "address": "延安中路1218号静安嘉里中心南区B1-15号",
+      "distance": "27m"
+    },
+    {
+      "brand": "李派·喇沙新加坡菜(上海静安嘉里中心店)",
+      "address": "静安嘉里中心南区商场(静安寺地铁站8号口步行170米)",
+      "distance": "12m"
+    },
+    {
+      "brand": "小野茶坊(静安嘉里中心店)",
+      "address": "南京西路1605号静安嘉里中心南区商场B2层",
+      "distance": "16m"
+    },
+    {
+      "brand": "ralph's coffee(静安嘉里中心北区商场店)",
+      "address": "静安嘉里中心南区商场(静安寺地铁站6号口步行210米)",
+      "distance": "16m"
+    },
+    {
+      "brand": "Gifting Your Day(上海静安嘉里中心店)",
+      "address": "南京西路1515号静安嘉里中心南区商场B1层",
+      "distance": "19m"
+    },
+    {
+      "brand": "LB咖啡(静安嘉里中心店)",
+      "address": "南京西路1515号静安嘉里中心南区商场B2层",
+      "distance": "20m"
+    },
+    {
+      "brand": "琥家(静安嘉里店)",
+      "address": "延安中路1218号B2层SB2-19室",
+      "distance": "21m"
+    },
+    {
+      "brand": "久米碗",
+      "address": "嘉里中心南区B2层SB2-11、SB2-12室",
+      "distance": "23m"
+    },
+    {
+      "brand": "松发肉骨茶(静安嘉里中心店)",
+      "address": "南京西路1515号静安嘉里中心南区SB1-12",
+      "distance": "26m"
+    },
+    {
+      "brand": "Paper Stone Bakery(静安嘉里中心店)",
+      "address": "静安嘉里中心南区商场(静安寺地铁站8号口步行190米)",
+      "distance": "27m"
+    },
+    {
+      "brand": "PS.Cafe(静安嘉里中心店)",
+      "address": "延安中路1218号静安嘉里中心南区B1-15号",
+      "distance": "27m"
+    },
+    {
+      "brand": "李派·喇沙新加坡菜(上海静安嘉里中心店)",
+      "address": "静安嘉里中心南区商场(静安寺地铁站8号口步行170米)",
+      "distance": "12m"
+    },
+    {
+      "brand": "小野茶坊(静安嘉里中心店)",
+      "address": "南京西路1605号静安嘉里中心南区商场B2层",
+      "distance": "16m"
+    },
+    {
+      "brand": "ralph's coffee(静安嘉里中心北区商场店)",
+      "address": "静安嘉里中心南区商场(静安寺地铁站6号口步行210米)",
+      "distance": "16m"
+    },
+    {
+      "brand": "Gifting Your Day(上海静安嘉里中心店)",
+      "address": "南京西路1515号静安嘉里中心南区商场B1层",
+      "distance": "19m"
+    },
+    {
+      "brand": "LB咖啡(静安嘉里中心店)",
+      "address": "南京西路1515号静安嘉里中心南区商场B2层",
+      "distance": "20m"
+    },
+    {
+      "brand": "琥家(静安嘉里店)",
+      "address": "延安中路1218号B2层SB2-19室",
+      "distance": "21m"
+    },
+    {
+      "brand": "久米碗",
+      "address": "嘉里中心南区B2层SB2-11、SB2-12室",
+      "distance": "23m"
+    },
+    {
+      "brand": "松发肉骨茶(静安嘉里中心店)",
+      "address": "南京西路1515号静安嘉里中心南区SB1-12",
+      "distance": "26m"
+    },
+    {
+      "brand": "Paper Stone Bakery(静安嘉里中心店)",
+      "address": "静安嘉里中心南区商场(静安寺地铁站8号口步行190米)",
+      "distance": "27m"
+    },
+    {
+      "brand": "PS.Cafe(静安嘉里中心店)",
+      "address": "延安中路1218号静安嘉里中心南区B1-15号",
+      "distance": "27m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海UX 88",
+      "open_date": "2013-01-01",
+      "area": "6000㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海芮欧百货",
+      "open_date": "2011-01-01",
+      "area": "6.5万㎡",
+      "jun_daily_avg": "2.9万人次",
+      "weekday_avg": "2.7万人次",
+      "holiday_avg": "3.4万人次"
+    },
+    {
+      "name": "上海久光百货",
+      "open_date": "2004-09-04",
+      "area": "9.1万㎡",
+      "jun_daily_avg": "3.7万人次",
+      "weekday_avg": "3.3万人次",
+      "holiday_avg": "4.9万人次"
+    },
+    {
+      "name": "上海晶品Crystal Galleria",
+      "open_date": "2015-09-20",
+      "area": "7.3万㎡",
+      "jun_daily_avg": "3.6万人次",
+      "weekday_avg": "3.3万人次",
+      "holiday_avg": "4.5万人次"
+    },
+    {
+      "name": "上海商城",
+      "open_date": "1990-04-27",
+      "area": "3万㎡",
+      "jun_daily_avg": "1.2万人次",
+      "weekday_avg": "1.2万人次",
+      "holiday_avg": "1.3万人次"
+    },
+    {
+      "name": "上海JC PLAZA锦沧文华广场",
+      "open_date": "2022-08-18",
+      "area": "2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海1788square",
+      "open_date": "2013-04-18",
+      "area": "2.3万㎡",
+      "jun_daily_avg": "1.1万人次",
+      "weekday_avg": "1万人次",
+      "holiday_avg": "1.1万人次"
+    },
+    {
+      "name": "上海恒隆广场",
+      "open_date": "2001-07-14",
+      "area": "11.4万㎡",
+      "jun_daily_avg": "2.2万人次",
+      "weekday_avg": "2.2万人次",
+      "holiday_avg": "2万人次"
+    },
+    {
+      "name": "上海金鹰国际购物广场",
+      "open_date": "2024-01-26",
+      "area": "3.8万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海中信泰富广场",
+      "open_date": "2002-06-15",
+      "area": "3.5万㎡",
+      "jun_daily_avg": "1.1万人次",
+      "weekday_avg": "1.1万人次",
+      "holiday_avg": "1.1万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 87.0,
+      "within_1yr_pct": 18.4,
+      "1_3yr_pct": 31.0,
+      "over_3yr_pct": 50.6
+    },
+    {
+      "type": "购物",
+      "count": 160.0,
+      "within_1yr_pct": 20.6,
+      "1_3yr_pct": 25.6,
+      "over_3yr_pct": 53.8
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 5.0,
+      "within_1yr_pct": 40.0,
+      "1_3yr_pct": 20.0,
+      "over_3yr_pct": 40.0
+    },
+    {
+      "type": "教育培训",
+      "count": 5.0,
+      "within_1yr_pct": 60.0,
+      "1_3yr_pct": 20.0,
+      "over_3yr_pct": 20.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 3.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 66.7
+    },
+    {
+      "type": "生活服务",
+      "count": 24.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 20.8,
+      "over_3yr_pct": 54.2
+    },
+    {
+      "type": "运动健身",
+      "count": 5.0,
+      "within_1yr_pct": 40.0,
+      "1_3yr_pct": 40.0,
+      "over_3yr_pct": 20.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 7.0,
+      "within_1yr_pct": 28.6,
+      "1_3yr_pct": 28.6,
+      "over_3yr_pct": 42.9
+    }
+  ]
+}

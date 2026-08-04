@@ -1,0 +1,202 @@
+{
+  "name": "芳圆里ID MALL",
+  "city": "北京市",
+  "address": "北京市朝阳区东四环中路189号",
+  "lat": 39.898329,
+  "lng": 116.487483,
+  "overview": {
+    "score": 92.8,
+    "score_rank": "市内前30%",
+    "population_score": 82.7,
+    "area_score": 88.2,
+    "consumption_score": 84.1,
+    "industry_score": 92.9,
+    "annual_sales": "2",
+    "annual_sales_unit": "亿元",
+    "area_size_sqm": 15.0,
+    "open_date": "2024-10-20",
+    "operator": "中信资本（中国）投资有限公司",
+    "brand": "",
+    "type": "亲子型",
+    "floors": "B1-L5"
+  },
+  "traffic": {
+    "annual_daily": 1.81,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第134",
+    "jun_total": 72.5,
+    "jun_total_rank": "市内商场第134名",
+    "jun_daily_avg": 2.4,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第134名",
+    "weekday_avg": 2.1,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第145名",
+    "holiday_avg": 3.2,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第119名"
+  },
+  "population": {
+    "residential": {
+      "500m": 1.6,
+      "1_5km": 17.8,
+      "3km": 68.5
+    },
+    "office": {
+      "500m": 1.1,
+      "1_5km": 11.0,
+      "3km": 48.9
+    },
+    "permanent": {
+      "500m": 1.7,
+      "1_5km": 17.7,
+      "3km": 70.0
+    }
+  },
+  "business": {
+    "competitors": 5.0,
+    "food": 176.0,
+    "shopping": 152.0,
+    "leisure": 24.0,
+    "education": 35.0,
+    "hotel": 18.0,
+    "services": 127.0,
+    "fitness": 16.0,
+    "auto": 16.0,
+    "total_stores": 152.0,
+    "old_store_3yr_pct": 57.0
+  },
+  "nearby_poi": {
+    "business": 2.0,
+    "community": 296.0,
+    "office": 53.0,
+    "school": 30.0,
+    "hospital": 104.0,
+    "transport": 7.0,
+    "scenic": 105.0
+  },
+  "demographics": {
+    "male_pct": 49.4,
+    "female_pct": null,
+    "education": {
+      "小学": 8.8,
+      "初中": 15.2,
+      "高中": 11.1,
+      "大专": 6.7,
+      "本科": 49.6,
+      "硕士": 7.0,
+      "博士": 1.6
+    },
+    "has_children_pct": 59.5,
+    "no_children_pct": 40.5
+  },
+  "scraped_at": "2026-08-01T05:32:00.819Z",
+  "nearby_restaurants": [
+    {
+      "brand": "玺公馆·民国餐厅(西大望路店)",
+      "address": "西大望路27号北化机爱工场108栋134室",
+      "distance": "488m"
+    },
+    {
+      "brand": "槐店王婆大虾香辣虾",
+      "address": "广渠路28号院205号珠江帝景B区",
+      "distance": "489m"
+    },
+    {
+      "brand": "玺公馆·川湘菜多国菜(大望路店)",
+      "address": "大郊亭南街与郊亭路交叉口西180米",
+      "distance": "489m"
+    },
+    {
+      "brand": "薯之缘砂锅土豆粉(百子湾店)",
+      "address": "劲松街道广渠路28号225号楼1层北159,B1层北B129",
+      "distance": "489m"
+    },
+    {
+      "brand": "百佳小吃(珠江帝景店)",
+      "address": "劲松街道广渠路28号院珠江帝景B区东门地下一层",
+      "distance": "491m"
+    },
+    {
+      "brand": "胖子龙虾·烧烤·小海鲜(百子湾店)",
+      "address": "北京城区广渠东路大郊亭(北京制药机械设备厂)8幢平房1层101",
+      "distance": "494m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "北京朝阳合生汇",
+      "open_date": "2017-10-01",
+      "area": "20万㎡",
+      "jun_daily_avg": "20.2万人次",
+      "weekday_avg": "17.8万人次",
+      "holiday_avg": "26.9万人次"
+    },
+    {
+      "name": "北京燕莎奥特莱斯购物中心",
+      "open_date": "2002-01-01",
+      "area": "10万㎡",
+      "jun_daily_avg": "3.6万人次",
+      "weekday_avg": "3.3万人次",
+      "holiday_avg": "4.6万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 59.0,
+      "within_1yr_pct": 22.0,
+      "1_3yr_pct": 16.9,
+      "over_3yr_pct": 61.0
+    },
+    {
+      "type": "购物",
+      "count": 38.0,
+      "within_1yr_pct": 18.4,
+      "1_3yr_pct": 36.8,
+      "over_3yr_pct": 44.7
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 13.0,
+      "within_1yr_pct": 7.7,
+      "1_3yr_pct": 23.1,
+      "over_3yr_pct": 69.2
+    },
+    {
+      "type": "教育培训",
+      "count": 14.0,
+      "within_1yr_pct": 14.3,
+      "1_3yr_pct": 35.7,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    },
+    {
+      "type": "生活服务",
+      "count": 16.0,
+      "within_1yr_pct": 18.8,
+      "1_3yr_pct": 12.5,
+      "over_3yr_pct": 68.8
+    },
+    {
+      "type": "运动健身",
+      "count": 6.0,
+      "within_1yr_pct": 16.7,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 33.3
+    },
+    {
+      "type": "车辆服务",
+      "count": 5.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 20.0,
+      "over_3yr_pct": 60.0
+    }
+  ]
+}

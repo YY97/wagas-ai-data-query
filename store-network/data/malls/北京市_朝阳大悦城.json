@@ -1,0 +1,430 @@
+{
+  "name": "朝阳大悦城",
+  "city": "北京市",
+  "address": "北京市朝阳区四季星河西路2层",
+  "lat": 39.925797,
+  "lng": 116.520744,
+  "overview": {
+    "score": 96.7,
+    "score_rank": "市内前30%",
+    "population_score": 92.1,
+    "area_score": 100.0,
+    "consumption_score": 79.2,
+    "industry_score": 96.7,
+    "annual_sales": "55",
+    "annual_sales_unit": "亿元",
+    "area_size_sqm": 23.0,
+    "open_date": "2010-05-28",
+    "operator": "大悦城控股集团股份有限公司",
+    "brand": "大悦城",
+    "type": "购物型",
+    "floors": "B1-L11"
+  },
+  "traffic": {
+    "annual_daily": 7.05,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第12",
+    "jun_total": 291.1,
+    "jun_total_rank": "市内商场第13名",
+    "jun_daily_avg": 9.7,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第13名",
+    "weekday_avg": 8.3,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第13名",
+    "holiday_avg": 13.6,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第11名"
+  },
+  "population": {
+    "residential": {
+      "500m": 2.4,
+      "1_5km": 19.8,
+      "3km": 54.2
+    },
+    "office": {
+      "500m": 1.9,
+      "1_5km": 8.1,
+      "3km": 30.5
+    },
+    "permanent": {
+      "500m": 3.1,
+      "1_5km": 19.1,
+      "3km": 53.9
+    }
+  },
+  "business": {
+    "competitors": 8.0,
+    "food": 425.0,
+    "shopping": 425.0,
+    "leisure": 89.0,
+    "education": 76.0,
+    "hotel": 21.0,
+    "services": 587.0,
+    "fitness": 39.0,
+    "auto": 28.0,
+    "total_stores": 824.0,
+    "old_store_3yr_pct": 41.0
+  },
+  "nearby_poi": {
+    "business": 3.0,
+    "community": 248.0,
+    "office": 34.0,
+    "school": 31.0,
+    "hospital": 60.0,
+    "transport": 9.0,
+    "scenic": 168.0
+  },
+  "demographics": {
+    "male_pct": 47.9,
+    "female_pct": null,
+    "education": {
+      "小学": 9.4,
+      "初中": 15.9,
+      "高中": 10.8,
+      "大专": 7.5,
+      "本科": 49.0,
+      "硕士": 6.1,
+      "博士": 1.3
+    },
+    "has_children_pct": 56.4,
+    "no_children_pct": 43.6
+  },
+  "scraped_at": "2026-08-01T04:21:22.400Z",
+  "nearby_restaurants": [
+    {
+      "brand": "西贡妈妈(朝阳大悦城店)",
+      "address": "朝阳北路101号朝阳大悦城6F层6F-29",
+      "distance": "31m"
+    },
+    {
+      "brand": "牛排家(北京朝阳大悦城店)",
+      "address": "北京城区朝阳北路101号朝阳大悦城6层(悦界内6F-28)",
+      "distance": "35m"
+    },
+    {
+      "brand": "山西麻辣拌",
+      "address": "四季星河西路与朝阳北路辅路交叉口西北180米",
+      "distance": "36m"
+    },
+    {
+      "brand": "墨纪Mojí墨西哥餐厅(朝阳大悦城店)",
+      "address": "北京城区朝阳北路101号朝阳大悦城6层(悦界内6层-30)",
+      "distance": "38m"
+    },
+    {
+      "brand": "STEAK HOUSE(朝阳大悦城店)",
+      "address": "四季星河南街与青年路交叉口东120米",
+      "distance": "41m"
+    },
+    {
+      "brand": "绿茶餐厅(北京朝阳大悦城店)(装修中)",
+      "address": "朝阳北路101号朝阳大悦城八层",
+      "distance": "42m"
+    },
+    {
+      "brand": "Holiland Pink(朝阳大悦城店)",
+      "address": "朝阳北路辅路与四季星河西路交叉口西北180米",
+      "distance": "48m"
+    },
+    {
+      "brand": "牛约堡·手作牛肉汉堡(黄寺大街店)",
+      "address": "朝阳北路辅路与四季星河西路交叉口西北180米",
+      "distance": "48m"
+    },
+    {
+      "brand": "满记甜品(朝阳大悦城店)",
+      "address": "北京城区朝阳北路101号(青年路口)朝阳大悦城F6层6F07",
+      "distance": "48m"
+    },
+    {
+      "brand": "DQ(朝北大悦城5层悦界)",
+      "address": "朝阳北路101号楼大悦城5层悦界5F-D45",
+      "distance": "52m"
+    },
+    {
+      "brand": "西贡妈妈(朝阳大悦城店)",
+      "address": "朝阳北路101号朝阳大悦城6F层6F-29",
+      "distance": "31m"
+    },
+    {
+      "brand": "牛排家(北京朝阳大悦城店)",
+      "address": "北京城区朝阳北路101号朝阳大悦城6层(悦界内6F-28)",
+      "distance": "35m"
+    },
+    {
+      "brand": "山西麻辣拌",
+      "address": "四季星河西路与朝阳北路辅路交叉口西北180米",
+      "distance": "36m"
+    },
+    {
+      "brand": "墨纪Mojí墨西哥餐厅(朝阳大悦城店)",
+      "address": "北京城区朝阳北路101号朝阳大悦城6层(悦界内6层-30)",
+      "distance": "38m"
+    },
+    {
+      "brand": "STEAK HOUSE(朝阳大悦城店)",
+      "address": "四季星河南街与青年路交叉口东120米",
+      "distance": "41m"
+    },
+    {
+      "brand": "绿茶餐厅(北京朝阳大悦城店)(装修中)",
+      "address": "朝阳北路101号朝阳大悦城八层",
+      "distance": "42m"
+    },
+    {
+      "brand": "Holiland Pink(朝阳大悦城店)",
+      "address": "朝阳北路辅路与四季星河西路交叉口西北180米",
+      "distance": "48m"
+    },
+    {
+      "brand": "牛约堡·手作牛肉汉堡(黄寺大街店)",
+      "address": "朝阳北路辅路与四季星河西路交叉口西北180米",
+      "distance": "48m"
+    },
+    {
+      "brand": "满记甜品(朝阳大悦城店)",
+      "address": "北京城区朝阳北路101号(青年路口)朝阳大悦城F6层6F07",
+      "distance": "48m"
+    },
+    {
+      "brand": "DQ(朝北大悦城5层悦界)",
+      "address": "朝阳北路101号楼大悦城5层悦界5F-D45",
+      "distance": "52m"
+    },
+    {
+      "brand": "西贡妈妈(朝阳大悦城店)",
+      "address": "朝阳北路101号朝阳大悦城6F层6F-29",
+      "distance": "31m"
+    },
+    {
+      "brand": "牛排家(北京朝阳大悦城店)",
+      "address": "北京城区朝阳北路101号朝阳大悦城6层(悦界内6F-28)",
+      "distance": "35m"
+    },
+    {
+      "brand": "山西麻辣拌",
+      "address": "四季星河西路与朝阳北路辅路交叉口西北180米",
+      "distance": "36m"
+    },
+    {
+      "brand": "墨纪Mojí墨西哥餐厅(朝阳大悦城店)",
+      "address": "北京城区朝阳北路101号朝阳大悦城6层(悦界内6层-30)",
+      "distance": "38m"
+    },
+    {
+      "brand": "STEAK HOUSE(朝阳大悦城店)",
+      "address": "四季星河南街与青年路交叉口东120米",
+      "distance": "41m"
+    },
+    {
+      "brand": "绿茶餐厅(北京朝阳大悦城店)(装修中)",
+      "address": "朝阳北路101号朝阳大悦城八层",
+      "distance": "42m"
+    },
+    {
+      "brand": "Holiland Pink(朝阳大悦城店)",
+      "address": "朝阳北路辅路与四季星河西路交叉口西北180米",
+      "distance": "48m"
+    },
+    {
+      "brand": "牛约堡·手作牛肉汉堡(黄寺大街店)",
+      "address": "朝阳北路辅路与四季星河西路交叉口西北180米",
+      "distance": "48m"
+    },
+    {
+      "brand": "满记甜品(朝阳大悦城店)",
+      "address": "北京城区朝阳北路101号(青年路口)朝阳大悦城F6层6F07",
+      "distance": "48m"
+    },
+    {
+      "brand": "DQ(朝北大悦城5层悦界)",
+      "address": "朝阳北路101号楼大悦城5层悦界5F-D45",
+      "distance": "52m"
+    },
+    {
+      "brand": "西贡妈妈(朝阳大悦城店)",
+      "address": "朝阳北路101号朝阳大悦城6F层6F-29",
+      "distance": "31m"
+    },
+    {
+      "brand": "牛排家(北京朝阳大悦城店)",
+      "address": "北京城区朝阳北路101号朝阳大悦城6层(悦界内6F-28)",
+      "distance": "35m"
+    },
+    {
+      "brand": "山西麻辣拌",
+      "address": "四季星河西路与朝阳北路辅路交叉口西北180米",
+      "distance": "36m"
+    },
+    {
+      "brand": "墨纪Mojí墨西哥餐厅(朝阳大悦城店)",
+      "address": "北京城区朝阳北路101号朝阳大悦城6层(悦界内6层-30)",
+      "distance": "38m"
+    },
+    {
+      "brand": "STEAK HOUSE(朝阳大悦城店)",
+      "address": "四季星河南街与青年路交叉口东120米",
+      "distance": "41m"
+    },
+    {
+      "brand": "绿茶餐厅(北京朝阳大悦城店)(装修中)",
+      "address": "朝阳北路101号朝阳大悦城八层",
+      "distance": "42m"
+    },
+    {
+      "brand": "Holiland Pink(朝阳大悦城店)",
+      "address": "朝阳北路辅路与四季星河西路交叉口西北180米",
+      "distance": "48m"
+    },
+    {
+      "brand": "牛约堡·手作牛肉汉堡(黄寺大街店)",
+      "address": "朝阳北路辅路与四季星河西路交叉口西北180米",
+      "distance": "48m"
+    },
+    {
+      "brand": "满记甜品(朝阳大悦城店)",
+      "address": "北京城区朝阳北路101号(青年路口)朝阳大悦城F6层6F07",
+      "distance": "48m"
+    },
+    {
+      "brand": "DQ(朝北大悦城5层悦界)",
+      "address": "朝阳北路101号楼大悦城5层悦界5F-D45",
+      "distance": "52m"
+    },
+    {
+      "brand": "西贡妈妈(朝阳大悦城店)",
+      "address": "朝阳北路101号朝阳大悦城6F层6F-29",
+      "distance": "31m"
+    },
+    {
+      "brand": "牛排家(北京朝阳大悦城店)",
+      "address": "北京城区朝阳北路101号朝阳大悦城6层(悦界内6F-28)",
+      "distance": "35m"
+    },
+    {
+      "brand": "山西麻辣拌",
+      "address": "四季星河西路与朝阳北路辅路交叉口西北180米",
+      "distance": "36m"
+    },
+    {
+      "brand": "墨纪Mojí墨西哥餐厅(朝阳大悦城店)",
+      "address": "北京城区朝阳北路101号朝阳大悦城6层(悦界内6层-30)",
+      "distance": "38m"
+    },
+    {
+      "brand": "STEAK HOUSE(朝阳大悦城店)",
+      "address": "四季星河南街与青年路交叉口东120米",
+      "distance": "41m"
+    },
+    {
+      "brand": "绿茶餐厅(北京朝阳大悦城店)(装修中)",
+      "address": "朝阳北路101号朝阳大悦城八层",
+      "distance": "42m"
+    },
+    {
+      "brand": "Holiland Pink(朝阳大悦城店)",
+      "address": "朝阳北路辅路与四季星河西路交叉口西北180米",
+      "distance": "48m"
+    },
+    {
+      "brand": "牛约堡·手作牛肉汉堡(黄寺大街店)",
+      "address": "朝阳北路辅路与四季星河西路交叉口西北180米",
+      "distance": "48m"
+    },
+    {
+      "brand": "满记甜品(朝阳大悦城店)",
+      "address": "北京城区朝阳北路101号(青年路口)朝阳大悦城F6层6F07",
+      "distance": "48m"
+    },
+    {
+      "brand": "DQ(朝北大悦城5层悦界)",
+      "address": "朝阳北路101号楼大悦城5层悦界5F-D45",
+      "distance": "52m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "北京佳亿青年汇",
+      "open_date": "2012-08-01",
+      "area": "2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "北京尚街购物中心",
+      "open_date": "2006-11-28",
+      "area": "2.2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "北京朝阳阳光新城市广场",
+      "open_date": "2010-01-01",
+      "area": "6万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 173.0,
+      "within_1yr_pct": 15.0,
+      "1_3yr_pct": 37.0,
+      "over_3yr_pct": 48.0
+    },
+    {
+      "type": "购物",
+      "count": 293.0,
+      "within_1yr_pct": 15.0,
+      "1_3yr_pct": 39.6,
+      "over_3yr_pct": 45.4
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 30.0,
+      "within_1yr_pct": 46.7,
+      "1_3yr_pct": 40.0,
+      "over_3yr_pct": 13.3
+    },
+    {
+      "type": "教育培训",
+      "count": 14.0,
+      "within_1yr_pct": 35.7,
+      "1_3yr_pct": 35.7,
+      "over_3yr_pct": 28.6
+    },
+    {
+      "type": "酒店住宿",
+      "count": 6.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 16.7,
+      "over_3yr_pct": 33.3
+    },
+    {
+      "type": "生活服务",
+      "count": 288.0,
+      "within_1yr_pct": 34.7,
+      "1_3yr_pct": 28.1,
+      "over_3yr_pct": 37.2
+    },
+    {
+      "type": "运动健身",
+      "count": 13.0,
+      "within_1yr_pct": 23.1,
+      "1_3yr_pct": 38.5,
+      "over_3yr_pct": 38.5
+    },
+    {
+      "type": "车辆服务",
+      "count": 7.0,
+      "within_1yr_pct": 28.6,
+      "1_3yr_pct": 42.9,
+      "over_3yr_pct": 28.6
+    }
+  ]
+}

@@ -1,0 +1,430 @@
+{
+  "name": "太平洋中环广场",
+  "city": "上海市",
+  "address": "北京市海淀区曙光街道板井路62号楼世纪金源大饭店",
+  "lat": null,
+  "lng": null,
+  "overview": {
+    "score": 74.5,
+    "score_rank": "市内前50%",
+    "population_score": 91.2,
+    "area_score": 71.5,
+    "consumption_score": 87.7,
+    "industry_score": 74.4,
+    "annual_sales": "",
+    "annual_sales_unit": "",
+    "area_size_sqm": null,
+    "open_date": "",
+    "operator": "",
+    "brand": "",
+    "type": "",
+    "floors": ""
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "",
+    "annual_daily_rank": "",
+    "jun_total": null,
+    "jun_total_rank": "",
+    "jun_daily_avg": null,
+    "jun_daily_unit": "",
+    "jun_daily_rank": "",
+    "weekday_avg": null,
+    "weekday_unit": "",
+    "weekday_rank": "",
+    "holiday_avg": null,
+    "holiday_unit": "",
+    "holiday_rank": ""
+  },
+  "population": {
+    "residential": {
+      "500m": 2.3,
+      "1_5km": 14.4,
+      "3km": 51.8
+    },
+    "office": {
+      "500m": 1.4,
+      "1_5km": 9.6,
+      "3km": 28.8
+    },
+    "permanent": {
+      "500m": 2.4,
+      "1_5km": 14.9,
+      "3km": 49.0
+    }
+  },
+  "business": {
+    "competitors": 4.0,
+    "food": 109.0,
+    "shopping": 34.0,
+    "leisure": 9.0,
+    "education": 12.0,
+    "hotel": 16.0,
+    "services": 48.0,
+    "fitness": 15.0,
+    "auto": 15.0,
+    "total_stores": 260.0,
+    "old_store_3yr_pct": 48.0
+  },
+  "nearby_poi": {
+    "business": 3.0,
+    "community": 282.0,
+    "office": 48.0,
+    "school": 25.0,
+    "hospital": 71.0,
+    "transport": 8.0,
+    "scenic": 93.0
+  },
+  "demographics": {
+    "male_pct": 48.0,
+    "female_pct": null,
+    "education": {
+      "小学": 7.5,
+      "初中": 13.6,
+      "高中": 12.7,
+      "大专": 4.7,
+      "本科": 47.8,
+      "硕士": 10.4,
+      "博士": 3.3
+    },
+    "has_children_pct": null,
+    "no_children_pct": null
+  },
+  "scraped_at": "2026-08-01T07:03:24.048Z",
+  "nearby_restaurants": [
+    {
+      "brand": "塔斯汀中国汉堡(世纪金源大饭店店)",
+      "address": "北京城区板井路69号世纪城1层",
+      "distance": "2m"
+    },
+    {
+      "brand": "紫燕百味鸡(北京世纪金源店)",
+      "address": "板井路69号世纪金源商务中心北区首层F0008",
+      "distance": "8m"
+    },
+    {
+      "brand": "宽板凳老灶火锅(金源店)",
+      "address": "板井路69号(北京四季青桥东北角)B2层205号",
+      "distance": "19m"
+    },
+    {
+      "brand": "汕头八合里海记牛肉店(能量城市店)",
+      "address": "世纪金源大饭店(原蓝黛不夜城)B2层L277号",
+      "distance": "20m"
+    },
+    {
+      "brand": "袁记云饺(海淀区家家悦超市店)",
+      "address": "北京城区板井路62号楼家家悦超市店入口旁",
+      "distance": "21m"
+    },
+    {
+      "brand": "么么丫鸭脖",
+      "address": "远大南街与远大西路交叉口南60米",
+      "distance": "26m"
+    },
+    {
+      "brand": "武匠和牛烧烤自助(总店)",
+      "address": "北京城区板井路69号世纪金源大饭店B1层S142",
+      "distance": "28m"
+    },
+    {
+      "brand": "早阳包子",
+      "address": "远大南街与远大西路交叉口南40米",
+      "distance": "31m"
+    },
+    {
+      "brand": "喜茶(北京世纪城店)",
+      "address": "北京城区板井路69号能量城市B2层S276号",
+      "distance": "44m"
+    },
+    {
+      "brand": "煲仔皇(能量城市店)",
+      "address": "板井路69号世纪金源大饭店地下二层S-273号",
+      "distance": "66m"
+    },
+    {
+      "brand": "塔斯汀中国汉堡(世纪金源大饭店店)",
+      "address": "北京城区板井路69号世纪城1层",
+      "distance": "2m"
+    },
+    {
+      "brand": "紫燕百味鸡(北京世纪金源店)",
+      "address": "板井路69号世纪金源商务中心北区首层F0008",
+      "distance": "8m"
+    },
+    {
+      "brand": "宽板凳老灶火锅(金源店)",
+      "address": "板井路69号(北京四季青桥东北角)B2层205号",
+      "distance": "19m"
+    },
+    {
+      "brand": "汕头八合里海记牛肉店(能量城市店)",
+      "address": "世纪金源大饭店(原蓝黛不夜城)B2层L277号",
+      "distance": "20m"
+    },
+    {
+      "brand": "袁记云饺(海淀区家家悦超市店)",
+      "address": "北京城区板井路62号楼家家悦超市店入口旁",
+      "distance": "21m"
+    },
+    {
+      "brand": "么么丫鸭脖",
+      "address": "远大南街与远大西路交叉口南60米",
+      "distance": "26m"
+    },
+    {
+      "brand": "武匠和牛烧烤自助(总店)",
+      "address": "北京城区板井路69号世纪金源大饭店B1层S142",
+      "distance": "28m"
+    },
+    {
+      "brand": "早阳包子",
+      "address": "远大南街与远大西路交叉口南40米",
+      "distance": "31m"
+    },
+    {
+      "brand": "喜茶(北京世纪城店)",
+      "address": "北京城区板井路69号能量城市B2层S276号",
+      "distance": "44m"
+    },
+    {
+      "brand": "煲仔皇(能量城市店)",
+      "address": "板井路69号世纪金源大饭店地下二层S-273号",
+      "distance": "66m"
+    },
+    {
+      "brand": "塔斯汀中国汉堡(世纪金源大饭店店)",
+      "address": "北京城区板井路69号世纪城1层",
+      "distance": "2m"
+    },
+    {
+      "brand": "紫燕百味鸡(北京世纪金源店)",
+      "address": "板井路69号世纪金源商务中心北区首层F0008",
+      "distance": "8m"
+    },
+    {
+      "brand": "宽板凳老灶火锅(金源店)",
+      "address": "板井路69号(北京四季青桥东北角)B2层205号",
+      "distance": "19m"
+    },
+    {
+      "brand": "汕头八合里海记牛肉店(能量城市店)",
+      "address": "世纪金源大饭店(原蓝黛不夜城)B2层L277号",
+      "distance": "20m"
+    },
+    {
+      "brand": "袁记云饺(海淀区家家悦超市店)",
+      "address": "北京城区板井路62号楼家家悦超市店入口旁",
+      "distance": "21m"
+    },
+    {
+      "brand": "么么丫鸭脖",
+      "address": "远大南街与远大西路交叉口南60米",
+      "distance": "26m"
+    },
+    {
+      "brand": "武匠和牛烧烤自助(总店)",
+      "address": "北京城区板井路69号世纪金源大饭店B1层S142",
+      "distance": "28m"
+    },
+    {
+      "brand": "早阳包子",
+      "address": "远大南街与远大西路交叉口南40米",
+      "distance": "31m"
+    },
+    {
+      "brand": "喜茶(北京世纪城店)",
+      "address": "北京城区板井路69号能量城市B2层S276号",
+      "distance": "44m"
+    },
+    {
+      "brand": "煲仔皇(能量城市店)",
+      "address": "板井路69号世纪金源大饭店地下二层S-273号",
+      "distance": "66m"
+    },
+    {
+      "brand": "塔斯汀中国汉堡(世纪金源大饭店店)",
+      "address": "北京城区板井路69号世纪城1层",
+      "distance": "2m"
+    },
+    {
+      "brand": "紫燕百味鸡(北京世纪金源店)",
+      "address": "板井路69号世纪金源商务中心北区首层F0008",
+      "distance": "8m"
+    },
+    {
+      "brand": "宽板凳老灶火锅(金源店)",
+      "address": "板井路69号(北京四季青桥东北角)B2层205号",
+      "distance": "19m"
+    },
+    {
+      "brand": "汕头八合里海记牛肉店(能量城市店)",
+      "address": "世纪金源大饭店(原蓝黛不夜城)B2层L277号",
+      "distance": "20m"
+    },
+    {
+      "brand": "袁记云饺(海淀区家家悦超市店)",
+      "address": "北京城区板井路62号楼家家悦超市店入口旁",
+      "distance": "21m"
+    },
+    {
+      "brand": "么么丫鸭脖",
+      "address": "远大南街与远大西路交叉口南60米",
+      "distance": "26m"
+    },
+    {
+      "brand": "武匠和牛烧烤自助(总店)",
+      "address": "北京城区板井路69号世纪金源大饭店B1层S142",
+      "distance": "28m"
+    },
+    {
+      "brand": "早阳包子",
+      "address": "远大南街与远大西路交叉口南40米",
+      "distance": "31m"
+    },
+    {
+      "brand": "喜茶(北京世纪城店)",
+      "address": "北京城区板井路69号能量城市B2层S276号",
+      "distance": "44m"
+    },
+    {
+      "brand": "煲仔皇(能量城市店)",
+      "address": "板井路69号世纪金源大饭店地下二层S-273号",
+      "distance": "66m"
+    },
+    {
+      "brand": "塔斯汀中国汉堡(世纪金源大饭店店)",
+      "address": "北京城区板井路69号世纪城1层",
+      "distance": "2m"
+    },
+    {
+      "brand": "紫燕百味鸡(北京世纪金源店)",
+      "address": "板井路69号世纪金源商务中心北区首层F0008",
+      "distance": "8m"
+    },
+    {
+      "brand": "宽板凳老灶火锅(金源店)",
+      "address": "板井路69号(北京四季青桥东北角)B2层205号",
+      "distance": "19m"
+    },
+    {
+      "brand": "汕头八合里海记牛肉店(能量城市店)",
+      "address": "世纪金源大饭店(原蓝黛不夜城)B2层L277号",
+      "distance": "20m"
+    },
+    {
+      "brand": "袁记云饺(海淀区家家悦超市店)",
+      "address": "北京城区板井路62号楼家家悦超市店入口旁",
+      "distance": "21m"
+    },
+    {
+      "brand": "么么丫鸭脖",
+      "address": "远大南街与远大西路交叉口南60米",
+      "distance": "26m"
+    },
+    {
+      "brand": "武匠和牛烧烤自助(总店)",
+      "address": "北京城区板井路69号世纪金源大饭店B1层S142",
+      "distance": "28m"
+    },
+    {
+      "brand": "早阳包子",
+      "address": "远大南街与远大西路交叉口南40米",
+      "distance": "31m"
+    },
+    {
+      "brand": "喜茶(北京世纪城店)",
+      "address": "北京城区板井路69号能量城市B2层S276号",
+      "distance": "44m"
+    },
+    {
+      "brand": "煲仔皇(能量城市店)",
+      "address": "板井路69号世纪金源大饭店地下二层S-273号",
+      "distance": "66m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "北京KALCITY能量城市",
+      "open_date": "2020-10-01",
+      "area": "4.3万㎡",
+      "jun_daily_avg": "1.6万人次",
+      "weekday_avg": "1.5万人次",
+      "holiday_avg": "1.8万人次"
+    },
+    {
+      "name": "北京世纪金源购物中心",
+      "open_date": "2004-10-01",
+      "area": "39万㎡",
+      "jun_daily_avg": "10.7万人次",
+      "weekday_avg": "9.3万人次",
+      "holiday_avg": "14.4万人次"
+    },
+    {
+      "name": "北京金四季购物中心",
+      "open_date": "2003-06-01",
+      "area": "10万㎡",
+      "jun_daily_avg": "1.5万人次",
+      "weekday_avg": "1.5万人次",
+      "holiday_avg": "1.6万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 109.0,
+      "within_1yr_pct": 17.4,
+      "1_3yr_pct": 32.1,
+      "over_3yr_pct": 50.5
+    },
+    {
+      "type": "购物",
+      "count": 34.0,
+      "within_1yr_pct": 23.5,
+      "1_3yr_pct": 14.7,
+      "over_3yr_pct": 61.8
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 11.0,
+      "within_1yr_pct": 45.5,
+      "1_3yr_pct": 27.3,
+      "over_3yr_pct": 27.3
+    },
+    {
+      "type": "教育培训",
+      "count": 12.0,
+      "within_1yr_pct": 16.7,
+      "1_3yr_pct": 16.7,
+      "over_3yr_pct": 66.7
+    },
+    {
+      "type": "酒店住宿",
+      "count": 16.0,
+      "within_1yr_pct": 18.8,
+      "1_3yr_pct": 43.8,
+      "over_3yr_pct": 37.5
+    },
+    {
+      "type": "生活服务",
+      "count": 48.0,
+      "within_1yr_pct": 10.4,
+      "1_3yr_pct": 35.4,
+      "over_3yr_pct": 54.2
+    },
+    {
+      "type": "运动健身",
+      "count": 15.0,
+      "within_1yr_pct": 53.3,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 13.3
+    },
+    {
+      "type": "车辆服务",
+      "count": 15.0,
+      "within_1yr_pct": 13.3,
+      "1_3yr_pct": 53.3,
+      "over_3yr_pct": 33.3
+    }
+  ]
+}

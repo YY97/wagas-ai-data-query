@@ -1,0 +1,441 @@
+{
+  "name": "鸿兴广场",
+  "city": "北京市",
+  "address": "北京市丰台区太平桥街道鸿兴广场",
+  "lat": 39.886887,
+  "lng": 116.314313,
+  "overview": {
+    "score": 74.1,
+    "score_rank": "市内前50%",
+    "population_score": 92.7,
+    "area_score": 69.8,
+    "consumption_score": 77.1,
+    "industry_score": 74.0,
+    "annual_sales": "",
+    "annual_sales_unit": "",
+    "area_size_sqm": null,
+    "open_date": "",
+    "operator": "",
+    "brand": "",
+    "type": "综合型",
+    "floors": ""
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "",
+    "annual_daily_rank": "",
+    "jun_total": null,
+    "jun_total_rank": "",
+    "jun_daily_avg": null,
+    "jun_daily_unit": "",
+    "jun_daily_rank": "",
+    "weekday_avg": null,
+    "weekday_unit": "",
+    "weekday_rank": "",
+    "holiday_avg": null,
+    "holiday_unit": "",
+    "holiday_rank": ""
+  },
+  "population": {
+    "residential": {
+      "500m": 2.6,
+      "1_5km": 23.3,
+      "3km": 79.9
+    },
+    "office": {
+      "500m": 1.1,
+      "1_5km": 12.4,
+      "3km": 47.0
+    },
+    "permanent": {
+      "500m": 2.5,
+      "1_5km": 28.5,
+      "3km": 84.6
+    }
+  },
+  "business": {
+    "competitors": null,
+    "food": 119.0,
+    "shopping": 39.0,
+    "leisure": 3.0,
+    "education": 2.0,
+    "hotel": 21.0,
+    "services": 54.0,
+    "fitness": 3.0,
+    "auto": 12.0,
+    "total_stores": 18.0,
+    "old_store_3yr_pct": 44.0
+  },
+  "nearby_poi": {
+    "business": 7.0,
+    "community": 371.0,
+    "office": 58.0,
+    "school": 29.0,
+    "hospital": 68.0,
+    "transport": 10.0,
+    "scenic": 146.0
+  },
+  "demographics": {
+    "male_pct": null,
+    "female_pct": null,
+    "education": {
+      "小学": 9.2,
+      "初中": 15.7,
+      "高中": 11.3,
+      "大专": 6.4,
+      "本科": 47.7,
+      "硕士": 7.8,
+      "博士": 1.9
+    },
+    "has_children_pct": 61.4,
+    "no_children_pct": 38.6
+  },
+  "scraped_at": "2026-07-31T19:18:17.539Z",
+  "nearby_restaurants": [
+    {
+      "brand": "大厨小炒沂蒙山鲜炒鸡(六里桥店)",
+      "address": "莲花池长途汽车站30号综合楼一层",
+      "distance": "2m"
+    },
+    {
+      "brand": "中安乐鸡公煲",
+      "address": "广安路与太平桥路交叉口西180米",
+      "distance": "3m"
+    },
+    {
+      "brand": "糊涂婶麻辣烫·炸串·麻辣香锅(六里桥店)",
+      "address": "广安路35号鸿兴广场F2层",
+      "distance": "3m"
+    },
+    {
+      "brand": "郑恩强麻辣烫",
+      "address": "广安路35号鸿兴广场F2层",
+      "distance": "3m"
+    },
+    {
+      "brand": "强黏糊糊麻辣烫",
+      "address": "广安路35号鸿兴广场(六里桥东地铁站E西北口步行110米)",
+      "distance": "3m"
+    },
+    {
+      "brand": "沙县小食(六里桥店)",
+      "address": "广安路35号鸿兴广场F1层",
+      "distance": "9m"
+    },
+    {
+      "brand": "朴正喜韩式炸鸡·火鸡面",
+      "address": "广安路与太平桥路交叉口西180米",
+      "distance": "10m"
+    },
+    {
+      "brand": "第一佳大鸡排(鸿兴广场店)",
+      "address": "广安路35号鸿兴广场F1层(六里桥东地铁站E西北口旁)",
+      "distance": "11m"
+    },
+    {
+      "brand": "爽口打卤面",
+      "address": "广安路与太平桥路交叉口西180米(六里桥东地铁站E西北口旁)",
+      "distance": "13m"
+    },
+    {
+      "brand": "刘文祥麻辣烫(六里桥店)",
+      "address": "广安路35号鸿兴广场F1层",
+      "distance": "13m"
+    },
+    {
+      "brand": "大厨小炒沂蒙山鲜炒鸡(六里桥店)",
+      "address": "莲花池长途汽车站30号综合楼一层",
+      "distance": "2m"
+    },
+    {
+      "brand": "中安乐鸡公煲",
+      "address": "广安路与太平桥路交叉口西180米",
+      "distance": "3m"
+    },
+    {
+      "brand": "糊涂婶麻辣烫·炸串·麻辣香锅(六里桥店)",
+      "address": "广安路35号鸿兴广场F2层",
+      "distance": "3m"
+    },
+    {
+      "brand": "郑恩强麻辣烫",
+      "address": "广安路35号鸿兴广场F2层",
+      "distance": "3m"
+    },
+    {
+      "brand": "强黏糊糊麻辣烫",
+      "address": "广安路35号鸿兴广场(六里桥东地铁站E西北口步行110米)",
+      "distance": "3m"
+    },
+    {
+      "brand": "沙县小食(六里桥店)",
+      "address": "广安路35号鸿兴广场F1层",
+      "distance": "9m"
+    },
+    {
+      "brand": "朴正喜韩式炸鸡·火鸡面",
+      "address": "广安路与太平桥路交叉口西180米",
+      "distance": "10m"
+    },
+    {
+      "brand": "第一佳大鸡排(鸿兴广场店)",
+      "address": "广安路35号鸿兴广场F1层(六里桥东地铁站E西北口旁)",
+      "distance": "11m"
+    },
+    {
+      "brand": "爽口打卤面",
+      "address": "广安路与太平桥路交叉口西180米(六里桥东地铁站E西北口旁)",
+      "distance": "13m"
+    },
+    {
+      "brand": "刘文祥麻辣烫(六里桥店)",
+      "address": "广安路35号鸿兴广场F1层",
+      "distance": "13m"
+    },
+    {
+      "brand": "大厨小炒沂蒙山鲜炒鸡(六里桥店)",
+      "address": "莲花池长途汽车站30号综合楼一层",
+      "distance": "2m"
+    },
+    {
+      "brand": "中安乐鸡公煲",
+      "address": "广安路与太平桥路交叉口西180米",
+      "distance": "3m"
+    },
+    {
+      "brand": "糊涂婶麻辣烫·炸串·麻辣香锅(六里桥店)",
+      "address": "广安路35号鸿兴广场F2层",
+      "distance": "3m"
+    },
+    {
+      "brand": "郑恩强麻辣烫",
+      "address": "广安路35号鸿兴广场F2层",
+      "distance": "3m"
+    },
+    {
+      "brand": "强黏糊糊麻辣烫",
+      "address": "广安路35号鸿兴广场(六里桥东地铁站E西北口步行110米)",
+      "distance": "3m"
+    },
+    {
+      "brand": "沙县小食(六里桥店)",
+      "address": "广安路35号鸿兴广场F1层",
+      "distance": "9m"
+    },
+    {
+      "brand": "朴正喜韩式炸鸡·火鸡面",
+      "address": "广安路与太平桥路交叉口西180米",
+      "distance": "10m"
+    },
+    {
+      "brand": "第一佳大鸡排(鸿兴广场店)",
+      "address": "广安路35号鸿兴广场F1层(六里桥东地铁站E西北口旁)",
+      "distance": "11m"
+    },
+    {
+      "brand": "爽口打卤面",
+      "address": "广安路与太平桥路交叉口西180米(六里桥东地铁站E西北口旁)",
+      "distance": "13m"
+    },
+    {
+      "brand": "刘文祥麻辣烫(六里桥店)",
+      "address": "广安路35号鸿兴广场F1层",
+      "distance": "13m"
+    },
+    {
+      "brand": "大厨小炒沂蒙山鲜炒鸡(六里桥店)",
+      "address": "莲花池长途汽车站30号综合楼一层",
+      "distance": "2m"
+    },
+    {
+      "brand": "中安乐鸡公煲",
+      "address": "广安路与太平桥路交叉口西180米",
+      "distance": "3m"
+    },
+    {
+      "brand": "糊涂婶麻辣烫·炸串·麻辣香锅(六里桥店)",
+      "address": "广安路35号鸿兴广场F2层",
+      "distance": "3m"
+    },
+    {
+      "brand": "郑恩强麻辣烫",
+      "address": "广安路35号鸿兴广场F2层",
+      "distance": "3m"
+    },
+    {
+      "brand": "强黏糊糊麻辣烫",
+      "address": "广安路35号鸿兴广场(六里桥东地铁站E西北口步行110米)",
+      "distance": "3m"
+    },
+    {
+      "brand": "沙县小食(六里桥店)",
+      "address": "广安路35号鸿兴广场F1层",
+      "distance": "9m"
+    },
+    {
+      "brand": "朴正喜韩式炸鸡·火鸡面",
+      "address": "广安路与太平桥路交叉口西180米",
+      "distance": "10m"
+    },
+    {
+      "brand": "第一佳大鸡排(鸿兴广场店)",
+      "address": "广安路35号鸿兴广场F1层(六里桥东地铁站E西北口旁)",
+      "distance": "11m"
+    },
+    {
+      "brand": "爽口打卤面",
+      "address": "广安路与太平桥路交叉口西180米(六里桥东地铁站E西北口旁)",
+      "distance": "13m"
+    },
+    {
+      "brand": "刘文祥麻辣烫(六里桥店)",
+      "address": "广安路35号鸿兴广场F1层",
+      "distance": "13m"
+    },
+    {
+      "brand": "大厨小炒沂蒙山鲜炒鸡(六里桥店)",
+      "address": "莲花池长途汽车站30号综合楼一层",
+      "distance": "2m"
+    },
+    {
+      "brand": "中安乐鸡公煲",
+      "address": "广安路与太平桥路交叉口西180米",
+      "distance": "3m"
+    },
+    {
+      "brand": "糊涂婶麻辣烫·炸串·麻辣香锅(六里桥店)",
+      "address": "广安路35号鸿兴广场F2层",
+      "distance": "3m"
+    },
+    {
+      "brand": "郑恩强麻辣烫",
+      "address": "广安路35号鸿兴广场F2层",
+      "distance": "3m"
+    },
+    {
+      "brand": "强黏糊糊麻辣烫",
+      "address": "广安路35号鸿兴广场(六里桥东地铁站E西北口步行110米)",
+      "distance": "3m"
+    },
+    {
+      "brand": "沙县小食(六里桥店)",
+      "address": "广安路35号鸿兴广场F1层",
+      "distance": "9m"
+    },
+    {
+      "brand": "朴正喜韩式炸鸡·火鸡面",
+      "address": "广安路与太平桥路交叉口西180米",
+      "distance": "10m"
+    },
+    {
+      "brand": "第一佳大鸡排(鸿兴广场店)",
+      "address": "广安路35号鸿兴广场F1层(六里桥东地铁站E西北口旁)",
+      "distance": "11m"
+    },
+    {
+      "brand": "爽口打卤面",
+      "address": "广安路与太平桥路交叉口西180米(六里桥东地铁站E西北口旁)",
+      "distance": "13m"
+    },
+    {
+      "brand": "刘文祥麻辣烫(六里桥店)",
+      "address": "广安路35号鸿兴广场F1层",
+      "distance": "13m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "北京米兰life",
+      "open_date": "2018-05-01",
+      "area": "2.4万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "北京月恒正大新生活广场",
+      "open_date": "2018-07-01",
+      "area": "3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "北京丽泽16号购物中心",
+      "open_date": "2024-06-29",
+      "area": "5.5万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "北京西站美里",
+      "open_date": "1998-04-28",
+      "area": "2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "北京新年华购物中心",
+      "open_date": "2012-01-01",
+      "area": "4万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "北京银座和谐广场",
+      "open_date": "2016-09-10",
+      "area": "8.5万㎡",
+      "jun_daily_avg": "5.1万人次",
+      "weekday_avg": "4.5万人次",
+      "holiday_avg": "6.7万人次"
+    },
+    {
+      "name": "北京光耀东方广场",
+      "open_date": "2012-10-01",
+      "area": "10万㎡",
+      "jun_daily_avg": "2.8万人次",
+      "weekday_avg": "2.8万人次",
+      "holiday_avg": "2.7万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 13.0,
+      "within_1yr_pct": 30.8,
+      "1_3yr_pct": 30.8,
+      "over_3yr_pct": 38.5
+    },
+    {
+      "type": "购物",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    },
+    {
+      "type": "教育培训",
+      "count": 1.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "生活服务",
+      "count": 2.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "运动健身",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    }
+  ]
+}

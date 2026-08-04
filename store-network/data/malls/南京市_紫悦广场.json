@@ -1,0 +1,438 @@
+{
+  "name": "紫悦广场",
+  "city": "南京市",
+  "address": "江苏省南京市雨花台区铁心桥街道鸿姐老火锅(宜悦城店)紫悦广场",
+  "lat": 31.979675,
+  "lng": 118.76186,
+  "overview": {
+    "score": 89.1,
+    "score_rank": "市内前30%",
+    "population_score": 73.3,
+    "area_score": 81.2,
+    "consumption_score": 60.0,
+    "industry_score": 89.3,
+    "annual_sales": "",
+    "annual_sales_unit": "",
+    "area_size_sqm": null,
+    "open_date": "",
+    "operator": "",
+    "brand": "",
+    "type": "",
+    "floors": ""
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "",
+    "annual_daily_rank": "",
+    "jun_total": null,
+    "jun_total_rank": "",
+    "jun_daily_avg": null,
+    "jun_daily_unit": "",
+    "jun_daily_rank": "",
+    "weekday_avg": null,
+    "weekday_unit": "",
+    "weekday_rank": "",
+    "holiday_avg": null,
+    "holiday_unit": "",
+    "holiday_rank": ""
+  },
+  "population": {
+    "residential": {
+      "500m": 7500.0,
+      "1_5km": 6.2,
+      "3km": 31.7
+    },
+    "office": {
+      "500m": 2.8,
+      "1_5km": 11.4,
+      "3km": 32.8
+    },
+    "permanent": {
+      "500m": 2.4,
+      "1_5km": 8.9,
+      "3km": 33.4
+    }
+  },
+  "business": {
+    "competitors": 8.0,
+    "food": 299.0,
+    "shopping": 119.0,
+    "leisure": 14.0,
+    "education": 25.0,
+    "hotel": 72.0,
+    "services": 148.0,
+    "fitness": 34.0,
+    "auto": 19.0,
+    "total_stores": 735.0,
+    "old_store_3yr_pct": 48.0
+  },
+  "nearby_poi": {
+    "business": 4.0,
+    "community": 193.0,
+    "office": 45.0,
+    "school": 17.0,
+    "hospital": 32.0,
+    "transport": 4.0,
+    "scenic": 137.0
+  },
+  "demographics": {
+    "male_pct": 46.5,
+    "female_pct": null,
+    "education": {
+      "小学": 7.4,
+      "初中": 14.1,
+      "高中": 15.2,
+      "大专": 10.1,
+      "本科": 45.0,
+      "硕士": 7.3,
+      "博士": 0.9
+    },
+    "has_children_pct": null,
+    "no_children_pct": null
+  },
+  "scraped_at": "2026-07-31T13:58:18.018Z",
+  "nearby_restaurants": [
+    {
+      "brand": "小夫妻麻辣烫(南京紫悦广场店)",
+      "address": "徐家洼紫悦广场04栋6室",
+      "distance": "21m"
+    },
+    {
+      "brand": "池奈·日式咖喱蛋包饭",
+      "address": "安德门大街36号宜悦城B1-01号",
+      "distance": "29m"
+    },
+    {
+      "brand": "滨寿司(南京宜悦城店)",
+      "address": "宜悦城(天隆寺地铁站出入口旁)4F",
+      "distance": "31m"
+    },
+    {
+      "brand": "回味鸭血粉丝汤(紫悦广场店)",
+      "address": "安德门大街26号紫悦广场B1-10-03号",
+      "distance": "31m"
+    },
+    {
+      "brand": "顾三妹•鲜汤牛肉馆(紫悦广场店)",
+      "address": "铁心桥街道安德门大街32号紫悦广场地下室负二层18号",
+      "distance": "31m"
+    },
+    {
+      "brand": "陈记顺和鲜牛肉火锅(宜悦城店)",
+      "address": "紫悦广场宜悦城F4(天隆寺地铁站2号口旁)",
+      "distance": "31m"
+    },
+    {
+      "brand": "炖小白鱼汤面(宜悦城店)",
+      "address": "雨花区安德门大街36号紫悦广场宜悦城B1-03商铺",
+      "distance": "32m"
+    },
+    {
+      "brand": "莓烦恼宠物烘焙",
+      "address": "铁心桥街道安德门大街40-2-531号",
+      "distance": "32m"
+    },
+    {
+      "brand": "吉祥馄饨(南京紫悦广场店)",
+      "address": "安德门大街32号紫悦广场地下一层11号",
+      "distance": "32m"
+    },
+    {
+      "brand": "达美乐比萨(安德门大街店)",
+      "address": "安德门大街36号宜悦城F2-01",
+      "distance": "32m"
+    },
+    {
+      "brand": "小夫妻麻辣烫(南京紫悦广场店)",
+      "address": "徐家洼紫悦广场04栋6室",
+      "distance": "21m"
+    },
+    {
+      "brand": "池奈·日式咖喱蛋包饭",
+      "address": "安德门大街36号宜悦城B1-01号",
+      "distance": "29m"
+    },
+    {
+      "brand": "滨寿司(南京宜悦城店)",
+      "address": "宜悦城(天隆寺地铁站出入口旁)4F",
+      "distance": "31m"
+    },
+    {
+      "brand": "回味鸭血粉丝汤(紫悦广场店)",
+      "address": "安德门大街26号紫悦广场B1-10-03号",
+      "distance": "31m"
+    },
+    {
+      "brand": "顾三妹•鲜汤牛肉馆(紫悦广场店)",
+      "address": "铁心桥街道安德门大街32号紫悦广场地下室负二层18号",
+      "distance": "31m"
+    },
+    {
+      "brand": "陈记顺和鲜牛肉火锅(宜悦城店)",
+      "address": "紫悦广场宜悦城F4(天隆寺地铁站2号口旁)",
+      "distance": "31m"
+    },
+    {
+      "brand": "炖小白鱼汤面(宜悦城店)",
+      "address": "雨花区安德门大街36号紫悦广场宜悦城B1-03商铺",
+      "distance": "32m"
+    },
+    {
+      "brand": "莓烦恼宠物烘焙",
+      "address": "铁心桥街道安德门大街40-2-531号",
+      "distance": "32m"
+    },
+    {
+      "brand": "吉祥馄饨(南京紫悦广场店)",
+      "address": "安德门大街32号紫悦广场地下一层11号",
+      "distance": "32m"
+    },
+    {
+      "brand": "达美乐比萨(安德门大街店)",
+      "address": "安德门大街36号宜悦城F2-01",
+      "distance": "32m"
+    },
+    {
+      "brand": "小夫妻麻辣烫(南京紫悦广场店)",
+      "address": "徐家洼紫悦广场04栋6室",
+      "distance": "21m"
+    },
+    {
+      "brand": "池奈·日式咖喱蛋包饭",
+      "address": "安德门大街36号宜悦城B1-01号",
+      "distance": "29m"
+    },
+    {
+      "brand": "滨寿司(南京宜悦城店)",
+      "address": "宜悦城(天隆寺地铁站出入口旁)4F",
+      "distance": "31m"
+    },
+    {
+      "brand": "回味鸭血粉丝汤(紫悦广场店)",
+      "address": "安德门大街26号紫悦广场B1-10-03号",
+      "distance": "31m"
+    },
+    {
+      "brand": "顾三妹•鲜汤牛肉馆(紫悦广场店)",
+      "address": "铁心桥街道安德门大街32号紫悦广场地下室负二层18号",
+      "distance": "31m"
+    },
+    {
+      "brand": "陈记顺和鲜牛肉火锅(宜悦城店)",
+      "address": "紫悦广场宜悦城F4(天隆寺地铁站2号口旁)",
+      "distance": "31m"
+    },
+    {
+      "brand": "炖小白鱼汤面(宜悦城店)",
+      "address": "雨花区安德门大街36号紫悦广场宜悦城B1-03商铺",
+      "distance": "32m"
+    },
+    {
+      "brand": "莓烦恼宠物烘焙",
+      "address": "铁心桥街道安德门大街40-2-531号",
+      "distance": "32m"
+    },
+    {
+      "brand": "吉祥馄饨(南京紫悦广场店)",
+      "address": "安德门大街32号紫悦广场地下一层11号",
+      "distance": "32m"
+    },
+    {
+      "brand": "达美乐比萨(安德门大街店)",
+      "address": "安德门大街36号宜悦城F2-01",
+      "distance": "32m"
+    },
+    {
+      "brand": "小夫妻麻辣烫(南京紫悦广场店)",
+      "address": "徐家洼紫悦广场04栋6室",
+      "distance": "21m"
+    },
+    {
+      "brand": "池奈·日式咖喱蛋包饭",
+      "address": "安德门大街36号宜悦城B1-01号",
+      "distance": "29m"
+    },
+    {
+      "brand": "滨寿司(南京宜悦城店)",
+      "address": "宜悦城(天隆寺地铁站出入口旁)4F",
+      "distance": "31m"
+    },
+    {
+      "brand": "回味鸭血粉丝汤(紫悦广场店)",
+      "address": "安德门大街26号紫悦广场B1-10-03号",
+      "distance": "31m"
+    },
+    {
+      "brand": "顾三妹•鲜汤牛肉馆(紫悦广场店)",
+      "address": "铁心桥街道安德门大街32号紫悦广场地下室负二层18号",
+      "distance": "31m"
+    },
+    {
+      "brand": "陈记顺和鲜牛肉火锅(宜悦城店)",
+      "address": "紫悦广场宜悦城F4(天隆寺地铁站2号口旁)",
+      "distance": "31m"
+    },
+    {
+      "brand": "炖小白鱼汤面(宜悦城店)",
+      "address": "雨花区安德门大街36号紫悦广场宜悦城B1-03商铺",
+      "distance": "32m"
+    },
+    {
+      "brand": "莓烦恼宠物烘焙",
+      "address": "铁心桥街道安德门大街40-2-531号",
+      "distance": "32m"
+    },
+    {
+      "brand": "吉祥馄饨(南京紫悦广场店)",
+      "address": "安德门大街32号紫悦广场地下一层11号",
+      "distance": "32m"
+    },
+    {
+      "brand": "达美乐比萨(安德门大街店)",
+      "address": "安德门大街36号宜悦城F2-01",
+      "distance": "32m"
+    },
+    {
+      "brand": "小夫妻麻辣烫(南京紫悦广场店)",
+      "address": "徐家洼紫悦广场04栋6室",
+      "distance": "21m"
+    },
+    {
+      "brand": "池奈·日式咖喱蛋包饭",
+      "address": "安德门大街36号宜悦城B1-01号",
+      "distance": "29m"
+    },
+    {
+      "brand": "滨寿司(南京宜悦城店)",
+      "address": "宜悦城(天隆寺地铁站出入口旁)4F",
+      "distance": "31m"
+    },
+    {
+      "brand": "回味鸭血粉丝汤(紫悦广场店)",
+      "address": "安德门大街26号紫悦广场B1-10-03号",
+      "distance": "31m"
+    },
+    {
+      "brand": "顾三妹•鲜汤牛肉馆(紫悦广场店)",
+      "address": "铁心桥街道安德门大街32号紫悦广场地下室负二层18号",
+      "distance": "31m"
+    },
+    {
+      "brand": "陈记顺和鲜牛肉火锅(宜悦城店)",
+      "address": "紫悦广场宜悦城F4(天隆寺地铁站2号口旁)",
+      "distance": "31m"
+    },
+    {
+      "brand": "炖小白鱼汤面(宜悦城店)",
+      "address": "雨花区安德门大街36号紫悦广场宜悦城B1-03商铺",
+      "distance": "32m"
+    },
+    {
+      "brand": "莓烦恼宠物烘焙",
+      "address": "铁心桥街道安德门大街40-2-531号",
+      "distance": "32m"
+    },
+    {
+      "brand": "吉祥馄饨(南京紫悦广场店)",
+      "address": "安德门大街32号紫悦广场地下一层11号",
+      "distance": "32m"
+    },
+    {
+      "brand": "达美乐比萨(安德门大街店)",
+      "address": "安德门大街36号宜悦城F2-01",
+      "distance": "32m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "南京宜悦城",
+      "open_date": "2021-07-17",
+      "area": "6万㎡",
+      "jun_daily_avg": "3.6万人次",
+      "weekday_avg": "3.4万人次",
+      "holiday_avg": "4.4万人次"
+    },
+    {
+      "name": "南京雨花客厅E·PARK",
+      "open_date": "2017-09-16",
+      "area": "8万㎡",
+      "jun_daily_avg": "6.3万人次",
+      "weekday_avg": "5.6万人次",
+      "holiday_avg": "8.4万人次"
+    },
+    {
+      "name": "南京雨花世茂52+",
+      "open_date": "2018-12-30",
+      "area": "3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "南京楚翘城",
+      "open_date": "2015-08-08",
+      "area": "2万㎡",
+      "jun_daily_avg": "1.4万人次",
+      "weekday_avg": "1.4万人次",
+      "holiday_avg": "1.2万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 299.0,
+      "within_1yr_pct": 23.4,
+      "1_3yr_pct": 32.8,
+      "over_3yr_pct": 43.8
+    },
+    {
+      "type": "购物",
+      "count": 119.0,
+      "within_1yr_pct": 19.3,
+      "1_3yr_pct": 26.1,
+      "over_3yr_pct": 54.6
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 19.0,
+      "within_1yr_pct": 63.2,
+      "1_3yr_pct": 15.8,
+      "over_3yr_pct": 21.1
+    },
+    {
+      "type": "教育培训",
+      "count": 25.0,
+      "within_1yr_pct": 32.0,
+      "1_3yr_pct": 32.0,
+      "over_3yr_pct": 36.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 72.0,
+      "within_1yr_pct": 13.9,
+      "1_3yr_pct": 6.9,
+      "over_3yr_pct": 79.2
+    },
+    {
+      "type": "生活服务",
+      "count": 148.0,
+      "within_1yr_pct": 21.6,
+      "1_3yr_pct": 35.8,
+      "over_3yr_pct": 42.6
+    },
+    {
+      "type": "运动健身",
+      "count": 34.0,
+      "within_1yr_pct": 20.6,
+      "1_3yr_pct": 41.2,
+      "over_3yr_pct": 38.2
+    },
+    {
+      "type": "车辆服务",
+      "count": 19.0,
+      "within_1yr_pct": 21.1,
+      "1_3yr_pct": 36.8,
+      "over_3yr_pct": 42.1
+    }
+  ]
+}

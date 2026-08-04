@@ -1,0 +1,479 @@
+{
+  "name": "汇京国际广场",
+  "city": "上海市",
+  "address": "上海市徐汇区虹桥路777号",
+  "lat": 31.195956,
+  "lng": 121.423459,
+  "overview": {
+    "score": 91.0,
+    "score_rank": "市内前30%",
+    "population_score": 95.6,
+    "area_score": 79.5,
+    "consumption_score": 86.3,
+    "industry_score": 91.1,
+    "annual_sales": "汇京国际广场位于上海市徐汇区虹桥路777号，是一个集办公楼、时尚商业、高端住宅和商业会馆于一体的高端综合体项目。项目写字楼总面积3.2万平方米，享有得天独厚的地理优势，坐落于虹桥路淮海西路，徐家汇门户地段，四大核心CBD交汇，3号线、4号线、10号线三轨交汇，立体出行，交通便捷",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 2.0,
+    "open_date": "2015-09-01",
+    "operator": "上海汇京置业发展有限公司",
+    "brand": "",
+    "type": "美食型",
+    "floors": "B2-L3"
+  },
+  "traffic": {
+    "annual_daily": 9260.0,
+    "annual_daily_unit": "人次",
+    "annual_daily_rank": "市内第264",
+    "jun_total": 46.0,
+    "jun_total_rank": "市内商场第229名",
+    "jun_daily_avg": 1.5,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第229名",
+    "weekday_avg": 1.6,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第208名",
+    "holiday_avg": 1.2,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第281名"
+  },
+  "population": {
+    "residential": {
+      "500m": 2.8,
+      "1_5km": 24.3,
+      "3km": 91.5
+    },
+    "office": {
+      "500m": 3.2,
+      "1_5km": 23.3,
+      "3km": 89.5
+    },
+    "permanent": {
+      "500m": 3.3,
+      "1_5km": 28.0,
+      "3km": 103.9
+    }
+  },
+  "business": {
+    "competitors": 9.0,
+    "food": 247.0,
+    "shopping": 99.0,
+    "leisure": 14.0,
+    "education": 36.0,
+    "hotel": 35.0,
+    "services": 104.0,
+    "fitness": 20.0,
+    "auto": 23.0,
+    "total_stores": 60.0,
+    "old_store_3yr_pct": 47.0
+  },
+  "nearby_poi": {
+    "business": 11.0,
+    "community": 995.0,
+    "office": 152.0,
+    "school": 66.0,
+    "hospital": 171.0,
+    "transport": 12.0,
+    "scenic": 374.0
+  },
+  "demographics": {
+    "male_pct": 47.5,
+    "female_pct": null,
+    "education": {
+      "小学": 8.7,
+      "初中": 16.3,
+      "高中": 11.4,
+      "大专": 7.0,
+      "本科": 49.0,
+      "硕士": 5.9,
+      "博士": 1.7
+    },
+    "has_children_pct": 58.3,
+    "no_children_pct": 41.7
+  },
+  "scraped_at": "2026-07-31T13:00:17.156Z",
+  "nearby_restaurants": [
+    {
+      "brand": "徽味三分(汇京店)",
+      "address": "淮海西路555号汇京国际广场B1层",
+      "distance": "6m"
+    },
+    {
+      "brand": "味师蒋大厨.东坡肉(汇京国际广场店)",
+      "address": "虹桥路777号汇京国际广场B1层",
+      "distance": "9m"
+    },
+    {
+      "brand": "大米先生(汇京国际店)",
+      "address": "淮海西路555号地下1层18室",
+      "distance": "9m"
+    },
+    {
+      "brand": "赣味鲜江西小炒",
+      "address": "淮海西路与虹桥路交叉口东北120米",
+      "distance": "15m"
+    },
+    {
+      "brand": "Manner Coffee(汇京国际广场店)",
+      "address": "淮海西路555号汇京国际广场1层125室",
+      "distance": "17m"
+    },
+    {
+      "brand": "大米先生(长宁国际广场店)",
+      "address": "凯旋路1398号长宁国际广场LG-14室",
+      "distance": "17m"
+    },
+    {
+      "brand": "潮玖餐厅",
+      "address": "虹桥路与淮海西路交叉口东北100米",
+      "distance": "19m"
+    },
+    {
+      "brand": "谷田稻香·砂锅菜(汇京国际广场店)",
+      "address": "虹桥路555号汇京国际广场B-19汇京广场",
+      "distance": "19m"
+    },
+    {
+      "brand": "赞三煲·鲍鱼鸡煲(上海首店)",
+      "address": "虹桥路与淮海西路交叉口东北100米",
+      "distance": "20m"
+    },
+    {
+      "brand": "巷上冒菜公司(汇京国际店)",
+      "address": "淮海路555号汇京国际广场B1层",
+      "distance": "20m"
+    },
+    {
+      "brand": "徽味三分(汇京店)",
+      "address": "淮海西路555号汇京国际广场B1层",
+      "distance": "6m"
+    },
+    {
+      "brand": "味师蒋大厨.东坡肉(汇京国际广场店)",
+      "address": "虹桥路777号汇京国际广场B1层",
+      "distance": "9m"
+    },
+    {
+      "brand": "大米先生(汇京国际店)",
+      "address": "淮海西路555号地下1层18室",
+      "distance": "9m"
+    },
+    {
+      "brand": "赣味鲜江西小炒",
+      "address": "淮海西路与虹桥路交叉口东北120米",
+      "distance": "15m"
+    },
+    {
+      "brand": "Manner Coffee(汇京国际广场店)",
+      "address": "淮海西路555号汇京国际广场1层125室",
+      "distance": "17m"
+    },
+    {
+      "brand": "大米先生(长宁国际广场店)",
+      "address": "凯旋路1398号长宁国际广场LG-14室",
+      "distance": "17m"
+    },
+    {
+      "brand": "潮玖餐厅",
+      "address": "虹桥路与淮海西路交叉口东北100米",
+      "distance": "19m"
+    },
+    {
+      "brand": "谷田稻香·砂锅菜(汇京国际广场店)",
+      "address": "虹桥路555号汇京国际广场B-19汇京广场",
+      "distance": "19m"
+    },
+    {
+      "brand": "赞三煲·鲍鱼鸡煲(上海首店)",
+      "address": "虹桥路与淮海西路交叉口东北100米",
+      "distance": "20m"
+    },
+    {
+      "brand": "巷上冒菜公司(汇京国际店)",
+      "address": "淮海路555号汇京国际广场B1层",
+      "distance": "20m"
+    },
+    {
+      "brand": "徽味三分(汇京店)",
+      "address": "淮海西路555号汇京国际广场B1层",
+      "distance": "6m"
+    },
+    {
+      "brand": "味师蒋大厨.东坡肉(汇京国际广场店)",
+      "address": "虹桥路777号汇京国际广场B1层",
+      "distance": "9m"
+    },
+    {
+      "brand": "大米先生(汇京国际店)",
+      "address": "淮海西路555号地下1层18室",
+      "distance": "9m"
+    },
+    {
+      "brand": "赣味鲜江西小炒",
+      "address": "淮海西路与虹桥路交叉口东北120米",
+      "distance": "15m"
+    },
+    {
+      "brand": "Manner Coffee(汇京国际广场店)",
+      "address": "淮海西路555号汇京国际广场1层125室",
+      "distance": "17m"
+    },
+    {
+      "brand": "大米先生(长宁国际广场店)",
+      "address": "凯旋路1398号长宁国际广场LG-14室",
+      "distance": "17m"
+    },
+    {
+      "brand": "潮玖餐厅",
+      "address": "虹桥路与淮海西路交叉口东北100米",
+      "distance": "19m"
+    },
+    {
+      "brand": "谷田稻香·砂锅菜(汇京国际广场店)",
+      "address": "虹桥路555号汇京国际广场B-19汇京广场",
+      "distance": "19m"
+    },
+    {
+      "brand": "赞三煲·鲍鱼鸡煲(上海首店)",
+      "address": "虹桥路与淮海西路交叉口东北100米",
+      "distance": "20m"
+    },
+    {
+      "brand": "巷上冒菜公司(汇京国际店)",
+      "address": "淮海路555号汇京国际广场B1层",
+      "distance": "20m"
+    },
+    {
+      "brand": "徽味三分(汇京店)",
+      "address": "淮海西路555号汇京国际广场B1层",
+      "distance": "6m"
+    },
+    {
+      "brand": "味师蒋大厨.东坡肉(汇京国际广场店)",
+      "address": "虹桥路777号汇京国际广场B1层",
+      "distance": "9m"
+    },
+    {
+      "brand": "大米先生(汇京国际店)",
+      "address": "淮海西路555号地下1层18室",
+      "distance": "9m"
+    },
+    {
+      "brand": "赣味鲜江西小炒",
+      "address": "淮海西路与虹桥路交叉口东北120米",
+      "distance": "15m"
+    },
+    {
+      "brand": "Manner Coffee(汇京国际广场店)",
+      "address": "淮海西路555号汇京国际广场1层125室",
+      "distance": "17m"
+    },
+    {
+      "brand": "大米先生(长宁国际广场店)",
+      "address": "凯旋路1398号长宁国际广场LG-14室",
+      "distance": "17m"
+    },
+    {
+      "brand": "潮玖餐厅",
+      "address": "虹桥路与淮海西路交叉口东北100米",
+      "distance": "19m"
+    },
+    {
+      "brand": "谷田稻香·砂锅菜(汇京国际广场店)",
+      "address": "虹桥路555号汇京国际广场B-19汇京广场",
+      "distance": "19m"
+    },
+    {
+      "brand": "赞三煲·鲍鱼鸡煲(上海首店)",
+      "address": "虹桥路与淮海西路交叉口东北100米",
+      "distance": "20m"
+    },
+    {
+      "brand": "巷上冒菜公司(汇京国际店)",
+      "address": "淮海路555号汇京国际广场B1层",
+      "distance": "20m"
+    },
+    {
+      "brand": "徽味三分(汇京店)",
+      "address": "淮海西路555号汇京国际广场B1层",
+      "distance": "6m"
+    },
+    {
+      "brand": "味师蒋大厨.东坡肉(汇京国际广场店)",
+      "address": "虹桥路777号汇京国际广场B1层",
+      "distance": "9m"
+    },
+    {
+      "brand": "大米先生(汇京国际店)",
+      "address": "淮海西路555号地下1层18室",
+      "distance": "9m"
+    },
+    {
+      "brand": "赣味鲜江西小炒",
+      "address": "淮海西路与虹桥路交叉口东北120米",
+      "distance": "15m"
+    },
+    {
+      "brand": "Manner Coffee(汇京国际广场店)",
+      "address": "淮海西路555号汇京国际广场1层125室",
+      "distance": "17m"
+    },
+    {
+      "brand": "大米先生(长宁国际广场店)",
+      "address": "凯旋路1398号长宁国际广场LG-14室",
+      "distance": "17m"
+    },
+    {
+      "brand": "潮玖餐厅",
+      "address": "虹桥路与淮海西路交叉口东北100米",
+      "distance": "19m"
+    },
+    {
+      "brand": "谷田稻香·砂锅菜(汇京国际广场店)",
+      "address": "虹桥路555号汇京国际广场B-19汇京广场",
+      "distance": "19m"
+    },
+    {
+      "brand": "赞三煲·鲍鱼鸡煲(上海首店)",
+      "address": "虹桥路与淮海西路交叉口东北100米",
+      "distance": "20m"
+    },
+    {
+      "brand": "巷上冒菜公司(汇京国际店)",
+      "address": "淮海路555号汇京国际广场B1层",
+      "distance": "20m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "幸福里",
+      "open_date": "2015-09-01",
+      "area": "-",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海徐汇古北时尚广场",
+      "open_date": "2012-01-01",
+      "area": "3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海TWO ITC",
+      "open_date": "2019-01-01",
+      "area": "3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海百联徐汇商业广场",
+      "open_date": "2012-01-19",
+      "area": "2万㎡",
+      "jun_daily_avg": "1.5万人次",
+      "weekday_avg": "1.4万人次",
+      "holiday_avg": "1.8万人次"
+    },
+    {
+      "name": "上海港汇恒隆广场",
+      "open_date": "1999-12-28",
+      "area": "7万㎡",
+      "jun_daily_avg": "6.3万人次",
+      "weekday_avg": "6.2万人次",
+      "holiday_avg": "6.7万人次"
+    },
+    {
+      "name": "上海One ITC",
+      "open_date": "2019-12-15",
+      "area": "3.8万㎡",
+      "jun_daily_avg": "1.4万人次",
+      "weekday_avg": "1.3万人次",
+      "holiday_avg": "1.6万人次"
+    },
+    {
+      "name": "上海东方商厦(旗舰店)",
+      "open_date": "1993-01-01",
+      "area": "9万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海大华光启城时尚购物中心",
+      "open_date": "2012-05-28",
+      "area": "12万㎡",
+      "jun_daily_avg": "1.8万人次",
+      "weekday_avg": "1.8万人次",
+      "holiday_avg": "1.8万人次"
+    },
+    {
+      "name": "上海上生新所",
+      "open_date": "2018-11-01",
+      "area": "5.1万㎡",
+      "jun_daily_avg": "1.5万人次",
+      "weekday_avg": "1.3万人次",
+      "holiday_avg": "2.2万人次"
+    },
+    {
+      "name": "上海南洋1931",
+      "open_date": "2018-07-03",
+      "area": "2.2万㎡",
+      "jun_daily_avg": "1.5万人次",
+      "weekday_avg": "1.4万人次",
+      "holiday_avg": "1.6万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 30.0,
+      "within_1yr_pct": 16.7,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "购物",
+      "count": 9.0,
+      "within_1yr_pct": 44.4,
+      "1_3yr_pct": 22.2,
+      "over_3yr_pct": 33.3
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 1.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "教育培训",
+      "count": 4.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 75.0
+    },
+    {
+      "type": "生活服务",
+      "count": 9.0,
+      "within_1yr_pct": 22.2,
+      "1_3yr_pct": 44.4,
+      "over_3yr_pct": 33.3
+    },
+    {
+      "type": "运动健身",
+      "count": 5.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 20.0,
+      "over_3yr_pct": 60.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 50.0
+    }
+  ]
+}

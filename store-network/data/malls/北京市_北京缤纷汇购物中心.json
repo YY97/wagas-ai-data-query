@@ -1,0 +1,446 @@
+{
+  "name": "北京缤纷汇购物中心",
+  "city": "北京市",
+  "address": "北京市朝阳区双井街道富力城(A区)富力城A区",
+  "lat": 39.895301,
+  "lng": 116.459236,
+  "overview": {
+    "score": 91.7,
+    "score_rank": "市内前30%",
+    "population_score": 97.4,
+    "area_score": 97.2,
+    "consumption_score": 81.4,
+    "industry_score": 91.7,
+    "annual_sales": "",
+    "annual_sales_unit": "",
+    "area_size_sqm": null,
+    "open_date": "",
+    "operator": "",
+    "brand": "",
+    "type": "",
+    "floors": ""
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "",
+    "annual_daily_rank": "",
+    "jun_total": null,
+    "jun_total_rank": "",
+    "jun_daily_avg": null,
+    "jun_daily_unit": "",
+    "jun_daily_rank": "",
+    "weekday_avg": null,
+    "weekday_unit": "",
+    "weekday_rank": "",
+    "holiday_avg": null,
+    "holiday_unit": "",
+    "holiday_rank": ""
+  },
+  "population": {
+    "residential": {
+      "500m": 3.3,
+      "1_5km": 25.4,
+      "3km": 83.1
+    },
+    "office": {
+      "500m": 2.7,
+      "1_5km": 17.4,
+      "3km": 71.4
+    },
+    "permanent": {
+      "500m": 3.9,
+      "1_5km": 25.9,
+      "3km": 91.2
+    }
+  },
+  "business": {
+    "competitors": 9.0,
+    "food": 292.0,
+    "shopping": 207.0,
+    "leisure": 64.0,
+    "education": 58.0,
+    "hotel": 31.0,
+    "services": 391.0,
+    "fitness": 45.0,
+    "auto": 19.0,
+    "total_stores": 1115.0,
+    "old_store_3yr_pct": 42.0
+  },
+  "nearby_poi": {
+    "business": 5.0,
+    "community": 409.0,
+    "office": 90.0,
+    "school": 36.0,
+    "hospital": 144.0,
+    "transport": 16.0,
+    "scenic": 239.0
+  },
+  "demographics": {
+    "male_pct": 51.2,
+    "female_pct": null,
+    "education": {
+      "小学": 9.0,
+      "初中": 15.5,
+      "高中": 11.0,
+      "大专": 6.5,
+      "本科": 49.2,
+      "硕士": 7.1,
+      "博士": 1.7
+    },
+    "has_children_pct": null,
+    "no_children_pct": null
+  },
+  "scraped_at": "2026-07-31T19:00:58.957Z",
+  "nearby_restaurants": [
+    {
+      "brand": "地摊烤肉",
+      "address": "广渠门外大街8号院(双井地铁站A西北口步行250米)",
+      "distance": "43m"
+    },
+    {
+      "brand": "鲍师傅糕点(富力城店)",
+      "address": "广渠门外大街北侧(富力家园)项目一层02号",
+      "distance": "82m"
+    },
+    {
+      "brand": "凉皮遇上馍(第1档口食味天街美食城店)",
+      "address": "北京缤纷汇购物中心(双井地铁站A西北口步行120米)",
+      "distance": "97m"
+    },
+    {
+      "brand": "美味小厨快餐(北京缤纷汇购物中心店)",
+      "address": "北京缤纷汇购物中心(双井地铁站A西北口步行110米)",
+      "distance": "102m"
+    },
+    {
+      "brand": "妙侬粥店(朝阳店)",
+      "address": "广渠门外大街甲1号负二层浣熊食堂5号档口",
+      "distance": "102m"
+    },
+    {
+      "brand": "甄味石锅鸡",
+      "address": "广渠门外大街辅路与广和东三路交叉口东100米",
+      "distance": "106m"
+    },
+    {
+      "brand": "玲玲新鲜烘培",
+      "address": "北京缤纷汇购物中心(双井地铁站A西北口步行90米)",
+      "distance": "107m"
+    },
+    {
+      "brand": "玲玲现制小吃",
+      "address": "北京缤纷汇购物中心(双井地铁站A西北口步行90米)",
+      "distance": "107m"
+    },
+    {
+      "brand": "食味天街(北京缤纷汇购物中心店)",
+      "address": "双井街道广渠门外大街1号北京缤纷汇购物中心B1层",
+      "distance": "108m"
+    },
+    {
+      "brand": "香河肉饼·砂锅(双井店)",
+      "address": "广渠门外大街1号(双井地铁站A西北口步行60米)食味天街美食汇",
+      "distance": "110m"
+    },
+    {
+      "brand": "地摊烤肉",
+      "address": "广渠门外大街8号院(双井地铁站A西北口步行250米)",
+      "distance": "43m"
+    },
+    {
+      "brand": "鲍师傅糕点(富力城店)",
+      "address": "广渠门外大街北侧(富力家园)项目一层02号",
+      "distance": "82m"
+    },
+    {
+      "brand": "凉皮遇上馍(第1档口食味天街美食城店)",
+      "address": "北京缤纷汇购物中心(双井地铁站A西北口步行120米)",
+      "distance": "97m"
+    },
+    {
+      "brand": "美味小厨快餐(北京缤纷汇购物中心店)",
+      "address": "北京缤纷汇购物中心(双井地铁站A西北口步行110米)",
+      "distance": "102m"
+    },
+    {
+      "brand": "妙侬粥店(朝阳店)",
+      "address": "广渠门外大街甲1号负二层浣熊食堂5号档口",
+      "distance": "102m"
+    },
+    {
+      "brand": "甄味石锅鸡",
+      "address": "广渠门外大街辅路与广和东三路交叉口东100米",
+      "distance": "106m"
+    },
+    {
+      "brand": "玲玲新鲜烘培",
+      "address": "北京缤纷汇购物中心(双井地铁站A西北口步行90米)",
+      "distance": "107m"
+    },
+    {
+      "brand": "玲玲现制小吃",
+      "address": "北京缤纷汇购物中心(双井地铁站A西北口步行90米)",
+      "distance": "107m"
+    },
+    {
+      "brand": "食味天街(北京缤纷汇购物中心店)",
+      "address": "双井街道广渠门外大街1号北京缤纷汇购物中心B1层",
+      "distance": "108m"
+    },
+    {
+      "brand": "香河肉饼·砂锅(双井店)",
+      "address": "广渠门外大街1号(双井地铁站A西北口步行60米)食味天街美食汇",
+      "distance": "110m"
+    },
+    {
+      "brand": "地摊烤肉",
+      "address": "广渠门外大街8号院(双井地铁站A西北口步行250米)",
+      "distance": "43m"
+    },
+    {
+      "brand": "鲍师傅糕点(富力城店)",
+      "address": "广渠门外大街北侧(富力家园)项目一层02号",
+      "distance": "82m"
+    },
+    {
+      "brand": "凉皮遇上馍(第1档口食味天街美食城店)",
+      "address": "北京缤纷汇购物中心(双井地铁站A西北口步行120米)",
+      "distance": "97m"
+    },
+    {
+      "brand": "美味小厨快餐(北京缤纷汇购物中心店)",
+      "address": "北京缤纷汇购物中心(双井地铁站A西北口步行110米)",
+      "distance": "102m"
+    },
+    {
+      "brand": "妙侬粥店(朝阳店)",
+      "address": "广渠门外大街甲1号负二层浣熊食堂5号档口",
+      "distance": "102m"
+    },
+    {
+      "brand": "甄味石锅鸡",
+      "address": "广渠门外大街辅路与广和东三路交叉口东100米",
+      "distance": "106m"
+    },
+    {
+      "brand": "玲玲新鲜烘培",
+      "address": "北京缤纷汇购物中心(双井地铁站A西北口步行90米)",
+      "distance": "107m"
+    },
+    {
+      "brand": "玲玲现制小吃",
+      "address": "北京缤纷汇购物中心(双井地铁站A西北口步行90米)",
+      "distance": "107m"
+    },
+    {
+      "brand": "食味天街(北京缤纷汇购物中心店)",
+      "address": "双井街道广渠门外大街1号北京缤纷汇购物中心B1层",
+      "distance": "108m"
+    },
+    {
+      "brand": "香河肉饼·砂锅(双井店)",
+      "address": "广渠门外大街1号(双井地铁站A西北口步行60米)食味天街美食汇",
+      "distance": "110m"
+    },
+    {
+      "brand": "地摊烤肉",
+      "address": "广渠门外大街8号院(双井地铁站A西北口步行250米)",
+      "distance": "43m"
+    },
+    {
+      "brand": "鲍师傅糕点(富力城店)",
+      "address": "广渠门外大街北侧(富力家园)项目一层02号",
+      "distance": "82m"
+    },
+    {
+      "brand": "凉皮遇上馍(第1档口食味天街美食城店)",
+      "address": "北京缤纷汇购物中心(双井地铁站A西北口步行120米)",
+      "distance": "97m"
+    },
+    {
+      "brand": "美味小厨快餐(北京缤纷汇购物中心店)",
+      "address": "北京缤纷汇购物中心(双井地铁站A西北口步行110米)",
+      "distance": "102m"
+    },
+    {
+      "brand": "妙侬粥店(朝阳店)",
+      "address": "广渠门外大街甲1号负二层浣熊食堂5号档口",
+      "distance": "102m"
+    },
+    {
+      "brand": "甄味石锅鸡",
+      "address": "广渠门外大街辅路与广和东三路交叉口东100米",
+      "distance": "106m"
+    },
+    {
+      "brand": "玲玲新鲜烘培",
+      "address": "北京缤纷汇购物中心(双井地铁站A西北口步行90米)",
+      "distance": "107m"
+    },
+    {
+      "brand": "玲玲现制小吃",
+      "address": "北京缤纷汇购物中心(双井地铁站A西北口步行90米)",
+      "distance": "107m"
+    },
+    {
+      "brand": "食味天街(北京缤纷汇购物中心店)",
+      "address": "双井街道广渠门外大街1号北京缤纷汇购物中心B1层",
+      "distance": "108m"
+    },
+    {
+      "brand": "香河肉饼·砂锅(双井店)",
+      "address": "广渠门外大街1号(双井地铁站A西北口步行60米)食味天街美食汇",
+      "distance": "110m"
+    },
+    {
+      "brand": "地摊烤肉",
+      "address": "广渠门外大街8号院(双井地铁站A西北口步行250米)",
+      "distance": "43m"
+    },
+    {
+      "brand": "鲍师傅糕点(富力城店)",
+      "address": "广渠门外大街北侧(富力家园)项目一层02号",
+      "distance": "82m"
+    },
+    {
+      "brand": "凉皮遇上馍(第1档口食味天街美食城店)",
+      "address": "北京缤纷汇购物中心(双井地铁站A西北口步行120米)",
+      "distance": "97m"
+    },
+    {
+      "brand": "美味小厨快餐(北京缤纷汇购物中心店)",
+      "address": "北京缤纷汇购物中心(双井地铁站A西北口步行110米)",
+      "distance": "102m"
+    },
+    {
+      "brand": "妙侬粥店(朝阳店)",
+      "address": "广渠门外大街甲1号负二层浣熊食堂5号档口",
+      "distance": "102m"
+    },
+    {
+      "brand": "甄味石锅鸡",
+      "address": "广渠门外大街辅路与广和东三路交叉口东100米",
+      "distance": "106m"
+    },
+    {
+      "brand": "玲玲新鲜烘培",
+      "address": "北京缤纷汇购物中心(双井地铁站A西北口步行90米)",
+      "distance": "107m"
+    },
+    {
+      "brand": "玲玲现制小吃",
+      "address": "北京缤纷汇购物中心(双井地铁站A西北口步行90米)",
+      "distance": "107m"
+    },
+    {
+      "brand": "食味天街(北京缤纷汇购物中心店)",
+      "address": "双井街道广渠门外大街1号北京缤纷汇购物中心B1层",
+      "distance": "108m"
+    },
+    {
+      "brand": "香河肉饼·砂锅(双井店)",
+      "address": "广渠门外大街1号(双井地铁站A西北口步行60米)食味天街美食汇",
+      "distance": "110m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "北京缤纷汇购物中心",
+      "open_date": "2019-05-01",
+      "area": "1万㎡",
+      "jun_daily_avg": "2.1万人次",
+      "weekday_avg": "2万人次",
+      "holiday_avg": "2.3万人次"
+    },
+    {
+      "name": "北京富力广场",
+      "open_date": "2007-01-01",
+      "area": "10万㎡",
+      "jun_daily_avg": "4.5万人次",
+      "weekday_avg": "4.3万人次",
+      "holiday_avg": "5万人次"
+    },
+    {
+      "name": "北京乐成中心SPACE3",
+      "open_date": "2018-05-01",
+      "area": "3.5万㎡",
+      "jun_daily_avg": "2万人次",
+      "weekday_avg": "2万人次",
+      "holiday_avg": "2万人次"
+    },
+    {
+      "name": "北京银泰中心in01",
+      "open_date": "2018-10-01",
+      "area": "3万㎡",
+      "jun_daily_avg": "1.8万人次",
+      "weekday_avg": "1.9万人次",
+      "holiday_avg": "1.5万人次"
+    },
+    {
+      "name": "北京六壹广场(领行国际中心店)",
+      "open_date": "2004-07-10",
+      "area": "-",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 292.0,
+      "within_1yr_pct": 25.7,
+      "1_3yr_pct": 27.4,
+      "over_3yr_pct": 46.9
+    },
+    {
+      "type": "购物",
+      "count": 207.0,
+      "within_1yr_pct": 24.2,
+      "1_3yr_pct": 26.1,
+      "over_3yr_pct": 49.8
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 72.0,
+      "within_1yr_pct": 38.9,
+      "1_3yr_pct": 37.5,
+      "over_3yr_pct": 23.6
+    },
+    {
+      "type": "教育培训",
+      "count": 58.0,
+      "within_1yr_pct": 27.6,
+      "1_3yr_pct": 22.4,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 31.0,
+      "within_1yr_pct": 41.9,
+      "1_3yr_pct": 19.4,
+      "over_3yr_pct": 38.7
+    },
+    {
+      "type": "生活服务",
+      "count": 391.0,
+      "within_1yr_pct": 33.8,
+      "1_3yr_pct": 29.4,
+      "over_3yr_pct": 36.8
+    },
+    {
+      "type": "运动健身",
+      "count": 45.0,
+      "within_1yr_pct": 15.6,
+      "1_3yr_pct": 44.4,
+      "over_3yr_pct": 40.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 19.0,
+      "within_1yr_pct": 31.6,
+      "1_3yr_pct": 21.1,
+      "over_3yr_pct": 47.4
+    }
+  ]
+}

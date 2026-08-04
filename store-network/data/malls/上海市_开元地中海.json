@@ -1,0 +1,438 @@
+{
+  "name": "开元地中海",
+  "city": "上海市",
+  "address": "上海市松江区新松江路926号",
+  "lat": 31.038189,
+  "lng": 121.21944,
+  "overview": {
+    "score": 94.7,
+    "score_rank": "市内前30%",
+    "population_score": 70.5,
+    "area_score": 74.4,
+    "consumption_score": 69.5,
+    "industry_score": 94.9,
+    "annual_sales": "上海开元地中海商业广场综合项目座落于上海西南松江新城核心商务区，集购物、休闲、餐饮、娱乐、观光等多功能于一体，包括三幢20层高级住宅楼、三幢18层单身公寓、一幢20层办公楼、一站式购物广场及一座五星级的松江开元名都大酒店。作为上海市首座地中海主题一站式购物广场，地中海商业广场引入了目前世界上流行的ShoppingMall概念，在整个广场的室内设计中引入了地中海主题概念，以创造性的手法把购物、休闲与娱乐结为一体",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 8.4,
+    "open_date": "2006-01-01",
+    "operator": "开元旅业集团有限公司",
+    "brand": "中海",
+    "type": "综合型",
+    "floors": "B1-L4"
+  },
+  "traffic": {
+    "annual_daily": 2.82,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第92",
+    "jun_total": 102.1,
+    "jun_total_rank": "市内商场第119名",
+    "jun_daily_avg": 3.4,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第119名",
+    "weekday_avg": 3.1,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第122名",
+    "holiday_avg": 4.1,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第112名"
+  },
+  "population": {
+    "residential": {
+      "500m": 8200.0,
+      "1_5km": 10.0,
+      "3km": 45.8
+    },
+    "office": {
+      "500m": 7300.0,
+      "1_5km": 5.3,
+      "3km": 19.7
+    },
+    "permanent": {
+      "500m": 1.1,
+      "1_5km": 9.3,
+      "3km": 41.3
+    }
+  },
+  "business": {
+    "competitors": 5.0,
+    "food": 201.0,
+    "shopping": 120.0,
+    "leisure": 30.0,
+    "education": 40.0,
+    "hotel": 16.0,
+    "services": 102.0,
+    "fitness": 11.0,
+    "auto": 5.0,
+    "total_stores": 275.0,
+    "old_store_3yr_pct": 54.0
+  },
+  "nearby_poi": {
+    "business": 4.0,
+    "community": 171.0,
+    "office": 6.0,
+    "school": 11.0,
+    "hospital": 25.0,
+    "transport": 12.0,
+    "scenic": 62.0
+  },
+  "demographics": {
+    "male_pct": 48.3,
+    "female_pct": null,
+    "education": {
+      "小学": 7.0,
+      "初中": 18.6,
+      "高中": 20.5,
+      "大专": 5.8,
+      "本科": 43.4,
+      "硕士": 3.7,
+      "博士": 1.0
+    },
+    "has_children_pct": 60.3,
+    "no_children_pct": 39.7
+  },
+  "scraped_at": "2026-08-02T02:23:20.178Z",
+  "nearby_restaurants": [
+    {
+      "brand": "老乡鸡(上海开元地中海店)",
+      "address": "新松江路925号开元地中海商业广场F1",
+      "distance": "5m"
+    },
+    {
+      "brand": "喜姐炸串(松江开元地中海店)",
+      "address": "方松街道新松江路927弄地中海开元广场2132室",
+      "distance": "5m"
+    },
+    {
+      "brand": "刘文祥麻辣烫(松江大学城开元店)",
+      "address": "新松江路927弄开元地中海广场二楼2140",
+      "distance": "5m"
+    },
+    {
+      "brand": "霸碗盖码饭(上海开元地中海店)",
+      "address": "方松街道新松江路925号-927号开元地中海商业广场1F-03号",
+      "distance": "5m"
+    },
+    {
+      "brand": "红渡小香超级香锅",
+      "address": "新松江路925号开元地中海商业广场2F层",
+      "distance": "6m"
+    },
+    {
+      "brand": "桂桂茶(开元地中海店)",
+      "address": "方松街道新松江路925弄1151B室",
+      "distance": "6m"
+    },
+    {
+      "brand": "成都你六姐·牛肉冒菜(开元地中海商业广场店)",
+      "address": "新松江路925号开元地中海商业广场2F层",
+      "distance": "8m"
+    },
+    {
+      "brand": "梁记粥铺(开元地中海店)",
+      "address": "新松江路925号开元地中海商业广场3F层",
+      "distance": "12m"
+    },
+    {
+      "brand": "钢好二公里串串香(上海松江店)",
+      "address": "新松江路925号开元地中海商业广场3F层",
+      "distance": "15m"
+    },
+    {
+      "brand": "糖红帽(开元地中海商业广场店)",
+      "address": "新松江路925号开元地中海商业广场2F层",
+      "distance": "16m"
+    },
+    {
+      "brand": "老乡鸡(上海开元地中海店)",
+      "address": "新松江路925号开元地中海商业广场F1",
+      "distance": "5m"
+    },
+    {
+      "brand": "喜姐炸串(松江开元地中海店)",
+      "address": "方松街道新松江路927弄地中海开元广场2132室",
+      "distance": "5m"
+    },
+    {
+      "brand": "刘文祥麻辣烫(松江大学城开元店)",
+      "address": "新松江路927弄开元地中海广场二楼2140",
+      "distance": "5m"
+    },
+    {
+      "brand": "霸碗盖码饭(上海开元地中海店)",
+      "address": "方松街道新松江路925号-927号开元地中海商业广场1F-03号",
+      "distance": "5m"
+    },
+    {
+      "brand": "红渡小香超级香锅",
+      "address": "新松江路925号开元地中海商业广场2F层",
+      "distance": "6m"
+    },
+    {
+      "brand": "桂桂茶(开元地中海店)",
+      "address": "方松街道新松江路925弄1151B室",
+      "distance": "6m"
+    },
+    {
+      "brand": "成都你六姐·牛肉冒菜(开元地中海商业广场店)",
+      "address": "新松江路925号开元地中海商业广场2F层",
+      "distance": "8m"
+    },
+    {
+      "brand": "梁记粥铺(开元地中海店)",
+      "address": "新松江路925号开元地中海商业广场3F层",
+      "distance": "12m"
+    },
+    {
+      "brand": "钢好二公里串串香(上海松江店)",
+      "address": "新松江路925号开元地中海商业广场3F层",
+      "distance": "15m"
+    },
+    {
+      "brand": "糖红帽(开元地中海商业广场店)",
+      "address": "新松江路925号开元地中海商业广场2F层",
+      "distance": "16m"
+    },
+    {
+      "brand": "老乡鸡(上海开元地中海店)",
+      "address": "新松江路925号开元地中海商业广场F1",
+      "distance": "5m"
+    },
+    {
+      "brand": "喜姐炸串(松江开元地中海店)",
+      "address": "方松街道新松江路927弄地中海开元广场2132室",
+      "distance": "5m"
+    },
+    {
+      "brand": "刘文祥麻辣烫(松江大学城开元店)",
+      "address": "新松江路927弄开元地中海广场二楼2140",
+      "distance": "5m"
+    },
+    {
+      "brand": "霸碗盖码饭(上海开元地中海店)",
+      "address": "方松街道新松江路925号-927号开元地中海商业广场1F-03号",
+      "distance": "5m"
+    },
+    {
+      "brand": "红渡小香超级香锅",
+      "address": "新松江路925号开元地中海商业广场2F层",
+      "distance": "6m"
+    },
+    {
+      "brand": "桂桂茶(开元地中海店)",
+      "address": "方松街道新松江路925弄1151B室",
+      "distance": "6m"
+    },
+    {
+      "brand": "成都你六姐·牛肉冒菜(开元地中海商业广场店)",
+      "address": "新松江路925号开元地中海商业广场2F层",
+      "distance": "8m"
+    },
+    {
+      "brand": "梁记粥铺(开元地中海店)",
+      "address": "新松江路925号开元地中海商业广场3F层",
+      "distance": "12m"
+    },
+    {
+      "brand": "钢好二公里串串香(上海松江店)",
+      "address": "新松江路925号开元地中海商业广场3F层",
+      "distance": "15m"
+    },
+    {
+      "brand": "糖红帽(开元地中海商业广场店)",
+      "address": "新松江路925号开元地中海商业广场2F层",
+      "distance": "16m"
+    },
+    {
+      "brand": "老乡鸡(上海开元地中海店)",
+      "address": "新松江路925号开元地中海商业广场F1",
+      "distance": "5m"
+    },
+    {
+      "brand": "喜姐炸串(松江开元地中海店)",
+      "address": "方松街道新松江路927弄地中海开元广场2132室",
+      "distance": "5m"
+    },
+    {
+      "brand": "刘文祥麻辣烫(松江大学城开元店)",
+      "address": "新松江路927弄开元地中海广场二楼2140",
+      "distance": "5m"
+    },
+    {
+      "brand": "霸碗盖码饭(上海开元地中海店)",
+      "address": "方松街道新松江路925号-927号开元地中海商业广场1F-03号",
+      "distance": "5m"
+    },
+    {
+      "brand": "红渡小香超级香锅",
+      "address": "新松江路925号开元地中海商业广场2F层",
+      "distance": "6m"
+    },
+    {
+      "brand": "桂桂茶(开元地中海店)",
+      "address": "方松街道新松江路925弄1151B室",
+      "distance": "6m"
+    },
+    {
+      "brand": "成都你六姐·牛肉冒菜(开元地中海商业广场店)",
+      "address": "新松江路925号开元地中海商业广场2F层",
+      "distance": "8m"
+    },
+    {
+      "brand": "梁记粥铺(开元地中海店)",
+      "address": "新松江路925号开元地中海商业广场3F层",
+      "distance": "12m"
+    },
+    {
+      "brand": "钢好二公里串串香(上海松江店)",
+      "address": "新松江路925号开元地中海商业广场3F层",
+      "distance": "15m"
+    },
+    {
+      "brand": "糖红帽(开元地中海商业广场店)",
+      "address": "新松江路925号开元地中海商业广场2F层",
+      "distance": "16m"
+    },
+    {
+      "brand": "老乡鸡(上海开元地中海店)",
+      "address": "新松江路925号开元地中海商业广场F1",
+      "distance": "5m"
+    },
+    {
+      "brand": "喜姐炸串(松江开元地中海店)",
+      "address": "方松街道新松江路927弄地中海开元广场2132室",
+      "distance": "5m"
+    },
+    {
+      "brand": "刘文祥麻辣烫(松江大学城开元店)",
+      "address": "新松江路927弄开元地中海广场二楼2140",
+      "distance": "5m"
+    },
+    {
+      "brand": "霸碗盖码饭(上海开元地中海店)",
+      "address": "方松街道新松江路925号-927号开元地中海商业广场1F-03号",
+      "distance": "5m"
+    },
+    {
+      "brand": "红渡小香超级香锅",
+      "address": "新松江路925号开元地中海商业广场2F层",
+      "distance": "6m"
+    },
+    {
+      "brand": "桂桂茶(开元地中海店)",
+      "address": "方松街道新松江路925弄1151B室",
+      "distance": "6m"
+    },
+    {
+      "brand": "成都你六姐·牛肉冒菜(开元地中海商业广场店)",
+      "address": "新松江路925号开元地中海商业广场2F层",
+      "distance": "8m"
+    },
+    {
+      "brand": "梁记粥铺(开元地中海店)",
+      "address": "新松江路925号开元地中海商业广场3F层",
+      "distance": "12m"
+    },
+    {
+      "brand": "钢好二公里串串香(上海松江店)",
+      "address": "新松江路925号开元地中海商业广场3F层",
+      "distance": "15m"
+    },
+    {
+      "brand": "糖红帽(开元地中海商业广场店)",
+      "address": "新松江路925号开元地中海商业广场2F层",
+      "distance": "16m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海松江合生新天地",
+      "open_date": "2023-12-01",
+      "area": "4万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海东鼎购物中心",
+      "open_date": "2016-06-26",
+      "area": "6万㎡",
+      "jun_daily_avg": "1.7万人次",
+      "weekday_avg": "1.5万人次",
+      "holiday_avg": "2.2万人次"
+    },
+    {
+      "name": "上海东明国际商城",
+      "open_date": "1997-08-21",
+      "area": "-",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海松江商业广场",
+      "open_date": "2014-05-15",
+      "area": "18万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 98.0,
+      "within_1yr_pct": 15.3,
+      "1_3yr_pct": 29.6,
+      "over_3yr_pct": 55.1
+    },
+    {
+      "type": "购物",
+      "count": 79.0,
+      "within_1yr_pct": 5.1,
+      "1_3yr_pct": 19.0,
+      "over_3yr_pct": 75.9
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 20.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 55.0,
+      "over_3yr_pct": 20.0
+    },
+    {
+      "type": "教育培训",
+      "count": 21.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 28.6,
+      "over_3yr_pct": 38.1
+    },
+    {
+      "type": "酒店住宿",
+      "count": 5.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 20.0,
+      "over_3yr_pct": 60.0
+    },
+    {
+      "type": "生活服务",
+      "count": 41.0,
+      "within_1yr_pct": 19.5,
+      "1_3yr_pct": 41.5,
+      "over_3yr_pct": 39.0
+    },
+    {
+      "type": "运动健身",
+      "count": 6.0,
+      "within_1yr_pct": 16.7,
+      "1_3yr_pct": 66.7,
+      "over_3yr_pct": 16.7
+    },
+    {
+      "type": "车辆服务",
+      "count": 5.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 20.0,
+      "over_3yr_pct": 60.0
+    }
+  ]
+}

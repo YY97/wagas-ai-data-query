@@ -1,0 +1,486 @@
+{
+  "name": "上海MOHO",
+  "city": "上海市",
+  "address": "上海市静安区江宁路699号",
+  "lat": 31.237571,
+  "lng": 121.448666,
+  "overview": {
+    "score": 91.9,
+    "score_rank": "市内前30%",
+    "population_score": 98.5,
+    "area_score": 90.6,
+    "consumption_score": 84.8,
+    "industry_score": 91.9,
+    "annual_sales": "MOHO上海位于静安区江宁路699号，是一个集文化、艺术、美学和思想力于一体的高端商业综合体项目包含MOHO潮奢购物中心、甲级智能写字楼、高端酒店式公寓等，旨在为现代24小时生活方式的城市高端消费群体提供娱乐社交、餐饮休闲、时尚购物、商务办公为一体的超凡城市生活提案，打造“24小时的城市绿洲”",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 8.0,
+    "open_date": "2023-01-13",
+    "operator": "合生创展集团",
+    "brand": "",
+    "type": "美食型",
+    "floors": "B2-L3"
+  },
+  "traffic": {
+    "annual_daily": 1.2,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第218",
+    "jun_total": 58.6,
+    "jun_total_rank": "市内商场第193名",
+    "jun_daily_avg": 2.0,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第193名",
+    "weekday_avg": 2.0,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第184名",
+    "holiday_avg": 1.9,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第214名"
+  },
+  "population": {
+    "residential": {
+      "500m": 3.6,
+      "1_5km": 27.1,
+      "3km": 112.8
+    },
+    "office": {
+      "500m": 2.4,
+      "1_5km": 30.6,
+      "3km": 97.2
+    },
+    "permanent": {
+      "500m": 3.6,
+      "1_5km": 31.3,
+      "3km": 128.3
+    }
+  },
+  "business": {
+    "competitors": 4.0,
+    "food": 288.0,
+    "shopping": 234.0,
+    "leisure": 25.0,
+    "education": 20.0,
+    "hotel": 40.0,
+    "services": 197.0,
+    "fitness": 27.0,
+    "auto": 16.0,
+    "total_stores": 113.0,
+    "old_store_3yr_pct": 30.0
+  },
+  "nearby_poi": {
+    "business": 23.0,
+    "community": 1097.0,
+    "office": 240.0,
+    "school": 71.0,
+    "hospital": 184.0,
+    "transport": 17.0,
+    "scenic": 566.0
+  },
+  "demographics": {
+    "male_pct": 46.8,
+    "female_pct": null,
+    "education": {
+      "小学": 9.1,
+      "初中": 17.9,
+      "高中": 12.0,
+      "大专": 6.8,
+      "本科": 47.9,
+      "硕士": 4.7,
+      "博士": 1.6
+    },
+    "has_children_pct": 57.9,
+    "no_children_pct": 42.1
+  },
+  "scraped_at": "2026-07-31T15:03:05.881Z",
+  "nearby_restaurants": [
+    {
+      "brand": "MYLINK麦聆(静安店)",
+      "address": "江宁路699号MOHOB2层",
+      "distance": "3m"
+    },
+    {
+      "brand": "左庭右院鲜牛肉火锅(静安MOHO店)",
+      "address": "江宁路699号MOHOMall3层26-27号商铺",
+      "distance": "5m"
+    },
+    {
+      "brand": "鼓楼儿掌心包",
+      "address": "江宁路街道江宁路699号B2-07B",
+      "distance": "11m"
+    },
+    {
+      "brand": "萃活Evo-juice鲜榨果汁",
+      "address": "江宁路699号MOHOB1层",
+      "distance": "11m"
+    },
+    {
+      "brand": "味师蒋大厨·东坡肉(MOHO Mall店)",
+      "address": "江宁路699号MOHO B2室",
+      "distance": "11m"
+    },
+    {
+      "brand": "裕牛潮汕牛肉饭(静安MOHO店)",
+      "address": "陕西北路与昌平路交叉口北120米",
+      "distance": "11m"
+    },
+    {
+      "brand": "白米百味(MOHO Mall店)",
+      "address": "江宁路699号MOHOB1层",
+      "distance": "12m"
+    },
+    {
+      "brand": "趣野牛排(静安MOHO店)",
+      "address": "江宁路699号MOHOB2层",
+      "distance": "12m"
+    },
+    {
+      "brand": "FoodGame超级厨房(静安moho店)",
+      "address": "江宁路699号地下二层B2-72号",
+      "distance": "12m"
+    },
+    {
+      "brand": "龙记烧腊专门店",
+      "address": "江宁路699号MOHO MALLB1",
+      "distance": "13m"
+    },
+    {
+      "brand": "MYLINK麦聆(静安店)",
+      "address": "江宁路699号MOHOB2层",
+      "distance": "3m"
+    },
+    {
+      "brand": "左庭右院鲜牛肉火锅(静安MOHO店)",
+      "address": "江宁路699号MOHOMall3层26-27号商铺",
+      "distance": "5m"
+    },
+    {
+      "brand": "鼓楼儿掌心包",
+      "address": "江宁路街道江宁路699号B2-07B",
+      "distance": "11m"
+    },
+    {
+      "brand": "萃活Evo-juice鲜榨果汁",
+      "address": "江宁路699号MOHOB1层",
+      "distance": "11m"
+    },
+    {
+      "brand": "味师蒋大厨·东坡肉(MOHO Mall店)",
+      "address": "江宁路699号MOHO B2室",
+      "distance": "11m"
+    },
+    {
+      "brand": "裕牛潮汕牛肉饭(静安MOHO店)",
+      "address": "陕西北路与昌平路交叉口北120米",
+      "distance": "11m"
+    },
+    {
+      "brand": "白米百味(MOHO Mall店)",
+      "address": "江宁路699号MOHOB1层",
+      "distance": "12m"
+    },
+    {
+      "brand": "趣野牛排(静安MOHO店)",
+      "address": "江宁路699号MOHOB2层",
+      "distance": "12m"
+    },
+    {
+      "brand": "FoodGame超级厨房(静安moho店)",
+      "address": "江宁路699号地下二层B2-72号",
+      "distance": "12m"
+    },
+    {
+      "brand": "龙记烧腊专门店",
+      "address": "江宁路699号MOHO MALLB1",
+      "distance": "13m"
+    },
+    {
+      "brand": "MYLINK麦聆(静安店)",
+      "address": "江宁路699号MOHOB2层",
+      "distance": "3m"
+    },
+    {
+      "brand": "左庭右院鲜牛肉火锅(静安MOHO店)",
+      "address": "江宁路699号MOHOMall3层26-27号商铺",
+      "distance": "5m"
+    },
+    {
+      "brand": "鼓楼儿掌心包",
+      "address": "江宁路街道江宁路699号B2-07B",
+      "distance": "11m"
+    },
+    {
+      "brand": "萃活Evo-juice鲜榨果汁",
+      "address": "江宁路699号MOHOB1层",
+      "distance": "11m"
+    },
+    {
+      "brand": "味师蒋大厨·东坡肉(MOHO Mall店)",
+      "address": "江宁路699号MOHO B2室",
+      "distance": "11m"
+    },
+    {
+      "brand": "裕牛潮汕牛肉饭(静安MOHO店)",
+      "address": "陕西北路与昌平路交叉口北120米",
+      "distance": "11m"
+    },
+    {
+      "brand": "白米百味(MOHO Mall店)",
+      "address": "江宁路699号MOHOB1层",
+      "distance": "12m"
+    },
+    {
+      "brand": "趣野牛排(静安MOHO店)",
+      "address": "江宁路699号MOHOB2层",
+      "distance": "12m"
+    },
+    {
+      "brand": "FoodGame超级厨房(静安moho店)",
+      "address": "江宁路699号地下二层B2-72号",
+      "distance": "12m"
+    },
+    {
+      "brand": "龙记烧腊专门店",
+      "address": "江宁路699号MOHO MALLB1",
+      "distance": "13m"
+    },
+    {
+      "brand": "MYLINK麦聆(静安店)",
+      "address": "江宁路699号MOHOB2层",
+      "distance": "3m"
+    },
+    {
+      "brand": "左庭右院鲜牛肉火锅(静安MOHO店)",
+      "address": "江宁路699号MOHOMall3层26-27号商铺",
+      "distance": "5m"
+    },
+    {
+      "brand": "鼓楼儿掌心包",
+      "address": "江宁路街道江宁路699号B2-07B",
+      "distance": "11m"
+    },
+    {
+      "brand": "萃活Evo-juice鲜榨果汁",
+      "address": "江宁路699号MOHOB1层",
+      "distance": "11m"
+    },
+    {
+      "brand": "味师蒋大厨·东坡肉(MOHO Mall店)",
+      "address": "江宁路699号MOHO B2室",
+      "distance": "11m"
+    },
+    {
+      "brand": "裕牛潮汕牛肉饭(静安MOHO店)",
+      "address": "陕西北路与昌平路交叉口北120米",
+      "distance": "11m"
+    },
+    {
+      "brand": "白米百味(MOHO Mall店)",
+      "address": "江宁路699号MOHOB1层",
+      "distance": "12m"
+    },
+    {
+      "brand": "趣野牛排(静安MOHO店)",
+      "address": "江宁路699号MOHOB2层",
+      "distance": "12m"
+    },
+    {
+      "brand": "FoodGame超级厨房(静安moho店)",
+      "address": "江宁路699号地下二层B2-72号",
+      "distance": "12m"
+    },
+    {
+      "brand": "龙记烧腊专门店",
+      "address": "江宁路699号MOHO MALLB1",
+      "distance": "13m"
+    },
+    {
+      "brand": "MYLINK麦聆(静安店)",
+      "address": "江宁路699号MOHOB2层",
+      "distance": "3m"
+    },
+    {
+      "brand": "左庭右院鲜牛肉火锅(静安MOHO店)",
+      "address": "江宁路699号MOHOMall3层26-27号商铺",
+      "distance": "5m"
+    },
+    {
+      "brand": "鼓楼儿掌心包",
+      "address": "江宁路街道江宁路699号B2-07B",
+      "distance": "11m"
+    },
+    {
+      "brand": "萃活Evo-juice鲜榨果汁",
+      "address": "江宁路699号MOHOB1层",
+      "distance": "11m"
+    },
+    {
+      "brand": "味师蒋大厨·东坡肉(MOHO Mall店)",
+      "address": "江宁路699号MOHO B2室",
+      "distance": "11m"
+    },
+    {
+      "brand": "裕牛潮汕牛肉饭(静安MOHO店)",
+      "address": "陕西北路与昌平路交叉口北120米",
+      "distance": "11m"
+    },
+    {
+      "brand": "白米百味(MOHO Mall店)",
+      "address": "江宁路699号MOHOB1层",
+      "distance": "12m"
+    },
+    {
+      "brand": "趣野牛排(静安MOHO店)",
+      "address": "江宁路699号MOHOB2层",
+      "distance": "12m"
+    },
+    {
+      "brand": "FoodGame超级厨房(静安moho店)",
+      "address": "江宁路699号地下二层B2-72号",
+      "distance": "12m"
+    },
+    {
+      "brand": "龙记烧腊专门店",
+      "address": "江宁路699号MOHO MALLB1",
+      "distance": "13m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海静安国际中心",
+      "open_date": "2019-10-01",
+      "area": "7.6万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海巴黎春天(陕西路店)",
+      "open_date": "2011-11-01",
+      "area": "4.2万㎡",
+      "jun_daily_avg": "1.2万人次",
+      "weekday_avg": "1.1万人次",
+      "holiday_avg": "1.3万人次"
+    },
+    {
+      "name": "上海瑞安鸿寿坊",
+      "open_date": "2023-09-28",
+      "area": "1.5万㎡",
+      "jun_daily_avg": "1.9万人次",
+      "weekday_avg": "1.9万人次",
+      "holiday_avg": "2.1万人次"
+    },
+    {
+      "name": "上海189弄购物中心",
+      "open_date": "2017-01-18",
+      "area": "2万㎡",
+      "jun_daily_avg": "1.4万人次",
+      "weekday_avg": "1.3万人次",
+      "holiday_avg": "1.4万人次"
+    },
+    {
+      "name": "上海旭辉里",
+      "open_date": "2021-10-29",
+      "area": "2万㎡",
+      "jun_daily_avg": "2.9万人次",
+      "weekday_avg": "2.8万人次",
+      "holiday_avg": "3万人次"
+    },
+    {
+      "name": "上海太阳CITY广场",
+      "open_date": "2015-01-01",
+      "area": "-",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海凯德星贸中心",
+      "open_date": "2017-09-01",
+      "area": "1.7万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海亚新生活广场",
+      "open_date": "1996-12-08",
+      "area": "4.5万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海恒隆广场",
+      "open_date": "2001-07-14",
+      "area": "11.4万㎡",
+      "jun_daily_avg": "2.2万人次",
+      "weekday_avg": "2.2万人次",
+      "holiday_avg": "2万人次"
+    },
+    {
+      "name": "上海金鹰国际购物广场",
+      "open_date": "2024-01-26",
+      "area": "3.8万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 52.0,
+      "within_1yr_pct": 32.7,
+      "1_3yr_pct": 30.8,
+      "over_3yr_pct": 36.5
+    },
+    {
+      "type": "购物",
+      "count": 30.0,
+      "within_1yr_pct": 13.3,
+      "1_3yr_pct": 63.3,
+      "over_3yr_pct": 23.3
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 5.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 40.0,
+      "over_3yr_pct": 40.0
+    },
+    {
+      "type": "教育培训",
+      "count": 2.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "生活服务",
+      "count": 9.0,
+      "within_1yr_pct": 11.1,
+      "1_3yr_pct": 44.4,
+      "over_3yr_pct": 44.4
+    },
+    {
+      "type": "运动健身",
+      "count": 9.0,
+      "within_1yr_pct": 22.2,
+      "1_3yr_pct": 66.7,
+      "over_3yr_pct": 11.1
+    },
+    {
+      "type": "车辆服务",
+      "count": 5.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 80.0,
+      "over_3yr_pct": 20.0
+    }
+  ]
+}

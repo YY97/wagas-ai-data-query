@@ -1,0 +1,140 @@
+{
+  "name": "菓岭假日广场",
+  "city": "北京市",
+  "address": "北京市昌平区昌崔路203号楼",
+  "lat": 40.222145,
+  "lng": 116.264716,
+  "overview": {
+    "score": 84.6,
+    "score_rank": "市内前30%",
+    "population_score": 71.6,
+    "area_score": 68.4,
+    "consumption_score": 66.8,
+    "industry_score": 84.7,
+    "annual_sales": "",
+    "annual_sales_unit": "",
+    "area_size_sqm": null,
+    "open_date": "",
+    "operator": "",
+    "brand": "",
+    "type": "美食型",
+    "floors": "L1-L4"
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "",
+    "annual_daily_rank": "",
+    "jun_total": 26.9,
+    "jun_total_rank": "市内商场第258名",
+    "jun_daily_avg": 8968.0,
+    "jun_daily_unit": "人次",
+    "jun_daily_rank": "市内商场第258名",
+    "weekday_avg": 7940.0,
+    "weekday_unit": "人次",
+    "weekday_rank": "市内商场第264名",
+    "holiday_avg": 1.2,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第242名"
+  },
+  "population": {
+    "residential": {
+      "500m": 8000.0,
+      "1_5km": 6.9,
+      "3km": 29.4
+    },
+    "office": {
+      "500m": 4700.0,
+      "1_5km": 2.8,
+      "3km": 14.3
+    },
+    "permanent": {
+      "500m": 9100.0,
+      "1_5km": 6.0,
+      "3km": 27.8
+    }
+  },
+  "business": {
+    "competitors": null,
+    "food": 53.0,
+    "shopping": 46.0,
+    "leisure": 10.0,
+    "education": 18.0,
+    "hotel": 4.0,
+    "services": 69.0,
+    "fitness": 7.0,
+    "auto": 10.0,
+    "total_stores": 37.0,
+    "old_store_3yr_pct": 49.0
+  },
+  "nearby_poi": {
+    "business": null,
+    "community": 173.0,
+    "office": 6.0,
+    "school": 13.0,
+    "hospital": 56.0,
+    "transport": 8.0,
+    "scenic": 59.0
+  },
+  "demographics": {
+    "male_pct": 45.3,
+    "female_pct": null,
+    "education": {
+      "小学": 9.4,
+      "初中": 17.4,
+      "高中": 12.4,
+      "大专": 8.4,
+      "本科": 45.9,
+      "硕士": 5.3,
+      "博士": 1.2
+    },
+    "has_children_pct": 63.8,
+    "no_children_pct": 36.2
+  },
+  "scraped_at": "2026-08-01T13:22:50.960Z",
+  "nearby_restaurants": [],
+  "nearby_malls": [],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 16.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 37.5,
+      "over_3yr_pct": 37.5
+    },
+    {
+      "type": "购物",
+      "count": 11.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 36.4,
+      "over_3yr_pct": 63.6
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 4.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 25.0
+    },
+    {
+      "type": "生活服务",
+      "count": 4.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 75.0
+    },
+    {
+      "type": "运动健身",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    }
+  ]
+}

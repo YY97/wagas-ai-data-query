@@ -1,0 +1,198 @@
+{
+  "name": "欧尚超市(科兴店)",
+  "city": "北京市",
+  "address": "北京市东城区东打磨厂街7号宝鼎中心A座",
+  "lat": 39.899536,
+  "lng": 116.413791,
+  "overview": {
+    "score": 88.0,
+    "score_rank": "市内前30%",
+    "population_score": 92.1,
+    "area_score": 94.6,
+    "consumption_score": 87.7,
+    "industry_score": 87.9,
+    "annual_sales": "北京新活馆位于北京市中心崇文商业区的核心地段，属二环内核心位置，配套成熟，交通便利，数十条公交线路，紧邻崇文门地铁站2号线及5号线，步行只需3分钟，周边大型住宅，商业综合体、写字楼林立。新活馆客群以周边家庭消费人群为主，辐射健康运动爱好者，装修风格思路围绕家庭生活、运动体验构造绿色花园、感官情景的体验。",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 4.03,
+    "open_date": "2012-10-01",
+    "operator": "新世界发展有限公司",
+    "brand": "",
+    "type": "综合型",
+    "floors": "L1-L3"
+  },
+  "traffic": {
+    "annual_daily": 1.45,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第163",
+    "jun_total": 54.3,
+    "jun_total_rank": "市内商场第173名",
+    "jun_daily_avg": 1.8,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第173名",
+    "weekday_avg": 1.8,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第169名",
+    "holiday_avg": 2.0,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第180名"
+  },
+  "population": {
+    "residential": {
+      "500m": 2.5,
+      "1_5km": 15.2,
+      "3km": 57.0
+    },
+    "office": {
+      "500m": 2.5,
+      "1_5km": 17.7,
+      "3km": 52.2
+    },
+    "permanent": {
+      "500m": 2.9,
+      "1_5km": 21.9,
+      "3km": 67.6
+    }
+  },
+  "business": {
+    "competitors": 7.0,
+    "food": 242.0,
+    "shopping": 359.0,
+    "leisure": 26.0,
+    "education": 48.0,
+    "hotel": 61.0,
+    "services": 196.0,
+    "fitness": 23.0,
+    "auto": 11.0,
+    "total_stores": 78.0,
+    "old_store_3yr_pct": 58.0
+  },
+  "nearby_poi": {
+    "business": 9.0,
+    "community": 326.0,
+    "office": 78.0,
+    "school": 31.0,
+    "hospital": 115.0,
+    "transport": 10.0,
+    "scenic": 891.0
+  },
+  "demographics": {
+    "male_pct": 47.8,
+    "female_pct": null,
+    "education": {
+      "小学": 10.3,
+      "初中": 17.4,
+      "高中": 11.2,
+      "大专": 6.5,
+      "本科": 46.1,
+      "硕士": 6.6,
+      "博士": 1.9
+    },
+    "has_children_pct": 58.1,
+    "no_children_pct": 41.9
+  },
+  "scraped_at": "2026-08-01T06:40:09.178Z",
+  "nearby_restaurants": [
+    {
+      "brand": "前门大麻花京味面馆(西兴隆街店)",
+      "address": "西兴隆街72号",
+      "distance": "495m"
+    },
+    {
+      "brand": "新悦·娱乐汇",
+      "address": "北京城区东交民巷与正义路交叉口东120米",
+      "distance": "498m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "北京王府井工美大厦",
+      "open_date": "1996-07-01",
+      "area": "2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "北京坊",
+      "open_date": "2018-06-01",
+      "area": "14.6万㎡",
+      "jun_daily_avg": "6.3万人次",
+      "weekday_avg": "5.5万人次",
+      "holiday_avg": "8.5万人次"
+    },
+    {
+      "name": "北京王府中环",
+      "open_date": "2018-05-29",
+      "area": "4.3万㎡",
+      "jun_daily_avg": "3.7万人次",
+      "weekday_avg": "3.2万人次",
+      "holiday_avg": "5万人次"
+    },
+    {
+      "name": "北京APM",
+      "open_date": "2008-01-01",
+      "area": "9万㎡",
+      "jun_daily_avg": "8.5万人次",
+      "weekday_avg": "7.5万人次",
+      "holiday_avg": "11.1万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 24.0,
+      "within_1yr_pct": 16.7,
+      "1_3yr_pct": 8.3,
+      "over_3yr_pct": 75.0
+    },
+    {
+      "type": "购物",
+      "count": 16.0,
+      "within_1yr_pct": 12.5,
+      "1_3yr_pct": 18.8,
+      "over_3yr_pct": 68.8
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 6.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 66.7,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "教育培训",
+      "count": 8.0,
+      "within_1yr_pct": 12.5,
+      "1_3yr_pct": 12.5,
+      "over_3yr_pct": 75.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 9.0,
+      "within_1yr_pct": 66.7,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 33.3
+    },
+    {
+      "type": "生活服务",
+      "count": 8.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "运动健身",
+      "count": 6.0,
+      "within_1yr_pct": 16.7,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 1.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
+    }
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "name": "首联世纪生活广场",
+  "city": "北京市",
+  "address": "北京市丰台区北宫镇憨呼呼重庆火锅(众诚大厦店)众诚大厦",
+  "lat": 39.862756,
+  "lng": 116.160083,
+  "overview": {
+    "score": 69.6,
+    "score_rank": "市内前70%",
+    "population_score": 69.4,
+    "area_score": 63.4,
+    "consumption_score": 67.6,
+    "industry_score": 69.7,
+    "annual_sales": "",
+    "annual_sales_unit": "",
+    "area_size_sqm": null,
+    "open_date": "",
+    "operator": "",
+    "brand": "",
+    "type": "",
+    "floors": ""
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "",
+    "annual_daily_rank": "",
+    "jun_total": null,
+    "jun_total_rank": "",
+    "jun_daily_avg": null,
+    "jun_daily_unit": "",
+    "jun_daily_rank": "",
+    "weekday_avg": null,
+    "weekday_unit": "",
+    "weekday_rank": "",
+    "holiday_avg": null,
+    "holiday_unit": "",
+    "holiday_rank": ""
+  },
+  "population": {
+    "residential": {
+      "500m": 5900.0,
+      "1_5km": 4.3,
+      "3km": 8.2
+    },
+    "office": {
+      "500m": 2600.0,
+      "1_5km": 1.6,
+      "3km": 2.9
+    },
+    "permanent": {
+      "500m": 6300.0,
+      "1_5km": 3.9,
+      "3km": 7.2
+    }
+  },
+  "business": {
+    "competitors": 1.0,
+    "food": 45.0,
+    "shopping": 10.0,
+    "leisure": 3.0,
+    "education": 1.0,
+    "hotel": 1.0,
+    "services": 6.0,
+    "fitness": 2.0,
+    "auto": 2.0,
+    "total_stores": 70.0,
+    "old_store_3yr_pct": 57.0
+  },
+  "nearby_poi": {
+    "business": 1.0,
+    "community": 45.0,
+    "office": 3.0,
+    "school": 4.0,
+    "hospital": 6.0,
+    "transport": 4.0,
+    "scenic": 143.0
+  },
+  "demographics": {
+    "male_pct": 54.4,
+    "female_pct": null,
+    "education": {
+      "小学": 12.5,
+      "初中": 18.5,
+      "高中": 11.6,
+      "大专": 8.2,
+      "本科": 44.1,
+      "硕士": 3.9,
+      "博士": 1.2
+    },
+    "has_children_pct": null,
+    "no_children_pct": null
+  },
+  "scraped_at": "2026-08-01T08:06:57.392Z",
+  "nearby_restaurants": [],
+  "nearby_malls": [
+    {
+      "name": "北京首联世纪生活广场",
+      "open_date": "2023-01-01",
+      "area": "1.6万㎡",
+      "jun_daily_avg": "2万人次",
+      "weekday_avg": "2万人次",
+      "holiday_avg": "2.1万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 45.0,
+      "within_1yr_pct": 15.6,
+      "1_3yr_pct": 26.7,
+      "over_3yr_pct": 57.8
+    },
+    {
+      "type": "购物",
+      "count": 10.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 30.0,
+      "over_3yr_pct": 70.0
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 3.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 66.7,
+      "over_3yr_pct": 33.3
+    },
+    {
+      "type": "教育培训",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    },
+    {
+      "type": "生活服务",
+      "count": 6.0,
+      "within_1yr_pct": 16.7,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 33.3
+    },
+    {
+      "type": "运动健身",
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 2.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 50.0
+    }
+  ]
+}

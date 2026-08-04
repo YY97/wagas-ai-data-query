@@ -1,0 +1,486 @@
+{
+  "name": "上海雅居乐国际广场",
+  "city": "上海市",
+  "address": "上海市黄浦区西藏中路555号",
+  "lat": 31.236335,
+  "lng": 121.473117,
+  "overview": {
+    "score": 79.6,
+    "score_rank": "市内前30%",
+    "population_score": 95.4,
+    "area_score": 100.0,
+    "consumption_score": 85.8,
+    "industry_score": 79.4,
+    "annual_sales": "上海雅居乐国际广场坐落于上海市黄浦区西藏中路14号街坊，地处号称“中华商业第一街”的南京路步行街西北面，紧靠第一百货及新世界购物中心，东临西藏路，南接凤阳路，是上海市黄浦区的旅游、零售和商业中心的繁华枢纽地带，交通便捷，地理位置优越整个街坊占地13192平方米雅居乐国际广场是一幢集商场、酒店为一体的综合性超高层建筑，建筑高度137.8米，塔楼共37层，其中包括地下室三层，裙房九层整体分酒店和裙房商场两部分；裙楼主要是商场、宴会厅；塔楼为酒店及其配套措施",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 2.17,
+    "open_date": "2014-07-12",
+    "operator": "雅居乐集团控股有限公司",
+    "brand": "",
+    "type": "美食型",
+    "floors": ""
+  },
+  "traffic": {
+    "annual_daily": 3507.0,
+    "annual_daily_unit": "人次",
+    "annual_daily_rank": "市内第415",
+    "jun_total": 13.1,
+    "jun_total_rank": "市内商场第448名",
+    "jun_daily_avg": 4350.0,
+    "jun_daily_unit": "人次",
+    "jun_daily_rank": "市内商场第448名",
+    "weekday_avg": 4400.0,
+    "weekday_unit": "人次",
+    "weekday_rank": "市内商场第442名",
+    "holiday_avg": 4216.0,
+    "holiday_unit": "人次",
+    "holiday_rank": "市内商场第467名"
+  },
+  "population": {
+    "residential": {
+      "500m": 3.0,
+      "1_5km": 20.6,
+      "3km": 82.7
+    },
+    "office": {
+      "500m": 4.7,
+      "1_5km": 34.0,
+      "3km": 109.7
+    },
+    "permanent": {
+      "500m": 4.6,
+      "1_5km": 28.1,
+      "3km": 106.0
+    }
+  },
+  "business": {
+    "competitors": 21.0,
+    "food": 644.0,
+    "shopping": 742.0,
+    "leisure": 122.0,
+    "education": 27.0,
+    "hotel": 122.0,
+    "services": 224.0,
+    "fitness": 26.0,
+    "auto": 33.0,
+    "total_stores": 43.0,
+    "old_store_3yr_pct": 33.0
+  },
+  "nearby_poi": {
+    "business": 33.0,
+    "community": 922.0,
+    "office": 244.0,
+    "school": 50.0,
+    "hospital": 199.0,
+    "transport": 23.0,
+    "scenic": 988.0
+  },
+  "demographics": {
+    "male_pct": 48.4,
+    "female_pct": null,
+    "education": {
+      "小学": 9.5,
+      "初中": 17.2,
+      "高中": 11.4,
+      "大专": 7.2,
+      "本科": 47.3,
+      "硕士": 5.8,
+      "博士": 1.6
+    },
+    "has_children_pct": 59.7,
+    "no_children_pct": 40.3
+  },
+  "scraped_at": "2026-07-31T17:48:55.602Z",
+  "nearby_restaurants": [
+    {
+      "brand": "Geographer地理学家咖啡(牯岭路店)",
+      "address": "西藏中路525号雅居乐国际广场",
+      "distance": "15m"
+    },
+    {
+      "brand": "赛百味 SUBWAY(雅居乐国际广场店)",
+      "address": "西藏中路525号雅居乐国际广场1楼1002",
+      "distance": "17m"
+    },
+    {
+      "brand": "丰收日(人民广场店)",
+      "address": "西藏中路525号雅乐居国际广场4楼",
+      "distance": "24m"
+    },
+    {
+      "brand": "上海雅居乐万豪侯爵酒店·宴会厅",
+      "address": "西藏中路555号上海雅居乐万豪侯爵酒店5层(近新世界百货)",
+      "distance": "29m"
+    },
+    {
+      "brand": "满宝楼中餐厅(上海雅居乐万豪侯爵酒店)",
+      "address": "西藏中路555号上海雅居乐万豪侯爵酒店4层(近新世界百货)",
+      "distance": "30m"
+    },
+    {
+      "brand": "稻三丰时尚自选餐厅(雅居乐国际广场店)",
+      "address": "西藏中路525号雅居乐国际广场1F",
+      "distance": "36m"
+    },
+    {
+      "brand": "都会尚膳全日餐厅(上海雅居乐万豪侯爵酒店)",
+      "address": "西藏中路555号上海雅居乐万豪侯爵酒店3楼",
+      "distance": "40m"
+    },
+    {
+      "brand": "竹若·荣越(人民广场店)",
+      "address": "西藏中路555号雅居乐万豪酒店2楼",
+      "distance": "42m"
+    },
+    {
+      "brand": "上海雅居乐万豪侯爵酒店·大堂吧",
+      "address": "西藏中路555号上海雅居乐万豪侯爵酒店1楼(近凤阳路)",
+      "distance": "47m"
+    },
+    {
+      "brand": "麦当劳(雅居乐国际广场餐厅)",
+      "address": "西藏中路 525 号",
+      "distance": "51m"
+    },
+    {
+      "brand": "Geographer地理学家咖啡(牯岭路店)",
+      "address": "西藏中路525号雅居乐国际广场",
+      "distance": "15m"
+    },
+    {
+      "brand": "赛百味 SUBWAY(雅居乐国际广场店)",
+      "address": "西藏中路525号雅居乐国际广场1楼1002",
+      "distance": "17m"
+    },
+    {
+      "brand": "丰收日(人民广场店)",
+      "address": "西藏中路525号雅乐居国际广场4楼",
+      "distance": "24m"
+    },
+    {
+      "brand": "上海雅居乐万豪侯爵酒店·宴会厅",
+      "address": "西藏中路555号上海雅居乐万豪侯爵酒店5层(近新世界百货)",
+      "distance": "29m"
+    },
+    {
+      "brand": "满宝楼中餐厅(上海雅居乐万豪侯爵酒店)",
+      "address": "西藏中路555号上海雅居乐万豪侯爵酒店4层(近新世界百货)",
+      "distance": "30m"
+    },
+    {
+      "brand": "稻三丰时尚自选餐厅(雅居乐国际广场店)",
+      "address": "西藏中路525号雅居乐国际广场1F",
+      "distance": "36m"
+    },
+    {
+      "brand": "都会尚膳全日餐厅(上海雅居乐万豪侯爵酒店)",
+      "address": "西藏中路555号上海雅居乐万豪侯爵酒店3楼",
+      "distance": "40m"
+    },
+    {
+      "brand": "竹若·荣越(人民广场店)",
+      "address": "西藏中路555号雅居乐万豪酒店2楼",
+      "distance": "42m"
+    },
+    {
+      "brand": "上海雅居乐万豪侯爵酒店·大堂吧",
+      "address": "西藏中路555号上海雅居乐万豪侯爵酒店1楼(近凤阳路)",
+      "distance": "47m"
+    },
+    {
+      "brand": "麦当劳(雅居乐国际广场餐厅)",
+      "address": "西藏中路 525 号",
+      "distance": "51m"
+    },
+    {
+      "brand": "Geographer地理学家咖啡(牯岭路店)",
+      "address": "西藏中路525号雅居乐国际广场",
+      "distance": "15m"
+    },
+    {
+      "brand": "赛百味 SUBWAY(雅居乐国际广场店)",
+      "address": "西藏中路525号雅居乐国际广场1楼1002",
+      "distance": "17m"
+    },
+    {
+      "brand": "丰收日(人民广场店)",
+      "address": "西藏中路525号雅乐居国际广场4楼",
+      "distance": "24m"
+    },
+    {
+      "brand": "上海雅居乐万豪侯爵酒店·宴会厅",
+      "address": "西藏中路555号上海雅居乐万豪侯爵酒店5层(近新世界百货)",
+      "distance": "29m"
+    },
+    {
+      "brand": "满宝楼中餐厅(上海雅居乐万豪侯爵酒店)",
+      "address": "西藏中路555号上海雅居乐万豪侯爵酒店4层(近新世界百货)",
+      "distance": "30m"
+    },
+    {
+      "brand": "稻三丰时尚自选餐厅(雅居乐国际广场店)",
+      "address": "西藏中路525号雅居乐国际广场1F",
+      "distance": "36m"
+    },
+    {
+      "brand": "都会尚膳全日餐厅(上海雅居乐万豪侯爵酒店)",
+      "address": "西藏中路555号上海雅居乐万豪侯爵酒店3楼",
+      "distance": "40m"
+    },
+    {
+      "brand": "竹若·荣越(人民广场店)",
+      "address": "西藏中路555号雅居乐万豪酒店2楼",
+      "distance": "42m"
+    },
+    {
+      "brand": "上海雅居乐万豪侯爵酒店·大堂吧",
+      "address": "西藏中路555号上海雅居乐万豪侯爵酒店1楼(近凤阳路)",
+      "distance": "47m"
+    },
+    {
+      "brand": "麦当劳(雅居乐国际广场餐厅)",
+      "address": "西藏中路 525 号",
+      "distance": "51m"
+    },
+    {
+      "brand": "Geographer地理学家咖啡(牯岭路店)",
+      "address": "西藏中路525号雅居乐国际广场",
+      "distance": "15m"
+    },
+    {
+      "brand": "赛百味 SUBWAY(雅居乐国际广场店)",
+      "address": "西藏中路525号雅居乐国际广场1楼1002",
+      "distance": "17m"
+    },
+    {
+      "brand": "丰收日(人民广场店)",
+      "address": "西藏中路525号雅乐居国际广场4楼",
+      "distance": "24m"
+    },
+    {
+      "brand": "上海雅居乐万豪侯爵酒店·宴会厅",
+      "address": "西藏中路555号上海雅居乐万豪侯爵酒店5层(近新世界百货)",
+      "distance": "29m"
+    },
+    {
+      "brand": "满宝楼中餐厅(上海雅居乐万豪侯爵酒店)",
+      "address": "西藏中路555号上海雅居乐万豪侯爵酒店4层(近新世界百货)",
+      "distance": "30m"
+    },
+    {
+      "brand": "稻三丰时尚自选餐厅(雅居乐国际广场店)",
+      "address": "西藏中路525号雅居乐国际广场1F",
+      "distance": "36m"
+    },
+    {
+      "brand": "都会尚膳全日餐厅(上海雅居乐万豪侯爵酒店)",
+      "address": "西藏中路555号上海雅居乐万豪侯爵酒店3楼",
+      "distance": "40m"
+    },
+    {
+      "brand": "竹若·荣越(人民广场店)",
+      "address": "西藏中路555号雅居乐万豪酒店2楼",
+      "distance": "42m"
+    },
+    {
+      "brand": "上海雅居乐万豪侯爵酒店·大堂吧",
+      "address": "西藏中路555号上海雅居乐万豪侯爵酒店1楼(近凤阳路)",
+      "distance": "47m"
+    },
+    {
+      "brand": "麦当劳(雅居乐国际广场餐厅)",
+      "address": "西藏中路 525 号",
+      "distance": "51m"
+    },
+    {
+      "brand": "Geographer地理学家咖啡(牯岭路店)",
+      "address": "西藏中路525号雅居乐国际广场",
+      "distance": "15m"
+    },
+    {
+      "brand": "赛百味 SUBWAY(雅居乐国际广场店)",
+      "address": "西藏中路525号雅居乐国际广场1楼1002",
+      "distance": "17m"
+    },
+    {
+      "brand": "丰收日(人民广场店)",
+      "address": "西藏中路525号雅乐居国际广场4楼",
+      "distance": "24m"
+    },
+    {
+      "brand": "上海雅居乐万豪侯爵酒店·宴会厅",
+      "address": "西藏中路555号上海雅居乐万豪侯爵酒店5层(近新世界百货)",
+      "distance": "29m"
+    },
+    {
+      "brand": "满宝楼中餐厅(上海雅居乐万豪侯爵酒店)",
+      "address": "西藏中路555号上海雅居乐万豪侯爵酒店4层(近新世界百货)",
+      "distance": "30m"
+    },
+    {
+      "brand": "稻三丰时尚自选餐厅(雅居乐国际广场店)",
+      "address": "西藏中路525号雅居乐国际广场1F",
+      "distance": "36m"
+    },
+    {
+      "brand": "都会尚膳全日餐厅(上海雅居乐万豪侯爵酒店)",
+      "address": "西藏中路555号上海雅居乐万豪侯爵酒店3楼",
+      "distance": "40m"
+    },
+    {
+      "brand": "竹若·荣越(人民广场店)",
+      "address": "西藏中路555号雅居乐万豪酒店2楼",
+      "distance": "42m"
+    },
+    {
+      "brand": "上海雅居乐万豪侯爵酒店·大堂吧",
+      "address": "西藏中路555号上海雅居乐万豪侯爵酒店1楼(近凤阳路)",
+      "distance": "47m"
+    },
+    {
+      "brand": "麦当劳(雅居乐国际广场餐厅)",
+      "address": "西藏中路 525 号",
+      "distance": "51m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海新世界城",
+      "open_date": "1995-12-30",
+      "area": "7万㎡",
+      "jun_daily_avg": "5.7万人次",
+      "weekday_avg": "4.9万人次",
+      "holiday_avg": "8.2万人次"
+    },
+    {
+      "name": "上海第一百货商店",
+      "open_date": "2024-09-30",
+      "area": "2万㎡",
+      "jun_daily_avg": "12.1万人次",
+      "weekday_avg": "10.4万人次",
+      "holiday_avg": "16.7万人次"
+    },
+    {
+      "name": "上海世茂广场",
+      "open_date": "2018-09-28",
+      "area": "5.8万㎡",
+      "jun_daily_avg": "6.6万人次",
+      "weekday_avg": "5.6万人次",
+      "holiday_avg": "9.5万人次"
+    },
+    {
+      "name": "上海世茂52+",
+      "open_date": "2010-01-01",
+      "area": "1.5万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海永安百货",
+      "open_date": "2020-01-01",
+      "area": "1.5万㎡",
+      "jun_daily_avg": "1.3万人次",
+      "weekday_avg": "1.1万人次",
+      "holiday_avg": "1.7万人次"
+    },
+    {
+      "name": "上海来福士广场",
+      "open_date": "2003-11-01",
+      "area": "4.6万㎡",
+      "jun_daily_avg": "2.7万人次",
+      "weekday_avg": "2.4万人次",
+      "holiday_avg": "3.3万人次"
+    },
+    {
+      "name": "上海阳光商厦",
+      "open_date": "-",
+      "area": "-",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海仙乐斯广场",
+      "open_date": "2001",
+      "area": "2.3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海U479",
+      "open_date": "2021-06-01",
+      "area": "1万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海静安大悦城",
+      "open_date": "2010-12-28",
+      "area": "12万㎡",
+      "jun_daily_avg": "5.9万人次",
+      "weekday_avg": "4.9万人次",
+      "holiday_avg": "8.6万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 22.0,
+      "within_1yr_pct": 22.7,
+      "1_3yr_pct": 45.5,
+      "over_3yr_pct": 31.8
+    },
+    {
+      "type": "购物",
+      "count": 4.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 3.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "教育培训",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 4.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "生活服务",
+      "count": 4.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "运动健身",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 4.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 25.0
+    }
+  ]
+}

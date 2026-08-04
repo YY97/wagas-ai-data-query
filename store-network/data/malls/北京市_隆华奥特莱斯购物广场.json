@@ -1,0 +1,198 @@
+{
+  "name": "隆华奥特莱斯购物广场",
+  "city": "北京市",
+  "address": "上海市嘉定区真新街道伟殳家居上海市轻纺市场",
+  "lat": null,
+  "lng": null,
+  "overview": {
+    "score": 86.0,
+    "score_rank": "市内前30%",
+    "population_score": 95.1,
+    "area_score": 88.6,
+    "consumption_score": 70.9,
+    "industry_score": 86.0,
+    "annual_sales": "",
+    "annual_sales_unit": "",
+    "area_size_sqm": null,
+    "open_date": "",
+    "operator": "",
+    "brand": "",
+    "type": "",
+    "floors": ""
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "",
+    "annual_daily_rank": "",
+    "jun_total": null,
+    "jun_total_rank": "",
+    "jun_daily_avg": null,
+    "jun_daily_unit": "",
+    "jun_daily_rank": "",
+    "weekday_avg": null,
+    "weekday_unit": "",
+    "weekday_rank": "",
+    "holiday_avg": null,
+    "holiday_unit": "",
+    "holiday_rank": ""
+  },
+  "population": {
+    "residential": {
+      "500m": 3.0,
+      "1_5km": 22.8,
+      "3km": 65.4
+    },
+    "office": {
+      "500m": 1.8,
+      "1_5km": 8.8,
+      "3km": 34.2
+    },
+    "permanent": {
+      "500m": 3.0,
+      "1_5km": 22.5,
+      "3km": 65.5
+    }
+  },
+  "business": {
+    "competitors": 1.0,
+    "food": 202.0,
+    "shopping": 350.0,
+    "leisure": 19.0,
+    "education": 10.0,
+    "hotel": 35.0,
+    "services": 101.0,
+    "fitness": 6.0,
+    "auto": 42.0,
+    "total_stores": 765.0,
+    "old_store_3yr_pct": 48.0
+  },
+  "nearby_poi": {
+    "business": 4.0,
+    "community": 243.0,
+    "office": 36.0,
+    "school": 22.0,
+    "hospital": 44.0,
+    "transport": 17.0,
+    "scenic": 74.0
+  },
+  "demographics": {
+    "male_pct": 47.5,
+    "female_pct": null,
+    "education": {
+      "小学": 10.2,
+      "初中": 18.9,
+      "高中": 11.6,
+      "大专": 8.7,
+      "本科": 46.1,
+      "硕士": 3.4,
+      "博士": 1.1
+    },
+    "has_children_pct": null,
+    "no_children_pct": null
+  },
+  "scraped_at": "2026-08-01T18:33:41.243Z",
+  "nearby_restaurants": [
+    {
+      "brand": "凤灵凰(丰庄店)",
+      "address": "丰庄北路375弄-9",
+      "distance": "497m"
+    },
+    {
+      "brand": "老上海馄饨铺(丰庄路店)",
+      "address": "丰庄路521号民生银行旁老上海馄饨铺",
+      "distance": "498m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海盈嘉生活广场",
+      "open_date": "2013-01-01",
+      "area": "2.5万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "好乐广场",
+      "open_date": "2023-09-28",
+      "area": "3.8万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海丰庄茶城",
+      "open_date": "2011-09-18",
+      "area": "1.5万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海金鼎悦乐坊",
+      "open_date": "2014-07-10",
+      "area": "2.4万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 202.0,
+      "within_1yr_pct": 31.7,
+      "1_3yr_pct": 22.8,
+      "over_3yr_pct": 45.5
+    },
+    {
+      "type": "购物",
+      "count": 350.0,
+      "within_1yr_pct": 34.3,
+      "1_3yr_pct": 16.3,
+      "over_3yr_pct": 49.4
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 19.0,
+      "within_1yr_pct": 26.3,
+      "1_3yr_pct": 26.3,
+      "over_3yr_pct": 47.4
+    },
+    {
+      "type": "教育培训",
+      "count": 10.0,
+      "within_1yr_pct": 40.0,
+      "1_3yr_pct": 20.0,
+      "over_3yr_pct": 40.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 35.0,
+      "within_1yr_pct": 14.3,
+      "1_3yr_pct": 25.7,
+      "over_3yr_pct": 60.0
+    },
+    {
+      "type": "生活服务",
+      "count": 101.0,
+      "within_1yr_pct": 21.8,
+      "1_3yr_pct": 31.7,
+      "over_3yr_pct": 46.5
+    },
+    {
+      "type": "运动健身",
+      "count": 6.0,
+      "within_1yr_pct": 16.7,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 42.0,
+      "within_1yr_pct": 21.4,
+      "1_3yr_pct": 31.0,
+      "over_3yr_pct": 47.6
+    }
+  ]
+}

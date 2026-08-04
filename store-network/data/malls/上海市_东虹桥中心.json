@@ -1,0 +1,192 @@
+{
+  "name": "东虹桥中心",
+  "city": "上海市",
+  "address": "上海市长宁区友乐路28号",
+  "lat": 31.19519,
+  "lng": 121.35282,
+  "overview": {
+    "score": 78.6,
+    "score_rank": "市内前30%",
+    "population_score": 61.9,
+    "area_score": 62.3,
+    "consumption_score": 87.2,
+    "industry_score": 78.7,
+    "annual_sales": "东虹桥中心位于虹桥国际中央商务区长宁片区的首发项目，是一个集商业、办公、休闲景观于一体的产城社区项目整体按照国家“三星绿色建筑”及PM2.5认证标准设计打造，且办公4号楼已获得国际LEED金级认证商业区融合了室内小型商业体与室外敞开下沉式广场，旨在打造差异化的商业新范式",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 4.52,
+    "open_date": "2022-11-25",
+    "operator": "招商局蛇口工业区控股股份有限公司",
+    "brand": "",
+    "type": "综合型",
+    "floors": "B2-L3"
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "-",
+    "annual_daily_rank": "",
+    "jun_total": 7.2,
+    "jun_total_rank": "市内商场第519名",
+    "jun_daily_avg": 2415.0,
+    "jun_daily_unit": "人次",
+    "jun_daily_rank": "市内商场第519名",
+    "weekday_avg": 2727.0,
+    "weekday_unit": "人次",
+    "weekday_rank": "市内商场第498名",
+    "holiday_avg": 1549.0,
+    "holiday_unit": "人次",
+    "holiday_rank": "市内商场第560名"
+  },
+  "population": {
+    "residential": {
+      "500m": 1700.0,
+      "1_5km": 5.7,
+      "3km": 41.6
+    },
+    "office": {
+      "500m": 8300.0,
+      "1_5km": 3.8,
+      "3km": 25.5
+    },
+    "permanent": {
+      "500m": 1800.0,
+      "1_5km": 9.3,
+      "3km": 46.0
+    }
+  },
+  "business": {
+    "competitors": 2.0,
+    "food": 27.0,
+    "shopping": 5.0,
+    "leisure": 3.0,
+    "education": 1.0,
+    "hotel": 7.0,
+    "services": 4.0,
+    "fitness": 6.0,
+    "auto": 14.0,
+    "total_stores": 33.0,
+    "old_store_3yr_pct": 45.0
+  },
+  "nearby_poi": {
+    "business": 1.0,
+    "community": 308.0,
+    "office": 12.0,
+    "school": 7.0,
+    "hospital": 29.0,
+    "transport": 1.0,
+    "scenic": 176.0
+  },
+  "demographics": {
+    "male_pct": 45.7,
+    "female_pct": null,
+    "education": {
+      "小学": 9.2,
+      "初中": 16.8,
+      "高中": 11.0,
+      "大专": 7.3,
+      "本科": 48.8,
+      "硕士": 5.2,
+      "博士": 1.7
+    },
+    "has_children_pct": 58.1,
+    "no_children_pct": 41.9
+  },
+  "scraped_at": "2026-08-02T03:56:56.227Z",
+  "nearby_restaurants": [
+    {
+      "brand": "御玺中餐厅(虹桥国际机场T1希尔顿酒店)",
+      "address": "云纱路与空港三路交叉口西南220米",
+      "distance": "416m"
+    },
+    {
+      "brand": "思SiLK(虹桥国际机场T1希尔顿酒店)",
+      "address": "云纱路与空港三路交叉口西南220米",
+      "distance": "418m"
+    },
+    {
+      "brand": "厨艺kitchen craft(虹桥国际机场T1希尔顿酒店)",
+      "address": "云纱路与空港三路交叉口西南220米",
+      "distance": "428m"
+    },
+    {
+      "brand": "MAPOLY COFFEE满坡栗咖啡(春秋航空总部办公楼店)",
+      "address": "虹桥路2599号春秋航空总部办公楼F1层",
+      "distance": "430m"
+    },
+    {
+      "brand": "T9 PREMIUM TEA(上海虹桥国际机场1号航站楼店)",
+      "address": "华漕镇虹桥国际机场T1港澳台出发禁区l112A店(靠近T02号登机口)",
+      "distance": "485m"
+    },
+    {
+      "brand": "杨国福麻辣烫",
+      "address": "上海虹桥国际机场1号航站楼A007-1",
+      "distance": "492m"
+    },
+    {
+      "brand": "Ramen满吉·日式拉面",
+      "address": "迎宾一路800号T1航站楼港澳台出发I-207",
+      "distance": "492m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海福缘湾九华商业广场",
+      "open_date": "2016-01-01",
+      "area": "2.3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 16.0,
+      "within_1yr_pct": 12.5,
+      "1_3yr_pct": 37.5,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "购物",
+      "count": 3.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 33.3
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 2.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "教育培训",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "生活服务",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    },
+    {
+      "type": "运动健身",
+      "count": 4.0,
+      "within_1yr_pct": 75.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 25.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 6.0,
+      "within_1yr_pct": 16.7,
+      "1_3yr_pct": 16.7,
+      "over_3yr_pct": 66.7
+    }
+  ]
+}

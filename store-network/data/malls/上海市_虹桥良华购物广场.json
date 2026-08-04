@@ -1,0 +1,446 @@
+{
+  "name": "虹桥良华购物广场",
+  "city": "上海市",
+  "address": "上海市闵行区申滨路990号",
+  "lat": 31.209413,
+  "lng": 121.308423,
+  "overview": {
+    "score": 92.0,
+    "score_rank": "市内前30%",
+    "population_score": 98.4,
+    "area_score": 69.2,
+    "consumption_score": 69.9,
+    "industry_score": 92.1,
+    "annual_sales": "虹桥良华购物广场位于闵行区申滨路宁虹路，作为虹桥交通综合枢纽的商业配套工程，是政府鼎立打造大虹桥主体功能区内的商圈龙头总建筑面积10.6万平方米，借鉴国际先进的建筑理念及全新的商业地产开发模式，以绝佳的空间配比再现了商业形态的完美组合整体规划有星级商务酒店、综合卖场、百货主力店、零售专卖店、大型餐饮等，是集酒店、购物、休闲、娱乐于一体的一站式时尚购物大型主题商业中心随着大虹桥主体功能区规划的相继明确，本超前的商业定位既填补了该地区商业市场的空白，也为人们带来了一种全新的生活消费模式位于上海虹桥综合交通枢纽区域内，距离虹桥枢纽中心和虹桥商务区800米，西区总建筑面积约6.4万平方米通过城市更新盘活闲置资产，打造以高品质公寓、共享社区、配套商业为主的多业态融合街区",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 10.6,
+    "open_date": "2014-04-12",
+    "operator": "上海良华科技发展有限公司",
+    "brand": "",
+    "type": "美食型",
+    "floors": "B1-L4"
+  },
+  "traffic": {
+    "annual_daily": 1.18,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第221",
+    "jun_total": 38.6,
+    "jun_total_rank": "市内商场第256名",
+    "jun_daily_avg": 1.3,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第256名",
+    "weekday_avg": 1.2,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第248名",
+    "holiday_avg": 1.4,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第261名"
+  },
+  "population": {
+    "residential": {
+      "500m": 3.6,
+      "1_5km": 12.7,
+      "3km": 35.1
+    },
+    "office": {
+      "500m": 1.1,
+      "1_5km": 7.9,
+      "3km": 23.7
+    },
+    "permanent": {
+      "500m": 3.0,
+      "1_5km": 11.4,
+      "3km": 40.6
+    }
+  },
+  "business": {
+    "competitors": 2.0,
+    "food": 130.0,
+    "shopping": 51.0,
+    "leisure": 15.0,
+    "education": 5.0,
+    "hotel": 64.0,
+    "services": 76.0,
+    "fitness": 14.0,
+    "auto": 14.0,
+    "total_stores": 136.0,
+    "old_store_3yr_pct": 42.0
+  },
+  "nearby_poi": {
+    "business": 5.0,
+    "community": 130.0,
+    "office": 43.0,
+    "school": 14.0,
+    "hospital": 38.0,
+    "transport": 9.0,
+    "scenic": 41.0
+  },
+  "demographics": {
+    "male_pct": 51.9,
+    "female_pct": null,
+    "education": {
+      "小学": 9.8,
+      "初中": 18.3,
+      "高中": 11.8,
+      "大专": 10.1,
+      "本科": 45.3,
+      "硕士": 3.9,
+      "博士": 0.8
+    },
+    "has_children_pct": 65.9,
+    "no_children_pct": 34.1
+  },
+  "scraped_at": "2026-08-01T06:21:00.966Z",
+  "nearby_restaurants": [
+    {
+      "brand": "365工作快餐(虹桥良华购物广场店)",
+      "address": "申滨路960号虹桥良华购物广场F2层",
+      "distance": "2m"
+    },
+    {
+      "brand": "泰匆匆流汁咖喱滑蛋饭",
+      "address": "虹桥良华购物广场",
+      "distance": "3m"
+    },
+    {
+      "brand": "潇湘记(虹桥良华购物广场店)",
+      "address": "申滨路960号5幢层960号2F01室(三号客梯直达)",
+      "distance": "5m"
+    },
+    {
+      "brand": "蚝福记烧烤(虹桥良华购物广场店)",
+      "address": "申滨路960号",
+      "distance": "6m"
+    },
+    {
+      "brand": "金爪门(良华广场店)",
+      "address": "虹桥良华购物广场",
+      "distance": "6m"
+    },
+    {
+      "brand": "极味肥牛饭·炸鸡饭",
+      "address": "新虹街道申滨路960号虹桥良华购物广场2层22号商铺",
+      "distance": "6m"
+    },
+    {
+      "brand": "紫燕百味鸡(上海爱博家园店)",
+      "address": "申滨路960号虹桥良华购物广场F1",
+      "distance": "7m"
+    },
+    {
+      "brand": "精悦荟(虹桥良华购物广场店)",
+      "address": "申滨路与宁虹路交叉口北80米",
+      "distance": "8m"
+    },
+    {
+      "brand": "一碗香麻辣香锅",
+      "address": "申滨路与宁虹路交叉口北80米",
+      "distance": "8m"
+    },
+    {
+      "brand": "叶美丽的老公是厨师",
+      "address": "申滨路与宁虹路交叉口东北80米",
+      "distance": "11m"
+    },
+    {
+      "brand": "365工作快餐(虹桥良华购物广场店)",
+      "address": "申滨路960号虹桥良华购物广场F2层",
+      "distance": "2m"
+    },
+    {
+      "brand": "泰匆匆流汁咖喱滑蛋饭",
+      "address": "虹桥良华购物广场",
+      "distance": "3m"
+    },
+    {
+      "brand": "潇湘记(虹桥良华购物广场店)",
+      "address": "申滨路960号5幢层960号2F01室(三号客梯直达)",
+      "distance": "5m"
+    },
+    {
+      "brand": "蚝福记烧烤(虹桥良华购物广场店)",
+      "address": "申滨路960号",
+      "distance": "6m"
+    },
+    {
+      "brand": "金爪门(良华广场店)",
+      "address": "虹桥良华购物广场",
+      "distance": "6m"
+    },
+    {
+      "brand": "极味肥牛饭·炸鸡饭",
+      "address": "新虹街道申滨路960号虹桥良华购物广场2层22号商铺",
+      "distance": "6m"
+    },
+    {
+      "brand": "紫燕百味鸡(上海爱博家园店)",
+      "address": "申滨路960号虹桥良华购物广场F1",
+      "distance": "7m"
+    },
+    {
+      "brand": "精悦荟(虹桥良华购物广场店)",
+      "address": "申滨路与宁虹路交叉口北80米",
+      "distance": "8m"
+    },
+    {
+      "brand": "一碗香麻辣香锅",
+      "address": "申滨路与宁虹路交叉口北80米",
+      "distance": "8m"
+    },
+    {
+      "brand": "叶美丽的老公是厨师",
+      "address": "申滨路与宁虹路交叉口东北80米",
+      "distance": "11m"
+    },
+    {
+      "brand": "365工作快餐(虹桥良华购物广场店)",
+      "address": "申滨路960号虹桥良华购物广场F2层",
+      "distance": "2m"
+    },
+    {
+      "brand": "泰匆匆流汁咖喱滑蛋饭",
+      "address": "虹桥良华购物广场",
+      "distance": "3m"
+    },
+    {
+      "brand": "潇湘记(虹桥良华购物广场店)",
+      "address": "申滨路960号5幢层960号2F01室(三号客梯直达)",
+      "distance": "5m"
+    },
+    {
+      "brand": "蚝福记烧烤(虹桥良华购物广场店)",
+      "address": "申滨路960号",
+      "distance": "6m"
+    },
+    {
+      "brand": "金爪门(良华广场店)",
+      "address": "虹桥良华购物广场",
+      "distance": "6m"
+    },
+    {
+      "brand": "极味肥牛饭·炸鸡饭",
+      "address": "新虹街道申滨路960号虹桥良华购物广场2层22号商铺",
+      "distance": "6m"
+    },
+    {
+      "brand": "紫燕百味鸡(上海爱博家园店)",
+      "address": "申滨路960号虹桥良华购物广场F1",
+      "distance": "7m"
+    },
+    {
+      "brand": "精悦荟(虹桥良华购物广场店)",
+      "address": "申滨路与宁虹路交叉口北80米",
+      "distance": "8m"
+    },
+    {
+      "brand": "一碗香麻辣香锅",
+      "address": "申滨路与宁虹路交叉口北80米",
+      "distance": "8m"
+    },
+    {
+      "brand": "叶美丽的老公是厨师",
+      "address": "申滨路与宁虹路交叉口东北80米",
+      "distance": "11m"
+    },
+    {
+      "brand": "365工作快餐(虹桥良华购物广场店)",
+      "address": "申滨路960号虹桥良华购物广场F2层",
+      "distance": "2m"
+    },
+    {
+      "brand": "泰匆匆流汁咖喱滑蛋饭",
+      "address": "虹桥良华购物广场",
+      "distance": "3m"
+    },
+    {
+      "brand": "潇湘记(虹桥良华购物广场店)",
+      "address": "申滨路960号5幢层960号2F01室(三号客梯直达)",
+      "distance": "5m"
+    },
+    {
+      "brand": "蚝福记烧烤(虹桥良华购物广场店)",
+      "address": "申滨路960号",
+      "distance": "6m"
+    },
+    {
+      "brand": "金爪门(良华广场店)",
+      "address": "虹桥良华购物广场",
+      "distance": "6m"
+    },
+    {
+      "brand": "极味肥牛饭·炸鸡饭",
+      "address": "新虹街道申滨路960号虹桥良华购物广场2层22号商铺",
+      "distance": "6m"
+    },
+    {
+      "brand": "紫燕百味鸡(上海爱博家园店)",
+      "address": "申滨路960号虹桥良华购物广场F1",
+      "distance": "7m"
+    },
+    {
+      "brand": "精悦荟(虹桥良华购物广场店)",
+      "address": "申滨路与宁虹路交叉口北80米",
+      "distance": "8m"
+    },
+    {
+      "brand": "一碗香麻辣香锅",
+      "address": "申滨路与宁虹路交叉口北80米",
+      "distance": "8m"
+    },
+    {
+      "brand": "叶美丽的老公是厨师",
+      "address": "申滨路与宁虹路交叉口东北80米",
+      "distance": "11m"
+    },
+    {
+      "brand": "365工作快餐(虹桥良华购物广场店)",
+      "address": "申滨路960号虹桥良华购物广场F2层",
+      "distance": "2m"
+    },
+    {
+      "brand": "泰匆匆流汁咖喱滑蛋饭",
+      "address": "虹桥良华购物广场",
+      "distance": "3m"
+    },
+    {
+      "brand": "潇湘记(虹桥良华购物广场店)",
+      "address": "申滨路960号5幢层960号2F01室(三号客梯直达)",
+      "distance": "5m"
+    },
+    {
+      "brand": "蚝福记烧烤(虹桥良华购物广场店)",
+      "address": "申滨路960号",
+      "distance": "6m"
+    },
+    {
+      "brand": "金爪门(良华广场店)",
+      "address": "虹桥良华购物广场",
+      "distance": "6m"
+    },
+    {
+      "brand": "极味肥牛饭·炸鸡饭",
+      "address": "新虹街道申滨路960号虹桥良华购物广场2层22号商铺",
+      "distance": "6m"
+    },
+    {
+      "brand": "紫燕百味鸡(上海爱博家园店)",
+      "address": "申滨路960号虹桥良华购物广场F1",
+      "distance": "7m"
+    },
+    {
+      "brand": "精悦荟(虹桥良华购物广场店)",
+      "address": "申滨路与宁虹路交叉口北80米",
+      "distance": "8m"
+    },
+    {
+      "brand": "一碗香麻辣香锅",
+      "address": "申滨路与宁虹路交叉口北80米",
+      "distance": "8m"
+    },
+    {
+      "brand": "叶美丽的老公是厨师",
+      "address": "申滨路与宁虹路交叉口东北80米",
+      "distance": "11m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海虹顺商业广场",
+      "open_date": "-",
+      "area": "-",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海虹桥阿里中心",
+      "open_date": "2019-05-10",
+      "area": "2.1万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海新华联国际中心",
+      "open_date": "2016-11-19",
+      "area": "2.3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海虹桥丽宝乐园",
+      "open_date": "2019-09-13",
+      "area": "7万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海华漕绿地旭辉U天地",
+      "open_date": "2015-10-01",
+      "area": "3.6万㎡",
+      "jun_daily_avg": "1.4万人次",
+      "weekday_avg": "1.3万人次",
+      "holiday_avg": "1.5万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 70.0,
+      "within_1yr_pct": 41.4,
+      "1_3yr_pct": 25.7,
+      "over_3yr_pct": 32.9
+    },
+    {
+      "type": "购物",
+      "count": 16.0,
+      "within_1yr_pct": 18.8,
+      "1_3yr_pct": 18.8,
+      "over_3yr_pct": 62.5
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 8.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "教育培训",
+      "count": 4.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 25.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "生活服务",
+      "count": 32.0,
+      "within_1yr_pct": 15.6,
+      "1_3yr_pct": 34.4,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "运动健身",
+      "count": 3.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 66.7
+    },
+    {
+      "type": "车辆服务",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
+    }
+  ]
+}

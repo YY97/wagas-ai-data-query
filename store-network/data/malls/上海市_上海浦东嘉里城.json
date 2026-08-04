@@ -1,0 +1,454 @@
+{
+  "name": "上海浦东嘉里城",
+  "city": "上海市",
+  "address": "上海市浦东新区芳甸路1555号",
+  "lat": 31.212791,
+  "lng": 121.563459,
+  "overview": {
+    "score": 92.0,
+    "score_rank": "市内前30%",
+    "population_score": 65.1,
+    "area_score": 70.5,
+    "consumption_score": 88.2,
+    "industry_score": 92.2,
+    "annual_sales": "浦东嘉里城是一座集商场、五星级酒店、服务式公寓和甲级写字楼为一体的现代商业中心，与上海新国际博览中心直接相连，地铁7号线与商场直接相连，磁悬浮、高架内环近在咫尺，交通四通八达",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 4.5,
+    "open_date": "2011-01-01",
+    "operator": "嘉里建设有限公司",
+    "brand": "嘉里建设有限公司",
+    "type": "综合型",
+    "floors": "B1-L2"
+  },
+  "traffic": {
+    "annual_daily": 3.63,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第61",
+    "jun_total": 190.4,
+    "jun_total_rank": "市内商场第38名",
+    "jun_daily_avg": 6.3,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第38名",
+    "weekday_avg": 7.1,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第16名",
+    "holiday_avg": 4.3,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第109名"
+  },
+  "population": {
+    "residential": {
+      "500m": 4300.0,
+      "1_5km": 5.4,
+      "3km": 36.5
+    },
+    "office": {
+      "500m": 1.3,
+      "1_5km": 4.5,
+      "3km": 31.1
+    },
+    "permanent": {
+      "500m": 1.0,
+      "1_5km": 7.4,
+      "3km": 38.4
+    }
+  },
+  "business": {
+    "competitors": 7.0,
+    "food": 110.0,
+    "shopping": 129.0,
+    "leisure": 3.0,
+    "education": 12.0,
+    "hotel": 11.0,
+    "services": 59.0,
+    "fitness": 19.0,
+    "auto": 9.0,
+    "total_stores": 134.0,
+    "old_store_3yr_pct": 55.0
+  },
+  "nearby_poi": {
+    "business": 6.0,
+    "community": 247.0,
+    "office": 14.0,
+    "school": 9.0,
+    "hospital": 46.0,
+    "transport": 6.0,
+    "scenic": 143.0
+  },
+  "demographics": {
+    "male_pct": 52.8,
+    "female_pct": null,
+    "education": {
+      "小学": 8.7,
+      "初中": 15.8,
+      "高中": 10.3,
+      "大专": 6.2,
+      "本科": 47.8,
+      "硕士": 9.2,
+      "博士": 2.0
+    },
+    "has_children_pct": 57.6,
+    "no_children_pct": 42.4
+  },
+  "scraped_at": "2026-07-31T16:50:44.990Z",
+  "nearby_restaurants": [
+    {
+      "brand": "楼下酸奶(浦东嘉里城店)",
+      "address": "芳甸路1555号浦东嘉里城购物中心2层L229C(西西弗书店直行50米)",
+      "distance": "5m"
+    },
+    {
+      "brand": "DQ·蛋糕·冰淇淋(浦东嘉里大酒店厨餐厅店)",
+      "address": "花木街道花木路号浦东嘉里大酒店(一层Cook厨餐厅露台)的",
+      "distance": "8m"
+    },
+    {
+      "brand": "The COOK 厨餐厅自助餐(浦东嘉里大酒店)",
+      "address": "花木路1388号浦东嘉里大酒店1楼(地铁站1口步行50米)",
+      "distance": "15m"
+    },
+    {
+      "brand": "CoOK(浦东嘉里城店)",
+      "address": "芳甸路1155号浦东嘉里城购物中心F1层",
+      "distance": "16m"
+    },
+    {
+      "brand": "阿拉比卡咖啡",
+      "address": "芳甸路与花木路交叉口东南200米",
+      "distance": "19m"
+    },
+    {
+      "brand": "FATPHO大發越南粉(上海浦东嘉里城店)(暂停营业)",
+      "address": "花木路1378号浦东嘉里城B107室",
+      "distance": "20m"
+    },
+    {
+      "brand": "The Market Lane(嘉里城广场店)",
+      "address": "芳甸路1155号浦东嘉里城购物中心F2层",
+      "distance": "27m"
+    },
+    {
+      "brand": "野选·光庭-中式自然料理(浦东嘉里城店)",
+      "address": "花木路1378号浦东嘉里城1层L131a商铺",
+      "distance": "28m"
+    },
+    {
+      "brand": "浦东嘉里大酒店The MEAT扒餐厅",
+      "address": "花木路1388号浦东嘉里大酒店1层",
+      "distance": "35m"
+    },
+    {
+      "brand": "O'MILLS(浦东嘉里城店)",
+      "address": "花木路1378号浦东嘉里城L1层",
+      "distance": "37m"
+    },
+    {
+      "brand": "楼下酸奶(浦东嘉里城店)",
+      "address": "芳甸路1555号浦东嘉里城购物中心2层L229C(西西弗书店直行50米)",
+      "distance": "5m"
+    },
+    {
+      "brand": "DQ·蛋糕·冰淇淋(浦东嘉里大酒店厨餐厅店)",
+      "address": "花木街道花木路号浦东嘉里大酒店(一层Cook厨餐厅露台)的",
+      "distance": "8m"
+    },
+    {
+      "brand": "The COOK 厨餐厅自助餐(浦东嘉里大酒店)",
+      "address": "花木路1388号浦东嘉里大酒店1楼(地铁站1口步行50米)",
+      "distance": "15m"
+    },
+    {
+      "brand": "CoOK(浦东嘉里城店)",
+      "address": "芳甸路1155号浦东嘉里城购物中心F1层",
+      "distance": "16m"
+    },
+    {
+      "brand": "阿拉比卡咖啡",
+      "address": "芳甸路与花木路交叉口东南200米",
+      "distance": "19m"
+    },
+    {
+      "brand": "FATPHO大發越南粉(上海浦东嘉里城店)(暂停营业)",
+      "address": "花木路1378号浦东嘉里城B107室",
+      "distance": "20m"
+    },
+    {
+      "brand": "The Market Lane(嘉里城广场店)",
+      "address": "芳甸路1155号浦东嘉里城购物中心F2层",
+      "distance": "27m"
+    },
+    {
+      "brand": "野选·光庭-中式自然料理(浦东嘉里城店)",
+      "address": "花木路1378号浦东嘉里城1层L131a商铺",
+      "distance": "28m"
+    },
+    {
+      "brand": "浦东嘉里大酒店The MEAT扒餐厅",
+      "address": "花木路1388号浦东嘉里大酒店1层",
+      "distance": "35m"
+    },
+    {
+      "brand": "O'MILLS(浦东嘉里城店)",
+      "address": "花木路1378号浦东嘉里城L1层",
+      "distance": "37m"
+    },
+    {
+      "brand": "楼下酸奶(浦东嘉里城店)",
+      "address": "芳甸路1555号浦东嘉里城购物中心2层L229C(西西弗书店直行50米)",
+      "distance": "5m"
+    },
+    {
+      "brand": "DQ·蛋糕·冰淇淋(浦东嘉里大酒店厨餐厅店)",
+      "address": "花木街道花木路号浦东嘉里大酒店(一层Cook厨餐厅露台)的",
+      "distance": "8m"
+    },
+    {
+      "brand": "The COOK 厨餐厅自助餐(浦东嘉里大酒店)",
+      "address": "花木路1388号浦东嘉里大酒店1楼(地铁站1口步行50米)",
+      "distance": "15m"
+    },
+    {
+      "brand": "CoOK(浦东嘉里城店)",
+      "address": "芳甸路1155号浦东嘉里城购物中心F1层",
+      "distance": "16m"
+    },
+    {
+      "brand": "阿拉比卡咖啡",
+      "address": "芳甸路与花木路交叉口东南200米",
+      "distance": "19m"
+    },
+    {
+      "brand": "FATPHO大發越南粉(上海浦东嘉里城店)(暂停营业)",
+      "address": "花木路1378号浦东嘉里城B107室",
+      "distance": "20m"
+    },
+    {
+      "brand": "The Market Lane(嘉里城广场店)",
+      "address": "芳甸路1155号浦东嘉里城购物中心F2层",
+      "distance": "27m"
+    },
+    {
+      "brand": "野选·光庭-中式自然料理(浦东嘉里城店)",
+      "address": "花木路1378号浦东嘉里城1层L131a商铺",
+      "distance": "28m"
+    },
+    {
+      "brand": "浦东嘉里大酒店The MEAT扒餐厅",
+      "address": "花木路1388号浦东嘉里大酒店1层",
+      "distance": "35m"
+    },
+    {
+      "brand": "O'MILLS(浦东嘉里城店)",
+      "address": "花木路1378号浦东嘉里城L1层",
+      "distance": "37m"
+    },
+    {
+      "brand": "楼下酸奶(浦东嘉里城店)",
+      "address": "芳甸路1555号浦东嘉里城购物中心2层L229C(西西弗书店直行50米)",
+      "distance": "5m"
+    },
+    {
+      "brand": "DQ·蛋糕·冰淇淋(浦东嘉里大酒店厨餐厅店)",
+      "address": "花木街道花木路号浦东嘉里大酒店(一层Cook厨餐厅露台)的",
+      "distance": "8m"
+    },
+    {
+      "brand": "The COOK 厨餐厅自助餐(浦东嘉里大酒店)",
+      "address": "花木路1388号浦东嘉里大酒店1楼(地铁站1口步行50米)",
+      "distance": "15m"
+    },
+    {
+      "brand": "CoOK(浦东嘉里城店)",
+      "address": "芳甸路1155号浦东嘉里城购物中心F1层",
+      "distance": "16m"
+    },
+    {
+      "brand": "阿拉比卡咖啡",
+      "address": "芳甸路与花木路交叉口东南200米",
+      "distance": "19m"
+    },
+    {
+      "brand": "FATPHO大發越南粉(上海浦东嘉里城店)(暂停营业)",
+      "address": "花木路1378号浦东嘉里城B107室",
+      "distance": "20m"
+    },
+    {
+      "brand": "The Market Lane(嘉里城广场店)",
+      "address": "芳甸路1155号浦东嘉里城购物中心F2层",
+      "distance": "27m"
+    },
+    {
+      "brand": "野选·光庭-中式自然料理(浦东嘉里城店)",
+      "address": "花木路1378号浦东嘉里城1层L131a商铺",
+      "distance": "28m"
+    },
+    {
+      "brand": "浦东嘉里大酒店The MEAT扒餐厅",
+      "address": "花木路1388号浦东嘉里大酒店1层",
+      "distance": "35m"
+    },
+    {
+      "brand": "O'MILLS(浦东嘉里城店)",
+      "address": "花木路1378号浦东嘉里城L1层",
+      "distance": "37m"
+    },
+    {
+      "brand": "楼下酸奶(浦东嘉里城店)",
+      "address": "芳甸路1555号浦东嘉里城购物中心2层L229C(西西弗书店直行50米)",
+      "distance": "5m"
+    },
+    {
+      "brand": "DQ·蛋糕·冰淇淋(浦东嘉里大酒店厨餐厅店)",
+      "address": "花木街道花木路号浦东嘉里大酒店(一层Cook厨餐厅露台)的",
+      "distance": "8m"
+    },
+    {
+      "brand": "The COOK 厨餐厅自助餐(浦东嘉里大酒店)",
+      "address": "花木路1388号浦东嘉里大酒店1楼(地铁站1口步行50米)",
+      "distance": "15m"
+    },
+    {
+      "brand": "CoOK(浦东嘉里城店)",
+      "address": "芳甸路1155号浦东嘉里城购物中心F1层",
+      "distance": "16m"
+    },
+    {
+      "brand": "阿拉比卡咖啡",
+      "address": "芳甸路与花木路交叉口东南200米",
+      "distance": "19m"
+    },
+    {
+      "brand": "FATPHO大發越南粉(上海浦东嘉里城店)(暂停营业)",
+      "address": "花木路1378号浦东嘉里城B107室",
+      "distance": "20m"
+    },
+    {
+      "brand": "The Market Lane(嘉里城广场店)",
+      "address": "芳甸路1155号浦东嘉里城购物中心F2层",
+      "distance": "27m"
+    },
+    {
+      "brand": "野选·光庭-中式自然料理(浦东嘉里城店)",
+      "address": "花木路1378号浦东嘉里城1层L131a商铺",
+      "distance": "28m"
+    },
+    {
+      "brand": "浦东嘉里大酒店The MEAT扒餐厅",
+      "address": "花木路1388号浦东嘉里大酒店1层",
+      "distance": "35m"
+    },
+    {
+      "brand": "O'MILLS(浦东嘉里城店)",
+      "address": "花木路1378号浦东嘉里城L1层",
+      "distance": "37m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "博览汇广场",
+      "open_date": "2011-08-01",
+      "area": "-",
+      "jun_daily_avg": "4万人次",
+      "weekday_avg": "3.9万人次",
+      "holiday_avg": "4万人次"
+    },
+    {
+      "name": "上海Plus乐坊",
+      "open_date": "2016-07-11",
+      "area": "1.1万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海云汇天地",
+      "open_date": "2021-09-30",
+      "area": "5万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海龙阳广场",
+      "open_date": "2013-03-10",
+      "area": "4万㎡",
+      "jun_daily_avg": "4万人次",
+      "weekday_avg": "3.9万人次",
+      "holiday_avg": "4万人次"
+    },
+    {
+      "name": "上海联洋广场",
+      "open_date": "2008-12-24",
+      "area": "5.8万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海浦东大拇指广场",
+      "open_date": "2005-03-01",
+      "area": "11万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 33.0,
+      "within_1yr_pct": 6.1,
+      "1_3yr_pct": 24.2,
+      "over_3yr_pct": 69.7
+    },
+    {
+      "type": "购物",
+      "count": 70.0,
+      "within_1yr_pct": 14.3,
+      "1_3yr_pct": 38.6,
+      "over_3yr_pct": 47.1
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 4.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "教育培训",
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 5.0,
+      "within_1yr_pct": 40.0,
+      "1_3yr_pct": 40.0,
+      "over_3yr_pct": 20.0
+    },
+    {
+      "type": "生活服务",
+      "count": 14.0,
+      "within_1yr_pct": 21.4,
+      "1_3yr_pct": 14.3,
+      "over_3yr_pct": 64.3
+    },
+    {
+      "type": "运动健身",
+      "count": 2.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 4.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 75.0
+    }
+  ]
+}

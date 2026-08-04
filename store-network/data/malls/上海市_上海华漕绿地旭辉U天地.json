@@ -1,0 +1,431 @@
+{
+  "name": "上海华漕绿地旭辉U天地",
+  "city": "上海市",
+  "address": "上海市闵行区华漕镇蓓卓艺术培训·艺考·主持宏远商务大楼",
+  "lat": 31.207842,
+  "lng": 121.291748,
+  "overview": {
+    "score": 90.7,
+    "score_rank": "市内前30%",
+    "population_score": 86.5,
+    "area_score": 72.4,
+    "consumption_score": 68.6,
+    "industry_score": 90.8,
+    "annual_sales": "华漕U天地地处华漕镇镇中心，紧邻华漕镇政府，背靠大虹桥后花园，占据了当地居民传统的商业圈的中心位置，拥有卓越的区位优势。项目在商业定位上结合了区域商业市场及目标客群的消费需求，将总体商业定位选择在中端及中高端的水平上，未来也将以中高端消费为主要发展方向",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 3.6,
+    "open_date": "2015-10-01",
+    "operator": "旭辉控股（集团）有限公司",
+    "brand": "旭辉商业",
+    "type": "综合型",
+    "floors": "L1-L4"
+  },
+  "traffic": {
+    "annual_daily": 1.29,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第198",
+    "jun_total": 41.5,
+    "jun_total_rank": "市内商场第243名",
+    "jun_daily_avg": 1.4,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第243名",
+    "weekday_avg": 1.3,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第238名",
+    "holiday_avg": 1.5,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第253名"
+  },
+  "population": {
+    "residential": {
+      "500m": 2.0,
+      "1_5km": 15.3,
+      "3km": 32.0
+    },
+    "office": {
+      "500m": 9900.0,
+      "1_5km": 5.0,
+      "3km": 24.6
+    },
+    "permanent": {
+      "500m": 2.1,
+      "1_5km": 13.5,
+      "3km": 32.5
+    }
+  },
+  "business": {
+    "competitors": 2.0,
+    "food": 158.0,
+    "shopping": 90.0,
+    "leisure": 17.0,
+    "education": 14.0,
+    "hotel": 3.0,
+    "services": 97.0,
+    "fitness": 9.0,
+    "auto": 9.0,
+    "total_stores": 116.0,
+    "old_store_3yr_pct": 55.0
+  },
+  "nearby_poi": {
+    "business": 4.0,
+    "community": 123.0,
+    "office": 12.0,
+    "school": 13.0,
+    "hospital": 59.0,
+    "transport": 8.0,
+    "scenic": 51.0
+  },
+  "demographics": {
+    "male_pct": 52.0,
+    "female_pct": null,
+    "education": {
+      "小学": 9.7,
+      "初中": 18.3,
+      "高中": 11.8,
+      "大专": 10.1,
+      "本科": 45.3,
+      "硕士": 4.0,
+      "博士": 0.8
+    },
+    "has_children_pct": 69.6,
+    "no_children_pct": 30.4
+  },
+  "scraped_at": "2026-07-31T15:46:38.794Z",
+  "nearby_restaurants": [
+    {
+      "brand": "湘侬食坊(上海华漕U天地店)",
+      "address": "纪翟路256号华漕U天地绿地·旭辉E天地店2F层",
+      "distance": "9m"
+    },
+    {
+      "brand": "印象湘侬·海鲜·融合菜(上海华漕U天地店)",
+      "address": "保乐路69弄绿地旭辉u天地5号楼二楼213-214室",
+      "distance": "16m"
+    },
+    {
+      "brand": "N多寿司(上海华漕U天地店)",
+      "address": "华漕镇纪翟路256弄11号1层B室",
+      "distance": "16m"
+    },
+    {
+      "brand": "潮来蛙牛腩打边炉",
+      "address": "诸新路与保乐路交叉口东120米",
+      "distance": "16m"
+    },
+    {
+      "brand": "瑞莱迩烘焙(华漕U天地店)",
+      "address": "纪翟路256弄35号旭辉U天地2楼",
+      "distance": "22m"
+    },
+    {
+      "brand": "Timefor牛排(华漕旭辉店)",
+      "address": "诸新路与保乐路交叉口东120米",
+      "distance": "23m"
+    },
+    {
+      "brand": "维尔纳斯意大利手工艺生日蛋糕(虹桥店)",
+      "address": "华漕镇保乐路69弄华漕U天地F3层",
+      "distance": "26m"
+    },
+    {
+      "brand": "吴老幺火锅(保乐路店)",
+      "address": "保乐路69弄华漕旭辉U天地2层206室",
+      "distance": "29m"
+    },
+    {
+      "brand": "喜姐炸串(虹桥长青巷·桥头排骨店)",
+      "address": "纪翟路256弄49号一层-1室",
+      "distance": "34m"
+    },
+    {
+      "brand": "重庆鸡公煲(华漕U天地店)",
+      "address": "华漕镇北曜路2910号楼下",
+      "distance": "34m"
+    },
+    {
+      "brand": "湘侬食坊(上海华漕U天地店)",
+      "address": "纪翟路256号华漕U天地绿地·旭辉E天地店2F层",
+      "distance": "9m"
+    },
+    {
+      "brand": "印象湘侬·海鲜·融合菜(上海华漕U天地店)",
+      "address": "保乐路69弄绿地旭辉u天地5号楼二楼213-214室",
+      "distance": "16m"
+    },
+    {
+      "brand": "N多寿司(上海华漕U天地店)",
+      "address": "华漕镇纪翟路256弄11号1层B室",
+      "distance": "16m"
+    },
+    {
+      "brand": "潮来蛙牛腩打边炉",
+      "address": "诸新路与保乐路交叉口东120米",
+      "distance": "16m"
+    },
+    {
+      "brand": "瑞莱迩烘焙(华漕U天地店)",
+      "address": "纪翟路256弄35号旭辉U天地2楼",
+      "distance": "22m"
+    },
+    {
+      "brand": "Timefor牛排(华漕旭辉店)",
+      "address": "诸新路与保乐路交叉口东120米",
+      "distance": "23m"
+    },
+    {
+      "brand": "维尔纳斯意大利手工艺生日蛋糕(虹桥店)",
+      "address": "华漕镇保乐路69弄华漕U天地F3层",
+      "distance": "26m"
+    },
+    {
+      "brand": "吴老幺火锅(保乐路店)",
+      "address": "保乐路69弄华漕旭辉U天地2层206室",
+      "distance": "29m"
+    },
+    {
+      "brand": "喜姐炸串(虹桥长青巷·桥头排骨店)",
+      "address": "纪翟路256弄49号一层-1室",
+      "distance": "34m"
+    },
+    {
+      "brand": "重庆鸡公煲(华漕U天地店)",
+      "address": "华漕镇北曜路2910号楼下",
+      "distance": "34m"
+    },
+    {
+      "brand": "湘侬食坊(上海华漕U天地店)",
+      "address": "纪翟路256号华漕U天地绿地·旭辉E天地店2F层",
+      "distance": "9m"
+    },
+    {
+      "brand": "印象湘侬·海鲜·融合菜(上海华漕U天地店)",
+      "address": "保乐路69弄绿地旭辉u天地5号楼二楼213-214室",
+      "distance": "16m"
+    },
+    {
+      "brand": "N多寿司(上海华漕U天地店)",
+      "address": "华漕镇纪翟路256弄11号1层B室",
+      "distance": "16m"
+    },
+    {
+      "brand": "潮来蛙牛腩打边炉",
+      "address": "诸新路与保乐路交叉口东120米",
+      "distance": "16m"
+    },
+    {
+      "brand": "瑞莱迩烘焙(华漕U天地店)",
+      "address": "纪翟路256弄35号旭辉U天地2楼",
+      "distance": "22m"
+    },
+    {
+      "brand": "Timefor牛排(华漕旭辉店)",
+      "address": "诸新路与保乐路交叉口东120米",
+      "distance": "23m"
+    },
+    {
+      "brand": "维尔纳斯意大利手工艺生日蛋糕(虹桥店)",
+      "address": "华漕镇保乐路69弄华漕U天地F3层",
+      "distance": "26m"
+    },
+    {
+      "brand": "吴老幺火锅(保乐路店)",
+      "address": "保乐路69弄华漕旭辉U天地2层206室",
+      "distance": "29m"
+    },
+    {
+      "brand": "喜姐炸串(虹桥长青巷·桥头排骨店)",
+      "address": "纪翟路256弄49号一层-1室",
+      "distance": "34m"
+    },
+    {
+      "brand": "重庆鸡公煲(华漕U天地店)",
+      "address": "华漕镇北曜路2910号楼下",
+      "distance": "34m"
+    },
+    {
+      "brand": "湘侬食坊(上海华漕U天地店)",
+      "address": "纪翟路256号华漕U天地绿地·旭辉E天地店2F层",
+      "distance": "9m"
+    },
+    {
+      "brand": "印象湘侬·海鲜·融合菜(上海华漕U天地店)",
+      "address": "保乐路69弄绿地旭辉u天地5号楼二楼213-214室",
+      "distance": "16m"
+    },
+    {
+      "brand": "N多寿司(上海华漕U天地店)",
+      "address": "华漕镇纪翟路256弄11号1层B室",
+      "distance": "16m"
+    },
+    {
+      "brand": "潮来蛙牛腩打边炉",
+      "address": "诸新路与保乐路交叉口东120米",
+      "distance": "16m"
+    },
+    {
+      "brand": "瑞莱迩烘焙(华漕U天地店)",
+      "address": "纪翟路256弄35号旭辉U天地2楼",
+      "distance": "22m"
+    },
+    {
+      "brand": "Timefor牛排(华漕旭辉店)",
+      "address": "诸新路与保乐路交叉口东120米",
+      "distance": "23m"
+    },
+    {
+      "brand": "维尔纳斯意大利手工艺生日蛋糕(虹桥店)",
+      "address": "华漕镇保乐路69弄华漕U天地F3层",
+      "distance": "26m"
+    },
+    {
+      "brand": "吴老幺火锅(保乐路店)",
+      "address": "保乐路69弄华漕旭辉U天地2层206室",
+      "distance": "29m"
+    },
+    {
+      "brand": "喜姐炸串(虹桥长青巷·桥头排骨店)",
+      "address": "纪翟路256弄49号一层-1室",
+      "distance": "34m"
+    },
+    {
+      "brand": "重庆鸡公煲(华漕U天地店)",
+      "address": "华漕镇北曜路2910号楼下",
+      "distance": "34m"
+    },
+    {
+      "brand": "湘侬食坊(上海华漕U天地店)",
+      "address": "纪翟路256号华漕U天地绿地·旭辉E天地店2F层",
+      "distance": "9m"
+    },
+    {
+      "brand": "印象湘侬·海鲜·融合菜(上海华漕U天地店)",
+      "address": "保乐路69弄绿地旭辉u天地5号楼二楼213-214室",
+      "distance": "16m"
+    },
+    {
+      "brand": "N多寿司(上海华漕U天地店)",
+      "address": "华漕镇纪翟路256弄11号1层B室",
+      "distance": "16m"
+    },
+    {
+      "brand": "潮来蛙牛腩打边炉",
+      "address": "诸新路与保乐路交叉口东120米",
+      "distance": "16m"
+    },
+    {
+      "brand": "瑞莱迩烘焙(华漕U天地店)",
+      "address": "纪翟路256弄35号旭辉U天地2楼",
+      "distance": "22m"
+    },
+    {
+      "brand": "Timefor牛排(华漕旭辉店)",
+      "address": "诸新路与保乐路交叉口东120米",
+      "distance": "23m"
+    },
+    {
+      "brand": "维尔纳斯意大利手工艺生日蛋糕(虹桥店)",
+      "address": "华漕镇保乐路69弄华漕U天地F3层",
+      "distance": "26m"
+    },
+    {
+      "brand": "吴老幺火锅(保乐路店)",
+      "address": "保乐路69弄华漕旭辉U天地2层206室",
+      "distance": "29m"
+    },
+    {
+      "brand": "喜姐炸串(虹桥长青巷·桥头排骨店)",
+      "address": "纪翟路256弄49号一层-1室",
+      "distance": "34m"
+    },
+    {
+      "brand": "重庆鸡公煲(华漕U天地店)",
+      "address": "华漕镇北曜路2910号楼下",
+      "distance": "34m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海华漕生活馆",
+      "open_date": "2016-06-16",
+      "area": "3.5万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海丰尚国际生活中心",
+      "open_date": "2014-05-18",
+      "area": "3.5万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海新华联国际中心",
+      "open_date": "2016-11-19",
+      "area": "2.3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海前湾印象城MEGA",
+      "open_date": "2025-12-01",
+      "area": "25.6万㎡",
+      "jun_daily_avg": "4.3万人次",
+      "weekday_avg": "3.6万人次",
+      "holiday_avg": "6.2万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 49.0,
+      "within_1yr_pct": 24.5,
+      "1_3yr_pct": 18.4,
+      "over_3yr_pct": 57.1
+    },
+    {
+      "type": "购物",
+      "count": 13.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 38.5,
+      "over_3yr_pct": 61.5
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 5.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 20.0,
+      "over_3yr_pct": 60.0
+    },
+    {
+      "type": "教育培训",
+      "count": 10.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 30.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "生活服务",
+      "count": 29.0,
+      "within_1yr_pct": 20.7,
+      "1_3yr_pct": 27.6,
+      "over_3yr_pct": 51.7
+    },
+    {
+      "type": "运动健身",
+      "count": 6.0,
+      "within_1yr_pct": 16.7,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 4.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 50.0
+    }
+  ]
+}

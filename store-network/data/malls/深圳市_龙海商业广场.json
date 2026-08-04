@@ -1,0 +1,187 @@
+{
+  "name": "龙海商业广场",
+  "city": "深圳市",
+  "address": "北京市丰台区大红门街道南顶路6号美华·轻奢酒店(北京南站石榴庄地铁站店)",
+  "lat": null,
+  "lng": null,
+  "overview": {
+    "score": 81.6,
+    "score_rank": "市内前30%",
+    "population_score": 95.9,
+    "area_score": 84.1,
+    "consumption_score": 72.1,
+    "industry_score": 81.6,
+    "annual_sales": "",
+    "annual_sales_unit": "",
+    "area_size_sqm": null,
+    "open_date": "",
+    "operator": "",
+    "brand": "",
+    "type": "",
+    "floors": ""
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "",
+    "annual_daily_rank": "",
+    "jun_total": null,
+    "jun_total_rank": "",
+    "jun_daily_avg": null,
+    "jun_daily_unit": "",
+    "jun_daily_rank": "",
+    "weekday_avg": null,
+    "weekday_unit": "",
+    "weekday_rank": "",
+    "holiday_avg": null,
+    "holiday_unit": "",
+    "holiday_rank": ""
+  },
+  "population": {
+    "residential": {
+      "500m": 3.0,
+      "1_5km": 16.8,
+      "3km": 72.5
+    },
+    "office": {
+      "500m": 1.3,
+      "1_5km": 6.4,
+      "3km": 29.4
+    },
+    "permanent": {
+      "500m": 3.0,
+      "1_5km": 16.2,
+      "3km": 70.4
+    }
+  },
+  "business": {
+    "competitors": 1.0,
+    "food": 212.0,
+    "shopping": 126.0,
+    "leisure": 8.0,
+    "education": 15.0,
+    "hotel": 32.0,
+    "services": 95.0,
+    "fitness": 17.0,
+    "auto": 19.0,
+    "total_stores": 525.0,
+    "old_store_3yr_pct": 53.0
+  },
+  "nearby_poi": {
+    "business": 4.0,
+    "community": 378.0,
+    "office": 13.0,
+    "school": 27.0,
+    "hospital": 57.0,
+    "transport": 9.0,
+    "scenic": 60.0
+  },
+  "demographics": {
+    "male_pct": 48.2,
+    "female_pct": null,
+    "education": {
+      "小学": 10.1,
+      "初中": 16.8,
+      "高中": 10.9,
+      "大专": 7.4,
+      "本科": 47.6,
+      "硕士": 5.8,
+      "博士": 1.4
+    },
+    "has_children_pct": null,
+    "no_children_pct": null
+  },
+  "scraped_at": "2026-08-02T06:31:19.724Z",
+  "nearby_restaurants": [],
+  "nearby_malls": [
+    {
+      "name": "北京京港城生活广场",
+      "open_date": "2016-12-01",
+      "area": "2.3万㎡",
+      "jun_daily_avg": "1.5万人次",
+      "weekday_avg": "1.4万人次",
+      "holiday_avg": "1.6万人次"
+    },
+    {
+      "name": "北京汇琴购物中心",
+      "open_date": "2024-09-22",
+      "area": "6.2万㎡",
+      "jun_daily_avg": "5.5万人次",
+      "weekday_avg": "5.3万人次",
+      "holiday_avg": "6.2万人次"
+    },
+    {
+      "name": "北京丹陛华广场",
+      "open_date": "-",
+      "area": "2.9万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "北京首开福茂购物中心(宋家庄店)",
+      "open_date": "2015-08-01",
+      "area": "2.5万㎡",
+      "jun_daily_avg": "3.7万人次",
+      "weekday_avg": "3.6万人次",
+      "holiday_avg": "4.1万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 212.0,
+      "within_1yr_pct": 24.1,
+      "1_3yr_pct": 26.9,
+      "over_3yr_pct": 49.1
+    },
+    {
+      "type": "购物",
+      "count": 126.0,
+      "within_1yr_pct": 12.7,
+      "1_3yr_pct": 31.0,
+      "over_3yr_pct": 56.3
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 9.0,
+      "within_1yr_pct": 11.1,
+      "1_3yr_pct": 44.4,
+      "over_3yr_pct": 44.4
+    },
+    {
+      "type": "教育培训",
+      "count": 15.0,
+      "within_1yr_pct": 13.3,
+      "1_3yr_pct": 20.0,
+      "over_3yr_pct": 66.7
+    },
+    {
+      "type": "酒店住宿",
+      "count": 32.0,
+      "within_1yr_pct": 31.3,
+      "1_3yr_pct": 12.5,
+      "over_3yr_pct": 56.3
+    },
+    {
+      "type": "生活服务",
+      "count": 95.0,
+      "within_1yr_pct": 16.8,
+      "1_3yr_pct": 25.3,
+      "over_3yr_pct": 57.9
+    },
+    {
+      "type": "运动健身",
+      "count": 17.0,
+      "within_1yr_pct": 11.8,
+      "1_3yr_pct": 41.2,
+      "over_3yr_pct": 47.1
+    },
+    {
+      "type": "车辆服务",
+      "count": 19.0,
+      "within_1yr_pct": 10.5,
+      "1_3yr_pct": 52.6,
+      "over_3yr_pct": 36.8
+    }
+  ]
+}

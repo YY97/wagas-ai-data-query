@@ -1,0 +1,171 @@
+{
+  "name": "龙湖上海金汇天街",
+  "city": "上海市",
+  "address": "上海市闵行区江月路1850号",
+  "lat": 31.083166,
+  "lng": 121.504535,
+  "overview": {
+    "score": 94.3,
+    "score_rank": "市内前30%",
+    "population_score": 77.4,
+    "area_score": 68.1,
+    "consumption_score": 73.2,
+    "industry_score": 94.5,
+    "annual_sales": "浦江城市生活广场地址上海市闵行区江月路1850弄，于2016年5月9日正式开业。广场座落在闵行区浦锦街道世博家园，坐北朝南。东接卜蜂莲花超市，南临江月路，西到浦申路，北靠江洲路，是浦锦街道又一新地标。该项目由上海世博土地控股公司投资开发，是集商业、文化、休闲、办公于一体的城市综合体，规划设计创造富有活力的“新城市生活”。",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 3.5,
+    "open_date": "2016-05-06",
+    "operator": "上海汇麟实业有限公司",
+    "brand": "",
+    "type": "美食型",
+    "floors": "B1-L4"
+  },
+  "traffic": {
+    "annual_daily": 2.55,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第109",
+    "jun_total": 113.2,
+    "jun_total_rank": "市内商场第101名",
+    "jun_daily_avg": 3.8,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第101名",
+    "weekday_avg": 3.5,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第98名",
+    "holiday_avg": 4.4,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第106名"
+  },
+  "population": {
+    "residential": {
+      "500m": 1.3,
+      "1_5km": 10.0,
+      "3km": 28.5
+    },
+    "office": {
+      "500m": 7700.0,
+      "1_5km": 6.9,
+      "3km": 21.4
+    },
+    "permanent": {
+      "500m": 1.7,
+      "1_5km": 10.4,
+      "3km": 27.0
+    }
+  },
+  "business": {
+    "competitors": 3.0,
+    "food": 143.0,
+    "shopping": 68.0,
+    "leisure": 14.0,
+    "education": 13.0,
+    "hotel": 4.0,
+    "services": 61.0,
+    "fitness": 14.0,
+    "auto": 10.0,
+    "total_stores": 246.0,
+    "old_store_3yr_pct": 43.0
+  },
+  "nearby_poi": {
+    "business": 2.0,
+    "community": 140.0,
+    "office": 30.0,
+    "school": 9.0,
+    "hospital": 15.0,
+    "transport": 14.0,
+    "scenic": 68.0
+  },
+  "demographics": {
+    "male_pct": 50.2,
+    "female_pct": null,
+    "education": {
+      "小学": 8.0,
+      "初中": 15.8,
+      "高中": 12.0,
+      "大专": 10.1,
+      "本科": 47.9,
+      "硕士": 5.1,
+      "博士": 1.1
+    },
+    "has_children_pct": 63.5,
+    "no_children_pct": 36.5
+  },
+  "scraped_at": "2026-08-01T05:46:34.200Z",
+  "nearby_restaurants": [],
+  "nearby_malls": [
+    {
+      "name": "上海浦江绿地乐和城",
+      "open_date": "2011-06-28",
+      "area": "4万㎡",
+      "jun_daily_avg": "3.7万人次",
+      "weekday_avg": "3.3万人次",
+      "holiday_avg": "4.9万人次"
+    },
+    {
+      "name": "上海浦江欢乐颂",
+      "open_date": "2023-09-26",
+      "area": "10万㎡",
+      "jun_daily_avg": "3.7万人次",
+      "weekday_avg": "3.3万人次",
+      "holiday_avg": "4.9万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 133.0,
+      "within_1yr_pct": 29.3,
+      "1_3yr_pct": 27.1,
+      "over_3yr_pct": 43.6
+    },
+    {
+      "type": "购物",
+      "count": 39.0,
+      "within_1yr_pct": 15.4,
+      "1_3yr_pct": 20.5,
+      "over_3yr_pct": 64.1
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 13.0,
+      "within_1yr_pct": 46.2,
+      "1_3yr_pct": 23.1,
+      "over_3yr_pct": 30.8
+    },
+    {
+      "type": "教育培训",
+      "count": 11.0,
+      "within_1yr_pct": 18.2,
+      "1_3yr_pct": 36.4,
+      "over_3yr_pct": 45.5
+    },
+    {
+      "type": "酒店住宿",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "生活服务",
+      "count": 33.0,
+      "within_1yr_pct": 39.4,
+      "1_3yr_pct": 24.2,
+      "over_3yr_pct": 36.4
+    },
+    {
+      "type": "运动健身",
+      "count": 12.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 41.7,
+      "over_3yr_pct": 25.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 4.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 0.0
+    }
+  ]
+}

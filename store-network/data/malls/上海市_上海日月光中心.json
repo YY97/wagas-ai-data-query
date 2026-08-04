@@ -1,0 +1,486 @@
+{
+  "name": "上海日月光中心",
+  "city": "上海市",
+  "address": "上海市黄浦区打浦桥街道陕西南路600号永理二小区",
+  "lat": 31.206569,
+  "lng": 121.466037,
+  "overview": {
+    "score": 84.1,
+    "score_rank": "市内前30%",
+    "population_score": 100.0,
+    "area_score": 97.6,
+    "consumption_score": 87.8,
+    "industry_score": 84.0,
+    "annual_sales": "",
+    "annual_sales_unit": "",
+    "area_size_sqm": null,
+    "open_date": "",
+    "operator": "",
+    "brand": "",
+    "type": "",
+    "floors": ""
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "",
+    "annual_daily_rank": "",
+    "jun_total": null,
+    "jun_total_rank": "",
+    "jun_daily_avg": null,
+    "jun_daily_unit": "",
+    "jun_daily_rank": "",
+    "weekday_avg": null,
+    "weekday_unit": "",
+    "weekday_rank": "",
+    "holiday_avg": null,
+    "holiday_unit": "",
+    "holiday_rank": ""
+  },
+  "population": {
+    "residential": {
+      "500m": 3.9,
+      "1_5km": 32.7,
+      "3km": 88.2
+    },
+    "office": {
+      "500m": 3.7,
+      "1_5km": 26.5,
+      "3km": 94.0
+    },
+    "permanent": {
+      "500m": 4.6,
+      "1_5km": 36.8,
+      "3km": 103.1
+    }
+  },
+  "business": {
+    "competitors": 11.0,
+    "food": 436.0,
+    "shopping": 367.0,
+    "leisure": 57.0,
+    "education": 54.0,
+    "hotel": 158.0,
+    "services": 338.0,
+    "fitness": 60.0,
+    "auto": 12.0,
+    "total_stores": 1512.0,
+    "old_store_3yr_pct": 48.0
+  },
+  "nearby_poi": {
+    "business": 15.0,
+    "community": 1110.0,
+    "office": 136.0,
+    "school": 85.0,
+    "hospital": 179.0,
+    "transport": 11.0,
+    "scenic": 694.0
+  },
+  "demographics": {
+    "male_pct": 47.7,
+    "female_pct": null,
+    "education": {
+      "小学": 8.8,
+      "初中": 16.3,
+      "高中": 11.4,
+      "大专": 6.8,
+      "本科": 48.6,
+      "硕士": 6.2,
+      "博士": 1.9
+    },
+    "has_children_pct": null,
+    "no_children_pct": null
+  },
+  "scraped_at": "2026-07-31T16:32:46.280Z",
+  "nearby_restaurants": [
+    {
+      "brand": "加多利山·咖哩火锅",
+      "address": "瑞金二路与泰康路交叉口西南80米",
+      "distance": "78m"
+    },
+    {
+      "brand": "红宝石(肇嘉浜店)",
+      "address": "肇嘉浜路12号(瑞金南路)(打浦桥地铁站4号口步行180米)",
+      "distance": "102m"
+    },
+    {
+      "brand": "乔姐酸汤粉(肇嘉浜路店)",
+      "address": "徐家汇路与瑞金南路交叉口西北40米",
+      "distance": "107m"
+    },
+    {
+      "brand": "华记桂林米粉",
+      "address": "肇嘉浜路16号(打浦桥地铁站4号口步行200米)",
+      "distance": "108m"
+    },
+    {
+      "brand": "凌记原味炖汤",
+      "address": "肇嘉浜路16号(打浦桥地铁站4号口步行190米)",
+      "distance": "113m"
+    },
+    {
+      "brand": "隆宝大馄饨",
+      "address": "徐家汇路与瑞金南路交叉口西北40米",
+      "distance": "113m"
+    },
+    {
+      "brand": "清华餐厅",
+      "address": "瑞金二路408号甲(打浦桥地铁站4号口步行80米)",
+      "distance": "116m"
+    },
+    {
+      "brand": "太云·渝小面",
+      "address": "徐家汇路与瑞金南路交叉口北40米",
+      "distance": "117m"
+    },
+    {
+      "brand": "淮南牛肉汤(打浦大楼店)",
+      "address": "瑞金二路460号底层乙室(打浦桥地铁站4号口步行70米)",
+      "distance": "123m"
+    },
+    {
+      "brand": "云沧记·鲜汤牛肉米线",
+      "address": "肇嘉浜路6号1F",
+      "distance": "124m"
+    },
+    {
+      "brand": "加多利山·咖哩火锅",
+      "address": "瑞金二路与泰康路交叉口西南80米",
+      "distance": "78m"
+    },
+    {
+      "brand": "红宝石(肇嘉浜店)",
+      "address": "肇嘉浜路12号(瑞金南路)(打浦桥地铁站4号口步行180米)",
+      "distance": "102m"
+    },
+    {
+      "brand": "乔姐酸汤粉(肇嘉浜路店)",
+      "address": "徐家汇路与瑞金南路交叉口西北40米",
+      "distance": "107m"
+    },
+    {
+      "brand": "华记桂林米粉",
+      "address": "肇嘉浜路16号(打浦桥地铁站4号口步行200米)",
+      "distance": "108m"
+    },
+    {
+      "brand": "凌记原味炖汤",
+      "address": "肇嘉浜路16号(打浦桥地铁站4号口步行190米)",
+      "distance": "113m"
+    },
+    {
+      "brand": "隆宝大馄饨",
+      "address": "徐家汇路与瑞金南路交叉口西北40米",
+      "distance": "113m"
+    },
+    {
+      "brand": "清华餐厅",
+      "address": "瑞金二路408号甲(打浦桥地铁站4号口步行80米)",
+      "distance": "116m"
+    },
+    {
+      "brand": "太云·渝小面",
+      "address": "徐家汇路与瑞金南路交叉口北40米",
+      "distance": "117m"
+    },
+    {
+      "brand": "淮南牛肉汤(打浦大楼店)",
+      "address": "瑞金二路460号底层乙室(打浦桥地铁站4号口步行70米)",
+      "distance": "123m"
+    },
+    {
+      "brand": "云沧记·鲜汤牛肉米线",
+      "address": "肇嘉浜路6号1F",
+      "distance": "124m"
+    },
+    {
+      "brand": "加多利山·咖哩火锅",
+      "address": "瑞金二路与泰康路交叉口西南80米",
+      "distance": "78m"
+    },
+    {
+      "brand": "红宝石(肇嘉浜店)",
+      "address": "肇嘉浜路12号(瑞金南路)(打浦桥地铁站4号口步行180米)",
+      "distance": "102m"
+    },
+    {
+      "brand": "乔姐酸汤粉(肇嘉浜路店)",
+      "address": "徐家汇路与瑞金南路交叉口西北40米",
+      "distance": "107m"
+    },
+    {
+      "brand": "华记桂林米粉",
+      "address": "肇嘉浜路16号(打浦桥地铁站4号口步行200米)",
+      "distance": "108m"
+    },
+    {
+      "brand": "凌记原味炖汤",
+      "address": "肇嘉浜路16号(打浦桥地铁站4号口步行190米)",
+      "distance": "113m"
+    },
+    {
+      "brand": "隆宝大馄饨",
+      "address": "徐家汇路与瑞金南路交叉口西北40米",
+      "distance": "113m"
+    },
+    {
+      "brand": "清华餐厅",
+      "address": "瑞金二路408号甲(打浦桥地铁站4号口步行80米)",
+      "distance": "116m"
+    },
+    {
+      "brand": "太云·渝小面",
+      "address": "徐家汇路与瑞金南路交叉口北40米",
+      "distance": "117m"
+    },
+    {
+      "brand": "淮南牛肉汤(打浦大楼店)",
+      "address": "瑞金二路460号底层乙室(打浦桥地铁站4号口步行70米)",
+      "distance": "123m"
+    },
+    {
+      "brand": "云沧记·鲜汤牛肉米线",
+      "address": "肇嘉浜路6号1F",
+      "distance": "124m"
+    },
+    {
+      "brand": "加多利山·咖哩火锅",
+      "address": "瑞金二路与泰康路交叉口西南80米",
+      "distance": "78m"
+    },
+    {
+      "brand": "红宝石(肇嘉浜店)",
+      "address": "肇嘉浜路12号(瑞金南路)(打浦桥地铁站4号口步行180米)",
+      "distance": "102m"
+    },
+    {
+      "brand": "乔姐酸汤粉(肇嘉浜路店)",
+      "address": "徐家汇路与瑞金南路交叉口西北40米",
+      "distance": "107m"
+    },
+    {
+      "brand": "华记桂林米粉",
+      "address": "肇嘉浜路16号(打浦桥地铁站4号口步行200米)",
+      "distance": "108m"
+    },
+    {
+      "brand": "凌记原味炖汤",
+      "address": "肇嘉浜路16号(打浦桥地铁站4号口步行190米)",
+      "distance": "113m"
+    },
+    {
+      "brand": "隆宝大馄饨",
+      "address": "徐家汇路与瑞金南路交叉口西北40米",
+      "distance": "113m"
+    },
+    {
+      "brand": "清华餐厅",
+      "address": "瑞金二路408号甲(打浦桥地铁站4号口步行80米)",
+      "distance": "116m"
+    },
+    {
+      "brand": "太云·渝小面",
+      "address": "徐家汇路与瑞金南路交叉口北40米",
+      "distance": "117m"
+    },
+    {
+      "brand": "淮南牛肉汤(打浦大楼店)",
+      "address": "瑞金二路460号底层乙室(打浦桥地铁站4号口步行70米)",
+      "distance": "123m"
+    },
+    {
+      "brand": "云沧记·鲜汤牛肉米线",
+      "address": "肇嘉浜路6号1F",
+      "distance": "124m"
+    },
+    {
+      "brand": "加多利山·咖哩火锅",
+      "address": "瑞金二路与泰康路交叉口西南80米",
+      "distance": "78m"
+    },
+    {
+      "brand": "红宝石(肇嘉浜店)",
+      "address": "肇嘉浜路12号(瑞金南路)(打浦桥地铁站4号口步行180米)",
+      "distance": "102m"
+    },
+    {
+      "brand": "乔姐酸汤粉(肇嘉浜路店)",
+      "address": "徐家汇路与瑞金南路交叉口西北40米",
+      "distance": "107m"
+    },
+    {
+      "brand": "华记桂林米粉",
+      "address": "肇嘉浜路16号(打浦桥地铁站4号口步行200米)",
+      "distance": "108m"
+    },
+    {
+      "brand": "凌记原味炖汤",
+      "address": "肇嘉浜路16号(打浦桥地铁站4号口步行190米)",
+      "distance": "113m"
+    },
+    {
+      "brand": "隆宝大馄饨",
+      "address": "徐家汇路与瑞金南路交叉口西北40米",
+      "distance": "113m"
+    },
+    {
+      "brand": "清华餐厅",
+      "address": "瑞金二路408号甲(打浦桥地铁站4号口步行80米)",
+      "distance": "116m"
+    },
+    {
+      "brand": "太云·渝小面",
+      "address": "徐家汇路与瑞金南路交叉口北40米",
+      "distance": "117m"
+    },
+    {
+      "brand": "淮南牛肉汤(打浦大楼店)",
+      "address": "瑞金二路460号底层乙室(打浦桥地铁站4号口步行70米)",
+      "distance": "123m"
+    },
+    {
+      "brand": "云沧记·鲜汤牛肉米线",
+      "address": "肇嘉浜路6号1F",
+      "distance": "124m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海日月光中心",
+      "open_date": "2010-06-18",
+      "area": "14万㎡",
+      "jun_daily_avg": "11.1万人次",
+      "weekday_avg": "11.3万人次",
+      "holiday_avg": "10.4万人次"
+    },
+    {
+      "name": "田子坊",
+      "open_date": "1998-01-01",
+      "area": "3万㎡",
+      "jun_daily_avg": "1.3万人次",
+      "weekday_avg": "1.2万人次",
+      "holiday_avg": "1.6万人次"
+    },
+    {
+      "name": "上海尚街Loft时尚生活园区",
+      "open_date": "2007-12-01",
+      "area": "2.4万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海玖時活力中心",
+      "open_date": "2021-12-31",
+      "area": "2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海思南公馆",
+      "open_date": "2010-10-01",
+      "area": "2.2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海恒基·旭辉天地",
+      "open_date": "2021-04-30",
+      "area": "1万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海LuOne凯德晶萃广场",
+      "open_date": "2018-09-22",
+      "area": "13万㎡",
+      "jun_daily_avg": "3.1万人次",
+      "weekday_avg": "3.1万人次",
+      "holiday_avg": "3.3万人次"
+    },
+    {
+      "name": "上海中海环宇荟",
+      "open_date": "2018-07-02",
+      "area": "3万㎡",
+      "jun_daily_avg": "2万人次",
+      "weekday_avg": "2.1万人次",
+      "holiday_avg": "1.6万人次"
+    },
+    {
+      "name": "上海SOHO复兴广场",
+      "open_date": "2014",
+      "area": "2.2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海环贸iapm",
+      "open_date": "2013-08-01",
+      "area": "12万㎡",
+      "jun_daily_avg": "6.3万人次",
+      "weekday_avg": "5.9万人次",
+      "holiday_avg": "7.3万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 436.0,
+      "within_1yr_pct": 18.8,
+      "1_3yr_pct": 31.2,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "购物",
+      "count": 367.0,
+      "within_1yr_pct": 19.9,
+      "1_3yr_pct": 24.3,
+      "over_3yr_pct": 55.9
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 87.0,
+      "within_1yr_pct": 26.4,
+      "1_3yr_pct": 43.7,
+      "over_3yr_pct": 29.9
+    },
+    {
+      "type": "教育培训",
+      "count": 54.0,
+      "within_1yr_pct": 22.2,
+      "1_3yr_pct": 35.2,
+      "over_3yr_pct": 42.6
+    },
+    {
+      "type": "酒店住宿",
+      "count": 158.0,
+      "within_1yr_pct": 57.0,
+      "1_3yr_pct": 18.4,
+      "over_3yr_pct": 24.7
+    },
+    {
+      "type": "生活服务",
+      "count": 338.0,
+      "within_1yr_pct": 22.2,
+      "1_3yr_pct": 26.0,
+      "over_3yr_pct": 51.8
+    },
+    {
+      "type": "运动健身",
+      "count": 60.0,
+      "within_1yr_pct": 28.3,
+      "1_3yr_pct": 23.3,
+      "over_3yr_pct": 48.3
+    },
+    {
+      "type": "车辆服务",
+      "count": 12.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 41.7
+    }
+  ]
+}

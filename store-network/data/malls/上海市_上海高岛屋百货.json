@@ -1,0 +1,154 @@
+{
+  "name": "上海高岛屋百货",
+  "city": "上海市",
+  "address": "上海市长宁区虹桥路1438号",
+  "lat": 31.19762,
+  "lng": 121.403096,
+  "overview": {
+    "score": 84.8,
+    "score_rank": "市内前30%",
+    "population_score": 73.7,
+    "area_score": 79.1,
+    "consumption_score": 89.1,
+    "industry_score": 84.8,
+    "annual_sales": "上海高岛屋百货延续了日本国内的高档定位，致力于打造集超市、餐厅、日本特色商品馆为一体的百货商店",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 6.7,
+    "open_date": "2012-12-01",
+    "operator": "上海高岛屋百货有限公司",
+    "brand": "",
+    "type": "购物型",
+    "floors": "B1-L7"
+  },
+  "traffic": {
+    "annual_daily": 3178.0,
+    "annual_daily_unit": "人次",
+    "annual_daily_rank": "市内第430",
+    "jun_total": 15.9,
+    "jun_total_rank": "市内商场第418名",
+    "jun_daily_avg": 5307.0,
+    "jun_daily_unit": "人次",
+    "jun_daily_rank": "市内商场第418名",
+    "weekday_avg": 5158.0,
+    "weekday_unit": "人次",
+    "weekday_rank": "市内商场第415名",
+    "holiday_avg": 5717.0,
+    "holiday_unit": "人次",
+    "holiday_rank": "市内商场第418名"
+  },
+  "population": {
+    "residential": {
+      "500m": 1.1,
+      "1_5km": 17.4,
+      "3km": 78.0
+    },
+    "office": {
+      "500m": 2.2,
+      "1_5km": 18.3,
+      "3km": 70.9
+    },
+    "permanent": {
+      "500m": 1.4,
+      "1_5km": 19.9,
+      "3km": 85.0
+    }
+  },
+  "business": {
+    "competitors": 11.0,
+    "food": 194.0,
+    "shopping": 156.0,
+    "leisure": 7.0,
+    "education": 27.0,
+    "hotel": 15.0,
+    "services": 127.0,
+    "fitness": 42.0,
+    "auto": 19.0,
+    "total_stores": 133.0,
+    "old_store_3yr_pct": 62.0
+  },
+  "nearby_poi": {
+    "business": 8.0,
+    "community": 760.0,
+    "office": 93.0,
+    "school": 45.0,
+    "hospital": 144.0,
+    "transport": 8.0,
+    "scenic": 174.0
+  },
+  "demographics": {
+    "male_pct": 47.2,
+    "female_pct": null,
+    "education": {
+      "小学": 9.2,
+      "初中": 17.0,
+      "高中": 11.1,
+      "大专": 7.4,
+      "本科": 48.6,
+      "硕士": 5.0,
+      "博士": 1.7
+    },
+    "has_children_pct": 58.1,
+    "no_children_pct": 41.9
+  },
+  "scraped_at": "2026-07-31T14:43:02.873Z",
+  "nearby_restaurants": [],
+  "nearby_malls": [],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 31.0,
+      "within_1yr_pct": 25.8,
+      "1_3yr_pct": 9.7,
+      "over_3yr_pct": 64.5
+    },
+    {
+      "type": "购物",
+      "count": 78.0,
+      "within_1yr_pct": 15.4,
+      "1_3yr_pct": 19.2,
+      "over_3yr_pct": 65.4
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 2.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "教育培训",
+      "count": 3.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 66.7
+    },
+    {
+      "type": "酒店住宿",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "生活服务",
+      "count": 15.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 20.0,
+      "over_3yr_pct": 46.7
+    },
+    {
+      "type": "运动健身",
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 1.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
+    }
+  ]
+}

@@ -1,0 +1,407 @@
+{
+  "name": "浦江万达广场",
+  "city": "上海市",
+  "address": "上海市闵行区永跃路360号",
+  "lat": 31.027547,
+  "lng": 121.511663,
+  "overview": {
+    "score": 95.2,
+    "score_rank": "市内前30%",
+    "population_score": 87.7,
+    "area_score": 69.7,
+    "consumption_score": 66.5,
+    "industry_score": 95.4,
+    "annual_sales": "上海浦江万达广场定位区域家庭型购物中心，通过汇集超市、潮流服饰、餐饮美食、生活精品、影院健身、综合儿童等多种业态，满足区域内消费者吃喝玩乐逛购的一站式消费需求",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 10.0,
+    "open_date": "2019-12-31",
+    "operator": "珠海万达商业管理集团股份有限公司",
+    "brand": "万达",
+    "type": "综合型",
+    "floors": "B1-L5"
+  },
+  "traffic": {
+    "annual_daily": 3.74,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第55",
+    "jun_total": 145.6,
+    "jun_total_rank": "市内商场第70名",
+    "jun_daily_avg": 4.9,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第70名",
+    "weekday_avg": 4.1,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第81名",
+    "holiday_avg": 7.0,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第52名"
+  },
+  "population": {
+    "residential": {
+      "500m": 2.2,
+      "1_5km": 12.0,
+      "3km": 21.4
+    },
+    "office": {
+      "500m": 8200.0,
+      "1_5km": 3.3,
+      "3km": 6.4
+    },
+    "permanent": {
+      "500m": 2.3,
+      "1_5km": 11.1,
+      "3km": 19.1
+    }
+  },
+  "business": {
+    "competitors": 4.0,
+    "food": 114.0,
+    "shopping": 125.0,
+    "leisure": 12.0,
+    "education": 8.0,
+    "hotel": 3.0,
+    "services": 49.0,
+    "fitness": 9.0,
+    "auto": 27.0,
+    "total_stores": 291.0,
+    "old_store_3yr_pct": 50.0
+  },
+  "nearby_poi": {
+    "business": 1.0,
+    "community": 71.0,
+    "office": null,
+    "school": 16.0,
+    "hospital": 8.0,
+    "transport": 8.0,
+    "scenic": 52.0
+  },
+  "demographics": {
+    "male_pct": 52.4,
+    "female_pct": null,
+    "education": {
+      "小学": 10.3,
+      "初中": 19.9,
+      "高中": 12.4,
+      "大专": 10.1,
+      "本科": 44.0,
+      "硕士": 2.3,
+      "博士": 1.0
+    },
+    "has_children_pct": 70.2,
+    "no_children_pct": 29.8
+  },
+  "scraped_at": "2026-08-01T05:11:57.159Z",
+  "nearby_restaurants": [
+    {
+      "brand": "鱼酷活鱼烤鱼(浦江万达店)",
+      "address": "永跃路360号上海浦江万达广场4楼4061号",
+      "distance": "4m"
+    },
+    {
+      "brand": "谷田稻香(上海市浦江万达店)",
+      "address": "浦江镇永跃路360号浦江万达商场4楼4010铺位",
+      "distance": "6m"
+    },
+    {
+      "brand": "鸡柳大人(浦江万达店)",
+      "address": "永跃路360号上海浦江万达广场B1层",
+      "distance": "7m"
+    },
+    {
+      "brand": "和府捞面(浦江万达店)",
+      "address": "永跃路360号万达广场4F层4066号",
+      "distance": "8m"
+    },
+    {
+      "brand": "蛙喔牛蛙(上海浦江万达)",
+      "address": "鲁康路永跃路360号浦江万达4F4067号蛙喔",
+      "distance": "8m"
+    },
+    {
+      "brand": "左庭右院鲜牛肉火锅(浦江万达店)",
+      "address": "永寨路万达广场4楼4063-4065号",
+      "distance": "8m"
+    },
+    {
+      "brand": "大章鸽(浦江万达店)",
+      "address": "永跃路360号上海浦江万达广场F4层",
+      "distance": "8m"
+    },
+    {
+      "brand": "钱记屋企茶餐厅(浦江万达店)",
+      "address": "永跃路360号上海浦江万达广场F4层",
+      "distance": "8m"
+    },
+    {
+      "brand": "胖哥俩肉蟹煲(上海浦江万达店)",
+      "address": "永跃路360号上海浦江万达广场室内步行街4F层4072B,4073号商铺",
+      "distance": "8m"
+    },
+    {
+      "brand": "DQ·蛋糕·冰淇淋(上海浦江万达店)",
+      "address": "浦江镇永跃路380号浦江万达广场4层4009铺位",
+      "distance": "8m"
+    },
+    {
+      "brand": "鱼酷活鱼烤鱼(浦江万达店)",
+      "address": "永跃路360号上海浦江万达广场4楼4061号",
+      "distance": "4m"
+    },
+    {
+      "brand": "谷田稻香(上海市浦江万达店)",
+      "address": "浦江镇永跃路360号浦江万达商场4楼4010铺位",
+      "distance": "6m"
+    },
+    {
+      "brand": "鸡柳大人(浦江万达店)",
+      "address": "永跃路360号上海浦江万达广场B1层",
+      "distance": "7m"
+    },
+    {
+      "brand": "和府捞面(浦江万达店)",
+      "address": "永跃路360号万达广场4F层4066号",
+      "distance": "8m"
+    },
+    {
+      "brand": "蛙喔牛蛙(上海浦江万达)",
+      "address": "鲁康路永跃路360号浦江万达4F4067号蛙喔",
+      "distance": "8m"
+    },
+    {
+      "brand": "左庭右院鲜牛肉火锅(浦江万达店)",
+      "address": "永寨路万达广场4楼4063-4065号",
+      "distance": "8m"
+    },
+    {
+      "brand": "大章鸽(浦江万达店)",
+      "address": "永跃路360号上海浦江万达广场F4层",
+      "distance": "8m"
+    },
+    {
+      "brand": "钱记屋企茶餐厅(浦江万达店)",
+      "address": "永跃路360号上海浦江万达广场F4层",
+      "distance": "8m"
+    },
+    {
+      "brand": "胖哥俩肉蟹煲(上海浦江万达店)",
+      "address": "永跃路360号上海浦江万达广场室内步行街4F层4072B,4073号商铺",
+      "distance": "8m"
+    },
+    {
+      "brand": "DQ·蛋糕·冰淇淋(上海浦江万达店)",
+      "address": "浦江镇永跃路380号浦江万达广场4层4009铺位",
+      "distance": "8m"
+    },
+    {
+      "brand": "鱼酷活鱼烤鱼(浦江万达店)",
+      "address": "永跃路360号上海浦江万达广场4楼4061号",
+      "distance": "4m"
+    },
+    {
+      "brand": "谷田稻香(上海市浦江万达店)",
+      "address": "浦江镇永跃路360号浦江万达商场4楼4010铺位",
+      "distance": "6m"
+    },
+    {
+      "brand": "鸡柳大人(浦江万达店)",
+      "address": "永跃路360号上海浦江万达广场B1层",
+      "distance": "7m"
+    },
+    {
+      "brand": "和府捞面(浦江万达店)",
+      "address": "永跃路360号万达广场4F层4066号",
+      "distance": "8m"
+    },
+    {
+      "brand": "蛙喔牛蛙(上海浦江万达)",
+      "address": "鲁康路永跃路360号浦江万达4F4067号蛙喔",
+      "distance": "8m"
+    },
+    {
+      "brand": "左庭右院鲜牛肉火锅(浦江万达店)",
+      "address": "永寨路万达广场4楼4063-4065号",
+      "distance": "8m"
+    },
+    {
+      "brand": "大章鸽(浦江万达店)",
+      "address": "永跃路360号上海浦江万达广场F4层",
+      "distance": "8m"
+    },
+    {
+      "brand": "钱记屋企茶餐厅(浦江万达店)",
+      "address": "永跃路360号上海浦江万达广场F4层",
+      "distance": "8m"
+    },
+    {
+      "brand": "胖哥俩肉蟹煲(上海浦江万达店)",
+      "address": "永跃路360号上海浦江万达广场室内步行街4F层4072B,4073号商铺",
+      "distance": "8m"
+    },
+    {
+      "brand": "DQ·蛋糕·冰淇淋(上海浦江万达店)",
+      "address": "浦江镇永跃路380号浦江万达广场4层4009铺位",
+      "distance": "8m"
+    },
+    {
+      "brand": "鱼酷活鱼烤鱼(浦江万达店)",
+      "address": "永跃路360号上海浦江万达广场4楼4061号",
+      "distance": "4m"
+    },
+    {
+      "brand": "谷田稻香(上海市浦江万达店)",
+      "address": "浦江镇永跃路360号浦江万达商场4楼4010铺位",
+      "distance": "6m"
+    },
+    {
+      "brand": "鸡柳大人(浦江万达店)",
+      "address": "永跃路360号上海浦江万达广场B1层",
+      "distance": "7m"
+    },
+    {
+      "brand": "和府捞面(浦江万达店)",
+      "address": "永跃路360号万达广场4F层4066号",
+      "distance": "8m"
+    },
+    {
+      "brand": "蛙喔牛蛙(上海浦江万达)",
+      "address": "鲁康路永跃路360号浦江万达4F4067号蛙喔",
+      "distance": "8m"
+    },
+    {
+      "brand": "左庭右院鲜牛肉火锅(浦江万达店)",
+      "address": "永寨路万达广场4楼4063-4065号",
+      "distance": "8m"
+    },
+    {
+      "brand": "大章鸽(浦江万达店)",
+      "address": "永跃路360号上海浦江万达广场F4层",
+      "distance": "8m"
+    },
+    {
+      "brand": "钱记屋企茶餐厅(浦江万达店)",
+      "address": "永跃路360号上海浦江万达广场F4层",
+      "distance": "8m"
+    },
+    {
+      "brand": "胖哥俩肉蟹煲(上海浦江万达店)",
+      "address": "永跃路360号上海浦江万达广场室内步行街4F层4072B,4073号商铺",
+      "distance": "8m"
+    },
+    {
+      "brand": "DQ·蛋糕·冰淇淋(上海浦江万达店)",
+      "address": "浦江镇永跃路380号浦江万达广场4层4009铺位",
+      "distance": "8m"
+    },
+    {
+      "brand": "鱼酷活鱼烤鱼(浦江万达店)",
+      "address": "永跃路360号上海浦江万达广场4楼4061号",
+      "distance": "4m"
+    },
+    {
+      "brand": "谷田稻香(上海市浦江万达店)",
+      "address": "浦江镇永跃路360号浦江万达商场4楼4010铺位",
+      "distance": "6m"
+    },
+    {
+      "brand": "鸡柳大人(浦江万达店)",
+      "address": "永跃路360号上海浦江万达广场B1层",
+      "distance": "7m"
+    },
+    {
+      "brand": "和府捞面(浦江万达店)",
+      "address": "永跃路360号万达广场4F层4066号",
+      "distance": "8m"
+    },
+    {
+      "brand": "蛙喔牛蛙(上海浦江万达)",
+      "address": "鲁康路永跃路360号浦江万达4F4067号蛙喔",
+      "distance": "8m"
+    },
+    {
+      "brand": "左庭右院鲜牛肉火锅(浦江万达店)",
+      "address": "永寨路万达广场4楼4063-4065号",
+      "distance": "8m"
+    },
+    {
+      "brand": "大章鸽(浦江万达店)",
+      "address": "永跃路360号上海浦江万达广场F4层",
+      "distance": "8m"
+    },
+    {
+      "brand": "钱记屋企茶餐厅(浦江万达店)",
+      "address": "永跃路360号上海浦江万达广场F4层",
+      "distance": "8m"
+    },
+    {
+      "brand": "胖哥俩肉蟹煲(上海浦江万达店)",
+      "address": "永跃路360号上海浦江万达广场室内步行街4F层4072B,4073号商铺",
+      "distance": "8m"
+    },
+    {
+      "brand": "DQ·蛋糕·冰淇淋(上海浦江万达店)",
+      "address": "浦江镇永跃路380号浦江万达广场4层4009铺位",
+      "distance": "8m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海山钢和润旭辉里",
+      "open_date": "2022-12-23",
+      "area": "3.5万㎡",
+      "jun_daily_avg": "2.2万人次",
+      "weekday_avg": "2万人次",
+      "holiday_avg": "2.6万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 100.0,
+      "within_1yr_pct": 17.0,
+      "1_3yr_pct": 28.0,
+      "over_3yr_pct": 55.0
+    },
+    {
+      "type": "购物",
+      "count": 115.0,
+      "within_1yr_pct": 17.4,
+      "1_3yr_pct": 32.2,
+      "over_3yr_pct": 50.4
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 11.0,
+      "within_1yr_pct": 36.4,
+      "1_3yr_pct": 27.3,
+      "over_3yr_pct": 36.4
+    },
+    {
+      "type": "教育培训",
+      "count": 7.0,
+      "within_1yr_pct": 14.3,
+      "1_3yr_pct": 42.9,
+      "over_3yr_pct": 42.9
+    },
+    {
+      "type": "生活服务",
+      "count": 37.0,
+      "within_1yr_pct": 10.8,
+      "1_3yr_pct": 37.8,
+      "over_3yr_pct": 51.4
+    },
+    {
+      "type": "运动健身",
+      "count": 5.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 60.0,
+      "over_3yr_pct": 40.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 16.0,
+      "within_1yr_pct": 31.3,
+      "1_3yr_pct": 37.5,
+      "over_3yr_pct": 31.3
+    }
+  ]
+}

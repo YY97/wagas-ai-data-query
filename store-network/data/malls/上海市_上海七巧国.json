@@ -1,0 +1,416 @@
+{
+  "name": "上海七巧国",
+  "city": "上海市",
+  "address": "上海市杨浦区隆昌路584号",
+  "lat": 31.274367,
+  "lng": 121.543543,
+  "overview": {
+    "score": 86.0,
+    "score_rank": "市内前30%",
+    "population_score": 92.8,
+    "area_score": 81.1,
+    "consumption_score": 78.1,
+    "industry_score": 86.0,
+    "annual_sales": "上海七巧国隆昌店位于上海市杨浦区隆昌路586号复旦软件园，是一家集社区超市、餐饮、儿童配套、儿童娱乐、儿童商品、培训教育、家庭影院于一体的全方位、多功能的儿童陪伴中心立志于一站式满足中国儿童心智需求，为儿童全方位需求定位，并进行科学商业链组合，儿童带动家庭式消费，以儿童体验式消费业态撬动链带式商品服务消费通过占据一二线都市核心商业片区，植根都市家庭消费文化，培植七巧国商业文化，创新商业经营理念，成为片区不可替代和复制的第一儿童主题一站式体验mall",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 2.0,
+    "open_date": "2015-08-20",
+    "operator": "",
+    "brand": "",
+    "type": "美食型",
+    "floors": "L1-L3"
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "-",
+    "annual_daily_rank": "",
+    "jun_total": 6.3,
+    "jun_total_rank": "市内商场第531名",
+    "jun_daily_avg": 2083.0,
+    "jun_daily_unit": "人次",
+    "jun_daily_rank": "市内商场第531名",
+    "weekday_avg": 2117.0,
+    "weekday_unit": "人次",
+    "weekday_rank": "市内商场第527名",
+    "holiday_avg": 1992.0,
+    "holiday_unit": "人次",
+    "holiday_rank": "市内商场第537名"
+  },
+  "population": {
+    "residential": {
+      "500m": 2.6,
+      "1_5km": 25.1,
+      "3km": 84.9
+    },
+    "office": {
+      "500m": 2.5,
+      "1_5km": 14.5,
+      "3km": 43.2
+    },
+    "permanent": {
+      "500m": 2.8,
+      "1_5km": 25.2,
+      "3km": 84.4
+    }
+  },
+  "business": {
+    "competitors": 6.0,
+    "food": 268.0,
+    "shopping": 102.0,
+    "leisure": 28.0,
+    "education": 31.0,
+    "hotel": 16.0,
+    "services": 137.0,
+    "fitness": 30.0,
+    "auto": 25.0,
+    "total_stores": 78.0,
+    "old_store_3yr_pct": 35.0
+  },
+  "nearby_poi": {
+    "business": 3.0,
+    "community": 565.0,
+    "office": 59.0,
+    "school": 55.0,
+    "hospital": 62.0,
+    "transport": 12.0,
+    "scenic": 160.0
+  },
+  "demographics": {
+    "male_pct": 46.0,
+    "female_pct": null,
+    "education": {
+      "小学": 9.0,
+      "初中": 17.6,
+      "高中": 13.9,
+      "大专": 6.6,
+      "本科": 46.6,
+      "硕士": 4.6,
+      "博士": 1.7
+    },
+    "has_children_pct": 59.7,
+    "no_children_pct": 40.3
+  },
+  "scraped_at": "2026-07-31T15:12:39.543Z",
+  "nearby_restaurants": [
+    {
+      "brand": "一品湘木桶饭(隆昌路地铁站店)",
+      "address": "隆昌路与长阳路交叉口北80米(隆昌路地铁站4号口步行90米)",
+      "distance": "0m"
+    },
+    {
+      "brand": "食其家·牛丼咖喱(七巧国店)",
+      "address": "隆昌路586号(复旦软件园1号楼)1-5层七巧国一楼C1b号",
+      "distance": "1m"
+    },
+    {
+      "brand": "粥皇港式茶餐厅",
+      "address": "七巧国复旦软件园B1楼B20号(隆昌路地铁站4号口旁)",
+      "distance": "5m"
+    },
+    {
+      "brand": "鱼你在一起(复旦软件园店)",
+      "address": "隆昌路586号七巧国B1层洛克集市内",
+      "distance": "5m"
+    },
+    {
+      "brand": "海底捞·捞派小厨",
+      "address": "隆昌路复旦软件园1号楼(隆昌路地铁站4号口旁)",
+      "distance": "5m"
+    },
+    {
+      "brand": "煲珠公·老红糖珍珠奶茶(隆昌路复旦软件园店)",
+      "address": "隆昌路586号1楼A3c号(隆昌路地铁站4号口)",
+      "distance": "5m"
+    },
+    {
+      "brand": "豪享来(隆昌店)",
+      "address": "定海路街道隆昌路586号七巧国2楼A2",
+      "distance": "5m"
+    },
+    {
+      "brand": "福百分脆皮烧鸡(隆昌路店)",
+      "address": "隆昌路复旦软件园B1层b16铺位",
+      "distance": "5m"
+    },
+    {
+      "brand": "稻香家赣湘·老盒饭(隆昌路店)",
+      "address": "长阳路与隆昌路交叉口北80米(隆昌路地铁站4号口旁)",
+      "distance": "12m"
+    },
+    {
+      "brand": "刘文祥麻辣烫(隆昌路店)",
+      "address": "隆昌路615-1号(隆昌路地铁站4号口步行200米)",
+      "distance": "12m"
+    },
+    {
+      "brand": "一品湘木桶饭(隆昌路地铁站店)",
+      "address": "隆昌路与长阳路交叉口北80米(隆昌路地铁站4号口步行90米)",
+      "distance": "0m"
+    },
+    {
+      "brand": "食其家·牛丼咖喱(七巧国店)",
+      "address": "隆昌路586号(复旦软件园1号楼)1-5层七巧国一楼C1b号",
+      "distance": "1m"
+    },
+    {
+      "brand": "粥皇港式茶餐厅",
+      "address": "七巧国复旦软件园B1楼B20号(隆昌路地铁站4号口旁)",
+      "distance": "5m"
+    },
+    {
+      "brand": "鱼你在一起(复旦软件园店)",
+      "address": "隆昌路586号七巧国B1层洛克集市内",
+      "distance": "5m"
+    },
+    {
+      "brand": "海底捞·捞派小厨",
+      "address": "隆昌路复旦软件园1号楼(隆昌路地铁站4号口旁)",
+      "distance": "5m"
+    },
+    {
+      "brand": "煲珠公·老红糖珍珠奶茶(隆昌路复旦软件园店)",
+      "address": "隆昌路586号1楼A3c号(隆昌路地铁站4号口)",
+      "distance": "5m"
+    },
+    {
+      "brand": "豪享来(隆昌店)",
+      "address": "定海路街道隆昌路586号七巧国2楼A2",
+      "distance": "5m"
+    },
+    {
+      "brand": "福百分脆皮烧鸡(隆昌路店)",
+      "address": "隆昌路复旦软件园B1层b16铺位",
+      "distance": "5m"
+    },
+    {
+      "brand": "稻香家赣湘·老盒饭(隆昌路店)",
+      "address": "长阳路与隆昌路交叉口北80米(隆昌路地铁站4号口旁)",
+      "distance": "12m"
+    },
+    {
+      "brand": "刘文祥麻辣烫(隆昌路店)",
+      "address": "隆昌路615-1号(隆昌路地铁站4号口步行200米)",
+      "distance": "12m"
+    },
+    {
+      "brand": "一品湘木桶饭(隆昌路地铁站店)",
+      "address": "隆昌路与长阳路交叉口北80米(隆昌路地铁站4号口步行90米)",
+      "distance": "0m"
+    },
+    {
+      "brand": "食其家·牛丼咖喱(七巧国店)",
+      "address": "隆昌路586号(复旦软件园1号楼)1-5层七巧国一楼C1b号",
+      "distance": "1m"
+    },
+    {
+      "brand": "粥皇港式茶餐厅",
+      "address": "七巧国复旦软件园B1楼B20号(隆昌路地铁站4号口旁)",
+      "distance": "5m"
+    },
+    {
+      "brand": "鱼你在一起(复旦软件园店)",
+      "address": "隆昌路586号七巧国B1层洛克集市内",
+      "distance": "5m"
+    },
+    {
+      "brand": "海底捞·捞派小厨",
+      "address": "隆昌路复旦软件园1号楼(隆昌路地铁站4号口旁)",
+      "distance": "5m"
+    },
+    {
+      "brand": "煲珠公·老红糖珍珠奶茶(隆昌路复旦软件园店)",
+      "address": "隆昌路586号1楼A3c号(隆昌路地铁站4号口)",
+      "distance": "5m"
+    },
+    {
+      "brand": "豪享来(隆昌店)",
+      "address": "定海路街道隆昌路586号七巧国2楼A2",
+      "distance": "5m"
+    },
+    {
+      "brand": "福百分脆皮烧鸡(隆昌路店)",
+      "address": "隆昌路复旦软件园B1层b16铺位",
+      "distance": "5m"
+    },
+    {
+      "brand": "稻香家赣湘·老盒饭(隆昌路店)",
+      "address": "长阳路与隆昌路交叉口北80米(隆昌路地铁站4号口旁)",
+      "distance": "12m"
+    },
+    {
+      "brand": "刘文祥麻辣烫(隆昌路店)",
+      "address": "隆昌路615-1号(隆昌路地铁站4号口步行200米)",
+      "distance": "12m"
+    },
+    {
+      "brand": "一品湘木桶饭(隆昌路地铁站店)",
+      "address": "隆昌路与长阳路交叉口北80米(隆昌路地铁站4号口步行90米)",
+      "distance": "0m"
+    },
+    {
+      "brand": "食其家·牛丼咖喱(七巧国店)",
+      "address": "隆昌路586号(复旦软件园1号楼)1-5层七巧国一楼C1b号",
+      "distance": "1m"
+    },
+    {
+      "brand": "粥皇港式茶餐厅",
+      "address": "七巧国复旦软件园B1楼B20号(隆昌路地铁站4号口旁)",
+      "distance": "5m"
+    },
+    {
+      "brand": "鱼你在一起(复旦软件园店)",
+      "address": "隆昌路586号七巧国B1层洛克集市内",
+      "distance": "5m"
+    },
+    {
+      "brand": "海底捞·捞派小厨",
+      "address": "隆昌路复旦软件园1号楼(隆昌路地铁站4号口旁)",
+      "distance": "5m"
+    },
+    {
+      "brand": "煲珠公·老红糖珍珠奶茶(隆昌路复旦软件园店)",
+      "address": "隆昌路586号1楼A3c号(隆昌路地铁站4号口)",
+      "distance": "5m"
+    },
+    {
+      "brand": "豪享来(隆昌店)",
+      "address": "定海路街道隆昌路586号七巧国2楼A2",
+      "distance": "5m"
+    },
+    {
+      "brand": "福百分脆皮烧鸡(隆昌路店)",
+      "address": "隆昌路复旦软件园B1层b16铺位",
+      "distance": "5m"
+    },
+    {
+      "brand": "稻香家赣湘·老盒饭(隆昌路店)",
+      "address": "长阳路与隆昌路交叉口北80米(隆昌路地铁站4号口旁)",
+      "distance": "12m"
+    },
+    {
+      "brand": "刘文祥麻辣烫(隆昌路店)",
+      "address": "隆昌路615-1号(隆昌路地铁站4号口步行200米)",
+      "distance": "12m"
+    },
+    {
+      "brand": "一品湘木桶饭(隆昌路地铁站店)",
+      "address": "隆昌路与长阳路交叉口北80米(隆昌路地铁站4号口步行90米)",
+      "distance": "0m"
+    },
+    {
+      "brand": "食其家·牛丼咖喱(七巧国店)",
+      "address": "隆昌路586号(复旦软件园1号楼)1-5层七巧国一楼C1b号",
+      "distance": "1m"
+    },
+    {
+      "brand": "粥皇港式茶餐厅",
+      "address": "七巧国复旦软件园B1楼B20号(隆昌路地铁站4号口旁)",
+      "distance": "5m"
+    },
+    {
+      "brand": "鱼你在一起(复旦软件园店)",
+      "address": "隆昌路586号七巧国B1层洛克集市内",
+      "distance": "5m"
+    },
+    {
+      "brand": "海底捞·捞派小厨",
+      "address": "隆昌路复旦软件园1号楼(隆昌路地铁站4号口旁)",
+      "distance": "5m"
+    },
+    {
+      "brand": "煲珠公·老红糖珍珠奶茶(隆昌路复旦软件园店)",
+      "address": "隆昌路586号1楼A3c号(隆昌路地铁站4号口)",
+      "distance": "5m"
+    },
+    {
+      "brand": "豪享来(隆昌店)",
+      "address": "定海路街道隆昌路586号七巧国2楼A2",
+      "distance": "5m"
+    },
+    {
+      "brand": "福百分脆皮烧鸡(隆昌路店)",
+      "address": "隆昌路复旦软件园B1层b16铺位",
+      "distance": "5m"
+    },
+    {
+      "brand": "稻香家赣湘·老盒饭(隆昌路店)",
+      "address": "长阳路与隆昌路交叉口北80米(隆昌路地铁站4号口旁)",
+      "distance": "12m"
+    },
+    {
+      "brand": "刘文祥麻辣烫(隆昌路店)",
+      "address": "隆昌路615-1号(隆昌路地铁站4号口步行200米)",
+      "distance": "12m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海宝龙·旭辉广场",
+      "open_date": "2021-07-30",
+      "area": "4.2万㎡",
+      "jun_daily_avg": "2.1万人次",
+      "weekday_avg": "2.1万人次",
+      "holiday_avg": "2.3万人次"
+    },
+    {
+      "name": "上海百联滨江购物中心",
+      "open_date": "2014-11-22",
+      "area": "6万㎡",
+      "jun_daily_avg": "2.1万人次",
+      "weekday_avg": "2万人次",
+      "holiday_avg": "2.2万人次"
+    },
+    {
+      "name": "上海国际时尚中心",
+      "open_date": "2010-01-01",
+      "area": "13万㎡",
+      "jun_daily_avg": "1.3万人次",
+      "weekday_avg": "1.1万人次",
+      "holiday_avg": "1.8万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 34.0,
+      "within_1yr_pct": 29.4,
+      "1_3yr_pct": 38.2,
+      "over_3yr_pct": 32.4
+    },
+    {
+      "type": "购物",
+      "count": 9.0,
+      "within_1yr_pct": 22.2,
+      "1_3yr_pct": 44.4,
+      "over_3yr_pct": 33.3
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 2.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "教育培训",
+      "count": 7.0,
+      "within_1yr_pct": 28.6,
+      "1_3yr_pct": 42.9,
+      "over_3yr_pct": 28.6
+    },
+    {
+      "type": "生活服务",
+      "count": 21.0,
+      "within_1yr_pct": 19.0,
+      "1_3yr_pct": 38.1,
+      "over_3yr_pct": 42.9
+    },
+    {
+      "type": "运动健身",
+      "count": 5.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 80.0,
+      "over_3yr_pct": 20.0
+    }
+  ]
+}

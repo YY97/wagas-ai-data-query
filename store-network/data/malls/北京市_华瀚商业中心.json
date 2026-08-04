@@ -1,0 +1,301 @@
+{
+  "name": "华瀚商业中心",
+  "city": "北京市",
+  "address": "北京市朝阳区南磨房乡双龙超市(紫南店)华瀚商业中心",
+  "lat": 39.876371,
+  "lng": 116.49649,
+  "overview": {
+    "score": 70.9,
+    "score_rank": "市内前70%",
+    "population_score": 87.9,
+    "area_score": 66.6,
+    "consumption_score": 74.1,
+    "industry_score": 70.8,
+    "annual_sales": "华瀚商业中心是一个位于北京市朝阳区的商业综合体项目，项目开业时间为2006年，位于东四环大柳树路南楼梓庄地铁站西200米，周边常驻人口达20余万人，商业氛围浓厚，交通便利",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 1.3,
+    "open_date": "2006-01-01",
+    "operator": "华瀚投资集团有限公司",
+    "brand": "",
+    "type": "综合型",
+    "floors": "B1-L4"
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "-",
+    "annual_daily_rank": "",
+    "jun_total": 3.1,
+    "jun_total_rank": "市内商场第360名",
+    "jun_daily_avg": 1015.0,
+    "jun_daily_unit": "人次",
+    "jun_daily_rank": "市内商场第360名",
+    "weekday_avg": 1030.0,
+    "weekday_unit": "人次",
+    "weekday_rank": "市内商场第360名",
+    "holiday_avg": 976.0,
+    "holiday_unit": "人次",
+    "holiday_rank": "市内商场第366名"
+  },
+  "population": {
+    "residential": {
+      "500m": 2.0,
+      "1_5km": 9.8,
+      "3km": 58.0
+    },
+    "office": {
+      "500m": 5800.0,
+      "1_5km": 5.1,
+      "3km": 29.2
+    },
+    "permanent": {
+      "500m": 1.9,
+      "1_5km": 9.8,
+      "3km": 56.1
+    }
+  },
+  "business": {
+    "competitors": null,
+    "food": 26.0,
+    "shopping": 34.0,
+    "leisure": 2.0,
+    "education": 5.0,
+    "hotel": 2.0,
+    "services": 60.0,
+    "fitness": 5.0,
+    "auto": 6.0,
+    "total_stores": 23.0,
+    "old_store_3yr_pct": 65.0
+  },
+  "nearby_poi": {
+    "business": 2.0,
+    "community": 234.0,
+    "office": 14.0,
+    "school": 23.0,
+    "hospital": 70.0,
+    "transport": 9.0,
+    "scenic": 71.0
+  },
+  "demographics": {
+    "male_pct": 52.8,
+    "female_pct": null,
+    "education": {
+      "小学": 9.0,
+      "初中": 15.4,
+      "高中": 11.0,
+      "大专": 6.6,
+      "本科": 49.2,
+      "硕士": 7.1,
+      "博士": 1.7
+    },
+    "has_children_pct": 57.9,
+    "no_children_pct": 42.1
+  },
+  "scraped_at": "2026-07-31T19:13:46.686Z",
+  "nearby_restaurants": [
+    {
+      "brand": "塔斯汀中国汉堡(北京市朝阳紫南家园店)",
+      "address": "北京城区紫南家园108号楼1层110",
+      "distance": "14m"
+    },
+    {
+      "brand": "晓寿司·日本料理(欢乐谷店)",
+      "address": "大柳树路108号华翰商业中心一层112-117号",
+      "distance": "19m"
+    },
+    {
+      "brand": "山西刀削面家常菜(华瀚商业中心店)",
+      "address": "大柳树路紫南家园108-111号",
+      "distance": "19m"
+    },
+    {
+      "brand": "中国兰州牛肉拉面",
+      "address": "南楼梓庄路与大柳树路交叉口北80米",
+      "distance": "20m"
+    },
+    {
+      "brand": "美味主食(大柳树店)",
+      "address": "南磨房乡大柳树路紫南家园108号楼111室",
+      "distance": "21m"
+    },
+    {
+      "brand": "伊穆世佳.滩羊馆(原伊佳人餐厅)",
+      "address": "紫南家园108号楼109底商",
+      "distance": "27m"
+    },
+    {
+      "brand": "南城香(大柳树店)",
+      "address": "北京城区紫南家园108号楼1层108-2",
+      "distance": "38m"
+    },
+    {
+      "brand": "紫光园·烤鸭(紫南家园店)",
+      "address": "紫南家园108号楼1层108-3",
+      "distance": "43m"
+    },
+    {
+      "brand": "周福记东北饺子王印象东北菜",
+      "address": "世纪东方嘉园212楼二层",
+      "distance": "122m"
+    },
+    {
+      "brand": "超意兴·把子肉(东方嘉园店)",
+      "address": "世纪东方嘉园212楼一层",
+      "distance": "130m"
+    },
+    {
+      "brand": "塔斯汀中国汉堡(北京市朝阳紫南家园店)",
+      "address": "北京城区紫南家园108号楼1层110",
+      "distance": "14m"
+    },
+    {
+      "brand": "晓寿司·日本料理(欢乐谷店)",
+      "address": "大柳树路108号华翰商业中心一层112-117号",
+      "distance": "19m"
+    },
+    {
+      "brand": "山西刀削面家常菜(华瀚商业中心店)",
+      "address": "大柳树路紫南家园108-111号",
+      "distance": "19m"
+    },
+    {
+      "brand": "中国兰州牛肉拉面",
+      "address": "南楼梓庄路与大柳树路交叉口北80米",
+      "distance": "20m"
+    },
+    {
+      "brand": "美味主食(大柳树店)",
+      "address": "南磨房乡大柳树路紫南家园108号楼111室",
+      "distance": "21m"
+    },
+    {
+      "brand": "伊穆世佳.滩羊馆(原伊佳人餐厅)",
+      "address": "紫南家园108号楼109底商",
+      "distance": "27m"
+    },
+    {
+      "brand": "南城香(大柳树店)",
+      "address": "北京城区紫南家园108号楼1层108-2",
+      "distance": "38m"
+    },
+    {
+      "brand": "紫光园·烤鸭(紫南家园店)",
+      "address": "紫南家园108号楼1层108-3",
+      "distance": "43m"
+    },
+    {
+      "brand": "周福记东北饺子王印象东北菜",
+      "address": "世纪东方嘉园212楼二层",
+      "distance": "122m"
+    },
+    {
+      "brand": "超意兴·把子肉(东方嘉园店)",
+      "address": "世纪东方嘉园212楼一层",
+      "distance": "130m"
+    },
+    {
+      "brand": "塔斯汀中国汉堡(北京市朝阳紫南家园店)",
+      "address": "北京城区紫南家园108号楼1层110",
+      "distance": "14m"
+    },
+    {
+      "brand": "晓寿司·日本料理(欢乐谷店)",
+      "address": "大柳树路108号华翰商业中心一层112-117号",
+      "distance": "19m"
+    },
+    {
+      "brand": "山西刀削面家常菜(华瀚商业中心店)",
+      "address": "大柳树路紫南家园108-111号",
+      "distance": "19m"
+    },
+    {
+      "brand": "中国兰州牛肉拉面",
+      "address": "南楼梓庄路与大柳树路交叉口北80米",
+      "distance": "20m"
+    },
+    {
+      "brand": "美味主食(大柳树店)",
+      "address": "南磨房乡大柳树路紫南家园108号楼111室",
+      "distance": "21m"
+    },
+    {
+      "brand": "伊穆世佳.滩羊馆(原伊佳人餐厅)",
+      "address": "紫南家园108号楼109底商",
+      "distance": "27m"
+    },
+    {
+      "brand": "南城香(大柳树店)",
+      "address": "北京城区紫南家园108号楼1层108-2",
+      "distance": "38m"
+    },
+    {
+      "brand": "紫光园·烤鸭(紫南家园店)",
+      "address": "紫南家园108号楼1层108-3",
+      "distance": "43m"
+    },
+    {
+      "brand": "周福记东北饺子王印象东北菜",
+      "address": "世纪东方嘉园212楼二层",
+      "distance": "122m"
+    },
+    {
+      "brand": "超意兴·把子肉(东方嘉园店)",
+      "address": "世纪东方嘉园212楼一层",
+      "distance": "130m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "北京燕莎奥特莱斯购物中心",
+      "open_date": "2002-01-01",
+      "area": "10万㎡",
+      "jun_daily_avg": "3.6万人次",
+      "weekday_avg": "3.3万人次",
+      "holiday_avg": "4.6万人次"
+    },
+    {
+      "name": "北京弯里中心",
+      "open_date": "2007-04-01",
+      "area": "6.5万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 8.0,
+      "within_1yr_pct": 12.5,
+      "1_3yr_pct": 12.5,
+      "over_3yr_pct": 75.0
+    },
+    {
+      "type": "购物",
+      "count": 4.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 75.0
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 2.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "生活服务",
+      "count": 8.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "运动健身",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    }
+  ]
+}

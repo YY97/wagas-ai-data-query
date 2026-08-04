@@ -1,0 +1,447 @@
+{
+  "name": "国泰百货(天通苑店)",
+  "city": "北京市",
+  "address": "北京市昌平区太平庄东一路56-14号",
+  "lat": 40.068232,
+  "lng": 116.439587,
+  "overview": {
+    "score": 89.7,
+    "score_rank": "市内前30%",
+    "population_score": 95.1,
+    "area_score": 72.9,
+    "consumption_score": 67.7,
+    "industry_score": 89.7,
+    "annual_sales": "1500",
+    "annual_sales_unit": "万元",
+    "area_size_sqm": 4.2,
+    "open_date": "2009-12-01",
+    "operator": "北京国泰平安百货有限公司",
+    "brand": "",
+    "type": "购物型",
+    "floors": "B1-L4"
+  },
+  "traffic": {
+    "annual_daily": 3.24,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第63",
+    "jun_total": 114.6,
+    "jun_total_rank": "市内商场第80名",
+    "jun_daily_avg": 3.8,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第80名",
+    "weekday_avg": 3.6,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第82名",
+    "holiday_avg": 4.5,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第84名"
+  },
+  "population": {
+    "residential": {
+      "500m": 3.0,
+      "1_5km": 17.5,
+      "3km": 45.2
+    },
+    "office": {
+      "500m": 1.0,
+      "1_5km": 4.6,
+      "3km": 14.0
+    },
+    "permanent": {
+      "500m": 3.0,
+      "1_5km": 15.7,
+      "3km": 40.2
+    }
+  },
+  "business": {
+    "competitors": null,
+    "food": 102.0,
+    "shopping": 88.0,
+    "leisure": 14.0,
+    "education": 16.0,
+    "hotel": 10.0,
+    "services": 76.0,
+    "fitness": 14.0,
+    "auto": 3.0,
+    "total_stores": 99.0,
+    "old_store_3yr_pct": 52.0
+  },
+  "nearby_poi": {
+    "business": null,
+    "community": 89.0,
+    "office": 1.0,
+    "school": 22.0,
+    "hospital": 37.0,
+    "transport": 10.0,
+    "scenic": 78.0
+  },
+  "demographics": {
+    "male_pct": 49.7,
+    "female_pct": null,
+    "education": {
+      "小学": 7.8,
+      "初中": 12.9,
+      "高中": 10.6,
+      "大专": 6.7,
+      "本科": 49.2,
+      "硕士": 9.8,
+      "博士": 3.0
+    },
+    "has_children_pct": 58.1,
+    "no_children_pct": 41.9
+  },
+  "scraped_at": "2026-08-01T06:46:59.756Z",
+  "nearby_restaurants": [
+    {
+      "brand": "咏巷炸鸡(国泰物美店)",
+      "address": "东小口镇天通苑东苑东三区2号楼国泰百货(天通苑店)F1层",
+      "distance": "4m"
+    },
+    {
+      "brand": "瑞幸咖啡(天通苑国泰百货店)",
+      "address": "国泰百货天通苑店一楼",
+      "distance": "4m"
+    },
+    {
+      "brand": "关中娃·油泼面(天通苑国泰百货店)",
+      "address": "东小口镇天通苑东苑东三区2号楼国泰百货(天通苑店)F1层",
+      "distance": "12m"
+    },
+    {
+      "brand": "半天妖烤鱼(天通苑国泰店)",
+      "address": "北京城区北京城区北京城区天通苑国泰百货4层",
+      "distance": "14m"
+    },
+    {
+      "brand": "呷哺呷哺(天通苑国泰店)",
+      "address": "东小口镇天通苑东苑东三区2号楼国泰天通苑店四层",
+      "distance": "15m"
+    },
+    {
+      "brand": "煌上煌酱鸭(北京物美天通苑店)",
+      "address": "东小口镇太平庄东路与太平庄东一路交口国泰百货一层",
+      "distance": "16m"
+    },
+    {
+      "brand": "沪上阿姨·精选茶饮(北京天通苑国泰店)",
+      "address": "东小口镇天通苑东苑三区2号楼1层1028-F-B025",
+      "distance": "17m"
+    },
+    {
+      "brand": "蜜雪冰城(天通苑国泰百货店)",
+      "address": "天通东苑三区2号国泰百货F1",
+      "distance": "19m"
+    },
+    {
+      "brand": "卷霸天·卷饼王(天通苑店)",
+      "address": "东小口镇天通苑东苑东三区2号楼国泰百货一层",
+      "distance": "21m"
+    },
+    {
+      "brand": "冯胖子宫廷香酥牛肉饼(天通苑国泰百货店)",
+      "address": "东小口镇天通苑东苑东三区2号楼国泰百货(天通苑店)F1层",
+      "distance": "21m"
+    },
+    {
+      "brand": "咏巷炸鸡(国泰物美店)",
+      "address": "东小口镇天通苑东苑东三区2号楼国泰百货(天通苑店)F1层",
+      "distance": "4m"
+    },
+    {
+      "brand": "瑞幸咖啡(天通苑国泰百货店)",
+      "address": "国泰百货天通苑店一楼",
+      "distance": "4m"
+    },
+    {
+      "brand": "关中娃·油泼面(天通苑国泰百货店)",
+      "address": "东小口镇天通苑东苑东三区2号楼国泰百货(天通苑店)F1层",
+      "distance": "12m"
+    },
+    {
+      "brand": "半天妖烤鱼(天通苑国泰店)",
+      "address": "北京城区北京城区北京城区天通苑国泰百货4层",
+      "distance": "14m"
+    },
+    {
+      "brand": "呷哺呷哺(天通苑国泰店)",
+      "address": "东小口镇天通苑东苑东三区2号楼国泰天通苑店四层",
+      "distance": "15m"
+    },
+    {
+      "brand": "煌上煌酱鸭(北京物美天通苑店)",
+      "address": "东小口镇太平庄东路与太平庄东一路交口国泰百货一层",
+      "distance": "16m"
+    },
+    {
+      "brand": "沪上阿姨·精选茶饮(北京天通苑国泰店)",
+      "address": "东小口镇天通苑东苑三区2号楼1层1028-F-B025",
+      "distance": "17m"
+    },
+    {
+      "brand": "蜜雪冰城(天通苑国泰百货店)",
+      "address": "天通东苑三区2号国泰百货F1",
+      "distance": "19m"
+    },
+    {
+      "brand": "卷霸天·卷饼王(天通苑店)",
+      "address": "东小口镇天通苑东苑东三区2号楼国泰百货一层",
+      "distance": "21m"
+    },
+    {
+      "brand": "冯胖子宫廷香酥牛肉饼(天通苑国泰百货店)",
+      "address": "东小口镇天通苑东苑东三区2号楼国泰百货(天通苑店)F1层",
+      "distance": "21m"
+    },
+    {
+      "brand": "咏巷炸鸡(国泰物美店)",
+      "address": "东小口镇天通苑东苑东三区2号楼国泰百货(天通苑店)F1层",
+      "distance": "4m"
+    },
+    {
+      "brand": "瑞幸咖啡(天通苑国泰百货店)",
+      "address": "国泰百货天通苑店一楼",
+      "distance": "4m"
+    },
+    {
+      "brand": "关中娃·油泼面(天通苑国泰百货店)",
+      "address": "东小口镇天通苑东苑东三区2号楼国泰百货(天通苑店)F1层",
+      "distance": "12m"
+    },
+    {
+      "brand": "半天妖烤鱼(天通苑国泰店)",
+      "address": "北京城区北京城区北京城区天通苑国泰百货4层",
+      "distance": "14m"
+    },
+    {
+      "brand": "呷哺呷哺(天通苑国泰店)",
+      "address": "东小口镇天通苑东苑东三区2号楼国泰天通苑店四层",
+      "distance": "15m"
+    },
+    {
+      "brand": "煌上煌酱鸭(北京物美天通苑店)",
+      "address": "东小口镇太平庄东路与太平庄东一路交口国泰百货一层",
+      "distance": "16m"
+    },
+    {
+      "brand": "沪上阿姨·精选茶饮(北京天通苑国泰店)",
+      "address": "东小口镇天通苑东苑三区2号楼1层1028-F-B025",
+      "distance": "17m"
+    },
+    {
+      "brand": "蜜雪冰城(天通苑国泰百货店)",
+      "address": "天通东苑三区2号国泰百货F1",
+      "distance": "19m"
+    },
+    {
+      "brand": "卷霸天·卷饼王(天通苑店)",
+      "address": "东小口镇天通苑东苑东三区2号楼国泰百货一层",
+      "distance": "21m"
+    },
+    {
+      "brand": "冯胖子宫廷香酥牛肉饼(天通苑国泰百货店)",
+      "address": "东小口镇天通苑东苑东三区2号楼国泰百货(天通苑店)F1层",
+      "distance": "21m"
+    },
+    {
+      "brand": "咏巷炸鸡(国泰物美店)",
+      "address": "东小口镇天通苑东苑东三区2号楼国泰百货(天通苑店)F1层",
+      "distance": "4m"
+    },
+    {
+      "brand": "瑞幸咖啡(天通苑国泰百货店)",
+      "address": "国泰百货天通苑店一楼",
+      "distance": "4m"
+    },
+    {
+      "brand": "关中娃·油泼面(天通苑国泰百货店)",
+      "address": "东小口镇天通苑东苑东三区2号楼国泰百货(天通苑店)F1层",
+      "distance": "12m"
+    },
+    {
+      "brand": "半天妖烤鱼(天通苑国泰店)",
+      "address": "北京城区北京城区北京城区天通苑国泰百货4层",
+      "distance": "14m"
+    },
+    {
+      "brand": "呷哺呷哺(天通苑国泰店)",
+      "address": "东小口镇天通苑东苑东三区2号楼国泰天通苑店四层",
+      "distance": "15m"
+    },
+    {
+      "brand": "煌上煌酱鸭(北京物美天通苑店)",
+      "address": "东小口镇太平庄东路与太平庄东一路交口国泰百货一层",
+      "distance": "16m"
+    },
+    {
+      "brand": "沪上阿姨·精选茶饮(北京天通苑国泰店)",
+      "address": "东小口镇天通苑东苑三区2号楼1层1028-F-B025",
+      "distance": "17m"
+    },
+    {
+      "brand": "蜜雪冰城(天通苑国泰百货店)",
+      "address": "天通东苑三区2号国泰百货F1",
+      "distance": "19m"
+    },
+    {
+      "brand": "卷霸天·卷饼王(天通苑店)",
+      "address": "东小口镇天通苑东苑东三区2号楼国泰百货一层",
+      "distance": "21m"
+    },
+    {
+      "brand": "冯胖子宫廷香酥牛肉饼(天通苑国泰百货店)",
+      "address": "东小口镇天通苑东苑东三区2号楼国泰百货(天通苑店)F1层",
+      "distance": "21m"
+    },
+    {
+      "brand": "咏巷炸鸡(国泰物美店)",
+      "address": "东小口镇天通苑东苑东三区2号楼国泰百货(天通苑店)F1层",
+      "distance": "4m"
+    },
+    {
+      "brand": "瑞幸咖啡(天通苑国泰百货店)",
+      "address": "国泰百货天通苑店一楼",
+      "distance": "4m"
+    },
+    {
+      "brand": "关中娃·油泼面(天通苑国泰百货店)",
+      "address": "东小口镇天通苑东苑东三区2号楼国泰百货(天通苑店)F1层",
+      "distance": "12m"
+    },
+    {
+      "brand": "半天妖烤鱼(天通苑国泰店)",
+      "address": "北京城区北京城区北京城区天通苑国泰百货4层",
+      "distance": "14m"
+    },
+    {
+      "brand": "呷哺呷哺(天通苑国泰店)",
+      "address": "东小口镇天通苑东苑东三区2号楼国泰天通苑店四层",
+      "distance": "15m"
+    },
+    {
+      "brand": "煌上煌酱鸭(北京物美天通苑店)",
+      "address": "东小口镇太平庄东路与太平庄东一路交口国泰百货一层",
+      "distance": "16m"
+    },
+    {
+      "brand": "沪上阿姨·精选茶饮(北京天通苑国泰店)",
+      "address": "东小口镇天通苑东苑三区2号楼1层1028-F-B025",
+      "distance": "17m"
+    },
+    {
+      "brand": "蜜雪冰城(天通苑国泰百货店)",
+      "address": "天通东苑三区2号国泰百货F1",
+      "distance": "19m"
+    },
+    {
+      "brand": "卷霸天·卷饼王(天通苑店)",
+      "address": "东小口镇天通苑东苑东三区2号楼国泰百货一层",
+      "distance": "21m"
+    },
+    {
+      "brand": "冯胖子宫廷香酥牛肉饼(天通苑国泰百货店)",
+      "address": "东小口镇天通苑东苑东三区2号楼国泰百货(天通苑店)F1层",
+      "distance": "21m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "北京上品折扣(回龙观店)",
+      "open_date": "2013-12-20",
+      "area": "1.2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "BHG Mall北京华联同成街购物中心",
+      "open_date": "2013-05-01",
+      "area": "4万㎡",
+      "jun_daily_avg": "1.3万人次",
+      "weekday_avg": "1.2万人次",
+      "holiday_avg": "1.8万人次"
+    },
+    {
+      "name": "北京回龙观良庄春天里",
+      "open_date": "2022-12-22",
+      "area": "2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "北京庄盛奥特莱斯",
+      "open_date": "2013-10-25",
+      "area": "1万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "北京华联回龙观购物中心",
+      "open_date": "2007-02-01",
+      "area": "6.5万㎡",
+      "jun_daily_avg": "2.7万人次",
+      "weekday_avg": "2.4万人次",
+      "holiday_avg": "3.5万人次"
+    },
+    {
+      "name": "北京小站公园STATION PARK",
+      "open_date": "2025-10-01",
+      "area": "3.3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 34.0,
+      "within_1yr_pct": 29.4,
+      "1_3yr_pct": 23.5,
+      "over_3yr_pct": 47.1
+    },
+    {
+      "type": "购物",
+      "count": 39.0,
+      "within_1yr_pct": 7.7,
+      "1_3yr_pct": 25.6,
+      "over_3yr_pct": 66.7
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 8.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 12.5,
+      "over_3yr_pct": 37.5
+    },
+    {
+      "type": "教育培训",
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "生活服务",
+      "count": 10.0,
+      "within_1yr_pct": 30.0,
+      "1_3yr_pct": 30.0,
+      "over_3yr_pct": 40.0
+    },
+    {
+      "type": "运动健身",
+      "count": 5.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 60.0,
+      "over_3yr_pct": 20.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 1.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
+    }
+  ]
+}

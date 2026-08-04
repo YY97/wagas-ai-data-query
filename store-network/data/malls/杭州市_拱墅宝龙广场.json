@@ -1,0 +1,281 @@
+{
+  "name": "拱墅宝龙广场",
+  "city": "杭州市",
+  "address": "江苏省南京市玄武区中山路53号",
+  "lat": 29.358469,
+  "lng": 119.222123,
+  "overview": {
+    "score": 92.9,
+    "score_rank": "市内前30%",
+    "population_score": 100.0,
+    "area_score": 94.4,
+    "consumption_score": 85.6,
+    "industry_score": 92.8,
+    "annual_sales": "3300",
+    "annual_sales_unit": "万元",
+    "area_size_sqm": 4.0,
+    "open_date": "2008-05-01",
+    "operator": "金鹰商贸集团有限公司",
+    "brand": "金鹰",
+    "type": "购物型",
+    "floors": "B1-L5"
+  },
+  "traffic": {
+    "annual_daily": 2.92,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第34",
+    "jun_total": 137.4,
+    "jun_total_rank": "市内商场第32名",
+    "jun_daily_avg": 4.6,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第32名",
+    "weekday_avg": 4.4,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第26名",
+    "holiday_avg": 5.2,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第38名"
+  },
+  "population": {
+    "residential": {
+      "500m": 3.6,
+      "1_5km": 20.1,
+      "3km": 63.7
+    },
+    "office": {
+      "500m": 3.8,
+      "1_5km": 24.5,
+      "3km": 58.6
+    },
+    "permanent": {
+      "500m": 4.1,
+      "1_5km": 25.1,
+      "3km": 72.6
+    }
+  },
+  "business": {
+    "competitors": 12.0,
+    "food": 579.0,
+    "shopping": 390.0,
+    "leisure": 49.0,
+    "education": 98.0,
+    "hotel": 165.0,
+    "services": 314.0,
+    "fitness": 50.0,
+    "auto": 23.0,
+    "total_stores": 155.0,
+    "old_store_3yr_pct": 52.0
+  },
+  "nearby_poi": {
+    "business": 21.0,
+    "community": 675.0,
+    "office": 153.0,
+    "school": 65.0,
+    "hospital": 166.0,
+    "transport": 12.0,
+    "scenic": 908.0
+  },
+  "demographics": {
+    "male_pct": 45.1,
+    "female_pct": null,
+    "education": {
+      "小学": 9.1,
+      "初中": 17.0,
+      "高中": 11.8,
+      "大专": 7.4,
+      "本科": 45.5,
+      "硕士": 7.2,
+      "博士": 2.0
+    },
+    "has_children_pct": 58.8,
+    "no_children_pct": 41.2
+  },
+  "scraped_at": "2026-08-02T08:18:13.318Z",
+  "nearby_restaurants": [
+    {
+      "brand": "钱记小馆·特色家常味(珠江路店)",
+      "address": "洪武北路188号长发数码大厦",
+      "distance": "491m"
+    },
+    {
+      "brand": "Costa Coffee(儿童医院广州路店)",
+      "address": "广州路与青岛路交叉口东北180米",
+      "distance": "492m"
+    },
+    {
+      "brand": "好全记·杂粮煎饼(长江花园南区店)",
+      "address": "长江花园南区西北2门旁",
+      "distance": "496m"
+    },
+    {
+      "brand": "星巴克(鼓楼医院店)",
+      "address": "中山路321号鼓楼医院南扩新院区门诊大楼1层",
+      "distance": "496m"
+    },
+    {
+      "brand": "买氏羊鲜丰新疆特色美食(新街口店)(暂停营业)",
+      "address": "中山路81号华夏大厦F1层",
+      "distance": "497m"
+    },
+    {
+      "brand": "福兴隆江猪脚饭(红庙店)",
+      "address": "洪武北路115号红庙小区8号楼",
+      "distance": "498m"
+    },
+    {
+      "brand": "老馄饨(德基广场店)",
+      "address": "长江花园13号",
+      "distance": "499m"
+    },
+    {
+      "brand": "老北京羊蝎子火锅(新街口店)",
+      "address": "长江花园13号",
+      "distance": "499m"
+    },
+    {
+      "brand": "老张平价小炒店",
+      "address": "长江花园南区西北2门旁",
+      "distance": "499m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "南京友谊广场",
+      "open_date": "2016-09-30",
+      "area": "3.5万㎡",
+      "jun_daily_avg": "1.8万人次",
+      "weekday_avg": "1.6万人次",
+      "holiday_avg": "2.3万人次"
+    },
+    {
+      "name": "南京House of Fraser 东方福来德",
+      "open_date": "2016-12-01",
+      "area": "5.5万㎡",
+      "jun_daily_avg": "12.5万人次",
+      "weekday_avg": "10.8万人次",
+      "holiday_avg": "17.2万人次"
+    },
+    {
+      "name": "南京新百",
+      "open_date": "2021-08-01",
+      "area": "6万㎡",
+      "jun_daily_avg": "8.9万人次",
+      "weekday_avg": "7.6万人次",
+      "holiday_avg": "12.5万人次"
+    },
+    {
+      "name": "南京金鹰国际购物中心(新街口店)",
+      "open_date": "1996-01-01",
+      "area": "11万㎡",
+      "jun_daily_avg": "5.5万人次",
+      "weekday_avg": "5万人次",
+      "holiday_avg": "6.7万人次"
+    },
+    {
+      "name": "南京时尚莱迪商城",
+      "open_date": "2005-04-01",
+      "area": "2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "南京JLC金陵中環",
+      "open_date": "2023-09-28",
+      "area": "8.6万㎡",
+      "jun_daily_avg": "9.1万人次",
+      "weekday_avg": "7.9万人次",
+      "holiday_avg": "12.3万人次"
+    },
+    {
+      "name": "南京新街口大洋百货",
+      "open_date": "2003-01-01",
+      "area": "4万㎡",
+      "jun_daily_avg": "4.7万人次",
+      "weekday_avg": "4万人次",
+      "holiday_avg": "6.6万人次"
+    },
+    {
+      "name": "南京中央商场(新街口店)",
+      "open_date": "1989-08-10",
+      "area": "7万㎡",
+      "jun_daily_avg": "7.5万人次",
+      "weekday_avg": "6.3万人次",
+      "holiday_avg": "10.7万人次"
+    },
+    {
+      "name": "南京新街口印象汇",
+      "open_date": "2004-01-01",
+      "area": "5万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "南京新世纪广场",
+      "open_date": "2007-12-08",
+      "area": "3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 40.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 15.0,
+      "over_3yr_pct": 65.0
+    },
+    {
+      "type": "购物",
+      "count": 83.0,
+      "within_1yr_pct": 32.5,
+      "1_3yr_pct": 16.9,
+      "over_3yr_pct": 50.6
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 6.0,
+      "within_1yr_pct": 16.7,
+      "1_3yr_pct": 66.7,
+      "over_3yr_pct": 16.7
+    },
+    {
+      "type": "教育培训",
+      "count": 4.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 4.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 75.0
+    },
+    {
+      "type": "生活服务",
+      "count": 11.0,
+      "within_1yr_pct": 27.3,
+      "1_3yr_pct": 27.3,
+      "over_3yr_pct": 45.5
+    },
+    {
+      "type": "运动健身",
+      "count": 4.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 75.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 3.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 66.7
+    }
+  ]
+}

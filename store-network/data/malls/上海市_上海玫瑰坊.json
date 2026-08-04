@@ -1,0 +1,472 @@
+{
+  "name": "上海玫瑰坊",
+  "city": "上海市",
+  "address": "上海市长宁区长宁路890号(中山公园地铁站3号口旁)",
+  "lat": 31.221611,
+  "lng": 121.419034,
+  "overview": {
+    "score": 83.2,
+    "score_rank": "市内前30%",
+    "population_score": 89.4,
+    "area_score": 100.0,
+    "consumption_score": 84.7,
+    "industry_score": 83.1,
+    "annual_sales": "上海玫瑰坊商业街总建筑面积约1.7万平方米，共有4层，聚集了上百家特色店铺，走廊为彩色玻璃装饰，汇聚了小吃、餐厅、服饰小店、小商品等店铺，公园、住宅、酒店式公寓等布局周边，是上海市居民休闲购物的好去处",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 1.7,
+    "open_date": "2004-05-01",
+    "operator": "上海利雄置业发展有限公司",
+    "brand": "",
+    "type": "综合型",
+    "floors": "B2-L2"
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "-",
+    "annual_daily_rank": "",
+    "jun_total": null,
+    "jun_total_rank": "",
+    "jun_daily_avg": null,
+    "jun_daily_unit": "",
+    "jun_daily_rank": "",
+    "weekday_avg": null,
+    "weekday_unit": "",
+    "weekday_rank": "",
+    "holiday_avg": null,
+    "holiday_unit": "",
+    "holiday_rank": ""
+  },
+  "population": {
+    "residential": {
+      "500m": 2.3,
+      "1_5km": 29.5,
+      "3km": 102.6
+    },
+    "office": {
+      "500m": 3.7,
+      "1_5km": 20.3,
+      "3km": 85.0
+    },
+    "permanent": {
+      "500m": 4.3,
+      "1_5km": 31.7,
+      "3km": 113.0
+    }
+  },
+  "business": {
+    "competitors": 17.0,
+    "food": 511.0,
+    "shopping": 456.0,
+    "leisure": 53.0,
+    "education": 84.0,
+    "hotel": 61.0,
+    "services": 335.0,
+    "fitness": 44.0,
+    "auto": 39.0,
+    "total_stores": 61.0,
+    "old_store_3yr_pct": 74.0
+  },
+  "nearby_poi": {
+    "business": 14.0,
+    "community": 1046.0,
+    "office": 137.0,
+    "school": 63.0,
+    "hospital": 161.0,
+    "transport": 16.0,
+    "scenic": 496.0
+  },
+  "demographics": {
+    "male_pct": 48.0,
+    "female_pct": null,
+    "education": {
+      "小学": 8.8,
+      "初中": 17.1,
+      "高中": 11.7,
+      "大专": 6.7,
+      "本科": 48.4,
+      "硕士": 5.4,
+      "博士": 1.9
+    },
+    "has_children_pct": 59.8,
+    "no_children_pct": 40.2
+  },
+  "scraped_at": "2026-07-31T16:57:55.747Z",
+  "nearby_restaurants": [
+    {
+      "brand": "牛仔很忙",
+      "address": "长宁路890号玫瑰坊(中山公园地铁站6号口旁)",
+      "distance": "8m"
+    },
+    {
+      "brand": "名阪烧文字烧·大阪烧·广岛烧居酒屋(中山公园店)",
+      "address": "长宁路890号玫瑰坊2F层(中山公园地铁站6号口步行50米)",
+      "distance": "16m"
+    },
+    {
+      "brand": "一幸",
+      "address": "长宁路890号玫瑰坊2F层(中山公园地铁站6号口步行50米)",
+      "distance": "19m"
+    },
+    {
+      "brand": "瑞幸咖啡(玫瑰坊店)",
+      "address": "长宁路890号玫瑰坊商场一层F10室",
+      "distance": "20m"
+    },
+    {
+      "brand": "FitBee(中山公园店)",
+      "address": "长宁路890号玫瑰坊B1层",
+      "distance": "27m"
+    },
+    {
+      "brand": "昇鳗鱼家(玫瑰坊店)",
+      "address": "汇川路160号玫瑰坊2楼(中山公园地铁站6号口步行60米)",
+      "distance": "27m"
+    },
+    {
+      "brand": "超级鸡车(长宁中山公园店)",
+      "address": "长宁路与汇川路交叉口东140米(中山公园地铁站6号口旁)",
+      "distance": "28m"
+    },
+    {
+      "brand": "醇朋友紫菜包饭(玫瑰坊店)",
+      "address": "长宁路890号玫瑰坊B1层(中山公园地铁站6号口步行70米)",
+      "distance": "30m"
+    },
+    {
+      "brand": "咕咕鸡鸡公煲(玫瑰坊)",
+      "address": "长宁路890号玫瑰坊2F层",
+      "distance": "35m"
+    },
+    {
+      "brand": "潘甬兴糕点(玫瑰坊店)",
+      "address": "长宁路890号玫瑰坊1F层(中山公园地铁站6号口旁)",
+      "distance": "40m"
+    },
+    {
+      "brand": "牛仔很忙",
+      "address": "长宁路890号玫瑰坊(中山公园地铁站6号口旁)",
+      "distance": "8m"
+    },
+    {
+      "brand": "名阪烧文字烧·大阪烧·广岛烧居酒屋(中山公园店)",
+      "address": "长宁路890号玫瑰坊2F层(中山公园地铁站6号口步行50米)",
+      "distance": "16m"
+    },
+    {
+      "brand": "一幸",
+      "address": "长宁路890号玫瑰坊2F层(中山公园地铁站6号口步行50米)",
+      "distance": "19m"
+    },
+    {
+      "brand": "瑞幸咖啡(玫瑰坊店)",
+      "address": "长宁路890号玫瑰坊商场一层F10室",
+      "distance": "20m"
+    },
+    {
+      "brand": "FitBee(中山公园店)",
+      "address": "长宁路890号玫瑰坊B1层",
+      "distance": "27m"
+    },
+    {
+      "brand": "昇鳗鱼家(玫瑰坊店)",
+      "address": "汇川路160号玫瑰坊2楼(中山公园地铁站6号口步行60米)",
+      "distance": "27m"
+    },
+    {
+      "brand": "超级鸡车(长宁中山公园店)",
+      "address": "长宁路与汇川路交叉口东140米(中山公园地铁站6号口旁)",
+      "distance": "28m"
+    },
+    {
+      "brand": "醇朋友紫菜包饭(玫瑰坊店)",
+      "address": "长宁路890号玫瑰坊B1层(中山公园地铁站6号口步行70米)",
+      "distance": "30m"
+    },
+    {
+      "brand": "咕咕鸡鸡公煲(玫瑰坊)",
+      "address": "长宁路890号玫瑰坊2F层",
+      "distance": "35m"
+    },
+    {
+      "brand": "潘甬兴糕点(玫瑰坊店)",
+      "address": "长宁路890号玫瑰坊1F层(中山公园地铁站6号口旁)",
+      "distance": "40m"
+    },
+    {
+      "brand": "牛仔很忙",
+      "address": "长宁路890号玫瑰坊(中山公园地铁站6号口旁)",
+      "distance": "8m"
+    },
+    {
+      "brand": "名阪烧文字烧·大阪烧·广岛烧居酒屋(中山公园店)",
+      "address": "长宁路890号玫瑰坊2F层(中山公园地铁站6号口步行50米)",
+      "distance": "16m"
+    },
+    {
+      "brand": "一幸",
+      "address": "长宁路890号玫瑰坊2F层(中山公园地铁站6号口步行50米)",
+      "distance": "19m"
+    },
+    {
+      "brand": "瑞幸咖啡(玫瑰坊店)",
+      "address": "长宁路890号玫瑰坊商场一层F10室",
+      "distance": "20m"
+    },
+    {
+      "brand": "FitBee(中山公园店)",
+      "address": "长宁路890号玫瑰坊B1层",
+      "distance": "27m"
+    },
+    {
+      "brand": "昇鳗鱼家(玫瑰坊店)",
+      "address": "汇川路160号玫瑰坊2楼(中山公园地铁站6号口步行60米)",
+      "distance": "27m"
+    },
+    {
+      "brand": "超级鸡车(长宁中山公园店)",
+      "address": "长宁路与汇川路交叉口东140米(中山公园地铁站6号口旁)",
+      "distance": "28m"
+    },
+    {
+      "brand": "醇朋友紫菜包饭(玫瑰坊店)",
+      "address": "长宁路890号玫瑰坊B1层(中山公园地铁站6号口步行70米)",
+      "distance": "30m"
+    },
+    {
+      "brand": "咕咕鸡鸡公煲(玫瑰坊)",
+      "address": "长宁路890号玫瑰坊2F层",
+      "distance": "35m"
+    },
+    {
+      "brand": "潘甬兴糕点(玫瑰坊店)",
+      "address": "长宁路890号玫瑰坊1F层(中山公园地铁站6号口旁)",
+      "distance": "40m"
+    },
+    {
+      "brand": "牛仔很忙",
+      "address": "长宁路890号玫瑰坊(中山公园地铁站6号口旁)",
+      "distance": "8m"
+    },
+    {
+      "brand": "名阪烧文字烧·大阪烧·广岛烧居酒屋(中山公园店)",
+      "address": "长宁路890号玫瑰坊2F层(中山公园地铁站6号口步行50米)",
+      "distance": "16m"
+    },
+    {
+      "brand": "一幸",
+      "address": "长宁路890号玫瑰坊2F层(中山公园地铁站6号口步行50米)",
+      "distance": "19m"
+    },
+    {
+      "brand": "瑞幸咖啡(玫瑰坊店)",
+      "address": "长宁路890号玫瑰坊商场一层F10室",
+      "distance": "20m"
+    },
+    {
+      "brand": "FitBee(中山公园店)",
+      "address": "长宁路890号玫瑰坊B1层",
+      "distance": "27m"
+    },
+    {
+      "brand": "昇鳗鱼家(玫瑰坊店)",
+      "address": "汇川路160号玫瑰坊2楼(中山公园地铁站6号口步行60米)",
+      "distance": "27m"
+    },
+    {
+      "brand": "超级鸡车(长宁中山公园店)",
+      "address": "长宁路与汇川路交叉口东140米(中山公园地铁站6号口旁)",
+      "distance": "28m"
+    },
+    {
+      "brand": "醇朋友紫菜包饭(玫瑰坊店)",
+      "address": "长宁路890号玫瑰坊B1层(中山公园地铁站6号口步行70米)",
+      "distance": "30m"
+    },
+    {
+      "brand": "咕咕鸡鸡公煲(玫瑰坊)",
+      "address": "长宁路890号玫瑰坊2F层",
+      "distance": "35m"
+    },
+    {
+      "brand": "潘甬兴糕点(玫瑰坊店)",
+      "address": "长宁路890号玫瑰坊1F层(中山公园地铁站6号口旁)",
+      "distance": "40m"
+    },
+    {
+      "brand": "牛仔很忙",
+      "address": "长宁路890号玫瑰坊(中山公园地铁站6号口旁)",
+      "distance": "8m"
+    },
+    {
+      "brand": "名阪烧文字烧·大阪烧·广岛烧居酒屋(中山公园店)",
+      "address": "长宁路890号玫瑰坊2F层(中山公园地铁站6号口步行50米)",
+      "distance": "16m"
+    },
+    {
+      "brand": "一幸",
+      "address": "长宁路890号玫瑰坊2F层(中山公园地铁站6号口步行50米)",
+      "distance": "19m"
+    },
+    {
+      "brand": "瑞幸咖啡(玫瑰坊店)",
+      "address": "长宁路890号玫瑰坊商场一层F10室",
+      "distance": "20m"
+    },
+    {
+      "brand": "FitBee(中山公园店)",
+      "address": "长宁路890号玫瑰坊B1层",
+      "distance": "27m"
+    },
+    {
+      "brand": "昇鳗鱼家(玫瑰坊店)",
+      "address": "汇川路160号玫瑰坊2楼(中山公园地铁站6号口步行60米)",
+      "distance": "27m"
+    },
+    {
+      "brand": "超级鸡车(长宁中山公园店)",
+      "address": "长宁路与汇川路交叉口东140米(中山公园地铁站6号口旁)",
+      "distance": "28m"
+    },
+    {
+      "brand": "醇朋友紫菜包饭(玫瑰坊店)",
+      "address": "长宁路890号玫瑰坊B1层(中山公园地铁站6号口步行70米)",
+      "distance": "30m"
+    },
+    {
+      "brand": "咕咕鸡鸡公煲(玫瑰坊)",
+      "address": "长宁路890号玫瑰坊2F层",
+      "distance": "35m"
+    },
+    {
+      "brand": "潘甬兴糕点(玫瑰坊店)",
+      "address": "长宁路890号玫瑰坊1F层(中山公园地铁站6号口旁)",
+      "distance": "40m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海兆丰广场",
+      "open_date": "2016-01-01",
+      "area": "6万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海龙之梦城市生活中心",
+      "open_date": "2006-12-01",
+      "area": "19.8万㎡",
+      "jun_daily_avg": "9.5万人次",
+      "weekday_avg": "8.6万人次",
+      "holiday_avg": "11.9万人次"
+    },
+    {
+      "name": "上海华美达广场",
+      "open_date": "2024-01-01",
+      "area": "2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海米域·这里MIXPACE·HERE",
+      "open_date": "2018-01-01",
+      "area": "1万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海华宁弘基生活中心",
+      "open_date": "2012-12-01",
+      "area": "2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海巴黎春天城市奥莱(长宁店)",
+      "open_date": "2004-09-23",
+      "area": "6万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海长宁来福士广场",
+      "open_date": "2017-06-30",
+      "area": "12万㎡",
+      "jun_daily_avg": "3.6万人次",
+      "weekday_avg": "3.4万人次",
+      "holiday_avg": "4.1万人次"
+    },
+    {
+      "name": "上海KiNG88",
+      "open_date": "2017-09-08",
+      "area": "3.9万㎡",
+      "jun_daily_avg": "1万人次",
+      "weekday_avg": "1万人次",
+      "holiday_avg": "1万人次"
+    },
+    {
+      "name": "上海绿地·柒彩里",
+      "open_date": "2019-03-01",
+      "area": "3.2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海悦达889广场",
+      "open_date": "2010-05-05",
+      "area": "4.7万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 25.0,
+      "within_1yr_pct": 12.0,
+      "1_3yr_pct": 20.0,
+      "over_3yr_pct": 68.0
+    },
+    {
+      "type": "购物",
+      "count": 25.0,
+      "within_1yr_pct": 8.0,
+      "1_3yr_pct": 8.0,
+      "over_3yr_pct": 84.0
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 4.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 25.0
+    },
+    {
+      "type": "教育培训",
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "生活服务",
+      "count": 4.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    },
+    {
+      "type": "运动健身",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    }
+  ]
+}

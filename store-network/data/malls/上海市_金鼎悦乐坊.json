@@ -1,0 +1,114 @@
+{
+  "name": "金鼎悦乐坊",
+  "city": "上海市",
+  "address": "",
+  "lat": null,
+  "lng": null,
+  "overview": {
+    "score": 85.3,
+    "score_rank": "市内前30%",
+    "population_score": 77.1,
+    "area_score": 69.9,
+    "consumption_score": 67.2,
+    "industry_score": 85.4,
+    "annual_sales": "",
+    "annual_sales_unit": "",
+    "area_size_sqm": null,
+    "open_date": "",
+    "operator": "",
+    "brand": "",
+    "type": "",
+    "floors": ""
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "",
+    "annual_daily_rank": "",
+    "jun_total": null,
+    "jun_total_rank": "",
+    "jun_daily_avg": null,
+    "jun_daily_unit": "",
+    "jun_daily_rank": "",
+    "weekday_avg": null,
+    "weekday_unit": "",
+    "weekday_rank": "",
+    "holiday_avg": null,
+    "holiday_unit": "",
+    "holiday_rank": ""
+  },
+  "population": {
+    "residential": {
+      "500m": 1.4,
+      "1_5km": 10.5,
+      "3km": 43.5
+    },
+    "office": {
+      "500m": 6600.0,
+      "1_5km": 4.5,
+      "3km": 21.4
+    },
+    "permanent": {
+      "500m": 1.5,
+      "1_5km": 10.5,
+      "3km": 41.2
+    }
+  },
+  "business": {
+    "competitors": 1.0,
+    "food": 113.0,
+    "shopping": 59.0,
+    "leisure": 12.0,
+    "education": 72.0,
+    "hotel": 27.0,
+    "services": 88.0,
+    "fitness": 8.0,
+    "auto": 12.0,
+    "total_stores": null,
+    "old_store_3yr_pct": null
+  },
+  "nearby_poi": {
+    "business": 2.0,
+    "community": 189.0,
+    "office": 18.0,
+    "school": 20.0,
+    "hospital": 25.0,
+    "transport": 12.0,
+    "scenic": 71.0
+  },
+  "demographics": {
+    "male_pct": 47.0,
+    "female_pct": null,
+    "education": {
+      "小学": 8.3,
+      "初中": 18.7,
+      "高中": 15.6,
+      "大专": 7.0,
+      "本科": 45.3,
+      "硕士": 4.0,
+      "博士": 1.1
+    },
+    "has_children_pct": null,
+    "no_children_pct": null
+  },
+  "scraped_at": "2026-08-01T08:44:36.352Z",
+  "nearby_restaurants": [],
+  "nearby_malls": [
+    {
+      "name": "上海开元地中海",
+      "open_date": "2006-01-01",
+      "area": "8.4万㎡",
+      "jun_daily_avg": "3.4万人次",
+      "weekday_avg": "3.1万人次",
+      "holiday_avg": "4.1万人次"
+    },
+    {
+      "name": "上海恒都广场",
+      "open_date": "2016-11-12",
+      "area": "6万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": []
+}

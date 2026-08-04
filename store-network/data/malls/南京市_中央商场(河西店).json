@@ -1,0 +1,479 @@
+{
+  "name": "中央商场(河西店)",
+  "city": "南京市",
+  "address": "江苏省南京市秦淮区秦淮区中山南路79号",
+  "lat": 32.045417,
+  "lng": 118.78442,
+  "overview": {
+    "score": 95.0,
+    "score_rank": "市内前30%",
+    "population_score": 94.6,
+    "area_score": 100.0,
+    "consumption_score": 86.4,
+    "industry_score": 95.0,
+    "annual_sales": "2.3",
+    "annual_sales_unit": "亿元",
+    "area_size_sqm": 7.0,
+    "open_date": "1989-08-10",
+    "operator": "南京中央商场(集团)股份有限公司",
+    "brand": "",
+    "type": "购物型",
+    "floors": "B2-L8"
+  },
+  "traffic": {
+    "annual_daily": 5.92,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第7",
+    "jun_total": 225.0,
+    "jun_total_rank": "市内商场第14名",
+    "jun_daily_avg": 7.5,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第14名",
+    "weekday_avg": 6.3,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第14名",
+    "holiday_avg": 10.7,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第13名"
+  },
+  "population": {
+    "residential": {
+      "500m": 2.4,
+      "1_5km": 24.1,
+      "3km": 75.1
+    },
+    "office": {
+      "500m": 5.1,
+      "1_5km": 25.9,
+      "3km": 61.8
+    },
+    "permanent": {
+      "500m": 4.6,
+      "1_5km": 29.6,
+      "3km": 85.1
+    }
+  },
+  "business": {
+    "competitors": 28.0,
+    "food": 1268.0,
+    "shopping": 1358.0,
+    "leisure": 205.0,
+    "education": 158.0,
+    "hotel": 497.0,
+    "services": 586.0,
+    "fitness": 46.0,
+    "auto": 35.0,
+    "total_stores": 382.0,
+    "old_store_3yr_pct": 56.0
+  },
+  "nearby_poi": {
+    "business": 20.0,
+    "community": 728.0,
+    "office": 190.0,
+    "school": 73.0,
+    "hospital": 191.0,
+    "transport": 11.0,
+    "scenic": 1191.0
+  },
+  "demographics": {
+    "male_pct": 43.7,
+    "female_pct": null,
+    "education": {
+      "小学": 9.8,
+      "初中": 17.7,
+      "高中": 11.4,
+      "大专": 7.7,
+      "本科": 44.9,
+      "硕士": 6.6,
+      "博士": 1.9
+    },
+    "has_children_pct": 58.8,
+    "no_children_pct": 41.2
+  },
+  "scraped_at": "2026-08-02T09:37:12.653Z",
+  "nearby_restaurants": [
+    {
+      "brand": "FADAJE法大吉(中央商场店)",
+      "address": "中山南路79号南京中央广场B1层B12004",
+      "distance": "3m"
+    },
+    {
+      "brand": "龍歌自助小火锅(新街口中央商场店)",
+      "address": "中山南路79号中央商场7F层7F3007-1商铺",
+      "distance": "4m"
+    },
+    {
+      "brand": "小丛山中式抹茶专门店",
+      "address": "中央商城负一层小丛山(新街口地铁站出入口步行240米)",
+      "distance": "7m"
+    },
+    {
+      "brand": "杨二洋超级粉面铺(新街口店)",
+      "address": "中山南路79号中央商场负一楼",
+      "distance": "7m"
+    },
+    {
+      "brand": "狼爪J a c k wo l f s kin中央商场店",
+      "address": "中山南路79号6楼狼爪J a c k wo l f s kin",
+      "distance": "7m"
+    },
+    {
+      "brand": "九色云·野生菌火锅(南京中央商场店)",
+      "address": "中山南路79号中央商场8楼",
+      "distance": "7m"
+    },
+    {
+      "brand": "小菜园新徽菜(南京新街口中央商场店)",
+      "address": "中山南路79号中央商场8层8F2030号",
+      "distance": "8m"
+    },
+    {
+      "brand": "帕拉丁palladium(南京中央商场店)",
+      "address": "中山南路79号中央商场6楼帕拉丁",
+      "distance": "9m"
+    },
+    {
+      "brand": "流浪泡泡·破破烂烂的烤肉店(南京中央商场店)",
+      "address": "中山南路79号",
+      "distance": "9m"
+    },
+    {
+      "brand": "MEET·遇见",
+      "address": "中山南路79号中央商场新街口店716室",
+      "distance": "11m"
+    },
+    {
+      "brand": "FADAJE法大吉(中央商场店)",
+      "address": "中山南路79号南京中央广场B1层B12004",
+      "distance": "3m"
+    },
+    {
+      "brand": "龍歌自助小火锅(新街口中央商场店)",
+      "address": "中山南路79号中央商场7F层7F3007-1商铺",
+      "distance": "4m"
+    },
+    {
+      "brand": "小丛山中式抹茶专门店",
+      "address": "中央商城负一层小丛山(新街口地铁站出入口步行240米)",
+      "distance": "7m"
+    },
+    {
+      "brand": "杨二洋超级粉面铺(新街口店)",
+      "address": "中山南路79号中央商场负一楼",
+      "distance": "7m"
+    },
+    {
+      "brand": "狼爪J a c k wo l f s kin中央商场店",
+      "address": "中山南路79号6楼狼爪J a c k wo l f s kin",
+      "distance": "7m"
+    },
+    {
+      "brand": "九色云·野生菌火锅(南京中央商场店)",
+      "address": "中山南路79号中央商场8楼",
+      "distance": "7m"
+    },
+    {
+      "brand": "小菜园新徽菜(南京新街口中央商场店)",
+      "address": "中山南路79号中央商场8层8F2030号",
+      "distance": "8m"
+    },
+    {
+      "brand": "帕拉丁palladium(南京中央商场店)",
+      "address": "中山南路79号中央商场6楼帕拉丁",
+      "distance": "9m"
+    },
+    {
+      "brand": "流浪泡泡·破破烂烂的烤肉店(南京中央商场店)",
+      "address": "中山南路79号",
+      "distance": "9m"
+    },
+    {
+      "brand": "MEET·遇见",
+      "address": "中山南路79号中央商场新街口店716室",
+      "distance": "11m"
+    },
+    {
+      "brand": "FADAJE法大吉(中央商场店)",
+      "address": "中山南路79号南京中央广场B1层B12004",
+      "distance": "3m"
+    },
+    {
+      "brand": "龍歌自助小火锅(新街口中央商场店)",
+      "address": "中山南路79号中央商场7F层7F3007-1商铺",
+      "distance": "4m"
+    },
+    {
+      "brand": "小丛山中式抹茶专门店",
+      "address": "中央商城负一层小丛山(新街口地铁站出入口步行240米)",
+      "distance": "7m"
+    },
+    {
+      "brand": "杨二洋超级粉面铺(新街口店)",
+      "address": "中山南路79号中央商场负一楼",
+      "distance": "7m"
+    },
+    {
+      "brand": "狼爪J a c k wo l f s kin中央商场店",
+      "address": "中山南路79号6楼狼爪J a c k wo l f s kin",
+      "distance": "7m"
+    },
+    {
+      "brand": "九色云·野生菌火锅(南京中央商场店)",
+      "address": "中山南路79号中央商场8楼",
+      "distance": "7m"
+    },
+    {
+      "brand": "小菜园新徽菜(南京新街口中央商场店)",
+      "address": "中山南路79号中央商场8层8F2030号",
+      "distance": "8m"
+    },
+    {
+      "brand": "帕拉丁palladium(南京中央商场店)",
+      "address": "中山南路79号中央商场6楼帕拉丁",
+      "distance": "9m"
+    },
+    {
+      "brand": "流浪泡泡·破破烂烂的烤肉店(南京中央商场店)",
+      "address": "中山南路79号",
+      "distance": "9m"
+    },
+    {
+      "brand": "MEET·遇见",
+      "address": "中山南路79号中央商场新街口店716室",
+      "distance": "11m"
+    },
+    {
+      "brand": "FADAJE法大吉(中央商场店)",
+      "address": "中山南路79号南京中央广场B1层B12004",
+      "distance": "3m"
+    },
+    {
+      "brand": "龍歌自助小火锅(新街口中央商场店)",
+      "address": "中山南路79号中央商场7F层7F3007-1商铺",
+      "distance": "4m"
+    },
+    {
+      "brand": "小丛山中式抹茶专门店",
+      "address": "中央商城负一层小丛山(新街口地铁站出入口步行240米)",
+      "distance": "7m"
+    },
+    {
+      "brand": "杨二洋超级粉面铺(新街口店)",
+      "address": "中山南路79号中央商场负一楼",
+      "distance": "7m"
+    },
+    {
+      "brand": "狼爪J a c k wo l f s kin中央商场店",
+      "address": "中山南路79号6楼狼爪J a c k wo l f s kin",
+      "distance": "7m"
+    },
+    {
+      "brand": "九色云·野生菌火锅(南京中央商场店)",
+      "address": "中山南路79号中央商场8楼",
+      "distance": "7m"
+    },
+    {
+      "brand": "小菜园新徽菜(南京新街口中央商场店)",
+      "address": "中山南路79号中央商场8层8F2030号",
+      "distance": "8m"
+    },
+    {
+      "brand": "帕拉丁palladium(南京中央商场店)",
+      "address": "中山南路79号中央商场6楼帕拉丁",
+      "distance": "9m"
+    },
+    {
+      "brand": "流浪泡泡·破破烂烂的烤肉店(南京中央商场店)",
+      "address": "中山南路79号",
+      "distance": "9m"
+    },
+    {
+      "brand": "MEET·遇见",
+      "address": "中山南路79号中央商场新街口店716室",
+      "distance": "11m"
+    },
+    {
+      "brand": "FADAJE法大吉(中央商场店)",
+      "address": "中山南路79号南京中央广场B1层B12004",
+      "distance": "3m"
+    },
+    {
+      "brand": "龍歌自助小火锅(新街口中央商场店)",
+      "address": "中山南路79号中央商场7F层7F3007-1商铺",
+      "distance": "4m"
+    },
+    {
+      "brand": "小丛山中式抹茶专门店",
+      "address": "中央商城负一层小丛山(新街口地铁站出入口步行240米)",
+      "distance": "7m"
+    },
+    {
+      "brand": "杨二洋超级粉面铺(新街口店)",
+      "address": "中山南路79号中央商场负一楼",
+      "distance": "7m"
+    },
+    {
+      "brand": "狼爪J a c k wo l f s kin中央商场店",
+      "address": "中山南路79号6楼狼爪J a c k wo l f s kin",
+      "distance": "7m"
+    },
+    {
+      "brand": "九色云·野生菌火锅(南京中央商场店)",
+      "address": "中山南路79号中央商场8楼",
+      "distance": "7m"
+    },
+    {
+      "brand": "小菜园新徽菜(南京新街口中央商场店)",
+      "address": "中山南路79号中央商场8层8F2030号",
+      "distance": "8m"
+    },
+    {
+      "brand": "帕拉丁palladium(南京中央商场店)",
+      "address": "中山南路79号中央商场6楼帕拉丁",
+      "distance": "9m"
+    },
+    {
+      "brand": "流浪泡泡·破破烂烂的烤肉店(南京中央商场店)",
+      "address": "中山南路79号",
+      "distance": "9m"
+    },
+    {
+      "brand": "MEET·遇见",
+      "address": "中山南路79号中央商场新街口店716室",
+      "distance": "11m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "南京新街口印象汇",
+      "open_date": "2004-01-01",
+      "area": "5万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "南京时尚莱迪商城",
+      "open_date": "2005-04-01",
+      "area": "2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "南京新街口大洋百货",
+      "open_date": "2003-01-01",
+      "area": "4万㎡",
+      "jun_daily_avg": "4.7万人次",
+      "weekday_avg": "4万人次",
+      "holiday_avg": "6.6万人次"
+    },
+    {
+      "name": "南京新百",
+      "open_date": "2021-08-01",
+      "area": "6万㎡",
+      "jun_daily_avg": "8.9万人次",
+      "weekday_avg": "7.6万人次",
+      "holiday_avg": "12.5万人次"
+    },
+    {
+      "name": "南京新街口苏宁生活广场",
+      "open_date": "2015",
+      "area": "6万㎡",
+      "jun_daily_avg": "1.9万人次",
+      "weekday_avg": "1.7万人次",
+      "holiday_avg": "2.4万人次"
+    },
+    {
+      "name": "南京House of Fraser 东方福来德",
+      "open_date": "2016-12-01",
+      "area": "5.5万㎡",
+      "jun_daily_avg": "12.5万人次",
+      "weekday_avg": "10.8万人次",
+      "holiday_avg": "17.2万人次"
+    },
+    {
+      "name": "南京JLC金陵中環",
+      "open_date": "2023-09-28",
+      "area": "8.6万㎡",
+      "jun_daily_avg": "9.1万人次",
+      "weekday_avg": "7.9万人次",
+      "holiday_avg": "12.3万人次"
+    },
+    {
+      "name": "南京友谊广场",
+      "open_date": "2016-09-30",
+      "area": "3.5万㎡",
+      "jun_daily_avg": "1.8万人次",
+      "weekday_avg": "1.6万人次",
+      "holiday_avg": "2.3万人次"
+    },
+    {
+      "name": "南京金鹰国际购物中心(新街口店)",
+      "open_date": "1996-01-01",
+      "area": "11万㎡",
+      "jun_daily_avg": "5.5万人次",
+      "weekday_avg": "5万人次",
+      "holiday_avg": "6.7万人次"
+    },
+    {
+      "name": "南京德基广场",
+      "open_date": "2006-06-26",
+      "area": "12.8万㎡",
+      "jun_daily_avg": "15.1万人次",
+      "weekday_avg": "13.2万人次",
+      "holiday_avg": "20.5万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 59.0,
+      "within_1yr_pct": 18.6,
+      "1_3yr_pct": 28.8,
+      "over_3yr_pct": 52.5
+    },
+    {
+      "type": "购物",
+      "count": 304.0,
+      "within_1yr_pct": 18.4,
+      "1_3yr_pct": 24.0,
+      "over_3yr_pct": 57.6
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "教育培训",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 2.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "生活服务",
+      "count": 11.0,
+      "within_1yr_pct": 18.2,
+      "1_3yr_pct": 36.4,
+      "over_3yr_pct": 45.5
+    },
+    {
+      "type": "车辆服务",
+      "count": 3.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 66.7,
+      "over_3yr_pct": 0.0
+    }
+  ]
+}

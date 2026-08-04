@@ -1,0 +1,415 @@
+{
+  "name": "百荣世贸商城",
+  "city": "北京市",
+  "address": "北京市东城区永定门外大街101-3号楼",
+  "lat": 39.86093,
+  "lng": 116.398419,
+  "overview": {
+    "score": 92.5,
+    "score_rank": "市内前30%",
+    "population_score": 87.1,
+    "area_score": 84.7,
+    "consumption_score": 77.3,
+    "industry_score": 92.6,
+    "annual_sales": "20",
+    "annual_sales_unit": "亿元",
+    "area_size_sqm": 40.0,
+    "open_date": "2004-04-29",
+    "operator": "百荣世贸商城",
+    "brand": "",
+    "type": "购物型",
+    "floors": "B1-L5"
+  },
+  "traffic": {
+    "annual_daily": 9.16,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第6",
+    "jun_total": 253.4,
+    "jun_total_rank": "市内商场第16名",
+    "jun_daily_avg": 8.4,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第16名",
+    "weekday_avg": 7.3,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第16名",
+    "holiday_avg": 11.5,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第14名"
+  },
+  "population": {
+    "residential": {
+      "500m": 1.8,
+      "1_5km": 24.1,
+      "3km": 83.4
+    },
+    "office": {
+      "500m": 1.9,
+      "1_5km": 11.4,
+      "3km": 38.0
+    },
+    "permanent": {
+      "500m": 2.8,
+      "1_5km": 24.3,
+      "3km": 89.0
+    }
+  },
+  "business": {
+    "competitors": 1.0,
+    "food": 150.0,
+    "shopping": 472.0,
+    "leisure": 1.0,
+    "education": 4.0,
+    "hotel": 15.0,
+    "services": 51.0,
+    "fitness": 5.0,
+    "auto": 16.0,
+    "total_stores": 536.0,
+    "old_store_3yr_pct": 58.0
+  },
+  "nearby_poi": {
+    "business": 2.0,
+    "community": 462.0,
+    "office": 36.0,
+    "school": 44.0,
+    "hospital": 83.0,
+    "transport": 13.0,
+    "scenic": 262.0
+  },
+  "demographics": {
+    "male_pct": 48.0,
+    "female_pct": null,
+    "education": {
+      "小学": 10.1,
+      "初中": 16.6,
+      "高中": 10.7,
+      "大专": 6.7,
+      "本科": 47.6,
+      "硕士": 6.5,
+      "博士": 1.8
+    },
+    "has_children_pct": 58.3,
+    "no_children_pct": 41.7
+  },
+  "scraped_at": "2026-08-01T20:40:58.848Z",
+  "nearby_restaurants": [
+    {
+      "brand": "小街胡同牛杂面(百荣世贸商城店)",
+      "address": "百荣世贸商城一期四楼A区4A009号",
+      "distance": "35m"
+    },
+    {
+      "brand": "糖念冰糖葫芦(百荣店)",
+      "address": "永定门外大街101-3号楼6楼B区百食街",
+      "distance": "36m"
+    },
+    {
+      "brand": "橘芝茶饮(百荣世贸商城B座店)",
+      "address": "百荣世贸商城一期B座三层(木樨园地铁站A1西北口旁)",
+      "distance": "38m"
+    },
+    {
+      "brand": "久久丫鸭脖(百荣世贸商城店)",
+      "address": "百荣世贸B座6层百食街广场(木樨园地铁站A1西北口旁)",
+      "distance": "39m"
+    },
+    {
+      "brand": "阿甘锅盔(百荣世贸店)",
+      "address": "北京城区永定门外大街101号百荣世贸商城F6层",
+      "distance": "42m"
+    },
+    {
+      "brand": "果汁吧(百荣世贸商城店)",
+      "address": "永定门外大街101号百荣世贸商城F6层",
+      "distance": "44m"
+    },
+    {
+      "brand": "咏巷炸鸡(百荣世贸商城店)",
+      "address": "北京城区永定门外大街百荣世贸一期B座6层",
+      "distance": "45m"
+    },
+    {
+      "brand": "铁板牛排",
+      "address": "南苑路辅路与木樨园桥交叉口西北320米",
+      "distance": "45m"
+    },
+    {
+      "brand": "百食街美食城(百荣世贸商城店)",
+      "address": "永定门外大街101号百荣世贸商城B座6层",
+      "distance": "47m"
+    },
+    {
+      "brand": "甘茶度(百荣店)",
+      "address": "永定门外大街101号百荣世贸商城F1层",
+      "distance": "49m"
+    },
+    {
+      "brand": "小街胡同牛杂面(百荣世贸商城店)",
+      "address": "百荣世贸商城一期四楼A区4A009号",
+      "distance": "35m"
+    },
+    {
+      "brand": "糖念冰糖葫芦(百荣店)",
+      "address": "永定门外大街101-3号楼6楼B区百食街",
+      "distance": "36m"
+    },
+    {
+      "brand": "橘芝茶饮(百荣世贸商城B座店)",
+      "address": "百荣世贸商城一期B座三层(木樨园地铁站A1西北口旁)",
+      "distance": "38m"
+    },
+    {
+      "brand": "久久丫鸭脖(百荣世贸商城店)",
+      "address": "百荣世贸B座6层百食街广场(木樨园地铁站A1西北口旁)",
+      "distance": "39m"
+    },
+    {
+      "brand": "阿甘锅盔(百荣世贸店)",
+      "address": "北京城区永定门外大街101号百荣世贸商城F6层",
+      "distance": "42m"
+    },
+    {
+      "brand": "果汁吧(百荣世贸商城店)",
+      "address": "永定门外大街101号百荣世贸商城F6层",
+      "distance": "44m"
+    },
+    {
+      "brand": "咏巷炸鸡(百荣世贸商城店)",
+      "address": "北京城区永定门外大街百荣世贸一期B座6层",
+      "distance": "45m"
+    },
+    {
+      "brand": "铁板牛排",
+      "address": "南苑路辅路与木樨园桥交叉口西北320米",
+      "distance": "45m"
+    },
+    {
+      "brand": "百食街美食城(百荣世贸商城店)",
+      "address": "永定门外大街101号百荣世贸商城B座6层",
+      "distance": "47m"
+    },
+    {
+      "brand": "甘茶度(百荣店)",
+      "address": "永定门外大街101号百荣世贸商城F1层",
+      "distance": "49m"
+    },
+    {
+      "brand": "小街胡同牛杂面(百荣世贸商城店)",
+      "address": "百荣世贸商城一期四楼A区4A009号",
+      "distance": "35m"
+    },
+    {
+      "brand": "糖念冰糖葫芦(百荣店)",
+      "address": "永定门外大街101-3号楼6楼B区百食街",
+      "distance": "36m"
+    },
+    {
+      "brand": "橘芝茶饮(百荣世贸商城B座店)",
+      "address": "百荣世贸商城一期B座三层(木樨园地铁站A1西北口旁)",
+      "distance": "38m"
+    },
+    {
+      "brand": "久久丫鸭脖(百荣世贸商城店)",
+      "address": "百荣世贸B座6层百食街广场(木樨园地铁站A1西北口旁)",
+      "distance": "39m"
+    },
+    {
+      "brand": "阿甘锅盔(百荣世贸店)",
+      "address": "北京城区永定门外大街101号百荣世贸商城F6层",
+      "distance": "42m"
+    },
+    {
+      "brand": "果汁吧(百荣世贸商城店)",
+      "address": "永定门外大街101号百荣世贸商城F6层",
+      "distance": "44m"
+    },
+    {
+      "brand": "咏巷炸鸡(百荣世贸商城店)",
+      "address": "北京城区永定门外大街百荣世贸一期B座6层",
+      "distance": "45m"
+    },
+    {
+      "brand": "铁板牛排",
+      "address": "南苑路辅路与木樨园桥交叉口西北320米",
+      "distance": "45m"
+    },
+    {
+      "brand": "百食街美食城(百荣世贸商城店)",
+      "address": "永定门外大街101号百荣世贸商城B座6层",
+      "distance": "47m"
+    },
+    {
+      "brand": "甘茶度(百荣店)",
+      "address": "永定门外大街101号百荣世贸商城F1层",
+      "distance": "49m"
+    },
+    {
+      "brand": "小街胡同牛杂面(百荣世贸商城店)",
+      "address": "百荣世贸商城一期四楼A区4A009号",
+      "distance": "35m"
+    },
+    {
+      "brand": "糖念冰糖葫芦(百荣店)",
+      "address": "永定门外大街101-3号楼6楼B区百食街",
+      "distance": "36m"
+    },
+    {
+      "brand": "橘芝茶饮(百荣世贸商城B座店)",
+      "address": "百荣世贸商城一期B座三层(木樨园地铁站A1西北口旁)",
+      "distance": "38m"
+    },
+    {
+      "brand": "久久丫鸭脖(百荣世贸商城店)",
+      "address": "百荣世贸B座6层百食街广场(木樨园地铁站A1西北口旁)",
+      "distance": "39m"
+    },
+    {
+      "brand": "阿甘锅盔(百荣世贸店)",
+      "address": "北京城区永定门外大街101号百荣世贸商城F6层",
+      "distance": "42m"
+    },
+    {
+      "brand": "果汁吧(百荣世贸商城店)",
+      "address": "永定门外大街101号百荣世贸商城F6层",
+      "distance": "44m"
+    },
+    {
+      "brand": "咏巷炸鸡(百荣世贸商城店)",
+      "address": "北京城区永定门外大街百荣世贸一期B座6层",
+      "distance": "45m"
+    },
+    {
+      "brand": "铁板牛排",
+      "address": "南苑路辅路与木樨园桥交叉口西北320米",
+      "distance": "45m"
+    },
+    {
+      "brand": "百食街美食城(百荣世贸商城店)",
+      "address": "永定门外大街101号百荣世贸商城B座6层",
+      "distance": "47m"
+    },
+    {
+      "brand": "甘茶度(百荣店)",
+      "address": "永定门外大街101号百荣世贸商城F1层",
+      "distance": "49m"
+    },
+    {
+      "brand": "小街胡同牛杂面(百荣世贸商城店)",
+      "address": "百荣世贸商城一期四楼A区4A009号",
+      "distance": "35m"
+    },
+    {
+      "brand": "糖念冰糖葫芦(百荣店)",
+      "address": "永定门外大街101-3号楼6楼B区百食街",
+      "distance": "36m"
+    },
+    {
+      "brand": "橘芝茶饮(百荣世贸商城B座店)",
+      "address": "百荣世贸商城一期B座三层(木樨园地铁站A1西北口旁)",
+      "distance": "38m"
+    },
+    {
+      "brand": "久久丫鸭脖(百荣世贸商城店)",
+      "address": "百荣世贸B座6层百食街广场(木樨园地铁站A1西北口旁)",
+      "distance": "39m"
+    },
+    {
+      "brand": "阿甘锅盔(百荣世贸店)",
+      "address": "北京城区永定门外大街101号百荣世贸商城F6层",
+      "distance": "42m"
+    },
+    {
+      "brand": "果汁吧(百荣世贸商城店)",
+      "address": "永定门外大街101号百荣世贸商城F6层",
+      "distance": "44m"
+    },
+    {
+      "brand": "咏巷炸鸡(百荣世贸商城店)",
+      "address": "北京城区永定门外大街百荣世贸一期B座6层",
+      "distance": "45m"
+    },
+    {
+      "brand": "铁板牛排",
+      "address": "南苑路辅路与木樨园桥交叉口西北320米",
+      "distance": "45m"
+    },
+    {
+      "brand": "百食街美食城(百荣世贸商城店)",
+      "address": "永定门外大街101号百荣世贸商城B座6层",
+      "distance": "47m"
+    },
+    {
+      "brand": "甘茶度(百荣店)",
+      "address": "永定门外大街101号百荣世贸商城F1层",
+      "distance": "49m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "北京木樨园合生广场",
+      "open_date": "2017-01-01",
+      "area": "4万㎡",
+      "jun_daily_avg": "3.9万人次",
+      "weekday_avg": "3.6万人次",
+      "holiday_avg": "4.6万人次"
+    },
+    {
+      "name": "北京丹陛华广场",
+      "open_date": "-",
+      "area": "2.9万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 73.0,
+      "within_1yr_pct": 20.5,
+      "1_3yr_pct": 16.4,
+      "over_3yr_pct": 63.0
+    },
+    {
+      "type": "购物",
+      "count": 433.0,
+      "within_1yr_pct": 25.6,
+      "1_3yr_pct": 15.7,
+      "over_3yr_pct": 58.7
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "教育培训",
+      "count": 1.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "生活服务",
+      "count": 23.0,
+      "within_1yr_pct": 26.1,
+      "1_3yr_pct": 21.7,
+      "over_3yr_pct": 52.2
+    },
+    {
+      "type": "车辆服务",
+      "count": 3.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
+    }
+  ]
+}

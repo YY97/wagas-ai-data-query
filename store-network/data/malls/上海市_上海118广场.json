@@ -1,0 +1,446 @@
+{
+  "name": "上海118广场",
+  "city": "上海市",
+  "address": "上海市普陀区长征镇118广场(金沙江路店)农工商超市(118广场店)",
+  "lat": 31.23244,
+  "lng": 121.380509,
+  "overview": {
+    "score": 91.5,
+    "score_rank": "市内前30%",
+    "population_score": 73.8,
+    "area_score": 77.4,
+    "consumption_score": 85.9,
+    "industry_score": 91.7,
+    "annual_sales": "118",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 12.0,
+    "open_date": "2008-01-13",
+    "operator": "农工商超市（集团）有限公司",
+    "brand": "",
+    "type": "美食型",
+    "floors": "B1-L5"
+  },
+  "traffic": {
+    "annual_daily": 1.01,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第252",
+    "jun_total": 29.1,
+    "jun_total_rank": "市内商场第312名",
+    "jun_daily_avg": 9712.0,
+    "jun_daily_unit": "人次",
+    "jun_daily_rank": "市内商场第312名",
+    "weekday_avg": 1.0,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第303名",
+    "holiday_avg": 8918.0,
+    "holiday_unit": "人次",
+    "holiday_rank": "市内商场第348名"
+  },
+  "population": {
+    "residential": {
+      "500m": 1.0,
+      "1_5km": 14.6,
+      "3km": 81.3
+    },
+    "office": {
+      "500m": 2.5,
+      "1_5km": 13.0,
+      "3km": 54.1
+    },
+    "permanent": {
+      "500m": 1.8,
+      "1_5km": 15.6,
+      "3km": 86.1
+    }
+  },
+  "business": {
+    "competitors": 9.0,
+    "food": 229.0,
+    "shopping": 74.0,
+    "leisure": 20.0,
+    "education": 25.0,
+    "hotel": 10.0,
+    "services": 105.0,
+    "fitness": 26.0,
+    "auto": 37.0,
+    "total_stores": 104.0,
+    "old_store_3yr_pct": 37.0
+  },
+  "nearby_poi": {
+    "business": 5.0,
+    "community": 425.0,
+    "office": 70.0,
+    "school": 18.0,
+    "hospital": 70.0,
+    "transport": 6.0,
+    "scenic": 157.0
+  },
+  "demographics": {
+    "male_pct": 53.2,
+    "female_pct": null,
+    "education": {
+      "小学": 8.9,
+      "初中": 16.6,
+      "高中": 11.2,
+      "大专": 7.2,
+      "本科": 49.1,
+      "硕士": 5.2,
+      "博士": 1.8
+    },
+    "has_children_pct": 59.5,
+    "no_children_pct": 40.5
+  },
+  "scraped_at": "2026-07-31T14:52:55.097Z",
+  "nearby_restaurants": [
+    {
+      "brand": "七口辣·一人食火锅(上海金沙江路店)",
+      "address": "农工商超市(118广场店)(真北路地铁站2号口步行490米)",
+      "distance": "16m"
+    },
+    {
+      "brand": "黄山菜饭骨头汤(118广场店)",
+      "address": "金沙江路1685号118广场(金沙江路店)",
+      "distance": "16m"
+    },
+    {
+      "brand": "泰式柠檬手撕鸡菜饭",
+      "address": "长征镇金沙江路1685号118广场15幢地下一层17X-B01-(21、22、23、25、26、27、28)-A30",
+      "distance": "16m"
+    },
+    {
+      "brand": "瑞幸咖啡(118广场店)",
+      "address": "金沙江路1685号118广场16幢一层BN1-7号",
+      "distance": "38m"
+    },
+    {
+      "brand": "海底捞火锅(118广场店)",
+      "address": "金沙江路1685号118广场3层海底捞",
+      "distance": "40m"
+    },
+    {
+      "brand": "超能鹿战队(118广场店)",
+      "address": "长征镇金沙江路1685、1699号15幢地下一层17X-B01-18",
+      "distance": "50m"
+    },
+    {
+      "brand": "霸碗盖码饭(上海普陀118广场店)",
+      "address": "金沙江路1685号118广场地下一层(17-B01-32)",
+      "distance": "53m"
+    },
+    {
+      "brand": "Ciibee刺臂轻食·原切牛排(近铁店)",
+      "address": "金沙江路1685、1699号18幢地下一层18-B01-57室A02铺位",
+      "distance": "58m"
+    },
+    {
+      "brand": "添香来·黄焖鸡米饭(金沙江路店)",
+      "address": "长征镇金沙江路1685、1699号15幢地下一层",
+      "distance": "58m"
+    },
+    {
+      "brand": "奔跑的寿司酱(金沙江店)(暂停营业)",
+      "address": "金沙江路1685、1699号15幢B1层17X-B01-08",
+      "distance": "58m"
+    },
+    {
+      "brand": "七口辣·一人食火锅(上海金沙江路店)",
+      "address": "农工商超市(118广场店)(真北路地铁站2号口步行490米)",
+      "distance": "16m"
+    },
+    {
+      "brand": "黄山菜饭骨头汤(118广场店)",
+      "address": "金沙江路1685号118广场(金沙江路店)",
+      "distance": "16m"
+    },
+    {
+      "brand": "泰式柠檬手撕鸡菜饭",
+      "address": "长征镇金沙江路1685号118广场15幢地下一层17X-B01-(21、22、23、25、26、27、28)-A30",
+      "distance": "16m"
+    },
+    {
+      "brand": "瑞幸咖啡(118广场店)",
+      "address": "金沙江路1685号118广场16幢一层BN1-7号",
+      "distance": "38m"
+    },
+    {
+      "brand": "海底捞火锅(118广场店)",
+      "address": "金沙江路1685号118广场3层海底捞",
+      "distance": "40m"
+    },
+    {
+      "brand": "超能鹿战队(118广场店)",
+      "address": "长征镇金沙江路1685、1699号15幢地下一层17X-B01-18",
+      "distance": "50m"
+    },
+    {
+      "brand": "霸碗盖码饭(上海普陀118广场店)",
+      "address": "金沙江路1685号118广场地下一层(17-B01-32)",
+      "distance": "53m"
+    },
+    {
+      "brand": "Ciibee刺臂轻食·原切牛排(近铁店)",
+      "address": "金沙江路1685、1699号18幢地下一层18-B01-57室A02铺位",
+      "distance": "58m"
+    },
+    {
+      "brand": "添香来·黄焖鸡米饭(金沙江路店)",
+      "address": "长征镇金沙江路1685、1699号15幢地下一层",
+      "distance": "58m"
+    },
+    {
+      "brand": "奔跑的寿司酱(金沙江店)(暂停营业)",
+      "address": "金沙江路1685、1699号15幢B1层17X-B01-08",
+      "distance": "58m"
+    },
+    {
+      "brand": "七口辣·一人食火锅(上海金沙江路店)",
+      "address": "农工商超市(118广场店)(真北路地铁站2号口步行490米)",
+      "distance": "16m"
+    },
+    {
+      "brand": "黄山菜饭骨头汤(118广场店)",
+      "address": "金沙江路1685号118广场(金沙江路店)",
+      "distance": "16m"
+    },
+    {
+      "brand": "泰式柠檬手撕鸡菜饭",
+      "address": "长征镇金沙江路1685号118广场15幢地下一层17X-B01-(21、22、23、25、26、27、28)-A30",
+      "distance": "16m"
+    },
+    {
+      "brand": "瑞幸咖啡(118广场店)",
+      "address": "金沙江路1685号118广场16幢一层BN1-7号",
+      "distance": "38m"
+    },
+    {
+      "brand": "海底捞火锅(118广场店)",
+      "address": "金沙江路1685号118广场3层海底捞",
+      "distance": "40m"
+    },
+    {
+      "brand": "超能鹿战队(118广场店)",
+      "address": "长征镇金沙江路1685、1699号15幢地下一层17X-B01-18",
+      "distance": "50m"
+    },
+    {
+      "brand": "霸碗盖码饭(上海普陀118广场店)",
+      "address": "金沙江路1685号118广场地下一层(17-B01-32)",
+      "distance": "53m"
+    },
+    {
+      "brand": "Ciibee刺臂轻食·原切牛排(近铁店)",
+      "address": "金沙江路1685、1699号18幢地下一层18-B01-57室A02铺位",
+      "distance": "58m"
+    },
+    {
+      "brand": "添香来·黄焖鸡米饭(金沙江路店)",
+      "address": "长征镇金沙江路1685、1699号15幢地下一层",
+      "distance": "58m"
+    },
+    {
+      "brand": "奔跑的寿司酱(金沙江店)(暂停营业)",
+      "address": "金沙江路1685、1699号15幢B1层17X-B01-08",
+      "distance": "58m"
+    },
+    {
+      "brand": "七口辣·一人食火锅(上海金沙江路店)",
+      "address": "农工商超市(118广场店)(真北路地铁站2号口步行490米)",
+      "distance": "16m"
+    },
+    {
+      "brand": "黄山菜饭骨头汤(118广场店)",
+      "address": "金沙江路1685号118广场(金沙江路店)",
+      "distance": "16m"
+    },
+    {
+      "brand": "泰式柠檬手撕鸡菜饭",
+      "address": "长征镇金沙江路1685号118广场15幢地下一层17X-B01-(21、22、23、25、26、27、28)-A30",
+      "distance": "16m"
+    },
+    {
+      "brand": "瑞幸咖啡(118广场店)",
+      "address": "金沙江路1685号118广场16幢一层BN1-7号",
+      "distance": "38m"
+    },
+    {
+      "brand": "海底捞火锅(118广场店)",
+      "address": "金沙江路1685号118广场3层海底捞",
+      "distance": "40m"
+    },
+    {
+      "brand": "超能鹿战队(118广场店)",
+      "address": "长征镇金沙江路1685、1699号15幢地下一层17X-B01-18",
+      "distance": "50m"
+    },
+    {
+      "brand": "霸碗盖码饭(上海普陀118广场店)",
+      "address": "金沙江路1685号118广场地下一层(17-B01-32)",
+      "distance": "53m"
+    },
+    {
+      "brand": "Ciibee刺臂轻食·原切牛排(近铁店)",
+      "address": "金沙江路1685、1699号18幢地下一层18-B01-57室A02铺位",
+      "distance": "58m"
+    },
+    {
+      "brand": "添香来·黄焖鸡米饭(金沙江路店)",
+      "address": "长征镇金沙江路1685、1699号15幢地下一层",
+      "distance": "58m"
+    },
+    {
+      "brand": "奔跑的寿司酱(金沙江店)(暂停营业)",
+      "address": "金沙江路1685、1699号15幢B1层17X-B01-08",
+      "distance": "58m"
+    },
+    {
+      "brand": "七口辣·一人食火锅(上海金沙江路店)",
+      "address": "农工商超市(118广场店)(真北路地铁站2号口步行490米)",
+      "distance": "16m"
+    },
+    {
+      "brand": "黄山菜饭骨头汤(118广场店)",
+      "address": "金沙江路1685号118广场(金沙江路店)",
+      "distance": "16m"
+    },
+    {
+      "brand": "泰式柠檬手撕鸡菜饭",
+      "address": "长征镇金沙江路1685号118广场15幢地下一层17X-B01-(21、22、23、25、26、27、28)-A30",
+      "distance": "16m"
+    },
+    {
+      "brand": "瑞幸咖啡(118广场店)",
+      "address": "金沙江路1685号118广场16幢一层BN1-7号",
+      "distance": "38m"
+    },
+    {
+      "brand": "海底捞火锅(118广场店)",
+      "address": "金沙江路1685号118广场3层海底捞",
+      "distance": "40m"
+    },
+    {
+      "brand": "超能鹿战队(118广场店)",
+      "address": "长征镇金沙江路1685、1699号15幢地下一层17X-B01-18",
+      "distance": "50m"
+    },
+    {
+      "brand": "霸碗盖码饭(上海普陀118广场店)",
+      "address": "金沙江路1685号118广场地下一层(17-B01-32)",
+      "distance": "53m"
+    },
+    {
+      "brand": "Ciibee刺臂轻食·原切牛排(近铁店)",
+      "address": "金沙江路1685、1699号18幢地下一层18-B01-57室A02铺位",
+      "distance": "58m"
+    },
+    {
+      "brand": "添香来·黄焖鸡米饭(金沙江路店)",
+      "address": "长征镇金沙江路1685、1699号15幢地下一层",
+      "distance": "58m"
+    },
+    {
+      "brand": "奔跑的寿司酱(金沙江店)(暂停营业)",
+      "address": "金沙江路1685、1699号15幢B1层17X-B01-08",
+      "distance": "58m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海近铁城市广场",
+      "open_date": "2014-11-18",
+      "area": "8.8万㎡",
+      "jun_daily_avg": "4.5万人次",
+      "weekday_avg": "4.7万人次",
+      "holiday_avg": "3.9万人次"
+    },
+    {
+      "name": "上海主场ESP电竞文化体验中心",
+      "open_date": "2021-06-23",
+      "area": "3.6万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海桃源π商业广场",
+      "open_date": "2020-11-28",
+      "area": "5.8万㎡",
+      "jun_daily_avg": "1.3万人次",
+      "weekday_avg": "1.4万人次",
+      "holiday_avg": "1万人次"
+    },
+    {
+      "name": "上海金沙和美商业广场",
+      "open_date": "2013-05-26",
+      "area": "4.8万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海友谊商店(梅川路店)",
+      "open_date": "2004-01-01",
+      "area": "8000㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 66.0,
+      "within_1yr_pct": 25.8,
+      "1_3yr_pct": 39.4,
+      "over_3yr_pct": 34.8
+    },
+    {
+      "type": "购物",
+      "count": 11.0,
+      "within_1yr_pct": 36.4,
+      "1_3yr_pct": 18.2,
+      "over_3yr_pct": 45.5
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 3.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 33.3
+    },
+    {
+      "type": "教育培训",
+      "count": 2.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 5.0,
+      "within_1yr_pct": 60.0,
+      "1_3yr_pct": 20.0,
+      "over_3yr_pct": 20.0
+    },
+    {
+      "type": "生活服务",
+      "count": 3.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 66.7
+    },
+    {
+      "type": "运动健身",
+      "count": 3.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 33.3
+    },
+    {
+      "type": "车辆服务",
+      "count": 11.0,
+      "within_1yr_pct": 9.1,
+      "1_3yr_pct": 45.5,
+      "over_3yr_pct": 45.5
+    }
+  ]
+}

@@ -1,0 +1,422 @@
+{
+  "name": "海岸城购物中心",
+  "city": "无锡市",
+  "address": "江苏省无锡市滨湖区立信大道166号",
+  "lat": 31.487539,
+  "lng": 120.304199,
+  "overview": {
+    "score": 96.4,
+    "score_rank": "市内前30%",
+    "population_score": 82.1,
+    "area_score": 87.9,
+    "consumption_score": 92.1,
+    "industry_score": 96.5,
+    "annual_sales": "20",
+    "annual_sales_unit": "亿元",
+    "area_size_sqm": 12.0,
+    "open_date": "2014-06-29",
+    "operator": "深圳市海岸投资集团有限公司",
+    "brand": "海岸集团",
+    "type": "综合型",
+    "floors": "B1-L5"
+  },
+  "traffic": {
+    "annual_daily": 3.57,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第9",
+    "jun_total": 146.8,
+    "jun_total_rank": "市内商场第6名",
+    "jun_daily_avg": 4.9,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第6名",
+    "weekday_avg": 4.4,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第7名",
+    "holiday_avg": 6.3,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第9名"
+  },
+  "population": {
+    "residential": {
+      "500m": 8400.0,
+      "1_5km": 5.3,
+      "3km": 26.0
+    },
+    "office": {
+      "500m": 1.5,
+      "1_5km": 4.5,
+      "3km": 11.5
+    },
+    "permanent": {
+      "500m": 1.1,
+      "1_5km": 5.5,
+      "3km": 24.1
+    }
+  },
+  "business": {
+    "competitors": 6.0,
+    "food": 239.0,
+    "shopping": 211.0,
+    "leisure": 20.0,
+    "education": 44.0,
+    "hotel": 5.0,
+    "services": 227.0,
+    "fitness": 36.0,
+    "auto": 10.0,
+    "total_stores": 295.0,
+    "old_store_3yr_pct": 53.0
+  },
+  "nearby_poi": {
+    "business": 2.0,
+    "community": 171.0,
+    "office": 24.0,
+    "school": 11.0,
+    "hospital": 26.0,
+    "transport": 7.0,
+    "scenic": 100.0
+  },
+  "demographics": {
+    "male_pct": 46.3,
+    "female_pct": null,
+    "education": {
+      "小学": 8.9,
+      "初中": 16.6,
+      "高中": 12.9,
+      "大专": 9.0,
+      "本科": 44.3,
+      "硕士": 6.6,
+      "博士": 1.7
+    },
+    "has_children_pct": 53.4,
+    "no_children_pct": 46.6
+  },
+  "scraped_at": "2026-07-31T14:06:02.218Z",
+  "nearby_restaurants": [
+    {
+      "brand": "宝祷台湾古早料理",
+      "address": "太湖街道立信大道168号海岸城购物中心A座4楼419号商铺",
+      "distance": "3m"
+    },
+    {
+      "brand": "很久以前羊肉串(无锡海岸城店)",
+      "address": "立信大道168号",
+      "distance": "5m"
+    },
+    {
+      "brand": "豆The(无锡海岸城店)",
+      "address": "观顺路海岸城41号海岸中心",
+      "distance": "7m"
+    },
+    {
+      "brand": "炉鱼(无锡海岸城店)",
+      "address": "立信大道168号海岸城四楼",
+      "distance": "9m"
+    },
+    {
+      "brand": "MOON向北(海岸城店)",
+      "address": "经济开发区海岸城30、39-401号第415-1号",
+      "distance": "11m"
+    },
+    {
+      "brand": "西堤牛排(海岸城购物中心A座店)",
+      "address": "立信大道168号海岸城A座3楼",
+      "distance": "12m"
+    },
+    {
+      "brand": "布歌东京(无锡海岸城店)",
+      "address": "立信大道168号海岸城A座L1层",
+      "distance": "12m"
+    },
+    {
+      "brand": "茶愫女装",
+      "address": "立信大道与方庙路交叉口西北100米",
+      "distance": "13m"
+    },
+    {
+      "brand": "楼兰新疆主题餐厅(海岸中心店)",
+      "address": "立信大道168号海岸城购物中心A座L5层",
+      "distance": "13m"
+    },
+    {
+      "brand": "有家酸菜鱼(无锡海岸城店)",
+      "address": "立信大道168号海岸城购物中心5层511",
+      "distance": "18m"
+    },
+    {
+      "brand": "宝祷台湾古早料理",
+      "address": "太湖街道立信大道168号海岸城购物中心A座4楼419号商铺",
+      "distance": "3m"
+    },
+    {
+      "brand": "很久以前羊肉串(无锡海岸城店)",
+      "address": "立信大道168号",
+      "distance": "5m"
+    },
+    {
+      "brand": "豆The(无锡海岸城店)",
+      "address": "观顺路海岸城41号海岸中心",
+      "distance": "7m"
+    },
+    {
+      "brand": "炉鱼(无锡海岸城店)",
+      "address": "立信大道168号海岸城四楼",
+      "distance": "9m"
+    },
+    {
+      "brand": "MOON向北(海岸城店)",
+      "address": "经济开发区海岸城30、39-401号第415-1号",
+      "distance": "11m"
+    },
+    {
+      "brand": "西堤牛排(海岸城购物中心A座店)",
+      "address": "立信大道168号海岸城A座3楼",
+      "distance": "12m"
+    },
+    {
+      "brand": "布歌东京(无锡海岸城店)",
+      "address": "立信大道168号海岸城A座L1层",
+      "distance": "12m"
+    },
+    {
+      "brand": "茶愫女装",
+      "address": "立信大道与方庙路交叉口西北100米",
+      "distance": "13m"
+    },
+    {
+      "brand": "楼兰新疆主题餐厅(海岸中心店)",
+      "address": "立信大道168号海岸城购物中心A座L5层",
+      "distance": "13m"
+    },
+    {
+      "brand": "有家酸菜鱼(无锡海岸城店)",
+      "address": "立信大道168号海岸城购物中心5层511",
+      "distance": "18m"
+    },
+    {
+      "brand": "宝祷台湾古早料理",
+      "address": "太湖街道立信大道168号海岸城购物中心A座4楼419号商铺",
+      "distance": "3m"
+    },
+    {
+      "brand": "很久以前羊肉串(无锡海岸城店)",
+      "address": "立信大道168号",
+      "distance": "5m"
+    },
+    {
+      "brand": "豆The(无锡海岸城店)",
+      "address": "观顺路海岸城41号海岸中心",
+      "distance": "7m"
+    },
+    {
+      "brand": "炉鱼(无锡海岸城店)",
+      "address": "立信大道168号海岸城四楼",
+      "distance": "9m"
+    },
+    {
+      "brand": "MOON向北(海岸城店)",
+      "address": "经济开发区海岸城30、39-401号第415-1号",
+      "distance": "11m"
+    },
+    {
+      "brand": "西堤牛排(海岸城购物中心A座店)",
+      "address": "立信大道168号海岸城A座3楼",
+      "distance": "12m"
+    },
+    {
+      "brand": "布歌东京(无锡海岸城店)",
+      "address": "立信大道168号海岸城A座L1层",
+      "distance": "12m"
+    },
+    {
+      "brand": "茶愫女装",
+      "address": "立信大道与方庙路交叉口西北100米",
+      "distance": "13m"
+    },
+    {
+      "brand": "楼兰新疆主题餐厅(海岸中心店)",
+      "address": "立信大道168号海岸城购物中心A座L5层",
+      "distance": "13m"
+    },
+    {
+      "brand": "有家酸菜鱼(无锡海岸城店)",
+      "address": "立信大道168号海岸城购物中心5层511",
+      "distance": "18m"
+    },
+    {
+      "brand": "宝祷台湾古早料理",
+      "address": "太湖街道立信大道168号海岸城购物中心A座4楼419号商铺",
+      "distance": "3m"
+    },
+    {
+      "brand": "很久以前羊肉串(无锡海岸城店)",
+      "address": "立信大道168号",
+      "distance": "5m"
+    },
+    {
+      "brand": "豆The(无锡海岸城店)",
+      "address": "观顺路海岸城41号海岸中心",
+      "distance": "7m"
+    },
+    {
+      "brand": "炉鱼(无锡海岸城店)",
+      "address": "立信大道168号海岸城四楼",
+      "distance": "9m"
+    },
+    {
+      "brand": "MOON向北(海岸城店)",
+      "address": "经济开发区海岸城30、39-401号第415-1号",
+      "distance": "11m"
+    },
+    {
+      "brand": "西堤牛排(海岸城购物中心A座店)",
+      "address": "立信大道168号海岸城A座3楼",
+      "distance": "12m"
+    },
+    {
+      "brand": "布歌东京(无锡海岸城店)",
+      "address": "立信大道168号海岸城A座L1层",
+      "distance": "12m"
+    },
+    {
+      "brand": "茶愫女装",
+      "address": "立信大道与方庙路交叉口西北100米",
+      "distance": "13m"
+    },
+    {
+      "brand": "楼兰新疆主题餐厅(海岸中心店)",
+      "address": "立信大道168号海岸城购物中心A座L5层",
+      "distance": "13m"
+    },
+    {
+      "brand": "有家酸菜鱼(无锡海岸城店)",
+      "address": "立信大道168号海岸城购物中心5层511",
+      "distance": "18m"
+    },
+    {
+      "brand": "宝祷台湾古早料理",
+      "address": "太湖街道立信大道168号海岸城购物中心A座4楼419号商铺",
+      "distance": "3m"
+    },
+    {
+      "brand": "很久以前羊肉串(无锡海岸城店)",
+      "address": "立信大道168号",
+      "distance": "5m"
+    },
+    {
+      "brand": "豆The(无锡海岸城店)",
+      "address": "观顺路海岸城41号海岸中心",
+      "distance": "7m"
+    },
+    {
+      "brand": "炉鱼(无锡海岸城店)",
+      "address": "立信大道168号海岸城四楼",
+      "distance": "9m"
+    },
+    {
+      "brand": "MOON向北(海岸城店)",
+      "address": "经济开发区海岸城30、39-401号第415-1号",
+      "distance": "11m"
+    },
+    {
+      "brand": "西堤牛排(海岸城购物中心A座店)",
+      "address": "立信大道168号海岸城A座3楼",
+      "distance": "12m"
+    },
+    {
+      "brand": "布歌东京(无锡海岸城店)",
+      "address": "立信大道168号海岸城A座L1层",
+      "distance": "12m"
+    },
+    {
+      "brand": "茶愫女装",
+      "address": "立信大道与方庙路交叉口西北100米",
+      "distance": "13m"
+    },
+    {
+      "brand": "楼兰新疆主题餐厅(海岸中心店)",
+      "address": "立信大道168号海岸城购物中心A座L5层",
+      "distance": "13m"
+    },
+    {
+      "brand": "有家酸菜鱼(无锡海岸城店)",
+      "address": "立信大道168号海岸城购物中心5层511",
+      "distance": "18m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "无锡海岸城八方汇",
+      "open_date": "2016-06-01",
+      "area": "14万㎡",
+      "jun_daily_avg": "2.3万人次",
+      "weekday_avg": "2.1万人次",
+      "holiday_avg": "2.8万人次"
+    },
+    {
+      "name": "无锡万科方糖",
+      "open_date": "2020-11-28",
+      "area": "1.5万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 113.0,
+      "within_1yr_pct": 17.7,
+      "1_3yr_pct": 29.2,
+      "over_3yr_pct": 53.1
+    },
+    {
+      "type": "购物",
+      "count": 118.0,
+      "within_1yr_pct": 14.4,
+      "1_3yr_pct": 32.2,
+      "over_3yr_pct": 53.4
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 9.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 66.7
+    },
+    {
+      "type": "教育培训",
+      "count": 10.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 30.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "生活服务",
+      "count": 32.0,
+      "within_1yr_pct": 18.8,
+      "1_3yr_pct": 28.1,
+      "over_3yr_pct": 53.1
+    },
+    {
+      "type": "运动健身",
+      "count": 5.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 60.0,
+      "over_3yr_pct": 20.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 6.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 33.3
+    }
+  ]
+}

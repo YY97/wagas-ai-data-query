@@ -1,0 +1,154 @@
+{
+  "name": "金马商场(兴华中街店)",
+  "city": "北京市",
+  "address": "北京市通州区马驹桥镇兴华中街65号北京怡鑫源宾馆",
+  "lat": 39.759349,
+  "lng": 116.558296,
+  "overview": {
+    "score": 86.3,
+    "score_rank": "市内前30%",
+    "population_score": 100.0,
+    "area_score": 94.9,
+    "consumption_score": 60.0,
+    "industry_score": 86.2,
+    "annual_sales": "",
+    "annual_sales_unit": "",
+    "area_size_sqm": null,
+    "open_date": "",
+    "operator": "",
+    "brand": "",
+    "type": "",
+    "floors": ""
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "",
+    "annual_daily_rank": "",
+    "jun_total": null,
+    "jun_total_rank": "",
+    "jun_daily_avg": null,
+    "jun_daily_unit": "",
+    "jun_daily_rank": "",
+    "weekday_avg": null,
+    "weekday_unit": "",
+    "weekday_rank": "",
+    "holiday_avg": null,
+    "holiday_unit": "",
+    "holiday_rank": ""
+  },
+  "population": {
+    "residential": {
+      "500m": 5.2,
+      "1_5km": 17.4,
+      "3km": 32.7
+    },
+    "office": {
+      "500m": 1.3,
+      "1_5km": 4.7,
+      "3km": 17.8
+    },
+    "permanent": {
+      "500m": 4.2,
+      "1_5km": 14.1,
+      "3km": 27.8
+    }
+  },
+  "business": {
+    "competitors": null,
+    "food": 463.0,
+    "shopping": 239.0,
+    "leisure": 12.0,
+    "education": 5.0,
+    "hotel": 122.0,
+    "services": 179.0,
+    "fitness": 8.0,
+    "auto": 8.0,
+    "total_stores": 1037.0,
+    "old_store_3yr_pct": 51.0
+  },
+  "nearby_poi": {
+    "business": 2.0,
+    "community": 75.0,
+    "office": 6.0,
+    "school": 22.0,
+    "hospital": 17.0,
+    "transport": 2.0,
+    "scenic": 33.0
+  },
+  "demographics": {
+    "male_pct": 54.2,
+    "female_pct": null,
+    "education": {
+      "小学": 11.6,
+      "初中": 18.6,
+      "高中": 11.7,
+      "大专": 9.9,
+      "本科": 43.5,
+      "硕士": 4.0,
+      "博士": 0.7
+    },
+    "has_children_pct": null,
+    "no_children_pct": null
+  },
+  "scraped_at": "2026-08-01T18:18:52.988Z",
+  "nearby_restaurants": [],
+  "nearby_malls": [],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 463.0,
+      "within_1yr_pct": 32.2,
+      "1_3yr_pct": 30.2,
+      "over_3yr_pct": 37.6
+    },
+    {
+      "type": "购物",
+      "count": 239.0,
+      "within_1yr_pct": 13.8,
+      "1_3yr_pct": 15.9,
+      "over_3yr_pct": 70.3
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 13.0,
+      "within_1yr_pct": 7.7,
+      "1_3yr_pct": 15.4,
+      "over_3yr_pct": 76.9
+    },
+    {
+      "type": "教育培训",
+      "count": 5.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 40.0,
+      "over_3yr_pct": 60.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 122.0,
+      "within_1yr_pct": 14.8,
+      "1_3yr_pct": 24.6,
+      "over_3yr_pct": 60.7
+    },
+    {
+      "type": "生活服务",
+      "count": 179.0,
+      "within_1yr_pct": 19.6,
+      "1_3yr_pct": 29.1,
+      "over_3yr_pct": 51.4
+    },
+    {
+      "type": "运动健身",
+      "count": 8.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 62.5,
+      "over_3yr_pct": 37.5
+    },
+    {
+      "type": "车辆服务",
+      "count": 8.0,
+      "within_1yr_pct": 12.5,
+      "1_3yr_pct": 37.5,
+      "over_3yr_pct": 50.0
+    }
+  ]
+}

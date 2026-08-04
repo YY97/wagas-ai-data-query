@@ -1,0 +1,202 @@
+{
+  "name": "森兰商都",
+  "city": "上海市",
+  "address": "上海市浦东新区高行镇森兰商都",
+  "lat": 31.311846,
+  "lng": 121.591099,
+  "overview": {
+    "score": 89.4,
+    "score_rank": "市内前30%",
+    "population_score": 64.1,
+    "area_score": 72.6,
+    "consumption_score": 83.0,
+    "industry_score": 89.6,
+    "annual_sales": "森兰商都位于浦东新区张杨北路2988号，毗邻上海自贸区，是一个以自贸概念为主导的保税展示交易平台占地面积约28150平方米，总建筑面积约83000平方米（地上四层、地下两层），定位为家庭体验型购物中心，主力业态包括国际知名大型超市、国际影城、儿童体验馆、餐饮、零售、娱乐等森兰商都作为自贸区商业创新的样板，率先试点了保税展示交易功能，已吸引了多家知名品牌进驻，带来全新的跨境消费体验与轨道交通6号线洲海路站紧密连接，是森兰商圈的核心商业之一",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 8.3,
+    "open_date": "2014-04-12",
+    "operator": "印力商用置业有限公司",
+    "brand": "",
+    "type": "综合型",
+    "floors": "B1-L4"
+  },
+  "traffic": {
+    "annual_daily": 1.33,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第194",
+    "jun_total": 36.9,
+    "jun_total_rank": "市内商场第265名",
+    "jun_daily_avg": 1.2,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第265名",
+    "weekday_avg": 9617.0,
+    "weekday_unit": "人次",
+    "weekday_rank": "市内商场第309名",
+    "holiday_avg": 2.0,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第212名"
+  },
+  "population": {
+    "residential": {
+      "500m": 3500.0,
+      "1_5km": 5.2,
+      "3km": 27.6
+    },
+    "office": {
+      "500m": 1.1,
+      "1_5km": 3.5,
+      "3km": 15.6
+    },
+    "permanent": {
+      "500m": 8200.0,
+      "1_5km": 5.2,
+      "3km": 25.3
+    }
+  },
+  "business": {
+    "competitors": 6.0,
+    "food": 176.0,
+    "shopping": 98.0,
+    "leisure": 22.0,
+    "education": 38.0,
+    "hotel": 6.0,
+    "services": 94.0,
+    "fitness": 21.0,
+    "auto": 18.0,
+    "total_stores": 61.0,
+    "old_store_3yr_pct": 54.0
+  },
+  "nearby_poi": {
+    "business": 2.0,
+    "community": 119.0,
+    "office": 21.0,
+    "school": 9.0,
+    "hospital": 15.0,
+    "transport": 7.0,
+    "scenic": 29.0
+  },
+  "demographics": {
+    "male_pct": 51.6,
+    "female_pct": null,
+    "education": {
+      "小学": 9.3,
+      "初中": 17.5,
+      "高中": 10.9,
+      "大专": 9.0,
+      "本科": 46.3,
+      "硕士": 5.9,
+      "博士": 1.1
+    },
+    "has_children_pct": 63.5,
+    "no_children_pct": 36.5
+  },
+  "scraped_at": "2026-08-01T06:58:55.254Z",
+  "nearby_restaurants": [
+    {
+      "brand": "牛奶檬",
+      "address": "启帆路433弄森兰壹公馆(洲海路地铁站2号口步行270米)",
+      "distance": "424m"
+    },
+    {
+      "brand": "金粤轩(森兰店)",
+      "address": "繁锦路855号(洲海路地铁站2号口步行310米)",
+      "distance": "427m"
+    },
+    {
+      "brand": "YulTuz⭐️星星新疆餐厅(森兰自由度店)",
+      "address": "繁锦路867号(洲海路地铁站2号口步行340米)",
+      "distance": "433m"
+    },
+    {
+      "brand": "PapaGarden",
+      "address": "张杨北路与洲海路交叉口西南140米",
+      "distance": "437m"
+    },
+    {
+      "brand": "库迪咖啡(森兰湾北区5号楼店)",
+      "address": "启帆路与兰谷路交叉口西北100米",
+      "distance": "455m"
+    },
+    {
+      "brand": "柒涧茶空间(金地未未来店)",
+      "address": "张杨北路2899弄金地未未来",
+      "distance": "470m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海外高桥阳光天地",
+      "open_date": "2015-09-23",
+      "area": "2万㎡",
+      "jun_daily_avg": "2.3万人次",
+      "weekday_avg": "2.1万人次",
+      "holiday_avg": "3万人次"
+    },
+    {
+      "name": "上海森兰招商花园城",
+      "open_date": "2020-09-30",
+      "area": "8万㎡",
+      "jun_daily_avg": "2.3万人次",
+      "weekday_avg": "2.1万人次",
+      "holiday_avg": "3万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 28.0,
+      "within_1yr_pct": 14.3,
+      "1_3yr_pct": 14.3,
+      "over_3yr_pct": 71.4
+    },
+    {
+      "type": "购物",
+      "count": 12.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 41.7,
+      "over_3yr_pct": 25.0
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 3.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    },
+    {
+      "type": "教育培训",
+      "count": 3.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 66.7,
+      "over_3yr_pct": 33.3
+    },
+    {
+      "type": "酒店住宿",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "生活服务",
+      "count": 10.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 40.0,
+      "over_3yr_pct": 40.0
+    },
+    {
+      "type": "运动健身",
+      "count": 2.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 50.0
+    }
+  ]
+}

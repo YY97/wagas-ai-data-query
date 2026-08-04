@@ -1,0 +1,126 @@
+{
+  "name": "李老社区商业中心",
+  "city": "北京市",
+  "address": "北京市石景山区五里坨西街12院",
+  "lat": 39.955583,
+  "lng": 116.122254,
+  "overview": {
+    "score": 81.0,
+    "score_rank": "市内前30%",
+    "population_score": 86.9,
+    "area_score": 65.9,
+    "consumption_score": 63.8,
+    "industry_score": 81.1,
+    "annual_sales": "北京金海洋购物中心位于石景山区五里坨地区，是一座集餐饮、购物、亲子活动于一体的大型综合商场。商场由两栋建筑物主体相连，配备地上及地下两层车位，满足购物者停车需求。商场一层为国际品牌快餐和生活配套，二层为大型综合超市，引入了家乐福零售云店等品牌。",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 2.2,
+    "open_date": "2022-06-29",
+    "operator": "",
+    "brand": "",
+    "type": "美食型",
+    "floors": "B1-L5"
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "-",
+    "annual_daily_rank": "",
+    "jun_total": 5.6,
+    "jun_total_rank": "市内商场第342名",
+    "jun_daily_avg": 1857.0,
+    "jun_daily_unit": "人次",
+    "jun_daily_rank": "市内商场第342名",
+    "weekday_avg": 1775.0,
+    "weekday_unit": "人次",
+    "weekday_rank": "市内商场第341名",
+    "holiday_avg": 2081.0,
+    "holiday_unit": "人次",
+    "holiday_rank": "市内商场第338名"
+  },
+  "population": {
+    "residential": {
+      "500m": 1.8,
+      "1_5km": 8.3,
+      "3km": 23.1
+    },
+    "office": {
+      "500m": 6000.0,
+      "1_5km": 2.6,
+      "3km": 9.2
+    },
+    "permanent": {
+      "500m": 1.8,
+      "1_5km": 7.4,
+      "3km": 22.3
+    }
+  },
+  "business": {
+    "competitors": 3.0,
+    "food": 56.0,
+    "shopping": 25.0,
+    "leisure": 5.0,
+    "education": 9.0,
+    "hotel": 4.0,
+    "services": 33.0,
+    "fitness": 15.0,
+    "auto": 6.0,
+    "total_stores": 19.0,
+    "old_store_3yr_pct": 58.0
+  },
+  "nearby_poi": {
+    "business": 2.0,
+    "community": 141.0,
+    "office": 1.0,
+    "school": 12.0,
+    "hospital": 30.0,
+    "transport": 7.0,
+    "scenic": 56.0
+  },
+  "demographics": {
+    "male_pct": null,
+    "female_pct": null,
+    "education": {
+      "小学": 9.2,
+      "初中": 15.4,
+      "高中": 10.5,
+      "大专": 7.3,
+      "本科": 49.2,
+      "硕士": 6.8,
+      "博士": 1.6
+    },
+    "has_children_pct": 57.0,
+    "no_children_pct": 43.0
+  },
+  "scraped_at": "2026-08-01T11:40:45.823Z",
+  "nearby_restaurants": [],
+  "nearby_malls": [],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 10.0,
+      "within_1yr_pct": 10.0,
+      "1_3yr_pct": 30.0,
+      "over_3yr_pct": 60.0
+    },
+    {
+      "type": "购物",
+      "count": 4.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "生活服务",
+      "count": 4.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    }
+  ]
+}

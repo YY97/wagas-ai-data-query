@@ -1,0 +1,401 @@
+{
+  "name": "大华第一坊",
+  "city": "上海市",
+  "address": "上海市青浦区赵巷镇苏宁易购(赵巷店)朋联国际购物中心",
+  "lat": 31.15184,
+  "lng": 121.198755,
+  "overview": {
+    "score": 77.6,
+    "score_rank": "市内前30%",
+    "population_score": 70.4,
+    "area_score": 73.0,
+    "consumption_score": 63.3,
+    "industry_score": 77.7,
+    "annual_sales": "朋联国际购物中心（赵重店）位于上海市青浦区赵巷镇赵重公路55号，周边有多家商铺和餐饮单位。商场内有多种业态，如餐饮、购物等。",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 2.1,
+    "open_date": "",
+    "operator": "上海朋联实业控股集团",
+    "brand": "",
+    "type": "综合型",
+    "floors": "L1-L3"
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "-",
+    "annual_daily_rank": "",
+    "jun_total": null,
+    "jun_total_rank": "",
+    "jun_daily_avg": null,
+    "jun_daily_unit": "",
+    "jun_daily_rank": "",
+    "weekday_avg": null,
+    "weekday_unit": "",
+    "weekday_rank": "",
+    "holiday_avg": null,
+    "holiday_unit": "",
+    "holiday_rank": ""
+  },
+  "population": {
+    "residential": {
+      "500m": 7700.0,
+      "1_5km": 4.8,
+      "3km": 15.3
+    },
+    "office": {
+      "500m": 4100.0,
+      "1_5km": 2.8,
+      "3km": 9.0
+    },
+    "permanent": {
+      "500m": 7400.0,
+      "1_5km": 4.2,
+      "3km": 12.8
+    }
+  },
+  "business": {
+    "competitors": 1.0,
+    "food": 134.0,
+    "shopping": 74.0,
+    "leisure": 6.0,
+    "education": null,
+    "hotel": 6.0,
+    "services": 73.0,
+    "fitness": 6.0,
+    "auto": 14.0,
+    "total_stores": 31.0,
+    "old_store_3yr_pct": 32.0
+  },
+  "nearby_poi": {
+    "business": null,
+    "community": 75.0,
+    "office": 10.0,
+    "school": 7.0,
+    "hospital": 10.0,
+    "transport": 5.0,
+    "scenic": 14.0
+  },
+  "demographics": {
+    "male_pct": null,
+    "female_pct": null,
+    "education": {
+      "小学": 11.0,
+      "初中": 20.5,
+      "高中": 12.4,
+      "大专": 8.2,
+      "本科": 44.7,
+      "硕士": 2.5,
+      "博士": 0.7
+    },
+    "has_children_pct": 60.0,
+    "no_children_pct": 40.0
+  },
+  "scraped_at": "2026-08-01T08:43:55.445Z",
+  "nearby_restaurants": [
+    {
+      "brand": "夸父炸串(赵重公路店)",
+      "address": "赵巷镇赵重公路55号D109",
+      "distance": "28m"
+    },
+    {
+      "brand": "宋二爷乡下土菜馆",
+      "address": "赵重公路与赵华路交叉口西120米",
+      "distance": "32m"
+    },
+    {
+      "brand": "东北地摊烧烤大油边",
+      "address": "赵重公路55-4号",
+      "distance": "33m"
+    },
+    {
+      "brand": "和番丼饭·牛肉饭(赵重公路店)",
+      "address": "赵重公路55号朋联国际购物中心F1层",
+      "distance": "41m"
+    },
+    {
+      "brand": "江西小炒周大厨",
+      "address": "赵巷镇赵重公路55号C106-110",
+      "distance": "51m"
+    },
+    {
+      "brand": "库迪咖啡(赵重朋联国际购物中心店)",
+      "address": "赵巷镇赵重公路55号D107",
+      "distance": "52m"
+    },
+    {
+      "brand": "乔杉杉生烫牛肉米线(赵华路店)",
+      "address": "赵巷镇赵重公路55号c115",
+      "distance": "54m"
+    },
+    {
+      "brand": "云南小吃(朋联店)",
+      "address": "赵巷镇赵重公路55号D105",
+      "distance": "57m"
+    },
+    {
+      "brand": "俏四海龙虾烧烤(赵巷二店)",
+      "address": "赵重公路55号E101-E109",
+      "distance": "57m"
+    },
+    {
+      "brand": "秘制手撕烤鸭(朋联国际购物中心店)",
+      "address": "赵巷镇赵重公路55号C222",
+      "distance": "58m"
+    },
+    {
+      "brand": "夸父炸串(赵重公路店)",
+      "address": "赵巷镇赵重公路55号D109",
+      "distance": "28m"
+    },
+    {
+      "brand": "宋二爷乡下土菜馆",
+      "address": "赵重公路与赵华路交叉口西120米",
+      "distance": "32m"
+    },
+    {
+      "brand": "东北地摊烧烤大油边",
+      "address": "赵重公路55-4号",
+      "distance": "33m"
+    },
+    {
+      "brand": "和番丼饭·牛肉饭(赵重公路店)",
+      "address": "赵重公路55号朋联国际购物中心F1层",
+      "distance": "41m"
+    },
+    {
+      "brand": "江西小炒周大厨",
+      "address": "赵巷镇赵重公路55号C106-110",
+      "distance": "51m"
+    },
+    {
+      "brand": "库迪咖啡(赵重朋联国际购物中心店)",
+      "address": "赵巷镇赵重公路55号D107",
+      "distance": "52m"
+    },
+    {
+      "brand": "乔杉杉生烫牛肉米线(赵华路店)",
+      "address": "赵巷镇赵重公路55号c115",
+      "distance": "54m"
+    },
+    {
+      "brand": "云南小吃(朋联店)",
+      "address": "赵巷镇赵重公路55号D105",
+      "distance": "57m"
+    },
+    {
+      "brand": "俏四海龙虾烧烤(赵巷二店)",
+      "address": "赵重公路55号E101-E109",
+      "distance": "57m"
+    },
+    {
+      "brand": "秘制手撕烤鸭(朋联国际购物中心店)",
+      "address": "赵巷镇赵重公路55号C222",
+      "distance": "58m"
+    },
+    {
+      "brand": "夸父炸串(赵重公路店)",
+      "address": "赵巷镇赵重公路55号D109",
+      "distance": "28m"
+    },
+    {
+      "brand": "宋二爷乡下土菜馆",
+      "address": "赵重公路与赵华路交叉口西120米",
+      "distance": "32m"
+    },
+    {
+      "brand": "东北地摊烧烤大油边",
+      "address": "赵重公路55-4号",
+      "distance": "33m"
+    },
+    {
+      "brand": "和番丼饭·牛肉饭(赵重公路店)",
+      "address": "赵重公路55号朋联国际购物中心F1层",
+      "distance": "41m"
+    },
+    {
+      "brand": "江西小炒周大厨",
+      "address": "赵巷镇赵重公路55号C106-110",
+      "distance": "51m"
+    },
+    {
+      "brand": "库迪咖啡(赵重朋联国际购物中心店)",
+      "address": "赵巷镇赵重公路55号D107",
+      "distance": "52m"
+    },
+    {
+      "brand": "乔杉杉生烫牛肉米线(赵华路店)",
+      "address": "赵巷镇赵重公路55号c115",
+      "distance": "54m"
+    },
+    {
+      "brand": "云南小吃(朋联店)",
+      "address": "赵巷镇赵重公路55号D105",
+      "distance": "57m"
+    },
+    {
+      "brand": "俏四海龙虾烧烤(赵巷二店)",
+      "address": "赵重公路55号E101-E109",
+      "distance": "57m"
+    },
+    {
+      "brand": "秘制手撕烤鸭(朋联国际购物中心店)",
+      "address": "赵巷镇赵重公路55号C222",
+      "distance": "58m"
+    },
+    {
+      "brand": "夸父炸串(赵重公路店)",
+      "address": "赵巷镇赵重公路55号D109",
+      "distance": "28m"
+    },
+    {
+      "brand": "宋二爷乡下土菜馆",
+      "address": "赵重公路与赵华路交叉口西120米",
+      "distance": "32m"
+    },
+    {
+      "brand": "东北地摊烧烤大油边",
+      "address": "赵重公路55-4号",
+      "distance": "33m"
+    },
+    {
+      "brand": "和番丼饭·牛肉饭(赵重公路店)",
+      "address": "赵重公路55号朋联国际购物中心F1层",
+      "distance": "41m"
+    },
+    {
+      "brand": "江西小炒周大厨",
+      "address": "赵巷镇赵重公路55号C106-110",
+      "distance": "51m"
+    },
+    {
+      "brand": "库迪咖啡(赵重朋联国际购物中心店)",
+      "address": "赵巷镇赵重公路55号D107",
+      "distance": "52m"
+    },
+    {
+      "brand": "乔杉杉生烫牛肉米线(赵华路店)",
+      "address": "赵巷镇赵重公路55号c115",
+      "distance": "54m"
+    },
+    {
+      "brand": "云南小吃(朋联店)",
+      "address": "赵巷镇赵重公路55号D105",
+      "distance": "57m"
+    },
+    {
+      "brand": "俏四海龙虾烧烤(赵巷二店)",
+      "address": "赵重公路55号E101-E109",
+      "distance": "57m"
+    },
+    {
+      "brand": "秘制手撕烤鸭(朋联国际购物中心店)",
+      "address": "赵巷镇赵重公路55号C222",
+      "distance": "58m"
+    },
+    {
+      "brand": "夸父炸串(赵重公路店)",
+      "address": "赵巷镇赵重公路55号D109",
+      "distance": "28m"
+    },
+    {
+      "brand": "宋二爷乡下土菜馆",
+      "address": "赵重公路与赵华路交叉口西120米",
+      "distance": "32m"
+    },
+    {
+      "brand": "东北地摊烧烤大油边",
+      "address": "赵重公路55-4号",
+      "distance": "33m"
+    },
+    {
+      "brand": "和番丼饭·牛肉饭(赵重公路店)",
+      "address": "赵重公路55号朋联国际购物中心F1层",
+      "distance": "41m"
+    },
+    {
+      "brand": "江西小炒周大厨",
+      "address": "赵巷镇赵重公路55号C106-110",
+      "distance": "51m"
+    },
+    {
+      "brand": "库迪咖啡(赵重朋联国际购物中心店)",
+      "address": "赵巷镇赵重公路55号D107",
+      "distance": "52m"
+    },
+    {
+      "brand": "乔杉杉生烫牛肉米线(赵华路店)",
+      "address": "赵巷镇赵重公路55号c115",
+      "distance": "54m"
+    },
+    {
+      "brand": "云南小吃(朋联店)",
+      "address": "赵巷镇赵重公路55号D105",
+      "distance": "57m"
+    },
+    {
+      "brand": "俏四海龙虾烧烤(赵巷二店)",
+      "address": "赵重公路55号E101-E109",
+      "distance": "57m"
+    },
+    {
+      "brand": "秘制手撕烤鸭(朋联国际购物中心店)",
+      "address": "赵巷镇赵重公路55号C222",
+      "distance": "58m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上坤城市广场",
+      "open_date": "-",
+      "area": "-",
+      "jun_daily_avg": "3.4万人次",
+      "weekday_avg": "3.3万人次",
+      "holiday_avg": "3.8万人次"
+    },
+    {
+      "name": "上海宝山经纬汇",
+      "open_date": "2019-12-21",
+      "area": "11万㎡",
+      "jun_daily_avg": "3.4万人次",
+      "weekday_avg": "3.3万人次",
+      "holiday_avg": "3.8万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 14.0,
+      "within_1yr_pct": 35.7,
+      "1_3yr_pct": 42.9,
+      "over_3yr_pct": 21.4
+    },
+    {
+      "type": "购物",
+      "count": 6.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 66.7
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    },
+    {
+      "type": "生活服务",
+      "count": 8.0,
+      "within_1yr_pct": 62.5,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 12.5
+    },
+    {
+      "type": "车辆服务",
+      "count": 2.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 50.0
+    }
+  ]
+}

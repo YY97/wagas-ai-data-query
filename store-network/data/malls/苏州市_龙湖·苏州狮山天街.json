@@ -1,0 +1,486 @@
+{
+  "name": "龙湖·苏州狮山天街",
+  "city": "苏州市",
+  "address": "江苏省苏州市虎丘区狮山街道狮山路196号",
+  "lat": 31.292643,
+  "lng": 120.558686,
+  "overview": {
+    "score": 96.9,
+    "score_rank": "市内前30%",
+    "population_score": 90.8,
+    "area_score": 93.8,
+    "consumption_score": 85.4,
+    "industry_score": 96.9,
+    "annual_sales": "33",
+    "annual_sales_unit": "亿元",
+    "area_size_sqm": 27.0,
+    "open_date": "2017-09-28",
+    "operator": "龙湖集团控股有限公司",
+    "brand": "龙湖",
+    "type": "综合型",
+    "floors": "B2-L6"
+  },
+  "traffic": {
+    "annual_daily": 6.27,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第2",
+    "jun_total": 302.3,
+    "jun_total_rank": "市内商场第2名",
+    "jun_daily_avg": 10.1,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第2名",
+    "weekday_avg": 8.8,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第2名",
+    "holiday_avg": 13.6,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第2名"
+  },
+  "population": {
+    "residential": {
+      "500m": 1.4,
+      "1_5km": 8.9,
+      "3km": 36.8
+    },
+    "office": {
+      "500m": 1.4,
+      "1_5km": 7.0,
+      "3km": 23.0
+    },
+    "permanent": {
+      "500m": 2.2,
+      "1_5km": 10.2,
+      "3km": 36.5
+    }
+  },
+  "business": {
+    "competitors": 7.0,
+    "food": 346.0,
+    "shopping": 379.0,
+    "leisure": 51.0,
+    "education": 64.0,
+    "hotel": 15.0,
+    "services": 284.0,
+    "fitness": 25.0,
+    "auto": 27.0,
+    "total_stores": 508.0,
+    "old_store_3yr_pct": 47.0
+  },
+  "nearby_poi": {
+    "business": 10.0,
+    "community": 269.0,
+    "office": 45.0,
+    "school": 23.0,
+    "hospital": 45.0,
+    "transport": 11.0,
+    "scenic": 187.0
+  },
+  "demographics": {
+    "male_pct": 46.5,
+    "female_pct": null,
+    "education": {
+      "小学": 9.9,
+      "初中": 19.3,
+      "高中": 12.4,
+      "大专": 10.6,
+      "本科": 43.2,
+      "硕士": 3.8,
+      "博士": 0.8
+    },
+    "has_children_pct": 58.3,
+    "no_children_pct": 41.7
+  },
+  "scraped_at": "2026-07-31T13:15:30.391Z",
+  "nearby_restaurants": [
+    {
+      "brand": "波卡波卡面包店(龙湖·苏州狮山天街店)",
+      "address": "狮山路216号龙湖·苏州狮山天街",
+      "distance": "2m"
+    },
+    {
+      "brand": "NEED创意韩国料理(狮山龙湖店)",
+      "address": "狮山龙湖天街5号门负一楼B1-93",
+      "distance": "3m"
+    },
+    {
+      "brand": "ihere自在地(龙湖·狮山天街店)",
+      "address": "狮山路216号狮山天街b1-29 ihere自在地",
+      "distance": "3m"
+    },
+    {
+      "brand": "桂花山川·创意多彩糖水(苏州狮山龙湖店)",
+      "address": "塔园路181号龙湖苏州狮山天街·A馆5F层",
+      "distance": "3m"
+    },
+    {
+      "brand": "同仁四季椰子鸡(苏州狮山天街店)",
+      "address": "塔园路181号狮山天街生活广场A-6F-43号",
+      "distance": "3m"
+    },
+    {
+      "brand": "Mint Lemon薄荷柠檬(龙湖狮山天街店)",
+      "address": "狮山街道塔园路181号龙湖狮山天街A馆3F-52号",
+      "distance": "3m"
+    },
+    {
+      "brand": "图唯塔巧克力",
+      "address": "塔园路181号龙湖苏州狮山天街·A馆",
+      "distance": "3m"
+    },
+    {
+      "brand": "嘎嘎好吃·东北大饭包",
+      "address": "狮山路216号龙湖·苏州狮山天街",
+      "distance": "3m"
+    },
+    {
+      "brand": "山缓缓火锅(苏州龙湖狮山天街店)",
+      "address": "塔园路181号龙湖苏州狮山天街A馆",
+      "distance": "7m"
+    },
+    {
+      "brand": "萨莉亚意式餐厅(龙湖·苏州狮山天街店)",
+      "address": "塔园路181号A-B1-107号",
+      "distance": "7m"
+    },
+    {
+      "brand": "波卡波卡面包店(龙湖·苏州狮山天街店)",
+      "address": "狮山路216号龙湖·苏州狮山天街",
+      "distance": "2m"
+    },
+    {
+      "brand": "NEED创意韩国料理(狮山龙湖店)",
+      "address": "狮山龙湖天街5号门负一楼B1-93",
+      "distance": "3m"
+    },
+    {
+      "brand": "ihere自在地(龙湖·狮山天街店)",
+      "address": "狮山路216号狮山天街b1-29 ihere自在地",
+      "distance": "3m"
+    },
+    {
+      "brand": "桂花山川·创意多彩糖水(苏州狮山龙湖店)",
+      "address": "塔园路181号龙湖苏州狮山天街·A馆5F层",
+      "distance": "3m"
+    },
+    {
+      "brand": "同仁四季椰子鸡(苏州狮山天街店)",
+      "address": "塔园路181号狮山天街生活广场A-6F-43号",
+      "distance": "3m"
+    },
+    {
+      "brand": "Mint Lemon薄荷柠檬(龙湖狮山天街店)",
+      "address": "狮山街道塔园路181号龙湖狮山天街A馆3F-52号",
+      "distance": "3m"
+    },
+    {
+      "brand": "图唯塔巧克力",
+      "address": "塔园路181号龙湖苏州狮山天街·A馆",
+      "distance": "3m"
+    },
+    {
+      "brand": "嘎嘎好吃·东北大饭包",
+      "address": "狮山路216号龙湖·苏州狮山天街",
+      "distance": "3m"
+    },
+    {
+      "brand": "山缓缓火锅(苏州龙湖狮山天街店)",
+      "address": "塔园路181号龙湖苏州狮山天街A馆",
+      "distance": "7m"
+    },
+    {
+      "brand": "萨莉亚意式餐厅(龙湖·苏州狮山天街店)",
+      "address": "塔园路181号A-B1-107号",
+      "distance": "7m"
+    },
+    {
+      "brand": "波卡波卡面包店(龙湖·苏州狮山天街店)",
+      "address": "狮山路216号龙湖·苏州狮山天街",
+      "distance": "2m"
+    },
+    {
+      "brand": "NEED创意韩国料理(狮山龙湖店)",
+      "address": "狮山龙湖天街5号门负一楼B1-93",
+      "distance": "3m"
+    },
+    {
+      "brand": "ihere自在地(龙湖·狮山天街店)",
+      "address": "狮山路216号狮山天街b1-29 ihere自在地",
+      "distance": "3m"
+    },
+    {
+      "brand": "桂花山川·创意多彩糖水(苏州狮山龙湖店)",
+      "address": "塔园路181号龙湖苏州狮山天街·A馆5F层",
+      "distance": "3m"
+    },
+    {
+      "brand": "同仁四季椰子鸡(苏州狮山天街店)",
+      "address": "塔园路181号狮山天街生活广场A-6F-43号",
+      "distance": "3m"
+    },
+    {
+      "brand": "Mint Lemon薄荷柠檬(龙湖狮山天街店)",
+      "address": "狮山街道塔园路181号龙湖狮山天街A馆3F-52号",
+      "distance": "3m"
+    },
+    {
+      "brand": "图唯塔巧克力",
+      "address": "塔园路181号龙湖苏州狮山天街·A馆",
+      "distance": "3m"
+    },
+    {
+      "brand": "嘎嘎好吃·东北大饭包",
+      "address": "狮山路216号龙湖·苏州狮山天街",
+      "distance": "3m"
+    },
+    {
+      "brand": "山缓缓火锅(苏州龙湖狮山天街店)",
+      "address": "塔园路181号龙湖苏州狮山天街A馆",
+      "distance": "7m"
+    },
+    {
+      "brand": "萨莉亚意式餐厅(龙湖·苏州狮山天街店)",
+      "address": "塔园路181号A-B1-107号",
+      "distance": "7m"
+    },
+    {
+      "brand": "波卡波卡面包店(龙湖·苏州狮山天街店)",
+      "address": "狮山路216号龙湖·苏州狮山天街",
+      "distance": "2m"
+    },
+    {
+      "brand": "NEED创意韩国料理(狮山龙湖店)",
+      "address": "狮山龙湖天街5号门负一楼B1-93",
+      "distance": "3m"
+    },
+    {
+      "brand": "ihere自在地(龙湖·狮山天街店)",
+      "address": "狮山路216号狮山天街b1-29 ihere自在地",
+      "distance": "3m"
+    },
+    {
+      "brand": "桂花山川·创意多彩糖水(苏州狮山龙湖店)",
+      "address": "塔园路181号龙湖苏州狮山天街·A馆5F层",
+      "distance": "3m"
+    },
+    {
+      "brand": "同仁四季椰子鸡(苏州狮山天街店)",
+      "address": "塔园路181号狮山天街生活广场A-6F-43号",
+      "distance": "3m"
+    },
+    {
+      "brand": "Mint Lemon薄荷柠檬(龙湖狮山天街店)",
+      "address": "狮山街道塔园路181号龙湖狮山天街A馆3F-52号",
+      "distance": "3m"
+    },
+    {
+      "brand": "图唯塔巧克力",
+      "address": "塔园路181号龙湖苏州狮山天街·A馆",
+      "distance": "3m"
+    },
+    {
+      "brand": "嘎嘎好吃·东北大饭包",
+      "address": "狮山路216号龙湖·苏州狮山天街",
+      "distance": "3m"
+    },
+    {
+      "brand": "山缓缓火锅(苏州龙湖狮山天街店)",
+      "address": "塔园路181号龙湖苏州狮山天街A馆",
+      "distance": "7m"
+    },
+    {
+      "brand": "萨莉亚意式餐厅(龙湖·苏州狮山天街店)",
+      "address": "塔园路181号A-B1-107号",
+      "distance": "7m"
+    },
+    {
+      "brand": "波卡波卡面包店(龙湖·苏州狮山天街店)",
+      "address": "狮山路216号龙湖·苏州狮山天街",
+      "distance": "2m"
+    },
+    {
+      "brand": "NEED创意韩国料理(狮山龙湖店)",
+      "address": "狮山龙湖天街5号门负一楼B1-93",
+      "distance": "3m"
+    },
+    {
+      "brand": "ihere自在地(龙湖·狮山天街店)",
+      "address": "狮山路216号狮山天街b1-29 ihere自在地",
+      "distance": "3m"
+    },
+    {
+      "brand": "桂花山川·创意多彩糖水(苏州狮山龙湖店)",
+      "address": "塔园路181号龙湖苏州狮山天街·A馆5F层",
+      "distance": "3m"
+    },
+    {
+      "brand": "同仁四季椰子鸡(苏州狮山天街店)",
+      "address": "塔园路181号狮山天街生活广场A-6F-43号",
+      "distance": "3m"
+    },
+    {
+      "brand": "Mint Lemon薄荷柠檬(龙湖狮山天街店)",
+      "address": "狮山街道塔园路181号龙湖狮山天街A馆3F-52号",
+      "distance": "3m"
+    },
+    {
+      "brand": "图唯塔巧克力",
+      "address": "塔园路181号龙湖苏州狮山天街·A馆",
+      "distance": "3m"
+    },
+    {
+      "brand": "嘎嘎好吃·东北大饭包",
+      "address": "狮山路216号龙湖·苏州狮山天街",
+      "distance": "3m"
+    },
+    {
+      "brand": "山缓缓火锅(苏州龙湖狮山天街店)",
+      "address": "塔园路181号龙湖苏州狮山天街A馆",
+      "distance": "7m"
+    },
+    {
+      "brand": "萨莉亚意式餐厅(龙湖·苏州狮山天街店)",
+      "address": "塔园路181号A-B1-107号",
+      "distance": "7m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "龙湖苏州狮山天街北里(B馆)",
+      "open_date": "2021-04-30",
+      "area": "4万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "苏州狮山天街生活广场",
+      "open_date": "2017-09-28",
+      "area": "27万㎡",
+      "jun_daily_avg": "1.5万人次",
+      "weekday_avg": "1.4万人次",
+      "holiday_avg": "1.7万人次"
+    },
+    {
+      "name": "苏州吴宫丽都",
+      "open_date": "2006-01-01",
+      "area": "6.8万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "苏州金鹰国际购物中心(高新店)",
+      "open_date": "2017-01-18",
+      "area": "17万㎡",
+      "jun_daily_avg": "4万人次",
+      "weekday_avg": "3.4万人次",
+      "holiday_avg": "5.5万人次"
+    },
+    {
+      "name": "苏州If Mall易生活购物公园",
+      "open_date": "2016-12-10",
+      "area": "6万㎡",
+      "jun_daily_avg": "1.8万人次",
+      "weekday_avg": "1.7万人次",
+      "holiday_avg": "2.4万人次"
+    },
+    {
+      "name": "苏州佐阾锦华购物中心",
+      "open_date": "2002-01-01",
+      "area": "1万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "苏州红唐购物中心",
+      "open_date": "2021-09-01",
+      "area": "12万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "苏州绿宝广场",
+      "open_date": "2007-04-28",
+      "area": "30万㎡",
+      "jun_daily_avg": "4.7万人次",
+      "weekday_avg": "4万人次",
+      "holiday_avg": "6.6万人次"
+    },
+    {
+      "name": "苏州泉屋百货",
+      "open_date": "2011-09-01",
+      "area": "3万㎡",
+      "jun_daily_avg": "1.7万人次",
+      "weekday_avg": "1.6万人次",
+      "holiday_avg": "2.1万人次"
+    },
+    {
+      "name": "苏州美罗商城(新区店)",
+      "open_date": "2012-01-05",
+      "area": "12.6万㎡",
+      "jun_daily_avg": "1.7万人次",
+      "weekday_avg": "1.6万人次",
+      "holiday_avg": "2万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 172.0,
+      "within_1yr_pct": 14.5,
+      "1_3yr_pct": 35.5,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "购物",
+      "count": 251.0,
+      "within_1yr_pct": 13.5,
+      "1_3yr_pct": 37.8,
+      "over_3yr_pct": 48.6
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 23.0,
+      "within_1yr_pct": 34.8,
+      "1_3yr_pct": 43.5,
+      "over_3yr_pct": 21.7
+    },
+    {
+      "type": "教育培训",
+      "count": 3.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 2.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "生活服务",
+      "count": 42.0,
+      "within_1yr_pct": 23.8,
+      "1_3yr_pct": 38.1,
+      "over_3yr_pct": 38.1
+    },
+    {
+      "type": "运动健身",
+      "count": 4.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 11.0,
+      "within_1yr_pct": 36.4,
+      "1_3yr_pct": 45.5,
+      "over_3yr_pct": 18.2
+    }
+  ]
+}

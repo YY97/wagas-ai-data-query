@@ -1,0 +1,462 @@
+{
+  "name": "宝山万达广场",
+  "city": "上海市",
+  "address": "上海市宝山区共和新路1128号",
+  "lat": 31.323876,
+  "lng": 121.445704,
+  "overview": {
+    "score": 96.3,
+    "score_rank": "市内前30%",
+    "population_score": 91.6,
+    "area_score": 91.8,
+    "consumption_score": 71.2,
+    "industry_score": 96.4,
+    "annual_sales": "上海宝山万达广场是集购物、休闲、娱乐为一体的综合性商业综合体，提供全方位服务",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 20.6,
+    "open_date": "2012-06-29",
+    "operator": "珠海万达商业管理集团股份有限公司",
+    "brand": "万达",
+    "type": "综合型",
+    "floors": "B2-L6"
+  },
+  "traffic": {
+    "annual_daily": 5.07,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第23",
+    "jun_total": 186.4,
+    "jun_total_rank": "市内商场第43名",
+    "jun_daily_avg": 6.2,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第43名",
+    "weekday_avg": 5.5,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第46名",
+    "holiday_avg": 8.2,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第36名"
+  },
+  "population": {
+    "residential": {
+      "500m": 2.6,
+      "1_5km": 30.6,
+      "3km": 88.1
+    },
+    "office": {
+      "500m": 2.2,
+      "1_5km": 12.6,
+      "3km": 37.7
+    },
+    "permanent": {
+      "500m": 3.4,
+      "1_5km": 33.1,
+      "3km": 91.0
+    }
+  },
+  "business": {
+    "competitors": 8.0,
+    "food": 396.0,
+    "shopping": 269.0,
+    "leisure": 84.0,
+    "education": 80.0,
+    "hotel": 22.0,
+    "services": 359.0,
+    "fitness": 38.0,
+    "auto": 30.0,
+    "total_stores": 646.0,
+    "old_store_3yr_pct": 47.0
+  },
+  "nearby_poi": {
+    "business": 7.0,
+    "community": 344.0,
+    "office": 24.0,
+    "school": 54.0,
+    "hospital": 55.0,
+    "transport": 9.0,
+    "scenic": 96.0
+  },
+  "demographics": {
+    "male_pct": 45.9,
+    "female_pct": null,
+    "education": {
+      "小学": 9.8,
+      "初中": 19.6,
+      "高中": 11.4,
+      "大专": 8.2,
+      "本科": 46.8,
+      "硕士": 2.8,
+      "博士": 1.4
+    },
+    "has_children_pct": 64.9,
+    "no_children_pct": 35.1
+  },
+  "scraped_at": "2026-08-01T04:28:10.751Z",
+  "nearby_restaurants": [
+    {
+      "brand": "有喜屋·鲜鸡烧鸟·居酒屋(宝山万达店)",
+      "address": "一二八纪念路988弄1号B1层1026室",
+      "distance": "9m"
+    },
+    {
+      "brand": "丑爷冒菜",
+      "address": "高迎路与一二八纪念路交叉口西南160米",
+      "distance": "14m"
+    },
+    {
+      "brand": "醉爱嗦沈阳铁板鸡架(万达金街店)",
+      "address": "一二八纪念路956号万达广场(上海宝山店)",
+      "distance": "14m"
+    },
+    {
+      "brand": "大虾泰泰(宝山万达店)",
+      "address": "一二八纪念路956号万达广场上海宝山店4F层",
+      "distance": "14m"
+    },
+    {
+      "brand": "老碗会(上海宝山万达广场店)",
+      "address": "张庙街道一二八纪念路936号宝山万达广场B1层B06号商铺",
+      "distance": "14m"
+    },
+    {
+      "brand": "一抹蛋糕(上海宝山万达广场店)",
+      "address": "高境镇一二八纪念路936号万达广场4楼",
+      "distance": "14m"
+    },
+    {
+      "brand": "上海市卤山川炸串(宝山万达店)",
+      "address": "一二八纪念路956号(宝山万达负1层美食街超1053B)",
+      "distance": "14m"
+    },
+    {
+      "brand": "美珍香(宝山万达)",
+      "address": "一二八纪念路936号宝山万达广场食品一店1楼",
+      "distance": "18m"
+    },
+    {
+      "brand": "阿甘锅盔(宝山万达广场店)",
+      "address": "高境镇一二八纪念路988弄2号地下一层01超1052",
+      "distance": "19m"
+    },
+    {
+      "brand": "云梢雀·云南小锅米线(宝山万达店)",
+      "address": "宝山万达B1层",
+      "distance": "21m"
+    },
+    {
+      "brand": "有喜屋·鲜鸡烧鸟·居酒屋(宝山万达店)",
+      "address": "一二八纪念路988弄1号B1层1026室",
+      "distance": "9m"
+    },
+    {
+      "brand": "丑爷冒菜",
+      "address": "高迎路与一二八纪念路交叉口西南160米",
+      "distance": "14m"
+    },
+    {
+      "brand": "醉爱嗦沈阳铁板鸡架(万达金街店)",
+      "address": "一二八纪念路956号万达广场(上海宝山店)",
+      "distance": "14m"
+    },
+    {
+      "brand": "大虾泰泰(宝山万达店)",
+      "address": "一二八纪念路956号万达广场上海宝山店4F层",
+      "distance": "14m"
+    },
+    {
+      "brand": "老碗会(上海宝山万达广场店)",
+      "address": "张庙街道一二八纪念路936号宝山万达广场B1层B06号商铺",
+      "distance": "14m"
+    },
+    {
+      "brand": "一抹蛋糕(上海宝山万达广场店)",
+      "address": "高境镇一二八纪念路936号万达广场4楼",
+      "distance": "14m"
+    },
+    {
+      "brand": "上海市卤山川炸串(宝山万达店)",
+      "address": "一二八纪念路956号(宝山万达负1层美食街超1053B)",
+      "distance": "14m"
+    },
+    {
+      "brand": "美珍香(宝山万达)",
+      "address": "一二八纪念路936号宝山万达广场食品一店1楼",
+      "distance": "18m"
+    },
+    {
+      "brand": "阿甘锅盔(宝山万达广场店)",
+      "address": "高境镇一二八纪念路988弄2号地下一层01超1052",
+      "distance": "19m"
+    },
+    {
+      "brand": "云梢雀·云南小锅米线(宝山万达店)",
+      "address": "宝山万达B1层",
+      "distance": "21m"
+    },
+    {
+      "brand": "有喜屋·鲜鸡烧鸟·居酒屋(宝山万达店)",
+      "address": "一二八纪念路988弄1号B1层1026室",
+      "distance": "9m"
+    },
+    {
+      "brand": "丑爷冒菜",
+      "address": "高迎路与一二八纪念路交叉口西南160米",
+      "distance": "14m"
+    },
+    {
+      "brand": "醉爱嗦沈阳铁板鸡架(万达金街店)",
+      "address": "一二八纪念路956号万达广场(上海宝山店)",
+      "distance": "14m"
+    },
+    {
+      "brand": "大虾泰泰(宝山万达店)",
+      "address": "一二八纪念路956号万达广场上海宝山店4F层",
+      "distance": "14m"
+    },
+    {
+      "brand": "老碗会(上海宝山万达广场店)",
+      "address": "张庙街道一二八纪念路936号宝山万达广场B1层B06号商铺",
+      "distance": "14m"
+    },
+    {
+      "brand": "一抹蛋糕(上海宝山万达广场店)",
+      "address": "高境镇一二八纪念路936号万达广场4楼",
+      "distance": "14m"
+    },
+    {
+      "brand": "上海市卤山川炸串(宝山万达店)",
+      "address": "一二八纪念路956号(宝山万达负1层美食街超1053B)",
+      "distance": "14m"
+    },
+    {
+      "brand": "美珍香(宝山万达)",
+      "address": "一二八纪念路936号宝山万达广场食品一店1楼",
+      "distance": "18m"
+    },
+    {
+      "brand": "阿甘锅盔(宝山万达广场店)",
+      "address": "高境镇一二八纪念路988弄2号地下一层01超1052",
+      "distance": "19m"
+    },
+    {
+      "brand": "云梢雀·云南小锅米线(宝山万达店)",
+      "address": "宝山万达B1层",
+      "distance": "21m"
+    },
+    {
+      "brand": "有喜屋·鲜鸡烧鸟·居酒屋(宝山万达店)",
+      "address": "一二八纪念路988弄1号B1层1026室",
+      "distance": "9m"
+    },
+    {
+      "brand": "丑爷冒菜",
+      "address": "高迎路与一二八纪念路交叉口西南160米",
+      "distance": "14m"
+    },
+    {
+      "brand": "醉爱嗦沈阳铁板鸡架(万达金街店)",
+      "address": "一二八纪念路956号万达广场(上海宝山店)",
+      "distance": "14m"
+    },
+    {
+      "brand": "大虾泰泰(宝山万达店)",
+      "address": "一二八纪念路956号万达广场上海宝山店4F层",
+      "distance": "14m"
+    },
+    {
+      "brand": "老碗会(上海宝山万达广场店)",
+      "address": "张庙街道一二八纪念路936号宝山万达广场B1层B06号商铺",
+      "distance": "14m"
+    },
+    {
+      "brand": "一抹蛋糕(上海宝山万达广场店)",
+      "address": "高境镇一二八纪念路936号万达广场4楼",
+      "distance": "14m"
+    },
+    {
+      "brand": "上海市卤山川炸串(宝山万达店)",
+      "address": "一二八纪念路956号(宝山万达负1层美食街超1053B)",
+      "distance": "14m"
+    },
+    {
+      "brand": "美珍香(宝山万达)",
+      "address": "一二八纪念路936号宝山万达广场食品一店1楼",
+      "distance": "18m"
+    },
+    {
+      "brand": "阿甘锅盔(宝山万达广场店)",
+      "address": "高境镇一二八纪念路988弄2号地下一层01超1052",
+      "distance": "19m"
+    },
+    {
+      "brand": "云梢雀·云南小锅米线(宝山万达店)",
+      "address": "宝山万达B1层",
+      "distance": "21m"
+    },
+    {
+      "brand": "有喜屋·鲜鸡烧鸟·居酒屋(宝山万达店)",
+      "address": "一二八纪念路988弄1号B1层1026室",
+      "distance": "9m"
+    },
+    {
+      "brand": "丑爷冒菜",
+      "address": "高迎路与一二八纪念路交叉口西南160米",
+      "distance": "14m"
+    },
+    {
+      "brand": "醉爱嗦沈阳铁板鸡架(万达金街店)",
+      "address": "一二八纪念路956号万达广场(上海宝山店)",
+      "distance": "14m"
+    },
+    {
+      "brand": "大虾泰泰(宝山万达店)",
+      "address": "一二八纪念路956号万达广场上海宝山店4F层",
+      "distance": "14m"
+    },
+    {
+      "brand": "老碗会(上海宝山万达广场店)",
+      "address": "张庙街道一二八纪念路936号宝山万达广场B1层B06号商铺",
+      "distance": "14m"
+    },
+    {
+      "brand": "一抹蛋糕(上海宝山万达广场店)",
+      "address": "高境镇一二八纪念路936号万达广场4楼",
+      "distance": "14m"
+    },
+    {
+      "brand": "上海市卤山川炸串(宝山万达店)",
+      "address": "一二八纪念路956号(宝山万达负1层美食街超1053B)",
+      "distance": "14m"
+    },
+    {
+      "brand": "美珍香(宝山万达)",
+      "address": "一二八纪念路936号宝山万达广场食品一店1楼",
+      "distance": "18m"
+    },
+    {
+      "brand": "阿甘锅盔(宝山万达广场店)",
+      "address": "高境镇一二八纪念路988弄2号地下一层01超1052",
+      "distance": "19m"
+    },
+    {
+      "brand": "云梢雀·云南小锅米线(宝山万达店)",
+      "address": "宝山万达B1层",
+      "distance": "21m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海宝山云瑞邻里中心",
+      "open_date": "2017-12-16",
+      "area": "4万㎡",
+      "jun_daily_avg": "1.3万人次",
+      "weekday_avg": "1.2万人次",
+      "holiday_avg": "1.6万人次"
+    },
+    {
+      "name": "上海吾品田·风尚天地",
+      "open_date": "2020-07-01",
+      "area": "4万㎡",
+      "jun_daily_avg": "1.3万人次",
+      "weekday_avg": "1.2万人次",
+      "holiday_avg": "1.6万人次"
+    },
+    {
+      "name": "宝业购物广场",
+      "open_date": "-",
+      "area": "-",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "凯旋丽都广场",
+      "open_date": "2016-10-01",
+      "area": "-",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海百渠广场",
+      "open_date": "2024-01-01",
+      "area": "3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "北斗星商业广场",
+      "open_date": "2008-01-01",
+      "area": "3.6万㎡",
+      "jun_daily_avg": "2万人次",
+      "weekday_avg": "1.9万人次",
+      "holiday_avg": "2.4万人次"
+    },
+    {
+      "name": "上海红太阳商业广场",
+      "open_date": "2014-09-01",
+      "area": "3.8万㎡",
+      "jun_daily_avg": "2万人次",
+      "weekday_avg": "1.9万人次",
+      "holiday_avg": "2.4万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 201.0,
+      "within_1yr_pct": 21.9,
+      "1_3yr_pct": 29.4,
+      "over_3yr_pct": 48.8
+    },
+    {
+      "type": "购物",
+      "count": 157.0,
+      "within_1yr_pct": 15.9,
+      "1_3yr_pct": 26.1,
+      "over_3yr_pct": 58.0
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 50.0,
+      "within_1yr_pct": 48.0,
+      "1_3yr_pct": 26.0,
+      "over_3yr_pct": 26.0
+    },
+    {
+      "type": "教育培训",
+      "count": 50.0,
+      "within_1yr_pct": 18.0,
+      "1_3yr_pct": 34.0,
+      "over_3yr_pct": 48.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 3.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 66.7
+    },
+    {
+      "type": "生活服务",
+      "count": 158.0,
+      "within_1yr_pct": 29.1,
+      "1_3yr_pct": 30.4,
+      "over_3yr_pct": 40.5
+    },
+    {
+      "type": "运动健身",
+      "count": 18.0,
+      "within_1yr_pct": 44.4,
+      "1_3yr_pct": 22.2,
+      "over_3yr_pct": 33.3
+    },
+    {
+      "type": "车辆服务",
+      "count": 9.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 22.2,
+      "over_3yr_pct": 44.4
+    }
+  ]
+}

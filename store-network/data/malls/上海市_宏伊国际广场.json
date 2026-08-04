@@ -1,0 +1,472 @@
+{
+  "name": "宏伊国际广场",
+  "city": "上海市",
+  "address": "上海市长宁区娄山关路555号(娄山关路地铁站3号口步行140米)",
+  "lat": 31.210199,
+  "lng": 121.403636,
+  "overview": {
+    "score": 94.4,
+    "score_rank": "市内前30%",
+    "population_score": 100.0,
+    "area_score": 97.0,
+    "consumption_score": 76.3,
+    "industry_score": 94.4,
+    "annual_sales": "上海百盛优客城市广场是百盛商业集团与韩国衣恋集团联手打造的首个City Mall城市广场，集聚国际大牌折扣店、前沿时尚品牌及创意个性潮物，多年来，凭借“价实质优，玩购一体”的特点，深受消费者喜爱",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 5.0,
+    "open_date": "2015-12-19",
+    "operator": "百盛商业集团有限公司",
+    "brand": "",
+    "type": "购物型",
+    "floors": "B1-L5"
+  },
+  "traffic": {
+    "annual_daily": 1.93,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第144",
+    "jun_total": 88.9,
+    "jun_total_rank": "市内商场第136名",
+    "jun_daily_avg": 3.0,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第136名",
+    "weekday_avg": 2.7,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第141名",
+    "holiday_avg": 3.6,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第132名"
+  },
+  "population": {
+    "residential": {
+      "500m": 4.1,
+      "1_5km": 23.5,
+      "3km": 85.3
+    },
+    "office": {
+      "500m": 4.4,
+      "1_5km": 21.0,
+      "3km": 68.3
+    },
+    "permanent": {
+      "500m": 5.3,
+      "1_5km": 27.0,
+      "3km": 92.7
+    }
+  },
+  "business": {
+    "competitors": 20.0,
+    "food": 539.0,
+    "shopping": 333.0,
+    "leisure": 27.0,
+    "education": 41.0,
+    "hotel": 37.0,
+    "services": 262.0,
+    "fitness": 57.0,
+    "auto": 30.0,
+    "total_stores": 184.0,
+    "old_store_3yr_pct": 63.0
+  },
+  "nearby_poi": {
+    "business": 12.0,
+    "community": 806.0,
+    "office": 93.0,
+    "school": 48.0,
+    "hospital": 140.0,
+    "transport": 14.0,
+    "scenic": 315.0
+  },
+  "demographics": {
+    "male_pct": 46.8,
+    "female_pct": null,
+    "education": {
+      "小学": 8.8,
+      "初中": 17.1,
+      "高中": 11.7,
+      "大专": 6.7,
+      "本科": 48.4,
+      "硕士": 5.4,
+      "博士": 1.9
+    },
+    "has_children_pct": 58.9,
+    "no_children_pct": 41.1
+  },
+  "scraped_at": "2026-08-01T05:56:35.078Z",
+  "nearby_restaurants": [
+    {
+      "brand": "炙柒(长宁首店百盛优客)",
+      "address": "天山路789号百盛优客广场西5层",
+      "distance": "10m"
+    },
+    {
+      "brand": "春家·非遗手工小吃(百盛优客店)",
+      "address": "天山路789号百盛优客城市广场B1层",
+      "distance": "11m"
+    },
+    {
+      "brand": "喜家德虾仁水饺(百盛优客店)",
+      "address": "天山路889号百盛优客B1层",
+      "distance": "12m"
+    },
+    {
+      "brand": "老碗会(上海长宁百盛优客店)",
+      "address": "天山路889号百盛优客商场B1层B1E13室",
+      "distance": "15m"
+    },
+    {
+      "brand": "海总管鲜货火锅(百盛优客店)",
+      "address": "天山路789百盛优客城市广场5楼",
+      "distance": "21m"
+    },
+    {
+      "brand": "ZHAOKA炤喀台湾卤肉饭(百盛优客店)",
+      "address": "天山路与娄山关路交叉口西120米",
+      "distance": "23m"
+    },
+    {
+      "brand": "7分甜(百盛优客城市广场店)",
+      "address": "天山路街道天山路889号B1层B1E2501室",
+      "distance": "24m"
+    },
+    {
+      "brand": "汉福山咖啡&新中式烘焙(百盛优客店)",
+      "address": "娄山关路555号长房国际广场F5层",
+      "distance": "25m"
+    },
+    {
+      "brand": "Manner Coffee(长房国际店)",
+      "address": "娄山关路555号102单元",
+      "distance": "25m"
+    },
+    {
+      "brand": "太二酸菜鱼(上海百盛优客店)",
+      "address": "天山路789号百盛优客5楼(麦当劳旁电梯直达5楼右手边直走50米)",
+      "distance": "25m"
+    },
+    {
+      "brand": "炙柒(长宁首店百盛优客)",
+      "address": "天山路789号百盛优客广场西5层",
+      "distance": "10m"
+    },
+    {
+      "brand": "春家·非遗手工小吃(百盛优客店)",
+      "address": "天山路789号百盛优客城市广场B1层",
+      "distance": "11m"
+    },
+    {
+      "brand": "喜家德虾仁水饺(百盛优客店)",
+      "address": "天山路889号百盛优客B1层",
+      "distance": "12m"
+    },
+    {
+      "brand": "老碗会(上海长宁百盛优客店)",
+      "address": "天山路889号百盛优客商场B1层B1E13室",
+      "distance": "15m"
+    },
+    {
+      "brand": "海总管鲜货火锅(百盛优客店)",
+      "address": "天山路789百盛优客城市广场5楼",
+      "distance": "21m"
+    },
+    {
+      "brand": "ZHAOKA炤喀台湾卤肉饭(百盛优客店)",
+      "address": "天山路与娄山关路交叉口西120米",
+      "distance": "23m"
+    },
+    {
+      "brand": "7分甜(百盛优客城市广场店)",
+      "address": "天山路街道天山路889号B1层B1E2501室",
+      "distance": "24m"
+    },
+    {
+      "brand": "汉福山咖啡&新中式烘焙(百盛优客店)",
+      "address": "娄山关路555号长房国际广场F5层",
+      "distance": "25m"
+    },
+    {
+      "brand": "Manner Coffee(长房国际店)",
+      "address": "娄山关路555号102单元",
+      "distance": "25m"
+    },
+    {
+      "brand": "太二酸菜鱼(上海百盛优客店)",
+      "address": "天山路789号百盛优客5楼(麦当劳旁电梯直达5楼右手边直走50米)",
+      "distance": "25m"
+    },
+    {
+      "brand": "炙柒(长宁首店百盛优客)",
+      "address": "天山路789号百盛优客广场西5层",
+      "distance": "10m"
+    },
+    {
+      "brand": "春家·非遗手工小吃(百盛优客店)",
+      "address": "天山路789号百盛优客城市广场B1层",
+      "distance": "11m"
+    },
+    {
+      "brand": "喜家德虾仁水饺(百盛优客店)",
+      "address": "天山路889号百盛优客B1层",
+      "distance": "12m"
+    },
+    {
+      "brand": "老碗会(上海长宁百盛优客店)",
+      "address": "天山路889号百盛优客商场B1层B1E13室",
+      "distance": "15m"
+    },
+    {
+      "brand": "海总管鲜货火锅(百盛优客店)",
+      "address": "天山路789百盛优客城市广场5楼",
+      "distance": "21m"
+    },
+    {
+      "brand": "ZHAOKA炤喀台湾卤肉饭(百盛优客店)",
+      "address": "天山路与娄山关路交叉口西120米",
+      "distance": "23m"
+    },
+    {
+      "brand": "7分甜(百盛优客城市广场店)",
+      "address": "天山路街道天山路889号B1层B1E2501室",
+      "distance": "24m"
+    },
+    {
+      "brand": "汉福山咖啡&新中式烘焙(百盛优客店)",
+      "address": "娄山关路555号长房国际广场F5层",
+      "distance": "25m"
+    },
+    {
+      "brand": "Manner Coffee(长房国际店)",
+      "address": "娄山关路555号102单元",
+      "distance": "25m"
+    },
+    {
+      "brand": "太二酸菜鱼(上海百盛优客店)",
+      "address": "天山路789号百盛优客5楼(麦当劳旁电梯直达5楼右手边直走50米)",
+      "distance": "25m"
+    },
+    {
+      "brand": "炙柒(长宁首店百盛优客)",
+      "address": "天山路789号百盛优客广场西5层",
+      "distance": "10m"
+    },
+    {
+      "brand": "春家·非遗手工小吃(百盛优客店)",
+      "address": "天山路789号百盛优客城市广场B1层",
+      "distance": "11m"
+    },
+    {
+      "brand": "喜家德虾仁水饺(百盛优客店)",
+      "address": "天山路889号百盛优客B1层",
+      "distance": "12m"
+    },
+    {
+      "brand": "老碗会(上海长宁百盛优客店)",
+      "address": "天山路889号百盛优客商场B1层B1E13室",
+      "distance": "15m"
+    },
+    {
+      "brand": "海总管鲜货火锅(百盛优客店)",
+      "address": "天山路789百盛优客城市广场5楼",
+      "distance": "21m"
+    },
+    {
+      "brand": "ZHAOKA炤喀台湾卤肉饭(百盛优客店)",
+      "address": "天山路与娄山关路交叉口西120米",
+      "distance": "23m"
+    },
+    {
+      "brand": "7分甜(百盛优客城市广场店)",
+      "address": "天山路街道天山路889号B1层B1E2501室",
+      "distance": "24m"
+    },
+    {
+      "brand": "汉福山咖啡&新中式烘焙(百盛优客店)",
+      "address": "娄山关路555号长房国际广场F5层",
+      "distance": "25m"
+    },
+    {
+      "brand": "Manner Coffee(长房国际店)",
+      "address": "娄山关路555号102单元",
+      "distance": "25m"
+    },
+    {
+      "brand": "太二酸菜鱼(上海百盛优客店)",
+      "address": "天山路789号百盛优客5楼(麦当劳旁电梯直达5楼右手边直走50米)",
+      "distance": "25m"
+    },
+    {
+      "brand": "炙柒(长宁首店百盛优客)",
+      "address": "天山路789号百盛优客广场西5层",
+      "distance": "10m"
+    },
+    {
+      "brand": "春家·非遗手工小吃(百盛优客店)",
+      "address": "天山路789号百盛优客城市广场B1层",
+      "distance": "11m"
+    },
+    {
+      "brand": "喜家德虾仁水饺(百盛优客店)",
+      "address": "天山路889号百盛优客B1层",
+      "distance": "12m"
+    },
+    {
+      "brand": "老碗会(上海长宁百盛优客店)",
+      "address": "天山路889号百盛优客商场B1层B1E13室",
+      "distance": "15m"
+    },
+    {
+      "brand": "海总管鲜货火锅(百盛优客店)",
+      "address": "天山路789百盛优客城市广场5楼",
+      "distance": "21m"
+    },
+    {
+      "brand": "ZHAOKA炤喀台湾卤肉饭(百盛优客店)",
+      "address": "天山路与娄山关路交叉口西120米",
+      "distance": "23m"
+    },
+    {
+      "brand": "7分甜(百盛优客城市广场店)",
+      "address": "天山路街道天山路889号B1层B1E2501室",
+      "distance": "24m"
+    },
+    {
+      "brand": "汉福山咖啡&新中式烘焙(百盛优客店)",
+      "address": "娄山关路555号长房国际广场F5层",
+      "distance": "25m"
+    },
+    {
+      "brand": "Manner Coffee(长房国际店)",
+      "address": "娄山关路555号102单元",
+      "distance": "25m"
+    },
+    {
+      "brand": "太二酸菜鱼(上海百盛优客店)",
+      "address": "天山路789号百盛优客5楼(麦当劳旁电梯直达5楼右手边直走50米)",
+      "distance": "25m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海金虹桥商场",
+      "open_date": "2014-09-26",
+      "area": "8.3万㎡",
+      "jun_daily_avg": "4.6万人次",
+      "weekday_avg": "4.6万人次",
+      "holiday_avg": "4.5万人次"
+    },
+    {
+      "name": "上海巴黎春天(天山店)",
+      "open_date": "2013-01-01",
+      "area": "4.3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海汇金百货(虹桥店)",
+      "open_date": "2008-12-01",
+      "area": "4万㎡",
+      "jun_daily_avg": "1.3万人次",
+      "weekday_avg": "1.2万人次",
+      "holiday_avg": "1.5万人次"
+    },
+    {
+      "name": "上海虹桥南丰城",
+      "open_date": "2014-12-19",
+      "area": "11万㎡",
+      "jun_daily_avg": "5.6万人次",
+      "weekday_avg": "5.5万人次",
+      "holiday_avg": "6万人次"
+    },
+    {
+      "name": "上海尚嘉中心",
+      "open_date": "2013-06-01",
+      "area": "4.9万㎡",
+      "jun_daily_avg": "1.6万人次",
+      "weekday_avg": "1.7万人次",
+      "holiday_avg": "1.3万人次"
+    },
+    {
+      "name": "上海世贸商城",
+      "open_date": "1999-01-01",
+      "area": "19万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海长宁来福士广场",
+      "open_date": "2017-06-30",
+      "area": "12万㎡",
+      "jun_daily_avg": "3.6万人次",
+      "weekday_avg": "3.4万人次",
+      "holiday_avg": "4.1万人次"
+    },
+    {
+      "name": "上海高岛屋百货",
+      "open_date": "2012-12-01",
+      "area": "6.7万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海星空广场",
+      "open_date": "2015-09-27",
+      "area": "6.5万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海缤谷文化休闲广场",
+      "open_date": "2016-05-01",
+      "area": "3.2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 57.0,
+      "within_1yr_pct": 26.3,
+      "1_3yr_pct": 12.3,
+      "over_3yr_pct": 61.4
+    },
+    {
+      "type": "购物",
+      "count": 108.0,
+      "within_1yr_pct": 18.5,
+      "1_3yr_pct": 19.4,
+      "over_3yr_pct": 62.0
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 8.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    },
+    {
+      "type": "生活服务",
+      "count": 7.0,
+      "within_1yr_pct": 28.6,
+      "1_3yr_pct": 28.6,
+      "over_3yr_pct": 42.9
+    },
+    {
+      "type": "车辆服务",
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    }
+  ]
+}

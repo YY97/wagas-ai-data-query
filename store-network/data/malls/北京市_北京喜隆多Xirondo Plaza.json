@@ -1,0 +1,431 @@
+{
+  "name": "北京喜隆多Xirondo Plaza",
+  "city": "北京市",
+  "address": "北京市石景山区阜石路300号",
+  "lat": 39.922851,
+  "lng": 116.171985,
+  "overview": {
+    "score": 95.2,
+    "score_rank": "市内前30%",
+    "population_score": 78.7,
+    "area_score": 73.5,
+    "consumption_score": 70.9,
+    "industry_score": 95.4,
+    "annual_sales": "3",
+    "annual_sales_unit": "亿元",
+    "area_size_sqm": 10.0,
+    "open_date": "2014-11-28",
+    "operator": "北京日东升投资有限责任公司",
+    "brand": "",
+    "type": "综合型",
+    "floors": "L1-L5"
+  },
+  "traffic": {
+    "annual_daily": 4.25,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第28",
+    "jun_total": 178.6,
+    "jun_total_rank": "市内商场第31名",
+    "jun_daily_avg": 6.0,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第31名",
+    "weekday_avg": 5.1,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第37名",
+    "holiday_avg": 8.3,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第27名"
+  },
+  "population": {
+    "residential": {
+      "500m": 1.2,
+      "1_5km": 14.6,
+      "3km": 38.3
+    },
+    "office": {
+      "500m": 7300.0,
+      "1_5km": 7.7,
+      "3km": 22.0
+    },
+    "permanent": {
+      "500m": 1.6,
+      "1_5km": 15.3,
+      "3km": 38.3
+    }
+  },
+  "business": {
+    "competitors": 2.0,
+    "food": 106.0,
+    "shopping": 136.0,
+    "leisure": 12.0,
+    "education": 6.0,
+    "hotel": 4.0,
+    "services": 31.0,
+    "fitness": 6.0,
+    "auto": 10.0,
+    "total_stores": 235.0,
+    "old_store_3yr_pct": 52.0
+  },
+  "nearby_poi": {
+    "business": 4.0,
+    "community": 181.0,
+    "office": 36.0,
+    "school": 17.0,
+    "hospital": 39.0,
+    "transport": 4.0,
+    "scenic": 187.0
+  },
+  "demographics": {
+    "male_pct": 47.0,
+    "female_pct": null,
+    "education": {
+      "小学": 9.1,
+      "初中": 15.6,
+      "高中": 10.1,
+      "大专": 7.3,
+      "本科": 49.4,
+      "硕士": 6.8,
+      "博士": 1.7
+    },
+    "has_children_pct": 63.9,
+    "no_children_pct": 36.1
+  },
+  "scraped_at": "2026-07-31T18:37:55.596Z",
+  "nearby_restaurants": [
+    {
+      "brand": "KUMO KUMO 手作芝士蛋糕(北京喜隆多店)(暂停营业)",
+      "address": "北京城区阜石路300号",
+      "distance": "7m"
+    },
+    {
+      "brand": "云海肴云南菜(喜隆多店)",
+      "address": "阜石路300-1号",
+      "distance": "9m"
+    },
+    {
+      "brand": "来菜·湖北头牌藕汤(喜隆多店)",
+      "address": "北京城区阜石路辅路与金顶南路辅路交叉口南180米",
+      "distance": "10m"
+    },
+    {
+      "brand": "醉面(石景山喜隆多店)",
+      "address": "北京城区阜石路300号四层484号",
+      "distance": "10m"
+    },
+    {
+      "brand": "满巍明生炸鸡架(北京喜隆多店)",
+      "address": "北京城区阜石路300号喜隆多XIRONDO PLAZAL4层",
+      "distance": "12m"
+    },
+    {
+      "brand": "呷哺呷哺(喜隆多店)",
+      "address": "阜石路300号喜隆多新国际购物中心4层",
+      "distance": "12m"
+    },
+    {
+      "brand": "喜江云旋转自助烤肉(喜隆多店)",
+      "address": "阜石路300号L5-507",
+      "distance": "14m"
+    },
+    {
+      "brand": "卤多鲜(喜隆多店)",
+      "address": "阜石路300号喜隆多XIRONDO PLAZAL4层",
+      "distance": "14m"
+    },
+    {
+      "brand": "阳坊涮肉(喜隆多店)",
+      "address": "阜石路300号喜隆多XIRONDO PLAZA L5层",
+      "distance": "14m"
+    },
+    {
+      "brand": "咏巷炸鸡(喜隆多店)",
+      "address": "北京城区阜石路300号四层423-10号",
+      "distance": "15m"
+    },
+    {
+      "brand": "KUMO KUMO 手作芝士蛋糕(北京喜隆多店)(暂停营业)",
+      "address": "北京城区阜石路300号",
+      "distance": "7m"
+    },
+    {
+      "brand": "云海肴云南菜(喜隆多店)",
+      "address": "阜石路300-1号",
+      "distance": "9m"
+    },
+    {
+      "brand": "来菜·湖北头牌藕汤(喜隆多店)",
+      "address": "北京城区阜石路辅路与金顶南路辅路交叉口南180米",
+      "distance": "10m"
+    },
+    {
+      "brand": "醉面(石景山喜隆多店)",
+      "address": "北京城区阜石路300号四层484号",
+      "distance": "10m"
+    },
+    {
+      "brand": "满巍明生炸鸡架(北京喜隆多店)",
+      "address": "北京城区阜石路300号喜隆多XIRONDO PLAZAL4层",
+      "distance": "12m"
+    },
+    {
+      "brand": "呷哺呷哺(喜隆多店)",
+      "address": "阜石路300号喜隆多新国际购物中心4层",
+      "distance": "12m"
+    },
+    {
+      "brand": "喜江云旋转自助烤肉(喜隆多店)",
+      "address": "阜石路300号L5-507",
+      "distance": "14m"
+    },
+    {
+      "brand": "卤多鲜(喜隆多店)",
+      "address": "阜石路300号喜隆多XIRONDO PLAZAL4层",
+      "distance": "14m"
+    },
+    {
+      "brand": "阳坊涮肉(喜隆多店)",
+      "address": "阜石路300号喜隆多XIRONDO PLAZA L5层",
+      "distance": "14m"
+    },
+    {
+      "brand": "咏巷炸鸡(喜隆多店)",
+      "address": "北京城区阜石路300号四层423-10号",
+      "distance": "15m"
+    },
+    {
+      "brand": "KUMO KUMO 手作芝士蛋糕(北京喜隆多店)(暂停营业)",
+      "address": "北京城区阜石路300号",
+      "distance": "7m"
+    },
+    {
+      "brand": "云海肴云南菜(喜隆多店)",
+      "address": "阜石路300-1号",
+      "distance": "9m"
+    },
+    {
+      "brand": "来菜·湖北头牌藕汤(喜隆多店)",
+      "address": "北京城区阜石路辅路与金顶南路辅路交叉口南180米",
+      "distance": "10m"
+    },
+    {
+      "brand": "醉面(石景山喜隆多店)",
+      "address": "北京城区阜石路300号四层484号",
+      "distance": "10m"
+    },
+    {
+      "brand": "满巍明生炸鸡架(北京喜隆多店)",
+      "address": "北京城区阜石路300号喜隆多XIRONDO PLAZAL4层",
+      "distance": "12m"
+    },
+    {
+      "brand": "呷哺呷哺(喜隆多店)",
+      "address": "阜石路300号喜隆多新国际购物中心4层",
+      "distance": "12m"
+    },
+    {
+      "brand": "喜江云旋转自助烤肉(喜隆多店)",
+      "address": "阜石路300号L5-507",
+      "distance": "14m"
+    },
+    {
+      "brand": "卤多鲜(喜隆多店)",
+      "address": "阜石路300号喜隆多XIRONDO PLAZAL4层",
+      "distance": "14m"
+    },
+    {
+      "brand": "阳坊涮肉(喜隆多店)",
+      "address": "阜石路300号喜隆多XIRONDO PLAZA L5层",
+      "distance": "14m"
+    },
+    {
+      "brand": "咏巷炸鸡(喜隆多店)",
+      "address": "北京城区阜石路300号四层423-10号",
+      "distance": "15m"
+    },
+    {
+      "brand": "KUMO KUMO 手作芝士蛋糕(北京喜隆多店)(暂停营业)",
+      "address": "北京城区阜石路300号",
+      "distance": "7m"
+    },
+    {
+      "brand": "云海肴云南菜(喜隆多店)",
+      "address": "阜石路300-1号",
+      "distance": "9m"
+    },
+    {
+      "brand": "来菜·湖北头牌藕汤(喜隆多店)",
+      "address": "北京城区阜石路辅路与金顶南路辅路交叉口南180米",
+      "distance": "10m"
+    },
+    {
+      "brand": "醉面(石景山喜隆多店)",
+      "address": "北京城区阜石路300号四层484号",
+      "distance": "10m"
+    },
+    {
+      "brand": "满巍明生炸鸡架(北京喜隆多店)",
+      "address": "北京城区阜石路300号喜隆多XIRONDO PLAZAL4层",
+      "distance": "12m"
+    },
+    {
+      "brand": "呷哺呷哺(喜隆多店)",
+      "address": "阜石路300号喜隆多新国际购物中心4层",
+      "distance": "12m"
+    },
+    {
+      "brand": "喜江云旋转自助烤肉(喜隆多店)",
+      "address": "阜石路300号L5-507",
+      "distance": "14m"
+    },
+    {
+      "brand": "卤多鲜(喜隆多店)",
+      "address": "阜石路300号喜隆多XIRONDO PLAZAL4层",
+      "distance": "14m"
+    },
+    {
+      "brand": "阳坊涮肉(喜隆多店)",
+      "address": "阜石路300号喜隆多XIRONDO PLAZA L5层",
+      "distance": "14m"
+    },
+    {
+      "brand": "咏巷炸鸡(喜隆多店)",
+      "address": "北京城区阜石路300号四层423-10号",
+      "distance": "15m"
+    },
+    {
+      "brand": "KUMO KUMO 手作芝士蛋糕(北京喜隆多店)(暂停营业)",
+      "address": "北京城区阜石路300号",
+      "distance": "7m"
+    },
+    {
+      "brand": "云海肴云南菜(喜隆多店)",
+      "address": "阜石路300-1号",
+      "distance": "9m"
+    },
+    {
+      "brand": "来菜·湖北头牌藕汤(喜隆多店)",
+      "address": "北京城区阜石路辅路与金顶南路辅路交叉口南180米",
+      "distance": "10m"
+    },
+    {
+      "brand": "醉面(石景山喜隆多店)",
+      "address": "北京城区阜石路300号四层484号",
+      "distance": "10m"
+    },
+    {
+      "brand": "满巍明生炸鸡架(北京喜隆多店)",
+      "address": "北京城区阜石路300号喜隆多XIRONDO PLAZAL4层",
+      "distance": "12m"
+    },
+    {
+      "brand": "呷哺呷哺(喜隆多店)",
+      "address": "阜石路300号喜隆多新国际购物中心4层",
+      "distance": "12m"
+    },
+    {
+      "brand": "喜江云旋转自助烤肉(喜隆多店)",
+      "address": "阜石路300号L5-507",
+      "distance": "14m"
+    },
+    {
+      "brand": "卤多鲜(喜隆多店)",
+      "address": "阜石路300号喜隆多XIRONDO PLAZAL4层",
+      "distance": "14m"
+    },
+    {
+      "brand": "阳坊涮肉(喜隆多店)",
+      "address": "阜石路300号喜隆多XIRONDO PLAZA L5层",
+      "distance": "14m"
+    },
+    {
+      "brand": "咏巷炸鸡(喜隆多店)",
+      "address": "北京城区阜石路300号四层423-10号",
+      "distance": "15m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "北京中海金安环宇荟",
+      "open_date": "2022-06-25",
+      "area": "2万㎡",
+      "jun_daily_avg": "2.1万人次",
+      "weekday_avg": "2.3万人次",
+      "holiday_avg": "1.6万人次"
+    },
+    {
+      "name": "北京首钢融石广场",
+      "open_date": "2025-10-01",
+      "area": "2.8万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "北京京西大悦城",
+      "open_date": "2023-06-18",
+      "area": "11万㎡",
+      "jun_daily_avg": "5.5万人次",
+      "weekday_avg": "4.7万人次",
+      "holiday_avg": "7.6万人次"
+    },
+    {
+      "name": "北京六工汇",
+      "open_date": "2021-12-18",
+      "area": "6.7万㎡",
+      "jun_daily_avg": "1.8万人次",
+      "weekday_avg": "1.3万人次",
+      "holiday_avg": "3.2万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 88.0,
+      "within_1yr_pct": 23.9,
+      "1_3yr_pct": 34.1,
+      "over_3yr_pct": 42.0
+    },
+    {
+      "type": "购物",
+      "count": 120.0,
+      "within_1yr_pct": 11.7,
+      "1_3yr_pct": 25.8,
+      "over_3yr_pct": 62.5
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 12.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 58.3,
+      "over_3yr_pct": 8.3
+    },
+    {
+      "type": "教育培训",
+      "count": 3.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    },
+    {
+      "type": "生活服务",
+      "count": 9.0,
+      "within_1yr_pct": 11.1,
+      "1_3yr_pct": 22.2,
+      "over_3yr_pct": 66.7
+    },
+    {
+      "type": "运动健身",
+      "count": 2.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
+    }
+  ]
+}

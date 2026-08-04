@@ -1,0 +1,439 @@
+{
+  "name": "北京凤凰汇购物中心",
+  "city": "北京市",
+  "address": "北京市朝阳区北三环东路凤凰汇1层",
+  "lat": 39.962774,
+  "lng": 116.456659,
+  "overview": {
+    "score": 90.9,
+    "score_rank": "市内前30%",
+    "population_score": 77.2,
+    "area_score": 76.0,
+    "consumption_score": 85.3,
+    "industry_score": 91.0,
+    "annual_sales": "3",
+    "annual_sales_unit": "亿元",
+    "area_size_sqm": 1.2,
+    "open_date": "2024-11-11",
+    "operator": "华润万象生活有限公司",
+    "brand": "华润",
+    "type": "美食型",
+    "floors": "B1-L3"
+  },
+  "traffic": {
+    "annual_daily": 1.38,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第168",
+    "jun_total": 63.2,
+    "jun_total_rank": "市内商场第152名",
+    "jun_daily_avg": 2.1,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第152名",
+    "weekday_avg": 2.1,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第149名",
+    "holiday_avg": 2.1,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第169名"
+  },
+  "population": {
+    "residential": {
+      "500m": 1.2,
+      "1_5km": 14.9,
+      "3km": 56.8
+    },
+    "office": {
+      "500m": 1.8,
+      "1_5km": 12.8,
+      "3km": 39.0
+    },
+    "permanent": {
+      "500m": 1.4,
+      "1_5km": 15.3,
+      "3km": 56.2
+    }
+  },
+  "business": {
+    "competitors": 9.0,
+    "food": 142.0,
+    "shopping": 68.0,
+    "leisure": 5.0,
+    "education": 7.0,
+    "hotel": 12.0,
+    "services": 83.0,
+    "fitness": 16.0,
+    "auto": 12.0,
+    "total_stores": 117.0,
+    "old_store_3yr_pct": 47.0
+  },
+  "nearby_poi": {
+    "business": 5.0,
+    "community": 344.0,
+    "office": 81.0,
+    "school": 26.0,
+    "hospital": 112.0,
+    "transport": 7.0,
+    "scenic": 159.0
+  },
+  "demographics": {
+    "male_pct": 52.7,
+    "female_pct": null,
+    "education": {
+      "小学": 8.8,
+      "初中": 15.2,
+      "高中": 10.6,
+      "大专": 6.7,
+      "本科": 49.3,
+      "硕士": 7.9,
+      "博士": 1.5
+    },
+    "has_children_pct": 61.2,
+    "no_children_pct": 38.8
+  },
+  "scraped_at": "2026-07-31T18:31:33.675Z",
+  "nearby_restaurants": [
+    {
+      "brand": "翡翠江南·淮扬菜(凤凰汇店)",
+      "address": "北京城区曙光西里甲5号院凤凰汇购物中心2层L225",
+      "distance": "2m"
+    },
+    {
+      "brand": "昆特斯香铺",
+      "address": "北京城区曙光西里甲5号院凤凰汇购物中心L116",
+      "distance": "2m"
+    },
+    {
+      "brand": "阳坊涮肉(三元桥凤凰汇)",
+      "address": "曙光西里甲5号院24号楼所3层L301号",
+      "distance": "2m"
+    },
+    {
+      "brand": "Peet'sCafe皮爷咖啡·轻餐(凤凰汇店)",
+      "address": "曙光西里甲5号院北京凤凰汇L115D号商铺",
+      "distance": "3m"
+    },
+    {
+      "brand": "潇湘阁(凤凰汇购物中心店)",
+      "address": "凤凰汇购物中心三层(三元桥地铁站B东北口步行420米)",
+      "distance": "3m"
+    },
+    {
+      "brand": "茉酸奶(北京朝阳凤凰汇店)",
+      "address": "曙光西里甲5号凤凰汇购物中心B1层",
+      "distance": "4m"
+    },
+    {
+      "brand": "胜博殿日式炸猪排(凤凰汇购物中心店)",
+      "address": "曙光西里甲5号凤凰汇商场3层L307-308商铺",
+      "distance": "5m"
+    },
+    {
+      "brand": "马记永·兰州牛肉面(凤凰汇购物中心店)",
+      "address": "北三环东路凤凰汇B1层(三元桥地铁站E2口步行260米)",
+      "distance": "5m"
+    },
+    {
+      "brand": "PHOYEAH越南小馆",
+      "address": "凤凰路与凤凰环路交叉口东120米凤凰汇购物中心3层L316",
+      "distance": "6m"
+    },
+    {
+      "brand": "滨寿司(凤凰汇购物中心店)",
+      "address": "曙光西里甲5号院24号楼凤凰汇购物中心3层L319-L321",
+      "distance": "8m"
+    },
+    {
+      "brand": "翡翠江南·淮扬菜(凤凰汇店)",
+      "address": "北京城区曙光西里甲5号院凤凰汇购物中心2层L225",
+      "distance": "2m"
+    },
+    {
+      "brand": "昆特斯香铺",
+      "address": "北京城区曙光西里甲5号院凤凰汇购物中心L116",
+      "distance": "2m"
+    },
+    {
+      "brand": "阳坊涮肉(三元桥凤凰汇)",
+      "address": "曙光西里甲5号院24号楼所3层L301号",
+      "distance": "2m"
+    },
+    {
+      "brand": "Peet'sCafe皮爷咖啡·轻餐(凤凰汇店)",
+      "address": "曙光西里甲5号院北京凤凰汇L115D号商铺",
+      "distance": "3m"
+    },
+    {
+      "brand": "潇湘阁(凤凰汇购物中心店)",
+      "address": "凤凰汇购物中心三层(三元桥地铁站B东北口步行420米)",
+      "distance": "3m"
+    },
+    {
+      "brand": "茉酸奶(北京朝阳凤凰汇店)",
+      "address": "曙光西里甲5号凤凰汇购物中心B1层",
+      "distance": "4m"
+    },
+    {
+      "brand": "胜博殿日式炸猪排(凤凰汇购物中心店)",
+      "address": "曙光西里甲5号凤凰汇商场3层L307-308商铺",
+      "distance": "5m"
+    },
+    {
+      "brand": "马记永·兰州牛肉面(凤凰汇购物中心店)",
+      "address": "北三环东路凤凰汇B1层(三元桥地铁站E2口步行260米)",
+      "distance": "5m"
+    },
+    {
+      "brand": "PHOYEAH越南小馆",
+      "address": "凤凰路与凤凰环路交叉口东120米凤凰汇购物中心3层L316",
+      "distance": "6m"
+    },
+    {
+      "brand": "滨寿司(凤凰汇购物中心店)",
+      "address": "曙光西里甲5号院24号楼凤凰汇购物中心3层L319-L321",
+      "distance": "8m"
+    },
+    {
+      "brand": "翡翠江南·淮扬菜(凤凰汇店)",
+      "address": "北京城区曙光西里甲5号院凤凰汇购物中心2层L225",
+      "distance": "2m"
+    },
+    {
+      "brand": "昆特斯香铺",
+      "address": "北京城区曙光西里甲5号院凤凰汇购物中心L116",
+      "distance": "2m"
+    },
+    {
+      "brand": "阳坊涮肉(三元桥凤凰汇)",
+      "address": "曙光西里甲5号院24号楼所3层L301号",
+      "distance": "2m"
+    },
+    {
+      "brand": "Peet'sCafe皮爷咖啡·轻餐(凤凰汇店)",
+      "address": "曙光西里甲5号院北京凤凰汇L115D号商铺",
+      "distance": "3m"
+    },
+    {
+      "brand": "潇湘阁(凤凰汇购物中心店)",
+      "address": "凤凰汇购物中心三层(三元桥地铁站B东北口步行420米)",
+      "distance": "3m"
+    },
+    {
+      "brand": "茉酸奶(北京朝阳凤凰汇店)",
+      "address": "曙光西里甲5号凤凰汇购物中心B1层",
+      "distance": "4m"
+    },
+    {
+      "brand": "胜博殿日式炸猪排(凤凰汇购物中心店)",
+      "address": "曙光西里甲5号凤凰汇商场3层L307-308商铺",
+      "distance": "5m"
+    },
+    {
+      "brand": "马记永·兰州牛肉面(凤凰汇购物中心店)",
+      "address": "北三环东路凤凰汇B1层(三元桥地铁站E2口步行260米)",
+      "distance": "5m"
+    },
+    {
+      "brand": "PHOYEAH越南小馆",
+      "address": "凤凰路与凤凰环路交叉口东120米凤凰汇购物中心3层L316",
+      "distance": "6m"
+    },
+    {
+      "brand": "滨寿司(凤凰汇购物中心店)",
+      "address": "曙光西里甲5号院24号楼凤凰汇购物中心3层L319-L321",
+      "distance": "8m"
+    },
+    {
+      "brand": "翡翠江南·淮扬菜(凤凰汇店)",
+      "address": "北京城区曙光西里甲5号院凤凰汇购物中心2层L225",
+      "distance": "2m"
+    },
+    {
+      "brand": "昆特斯香铺",
+      "address": "北京城区曙光西里甲5号院凤凰汇购物中心L116",
+      "distance": "2m"
+    },
+    {
+      "brand": "阳坊涮肉(三元桥凤凰汇)",
+      "address": "曙光西里甲5号院24号楼所3层L301号",
+      "distance": "2m"
+    },
+    {
+      "brand": "Peet'sCafe皮爷咖啡·轻餐(凤凰汇店)",
+      "address": "曙光西里甲5号院北京凤凰汇L115D号商铺",
+      "distance": "3m"
+    },
+    {
+      "brand": "潇湘阁(凤凰汇购物中心店)",
+      "address": "凤凰汇购物中心三层(三元桥地铁站B东北口步行420米)",
+      "distance": "3m"
+    },
+    {
+      "brand": "茉酸奶(北京朝阳凤凰汇店)",
+      "address": "曙光西里甲5号凤凰汇购物中心B1层",
+      "distance": "4m"
+    },
+    {
+      "brand": "胜博殿日式炸猪排(凤凰汇购物中心店)",
+      "address": "曙光西里甲5号凤凰汇商场3层L307-308商铺",
+      "distance": "5m"
+    },
+    {
+      "brand": "马记永·兰州牛肉面(凤凰汇购物中心店)",
+      "address": "北三环东路凤凰汇B1层(三元桥地铁站E2口步行260米)",
+      "distance": "5m"
+    },
+    {
+      "brand": "PHOYEAH越南小馆",
+      "address": "凤凰路与凤凰环路交叉口东120米凤凰汇购物中心3层L316",
+      "distance": "6m"
+    },
+    {
+      "brand": "滨寿司(凤凰汇购物中心店)",
+      "address": "曙光西里甲5号院24号楼凤凰汇购物中心3层L319-L321",
+      "distance": "8m"
+    },
+    {
+      "brand": "翡翠江南·淮扬菜(凤凰汇店)",
+      "address": "北京城区曙光西里甲5号院凤凰汇购物中心2层L225",
+      "distance": "2m"
+    },
+    {
+      "brand": "昆特斯香铺",
+      "address": "北京城区曙光西里甲5号院凤凰汇购物中心L116",
+      "distance": "2m"
+    },
+    {
+      "brand": "阳坊涮肉(三元桥凤凰汇)",
+      "address": "曙光西里甲5号院24号楼所3层L301号",
+      "distance": "2m"
+    },
+    {
+      "brand": "Peet'sCafe皮爷咖啡·轻餐(凤凰汇店)",
+      "address": "曙光西里甲5号院北京凤凰汇L115D号商铺",
+      "distance": "3m"
+    },
+    {
+      "brand": "潇湘阁(凤凰汇购物中心店)",
+      "address": "凤凰汇购物中心三层(三元桥地铁站B东北口步行420米)",
+      "distance": "3m"
+    },
+    {
+      "brand": "茉酸奶(北京朝阳凤凰汇店)",
+      "address": "曙光西里甲5号凤凰汇购物中心B1层",
+      "distance": "4m"
+    },
+    {
+      "brand": "胜博殿日式炸猪排(凤凰汇购物中心店)",
+      "address": "曙光西里甲5号凤凰汇商场3层L307-308商铺",
+      "distance": "5m"
+    },
+    {
+      "brand": "马记永·兰州牛肉面(凤凰汇购物中心店)",
+      "address": "北三环东路凤凰汇B1层(三元桥地铁站E2口步行260米)",
+      "distance": "5m"
+    },
+    {
+      "brand": "PHOYEAH越南小馆",
+      "address": "凤凰路与凤凰环路交叉口东120米凤凰汇购物中心3层L316",
+      "distance": "6m"
+    },
+    {
+      "brand": "滨寿司(凤凰汇购物中心店)",
+      "address": "曙光西里甲5号院24号楼凤凰汇购物中心3层L319-L321",
+      "distance": "8m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "北京凯德MALL太阳宫",
+      "open_date": "2012-07-14",
+      "area": "8万㎡",
+      "jun_daily_avg": "5.7万人次",
+      "weekday_avg": "5.4万人次",
+      "holiday_avg": "6.8万人次"
+    },
+    {
+      "name": "北京国展天虹购物中心",
+      "open_date": "2024-10-13",
+      "area": "2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "北京官舍",
+      "open_date": "2012-02-18",
+      "area": "1.1万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "北京佳亿广场",
+      "open_date": "2001-09-18",
+      "area": "3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "北京都汇天地",
+      "open_date": "2010-09-27",
+      "area": "2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 56.0,
+      "within_1yr_pct": 10.7,
+      "1_3yr_pct": 46.4,
+      "over_3yr_pct": 42.9
+    },
+    {
+      "type": "购物",
+      "count": 38.0,
+      "within_1yr_pct": 10.5,
+      "1_3yr_pct": 28.9,
+      "over_3yr_pct": 60.5
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 3.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 66.7,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 1.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "生活服务",
+      "count": 15.0,
+      "within_1yr_pct": 13.3,
+      "1_3yr_pct": 46.7,
+      "over_3yr_pct": 40.0
+    },
+    {
+      "type": "运动健身",
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 2.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 50.0
+    }
+  ]
+}

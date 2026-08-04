@@ -1,0 +1,216 @@
+{
+  "name": "阳光天地(唐镇店)",
+  "city": "上海市",
+  "address": "上海市宝山区牡丹江路1569号",
+  "lat": 31.399623,
+  "lng": 121.485376,
+  "overview": {
+    "score": 94.6,
+    "score_rank": "市内前30%",
+    "population_score": 93.9,
+    "area_score": 75.9,
+    "consumption_score": 69.8,
+    "industry_score": 94.7,
+    "annual_sales": "",
+    "annual_sales_unit": "",
+    "area_size_sqm": null,
+    "open_date": "",
+    "operator": "",
+    "brand": "",
+    "type": "",
+    "floors": ""
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "",
+    "annual_daily_rank": "",
+    "jun_total": 107.2,
+    "jun_total_rank": "市内商场第112名",
+    "jun_daily_avg": 3.6,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第112名",
+    "weekday_avg": 3.2,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第121名",
+    "holiday_avg": 4.7,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第97名"
+  },
+  "population": {
+    "residential": {
+      "500m": null,
+      "1_5km": null,
+      "3km": null
+    },
+    "office": {
+      "500m": null,
+      "1_5km": null,
+      "3km": null
+    },
+    "permanent": {
+      "500m": null,
+      "1_5km": null,
+      "3km": null
+    }
+  },
+  "business": {
+    "competitors": 1.0,
+    "food": 137.0,
+    "shopping": 205.0,
+    "leisure": 20.0,
+    "education": 33.0,
+    "hotel": 7.0,
+    "services": 118.0,
+    "fitness": 15.0,
+    "auto": 17.0,
+    "total_stores": 167.0,
+    "old_store_3yr_pct": 53.0
+  },
+  "nearby_poi": {
+    "business": null,
+    "community": null,
+    "office": null,
+    "school": null,
+    "hospital": null,
+    "transport": null,
+    "scenic": null
+  },
+  "demographics": {
+    "male_pct": 47.5,
+    "female_pct": null,
+    "education": {
+      "小学": 10.9,
+      "初中": 20.3,
+      "高中": 11.5,
+      "大专": 8.0,
+      "本科": 45.2,
+      "硕士": 3.1,
+      "博士": 1.0
+    },
+    "has_children_pct": 64.4,
+    "no_children_pct": 35.6
+  },
+  "scraped_at": "2026-08-01T05:35:01.001Z",
+  "nearby_restaurants": [
+    {
+      "brand": "喜识·冰糖葫芦炒酸奶(宝杨宝龙店)",
+      "address": "同济路669弄宝杨宝龙广场B1",
+      "distance": "489m"
+    },
+    {
+      "brand": "恒明记桂林米粉(牡丹江路店)",
+      "address": "牡丹江路1687号宝钢二村小区",
+      "distance": "490m"
+    },
+    {
+      "brand": "老大房(宝山店)",
+      "address": "牡丹江路1678号",
+      "distance": "490m"
+    },
+    {
+      "brand": "徽廷宴·徽菜(宝山店)",
+      "address": "同济路699号宝杨宝龙广场趣野潮玩夜市",
+      "distance": "491m"
+    },
+    {
+      "brand": "初代护肤造型(宝林路50弄小区店)",
+      "address": "宝林路58号(上海宝隆加油站)",
+      "distance": "492m"
+    },
+    {
+      "brand": "肯德基车速取餐点(宝山店)",
+      "address": "牡丹江路1688号入口",
+      "distance": "493m"
+    },
+    {
+      "brand": "糖小满·冰糖葫芦(宝杨宝龙店)",
+      "address": "同济路669弄1宝杨宝龙广场B1层",
+      "distance": "499m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海宝杨宝龙广场",
+      "open_date": "2019-01-01",
+      "area": "14.8万㎡",
+      "jun_daily_avg": "5.6万人次",
+      "weekday_avg": "4.9万人次",
+      "holiday_avg": "7.3万人次"
+    },
+    {
+      "name": "上海宝钢商场",
+      "open_date": "1993-08-15",
+      "area": "-",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海海江新天地",
+      "open_date": "2008-12-01",
+      "area": "6万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海夏园恒茂都会",
+      "open_date": "2024-04-04",
+      "area": "2.8万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 62.0,
+      "within_1yr_pct": 14.5,
+      "1_3yr_pct": 38.7,
+      "over_3yr_pct": 46.8
+    },
+    {
+      "type": "购物",
+      "count": 66.0,
+      "within_1yr_pct": 3.0,
+      "1_3yr_pct": 31.8,
+      "over_3yr_pct": 65.2
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 8.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "教育培训",
+      "count": 6.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 66.7
+    },
+    {
+      "type": "生活服务",
+      "count": 19.0,
+      "within_1yr_pct": 31.6,
+      "1_3yr_pct": 42.1,
+      "over_3yr_pct": 26.3
+    },
+    {
+      "type": "运动健身",
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 4.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 75.0
+    }
+  ]
+}

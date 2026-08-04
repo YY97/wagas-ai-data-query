@@ -1,0 +1,438 @@
+{
+  "name": "世博源",
+  "city": "上海市",
+  "address": "上海市浦东新区上南路168号",
+  "lat": 31.182739,
+  "lng": 121.492814,
+  "overview": {
+    "score": 95.8,
+    "score_rank": "市内前30%",
+    "population_score": 72.6,
+    "area_score": 69.0,
+    "consumption_score": 81.4,
+    "industry_score": 96.1,
+    "annual_sales": "世博源是由中国2010年上海世界博览会的永久性建筑——世博轴改建而成的超广域型综合购物中心，位于世博园区的核心区域。世博源充分利用了世博会的原有设施设备，为游客创造出全新的购物体验。在继承原有建筑特色的同时，世博源还因地制宜，增设了大量景观亮点，其设计充满了自然元素和艺术气息。此外，世博源还打破了以零售商户为主的传统业态布局，增大了餐饮美食、休闲娱乐及功能配套商户的经营面积",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 29.0,
+    "open_date": "2014-04-23",
+    "operator": "上海百联集团股份有限公司",
+    "brand": "",
+    "type": "综合型",
+    "floors": "B1-L7"
+  },
+  "traffic": {
+    "annual_daily": 6.76,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第7",
+    "jun_total": 238.2,
+    "jun_total_rank": "市内商场第11名",
+    "jun_daily_avg": 7.9,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第11名",
+    "weekday_avg": 6.7,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第23名",
+    "holiday_avg": 11.3,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第7名"
+  },
+  "population": {
+    "residential": {
+      "500m": 1.0,
+      "1_5km": 15.0,
+      "3km": 72.5
+    },
+    "office": {
+      "500m": 7900.0,
+      "1_5km": 11.5,
+      "3km": 42.6
+    },
+    "permanent": {
+      "500m": 1.6,
+      "1_5km": 16.8,
+      "3km": 74.8
+    }
+  },
+  "business": {
+    "competitors": 6.0,
+    "food": 87.0,
+    "shopping": 103.0,
+    "leisure": 19.0,
+    "education": 12.0,
+    "hotel": 8.0,
+    "services": 43.0,
+    "fitness": 17.0,
+    "auto": 21.0,
+    "total_stores": 291.0,
+    "old_store_3yr_pct": 52.0
+  },
+  "nearby_poi": {
+    "business": 4.0,
+    "community": 420.0,
+    "office": 42.0,
+    "school": 36.0,
+    "hospital": 63.0,
+    "transport": 11.0,
+    "scenic": 191.0
+  },
+  "demographics": {
+    "male_pct": 46.5,
+    "female_pct": null,
+    "education": {
+      "小学": 9.4,
+      "初中": 17.7,
+      "高中": 11.0,
+      "大专": 7.1,
+      "本科": 47.4,
+      "硕士": 5.5,
+      "博士": 1.9
+    },
+    "has_children_pct": 62.9,
+    "no_children_pct": 37.1
+  },
+  "scraped_at": "2026-08-01T04:46:59.339Z",
+  "nearby_restaurants": [
+    {
+      "brand": "喜识·冰糖葫芦·炒酸奶(浦东世博源店)",
+      "address": "世博大道1368号世博源4区B1层4B37号商铺",
+      "distance": "28m"
+    },
+    {
+      "brand": "CHAGEE霸王茶姬(上海世博源店)",
+      "address": "耀华路21号",
+      "distance": "41m"
+    },
+    {
+      "brand": "老瓷巷(浦东世博源店)(暂停营业)",
+      "address": "浦东大道1368号世博源商场4区G层",
+      "distance": "60m"
+    },
+    {
+      "brand": "池户水产(世博源店)",
+      "address": "世博大道1368号世博源5区B层5B03室",
+      "distance": "62m"
+    },
+    {
+      "brand": "宝珠奶酪(世博源店)",
+      "address": "上南路168号世博源5区B层5B06",
+      "distance": "91m"
+    },
+    {
+      "brand": "1973继光香香鸡(世博源店)",
+      "address": "世博大道1368号世博源5区B层5B24室",
+      "distance": "92m"
+    },
+    {
+      "brand": "汉堡王(世博源店)",
+      "address": "世博大道1368号B层5B07室",
+      "distance": "98m"
+    },
+    {
+      "brand": "当家水煎包·牛肉汤(世博店)",
+      "address": "上南路168号世博源5区地下二层",
+      "distance": "102m"
+    },
+    {
+      "brand": "柠檬向右(世博源店)",
+      "address": "上南路168号世博源5区B层24-1",
+      "distance": "103m"
+    },
+    {
+      "brand": "Peet's皮爷咖啡(上海世博源店)",
+      "address": "周家渡路209号世博源3区1层(国展路沿街)",
+      "distance": "104m"
+    },
+    {
+      "brand": "喜识·冰糖葫芦·炒酸奶(浦东世博源店)",
+      "address": "世博大道1368号世博源4区B1层4B37号商铺",
+      "distance": "28m"
+    },
+    {
+      "brand": "CHAGEE霸王茶姬(上海世博源店)",
+      "address": "耀华路21号",
+      "distance": "41m"
+    },
+    {
+      "brand": "老瓷巷(浦东世博源店)(暂停营业)",
+      "address": "浦东大道1368号世博源商场4区G层",
+      "distance": "60m"
+    },
+    {
+      "brand": "池户水产(世博源店)",
+      "address": "世博大道1368号世博源5区B层5B03室",
+      "distance": "62m"
+    },
+    {
+      "brand": "宝珠奶酪(世博源店)",
+      "address": "上南路168号世博源5区B层5B06",
+      "distance": "91m"
+    },
+    {
+      "brand": "1973继光香香鸡(世博源店)",
+      "address": "世博大道1368号世博源5区B层5B24室",
+      "distance": "92m"
+    },
+    {
+      "brand": "汉堡王(世博源店)",
+      "address": "世博大道1368号B层5B07室",
+      "distance": "98m"
+    },
+    {
+      "brand": "当家水煎包·牛肉汤(世博店)",
+      "address": "上南路168号世博源5区地下二层",
+      "distance": "102m"
+    },
+    {
+      "brand": "柠檬向右(世博源店)",
+      "address": "上南路168号世博源5区B层24-1",
+      "distance": "103m"
+    },
+    {
+      "brand": "Peet's皮爷咖啡(上海世博源店)",
+      "address": "周家渡路209号世博源3区1层(国展路沿街)",
+      "distance": "104m"
+    },
+    {
+      "brand": "喜识·冰糖葫芦·炒酸奶(浦东世博源店)",
+      "address": "世博大道1368号世博源4区B1层4B37号商铺",
+      "distance": "28m"
+    },
+    {
+      "brand": "CHAGEE霸王茶姬(上海世博源店)",
+      "address": "耀华路21号",
+      "distance": "41m"
+    },
+    {
+      "brand": "老瓷巷(浦东世博源店)(暂停营业)",
+      "address": "浦东大道1368号世博源商场4区G层",
+      "distance": "60m"
+    },
+    {
+      "brand": "池户水产(世博源店)",
+      "address": "世博大道1368号世博源5区B层5B03室",
+      "distance": "62m"
+    },
+    {
+      "brand": "宝珠奶酪(世博源店)",
+      "address": "上南路168号世博源5区B层5B06",
+      "distance": "91m"
+    },
+    {
+      "brand": "1973继光香香鸡(世博源店)",
+      "address": "世博大道1368号世博源5区B层5B24室",
+      "distance": "92m"
+    },
+    {
+      "brand": "汉堡王(世博源店)",
+      "address": "世博大道1368号B层5B07室",
+      "distance": "98m"
+    },
+    {
+      "brand": "当家水煎包·牛肉汤(世博店)",
+      "address": "上南路168号世博源5区地下二层",
+      "distance": "102m"
+    },
+    {
+      "brand": "柠檬向右(世博源店)",
+      "address": "上南路168号世博源5区B层24-1",
+      "distance": "103m"
+    },
+    {
+      "brand": "Peet's皮爷咖啡(上海世博源店)",
+      "address": "周家渡路209号世博源3区1层(国展路沿街)",
+      "distance": "104m"
+    },
+    {
+      "brand": "喜识·冰糖葫芦·炒酸奶(浦东世博源店)",
+      "address": "世博大道1368号世博源4区B1层4B37号商铺",
+      "distance": "28m"
+    },
+    {
+      "brand": "CHAGEE霸王茶姬(上海世博源店)",
+      "address": "耀华路21号",
+      "distance": "41m"
+    },
+    {
+      "brand": "老瓷巷(浦东世博源店)(暂停营业)",
+      "address": "浦东大道1368号世博源商场4区G层",
+      "distance": "60m"
+    },
+    {
+      "brand": "池户水产(世博源店)",
+      "address": "世博大道1368号世博源5区B层5B03室",
+      "distance": "62m"
+    },
+    {
+      "brand": "宝珠奶酪(世博源店)",
+      "address": "上南路168号世博源5区B层5B06",
+      "distance": "91m"
+    },
+    {
+      "brand": "1973继光香香鸡(世博源店)",
+      "address": "世博大道1368号世博源5区B层5B24室",
+      "distance": "92m"
+    },
+    {
+      "brand": "汉堡王(世博源店)",
+      "address": "世博大道1368号B层5B07室",
+      "distance": "98m"
+    },
+    {
+      "brand": "当家水煎包·牛肉汤(世博店)",
+      "address": "上南路168号世博源5区地下二层",
+      "distance": "102m"
+    },
+    {
+      "brand": "柠檬向右(世博源店)",
+      "address": "上南路168号世博源5区B层24-1",
+      "distance": "103m"
+    },
+    {
+      "brand": "Peet's皮爷咖啡(上海世博源店)",
+      "address": "周家渡路209号世博源3区1层(国展路沿街)",
+      "distance": "104m"
+    },
+    {
+      "brand": "喜识·冰糖葫芦·炒酸奶(浦东世博源店)",
+      "address": "世博大道1368号世博源4区B1层4B37号商铺",
+      "distance": "28m"
+    },
+    {
+      "brand": "CHAGEE霸王茶姬(上海世博源店)",
+      "address": "耀华路21号",
+      "distance": "41m"
+    },
+    {
+      "brand": "老瓷巷(浦东世博源店)(暂停营业)",
+      "address": "浦东大道1368号世博源商场4区G层",
+      "distance": "60m"
+    },
+    {
+      "brand": "池户水产(世博源店)",
+      "address": "世博大道1368号世博源5区B层5B03室",
+      "distance": "62m"
+    },
+    {
+      "brand": "宝珠奶酪(世博源店)",
+      "address": "上南路168号世博源5区B层5B06",
+      "distance": "91m"
+    },
+    {
+      "brand": "1973继光香香鸡(世博源店)",
+      "address": "世博大道1368号世博源5区B层5B24室",
+      "distance": "92m"
+    },
+    {
+      "brand": "汉堡王(世博源店)",
+      "address": "世博大道1368号B层5B07室",
+      "distance": "98m"
+    },
+    {
+      "brand": "当家水煎包·牛肉汤(世博店)",
+      "address": "上南路168号世博源5区地下二层",
+      "distance": "102m"
+    },
+    {
+      "brand": "柠檬向右(世博源店)",
+      "address": "上南路168号世博源5区B层24-1",
+      "distance": "103m"
+    },
+    {
+      "brand": "Peet's皮爷咖啡(上海世博源店)",
+      "address": "周家渡路209号世博源3区1层(国展路沿街)",
+      "distance": "104m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海世博天地",
+      "open_date": "2024-06-21",
+      "area": "3万㎡",
+      "jun_daily_avg": "2.3万人次",
+      "weekday_avg": "2.1万人次",
+      "holiday_avg": "3万人次"
+    },
+    {
+      "name": "上海浦东商场(昌里店)",
+      "open_date": "2005-04-25",
+      "area": "13万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海漫乐城",
+      "open_date": "2021-11-27",
+      "area": "2.6万㎡",
+      "jun_daily_avg": "3.1万人次",
+      "weekday_avg": "2.8万人次",
+      "holiday_avg": "3.8万人次"
+    },
+    {
+      "name": "上海中建广场·乐荟天地",
+      "open_date": "2017-12-23",
+      "area": "8万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 105.0,
+      "within_1yr_pct": 19.0,
+      "1_3yr_pct": 25.7,
+      "over_3yr_pct": 55.2
+    },
+    {
+      "type": "购物",
+      "count": 88.0,
+      "within_1yr_pct": 20.5,
+      "1_3yr_pct": 22.7,
+      "over_3yr_pct": 56.8
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 24.0,
+      "within_1yr_pct": 29.2,
+      "1_3yr_pct": 37.5,
+      "over_3yr_pct": 33.3
+    },
+    {
+      "type": "教育培训",
+      "count": 11.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 45.5,
+      "over_3yr_pct": 54.5
+    },
+    {
+      "type": "酒店住宿",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "生活服务",
+      "count": 32.0,
+      "within_1yr_pct": 15.6,
+      "1_3yr_pct": 34.4,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "运动健身",
+      "count": 18.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 22.2,
+      "over_3yr_pct": 44.4
+    },
+    {
+      "type": "车辆服务",
+      "count": 12.0,
+      "within_1yr_pct": 16.7,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 50.0
+    }
+  ]
+}

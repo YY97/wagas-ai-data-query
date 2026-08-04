@@ -1,0 +1,414 @@
+{
+  "name": "虹桥食尚天地",
+  "city": "上海市",
+  "address": "上海市青浦区徐泾镇沪青平公路1876号",
+  "lat": 31.164869,
+  "lng": 121.279612,
+  "overview": {
+    "score": 88.0,
+    "score_rank": "市内前30%",
+    "population_score": 73.3,
+    "area_score": 67.8,
+    "consumption_score": 71.7,
+    "industry_score": 88.2,
+    "annual_sales": "虹桥食尚天地汇聚美食餐饮、儿童亲子、影院及娱乐配套等多种业态，成为徐泾地区又一新地标，为本地区商业发展注入新的力量",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 12.5,
+    "open_date": "2017-08-18",
+    "operator": "瑞安新天地有限公司",
+    "brand": "",
+    "type": "美食型",
+    "floors": "B2-L3"
+  },
+  "traffic": {
+    "annual_daily": 3836.0,
+    "annual_daily_unit": "人次",
+    "annual_daily_rank": "市内第399",
+    "jun_total": 13.1,
+    "jun_total_rank": "市内商场第446名",
+    "jun_daily_avg": 4370.0,
+    "jun_daily_unit": "人次",
+    "jun_daily_rank": "市内商场第446名",
+    "weekday_avg": 4038.0,
+    "weekday_unit": "人次",
+    "weekday_rank": "市内商场第452名",
+    "holiday_avg": 5281.0,
+    "holiday_unit": "人次",
+    "holiday_rank": "市内商场第430名"
+  },
+  "population": {
+    "residential": {
+      "500m": 1.1,
+      "1_5km": 9.8,
+      "3km": 26.4
+    },
+    "office": {
+      "500m": 5100.0,
+      "1_5km": 3.8,
+      "3km": 13.2
+    },
+    "permanent": {
+      "500m": 1.1,
+      "1_5km": 8.7,
+      "3km": 23.6
+    }
+  },
+  "business": {
+    "competitors": 3.0,
+    "food": 88.0,
+    "shopping": 47.0,
+    "leisure": 6.0,
+    "education": 10.0,
+    "hotel": 18.0,
+    "services": 72.0,
+    "fitness": 18.0,
+    "auto": 9.0,
+    "total_stores": 78.0,
+    "old_store_3yr_pct": 67.0
+  },
+  "nearby_poi": {
+    "business": 1.0,
+    "community": 167.0,
+    "office": 7.0,
+    "school": 12.0,
+    "hospital": 24.0,
+    "transport": 3.0,
+    "scenic": 30.0
+  },
+  "demographics": {
+    "male_pct": 51.7,
+    "female_pct": null,
+    "education": {
+      "小学": 10.2,
+      "初中": 18.7,
+      "高中": 11.9,
+      "大专": 9.4,
+      "本科": 45.7,
+      "硕士": 3.4,
+      "博士": 0.7
+    },
+    "has_children_pct": 65.3,
+    "no_children_pct": 34.7
+  },
+  "scraped_at": "2026-08-02T02:33:29.564Z",
+  "nearby_restaurants": [
+    {
+      "brand": "小杨生煎(上海虹桥食尚天地店)",
+      "address": "上海城区沪青平公路1899号虹桥食尚天地B栋102-1商铺",
+      "distance": "11m"
+    },
+    {
+      "brand": "四海游龙(食尚天地店)",
+      "address": "沪青平公路1899号虹桥食尚天地F1",
+      "distance": "17m"
+    },
+    {
+      "brand": "融柳大铁牛螺蛳粉(虹桥食尚天地店)",
+      "address": "沪青平公路1899号2幢105-3",
+      "distance": "22m"
+    },
+    {
+      "brand": "库迪咖啡(青浦食尚天地店)",
+      "address": "徐泾镇沪青平公路1899号2幢210室",
+      "distance": "26m"
+    },
+    {
+      "brand": "蔬之鲜山东菜煎饼羊肉汤",
+      "address": "食尚天地2幢",
+      "distance": "29m"
+    },
+    {
+      "brand": "美的N次方(食尚天地2幢店)",
+      "address": "沪青平公路1899号食尚天地2幢F2层",
+      "distance": "33m"
+    },
+    {
+      "brand": "食其家·牛丼咖喱(食尚天地店)",
+      "address": "徐泾镇沪青平公路1899号食尚天地",
+      "distance": "45m"
+    },
+    {
+      "brand": "寻牛纪潮汕牛肉火锅(虹桥食尚天地店)",
+      "address": "沪青平公路1899号",
+      "distance": "51m"
+    },
+    {
+      "brand": "弄堂咪道mini(食尚天地店)",
+      "address": "沪青平公路1899号",
+      "distance": "56m"
+    },
+    {
+      "brand": "BRASSERIE帕司利西餐厅(食尚天地店)",
+      "address": "徐泾镇沪青平公路1899号1幢106-4、106-5、106-6",
+      "distance": "62m"
+    },
+    {
+      "brand": "小杨生煎(上海虹桥食尚天地店)",
+      "address": "上海城区沪青平公路1899号虹桥食尚天地B栋102-1商铺",
+      "distance": "11m"
+    },
+    {
+      "brand": "四海游龙(食尚天地店)",
+      "address": "沪青平公路1899号虹桥食尚天地F1",
+      "distance": "17m"
+    },
+    {
+      "brand": "融柳大铁牛螺蛳粉(虹桥食尚天地店)",
+      "address": "沪青平公路1899号2幢105-3",
+      "distance": "22m"
+    },
+    {
+      "brand": "库迪咖啡(青浦食尚天地店)",
+      "address": "徐泾镇沪青平公路1899号2幢210室",
+      "distance": "26m"
+    },
+    {
+      "brand": "蔬之鲜山东菜煎饼羊肉汤",
+      "address": "食尚天地2幢",
+      "distance": "29m"
+    },
+    {
+      "brand": "美的N次方(食尚天地2幢店)",
+      "address": "沪青平公路1899号食尚天地2幢F2层",
+      "distance": "33m"
+    },
+    {
+      "brand": "食其家·牛丼咖喱(食尚天地店)",
+      "address": "徐泾镇沪青平公路1899号食尚天地",
+      "distance": "45m"
+    },
+    {
+      "brand": "寻牛纪潮汕牛肉火锅(虹桥食尚天地店)",
+      "address": "沪青平公路1899号",
+      "distance": "51m"
+    },
+    {
+      "brand": "弄堂咪道mini(食尚天地店)",
+      "address": "沪青平公路1899号",
+      "distance": "56m"
+    },
+    {
+      "brand": "BRASSERIE帕司利西餐厅(食尚天地店)",
+      "address": "徐泾镇沪青平公路1899号1幢106-4、106-5、106-6",
+      "distance": "62m"
+    },
+    {
+      "brand": "小杨生煎(上海虹桥食尚天地店)",
+      "address": "上海城区沪青平公路1899号虹桥食尚天地B栋102-1商铺",
+      "distance": "11m"
+    },
+    {
+      "brand": "四海游龙(食尚天地店)",
+      "address": "沪青平公路1899号虹桥食尚天地F1",
+      "distance": "17m"
+    },
+    {
+      "brand": "融柳大铁牛螺蛳粉(虹桥食尚天地店)",
+      "address": "沪青平公路1899号2幢105-3",
+      "distance": "22m"
+    },
+    {
+      "brand": "库迪咖啡(青浦食尚天地店)",
+      "address": "徐泾镇沪青平公路1899号2幢210室",
+      "distance": "26m"
+    },
+    {
+      "brand": "蔬之鲜山东菜煎饼羊肉汤",
+      "address": "食尚天地2幢",
+      "distance": "29m"
+    },
+    {
+      "brand": "美的N次方(食尚天地2幢店)",
+      "address": "沪青平公路1899号食尚天地2幢F2层",
+      "distance": "33m"
+    },
+    {
+      "brand": "食其家·牛丼咖喱(食尚天地店)",
+      "address": "徐泾镇沪青平公路1899号食尚天地",
+      "distance": "45m"
+    },
+    {
+      "brand": "寻牛纪潮汕牛肉火锅(虹桥食尚天地店)",
+      "address": "沪青平公路1899号",
+      "distance": "51m"
+    },
+    {
+      "brand": "弄堂咪道mini(食尚天地店)",
+      "address": "沪青平公路1899号",
+      "distance": "56m"
+    },
+    {
+      "brand": "BRASSERIE帕司利西餐厅(食尚天地店)",
+      "address": "徐泾镇沪青平公路1899号1幢106-4、106-5、106-6",
+      "distance": "62m"
+    },
+    {
+      "brand": "小杨生煎(上海虹桥食尚天地店)",
+      "address": "上海城区沪青平公路1899号虹桥食尚天地B栋102-1商铺",
+      "distance": "11m"
+    },
+    {
+      "brand": "四海游龙(食尚天地店)",
+      "address": "沪青平公路1899号虹桥食尚天地F1",
+      "distance": "17m"
+    },
+    {
+      "brand": "融柳大铁牛螺蛳粉(虹桥食尚天地店)",
+      "address": "沪青平公路1899号2幢105-3",
+      "distance": "22m"
+    },
+    {
+      "brand": "库迪咖啡(青浦食尚天地店)",
+      "address": "徐泾镇沪青平公路1899号2幢210室",
+      "distance": "26m"
+    },
+    {
+      "brand": "蔬之鲜山东菜煎饼羊肉汤",
+      "address": "食尚天地2幢",
+      "distance": "29m"
+    },
+    {
+      "brand": "美的N次方(食尚天地2幢店)",
+      "address": "沪青平公路1899号食尚天地2幢F2层",
+      "distance": "33m"
+    },
+    {
+      "brand": "食其家·牛丼咖喱(食尚天地店)",
+      "address": "徐泾镇沪青平公路1899号食尚天地",
+      "distance": "45m"
+    },
+    {
+      "brand": "寻牛纪潮汕牛肉火锅(虹桥食尚天地店)",
+      "address": "沪青平公路1899号",
+      "distance": "51m"
+    },
+    {
+      "brand": "弄堂咪道mini(食尚天地店)",
+      "address": "沪青平公路1899号",
+      "distance": "56m"
+    },
+    {
+      "brand": "BRASSERIE帕司利西餐厅(食尚天地店)",
+      "address": "徐泾镇沪青平公路1899号1幢106-4、106-5、106-6",
+      "distance": "62m"
+    },
+    {
+      "brand": "小杨生煎(上海虹桥食尚天地店)",
+      "address": "上海城区沪青平公路1899号虹桥食尚天地B栋102-1商铺",
+      "distance": "11m"
+    },
+    {
+      "brand": "四海游龙(食尚天地店)",
+      "address": "沪青平公路1899号虹桥食尚天地F1",
+      "distance": "17m"
+    },
+    {
+      "brand": "融柳大铁牛螺蛳粉(虹桥食尚天地店)",
+      "address": "沪青平公路1899号2幢105-3",
+      "distance": "22m"
+    },
+    {
+      "brand": "库迪咖啡(青浦食尚天地店)",
+      "address": "徐泾镇沪青平公路1899号2幢210室",
+      "distance": "26m"
+    },
+    {
+      "brand": "蔬之鲜山东菜煎饼羊肉汤",
+      "address": "食尚天地2幢",
+      "distance": "29m"
+    },
+    {
+      "brand": "美的N次方(食尚天地2幢店)",
+      "address": "沪青平公路1899号食尚天地2幢F2层",
+      "distance": "33m"
+    },
+    {
+      "brand": "食其家·牛丼咖喱(食尚天地店)",
+      "address": "徐泾镇沪青平公路1899号食尚天地",
+      "distance": "45m"
+    },
+    {
+      "brand": "寻牛纪潮汕牛肉火锅(虹桥食尚天地店)",
+      "address": "沪青平公路1899号",
+      "distance": "51m"
+    },
+    {
+      "brand": "弄堂咪道mini(食尚天地店)",
+      "address": "沪青平公路1899号",
+      "distance": "56m"
+    },
+    {
+      "brand": "BRASSERIE帕司利西餐厅(食尚天地店)",
+      "address": "徐泾镇沪青平公路1899号1幢106-4、106-5、106-6",
+      "distance": "62m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海夏都小镇",
+      "open_date": "2016-08-01",
+      "area": "11万㎡",
+      "jun_daily_avg": "2万人次",
+      "weekday_avg": "1.8万人次",
+      "holiday_avg": "2.4万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 32.0,
+      "within_1yr_pct": 12.5,
+      "1_3yr_pct": 18.8,
+      "over_3yr_pct": 68.8
+    },
+    {
+      "type": "购物",
+      "count": 11.0,
+      "within_1yr_pct": 18.2,
+      "1_3yr_pct": 27.3,
+      "over_3yr_pct": 54.5
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 5.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 40.0,
+      "over_3yr_pct": 60.0
+    },
+    {
+      "type": "教育培训",
+      "count": 6.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    },
+    {
+      "type": "生活服务",
+      "count": 13.0,
+      "within_1yr_pct": 7.7,
+      "1_3yr_pct": 30.8,
+      "over_3yr_pct": 61.5
+    },
+    {
+      "type": "运动健身",
+      "count": 7.0,
+      "within_1yr_pct": 14.3,
+      "1_3yr_pct": 14.3,
+      "over_3yr_pct": 71.4
+    },
+    {
+      "type": "车辆服务",
+      "count": 3.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 33.3
+    }
+  ]
+}

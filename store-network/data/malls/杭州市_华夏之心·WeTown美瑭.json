@@ -1,0 +1,438 @@
+{
+  "name": "华夏之心·WeTown美瑭",
+  "city": "杭州市",
+  "address": "浙江省杭州市余杭区余杭塘路2485号",
+  "lat": 30.283498,
+  "lng": 120.002078,
+  "overview": {
+    "score": 94.7,
+    "score_rank": "市内前30%",
+    "population_score": 90.5,
+    "area_score": 93.1,
+    "consumption_score": 77.1,
+    "industry_score": 94.7,
+    "annual_sales": "华夏之心·WeTown美瑭是一个集购物、休闲、娱乐、美食、影城等于一体的商业综合体项目，以“探索体验型购物中心”为定位，打造复合式商业社交场景，提供探索、潮玩、互动的生活目的地 。",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 5.0,
+    "open_date": "2020-12-31",
+    "operator": "华夏阳光地产有限公司",
+    "brand": "",
+    "type": "美食型",
+    "floors": "B1-L4"
+  },
+  "traffic": {
+    "annual_daily": 2.3,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第54",
+    "jun_total": 117.8,
+    "jun_total_rank": "市内商场第42名",
+    "jun_daily_avg": 3.9,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第42名",
+    "weekday_avg": 3.8,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第39名",
+    "holiday_avg": 4.4,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第50名"
+  },
+  "population": {
+    "residential": {
+      "500m": 1.6,
+      "1_5km": 9.3,
+      "3km": 20.3
+    },
+    "office": {
+      "500m": 2.6,
+      "1_5km": 10.6,
+      "3km": 22.1
+    },
+    "permanent": {
+      "500m": 2.1,
+      "1_5km": 8.7,
+      "3km": 19.7
+    }
+  },
+  "business": {
+    "competitors": 10.0,
+    "food": 417.0,
+    "shopping": 167.0,
+    "leisure": 16.0,
+    "education": 34.0,
+    "hotel": 50.0,
+    "services": 315.0,
+    "fitness": 43.0,
+    "auto": 22.0,
+    "total_stores": 330.0,
+    "old_store_3yr_pct": 38.0
+  },
+  "nearby_poi": {
+    "business": 4.0,
+    "community": 94.0,
+    "office": 49.0,
+    "school": 22.0,
+    "hospital": 20.0,
+    "transport": 9.0,
+    "scenic": 71.0
+  },
+  "demographics": {
+    "male_pct": 49.4,
+    "female_pct": null,
+    "education": {
+      "小学": 6.9,
+      "初中": 13.0,
+      "高中": 17.1,
+      "大专": 9.7,
+      "本科": 45.9,
+      "硕士": 6.4,
+      "博士": 1.0
+    },
+    "has_children_pct": 57.4,
+    "no_children_pct": 42.6
+  },
+  "scraped_at": "2026-08-02T09:07:42.404Z",
+  "nearby_restaurants": [
+    {
+      "brand": "七鲜小厨(美瑭广场店)",
+      "address": "仓前街道余杭塘路2473号13幢203、204-2室",
+      "distance": "4m"
+    },
+    {
+      "brand": "曼玲粥(美瑭广场店)",
+      "address": "仓前街道时代天元城13幢204-1室",
+      "distance": "4m"
+    },
+    {
+      "brand": "鲜知灶华夏之心店",
+      "address": "仓前街道时代天元城12幢2楼201",
+      "distance": "19m"
+    },
+    {
+      "brand": "唐人锅·铁锅焖面·石锅鸡公煲(杭州美塘广场店)",
+      "address": "仓前街道美瑭广场街区12-1",
+      "distance": "21m"
+    },
+    {
+      "brand": "十二番烧鸟小酒馆",
+      "address": "联创街华夏之心1层(良睦路地铁站C口步行350米)",
+      "distance": "22m"
+    },
+    {
+      "brand": "高满丽延边风味炸鸡(美瑭广场店)",
+      "address": "华夏之心美瑭商业中心13-107高满丽韩式炸鸡",
+      "distance": "23m"
+    },
+    {
+      "brand": "于清源麻辣烫&炸串(美瑭广场店)",
+      "address": "余杭塘路美瑭广场13栋1层5-6号",
+      "distance": "24m"
+    },
+    {
+      "brand": "三倍笑炸酱面(时代天元城店)",
+      "address": "仓前街道时代天元城12-18号商铺",
+      "distance": "25m"
+    },
+    {
+      "brand": "徐老友·老友粉(美瑭广场店)",
+      "address": "仓前街道余杭塘路2499号美瑭广场",
+      "distance": "25m"
+    },
+    {
+      "brand": "谢大牛馆·中式卤牛排(美瑭广场店)",
+      "address": "仓前街道时代天元城15-1",
+      "distance": "27m"
+    },
+    {
+      "brand": "七鲜小厨(美瑭广场店)",
+      "address": "仓前街道余杭塘路2473号13幢203、204-2室",
+      "distance": "4m"
+    },
+    {
+      "brand": "曼玲粥(美瑭广场店)",
+      "address": "仓前街道时代天元城13幢204-1室",
+      "distance": "4m"
+    },
+    {
+      "brand": "鲜知灶华夏之心店",
+      "address": "仓前街道时代天元城12幢2楼201",
+      "distance": "19m"
+    },
+    {
+      "brand": "唐人锅·铁锅焖面·石锅鸡公煲(杭州美塘广场店)",
+      "address": "仓前街道美瑭广场街区12-1",
+      "distance": "21m"
+    },
+    {
+      "brand": "十二番烧鸟小酒馆",
+      "address": "联创街华夏之心1层(良睦路地铁站C口步行350米)",
+      "distance": "22m"
+    },
+    {
+      "brand": "高满丽延边风味炸鸡(美瑭广场店)",
+      "address": "华夏之心美瑭商业中心13-107高满丽韩式炸鸡",
+      "distance": "23m"
+    },
+    {
+      "brand": "于清源麻辣烫&炸串(美瑭广场店)",
+      "address": "余杭塘路美瑭广场13栋1层5-6号",
+      "distance": "24m"
+    },
+    {
+      "brand": "三倍笑炸酱面(时代天元城店)",
+      "address": "仓前街道时代天元城12-18号商铺",
+      "distance": "25m"
+    },
+    {
+      "brand": "徐老友·老友粉(美瑭广场店)",
+      "address": "仓前街道余杭塘路2499号美瑭广场",
+      "distance": "25m"
+    },
+    {
+      "brand": "谢大牛馆·中式卤牛排(美瑭广场店)",
+      "address": "仓前街道时代天元城15-1",
+      "distance": "27m"
+    },
+    {
+      "brand": "七鲜小厨(美瑭广场店)",
+      "address": "仓前街道余杭塘路2473号13幢203、204-2室",
+      "distance": "4m"
+    },
+    {
+      "brand": "曼玲粥(美瑭广场店)",
+      "address": "仓前街道时代天元城13幢204-1室",
+      "distance": "4m"
+    },
+    {
+      "brand": "鲜知灶华夏之心店",
+      "address": "仓前街道时代天元城12幢2楼201",
+      "distance": "19m"
+    },
+    {
+      "brand": "唐人锅·铁锅焖面·石锅鸡公煲(杭州美塘广场店)",
+      "address": "仓前街道美瑭广场街区12-1",
+      "distance": "21m"
+    },
+    {
+      "brand": "十二番烧鸟小酒馆",
+      "address": "联创街华夏之心1层(良睦路地铁站C口步行350米)",
+      "distance": "22m"
+    },
+    {
+      "brand": "高满丽延边风味炸鸡(美瑭广场店)",
+      "address": "华夏之心美瑭商业中心13-107高满丽韩式炸鸡",
+      "distance": "23m"
+    },
+    {
+      "brand": "于清源麻辣烫&炸串(美瑭广场店)",
+      "address": "余杭塘路美瑭广场13栋1层5-6号",
+      "distance": "24m"
+    },
+    {
+      "brand": "三倍笑炸酱面(时代天元城店)",
+      "address": "仓前街道时代天元城12-18号商铺",
+      "distance": "25m"
+    },
+    {
+      "brand": "徐老友·老友粉(美瑭广场店)",
+      "address": "仓前街道余杭塘路2499号美瑭广场",
+      "distance": "25m"
+    },
+    {
+      "brand": "谢大牛馆·中式卤牛排(美瑭广场店)",
+      "address": "仓前街道时代天元城15-1",
+      "distance": "27m"
+    },
+    {
+      "brand": "七鲜小厨(美瑭广场店)",
+      "address": "仓前街道余杭塘路2473号13幢203、204-2室",
+      "distance": "4m"
+    },
+    {
+      "brand": "曼玲粥(美瑭广场店)",
+      "address": "仓前街道时代天元城13幢204-1室",
+      "distance": "4m"
+    },
+    {
+      "brand": "鲜知灶华夏之心店",
+      "address": "仓前街道时代天元城12幢2楼201",
+      "distance": "19m"
+    },
+    {
+      "brand": "唐人锅·铁锅焖面·石锅鸡公煲(杭州美塘广场店)",
+      "address": "仓前街道美瑭广场街区12-1",
+      "distance": "21m"
+    },
+    {
+      "brand": "十二番烧鸟小酒馆",
+      "address": "联创街华夏之心1层(良睦路地铁站C口步行350米)",
+      "distance": "22m"
+    },
+    {
+      "brand": "高满丽延边风味炸鸡(美瑭广场店)",
+      "address": "华夏之心美瑭商业中心13-107高满丽韩式炸鸡",
+      "distance": "23m"
+    },
+    {
+      "brand": "于清源麻辣烫&炸串(美瑭广场店)",
+      "address": "余杭塘路美瑭广场13栋1层5-6号",
+      "distance": "24m"
+    },
+    {
+      "brand": "三倍笑炸酱面(时代天元城店)",
+      "address": "仓前街道时代天元城12-18号商铺",
+      "distance": "25m"
+    },
+    {
+      "brand": "徐老友·老友粉(美瑭广场店)",
+      "address": "仓前街道余杭塘路2499号美瑭广场",
+      "distance": "25m"
+    },
+    {
+      "brand": "谢大牛馆·中式卤牛排(美瑭广场店)",
+      "address": "仓前街道时代天元城15-1",
+      "distance": "27m"
+    },
+    {
+      "brand": "七鲜小厨(美瑭广场店)",
+      "address": "仓前街道余杭塘路2473号13幢203、204-2室",
+      "distance": "4m"
+    },
+    {
+      "brand": "曼玲粥(美瑭广场店)",
+      "address": "仓前街道时代天元城13幢204-1室",
+      "distance": "4m"
+    },
+    {
+      "brand": "鲜知灶华夏之心店",
+      "address": "仓前街道时代天元城12幢2楼201",
+      "distance": "19m"
+    },
+    {
+      "brand": "唐人锅·铁锅焖面·石锅鸡公煲(杭州美塘广场店)",
+      "address": "仓前街道美瑭广场街区12-1",
+      "distance": "21m"
+    },
+    {
+      "brand": "十二番烧鸟小酒馆",
+      "address": "联创街华夏之心1层(良睦路地铁站C口步行350米)",
+      "distance": "22m"
+    },
+    {
+      "brand": "高满丽延边风味炸鸡(美瑭广场店)",
+      "address": "华夏之心美瑭商业中心13-107高满丽韩式炸鸡",
+      "distance": "23m"
+    },
+    {
+      "brand": "于清源麻辣烫&炸串(美瑭广场店)",
+      "address": "余杭塘路美瑭广场13栋1层5-6号",
+      "distance": "24m"
+    },
+    {
+      "brand": "三倍笑炸酱面(时代天元城店)",
+      "address": "仓前街道时代天元城12-18号商铺",
+      "distance": "25m"
+    },
+    {
+      "brand": "徐老友·老友粉(美瑭广场店)",
+      "address": "仓前街道余杭塘路2499号美瑭广场",
+      "distance": "25m"
+    },
+    {
+      "brand": "谢大牛馆·中式卤牛排(美瑭广场店)",
+      "address": "仓前街道时代天元城15-1",
+      "distance": "27m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "杭州EFC LIVE欧美广场",
+      "open_date": "2019-04-28",
+      "area": "10万㎡",
+      "jun_daily_avg": "7.1万人次",
+      "weekday_avg": "7.4万人次",
+      "holiday_avg": "6万人次"
+    },
+    {
+      "name": "杭州未来科技城万达广场",
+      "open_date": "2019-08-09",
+      "area": "6.7万㎡",
+      "jun_daily_avg": "1.4万人次",
+      "weekday_avg": "1.3万人次",
+      "holiday_avg": "1.7万人次"
+    },
+    {
+      "name": "杭州乐时城",
+      "open_date": "2017-11-25",
+      "area": "2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "杭州亲橙park",
+      "open_date": "2025-10-11",
+      "area": "2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 156.0,
+      "within_1yr_pct": 26.9,
+      "1_3yr_pct": 41.7,
+      "over_3yr_pct": 31.4
+    },
+    {
+      "type": "购物",
+      "count": 42.0,
+      "within_1yr_pct": 23.8,
+      "1_3yr_pct": 23.8,
+      "over_3yr_pct": 52.4
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 13.0,
+      "within_1yr_pct": 15.4,
+      "1_3yr_pct": 38.5,
+      "over_3yr_pct": 46.2
+    },
+    {
+      "type": "教育培训",
+      "count": 10.0,
+      "within_1yr_pct": 10.0,
+      "1_3yr_pct": 30.0,
+      "over_3yr_pct": 60.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 8.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 75.0
+    },
+    {
+      "type": "生活服务",
+      "count": 78.0,
+      "within_1yr_pct": 26.9,
+      "1_3yr_pct": 39.7,
+      "over_3yr_pct": 33.3
+    },
+    {
+      "type": "运动健身",
+      "count": 15.0,
+      "within_1yr_pct": 26.7,
+      "1_3yr_pct": 20.0,
+      "over_3yr_pct": 53.3
+    },
+    {
+      "type": "车辆服务",
+      "count": 8.0,
+      "within_1yr_pct": 37.5,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 12.5
+    }
+  ]
+}

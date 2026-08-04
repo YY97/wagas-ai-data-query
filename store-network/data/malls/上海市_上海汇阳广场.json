@@ -1,0 +1,446 @@
+{
+  "name": "上海汇阳广场",
+  "city": "上海市",
+  "address": "上海市徐汇区漕溪路196号",
+  "lat": 31.174205,
+  "lng": 121.433409,
+  "overview": {
+    "score": 78.5,
+    "score_rank": "市内前30%",
+    "population_score": 89.1,
+    "area_score": 74.8,
+    "consumption_score": 85.4,
+    "industry_score": 78.4,
+    "annual_sales": "汇阳广场位于上海市徐汇区漕溪路田林东路，东有沿漕溪路高架经过，西、南两侧为灯具家具市场，北侧为高层住宅区该为集大型高档商业及办公写字楼于一体的综合体地下一层为商业用房；地下二层为汽车库、设备用房及自行车库；地下三层为机械停车库、设备用房及局部战时人员掩蔽所（平时汽车库）地上裙房八层均为商业用房，九至二十一层为高档办公用房城市绿地下在地下一层设下沉广场和市民活动中心定位为高中档的以家居购物，餐饮娱乐为主的生活购物广场在商业布局方面，地下一层为精品超市、健身会所、配套商业及其他一些零售小吃铺；地上1-4层为各类软装品牌店、精品家居、辅之以西式、港式餐厅等；地上5-7层为各类特色餐饮、大中型餐饮",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 3.5,
+    "open_date": "2013-01-01",
+    "operator": "上海民强投资（集团）有限公司",
+    "brand": "",
+    "type": "综合型",
+    "floors": "B1-L4"
+  },
+  "traffic": {
+    "annual_daily": 6767.0,
+    "annual_daily_unit": "人次",
+    "annual_daily_rank": "市内第319",
+    "jun_total": 22.4,
+    "jun_total_rank": "市内商场第364名",
+    "jun_daily_avg": 7471.0,
+    "jun_daily_unit": "人次",
+    "jun_daily_rank": "市内商场第364名",
+    "weekday_avg": 7017.0,
+    "weekday_unit": "人次",
+    "weekday_rank": "市内商场第362名",
+    "holiday_avg": 8719.0,
+    "holiday_unit": "人次",
+    "holiday_rank": "市内商场第351名"
+  },
+  "population": {
+    "residential": {
+      "500m": 2.3,
+      "1_5km": 25.5,
+      "3km": 83.6
+    },
+    "office": {
+      "500m": 1.4,
+      "1_5km": 18.4,
+      "3km": 75.9
+    },
+    "permanent": {
+      "500m": 2.3,
+      "1_5km": 27.0,
+      "3km": 92.9
+    }
+  },
+  "business": {
+    "competitors": 1.0,
+    "food": 49.0,
+    "shopping": 84.0,
+    "leisure": 19.0,
+    "education": 31.0,
+    "hotel": 33.0,
+    "services": 91.0,
+    "fitness": 28.0,
+    "auto": 14.0,
+    "total_stores": 52.0,
+    "old_store_3yr_pct": 52.0
+  },
+  "nearby_poi": {
+    "business": 5.0,
+    "community": 606.0,
+    "office": 110.0,
+    "school": 55.0,
+    "hospital": 97.0,
+    "transport": 14.0,
+    "scenic": 223.0
+  },
+  "demographics": {
+    "male_pct": 49.4,
+    "female_pct": null,
+    "education": {
+      "小学": 8.1,
+      "初中": 15.5,
+      "高中": 11.6,
+      "大专": 6.6,
+      "本科": 49.4,
+      "硕士": 6.7,
+      "博士": 2.1
+    },
+    "has_children_pct": 58.4,
+    "no_children_pct": 41.6
+  },
+  "scraped_at": "2026-07-31T16:50:07.977Z",
+  "nearby_restaurants": [
+    {
+      "brand": "BUTCHER牛排肉铺(汇阳广场店)(暂停营业)",
+      "address": "田林东路75号汇阳广场B1层",
+      "distance": "13m"
+    },
+    {
+      "brand": "星巴克(汇阳广场店)",
+      "address": "田林东路75号汇阳广场F1层",
+      "distance": "16m"
+    },
+    {
+      "brand": "多乐之日(田林店)",
+      "address": "田林东路75号汇阳广场1楼103",
+      "distance": "20m"
+    },
+    {
+      "brand": "光明邨大酒家(汇阳广场店)",
+      "address": "田林东路75号汇阳广场2层",
+      "distance": "26m"
+    },
+    {
+      "brand": "盛顺园(汇阳广场店)",
+      "address": "田林街道田林东路75号汇阳广场4层408G,408H,408K室(近漕溪路)",
+      "distance": "30m"
+    },
+    {
+      "brand": "上海徐汇Moxy酒吧(汇阳广场店)",
+      "address": "田林东路55号21楼上海徐汇Moxy酒店",
+      "distance": "31m"
+    },
+    {
+      "brand": "桂客餐厅(汇阳广场店)",
+      "address": "田林东路75号汇阳广场F2层",
+      "distance": "35m"
+    },
+    {
+      "brand": "瑞幸咖啡(汇阳广场店)",
+      "address": "田林东路55号汇阳广场一层大堂",
+      "distance": "35m"
+    },
+    {
+      "brand": "陈香贵·兰州牛肉面(上海徐汇汇阳广场店)",
+      "address": "田林东路75号汇阳广场F1层",
+      "distance": "46m"
+    },
+    {
+      "brand": "汤养味炖汤馆(田林店)",
+      "address": "田林街道田林东路75号汇阳广场4楼",
+      "distance": "48m"
+    },
+    {
+      "brand": "BUTCHER牛排肉铺(汇阳广场店)(暂停营业)",
+      "address": "田林东路75号汇阳广场B1层",
+      "distance": "13m"
+    },
+    {
+      "brand": "星巴克(汇阳广场店)",
+      "address": "田林东路75号汇阳广场F1层",
+      "distance": "16m"
+    },
+    {
+      "brand": "多乐之日(田林店)",
+      "address": "田林东路75号汇阳广场1楼103",
+      "distance": "20m"
+    },
+    {
+      "brand": "光明邨大酒家(汇阳广场店)",
+      "address": "田林东路75号汇阳广场2层",
+      "distance": "26m"
+    },
+    {
+      "brand": "盛顺园(汇阳广场店)",
+      "address": "田林街道田林东路75号汇阳广场4层408G,408H,408K室(近漕溪路)",
+      "distance": "30m"
+    },
+    {
+      "brand": "上海徐汇Moxy酒吧(汇阳广场店)",
+      "address": "田林东路55号21楼上海徐汇Moxy酒店",
+      "distance": "31m"
+    },
+    {
+      "brand": "桂客餐厅(汇阳广场店)",
+      "address": "田林东路75号汇阳广场F2层",
+      "distance": "35m"
+    },
+    {
+      "brand": "瑞幸咖啡(汇阳广场店)",
+      "address": "田林东路55号汇阳广场一层大堂",
+      "distance": "35m"
+    },
+    {
+      "brand": "陈香贵·兰州牛肉面(上海徐汇汇阳广场店)",
+      "address": "田林东路75号汇阳广场F1层",
+      "distance": "46m"
+    },
+    {
+      "brand": "汤养味炖汤馆(田林店)",
+      "address": "田林街道田林东路75号汇阳广场4楼",
+      "distance": "48m"
+    },
+    {
+      "brand": "BUTCHER牛排肉铺(汇阳广场店)(暂停营业)",
+      "address": "田林东路75号汇阳广场B1层",
+      "distance": "13m"
+    },
+    {
+      "brand": "星巴克(汇阳广场店)",
+      "address": "田林东路75号汇阳广场F1层",
+      "distance": "16m"
+    },
+    {
+      "brand": "多乐之日(田林店)",
+      "address": "田林东路75号汇阳广场1楼103",
+      "distance": "20m"
+    },
+    {
+      "brand": "光明邨大酒家(汇阳广场店)",
+      "address": "田林东路75号汇阳广场2层",
+      "distance": "26m"
+    },
+    {
+      "brand": "盛顺园(汇阳广场店)",
+      "address": "田林街道田林东路75号汇阳广场4层408G,408H,408K室(近漕溪路)",
+      "distance": "30m"
+    },
+    {
+      "brand": "上海徐汇Moxy酒吧(汇阳广场店)",
+      "address": "田林东路55号21楼上海徐汇Moxy酒店",
+      "distance": "31m"
+    },
+    {
+      "brand": "桂客餐厅(汇阳广场店)",
+      "address": "田林东路75号汇阳广场F2层",
+      "distance": "35m"
+    },
+    {
+      "brand": "瑞幸咖啡(汇阳广场店)",
+      "address": "田林东路55号汇阳广场一层大堂",
+      "distance": "35m"
+    },
+    {
+      "brand": "陈香贵·兰州牛肉面(上海徐汇汇阳广场店)",
+      "address": "田林东路75号汇阳广场F1层",
+      "distance": "46m"
+    },
+    {
+      "brand": "汤养味炖汤馆(田林店)",
+      "address": "田林街道田林东路75号汇阳广场4楼",
+      "distance": "48m"
+    },
+    {
+      "brand": "BUTCHER牛排肉铺(汇阳广场店)(暂停营业)",
+      "address": "田林东路75号汇阳广场B1层",
+      "distance": "13m"
+    },
+    {
+      "brand": "星巴克(汇阳广场店)",
+      "address": "田林东路75号汇阳广场F1层",
+      "distance": "16m"
+    },
+    {
+      "brand": "多乐之日(田林店)",
+      "address": "田林东路75号汇阳广场1楼103",
+      "distance": "20m"
+    },
+    {
+      "brand": "光明邨大酒家(汇阳广场店)",
+      "address": "田林东路75号汇阳广场2层",
+      "distance": "26m"
+    },
+    {
+      "brand": "盛顺园(汇阳广场店)",
+      "address": "田林街道田林东路75号汇阳广场4层408G,408H,408K室(近漕溪路)",
+      "distance": "30m"
+    },
+    {
+      "brand": "上海徐汇Moxy酒吧(汇阳广场店)",
+      "address": "田林东路55号21楼上海徐汇Moxy酒店",
+      "distance": "31m"
+    },
+    {
+      "brand": "桂客餐厅(汇阳广场店)",
+      "address": "田林东路75号汇阳广场F2层",
+      "distance": "35m"
+    },
+    {
+      "brand": "瑞幸咖啡(汇阳广场店)",
+      "address": "田林东路55号汇阳广场一层大堂",
+      "distance": "35m"
+    },
+    {
+      "brand": "陈香贵·兰州牛肉面(上海徐汇汇阳广场店)",
+      "address": "田林东路75号汇阳广场F1层",
+      "distance": "46m"
+    },
+    {
+      "brand": "汤养味炖汤馆(田林店)",
+      "address": "田林街道田林东路75号汇阳广场4楼",
+      "distance": "48m"
+    },
+    {
+      "brand": "BUTCHER牛排肉铺(汇阳广场店)(暂停营业)",
+      "address": "田林东路75号汇阳广场B1层",
+      "distance": "13m"
+    },
+    {
+      "brand": "星巴克(汇阳广场店)",
+      "address": "田林东路75号汇阳广场F1层",
+      "distance": "16m"
+    },
+    {
+      "brand": "多乐之日(田林店)",
+      "address": "田林东路75号汇阳广场1楼103",
+      "distance": "20m"
+    },
+    {
+      "brand": "光明邨大酒家(汇阳广场店)",
+      "address": "田林东路75号汇阳广场2层",
+      "distance": "26m"
+    },
+    {
+      "brand": "盛顺园(汇阳广场店)",
+      "address": "田林街道田林东路75号汇阳广场4层408G,408H,408K室(近漕溪路)",
+      "distance": "30m"
+    },
+    {
+      "brand": "上海徐汇Moxy酒吧(汇阳广场店)",
+      "address": "田林东路55号21楼上海徐汇Moxy酒店",
+      "distance": "31m"
+    },
+    {
+      "brand": "桂客餐厅(汇阳广场店)",
+      "address": "田林东路75号汇阳广场F2层",
+      "distance": "35m"
+    },
+    {
+      "brand": "瑞幸咖啡(汇阳广场店)",
+      "address": "田林东路55号汇阳广场一层大堂",
+      "distance": "35m"
+    },
+    {
+      "brand": "陈香贵·兰州牛肉面(上海徐汇汇阳广场店)",
+      "address": "田林东路75号汇阳广场F1层",
+      "distance": "46m"
+    },
+    {
+      "brand": "汤养味炖汤馆(田林店)",
+      "address": "田林街道田林东路75号汇阳广场4楼",
+      "distance": "48m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海徐汇日月光中心",
+      "open_date": "2017-12-16",
+      "area": "13.3万㎡",
+      "jun_daily_avg": "4.9万人次",
+      "weekday_avg": "4.6万人次",
+      "holiday_avg": "5.8万人次"
+    },
+    {
+      "name": "上海飞洲国际广场",
+      "open_date": "2004-03-08",
+      "area": "3万㎡",
+      "jun_daily_avg": "2.9万人次",
+      "weekday_avg": "2.6万人次",
+      "holiday_avg": "3.6万人次"
+    },
+    {
+      "name": "上海大华光启城时尚购物中心",
+      "open_date": "2012-05-28",
+      "area": "12万㎡",
+      "jun_daily_avg": "1.8万人次",
+      "weekday_avg": "1.8万人次",
+      "holiday_avg": "1.8万人次"
+    },
+    {
+      "name": "上海南洋1931",
+      "open_date": "2018-07-03",
+      "area": "2.2万㎡",
+      "jun_daily_avg": "1.5万人次",
+      "weekday_avg": "1.4万人次",
+      "holiday_avg": "1.6万人次"
+    },
+    {
+      "name": "上海田尚坊",
+      "open_date": "2015-01-01",
+      "area": "3万㎡",
+      "jun_daily_avg": "1.7万人次",
+      "weekday_avg": "1.8万人次",
+      "holiday_avg": "1.6万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 10.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 30.0,
+      "over_3yr_pct": 70.0
+    },
+    {
+      "type": "购物",
+      "count": 8.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 5.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 40.0,
+      "over_3yr_pct": 40.0
+    },
+    {
+      "type": "教育培训",
+      "count": 7.0,
+      "within_1yr_pct": 14.3,
+      "1_3yr_pct": 28.6,
+      "over_3yr_pct": 57.1
+    },
+    {
+      "type": "酒店住宿",
+      "count": 4.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "生活服务",
+      "count": 7.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 57.1,
+      "over_3yr_pct": 42.9
+    },
+    {
+      "type": "运动健身",
+      "count": 8.0,
+      "within_1yr_pct": 12.5,
+      "1_3yr_pct": 37.5,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 3.0,
+      "within_1yr_pct": 66.7,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 33.3
+    }
+  ]
+}

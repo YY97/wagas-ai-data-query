@@ -1,0 +1,462 @@
+{
+  "name": "万鑫佰隆购物商城",
+  "city": "北京市",
+  "address": "北京市朝阳区管庄乡京客隆(管庄店)",
+  "lat": 39.909709,
+  "lng": 116.594194,
+  "overview": {
+    "score": 84.0,
+    "score_rank": "市内前30%",
+    "population_score": 89.4,
+    "area_score": 82.6,
+    "consumption_score": 69.5,
+    "industry_score": 84.0,
+    "annual_sales": "",
+    "annual_sales_unit": "",
+    "area_size_sqm": null,
+    "open_date": "",
+    "operator": "",
+    "brand": "",
+    "type": "",
+    "floors": ""
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "",
+    "annual_daily_rank": "",
+    "jun_total": null,
+    "jun_total_rank": "",
+    "jun_daily_avg": null,
+    "jun_daily_unit": "",
+    "jun_daily_rank": "",
+    "weekday_avg": null,
+    "weekday_unit": "",
+    "weekday_rank": "",
+    "holiday_avg": null,
+    "holiday_unit": "",
+    "holiday_rank": ""
+  },
+  "population": {
+    "residential": {
+      "500m": 2.1,
+      "1_5km": 16.9,
+      "3km": 47.4
+    },
+    "office": {
+      "500m": 9800.0,
+      "1_5km": 8.3,
+      "3km": 19.1
+    },
+    "permanent": {
+      "500m": 2.0,
+      "1_5km": 17.3,
+      "3km": 44.3
+    }
+  },
+  "business": {
+    "competitors": 1.0,
+    "food": 232.0,
+    "shopping": 132.0,
+    "leisure": 8.0,
+    "education": 10.0,
+    "hotel": 22.0,
+    "services": 80.0,
+    "fitness": 7.0,
+    "auto": 7.0,
+    "total_stores": 501.0,
+    "old_store_3yr_pct": 43.0
+  },
+  "nearby_poi": {
+    "business": 7.0,
+    "community": 209.0,
+    "office": 40.0,
+    "school": 29.0,
+    "hospital": 52.0,
+    "transport": 3.0,
+    "scenic": 61.0
+  },
+  "demographics": {
+    "male_pct": 48.9,
+    "female_pct": null,
+    "education": {
+      "小学": 7.8,
+      "初中": 14.2,
+      "高中": 11.1,
+      "大专": 8.1,
+      "本科": 51.8,
+      "硕士": 5.7,
+      "博士": 1.3
+    },
+    "has_children_pct": null,
+    "no_children_pct": null
+  },
+  "scraped_at": "2026-07-31T18:06:11.885Z",
+  "nearby_restaurants": [
+    {
+      "brand": "HanBang韩式炸鸡·火鸡面(管庄店)",
+      "address": "管庄路与管庄西里路交叉口东南160米",
+      "distance": "5m"
+    },
+    {
+      "brand": "欧椰·海南椰子鸡(管庄店)",
+      "address": "管庄路与管庄西里路交叉口东南160米",
+      "distance": "5m"
+    },
+    {
+      "brand": "上海本帮浇头面(管庄店)",
+      "address": "管庄路与管庄西里路交叉口东南160米",
+      "distance": "7m"
+    },
+    {
+      "brand": "锡林郭勒·黄膘牛排(北京管庄小美好美食城第10档口店)",
+      "address": "管庄路与管庄西里路交叉口东南160米",
+      "distance": "8m"
+    },
+    {
+      "brand": "扈烤匠(管庄店)",
+      "address": "管庄路与管庄西里路交叉口东南160米",
+      "distance": "9m"
+    },
+    {
+      "brand": "嘎嘣香东北猪肉炖粉条",
+      "address": "管庄路与管庄西里路交叉口东南160米",
+      "distance": "9m"
+    },
+    {
+      "brand": "星悦黄焖鸡米饭(管庄店)",
+      "address": "管庄路与管庄西里路交叉口东南160米",
+      "distance": "9m"
+    },
+    {
+      "brand": "晨曦鲍鱼饭(常营店)",
+      "address": "管庄路65号",
+      "distance": "10m"
+    },
+    {
+      "brand": "孔雀记忆PHO越南粉·咖喱饭(第6档口小食光美食城)",
+      "address": "管庄路与管庄西里路交叉口东南160米",
+      "distance": "11m"
+    },
+    {
+      "brand": "锦州烧烤鲜肉现烤",
+      "address": "管庄路与管庄西里路交叉口东南160米",
+      "distance": "12m"
+    },
+    {
+      "brand": "HanBang韩式炸鸡·火鸡面(管庄店)",
+      "address": "管庄路与管庄西里路交叉口东南160米",
+      "distance": "5m"
+    },
+    {
+      "brand": "欧椰·海南椰子鸡(管庄店)",
+      "address": "管庄路与管庄西里路交叉口东南160米",
+      "distance": "5m"
+    },
+    {
+      "brand": "上海本帮浇头面(管庄店)",
+      "address": "管庄路与管庄西里路交叉口东南160米",
+      "distance": "7m"
+    },
+    {
+      "brand": "锡林郭勒·黄膘牛排(北京管庄小美好美食城第10档口店)",
+      "address": "管庄路与管庄西里路交叉口东南160米",
+      "distance": "8m"
+    },
+    {
+      "brand": "扈烤匠(管庄店)",
+      "address": "管庄路与管庄西里路交叉口东南160米",
+      "distance": "9m"
+    },
+    {
+      "brand": "嘎嘣香东北猪肉炖粉条",
+      "address": "管庄路与管庄西里路交叉口东南160米",
+      "distance": "9m"
+    },
+    {
+      "brand": "星悦黄焖鸡米饭(管庄店)",
+      "address": "管庄路与管庄西里路交叉口东南160米",
+      "distance": "9m"
+    },
+    {
+      "brand": "晨曦鲍鱼饭(常营店)",
+      "address": "管庄路65号",
+      "distance": "10m"
+    },
+    {
+      "brand": "孔雀记忆PHO越南粉·咖喱饭(第6档口小食光美食城)",
+      "address": "管庄路与管庄西里路交叉口东南160米",
+      "distance": "11m"
+    },
+    {
+      "brand": "锦州烧烤鲜肉现烤",
+      "address": "管庄路与管庄西里路交叉口东南160米",
+      "distance": "12m"
+    },
+    {
+      "brand": "HanBang韩式炸鸡·火鸡面(管庄店)",
+      "address": "管庄路与管庄西里路交叉口东南160米",
+      "distance": "5m"
+    },
+    {
+      "brand": "欧椰·海南椰子鸡(管庄店)",
+      "address": "管庄路与管庄西里路交叉口东南160米",
+      "distance": "5m"
+    },
+    {
+      "brand": "上海本帮浇头面(管庄店)",
+      "address": "管庄路与管庄西里路交叉口东南160米",
+      "distance": "7m"
+    },
+    {
+      "brand": "锡林郭勒·黄膘牛排(北京管庄小美好美食城第10档口店)",
+      "address": "管庄路与管庄西里路交叉口东南160米",
+      "distance": "8m"
+    },
+    {
+      "brand": "扈烤匠(管庄店)",
+      "address": "管庄路与管庄西里路交叉口东南160米",
+      "distance": "9m"
+    },
+    {
+      "brand": "嘎嘣香东北猪肉炖粉条",
+      "address": "管庄路与管庄西里路交叉口东南160米",
+      "distance": "9m"
+    },
+    {
+      "brand": "星悦黄焖鸡米饭(管庄店)",
+      "address": "管庄路与管庄西里路交叉口东南160米",
+      "distance": "9m"
+    },
+    {
+      "brand": "晨曦鲍鱼饭(常营店)",
+      "address": "管庄路65号",
+      "distance": "10m"
+    },
+    {
+      "brand": "孔雀记忆PHO越南粉·咖喱饭(第6档口小食光美食城)",
+      "address": "管庄路与管庄西里路交叉口东南160米",
+      "distance": "11m"
+    },
+    {
+      "brand": "锦州烧烤鲜肉现烤",
+      "address": "管庄路与管庄西里路交叉口东南160米",
+      "distance": "12m"
+    },
+    {
+      "brand": "HanBang韩式炸鸡·火鸡面(管庄店)",
+      "address": "管庄路与管庄西里路交叉口东南160米",
+      "distance": "5m"
+    },
+    {
+      "brand": "欧椰·海南椰子鸡(管庄店)",
+      "address": "管庄路与管庄西里路交叉口东南160米",
+      "distance": "5m"
+    },
+    {
+      "brand": "上海本帮浇头面(管庄店)",
+      "address": "管庄路与管庄西里路交叉口东南160米",
+      "distance": "7m"
+    },
+    {
+      "brand": "锡林郭勒·黄膘牛排(北京管庄小美好美食城第10档口店)",
+      "address": "管庄路与管庄西里路交叉口东南160米",
+      "distance": "8m"
+    },
+    {
+      "brand": "扈烤匠(管庄店)",
+      "address": "管庄路与管庄西里路交叉口东南160米",
+      "distance": "9m"
+    },
+    {
+      "brand": "嘎嘣香东北猪肉炖粉条",
+      "address": "管庄路与管庄西里路交叉口东南160米",
+      "distance": "9m"
+    },
+    {
+      "brand": "星悦黄焖鸡米饭(管庄店)",
+      "address": "管庄路与管庄西里路交叉口东南160米",
+      "distance": "9m"
+    },
+    {
+      "brand": "晨曦鲍鱼饭(常营店)",
+      "address": "管庄路65号",
+      "distance": "10m"
+    },
+    {
+      "brand": "孔雀记忆PHO越南粉·咖喱饭(第6档口小食光美食城)",
+      "address": "管庄路与管庄西里路交叉口东南160米",
+      "distance": "11m"
+    },
+    {
+      "brand": "锦州烧烤鲜肉现烤",
+      "address": "管庄路与管庄西里路交叉口东南160米",
+      "distance": "12m"
+    },
+    {
+      "brand": "HanBang韩式炸鸡·火鸡面(管庄店)",
+      "address": "管庄路与管庄西里路交叉口东南160米",
+      "distance": "5m"
+    },
+    {
+      "brand": "欧椰·海南椰子鸡(管庄店)",
+      "address": "管庄路与管庄西里路交叉口东南160米",
+      "distance": "5m"
+    },
+    {
+      "brand": "上海本帮浇头面(管庄店)",
+      "address": "管庄路与管庄西里路交叉口东南160米",
+      "distance": "7m"
+    },
+    {
+      "brand": "锡林郭勒·黄膘牛排(北京管庄小美好美食城第10档口店)",
+      "address": "管庄路与管庄西里路交叉口东南160米",
+      "distance": "8m"
+    },
+    {
+      "brand": "扈烤匠(管庄店)",
+      "address": "管庄路与管庄西里路交叉口东南160米",
+      "distance": "9m"
+    },
+    {
+      "brand": "嘎嘣香东北猪肉炖粉条",
+      "address": "管庄路与管庄西里路交叉口东南160米",
+      "distance": "9m"
+    },
+    {
+      "brand": "星悦黄焖鸡米饭(管庄店)",
+      "address": "管庄路与管庄西里路交叉口东南160米",
+      "distance": "9m"
+    },
+    {
+      "brand": "晨曦鲍鱼饭(常营店)",
+      "address": "管庄路65号",
+      "distance": "10m"
+    },
+    {
+      "brand": "孔雀记忆PHO越南粉·咖喱饭(第6档口小食光美食城)",
+      "address": "管庄路与管庄西里路交叉口东南160米",
+      "distance": "11m"
+    },
+    {
+      "brand": "锦州烧烤鲜肉现烤",
+      "address": "管庄路与管庄西里路交叉口东南160米",
+      "distance": "12m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "万鑫佰隆购物商城",
+      "open_date": "-",
+      "area": "-",
+      "jun_daily_avg": "12.4万人次",
+      "weekday_avg": "11.2万人次",
+      "holiday_avg": "15.6万人次"
+    },
+    {
+      "name": "北京枫尚奥特莱斯京通店",
+      "open_date": "2011-11-01",
+      "area": "1.9万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "陆港城",
+      "open_date": "2019-12-31",
+      "area": "-",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "龙湖北京长楹天街",
+      "open_date": "2014-12-02",
+      "area": "27万㎡",
+      "jun_daily_avg": "12.4万人次",
+      "weekday_avg": "11.2万人次",
+      "holiday_avg": "15.6万人次"
+    },
+    {
+      "name": "北京双桥2号MALL",
+      "open_date": "2027",
+      "area": "2.7万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "BHG Mall北京华联常营购物中心",
+      "open_date": "2013-08-01",
+      "area": "11万㎡",
+      "jun_daily_avg": "2.3万人次",
+      "weekday_avg": "2.1万人次",
+      "holiday_avg": "3.1万人次"
+    },
+    {
+      "name": "北京万达广场双桥店",
+      "open_date": "2020-12-24",
+      "area": "4.2万㎡",
+      "jun_daily_avg": "3.3万人次",
+      "weekday_avg": "3万人次",
+      "holiday_avg": "4万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 232.0,
+      "within_1yr_pct": 39.7,
+      "1_3yr_pct": 28.4,
+      "over_3yr_pct": 31.9
+    },
+    {
+      "type": "购物",
+      "count": 132.0,
+      "within_1yr_pct": 15.2,
+      "1_3yr_pct": 27.3,
+      "over_3yr_pct": 57.6
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 11.0,
+      "within_1yr_pct": 54.5,
+      "1_3yr_pct": 27.3,
+      "over_3yr_pct": 18.2
+    },
+    {
+      "type": "教育培训",
+      "count": 10.0,
+      "within_1yr_pct": 30.0,
+      "1_3yr_pct": 30.0,
+      "over_3yr_pct": 40.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 22.0,
+      "within_1yr_pct": 18.2,
+      "1_3yr_pct": 36.4,
+      "over_3yr_pct": 45.5
+    },
+    {
+      "type": "生活服务",
+      "count": 80.0,
+      "within_1yr_pct": 18.8,
+      "1_3yr_pct": 27.5,
+      "over_3yr_pct": 53.8
+    },
+    {
+      "type": "运动健身",
+      "count": 7.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 57.1,
+      "over_3yr_pct": 42.9
+    },
+    {
+      "type": "车辆服务",
+      "count": 7.0,
+      "within_1yr_pct": 42.9,
+      "1_3yr_pct": 42.9,
+      "over_3yr_pct": 14.3
+    }
+  ]
+}

@@ -1,0 +1,439 @@
+{
+  "name": "海天MALL",
+  "city": "青岛市",
+  "address": "山东省青岛市市南区延安三路234号",
+  "lat": 36.060966,
+  "lng": 120.375168,
+  "overview": {
+    "score": 77.2,
+    "score_rank": "市内前30%",
+    "population_score": 81.7,
+    "area_score": 79.0,
+    "consumption_score": 96.5,
+    "industry_score": 77.1,
+    "annual_sales": "青岛海航万邦中心是一个城市综合体，由一栋51层的甲级写字楼、一栋30层的全海景国际公寓和4层的国际风尚商业中心组成，定位为地标式城市综合体。项目总投资逾30亿人民币，总建筑面积约21.6万平方米，高度232.5米，由美国TsAO & McKWON建筑师事务所设计，公共空间由国际空间设计大师李玮珉亲自设计。商业裙房提供跨境优品、儿童娱乐/教育、餐饮美食、生活服务、个人护理、健身会所、休闲空间等业态，旨在打造国际型企业总部聚集地",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 3.8,
+    "open_date": "2012-01-01",
+    "operator": "海南海岛临空地产控股有限公司",
+    "brand": "",
+    "type": "美食型",
+    "floors": "B1-L4"
+  },
+  "traffic": {
+    "annual_daily": 3945.0,
+    "annual_daily_unit": "人次",
+    "annual_daily_rank": "市内第106",
+    "jun_total": 17.2,
+    "jun_total_rank": "市内商场第106名",
+    "jun_daily_avg": 5739.0,
+    "jun_daily_unit": "人次",
+    "jun_daily_rank": "市内商场第106名",
+    "weekday_avg": 6416.0,
+    "weekday_unit": "人次",
+    "weekday_rank": "市内商场第102名",
+    "holiday_avg": 3879.0,
+    "holiday_unit": "人次",
+    "holiday_rank": "市内商场第117名"
+  },
+  "population": {
+    "residential": {
+      "500m": 1.1,
+      "1_5km": 8.1,
+      "3km": 37.8
+    },
+    "office": {
+      "500m": 2.2,
+      "1_5km": 11.6,
+      "3km": 31.4
+    },
+    "permanent": {
+      "500m": 1.5,
+      "1_5km": 13.7,
+      "3km": 45.1
+    }
+  },
+  "business": {
+    "competitors": 2.0,
+    "food": 207.0,
+    "shopping": 108.0,
+    "leisure": 15.0,
+    "education": 29.0,
+    "hotel": 107.0,
+    "services": 151.0,
+    "fitness": 19.0,
+    "auto": 26.0,
+    "total_stores": 53.0,
+    "old_store_3yr_pct": 40.0
+  },
+  "nearby_poi": {
+    "business": 5.0,
+    "community": 327.0,
+    "office": 68.0,
+    "school": 20.0,
+    "hospital": 170.0,
+    "transport": 11.0,
+    "scenic": 383.0
+  },
+  "demographics": {
+    "male_pct": 50.6,
+    "female_pct": null,
+    "education": {
+      "小学": 9.8,
+      "初中": 16.4,
+      "高中": 12.6,
+      "大专": 9.2,
+      "本科": 46.1,
+      "硕士": 4.5,
+      "博士": 1.4
+    },
+    "has_children_pct": 57.6,
+    "no_children_pct": 42.4
+  },
+  "scraped_at": "2026-08-02T09:53:34.733Z",
+  "nearby_restaurants": [
+    {
+      "brand": "石三么烤鱼",
+      "address": "延安三路234号青岛万邦购物中心",
+      "distance": "5m"
+    },
+    {
+      "brand": "背包十年咖啡",
+      "address": "香港中路2号青岛万邦中心",
+      "distance": "7m"
+    },
+    {
+      "brand": "赛百味(青岛万邦中心店)",
+      "address": "延安三路234号青岛万邦中心商业区L1层",
+      "distance": "7m"
+    },
+    {
+      "brand": "慧集山野·奶茶咖啡糖水",
+      "address": "延安三路234号(延安三路地铁站C口旁)",
+      "distance": "8m"
+    },
+    {
+      "brand": "麦香禾八宝粥(万家荟生活港店)",
+      "address": "延安三路234号青岛万邦购物中心B1层",
+      "distance": "13m"
+    },
+    {
+      "brand": "年年旺串串(市南店)",
+      "address": "香港中路2号青岛万邦中心B1层",
+      "distance": "13m"
+    },
+    {
+      "brand": "黄金炒坊蛋炒饭",
+      "address": "香港中路2号青岛万邦中心",
+      "distance": "13m"
+    },
+    {
+      "brand": "米小线砂锅米线",
+      "address": "香港中路2号青岛万邦中心B1层",
+      "distance": "16m"
+    },
+    {
+      "brand": "料多多米线",
+      "address": "香港中路2号青岛万邦中心",
+      "distance": "17m"
+    },
+    {
+      "brand": "徐诺捞汁麻辣小海鲜",
+      "address": "延安三路234号青岛万邦购物中心B1层",
+      "distance": "17m"
+    },
+    {
+      "brand": "石三么烤鱼",
+      "address": "延安三路234号青岛万邦购物中心",
+      "distance": "5m"
+    },
+    {
+      "brand": "背包十年咖啡",
+      "address": "香港中路2号青岛万邦中心",
+      "distance": "7m"
+    },
+    {
+      "brand": "赛百味(青岛万邦中心店)",
+      "address": "延安三路234号青岛万邦中心商业区L1层",
+      "distance": "7m"
+    },
+    {
+      "brand": "慧集山野·奶茶咖啡糖水",
+      "address": "延安三路234号(延安三路地铁站C口旁)",
+      "distance": "8m"
+    },
+    {
+      "brand": "麦香禾八宝粥(万家荟生活港店)",
+      "address": "延安三路234号青岛万邦购物中心B1层",
+      "distance": "13m"
+    },
+    {
+      "brand": "年年旺串串(市南店)",
+      "address": "香港中路2号青岛万邦中心B1层",
+      "distance": "13m"
+    },
+    {
+      "brand": "黄金炒坊蛋炒饭",
+      "address": "香港中路2号青岛万邦中心",
+      "distance": "13m"
+    },
+    {
+      "brand": "米小线砂锅米线",
+      "address": "香港中路2号青岛万邦中心B1层",
+      "distance": "16m"
+    },
+    {
+      "brand": "料多多米线",
+      "address": "香港中路2号青岛万邦中心",
+      "distance": "17m"
+    },
+    {
+      "brand": "徐诺捞汁麻辣小海鲜",
+      "address": "延安三路234号青岛万邦购物中心B1层",
+      "distance": "17m"
+    },
+    {
+      "brand": "石三么烤鱼",
+      "address": "延安三路234号青岛万邦购物中心",
+      "distance": "5m"
+    },
+    {
+      "brand": "背包十年咖啡",
+      "address": "香港中路2号青岛万邦中心",
+      "distance": "7m"
+    },
+    {
+      "brand": "赛百味(青岛万邦中心店)",
+      "address": "延安三路234号青岛万邦中心商业区L1层",
+      "distance": "7m"
+    },
+    {
+      "brand": "慧集山野·奶茶咖啡糖水",
+      "address": "延安三路234号(延安三路地铁站C口旁)",
+      "distance": "8m"
+    },
+    {
+      "brand": "麦香禾八宝粥(万家荟生活港店)",
+      "address": "延安三路234号青岛万邦购物中心B1层",
+      "distance": "13m"
+    },
+    {
+      "brand": "年年旺串串(市南店)",
+      "address": "香港中路2号青岛万邦中心B1层",
+      "distance": "13m"
+    },
+    {
+      "brand": "黄金炒坊蛋炒饭",
+      "address": "香港中路2号青岛万邦中心",
+      "distance": "13m"
+    },
+    {
+      "brand": "米小线砂锅米线",
+      "address": "香港中路2号青岛万邦中心B1层",
+      "distance": "16m"
+    },
+    {
+      "brand": "料多多米线",
+      "address": "香港中路2号青岛万邦中心",
+      "distance": "17m"
+    },
+    {
+      "brand": "徐诺捞汁麻辣小海鲜",
+      "address": "延安三路234号青岛万邦购物中心B1层",
+      "distance": "17m"
+    },
+    {
+      "brand": "石三么烤鱼",
+      "address": "延安三路234号青岛万邦购物中心",
+      "distance": "5m"
+    },
+    {
+      "brand": "背包十年咖啡",
+      "address": "香港中路2号青岛万邦中心",
+      "distance": "7m"
+    },
+    {
+      "brand": "赛百味(青岛万邦中心店)",
+      "address": "延安三路234号青岛万邦中心商业区L1层",
+      "distance": "7m"
+    },
+    {
+      "brand": "慧集山野·奶茶咖啡糖水",
+      "address": "延安三路234号(延安三路地铁站C口旁)",
+      "distance": "8m"
+    },
+    {
+      "brand": "麦香禾八宝粥(万家荟生活港店)",
+      "address": "延安三路234号青岛万邦购物中心B1层",
+      "distance": "13m"
+    },
+    {
+      "brand": "年年旺串串(市南店)",
+      "address": "香港中路2号青岛万邦中心B1层",
+      "distance": "13m"
+    },
+    {
+      "brand": "黄金炒坊蛋炒饭",
+      "address": "香港中路2号青岛万邦中心",
+      "distance": "13m"
+    },
+    {
+      "brand": "米小线砂锅米线",
+      "address": "香港中路2号青岛万邦中心B1层",
+      "distance": "16m"
+    },
+    {
+      "brand": "料多多米线",
+      "address": "香港中路2号青岛万邦中心",
+      "distance": "17m"
+    },
+    {
+      "brand": "徐诺捞汁麻辣小海鲜",
+      "address": "延安三路234号青岛万邦购物中心B1层",
+      "distance": "17m"
+    },
+    {
+      "brand": "石三么烤鱼",
+      "address": "延安三路234号青岛万邦购物中心",
+      "distance": "5m"
+    },
+    {
+      "brand": "背包十年咖啡",
+      "address": "香港中路2号青岛万邦中心",
+      "distance": "7m"
+    },
+    {
+      "brand": "赛百味(青岛万邦中心店)",
+      "address": "延安三路234号青岛万邦中心商业区L1层",
+      "distance": "7m"
+    },
+    {
+      "brand": "慧集山野·奶茶咖啡糖水",
+      "address": "延安三路234号(延安三路地铁站C口旁)",
+      "distance": "8m"
+    },
+    {
+      "brand": "麦香禾八宝粥(万家荟生活港店)",
+      "address": "延安三路234号青岛万邦购物中心B1层",
+      "distance": "13m"
+    },
+    {
+      "brand": "年年旺串串(市南店)",
+      "address": "香港中路2号青岛万邦中心B1层",
+      "distance": "13m"
+    },
+    {
+      "brand": "黄金炒坊蛋炒饭",
+      "address": "香港中路2号青岛万邦中心",
+      "distance": "13m"
+    },
+    {
+      "brand": "米小线砂锅米线",
+      "address": "香港中路2号青岛万邦中心B1层",
+      "distance": "16m"
+    },
+    {
+      "brand": "料多多米线",
+      "address": "香港中路2号青岛万邦中心",
+      "distance": "17m"
+    },
+    {
+      "brand": "徐诺捞汁麻辣小海鲜",
+      "address": "延安三路234号青岛万邦购物中心B1层",
+      "distance": "17m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "青岛海天MALL",
+      "open_date": "2021-08-28",
+      "area": "3万㎡",
+      "jun_daily_avg": "2.5万人次",
+      "weekday_avg": "2.5万人次",
+      "holiday_avg": "2.5万人次"
+    },
+    {
+      "name": "青岛华润万象城",
+      "open_date": "2015-04-01",
+      "area": "36.3万㎡",
+      "jun_daily_avg": "16.2万人次",
+      "weekday_avg": "14.5万人次",
+      "holiday_avg": "20.8万人次"
+    },
+    {
+      "name": "青岛远雄未来广场",
+      "open_date": "2011-02-27",
+      "area": "3.5万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "阳光百货(C入口)",
+      "open_date": "2003-09-29",
+      "area": "3万㎡",
+      "jun_daily_avg": "2.4万人次",
+      "weekday_avg": "2.5万人次",
+      "holiday_avg": "2.3万人次"
+    },
+    {
+      "name": "青岛百丽广场",
+      "open_date": "2010-04-01",
+      "area": "8.6万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 16.0,
+      "within_1yr_pct": 62.5,
+      "1_3yr_pct": 12.5,
+      "over_3yr_pct": 25.0
+    },
+    {
+      "type": "购物",
+      "count": 5.0,
+      "within_1yr_pct": 40.0,
+      "1_3yr_pct": 60.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "教育培训",
+      "count": 8.0,
+      "within_1yr_pct": 12.5,
+      "1_3yr_pct": 37.5,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 3.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 66.7,
+      "over_3yr_pct": 33.3
+    },
+    {
+      "type": "生活服务",
+      "count": 13.0,
+      "within_1yr_pct": 23.1,
+      "1_3yr_pct": 15.4,
+      "over_3yr_pct": 61.5
+    },
+    {
+      "type": "运动健身",
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 6.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 66.7,
+      "over_3yr_pct": 33.3
+    }
+  ]
+}

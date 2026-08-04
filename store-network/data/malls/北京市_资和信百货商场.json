@@ -1,0 +1,202 @@
+{
+  "name": "资和信百货商场",
+  "city": "北京市",
+  "address": "北京市顺义区新顺南大街2号(顺义地铁站D西南口步行470米)",
+  "lat": 40.128434,
+  "lng": 116.654928,
+  "overview": {
+    "score": 80.4,
+    "score_rank": "市内前30%",
+    "population_score": 73.1,
+    "area_score": 97.6,
+    "consumption_score": 65.3,
+    "industry_score": 80.3,
+    "annual_sales": "国泰商业大厦是一家集购物、餐饮、娱乐、休闲为一体的多业态、多功能、多元化经营的现代化大型百货公司。大厦于1993年11月落成开业。其建筑与内部装修、装饰采用国际国内名家设计理念，既高贵典雅，又体现出大众时尚风范。",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 3.3,
+    "open_date": "1993-11-28",
+    "operator": "北京顺义商业集团有限公司",
+    "brand": "",
+    "type": "购物型",
+    "floors": "B1-L6"
+  },
+  "traffic": {
+    "annual_daily": 2438.0,
+    "annual_daily_unit": "人次",
+    "annual_daily_rank": "市内第304",
+    "jun_total": null,
+    "jun_total_rank": "",
+    "jun_daily_avg": null,
+    "jun_daily_unit": "",
+    "jun_daily_rank": "",
+    "weekday_avg": 1690.0,
+    "weekday_unit": "人次",
+    "weekday_rank": "市内商场第340名",
+    "holiday_avg": 2393.0,
+    "holiday_unit": "人次",
+    "holiday_rank": "市内商场第329名"
+  },
+  "population": {
+    "residential": {
+      "500m": 8700.0,
+      "1_5km": 12.9,
+      "3km": 30.7
+    },
+    "office": {
+      "500m": 1.7,
+      "1_5km": 6.7,
+      "3km": 14.2
+    },
+    "permanent": {
+      "500m": 2.0,
+      "1_5km": 13.9,
+      "3km": 30.8
+    }
+  },
+  "business": {
+    "competitors": 7.0,
+    "food": 384.0,
+    "shopping": 410.0,
+    "leisure": 37.0,
+    "education": 29.0,
+    "hotel": 11.0,
+    "services": 175.0,
+    "fitness": 18.0,
+    "auto": 22.0,
+    "total_stores": 51.0,
+    "old_store_3yr_pct": 31.0
+  },
+  "nearby_poi": {
+    "business": 10.0,
+    "community": 119.0,
+    "office": 9.0,
+    "school": 31.0,
+    "hospital": 45.0,
+    "transport": 13.0,
+    "scenic": 53.0
+  },
+  "demographics": {
+    "male_pct": null,
+    "female_pct": null,
+    "education": {
+      "小学": 8.7,
+      "初中": 15.6,
+      "高中": 10.3,
+      "大专": 7.8,
+      "本科": 51.1,
+      "硕士": 5.4,
+      "博士": 1.1
+    },
+    "has_children_pct": 68.8,
+    "no_children_pct": 31.2
+  },
+  "scraped_at": "2026-08-01T11:53:50.148Z",
+  "nearby_restaurants": [
+    {
+      "brand": "口水鸡排(锦荟港店)",
+      "address": "北京城区胜利街道锦荟港四层",
+      "distance": "487m"
+    },
+    {
+      "brand": "蜜雪冰城(锦荟港店)",
+      "address": "站前街3号院1号楼1层102-008室",
+      "distance": "493m"
+    },
+    {
+      "brand": "瑞幸咖啡(锦荟港店)",
+      "address": "北京城区站前东街锦荟港一层",
+      "distance": "495m"
+    },
+    {
+      "brand": "上山斋",
+      "address": "北京城区站前北街80号",
+      "distance": "496m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "北京顺义锦荟港亲子娱乐购物中心",
+      "open_date": "2021-11-01",
+      "area": "6.8万㎡",
+      "jun_daily_avg": "1.5万人次",
+      "weekday_avg": "1.3万人次",
+      "holiday_avg": "2万人次"
+    },
+    {
+      "name": "北京隆华奥特莱斯购物广场",
+      "open_date": "2012-10-01",
+      "area": "1.5万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "北京聚乐汇",
+      "open_date": "2014-06-01",
+      "area": "1.1万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "北京京汉生活广场",
+      "open_date": "2011-09-25",
+      "area": "6万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "北京卧龙悦购时代购物中心(前进花园玉兰苑店)",
+      "open_date": "2024-01-01",
+      "area": "2.3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 24.0,
+      "within_1yr_pct": 62.5,
+      "1_3yr_pct": 4.2,
+      "over_3yr_pct": 33.3
+    },
+    {
+      "type": "购物",
+      "count": 21.0,
+      "within_1yr_pct": 23.8,
+      "1_3yr_pct": 38.1,
+      "over_3yr_pct": 38.1
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 3.0,
+      "within_1yr_pct": 66.7,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "教育培训",
+      "count": 1.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "生活服务",
+      "count": 1.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "运动健身",
+      "count": 1.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
+    }
+  ]
+}

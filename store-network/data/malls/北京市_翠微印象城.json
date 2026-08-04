@@ -1,0 +1,423 @@
+{
+  "name": "翠微印象城",
+  "city": "北京市",
+  "address": "北京市海淀区翠微路12号院",
+  "lat": 39.912347,
+  "lng": 116.303335,
+  "overview": {
+    "score": 94.9,
+    "score_rank": "市内前30%",
+    "population_score": 100.0,
+    "area_score": 89.3,
+    "consumption_score": 85.8,
+    "industry_score": 94.9,
+    "annual_sales": "北京印象城座落于北京市海淀区翠微路，位处公主坟商圈区域，东临西三环主干道，向南通向长安街西沿线。地铁1号线与购物中心咫尺相连。商场周边军队大院、机关单位及教育机构等高素质人群密布，5公里内高档社区成群，辐射人口数近177万。，东西两个大天井的设计，让这个中型体量的购物中心拥有十分舒适的动线。",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 7.0,
+    "open_date": "2010-01-01",
+    "operator": "印力商用置业有限公司",
+    "brand": "印力",
+    "type": "美食型",
+    "floors": "B1-L4"
+  },
+  "traffic": {
+    "annual_daily": 3.39,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第56",
+    "jun_total": 143.5,
+    "jun_total_rank": "市内商场第59名",
+    "jun_daily_avg": 4.8,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第59名",
+    "weekday_avg": 4.4,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第56名",
+    "holiday_avg": 5.9,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第54名"
+  },
+  "population": {
+    "residential": {
+      "500m": 4.0,
+      "1_5km": 16.6,
+      "3km": 73.8
+    },
+    "office": {
+      "500m": 2.1,
+      "1_5km": 12.0,
+      "3km": 51.3
+    },
+    "permanent": {
+      "500m": 4.2,
+      "1_5km": 18.1,
+      "3km": 81.2
+    }
+  },
+  "business": {
+    "competitors": 4.0,
+    "food": 174.0,
+    "shopping": 292.0,
+    "leisure": 14.0,
+    "education": 49.0,
+    "hotel": 13.0,
+    "services": 177.0,
+    "fitness": 12.0,
+    "auto": 16.0,
+    "total_stores": 183.0,
+    "old_store_3yr_pct": 47.0
+  },
+  "nearby_poi": {
+    "business": 3.0,
+    "community": 415.0,
+    "office": 40.0,
+    "school": 34.0,
+    "hospital": 64.0,
+    "transport": 9.0,
+    "scenic": 167.0
+  },
+  "demographics": {
+    "male_pct": 48.1,
+    "female_pct": null,
+    "education": {
+      "小学": 6.5,
+      "初中": 12.7,
+      "高中": 16.1,
+      "大专": 4.1,
+      "本科": 46.5,
+      "硕士": 10.6,
+      "博士": 3.5
+    },
+    "has_children_pct": 59.5,
+    "no_children_pct": 40.5
+  },
+  "scraped_at": "2026-07-31T12:09:45.547Z",
+  "nearby_restaurants": [
+    {
+      "brand": "萨莉亚意式餐厅(翠微印象城店)",
+      "address": "翠微路12号印象城(翠微店)B1层",
+      "distance": "7m"
+    },
+    {
+      "brand": "农小锅(北京翠微印象城店)",
+      "address": "北京城区翠微路12号印象城(翠微店)B1层",
+      "distance": "11m"
+    },
+    {
+      "brand": "大盐帮自贡川菜馆(翠微印象城店)",
+      "address": "翠微路12号印象城翠微店F4层",
+      "distance": "12m"
+    },
+    {
+      "brand": "村上一屋(公主坟印象城店)",
+      "address": "翠微路12号印象城商场F4(海底捞对面)",
+      "distance": "12m"
+    },
+    {
+      "brand": "三出岭松针蒸饺·东北菜(翠微印象城店)",
+      "address": "翠微路12号印象城4层507",
+      "distance": "12m"
+    },
+    {
+      "brand": "方砖厂69号炸酱面(翠微印象城店)",
+      "address": "北京城区翠微路12号院翠微印象城4层507号",
+      "distance": "12m"
+    },
+    {
+      "brand": "野鸡枞",
+      "address": "北京城区北京城区印象城4层04-45A",
+      "distance": "12m"
+    },
+    {
+      "brand": "南学长首尔自助烤肉(印象城北京首店)",
+      "address": "北京城区印象城4层西北角",
+      "distance": "12m"
+    },
+    {
+      "brand": "珍珠冰淇淋(印象城翠微店)",
+      "address": "玉渊潭南路与普惠西街交叉口西南120米",
+      "distance": "12m"
+    },
+    {
+      "brand": "老北京炸酱面",
+      "address": "玉渊潭南路与普惠西街交叉口西南120米",
+      "distance": "12m"
+    },
+    {
+      "brand": "萨莉亚意式餐厅(翠微印象城店)",
+      "address": "翠微路12号印象城(翠微店)B1层",
+      "distance": "7m"
+    },
+    {
+      "brand": "农小锅(北京翠微印象城店)",
+      "address": "北京城区翠微路12号印象城(翠微店)B1层",
+      "distance": "11m"
+    },
+    {
+      "brand": "大盐帮自贡川菜馆(翠微印象城店)",
+      "address": "翠微路12号印象城翠微店F4层",
+      "distance": "12m"
+    },
+    {
+      "brand": "村上一屋(公主坟印象城店)",
+      "address": "翠微路12号印象城商场F4(海底捞对面)",
+      "distance": "12m"
+    },
+    {
+      "brand": "三出岭松针蒸饺·东北菜(翠微印象城店)",
+      "address": "翠微路12号印象城4层507",
+      "distance": "12m"
+    },
+    {
+      "brand": "方砖厂69号炸酱面(翠微印象城店)",
+      "address": "北京城区翠微路12号院翠微印象城4层507号",
+      "distance": "12m"
+    },
+    {
+      "brand": "野鸡枞",
+      "address": "北京城区北京城区印象城4层04-45A",
+      "distance": "12m"
+    },
+    {
+      "brand": "南学长首尔自助烤肉(印象城北京首店)",
+      "address": "北京城区印象城4层西北角",
+      "distance": "12m"
+    },
+    {
+      "brand": "珍珠冰淇淋(印象城翠微店)",
+      "address": "玉渊潭南路与普惠西街交叉口西南120米",
+      "distance": "12m"
+    },
+    {
+      "brand": "老北京炸酱面",
+      "address": "玉渊潭南路与普惠西街交叉口西南120米",
+      "distance": "12m"
+    },
+    {
+      "brand": "萨莉亚意式餐厅(翠微印象城店)",
+      "address": "翠微路12号印象城(翠微店)B1层",
+      "distance": "7m"
+    },
+    {
+      "brand": "农小锅(北京翠微印象城店)",
+      "address": "北京城区翠微路12号印象城(翠微店)B1层",
+      "distance": "11m"
+    },
+    {
+      "brand": "大盐帮自贡川菜馆(翠微印象城店)",
+      "address": "翠微路12号印象城翠微店F4层",
+      "distance": "12m"
+    },
+    {
+      "brand": "村上一屋(公主坟印象城店)",
+      "address": "翠微路12号印象城商场F4(海底捞对面)",
+      "distance": "12m"
+    },
+    {
+      "brand": "三出岭松针蒸饺·东北菜(翠微印象城店)",
+      "address": "翠微路12号印象城4层507",
+      "distance": "12m"
+    },
+    {
+      "brand": "方砖厂69号炸酱面(翠微印象城店)",
+      "address": "北京城区翠微路12号院翠微印象城4层507号",
+      "distance": "12m"
+    },
+    {
+      "brand": "野鸡枞",
+      "address": "北京城区北京城区印象城4层04-45A",
+      "distance": "12m"
+    },
+    {
+      "brand": "南学长首尔自助烤肉(印象城北京首店)",
+      "address": "北京城区印象城4层西北角",
+      "distance": "12m"
+    },
+    {
+      "brand": "珍珠冰淇淋(印象城翠微店)",
+      "address": "玉渊潭南路与普惠西街交叉口西南120米",
+      "distance": "12m"
+    },
+    {
+      "brand": "老北京炸酱面",
+      "address": "玉渊潭南路与普惠西街交叉口西南120米",
+      "distance": "12m"
+    },
+    {
+      "brand": "萨莉亚意式餐厅(翠微印象城店)",
+      "address": "翠微路12号印象城(翠微店)B1层",
+      "distance": "7m"
+    },
+    {
+      "brand": "农小锅(北京翠微印象城店)",
+      "address": "北京城区翠微路12号印象城(翠微店)B1层",
+      "distance": "11m"
+    },
+    {
+      "brand": "大盐帮自贡川菜馆(翠微印象城店)",
+      "address": "翠微路12号印象城翠微店F4层",
+      "distance": "12m"
+    },
+    {
+      "brand": "村上一屋(公主坟印象城店)",
+      "address": "翠微路12号印象城商场F4(海底捞对面)",
+      "distance": "12m"
+    },
+    {
+      "brand": "三出岭松针蒸饺·东北菜(翠微印象城店)",
+      "address": "翠微路12号印象城4层507",
+      "distance": "12m"
+    },
+    {
+      "brand": "方砖厂69号炸酱面(翠微印象城店)",
+      "address": "北京城区翠微路12号院翠微印象城4层507号",
+      "distance": "12m"
+    },
+    {
+      "brand": "野鸡枞",
+      "address": "北京城区北京城区印象城4层04-45A",
+      "distance": "12m"
+    },
+    {
+      "brand": "南学长首尔自助烤肉(印象城北京首店)",
+      "address": "北京城区印象城4层西北角",
+      "distance": "12m"
+    },
+    {
+      "brand": "珍珠冰淇淋(印象城翠微店)",
+      "address": "玉渊潭南路与普惠西街交叉口西南120米",
+      "distance": "12m"
+    },
+    {
+      "brand": "老北京炸酱面",
+      "address": "玉渊潭南路与普惠西街交叉口西南120米",
+      "distance": "12m"
+    },
+    {
+      "brand": "萨莉亚意式餐厅(翠微印象城店)",
+      "address": "翠微路12号印象城(翠微店)B1层",
+      "distance": "7m"
+    },
+    {
+      "brand": "农小锅(北京翠微印象城店)",
+      "address": "北京城区翠微路12号印象城(翠微店)B1层",
+      "distance": "11m"
+    },
+    {
+      "brand": "大盐帮自贡川菜馆(翠微印象城店)",
+      "address": "翠微路12号印象城翠微店F4层",
+      "distance": "12m"
+    },
+    {
+      "brand": "村上一屋(公主坟印象城店)",
+      "address": "翠微路12号印象城商场F4(海底捞对面)",
+      "distance": "12m"
+    },
+    {
+      "brand": "三出岭松针蒸饺·东北菜(翠微印象城店)",
+      "address": "翠微路12号印象城4层507",
+      "distance": "12m"
+    },
+    {
+      "brand": "方砖厂69号炸酱面(翠微印象城店)",
+      "address": "北京城区翠微路12号院翠微印象城4层507号",
+      "distance": "12m"
+    },
+    {
+      "brand": "野鸡枞",
+      "address": "北京城区北京城区印象城4层04-45A",
+      "distance": "12m"
+    },
+    {
+      "brand": "南学长首尔自助烤肉(印象城北京首店)",
+      "address": "北京城区印象城4层西北角",
+      "distance": "12m"
+    },
+    {
+      "brand": "珍珠冰淇淋(印象城翠微店)",
+      "address": "玉渊潭南路与普惠西街交叉口西南120米",
+      "distance": "12m"
+    },
+    {
+      "brand": "老北京炸酱面",
+      "address": "玉渊潭南路与普惠西街交叉口西南120米",
+      "distance": "12m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "北京翠微百货(翠微店)",
+      "open_date": "1997-11-18",
+      "area": "6.5万㎡",
+      "jun_daily_avg": "4.9万人次",
+      "weekday_avg": "4.7万人次",
+      "holiday_avg": "5.5万人次"
+    },
+    {
+      "name": "北京城乡购物中心",
+      "open_date": "1992-01-18",
+      "area": "5.4万㎡",
+      "jun_daily_avg": "4.2万人次",
+      "weekday_avg": "4万人次",
+      "holiday_avg": "4.7万人次"
+    },
+    {
+      "name": "北京凯德晶品购物中心",
+      "open_date": "2012-10-19",
+      "area": "7.2万㎡",
+      "jun_daily_avg": "3.9万人次",
+      "weekday_avg": "3.7万人次",
+      "holiday_avg": "4.7万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 83.0,
+      "within_1yr_pct": 20.5,
+      "1_3yr_pct": 33.7,
+      "over_3yr_pct": 45.8
+    },
+    {
+      "type": "购物",
+      "count": 48.0,
+      "within_1yr_pct": 14.6,
+      "1_3yr_pct": 35.4,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 9.0,
+      "within_1yr_pct": 11.1,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 55.6
+    },
+    {
+      "type": "教育培训",
+      "count": 13.0,
+      "within_1yr_pct": 15.4,
+      "1_3yr_pct": 61.5,
+      "over_3yr_pct": 23.1
+    },
+    {
+      "type": "生活服务",
+      "count": 25.0,
+      "within_1yr_pct": 24.0,
+      "1_3yr_pct": 24.0,
+      "over_3yr_pct": 52.0
+    },
+    {
+      "type": "运动健身",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 4.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 75.0
+    }
+  ]
+}

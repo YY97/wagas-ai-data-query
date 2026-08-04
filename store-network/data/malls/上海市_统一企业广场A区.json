@@ -1,0 +1,454 @@
+{
+  "name": "统一企业广场A区",
+  "city": "上海市",
+  "address": "上海市长宁区新泾镇淞虹路564号统一梦时代大厦",
+  "lat": 31.219244,
+  "lng": 121.360753,
+  "overview": {
+    "score": 79.7,
+    "score_rank": "市内前30%",
+    "population_score": 88.0,
+    "area_score": 87.9,
+    "consumption_score": 74.0,
+    "industry_score": 79.6,
+    "annual_sales": "",
+    "annual_sales_unit": "",
+    "area_size_sqm": null,
+    "open_date": "",
+    "operator": "",
+    "brand": "",
+    "type": "",
+    "floors": ""
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "",
+    "annual_daily_rank": "",
+    "jun_total": null,
+    "jun_total_rank": "",
+    "jun_daily_avg": null,
+    "jun_daily_unit": "",
+    "jun_daily_rank": "",
+    "weekday_avg": null,
+    "weekday_unit": "",
+    "weekday_rank": "",
+    "holiday_avg": null,
+    "holiday_unit": "",
+    "holiday_rank": ""
+  },
+  "population": {
+    "residential": {
+      "500m": 2.2,
+      "1_5km": 17.1,
+      "3km": 49.8
+    },
+    "office": {
+      "500m": 2.8,
+      "1_5km": 13.5,
+      "3km": 35.0
+    },
+    "permanent": {
+      "500m": 2.6,
+      "1_5km": 18.1,
+      "3km": 51.5
+    }
+  },
+  "business": {
+    "competitors": 12.0,
+    "food": 341.0,
+    "shopping": 238.0,
+    "leisure": 17.0,
+    "education": 21.0,
+    "hotel": 15.0,
+    "services": 123.0,
+    "fitness": 37.0,
+    "auto": 27.0,
+    "total_stores": 822.0,
+    "old_store_3yr_pct": 33.0
+  },
+  "nearby_poi": {
+    "business": 6.0,
+    "community": 306.0,
+    "office": 74.0,
+    "school": 30.0,
+    "hospital": 51.0,
+    "transport": 11.0,
+    "scenic": 144.0
+  },
+  "demographics": {
+    "male_pct": 47.8,
+    "female_pct": null,
+    "education": {
+      "小学": 9.2,
+      "初中": 16.8,
+      "高中": 10.9,
+      "大专": 7.4,
+      "本科": 48.8,
+      "硕士": 5.2,
+      "博士": 1.7
+    },
+    "has_children_pct": null,
+    "no_children_pct": null
+  },
+  "scraped_at": "2026-07-31T12:09:02.817Z",
+  "nearby_restaurants": [
+    {
+      "brand": "珍饺芙人米饺",
+      "address": "天山西路568号1幢104-3室(珍饺芙人米饺)",
+      "distance": "20m"
+    },
+    {
+      "brand": "星巴克(统一企业大厦店)",
+      "address": "天山西路568号统一企业大厦1幢1层105-106室",
+      "distance": "22m"
+    },
+    {
+      "brand": "TPLUS茶家(淞虹店)",
+      "address": "天山西路568号104-1室(淞虹路地铁站1号口步行70米)",
+      "distance": "23m"
+    },
+    {
+      "brand": "粥皇港式茶餐厅(大融城店)",
+      "address": "天山西路568号1幢104-5室",
+      "distance": "25m"
+    },
+    {
+      "brand": "大眼包子(天山西路2店)",
+      "address": "新泾镇天山西路568号统一梦时代大厦B1层",
+      "distance": "27m"
+    },
+    {
+      "brand": "沙野轻食(长宁天会店)",
+      "address": "统一大厦天山西路568号104",
+      "distance": "31m"
+    },
+    {
+      "brand": "于大侠隆江猪脚饭(统一梦时代大厦店)",
+      "address": "天山西路与淞虹路交叉口西北100米",
+      "distance": "37m"
+    },
+    {
+      "brand": "龙文米粉(淞虹路店)",
+      "address": "天山西路568号B区102-3(淞虹路地铁站1号口旁)",
+      "distance": "37m"
+    },
+    {
+      "brand": "陈氏稻香世家智选餐厅(晨讯科技大楼B楼店)",
+      "address": "金钟路633号晨讯科技大楼B楼F1层",
+      "distance": "86m"
+    },
+    {
+      "brand": "盖饭湘长沙菜馆",
+      "address": "金钟路633号晨讯科技大楼B楼",
+      "distance": "106m"
+    },
+    {
+      "brand": "珍饺芙人米饺",
+      "address": "天山西路568号1幢104-3室(珍饺芙人米饺)",
+      "distance": "20m"
+    },
+    {
+      "brand": "星巴克(统一企业大厦店)",
+      "address": "天山西路568号统一企业大厦1幢1层105-106室",
+      "distance": "22m"
+    },
+    {
+      "brand": "TPLUS茶家(淞虹店)",
+      "address": "天山西路568号104-1室(淞虹路地铁站1号口步行70米)",
+      "distance": "23m"
+    },
+    {
+      "brand": "粥皇港式茶餐厅(大融城店)",
+      "address": "天山西路568号1幢104-5室",
+      "distance": "25m"
+    },
+    {
+      "brand": "大眼包子(天山西路2店)",
+      "address": "新泾镇天山西路568号统一梦时代大厦B1层",
+      "distance": "27m"
+    },
+    {
+      "brand": "沙野轻食(长宁天会店)",
+      "address": "统一大厦天山西路568号104",
+      "distance": "31m"
+    },
+    {
+      "brand": "于大侠隆江猪脚饭(统一梦时代大厦店)",
+      "address": "天山西路与淞虹路交叉口西北100米",
+      "distance": "37m"
+    },
+    {
+      "brand": "龙文米粉(淞虹路店)",
+      "address": "天山西路568号B区102-3(淞虹路地铁站1号口旁)",
+      "distance": "37m"
+    },
+    {
+      "brand": "陈氏稻香世家智选餐厅(晨讯科技大楼B楼店)",
+      "address": "金钟路633号晨讯科技大楼B楼F1层",
+      "distance": "86m"
+    },
+    {
+      "brand": "盖饭湘长沙菜馆",
+      "address": "金钟路633号晨讯科技大楼B楼",
+      "distance": "106m"
+    },
+    {
+      "brand": "珍饺芙人米饺",
+      "address": "天山西路568号1幢104-3室(珍饺芙人米饺)",
+      "distance": "20m"
+    },
+    {
+      "brand": "星巴克(统一企业大厦店)",
+      "address": "天山西路568号统一企业大厦1幢1层105-106室",
+      "distance": "22m"
+    },
+    {
+      "brand": "TPLUS茶家(淞虹店)",
+      "address": "天山西路568号104-1室(淞虹路地铁站1号口步行70米)",
+      "distance": "23m"
+    },
+    {
+      "brand": "粥皇港式茶餐厅(大融城店)",
+      "address": "天山西路568号1幢104-5室",
+      "distance": "25m"
+    },
+    {
+      "brand": "大眼包子(天山西路2店)",
+      "address": "新泾镇天山西路568号统一梦时代大厦B1层",
+      "distance": "27m"
+    },
+    {
+      "brand": "沙野轻食(长宁天会店)",
+      "address": "统一大厦天山西路568号104",
+      "distance": "31m"
+    },
+    {
+      "brand": "于大侠隆江猪脚饭(统一梦时代大厦店)",
+      "address": "天山西路与淞虹路交叉口西北100米",
+      "distance": "37m"
+    },
+    {
+      "brand": "龙文米粉(淞虹路店)",
+      "address": "天山西路568号B区102-3(淞虹路地铁站1号口旁)",
+      "distance": "37m"
+    },
+    {
+      "brand": "陈氏稻香世家智选餐厅(晨讯科技大楼B楼店)",
+      "address": "金钟路633号晨讯科技大楼B楼F1层",
+      "distance": "86m"
+    },
+    {
+      "brand": "盖饭湘长沙菜馆",
+      "address": "金钟路633号晨讯科技大楼B楼",
+      "distance": "106m"
+    },
+    {
+      "brand": "珍饺芙人米饺",
+      "address": "天山西路568号1幢104-3室(珍饺芙人米饺)",
+      "distance": "20m"
+    },
+    {
+      "brand": "星巴克(统一企业大厦店)",
+      "address": "天山西路568号统一企业大厦1幢1层105-106室",
+      "distance": "22m"
+    },
+    {
+      "brand": "TPLUS茶家(淞虹店)",
+      "address": "天山西路568号104-1室(淞虹路地铁站1号口步行70米)",
+      "distance": "23m"
+    },
+    {
+      "brand": "粥皇港式茶餐厅(大融城店)",
+      "address": "天山西路568号1幢104-5室",
+      "distance": "25m"
+    },
+    {
+      "brand": "大眼包子(天山西路2店)",
+      "address": "新泾镇天山西路568号统一梦时代大厦B1层",
+      "distance": "27m"
+    },
+    {
+      "brand": "沙野轻食(长宁天会店)",
+      "address": "统一大厦天山西路568号104",
+      "distance": "31m"
+    },
+    {
+      "brand": "于大侠隆江猪脚饭(统一梦时代大厦店)",
+      "address": "天山西路与淞虹路交叉口西北100米",
+      "distance": "37m"
+    },
+    {
+      "brand": "龙文米粉(淞虹路店)",
+      "address": "天山西路568号B区102-3(淞虹路地铁站1号口旁)",
+      "distance": "37m"
+    },
+    {
+      "brand": "陈氏稻香世家智选餐厅(晨讯科技大楼B楼店)",
+      "address": "金钟路633号晨讯科技大楼B楼F1层",
+      "distance": "86m"
+    },
+    {
+      "brand": "盖饭湘长沙菜馆",
+      "address": "金钟路633号晨讯科技大楼B楼",
+      "distance": "106m"
+    },
+    {
+      "brand": "珍饺芙人米饺",
+      "address": "天山西路568号1幢104-3室(珍饺芙人米饺)",
+      "distance": "20m"
+    },
+    {
+      "brand": "星巴克(统一企业大厦店)",
+      "address": "天山西路568号统一企业大厦1幢1层105-106室",
+      "distance": "22m"
+    },
+    {
+      "brand": "TPLUS茶家(淞虹店)",
+      "address": "天山西路568号104-1室(淞虹路地铁站1号口步行70米)",
+      "distance": "23m"
+    },
+    {
+      "brand": "粥皇港式茶餐厅(大融城店)",
+      "address": "天山西路568号1幢104-5室",
+      "distance": "25m"
+    },
+    {
+      "brand": "大眼包子(天山西路2店)",
+      "address": "新泾镇天山西路568号统一梦时代大厦B1层",
+      "distance": "27m"
+    },
+    {
+      "brand": "沙野轻食(长宁天会店)",
+      "address": "统一大厦天山西路568号104",
+      "distance": "31m"
+    },
+    {
+      "brand": "于大侠隆江猪脚饭(统一梦时代大厦店)",
+      "address": "天山西路与淞虹路交叉口西北100米",
+      "distance": "37m"
+    },
+    {
+      "brand": "龙文米粉(淞虹路店)",
+      "address": "天山西路568号B区102-3(淞虹路地铁站1号口旁)",
+      "distance": "37m"
+    },
+    {
+      "brand": "陈氏稻香世家智选餐厅(晨讯科技大楼B楼店)",
+      "address": "金钟路633号晨讯科技大楼B楼F1层",
+      "distance": "86m"
+    },
+    {
+      "brand": "盖饭湘长沙菜馆",
+      "address": "金钟路633号晨讯科技大楼B楼",
+      "distance": "106m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海虹桥中心Art Park大融城",
+      "open_date": "2021-12-31",
+      "area": "6万㎡",
+      "jun_daily_avg": "2.9万人次",
+      "weekday_avg": "3万人次",
+      "holiday_avg": "2.9万人次"
+    },
+    {
+      "name": "上海荟聚购物中心",
+      "open_date": "2024-09-29",
+      "area": "21万㎡",
+      "jun_daily_avg": "7.5万人次",
+      "weekday_avg": "6.8万人次",
+      "holiday_avg": "9.5万人次"
+    },
+    {
+      "name": "上海建滔广场",
+      "open_date": "2015-11-01",
+      "area": "4.5万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海宜嘉坊广场(天山西路店)",
+      "open_date": "2006-01-01",
+      "area": "-",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海百联西郊购物中心",
+      "open_date": "2004-12-01",
+      "area": "11万㎡",
+      "jun_daily_avg": "3.2万人次",
+      "weekday_avg": "2.9万人次",
+      "holiday_avg": "4万人次"
+    },
+    {
+      "name": "上海申亚珺悦18广场",
+      "open_date": "2018-04-28",
+      "area": "2.3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 341.0,
+      "within_1yr_pct": 23.2,
+      "1_3yr_pct": 45.2,
+      "over_3yr_pct": 31.7
+    },
+    {
+      "type": "购物",
+      "count": 238.0,
+      "within_1yr_pct": 17.6,
+      "1_3yr_pct": 57.6,
+      "over_3yr_pct": 24.8
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 20.0,
+      "within_1yr_pct": 35.0,
+      "1_3yr_pct": 45.0,
+      "over_3yr_pct": 20.0
+    },
+    {
+      "type": "教育培训",
+      "count": 21.0,
+      "within_1yr_pct": 19.0,
+      "1_3yr_pct": 38.1,
+      "over_3yr_pct": 42.9
+    },
+    {
+      "type": "酒店住宿",
+      "count": 15.0,
+      "within_1yr_pct": 26.7,
+      "1_3yr_pct": 6.7,
+      "over_3yr_pct": 66.7
+    },
+    {
+      "type": "生活服务",
+      "count": 123.0,
+      "within_1yr_pct": 20.3,
+      "1_3yr_pct": 30.1,
+      "over_3yr_pct": 49.6
+    },
+    {
+      "type": "运动健身",
+      "count": 37.0,
+      "within_1yr_pct": 29.7,
+      "1_3yr_pct": 37.8,
+      "over_3yr_pct": 32.4
+    },
+    {
+      "type": "车辆服务",
+      "count": 27.0,
+      "within_1yr_pct": 18.5,
+      "1_3yr_pct": 48.1,
+      "over_3yr_pct": 33.3
+    }
+  ]
+}

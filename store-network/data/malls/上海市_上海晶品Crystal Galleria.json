@@ -1,0 +1,486 @@
+{
+  "name": "上海晶品Crystal Galleria",
+  "city": "上海市",
+  "address": "上海市静安区愚园路40-2号",
+  "lat": 31.221929,
+  "lng": 121.439818,
+  "overview": {
+    "score": 95.2,
+    "score_rank": "市内前30%",
+    "population_score": 85.3,
+    "area_score": 100.0,
+    "consumption_score": 88.7,
+    "industry_score": 95.2,
+    "annual_sales": "晶品Crystal Galleria定位为中高档购物中心，主打年轻时尚主题，拥有QPQ市集方、空中花园露台等特色，餐饮比重近乎百分之四十",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 7.3,
+    "open_date": "2015-09-20",
+    "operator": "华润万象生活有限公司",
+    "brand": "华润置地",
+    "type": "美食型",
+    "floors": "B2-L7"
+  },
+  "traffic": {
+    "annual_daily": 2.02,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第135",
+    "jun_total": 109.3,
+    "jun_total_rank": "市内商场第108名",
+    "jun_daily_avg": 3.6,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第108名",
+    "weekday_avg": 3.3,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第112名",
+    "holiday_avg": 4.5,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第98名"
+  },
+  "population": {
+    "residential": {
+      "500m": 2.0,
+      "1_5km": 23.9,
+      "3km": 96.8
+    },
+    "office": {
+      "500m": 5.8,
+      "1_5km": 27.8,
+      "3km": 99.8
+    },
+    "permanent": {
+      "500m": 4.1,
+      "1_5km": 28.6,
+      "3km": 115.7
+    }
+  },
+  "business": {
+    "competitors": 24.0,
+    "food": 710.0,
+    "shopping": 771.0,
+    "leisure": 38.0,
+    "education": 50.0,
+    "hotel": 88.0,
+    "services": 480.0,
+    "fitness": 45.0,
+    "auto": 31.0,
+    "total_stores": 200.0,
+    "old_store_3yr_pct": 25.0
+  },
+  "nearby_poi": {
+    "business": 17.0,
+    "community": 1267.0,
+    "office": 213.0,
+    "school": 91.0,
+    "hospital": 200.0,
+    "transport": 16.0,
+    "scenic": 818.0
+  },
+  "demographics": {
+    "male_pct": 45.5,
+    "female_pct": null,
+    "education": {
+      "小学": 9.1,
+      "初中": 17.9,
+      "高中": 12.0,
+      "大专": 6.8,
+      "本科": 47.9,
+      "硕士": 4.7,
+      "博士": 1.6
+    },
+    "has_children_pct": 58.1,
+    "no_children_pct": 41.9
+  },
+  "scraped_at": "2026-07-31T16:39:01.564Z",
+  "nearby_restaurants": [
+    {
+      "brand": "UH祐禾(上海CP静安店)",
+      "address": "上海城区愚园路68号地下一层LG128号商铺",
+      "distance": "1m"
+    },
+    {
+      "brand": "桂满陇·杭州小馆(CP静安店)",
+      "address": "愚园路与常德路交叉口西120米",
+      "distance": "2m"
+    },
+    {
+      "brand": "旺清进洞米肠汤·十五年匠心韩料(CP静安店)",
+      "address": "静安寺街道愚园路68号CP静安5楼L501号商铺",
+      "distance": "3m"
+    },
+    {
+      "brand": "LIBU礼部·新京菜中国茶(上海首店)",
+      "address": "愚园路8号CP静安4层L408",
+      "distance": "4m"
+    },
+    {
+      "brand": "御延公馆·上海菜(CP静安店)",
+      "address": "愚园路68号L4-26号(静安寺地铁站10号口步行310米)",
+      "distance": "4m"
+    },
+    {
+      "brand": "岚·山野云南菜(上海首店)",
+      "address": "愚园路68号CP静安L6-10",
+      "distance": "4m"
+    },
+    {
+      "brand": "南山阿姆·赣南客家菜",
+      "address": "愚园路40-2号cp静安5楼503",
+      "distance": "4m"
+    },
+    {
+      "brand": "大神太神·铁板烧(CP静安店)",
+      "address": "愚园路8号5楼11号",
+      "distance": "4m"
+    },
+    {
+      "brand": "云阿蛮云南生烫牛肉米线(CP静安店)",
+      "address": "南京西路街道愚园路68号CP静安LG2-11室",
+      "distance": "4m"
+    },
+    {
+      "brand": "传熹胶东菜",
+      "address": "愚园路68号CP静安商场6楼L612(近2、7、14号线静安寺地铁站3号口)",
+      "distance": "4m"
+    },
+    {
+      "brand": "UH祐禾(上海CP静安店)",
+      "address": "上海城区愚园路68号地下一层LG128号商铺",
+      "distance": "1m"
+    },
+    {
+      "brand": "桂满陇·杭州小馆(CP静安店)",
+      "address": "愚园路与常德路交叉口西120米",
+      "distance": "2m"
+    },
+    {
+      "brand": "旺清进洞米肠汤·十五年匠心韩料(CP静安店)",
+      "address": "静安寺街道愚园路68号CP静安5楼L501号商铺",
+      "distance": "3m"
+    },
+    {
+      "brand": "LIBU礼部·新京菜中国茶(上海首店)",
+      "address": "愚园路8号CP静安4层L408",
+      "distance": "4m"
+    },
+    {
+      "brand": "御延公馆·上海菜(CP静安店)",
+      "address": "愚园路68号L4-26号(静安寺地铁站10号口步行310米)",
+      "distance": "4m"
+    },
+    {
+      "brand": "岚·山野云南菜(上海首店)",
+      "address": "愚园路68号CP静安L6-10",
+      "distance": "4m"
+    },
+    {
+      "brand": "南山阿姆·赣南客家菜",
+      "address": "愚园路40-2号cp静安5楼503",
+      "distance": "4m"
+    },
+    {
+      "brand": "大神太神·铁板烧(CP静安店)",
+      "address": "愚园路8号5楼11号",
+      "distance": "4m"
+    },
+    {
+      "brand": "云阿蛮云南生烫牛肉米线(CP静安店)",
+      "address": "南京西路街道愚园路68号CP静安LG2-11室",
+      "distance": "4m"
+    },
+    {
+      "brand": "传熹胶东菜",
+      "address": "愚园路68号CP静安商场6楼L612(近2、7、14号线静安寺地铁站3号口)",
+      "distance": "4m"
+    },
+    {
+      "brand": "UH祐禾(上海CP静安店)",
+      "address": "上海城区愚园路68号地下一层LG128号商铺",
+      "distance": "1m"
+    },
+    {
+      "brand": "桂满陇·杭州小馆(CP静安店)",
+      "address": "愚园路与常德路交叉口西120米",
+      "distance": "2m"
+    },
+    {
+      "brand": "旺清进洞米肠汤·十五年匠心韩料(CP静安店)",
+      "address": "静安寺街道愚园路68号CP静安5楼L501号商铺",
+      "distance": "3m"
+    },
+    {
+      "brand": "LIBU礼部·新京菜中国茶(上海首店)",
+      "address": "愚园路8号CP静安4层L408",
+      "distance": "4m"
+    },
+    {
+      "brand": "御延公馆·上海菜(CP静安店)",
+      "address": "愚园路68号L4-26号(静安寺地铁站10号口步行310米)",
+      "distance": "4m"
+    },
+    {
+      "brand": "岚·山野云南菜(上海首店)",
+      "address": "愚园路68号CP静安L6-10",
+      "distance": "4m"
+    },
+    {
+      "brand": "南山阿姆·赣南客家菜",
+      "address": "愚园路40-2号cp静安5楼503",
+      "distance": "4m"
+    },
+    {
+      "brand": "大神太神·铁板烧(CP静安店)",
+      "address": "愚园路8号5楼11号",
+      "distance": "4m"
+    },
+    {
+      "brand": "云阿蛮云南生烫牛肉米线(CP静安店)",
+      "address": "南京西路街道愚园路68号CP静安LG2-11室",
+      "distance": "4m"
+    },
+    {
+      "brand": "传熹胶东菜",
+      "address": "愚园路68号CP静安商场6楼L612(近2、7、14号线静安寺地铁站3号口)",
+      "distance": "4m"
+    },
+    {
+      "brand": "UH祐禾(上海CP静安店)",
+      "address": "上海城区愚园路68号地下一层LG128号商铺",
+      "distance": "1m"
+    },
+    {
+      "brand": "桂满陇·杭州小馆(CP静安店)",
+      "address": "愚园路与常德路交叉口西120米",
+      "distance": "2m"
+    },
+    {
+      "brand": "旺清进洞米肠汤·十五年匠心韩料(CP静安店)",
+      "address": "静安寺街道愚园路68号CP静安5楼L501号商铺",
+      "distance": "3m"
+    },
+    {
+      "brand": "LIBU礼部·新京菜中国茶(上海首店)",
+      "address": "愚园路8号CP静安4层L408",
+      "distance": "4m"
+    },
+    {
+      "brand": "御延公馆·上海菜(CP静安店)",
+      "address": "愚园路68号L4-26号(静安寺地铁站10号口步行310米)",
+      "distance": "4m"
+    },
+    {
+      "brand": "岚·山野云南菜(上海首店)",
+      "address": "愚园路68号CP静安L6-10",
+      "distance": "4m"
+    },
+    {
+      "brand": "南山阿姆·赣南客家菜",
+      "address": "愚园路40-2号cp静安5楼503",
+      "distance": "4m"
+    },
+    {
+      "brand": "大神太神·铁板烧(CP静安店)",
+      "address": "愚园路8号5楼11号",
+      "distance": "4m"
+    },
+    {
+      "brand": "云阿蛮云南生烫牛肉米线(CP静安店)",
+      "address": "南京西路街道愚园路68号CP静安LG2-11室",
+      "distance": "4m"
+    },
+    {
+      "brand": "传熹胶东菜",
+      "address": "愚园路68号CP静安商场6楼L612(近2、7、14号线静安寺地铁站3号口)",
+      "distance": "4m"
+    },
+    {
+      "brand": "UH祐禾(上海CP静安店)",
+      "address": "上海城区愚园路68号地下一层LG128号商铺",
+      "distance": "1m"
+    },
+    {
+      "brand": "桂满陇·杭州小馆(CP静安店)",
+      "address": "愚园路与常德路交叉口西120米",
+      "distance": "2m"
+    },
+    {
+      "brand": "旺清进洞米肠汤·十五年匠心韩料(CP静安店)",
+      "address": "静安寺街道愚园路68号CP静安5楼L501号商铺",
+      "distance": "3m"
+    },
+    {
+      "brand": "LIBU礼部·新京菜中国茶(上海首店)",
+      "address": "愚园路8号CP静安4层L408",
+      "distance": "4m"
+    },
+    {
+      "brand": "御延公馆·上海菜(CP静安店)",
+      "address": "愚园路68号L4-26号(静安寺地铁站10号口步行310米)",
+      "distance": "4m"
+    },
+    {
+      "brand": "岚·山野云南菜(上海首店)",
+      "address": "愚园路68号CP静安L6-10",
+      "distance": "4m"
+    },
+    {
+      "brand": "南山阿姆·赣南客家菜",
+      "address": "愚园路40-2号cp静安5楼503",
+      "distance": "4m"
+    },
+    {
+      "brand": "大神太神·铁板烧(CP静安店)",
+      "address": "愚园路8号5楼11号",
+      "distance": "4m"
+    },
+    {
+      "brand": "云阿蛮云南生烫牛肉米线(CP静安店)",
+      "address": "南京西路街道愚园路68号CP静安LG2-11室",
+      "distance": "4m"
+    },
+    {
+      "brand": "传熹胶东菜",
+      "address": "愚园路68号CP静安商场6楼L612(近2、7、14号线静安寺地铁站3号口)",
+      "distance": "4m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海久光百货",
+      "open_date": "2004-09-04",
+      "area": "9.1万㎡",
+      "jun_daily_avg": "3.7万人次",
+      "weekday_avg": "3.3万人次",
+      "holiday_avg": "4.9万人次"
+    },
+    {
+      "name": "上海芮欧百货",
+      "open_date": "2011-01-01",
+      "area": "6.5万㎡",
+      "jun_daily_avg": "2.9万人次",
+      "weekday_avg": "2.7万人次",
+      "holiday_avg": "3.4万人次"
+    },
+    {
+      "name": "上海静安嘉里中心",
+      "open_date": "2013-01-01",
+      "area": "9.4万㎡",
+      "jun_daily_avg": "6万人次",
+      "weekday_avg": "5.5万人次",
+      "holiday_avg": "7.6万人次"
+    },
+    {
+      "name": "上海1788square",
+      "open_date": "2013-04-18",
+      "area": "2.3万㎡",
+      "jun_daily_avg": "1.1万人次",
+      "weekday_avg": "1万人次",
+      "holiday_avg": "1.1万人次"
+    },
+    {
+      "name": "上海UX 88",
+      "open_date": "2013-01-01",
+      "area": "6000㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海商城",
+      "open_date": "1990-04-27",
+      "area": "3万㎡",
+      "jun_daily_avg": "1.2万人次",
+      "weekday_avg": "1.2万人次",
+      "holiday_avg": "1.3万人次"
+    },
+    {
+      "name": "上海恒隆广场",
+      "open_date": "2001-07-14",
+      "area": "11.4万㎡",
+      "jun_daily_avg": "2.2万人次",
+      "weekday_avg": "2.2万人次",
+      "holiday_avg": "2万人次"
+    },
+    {
+      "name": "上海JC PLAZA锦沧文华广场",
+      "open_date": "2022-08-18",
+      "area": "2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海金鹰国际购物广场",
+      "open_date": "2024-01-26",
+      "area": "3.8万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海中信泰富广场",
+      "open_date": "2002-06-15",
+      "area": "3.5万㎡",
+      "jun_daily_avg": "1.1万人次",
+      "weekday_avg": "1.1万人次",
+      "holiday_avg": "1.1万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 98.0,
+      "within_1yr_pct": 32.7,
+      "1_3yr_pct": 41.8,
+      "over_3yr_pct": 25.5
+    },
+    {
+      "type": "购物",
+      "count": 46.0,
+      "within_1yr_pct": 28.3,
+      "1_3yr_pct": 52.2,
+      "over_3yr_pct": 19.6
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 8.0,
+      "within_1yr_pct": 37.5,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 12.5
+    },
+    {
+      "type": "教育培训",
+      "count": 2.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "生活服务",
+      "count": 34.0,
+      "within_1yr_pct": 14.7,
+      "1_3yr_pct": 55.9,
+      "over_3yr_pct": 29.4
+    },
+    {
+      "type": "运动健身",
+      "count": 7.0,
+      "within_1yr_pct": 14.3,
+      "1_3yr_pct": 57.1,
+      "over_3yr_pct": 28.6
+    },
+    {
+      "type": "车辆服务",
+      "count": 4.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 50.0
+    }
+  ]
+}

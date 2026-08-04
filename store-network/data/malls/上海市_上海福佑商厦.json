@@ -1,0 +1,472 @@
+{
+  "name": "上海福佑商厦",
+  "city": "上海市",
+  "address": "上海市黄浦区豫园街道福佑路237号",
+  "lat": 31.227656,
+  "lng": 121.491273,
+  "overview": {
+    "score": 70.6,
+    "score_rank": "市内前70%",
+    "population_score": 72.4,
+    "area_score": 92.5,
+    "consumption_score": 86.8,
+    "industry_score": 70.4,
+    "annual_sales": "上海福佑商厦位于黄浦区福佑路225号，靠近豫园，是上海城隍庙最大规模的小商品龙头市场之一福佑商厦原来是一个小商品批发市场，后来在地下负二层引入了古玩、旧书等业态，建立起了文玩艺术品交易集市福佑商厦的建筑类型为板楼，绿化率达到35%，容积率为4.2周边配套设施完善，包括交通、教育、医疗、购物等，交通便利，靠近地铁站和公交站福佑商厦周边有豫园老街、豫园商城等商业配套，生活便利",
+    "annual_sales_unit": "-",
+    "area_size_sqm": null,
+    "open_date": "1998-01-01",
+    "operator": "上海元宇数科文化发展有限公司",
+    "brand": "",
+    "type": "购物型",
+    "floors": "L1-L6"
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "-",
+    "annual_daily_rank": "",
+    "jun_total": 12.8,
+    "jun_total_rank": "市内商场第452名",
+    "jun_daily_avg": 4270.0,
+    "jun_daily_unit": "人次",
+    "jun_daily_rank": "市内商场第452名",
+    "weekday_avg": 3708.0,
+    "weekday_unit": "人次",
+    "weekday_rank": "市内商场第469名",
+    "holiday_avg": 5819.0,
+    "holiday_unit": "人次",
+    "holiday_rank": "市内商场第415名"
+  },
+  "population": {
+    "residential": {
+      "500m": 1.0,
+      "1_5km": 14.4,
+      "3km": 78.3
+    },
+    "office": {
+      "500m": 2.9,
+      "1_5km": 27.9,
+      "3km": 107.9
+    },
+    "permanent": {
+      "500m": 2.4,
+      "1_5km": 21.0,
+      "3km": 97.5
+    }
+  },
+  "business": {
+    "competitors": 7.0,
+    "food": 280.0,
+    "shopping": 571.0,
+    "leisure": 26.0,
+    "education": 6.0,
+    "hotel": 51.0,
+    "services": 109.0,
+    "fitness": 4.0,
+    "auto": 11.0,
+    "total_stores": 35.0,
+    "old_store_3yr_pct": 43.0
+  },
+  "nearby_poi": {
+    "business": 26.0,
+    "community": 733.0,
+    "office": 189.0,
+    "school": 54.0,
+    "hospital": 174.0,
+    "transport": 21.0,
+    "scenic": 875.0
+  },
+  "demographics": {
+    "male_pct": 47.5,
+    "female_pct": null,
+    "education": {
+      "小学": 9.0,
+      "初中": 16.5,
+      "高中": 11.4,
+      "大专": 7.0,
+      "本科": 48.3,
+      "硕士": 6.0,
+      "博士": 1.8
+    },
+    "has_children_pct": 59.3,
+    "no_children_pct": 40.7
+  },
+  "scraped_at": "2026-07-31T17:14:04.713Z",
+  "nearby_restaurants": [
+    {
+      "brand": "茶话香事",
+      "address": "福佑路225号351(豫园地铁站7号口步行360米)",
+      "distance": "6m"
+    },
+    {
+      "brand": "悸动烧仙草(黄浦福民街店)",
+      "address": "福佑路225号(豫园地铁站7号口步行300米)",
+      "distance": "7m"
+    },
+    {
+      "brand": "上海城隍传统小吃",
+      "address": "福民街59号",
+      "distance": "12m"
+    },
+    {
+      "brand": "长沙小龙虾(城隍庙店)",
+      "address": "福民街与福佑路交叉口北40米(豫园地铁站7号口步行280米)",
+      "distance": "16m"
+    },
+    {
+      "brand": "范氏锅贴牛肉汤(黄浦福佑商厦店)",
+      "address": "安平街与福佑路交叉口北40米(豫园地铁站7号口步行310米)",
+      "distance": "19m"
+    },
+    {
+      "brand": "上海阳春面(福佑商厦店)",
+      "address": "豫园老路100号和丰楼3楼(豫园地铁站7号口步行250米)",
+      "distance": "24m"
+    },
+    {
+      "brand": "兴顺德·蟹黄汤包馆",
+      "address": "城隍庙福佑路福民街74号兴顺德蟹黄汤包馆",
+      "distance": "28m"
+    },
+    {
+      "brand": "裕兴记·蟹黄面(豫园店)",
+      "address": "福民街76号(豫园地铁站7号口步行270米)",
+      "distance": "29m"
+    },
+    {
+      "brand": "福楽Bistro-露台餐厅(装修中)",
+      "address": "福民街55号从(机器人体验馆)大门进坐观光电梯到5楼",
+      "distance": "29m"
+    },
+    {
+      "brand": "现榨甘蔗汁冰淇淋",
+      "address": "福民街与福佑路交叉口北60米(豫园地铁站7号口步行270米)",
+      "distance": "34m"
+    },
+    {
+      "brand": "茶话香事",
+      "address": "福佑路225号351(豫园地铁站7号口步行360米)",
+      "distance": "6m"
+    },
+    {
+      "brand": "悸动烧仙草(黄浦福民街店)",
+      "address": "福佑路225号(豫园地铁站7号口步行300米)",
+      "distance": "7m"
+    },
+    {
+      "brand": "上海城隍传统小吃",
+      "address": "福民街59号",
+      "distance": "12m"
+    },
+    {
+      "brand": "长沙小龙虾(城隍庙店)",
+      "address": "福民街与福佑路交叉口北40米(豫园地铁站7号口步行280米)",
+      "distance": "16m"
+    },
+    {
+      "brand": "范氏锅贴牛肉汤(黄浦福佑商厦店)",
+      "address": "安平街与福佑路交叉口北40米(豫园地铁站7号口步行310米)",
+      "distance": "19m"
+    },
+    {
+      "brand": "上海阳春面(福佑商厦店)",
+      "address": "豫园老路100号和丰楼3楼(豫园地铁站7号口步行250米)",
+      "distance": "24m"
+    },
+    {
+      "brand": "兴顺德·蟹黄汤包馆",
+      "address": "城隍庙福佑路福民街74号兴顺德蟹黄汤包馆",
+      "distance": "28m"
+    },
+    {
+      "brand": "裕兴记·蟹黄面(豫园店)",
+      "address": "福民街76号(豫园地铁站7号口步行270米)",
+      "distance": "29m"
+    },
+    {
+      "brand": "福楽Bistro-露台餐厅(装修中)",
+      "address": "福民街55号从(机器人体验馆)大门进坐观光电梯到5楼",
+      "distance": "29m"
+    },
+    {
+      "brand": "现榨甘蔗汁冰淇淋",
+      "address": "福民街与福佑路交叉口北60米(豫园地铁站7号口步行270米)",
+      "distance": "34m"
+    },
+    {
+      "brand": "茶话香事",
+      "address": "福佑路225号351(豫园地铁站7号口步行360米)",
+      "distance": "6m"
+    },
+    {
+      "brand": "悸动烧仙草(黄浦福民街店)",
+      "address": "福佑路225号(豫园地铁站7号口步行300米)",
+      "distance": "7m"
+    },
+    {
+      "brand": "上海城隍传统小吃",
+      "address": "福民街59号",
+      "distance": "12m"
+    },
+    {
+      "brand": "长沙小龙虾(城隍庙店)",
+      "address": "福民街与福佑路交叉口北40米(豫园地铁站7号口步行280米)",
+      "distance": "16m"
+    },
+    {
+      "brand": "范氏锅贴牛肉汤(黄浦福佑商厦店)",
+      "address": "安平街与福佑路交叉口北40米(豫园地铁站7号口步行310米)",
+      "distance": "19m"
+    },
+    {
+      "brand": "上海阳春面(福佑商厦店)",
+      "address": "豫园老路100号和丰楼3楼(豫园地铁站7号口步行250米)",
+      "distance": "24m"
+    },
+    {
+      "brand": "兴顺德·蟹黄汤包馆",
+      "address": "城隍庙福佑路福民街74号兴顺德蟹黄汤包馆",
+      "distance": "28m"
+    },
+    {
+      "brand": "裕兴记·蟹黄面(豫园店)",
+      "address": "福民街76号(豫园地铁站7号口步行270米)",
+      "distance": "29m"
+    },
+    {
+      "brand": "福楽Bistro-露台餐厅(装修中)",
+      "address": "福民街55号从(机器人体验馆)大门进坐观光电梯到5楼",
+      "distance": "29m"
+    },
+    {
+      "brand": "现榨甘蔗汁冰淇淋",
+      "address": "福民街与福佑路交叉口北60米(豫园地铁站7号口步行270米)",
+      "distance": "34m"
+    },
+    {
+      "brand": "茶话香事",
+      "address": "福佑路225号351(豫园地铁站7号口步行360米)",
+      "distance": "6m"
+    },
+    {
+      "brand": "悸动烧仙草(黄浦福民街店)",
+      "address": "福佑路225号(豫园地铁站7号口步行300米)",
+      "distance": "7m"
+    },
+    {
+      "brand": "上海城隍传统小吃",
+      "address": "福民街59号",
+      "distance": "12m"
+    },
+    {
+      "brand": "长沙小龙虾(城隍庙店)",
+      "address": "福民街与福佑路交叉口北40米(豫园地铁站7号口步行280米)",
+      "distance": "16m"
+    },
+    {
+      "brand": "范氏锅贴牛肉汤(黄浦福佑商厦店)",
+      "address": "安平街与福佑路交叉口北40米(豫园地铁站7号口步行310米)",
+      "distance": "19m"
+    },
+    {
+      "brand": "上海阳春面(福佑商厦店)",
+      "address": "豫园老路100号和丰楼3楼(豫园地铁站7号口步行250米)",
+      "distance": "24m"
+    },
+    {
+      "brand": "兴顺德·蟹黄汤包馆",
+      "address": "城隍庙福佑路福民街74号兴顺德蟹黄汤包馆",
+      "distance": "28m"
+    },
+    {
+      "brand": "裕兴记·蟹黄面(豫园店)",
+      "address": "福民街76号(豫园地铁站7号口步行270米)",
+      "distance": "29m"
+    },
+    {
+      "brand": "福楽Bistro-露台餐厅(装修中)",
+      "address": "福民街55号从(机器人体验馆)大门进坐观光电梯到5楼",
+      "distance": "29m"
+    },
+    {
+      "brand": "现榨甘蔗汁冰淇淋",
+      "address": "福民街与福佑路交叉口北60米(豫园地铁站7号口步行270米)",
+      "distance": "34m"
+    },
+    {
+      "brand": "茶话香事",
+      "address": "福佑路225号351(豫园地铁站7号口步行360米)",
+      "distance": "6m"
+    },
+    {
+      "brand": "悸动烧仙草(黄浦福民街店)",
+      "address": "福佑路225号(豫园地铁站7号口步行300米)",
+      "distance": "7m"
+    },
+    {
+      "brand": "上海城隍传统小吃",
+      "address": "福民街59号",
+      "distance": "12m"
+    },
+    {
+      "brand": "长沙小龙虾(城隍庙店)",
+      "address": "福民街与福佑路交叉口北40米(豫园地铁站7号口步行280米)",
+      "distance": "16m"
+    },
+    {
+      "brand": "范氏锅贴牛肉汤(黄浦福佑商厦店)",
+      "address": "安平街与福佑路交叉口北40米(豫园地铁站7号口步行310米)",
+      "distance": "19m"
+    },
+    {
+      "brand": "上海阳春面(福佑商厦店)",
+      "address": "豫园老路100号和丰楼3楼(豫园地铁站7号口步行250米)",
+      "distance": "24m"
+    },
+    {
+      "brand": "兴顺德·蟹黄汤包馆",
+      "address": "城隍庙福佑路福民街74号兴顺德蟹黄汤包馆",
+      "distance": "28m"
+    },
+    {
+      "brand": "裕兴记·蟹黄面(豫园店)",
+      "address": "福民街76号(豫园地铁站7号口步行270米)",
+      "distance": "29m"
+    },
+    {
+      "brand": "福楽Bistro-露台餐厅(装修中)",
+      "address": "福民街55号从(机器人体验馆)大门进坐观光电梯到5楼",
+      "distance": "29m"
+    },
+    {
+      "brand": "现榨甘蔗汁冰淇淋",
+      "address": "福民街与福佑路交叉口北60米(豫园地铁站7号口步行270米)",
+      "distance": "34m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海悦园商厦",
+      "open_date": "2005-01-01",
+      "area": "1.7万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "城隍庙第一购物中心(丽水路店)",
+      "open_date": "1995-01-01",
+      "area": "1.6万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海豫园商城",
+      "open_date": "-",
+      "area": "1000㎡",
+      "jun_daily_avg": "7.6万人次",
+      "weekday_avg": "6.5万人次",
+      "holiday_avg": "10.7万人次"
+    },
+    {
+      "name": "上海香港名都",
+      "open_date": "2010-09-01",
+      "area": "4万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海BFC外滩金融中心",
+      "open_date": "2019-12-12",
+      "area": "9.6万㎡",
+      "jun_daily_avg": "6.4万人次",
+      "weekday_avg": "6.3万人次",
+      "holiday_avg": "6.6万人次"
+    },
+    {
+      "name": "上海亚龙国际广场",
+      "open_date": "2007-01-01",
+      "area": "1.5万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海外滩中央广场",
+      "open_date": "2017-09-24",
+      "area": "4.5万㎡",
+      "jun_daily_avg": "1.8万人次",
+      "weekday_avg": "1.6万人次",
+      "holiday_avg": "2.5万人次"
+    },
+    {
+      "name": "上海正大广场",
+      "open_date": "2002-01-01",
+      "area": "24.3万㎡",
+      "jun_daily_avg": "5.2万人次",
+      "weekday_avg": "4.7万人次",
+      "holiday_avg": "6.3万人次"
+    },
+    {
+      "name": "上海宏伊国际广场",
+      "open_date": "2005-07-24",
+      "area": "2.8万㎡",
+      "jun_daily_avg": "2.2万人次",
+      "weekday_avg": "1.9万人次",
+      "holiday_avg": "2.9万人次"
+    },
+    {
+      "name": "上海悦荟广场",
+      "open_date": "2014-12-01",
+      "area": "2.5万㎡",
+      "jun_daily_avg": "1.3万人次",
+      "weekday_avg": "1.1万人次",
+      "holiday_avg": "1.8万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 7.0,
+      "within_1yr_pct": 57.1,
+      "1_3yr_pct": 14.3,
+      "over_3yr_pct": 28.6
+    },
+    {
+      "type": "购物",
+      "count": 22.0,
+      "within_1yr_pct": 22.7,
+      "1_3yr_pct": 18.2,
+      "over_3yr_pct": 59.1
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 2.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "生活服务",
+      "count": 2.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
+    }
+  ]
+}

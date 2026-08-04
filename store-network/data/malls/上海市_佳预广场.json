@@ -1,0 +1,417 @@
+{
+  "name": "佳预广场",
+  "city": "上海市",
+  "address": "上海市松江区九亭镇佳预大厦佳预广场",
+  "lat": 31.144468,
+  "lng": 121.329892,
+  "overview": {
+    "score": null,
+    "score_rank": "",
+    "population_score": 70.3,
+    "area_score": 67.6,
+    "consumption_score": 65.0,
+    "industry_score": 66.5,
+    "annual_sales": "佳预广场是松江区首个TOD商业综合体，无缝衔接地铁9号线，引进300+品牌（含40%松江首店），含4000㎡屋顶花园及24小时书吧，年客流量突破600万人次。",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 3.3,
+    "open_date": "2022-12-18",
+    "operator": "佳预商业管理有限公司",
+    "brand": "",
+    "type": "综合型",
+    "floors": "B1-L6"
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "-",
+    "annual_daily_rank": "",
+    "jun_total": null,
+    "jun_total_rank": "",
+    "jun_daily_avg": null,
+    "jun_daily_unit": "",
+    "jun_daily_rank": "",
+    "weekday_avg": null,
+    "weekday_unit": "",
+    "weekday_rank": "",
+    "holiday_avg": null,
+    "holiday_unit": "",
+    "holiday_rank": ""
+  },
+  "population": {
+    "residential": {
+      "500m": 8500.0,
+      "1_5km": 13.5,
+      "3km": 59.8
+    },
+    "office": {
+      "500m": 6100.0,
+      "1_5km": 7.6,
+      "3km": 27.1
+    },
+    "permanent": {
+      "500m": 7800.0,
+      "1_5km": 12.7,
+      "3km": 54.2
+    }
+  },
+  "business": {
+    "competitors": 1.0,
+    "food": 70.0,
+    "shopping": 45.0,
+    "leisure": 13.0,
+    "education": 9.0,
+    "hotel": 17.0,
+    "services": 25.0,
+    "fitness": 5.0,
+    "auto": 28.0,
+    "total_stores": 16.0,
+    "old_store_3yr_pct": 56.0
+  },
+  "nearby_poi": {
+    "business": 4.0,
+    "community": 266.0,
+    "office": 39.0,
+    "school": 18.0,
+    "hospital": 38.0,
+    "transport": 6.0,
+    "scenic": 107.0
+  },
+  "demographics": {
+    "male_pct": 55.3,
+    "female_pct": null,
+    "education": {
+      "小学": 9.8,
+      "初中": 18.2,
+      "高中": 11.7,
+      "大专": 9.1,
+      "本科": 46.6,
+      "硕士": 3.9,
+      "博士": 0.7
+    },
+    "has_children_pct": 57.8,
+    "no_children_pct": 42.2
+  },
+  "scraped_at": "2026-07-31T17:57:30.032Z",
+  "nearby_restaurants": [
+    {
+      "brand": "星巴克(佳预广场店)",
+      "address": "九亭镇沪松公路1177号5幢地上一层005、006室",
+      "distance": "24m"
+    },
+    {
+      "brand": "马记云兰州牛肉面(上海佳预广场店)",
+      "address": "九亭镇沪松公路1177号5幢一层016-1",
+      "distance": "27m"
+    },
+    {
+      "brand": "秦晋面道(佳预广场店)",
+      "address": "沪松公路1133号东南60米佳预广场",
+      "distance": "28m"
+    },
+    {
+      "brand": "星巴克沿街取餐点(上海佳预广场店)",
+      "address": "佳预大厦西北侧",
+      "distance": "29m"
+    },
+    {
+      "brand": "千里香馄饨王(九里亭店)",
+      "address": "沪松公路1133号佳预广场F1层",
+      "distance": "47m"
+    },
+    {
+      "brand": "竑云阁快餐炒菜(九亭沪松公路店)",
+      "address": "沪松公路1133号佳预广场F1层",
+      "distance": "48m"
+    },
+    {
+      "brand": "鲁味鲜",
+      "address": "涞亭南路8号一栋一层",
+      "distance": "79m"
+    },
+    {
+      "brand": "luckin coffee 瑞幸咖啡(上海虹桥枢纽国展中心皇冠晶品酒店店)",
+      "address": "上海佳预大厦东北门旁",
+      "distance": "93m"
+    },
+    {
+      "brand": "睦记化府城市饭堂(涞亭南路店)",
+      "address": "九亭镇涞亭南路8号1幢1层B02-03号",
+      "distance": "93m"
+    },
+    {
+      "brand": "朴东太韩式炸鸡·火鸡面",
+      "address": "沪松公路与涞亭南路交叉口西南80米",
+      "distance": "99m"
+    },
+    {
+      "brand": "星巴克(佳预广场店)",
+      "address": "九亭镇沪松公路1177号5幢地上一层005、006室",
+      "distance": "24m"
+    },
+    {
+      "brand": "马记云兰州牛肉面(上海佳预广场店)",
+      "address": "九亭镇沪松公路1177号5幢一层016-1",
+      "distance": "27m"
+    },
+    {
+      "brand": "秦晋面道(佳预广场店)",
+      "address": "沪松公路1133号东南60米佳预广场",
+      "distance": "28m"
+    },
+    {
+      "brand": "星巴克沿街取餐点(上海佳预广场店)",
+      "address": "佳预大厦西北侧",
+      "distance": "29m"
+    },
+    {
+      "brand": "千里香馄饨王(九里亭店)",
+      "address": "沪松公路1133号佳预广场F1层",
+      "distance": "47m"
+    },
+    {
+      "brand": "竑云阁快餐炒菜(九亭沪松公路店)",
+      "address": "沪松公路1133号佳预广场F1层",
+      "distance": "48m"
+    },
+    {
+      "brand": "鲁味鲜",
+      "address": "涞亭南路8号一栋一层",
+      "distance": "79m"
+    },
+    {
+      "brand": "luckin coffee 瑞幸咖啡(上海虹桥枢纽国展中心皇冠晶品酒店店)",
+      "address": "上海佳预大厦东北门旁",
+      "distance": "93m"
+    },
+    {
+      "brand": "睦记化府城市饭堂(涞亭南路店)",
+      "address": "九亭镇涞亭南路8号1幢1层B02-03号",
+      "distance": "93m"
+    },
+    {
+      "brand": "朴东太韩式炸鸡·火鸡面",
+      "address": "沪松公路与涞亭南路交叉口西南80米",
+      "distance": "99m"
+    },
+    {
+      "brand": "星巴克(佳预广场店)",
+      "address": "九亭镇沪松公路1177号5幢地上一层005、006室",
+      "distance": "24m"
+    },
+    {
+      "brand": "马记云兰州牛肉面(上海佳预广场店)",
+      "address": "九亭镇沪松公路1177号5幢一层016-1",
+      "distance": "27m"
+    },
+    {
+      "brand": "秦晋面道(佳预广场店)",
+      "address": "沪松公路1133号东南60米佳预广场",
+      "distance": "28m"
+    },
+    {
+      "brand": "星巴克沿街取餐点(上海佳预广场店)",
+      "address": "佳预大厦西北侧",
+      "distance": "29m"
+    },
+    {
+      "brand": "千里香馄饨王(九里亭店)",
+      "address": "沪松公路1133号佳预广场F1层",
+      "distance": "47m"
+    },
+    {
+      "brand": "竑云阁快餐炒菜(九亭沪松公路店)",
+      "address": "沪松公路1133号佳预广场F1层",
+      "distance": "48m"
+    },
+    {
+      "brand": "鲁味鲜",
+      "address": "涞亭南路8号一栋一层",
+      "distance": "79m"
+    },
+    {
+      "brand": "luckin coffee 瑞幸咖啡(上海虹桥枢纽国展中心皇冠晶品酒店店)",
+      "address": "上海佳预大厦东北门旁",
+      "distance": "93m"
+    },
+    {
+      "brand": "睦记化府城市饭堂(涞亭南路店)",
+      "address": "九亭镇涞亭南路8号1幢1层B02-03号",
+      "distance": "93m"
+    },
+    {
+      "brand": "朴东太韩式炸鸡·火鸡面",
+      "address": "沪松公路与涞亭南路交叉口西南80米",
+      "distance": "99m"
+    },
+    {
+      "brand": "星巴克(佳预广场店)",
+      "address": "九亭镇沪松公路1177号5幢地上一层005、006室",
+      "distance": "24m"
+    },
+    {
+      "brand": "马记云兰州牛肉面(上海佳预广场店)",
+      "address": "九亭镇沪松公路1177号5幢一层016-1",
+      "distance": "27m"
+    },
+    {
+      "brand": "秦晋面道(佳预广场店)",
+      "address": "沪松公路1133号东南60米佳预广场",
+      "distance": "28m"
+    },
+    {
+      "brand": "星巴克沿街取餐点(上海佳预广场店)",
+      "address": "佳预大厦西北侧",
+      "distance": "29m"
+    },
+    {
+      "brand": "千里香馄饨王(九里亭店)",
+      "address": "沪松公路1133号佳预广场F1层",
+      "distance": "47m"
+    },
+    {
+      "brand": "竑云阁快餐炒菜(九亭沪松公路店)",
+      "address": "沪松公路1133号佳预广场F1层",
+      "distance": "48m"
+    },
+    {
+      "brand": "鲁味鲜",
+      "address": "涞亭南路8号一栋一层",
+      "distance": "79m"
+    },
+    {
+      "brand": "luckin coffee 瑞幸咖啡(上海虹桥枢纽国展中心皇冠晶品酒店店)",
+      "address": "上海佳预大厦东北门旁",
+      "distance": "93m"
+    },
+    {
+      "brand": "睦记化府城市饭堂(涞亭南路店)",
+      "address": "九亭镇涞亭南路8号1幢1层B02-03号",
+      "distance": "93m"
+    },
+    {
+      "brand": "朴东太韩式炸鸡·火鸡面",
+      "address": "沪松公路与涞亭南路交叉口西南80米",
+      "distance": "99m"
+    },
+    {
+      "brand": "星巴克(佳预广场店)",
+      "address": "九亭镇沪松公路1177号5幢地上一层005、006室",
+      "distance": "24m"
+    },
+    {
+      "brand": "马记云兰州牛肉面(上海佳预广场店)",
+      "address": "九亭镇沪松公路1177号5幢一层016-1",
+      "distance": "27m"
+    },
+    {
+      "brand": "秦晋面道(佳预广场店)",
+      "address": "沪松公路1133号东南60米佳预广场",
+      "distance": "28m"
+    },
+    {
+      "brand": "星巴克沿街取餐点(上海佳预广场店)",
+      "address": "佳预大厦西北侧",
+      "distance": "29m"
+    },
+    {
+      "brand": "千里香馄饨王(九里亭店)",
+      "address": "沪松公路1133号佳预广场F1层",
+      "distance": "47m"
+    },
+    {
+      "brand": "竑云阁快餐炒菜(九亭沪松公路店)",
+      "address": "沪松公路1133号佳预广场F1层",
+      "distance": "48m"
+    },
+    {
+      "brand": "鲁味鲜",
+      "address": "涞亭南路8号一栋一层",
+      "distance": "79m"
+    },
+    {
+      "brand": "luckin coffee 瑞幸咖啡(上海虹桥枢纽国展中心皇冠晶品酒店店)",
+      "address": "上海佳预大厦东北门旁",
+      "distance": "93m"
+    },
+    {
+      "brand": "睦记化府城市饭堂(涞亭南路店)",
+      "address": "九亭镇涞亭南路8号1幢1层B02-03号",
+      "distance": "93m"
+    },
+    {
+      "brand": "朴东太韩式炸鸡·火鸡面",
+      "address": "沪松公路与涞亭南路交叉口西南80米",
+      "distance": "99m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海九亭旭辉U天地",
+      "open_date": "2017-03-19",
+      "area": "4万㎡",
+      "jun_daily_avg": "1.1万人次",
+      "weekday_avg": "1.1万人次",
+      "holiday_avg": "1.1万人次"
+    },
+    {
+      "name": "上海贝尚坊时尚生活中心",
+      "open_date": "2010-01-01",
+      "area": "4.2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海九亭金地广场",
+      "open_date": "2019-09-21",
+      "area": "8万㎡",
+      "jun_daily_avg": "6.3万人次",
+      "weekday_avg": "5.8万人次",
+      "holiday_avg": "7.7万人次"
+    },
+    {
+      "name": "上海摩立盛汇生活广场",
+      "open_date": "-",
+      "area": "2.2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 6.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 66.7
+    },
+    {
+      "type": "购物",
+      "count": 4.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 75.0
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 3.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 33.3
+    },
+    {
+      "type": "教育培训",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 50.0
+    }
+  ]
+}

@@ -1,0 +1,486 @@
+{
+  "name": "中建广场·乐荟天地",
+  "city": "上海市",
+  "address": "上海市奉贤区南桥镇沪杭公路228号(西渡地铁站出入口步行120米)",
+  "lat": 30.993728,
+  "lng": 121.438556,
+  "overview": {
+    "score": 91.3,
+    "score_rank": "市内前30%",
+    "population_score": 95.6,
+    "area_score": 77.4,
+    "consumption_score": 62.3,
+    "industry_score": 91.3,
+    "annual_sales": "西渡地铁紧邻商业，3层连廊连接地铁。一层零售、二层儿童集合、三层餐饮集合。",
+    "annual_sales_unit": "-",
+    "area_size_sqm": null,
+    "open_date": "2012-12-30",
+    "operator": "",
+    "brand": "",
+    "type": "美食型",
+    "floors": ""
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "-",
+    "annual_daily_rank": "",
+    "jun_total": 62.9,
+    "jun_total_rank": "市内商场第184名",
+    "jun_daily_avg": 2.1,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第184名",
+    "weekday_avg": 1.9,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第187名",
+    "holiday_avg": 2.6,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第178名"
+  },
+  "population": {
+    "residential": {
+      "500m": 3.1,
+      "1_5km": 11.1,
+      "3km": 31.0
+    },
+    "office": {
+      "500m": 1.1,
+      "1_5km": 3.6,
+      "3km": 13.0
+    },
+    "permanent": {
+      "500m": 3.4,
+      "1_5km": 10.2,
+      "3km": 28.3
+    }
+  },
+  "business": {
+    "competitors": 2.0,
+    "food": 165.0,
+    "shopping": 167.0,
+    "leisure": 7.0,
+    "education": 10.0,
+    "hotel": 9.0,
+    "services": 173.0,
+    "fitness": 8.0,
+    "auto": 13.0,
+    "total_stores": 142.0,
+    "old_store_3yr_pct": 51.0
+  },
+  "nearby_poi": {
+    "business": 1.0,
+    "community": 96.0,
+    "office": 3.0,
+    "school": 12.0,
+    "hospital": 9.0,
+    "transport": 13.0,
+    "scenic": 38.0
+  },
+  "demographics": {
+    "male_pct": 52.7,
+    "female_pct": null,
+    "education": {
+      "小学": 11.6,
+      "初中": 20.4,
+      "高中": 11.9,
+      "大专": 7.9,
+      "本科": 42.6,
+      "硕士": 3.9,
+      "博士": 1.7
+    },
+    "has_children_pct": 60.0,
+    "no_children_pct": 40.0
+  },
+  "scraped_at": "2026-08-01T07:45:28.609Z",
+  "nearby_restaurants": [
+    {
+      "brand": "牛约堡-牛肉汉堡(诺亚新天地店)",
+      "address": "牡丹江路318号诺亚新天地D楼D202单元",
+      "distance": "9m"
+    },
+    {
+      "brand": "杨国福麻辣烫(牡丹江路店)",
+      "address": "牡丹江路318号D楼D216单元",
+      "distance": "13m"
+    },
+    {
+      "brand": "小藤椒农家菜(诺亚新天地店)",
+      "address": "牡丹江路318号诺亚新天地D栋一楼",
+      "distance": "18m"
+    },
+    {
+      "brand": "本清素·我家酸菜鱼(诺亚新天地店)",
+      "address": "牡丹江路318号诺亚新天地D幢2层208室",
+      "distance": "25m"
+    },
+    {
+      "brand": "到屋早日式料理·深夜食堂(诺亚广场店)",
+      "address": "牡丹江路318号诺亚新天地2F层",
+      "distance": "26m"
+    },
+    {
+      "brand": "陶然美食(诺亚新天地广场店)",
+      "address": "牡丹江路与牡丹江路359号通道交叉口西南220米",
+      "distance": "39m"
+    },
+    {
+      "brand": "老北京爆肚",
+      "address": "牡丹江路与牡丹江路359号通道交叉口西南220米",
+      "distance": "40m"
+    },
+    {
+      "brand": "大米先生(诺亚新天地店)",
+      "address": "牡丹江路318号诺亚新天地1F层",
+      "distance": "44m"
+    },
+    {
+      "brand": "CoCo都可(牡丹诺亚店)",
+      "address": "牡丹江路318号诺亚新天地1F层",
+      "distance": "46m"
+    },
+    {
+      "brand": "夸父炸串",
+      "address": "牡丹江路318号诺亚新天地商场1层B119",
+      "distance": "69m"
+    },
+    {
+      "brand": "牛约堡-牛肉汉堡(诺亚新天地店)",
+      "address": "牡丹江路318号诺亚新天地D楼D202单元",
+      "distance": "9m"
+    },
+    {
+      "brand": "杨国福麻辣烫(牡丹江路店)",
+      "address": "牡丹江路318号D楼D216单元",
+      "distance": "13m"
+    },
+    {
+      "brand": "小藤椒农家菜(诺亚新天地店)",
+      "address": "牡丹江路318号诺亚新天地D栋一楼",
+      "distance": "18m"
+    },
+    {
+      "brand": "本清素·我家酸菜鱼(诺亚新天地店)",
+      "address": "牡丹江路318号诺亚新天地D幢2层208室",
+      "distance": "25m"
+    },
+    {
+      "brand": "到屋早日式料理·深夜食堂(诺亚广场店)",
+      "address": "牡丹江路318号诺亚新天地2F层",
+      "distance": "26m"
+    },
+    {
+      "brand": "陶然美食(诺亚新天地广场店)",
+      "address": "牡丹江路与牡丹江路359号通道交叉口西南220米",
+      "distance": "39m"
+    },
+    {
+      "brand": "老北京爆肚",
+      "address": "牡丹江路与牡丹江路359号通道交叉口西南220米",
+      "distance": "40m"
+    },
+    {
+      "brand": "大米先生(诺亚新天地店)",
+      "address": "牡丹江路318号诺亚新天地1F层",
+      "distance": "44m"
+    },
+    {
+      "brand": "CoCo都可(牡丹诺亚店)",
+      "address": "牡丹江路318号诺亚新天地1F层",
+      "distance": "46m"
+    },
+    {
+      "brand": "夸父炸串",
+      "address": "牡丹江路318号诺亚新天地商场1层B119",
+      "distance": "69m"
+    },
+    {
+      "brand": "牛约堡-牛肉汉堡(诺亚新天地店)",
+      "address": "牡丹江路318号诺亚新天地D楼D202单元",
+      "distance": "9m"
+    },
+    {
+      "brand": "杨国福麻辣烫(牡丹江路店)",
+      "address": "牡丹江路318号D楼D216单元",
+      "distance": "13m"
+    },
+    {
+      "brand": "小藤椒农家菜(诺亚新天地店)",
+      "address": "牡丹江路318号诺亚新天地D栋一楼",
+      "distance": "18m"
+    },
+    {
+      "brand": "本清素·我家酸菜鱼(诺亚新天地店)",
+      "address": "牡丹江路318号诺亚新天地D幢2层208室",
+      "distance": "25m"
+    },
+    {
+      "brand": "到屋早日式料理·深夜食堂(诺亚广场店)",
+      "address": "牡丹江路318号诺亚新天地2F层",
+      "distance": "26m"
+    },
+    {
+      "brand": "陶然美食(诺亚新天地广场店)",
+      "address": "牡丹江路与牡丹江路359号通道交叉口西南220米",
+      "distance": "39m"
+    },
+    {
+      "brand": "老北京爆肚",
+      "address": "牡丹江路与牡丹江路359号通道交叉口西南220米",
+      "distance": "40m"
+    },
+    {
+      "brand": "大米先生(诺亚新天地店)",
+      "address": "牡丹江路318号诺亚新天地1F层",
+      "distance": "44m"
+    },
+    {
+      "brand": "CoCo都可(牡丹诺亚店)",
+      "address": "牡丹江路318号诺亚新天地1F层",
+      "distance": "46m"
+    },
+    {
+      "brand": "夸父炸串",
+      "address": "牡丹江路318号诺亚新天地商场1层B119",
+      "distance": "69m"
+    },
+    {
+      "brand": "牛约堡-牛肉汉堡(诺亚新天地店)",
+      "address": "牡丹江路318号诺亚新天地D楼D202单元",
+      "distance": "9m"
+    },
+    {
+      "brand": "杨国福麻辣烫(牡丹江路店)",
+      "address": "牡丹江路318号D楼D216单元",
+      "distance": "13m"
+    },
+    {
+      "brand": "小藤椒农家菜(诺亚新天地店)",
+      "address": "牡丹江路318号诺亚新天地D栋一楼",
+      "distance": "18m"
+    },
+    {
+      "brand": "本清素·我家酸菜鱼(诺亚新天地店)",
+      "address": "牡丹江路318号诺亚新天地D幢2层208室",
+      "distance": "25m"
+    },
+    {
+      "brand": "到屋早日式料理·深夜食堂(诺亚广场店)",
+      "address": "牡丹江路318号诺亚新天地2F层",
+      "distance": "26m"
+    },
+    {
+      "brand": "陶然美食(诺亚新天地广场店)",
+      "address": "牡丹江路与牡丹江路359号通道交叉口西南220米",
+      "distance": "39m"
+    },
+    {
+      "brand": "老北京爆肚",
+      "address": "牡丹江路与牡丹江路359号通道交叉口西南220米",
+      "distance": "40m"
+    },
+    {
+      "brand": "大米先生(诺亚新天地店)",
+      "address": "牡丹江路318号诺亚新天地1F层",
+      "distance": "44m"
+    },
+    {
+      "brand": "CoCo都可(牡丹诺亚店)",
+      "address": "牡丹江路318号诺亚新天地1F层",
+      "distance": "46m"
+    },
+    {
+      "brand": "夸父炸串",
+      "address": "牡丹江路318号诺亚新天地商场1层B119",
+      "distance": "69m"
+    },
+    {
+      "brand": "牛约堡-牛肉汉堡(诺亚新天地店)",
+      "address": "牡丹江路318号诺亚新天地D楼D202单元",
+      "distance": "9m"
+    },
+    {
+      "brand": "杨国福麻辣烫(牡丹江路店)",
+      "address": "牡丹江路318号D楼D216单元",
+      "distance": "13m"
+    },
+    {
+      "brand": "小藤椒农家菜(诺亚新天地店)",
+      "address": "牡丹江路318号诺亚新天地D栋一楼",
+      "distance": "18m"
+    },
+    {
+      "brand": "本清素·我家酸菜鱼(诺亚新天地店)",
+      "address": "牡丹江路318号诺亚新天地D幢2层208室",
+      "distance": "25m"
+    },
+    {
+      "brand": "到屋早日式料理·深夜食堂(诺亚广场店)",
+      "address": "牡丹江路318号诺亚新天地2F层",
+      "distance": "26m"
+    },
+    {
+      "brand": "陶然美食(诺亚新天地广场店)",
+      "address": "牡丹江路与牡丹江路359号通道交叉口西南220米",
+      "distance": "39m"
+    },
+    {
+      "brand": "老北京爆肚",
+      "address": "牡丹江路与牡丹江路359号通道交叉口西南220米",
+      "distance": "40m"
+    },
+    {
+      "brand": "大米先生(诺亚新天地店)",
+      "address": "牡丹江路318号诺亚新天地1F层",
+      "distance": "44m"
+    },
+    {
+      "brand": "CoCo都可(牡丹诺亚店)",
+      "address": "牡丹江路318号诺亚新天地1F层",
+      "distance": "46m"
+    },
+    {
+      "brand": "夸父炸串",
+      "address": "牡丹江路318号诺亚新天地商场1层B119",
+      "distance": "69m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海K11",
+      "open_date": "2013-06-01",
+      "area": "13万㎡",
+      "jun_daily_avg": "1.8万人次",
+      "weekday_avg": "1.7万人次",
+      "holiday_avg": "2.1万人次"
+    },
+    {
+      "name": "上海中环广场",
+      "open_date": "1999-01-01",
+      "area": "1.2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海香港广场",
+      "open_date": "1998-01-01",
+      "area": "3.8万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海新天地北里",
+      "open_date": "2001-01-01",
+      "area": "5.7万㎡",
+      "jun_daily_avg": "1.5万人次",
+      "weekday_avg": "1.4万人次",
+      "holiday_avg": "2万人次"
+    },
+    {
+      "name": "上海力宝广场",
+      "open_date": "1999-01-01",
+      "area": "1万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海无限极荟",
+      "open_date": "2016-12-03",
+      "area": "3万㎡",
+      "jun_daily_avg": "1.5万人次",
+      "weekday_avg": "1.6万人次",
+      "holiday_avg": "1.2万人次"
+    },
+    {
+      "name": "上海广场",
+      "open_date": "2020-09-29",
+      "area": "4万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海湖滨道购物中心",
+      "open_date": "2015-01-01",
+      "area": "5.1万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海新天地时尚Ⅱ",
+      "open_date": "2023-01-12",
+      "area": "2.6万㎡",
+      "jun_daily_avg": "1.3万人次",
+      "weekday_avg": "1.1万人次",
+      "holiday_avg": "1.8万人次"
+    },
+    {
+      "name": "大上海时代广场",
+      "open_date": "2000-01-01",
+      "area": "5万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 50.0,
+      "within_1yr_pct": 24.0,
+      "1_3yr_pct": 28.0,
+      "over_3yr_pct": 48.0
+    },
+    {
+      "type": "购物",
+      "count": 36.0,
+      "within_1yr_pct": 8.3,
+      "1_3yr_pct": 13.9,
+      "over_3yr_pct": 77.8
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 6.0,
+      "within_1yr_pct": 16.7,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 33.3
+    },
+    {
+      "type": "教育培训",
+      "count": 5.0,
+      "within_1yr_pct": 40.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 60.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 2.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "生活服务",
+      "count": 37.0,
+      "within_1yr_pct": 27.0,
+      "1_3yr_pct": 37.8,
+      "over_3yr_pct": 35.1
+    },
+    {
+      "type": "运动健身",
+      "count": 4.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    }
+  ]
+}

@@ -1,0 +1,206 @@
+{
+  "name": "泰禾里",
+  "city": "北京市",
+  "address": "上海市闵行区虹桥镇银子铁板烧金石广场",
+  "lat": null,
+  "lng": null,
+  "overview": {
+    "score": null,
+    "score_rank": "",
+    "population_score": 90.5,
+    "area_score": 93.8,
+    "consumption_score": 77.9,
+    "industry_score": 66.9,
+    "annual_sales": "金石广场位于丰台区南苑石榴庄地区，临近宋家庄交通枢纽，是集商业、办公、酒店等多个功能的综合商业体",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 5.3,
+    "open_date": "2023-01-01",
+    "operator": "金石广场整体运营公司",
+    "brand": "",
+    "type": "综合型",
+    "floors": "B3-L4"
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "-",
+    "annual_daily_rank": "",
+    "jun_total": null,
+    "jun_total_rank": "",
+    "jun_daily_avg": null,
+    "jun_daily_unit": "",
+    "jun_daily_rank": "",
+    "weekday_avg": null,
+    "weekday_unit": "",
+    "weekday_rank": "",
+    "holiday_avg": null,
+    "holiday_unit": "",
+    "holiday_rank": ""
+  },
+  "population": {
+    "residential": {
+      "500m": 2.4,
+      "1_5km": 17.9,
+      "3km": 51.5
+    },
+    "office": {
+      "500m": 2.1,
+      "1_5km": 11.7,
+      "3km": 43.1
+    },
+    "permanent": {
+      "500m": 3.0,
+      "1_5km": 18.9,
+      "3km": 54.0
+    }
+  },
+  "business": {
+    "competitors": 7.0,
+    "food": 378.0,
+    "shopping": 289.0,
+    "leisure": 65.0,
+    "education": 70.0,
+    "hotel": 37.0,
+    "services": 274.0,
+    "fitness": 40.0,
+    "auto": 36.0,
+    "total_stores": 11.0,
+    "old_store_3yr_pct": 73.0
+  },
+  "nearby_poi": {
+    "business": 8.0,
+    "community": 416.0,
+    "office": 80.0,
+    "school": 32.0,
+    "hospital": 45.0,
+    "transport": 12.0,
+    "scenic": 204.0
+  },
+  "demographics": {
+    "male_pct": 50.2,
+    "female_pct": null,
+    "education": {
+      "小学": 9.4,
+      "初中": 18.2,
+      "高中": 11.4,
+      "大专": 8.0,
+      "本科": 47.1,
+      "硕士": 4.7,
+      "博士": 1.2
+    },
+    "has_children_pct": 58.8,
+    "no_children_pct": 41.2
+  },
+  "scraped_at": "2026-08-01T10:55:12.951Z",
+  "nearby_restaurants": [
+    {
+      "brand": "蘭州牛肉面上海红松路店",
+      "address": "红松路94号(中国农业银行斜对面)",
+      "distance": "489m"
+    },
+    {
+      "brand": "星巴克臻选万象城1F店",
+      "address": "吴中路1599号L110c/L215号商铺",
+      "distance": "489m"
+    },
+    {
+      "brand": "滋味宴(金汇广场店)",
+      "address": "上海城区红松路148号202室",
+      "distance": "489m"
+    },
+    {
+      "brand": "沙县小吃(申能店)",
+      "address": "虹井路159号申能(龙柏新村地铁站3号口步行160米)",
+      "distance": "490m"
+    },
+    {
+      "brand": "宋小姐鸡蛋灌饼",
+      "address": "青衫路11号-3(龙柏新村地铁站4号口步行200米)",
+      "distance": "490m"
+    },
+    {
+      "brand": "楚楚园馅饼粥(闵行店)",
+      "address": "金汇华光城3期南门西80米",
+      "distance": "490m"
+    },
+    {
+      "brand": "肯德基(爱琴精选餐厅)",
+      "address": "吴中路1588号爱琴海购物中心B1层",
+      "distance": "492m"
+    },
+    {
+      "brand": "沈记私房菜(金汇·华光城店)",
+      "address": "虹桥镇红松路90号",
+      "distance": "492m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海万象城",
+      "open_date": "2017-09-23",
+      "area": "24万㎡",
+      "jun_daily_avg": "6.8万人次",
+      "weekday_avg": "6万人次",
+      "holiday_avg": "8.8万人次"
+    },
+    {
+      "name": "风度国际生活广场",
+      "open_date": "-",
+      "area": "-",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "虹霞商城",
+      "open_date": "-",
+      "area": "-",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 4.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    },
+    {
+      "type": "购物",
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "生活服务",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
+    }
+  ]
+}

@@ -1,0 +1,422 @@
+{
+  "name": "上海协信星光广场",
+  "city": "上海市",
+  "address": "上海市静安区大宁路街道云飞东路创富中心1期",
+  "lat": 31.296301,
+  "lng": 121.459079,
+  "overview": {
+    "score": 94.0,
+    "score_rank": "市内前30%",
+    "population_score": 74.9,
+    "area_score": 73.1,
+    "consumption_score": 85.8,
+    "industry_score": 94.2,
+    "annual_sales": "上海协信星光广场定位为高端精致时尚的购物中心，主打绿色生态模式和策略性的全业态布局，整体规划有下沉式中央广场、双首层格局、绿化平台、景观阳台、空中花园、溪谷等，可将室内室外空间有机结合",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 5.7,
+    "open_date": "2015-12-24",
+    "operator": "重庆协信远创实业有限公司",
+    "brand": "协信星光",
+    "type": "美食型",
+    "floors": "B1-L3"
+  },
+  "traffic": {
+    "annual_daily": 2.08,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第131",
+    "jun_total": 81.5,
+    "jun_total_rank": "市内商场第148名",
+    "jun_daily_avg": 2.7,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第148名",
+    "weekday_avg": 2.9,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第132名",
+    "holiday_avg": 2.3,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第191名"
+  },
+  "population": {
+    "residential": {
+      "500m": 1.2,
+      "1_5km": 19.6,
+      "3km": 97.3
+    },
+    "office": {
+      "500m": 1.9,
+      "1_5km": 12.4,
+      "3km": 52.0
+    },
+    "permanent": {
+      "500m": 1.6,
+      "1_5km": 21.4,
+      "3km": 102.7
+    }
+  },
+  "business": {
+    "competitors": 7.0,
+    "food": 131.0,
+    "shopping": 58.0,
+    "leisure": 12.0,
+    "education": 23.0,
+    "hotel": 7.0,
+    "services": 61.0,
+    "fitness": 17.0,
+    "auto": 32.0,
+    "total_stores": 180.0,
+    "old_store_3yr_pct": 49.0
+  },
+  "nearby_poi": {
+    "business": 2.0,
+    "community": 592.0,
+    "office": 68.0,
+    "school": 38.0,
+    "hospital": 92.0,
+    "transport": 6.0,
+    "scenic": 139.0
+  },
+  "demographics": {
+    "male_pct": 45.9,
+    "female_pct": null,
+    "education": {
+      "小学": 9.1,
+      "初中": 17.9,
+      "高中": 11.5,
+      "大专": 7.4,
+      "本科": 48.3,
+      "硕士": 4.0,
+      "博士": 1.8
+    },
+    "has_children_pct": 57.8,
+    "no_children_pct": 42.2
+  },
+  "scraped_at": "2026-07-31T12:31:40.954Z",
+  "nearby_restaurants": [
+    {
+      "brand": "赛百味(静安协信店)",
+      "address": "江场路1228弄3、4号NL155B/C室",
+      "distance": "60m"
+    },
+    {
+      "brand": "多乐之日(江场路店)",
+      "address": "江场路1228弄协信星光广场8号NL147室",
+      "distance": "64m"
+    },
+    {
+      "brand": "汉堡王(上海静安协信购物中心)",
+      "address": "江场路1228弄14号NL145B NL119A店铺",
+      "distance": "66m"
+    },
+    {
+      "brand": "静安荟(创富中心1期店)",
+      "address": "寿阳路99弄30号1F(云飞东路入口进停车场)",
+      "distance": "69m"
+    },
+    {
+      "brand": "味师蒋大厨",
+      "address": "云飞东路与寿阳路交叉口东北160米",
+      "distance": "75m"
+    },
+    {
+      "brand": "泰库叻东南亚料理",
+      "address": "云飞东路与寿阳路交叉口东北160米",
+      "distance": "75m"
+    },
+    {
+      "brand": "NNCAFE诺诺咖啡(静安协信星光广场店)",
+      "address": "云飞东路与寿阳路交叉口东北100米",
+      "distance": "82m"
+    },
+    {
+      "brand": "七鲜小厨(协信星光广场店)",
+      "address": "上海城区江厂路1212号上海协信星光广场南里",
+      "distance": "86m"
+    },
+    {
+      "brand": "mu咖啡",
+      "address": "云飞东路与寿阳路交叉口东60米",
+      "distance": "88m"
+    },
+    {
+      "brand": "德焙面包(协信星光广场店)",
+      "address": "寿阳路90号协信广场一楼德焙面包店",
+      "distance": "89m"
+    },
+    {
+      "brand": "赛百味(静安协信店)",
+      "address": "江场路1228弄3、4号NL155B/C室",
+      "distance": "60m"
+    },
+    {
+      "brand": "多乐之日(江场路店)",
+      "address": "江场路1228弄协信星光广场8号NL147室",
+      "distance": "64m"
+    },
+    {
+      "brand": "汉堡王(上海静安协信购物中心)",
+      "address": "江场路1228弄14号NL145B NL119A店铺",
+      "distance": "66m"
+    },
+    {
+      "brand": "静安荟(创富中心1期店)",
+      "address": "寿阳路99弄30号1F(云飞东路入口进停车场)",
+      "distance": "69m"
+    },
+    {
+      "brand": "味师蒋大厨",
+      "address": "云飞东路与寿阳路交叉口东北160米",
+      "distance": "75m"
+    },
+    {
+      "brand": "泰库叻东南亚料理",
+      "address": "云飞东路与寿阳路交叉口东北160米",
+      "distance": "75m"
+    },
+    {
+      "brand": "NNCAFE诺诺咖啡(静安协信星光广场店)",
+      "address": "云飞东路与寿阳路交叉口东北100米",
+      "distance": "82m"
+    },
+    {
+      "brand": "七鲜小厨(协信星光广场店)",
+      "address": "上海城区江厂路1212号上海协信星光广场南里",
+      "distance": "86m"
+    },
+    {
+      "brand": "mu咖啡",
+      "address": "云飞东路与寿阳路交叉口东60米",
+      "distance": "88m"
+    },
+    {
+      "brand": "德焙面包(协信星光广场店)",
+      "address": "寿阳路90号协信广场一楼德焙面包店",
+      "distance": "89m"
+    },
+    {
+      "brand": "赛百味(静安协信店)",
+      "address": "江场路1228弄3、4号NL155B/C室",
+      "distance": "60m"
+    },
+    {
+      "brand": "多乐之日(江场路店)",
+      "address": "江场路1228弄协信星光广场8号NL147室",
+      "distance": "64m"
+    },
+    {
+      "brand": "汉堡王(上海静安协信购物中心)",
+      "address": "江场路1228弄14号NL145B NL119A店铺",
+      "distance": "66m"
+    },
+    {
+      "brand": "静安荟(创富中心1期店)",
+      "address": "寿阳路99弄30号1F(云飞东路入口进停车场)",
+      "distance": "69m"
+    },
+    {
+      "brand": "味师蒋大厨",
+      "address": "云飞东路与寿阳路交叉口东北160米",
+      "distance": "75m"
+    },
+    {
+      "brand": "泰库叻东南亚料理",
+      "address": "云飞东路与寿阳路交叉口东北160米",
+      "distance": "75m"
+    },
+    {
+      "brand": "NNCAFE诺诺咖啡(静安协信星光广场店)",
+      "address": "云飞东路与寿阳路交叉口东北100米",
+      "distance": "82m"
+    },
+    {
+      "brand": "七鲜小厨(协信星光广场店)",
+      "address": "上海城区江厂路1212号上海协信星光广场南里",
+      "distance": "86m"
+    },
+    {
+      "brand": "mu咖啡",
+      "address": "云飞东路与寿阳路交叉口东60米",
+      "distance": "88m"
+    },
+    {
+      "brand": "德焙面包(协信星光广场店)",
+      "address": "寿阳路90号协信广场一楼德焙面包店",
+      "distance": "89m"
+    },
+    {
+      "brand": "赛百味(静安协信店)",
+      "address": "江场路1228弄3、4号NL155B/C室",
+      "distance": "60m"
+    },
+    {
+      "brand": "多乐之日(江场路店)",
+      "address": "江场路1228弄协信星光广场8号NL147室",
+      "distance": "64m"
+    },
+    {
+      "brand": "汉堡王(上海静安协信购物中心)",
+      "address": "江场路1228弄14号NL145B NL119A店铺",
+      "distance": "66m"
+    },
+    {
+      "brand": "静安荟(创富中心1期店)",
+      "address": "寿阳路99弄30号1F(云飞东路入口进停车场)",
+      "distance": "69m"
+    },
+    {
+      "brand": "味师蒋大厨",
+      "address": "云飞东路与寿阳路交叉口东北160米",
+      "distance": "75m"
+    },
+    {
+      "brand": "泰库叻东南亚料理",
+      "address": "云飞东路与寿阳路交叉口东北160米",
+      "distance": "75m"
+    },
+    {
+      "brand": "NNCAFE诺诺咖啡(静安协信星光广场店)",
+      "address": "云飞东路与寿阳路交叉口东北100米",
+      "distance": "82m"
+    },
+    {
+      "brand": "七鲜小厨(协信星光广场店)",
+      "address": "上海城区江厂路1212号上海协信星光广场南里",
+      "distance": "86m"
+    },
+    {
+      "brand": "mu咖啡",
+      "address": "云飞东路与寿阳路交叉口东60米",
+      "distance": "88m"
+    },
+    {
+      "brand": "德焙面包(协信星光广场店)",
+      "address": "寿阳路90号协信广场一楼德焙面包店",
+      "distance": "89m"
+    },
+    {
+      "brand": "赛百味(静安协信店)",
+      "address": "江场路1228弄3、4号NL155B/C室",
+      "distance": "60m"
+    },
+    {
+      "brand": "多乐之日(江场路店)",
+      "address": "江场路1228弄协信星光广场8号NL147室",
+      "distance": "64m"
+    },
+    {
+      "brand": "汉堡王(上海静安协信购物中心)",
+      "address": "江场路1228弄14号NL145B NL119A店铺",
+      "distance": "66m"
+    },
+    {
+      "brand": "静安荟(创富中心1期店)",
+      "address": "寿阳路99弄30号1F(云飞东路入口进停车场)",
+      "distance": "69m"
+    },
+    {
+      "brand": "味师蒋大厨",
+      "address": "云飞东路与寿阳路交叉口东北160米",
+      "distance": "75m"
+    },
+    {
+      "brand": "泰库叻东南亚料理",
+      "address": "云飞东路与寿阳路交叉口东北160米",
+      "distance": "75m"
+    },
+    {
+      "brand": "NNCAFE诺诺咖啡(静安协信星光广场店)",
+      "address": "云飞东路与寿阳路交叉口东北100米",
+      "distance": "82m"
+    },
+    {
+      "brand": "七鲜小厨(协信星光广场店)",
+      "address": "上海城区江厂路1212号上海协信星光广场南里",
+      "distance": "86m"
+    },
+    {
+      "brand": "mu咖啡",
+      "address": "云飞东路与寿阳路交叉口东60米",
+      "distance": "88m"
+    },
+    {
+      "brand": "德焙面包(协信星光广场店)",
+      "address": "寿阳路90号协信广场一楼德焙面包店",
+      "distance": "89m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海虹口今雨荟",
+      "open_date": "2025-01-01",
+      "area": "7万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海凉城购物中心",
+      "open_date": "2021-01-01",
+      "area": "5万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 86.0,
+      "within_1yr_pct": 18.6,
+      "1_3yr_pct": 27.9,
+      "over_3yr_pct": 53.5
+    },
+    {
+      "type": "购物",
+      "count": 32.0,
+      "within_1yr_pct": 21.9,
+      "1_3yr_pct": 34.4,
+      "over_3yr_pct": 43.8
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 6.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 83.3,
+      "over_3yr_pct": 16.7
+    },
+    {
+      "type": "教育培训",
+      "count": 9.0,
+      "within_1yr_pct": 22.2,
+      "1_3yr_pct": 22.2,
+      "over_3yr_pct": 55.6
+    },
+    {
+      "type": "酒店住宿",
+      "count": 5.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 80.0
+    },
+    {
+      "type": "生活服务",
+      "count": 17.0,
+      "within_1yr_pct": 35.3,
+      "1_3yr_pct": 29.4,
+      "over_3yr_pct": 35.3
+    },
+    {
+      "type": "运动健身",
+      "count": 8.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 25.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 17.0,
+      "within_1yr_pct": 11.8,
+      "1_3yr_pct": 29.4,
+      "over_3yr_pct": 58.8
+    }
+  ]
+}

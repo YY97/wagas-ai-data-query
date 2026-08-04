@@ -1,0 +1,472 @@
+{
+  "name": "上海徐家汇TPY中心",
+  "city": "上海市",
+  "address": "上海市徐汇区肇嘉浜路1111号",
+  "lat": 31.192944,
+  "lng": 121.439649,
+  "overview": {
+    "score": 79.4,
+    "score_rank": "市内前30%",
+    "population_score": 86.5,
+    "area_score": 100.0,
+    "consumption_score": 87.8,
+    "industry_score": 79.2,
+    "annual_sales": "上海徐家汇TPY中心位于肇嘉浜路1117号，是原太平洋数码广场二期改造后的全新商业综合体。项目以“科技、潮流、年轻”为核心理念，打造了集智能科技、特色餐饮、次元潮玩、生活服务为一体的商业空间。商场共8层，地下二层为二次元商业街，吸引了大量年轻消费者",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 1.5,
+    "open_date": "2024-04-30",
+    "operator": "太平洋科技发展集团有限公司",
+    "brand": "新鸿基有限公司",
+    "type": "综合型",
+    "floors": "B1-L6"
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "-",
+    "annual_daily_rank": "",
+    "jun_total": null,
+    "jun_total_rank": "",
+    "jun_daily_avg": null,
+    "jun_daily_unit": "",
+    "jun_daily_rank": "",
+    "weekday_avg": null,
+    "weekday_unit": "",
+    "weekday_rank": "",
+    "holiday_avg": null,
+    "holiday_unit": "",
+    "holiday_rank": ""
+  },
+  "population": {
+    "residential": {
+      "500m": 2.0,
+      "1_5km": 26.7,
+      "3km": 95.6
+    },
+    "office": {
+      "500m": 5.1,
+      "1_5km": 26.4,
+      "3km": 82.7
+    },
+    "permanent": {
+      "500m": 5.3,
+      "1_5km": 31.3,
+      "3km": 106.1
+    }
+  },
+  "business": {
+    "competitors": 26.0,
+    "food": 630.0,
+    "shopping": 731.0,
+    "leisure": 81.0,
+    "education": 93.0,
+    "hotel": 62.0,
+    "services": 379.0,
+    "fitness": 52.0,
+    "auto": 34.0,
+    "total_stores": 37.0,
+    "old_store_3yr_pct": 32.0
+  },
+  "nearby_poi": {
+    "business": 16.0,
+    "community": 1097.0,
+    "office": 149.0,
+    "school": 71.0,
+    "hospital": 151.0,
+    "transport": 9.0,
+    "scenic": 397.0
+  },
+  "demographics": {
+    "male_pct": null,
+    "female_pct": null,
+    "education": {
+      "小学": 8.1,
+      "初中": 15.5,
+      "高中": 11.6,
+      "大专": 6.6,
+      "本科": 49.4,
+      "硕士": 6.7,
+      "博士": 2.1
+    },
+    "has_children_pct": 57.4,
+    "no_children_pct": 42.6
+  },
+  "scraped_at": "2026-07-31T16:14:49.686Z",
+  "nearby_restaurants": [
+    {
+      "brand": "左庭右院鲜牛肉火锅(徐汇TPY店)",
+      "address": "肇嘉浜路1117号(徐家汇地铁站10号口美罗城隔壁TPY中心5楼整层)",
+      "distance": "3m"
+    },
+    {
+      "brand": "茶百道(上海TPY中心店)",
+      "address": "上海城区肇嘉浜路1117号TPY中心B1-02",
+      "distance": "3m"
+    },
+    {
+      "brand": "茉莉奶白(上海徐家汇TPY中心店)",
+      "address": "肇嘉浜路1117号TPY中心B1-21-22号茉莉奶白",
+      "distance": "3m"
+    },
+    {
+      "brand": "鸽香世家·中山头牌药膳乳鸽·啫啫煲",
+      "address": "肇嘉浜路1117号四楼L3A",
+      "distance": "3m"
+    },
+    {
+      "brand": "炙都·板前烤肉饭(TPY店)",
+      "address": "肇嘉浜路1117号TPY B1楼115-117号",
+      "distance": "3m"
+    },
+    {
+      "brand": "云阿蛮云南生烫牛肉米线(TPY中心店)",
+      "address": "TPY中心地下一层B1-10",
+      "distance": "3m"
+    },
+    {
+      "brand": "渝八两重庆鸡公煲(上海TPY中心店)",
+      "address": "肇嘉浜路1117号TPY中心B1层08铺(徐家汇地铁站10号口)",
+      "distance": "4m"
+    },
+    {
+      "brand": "谷乐豆(徐汇店)",
+      "address": "漕溪北路辅路与肇嘉浜路交叉口东南40米",
+      "distance": "4m"
+    },
+    {
+      "brand": "有米有甜·米糕·糯米糍(徐汇TPY店)",
+      "address": "肇嘉浜路1117号上海太平洋科技广场B1层",
+      "distance": "4m"
+    },
+    {
+      "brand": "5T·潮茶生活·Bistro(徐家汇店)",
+      "address": "肇嘉浜路1117号TPY中心2层08-10铺",
+      "distance": "4m"
+    },
+    {
+      "brand": "左庭右院鲜牛肉火锅(徐汇TPY店)",
+      "address": "肇嘉浜路1117号(徐家汇地铁站10号口美罗城隔壁TPY中心5楼整层)",
+      "distance": "3m"
+    },
+    {
+      "brand": "茶百道(上海TPY中心店)",
+      "address": "上海城区肇嘉浜路1117号TPY中心B1-02",
+      "distance": "3m"
+    },
+    {
+      "brand": "茉莉奶白(上海徐家汇TPY中心店)",
+      "address": "肇嘉浜路1117号TPY中心B1-21-22号茉莉奶白",
+      "distance": "3m"
+    },
+    {
+      "brand": "鸽香世家·中山头牌药膳乳鸽·啫啫煲",
+      "address": "肇嘉浜路1117号四楼L3A",
+      "distance": "3m"
+    },
+    {
+      "brand": "炙都·板前烤肉饭(TPY店)",
+      "address": "肇嘉浜路1117号TPY B1楼115-117号",
+      "distance": "3m"
+    },
+    {
+      "brand": "云阿蛮云南生烫牛肉米线(TPY中心店)",
+      "address": "TPY中心地下一层B1-10",
+      "distance": "3m"
+    },
+    {
+      "brand": "渝八两重庆鸡公煲(上海TPY中心店)",
+      "address": "肇嘉浜路1117号TPY中心B1层08铺(徐家汇地铁站10号口)",
+      "distance": "4m"
+    },
+    {
+      "brand": "谷乐豆(徐汇店)",
+      "address": "漕溪北路辅路与肇嘉浜路交叉口东南40米",
+      "distance": "4m"
+    },
+    {
+      "brand": "有米有甜·米糕·糯米糍(徐汇TPY店)",
+      "address": "肇嘉浜路1117号上海太平洋科技广场B1层",
+      "distance": "4m"
+    },
+    {
+      "brand": "5T·潮茶生活·Bistro(徐家汇店)",
+      "address": "肇嘉浜路1117号TPY中心2层08-10铺",
+      "distance": "4m"
+    },
+    {
+      "brand": "左庭右院鲜牛肉火锅(徐汇TPY店)",
+      "address": "肇嘉浜路1117号(徐家汇地铁站10号口美罗城隔壁TPY中心5楼整层)",
+      "distance": "3m"
+    },
+    {
+      "brand": "茶百道(上海TPY中心店)",
+      "address": "上海城区肇嘉浜路1117号TPY中心B1-02",
+      "distance": "3m"
+    },
+    {
+      "brand": "茉莉奶白(上海徐家汇TPY中心店)",
+      "address": "肇嘉浜路1117号TPY中心B1-21-22号茉莉奶白",
+      "distance": "3m"
+    },
+    {
+      "brand": "鸽香世家·中山头牌药膳乳鸽·啫啫煲",
+      "address": "肇嘉浜路1117号四楼L3A",
+      "distance": "3m"
+    },
+    {
+      "brand": "炙都·板前烤肉饭(TPY店)",
+      "address": "肇嘉浜路1117号TPY B1楼115-117号",
+      "distance": "3m"
+    },
+    {
+      "brand": "云阿蛮云南生烫牛肉米线(TPY中心店)",
+      "address": "TPY中心地下一层B1-10",
+      "distance": "3m"
+    },
+    {
+      "brand": "渝八两重庆鸡公煲(上海TPY中心店)",
+      "address": "肇嘉浜路1117号TPY中心B1层08铺(徐家汇地铁站10号口)",
+      "distance": "4m"
+    },
+    {
+      "brand": "谷乐豆(徐汇店)",
+      "address": "漕溪北路辅路与肇嘉浜路交叉口东南40米",
+      "distance": "4m"
+    },
+    {
+      "brand": "有米有甜·米糕·糯米糍(徐汇TPY店)",
+      "address": "肇嘉浜路1117号上海太平洋科技广场B1层",
+      "distance": "4m"
+    },
+    {
+      "brand": "5T·潮茶生活·Bistro(徐家汇店)",
+      "address": "肇嘉浜路1117号TPY中心2层08-10铺",
+      "distance": "4m"
+    },
+    {
+      "brand": "左庭右院鲜牛肉火锅(徐汇TPY店)",
+      "address": "肇嘉浜路1117号(徐家汇地铁站10号口美罗城隔壁TPY中心5楼整层)",
+      "distance": "3m"
+    },
+    {
+      "brand": "茶百道(上海TPY中心店)",
+      "address": "上海城区肇嘉浜路1117号TPY中心B1-02",
+      "distance": "3m"
+    },
+    {
+      "brand": "茉莉奶白(上海徐家汇TPY中心店)",
+      "address": "肇嘉浜路1117号TPY中心B1-21-22号茉莉奶白",
+      "distance": "3m"
+    },
+    {
+      "brand": "鸽香世家·中山头牌药膳乳鸽·啫啫煲",
+      "address": "肇嘉浜路1117号四楼L3A",
+      "distance": "3m"
+    },
+    {
+      "brand": "炙都·板前烤肉饭(TPY店)",
+      "address": "肇嘉浜路1117号TPY B1楼115-117号",
+      "distance": "3m"
+    },
+    {
+      "brand": "云阿蛮云南生烫牛肉米线(TPY中心店)",
+      "address": "TPY中心地下一层B1-10",
+      "distance": "3m"
+    },
+    {
+      "brand": "渝八两重庆鸡公煲(上海TPY中心店)",
+      "address": "肇嘉浜路1117号TPY中心B1层08铺(徐家汇地铁站10号口)",
+      "distance": "4m"
+    },
+    {
+      "brand": "谷乐豆(徐汇店)",
+      "address": "漕溪北路辅路与肇嘉浜路交叉口东南40米",
+      "distance": "4m"
+    },
+    {
+      "brand": "有米有甜·米糕·糯米糍(徐汇TPY店)",
+      "address": "肇嘉浜路1117号上海太平洋科技广场B1层",
+      "distance": "4m"
+    },
+    {
+      "brand": "5T·潮茶生活·Bistro(徐家汇店)",
+      "address": "肇嘉浜路1117号TPY中心2层08-10铺",
+      "distance": "4m"
+    },
+    {
+      "brand": "左庭右院鲜牛肉火锅(徐汇TPY店)",
+      "address": "肇嘉浜路1117号(徐家汇地铁站10号口美罗城隔壁TPY中心5楼整层)",
+      "distance": "3m"
+    },
+    {
+      "brand": "茶百道(上海TPY中心店)",
+      "address": "上海城区肇嘉浜路1117号TPY中心B1-02",
+      "distance": "3m"
+    },
+    {
+      "brand": "茉莉奶白(上海徐家汇TPY中心店)",
+      "address": "肇嘉浜路1117号TPY中心B1-21-22号茉莉奶白",
+      "distance": "3m"
+    },
+    {
+      "brand": "鸽香世家·中山头牌药膳乳鸽·啫啫煲",
+      "address": "肇嘉浜路1117号四楼L3A",
+      "distance": "3m"
+    },
+    {
+      "brand": "炙都·板前烤肉饭(TPY店)",
+      "address": "肇嘉浜路1117号TPY B1楼115-117号",
+      "distance": "3m"
+    },
+    {
+      "brand": "云阿蛮云南生烫牛肉米线(TPY中心店)",
+      "address": "TPY中心地下一层B1-10",
+      "distance": "3m"
+    },
+    {
+      "brand": "渝八两重庆鸡公煲(上海TPY中心店)",
+      "address": "肇嘉浜路1117号TPY中心B1层08铺(徐家汇地铁站10号口)",
+      "distance": "4m"
+    },
+    {
+      "brand": "谷乐豆(徐汇店)",
+      "address": "漕溪北路辅路与肇嘉浜路交叉口东南40米",
+      "distance": "4m"
+    },
+    {
+      "brand": "有米有甜·米糕·糯米糍(徐汇TPY店)",
+      "address": "肇嘉浜路1117号上海太平洋科技广场B1层",
+      "distance": "4m"
+    },
+    {
+      "brand": "5T·潮茶生活·Bistro(徐家汇店)",
+      "address": "肇嘉浜路1117号TPY中心2层08-10铺",
+      "distance": "4m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海美罗城",
+      "open_date": "1998-01-01",
+      "area": "6.7万㎡",
+      "jun_daily_avg": "6.5万人次",
+      "weekday_avg": "5.7万人次",
+      "holiday_avg": "8.7万人次"
+    },
+    {
+      "name": "上海东方商厦(旗舰店)",
+      "open_date": "1993-01-01",
+      "area": "9万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海汇联商厦",
+      "open_date": "1991-07-18",
+      "area": "1.3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海港汇恒隆广场",
+      "open_date": "1999-12-28",
+      "area": "7万㎡",
+      "jun_daily_avg": "6.3万人次",
+      "weekday_avg": "6.2万人次",
+      "holiday_avg": "6.7万人次"
+    },
+    {
+      "name": "上海城开YOYO",
+      "open_date": "2018-09-30",
+      "area": "1.4万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海汇金百货(徐汇店)",
+      "open_date": "1998-09-01",
+      "area": "4万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海永新坊",
+      "open_date": "2007-12-01",
+      "area": "1.2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海TWO ITC",
+      "open_date": "2019-01-01",
+      "area": "3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海One ITC",
+      "open_date": "2019-12-15",
+      "area": "3.8万㎡",
+      "jun_daily_avg": "1.4万人次",
+      "weekday_avg": "1.3万人次",
+      "holiday_avg": "1.6万人次"
+    },
+    {
+      "name": "上海百联徐汇商业广场",
+      "open_date": "2012-01-19",
+      "area": "2万㎡",
+      "jun_daily_avg": "1.5万人次",
+      "weekday_avg": "1.4万人次",
+      "holiday_avg": "1.8万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 16.0,
+      "within_1yr_pct": 18.8,
+      "1_3yr_pct": 37.5,
+      "over_3yr_pct": 43.8
+    },
+    {
+      "type": "购物",
+      "count": 9.0,
+      "within_1yr_pct": 22.2,
+      "1_3yr_pct": 44.4,
+      "over_3yr_pct": 33.3
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 5.0,
+      "within_1yr_pct": 60.0,
+      "1_3yr_pct": 40.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "生活服务",
+      "count": 4.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 25.0
+    },
+    {
+      "type": "运动健身",
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    }
+  ]
+}

@@ -1,0 +1,457 @@
+{
+  "name": "北京君太百货",
+  "city": "北京市",
+  "address": "北京市西城区西单北大街133号",
+  "lat": 39.909644,
+  "lng": 116.373139,
+  "overview": {
+    "score": 94.3,
+    "score_rank": "市内前30%",
+    "population_score": 81.4,
+    "area_score": 100.0,
+    "consumption_score": 95.1,
+    "industry_score": 94.3,
+    "annual_sales": "北京君太百货是一家大型商业企业，总部设于北京，由君太百货集团(Grand Pacific)创立，拥有百货零售事业群、商业管理事业群、餐饮文娱事业群、商业地产事业群、品牌贸易事业群、电子商务事业群、商业设计事业群等七大产业。北京君太百货从B1到7F的营业卖场汇集了中外各类流行时尚精品及生活日用品，单店年营业额逾新台币佰亿",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 6.3,
+    "open_date": "2003-12-01",
+    "operator": "台湾远东集团",
+    "brand": "",
+    "type": "购物型",
+    "floors": "B3-L7"
+  },
+  "traffic": {
+    "annual_daily": 3.73,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第46",
+    "jun_total": 146.9,
+    "jun_total_rank": "市内商场第53名",
+    "jun_daily_avg": 4.9,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第53名",
+    "weekday_avg": 4.4,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第54名",
+    "holiday_avg": 6.2,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第51名"
+  },
+  "population": {
+    "residential": {
+      "500m": 1.4,
+      "1_5km": 13.8,
+      "3km": 63.8
+    },
+    "office": {
+      "500m": 4.5,
+      "1_5km": 24.1,
+      "3km": 67.3
+    },
+    "permanent": {
+      "500m": 3.4,
+      "1_5km": 18.0,
+      "3km": 72.6
+    }
+  },
+  "business": {
+    "competitors": 16.0,
+    "food": 387.0,
+    "shopping": 747.0,
+    "leisure": 39.0,
+    "education": 13.0,
+    "hotel": 26.0,
+    "services": 148.0,
+    "fitness": 11.0,
+    "auto": 22.0,
+    "total_stores": 208.0,
+    "old_store_3yr_pct": 59.0
+  },
+  "nearby_poi": {
+    "business": 9.0,
+    "community": 377.0,
+    "office": 101.0,
+    "school": 47.0,
+    "hospital": 131.0,
+    "transport": 8.0,
+    "scenic": 1032.0
+  },
+  "demographics": {
+    "male_pct": 45.8,
+    "female_pct": null,
+    "education": {
+      "小学": 10.3,
+      "初中": 17.1,
+      "高中": 11.2,
+      "大专": 6.0,
+      "本科": 45.4,
+      "硕士": 7.8,
+      "博士": 2.2
+    },
+    "has_children_pct": 59.9,
+    "no_children_pct": 40.1
+  },
+  "scraped_at": "2026-07-31T18:37:17.187Z",
+  "nearby_restaurants": [
+    {
+      "brand": "大师卤肉饭(北京君太百货店)",
+      "address": "西单北大街133号北京君太百货B1层F-01、F-02号",
+      "distance": "1m"
+    },
+    {
+      "brand": "PODO in PODO",
+      "address": "北京城区西单北大街君太133号B1层D-07号",
+      "distance": "6m"
+    },
+    {
+      "brand": "味千拉面(西单君太店)",
+      "address": "北京城区西单北大街133号地下一层E-01号",
+      "distance": "6m"
+    },
+    {
+      "brand": "喜家德虾仁水饺(君太店)",
+      "address": "北京城区西单北大街133号君太百货负一层喜家德水饺",
+      "distance": "7m"
+    },
+    {
+      "brand": "那面NAMIAN(北京君太店)",
+      "address": "五层那面女装",
+      "distance": "8m"
+    },
+    {
+      "brand": "西塔老太太泥炉烤肉(西单君太店)",
+      "address": "西单北大街133号北京君太百货B1层",
+      "distance": "8m"
+    },
+    {
+      "brand": "喜多藏·汤咖喱(君太店)",
+      "address": "华远东街与民丰胡同交叉口东北80米",
+      "distance": "8m"
+    },
+    {
+      "brand": "LINLEE·手打柠檬茶(西单君太百货店)",
+      "address": "北京城区西单北大街133号君太百货B1F层第E-09号君太百货B1层",
+      "distance": "9m"
+    },
+    {
+      "brand": "ChefYao胡同小馆·烤鸭·京鲁菜(西单店)",
+      "address": "北京城区西单君太百货B1层",
+      "distance": "9m"
+    },
+    {
+      "brand": "天津煎饼果子155分店(回归case)",
+      "address": "西单北大街133号君太百货6F层D-83",
+      "distance": "9m"
+    },
+    {
+      "brand": "大师卤肉饭(北京君太百货店)",
+      "address": "西单北大街133号北京君太百货B1层F-01、F-02号",
+      "distance": "1m"
+    },
+    {
+      "brand": "PODO in PODO",
+      "address": "北京城区西单北大街君太133号B1层D-07号",
+      "distance": "6m"
+    },
+    {
+      "brand": "味千拉面(西单君太店)",
+      "address": "北京城区西单北大街133号地下一层E-01号",
+      "distance": "6m"
+    },
+    {
+      "brand": "喜家德虾仁水饺(君太店)",
+      "address": "北京城区西单北大街133号君太百货负一层喜家德水饺",
+      "distance": "7m"
+    },
+    {
+      "brand": "那面NAMIAN(北京君太店)",
+      "address": "五层那面女装",
+      "distance": "8m"
+    },
+    {
+      "brand": "西塔老太太泥炉烤肉(西单君太店)",
+      "address": "西单北大街133号北京君太百货B1层",
+      "distance": "8m"
+    },
+    {
+      "brand": "喜多藏·汤咖喱(君太店)",
+      "address": "华远东街与民丰胡同交叉口东北80米",
+      "distance": "8m"
+    },
+    {
+      "brand": "LINLEE·手打柠檬茶(西单君太百货店)",
+      "address": "北京城区西单北大街133号君太百货B1F层第E-09号君太百货B1层",
+      "distance": "9m"
+    },
+    {
+      "brand": "ChefYao胡同小馆·烤鸭·京鲁菜(西单店)",
+      "address": "北京城区西单君太百货B1层",
+      "distance": "9m"
+    },
+    {
+      "brand": "天津煎饼果子155分店(回归case)",
+      "address": "西单北大街133号君太百货6F层D-83",
+      "distance": "9m"
+    },
+    {
+      "brand": "大师卤肉饭(北京君太百货店)",
+      "address": "西单北大街133号北京君太百货B1层F-01、F-02号",
+      "distance": "1m"
+    },
+    {
+      "brand": "PODO in PODO",
+      "address": "北京城区西单北大街君太133号B1层D-07号",
+      "distance": "6m"
+    },
+    {
+      "brand": "味千拉面(西单君太店)",
+      "address": "北京城区西单北大街133号地下一层E-01号",
+      "distance": "6m"
+    },
+    {
+      "brand": "喜家德虾仁水饺(君太店)",
+      "address": "北京城区西单北大街133号君太百货负一层喜家德水饺",
+      "distance": "7m"
+    },
+    {
+      "brand": "那面NAMIAN(北京君太店)",
+      "address": "五层那面女装",
+      "distance": "8m"
+    },
+    {
+      "brand": "西塔老太太泥炉烤肉(西单君太店)",
+      "address": "西单北大街133号北京君太百货B1层",
+      "distance": "8m"
+    },
+    {
+      "brand": "喜多藏·汤咖喱(君太店)",
+      "address": "华远东街与民丰胡同交叉口东北80米",
+      "distance": "8m"
+    },
+    {
+      "brand": "LINLEE·手打柠檬茶(西单君太百货店)",
+      "address": "北京城区西单北大街133号君太百货B1F层第E-09号君太百货B1层",
+      "distance": "9m"
+    },
+    {
+      "brand": "ChefYao胡同小馆·烤鸭·京鲁菜(西单店)",
+      "address": "北京城区西单君太百货B1层",
+      "distance": "9m"
+    },
+    {
+      "brand": "天津煎饼果子155分店(回归case)",
+      "address": "西单北大街133号君太百货6F层D-83",
+      "distance": "9m"
+    },
+    {
+      "brand": "大师卤肉饭(北京君太百货店)",
+      "address": "西单北大街133号北京君太百货B1层F-01、F-02号",
+      "distance": "1m"
+    },
+    {
+      "brand": "PODO in PODO",
+      "address": "北京城区西单北大街君太133号B1层D-07号",
+      "distance": "6m"
+    },
+    {
+      "brand": "味千拉面(西单君太店)",
+      "address": "北京城区西单北大街133号地下一层E-01号",
+      "distance": "6m"
+    },
+    {
+      "brand": "喜家德虾仁水饺(君太店)",
+      "address": "北京城区西单北大街133号君太百货负一层喜家德水饺",
+      "distance": "7m"
+    },
+    {
+      "brand": "那面NAMIAN(北京君太店)",
+      "address": "五层那面女装",
+      "distance": "8m"
+    },
+    {
+      "brand": "西塔老太太泥炉烤肉(西单君太店)",
+      "address": "西单北大街133号北京君太百货B1层",
+      "distance": "8m"
+    },
+    {
+      "brand": "喜多藏·汤咖喱(君太店)",
+      "address": "华远东街与民丰胡同交叉口东北80米",
+      "distance": "8m"
+    },
+    {
+      "brand": "LINLEE·手打柠檬茶(西单君太百货店)",
+      "address": "北京城区西单北大街133号君太百货B1F层第E-09号君太百货B1层",
+      "distance": "9m"
+    },
+    {
+      "brand": "ChefYao胡同小馆·烤鸭·京鲁菜(西单店)",
+      "address": "北京城区西单君太百货B1层",
+      "distance": "9m"
+    },
+    {
+      "brand": "天津煎饼果子155分店(回归case)",
+      "address": "西单北大街133号君太百货6F层D-83",
+      "distance": "9m"
+    },
+    {
+      "brand": "大师卤肉饭(北京君太百货店)",
+      "address": "西单北大街133号北京君太百货B1层F-01、F-02号",
+      "distance": "1m"
+    },
+    {
+      "brand": "PODO in PODO",
+      "address": "北京城区西单北大街君太133号B1层D-07号",
+      "distance": "6m"
+    },
+    {
+      "brand": "味千拉面(西单君太店)",
+      "address": "北京城区西单北大街133号地下一层E-01号",
+      "distance": "6m"
+    },
+    {
+      "brand": "喜家德虾仁水饺(君太店)",
+      "address": "北京城区西单北大街133号君太百货负一层喜家德水饺",
+      "distance": "7m"
+    },
+    {
+      "brand": "那面NAMIAN(北京君太店)",
+      "address": "五层那面女装",
+      "distance": "8m"
+    },
+    {
+      "brand": "西塔老太太泥炉烤肉(西单君太店)",
+      "address": "西单北大街133号北京君太百货B1层",
+      "distance": "8m"
+    },
+    {
+      "brand": "喜多藏·汤咖喱(君太店)",
+      "address": "华远东街与民丰胡同交叉口东北80米",
+      "distance": "8m"
+    },
+    {
+      "brand": "LINLEE·手打柠檬茶(西单君太百货店)",
+      "address": "北京城区西单北大街133号君太百货B1F层第E-09号君太百货B1层",
+      "distance": "9m"
+    },
+    {
+      "brand": "ChefYao胡同小馆·烤鸭·京鲁菜(西单店)",
+      "address": "北京城区西单君太百货B1层",
+      "distance": "9m"
+    },
+    {
+      "brand": "天津煎饼果子155分店(回归case)",
+      "address": "西单北大街133号君太百货6F层D-83",
+      "distance": "9m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "北京西单大悦城",
+      "open_date": "2007-12-28",
+      "area": "11.5万㎡",
+      "jun_daily_avg": "11.4万人次",
+      "weekday_avg": "9.9万人次",
+      "holiday_avg": "15.6万人次"
+    },
+    {
+      "name": "北京汉光百货",
+      "open_date": "1999-01-01",
+      "area": "4万㎡",
+      "jun_daily_avg": "4.8万人次",
+      "weekday_avg": "4.2万人次",
+      "holiday_avg": "6.3万人次"
+    },
+    {
+      "name": "北京西单更新场",
+      "open_date": "2021-04-27",
+      "area": "1.1万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "北京西单购物中心",
+      "open_date": "2000-01-01",
+      "area": "6000㎡",
+      "jun_daily_avg": "1.3万人次",
+      "weekday_avg": "1.1万人次",
+      "holiday_avg": "1.8万人次"
+    },
+    {
+      "name": "北京新一代商城",
+      "open_date": "-",
+      "area": "-",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "北京老佛爷百货(西单店)",
+      "open_date": "2013-10-18",
+      "area": "4.7万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "北京金融街购物中心",
+      "open_date": "2007-09-16",
+      "area": "3.8万㎡",
+      "jun_daily_avg": "3.4万人次",
+      "weekday_avg": "3.6万人次",
+      "holiday_avg": "2.9万人次"
+    },
+    {
+      "name": "北京复兴门百盛购物中心",
+      "open_date": "1994-03-01",
+      "area": "3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "崇光百货(宣武门店)",
+      "open_date": "2000-01-01",
+      "area": "14万㎡",
+      "jun_daily_avg": "1.8万人次",
+      "weekday_avg": "1.8万人次",
+      "holiday_avg": "1.7万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 51.0,
+      "within_1yr_pct": 21.6,
+      "1_3yr_pct": 27.5,
+      "over_3yr_pct": 51.0
+    },
+    {
+      "type": "购物",
+      "count": 148.0,
+      "within_1yr_pct": 17.6,
+      "1_3yr_pct": 19.6,
+      "over_3yr_pct": 62.8
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 1.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "生活服务",
+      "count": 7.0,
+      "within_1yr_pct": 14.3,
+      "1_3yr_pct": 57.1,
+      "over_3yr_pct": 28.6
+    },
+    {
+      "type": "车辆服务",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    }
+  ]
+}

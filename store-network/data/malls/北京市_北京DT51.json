@@ -1,0 +1,411 @@
+{
+  "name": "北京DT51",
+  "city": "北京市",
+  "address": "北京市朝阳区北苑路87号",
+  "lat": 40.001727,
+  "lng": 116.42283,
+  "overview": {
+    "score": 87.0,
+    "score_rank": "市内前30%",
+    "population_score": 91.8,
+    "area_score": 84.2,
+    "consumption_score": 79.8,
+    "industry_score": 87.0,
+    "annual_sales": "DT51是北京华联旗下的全新产品线，与北京SKP共享品牌资源和买手团队，主打中高端消费，引入了更多适合社区家庭的业态和产品。商场汇聚了200多个时尚品牌和餐饮、商超等服务业态，为周边居民提供全新的品质消费场所 。DT51沿袭了SKP和SKP-S的时尚潮流形象，将艺术元素与商业实现了融合，旨在为年轻时尚家庭顾客提供优质生活消费体验",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 8.0,
+    "open_date": "2023-01-06",
+    "operator": "北京华联(SKP)百货有限公司",
+    "brand": "",
+    "type": "购物型",
+    "floors": "B1-L7"
+  },
+  "traffic": {
+    "annual_daily": 1.14,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第195",
+    "jun_total": 47.9,
+    "jun_total_rank": "市内商场第192名",
+    "jun_daily_avg": 1.6,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第192名",
+    "weekday_avg": 1.4,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第210名",
+    "holiday_avg": 2.2,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第159名"
+  },
+  "population": {
+    "residential": {
+      "500m": 2.4,
+      "1_5km": 21.8,
+      "3km": 46.8
+    },
+    "office": {
+      "500m": 1.5,
+      "1_5km": 13.7,
+      "3km": 32.5
+    },
+    "permanent": {
+      "500m": 2.8,
+      "1_5km": 21.2,
+      "3km": 48.8
+    }
+  },
+  "business": {
+    "competitors": 1.0,
+    "food": 145.0,
+    "shopping": 190.0,
+    "leisure": 21.0,
+    "education": 35.0,
+    "hotel": 29.0,
+    "services": 160.0,
+    "fitness": 23.0,
+    "auto": 16.0,
+    "total_stores": 137.0,
+    "old_store_3yr_pct": 58.0
+  },
+  "nearby_poi": {
+    "business": 5.0,
+    "community": 238.0,
+    "office": 83.0,
+    "school": 39.0,
+    "hospital": 48.0,
+    "transport": 9.0,
+    "scenic": 239.0
+  },
+  "demographics": {
+    "male_pct": 51.7,
+    "female_pct": null,
+    "education": {
+      "小学": 7.7,
+      "初中": 13.7,
+      "高中": 13.6,
+      "大专": 5.3,
+      "本科": 48.2,
+      "硕士": 9.2,
+      "博士": 2.3
+    },
+    "has_children_pct": 58.2,
+    "no_children_pct": 41.8
+  },
+  "scraped_at": "2026-07-31T18:10:24.134Z",
+  "nearby_restaurants": [
+    {
+      "brand": "澜海邑糟粕醋椰子鸡(DT51店)",
+      "address": "北京城区北苑路98号院1号楼-3至7层101内6层A6002",
+      "distance": "2m"
+    },
+    {
+      "brand": "王繁星面馆(北京DT店)",
+      "address": "北苑路98号院1号楼1层101-B1层B1001",
+      "distance": "8m"
+    },
+    {
+      "brand": "JEON JUICERY蔬果汁(大屯路店)",
+      "address": "北苑路98号院DT51 7F层",
+      "distance": "10m"
+    },
+    {
+      "brand": "派悦坊(DT51店)",
+      "address": "北苑路98号院1号楼DT51B1层",
+      "distance": "11m"
+    },
+    {
+      "brand": "BHG Bakery(北京DT51店)",
+      "address": "北苑路98号院1号楼地下一层B1020",
+      "distance": "13m"
+    },
+    {
+      "brand": "鼎鼎香(DT51店)",
+      "address": "北京城区北苑路98号院DT516F层",
+      "distance": "14m"
+    },
+    {
+      "brand": "北京厨房(DT51店)",
+      "address": "北京城区北苑路98号1号楼内6层A6005号",
+      "distance": "16m"
+    },
+    {
+      "brand": "肉问屋·元气一番烧肉(大屯DT51店)",
+      "address": "北苑路98号院DT51七层A7007",
+      "distance": "17m"
+    },
+    {
+      "brand": "羲和京致(DT51店)",
+      "address": "北苑路98号院1号楼-3至7层101内7层A7004、A7M04",
+      "distance": "18m"
+    },
+    {
+      "brand": "湘盖盖(DT51店)",
+      "address": "北京城区北京城区北苑路98号院1号楼DT51B1层",
+      "distance": "19m"
+    },
+    {
+      "brand": "澜海邑糟粕醋椰子鸡(DT51店)",
+      "address": "北京城区北苑路98号院1号楼-3至7层101内6层A6002",
+      "distance": "2m"
+    },
+    {
+      "brand": "王繁星面馆(北京DT店)",
+      "address": "北苑路98号院1号楼1层101-B1层B1001",
+      "distance": "8m"
+    },
+    {
+      "brand": "JEON JUICERY蔬果汁(大屯路店)",
+      "address": "北苑路98号院DT51 7F层",
+      "distance": "10m"
+    },
+    {
+      "brand": "派悦坊(DT51店)",
+      "address": "北苑路98号院1号楼DT51B1层",
+      "distance": "11m"
+    },
+    {
+      "brand": "BHG Bakery(北京DT51店)",
+      "address": "北苑路98号院1号楼地下一层B1020",
+      "distance": "13m"
+    },
+    {
+      "brand": "鼎鼎香(DT51店)",
+      "address": "北京城区北苑路98号院DT516F层",
+      "distance": "14m"
+    },
+    {
+      "brand": "北京厨房(DT51店)",
+      "address": "北京城区北苑路98号1号楼内6层A6005号",
+      "distance": "16m"
+    },
+    {
+      "brand": "肉问屋·元气一番烧肉(大屯DT51店)",
+      "address": "北苑路98号院DT51七层A7007",
+      "distance": "17m"
+    },
+    {
+      "brand": "羲和京致(DT51店)",
+      "address": "北苑路98号院1号楼-3至7层101内7层A7004、A7M04",
+      "distance": "18m"
+    },
+    {
+      "brand": "湘盖盖(DT51店)",
+      "address": "北京城区北京城区北苑路98号院1号楼DT51B1层",
+      "distance": "19m"
+    },
+    {
+      "brand": "澜海邑糟粕醋椰子鸡(DT51店)",
+      "address": "北京城区北苑路98号院1号楼-3至7层101内6层A6002",
+      "distance": "2m"
+    },
+    {
+      "brand": "王繁星面馆(北京DT店)",
+      "address": "北苑路98号院1号楼1层101-B1层B1001",
+      "distance": "8m"
+    },
+    {
+      "brand": "JEON JUICERY蔬果汁(大屯路店)",
+      "address": "北苑路98号院DT51 7F层",
+      "distance": "10m"
+    },
+    {
+      "brand": "派悦坊(DT51店)",
+      "address": "北苑路98号院1号楼DT51B1层",
+      "distance": "11m"
+    },
+    {
+      "brand": "BHG Bakery(北京DT51店)",
+      "address": "北苑路98号院1号楼地下一层B1020",
+      "distance": "13m"
+    },
+    {
+      "brand": "鼎鼎香(DT51店)",
+      "address": "北京城区北苑路98号院DT516F层",
+      "distance": "14m"
+    },
+    {
+      "brand": "北京厨房(DT51店)",
+      "address": "北京城区北苑路98号1号楼内6层A6005号",
+      "distance": "16m"
+    },
+    {
+      "brand": "肉问屋·元气一番烧肉(大屯DT51店)",
+      "address": "北苑路98号院DT51七层A7007",
+      "distance": "17m"
+    },
+    {
+      "brand": "羲和京致(DT51店)",
+      "address": "北苑路98号院1号楼-3至7层101内7层A7004、A7M04",
+      "distance": "18m"
+    },
+    {
+      "brand": "湘盖盖(DT51店)",
+      "address": "北京城区北京城区北苑路98号院1号楼DT51B1层",
+      "distance": "19m"
+    },
+    {
+      "brand": "澜海邑糟粕醋椰子鸡(DT51店)",
+      "address": "北京城区北苑路98号院1号楼-3至7层101内6层A6002",
+      "distance": "2m"
+    },
+    {
+      "brand": "王繁星面馆(北京DT店)",
+      "address": "北苑路98号院1号楼1层101-B1层B1001",
+      "distance": "8m"
+    },
+    {
+      "brand": "JEON JUICERY蔬果汁(大屯路店)",
+      "address": "北苑路98号院DT51 7F层",
+      "distance": "10m"
+    },
+    {
+      "brand": "派悦坊(DT51店)",
+      "address": "北苑路98号院1号楼DT51B1层",
+      "distance": "11m"
+    },
+    {
+      "brand": "BHG Bakery(北京DT51店)",
+      "address": "北苑路98号院1号楼地下一层B1020",
+      "distance": "13m"
+    },
+    {
+      "brand": "鼎鼎香(DT51店)",
+      "address": "北京城区北苑路98号院DT516F层",
+      "distance": "14m"
+    },
+    {
+      "brand": "北京厨房(DT51店)",
+      "address": "北京城区北苑路98号1号楼内6层A6005号",
+      "distance": "16m"
+    },
+    {
+      "brand": "肉问屋·元气一番烧肉(大屯DT51店)",
+      "address": "北苑路98号院DT51七层A7007",
+      "distance": "17m"
+    },
+    {
+      "brand": "羲和京致(DT51店)",
+      "address": "北苑路98号院1号楼-3至7层101内7层A7004、A7M04",
+      "distance": "18m"
+    },
+    {
+      "brand": "湘盖盖(DT51店)",
+      "address": "北京城区北京城区北苑路98号院1号楼DT51B1层",
+      "distance": "19m"
+    },
+    {
+      "brand": "澜海邑糟粕醋椰子鸡(DT51店)",
+      "address": "北京城区北苑路98号院1号楼-3至7层101内6层A6002",
+      "distance": "2m"
+    },
+    {
+      "brand": "王繁星面馆(北京DT店)",
+      "address": "北苑路98号院1号楼1层101-B1层B1001",
+      "distance": "8m"
+    },
+    {
+      "brand": "JEON JUICERY蔬果汁(大屯路店)",
+      "address": "北苑路98号院DT51 7F层",
+      "distance": "10m"
+    },
+    {
+      "brand": "派悦坊(DT51店)",
+      "address": "北苑路98号院1号楼DT51B1层",
+      "distance": "11m"
+    },
+    {
+      "brand": "BHG Bakery(北京DT51店)",
+      "address": "北苑路98号院1号楼地下一层B1020",
+      "distance": "13m"
+    },
+    {
+      "brand": "鼎鼎香(DT51店)",
+      "address": "北京城区北苑路98号院DT516F层",
+      "distance": "14m"
+    },
+    {
+      "brand": "北京厨房(DT51店)",
+      "address": "北京城区北苑路98号1号楼内6层A6005号",
+      "distance": "16m"
+    },
+    {
+      "brand": "肉问屋·元气一番烧肉(大屯DT51店)",
+      "address": "北苑路98号院DT51七层A7007",
+      "distance": "17m"
+    },
+    {
+      "brand": "羲和京致(DT51店)",
+      "address": "北苑路98号院1号楼-3至7层101内7层A7004、A7M04",
+      "distance": "18m"
+    },
+    {
+      "brand": "湘盖盖(DT51店)",
+      "address": "北京城区北京城区北苑路98号院1号楼DT51B1层",
+      "distance": "19m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "北京金泉广场购物中心",
+      "open_date": "2022-05-01",
+      "area": "5万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "北京太阳飘亮购物中心",
+      "open_date": "2018-09-22",
+      "area": "4万㎡",
+      "jun_daily_avg": "2.4万人次",
+      "weekday_avg": "2.3万人次",
+      "holiday_avg": "2.6万人次"
+    },
+    {
+      "name": "北京亚运村图书大厦",
+      "open_date": "2016-06-07",
+      "area": "3000㎡",
+      "jun_daily_avg": "2.8万人次",
+      "weekday_avg": "2.8万人次",
+      "holiday_avg": "2.9万人次"
+    },
+    {
+      "name": "北京华堂商场(亚运村店)",
+      "open_date": "2001-12-12",
+      "area": "2.1万㎡",
+      "jun_daily_avg": "1.7万人次",
+      "weekday_avg": "1.6万人次",
+      "holiday_avg": "2.1万人次"
+    },
+    {
+      "name": "北京新辰里购物中心",
+      "open_date": "2019-08-01",
+      "area": "1.8万㎡",
+      "jun_daily_avg": "3.3万人次",
+      "weekday_avg": "3.2万人次",
+      "holiday_avg": "3.7万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 28.0,
+      "within_1yr_pct": 7.1,
+      "1_3yr_pct": 14.3,
+      "over_3yr_pct": 78.6
+    },
+    {
+      "type": "购物",
+      "count": 105.0,
+      "within_1yr_pct": 13.3,
+      "1_3yr_pct": 34.3,
+      "over_3yr_pct": 52.4
+    },
+    {
+      "type": "生活服务",
+      "count": 4.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 50.0
+    }
+  ]
+}

@@ -1,0 +1,171 @@
+{
+  "name": "绿地金御广场",
+  "city": "上海市",
+  "address": "上海市松江区新桥镇绿地新都会(施湾店)绿地金御广场",
+  "lat": 31.088214,
+  "lng": 121.340082,
+  "overview": {
+    "score": 79.9,
+    "score_rank": "市内前30%",
+    "population_score": 72.9,
+    "area_score": 64.7,
+    "consumption_score": 71.1,
+    "industry_score": 80.0,
+    "annual_sales": "绿地金御广场是一个综合性商业生活广场，主题定位为餐饮娱乐及居家生活购物。位于松江新桥的新南路1号明兴路路口，莘闵别墅区的核心地带，是上海五大别墅集聚地之一",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 4.0,
+    "open_date": "2012-12-31",
+    "operator": "绿地控股集团股份有限公司",
+    "brand": "",
+    "type": "综合型",
+    "floors": "L1-L4"
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "-",
+    "annual_daily_rank": "",
+    "jun_total": 6.7,
+    "jun_total_rank": "市内商场第525名",
+    "jun_daily_avg": 2237.0,
+    "jun_daily_unit": "人次",
+    "jun_daily_rank": "市内商场第525名",
+    "weekday_avg": 2170.0,
+    "weekday_unit": "人次",
+    "weekday_rank": "市内商场第523名",
+    "holiday_avg": 2426.0,
+    "holiday_unit": "人次",
+    "holiday_rank": "市内商场第523名"
+  },
+  "population": {
+    "residential": {
+      "500m": 1.1,
+      "1_5km": 6.9,
+      "3km": 31.3
+    },
+    "office": {
+      "500m": 4000.0,
+      "1_5km": 3.0,
+      "3km": 14.0
+    },
+    "permanent": {
+      "500m": 1.0,
+      "1_5km": 6.8,
+      "3km": 27.8
+    }
+  },
+  "business": {
+    "competitors": 1.0,
+    "food": 41.0,
+    "shopping": 32.0,
+    "leisure": 8.0,
+    "education": 13.0,
+    "hotel": 6.0,
+    "services": 46.0,
+    "fitness": 8.0,
+    "auto": 9.0,
+    "total_stores": 60.0,
+    "old_store_3yr_pct": 62.0
+  },
+  "nearby_poi": {
+    "business": 2.0,
+    "community": 111.0,
+    "office": 5.0,
+    "school": 14.0,
+    "hospital": 10.0,
+    "transport": 6.0,
+    "scenic": 30.0
+  },
+  "demographics": {
+    "male_pct": 50.7,
+    "female_pct": null,
+    "education": {
+      "小学": 10.6,
+      "初中": 19.3,
+      "高中": 12.2,
+      "大专": 8.7,
+      "本科": 44.8,
+      "硕士": 3.4,
+      "博士": 1.0
+    },
+    "has_children_pct": 68.1,
+    "no_children_pct": 31.9
+  },
+  "scraped_at": "2026-08-01T09:39:13.627Z",
+  "nearby_restaurants": [],
+  "nearby_malls": [
+    {
+      "name": "上海亚繁亚乐城",
+      "open_date": "2016-05-28",
+      "area": "5.5万㎡",
+      "jun_daily_avg": "2.3万人次",
+      "weekday_avg": "2万人次",
+      "holiday_avg": "3万人次"
+    },
+    {
+      "name": "上海云廊天街",
+      "open_date": "2023-09-28",
+      "area": "11.2万㎡",
+      "jun_daily_avg": "1.3万人次",
+      "weekday_avg": "1.4万人次",
+      "holiday_avg": "1.2万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 10.0,
+      "within_1yr_pct": 10.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 90.0
+    },
+    {
+      "type": "购物",
+      "count": 13.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 38.5,
+      "over_3yr_pct": 61.5
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 3.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "教育培训",
+      "count": 7.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 28.6,
+      "over_3yr_pct": 71.4
+    },
+    {
+      "type": "酒店住宿",
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "生活服务",
+      "count": 17.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 35.3,
+      "over_3yr_pct": 64.7
+    },
+    {
+      "type": "运动健身",
+      "count": 5.0,
+      "within_1yr_pct": 60.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 40.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 3.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 66.7,
+      "over_3yr_pct": 33.3
+    }
+  ]
+}

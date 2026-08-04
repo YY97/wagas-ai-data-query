@@ -1,0 +1,188 @@
+{
+  "name": "松江同乐生活广场",
+  "city": "上海市",
+  "address": "上海市闵行区天山西路4086号",
+  "lat": 31.215213,
+  "lng": 121.310896,
+  "overview": {
+    "score": 82.9,
+    "score_rank": "市内前30%",
+    "population_score": 84.9,
+    "area_score": 66.1,
+    "consumption_score": 69.9,
+    "industry_score": 83.0,
+    "annual_sales": "",
+    "annual_sales_unit": "",
+    "area_size_sqm": null,
+    "open_date": "",
+    "operator": "",
+    "brand": "",
+    "type": "美食型",
+    "floors": "B2-L3"
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "",
+    "annual_daily_rank": "",
+    "jun_total": 23.2,
+    "jun_total_rank": "市内商场第355名",
+    "jun_daily_avg": 7723.0,
+    "jun_daily_unit": "人次",
+    "jun_daily_rank": "市内商场第355名",
+    "weekday_avg": 7701.0,
+    "weekday_unit": "人次",
+    "weekday_rank": "市内商场第351名",
+    "holiday_avg": 7781.0,
+    "holiday_unit": "人次",
+    "holiday_rank": "市内商场第372名"
+  },
+  "population": {
+    "residential": {
+      "500m": 2.0,
+      "1_5km": 12.4,
+      "3km": 41.2
+    },
+    "office": {
+      "500m": 8200.0,
+      "1_5km": 6.4,
+      "3km": 24.3
+    },
+    "permanent": {
+      "500m": 1.7,
+      "1_5km": 10.6,
+      "3km": 45.6
+    }
+  },
+  "business": {
+    "competitors": 4.0,
+    "food": 103.0,
+    "shopping": 29.0,
+    "leisure": 4.0,
+    "education": 5.0,
+    "hotel": 34.0,
+    "services": 35.0,
+    "fitness": 5.0,
+    "auto": 5.0,
+    "total_stores": 93.0,
+    "old_store_3yr_pct": 40.0
+  },
+  "nearby_poi": {
+    "business": 3.0,
+    "community": 133.0,
+    "office": 33.0,
+    "school": 11.0,
+    "hospital": 37.0,
+    "transport": 6.0,
+    "scenic": 42.0
+  },
+  "demographics": {
+    "male_pct": 51.0,
+    "female_pct": null,
+    "education": {
+      "小学": 9.8,
+      "初中": 18.3,
+      "高中": 11.8,
+      "大专": 10.1,
+      "本科": 45.3,
+      "硕士": 3.9,
+      "博士": 0.8
+    },
+    "has_children_pct": 57.7,
+    "no_children_pct": 42.3
+  },
+  "scraped_at": "2026-08-02T03:29:17.992Z",
+  "nearby_restaurants": [
+    {
+      "brand": "新臣记",
+      "address": "新虹街道申滨路1058弄76号109-3室",
+      "distance": "481m"
+    },
+    {
+      "brand": "本来川菜(中骏广场店)",
+      "address": "申长路1688弄2号中骏广场2期F1层",
+      "distance": "483m"
+    },
+    {
+      "brand": "沙县小吃(中骏广场店)",
+      "address": "申长路中骏广场1一2号",
+      "distance": "484m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海虹桥良华购物广场",
+      "open_date": "2014-04-12",
+      "area": "10.6万㎡",
+      "jun_daily_avg": "1.3万人次",
+      "weekday_avg": "1.2万人次",
+      "holiday_avg": "1.4万人次"
+    },
+    {
+      "name": "上海虹桥阿里中心",
+      "open_date": "2019-05-10",
+      "area": "2.1万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海新华联国际中心",
+      "open_date": "2016-11-19",
+      "area": "2.3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 55.0,
+      "within_1yr_pct": 38.2,
+      "1_3yr_pct": 25.5,
+      "over_3yr_pct": 36.4
+    },
+    {
+      "type": "购物",
+      "count": 13.0,
+      "within_1yr_pct": 15.4,
+      "1_3yr_pct": 38.5,
+      "over_3yr_pct": 46.2
+    },
+    {
+      "type": "教育培训",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 10.0,
+      "within_1yr_pct": 40.0,
+      "1_3yr_pct": 10.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "生活服务",
+      "count": 11.0,
+      "within_1yr_pct": 36.4,
+      "1_3yr_pct": 27.3,
+      "over_3yr_pct": 36.4
+    },
+    {
+      "type": "运动健身",
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    }
+  ]
+}

@@ -1,0 +1,431 @@
+{
+  "name": "上海虹口今雨荟",
+  "city": "上海市",
+  "address": "上海市虹口区广粤路283号",
+  "lat": 31.287748,
+  "lng": 121.465524,
+  "overview": {
+    "score": 79.7,
+    "score_rank": "市内前30%",
+    "population_score": 86.9,
+    "area_score": 69.0,
+    "consumption_score": 80.5,
+    "industry_score": 79.7,
+    "annual_sales": "上海虹口今雨荟位于虹口区广粤路283号，是融通地产首个自主改造的城市更新项目。项目以“亲子家庭友好”为核心，打造“城市焕新生活欢聚地”，引入众多上海首店、虹口区域首店及品牌旗舰店。商场分为六大主题区域——“荟生活”“荟童趣”“荟食尚”“荟臻味”“荟欢聚”“荟时光”，涵盖购物、餐饮、娱乐、文化等多元功能。",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 7.0,
+    "open_date": "2025-01-01",
+    "operator": "上海捷之晟投资管理有限公司",
+    "brand": "",
+    "type": "综合型",
+    "floors": "B1-L4"
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "-",
+    "annual_daily_rank": "",
+    "jun_total": 11.6,
+    "jun_total_rank": "市内商场第469名",
+    "jun_daily_avg": 3871.0,
+    "jun_daily_unit": "人次",
+    "jun_daily_rank": "市内商场第469名",
+    "weekday_avg": 3569.0,
+    "weekday_unit": "人次",
+    "weekday_rank": "市内商场第477名",
+    "holiday_avg": 4698.0,
+    "holiday_unit": "人次",
+    "holiday_rank": "市内商场第445名"
+  },
+  "population": {
+    "residential": {
+      "500m": 2.1,
+      "1_5km": 23.9,
+      "3km": 101.5
+    },
+    "office": {
+      "500m": 8700.0,
+      "1_5km": 11.6,
+      "3km": 58.5
+    },
+    "permanent": {
+      "500m": 2.2,
+      "1_5km": 24.5,
+      "3km": 107.0
+    }
+  },
+  "business": {
+    "competitors": 3.0,
+    "food": 94.0,
+    "shopping": 79.0,
+    "leisure": 12.0,
+    "education": 9.0,
+    "hotel": 5.0,
+    "services": 61.0,
+    "fitness": 17.0,
+    "auto": 15.0,
+    "total_stores": 87.0,
+    "old_store_3yr_pct": 5.0
+  },
+  "nearby_poi": {
+    "business": 4.0,
+    "community": 702.0,
+    "office": 51.0,
+    "school": 47.0,
+    "hospital": 101.0,
+    "transport": 6.0,
+    "scenic": 173.0
+  },
+  "demographics": {
+    "male_pct": 47.5,
+    "female_pct": null,
+    "education": {
+      "小学": 9.2,
+      "初中": 18.4,
+      "高中": 12.4,
+      "大专": 7.0,
+      "本科": 46.6,
+      "硕士": 4.7,
+      "博士": 1.7
+    },
+    "has_children_pct": 58.9,
+    "no_children_pct": 41.1
+  },
+  "scraped_at": "2026-07-31T17:27:49.525Z",
+  "nearby_restaurants": [
+    {
+      "brand": "巧蓉娘广东牛杂粉面",
+      "address": "广粤路283号虹口今雨荟",
+      "distance": "2m"
+    },
+    {
+      "brand": "100%动物奶油蛋糕",
+      "address": "广粤路283号虹口今雨荟",
+      "distance": "6m"
+    },
+    {
+      "brand": "呷哺呷哺( 上海今雨荟)",
+      "address": "广粤路283号虹口今雨荟F3层",
+      "distance": "6m"
+    },
+    {
+      "brand": "福州味道",
+      "address": "广粤路283号虹口今雨荟",
+      "distance": "13m"
+    },
+    {
+      "brand": "恰饱饱瓦锅饭瓦锅焖面",
+      "address": "广粤路辅路与广灵四路交叉口北180米",
+      "distance": "14m"
+    },
+    {
+      "brand": "三十一克餐饮店(上海虹口今雨荟店)",
+      "address": "广粤路辅路与广灵四路交叉口北180米",
+      "distance": "15m"
+    },
+    {
+      "brand": "乔杉杉生烫牛肉米线(虹口今雨荟店)",
+      "address": "广粤路299号三层A329",
+      "distance": "15m"
+    },
+    {
+      "brand": "籣香香兰州纯汤牛肉面(虹口今雨荟)",
+      "address": "凉城新村街道广粤路虹口今雨荟三楼327号",
+      "distance": "15m"
+    },
+    {
+      "brand": "拌千川延吉拌饭屋(虹口今雨荟店)",
+      "address": "广粤路283号虹口今雨荟F3层",
+      "distance": "16m"
+    },
+    {
+      "brand": "柠檬向右(今雨荟店)",
+      "address": "今雨荟上海市虹口区广粤路299号三楼A322铺位柠檬向右",
+      "distance": "16m"
+    },
+    {
+      "brand": "巧蓉娘广东牛杂粉面",
+      "address": "广粤路283号虹口今雨荟",
+      "distance": "2m"
+    },
+    {
+      "brand": "100%动物奶油蛋糕",
+      "address": "广粤路283号虹口今雨荟",
+      "distance": "6m"
+    },
+    {
+      "brand": "呷哺呷哺( 上海今雨荟)",
+      "address": "广粤路283号虹口今雨荟F3层",
+      "distance": "6m"
+    },
+    {
+      "brand": "福州味道",
+      "address": "广粤路283号虹口今雨荟",
+      "distance": "13m"
+    },
+    {
+      "brand": "恰饱饱瓦锅饭瓦锅焖面",
+      "address": "广粤路辅路与广灵四路交叉口北180米",
+      "distance": "14m"
+    },
+    {
+      "brand": "三十一克餐饮店(上海虹口今雨荟店)",
+      "address": "广粤路辅路与广灵四路交叉口北180米",
+      "distance": "15m"
+    },
+    {
+      "brand": "乔杉杉生烫牛肉米线(虹口今雨荟店)",
+      "address": "广粤路299号三层A329",
+      "distance": "15m"
+    },
+    {
+      "brand": "籣香香兰州纯汤牛肉面(虹口今雨荟)",
+      "address": "凉城新村街道广粤路虹口今雨荟三楼327号",
+      "distance": "15m"
+    },
+    {
+      "brand": "拌千川延吉拌饭屋(虹口今雨荟店)",
+      "address": "广粤路283号虹口今雨荟F3层",
+      "distance": "16m"
+    },
+    {
+      "brand": "柠檬向右(今雨荟店)",
+      "address": "今雨荟上海市虹口区广粤路299号三楼A322铺位柠檬向右",
+      "distance": "16m"
+    },
+    {
+      "brand": "巧蓉娘广东牛杂粉面",
+      "address": "广粤路283号虹口今雨荟",
+      "distance": "2m"
+    },
+    {
+      "brand": "100%动物奶油蛋糕",
+      "address": "广粤路283号虹口今雨荟",
+      "distance": "6m"
+    },
+    {
+      "brand": "呷哺呷哺( 上海今雨荟)",
+      "address": "广粤路283号虹口今雨荟F3层",
+      "distance": "6m"
+    },
+    {
+      "brand": "福州味道",
+      "address": "广粤路283号虹口今雨荟",
+      "distance": "13m"
+    },
+    {
+      "brand": "恰饱饱瓦锅饭瓦锅焖面",
+      "address": "广粤路辅路与广灵四路交叉口北180米",
+      "distance": "14m"
+    },
+    {
+      "brand": "三十一克餐饮店(上海虹口今雨荟店)",
+      "address": "广粤路辅路与广灵四路交叉口北180米",
+      "distance": "15m"
+    },
+    {
+      "brand": "乔杉杉生烫牛肉米线(虹口今雨荟店)",
+      "address": "广粤路299号三层A329",
+      "distance": "15m"
+    },
+    {
+      "brand": "籣香香兰州纯汤牛肉面(虹口今雨荟)",
+      "address": "凉城新村街道广粤路虹口今雨荟三楼327号",
+      "distance": "15m"
+    },
+    {
+      "brand": "拌千川延吉拌饭屋(虹口今雨荟店)",
+      "address": "广粤路283号虹口今雨荟F3层",
+      "distance": "16m"
+    },
+    {
+      "brand": "柠檬向右(今雨荟店)",
+      "address": "今雨荟上海市虹口区广粤路299号三楼A322铺位柠檬向右",
+      "distance": "16m"
+    },
+    {
+      "brand": "巧蓉娘广东牛杂粉面",
+      "address": "广粤路283号虹口今雨荟",
+      "distance": "2m"
+    },
+    {
+      "brand": "100%动物奶油蛋糕",
+      "address": "广粤路283号虹口今雨荟",
+      "distance": "6m"
+    },
+    {
+      "brand": "呷哺呷哺( 上海今雨荟)",
+      "address": "广粤路283号虹口今雨荟F3层",
+      "distance": "6m"
+    },
+    {
+      "brand": "福州味道",
+      "address": "广粤路283号虹口今雨荟",
+      "distance": "13m"
+    },
+    {
+      "brand": "恰饱饱瓦锅饭瓦锅焖面",
+      "address": "广粤路辅路与广灵四路交叉口北180米",
+      "distance": "14m"
+    },
+    {
+      "brand": "三十一克餐饮店(上海虹口今雨荟店)",
+      "address": "广粤路辅路与广灵四路交叉口北180米",
+      "distance": "15m"
+    },
+    {
+      "brand": "乔杉杉生烫牛肉米线(虹口今雨荟店)",
+      "address": "广粤路299号三层A329",
+      "distance": "15m"
+    },
+    {
+      "brand": "籣香香兰州纯汤牛肉面(虹口今雨荟)",
+      "address": "凉城新村街道广粤路虹口今雨荟三楼327号",
+      "distance": "15m"
+    },
+    {
+      "brand": "拌千川延吉拌饭屋(虹口今雨荟店)",
+      "address": "广粤路283号虹口今雨荟F3层",
+      "distance": "16m"
+    },
+    {
+      "brand": "柠檬向右(今雨荟店)",
+      "address": "今雨荟上海市虹口区广粤路299号三楼A322铺位柠檬向右",
+      "distance": "16m"
+    },
+    {
+      "brand": "巧蓉娘广东牛杂粉面",
+      "address": "广粤路283号虹口今雨荟",
+      "distance": "2m"
+    },
+    {
+      "brand": "100%动物奶油蛋糕",
+      "address": "广粤路283号虹口今雨荟",
+      "distance": "6m"
+    },
+    {
+      "brand": "呷哺呷哺( 上海今雨荟)",
+      "address": "广粤路283号虹口今雨荟F3层",
+      "distance": "6m"
+    },
+    {
+      "brand": "福州味道",
+      "address": "广粤路283号虹口今雨荟",
+      "distance": "13m"
+    },
+    {
+      "brand": "恰饱饱瓦锅饭瓦锅焖面",
+      "address": "广粤路辅路与广灵四路交叉口北180米",
+      "distance": "14m"
+    },
+    {
+      "brand": "三十一克餐饮店(上海虹口今雨荟店)",
+      "address": "广粤路辅路与广灵四路交叉口北180米",
+      "distance": "15m"
+    },
+    {
+      "brand": "乔杉杉生烫牛肉米线(虹口今雨荟店)",
+      "address": "广粤路299号三层A329",
+      "distance": "15m"
+    },
+    {
+      "brand": "籣香香兰州纯汤牛肉面(虹口今雨荟)",
+      "address": "凉城新村街道广粤路虹口今雨荟三楼327号",
+      "distance": "15m"
+    },
+    {
+      "brand": "拌千川延吉拌饭屋(虹口今雨荟店)",
+      "address": "广粤路283号虹口今雨荟F3层",
+      "distance": "16m"
+    },
+    {
+      "brand": "柠檬向右(今雨荟店)",
+      "address": "今雨荟上海市虹口区广粤路299号三楼A322铺位柠檬向右",
+      "distance": "16m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海虹口万泰广场",
+      "open_date": "2021-08-28",
+      "area": "6万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海百联莘荟购物中心",
+      "open_date": "2021-05-01",
+      "area": "3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海凉城购物中心",
+      "open_date": "2021-01-01",
+      "area": "5万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海协信星光广场",
+      "open_date": "2015-12-24",
+      "area": "5.7万㎡",
+      "jun_daily_avg": "2.7万人次",
+      "weekday_avg": "2.9万人次",
+      "holiday_avg": "2.3万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 30.0,
+      "within_1yr_pct": 36.7,
+      "1_3yr_pct": 60.0,
+      "over_3yr_pct": 3.3
+    },
+    {
+      "type": "购物",
+      "count": 18.0,
+      "within_1yr_pct": 44.4,
+      "1_3yr_pct": 55.6,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 8.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 62.5,
+      "over_3yr_pct": 12.5
+    },
+    {
+      "type": "教育培训",
+      "count": 8.0,
+      "within_1yr_pct": 12.5,
+      "1_3yr_pct": 75.0,
+      "over_3yr_pct": 12.5
+    },
+    {
+      "type": "生活服务",
+      "count": 9.0,
+      "within_1yr_pct": 66.7,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "运动健身",
+      "count": 12.0,
+      "within_1yr_pct": 41.7,
+      "1_3yr_pct": 58.3,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 50.0
+    }
+  ]
+}

@@ -1,0 +1,462 @@
+{
+  "name": "招商大魔方THE MAGIC",
+  "city": "成都市",
+  "address": "四川省成都市武侯区天府大道北段1775号",
+  "lat": 30.573571,
+  "lng": 104.070654,
+  "overview": {
+    "score": 94.9,
+    "score_rank": "市内前30%",
+    "population_score": 73.2,
+    "area_score": 76.9,
+    "consumption_score": 89.0,
+    "industry_score": 95.1,
+    "annual_sales": "2",
+    "annual_sales_unit": "亿元",
+    "area_size_sqm": 24.0,
+    "open_date": "2022-05-01",
+    "operator": "招商局蛇口工业区控股股份有限公司",
+    "brand": "招商",
+    "type": "综合型",
+    "floors": "B1-L6"
+  },
+  "traffic": {
+    "annual_daily": 3.3,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第50",
+    "jun_total": 151.5,
+    "jun_total_rank": "市内商场第37名",
+    "jun_daily_avg": 5.0,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第37名",
+    "weekday_avg": 5.0,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第30名",
+    "holiday_avg": 5.3,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第50名"
+  },
+  "population": {
+    "residential": {
+      "500m": 8900.0,
+      "1_5km": 2.9,
+      "3km": 22.2
+    },
+    "office": {
+      "500m": 2.8,
+      "1_5km": 11.2,
+      "3km": 35.3
+    },
+    "permanent": {
+      "500m": 1.5,
+      "1_5km": 6.3,
+      "3km": 25.6
+    }
+  },
+  "business": {
+    "competitors": 4.0,
+    "food": 199.0,
+    "shopping": 326.0,
+    "leisure": 43.0,
+    "education": 27.0,
+    "hotel": 75.0,
+    "services": 154.0,
+    "fitness": 26.0,
+    "auto": 26.0,
+    "total_stores": 551.0,
+    "old_store_3yr_pct": 39.0
+  },
+  "nearby_poi": {
+    "business": 7.0,
+    "community": 192.0,
+    "office": 67.0,
+    "school": 8.0,
+    "hospital": 98.0,
+    "transport": 16.0,
+    "scenic": 194.0
+  },
+  "demographics": {
+    "male_pct": 52.3,
+    "female_pct": null,
+    "education": {
+      "小学": 6.9,
+      "初中": 13.4,
+      "高中": 10.7,
+      "大专": 11.5,
+      "本科": 50.3,
+      "硕士": 6.4,
+      "博士": 0.8
+    },
+    "has_children_pct": 58.3,
+    "no_children_pct": 41.7
+  },
+  "scraped_at": "2026-08-02T08:38:17.032Z",
+  "nearby_restaurants": [
+    {
+      "brand": "丫丫椰树下椰子鸡(大魔方店)",
+      "address": "天府大道北段1777号成都大魔方招商花园城L5层",
+      "distance": "8m"
+    },
+    {
+      "brand": "御膳朱记鲜三汁焖锅",
+      "address": "高新区天府大道北段1777号招商大魔方A馆5楼L5004-5005号",
+      "distance": "9m"
+    },
+    {
+      "brand": "醉辉皇原味海鲜江南菜(成都大魔方店)",
+      "address": "天府大道北段1777号招商大魔方A馆5楼5001号",
+      "distance": "14m"
+    },
+    {
+      "brand": "酸坛纪·贵州酸汤牛肉火锅(大魔方招商花园城店)",
+      "address": "天府大道北段1777号(大魔方招商花园城)A馆5楼L5008",
+      "distance": "20m"
+    },
+    {
+      "brand": "吉布鲁牛排海鲜烤肉自助(大魔方金标店)",
+      "address": "天府大道北段1777号大魔方6楼",
+      "distance": "21m"
+    },
+    {
+      "brand": "岐余食堂·中华料理(成都大魔方招商花园城店)",
+      "address": "石羊街道天府大道北段1777号大魔方招商花园城A馆6层6006号",
+      "distance": "28m"
+    },
+    {
+      "brand": "海德林咖啡餐厅",
+      "address": "天府大道北段1777号成都大魔方招商花园城A馆5楼5009",
+      "distance": "31m"
+    },
+    {
+      "brand": "额尔敦传统涮(成都招商大魔方店)",
+      "address": "天府大道北段1777号招商大魔方A馆6F",
+      "distance": "34m"
+    },
+    {
+      "brand": "星巴克(成都大魔方招商花园城店)",
+      "address": "天府大道北段1777号成都大魔方招商花园城F1层",
+      "distance": "40m"
+    },
+    {
+      "brand": "蜀香迎北京烤鸭(招商大魔方店)",
+      "address": "天府大道北段1777号成都大魔方招商花园城",
+      "distance": "48m"
+    },
+    {
+      "brand": "丫丫椰树下椰子鸡(大魔方店)",
+      "address": "天府大道北段1777号成都大魔方招商花园城L5层",
+      "distance": "8m"
+    },
+    {
+      "brand": "御膳朱记鲜三汁焖锅",
+      "address": "高新区天府大道北段1777号招商大魔方A馆5楼L5004-5005号",
+      "distance": "9m"
+    },
+    {
+      "brand": "醉辉皇原味海鲜江南菜(成都大魔方店)",
+      "address": "天府大道北段1777号招商大魔方A馆5楼5001号",
+      "distance": "14m"
+    },
+    {
+      "brand": "酸坛纪·贵州酸汤牛肉火锅(大魔方招商花园城店)",
+      "address": "天府大道北段1777号(大魔方招商花园城)A馆5楼L5008",
+      "distance": "20m"
+    },
+    {
+      "brand": "吉布鲁牛排海鲜烤肉自助(大魔方金标店)",
+      "address": "天府大道北段1777号大魔方6楼",
+      "distance": "21m"
+    },
+    {
+      "brand": "岐余食堂·中华料理(成都大魔方招商花园城店)",
+      "address": "石羊街道天府大道北段1777号大魔方招商花园城A馆6层6006号",
+      "distance": "28m"
+    },
+    {
+      "brand": "海德林咖啡餐厅",
+      "address": "天府大道北段1777号成都大魔方招商花园城A馆5楼5009",
+      "distance": "31m"
+    },
+    {
+      "brand": "额尔敦传统涮(成都招商大魔方店)",
+      "address": "天府大道北段1777号招商大魔方A馆6F",
+      "distance": "34m"
+    },
+    {
+      "brand": "星巴克(成都大魔方招商花园城店)",
+      "address": "天府大道北段1777号成都大魔方招商花园城F1层",
+      "distance": "40m"
+    },
+    {
+      "brand": "蜀香迎北京烤鸭(招商大魔方店)",
+      "address": "天府大道北段1777号成都大魔方招商花园城",
+      "distance": "48m"
+    },
+    {
+      "brand": "丫丫椰树下椰子鸡(大魔方店)",
+      "address": "天府大道北段1777号成都大魔方招商花园城L5层",
+      "distance": "8m"
+    },
+    {
+      "brand": "御膳朱记鲜三汁焖锅",
+      "address": "高新区天府大道北段1777号招商大魔方A馆5楼L5004-5005号",
+      "distance": "9m"
+    },
+    {
+      "brand": "醉辉皇原味海鲜江南菜(成都大魔方店)",
+      "address": "天府大道北段1777号招商大魔方A馆5楼5001号",
+      "distance": "14m"
+    },
+    {
+      "brand": "酸坛纪·贵州酸汤牛肉火锅(大魔方招商花园城店)",
+      "address": "天府大道北段1777号(大魔方招商花园城)A馆5楼L5008",
+      "distance": "20m"
+    },
+    {
+      "brand": "吉布鲁牛排海鲜烤肉自助(大魔方金标店)",
+      "address": "天府大道北段1777号大魔方6楼",
+      "distance": "21m"
+    },
+    {
+      "brand": "岐余食堂·中华料理(成都大魔方招商花园城店)",
+      "address": "石羊街道天府大道北段1777号大魔方招商花园城A馆6层6006号",
+      "distance": "28m"
+    },
+    {
+      "brand": "海德林咖啡餐厅",
+      "address": "天府大道北段1777号成都大魔方招商花园城A馆5楼5009",
+      "distance": "31m"
+    },
+    {
+      "brand": "额尔敦传统涮(成都招商大魔方店)",
+      "address": "天府大道北段1777号招商大魔方A馆6F",
+      "distance": "34m"
+    },
+    {
+      "brand": "星巴克(成都大魔方招商花园城店)",
+      "address": "天府大道北段1777号成都大魔方招商花园城F1层",
+      "distance": "40m"
+    },
+    {
+      "brand": "蜀香迎北京烤鸭(招商大魔方店)",
+      "address": "天府大道北段1777号成都大魔方招商花园城",
+      "distance": "48m"
+    },
+    {
+      "brand": "丫丫椰树下椰子鸡(大魔方店)",
+      "address": "天府大道北段1777号成都大魔方招商花园城L5层",
+      "distance": "8m"
+    },
+    {
+      "brand": "御膳朱记鲜三汁焖锅",
+      "address": "高新区天府大道北段1777号招商大魔方A馆5楼L5004-5005号",
+      "distance": "9m"
+    },
+    {
+      "brand": "醉辉皇原味海鲜江南菜(成都大魔方店)",
+      "address": "天府大道北段1777号招商大魔方A馆5楼5001号",
+      "distance": "14m"
+    },
+    {
+      "brand": "酸坛纪·贵州酸汤牛肉火锅(大魔方招商花园城店)",
+      "address": "天府大道北段1777号(大魔方招商花园城)A馆5楼L5008",
+      "distance": "20m"
+    },
+    {
+      "brand": "吉布鲁牛排海鲜烤肉自助(大魔方金标店)",
+      "address": "天府大道北段1777号大魔方6楼",
+      "distance": "21m"
+    },
+    {
+      "brand": "岐余食堂·中华料理(成都大魔方招商花园城店)",
+      "address": "石羊街道天府大道北段1777号大魔方招商花园城A馆6层6006号",
+      "distance": "28m"
+    },
+    {
+      "brand": "海德林咖啡餐厅",
+      "address": "天府大道北段1777号成都大魔方招商花园城A馆5楼5009",
+      "distance": "31m"
+    },
+    {
+      "brand": "额尔敦传统涮(成都招商大魔方店)",
+      "address": "天府大道北段1777号招商大魔方A馆6F",
+      "distance": "34m"
+    },
+    {
+      "brand": "星巴克(成都大魔方招商花园城店)",
+      "address": "天府大道北段1777号成都大魔方招商花园城F1层",
+      "distance": "40m"
+    },
+    {
+      "brand": "蜀香迎北京烤鸭(招商大魔方店)",
+      "address": "天府大道北段1777号成都大魔方招商花园城",
+      "distance": "48m"
+    },
+    {
+      "brand": "丫丫椰树下椰子鸡(大魔方店)",
+      "address": "天府大道北段1777号成都大魔方招商花园城L5层",
+      "distance": "8m"
+    },
+    {
+      "brand": "御膳朱记鲜三汁焖锅",
+      "address": "高新区天府大道北段1777号招商大魔方A馆5楼L5004-5005号",
+      "distance": "9m"
+    },
+    {
+      "brand": "醉辉皇原味海鲜江南菜(成都大魔方店)",
+      "address": "天府大道北段1777号招商大魔方A馆5楼5001号",
+      "distance": "14m"
+    },
+    {
+      "brand": "酸坛纪·贵州酸汤牛肉火锅(大魔方招商花园城店)",
+      "address": "天府大道北段1777号(大魔方招商花园城)A馆5楼L5008",
+      "distance": "20m"
+    },
+    {
+      "brand": "吉布鲁牛排海鲜烤肉自助(大魔方金标店)",
+      "address": "天府大道北段1777号大魔方6楼",
+      "distance": "21m"
+    },
+    {
+      "brand": "岐余食堂·中华料理(成都大魔方招商花园城店)",
+      "address": "石羊街道天府大道北段1777号大魔方招商花园城A馆6层6006号",
+      "distance": "28m"
+    },
+    {
+      "brand": "海德林咖啡餐厅",
+      "address": "天府大道北段1777号成都大魔方招商花园城A馆5楼5009",
+      "distance": "31m"
+    },
+    {
+      "brand": "额尔敦传统涮(成都招商大魔方店)",
+      "address": "天府大道北段1777号招商大魔方A馆6F",
+      "distance": "34m"
+    },
+    {
+      "brand": "星巴克(成都大魔方招商花园城店)",
+      "address": "天府大道北段1777号成都大魔方招商花园城F1层",
+      "distance": "40m"
+    },
+    {
+      "brand": "蜀香迎北京烤鸭(招商大魔方店)",
+      "address": "天府大道北段1777号成都大魔方招商花园城",
+      "distance": "48m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "成都SKP",
+      "open_date": "2022-12-20",
+      "area": "15.1万㎡",
+      "jun_daily_avg": "3.4万人次",
+      "weekday_avg": "3万人次",
+      "holiday_avg": "4.2万人次"
+    },
+    {
+      "name": "成都锦城万达广场",
+      "open_date": "2012-11-01",
+      "area": "20万㎡",
+      "jun_daily_avg": "4.5万人次",
+      "weekday_avg": "4.8万人次",
+      "holiday_avg": "3.6万人次"
+    },
+    {
+      "name": "成都环球MALL",
+      "open_date": "2013-09-03",
+      "area": "40万㎡",
+      "jun_daily_avg": "10.7万人次",
+      "weekday_avg": "10.7万人次",
+      "holiday_avg": "10.5万人次"
+    },
+    {
+      "name": "成都中国华商金融中心",
+      "open_date": "2021-12-30",
+      "area": "7.5万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "成都银泰中心in99",
+      "open_date": "2017-04-01",
+      "area": "19万㎡",
+      "jun_daily_avg": "6.7万人次",
+      "weekday_avg": "6.8万人次",
+      "holiday_avg": "6.5万人次"
+    },
+    {
+      "name": "成都中海环宇荟",
+      "open_date": "2017-12-01",
+      "area": "3万㎡",
+      "jun_daily_avg": "4.6万人次",
+      "weekday_avg": "4.7万人次",
+      "holiday_avg": "4.3万人次"
+    },
+    {
+      "name": "成都合景悠方购物中心",
+      "open_date": "2018-05-26",
+      "area": "12万㎡",
+      "jun_daily_avg": "4.6万人次",
+      "weekday_avg": "4.7万人次",
+      "holiday_avg": "4.3万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 141.0,
+      "within_1yr_pct": 22.0,
+      "1_3yr_pct": 34.8,
+      "over_3yr_pct": 43.3
+    },
+    {
+      "type": "购物",
+      "count": 128.0,
+      "within_1yr_pct": 21.9,
+      "1_3yr_pct": 38.3,
+      "over_3yr_pct": 39.8
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 47.0,
+      "within_1yr_pct": 46.8,
+      "1_3yr_pct": 31.9,
+      "over_3yr_pct": 21.3
+    },
+    {
+      "type": "教育培训",
+      "count": 20.0,
+      "within_1yr_pct": 35.0,
+      "1_3yr_pct": 45.0,
+      "over_3yr_pct": 20.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 61.0,
+      "within_1yr_pct": 27.9,
+      "1_3yr_pct": 32.8,
+      "over_3yr_pct": 39.3
+    },
+    {
+      "type": "生活服务",
+      "count": 120.0,
+      "within_1yr_pct": 19.2,
+      "1_3yr_pct": 37.5,
+      "over_3yr_pct": 43.3
+    },
+    {
+      "type": "运动健身",
+      "count": 21.0,
+      "within_1yr_pct": 14.3,
+      "1_3yr_pct": 52.4,
+      "over_3yr_pct": 33.3
+    },
+    {
+      "type": "车辆服务",
+      "count": 13.0,
+      "within_1yr_pct": 23.1,
+      "1_3yr_pct": 46.2,
+      "over_3yr_pct": 30.8
+    }
+  ]
+}

@@ -1,0 +1,423 @@
+{
+  "name": "北京枫蓝国际购物中心",
+  "city": "北京市",
+  "address": "北京市海淀区西直门外大街32号院",
+  "lat": 39.953204,
+  "lng": 116.356001,
+  "overview": {
+    "score": 95.0,
+    "score_rank": "市内前30%",
+    "population_score": 100.0,
+    "area_score": 80.3,
+    "consumption_score": 83.4,
+    "industry_score": 95.1,
+    "annual_sales": "3",
+    "annual_sales_unit": "亿元",
+    "area_size_sqm": 6.0,
+    "open_date": "2007-10-01",
+    "operator": "北京银都房地产发展有限公司",
+    "brand": "",
+    "type": "亲子型",
+    "floors": "B2-L4"
+  },
+  "traffic": {
+    "annual_daily": 4.08,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第37",
+    "jun_total": 169.0,
+    "jun_total_rank": "市内商场第36名",
+    "jun_daily_avg": 5.6,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第36名",
+    "weekday_avg": 5.3,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第31名",
+    "holiday_avg": 6.5,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第44名"
+  },
+  "population": {
+    "residential": {
+      "500m": 4.0,
+      "1_5km": 29.8,
+      "3km": 89.7
+    },
+    "office": {
+      "500m": 2.2,
+      "1_5km": 15.0,
+      "3km": 62.4
+    },
+    "permanent": {
+      "500m": 3.9,
+      "1_5km": 26.7,
+      "3km": 86.4
+    }
+  },
+  "business": {
+    "competitors": 3.0,
+    "food": 179.0,
+    "shopping": 121.0,
+    "leisure": 32.0,
+    "education": 31.0,
+    "hotel": 35.0,
+    "services": 91.0,
+    "fitness": 25.0,
+    "auto": 10.0,
+    "total_stores": 229.0,
+    "old_store_3yr_pct": 51.0
+  },
+  "nearby_poi": {
+    "business": 3.0,
+    "community": 530.0,
+    "office": 66.0,
+    "school": 39.0,
+    "hospital": 128.0,
+    "transport": 5.0,
+    "scenic": 433.0
+  },
+  "demographics": {
+    "male_pct": 47.4,
+    "female_pct": null,
+    "education": {
+      "小学": 7.6,
+      "初中": 13.6,
+      "高中": 14.1,
+      "大专": 4.6,
+      "本科": 47.1,
+      "硕士": 9.8,
+      "博士": 3.2
+    },
+    "has_children_pct": 53.1,
+    "no_children_pct": 46.9
+  },
+  "scraped_at": "2026-07-31T18:53:25.848Z",
+  "nearby_restaurants": [
+    {
+      "brand": "CoCo都可(枫蓝国际店)",
+      "address": "西直门北大街32号枫蓝国际购物中心F3",
+      "distance": "11m"
+    },
+    {
+      "brand": "牛角烧肉专门店(北京枫蓝国际店)",
+      "address": "北京城区西直门北大街32号枫蓝国际中心3层1-2号",
+      "distance": "12m"
+    },
+    {
+      "brand": "滨寿司(北京枫蓝国际店)",
+      "address": "西直门北大街32号院枫蓝国际购物中心F2层",
+      "distance": "12m"
+    },
+    {
+      "brand": "肯德基(枫蓝国际店)",
+      "address": "北京城区西直门北大街32号枫蓝国际中心商场B座一层",
+      "distance": "13m"
+    },
+    {
+      "brand": "北丐先生•野馄饨烧烤(北京枫蓝国际店)",
+      "address": "北太平庄街道西直门北大街32号三层302",
+      "distance": "15m"
+    },
+    {
+      "brand": "LINLEE·手打柠檬茶(海淀枫蓝国际店)",
+      "address": "北京城区西直门北大街32号枫蓝国际购物中心二层203",
+      "distance": "15m"
+    },
+    {
+      "brand": "US'PRIME牛排馆(枫蓝国际购物中心店)",
+      "address": "西直门北大街32号院枫蓝国际购物中心F3层",
+      "distance": "16m"
+    },
+    {
+      "brand": "西树泡芙(枫蓝国际购物中心店)",
+      "address": "西直门北大街32号院枫蓝国际购物中心F3层",
+      "distance": "17m"
+    },
+    {
+      "brand": "牛排家(枫蓝国际购物中心店)",
+      "address": "北京城区西直门北大街32号楼枫蓝国际3层302",
+      "distance": "23m"
+    },
+    {
+      "brand": "鹿港小镇(枫蓝国际购物中心店)",
+      "address": "西直门北大街32号院枫蓝国际购物中心F3层3-014",
+      "distance": "23m"
+    },
+    {
+      "brand": "CoCo都可(枫蓝国际店)",
+      "address": "西直门北大街32号枫蓝国际购物中心F3",
+      "distance": "11m"
+    },
+    {
+      "brand": "牛角烧肉专门店(北京枫蓝国际店)",
+      "address": "北京城区西直门北大街32号枫蓝国际中心3层1-2号",
+      "distance": "12m"
+    },
+    {
+      "brand": "滨寿司(北京枫蓝国际店)",
+      "address": "西直门北大街32号院枫蓝国际购物中心F2层",
+      "distance": "12m"
+    },
+    {
+      "brand": "肯德基(枫蓝国际店)",
+      "address": "北京城区西直门北大街32号枫蓝国际中心商场B座一层",
+      "distance": "13m"
+    },
+    {
+      "brand": "北丐先生•野馄饨烧烤(北京枫蓝国际店)",
+      "address": "北太平庄街道西直门北大街32号三层302",
+      "distance": "15m"
+    },
+    {
+      "brand": "LINLEE·手打柠檬茶(海淀枫蓝国际店)",
+      "address": "北京城区西直门北大街32号枫蓝国际购物中心二层203",
+      "distance": "15m"
+    },
+    {
+      "brand": "US'PRIME牛排馆(枫蓝国际购物中心店)",
+      "address": "西直门北大街32号院枫蓝国际购物中心F3层",
+      "distance": "16m"
+    },
+    {
+      "brand": "西树泡芙(枫蓝国际购物中心店)",
+      "address": "西直门北大街32号院枫蓝国际购物中心F3层",
+      "distance": "17m"
+    },
+    {
+      "brand": "牛排家(枫蓝国际购物中心店)",
+      "address": "北京城区西直门北大街32号楼枫蓝国际3层302",
+      "distance": "23m"
+    },
+    {
+      "brand": "鹿港小镇(枫蓝国际购物中心店)",
+      "address": "西直门北大街32号院枫蓝国际购物中心F3层3-014",
+      "distance": "23m"
+    },
+    {
+      "brand": "CoCo都可(枫蓝国际店)",
+      "address": "西直门北大街32号枫蓝国际购物中心F3",
+      "distance": "11m"
+    },
+    {
+      "brand": "牛角烧肉专门店(北京枫蓝国际店)",
+      "address": "北京城区西直门北大街32号枫蓝国际中心3层1-2号",
+      "distance": "12m"
+    },
+    {
+      "brand": "滨寿司(北京枫蓝国际店)",
+      "address": "西直门北大街32号院枫蓝国际购物中心F2层",
+      "distance": "12m"
+    },
+    {
+      "brand": "肯德基(枫蓝国际店)",
+      "address": "北京城区西直门北大街32号枫蓝国际中心商场B座一层",
+      "distance": "13m"
+    },
+    {
+      "brand": "北丐先生•野馄饨烧烤(北京枫蓝国际店)",
+      "address": "北太平庄街道西直门北大街32号三层302",
+      "distance": "15m"
+    },
+    {
+      "brand": "LINLEE·手打柠檬茶(海淀枫蓝国际店)",
+      "address": "北京城区西直门北大街32号枫蓝国际购物中心二层203",
+      "distance": "15m"
+    },
+    {
+      "brand": "US'PRIME牛排馆(枫蓝国际购物中心店)",
+      "address": "西直门北大街32号院枫蓝国际购物中心F3层",
+      "distance": "16m"
+    },
+    {
+      "brand": "西树泡芙(枫蓝国际购物中心店)",
+      "address": "西直门北大街32号院枫蓝国际购物中心F3层",
+      "distance": "17m"
+    },
+    {
+      "brand": "牛排家(枫蓝国际购物中心店)",
+      "address": "北京城区西直门北大街32号楼枫蓝国际3层302",
+      "distance": "23m"
+    },
+    {
+      "brand": "鹿港小镇(枫蓝国际购物中心店)",
+      "address": "西直门北大街32号院枫蓝国际购物中心F3层3-014",
+      "distance": "23m"
+    },
+    {
+      "brand": "CoCo都可(枫蓝国际店)",
+      "address": "西直门北大街32号枫蓝国际购物中心F3",
+      "distance": "11m"
+    },
+    {
+      "brand": "牛角烧肉专门店(北京枫蓝国际店)",
+      "address": "北京城区西直门北大街32号枫蓝国际中心3层1-2号",
+      "distance": "12m"
+    },
+    {
+      "brand": "滨寿司(北京枫蓝国际店)",
+      "address": "西直门北大街32号院枫蓝国际购物中心F2层",
+      "distance": "12m"
+    },
+    {
+      "brand": "肯德基(枫蓝国际店)",
+      "address": "北京城区西直门北大街32号枫蓝国际中心商场B座一层",
+      "distance": "13m"
+    },
+    {
+      "brand": "北丐先生•野馄饨烧烤(北京枫蓝国际店)",
+      "address": "北太平庄街道西直门北大街32号三层302",
+      "distance": "15m"
+    },
+    {
+      "brand": "LINLEE·手打柠檬茶(海淀枫蓝国际店)",
+      "address": "北京城区西直门北大街32号枫蓝国际购物中心二层203",
+      "distance": "15m"
+    },
+    {
+      "brand": "US'PRIME牛排馆(枫蓝国际购物中心店)",
+      "address": "西直门北大街32号院枫蓝国际购物中心F3层",
+      "distance": "16m"
+    },
+    {
+      "brand": "西树泡芙(枫蓝国际购物中心店)",
+      "address": "西直门北大街32号院枫蓝国际购物中心F3层",
+      "distance": "17m"
+    },
+    {
+      "brand": "牛排家(枫蓝国际购物中心店)",
+      "address": "北京城区西直门北大街32号楼枫蓝国际3层302",
+      "distance": "23m"
+    },
+    {
+      "brand": "鹿港小镇(枫蓝国际购物中心店)",
+      "address": "西直门北大街32号院枫蓝国际购物中心F3层3-014",
+      "distance": "23m"
+    },
+    {
+      "brand": "CoCo都可(枫蓝国际店)",
+      "address": "西直门北大街32号枫蓝国际购物中心F3",
+      "distance": "11m"
+    },
+    {
+      "brand": "牛角烧肉专门店(北京枫蓝国际店)",
+      "address": "北京城区西直门北大街32号枫蓝国际中心3层1-2号",
+      "distance": "12m"
+    },
+    {
+      "brand": "滨寿司(北京枫蓝国际店)",
+      "address": "西直门北大街32号院枫蓝国际购物中心F2层",
+      "distance": "12m"
+    },
+    {
+      "brand": "肯德基(枫蓝国际店)",
+      "address": "北京城区西直门北大街32号枫蓝国际中心商场B座一层",
+      "distance": "13m"
+    },
+    {
+      "brand": "北丐先生•野馄饨烧烤(北京枫蓝国际店)",
+      "address": "北太平庄街道西直门北大街32号三层302",
+      "distance": "15m"
+    },
+    {
+      "brand": "LINLEE·手打柠檬茶(海淀枫蓝国际店)",
+      "address": "北京城区西直门北大街32号枫蓝国际购物中心二层203",
+      "distance": "15m"
+    },
+    {
+      "brand": "US'PRIME牛排馆(枫蓝国际购物中心店)",
+      "address": "西直门北大街32号院枫蓝国际购物中心F3层",
+      "distance": "16m"
+    },
+    {
+      "brand": "西树泡芙(枫蓝国际购物中心店)",
+      "address": "西直门北大街32号院枫蓝国际购物中心F3层",
+      "distance": "17m"
+    },
+    {
+      "brand": "牛排家(枫蓝国际购物中心店)",
+      "address": "北京城区西直门北大街32号楼枫蓝国际3层302",
+      "distance": "23m"
+    },
+    {
+      "brand": "鹿港小镇(枫蓝国际购物中心店)",
+      "address": "西直门北大街32号院枫蓝国际购物中心F3层3-014",
+      "distance": "23m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "北京天恒学院里",
+      "open_date": "2024-08-01",
+      "area": "1.5万㎡",
+      "jun_daily_avg": "14.6万人次",
+      "weekday_avg": "14.1万人次",
+      "holiday_avg": "16.1万人次"
+    },
+    {
+      "name": "北京凯德MALL（西直门店）",
+      "open_date": "2007-10-01",
+      "area": "8.3万㎡",
+      "jun_daily_avg": "14.6万人次",
+      "weekday_avg": "14.1万人次",
+      "holiday_avg": "16.1万人次"
+    },
+    {
+      "name": "北京新华百货",
+      "open_date": "2012-07-14",
+      "area": "3.5万㎡",
+      "jun_daily_avg": "2万人次",
+      "weekday_avg": "1.9万人次",
+      "holiday_avg": "2.4万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 62.0,
+      "within_1yr_pct": 12.9,
+      "1_3yr_pct": 32.3,
+      "over_3yr_pct": 54.8
+    },
+    {
+      "type": "购物",
+      "count": 73.0,
+      "within_1yr_pct": 11.0,
+      "1_3yr_pct": 32.9,
+      "over_3yr_pct": 56.2
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 24.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 37.5,
+      "over_3yr_pct": 37.5
+    },
+    {
+      "type": "教育培训",
+      "count": 21.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 33.3
+    },
+    {
+      "type": "生活服务",
+      "count": 30.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 13.3,
+      "over_3yr_pct": 66.7
+    },
+    {
+      "type": "运动健身",
+      "count": 15.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 53.3,
+      "over_3yr_pct": 26.7
+    },
+    {
+      "type": "车辆服务",
+      "count": 4.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 50.0
+    }
+  ]
+}

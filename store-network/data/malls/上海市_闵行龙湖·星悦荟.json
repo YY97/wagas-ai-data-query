@@ -1,0 +1,422 @@
+{
+  "name": "闵行龙湖·星悦荟",
+  "city": "上海市",
+  "address": "上海市闵行区马桥镇银春路2221号",
+  "lat": 31.024042,
+  "lng": 121.385953,
+  "overview": {
+    "score": 91.1,
+    "score_rank": "市内前30%",
+    "population_score": 97.3,
+    "area_score": 67.3,
+    "consumption_score": 66.4,
+    "industry_score": 91.2,
+    "annual_sales": "龙湖·星悦荟致力于重现最初人们所熟知的坊巷、里弄的空间和肌理，将购物空间分散在一座座小型独栋与内院中，营造出一种可玩、可游、可商与可居的多元化“里弄”时尚生活场景。",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 2.47,
+    "open_date": "2019-07-26",
+    "operator": "龙湖集团控股有限公司",
+    "brand": "龙湖",
+    "type": "美食型",
+    "floors": "L1-L3"
+  },
+  "traffic": {
+    "annual_daily": 1.1,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第231",
+    "jun_total": 57.5,
+    "jun_total_rank": "市内商场第196名",
+    "jun_daily_avg": 1.9,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第196名",
+    "weekday_avg": 1.7,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第200名",
+    "holiday_avg": 2.4,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第181名"
+  },
+  "population": {
+    "residential": {
+      "500m": 3.4,
+      "1_5km": 11.6,
+      "3km": 35.1
+    },
+    "office": {
+      "500m": 9300.0,
+      "1_5km": 4.3,
+      "3km": 17.6
+    },
+    "permanent": {
+      "500m": 3.0,
+      "1_5km": 10.5,
+      "3km": 32.1
+    }
+  },
+  "business": {
+    "competitors": 4.0,
+    "food": 89.0,
+    "shopping": 43.0,
+    "leisure": 11.0,
+    "education": 25.0,
+    "hotel": 4.0,
+    "services": 56.0,
+    "fitness": 19.0,
+    "auto": 11.0,
+    "total_stores": 73.0,
+    "old_store_3yr_pct": 55.0
+  },
+  "nearby_poi": {
+    "business": 2.0,
+    "community": 124.0,
+    "office": 6.0,
+    "school": 16.0,
+    "hospital": 13.0,
+    "transport": 7.0,
+    "scenic": 37.0
+  },
+  "demographics": {
+    "male_pct": 49.4,
+    "female_pct": null,
+    "education": {
+      "小学": 10.5,
+      "初中": 20.0,
+      "高中": 12.4,
+      "大专": 8.6,
+      "本科": 41.9,
+      "硕士": 5.1,
+      "博士": 1.5
+    },
+    "has_children_pct": 63.2,
+    "no_children_pct": 36.8
+  },
+  "scraped_at": "2026-08-01T06:34:39.323Z",
+  "nearby_restaurants": [
+    {
+      "brand": "前阳邨铁锅炖(龙湖上海闵行星悦荟店)",
+      "address": "马桥镇银春路2221号龙湖上海闵行星悦荟1F层",
+      "distance": "6m"
+    },
+    {
+      "brand": "久の籐居酒屋(龙湖上海闵行星悦荟店)",
+      "address": "银春路2221号星悦荟一楼广场第二排",
+      "distance": "21m"
+    },
+    {
+      "brand": "茶禧壹號(星悦荟店)",
+      "address": "银春路2221号",
+      "distance": "24m"
+    },
+    {
+      "brand": "漠十娘小炒泡馍(星悦荟店)",
+      "address": "马桥镇银春路2221弄1号1110、1111、1112铺位",
+      "distance": "25m"
+    },
+    {
+      "brand": "成都你六姐·牛肉冒菜(上海星悦荟店)",
+      "address": "马桥镇银春路2221弄1号1108、1109铺位",
+      "distance": "28m"
+    },
+    {
+      "brand": "瑞幸咖啡(龙湖星悦荟店)",
+      "address": "银春路2221号龙湖上海闵行星悦荟F1",
+      "distance": "28m"
+    },
+    {
+      "brand": "川堂风·跷脚牛肉·乐山爆炒(马桥店)",
+      "address": "银春路2221号龙湖上海闵行星悦荟3号楼3108室",
+      "distance": "29m"
+    },
+    {
+      "brand": "杨国福麻辣烫(马桥龙湖店)",
+      "address": "银春路2221弄龙湖上海闵行星悦荟C-1F-1b",
+      "distance": "30m"
+    },
+    {
+      "brand": "叁牛氿味潮汕鲜黄牛肉火锅(龙湖上海闵行星悦荟店)",
+      "address": "银春路2221号龙湖上海闵行星悦荟1F层",
+      "distance": "32m"
+    },
+    {
+      "brand": "喜姐炸串(龙湖上海闵行星悦荟店)",
+      "address": "马桥镇银春路2221号龙湖上海闵行星悦荟1F层",
+      "distance": "33m"
+    },
+    {
+      "brand": "前阳邨铁锅炖(龙湖上海闵行星悦荟店)",
+      "address": "马桥镇银春路2221号龙湖上海闵行星悦荟1F层",
+      "distance": "6m"
+    },
+    {
+      "brand": "久の籐居酒屋(龙湖上海闵行星悦荟店)",
+      "address": "银春路2221号星悦荟一楼广场第二排",
+      "distance": "21m"
+    },
+    {
+      "brand": "茶禧壹號(星悦荟店)",
+      "address": "银春路2221号",
+      "distance": "24m"
+    },
+    {
+      "brand": "漠十娘小炒泡馍(星悦荟店)",
+      "address": "马桥镇银春路2221弄1号1110、1111、1112铺位",
+      "distance": "25m"
+    },
+    {
+      "brand": "成都你六姐·牛肉冒菜(上海星悦荟店)",
+      "address": "马桥镇银春路2221弄1号1108、1109铺位",
+      "distance": "28m"
+    },
+    {
+      "brand": "瑞幸咖啡(龙湖星悦荟店)",
+      "address": "银春路2221号龙湖上海闵行星悦荟F1",
+      "distance": "28m"
+    },
+    {
+      "brand": "川堂风·跷脚牛肉·乐山爆炒(马桥店)",
+      "address": "银春路2221号龙湖上海闵行星悦荟3号楼3108室",
+      "distance": "29m"
+    },
+    {
+      "brand": "杨国福麻辣烫(马桥龙湖店)",
+      "address": "银春路2221弄龙湖上海闵行星悦荟C-1F-1b",
+      "distance": "30m"
+    },
+    {
+      "brand": "叁牛氿味潮汕鲜黄牛肉火锅(龙湖上海闵行星悦荟店)",
+      "address": "银春路2221号龙湖上海闵行星悦荟1F层",
+      "distance": "32m"
+    },
+    {
+      "brand": "喜姐炸串(龙湖上海闵行星悦荟店)",
+      "address": "马桥镇银春路2221号龙湖上海闵行星悦荟1F层",
+      "distance": "33m"
+    },
+    {
+      "brand": "前阳邨铁锅炖(龙湖上海闵行星悦荟店)",
+      "address": "马桥镇银春路2221号龙湖上海闵行星悦荟1F层",
+      "distance": "6m"
+    },
+    {
+      "brand": "久の籐居酒屋(龙湖上海闵行星悦荟店)",
+      "address": "银春路2221号星悦荟一楼广场第二排",
+      "distance": "21m"
+    },
+    {
+      "brand": "茶禧壹號(星悦荟店)",
+      "address": "银春路2221号",
+      "distance": "24m"
+    },
+    {
+      "brand": "漠十娘小炒泡馍(星悦荟店)",
+      "address": "马桥镇银春路2221弄1号1110、1111、1112铺位",
+      "distance": "25m"
+    },
+    {
+      "brand": "成都你六姐·牛肉冒菜(上海星悦荟店)",
+      "address": "马桥镇银春路2221弄1号1108、1109铺位",
+      "distance": "28m"
+    },
+    {
+      "brand": "瑞幸咖啡(龙湖星悦荟店)",
+      "address": "银春路2221号龙湖上海闵行星悦荟F1",
+      "distance": "28m"
+    },
+    {
+      "brand": "川堂风·跷脚牛肉·乐山爆炒(马桥店)",
+      "address": "银春路2221号龙湖上海闵行星悦荟3号楼3108室",
+      "distance": "29m"
+    },
+    {
+      "brand": "杨国福麻辣烫(马桥龙湖店)",
+      "address": "银春路2221弄龙湖上海闵行星悦荟C-1F-1b",
+      "distance": "30m"
+    },
+    {
+      "brand": "叁牛氿味潮汕鲜黄牛肉火锅(龙湖上海闵行星悦荟店)",
+      "address": "银春路2221号龙湖上海闵行星悦荟1F层",
+      "distance": "32m"
+    },
+    {
+      "brand": "喜姐炸串(龙湖上海闵行星悦荟店)",
+      "address": "马桥镇银春路2221号龙湖上海闵行星悦荟1F层",
+      "distance": "33m"
+    },
+    {
+      "brand": "前阳邨铁锅炖(龙湖上海闵行星悦荟店)",
+      "address": "马桥镇银春路2221号龙湖上海闵行星悦荟1F层",
+      "distance": "6m"
+    },
+    {
+      "brand": "久の籐居酒屋(龙湖上海闵行星悦荟店)",
+      "address": "银春路2221号星悦荟一楼广场第二排",
+      "distance": "21m"
+    },
+    {
+      "brand": "茶禧壹號(星悦荟店)",
+      "address": "银春路2221号",
+      "distance": "24m"
+    },
+    {
+      "brand": "漠十娘小炒泡馍(星悦荟店)",
+      "address": "马桥镇银春路2221弄1号1110、1111、1112铺位",
+      "distance": "25m"
+    },
+    {
+      "brand": "成都你六姐·牛肉冒菜(上海星悦荟店)",
+      "address": "马桥镇银春路2221弄1号1108、1109铺位",
+      "distance": "28m"
+    },
+    {
+      "brand": "瑞幸咖啡(龙湖星悦荟店)",
+      "address": "银春路2221号龙湖上海闵行星悦荟F1",
+      "distance": "28m"
+    },
+    {
+      "brand": "川堂风·跷脚牛肉·乐山爆炒(马桥店)",
+      "address": "银春路2221号龙湖上海闵行星悦荟3号楼3108室",
+      "distance": "29m"
+    },
+    {
+      "brand": "杨国福麻辣烫(马桥龙湖店)",
+      "address": "银春路2221弄龙湖上海闵行星悦荟C-1F-1b",
+      "distance": "30m"
+    },
+    {
+      "brand": "叁牛氿味潮汕鲜黄牛肉火锅(龙湖上海闵行星悦荟店)",
+      "address": "银春路2221号龙湖上海闵行星悦荟1F层",
+      "distance": "32m"
+    },
+    {
+      "brand": "喜姐炸串(龙湖上海闵行星悦荟店)",
+      "address": "马桥镇银春路2221号龙湖上海闵行星悦荟1F层",
+      "distance": "33m"
+    },
+    {
+      "brand": "前阳邨铁锅炖(龙湖上海闵行星悦荟店)",
+      "address": "马桥镇银春路2221号龙湖上海闵行星悦荟1F层",
+      "distance": "6m"
+    },
+    {
+      "brand": "久の籐居酒屋(龙湖上海闵行星悦荟店)",
+      "address": "银春路2221号星悦荟一楼广场第二排",
+      "distance": "21m"
+    },
+    {
+      "brand": "茶禧壹號(星悦荟店)",
+      "address": "银春路2221号",
+      "distance": "24m"
+    },
+    {
+      "brand": "漠十娘小炒泡馍(星悦荟店)",
+      "address": "马桥镇银春路2221弄1号1110、1111、1112铺位",
+      "distance": "25m"
+    },
+    {
+      "brand": "成都你六姐·牛肉冒菜(上海星悦荟店)",
+      "address": "马桥镇银春路2221弄1号1108、1109铺位",
+      "distance": "28m"
+    },
+    {
+      "brand": "瑞幸咖啡(龙湖星悦荟店)",
+      "address": "银春路2221号龙湖上海闵行星悦荟F1",
+      "distance": "28m"
+    },
+    {
+      "brand": "川堂风·跷脚牛肉·乐山爆炒(马桥店)",
+      "address": "银春路2221号龙湖上海闵行星悦荟3号楼3108室",
+      "distance": "29m"
+    },
+    {
+      "brand": "杨国福麻辣烫(马桥龙湖店)",
+      "address": "银春路2221弄龙湖上海闵行星悦荟C-1F-1b",
+      "distance": "30m"
+    },
+    {
+      "brand": "叁牛氿味潮汕鲜黄牛肉火锅(龙湖上海闵行星悦荟店)",
+      "address": "银春路2221号龙湖上海闵行星悦荟1F层",
+      "distance": "32m"
+    },
+    {
+      "brand": "喜姐炸串(龙湖上海闵行星悦荟店)",
+      "address": "马桥镇银春路2221号龙湖上海闵行星悦荟1F层",
+      "distance": "33m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海马桥满天星生活广场",
+      "open_date": "2017-04-01",
+      "area": "2.6万㎡",
+      "jun_daily_avg": "3.8万人次",
+      "weekday_avg": "3.3万人次",
+      "holiday_avg": "5.1万人次"
+    },
+    {
+      "name": "上海马桥万达广场",
+      "open_date": "2020-12-23",
+      "area": "13.3万㎡",
+      "jun_daily_avg": "3.8万人次",
+      "weekday_avg": "3.3万人次",
+      "holiday_avg": "5.1万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 31.0,
+      "within_1yr_pct": 22.6,
+      "1_3yr_pct": 22.6,
+      "over_3yr_pct": 54.8
+    },
+    {
+      "type": "购物",
+      "count": 6.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 66.7
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 6.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 33.3
+    },
+    {
+      "type": "教育培训",
+      "count": 8.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 37.5,
+      "over_3yr_pct": 37.5
+    },
+    {
+      "type": "酒店住宿",
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    },
+    {
+      "type": "生活服务",
+      "count": 7.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 14.3,
+      "over_3yr_pct": 85.7
+    },
+    {
+      "type": "运动健身",
+      "count": 11.0,
+      "within_1yr_pct": 27.3,
+      "1_3yr_pct": 27.3,
+      "over_3yr_pct": 45.5
+    },
+    {
+      "type": "车辆服务",
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 50.0
+    }
+  ]
+}

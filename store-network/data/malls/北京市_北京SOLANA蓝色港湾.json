@@ -1,0 +1,431 @@
+{
+  "name": "北京SOLANA蓝色港湾",
+  "city": "北京市",
+  "address": "北京市朝阳区朝阳公园路6号院",
+  "lat": 39.949399,
+  "lng": 116.475927,
+  "overview": {
+    "score": 95.1,
+    "score_rank": "市内前30%",
+    "population_score": 66.4,
+    "area_score": 78.9,
+    "consumption_score": 81.8,
+    "industry_score": 95.3,
+    "annual_sales": "19.5",
+    "annual_sales_unit": "亿元",
+    "area_size_sqm": 13.6,
+    "open_date": "2024-12-08",
+    "operator": "珠海万达商业管理集团股份有限公司",
+    "brand": "万达",
+    "type": "亲子型",
+    "floors": "B1-L3"
+  },
+  "traffic": {
+    "annual_daily": 4.42,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第26",
+    "jun_total": 189.0,
+    "jun_total_rank": "市内商场第25名",
+    "jun_daily_avg": 6.3,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第25名",
+    "weekday_avg": 5.3,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第33名",
+    "holiday_avg": 9.2,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第19名"
+  },
+  "population": {
+    "residential": {
+      "500m": 4000.0,
+      "1_5km": 5.3,
+      "3km": 46.4
+    },
+    "office": {
+      "500m": 1.1,
+      "1_5km": 7.3,
+      "3km": 36.0
+    },
+    "permanent": {
+      "500m": 8500.0,
+      "1_5km": 6.5,
+      "3km": 49.7
+    }
+  },
+  "business": {
+    "competitors": 6.0,
+    "food": 159.0,
+    "shopping": 257.0,
+    "leisure": 26.0,
+    "education": 48.0,
+    "hotel": 3.0,
+    "services": 49.0,
+    "fitness": 23.0,
+    "auto": 31.0,
+    "total_stores": 483.0,
+    "old_store_3yr_pct": 58.0
+  },
+  "nearby_poi": {
+    "business": 4.0,
+    "community": 344.0,
+    "office": 43.0,
+    "school": 9.0,
+    "hospital": 120.0,
+    "transport": 3.0,
+    "scenic": 211.0
+  },
+  "demographics": {
+    "male_pct": 48.3,
+    "female_pct": null,
+    "education": {
+      "小学": 9.6,
+      "初中": 16.8,
+      "高中": 10.6,
+      "大专": 6.6,
+      "本科": 48.0,
+      "硕士": 6.8,
+      "博士": 1.6
+    },
+    "has_children_pct": 56.6,
+    "no_children_pct": 43.4
+  },
+  "scraped_at": "2026-07-31T18:12:28.485Z",
+  "nearby_restaurants": [
+    {
+      "brand": "玖十肆(蓝色港湾店)",
+      "address": "朝阳公园路6号蓝色港湾国际商区北区F1层",
+      "distance": "15m"
+    },
+    {
+      "brand": "矢量咖啡(SOLANA蓝色港湾)",
+      "address": "朝阳公园路6号SOLANA蓝色港湾1F层",
+      "distance": "15m"
+    },
+    {
+      "brand": "东椰海南椰子鸡火锅(蓝色港湾店)(暂停营业)",
+      "address": "北京城区朝阳公园路6号院北侧1号楼2层东侧扶梯口",
+      "distance": "18m"
+    },
+    {
+      "brand": "百汇馆(SOLANA蓝色港湾店)",
+      "address": "朝阳公园路6号SOLANA蓝色港湾M层",
+      "distance": "20m"
+    },
+    {
+      "brand": "哈根达斯(蓝色港湾店)",
+      "address": "朝阳公园路6号SOLANA蓝色港湾1F层",
+      "distance": "21m"
+    },
+    {
+      "brand": "小放牛炒菜馆(SOLANA蓝色港湾1号楼店)",
+      "address": "朝阳公园路6号院蓝色港湾2层",
+      "distance": "22m"
+    },
+    {
+      "brand": "下厨房(蓝色港湾店)",
+      "address": "麦子店街道朝阳公园路6号院蓝色港湾购物公园1号楼",
+      "distance": "24m"
+    },
+    {
+      "brand": "苦尽酒馆(SOLANA蓝色港湾)",
+      "address": "朝阳公园路6号SOLANA蓝色港湾2F层",
+      "distance": "26m"
+    },
+    {
+      "brand": "Nord Grill&Bar(蓝色港湾店)",
+      "address": "朝阳公园路蓝色港湾1号楼1层",
+      "distance": "26m"
+    },
+    {
+      "brand": "BRBR叙利亚餐厅(蓝色港湾店)",
+      "address": "北京城区朝阳公园路6号蓝色港湾1号楼2层SM2-22号",
+      "distance": "27m"
+    },
+    {
+      "brand": "玖十肆(蓝色港湾店)",
+      "address": "朝阳公园路6号蓝色港湾国际商区北区F1层",
+      "distance": "15m"
+    },
+    {
+      "brand": "矢量咖啡(SOLANA蓝色港湾)",
+      "address": "朝阳公园路6号SOLANA蓝色港湾1F层",
+      "distance": "15m"
+    },
+    {
+      "brand": "东椰海南椰子鸡火锅(蓝色港湾店)(暂停营业)",
+      "address": "北京城区朝阳公园路6号院北侧1号楼2层东侧扶梯口",
+      "distance": "18m"
+    },
+    {
+      "brand": "百汇馆(SOLANA蓝色港湾店)",
+      "address": "朝阳公园路6号SOLANA蓝色港湾M层",
+      "distance": "20m"
+    },
+    {
+      "brand": "哈根达斯(蓝色港湾店)",
+      "address": "朝阳公园路6号SOLANA蓝色港湾1F层",
+      "distance": "21m"
+    },
+    {
+      "brand": "小放牛炒菜馆(SOLANA蓝色港湾1号楼店)",
+      "address": "朝阳公园路6号院蓝色港湾2层",
+      "distance": "22m"
+    },
+    {
+      "brand": "下厨房(蓝色港湾店)",
+      "address": "麦子店街道朝阳公园路6号院蓝色港湾购物公园1号楼",
+      "distance": "24m"
+    },
+    {
+      "brand": "苦尽酒馆(SOLANA蓝色港湾)",
+      "address": "朝阳公园路6号SOLANA蓝色港湾2F层",
+      "distance": "26m"
+    },
+    {
+      "brand": "Nord Grill&Bar(蓝色港湾店)",
+      "address": "朝阳公园路蓝色港湾1号楼1层",
+      "distance": "26m"
+    },
+    {
+      "brand": "BRBR叙利亚餐厅(蓝色港湾店)",
+      "address": "北京城区朝阳公园路6号蓝色港湾1号楼2层SM2-22号",
+      "distance": "27m"
+    },
+    {
+      "brand": "玖十肆(蓝色港湾店)",
+      "address": "朝阳公园路6号蓝色港湾国际商区北区F1层",
+      "distance": "15m"
+    },
+    {
+      "brand": "矢量咖啡(SOLANA蓝色港湾)",
+      "address": "朝阳公园路6号SOLANA蓝色港湾1F层",
+      "distance": "15m"
+    },
+    {
+      "brand": "东椰海南椰子鸡火锅(蓝色港湾店)(暂停营业)",
+      "address": "北京城区朝阳公园路6号院北侧1号楼2层东侧扶梯口",
+      "distance": "18m"
+    },
+    {
+      "brand": "百汇馆(SOLANA蓝色港湾店)",
+      "address": "朝阳公园路6号SOLANA蓝色港湾M层",
+      "distance": "20m"
+    },
+    {
+      "brand": "哈根达斯(蓝色港湾店)",
+      "address": "朝阳公园路6号SOLANA蓝色港湾1F层",
+      "distance": "21m"
+    },
+    {
+      "brand": "小放牛炒菜馆(SOLANA蓝色港湾1号楼店)",
+      "address": "朝阳公园路6号院蓝色港湾2层",
+      "distance": "22m"
+    },
+    {
+      "brand": "下厨房(蓝色港湾店)",
+      "address": "麦子店街道朝阳公园路6号院蓝色港湾购物公园1号楼",
+      "distance": "24m"
+    },
+    {
+      "brand": "苦尽酒馆(SOLANA蓝色港湾)",
+      "address": "朝阳公园路6号SOLANA蓝色港湾2F层",
+      "distance": "26m"
+    },
+    {
+      "brand": "Nord Grill&Bar(蓝色港湾店)",
+      "address": "朝阳公园路蓝色港湾1号楼1层",
+      "distance": "26m"
+    },
+    {
+      "brand": "BRBR叙利亚餐厅(蓝色港湾店)",
+      "address": "北京城区朝阳公园路6号蓝色港湾1号楼2层SM2-22号",
+      "distance": "27m"
+    },
+    {
+      "brand": "玖十肆(蓝色港湾店)",
+      "address": "朝阳公园路6号蓝色港湾国际商区北区F1层",
+      "distance": "15m"
+    },
+    {
+      "brand": "矢量咖啡(SOLANA蓝色港湾)",
+      "address": "朝阳公园路6号SOLANA蓝色港湾1F层",
+      "distance": "15m"
+    },
+    {
+      "brand": "东椰海南椰子鸡火锅(蓝色港湾店)(暂停营业)",
+      "address": "北京城区朝阳公园路6号院北侧1号楼2层东侧扶梯口",
+      "distance": "18m"
+    },
+    {
+      "brand": "百汇馆(SOLANA蓝色港湾店)",
+      "address": "朝阳公园路6号SOLANA蓝色港湾M层",
+      "distance": "20m"
+    },
+    {
+      "brand": "哈根达斯(蓝色港湾店)",
+      "address": "朝阳公园路6号SOLANA蓝色港湾1F层",
+      "distance": "21m"
+    },
+    {
+      "brand": "小放牛炒菜馆(SOLANA蓝色港湾1号楼店)",
+      "address": "朝阳公园路6号院蓝色港湾2层",
+      "distance": "22m"
+    },
+    {
+      "brand": "下厨房(蓝色港湾店)",
+      "address": "麦子店街道朝阳公园路6号院蓝色港湾购物公园1号楼",
+      "distance": "24m"
+    },
+    {
+      "brand": "苦尽酒馆(SOLANA蓝色港湾)",
+      "address": "朝阳公园路6号SOLANA蓝色港湾2F层",
+      "distance": "26m"
+    },
+    {
+      "brand": "Nord Grill&Bar(蓝色港湾店)",
+      "address": "朝阳公园路蓝色港湾1号楼1层",
+      "distance": "26m"
+    },
+    {
+      "brand": "BRBR叙利亚餐厅(蓝色港湾店)",
+      "address": "北京城区朝阳公园路6号蓝色港湾1号楼2层SM2-22号",
+      "distance": "27m"
+    },
+    {
+      "brand": "玖十肆(蓝色港湾店)",
+      "address": "朝阳公园路6号蓝色港湾国际商区北区F1层",
+      "distance": "15m"
+    },
+    {
+      "brand": "矢量咖啡(SOLANA蓝色港湾)",
+      "address": "朝阳公园路6号SOLANA蓝色港湾1F层",
+      "distance": "15m"
+    },
+    {
+      "brand": "东椰海南椰子鸡火锅(蓝色港湾店)(暂停营业)",
+      "address": "北京城区朝阳公园路6号院北侧1号楼2层东侧扶梯口",
+      "distance": "18m"
+    },
+    {
+      "brand": "百汇馆(SOLANA蓝色港湾店)",
+      "address": "朝阳公园路6号SOLANA蓝色港湾M层",
+      "distance": "20m"
+    },
+    {
+      "brand": "哈根达斯(蓝色港湾店)",
+      "address": "朝阳公园路6号SOLANA蓝色港湾1F层",
+      "distance": "21m"
+    },
+    {
+      "brand": "小放牛炒菜馆(SOLANA蓝色港湾1号楼店)",
+      "address": "朝阳公园路6号院蓝色港湾2层",
+      "distance": "22m"
+    },
+    {
+      "brand": "下厨房(蓝色港湾店)",
+      "address": "麦子店街道朝阳公园路6号院蓝色港湾购物公园1号楼",
+      "distance": "24m"
+    },
+    {
+      "brand": "苦尽酒馆(SOLANA蓝色港湾)",
+      "address": "朝阳公园路6号SOLANA蓝色港湾2F层",
+      "distance": "26m"
+    },
+    {
+      "brand": "Nord Grill&Bar(蓝色港湾店)",
+      "address": "朝阳公园路蓝色港湾1号楼1层",
+      "distance": "26m"
+    },
+    {
+      "brand": "BRBR叙利亚餐厅(蓝色港湾店)",
+      "address": "北京城区朝阳公园路6号蓝色港湾1号楼2层SM2-22号",
+      "distance": "27m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "北京微博in",
+      "open_date": "2025",
+      "area": "4.2万㎡",
+      "jun_daily_avg": "2万人次",
+      "weekday_avg": "2万人次",
+      "holiday_avg": "2.1万人次"
+    },
+    {
+      "name": "北京官舍",
+      "open_date": "2012-02-18",
+      "area": "1.1万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "北京燕莎友谊商城",
+      "open_date": "1992-06-30",
+      "area": "2.2万㎡",
+      "jun_daily_avg": "2万人次",
+      "weekday_avg": "2万人次",
+      "holiday_avg": "2.1万人次"
+    },
+    {
+      "name": "北京都汇天地",
+      "open_date": "2010-09-27",
+      "area": "2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 120.0,
+      "within_1yr_pct": 15.8,
+      "1_3yr_pct": 20.8,
+      "over_3yr_pct": 63.3
+    },
+    {
+      "type": "购物",
+      "count": 233.0,
+      "within_1yr_pct": 21.0,
+      "1_3yr_pct": 20.2,
+      "over_3yr_pct": 58.8
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 20.0,
+      "within_1yr_pct": 35.0,
+      "1_3yr_pct": 20.0,
+      "over_3yr_pct": 45.0
+    },
+    {
+      "type": "教育培训",
+      "count": 36.0,
+      "within_1yr_pct": 22.2,
+      "1_3yr_pct": 8.3,
+      "over_3yr_pct": 69.4
+    },
+    {
+      "type": "生活服务",
+      "count": 38.0,
+      "within_1yr_pct": 15.8,
+      "1_3yr_pct": 28.9,
+      "over_3yr_pct": 55.3
+    },
+    {
+      "type": "运动健身",
+      "count": 12.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 16.7,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 24.0,
+      "within_1yr_pct": 29.2,
+      "1_3yr_pct": 37.5,
+      "over_3yr_pct": 33.3
+    }
+  ]
+}

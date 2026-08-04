@@ -1,0 +1,432 @@
+{
+  "name": "上海富都广场",
+  "city": "上海市",
+  "address": "上海市浦东新区东方路1373号",
+  "lat": 31.211834,
+  "lng": 121.528847,
+  "overview": {
+    "score": 87.2,
+    "score_rank": "市内前30%",
+    "population_score": 96.2,
+    "area_score": 75.8,
+    "consumption_score": 77.1,
+    "industry_score": 87.2,
+    "annual_sales": "富都广场是上海富都世界发展有限公司打造的一家社区生活广场，以便捷、时尚、休闲、健康为关键词，项目定位为服务周边社区及办公人群的小型综合生活广场，专注为消费者提供优质关怀和服务",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 2.1,
+    "open_date": "2016-01-01",
+    "operator": "上海富都世界发展有限公司",
+    "brand": "",
+    "type": "亲子型",
+    "floors": "L1-L6"
+  },
+  "traffic": {
+    "annual_daily": 7507.0,
+    "annual_daily_unit": "人次",
+    "annual_daily_rank": "市内第304",
+    "jun_total": 28.0,
+    "jun_total_rank": "市内商场第320名",
+    "jun_daily_avg": 9317.0,
+    "jun_daily_unit": "人次",
+    "jun_daily_rank": "市内商场第320名",
+    "weekday_avg": 8768.0,
+    "weekday_unit": "人次",
+    "weekday_rank": "市内商场第323名",
+    "holiday_avg": 1.1,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第310名"
+  },
+  "population": {
+    "residential": {
+      "500m": 3.2,
+      "1_5km": 22.5,
+      "3km": 76.4
+    },
+    "office": {
+      "500m": 2.4,
+      "1_5km": 19.2,
+      "3km": 61.5
+    },
+    "permanent": {
+      "500m": 3.4,
+      "1_5km": 23.4,
+      "3km": 81.2
+    }
+  },
+  "business": {
+    "competitors": 3.0,
+    "food": 191.0,
+    "shopping": 96.0,
+    "leisure": 6.0,
+    "education": 38.0,
+    "hotel": 59.0,
+    "services": 125.0,
+    "fitness": 18.0,
+    "auto": 4.0,
+    "total_stores": 69.0,
+    "old_store_3yr_pct": 59.0
+  },
+  "nearby_poi": {
+    "business": 5.0,
+    "community": 433.0,
+    "office": 85.0,
+    "school": 54.0,
+    "hospital": 101.0,
+    "transport": 9.0,
+    "scenic": 253.0
+  },
+  "demographics": {
+    "male_pct": 47.8,
+    "female_pct": null,
+    "education": {
+      "小学": 9.0,
+      "初中": 16.4,
+      "高中": 10.6,
+      "大专": 7.0,
+      "本科": 48.6,
+      "硕士": 6.6,
+      "博士": 1.8
+    },
+    "has_children_pct": 60.1,
+    "no_children_pct": 39.9
+  },
+  "scraped_at": "2026-07-31T16:04:28.112Z",
+  "nearby_restaurants": [
+    {
+      "brand": "瑞幸咖啡(富都广场店)",
+      "address": "东方路1367号富都广场一层L1-11B单元",
+      "distance": "4m"
+    },
+    {
+      "brand": "7分甜(富都广场店)",
+      "address": "东方路1367号富都广场F1层L1-13-14",
+      "distance": "14m"
+    },
+    {
+      "brand": "CesarBOWL牛油果轻食(上海富都广场店)",
+      "address": "东方路与蓝村路交叉口东北140米",
+      "distance": "22m"
+    },
+    {
+      "brand": "老娘舅(上海东方路富都广场店)",
+      "address": "中国(上海)自由贸易试验区东方路1367号一层L1-2单元",
+      "distance": "26m"
+    },
+    {
+      "brand": "可芮吖·朝鲜族料理(富都广场店)",
+      "address": "中国(上海)自由贸易试验区东方路1367号富都广场二层L2-7单元",
+      "distance": "27m"
+    },
+    {
+      "brand": "湘识长沙·市井下饭菜(富都广场店)",
+      "address": "蓝村路529号富都广场F2层",
+      "distance": "27m"
+    },
+    {
+      "brand": "糖小满(富都广场店)",
+      "address": "蓝村路529号富都广场F1层",
+      "distance": "29m"
+    },
+    {
+      "brand": "盛宴壹天聚(富都广场店)",
+      "address": "蓝村路529号富都广场F5层",
+      "distance": "29m"
+    },
+    {
+      "brand": "香叶·烧腊卤味小馆(富都广场店)",
+      "address": "东方路与蓝村路交叉口东北140米",
+      "distance": "29m"
+    },
+    {
+      "brand": "乐凯撒披萨( 富都广场店 )",
+      "address": "东方路1367号1层L1-8单元",
+      "distance": "30m"
+    },
+    {
+      "brand": "瑞幸咖啡(富都广场店)",
+      "address": "东方路1367号富都广场一层L1-11B单元",
+      "distance": "4m"
+    },
+    {
+      "brand": "7分甜(富都广场店)",
+      "address": "东方路1367号富都广场F1层L1-13-14",
+      "distance": "14m"
+    },
+    {
+      "brand": "CesarBOWL牛油果轻食(上海富都广场店)",
+      "address": "东方路与蓝村路交叉口东北140米",
+      "distance": "22m"
+    },
+    {
+      "brand": "老娘舅(上海东方路富都广场店)",
+      "address": "中国(上海)自由贸易试验区东方路1367号一层L1-2单元",
+      "distance": "26m"
+    },
+    {
+      "brand": "可芮吖·朝鲜族料理(富都广场店)",
+      "address": "中国(上海)自由贸易试验区东方路1367号富都广场二层L2-7单元",
+      "distance": "27m"
+    },
+    {
+      "brand": "湘识长沙·市井下饭菜(富都广场店)",
+      "address": "蓝村路529号富都广场F2层",
+      "distance": "27m"
+    },
+    {
+      "brand": "糖小满(富都广场店)",
+      "address": "蓝村路529号富都广场F1层",
+      "distance": "29m"
+    },
+    {
+      "brand": "盛宴壹天聚(富都广场店)",
+      "address": "蓝村路529号富都广场F5层",
+      "distance": "29m"
+    },
+    {
+      "brand": "香叶·烧腊卤味小馆(富都广场店)",
+      "address": "东方路与蓝村路交叉口东北140米",
+      "distance": "29m"
+    },
+    {
+      "brand": "乐凯撒披萨( 富都广场店 )",
+      "address": "东方路1367号1层L1-8单元",
+      "distance": "30m"
+    },
+    {
+      "brand": "瑞幸咖啡(富都广场店)",
+      "address": "东方路1367号富都广场一层L1-11B单元",
+      "distance": "4m"
+    },
+    {
+      "brand": "7分甜(富都广场店)",
+      "address": "东方路1367号富都广场F1层L1-13-14",
+      "distance": "14m"
+    },
+    {
+      "brand": "CesarBOWL牛油果轻食(上海富都广场店)",
+      "address": "东方路与蓝村路交叉口东北140米",
+      "distance": "22m"
+    },
+    {
+      "brand": "老娘舅(上海东方路富都广场店)",
+      "address": "中国(上海)自由贸易试验区东方路1367号一层L1-2单元",
+      "distance": "26m"
+    },
+    {
+      "brand": "可芮吖·朝鲜族料理(富都广场店)",
+      "address": "中国(上海)自由贸易试验区东方路1367号富都广场二层L2-7单元",
+      "distance": "27m"
+    },
+    {
+      "brand": "湘识长沙·市井下饭菜(富都广场店)",
+      "address": "蓝村路529号富都广场F2层",
+      "distance": "27m"
+    },
+    {
+      "brand": "糖小满(富都广场店)",
+      "address": "蓝村路529号富都广场F1层",
+      "distance": "29m"
+    },
+    {
+      "brand": "盛宴壹天聚(富都广场店)",
+      "address": "蓝村路529号富都广场F5层",
+      "distance": "29m"
+    },
+    {
+      "brand": "香叶·烧腊卤味小馆(富都广场店)",
+      "address": "东方路与蓝村路交叉口东北140米",
+      "distance": "29m"
+    },
+    {
+      "brand": "乐凯撒披萨( 富都广场店 )",
+      "address": "东方路1367号1层L1-8单元",
+      "distance": "30m"
+    },
+    {
+      "brand": "瑞幸咖啡(富都广场店)",
+      "address": "东方路1367号富都广场一层L1-11B单元",
+      "distance": "4m"
+    },
+    {
+      "brand": "7分甜(富都广场店)",
+      "address": "东方路1367号富都广场F1层L1-13-14",
+      "distance": "14m"
+    },
+    {
+      "brand": "CesarBOWL牛油果轻食(上海富都广场店)",
+      "address": "东方路与蓝村路交叉口东北140米",
+      "distance": "22m"
+    },
+    {
+      "brand": "老娘舅(上海东方路富都广场店)",
+      "address": "中国(上海)自由贸易试验区东方路1367号一层L1-2单元",
+      "distance": "26m"
+    },
+    {
+      "brand": "可芮吖·朝鲜族料理(富都广场店)",
+      "address": "中国(上海)自由贸易试验区东方路1367号富都广场二层L2-7单元",
+      "distance": "27m"
+    },
+    {
+      "brand": "湘识长沙·市井下饭菜(富都广场店)",
+      "address": "蓝村路529号富都广场F2层",
+      "distance": "27m"
+    },
+    {
+      "brand": "糖小满(富都广场店)",
+      "address": "蓝村路529号富都广场F1层",
+      "distance": "29m"
+    },
+    {
+      "brand": "盛宴壹天聚(富都广场店)",
+      "address": "蓝村路529号富都广场F5层",
+      "distance": "29m"
+    },
+    {
+      "brand": "香叶·烧腊卤味小馆(富都广场店)",
+      "address": "东方路与蓝村路交叉口东北140米",
+      "distance": "29m"
+    },
+    {
+      "brand": "乐凯撒披萨( 富都广场店 )",
+      "address": "东方路1367号1层L1-8单元",
+      "distance": "30m"
+    },
+    {
+      "brand": "瑞幸咖啡(富都广场店)",
+      "address": "东方路1367号富都广场一层L1-11B单元",
+      "distance": "4m"
+    },
+    {
+      "brand": "7分甜(富都广场店)",
+      "address": "东方路1367号富都广场F1层L1-13-14",
+      "distance": "14m"
+    },
+    {
+      "brand": "CesarBOWL牛油果轻食(上海富都广场店)",
+      "address": "东方路与蓝村路交叉口东北140米",
+      "distance": "22m"
+    },
+    {
+      "brand": "老娘舅(上海东方路富都广场店)",
+      "address": "中国(上海)自由贸易试验区东方路1367号一层L1-2单元",
+      "distance": "26m"
+    },
+    {
+      "brand": "可芮吖·朝鲜族料理(富都广场店)",
+      "address": "中国(上海)自由贸易试验区东方路1367号富都广场二层L2-7单元",
+      "distance": "27m"
+    },
+    {
+      "brand": "湘识长沙·市井下饭菜(富都广场店)",
+      "address": "蓝村路529号富都广场F2层",
+      "distance": "27m"
+    },
+    {
+      "brand": "糖小满(富都广场店)",
+      "address": "蓝村路529号富都广场F1层",
+      "distance": "29m"
+    },
+    {
+      "brand": "盛宴壹天聚(富都广场店)",
+      "address": "蓝村路529号富都广场F5层",
+      "distance": "29m"
+    },
+    {
+      "brand": "香叶·烧腊卤味小馆(富都广场店)",
+      "address": "东方路与蓝村路交叉口东北140米",
+      "distance": "29m"
+    },
+    {
+      "brand": "乐凯撒披萨( 富都广场店 )",
+      "address": "东方路1367号1层L1-8单元",
+      "distance": "30m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海陆悦坊",
+      "open_date": "2019-08-01",
+      "area": "1.5万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海巴黎春天(浦建店)",
+      "open_date": "2003-01-01",
+      "area": "5万㎡",
+      "jun_daily_avg": "2.2万人次",
+      "weekday_avg": "2.2万人次",
+      "holiday_avg": "2.1万人次"
+    },
+    {
+      "name": "上海新塘桥生活广场",
+      "open_date": "2006-06-01",
+      "area": "1.7万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海花木时光里",
+      "open_date": "2024-09-27",
+      "area": "4.7万㎡",
+      "jun_daily_avg": "2.6万人次",
+      "weekday_avg": "2.3万人次",
+      "holiday_avg": "3.6万人次"
+    },
+    {
+      "name": "上海锦绣坊",
+      "open_date": "2007-05-01",
+      "area": "1.9万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 24.0,
+      "within_1yr_pct": 20.8,
+      "1_3yr_pct": 12.5,
+      "over_3yr_pct": 66.7
+    },
+    {
+      "type": "购物",
+      "count": 9.0,
+      "within_1yr_pct": 11.1,
+      "1_3yr_pct": 22.2,
+      "over_3yr_pct": 66.7
+    },
+    {
+      "type": "教育培训",
+      "count": 10.0,
+      "within_1yr_pct": 10.0,
+      "1_3yr_pct": 30.0,
+      "over_3yr_pct": 60.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 3.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "生活服务",
+      "count": 17.0,
+      "within_1yr_pct": 29.4,
+      "1_3yr_pct": 11.8,
+      "over_3yr_pct": 58.8
+    },
+    {
+      "type": "运动健身",
+      "count": 6.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 50.0
+    }
+  ]
+}

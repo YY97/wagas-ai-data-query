@@ -1,0 +1,486 @@
+{
+  "name": "第一城",
+  "city": "成都市",
+  "address": "四川省成都市锦江区四春熙路街道第一城第一城B座",
+  "lat": 30.65548,
+  "lng": 104.079814,
+  "overview": {
+    "score": 87.8,
+    "score_rank": "市内前30%",
+    "population_score": 84.8,
+    "area_score": 100.0,
+    "consumption_score": 84.6,
+    "industry_score": 87.7,
+    "annual_sales": "成都第一商业广场又称为第一城(TOP CITY)，塔楼共分两座，1-6层裙楼为商场，A座7-14层，B座7-29层为写字楼，其余部分为商务酒店及餐饮娱乐配套设施 。",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 10.0,
+    "open_date": "2015-01-01",
+    "operator": "大悦城控股西南商业公司",
+    "brand": "",
+    "type": "休闲娱乐型",
+    "floors": "L1-L6"
+  },
+  "traffic": {
+    "annual_daily": 2.12,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第86",
+    "jun_total": 89.8,
+    "jun_total_rank": "市内商场第83名",
+    "jun_daily_avg": 3.0,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第83名",
+    "weekday_avg": 2.7,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第82名",
+    "holiday_avg": 3.7,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第78名"
+  },
+  "population": {
+    "residential": {
+      "500m": 1.9,
+      "1_5km": 26.7,
+      "3km": 82.4
+    },
+    "office": {
+      "500m": 5.6,
+      "1_5km": 32.3,
+      "3km": 70.0
+    },
+    "permanent": {
+      "500m": 4.8,
+      "1_5km": 33.4,
+      "3km": 87.0
+    }
+  },
+  "business": {
+    "competitors": 23.0,
+    "food": 1111.0,
+    "shopping": 2027.0,
+    "leisure": 285.0,
+    "education": 90.0,
+    "hotel": 626.0,
+    "services": 694.0,
+    "fitness": 37.0,
+    "auto": 48.0,
+    "total_stores": 310.0,
+    "old_store_3yr_pct": 39.0
+  },
+  "nearby_poi": {
+    "business": 34.0,
+    "community": 1305.0,
+    "office": 162.0,
+    "school": 47.0,
+    "hospital": 297.0,
+    "transport": 16.0,
+    "scenic": 429.0
+  },
+  "demographics": {
+    "male_pct": 47.3,
+    "female_pct": null,
+    "education": {
+      "小学": 9.2,
+      "初中": 17.4,
+      "高中": 14.3,
+      "大专": 10.5,
+      "本科": 43.2,
+      "硕士": 4.4,
+      "博士": 1.0
+    },
+    "has_children_pct": 57.7,
+    "no_children_pct": 42.3
+  },
+  "scraped_at": "2026-08-02T07:13:07.054Z",
+  "nearby_restaurants": [
+    {
+      "brand": "汤公汤婆·川菜小馆(IFS店)",
+      "address": "红星路三段10号第一城B座F3层",
+      "distance": "12m"
+    },
+    {
+      "brand": "1点点(第一城店)",
+      "address": "红星路三段10号第一城B座F1层",
+      "distance": "14m"
+    },
+    {
+      "brand": "蜀牛冒满堂·鲜冒火锅菜(春熙路店)",
+      "address": "小科甲巷1号1栋2层7、8号",
+      "distance": "16m"
+    },
+    {
+      "brand": "茉莉奶白(春熙路第一城店)",
+      "address": "小科甲巷1号1栋1层19号",
+      "distance": "18m"
+    },
+    {
+      "brand": "晨昼Coffee&Bar(暂停营业)",
+      "address": "红星路三段10号第一城B座F2层",
+      "distance": "18m"
+    },
+    {
+      "brand": "壹品粥餐饮店(第一城店)",
+      "address": "红星路三段10号附10号第一城B座",
+      "distance": "20m"
+    },
+    {
+      "brand": "沙县小吃(春熙路太古里步行街店)",
+      "address": "红星路三段10号第一城B座F1层",
+      "distance": "22m"
+    },
+    {
+      "brand": "渝少侠.熊猫小院火锅(IFS店)",
+      "address": "红星路三段10号第一城B座6楼",
+      "distance": "23m"
+    },
+    {
+      "brand": "李若桃·手作酸奶铺(成都锦江春熙路第一城店)",
+      "address": "小科甲巷1号1栋1层35号(第一城1层)",
+      "distance": "23m"
+    },
+    {
+      "brand": "漫舞时光猫咖·奶狗咖(第一城A座店)",
+      "address": "第一城A座11楼6号",
+      "distance": "25m"
+    },
+    {
+      "brand": "汤公汤婆·川菜小馆(IFS店)",
+      "address": "红星路三段10号第一城B座F3层",
+      "distance": "12m"
+    },
+    {
+      "brand": "1点点(第一城店)",
+      "address": "红星路三段10号第一城B座F1层",
+      "distance": "14m"
+    },
+    {
+      "brand": "蜀牛冒满堂·鲜冒火锅菜(春熙路店)",
+      "address": "小科甲巷1号1栋2层7、8号",
+      "distance": "16m"
+    },
+    {
+      "brand": "茉莉奶白(春熙路第一城店)",
+      "address": "小科甲巷1号1栋1层19号",
+      "distance": "18m"
+    },
+    {
+      "brand": "晨昼Coffee&Bar(暂停营业)",
+      "address": "红星路三段10号第一城B座F2层",
+      "distance": "18m"
+    },
+    {
+      "brand": "壹品粥餐饮店(第一城店)",
+      "address": "红星路三段10号附10号第一城B座",
+      "distance": "20m"
+    },
+    {
+      "brand": "沙县小吃(春熙路太古里步行街店)",
+      "address": "红星路三段10号第一城B座F1层",
+      "distance": "22m"
+    },
+    {
+      "brand": "渝少侠.熊猫小院火锅(IFS店)",
+      "address": "红星路三段10号第一城B座6楼",
+      "distance": "23m"
+    },
+    {
+      "brand": "李若桃·手作酸奶铺(成都锦江春熙路第一城店)",
+      "address": "小科甲巷1号1栋1层35号(第一城1层)",
+      "distance": "23m"
+    },
+    {
+      "brand": "漫舞时光猫咖·奶狗咖(第一城A座店)",
+      "address": "第一城A座11楼6号",
+      "distance": "25m"
+    },
+    {
+      "brand": "汤公汤婆·川菜小馆(IFS店)",
+      "address": "红星路三段10号第一城B座F3层",
+      "distance": "12m"
+    },
+    {
+      "brand": "1点点(第一城店)",
+      "address": "红星路三段10号第一城B座F1层",
+      "distance": "14m"
+    },
+    {
+      "brand": "蜀牛冒满堂·鲜冒火锅菜(春熙路店)",
+      "address": "小科甲巷1号1栋2层7、8号",
+      "distance": "16m"
+    },
+    {
+      "brand": "茉莉奶白(春熙路第一城店)",
+      "address": "小科甲巷1号1栋1层19号",
+      "distance": "18m"
+    },
+    {
+      "brand": "晨昼Coffee&Bar(暂停营业)",
+      "address": "红星路三段10号第一城B座F2层",
+      "distance": "18m"
+    },
+    {
+      "brand": "壹品粥餐饮店(第一城店)",
+      "address": "红星路三段10号附10号第一城B座",
+      "distance": "20m"
+    },
+    {
+      "brand": "沙县小吃(春熙路太古里步行街店)",
+      "address": "红星路三段10号第一城B座F1层",
+      "distance": "22m"
+    },
+    {
+      "brand": "渝少侠.熊猫小院火锅(IFS店)",
+      "address": "红星路三段10号第一城B座6楼",
+      "distance": "23m"
+    },
+    {
+      "brand": "李若桃·手作酸奶铺(成都锦江春熙路第一城店)",
+      "address": "小科甲巷1号1栋1层35号(第一城1层)",
+      "distance": "23m"
+    },
+    {
+      "brand": "漫舞时光猫咖·奶狗咖(第一城A座店)",
+      "address": "第一城A座11楼6号",
+      "distance": "25m"
+    },
+    {
+      "brand": "汤公汤婆·川菜小馆(IFS店)",
+      "address": "红星路三段10号第一城B座F3层",
+      "distance": "12m"
+    },
+    {
+      "brand": "1点点(第一城店)",
+      "address": "红星路三段10号第一城B座F1层",
+      "distance": "14m"
+    },
+    {
+      "brand": "蜀牛冒满堂·鲜冒火锅菜(春熙路店)",
+      "address": "小科甲巷1号1栋2层7、8号",
+      "distance": "16m"
+    },
+    {
+      "brand": "茉莉奶白(春熙路第一城店)",
+      "address": "小科甲巷1号1栋1层19号",
+      "distance": "18m"
+    },
+    {
+      "brand": "晨昼Coffee&Bar(暂停营业)",
+      "address": "红星路三段10号第一城B座F2层",
+      "distance": "18m"
+    },
+    {
+      "brand": "壹品粥餐饮店(第一城店)",
+      "address": "红星路三段10号附10号第一城B座",
+      "distance": "20m"
+    },
+    {
+      "brand": "沙县小吃(春熙路太古里步行街店)",
+      "address": "红星路三段10号第一城B座F1层",
+      "distance": "22m"
+    },
+    {
+      "brand": "渝少侠.熊猫小院火锅(IFS店)",
+      "address": "红星路三段10号第一城B座6楼",
+      "distance": "23m"
+    },
+    {
+      "brand": "李若桃·手作酸奶铺(成都锦江春熙路第一城店)",
+      "address": "小科甲巷1号1栋1层35号(第一城1层)",
+      "distance": "23m"
+    },
+    {
+      "brand": "漫舞时光猫咖·奶狗咖(第一城A座店)",
+      "address": "第一城A座11楼6号",
+      "distance": "25m"
+    },
+    {
+      "brand": "汤公汤婆·川菜小馆(IFS店)",
+      "address": "红星路三段10号第一城B座F3层",
+      "distance": "12m"
+    },
+    {
+      "brand": "1点点(第一城店)",
+      "address": "红星路三段10号第一城B座F1层",
+      "distance": "14m"
+    },
+    {
+      "brand": "蜀牛冒满堂·鲜冒火锅菜(春熙路店)",
+      "address": "小科甲巷1号1栋2层7、8号",
+      "distance": "16m"
+    },
+    {
+      "brand": "茉莉奶白(春熙路第一城店)",
+      "address": "小科甲巷1号1栋1层19号",
+      "distance": "18m"
+    },
+    {
+      "brand": "晨昼Coffee&Bar(暂停营业)",
+      "address": "红星路三段10号第一城B座F2层",
+      "distance": "18m"
+    },
+    {
+      "brand": "壹品粥餐饮店(第一城店)",
+      "address": "红星路三段10号附10号第一城B座",
+      "distance": "20m"
+    },
+    {
+      "brand": "沙县小吃(春熙路太古里步行街店)",
+      "address": "红星路三段10号第一城B座F1层",
+      "distance": "22m"
+    },
+    {
+      "brand": "渝少侠.熊猫小院火锅(IFS店)",
+      "address": "红星路三段10号第一城B座6楼",
+      "distance": "23m"
+    },
+    {
+      "brand": "李若桃·手作酸奶铺(成都锦江春熙路第一城店)",
+      "address": "小科甲巷1号1栋1层35号(第一城1层)",
+      "distance": "23m"
+    },
+    {
+      "brand": "漫舞时光猫咖·奶狗咖(第一城A座店)",
+      "address": "第一城A座11楼6号",
+      "distance": "25m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "成都伊藤洋华堂(春熙路店)",
+      "open_date": "1997-11-21",
+      "area": "4万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "成都百盛购物中心(四川时代店)",
+      "open_date": "2008-01-01",
+      "area": "2.8万㎡",
+      "jun_daily_avg": "3.3万人次",
+      "weekday_avg": "3.1万人次",
+      "holiday_avg": "4万人次"
+    },
+    {
+      "name": "成都茂业百货(春熙店)",
+      "open_date": "2013-11-04",
+      "area": "5万㎡",
+      "jun_daily_avg": "1.5万人次",
+      "weekday_avg": "1.4万人次",
+      "holiday_avg": "1.8万人次"
+    },
+    {
+      "name": "成都春熙路阳光百货",
+      "open_date": "2008-01-01",
+      "area": "4万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "成都IFS",
+      "open_date": "2014-01-14",
+      "area": "21万㎡",
+      "jun_daily_avg": "16.1万人次",
+      "weekday_avg": "14.9万人次",
+      "holiday_avg": "19.3万人次"
+    },
+    {
+      "name": "成都银石广场",
+      "open_date": "2013-01-01",
+      "area": "2.4万㎡",
+      "jun_daily_avg": "11万人次",
+      "weekday_avg": "10.1万人次",
+      "holiday_avg": "13.5万人次"
+    },
+    {
+      "name": "成都王府井百货(总府店)",
+      "open_date": "1999-12-30",
+      "area": "4.2万㎡",
+      "jun_daily_avg": "1.3万人次",
+      "weekday_avg": "1.2万人次",
+      "holiday_avg": "1.5万人次"
+    },
+    {
+      "name": "成都群光广场",
+      "open_date": "2010-10-23",
+      "area": "10万㎡",
+      "jun_daily_avg": "6.7万人次",
+      "weekday_avg": "5.9万人次",
+      "holiday_avg": "9.1万人次"
+    },
+    {
+      "name": "成都香槟广场",
+      "open_date": "2005-01-01",
+      "area": "-",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "成都总府Z31",
+      "open_date": "2019-05-01",
+      "area": "1万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 40.0,
+      "within_1yr_pct": 40.0,
+      "1_3yr_pct": 30.0,
+      "over_3yr_pct": 30.0
+    },
+    {
+      "type": "购物",
+      "count": 46.0,
+      "within_1yr_pct": 34.8,
+      "1_3yr_pct": 30.4,
+      "over_3yr_pct": 34.8
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 59.0,
+      "within_1yr_pct": 22.0,
+      "1_3yr_pct": 42.4,
+      "over_3yr_pct": 35.6
+    },
+    {
+      "type": "教育培训",
+      "count": 3.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 33.3
+    },
+    {
+      "type": "酒店住宿",
+      "count": 27.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 25.9,
+      "over_3yr_pct": 40.7
+    },
+    {
+      "type": "生活服务",
+      "count": 132.0,
+      "within_1yr_pct": 24.2,
+      "1_3yr_pct": 30.3,
+      "over_3yr_pct": 45.5
+    },
+    {
+      "type": "运动健身",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 2.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 50.0
+    }
+  ]
+}

@@ -1,0 +1,415 @@
+{
+  "name": "美里食光商场",
+  "city": "北京市",
+  "address": "北京市海淀区羊坊店街道莲花池东路31号",
+  "lat": 39.897799,
+  "lng": 116.32266,
+  "overview": {
+    "score": 84.7,
+    "score_rank": "市内前30%",
+    "population_score": 90.6,
+    "area_score": 79.3,
+    "consumption_score": 83.5,
+    "industry_score": 84.7,
+    "annual_sales": "2",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 2.0,
+    "open_date": "1998-04-28",
+    "operator": "",
+    "brand": "",
+    "type": "美食型",
+    "floors": "B1-L2"
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "-",
+    "annual_daily_rank": "",
+    "jun_total": 11.4,
+    "jun_total_rank": "市内商场第311名",
+    "jun_daily_avg": 3797.0,
+    "jun_daily_unit": "人次",
+    "jun_daily_rank": "市内商场第311名",
+    "weekday_avg": 3869.0,
+    "weekday_unit": "人次",
+    "weekday_rank": "市内商场第309名",
+    "holiday_avg": 3597.0,
+    "holiday_unit": "人次",
+    "holiday_rank": "市内商场第316名"
+  },
+  "population": {
+    "residential": {
+      "500m": 2.3,
+      "1_5km": 21.7,
+      "3km": 88.3
+    },
+    "office": {
+      "500m": 1.8,
+      "1_5km": 14.4,
+      "3km": 52.2
+    },
+    "permanent": {
+      "500m": 7.7,
+      "1_5km": 26.8,
+      "3km": 93.3
+    }
+  },
+  "business": {
+    "competitors": 6.0,
+    "food": 236.0,
+    "shopping": 92.0,
+    "leisure": 12.0,
+    "education": 17.0,
+    "hotel": 69.0,
+    "services": 79.0,
+    "fitness": 19.0,
+    "auto": 14.0,
+    "total_stores": 73.0,
+    "old_store_3yr_pct": 36.0
+  },
+  "nearby_poi": {
+    "business": 2.0,
+    "community": 452.0,
+    "office": 63.0,
+    "school": 29.0,
+    "hospital": 77.0,
+    "transport": 6.0,
+    "scenic": 234.0
+  },
+  "demographics": {
+    "male_pct": 50.5,
+    "female_pct": null,
+    "education": {
+      "小学": 7.9,
+      "初中": 13.0,
+      "高中": 11.1,
+      "大专": 6.0,
+      "本科": 47.7,
+      "硕士": 11.3,
+      "博士": 3.0
+    },
+    "has_children_pct": 58.0,
+    "no_children_pct": 42.0
+  },
+  "scraped_at": "2026-07-31T11:51:39.635Z",
+  "nearby_restaurants": [
+    {
+      "brand": "无相茶寮",
+      "address": "美里食光商场(北京西站地铁站1东北入口步行330米)",
+      "distance": "9m"
+    },
+    {
+      "brand": "超意兴·把子肉(美里食光商场店)",
+      "address": "美里食光商场",
+      "distance": "12m"
+    },
+    {
+      "brand": "稻香村(北京西站店)",
+      "address": "莲花池东路31号中裕世纪御骊酒店南门一层1-105室稻香村专卖店",
+      "distance": "13m"
+    },
+    {
+      "brand": "阿巧肉夹馍农家小炒凉皮(美里食光商场店)",
+      "address": "美里食光商场(北京西站地铁站1东北入口步行390米)",
+      "distance": "13m"
+    },
+    {
+      "brand": "木桶饭小碗菜",
+      "address": "羊坊店街道莲花池东路31号美里食光商场地下一层",
+      "distance": "16m"
+    },
+    {
+      "brand": "特色火烧",
+      "address": "莲花池东路辅路与羊坊店路交叉口东100米",
+      "distance": "17m"
+    },
+    {
+      "brand": "大馅水饺",
+      "address": "莲花池东路31号中裕世纪御骊酒店地下一层013室",
+      "distance": "17m"
+    },
+    {
+      "brand": "稻香村(美里食光商场店)",
+      "address": "美里食光一层稻香村超市",
+      "distance": "18m"
+    },
+    {
+      "brand": "稻香村(第5档口-松渔美食城店)",
+      "address": "北京市北京市莲花池东路31号北京中裕世纪御",
+      "distance": "19m"
+    },
+    {
+      "brand": "牛耕文明·肥牛捞饭(北京西站店)",
+      "address": "美里食光商场(北京西站地铁站1东北入口步行360米)",
+      "distance": "21m"
+    },
+    {
+      "brand": "无相茶寮",
+      "address": "美里食光商场(北京西站地铁站1东北入口步行330米)",
+      "distance": "9m"
+    },
+    {
+      "brand": "超意兴·把子肉(美里食光商场店)",
+      "address": "美里食光商场",
+      "distance": "12m"
+    },
+    {
+      "brand": "稻香村(北京西站店)",
+      "address": "莲花池东路31号中裕世纪御骊酒店南门一层1-105室稻香村专卖店",
+      "distance": "13m"
+    },
+    {
+      "brand": "阿巧肉夹馍农家小炒凉皮(美里食光商场店)",
+      "address": "美里食光商场(北京西站地铁站1东北入口步行390米)",
+      "distance": "13m"
+    },
+    {
+      "brand": "木桶饭小碗菜",
+      "address": "羊坊店街道莲花池东路31号美里食光商场地下一层",
+      "distance": "16m"
+    },
+    {
+      "brand": "特色火烧",
+      "address": "莲花池东路辅路与羊坊店路交叉口东100米",
+      "distance": "17m"
+    },
+    {
+      "brand": "大馅水饺",
+      "address": "莲花池东路31号中裕世纪御骊酒店地下一层013室",
+      "distance": "17m"
+    },
+    {
+      "brand": "稻香村(美里食光商场店)",
+      "address": "美里食光一层稻香村超市",
+      "distance": "18m"
+    },
+    {
+      "brand": "稻香村(第5档口-松渔美食城店)",
+      "address": "北京市北京市莲花池东路31号北京中裕世纪御",
+      "distance": "19m"
+    },
+    {
+      "brand": "牛耕文明·肥牛捞饭(北京西站店)",
+      "address": "美里食光商场(北京西站地铁站1东北入口步行360米)",
+      "distance": "21m"
+    },
+    {
+      "brand": "无相茶寮",
+      "address": "美里食光商场(北京西站地铁站1东北入口步行330米)",
+      "distance": "9m"
+    },
+    {
+      "brand": "超意兴·把子肉(美里食光商场店)",
+      "address": "美里食光商场",
+      "distance": "12m"
+    },
+    {
+      "brand": "稻香村(北京西站店)",
+      "address": "莲花池东路31号中裕世纪御骊酒店南门一层1-105室稻香村专卖店",
+      "distance": "13m"
+    },
+    {
+      "brand": "阿巧肉夹馍农家小炒凉皮(美里食光商场店)",
+      "address": "美里食光商场(北京西站地铁站1东北入口步行390米)",
+      "distance": "13m"
+    },
+    {
+      "brand": "木桶饭小碗菜",
+      "address": "羊坊店街道莲花池东路31号美里食光商场地下一层",
+      "distance": "16m"
+    },
+    {
+      "brand": "特色火烧",
+      "address": "莲花池东路辅路与羊坊店路交叉口东100米",
+      "distance": "17m"
+    },
+    {
+      "brand": "大馅水饺",
+      "address": "莲花池东路31号中裕世纪御骊酒店地下一层013室",
+      "distance": "17m"
+    },
+    {
+      "brand": "稻香村(美里食光商场店)",
+      "address": "美里食光一层稻香村超市",
+      "distance": "18m"
+    },
+    {
+      "brand": "稻香村(第5档口-松渔美食城店)",
+      "address": "北京市北京市莲花池东路31号北京中裕世纪御",
+      "distance": "19m"
+    },
+    {
+      "brand": "牛耕文明·肥牛捞饭(北京西站店)",
+      "address": "美里食光商场(北京西站地铁站1东北入口步行360米)",
+      "distance": "21m"
+    },
+    {
+      "brand": "无相茶寮",
+      "address": "美里食光商场(北京西站地铁站1东北入口步行330米)",
+      "distance": "9m"
+    },
+    {
+      "brand": "超意兴·把子肉(美里食光商场店)",
+      "address": "美里食光商场",
+      "distance": "12m"
+    },
+    {
+      "brand": "稻香村(北京西站店)",
+      "address": "莲花池东路31号中裕世纪御骊酒店南门一层1-105室稻香村专卖店",
+      "distance": "13m"
+    },
+    {
+      "brand": "阿巧肉夹馍农家小炒凉皮(美里食光商场店)",
+      "address": "美里食光商场(北京西站地铁站1东北入口步行390米)",
+      "distance": "13m"
+    },
+    {
+      "brand": "木桶饭小碗菜",
+      "address": "羊坊店街道莲花池东路31号美里食光商场地下一层",
+      "distance": "16m"
+    },
+    {
+      "brand": "特色火烧",
+      "address": "莲花池东路辅路与羊坊店路交叉口东100米",
+      "distance": "17m"
+    },
+    {
+      "brand": "大馅水饺",
+      "address": "莲花池东路31号中裕世纪御骊酒店地下一层013室",
+      "distance": "17m"
+    },
+    {
+      "brand": "稻香村(美里食光商场店)",
+      "address": "美里食光一层稻香村超市",
+      "distance": "18m"
+    },
+    {
+      "brand": "稻香村(第5档口-松渔美食城店)",
+      "address": "北京市北京市莲花池东路31号北京中裕世纪御",
+      "distance": "19m"
+    },
+    {
+      "brand": "牛耕文明·肥牛捞饭(北京西站店)",
+      "address": "美里食光商场(北京西站地铁站1东北入口步行360米)",
+      "distance": "21m"
+    },
+    {
+      "brand": "无相茶寮",
+      "address": "美里食光商场(北京西站地铁站1东北入口步行330米)",
+      "distance": "9m"
+    },
+    {
+      "brand": "超意兴·把子肉(美里食光商场店)",
+      "address": "美里食光商场",
+      "distance": "12m"
+    },
+    {
+      "brand": "稻香村(北京西站店)",
+      "address": "莲花池东路31号中裕世纪御骊酒店南门一层1-105室稻香村专卖店",
+      "distance": "13m"
+    },
+    {
+      "brand": "阿巧肉夹馍农家小炒凉皮(美里食光商场店)",
+      "address": "美里食光商场(北京西站地铁站1东北入口步行390米)",
+      "distance": "13m"
+    },
+    {
+      "brand": "木桶饭小碗菜",
+      "address": "羊坊店街道莲花池东路31号美里食光商场地下一层",
+      "distance": "16m"
+    },
+    {
+      "brand": "特色火烧",
+      "address": "莲花池东路辅路与羊坊店路交叉口东100米",
+      "distance": "17m"
+    },
+    {
+      "brand": "大馅水饺",
+      "address": "莲花池东路31号中裕世纪御骊酒店地下一层013室",
+      "distance": "17m"
+    },
+    {
+      "brand": "稻香村(美里食光商场店)",
+      "address": "美里食光一层稻香村超市",
+      "distance": "18m"
+    },
+    {
+      "brand": "稻香村(第5档口-松渔美食城店)",
+      "address": "北京市北京市莲花池东路31号北京中裕世纪御",
+      "distance": "19m"
+    },
+    {
+      "brand": "牛耕文明·肥牛捞饭(北京西站店)",
+      "address": "美里食光商场(北京西站地铁站1东北入口步行360米)",
+      "distance": "21m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "北京光耀东方广场",
+      "open_date": "2012-10-01",
+      "area": "10万㎡",
+      "jun_daily_avg": "2.8万人次",
+      "weekday_avg": "2.8万人次",
+      "holiday_avg": "2.7万人次"
+    },
+    {
+      "name": "鸿兴广场",
+      "open_date": "-",
+      "area": "-",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 43.0,
+      "within_1yr_pct": 39.5,
+      "1_3yr_pct": 34.9,
+      "over_3yr_pct": 25.6
+    },
+    {
+      "type": "购物",
+      "count": 13.0,
+      "within_1yr_pct": 7.7,
+      "1_3yr_pct": 30.8,
+      "over_3yr_pct": 61.5
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "教育培训",
+      "count": 1.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    },
+    {
+      "type": "生活服务",
+      "count": 10.0,
+      "within_1yr_pct": 30.0,
+      "1_3yr_pct": 20.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "运动健身",
+      "count": 3.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
+    }
+  ]
+}

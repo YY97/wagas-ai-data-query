@@ -1,0 +1,284 @@
+{
+  "name": "八达岭奥莱C区",
+  "city": "北京市",
+  "address": "北京市昌平区陈庄村",
+  "lat": 40.234839,
+  "lng": 116.170269,
+  "overview": {
+    "score": 89.0,
+    "score_rank": "市内前30%",
+    "population_score": 63.5,
+    "area_score": 66.1,
+    "consumption_score": 60.0,
+    "industry_score": 89.2,
+    "annual_sales": "八达岭奥莱是一个集购物、餐饮和娱乐于一体的大型商业综合体，采用欧式建筑与赛道式设计相结合，打造优美、舒适的购物环境。这里汇聚了众多国际一线品牌的工厂店、折扣店和精品店，涵盖了服装、鞋帽、箱包、皮具、配饰、家居用品等多个品类。",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 5.8,
+    "open_date": "2015-06-26",
+    "operator": "北京华联(SKP)百货有限公司",
+    "brand": "",
+    "type": "购物型",
+    "floors": "L1-L2"
+  },
+  "traffic": {
+    "annual_daily": 2.98,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第71",
+    "jun_total": 98.4,
+    "jun_total_rank": "市内商场第95名",
+    "jun_daily_avg": 3.3,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第95名",
+    "weekday_avg": 2.6,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第113名",
+    "holiday_avg": 5.2,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第68名"
+  },
+  "population": {
+    "residential": {
+      "500m": 1800.0,
+      "1_5km": 1.4,
+      "3km": 7.8
+    },
+    "office": {
+      "500m": 2100.0,
+      "1_5km": 5800.0,
+      "3km": 2.9
+    },
+    "permanent": {
+      "500m": 3600.0,
+      "1_5km": 1.5,
+      "3km": 6.5
+    }
+  },
+  "business": {
+    "competitors": 2.0,
+    "food": 21.0,
+    "shopping": 132.0,
+    "leisure": 1.0,
+    "education": null,
+    "hotel": 1.0,
+    "services": 5.0,
+    "fitness": null,
+    "auto": 7.0,
+    "total_stores": 146.0,
+    "old_store_3yr_pct": 71.0
+  },
+  "nearby_poi": {
+    "business": null,
+    "community": 26.0,
+    "office": null,
+    "school": 6.0,
+    "hospital": 21.0,
+    "transport": null,
+    "scenic": 18.0
+  },
+  "demographics": {
+    "male_pct": 46.7,
+    "female_pct": null,
+    "education": {
+      "小学": 11.0,
+      "初中": 20.9,
+      "高中": 12.8,
+      "大专": 8.7,
+      "本科": 42.7,
+      "硕士": 2.9,
+      "博士": 1.0
+    },
+    "has_children_pct": 62.1,
+    "no_children_pct": 37.9
+  },
+  "scraped_at": "2026-07-31T12:08:06.987Z",
+  "nearby_restaurants": [
+    {
+      "brand": "% Arabica阿拉比卡咖啡(八达岭奥莱店)",
+      "address": "八达岭奥莱(6号1层101内642-1号)",
+      "distance": "40m"
+    },
+    {
+      "brand": "老陕一碗(八达岭奥特莱斯C2区店)",
+      "address": "八达岭奥特莱斯C2区2层亚惠美食广场内",
+      "distance": "73m"
+    },
+    {
+      "brand": "肯德基(长城奥莱店)",
+      "address": "南口镇陈庄村八达岭奥特莱斯二层U301号",
+      "distance": "74m"
+    },
+    {
+      "brand": "哈根达斯(八达岭奥特莱斯店)",
+      "address": "南口镇陈庄村八达岭奥特莱斯C1-1F",
+      "distance": "91m"
+    },
+    {
+      "brand": "必胜客(长城奥莱店)",
+      "address": "八达岭奥莱C区",
+      "distance": "103m"
+    },
+    {
+      "brand": "亚惠·美食公园(八达岭奥莱店)",
+      "address": "南口镇陈庄",
+      "distance": "104m"
+    },
+    {
+      "brand": "Wagas沃歌斯(北京八达岭奥特莱斯店)",
+      "address": "南口路南口段1号院八达岭奥莱C1区1号楼一层116号",
+      "distance": "115m"
+    },
+    {
+      "brand": "DQ冰淇淋(昌平奥莱DQ)",
+      "address": "八达岭奥莱二层923",
+      "distance": "124m"
+    },
+    {
+      "brand": "和府捞面(北京八达岭奥莱店)",
+      "address": "八达岭奥莱3号楼2F-317号铺",
+      "distance": "135m"
+    },
+    {
+      "brand": "呷哺呷哺(八达岭精奥莱店)",
+      "address": "北京城区南口镇陈庄SKP八达岭奥莱二层905号",
+      "distance": "140m"
+    },
+    {
+      "brand": "% Arabica阿拉比卡咖啡(八达岭奥莱店)",
+      "address": "八达岭奥莱(6号1层101内642-1号)",
+      "distance": "40m"
+    },
+    {
+      "brand": "老陕一碗(八达岭奥特莱斯C2区店)",
+      "address": "八达岭奥特莱斯C2区2层亚惠美食广场内",
+      "distance": "73m"
+    },
+    {
+      "brand": "肯德基(长城奥莱店)",
+      "address": "南口镇陈庄村八达岭奥特莱斯二层U301号",
+      "distance": "74m"
+    },
+    {
+      "brand": "哈根达斯(八达岭奥特莱斯店)",
+      "address": "南口镇陈庄村八达岭奥特莱斯C1-1F",
+      "distance": "91m"
+    },
+    {
+      "brand": "必胜客(长城奥莱店)",
+      "address": "八达岭奥莱C区",
+      "distance": "103m"
+    },
+    {
+      "brand": "亚惠·美食公园(八达岭奥莱店)",
+      "address": "南口镇陈庄",
+      "distance": "104m"
+    },
+    {
+      "brand": "Wagas沃歌斯(北京八达岭奥特莱斯店)",
+      "address": "南口路南口段1号院八达岭奥莱C1区1号楼一层116号",
+      "distance": "115m"
+    },
+    {
+      "brand": "DQ冰淇淋(昌平奥莱DQ)",
+      "address": "八达岭奥莱二层923",
+      "distance": "124m"
+    },
+    {
+      "brand": "和府捞面(北京八达岭奥莱店)",
+      "address": "八达岭奥莱3号楼2F-317号铺",
+      "distance": "135m"
+    },
+    {
+      "brand": "呷哺呷哺(八达岭精奥莱店)",
+      "address": "北京城区南口镇陈庄SKP八达岭奥莱二层905号",
+      "distance": "140m"
+    },
+    {
+      "brand": "% Arabica阿拉比卡咖啡(八达岭奥莱店)",
+      "address": "八达岭奥莱(6号1层101内642-1号)",
+      "distance": "40m"
+    },
+    {
+      "brand": "老陕一碗(八达岭奥特莱斯C2区店)",
+      "address": "八达岭奥特莱斯C2区2层亚惠美食广场内",
+      "distance": "73m"
+    },
+    {
+      "brand": "肯德基(长城奥莱店)",
+      "address": "南口镇陈庄村八达岭奥特莱斯二层U301号",
+      "distance": "74m"
+    },
+    {
+      "brand": "哈根达斯(八达岭奥特莱斯店)",
+      "address": "南口镇陈庄村八达岭奥特莱斯C1-1F",
+      "distance": "91m"
+    },
+    {
+      "brand": "必胜客(长城奥莱店)",
+      "address": "八达岭奥莱C区",
+      "distance": "103m"
+    },
+    {
+      "brand": "亚惠·美食公园(八达岭奥莱店)",
+      "address": "南口镇陈庄",
+      "distance": "104m"
+    },
+    {
+      "brand": "Wagas沃歌斯(北京八达岭奥特莱斯店)",
+      "address": "南口路南口段1号院八达岭奥莱C1区1号楼一层116号",
+      "distance": "115m"
+    },
+    {
+      "brand": "DQ冰淇淋(昌平奥莱DQ)",
+      "address": "八达岭奥莱二层923",
+      "distance": "124m"
+    },
+    {
+      "brand": "和府捞面(北京八达岭奥莱店)",
+      "address": "八达岭奥莱3号楼2F-317号铺",
+      "distance": "135m"
+    },
+    {
+      "brand": "呷哺呷哺(八达岭精奥莱店)",
+      "address": "北京城区南口镇陈庄SKP八达岭奥莱二层905号",
+      "distance": "140m"
+    }
+  ],
+  "nearby_malls": [],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 16.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 18.8,
+      "over_3yr_pct": 81.3
+    },
+    {
+      "type": "购物",
+      "count": 125.0,
+      "within_1yr_pct": 12.0,
+      "1_3yr_pct": 16.0,
+      "over_3yr_pct": 72.0
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 3.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "生活服务",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    }
+  ]
+}

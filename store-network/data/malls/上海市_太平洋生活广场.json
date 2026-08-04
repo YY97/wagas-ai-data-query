@@ -1,0 +1,177 @@
+{
+  "name": "太平洋生活广场",
+  "city": "上海市",
+  "address": "北京市朝阳区南磨房乡皇城坝小吃弯里中心",
+  "lat": null,
+  "lng": null,
+  "overview": {
+    "score": 85.5,
+    "score_rank": "市内前30%",
+    "population_score": 81.0,
+    "area_score": 67.2,
+    "consumption_score": 75.8,
+    "industry_score": 85.6,
+    "annual_sales": "弯里中心欧式花园小镇位于北京朝阳区，设计灵感源自维吉奥皇宫，以欧式风格为基调，通过还原历史的内街与露台，形成上下落差和坡度，将室内与室外的空间巧妙结合。这一设计手法展现了时代的变迁和文化融合，为整个中心增添了浓厚的历史和文化氛围。弯里中心不仅是购物中心，更是一个集合了多种业态的休闲场所，从餐饮、娱乐到自然景观和艺术空间，每一个区域都展现了欧式风格的精髓。地理位置优越，紧邻地铁七号线北京欢乐谷站，与欢乐谷景区正门隔街相望，是集旅游、居住、商业休闲及购物于一体的综合性商业广场项目",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 6.5,
+    "open_date": "2007-04-01",
+    "operator": "北京华光天地文旅有限公司",
+    "brand": "",
+    "type": "美食型",
+    "floors": "B1-L3"
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "-",
+    "annual_daily_rank": "",
+    "jun_total": 3.6,
+    "jun_total_rank": "市内商场第355名",
+    "jun_daily_avg": 1213.0,
+    "jun_daily_unit": "人次",
+    "jun_daily_rank": "市内商场第355名",
+    "weekday_avg": 1054.0,
+    "weekday_unit": "人次",
+    "weekday_rank": "市内商场第358名",
+    "holiday_avg": 1651.0,
+    "holiday_unit": "人次",
+    "holiday_rank": "市内商场第350名"
+  },
+  "population": {
+    "residential": {
+      "500m": 1.4,
+      "1_5km": 11.8,
+      "3km": 42.8
+    },
+    "office": {
+      "500m": 5400.0,
+      "1_5km": 4.4,
+      "3km": 18.7
+    },
+    "permanent": {
+      "500m": 1.5,
+      "1_5km": 11.8,
+      "3km": 39.5
+    }
+  },
+  "business": {
+    "competitors": 2.0,
+    "food": 64.0,
+    "shopping": 24.0,
+    "leisure": 12.0,
+    "education": 4.0,
+    "hotel": 2.0,
+    "services": 49.0,
+    "fitness": 7.0,
+    "auto": 7.0,
+    "total_stores": 79.0,
+    "old_store_3yr_pct": 46.0
+  },
+  "nearby_poi": {
+    "business": 1.0,
+    "community": 167.0,
+    "office": 6.0,
+    "school": 30.0,
+    "hospital": 38.0,
+    "transport": 8.0,
+    "scenic": 51.0
+  },
+  "demographics": {
+    "male_pct": 51.3,
+    "female_pct": null,
+    "education": {
+      "小学": 12.1,
+      "初中": 20.2,
+      "高中": 12.5,
+      "大专": 8.2,
+      "本科": 43.3,
+      "硕士": 2.7,
+      "博士": 1.0
+    },
+    "has_children_pct": 57.5,
+    "no_children_pct": 42.5
+  },
+  "scraped_at": "2026-08-01T08:08:53.604Z",
+  "nearby_restaurants": [
+    {
+      "brand": "老袁羊板筋",
+      "address": "金蝉南里南2门旁",
+      "distance": "473m"
+    },
+    {
+      "brand": "晓汐熟食",
+      "address": "金蝉北里",
+      "distance": "493m"
+    },
+    {
+      "brand": "老北京杂粮煎饼(金蝉北里店)",
+      "address": "金蝉北里小区西门南220米",
+      "distance": "496m"
+    },
+    {
+      "brand": "山西烧饼",
+      "address": "厚金路与金蝉北路交叉口北60米",
+      "distance": "496m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "华瀚商业中心",
+      "open_date": "2006-01-01",
+      "area": "1.3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 45.0,
+      "within_1yr_pct": 11.1,
+      "1_3yr_pct": 37.8,
+      "over_3yr_pct": 51.1
+    },
+    {
+      "type": "购物",
+      "count": 12.0,
+      "within_1yr_pct": 16.7,
+      "1_3yr_pct": 66.7,
+      "over_3yr_pct": 16.7
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 6.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "教育培训",
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    },
+    {
+      "type": "生活服务",
+      "count": 10.0,
+      "within_1yr_pct": 10.0,
+      "1_3yr_pct": 30.0,
+      "over_3yr_pct": 60.0
+    },
+    {
+      "type": "运动健身",
+      "count": 3.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 1.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
+    }
+  ]
+}

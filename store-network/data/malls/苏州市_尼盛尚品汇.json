@@ -1,0 +1,486 @@
+{
+  "name": "尼盛尚品汇",
+  "city": "苏州市",
+  "address": "江苏省苏州市吴中区金鸡湖街道苏州尼盛万丽酒店",
+  "lat": 31.313957,
+  "lng": 120.66462,
+  "overview": {
+    "score": 75.4,
+    "score_rank": "市内前50%",
+    "population_score": 84.1,
+    "area_score": 92.8,
+    "consumption_score": 85.6,
+    "industry_score": 75.2,
+    "annual_sales": "",
+    "annual_sales_unit": "",
+    "area_size_sqm": null,
+    "open_date": "",
+    "operator": "",
+    "brand": "",
+    "type": "",
+    "floors": ""
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "",
+    "annual_daily_rank": "",
+    "jun_total": null,
+    "jun_total_rank": "",
+    "jun_daily_avg": null,
+    "jun_daily_unit": "",
+    "jun_daily_rank": "",
+    "weekday_avg": null,
+    "weekday_unit": "",
+    "weekday_rank": "",
+    "holiday_avg": null,
+    "holiday_unit": "",
+    "holiday_rank": ""
+  },
+  "population": {
+    "residential": {
+      "500m": 9300.0,
+      "1_5km": 8.4,
+      "3km": 27.9
+    },
+    "office": {
+      "500m": 1.5,
+      "1_5km": 9.2,
+      "3km": 20.0
+    },
+    "permanent": {
+      "500m": 1.4,
+      "1_5km": 10.6,
+      "3km": 30.3
+    }
+  },
+  "business": {
+    "competitors": 8.0,
+    "food": 300.0,
+    "shopping": 284.0,
+    "leisure": 46.0,
+    "education": 89.0,
+    "hotel": 48.0,
+    "services": 263.0,
+    "fitness": 35.0,
+    "auto": 15.0,
+    "total_stores": 1093.0,
+    "old_store_3yr_pct": 45.0
+  },
+  "nearby_poi": {
+    "business": 16.0,
+    "community": 233.0,
+    "office": 49.0,
+    "school": 15.0,
+    "hospital": 48.0,
+    "transport": 15.0,
+    "scenic": 244.0
+  },
+  "demographics": {
+    "male_pct": 48.3,
+    "female_pct": null,
+    "education": {
+      "小学": 9.3,
+      "初中": 18.2,
+      "高中": 14.7,
+      "大专": 9.4,
+      "本科": 43.2,
+      "硕士": 4.1,
+      "博士": 1.1
+    },
+    "has_children_pct": null,
+    "no_children_pct": null
+  },
+  "scraped_at": "2026-08-02T10:42:24.458Z",
+  "nearby_restaurants": [
+    {
+      "brand": "苏州尼盛万丽酒店·宴会厅",
+      "address": "苏州大道西229号(与星兰街交汇处)苏州尼盛万丽酒店",
+      "distance": "25m"
+    },
+    {
+      "brand": "万丽轩",
+      "address": "苏州市园区苏州大道西229号尼盛万丽大酒店二楼",
+      "distance": "32m"
+    },
+    {
+      "brand": "本味精致私房菜(尼盛尚品汇店)",
+      "address": "苏州大道西205号尼盛尚品汇4F层4F-1",
+      "distance": "47m"
+    },
+    {
+      "brand": "苏州尼盛万丽酒店燃餐厅",
+      "address": "苏州大道西229号尼盛万丽酒店1楼",
+      "distance": "62m"
+    },
+    {
+      "brand": "3点16COFFEE",
+      "address": "苏州大道西205号尼盛尚品汇1F层1F-1",
+      "distance": "75m"
+    },
+    {
+      "brand": "农耕记·湖南土菜(尼盛广场店)",
+      "address": "苏州大道西205号尼盛广场B1层",
+      "distance": "77m"
+    },
+    {
+      "brand": "松禾道·日式烧肉饭",
+      "address": "星都街126号尼盛尚品汇负一楼松禾道",
+      "distance": "79m"
+    },
+    {
+      "brand": "麦田归来(星海广场店)",
+      "address": "苏州大道西205号尼盛尚品汇B108",
+      "distance": "79m"
+    },
+    {
+      "brand": "香香春饼东北大盘菜",
+      "address": "工业园区苏州大道西205号尼盛尚品汇B1层A6档口",
+      "distance": "85m"
+    },
+    {
+      "brand": "窑鸡王(金鸡湖店)",
+      "address": "中国自由贸易试验区苏州片区苏州工业园区苏州大道西205号尼盛尚品汇负一层B8",
+      "distance": "86m"
+    },
+    {
+      "brand": "苏州尼盛万丽酒店·宴会厅",
+      "address": "苏州大道西229号(与星兰街交汇处)苏州尼盛万丽酒店",
+      "distance": "25m"
+    },
+    {
+      "brand": "万丽轩",
+      "address": "苏州市园区苏州大道西229号尼盛万丽大酒店二楼",
+      "distance": "32m"
+    },
+    {
+      "brand": "本味精致私房菜(尼盛尚品汇店)",
+      "address": "苏州大道西205号尼盛尚品汇4F层4F-1",
+      "distance": "47m"
+    },
+    {
+      "brand": "苏州尼盛万丽酒店燃餐厅",
+      "address": "苏州大道西229号尼盛万丽酒店1楼",
+      "distance": "62m"
+    },
+    {
+      "brand": "3点16COFFEE",
+      "address": "苏州大道西205号尼盛尚品汇1F层1F-1",
+      "distance": "75m"
+    },
+    {
+      "brand": "农耕记·湖南土菜(尼盛广场店)",
+      "address": "苏州大道西205号尼盛广场B1层",
+      "distance": "77m"
+    },
+    {
+      "brand": "松禾道·日式烧肉饭",
+      "address": "星都街126号尼盛尚品汇负一楼松禾道",
+      "distance": "79m"
+    },
+    {
+      "brand": "麦田归来(星海广场店)",
+      "address": "苏州大道西205号尼盛尚品汇B108",
+      "distance": "79m"
+    },
+    {
+      "brand": "香香春饼东北大盘菜",
+      "address": "工业园区苏州大道西205号尼盛尚品汇B1层A6档口",
+      "distance": "85m"
+    },
+    {
+      "brand": "窑鸡王(金鸡湖店)",
+      "address": "中国自由贸易试验区苏州片区苏州工业园区苏州大道西205号尼盛尚品汇负一层B8",
+      "distance": "86m"
+    },
+    {
+      "brand": "苏州尼盛万丽酒店·宴会厅",
+      "address": "苏州大道西229号(与星兰街交汇处)苏州尼盛万丽酒店",
+      "distance": "25m"
+    },
+    {
+      "brand": "万丽轩",
+      "address": "苏州市园区苏州大道西229号尼盛万丽大酒店二楼",
+      "distance": "32m"
+    },
+    {
+      "brand": "本味精致私房菜(尼盛尚品汇店)",
+      "address": "苏州大道西205号尼盛尚品汇4F层4F-1",
+      "distance": "47m"
+    },
+    {
+      "brand": "苏州尼盛万丽酒店燃餐厅",
+      "address": "苏州大道西229号尼盛万丽酒店1楼",
+      "distance": "62m"
+    },
+    {
+      "brand": "3点16COFFEE",
+      "address": "苏州大道西205号尼盛尚品汇1F层1F-1",
+      "distance": "75m"
+    },
+    {
+      "brand": "农耕记·湖南土菜(尼盛广场店)",
+      "address": "苏州大道西205号尼盛广场B1层",
+      "distance": "77m"
+    },
+    {
+      "brand": "松禾道·日式烧肉饭",
+      "address": "星都街126号尼盛尚品汇负一楼松禾道",
+      "distance": "79m"
+    },
+    {
+      "brand": "麦田归来(星海广场店)",
+      "address": "苏州大道西205号尼盛尚品汇B108",
+      "distance": "79m"
+    },
+    {
+      "brand": "香香春饼东北大盘菜",
+      "address": "工业园区苏州大道西205号尼盛尚品汇B1层A6档口",
+      "distance": "85m"
+    },
+    {
+      "brand": "窑鸡王(金鸡湖店)",
+      "address": "中国自由贸易试验区苏州片区苏州工业园区苏州大道西205号尼盛尚品汇负一层B8",
+      "distance": "86m"
+    },
+    {
+      "brand": "苏州尼盛万丽酒店·宴会厅",
+      "address": "苏州大道西229号(与星兰街交汇处)苏州尼盛万丽酒店",
+      "distance": "25m"
+    },
+    {
+      "brand": "万丽轩",
+      "address": "苏州市园区苏州大道西229号尼盛万丽大酒店二楼",
+      "distance": "32m"
+    },
+    {
+      "brand": "本味精致私房菜(尼盛尚品汇店)",
+      "address": "苏州大道西205号尼盛尚品汇4F层4F-1",
+      "distance": "47m"
+    },
+    {
+      "brand": "苏州尼盛万丽酒店燃餐厅",
+      "address": "苏州大道西229号尼盛万丽酒店1楼",
+      "distance": "62m"
+    },
+    {
+      "brand": "3点16COFFEE",
+      "address": "苏州大道西205号尼盛尚品汇1F层1F-1",
+      "distance": "75m"
+    },
+    {
+      "brand": "农耕记·湖南土菜(尼盛广场店)",
+      "address": "苏州大道西205号尼盛广场B1层",
+      "distance": "77m"
+    },
+    {
+      "brand": "松禾道·日式烧肉饭",
+      "address": "星都街126号尼盛尚品汇负一楼松禾道",
+      "distance": "79m"
+    },
+    {
+      "brand": "麦田归来(星海广场店)",
+      "address": "苏州大道西205号尼盛尚品汇B108",
+      "distance": "79m"
+    },
+    {
+      "brand": "香香春饼东北大盘菜",
+      "address": "工业园区苏州大道西205号尼盛尚品汇B1层A6档口",
+      "distance": "85m"
+    },
+    {
+      "brand": "窑鸡王(金鸡湖店)",
+      "address": "中国自由贸易试验区苏州片区苏州工业园区苏州大道西205号尼盛尚品汇负一层B8",
+      "distance": "86m"
+    },
+    {
+      "brand": "苏州尼盛万丽酒店·宴会厅",
+      "address": "苏州大道西229号(与星兰街交汇处)苏州尼盛万丽酒店",
+      "distance": "25m"
+    },
+    {
+      "brand": "万丽轩",
+      "address": "苏州市园区苏州大道西229号尼盛万丽大酒店二楼",
+      "distance": "32m"
+    },
+    {
+      "brand": "本味精致私房菜(尼盛尚品汇店)",
+      "address": "苏州大道西205号尼盛尚品汇4F层4F-1",
+      "distance": "47m"
+    },
+    {
+      "brand": "苏州尼盛万丽酒店燃餐厅",
+      "address": "苏州大道西229号尼盛万丽酒店1楼",
+      "distance": "62m"
+    },
+    {
+      "brand": "3点16COFFEE",
+      "address": "苏州大道西205号尼盛尚品汇1F层1F-1",
+      "distance": "75m"
+    },
+    {
+      "brand": "农耕记·湖南土菜(尼盛广场店)",
+      "address": "苏州大道西205号尼盛广场B1层",
+      "distance": "77m"
+    },
+    {
+      "brand": "松禾道·日式烧肉饭",
+      "address": "星都街126号尼盛尚品汇负一楼松禾道",
+      "distance": "79m"
+    },
+    {
+      "brand": "麦田归来(星海广场店)",
+      "address": "苏州大道西205号尼盛尚品汇B108",
+      "distance": "79m"
+    },
+    {
+      "brand": "香香春饼东北大盘菜",
+      "address": "工业园区苏州大道西205号尼盛尚品汇B1层A6档口",
+      "distance": "85m"
+    },
+    {
+      "brand": "窑鸡王(金鸡湖店)",
+      "address": "中国自由贸易试验区苏州片区苏州工业园区苏州大道西205号尼盛尚品汇负一层B8",
+      "distance": "86m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "苏州尼盛尚品汇",
+      "open_date": "2008-01-01",
+      "area": "1.5万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "苏州天虹商场(苏雅路店)",
+      "open_date": "2022-10-28",
+      "area": "13万㎡",
+      "jun_daily_avg": "3.6万人次",
+      "weekday_avg": "3.4万人次",
+      "holiday_avg": "4.1万人次"
+    },
+    {
+      "name": "苏州凤凰广场",
+      "open_date": "2013-01-01",
+      "area": "5万㎡",
+      "jun_daily_avg": "2.2万人次",
+      "weekday_avg": "2.1万人次",
+      "holiday_avg": "2.3万人次"
+    },
+    {
+      "name": "苏州苏悦广场",
+      "open_date": "2016-10-01",
+      "area": "9万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "苏州环球188购物中心",
+      "open_date": "2011-03-01",
+      "area": "2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "苏州星海生活广场",
+      "open_date": "2012-04-28",
+      "area": "5.2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "苏州星雅汇",
+      "open_date": "2018-05-08",
+      "area": "2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "苏州师惠邻里中心",
+      "open_date": "2004-05-30",
+      "area": "3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "苏州贵都邻里中心",
+      "open_date": "2012-09-01",
+      "area": "2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "苏州印象城",
+      "open_date": "2009-09-28",
+      "area": "13.7万㎡",
+      "jun_daily_avg": "3.5万人次",
+      "weekday_avg": "3.1万人次",
+      "holiday_avg": "4.7万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 300.0,
+      "within_1yr_pct": 24.7,
+      "1_3yr_pct": 35.3,
+      "over_3yr_pct": 40.0
+    },
+    {
+      "type": "购物",
+      "count": 284.0,
+      "within_1yr_pct": 15.1,
+      "1_3yr_pct": 34.5,
+      "over_3yr_pct": 50.4
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 59.0,
+      "within_1yr_pct": 35.6,
+      "1_3yr_pct": 18.6,
+      "over_3yr_pct": 45.8
+    },
+    {
+      "type": "教育培训",
+      "count": 89.0,
+      "within_1yr_pct": 23.6,
+      "1_3yr_pct": 28.1,
+      "over_3yr_pct": 48.3
+    },
+    {
+      "type": "酒店住宿",
+      "count": 48.0,
+      "within_1yr_pct": 29.2,
+      "1_3yr_pct": 20.8,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "生活服务",
+      "count": 263.0,
+      "within_1yr_pct": 28.1,
+      "1_3yr_pct": 29.7,
+      "over_3yr_pct": 42.2
+    },
+    {
+      "type": "运动健身",
+      "count": 35.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 37.1,
+      "over_3yr_pct": 42.9
+    },
+    {
+      "type": "车辆服务",
+      "count": 15.0,
+      "within_1yr_pct": 26.7,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 40.0
+    }
+  ]
+}

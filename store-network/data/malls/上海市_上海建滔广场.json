@@ -1,0 +1,438 @@
+{
+  "name": "上海建滔广场",
+  "city": "上海市",
+  "address": "上海市长宁区新泾镇福泉北路511号IBP尚品都汇",
+  "lat": 31.227154,
+  "lng": 121.355714,
+  "overview": {
+    "score": 82.3,
+    "score_rank": "市内前30%",
+    "population_score": 68.4,
+    "area_score": 71.9,
+    "consumption_score": 87.9,
+    "industry_score": 82.4,
+    "annual_sales": "",
+    "annual_sales_unit": "",
+    "area_size_sqm": null,
+    "open_date": "",
+    "operator": "",
+    "brand": "",
+    "type": "",
+    "floors": ""
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "",
+    "annual_daily_rank": "",
+    "jun_total": null,
+    "jun_total_rank": "",
+    "jun_daily_avg": null,
+    "jun_daily_unit": "",
+    "jun_daily_rank": "",
+    "weekday_avg": null,
+    "weekday_unit": "",
+    "weekday_rank": "",
+    "holiday_avg": null,
+    "holiday_unit": "",
+    "holiday_rank": ""
+  },
+  "population": {
+    "residential": {
+      "500m": 6900.0,
+      "1_5km": 9.9,
+      "3km": 54.4
+    },
+    "office": {
+      "500m": 2.9,
+      "1_5km": 12.8,
+      "3km": 35.9
+    },
+    "permanent": {
+      "500m": 9500.0,
+      "1_5km": 10.8,
+      "3km": 55.1
+    }
+  },
+  "business": {
+    "competitors": 6.0,
+    "food": 110.0,
+    "shopping": 54.0,
+    "leisure": 2.0,
+    "education": 6.0,
+    "hotel": 15.0,
+    "services": 23.0,
+    "fitness": 15.0,
+    "auto": 25.0,
+    "total_stores": 253.0,
+    "old_store_3yr_pct": 47.0
+  },
+  "nearby_poi": {
+    "business": 4.0,
+    "community": 264.0,
+    "office": 82.0,
+    "school": 17.0,
+    "hospital": 53.0,
+    "transport": 10.0,
+    "scenic": 76.0
+  },
+  "demographics": {
+    "male_pct": 49.9,
+    "female_pct": null,
+    "education": {
+      "小学": 9.4,
+      "初中": 17.0,
+      "高中": 11.0,
+      "大专": 7.6,
+      "本科": 48.5,
+      "硕士": 5.0,
+      "博士": 1.5
+    },
+    "has_children_pct": null,
+    "no_children_pct": null
+  },
+  "scraped_at": "2026-07-31T16:11:47.453Z",
+  "nearby_restaurants": [
+    {
+      "brand": "郑记三心(IBP尚品都汇店)",
+      "address": "通协路268号IBP尚品都汇F1层",
+      "distance": "20m"
+    },
+    {
+      "brand": "重庆小面(通协路店)",
+      "address": "通协路288弄1号旭辉·虹桥国际1号楼F1层",
+      "distance": "30m"
+    },
+    {
+      "brand": "Manner Coffee(旭辉·虹桥国际店)",
+      "address": "通协路288弄1号旭辉·虹桥国际1号楼F1层",
+      "distance": "30m"
+    },
+    {
+      "brand": "瑞幸咖啡(旭辉虹桥国际店)(暂停营业)",
+      "address": "通协路278号旭辉虹桥国际1号楼底商",
+      "distance": "31m"
+    },
+    {
+      "brand": "老伙计菜饭骨头煲(旭辉国际店)",
+      "address": "旭辉·虹桥国际1号楼",
+      "distance": "31m"
+    },
+    {
+      "brand": "稻湘情时尚智选餐厅(旭辉虹桥国际店)",
+      "address": "旭辉·虹桥国际1号楼",
+      "distance": "35m"
+    },
+    {
+      "brand": "兰州马记清真牛肉面",
+      "address": "通协路278号101-10号",
+      "distance": "38m"
+    },
+    {
+      "brand": "湘侬食府(旭辉·虹桥国际店)",
+      "address": "通协路288弄9号地下一层食堂",
+      "distance": "52m"
+    },
+    {
+      "brand": "福泉荟(IBP尚品都汇店)",
+      "address": "福泉北路511号13-16室",
+      "distance": "60m"
+    },
+    {
+      "brand": "星巴克(尚品中心1F店)",
+      "address": "通协路272号虹桥国际商务花园尚品中心1层",
+      "distance": "68m"
+    },
+    {
+      "brand": "郑记三心(IBP尚品都汇店)",
+      "address": "通协路268号IBP尚品都汇F1层",
+      "distance": "20m"
+    },
+    {
+      "brand": "重庆小面(通协路店)",
+      "address": "通协路288弄1号旭辉·虹桥国际1号楼F1层",
+      "distance": "30m"
+    },
+    {
+      "brand": "Manner Coffee(旭辉·虹桥国际店)",
+      "address": "通协路288弄1号旭辉·虹桥国际1号楼F1层",
+      "distance": "30m"
+    },
+    {
+      "brand": "瑞幸咖啡(旭辉虹桥国际店)(暂停营业)",
+      "address": "通协路278号旭辉虹桥国际1号楼底商",
+      "distance": "31m"
+    },
+    {
+      "brand": "老伙计菜饭骨头煲(旭辉国际店)",
+      "address": "旭辉·虹桥国际1号楼",
+      "distance": "31m"
+    },
+    {
+      "brand": "稻湘情时尚智选餐厅(旭辉虹桥国际店)",
+      "address": "旭辉·虹桥国际1号楼",
+      "distance": "35m"
+    },
+    {
+      "brand": "兰州马记清真牛肉面",
+      "address": "通协路278号101-10号",
+      "distance": "38m"
+    },
+    {
+      "brand": "湘侬食府(旭辉·虹桥国际店)",
+      "address": "通协路288弄9号地下一层食堂",
+      "distance": "52m"
+    },
+    {
+      "brand": "福泉荟(IBP尚品都汇店)",
+      "address": "福泉北路511号13-16室",
+      "distance": "60m"
+    },
+    {
+      "brand": "星巴克(尚品中心1F店)",
+      "address": "通协路272号虹桥国际商务花园尚品中心1层",
+      "distance": "68m"
+    },
+    {
+      "brand": "郑记三心(IBP尚品都汇店)",
+      "address": "通协路268号IBP尚品都汇F1层",
+      "distance": "20m"
+    },
+    {
+      "brand": "重庆小面(通协路店)",
+      "address": "通协路288弄1号旭辉·虹桥国际1号楼F1层",
+      "distance": "30m"
+    },
+    {
+      "brand": "Manner Coffee(旭辉·虹桥国际店)",
+      "address": "通协路288弄1号旭辉·虹桥国际1号楼F1层",
+      "distance": "30m"
+    },
+    {
+      "brand": "瑞幸咖啡(旭辉虹桥国际店)(暂停营业)",
+      "address": "通协路278号旭辉虹桥国际1号楼底商",
+      "distance": "31m"
+    },
+    {
+      "brand": "老伙计菜饭骨头煲(旭辉国际店)",
+      "address": "旭辉·虹桥国际1号楼",
+      "distance": "31m"
+    },
+    {
+      "brand": "稻湘情时尚智选餐厅(旭辉虹桥国际店)",
+      "address": "旭辉·虹桥国际1号楼",
+      "distance": "35m"
+    },
+    {
+      "brand": "兰州马记清真牛肉面",
+      "address": "通协路278号101-10号",
+      "distance": "38m"
+    },
+    {
+      "brand": "湘侬食府(旭辉·虹桥国际店)",
+      "address": "通协路288弄9号地下一层食堂",
+      "distance": "52m"
+    },
+    {
+      "brand": "福泉荟(IBP尚品都汇店)",
+      "address": "福泉北路511号13-16室",
+      "distance": "60m"
+    },
+    {
+      "brand": "星巴克(尚品中心1F店)",
+      "address": "通协路272号虹桥国际商务花园尚品中心1层",
+      "distance": "68m"
+    },
+    {
+      "brand": "郑记三心(IBP尚品都汇店)",
+      "address": "通协路268号IBP尚品都汇F1层",
+      "distance": "20m"
+    },
+    {
+      "brand": "重庆小面(通协路店)",
+      "address": "通协路288弄1号旭辉·虹桥国际1号楼F1层",
+      "distance": "30m"
+    },
+    {
+      "brand": "Manner Coffee(旭辉·虹桥国际店)",
+      "address": "通协路288弄1号旭辉·虹桥国际1号楼F1层",
+      "distance": "30m"
+    },
+    {
+      "brand": "瑞幸咖啡(旭辉虹桥国际店)(暂停营业)",
+      "address": "通协路278号旭辉虹桥国际1号楼底商",
+      "distance": "31m"
+    },
+    {
+      "brand": "老伙计菜饭骨头煲(旭辉国际店)",
+      "address": "旭辉·虹桥国际1号楼",
+      "distance": "31m"
+    },
+    {
+      "brand": "稻湘情时尚智选餐厅(旭辉虹桥国际店)",
+      "address": "旭辉·虹桥国际1号楼",
+      "distance": "35m"
+    },
+    {
+      "brand": "兰州马记清真牛肉面",
+      "address": "通协路278号101-10号",
+      "distance": "38m"
+    },
+    {
+      "brand": "湘侬食府(旭辉·虹桥国际店)",
+      "address": "通协路288弄9号地下一层食堂",
+      "distance": "52m"
+    },
+    {
+      "brand": "福泉荟(IBP尚品都汇店)",
+      "address": "福泉北路511号13-16室",
+      "distance": "60m"
+    },
+    {
+      "brand": "星巴克(尚品中心1F店)",
+      "address": "通协路272号虹桥国际商务花园尚品中心1层",
+      "distance": "68m"
+    },
+    {
+      "brand": "郑记三心(IBP尚品都汇店)",
+      "address": "通协路268号IBP尚品都汇F1层",
+      "distance": "20m"
+    },
+    {
+      "brand": "重庆小面(通协路店)",
+      "address": "通协路288弄1号旭辉·虹桥国际1号楼F1层",
+      "distance": "30m"
+    },
+    {
+      "brand": "Manner Coffee(旭辉·虹桥国际店)",
+      "address": "通协路288弄1号旭辉·虹桥国际1号楼F1层",
+      "distance": "30m"
+    },
+    {
+      "brand": "瑞幸咖啡(旭辉虹桥国际店)(暂停营业)",
+      "address": "通协路278号旭辉虹桥国际1号楼底商",
+      "distance": "31m"
+    },
+    {
+      "brand": "老伙计菜饭骨头煲(旭辉国际店)",
+      "address": "旭辉·虹桥国际1号楼",
+      "distance": "31m"
+    },
+    {
+      "brand": "稻湘情时尚智选餐厅(旭辉虹桥国际店)",
+      "address": "旭辉·虹桥国际1号楼",
+      "distance": "35m"
+    },
+    {
+      "brand": "兰州马记清真牛肉面",
+      "address": "通协路278号101-10号",
+      "distance": "38m"
+    },
+    {
+      "brand": "湘侬食府(旭辉·虹桥国际店)",
+      "address": "通协路288弄9号地下一层食堂",
+      "distance": "52m"
+    },
+    {
+      "brand": "福泉荟(IBP尚品都汇店)",
+      "address": "福泉北路511号13-16室",
+      "distance": "60m"
+    },
+    {
+      "brand": "星巴克(尚品中心1F店)",
+      "address": "通协路272号虹桥国际商务花园尚品中心1层",
+      "distance": "68m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海建滔广场",
+      "open_date": "2015-11-01",
+      "area": "4.5万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海荟聚购物中心",
+      "open_date": "2024-09-29",
+      "area": "21万㎡",
+      "jun_daily_avg": "7.5万人次",
+      "weekday_avg": "6.8万人次",
+      "holiday_avg": "9.5万人次"
+    },
+    {
+      "name": "上海虹桥中心Art Park大融城",
+      "open_date": "2021-12-31",
+      "area": "6万㎡",
+      "jun_daily_avg": "2.9万人次",
+      "weekday_avg": "3万人次",
+      "holiday_avg": "2.9万人次"
+    },
+    {
+      "name": "上海金沙和美商业广场",
+      "open_date": "2013-05-26",
+      "area": "4.8万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 110.0,
+      "within_1yr_pct": 25.5,
+      "1_3yr_pct": 24.5,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "购物",
+      "count": 54.0,
+      "within_1yr_pct": 22.2,
+      "1_3yr_pct": 29.6,
+      "over_3yr_pct": 48.1
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 5.0,
+      "within_1yr_pct": 40.0,
+      "1_3yr_pct": 40.0,
+      "over_3yr_pct": 20.0
+    },
+    {
+      "type": "教育培训",
+      "count": 6.0,
+      "within_1yr_pct": 16.7,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 15.0,
+      "within_1yr_pct": 13.3,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 53.3
+    },
+    {
+      "type": "生活服务",
+      "count": 23.0,
+      "within_1yr_pct": 21.7,
+      "1_3yr_pct": 34.8,
+      "over_3yr_pct": 43.5
+    },
+    {
+      "type": "运动健身",
+      "count": 15.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 26.7,
+      "over_3yr_pct": 53.3
+    },
+    {
+      "type": "车辆服务",
+      "count": 25.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 44.0,
+      "over_3yr_pct": 36.0
+    }
+  ]
+}

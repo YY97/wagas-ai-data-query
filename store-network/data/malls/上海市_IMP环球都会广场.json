@@ -1,0 +1,454 @@
+{
+  "name": "IMP环球都会广场",
+  "city": "上海市",
+  "address": "上海市浦东新区上钢新村街道竹枝原融合日料(IMP环球都会广场店)悠方天地",
+  "lat": 31.170183,
+  "lng": 121.472082,
+  "overview": {
+    "score": 74.0,
+    "score_rank": "市内前50%",
+    "population_score": 68.6,
+    "area_score": 65.8,
+    "consumption_score": 60.0,
+    "industry_score": 74.1,
+    "annual_sales": "",
+    "annual_sales_unit": "",
+    "area_size_sqm": null,
+    "open_date": "",
+    "operator": "",
+    "brand": "",
+    "type": "",
+    "floors": ""
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "",
+    "annual_daily_rank": "",
+    "jun_total": null,
+    "jun_total_rank": "",
+    "jun_daily_avg": null,
+    "jun_daily_unit": "",
+    "jun_daily_rank": "",
+    "weekday_avg": null,
+    "weekday_unit": "",
+    "weekday_rank": "",
+    "holiday_avg": null,
+    "holiday_unit": "",
+    "holiday_rank": ""
+  },
+  "population": {
+    "residential": {
+      "500m": 7200.0,
+      "1_5km": 7.8,
+      "3km": 55.1
+    },
+    "office": {
+      "500m": 1.4,
+      "1_5km": 7.8,
+      "3km": 43.9
+    },
+    "permanent": {
+      "500m": 6400.0,
+      "1_5km": 8.5,
+      "3km": 60.6
+    }
+  },
+  "business": {
+    "competitors": 5.0,
+    "food": 56.0,
+    "shopping": 21.0,
+    "leisure": 6.0,
+    "education": 3.0,
+    "hotel": 3.0,
+    "services": 22.0,
+    "fitness": 11.0,
+    "auto": 10.0,
+    "total_stores": 133.0,
+    "old_store_3yr_pct": 37.0
+  },
+  "nearby_poi": {
+    "business": 6.0,
+    "community": 331.0,
+    "office": 30.0,
+    "school": 19.0,
+    "hospital": 55.0,
+    "transport": 4.0,
+    "scenic": 218.0
+  },
+  "demographics": {
+    "male_pct": 46.7,
+    "female_pct": null,
+    "education": {
+      "小学": 9.2,
+      "初中": 17.2,
+      "高中": 10.9,
+      "大专": 7.5,
+      "本科": 48.0,
+      "硕士": 5.6,
+      "博士": 1.6
+    },
+    "has_children_pct": null,
+    "no_children_pct": null
+  },
+  "scraped_at": "2026-07-31T12:41:24.782Z",
+  "nearby_restaurants": [
+    {
+      "brand": "竹枝原·融合料理(环球都会店)",
+      "address": "耀元路58号1号楼109单元",
+      "distance": "13m"
+    },
+    {
+      "brand": "三立方(浦东环球都会广场店)",
+      "address": "耀元路58号2号楼B1-06",
+      "distance": "23m"
+    },
+    {
+      "brand": "青松咖·让灵感更清醒(上海环球都会广场店))",
+      "address": "环球都会广场1号楼2层(后滩地铁站1号口步行420米)",
+      "distance": "26m"
+    },
+    {
+      "brand": "森众自选餐厅",
+      "address": "浦东悠方天地(后滩地铁站1号口步行440米)",
+      "distance": "29m"
+    },
+    {
+      "brand": "渝记重庆小面",
+      "address": "耀元路58号IMP环球都会广场4号楼",
+      "distance": "36m"
+    },
+    {
+      "brand": "Manner Coffee(IMP环球都会广场店)",
+      "address": "耀江路耀元路口IMP环球都会广场",
+      "distance": "39m"
+    },
+    {
+      "brand": "霸碗盖码饭(上海环球都会广场店)",
+      "address": "耀元路58号5号B129号",
+      "distance": "40m"
+    },
+    {
+      "brand": "瑞幸咖啡(环球都会广场店)",
+      "address": "耀元路58号环球都会广场1号楼一层107室",
+      "distance": "40m"
+    },
+    {
+      "brand": "秦四火·陕西小吃(悠方天地店)",
+      "address": "友诚路与耀龙路交叉口西100米",
+      "distance": "43m"
+    },
+    {
+      "brand": "库迪咖啡(浦东环球都会广场店)",
+      "address": "耀元路58号环球都会广场3号楼1层大堂",
+      "distance": "48m"
+    },
+    {
+      "brand": "竹枝原·融合料理(环球都会店)",
+      "address": "耀元路58号1号楼109单元",
+      "distance": "13m"
+    },
+    {
+      "brand": "三立方(浦东环球都会广场店)",
+      "address": "耀元路58号2号楼B1-06",
+      "distance": "23m"
+    },
+    {
+      "brand": "青松咖·让灵感更清醒(上海环球都会广场店))",
+      "address": "环球都会广场1号楼2层(后滩地铁站1号口步行420米)",
+      "distance": "26m"
+    },
+    {
+      "brand": "森众自选餐厅",
+      "address": "浦东悠方天地(后滩地铁站1号口步行440米)",
+      "distance": "29m"
+    },
+    {
+      "brand": "渝记重庆小面",
+      "address": "耀元路58号IMP环球都会广场4号楼",
+      "distance": "36m"
+    },
+    {
+      "brand": "Manner Coffee(IMP环球都会广场店)",
+      "address": "耀江路耀元路口IMP环球都会广场",
+      "distance": "39m"
+    },
+    {
+      "brand": "霸碗盖码饭(上海环球都会广场店)",
+      "address": "耀元路58号5号B129号",
+      "distance": "40m"
+    },
+    {
+      "brand": "瑞幸咖啡(环球都会广场店)",
+      "address": "耀元路58号环球都会广场1号楼一层107室",
+      "distance": "40m"
+    },
+    {
+      "brand": "秦四火·陕西小吃(悠方天地店)",
+      "address": "友诚路与耀龙路交叉口西100米",
+      "distance": "43m"
+    },
+    {
+      "brand": "库迪咖啡(浦东环球都会广场店)",
+      "address": "耀元路58号环球都会广场3号楼1层大堂",
+      "distance": "48m"
+    },
+    {
+      "brand": "竹枝原·融合料理(环球都会店)",
+      "address": "耀元路58号1号楼109单元",
+      "distance": "13m"
+    },
+    {
+      "brand": "三立方(浦东环球都会广场店)",
+      "address": "耀元路58号2号楼B1-06",
+      "distance": "23m"
+    },
+    {
+      "brand": "青松咖·让灵感更清醒(上海环球都会广场店))",
+      "address": "环球都会广场1号楼2层(后滩地铁站1号口步行420米)",
+      "distance": "26m"
+    },
+    {
+      "brand": "森众自选餐厅",
+      "address": "浦东悠方天地(后滩地铁站1号口步行440米)",
+      "distance": "29m"
+    },
+    {
+      "brand": "渝记重庆小面",
+      "address": "耀元路58号IMP环球都会广场4号楼",
+      "distance": "36m"
+    },
+    {
+      "brand": "Manner Coffee(IMP环球都会广场店)",
+      "address": "耀江路耀元路口IMP环球都会广场",
+      "distance": "39m"
+    },
+    {
+      "brand": "霸碗盖码饭(上海环球都会广场店)",
+      "address": "耀元路58号5号B129号",
+      "distance": "40m"
+    },
+    {
+      "brand": "瑞幸咖啡(环球都会广场店)",
+      "address": "耀元路58号环球都会广场1号楼一层107室",
+      "distance": "40m"
+    },
+    {
+      "brand": "秦四火·陕西小吃(悠方天地店)",
+      "address": "友诚路与耀龙路交叉口西100米",
+      "distance": "43m"
+    },
+    {
+      "brand": "库迪咖啡(浦东环球都会广场店)",
+      "address": "耀元路58号环球都会广场3号楼1层大堂",
+      "distance": "48m"
+    },
+    {
+      "brand": "竹枝原·融合料理(环球都会店)",
+      "address": "耀元路58号1号楼109单元",
+      "distance": "13m"
+    },
+    {
+      "brand": "三立方(浦东环球都会广场店)",
+      "address": "耀元路58号2号楼B1-06",
+      "distance": "23m"
+    },
+    {
+      "brand": "青松咖·让灵感更清醒(上海环球都会广场店))",
+      "address": "环球都会广场1号楼2层(后滩地铁站1号口步行420米)",
+      "distance": "26m"
+    },
+    {
+      "brand": "森众自选餐厅",
+      "address": "浦东悠方天地(后滩地铁站1号口步行440米)",
+      "distance": "29m"
+    },
+    {
+      "brand": "渝记重庆小面",
+      "address": "耀元路58号IMP环球都会广场4号楼",
+      "distance": "36m"
+    },
+    {
+      "brand": "Manner Coffee(IMP环球都会广场店)",
+      "address": "耀江路耀元路口IMP环球都会广场",
+      "distance": "39m"
+    },
+    {
+      "brand": "霸碗盖码饭(上海环球都会广场店)",
+      "address": "耀元路58号5号B129号",
+      "distance": "40m"
+    },
+    {
+      "brand": "瑞幸咖啡(环球都会广场店)",
+      "address": "耀元路58号环球都会广场1号楼一层107室",
+      "distance": "40m"
+    },
+    {
+      "brand": "秦四火·陕西小吃(悠方天地店)",
+      "address": "友诚路与耀龙路交叉口西100米",
+      "distance": "43m"
+    },
+    {
+      "brand": "库迪咖啡(浦东环球都会广场店)",
+      "address": "耀元路58号环球都会广场3号楼1层大堂",
+      "distance": "48m"
+    },
+    {
+      "brand": "竹枝原·融合料理(环球都会店)",
+      "address": "耀元路58号1号楼109单元",
+      "distance": "13m"
+    },
+    {
+      "brand": "三立方(浦东环球都会广场店)",
+      "address": "耀元路58号2号楼B1-06",
+      "distance": "23m"
+    },
+    {
+      "brand": "青松咖·让灵感更清醒(上海环球都会广场店))",
+      "address": "环球都会广场1号楼2层(后滩地铁站1号口步行420米)",
+      "distance": "26m"
+    },
+    {
+      "brand": "森众自选餐厅",
+      "address": "浦东悠方天地(后滩地铁站1号口步行440米)",
+      "distance": "29m"
+    },
+    {
+      "brand": "渝记重庆小面",
+      "address": "耀元路58号IMP环球都会广场4号楼",
+      "distance": "36m"
+    },
+    {
+      "brand": "Manner Coffee(IMP环球都会广场店)",
+      "address": "耀江路耀元路口IMP环球都会广场",
+      "distance": "39m"
+    },
+    {
+      "brand": "霸碗盖码饭(上海环球都会广场店)",
+      "address": "耀元路58号5号B129号",
+      "distance": "40m"
+    },
+    {
+      "brand": "瑞幸咖啡(环球都会广场店)",
+      "address": "耀元路58号环球都会广场1号楼一层107室",
+      "distance": "40m"
+    },
+    {
+      "brand": "秦四火·陕西小吃(悠方天地店)",
+      "address": "友诚路与耀龙路交叉口西100米",
+      "distance": "43m"
+    },
+    {
+      "brand": "库迪咖啡(浦东环球都会广场店)",
+      "address": "耀元路58号环球都会广场3号楼1层大堂",
+      "distance": "48m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海Gate M西岸梦中心",
+      "open_date": "2024-09-26",
+      "area": "10万㎡",
+      "jun_daily_avg": "5.7万人次",
+      "weekday_avg": "4.9万人次",
+      "holiday_avg": "7.9万人次"
+    },
+    {
+      "name": "上海AI PLAZA西岸凤巢",
+      "open_date": "2021-12-23",
+      "area": "7.5万㎡",
+      "jun_daily_avg": "3.2万人次",
+      "weekday_avg": "3.5万人次",
+      "holiday_avg": "2.6万人次"
+    },
+    {
+      "name": "上海徐汇绿地滨江CLUB",
+      "open_date": "2019-05-01",
+      "area": "3.2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海陆悦汇",
+      "open_date": "2022-10-10",
+      "area": "3.4万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海传媒港花园里",
+      "open_date": "2024-07-01",
+      "area": "6万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海东航云锦天地 MUPLAZA",
+      "open_date": "2018-07-28",
+      "area": "2.3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 56.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 33.9,
+      "over_3yr_pct": 41.1
+    },
+    {
+      "type": "购物",
+      "count": 21.0,
+      "within_1yr_pct": 14.3,
+      "1_3yr_pct": 47.6,
+      "over_3yr_pct": 38.1
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 7.0,
+      "within_1yr_pct": 42.9,
+      "1_3yr_pct": 28.6,
+      "over_3yr_pct": 28.6
+    },
+    {
+      "type": "教育培训",
+      "count": 3.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 3.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "生活服务",
+      "count": 22.0,
+      "within_1yr_pct": 27.3,
+      "1_3yr_pct": 27.3,
+      "over_3yr_pct": 45.5
+    },
+    {
+      "type": "运动健身",
+      "count": 11.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 90.9,
+      "over_3yr_pct": 9.1
+    },
+    {
+      "type": "车辆服务",
+      "count": 10.0,
+      "within_1yr_pct": 10.0,
+      "1_3yr_pct": 40.0,
+      "over_3yr_pct": 50.0
+    }
+  ]
+}

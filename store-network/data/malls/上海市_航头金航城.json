@@ -1,0 +1,202 @@
+{
+  "name": "航头金航城",
+  "city": "上海市",
+  "address": "上海市浦东新区鹤恒路鹤雷路交叉口",
+  "lat": 31.067429,
+  "lng": 121.60312,
+  "overview": {
+    "score": 93.0,
+    "score_rank": "市内前30%",
+    "population_score": 88.4,
+    "area_score": 66.0,
+    "consumption_score": 64.6,
+    "industry_score": 93.2,
+    "annual_sales": "3",
+    "annual_sales_unit": "亿元",
+    "area_size_sqm": 2.27,
+    "open_date": "2023-01-01",
+    "operator": "上海金航城置业有限公司",
+    "brand": "",
+    "type": "美食型",
+    "floors": "B2-L6"
+  },
+  "traffic": {
+    "annual_daily": 1.67,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第163",
+    "jun_total": 90.5,
+    "jun_total_rank": "市内商场第135名",
+    "jun_daily_avg": 3.0,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第135名",
+    "weekday_avg": 2.7,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第143名",
+    "holiday_avg": 4.0,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第118名"
+  },
+  "population": {
+    "residential": {
+      "500m": 2.3,
+      "1_5km": 13.9,
+      "3km": 30.8
+    },
+    "office": {
+      "500m": 6900.0,
+      "1_5km": 3.7,
+      "3km": 11.8
+    },
+    "permanent": {
+      "500m": 2.3,
+      "1_5km": 12.9,
+      "3km": 27.6
+    }
+  },
+  "business": {
+    "competitors": 3.0,
+    "food": 99.0,
+    "shopping": 36.0,
+    "leisure": 8.0,
+    "education": 9.0,
+    "hotel": 1.0,
+    "services": 37.0,
+    "fitness": 10.0,
+    "auto": 11.0,
+    "total_stores": 103.0,
+    "old_store_3yr_pct": 50.0
+  },
+  "nearby_poi": {
+    "business": 1.0,
+    "community": 101.0,
+    "office": 1.0,
+    "school": 23.0,
+    "hospital": 11.0,
+    "transport": 5.0,
+    "scenic": 17.0
+  },
+  "demographics": {
+    "male_pct": 50.0,
+    "female_pct": null,
+    "education": {
+      "小学": 8.7,
+      "初中": 17.3,
+      "高中": 13.0,
+      "大专": 9.1,
+      "本科": 44.9,
+      "硕士": 5.6,
+      "博士": 1.4
+    },
+    "has_children_pct": 64.5,
+    "no_children_pct": 35.5
+  },
+  "scraped_at": "2026-08-01T06:06:02.683Z",
+  "nearby_restaurants": [
+    {
+      "brand": "Tulipkoko泰茶公司(浦乐汇店)",
+      "address": "鹤雷路与鹤韵路交叉口西180米",
+      "distance": "444m"
+    },
+    {
+      "brand": "正新鸡排(航头浦乐汇店)",
+      "address": "鹤雷路319号3号楼1楼107室",
+      "distance": "463m"
+    },
+    {
+      "brand": "衢州鸭头",
+      "address": "鹤雷路217号、239号、269号、319号、369号、399号浦乐汇",
+      "distance": "467m"
+    },
+    {
+      "brand": "康家味江浙菜",
+      "address": "鹤沙路195号",
+      "distance": "481m"
+    },
+    {
+      "brand": "大王生炒鸡公煲(浦乐汇店)",
+      "address": "鹤雷路与航瑞路交叉口东220米",
+      "distance": "483m"
+    },
+    {
+      "brand": "爷爷不泡茶NOYEYENOTEA(上海浦乐汇航头店)",
+      "address": "航头镇鹤雷路319号3栋1层(公交站背面)",
+      "distance": "492m"
+    },
+    {
+      "brand": "鸡柳大人(航头浦乐汇店)",
+      "address": "航头镇鹤雷路319号浦乐汇商场航头店3号楼1层106室",
+      "distance": "493m"
+    },
+    {
+      "brand": "上海大包(鹤沙航城金沁苑南区店)",
+      "address": "航头镇鹤沙路193号",
+      "distance": "497m"
+    },
+    {
+      "brand": "三圣巷老火锅(航头浦乐汇)",
+      "address": "鹤雷路217号浦乐汇航头店F2层",
+      "distance": "499m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海浦乐汇(航头店)",
+      "open_date": "2022-11-18",
+      "area": "3.5万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 60.0,
+      "within_1yr_pct": 10.0,
+      "1_3yr_pct": 40.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "购物",
+      "count": 15.0,
+      "within_1yr_pct": 13.3,
+      "1_3yr_pct": 20.0,
+      "over_3yr_pct": 66.7
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 4.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "教育培训",
+      "count": 7.0,
+      "within_1yr_pct": 14.3,
+      "1_3yr_pct": 28.6,
+      "over_3yr_pct": 57.1
+    },
+    {
+      "type": "生活服务",
+      "count": 10.0,
+      "within_1yr_pct": 30.0,
+      "1_3yr_pct": 30.0,
+      "over_3yr_pct": 40.0
+    },
+    {
+      "type": "运动健身",
+      "count": 5.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 80.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
+    }
+  ]
+}

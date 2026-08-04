@@ -1,0 +1,256 @@
+{
+  "name": "合景悠方购物中心",
+  "city": "成都市",
+  "address": "四川省成都市锦江区春熙路街道大业路6号",
+  "lat": 30.652094,
+  "lng": 104.067549,
+  "overview": {
+    "score": 89.3,
+    "score_rank": "市内前30%",
+    "population_score": 97.1,
+    "area_score": 94.8,
+    "consumption_score": 88.0,
+    "industry_score": 89.2,
+    "annual_sales": "COSMO成都集合了青年文化、生活美学、年轻潮流时尚、艺术超市等于一体的时尚潮流空间",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 8.0,
+    "open_date": "2022-12-15",
+    "operator": "成都上普实业集团有限公司",
+    "brand": "正荣地产",
+    "type": "购物型",
+    "floors": "L1-L6"
+  },
+  "traffic": {
+    "annual_daily": 9589.0,
+    "annual_daily_unit": "人次",
+    "annual_daily_rank": "市内第150",
+    "jun_total": 36.3,
+    "jun_total_rank": "市内商场第156名",
+    "jun_daily_avg": 1.2,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第156名",
+    "weekday_avg": 1.1,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第156名",
+    "holiday_avg": 1.4,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第155名"
+  },
+  "population": {
+    "residential": {
+      "500m": 3.3,
+      "1_5km": 18.4,
+      "3km": 61.8
+    },
+    "office": {
+      "500m": 4.0,
+      "1_5km": 26.5,
+      "3km": 59.8
+    },
+    "permanent": {
+      "500m": 3.7,
+      "1_5km": 25.0,
+      "3km": 67.4
+    }
+  },
+  "business": {
+    "competitors": 7.0,
+    "food": 454.0,
+    "shopping": 721.0,
+    "leisure": 53.0,
+    "education": 46.0,
+    "hotel": 307.0,
+    "services": 305.0,
+    "fitness": 16.0,
+    "auto": 26.0,
+    "total_stores": 198.0,
+    "old_store_3yr_pct": 40.0
+  },
+  "nearby_poi": {
+    "business": 32.0,
+    "community": 1431.0,
+    "office": 153.0,
+    "school": 45.0,
+    "hospital": 305.0,
+    "transport": 8.0,
+    "scenic": 525.0
+  },
+  "demographics": {
+    "male_pct": 48.2,
+    "female_pct": null,
+    "education": {
+      "小学": 9.0,
+      "初中": 17.2,
+      "高中": 14.5,
+      "大专": 10.2,
+      "本科": 43.3,
+      "硕士": 4.7,
+      "博士": 1.1
+    },
+    "has_children_pct": 56.3,
+    "no_children_pct": 43.7
+  },
+  "scraped_at": "2026-08-02T07:31:18.209Z",
+  "nearby_restaurants": [
+    {
+      "brand": "锦宫礼宴",
+      "address": "暑袜南街27号",
+      "distance": "498m"
+    },
+    {
+      "brand": "四川岷山饭店-健身中心",
+      "address": "人民南路二段55号四川岷山饭店3层",
+      "distance": "499m"
+    },
+    {
+      "brand": "贵州鲜切土黄牛肉粉",
+      "address": "梨花街12号城市理想",
+      "distance": "499m"
+    },
+    {
+      "brand": "Cotti",
+      "address": "暑袜南街与东大街上东大街段交叉口东北80米",
+      "distance": "499m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "成都春熙路KBC潮玩广场",
+      "open_date": "2019-01-01",
+      "area": "2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "成都新世界百货",
+      "open_date": "2006-12-01",
+      "area": "3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "成都壹购潮流广场",
+      "open_date": "2009-01-01",
+      "area": "3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "成都天府红购物中心",
+      "open_date": "2021-09-19",
+      "area": "6万㎡",
+      "jun_daily_avg": "5.5万人次",
+      "weekday_avg": "4.5万人次",
+      "holiday_avg": "8.4万人次"
+    },
+    {
+      "name": "成都新建广场",
+      "open_date": "2009-01-05",
+      "area": "-",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "成都摩尔百货",
+      "open_date": "2018-01-01",
+      "area": "4万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "成都盐口茂业天地",
+      "open_date": "2013-12-13",
+      "area": "13万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "成都仁和春天百货(人东店)",
+      "open_date": "1998-09-01",
+      "area": "5万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "成都九龙广场",
+      "open_date": "1999-01-01",
+      "area": "9.8万㎡",
+      "jun_daily_avg": "3.5万人次",
+      "weekday_avg": "3.3万人次",
+      "holiday_avg": "4.2万人次"
+    },
+    {
+      "name": "成都尚都服饰广场",
+      "open_date": "2015-11-27",
+      "area": "10万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 32.0,
+      "within_1yr_pct": 21.9,
+      "1_3yr_pct": 46.9,
+      "over_3yr_pct": 31.3
+    },
+    {
+      "type": "购物",
+      "count": 92.0,
+      "within_1yr_pct": 22.8,
+      "1_3yr_pct": 28.3,
+      "over_3yr_pct": 48.9
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 9.0,
+      "within_1yr_pct": 44.4,
+      "1_3yr_pct": 44.4,
+      "over_3yr_pct": 11.1
+    },
+    {
+      "type": "教育培训",
+      "count": 10.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 40.0,
+      "over_3yr_pct": 40.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 24.0,
+      "within_1yr_pct": 58.3,
+      "1_3yr_pct": 8.3,
+      "over_3yr_pct": 33.3
+    },
+    {
+      "type": "生活服务",
+      "count": 27.0,
+      "within_1yr_pct": 25.9,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 40.7
+    },
+    {
+      "type": "运动健身",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 3.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 66.7,
+      "over_3yr_pct": 0.0
+    }
+  ]
+}

@@ -1,0 +1,486 @@
+{
+  "name": "上海1862时尚艺术中心",
+  "city": "上海市",
+  "address": "上海市浦东新区陆家嘴街道即墨路4号尚悦街-西街",
+  "lat": 31.243182,
+  "lng": 121.511179,
+  "overview": {
+    "score": 82.3,
+    "score_rank": "市内前30%",
+    "population_score": 66.6,
+    "area_score": 69.6,
+    "consumption_score": 89.1,
+    "industry_score": 82.4,
+    "annual_sales": "",
+    "annual_sales_unit": "",
+    "area_size_sqm": null,
+    "open_date": "",
+    "operator": "",
+    "brand": "",
+    "type": "",
+    "floors": ""
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "",
+    "annual_daily_rank": "",
+    "jun_total": null,
+    "jun_total_rank": "",
+    "jun_daily_avg": null,
+    "jun_daily_unit": "",
+    "jun_daily_rank": "",
+    "weekday_avg": null,
+    "weekday_unit": "",
+    "weekday_rank": "",
+    "holiday_avg": null,
+    "holiday_unit": "",
+    "holiday_rank": ""
+  },
+  "population": {
+    "residential": {
+      "500m": 5500.0,
+      "1_5km": 13.2,
+      "3km": 74.2
+    },
+    "office": {
+      "500m": 3.0,
+      "1_5km": 29.7,
+      "3km": 94.0
+    },
+    "permanent": {
+      "500m": 1.3,
+      "1_5km": 19.8,
+      "3km": 88.9
+    }
+  },
+  "business": {
+    "competitors": 6.0,
+    "food": 128.0,
+    "shopping": 56.0,
+    "leisure": 11.0,
+    "education": 9.0,
+    "hotel": 15.0,
+    "services": 58.0,
+    "fitness": 15.0,
+    "auto": 24.0,
+    "total_stores": 321.0,
+    "old_store_3yr_pct": 53.0
+  },
+  "nearby_poi": {
+    "business": 13.0,
+    "community": 618.0,
+    "office": 145.0,
+    "school": 30.0,
+    "hospital": 131.0,
+    "transport": 5.0,
+    "scenic": 622.0
+  },
+  "demographics": {
+    "male_pct": 50.9,
+    "female_pct": null,
+    "education": {
+      "小学": 9.0,
+      "初中": 16.4,
+      "高中": 10.7,
+      "大专": 7.0,
+      "本科": 48.3,
+      "硕士": 6.7,
+      "博士": 1.9
+    },
+    "has_children_pct": null,
+    "no_children_pct": null
+  },
+  "scraped_at": "2026-07-31T14:54:29.906Z",
+  "nearby_restaurants": [
+    {
+      "brand": "vida海鲜自助",
+      "address": "尚悦街-西街",
+      "distance": "32m"
+    },
+    {
+      "brand": "大益茶念智茶馆(陆家嘴店)",
+      "address": "即墨路8-1号尚悦街西街S11栋",
+      "distance": "36m"
+    },
+    {
+      "brand": "滨江蘭筳·山海宴(江景店)",
+      "address": "滨江大道1811号S7栋3楼",
+      "distance": "43m"
+    },
+    {
+      "brand": "滨江花月宴(尚悦街西街S7栋店)",
+      "address": "滨江大道1811号2层201-202室",
+      "distance": "43m"
+    },
+    {
+      "brand": "缦山By Oravida",
+      "address": "即墨路2-1",
+      "distance": "45m"
+    },
+    {
+      "brand": "隐溪茶馆(银城路店)",
+      "address": "银城路117号尚悦街西街27号",
+      "distance": "68m"
+    },
+    {
+      "brand": "隐自在·茶馆(陆家嘴店)",
+      "address": "银城路117号尚悦街西街B1层27号",
+      "distance": "77m"
+    },
+    {
+      "brand": "馨乐汇(陆家嘴店)",
+      "address": "滨江大道1817号尚悦西街B1-31",
+      "distance": "123m"
+    },
+    {
+      "brand": "星巴克(尚悦街-西街店)",
+      "address": "即墨路1幢8-2号地下1层24室",
+      "distance": "127m"
+    },
+    {
+      "brand": "vida海鲜自助",
+      "address": "尚悦街-西街",
+      "distance": "32m"
+    },
+    {
+      "brand": "大益茶念智茶馆(陆家嘴店)",
+      "address": "即墨路8-1号尚悦街西街S11栋",
+      "distance": "36m"
+    },
+    {
+      "brand": "滨江蘭筳·山海宴(江景店)",
+      "address": "滨江大道1811号S7栋3楼",
+      "distance": "43m"
+    },
+    {
+      "brand": "滨江花月宴(尚悦街西街S7栋店)",
+      "address": "滨江大道1811号2层201-202室",
+      "distance": "43m"
+    },
+    {
+      "brand": "缦山By Oravida",
+      "address": "即墨路2-1",
+      "distance": "45m"
+    },
+    {
+      "brand": "隐溪茶馆(银城路店)",
+      "address": "银城路117号尚悦街西街27号",
+      "distance": "68m"
+    },
+    {
+      "brand": "隐自在·茶馆(陆家嘴店)",
+      "address": "银城路117号尚悦街西街B1层27号",
+      "distance": "77m"
+    },
+    {
+      "brand": "馨乐汇(陆家嘴店)",
+      "address": "滨江大道1817号尚悦西街B1-31",
+      "distance": "123m"
+    },
+    {
+      "brand": "星巴克(尚悦街-西街店)",
+      "address": "即墨路1幢8-2号地下1层24室",
+      "distance": "127m"
+    },
+    {
+      "brand": "vida海鲜自助",
+      "address": "尚悦街-西街",
+      "distance": "32m"
+    },
+    {
+      "brand": "大益茶念智茶馆(陆家嘴店)",
+      "address": "即墨路8-1号尚悦街西街S11栋",
+      "distance": "36m"
+    },
+    {
+      "brand": "滨江蘭筳·山海宴(江景店)",
+      "address": "滨江大道1811号S7栋3楼",
+      "distance": "43m"
+    },
+    {
+      "brand": "滨江花月宴(尚悦街西街S7栋店)",
+      "address": "滨江大道1811号2层201-202室",
+      "distance": "43m"
+    },
+    {
+      "brand": "缦山By Oravida",
+      "address": "即墨路2-1",
+      "distance": "45m"
+    },
+    {
+      "brand": "隐溪茶馆(银城路店)",
+      "address": "银城路117号尚悦街西街27号",
+      "distance": "68m"
+    },
+    {
+      "brand": "隐自在·茶馆(陆家嘴店)",
+      "address": "银城路117号尚悦街西街B1层27号",
+      "distance": "77m"
+    },
+    {
+      "brand": "馨乐汇(陆家嘴店)",
+      "address": "滨江大道1817号尚悦西街B1-31",
+      "distance": "123m"
+    },
+    {
+      "brand": "星巴克(尚悦街-西街店)",
+      "address": "即墨路1幢8-2号地下1层24室",
+      "distance": "127m"
+    },
+    {
+      "brand": "vida海鲜自助",
+      "address": "尚悦街-西街",
+      "distance": "32m"
+    },
+    {
+      "brand": "大益茶念智茶馆(陆家嘴店)",
+      "address": "即墨路8-1号尚悦街西街S11栋",
+      "distance": "36m"
+    },
+    {
+      "brand": "滨江蘭筳·山海宴(江景店)",
+      "address": "滨江大道1811号S7栋3楼",
+      "distance": "43m"
+    },
+    {
+      "brand": "滨江花月宴(尚悦街西街S7栋店)",
+      "address": "滨江大道1811号2层201-202室",
+      "distance": "43m"
+    },
+    {
+      "brand": "缦山By Oravida",
+      "address": "即墨路2-1",
+      "distance": "45m"
+    },
+    {
+      "brand": "隐溪茶馆(银城路店)",
+      "address": "银城路117号尚悦街西街27号",
+      "distance": "68m"
+    },
+    {
+      "brand": "隐自在·茶馆(陆家嘴店)",
+      "address": "银城路117号尚悦街西街B1层27号",
+      "distance": "77m"
+    },
+    {
+      "brand": "馨乐汇(陆家嘴店)",
+      "address": "滨江大道1817号尚悦西街B1-31",
+      "distance": "123m"
+    },
+    {
+      "brand": "星巴克(尚悦街-西街店)",
+      "address": "即墨路1幢8-2号地下1层24室",
+      "distance": "127m"
+    },
+    {
+      "brand": "vida海鲜自助",
+      "address": "尚悦街-西街",
+      "distance": "32m"
+    },
+    {
+      "brand": "大益茶念智茶馆(陆家嘴店)",
+      "address": "即墨路8-1号尚悦街西街S11栋",
+      "distance": "36m"
+    },
+    {
+      "brand": "滨江蘭筳·山海宴(江景店)",
+      "address": "滨江大道1811号S7栋3楼",
+      "distance": "43m"
+    },
+    {
+      "brand": "滨江花月宴(尚悦街西街S7栋店)",
+      "address": "滨江大道1811号2层201-202室",
+      "distance": "43m"
+    },
+    {
+      "brand": "缦山By Oravida",
+      "address": "即墨路2-1",
+      "distance": "45m"
+    },
+    {
+      "brand": "隐溪茶馆(银城路店)",
+      "address": "银城路117号尚悦街西街27号",
+      "distance": "68m"
+    },
+    {
+      "brand": "隐自在·茶馆(陆家嘴店)",
+      "address": "银城路117号尚悦街西街B1层27号",
+      "distance": "77m"
+    },
+    {
+      "brand": "馨乐汇(陆家嘴店)",
+      "address": "滨江大道1817号尚悦西街B1-31",
+      "distance": "123m"
+    },
+    {
+      "brand": "星巴克(尚悦街-西街店)",
+      "address": "即墨路1幢8-2号地下1层24室",
+      "distance": "127m"
+    },
+    {
+      "brand": "vida海鲜自助",
+      "address": "尚悦街-西街",
+      "distance": "32m"
+    },
+    {
+      "brand": "大益茶念智茶馆(陆家嘴店)",
+      "address": "即墨路8-1号尚悦街西街S11栋",
+      "distance": "36m"
+    },
+    {
+      "brand": "滨江蘭筳·山海宴(江景店)",
+      "address": "滨江大道1811号S7栋3楼",
+      "distance": "43m"
+    },
+    {
+      "brand": "滨江花月宴(尚悦街西街S7栋店)",
+      "address": "滨江大道1811号2层201-202室",
+      "distance": "43m"
+    },
+    {
+      "brand": "缦山By Oravida",
+      "address": "即墨路2-1",
+      "distance": "45m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海1862时尚艺术中心",
+      "open_date": "2018-05-06",
+      "area": "1.6万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海GALA MALL尚悦湾广场",
+      "open_date": "2017-12-23",
+      "area": "7万㎡",
+      "jun_daily_avg": "2.8万人次",
+      "weekday_avg": "3.2万人次",
+      "holiday_avg": "1.6万人次"
+    },
+    {
+      "name": "金茂时尚生活中心",
+      "open_date": "2005-09-01",
+      "area": "2.3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海环球金融中心",
+      "open_date": "2008-08-29",
+      "area": "1.4万㎡",
+      "jun_daily_avg": "1.9万人次",
+      "weekday_avg": "2.2万人次",
+      "holiday_avg": "1万人次"
+    },
+    {
+      "name": "上海览海国际广场",
+      "open_date": "2017-11-28",
+      "area": "3.7万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海北外滩来福士",
+      "open_date": "2021-07-10",
+      "area": "12万㎡",
+      "jun_daily_avg": "4.3万人次",
+      "weekday_avg": "4.6万人次",
+      "holiday_avg": "3.6万人次"
+    },
+    {
+      "name": "上海金茂J·LIFE生活时尚中心",
+      "open_date": "2005-09-01",
+      "area": "2.3万㎡",
+      "jun_daily_avg": "1.4万人次",
+      "weekday_avg": "1.4万人次",
+      "holiday_avg": "1.4万人次"
+    },
+    {
+      "name": "上海IFC",
+      "open_date": "2010-04-28",
+      "area": "11万㎡",
+      "jun_daily_avg": "5.2万人次",
+      "weekday_avg": "5.2万人次",
+      "holiday_avg": "5万人次"
+    },
+    {
+      "name": "上海之品商场",
+      "open_date": "-",
+      "area": "7万㎡",
+      "jun_daily_avg": "3.3万人次",
+      "weekday_avg": "3.4万人次",
+      "holiday_avg": "3.2万人次"
+    },
+    {
+      "name": "上海正大广场",
+      "open_date": "2002-01-01",
+      "area": "24.3万㎡",
+      "jun_daily_avg": "5.2万人次",
+      "weekday_avg": "4.7万人次",
+      "holiday_avg": "6.3万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 128.0,
+      "within_1yr_pct": 18.0,
+      "1_3yr_pct": 21.9,
+      "over_3yr_pct": 60.2
+    },
+    {
+      "type": "购物",
+      "count": 56.0,
+      "within_1yr_pct": 23.2,
+      "1_3yr_pct": 23.2,
+      "over_3yr_pct": 53.6
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 16.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 31.3,
+      "over_3yr_pct": 43.8
+    },
+    {
+      "type": "教育培训",
+      "count": 9.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 11.1,
+      "over_3yr_pct": 55.6
+    },
+    {
+      "type": "酒店住宿",
+      "count": 15.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 26.7,
+      "over_3yr_pct": 53.3
+    },
+    {
+      "type": "生活服务",
+      "count": 58.0,
+      "within_1yr_pct": 20.7,
+      "1_3yr_pct": 29.3,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "运动健身",
+      "count": 15.0,
+      "within_1yr_pct": 26.7,
+      "1_3yr_pct": 46.7,
+      "over_3yr_pct": 26.7
+    },
+    {
+      "type": "车辆服务",
+      "count": 24.0,
+      "within_1yr_pct": 20.8,
+      "1_3yr_pct": 37.5,
+      "over_3yr_pct": 41.7
+    }
+  ]
+}

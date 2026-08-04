@@ -1,0 +1,454 @@
+{
+  "name": "菱角湖禹悦里",
+  "city": "武汉市",
+  "address": "湖北省武汉市江汉区新华路3号",
+  "lat": 30.605211,
+  "lng": 114.2729,
+  "overview": {
+    "score": 82.2,
+    "score_rank": "市内前30%",
+    "population_score": 89.1,
+    "area_score": 83.3,
+    "consumption_score": 75.4,
+    "industry_score": 82.2,
+    "annual_sales": "武汉菱角湖禹悦里位于武汉市江汉区长江日报路与菱角湖路交汇处，地处汉口内环核心商圈，地铁3号线菱角湖站D出口直达。定位为湖畔式商业综合体，打造汉口内环的食尚新主场。商场融合了“活力潮酷”“创享办公”“湖畔餐饮”以及“不负时光”四大功能分区，引入星巴克、麦当劳、肯德基、瑞幸、优客工场等一线品牌。",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 3.53,
+    "open_date": "2020-12-01",
+    "operator": "禹洲集团控股有限公司",
+    "brand": "禹州商业",
+    "type": "综合型",
+    "floors": "B1-L4"
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "-",
+    "annual_daily_rank": "",
+    "jun_total": 25.5,
+    "jun_total_rank": "市内商场第118名",
+    "jun_daily_avg": 8512.0,
+    "jun_daily_unit": "人次",
+    "jun_daily_rank": "市内商场第118名",
+    "weekday_avg": 8697.0,
+    "weekday_unit": "人次",
+    "weekday_rank": "市内商场第114名",
+    "holiday_avg": 8005.0,
+    "holiday_unit": "人次",
+    "holiday_rank": "市内商场第129名"
+  },
+  "population": {
+    "residential": {
+      "500m": 2.4,
+      "1_5km": 20.4,
+      "3km": 76.8
+    },
+    "office": {
+      "500m": 1.8,
+      "1_5km": 16.9,
+      "3km": 52.2
+    },
+    "permanent": {
+      "500m": 2.5,
+      "1_5km": 21.1,
+      "3km": 81.5
+    }
+  },
+  "business": {
+    "competitors": 2.0,
+    "food": 285.0,
+    "shopping": 214.0,
+    "leisure": 25.0,
+    "education": 15.0,
+    "hotel": 86.0,
+    "services": 211.0,
+    "fitness": 14.0,
+    "auto": 42.0,
+    "total_stores": 161.0,
+    "old_store_3yr_pct": 40.0
+  },
+  "nearby_poi": {
+    "business": 6.0,
+    "community": 658.0,
+    "office": 94.0,
+    "school": 35.0,
+    "hospital": 170.0,
+    "transport": 10.0,
+    "scenic": 271.0
+  },
+  "demographics": {
+    "male_pct": 53.6,
+    "female_pct": null,
+    "education": {
+      "小学": 11.4,
+      "初中": 17.9,
+      "高中": 11.9,
+      "大专": 8.3,
+      "本科": 45.3,
+      "硕士": 4.1,
+      "博士": 1.1
+    },
+    "has_children_pct": 59.9,
+    "no_children_pct": 40.1
+  },
+  "scraped_at": "2026-08-02T11:02:09.704Z",
+  "nearby_restaurants": [
+    {
+      "brand": "吾饮良品(菱角湖壹号店)",
+      "address": "菱角湖壹号营销中心(菱角湖地铁站D口步行430米)",
+      "distance": "34m"
+    },
+    {
+      "brand": "臻选餐饮店",
+      "address": "新华路456号菱角湖壹号",
+      "distance": "43m"
+    },
+    {
+      "brand": "蔡明纬(禹悦里店)",
+      "address": "新华路456号菱⻆湖壹号1-2栋/单元1-2层商1号萬州-武汉禹悦⾥B1-1号商铺",
+      "distance": "57m"
+    },
+    {
+      "brand": "张家小馆餐饮店(菱角湖壹号店)",
+      "address": "菱角湖壹号中心公寓入口对面",
+      "distance": "61m"
+    },
+    {
+      "brand": "观山火锅(菱角湖店)",
+      "address": "新华路468号CFD时代财富中心裙楼商业一层QL-1-5号",
+      "distance": "64m"
+    },
+    {
+      "brand": "蛋壳甜点(菱角湖店)",
+      "address": "菱角湖壹号3栋办公楼壹号中心1905",
+      "distance": "67m"
+    },
+    {
+      "brand": "苏苏家烘焙工作室(沿海·菱角湖壹号店)",
+      "address": "菱角湖壹号3号楼3507",
+      "distance": "75m"
+    },
+    {
+      "brand": "姜小鱼隆江猪脚饭(长江日报店)",
+      "address": "长江日报路15号(菱角湖地铁站D口步行310米)",
+      "distance": "76m"
+    },
+    {
+      "brand": "老妈抄手",
+      "address": "长江日报路与新华路交叉口东100米",
+      "distance": "77m"
+    },
+    {
+      "brand": "馋嘴鱼私房菜(长江日报路店)",
+      "address": "长江日报路与新华路交叉口东80米",
+      "distance": "78m"
+    },
+    {
+      "brand": "吾饮良品(菱角湖壹号店)",
+      "address": "菱角湖壹号营销中心(菱角湖地铁站D口步行430米)",
+      "distance": "34m"
+    },
+    {
+      "brand": "臻选餐饮店",
+      "address": "新华路456号菱角湖壹号",
+      "distance": "43m"
+    },
+    {
+      "brand": "蔡明纬(禹悦里店)",
+      "address": "新华路456号菱⻆湖壹号1-2栋/单元1-2层商1号萬州-武汉禹悦⾥B1-1号商铺",
+      "distance": "57m"
+    },
+    {
+      "brand": "张家小馆餐饮店(菱角湖壹号店)",
+      "address": "菱角湖壹号中心公寓入口对面",
+      "distance": "61m"
+    },
+    {
+      "brand": "观山火锅(菱角湖店)",
+      "address": "新华路468号CFD时代财富中心裙楼商业一层QL-1-5号",
+      "distance": "64m"
+    },
+    {
+      "brand": "蛋壳甜点(菱角湖店)",
+      "address": "菱角湖壹号3栋办公楼壹号中心1905",
+      "distance": "67m"
+    },
+    {
+      "brand": "苏苏家烘焙工作室(沿海·菱角湖壹号店)",
+      "address": "菱角湖壹号3号楼3507",
+      "distance": "75m"
+    },
+    {
+      "brand": "姜小鱼隆江猪脚饭(长江日报店)",
+      "address": "长江日报路15号(菱角湖地铁站D口步行310米)",
+      "distance": "76m"
+    },
+    {
+      "brand": "老妈抄手",
+      "address": "长江日报路与新华路交叉口东100米",
+      "distance": "77m"
+    },
+    {
+      "brand": "馋嘴鱼私房菜(长江日报路店)",
+      "address": "长江日报路与新华路交叉口东80米",
+      "distance": "78m"
+    },
+    {
+      "brand": "吾饮良品(菱角湖壹号店)",
+      "address": "菱角湖壹号营销中心(菱角湖地铁站D口步行430米)",
+      "distance": "34m"
+    },
+    {
+      "brand": "臻选餐饮店",
+      "address": "新华路456号菱角湖壹号",
+      "distance": "43m"
+    },
+    {
+      "brand": "蔡明纬(禹悦里店)",
+      "address": "新华路456号菱⻆湖壹号1-2栋/单元1-2层商1号萬州-武汉禹悦⾥B1-1号商铺",
+      "distance": "57m"
+    },
+    {
+      "brand": "张家小馆餐饮店(菱角湖壹号店)",
+      "address": "菱角湖壹号中心公寓入口对面",
+      "distance": "61m"
+    },
+    {
+      "brand": "观山火锅(菱角湖店)",
+      "address": "新华路468号CFD时代财富中心裙楼商业一层QL-1-5号",
+      "distance": "64m"
+    },
+    {
+      "brand": "蛋壳甜点(菱角湖店)",
+      "address": "菱角湖壹号3栋办公楼壹号中心1905",
+      "distance": "67m"
+    },
+    {
+      "brand": "苏苏家烘焙工作室(沿海·菱角湖壹号店)",
+      "address": "菱角湖壹号3号楼3507",
+      "distance": "75m"
+    },
+    {
+      "brand": "姜小鱼隆江猪脚饭(长江日报店)",
+      "address": "长江日报路15号(菱角湖地铁站D口步行310米)",
+      "distance": "76m"
+    },
+    {
+      "brand": "老妈抄手",
+      "address": "长江日报路与新华路交叉口东100米",
+      "distance": "77m"
+    },
+    {
+      "brand": "馋嘴鱼私房菜(长江日报路店)",
+      "address": "长江日报路与新华路交叉口东80米",
+      "distance": "78m"
+    },
+    {
+      "brand": "吾饮良品(菱角湖壹号店)",
+      "address": "菱角湖壹号营销中心(菱角湖地铁站D口步行430米)",
+      "distance": "34m"
+    },
+    {
+      "brand": "臻选餐饮店",
+      "address": "新华路456号菱角湖壹号",
+      "distance": "43m"
+    },
+    {
+      "brand": "蔡明纬(禹悦里店)",
+      "address": "新华路456号菱⻆湖壹号1-2栋/单元1-2层商1号萬州-武汉禹悦⾥B1-1号商铺",
+      "distance": "57m"
+    },
+    {
+      "brand": "张家小馆餐饮店(菱角湖壹号店)",
+      "address": "菱角湖壹号中心公寓入口对面",
+      "distance": "61m"
+    },
+    {
+      "brand": "观山火锅(菱角湖店)",
+      "address": "新华路468号CFD时代财富中心裙楼商业一层QL-1-5号",
+      "distance": "64m"
+    },
+    {
+      "brand": "蛋壳甜点(菱角湖店)",
+      "address": "菱角湖壹号3栋办公楼壹号中心1905",
+      "distance": "67m"
+    },
+    {
+      "brand": "苏苏家烘焙工作室(沿海·菱角湖壹号店)",
+      "address": "菱角湖壹号3号楼3507",
+      "distance": "75m"
+    },
+    {
+      "brand": "姜小鱼隆江猪脚饭(长江日报店)",
+      "address": "长江日报路15号(菱角湖地铁站D口步行310米)",
+      "distance": "76m"
+    },
+    {
+      "brand": "老妈抄手",
+      "address": "长江日报路与新华路交叉口东100米",
+      "distance": "77m"
+    },
+    {
+      "brand": "馋嘴鱼私房菜(长江日报路店)",
+      "address": "长江日报路与新华路交叉口东80米",
+      "distance": "78m"
+    },
+    {
+      "brand": "吾饮良品(菱角湖壹号店)",
+      "address": "菱角湖壹号营销中心(菱角湖地铁站D口步行430米)",
+      "distance": "34m"
+    },
+    {
+      "brand": "臻选餐饮店",
+      "address": "新华路456号菱角湖壹号",
+      "distance": "43m"
+    },
+    {
+      "brand": "蔡明纬(禹悦里店)",
+      "address": "新华路456号菱⻆湖壹号1-2栋/单元1-2层商1号萬州-武汉禹悦⾥B1-1号商铺",
+      "distance": "57m"
+    },
+    {
+      "brand": "张家小馆餐饮店(菱角湖壹号店)",
+      "address": "菱角湖壹号中心公寓入口对面",
+      "distance": "61m"
+    },
+    {
+      "brand": "观山火锅(菱角湖店)",
+      "address": "新华路468号CFD时代财富中心裙楼商业一层QL-1-5号",
+      "distance": "64m"
+    },
+    {
+      "brand": "蛋壳甜点(菱角湖店)",
+      "address": "菱角湖壹号3栋办公楼壹号中心1905",
+      "distance": "67m"
+    },
+    {
+      "brand": "苏苏家烘焙工作室(沿海·菱角湖壹号店)",
+      "address": "菱角湖壹号3号楼3507",
+      "distance": "75m"
+    },
+    {
+      "brand": "姜小鱼隆江猪脚饭(长江日报店)",
+      "address": "长江日报路15号(菱角湖地铁站D口步行310米)",
+      "distance": "76m"
+    },
+    {
+      "brand": "老妈抄手",
+      "address": "长江日报路与新华路交叉口东100米",
+      "distance": "77m"
+    },
+    {
+      "brand": "馋嘴鱼私房菜(长江日报路店)",
+      "address": "长江日报路与新华路交叉口东80米",
+      "distance": "78m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "武汉菱角湖万达广场",
+      "open_date": "2010-12-18",
+      "area": "16.1万㎡",
+      "jun_daily_avg": "2.8万人次",
+      "weekday_avg": "2.7万人次",
+      "holiday_avg": "3.2万人次"
+    },
+    {
+      "name": "武汉万象城",
+      "open_date": "2022-05-01",
+      "area": "19万㎡",
+      "jun_daily_avg": "8.7万人次",
+      "weekday_avg": "7.8万人次",
+      "holiday_avg": "11.4万人次"
+    },
+    {
+      "name": "武汉江宸天街",
+      "open_date": "2021-06-19",
+      "area": "14万㎡",
+      "jun_daily_avg": "6.7万人次",
+      "weekday_avg": "6.2万人次",
+      "holiday_avg": "8万人次"
+    },
+    {
+      "name": "武汉华发中城商都",
+      "open_date": "2021-01-01",
+      "area": "7.4万㎡",
+      "jun_daily_avg": "2.2万人次",
+      "weekday_avg": "2.1万人次",
+      "holiday_avg": "2.4万人次"
+    },
+    {
+      "name": "武汉新世界百货(国贸店)",
+      "open_date": "1994-11-01",
+      "area": "4.2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "花园道",
+      "open_date": "2010-10-01",
+      "area": "3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 26.0,
+      "within_1yr_pct": 23.1,
+      "1_3yr_pct": 26.9,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "购物",
+      "count": 18.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 38.9,
+      "over_3yr_pct": 27.8
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 11.0,
+      "within_1yr_pct": 36.4,
+      "1_3yr_pct": 36.4,
+      "over_3yr_pct": 27.3
+    },
+    {
+      "type": "教育培训",
+      "count": 3.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 66.7
+    },
+    {
+      "type": "酒店住宿",
+      "count": 30.0,
+      "within_1yr_pct": 26.7,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 40.0
+    },
+    {
+      "type": "生活服务",
+      "count": 65.0,
+      "within_1yr_pct": 27.7,
+      "1_3yr_pct": 32.3,
+      "over_3yr_pct": 40.0
+    },
+    {
+      "type": "运动健身",
+      "count": 5.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 60.0,
+      "over_3yr_pct": 20.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 3.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 66.7
+    }
+  ]
+}

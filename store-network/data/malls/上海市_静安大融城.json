@@ -1,0 +1,179 @@
+{
+  "name": "静安大融城",
+  "city": "上海市",
+  "address": "上海市浦东新区金桥镇新金桥商业中心金桥佳邻坊",
+  "lat": 31.26954,
+  "lng": 121.610191,
+  "overview": {
+    "score": 77.0,
+    "score_rank": "市内前50%",
+    "population_score": 79.6,
+    "area_score": 73.8,
+    "consumption_score": 76.1,
+    "industry_score": 77.0,
+    "annual_sales": "金桥佳邻坊位于浦东新区金桥镇中心，紧邻金桥市民文化广场及阳光欧洲城、阳光国际公寓等中高端住宅小区，周边社区成熟，1.5公里范围内拥有成熟社区人口10万人",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 5.0,
+    "open_date": "2016-05-15",
+    "operator": "常州荣盛物业管理有限公司",
+    "brand": "",
+    "type": "综合型",
+    "floors": "B1-L2"
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "-",
+    "annual_daily_rank": "",
+    "jun_total": null,
+    "jun_total_rank": "",
+    "jun_daily_avg": null,
+    "jun_daily_unit": "",
+    "jun_daily_rank": "",
+    "weekday_avg": null,
+    "weekday_unit": "",
+    "weekday_rank": "",
+    "holiday_avg": null,
+    "holiday_unit": "",
+    "holiday_rank": ""
+  },
+  "population": {
+    "residential": {
+      "500m": 1.6,
+      "1_5km": 14.7,
+      "3km": 52.9
+    },
+    "office": {
+      "500m": 8000.0,
+      "1_5km": 7.4,
+      "3km": 34.8
+    },
+    "permanent": {
+      "500m": 1.6,
+      "1_5km": 14.2,
+      "3km": 51.3
+    }
+  },
+  "business": {
+    "competitors": 5.0,
+    "food": 155.0,
+    "shopping": 119.0,
+    "leisure": 12.0,
+    "education": 21.0,
+    "hotel": 6.0,
+    "services": 110.0,
+    "fitness": 15.0,
+    "auto": 8.0,
+    "total_stores": 26.0,
+    "old_store_3yr_pct": 69.0
+  },
+  "nearby_poi": {
+    "business": 3.0,
+    "community": 231.0,
+    "office": 21.0,
+    "school": 22.0,
+    "hospital": 27.0,
+    "transport": 9.0,
+    "scenic": 58.0
+  },
+  "demographics": {
+    "male_pct": 50.2,
+    "female_pct": null,
+    "education": {
+      "小学": 9.0,
+      "初中": 16.6,
+      "高中": 10.9,
+      "大专": 7.7,
+      "本科": 47.3,
+      "硕士": 6.9,
+      "博士": 1.6
+    },
+    "has_children_pct": 60.5,
+    "no_children_pct": 39.5
+  },
+  "scraped_at": "2026-08-01T10:09:32.386Z",
+  "nearby_restaurants": [],
+  "nearby_malls": [
+    {
+      "name": "上海金桥太茂商业广场",
+      "open_date": "2016-09-08",
+      "area": "7.7万㎡",
+      "jun_daily_avg": "2.3万人次",
+      "weekday_avg": "2.1万人次",
+      "holiday_avg": "2.8万人次"
+    },
+    {
+      "name": "上海新紫茂广场",
+      "open_date": "2014-01-01",
+      "area": "1.2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海融创精彩天地(浦兴店)",
+      "open_date": "2019-06-30",
+      "area": "2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 10.0,
+      "within_1yr_pct": 10.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 90.0
+    },
+    {
+      "type": "购物",
+      "count": 4.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 1.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "教育培训",
+      "count": 3.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 66.7,
+      "over_3yr_pct": 33.3
+    },
+    {
+      "type": "酒店住宿",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    },
+    {
+      "type": "生活服务",
+      "count": 4.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 75.0
+    },
+    {
+      "type": "运动健身",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 2.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 50.0
+    }
+  ]
+}

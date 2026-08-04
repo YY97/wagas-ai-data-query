@@ -1,0 +1,407 @@
+{
+  "name": "槐房万达广场",
+  "city": "北京市",
+  "address": "北京市丰台区槐房南路6号院",
+  "lat": 39.814085,
+  "lng": 116.367868,
+  "overview": {
+    "score": 95.6,
+    "score_rank": "市内前30%",
+    "population_score": 85.0,
+    "area_score": 73.4,
+    "consumption_score": 60.0,
+    "industry_score": 95.8,
+    "annual_sales": "13",
+    "annual_sales_unit": "亿元",
+    "area_size_sqm": 18.88,
+    "open_date": "2016-12-22",
+    "operator": "珠海万达商业管理集团股份有限公司",
+    "brand": "万达",
+    "type": "综合型",
+    "floors": "L1-L4"
+  },
+  "traffic": {
+    "annual_daily": 4.59,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第21",
+    "jun_total": 198.7,
+    "jun_total_rank": "市内商场第20名",
+    "jun_daily_avg": 6.6,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第20名",
+    "weekday_avg": 5.7,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第24名",
+    "holiday_avg": 9.1,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第20名"
+  },
+  "population": {
+    "residential": {
+      "500m": 1.8,
+      "1_5km": 8.7,
+      "3km": 33.8
+    },
+    "office": {
+      "500m": 7200.0,
+      "1_5km": 2.6,
+      "3km": 13.5
+    },
+    "permanent": {
+      "500m": 2.0,
+      "1_5km": 8.0,
+      "3km": 31.6
+    }
+  },
+  "business": {
+    "competitors": 6.0,
+    "food": 142.0,
+    "shopping": 118.0,
+    "leisure": 21.0,
+    "education": 18.0,
+    "hotel": 3.0,
+    "services": 64.0,
+    "fitness": 17.0,
+    "auto": 19.0,
+    "total_stores": 333.0,
+    "old_store_3yr_pct": 52.0
+  },
+  "nearby_poi": {
+    "business": 1.0,
+    "community": 147.0,
+    "office": 3.0,
+    "school": 8.0,
+    "hospital": 20.0,
+    "transport": 9.0,
+    "scenic": 90.0
+  },
+  "demographics": {
+    "male_pct": 51.1,
+    "female_pct": null,
+    "education": {
+      "小学": 10.3,
+      "初中": 17.5,
+      "高中": 11.6,
+      "大专": 7.9,
+      "本科": 46.1,
+      "硕士": 5.5,
+      "博士": 1.1
+    },
+    "has_children_pct": 59.6,
+    "no_children_pct": 40.4
+  },
+  "scraped_at": "2026-08-01T04:36:51.498Z",
+  "nearby_restaurants": [
+    {
+      "brand": "刘文祥麻辣烫(槐房万达广场店)",
+      "address": "槐房南路6号万达广场北京槐房店4F层",
+      "distance": "9m"
+    },
+    {
+      "brand": "兰湘子·湘菜小炒(北京槐房万达店)",
+      "address": "北京城区南苑西路39号万达广场槐房店F4",
+      "distance": "10m"
+    },
+    {
+      "brand": "重庆酸辣粉",
+      "address": "槐房南路与任家庄路交叉口西南240米",
+      "distance": "10m"
+    },
+    {
+      "brand": "1点点(槐房万达广场店)",
+      "address": "槐房南路槐房万达3层JY-BX-302",
+      "distance": "13m"
+    },
+    {
+      "brand": "赵记传承·中式甜品(北京槐房万达店)",
+      "address": "北京城区南苑街道槐房南路6号院万达广场四层4016B号商铺",
+      "distance": "13m"
+    },
+    {
+      "brand": "潇湘阁(槐房万达店)",
+      "address": "北京城区槐房西路万达广场4楼4055B",
+      "distance": "13m"
+    },
+    {
+      "brand": "谭三娘鲜切牛肉自助火锅(槐房万达店)",
+      "address": "北京城区槐房南路6号院槐房万达4层4061号",
+      "distance": "13m"
+    },
+    {
+      "brand": "大门凤火锅鸡(北京丰台槐房万达店)",
+      "address": "槐房南路6号万达广场北京槐房店4F层",
+      "distance": "13m"
+    },
+    {
+      "brand": "爆脾气生炸鸡架(槐房万达广场店)",
+      "address": "北京城区槐房南路6号万达广场北京槐房店4F层",
+      "distance": "13m"
+    },
+    {
+      "brand": "MoreYogurt茉酸奶(北京丰台槐房万达店)",
+      "address": "北京城区槐房万达4楼4037A茉酸奶",
+      "distance": "13m"
+    },
+    {
+      "brand": "刘文祥麻辣烫(槐房万达广场店)",
+      "address": "槐房南路6号万达广场北京槐房店4F层",
+      "distance": "9m"
+    },
+    {
+      "brand": "兰湘子·湘菜小炒(北京槐房万达店)",
+      "address": "北京城区南苑西路39号万达广场槐房店F4",
+      "distance": "10m"
+    },
+    {
+      "brand": "重庆酸辣粉",
+      "address": "槐房南路与任家庄路交叉口西南240米",
+      "distance": "10m"
+    },
+    {
+      "brand": "1点点(槐房万达广场店)",
+      "address": "槐房南路槐房万达3层JY-BX-302",
+      "distance": "13m"
+    },
+    {
+      "brand": "赵记传承·中式甜品(北京槐房万达店)",
+      "address": "北京城区南苑街道槐房南路6号院万达广场四层4016B号商铺",
+      "distance": "13m"
+    },
+    {
+      "brand": "潇湘阁(槐房万达店)",
+      "address": "北京城区槐房西路万达广场4楼4055B",
+      "distance": "13m"
+    },
+    {
+      "brand": "谭三娘鲜切牛肉自助火锅(槐房万达店)",
+      "address": "北京城区槐房南路6号院槐房万达4层4061号",
+      "distance": "13m"
+    },
+    {
+      "brand": "大门凤火锅鸡(北京丰台槐房万达店)",
+      "address": "槐房南路6号万达广场北京槐房店4F层",
+      "distance": "13m"
+    },
+    {
+      "brand": "爆脾气生炸鸡架(槐房万达广场店)",
+      "address": "北京城区槐房南路6号万达广场北京槐房店4F层",
+      "distance": "13m"
+    },
+    {
+      "brand": "MoreYogurt茉酸奶(北京丰台槐房万达店)",
+      "address": "北京城区槐房万达4楼4037A茉酸奶",
+      "distance": "13m"
+    },
+    {
+      "brand": "刘文祥麻辣烫(槐房万达广场店)",
+      "address": "槐房南路6号万达广场北京槐房店4F层",
+      "distance": "9m"
+    },
+    {
+      "brand": "兰湘子·湘菜小炒(北京槐房万达店)",
+      "address": "北京城区南苑西路39号万达广场槐房店F4",
+      "distance": "10m"
+    },
+    {
+      "brand": "重庆酸辣粉",
+      "address": "槐房南路与任家庄路交叉口西南240米",
+      "distance": "10m"
+    },
+    {
+      "brand": "1点点(槐房万达广场店)",
+      "address": "槐房南路槐房万达3层JY-BX-302",
+      "distance": "13m"
+    },
+    {
+      "brand": "赵记传承·中式甜品(北京槐房万达店)",
+      "address": "北京城区南苑街道槐房南路6号院万达广场四层4016B号商铺",
+      "distance": "13m"
+    },
+    {
+      "brand": "潇湘阁(槐房万达店)",
+      "address": "北京城区槐房西路万达广场4楼4055B",
+      "distance": "13m"
+    },
+    {
+      "brand": "谭三娘鲜切牛肉自助火锅(槐房万达店)",
+      "address": "北京城区槐房南路6号院槐房万达4层4061号",
+      "distance": "13m"
+    },
+    {
+      "brand": "大门凤火锅鸡(北京丰台槐房万达店)",
+      "address": "槐房南路6号万达广场北京槐房店4F层",
+      "distance": "13m"
+    },
+    {
+      "brand": "爆脾气生炸鸡架(槐房万达广场店)",
+      "address": "北京城区槐房南路6号万达广场北京槐房店4F层",
+      "distance": "13m"
+    },
+    {
+      "brand": "MoreYogurt茉酸奶(北京丰台槐房万达店)",
+      "address": "北京城区槐房万达4楼4037A茉酸奶",
+      "distance": "13m"
+    },
+    {
+      "brand": "刘文祥麻辣烫(槐房万达广场店)",
+      "address": "槐房南路6号万达广场北京槐房店4F层",
+      "distance": "9m"
+    },
+    {
+      "brand": "兰湘子·湘菜小炒(北京槐房万达店)",
+      "address": "北京城区南苑西路39号万达广场槐房店F4",
+      "distance": "10m"
+    },
+    {
+      "brand": "重庆酸辣粉",
+      "address": "槐房南路与任家庄路交叉口西南240米",
+      "distance": "10m"
+    },
+    {
+      "brand": "1点点(槐房万达广场店)",
+      "address": "槐房南路槐房万达3层JY-BX-302",
+      "distance": "13m"
+    },
+    {
+      "brand": "赵记传承·中式甜品(北京槐房万达店)",
+      "address": "北京城区南苑街道槐房南路6号院万达广场四层4016B号商铺",
+      "distance": "13m"
+    },
+    {
+      "brand": "潇湘阁(槐房万达店)",
+      "address": "北京城区槐房西路万达广场4楼4055B",
+      "distance": "13m"
+    },
+    {
+      "brand": "谭三娘鲜切牛肉自助火锅(槐房万达店)",
+      "address": "北京城区槐房南路6号院槐房万达4层4061号",
+      "distance": "13m"
+    },
+    {
+      "brand": "大门凤火锅鸡(北京丰台槐房万达店)",
+      "address": "槐房南路6号万达广场北京槐房店4F层",
+      "distance": "13m"
+    },
+    {
+      "brand": "爆脾气生炸鸡架(槐房万达广场店)",
+      "address": "北京城区槐房南路6号万达广场北京槐房店4F层",
+      "distance": "13m"
+    },
+    {
+      "brand": "MoreYogurt茉酸奶(北京丰台槐房万达店)",
+      "address": "北京城区槐房万达4楼4037A茉酸奶",
+      "distance": "13m"
+    },
+    {
+      "brand": "刘文祥麻辣烫(槐房万达广场店)",
+      "address": "槐房南路6号万达广场北京槐房店4F层",
+      "distance": "9m"
+    },
+    {
+      "brand": "兰湘子·湘菜小炒(北京槐房万达店)",
+      "address": "北京城区南苑西路39号万达广场槐房店F4",
+      "distance": "10m"
+    },
+    {
+      "brand": "重庆酸辣粉",
+      "address": "槐房南路与任家庄路交叉口西南240米",
+      "distance": "10m"
+    },
+    {
+      "brand": "1点点(槐房万达广场店)",
+      "address": "槐房南路槐房万达3层JY-BX-302",
+      "distance": "13m"
+    },
+    {
+      "brand": "赵记传承·中式甜品(北京槐房万达店)",
+      "address": "北京城区南苑街道槐房南路6号院万达广场四层4016B号商铺",
+      "distance": "13m"
+    },
+    {
+      "brand": "潇湘阁(槐房万达店)",
+      "address": "北京城区槐房西路万达广场4楼4055B",
+      "distance": "13m"
+    },
+    {
+      "brand": "谭三娘鲜切牛肉自助火锅(槐房万达店)",
+      "address": "北京城区槐房南路6号院槐房万达4层4061号",
+      "distance": "13m"
+    },
+    {
+      "brand": "大门凤火锅鸡(北京丰台槐房万达店)",
+      "address": "槐房南路6号万达广场北京槐房店4F层",
+      "distance": "13m"
+    },
+    {
+      "brand": "爆脾气生炸鸡架(槐房万达广场店)",
+      "address": "北京城区槐房南路6号万达广场北京槐房店4F层",
+      "distance": "13m"
+    },
+    {
+      "brand": "MoreYogurt茉酸奶(北京丰台槐房万达店)",
+      "address": "北京城区槐房万达4楼4037A茉酸奶",
+      "distance": "13m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "北京丰台大悦春风里",
+      "open_date": "2021-12-01",
+      "area": "5万㎡",
+      "jun_daily_avg": "3.4万人次",
+      "weekday_avg": "3.3万人次",
+      "holiday_avg": "3.8万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 117.0,
+      "within_1yr_pct": 23.1,
+      "1_3yr_pct": 22.2,
+      "over_3yr_pct": 54.7
+    },
+    {
+      "type": "购物",
+      "count": 111.0,
+      "within_1yr_pct": 20.7,
+      "1_3yr_pct": 25.2,
+      "over_3yr_pct": 54.1
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 18.0,
+      "within_1yr_pct": 27.8,
+      "1_3yr_pct": 27.8,
+      "over_3yr_pct": 44.4
+    },
+    {
+      "type": "教育培训",
+      "count": 17.0,
+      "within_1yr_pct": 5.9,
+      "1_3yr_pct": 29.4,
+      "over_3yr_pct": 64.7
+    },
+    {
+      "type": "生活服务",
+      "count": 40.0,
+      "within_1yr_pct": 10.0,
+      "1_3yr_pct": 45.0,
+      "over_3yr_pct": 45.0
+    },
+    {
+      "type": "运动健身",
+      "count": 13.0,
+      "within_1yr_pct": 15.4,
+      "1_3yr_pct": 46.2,
+      "over_3yr_pct": 38.5
+    },
+    {
+      "type": "车辆服务",
+      "count": 17.0,
+      "within_1yr_pct": 35.3,
+      "1_3yr_pct": 29.4,
+      "over_3yr_pct": 35.3
+    }
+  ]
+}

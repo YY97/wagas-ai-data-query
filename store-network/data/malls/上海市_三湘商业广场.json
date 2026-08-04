@@ -1,0 +1,192 @@
+{
+  "name": "三湘商业广场",
+  "city": "上海市",
+  "address": "上海市松江区横港公路37-45号(近泗陈公路)",
+  "lat": 31.117212,
+  "lng": 121.260265,
+  "overview": {
+    "score": 94.6,
+    "score_rank": "市内前30%",
+    "population_score": 86.8,
+    "area_score": 81.6,
+    "consumption_score": 68.6,
+    "industry_score": 94.7,
+    "annual_sales": "三湘商业广场地处上海市松江区泗泾镇，与轨道9号线泗泾站融为一体，汇聚庞大消费人流，地理位置优越。剧场式围合设计，集生活购物、时尚餐饮、休闲娱乐于一体，为区域大型商业广场的开篇之作",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 3.7,
+    "open_date": "2011-05-28",
+    "operator": "上海三湘物业服务有限公司",
+    "brand": "",
+    "type": "美食型",
+    "floors": "L1-L6"
+  },
+  "traffic": {
+    "annual_daily": 2.43,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第116",
+    "jun_total": 106.9,
+    "jun_total_rank": "市内商场第113名",
+    "jun_daily_avg": 3.6,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第113名",
+    "weekday_avg": 3.3,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第111名",
+    "holiday_avg": 4.2,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第110名"
+  },
+  "population": {
+    "residential": {
+      "500m": 2.0,
+      "1_5km": 16.0,
+      "3km": 38.1
+    },
+    "office": {
+      "500m": 1.1,
+      "1_5km": 4.7,
+      "3km": 14.3
+    },
+    "permanent": {
+      "500m": 2.4,
+      "1_5km": 14.4,
+      "3km": 33.4
+    }
+  },
+  "business": {
+    "competitors": 5.0,
+    "food": 314.0,
+    "shopping": 116.0,
+    "leisure": 30.0,
+    "education": 52.0,
+    "hotel": 38.0,
+    "services": 222.0,
+    "fitness": 31.0,
+    "auto": 18.0,
+    "total_stores": 367.0,
+    "old_store_3yr_pct": 51.0
+  },
+  "nearby_poi": {
+    "business": 2.0,
+    "community": 144.0,
+    "office": 1.0,
+    "school": 18.0,
+    "hospital": 15.0,
+    "transport": 10.0,
+    "scenic": 45.0
+  },
+  "demographics": {
+    "male_pct": 50.2,
+    "female_pct": null,
+    "education": {
+      "小学": 8.6,
+      "初中": 16.5,
+      "高中": 10.7,
+      "大专": 9.6,
+      "本科": 48.9,
+      "硕士": 4.8,
+      "博士": 0.9
+    },
+    "has_children_pct": 63.1,
+    "no_children_pct": 36.9
+  },
+  "scraped_at": "2026-08-01T05:33:08.133Z",
+  "nearby_restaurants": [
+    {
+      "brand": "浆小白豆浆夜市(泗泾店)",
+      "address": "泗凤路113号",
+      "distance": "478m"
+    },
+    {
+      "brand": "炭烧部落烧烤",
+      "address": "泗凤公路122-124号",
+      "distance": "478m"
+    },
+    {
+      "brand": "巴比馒头(泗宝路店)",
+      "address": "泗宝路288号1层",
+      "distance": "479m"
+    },
+    {
+      "brand": "沈记老地方·小龙虾·大排档",
+      "address": "金地褐石苑B区南门南50米",
+      "distance": "499m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海松江嘉宏·大橘印象荟",
+      "open_date": "2025-01",
+      "area": "5.6万㎡",
+      "jun_daily_avg": "1.1万人次",
+      "weekday_avg": "1万人次",
+      "holiday_avg": "1.3万人次"
+    },
+    {
+      "name": "上海金地泗泾三角地商业",
+      "open_date": "2023-12-01",
+      "area": "2.8万㎡",
+      "jun_daily_avg": "1.1万人次",
+      "weekday_avg": "1万人次",
+      "holiday_avg": "1.3万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 165.0,
+      "within_1yr_pct": 25.5,
+      "1_3yr_pct": 25.5,
+      "over_3yr_pct": 49.1
+    },
+    {
+      "type": "购物",
+      "count": 49.0,
+      "within_1yr_pct": 14.3,
+      "1_3yr_pct": 10.2,
+      "over_3yr_pct": 75.5
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 11.0,
+      "within_1yr_pct": 45.5,
+      "1_3yr_pct": 18.2,
+      "over_3yr_pct": 36.4
+    },
+    {
+      "type": "教育培训",
+      "count": 12.0,
+      "within_1yr_pct": 16.7,
+      "1_3yr_pct": 16.7,
+      "over_3yr_pct": 66.7
+    },
+    {
+      "type": "酒店住宿",
+      "count": 12.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 41.7,
+      "over_3yr_pct": 33.3
+    },
+    {
+      "type": "生活服务",
+      "count": 109.0,
+      "within_1yr_pct": 30.3,
+      "1_3yr_pct": 22.9,
+      "over_3yr_pct": 46.8
+    },
+    {
+      "type": "运动健身",
+      "count": 6.0,
+      "within_1yr_pct": 16.7,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 33.3
+    },
+    {
+      "type": "车辆服务",
+      "count": 3.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 33.3
+    }
+  ]
+}

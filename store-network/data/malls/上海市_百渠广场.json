@@ -1,0 +1,154 @@
+{
+  "name": "百渠广场",
+  "city": "上海市",
+  "address": "上海市徐汇区徐家汇街道嘉汇国际广场F栋嘉汇国际广场G座",
+  "lat": 31.188767,
+  "lng": 121.443429,
+  "overview": {
+    "score": 87.8,
+    "score_rank": "市内前30%",
+    "population_score": 100.0,
+    "area_score": 94.4,
+    "consumption_score": 86.0,
+    "industry_score": 87.8,
+    "annual_sales": "",
+    "annual_sales_unit": "",
+    "area_size_sqm": null,
+    "open_date": "",
+    "operator": "",
+    "brand": "",
+    "type": "",
+    "floors": ""
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "",
+    "annual_daily_rank": "",
+    "jun_total": null,
+    "jun_total_rank": "",
+    "jun_daily_avg": null,
+    "jun_daily_unit": "",
+    "jun_daily_rank": "",
+    "weekday_avg": null,
+    "weekday_unit": "",
+    "weekday_rank": "",
+    "holiday_avg": null,
+    "holiday_unit": "",
+    "holiday_rank": ""
+  },
+  "population": {
+    "residential": {
+      "500m": 4.3,
+      "1_5km": 26.1,
+      "3km": 92.2
+    },
+    "office": {
+      "500m": 3.2,
+      "1_5km": 26.9,
+      "3km": 78.4
+    },
+    "permanent": {
+      "500m": 4.3,
+      "1_5km": 31.1,
+      "3km": 101.8
+    }
+  },
+  "business": {
+    "competitors": 10.0,
+    "food": 358.0,
+    "shopping": 193.0,
+    "leisure": 43.0,
+    "education": 98.0,
+    "hotel": 92.0,
+    "services": 335.0,
+    "fitness": 45.0,
+    "auto": 25.0,
+    "total_stores": 1199.0,
+    "old_store_3yr_pct": 50.0
+  },
+  "nearby_poi": {
+    "business": 18.0,
+    "community": 993.0,
+    "office": 144.0,
+    "school": 65.0,
+    "hospital": 140.0,
+    "transport": 13.0,
+    "scenic": 356.0
+  },
+  "demographics": {
+    "male_pct": 47.5,
+    "female_pct": null,
+    "education": {
+      "小学": 8.1,
+      "初中": 15.5,
+      "高中": 11.6,
+      "大专": 6.6,
+      "本科": 49.4,
+      "硕士": 6.7,
+      "博士": 2.1
+    },
+    "has_children_pct": null,
+    "no_children_pct": null
+  },
+  "scraped_at": "2026-08-01T07:23:42.705Z",
+  "nearby_restaurants": [],
+  "nearby_malls": [],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 358.0,
+      "within_1yr_pct": 22.9,
+      "1_3yr_pct": 25.4,
+      "over_3yr_pct": 51.7
+    },
+    {
+      "type": "购物",
+      "count": 193.0,
+      "within_1yr_pct": 24.4,
+      "1_3yr_pct": 21.8,
+      "over_3yr_pct": 53.9
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 53.0,
+      "within_1yr_pct": 22.6,
+      "1_3yr_pct": 30.2,
+      "over_3yr_pct": 47.2
+    },
+    {
+      "type": "教育培训",
+      "count": 98.0,
+      "within_1yr_pct": 18.4,
+      "1_3yr_pct": 31.6,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 92.0,
+      "within_1yr_pct": 35.9,
+      "1_3yr_pct": 16.3,
+      "over_3yr_pct": 47.8
+    },
+    {
+      "type": "生活服务",
+      "count": 335.0,
+      "within_1yr_pct": 26.9,
+      "1_3yr_pct": 28.1,
+      "over_3yr_pct": 45.1
+    },
+    {
+      "type": "运动健身",
+      "count": 45.0,
+      "within_1yr_pct": 24.4,
+      "1_3yr_pct": 22.2,
+      "over_3yr_pct": 53.3
+    },
+    {
+      "type": "车辆服务",
+      "count": 25.0,
+      "within_1yr_pct": 24.0,
+      "1_3yr_pct": 20.0,
+      "over_3yr_pct": 56.0
+    }
+  ]
+}

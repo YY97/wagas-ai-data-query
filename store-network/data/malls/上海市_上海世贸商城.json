@@ -1,0 +1,486 @@
+{
+  "name": "上海世贸商城",
+  "city": "上海市",
+  "address": "上海市长宁区静安区南京西路1376号",
+  "lat": 31.22681,
+  "lng": 121.451874,
+  "overview": {
+    "score": 86.5,
+    "score_rank": "市内前30%",
+    "population_score": 67.9,
+    "area_score": 76.2,
+    "consumption_score": 81.0,
+    "industry_score": 86.7,
+    "annual_sales": "上海世贸商城总建筑面积28万平方米，由常年展示（Mart）、会展服务（Expo）、商务办公（Tower）三大主力业务板块构成，成为聚焦时尚产业的全球贸易专业服务平台。目前已有来自20多个国家和地区的国际品牌企业、领馆机构、与时尚产业相关的贸易、服务等近千家企业入驻",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 19.0,
+    "open_date": "1999-01-01",
+    "operator": "南丰集团",
+    "brand": "",
+    "type": "综合型",
+    "floors": ""
+  },
+  "traffic": {
+    "annual_daily": 8959.0,
+    "annual_daily_unit": "人次",
+    "annual_daily_rank": "市内第275",
+    "jun_total": 28.7,
+    "jun_total_rank": "市内商场第318名",
+    "jun_daily_avg": 9552.0,
+    "jun_daily_unit": "人次",
+    "jun_daily_rank": "市内商场第318名",
+    "weekday_avg": 1.1,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第279名",
+    "holiday_avg": 6186.0,
+    "holiday_unit": "人次",
+    "holiday_rank": "市内商场第408名"
+  },
+  "population": {
+    "residential": {
+      "500m": 6000.0,
+      "1_5km": 20.3,
+      "3km": 76.7
+    },
+    "office": {
+      "500m": 3.1,
+      "1_5km": 19.1,
+      "3km": 63.7
+    },
+    "permanent": {
+      "500m": 1.1,
+      "1_5km": 22.9,
+      "3km": 82.7
+    }
+  },
+  "business": {
+    "competitors": 5.0,
+    "food": 191.0,
+    "shopping": 68.0,
+    "leisure": 6.0,
+    "education": 12.0,
+    "hotel": 14.0,
+    "services": 43.0,
+    "fitness": 15.0,
+    "auto": 26.0,
+    "total_stores": 68.0,
+    "old_store_3yr_pct": 53.0
+  },
+  "nearby_poi": {
+    "business": 10.0,
+    "community": 765.0,
+    "office": 93.0,
+    "school": 58.0,
+    "hospital": 135.0,
+    "transport": 11.0,
+    "scenic": 276.0
+  },
+  "demographics": {
+    "male_pct": 47.6,
+    "female_pct": null,
+    "education": {
+      "小学": 8.8,
+      "初中": 17.1,
+      "高中": 11.7,
+      "大专": 6.7,
+      "本科": 48.4,
+      "硕士": 5.4,
+      "博士": 1.9
+    },
+    "has_children_pct": 56.6,
+    "no_children_pct": 43.4
+  },
+  "scraped_at": "2026-07-31T15:17:45.031Z",
+  "nearby_restaurants": [
+    {
+      "brand": "有方一杯(世贸商城店)",
+      "address": "世贸商城2层02B62",
+      "distance": "12m"
+    },
+    {
+      "brand": "BeanStar比星咖啡(上海世贸商城店)",
+      "address": "延安西路2299号世贸商城02B77号商铺",
+      "distance": "32m"
+    },
+    {
+      "brand": "谷田稻香(上海世贸商城店)",
+      "address": "延安西路2299号上海世贸商城F2层",
+      "distance": "32m"
+    },
+    {
+      "brand": "吉耕厨房",
+      "address": "延安西路2299号上海世贸商城",
+      "distance": "34m"
+    },
+    {
+      "brand": "赛百味(世贸商城店)",
+      "address": "延安西路2299号世贸城商城2层B79室",
+      "distance": "36m"
+    },
+    {
+      "brand": "小莳麻辣烫·麻辣拌(延安西路店)",
+      "address": "延安西路2299号上海世贸商城F2层",
+      "distance": "43m"
+    },
+    {
+      "brand": "星巴克(世贸商城店)",
+      "address": "延安西路2299号世贸商城2层(近地铁10号线伊犁路站)",
+      "distance": "45m"
+    },
+    {
+      "brand": "颜无界(上海世贸商城店)",
+      "address": "延安西路2299号上海世贸商城F2层",
+      "distance": "58m"
+    },
+    {
+      "brand": "南粤小厨(延安西路店)",
+      "address": "延安西路2299号上海世贸商城F2层",
+      "distance": "61m"
+    },
+    {
+      "brand": "星迈咖啡(上海世贸商城店)",
+      "address": "延安西路2299号上海世贸商城",
+      "distance": "62m"
+    },
+    {
+      "brand": "有方一杯(世贸商城店)",
+      "address": "世贸商城2层02B62",
+      "distance": "12m"
+    },
+    {
+      "brand": "BeanStar比星咖啡(上海世贸商城店)",
+      "address": "延安西路2299号世贸商城02B77号商铺",
+      "distance": "32m"
+    },
+    {
+      "brand": "谷田稻香(上海世贸商城店)",
+      "address": "延安西路2299号上海世贸商城F2层",
+      "distance": "32m"
+    },
+    {
+      "brand": "吉耕厨房",
+      "address": "延安西路2299号上海世贸商城",
+      "distance": "34m"
+    },
+    {
+      "brand": "赛百味(世贸商城店)",
+      "address": "延安西路2299号世贸城商城2层B79室",
+      "distance": "36m"
+    },
+    {
+      "brand": "小莳麻辣烫·麻辣拌(延安西路店)",
+      "address": "延安西路2299号上海世贸商城F2层",
+      "distance": "43m"
+    },
+    {
+      "brand": "星巴克(世贸商城店)",
+      "address": "延安西路2299号世贸商城2层(近地铁10号线伊犁路站)",
+      "distance": "45m"
+    },
+    {
+      "brand": "颜无界(上海世贸商城店)",
+      "address": "延安西路2299号上海世贸商城F2层",
+      "distance": "58m"
+    },
+    {
+      "brand": "南粤小厨(延安西路店)",
+      "address": "延安西路2299号上海世贸商城F2层",
+      "distance": "61m"
+    },
+    {
+      "brand": "星迈咖啡(上海世贸商城店)",
+      "address": "延安西路2299号上海世贸商城",
+      "distance": "62m"
+    },
+    {
+      "brand": "有方一杯(世贸商城店)",
+      "address": "世贸商城2层02B62",
+      "distance": "12m"
+    },
+    {
+      "brand": "BeanStar比星咖啡(上海世贸商城店)",
+      "address": "延安西路2299号世贸商城02B77号商铺",
+      "distance": "32m"
+    },
+    {
+      "brand": "谷田稻香(上海世贸商城店)",
+      "address": "延安西路2299号上海世贸商城F2层",
+      "distance": "32m"
+    },
+    {
+      "brand": "吉耕厨房",
+      "address": "延安西路2299号上海世贸商城",
+      "distance": "34m"
+    },
+    {
+      "brand": "赛百味(世贸商城店)",
+      "address": "延安西路2299号世贸城商城2层B79室",
+      "distance": "36m"
+    },
+    {
+      "brand": "小莳麻辣烫·麻辣拌(延安西路店)",
+      "address": "延安西路2299号上海世贸商城F2层",
+      "distance": "43m"
+    },
+    {
+      "brand": "星巴克(世贸商城店)",
+      "address": "延安西路2299号世贸商城2层(近地铁10号线伊犁路站)",
+      "distance": "45m"
+    },
+    {
+      "brand": "颜无界(上海世贸商城店)",
+      "address": "延安西路2299号上海世贸商城F2层",
+      "distance": "58m"
+    },
+    {
+      "brand": "南粤小厨(延安西路店)",
+      "address": "延安西路2299号上海世贸商城F2层",
+      "distance": "61m"
+    },
+    {
+      "brand": "星迈咖啡(上海世贸商城店)",
+      "address": "延安西路2299号上海世贸商城",
+      "distance": "62m"
+    },
+    {
+      "brand": "有方一杯(世贸商城店)",
+      "address": "世贸商城2层02B62",
+      "distance": "12m"
+    },
+    {
+      "brand": "BeanStar比星咖啡(上海世贸商城店)",
+      "address": "延安西路2299号世贸商城02B77号商铺",
+      "distance": "32m"
+    },
+    {
+      "brand": "谷田稻香(上海世贸商城店)",
+      "address": "延安西路2299号上海世贸商城F2层",
+      "distance": "32m"
+    },
+    {
+      "brand": "吉耕厨房",
+      "address": "延安西路2299号上海世贸商城",
+      "distance": "34m"
+    },
+    {
+      "brand": "赛百味(世贸商城店)",
+      "address": "延安西路2299号世贸城商城2层B79室",
+      "distance": "36m"
+    },
+    {
+      "brand": "小莳麻辣烫·麻辣拌(延安西路店)",
+      "address": "延安西路2299号上海世贸商城F2层",
+      "distance": "43m"
+    },
+    {
+      "brand": "星巴克(世贸商城店)",
+      "address": "延安西路2299号世贸商城2层(近地铁10号线伊犁路站)",
+      "distance": "45m"
+    },
+    {
+      "brand": "颜无界(上海世贸商城店)",
+      "address": "延安西路2299号上海世贸商城F2层",
+      "distance": "58m"
+    },
+    {
+      "brand": "南粤小厨(延安西路店)",
+      "address": "延安西路2299号上海世贸商城F2层",
+      "distance": "61m"
+    },
+    {
+      "brand": "星迈咖啡(上海世贸商城店)",
+      "address": "延安西路2299号上海世贸商城",
+      "distance": "62m"
+    },
+    {
+      "brand": "有方一杯(世贸商城店)",
+      "address": "世贸商城2层02B62",
+      "distance": "12m"
+    },
+    {
+      "brand": "BeanStar比星咖啡(上海世贸商城店)",
+      "address": "延安西路2299号世贸商城02B77号商铺",
+      "distance": "32m"
+    },
+    {
+      "brand": "谷田稻香(上海世贸商城店)",
+      "address": "延安西路2299号上海世贸商城F2层",
+      "distance": "32m"
+    },
+    {
+      "brand": "吉耕厨房",
+      "address": "延安西路2299号上海世贸商城",
+      "distance": "34m"
+    },
+    {
+      "brand": "赛百味(世贸商城店)",
+      "address": "延安西路2299号世贸城商城2层B79室",
+      "distance": "36m"
+    },
+    {
+      "brand": "小莳麻辣烫·麻辣拌(延安西路店)",
+      "address": "延安西路2299号上海世贸商城F2层",
+      "distance": "43m"
+    },
+    {
+      "brand": "星巴克(世贸商城店)",
+      "address": "延安西路2299号世贸商城2层(近地铁10号线伊犁路站)",
+      "distance": "45m"
+    },
+    {
+      "brand": "颜无界(上海世贸商城店)",
+      "address": "延安西路2299号上海世贸商城F2层",
+      "distance": "58m"
+    },
+    {
+      "brand": "南粤小厨(延安西路店)",
+      "address": "延安西路2299号上海世贸商城F2层",
+      "distance": "61m"
+    },
+    {
+      "brand": "星迈咖啡(上海世贸商城店)",
+      "address": "延安西路2299号上海世贸商城",
+      "distance": "62m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海高岛屋百货",
+      "open_date": "2012-12-01",
+      "area": "6.7万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海尚嘉中心",
+      "open_date": "2013-06-01",
+      "area": "4.9万㎡",
+      "jun_daily_avg": "1.6万人次",
+      "weekday_avg": "1.7万人次",
+      "holiday_avg": "1.3万人次"
+    },
+    {
+      "name": "上海金虹桥商场",
+      "open_date": "2014-09-26",
+      "area": "8.3万㎡",
+      "jun_daily_avg": "4.6万人次",
+      "weekday_avg": "4.6万人次",
+      "holiday_avg": "4.5万人次"
+    },
+    {
+      "name": "上海星空广场",
+      "open_date": "2015-09-27",
+      "area": "6.5万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海虹桥南丰城",
+      "open_date": "2014-12-19",
+      "area": "11万㎡",
+      "jun_daily_avg": "5.6万人次",
+      "weekday_avg": "5.5万人次",
+      "holiday_avg": "6万人次"
+    },
+    {
+      "name": "六月汇广场",
+      "open_date": "2022-10-10",
+      "area": "2.4万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海百盛优客城市广场",
+      "open_date": "2015-12-19",
+      "area": "5万㎡",
+      "jun_daily_avg": "3万人次",
+      "weekday_avg": "2.7万人次",
+      "holiday_avg": "3.6万人次"
+    },
+    {
+      "name": "上海巴黎春天(天山店)",
+      "open_date": "2013-01-01",
+      "area": "4.3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海汇金百货(虹桥店)",
+      "open_date": "2008-12-01",
+      "area": "4万㎡",
+      "jun_daily_avg": "1.3万人次",
+      "weekday_avg": "1.2万人次",
+      "holiday_avg": "1.5万人次"
+    },
+    {
+      "name": "上海古北1699",
+      "open_date": "2016-01-01",
+      "area": "2.6万㎡",
+      "jun_daily_avg": "1.6万人次",
+      "weekday_avg": "1.7万人次",
+      "holiday_avg": "1.6万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 19.0,
+      "within_1yr_pct": 26.3,
+      "1_3yr_pct": 10.5,
+      "over_3yr_pct": 63.2
+    },
+    {
+      "type": "购物",
+      "count": 30.0,
+      "within_1yr_pct": 16.7,
+      "1_3yr_pct": 16.7,
+      "over_3yr_pct": 66.7
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 1.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "教育培训",
+      "count": 2.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "生活服务",
+      "count": 6.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 33.3
+    },
+    {
+      "type": "运动健身",
+      "count": 4.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 4.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 0.0
+    }
+  ]
+}

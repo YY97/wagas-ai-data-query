@@ -1,0 +1,472 @@
+{
+  "name": "北京国雅大厦",
+  "city": "北京市",
+  "address": "北京市朝阳区雅宝路1号",
+  "lat": 39.916199,
+  "lng": 116.440391,
+  "overview": {
+    "score": 85.9,
+    "score_rank": "市内前30%",
+    "population_score": 89.5,
+    "area_score": 90.4,
+    "consumption_score": 78.5,
+    "industry_score": 85.9,
+    "annual_sales": "国雅大厦位于北京市朝阳区雅宝路1号，雅宝路商圈繁华地段，整体定位于中高端服饰批发，以专业化、品牌化、信息化、网络化面向国际市场。国雅大厦占地10000平方米，建筑面积5.7万平方米，拥有800多平米豪华中厅、电动扶梯、中央空调、自动消防、电子商务等配套的现代化设施",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 2.85,
+    "open_date": "2007-09-01",
+    "operator": "北京创业公社产业运营管理股份有限公司",
+    "brand": "",
+    "type": "购物型",
+    "floors": "B1-L6"
+  },
+  "traffic": {
+    "annual_daily": 8356.0,
+    "annual_daily_unit": "人次",
+    "annual_daily_rank": "市内第233",
+    "jun_total": 23.6,
+    "jun_total_rank": "市内商场第264名",
+    "jun_daily_avg": 7864.0,
+    "jun_daily_unit": "人次",
+    "jun_daily_rank": "市内商场第264名",
+    "weekday_avg": 8237.0,
+    "weekday_unit": "人次",
+    "weekday_rank": "市内商场第259名",
+    "holiday_avg": 6837.0,
+    "holiday_unit": "人次",
+    "holiday_rank": "市内商场第279名"
+  },
+  "population": {
+    "residential": {
+      "500m": 2.1,
+      "1_5km": 18.0,
+      "3km": 75.2
+    },
+    "office": {
+      "500m": 2.6,
+      "1_5km": 27.5,
+      "3km": 92.7
+    },
+    "permanent": {
+      "500m": 2.4,
+      "1_5km": 21.4,
+      "3km": 90.2
+    }
+  },
+  "business": {
+    "competitors": 5.0,
+    "food": 312.0,
+    "shopping": 217.0,
+    "leisure": 29.0,
+    "education": 16.0,
+    "hotel": 70.0,
+    "services": 107.0,
+    "fitness": 14.0,
+    "auto": 14.0,
+    "total_stores": 54.0,
+    "old_store_3yr_pct": 48.0
+  },
+  "nearby_poi": {
+    "business": 16.0,
+    "community": 455.0,
+    "office": 163.0,
+    "school": 40.0,
+    "hospital": 182.0,
+    "transport": 5.0,
+    "scenic": 382.0
+  },
+  "demographics": {
+    "male_pct": 48.0,
+    "female_pct": null,
+    "education": {
+      "小学": 9.7,
+      "初中": 17.0,
+      "高中": 10.9,
+      "大专": 6.7,
+      "本科": 47.3,
+      "硕士": 6.7,
+      "博士": 1.7
+    },
+    "has_children_pct": 56.8,
+    "no_children_pct": 43.2
+  },
+  "scraped_at": "2026-07-31T18:41:03.801Z",
+  "nearby_restaurants": [
+    {
+      "brand": "吉祥馄饨(北京朝阳儿研所店)",
+      "address": "北京城区雅宝路1号B1层B005B",
+      "distance": "4m"
+    },
+    {
+      "brand": "余饱饱·面馆(国雅大厦店)",
+      "address": "雅宝路1号国雅大厦B1层",
+      "distance": "5m"
+    },
+    {
+      "brand": "茶百道(北京朝阳日坛店)",
+      "address": "北京城区北京城区雅宝路1号国雅大厦负B1层B039",
+      "distance": "5m"
+    },
+    {
+      "brand": "喜家德饺子酒馆(日坛路国雅大厦店)",
+      "address": "北京城区雅宝路1号国雅大厦一层1005、1006商铺",
+      "distance": "5m"
+    },
+    {
+      "brand": "云南甩碗米线(国雅大厦店)",
+      "address": "雅宝路1号国雅大厦B1层",
+      "distance": "26m"
+    },
+    {
+      "brand": "肯德基(日坛路店)",
+      "address": "北京城区雅宝路1号国雅大厦1层1001及B1层B1-001号",
+      "distance": "33m"
+    },
+    {
+      "brand": "库迪咖啡(国雅大厦店)",
+      "address": "雅宝路1号1层1007B房",
+      "distance": "34m"
+    },
+    {
+      "brand": "马克西姆面包坊(日坛店)",
+      "address": "北京城区雅宝路1号1层1023A",
+      "distance": "34m"
+    },
+    {
+      "brand": "兰芳园丝袜奶茶(国雅大厦店)",
+      "address": "雅宝路1号国雅大厦F1层",
+      "distance": "34m"
+    },
+    {
+      "brand": "永和大王(雅宝路)",
+      "address": "朝外街道雅宝路1号国雅大厦B1层B002号",
+      "distance": "36m"
+    },
+    {
+      "brand": "吉祥馄饨(北京朝阳儿研所店)",
+      "address": "北京城区雅宝路1号B1层B005B",
+      "distance": "4m"
+    },
+    {
+      "brand": "余饱饱·面馆(国雅大厦店)",
+      "address": "雅宝路1号国雅大厦B1层",
+      "distance": "5m"
+    },
+    {
+      "brand": "茶百道(北京朝阳日坛店)",
+      "address": "北京城区北京城区雅宝路1号国雅大厦负B1层B039",
+      "distance": "5m"
+    },
+    {
+      "brand": "喜家德饺子酒馆(日坛路国雅大厦店)",
+      "address": "北京城区雅宝路1号国雅大厦一层1005、1006商铺",
+      "distance": "5m"
+    },
+    {
+      "brand": "云南甩碗米线(国雅大厦店)",
+      "address": "雅宝路1号国雅大厦B1层",
+      "distance": "26m"
+    },
+    {
+      "brand": "肯德基(日坛路店)",
+      "address": "北京城区雅宝路1号国雅大厦1层1001及B1层B1-001号",
+      "distance": "33m"
+    },
+    {
+      "brand": "库迪咖啡(国雅大厦店)",
+      "address": "雅宝路1号1层1007B房",
+      "distance": "34m"
+    },
+    {
+      "brand": "马克西姆面包坊(日坛店)",
+      "address": "北京城区雅宝路1号1层1023A",
+      "distance": "34m"
+    },
+    {
+      "brand": "兰芳园丝袜奶茶(国雅大厦店)",
+      "address": "雅宝路1号国雅大厦F1层",
+      "distance": "34m"
+    },
+    {
+      "brand": "永和大王(雅宝路)",
+      "address": "朝外街道雅宝路1号国雅大厦B1层B002号",
+      "distance": "36m"
+    },
+    {
+      "brand": "吉祥馄饨(北京朝阳儿研所店)",
+      "address": "北京城区雅宝路1号B1层B005B",
+      "distance": "4m"
+    },
+    {
+      "brand": "余饱饱·面馆(国雅大厦店)",
+      "address": "雅宝路1号国雅大厦B1层",
+      "distance": "5m"
+    },
+    {
+      "brand": "茶百道(北京朝阳日坛店)",
+      "address": "北京城区北京城区雅宝路1号国雅大厦负B1层B039",
+      "distance": "5m"
+    },
+    {
+      "brand": "喜家德饺子酒馆(日坛路国雅大厦店)",
+      "address": "北京城区雅宝路1号国雅大厦一层1005、1006商铺",
+      "distance": "5m"
+    },
+    {
+      "brand": "云南甩碗米线(国雅大厦店)",
+      "address": "雅宝路1号国雅大厦B1层",
+      "distance": "26m"
+    },
+    {
+      "brand": "肯德基(日坛路店)",
+      "address": "北京城区雅宝路1号国雅大厦1层1001及B1层B1-001号",
+      "distance": "33m"
+    },
+    {
+      "brand": "库迪咖啡(国雅大厦店)",
+      "address": "雅宝路1号1层1007B房",
+      "distance": "34m"
+    },
+    {
+      "brand": "马克西姆面包坊(日坛店)",
+      "address": "北京城区雅宝路1号1层1023A",
+      "distance": "34m"
+    },
+    {
+      "brand": "兰芳园丝袜奶茶(国雅大厦店)",
+      "address": "雅宝路1号国雅大厦F1层",
+      "distance": "34m"
+    },
+    {
+      "brand": "永和大王(雅宝路)",
+      "address": "朝外街道雅宝路1号国雅大厦B1层B002号",
+      "distance": "36m"
+    },
+    {
+      "brand": "吉祥馄饨(北京朝阳儿研所店)",
+      "address": "北京城区雅宝路1号B1层B005B",
+      "distance": "4m"
+    },
+    {
+      "brand": "余饱饱·面馆(国雅大厦店)",
+      "address": "雅宝路1号国雅大厦B1层",
+      "distance": "5m"
+    },
+    {
+      "brand": "茶百道(北京朝阳日坛店)",
+      "address": "北京城区北京城区雅宝路1号国雅大厦负B1层B039",
+      "distance": "5m"
+    },
+    {
+      "brand": "喜家德饺子酒馆(日坛路国雅大厦店)",
+      "address": "北京城区雅宝路1号国雅大厦一层1005、1006商铺",
+      "distance": "5m"
+    },
+    {
+      "brand": "云南甩碗米线(国雅大厦店)",
+      "address": "雅宝路1号国雅大厦B1层",
+      "distance": "26m"
+    },
+    {
+      "brand": "肯德基(日坛路店)",
+      "address": "北京城区雅宝路1号国雅大厦1层1001及B1层B1-001号",
+      "distance": "33m"
+    },
+    {
+      "brand": "库迪咖啡(国雅大厦店)",
+      "address": "雅宝路1号1层1007B房",
+      "distance": "34m"
+    },
+    {
+      "brand": "马克西姆面包坊(日坛店)",
+      "address": "北京城区雅宝路1号1层1023A",
+      "distance": "34m"
+    },
+    {
+      "brand": "兰芳园丝袜奶茶(国雅大厦店)",
+      "address": "雅宝路1号国雅大厦F1层",
+      "distance": "34m"
+    },
+    {
+      "brand": "永和大王(雅宝路)",
+      "address": "朝外街道雅宝路1号国雅大厦B1层B002号",
+      "distance": "36m"
+    },
+    {
+      "brand": "吉祥馄饨(北京朝阳儿研所店)",
+      "address": "北京城区雅宝路1号B1层B005B",
+      "distance": "4m"
+    },
+    {
+      "brand": "余饱饱·面馆(国雅大厦店)",
+      "address": "雅宝路1号国雅大厦B1层",
+      "distance": "5m"
+    },
+    {
+      "brand": "茶百道(北京朝阳日坛店)",
+      "address": "北京城区北京城区雅宝路1号国雅大厦负B1层B039",
+      "distance": "5m"
+    },
+    {
+      "brand": "喜家德饺子酒馆(日坛路国雅大厦店)",
+      "address": "北京城区雅宝路1号国雅大厦一层1005、1006商铺",
+      "distance": "5m"
+    },
+    {
+      "brand": "云南甩碗米线(国雅大厦店)",
+      "address": "雅宝路1号国雅大厦B1层",
+      "distance": "26m"
+    },
+    {
+      "brand": "肯德基(日坛路店)",
+      "address": "北京城区雅宝路1号国雅大厦1层1001及B1层B1-001号",
+      "distance": "33m"
+    },
+    {
+      "brand": "库迪咖啡(国雅大厦店)",
+      "address": "雅宝路1号1层1007B房",
+      "distance": "34m"
+    },
+    {
+      "brand": "马克西姆面包坊(日坛店)",
+      "address": "北京城区雅宝路1号1层1023A",
+      "distance": "34m"
+    },
+    {
+      "brand": "兰芳园丝袜奶茶(国雅大厦店)",
+      "address": "雅宝路1号国雅大厦F1层",
+      "distance": "34m"
+    },
+    {
+      "brand": "永和大王(雅宝路)",
+      "address": "朝外街道雅宝路1号国雅大厦B1层B002号",
+      "distance": "36m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "北京悠唐购物中心",
+      "open_date": "2009-04-01",
+      "area": "12万㎡",
+      "jun_daily_avg": "6.5万人次",
+      "weekday_avg": "6.4万人次",
+      "holiday_avg": "6.7万人次"
+    },
+    {
+      "name": "北京银河SOHO",
+      "open_date": "2012-12-01",
+      "area": "8.6万㎡",
+      "jun_daily_avg": "2.4万人次",
+      "weekday_avg": "2.6万人次",
+      "holiday_avg": "1.8万人次"
+    },
+    {
+      "name": "北京侨福芳草地",
+      "open_date": "2012-09-01",
+      "area": "4.7万㎡",
+      "jun_daily_avg": "2.3万人次",
+      "weekday_avg": "2.4万人次",
+      "holiday_avg": "2.2万人次"
+    },
+    {
+      "name": "北京THE BOX 朝外｜年轻力中心",
+      "open_date": "2023-06-10",
+      "area": "1.8万㎡",
+      "jun_daily_avg": "1.9万人次",
+      "weekday_avg": "1.6万人次",
+      "holiday_avg": "2.9万人次"
+    },
+    {
+      "name": "北京丰联广场",
+      "open_date": "1997-01-01",
+      "area": "1.6万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "北京赛特碧乐城",
+      "open_date": "2023-12-02",
+      "area": "2.8万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "北京世贸天阶",
+      "open_date": "2007-09-15",
+      "area": "8万㎡",
+      "jun_daily_avg": "2.2万人次",
+      "weekday_avg": "2.4万人次",
+      "holiday_avg": "1.9万人次"
+    },
+    {
+      "name": "北京蓝岛大厦金隅百货",
+      "open_date": "2007-01-27",
+      "area": "1.6万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "北京CBD中骏世界城",
+      "open_date": "2009-12-01",
+      "area": "3万㎡",
+      "jun_daily_avg": "2.4万人次",
+      "weekday_avg": "2.4万人次",
+      "holiday_avg": "2.4万人次"
+    },
+    {
+      "name": "北京秀水街大厦",
+      "open_date": "2005-03-19",
+      "area": "2.8万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 20.0,
+      "within_1yr_pct": 5.0,
+      "1_3yr_pct": 45.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "购物",
+      "count": 28.0,
+      "within_1yr_pct": 17.9,
+      "1_3yr_pct": 32.1,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    },
+    {
+      "type": "教育培训",
+      "count": 1.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "生活服务",
+      "count": 2.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 2.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 50.0
+    }
+  ]
+}

@@ -1,0 +1,454 @@
+{
+  "name": "龙湖郦城公馆",
+  "city": "杭州市",
+  "address": "浙江省杭州市滨江区江南大道151滨江",
+  "lat": 30.200709,
+  "lng": 120.185414,
+  "overview": {
+    "score": 96.6,
+    "score_rank": "市内前30%",
+    "population_score": 94.1,
+    "area_score": 94.6,
+    "consumption_score": 89.6,
+    "industry_score": 96.6,
+    "annual_sales": "50",
+    "annual_sales_unit": "亿元",
+    "area_size_sqm": 18.0,
+    "open_date": "2017-09-23",
+    "operator": "龙湖集团控股有限公司",
+    "brand": "龙湖",
+    "type": "美食型",
+    "floors": "B1-L7"
+  },
+  "traffic": {
+    "annual_daily": 5.86,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第5",
+    "jun_total": 216.5,
+    "jun_total_rank": "市内商场第9名",
+    "jun_daily_avg": 7.2,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第9名",
+    "weekday_avg": 6.4,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第11名",
+    "holiday_avg": 9.5,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第9名"
+  },
+  "population": {
+    "residential": {
+      "500m": 1.9,
+      "1_5km": 11.8,
+      "3km": 33.2
+    },
+    "office": {
+      "500m": 1.3,
+      "1_5km": 9.8,
+      "3km": 37.7
+    },
+    "permanent": {
+      "500m": 2.2,
+      "1_5km": 11.7,
+      "3km": 32.5
+    }
+  },
+  "business": {
+    "competitors": 7.0,
+    "food": 385.0,
+    "shopping": 378.0,
+    "leisure": 46.0,
+    "education": 40.0,
+    "hotel": 46.0,
+    "services": 348.0,
+    "fitness": 26.0,
+    "auto": 18.0,
+    "total_stores": 703.0,
+    "old_store_3yr_pct": 40.0
+  },
+  "nearby_poi": {
+    "business": 6.0,
+    "community": 157.0,
+    "office": 73.0,
+    "school": 24.0,
+    "hospital": 37.0,
+    "transport": 16.0,
+    "scenic": 93.0
+  },
+  "demographics": {
+    "male_pct": 47.9,
+    "female_pct": null,
+    "education": {
+      "小学": 6.8,
+      "初中": 12.9,
+      "高中": 10.8,
+      "大专": 10.2,
+      "本科": 50.5,
+      "硕士": 7.9,
+      "博士": 0.9
+    },
+    "has_children_pct": 58.1,
+    "no_children_pct": 41.9
+  },
+  "scraped_at": "2026-07-31T13:34:01.641Z",
+  "nearby_restaurants": [
+    {
+      "brand": "白熊贝尔·冰淇淋(龙湖杭州滨江天街店)",
+      "address": "江汉路1515号龙湖滨江天街5层C14",
+      "distance": "5m"
+    },
+    {
+      "brand": "古早万丹传统台湾糕点(龙湖杭州滨江天街店)",
+      "address": "江汉路1515号龙湖杭州滨江天街B1层",
+      "distance": "10m"
+    },
+    {
+      "brand": "杨国福麻辣烫(滨江天街店)",
+      "address": "龙湖天街B1层永辉超市口(江汉路地铁站D口步行90米)",
+      "distance": "11m"
+    },
+    {
+      "brand": "煲珠公·老红糖珍珠奶茶(杭州滨江龙湖天街店)",
+      "address": "江汉路1515号龙湖杭州滨江天街5F",
+      "distance": "11m"
+    },
+    {
+      "brand": "和和老面",
+      "address": "江南大道与江汉路交叉口南160米",
+      "distance": "11m"
+    },
+    {
+      "brand": "ENRUINI(龙湖杭州滨江天街店)",
+      "address": "江南大道与江汉路交叉口南160米",
+      "distance": "20m"
+    },
+    {
+      "brand": "连杏双皮奶(龙湖杭州滨江天街店)",
+      "address": "江汉路1515号龙湖杭州滨江天街B1层",
+      "distance": "20m"
+    },
+    {
+      "brand": "柠季·手打柠檬茶(杭州滨江龙湖天街店)",
+      "address": "江汉路1515号龙湖杭州滨江天街L6层",
+      "distance": "21m"
+    },
+    {
+      "brand": "梅果(龙湖杭州滨江天街店)",
+      "address": "江南大道1515号滨江天街六楼09商铺",
+      "distance": "21m"
+    },
+    {
+      "brand": "轻丘轻糖蛋糕(龙湖杭州滨江天街店)",
+      "address": "长河街道江汉路1515江南商业中心B1层37号",
+      "distance": "22m"
+    },
+    {
+      "brand": "白熊贝尔·冰淇淋(龙湖杭州滨江天街店)",
+      "address": "江汉路1515号龙湖滨江天街5层C14",
+      "distance": "5m"
+    },
+    {
+      "brand": "古早万丹传统台湾糕点(龙湖杭州滨江天街店)",
+      "address": "江汉路1515号龙湖杭州滨江天街B1层",
+      "distance": "10m"
+    },
+    {
+      "brand": "杨国福麻辣烫(滨江天街店)",
+      "address": "龙湖天街B1层永辉超市口(江汉路地铁站D口步行90米)",
+      "distance": "11m"
+    },
+    {
+      "brand": "煲珠公·老红糖珍珠奶茶(杭州滨江龙湖天街店)",
+      "address": "江汉路1515号龙湖杭州滨江天街5F",
+      "distance": "11m"
+    },
+    {
+      "brand": "和和老面",
+      "address": "江南大道与江汉路交叉口南160米",
+      "distance": "11m"
+    },
+    {
+      "brand": "ENRUINI(龙湖杭州滨江天街店)",
+      "address": "江南大道与江汉路交叉口南160米",
+      "distance": "20m"
+    },
+    {
+      "brand": "连杏双皮奶(龙湖杭州滨江天街店)",
+      "address": "江汉路1515号龙湖杭州滨江天街B1层",
+      "distance": "20m"
+    },
+    {
+      "brand": "柠季·手打柠檬茶(杭州滨江龙湖天街店)",
+      "address": "江汉路1515号龙湖杭州滨江天街L6层",
+      "distance": "21m"
+    },
+    {
+      "brand": "梅果(龙湖杭州滨江天街店)",
+      "address": "江南大道1515号滨江天街六楼09商铺",
+      "distance": "21m"
+    },
+    {
+      "brand": "轻丘轻糖蛋糕(龙湖杭州滨江天街店)",
+      "address": "长河街道江汉路1515江南商业中心B1层37号",
+      "distance": "22m"
+    },
+    {
+      "brand": "白熊贝尔·冰淇淋(龙湖杭州滨江天街店)",
+      "address": "江汉路1515号龙湖滨江天街5层C14",
+      "distance": "5m"
+    },
+    {
+      "brand": "古早万丹传统台湾糕点(龙湖杭州滨江天街店)",
+      "address": "江汉路1515号龙湖杭州滨江天街B1层",
+      "distance": "10m"
+    },
+    {
+      "brand": "杨国福麻辣烫(滨江天街店)",
+      "address": "龙湖天街B1层永辉超市口(江汉路地铁站D口步行90米)",
+      "distance": "11m"
+    },
+    {
+      "brand": "煲珠公·老红糖珍珠奶茶(杭州滨江龙湖天街店)",
+      "address": "江汉路1515号龙湖杭州滨江天街5F",
+      "distance": "11m"
+    },
+    {
+      "brand": "和和老面",
+      "address": "江南大道与江汉路交叉口南160米",
+      "distance": "11m"
+    },
+    {
+      "brand": "ENRUINI(龙湖杭州滨江天街店)",
+      "address": "江南大道与江汉路交叉口南160米",
+      "distance": "20m"
+    },
+    {
+      "brand": "连杏双皮奶(龙湖杭州滨江天街店)",
+      "address": "江汉路1515号龙湖杭州滨江天街B1层",
+      "distance": "20m"
+    },
+    {
+      "brand": "柠季·手打柠檬茶(杭州滨江龙湖天街店)",
+      "address": "江汉路1515号龙湖杭州滨江天街L6层",
+      "distance": "21m"
+    },
+    {
+      "brand": "梅果(龙湖杭州滨江天街店)",
+      "address": "江南大道1515号滨江天街六楼09商铺",
+      "distance": "21m"
+    },
+    {
+      "brand": "轻丘轻糖蛋糕(龙湖杭州滨江天街店)",
+      "address": "长河街道江汉路1515江南商业中心B1层37号",
+      "distance": "22m"
+    },
+    {
+      "brand": "白熊贝尔·冰淇淋(龙湖杭州滨江天街店)",
+      "address": "江汉路1515号龙湖滨江天街5层C14",
+      "distance": "5m"
+    },
+    {
+      "brand": "古早万丹传统台湾糕点(龙湖杭州滨江天街店)",
+      "address": "江汉路1515号龙湖杭州滨江天街B1层",
+      "distance": "10m"
+    },
+    {
+      "brand": "杨国福麻辣烫(滨江天街店)",
+      "address": "龙湖天街B1层永辉超市口(江汉路地铁站D口步行90米)",
+      "distance": "11m"
+    },
+    {
+      "brand": "煲珠公·老红糖珍珠奶茶(杭州滨江龙湖天街店)",
+      "address": "江汉路1515号龙湖杭州滨江天街5F",
+      "distance": "11m"
+    },
+    {
+      "brand": "和和老面",
+      "address": "江南大道与江汉路交叉口南160米",
+      "distance": "11m"
+    },
+    {
+      "brand": "ENRUINI(龙湖杭州滨江天街店)",
+      "address": "江南大道与江汉路交叉口南160米",
+      "distance": "20m"
+    },
+    {
+      "brand": "连杏双皮奶(龙湖杭州滨江天街店)",
+      "address": "江汉路1515号龙湖杭州滨江天街B1层",
+      "distance": "20m"
+    },
+    {
+      "brand": "柠季·手打柠檬茶(杭州滨江龙湖天街店)",
+      "address": "江汉路1515号龙湖杭州滨江天街L6层",
+      "distance": "21m"
+    },
+    {
+      "brand": "梅果(龙湖杭州滨江天街店)",
+      "address": "江南大道1515号滨江天街六楼09商铺",
+      "distance": "21m"
+    },
+    {
+      "brand": "轻丘轻糖蛋糕(龙湖杭州滨江天街店)",
+      "address": "长河街道江汉路1515江南商业中心B1层37号",
+      "distance": "22m"
+    },
+    {
+      "brand": "白熊贝尔·冰淇淋(龙湖杭州滨江天街店)",
+      "address": "江汉路1515号龙湖滨江天街5层C14",
+      "distance": "5m"
+    },
+    {
+      "brand": "古早万丹传统台湾糕点(龙湖杭州滨江天街店)",
+      "address": "江汉路1515号龙湖杭州滨江天街B1层",
+      "distance": "10m"
+    },
+    {
+      "brand": "杨国福麻辣烫(滨江天街店)",
+      "address": "龙湖天街B1层永辉超市口(江汉路地铁站D口步行90米)",
+      "distance": "11m"
+    },
+    {
+      "brand": "煲珠公·老红糖珍珠奶茶(杭州滨江龙湖天街店)",
+      "address": "江汉路1515号龙湖杭州滨江天街5F",
+      "distance": "11m"
+    },
+    {
+      "brand": "和和老面",
+      "address": "江南大道与江汉路交叉口南160米",
+      "distance": "11m"
+    },
+    {
+      "brand": "ENRUINI(龙湖杭州滨江天街店)",
+      "address": "江南大道与江汉路交叉口南160米",
+      "distance": "20m"
+    },
+    {
+      "brand": "连杏双皮奶(龙湖杭州滨江天街店)",
+      "address": "江汉路1515号龙湖杭州滨江天街B1层",
+      "distance": "20m"
+    },
+    {
+      "brand": "柠季·手打柠檬茶(杭州滨江龙湖天街店)",
+      "address": "江汉路1515号龙湖杭州滨江天街L6层",
+      "distance": "21m"
+    },
+    {
+      "brand": "梅果(龙湖杭州滨江天街店)",
+      "address": "江南大道1515号滨江天街六楼09商铺",
+      "distance": "21m"
+    },
+    {
+      "brand": "轻丘轻糖蛋糕(龙湖杭州滨江天街店)",
+      "address": "长河街道江汉路1515江南商业中心B1层37号",
+      "distance": "22m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "杭州中蠃国际生活广场",
+      "open_date": "2016-12-24",
+      "area": "4万㎡",
+      "jun_daily_avg": "1.8万人次",
+      "weekday_avg": "1.7万人次",
+      "holiday_avg": "2.2万人次"
+    },
+    {
+      "name": "杭州星光国际广场",
+      "open_date": "2015-12-01",
+      "area": "17万㎡",
+      "jun_daily_avg": "1.3万人次",
+      "weekday_avg": "1.2万人次",
+      "holiday_avg": "1.5万人次"
+    },
+    {
+      "name": "杭州星光百货",
+      "open_date": "2016-03-27",
+      "area": "9.3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "杭州星光大道二期",
+      "open_date": "2007",
+      "area": "7万㎡",
+      "jun_daily_avg": "2.1万人次",
+      "weekday_avg": "1.9万人次",
+      "holiday_avg": "2.7万人次"
+    },
+    {
+      "name": "杭州中南乐游城",
+      "open_date": "2012-12-01",
+      "area": "5万㎡",
+      "jun_daily_avg": "1.4万人次",
+      "weekday_avg": "1.3万人次",
+      "holiday_avg": "1.6万人次"
+    },
+    {
+      "name": "杭州中南国际商城",
+      "open_date": "2012-12-21",
+      "area": "5万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 269.0,
+      "within_1yr_pct": 21.9,
+      "1_3yr_pct": 36.4,
+      "over_3yr_pct": 41.6
+    },
+    {
+      "type": "购物",
+      "count": 227.0,
+      "within_1yr_pct": 18.9,
+      "1_3yr_pct": 36.1,
+      "over_3yr_pct": 44.9
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 25.0,
+      "within_1yr_pct": 28.0,
+      "1_3yr_pct": 36.0,
+      "over_3yr_pct": 36.0
+    },
+    {
+      "type": "教育培训",
+      "count": 9.0,
+      "within_1yr_pct": 11.1,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 55.6
+    },
+    {
+      "type": "酒店住宿",
+      "count": 21.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 19.0,
+      "over_3yr_pct": 47.6
+    },
+    {
+      "type": "生活服务",
+      "count": 133.0,
+      "within_1yr_pct": 29.3,
+      "1_3yr_pct": 44.4,
+      "over_3yr_pct": 26.3
+    },
+    {
+      "type": "运动健身",
+      "count": 9.0,
+      "within_1yr_pct": 44.4,
+      "1_3yr_pct": 44.4,
+      "over_3yr_pct": 11.1
+    },
+    {
+      "type": "车辆服务",
+      "count": 10.0,
+      "within_1yr_pct": 10.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 40.0
+    }
+  ]
+}

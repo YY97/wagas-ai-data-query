@@ -1,0 +1,422 @@
+{
+  "name": "中国铁建广场",
+  "city": "北京市",
+  "address": "北京市朝阳区来广营乡克茗(龙湖北京北苑天街店)中国铁建广场",
+  "lat": 40.042291,
+  "lng": 116.439417,
+  "overview": {
+    "score": 81.6,
+    "score_rank": "市内前30%",
+    "population_score": 75.1,
+    "area_score": 75.3,
+    "consumption_score": 82.3,
+    "industry_score": 81.7,
+    "annual_sales": "",
+    "annual_sales_unit": "",
+    "area_size_sqm": null,
+    "open_date": "",
+    "operator": "",
+    "brand": "",
+    "type": "",
+    "floors": ""
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "",
+    "annual_daily_rank": "",
+    "jun_total": null,
+    "jun_total_rank": "",
+    "jun_daily_avg": null,
+    "jun_daily_unit": "",
+    "jun_daily_rank": "",
+    "weekday_avg": null,
+    "weekday_unit": "",
+    "weekday_rank": "",
+    "holiday_avg": null,
+    "holiday_unit": "",
+    "holiday_rank": ""
+  },
+  "population": {
+    "residential": {
+      "500m": 1.0,
+      "1_5km": 11.5,
+      "3km": 36.5
+    },
+    "office": {
+      "500m": 1.0,
+      "1_5km": 4.8,
+      "3km": 18.0
+    },
+    "permanent": {
+      "500m": 1.2,
+      "1_5km": 10.8,
+      "3km": 35.2
+    }
+  },
+  "business": {
+    "competitors": 7.0,
+    "food": 112.0,
+    "shopping": 98.0,
+    "leisure": 26.0,
+    "education": 22.0,
+    "hotel": 7.0,
+    "services": 88.0,
+    "fitness": 15.0,
+    "auto": 13.0,
+    "total_stores": 383.0,
+    "old_store_3yr_pct": 42.0
+  },
+  "nearby_poi": {
+    "business": 2.0,
+    "community": 149.0,
+    "office": 11.0,
+    "school": 31.0,
+    "hospital": 33.0,
+    "transport": 9.0,
+    "scenic": 99.0
+  },
+  "demographics": {
+    "male_pct": 48.4,
+    "female_pct": null,
+    "education": {
+      "小学": 7.5,
+      "初中": 13.2,
+      "高中": 9.6,
+      "大专": 6.7,
+      "本科": 51.9,
+      "硕士": 9.2,
+      "博士": 1.9
+    },
+    "has_children_pct": null,
+    "no_children_pct": null
+  },
+  "scraped_at": "2026-07-31T11:19:07.841Z",
+  "nearby_restaurants": [
+    {
+      "brand": "京味手工包子(中国铁建广场店)",
+      "address": "北苑东路19号院中国铁建广场F1层",
+      "distance": "24m"
+    },
+    {
+      "brand": "杭州小吃(中国铁建广场店)",
+      "address": "北苑东路19号院中国铁建广场F1层",
+      "distance": "28m"
+    },
+    {
+      "brand": "晋鸿顺刀削面",
+      "address": "北苑东路19号院中国铁建广场B座",
+      "distance": "33m"
+    },
+    {
+      "brand": "巫山烤全鱼家常菜(中国铁建广场E座店)",
+      "address": "北苑东路中国铁建广场底商",
+      "distance": "36m"
+    },
+    {
+      "brand": "烤炉灌饼煎饼",
+      "address": "北苑东路19号院中国铁建广场F2层",
+      "distance": "38m"
+    },
+    {
+      "brand": "晋味轩刀削面(中国铁建广场B座店)",
+      "address": "北苑东路19号院北京中鑫大厦F2层",
+      "distance": "40m"
+    },
+    {
+      "brand": "牛肉板面(小于总店)",
+      "address": "北苑东路19号院4号楼1层108",
+      "distance": "42m"
+    },
+    {
+      "brand": "徽乡小馆(中国铁建广场E座店)",
+      "address": "北苑东路19号院4号楼1层110",
+      "distance": "43m"
+    },
+    {
+      "brand": "逗叶(龙湖北京北苑天街店)",
+      "address": "北苑东路19号龙湖北京北苑天街1F层",
+      "distance": "45m"
+    },
+    {
+      "brand": "海底捞火锅(北苑天街店)",
+      "address": "北京城区北苑东路龙湖北苑天街B馆5层507-508",
+      "distance": "46m"
+    },
+    {
+      "brand": "京味手工包子(中国铁建广场店)",
+      "address": "北苑东路19号院中国铁建广场F1层",
+      "distance": "24m"
+    },
+    {
+      "brand": "杭州小吃(中国铁建广场店)",
+      "address": "北苑东路19号院中国铁建广场F1层",
+      "distance": "28m"
+    },
+    {
+      "brand": "晋鸿顺刀削面",
+      "address": "北苑东路19号院中国铁建广场B座",
+      "distance": "33m"
+    },
+    {
+      "brand": "巫山烤全鱼家常菜(中国铁建广场E座店)",
+      "address": "北苑东路中国铁建广场底商",
+      "distance": "36m"
+    },
+    {
+      "brand": "烤炉灌饼煎饼",
+      "address": "北苑东路19号院中国铁建广场F2层",
+      "distance": "38m"
+    },
+    {
+      "brand": "晋味轩刀削面(中国铁建广场B座店)",
+      "address": "北苑东路19号院北京中鑫大厦F2层",
+      "distance": "40m"
+    },
+    {
+      "brand": "牛肉板面(小于总店)",
+      "address": "北苑东路19号院4号楼1层108",
+      "distance": "42m"
+    },
+    {
+      "brand": "徽乡小馆(中国铁建广场E座店)",
+      "address": "北苑东路19号院4号楼1层110",
+      "distance": "43m"
+    },
+    {
+      "brand": "逗叶(龙湖北京北苑天街店)",
+      "address": "北苑东路19号龙湖北京北苑天街1F层",
+      "distance": "45m"
+    },
+    {
+      "brand": "海底捞火锅(北苑天街店)",
+      "address": "北京城区北苑东路龙湖北苑天街B馆5层507-508",
+      "distance": "46m"
+    },
+    {
+      "brand": "京味手工包子(中国铁建广场店)",
+      "address": "北苑东路19号院中国铁建广场F1层",
+      "distance": "24m"
+    },
+    {
+      "brand": "杭州小吃(中国铁建广场店)",
+      "address": "北苑东路19号院中国铁建广场F1层",
+      "distance": "28m"
+    },
+    {
+      "brand": "晋鸿顺刀削面",
+      "address": "北苑东路19号院中国铁建广场B座",
+      "distance": "33m"
+    },
+    {
+      "brand": "巫山烤全鱼家常菜(中国铁建广场E座店)",
+      "address": "北苑东路中国铁建广场底商",
+      "distance": "36m"
+    },
+    {
+      "brand": "烤炉灌饼煎饼",
+      "address": "北苑东路19号院中国铁建广场F2层",
+      "distance": "38m"
+    },
+    {
+      "brand": "晋味轩刀削面(中国铁建广场B座店)",
+      "address": "北苑东路19号院北京中鑫大厦F2层",
+      "distance": "40m"
+    },
+    {
+      "brand": "牛肉板面(小于总店)",
+      "address": "北苑东路19号院4号楼1层108",
+      "distance": "42m"
+    },
+    {
+      "brand": "徽乡小馆(中国铁建广场E座店)",
+      "address": "北苑东路19号院4号楼1层110",
+      "distance": "43m"
+    },
+    {
+      "brand": "逗叶(龙湖北京北苑天街店)",
+      "address": "北苑东路19号龙湖北京北苑天街1F层",
+      "distance": "45m"
+    },
+    {
+      "brand": "海底捞火锅(北苑天街店)",
+      "address": "北京城区北苑东路龙湖北苑天街B馆5层507-508",
+      "distance": "46m"
+    },
+    {
+      "brand": "京味手工包子(中国铁建广场店)",
+      "address": "北苑东路19号院中国铁建广场F1层",
+      "distance": "24m"
+    },
+    {
+      "brand": "杭州小吃(中国铁建广场店)",
+      "address": "北苑东路19号院中国铁建广场F1层",
+      "distance": "28m"
+    },
+    {
+      "brand": "晋鸿顺刀削面",
+      "address": "北苑东路19号院中国铁建广场B座",
+      "distance": "33m"
+    },
+    {
+      "brand": "巫山烤全鱼家常菜(中国铁建广场E座店)",
+      "address": "北苑东路中国铁建广场底商",
+      "distance": "36m"
+    },
+    {
+      "brand": "烤炉灌饼煎饼",
+      "address": "北苑东路19号院中国铁建广场F2层",
+      "distance": "38m"
+    },
+    {
+      "brand": "晋味轩刀削面(中国铁建广场B座店)",
+      "address": "北苑东路19号院北京中鑫大厦F2层",
+      "distance": "40m"
+    },
+    {
+      "brand": "牛肉板面(小于总店)",
+      "address": "北苑东路19号院4号楼1层108",
+      "distance": "42m"
+    },
+    {
+      "brand": "徽乡小馆(中国铁建广场E座店)",
+      "address": "北苑东路19号院4号楼1层110",
+      "distance": "43m"
+    },
+    {
+      "brand": "逗叶(龙湖北京北苑天街店)",
+      "address": "北苑东路19号龙湖北京北苑天街1F层",
+      "distance": "45m"
+    },
+    {
+      "brand": "海底捞火锅(北苑天街店)",
+      "address": "北京城区北苑东路龙湖北苑天街B馆5层507-508",
+      "distance": "46m"
+    },
+    {
+      "brand": "京味手工包子(中国铁建广场店)",
+      "address": "北苑东路19号院中国铁建广场F1层",
+      "distance": "24m"
+    },
+    {
+      "brand": "杭州小吃(中国铁建广场店)",
+      "address": "北苑东路19号院中国铁建广场F1层",
+      "distance": "28m"
+    },
+    {
+      "brand": "晋鸿顺刀削面",
+      "address": "北苑东路19号院中国铁建广场B座",
+      "distance": "33m"
+    },
+    {
+      "brand": "巫山烤全鱼家常菜(中国铁建广场E座店)",
+      "address": "北苑东路中国铁建广场底商",
+      "distance": "36m"
+    },
+    {
+      "brand": "烤炉灌饼煎饼",
+      "address": "北苑东路19号院中国铁建广场F2层",
+      "distance": "38m"
+    },
+    {
+      "brand": "晋味轩刀削面(中国铁建广场B座店)",
+      "address": "北苑东路19号院北京中鑫大厦F2层",
+      "distance": "40m"
+    },
+    {
+      "brand": "牛肉板面(小于总店)",
+      "address": "北苑东路19号院4号楼1层108",
+      "distance": "42m"
+    },
+    {
+      "brand": "徽乡小馆(中国铁建广场E座店)",
+      "address": "北苑东路19号院4号楼1层110",
+      "distance": "43m"
+    },
+    {
+      "brand": "逗叶(龙湖北京北苑天街店)",
+      "address": "北苑东路19号龙湖北京北苑天街1F层",
+      "distance": "45m"
+    },
+    {
+      "brand": "海底捞火锅(北苑天街店)",
+      "address": "北京城区北苑东路龙湖北苑天街B馆5层507-508",
+      "distance": "46m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "北京北苑龙湖",
+      "open_date": "2023-09-01",
+      "area": "10万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "北京华贸天地",
+      "open_date": "2012-09-23",
+      "area": "7万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 112.0,
+      "within_1yr_pct": 20.5,
+      "1_3yr_pct": 28.6,
+      "over_3yr_pct": 50.9
+    },
+    {
+      "type": "购物",
+      "count": 98.0,
+      "within_1yr_pct": 13.3,
+      "1_3yr_pct": 27.6,
+      "over_3yr_pct": 59.2
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 28.0,
+      "within_1yr_pct": 32.1,
+      "1_3yr_pct": 46.4,
+      "over_3yr_pct": 21.4
+    },
+    {
+      "type": "教育培训",
+      "count": 22.0,
+      "within_1yr_pct": 45.5,
+      "1_3yr_pct": 31.8,
+      "over_3yr_pct": 22.7
+    },
+    {
+      "type": "酒店住宿",
+      "count": 7.0,
+      "within_1yr_pct": 57.1,
+      "1_3yr_pct": 28.6,
+      "over_3yr_pct": 14.3
+    },
+    {
+      "type": "生活服务",
+      "count": 88.0,
+      "within_1yr_pct": 27.3,
+      "1_3yr_pct": 46.6,
+      "over_3yr_pct": 26.1
+    },
+    {
+      "type": "运动健身",
+      "count": 15.0,
+      "within_1yr_pct": 40.0,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 26.7
+    },
+    {
+      "type": "车辆服务",
+      "count": 13.0,
+      "within_1yr_pct": 38.5,
+      "1_3yr_pct": 15.4,
+      "over_3yr_pct": 46.2
+    }
+  ]
+}

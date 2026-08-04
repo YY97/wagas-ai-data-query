@@ -1,0 +1,430 @@
+{
+  "name": "百联中环购物广场",
+  "city": "上海市",
+  "address": "上海市普陀区真北路1278号",
+  "lat": 31.241236,
+  "lng": 121.384334,
+  "overview": {
+    "score": 95.8,
+    "score_rank": "市内前30%",
+    "population_score": 87.2,
+    "area_score": 77.8,
+    "consumption_score": 74.1,
+    "industry_score": 95.9,
+    "annual_sales": "百联中环购物广场是集购物、餐饮、休闲、娱乐为一体的超大型、现代化消费场所，位于上海市普陀区，是上海西北区域的一座商业地标",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 25.0,
+    "open_date": "2006-12-21",
+    "operator": "上海百联集团股份有限公司",
+    "brand": "百联",
+    "type": "综合型",
+    "floors": "B1-L5"
+  },
+  "traffic": {
+    "annual_daily": 4.02,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第50",
+    "jun_total": 166.5,
+    "jun_total_rank": "市内商场第57名",
+    "jun_daily_avg": 5.6,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第57名",
+    "weekday_avg": 4.9,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第57名",
+    "holiday_avg": 7.4,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第46名"
+  },
+  "population": {
+    "residential": {
+      "500m": 2.2,
+      "1_5km": 24.5,
+      "3km": 84.9
+    },
+    "office": {
+      "500m": 1.5,
+      "1_5km": 12.3,
+      "3km": 50.1
+    },
+    "permanent": {
+      "500m": 2.7,
+      "1_5km": 25.7,
+      "3km": 88.0
+    }
+  },
+  "business": {
+    "competitors": 5.0,
+    "food": 234.0,
+    "shopping": 169.0,
+    "leisure": 17.0,
+    "education": 44.0,
+    "hotel": 11.0,
+    "services": 91.0,
+    "fitness": 20.0,
+    "auto": 25.0,
+    "total_stores": 346.0,
+    "old_store_3yr_pct": 55.0
+  },
+  "nearby_poi": {
+    "business": 3.0,
+    "community": 371.0,
+    "office": 48.0,
+    "school": 42.0,
+    "hospital": 57.0,
+    "transport": 3.0,
+    "scenic": 153.0
+  },
+  "demographics": {
+    "male_pct": 46.5,
+    "female_pct": null,
+    "education": {
+      "小学": 9.3,
+      "初中": 17.5,
+      "高中": 11.7,
+      "大专": 7.7,
+      "本科": 47.8,
+      "硕士": 4.4,
+      "博士": 1.6
+    },
+    "has_children_pct": 65.1,
+    "no_children_pct": 34.9
+  },
+  "scraped_at": "2026-07-31T11:19:53.802Z",
+  "nearby_restaurants": [
+    {
+      "brand": "稻香世家(百联中环购物广场店)",
+      "address": "长征镇真光路1288号百联中环购物广场B1",
+      "distance": "37m"
+    },
+    {
+      "brand": "吉祥馄饨(上海百联中环广场店)",
+      "address": "真光路1288号百联中环购物广场B1层",
+      "distance": "50m"
+    },
+    {
+      "brand": "雾都麻辣香锅(百联中环购物广场店)",
+      "address": "真光路1258号百联中环购物广场B1层B-B114",
+      "distance": "51m"
+    },
+    {
+      "brand": "肯德基(新中环店)",
+      "address": "真光路1288号",
+      "distance": "52m"
+    },
+    {
+      "brand": "麦当劳(普陀中环百联)",
+      "address": "上海市真光路1288号1F麦当劳餐厅",
+      "distance": "54m"
+    },
+    {
+      "brand": "陈香贵·兰州牛肉面(上海普陀中环百联店)",
+      "address": "真光路1288号上海百联中环购物广场B区B1层B08-B1-1-BB1F037铺位",
+      "distance": "59m"
+    },
+    {
+      "brand": "龙门花甲(普陀百联店)",
+      "address": "真光路1258号百联中环购物广场",
+      "distance": "60m"
+    },
+    {
+      "brand": "西树泡芙(上海百联中环购物广场店)",
+      "address": "长征镇真光路1288号百联中环购物广场1楼B区",
+      "distance": "62m"
+    },
+    {
+      "brand": "来咖(上海百联中环购物广场店)",
+      "address": "真光路1258号百联中环购物广场",
+      "distance": "63m"
+    },
+    {
+      "brand": "鱼你在一起(普陀百联中环购物广场店)",
+      "address": "长征镇真光路1288号B01层G08-02B01-01-0063室",
+      "distance": "67m"
+    },
+    {
+      "brand": "稻香世家(百联中环购物广场店)",
+      "address": "长征镇真光路1288号百联中环购物广场B1",
+      "distance": "37m"
+    },
+    {
+      "brand": "吉祥馄饨(上海百联中环广场店)",
+      "address": "真光路1288号百联中环购物广场B1层",
+      "distance": "50m"
+    },
+    {
+      "brand": "雾都麻辣香锅(百联中环购物广场店)",
+      "address": "真光路1258号百联中环购物广场B1层B-B114",
+      "distance": "51m"
+    },
+    {
+      "brand": "肯德基(新中环店)",
+      "address": "真光路1288号",
+      "distance": "52m"
+    },
+    {
+      "brand": "麦当劳(普陀中环百联)",
+      "address": "上海市真光路1288号1F麦当劳餐厅",
+      "distance": "54m"
+    },
+    {
+      "brand": "陈香贵·兰州牛肉面(上海普陀中环百联店)",
+      "address": "真光路1288号上海百联中环购物广场B区B1层B08-B1-1-BB1F037铺位",
+      "distance": "59m"
+    },
+    {
+      "brand": "龙门花甲(普陀百联店)",
+      "address": "真光路1258号百联中环购物广场",
+      "distance": "60m"
+    },
+    {
+      "brand": "西树泡芙(上海百联中环购物广场店)",
+      "address": "长征镇真光路1288号百联中环购物广场1楼B区",
+      "distance": "62m"
+    },
+    {
+      "brand": "来咖(上海百联中环购物广场店)",
+      "address": "真光路1258号百联中环购物广场",
+      "distance": "63m"
+    },
+    {
+      "brand": "鱼你在一起(普陀百联中环购物广场店)",
+      "address": "长征镇真光路1288号B01层G08-02B01-01-0063室",
+      "distance": "67m"
+    },
+    {
+      "brand": "稻香世家(百联中环购物广场店)",
+      "address": "长征镇真光路1288号百联中环购物广场B1",
+      "distance": "37m"
+    },
+    {
+      "brand": "吉祥馄饨(上海百联中环广场店)",
+      "address": "真光路1288号百联中环购物广场B1层",
+      "distance": "50m"
+    },
+    {
+      "brand": "雾都麻辣香锅(百联中环购物广场店)",
+      "address": "真光路1258号百联中环购物广场B1层B-B114",
+      "distance": "51m"
+    },
+    {
+      "brand": "肯德基(新中环店)",
+      "address": "真光路1288号",
+      "distance": "52m"
+    },
+    {
+      "brand": "麦当劳(普陀中环百联)",
+      "address": "上海市真光路1288号1F麦当劳餐厅",
+      "distance": "54m"
+    },
+    {
+      "brand": "陈香贵·兰州牛肉面(上海普陀中环百联店)",
+      "address": "真光路1288号上海百联中环购物广场B区B1层B08-B1-1-BB1F037铺位",
+      "distance": "59m"
+    },
+    {
+      "brand": "龙门花甲(普陀百联店)",
+      "address": "真光路1258号百联中环购物广场",
+      "distance": "60m"
+    },
+    {
+      "brand": "西树泡芙(上海百联中环购物广场店)",
+      "address": "长征镇真光路1288号百联中环购物广场1楼B区",
+      "distance": "62m"
+    },
+    {
+      "brand": "来咖(上海百联中环购物广场店)",
+      "address": "真光路1258号百联中环购物广场",
+      "distance": "63m"
+    },
+    {
+      "brand": "鱼你在一起(普陀百联中环购物广场店)",
+      "address": "长征镇真光路1288号B01层G08-02B01-01-0063室",
+      "distance": "67m"
+    },
+    {
+      "brand": "稻香世家(百联中环购物广场店)",
+      "address": "长征镇真光路1288号百联中环购物广场B1",
+      "distance": "37m"
+    },
+    {
+      "brand": "吉祥馄饨(上海百联中环广场店)",
+      "address": "真光路1288号百联中环购物广场B1层",
+      "distance": "50m"
+    },
+    {
+      "brand": "雾都麻辣香锅(百联中环购物广场店)",
+      "address": "真光路1258号百联中环购物广场B1层B-B114",
+      "distance": "51m"
+    },
+    {
+      "brand": "肯德基(新中环店)",
+      "address": "真光路1288号",
+      "distance": "52m"
+    },
+    {
+      "brand": "麦当劳(普陀中环百联)",
+      "address": "上海市真光路1288号1F麦当劳餐厅",
+      "distance": "54m"
+    },
+    {
+      "brand": "陈香贵·兰州牛肉面(上海普陀中环百联店)",
+      "address": "真光路1288号上海百联中环购物广场B区B1层B08-B1-1-BB1F037铺位",
+      "distance": "59m"
+    },
+    {
+      "brand": "龙门花甲(普陀百联店)",
+      "address": "真光路1258号百联中环购物广场",
+      "distance": "60m"
+    },
+    {
+      "brand": "西树泡芙(上海百联中环购物广场店)",
+      "address": "长征镇真光路1288号百联中环购物广场1楼B区",
+      "distance": "62m"
+    },
+    {
+      "brand": "来咖(上海百联中环购物广场店)",
+      "address": "真光路1258号百联中环购物广场",
+      "distance": "63m"
+    },
+    {
+      "brand": "鱼你在一起(普陀百联中环购物广场店)",
+      "address": "长征镇真光路1288号B01层G08-02B01-01-0063室",
+      "distance": "67m"
+    },
+    {
+      "brand": "稻香世家(百联中环购物广场店)",
+      "address": "长征镇真光路1288号百联中环购物广场B1",
+      "distance": "37m"
+    },
+    {
+      "brand": "吉祥馄饨(上海百联中环广场店)",
+      "address": "真光路1288号百联中环购物广场B1层",
+      "distance": "50m"
+    },
+    {
+      "brand": "雾都麻辣香锅(百联中环购物广场店)",
+      "address": "真光路1258号百联中环购物广场B1层B-B114",
+      "distance": "51m"
+    },
+    {
+      "brand": "肯德基(新中环店)",
+      "address": "真光路1288号",
+      "distance": "52m"
+    },
+    {
+      "brand": "麦当劳(普陀中环百联)",
+      "address": "上海市真光路1288号1F麦当劳餐厅",
+      "distance": "54m"
+    },
+    {
+      "brand": "陈香贵·兰州牛肉面(上海普陀中环百联店)",
+      "address": "真光路1288号上海百联中环购物广场B区B1层B08-B1-1-BB1F037铺位",
+      "distance": "59m"
+    },
+    {
+      "brand": "龙门花甲(普陀百联店)",
+      "address": "真光路1258号百联中环购物广场",
+      "distance": "60m"
+    },
+    {
+      "brand": "西树泡芙(上海百联中环购物广场店)",
+      "address": "长征镇真光路1288号百联中环购物广场1楼B区",
+      "distance": "62m"
+    },
+    {
+      "brand": "来咖(上海百联中环购物广场店)",
+      "address": "真光路1258号百联中环购物广场",
+      "distance": "63m"
+    },
+    {
+      "brand": "鱼你在一起(普陀百联中环购物广场店)",
+      "address": "长征镇真光路1288号B01层G08-02B01-01-0063室",
+      "distance": "67m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海友谊商店(梅川路店)",
+      "open_date": "2004-01-01",
+      "area": "8000㎡",
+      "jun_daily_avg": "4.5万人次",
+      "weekday_avg": "4.7万人次",
+      "holiday_avg": "4.1万人次"
+    },
+    {
+      "name": "上海信泰中心",
+      "open_date": "2023-09-26",
+      "area": "6.7万㎡",
+      "jun_daily_avg": "4.5万人次",
+      "weekday_avg": "4.7万人次",
+      "holiday_avg": "4.1万人次"
+    },
+    {
+      "name": "上海近铁城市广场",
+      "open_date": "2014-11-18",
+      "area": "8.8万㎡",
+      "jun_daily_avg": "4.5万人次",
+      "weekday_avg": "4.7万人次",
+      "holiday_avg": "3.9万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 121.0,
+      "within_1yr_pct": 13.2,
+      "1_3yr_pct": 26.4,
+      "over_3yr_pct": 60.3
+    },
+    {
+      "type": "购物",
+      "count": 114.0,
+      "within_1yr_pct": 17.5,
+      "1_3yr_pct": 26.3,
+      "over_3yr_pct": 56.1
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 13.0,
+      "within_1yr_pct": 23.1,
+      "1_3yr_pct": 30.8,
+      "over_3yr_pct": 46.2
+    },
+    {
+      "type": "教育培训",
+      "count": 31.0,
+      "within_1yr_pct": 22.6,
+      "1_3yr_pct": 35.5,
+      "over_3yr_pct": 41.9
+    },
+    {
+      "type": "酒店住宿",
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "生活服务",
+      "count": 40.0,
+      "within_1yr_pct": 30.0,
+      "1_3yr_pct": 17.5,
+      "over_3yr_pct": 52.5
+    },
+    {
+      "type": "运动健身",
+      "count": 13.0,
+      "within_1yr_pct": 30.8,
+      "1_3yr_pct": 30.8,
+      "over_3yr_pct": 38.5
+    },
+    {
+      "type": "车辆服务",
+      "count": 12.0,
+      "within_1yr_pct": 8.3,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 66.7
+    }
+  ]
+}

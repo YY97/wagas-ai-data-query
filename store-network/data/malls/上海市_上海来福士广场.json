@@ -1,0 +1,479 @@
+{
+  "name": "上海来福士广场",
+  "city": "上海市",
+  "address": "上海市黄浦区西藏南路268号",
+  "lat": 31.232395,
+  "lng": 121.476699,
+  "overview": {
+    "score": 95.0,
+    "score_rank": "市内前30%",
+    "population_score": 90.8,
+    "area_score": 100.0,
+    "consumption_score": 86.3,
+    "industry_score": 95.0,
+    "annual_sales": "25",
+    "annual_sales_unit": "亿元",
+    "area_size_sqm": 4.6,
+    "open_date": "2003-11-01",
+    "operator": "凯德置地（中国）投资有限公司",
+    "brand": "凯德",
+    "type": "综合型",
+    "floors": "B1-L7"
+  },
+  "traffic": {
+    "annual_daily": 2.24,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第125",
+    "jun_total": 79.9,
+    "jun_total_rank": "市内商场第152名",
+    "jun_daily_avg": 2.7,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第152名",
+    "weekday_avg": 2.4,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第153名",
+    "holiday_avg": 3.3,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第147名"
+  },
+  "population": {
+    "residential": {
+      "500m": 2.5,
+      "1_5km": 18.6,
+      "3km": 79.3
+    },
+    "office": {
+      "500m": 5.5,
+      "1_5km": 35.8,
+      "3km": 110.9
+    },
+    "permanent": {
+      "500m": 4.8,
+      "1_5km": 27.3,
+      "3km": 103.6
+    }
+  },
+  "business": {
+    "competitors": 35.0,
+    "food": 796.0,
+    "shopping": 1006.0,
+    "leisure": 188.0,
+    "education": 51.0,
+    "hotel": 174.0,
+    "services": 329.0,
+    "fitness": 26.0,
+    "auto": 43.0,
+    "total_stores": 233.0,
+    "old_store_3yr_pct": 45.0
+  },
+  "nearby_poi": {
+    "business": 41.0,
+    "community": 930.0,
+    "office": 250.0,
+    "school": 49.0,
+    "hospital": 203.0,
+    "transport": 24.0,
+    "scenic": 993.0
+  },
+  "demographics": {
+    "male_pct": 46.5,
+    "female_pct": null,
+    "education": {
+      "小学": 9.3,
+      "初中": 16.9,
+      "高中": 11.4,
+      "大专": 7.0,
+      "本科": 47.8,
+      "硕士": 5.9,
+      "博士": 1.7
+    },
+    "has_children_pct": 58.1,
+    "no_children_pct": 41.9
+  },
+  "scraped_at": "2026-07-31T12:57:00.908Z",
+  "nearby_restaurants": [
+    {
+      "brand": "马记永·兰州牛肉面(上海来福士广场店)",
+      "address": "西藏中路268号上海来福士广场B1层",
+      "distance": "0m"
+    },
+    {
+      "brand": "南里山房(上海来福士广场店)",
+      "address": "西藏中路268号上海来福士广场F6层",
+      "distance": "0m"
+    },
+    {
+      "brand": "野人先生Gelato(上海人广来福士店)",
+      "address": "来福士广场",
+      "distance": "0m"
+    },
+    {
+      "brand": "鹤茶野所(来福士店)",
+      "address": "B1鹤茶野所",
+      "distance": "0m"
+    },
+    {
+      "brand": "正煸记(上海来福士店)",
+      "address": "云南中路与汉口路交叉口南100米",
+      "distance": "3m"
+    },
+    {
+      "brand": "泽田本家",
+      "address": "云南中路与汉口路交叉口南100米",
+      "distance": "3m"
+    },
+    {
+      "brand": "味千拉面(上海来福士广场店)",
+      "address": "西藏中路268号上海来福士广场F6层",
+      "distance": "3m"
+    },
+    {
+      "brand": "上海二有餐饮管理有限公司西藏中路店(上海来福士广场店)",
+      "address": "西藏中路与福州路交叉口北100米",
+      "distance": "3m"
+    },
+    {
+      "brand": "黑烻",
+      "address": "西藏中路来福士广场L7-06号",
+      "distance": "4m"
+    },
+    {
+      "brand": "CARINO BAKERY&CAFE(上海来福士广场店)",
+      "address": "西藏中路268号上海来福士广场B1层B1-17",
+      "distance": "4m"
+    },
+    {
+      "brand": "马记永·兰州牛肉面(上海来福士广场店)",
+      "address": "西藏中路268号上海来福士广场B1层",
+      "distance": "0m"
+    },
+    {
+      "brand": "南里山房(上海来福士广场店)",
+      "address": "西藏中路268号上海来福士广场F6层",
+      "distance": "0m"
+    },
+    {
+      "brand": "野人先生Gelato(上海人广来福士店)",
+      "address": "来福士广场",
+      "distance": "0m"
+    },
+    {
+      "brand": "鹤茶野所(来福士店)",
+      "address": "B1鹤茶野所",
+      "distance": "0m"
+    },
+    {
+      "brand": "正煸记(上海来福士店)",
+      "address": "云南中路与汉口路交叉口南100米",
+      "distance": "3m"
+    },
+    {
+      "brand": "泽田本家",
+      "address": "云南中路与汉口路交叉口南100米",
+      "distance": "3m"
+    },
+    {
+      "brand": "味千拉面(上海来福士广场店)",
+      "address": "西藏中路268号上海来福士广场F6层",
+      "distance": "3m"
+    },
+    {
+      "brand": "上海二有餐饮管理有限公司西藏中路店(上海来福士广场店)",
+      "address": "西藏中路与福州路交叉口北100米",
+      "distance": "3m"
+    },
+    {
+      "brand": "黑烻",
+      "address": "西藏中路来福士广场L7-06号",
+      "distance": "4m"
+    },
+    {
+      "brand": "CARINO BAKERY&CAFE(上海来福士广场店)",
+      "address": "西藏中路268号上海来福士广场B1层B1-17",
+      "distance": "4m"
+    },
+    {
+      "brand": "马记永·兰州牛肉面(上海来福士广场店)",
+      "address": "西藏中路268号上海来福士广场B1层",
+      "distance": "0m"
+    },
+    {
+      "brand": "南里山房(上海来福士广场店)",
+      "address": "西藏中路268号上海来福士广场F6层",
+      "distance": "0m"
+    },
+    {
+      "brand": "野人先生Gelato(上海人广来福士店)",
+      "address": "来福士广场",
+      "distance": "0m"
+    },
+    {
+      "brand": "鹤茶野所(来福士店)",
+      "address": "B1鹤茶野所",
+      "distance": "0m"
+    },
+    {
+      "brand": "正煸记(上海来福士店)",
+      "address": "云南中路与汉口路交叉口南100米",
+      "distance": "3m"
+    },
+    {
+      "brand": "泽田本家",
+      "address": "云南中路与汉口路交叉口南100米",
+      "distance": "3m"
+    },
+    {
+      "brand": "味千拉面(上海来福士广场店)",
+      "address": "西藏中路268号上海来福士广场F6层",
+      "distance": "3m"
+    },
+    {
+      "brand": "上海二有餐饮管理有限公司西藏中路店(上海来福士广场店)",
+      "address": "西藏中路与福州路交叉口北100米",
+      "distance": "3m"
+    },
+    {
+      "brand": "黑烻",
+      "address": "西藏中路来福士广场L7-06号",
+      "distance": "4m"
+    },
+    {
+      "brand": "CARINO BAKERY&CAFE(上海来福士广场店)",
+      "address": "西藏中路268号上海来福士广场B1层B1-17",
+      "distance": "4m"
+    },
+    {
+      "brand": "马记永·兰州牛肉面(上海来福士广场店)",
+      "address": "西藏中路268号上海来福士广场B1层",
+      "distance": "0m"
+    },
+    {
+      "brand": "南里山房(上海来福士广场店)",
+      "address": "西藏中路268号上海来福士广场F6层",
+      "distance": "0m"
+    },
+    {
+      "brand": "野人先生Gelato(上海人广来福士店)",
+      "address": "来福士广场",
+      "distance": "0m"
+    },
+    {
+      "brand": "鹤茶野所(来福士店)",
+      "address": "B1鹤茶野所",
+      "distance": "0m"
+    },
+    {
+      "brand": "正煸记(上海来福士店)",
+      "address": "云南中路与汉口路交叉口南100米",
+      "distance": "3m"
+    },
+    {
+      "brand": "泽田本家",
+      "address": "云南中路与汉口路交叉口南100米",
+      "distance": "3m"
+    },
+    {
+      "brand": "味千拉面(上海来福士广场店)",
+      "address": "西藏中路268号上海来福士广场F6层",
+      "distance": "3m"
+    },
+    {
+      "brand": "上海二有餐饮管理有限公司西藏中路店(上海来福士广场店)",
+      "address": "西藏中路与福州路交叉口北100米",
+      "distance": "3m"
+    },
+    {
+      "brand": "黑烻",
+      "address": "西藏中路来福士广场L7-06号",
+      "distance": "4m"
+    },
+    {
+      "brand": "CARINO BAKERY&CAFE(上海来福士广场店)",
+      "address": "西藏中路268号上海来福士广场B1层B1-17",
+      "distance": "4m"
+    },
+    {
+      "brand": "马记永·兰州牛肉面(上海来福士广场店)",
+      "address": "西藏中路268号上海来福士广场B1层",
+      "distance": "0m"
+    },
+    {
+      "brand": "南里山房(上海来福士广场店)",
+      "address": "西藏中路268号上海来福士广场F6层",
+      "distance": "0m"
+    },
+    {
+      "brand": "野人先生Gelato(上海人广来福士店)",
+      "address": "来福士广场",
+      "distance": "0m"
+    },
+    {
+      "brand": "鹤茶野所(来福士店)",
+      "address": "B1鹤茶野所",
+      "distance": "0m"
+    },
+    {
+      "brand": "正煸记(上海来福士店)",
+      "address": "云南中路与汉口路交叉口南100米",
+      "distance": "3m"
+    },
+    {
+      "brand": "泽田本家",
+      "address": "云南中路与汉口路交叉口南100米",
+      "distance": "3m"
+    },
+    {
+      "brand": "味千拉面(上海来福士广场店)",
+      "address": "西藏中路268号上海来福士广场F6层",
+      "distance": "3m"
+    },
+    {
+      "brand": "上海二有餐饮管理有限公司西藏中路店(上海来福士广场店)",
+      "address": "西藏中路与福州路交叉口北100米",
+      "distance": "3m"
+    },
+    {
+      "brand": "黑烻",
+      "address": "西藏中路来福士广场L7-06号",
+      "distance": "4m"
+    },
+    {
+      "brand": "CARINO BAKERY&CAFE(上海来福士广场店)",
+      "address": "西藏中路268号上海来福士广场B1层B1-17",
+      "distance": "4m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海世茂广场",
+      "open_date": "2018-09-28",
+      "area": "5.8万㎡",
+      "jun_daily_avg": "6.6万人次",
+      "weekday_avg": "5.6万人次",
+      "holiday_avg": "9.5万人次"
+    },
+    {
+      "name": "上海永安百货",
+      "open_date": "2020-01-01",
+      "area": "1.5万㎡",
+      "jun_daily_avg": "1.3万人次",
+      "weekday_avg": "1.1万人次",
+      "holiday_avg": "1.7万人次"
+    },
+    {
+      "name": "上海第一百货商店",
+      "open_date": "2024-09-30",
+      "area": "2万㎡",
+      "jun_daily_avg": "12.1万人次",
+      "weekday_avg": "10.4万人次",
+      "holiday_avg": "16.7万人次"
+    },
+    {
+      "name": "上海新世界城",
+      "open_date": "1995-12-30",
+      "area": "7万㎡",
+      "jun_daily_avg": "5.7万人次",
+      "weekday_avg": "4.9万人次",
+      "holiday_avg": "8.2万人次"
+    },
+    {
+      "name": "上海阳光商厦",
+      "open_date": "-",
+      "area": "-",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海迪美购物中心",
+      "open_date": "1995-01-01",
+      "area": "5万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海雅居乐国际广场",
+      "open_date": "2014-07-12",
+      "area": "2.2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海世茂52+",
+      "open_date": "2010-01-01",
+      "area": "1.5万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海U479",
+      "open_date": "2021-06-01",
+      "area": "1万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海亚龙国际广场",
+      "open_date": "2007-01-01",
+      "area": "1.5万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 82.0,
+      "within_1yr_pct": 24.4,
+      "1_3yr_pct": 30.5,
+      "over_3yr_pct": 45.1
+    },
+    {
+      "type": "购物",
+      "count": 113.0,
+      "within_1yr_pct": 19.5,
+      "1_3yr_pct": 35.4,
+      "over_3yr_pct": 45.1
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 6.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 16.7,
+      "over_3yr_pct": 33.3
+    },
+    {
+      "type": "教育培训",
+      "count": 5.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 40.0,
+      "over_3yr_pct": 40.0
+    },
+    {
+      "type": "生活服务",
+      "count": 20.0,
+      "within_1yr_pct": 10.0,
+      "1_3yr_pct": 55.0,
+      "over_3yr_pct": 35.0
+    },
+    {
+      "type": "运动健身",
+      "count": 3.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 66.7
+    },
+    {
+      "type": "车辆服务",
+      "count": 4.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 75.0
+    }
+  ]
+}

@@ -1,0 +1,209 @@
+{
+  "name": "龙盛国际商业广场",
+  "city": "上海市",
+  "address": "上海市闵行区都市路3975号",
+  "lat": 31.085316,
+  "lng": 121.398828,
+  "overview": {
+    "score": 92.0,
+    "score_rank": "市内前30%",
+    "population_score": 80.3,
+    "area_score": 70.3,
+    "consumption_score": 77.5,
+    "industry_score": 92.1,
+    "annual_sales": "龙盛国际商业广场位于上海市闵行区都市路金都路，是都市路商圈最核心的商业项目之一。项目集商务办公、高档酒店及购物中心于一体。其中购物中心汇聚万达IMAX影城、欧尚精品超市、MJstyle、only、热风、屈臣氏、星巴克、必胜客、亚马逊儿童乐园等时尚零售、人气餐厅、儿童乐园等业态，为周边居民提供吃、喝、玩、乐、购一站式家庭休闲购物中心",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 6.5,
+    "open_date": "2015-11-28",
+    "operator": "浙江龙盛集团股份有限公司",
+    "brand": "",
+    "type": "综合型",
+    "floors": "B2-L3"
+  },
+  "traffic": {
+    "annual_daily": 1.65,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第165",
+    "jun_total": 68.5,
+    "jun_total_rank": "市内商场第170名",
+    "jun_daily_avg": 2.3,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第170名",
+    "weekday_avg": 2.1,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第172名",
+    "holiday_avg": 2.8,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第173名"
+  },
+  "population": {
+    "residential": {
+      "500m": 1.6,
+      "1_5km": 12.5,
+      "3km": 53.3
+    },
+    "office": {
+      "500m": 7000.0,
+      "1_5km": 6.0,
+      "3km": 24.8
+    },
+    "permanent": {
+      "500m": 1.7,
+      "1_5km": 11.7,
+      "3km": 49.8
+    }
+  },
+  "business": {
+    "competitors": 2.0,
+    "food": 119.0,
+    "shopping": 73.0,
+    "leisure": 23.0,
+    "education": 18.0,
+    "hotel": 16.0,
+    "services": 123.0,
+    "fitness": 16.0,
+    "auto": 9.0,
+    "total_stores": 157.0,
+    "old_store_3yr_pct": 46.0
+  },
+  "nearby_poi": {
+    "business": 1.0,
+    "community": 204.0,
+    "office": 21.0,
+    "school": 16.0,
+    "hospital": 27.0,
+    "transport": 5.0,
+    "scenic": 52.0
+  },
+  "demographics": {
+    "male_pct": 52.2,
+    "female_pct": null,
+    "education": {
+      "小学": 9.6,
+      "初中": 17.5,
+      "高中": 11.6,
+      "大专": 8.1,
+      "本科": 47.0,
+      "硕士": 4.9,
+      "博士": 1.3
+    },
+    "has_children_pct": 60.9,
+    "no_children_pct": 39.1
+  },
+  "scraped_at": "2026-08-01T06:21:56.803Z",
+  "nearby_restaurants": [
+    {
+      "brand": "重庆鸡公煲(都市路店)",
+      "address": "都市路3601号附近",
+      "distance": "456m"
+    },
+    {
+      "brand": "俞记饭店(都市路店)",
+      "address": "都市路与丰顺路交叉口西北60米",
+      "distance": "466m"
+    },
+    {
+      "brand": "潮味猪杂粥",
+      "address": "颛桥镇都市路4150-4152号",
+      "distance": "471m"
+    },
+    {
+      "brand": "真味真大饭堂",
+      "address": "都市路与丰顺路交叉口西北40米",
+      "distance": "473m"
+    },
+    {
+      "brand": "新疆公羊肉烤肉店",
+      "address": "都市路与丰顺路交叉口西北40米",
+      "distance": "475m"
+    },
+    {
+      "brand": "一品香黄焖鸡米饭(都市路店)",
+      "address": "都市路与梅州路交叉口北80米",
+      "distance": "488m"
+    },
+    {
+      "brand": "徐记现炒(都市路店)",
+      "address": "都市路与梅州路交叉口北80米",
+      "distance": "488m"
+    },
+    {
+      "brand": "红烧牛肉面",
+      "address": "金都花好悦园西南门旁",
+      "distance": "494m"
+    },
+    {
+      "brand": "LARMONDA·新梦堂Restaurant&Bistro",
+      "address": "梅州路507号一层",
+      "distance": "494m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海好爱广场",
+      "open_date": "-",
+      "area": "-",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 44.0,
+      "within_1yr_pct": 18.2,
+      "1_3yr_pct": 13.6,
+      "over_3yr_pct": 68.2
+    },
+    {
+      "type": "购物",
+      "count": 24.0,
+      "within_1yr_pct": 12.5,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 54.2
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 10.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 10.0,
+      "over_3yr_pct": 40.0
+    },
+    {
+      "type": "教育培训",
+      "count": 8.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 87.5,
+      "over_3yr_pct": 12.5
+    },
+    {
+      "type": "酒店住宿",
+      "count": 3.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 33.3
+    },
+    {
+      "type": "生活服务",
+      "count": 55.0,
+      "within_1yr_pct": 23.6,
+      "1_3yr_pct": 45.5,
+      "over_3yr_pct": 30.9
+    },
+    {
+      "type": "运动健身",
+      "count": 9.0,
+      "within_1yr_pct": 22.2,
+      "1_3yr_pct": 22.2,
+      "over_3yr_pct": 55.6
+    },
+    {
+      "type": "车辆服务",
+      "count": 4.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 50.0
+    }
+  ]
+}

@@ -1,0 +1,147 @@
+{
+  "name": "沁春汇",
+  "city": "北京市",
+  "address": "北京市朝阳区建外街道中海广场中海广场中楼",
+  "lat": 39.910745,
+  "lng": 116.456599,
+  "overview": {
+    "score": 87.2,
+    "score_rank": "市内前30%",
+    "population_score": 82.1,
+    "area_score": 100.0,
+    "consumption_score": 80.2,
+    "industry_score": 87.2,
+    "annual_sales": "CBD核心区地铁10号线安贞门站上盖，4万㎡“商务精致生活”购物中心，2023-2024年对B1层约4,700㎡美食街进行焕新升级，引入50%以上首店及高口碑品牌，定位CBD白领全时段“品质餐饮+社交零售”新主场。",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 4.0,
+    "open_date": "2018-05-29",
+    "operator": "中海地产集团有限责任公司",
+    "brand": "中海",
+    "type": "美食型",
+    "floors": "B1-L5"
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "-",
+    "annual_daily_rank": "",
+    "jun_total": 13.6,
+    "jun_total_rank": "市内商场第306名",
+    "jun_daily_avg": 4524.0,
+    "jun_daily_unit": "人次",
+    "jun_daily_rank": "市内商场第306名",
+    "weekday_avg": 5351.0,
+    "weekday_unit": "人次",
+    "weekday_rank": "市内商场第292名",
+    "holiday_avg": 2245.0,
+    "holiday_unit": "人次",
+    "holiday_rank": "市内商场第334名"
+  },
+  "population": {
+    "residential": {
+      "500m": 1.5,
+      "1_5km": 13.2,
+      "3km": 79.9
+    },
+    "office": {
+      "500m": 5.5,
+      "1_5km": 29.8,
+      "3km": 85.1
+    },
+    "permanent": {
+      "500m": 3.0,
+      "1_5km": 17.9,
+      "3km": 91.3
+    }
+  },
+  "business": {
+    "competitors": 22.0,
+    "food": 396.0,
+    "shopping": 513.0,
+    "leisure": 24.0,
+    "education": 31.0,
+    "hotel": 40.0,
+    "services": 198.0,
+    "fitness": 43.0,
+    "auto": 34.0,
+    "total_stores": 59.0,
+    "old_store_3yr_pct": 42.0
+  },
+  "nearby_poi": {
+    "business": 18.0,
+    "community": 494.0,
+    "office": 167.0,
+    "school": 22.0,
+    "hospital": 176.0,
+    "transport": 8.0,
+    "scenic": 277.0
+  },
+  "demographics": {
+    "male_pct": 52.2,
+    "female_pct": null,
+    "education": {
+      "小学": 9.0,
+      "初中": 15.7,
+      "高中": 10.7,
+      "大专": 6.8,
+      "本科": 49.2,
+      "硕士": 7.0,
+      "博士": 1.6
+    },
+    "has_children_pct": 54.7,
+    "no_children_pct": 45.3
+  },
+  "scraped_at": "2026-08-01T17:04:18.759Z",
+  "nearby_restaurants": [],
+  "nearby_malls": [],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 32.0,
+      "within_1yr_pct": 18.8,
+      "1_3yr_pct": 40.6,
+      "over_3yr_pct": 40.6
+    },
+    {
+      "type": "购物",
+      "count": 12.0,
+      "within_1yr_pct": 16.7,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 1.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "教育培训",
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    },
+    {
+      "type": "生活服务",
+      "count": 6.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "运动健身",
+      "count": 3.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 66.7,
+      "over_3yr_pct": 33.3
+    },
+    {
+      "type": "车辆服务",
+      "count": 3.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
+    }
+  ]
+}

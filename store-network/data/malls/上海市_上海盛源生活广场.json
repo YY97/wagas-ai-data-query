@@ -1,0 +1,431 @@
+{
+  "name": "上海盛源生活广场",
+  "city": "上海市",
+  "address": "上海市静安区柳营路777号",
+  "lat": 31.263885,
+  "lng": 121.455428,
+  "overview": {
+    "score": 84.3,
+    "score_rank": "市内前30%",
+    "population_score": 99.3,
+    "area_score": 72.8,
+    "consumption_score": 81.2,
+    "industry_score": 84.3,
+    "annual_sales": "盛源生活广场包含六大主题功能：零售、餐饮、娱乐、教育、生活配套、便民服务一站式生活体验，旨在为消费者创造便利、舒适品味的未来社区生活方式",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 4.8,
+    "open_date": "2012-07-01",
+    "operator": "上海盛懿原科技发展（集团）有限公司",
+    "brand": "",
+    "type": "亲子型",
+    "floors": "L1-L5"
+  },
+  "traffic": {
+    "annual_daily": 3562.0,
+    "annual_daily_unit": "人次",
+    "annual_daily_rank": "市内第412",
+    "jun_total": 14.0,
+    "jun_total_rank": "市内商场第436名",
+    "jun_daily_avg": 4661.0,
+    "jun_daily_unit": "人次",
+    "jun_daily_rank": "市内商场第436名",
+    "weekday_avg": 4116.0,
+    "weekday_unit": "人次",
+    "weekday_rank": "市内商场第448名",
+    "holiday_avg": 6156.0,
+    "holiday_unit": "人次",
+    "holiday_rank": "市内商场第409名"
+  },
+  "population": {
+    "residential": {
+      "500m": 3.7,
+      "1_5km": 36.6,
+      "3km": 116.8
+    },
+    "office": {
+      "500m": 1.7,
+      "1_5km": 17.6,
+      "3km": 67.9
+    },
+    "permanent": {
+      "500m": 3.6,
+      "1_5km": 37.3,
+      "3km": 123.3
+    }
+  },
+  "business": {
+    "competitors": 1.0,
+    "food": 86.0,
+    "shopping": 143.0,
+    "leisure": 21.0,
+    "education": 36.0,
+    "hotel": 25.0,
+    "services": 87.0,
+    "fitness": 26.0,
+    "auto": 17.0,
+    "total_stores": 52.0,
+    "old_store_3yr_pct": 67.0
+  },
+  "nearby_poi": {
+    "business": 4.0,
+    "community": 791.0,
+    "office": 83.0,
+    "school": 60.0,
+    "hospital": 115.0,
+    "transport": 11.0,
+    "scenic": 262.0
+  },
+  "demographics": {
+    "male_pct": 47.0,
+    "female_pct": null,
+    "education": {
+      "小学": 9.4,
+      "初中": 18.4,
+      "高中": 11.7,
+      "大专": 7.3,
+      "本科": 47.6,
+      "硕士": 4.1,
+      "博士": 1.5
+    },
+    "has_children_pct": 59.5,
+    "no_children_pct": 40.5
+  },
+  "scraped_at": "2026-07-31T17:11:56.831Z",
+  "nearby_restaurants": [
+    {
+      "brand": "930私房菜(盛源生活广场店)",
+      "address": "柳营路777号盛源生活广场5楼",
+      "distance": "3m"
+    },
+    {
+      "brand": "老东北大铁锅炖菜馆(盛源生活广场店)",
+      "address": "柳营路777号盛源生活广场F4层",
+      "distance": "3m"
+    },
+    {
+      "brand": "海底捞火锅(柳营路店)",
+      "address": "柳营路盛源生活广场4楼海底捞",
+      "distance": "5m"
+    },
+    {
+      "brand": "老钱私房菜(柳营路店)",
+      "address": "柳营路777号盛源生活广场F4层",
+      "distance": "7m"
+    },
+    {
+      "brand": "甲二娘小炒(盛源生活广场店)",
+      "address": "泽州路与柳营路交叉口北60米",
+      "distance": "15m"
+    },
+    {
+      "brand": "悸动烧仙草(静安柳营盛源生活广场店)",
+      "address": "柳营路763号盛源广场第1层101-15、16室",
+      "distance": "17m"
+    },
+    {
+      "brand": "卤久久熏酱熟食(盛源生活广场店)",
+      "address": "柳营路777号盛源生活广场F4层",
+      "distance": "17m"
+    },
+    {
+      "brand": "豪享来(柳营店)",
+      "address": "柳营路777号盛源生活广场F1",
+      "distance": "18m"
+    },
+    {
+      "brand": "麦当劳(上海麦当劳静安盛源生活广场餐厅)",
+      "address": "中国(上海)静安区柳营路777号1楼盛源生活广场",
+      "distance": "30m"
+    },
+    {
+      "brand": "必胜客(盛源生活广场店)",
+      "address": "柳营路777号盛源生活广场F1层",
+      "distance": "34m"
+    },
+    {
+      "brand": "930私房菜(盛源生活广场店)",
+      "address": "柳营路777号盛源生活广场5楼",
+      "distance": "3m"
+    },
+    {
+      "brand": "老东北大铁锅炖菜馆(盛源生活广场店)",
+      "address": "柳营路777号盛源生活广场F4层",
+      "distance": "3m"
+    },
+    {
+      "brand": "海底捞火锅(柳营路店)",
+      "address": "柳营路盛源生活广场4楼海底捞",
+      "distance": "5m"
+    },
+    {
+      "brand": "老钱私房菜(柳营路店)",
+      "address": "柳营路777号盛源生活广场F4层",
+      "distance": "7m"
+    },
+    {
+      "brand": "甲二娘小炒(盛源生活广场店)",
+      "address": "泽州路与柳营路交叉口北60米",
+      "distance": "15m"
+    },
+    {
+      "brand": "悸动烧仙草(静安柳营盛源生活广场店)",
+      "address": "柳营路763号盛源广场第1层101-15、16室",
+      "distance": "17m"
+    },
+    {
+      "brand": "卤久久熏酱熟食(盛源生活广场店)",
+      "address": "柳营路777号盛源生活广场F4层",
+      "distance": "17m"
+    },
+    {
+      "brand": "豪享来(柳营店)",
+      "address": "柳营路777号盛源生活广场F1",
+      "distance": "18m"
+    },
+    {
+      "brand": "麦当劳(上海麦当劳静安盛源生活广场餐厅)",
+      "address": "中国(上海)静安区柳营路777号1楼盛源生活广场",
+      "distance": "30m"
+    },
+    {
+      "brand": "必胜客(盛源生活广场店)",
+      "address": "柳营路777号盛源生活广场F1层",
+      "distance": "34m"
+    },
+    {
+      "brand": "930私房菜(盛源生活广场店)",
+      "address": "柳营路777号盛源生活广场5楼",
+      "distance": "3m"
+    },
+    {
+      "brand": "老东北大铁锅炖菜馆(盛源生活广场店)",
+      "address": "柳营路777号盛源生活广场F4层",
+      "distance": "3m"
+    },
+    {
+      "brand": "海底捞火锅(柳营路店)",
+      "address": "柳营路盛源生活广场4楼海底捞",
+      "distance": "5m"
+    },
+    {
+      "brand": "老钱私房菜(柳营路店)",
+      "address": "柳营路777号盛源生活广场F4层",
+      "distance": "7m"
+    },
+    {
+      "brand": "甲二娘小炒(盛源生活广场店)",
+      "address": "泽州路与柳营路交叉口北60米",
+      "distance": "15m"
+    },
+    {
+      "brand": "悸动烧仙草(静安柳营盛源生活广场店)",
+      "address": "柳营路763号盛源广场第1层101-15、16室",
+      "distance": "17m"
+    },
+    {
+      "brand": "卤久久熏酱熟食(盛源生活广场店)",
+      "address": "柳营路777号盛源生活广场F4层",
+      "distance": "17m"
+    },
+    {
+      "brand": "豪享来(柳营店)",
+      "address": "柳营路777号盛源生活广场F1",
+      "distance": "18m"
+    },
+    {
+      "brand": "麦当劳(上海麦当劳静安盛源生活广场餐厅)",
+      "address": "中国(上海)静安区柳营路777号1楼盛源生活广场",
+      "distance": "30m"
+    },
+    {
+      "brand": "必胜客(盛源生活广场店)",
+      "address": "柳营路777号盛源生活广场F1层",
+      "distance": "34m"
+    },
+    {
+      "brand": "930私房菜(盛源生活广场店)",
+      "address": "柳营路777号盛源生活广场5楼",
+      "distance": "3m"
+    },
+    {
+      "brand": "老东北大铁锅炖菜馆(盛源生活广场店)",
+      "address": "柳营路777号盛源生活广场F4层",
+      "distance": "3m"
+    },
+    {
+      "brand": "海底捞火锅(柳营路店)",
+      "address": "柳营路盛源生活广场4楼海底捞",
+      "distance": "5m"
+    },
+    {
+      "brand": "老钱私房菜(柳营路店)",
+      "address": "柳营路777号盛源生活广场F4层",
+      "distance": "7m"
+    },
+    {
+      "brand": "甲二娘小炒(盛源生活广场店)",
+      "address": "泽州路与柳营路交叉口北60米",
+      "distance": "15m"
+    },
+    {
+      "brand": "悸动烧仙草(静安柳营盛源生活广场店)",
+      "address": "柳营路763号盛源广场第1层101-15、16室",
+      "distance": "17m"
+    },
+    {
+      "brand": "卤久久熏酱熟食(盛源生活广场店)",
+      "address": "柳营路777号盛源生活广场F4层",
+      "distance": "17m"
+    },
+    {
+      "brand": "豪享来(柳营店)",
+      "address": "柳营路777号盛源生活广场F1",
+      "distance": "18m"
+    },
+    {
+      "brand": "麦当劳(上海麦当劳静安盛源生活广场餐厅)",
+      "address": "中国(上海)静安区柳营路777号1楼盛源生活广场",
+      "distance": "30m"
+    },
+    {
+      "brand": "必胜客(盛源生活广场店)",
+      "address": "柳营路777号盛源生活广场F1层",
+      "distance": "34m"
+    },
+    {
+      "brand": "930私房菜(盛源生活广场店)",
+      "address": "柳营路777号盛源生活广场5楼",
+      "distance": "3m"
+    },
+    {
+      "brand": "老东北大铁锅炖菜馆(盛源生活广场店)",
+      "address": "柳营路777号盛源生活广场F4层",
+      "distance": "3m"
+    },
+    {
+      "brand": "海底捞火锅(柳营路店)",
+      "address": "柳营路盛源生活广场4楼海底捞",
+      "distance": "5m"
+    },
+    {
+      "brand": "老钱私房菜(柳营路店)",
+      "address": "柳营路777号盛源生活广场F4层",
+      "distance": "7m"
+    },
+    {
+      "brand": "甲二娘小炒(盛源生活广场店)",
+      "address": "泽州路与柳营路交叉口北60米",
+      "distance": "15m"
+    },
+    {
+      "brand": "悸动烧仙草(静安柳营盛源生活广场店)",
+      "address": "柳营路763号盛源广场第1层101-15、16室",
+      "distance": "17m"
+    },
+    {
+      "brand": "卤久久熏酱熟食(盛源生活广场店)",
+      "address": "柳营路777号盛源生活广场F4层",
+      "distance": "17m"
+    },
+    {
+      "brand": "豪享来(柳营店)",
+      "address": "柳营路777号盛源生活广场F1",
+      "distance": "18m"
+    },
+    {
+      "brand": "麦当劳(上海麦当劳静安盛源生活广场餐厅)",
+      "address": "中国(上海)静安区柳营路777号1楼盛源生活广场",
+      "distance": "30m"
+    },
+    {
+      "brand": "必胜客(盛源生活广场店)",
+      "address": "柳营路777号盛源生活广场F1层",
+      "distance": "34m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海五月花生活广场",
+      "open_date": "2012-03-15",
+      "area": "3.1万㎡",
+      "jun_daily_avg": "1.2万人次",
+      "weekday_avg": "1.2万人次",
+      "holiday_avg": "1.2万人次"
+    },
+    {
+      "name": "上海金融街·融悦汇",
+      "open_date": "2021-01-01",
+      "area": "6万㎡",
+      "jun_daily_avg": "1.5万人次",
+      "weekday_avg": "1.6万人次",
+      "holiday_avg": "1.2万人次"
+    },
+    {
+      "name": "上海大宁国际商业广场",
+      "open_date": "2006-01-01",
+      "area": "10.5万㎡",
+      "jun_daily_avg": "3.3万人次",
+      "weekday_avg": "2.9万人次",
+      "holiday_avg": "4.2万人次"
+    },
+    {
+      "name": "上海久光中心",
+      "open_date": "2021-11-27",
+      "area": "18万㎡",
+      "jun_daily_avg": "4.5万人次",
+      "weekday_avg": "4万人次",
+      "holiday_avg": "5.8万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 11.0,
+      "within_1yr_pct": 27.3,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 72.7
+    },
+    {
+      "type": "购物",
+      "count": 4.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 75.0
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 6.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 16.7,
+      "over_3yr_pct": 33.3
+    },
+    {
+      "type": "教育培训",
+      "count": 13.0,
+      "within_1yr_pct": 15.4,
+      "1_3yr_pct": 23.1,
+      "over_3yr_pct": 61.5
+    },
+    {
+      "type": "生活服务",
+      "count": 9.0,
+      "within_1yr_pct": 11.1,
+      "1_3yr_pct": 22.2,
+      "over_3yr_pct": 66.7
+    },
+    {
+      "type": "运动健身",
+      "count": 7.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 14.3,
+      "over_3yr_pct": 85.7
+    },
+    {
+      "type": "车辆服务",
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    }
+  ]
+}

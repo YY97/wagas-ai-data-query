@@ -1,0 +1,455 @@
+{
+  "name": "嘉业国际城购物中心",
+  "city": "南京市",
+  "address": "江苏省南京市建邺区庐山路158号嘉业国际城内(近奥体大街)",
+  "lat": 31.999266,
+  "lng": 118.728674,
+  "overview": {
+    "score": 75.8,
+    "score_rank": "市内前50%",
+    "population_score": 84.8,
+    "area_score": 82.9,
+    "consumption_score": 89.7,
+    "industry_score": 75.7,
+    "annual_sales": "嘉业国际城购物中心是集精品购物、娱乐休闲、时尚餐饮、婴幼育乐等四大主题元素为一体的综合性建筑，曾引进华东地区单店面积最大的周大福、苏果SO GOOD精品超市等，定位以“引领时尚、品质生活”为主",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 3.4,
+    "open_date": "2011-01-01",
+    "operator": "浙江嘉业物业管理有限公司",
+    "brand": "",
+    "type": "美食型",
+    "floors": "B2-L5"
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "-",
+    "annual_daily_rank": "",
+    "jun_total": null,
+    "jun_total_rank": "",
+    "jun_daily_avg": null,
+    "jun_daily_unit": "",
+    "jun_daily_rank": "",
+    "weekday_avg": null,
+    "weekday_unit": "",
+    "weekday_rank": "",
+    "holiday_avg": null,
+    "holiday_unit": "",
+    "holiday_rank": ""
+  },
+  "population": {
+    "residential": {
+      "500m": 1.4,
+      "1_5km": 8.5,
+      "3km": 31.1
+    },
+    "office": {
+      "500m": 2.4,
+      "1_5km": 10.9,
+      "3km": 30.5
+    },
+    "permanent": {
+      "500m": 1.6,
+      "1_5km": 9.7,
+      "3km": 32.9
+    }
+  },
+  "business": {
+    "competitors": 4.0,
+    "food": 236.0,
+    "shopping": 142.0,
+    "leisure": 23.0,
+    "education": 69.0,
+    "hotel": 43.0,
+    "services": 163.0,
+    "fitness": 39.0,
+    "auto": 12.0,
+    "total_stores": 35.0,
+    "old_store_3yr_pct": 31.0
+  },
+  "nearby_poi": {
+    "business": 7.0,
+    "community": 193.0,
+    "office": 57.0,
+    "school": 21.0,
+    "hospital": 52.0,
+    "transport": 9.0,
+    "scenic": 130.0
+  },
+  "demographics": {
+    "male_pct": 45.6,
+    "female_pct": null,
+    "education": {
+      "小学": 9.3,
+      "初中": 16.1,
+      "高中": 10.0,
+      "大专": 7.8,
+      "本科": 46.7,
+      "硕士": 8.6,
+      "博士": 1.5
+    },
+    "has_children_pct": 59.8,
+    "no_children_pct": 40.2
+  },
+  "scraped_at": "2026-08-02T09:22:28.529Z",
+  "nearby_restaurants": [
+    {
+      "brand": "列车食堂",
+      "address": "庐山路158号嘉业国际城·购物中心F1层",
+      "distance": "15m"
+    },
+    {
+      "brand": "贼下饭四菜一饭(河西店)",
+      "address": "嘉业国际城·购物中心",
+      "distance": "20m"
+    },
+    {
+      "brand": "御尚旬府·佛跳墙(嘉业国际城购物中心店)",
+      "address": "庐山路158号嘉业国际城5号楼5楼",
+      "distance": "21m"
+    },
+    {
+      "brand": "沈灶·河豚全宴(嘉业国际城·购物中心店)",
+      "address": "庐山路158号-5号楼-5层",
+      "distance": "22m"
+    },
+    {
+      "brand": "盛记黄焖鸡米饭(嘉业国际城店)",
+      "address": "庐山路158号嘉业国际城5栋1-11-2室",
+      "distance": "23m"
+    },
+    {
+      "brand": "潮汕隆江猪脚饭",
+      "address": "庐山路158号嘉业国际广场1-10-02室",
+      "distance": "23m"
+    },
+    {
+      "brand": "蜜雪冰城(庐山路嘉业国际城5号楼河西CBD绿轴旁)",
+      "address": "庐山路158号嘉业国际城5幢1-7",
+      "distance": "25m"
+    },
+    {
+      "brand": "张启禄小吃",
+      "address": "嘉业国际城·购物中心",
+      "distance": "25m"
+    },
+    {
+      "brand": "三牌楼酸菜鱼(奥体店)",
+      "address": "沙洲街道庐山路158号嘉业国际城5幢1-7室",
+      "distance": "31m"
+    },
+    {
+      "brand": "see by one斯湾餐厅",
+      "address": "嘉业国际5号楼一楼",
+      "distance": "35m"
+    },
+    {
+      "brand": "列车食堂",
+      "address": "庐山路158号嘉业国际城·购物中心F1层",
+      "distance": "15m"
+    },
+    {
+      "brand": "贼下饭四菜一饭(河西店)",
+      "address": "嘉业国际城·购物中心",
+      "distance": "20m"
+    },
+    {
+      "brand": "御尚旬府·佛跳墙(嘉业国际城购物中心店)",
+      "address": "庐山路158号嘉业国际城5号楼5楼",
+      "distance": "21m"
+    },
+    {
+      "brand": "沈灶·河豚全宴(嘉业国际城·购物中心店)",
+      "address": "庐山路158号-5号楼-5层",
+      "distance": "22m"
+    },
+    {
+      "brand": "盛记黄焖鸡米饭(嘉业国际城店)",
+      "address": "庐山路158号嘉业国际城5栋1-11-2室",
+      "distance": "23m"
+    },
+    {
+      "brand": "潮汕隆江猪脚饭",
+      "address": "庐山路158号嘉业国际广场1-10-02室",
+      "distance": "23m"
+    },
+    {
+      "brand": "蜜雪冰城(庐山路嘉业国际城5号楼河西CBD绿轴旁)",
+      "address": "庐山路158号嘉业国际城5幢1-7",
+      "distance": "25m"
+    },
+    {
+      "brand": "张启禄小吃",
+      "address": "嘉业国际城·购物中心",
+      "distance": "25m"
+    },
+    {
+      "brand": "三牌楼酸菜鱼(奥体店)",
+      "address": "沙洲街道庐山路158号嘉业国际城5幢1-7室",
+      "distance": "31m"
+    },
+    {
+      "brand": "see by one斯湾餐厅",
+      "address": "嘉业国际5号楼一楼",
+      "distance": "35m"
+    },
+    {
+      "brand": "列车食堂",
+      "address": "庐山路158号嘉业国际城·购物中心F1层",
+      "distance": "15m"
+    },
+    {
+      "brand": "贼下饭四菜一饭(河西店)",
+      "address": "嘉业国际城·购物中心",
+      "distance": "20m"
+    },
+    {
+      "brand": "御尚旬府·佛跳墙(嘉业国际城购物中心店)",
+      "address": "庐山路158号嘉业国际城5号楼5楼",
+      "distance": "21m"
+    },
+    {
+      "brand": "沈灶·河豚全宴(嘉业国际城·购物中心店)",
+      "address": "庐山路158号-5号楼-5层",
+      "distance": "22m"
+    },
+    {
+      "brand": "盛记黄焖鸡米饭(嘉业国际城店)",
+      "address": "庐山路158号嘉业国际城5栋1-11-2室",
+      "distance": "23m"
+    },
+    {
+      "brand": "潮汕隆江猪脚饭",
+      "address": "庐山路158号嘉业国际广场1-10-02室",
+      "distance": "23m"
+    },
+    {
+      "brand": "蜜雪冰城(庐山路嘉业国际城5号楼河西CBD绿轴旁)",
+      "address": "庐山路158号嘉业国际城5幢1-7",
+      "distance": "25m"
+    },
+    {
+      "brand": "张启禄小吃",
+      "address": "嘉业国际城·购物中心",
+      "distance": "25m"
+    },
+    {
+      "brand": "三牌楼酸菜鱼(奥体店)",
+      "address": "沙洲街道庐山路158号嘉业国际城5幢1-7室",
+      "distance": "31m"
+    },
+    {
+      "brand": "see by one斯湾餐厅",
+      "address": "嘉业国际5号楼一楼",
+      "distance": "35m"
+    },
+    {
+      "brand": "列车食堂",
+      "address": "庐山路158号嘉业国际城·购物中心F1层",
+      "distance": "15m"
+    },
+    {
+      "brand": "贼下饭四菜一饭(河西店)",
+      "address": "嘉业国际城·购物中心",
+      "distance": "20m"
+    },
+    {
+      "brand": "御尚旬府·佛跳墙(嘉业国际城购物中心店)",
+      "address": "庐山路158号嘉业国际城5号楼5楼",
+      "distance": "21m"
+    },
+    {
+      "brand": "沈灶·河豚全宴(嘉业国际城·购物中心店)",
+      "address": "庐山路158号-5号楼-5层",
+      "distance": "22m"
+    },
+    {
+      "brand": "盛记黄焖鸡米饭(嘉业国际城店)",
+      "address": "庐山路158号嘉业国际城5栋1-11-2室",
+      "distance": "23m"
+    },
+    {
+      "brand": "潮汕隆江猪脚饭",
+      "address": "庐山路158号嘉业国际广场1-10-02室",
+      "distance": "23m"
+    },
+    {
+      "brand": "蜜雪冰城(庐山路嘉业国际城5号楼河西CBD绿轴旁)",
+      "address": "庐山路158号嘉业国际城5幢1-7",
+      "distance": "25m"
+    },
+    {
+      "brand": "张启禄小吃",
+      "address": "嘉业国际城·购物中心",
+      "distance": "25m"
+    },
+    {
+      "brand": "三牌楼酸菜鱼(奥体店)",
+      "address": "沙洲街道庐山路158号嘉业国际城5幢1-7室",
+      "distance": "31m"
+    },
+    {
+      "brand": "see by one斯湾餐厅",
+      "address": "嘉业国际5号楼一楼",
+      "distance": "35m"
+    },
+    {
+      "brand": "列车食堂",
+      "address": "庐山路158号嘉业国际城·购物中心F1层",
+      "distance": "15m"
+    },
+    {
+      "brand": "贼下饭四菜一饭(河西店)",
+      "address": "嘉业国际城·购物中心",
+      "distance": "20m"
+    },
+    {
+      "brand": "御尚旬府·佛跳墙(嘉业国际城购物中心店)",
+      "address": "庐山路158号嘉业国际城5号楼5楼",
+      "distance": "21m"
+    },
+    {
+      "brand": "沈灶·河豚全宴(嘉业国际城·购物中心店)",
+      "address": "庐山路158号-5号楼-5层",
+      "distance": "22m"
+    },
+    {
+      "brand": "盛记黄焖鸡米饭(嘉业国际城店)",
+      "address": "庐山路158号嘉业国际城5栋1-11-2室",
+      "distance": "23m"
+    },
+    {
+      "brand": "潮汕隆江猪脚饭",
+      "address": "庐山路158号嘉业国际广场1-10-02室",
+      "distance": "23m"
+    },
+    {
+      "brand": "蜜雪冰城(庐山路嘉业国际城5号楼河西CBD绿轴旁)",
+      "address": "庐山路158号嘉业国际城5幢1-7",
+      "distance": "25m"
+    },
+    {
+      "brand": "张启禄小吃",
+      "address": "嘉业国际城·购物中心",
+      "distance": "25m"
+    },
+    {
+      "brand": "三牌楼酸菜鱼(奥体店)",
+      "address": "沙洲街道庐山路158号嘉业国际城5幢1-7室",
+      "distance": "31m"
+    },
+    {
+      "brand": "see by one斯湾餐厅",
+      "address": "嘉业国际5号楼一楼",
+      "distance": "35m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "南京金奥美学生活馆",
+      "open_date": "2019-09-01",
+      "area": "6万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "南京华采天地",
+      "open_date": "2019-05-18",
+      "area": "17万㎡",
+      "jun_daily_avg": "7.4万人次",
+      "weekday_avg": "6.2万人次",
+      "holiday_avg": "10.6万人次"
+    },
+    {
+      "name": "南京金奥缤润汇",
+      "open_date": "2016-11-14",
+      "area": "7.8万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "南京中央商场(河西店)",
+      "open_date": "2013-06-28",
+      "area": "5万㎡",
+      "jun_daily_avg": "1.5万人次",
+      "weekday_avg": "1.4万人次",
+      "holiday_avg": "1.8万人次"
+    },
+    {
+      "name": "好邻居生活广场(黄山路店)",
+      "open_date": "-",
+      "area": "-",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "南京IFC",
+      "open_date": "2024-07-26",
+      "area": "10万㎡",
+      "jun_daily_avg": "2.9万人次",
+      "weekday_avg": "3万人次",
+      "holiday_avg": "2.9万人次"
+    },
+    {
+      "name": "龙湖南京河西天街",
+      "open_date": "2021-08-27",
+      "area": "16万㎡",
+      "jun_daily_avg": "4.5万人次",
+      "weekday_avg": "4.3万人次",
+      "holiday_avg": "5.1万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 22.0,
+      "within_1yr_pct": 31.8,
+      "1_3yr_pct": 45.5,
+      "over_3yr_pct": 22.7
+    },
+    {
+      "type": "购物",
+      "count": 3.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 66.7
+    },
+    {
+      "type": "教育培训",
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 3.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 66.7,
+      "over_3yr_pct": 33.3
+    },
+    {
+      "type": "生活服务",
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "运动健身",
+      "count": 2.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    }
+  ]
+}

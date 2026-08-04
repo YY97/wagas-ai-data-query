@@ -1,0 +1,486 @@
+{
+  "name": "上海世茂广场",
+  "city": "上海市",
+  "address": "上海市黄浦区南京路步行街829号",
+  "lat": 31.234491,
+  "lng": 121.47566,
+  "overview": {
+    "score": 95.5,
+    "score_rank": "市内前30%",
+    "population_score": 94.1,
+    "area_score": 100.0,
+    "consumption_score": 87.3,
+    "industry_score": 95.5,
+    "annual_sales": "19",
+    "annual_sales_unit": "亿元",
+    "area_size_sqm": 5.8,
+    "open_date": "2018-09-28",
+    "operator": "上海世茂股份有限公司",
+    "brand": "世茂商业",
+    "type": "美食型",
+    "floors": "B1-L6"
+  },
+  "traffic": {
+    "annual_daily": 5.84,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第15",
+    "jun_total": 198.7,
+    "jun_total_rank": "市内商场第33名",
+    "jun_daily_avg": 6.6,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第33名",
+    "weekday_avg": 5.6,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第44名",
+    "holiday_avg": 9.5,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第23名"
+  },
+  "population": {
+    "residential": {
+      "500m": 2.9,
+      "1_5km": 19.4,
+      "3km": 80.3
+    },
+    "office": {
+      "500m": 5.5,
+      "1_5km": 36.3,
+      "3km": 111.0
+    },
+    "permanent": {
+      "500m": 5.1,
+      "1_5km": 27.6,
+      "3km": 104.6
+    }
+  },
+  "business": {
+    "competitors": 31.0,
+    "food": 827.0,
+    "shopping": 1017.0,
+    "leisure": 183.0,
+    "education": 44.0,
+    "hotel": 176.0,
+    "services": 340.0,
+    "fitness": 25.0,
+    "auto": 42.0,
+    "total_stores": 128.0,
+    "old_store_3yr_pct": 43.0
+  },
+  "nearby_poi": {
+    "business": 37.0,
+    "community": 914.0,
+    "office": 258.0,
+    "school": 48.0,
+    "hospital": 196.0,
+    "transport": 24.0,
+    "scenic": 982.0
+  },
+  "demographics": {
+    "male_pct": 46.7,
+    "female_pct": null,
+    "education": {
+      "小学": 8.9,
+      "初中": 16.3,
+      "高中": 11.4,
+      "大专": 6.9,
+      "本科": 48.5,
+      "硕士": 6.2,
+      "博士": 1.8
+    },
+    "has_children_pct": 59.2,
+    "no_children_pct": 40.8
+  },
+  "scraped_at": "2026-07-31T15:17:03.526Z",
+  "nearby_restaurants": [
+    {
+      "brand": "品肴轩(南京东路店)",
+      "address": "南京东路789号康莱德酒店8楼802室",
+      "distance": "0m"
+    },
+    {
+      "brand": "上海康莱德酒店·尚呈中餐厅",
+      "address": "南京东路789号上海康莱德大酒店8楼",
+      "distance": "0m"
+    },
+    {
+      "brand": "LELECHA乐乐茶(上海世茂广场店)",
+      "address": "南京东路街道南京东路829号上海世茂广场裙房L3层326-1号",
+      "distance": "2m"
+    },
+    {
+      "brand": "靖膳珑誉(上海世茂广场店)",
+      "address": "南京东路789号上海世茂广场M层",
+      "distance": "2m"
+    },
+    {
+      "brand": "一绪寿喜烧(上海世茂广场店)",
+      "address": "南京东路829号上海世茂广场西区L4楼401&403B号商铺",
+      "distance": "6m"
+    },
+    {
+      "brand": "入秋豆脯饼(世茂广场店)",
+      "address": "南京东路789号上海世茂广场L1层",
+      "distance": "7m"
+    },
+    {
+      "brand": "全职食栈",
+      "address": "南京东路街道南京东路829号世茂广场裙楼L2层220A",
+      "distance": "9m"
+    },
+    {
+      "brand": "绿皮火车茶礼(上海世茂店)",
+      "address": "上海世茂广场L1层室外平台(乐高LEGO前的手扶梯上去,L1电梯口)",
+      "distance": "10m"
+    },
+    {
+      "brand": "宝粤楼广式点心茶楼(人民广场世茂店)",
+      "address": "南京东路829世茂广场L4-404",
+      "distance": "11m"
+    },
+    {
+      "brand": "尚乐泰食(世茂广场店)",
+      "address": "南京东路829号世茂广场4层西区L409",
+      "distance": "14m"
+    },
+    {
+      "brand": "品肴轩(南京东路店)",
+      "address": "南京东路789号康莱德酒店8楼802室",
+      "distance": "0m"
+    },
+    {
+      "brand": "上海康莱德酒店·尚呈中餐厅",
+      "address": "南京东路789号上海康莱德大酒店8楼",
+      "distance": "0m"
+    },
+    {
+      "brand": "LELECHA乐乐茶(上海世茂广场店)",
+      "address": "南京东路街道南京东路829号上海世茂广场裙房L3层326-1号",
+      "distance": "2m"
+    },
+    {
+      "brand": "靖膳珑誉(上海世茂广场店)",
+      "address": "南京东路789号上海世茂广场M层",
+      "distance": "2m"
+    },
+    {
+      "brand": "一绪寿喜烧(上海世茂广场店)",
+      "address": "南京东路829号上海世茂广场西区L4楼401&403B号商铺",
+      "distance": "6m"
+    },
+    {
+      "brand": "入秋豆脯饼(世茂广场店)",
+      "address": "南京东路789号上海世茂广场L1层",
+      "distance": "7m"
+    },
+    {
+      "brand": "全职食栈",
+      "address": "南京东路街道南京东路829号世茂广场裙楼L2层220A",
+      "distance": "9m"
+    },
+    {
+      "brand": "绿皮火车茶礼(上海世茂店)",
+      "address": "上海世茂广场L1层室外平台(乐高LEGO前的手扶梯上去,L1电梯口)",
+      "distance": "10m"
+    },
+    {
+      "brand": "宝粤楼广式点心茶楼(人民广场世茂店)",
+      "address": "南京东路829世茂广场L4-404",
+      "distance": "11m"
+    },
+    {
+      "brand": "尚乐泰食(世茂广场店)",
+      "address": "南京东路829号世茂广场4层西区L409",
+      "distance": "14m"
+    },
+    {
+      "brand": "品肴轩(南京东路店)",
+      "address": "南京东路789号康莱德酒店8楼802室",
+      "distance": "0m"
+    },
+    {
+      "brand": "上海康莱德酒店·尚呈中餐厅",
+      "address": "南京东路789号上海康莱德大酒店8楼",
+      "distance": "0m"
+    },
+    {
+      "brand": "LELECHA乐乐茶(上海世茂广场店)",
+      "address": "南京东路街道南京东路829号上海世茂广场裙房L3层326-1号",
+      "distance": "2m"
+    },
+    {
+      "brand": "靖膳珑誉(上海世茂广场店)",
+      "address": "南京东路789号上海世茂广场M层",
+      "distance": "2m"
+    },
+    {
+      "brand": "一绪寿喜烧(上海世茂广场店)",
+      "address": "南京东路829号上海世茂广场西区L4楼401&403B号商铺",
+      "distance": "6m"
+    },
+    {
+      "brand": "入秋豆脯饼(世茂广场店)",
+      "address": "南京东路789号上海世茂广场L1层",
+      "distance": "7m"
+    },
+    {
+      "brand": "全职食栈",
+      "address": "南京东路街道南京东路829号世茂广场裙楼L2层220A",
+      "distance": "9m"
+    },
+    {
+      "brand": "绿皮火车茶礼(上海世茂店)",
+      "address": "上海世茂广场L1层室外平台(乐高LEGO前的手扶梯上去,L1电梯口)",
+      "distance": "10m"
+    },
+    {
+      "brand": "宝粤楼广式点心茶楼(人民广场世茂店)",
+      "address": "南京东路829世茂广场L4-404",
+      "distance": "11m"
+    },
+    {
+      "brand": "尚乐泰食(世茂广场店)",
+      "address": "南京东路829号世茂广场4层西区L409",
+      "distance": "14m"
+    },
+    {
+      "brand": "品肴轩(南京东路店)",
+      "address": "南京东路789号康莱德酒店8楼802室",
+      "distance": "0m"
+    },
+    {
+      "brand": "上海康莱德酒店·尚呈中餐厅",
+      "address": "南京东路789号上海康莱德大酒店8楼",
+      "distance": "0m"
+    },
+    {
+      "brand": "LELECHA乐乐茶(上海世茂广场店)",
+      "address": "南京东路街道南京东路829号上海世茂广场裙房L3层326-1号",
+      "distance": "2m"
+    },
+    {
+      "brand": "靖膳珑誉(上海世茂广场店)",
+      "address": "南京东路789号上海世茂广场M层",
+      "distance": "2m"
+    },
+    {
+      "brand": "一绪寿喜烧(上海世茂广场店)",
+      "address": "南京东路829号上海世茂广场西区L4楼401&403B号商铺",
+      "distance": "6m"
+    },
+    {
+      "brand": "入秋豆脯饼(世茂广场店)",
+      "address": "南京东路789号上海世茂广场L1层",
+      "distance": "7m"
+    },
+    {
+      "brand": "全职食栈",
+      "address": "南京东路街道南京东路829号世茂广场裙楼L2层220A",
+      "distance": "9m"
+    },
+    {
+      "brand": "绿皮火车茶礼(上海世茂店)",
+      "address": "上海世茂广场L1层室外平台(乐高LEGO前的手扶梯上去,L1电梯口)",
+      "distance": "10m"
+    },
+    {
+      "brand": "宝粤楼广式点心茶楼(人民广场世茂店)",
+      "address": "南京东路829世茂广场L4-404",
+      "distance": "11m"
+    },
+    {
+      "brand": "尚乐泰食(世茂广场店)",
+      "address": "南京东路829号世茂广场4层西区L409",
+      "distance": "14m"
+    },
+    {
+      "brand": "品肴轩(南京东路店)",
+      "address": "南京东路789号康莱德酒店8楼802室",
+      "distance": "0m"
+    },
+    {
+      "brand": "上海康莱德酒店·尚呈中餐厅",
+      "address": "南京东路789号上海康莱德大酒店8楼",
+      "distance": "0m"
+    },
+    {
+      "brand": "LELECHA乐乐茶(上海世茂广场店)",
+      "address": "南京东路街道南京东路829号上海世茂广场裙房L3层326-1号",
+      "distance": "2m"
+    },
+    {
+      "brand": "靖膳珑誉(上海世茂广场店)",
+      "address": "南京东路789号上海世茂广场M层",
+      "distance": "2m"
+    },
+    {
+      "brand": "一绪寿喜烧(上海世茂广场店)",
+      "address": "南京东路829号上海世茂广场西区L4楼401&403B号商铺",
+      "distance": "6m"
+    },
+    {
+      "brand": "入秋豆脯饼(世茂广场店)",
+      "address": "南京东路789号上海世茂广场L1层",
+      "distance": "7m"
+    },
+    {
+      "brand": "全职食栈",
+      "address": "南京东路街道南京东路829号世茂广场裙楼L2层220A",
+      "distance": "9m"
+    },
+    {
+      "brand": "绿皮火车茶礼(上海世茂店)",
+      "address": "上海世茂广场L1层室外平台(乐高LEGO前的手扶梯上去,L1电梯口)",
+      "distance": "10m"
+    },
+    {
+      "brand": "宝粤楼广式点心茶楼(人民广场世茂店)",
+      "address": "南京东路829世茂广场L4-404",
+      "distance": "11m"
+    },
+    {
+      "brand": "尚乐泰食(世茂广场店)",
+      "address": "南京东路829号世茂广场4层西区L409",
+      "distance": "14m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海第一百货商店",
+      "open_date": "2024-09-30",
+      "area": "2万㎡",
+      "jun_daily_avg": "12.1万人次",
+      "weekday_avg": "10.4万人次",
+      "holiday_avg": "16.7万人次"
+    },
+    {
+      "name": "上海新世界城",
+      "open_date": "1995-12-30",
+      "area": "7万㎡",
+      "jun_daily_avg": "5.7万人次",
+      "weekday_avg": "4.9万人次",
+      "holiday_avg": "8.2万人次"
+    },
+    {
+      "name": "上海来福士广场",
+      "open_date": "2003-11-01",
+      "area": "4.6万㎡",
+      "jun_daily_avg": "2.7万人次",
+      "weekday_avg": "2.4万人次",
+      "holiday_avg": "3.3万人次"
+    },
+    {
+      "name": "上海永安百货",
+      "open_date": "2020-01-01",
+      "area": "1.5万㎡",
+      "jun_daily_avg": "1.3万人次",
+      "weekday_avg": "1.1万人次",
+      "holiday_avg": "1.7万人次"
+    },
+    {
+      "name": "上海雅居乐国际广场",
+      "open_date": "2014-07-12",
+      "area": "2.2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海阳光商厦",
+      "open_date": "-",
+      "area": "-",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海世茂52+",
+      "open_date": "2010-01-01",
+      "area": "1.5万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海U479",
+      "open_date": "2021-06-01",
+      "area": "1万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海迪美购物中心",
+      "open_date": "1995-01-01",
+      "area": "5万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海仙乐斯广场",
+      "open_date": "2001",
+      "area": "2.3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 52.0,
+      "within_1yr_pct": 17.3,
+      "1_3yr_pct": 32.7,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "购物",
+      "count": 40.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 30.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 20.0,
+      "within_1yr_pct": 40.0,
+      "1_3yr_pct": 45.0,
+      "over_3yr_pct": 15.0
+    },
+    {
+      "type": "教育培训",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 4.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 75.0
+    },
+    {
+      "type": "生活服务",
+      "count": 6.0,
+      "within_1yr_pct": 83.3,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 16.7
+    },
+    {
+      "type": "运动健身",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 4.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 25.0
+    }
+  ]
+}

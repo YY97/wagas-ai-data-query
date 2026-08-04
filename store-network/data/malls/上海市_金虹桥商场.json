@@ -1,0 +1,479 @@
+{
+  "name": "金虹桥商场",
+  "city": "上海市",
+  "address": "上海市长宁区茅台路176号",
+  "lat": 31.20894,
+  "lng": 121.402662,
+  "overview": {
+    "score": 95.5,
+    "score_rank": "市内前30%",
+    "population_score": 98.9,
+    "area_score": 95.8,
+    "consumption_score": 76.6,
+    "industry_score": 95.5,
+    "annual_sales": "金虹桥商场集国际性、休闲型、家庭式的新兴购物体验于一体，是虹桥商圈的地标性商场之一。商场业态包括时尚生活、日系料理、亲子互动、体验娱乐、影视音乐等，能满足都市人多元丰富的需求。商场绿化覆盖率高达80%，立体绿化",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 8.3,
+    "open_date": "2014-09-26",
+    "operator": "印尼金光集团",
+    "brand": "",
+    "type": "美食型",
+    "floors": "B2-L4"
+  },
+  "traffic": {
+    "annual_daily": 2.75,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第96",
+    "jun_total": 136.7,
+    "jun_total_rank": "市内商场第77名",
+    "jun_daily_avg": 4.6,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第77名",
+    "weekday_avg": 4.6,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第72名",
+    "holiday_avg": 4.5,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第99名"
+  },
+  "population": {
+    "residential": {
+      "500m": 3.7,
+      "1_5km": 23.8,
+      "3km": 82.9
+    },
+    "office": {
+      "500m": 5.0,
+      "1_5km": 20.9,
+      "3km": 66.4
+    },
+    "permanent": {
+      "500m": 5.1,
+      "1_5km": 26.7,
+      "3km": 90.1
+    }
+  },
+  "business": {
+    "competitors": 23.0,
+    "food": 541.0,
+    "shopping": 313.0,
+    "leisure": 33.0,
+    "education": 44.0,
+    "hotel": 34.0,
+    "services": 213.0,
+    "fitness": 51.0,
+    "auto": 34.0,
+    "total_stores": 215.0,
+    "old_store_3yr_pct": 60.0
+  },
+  "nearby_poi": {
+    "business": 10.0,
+    "community": 802.0,
+    "office": 91.0,
+    "school": 55.0,
+    "hospital": 139.0,
+    "transport": 15.0,
+    "scenic": 307.0
+  },
+  "demographics": {
+    "male_pct": 46.8,
+    "female_pct": null,
+    "education": {
+      "小学": 8.8,
+      "初中": 17.1,
+      "高中": 11.8,
+      "大专": 6.7,
+      "本科": 48.4,
+      "硕士": 5.4,
+      "博士": 1.8
+    },
+    "has_children_pct": 57.8,
+    "no_children_pct": 42.2
+  },
+  "scraped_at": "2026-07-31T12:03:44.261Z",
+  "nearby_restaurants": [
+    {
+      "brand": "瑞幸咖啡(金虹桥店)",
+      "address": "茅台路179号金虹桥商场负一层LG1011",
+      "distance": "5m"
+    },
+    {
+      "brand": "见东方原浆米酒&熟醉虾蟹(金虹桥店)",
+      "address": "茅台路179号金虹桥商场LG2层",
+      "distance": "6m"
+    },
+    {
+      "brand": "叁文字烧(金虹桥国际中心店)",
+      "address": "娄山关路523金虹桥国际中心LG1层",
+      "distance": "6m"
+    },
+    {
+      "brand": "山苗苗山野小火锅(金虹桥店)",
+      "address": "茅台路179号金虹桥商场LG2层",
+      "distance": "6m"
+    },
+    {
+      "brand": "广屋(金虹桥商业广场店)",
+      "address": "茅台路179号金虹桥商场LG1层",
+      "distance": "6m"
+    },
+    {
+      "brand": "锅气·湖南饭店(金虹桥店)",
+      "address": "茅台路179号金虹桥商场LG2层",
+      "distance": "6m"
+    },
+    {
+      "brand": "佳家汤包(金虹桥店)",
+      "address": "茅台路179号金虹桥商场LG2层",
+      "distance": "8m"
+    },
+    {
+      "brand": "喜茶(上海金虹桥国际中心店)",
+      "address": "茅台路179号金虹桥国际中心商场L1楼L112号商铺",
+      "distance": "8m"
+    },
+    {
+      "brand": "和记小菜(金虹桥店)",
+      "address": "茅台路179号二层L204L205L206",
+      "distance": "9m"
+    },
+    {
+      "brand": "茶百道(金虹桥国际中心店)",
+      "address": "茅台路179号金虹桥国际中心商场地下二层LG2039室",
+      "distance": "9m"
+    },
+    {
+      "brand": "瑞幸咖啡(金虹桥店)",
+      "address": "茅台路179号金虹桥商场负一层LG1011",
+      "distance": "5m"
+    },
+    {
+      "brand": "见东方原浆米酒&熟醉虾蟹(金虹桥店)",
+      "address": "茅台路179号金虹桥商场LG2层",
+      "distance": "6m"
+    },
+    {
+      "brand": "叁文字烧(金虹桥国际中心店)",
+      "address": "娄山关路523金虹桥国际中心LG1层",
+      "distance": "6m"
+    },
+    {
+      "brand": "山苗苗山野小火锅(金虹桥店)",
+      "address": "茅台路179号金虹桥商场LG2层",
+      "distance": "6m"
+    },
+    {
+      "brand": "广屋(金虹桥商业广场店)",
+      "address": "茅台路179号金虹桥商场LG1层",
+      "distance": "6m"
+    },
+    {
+      "brand": "锅气·湖南饭店(金虹桥店)",
+      "address": "茅台路179号金虹桥商场LG2层",
+      "distance": "6m"
+    },
+    {
+      "brand": "佳家汤包(金虹桥店)",
+      "address": "茅台路179号金虹桥商场LG2层",
+      "distance": "8m"
+    },
+    {
+      "brand": "喜茶(上海金虹桥国际中心店)",
+      "address": "茅台路179号金虹桥国际中心商场L1楼L112号商铺",
+      "distance": "8m"
+    },
+    {
+      "brand": "和记小菜(金虹桥店)",
+      "address": "茅台路179号二层L204L205L206",
+      "distance": "9m"
+    },
+    {
+      "brand": "茶百道(金虹桥国际中心店)",
+      "address": "茅台路179号金虹桥国际中心商场地下二层LG2039室",
+      "distance": "9m"
+    },
+    {
+      "brand": "瑞幸咖啡(金虹桥店)",
+      "address": "茅台路179号金虹桥商场负一层LG1011",
+      "distance": "5m"
+    },
+    {
+      "brand": "见东方原浆米酒&熟醉虾蟹(金虹桥店)",
+      "address": "茅台路179号金虹桥商场LG2层",
+      "distance": "6m"
+    },
+    {
+      "brand": "叁文字烧(金虹桥国际中心店)",
+      "address": "娄山关路523金虹桥国际中心LG1层",
+      "distance": "6m"
+    },
+    {
+      "brand": "山苗苗山野小火锅(金虹桥店)",
+      "address": "茅台路179号金虹桥商场LG2层",
+      "distance": "6m"
+    },
+    {
+      "brand": "广屋(金虹桥商业广场店)",
+      "address": "茅台路179号金虹桥商场LG1层",
+      "distance": "6m"
+    },
+    {
+      "brand": "锅气·湖南饭店(金虹桥店)",
+      "address": "茅台路179号金虹桥商场LG2层",
+      "distance": "6m"
+    },
+    {
+      "brand": "佳家汤包(金虹桥店)",
+      "address": "茅台路179号金虹桥商场LG2层",
+      "distance": "8m"
+    },
+    {
+      "brand": "喜茶(上海金虹桥国际中心店)",
+      "address": "茅台路179号金虹桥国际中心商场L1楼L112号商铺",
+      "distance": "8m"
+    },
+    {
+      "brand": "和记小菜(金虹桥店)",
+      "address": "茅台路179号二层L204L205L206",
+      "distance": "9m"
+    },
+    {
+      "brand": "茶百道(金虹桥国际中心店)",
+      "address": "茅台路179号金虹桥国际中心商场地下二层LG2039室",
+      "distance": "9m"
+    },
+    {
+      "brand": "瑞幸咖啡(金虹桥店)",
+      "address": "茅台路179号金虹桥商场负一层LG1011",
+      "distance": "5m"
+    },
+    {
+      "brand": "见东方原浆米酒&熟醉虾蟹(金虹桥店)",
+      "address": "茅台路179号金虹桥商场LG2层",
+      "distance": "6m"
+    },
+    {
+      "brand": "叁文字烧(金虹桥国际中心店)",
+      "address": "娄山关路523金虹桥国际中心LG1层",
+      "distance": "6m"
+    },
+    {
+      "brand": "山苗苗山野小火锅(金虹桥店)",
+      "address": "茅台路179号金虹桥商场LG2层",
+      "distance": "6m"
+    },
+    {
+      "brand": "广屋(金虹桥商业广场店)",
+      "address": "茅台路179号金虹桥商场LG1层",
+      "distance": "6m"
+    },
+    {
+      "brand": "锅气·湖南饭店(金虹桥店)",
+      "address": "茅台路179号金虹桥商场LG2层",
+      "distance": "6m"
+    },
+    {
+      "brand": "佳家汤包(金虹桥店)",
+      "address": "茅台路179号金虹桥商场LG2层",
+      "distance": "8m"
+    },
+    {
+      "brand": "喜茶(上海金虹桥国际中心店)",
+      "address": "茅台路179号金虹桥国际中心商场L1楼L112号商铺",
+      "distance": "8m"
+    },
+    {
+      "brand": "和记小菜(金虹桥店)",
+      "address": "茅台路179号二层L204L205L206",
+      "distance": "9m"
+    },
+    {
+      "brand": "茶百道(金虹桥国际中心店)",
+      "address": "茅台路179号金虹桥国际中心商场地下二层LG2039室",
+      "distance": "9m"
+    },
+    {
+      "brand": "瑞幸咖啡(金虹桥店)",
+      "address": "茅台路179号金虹桥商场负一层LG1011",
+      "distance": "5m"
+    },
+    {
+      "brand": "见东方原浆米酒&熟醉虾蟹(金虹桥店)",
+      "address": "茅台路179号金虹桥商场LG2层",
+      "distance": "6m"
+    },
+    {
+      "brand": "叁文字烧(金虹桥国际中心店)",
+      "address": "娄山关路523金虹桥国际中心LG1层",
+      "distance": "6m"
+    },
+    {
+      "brand": "山苗苗山野小火锅(金虹桥店)",
+      "address": "茅台路179号金虹桥商场LG2层",
+      "distance": "6m"
+    },
+    {
+      "brand": "广屋(金虹桥商业广场店)",
+      "address": "茅台路179号金虹桥商场LG1层",
+      "distance": "6m"
+    },
+    {
+      "brand": "锅气·湖南饭店(金虹桥店)",
+      "address": "茅台路179号金虹桥商场LG2层",
+      "distance": "6m"
+    },
+    {
+      "brand": "佳家汤包(金虹桥店)",
+      "address": "茅台路179号金虹桥商场LG2层",
+      "distance": "8m"
+    },
+    {
+      "brand": "喜茶(上海金虹桥国际中心店)",
+      "address": "茅台路179号金虹桥国际中心商场L1楼L112号商铺",
+      "distance": "8m"
+    },
+    {
+      "brand": "和记小菜(金虹桥店)",
+      "address": "茅台路179号二层L204L205L206",
+      "distance": "9m"
+    },
+    {
+      "brand": "茶百道(金虹桥国际中心店)",
+      "address": "茅台路179号金虹桥国际中心商场地下二层LG2039室",
+      "distance": "9m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海百盛优客城市广场",
+      "open_date": "2015-12-19",
+      "area": "5万㎡",
+      "jun_daily_avg": "3万人次",
+      "weekday_avg": "2.7万人次",
+      "holiday_avg": "3.6万人次"
+    },
+    {
+      "name": "上海巴黎春天(天山店)",
+      "open_date": "2013-01-01",
+      "area": "4.3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海汇金百货(虹桥店)",
+      "open_date": "2008-12-01",
+      "area": "4万㎡",
+      "jun_daily_avg": "1.3万人次",
+      "weekday_avg": "1.2万人次",
+      "holiday_avg": "1.5万人次"
+    },
+    {
+      "name": "上海虹桥南丰城",
+      "open_date": "2014-12-19",
+      "area": "11万㎡",
+      "jun_daily_avg": "5.6万人次",
+      "weekday_avg": "5.5万人次",
+      "holiday_avg": "6万人次"
+    },
+    {
+      "name": "上海尚嘉中心",
+      "open_date": "2013-06-01",
+      "area": "4.9万㎡",
+      "jun_daily_avg": "1.6万人次",
+      "weekday_avg": "1.7万人次",
+      "holiday_avg": "1.3万人次"
+    },
+    {
+      "name": "上海世贸商城",
+      "open_date": "1999-01-01",
+      "area": "19万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海高岛屋百货",
+      "open_date": "2012-12-01",
+      "area": "6.7万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海星空广场",
+      "open_date": "2015-09-27",
+      "area": "6.5万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海长宁来福士广场",
+      "open_date": "2017-06-30",
+      "area": "12万㎡",
+      "jun_daily_avg": "3.6万人次",
+      "weekday_avg": "3.4万人次",
+      "holiday_avg": "4.1万人次"
+    },
+    {
+      "name": "上海缤谷文化休闲广场",
+      "open_date": "2016-05-01",
+      "area": "3.2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 120.0,
+      "within_1yr_pct": 10.8,
+      "1_3yr_pct": 23.3,
+      "over_3yr_pct": 65.8
+    },
+    {
+      "type": "购物",
+      "count": 42.0,
+      "within_1yr_pct": 16.7,
+      "1_3yr_pct": 31.0,
+      "over_3yr_pct": 52.4
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 3.0,
+      "within_1yr_pct": 66.7,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 33.3
+    },
+    {
+      "type": "教育培训",
+      "count": 4.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 75.0
+    },
+    {
+      "type": "生活服务",
+      "count": 32.0,
+      "within_1yr_pct": 18.8,
+      "1_3yr_pct": 21.9,
+      "over_3yr_pct": 59.4
+    },
+    {
+      "type": "运动健身",
+      "count": 11.0,
+      "within_1yr_pct": 9.1,
+      "1_3yr_pct": 45.5,
+      "over_3yr_pct": 45.5
+    },
+    {
+      "type": "车辆服务",
+      "count": 3.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 33.3
+    }
+  ]
+}

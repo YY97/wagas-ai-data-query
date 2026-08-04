@@ -1,0 +1,114 @@
+{
+  "name": "宏慧新里",
+  "city": "上海市",
+  "address": "",
+  "lat": null,
+  "lng": null,
+  "overview": {
+    "score": 79.9,
+    "score_rank": "市内前30%",
+    "population_score": 72.9,
+    "area_score": 64.7,
+    "consumption_score": 71.1,
+    "industry_score": 80.0,
+    "annual_sales": "",
+    "annual_sales_unit": "",
+    "area_size_sqm": null,
+    "open_date": "",
+    "operator": "",
+    "brand": "",
+    "type": "",
+    "floors": ""
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "",
+    "annual_daily_rank": "",
+    "jun_total": null,
+    "jun_total_rank": "",
+    "jun_daily_avg": null,
+    "jun_daily_unit": "",
+    "jun_daily_rank": "",
+    "weekday_avg": null,
+    "weekday_unit": "",
+    "weekday_rank": "",
+    "holiday_avg": null,
+    "holiday_unit": "",
+    "holiday_rank": ""
+  },
+  "population": {
+    "residential": {
+      "500m": 1.1,
+      "1_5km": 6.9,
+      "3km": 31.3
+    },
+    "office": {
+      "500m": 4000.0,
+      "1_5km": 3.0,
+      "3km": 14.0
+    },
+    "permanent": {
+      "500m": 1.0,
+      "1_5km": 6.8,
+      "3km": 27.8
+    }
+  },
+  "business": {
+    "competitors": 1.0,
+    "food": 41.0,
+    "shopping": 32.0,
+    "leisure": 8.0,
+    "education": 13.0,
+    "hotel": 6.0,
+    "services": 46.0,
+    "fitness": 8.0,
+    "auto": 9.0,
+    "total_stores": null,
+    "old_store_3yr_pct": null
+  },
+  "nearby_poi": {
+    "business": 2.0,
+    "community": 111.0,
+    "office": 5.0,
+    "school": 14.0,
+    "hospital": 10.0,
+    "transport": 6.0,
+    "scenic": 30.0
+  },
+  "demographics": {
+    "male_pct": 50.7,
+    "female_pct": null,
+    "education": {
+      "小学": 10.6,
+      "初中": 19.3,
+      "高中": 12.2,
+      "大专": 8.7,
+      "本科": 44.8,
+      "硕士": 3.4,
+      "博士": 1.0
+    },
+    "has_children_pct": null,
+    "no_children_pct": null
+  },
+  "scraped_at": "2026-08-01T09:39:12.702Z",
+  "nearby_restaurants": [],
+  "nearby_malls": [
+    {
+      "name": "上海亚繁亚乐城",
+      "open_date": "2016-05-28",
+      "area": "5.5万㎡",
+      "jun_daily_avg": "2.3万人次",
+      "weekday_avg": "2万人次",
+      "holiday_avg": "3万人次"
+    },
+    {
+      "name": "上海云廊天街",
+      "open_date": "2023-09-28",
+      "area": "11.2万㎡",
+      "jun_daily_avg": "1.3万人次",
+      "weekday_avg": "1.4万人次",
+      "holiday_avg": "1.2万人次"
+    }
+  ],
+  "business_survival": []
+}

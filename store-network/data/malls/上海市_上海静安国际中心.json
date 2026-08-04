@@ -1,0 +1,472 @@
+{
+  "name": "上海静安国际中心",
+  "city": "上海市",
+  "address": "上海市静安区裕通路89号",
+  "lat": 31.243453,
+  "lng": 121.45374,
+  "overview": {
+    "score": 88.3,
+    "score_rank": "市内前30%",
+    "population_score": 90.6,
+    "area_score": 82.6,
+    "consumption_score": 85.1,
+    "industry_score": 88.3,
+    "annual_sales": "静安国际中心集星级酒店、甲级办公、时尚商业、高端住宅于一体，打造苏河湾商圈的顶尖商务配套",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 7.6,
+    "open_date": "2019-10-01",
+    "operator": "上海宝恒置业有限公司",
+    "brand": "",
+    "type": "美食型",
+    "floors": "L1-L5"
+  },
+  "traffic": {
+    "annual_daily": 4164.0,
+    "annual_daily_unit": "人次",
+    "annual_daily_rank": "市内第388",
+    "jun_total": 13.3,
+    "jun_total_rank": "市内商场第444名",
+    "jun_daily_avg": 4424.0,
+    "jun_daily_unit": "人次",
+    "jun_daily_rank": "市内商场第444名",
+    "weekday_avg": 4997.0,
+    "weekday_unit": "人次",
+    "weekday_rank": "市内商场第421名",
+    "holiday_avg": 2847.0,
+    "holiday_unit": "人次",
+    "holiday_rank": "市内商场第509名"
+  },
+  "population": {
+    "residential": {
+      "500m": 2.4,
+      "1_5km": 27.2,
+      "3km": 117.5
+    },
+    "office": {
+      "500m": 3.6,
+      "1_5km": 25.0,
+      "3km": 93.1
+    },
+    "permanent": {
+      "500m": 2.6,
+      "1_5km": 32.5,
+      "3km": 130.5
+    }
+  },
+  "business": {
+    "competitors": 11.0,
+    "food": 201.0,
+    "shopping": 94.0,
+    "leisure": 17.0,
+    "education": 12.0,
+    "hotel": 49.0,
+    "services": 112.0,
+    "fitness": 28.0,
+    "auto": 26.0,
+    "total_stores": 51.0,
+    "old_store_3yr_pct": 49.0
+  },
+  "nearby_poi": {
+    "business": 12.0,
+    "community": 999.0,
+    "office": 185.0,
+    "school": 52.0,
+    "hospital": 165.0,
+    "transport": 14.0,
+    "scenic": 488.0
+  },
+  "demographics": {
+    "male_pct": 52.3,
+    "female_pct": null,
+    "education": {
+      "小学": 9.1,
+      "初中": 17.9,
+      "高中": 12.0,
+      "大专": 6.8,
+      "本科": 47.9,
+      "硕士": 4.7,
+      "博士": 1.6
+    },
+    "has_children_pct": 57.8,
+    "no_children_pct": 42.2
+  },
+  "scraped_at": "2026-07-31T17:50:34.554Z",
+  "nearby_restaurants": [
+    {
+      "brand": "上海丽筵(静安国际中心店)",
+      "address": "长安路918号(裕通路与交汇处静安国际中心R1古建)",
+      "distance": "75m"
+    },
+    {
+      "brand": "淮臻江宴小馆(JiC静安国际中心商场西区店)",
+      "address": "天目西路街道长安路888号静安国际中心商场西区JiC静安国际中心店F1层",
+      "distance": "76m"
+    },
+    {
+      "brand": "Blue Bottle Coffee蓝瓶咖啡(裕通店)",
+      "address": "长安路908号",
+      "distance": "93m"
+    },
+    {
+      "brand": "温暖你的猪(静安国际中心店)",
+      "address": "裕通路28号",
+      "distance": "95m"
+    },
+    {
+      "brand": "杨国福麻辣烫(静安国际中心店)",
+      "address": "裕通路89号静安国际中心LG2层LG220单元",
+      "distance": "99m"
+    },
+    {
+      "brand": "太善南洋茶餐厅(静安国际中心店)",
+      "address": "裕通路2838号1层L103-2",
+      "distance": "101m"
+    },
+    {
+      "brand": "CHAGEE霸王茶姬(上海静安国际中心店)",
+      "address": "静安国际中心-裕通路2838号L1层L1031单元(太善南洋茶餐厅右侧)",
+      "distance": "105m"
+    },
+    {
+      "brand": "隐溪茶馆(上海站店)",
+      "address": "裕通路100号宝矿洲际商务中心南门(霸王茶姬旁)",
+      "distance": "129m"
+    },
+    {
+      "brand": "北湾三文鱼(西苏州路店)",
+      "address": "西苏州路85弄1-22号静安河滨花园",
+      "distance": "152m"
+    },
+    {
+      "brand": "蒙自源(上海静安国际中心商场店)",
+      "address": "裕通路89号上海静安国际中心商场B2层时光里",
+      "distance": "156m"
+    },
+    {
+      "brand": "上海丽筵(静安国际中心店)",
+      "address": "长安路918号(裕通路与交汇处静安国际中心R1古建)",
+      "distance": "75m"
+    },
+    {
+      "brand": "淮臻江宴小馆(JiC静安国际中心商场西区店)",
+      "address": "天目西路街道长安路888号静安国际中心商场西区JiC静安国际中心店F1层",
+      "distance": "76m"
+    },
+    {
+      "brand": "Blue Bottle Coffee蓝瓶咖啡(裕通店)",
+      "address": "长安路908号",
+      "distance": "93m"
+    },
+    {
+      "brand": "温暖你的猪(静安国际中心店)",
+      "address": "裕通路28号",
+      "distance": "95m"
+    },
+    {
+      "brand": "杨国福麻辣烫(静安国际中心店)",
+      "address": "裕通路89号静安国际中心LG2层LG220单元",
+      "distance": "99m"
+    },
+    {
+      "brand": "太善南洋茶餐厅(静安国际中心店)",
+      "address": "裕通路2838号1层L103-2",
+      "distance": "101m"
+    },
+    {
+      "brand": "CHAGEE霸王茶姬(上海静安国际中心店)",
+      "address": "静安国际中心-裕通路2838号L1层L1031单元(太善南洋茶餐厅右侧)",
+      "distance": "105m"
+    },
+    {
+      "brand": "隐溪茶馆(上海站店)",
+      "address": "裕通路100号宝矿洲际商务中心南门(霸王茶姬旁)",
+      "distance": "129m"
+    },
+    {
+      "brand": "北湾三文鱼(西苏州路店)",
+      "address": "西苏州路85弄1-22号静安河滨花园",
+      "distance": "152m"
+    },
+    {
+      "brand": "蒙自源(上海静安国际中心商场店)",
+      "address": "裕通路89号上海静安国际中心商场B2层时光里",
+      "distance": "156m"
+    },
+    {
+      "brand": "上海丽筵(静安国际中心店)",
+      "address": "长安路918号(裕通路与交汇处静安国际中心R1古建)",
+      "distance": "75m"
+    },
+    {
+      "brand": "淮臻江宴小馆(JiC静安国际中心商场西区店)",
+      "address": "天目西路街道长安路888号静安国际中心商场西区JiC静安国际中心店F1层",
+      "distance": "76m"
+    },
+    {
+      "brand": "Blue Bottle Coffee蓝瓶咖啡(裕通店)",
+      "address": "长安路908号",
+      "distance": "93m"
+    },
+    {
+      "brand": "温暖你的猪(静安国际中心店)",
+      "address": "裕通路28号",
+      "distance": "95m"
+    },
+    {
+      "brand": "杨国福麻辣烫(静安国际中心店)",
+      "address": "裕通路89号静安国际中心LG2层LG220单元",
+      "distance": "99m"
+    },
+    {
+      "brand": "太善南洋茶餐厅(静安国际中心店)",
+      "address": "裕通路2838号1层L103-2",
+      "distance": "101m"
+    },
+    {
+      "brand": "CHAGEE霸王茶姬(上海静安国际中心店)",
+      "address": "静安国际中心-裕通路2838号L1层L1031单元(太善南洋茶餐厅右侧)",
+      "distance": "105m"
+    },
+    {
+      "brand": "隐溪茶馆(上海站店)",
+      "address": "裕通路100号宝矿洲际商务中心南门(霸王茶姬旁)",
+      "distance": "129m"
+    },
+    {
+      "brand": "北湾三文鱼(西苏州路店)",
+      "address": "西苏州路85弄1-22号静安河滨花园",
+      "distance": "152m"
+    },
+    {
+      "brand": "蒙自源(上海静安国际中心商场店)",
+      "address": "裕通路89号上海静安国际中心商场B2层时光里",
+      "distance": "156m"
+    },
+    {
+      "brand": "上海丽筵(静安国际中心店)",
+      "address": "长安路918号(裕通路与交汇处静安国际中心R1古建)",
+      "distance": "75m"
+    },
+    {
+      "brand": "淮臻江宴小馆(JiC静安国际中心商场西区店)",
+      "address": "天目西路街道长安路888号静安国际中心商场西区JiC静安国际中心店F1层",
+      "distance": "76m"
+    },
+    {
+      "brand": "Blue Bottle Coffee蓝瓶咖啡(裕通店)",
+      "address": "长安路908号",
+      "distance": "93m"
+    },
+    {
+      "brand": "温暖你的猪(静安国际中心店)",
+      "address": "裕通路28号",
+      "distance": "95m"
+    },
+    {
+      "brand": "杨国福麻辣烫(静安国际中心店)",
+      "address": "裕通路89号静安国际中心LG2层LG220单元",
+      "distance": "99m"
+    },
+    {
+      "brand": "太善南洋茶餐厅(静安国际中心店)",
+      "address": "裕通路2838号1层L103-2",
+      "distance": "101m"
+    },
+    {
+      "brand": "CHAGEE霸王茶姬(上海静安国际中心店)",
+      "address": "静安国际中心-裕通路2838号L1层L1031单元(太善南洋茶餐厅右侧)",
+      "distance": "105m"
+    },
+    {
+      "brand": "隐溪茶馆(上海站店)",
+      "address": "裕通路100号宝矿洲际商务中心南门(霸王茶姬旁)",
+      "distance": "129m"
+    },
+    {
+      "brand": "北湾三文鱼(西苏州路店)",
+      "address": "西苏州路85弄1-22号静安河滨花园",
+      "distance": "152m"
+    },
+    {
+      "brand": "蒙自源(上海静安国际中心商场店)",
+      "address": "裕通路89号上海静安国际中心商场B2层时光里",
+      "distance": "156m"
+    },
+    {
+      "brand": "上海丽筵(静安国际中心店)",
+      "address": "长安路918号(裕通路与交汇处静安国际中心R1古建)",
+      "distance": "75m"
+    },
+    {
+      "brand": "淮臻江宴小馆(JiC静安国际中心商场西区店)",
+      "address": "天目西路街道长安路888号静安国际中心商场西区JiC静安国际中心店F1层",
+      "distance": "76m"
+    },
+    {
+      "brand": "Blue Bottle Coffee蓝瓶咖啡(裕通店)",
+      "address": "长安路908号",
+      "distance": "93m"
+    },
+    {
+      "brand": "温暖你的猪(静安国际中心店)",
+      "address": "裕通路28号",
+      "distance": "95m"
+    },
+    {
+      "brand": "杨国福麻辣烫(静安国际中心店)",
+      "address": "裕通路89号静安国际中心LG2层LG220单元",
+      "distance": "99m"
+    },
+    {
+      "brand": "太善南洋茶餐厅(静安国际中心店)",
+      "address": "裕通路2838号1层L103-2",
+      "distance": "101m"
+    },
+    {
+      "brand": "CHAGEE霸王茶姬(上海静安国际中心店)",
+      "address": "静安国际中心-裕通路2838号L1层L1031单元(太善南洋茶餐厅右侧)",
+      "distance": "105m"
+    },
+    {
+      "brand": "隐溪茶馆(上海站店)",
+      "address": "裕通路100号宝矿洲际商务中心南门(霸王茶姬旁)",
+      "distance": "129m"
+    },
+    {
+      "brand": "北湾三文鱼(西苏州路店)",
+      "address": "西苏州路85弄1-22号静安河滨花园",
+      "distance": "152m"
+    },
+    {
+      "brand": "蒙自源(上海静安国际中心商场店)",
+      "address": "裕通路89号上海静安国际中心商场B2层时光里",
+      "distance": "156m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海太阳CITY广场",
+      "open_date": "2015-01-01",
+      "area": "-",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海环龙商厦",
+      "open_date": "1992-01-01",
+      "area": "3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海凯德星贸中心",
+      "open_date": "2017-09-01",
+      "area": "1.7万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海MOHO",
+      "open_date": "2023-01-13",
+      "area": "8万㎡",
+      "jun_daily_avg": "2万人次",
+      "weekday_avg": "2万人次",
+      "holiday_avg": "1.9万人次"
+    },
+    {
+      "name": "上海大洋晶典·天安千树",
+      "open_date": "2021-12-22",
+      "area": "3.9万㎡",
+      "jun_daily_avg": "2.4万人次",
+      "weekday_avg": "2.1万人次",
+      "holiday_avg": "3.1万人次"
+    },
+    {
+      "name": "上海巴黎春天(陕西路店)",
+      "open_date": "2011-11-01",
+      "area": "4.2万㎡",
+      "jun_daily_avg": "1.2万人次",
+      "weekday_avg": "1.1万人次",
+      "holiday_avg": "1.3万人次"
+    },
+    {
+      "name": "上海189弄购物中心",
+      "open_date": "2017-01-18",
+      "area": "2万㎡",
+      "jun_daily_avg": "1.4万人次",
+      "weekday_avg": "1.3万人次",
+      "holiday_avg": "1.4万人次"
+    },
+    {
+      "name": "上海瑞安鸿寿坊",
+      "open_date": "2023-09-28",
+      "area": "1.5万㎡",
+      "jun_daily_avg": "1.9万人次",
+      "weekday_avg": "1.9万人次",
+      "holiday_avg": "2.1万人次"
+    },
+    {
+      "name": "上海金融街·融悦汇",
+      "open_date": "2021-01-01",
+      "area": "6万㎡",
+      "jun_daily_avg": "1.5万人次",
+      "weekday_avg": "1.6万人次",
+      "holiday_avg": "1.2万人次"
+    },
+    {
+      "name": "上海旭辉里",
+      "open_date": "2021-10-29",
+      "area": "2万㎡",
+      "jun_daily_avg": "2.9万人次",
+      "weekday_avg": "2.8万人次",
+      "holiday_avg": "3万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 32.0,
+      "within_1yr_pct": 28.1,
+      "1_3yr_pct": 15.6,
+      "over_3yr_pct": 56.3
+    },
+    {
+      "type": "购物",
+      "count": 4.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 25.0
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 2.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "生活服务",
+      "count": 7.0,
+      "within_1yr_pct": 14.3,
+      "1_3yr_pct": 42.9,
+      "over_3yr_pct": 42.9
+    },
+    {
+      "type": "运动健身",
+      "count": 4.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 75.0,
+      "over_3yr_pct": 25.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 50.0
+    }
+  ]
+}

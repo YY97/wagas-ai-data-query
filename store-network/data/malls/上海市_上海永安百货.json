@@ -1,0 +1,479 @@
+{
+  "name": "上海永安百货",
+  "city": "上海市",
+  "address": "上海市黄浦区南京东路635号",
+  "lat": 31.234663,
+  "lng": 121.477072,
+  "overview": {
+    "score": 72.2,
+    "score_rank": "市内前70%",
+    "population_score": 96.4,
+    "area_score": 100.0,
+    "consumption_score": 85.8,
+    "industry_score": 71.9,
+    "annual_sales": "永安百货是中国最早的民族百货商店之一，定位于中高档特色化品牌经营与综合性功能开发，具有深厚的历史底蕴与独特文化，集购物、餐饮、休闲于一体的经典百货",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 1.5,
+    "open_date": "2020-01-01",
+    "operator": "上海百联集团股份有限公司",
+    "brand": "",
+    "type": "购物型",
+    "floors": "L1-L5"
+  },
+  "traffic": {
+    "annual_daily": 2.23,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第126",
+    "jun_total": 38.4,
+    "jun_total_rank": "市内商场第259名",
+    "jun_daily_avg": 1.3,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第259名",
+    "weekday_avg": 1.1,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第266名",
+    "holiday_avg": 1.7,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第229名"
+  },
+  "population": {
+    "residential": {
+      "500m": 3.2,
+      "1_5km": 18.1,
+      "3km": 78.7
+    },
+    "office": {
+      "500m": 6.7,
+      "1_5km": 34.3,
+      "3km": 111.4
+    },
+    "permanent": {
+      "500m": 5.6,
+      "1_5km": 26.1,
+      "3km": 102.8
+    }
+  },
+  "business": {
+    "competitors": 31.0,
+    "food": 907.0,
+    "shopping": 1108.0,
+    "leisure": 199.0,
+    "education": 57.0,
+    "hotel": 202.0,
+    "services": 391.0,
+    "fitness": 33.0,
+    "auto": 48.0,
+    "total_stores": 71.0,
+    "old_store_3yr_pct": 45.0
+  },
+  "nearby_poi": {
+    "business": 39.0,
+    "community": 881.0,
+    "office": 252.0,
+    "school": 46.0,
+    "hospital": 199.0,
+    "transport": 25.0,
+    "scenic": 943.0
+  },
+  "demographics": {
+    "male_pct": 45.9,
+    "female_pct": null,
+    "education": {
+      "小学": 9.3,
+      "初中": 17.0,
+      "高中": 11.5,
+      "大专": 7.0,
+      "本科": 47.5,
+      "硕士": 5.9,
+      "博士": 1.8
+    },
+    "has_children_pct": 59.0,
+    "no_children_pct": 41.0
+  },
+  "scraped_at": "2026-07-31T16:41:58.632Z",
+  "nearby_restaurants": [
+    {
+      "brand": "中华老字号蝴蝶酥(永安百货店)",
+      "address": "南京东路635号永安百货F1",
+      "distance": "21m"
+    },
+    {
+      "brand": "王奋斗贵州酸汤牛肉火锅(永安百货店)",
+      "address": "永安百货商场一楼浙江中路九江路交界口处",
+      "distance": "29m"
+    },
+    {
+      "brand": "铁板鱿鱼",
+      "address": "南京东路635号永安百货金华路635号",
+      "distance": "37m"
+    },
+    {
+      "brand": "无招牌烧烤小龙虾",
+      "address": "金华路与九江路交叉口北20米",
+      "distance": "44m"
+    },
+    {
+      "brand": "星巴克(上海南京东路时装公司店)",
+      "address": "南京东路635号永安百货一楼",
+      "distance": "45m"
+    },
+    {
+      "brand": "库迪咖啡(永安百货店)",
+      "address": "南京东路635号永安百货1楼",
+      "distance": "46m"
+    },
+    {
+      "brand": "七重天老上海餐厅(南京东路店)",
+      "address": "南京东路627号七重天宾馆7楼",
+      "distance": "50m"
+    },
+    {
+      "brand": "粤港潮楼海鲜中餐厅(永安店)",
+      "address": "九江路600号4楼(人民广场地铁站14号口步行320米)",
+      "distance": "55m"
+    },
+    {
+      "brand": "裕兴记·蟹黄面馆(人民广场店)",
+      "address": "九江路686号腾飞元创大厦一层108室靠近金华路",
+      "distance": "61m"
+    },
+    {
+      "brand": "ELI FALAFEL黎巴嫩餐厅(九江路店)",
+      "address": "九江路686号腾飞元创大厦1楼",
+      "distance": "63m"
+    },
+    {
+      "brand": "中华老字号蝴蝶酥(永安百货店)",
+      "address": "南京东路635号永安百货F1",
+      "distance": "21m"
+    },
+    {
+      "brand": "王奋斗贵州酸汤牛肉火锅(永安百货店)",
+      "address": "永安百货商场一楼浙江中路九江路交界口处",
+      "distance": "29m"
+    },
+    {
+      "brand": "铁板鱿鱼",
+      "address": "南京东路635号永安百货金华路635号",
+      "distance": "37m"
+    },
+    {
+      "brand": "无招牌烧烤小龙虾",
+      "address": "金华路与九江路交叉口北20米",
+      "distance": "44m"
+    },
+    {
+      "brand": "星巴克(上海南京东路时装公司店)",
+      "address": "南京东路635号永安百货一楼",
+      "distance": "45m"
+    },
+    {
+      "brand": "库迪咖啡(永安百货店)",
+      "address": "南京东路635号永安百货1楼",
+      "distance": "46m"
+    },
+    {
+      "brand": "七重天老上海餐厅(南京东路店)",
+      "address": "南京东路627号七重天宾馆7楼",
+      "distance": "50m"
+    },
+    {
+      "brand": "粤港潮楼海鲜中餐厅(永安店)",
+      "address": "九江路600号4楼(人民广场地铁站14号口步行320米)",
+      "distance": "55m"
+    },
+    {
+      "brand": "裕兴记·蟹黄面馆(人民广场店)",
+      "address": "九江路686号腾飞元创大厦一层108室靠近金华路",
+      "distance": "61m"
+    },
+    {
+      "brand": "ELI FALAFEL黎巴嫩餐厅(九江路店)",
+      "address": "九江路686号腾飞元创大厦1楼",
+      "distance": "63m"
+    },
+    {
+      "brand": "中华老字号蝴蝶酥(永安百货店)",
+      "address": "南京东路635号永安百货F1",
+      "distance": "21m"
+    },
+    {
+      "brand": "王奋斗贵州酸汤牛肉火锅(永安百货店)",
+      "address": "永安百货商场一楼浙江中路九江路交界口处",
+      "distance": "29m"
+    },
+    {
+      "brand": "铁板鱿鱼",
+      "address": "南京东路635号永安百货金华路635号",
+      "distance": "37m"
+    },
+    {
+      "brand": "无招牌烧烤小龙虾",
+      "address": "金华路与九江路交叉口北20米",
+      "distance": "44m"
+    },
+    {
+      "brand": "星巴克(上海南京东路时装公司店)",
+      "address": "南京东路635号永安百货一楼",
+      "distance": "45m"
+    },
+    {
+      "brand": "库迪咖啡(永安百货店)",
+      "address": "南京东路635号永安百货1楼",
+      "distance": "46m"
+    },
+    {
+      "brand": "七重天老上海餐厅(南京东路店)",
+      "address": "南京东路627号七重天宾馆7楼",
+      "distance": "50m"
+    },
+    {
+      "brand": "粤港潮楼海鲜中餐厅(永安店)",
+      "address": "九江路600号4楼(人民广场地铁站14号口步行320米)",
+      "distance": "55m"
+    },
+    {
+      "brand": "裕兴记·蟹黄面馆(人民广场店)",
+      "address": "九江路686号腾飞元创大厦一层108室靠近金华路",
+      "distance": "61m"
+    },
+    {
+      "brand": "ELI FALAFEL黎巴嫩餐厅(九江路店)",
+      "address": "九江路686号腾飞元创大厦1楼",
+      "distance": "63m"
+    },
+    {
+      "brand": "中华老字号蝴蝶酥(永安百货店)",
+      "address": "南京东路635号永安百货F1",
+      "distance": "21m"
+    },
+    {
+      "brand": "王奋斗贵州酸汤牛肉火锅(永安百货店)",
+      "address": "永安百货商场一楼浙江中路九江路交界口处",
+      "distance": "29m"
+    },
+    {
+      "brand": "铁板鱿鱼",
+      "address": "南京东路635号永安百货金华路635号",
+      "distance": "37m"
+    },
+    {
+      "brand": "无招牌烧烤小龙虾",
+      "address": "金华路与九江路交叉口北20米",
+      "distance": "44m"
+    },
+    {
+      "brand": "星巴克(上海南京东路时装公司店)",
+      "address": "南京东路635号永安百货一楼",
+      "distance": "45m"
+    },
+    {
+      "brand": "库迪咖啡(永安百货店)",
+      "address": "南京东路635号永安百货1楼",
+      "distance": "46m"
+    },
+    {
+      "brand": "七重天老上海餐厅(南京东路店)",
+      "address": "南京东路627号七重天宾馆7楼",
+      "distance": "50m"
+    },
+    {
+      "brand": "粤港潮楼海鲜中餐厅(永安店)",
+      "address": "九江路600号4楼(人民广场地铁站14号口步行320米)",
+      "distance": "55m"
+    },
+    {
+      "brand": "裕兴记·蟹黄面馆(人民广场店)",
+      "address": "九江路686号腾飞元创大厦一层108室靠近金华路",
+      "distance": "61m"
+    },
+    {
+      "brand": "ELI FALAFEL黎巴嫩餐厅(九江路店)",
+      "address": "九江路686号腾飞元创大厦1楼",
+      "distance": "63m"
+    },
+    {
+      "brand": "中华老字号蝴蝶酥(永安百货店)",
+      "address": "南京东路635号永安百货F1",
+      "distance": "21m"
+    },
+    {
+      "brand": "王奋斗贵州酸汤牛肉火锅(永安百货店)",
+      "address": "永安百货商场一楼浙江中路九江路交界口处",
+      "distance": "29m"
+    },
+    {
+      "brand": "铁板鱿鱼",
+      "address": "南京东路635号永安百货金华路635号",
+      "distance": "37m"
+    },
+    {
+      "brand": "无招牌烧烤小龙虾",
+      "address": "金华路与九江路交叉口北20米",
+      "distance": "44m"
+    },
+    {
+      "brand": "星巴克(上海南京东路时装公司店)",
+      "address": "南京东路635号永安百货一楼",
+      "distance": "45m"
+    },
+    {
+      "brand": "库迪咖啡(永安百货店)",
+      "address": "南京东路635号永安百货1楼",
+      "distance": "46m"
+    },
+    {
+      "brand": "七重天老上海餐厅(南京东路店)",
+      "address": "南京东路627号七重天宾馆7楼",
+      "distance": "50m"
+    },
+    {
+      "brand": "粤港潮楼海鲜中餐厅(永安店)",
+      "address": "九江路600号4楼(人民广场地铁站14号口步行320米)",
+      "distance": "55m"
+    },
+    {
+      "brand": "裕兴记·蟹黄面馆(人民广场店)",
+      "address": "九江路686号腾飞元创大厦一层108室靠近金华路",
+      "distance": "61m"
+    },
+    {
+      "brand": "ELI FALAFEL黎巴嫩餐厅(九江路店)",
+      "address": "九江路686号腾飞元创大厦1楼",
+      "distance": "63m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海阳光商厦",
+      "open_date": "-",
+      "area": "-",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海世茂广场",
+      "open_date": "2018-09-28",
+      "area": "5.8万㎡",
+      "jun_daily_avg": "6.6万人次",
+      "weekday_avg": "5.6万人次",
+      "holiday_avg": "9.5万人次"
+    },
+    {
+      "name": "上海U479",
+      "open_date": "2021-06-01",
+      "area": "1万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海第一百货商店",
+      "open_date": "2024-09-30",
+      "area": "2万㎡",
+      "jun_daily_avg": "12.1万人次",
+      "weekday_avg": "10.4万人次",
+      "holiday_avg": "16.7万人次"
+    },
+    {
+      "name": "上海来福士广场",
+      "open_date": "2003-11-01",
+      "area": "4.6万㎡",
+      "jun_daily_avg": "2.7万人次",
+      "weekday_avg": "2.4万人次",
+      "holiday_avg": "3.3万人次"
+    },
+    {
+      "name": "上海新世界城",
+      "open_date": "1995-12-30",
+      "area": "7万㎡",
+      "jun_daily_avg": "5.7万人次",
+      "weekday_avg": "4.9万人次",
+      "holiday_avg": "8.2万人次"
+    },
+    {
+      "name": "上海雅居乐国际广场",
+      "open_date": "2014-07-12",
+      "area": "2.2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海百联ZX创趣场",
+      "open_date": "2023-01-15",
+      "area": "1万㎡",
+      "jun_daily_avg": "3.4万人次",
+      "weekday_avg": "2.7万人次",
+      "holiday_avg": "5.6万人次"
+    },
+    {
+      "name": "上海悦荟广场",
+      "open_date": "2014-12-01",
+      "area": "2.5万㎡",
+      "jun_daily_avg": "1.3万人次",
+      "weekday_avg": "1.1万人次",
+      "holiday_avg": "1.8万人次"
+    },
+    {
+      "name": "上海宏伊国际广场",
+      "open_date": "2005-07-24",
+      "area": "2.8万㎡",
+      "jun_daily_avg": "2.2万人次",
+      "weekday_avg": "1.9万人次",
+      "holiday_avg": "2.9万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 5.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 80.0
+    },
+    {
+      "type": "购物",
+      "count": 49.0,
+      "within_1yr_pct": 20.4,
+      "1_3yr_pct": 26.5,
+      "over_3yr_pct": 53.1
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 5.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 80.0,
+      "over_3yr_pct": 20.0
+    },
+    {
+      "type": "教育培训",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 3.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 66.7,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "生活服务",
+      "count": 7.0,
+      "within_1yr_pct": 57.1,
+      "1_3yr_pct": 28.6,
+      "over_3yr_pct": 14.3
+    },
+    {
+      "type": "运动健身",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
+    }
+  ]
+}

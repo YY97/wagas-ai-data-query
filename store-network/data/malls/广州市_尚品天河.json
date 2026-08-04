@@ -1,0 +1,486 @@
+{
+  "name": "尚品天河",
+  "city": "广州市",
+  "address": "广东省广州市天河区石牌街道石牌绿荷西大街20-1号",
+  "lat": 23.129931,
+  "lng": 113.339882,
+  "overview": {
+    "score": 90.5,
+    "score_rank": "市内前30%",
+    "population_score": 100.0,
+    "area_score": 97.5,
+    "consumption_score": 85.1,
+    "industry_score": 90.4,
+    "annual_sales": "",
+    "annual_sales_unit": "",
+    "area_size_sqm": null,
+    "open_date": "",
+    "operator": "",
+    "brand": "",
+    "type": "",
+    "floors": ""
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "",
+    "annual_daily_rank": "",
+    "jun_total": null,
+    "jun_total_rank": "",
+    "jun_daily_avg": null,
+    "jun_daily_unit": "",
+    "jun_daily_rank": "",
+    "weekday_avg": null,
+    "weekday_unit": "",
+    "weekday_rank": "",
+    "holiday_avg": null,
+    "holiday_unit": "",
+    "holiday_rank": ""
+  },
+  "population": {
+    "residential": {
+      "500m": 9.0,
+      "1_5km": 32.4,
+      "3km": 96.2
+    },
+    "office": {
+      "500m": 3.9,
+      "1_5km": 28.3,
+      "3km": 97.3
+    },
+    "permanent": {
+      "500m": 7.2,
+      "1_5km": 32.5,
+      "3km": 102.4
+    }
+  },
+  "business": {
+    "competitors": 4.0,
+    "food": 809.0,
+    "shopping": 427.0,
+    "leisure": 63.0,
+    "education": 31.0,
+    "hotel": 163.0,
+    "services": 468.0,
+    "fitness": 28.0,
+    "auto": 46.0,
+    "total_stores": 2045.0,
+    "old_store_3yr_pct": 47.0
+  },
+  "nearby_poi": {
+    "business": 15.0,
+    "community": 498.0,
+    "office": 135.0,
+    "school": 53.0,
+    "hospital": 200.0,
+    "transport": 7.0,
+    "scenic": 261.0
+  },
+  "demographics": {
+    "male_pct": 48.5,
+    "female_pct": null,
+    "education": {
+      "小学": 8.7,
+      "初中": 17.1,
+      "高中": 13.6,
+      "大专": 8.3,
+      "本科": 43.7,
+      "硕士": 6.9,
+      "博士": 1.7
+    },
+    "has_children_pct": null,
+    "no_children_pct": null
+  },
+  "scraped_at": "2026-08-02T08:53:36.645Z",
+  "nearby_restaurants": [
+    {
+      "brand": "客家厨娘",
+      "address": "石牌东路与朝阳东大街交叉口西260米",
+      "distance": "24m"
+    },
+    {
+      "brand": "遗安大街1号美食店",
+      "address": "石牌东路与朝阳东大街交叉口西280米",
+      "distance": "28m"
+    },
+    {
+      "brand": "饭贰(石牌店)",
+      "address": "石牌东路与朝阳东大街交叉口西280米",
+      "distance": "32m"
+    },
+    {
+      "brand": "曹氏鸭脖(天河直营店)",
+      "address": "石牌遗安大街9号",
+      "distance": "36m"
+    },
+    {
+      "brand": "品客家·农家小炒(天河店)",
+      "address": "石牌西路与海欣街交叉口东280米",
+      "distance": "38m"
+    },
+    {
+      "brand": "越师傅越南法棍三明治(太古汇店)",
+      "address": "石牌村龙跃大街14号之一铺",
+      "distance": "38m"
+    },
+    {
+      "brand": "湖南人的恰饭菜川菜·湘菜(岗顶店)",
+      "address": "石牌遗安大街20号恰饭菜江西小炒",
+      "distance": "44m"
+    },
+    {
+      "brand": "鲜牛道·牛腩牛杂煲(岗顶店)",
+      "address": "石牌东路与新陶北街交叉口西260米",
+      "distance": "46m"
+    },
+    {
+      "brand": "秦刀刀现烤肉夹馍(石牌店)",
+      "address": "遗安大街4号",
+      "distance": "53m"
+    },
+    {
+      "brand": "一炸二拌·炸串拌饼",
+      "address": "石牌西路与海欣街交叉口东280米",
+      "distance": "57m"
+    },
+    {
+      "brand": "客家厨娘",
+      "address": "石牌东路与朝阳东大街交叉口西260米",
+      "distance": "24m"
+    },
+    {
+      "brand": "遗安大街1号美食店",
+      "address": "石牌东路与朝阳东大街交叉口西280米",
+      "distance": "28m"
+    },
+    {
+      "brand": "饭贰(石牌店)",
+      "address": "石牌东路与朝阳东大街交叉口西280米",
+      "distance": "32m"
+    },
+    {
+      "brand": "曹氏鸭脖(天河直营店)",
+      "address": "石牌遗安大街9号",
+      "distance": "36m"
+    },
+    {
+      "brand": "品客家·农家小炒(天河店)",
+      "address": "石牌西路与海欣街交叉口东280米",
+      "distance": "38m"
+    },
+    {
+      "brand": "越师傅越南法棍三明治(太古汇店)",
+      "address": "石牌村龙跃大街14号之一铺",
+      "distance": "38m"
+    },
+    {
+      "brand": "湖南人的恰饭菜川菜·湘菜(岗顶店)",
+      "address": "石牌遗安大街20号恰饭菜江西小炒",
+      "distance": "44m"
+    },
+    {
+      "brand": "鲜牛道·牛腩牛杂煲(岗顶店)",
+      "address": "石牌东路与新陶北街交叉口西260米",
+      "distance": "46m"
+    },
+    {
+      "brand": "秦刀刀现烤肉夹馍(石牌店)",
+      "address": "遗安大街4号",
+      "distance": "53m"
+    },
+    {
+      "brand": "一炸二拌·炸串拌饼",
+      "address": "石牌西路与海欣街交叉口东280米",
+      "distance": "57m"
+    },
+    {
+      "brand": "客家厨娘",
+      "address": "石牌东路与朝阳东大街交叉口西260米",
+      "distance": "24m"
+    },
+    {
+      "brand": "遗安大街1号美食店",
+      "address": "石牌东路与朝阳东大街交叉口西280米",
+      "distance": "28m"
+    },
+    {
+      "brand": "饭贰(石牌店)",
+      "address": "石牌东路与朝阳东大街交叉口西280米",
+      "distance": "32m"
+    },
+    {
+      "brand": "曹氏鸭脖(天河直营店)",
+      "address": "石牌遗安大街9号",
+      "distance": "36m"
+    },
+    {
+      "brand": "品客家·农家小炒(天河店)",
+      "address": "石牌西路与海欣街交叉口东280米",
+      "distance": "38m"
+    },
+    {
+      "brand": "越师傅越南法棍三明治(太古汇店)",
+      "address": "石牌村龙跃大街14号之一铺",
+      "distance": "38m"
+    },
+    {
+      "brand": "湖南人的恰饭菜川菜·湘菜(岗顶店)",
+      "address": "石牌遗安大街20号恰饭菜江西小炒",
+      "distance": "44m"
+    },
+    {
+      "brand": "鲜牛道·牛腩牛杂煲(岗顶店)",
+      "address": "石牌东路与新陶北街交叉口西260米",
+      "distance": "46m"
+    },
+    {
+      "brand": "秦刀刀现烤肉夹馍(石牌店)",
+      "address": "遗安大街4号",
+      "distance": "53m"
+    },
+    {
+      "brand": "一炸二拌·炸串拌饼",
+      "address": "石牌西路与海欣街交叉口东280米",
+      "distance": "57m"
+    },
+    {
+      "brand": "客家厨娘",
+      "address": "石牌东路与朝阳东大街交叉口西260米",
+      "distance": "24m"
+    },
+    {
+      "brand": "遗安大街1号美食店",
+      "address": "石牌东路与朝阳东大街交叉口西280米",
+      "distance": "28m"
+    },
+    {
+      "brand": "饭贰(石牌店)",
+      "address": "石牌东路与朝阳东大街交叉口西280米",
+      "distance": "32m"
+    },
+    {
+      "brand": "曹氏鸭脖(天河直营店)",
+      "address": "石牌遗安大街9号",
+      "distance": "36m"
+    },
+    {
+      "brand": "品客家·农家小炒(天河店)",
+      "address": "石牌西路与海欣街交叉口东280米",
+      "distance": "38m"
+    },
+    {
+      "brand": "越师傅越南法棍三明治(太古汇店)",
+      "address": "石牌村龙跃大街14号之一铺",
+      "distance": "38m"
+    },
+    {
+      "brand": "湖南人的恰饭菜川菜·湘菜(岗顶店)",
+      "address": "石牌遗安大街20号恰饭菜江西小炒",
+      "distance": "44m"
+    },
+    {
+      "brand": "鲜牛道·牛腩牛杂煲(岗顶店)",
+      "address": "石牌东路与新陶北街交叉口西260米",
+      "distance": "46m"
+    },
+    {
+      "brand": "秦刀刀现烤肉夹馍(石牌店)",
+      "address": "遗安大街4号",
+      "distance": "53m"
+    },
+    {
+      "brand": "一炸二拌·炸串拌饼",
+      "address": "石牌西路与海欣街交叉口东280米",
+      "distance": "57m"
+    },
+    {
+      "brand": "客家厨娘",
+      "address": "石牌东路与朝阳东大街交叉口西260米",
+      "distance": "24m"
+    },
+    {
+      "brand": "遗安大街1号美食店",
+      "address": "石牌东路与朝阳东大街交叉口西280米",
+      "distance": "28m"
+    },
+    {
+      "brand": "饭贰(石牌店)",
+      "address": "石牌东路与朝阳东大街交叉口西280米",
+      "distance": "32m"
+    },
+    {
+      "brand": "曹氏鸭脖(天河直营店)",
+      "address": "石牌遗安大街9号",
+      "distance": "36m"
+    },
+    {
+      "brand": "品客家·农家小炒(天河店)",
+      "address": "石牌西路与海欣街交叉口东280米",
+      "distance": "38m"
+    },
+    {
+      "brand": "越师傅越南法棍三明治(太古汇店)",
+      "address": "石牌村龙跃大街14号之一铺",
+      "distance": "38m"
+    },
+    {
+      "brand": "湖南人的恰饭菜川菜·湘菜(岗顶店)",
+      "address": "石牌遗安大街20号恰饭菜江西小炒",
+      "distance": "44m"
+    },
+    {
+      "brand": "鲜牛道·牛腩牛杂煲(岗顶店)",
+      "address": "石牌东路与新陶北街交叉口西260米",
+      "distance": "46m"
+    },
+    {
+      "brand": "秦刀刀现烤肉夹馍(石牌店)",
+      "address": "遗安大街4号",
+      "distance": "53m"
+    },
+    {
+      "brand": "一炸二拌·炸串拌饼",
+      "address": "石牌西路与海欣街交叉口东280米",
+      "distance": "57m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "广州尚品天河",
+      "open_date": "2004-04-19",
+      "area": "-",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "广州万俪购物中心",
+      "open_date": "2019",
+      "area": "1万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "广州优托邦驿站(高志大厦店)",
+      "open_date": "2016-12-19",
+      "area": "6000㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "广州天娱广场",
+      "open_date": "2010-12-03",
+      "area": "4万㎡",
+      "jun_daily_avg": "4.6万人次",
+      "weekday_avg": "4.3万人次",
+      "holiday_avg": "5.3万人次"
+    },
+    {
+      "name": "广州摩登百货(岗顶店)",
+      "open_date": "2002-09-21",
+      "area": "2.9万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "广州天河领展广场",
+      "open_date": "2023-11-21",
+      "area": "9万㎡",
+      "jun_daily_avg": "3.5万人次",
+      "weekday_avg": "3.1万人次",
+      "holiday_avg": "4.5万人次"
+    },
+    {
+      "name": "广州太古汇",
+      "open_date": "2011-01-01",
+      "area": "13.8万㎡",
+      "jun_daily_avg": "6.6万人次",
+      "weekday_avg": "6.3万人次",
+      "holiday_avg": "7.4万人次"
+    },
+    {
+      "name": "广州万菱汇",
+      "open_date": "2010-11-01",
+      "area": "5.8万㎡",
+      "jun_daily_avg": "4.5万人次",
+      "weekday_avg": "4万人次",
+      "holiday_avg": "6万人次"
+    },
+    {
+      "name": "广州聚味珠江道美食广场",
+      "open_date": "2011-06-01",
+      "area": "3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "百福广场",
+      "open_date": "-",
+      "area": "-",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 809.0,
+      "within_1yr_pct": 28.2,
+      "1_3yr_pct": 29.0,
+      "over_3yr_pct": 42.8
+    },
+    {
+      "type": "购物",
+      "count": 427.0,
+      "within_1yr_pct": 19.9,
+      "1_3yr_pct": 25.8,
+      "over_3yr_pct": 54.3
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 73.0,
+      "within_1yr_pct": 27.4,
+      "1_3yr_pct": 21.9,
+      "over_3yr_pct": 50.7
+    },
+    {
+      "type": "教育培训",
+      "count": 31.0,
+      "within_1yr_pct": 19.4,
+      "1_3yr_pct": 48.4,
+      "over_3yr_pct": 32.3
+    },
+    {
+      "type": "酒店住宿",
+      "count": 163.0,
+      "within_1yr_pct": 28.8,
+      "1_3yr_pct": 27.0,
+      "over_3yr_pct": 44.2
+    },
+    {
+      "type": "生活服务",
+      "count": 468.0,
+      "within_1yr_pct": 20.1,
+      "1_3yr_pct": 29.7,
+      "over_3yr_pct": 50.2
+    },
+    {
+      "type": "运动健身",
+      "count": 28.0,
+      "within_1yr_pct": 17.9,
+      "1_3yr_pct": 35.7,
+      "over_3yr_pct": 46.4
+    },
+    {
+      "type": "车辆服务",
+      "count": 46.0,
+      "within_1yr_pct": 41.3,
+      "1_3yr_pct": 45.7,
+      "over_3yr_pct": 13.0
+    }
+  ]
+}

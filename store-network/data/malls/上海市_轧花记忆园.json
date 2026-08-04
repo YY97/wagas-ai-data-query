@@ -1,0 +1,140 @@
+{
+  "name": "轧花记忆园",
+  "city": "上海市",
+  "address": "北京市石景山区古城街道北辛安路21号",
+  "lat": null,
+  "lng": null,
+  "overview": {
+    "score": null,
+    "score_rank": "",
+    "population_score": 69.9,
+    "area_score": 66.4,
+    "consumption_score": 79.6,
+    "industry_score": 65.1,
+    "annual_sales": "",
+    "annual_sales_unit": "",
+    "area_size_sqm": 2.8,
+    "open_date": "2025-10-01",
+    "operator": "首程融石（北京）基金管理有限公司",
+    "brand": "",
+    "type": "",
+    "floors": ""
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "-",
+    "annual_daily_rank": "",
+    "jun_total": null,
+    "jun_total_rank": "",
+    "jun_daily_avg": null,
+    "jun_daily_unit": "",
+    "jun_daily_rank": "",
+    "weekday_avg": null,
+    "weekday_unit": "",
+    "weekday_rank": "",
+    "holiday_avg": null,
+    "holiday_unit": "",
+    "holiday_rank": ""
+  },
+  "population": {
+    "residential": {
+      "500m": 6900.0,
+      "1_5km": 9.4,
+      "3km": 34.0
+    },
+    "office": {
+      "500m": 9200.0,
+      "1_5km": 5.5,
+      "3km": 16.8
+    },
+    "permanent": {
+      "500m": 8700.0,
+      "1_5km": 9.8,
+      "3km": 33.5
+    }
+  },
+  "business": {
+    "competitors": 2.0,
+    "food": 61.0,
+    "shopping": 23.0,
+    "leisure": 7.0,
+    "education": 4.0,
+    "hotel": 2.0,
+    "services": 21.0,
+    "fitness": 4.0,
+    "auto": 9.0,
+    "total_stores": 28.0,
+    "old_store_3yr_pct": 0.0
+  },
+  "nearby_poi": {
+    "business": 3.0,
+    "community": 177.0,
+    "office": 23.0,
+    "school": 10.0,
+    "hospital": 35.0,
+    "transport": 6.0,
+    "scenic": 179.0
+  },
+  "demographics": {
+    "male_pct": 47.5,
+    "female_pct": null,
+    "education": {
+      "小学": 9.1,
+      "初中": 15.4,
+      "高中": 10.0,
+      "大专": 7.4,
+      "本科": 49.8,
+      "硕士": 6.7,
+      "博士": 1.6
+    },
+    "has_children_pct": 58.9,
+    "no_children_pct": 41.1
+  },
+  "scraped_at": "2026-08-01T12:17:57.024Z",
+  "nearby_restaurants": [],
+  "nearby_malls": [],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 13.0,
+      "within_1yr_pct": 38.5,
+      "1_3yr_pct": 61.5,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "购物",
+      "count": 9.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 66.7,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 3.0,
+      "within_1yr_pct": 66.7,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "生活服务",
+      "count": 1.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "运动健身",
+      "count": 1.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
+    }
+  ]
+}

@@ -1,0 +1,455 @@
+{
+  "name": "北京丽泽天地商业中心",
+  "city": "北京市",
+  "address": "北京市丰台区六里桥街道双美豆沙牛乳(丰台丽泽天地店)丽泽天地购物中心",
+  "lat": 39.867984,
+  "lng": 116.303917,
+  "overview": {
+    "score": 93.5,
+    "score_rank": "市内前30%",
+    "population_score": 88.6,
+    "area_score": 80.0,
+    "consumption_score": 78.4,
+    "industry_score": 93.6,
+    "annual_sales": "2",
+    "annual_sales_unit": "亿元",
+    "area_size_sqm": 8.22,
+    "open_date": "2022-09-30",
+    "operator": "北京华联商厦股份有限公司",
+    "brand": "华联",
+    "type": "综合型",
+    "floors": "B1-L7"
+  },
+  "traffic": {
+    "annual_daily": 2.16,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第115",
+    "jun_total": 86.2,
+    "jun_total_rank": "市内商场第109名",
+    "jun_daily_avg": 2.9,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第109名",
+    "weekday_avg": 2.5,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第117名",
+    "holiday_avg": 3.8,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第98名"
+  },
+  "population": {
+    "residential": {
+      "500m": 2.0,
+      "1_5km": 15.3,
+      "3km": 66.0
+    },
+    "office": {
+      "500m": 1.4,
+      "1_5km": 8.6,
+      "3km": 35.6
+    },
+    "permanent": {
+      "500m": 2.4,
+      "1_5km": 15.4,
+      "3km": 65.8
+    }
+  },
+  "business": {
+    "competitors": 7.0,
+    "food": 175.0,
+    "shopping": 129.0,
+    "leisure": 25.0,
+    "education": 32.0,
+    "hotel": 14.0,
+    "services": 104.0,
+    "fitness": 20.0,
+    "auto": 11.0,
+    "total_stores": 167.0,
+    "old_store_3yr_pct": 61.0
+  },
+  "nearby_poi": {
+    "business": 7.0,
+    "community": 331.0,
+    "office": 39.0,
+    "school": 18.0,
+    "hospital": 65.0,
+    "transport": 5.0,
+    "scenic": 96.0
+  },
+  "demographics": {
+    "male_pct": 49.9,
+    "female_pct": null,
+    "education": {
+      "小学": 9.3,
+      "初中": 16.0,
+      "高中": 11.1,
+      "大专": 6.7,
+      "本科": 48.0,
+      "硕士": 7.2,
+      "博士": 1.7
+    },
+    "has_children_pct": 61.0,
+    "no_children_pct": 39.0
+  },
+  "scraped_at": "2026-07-31T18:24:09.253Z",
+  "nearby_restaurants": [
+    {
+      "brand": "仙海渔乡餐厅",
+      "address": "丰台北路17号丽泽天地写字楼F6层",
+      "distance": "1m"
+    },
+    {
+      "brand": "黔阿叔贵州烙锅烤肉",
+      "address": "丰台北路17号丽泽天地写字楼F6层",
+      "distance": "4m"
+    },
+    {
+      "brand": "口味堂丽泽商场店",
+      "address": "六里桥街道丰台北路17号院1号楼丽泽天地购物中心5层F5-12、F5-12a",
+      "distance": "6m"
+    },
+    {
+      "brand": "松野谷寿喜烧自助(丽泽天地店)",
+      "address": "丰台北路17号丽泽天地写字楼F6层",
+      "distance": "6m"
+    },
+    {
+      "brand": "榕树家食研中心(丽泽天地店)",
+      "address": "丰台北路辅路与玉璞路交叉口东160米",
+      "distance": "6m"
+    },
+    {
+      "brand": "花间酒(西餐·下午茶)",
+      "address": "丽泽天地购物中心六楼天宫影院内",
+      "distance": "6m"
+    },
+    {
+      "brand": "鹤一大食堂(丽泽天地店)",
+      "address": "丰台北路17号院1号丽泽天地购物中心B1F层",
+      "distance": "10m"
+    },
+    {
+      "brand": "漫牛传承·铁板烧海鲜自助(丽泽天地店)",
+      "address": "北京城区丰台北路17号院1号楼地铁西局F口出口丽泽天地5层F5-14",
+      "distance": "18m"
+    },
+    {
+      "brand": "有秦人.陕西味道(丽泽天地店)",
+      "address": "北京城区丰台北路17号院1号丽泽天地购物中心5F层",
+      "distance": "18m"
+    },
+    {
+      "brand": "胜博殿日式炸猪排(丽泽天地店)",
+      "address": "丰台北路17号院1号丽泽天地购物中心5F层",
+      "distance": "18m"
+    },
+    {
+      "brand": "仙海渔乡餐厅",
+      "address": "丰台北路17号丽泽天地写字楼F6层",
+      "distance": "1m"
+    },
+    {
+      "brand": "黔阿叔贵州烙锅烤肉",
+      "address": "丰台北路17号丽泽天地写字楼F6层",
+      "distance": "4m"
+    },
+    {
+      "brand": "口味堂丽泽商场店",
+      "address": "六里桥街道丰台北路17号院1号楼丽泽天地购物中心5层F5-12、F5-12a",
+      "distance": "6m"
+    },
+    {
+      "brand": "松野谷寿喜烧自助(丽泽天地店)",
+      "address": "丰台北路17号丽泽天地写字楼F6层",
+      "distance": "6m"
+    },
+    {
+      "brand": "榕树家食研中心(丽泽天地店)",
+      "address": "丰台北路辅路与玉璞路交叉口东160米",
+      "distance": "6m"
+    },
+    {
+      "brand": "花间酒(西餐·下午茶)",
+      "address": "丽泽天地购物中心六楼天宫影院内",
+      "distance": "6m"
+    },
+    {
+      "brand": "鹤一大食堂(丽泽天地店)",
+      "address": "丰台北路17号院1号丽泽天地购物中心B1F层",
+      "distance": "10m"
+    },
+    {
+      "brand": "漫牛传承·铁板烧海鲜自助(丽泽天地店)",
+      "address": "北京城区丰台北路17号院1号楼地铁西局F口出口丽泽天地5层F5-14",
+      "distance": "18m"
+    },
+    {
+      "brand": "有秦人.陕西味道(丽泽天地店)",
+      "address": "北京城区丰台北路17号院1号丽泽天地购物中心5F层",
+      "distance": "18m"
+    },
+    {
+      "brand": "胜博殿日式炸猪排(丽泽天地店)",
+      "address": "丰台北路17号院1号丽泽天地购物中心5F层",
+      "distance": "18m"
+    },
+    {
+      "brand": "仙海渔乡餐厅",
+      "address": "丰台北路17号丽泽天地写字楼F6层",
+      "distance": "1m"
+    },
+    {
+      "brand": "黔阿叔贵州烙锅烤肉",
+      "address": "丰台北路17号丽泽天地写字楼F6层",
+      "distance": "4m"
+    },
+    {
+      "brand": "口味堂丽泽商场店",
+      "address": "六里桥街道丰台北路17号院1号楼丽泽天地购物中心5层F5-12、F5-12a",
+      "distance": "6m"
+    },
+    {
+      "brand": "松野谷寿喜烧自助(丽泽天地店)",
+      "address": "丰台北路17号丽泽天地写字楼F6层",
+      "distance": "6m"
+    },
+    {
+      "brand": "榕树家食研中心(丽泽天地店)",
+      "address": "丰台北路辅路与玉璞路交叉口东160米",
+      "distance": "6m"
+    },
+    {
+      "brand": "花间酒(西餐·下午茶)",
+      "address": "丽泽天地购物中心六楼天宫影院内",
+      "distance": "6m"
+    },
+    {
+      "brand": "鹤一大食堂(丽泽天地店)",
+      "address": "丰台北路17号院1号丽泽天地购物中心B1F层",
+      "distance": "10m"
+    },
+    {
+      "brand": "漫牛传承·铁板烧海鲜自助(丽泽天地店)",
+      "address": "北京城区丰台北路17号院1号楼地铁西局F口出口丽泽天地5层F5-14",
+      "distance": "18m"
+    },
+    {
+      "brand": "有秦人.陕西味道(丽泽天地店)",
+      "address": "北京城区丰台北路17号院1号丽泽天地购物中心5F层",
+      "distance": "18m"
+    },
+    {
+      "brand": "胜博殿日式炸猪排(丽泽天地店)",
+      "address": "丰台北路17号院1号丽泽天地购物中心5F层",
+      "distance": "18m"
+    },
+    {
+      "brand": "仙海渔乡餐厅",
+      "address": "丰台北路17号丽泽天地写字楼F6层",
+      "distance": "1m"
+    },
+    {
+      "brand": "黔阿叔贵州烙锅烤肉",
+      "address": "丰台北路17号丽泽天地写字楼F6层",
+      "distance": "4m"
+    },
+    {
+      "brand": "口味堂丽泽商场店",
+      "address": "六里桥街道丰台北路17号院1号楼丽泽天地购物中心5层F5-12、F5-12a",
+      "distance": "6m"
+    },
+    {
+      "brand": "松野谷寿喜烧自助(丽泽天地店)",
+      "address": "丰台北路17号丽泽天地写字楼F6层",
+      "distance": "6m"
+    },
+    {
+      "brand": "榕树家食研中心(丽泽天地店)",
+      "address": "丰台北路辅路与玉璞路交叉口东160米",
+      "distance": "6m"
+    },
+    {
+      "brand": "花间酒(西餐·下午茶)",
+      "address": "丽泽天地购物中心六楼天宫影院内",
+      "distance": "6m"
+    },
+    {
+      "brand": "鹤一大食堂(丽泽天地店)",
+      "address": "丰台北路17号院1号丽泽天地购物中心B1F层",
+      "distance": "10m"
+    },
+    {
+      "brand": "漫牛传承·铁板烧海鲜自助(丽泽天地店)",
+      "address": "北京城区丰台北路17号院1号楼地铁西局F口出口丽泽天地5层F5-14",
+      "distance": "18m"
+    },
+    {
+      "brand": "有秦人.陕西味道(丽泽天地店)",
+      "address": "北京城区丰台北路17号院1号丽泽天地购物中心5F层",
+      "distance": "18m"
+    },
+    {
+      "brand": "胜博殿日式炸猪排(丽泽天地店)",
+      "address": "丰台北路17号院1号丽泽天地购物中心5F层",
+      "distance": "18m"
+    },
+    {
+      "brand": "仙海渔乡餐厅",
+      "address": "丰台北路17号丽泽天地写字楼F6层",
+      "distance": "1m"
+    },
+    {
+      "brand": "黔阿叔贵州烙锅烤肉",
+      "address": "丰台北路17号丽泽天地写字楼F6层",
+      "distance": "4m"
+    },
+    {
+      "brand": "口味堂丽泽商场店",
+      "address": "六里桥街道丰台北路17号院1号楼丽泽天地购物中心5层F5-12、F5-12a",
+      "distance": "6m"
+    },
+    {
+      "brand": "松野谷寿喜烧自助(丽泽天地店)",
+      "address": "丰台北路17号丽泽天地写字楼F6层",
+      "distance": "6m"
+    },
+    {
+      "brand": "榕树家食研中心(丽泽天地店)",
+      "address": "丰台北路辅路与玉璞路交叉口东160米",
+      "distance": "6m"
+    },
+    {
+      "brand": "花间酒(西餐·下午茶)",
+      "address": "丽泽天地购物中心六楼天宫影院内",
+      "distance": "6m"
+    },
+    {
+      "brand": "鹤一大食堂(丽泽天地店)",
+      "address": "丰台北路17号院1号丽泽天地购物中心B1F层",
+      "distance": "10m"
+    },
+    {
+      "brand": "漫牛传承·铁板烧海鲜自助(丽泽天地店)",
+      "address": "北京城区丰台北路17号院1号楼地铁西局F口出口丽泽天地5层F5-14",
+      "distance": "18m"
+    },
+    {
+      "brand": "有秦人.陕西味道(丽泽天地店)",
+      "address": "北京城区丰台北路17号院1号丽泽天地购物中心5F层",
+      "distance": "18m"
+    },
+    {
+      "brand": "胜博殿日式炸猪排(丽泽天地店)",
+      "address": "丰台北路17号院1号丽泽天地购物中心5F层",
+      "distance": "18m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "北京金唐新光界",
+      "open_date": "2021-10-01",
+      "area": "10万㎡",
+      "jun_daily_avg": "3万人次",
+      "weekday_avg": "2.9万人次",
+      "holiday_avg": "3.1万人次"
+    },
+    {
+      "name": "北京亿潼隆万丰购物中心",
+      "open_date": "2010-12-25",
+      "area": "3.7万㎡",
+      "jun_daily_avg": "2.1万人次",
+      "weekday_avg": "2万人次",
+      "holiday_avg": "2.4万人次"
+    },
+    {
+      "name": "北京亿潼隆丰益购物中心",
+      "open_date": "2010-01-01",
+      "area": "2.8万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "北京丽泽16号购物中心",
+      "open_date": "2024-06-29",
+      "area": "5.5万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "北京月恒正大新生活广场",
+      "open_date": "2018-07-01",
+      "area": "3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "北京平安幸福汇",
+      "open_date": "2021-12-01",
+      "area": "1.5万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "北京米兰life",
+      "open_date": "2018-05-01",
+      "area": "2.4万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 62.0,
+      "within_1yr_pct": 6.5,
+      "1_3yr_pct": 27.4,
+      "over_3yr_pct": 66.1
+    },
+    {
+      "type": "购物",
+      "count": 52.0,
+      "within_1yr_pct": 9.6,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 65.4
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 9.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 22.2,
+      "over_3yr_pct": 44.4
+    },
+    {
+      "type": "教育培训",
+      "count": 13.0,
+      "within_1yr_pct": 23.1,
+      "1_3yr_pct": 30.8,
+      "over_3yr_pct": 46.2
+    },
+    {
+      "type": "生活服务",
+      "count": 21.0,
+      "within_1yr_pct": 9.5,
+      "1_3yr_pct": 28.6,
+      "over_3yr_pct": 61.9
+    },
+    {
+      "type": "运动健身",
+      "count": 8.0,
+      "within_1yr_pct": 12.5,
+      "1_3yr_pct": 37.5,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 2.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 0.0
+    }
+  ]
+}

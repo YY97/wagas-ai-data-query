@@ -1,0 +1,414 @@
+{
+  "name": "商业广场(圣熙八号店)",
+  "city": "北京市",
+  "address": "北京市海淀区学清路甲8号",
+  "lat": 40.008784,
+  "lng": 116.353977,
+  "overview": {
+    "score": 93.0,
+    "score_rank": "市内前30%",
+    "population_score": 90.9,
+    "area_score": 81.0,
+    "consumption_score": 80.3,
+    "industry_score": 93.1,
+    "annual_sales": "1200",
+    "annual_sales_unit": "万元",
+    "area_size_sqm": 5.0,
+    "open_date": "2010-01-01",
+    "operator": "北京新辰商业集团有限公司",
+    "brand": "",
+    "type": "综合型",
+    "floors": "B1-L5"
+  },
+  "traffic": {
+    "annual_daily": 1.58,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第157",
+    "jun_total": 86.3,
+    "jun_total_rank": "市内商场第108名",
+    "jun_daily_avg": 2.9,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第108名",
+    "weekday_avg": 2.7,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第108名",
+    "holiday_avg": 3.4,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第113名"
+  },
+  "population": {
+    "residential": {
+      "500m": 2.3,
+      "1_5km": 20.2,
+      "3km": 67.2
+    },
+    "office": {
+      "500m": 1.9,
+      "1_5km": 9.9,
+      "3km": 37.8
+    },
+    "permanent": {
+      "500m": 2.4,
+      "1_5km": 16.4,
+      "3km": 56.5
+    }
+  },
+  "business": {
+    "competitors": 5.0,
+    "food": 201.0,
+    "shopping": 123.0,
+    "leisure": 20.0,
+    "education": 36.0,
+    "hotel": 17.0,
+    "services": 91.0,
+    "fitness": 28.0,
+    "auto": 11.0,
+    "total_stores": 224.0,
+    "old_store_3yr_pct": 28.0
+  },
+  "nearby_poi": {
+    "business": 1.0,
+    "community": 246.0,
+    "office": 31.0,
+    "school": 34.0,
+    "hospital": 55.0,
+    "transport": 8.0,
+    "scenic": 185.0
+  },
+  "demographics": {
+    "male_pct": 46.8,
+    "female_pct": null,
+    "education": {
+      "小学": 6.1,
+      "初中": 12.8,
+      "高中": 17.8,
+      "大专": 3.6,
+      "本科": 45.3,
+      "硕士": 10.6,
+      "博士": 3.8
+    },
+    "has_children_pct": 49.6,
+    "no_children_pct": 50.4
+  },
+  "scraped_at": "2026-07-31T12:21:01.018Z",
+  "nearby_restaurants": [
+    {
+      "brand": "CHAGEE霸王茶姬(新辰里学清路店)",
+      "address": "学清路甲8号",
+      "distance": "8m"
+    },
+    {
+      "brand": "心胜客",
+      "address": "学清路甲8号1号楼新辰里学清路店1号楼",
+      "distance": "9m"
+    },
+    {
+      "brand": "必胜炙烤串(圣熙八号店)",
+      "address": "石板房南路与学清路辅路交叉口东180米",
+      "distance": "9m"
+    },
+    {
+      "brand": "必胜客(圣熙八号店)",
+      "address": "北京城区学清路甲8号1号楼1层S-1A112号",
+      "distance": "9m"
+    },
+    {
+      "brand": "美食广场(学清路新辰里店)",
+      "address": "学清路甲8号新辰里(学清路店)5F层",
+      "distance": "10m"
+    },
+    {
+      "brand": "土耳其烤肉夹馍",
+      "address": "学清路甲8号1号楼新辰里学清路店1号楼",
+      "distance": "11m"
+    },
+    {
+      "brand": "呷哺呷哺(学清路美廉美店)",
+      "address": "北京城区学清路甲8号美廉美超市一层东侧",
+      "distance": "13m"
+    },
+    {
+      "brand": "他二哥炒鸡(学清路新辰里店)",
+      "address": "学清路甲8号新辰里(学清路店)1F层",
+      "distance": "14m"
+    },
+    {
+      "brand": "徐海君东北麻辣烫(新辰里学清路店)",
+      "address": "新辰里商场五楼美食城",
+      "distance": "16m"
+    },
+    {
+      "brand": "味海世家美食广场(新辰里学清路店)",
+      "address": "学清路甲8号新辰里1号楼F5层",
+      "distance": "16m"
+    },
+    {
+      "brand": "CHAGEE霸王茶姬(新辰里学清路店)",
+      "address": "学清路甲8号",
+      "distance": "8m"
+    },
+    {
+      "brand": "心胜客",
+      "address": "学清路甲8号1号楼新辰里学清路店1号楼",
+      "distance": "9m"
+    },
+    {
+      "brand": "必胜炙烤串(圣熙八号店)",
+      "address": "石板房南路与学清路辅路交叉口东180米",
+      "distance": "9m"
+    },
+    {
+      "brand": "必胜客(圣熙八号店)",
+      "address": "北京城区学清路甲8号1号楼1层S-1A112号",
+      "distance": "9m"
+    },
+    {
+      "brand": "美食广场(学清路新辰里店)",
+      "address": "学清路甲8号新辰里(学清路店)5F层",
+      "distance": "10m"
+    },
+    {
+      "brand": "土耳其烤肉夹馍",
+      "address": "学清路甲8号1号楼新辰里学清路店1号楼",
+      "distance": "11m"
+    },
+    {
+      "brand": "呷哺呷哺(学清路美廉美店)",
+      "address": "北京城区学清路甲8号美廉美超市一层东侧",
+      "distance": "13m"
+    },
+    {
+      "brand": "他二哥炒鸡(学清路新辰里店)",
+      "address": "学清路甲8号新辰里(学清路店)1F层",
+      "distance": "14m"
+    },
+    {
+      "brand": "徐海君东北麻辣烫(新辰里学清路店)",
+      "address": "新辰里商场五楼美食城",
+      "distance": "16m"
+    },
+    {
+      "brand": "味海世家美食广场(新辰里学清路店)",
+      "address": "学清路甲8号新辰里1号楼F5层",
+      "distance": "16m"
+    },
+    {
+      "brand": "CHAGEE霸王茶姬(新辰里学清路店)",
+      "address": "学清路甲8号",
+      "distance": "8m"
+    },
+    {
+      "brand": "心胜客",
+      "address": "学清路甲8号1号楼新辰里学清路店1号楼",
+      "distance": "9m"
+    },
+    {
+      "brand": "必胜炙烤串(圣熙八号店)",
+      "address": "石板房南路与学清路辅路交叉口东180米",
+      "distance": "9m"
+    },
+    {
+      "brand": "必胜客(圣熙八号店)",
+      "address": "北京城区学清路甲8号1号楼1层S-1A112号",
+      "distance": "9m"
+    },
+    {
+      "brand": "美食广场(学清路新辰里店)",
+      "address": "学清路甲8号新辰里(学清路店)5F层",
+      "distance": "10m"
+    },
+    {
+      "brand": "土耳其烤肉夹馍",
+      "address": "学清路甲8号1号楼新辰里学清路店1号楼",
+      "distance": "11m"
+    },
+    {
+      "brand": "呷哺呷哺(学清路美廉美店)",
+      "address": "北京城区学清路甲8号美廉美超市一层东侧",
+      "distance": "13m"
+    },
+    {
+      "brand": "他二哥炒鸡(学清路新辰里店)",
+      "address": "学清路甲8号新辰里(学清路店)1F层",
+      "distance": "14m"
+    },
+    {
+      "brand": "徐海君东北麻辣烫(新辰里学清路店)",
+      "address": "新辰里商场五楼美食城",
+      "distance": "16m"
+    },
+    {
+      "brand": "味海世家美食广场(新辰里学清路店)",
+      "address": "学清路甲8号新辰里1号楼F5层",
+      "distance": "16m"
+    },
+    {
+      "brand": "CHAGEE霸王茶姬(新辰里学清路店)",
+      "address": "学清路甲8号",
+      "distance": "8m"
+    },
+    {
+      "brand": "心胜客",
+      "address": "学清路甲8号1号楼新辰里学清路店1号楼",
+      "distance": "9m"
+    },
+    {
+      "brand": "必胜炙烤串(圣熙八号店)",
+      "address": "石板房南路与学清路辅路交叉口东180米",
+      "distance": "9m"
+    },
+    {
+      "brand": "必胜客(圣熙八号店)",
+      "address": "北京城区学清路甲8号1号楼1层S-1A112号",
+      "distance": "9m"
+    },
+    {
+      "brand": "美食广场(学清路新辰里店)",
+      "address": "学清路甲8号新辰里(学清路店)5F层",
+      "distance": "10m"
+    },
+    {
+      "brand": "土耳其烤肉夹馍",
+      "address": "学清路甲8号1号楼新辰里学清路店1号楼",
+      "distance": "11m"
+    },
+    {
+      "brand": "呷哺呷哺(学清路美廉美店)",
+      "address": "北京城区学清路甲8号美廉美超市一层东侧",
+      "distance": "13m"
+    },
+    {
+      "brand": "他二哥炒鸡(学清路新辰里店)",
+      "address": "学清路甲8号新辰里(学清路店)1F层",
+      "distance": "14m"
+    },
+    {
+      "brand": "徐海君东北麻辣烫(新辰里学清路店)",
+      "address": "新辰里商场五楼美食城",
+      "distance": "16m"
+    },
+    {
+      "brand": "味海世家美食广场(新辰里学清路店)",
+      "address": "学清路甲8号新辰里1号楼F5层",
+      "distance": "16m"
+    },
+    {
+      "brand": "CHAGEE霸王茶姬(新辰里学清路店)",
+      "address": "学清路甲8号",
+      "distance": "8m"
+    },
+    {
+      "brand": "心胜客",
+      "address": "学清路甲8号1号楼新辰里学清路店1号楼",
+      "distance": "9m"
+    },
+    {
+      "brand": "必胜炙烤串(圣熙八号店)",
+      "address": "石板房南路与学清路辅路交叉口东180米",
+      "distance": "9m"
+    },
+    {
+      "brand": "必胜客(圣熙八号店)",
+      "address": "北京城区学清路甲8号1号楼1层S-1A112号",
+      "distance": "9m"
+    },
+    {
+      "brand": "美食广场(学清路新辰里店)",
+      "address": "学清路甲8号新辰里(学清路店)5F层",
+      "distance": "10m"
+    },
+    {
+      "brand": "土耳其烤肉夹馍",
+      "address": "学清路甲8号1号楼新辰里学清路店1号楼",
+      "distance": "11m"
+    },
+    {
+      "brand": "呷哺呷哺(学清路美廉美店)",
+      "address": "北京城区学清路甲8号美廉美超市一层东侧",
+      "distance": "13m"
+    },
+    {
+      "brand": "他二哥炒鸡(学清路新辰里店)",
+      "address": "学清路甲8号新辰里(学清路店)1F层",
+      "distance": "14m"
+    },
+    {
+      "brand": "徐海君东北麻辣烫(新辰里学清路店)",
+      "address": "新辰里商场五楼美食城",
+      "distance": "16m"
+    },
+    {
+      "brand": "味海世家美食广场(新辰里学清路店)",
+      "address": "学清路甲8号新辰里1号楼F5层",
+      "distance": "16m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "北京BOM嘻番里",
+      "open_date": "2021-01-01",
+      "area": "1.5万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 80.0,
+      "within_1yr_pct": 22.5,
+      "1_3yr_pct": 51.3,
+      "over_3yr_pct": 26.3
+    },
+    {
+      "type": "购物",
+      "count": 77.0,
+      "within_1yr_pct": 15.6,
+      "1_3yr_pct": 50.6,
+      "over_3yr_pct": 33.8
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 15.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 60.0,
+      "over_3yr_pct": 20.0
+    },
+    {
+      "type": "教育培训",
+      "count": 9.0,
+      "within_1yr_pct": 11.1,
+      "1_3yr_pct": 55.6,
+      "over_3yr_pct": 33.3
+    },
+    {
+      "type": "酒店住宿",
+      "count": 3.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 66.7,
+      "over_3yr_pct": 33.3
+    },
+    {
+      "type": "生活服务",
+      "count": 28.0,
+      "within_1yr_pct": 14.3,
+      "1_3yr_pct": 60.7,
+      "over_3yr_pct": 25.0
+    },
+    {
+      "type": "运动健身",
+      "count": 11.0,
+      "within_1yr_pct": 27.3,
+      "1_3yr_pct": 63.6,
+      "over_3yr_pct": 9.1
+    },
+    {
+      "type": "车辆服务",
+      "count": 1.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
+    }
+  ]
+}

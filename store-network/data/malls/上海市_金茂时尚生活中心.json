@@ -1,0 +1,451 @@
+{
+  "name": "金茂时尚生活中心",
+  "city": "上海市",
+  "address": "上海市浦东新区世纪大道88号金茂大厦裙房J",
+  "lat": 31.235284,
+  "lng": 121.505611,
+  "overview": {
+    "score": 78.9,
+    "score_rank": "市内前30%",
+    "population_score": 68.1,
+    "area_score": 87.1,
+    "consumption_score": 96.6,
+    "industry_score": 78.9,
+    "annual_sales": "上海金茂J·LIFE生活时尚中心位于陆家嘴金融区核心地段，汇集了私人护理、金融服务、零售和中西餐饮等知名品牌的多家旗舰店，成为陆家嘴区域受高端消费者青睐的零售商业项目。",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 2.3,
+    "open_date": "2005-09-01",
+    "operator": "中国金茂控股集团有限公司",
+    "brand": "中国金茂控股集团有限公司",
+    "type": "美食型",
+    "floors": "B1-L6"
+  },
+  "traffic": {
+    "annual_daily": 1.28,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第202",
+    "jun_total": 42.6,
+    "jun_total_rank": "市内商场第238名",
+    "jun_daily_avg": 1.4,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第238名",
+    "weekday_avg": 1.4,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第230名",
+    "holiday_avg": 1.4,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第263名"
+  },
+  "population": {
+    "residential": {
+      "500m": 6500.0,
+      "1_5km": 11.5,
+      "3km": 70.5
+    },
+    "office": {
+      "500m": 7.5,
+      "1_5km": 29.0,
+      "3km": 101.0
+    },
+    "permanent": {
+      "500m": 3.1,
+      "1_5km": 18.3,
+      "3km": 86.9
+    }
+  },
+  "business": {
+    "competitors": 21.0,
+    "food": 310.0,
+    "shopping": 251.0,
+    "leisure": 12.0,
+    "education": 5.0,
+    "hotel": 22.0,
+    "services": 112.0,
+    "fitness": 22.0,
+    "auto": 32.0,
+    "total_stores": 22.0,
+    "old_store_3yr_pct": 64.0
+  },
+  "nearby_poi": {
+    "business": 18.0,
+    "community": 619.0,
+    "office": 136.0,
+    "school": 23.0,
+    "hospital": 151.0,
+    "transport": 19.0,
+    "scenic": 729.0
+  },
+  "demographics": {
+    "male_pct": 47.4,
+    "female_pct": null,
+    "education": {
+      "小学": 10.0,
+      "初中": 18.3,
+      "高中": 11.4,
+      "大专": 8.0,
+      "本科": 46.3,
+      "硕士": 4.6,
+      "博士": 1.4
+    },
+    "has_children_pct": 58.4,
+    "no_children_pct": 41.6
+  },
+  "scraped_at": "2026-07-31T18:04:30.065Z",
+  "nearby_restaurants": [
+    {
+      "brand": "库迪咖啡(金茂时尚生活中心店)",
+      "address": "陆家嘴街道世纪大道88号金茂大厦裙房二夹层2C-07B",
+      "distance": "2m"
+    },
+    {
+      "brand": "YogurtDay酸奶(上海金茂大厦店)",
+      "address": "海兴路与花园石桥路交叉口东北80米",
+      "distance": "14m"
+    },
+    {
+      "brand": "KOKA SALAD沙拉(金茂店)",
+      "address": "世纪大道88号金茂时尚生活中心2c-04",
+      "distance": "15m"
+    },
+    {
+      "brand": "金茂空中花园餐厅(金茂时尚生活中心店)",
+      "address": "世纪大道88号金茂时尚生活中心F6",
+      "distance": "17m"
+    },
+    {
+      "brand": "宝藏绿洲(上海金茂大厦店)",
+      "address": "陆家嘴街道世纪大道88号金茂大厦101部位裙房二夹层2C-05铺位",
+      "distance": "17m"
+    },
+    {
+      "brand": "膳道(金茂店)",
+      "address": "陆家嘴世纪大道88号金茂大厦裙楼金茂时尚生活中心6楼",
+      "distance": "17m"
+    },
+    {
+      "brand": "池奈·咖喱蛋包饭(上海金茂大厦店)",
+      "address": "陆家嘴街道中国(上海)自由贸易试验区世纪大道88号101部位裙房地下1层B1-07铺位",
+      "distance": "27m"
+    },
+    {
+      "brand": "星巴克(金茂大厦店)",
+      "address": "世纪大道88号金茂大厦2楼2C-08、10",
+      "distance": "30m"
+    },
+    {
+      "brand": "瑞幸咖啡(金茂大厦B1F店)",
+      "address": "世纪大道88号金茂大厦负一层B1-01-01-D室",
+      "distance": "31m"
+    },
+    {
+      "brand": "大壶春生煎(金茂大厦店)",
+      "address": "世纪大道88号金茂大厦B1层04号",
+      "distance": "34m"
+    },
+    {
+      "brand": "库迪咖啡(金茂时尚生活中心店)",
+      "address": "陆家嘴街道世纪大道88号金茂大厦裙房二夹层2C-07B",
+      "distance": "2m"
+    },
+    {
+      "brand": "YogurtDay酸奶(上海金茂大厦店)",
+      "address": "海兴路与花园石桥路交叉口东北80米",
+      "distance": "14m"
+    },
+    {
+      "brand": "KOKA SALAD沙拉(金茂店)",
+      "address": "世纪大道88号金茂时尚生活中心2c-04",
+      "distance": "15m"
+    },
+    {
+      "brand": "金茂空中花园餐厅(金茂时尚生活中心店)",
+      "address": "世纪大道88号金茂时尚生活中心F6",
+      "distance": "17m"
+    },
+    {
+      "brand": "宝藏绿洲(上海金茂大厦店)",
+      "address": "陆家嘴街道世纪大道88号金茂大厦101部位裙房二夹层2C-05铺位",
+      "distance": "17m"
+    },
+    {
+      "brand": "膳道(金茂店)",
+      "address": "陆家嘴世纪大道88号金茂大厦裙楼金茂时尚生活中心6楼",
+      "distance": "17m"
+    },
+    {
+      "brand": "池奈·咖喱蛋包饭(上海金茂大厦店)",
+      "address": "陆家嘴街道中国(上海)自由贸易试验区世纪大道88号101部位裙房地下1层B1-07铺位",
+      "distance": "27m"
+    },
+    {
+      "brand": "星巴克(金茂大厦店)",
+      "address": "世纪大道88号金茂大厦2楼2C-08、10",
+      "distance": "30m"
+    },
+    {
+      "brand": "瑞幸咖啡(金茂大厦B1F店)",
+      "address": "世纪大道88号金茂大厦负一层B1-01-01-D室",
+      "distance": "31m"
+    },
+    {
+      "brand": "大壶春生煎(金茂大厦店)",
+      "address": "世纪大道88号金茂大厦B1层04号",
+      "distance": "34m"
+    },
+    {
+      "brand": "库迪咖啡(金茂时尚生活中心店)",
+      "address": "陆家嘴街道世纪大道88号金茂大厦裙房二夹层2C-07B",
+      "distance": "2m"
+    },
+    {
+      "brand": "YogurtDay酸奶(上海金茂大厦店)",
+      "address": "海兴路与花园石桥路交叉口东北80米",
+      "distance": "14m"
+    },
+    {
+      "brand": "KOKA SALAD沙拉(金茂店)",
+      "address": "世纪大道88号金茂时尚生活中心2c-04",
+      "distance": "15m"
+    },
+    {
+      "brand": "金茂空中花园餐厅(金茂时尚生活中心店)",
+      "address": "世纪大道88号金茂时尚生活中心F6",
+      "distance": "17m"
+    },
+    {
+      "brand": "宝藏绿洲(上海金茂大厦店)",
+      "address": "陆家嘴街道世纪大道88号金茂大厦101部位裙房二夹层2C-05铺位",
+      "distance": "17m"
+    },
+    {
+      "brand": "膳道(金茂店)",
+      "address": "陆家嘴世纪大道88号金茂大厦裙楼金茂时尚生活中心6楼",
+      "distance": "17m"
+    },
+    {
+      "brand": "池奈·咖喱蛋包饭(上海金茂大厦店)",
+      "address": "陆家嘴街道中国(上海)自由贸易试验区世纪大道88号101部位裙房地下1层B1-07铺位",
+      "distance": "27m"
+    },
+    {
+      "brand": "星巴克(金茂大厦店)",
+      "address": "世纪大道88号金茂大厦2楼2C-08、10",
+      "distance": "30m"
+    },
+    {
+      "brand": "瑞幸咖啡(金茂大厦B1F店)",
+      "address": "世纪大道88号金茂大厦负一层B1-01-01-D室",
+      "distance": "31m"
+    },
+    {
+      "brand": "大壶春生煎(金茂大厦店)",
+      "address": "世纪大道88号金茂大厦B1层04号",
+      "distance": "34m"
+    },
+    {
+      "brand": "库迪咖啡(金茂时尚生活中心店)",
+      "address": "陆家嘴街道世纪大道88号金茂大厦裙房二夹层2C-07B",
+      "distance": "2m"
+    },
+    {
+      "brand": "YogurtDay酸奶(上海金茂大厦店)",
+      "address": "海兴路与花园石桥路交叉口东北80米",
+      "distance": "14m"
+    },
+    {
+      "brand": "KOKA SALAD沙拉(金茂店)",
+      "address": "世纪大道88号金茂时尚生活中心2c-04",
+      "distance": "15m"
+    },
+    {
+      "brand": "金茂空中花园餐厅(金茂时尚生活中心店)",
+      "address": "世纪大道88号金茂时尚生活中心F6",
+      "distance": "17m"
+    },
+    {
+      "brand": "宝藏绿洲(上海金茂大厦店)",
+      "address": "陆家嘴街道世纪大道88号金茂大厦101部位裙房二夹层2C-05铺位",
+      "distance": "17m"
+    },
+    {
+      "brand": "膳道(金茂店)",
+      "address": "陆家嘴世纪大道88号金茂大厦裙楼金茂时尚生活中心6楼",
+      "distance": "17m"
+    },
+    {
+      "brand": "池奈·咖喱蛋包饭(上海金茂大厦店)",
+      "address": "陆家嘴街道中国(上海)自由贸易试验区世纪大道88号101部位裙房地下1层B1-07铺位",
+      "distance": "27m"
+    },
+    {
+      "brand": "星巴克(金茂大厦店)",
+      "address": "世纪大道88号金茂大厦2楼2C-08、10",
+      "distance": "30m"
+    },
+    {
+      "brand": "瑞幸咖啡(金茂大厦B1F店)",
+      "address": "世纪大道88号金茂大厦负一层B1-01-01-D室",
+      "distance": "31m"
+    },
+    {
+      "brand": "大壶春生煎(金茂大厦店)",
+      "address": "世纪大道88号金茂大厦B1层04号",
+      "distance": "34m"
+    },
+    {
+      "brand": "库迪咖啡(金茂时尚生活中心店)",
+      "address": "陆家嘴街道世纪大道88号金茂大厦裙房二夹层2C-07B",
+      "distance": "2m"
+    },
+    {
+      "brand": "YogurtDay酸奶(上海金茂大厦店)",
+      "address": "海兴路与花园石桥路交叉口东北80米",
+      "distance": "14m"
+    },
+    {
+      "brand": "KOKA SALAD沙拉(金茂店)",
+      "address": "世纪大道88号金茂时尚生活中心2c-04",
+      "distance": "15m"
+    },
+    {
+      "brand": "金茂空中花园餐厅(金茂时尚生活中心店)",
+      "address": "世纪大道88号金茂时尚生活中心F6",
+      "distance": "17m"
+    },
+    {
+      "brand": "宝藏绿洲(上海金茂大厦店)",
+      "address": "陆家嘴街道世纪大道88号金茂大厦101部位裙房二夹层2C-05铺位",
+      "distance": "17m"
+    },
+    {
+      "brand": "膳道(金茂店)",
+      "address": "陆家嘴世纪大道88号金茂大厦裙楼金茂时尚生活中心6楼",
+      "distance": "17m"
+    },
+    {
+      "brand": "池奈·咖喱蛋包饭(上海金茂大厦店)",
+      "address": "陆家嘴街道中国(上海)自由贸易试验区世纪大道88号101部位裙房地下1层B1-07铺位",
+      "distance": "27m"
+    },
+    {
+      "brand": "星巴克(金茂大厦店)",
+      "address": "世纪大道88号金茂大厦2楼2C-08、10",
+      "distance": "30m"
+    },
+    {
+      "brand": "瑞幸咖啡(金茂大厦B1F店)",
+      "address": "世纪大道88号金茂大厦负一层B1-01-01-D室",
+      "distance": "31m"
+    },
+    {
+      "brand": "大壶春生煎(金茂大厦店)",
+      "address": "世纪大道88号金茂大厦B1层04号",
+      "distance": "34m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海之品商场",
+      "open_date": "-",
+      "area": "7万㎡",
+      "jun_daily_avg": "3.3万人次",
+      "weekday_avg": "3.4万人次",
+      "holiday_avg": "3.2万人次"
+    },
+    {
+      "name": "上海环球金融中心",
+      "open_date": "2008-08-29",
+      "area": "1.4万㎡",
+      "jun_daily_avg": "1.9万人次",
+      "weekday_avg": "2.2万人次",
+      "holiday_avg": "1万人次"
+    },
+    {
+      "name": "上海IFC",
+      "open_date": "2010-04-28",
+      "area": "11万㎡",
+      "jun_daily_avg": "5.2万人次",
+      "weekday_avg": "5.2万人次",
+      "holiday_avg": "5万人次"
+    },
+    {
+      "name": "上海览海国际广场",
+      "open_date": "2017-11-28",
+      "area": "3.7万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海正大广场",
+      "open_date": "2002-01-01",
+      "area": "24.3万㎡",
+      "jun_daily_avg": "5.2万人次",
+      "weekday_avg": "4.7万人次",
+      "holiday_avg": "6.3万人次"
+    },
+    {
+      "name": "上海GALA MALL尚悦湾广场",
+      "open_date": "2017-12-23",
+      "area": "7万㎡",
+      "jun_daily_avg": "2.8万人次",
+      "weekday_avg": "3.2万人次",
+      "holiday_avg": "1.6万人次"
+    },
+    {
+      "name": "上海陆家嘴中心L+Mall",
+      "open_date": "2018-12-23",
+      "area": "14万㎡",
+      "jun_daily_avg": "7.2万人次",
+      "weekday_avg": "7.4万人次",
+      "holiday_avg": "6.6万人次"
+    },
+    {
+      "name": "上海BFC外滩金融中心",
+      "open_date": "2019-12-12",
+      "area": "9.6万㎡",
+      "jun_daily_avg": "6.4万人次",
+      "weekday_avg": "6.3万人次",
+      "holiday_avg": "6.6万人次"
+    },
+    {
+      "name": "上海新梅联合广场",
+      "open_date": "2005-01-01",
+      "area": "6万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海1088广场",
+      "open_date": "2014-12-12",
+      "area": "3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 12.0,
+      "within_1yr_pct": 8.3,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 66.7
+    },
+    {
+      "type": "购物",
+      "count": 3.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 66.7
+    },
+    {
+      "type": "生活服务",
+      "count": 7.0,
+      "within_1yr_pct": 14.3,
+      "1_3yr_pct": 28.6,
+      "over_3yr_pct": 57.1
+    }
+  ]
+}

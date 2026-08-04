@@ -1,0 +1,391 @@
+{
+  "name": "房山绿地缤纷城",
+  "city": "北京市",
+  "address": "北京市房山区长阳路1号",
+  "lat": 39.756291,
+  "lng": 116.16088,
+  "overview": {
+    "score": 88.6,
+    "score_rank": "市内前30%",
+    "population_score": 76.5,
+    "area_score": 76.1,
+    "consumption_score": 64.4,
+    "industry_score": 88.8,
+    "annual_sales": "1.5",
+    "annual_sales_unit": "亿元",
+    "area_size_sqm": 7.0,
+    "open_date": "2014-12-19",
+    "operator": "绿地控股集团股份有限公司",
+    "brand": "绿地控股greenland",
+    "type": "综合型",
+    "floors": "B1-L4"
+  },
+  "traffic": {
+    "annual_daily": 1.77,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第138",
+    "jun_total": 48.7,
+    "jun_total_rank": "市内商场第188名",
+    "jun_daily_avg": 1.6,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第188名",
+    "weekday_avg": 1.5,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第191名",
+    "holiday_avg": 1.9,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第181名"
+  },
+  "population": {
+    "residential": {
+      "500m": 1.1,
+      "1_5km": 8.0,
+      "3km": 28.3
+    },
+    "office": {
+      "500m": 1.5,
+      "1_5km": 3.8,
+      "3km": 12.4
+    },
+    "permanent": {
+      "500m": 1.4,
+      "1_5km": 7.8,
+      "3km": 27.2
+    }
+  },
+  "business": {
+    "competitors": 2.0,
+    "food": 117.0,
+    "shopping": 56.0,
+    "leisure": 23.0,
+    "education": 26.0,
+    "hotel": 5.0,
+    "services": 129.0,
+    "fitness": 21.0,
+    "auto": 17.0,
+    "total_stores": 60.0,
+    "old_store_3yr_pct": 48.0
+  },
+  "nearby_poi": {
+    "business": null,
+    "community": 142.0,
+    "office": 9.0,
+    "school": 16.0,
+    "hospital": 44.0,
+    "transport": 6.0,
+    "scenic": 63.0
+  },
+  "demographics": {
+    "male_pct": 48.8,
+    "female_pct": null,
+    "education": {
+      "小学": 7.6,
+      "初中": 13.5,
+      "高中": 10.9,
+      "大专": 8.0,
+      "本科": 51.2,
+      "硕士": 7.3,
+      "博士": 1.5
+    },
+    "has_children_pct": 60.6,
+    "no_children_pct": 39.4
+  },
+  "scraped_at": "2026-08-01T06:28:20.682Z",
+  "nearby_restaurants": [
+    {
+      "brand": "CoCo都可(房山绿地缤纷城店)",
+      "address": "天星街1号院7号楼3F上影影城对面",
+      "distance": "1m"
+    },
+    {
+      "brand": "阿香米线(北京房山绿地缤纷)",
+      "address": "拱辰街道天星街1号院7号楼绿地缤纷城3楼",
+      "distance": "1m"
+    },
+    {
+      "brand": "满巍明生炸鸡架(北京绿地缤纷城店)",
+      "address": "北京城区天星街1号院7号楼绿地缤纷城(房山店)F3",
+      "distance": "1m"
+    },
+    {
+      "brand": "陕味食族油泼面(房山绿地缤纷城店)(暂停营业)",
+      "address": "北京城区绿地缤纷城3F",
+      "distance": "1m"
+    },
+    {
+      "brand": "甲乙饼·手工牛肉饼(房山绿地店)",
+      "address": "拱辰街道天星街1号院7号楼3F",
+      "distance": "1m"
+    },
+    {
+      "brand": "茶百道(北京房山绿地缤纷城店)",
+      "address": "北京城区天星街1号院绿地缤纷城房山店F1层",
+      "distance": "1m"
+    },
+    {
+      "brand": "米村拌饭(房山绿地缤纷城店)",
+      "address": "北京市北京市天星街1号院7号楼房山绿地缤纷城三城3F-01/14号商铺",
+      "distance": "1m"
+    },
+    {
+      "brand": "夸父炸串(房山绿地缤纷城店)",
+      "address": "房山绿地缤纷城三层",
+      "distance": "9m"
+    },
+    {
+      "brand": "抹茶王子(绿地缤纷城店)",
+      "address": "天星街1号院绿地缤纷城房山店F2层",
+      "distance": "16m"
+    },
+    {
+      "brand": "萨莉亚意式餐厅(房山绿地缤纷城店)",
+      "address": "天星街1号院绿地缤纷城房山店F3层",
+      "distance": "22m"
+    },
+    {
+      "brand": "CoCo都可(房山绿地缤纷城店)",
+      "address": "天星街1号院7号楼3F上影影城对面",
+      "distance": "1m"
+    },
+    {
+      "brand": "阿香米线(北京房山绿地缤纷)",
+      "address": "拱辰街道天星街1号院7号楼绿地缤纷城3楼",
+      "distance": "1m"
+    },
+    {
+      "brand": "满巍明生炸鸡架(北京绿地缤纷城店)",
+      "address": "北京城区天星街1号院7号楼绿地缤纷城(房山店)F3",
+      "distance": "1m"
+    },
+    {
+      "brand": "陕味食族油泼面(房山绿地缤纷城店)(暂停营业)",
+      "address": "北京城区绿地缤纷城3F",
+      "distance": "1m"
+    },
+    {
+      "brand": "甲乙饼·手工牛肉饼(房山绿地店)",
+      "address": "拱辰街道天星街1号院7号楼3F",
+      "distance": "1m"
+    },
+    {
+      "brand": "茶百道(北京房山绿地缤纷城店)",
+      "address": "北京城区天星街1号院绿地缤纷城房山店F1层",
+      "distance": "1m"
+    },
+    {
+      "brand": "米村拌饭(房山绿地缤纷城店)",
+      "address": "北京市北京市天星街1号院7号楼房山绿地缤纷城三城3F-01/14号商铺",
+      "distance": "1m"
+    },
+    {
+      "brand": "夸父炸串(房山绿地缤纷城店)",
+      "address": "房山绿地缤纷城三层",
+      "distance": "9m"
+    },
+    {
+      "brand": "抹茶王子(绿地缤纷城店)",
+      "address": "天星街1号院绿地缤纷城房山店F2层",
+      "distance": "16m"
+    },
+    {
+      "brand": "萨莉亚意式餐厅(房山绿地缤纷城店)",
+      "address": "天星街1号院绿地缤纷城房山店F3层",
+      "distance": "22m"
+    },
+    {
+      "brand": "CoCo都可(房山绿地缤纷城店)",
+      "address": "天星街1号院7号楼3F上影影城对面",
+      "distance": "1m"
+    },
+    {
+      "brand": "阿香米线(北京房山绿地缤纷)",
+      "address": "拱辰街道天星街1号院7号楼绿地缤纷城3楼",
+      "distance": "1m"
+    },
+    {
+      "brand": "满巍明生炸鸡架(北京绿地缤纷城店)",
+      "address": "北京城区天星街1号院7号楼绿地缤纷城(房山店)F3",
+      "distance": "1m"
+    },
+    {
+      "brand": "陕味食族油泼面(房山绿地缤纷城店)(暂停营业)",
+      "address": "北京城区绿地缤纷城3F",
+      "distance": "1m"
+    },
+    {
+      "brand": "甲乙饼·手工牛肉饼(房山绿地店)",
+      "address": "拱辰街道天星街1号院7号楼3F",
+      "distance": "1m"
+    },
+    {
+      "brand": "茶百道(北京房山绿地缤纷城店)",
+      "address": "北京城区天星街1号院绿地缤纷城房山店F1层",
+      "distance": "1m"
+    },
+    {
+      "brand": "米村拌饭(房山绿地缤纷城店)",
+      "address": "北京市北京市天星街1号院7号楼房山绿地缤纷城三城3F-01/14号商铺",
+      "distance": "1m"
+    },
+    {
+      "brand": "夸父炸串(房山绿地缤纷城店)",
+      "address": "房山绿地缤纷城三层",
+      "distance": "9m"
+    },
+    {
+      "brand": "抹茶王子(绿地缤纷城店)",
+      "address": "天星街1号院绿地缤纷城房山店F2层",
+      "distance": "16m"
+    },
+    {
+      "brand": "萨莉亚意式餐厅(房山绿地缤纷城店)",
+      "address": "天星街1号院绿地缤纷城房山店F3层",
+      "distance": "22m"
+    },
+    {
+      "brand": "CoCo都可(房山绿地缤纷城店)",
+      "address": "天星街1号院7号楼3F上影影城对面",
+      "distance": "1m"
+    },
+    {
+      "brand": "阿香米线(北京房山绿地缤纷)",
+      "address": "拱辰街道天星街1号院7号楼绿地缤纷城3楼",
+      "distance": "1m"
+    },
+    {
+      "brand": "满巍明生炸鸡架(北京绿地缤纷城店)",
+      "address": "北京城区天星街1号院7号楼绿地缤纷城(房山店)F3",
+      "distance": "1m"
+    },
+    {
+      "brand": "陕味食族油泼面(房山绿地缤纷城店)(暂停营业)",
+      "address": "北京城区绿地缤纷城3F",
+      "distance": "1m"
+    },
+    {
+      "brand": "甲乙饼·手工牛肉饼(房山绿地店)",
+      "address": "拱辰街道天星街1号院7号楼3F",
+      "distance": "1m"
+    },
+    {
+      "brand": "茶百道(北京房山绿地缤纷城店)",
+      "address": "北京城区天星街1号院绿地缤纷城房山店F1层",
+      "distance": "1m"
+    },
+    {
+      "brand": "米村拌饭(房山绿地缤纷城店)",
+      "address": "北京市北京市天星街1号院7号楼房山绿地缤纷城三城3F-01/14号商铺",
+      "distance": "1m"
+    },
+    {
+      "brand": "夸父炸串(房山绿地缤纷城店)",
+      "address": "房山绿地缤纷城三层",
+      "distance": "9m"
+    },
+    {
+      "brand": "抹茶王子(绿地缤纷城店)",
+      "address": "天星街1号院绿地缤纷城房山店F2层",
+      "distance": "16m"
+    },
+    {
+      "brand": "萨莉亚意式餐厅(房山绿地缤纷城店)",
+      "address": "天星街1号院绿地缤纷城房山店F3层",
+      "distance": "22m"
+    },
+    {
+      "brand": "CoCo都可(房山绿地缤纷城店)",
+      "address": "天星街1号院7号楼3F上影影城对面",
+      "distance": "1m"
+    },
+    {
+      "brand": "阿香米线(北京房山绿地缤纷)",
+      "address": "拱辰街道天星街1号院7号楼绿地缤纷城3楼",
+      "distance": "1m"
+    },
+    {
+      "brand": "满巍明生炸鸡架(北京绿地缤纷城店)",
+      "address": "北京城区天星街1号院7号楼绿地缤纷城(房山店)F3",
+      "distance": "1m"
+    },
+    {
+      "brand": "陕味食族油泼面(房山绿地缤纷城店)(暂停营业)",
+      "address": "北京城区绿地缤纷城3F",
+      "distance": "1m"
+    },
+    {
+      "brand": "甲乙饼·手工牛肉饼(房山绿地店)",
+      "address": "拱辰街道天星街1号院7号楼3F",
+      "distance": "1m"
+    },
+    {
+      "brand": "茶百道(北京房山绿地缤纷城店)",
+      "address": "北京城区天星街1号院绿地缤纷城房山店F1层",
+      "distance": "1m"
+    },
+    {
+      "brand": "米村拌饭(房山绿地缤纷城店)",
+      "address": "北京市北京市天星街1号院7号楼房山绿地缤纷城三城3F-01/14号商铺",
+      "distance": "1m"
+    },
+    {
+      "brand": "夸父炸串(房山绿地缤纷城店)",
+      "address": "房山绿地缤纷城三层",
+      "distance": "9m"
+    },
+    {
+      "brand": "抹茶王子(绿地缤纷城店)",
+      "address": "天星街1号院绿地缤纷城房山店F2层",
+      "distance": "16m"
+    },
+    {
+      "brand": "萨莉亚意式餐厅(房山绿地缤纷城店)",
+      "address": "天星街1号院绿地缤纷城房山店F3层",
+      "distance": "22m"
+    }
+  ],
+  "nearby_malls": [],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 23.0,
+      "within_1yr_pct": 13.0,
+      "1_3yr_pct": 26.1,
+      "over_3yr_pct": 60.9
+    },
+    {
+      "type": "购物",
+      "count": 21.0,
+      "within_1yr_pct": 23.8,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 42.9
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 5.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 40.0,
+      "over_3yr_pct": 60.0
+    },
+    {
+      "type": "生活服务",
+      "count": 8.0,
+      "within_1yr_pct": 12.5,
+      "1_3yr_pct": 62.5,
+      "over_3yr_pct": 25.0
+    },
+    {
+      "type": "运动健身",
+      "count": 2.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
+    }
+  ]
+}

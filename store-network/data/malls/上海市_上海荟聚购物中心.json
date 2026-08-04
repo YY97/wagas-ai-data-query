@@ -1,0 +1,422 @@
+{
+  "name": "上海荟聚购物中心",
+  "city": "上海市",
+  "address": "上海市长宁区北翟路与北翟高架路出口交叉口东南150米",
+  "lat": 31.227468,
+  "lng": 121.342021,
+  "overview": {
+    "score": 94.8,
+    "score_rank": "市内前30%",
+    "population_score": 71.3,
+    "area_score": 88.8,
+    "consumption_score": 76.5,
+    "industry_score": 95.0,
+    "annual_sales": "海荟聚中心位于长宁区福泉路西侧、协和路东侧、金钟路北侧、北翟路南侧，项目建筑面积43万余平方米，主要功能包括商业购物中心、宜家家居卖场及办公楼。项目建成后，将包含零售、餐饮、大型超市和娱乐等 [2]。所处紧邻2号线淞虹路站，建筑面积11万平方米，商业面积15万平方。",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 21.0,
+    "open_date": "2024-09-29",
+    "operator": "上海英格卡购物中心有限公司",
+    "brand": "荟聚",
+    "type": "综合型",
+    "floors": "L1-L6"
+  },
+  "traffic": {
+    "annual_daily": 2.63,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第102",
+    "jun_total": 225.2,
+    "jun_total_rank": "市内商场第21名",
+    "jun_daily_avg": 7.5,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第21名",
+    "weekday_avg": 6.8,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第21名",
+    "holiday_avg": 9.5,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第24名"
+  },
+  "population": {
+    "residential": {
+      "500m": 9300.0,
+      "1_5km": 14.0,
+      "3km": 50.3
+    },
+    "office": {
+      "500m": 4.6,
+      "1_5km": 13.2,
+      "3km": 34.4
+    },
+    "permanent": {
+      "500m": 2.0,
+      "1_5km": 14.9,
+      "3km": 51.3
+    }
+  },
+  "business": {
+    "competitors": 15.0,
+    "food": 380.0,
+    "shopping": 219.0,
+    "leisure": 21.0,
+    "education": 19.0,
+    "hotel": 15.0,
+    "services": 80.0,
+    "fitness": 33.0,
+    "auto": 38.0,
+    "total_stores": 362.0,
+    "old_store_3yr_pct": 0.0
+  },
+  "nearby_poi": {
+    "business": 2.0,
+    "community": 283.0,
+    "office": 75.0,
+    "school": 28.0,
+    "hospital": 51.0,
+    "transport": 11.0,
+    "scenic": 79.0
+  },
+  "demographics": {
+    "male_pct": 47.7,
+    "female_pct": null,
+    "education": {
+      "小学": 9.2,
+      "初中": 16.6,
+      "高中": 10.9,
+      "大专": 7.4,
+      "本科": 49.0,
+      "硕士": 5.3,
+      "博士": 1.6
+    },
+    "has_children_pct": 61.7,
+    "no_children_pct": 38.3
+  },
+  "scraped_at": "2026-07-31T17:25:11.701Z",
+  "nearby_restaurants": [
+    {
+      "brand": "彼酷哩活鱼现烤(上海荟聚店)",
+      "address": "金钟路788号上海荟聚B2层城市集市门口",
+      "distance": "1m"
+    },
+    {
+      "brand": "蜀语砂锅(城市集市上海荟聚店)",
+      "address": "金钟路788号上海荟聚LivatB2层",
+      "distance": "8m"
+    },
+    {
+      "brand": "廖川菜(上海荟聚店)",
+      "address": "福泉路58号靠近上海荟聚LG2",
+      "distance": "12m"
+    },
+    {
+      "brand": "山石榴贵州菜(荟聚Livat店)",
+      "address": "金钟路788号上海荟聚Livat F3层",
+      "distance": "13m"
+    },
+    {
+      "brand": "上海哈尔滨食品厂(荟聚宜家店)",
+      "address": "金钟路788号上海荟聚LivatB2层",
+      "distance": "15m"
+    },
+    {
+      "brand": "毒蛇面馆(上海荟聚店)",
+      "address": "金钟路788号上海荟聚B2层",
+      "distance": "17m"
+    },
+    {
+      "brand": "LOKAL(上海荟聚店)",
+      "address": "金钟路788号上海荟聚Livat F4层",
+      "distance": "18m"
+    },
+    {
+      "brand": "SMAKA",
+      "address": "金钟路788号上海荟聚Livat F4层",
+      "distance": "18m"
+    },
+    {
+      "brand": "黄油渔·黄油手工烤鱼片(荟聚店)",
+      "address": "金钟路788号上海荟聚Livat",
+      "distance": "21m"
+    },
+    {
+      "brand": "井梅无锡面馆·私房面(城市集市上海荟聚店)",
+      "address": "金钟路788号上海荟聚B2层",
+      "distance": "22m"
+    },
+    {
+      "brand": "彼酷哩活鱼现烤(上海荟聚店)",
+      "address": "金钟路788号上海荟聚B2层城市集市门口",
+      "distance": "1m"
+    },
+    {
+      "brand": "蜀语砂锅(城市集市上海荟聚店)",
+      "address": "金钟路788号上海荟聚LivatB2层",
+      "distance": "8m"
+    },
+    {
+      "brand": "廖川菜(上海荟聚店)",
+      "address": "福泉路58号靠近上海荟聚LG2",
+      "distance": "12m"
+    },
+    {
+      "brand": "山石榴贵州菜(荟聚Livat店)",
+      "address": "金钟路788号上海荟聚Livat F3层",
+      "distance": "13m"
+    },
+    {
+      "brand": "上海哈尔滨食品厂(荟聚宜家店)",
+      "address": "金钟路788号上海荟聚LivatB2层",
+      "distance": "15m"
+    },
+    {
+      "brand": "毒蛇面馆(上海荟聚店)",
+      "address": "金钟路788号上海荟聚B2层",
+      "distance": "17m"
+    },
+    {
+      "brand": "LOKAL(上海荟聚店)",
+      "address": "金钟路788号上海荟聚Livat F4层",
+      "distance": "18m"
+    },
+    {
+      "brand": "SMAKA",
+      "address": "金钟路788号上海荟聚Livat F4层",
+      "distance": "18m"
+    },
+    {
+      "brand": "黄油渔·黄油手工烤鱼片(荟聚店)",
+      "address": "金钟路788号上海荟聚Livat",
+      "distance": "21m"
+    },
+    {
+      "brand": "井梅无锡面馆·私房面(城市集市上海荟聚店)",
+      "address": "金钟路788号上海荟聚B2层",
+      "distance": "22m"
+    },
+    {
+      "brand": "彼酷哩活鱼现烤(上海荟聚店)",
+      "address": "金钟路788号上海荟聚B2层城市集市门口",
+      "distance": "1m"
+    },
+    {
+      "brand": "蜀语砂锅(城市集市上海荟聚店)",
+      "address": "金钟路788号上海荟聚LivatB2层",
+      "distance": "8m"
+    },
+    {
+      "brand": "廖川菜(上海荟聚店)",
+      "address": "福泉路58号靠近上海荟聚LG2",
+      "distance": "12m"
+    },
+    {
+      "brand": "山石榴贵州菜(荟聚Livat店)",
+      "address": "金钟路788号上海荟聚Livat F3层",
+      "distance": "13m"
+    },
+    {
+      "brand": "上海哈尔滨食品厂(荟聚宜家店)",
+      "address": "金钟路788号上海荟聚LivatB2层",
+      "distance": "15m"
+    },
+    {
+      "brand": "毒蛇面馆(上海荟聚店)",
+      "address": "金钟路788号上海荟聚B2层",
+      "distance": "17m"
+    },
+    {
+      "brand": "LOKAL(上海荟聚店)",
+      "address": "金钟路788号上海荟聚Livat F4层",
+      "distance": "18m"
+    },
+    {
+      "brand": "SMAKA",
+      "address": "金钟路788号上海荟聚Livat F4层",
+      "distance": "18m"
+    },
+    {
+      "brand": "黄油渔·黄油手工烤鱼片(荟聚店)",
+      "address": "金钟路788号上海荟聚Livat",
+      "distance": "21m"
+    },
+    {
+      "brand": "井梅无锡面馆·私房面(城市集市上海荟聚店)",
+      "address": "金钟路788号上海荟聚B2层",
+      "distance": "22m"
+    },
+    {
+      "brand": "彼酷哩活鱼现烤(上海荟聚店)",
+      "address": "金钟路788号上海荟聚B2层城市集市门口",
+      "distance": "1m"
+    },
+    {
+      "brand": "蜀语砂锅(城市集市上海荟聚店)",
+      "address": "金钟路788号上海荟聚LivatB2层",
+      "distance": "8m"
+    },
+    {
+      "brand": "廖川菜(上海荟聚店)",
+      "address": "福泉路58号靠近上海荟聚LG2",
+      "distance": "12m"
+    },
+    {
+      "brand": "山石榴贵州菜(荟聚Livat店)",
+      "address": "金钟路788号上海荟聚Livat F3层",
+      "distance": "13m"
+    },
+    {
+      "brand": "上海哈尔滨食品厂(荟聚宜家店)",
+      "address": "金钟路788号上海荟聚LivatB2层",
+      "distance": "15m"
+    },
+    {
+      "brand": "毒蛇面馆(上海荟聚店)",
+      "address": "金钟路788号上海荟聚B2层",
+      "distance": "17m"
+    },
+    {
+      "brand": "LOKAL(上海荟聚店)",
+      "address": "金钟路788号上海荟聚Livat F4层",
+      "distance": "18m"
+    },
+    {
+      "brand": "SMAKA",
+      "address": "金钟路788号上海荟聚Livat F4层",
+      "distance": "18m"
+    },
+    {
+      "brand": "黄油渔·黄油手工烤鱼片(荟聚店)",
+      "address": "金钟路788号上海荟聚Livat",
+      "distance": "21m"
+    },
+    {
+      "brand": "井梅无锡面馆·私房面(城市集市上海荟聚店)",
+      "address": "金钟路788号上海荟聚B2层",
+      "distance": "22m"
+    },
+    {
+      "brand": "彼酷哩活鱼现烤(上海荟聚店)",
+      "address": "金钟路788号上海荟聚B2层城市集市门口",
+      "distance": "1m"
+    },
+    {
+      "brand": "蜀语砂锅(城市集市上海荟聚店)",
+      "address": "金钟路788号上海荟聚LivatB2层",
+      "distance": "8m"
+    },
+    {
+      "brand": "廖川菜(上海荟聚店)",
+      "address": "福泉路58号靠近上海荟聚LG2",
+      "distance": "12m"
+    },
+    {
+      "brand": "山石榴贵州菜(荟聚Livat店)",
+      "address": "金钟路788号上海荟聚Livat F3层",
+      "distance": "13m"
+    },
+    {
+      "brand": "上海哈尔滨食品厂(荟聚宜家店)",
+      "address": "金钟路788号上海荟聚LivatB2层",
+      "distance": "15m"
+    },
+    {
+      "brand": "毒蛇面馆(上海荟聚店)",
+      "address": "金钟路788号上海荟聚B2层",
+      "distance": "17m"
+    },
+    {
+      "brand": "LOKAL(上海荟聚店)",
+      "address": "金钟路788号上海荟聚Livat F4层",
+      "distance": "18m"
+    },
+    {
+      "brand": "SMAKA",
+      "address": "金钟路788号上海荟聚Livat F4层",
+      "distance": "18m"
+    },
+    {
+      "brand": "黄油渔·黄油手工烤鱼片(荟聚店)",
+      "address": "金钟路788号上海荟聚Livat",
+      "distance": "21m"
+    },
+    {
+      "brand": "井梅无锡面馆·私房面(城市集市上海荟聚店)",
+      "address": "金钟路788号上海荟聚B2层",
+      "distance": "22m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海建滔广场",
+      "open_date": "2015-11-01",
+      "area": "4.5万㎡",
+      "jun_daily_avg": "2.9万人次",
+      "weekday_avg": "3万人次",
+      "holiday_avg": "2.9万人次"
+    },
+    {
+      "name": "上海虹桥中心Art Park大融城",
+      "open_date": "2021-12-31",
+      "area": "6万㎡",
+      "jun_daily_avg": "2.9万人次",
+      "weekday_avg": "3万人次",
+      "holiday_avg": "2.9万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 147.0,
+      "within_1yr_pct": 17.7,
+      "1_3yr_pct": 82.3,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "购物",
+      "count": 150.0,
+      "within_1yr_pct": 15.3,
+      "1_3yr_pct": 84.0,
+      "over_3yr_pct": 0.7
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 15.0,
+      "within_1yr_pct": 40.0,
+      "1_3yr_pct": 60.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "教育培训",
+      "count": 4.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 75.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 1.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "生活服务",
+      "count": 24.0,
+      "within_1yr_pct": 29.2,
+      "1_3yr_pct": 70.8,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "运动健身",
+      "count": 6.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 66.7,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 15.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 80.0,
+      "over_3yr_pct": 0.0
+    }
+  ]
+}

@@ -1,0 +1,479 @@
+{
+  "name": "北京春平广场",
+  "city": "北京市",
+  "address": "北京市朝阳区工人体育场东路20号(东大桥地铁站A西北口旁)",
+  "lat": 39.921387,
+  "lng": 116.452523,
+  "overview": {
+    "score": 81.9,
+    "score_rank": "市内前30%",
+    "population_score": 90.4,
+    "area_score": 84.8,
+    "consumption_score": 82.3,
+    "industry_score": 81.8,
+    "annual_sales": "春平广场位于北京市朝阳东大桥工人体育场东路20号，是一个集商业、办公等多功能于一体的综合性建筑。项目位于东二环与东三环之间，周边交通网络密集，为朝外商务区提供便利快捷的交通服务 。",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 2500.0,
+    "open_date": "2007-01-01",
+    "operator": "北京春平集团有限公司",
+    "brand": "",
+    "type": "美食型",
+    "floors": "B1-L5"
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "-",
+    "annual_daily_rank": "",
+    "jun_total": 10.1,
+    "jun_total_rank": "市内商场第317名",
+    "jun_daily_avg": 3350.0,
+    "jun_daily_unit": "人次",
+    "jun_daily_rank": "市内商场第317名",
+    "weekday_avg": 3413.0,
+    "weekday_unit": "人次",
+    "weekday_rank": "市内商场第315名",
+    "holiday_avg": 3179.0,
+    "holiday_unit": "人次",
+    "holiday_rank": "市内商场第321名"
+  },
+  "population": {
+    "residential": {
+      "500m": 2.2,
+      "1_5km": 17.9,
+      "3km": 69.0
+    },
+    "office": {
+      "500m": 2.4,
+      "1_5km": 28.3,
+      "3km": 84.2
+    },
+    "permanent": {
+      "500m": 2.5,
+      "1_5km": 22.0,
+      "3km": 78.9
+    }
+  },
+  "business": {
+    "competitors": 3.0,
+    "food": 163.0,
+    "shopping": 144.0,
+    "leisure": 24.0,
+    "education": 13.0,
+    "hotel": 51.0,
+    "services": 107.0,
+    "fitness": 11.0,
+    "auto": 25.0,
+    "total_stores": 46.0,
+    "old_store_3yr_pct": 52.0
+  },
+  "nearby_poi": {
+    "business": 21.0,
+    "community": 473.0,
+    "office": 182.0,
+    "school": 40.0,
+    "hospital": 174.0,
+    "transport": 11.0,
+    "scenic": 334.0
+  },
+  "demographics": {
+    "male_pct": 46.3,
+    "female_pct": null,
+    "education": {
+      "小学": 9.8,
+      "初中": 17.0,
+      "高中": 10.9,
+      "大专": 6.6,
+      "本科": 47.4,
+      "硕士": 6.7,
+      "博士": 1.6
+    },
+    "has_children_pct": 57.3,
+    "no_children_pct": 42.7
+  },
+  "scraped_at": "2026-07-31T18:50:16.774Z",
+  "nearby_restaurants": [
+    {
+      "brand": "聚福自选餐(春平广场店)",
+      "address": "工人体育场东路20号春平广场F1层(东大桥地铁站A西北口旁)",
+      "distance": "2m"
+    },
+    {
+      "brand": "融盧自助烤肉(春平广场店)",
+      "address": "北京城区工人体育场东路20号春平广场F2层",
+      "distance": "3m"
+    },
+    {
+      "brand": "巴黎贝甜(东大桥)",
+      "address": "工体东路20号1层106室08",
+      "distance": "9m"
+    },
+    {
+      "brand": "德记隆江猪脚饭广式烧腊",
+      "address": "工体东路20号春平广场1层106室01",
+      "distance": "9m"
+    },
+    {
+      "brand": "牛魔王炭火烤肉(春平广场店)",
+      "address": "工人体育场东路20号春平广场F2层(东大桥地铁站F口旁)",
+      "distance": "12m"
+    },
+    {
+      "brand": "匠牛道烤肉料理店(春平广场店)",
+      "address": "工人体育场东路20号春平广场F2层",
+      "distance": "15m"
+    },
+    {
+      "brand": "田老师红烧肉(春平广场店)",
+      "address": "工体东路20号1层106-13(东大桥地铁站F口旁)",
+      "distance": "18m"
+    },
+    {
+      "brand": "西门老赵拉面",
+      "address": "北京城区工体东路20号1层106内-15",
+      "distance": "18m"
+    },
+    {
+      "brand": "南城香(东大桥店)",
+      "address": "北京城区工体东路20号1层106内2039号",
+      "distance": "18m"
+    },
+    {
+      "brand": "瑞幸咖啡(春平广场店)",
+      "address": "工体东路20号春平广场汇食街一层106号",
+      "distance": "19m"
+    },
+    {
+      "brand": "聚福自选餐(春平广场店)",
+      "address": "工人体育场东路20号春平广场F1层(东大桥地铁站A西北口旁)",
+      "distance": "2m"
+    },
+    {
+      "brand": "融盧自助烤肉(春平广场店)",
+      "address": "北京城区工人体育场东路20号春平广场F2层",
+      "distance": "3m"
+    },
+    {
+      "brand": "巴黎贝甜(东大桥)",
+      "address": "工体东路20号1层106室08",
+      "distance": "9m"
+    },
+    {
+      "brand": "德记隆江猪脚饭广式烧腊",
+      "address": "工体东路20号春平广场1层106室01",
+      "distance": "9m"
+    },
+    {
+      "brand": "牛魔王炭火烤肉(春平广场店)",
+      "address": "工人体育场东路20号春平广场F2层(东大桥地铁站F口旁)",
+      "distance": "12m"
+    },
+    {
+      "brand": "匠牛道烤肉料理店(春平广场店)",
+      "address": "工人体育场东路20号春平广场F2层",
+      "distance": "15m"
+    },
+    {
+      "brand": "田老师红烧肉(春平广场店)",
+      "address": "工体东路20号1层106-13(东大桥地铁站F口旁)",
+      "distance": "18m"
+    },
+    {
+      "brand": "西门老赵拉面",
+      "address": "北京城区工体东路20号1层106内-15",
+      "distance": "18m"
+    },
+    {
+      "brand": "南城香(东大桥店)",
+      "address": "北京城区工体东路20号1层106内2039号",
+      "distance": "18m"
+    },
+    {
+      "brand": "瑞幸咖啡(春平广场店)",
+      "address": "工体东路20号春平广场汇食街一层106号",
+      "distance": "19m"
+    },
+    {
+      "brand": "聚福自选餐(春平广场店)",
+      "address": "工人体育场东路20号春平广场F1层(东大桥地铁站A西北口旁)",
+      "distance": "2m"
+    },
+    {
+      "brand": "融盧自助烤肉(春平广场店)",
+      "address": "北京城区工人体育场东路20号春平广场F2层",
+      "distance": "3m"
+    },
+    {
+      "brand": "巴黎贝甜(东大桥)",
+      "address": "工体东路20号1层106室08",
+      "distance": "9m"
+    },
+    {
+      "brand": "德记隆江猪脚饭广式烧腊",
+      "address": "工体东路20号春平广场1层106室01",
+      "distance": "9m"
+    },
+    {
+      "brand": "牛魔王炭火烤肉(春平广场店)",
+      "address": "工人体育场东路20号春平广场F2层(东大桥地铁站F口旁)",
+      "distance": "12m"
+    },
+    {
+      "brand": "匠牛道烤肉料理店(春平广场店)",
+      "address": "工人体育场东路20号春平广场F2层",
+      "distance": "15m"
+    },
+    {
+      "brand": "田老师红烧肉(春平广场店)",
+      "address": "工体东路20号1层106-13(东大桥地铁站F口旁)",
+      "distance": "18m"
+    },
+    {
+      "brand": "西门老赵拉面",
+      "address": "北京城区工体东路20号1层106内-15",
+      "distance": "18m"
+    },
+    {
+      "brand": "南城香(东大桥店)",
+      "address": "北京城区工体东路20号1层106内2039号",
+      "distance": "18m"
+    },
+    {
+      "brand": "瑞幸咖啡(春平广场店)",
+      "address": "工体东路20号春平广场汇食街一层106号",
+      "distance": "19m"
+    },
+    {
+      "brand": "聚福自选餐(春平广场店)",
+      "address": "工人体育场东路20号春平广场F1层(东大桥地铁站A西北口旁)",
+      "distance": "2m"
+    },
+    {
+      "brand": "融盧自助烤肉(春平广场店)",
+      "address": "北京城区工人体育场东路20号春平广场F2层",
+      "distance": "3m"
+    },
+    {
+      "brand": "巴黎贝甜(东大桥)",
+      "address": "工体东路20号1层106室08",
+      "distance": "9m"
+    },
+    {
+      "brand": "德记隆江猪脚饭广式烧腊",
+      "address": "工体东路20号春平广场1层106室01",
+      "distance": "9m"
+    },
+    {
+      "brand": "牛魔王炭火烤肉(春平广场店)",
+      "address": "工人体育场东路20号春平广场F2层(东大桥地铁站F口旁)",
+      "distance": "12m"
+    },
+    {
+      "brand": "匠牛道烤肉料理店(春平广场店)",
+      "address": "工人体育场东路20号春平广场F2层",
+      "distance": "15m"
+    },
+    {
+      "brand": "田老师红烧肉(春平广场店)",
+      "address": "工体东路20号1层106-13(东大桥地铁站F口旁)",
+      "distance": "18m"
+    },
+    {
+      "brand": "西门老赵拉面",
+      "address": "北京城区工体东路20号1层106内-15",
+      "distance": "18m"
+    },
+    {
+      "brand": "南城香(东大桥店)",
+      "address": "北京城区工体东路20号1层106内2039号",
+      "distance": "18m"
+    },
+    {
+      "brand": "瑞幸咖啡(春平广场店)",
+      "address": "工体东路20号春平广场汇食街一层106号",
+      "distance": "19m"
+    },
+    {
+      "brand": "聚福自选餐(春平广场店)",
+      "address": "工人体育场东路20号春平广场F1层(东大桥地铁站A西北口旁)",
+      "distance": "2m"
+    },
+    {
+      "brand": "融盧自助烤肉(春平广场店)",
+      "address": "北京城区工人体育场东路20号春平广场F2层",
+      "distance": "3m"
+    },
+    {
+      "brand": "巴黎贝甜(东大桥)",
+      "address": "工体东路20号1层106室08",
+      "distance": "9m"
+    },
+    {
+      "brand": "德记隆江猪脚饭广式烧腊",
+      "address": "工体东路20号春平广场1层106室01",
+      "distance": "9m"
+    },
+    {
+      "brand": "牛魔王炭火烤肉(春平广场店)",
+      "address": "工人体育场东路20号春平广场F2层(东大桥地铁站F口旁)",
+      "distance": "12m"
+    },
+    {
+      "brand": "匠牛道烤肉料理店(春平广场店)",
+      "address": "工人体育场东路20号春平广场F2层",
+      "distance": "15m"
+    },
+    {
+      "brand": "田老师红烧肉(春平广场店)",
+      "address": "工体东路20号1层106-13(东大桥地铁站F口旁)",
+      "distance": "18m"
+    },
+    {
+      "brand": "西门老赵拉面",
+      "address": "北京城区工体东路20号1层106内-15",
+      "distance": "18m"
+    },
+    {
+      "brand": "南城香(东大桥店)",
+      "address": "北京城区工体东路20号1层106内2039号",
+      "distance": "18m"
+    },
+    {
+      "brand": "瑞幸咖啡(春平广场店)",
+      "address": "工体东路20号春平广场汇食街一层106号",
+      "distance": "19m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "北京蓝岛大厦金隅百货",
+      "open_date": "2007-01-27",
+      "area": "1.6万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "北京THE BOX 朝外｜年轻力中心",
+      "open_date": "2023-06-10",
+      "area": "1.8万㎡",
+      "jun_daily_avg": "1.9万人次",
+      "weekday_avg": "1.6万人次",
+      "holiday_avg": "2.9万人次"
+    },
+    {
+      "name": "北京侨福芳草地",
+      "open_date": "2012-09-01",
+      "area": "4.7万㎡",
+      "jun_daily_avg": "2.3万人次",
+      "weekday_avg": "2.4万人次",
+      "holiday_avg": "2.2万人次"
+    },
+    {
+      "name": "北京SOHO尚都",
+      "open_date": "2005-01-06",
+      "area": "3.7万㎡",
+      "jun_daily_avg": "2.2万人次",
+      "weekday_avg": "2.3万人次",
+      "holiday_avg": "1.9万人次"
+    },
+    {
+      "name": "北京CBD中骏世界城",
+      "open_date": "2009-12-01",
+      "area": "3万㎡",
+      "jun_daily_avg": "2.4万人次",
+      "weekday_avg": "2.4万人次",
+      "holiday_avg": "2.4万人次"
+    },
+    {
+      "name": "北京世贸天阶",
+      "open_date": "2007-09-15",
+      "area": "8万㎡",
+      "jun_daily_avg": "2.2万人次",
+      "weekday_avg": "2.4万人次",
+      "holiday_avg": "1.9万人次"
+    },
+    {
+      "name": "北京三里屯SOHO",
+      "open_date": "2010-09-01",
+      "area": "12.8万㎡",
+      "jun_daily_avg": "5.2万人次",
+      "weekday_avg": "4.8万人次",
+      "holiday_avg": "6.2万人次"
+    },
+    {
+      "name": "北京T+MALL",
+      "open_date": "2023-12-22",
+      "area": "2.5万㎡",
+      "jun_daily_avg": "2.1万人次",
+      "weekday_avg": "1.7万人次",
+      "holiday_avg": "3.1万人次"
+    },
+    {
+      "name": "北京财富购物中心",
+      "open_date": "2010-11-01",
+      "area": "3.8万㎡",
+      "jun_daily_avg": "1.7万人次",
+      "weekday_avg": "1.9万人次",
+      "holiday_avg": "1.2万人次"
+    },
+    {
+      "name": "北京悠唐购物中心",
+      "open_date": "2009-04-01",
+      "area": "12万㎡",
+      "jun_daily_avg": "6.5万人次",
+      "weekday_avg": "6.4万人次",
+      "holiday_avg": "6.7万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 20.0,
+      "within_1yr_pct": 10.0,
+      "1_3yr_pct": 15.0,
+      "over_3yr_pct": 75.0
+    },
+    {
+      "type": "购物",
+      "count": 5.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 40.0,
+      "over_3yr_pct": 40.0
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 2.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "教育培训",
+      "count": 2.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 8.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "生活服务",
+      "count": 8.0,
+      "within_1yr_pct": 37.5,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 37.5
+    },
+    {
+      "type": "运动健身",
+      "count": 1.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
+    }
+  ]
+}

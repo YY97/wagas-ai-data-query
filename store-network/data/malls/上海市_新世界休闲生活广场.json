@@ -1,0 +1,154 @@
+{
+  "name": "新世界休闲生活广场",
+  "city": "上海市",
+  "address": "上海市嘉定区曹安公路2378号",
+  "lat": 31.26133,
+  "lng": 121.341934,
+  "overview": {
+    "score": 79.4,
+    "score_rank": "市内前30%",
+    "population_score": 92.2,
+    "area_score": 73.8,
+    "consumption_score": 67.6,
+    "industry_score": 79.4,
+    "annual_sales": "上海新世界休闲生活广场位于上海市嘉定区江桥镇中心，填补了上海西大门几十年来缺少大型商业集聚区的空白。项目强调休闲娱乐消费，涵盖购物、餐饮、零售、休闲等多功能于一体",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 1.5,
+    "open_date": "2018-11-02",
+    "operator": "新世界发展有限公司",
+    "brand": "",
+    "type": "美食型",
+    "floors": "L1-L3"
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "-",
+    "annual_daily_rank": "",
+    "jun_total": null,
+    "jun_total_rank": "",
+    "jun_daily_avg": null,
+    "jun_daily_unit": "",
+    "jun_daily_rank": "",
+    "weekday_avg": null,
+    "weekday_unit": "",
+    "weekday_rank": "",
+    "holiday_avg": null,
+    "holiday_unit": "",
+    "holiday_rank": ""
+  },
+  "population": {
+    "residential": {
+      "500m": 2.6,
+      "1_5km": 16.9,
+      "3km": 56.3
+    },
+    "office": {
+      "500m": 8100.0,
+      "1_5km": 5.4,
+      "3km": 23.2
+    },
+    "permanent": {
+      "500m": 2.3,
+      "1_5km": 15.2,
+      "3km": 52.6
+    }
+  },
+  "business": {
+    "competitors": null,
+    "food": 164.0,
+    "shopping": 128.0,
+    "leisure": 17.0,
+    "education": 10.0,
+    "hotel": 41.0,
+    "services": 88.0,
+    "fitness": 10.0,
+    "auto": 40.0,
+    "total_stores": 158.0,
+    "old_store_3yr_pct": 48.0
+  },
+  "nearby_poi": {
+    "business": 3.0,
+    "community": 194.0,
+    "office": 13.0,
+    "school": 13.0,
+    "hospital": 28.0,
+    "transport": 7.0,
+    "scenic": 61.0
+  },
+  "demographics": {
+    "male_pct": 49.4,
+    "female_pct": null,
+    "education": {
+      "小学": 10.2,
+      "初中": 19.1,
+      "高中": 11.7,
+      "大专": 9.2,
+      "本科": 45.6,
+      "硕士": 3.1,
+      "博士": 1.1
+    },
+    "has_children_pct": 58.1,
+    "no_children_pct": 41.9
+  },
+  "scraped_at": "2026-08-01T13:43:03.373Z",
+  "nearby_restaurants": [],
+  "nearby_malls": [],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 54.0,
+      "within_1yr_pct": 53.7,
+      "1_3yr_pct": 20.4,
+      "over_3yr_pct": 25.9
+    },
+    {
+      "type": "购物",
+      "count": 48.0,
+      "within_1yr_pct": 12.5,
+      "1_3yr_pct": 20.8,
+      "over_3yr_pct": 66.7
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 7.0,
+      "within_1yr_pct": 28.6,
+      "1_3yr_pct": 42.9,
+      "over_3yr_pct": 28.6
+    },
+    {
+      "type": "教育培训",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 9.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 11.1,
+      "over_3yr_pct": 55.6
+    },
+    {
+      "type": "生活服务",
+      "count": 18.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 11.1,
+      "over_3yr_pct": 38.9
+    },
+    {
+      "type": "运动健身",
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 19.0,
+      "within_1yr_pct": 5.3,
+      "1_3yr_pct": 15.8,
+      "over_3yr_pct": 78.9
+    }
+  ]
+}

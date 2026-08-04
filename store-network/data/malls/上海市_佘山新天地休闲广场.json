@@ -1,0 +1,219 @@
+{
+  "name": "佘山新天地休闲广场",
+  "city": "上海市",
+  "address": "上海市宝山区淞南镇海伦精致生活广场",
+  "lat": 31.337494,
+  "lng": 121.491122,
+  "overview": {
+    "score": 82.7,
+    "score_rank": "市内前30%",
+    "population_score": 89.9,
+    "area_score": 77.0,
+    "consumption_score": 72.5,
+    "industry_score": 82.7,
+    "annual_sales": "",
+    "annual_sales_unit": "",
+    "area_size_sqm": null,
+    "open_date": "",
+    "operator": "",
+    "brand": "",
+    "type": "",
+    "floors": ""
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "",
+    "annual_daily_rank": "",
+    "jun_total": null,
+    "jun_total_rank": "",
+    "jun_daily_avg": null,
+    "jun_daily_unit": "",
+    "jun_daily_rank": "",
+    "weekday_avg": null,
+    "weekday_unit": "",
+    "weekday_rank": "",
+    "holiday_avg": null,
+    "holiday_unit": "",
+    "holiday_rank": ""
+  },
+  "population": {
+    "residential": {
+      "500m": null,
+      "1_5km": null,
+      "3km": null
+    },
+    "office": {
+      "500m": null,
+      "1_5km": null,
+      "3km": null
+    },
+    "permanent": {
+      "500m": null,
+      "1_5km": null,
+      "3km": null
+    }
+  },
+  "business": {
+    "competitors": 3.0,
+    "food": 99.0,
+    "shopping": 101.0,
+    "leisure": 12.0,
+    "education": 22.0,
+    "hotel": 11.0,
+    "services": 77.0,
+    "fitness": 16.0,
+    "auto": 17.0,
+    "total_stores": 58.0,
+    "old_store_3yr_pct": 53.0
+  },
+  "nearby_poi": {
+    "business": 4.0,
+    "community": 208.0,
+    "office": 22.0,
+    "school": 27.0,
+    "hospital": 19.0,
+    "transport": 11.0,
+    "scenic": 76.0
+  },
+  "demographics": {
+    "male_pct": 48.0,
+    "female_pct": null,
+    "education": {
+      "小学": 8.9,
+      "初中": 17.2,
+      "高中": 11.0,
+      "大专": 7.6,
+      "本科": 48.0,
+      "硕士": 5.3,
+      "博士": 2.0
+    },
+    "has_children_pct": 60.1,
+    "no_children_pct": 39.9
+  },
+  "scraped_at": "2026-08-01T09:52:39.855Z",
+  "nearby_restaurants": [
+    {
+      "brand": "汪家大小姐(尚优里·乐坊生活广场店)",
+      "address": "淞南镇淞塘路111弄53号一层",
+      "distance": "405m"
+    },
+    {
+      "brand": "尊宝比萨(尚优里·乐坊生活广场店)",
+      "address": "尚优里·乐坊生活广场东南门西南80米",
+      "distance": "411m"
+    },
+    {
+      "brand": "霸碗盖码饭(上海尚优里乐坊店)",
+      "address": "淞南镇淞塘路111弄21号一层",
+      "distance": "421m"
+    },
+    {
+      "brand": "阿食云南生烫牛肉米线(淞南店)",
+      "address": "尚优里·乐坊生活广场东南门西南100米",
+      "distance": "421m"
+    },
+    {
+      "brand": "小寶煮局",
+      "address": "淞南镇淞塘路111弄5幢101室",
+      "distance": "426m"
+    },
+    {
+      "brand": "瑞幸咖啡(同济创园店)",
+      "address": "淞塘路同济创园(长江南路地铁站4号口步行210米)",
+      "distance": "435m"
+    },
+    {
+      "brand": "千里香馄饨王(淞塘路店)",
+      "address": "淞良路10号同济创园F1层",
+      "distance": "473m"
+    },
+    {
+      "brand": "恒瑞咖啡店",
+      "address": "逸仙路辅路与淞良路交叉口西140米",
+      "distance": "491m"
+    },
+    {
+      "brand": "大米先生(同济创园店)",
+      "address": "淞南镇长江南路99弄3号楼102室、3号楼108室",
+      "distance": "499m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海宝山尚优里乐坊",
+      "open_date": "2021-05-21",
+      "area": "3.1万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海同济创园",
+      "open_date": "2018-10-18",
+      "area": "-",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "和欣假日商业广场",
+      "open_date": "2017-12-23",
+      "area": "-",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海祥腾生活广场",
+      "open_date": "-",
+      "area": "2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 28.0,
+      "within_1yr_pct": 21.4,
+      "1_3yr_pct": 28.6,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "购物",
+      "count": 17.0,
+      "within_1yr_pct": 17.6,
+      "1_3yr_pct": 11.8,
+      "over_3yr_pct": 70.6
+    },
+    {
+      "type": "教育培训",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    },
+    {
+      "type": "生活服务",
+      "count": 8.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 25.0
+    },
+    {
+      "type": "运动健身",
+      "count": 3.0,
+      "within_1yr_pct": 66.7,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 33.3
+    }
+  ]
+}

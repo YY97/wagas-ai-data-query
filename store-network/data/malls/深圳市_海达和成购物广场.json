@@ -1,0 +1,154 @@
+{
+  "name": "海达和成购物广场",
+  "city": "深圳市",
+  "address": "广东省深圳市龙岗区五和大道118号(五和地铁站B口步行80米)",
+  "lat": 22.622128,
+  "lng": 114.061727,
+  "overview": {
+    "score": 87.5,
+    "score_rank": "市内前30%",
+    "population_score": 100.0,
+    "area_score": 86.9,
+    "consumption_score": 76.6,
+    "industry_score": 87.4,
+    "annual_sales": "深圳市海达和成购物广场位于深圳市龙岗区坂田街道五和大道与布龙路交汇处，项目与地铁环中线五和站B出口无缝接驳（双地铁口，规划中10号线汇集于此），项目负一楼设有通往市区、龙华等地的市政公交总站；周边常住人口达二十多万，白领、商务、家居人群聚集，具有庞大的消费潜力。海达商业广场所属世纪和成大厦由写字楼和住宅楼组成，该写字楼为坂田目前唯一的高档商务办公大厦，四至三十一层为写字楼，云集市社保局、金龙羽总部等机构；一至三楼近二万平方为本案项目，定位为小型城市综合体，规划一楼为品牌美食、高值百货，二楼整层为人人乐高端超市，三楼设有中影数码影院、游乐城、特色美食、美容健体；致力于打造为龙坂片区具代表性的商业旗舰。",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 2.0,
+    "open_date": "2016-04-25",
+    "operator": "",
+    "brand": "",
+    "type": "综合型",
+    "floors": "L1-L3"
+  },
+  "traffic": {
+    "annual_daily": 3178.0,
+    "annual_daily_unit": "人次",
+    "annual_daily_rank": "市内第275",
+    "jun_total": 16.2,
+    "jun_total_rank": "市内商场第260名",
+    "jun_daily_avg": 5383.0,
+    "jun_daily_unit": "人次",
+    "jun_daily_rank": "市内商场第260名",
+    "weekday_avg": 4995.0,
+    "weekday_unit": "人次",
+    "weekday_rank": "市内商场第257名",
+    "holiday_avg": 6449.0,
+    "holiday_unit": "人次",
+    "holiday_rank": "市内商场第256名"
+  },
+  "population": {
+    "residential": {
+      "500m": 7.2,
+      "1_5km": 40.8,
+      "3km": 119.8
+    },
+    "office": {
+      "500m": 2.0,
+      "1_5km": 16.9,
+      "3km": 63.6
+    },
+    "permanent": {
+      "500m": 5.8,
+      "1_5km": 33.4,
+      "3km": 97.6
+    }
+  },
+  "business": {
+    "competitors": 2.0,
+    "food": 521.0,
+    "shopping": 302.0,
+    "leisure": 41.0,
+    "education": 47.0,
+    "hotel": 143.0,
+    "services": 296.0,
+    "fitness": 25.0,
+    "auto": 23.0,
+    "total_stores": 112.0,
+    "old_store_3yr_pct": 46.0
+  },
+  "nearby_poi": {
+    "business": 12.0,
+    "community": 345.0,
+    "office": 127.0,
+    "school": 44.0,
+    "hospital": 121.0,
+    "transport": 12.0,
+    "scenic": 108.0
+  },
+  "demographics": {
+    "male_pct": 53.3,
+    "female_pct": null,
+    "education": {
+      "小学": 8.5,
+      "初中": 16.5,
+      "高中": 11.5,
+      "大专": 13.8,
+      "本科": 45.9,
+      "硕士": 3.3,
+      "博士": 0.5
+    },
+    "has_children_pct": 61.1,
+    "no_children_pct": 38.9
+  },
+  "scraped_at": "2026-08-02T06:26:50.329Z",
+  "nearby_restaurants": [],
+  "nearby_malls": [],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 30.0,
+      "within_1yr_pct": 26.7,
+      "1_3yr_pct": 36.7,
+      "over_3yr_pct": 36.7
+    },
+    {
+      "type": "购物",
+      "count": 20.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 55.0
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 5.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 40.0,
+      "over_3yr_pct": 40.0
+    },
+    {
+      "type": "教育培训",
+      "count": 9.0,
+      "within_1yr_pct": 22.2,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 44.4
+    },
+    {
+      "type": "酒店住宿",
+      "count": 12.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 16.7,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "生活服务",
+      "count": 28.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "运动健身",
+      "count": 4.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 75.0,
+      "over_3yr_pct": 25.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 4.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 75.0
+    }
+  ]
+}

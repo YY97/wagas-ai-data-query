@@ -1,0 +1,175 @@
+{
+  "name": "孙河易事达广场",
+  "city": "北京市",
+  "address": "北京市大兴区欣雅街15号院",
+  "lat": 39.784411,
+  "lng": 116.324433,
+  "overview": {
+    "score": 90.4,
+    "score_rank": "市内前30%",
+    "population_score": 69.1,
+    "area_score": 95.8,
+    "consumption_score": 67.9,
+    "industry_score": 90.5,
+    "annual_sales": "西红门新光界是位于大兴西红门商圈的城市绿洲商业空间，致力于打造时代地标。商场包含负一层到三层四个楼层，引入品牌70余个，一线品牌30多个，二线品牌40多个。除了引入山姆会员店，新光界也结合时下火热的夜经济，在商城二三两层之间的夹层设置了餐酒吧为主的区域，和三层的餐饮业态形成补充。购物中心是一个可感知，可阅读，可留下记忆的场所，贴近生活本源，保持自然、健康、精致的生活态度",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 5.5,
+    "open_date": "2022-12-24",
+    "operator": "北京宇邦控股有限公司",
+    "brand": "",
+    "type": "综合型",
+    "floors": "B1-L3"
+  },
+  "traffic": {
+    "annual_daily": 2.01,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第121",
+    "jun_total": 171.5,
+    "jun_total_rank": "市内商场第34名",
+    "jun_daily_avg": 5.7,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第34名",
+    "weekday_avg": 4.5,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第51名",
+    "holiday_avg": 9.0,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第22名"
+  },
+  "population": {
+    "residential": {
+      "500m": 5300.0,
+      "1_5km": 9.2,
+      "3km": 29.6
+    },
+    "office": {
+      "500m": 1.8,
+      "1_5km": 4.7,
+      "3km": 14.2
+    },
+    "permanent": {
+      "500m": 1.7,
+      "1_5km": 10.2,
+      "3km": 29.2
+    }
+  },
+  "business": {
+    "competitors": 5.0,
+    "food": 272.0,
+    "shopping": 318.0,
+    "leisure": 55.0,
+    "education": 31.0,
+    "hotel": 9.0,
+    "services": 238.0,
+    "fitness": 23.0,
+    "auto": 37.0,
+    "total_stores": 72.0,
+    "old_store_3yr_pct": 36.0
+  },
+  "nearby_poi": {
+    "business": 2.0,
+    "community": 147.0,
+    "office": 11.0,
+    "school": 11.0,
+    "hospital": 23.0,
+    "transport": 6.0,
+    "scenic": 48.0
+  },
+  "demographics": {
+    "male_pct": 47.9,
+    "female_pct": null,
+    "education": {
+      "小学": 10.0,
+      "初中": 16.8,
+      "高中": 11.0,
+      "大专": 8.1,
+      "本科": 47.8,
+      "硕士": 5.3,
+      "博士": 1.0
+    },
+    "has_children_pct": 61.4,
+    "no_children_pct": 38.6
+  },
+  "scraped_at": "2026-08-01T06:32:58.704Z",
+  "nearby_restaurants": [
+    {
+      "brand": "保定正宗手擀面",
+      "address": "花乡街道羊坊村891号东升集市东侧",
+      "distance": "497m"
+    },
+    {
+      "brand": "麦当劳甜品站(西红门2号店)",
+      "address": "欣宁街15号北京荟聚购物中心3F层",
+      "distance": "497m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "北京荟聚购物中心",
+      "open_date": "2014-12-19",
+      "area": "21万㎡",
+      "jun_daily_avg": "17万人次",
+      "weekday_avg": "13.9万人次",
+      "holiday_avg": "25.5万人次"
+    },
+    {
+      "name": "北京鸿坤广场购物中心",
+      "open_date": "2014-12-20",
+      "area": "14万㎡",
+      "jun_daily_avg": "2.3万人次",
+      "weekday_avg": "2.1万人次",
+      "holiday_avg": "2.8万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 25.0,
+      "within_1yr_pct": 12.0,
+      "1_3yr_pct": 48.0,
+      "over_3yr_pct": 40.0
+    },
+    {
+      "type": "购物",
+      "count": 20.0,
+      "within_1yr_pct": 30.0,
+      "1_3yr_pct": 35.0,
+      "over_3yr_pct": 35.0
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 4.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "教育培训",
+      "count": 4.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 75.0,
+      "over_3yr_pct": 25.0
+    },
+    {
+      "type": "生活服务",
+      "count": 15.0,
+      "within_1yr_pct": 13.3,
+      "1_3yr_pct": 60.0,
+      "over_3yr_pct": 26.7
+    },
+    {
+      "type": "运动健身",
+      "count": 3.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 66.7
+    },
+    {
+      "type": "车辆服务",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
+    }
+  ]
+}

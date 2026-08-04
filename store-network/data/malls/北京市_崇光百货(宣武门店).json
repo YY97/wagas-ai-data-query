@@ -1,0 +1,438 @@
+{
+  "name": "崇光百货(宣武门店)",
+  "city": "北京市",
+  "address": "北京市西城区宣武门外大街10庄",
+  "lat": 39.896026,
+  "lng": 116.375684,
+  "overview": {
+    "score": 91.2,
+    "score_rank": "市内前30%",
+    "population_score": 93.9,
+    "area_score": 81.6,
+    "consumption_score": 91.9,
+    "industry_score": 91.2,
+    "annual_sales": "北京庄胜SOGO崇光百货商场位于宣武门外大街庄胜广场内，是北京市单店面积最大的集购物、饮食、休闲于一体的百货商场。商场由北馆、中央和南馆三个各具特色的建筑物构成，总投资为5亿美元，分二期完成。",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 14.0,
+    "open_date": "2000-01-01",
+    "operator": "Sogo株式会社",
+    "brand": "北京庄胜崇光房地产开发有限公司",
+    "type": "美食型",
+    "floors": "B1-L6"
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "-",
+    "annual_daily_rank": "",
+    "jun_total": 52.6,
+    "jun_total_rank": "市内商场第179名",
+    "jun_daily_avg": 1.8,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第179名",
+    "weekday_avg": 1.8,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第166名",
+    "holiday_avg": 1.7,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第202名"
+  },
+  "population": {
+    "residential": {
+      "500m": 2.7,
+      "1_5km": 19.9,
+      "3km": 67.6
+    },
+    "office": {
+      "500m": 2.6,
+      "1_5km": 17.1,
+      "3km": 63.1
+    },
+    "permanent": {
+      "500m": 3.0,
+      "1_5km": 21.2,
+      "3km": 75.5
+    }
+  },
+  "business": {
+    "competitors": 5.0,
+    "food": 147.0,
+    "shopping": 108.0,
+    "leisure": 7.0,
+    "education": 72.0,
+    "hotel": 10.0,
+    "services": 133.0,
+    "fitness": 21.0,
+    "auto": 10.0,
+    "total_stores": 168.0,
+    "old_store_3yr_pct": 44.0
+  },
+  "nearby_poi": {
+    "business": 4.0,
+    "community": 410.0,
+    "office": 54.0,
+    "school": 68.0,
+    "hospital": 112.0,
+    "transport": 7.0,
+    "scenic": 721.0
+  },
+  "demographics": {
+    "male_pct": 50.0,
+    "female_pct": null,
+    "education": {
+      "小学": 10.1,
+      "初中": 16.6,
+      "高中": 10.9,
+      "大专": 6.0,
+      "本科": 46.4,
+      "硕士": 7.8,
+      "博士": 2.2
+    },
+    "has_children_pct": 58.4,
+    "no_children_pct": 41.6
+  },
+  "scraped_at": "2026-07-31T19:14:54.062Z",
+  "nearby_restaurants": [
+    {
+      "brand": "安瑞井ORIGIN(广胜广场店)",
+      "address": "宣武门外大街8号庄胜广场一层",
+      "distance": "11m"
+    },
+    {
+      "brand": "樱花亭",
+      "address": "宣武门外大街8号庄胜崇光百货宣武门店F6层",
+      "distance": "23m"
+    },
+    {
+      "brand": "吉野家(宣武门外大街)",
+      "address": "宣武门外大街8号楼-1层-101-B1B02",
+      "distance": "28m"
+    },
+    {
+      "brand": "鲜潭蒸汽石锅鱼(庄胜城1期店)",
+      "address": "宣武门外大街8号庄胜城1期F3层",
+      "distance": "31m"
+    },
+    {
+      "brand": "北喜日料海鲜自助(宣武门崇光百货店)",
+      "address": "椿树街道宣武门外大街8号楼庄胜崇光百货新馆5层",
+      "distance": "35m"
+    },
+    {
+      "brand": "杰克沃夫",
+      "address": "庄胜崇光百货(宣武门店)(宣武门地铁站G东南口步行270米)",
+      "distance": "36m"
+    },
+    {
+      "brand": "瑞幸咖啡(庄胜广场中央写字楼店)",
+      "address": "宣武门外大街6号庄胜广场中央办公楼北翼底商",
+      "distance": "39m"
+    },
+    {
+      "brand": "一品滇云南菜",
+      "address": "宣武门外大街 8 号庄胜百货南馆四层(3A)",
+      "distance": "41m"
+    },
+    {
+      "brand": "阿上阿上麻辣香锅&麻辣烫(宣武门崇光百货店)",
+      "address": "宣武门外大街8号庄胜崇光百货宣武门店B1层",
+      "distance": "41m"
+    },
+    {
+      "brand": "潇湘和苑(庄胜城1期店)",
+      "address": "宣武门外大街12号崇光百货南馆4层",
+      "distance": "42m"
+    },
+    {
+      "brand": "安瑞井ORIGIN(广胜广场店)",
+      "address": "宣武门外大街8号庄胜广场一层",
+      "distance": "11m"
+    },
+    {
+      "brand": "樱花亭",
+      "address": "宣武门外大街8号庄胜崇光百货宣武门店F6层",
+      "distance": "23m"
+    },
+    {
+      "brand": "吉野家(宣武门外大街)",
+      "address": "宣武门外大街8号楼-1层-101-B1B02",
+      "distance": "28m"
+    },
+    {
+      "brand": "鲜潭蒸汽石锅鱼(庄胜城1期店)",
+      "address": "宣武门外大街8号庄胜城1期F3层",
+      "distance": "31m"
+    },
+    {
+      "brand": "北喜日料海鲜自助(宣武门崇光百货店)",
+      "address": "椿树街道宣武门外大街8号楼庄胜崇光百货新馆5层",
+      "distance": "35m"
+    },
+    {
+      "brand": "杰克沃夫",
+      "address": "庄胜崇光百货(宣武门店)(宣武门地铁站G东南口步行270米)",
+      "distance": "36m"
+    },
+    {
+      "brand": "瑞幸咖啡(庄胜广场中央写字楼店)",
+      "address": "宣武门外大街6号庄胜广场中央办公楼北翼底商",
+      "distance": "39m"
+    },
+    {
+      "brand": "一品滇云南菜",
+      "address": "宣武门外大街 8 号庄胜百货南馆四层(3A)",
+      "distance": "41m"
+    },
+    {
+      "brand": "阿上阿上麻辣香锅&麻辣烫(宣武门崇光百货店)",
+      "address": "宣武门外大街8号庄胜崇光百货宣武门店B1层",
+      "distance": "41m"
+    },
+    {
+      "brand": "潇湘和苑(庄胜城1期店)",
+      "address": "宣武门外大街12号崇光百货南馆4层",
+      "distance": "42m"
+    },
+    {
+      "brand": "安瑞井ORIGIN(广胜广场店)",
+      "address": "宣武门外大街8号庄胜广场一层",
+      "distance": "11m"
+    },
+    {
+      "brand": "樱花亭",
+      "address": "宣武门外大街8号庄胜崇光百货宣武门店F6层",
+      "distance": "23m"
+    },
+    {
+      "brand": "吉野家(宣武门外大街)",
+      "address": "宣武门外大街8号楼-1层-101-B1B02",
+      "distance": "28m"
+    },
+    {
+      "brand": "鲜潭蒸汽石锅鱼(庄胜城1期店)",
+      "address": "宣武门外大街8号庄胜城1期F3层",
+      "distance": "31m"
+    },
+    {
+      "brand": "北喜日料海鲜自助(宣武门崇光百货店)",
+      "address": "椿树街道宣武门外大街8号楼庄胜崇光百货新馆5层",
+      "distance": "35m"
+    },
+    {
+      "brand": "杰克沃夫",
+      "address": "庄胜崇光百货(宣武门店)(宣武门地铁站G东南口步行270米)",
+      "distance": "36m"
+    },
+    {
+      "brand": "瑞幸咖啡(庄胜广场中央写字楼店)",
+      "address": "宣武门外大街6号庄胜广场中央办公楼北翼底商",
+      "distance": "39m"
+    },
+    {
+      "brand": "一品滇云南菜",
+      "address": "宣武门外大街 8 号庄胜百货南馆四层(3A)",
+      "distance": "41m"
+    },
+    {
+      "brand": "阿上阿上麻辣香锅&麻辣烫(宣武门崇光百货店)",
+      "address": "宣武门外大街8号庄胜崇光百货宣武门店B1层",
+      "distance": "41m"
+    },
+    {
+      "brand": "潇湘和苑(庄胜城1期店)",
+      "address": "宣武门外大街12号崇光百货南馆4层",
+      "distance": "42m"
+    },
+    {
+      "brand": "安瑞井ORIGIN(广胜广场店)",
+      "address": "宣武门外大街8号庄胜广场一层",
+      "distance": "11m"
+    },
+    {
+      "brand": "樱花亭",
+      "address": "宣武门外大街8号庄胜崇光百货宣武门店F6层",
+      "distance": "23m"
+    },
+    {
+      "brand": "吉野家(宣武门外大街)",
+      "address": "宣武门外大街8号楼-1层-101-B1B02",
+      "distance": "28m"
+    },
+    {
+      "brand": "鲜潭蒸汽石锅鱼(庄胜城1期店)",
+      "address": "宣武门外大街8号庄胜城1期F3层",
+      "distance": "31m"
+    },
+    {
+      "brand": "北喜日料海鲜自助(宣武门崇光百货店)",
+      "address": "椿树街道宣武门外大街8号楼庄胜崇光百货新馆5层",
+      "distance": "35m"
+    },
+    {
+      "brand": "杰克沃夫",
+      "address": "庄胜崇光百货(宣武门店)(宣武门地铁站G东南口步行270米)",
+      "distance": "36m"
+    },
+    {
+      "brand": "瑞幸咖啡(庄胜广场中央写字楼店)",
+      "address": "宣武门外大街6号庄胜广场中央办公楼北翼底商",
+      "distance": "39m"
+    },
+    {
+      "brand": "一品滇云南菜",
+      "address": "宣武门外大街 8 号庄胜百货南馆四层(3A)",
+      "distance": "41m"
+    },
+    {
+      "brand": "阿上阿上麻辣香锅&麻辣烫(宣武门崇光百货店)",
+      "address": "宣武门外大街8号庄胜崇光百货宣武门店B1层",
+      "distance": "41m"
+    },
+    {
+      "brand": "潇湘和苑(庄胜城1期店)",
+      "address": "宣武门外大街12号崇光百货南馆4层",
+      "distance": "42m"
+    },
+    {
+      "brand": "安瑞井ORIGIN(广胜广场店)",
+      "address": "宣武门外大街8号庄胜广场一层",
+      "distance": "11m"
+    },
+    {
+      "brand": "樱花亭",
+      "address": "宣武门外大街8号庄胜崇光百货宣武门店F6层",
+      "distance": "23m"
+    },
+    {
+      "brand": "吉野家(宣武门外大街)",
+      "address": "宣武门外大街8号楼-1层-101-B1B02",
+      "distance": "28m"
+    },
+    {
+      "brand": "鲜潭蒸汽石锅鱼(庄胜城1期店)",
+      "address": "宣武门外大街8号庄胜城1期F3层",
+      "distance": "31m"
+    },
+    {
+      "brand": "北喜日料海鲜自助(宣武门崇光百货店)",
+      "address": "椿树街道宣武门外大街8号楼庄胜崇光百货新馆5层",
+      "distance": "35m"
+    },
+    {
+      "brand": "杰克沃夫",
+      "address": "庄胜崇光百货(宣武门店)(宣武门地铁站G东南口步行270米)",
+      "distance": "36m"
+    },
+    {
+      "brand": "瑞幸咖啡(庄胜广场中央写字楼店)",
+      "address": "宣武门外大街6号庄胜广场中央办公楼北翼底商",
+      "distance": "39m"
+    },
+    {
+      "brand": "一品滇云南菜",
+      "address": "宣武门外大街 8 号庄胜百货南馆四层(3A)",
+      "distance": "41m"
+    },
+    {
+      "brand": "阿上阿上麻辣香锅&麻辣烫(宣武门崇光百货店)",
+      "address": "宣武门外大街8号庄胜崇光百货宣武门店B1层",
+      "distance": "41m"
+    },
+    {
+      "brand": "潇湘和苑(庄胜城1期店)",
+      "address": "宣武门外大街12号崇光百货南馆4层",
+      "distance": "42m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "北京中海大吉巷",
+      "open_date": "2025-05-25",
+      "area": "8万㎡",
+      "jun_daily_avg": "4.9万人次",
+      "weekday_avg": "4.5万人次",
+      "holiday_avg": "5.9万人次"
+    },
+    {
+      "name": "北京西单更新场",
+      "open_date": "2021-04-27",
+      "area": "1.1万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "北京汉光百货",
+      "open_date": "1999-01-01",
+      "area": "4万㎡",
+      "jun_daily_avg": "4.8万人次",
+      "weekday_avg": "4.2万人次",
+      "holiday_avg": "6.3万人次"
+    },
+    {
+      "name": "北京君太百货",
+      "open_date": "2003-12-01",
+      "area": "6.3万㎡",
+      "jun_daily_avg": "4.9万人次",
+      "weekday_avg": "4.4万人次",
+      "holiday_avg": "6.2万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 50.0,
+      "within_1yr_pct": 16.0,
+      "1_3yr_pct": 32.0,
+      "over_3yr_pct": 52.0
+    },
+    {
+      "type": "购物",
+      "count": 30.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 30.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 4.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 75.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "教育培训",
+      "count": 29.0,
+      "within_1yr_pct": 34.5,
+      "1_3yr_pct": 34.5,
+      "over_3yr_pct": 31.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    },
+    {
+      "type": "生活服务",
+      "count": 40.0,
+      "within_1yr_pct": 42.5,
+      "1_3yr_pct": 22.5,
+      "over_3yr_pct": 35.0
+    },
+    {
+      "type": "运动健身",
+      "count": 10.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 20.0,
+      "over_3yr_pct": 60.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 3.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 66.7
+    }
+  ]
+}

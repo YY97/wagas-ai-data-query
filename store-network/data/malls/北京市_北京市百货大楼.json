@@ -1,0 +1,472 @@
+{
+  "name": "北京市百货大楼",
+  "city": "北京市",
+  "address": "北京市东城区王府井西街28号",
+  "lat": 39.912275,
+  "lng": 116.409577,
+  "overview": {
+    "score": 94.2,
+    "score_rank": "市内前30%",
+    "population_score": 83.3,
+    "area_score": 100.0,
+    "consumption_score": 91.5,
+    "industry_score": 94.2,
+    "annual_sales": "3",
+    "annual_sales_unit": "亿元",
+    "area_size_sqm": 1.8,
+    "open_date": "1955-09-01",
+    "operator": "王府井集团股份有限公司",
+    "brand": "王府井",
+    "type": "购物型",
+    "floors": "B3-L9"
+  },
+  "traffic": {
+    "annual_daily": 4.18,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第32",
+    "jun_total": 131.7,
+    "jun_total_rank": "市内商场第68名",
+    "jun_daily_avg": 4.4,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第68名",
+    "weekday_avg": 3.9,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第71名",
+    "holiday_avg": 5.7,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第57名"
+  },
+  "population": {
+    "residential": {
+      "500m": 1.6,
+      "1_5km": 10.9,
+      "3km": 56.4
+    },
+    "office": {
+      "500m": 3.3,
+      "1_5km": 17.4,
+      "3km": 60.4
+    },
+    "permanent": {
+      "500m": 3.2,
+      "1_5km": 16.3,
+      "3km": 69.0
+    }
+  },
+  "business": {
+    "competitors": 13.0,
+    "food": 574.0,
+    "shopping": 848.0,
+    "leisure": 57.0,
+    "education": 14.0,
+    "hotel": 66.0,
+    "services": 270.0,
+    "fitness": 9.0,
+    "auto": 16.0,
+    "total_stores": 329.0,
+    "old_store_3yr_pct": 53.0
+  },
+  "nearby_poi": {
+    "business": 11.0,
+    "community": 296.0,
+    "office": 70.0,
+    "school": 40.0,
+    "hospital": 115.0,
+    "transport": 11.0,
+    "scenic": 1104.0
+  },
+  "demographics": {
+    "male_pct": 47.0,
+    "female_pct": null,
+    "education": {
+      "小学": 10.4,
+      "初中": 17.8,
+      "高中": 11.5,
+      "大专": 6.7,
+      "本科": 45.7,
+      "硕士": 6.3,
+      "博士": 1.6
+    },
+    "has_children_pct": 58.5,
+    "no_children_pct": 41.5
+  },
+  "scraped_at": "2026-07-31T18:45:56.167Z",
+  "nearby_restaurants": [
+    {
+      "brand": "兴蓉记(北京市百货大楼店)",
+      "address": "王府井百货大楼7楼(金鱼胡同地铁站C西南口步行300米)",
+      "distance": "1m"
+    },
+    {
+      "brand": "拾光纪(北京市百货大楼店)",
+      "address": "王府井大街253号北京市百货大楼",
+      "distance": "1m"
+    },
+    {
+      "brand": "阿香米线(北京王府井百货餐厅)",
+      "address": "王府井大街253号王府井百货7楼",
+      "distance": "12m"
+    },
+    {
+      "brand": "义利(北京市百货大楼店)",
+      "address": "王府井大街253号北京市百货大楼B1层",
+      "distance": "13m"
+    },
+    {
+      "brand": "满小西·馍现烤·面劲道(北京市百货大楼店)(暂停营业)",
+      "address": "东华门街道王府井大街253号百货大楼七层739号",
+      "distance": "17m"
+    },
+    {
+      "brand": "哈根达斯(北京哈姆雷斯店)",
+      "address": "王府井大街255号北京市百货大楼北馆1F层",
+      "distance": "17m"
+    },
+    {
+      "brand": "聚宝源(王府井·故宫店)",
+      "address": "王府井大街253号百货大楼6层608",
+      "distance": "22m"
+    },
+    {
+      "brand": "狠牛·先生绅士馆(王府井店)",
+      "address": "王府井大街253号北京市百货大楼4F层",
+      "distance": "22m"
+    },
+    {
+      "brand": "东北大馅饺子刀削面(王府井店)",
+      "address": "王府井大街253号北京市百货大楼",
+      "distance": "22m"
+    },
+    {
+      "brand": "小谷姐姐麻辣拌·麻辣烫(菜厂胡同王府井大厦店)",
+      "address": "王府井大街253号王府井大厦菜厂胡同 F7层",
+      "distance": "23m"
+    },
+    {
+      "brand": "兴蓉记(北京市百货大楼店)",
+      "address": "王府井百货大楼7楼(金鱼胡同地铁站C西南口步行300米)",
+      "distance": "1m"
+    },
+    {
+      "brand": "拾光纪(北京市百货大楼店)",
+      "address": "王府井大街253号北京市百货大楼",
+      "distance": "1m"
+    },
+    {
+      "brand": "阿香米线(北京王府井百货餐厅)",
+      "address": "王府井大街253号王府井百货7楼",
+      "distance": "12m"
+    },
+    {
+      "brand": "义利(北京市百货大楼店)",
+      "address": "王府井大街253号北京市百货大楼B1层",
+      "distance": "13m"
+    },
+    {
+      "brand": "满小西·馍现烤·面劲道(北京市百货大楼店)(暂停营业)",
+      "address": "东华门街道王府井大街253号百货大楼七层739号",
+      "distance": "17m"
+    },
+    {
+      "brand": "哈根达斯(北京哈姆雷斯店)",
+      "address": "王府井大街255号北京市百货大楼北馆1F层",
+      "distance": "17m"
+    },
+    {
+      "brand": "聚宝源(王府井·故宫店)",
+      "address": "王府井大街253号百货大楼6层608",
+      "distance": "22m"
+    },
+    {
+      "brand": "狠牛·先生绅士馆(王府井店)",
+      "address": "王府井大街253号北京市百货大楼4F层",
+      "distance": "22m"
+    },
+    {
+      "brand": "东北大馅饺子刀削面(王府井店)",
+      "address": "王府井大街253号北京市百货大楼",
+      "distance": "22m"
+    },
+    {
+      "brand": "小谷姐姐麻辣拌·麻辣烫(菜厂胡同王府井大厦店)",
+      "address": "王府井大街253号王府井大厦菜厂胡同 F7层",
+      "distance": "23m"
+    },
+    {
+      "brand": "兴蓉记(北京市百货大楼店)",
+      "address": "王府井百货大楼7楼(金鱼胡同地铁站C西南口步行300米)",
+      "distance": "1m"
+    },
+    {
+      "brand": "拾光纪(北京市百货大楼店)",
+      "address": "王府井大街253号北京市百货大楼",
+      "distance": "1m"
+    },
+    {
+      "brand": "阿香米线(北京王府井百货餐厅)",
+      "address": "王府井大街253号王府井百货7楼",
+      "distance": "12m"
+    },
+    {
+      "brand": "义利(北京市百货大楼店)",
+      "address": "王府井大街253号北京市百货大楼B1层",
+      "distance": "13m"
+    },
+    {
+      "brand": "满小西·馍现烤·面劲道(北京市百货大楼店)(暂停营业)",
+      "address": "东华门街道王府井大街253号百货大楼七层739号",
+      "distance": "17m"
+    },
+    {
+      "brand": "哈根达斯(北京哈姆雷斯店)",
+      "address": "王府井大街255号北京市百货大楼北馆1F层",
+      "distance": "17m"
+    },
+    {
+      "brand": "聚宝源(王府井·故宫店)",
+      "address": "王府井大街253号百货大楼6层608",
+      "distance": "22m"
+    },
+    {
+      "brand": "狠牛·先生绅士馆(王府井店)",
+      "address": "王府井大街253号北京市百货大楼4F层",
+      "distance": "22m"
+    },
+    {
+      "brand": "东北大馅饺子刀削面(王府井店)",
+      "address": "王府井大街253号北京市百货大楼",
+      "distance": "22m"
+    },
+    {
+      "brand": "小谷姐姐麻辣拌·麻辣烫(菜厂胡同王府井大厦店)",
+      "address": "王府井大街253号王府井大厦菜厂胡同 F7层",
+      "distance": "23m"
+    },
+    {
+      "brand": "兴蓉记(北京市百货大楼店)",
+      "address": "王府井百货大楼7楼(金鱼胡同地铁站C西南口步行300米)",
+      "distance": "1m"
+    },
+    {
+      "brand": "拾光纪(北京市百货大楼店)",
+      "address": "王府井大街253号北京市百货大楼",
+      "distance": "1m"
+    },
+    {
+      "brand": "阿香米线(北京王府井百货餐厅)",
+      "address": "王府井大街253号王府井百货7楼",
+      "distance": "12m"
+    },
+    {
+      "brand": "义利(北京市百货大楼店)",
+      "address": "王府井大街253号北京市百货大楼B1层",
+      "distance": "13m"
+    },
+    {
+      "brand": "满小西·馍现烤·面劲道(北京市百货大楼店)(暂停营业)",
+      "address": "东华门街道王府井大街253号百货大楼七层739号",
+      "distance": "17m"
+    },
+    {
+      "brand": "哈根达斯(北京哈姆雷斯店)",
+      "address": "王府井大街255号北京市百货大楼北馆1F层",
+      "distance": "17m"
+    },
+    {
+      "brand": "聚宝源(王府井·故宫店)",
+      "address": "王府井大街253号百货大楼6层608",
+      "distance": "22m"
+    },
+    {
+      "brand": "狠牛·先生绅士馆(王府井店)",
+      "address": "王府井大街253号北京市百货大楼4F层",
+      "distance": "22m"
+    },
+    {
+      "brand": "东北大馅饺子刀削面(王府井店)",
+      "address": "王府井大街253号北京市百货大楼",
+      "distance": "22m"
+    },
+    {
+      "brand": "小谷姐姐麻辣拌·麻辣烫(菜厂胡同王府井大厦店)",
+      "address": "王府井大街253号王府井大厦菜厂胡同 F7层",
+      "distance": "23m"
+    },
+    {
+      "brand": "兴蓉记(北京市百货大楼店)",
+      "address": "王府井百货大楼7楼(金鱼胡同地铁站C西南口步行300米)",
+      "distance": "1m"
+    },
+    {
+      "brand": "拾光纪(北京市百货大楼店)",
+      "address": "王府井大街253号北京市百货大楼",
+      "distance": "1m"
+    },
+    {
+      "brand": "阿香米线(北京王府井百货餐厅)",
+      "address": "王府井大街253号王府井百货7楼",
+      "distance": "12m"
+    },
+    {
+      "brand": "义利(北京市百货大楼店)",
+      "address": "王府井大街253号北京市百货大楼B1层",
+      "distance": "13m"
+    },
+    {
+      "brand": "满小西·馍现烤·面劲道(北京市百货大楼店)(暂停营业)",
+      "address": "东华门街道王府井大街253号百货大楼七层739号",
+      "distance": "17m"
+    },
+    {
+      "brand": "哈根达斯(北京哈姆雷斯店)",
+      "address": "王府井大街255号北京市百货大楼北馆1F层",
+      "distance": "17m"
+    },
+    {
+      "brand": "聚宝源(王府井·故宫店)",
+      "address": "王府井大街253号百货大楼6层608",
+      "distance": "22m"
+    },
+    {
+      "brand": "狠牛·先生绅士馆(王府井店)",
+      "address": "王府井大街253号北京市百货大楼4F层",
+      "distance": "22m"
+    },
+    {
+      "brand": "东北大馅饺子刀削面(王府井店)",
+      "address": "王府井大街253号北京市百货大楼",
+      "distance": "22m"
+    },
+    {
+      "brand": "小谷姐姐麻辣拌·麻辣烫(菜厂胡同王府井大厦店)",
+      "address": "王府井大街253号王府井大厦菜厂胡同 F7层",
+      "distance": "23m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "北京王府中环",
+      "open_date": "2018-05-29",
+      "area": "4.3万㎡",
+      "jun_daily_avg": "3.7万人次",
+      "weekday_avg": "3.2万人次",
+      "holiday_avg": "5万人次"
+    },
+    {
+      "name": "北京APM",
+      "open_date": "2008-01-01",
+      "area": "9万㎡",
+      "jun_daily_avg": "8.5万人次",
+      "weekday_avg": "7.5万人次",
+      "holiday_avg": "11.1万人次"
+    },
+    {
+      "name": "北京淘汇新天购物中心",
+      "open_date": "2014-02-16",
+      "area": "3.8万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "北京澳门中心",
+      "open_date": "2008-01-01",
+      "area": "8.8万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "北京利生体育商厦",
+      "open_date": "1996-11-25",
+      "area": "1.2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "北京银泰in88",
+      "open_date": "2018-01-01",
+      "area": "3万㎡",
+      "jun_daily_avg": "1.4万人次",
+      "weekday_avg": "1.2万人次",
+      "holiday_avg": "1.9万人次"
+    },
+    {
+      "name": "北京王府井工美大厦",
+      "open_date": "1996-07-01",
+      "area": "2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "王府井喜悦购物中心",
+      "open_date": "2023-12-30",
+      "area": "7万㎡",
+      "jun_daily_avg": "6.1万人次",
+      "weekday_avg": "5.2万人次",
+      "holiday_avg": "8.5万人次"
+    },
+    {
+      "name": "北京东方新天地",
+      "open_date": "2000-09-01",
+      "area": "12万㎡",
+      "jun_daily_avg": "5.4万人次",
+      "weekday_avg": "5.4万人次",
+      "holiday_avg": "5.2万人次"
+    },
+    {
+      "name": "北京金宝汇购物中心",
+      "open_date": "2009-05-01",
+      "area": "4万㎡",
+      "jun_daily_avg": "1.3万人次",
+      "weekday_avg": "1.3万人次",
+      "holiday_avg": "1.4万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 49.0,
+      "within_1yr_pct": 26.5,
+      "1_3yr_pct": 22.4,
+      "over_3yr_pct": 51.0
+    },
+    {
+      "type": "购物",
+      "count": 244.0,
+      "within_1yr_pct": 23.0,
+      "1_3yr_pct": 20.1,
+      "over_3yr_pct": 57.0
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 11.0,
+      "within_1yr_pct": 54.5,
+      "1_3yr_pct": 27.3,
+      "over_3yr_pct": 18.2
+    },
+    {
+      "type": "教育培训",
+      "count": 7.0,
+      "within_1yr_pct": 85.7,
+      "1_3yr_pct": 14.3,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "生活服务",
+      "count": 16.0,
+      "within_1yr_pct": 37.5,
+      "1_3yr_pct": 31.3,
+      "over_3yr_pct": 31.3
+    },
+    {
+      "type": "车辆服务",
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    }
+  ]
+}

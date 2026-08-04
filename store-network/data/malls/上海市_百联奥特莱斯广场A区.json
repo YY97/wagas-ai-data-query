@@ -1,0 +1,416 @@
+{
+  "name": "百联奥特莱斯广场A区",
+  "city": "上海市",
+  "address": "上海市青浦区沪青平公路2888号",
+  "lat": 31.156794,
+  "lng": 121.228247,
+  "overview": {
+    "score": 94.3,
+    "score_rank": "市内前30%",
+    "population_score": 61.8,
+    "area_score": 73.2,
+    "consumption_score": 60.0,
+    "industry_score": 94.6,
+    "annual_sales": "61.7",
+    "annual_sales_unit": "亿元",
+    "area_size_sqm": 3.0,
+    "open_date": "2005-01-01",
+    "operator": "上海百联集团股份有限公司",
+    "brand": "百联",
+    "type": "购物型",
+    "floors": "B1-L4"
+  },
+  "traffic": {
+    "annual_daily": 3.92,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第52",
+    "jun_total": 201.7,
+    "jun_total_rank": "市内商场第32名",
+    "jun_daily_avg": 6.7,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第32名",
+    "weekday_avg": 5.3,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第50名",
+    "holiday_avg": 10.6,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第9名"
+  },
+  "population": {
+    "residential": {
+      "500m": 1200.0,
+      "1_5km": 2.9,
+      "3km": 15.2
+    },
+    "office": {
+      "500m": 5500.0,
+      "1_5km": 2.6,
+      "3km": 6.4
+    },
+    "permanent": {
+      "500m": 5300.0,
+      "1_5km": 3.3,
+      "3km": 13.7
+    }
+  },
+  "business": {
+    "competitors": 3.0,
+    "food": 47.0,
+    "shopping": 306.0,
+    "leisure": 3.0,
+    "education": 2.0,
+    "hotel": null,
+    "services": 12.0,
+    "fitness": 3.0,
+    "auto": 19.0,
+    "total_stores": 351.0,
+    "old_store_3yr_pct": 57.0
+  },
+  "nearby_poi": {
+    "business": 3.0,
+    "community": 96.0,
+    "office": 6.0,
+    "school": 1.0,
+    "hospital": 10.0,
+    "transport": 7.0,
+    "scenic": 20.0
+  },
+  "demographics": {
+    "male_pct": 45.5,
+    "female_pct": null,
+    "education": {
+      "小学": 10.3,
+      "初中": 19.0,
+      "高中": 12.0,
+      "大专": 9.3,
+      "本科": 45.4,
+      "硕士": 3.1,
+      "博士": 0.9
+    },
+    "has_children_pct": 63.8,
+    "no_children_pct": 36.2
+  },
+  "scraped_at": "2026-07-31T11:29:25.193Z",
+  "nearby_restaurants": [
+    {
+      "brand": "柠檬向右",
+      "address": "沪青平公路2888号百联奥特莱斯广场B区",
+      "distance": "27m"
+    },
+    {
+      "brand": "池奈日式咖喱蛋包饭(百联奥特莱斯广场B区店)",
+      "address": "沪青平公路2888号百联奥特莱斯广场B区1F层B112甲",
+      "distance": "41m"
+    },
+    {
+      "brand": "夸父炸串(百联奥特莱斯广场店)",
+      "address": "嘉松中路5555号百联奥特莱斯广场1F层",
+      "distance": "43m"
+    },
+    {
+      "brand": "桂桂茶(青浦奥特莱斯店)",
+      "address": "赵巷镇沪青平公路2888号B区B110-17号(中庭小餐车)",
+      "distance": "56m"
+    },
+    {
+      "brand": "喜多藏·精致便当(青浦奥特莱斯店)",
+      "address": "赵巷镇沪青平公路2888号第四层z07-c4-009室",
+      "distance": "65m"
+    },
+    {
+      "brand": "1973继光香香鸡(青浦奥莱店)",
+      "address": "沪青平公路2888号百联奥特莱斯广场B区1F层",
+      "distance": "66m"
+    },
+    {
+      "brand": "Arabica阿拉比卡咖啡(青浦奥莱店)",
+      "address": "赵巷镇沪青平公路2888号B区BI10-11号",
+      "distance": "72m"
+    },
+    {
+      "brand": "7分甜(百联奥特莱斯广场B区店)",
+      "address": "赵巷镇沪青平公路2888号百联奥特莱斯广场B区113号商铺",
+      "distance": "79m"
+    },
+    {
+      "brand": "DQ·蛋糕·冰淇淋(青浦百联奥特莱斯)",
+      "address": "赵巷镇嘉松中路5555号17幢1层C2-1-03室",
+      "distance": "85m"
+    },
+    {
+      "brand": "Peet's皮爷咖啡(青浦奥莱店)",
+      "address": "嘉松中路5555号C101-1室",
+      "distance": "85m"
+    },
+    {
+      "brand": "柠檬向右",
+      "address": "沪青平公路2888号百联奥特莱斯广场B区",
+      "distance": "27m"
+    },
+    {
+      "brand": "池奈日式咖喱蛋包饭(百联奥特莱斯广场B区店)",
+      "address": "沪青平公路2888号百联奥特莱斯广场B区1F层B112甲",
+      "distance": "41m"
+    },
+    {
+      "brand": "夸父炸串(百联奥特莱斯广场店)",
+      "address": "嘉松中路5555号百联奥特莱斯广场1F层",
+      "distance": "43m"
+    },
+    {
+      "brand": "桂桂茶(青浦奥特莱斯店)",
+      "address": "赵巷镇沪青平公路2888号B区B110-17号(中庭小餐车)",
+      "distance": "56m"
+    },
+    {
+      "brand": "喜多藏·精致便当(青浦奥特莱斯店)",
+      "address": "赵巷镇沪青平公路2888号第四层z07-c4-009室",
+      "distance": "65m"
+    },
+    {
+      "brand": "1973继光香香鸡(青浦奥莱店)",
+      "address": "沪青平公路2888号百联奥特莱斯广场B区1F层",
+      "distance": "66m"
+    },
+    {
+      "brand": "Arabica阿拉比卡咖啡(青浦奥莱店)",
+      "address": "赵巷镇沪青平公路2888号B区BI10-11号",
+      "distance": "72m"
+    },
+    {
+      "brand": "7分甜(百联奥特莱斯广场B区店)",
+      "address": "赵巷镇沪青平公路2888号百联奥特莱斯广场B区113号商铺",
+      "distance": "79m"
+    },
+    {
+      "brand": "DQ·蛋糕·冰淇淋(青浦百联奥特莱斯)",
+      "address": "赵巷镇嘉松中路5555号17幢1层C2-1-03室",
+      "distance": "85m"
+    },
+    {
+      "brand": "Peet's皮爷咖啡(青浦奥莱店)",
+      "address": "嘉松中路5555号C101-1室",
+      "distance": "85m"
+    },
+    {
+      "brand": "柠檬向右",
+      "address": "沪青平公路2888号百联奥特莱斯广场B区",
+      "distance": "27m"
+    },
+    {
+      "brand": "池奈日式咖喱蛋包饭(百联奥特莱斯广场B区店)",
+      "address": "沪青平公路2888号百联奥特莱斯广场B区1F层B112甲",
+      "distance": "41m"
+    },
+    {
+      "brand": "夸父炸串(百联奥特莱斯广场店)",
+      "address": "嘉松中路5555号百联奥特莱斯广场1F层",
+      "distance": "43m"
+    },
+    {
+      "brand": "桂桂茶(青浦奥特莱斯店)",
+      "address": "赵巷镇沪青平公路2888号B区B110-17号(中庭小餐车)",
+      "distance": "56m"
+    },
+    {
+      "brand": "喜多藏·精致便当(青浦奥特莱斯店)",
+      "address": "赵巷镇沪青平公路2888号第四层z07-c4-009室",
+      "distance": "65m"
+    },
+    {
+      "brand": "1973继光香香鸡(青浦奥莱店)",
+      "address": "沪青平公路2888号百联奥特莱斯广场B区1F层",
+      "distance": "66m"
+    },
+    {
+      "brand": "Arabica阿拉比卡咖啡(青浦奥莱店)",
+      "address": "赵巷镇沪青平公路2888号B区BI10-11号",
+      "distance": "72m"
+    },
+    {
+      "brand": "7分甜(百联奥特莱斯广场B区店)",
+      "address": "赵巷镇沪青平公路2888号百联奥特莱斯广场B区113号商铺",
+      "distance": "79m"
+    },
+    {
+      "brand": "DQ·蛋糕·冰淇淋(青浦百联奥特莱斯)",
+      "address": "赵巷镇嘉松中路5555号17幢1层C2-1-03室",
+      "distance": "85m"
+    },
+    {
+      "brand": "Peet's皮爷咖啡(青浦奥莱店)",
+      "address": "嘉松中路5555号C101-1室",
+      "distance": "85m"
+    },
+    {
+      "brand": "柠檬向右",
+      "address": "沪青平公路2888号百联奥特莱斯广场B区",
+      "distance": "27m"
+    },
+    {
+      "brand": "池奈日式咖喱蛋包饭(百联奥特莱斯广场B区店)",
+      "address": "沪青平公路2888号百联奥特莱斯广场B区1F层B112甲",
+      "distance": "41m"
+    },
+    {
+      "brand": "夸父炸串(百联奥特莱斯广场店)",
+      "address": "嘉松中路5555号百联奥特莱斯广场1F层",
+      "distance": "43m"
+    },
+    {
+      "brand": "桂桂茶(青浦奥特莱斯店)",
+      "address": "赵巷镇沪青平公路2888号B区B110-17号(中庭小餐车)",
+      "distance": "56m"
+    },
+    {
+      "brand": "喜多藏·精致便当(青浦奥特莱斯店)",
+      "address": "赵巷镇沪青平公路2888号第四层z07-c4-009室",
+      "distance": "65m"
+    },
+    {
+      "brand": "1973继光香香鸡(青浦奥莱店)",
+      "address": "沪青平公路2888号百联奥特莱斯广场B区1F层",
+      "distance": "66m"
+    },
+    {
+      "brand": "Arabica阿拉比卡咖啡(青浦奥莱店)",
+      "address": "赵巷镇沪青平公路2888号B区BI10-11号",
+      "distance": "72m"
+    },
+    {
+      "brand": "7分甜(百联奥特莱斯广场B区店)",
+      "address": "赵巷镇沪青平公路2888号百联奥特莱斯广场B区113号商铺",
+      "distance": "79m"
+    },
+    {
+      "brand": "DQ·蛋糕·冰淇淋(青浦百联奥特莱斯)",
+      "address": "赵巷镇嘉松中路5555号17幢1层C2-1-03室",
+      "distance": "85m"
+    },
+    {
+      "brand": "Peet's皮爷咖啡(青浦奥莱店)",
+      "address": "嘉松中路5555号C101-1室",
+      "distance": "85m"
+    },
+    {
+      "brand": "柠檬向右",
+      "address": "沪青平公路2888号百联奥特莱斯广场B区",
+      "distance": "27m"
+    },
+    {
+      "brand": "池奈日式咖喱蛋包饭(百联奥特莱斯广场B区店)",
+      "address": "沪青平公路2888号百联奥特莱斯广场B区1F层B112甲",
+      "distance": "41m"
+    },
+    {
+      "brand": "夸父炸串(百联奥特莱斯广场店)",
+      "address": "嘉松中路5555号百联奥特莱斯广场1F层",
+      "distance": "43m"
+    },
+    {
+      "brand": "桂桂茶(青浦奥特莱斯店)",
+      "address": "赵巷镇沪青平公路2888号B区B110-17号(中庭小餐车)",
+      "distance": "56m"
+    },
+    {
+      "brand": "喜多藏·精致便当(青浦奥特莱斯店)",
+      "address": "赵巷镇沪青平公路2888号第四层z07-c4-009室",
+      "distance": "65m"
+    },
+    {
+      "brand": "1973继光香香鸡(青浦奥莱店)",
+      "address": "沪青平公路2888号百联奥特莱斯广场B区1F层",
+      "distance": "66m"
+    },
+    {
+      "brand": "Arabica阿拉比卡咖啡(青浦奥莱店)",
+      "address": "赵巷镇沪青平公路2888号B区BI10-11号",
+      "distance": "72m"
+    },
+    {
+      "brand": "7分甜(百联奥特莱斯广场B区店)",
+      "address": "赵巷镇沪青平公路2888号百联奥特莱斯广场B区113号商铺",
+      "distance": "79m"
+    },
+    {
+      "brand": "DQ·蛋糕·冰淇淋(青浦百联奥特莱斯)",
+      "address": "赵巷镇嘉松中路5555号17幢1层C2-1-03室",
+      "distance": "85m"
+    },
+    {
+      "brand": "Peet's皮爷咖啡(青浦奥莱店)",
+      "address": "嘉松中路5555号C101-1室",
+      "distance": "85m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海合生新天地",
+      "open_date": "2019-05-01",
+      "area": "14万㎡",
+      "jun_daily_avg": "2.5万人次",
+      "weekday_avg": "2.3万人次",
+      "holiday_avg": "2.8万人次"
+    },
+    {
+      "name": "上海元祖梦世界",
+      "open_date": "2019-12-01",
+      "area": "15万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海绿洲智谷花园里",
+      "open_date": "2024-12-27",
+      "area": "5.5万㎡",
+      "jun_daily_avg": "2.5万人次",
+      "weekday_avg": "2.3万人次",
+      "holiday_avg": "2.8万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 42.0,
+      "within_1yr_pct": 9.5,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 57.1
+    },
+    {
+      "type": "购物",
+      "count": 293.0,
+      "within_1yr_pct": 8.5,
+      "1_3yr_pct": 31.7,
+      "over_3yr_pct": 59.7
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 3.0,
+      "within_1yr_pct": 66.7,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 33.3
+    },
+    {
+      "type": "生活服务",
+      "count": 6.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 16.7
+    },
+    {
+      "type": "运动健身",
+      "count": 2.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 5.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
+    }
+  ]
+}

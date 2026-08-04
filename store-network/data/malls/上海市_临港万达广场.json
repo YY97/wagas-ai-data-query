@@ -1,0 +1,187 @@
+{
+  "name": "临港万达广场",
+  "city": "上海市",
+  "address": "北京市海淀区圆明园西路9-5怡城",
+  "lat": null,
+  "lng": null,
+  "overview": {
+    "score": 92.1,
+    "score_rank": "市内前30%",
+    "population_score": 96.1,
+    "area_score": 70.8,
+    "consumption_score": 79.0,
+    "industry_score": 92.2,
+    "annual_sales": "北京中发百旺商城位于北京市海淀区圆明园西路18号，是集购物、休闲、娱乐、餐饮、旅游、文化于一体的一站式购物中心，提供吃、喝、玩、乐、购全方位综合性多元化的消费感受。以独有的经营理念及定位，为消费者打造一个介于商场和市场之间的购物“第三空间”",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 4.3,
+    "open_date": "2005-01-01",
+    "operator": "中发实业（集团）有限公司",
+    "brand": "",
+    "type": "购物型",
+    "floors": "B2-L5"
+  },
+  "traffic": {
+    "annual_daily": 2.55,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第93",
+    "jun_total": 86.5,
+    "jun_total_rank": "市内商场第107名",
+    "jun_daily_avg": 2.9,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第107名",
+    "weekday_avg": 2.7,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第109名",
+    "holiday_avg": 3.4,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第111名"
+  },
+  "population": {
+    "residential": {
+      "500m": 3.0,
+      "1_5km": 12.7,
+      "3km": 28.7
+    },
+    "office": {
+      "500m": 9900.0,
+      "1_5km": 7.2,
+      "3km": 25.7
+    },
+    "permanent": {
+      "500m": 2.7,
+      "1_5km": 11.5,
+      "3km": 27.6
+    }
+  },
+  "business": {
+    "competitors": 2.0,
+    "food": 96.0,
+    "shopping": 114.0,
+    "leisure": 2.0,
+    "education": 12.0,
+    "hotel": 2.0,
+    "services": 62.0,
+    "fitness": 5.0,
+    "auto": 6.0,
+    "total_stores": 197.0,
+    "old_store_3yr_pct": 49.0
+  },
+  "nearby_poi": {
+    "business": 1.0,
+    "community": 116.0,
+    "office": 11.0,
+    "school": 29.0,
+    "hospital": 23.0,
+    "transport": 6.0,
+    "scenic": 213.0
+  },
+  "demographics": {
+    "male_pct": 50.4,
+    "female_pct": null,
+    "education": {
+      "小学": 7.5,
+      "初中": 12.9,
+      "高中": 11.2,
+      "大专": 5.8,
+      "本科": 48.9,
+      "硕士": 11.1,
+      "博士": 2.6
+    },
+    "has_children_pct": 55.4,
+    "no_children_pct": 44.6
+  },
+  "scraped_at": "2026-08-01T07:25:50.530Z",
+  "nearby_restaurants": [
+    {
+      "brand": "京都蝎府羊蝎子火锅(圆明园西路店)",
+      "address": "圆明园西路9-3号",
+      "distance": "479m"
+    },
+    {
+      "brand": "中国医学科学院北区外卖柜",
+      "address": "百草西路与马连洼北路交叉口西北20米",
+      "distance": "487m"
+    },
+    {
+      "brand": "绝味鸭脖(圆明园西路店)",
+      "address": "北京城区农业大学马路西侧4幢016明园西路9号超市发底商",
+      "distance": "490m"
+    },
+    {
+      "brand": "颐景茶舍(亿城西山华府禧园店)",
+      "address": "马连洼街道西山华府禧园33号楼华府乾街110号底商",
+      "distance": "492m"
+    },
+    {
+      "brand": "东方宫中国兰州牛肉拉面(农业大学店)",
+      "address": "圆明园西路7-6号(农大南路地铁站B东北口步行300米)",
+      "distance": "493m"
+    },
+    {
+      "brand": "达美乐比萨(肖家河店)",
+      "address": "北京城区圆明园西路7-6号1幢1-10号",
+      "distance": "497m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "BHG Mall北京华联肖家河购物中心",
+      "open_date": "2013-03-01",
+      "area": "4.1万㎡",
+      "jun_daily_avg": "2.8万人次",
+      "weekday_avg": "2.6万人次",
+      "holiday_avg": "3.5万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 70.0,
+      "within_1yr_pct": 40.0,
+      "1_3yr_pct": 14.3,
+      "over_3yr_pct": 45.7
+    },
+    {
+      "type": "购物",
+      "count": 84.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 13.1,
+      "over_3yr_pct": 53.6
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "教育培训",
+      "count": 7.0,
+      "within_1yr_pct": 57.1,
+      "1_3yr_pct": 14.3,
+      "over_3yr_pct": 28.6
+    },
+    {
+      "type": "生活服务",
+      "count": 30.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 13.3,
+      "over_3yr_pct": 53.3
+    },
+    {
+      "type": "运动健身",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 3.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 33.3
+    }
+  ]
+}
