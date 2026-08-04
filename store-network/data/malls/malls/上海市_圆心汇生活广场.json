@@ -1,0 +1,154 @@
+{
+  "name": "圆心汇生活广场",
+  "city": "上海市",
+  "address": "上海市普陀区真如镇街道桃浦路368号",
+  "lat": 31.260497,
+  "lng": 121.393998,
+  "overview": {
+    "score": 75.4,
+    "score_rank": "市内前50%",
+    "population_score": 94.2,
+    "area_score": 69.9,
+    "consumption_score": 72.8,
+    "industry_score": 75.3,
+    "annual_sales": "社区型商业",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 3.0,
+    "open_date": "2025-07-31",
+    "operator": "上海泰尔发房地产开发有限公司",
+    "brand": "",
+    "type": "",
+    "floors": ""
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "-",
+    "annual_daily_rank": "",
+    "jun_total": null,
+    "jun_total_rank": "",
+    "jun_daily_avg": null,
+    "jun_daily_unit": "",
+    "jun_daily_rank": "",
+    "weekday_avg": null,
+    "weekday_unit": "",
+    "weekday_rank": "",
+    "holiday_avg": null,
+    "holiday_unit": "",
+    "holiday_rank": ""
+  },
+  "population": {
+    "residential": {
+      "500m": 2.9,
+      "1_5km": 21.4,
+      "3km": 88.1
+    },
+    "office": {
+      "500m": 1.1,
+      "1_5km": 10.4,
+      "3km": 41.6
+    },
+    "permanent": {
+      "500m": 2.9,
+      "1_5km": 21.9,
+      "3km": 88.9
+    }
+  },
+  "business": {
+    "competitors": 3.0,
+    "food": 66.0,
+    "shopping": 77.0,
+    "leisure": 12.0,
+    "education": 11.0,
+    "hotel": 14.0,
+    "services": 96.0,
+    "fitness": 14.0,
+    "auto": 10.0,
+    "total_stores": 84.0,
+    "old_store_3yr_pct": 21.0
+  },
+  "nearby_poi": {
+    "business": 3.0,
+    "community": 397.0,
+    "office": 26.0,
+    "school": 35.0,
+    "hospital": 57.0,
+    "transport": 5.0,
+    "scenic": 114.0
+  },
+  "demographics": {
+    "male_pct": 47.9,
+    "female_pct": null,
+    "education": {
+      "小学": 9.4,
+      "初中": 17.7,
+      "高中": 11.6,
+      "大专": 7.2,
+      "本科": 48.3,
+      "硕士": 4.2,
+      "博士": 1.6
+    },
+    "has_children_pct": 60.1,
+    "no_children_pct": 39.9
+  },
+  "scraped_at": "2026-08-01T16:49:33.992Z",
+  "nearby_restaurants": [],
+  "nearby_malls": [],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 24.0,
+      "within_1yr_pct": 16.7,
+      "1_3yr_pct": 75.0,
+      "over_3yr_pct": 8.3
+    },
+    {
+      "type": "购物",
+      "count": 14.0,
+      "within_1yr_pct": 14.3,
+      "1_3yr_pct": 78.6,
+      "over_3yr_pct": 7.1
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 6.0,
+      "within_1yr_pct": 83.3,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 16.7
+    },
+    {
+      "type": "教育培训",
+      "count": 3.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 66.7,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 7.0,
+      "within_1yr_pct": 28.6,
+      "1_3yr_pct": 14.3,
+      "over_3yr_pct": 57.1
+    },
+    {
+      "type": "生活服务",
+      "count": 23.0,
+      "within_1yr_pct": 34.8,
+      "1_3yr_pct": 30.4,
+      "over_3yr_pct": 34.8
+    },
+    {
+      "type": "运动健身",
+      "count": 6.0,
+      "within_1yr_pct": 66.7,
+      "1_3yr_pct": 16.7,
+      "over_3yr_pct": 16.7
+    },
+    {
+      "type": "车辆服务",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    }
+  ]
+}

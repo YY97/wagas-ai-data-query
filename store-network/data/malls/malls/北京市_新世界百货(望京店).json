@@ -1,0 +1,228 @@
+{
+  "name": "新世界百货(望京店)",
+  "city": "北京市",
+  "address": "上海市静安区北站街道牛百碗上海联富服饰市场",
+  "lat": null,
+  "lng": null,
+  "overview": {
+    "score": null,
+    "score_rank": "",
+    "population_score": 87.3,
+    "area_score": 93.4,
+    "consumption_score": 88.6,
+    "industry_score": 63.8,
+    "annual_sales": "",
+    "annual_sales_unit": "",
+    "area_size_sqm": null,
+    "open_date": "",
+    "operator": "",
+    "brand": "",
+    "type": "",
+    "floors": ""
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "",
+    "annual_daily_rank": "",
+    "jun_total": null,
+    "jun_total_rank": "",
+    "jun_daily_avg": null,
+    "jun_daily_unit": "",
+    "jun_daily_rank": "",
+    "weekday_avg": null,
+    "weekday_unit": "",
+    "weekday_rank": "",
+    "holiday_avg": null,
+    "holiday_unit": "",
+    "holiday_rank": ""
+  },
+  "population": {
+    "residential": {
+      "500m": 2.0,
+      "1_5km": 20.0,
+      "3km": 82.5
+    },
+    "office": {
+      "500m": 3.3,
+      "1_5km": 29.7,
+      "3km": 108.9
+    },
+    "permanent": {
+      "500m": 2.7,
+      "1_5km": 26.0,
+      "3km": 105.7
+    }
+  },
+  "business": {
+    "competitors": 8.0,
+    "food": 244.0,
+    "shopping": 644.0,
+    "leisure": 23.0,
+    "education": 9.0,
+    "hotel": 87.0,
+    "services": 151.0,
+    "fitness": 14.0,
+    "auto": 38.0,
+    "total_stores": 33.0,
+    "old_store_3yr_pct": 70.0
+  },
+  "nearby_poi": {
+    "business": 26.0,
+    "community": 826.0,
+    "office": 230.0,
+    "school": 46.0,
+    "hospital": 175.0,
+    "transport": 17.0,
+    "scenic": 859.0
+  },
+  "demographics": {
+    "male_pct": 46.9,
+    "female_pct": null,
+    "education": {
+      "小学": 9.8,
+      "初中": 19.3,
+      "高中": 12.1,
+      "大专": 7.4,
+      "本科": 45.9,
+      "硕士": 4.0,
+      "博士": 1.5
+    },
+    "has_children_pct": 58.5,
+    "no_children_pct": 41.5
+  },
+  "scraped_at": "2026-08-01T11:09:10.206Z",
+  "nearby_restaurants": [
+    {
+      "brand": "漾应食堂·音乐西餐(万象天地店)",
+      "address": "福建北路100号上海苏河湾万象天地B1层",
+      "distance": "497m"
+    },
+    {
+      "brand": "外滩470社区长者食堂",
+      "address": "北京东路470号(南京东路地铁站6号口步行430米)",
+      "distance": "498m"
+    },
+    {
+      "brand": "蔡记蒸饺·杀猪菜馆(白马大厦店)",
+      "address": "七浦路488号",
+      "distance": "499m"
+    },
+    {
+      "brand": "老长沙盖码饭(星荟中心店)",
+      "address": "北外滩街道天潼路328号星荟中心地下二层时光里美食广场P-03室",
+      "distance": "499m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "新金浦时尚服装市场",
+      "open_date": "2006-12-01",
+      "area": "1.8万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海圣和圣时尚汇",
+      "open_date": "2009-01-01",
+      "area": "2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海苏河湾万象天地",
+      "open_date": "2022-01-01",
+      "area": "6万㎡",
+      "jun_daily_avg": "2.7万人次",
+      "weekday_avg": "2.4万人次",
+      "holiday_avg": "3.5万人次"
+    },
+    {
+      "name": "上海星荟中心",
+      "open_date": "2016-01-01",
+      "area": "7.2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海中信广场",
+      "open_date": "2010-01-01",
+      "area": "10万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海滨港商业中心",
+      "open_date": "2025-01",
+      "area": "11万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海恒基名人购物中心",
+      "open_date": "2011-11-11",
+      "area": "4万㎡",
+      "jun_daily_avg": "1.2万人次",
+      "weekday_avg": "1.1万人次",
+      "holiday_avg": "1.4万人次"
+    },
+    {
+      "name": "上海新世界大丸百货",
+      "open_date": "2015-05-15",
+      "area": "7万㎡",
+      "jun_daily_avg": "5.2万人次",
+      "weekday_avg": "4.6万人次",
+      "holiday_avg": "6.9万人次"
+    },
+    {
+      "name": "上海益丰外滩源",
+      "open_date": "2012-05-17",
+      "area": "6000㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海百联ZX创趣场",
+      "open_date": "2023-01-15",
+      "area": "1万㎡",
+      "jun_daily_avg": "3.4万人次",
+      "weekday_avg": "2.7万人次",
+      "holiday_avg": "5.6万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 3.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 66.7
+    },
+    {
+      "type": "购物",
+      "count": 28.0,
+      "within_1yr_pct": 7.1,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 67.9
+    },
+    {
+      "type": "生活服务",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    }
+  ]
+}

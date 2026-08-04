@@ -1,0 +1,168 @@
+{
+  "name": "燕莎奥特莱斯购物中心",
+  "city": "北京市",
+  "address": "北京市朝阳区东四环南路9号",
+  "lat": 39.877839,
+  "lng": 116.486929,
+  "overview": {
+    "score": 91.5,
+    "score_rank": "市内前30%",
+    "population_score": 76.3,
+    "area_score": 73.6,
+    "consumption_score": 81.9,
+    "industry_score": 91.7,
+    "annual_sales": "北京燕莎奥特莱斯购物中心是国内第一家奥特莱斯业态的购物中心，位于北京朝阳区东四环南路9号。由A、B、C三座组成，形成了主题鲜明，品类突出的经营布局。A座以欧洲精品、商务休闲、妇女儿童、家居用品以及太阳镜、钟表为主；B座以皮鞋、皮具、运动户外商品为主；C座以国际一线知名品牌、男女服装、餐饮服务为主。燕莎奥特莱斯秉承“品牌+实惠”的经营理念，为广大消费者提供众多的高品质，且具高性价比的品牌商品",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 10.0,
+    "open_date": "2002-01-01",
+    "operator": "王府井集团股份有限公司",
+    "brand": "",
+    "type": "购物型",
+    "floors": "B1-L3"
+  },
+  "traffic": {
+    "annual_daily": 3.38,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第57",
+    "jun_total": 109.1,
+    "jun_total_rank": "市内商场第85名",
+    "jun_daily_avg": 3.6,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第85名",
+    "weekday_avg": 3.3,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第86名",
+    "holiday_avg": 4.6,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第83名"
+  },
+  "population": {
+    "residential": {
+      "500m": 9100.0,
+      "1_5km": 15.1,
+      "3km": 68.1
+    },
+    "office": {
+      "500m": 8300.0,
+      "1_5km": 7.7,
+      "3km": 37.1
+    },
+    "permanent": {
+      "500m": 9100.0,
+      "1_5km": 14.2,
+      "3km": 67.4
+    }
+  },
+  "business": {
+    "competitors": 3.0,
+    "food": 62.0,
+    "shopping": 241.0,
+    "leisure": 7.0,
+    "education": 3.0,
+    "hotel": 1.0,
+    "services": 29.0,
+    "fitness": 14.0,
+    "auto": 6.0,
+    "total_stores": 291.0,
+    "old_store_3yr_pct": 59.0
+  },
+  "nearby_poi": {
+    "business": 2.0,
+    "community": 270.0,
+    "office": 25.0,
+    "school": 27.0,
+    "hospital": 88.0,
+    "transport": 3.0,
+    "scenic": 90.0
+  },
+  "demographics": {
+    "male_pct": 47.5,
+    "female_pct": null,
+    "education": {
+      "小学": 9.1,
+      "初中": 15.5,
+      "高中": 11.5,
+      "大专": 7.1,
+      "本科": 49.1,
+      "硕士": 6.2,
+      "博士": 1.5
+    },
+    "has_children_pct": 49.4,
+    "no_children_pct": 50.6
+  },
+  "scraped_at": "2026-08-01T06:15:13.995Z",
+  "nearby_restaurants": [
+    {
+      "brand": "北门麻辣烫",
+      "address": "思源路与奥林匹克路交叉口北240米",
+      "distance": "489m"
+    },
+    {
+      "brand": "工大北门炸鸡·铁板烧·烤冷面",
+      "address": "北工大路与奥林匹克路交叉口西北260米",
+      "distance": "493m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "华瀚商业中心",
+      "open_date": "2006-01-01",
+      "area": "1.3万㎡",
+      "jun_daily_avg": "2.4万人次",
+      "weekday_avg": "2.1万人次",
+      "holiday_avg": "3.2万人次"
+    },
+    {
+      "name": "北京芳圆里ID MALL",
+      "open_date": "2024-10-20",
+      "area": "15万㎡",
+      "jun_daily_avg": "2.4万人次",
+      "weekday_avg": "2.1万人次",
+      "holiday_avg": "3.2万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 48.0,
+      "within_1yr_pct": 43.8,
+      "1_3yr_pct": 18.8,
+      "over_3yr_pct": 37.5
+    },
+    {
+      "type": "购物",
+      "count": 229.0,
+      "within_1yr_pct": 14.4,
+      "1_3yr_pct": 19.7,
+      "over_3yr_pct": 65.9
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "教育培训",
+      "count": 2.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "生活服务",
+      "count": 9.0,
+      "within_1yr_pct": 44.4,
+      "1_3yr_pct": 22.2,
+      "over_3yr_pct": 33.3
+    },
+    {
+      "type": "车辆服务",
+      "count": 2.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 50.0
+    }
+  ]
+}

@@ -1,0 +1,479 @@
+{
+  "name": "上海上滨生活广场",
+  "city": "上海市",
+  "address": "上海市虹口区周家嘴路917号",
+  "lat": 31.260329,
+  "lng": 121.503529,
+  "overview": {
+    "score": 89.9,
+    "score_rank": "市内前30%",
+    "population_score": 93.6,
+    "area_score": 88.4,
+    "consumption_score": 81.7,
+    "industry_score": 89.9,
+    "annual_sales": "上滨生活广场位于上海市虹口区周家嘴路917号，是一个集甲级办公、时尚购物、环球食肆、文娱康乐设施等于一体的城市综合体 广场以“家门口，世界风”为主题，提供多样的生活体验空间、独特的购物休闲方式及众多新业态特色文化 拥有虹口区独家大型下沉式公众文化演艺舞台、巨型悬浮声光艺术装置和集娱乐休闲体验的超大屋顶绿植景观露天花园 广场内部有50余家中西佳肴餐厅，100多家知名品牌，涵盖服饰、礼品、家具、生活等多元零售业态 3,000平米健身中心配恒温泳池、量贩式KTV、手作工坊、演艺舞台、户外生态空间等康体娱乐生活配套 地址靠近地铁4号线临平路站，交通便捷，外连新建路、大连路隧道，快速畅达陆家嘴商务区",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 4.5,
+    "open_date": "2019-06-18",
+    "operator": "崇邦新基（上海）企业管理咨询有限公司",
+    "brand": "",
+    "type": "综合型",
+    "floors": "B2-L4"
+  },
+  "traffic": {
+    "annual_daily": 7315.0,
+    "annual_daily_unit": "人次",
+    "annual_daily_rank": "市内第306",
+    "jun_total": 22.1,
+    "jun_total_rank": "市内商场第365名",
+    "jun_daily_avg": 7369.0,
+    "jun_daily_unit": "人次",
+    "jun_daily_rank": "市内商场第365名",
+    "weekday_avg": 7254.0,
+    "weekday_unit": "人次",
+    "weekday_rank": "市内商场第357名",
+    "holiday_avg": 7681.0,
+    "holiday_unit": "人次",
+    "holiday_rank": "市内商场第375名"
+  },
+  "population": {
+    "residential": {
+      "500m": 2.8,
+      "1_5km": 24.5,
+      "3km": 96.3
+    },
+    "office": {
+      "500m": 2.3,
+      "1_5km": 22.3,
+      "3km": 86.0
+    },
+    "permanent": {
+      "500m": 3.4,
+      "1_5km": 26.9,
+      "3km": 105.5
+    }
+  },
+  "business": {
+    "competitors": 10.0,
+    "food": 305.0,
+    "shopping": 301.0,
+    "leisure": 36.0,
+    "education": 36.0,
+    "hotel": 11.0,
+    "services": 178.0,
+    "fitness": 26.0,
+    "auto": 20.0,
+    "total_stores": 123.0,
+    "old_store_3yr_pct": 47.0
+  },
+  "nearby_poi": {
+    "business": 10.0,
+    "community": 801.0,
+    "office": 145.0,
+    "school": 51.0,
+    "hospital": 116.0,
+    "transport": 16.0,
+    "scenic": 482.0
+  },
+  "demographics": {
+    "male_pct": 47.3,
+    "female_pct": null,
+    "education": {
+      "小学": 9.2,
+      "初中": 18.4,
+      "高中": 12.4,
+      "大专": 7.0,
+      "本科": 46.6,
+      "硕士": 4.7,
+      "博士": 1.7
+    },
+    "has_children_pct": 66.8,
+    "no_children_pct": 33.2
+  },
+  "scraped_at": "2026-07-31T15:14:55.390Z",
+  "nearby_restaurants": [
+    {
+      "brand": "金洪兴·蟹黄面·饭(上滨广场店)",
+      "address": "周家嘴路917号上滨生活广场B2层",
+      "distance": "4m"
+    },
+    {
+      "brand": "元祖食品(周家嘴路店)",
+      "address": "杨浦区周家嘴路917号101-103室",
+      "distance": "9m"
+    },
+    {
+      "brand": "Dippin`Dots",
+      "address": "北外滩街道周家嘴路917号上滨生活广场3F层",
+      "distance": "9m"
+    },
+    {
+      "brand": "中街1946(上滨生活广场店)",
+      "address": "上滨生活广场B1中街1946号",
+      "distance": "10m"
+    },
+    {
+      "brand": "美珍香(上滨生活广场)",
+      "address": "周家嘴917号上滨生活广场B1-01号",
+      "distance": "11m"
+    },
+    {
+      "brand": "青花椒砂锅鱼(上滨生活广场)(暂停营业)",
+      "address": "北外滩街道周家嘴路917号上滨生活广场4层417、418室",
+      "distance": "16m"
+    },
+    {
+      "brand": "开心丽果鲜榨果汁(上滨生活广场店)",
+      "address": "周家嘴路917号上滨生活广场B1层",
+      "distance": "17m"
+    },
+    {
+      "brand": "牛垚鲜牛肉火锅(上滨生活广场店)",
+      "address": "周家嘴路917号上滨生活广场3F层",
+      "distance": "17m"
+    },
+    {
+      "brand": "邈墨茶馆(太阳宫店)",
+      "address": "上滨生活广场周家嘴路917号113-115室",
+      "distance": "19m"
+    },
+    {
+      "brand": "味师蒋大厨·东坡肉(上滨生活广场店)",
+      "address": "周家嘴路917号上滨生活广场B2层",
+      "distance": "20m"
+    },
+    {
+      "brand": "金洪兴·蟹黄面·饭(上滨广场店)",
+      "address": "周家嘴路917号上滨生活广场B2层",
+      "distance": "4m"
+    },
+    {
+      "brand": "元祖食品(周家嘴路店)",
+      "address": "杨浦区周家嘴路917号101-103室",
+      "distance": "9m"
+    },
+    {
+      "brand": "Dippin`Dots",
+      "address": "北外滩街道周家嘴路917号上滨生活广场3F层",
+      "distance": "9m"
+    },
+    {
+      "brand": "中街1946(上滨生活广场店)",
+      "address": "上滨生活广场B1中街1946号",
+      "distance": "10m"
+    },
+    {
+      "brand": "美珍香(上滨生活广场)",
+      "address": "周家嘴917号上滨生活广场B1-01号",
+      "distance": "11m"
+    },
+    {
+      "brand": "青花椒砂锅鱼(上滨生活广场)(暂停营业)",
+      "address": "北外滩街道周家嘴路917号上滨生活广场4层417、418室",
+      "distance": "16m"
+    },
+    {
+      "brand": "开心丽果鲜榨果汁(上滨生活广场店)",
+      "address": "周家嘴路917号上滨生活广场B1层",
+      "distance": "17m"
+    },
+    {
+      "brand": "牛垚鲜牛肉火锅(上滨生活广场店)",
+      "address": "周家嘴路917号上滨生活广场3F层",
+      "distance": "17m"
+    },
+    {
+      "brand": "邈墨茶馆(太阳宫店)",
+      "address": "上滨生活广场周家嘴路917号113-115室",
+      "distance": "19m"
+    },
+    {
+      "brand": "味师蒋大厨·东坡肉(上滨生活广场店)",
+      "address": "周家嘴路917号上滨生活广场B2层",
+      "distance": "20m"
+    },
+    {
+      "brand": "金洪兴·蟹黄面·饭(上滨广场店)",
+      "address": "周家嘴路917号上滨生活广场B2层",
+      "distance": "4m"
+    },
+    {
+      "brand": "元祖食品(周家嘴路店)",
+      "address": "杨浦区周家嘴路917号101-103室",
+      "distance": "9m"
+    },
+    {
+      "brand": "Dippin`Dots",
+      "address": "北外滩街道周家嘴路917号上滨生活广场3F层",
+      "distance": "9m"
+    },
+    {
+      "brand": "中街1946(上滨生活广场店)",
+      "address": "上滨生活广场B1中街1946号",
+      "distance": "10m"
+    },
+    {
+      "brand": "美珍香(上滨生活广场)",
+      "address": "周家嘴917号上滨生活广场B1-01号",
+      "distance": "11m"
+    },
+    {
+      "brand": "青花椒砂锅鱼(上滨生活广场)(暂停营业)",
+      "address": "北外滩街道周家嘴路917号上滨生活广场4层417、418室",
+      "distance": "16m"
+    },
+    {
+      "brand": "开心丽果鲜榨果汁(上滨生活广场店)",
+      "address": "周家嘴路917号上滨生活广场B1层",
+      "distance": "17m"
+    },
+    {
+      "brand": "牛垚鲜牛肉火锅(上滨生活广场店)",
+      "address": "周家嘴路917号上滨生活广场3F层",
+      "distance": "17m"
+    },
+    {
+      "brand": "邈墨茶馆(太阳宫店)",
+      "address": "上滨生活广场周家嘴路917号113-115室",
+      "distance": "19m"
+    },
+    {
+      "brand": "味师蒋大厨·东坡肉(上滨生活广场店)",
+      "address": "周家嘴路917号上滨生活广场B2层",
+      "distance": "20m"
+    },
+    {
+      "brand": "金洪兴·蟹黄面·饭(上滨广场店)",
+      "address": "周家嘴路917号上滨生活广场B2层",
+      "distance": "4m"
+    },
+    {
+      "brand": "元祖食品(周家嘴路店)",
+      "address": "杨浦区周家嘴路917号101-103室",
+      "distance": "9m"
+    },
+    {
+      "brand": "Dippin`Dots",
+      "address": "北外滩街道周家嘴路917号上滨生活广场3F层",
+      "distance": "9m"
+    },
+    {
+      "brand": "中街1946(上滨生活广场店)",
+      "address": "上滨生活广场B1中街1946号",
+      "distance": "10m"
+    },
+    {
+      "brand": "美珍香(上滨生活广场)",
+      "address": "周家嘴917号上滨生活广场B1-01号",
+      "distance": "11m"
+    },
+    {
+      "brand": "青花椒砂锅鱼(上滨生活广场)(暂停营业)",
+      "address": "北外滩街道周家嘴路917号上滨生活广场4层417、418室",
+      "distance": "16m"
+    },
+    {
+      "brand": "开心丽果鲜榨果汁(上滨生活广场店)",
+      "address": "周家嘴路917号上滨生活广场B1层",
+      "distance": "17m"
+    },
+    {
+      "brand": "牛垚鲜牛肉火锅(上滨生活广场店)",
+      "address": "周家嘴路917号上滨生活广场3F层",
+      "distance": "17m"
+    },
+    {
+      "brand": "邈墨茶馆(太阳宫店)",
+      "address": "上滨生活广场周家嘴路917号113-115室",
+      "distance": "19m"
+    },
+    {
+      "brand": "味师蒋大厨·东坡肉(上滨生活广场店)",
+      "address": "周家嘴路917号上滨生活广场B2层",
+      "distance": "20m"
+    },
+    {
+      "brand": "金洪兴·蟹黄面·饭(上滨广场店)",
+      "address": "周家嘴路917号上滨生活广场B2层",
+      "distance": "4m"
+    },
+    {
+      "brand": "元祖食品(周家嘴路店)",
+      "address": "杨浦区周家嘴路917号101-103室",
+      "distance": "9m"
+    },
+    {
+      "brand": "Dippin`Dots",
+      "address": "北外滩街道周家嘴路917号上滨生活广场3F层",
+      "distance": "9m"
+    },
+    {
+      "brand": "中街1946(上滨生活广场店)",
+      "address": "上滨生活广场B1中街1946号",
+      "distance": "10m"
+    },
+    {
+      "brand": "美珍香(上滨生活广场)",
+      "address": "周家嘴917号上滨生活广场B1-01号",
+      "distance": "11m"
+    },
+    {
+      "brand": "青花椒砂锅鱼(上滨生活广场)(暂停营业)",
+      "address": "北外滩街道周家嘴路917号上滨生活广场4层417、418室",
+      "distance": "16m"
+    },
+    {
+      "brand": "开心丽果鲜榨果汁(上滨生活广场店)",
+      "address": "周家嘴路917号上滨生活广场B1层",
+      "distance": "17m"
+    },
+    {
+      "brand": "牛垚鲜牛肉火锅(上滨生活广场店)",
+      "address": "周家嘴路917号上滨生活广场3F层",
+      "distance": "17m"
+    },
+    {
+      "brand": "邈墨茶馆(太阳宫店)",
+      "address": "上滨生活广场周家嘴路917号113-115室",
+      "distance": "19m"
+    },
+    {
+      "brand": "味师蒋大厨·东坡肉(上滨生活广场店)",
+      "address": "周家嘴路917号上滨生活广场B2层",
+      "distance": "20m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海瑞虹新天地太阳宫",
+      "open_date": "2021-09-19",
+      "area": "18万㎡",
+      "jun_daily_avg": "7.4万人次",
+      "weekday_avg": "6.8万人次",
+      "holiday_avg": "9.1万人次"
+    },
+    {
+      "name": "上海瑞虹坊",
+      "open_date": "2020-10-03",
+      "area": "3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海瑞虹天地月亮湾",
+      "open_date": "2017-06-13",
+      "area": "6.4万㎡",
+      "jun_daily_avg": "4.5万人次",
+      "weekday_avg": "4万人次",
+      "holiday_avg": "5.9万人次"
+    },
+    {
+      "name": "上海瑞虹天地星星堂",
+      "open_date": "2015-05-14",
+      "area": "2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海昇汇广场",
+      "open_date": "2018-12-01",
+      "area": "3200㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海宝地广场",
+      "open_date": "2012-01-01",
+      "area": "3.5万㎡",
+      "jun_daily_avg": "1.7万人次",
+      "weekday_avg": "1.8万人次",
+      "holiday_avg": "1.5万人次"
+    },
+    {
+      "name": "上海北外滩来福士",
+      "open_date": "2021-07-10",
+      "area": "12万㎡",
+      "jun_daily_avg": "4.3万人次",
+      "weekday_avg": "4.6万人次",
+      "holiday_avg": "3.6万人次"
+    },
+    {
+      "name": "金茂时尚生活中心",
+      "open_date": "2005-09-01",
+      "area": "2.3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海白玉兰广场",
+      "open_date": "2017-01-04",
+      "area": "11万㎡",
+      "jun_daily_avg": "5.7万人次",
+      "weekday_avg": "5.7万人次",
+      "holiday_avg": "5.7万人次"
+    },
+    {
+      "name": "上海控江旭辉MALL",
+      "open_date": "2016-08-27",
+      "area": "3万㎡",
+      "jun_daily_avg": "3.6万人次",
+      "weekday_avg": "3.4万人次",
+      "holiday_avg": "4.1万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 38.0,
+      "within_1yr_pct": 21.1,
+      "1_3yr_pct": 18.4,
+      "over_3yr_pct": 60.5
+    },
+    {
+      "type": "购物",
+      "count": 35.0,
+      "within_1yr_pct": 54.3,
+      "1_3yr_pct": 8.6,
+      "over_3yr_pct": 37.1
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 7.0,
+      "within_1yr_pct": 14.3,
+      "1_3yr_pct": 14.3,
+      "over_3yr_pct": 71.4
+    },
+    {
+      "type": "教育培训",
+      "count": 16.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 18.8,
+      "over_3yr_pct": 31.3
+    },
+    {
+      "type": "生活服务",
+      "count": 17.0,
+      "within_1yr_pct": 29.4,
+      "1_3yr_pct": 23.5,
+      "over_3yr_pct": 47.1
+    },
+    {
+      "type": "运动健身",
+      "count": 9.0,
+      "within_1yr_pct": 22.2,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 44.4
+    },
+    {
+      "type": "车辆服务",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
+    }
+  ]
+}

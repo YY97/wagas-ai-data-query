@@ -1,0 +1,479 @@
+{
+  "name": "北京金融街购物中心",
+  "city": "北京市",
+  "address": "北京市西城区金城坊街2号楼",
+  "lat": 39.915569,
+  "lng": 116.361855,
+  "overview": {
+    "score": 92.0,
+    "score_rank": "市内前30%",
+    "population_score": 78.0,
+    "area_score": 82.0,
+    "consumption_score": 99.0,
+    "industry_score": 92.1,
+    "annual_sales": "20",
+    "annual_sales_unit": "亿元",
+    "area_size_sqm": 3.8,
+    "open_date": "2007-09-16",
+    "operator": "金融街控股股份有限公司",
+    "brand": "金融街",
+    "type": "购物型",
+    "floors": "B1-L5"
+  },
+  "traffic": {
+    "annual_daily": 2.52,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第95",
+    "jun_total": 102.1,
+    "jun_total_rank": "市内商场第90名",
+    "jun_daily_avg": 3.4,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第90名",
+    "weekday_avg": 3.6,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第81名",
+    "holiday_avg": 2.9,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第134名"
+  },
+  "population": {
+    "residential": {
+      "500m": 1.2,
+      "1_5km": 17.7,
+      "3km": 71.1
+    },
+    "office": {
+      "500m": 5.7,
+      "1_5km": 29.9,
+      "3km": 74.1
+    },
+    "permanent": {
+      "500m": 2.0,
+      "1_5km": 22.2,
+      "3km": 78.9
+    }
+  },
+  "business": {
+    "competitors": 10.0,
+    "food": 135.0,
+    "shopping": 131.0,
+    "leisure": 4.0,
+    "education": 10.0,
+    "hotel": 11.0,
+    "services": 91.0,
+    "fitness": 20.0,
+    "auto": 11.0,
+    "total_stores": 154.0,
+    "old_store_3yr_pct": 71.0
+  },
+  "nearby_poi": {
+    "business": 10.0,
+    "community": 461.0,
+    "office": 129.0,
+    "school": 47.0,
+    "hospital": 139.0,
+    "transport": 18.0,
+    "scenic": 625.0
+  },
+  "demographics": {
+    "male_pct": 52.9,
+    "female_pct": null,
+    "education": {
+      "小学": 9.9,
+      "初中": 16.3,
+      "高中": 10.9,
+      "大专": 5.7,
+      "本科": 45.9,
+      "硕士": 8.8,
+      "博士": 2.5
+    },
+    "has_children_pct": 56.8,
+    "no_children_pct": 43.2
+  },
+  "scraped_at": "2026-07-31T19:09:28.587Z",
+  "nearby_restaurants": [
+    {
+      "brand": "CloudD'or可露朵蛋糕(金融街购物中心店)",
+      "address": "金城坊街2号楼1层-102-B139",
+      "distance": "22m"
+    },
+    {
+      "brand": "百汇馆(金融街购物中心店)",
+      "address": "金城坊街2号金融街购物中心",
+      "distance": "29m"
+    },
+    {
+      "brand": "方砖厂69号炸酱面(金融街店)",
+      "address": "金融街购物中心B1层B140-2号",
+      "distance": "38m"
+    },
+    {
+      "brand": "竹叶青(金融街购物中心店)",
+      "address": "金城坊街2号金融街购物中心地下1层华润超市",
+      "distance": "38m"
+    },
+    {
+      "brand": "五芳斋(金融街购物中心1期店)",
+      "address": "金城坊南街与金城坊西街交叉口东北40米",
+      "distance": "39m"
+    },
+    {
+      "brand": "牛茶燕窝饮品(金融街购物中心店)",
+      "address": "北京城区金城坊街2号楼03层302",
+      "distance": "45m"
+    },
+    {
+      "brand": "云招茶事",
+      "address": "金城坊街2号金融街购物中心",
+      "distance": "46m"
+    },
+    {
+      "brand": "布歌东京(北京金融街购物中心店)",
+      "address": "金融街购物中心金城坊街2号楼02层202-L2-C",
+      "distance": "55m"
+    },
+    {
+      "brand": "PHO THE ONE福万越南餐厅(金融街购物中心店)",
+      "address": "金城坊街2号金融街购物中心1期B1层",
+      "distance": "59m"
+    },
+    {
+      "brand": "荣小馆(金融街购物中心店)",
+      "address": "金城坊东街2号金融街购物中心1期2层",
+      "distance": "62m"
+    },
+    {
+      "brand": "CloudD'or可露朵蛋糕(金融街购物中心店)",
+      "address": "金城坊街2号楼1层-102-B139",
+      "distance": "22m"
+    },
+    {
+      "brand": "百汇馆(金融街购物中心店)",
+      "address": "金城坊街2号金融街购物中心",
+      "distance": "29m"
+    },
+    {
+      "brand": "方砖厂69号炸酱面(金融街店)",
+      "address": "金融街购物中心B1层B140-2号",
+      "distance": "38m"
+    },
+    {
+      "brand": "竹叶青(金融街购物中心店)",
+      "address": "金城坊街2号金融街购物中心地下1层华润超市",
+      "distance": "38m"
+    },
+    {
+      "brand": "五芳斋(金融街购物中心1期店)",
+      "address": "金城坊南街与金城坊西街交叉口东北40米",
+      "distance": "39m"
+    },
+    {
+      "brand": "牛茶燕窝饮品(金融街购物中心店)",
+      "address": "北京城区金城坊街2号楼03层302",
+      "distance": "45m"
+    },
+    {
+      "brand": "云招茶事",
+      "address": "金城坊街2号金融街购物中心",
+      "distance": "46m"
+    },
+    {
+      "brand": "布歌东京(北京金融街购物中心店)",
+      "address": "金融街购物中心金城坊街2号楼02层202-L2-C",
+      "distance": "55m"
+    },
+    {
+      "brand": "PHO THE ONE福万越南餐厅(金融街购物中心店)",
+      "address": "金城坊街2号金融街购物中心1期B1层",
+      "distance": "59m"
+    },
+    {
+      "brand": "荣小馆(金融街购物中心店)",
+      "address": "金城坊东街2号金融街购物中心1期2层",
+      "distance": "62m"
+    },
+    {
+      "brand": "CloudD'or可露朵蛋糕(金融街购物中心店)",
+      "address": "金城坊街2号楼1层-102-B139",
+      "distance": "22m"
+    },
+    {
+      "brand": "百汇馆(金融街购物中心店)",
+      "address": "金城坊街2号金融街购物中心",
+      "distance": "29m"
+    },
+    {
+      "brand": "方砖厂69号炸酱面(金融街店)",
+      "address": "金融街购物中心B1层B140-2号",
+      "distance": "38m"
+    },
+    {
+      "brand": "竹叶青(金融街购物中心店)",
+      "address": "金城坊街2号金融街购物中心地下1层华润超市",
+      "distance": "38m"
+    },
+    {
+      "brand": "五芳斋(金融街购物中心1期店)",
+      "address": "金城坊南街与金城坊西街交叉口东北40米",
+      "distance": "39m"
+    },
+    {
+      "brand": "牛茶燕窝饮品(金融街购物中心店)",
+      "address": "北京城区金城坊街2号楼03层302",
+      "distance": "45m"
+    },
+    {
+      "brand": "云招茶事",
+      "address": "金城坊街2号金融街购物中心",
+      "distance": "46m"
+    },
+    {
+      "brand": "布歌东京(北京金融街购物中心店)",
+      "address": "金融街购物中心金城坊街2号楼02层202-L2-C",
+      "distance": "55m"
+    },
+    {
+      "brand": "PHO THE ONE福万越南餐厅(金融街购物中心店)",
+      "address": "金城坊街2号金融街购物中心1期B1层",
+      "distance": "59m"
+    },
+    {
+      "brand": "荣小馆(金融街购物中心店)",
+      "address": "金城坊东街2号金融街购物中心1期2层",
+      "distance": "62m"
+    },
+    {
+      "brand": "CloudD'or可露朵蛋糕(金融街购物中心店)",
+      "address": "金城坊街2号楼1层-102-B139",
+      "distance": "22m"
+    },
+    {
+      "brand": "百汇馆(金融街购物中心店)",
+      "address": "金城坊街2号金融街购物中心",
+      "distance": "29m"
+    },
+    {
+      "brand": "方砖厂69号炸酱面(金融街店)",
+      "address": "金融街购物中心B1层B140-2号",
+      "distance": "38m"
+    },
+    {
+      "brand": "竹叶青(金融街购物中心店)",
+      "address": "金城坊街2号金融街购物中心地下1层华润超市",
+      "distance": "38m"
+    },
+    {
+      "brand": "五芳斋(金融街购物中心1期店)",
+      "address": "金城坊南街与金城坊西街交叉口东北40米",
+      "distance": "39m"
+    },
+    {
+      "brand": "牛茶燕窝饮品(金融街购物中心店)",
+      "address": "北京城区金城坊街2号楼03层302",
+      "distance": "45m"
+    },
+    {
+      "brand": "云招茶事",
+      "address": "金城坊街2号金融街购物中心",
+      "distance": "46m"
+    },
+    {
+      "brand": "布歌东京(北京金融街购物中心店)",
+      "address": "金融街购物中心金城坊街2号楼02层202-L2-C",
+      "distance": "55m"
+    },
+    {
+      "brand": "PHO THE ONE福万越南餐厅(金融街购物中心店)",
+      "address": "金城坊街2号金融街购物中心1期B1层",
+      "distance": "59m"
+    },
+    {
+      "brand": "荣小馆(金融街购物中心店)",
+      "address": "金城坊东街2号金融街购物中心1期2层",
+      "distance": "62m"
+    },
+    {
+      "brand": "CloudD'or可露朵蛋糕(金融街购物中心店)",
+      "address": "金城坊街2号楼1层-102-B139",
+      "distance": "22m"
+    },
+    {
+      "brand": "百汇馆(金融街购物中心店)",
+      "address": "金城坊街2号金融街购物中心",
+      "distance": "29m"
+    },
+    {
+      "brand": "方砖厂69号炸酱面(金融街店)",
+      "address": "金融街购物中心B1层B140-2号",
+      "distance": "38m"
+    },
+    {
+      "brand": "竹叶青(金融街购物中心店)",
+      "address": "金城坊街2号金融街购物中心地下1层华润超市",
+      "distance": "38m"
+    },
+    {
+      "brand": "五芳斋(金融街购物中心1期店)",
+      "address": "金城坊南街与金城坊西街交叉口东北40米",
+      "distance": "39m"
+    },
+    {
+      "brand": "牛茶燕窝饮品(金融街购物中心店)",
+      "address": "北京城区金城坊街2号楼03层302",
+      "distance": "45m"
+    },
+    {
+      "brand": "云招茶事",
+      "address": "金城坊街2号金融街购物中心",
+      "distance": "46m"
+    },
+    {
+      "brand": "布歌东京(北京金融街购物中心店)",
+      "address": "金融街购物中心金城坊街2号楼02层202-L2-C",
+      "distance": "55m"
+    },
+    {
+      "brand": "PHO THE ONE福万越南餐厅(金融街购物中心店)",
+      "address": "金城坊街2号金融街购物中心1期B1层",
+      "distance": "59m"
+    },
+    {
+      "brand": "荣小馆(金融街购物中心店)",
+      "address": "金城坊东街2号金融街购物中心1期2层",
+      "distance": "62m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "北京复兴门百盛购物中心",
+      "open_date": "1994-03-01",
+      "area": "3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "北京西单大悦城",
+      "open_date": "2007-12-28",
+      "area": "11.5万㎡",
+      "jun_daily_avg": "11.4万人次",
+      "weekday_avg": "9.9万人次",
+      "holiday_avg": "15.6万人次"
+    },
+    {
+      "name": "北京老佛爷百货(西单店)",
+      "open_date": "2013-10-18",
+      "area": "4.7万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "北京BHG百货(阜成门店)",
+      "open_date": "2010-04-13",
+      "area": "-",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "北京君太百货",
+      "open_date": "2003-12-01",
+      "area": "6.3万㎡",
+      "jun_daily_avg": "4.9万人次",
+      "weekday_avg": "4.4万人次",
+      "holiday_avg": "6.2万人次"
+    },
+    {
+      "name": "北京西单购物中心",
+      "open_date": "2000-01-01",
+      "area": "6000㎡",
+      "jun_daily_avg": "1.3万人次",
+      "weekday_avg": "1.1万人次",
+      "holiday_avg": "1.8万人次"
+    },
+    {
+      "name": "北京新一代商城",
+      "open_date": "-",
+      "area": "-",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "北京汉光百货",
+      "open_date": "1999-01-01",
+      "area": "4万㎡",
+      "jun_daily_avg": "4.8万人次",
+      "weekday_avg": "4.2万人次",
+      "holiday_avg": "6.3万人次"
+    },
+    {
+      "name": "北京西单更新场",
+      "open_date": "2021-04-27",
+      "area": "1.1万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "北京复兴商业城",
+      "open_date": "1992-01-01",
+      "area": "1.2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 37.0,
+      "within_1yr_pct": 5.4,
+      "1_3yr_pct": 16.2,
+      "over_3yr_pct": 78.4
+    },
+    {
+      "type": "购物",
+      "count": 93.0,
+      "within_1yr_pct": 7.5,
+      "1_3yr_pct": 25.8,
+      "over_3yr_pct": 66.7
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    },
+    {
+      "type": "教育培训",
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    },
+    {
+      "type": "生活服务",
+      "count": 12.0,
+      "within_1yr_pct": 8.3,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 66.7
+    },
+    {
+      "type": "运动健身",
+      "count": 3.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 6.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 66.7
+    }
+  ]
+}

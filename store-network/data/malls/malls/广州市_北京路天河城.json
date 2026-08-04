@@ -1,0 +1,486 @@
+{
+  "name": "北京路天河城",
+  "city": "广州市",
+  "address": "广东省广州市越秀区北京路23-29号",
+  "lat": 23.116326,
+  "lng": 113.270784,
+  "overview": {
+    "score": 95.0,
+    "score_rank": "市内前30%",
+    "population_score": 97.1,
+    "area_score": 98.9,
+    "consumption_score": 88.3,
+    "industry_score": 94.9,
+    "annual_sales": "60",
+    "annual_sales_unit": "亿元",
+    "area_size_sqm": 3.0,
+    "open_date": "1996-08-18",
+    "operator": "广东粤海天河城（集团）股份有限公司",
+    "brand": "广东粤海天河城（集团）股份有限公司",
+    "type": "综合型",
+    "floors": "B2-L8"
+  },
+  "traffic": {
+    "annual_daily": 7.89,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第5",
+    "jun_total": 365.6,
+    "jun_total_rank": "市内商场第2名",
+    "jun_daily_avg": 12.2,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第2名",
+    "weekday_avg": 10.4,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第2名",
+    "holiday_avg": 17.1,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第2名"
+  },
+  "population": {
+    "residential": {
+      "500m": 5.0,
+      "1_5km": 34.5,
+      "3km": 125.0
+    },
+    "office": {
+      "500m": 3.8,
+      "1_5km": 28.8,
+      "3km": 89.5
+    },
+    "permanent": {
+      "500m": 7.4,
+      "1_5km": 38.6,
+      "3km": 134.3
+    }
+  },
+  "business": {
+    "competitors": 17.0,
+    "food": 842.0,
+    "shopping": 1078.0,
+    "leisure": 192.0,
+    "education": 87.0,
+    "hotel": 355.0,
+    "services": 539.0,
+    "fitness": 46.0,
+    "auto": 20.0,
+    "total_stores": 247.0,
+    "old_store_3yr_pct": 47.0
+  },
+  "nearby_poi": {
+    "business": 18.0,
+    "community": 740.0,
+    "office": 168.0,
+    "school": 111.0,
+    "hospital": 209.0,
+    "transport": 25.0,
+    "scenic": 1385.0
+  },
+  "demographics": {
+    "male_pct": 45.3,
+    "female_pct": null,
+    "education": {
+      "小学": 11.4,
+      "初中": 20.2,
+      "高中": 12.4,
+      "大专": 8.5,
+      "本科": 42.1,
+      "硕士": 4.2,
+      "博士": 1.2
+    },
+    "has_children_pct": 56.7,
+    "no_children_pct": 43.3
+  },
+  "scraped_at": "2026-08-02T08:48:59.114Z",
+  "nearby_restaurants": [
+    {
+      "brand": "好鸽来.食鸽专门店(北京路天河城店)",
+      "address": "北京路168号北京路天河城7F层(北京路地铁站B口旁)",
+      "distance": "4m"
+    },
+    {
+      "brand": "吉姆大师傅(北京路店)",
+      "address": "北京路168号北京路天河城B1层",
+      "distance": "5m"
+    },
+    {
+      "brand": "大家乐(北京路天河城店)",
+      "address": "北京路168号北京路天河城A区L6层",
+      "distance": "8m"
+    },
+    {
+      "brand": "御小灶·中华热寿司(北京路天河城店)",
+      "address": "北京路168号天河城8F层(御前十七旁)",
+      "distance": "10m"
+    },
+    {
+      "brand": "一围小火锅(北京路天河城店)",
+      "address": "北京路168号北京路天河城A区L6层",
+      "distance": "10m"
+    },
+    {
+      "brand": "崎SUSHI QI(北京路店)",
+      "address": "北京路168号301房",
+      "distance": "12m"
+    },
+    {
+      "brand": "御前十七(北京路天河城店)",
+      "address": "北京路168号8层(自编B802-803号)",
+      "distance": "14m"
+    },
+    {
+      "brand": "CHUA LAM'S DIM SUM(北京路天河城店)",
+      "address": "北京路168号北京路天河城A区L6层",
+      "distance": "18m"
+    },
+    {
+      "brand": "湘辣辣鲜炒黄牛肉(北京路天河城店)",
+      "address": "北京路168号天河城a区7楼B705、B707号",
+      "distance": "20m"
+    },
+    {
+      "brand": "味千拉面(仰忠汇店)",
+      "address": "北京路粤海仰忠汇6层A609",
+      "distance": "21m"
+    },
+    {
+      "brand": "好鸽来.食鸽专门店(北京路天河城店)",
+      "address": "北京路168号北京路天河城7F层(北京路地铁站B口旁)",
+      "distance": "4m"
+    },
+    {
+      "brand": "吉姆大师傅(北京路店)",
+      "address": "北京路168号北京路天河城B1层",
+      "distance": "5m"
+    },
+    {
+      "brand": "大家乐(北京路天河城店)",
+      "address": "北京路168号北京路天河城A区L6层",
+      "distance": "8m"
+    },
+    {
+      "brand": "御小灶·中华热寿司(北京路天河城店)",
+      "address": "北京路168号天河城8F层(御前十七旁)",
+      "distance": "10m"
+    },
+    {
+      "brand": "一围小火锅(北京路天河城店)",
+      "address": "北京路168号北京路天河城A区L6层",
+      "distance": "10m"
+    },
+    {
+      "brand": "崎SUSHI QI(北京路店)",
+      "address": "北京路168号301房",
+      "distance": "12m"
+    },
+    {
+      "brand": "御前十七(北京路天河城店)",
+      "address": "北京路168号8层(自编B802-803号)",
+      "distance": "14m"
+    },
+    {
+      "brand": "CHUA LAM'S DIM SUM(北京路天河城店)",
+      "address": "北京路168号北京路天河城A区L6层",
+      "distance": "18m"
+    },
+    {
+      "brand": "湘辣辣鲜炒黄牛肉(北京路天河城店)",
+      "address": "北京路168号天河城a区7楼B705、B707号",
+      "distance": "20m"
+    },
+    {
+      "brand": "味千拉面(仰忠汇店)",
+      "address": "北京路粤海仰忠汇6层A609",
+      "distance": "21m"
+    },
+    {
+      "brand": "好鸽来.食鸽专门店(北京路天河城店)",
+      "address": "北京路168号北京路天河城7F层(北京路地铁站B口旁)",
+      "distance": "4m"
+    },
+    {
+      "brand": "吉姆大师傅(北京路店)",
+      "address": "北京路168号北京路天河城B1层",
+      "distance": "5m"
+    },
+    {
+      "brand": "大家乐(北京路天河城店)",
+      "address": "北京路168号北京路天河城A区L6层",
+      "distance": "8m"
+    },
+    {
+      "brand": "御小灶·中华热寿司(北京路天河城店)",
+      "address": "北京路168号天河城8F层(御前十七旁)",
+      "distance": "10m"
+    },
+    {
+      "brand": "一围小火锅(北京路天河城店)",
+      "address": "北京路168号北京路天河城A区L6层",
+      "distance": "10m"
+    },
+    {
+      "brand": "崎SUSHI QI(北京路店)",
+      "address": "北京路168号301房",
+      "distance": "12m"
+    },
+    {
+      "brand": "御前十七(北京路天河城店)",
+      "address": "北京路168号8层(自编B802-803号)",
+      "distance": "14m"
+    },
+    {
+      "brand": "CHUA LAM'S DIM SUM(北京路天河城店)",
+      "address": "北京路168号北京路天河城A区L6层",
+      "distance": "18m"
+    },
+    {
+      "brand": "湘辣辣鲜炒黄牛肉(北京路天河城店)",
+      "address": "北京路168号天河城a区7楼B705、B707号",
+      "distance": "20m"
+    },
+    {
+      "brand": "味千拉面(仰忠汇店)",
+      "address": "北京路粤海仰忠汇6层A609",
+      "distance": "21m"
+    },
+    {
+      "brand": "好鸽来.食鸽专门店(北京路天河城店)",
+      "address": "北京路168号北京路天河城7F层(北京路地铁站B口旁)",
+      "distance": "4m"
+    },
+    {
+      "brand": "吉姆大师傅(北京路店)",
+      "address": "北京路168号北京路天河城B1层",
+      "distance": "5m"
+    },
+    {
+      "brand": "大家乐(北京路天河城店)",
+      "address": "北京路168号北京路天河城A区L6层",
+      "distance": "8m"
+    },
+    {
+      "brand": "御小灶·中华热寿司(北京路天河城店)",
+      "address": "北京路168号天河城8F层(御前十七旁)",
+      "distance": "10m"
+    },
+    {
+      "brand": "一围小火锅(北京路天河城店)",
+      "address": "北京路168号北京路天河城A区L6层",
+      "distance": "10m"
+    },
+    {
+      "brand": "崎SUSHI QI(北京路店)",
+      "address": "北京路168号301房",
+      "distance": "12m"
+    },
+    {
+      "brand": "御前十七(北京路天河城店)",
+      "address": "北京路168号8层(自编B802-803号)",
+      "distance": "14m"
+    },
+    {
+      "brand": "CHUA LAM'S DIM SUM(北京路天河城店)",
+      "address": "北京路168号北京路天河城A区L6层",
+      "distance": "18m"
+    },
+    {
+      "brand": "湘辣辣鲜炒黄牛肉(北京路天河城店)",
+      "address": "北京路168号天河城a区7楼B705、B707号",
+      "distance": "20m"
+    },
+    {
+      "brand": "味千拉面(仰忠汇店)",
+      "address": "北京路粤海仰忠汇6层A609",
+      "distance": "21m"
+    },
+    {
+      "brand": "好鸽来.食鸽专门店(北京路天河城店)",
+      "address": "北京路168号北京路天河城7F层(北京路地铁站B口旁)",
+      "distance": "4m"
+    },
+    {
+      "brand": "吉姆大师傅(北京路店)",
+      "address": "北京路168号北京路天河城B1层",
+      "distance": "5m"
+    },
+    {
+      "brand": "大家乐(北京路天河城店)",
+      "address": "北京路168号北京路天河城A区L6层",
+      "distance": "8m"
+    },
+    {
+      "brand": "御小灶·中华热寿司(北京路天河城店)",
+      "address": "北京路168号天河城8F层(御前十七旁)",
+      "distance": "10m"
+    },
+    {
+      "brand": "一围小火锅(北京路天河城店)",
+      "address": "北京路168号北京路天河城A区L6层",
+      "distance": "10m"
+    },
+    {
+      "brand": "崎SUSHI QI(北京路店)",
+      "address": "北京路168号301房",
+      "distance": "12m"
+    },
+    {
+      "brand": "御前十七(北京路天河城店)",
+      "address": "北京路168号8层(自编B802-803号)",
+      "distance": "14m"
+    },
+    {
+      "brand": "CHUA LAM'S DIM SUM(北京路天河城店)",
+      "address": "北京路168号北京路天河城A区L6层",
+      "distance": "18m"
+    },
+    {
+      "brand": "湘辣辣鲜炒黄牛肉(北京路天河城店)",
+      "address": "北京路168号天河城a区7楼B705、B707号",
+      "distance": "20m"
+    },
+    {
+      "brand": "味千拉面(仰忠汇店)",
+      "address": "北京路粤海仰忠汇6层A609",
+      "distance": "21m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "广州粤·潮楼NEW I",
+      "open_date": "2024-01-01",
+      "area": "1.1万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "广州金佰利广场",
+      "open_date": "2015-01-01",
+      "area": "5万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "广州恒润广场",
+      "open_date": "2023-04-02",
+      "area": "3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "广州光明广场",
+      "open_date": "2004-01-01",
+      "area": "6万㎡",
+      "jun_daily_avg": "2万人次",
+      "weekday_avg": "1.7万人次",
+      "holiday_avg": "2.8万人次"
+    },
+    {
+      "name": "广州广百百货(北京路店)",
+      "open_date": "1991-02-08",
+      "area": "8万㎡",
+      "jun_daily_avg": "3.5万人次",
+      "weekday_avg": "3.1万人次",
+      "holiday_avg": "4.7万人次"
+    },
+    {
+      "name": "广州城壹汇",
+      "open_date": "2023-08-01",
+      "area": "5万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "广州新大新百货(北京路店)",
+      "open_date": "1989-09-28",
+      "area": "6万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "广州海印缤缤广场",
+      "open_date": "2001-05-01",
+      "area": "4万㎡",
+      "jun_daily_avg": "1.3万人次",
+      "weekday_avg": "1.2万人次",
+      "holiday_avg": "1.4万人次"
+    },
+    {
+      "name": "广州五月花商业广场",
+      "open_date": "2011-01-01",
+      "area": "5万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "广州捷登都会广场",
+      "open_date": "2018-11-01",
+      "area": "4.3万㎡",
+      "jun_daily_avg": "3万人次",
+      "weekday_avg": "2.6万人次",
+      "holiday_avg": "4.2万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 76.0,
+      "within_1yr_pct": 28.9,
+      "1_3yr_pct": 30.3,
+      "over_3yr_pct": 40.8
+    },
+    {
+      "type": "购物",
+      "count": 116.0,
+      "within_1yr_pct": 28.4,
+      "1_3yr_pct": 23.3,
+      "over_3yr_pct": 48.3
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 25.0,
+      "within_1yr_pct": 28.0,
+      "1_3yr_pct": 28.0,
+      "over_3yr_pct": 44.0
+    },
+    {
+      "type": "教育培训",
+      "count": 4.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 75.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 4.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 25.0
+    },
+    {
+      "type": "生活服务",
+      "count": 18.0,
+      "within_1yr_pct": 11.1,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 55.6
+    },
+    {
+      "type": "运动健身",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 3.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 66.7
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "name": "Plus乐坊",
+  "city": "上海市",
+  "address": "",
+  "lat": null,
+  "lng": null,
+  "overview": {
+    "score": 77.5,
+    "score_rank": "市内前30%",
+    "population_score": 93.6,
+    "area_score": 85.0,
+    "consumption_score": 65.6,
+    "industry_score": 77.4,
+    "annual_sales": "",
+    "annual_sales_unit": "",
+    "area_size_sqm": null,
+    "open_date": "",
+    "operator": "",
+    "brand": "",
+    "type": "",
+    "floors": ""
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "",
+    "annual_daily_rank": "",
+    "jun_total": null,
+    "jun_total_rank": "",
+    "jun_daily_avg": null,
+    "jun_daily_unit": "",
+    "jun_daily_rank": "",
+    "weekday_avg": null,
+    "weekday_unit": "",
+    "weekday_rank": "",
+    "holiday_avg": null,
+    "holiday_unit": "",
+    "holiday_rank": ""
+  },
+  "population": {
+    "residential": {
+      "500m": 2.7,
+      "1_5km": 17.2,
+      "3km": 38.9
+    },
+    "office": {
+      "500m": 1.2,
+      "1_5km": 7.4,
+      "3km": 14.9
+    },
+    "permanent": {
+      "500m": 2.8,
+      "1_5km": 17.5,
+      "3km": 35.6
+    }
+  },
+  "business": {
+    "competitors": null,
+    "food": 160.0,
+    "shopping": 290.0,
+    "leisure": 12.0,
+    "education": 41.0,
+    "hotel": 23.0,
+    "services": 243.0,
+    "fitness": 7.0,
+    "auto": 15.0,
+    "total_stores": null,
+    "old_store_3yr_pct": null
+  },
+  "nearby_poi": {
+    "business": 8.0,
+    "community": 220.0,
+    "office": 10.0,
+    "school": 34.0,
+    "hospital": 34.0,
+    "transport": 13.0,
+    "scenic": 63.0
+  },
+  "demographics": {
+    "male_pct": 49.4,
+    "female_pct": null,
+    "education": {
+      "小学": 9.3,
+      "初中": 17.5,
+      "高中": 11.2,
+      "大专": 9.0,
+      "本科": 46.7,
+      "硕士": 5.3,
+      "博士": 1.0
+    },
+    "has_children_pct": null,
+    "no_children_pct": null
+  },
+  "scraped_at": "2026-08-01T11:03:56.121Z",
+  "nearby_restaurants": [],
+  "nearby_malls": [],
+  "business_survival": []
+}

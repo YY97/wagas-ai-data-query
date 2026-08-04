@@ -1,0 +1,423 @@
+{
+  "name": "京投港长阳",
+  "city": "北京市",
+  "address": "北京市房山区长政南街1号院",
+  "lat": 39.761704,
+  "lng": 116.213824,
+  "overview": {
+    "score": 76.5,
+    "score_rank": "市内前30%",
+    "population_score": 86.6,
+    "area_score": 81.7,
+    "consumption_score": 65.4,
+    "industry_score": 76.4,
+    "annual_sales": "1.2",
+    "annual_sales_unit": "亿元",
+    "area_size_sqm": 5.3,
+    "open_date": "2016-12-23",
+    "operator": "北京市基础设施投资有限公司",
+    "brand": "",
+    "type": "亲子型",
+    "floors": "B2-L4"
+  },
+  "traffic": {
+    "annual_daily": 1.17,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第191",
+    "jun_total": 51.3,
+    "jun_total_rank": "市内商场第183名",
+    "jun_daily_avg": 1.7,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第183名",
+    "weekday_avg": 1.6,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第182名",
+    "holiday_avg": 2.0,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第178名"
+  },
+  "population": {
+    "residential": {
+      "500m": 1.9,
+      "1_5km": 9.3,
+      "3km": 14.8
+    },
+    "office": {
+      "500m": 8800.0,
+      "1_5km": 3.0,
+      "3km": 4.9
+    },
+    "permanent": {
+      "500m": 2.0,
+      "1_5km": 8.7,
+      "3km": 14.1
+    }
+  },
+  "business": {
+    "competitors": 2.0,
+    "food": 218.0,
+    "shopping": 90.0,
+    "leisure": 18.0,
+    "education": 50.0,
+    "hotel": 78.0,
+    "services": 217.0,
+    "fitness": 30.0,
+    "auto": 10.0,
+    "total_stores": 51.0,
+    "old_store_3yr_pct": 47.0
+  },
+  "nearby_poi": {
+    "business": 3.0,
+    "community": 71.0,
+    "office": 5.0,
+    "school": 19.0,
+    "hospital": 6.0,
+    "transport": 8.0,
+    "scenic": 54.0
+  },
+  "demographics": {
+    "male_pct": 51.8,
+    "female_pct": null,
+    "education": {
+      "小学": 8.1,
+      "初中": 14.1,
+      "高中": 9.9,
+      "大专": 8.1,
+      "本科": 50.4,
+      "硕士": 7.9,
+      "博士": 1.5
+    },
+    "has_children_pct": 60.1,
+    "no_children_pct": 39.9
+  },
+  "scraped_at": "2026-08-01T22:59:08.040Z",
+  "nearby_restaurants": [
+    {
+      "brand": "渝宴重庆自助老火锅长阳店",
+      "address": "北京城区北京城区长政南街1号院1号楼4F-05",
+      "distance": "6m"
+    },
+    {
+      "brand": "馋七公麻辣香锅 麻辣烫(京投港·长阳店)",
+      "address": "京投港长阳购物中心2F-16(长阳地铁站B南口步行230米)",
+      "distance": "6m"
+    },
+    {
+      "brand": "瑞幸咖啡(京投港长阳二层店)",
+      "address": "长阳镇京投港购物中心二层(长阳地铁站出入口旁)",
+      "distance": "6m"
+    },
+    {
+      "brand": "BLUE GAME SHOW(京投港·长阳店)",
+      "address": "长阳镇长政南街1号院1号楼京投港长阳购物中心F5",
+      "distance": "12m"
+    },
+    {
+      "brand": "星巴克(京投港·长阳店)",
+      "address": "北京城区长阳镇长政南街1号院1号楼1F-07商铺",
+      "distance": "13m"
+    },
+    {
+      "brand": "重庆白家小面",
+      "address": "京投港·长阳购物中心(长阳地铁站出入口旁)",
+      "distance": "21m"
+    },
+    {
+      "brand": "小狮同学(京投港·长阳购物中心店)",
+      "address": "长政南街1号院号楼2F-Z05(长阳地铁站出入口旁)",
+      "distance": "26m"
+    },
+    {
+      "brand": "天和晟烤鸭店(京投港店)",
+      "address": "长政南街京投港长阳购物中心1层",
+      "distance": "41m"
+    },
+    {
+      "brand": "麦当劳(长政南街)",
+      "address": "长政南街1号院1号楼1F-01d1F-02d1F-02b1F-02c商铺",
+      "distance": "44m"
+    },
+    {
+      "brand": "吉野家(京投港·长阳购物中心店)",
+      "address": "北京城区北京城区北京城区长政南街1号院1号楼1层-01a-01b-01c",
+      "distance": "47m"
+    },
+    {
+      "brand": "渝宴重庆自助老火锅长阳店",
+      "address": "北京城区北京城区长政南街1号院1号楼4F-05",
+      "distance": "6m"
+    },
+    {
+      "brand": "馋七公麻辣香锅 麻辣烫(京投港·长阳店)",
+      "address": "京投港长阳购物中心2F-16(长阳地铁站B南口步行230米)",
+      "distance": "6m"
+    },
+    {
+      "brand": "瑞幸咖啡(京投港长阳二层店)",
+      "address": "长阳镇京投港购物中心二层(长阳地铁站出入口旁)",
+      "distance": "6m"
+    },
+    {
+      "brand": "BLUE GAME SHOW(京投港·长阳店)",
+      "address": "长阳镇长政南街1号院1号楼京投港长阳购物中心F5",
+      "distance": "12m"
+    },
+    {
+      "brand": "星巴克(京投港·长阳店)",
+      "address": "北京城区长阳镇长政南街1号院1号楼1F-07商铺",
+      "distance": "13m"
+    },
+    {
+      "brand": "重庆白家小面",
+      "address": "京投港·长阳购物中心(长阳地铁站出入口旁)",
+      "distance": "21m"
+    },
+    {
+      "brand": "小狮同学(京投港·长阳购物中心店)",
+      "address": "长政南街1号院号楼2F-Z05(长阳地铁站出入口旁)",
+      "distance": "26m"
+    },
+    {
+      "brand": "天和晟烤鸭店(京投港店)",
+      "address": "长政南街京投港长阳购物中心1层",
+      "distance": "41m"
+    },
+    {
+      "brand": "麦当劳(长政南街)",
+      "address": "长政南街1号院1号楼1F-01d1F-02d1F-02b1F-02c商铺",
+      "distance": "44m"
+    },
+    {
+      "brand": "吉野家(京投港·长阳购物中心店)",
+      "address": "北京城区北京城区北京城区长政南街1号院1号楼1层-01a-01b-01c",
+      "distance": "47m"
+    },
+    {
+      "brand": "渝宴重庆自助老火锅长阳店",
+      "address": "北京城区北京城区长政南街1号院1号楼4F-05",
+      "distance": "6m"
+    },
+    {
+      "brand": "馋七公麻辣香锅 麻辣烫(京投港·长阳店)",
+      "address": "京投港长阳购物中心2F-16(长阳地铁站B南口步行230米)",
+      "distance": "6m"
+    },
+    {
+      "brand": "瑞幸咖啡(京投港长阳二层店)",
+      "address": "长阳镇京投港购物中心二层(长阳地铁站出入口旁)",
+      "distance": "6m"
+    },
+    {
+      "brand": "BLUE GAME SHOW(京投港·长阳店)",
+      "address": "长阳镇长政南街1号院1号楼京投港长阳购物中心F5",
+      "distance": "12m"
+    },
+    {
+      "brand": "星巴克(京投港·长阳店)",
+      "address": "北京城区长阳镇长政南街1号院1号楼1F-07商铺",
+      "distance": "13m"
+    },
+    {
+      "brand": "重庆白家小面",
+      "address": "京投港·长阳购物中心(长阳地铁站出入口旁)",
+      "distance": "21m"
+    },
+    {
+      "brand": "小狮同学(京投港·长阳购物中心店)",
+      "address": "长政南街1号院号楼2F-Z05(长阳地铁站出入口旁)",
+      "distance": "26m"
+    },
+    {
+      "brand": "天和晟烤鸭店(京投港店)",
+      "address": "长政南街京投港长阳购物中心1层",
+      "distance": "41m"
+    },
+    {
+      "brand": "麦当劳(长政南街)",
+      "address": "长政南街1号院1号楼1F-01d1F-02d1F-02b1F-02c商铺",
+      "distance": "44m"
+    },
+    {
+      "brand": "吉野家(京投港·长阳购物中心店)",
+      "address": "北京城区北京城区北京城区长政南街1号院1号楼1层-01a-01b-01c",
+      "distance": "47m"
+    },
+    {
+      "brand": "渝宴重庆自助老火锅长阳店",
+      "address": "北京城区北京城区长政南街1号院1号楼4F-05",
+      "distance": "6m"
+    },
+    {
+      "brand": "馋七公麻辣香锅 麻辣烫(京投港·长阳店)",
+      "address": "京投港长阳购物中心2F-16(长阳地铁站B南口步行230米)",
+      "distance": "6m"
+    },
+    {
+      "brand": "瑞幸咖啡(京投港长阳二层店)",
+      "address": "长阳镇京投港购物中心二层(长阳地铁站出入口旁)",
+      "distance": "6m"
+    },
+    {
+      "brand": "BLUE GAME SHOW(京投港·长阳店)",
+      "address": "长阳镇长政南街1号院1号楼京投港长阳购物中心F5",
+      "distance": "12m"
+    },
+    {
+      "brand": "星巴克(京投港·长阳店)",
+      "address": "北京城区长阳镇长政南街1号院1号楼1F-07商铺",
+      "distance": "13m"
+    },
+    {
+      "brand": "重庆白家小面",
+      "address": "京投港·长阳购物中心(长阳地铁站出入口旁)",
+      "distance": "21m"
+    },
+    {
+      "brand": "小狮同学(京投港·长阳购物中心店)",
+      "address": "长政南街1号院号楼2F-Z05(长阳地铁站出入口旁)",
+      "distance": "26m"
+    },
+    {
+      "brand": "天和晟烤鸭店(京投港店)",
+      "address": "长政南街京投港长阳购物中心1层",
+      "distance": "41m"
+    },
+    {
+      "brand": "麦当劳(长政南街)",
+      "address": "长政南街1号院1号楼1F-01d1F-02d1F-02b1F-02c商铺",
+      "distance": "44m"
+    },
+    {
+      "brand": "吉野家(京投港·长阳购物中心店)",
+      "address": "北京城区北京城区北京城区长政南街1号院1号楼1层-01a-01b-01c",
+      "distance": "47m"
+    },
+    {
+      "brand": "渝宴重庆自助老火锅长阳店",
+      "address": "北京城区北京城区长政南街1号院1号楼4F-05",
+      "distance": "6m"
+    },
+    {
+      "brand": "馋七公麻辣香锅 麻辣烫(京投港·长阳店)",
+      "address": "京投港长阳购物中心2F-16(长阳地铁站B南口步行230米)",
+      "distance": "6m"
+    },
+    {
+      "brand": "瑞幸咖啡(京投港长阳二层店)",
+      "address": "长阳镇京投港购物中心二层(长阳地铁站出入口旁)",
+      "distance": "6m"
+    },
+    {
+      "brand": "BLUE GAME SHOW(京投港·长阳店)",
+      "address": "长阳镇长政南街1号院1号楼京投港长阳购物中心F5",
+      "distance": "12m"
+    },
+    {
+      "brand": "星巴克(京投港·长阳店)",
+      "address": "北京城区长阳镇长政南街1号院1号楼1F-07商铺",
+      "distance": "13m"
+    },
+    {
+      "brand": "重庆白家小面",
+      "address": "京投港·长阳购物中心(长阳地铁站出入口旁)",
+      "distance": "21m"
+    },
+    {
+      "brand": "小狮同学(京投港·长阳购物中心店)",
+      "address": "长政南街1号院号楼2F-Z05(长阳地铁站出入口旁)",
+      "distance": "26m"
+    },
+    {
+      "brand": "天和晟烤鸭店(京投港店)",
+      "address": "长政南街京投港长阳购物中心1层",
+      "distance": "41m"
+    },
+    {
+      "brand": "麦当劳(长政南街)",
+      "address": "长政南街1号院1号楼1F-01d1F-02d1F-02b1F-02c商铺",
+      "distance": "44m"
+    },
+    {
+      "brand": "吉野家(京投港·长阳购物中心店)",
+      "address": "北京城区北京城区北京城区长政南街1号院1号楼1层-01a-01b-01c",
+      "distance": "47m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "北京首开福茂购物中心(长阳店)",
+      "open_date": "2019-06-01",
+      "area": "2万㎡",
+      "jun_daily_avg": "3.4万人次",
+      "weekday_avg": "2.9万人次",
+      "holiday_avg": "5万人次"
+    },
+    {
+      "name": "北京华尚金泰广场",
+      "open_date": "2024-09-18",
+      "area": "4万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "北京房山印象城",
+      "open_date": "2015-01-01",
+      "area": "7万㎡",
+      "jun_daily_avg": "3.4万人次",
+      "weekday_avg": "2.9万人次",
+      "holiday_avg": "5万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 10.0,
+      "within_1yr_pct": 30.0,
+      "1_3yr_pct": 20.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "购物",
+      "count": 13.0,
+      "within_1yr_pct": 23.1,
+      "1_3yr_pct": 23.1,
+      "over_3yr_pct": 53.8
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 3.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    },
+    {
+      "type": "教育培训",
+      "count": 11.0,
+      "within_1yr_pct": 18.2,
+      "1_3yr_pct": 45.5,
+      "over_3yr_pct": 36.4
+    },
+    {
+      "type": "酒店住宿",
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    },
+    {
+      "type": "生活服务",
+      "count": 4.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 25.0
+    },
+    {
+      "type": "运动健身",
+      "count": 8.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 25.0
+    }
+  ]
+}

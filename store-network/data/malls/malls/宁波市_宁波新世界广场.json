@@ -1,0 +1,479 @@
+{
+  "name": "宁波新世界广场",
+  "city": "宁波市",
+  "address": "浙江省宁波市鄞州区江东北路77号",
+  "lat": 29.871082,
+  "lng": 121.563371,
+  "overview": {
+    "score": 93.9,
+    "score_rank": "市内前30%",
+    "population_score": 94.1,
+    "area_score": 93.6,
+    "consumption_score": 85.3,
+    "industry_score": 93.9,
+    "annual_sales": "宁波K11位于三江口核心区域总投资超150亿元。整个项目将打造成一个大型城市综合体，集K11购物艺术中心、249米高地标式超五星级酒店和甲级写字楼、高端国际社区、品牌商业街、城市文化广场、大型中央公园等于一体。同时，还拥有约30万方地下三层连贯空间，4层立体交通，接驳城市交通网络，超4001个停车位",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 14.2,
+    "open_date": "2024-09-28",
+    "operator": "新世界发展有限公司",
+    "brand": "新世界",
+    "type": "综合型",
+    "floors": "B1-L4"
+  },
+  "traffic": {
+    "annual_daily": 2.07,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第37",
+    "jun_total": 86.8,
+    "jun_total_rank": "市内商场第30名",
+    "jun_daily_avg": 2.9,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第30名",
+    "weekday_avg": 2.8,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第28名",
+    "holiday_avg": 3.3,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第33名"
+  },
+  "population": {
+    "residential": {
+      "500m": 1.3,
+      "1_5km": 9.9,
+      "3km": 41.1
+    },
+    "office": {
+      "500m": 1.4,
+      "1_5km": 9.6,
+      "3km": 28.6
+    },
+    "permanent": {
+      "500m": 1.6,
+      "1_5km": 11.9,
+      "3km": 48.0
+    }
+  },
+  "business": {
+    "competitors": 3.0,
+    "food": 326.0,
+    "shopping": 285.0,
+    "leisure": 27.0,
+    "education": 26.0,
+    "hotel": 52.0,
+    "services": 164.0,
+    "fitness": 16.0,
+    "auto": 15.0,
+    "total_stores": 226.0,
+    "old_store_3yr_pct": 12.0
+  },
+  "nearby_poi": {
+    "business": 15.0,
+    "community": 428.0,
+    "office": 95.0,
+    "school": 25.0,
+    "hospital": 118.0,
+    "transport": 11.0,
+    "scenic": 492.0
+  },
+  "demographics": {
+    "male_pct": 46.9,
+    "female_pct": null,
+    "education": {
+      "小学": 11.4,
+      "初中": 20.0,
+      "高中": 13.5,
+      "大专": 9.4,
+      "本科": 42.0,
+      "硕士": 2.8,
+      "博士": 0.9
+    },
+    "has_children_pct": 57.6,
+    "no_children_pct": 42.4
+  },
+  "scraped_at": "2026-07-31T13:20:08.721Z",
+  "nearby_restaurants": [
+    {
+      "brand": "F·CAFE馥宁咖啡",
+      "address": "甬宁天地三眼桥街34号36号",
+      "distance": "40m"
+    },
+    {
+      "brand": "Peet's皮爷咖啡(宁波K11店)",
+      "address": "铸坊街185号宁波新世界广场1F层C107号",
+      "distance": "42m"
+    },
+    {
+      "brand": "鲜芋仙(宁波新世界K11店)",
+      "address": "杨柳街150号新世界广场负一楼鲜芋仙",
+      "distance": "42m"
+    },
+    {
+      "brand": "鱼你在一起(鄞州K11购物中心店)",
+      "address": "K 11广场B1层B1-027",
+      "distance": "64m"
+    },
+    {
+      "brand": "DEAPU籴璞新融合餐厅(宁波K11店)",
+      "address": "百丈街道杨柳街150号宁波新世界广场B1层B1-E005号",
+      "distance": "64m"
+    },
+    {
+      "brand": "coffee party(宁铸尊府店)",
+      "address": "铸坊街与三眼桥街交叉口西南40米",
+      "distance": "71m"
+    },
+    {
+      "brand": "Yes Lemon就是柠·手打柠檬茶(中山东路店)",
+      "address": "百丈街道杨柳街150号宁波新世界广场B1层B1-E023号",
+      "distance": "72m"
+    },
+    {
+      "brand": "茉莉奶白(THE PARK by K11 Select购物艺术中心店)",
+      "address": "新世界商场B1层(江厦桥东地铁站出入口步行140米)",
+      "distance": "74m"
+    },
+    {
+      "brand": "稻状元(宁波新世界店)",
+      "address": "百丈街道杨柳街150号宁波新世界广场B1-E006、E007-1号",
+      "distance": "77m"
+    },
+    {
+      "brand": "有德烧鸭",
+      "address": "新世界广场(江厦桥东地铁站出入口步行160米)",
+      "distance": "79m"
+    },
+    {
+      "brand": "F·CAFE馥宁咖啡",
+      "address": "甬宁天地三眼桥街34号36号",
+      "distance": "40m"
+    },
+    {
+      "brand": "Peet's皮爷咖啡(宁波K11店)",
+      "address": "铸坊街185号宁波新世界广场1F层C107号",
+      "distance": "42m"
+    },
+    {
+      "brand": "鲜芋仙(宁波新世界K11店)",
+      "address": "杨柳街150号新世界广场负一楼鲜芋仙",
+      "distance": "42m"
+    },
+    {
+      "brand": "鱼你在一起(鄞州K11购物中心店)",
+      "address": "K 11广场B1层B1-027",
+      "distance": "64m"
+    },
+    {
+      "brand": "DEAPU籴璞新融合餐厅(宁波K11店)",
+      "address": "百丈街道杨柳街150号宁波新世界广场B1层B1-E005号",
+      "distance": "64m"
+    },
+    {
+      "brand": "coffee party(宁铸尊府店)",
+      "address": "铸坊街与三眼桥街交叉口西南40米",
+      "distance": "71m"
+    },
+    {
+      "brand": "Yes Lemon就是柠·手打柠檬茶(中山东路店)",
+      "address": "百丈街道杨柳街150号宁波新世界广场B1层B1-E023号",
+      "distance": "72m"
+    },
+    {
+      "brand": "茉莉奶白(THE PARK by K11 Select购物艺术中心店)",
+      "address": "新世界商场B1层(江厦桥东地铁站出入口步行140米)",
+      "distance": "74m"
+    },
+    {
+      "brand": "稻状元(宁波新世界店)",
+      "address": "百丈街道杨柳街150号宁波新世界广场B1-E006、E007-1号",
+      "distance": "77m"
+    },
+    {
+      "brand": "有德烧鸭",
+      "address": "新世界广场(江厦桥东地铁站出入口步行160米)",
+      "distance": "79m"
+    },
+    {
+      "brand": "F·CAFE馥宁咖啡",
+      "address": "甬宁天地三眼桥街34号36号",
+      "distance": "40m"
+    },
+    {
+      "brand": "Peet's皮爷咖啡(宁波K11店)",
+      "address": "铸坊街185号宁波新世界广场1F层C107号",
+      "distance": "42m"
+    },
+    {
+      "brand": "鲜芋仙(宁波新世界K11店)",
+      "address": "杨柳街150号新世界广场负一楼鲜芋仙",
+      "distance": "42m"
+    },
+    {
+      "brand": "鱼你在一起(鄞州K11购物中心店)",
+      "address": "K 11广场B1层B1-027",
+      "distance": "64m"
+    },
+    {
+      "brand": "DEAPU籴璞新融合餐厅(宁波K11店)",
+      "address": "百丈街道杨柳街150号宁波新世界广场B1层B1-E005号",
+      "distance": "64m"
+    },
+    {
+      "brand": "coffee party(宁铸尊府店)",
+      "address": "铸坊街与三眼桥街交叉口西南40米",
+      "distance": "71m"
+    },
+    {
+      "brand": "Yes Lemon就是柠·手打柠檬茶(中山东路店)",
+      "address": "百丈街道杨柳街150号宁波新世界广场B1层B1-E023号",
+      "distance": "72m"
+    },
+    {
+      "brand": "茉莉奶白(THE PARK by K11 Select购物艺术中心店)",
+      "address": "新世界商场B1层(江厦桥东地铁站出入口步行140米)",
+      "distance": "74m"
+    },
+    {
+      "brand": "稻状元(宁波新世界店)",
+      "address": "百丈街道杨柳街150号宁波新世界广场B1-E006、E007-1号",
+      "distance": "77m"
+    },
+    {
+      "brand": "有德烧鸭",
+      "address": "新世界广场(江厦桥东地铁站出入口步行160米)",
+      "distance": "79m"
+    },
+    {
+      "brand": "F·CAFE馥宁咖啡",
+      "address": "甬宁天地三眼桥街34号36号",
+      "distance": "40m"
+    },
+    {
+      "brand": "Peet's皮爷咖啡(宁波K11店)",
+      "address": "铸坊街185号宁波新世界广场1F层C107号",
+      "distance": "42m"
+    },
+    {
+      "brand": "鲜芋仙(宁波新世界K11店)",
+      "address": "杨柳街150号新世界广场负一楼鲜芋仙",
+      "distance": "42m"
+    },
+    {
+      "brand": "鱼你在一起(鄞州K11购物中心店)",
+      "address": "K 11广场B1层B1-027",
+      "distance": "64m"
+    },
+    {
+      "brand": "DEAPU籴璞新融合餐厅(宁波K11店)",
+      "address": "百丈街道杨柳街150号宁波新世界广场B1层B1-E005号",
+      "distance": "64m"
+    },
+    {
+      "brand": "coffee party(宁铸尊府店)",
+      "address": "铸坊街与三眼桥街交叉口西南40米",
+      "distance": "71m"
+    },
+    {
+      "brand": "Yes Lemon就是柠·手打柠檬茶(中山东路店)",
+      "address": "百丈街道杨柳街150号宁波新世界广场B1层B1-E023号",
+      "distance": "72m"
+    },
+    {
+      "brand": "茉莉奶白(THE PARK by K11 Select购物艺术中心店)",
+      "address": "新世界商场B1层(江厦桥东地铁站出入口步行140米)",
+      "distance": "74m"
+    },
+    {
+      "brand": "稻状元(宁波新世界店)",
+      "address": "百丈街道杨柳街150号宁波新世界广场B1-E006、E007-1号",
+      "distance": "77m"
+    },
+    {
+      "brand": "有德烧鸭",
+      "address": "新世界广场(江厦桥东地铁站出入口步行160米)",
+      "distance": "79m"
+    },
+    {
+      "brand": "F·CAFE馥宁咖啡",
+      "address": "甬宁天地三眼桥街34号36号",
+      "distance": "40m"
+    },
+    {
+      "brand": "Peet's皮爷咖啡(宁波K11店)",
+      "address": "铸坊街185号宁波新世界广场1F层C107号",
+      "distance": "42m"
+    },
+    {
+      "brand": "鲜芋仙(宁波新世界K11店)",
+      "address": "杨柳街150号新世界广场负一楼鲜芋仙",
+      "distance": "42m"
+    },
+    {
+      "brand": "鱼你在一起(鄞州K11购物中心店)",
+      "address": "K 11广场B1层B1-027",
+      "distance": "64m"
+    },
+    {
+      "brand": "DEAPU籴璞新融合餐厅(宁波K11店)",
+      "address": "百丈街道杨柳街150号宁波新世界广场B1层B1-E005号",
+      "distance": "64m"
+    },
+    {
+      "brand": "coffee party(宁铸尊府店)",
+      "address": "铸坊街与三眼桥街交叉口西南40米",
+      "distance": "71m"
+    },
+    {
+      "brand": "Yes Lemon就是柠·手打柠檬茶(中山东路店)",
+      "address": "百丈街道杨柳街150号宁波新世界广场B1层B1-E023号",
+      "distance": "72m"
+    },
+    {
+      "brand": "茉莉奶白(THE PARK by K11 Select购物艺术中心店)",
+      "address": "新世界商场B1层(江厦桥东地铁站出入口步行140米)",
+      "distance": "74m"
+    },
+    {
+      "brand": "稻状元(宁波新世界店)",
+      "address": "百丈街道杨柳街150号宁波新世界广场B1-E006、E007-1号",
+      "distance": "77m"
+    },
+    {
+      "brand": "有德烧鸭",
+      "address": "新世界广场(江厦桥东地铁站出入口步行160米)",
+      "distance": "79m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "宁波鄞州花园里",
+      "open_date": "2023-09-28",
+      "area": "3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "宁波东门银泰百货",
+      "open_date": "2000-11-18",
+      "area": "2.7万㎡",
+      "jun_daily_avg": "1.6万人次",
+      "weekday_avg": "1.4万人次",
+      "holiday_avg": "2.1万人次"
+    },
+    {
+      "name": "宁波亿彩购物中心",
+      "open_date": "2013-04-28",
+      "area": "3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "宁波第二百货",
+      "open_date": "1997-09-01",
+      "area": "2.8万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "宁波新华联商厦",
+      "open_date": "2005-01-01",
+      "area": "4.5万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "宁波天一广场",
+      "open_date": "2002-10-01",
+      "area": "22万㎡",
+      "jun_daily_avg": "11.2万人次",
+      "weekday_avg": "9.6万人次",
+      "holiday_avg": "15.7万人次"
+    },
+    {
+      "name": "宁波江荟151",
+      "open_date": "2019-02-01",
+      "area": "1.3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "宁波和义大道购物中心",
+      "open_date": "2009-09-01",
+      "area": "5.6万㎡",
+      "jun_daily_avg": "1.2万人次",
+      "weekday_avg": "1万人次",
+      "holiday_avg": "1.7万人次"
+    },
+    {
+      "name": "宁波恒一城市广场",
+      "open_date": "2021-01-15",
+      "area": "5.6万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "宁波集盒MR.BOX",
+      "open_date": "-",
+      "area": "-",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 80.0,
+      "within_1yr_pct": 22.5,
+      "1_3yr_pct": 65.0,
+      "over_3yr_pct": 12.5
+    },
+    {
+      "type": "购物",
+      "count": 85.0,
+      "within_1yr_pct": 23.5,
+      "1_3yr_pct": 68.2,
+      "over_3yr_pct": 8.2
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 17.0,
+      "within_1yr_pct": 41.2,
+      "1_3yr_pct": 58.8,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "教育培训",
+      "count": 10.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 30.0,
+      "over_3yr_pct": 20.0
+    },
+    {
+      "type": "生活服务",
+      "count": 23.0,
+      "within_1yr_pct": 34.8,
+      "1_3yr_pct": 47.8,
+      "over_3yr_pct": 17.4
+    },
+    {
+      "type": "运动健身",
+      "count": 5.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 60.0,
+      "over_3yr_pct": 40.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 6.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 16.7
+    }
+  ]
+}

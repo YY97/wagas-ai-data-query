@@ -1,0 +1,486 @@
+{
+  "name": "越洋广场",
+  "city": "上海市",
+  "address": "上海市静安区静安寺街道天禧八号越洋广场",
+  "lat": 31.222906,
+  "lng": 121.447832,
+  "overview": {
+    "score": 86.7,
+    "score_rank": "市内前30%",
+    "population_score": 77.8,
+    "area_score": 100.0,
+    "consumption_score": 90.1,
+    "industry_score": 86.6,
+    "annual_sales": "",
+    "annual_sales_unit": "",
+    "area_size_sqm": null,
+    "open_date": "",
+    "operator": "",
+    "brand": "",
+    "type": "",
+    "floors": ""
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "",
+    "annual_daily_rank": "",
+    "jun_total": null,
+    "jun_total_rank": "",
+    "jun_daily_avg": null,
+    "jun_daily_unit": "",
+    "jun_daily_rank": "",
+    "weekday_avg": null,
+    "weekday_unit": "",
+    "weekday_rank": "",
+    "holiday_avg": null,
+    "holiday_unit": "",
+    "holiday_rank": ""
+  },
+  "population": {
+    "residential": {
+      "500m": 1.4,
+      "1_5km": 21.5,
+      "3km": 97.6
+    },
+    "office": {
+      "500m": 5.8,
+      "1_5km": 28.2,
+      "3km": 104.0
+    },
+    "permanent": {
+      "500m": 3.7,
+      "1_5km": 27.1,
+      "3km": 114.5
+    }
+  },
+  "business": {
+    "competitors": 23.0,
+    "food": 713.0,
+    "shopping": 763.0,
+    "leisure": 36.0,
+    "education": 48.0,
+    "hotel": 87.0,
+    "services": 472.0,
+    "fitness": 44.0,
+    "auto": 35.0,
+    "total_stores": 2235.0,
+    "old_store_3yr_pct": 47.0
+  },
+  "nearby_poi": {
+    "business": 17.0,
+    "community": 1305.0,
+    "office": 214.0,
+    "school": 93.0,
+    "hospital": 209.0,
+    "transport": 10.0,
+    "scenic": 839.0
+  },
+  "demographics": {
+    "male_pct": 46.1,
+    "female_pct": null,
+    "education": {
+      "小学": 9.1,
+      "初中": 17.9,
+      "高中": 12.0,
+      "大专": 6.8,
+      "本科": 47.9,
+      "硕士": 4.7,
+      "博士": 1.6
+    },
+    "has_children_pct": null,
+    "no_children_pct": null
+  },
+  "scraped_at": "2026-07-31T12:11:41.610Z",
+  "nearby_restaurants": [
+    {
+      "brand": "浙一道(芮欧百货店)",
+      "address": "南京西路1601号芮欧百货F2层2C",
+      "distance": "25m"
+    },
+    {
+      "brand": "胡同(芮欧百货店)",
+      "address": "南京西路1601号芮欧百货2楼B座",
+      "distance": "32m"
+    },
+    {
+      "brand": "山缓缓火锅(上海芮欧百货店)",
+      "address": "芮欧百货3层3B(静安寺地铁站4号口步行170米)",
+      "distance": "33m"
+    },
+    {
+      "brand": "T9Tea(芮欧百货店)",
+      "address": "南京西路1601号芮欧百货1楼",
+      "distance": "46m"
+    },
+    {
+      "brand": "0566珈琲制作所·精品手冲咖啡(芮欧百货店)",
+      "address": "南京西路越洋广场商场(芮欧百货)1601号1层1D-1室",
+      "distance": "46m"
+    },
+    {
+      "brand": "浩海火烧云傣家菜(静安芮欧店)",
+      "address": "南京西路1601号芮欧百货4层4A室",
+      "distance": "47m"
+    },
+    {
+      "brand": "M Stand(上海芮欧百货店)",
+      "address": "南京西路1601号芮欧百货店B1层b114",
+      "distance": "48m"
+    },
+    {
+      "brand": "星巴克(越洋广场1F店)",
+      "address": "南京西路1601号越洋广场1层1I室",
+      "distance": "53m"
+    },
+    {
+      "brand": "namedcup小杯子咖啡(芮欧百货店)",
+      "address": "南京西路1601号芮欧百货F5层502-3天井中庭",
+      "distance": "56m"
+    },
+    {
+      "brand": "LUNEURS月乐诗法式早午餐&餐吧(芮欧百货店)",
+      "address": "静安寺芮欧百货1层",
+      "distance": "59m"
+    },
+    {
+      "brand": "浙一道(芮欧百货店)",
+      "address": "南京西路1601号芮欧百货F2层2C",
+      "distance": "25m"
+    },
+    {
+      "brand": "胡同(芮欧百货店)",
+      "address": "南京西路1601号芮欧百货2楼B座",
+      "distance": "32m"
+    },
+    {
+      "brand": "山缓缓火锅(上海芮欧百货店)",
+      "address": "芮欧百货3层3B(静安寺地铁站4号口步行170米)",
+      "distance": "33m"
+    },
+    {
+      "brand": "T9Tea(芮欧百货店)",
+      "address": "南京西路1601号芮欧百货1楼",
+      "distance": "46m"
+    },
+    {
+      "brand": "0566珈琲制作所·精品手冲咖啡(芮欧百货店)",
+      "address": "南京西路越洋广场商场(芮欧百货)1601号1层1D-1室",
+      "distance": "46m"
+    },
+    {
+      "brand": "浩海火烧云傣家菜(静安芮欧店)",
+      "address": "南京西路1601号芮欧百货4层4A室",
+      "distance": "47m"
+    },
+    {
+      "brand": "M Stand(上海芮欧百货店)",
+      "address": "南京西路1601号芮欧百货店B1层b114",
+      "distance": "48m"
+    },
+    {
+      "brand": "星巴克(越洋广场1F店)",
+      "address": "南京西路1601号越洋广场1层1I室",
+      "distance": "53m"
+    },
+    {
+      "brand": "namedcup小杯子咖啡(芮欧百货店)",
+      "address": "南京西路1601号芮欧百货F5层502-3天井中庭",
+      "distance": "56m"
+    },
+    {
+      "brand": "LUNEURS月乐诗法式早午餐&餐吧(芮欧百货店)",
+      "address": "静安寺芮欧百货1层",
+      "distance": "59m"
+    },
+    {
+      "brand": "浙一道(芮欧百货店)",
+      "address": "南京西路1601号芮欧百货F2层2C",
+      "distance": "25m"
+    },
+    {
+      "brand": "胡同(芮欧百货店)",
+      "address": "南京西路1601号芮欧百货2楼B座",
+      "distance": "32m"
+    },
+    {
+      "brand": "山缓缓火锅(上海芮欧百货店)",
+      "address": "芮欧百货3层3B(静安寺地铁站4号口步行170米)",
+      "distance": "33m"
+    },
+    {
+      "brand": "T9Tea(芮欧百货店)",
+      "address": "南京西路1601号芮欧百货1楼",
+      "distance": "46m"
+    },
+    {
+      "brand": "0566珈琲制作所·精品手冲咖啡(芮欧百货店)",
+      "address": "南京西路越洋广场商场(芮欧百货)1601号1层1D-1室",
+      "distance": "46m"
+    },
+    {
+      "brand": "浩海火烧云傣家菜(静安芮欧店)",
+      "address": "南京西路1601号芮欧百货4层4A室",
+      "distance": "47m"
+    },
+    {
+      "brand": "M Stand(上海芮欧百货店)",
+      "address": "南京西路1601号芮欧百货店B1层b114",
+      "distance": "48m"
+    },
+    {
+      "brand": "星巴克(越洋广场1F店)",
+      "address": "南京西路1601号越洋广场1层1I室",
+      "distance": "53m"
+    },
+    {
+      "brand": "namedcup小杯子咖啡(芮欧百货店)",
+      "address": "南京西路1601号芮欧百货F5层502-3天井中庭",
+      "distance": "56m"
+    },
+    {
+      "brand": "LUNEURS月乐诗法式早午餐&餐吧(芮欧百货店)",
+      "address": "静安寺芮欧百货1层",
+      "distance": "59m"
+    },
+    {
+      "brand": "浙一道(芮欧百货店)",
+      "address": "南京西路1601号芮欧百货F2层2C",
+      "distance": "25m"
+    },
+    {
+      "brand": "胡同(芮欧百货店)",
+      "address": "南京西路1601号芮欧百货2楼B座",
+      "distance": "32m"
+    },
+    {
+      "brand": "山缓缓火锅(上海芮欧百货店)",
+      "address": "芮欧百货3层3B(静安寺地铁站4号口步行170米)",
+      "distance": "33m"
+    },
+    {
+      "brand": "T9Tea(芮欧百货店)",
+      "address": "南京西路1601号芮欧百货1楼",
+      "distance": "46m"
+    },
+    {
+      "brand": "0566珈琲制作所·精品手冲咖啡(芮欧百货店)",
+      "address": "南京西路越洋广场商场(芮欧百货)1601号1层1D-1室",
+      "distance": "46m"
+    },
+    {
+      "brand": "浩海火烧云傣家菜(静安芮欧店)",
+      "address": "南京西路1601号芮欧百货4层4A室",
+      "distance": "47m"
+    },
+    {
+      "brand": "M Stand(上海芮欧百货店)",
+      "address": "南京西路1601号芮欧百货店B1层b114",
+      "distance": "48m"
+    },
+    {
+      "brand": "星巴克(越洋广场1F店)",
+      "address": "南京西路1601号越洋广场1层1I室",
+      "distance": "53m"
+    },
+    {
+      "brand": "namedcup小杯子咖啡(芮欧百货店)",
+      "address": "南京西路1601号芮欧百货F5层502-3天井中庭",
+      "distance": "56m"
+    },
+    {
+      "brand": "LUNEURS月乐诗法式早午餐&餐吧(芮欧百货店)",
+      "address": "静安寺芮欧百货1层",
+      "distance": "59m"
+    },
+    {
+      "brand": "浙一道(芮欧百货店)",
+      "address": "南京西路1601号芮欧百货F2层2C",
+      "distance": "25m"
+    },
+    {
+      "brand": "胡同(芮欧百货店)",
+      "address": "南京西路1601号芮欧百货2楼B座",
+      "distance": "32m"
+    },
+    {
+      "brand": "山缓缓火锅(上海芮欧百货店)",
+      "address": "芮欧百货3层3B(静安寺地铁站4号口步行170米)",
+      "distance": "33m"
+    },
+    {
+      "brand": "T9Tea(芮欧百货店)",
+      "address": "南京西路1601号芮欧百货1楼",
+      "distance": "46m"
+    },
+    {
+      "brand": "0566珈琲制作所·精品手冲咖啡(芮欧百货店)",
+      "address": "南京西路越洋广场商场(芮欧百货)1601号1层1D-1室",
+      "distance": "46m"
+    },
+    {
+      "brand": "浩海火烧云傣家菜(静安芮欧店)",
+      "address": "南京西路1601号芮欧百货4层4A室",
+      "distance": "47m"
+    },
+    {
+      "brand": "M Stand(上海芮欧百货店)",
+      "address": "南京西路1601号芮欧百货店B1层b114",
+      "distance": "48m"
+    },
+    {
+      "brand": "星巴克(越洋广场1F店)",
+      "address": "南京西路1601号越洋广场1层1I室",
+      "distance": "53m"
+    },
+    {
+      "brand": "namedcup小杯子咖啡(芮欧百货店)",
+      "address": "南京西路1601号芮欧百货F5层502-3天井中庭",
+      "distance": "56m"
+    },
+    {
+      "brand": "LUNEURS月乐诗法式早午餐&餐吧(芮欧百货店)",
+      "address": "静安寺芮欧百货1层",
+      "distance": "59m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海芮欧百货",
+      "open_date": "2011-01-01",
+      "area": "6.5万㎡",
+      "jun_daily_avg": "2.9万人次",
+      "weekday_avg": "2.7万人次",
+      "holiday_avg": "3.4万人次"
+    },
+    {
+      "name": "上海久光百货",
+      "open_date": "2004-09-04",
+      "area": "9.1万㎡",
+      "jun_daily_avg": "3.7万人次",
+      "weekday_avg": "3.3万人次",
+      "holiday_avg": "4.9万人次"
+    },
+    {
+      "name": "上海静安嘉里中心",
+      "open_date": "2013-01-01",
+      "area": "9.4万㎡",
+      "jun_daily_avg": "6万人次",
+      "weekday_avg": "5.5万人次",
+      "holiday_avg": "7.6万人次"
+    },
+    {
+      "name": "上海晶品Crystal Galleria",
+      "open_date": "2015-09-20",
+      "area": "7.3万㎡",
+      "jun_daily_avg": "3.6万人次",
+      "weekday_avg": "3.3万人次",
+      "holiday_avg": "4.5万人次"
+    },
+    {
+      "name": "上海1788square",
+      "open_date": "2013-04-18",
+      "area": "2.3万㎡",
+      "jun_daily_avg": "1.1万人次",
+      "weekday_avg": "1万人次",
+      "holiday_avg": "1.1万人次"
+    },
+    {
+      "name": "上海UX 88",
+      "open_date": "2013-01-01",
+      "area": "6000㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海商城",
+      "open_date": "1990-04-27",
+      "area": "3万㎡",
+      "jun_daily_avg": "1.2万人次",
+      "weekday_avg": "1.2万人次",
+      "holiday_avg": "1.3万人次"
+    },
+    {
+      "name": "上海JC PLAZA锦沧文华广场",
+      "open_date": "2022-08-18",
+      "area": "2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海恒隆广场",
+      "open_date": "2001-07-14",
+      "area": "11.4万㎡",
+      "jun_daily_avg": "2.2万人次",
+      "weekday_avg": "2.2万人次",
+      "holiday_avg": "2万人次"
+    },
+    {
+      "name": "上海金鹰国际购物广场",
+      "open_date": "2024-01-26",
+      "area": "3.8万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 713.0,
+      "within_1yr_pct": 22.6,
+      "1_3yr_pct": 31.6,
+      "over_3yr_pct": 45.9
+    },
+    {
+      "type": "购物",
+      "count": 763.0,
+      "within_1yr_pct": 20.2,
+      "1_3yr_pct": 25.7,
+      "over_3yr_pct": 54.1
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 73.0,
+      "within_1yr_pct": 35.6,
+      "1_3yr_pct": 27.4,
+      "over_3yr_pct": 37.0
+    },
+    {
+      "type": "教育培训",
+      "count": 48.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 31.3,
+      "over_3yr_pct": 43.8
+    },
+    {
+      "type": "酒店住宿",
+      "count": 87.0,
+      "within_1yr_pct": 39.1,
+      "1_3yr_pct": 21.8,
+      "over_3yr_pct": 39.1
+    },
+    {
+      "type": "生活服务",
+      "count": 472.0,
+      "within_1yr_pct": 29.9,
+      "1_3yr_pct": 30.1,
+      "over_3yr_pct": 40.0
+    },
+    {
+      "type": "运动健身",
+      "count": 44.0,
+      "within_1yr_pct": 29.5,
+      "1_3yr_pct": 38.6,
+      "over_3yr_pct": 31.8
+    },
+    {
+      "type": "车辆服务",
+      "count": 35.0,
+      "within_1yr_pct": 22.9,
+      "1_3yr_pct": 22.9,
+      "over_3yr_pct": 54.3
+    }
+  ]
+}

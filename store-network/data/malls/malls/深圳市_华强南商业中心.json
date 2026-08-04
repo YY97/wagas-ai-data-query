@@ -1,0 +1,472 @@
+{
+  "name": "华强南商业中心",
+  "city": "深圳市",
+  "address": "广东省深圳市福田区华强北路2009号(华强北地铁站B口步行190米)",
+  "lat": 22.544244,
+  "lng": 114.086243,
+  "overview": {
+    "score": 92.7,
+    "score_rank": "市内前30%",
+    "population_score": 86.5,
+    "area_score": 100.0,
+    "consumption_score": 84.4,
+    "industry_score": 92.7,
+    "annual_sales": "3",
+    "annual_sales_unit": "亿元",
+    "area_size_sqm": 8.0,
+    "open_date": "2003-10-01",
+    "operator": "茂业商业股份有限公司",
+    "brand": "茂业",
+    "type": "购物型",
+    "floors": "B1-L9"
+  },
+  "traffic": {
+    "annual_daily": 2.0,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第95",
+    "jun_total": 53.7,
+    "jun_total_rank": "市内商场第143名",
+    "jun_daily_avg": 1.8,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第143名",
+    "weekday_avg": 1.6,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第143名",
+    "holiday_avg": 2.3,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第146名"
+  },
+  "population": {
+    "residential": {
+      "500m": 3.4,
+      "1_5km": 29.7,
+      "3km": 93.1
+    },
+    "office": {
+      "500m": 9.1,
+      "1_5km": 28.3,
+      "3km": 79.8
+    },
+    "permanent": {
+      "500m": 5.9,
+      "1_5km": 31.4,
+      "3km": 94.3
+    }
+  },
+  "business": {
+    "competitors": 14.0,
+    "food": 817.0,
+    "shopping": 1191.0,
+    "leisure": 66.0,
+    "education": 43.0,
+    "hotel": 48.0,
+    "services": 434.0,
+    "fitness": 36.0,
+    "auto": 76.0,
+    "total_stores": 280.0,
+    "old_store_3yr_pct": 67.0
+  },
+  "nearby_poi": {
+    "business": 12.0,
+    "community": 377.0,
+    "office": 146.0,
+    "school": 50.0,
+    "hospital": 212.0,
+    "transport": 21.0,
+    "scenic": 263.0
+  },
+  "demographics": {
+    "male_pct": 47.2,
+    "female_pct": null,
+    "education": {
+      "小学": 12.0,
+      "初中": 21.4,
+      "高中": 11.9,
+      "大专": 9.0,
+      "本科": 41.2,
+      "硕士": 3.7,
+      "博士": 0.8
+    },
+    "has_children_pct": 58.9,
+    "no_children_pct": 41.1
+  },
+  "scraped_at": "2026-08-02T10:09:07.159Z",
+  "nearby_restaurants": [
+    {
+      "brand": "喜家德虾仁水饺(华强茂业店)",
+      "address": "华强北路2005号茂业天地负1层",
+      "distance": "6m"
+    },
+    {
+      "brand": "BONI堡尼(茂业天地店)",
+      "address": "茂业天地6楼BONI堡尼专柜",
+      "distance": "7m"
+    },
+    {
+      "brand": "新太二·鲜料川菜(深圳华强北茂业店)",
+      "address": "华强北街道华航社区茂业天地8楼太二酸菜鱼",
+      "distance": "7m"
+    },
+    {
+      "brand": "CesarBOWL牛油果轻食(华强北茂业店)",
+      "address": "华强北步行街与振兴路交叉口西南100米",
+      "distance": "8m"
+    },
+    {
+      "brand": "小菜园新徽菜(深圳福田茂业百货店)",
+      "address": "华强北路2009号茂业天地8层F08006X号商铺",
+      "distance": "8m"
+    },
+    {
+      "brand": "华记煲仔华·煲仔饭(华强北茂业天地店)",
+      "address": "华强北路2009号东方时代广场-负1层B01009X号",
+      "distance": "8m"
+    },
+    {
+      "brand": "费大厨辣椒炒肉(茂业店)",
+      "address": "茂业天地(华强北店)(华强北地铁站B口步行60米)",
+      "distance": "9m"
+    },
+    {
+      "brand": "楽哆啦铜锣烧",
+      "address": "茂业天地B1层B01012X号",
+      "distance": "9m"
+    },
+    {
+      "brand": "姜胖胖韩式自助烤肉(华强茂业店)",
+      "address": "华强北路2009号茂业天地9楼",
+      "distance": "9m"
+    },
+    {
+      "brand": "云海肴云南菜(华强北茂业天地店)",
+      "address": "华强北街道华航社区华强北路2009号东方时代广场8层F08002X号商铺",
+      "distance": "11m"
+    },
+    {
+      "brand": "喜家德虾仁水饺(华强茂业店)",
+      "address": "华强北路2005号茂业天地负1层",
+      "distance": "6m"
+    },
+    {
+      "brand": "BONI堡尼(茂业天地店)",
+      "address": "茂业天地6楼BONI堡尼专柜",
+      "distance": "7m"
+    },
+    {
+      "brand": "新太二·鲜料川菜(深圳华强北茂业店)",
+      "address": "华强北街道华航社区茂业天地8楼太二酸菜鱼",
+      "distance": "7m"
+    },
+    {
+      "brand": "CesarBOWL牛油果轻食(华强北茂业店)",
+      "address": "华强北步行街与振兴路交叉口西南100米",
+      "distance": "8m"
+    },
+    {
+      "brand": "小菜园新徽菜(深圳福田茂业百货店)",
+      "address": "华强北路2009号茂业天地8层F08006X号商铺",
+      "distance": "8m"
+    },
+    {
+      "brand": "华记煲仔华·煲仔饭(华强北茂业天地店)",
+      "address": "华强北路2009号东方时代广场-负1层B01009X号",
+      "distance": "8m"
+    },
+    {
+      "brand": "费大厨辣椒炒肉(茂业店)",
+      "address": "茂业天地(华强北店)(华强北地铁站B口步行60米)",
+      "distance": "9m"
+    },
+    {
+      "brand": "楽哆啦铜锣烧",
+      "address": "茂业天地B1层B01012X号",
+      "distance": "9m"
+    },
+    {
+      "brand": "姜胖胖韩式自助烤肉(华强茂业店)",
+      "address": "华强北路2009号茂业天地9楼",
+      "distance": "9m"
+    },
+    {
+      "brand": "云海肴云南菜(华强北茂业天地店)",
+      "address": "华强北街道华航社区华强北路2009号东方时代广场8层F08002X号商铺",
+      "distance": "11m"
+    },
+    {
+      "brand": "喜家德虾仁水饺(华强茂业店)",
+      "address": "华强北路2005号茂业天地负1层",
+      "distance": "6m"
+    },
+    {
+      "brand": "BONI堡尼(茂业天地店)",
+      "address": "茂业天地6楼BONI堡尼专柜",
+      "distance": "7m"
+    },
+    {
+      "brand": "新太二·鲜料川菜(深圳华强北茂业店)",
+      "address": "华强北街道华航社区茂业天地8楼太二酸菜鱼",
+      "distance": "7m"
+    },
+    {
+      "brand": "CesarBOWL牛油果轻食(华强北茂业店)",
+      "address": "华强北步行街与振兴路交叉口西南100米",
+      "distance": "8m"
+    },
+    {
+      "brand": "小菜园新徽菜(深圳福田茂业百货店)",
+      "address": "华强北路2009号茂业天地8层F08006X号商铺",
+      "distance": "8m"
+    },
+    {
+      "brand": "华记煲仔华·煲仔饭(华强北茂业天地店)",
+      "address": "华强北路2009号东方时代广场-负1层B01009X号",
+      "distance": "8m"
+    },
+    {
+      "brand": "费大厨辣椒炒肉(茂业店)",
+      "address": "茂业天地(华强北店)(华强北地铁站B口步行60米)",
+      "distance": "9m"
+    },
+    {
+      "brand": "楽哆啦铜锣烧",
+      "address": "茂业天地B1层B01012X号",
+      "distance": "9m"
+    },
+    {
+      "brand": "姜胖胖韩式自助烤肉(华强茂业店)",
+      "address": "华强北路2009号茂业天地9楼",
+      "distance": "9m"
+    },
+    {
+      "brand": "云海肴云南菜(华强北茂业天地店)",
+      "address": "华强北街道华航社区华强北路2009号东方时代广场8层F08002X号商铺",
+      "distance": "11m"
+    },
+    {
+      "brand": "喜家德虾仁水饺(华强茂业店)",
+      "address": "华强北路2005号茂业天地负1层",
+      "distance": "6m"
+    },
+    {
+      "brand": "BONI堡尼(茂业天地店)",
+      "address": "茂业天地6楼BONI堡尼专柜",
+      "distance": "7m"
+    },
+    {
+      "brand": "新太二·鲜料川菜(深圳华强北茂业店)",
+      "address": "华强北街道华航社区茂业天地8楼太二酸菜鱼",
+      "distance": "7m"
+    },
+    {
+      "brand": "CesarBOWL牛油果轻食(华强北茂业店)",
+      "address": "华强北步行街与振兴路交叉口西南100米",
+      "distance": "8m"
+    },
+    {
+      "brand": "小菜园新徽菜(深圳福田茂业百货店)",
+      "address": "华强北路2009号茂业天地8层F08006X号商铺",
+      "distance": "8m"
+    },
+    {
+      "brand": "华记煲仔华·煲仔饭(华强北茂业天地店)",
+      "address": "华强北路2009号东方时代广场-负1层B01009X号",
+      "distance": "8m"
+    },
+    {
+      "brand": "费大厨辣椒炒肉(茂业店)",
+      "address": "茂业天地(华强北店)(华强北地铁站B口步行60米)",
+      "distance": "9m"
+    },
+    {
+      "brand": "楽哆啦铜锣烧",
+      "address": "茂业天地B1层B01012X号",
+      "distance": "9m"
+    },
+    {
+      "brand": "姜胖胖韩式自助烤肉(华强茂业店)",
+      "address": "华强北路2009号茂业天地9楼",
+      "distance": "9m"
+    },
+    {
+      "brand": "云海肴云南菜(华强北茂业天地店)",
+      "address": "华强北街道华航社区华强北路2009号东方时代广场8层F08002X号商铺",
+      "distance": "11m"
+    },
+    {
+      "brand": "喜家德虾仁水饺(华强茂业店)",
+      "address": "华强北路2005号茂业天地负1层",
+      "distance": "6m"
+    },
+    {
+      "brand": "BONI堡尼(茂业天地店)",
+      "address": "茂业天地6楼BONI堡尼专柜",
+      "distance": "7m"
+    },
+    {
+      "brand": "新太二·鲜料川菜(深圳华强北茂业店)",
+      "address": "华强北街道华航社区茂业天地8楼太二酸菜鱼",
+      "distance": "7m"
+    },
+    {
+      "brand": "CesarBOWL牛油果轻食(华强北茂业店)",
+      "address": "华强北步行街与振兴路交叉口西南100米",
+      "distance": "8m"
+    },
+    {
+      "brand": "小菜园新徽菜(深圳福田茂业百货店)",
+      "address": "华强北路2009号茂业天地8层F08006X号商铺",
+      "distance": "8m"
+    },
+    {
+      "brand": "华记煲仔华·煲仔饭(华强北茂业天地店)",
+      "address": "华强北路2009号东方时代广场-负1层B01009X号",
+      "distance": "8m"
+    },
+    {
+      "brand": "费大厨辣椒炒肉(茂业店)",
+      "address": "茂业天地(华强北店)(华强北地铁站B口步行60米)",
+      "distance": "9m"
+    },
+    {
+      "brand": "楽哆啦铜锣烧",
+      "address": "茂业天地B1层B01012X号",
+      "distance": "9m"
+    },
+    {
+      "brand": "姜胖胖韩式自助烤肉(华强茂业店)",
+      "address": "华强北路2009号茂业天地9楼",
+      "distance": "9m"
+    },
+    {
+      "brand": "云海肴云南菜(华强北茂业天地店)",
+      "address": "华强北街道华航社区华强北路2009号东方时代广场8层F08002X号商铺",
+      "distance": "11m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "深圳NICO女人名店",
+      "open_date": "1997-05-01",
+      "area": "1.1万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "深圳紫荆城(振兴中路店)",
+      "open_date": "2012-08-01",
+      "area": "7000㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "深圳群星购物",
+      "open_date": "1995",
+      "area": "1.2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "深圳中航城君尚购物中心",
+      "open_date": "2021-05-01",
+      "area": "18万㎡",
+      "jun_daily_avg": "8.7万人次",
+      "weekday_avg": "8.3万人次",
+      "holiday_avg": "9.7万人次"
+    },
+    {
+      "name": "深圳世纪汇",
+      "open_date": "2014-01-01",
+      "area": "5.9万㎡",
+      "jun_daily_avg": "3.4万人次",
+      "weekday_avg": "3.4万人次",
+      "holiday_avg": "3.3万人次"
+    },
+    {
+      "name": "深圳茂业百货(深南店)",
+      "open_date": "2004-12-07",
+      "area": "2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "深圳汇时代",
+      "open_date": "2019-10-01",
+      "area": "4.5万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "深圳华强南商业中心",
+      "open_date": "2024-09-26",
+      "area": "9.1万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "深圳中信信荟",
+      "open_date": "2024-04-30",
+      "area": "3万㎡",
+      "jun_daily_avg": "2.7万人次",
+      "weekday_avg": "2.9万人次",
+      "holiday_avg": "2.3万人次"
+    },
+    {
+      "name": "深圳百花新天地",
+      "open_date": "2007-12-01",
+      "area": "3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 52.0,
+      "within_1yr_pct": 17.3,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 57.7
+    },
+    {
+      "type": "购物",
+      "count": 214.0,
+      "within_1yr_pct": 14.0,
+      "1_3yr_pct": 15.4,
+      "over_3yr_pct": 70.6
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 4.0,
+      "within_1yr_pct": 75.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 25.0
+    },
+    {
+      "type": "生活服务",
+      "count": 8.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "运动健身",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    }
+  ]
+}

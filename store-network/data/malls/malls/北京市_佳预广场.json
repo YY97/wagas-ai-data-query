@@ -1,0 +1,430 @@
+{
+  "name": "佳预广场",
+  "city": "北京市",
+  "address": "北京市大兴区西红门镇嘉悦广场",
+  "lat": 39.786903,
+  "lng": 116.323649,
+  "overview": {
+    "score": 84.0,
+    "score_rank": "市内前30%",
+    "population_score": 65.5,
+    "area_score": 98.0,
+    "consumption_score": 60.0,
+    "industry_score": 84.0,
+    "annual_sales": "",
+    "annual_sales_unit": "",
+    "area_size_sqm": null,
+    "open_date": "",
+    "operator": "",
+    "brand": "",
+    "type": "",
+    "floors": ""
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "",
+    "annual_daily_rank": "",
+    "jun_total": null,
+    "jun_total_rank": "",
+    "jun_daily_avg": null,
+    "jun_daily_unit": "",
+    "jun_daily_rank": "",
+    "weekday_avg": null,
+    "weekday_unit": "",
+    "weekday_rank": "",
+    "holiday_avg": null,
+    "holiday_unit": "",
+    "holiday_rank": ""
+  },
+  "population": {
+    "residential": {
+      "500m": 3200.0,
+      "1_5km": 7.5,
+      "3km": 28.6
+    },
+    "office": {
+      "500m": 1.9,
+      "1_5km": 4.0,
+      "3km": 13.2
+    },
+    "permanent": {
+      "500m": 1.9,
+      "1_5km": 8.3,
+      "3km": 28.3
+    }
+  },
+  "business": {
+    "competitors": 7.0,
+    "food": 296.0,
+    "shopping": 392.0,
+    "leisure": 59.0,
+    "education": 30.0,
+    "hotel": 8.0,
+    "services": 236.0,
+    "fitness": 24.0,
+    "auto": 37.0,
+    "total_stores": 1096.0,
+    "old_store_3yr_pct": 44.0
+  },
+  "nearby_poi": {
+    "business": 3.0,
+    "community": 143.0,
+    "office": 10.0,
+    "school": 8.0,
+    "hospital": 22.0,
+    "transport": 3.0,
+    "scenic": 44.0
+  },
+  "demographics": {
+    "male_pct": 51.3,
+    "female_pct": null,
+    "education": {
+      "小学": 10.2,
+      "初中": 17.1,
+      "高中": 11.1,
+      "大专": 8.1,
+      "本科": 47.4,
+      "硕士": 5.1,
+      "博士": 1.0
+    },
+    "has_children_pct": null,
+    "no_children_pct": null
+  },
+  "scraped_at": "2026-07-31T18:07:19.607Z",
+  "nearby_restaurants": [
+    {
+      "brand": "食光里馄饨钵钵鸡",
+      "address": "欣美街9号院嘉悦广场B1层",
+      "distance": "6m"
+    },
+    {
+      "brand": "姥姥很忙·出东北卖盒饭",
+      "address": "下沉广场(嘉悦广场店)",
+      "distance": "8m"
+    },
+    {
+      "brand": "北京田野园香餐饮(嘉悦广场店)",
+      "address": "西红门镇欣美街9号院嘉悦广场",
+      "distance": "8m"
+    },
+    {
+      "brand": "广东记忆(西红门店)",
+      "address": "下沉广场(嘉悦广场店)",
+      "distance": "10m"
+    },
+    {
+      "brand": "优优稻香家庭味自助快餐(嘉悦广场店)",
+      "address": "宏业路9号院嘉悦广场9号楼B1层",
+      "distance": "11m"
+    },
+    {
+      "brand": "可味美食城(嘉悦广场店)",
+      "address": "下沉广场(嘉悦广场店)",
+      "distance": "11m"
+    },
+    {
+      "brand": "良雪LANSOO木糖醇生日蛋糕(西红门店)",
+      "address": "北京城区CDD创意港嘉悦广场大兴区宏业路9号院4号",
+      "distance": "14m"
+    },
+    {
+      "brand": "小谷姐姐麻辣拌·麻辣烫(红桥店)",
+      "address": "龙悦道93号",
+      "distance": "15m"
+    },
+    {
+      "brand": "华莱士·全鸡汉堡(西红门店)",
+      "address": "西红门镇宏业路9号院嘉悦中心9号楼1层1010号",
+      "distance": "17m"
+    },
+    {
+      "brand": "星九记港式茶档",
+      "address": "北京城区北京城区北京市大兴区宏业路9号院9幢-1层-1004",
+      "distance": "19m"
+    },
+    {
+      "brand": "食光里馄饨钵钵鸡",
+      "address": "欣美街9号院嘉悦广场B1层",
+      "distance": "6m"
+    },
+    {
+      "brand": "姥姥很忙·出东北卖盒饭",
+      "address": "下沉广场(嘉悦广场店)",
+      "distance": "8m"
+    },
+    {
+      "brand": "北京田野园香餐饮(嘉悦广场店)",
+      "address": "西红门镇欣美街9号院嘉悦广场",
+      "distance": "8m"
+    },
+    {
+      "brand": "广东记忆(西红门店)",
+      "address": "下沉广场(嘉悦广场店)",
+      "distance": "10m"
+    },
+    {
+      "brand": "优优稻香家庭味自助快餐(嘉悦广场店)",
+      "address": "宏业路9号院嘉悦广场9号楼B1层",
+      "distance": "11m"
+    },
+    {
+      "brand": "可味美食城(嘉悦广场店)",
+      "address": "下沉广场(嘉悦广场店)",
+      "distance": "11m"
+    },
+    {
+      "brand": "良雪LANSOO木糖醇生日蛋糕(西红门店)",
+      "address": "北京城区CDD创意港嘉悦广场大兴区宏业路9号院4号",
+      "distance": "14m"
+    },
+    {
+      "brand": "小谷姐姐麻辣拌·麻辣烫(红桥店)",
+      "address": "龙悦道93号",
+      "distance": "15m"
+    },
+    {
+      "brand": "华莱士·全鸡汉堡(西红门店)",
+      "address": "西红门镇宏业路9号院嘉悦中心9号楼1层1010号",
+      "distance": "17m"
+    },
+    {
+      "brand": "星九记港式茶档",
+      "address": "北京城区北京城区北京市大兴区宏业路9号院9幢-1层-1004",
+      "distance": "19m"
+    },
+    {
+      "brand": "食光里馄饨钵钵鸡",
+      "address": "欣美街9号院嘉悦广场B1层",
+      "distance": "6m"
+    },
+    {
+      "brand": "姥姥很忙·出东北卖盒饭",
+      "address": "下沉广场(嘉悦广场店)",
+      "distance": "8m"
+    },
+    {
+      "brand": "北京田野园香餐饮(嘉悦广场店)",
+      "address": "西红门镇欣美街9号院嘉悦广场",
+      "distance": "8m"
+    },
+    {
+      "brand": "广东记忆(西红门店)",
+      "address": "下沉广场(嘉悦广场店)",
+      "distance": "10m"
+    },
+    {
+      "brand": "优优稻香家庭味自助快餐(嘉悦广场店)",
+      "address": "宏业路9号院嘉悦广场9号楼B1层",
+      "distance": "11m"
+    },
+    {
+      "brand": "可味美食城(嘉悦广场店)",
+      "address": "下沉广场(嘉悦广场店)",
+      "distance": "11m"
+    },
+    {
+      "brand": "良雪LANSOO木糖醇生日蛋糕(西红门店)",
+      "address": "北京城区CDD创意港嘉悦广场大兴区宏业路9号院4号",
+      "distance": "14m"
+    },
+    {
+      "brand": "小谷姐姐麻辣拌·麻辣烫(红桥店)",
+      "address": "龙悦道93号",
+      "distance": "15m"
+    },
+    {
+      "brand": "华莱士·全鸡汉堡(西红门店)",
+      "address": "西红门镇宏业路9号院嘉悦中心9号楼1层1010号",
+      "distance": "17m"
+    },
+    {
+      "brand": "星九记港式茶档",
+      "address": "北京城区北京城区北京市大兴区宏业路9号院9幢-1层-1004",
+      "distance": "19m"
+    },
+    {
+      "brand": "食光里馄饨钵钵鸡",
+      "address": "欣美街9号院嘉悦广场B1层",
+      "distance": "6m"
+    },
+    {
+      "brand": "姥姥很忙·出东北卖盒饭",
+      "address": "下沉广场(嘉悦广场店)",
+      "distance": "8m"
+    },
+    {
+      "brand": "北京田野园香餐饮(嘉悦广场店)",
+      "address": "西红门镇欣美街9号院嘉悦广场",
+      "distance": "8m"
+    },
+    {
+      "brand": "广东记忆(西红门店)",
+      "address": "下沉广场(嘉悦广场店)",
+      "distance": "10m"
+    },
+    {
+      "brand": "优优稻香家庭味自助快餐(嘉悦广场店)",
+      "address": "宏业路9号院嘉悦广场9号楼B1层",
+      "distance": "11m"
+    },
+    {
+      "brand": "可味美食城(嘉悦广场店)",
+      "address": "下沉广场(嘉悦广场店)",
+      "distance": "11m"
+    },
+    {
+      "brand": "良雪LANSOO木糖醇生日蛋糕(西红门店)",
+      "address": "北京城区CDD创意港嘉悦广场大兴区宏业路9号院4号",
+      "distance": "14m"
+    },
+    {
+      "brand": "小谷姐姐麻辣拌·麻辣烫(红桥店)",
+      "address": "龙悦道93号",
+      "distance": "15m"
+    },
+    {
+      "brand": "华莱士·全鸡汉堡(西红门店)",
+      "address": "西红门镇宏业路9号院嘉悦中心9号楼1层1010号",
+      "distance": "17m"
+    },
+    {
+      "brand": "星九记港式茶档",
+      "address": "北京城区北京城区北京市大兴区宏业路9号院9幢-1层-1004",
+      "distance": "19m"
+    },
+    {
+      "brand": "食光里馄饨钵钵鸡",
+      "address": "欣美街9号院嘉悦广场B1层",
+      "distance": "6m"
+    },
+    {
+      "brand": "姥姥很忙·出东北卖盒饭",
+      "address": "下沉广场(嘉悦广场店)",
+      "distance": "8m"
+    },
+    {
+      "brand": "北京田野园香餐饮(嘉悦广场店)",
+      "address": "西红门镇欣美街9号院嘉悦广场",
+      "distance": "8m"
+    },
+    {
+      "brand": "广东记忆(西红门店)",
+      "address": "下沉广场(嘉悦广场店)",
+      "distance": "10m"
+    },
+    {
+      "brand": "优优稻香家庭味自助快餐(嘉悦广场店)",
+      "address": "宏业路9号院嘉悦广场9号楼B1层",
+      "distance": "11m"
+    },
+    {
+      "brand": "可味美食城(嘉悦广场店)",
+      "address": "下沉广场(嘉悦广场店)",
+      "distance": "11m"
+    },
+    {
+      "brand": "良雪LANSOO木糖醇生日蛋糕(西红门店)",
+      "address": "北京城区CDD创意港嘉悦广场大兴区宏业路9号院4号",
+      "distance": "14m"
+    },
+    {
+      "brand": "小谷姐姐麻辣拌·麻辣烫(红桥店)",
+      "address": "龙悦道93号",
+      "distance": "15m"
+    },
+    {
+      "brand": "华莱士·全鸡汉堡(西红门店)",
+      "address": "西红门镇宏业路9号院嘉悦中心9号楼1层1010号",
+      "distance": "17m"
+    },
+    {
+      "brand": "星九记港式茶档",
+      "address": "北京城区北京城区北京市大兴区宏业路9号院9幢-1层-1004",
+      "distance": "19m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "北京荟聚购物中心",
+      "open_date": "2014-12-19",
+      "area": "21万㎡",
+      "jun_daily_avg": "17万人次",
+      "weekday_avg": "13.9万人次",
+      "holiday_avg": "25.5万人次"
+    },
+    {
+      "name": "北京西红门新光界",
+      "open_date": "2022-12-24",
+      "area": "5.5万㎡",
+      "jun_daily_avg": "5.7万人次",
+      "weekday_avg": "4.5万人次",
+      "holiday_avg": "9万人次"
+    },
+    {
+      "name": "北京鸿坤广场购物中心",
+      "open_date": "2014-12-20",
+      "area": "14万㎡",
+      "jun_daily_avg": "2.3万人次",
+      "weekday_avg": "2.1万人次",
+      "holiday_avg": "2.8万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 296.0,
+      "within_1yr_pct": 24.7,
+      "1_3yr_pct": 29.4,
+      "over_3yr_pct": 45.9
+    },
+    {
+      "type": "购物",
+      "count": 392.0,
+      "within_1yr_pct": 14.3,
+      "1_3yr_pct": 36.2,
+      "over_3yr_pct": 49.5
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 73.0,
+      "within_1yr_pct": 32.9,
+      "1_3yr_pct": 34.2,
+      "over_3yr_pct": 32.9
+    },
+    {
+      "type": "教育培训",
+      "count": 30.0,
+      "within_1yr_pct": 13.3,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 36.7
+    },
+    {
+      "type": "酒店住宿",
+      "count": 8.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 25.0
+    },
+    {
+      "type": "生活服务",
+      "count": 236.0,
+      "within_1yr_pct": 28.8,
+      "1_3yr_pct": 35.2,
+      "over_3yr_pct": 36.0
+    },
+    {
+      "type": "运动健身",
+      "count": 24.0,
+      "within_1yr_pct": 12.5,
+      "1_3yr_pct": 37.5,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 37.0,
+      "within_1yr_pct": 10.8,
+      "1_3yr_pct": 51.4,
+      "over_3yr_pct": 37.8
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "name": "东苑丽宝广场",
+  "city": "上海市",
+  "address": "上海市闵行区莘松路58号",
+  "lat": 31.109258,
+  "lng": 121.377259,
+  "overview": {
+    "score": 87.0,
+    "score_rank": "市内前30%",
+    "population_score": 89.1,
+    "area_score": 90.8,
+    "consumption_score": 72.9,
+    "industry_score": 87.0,
+    "annual_sales": "东苑丽宝广场是一座集高端购物中心、五星级酒店、甲级办公楼、高档公寓等多种业态于一体的综合性商业地标。广场以“文化创意生活空间”为定位，旨在为消费者提供一个集购物、餐饮、休闲、娱乐等功能为一体的高品质消费环境",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 2.5,
+    "open_date": "2015-01-01",
+    "operator": "上海东苑房地产开发(集团)有限公司",
+    "brand": "",
+    "type": "综合型",
+    "floors": "L1-L6"
+  },
+  "traffic": {
+    "annual_daily": 7151.0,
+    "annual_daily_unit": "人次",
+    "annual_daily_rank": "市内第311",
+    "jun_total": 16.6,
+    "jun_total_rank": "市内商场第415名",
+    "jun_daily_avg": 5524.0,
+    "jun_daily_unit": "人次",
+    "jun_daily_rank": "市内商场第415名",
+    "weekday_avg": 5544.0,
+    "weekday_unit": "人次",
+    "weekday_rank": "市内商场第402名",
+    "holiday_avg": 5468.0,
+    "holiday_unit": "人次",
+    "holiday_rank": "市内商场第424名"
+  },
+  "population": {
+    "residential": {
+      "500m": 2.3,
+      "1_5km": 17.8,
+      "3km": 59.6
+    },
+    "office": {
+      "500m": 2.1,
+      "1_5km": 9.5,
+      "3km": 29.0
+    },
+    "permanent": {
+      "500m": 2.9,
+      "1_5km": 18.4,
+      "3km": 59.2
+    }
+  },
+  "business": {
+    "competitors": 8.0,
+    "food": 291.0,
+    "shopping": 305.0,
+    "leisure": 29.0,
+    "education": 68.0,
+    "hotel": 33.0,
+    "services": 226.0,
+    "fitness": 27.0,
+    "auto": 12.0,
+    "total_stores": 66.0,
+    "old_store_3yr_pct": 59.0
+  },
+  "nearby_poi": {
+    "business": 3.0,
+    "community": 280.0,
+    "office": 49.0,
+    "school": 40.0,
+    "hospital": 35.0,
+    "transport": 16.0,
+    "scenic": 96.0
+  },
+  "demographics": {
+    "male_pct": 52.8,
+    "female_pct": null,
+    "education": {
+      "小学": 8.8,
+      "初中": 16.1,
+      "高中": 11.0,
+      "大专": 7.7,
+      "本科": 49.6,
+      "硕士": 5.4,
+      "博士": 1.4
+    },
+    "has_children_pct": 63.9,
+    "no_children_pct": 36.1
+  },
+  "scraped_at": "2026-08-02T03:04:24.589Z",
+  "nearby_restaurants": [
+    {
+      "brand": "沃小馆(莘庄店)",
+      "address": "莘庄镇莘沥路185号2室",
+      "distance": "499m"
+    }
+  ],
+  "nearby_malls": [],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 24.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 20.8,
+      "over_3yr_pct": 54.2
+    },
+    {
+      "type": "购物",
+      "count": 16.0,
+      "within_1yr_pct": 12.5,
+      "1_3yr_pct": 12.5,
+      "over_3yr_pct": 75.0
+    },
+    {
+      "type": "教育培训",
+      "count": 10.0,
+      "within_1yr_pct": 30.0,
+      "1_3yr_pct": 20.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    },
+    {
+      "type": "生活服务",
+      "count": 11.0,
+      "within_1yr_pct": 9.1,
+      "1_3yr_pct": 36.4,
+      "over_3yr_pct": 54.5
+    },
+    {
+      "type": "运动健身",
+      "count": 3.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 33.3
+    },
+    {
+      "type": "车辆服务",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    }
+  ]
+}

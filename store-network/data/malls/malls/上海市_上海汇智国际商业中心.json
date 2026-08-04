@@ -1,0 +1,415 @@
+{
+  "name": "上海汇智国际商业中心",
+  "city": "上海市",
+  "address": "上海市浦东新区金科路3057号",
+  "lat": 31.203341,
+  "lng": 121.601601,
+  "overview": {
+    "score": 94.5,
+    "score_rank": "市内前30%",
+    "population_score": 67.8,
+    "area_score": 77.2,
+    "consumption_score": 89.0,
+    "industry_score": 94.7,
+    "annual_sales": "汇智国际商业中心属于地铁上盖项目，集星级酒店、大型超市、国际影院、餐饮娱乐、时尚购物于一体，商场定位中高端商务人群和居住人群",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 6.39,
+    "open_date": "2014-12-24",
+    "operator": "上海浦东软件园股份有限公司",
+    "brand": "",
+    "type": "美食型",
+    "floors": "B2-L5"
+  },
+  "traffic": {
+    "annual_daily": 3.68,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第58",
+    "jun_total": 102.1,
+    "jun_total_rank": "市内商场第120名",
+    "jun_daily_avg": 3.4,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第120名",
+    "weekday_avg": 3.4,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第104名",
+    "holiday_avg": 3.4,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第145名"
+  },
+  "population": {
+    "residential": {
+      "500m": 6500.0,
+      "1_5km": 6.9,
+      "3km": 22.9
+    },
+    "office": {
+      "500m": 3.3,
+      "1_5km": 12.1,
+      "3km": 36.2
+    },
+    "permanent": {
+      "500m": 1.9,
+      "1_5km": 7.3,
+      "3km": 22.7
+    }
+  },
+  "business": {
+    "competitors": 10.0,
+    "food": 203.0,
+    "shopping": 143.0,
+    "leisure": 20.0,
+    "education": 30.0,
+    "hotel": 1.0,
+    "services": 67.0,
+    "fitness": 13.0,
+    "auto": 34.0,
+    "total_stores": 154.0,
+    "old_store_3yr_pct": 56.0
+  },
+  "nearby_poi": {
+    "business": 2.0,
+    "community": 134.0,
+    "office": 67.0,
+    "school": 13.0,
+    "hospital": 20.0,
+    "transport": 8.0,
+    "scenic": 66.0
+  },
+  "demographics": {
+    "male_pct": 51.9,
+    "female_pct": null,
+    "education": {
+      "小学": 7.2,
+      "初中": 13.9,
+      "高中": 11.2,
+      "大专": 6.6,
+      "本科": 47.0,
+      "硕士": 12.3,
+      "博士": 1.8
+    },
+    "has_children_pct": 58.8,
+    "no_children_pct": 41.2
+  },
+  "scraped_at": "2026-07-31T16:44:22.529Z",
+  "nearby_restaurants": [
+    {
+      "brand": "胡子大厨(汇智国际商业中心店)",
+      "address": "金科路3057号汇智国际商业中心B1层",
+      "distance": "4m"
+    },
+    {
+      "brand": "很久以前羊肉串(张江汇智店)",
+      "address": "金科路3057号汇智国际商业中心3层",
+      "distance": "5m"
+    },
+    {
+      "brand": "兢杰冰室港式餐厅(汇智中心店)",
+      "address": "金科路3057号汇智国际商业中心B1层",
+      "distance": "6m"
+    },
+    {
+      "brand": "胖哥俩肉蟹煲(上海汇智店)",
+      "address": "张江镇金科路3057号汇智国际商业中心",
+      "distance": "6m"
+    },
+    {
+      "brand": "八合里潮汕鲜牛肉火锅(上海汇智广场店)",
+      "address": "金科路3057号汇智国际商业中心3层C3-6室",
+      "distance": "7m"
+    },
+    {
+      "brand": "苏小柳点心(汇智广场分院)",
+      "address": "汇智国际商业中心B1-23室",
+      "distance": "10m"
+    },
+    {
+      "brand": "关东小磨东北菜(汇智国际商业中心店)",
+      "address": "中国(上海)自由贸易试验区金科路3057号5层C5-30室",
+      "distance": "10m"
+    },
+    {
+      "brand": "老灶福手作·鲜货火锅(汇智国际商业中心店)",
+      "address": "祖冲之路与金科路交叉口东南120米",
+      "distance": "13m"
+    },
+    {
+      "brand": "读酥世家(汇智广场店)",
+      "address": "金科路3057号汇智国际商业中心B1层",
+      "distance": "21m"
+    },
+    {
+      "brand": "牛New寿喜烧(张江店)",
+      "address": "金科路3057号汇智国际中心5F(金科路地铁站2号口旁)",
+      "distance": "21m"
+    },
+    {
+      "brand": "胡子大厨(汇智国际商业中心店)",
+      "address": "金科路3057号汇智国际商业中心B1层",
+      "distance": "4m"
+    },
+    {
+      "brand": "很久以前羊肉串(张江汇智店)",
+      "address": "金科路3057号汇智国际商业中心3层",
+      "distance": "5m"
+    },
+    {
+      "brand": "兢杰冰室港式餐厅(汇智中心店)",
+      "address": "金科路3057号汇智国际商业中心B1层",
+      "distance": "6m"
+    },
+    {
+      "brand": "胖哥俩肉蟹煲(上海汇智店)",
+      "address": "张江镇金科路3057号汇智国际商业中心",
+      "distance": "6m"
+    },
+    {
+      "brand": "八合里潮汕鲜牛肉火锅(上海汇智广场店)",
+      "address": "金科路3057号汇智国际商业中心3层C3-6室",
+      "distance": "7m"
+    },
+    {
+      "brand": "苏小柳点心(汇智广场分院)",
+      "address": "汇智国际商业中心B1-23室",
+      "distance": "10m"
+    },
+    {
+      "brand": "关东小磨东北菜(汇智国际商业中心店)",
+      "address": "中国(上海)自由贸易试验区金科路3057号5层C5-30室",
+      "distance": "10m"
+    },
+    {
+      "brand": "老灶福手作·鲜货火锅(汇智国际商业中心店)",
+      "address": "祖冲之路与金科路交叉口东南120米",
+      "distance": "13m"
+    },
+    {
+      "brand": "读酥世家(汇智广场店)",
+      "address": "金科路3057号汇智国际商业中心B1层",
+      "distance": "21m"
+    },
+    {
+      "brand": "牛New寿喜烧(张江店)",
+      "address": "金科路3057号汇智国际中心5F(金科路地铁站2号口旁)",
+      "distance": "21m"
+    },
+    {
+      "brand": "胡子大厨(汇智国际商业中心店)",
+      "address": "金科路3057号汇智国际商业中心B1层",
+      "distance": "4m"
+    },
+    {
+      "brand": "很久以前羊肉串(张江汇智店)",
+      "address": "金科路3057号汇智国际商业中心3层",
+      "distance": "5m"
+    },
+    {
+      "brand": "兢杰冰室港式餐厅(汇智中心店)",
+      "address": "金科路3057号汇智国际商业中心B1层",
+      "distance": "6m"
+    },
+    {
+      "brand": "胖哥俩肉蟹煲(上海汇智店)",
+      "address": "张江镇金科路3057号汇智国际商业中心",
+      "distance": "6m"
+    },
+    {
+      "brand": "八合里潮汕鲜牛肉火锅(上海汇智广场店)",
+      "address": "金科路3057号汇智国际商业中心3层C3-6室",
+      "distance": "7m"
+    },
+    {
+      "brand": "苏小柳点心(汇智广场分院)",
+      "address": "汇智国际商业中心B1-23室",
+      "distance": "10m"
+    },
+    {
+      "brand": "关东小磨东北菜(汇智国际商业中心店)",
+      "address": "中国(上海)自由贸易试验区金科路3057号5层C5-30室",
+      "distance": "10m"
+    },
+    {
+      "brand": "老灶福手作·鲜货火锅(汇智国际商业中心店)",
+      "address": "祖冲之路与金科路交叉口东南120米",
+      "distance": "13m"
+    },
+    {
+      "brand": "读酥世家(汇智广场店)",
+      "address": "金科路3057号汇智国际商业中心B1层",
+      "distance": "21m"
+    },
+    {
+      "brand": "牛New寿喜烧(张江店)",
+      "address": "金科路3057号汇智国际中心5F(金科路地铁站2号口旁)",
+      "distance": "21m"
+    },
+    {
+      "brand": "胡子大厨(汇智国际商业中心店)",
+      "address": "金科路3057号汇智国际商业中心B1层",
+      "distance": "4m"
+    },
+    {
+      "brand": "很久以前羊肉串(张江汇智店)",
+      "address": "金科路3057号汇智国际商业中心3层",
+      "distance": "5m"
+    },
+    {
+      "brand": "兢杰冰室港式餐厅(汇智中心店)",
+      "address": "金科路3057号汇智国际商业中心B1层",
+      "distance": "6m"
+    },
+    {
+      "brand": "胖哥俩肉蟹煲(上海汇智店)",
+      "address": "张江镇金科路3057号汇智国际商业中心",
+      "distance": "6m"
+    },
+    {
+      "brand": "八合里潮汕鲜牛肉火锅(上海汇智广场店)",
+      "address": "金科路3057号汇智国际商业中心3层C3-6室",
+      "distance": "7m"
+    },
+    {
+      "brand": "苏小柳点心(汇智广场分院)",
+      "address": "汇智国际商业中心B1-23室",
+      "distance": "10m"
+    },
+    {
+      "brand": "关东小磨东北菜(汇智国际商业中心店)",
+      "address": "中国(上海)自由贸易试验区金科路3057号5层C5-30室",
+      "distance": "10m"
+    },
+    {
+      "brand": "老灶福手作·鲜货火锅(汇智国际商业中心店)",
+      "address": "祖冲之路与金科路交叉口东南120米",
+      "distance": "13m"
+    },
+    {
+      "brand": "读酥世家(汇智广场店)",
+      "address": "金科路3057号汇智国际商业中心B1层",
+      "distance": "21m"
+    },
+    {
+      "brand": "牛New寿喜烧(张江店)",
+      "address": "金科路3057号汇智国际中心5F(金科路地铁站2号口旁)",
+      "distance": "21m"
+    },
+    {
+      "brand": "胡子大厨(汇智国际商业中心店)",
+      "address": "金科路3057号汇智国际商业中心B1层",
+      "distance": "4m"
+    },
+    {
+      "brand": "很久以前羊肉串(张江汇智店)",
+      "address": "金科路3057号汇智国际商业中心3层",
+      "distance": "5m"
+    },
+    {
+      "brand": "兢杰冰室港式餐厅(汇智中心店)",
+      "address": "金科路3057号汇智国际商业中心B1层",
+      "distance": "6m"
+    },
+    {
+      "brand": "胖哥俩肉蟹煲(上海汇智店)",
+      "address": "张江镇金科路3057号汇智国际商业中心",
+      "distance": "6m"
+    },
+    {
+      "brand": "八合里潮汕鲜牛肉火锅(上海汇智广场店)",
+      "address": "金科路3057号汇智国际商业中心3层C3-6室",
+      "distance": "7m"
+    },
+    {
+      "brand": "苏小柳点心(汇智广场分院)",
+      "address": "汇智国际商业中心B1-23室",
+      "distance": "10m"
+    },
+    {
+      "brand": "关东小磨东北菜(汇智国际商业中心店)",
+      "address": "中国(上海)自由贸易试验区金科路3057号5层C5-30室",
+      "distance": "10m"
+    },
+    {
+      "brand": "老灶福手作·鲜货火锅(汇智国际商业中心店)",
+      "address": "祖冲之路与金科路交叉口东南120米",
+      "distance": "13m"
+    },
+    {
+      "brand": "读酥世家(汇智广场店)",
+      "address": "金科路3057号汇智国际商业中心B1层",
+      "distance": "21m"
+    },
+    {
+      "brand": "牛New寿喜烧(张江店)",
+      "address": "金科路3057号汇智国际中心5F(金科路地铁站2号口旁)",
+      "distance": "21m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海长泰广场",
+      "open_date": "2014-11-18",
+      "area": "20万㎡",
+      "jun_daily_avg": "9.4万人次",
+      "weekday_avg": "9.2万人次",
+      "holiday_avg": "10万人次"
+    },
+    {
+      "name": "上海张江商业广场",
+      "open_date": "-",
+      "area": "-",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 63.0,
+      "within_1yr_pct": 12.7,
+      "1_3yr_pct": 23.8,
+      "over_3yr_pct": 63.5
+    },
+    {
+      "type": "购物",
+      "count": 41.0,
+      "within_1yr_pct": 12.2,
+      "1_3yr_pct": 31.7,
+      "over_3yr_pct": 56.1
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 4.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 75.0
+    },
+    {
+      "type": "教育培训",
+      "count": 20.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 55.0
+    },
+    {
+      "type": "生活服务",
+      "count": 19.0,
+      "within_1yr_pct": 10.5,
+      "1_3yr_pct": 47.4,
+      "over_3yr_pct": 42.1
+    },
+    {
+      "type": "运动健身",
+      "count": 3.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 66.7,
+      "over_3yr_pct": 33.3
+    },
+    {
+      "type": "车辆服务",
+      "count": 4.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 75.0,
+      "over_3yr_pct": 25.0
+    }
+  ]
+}

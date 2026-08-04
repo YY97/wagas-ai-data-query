@@ -1,0 +1,251 @@
+{
+  "name": "上海国际时尚中心",
+  "city": "上海市",
+  "address": "上海市杨浦区杨树浦路2848号",
+  "lat": 31.271516,
+  "lng": 121.557215,
+  "overview": {
+    "score": 84.6,
+    "score_rank": "市内前30%",
+    "population_score": 70.0,
+    "area_score": 64.5,
+    "consumption_score": 79.0,
+    "industry_score": 84.8,
+    "annual_sales": "上海国际时尚中心位于杨浦区杨树浦路2866号，原为上海第十七棉纺织总厂，成功转型为上海国际时尚中心，总建筑面积约13万平方米，2015年正式挂牌国家AAAA级旅游景区，拥有300多米的黄浦江岸线，被定位为国际时尚业界互动对接的地标性载体和营运承载基地。该中心具备时尚多功能秀场、接待会所、创意办公、精品仓、公寓酒店和餐饮娱乐等六大功能；是上海乃至全国设施最完备、配套最齐全专业秀场，也是很多国际品牌发布地，是上海国际服装文化节、上海时装周主场",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 13.0,
+    "open_date": "2010-01-01",
+    "operator": "上海国际时尚中心园区管理有限公司",
+    "brand": "",
+    "type": "购物型",
+    "floors": ""
+  },
+  "traffic": {
+    "annual_daily": 1.21,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第214",
+    "jun_total": 38.7,
+    "jun_total_rank": "市内商场第253名",
+    "jun_daily_avg": 1.3,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第253名",
+    "weekday_avg": 1.1,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第275名",
+    "holiday_avg": 1.8,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第222名"
+  },
+  "population": {
+    "residential": {
+      "500m": 7800.0,
+      "1_5km": 12.0,
+      "3km": 77.4
+    },
+    "office": {
+      "500m": 3300.0,
+      "1_5km": 6.1,
+      "3km": 36.8
+    },
+    "permanent": {
+      "500m": 8100.0,
+      "1_5km": 11.1,
+      "3km": 76.2
+    }
+  },
+  "business": {
+    "competitors": 1.0,
+    "food": 18.0,
+    "shopping": 82.0,
+    "leisure": 4.0,
+    "education": 1.0,
+    "hotel": null,
+    "services": 19.0,
+    "fitness": 2.0,
+    "auto": 6.0,
+    "total_stores": 98.0,
+    "old_store_3yr_pct": 63.0
+  },
+  "nearby_poi": {
+    "business": 2.0,
+    "community": 488.0,
+    "office": 28.0,
+    "school": 30.0,
+    "hospital": 52.0,
+    "transport": 12.0,
+    "scenic": 108.0
+  },
+  "demographics": {
+    "male_pct": 52.1,
+    "female_pct": null,
+    "education": {
+      "小学": 8.9,
+      "初中": 17.4,
+      "高中": 12.7,
+      "大专": 6.4,
+      "本科": 47.3,
+      "硕士": 5.4,
+      "博士": 1.9
+    },
+    "has_children_pct": 67.4,
+    "no_children_pct": 32.6
+  },
+  "scraped_at": "2026-07-31T15:54:22.381Z",
+  "nearby_restaurants": [
+    {
+      "brand": "肯德基(杨浦时尚中心店)",
+      "address": "杨树浦路2866号",
+      "distance": "40m"
+    },
+    {
+      "brand": "星巴克(时尚中心店)",
+      "address": "杨树浦路2866号上海国际时尚中心1层",
+      "distance": "44m"
+    },
+    {
+      "brand": "老上海油墩子",
+      "address": "内江路与杨树浦路交叉口东南120米",
+      "distance": "56m"
+    },
+    {
+      "brand": "CHAGEE霸王茶姬(上海杨浦时尚中心店)",
+      "address": "杨树浦路2866号上海国际时尚中心3号楼A&E室",
+      "distance": "69m"
+    },
+    {
+      "brand": "夸父炸串(上海国际时尚中心店)",
+      "address": "杨树浦路2866号上海国际时尚中心F1层",
+      "distance": "70m"
+    },
+    {
+      "brand": "步亭斋·砂锅馄饨(时尚中心店)",
+      "address": "杨树浦路2866号上海国际时尚中心3号楼1层B室",
+      "distance": "74m"
+    },
+    {
+      "brand": "吴茂兴本帮面(上海国际时尚中心奥特莱斯店)",
+      "address": "定海路街道杨树浦路2866号上海国际时尚中心A馆1层140-141号奥特莱斯",
+      "distance": "74m"
+    },
+    {
+      "brand": "CoCo都可(上海国际时尚中心店)",
+      "address": "5号楼/10号楼(上海国际时尚中心)",
+      "distance": "80m"
+    },
+    {
+      "brand": "时集",
+      "address": "杨树浦路2866号6号楼(119幢)1层136-2室",
+      "distance": "90m"
+    },
+    {
+      "brand": "江边城外烤全鱼(时尚中心店)",
+      "address": "杨树浦路2866号(国际时尚中心对面)",
+      "distance": "144m"
+    },
+    {
+      "brand": "肯德基(杨浦时尚中心店)",
+      "address": "杨树浦路2866号",
+      "distance": "40m"
+    },
+    {
+      "brand": "星巴克(时尚中心店)",
+      "address": "杨树浦路2866号上海国际时尚中心1层",
+      "distance": "44m"
+    },
+    {
+      "brand": "老上海油墩子",
+      "address": "内江路与杨树浦路交叉口东南120米",
+      "distance": "56m"
+    },
+    {
+      "brand": "CHAGEE霸王茶姬(上海杨浦时尚中心店)",
+      "address": "杨树浦路2866号上海国际时尚中心3号楼A&E室",
+      "distance": "69m"
+    },
+    {
+      "brand": "夸父炸串(上海国际时尚中心店)",
+      "address": "杨树浦路2866号上海国际时尚中心F1层",
+      "distance": "70m"
+    },
+    {
+      "brand": "步亭斋·砂锅馄饨(时尚中心店)",
+      "address": "杨树浦路2866号上海国际时尚中心3号楼1层B室",
+      "distance": "74m"
+    },
+    {
+      "brand": "吴茂兴本帮面(上海国际时尚中心奥特莱斯店)",
+      "address": "定海路街道杨树浦路2866号上海国际时尚中心A馆1层140-141号奥特莱斯",
+      "distance": "74m"
+    },
+    {
+      "brand": "CoCo都可(上海国际时尚中心店)",
+      "address": "5号楼/10号楼(上海国际时尚中心)",
+      "distance": "80m"
+    },
+    {
+      "brand": "时集",
+      "address": "杨树浦路2866号6号楼(119幢)1层136-2室",
+      "distance": "90m"
+    },
+    {
+      "brand": "江边城外烤全鱼(时尚中心店)",
+      "address": "杨树浦路2866号(国际时尚中心对面)",
+      "distance": "144m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海近悦远来百货商场",
+      "open_date": "-",
+      "area": "-",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海七巧国",
+      "open_date": "2015-08-20",
+      "area": "2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 13.0,
+      "within_1yr_pct": 15.4,
+      "1_3yr_pct": 15.4,
+      "over_3yr_pct": 69.2
+    },
+    {
+      "type": "购物",
+      "count": 75.0,
+      "within_1yr_pct": 21.3,
+      "1_3yr_pct": 14.7,
+      "over_3yr_pct": 64.0
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 2.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "生活服务",
+      "count": 4.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 75.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 4.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 25.0
+    }
+  ]
+}

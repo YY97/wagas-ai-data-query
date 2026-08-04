@@ -1,0 +1,462 @@
+{
+  "name": "月星环球港",
+  "city": "上海市",
+  "address": "上海市普陀区中山北路3222号",
+  "lat": 31.233171,
+  "lng": 121.412613,
+  "overview": {
+    "score": 96.8,
+    "score_rank": "市内前30%",
+    "population_score": 100.0,
+    "area_score": 91.4,
+    "consumption_score": 76.7,
+    "industry_score": 96.9,
+    "annual_sales": "220",
+    "annual_sales_unit": "亿元",
+    "area_size_sqm": 32.0,
+    "open_date": "2013-09-15",
+    "operator": "月星集团有限公司",
+    "brand": "月星商业",
+    "type": "购物型",
+    "floors": "B2-L4"
+  },
+  "traffic": {
+    "annual_daily": 6.14,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第13",
+    "jun_total": 247.3,
+    "jun_total_rank": "市内商场第10名",
+    "jun_daily_avg": 8.2,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第10名",
+    "weekday_avg": 7.5,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第10名",
+    "holiday_avg": 10.4,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第13名"
+  },
+  "population": {
+    "residential": {
+      "500m": 4.2,
+      "1_5km": 30.1,
+      "3km": 109.1
+    },
+    "office": {
+      "500m": 3.0,
+      "1_5km": 16.5,
+      "3km": 74.9
+    },
+    "permanent": {
+      "500m": 5.3,
+      "1_5km": 30.6,
+      "3km": 115.6
+    }
+  },
+  "business": {
+    "competitors": 11.0,
+    "food": 319.0,
+    "shopping": 335.0,
+    "leisure": 49.0,
+    "education": 20.0,
+    "hotel": 47.0,
+    "services": 222.0,
+    "fitness": 26.0,
+    "auto": 24.0,
+    "total_stores": 567.0,
+    "old_store_3yr_pct": 50.0
+  },
+  "nearby_poi": {
+    "business": 7.0,
+    "community": 816.0,
+    "office": 63.0,
+    "school": 58.0,
+    "hospital": 95.0,
+    "transport": 8.0,
+    "scenic": 319.0
+  },
+  "demographics": {
+    "male_pct": 47.0,
+    "female_pct": null,
+    "education": {
+      "小学": 8.9,
+      "初中": 17.2,
+      "高中": 11.6,
+      "大专": 6.9,
+      "本科": 48.5,
+      "硕士": 5.2,
+      "博士": 1.7
+    },
+    "has_children_pct": 66.6,
+    "no_children_pct": 33.4
+  },
+  "scraped_at": "2026-08-01T04:18:55.879Z",
+  "nearby_restaurants": [
+    {
+      "brand": "佳家汤包(环球港店)",
+      "address": "中山北路3300号上海月星环球港B1层",
+      "distance": "3m"
+    },
+    {
+      "brand": "星巴克(上海月星环球港店)",
+      "address": "中山北路3222号1层(金沙江路地铁站6号口步行480米)",
+      "distance": "11m"
+    },
+    {
+      "brand": "醉庐(环球港店)",
+      "address": "中山北路3300号上海月星环球港B1层",
+      "distance": "11m"
+    },
+    {
+      "brand": "鹿峡谷花园餐厅(环球港店)",
+      "address": "中山北路3300号上海月星环球港5楼",
+      "distance": "12m"
+    },
+    {
+      "brand": "潮界(上海月星环球港店)",
+      "address": "环球港B2层138号(金沙江路地铁站2号口步行230米)",
+      "distance": "13m"
+    },
+    {
+      "brand": "桃欣记(上海月星环球港店)",
+      "address": "环球港B1层大食代对门",
+      "distance": "14m"
+    },
+    {
+      "brand": "醇烤咖啡",
+      "address": "中山北路3300号上海月星环球港B2层",
+      "distance": "15m"
+    },
+    {
+      "brand": "小团圆纯鲜(月星环球港店)",
+      "address": "中山北路3300号上海月星环球港地下一层B1069-B1078号",
+      "distance": "16m"
+    },
+    {
+      "brand": "老碗会·陕西手工面(上海普陀环球港店)",
+      "address": "中山北路3300号上海月星环球港B1层",
+      "distance": "18m"
+    },
+    {
+      "brand": "茉沏(上海月星环球港店)",
+      "address": "中山北路3300号上海环球港内B1层B1251a号",
+      "distance": "20m"
+    },
+    {
+      "brand": "佳家汤包(环球港店)",
+      "address": "中山北路3300号上海月星环球港B1层",
+      "distance": "3m"
+    },
+    {
+      "brand": "星巴克(上海月星环球港店)",
+      "address": "中山北路3222号1层(金沙江路地铁站6号口步行480米)",
+      "distance": "11m"
+    },
+    {
+      "brand": "醉庐(环球港店)",
+      "address": "中山北路3300号上海月星环球港B1层",
+      "distance": "11m"
+    },
+    {
+      "brand": "鹿峡谷花园餐厅(环球港店)",
+      "address": "中山北路3300号上海月星环球港5楼",
+      "distance": "12m"
+    },
+    {
+      "brand": "潮界(上海月星环球港店)",
+      "address": "环球港B2层138号(金沙江路地铁站2号口步行230米)",
+      "distance": "13m"
+    },
+    {
+      "brand": "桃欣记(上海月星环球港店)",
+      "address": "环球港B1层大食代对门",
+      "distance": "14m"
+    },
+    {
+      "brand": "醇烤咖啡",
+      "address": "中山北路3300号上海月星环球港B2层",
+      "distance": "15m"
+    },
+    {
+      "brand": "小团圆纯鲜(月星环球港店)",
+      "address": "中山北路3300号上海月星环球港地下一层B1069-B1078号",
+      "distance": "16m"
+    },
+    {
+      "brand": "老碗会·陕西手工面(上海普陀环球港店)",
+      "address": "中山北路3300号上海月星环球港B1层",
+      "distance": "18m"
+    },
+    {
+      "brand": "茉沏(上海月星环球港店)",
+      "address": "中山北路3300号上海环球港内B1层B1251a号",
+      "distance": "20m"
+    },
+    {
+      "brand": "佳家汤包(环球港店)",
+      "address": "中山北路3300号上海月星环球港B1层",
+      "distance": "3m"
+    },
+    {
+      "brand": "星巴克(上海月星环球港店)",
+      "address": "中山北路3222号1层(金沙江路地铁站6号口步行480米)",
+      "distance": "11m"
+    },
+    {
+      "brand": "醉庐(环球港店)",
+      "address": "中山北路3300号上海月星环球港B1层",
+      "distance": "11m"
+    },
+    {
+      "brand": "鹿峡谷花园餐厅(环球港店)",
+      "address": "中山北路3300号上海月星环球港5楼",
+      "distance": "12m"
+    },
+    {
+      "brand": "潮界(上海月星环球港店)",
+      "address": "环球港B2层138号(金沙江路地铁站2号口步行230米)",
+      "distance": "13m"
+    },
+    {
+      "brand": "桃欣记(上海月星环球港店)",
+      "address": "环球港B1层大食代对门",
+      "distance": "14m"
+    },
+    {
+      "brand": "醇烤咖啡",
+      "address": "中山北路3300号上海月星环球港B2层",
+      "distance": "15m"
+    },
+    {
+      "brand": "小团圆纯鲜(月星环球港店)",
+      "address": "中山北路3300号上海月星环球港地下一层B1069-B1078号",
+      "distance": "16m"
+    },
+    {
+      "brand": "老碗会·陕西手工面(上海普陀环球港店)",
+      "address": "中山北路3300号上海月星环球港B1层",
+      "distance": "18m"
+    },
+    {
+      "brand": "茉沏(上海月星环球港店)",
+      "address": "中山北路3300号上海环球港内B1层B1251a号",
+      "distance": "20m"
+    },
+    {
+      "brand": "佳家汤包(环球港店)",
+      "address": "中山北路3300号上海月星环球港B1层",
+      "distance": "3m"
+    },
+    {
+      "brand": "星巴克(上海月星环球港店)",
+      "address": "中山北路3222号1层(金沙江路地铁站6号口步行480米)",
+      "distance": "11m"
+    },
+    {
+      "brand": "醉庐(环球港店)",
+      "address": "中山北路3300号上海月星环球港B1层",
+      "distance": "11m"
+    },
+    {
+      "brand": "鹿峡谷花园餐厅(环球港店)",
+      "address": "中山北路3300号上海月星环球港5楼",
+      "distance": "12m"
+    },
+    {
+      "brand": "潮界(上海月星环球港店)",
+      "address": "环球港B2层138号(金沙江路地铁站2号口步行230米)",
+      "distance": "13m"
+    },
+    {
+      "brand": "桃欣记(上海月星环球港店)",
+      "address": "环球港B1层大食代对门",
+      "distance": "14m"
+    },
+    {
+      "brand": "醇烤咖啡",
+      "address": "中山北路3300号上海月星环球港B2层",
+      "distance": "15m"
+    },
+    {
+      "brand": "小团圆纯鲜(月星环球港店)",
+      "address": "中山北路3300号上海月星环球港地下一层B1069-B1078号",
+      "distance": "16m"
+    },
+    {
+      "brand": "老碗会·陕西手工面(上海普陀环球港店)",
+      "address": "中山北路3300号上海月星环球港B1层",
+      "distance": "18m"
+    },
+    {
+      "brand": "茉沏(上海月星环球港店)",
+      "address": "中山北路3300号上海环球港内B1层B1251a号",
+      "distance": "20m"
+    },
+    {
+      "brand": "佳家汤包(环球港店)",
+      "address": "中山北路3300号上海月星环球港B1层",
+      "distance": "3m"
+    },
+    {
+      "brand": "星巴克(上海月星环球港店)",
+      "address": "中山北路3222号1层(金沙江路地铁站6号口步行480米)",
+      "distance": "11m"
+    },
+    {
+      "brand": "醉庐(环球港店)",
+      "address": "中山北路3300号上海月星环球港B1层",
+      "distance": "11m"
+    },
+    {
+      "brand": "鹿峡谷花园餐厅(环球港店)",
+      "address": "中山北路3300号上海月星环球港5楼",
+      "distance": "12m"
+    },
+    {
+      "brand": "潮界(上海月星环球港店)",
+      "address": "环球港B2层138号(金沙江路地铁站2号口步行230米)",
+      "distance": "13m"
+    },
+    {
+      "brand": "桃欣记(上海月星环球港店)",
+      "address": "环球港B1层大食代对门",
+      "distance": "14m"
+    },
+    {
+      "brand": "醇烤咖啡",
+      "address": "中山北路3300号上海月星环球港B2层",
+      "distance": "15m"
+    },
+    {
+      "brand": "小团圆纯鲜(月星环球港店)",
+      "address": "中山北路3300号上海月星环球港地下一层B1069-B1078号",
+      "distance": "16m"
+    },
+    {
+      "brand": "老碗会·陕西手工面(上海普陀环球港店)",
+      "address": "中山北路3300号上海月星环球港B1层",
+      "distance": "18m"
+    },
+    {
+      "brand": "茉沏(上海月星环球港店)",
+      "address": "中山北路3300号上海环球港内B1层B1251a号",
+      "distance": "20m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海汇融天地",
+      "open_date": "2013-01-01",
+      "area": "1.7万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海曹杨商城",
+      "open_date": "2011-01-01",
+      "area": "2.5万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海我格广场",
+      "open_date": "2010-06-06",
+      "area": "4.8万㎡",
+      "jun_daily_avg": "1.7万人次",
+      "weekday_avg": "1.6万人次",
+      "holiday_avg": "1.9万人次"
+    },
+    {
+      "name": "上海和胤788广场",
+      "open_date": "2018-01-01",
+      "area": "9000㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海星方汇",
+      "open_date": "2019-01-01",
+      "area": "5万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海KiNG88",
+      "open_date": "2017-09-08",
+      "area": "3.9万㎡",
+      "jun_daily_avg": "1万人次",
+      "weekday_avg": "1万人次",
+      "holiday_avg": "1万人次"
+    },
+    {
+      "name": "上海悦达889广场",
+      "open_date": "2010-05-05",
+      "area": "4.7万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 193.0,
+      "within_1yr_pct": 24.9,
+      "1_3yr_pct": 30.1,
+      "over_3yr_pct": 45.1
+    },
+    {
+      "type": "购物",
+      "count": 254.0,
+      "within_1yr_pct": 15.7,
+      "1_3yr_pct": 26.8,
+      "over_3yr_pct": 57.5
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 28.0,
+      "within_1yr_pct": 35.7,
+      "1_3yr_pct": 39.3,
+      "over_3yr_pct": 25.0
+    },
+    {
+      "type": "教育培训",
+      "count": 7.0,
+      "within_1yr_pct": 42.9,
+      "1_3yr_pct": 42.9,
+      "over_3yr_pct": 14.3
+    },
+    {
+      "type": "酒店住宿",
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "生活服务",
+      "count": 63.0,
+      "within_1yr_pct": 20.6,
+      "1_3yr_pct": 30.2,
+      "over_3yr_pct": 49.2
+    },
+    {
+      "type": "运动健身",
+      "count": 7.0,
+      "within_1yr_pct": 28.6,
+      "1_3yr_pct": 28.6,
+      "over_3yr_pct": 42.9
+    },
+    {
+      "type": "车辆服务",
+      "count": 13.0,
+      "within_1yr_pct": 15.4,
+      "1_3yr_pct": 38.5,
+      "over_3yr_pct": 46.2
+    }
+  ]
+}

@@ -1,0 +1,426 @@
+{
+  "name": "粤海天地",
+  "city": "广州市",
+  "address": "四川省成都市武侯区四火车南站街道四川泌尿外科医院(人南院区)中华商业广场",
+  "lat": null,
+  "lng": null,
+  "overview": {
+    "score": 71.1,
+    "score_rank": "市内前70%",
+    "population_score": 80.1,
+    "area_score": 69.9,
+    "consumption_score": 74.3,
+    "industry_score": 71.0,
+    "annual_sales": "",
+    "annual_sales_unit": "",
+    "area_size_sqm": null,
+    "open_date": "",
+    "operator": "",
+    "brand": "",
+    "type": "综合型",
+    "floors": ""
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "",
+    "annual_daily_rank": "",
+    "jun_total": 11.4,
+    "jun_total_rank": "市内商场第210名",
+    "jun_daily_avg": 3788.0,
+    "jun_daily_unit": "人次",
+    "jun_daily_rank": "市内商场第210名",
+    "weekday_avg": 3600.0,
+    "weekday_unit": "人次",
+    "weekday_rank": "市内商场第212名",
+    "holiday_avg": 4303.0,
+    "holiday_unit": "人次",
+    "holiday_rank": "市内商场第210名"
+  },
+  "population": {
+    "residential": {
+      "500m": 1.1,
+      "1_5km": 12.0,
+      "3km": 40.8
+    },
+    "office": {
+      "500m": 1.1,
+      "1_5km": 10.5,
+      "3km": 34.9
+    },
+    "permanent": {
+      "500m": 2.4,
+      "1_5km": 13.7,
+      "3km": 41.6
+    }
+  },
+  "business": {
+    "competitors": null,
+    "food": 180.0,
+    "shopping": 91.0,
+    "leisure": 13.0,
+    "education": 6.0,
+    "hotel": 44.0,
+    "services": 73.0,
+    "fitness": 2.0,
+    "auto": 12.0,
+    "total_stores": 15.0,
+    "old_store_3yr_pct": 40.0
+  },
+  "nearby_poi": {
+    "business": 6.0,
+    "community": 626.0,
+    "office": 39.0,
+    "school": 30.0,
+    "hospital": 174.0,
+    "transport": 14.0,
+    "scenic": 100.0
+  },
+  "demographics": {
+    "male_pct": 50.0,
+    "female_pct": null,
+    "education": {
+      "小学": 8.4,
+      "初中": 15.5,
+      "高中": 13.1,
+      "大专": 9.6,
+      "本科": 45.8,
+      "硕士": 6.1,
+      "博士": 1.5
+    },
+    "has_children_pct": 59.5,
+    "no_children_pct": 40.5
+  },
+  "scraped_at": "2026-08-02T07:50:08.158Z",
+  "nearby_restaurants": [
+    {
+      "brand": "红高梁海鲜量贩酒楼(锦绣河山店)",
+      "address": "人民南路四段58号中华商业广场1-4层",
+      "distance": "36m"
+    },
+    {
+      "brand": "荟苑合鲜馆(中华商业广场店)",
+      "address": "人民南路四段58号中华商业广场四楼",
+      "distance": "46m"
+    },
+    {
+      "brand": "谭记鲜货大排档(火车南站店)",
+      "address": "火车南站西路2号附1号",
+      "distance": "47m"
+    },
+    {
+      "brand": "易老头山城夜螺丝(火车南站店)",
+      "address": "人民南路四段58-附3号",
+      "distance": "61m"
+    },
+    {
+      "brand": "好多鱼火锅大排档(火车南站店)",
+      "address": "火车南站西路2号附4号",
+      "distance": "62m"
+    },
+    {
+      "brand": "正有茶坊(中成市场店)",
+      "address": "中成市场F-298号",
+      "distance": "64m"
+    },
+    {
+      "brand": "张锅光头香辣蟹·哈尔滨油边王烧烤(火车南站店)",
+      "address": "火车南站西路2号附1号",
+      "distance": "64m"
+    },
+    {
+      "brand": "隆江好运猪脚饭",
+      "address": "中成市场6栋135号(圆通快递门口)",
+      "distance": "68m"
+    },
+    {
+      "brand": "李不管把把烧(火车南站店)",
+      "address": "人民南路四段58号附3号1层",
+      "distance": "69m"
+    },
+    {
+      "brand": "米乐福奋斗者食堂(桐梓林店)",
+      "address": "人民南路四段58号1幢1层附6号",
+      "distance": "74m"
+    },
+    {
+      "brand": "红高梁海鲜量贩酒楼(锦绣河山店)",
+      "address": "人民南路四段58号中华商业广场1-4层",
+      "distance": "36m"
+    },
+    {
+      "brand": "荟苑合鲜馆(中华商业广场店)",
+      "address": "人民南路四段58号中华商业广场四楼",
+      "distance": "46m"
+    },
+    {
+      "brand": "谭记鲜货大排档(火车南站店)",
+      "address": "火车南站西路2号附1号",
+      "distance": "47m"
+    },
+    {
+      "brand": "易老头山城夜螺丝(火车南站店)",
+      "address": "人民南路四段58-附3号",
+      "distance": "61m"
+    },
+    {
+      "brand": "好多鱼火锅大排档(火车南站店)",
+      "address": "火车南站西路2号附4号",
+      "distance": "62m"
+    },
+    {
+      "brand": "正有茶坊(中成市场店)",
+      "address": "中成市场F-298号",
+      "distance": "64m"
+    },
+    {
+      "brand": "张锅光头香辣蟹·哈尔滨油边王烧烤(火车南站店)",
+      "address": "火车南站西路2号附1号",
+      "distance": "64m"
+    },
+    {
+      "brand": "隆江好运猪脚饭",
+      "address": "中成市场6栋135号(圆通快递门口)",
+      "distance": "68m"
+    },
+    {
+      "brand": "李不管把把烧(火车南站店)",
+      "address": "人民南路四段58号附3号1层",
+      "distance": "69m"
+    },
+    {
+      "brand": "米乐福奋斗者食堂(桐梓林店)",
+      "address": "人民南路四段58号1幢1层附6号",
+      "distance": "74m"
+    },
+    {
+      "brand": "红高梁海鲜量贩酒楼(锦绣河山店)",
+      "address": "人民南路四段58号中华商业广场1-4层",
+      "distance": "36m"
+    },
+    {
+      "brand": "荟苑合鲜馆(中华商业广场店)",
+      "address": "人民南路四段58号中华商业广场四楼",
+      "distance": "46m"
+    },
+    {
+      "brand": "谭记鲜货大排档(火车南站店)",
+      "address": "火车南站西路2号附1号",
+      "distance": "47m"
+    },
+    {
+      "brand": "易老头山城夜螺丝(火车南站店)",
+      "address": "人民南路四段58-附3号",
+      "distance": "61m"
+    },
+    {
+      "brand": "好多鱼火锅大排档(火车南站店)",
+      "address": "火车南站西路2号附4号",
+      "distance": "62m"
+    },
+    {
+      "brand": "正有茶坊(中成市场店)",
+      "address": "中成市场F-298号",
+      "distance": "64m"
+    },
+    {
+      "brand": "张锅光头香辣蟹·哈尔滨油边王烧烤(火车南站店)",
+      "address": "火车南站西路2号附1号",
+      "distance": "64m"
+    },
+    {
+      "brand": "隆江好运猪脚饭",
+      "address": "中成市场6栋135号(圆通快递门口)",
+      "distance": "68m"
+    },
+    {
+      "brand": "李不管把把烧(火车南站店)",
+      "address": "人民南路四段58号附3号1层",
+      "distance": "69m"
+    },
+    {
+      "brand": "米乐福奋斗者食堂(桐梓林店)",
+      "address": "人民南路四段58号1幢1层附6号",
+      "distance": "74m"
+    },
+    {
+      "brand": "红高梁海鲜量贩酒楼(锦绣河山店)",
+      "address": "人民南路四段58号中华商业广场1-4层",
+      "distance": "36m"
+    },
+    {
+      "brand": "荟苑合鲜馆(中华商业广场店)",
+      "address": "人民南路四段58号中华商业广场四楼",
+      "distance": "46m"
+    },
+    {
+      "brand": "谭记鲜货大排档(火车南站店)",
+      "address": "火车南站西路2号附1号",
+      "distance": "47m"
+    },
+    {
+      "brand": "易老头山城夜螺丝(火车南站店)",
+      "address": "人民南路四段58-附3号",
+      "distance": "61m"
+    },
+    {
+      "brand": "好多鱼火锅大排档(火车南站店)",
+      "address": "火车南站西路2号附4号",
+      "distance": "62m"
+    },
+    {
+      "brand": "正有茶坊(中成市场店)",
+      "address": "中成市场F-298号",
+      "distance": "64m"
+    },
+    {
+      "brand": "张锅光头香辣蟹·哈尔滨油边王烧烤(火车南站店)",
+      "address": "火车南站西路2号附1号",
+      "distance": "64m"
+    },
+    {
+      "brand": "隆江好运猪脚饭",
+      "address": "中成市场6栋135号(圆通快递门口)",
+      "distance": "68m"
+    },
+    {
+      "brand": "李不管把把烧(火车南站店)",
+      "address": "人民南路四段58号附3号1层",
+      "distance": "69m"
+    },
+    {
+      "brand": "米乐福奋斗者食堂(桐梓林店)",
+      "address": "人民南路四段58号1幢1层附6号",
+      "distance": "74m"
+    },
+    {
+      "brand": "红高梁海鲜量贩酒楼(锦绣河山店)",
+      "address": "人民南路四段58号中华商业广场1-4层",
+      "distance": "36m"
+    },
+    {
+      "brand": "荟苑合鲜馆(中华商业广场店)",
+      "address": "人民南路四段58号中华商业广场四楼",
+      "distance": "46m"
+    },
+    {
+      "brand": "谭记鲜货大排档(火车南站店)",
+      "address": "火车南站西路2号附1号",
+      "distance": "47m"
+    },
+    {
+      "brand": "易老头山城夜螺丝(火车南站店)",
+      "address": "人民南路四段58-附3号",
+      "distance": "61m"
+    },
+    {
+      "brand": "好多鱼火锅大排档(火车南站店)",
+      "address": "火车南站西路2号附4号",
+      "distance": "62m"
+    },
+    {
+      "brand": "正有茶坊(中成市场店)",
+      "address": "中成市场F-298号",
+      "distance": "64m"
+    },
+    {
+      "brand": "张锅光头香辣蟹·哈尔滨油边王烧烤(火车南站店)",
+      "address": "火车南站西路2号附1号",
+      "distance": "64m"
+    },
+    {
+      "brand": "隆江好运猪脚饭",
+      "address": "中成市场6栋135号(圆通快递门口)",
+      "distance": "68m"
+    },
+    {
+      "brand": "李不管把把烧(火车南站店)",
+      "address": "人民南路四段58号附3号1层",
+      "distance": "69m"
+    },
+    {
+      "brand": "米乐福奋斗者食堂(桐梓林店)",
+      "address": "人民南路四段58号1幢1层附6号",
+      "distance": "74m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "成都凯德·天府",
+      "open_date": "2014-12-12",
+      "area": "14万㎡",
+      "jun_daily_avg": "5.5万人次",
+      "weekday_avg": "5万人次",
+      "holiday_avg": "6.9万人次"
+    },
+    {
+      "name": "新南天地商圈",
+      "open_date": "2011-01-01",
+      "area": "40万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "成都大世界商业广场",
+      "open_date": "2003-01-01",
+      "area": "-",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "成都优客广场",
+      "open_date": "2013-01-01",
+      "area": "9万㎡",
+      "jun_daily_avg": "2.5万人次",
+      "weekday_avg": "2.5万人次",
+      "holiday_avg": "2.6万人次"
+    },
+    {
+      "name": "成都王府井购物中心",
+      "open_date": "2011-12-24",
+      "area": "10万㎡",
+      "jun_daily_avg": "2.8万人次",
+      "weekday_avg": "2.6万人次",
+      "holiday_avg": "3.4万人次"
+    },
+    {
+      "name": "成都玉林生活广场",
+      "open_date": "2001-01-01",
+      "area": "-",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 10.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 60.0,
+      "over_3yr_pct": 20.0
+    },
+    {
+      "type": "购物",
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    },
+    {
+      "type": "生活服务",
+      "count": 1.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
+    }
+  ]
+}

@@ -1,0 +1,423 @@
+{
+  "name": "北京华宇时尚购物中心",
+  "city": "北京市",
+  "address": "北京市海淀区中关村南大街2号",
+  "lat": 39.984524,
+  "lng": 116.351517,
+  "overview": {
+    "score": 89.8,
+    "score_rank": "市内前30%",
+    "population_score": 91.0,
+    "area_score": 95.9,
+    "consumption_score": 86.1,
+    "industry_score": 89.8,
+    "annual_sales": "6",
+    "annual_sales_unit": "亿元",
+    "area_size_sqm": 2.5,
+    "open_date": "2004-05-28",
+    "operator": "山西华宇集团有限公司",
+    "brand": "华宇集团",
+    "type": "综合型",
+    "floors": "B1-L4"
+  },
+  "traffic": {
+    "annual_daily": 1.24,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第185",
+    "jun_total": 53.7,
+    "jun_total_rank": "市内商场第176名",
+    "jun_daily_avg": 1.8,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第176名",
+    "weekday_avg": 1.7,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第175名",
+    "holiday_avg": 2.0,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第173名"
+  },
+  "population": {
+    "residential": {
+      "500m": 2.3,
+      "1_5km": 25.5,
+      "3km": 86.6
+    },
+    "office": {
+      "500m": 2.4,
+      "1_5km": 19.2,
+      "3km": 70.6
+    },
+    "permanent": {
+      "500m": 2.3,
+      "1_5km": 22.8,
+      "3km": 80.9
+    }
+  },
+  "business": {
+    "competitors": 5.0,
+    "food": 256.0,
+    "shopping": 333.0,
+    "leisure": 33.0,
+    "education": 99.0,
+    "hotel": 25.0,
+    "services": 211.0,
+    "fitness": 13.0,
+    "auto": 16.0,
+    "total_stores": 123.0,
+    "old_store_3yr_pct": 57.0
+  },
+  "nearby_poi": {
+    "business": 3.0,
+    "community": 406.0,
+    "office": 99.0,
+    "school": 65.0,
+    "hospital": 113.0,
+    "transport": 12.0,
+    "scenic": 337.0
+  },
+  "demographics": {
+    "male_pct": 49.0,
+    "female_pct": null,
+    "education": {
+      "小学": 6.7,
+      "初中": 12.9,
+      "高中": 15.6,
+      "大专": 4.0,
+      "本科": 46.9,
+      "硕士": 10.3,
+      "博士": 3.6
+    },
+    "has_children_pct": 52.8,
+    "no_children_pct": 47.2
+  },
+  "scraped_at": "2026-07-31T18:35:53.993Z",
+  "nearby_restaurants": [
+    {
+      "brand": "云尊府云南菜(华宇时尚购物中心店)",
+      "address": "中关村南大街2号华宇时尚购物中心4层F4-Z10",
+      "distance": "6m"
+    },
+    {
+      "brand": "醉得意·山茶油炒土鸡(北京华宇店)",
+      "address": "北下关街道中关村南大街2号数码大厦B座华宇时尚购物中心4层226号商铺",
+      "distance": "6m"
+    },
+    {
+      "brand": "蜜雪冰城(数码大厦B座店)",
+      "address": "中关村南大街2号数码大厦B座北京华宇时尚购物中心F3",
+      "distance": "7m"
+    },
+    {
+      "brand": "大秦记肉夹馍(华宇时尚购物中心店)",
+      "address": "北京城区华宇时尚购物中心三层商业F3Z43",
+      "distance": "8m"
+    },
+    {
+      "brand": "胶东刘妈妈肉汁饺子(华宇时尚购物中心店)",
+      "address": "中关村南大街2号B座三层F3Z32",
+      "distance": "8m"
+    },
+    {
+      "brand": "潇湘阁(华宇时尚购物中心店)",
+      "address": "北京城区中关村南大街2号华宇时尚购物中心四层",
+      "distance": "8m"
+    },
+    {
+      "brand": "爆脾气生炸鸡架(华宇时尚购物中心店)",
+      "address": "北京城区中关村南大街2号华宇时尚购物中心M层",
+      "distance": "8m"
+    },
+    {
+      "brand": "傣娇娇西双版纳烤肉(魏公村店)",
+      "address": "北京城区中关村南大街2号数码大厦B座F1层",
+      "distance": "8m"
+    },
+    {
+      "brand": "夸父炸串(华宇购物中心店)",
+      "address": "北下关街道中关村南大街2号华宇时尚购物中心夹层F1-Z19",
+      "distance": "8m"
+    },
+    {
+      "brand": "奈雪的茶(北京华宇购物中心PRO店)",
+      "address": "北下关街道中关村南大街2号华宇时尚购物中心1层",
+      "distance": "8m"
+    },
+    {
+      "brand": "云尊府云南菜(华宇时尚购物中心店)",
+      "address": "中关村南大街2号华宇时尚购物中心4层F4-Z10",
+      "distance": "6m"
+    },
+    {
+      "brand": "醉得意·山茶油炒土鸡(北京华宇店)",
+      "address": "北下关街道中关村南大街2号数码大厦B座华宇时尚购物中心4层226号商铺",
+      "distance": "6m"
+    },
+    {
+      "brand": "蜜雪冰城(数码大厦B座店)",
+      "address": "中关村南大街2号数码大厦B座北京华宇时尚购物中心F3",
+      "distance": "7m"
+    },
+    {
+      "brand": "大秦记肉夹馍(华宇时尚购物中心店)",
+      "address": "北京城区华宇时尚购物中心三层商业F3Z43",
+      "distance": "8m"
+    },
+    {
+      "brand": "胶东刘妈妈肉汁饺子(华宇时尚购物中心店)",
+      "address": "中关村南大街2号B座三层F3Z32",
+      "distance": "8m"
+    },
+    {
+      "brand": "潇湘阁(华宇时尚购物中心店)",
+      "address": "北京城区中关村南大街2号华宇时尚购物中心四层",
+      "distance": "8m"
+    },
+    {
+      "brand": "爆脾气生炸鸡架(华宇时尚购物中心店)",
+      "address": "北京城区中关村南大街2号华宇时尚购物中心M层",
+      "distance": "8m"
+    },
+    {
+      "brand": "傣娇娇西双版纳烤肉(魏公村店)",
+      "address": "北京城区中关村南大街2号数码大厦B座F1层",
+      "distance": "8m"
+    },
+    {
+      "brand": "夸父炸串(华宇购物中心店)",
+      "address": "北下关街道中关村南大街2号华宇时尚购物中心夹层F1-Z19",
+      "distance": "8m"
+    },
+    {
+      "brand": "奈雪的茶(北京华宇购物中心PRO店)",
+      "address": "北下关街道中关村南大街2号华宇时尚购物中心1层",
+      "distance": "8m"
+    },
+    {
+      "brand": "云尊府云南菜(华宇时尚购物中心店)",
+      "address": "中关村南大街2号华宇时尚购物中心4层F4-Z10",
+      "distance": "6m"
+    },
+    {
+      "brand": "醉得意·山茶油炒土鸡(北京华宇店)",
+      "address": "北下关街道中关村南大街2号数码大厦B座华宇时尚购物中心4层226号商铺",
+      "distance": "6m"
+    },
+    {
+      "brand": "蜜雪冰城(数码大厦B座店)",
+      "address": "中关村南大街2号数码大厦B座北京华宇时尚购物中心F3",
+      "distance": "7m"
+    },
+    {
+      "brand": "大秦记肉夹馍(华宇时尚购物中心店)",
+      "address": "北京城区华宇时尚购物中心三层商业F3Z43",
+      "distance": "8m"
+    },
+    {
+      "brand": "胶东刘妈妈肉汁饺子(华宇时尚购物中心店)",
+      "address": "中关村南大街2号B座三层F3Z32",
+      "distance": "8m"
+    },
+    {
+      "brand": "潇湘阁(华宇时尚购物中心店)",
+      "address": "北京城区中关村南大街2号华宇时尚购物中心四层",
+      "distance": "8m"
+    },
+    {
+      "brand": "爆脾气生炸鸡架(华宇时尚购物中心店)",
+      "address": "北京城区中关村南大街2号华宇时尚购物中心M层",
+      "distance": "8m"
+    },
+    {
+      "brand": "傣娇娇西双版纳烤肉(魏公村店)",
+      "address": "北京城区中关村南大街2号数码大厦B座F1层",
+      "distance": "8m"
+    },
+    {
+      "brand": "夸父炸串(华宇购物中心店)",
+      "address": "北下关街道中关村南大街2号华宇时尚购物中心夹层F1-Z19",
+      "distance": "8m"
+    },
+    {
+      "brand": "奈雪的茶(北京华宇购物中心PRO店)",
+      "address": "北下关街道中关村南大街2号华宇时尚购物中心1层",
+      "distance": "8m"
+    },
+    {
+      "brand": "云尊府云南菜(华宇时尚购物中心店)",
+      "address": "中关村南大街2号华宇时尚购物中心4层F4-Z10",
+      "distance": "6m"
+    },
+    {
+      "brand": "醉得意·山茶油炒土鸡(北京华宇店)",
+      "address": "北下关街道中关村南大街2号数码大厦B座华宇时尚购物中心4层226号商铺",
+      "distance": "6m"
+    },
+    {
+      "brand": "蜜雪冰城(数码大厦B座店)",
+      "address": "中关村南大街2号数码大厦B座北京华宇时尚购物中心F3",
+      "distance": "7m"
+    },
+    {
+      "brand": "大秦记肉夹馍(华宇时尚购物中心店)",
+      "address": "北京城区华宇时尚购物中心三层商业F3Z43",
+      "distance": "8m"
+    },
+    {
+      "brand": "胶东刘妈妈肉汁饺子(华宇时尚购物中心店)",
+      "address": "中关村南大街2号B座三层F3Z32",
+      "distance": "8m"
+    },
+    {
+      "brand": "潇湘阁(华宇时尚购物中心店)",
+      "address": "北京城区中关村南大街2号华宇时尚购物中心四层",
+      "distance": "8m"
+    },
+    {
+      "brand": "爆脾气生炸鸡架(华宇时尚购物中心店)",
+      "address": "北京城区中关村南大街2号华宇时尚购物中心M层",
+      "distance": "8m"
+    },
+    {
+      "brand": "傣娇娇西双版纳烤肉(魏公村店)",
+      "address": "北京城区中关村南大街2号数码大厦B座F1层",
+      "distance": "8m"
+    },
+    {
+      "brand": "夸父炸串(华宇购物中心店)",
+      "address": "北下关街道中关村南大街2号华宇时尚购物中心夹层F1-Z19",
+      "distance": "8m"
+    },
+    {
+      "brand": "奈雪的茶(北京华宇购物中心PRO店)",
+      "address": "北下关街道中关村南大街2号华宇时尚购物中心1层",
+      "distance": "8m"
+    },
+    {
+      "brand": "云尊府云南菜(华宇时尚购物中心店)",
+      "address": "中关村南大街2号华宇时尚购物中心4层F4-Z10",
+      "distance": "6m"
+    },
+    {
+      "brand": "醉得意·山茶油炒土鸡(北京华宇店)",
+      "address": "北下关街道中关村南大街2号数码大厦B座华宇时尚购物中心4层226号商铺",
+      "distance": "6m"
+    },
+    {
+      "brand": "蜜雪冰城(数码大厦B座店)",
+      "address": "中关村南大街2号数码大厦B座北京华宇时尚购物中心F3",
+      "distance": "7m"
+    },
+    {
+      "brand": "大秦记肉夹馍(华宇时尚购物中心店)",
+      "address": "北京城区华宇时尚购物中心三层商业F3Z43",
+      "distance": "8m"
+    },
+    {
+      "brand": "胶东刘妈妈肉汁饺子(华宇时尚购物中心店)",
+      "address": "中关村南大街2号B座三层F3Z32",
+      "distance": "8m"
+    },
+    {
+      "brand": "潇湘阁(华宇时尚购物中心店)",
+      "address": "北京城区中关村南大街2号华宇时尚购物中心四层",
+      "distance": "8m"
+    },
+    {
+      "brand": "爆脾气生炸鸡架(华宇时尚购物中心店)",
+      "address": "北京城区中关村南大街2号华宇时尚购物中心M层",
+      "distance": "8m"
+    },
+    {
+      "brand": "傣娇娇西双版纳烤肉(魏公村店)",
+      "address": "北京城区中关村南大街2号数码大厦B座F1层",
+      "distance": "8m"
+    },
+    {
+      "brand": "夸父炸串(华宇购物中心店)",
+      "address": "北下关街道中关村南大街2号华宇时尚购物中心夹层F1-Z19",
+      "distance": "8m"
+    },
+    {
+      "brand": "奈雪的茶(北京华宇购物中心PRO店)",
+      "address": "北下关街道中关村南大街2号华宇时尚购物中心1层",
+      "distance": "8m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "北京双安商场",
+      "open_date": "1994-08-18",
+      "area": "3万㎡",
+      "jun_daily_avg": "1.6万人次",
+      "weekday_avg": "1.5万人次",
+      "holiday_avg": "1.9万人次"
+    },
+    {
+      "name": "北京丽金智地中心",
+      "open_date": "2025-09-19",
+      "area": "4万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "大钟寺中坤广场",
+      "open_date": "2024-04-19",
+      "area": "3.8万㎡",
+      "jun_daily_avg": "2.1万人次",
+      "weekday_avg": "2.2万人次",
+      "holiday_avg": "1.7万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 44.0,
+      "within_1yr_pct": 20.5,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 54.5
+    },
+    {
+      "type": "购物",
+      "count": 37.0,
+      "within_1yr_pct": 21.6,
+      "1_3yr_pct": 13.5,
+      "over_3yr_pct": 64.9
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 4.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "教育培训",
+      "count": 15.0,
+      "within_1yr_pct": 13.3,
+      "1_3yr_pct": 40.0,
+      "over_3yr_pct": 46.7
+    },
+    {
+      "type": "酒店住宿",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    },
+    {
+      "type": "生活服务",
+      "count": 21.0,
+      "within_1yr_pct": 4.8,
+      "1_3yr_pct": 42.9,
+      "over_3yr_pct": 52.4
+    },
+    {
+      "type": "运动健身",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    }
+  ]
+}

@@ -1,0 +1,462 @@
+{
+  "name": "巴黎春天(宝山店)",
+  "city": "上海市",
+  "address": "上海市宝山区大场镇永乐电器(大华店)马赫运动公园",
+  "lat": 31.278949,
+  "lng": 121.42347,
+  "overview": {
+    "score": 87.9,
+    "score_rank": "市内前30%",
+    "population_score": 92.6,
+    "area_score": 82.1,
+    "consumption_score": 79.8,
+    "industry_score": 88.0,
+    "annual_sales": "",
+    "annual_sales_unit": "",
+    "area_size_sqm": null,
+    "open_date": "",
+    "operator": "",
+    "brand": "",
+    "type": "",
+    "floors": ""
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "",
+    "annual_daily_rank": "",
+    "jun_total": null,
+    "jun_total_rank": "",
+    "jun_daily_avg": null,
+    "jun_daily_unit": "",
+    "jun_daily_rank": "",
+    "weekday_avg": null,
+    "weekday_unit": "",
+    "weekday_rank": "",
+    "holiday_avg": null,
+    "holiday_unit": "",
+    "holiday_rank": ""
+  },
+  "population": {
+    "residential": {
+      "500m": 2.7,
+      "1_5km": 26.2,
+      "3km": 94.5
+    },
+    "office": {
+      "500m": 1.8,
+      "1_5km": 10.2,
+      "3km": 42.6
+    },
+    "permanent": {
+      "500m": 3.1,
+      "1_5km": 27.2,
+      "3km": 95.9
+    }
+  },
+  "business": {
+    "competitors": 11.0,
+    "food": 301.0,
+    "shopping": 208.0,
+    "leisure": 31.0,
+    "education": 58.0,
+    "hotel": 8.0,
+    "services": 199.0,
+    "fitness": 47.0,
+    "auto": 11.0,
+    "total_stores": 870.0,
+    "old_store_3yr_pct": 46.0
+  },
+  "nearby_poi": {
+    "business": 7.0,
+    "community": 448.0,
+    "office": 26.0,
+    "school": 37.0,
+    "hospital": 60.0,
+    "transport": 11.0,
+    "scenic": 117.0
+  },
+  "demographics": {
+    "male_pct": 48.2,
+    "female_pct": null,
+    "education": {
+      "小学": 9.6,
+      "初中": 18.3,
+      "高中": 11.7,
+      "大专": 7.6,
+      "本科": 47.7,
+      "硕士": 3.7,
+      "博士": 1.4
+    },
+    "has_children_pct": null,
+    "no_children_pct": null
+  },
+  "scraped_at": "2026-08-01T06:09:54.422Z",
+  "nearby_restaurants": [
+    {
+      "brand": "谷田稻香(大华店)",
+      "address": "大华路518号上海大华虎城中心F1层",
+      "distance": "69m"
+    },
+    {
+      "brand": "梁家大院(大华店)",
+      "address": "大华路518号大华虎城2楼",
+      "distance": "69m"
+    },
+    {
+      "brand": "梧桐姥姥(上海大华虎城店)",
+      "address": "大华路518号上海大华虎城中心F1层",
+      "distance": "70m"
+    },
+    {
+      "brand": "毛头熟食铺",
+      "address": "大华二路与大华路交叉口西南140米",
+      "distance": "74m"
+    },
+    {
+      "brand": "山红花·烫吐司(大华虎城中心店)",
+      "address": "大华路518号大华虎城中心一层110商铺",
+      "distance": "74m"
+    },
+    {
+      "brand": "毛头老爹饭店(大华虎城中心店)",
+      "address": "大华路518号大华虎城中心一层115-1",
+      "distance": "79m"
+    },
+    {
+      "brand": "浦记烧烤·小龙虾·家常小炒(大华二路店)",
+      "address": "大华二路268号115室浦记烧烤",
+      "distance": "80m"
+    },
+    {
+      "brand": "丰和日丽(大华店)",
+      "address": "大华路518号大华虎城中心2层",
+      "distance": "83m"
+    },
+    {
+      "brand": "阿佑鲜烫牛肉米线(大华虎城中心店)",
+      "address": "大华路518号大华虎城中心1层111-1",
+      "distance": "83m"
+    },
+    {
+      "brand": "葱多多葱油面",
+      "address": "大华虎城中心",
+      "distance": "84m"
+    },
+    {
+      "brand": "谷田稻香(大华店)",
+      "address": "大华路518号上海大华虎城中心F1层",
+      "distance": "69m"
+    },
+    {
+      "brand": "梁家大院(大华店)",
+      "address": "大华路518号大华虎城2楼",
+      "distance": "69m"
+    },
+    {
+      "brand": "梧桐姥姥(上海大华虎城店)",
+      "address": "大华路518号上海大华虎城中心F1层",
+      "distance": "70m"
+    },
+    {
+      "brand": "毛头熟食铺",
+      "address": "大华二路与大华路交叉口西南140米",
+      "distance": "74m"
+    },
+    {
+      "brand": "山红花·烫吐司(大华虎城中心店)",
+      "address": "大华路518号大华虎城中心一层110商铺",
+      "distance": "74m"
+    },
+    {
+      "brand": "毛头老爹饭店(大华虎城中心店)",
+      "address": "大华路518号大华虎城中心一层115-1",
+      "distance": "79m"
+    },
+    {
+      "brand": "浦记烧烤·小龙虾·家常小炒(大华二路店)",
+      "address": "大华二路268号115室浦记烧烤",
+      "distance": "80m"
+    },
+    {
+      "brand": "丰和日丽(大华店)",
+      "address": "大华路518号大华虎城中心2层",
+      "distance": "83m"
+    },
+    {
+      "brand": "阿佑鲜烫牛肉米线(大华虎城中心店)",
+      "address": "大华路518号大华虎城中心1层111-1",
+      "distance": "83m"
+    },
+    {
+      "brand": "葱多多葱油面",
+      "address": "大华虎城中心",
+      "distance": "84m"
+    },
+    {
+      "brand": "谷田稻香(大华店)",
+      "address": "大华路518号上海大华虎城中心F1层",
+      "distance": "69m"
+    },
+    {
+      "brand": "梁家大院(大华店)",
+      "address": "大华路518号大华虎城2楼",
+      "distance": "69m"
+    },
+    {
+      "brand": "梧桐姥姥(上海大华虎城店)",
+      "address": "大华路518号上海大华虎城中心F1层",
+      "distance": "70m"
+    },
+    {
+      "brand": "毛头熟食铺",
+      "address": "大华二路与大华路交叉口西南140米",
+      "distance": "74m"
+    },
+    {
+      "brand": "山红花·烫吐司(大华虎城中心店)",
+      "address": "大华路518号大华虎城中心一层110商铺",
+      "distance": "74m"
+    },
+    {
+      "brand": "毛头老爹饭店(大华虎城中心店)",
+      "address": "大华路518号大华虎城中心一层115-1",
+      "distance": "79m"
+    },
+    {
+      "brand": "浦记烧烤·小龙虾·家常小炒(大华二路店)",
+      "address": "大华二路268号115室浦记烧烤",
+      "distance": "80m"
+    },
+    {
+      "brand": "丰和日丽(大华店)",
+      "address": "大华路518号大华虎城中心2层",
+      "distance": "83m"
+    },
+    {
+      "brand": "阿佑鲜烫牛肉米线(大华虎城中心店)",
+      "address": "大华路518号大华虎城中心1层111-1",
+      "distance": "83m"
+    },
+    {
+      "brand": "葱多多葱油面",
+      "address": "大华虎城中心",
+      "distance": "84m"
+    },
+    {
+      "brand": "谷田稻香(大华店)",
+      "address": "大华路518号上海大华虎城中心F1层",
+      "distance": "69m"
+    },
+    {
+      "brand": "梁家大院(大华店)",
+      "address": "大华路518号大华虎城2楼",
+      "distance": "69m"
+    },
+    {
+      "brand": "梧桐姥姥(上海大华虎城店)",
+      "address": "大华路518号上海大华虎城中心F1层",
+      "distance": "70m"
+    },
+    {
+      "brand": "毛头熟食铺",
+      "address": "大华二路与大华路交叉口西南140米",
+      "distance": "74m"
+    },
+    {
+      "brand": "山红花·烫吐司(大华虎城中心店)",
+      "address": "大华路518号大华虎城中心一层110商铺",
+      "distance": "74m"
+    },
+    {
+      "brand": "毛头老爹饭店(大华虎城中心店)",
+      "address": "大华路518号大华虎城中心一层115-1",
+      "distance": "79m"
+    },
+    {
+      "brand": "浦记烧烤·小龙虾·家常小炒(大华二路店)",
+      "address": "大华二路268号115室浦记烧烤",
+      "distance": "80m"
+    },
+    {
+      "brand": "丰和日丽(大华店)",
+      "address": "大华路518号大华虎城中心2层",
+      "distance": "83m"
+    },
+    {
+      "brand": "阿佑鲜烫牛肉米线(大华虎城中心店)",
+      "address": "大华路518号大华虎城中心1层111-1",
+      "distance": "83m"
+    },
+    {
+      "brand": "葱多多葱油面",
+      "address": "大华虎城中心",
+      "distance": "84m"
+    },
+    {
+      "brand": "谷田稻香(大华店)",
+      "address": "大华路518号上海大华虎城中心F1层",
+      "distance": "69m"
+    },
+    {
+      "brand": "梁家大院(大华店)",
+      "address": "大华路518号大华虎城2楼",
+      "distance": "69m"
+    },
+    {
+      "brand": "梧桐姥姥(上海大华虎城店)",
+      "address": "大华路518号上海大华虎城中心F1层",
+      "distance": "70m"
+    },
+    {
+      "brand": "毛头熟食铺",
+      "address": "大华二路与大华路交叉口西南140米",
+      "distance": "74m"
+    },
+    {
+      "brand": "山红花·烫吐司(大华虎城中心店)",
+      "address": "大华路518号大华虎城中心一层110商铺",
+      "distance": "74m"
+    },
+    {
+      "brand": "毛头老爹饭店(大华虎城中心店)",
+      "address": "大华路518号大华虎城中心一层115-1",
+      "distance": "79m"
+    },
+    {
+      "brand": "浦记烧烤·小龙虾·家常小炒(大华二路店)",
+      "address": "大华二路268号115室浦记烧烤",
+      "distance": "80m"
+    },
+    {
+      "brand": "丰和日丽(大华店)",
+      "address": "大华路518号大华虎城中心2层",
+      "distance": "83m"
+    },
+    {
+      "brand": "阿佑鲜烫牛肉米线(大华虎城中心店)",
+      "address": "大华路518号大华虎城中心1层111-1",
+      "distance": "83m"
+    },
+    {
+      "brand": "葱多多葱油面",
+      "address": "大华虎城中心",
+      "distance": "84m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海大华澳特来",
+      "open_date": "2009-12-01",
+      "area": "4万㎡",
+      "jun_daily_avg": "1.7万人次",
+      "weekday_avg": "1.5万人次",
+      "holiday_avg": "2.2万人次"
+    },
+    {
+      "name": "上海大华澳州广场",
+      "open_date": "-",
+      "area": "-",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海巴黎春天(宝山店)",
+      "open_date": "2010-01-22",
+      "area": "4.6万㎡",
+      "jun_daily_avg": "1.7万人次",
+      "weekday_avg": "1.5万人次",
+      "holiday_avg": "2.2万人次"
+    },
+    {
+      "name": "上海大华第一坊",
+      "open_date": "-",
+      "area": "-",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海大华虎城",
+      "open_date": "2011-01-01",
+      "area": "40万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海美隆生活广场",
+      "open_date": "2020-03-14",
+      "area": "2.7万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海九百购物中心",
+      "open_date": "2000-01-01",
+      "area": "2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 301.0,
+      "within_1yr_pct": 19.9,
+      "1_3yr_pct": 34.6,
+      "over_3yr_pct": 45.5
+    },
+    {
+      "type": "购物",
+      "count": 208.0,
+      "within_1yr_pct": 21.2,
+      "1_3yr_pct": 30.8,
+      "over_3yr_pct": 48.1
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 38.0,
+      "within_1yr_pct": 23.7,
+      "1_3yr_pct": 21.1,
+      "over_3yr_pct": 55.3
+    },
+    {
+      "type": "教育培训",
+      "count": 58.0,
+      "within_1yr_pct": 19.0,
+      "1_3yr_pct": 34.5,
+      "over_3yr_pct": 46.6
+    },
+    {
+      "type": "酒店住宿",
+      "count": 8.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 37.5,
+      "over_3yr_pct": 37.5
+    },
+    {
+      "type": "生活服务",
+      "count": 199.0,
+      "within_1yr_pct": 24.6,
+      "1_3yr_pct": 33.2,
+      "over_3yr_pct": 42.2
+    },
+    {
+      "type": "运动健身",
+      "count": 47.0,
+      "within_1yr_pct": 21.3,
+      "1_3yr_pct": 34.0,
+      "over_3yr_pct": 44.7
+    },
+    {
+      "type": "车辆服务",
+      "count": 11.0,
+      "within_1yr_pct": 18.2,
+      "1_3yr_pct": 27.3,
+      "over_3yr_pct": 54.5
+    }
+  ]
+}

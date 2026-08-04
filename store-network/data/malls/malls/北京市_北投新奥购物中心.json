@@ -1,0 +1,432 @@
+{
+  "name": "北投新奥购物中心",
+  "city": "北京市",
+  "address": "北京市朝阳区湖景东路8号",
+  "lat": 39.99998,
+  "lng": 116.393985,
+  "overview": {
+    "score": 95.5,
+    "score_rank": "市内前30%",
+    "population_score": 65.8,
+    "area_score": 72.3,
+    "consumption_score": 60.0,
+    "industry_score": 95.8,
+    "annual_sales": "10",
+    "annual_sales_unit": "亿元",
+    "area_size_sqm": 24.5,
+    "open_date": "2010-09-28",
+    "operator": "北京北投投资管理有限公司",
+    "brand": "",
+    "type": "美食型",
+    "floors": "B2-L2"
+  },
+  "traffic": {
+    "annual_daily": 6.79,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第13",
+    "jun_total": 155.0,
+    "jun_total_rank": "市内商场第43名",
+    "jun_daily_avg": 5.2,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第43名",
+    "weekday_avg": 4.2,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第63名",
+    "holiday_avg": 7.7,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第29名"
+  },
+  "population": {
+    "residential": {
+      "500m": 2300.0,
+      "1_5km": 11.6,
+      "3km": 53.7
+    },
+    "office": {
+      "500m": 1.0,
+      "1_5km": 11.1,
+      "3km": 35.0
+    },
+    "permanent": {
+      "500m": 7900.0,
+      "1_5km": 14.3,
+      "3km": 54.6
+    }
+  },
+  "business": {
+    "competitors": 6.0,
+    "food": 155.0,
+    "shopping": 110.0,
+    "leisure": 11.0,
+    "education": 7.0,
+    "hotel": null,
+    "services": 32.0,
+    "fitness": 7.0,
+    "auto": 10.0,
+    "total_stores": 300.0,
+    "old_store_3yr_pct": 53.0
+  },
+  "nearby_poi": {
+    "business": 5.0,
+    "community": 279.0,
+    "office": 53.0,
+    "school": 26.0,
+    "hospital": 61.0,
+    "transport": 6.0,
+    "scenic": 345.0
+  },
+  "demographics": {
+    "male_pct": 45.7,
+    "female_pct": null,
+    "education": {
+      "小学": 7.8,
+      "初中": 13.5,
+      "高中": 12.8,
+      "大专": 5.2,
+      "本科": 48.0,
+      "硕士": 10.1,
+      "博士": 2.6
+    },
+    "has_children_pct": 57.7,
+    "no_children_pct": 42.3
+  },
+  "scraped_at": "2026-07-31T11:13:42.932Z",
+  "nearby_restaurants": [
+    {
+      "brand": "谭笑风生(月色码头店)",
+      "address": "奥林西路月色码头(奥林匹克公园地铁站D东南口步行160米)",
+      "distance": "7m"
+    },
+    {
+      "brand": "云海肴云南菜(北投新奥购物中心店)",
+      "address": "湖景东路11号新奥购物中心B1层地铁奥林匹克公园站D口右前方30米四合院内",
+      "distance": "11m"
+    },
+    {
+      "brand": "COSTA COFFEE(北投新奥购物中心店)",
+      "address": "湖景东路9号北投新奥购物中心B区H1层H1-93-02",
+      "distance": "12m"
+    },
+    {
+      "brand": "原麦山丘(北投新奥购物中心店)",
+      "address": "北京城区湖景东路9号新奥购物中心B1层",
+      "distance": "13m"
+    },
+    {
+      "brand": "小吊梨汤·北京菜·烤鸭(新奥店)",
+      "address": "湖景东路新奥回去中心地下一层西A出口处,地铁8号线D口出对面(新奥购物中心内.挨着云海肴,屈臣氏,好特卖)",
+      "distance": "15m"
+    },
+    {
+      "brand": "野人先生现做冰淇淋(北京北投新奥店)",
+      "address": "北京城区北投新奥购物中心B1层CGV影城旁野人牧坊",
+      "distance": "16m"
+    },
+    {
+      "brand": "北平机器(鸟巢店)",
+      "address": "湖景东路9号北投新奥购物中心地上",
+      "distance": "20m"
+    },
+    {
+      "brand": "星粤·廣東顺德菜(新奥店)",
+      "address": "北辰东路与大屯路辅路交叉口东南160米",
+      "distance": "22m"
+    },
+    {
+      "brand": "多客甜甜圈(新奥购物中心店)",
+      "address": "湖景东路9号北投新奥购物中心B1层",
+      "distance": "23m"
+    },
+    {
+      "brand": "星巴克咖啡(北投新奥购物中心店)",
+      "address": "北京城区湖景东路9、11号2幢-1层-101内B1-05单元",
+      "distance": "26m"
+    },
+    {
+      "brand": "谭笑风生(月色码头店)",
+      "address": "奥林西路月色码头(奥林匹克公园地铁站D东南口步行160米)",
+      "distance": "7m"
+    },
+    {
+      "brand": "云海肴云南菜(北投新奥购物中心店)",
+      "address": "湖景东路11号新奥购物中心B1层地铁奥林匹克公园站D口右前方30米四合院内",
+      "distance": "11m"
+    },
+    {
+      "brand": "COSTA COFFEE(北投新奥购物中心店)",
+      "address": "湖景东路9号北投新奥购物中心B区H1层H1-93-02",
+      "distance": "12m"
+    },
+    {
+      "brand": "原麦山丘(北投新奥购物中心店)",
+      "address": "北京城区湖景东路9号新奥购物中心B1层",
+      "distance": "13m"
+    },
+    {
+      "brand": "小吊梨汤·北京菜·烤鸭(新奥店)",
+      "address": "湖景东路新奥回去中心地下一层西A出口处,地铁8号线D口出对面(新奥购物中心内.挨着云海肴,屈臣氏,好特卖)",
+      "distance": "15m"
+    },
+    {
+      "brand": "野人先生现做冰淇淋(北京北投新奥店)",
+      "address": "北京城区北投新奥购物中心B1层CGV影城旁野人牧坊",
+      "distance": "16m"
+    },
+    {
+      "brand": "北平机器(鸟巢店)",
+      "address": "湖景东路9号北投新奥购物中心地上",
+      "distance": "20m"
+    },
+    {
+      "brand": "星粤·廣東顺德菜(新奥店)",
+      "address": "北辰东路与大屯路辅路交叉口东南160米",
+      "distance": "22m"
+    },
+    {
+      "brand": "多客甜甜圈(新奥购物中心店)",
+      "address": "湖景东路9号北投新奥购物中心B1层",
+      "distance": "23m"
+    },
+    {
+      "brand": "星巴克咖啡(北投新奥购物中心店)",
+      "address": "北京城区湖景东路9、11号2幢-1层-101内B1-05单元",
+      "distance": "26m"
+    },
+    {
+      "brand": "谭笑风生(月色码头店)",
+      "address": "奥林西路月色码头(奥林匹克公园地铁站D东南口步行160米)",
+      "distance": "7m"
+    },
+    {
+      "brand": "云海肴云南菜(北投新奥购物中心店)",
+      "address": "湖景东路11号新奥购物中心B1层地铁奥林匹克公园站D口右前方30米四合院内",
+      "distance": "11m"
+    },
+    {
+      "brand": "COSTA COFFEE(北投新奥购物中心店)",
+      "address": "湖景东路9号北投新奥购物中心B区H1层H1-93-02",
+      "distance": "12m"
+    },
+    {
+      "brand": "原麦山丘(北投新奥购物中心店)",
+      "address": "北京城区湖景东路9号新奥购物中心B1层",
+      "distance": "13m"
+    },
+    {
+      "brand": "小吊梨汤·北京菜·烤鸭(新奥店)",
+      "address": "湖景东路新奥回去中心地下一层西A出口处,地铁8号线D口出对面(新奥购物中心内.挨着云海肴,屈臣氏,好特卖)",
+      "distance": "15m"
+    },
+    {
+      "brand": "野人先生现做冰淇淋(北京北投新奥店)",
+      "address": "北京城区北投新奥购物中心B1层CGV影城旁野人牧坊",
+      "distance": "16m"
+    },
+    {
+      "brand": "北平机器(鸟巢店)",
+      "address": "湖景东路9号北投新奥购物中心地上",
+      "distance": "20m"
+    },
+    {
+      "brand": "星粤·廣東顺德菜(新奥店)",
+      "address": "北辰东路与大屯路辅路交叉口东南160米",
+      "distance": "22m"
+    },
+    {
+      "brand": "多客甜甜圈(新奥购物中心店)",
+      "address": "湖景东路9号北投新奥购物中心B1层",
+      "distance": "23m"
+    },
+    {
+      "brand": "星巴克咖啡(北投新奥购物中心店)",
+      "address": "北京城区湖景东路9、11号2幢-1层-101内B1-05单元",
+      "distance": "26m"
+    },
+    {
+      "brand": "谭笑风生(月色码头店)",
+      "address": "奥林西路月色码头(奥林匹克公园地铁站D东南口步行160米)",
+      "distance": "7m"
+    },
+    {
+      "brand": "云海肴云南菜(北投新奥购物中心店)",
+      "address": "湖景东路11号新奥购物中心B1层地铁奥林匹克公园站D口右前方30米四合院内",
+      "distance": "11m"
+    },
+    {
+      "brand": "COSTA COFFEE(北投新奥购物中心店)",
+      "address": "湖景东路9号北投新奥购物中心B区H1层H1-93-02",
+      "distance": "12m"
+    },
+    {
+      "brand": "原麦山丘(北投新奥购物中心店)",
+      "address": "北京城区湖景东路9号新奥购物中心B1层",
+      "distance": "13m"
+    },
+    {
+      "brand": "小吊梨汤·北京菜·烤鸭(新奥店)",
+      "address": "湖景东路新奥回去中心地下一层西A出口处,地铁8号线D口出对面(新奥购物中心内.挨着云海肴,屈臣氏,好特卖)",
+      "distance": "15m"
+    },
+    {
+      "brand": "野人先生现做冰淇淋(北京北投新奥店)",
+      "address": "北京城区北投新奥购物中心B1层CGV影城旁野人牧坊",
+      "distance": "16m"
+    },
+    {
+      "brand": "北平机器(鸟巢店)",
+      "address": "湖景东路9号北投新奥购物中心地上",
+      "distance": "20m"
+    },
+    {
+      "brand": "星粤·廣東顺德菜(新奥店)",
+      "address": "北辰东路与大屯路辅路交叉口东南160米",
+      "distance": "22m"
+    },
+    {
+      "brand": "多客甜甜圈(新奥购物中心店)",
+      "address": "湖景东路9号北投新奥购物中心B1层",
+      "distance": "23m"
+    },
+    {
+      "brand": "星巴克咖啡(北投新奥购物中心店)",
+      "address": "北京城区湖景东路9、11号2幢-1层-101内B1-05单元",
+      "distance": "26m"
+    },
+    {
+      "brand": "谭笑风生(月色码头店)",
+      "address": "奥林西路月色码头(奥林匹克公园地铁站D东南口步行160米)",
+      "distance": "7m"
+    },
+    {
+      "brand": "云海肴云南菜(北投新奥购物中心店)",
+      "address": "湖景东路11号新奥购物中心B1层地铁奥林匹克公园站D口右前方30米四合院内",
+      "distance": "11m"
+    },
+    {
+      "brand": "COSTA COFFEE(北投新奥购物中心店)",
+      "address": "湖景东路9号北投新奥购物中心B区H1层H1-93-02",
+      "distance": "12m"
+    },
+    {
+      "brand": "原麦山丘(北投新奥购物中心店)",
+      "address": "北京城区湖景东路9号新奥购物中心B1层",
+      "distance": "13m"
+    },
+    {
+      "brand": "小吊梨汤·北京菜·烤鸭(新奥店)",
+      "address": "湖景东路新奥回去中心地下一层西A出口处,地铁8号线D口出对面(新奥购物中心内.挨着云海肴,屈臣氏,好特卖)",
+      "distance": "15m"
+    },
+    {
+      "brand": "野人先生现做冰淇淋(北京北投新奥店)",
+      "address": "北京城区北投新奥购物中心B1层CGV影城旁野人牧坊",
+      "distance": "16m"
+    },
+    {
+      "brand": "北平机器(鸟巢店)",
+      "address": "湖景东路9号北投新奥购物中心地上",
+      "distance": "20m"
+    },
+    {
+      "brand": "星粤·廣東顺德菜(新奥店)",
+      "address": "北辰东路与大屯路辅路交叉口东南160米",
+      "distance": "22m"
+    },
+    {
+      "brand": "多客甜甜圈(新奥购物中心店)",
+      "address": "湖景东路9号北投新奥购物中心B1层",
+      "distance": "23m"
+    },
+    {
+      "brand": "星巴克咖啡(北投新奥购物中心店)",
+      "address": "北京城区湖景东路9、11号2幢-1层-101内B1-05单元",
+      "distance": "26m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "北京北辰荟",
+      "open_date": "2024-01-05",
+      "area": "5.5万㎡",
+      "jun_daily_avg": "2.3万人次",
+      "weekday_avg": "2.2万人次",
+      "holiday_avg": "2.6万人次"
+    },
+    {
+      "name": "北京亚运村图书大厦",
+      "open_date": "2016-06-07",
+      "area": "3000㎡",
+      "jun_daily_avg": "2.8万人次",
+      "weekday_avg": "2.8万人次",
+      "holiday_avg": "2.9万人次"
+    },
+    {
+      "name": "北京太阳飘亮购物中心",
+      "open_date": "2018-09-22",
+      "area": "4万㎡",
+      "jun_daily_avg": "2.4万人次",
+      "weekday_avg": "2.3万人次",
+      "holiday_avg": "2.6万人次"
+    },
+    {
+      "name": "北京新辰里购物中心",
+      "open_date": "2019-08-01",
+      "area": "1.8万㎡",
+      "jun_daily_avg": "3.3万人次",
+      "weekday_avg": "3.2万人次",
+      "holiday_avg": "3.7万人次"
+    },
+    {
+      "name": "北京金泉广场购物中心",
+      "open_date": "2022-05-01",
+      "area": "5万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 139.0,
+      "within_1yr_pct": 18.7,
+      "1_3yr_pct": 23.0,
+      "over_3yr_pct": 58.3
+    },
+    {
+      "type": "购物",
+      "count": 107.0,
+      "within_1yr_pct": 14.0,
+      "1_3yr_pct": 37.4,
+      "over_3yr_pct": 48.6
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 15.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 33.3
+    },
+    {
+      "type": "教育培训",
+      "count": 7.0,
+      "within_1yr_pct": 14.3,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 85.7
+    },
+    {
+      "type": "生活服务",
+      "count": 30.0,
+      "within_1yr_pct": 30.0,
+      "1_3yr_pct": 23.3,
+      "over_3yr_pct": 46.7
+    },
+    {
+      "type": "运动健身",
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 50.0
+    }
+  ]
+}

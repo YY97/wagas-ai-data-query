@@ -1,0 +1,478 @@
+{
+  "name": "上海我格广场",
+  "city": "上海市",
+  "address": "上海市普陀区武宁路101号",
+  "lat": 31.237918,
+  "lng": 121.423228,
+  "overview": {
+    "score": 92.7,
+    "score_rank": "市内前30%",
+    "population_score": 95.4,
+    "area_score": 78.9,
+    "consumption_score": 78.6,
+    "industry_score": 92.8,
+    "annual_sales": "IMAGO我格广场是一座集24层甲级写字楼、6层一站式购物中心、15层（112间套房）美国OAKWOOD酒店服务式公寓和2层停车场为一体的现代商业中心，位于上海市普陀区武宁路普雄路口，紧邻西宫，与地铁三号线、四号线的交汇点曹杨路站仅500米左右的距离，周边30多条公交经过，交通方便。项目商业部分综合了餐饮、服饰、潮流店铺、电影院于一体的商业模式，能满足各种消费人群的一站式休闲娱乐购物需求",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 4.8,
+    "open_date": "2010-06-06",
+    "operator": "上海先达房地产发展有限公司",
+    "brand": "",
+    "type": "美食型",
+    "floors": "B1-L5"
+  },
+  "traffic": {
+    "annual_daily": 1.24,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第210",
+    "jun_total": 49.6,
+    "jun_total_rank": "市内商场第217名",
+    "jun_daily_avg": 1.7,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第217名",
+    "weekday_avg": 1.6,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第214名",
+    "holiday_avg": 1.9,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第220名"
+  },
+  "population": {
+    "residential": {
+      "500m": 3.1,
+      "1_5km": 33.6,
+      "3km": 117.4
+    },
+    "office": {
+      "500m": 2.3,
+      "1_5km": 20.2,
+      "3km": 77.4
+    },
+    "permanent": {
+      "500m": 3.0,
+      "1_5km": 35.3,
+      "3km": 124.6
+    }
+  },
+  "business": {
+    "competitors": 4.0,
+    "food": 202.0,
+    "shopping": 99.0,
+    "leisure": 33.0,
+    "education": 39.0,
+    "hotel": 26.0,
+    "services": 169.0,
+    "fitness": 23.0,
+    "auto": 19.0,
+    "total_stores": 113.0,
+    "old_store_3yr_pct": 59.0
+  },
+  "nearby_poi": {
+    "business": 9.0,
+    "community": 912.0,
+    "office": 115.0,
+    "school": 67.0,
+    "hospital": 120.0,
+    "transport": 12.0,
+    "scenic": 417.0
+  },
+  "demographics": {
+    "male_pct": 47.5,
+    "female_pct": null,
+    "education": {
+      "小学": 8.6,
+      "初中": 16.5,
+      "高中": 11.7,
+      "大专": 6.8,
+      "本科": 49.0,
+      "硕士": 5.7,
+      "博士": 1.7
+    },
+    "has_children_pct": 58.0,
+    "no_children_pct": 42.0
+  },
+  "scraped_at": "2026-07-31T16:22:14.302Z",
+  "nearby_restaurants": [
+    {
+      "brand": "满巍明生炸鸡架(我格广场店)",
+      "address": "武宁路101号地下1层01室C-13",
+      "distance": "6m"
+    },
+    {
+      "brand": "呷哺呷哺(上海我格广场)",
+      "address": "长寿路街道武宁路101号我格广场地下一层C02室",
+      "distance": "6m"
+    },
+    {
+      "brand": "程秀梅擀面皮(我格广场店)",
+      "address": "武宁路101号我格广场B1层",
+      "distance": "6m"
+    },
+    {
+      "brand": "豪享来(我格广场店)",
+      "address": "武宁路101号我格广场",
+      "distance": "6m"
+    },
+    {
+      "brand": "渝八两重庆鸡公煲(上海我格广场店)",
+      "address": "我格广场",
+      "distance": "6m"
+    },
+    {
+      "brand": "夸父炸串(我格广场店)",
+      "address": "武宁路101号我格广场B1层C-04铺",
+      "distance": "6m"
+    },
+    {
+      "brand": "西贝XIBEI(上海我格广场店)",
+      "address": "武宁路101号我格广场5楼19号",
+      "distance": "6m"
+    },
+    {
+      "brand": "麦当劳(上海麦当劳我格广场餐厅)",
+      "address": "上海市武宁路101号我格广场地下一层18/19室",
+      "distance": "6m"
+    },
+    {
+      "brand": "盒马员工餐厅(我格广场店)",
+      "address": "武宁路101号我格广场B1层",
+      "distance": "7m"
+    },
+    {
+      "brand": "米村拌饭(我格广场店)",
+      "address": "武宁路101号我格广场B1米村拌饭",
+      "distance": "10m"
+    },
+    {
+      "brand": "满巍明生炸鸡架(我格广场店)",
+      "address": "武宁路101号地下1层01室C-13",
+      "distance": "6m"
+    },
+    {
+      "brand": "呷哺呷哺(上海我格广场)",
+      "address": "长寿路街道武宁路101号我格广场地下一层C02室",
+      "distance": "6m"
+    },
+    {
+      "brand": "程秀梅擀面皮(我格广场店)",
+      "address": "武宁路101号我格广场B1层",
+      "distance": "6m"
+    },
+    {
+      "brand": "豪享来(我格广场店)",
+      "address": "武宁路101号我格广场",
+      "distance": "6m"
+    },
+    {
+      "brand": "渝八两重庆鸡公煲(上海我格广场店)",
+      "address": "我格广场",
+      "distance": "6m"
+    },
+    {
+      "brand": "夸父炸串(我格广场店)",
+      "address": "武宁路101号我格广场B1层C-04铺",
+      "distance": "6m"
+    },
+    {
+      "brand": "西贝XIBEI(上海我格广场店)",
+      "address": "武宁路101号我格广场5楼19号",
+      "distance": "6m"
+    },
+    {
+      "brand": "麦当劳(上海麦当劳我格广场餐厅)",
+      "address": "上海市武宁路101号我格广场地下一层18/19室",
+      "distance": "6m"
+    },
+    {
+      "brand": "盒马员工餐厅(我格广场店)",
+      "address": "武宁路101号我格广场B1层",
+      "distance": "7m"
+    },
+    {
+      "brand": "米村拌饭(我格广场店)",
+      "address": "武宁路101号我格广场B1米村拌饭",
+      "distance": "10m"
+    },
+    {
+      "brand": "满巍明生炸鸡架(我格广场店)",
+      "address": "武宁路101号地下1层01室C-13",
+      "distance": "6m"
+    },
+    {
+      "brand": "呷哺呷哺(上海我格广场)",
+      "address": "长寿路街道武宁路101号我格广场地下一层C02室",
+      "distance": "6m"
+    },
+    {
+      "brand": "程秀梅擀面皮(我格广场店)",
+      "address": "武宁路101号我格广场B1层",
+      "distance": "6m"
+    },
+    {
+      "brand": "豪享来(我格广场店)",
+      "address": "武宁路101号我格广场",
+      "distance": "6m"
+    },
+    {
+      "brand": "渝八两重庆鸡公煲(上海我格广场店)",
+      "address": "我格广场",
+      "distance": "6m"
+    },
+    {
+      "brand": "夸父炸串(我格广场店)",
+      "address": "武宁路101号我格广场B1层C-04铺",
+      "distance": "6m"
+    },
+    {
+      "brand": "西贝XIBEI(上海我格广场店)",
+      "address": "武宁路101号我格广场5楼19号",
+      "distance": "6m"
+    },
+    {
+      "brand": "麦当劳(上海麦当劳我格广场餐厅)",
+      "address": "上海市武宁路101号我格广场地下一层18/19室",
+      "distance": "6m"
+    },
+    {
+      "brand": "盒马员工餐厅(我格广场店)",
+      "address": "武宁路101号我格广场B1层",
+      "distance": "7m"
+    },
+    {
+      "brand": "米村拌饭(我格广场店)",
+      "address": "武宁路101号我格广场B1米村拌饭",
+      "distance": "10m"
+    },
+    {
+      "brand": "满巍明生炸鸡架(我格广场店)",
+      "address": "武宁路101号地下1层01室C-13",
+      "distance": "6m"
+    },
+    {
+      "brand": "呷哺呷哺(上海我格广场)",
+      "address": "长寿路街道武宁路101号我格广场地下一层C02室",
+      "distance": "6m"
+    },
+    {
+      "brand": "程秀梅擀面皮(我格广场店)",
+      "address": "武宁路101号我格广场B1层",
+      "distance": "6m"
+    },
+    {
+      "brand": "豪享来(我格广场店)",
+      "address": "武宁路101号我格广场",
+      "distance": "6m"
+    },
+    {
+      "brand": "渝八两重庆鸡公煲(上海我格广场店)",
+      "address": "我格广场",
+      "distance": "6m"
+    },
+    {
+      "brand": "夸父炸串(我格广场店)",
+      "address": "武宁路101号我格广场B1层C-04铺",
+      "distance": "6m"
+    },
+    {
+      "brand": "西贝XIBEI(上海我格广场店)",
+      "address": "武宁路101号我格广场5楼19号",
+      "distance": "6m"
+    },
+    {
+      "brand": "麦当劳(上海麦当劳我格广场餐厅)",
+      "address": "上海市武宁路101号我格广场地下一层18/19室",
+      "distance": "6m"
+    },
+    {
+      "brand": "盒马员工餐厅(我格广场店)",
+      "address": "武宁路101号我格广场B1层",
+      "distance": "7m"
+    },
+    {
+      "brand": "米村拌饭(我格广场店)",
+      "address": "武宁路101号我格广场B1米村拌饭",
+      "distance": "10m"
+    },
+    {
+      "brand": "满巍明生炸鸡架(我格广场店)",
+      "address": "武宁路101号地下1层01室C-13",
+      "distance": "6m"
+    },
+    {
+      "brand": "呷哺呷哺(上海我格广场)",
+      "address": "长寿路街道武宁路101号我格广场地下一层C02室",
+      "distance": "6m"
+    },
+    {
+      "brand": "程秀梅擀面皮(我格广场店)",
+      "address": "武宁路101号我格广场B1层",
+      "distance": "6m"
+    },
+    {
+      "brand": "豪享来(我格广场店)",
+      "address": "武宁路101号我格广场",
+      "distance": "6m"
+    },
+    {
+      "brand": "渝八两重庆鸡公煲(上海我格广场店)",
+      "address": "我格广场",
+      "distance": "6m"
+    },
+    {
+      "brand": "夸父炸串(我格广场店)",
+      "address": "武宁路101号我格广场B1层C-04铺",
+      "distance": "6m"
+    },
+    {
+      "brand": "西贝XIBEI(上海我格广场店)",
+      "address": "武宁路101号我格广场5楼19号",
+      "distance": "6m"
+    },
+    {
+      "brand": "麦当劳(上海麦当劳我格广场餐厅)",
+      "address": "上海市武宁路101号我格广场地下一层18/19室",
+      "distance": "6m"
+    },
+    {
+      "brand": "盒马员工餐厅(我格广场店)",
+      "address": "武宁路101号我格广场B1层",
+      "distance": "7m"
+    },
+    {
+      "brand": "米村拌饭(我格广场店)",
+      "address": "武宁路101号我格广场B1米村拌饭",
+      "distance": "10m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海汇融天地",
+      "open_date": "2013-01-01",
+      "area": "1.7万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海星方汇",
+      "open_date": "2019-01-01",
+      "area": "5万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海月星环球港",
+      "open_date": "2013-09-15",
+      "area": "32万㎡",
+      "jun_daily_avg": "8.2万人次",
+      "weekday_avg": "7.5万人次",
+      "holiday_avg": "10.4万人次"
+    },
+    {
+      "name": "上海悦达889广场",
+      "open_date": "2010-05-05",
+      "area": "4.7万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海100AM新百安商场",
+      "open_date": "2019-04-21",
+      "area": "3.5万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海KiNG88",
+      "open_date": "2017-09-08",
+      "area": "3.9万㎡",
+      "jun_daily_avg": "1万人次",
+      "weekday_avg": "1万人次",
+      "holiday_avg": "1万人次"
+    },
+    {
+      "name": "上海绿地·柒彩里",
+      "open_date": "2019-03-01",
+      "area": "3.2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海亚新生活广场",
+      "open_date": "1996-12-08",
+      "area": "4.5万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海旭辉里",
+      "open_date": "2021-10-29",
+      "area": "2万㎡",
+      "jun_daily_avg": "2.9万人次",
+      "weekday_avg": "2.8万人次",
+      "holiday_avg": "3万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 47.0,
+      "within_1yr_pct": 10.6,
+      "1_3yr_pct": 31.9,
+      "over_3yr_pct": 57.4
+    },
+    {
+      "type": "购物",
+      "count": 20.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 75.0
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 9.0,
+      "within_1yr_pct": 22.2,
+      "1_3yr_pct": 44.4,
+      "over_3yr_pct": 33.3
+    },
+    {
+      "type": "教育培训",
+      "count": 6.0,
+      "within_1yr_pct": 16.7,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    },
+    {
+      "type": "生活服务",
+      "count": 20.0,
+      "within_1yr_pct": 10.0,
+      "1_3yr_pct": 30.0,
+      "over_3yr_pct": 60.0
+    },
+    {
+      "type": "运动健身",
+      "count": 4.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 25.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 6.0,
+      "within_1yr_pct": 16.7,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 83.3
+    }
+  ]
+}

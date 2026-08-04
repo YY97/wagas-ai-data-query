@@ -1,0 +1,446 @@
+{
+  "name": "银座和谐广场",
+  "city": "北京市",
+  "address": "北京市丰台区万丰路68号",
+  "lat": 39.882254,
+  "lng": 116.297241,
+  "overview": {
+    "score": 94.7,
+    "score_rank": "市内前30%",
+    "population_score": 88.8,
+    "area_score": 75.1,
+    "consumption_score": 77.4,
+    "industry_score": 94.8,
+    "annual_sales": "8000",
+    "annual_sales_unit": "万元",
+    "area_size_sqm": 8.5,
+    "open_date": "2016-09-10",
+    "operator": "山东省鲁商置业有限公司",
+    "brand": "银座",
+    "type": "综合型",
+    "floors": "B1-L7"
+  },
+  "traffic": {
+    "annual_daily": 4.24,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第30",
+    "jun_total": 153.4,
+    "jun_total_rank": "市内商场第45名",
+    "jun_daily_avg": 5.1,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第45名",
+    "weekday_avg": 4.5,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第50名",
+    "holiday_avg": 6.7,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第42名"
+  },
+  "population": {
+    "residential": {
+      "500m": 2.1,
+      "1_5km": 15.6,
+      "3km": 71.6
+    },
+    "office": {
+      "500m": 9800.0,
+      "1_5km": 7.2,
+      "3km": 36.9
+    },
+    "permanent": {
+      "500m": 2.2,
+      "1_5km": 15.2,
+      "3km": 75.4
+    }
+  },
+  "business": {
+    "competitors": 5.0,
+    "food": 145.0,
+    "shopping": 127.0,
+    "leisure": 15.0,
+    "education": 17.0,
+    "hotel": 6.0,
+    "services": 76.0,
+    "fitness": 13.0,
+    "auto": 9.0,
+    "total_stores": 294.0,
+    "old_store_3yr_pct": 44.0
+  },
+  "nearby_poi": {
+    "business": 5.0,
+    "community": 322.0,
+    "office": 32.0,
+    "school": 18.0,
+    "hospital": 55.0,
+    "transport": 9.0,
+    "scenic": 87.0
+  },
+  "demographics": {
+    "male_pct": 48.9,
+    "female_pct": null,
+    "education": {
+      "小学": 9.2,
+      "初中": 15.7,
+      "高中": 11.3,
+      "大专": 6.4,
+      "本科": 47.7,
+      "硕士": 7.9,
+      "博士": 1.8
+    },
+    "has_children_pct": 58.9,
+    "no_children_pct": 41.1
+  },
+  "scraped_at": "2026-08-01T04:53:47.383Z",
+  "nearby_restaurants": [
+    {
+      "brand": "北往西·西安油泼面(六里桥银座店)",
+      "address": "莲宝中路与G4辅路交叉口西北240米",
+      "distance": "5m"
+    },
+    {
+      "brand": "粤个厨子·私厨做饭服务(银座和谐广场店)",
+      "address": "六里桥街道万丰路68号院银座和谐广场B1层FB1号",
+      "distance": "8m"
+    },
+    {
+      "brand": "现烙肉饼",
+      "address": "万丰路68号院银座和谐广场",
+      "distance": "8m"
+    },
+    {
+      "brand": "大吉利·潮汕鲜牛肉火锅(银座和谐广场店)",
+      "address": "北京城区万丰路68号银座和谐广场4层419",
+      "distance": "8m"
+    },
+    {
+      "brand": "三元梅园(六里桥银座和谐广场店)",
+      "address": "北京城区万丰路68号院银座和谐广场B1层110B号",
+      "distance": "9m"
+    },
+    {
+      "brand": "蜜雪冰城(银座和谐广场店)",
+      "address": "万丰路68号院银座和谐广场地下一层南侧、西侧局部内B1层B106-1号",
+      "distance": "9m"
+    },
+    {
+      "brand": "沪上阿姨·精选茶饮(北京银座和谐广场店)",
+      "address": "北京城区万丰路68号院银座和谐广场地上5层Z504号",
+      "distance": "9m"
+    },
+    {
+      "brand": "小谷姐姐麻辣拌·麻辣烫(银座店)",
+      "address": "北京城区万丰路68号院银座和谐广场B106号",
+      "distance": "9m"
+    },
+    {
+      "brand": "七之岛",
+      "address": "莲宝中路与G4辅路交叉口西北240米",
+      "distance": "9m"
+    },
+    {
+      "brand": "围炉三国锅盔(北京银座和谐店)",
+      "address": "北京城区万丰路68号院和谐广场地上4层Z409号",
+      "distance": "9m"
+    },
+    {
+      "brand": "北往西·西安油泼面(六里桥银座店)",
+      "address": "莲宝中路与G4辅路交叉口西北240米",
+      "distance": "5m"
+    },
+    {
+      "brand": "粤个厨子·私厨做饭服务(银座和谐广场店)",
+      "address": "六里桥街道万丰路68号院银座和谐广场B1层FB1号",
+      "distance": "8m"
+    },
+    {
+      "brand": "现烙肉饼",
+      "address": "万丰路68号院银座和谐广场",
+      "distance": "8m"
+    },
+    {
+      "brand": "大吉利·潮汕鲜牛肉火锅(银座和谐广场店)",
+      "address": "北京城区万丰路68号银座和谐广场4层419",
+      "distance": "8m"
+    },
+    {
+      "brand": "三元梅园(六里桥银座和谐广场店)",
+      "address": "北京城区万丰路68号院银座和谐广场B1层110B号",
+      "distance": "9m"
+    },
+    {
+      "brand": "蜜雪冰城(银座和谐广场店)",
+      "address": "万丰路68号院银座和谐广场地下一层南侧、西侧局部内B1层B106-1号",
+      "distance": "9m"
+    },
+    {
+      "brand": "沪上阿姨·精选茶饮(北京银座和谐广场店)",
+      "address": "北京城区万丰路68号院银座和谐广场地上5层Z504号",
+      "distance": "9m"
+    },
+    {
+      "brand": "小谷姐姐麻辣拌·麻辣烫(银座店)",
+      "address": "北京城区万丰路68号院银座和谐广场B106号",
+      "distance": "9m"
+    },
+    {
+      "brand": "七之岛",
+      "address": "莲宝中路与G4辅路交叉口西北240米",
+      "distance": "9m"
+    },
+    {
+      "brand": "围炉三国锅盔(北京银座和谐店)",
+      "address": "北京城区万丰路68号院和谐广场地上4层Z409号",
+      "distance": "9m"
+    },
+    {
+      "brand": "北往西·西安油泼面(六里桥银座店)",
+      "address": "莲宝中路与G4辅路交叉口西北240米",
+      "distance": "5m"
+    },
+    {
+      "brand": "粤个厨子·私厨做饭服务(银座和谐广场店)",
+      "address": "六里桥街道万丰路68号院银座和谐广场B1层FB1号",
+      "distance": "8m"
+    },
+    {
+      "brand": "现烙肉饼",
+      "address": "万丰路68号院银座和谐广场",
+      "distance": "8m"
+    },
+    {
+      "brand": "大吉利·潮汕鲜牛肉火锅(银座和谐广场店)",
+      "address": "北京城区万丰路68号银座和谐广场4层419",
+      "distance": "8m"
+    },
+    {
+      "brand": "三元梅园(六里桥银座和谐广场店)",
+      "address": "北京城区万丰路68号院银座和谐广场B1层110B号",
+      "distance": "9m"
+    },
+    {
+      "brand": "蜜雪冰城(银座和谐广场店)",
+      "address": "万丰路68号院银座和谐广场地下一层南侧、西侧局部内B1层B106-1号",
+      "distance": "9m"
+    },
+    {
+      "brand": "沪上阿姨·精选茶饮(北京银座和谐广场店)",
+      "address": "北京城区万丰路68号院银座和谐广场地上5层Z504号",
+      "distance": "9m"
+    },
+    {
+      "brand": "小谷姐姐麻辣拌·麻辣烫(银座店)",
+      "address": "北京城区万丰路68号院银座和谐广场B106号",
+      "distance": "9m"
+    },
+    {
+      "brand": "七之岛",
+      "address": "莲宝中路与G4辅路交叉口西北240米",
+      "distance": "9m"
+    },
+    {
+      "brand": "围炉三国锅盔(北京银座和谐店)",
+      "address": "北京城区万丰路68号院和谐广场地上4层Z409号",
+      "distance": "9m"
+    },
+    {
+      "brand": "北往西·西安油泼面(六里桥银座店)",
+      "address": "莲宝中路与G4辅路交叉口西北240米",
+      "distance": "5m"
+    },
+    {
+      "brand": "粤个厨子·私厨做饭服务(银座和谐广场店)",
+      "address": "六里桥街道万丰路68号院银座和谐广场B1层FB1号",
+      "distance": "8m"
+    },
+    {
+      "brand": "现烙肉饼",
+      "address": "万丰路68号院银座和谐广场",
+      "distance": "8m"
+    },
+    {
+      "brand": "大吉利·潮汕鲜牛肉火锅(银座和谐广场店)",
+      "address": "北京城区万丰路68号银座和谐广场4层419",
+      "distance": "8m"
+    },
+    {
+      "brand": "三元梅园(六里桥银座和谐广场店)",
+      "address": "北京城区万丰路68号院银座和谐广场B1层110B号",
+      "distance": "9m"
+    },
+    {
+      "brand": "蜜雪冰城(银座和谐广场店)",
+      "address": "万丰路68号院银座和谐广场地下一层南侧、西侧局部内B1层B106-1号",
+      "distance": "9m"
+    },
+    {
+      "brand": "沪上阿姨·精选茶饮(北京银座和谐广场店)",
+      "address": "北京城区万丰路68号院银座和谐广场地上5层Z504号",
+      "distance": "9m"
+    },
+    {
+      "brand": "小谷姐姐麻辣拌·麻辣烫(银座店)",
+      "address": "北京城区万丰路68号院银座和谐广场B106号",
+      "distance": "9m"
+    },
+    {
+      "brand": "七之岛",
+      "address": "莲宝中路与G4辅路交叉口西北240米",
+      "distance": "9m"
+    },
+    {
+      "brand": "围炉三国锅盔(北京银座和谐店)",
+      "address": "北京城区万丰路68号院和谐广场地上4层Z409号",
+      "distance": "9m"
+    },
+    {
+      "brand": "北往西·西安油泼面(六里桥银座店)",
+      "address": "莲宝中路与G4辅路交叉口西北240米",
+      "distance": "5m"
+    },
+    {
+      "brand": "粤个厨子·私厨做饭服务(银座和谐广场店)",
+      "address": "六里桥街道万丰路68号院银座和谐广场B1层FB1号",
+      "distance": "8m"
+    },
+    {
+      "brand": "现烙肉饼",
+      "address": "万丰路68号院银座和谐广场",
+      "distance": "8m"
+    },
+    {
+      "brand": "大吉利·潮汕鲜牛肉火锅(银座和谐广场店)",
+      "address": "北京城区万丰路68号银座和谐广场4层419",
+      "distance": "8m"
+    },
+    {
+      "brand": "三元梅园(六里桥银座和谐广场店)",
+      "address": "北京城区万丰路68号院银座和谐广场B1层110B号",
+      "distance": "9m"
+    },
+    {
+      "brand": "蜜雪冰城(银座和谐广场店)",
+      "address": "万丰路68号院银座和谐广场地下一层南侧、西侧局部内B1层B106-1号",
+      "distance": "9m"
+    },
+    {
+      "brand": "沪上阿姨·精选茶饮(北京银座和谐广场店)",
+      "address": "北京城区万丰路68号院银座和谐广场地上5层Z504号",
+      "distance": "9m"
+    },
+    {
+      "brand": "小谷姐姐麻辣拌·麻辣烫(银座店)",
+      "address": "北京城区万丰路68号院银座和谐广场B106号",
+      "distance": "9m"
+    },
+    {
+      "brand": "七之岛",
+      "address": "莲宝中路与G4辅路交叉口西北240米",
+      "distance": "9m"
+    },
+    {
+      "brand": "围炉三国锅盔(北京银座和谐店)",
+      "address": "北京城区万丰路68号院和谐广场地上4层Z409号",
+      "distance": "9m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "北京亿潼隆万丰购物中心",
+      "open_date": "2010-12-25",
+      "area": "3.7万㎡",
+      "jun_daily_avg": "2.1万人次",
+      "weekday_avg": "2万人次",
+      "holiday_avg": "2.4万人次"
+    },
+    {
+      "name": "北京米兰life",
+      "open_date": "2018-05-01",
+      "area": "2.4万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "北京月恒正大新生活广场",
+      "open_date": "2018-07-01",
+      "area": "3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "千禧商业街",
+      "open_date": "2007-10-01",
+      "area": "-",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "北京丽泽16号购物中心",
+      "open_date": "2024-06-29",
+      "area": "5.5万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 111.0,
+      "within_1yr_pct": 22.5,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 44.1
+    },
+    {
+      "type": "购物",
+      "count": 103.0,
+      "within_1yr_pct": 19.4,
+      "1_3yr_pct": 38.8,
+      "over_3yr_pct": 41.7
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 15.0,
+      "within_1yr_pct": 13.3,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 53.3
+    },
+    {
+      "type": "教育培训",
+      "count": 14.0,
+      "within_1yr_pct": 28.6,
+      "1_3yr_pct": 35.7,
+      "over_3yr_pct": 35.7
+    },
+    {
+      "type": "酒店住宿",
+      "count": 3.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 66.7
+    },
+    {
+      "type": "生活服务",
+      "count": 34.0,
+      "within_1yr_pct": 17.6,
+      "1_3yr_pct": 41.2,
+      "over_3yr_pct": 41.2
+    },
+    {
+      "type": "运动健身",
+      "count": 11.0,
+      "within_1yr_pct": 18.2,
+      "1_3yr_pct": 45.5,
+      "over_3yr_pct": 36.4
+    },
+    {
+      "type": "车辆服务",
+      "count": 3.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    }
+  ]
+}

@@ -1,0 +1,479 @@
+{
+  "name": "香槟广场",
+  "city": "成都市",
+  "address": "四川省成都市锦江区滨江东路1号",
+  "lat": 30.652469,
+  "lng": 104.079448,
+  "overview": {
+    "score": 89.3,
+    "score_rank": "市内前30%",
+    "population_score": 93.5,
+    "area_score": 100.0,
+    "consumption_score": 84.9,
+    "industry_score": 89.3,
+    "annual_sales": "香槟广场是成都本土知名房地产开发商蓝光地产在东大街修建的项目，因其优越的地理位置及性价比一经推出即深受欢迎。该广场占据成都核心商业圈，口岸极佳，有很好的投资价值。香槟广场一楼商铺均价23800元/平方米，二楼均价11000元/平方米，三楼均价8000元/平方米，精装酒店式写字间均价5000元/平方米。写字间从四层到十一层，最小租赁面积为32平米，最大为800平米",
+    "annual_sales_unit": "-",
+    "area_size_sqm": null,
+    "open_date": "2005-01-01",
+    "operator": "蓝光嘉宝商业",
+    "brand": "",
+    "type": "综合型",
+    "floors": ""
+  },
+  "traffic": {
+    "annual_daily": 9726.0,
+    "annual_daily_unit": "人次",
+    "annual_daily_rank": "市内第149",
+    "jun_total": 25.8,
+    "jun_total_rank": "市内商场第176名",
+    "jun_daily_avg": 8595.0,
+    "jun_daily_unit": "人次",
+    "jun_daily_rank": "市内商场第176名",
+    "weekday_avg": 7833.0,
+    "weekday_unit": "人次",
+    "weekday_rank": "市内商场第177名",
+    "holiday_avg": 1.1,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第170名"
+  },
+  "population": {
+    "residential": {
+      "500m": 2.7,
+      "1_5km": 25.4,
+      "3km": 82.4
+    },
+    "office": {
+      "500m": 5.2,
+      "1_5km": 31.3,
+      "3km": 68.8
+    },
+    "permanent": {
+      "500m": 5.9,
+      "1_5km": 31.7,
+      "3km": 86.0
+    }
+  },
+  "business": {
+    "competitors": 23.0,
+    "food": 1074.0,
+    "shopping": 1594.0,
+    "leisure": 194.0,
+    "education": 88.0,
+    "hotel": 566.0,
+    "services": 630.0,
+    "fitness": 27.0,
+    "auto": 41.0,
+    "total_stores": 237.0,
+    "old_store_3yr_pct": 42.0
+  },
+  "nearby_poi": {
+    "business": 34.0,
+    "community": 1321.0,
+    "office": 152.0,
+    "school": 51.0,
+    "hospital": 299.0,
+    "transport": 13.0,
+    "scenic": 493.0
+  },
+  "demographics": {
+    "male_pct": 46.5,
+    "female_pct": null,
+    "education": {
+      "小学": 9.1,
+      "初中": 17.3,
+      "高中": 14.2,
+      "大专": 10.4,
+      "本科": 43.2,
+      "硕士": 4.5,
+      "博士": 1.3
+    },
+    "has_children_pct": 55.1,
+    "no_children_pct": 44.9
+  },
+  "scraped_at": "2026-08-02T07:25:15.279Z",
+  "nearby_restaurants": [
+    {
+      "brand": "烤匠麻辣烤鱼(春熙路店)",
+      "address": "东大街下东大街段21号蓝光香槟广场F3层",
+      "distance": "6m"
+    },
+    {
+      "brand": "BEAN(成都香槟广场店)",
+      "address": "东大街下东大街段21号蓝光香槟广场B1层",
+      "distance": "7m"
+    },
+    {
+      "brand": "尹三顺自助烤肉",
+      "address": "锦官驿街道蓝光香槟广场三楼烤匠旁(春熙路地铁E1口左边上楼)",
+      "distance": "9m"
+    },
+    {
+      "brand": "毛孃孃老火锅(春熙路店)",
+      "address": "东大街下东大街段21号附18号(香槟广场二楼)",
+      "distance": "9m"
+    },
+    {
+      "brand": "天府兔(春熙路总店)",
+      "address": "大街下东大街段17号(春熙路地铁站E2口旁)",
+      "distance": "10m"
+    },
+    {
+      "brand": "蓉城江湖市井火锅(春熙路直营店)",
+      "address": "东大街下东大街段1号",
+      "distance": "14m"
+    },
+    {
+      "brand": "蓉和万家川西坝子(香槟广场I.CITY店)",
+      "address": "东大街下东大街段21号蓝光香槟广场F2层",
+      "distance": "14m"
+    },
+    {
+      "brand": "印度菜菜(香槟广场店)",
+      "address": "下东大街香槟广场3楼315号(香槟广场三楼)",
+      "distance": "14m"
+    },
+    {
+      "brand": "清真·杨乐辣子鸡太古里店",
+      "address": "东大街下东大街段29-31号",
+      "distance": "14m"
+    },
+    {
+      "brand": "艺釜(春熙形象店)",
+      "address": "东大街下东大街段21号附29号香槟广场3层",
+      "distance": "16m"
+    },
+    {
+      "brand": "烤匠麻辣烤鱼(春熙路店)",
+      "address": "东大街下东大街段21号蓝光香槟广场F3层",
+      "distance": "6m"
+    },
+    {
+      "brand": "BEAN(成都香槟广场店)",
+      "address": "东大街下东大街段21号蓝光香槟广场B1层",
+      "distance": "7m"
+    },
+    {
+      "brand": "尹三顺自助烤肉",
+      "address": "锦官驿街道蓝光香槟广场三楼烤匠旁(春熙路地铁E1口左边上楼)",
+      "distance": "9m"
+    },
+    {
+      "brand": "毛孃孃老火锅(春熙路店)",
+      "address": "东大街下东大街段21号附18号(香槟广场二楼)",
+      "distance": "9m"
+    },
+    {
+      "brand": "天府兔(春熙路总店)",
+      "address": "大街下东大街段17号(春熙路地铁站E2口旁)",
+      "distance": "10m"
+    },
+    {
+      "brand": "蓉城江湖市井火锅(春熙路直营店)",
+      "address": "东大街下东大街段1号",
+      "distance": "14m"
+    },
+    {
+      "brand": "蓉和万家川西坝子(香槟广场I.CITY店)",
+      "address": "东大街下东大街段21号蓝光香槟广场F2层",
+      "distance": "14m"
+    },
+    {
+      "brand": "印度菜菜(香槟广场店)",
+      "address": "下东大街香槟广场3楼315号(香槟广场三楼)",
+      "distance": "14m"
+    },
+    {
+      "brand": "清真·杨乐辣子鸡太古里店",
+      "address": "东大街下东大街段29-31号",
+      "distance": "14m"
+    },
+    {
+      "brand": "艺釜(春熙形象店)",
+      "address": "东大街下东大街段21号附29号香槟广场3层",
+      "distance": "16m"
+    },
+    {
+      "brand": "烤匠麻辣烤鱼(春熙路店)",
+      "address": "东大街下东大街段21号蓝光香槟广场F3层",
+      "distance": "6m"
+    },
+    {
+      "brand": "BEAN(成都香槟广场店)",
+      "address": "东大街下东大街段21号蓝光香槟广场B1层",
+      "distance": "7m"
+    },
+    {
+      "brand": "尹三顺自助烤肉",
+      "address": "锦官驿街道蓝光香槟广场三楼烤匠旁(春熙路地铁E1口左边上楼)",
+      "distance": "9m"
+    },
+    {
+      "brand": "毛孃孃老火锅(春熙路店)",
+      "address": "东大街下东大街段21号附18号(香槟广场二楼)",
+      "distance": "9m"
+    },
+    {
+      "brand": "天府兔(春熙路总店)",
+      "address": "大街下东大街段17号(春熙路地铁站E2口旁)",
+      "distance": "10m"
+    },
+    {
+      "brand": "蓉城江湖市井火锅(春熙路直营店)",
+      "address": "东大街下东大街段1号",
+      "distance": "14m"
+    },
+    {
+      "brand": "蓉和万家川西坝子(香槟广场I.CITY店)",
+      "address": "东大街下东大街段21号蓝光香槟广场F2层",
+      "distance": "14m"
+    },
+    {
+      "brand": "印度菜菜(香槟广场店)",
+      "address": "下东大街香槟广场3楼315号(香槟广场三楼)",
+      "distance": "14m"
+    },
+    {
+      "brand": "清真·杨乐辣子鸡太古里店",
+      "address": "东大街下东大街段29-31号",
+      "distance": "14m"
+    },
+    {
+      "brand": "艺釜(春熙形象店)",
+      "address": "东大街下东大街段21号附29号香槟广场3层",
+      "distance": "16m"
+    },
+    {
+      "brand": "烤匠麻辣烤鱼(春熙路店)",
+      "address": "东大街下东大街段21号蓝光香槟广场F3层",
+      "distance": "6m"
+    },
+    {
+      "brand": "BEAN(成都香槟广场店)",
+      "address": "东大街下东大街段21号蓝光香槟广场B1层",
+      "distance": "7m"
+    },
+    {
+      "brand": "尹三顺自助烤肉",
+      "address": "锦官驿街道蓝光香槟广场三楼烤匠旁(春熙路地铁E1口左边上楼)",
+      "distance": "9m"
+    },
+    {
+      "brand": "毛孃孃老火锅(春熙路店)",
+      "address": "东大街下东大街段21号附18号(香槟广场二楼)",
+      "distance": "9m"
+    },
+    {
+      "brand": "天府兔(春熙路总店)",
+      "address": "大街下东大街段17号(春熙路地铁站E2口旁)",
+      "distance": "10m"
+    },
+    {
+      "brand": "蓉城江湖市井火锅(春熙路直营店)",
+      "address": "东大街下东大街段1号",
+      "distance": "14m"
+    },
+    {
+      "brand": "蓉和万家川西坝子(香槟广场I.CITY店)",
+      "address": "东大街下东大街段21号蓝光香槟广场F2层",
+      "distance": "14m"
+    },
+    {
+      "brand": "印度菜菜(香槟广场店)",
+      "address": "下东大街香槟广场3楼315号(香槟广场三楼)",
+      "distance": "14m"
+    },
+    {
+      "brand": "清真·杨乐辣子鸡太古里店",
+      "address": "东大街下东大街段29-31号",
+      "distance": "14m"
+    },
+    {
+      "brand": "艺釜(春熙形象店)",
+      "address": "东大街下东大街段21号附29号香槟广场3层",
+      "distance": "16m"
+    },
+    {
+      "brand": "烤匠麻辣烤鱼(春熙路店)",
+      "address": "东大街下东大街段21号蓝光香槟广场F3层",
+      "distance": "6m"
+    },
+    {
+      "brand": "BEAN(成都香槟广场店)",
+      "address": "东大街下东大街段21号蓝光香槟广场B1层",
+      "distance": "7m"
+    },
+    {
+      "brand": "尹三顺自助烤肉",
+      "address": "锦官驿街道蓝光香槟广场三楼烤匠旁(春熙路地铁E1口左边上楼)",
+      "distance": "9m"
+    },
+    {
+      "brand": "毛孃孃老火锅(春熙路店)",
+      "address": "东大街下东大街段21号附18号(香槟广场二楼)",
+      "distance": "9m"
+    },
+    {
+      "brand": "天府兔(春熙路总店)",
+      "address": "大街下东大街段17号(春熙路地铁站E2口旁)",
+      "distance": "10m"
+    },
+    {
+      "brand": "蓉城江湖市井火锅(春熙路直营店)",
+      "address": "东大街下东大街段1号",
+      "distance": "14m"
+    },
+    {
+      "brand": "蓉和万家川西坝子(香槟广场I.CITY店)",
+      "address": "东大街下东大街段21号蓝光香槟广场F2层",
+      "distance": "14m"
+    },
+    {
+      "brand": "印度菜菜(香槟广场店)",
+      "address": "下东大街香槟广场3楼315号(香槟广场三楼)",
+      "distance": "14m"
+    },
+    {
+      "brand": "清真·杨乐辣子鸡太古里店",
+      "address": "东大街下东大街段29-31号",
+      "distance": "14m"
+    },
+    {
+      "brand": "艺釜(春熙形象店)",
+      "address": "东大街下东大街段21号附29号香槟广场3层",
+      "distance": "16m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "成都银石广场",
+      "open_date": "2013-01-01",
+      "area": "2.4万㎡",
+      "jun_daily_avg": "11万人次",
+      "weekday_avg": "10.1万人次",
+      "holiday_avg": "13.5万人次"
+    },
+    {
+      "name": "成都群光广场",
+      "open_date": "2010-10-23",
+      "area": "10万㎡",
+      "jun_daily_avg": "6.7万人次",
+      "weekday_avg": "5.9万人次",
+      "holiday_avg": "9.1万人次"
+    },
+    {
+      "name": "成都伊藤洋华堂(春熙路店)",
+      "open_date": "1997-11-21",
+      "area": "4万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "成都晶融汇购物中心",
+      "open_date": "2015-01-01",
+      "area": "4.5万㎡",
+      "jun_daily_avg": "2.6万人次",
+      "weekday_avg": "2.4万人次",
+      "holiday_avg": "3万人次"
+    },
+    {
+      "name": "成都春熙路阳光百货",
+      "open_date": "2008-01-01",
+      "area": "4万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "成都IFS",
+      "open_date": "2014-01-14",
+      "area": "21万㎡",
+      "jun_daily_avg": "16.1万人次",
+      "weekday_avg": "14.9万人次",
+      "holiday_avg": "19.3万人次"
+    },
+    {
+      "name": "成都第一城",
+      "open_date": "2015-01-01",
+      "area": "10万㎡",
+      "jun_daily_avg": "3万人次",
+      "weekday_avg": "2.7万人次",
+      "holiday_avg": "3.7万人次"
+    },
+    {
+      "name": "成都新建广场",
+      "open_date": "2009-01-05",
+      "area": "-",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "成都太古里",
+      "open_date": "2015-04-24",
+      "area": "10万㎡",
+      "jun_daily_avg": "8.8万人次",
+      "weekday_avg": "8.2万人次",
+      "holiday_avg": "10.2万人次"
+    },
+    {
+      "name": "成都百盛购物中心(四川时代店)",
+      "open_date": "2008-01-01",
+      "area": "2.8万㎡",
+      "jun_daily_avg": "3.3万人次",
+      "weekday_avg": "3.1万人次",
+      "holiday_avg": "4万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 71.0,
+      "within_1yr_pct": 31.0,
+      "1_3yr_pct": 29.6,
+      "over_3yr_pct": 39.4
+    },
+    {
+      "type": "购物",
+      "count": 63.0,
+      "within_1yr_pct": 25.4,
+      "1_3yr_pct": 20.6,
+      "over_3yr_pct": 54.0
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 7.0,
+      "within_1yr_pct": 42.9,
+      "1_3yr_pct": 28.6,
+      "over_3yr_pct": 28.6
+    },
+    {
+      "type": "教育培训",
+      "count": 3.0,
+      "within_1yr_pct": 66.7,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 39.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 20.5,
+      "over_3yr_pct": 46.2
+    },
+    {
+      "type": "生活服务",
+      "count": 51.0,
+      "within_1yr_pct": 39.2,
+      "1_3yr_pct": 29.4,
+      "over_3yr_pct": 31.4
+    },
+    {
+      "type": "车辆服务",
+      "count": 3.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 66.7
+    }
+  ]
+}

@@ -1,0 +1,431 @@
+{
+  "name": "丰尚国际广场",
+  "city": "上海市",
+  "address": "上海市闵行区运乐路569号",
+  "lat": 31.203745,
+  "lng": 121.282291,
+  "overview": {
+    "score": 90.2,
+    "score_rank": "市内前30%",
+    "population_score": 69.3,
+    "area_score": 65.1,
+    "consumption_score": 85.4,
+    "industry_score": 90.4,
+    "annual_sales": "丰尚国际生活中心是一个集高档西餐、特色中餐以及休闲、购物为一体的生活中心，形成了多元文化相交融，“人与自然和谐”，生态环境一流，适合境外人士多种需求的时尚生活中心",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 3.5,
+    "open_date": "2014-05-18",
+    "operator": "印力商用置业有限公司",
+    "brand": "",
+    "type": "美食型",
+    "floors": "L1-L3"
+  },
+  "traffic": {
+    "annual_daily": 4904.0,
+    "annual_daily_unit": "人次",
+    "annual_daily_rank": "市内第363",
+    "jun_total": 22.5,
+    "jun_total_rank": "市内商场第362名",
+    "jun_daily_avg": 7495.0,
+    "jun_daily_unit": "人次",
+    "jun_daily_rank": "市内商场第362名",
+    "weekday_avg": 7245.0,
+    "weekday_unit": "人次",
+    "weekday_rank": "市内商场第358名",
+    "holiday_avg": 8180.0,
+    "holiday_unit": "人次",
+    "holiday_rank": "市内商场第364名"
+  },
+  "population": {
+    "residential": {
+      "500m": 8000.0,
+      "1_5km": 8.8,
+      "3km": 31.2
+    },
+    "office": {
+      "500m": 4200.0,
+      "1_5km": 5.8,
+      "3km": 17.9
+    },
+    "permanent": {
+      "500m": 8500.0,
+      "1_5km": 8.5,
+      "3km": 28.6
+    }
+  },
+  "business": {
+    "competitors": 5.0,
+    "food": 54.0,
+    "shopping": 35.0,
+    "leisure": 6.0,
+    "education": 10.0,
+    "hotel": 3.0,
+    "services": 47.0,
+    "fitness": 11.0,
+    "auto": 4.0,
+    "total_stores": 109.0,
+    "old_store_3yr_pct": 60.0
+  },
+  "nearby_poi": {
+    "business": 4.0,
+    "community": 130.0,
+    "office": 30.0,
+    "school": 20.0,
+    "hospital": 42.0,
+    "transport": 8.0,
+    "scenic": 44.0
+  },
+  "demographics": {
+    "male_pct": 52.5,
+    "female_pct": null,
+    "education": {
+      "小学": 10.3,
+      "初中": 19.1,
+      "高中": 11.9,
+      "大专": 10.4,
+      "本科": 44.2,
+      "硕士": 3.3,
+      "博士": 0.8
+    },
+    "has_children_pct": 64.5,
+    "no_children_pct": 35.5
+  },
+  "scraped_at": "2026-07-31T11:52:22.814Z",
+  "nearby_restaurants": [
+    {
+      "brand": "POPEYES(丰尚国际广场店)",
+      "address": "运乐路与金辉路交叉口东180米",
+      "distance": "10m"
+    },
+    {
+      "brand": "PHO MI 粉迷越南粉(丰尚国际店)",
+      "address": "华漕镇运乐路569弄丰尚国际广场",
+      "distance": "31m"
+    },
+    {
+      "brand": "ROKA GRILL土耳其餐厅(丰尚国际店)",
+      "address": "华漕镇运乐路569弄6号105室",
+      "distance": "37m"
+    },
+    {
+      "brand": "吾不晚自助泡面博物馆(丰尚国际广场店)",
+      "address": "运乐路569号一楼170门牌",
+      "distance": "37m"
+    },
+    {
+      "brand": "零度码头(丰尚国际生活中心店)",
+      "address": "运乐路569弄丰尚国际广场161号",
+      "distance": "37m"
+    },
+    {
+      "brand": "麦当劳(丰尚国际广场店)",
+      "address": "运乐路569号丰尚国际广场F1",
+      "distance": "44m"
+    },
+    {
+      "brand": "Mr Pancake松饼先生(丰尚国际广场店)",
+      "address": "运乐路641号",
+      "distance": "44m"
+    },
+    {
+      "brand": "Luke's Bistro璐克西餐(丰尚国际广场店)",
+      "address": "运乐路569弄丰尚国际广场1楼126号(bluefrog蓝蛙旁)",
+      "distance": "45m"
+    },
+    {
+      "brand": "达美乐比萨(丰尚国际广场店)",
+      "address": "运乐路659号 丰尚国际广场 1楼156-1A室",
+      "distance": "48m"
+    },
+    {
+      "brand": "Yasmine's茉莉牛排馆·Steakhouse(闵行店)",
+      "address": "运乐路569弄丰尚国际广场1层156-157号",
+      "distance": "49m"
+    },
+    {
+      "brand": "POPEYES(丰尚国际广场店)",
+      "address": "运乐路与金辉路交叉口东180米",
+      "distance": "10m"
+    },
+    {
+      "brand": "PHO MI 粉迷越南粉(丰尚国际店)",
+      "address": "华漕镇运乐路569弄丰尚国际广场",
+      "distance": "31m"
+    },
+    {
+      "brand": "ROKA GRILL土耳其餐厅(丰尚国际店)",
+      "address": "华漕镇运乐路569弄6号105室",
+      "distance": "37m"
+    },
+    {
+      "brand": "吾不晚自助泡面博物馆(丰尚国际广场店)",
+      "address": "运乐路569号一楼170门牌",
+      "distance": "37m"
+    },
+    {
+      "brand": "零度码头(丰尚国际生活中心店)",
+      "address": "运乐路569弄丰尚国际广场161号",
+      "distance": "37m"
+    },
+    {
+      "brand": "麦当劳(丰尚国际广场店)",
+      "address": "运乐路569号丰尚国际广场F1",
+      "distance": "44m"
+    },
+    {
+      "brand": "Mr Pancake松饼先生(丰尚国际广场店)",
+      "address": "运乐路641号",
+      "distance": "44m"
+    },
+    {
+      "brand": "Luke's Bistro璐克西餐(丰尚国际广场店)",
+      "address": "运乐路569弄丰尚国际广场1楼126号(bluefrog蓝蛙旁)",
+      "distance": "45m"
+    },
+    {
+      "brand": "达美乐比萨(丰尚国际广场店)",
+      "address": "运乐路659号 丰尚国际广场 1楼156-1A室",
+      "distance": "48m"
+    },
+    {
+      "brand": "Yasmine's茉莉牛排馆·Steakhouse(闵行店)",
+      "address": "运乐路569弄丰尚国际广场1层156-157号",
+      "distance": "49m"
+    },
+    {
+      "brand": "POPEYES(丰尚国际广场店)",
+      "address": "运乐路与金辉路交叉口东180米",
+      "distance": "10m"
+    },
+    {
+      "brand": "PHO MI 粉迷越南粉(丰尚国际店)",
+      "address": "华漕镇运乐路569弄丰尚国际广场",
+      "distance": "31m"
+    },
+    {
+      "brand": "ROKA GRILL土耳其餐厅(丰尚国际店)",
+      "address": "华漕镇运乐路569弄6号105室",
+      "distance": "37m"
+    },
+    {
+      "brand": "吾不晚自助泡面博物馆(丰尚国际广场店)",
+      "address": "运乐路569号一楼170门牌",
+      "distance": "37m"
+    },
+    {
+      "brand": "零度码头(丰尚国际生活中心店)",
+      "address": "运乐路569弄丰尚国际广场161号",
+      "distance": "37m"
+    },
+    {
+      "brand": "麦当劳(丰尚国际广场店)",
+      "address": "运乐路569号丰尚国际广场F1",
+      "distance": "44m"
+    },
+    {
+      "brand": "Mr Pancake松饼先生(丰尚国际广场店)",
+      "address": "运乐路641号",
+      "distance": "44m"
+    },
+    {
+      "brand": "Luke's Bistro璐克西餐(丰尚国际广场店)",
+      "address": "运乐路569弄丰尚国际广场1楼126号(bluefrog蓝蛙旁)",
+      "distance": "45m"
+    },
+    {
+      "brand": "达美乐比萨(丰尚国际广场店)",
+      "address": "运乐路659号 丰尚国际广场 1楼156-1A室",
+      "distance": "48m"
+    },
+    {
+      "brand": "Yasmine's茉莉牛排馆·Steakhouse(闵行店)",
+      "address": "运乐路569弄丰尚国际广场1层156-157号",
+      "distance": "49m"
+    },
+    {
+      "brand": "POPEYES(丰尚国际广场店)",
+      "address": "运乐路与金辉路交叉口东180米",
+      "distance": "10m"
+    },
+    {
+      "brand": "PHO MI 粉迷越南粉(丰尚国际店)",
+      "address": "华漕镇运乐路569弄丰尚国际广场",
+      "distance": "31m"
+    },
+    {
+      "brand": "ROKA GRILL土耳其餐厅(丰尚国际店)",
+      "address": "华漕镇运乐路569弄6号105室",
+      "distance": "37m"
+    },
+    {
+      "brand": "吾不晚自助泡面博物馆(丰尚国际广场店)",
+      "address": "运乐路569号一楼170门牌",
+      "distance": "37m"
+    },
+    {
+      "brand": "零度码头(丰尚国际生活中心店)",
+      "address": "运乐路569弄丰尚国际广场161号",
+      "distance": "37m"
+    },
+    {
+      "brand": "麦当劳(丰尚国际广场店)",
+      "address": "运乐路569号丰尚国际广场F1",
+      "distance": "44m"
+    },
+    {
+      "brand": "Mr Pancake松饼先生(丰尚国际广场店)",
+      "address": "运乐路641号",
+      "distance": "44m"
+    },
+    {
+      "brand": "Luke's Bistro璐克西餐(丰尚国际广场店)",
+      "address": "运乐路569弄丰尚国际广场1楼126号(bluefrog蓝蛙旁)",
+      "distance": "45m"
+    },
+    {
+      "brand": "达美乐比萨(丰尚国际广场店)",
+      "address": "运乐路659号 丰尚国际广场 1楼156-1A室",
+      "distance": "48m"
+    },
+    {
+      "brand": "Yasmine's茉莉牛排馆·Steakhouse(闵行店)",
+      "address": "运乐路569弄丰尚国际广场1层156-157号",
+      "distance": "49m"
+    },
+    {
+      "brand": "POPEYES(丰尚国际广场店)",
+      "address": "运乐路与金辉路交叉口东180米",
+      "distance": "10m"
+    },
+    {
+      "brand": "PHO MI 粉迷越南粉(丰尚国际店)",
+      "address": "华漕镇运乐路569弄丰尚国际广场",
+      "distance": "31m"
+    },
+    {
+      "brand": "ROKA GRILL土耳其餐厅(丰尚国际店)",
+      "address": "华漕镇运乐路569弄6号105室",
+      "distance": "37m"
+    },
+    {
+      "brand": "吾不晚自助泡面博物馆(丰尚国际广场店)",
+      "address": "运乐路569号一楼170门牌",
+      "distance": "37m"
+    },
+    {
+      "brand": "零度码头(丰尚国际生活中心店)",
+      "address": "运乐路569弄丰尚国际广场161号",
+      "distance": "37m"
+    },
+    {
+      "brand": "麦当劳(丰尚国际广场店)",
+      "address": "运乐路569号丰尚国际广场F1",
+      "distance": "44m"
+    },
+    {
+      "brand": "Mr Pancake松饼先生(丰尚国际广场店)",
+      "address": "运乐路641号",
+      "distance": "44m"
+    },
+    {
+      "brand": "Luke's Bistro璐克西餐(丰尚国际广场店)",
+      "address": "运乐路569弄丰尚国际广场1楼126号(bluefrog蓝蛙旁)",
+      "distance": "45m"
+    },
+    {
+      "brand": "达美乐比萨(丰尚国际广场店)",
+      "address": "运乐路659号 丰尚国际广场 1楼156-1A室",
+      "distance": "48m"
+    },
+    {
+      "brand": "Yasmine's茉莉牛排馆·Steakhouse(闵行店)",
+      "address": "运乐路569弄丰尚国际广场1层156-157号",
+      "distance": "49m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海华漕绿地旭辉U天地",
+      "open_date": "2015-10-01",
+      "area": "3.6万㎡",
+      "jun_daily_avg": "1.4万人次",
+      "weekday_avg": "1.3万人次",
+      "holiday_avg": "1.5万人次"
+    },
+    {
+      "name": "上海华漕生活馆",
+      "open_date": "2016-06-16",
+      "area": "3.5万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海前湾印象城MEGA",
+      "open_date": "2025-12-01",
+      "area": "25.6万㎡",
+      "jun_daily_avg": "4.3万人次",
+      "weekday_avg": "3.6万人次",
+      "holiday_avg": "6.2万人次"
+    },
+    {
+      "name": "上海蟠龙天地",
+      "open_date": "2023-04-29",
+      "area": "4.2万㎡",
+      "jun_daily_avg": "3.4万人次",
+      "weekday_avg": "2.8万人次",
+      "holiday_avg": "5.1万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 49.0,
+      "within_1yr_pct": 10.2,
+      "1_3yr_pct": 28.6,
+      "over_3yr_pct": 61.2
+    },
+    {
+      "type": "购物",
+      "count": 24.0,
+      "within_1yr_pct": 8.3,
+      "1_3yr_pct": 37.5,
+      "over_3yr_pct": 54.2
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 2.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "教育培训",
+      "count": 7.0,
+      "within_1yr_pct": 42.9,
+      "1_3yr_pct": 14.3,
+      "over_3yr_pct": 42.9
+    },
+    {
+      "type": "生活服务",
+      "count": 16.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 75.0
+    },
+    {
+      "type": "运动健身",
+      "count": 8.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 3.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 66.7
+    }
+  ]
+}

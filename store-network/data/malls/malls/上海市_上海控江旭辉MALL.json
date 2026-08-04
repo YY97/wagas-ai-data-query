@@ -1,0 +1,462 @@
+{
+  "name": "上海控江旭辉MALL",
+  "city": "上海市",
+  "address": "上海市杨浦区控江路2052号",
+  "lat": 31.273189,
+  "lng": 121.509696,
+  "overview": {
+    "score": 93.9,
+    "score_rank": "市内前30%",
+    "population_score": 100.0,
+    "area_score": 78.8,
+    "consumption_score": 77.2,
+    "industry_score": 93.9,
+    "annual_sales": "控江旭辉MALL是旭辉集团打造的商业项目，位于杨浦区控江路近打虎山路，为轨交8号线鞍山新村站上盖项目。项目由地下3层，地上5层组成，B2-B3层为大型立体停车库，拥有600个停车位。商场定位社区商业，服务周边居民，提供全方位的社区型配套商业综合体",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 3.0,
+    "open_date": "2016-08-27",
+    "operator": "旭辉控股（集团）有限公司",
+    "brand": "旭辉商业",
+    "type": "美食型",
+    "floors": "B1-L5"
+  },
+  "traffic": {
+    "annual_daily": 2.25,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第124",
+    "jun_total": 108.2,
+    "jun_total_rank": "市内商场第109名",
+    "jun_daily_avg": 3.6,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第109名",
+    "weekday_avg": 3.4,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第103名",
+    "holiday_avg": 4.1,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第113名"
+  },
+  "population": {
+    "residential": {
+      "500m": 5.6,
+      "1_5km": 34.1,
+      "3km": 111.7
+    },
+    "office": {
+      "500m": 2.1,
+      "1_5km": 18.3,
+      "3km": 71.7
+    },
+    "permanent": {
+      "500m": 5.8,
+      "1_5km": 35.3,
+      "3km": 116.6
+    }
+  },
+  "business": {
+    "competitors": 3.0,
+    "food": 204.0,
+    "shopping": 155.0,
+    "leisure": 17.0,
+    "education": 36.0,
+    "hotel": 40.0,
+    "services": 148.0,
+    "fitness": 24.0,
+    "auto": 6.0,
+    "total_stores": 110.0,
+    "old_store_3yr_pct": 45.0
+  },
+  "nearby_poi": {
+    "business": 7.0,
+    "community": 857.0,
+    "office": 75.0,
+    "school": 67.0,
+    "hospital": 106.0,
+    "transport": 10.0,
+    "scenic": 320.0
+  },
+  "demographics": {
+    "male_pct": 47.4,
+    "female_pct": null,
+    "education": {
+      "小学": 8.9,
+      "初中": 17.4,
+      "高中": 12.7,
+      "大专": 6.4,
+      "本科": 47.3,
+      "硕士": 5.4,
+      "博士": 1.9
+    },
+    "has_children_pct": 60.4,
+    "no_children_pct": 39.6
+  },
+  "scraped_at": "2026-07-31T16:22:56.216Z",
+  "nearby_restaurants": [
+    {
+      "brand": "京城热气涮羊肉(旭辉广场店)",
+      "address": "控江路2066号旭辉Mall",
+      "distance": "2m"
+    },
+    {
+      "brand": "五芳斋粽子(控江路店)",
+      "address": "控江路2066号旭辉MallF2层",
+      "distance": "4m"
+    },
+    {
+      "brand": "胜庭料理自助餐厅",
+      "address": "四平路街道控江路2068号旭辉广场4楼",
+      "distance": "5m"
+    },
+    {
+      "brand": "东方一串烧烤·烤鱼·鸡公煲(控江旭辉店)",
+      "address": "上海市上海城区上海市四平路街道,控江路2066号控江旭辉MALL(1号楼1F-16A-15B)东方一串",
+      "distance": "5m"
+    },
+    {
+      "brand": "淘小馆·上海本帮菜(控江旭辉店)",
+      "address": "控江路2068号3F08室(鞍山新村地铁站出入口旁)",
+      "distance": "5m"
+    },
+    {
+      "brand": "野人先生Gelato(上海控江旭辉店)",
+      "address": "控江路2066号上海控江旭辉Mall一楼09b",
+      "distance": "5m"
+    },
+    {
+      "brand": "华三爷干拌面(旭辉MALL店)",
+      "address": "四平路街道控江路2068号B1层15b-16",
+      "distance": "5m"
+    },
+    {
+      "brand": "吴老幺火锅(鞍山旭辉广场店)",
+      "address": "控江路2066号控江旭辉Mall项目第4层4F-10号",
+      "distance": "8m"
+    },
+    {
+      "brand": "半天妖烤鱼(杨浦控江旭辉店)",
+      "address": "控江路2066号旭辉MallF3层(鞍山新村地铁站出入口旁)",
+      "distance": "11m"
+    },
+    {
+      "brand": "谷田稻香(上海控江旭辉店)(装修中)",
+      "address": "四平路街道控江路2068号旭辉MallB1层B1-04",
+      "distance": "11m"
+    },
+    {
+      "brand": "京城热气涮羊肉(旭辉广场店)",
+      "address": "控江路2066号旭辉Mall",
+      "distance": "2m"
+    },
+    {
+      "brand": "五芳斋粽子(控江路店)",
+      "address": "控江路2066号旭辉MallF2层",
+      "distance": "4m"
+    },
+    {
+      "brand": "胜庭料理自助餐厅",
+      "address": "四平路街道控江路2068号旭辉广场4楼",
+      "distance": "5m"
+    },
+    {
+      "brand": "东方一串烧烤·烤鱼·鸡公煲(控江旭辉店)",
+      "address": "上海市上海城区上海市四平路街道,控江路2066号控江旭辉MALL(1号楼1F-16A-15B)东方一串",
+      "distance": "5m"
+    },
+    {
+      "brand": "淘小馆·上海本帮菜(控江旭辉店)",
+      "address": "控江路2068号3F08室(鞍山新村地铁站出入口旁)",
+      "distance": "5m"
+    },
+    {
+      "brand": "野人先生Gelato(上海控江旭辉店)",
+      "address": "控江路2066号上海控江旭辉Mall一楼09b",
+      "distance": "5m"
+    },
+    {
+      "brand": "华三爷干拌面(旭辉MALL店)",
+      "address": "四平路街道控江路2068号B1层15b-16",
+      "distance": "5m"
+    },
+    {
+      "brand": "吴老幺火锅(鞍山旭辉广场店)",
+      "address": "控江路2066号控江旭辉Mall项目第4层4F-10号",
+      "distance": "8m"
+    },
+    {
+      "brand": "半天妖烤鱼(杨浦控江旭辉店)",
+      "address": "控江路2066号旭辉MallF3层(鞍山新村地铁站出入口旁)",
+      "distance": "11m"
+    },
+    {
+      "brand": "谷田稻香(上海控江旭辉店)(装修中)",
+      "address": "四平路街道控江路2068号旭辉MallB1层B1-04",
+      "distance": "11m"
+    },
+    {
+      "brand": "京城热气涮羊肉(旭辉广场店)",
+      "address": "控江路2066号旭辉Mall",
+      "distance": "2m"
+    },
+    {
+      "brand": "五芳斋粽子(控江路店)",
+      "address": "控江路2066号旭辉MallF2层",
+      "distance": "4m"
+    },
+    {
+      "brand": "胜庭料理自助餐厅",
+      "address": "四平路街道控江路2068号旭辉广场4楼",
+      "distance": "5m"
+    },
+    {
+      "brand": "东方一串烧烤·烤鱼·鸡公煲(控江旭辉店)",
+      "address": "上海市上海城区上海市四平路街道,控江路2066号控江旭辉MALL(1号楼1F-16A-15B)东方一串",
+      "distance": "5m"
+    },
+    {
+      "brand": "淘小馆·上海本帮菜(控江旭辉店)",
+      "address": "控江路2068号3F08室(鞍山新村地铁站出入口旁)",
+      "distance": "5m"
+    },
+    {
+      "brand": "野人先生Gelato(上海控江旭辉店)",
+      "address": "控江路2066号上海控江旭辉Mall一楼09b",
+      "distance": "5m"
+    },
+    {
+      "brand": "华三爷干拌面(旭辉MALL店)",
+      "address": "四平路街道控江路2068号B1层15b-16",
+      "distance": "5m"
+    },
+    {
+      "brand": "吴老幺火锅(鞍山旭辉广场店)",
+      "address": "控江路2066号控江旭辉Mall项目第4层4F-10号",
+      "distance": "8m"
+    },
+    {
+      "brand": "半天妖烤鱼(杨浦控江旭辉店)",
+      "address": "控江路2066号旭辉MallF3层(鞍山新村地铁站出入口旁)",
+      "distance": "11m"
+    },
+    {
+      "brand": "谷田稻香(上海控江旭辉店)(装修中)",
+      "address": "四平路街道控江路2068号旭辉MallB1层B1-04",
+      "distance": "11m"
+    },
+    {
+      "brand": "京城热气涮羊肉(旭辉广场店)",
+      "address": "控江路2066号旭辉Mall",
+      "distance": "2m"
+    },
+    {
+      "brand": "五芳斋粽子(控江路店)",
+      "address": "控江路2066号旭辉MallF2层",
+      "distance": "4m"
+    },
+    {
+      "brand": "胜庭料理自助餐厅",
+      "address": "四平路街道控江路2068号旭辉广场4楼",
+      "distance": "5m"
+    },
+    {
+      "brand": "东方一串烧烤·烤鱼·鸡公煲(控江旭辉店)",
+      "address": "上海市上海城区上海市四平路街道,控江路2066号控江旭辉MALL(1号楼1F-16A-15B)东方一串",
+      "distance": "5m"
+    },
+    {
+      "brand": "淘小馆·上海本帮菜(控江旭辉店)",
+      "address": "控江路2068号3F08室(鞍山新村地铁站出入口旁)",
+      "distance": "5m"
+    },
+    {
+      "brand": "野人先生Gelato(上海控江旭辉店)",
+      "address": "控江路2066号上海控江旭辉Mall一楼09b",
+      "distance": "5m"
+    },
+    {
+      "brand": "华三爷干拌面(旭辉MALL店)",
+      "address": "四平路街道控江路2068号B1层15b-16",
+      "distance": "5m"
+    },
+    {
+      "brand": "吴老幺火锅(鞍山旭辉广场店)",
+      "address": "控江路2066号控江旭辉Mall项目第4层4F-10号",
+      "distance": "8m"
+    },
+    {
+      "brand": "半天妖烤鱼(杨浦控江旭辉店)",
+      "address": "控江路2066号旭辉MallF3层(鞍山新村地铁站出入口旁)",
+      "distance": "11m"
+    },
+    {
+      "brand": "谷田稻香(上海控江旭辉店)(装修中)",
+      "address": "四平路街道控江路2068号旭辉MallB1层B1-04",
+      "distance": "11m"
+    },
+    {
+      "brand": "京城热气涮羊肉(旭辉广场店)",
+      "address": "控江路2066号旭辉Mall",
+      "distance": "2m"
+    },
+    {
+      "brand": "五芳斋粽子(控江路店)",
+      "address": "控江路2066号旭辉MallF2层",
+      "distance": "4m"
+    },
+    {
+      "brand": "胜庭料理自助餐厅",
+      "address": "四平路街道控江路2068号旭辉广场4楼",
+      "distance": "5m"
+    },
+    {
+      "brand": "东方一串烧烤·烤鱼·鸡公煲(控江旭辉店)",
+      "address": "上海市上海城区上海市四平路街道,控江路2066号控江旭辉MALL(1号楼1F-16A-15B)东方一串",
+      "distance": "5m"
+    },
+    {
+      "brand": "淘小馆·上海本帮菜(控江旭辉店)",
+      "address": "控江路2068号3F08室(鞍山新村地铁站出入口旁)",
+      "distance": "5m"
+    },
+    {
+      "brand": "野人先生Gelato(上海控江旭辉店)",
+      "address": "控江路2066号上海控江旭辉Mall一楼09b",
+      "distance": "5m"
+    },
+    {
+      "brand": "华三爷干拌面(旭辉MALL店)",
+      "address": "四平路街道控江路2068号B1层15b-16",
+      "distance": "5m"
+    },
+    {
+      "brand": "吴老幺火锅(鞍山旭辉广场店)",
+      "address": "控江路2066号控江旭辉Mall项目第4层4F-10号",
+      "distance": "8m"
+    },
+    {
+      "brand": "半天妖烤鱼(杨浦控江旭辉店)",
+      "address": "控江路2066号旭辉MallF3层(鞍山新村地铁站出入口旁)",
+      "distance": "11m"
+    },
+    {
+      "brand": "谷田稻香(上海控江旭辉店)(装修中)",
+      "address": "四平路街道控江路2068号旭辉MallB1层B1-04",
+      "distance": "11m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海君欣时代广场",
+      "open_date": "2018-04-01",
+      "area": "4万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海紫荆广场",
+      "open_date": "2015-12-05",
+      "area": "7万㎡",
+      "jun_daily_avg": "5.2万人次",
+      "weekday_avg": "4.9万人次",
+      "holiday_avg": "5.8万人次"
+    },
+    {
+      "name": "上海宝地广场",
+      "open_date": "2012-01-01",
+      "area": "3.5万㎡",
+      "jun_daily_avg": "1.7万人次",
+      "weekday_avg": "1.8万人次",
+      "holiday_avg": "1.5万人次"
+    },
+    {
+      "name": "上海瑞虹天地月亮湾",
+      "open_date": "2017-06-13",
+      "area": "6.4万㎡",
+      "jun_daily_avg": "4.5万人次",
+      "weekday_avg": "4万人次",
+      "holiday_avg": "5.9万人次"
+    },
+    {
+      "name": "上海瑞虹新天地太阳宫",
+      "open_date": "2021-09-19",
+      "area": "18万㎡",
+      "jun_daily_avg": "7.4万人次",
+      "weekday_avg": "6.8万人次",
+      "holiday_avg": "9.1万人次"
+    },
+    {
+      "name": "上海瑞虹天地星星堂",
+      "open_date": "2015-05-14",
+      "area": "2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海上滨生活广场",
+      "open_date": "2019-06-18",
+      "area": "4.5万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 48.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 27.1,
+      "over_3yr_pct": 47.9
+    },
+    {
+      "type": "购物",
+      "count": 11.0,
+      "within_1yr_pct": 18.2,
+      "1_3yr_pct": 27.3,
+      "over_3yr_pct": 54.5
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    },
+    {
+      "type": "教育培训",
+      "count": 14.0,
+      "within_1yr_pct": 14.3,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 35.7
+    },
+    {
+      "type": "酒店住宿",
+      "count": 10.0,
+      "within_1yr_pct": 30.0,
+      "1_3yr_pct": 10.0,
+      "over_3yr_pct": 60.0
+    },
+    {
+      "type": "生活服务",
+      "count": 18.0,
+      "within_1yr_pct": 22.2,
+      "1_3yr_pct": 38.9,
+      "over_3yr_pct": 38.9
+    },
+    {
+      "type": "运动健身",
+      "count": 7.0,
+      "within_1yr_pct": 42.9,
+      "1_3yr_pct": 42.9,
+      "over_3yr_pct": 14.3
+    },
+    {
+      "type": "车辆服务",
+      "count": 1.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
+    }
+  ]
+}

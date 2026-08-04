@@ -1,0 +1,409 @@
+{
+  "name": "浦东商场(南汇店)",
+  "city": "上海市",
+  "address": "上海市浦东新区东门大街200号",
+  "lat": 31.04673,
+  "lng": 121.759591,
+  "overview": {
+    "score": null,
+    "score_rank": "",
+    "population_score": 84.9,
+    "area_score": 93.3,
+    "consumption_score": 62.4,
+    "industry_score": 69.0,
+    "annual_sales": "",
+    "annual_sales_unit": "",
+    "area_size_sqm": 2.0,
+    "open_date": "2009-07-07",
+    "operator": "上海市浦东商场股份有限公司",
+    "brand": "",
+    "type": "购物型",
+    "floors": "L1-L6"
+  },
+  "traffic": {
+    "annual_daily": 3726.0,
+    "annual_daily_unit": "人次",
+    "annual_daily_rank": "市内第403",
+    "jun_total": 20.0,
+    "jun_total_rank": "市内商场第383名",
+    "jun_daily_avg": 6661.0,
+    "jun_daily_unit": "人次",
+    "jun_daily_rank": "市内商场第383名",
+    "weekday_avg": 6065.0,
+    "weekday_unit": "人次",
+    "weekday_rank": "市内商场第391名",
+    "holiday_avg": 8298.0,
+    "holiday_unit": "人次",
+    "holiday_rank": "市内商场第362名"
+  },
+  "population": {
+    "residential": {
+      "500m": 2.0,
+      "1_5km": 14.6,
+      "3km": 37.8
+    },
+    "office": {
+      "500m": 1.3,
+      "1_5km": 6.2,
+      "3km": 13.9
+    },
+    "permanent": {
+      "500m": 2.2,
+      "1_5km": 14.6,
+      "3km": 35.3
+    }
+  },
+  "business": {
+    "competitors": 1.0,
+    "food": 326.0,
+    "shopping": 419.0,
+    "leisure": 10.0,
+    "education": 22.0,
+    "hotel": 29.0,
+    "services": 289.0,
+    "fitness": 8.0,
+    "auto": 6.0,
+    "total_stores": 25.0,
+    "old_store_3yr_pct": 64.0
+  },
+  "nearby_poi": {
+    "business": 3.0,
+    "community": 216.0,
+    "office": 18.0,
+    "school": 34.0,
+    "hospital": 46.0,
+    "transport": 23.0,
+    "scenic": 55.0
+  },
+  "demographics": {
+    "male_pct": 49.2,
+    "female_pct": null,
+    "education": {
+      "小学": 9.5,
+      "初中": 22.8,
+      "高中": 14.8,
+      "大专": 8.2,
+      "本科": 41.0,
+      "硕士": 2.8,
+      "博士": 0.9
+    },
+    "has_children_pct": 57.9,
+    "no_children_pct": 42.1
+  },
+  "scraped_at": "2026-08-01T19:39:31.111Z",
+  "nearby_restaurants": [
+    {
+      "brand": "达美乐比萨(东门大街店)",
+      "address": "东门大街200号1层01室",
+      "distance": "24m"
+    },
+    {
+      "brand": "Tims咖啡(惠南浦商百货店)",
+      "address": "东门大街200号浦东商场(南汇店)F1",
+      "distance": "41m"
+    },
+    {
+      "brand": "柠季·手打柠檬茶(上海浦东商场店)",
+      "address": "东门大街200号浦东商场(南汇店)1层09号商铺",
+      "distance": "44m"
+    },
+    {
+      "brand": "北方老面馒头(运河路店)",
+      "address": "运河路269号106外室",
+      "distance": "57m"
+    },
+    {
+      "brand": "卤虾坊",
+      "address": "东门大街与三八路交叉口东北140米",
+      "distance": "65m"
+    },
+    {
+      "brand": "符掌柜德国脆皮猪肘烤肋排",
+      "address": "东门大街与三八路交叉口东北140米",
+      "distance": "67m"
+    },
+    {
+      "brand": "嘉兴大肉粽(惠南店)",
+      "address": "东门大街197号",
+      "distance": "67m"
+    },
+    {
+      "brand": "缙云烧饼(海燕大厦店)",
+      "address": "东门大街141号海燕大厦F1层",
+      "distance": "67m"
+    },
+    {
+      "brand": "鸭佬九衢州鸭头(东门大街店)",
+      "address": "东门大街157号",
+      "distance": "67m"
+    },
+    {
+      "brand": "香辣鸭脖(惠南店)",
+      "address": "东门大街141号海燕商场F1层",
+      "distance": "67m"
+    },
+    {
+      "brand": "达美乐比萨(东门大街店)",
+      "address": "东门大街200号1层01室",
+      "distance": "24m"
+    },
+    {
+      "brand": "Tims咖啡(惠南浦商百货店)",
+      "address": "东门大街200号浦东商场(南汇店)F1",
+      "distance": "41m"
+    },
+    {
+      "brand": "柠季·手打柠檬茶(上海浦东商场店)",
+      "address": "东门大街200号浦东商场(南汇店)1层09号商铺",
+      "distance": "44m"
+    },
+    {
+      "brand": "北方老面馒头(运河路店)",
+      "address": "运河路269号106外室",
+      "distance": "57m"
+    },
+    {
+      "brand": "卤虾坊",
+      "address": "东门大街与三八路交叉口东北140米",
+      "distance": "65m"
+    },
+    {
+      "brand": "符掌柜德国脆皮猪肘烤肋排",
+      "address": "东门大街与三八路交叉口东北140米",
+      "distance": "67m"
+    },
+    {
+      "brand": "嘉兴大肉粽(惠南店)",
+      "address": "东门大街197号",
+      "distance": "67m"
+    },
+    {
+      "brand": "缙云烧饼(海燕大厦店)",
+      "address": "东门大街141号海燕大厦F1层",
+      "distance": "67m"
+    },
+    {
+      "brand": "鸭佬九衢州鸭头(东门大街店)",
+      "address": "东门大街157号",
+      "distance": "67m"
+    },
+    {
+      "brand": "香辣鸭脖(惠南店)",
+      "address": "东门大街141号海燕商场F1层",
+      "distance": "67m"
+    },
+    {
+      "brand": "达美乐比萨(东门大街店)",
+      "address": "东门大街200号1层01室",
+      "distance": "24m"
+    },
+    {
+      "brand": "Tims咖啡(惠南浦商百货店)",
+      "address": "东门大街200号浦东商场(南汇店)F1",
+      "distance": "41m"
+    },
+    {
+      "brand": "柠季·手打柠檬茶(上海浦东商场店)",
+      "address": "东门大街200号浦东商场(南汇店)1层09号商铺",
+      "distance": "44m"
+    },
+    {
+      "brand": "北方老面馒头(运河路店)",
+      "address": "运河路269号106外室",
+      "distance": "57m"
+    },
+    {
+      "brand": "卤虾坊",
+      "address": "东门大街与三八路交叉口东北140米",
+      "distance": "65m"
+    },
+    {
+      "brand": "符掌柜德国脆皮猪肘烤肋排",
+      "address": "东门大街与三八路交叉口东北140米",
+      "distance": "67m"
+    },
+    {
+      "brand": "嘉兴大肉粽(惠南店)",
+      "address": "东门大街197号",
+      "distance": "67m"
+    },
+    {
+      "brand": "缙云烧饼(海燕大厦店)",
+      "address": "东门大街141号海燕大厦F1层",
+      "distance": "67m"
+    },
+    {
+      "brand": "鸭佬九衢州鸭头(东门大街店)",
+      "address": "东门大街157号",
+      "distance": "67m"
+    },
+    {
+      "brand": "香辣鸭脖(惠南店)",
+      "address": "东门大街141号海燕商场F1层",
+      "distance": "67m"
+    },
+    {
+      "brand": "达美乐比萨(东门大街店)",
+      "address": "东门大街200号1层01室",
+      "distance": "24m"
+    },
+    {
+      "brand": "Tims咖啡(惠南浦商百货店)",
+      "address": "东门大街200号浦东商场(南汇店)F1",
+      "distance": "41m"
+    },
+    {
+      "brand": "柠季·手打柠檬茶(上海浦东商场店)",
+      "address": "东门大街200号浦东商场(南汇店)1层09号商铺",
+      "distance": "44m"
+    },
+    {
+      "brand": "北方老面馒头(运河路店)",
+      "address": "运河路269号106外室",
+      "distance": "57m"
+    },
+    {
+      "brand": "卤虾坊",
+      "address": "东门大街与三八路交叉口东北140米",
+      "distance": "65m"
+    },
+    {
+      "brand": "符掌柜德国脆皮猪肘烤肋排",
+      "address": "东门大街与三八路交叉口东北140米",
+      "distance": "67m"
+    },
+    {
+      "brand": "嘉兴大肉粽(惠南店)",
+      "address": "东门大街197号",
+      "distance": "67m"
+    },
+    {
+      "brand": "缙云烧饼(海燕大厦店)",
+      "address": "东门大街141号海燕大厦F1层",
+      "distance": "67m"
+    },
+    {
+      "brand": "鸭佬九衢州鸭头(东门大街店)",
+      "address": "东门大街157号",
+      "distance": "67m"
+    },
+    {
+      "brand": "香辣鸭脖(惠南店)",
+      "address": "东门大街141号海燕商场F1层",
+      "distance": "67m"
+    },
+    {
+      "brand": "达美乐比萨(东门大街店)",
+      "address": "东门大街200号1层01室",
+      "distance": "24m"
+    },
+    {
+      "brand": "Tims咖啡(惠南浦商百货店)",
+      "address": "东门大街200号浦东商场(南汇店)F1",
+      "distance": "41m"
+    },
+    {
+      "brand": "柠季·手打柠檬茶(上海浦东商场店)",
+      "address": "东门大街200号浦东商场(南汇店)1层09号商铺",
+      "distance": "44m"
+    },
+    {
+      "brand": "北方老面馒头(运河路店)",
+      "address": "运河路269号106外室",
+      "distance": "57m"
+    },
+    {
+      "brand": "卤虾坊",
+      "address": "东门大街与三八路交叉口东北140米",
+      "distance": "65m"
+    },
+    {
+      "brand": "符掌柜德国脆皮猪肘烤肋排",
+      "address": "东门大街与三八路交叉口东北140米",
+      "distance": "67m"
+    },
+    {
+      "brand": "嘉兴大肉粽(惠南店)",
+      "address": "东门大街197号",
+      "distance": "67m"
+    },
+    {
+      "brand": "缙云烧饼(海燕大厦店)",
+      "address": "东门大街141号海燕大厦F1层",
+      "distance": "67m"
+    },
+    {
+      "brand": "鸭佬九衢州鸭头(东门大街店)",
+      "address": "东门大街157号",
+      "distance": "67m"
+    },
+    {
+      "brand": "香辣鸭脖(惠南店)",
+      "address": "东门大街141号海燕商场F1层",
+      "distance": "67m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海惠南鼎基广场",
+      "open_date": "2000-06-01",
+      "area": "5.6万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "弘基商业休闲广场",
+      "open_date": "-",
+      "area": "-",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海汇港国际",
+      "open_date": "2018-01-01",
+      "area": "7万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 3.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 66.7
+    },
+    {
+      "type": "购物",
+      "count": 17.0,
+      "within_1yr_pct": 11.8,
+      "1_3yr_pct": 23.5,
+      "over_3yr_pct": 64.7
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    },
+    {
+      "type": "教育培训",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    },
+    {
+      "type": "生活服务",
+      "count": 2.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 0.0
+    }
+  ]
+}

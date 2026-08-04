@@ -1,0 +1,446 @@
+{
+  "name": "龙湖·梵城颂",
+  "city": "成都市",
+  "address": "四川省成都市成华区杉板桥路248号",
+  "lat": 30.665666,
+  "lng": 104.136862,
+  "overview": {
+    "score": 96.5,
+    "score_rank": "市内前30%",
+    "population_score": 82.6,
+    "area_score": 89.7,
+    "consumption_score": 89.8,
+    "industry_score": 96.6,
+    "annual_sales": "20",
+    "annual_sales_unit": "亿元",
+    "area_size_sqm": 14.0,
+    "open_date": "2019-12-31",
+    "operator": "龙湖集团控股有限公司",
+    "brand": "龙湖",
+    "type": "美食型",
+    "floors": "B1-L5"
+  },
+  "traffic": {
+    "annual_daily": 5.41,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第15",
+    "jun_total": 234.6,
+    "jun_total_rank": "市内商场第11名",
+    "jun_daily_avg": 7.8,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第11名",
+    "weekday_avg": 7.1,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第11名",
+    "holiday_avg": 9.9,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第10名"
+  },
+  "population": {
+    "residential": {
+      "500m": 1.6,
+      "1_5km": 22.0,
+      "3km": 82.6
+    },
+    "office": {
+      "500m": 1.9,
+      "1_5km": 10.5,
+      "3km": 37.0
+    },
+    "permanent": {
+      "500m": 2.7,
+      "1_5km": 21.2,
+      "3km": 76.3
+    }
+  },
+  "business": {
+    "competitors": 9.0,
+    "food": 534.0,
+    "shopping": 482.0,
+    "leisure": 71.0,
+    "education": 41.0,
+    "hotel": 223.0,
+    "services": 394.0,
+    "fitness": 45.0,
+    "auto": 43.0,
+    "total_stores": 914.0,
+    "old_store_3yr_pct": 39.0
+  },
+  "nearby_poi": {
+    "business": 5.0,
+    "community": 571.0,
+    "office": 17.0,
+    "school": 24.0,
+    "hospital": 105.0,
+    "transport": 10.0,
+    "scenic": 155.0
+  },
+  "demographics": {
+    "male_pct": 48.1,
+    "female_pct": null,
+    "education": {
+      "小学": 8.8,
+      "初中": 17.1,
+      "高中": 15.2,
+      "大专": 10.2,
+      "本科": 44.1,
+      "硕士": 3.5,
+      "博士": 1.1
+    },
+    "has_children_pct": 58.3,
+    "no_children_pct": 41.7
+  },
+  "scraped_at": "2026-07-31T13:46:05.269Z",
+  "nearby_restaurants": [
+    {
+      "brand": "三山两田新疆餐厅(龙湖滨江天街店)",
+      "address": "滨江天街5楼42-43号",
+      "distance": "11m"
+    },
+    {
+      "brand": "邻小味(滨江店)",
+      "address": "成华大道杉板桥路266号龙湖·滨江天街",
+      "distance": "13m"
+    },
+    {
+      "brand": "卷卷元气蛋包饭(龙湖成都滨江天街店)",
+      "address": "成华大道杉板桥路266号龙湖·滨江天街",
+      "distance": "14m"
+    },
+    {
+      "brand": "烤匠麻辣烤鱼(龙湖滨江店)",
+      "address": "杉板桥路266号龙湖滨江天街5F-15号",
+      "distance": "16m"
+    },
+    {
+      "brand": "廖记棒棒鸡(成都滨江天街店)",
+      "address": "成华大道杉板桥路266号龙湖·滨江天街",
+      "distance": "16m"
+    },
+    {
+      "brand": "卡笛-西餐厅",
+      "address": "成华大道杉板桥路266号龙湖·滨江天街F4层",
+      "distance": "16m"
+    },
+    {
+      "brand": "Yee3·三号椰(成都龙湖滨江天街店)",
+      "address": "成华大道杉板桥路266号龙湖·滨江天街B1层",
+      "distance": "16m"
+    },
+    {
+      "brand": "争鲜回转寿司(龙湖滨江天街PLUS店)",
+      "address": "杉板桥路266号龙湖滨江天街1栋4楼19号",
+      "distance": "16m"
+    },
+    {
+      "brand": "Manner Coffee(龙湖·滨江天街店)",
+      "address": "成华大道杉板桥路266号龙湖·滨江天街L1层",
+      "distance": "16m"
+    },
+    {
+      "brand": "天汀天妇罗·牛排饭",
+      "address": "跳蹬河街道滨江天街4楼37号",
+      "distance": "16m"
+    },
+    {
+      "brand": "三山两田新疆餐厅(龙湖滨江天街店)",
+      "address": "滨江天街5楼42-43号",
+      "distance": "11m"
+    },
+    {
+      "brand": "邻小味(滨江店)",
+      "address": "成华大道杉板桥路266号龙湖·滨江天街",
+      "distance": "13m"
+    },
+    {
+      "brand": "卷卷元气蛋包饭(龙湖成都滨江天街店)",
+      "address": "成华大道杉板桥路266号龙湖·滨江天街",
+      "distance": "14m"
+    },
+    {
+      "brand": "烤匠麻辣烤鱼(龙湖滨江店)",
+      "address": "杉板桥路266号龙湖滨江天街5F-15号",
+      "distance": "16m"
+    },
+    {
+      "brand": "廖记棒棒鸡(成都滨江天街店)",
+      "address": "成华大道杉板桥路266号龙湖·滨江天街",
+      "distance": "16m"
+    },
+    {
+      "brand": "卡笛-西餐厅",
+      "address": "成华大道杉板桥路266号龙湖·滨江天街F4层",
+      "distance": "16m"
+    },
+    {
+      "brand": "Yee3·三号椰(成都龙湖滨江天街店)",
+      "address": "成华大道杉板桥路266号龙湖·滨江天街B1层",
+      "distance": "16m"
+    },
+    {
+      "brand": "争鲜回转寿司(龙湖滨江天街PLUS店)",
+      "address": "杉板桥路266号龙湖滨江天街1栋4楼19号",
+      "distance": "16m"
+    },
+    {
+      "brand": "Manner Coffee(龙湖·滨江天街店)",
+      "address": "成华大道杉板桥路266号龙湖·滨江天街L1层",
+      "distance": "16m"
+    },
+    {
+      "brand": "天汀天妇罗·牛排饭",
+      "address": "跳蹬河街道滨江天街4楼37号",
+      "distance": "16m"
+    },
+    {
+      "brand": "三山两田新疆餐厅(龙湖滨江天街店)",
+      "address": "滨江天街5楼42-43号",
+      "distance": "11m"
+    },
+    {
+      "brand": "邻小味(滨江店)",
+      "address": "成华大道杉板桥路266号龙湖·滨江天街",
+      "distance": "13m"
+    },
+    {
+      "brand": "卷卷元气蛋包饭(龙湖成都滨江天街店)",
+      "address": "成华大道杉板桥路266号龙湖·滨江天街",
+      "distance": "14m"
+    },
+    {
+      "brand": "烤匠麻辣烤鱼(龙湖滨江店)",
+      "address": "杉板桥路266号龙湖滨江天街5F-15号",
+      "distance": "16m"
+    },
+    {
+      "brand": "廖记棒棒鸡(成都滨江天街店)",
+      "address": "成华大道杉板桥路266号龙湖·滨江天街",
+      "distance": "16m"
+    },
+    {
+      "brand": "卡笛-西餐厅",
+      "address": "成华大道杉板桥路266号龙湖·滨江天街F4层",
+      "distance": "16m"
+    },
+    {
+      "brand": "Yee3·三号椰(成都龙湖滨江天街店)",
+      "address": "成华大道杉板桥路266号龙湖·滨江天街B1层",
+      "distance": "16m"
+    },
+    {
+      "brand": "争鲜回转寿司(龙湖滨江天街PLUS店)",
+      "address": "杉板桥路266号龙湖滨江天街1栋4楼19号",
+      "distance": "16m"
+    },
+    {
+      "brand": "Manner Coffee(龙湖·滨江天街店)",
+      "address": "成华大道杉板桥路266号龙湖·滨江天街L1层",
+      "distance": "16m"
+    },
+    {
+      "brand": "天汀天妇罗·牛排饭",
+      "address": "跳蹬河街道滨江天街4楼37号",
+      "distance": "16m"
+    },
+    {
+      "brand": "三山两田新疆餐厅(龙湖滨江天街店)",
+      "address": "滨江天街5楼42-43号",
+      "distance": "11m"
+    },
+    {
+      "brand": "邻小味(滨江店)",
+      "address": "成华大道杉板桥路266号龙湖·滨江天街",
+      "distance": "13m"
+    },
+    {
+      "brand": "卷卷元气蛋包饭(龙湖成都滨江天街店)",
+      "address": "成华大道杉板桥路266号龙湖·滨江天街",
+      "distance": "14m"
+    },
+    {
+      "brand": "烤匠麻辣烤鱼(龙湖滨江店)",
+      "address": "杉板桥路266号龙湖滨江天街5F-15号",
+      "distance": "16m"
+    },
+    {
+      "brand": "廖记棒棒鸡(成都滨江天街店)",
+      "address": "成华大道杉板桥路266号龙湖·滨江天街",
+      "distance": "16m"
+    },
+    {
+      "brand": "卡笛-西餐厅",
+      "address": "成华大道杉板桥路266号龙湖·滨江天街F4层",
+      "distance": "16m"
+    },
+    {
+      "brand": "Yee3·三号椰(成都龙湖滨江天街店)",
+      "address": "成华大道杉板桥路266号龙湖·滨江天街B1层",
+      "distance": "16m"
+    },
+    {
+      "brand": "争鲜回转寿司(龙湖滨江天街PLUS店)",
+      "address": "杉板桥路266号龙湖滨江天街1栋4楼19号",
+      "distance": "16m"
+    },
+    {
+      "brand": "Manner Coffee(龙湖·滨江天街店)",
+      "address": "成华大道杉板桥路266号龙湖·滨江天街L1层",
+      "distance": "16m"
+    },
+    {
+      "brand": "天汀天妇罗·牛排饭",
+      "address": "跳蹬河街道滨江天街4楼37号",
+      "distance": "16m"
+    },
+    {
+      "brand": "三山两田新疆餐厅(龙湖滨江天街店)",
+      "address": "滨江天街5楼42-43号",
+      "distance": "11m"
+    },
+    {
+      "brand": "邻小味(滨江店)",
+      "address": "成华大道杉板桥路266号龙湖·滨江天街",
+      "distance": "13m"
+    },
+    {
+      "brand": "卷卷元气蛋包饭(龙湖成都滨江天街店)",
+      "address": "成华大道杉板桥路266号龙湖·滨江天街",
+      "distance": "14m"
+    },
+    {
+      "brand": "烤匠麻辣烤鱼(龙湖滨江店)",
+      "address": "杉板桥路266号龙湖滨江天街5F-15号",
+      "distance": "16m"
+    },
+    {
+      "brand": "廖记棒棒鸡(成都滨江天街店)",
+      "address": "成华大道杉板桥路266号龙湖·滨江天街",
+      "distance": "16m"
+    },
+    {
+      "brand": "卡笛-西餐厅",
+      "address": "成华大道杉板桥路266号龙湖·滨江天街F4层",
+      "distance": "16m"
+    },
+    {
+      "brand": "Yee3·三号椰(成都龙湖滨江天街店)",
+      "address": "成华大道杉板桥路266号龙湖·滨江天街B1层",
+      "distance": "16m"
+    },
+    {
+      "brand": "争鲜回转寿司(龙湖滨江天街PLUS店)",
+      "address": "杉板桥路266号龙湖滨江天街1栋4楼19号",
+      "distance": "16m"
+    },
+    {
+      "brand": "Manner Coffee(龙湖·滨江天街店)",
+      "address": "成华大道杉板桥路266号龙湖·滨江天街L1层",
+      "distance": "16m"
+    },
+    {
+      "brand": "天汀天妇罗·牛排饭",
+      "address": "跳蹬河街道滨江天街4楼37号",
+      "distance": "16m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "成都天荟·万科城市广场",
+      "open_date": "2019-12-30",
+      "area": "10万㎡",
+      "jun_daily_avg": "5.2万人次",
+      "weekday_avg": "4.9万人次",
+      "holiday_avg": "6.1万人次"
+    },
+    {
+      "name": "成都多弗汇DOOF MALL",
+      "open_date": "2018-04-01",
+      "area": "5万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "成都招商花园城",
+      "open_date": "2020-05-01",
+      "area": "4.9万㎡",
+      "jun_daily_avg": "1.8万人次",
+      "weekday_avg": "1.8万人次",
+      "holiday_avg": "1.9万人次"
+    },
+    {
+      "name": "成都成华SM城市广场",
+      "open_date": "2006-10-20",
+      "area": "17万㎡",
+      "jun_daily_avg": "3万人次",
+      "weekday_avg": "2.7万人次",
+      "holiday_avg": "3.7万人次"
+    },
+    {
+      "name": "成都市朗FUN",
+      "open_date": "2021-12-24",
+      "area": "1.8万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 286.0,
+      "within_1yr_pct": 24.1,
+      "1_3yr_pct": 34.6,
+      "over_3yr_pct": 41.3
+    },
+    {
+      "type": "购物",
+      "count": 210.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 36.2,
+      "over_3yr_pct": 43.8
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 52.0,
+      "within_1yr_pct": 40.4,
+      "1_3yr_pct": 23.1,
+      "over_3yr_pct": 36.5
+    },
+    {
+      "type": "教育培训",
+      "count": 16.0,
+      "within_1yr_pct": 31.3,
+      "1_3yr_pct": 31.3,
+      "over_3yr_pct": 37.5
+    },
+    {
+      "type": "酒店住宿",
+      "count": 69.0,
+      "within_1yr_pct": 37.7,
+      "1_3yr_pct": 23.2,
+      "over_3yr_pct": 39.1
+    },
+    {
+      "type": "生活服务",
+      "count": 251.0,
+      "within_1yr_pct": 27.5,
+      "1_3yr_pct": 40.6,
+      "over_3yr_pct": 31.9
+    },
+    {
+      "type": "运动健身",
+      "count": 14.0,
+      "within_1yr_pct": 35.7,
+      "1_3yr_pct": 21.4,
+      "over_3yr_pct": 42.9
+    },
+    {
+      "type": "车辆服务",
+      "count": 16.0,
+      "within_1yr_pct": 43.8,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 31.3
+    }
+  ]
+}

@@ -1,0 +1,486 @@
+{
+  "name": "上海100AM新百安商场",
+  "city": "上海市",
+  "address": "上海市普陀区长寿路街道事久馨苑上海国际时尚教育中心F楼",
+  "lat": 31.238318,
+  "lng": 121.432529,
+  "overview": {
+    "score": 81.8,
+    "score_rank": "市内前30%",
+    "population_score": 100.0,
+    "area_score": 84.5,
+    "consumption_score": 82.8,
+    "industry_score": 81.7,
+    "annual_sales": "",
+    "annual_sales_unit": "",
+    "area_size_sqm": null,
+    "open_date": "",
+    "operator": "",
+    "brand": "",
+    "type": "",
+    "floors": ""
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "",
+    "annual_daily_rank": "",
+    "jun_total": null,
+    "jun_total_rank": "",
+    "jun_daily_avg": null,
+    "jun_daily_unit": "",
+    "jun_daily_rank": "",
+    "weekday_avg": null,
+    "weekday_unit": "",
+    "weekday_rank": "",
+    "holiday_avg": null,
+    "holiday_unit": "",
+    "holiday_rank": ""
+  },
+  "population": {
+    "residential": {
+      "500m": 4.0,
+      "1_5km": 34.9,
+      "3km": 115.8
+    },
+    "office": {
+      "500m": 2.4,
+      "1_5km": 23.2,
+      "3km": 87.5
+    },
+    "permanent": {
+      "500m": 4.0,
+      "1_5km": 36.4,
+      "3km": 130.1
+    }
+  },
+  "business": {
+    "competitors": 2.0,
+    "food": 265.0,
+    "shopping": 148.0,
+    "leisure": 40.0,
+    "education": 57.0,
+    "hotel": 55.0,
+    "services": 217.0,
+    "fitness": 23.0,
+    "auto": 13.0,
+    "total_stores": 829.0,
+    "old_store_3yr_pct": 49.0
+  },
+  "nearby_poi": {
+    "business": 13.0,
+    "community": 969.0,
+    "office": 160.0,
+    "school": 79.0,
+    "hospital": 135.0,
+    "transport": 14.0,
+    "scenic": 466.0
+  },
+  "demographics": {
+    "male_pct": 47.7,
+    "female_pct": null,
+    "education": {
+      "小学": 8.6,
+      "初中": 16.6,
+      "高中": 11.8,
+      "大专": 6.8,
+      "本科": 48.9,
+      "硕士": 5.6,
+      "博士": 1.7
+    },
+    "has_children_pct": null,
+    "no_children_pct": null
+  },
+  "scraped_at": "2026-07-31T14:51:19.918Z",
+  "nearby_restaurants": [
+    {
+      "brand": "小芳廷",
+      "address": "长寿路652号(国际时尚教育中心K栋,近胶州路)",
+      "distance": "25m"
+    },
+    {
+      "brand": "小时光咖啡馆(长寿路店)",
+      "address": "长寿路652号景源时尚产业园",
+      "distance": "46m"
+    },
+    {
+      "brand": "鱼籽私房菜(创享塔店)",
+      "address": "叶家宅路100号创享塔2号楼106鱼籽湘约车子进口处",
+      "distance": "61m"
+    },
+    {
+      "brand": "尚食堂",
+      "address": "长寿路652号",
+      "distance": "66m"
+    },
+    {
+      "brand": "海峰特色烧烤(创享塔店)",
+      "address": "叶家宅路100号7幢102室",
+      "distance": "73m"
+    },
+    {
+      "brand": "潮厢·潮汕牛肉粿条(叶家宅路店)",
+      "address": "叶家宅路100号2号楼7栋104室",
+      "distance": "73m"
+    },
+    {
+      "brand": "嘢味老友粉",
+      "address": "长寿路728号(武宁路地铁站2号口步行430米)",
+      "distance": "73m"
+    },
+    {
+      "brand": "FORYOO COFFEE",
+      "address": "叶家宅路100号10幢1层199-6室",
+      "distance": "74m"
+    },
+    {
+      "brand": "草本汤(上海叶家宅店)",
+      "address": "叶家宅路100号7幢1层103室(武宁路地铁站2号口步行450米)",
+      "distance": "79m"
+    },
+    {
+      "brand": "彝老者·贵州烙锅(长寿店)",
+      "address": "叶家宅路100号7栋104室",
+      "distance": "79m"
+    },
+    {
+      "brand": "小芳廷",
+      "address": "长寿路652号(国际时尚教育中心K栋,近胶州路)",
+      "distance": "25m"
+    },
+    {
+      "brand": "小时光咖啡馆(长寿路店)",
+      "address": "长寿路652号景源时尚产业园",
+      "distance": "46m"
+    },
+    {
+      "brand": "鱼籽私房菜(创享塔店)",
+      "address": "叶家宅路100号创享塔2号楼106鱼籽湘约车子进口处",
+      "distance": "61m"
+    },
+    {
+      "brand": "尚食堂",
+      "address": "长寿路652号",
+      "distance": "66m"
+    },
+    {
+      "brand": "海峰特色烧烤(创享塔店)",
+      "address": "叶家宅路100号7幢102室",
+      "distance": "73m"
+    },
+    {
+      "brand": "潮厢·潮汕牛肉粿条(叶家宅路店)",
+      "address": "叶家宅路100号2号楼7栋104室",
+      "distance": "73m"
+    },
+    {
+      "brand": "嘢味老友粉",
+      "address": "长寿路728号(武宁路地铁站2号口步行430米)",
+      "distance": "73m"
+    },
+    {
+      "brand": "FORYOO COFFEE",
+      "address": "叶家宅路100号10幢1层199-6室",
+      "distance": "74m"
+    },
+    {
+      "brand": "草本汤(上海叶家宅店)",
+      "address": "叶家宅路100号7幢1层103室(武宁路地铁站2号口步行450米)",
+      "distance": "79m"
+    },
+    {
+      "brand": "彝老者·贵州烙锅(长寿店)",
+      "address": "叶家宅路100号7栋104室",
+      "distance": "79m"
+    },
+    {
+      "brand": "小芳廷",
+      "address": "长寿路652号(国际时尚教育中心K栋,近胶州路)",
+      "distance": "25m"
+    },
+    {
+      "brand": "小时光咖啡馆(长寿路店)",
+      "address": "长寿路652号景源时尚产业园",
+      "distance": "46m"
+    },
+    {
+      "brand": "鱼籽私房菜(创享塔店)",
+      "address": "叶家宅路100号创享塔2号楼106鱼籽湘约车子进口处",
+      "distance": "61m"
+    },
+    {
+      "brand": "尚食堂",
+      "address": "长寿路652号",
+      "distance": "66m"
+    },
+    {
+      "brand": "海峰特色烧烤(创享塔店)",
+      "address": "叶家宅路100号7幢102室",
+      "distance": "73m"
+    },
+    {
+      "brand": "潮厢·潮汕牛肉粿条(叶家宅路店)",
+      "address": "叶家宅路100号2号楼7栋104室",
+      "distance": "73m"
+    },
+    {
+      "brand": "嘢味老友粉",
+      "address": "长寿路728号(武宁路地铁站2号口步行430米)",
+      "distance": "73m"
+    },
+    {
+      "brand": "FORYOO COFFEE",
+      "address": "叶家宅路100号10幢1层199-6室",
+      "distance": "74m"
+    },
+    {
+      "brand": "草本汤(上海叶家宅店)",
+      "address": "叶家宅路100号7幢1层103室(武宁路地铁站2号口步行450米)",
+      "distance": "79m"
+    },
+    {
+      "brand": "彝老者·贵州烙锅(长寿店)",
+      "address": "叶家宅路100号7栋104室",
+      "distance": "79m"
+    },
+    {
+      "brand": "小芳廷",
+      "address": "长寿路652号(国际时尚教育中心K栋,近胶州路)",
+      "distance": "25m"
+    },
+    {
+      "brand": "小时光咖啡馆(长寿路店)",
+      "address": "长寿路652号景源时尚产业园",
+      "distance": "46m"
+    },
+    {
+      "brand": "鱼籽私房菜(创享塔店)",
+      "address": "叶家宅路100号创享塔2号楼106鱼籽湘约车子进口处",
+      "distance": "61m"
+    },
+    {
+      "brand": "尚食堂",
+      "address": "长寿路652号",
+      "distance": "66m"
+    },
+    {
+      "brand": "海峰特色烧烤(创享塔店)",
+      "address": "叶家宅路100号7幢102室",
+      "distance": "73m"
+    },
+    {
+      "brand": "潮厢·潮汕牛肉粿条(叶家宅路店)",
+      "address": "叶家宅路100号2号楼7栋104室",
+      "distance": "73m"
+    },
+    {
+      "brand": "嘢味老友粉",
+      "address": "长寿路728号(武宁路地铁站2号口步行430米)",
+      "distance": "73m"
+    },
+    {
+      "brand": "FORYOO COFFEE",
+      "address": "叶家宅路100号10幢1层199-6室",
+      "distance": "74m"
+    },
+    {
+      "brand": "草本汤(上海叶家宅店)",
+      "address": "叶家宅路100号7幢1层103室(武宁路地铁站2号口步行450米)",
+      "distance": "79m"
+    },
+    {
+      "brand": "彝老者·贵州烙锅(长寿店)",
+      "address": "叶家宅路100号7栋104室",
+      "distance": "79m"
+    },
+    {
+      "brand": "小芳廷",
+      "address": "长寿路652号(国际时尚教育中心K栋,近胶州路)",
+      "distance": "25m"
+    },
+    {
+      "brand": "小时光咖啡馆(长寿路店)",
+      "address": "长寿路652号景源时尚产业园",
+      "distance": "46m"
+    },
+    {
+      "brand": "鱼籽私房菜(创享塔店)",
+      "address": "叶家宅路100号创享塔2号楼106鱼籽湘约车子进口处",
+      "distance": "61m"
+    },
+    {
+      "brand": "尚食堂",
+      "address": "长寿路652号",
+      "distance": "66m"
+    },
+    {
+      "brand": "海峰特色烧烤(创享塔店)",
+      "address": "叶家宅路100号7幢102室",
+      "distance": "73m"
+    },
+    {
+      "brand": "潮厢·潮汕牛肉粿条(叶家宅路店)",
+      "address": "叶家宅路100号2号楼7栋104室",
+      "distance": "73m"
+    },
+    {
+      "brand": "嘢味老友粉",
+      "address": "长寿路728号(武宁路地铁站2号口步行430米)",
+      "distance": "73m"
+    },
+    {
+      "brand": "FORYOO COFFEE",
+      "address": "叶家宅路100号10幢1层199-6室",
+      "distance": "74m"
+    },
+    {
+      "brand": "草本汤(上海叶家宅店)",
+      "address": "叶家宅路100号7幢1层103室(武宁路地铁站2号口步行450米)",
+      "distance": "79m"
+    },
+    {
+      "brand": "彝老者·贵州烙锅(长寿店)",
+      "address": "叶家宅路100号7栋104室",
+      "distance": "79m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海100AM新百安商场",
+      "open_date": "2019-04-21",
+      "area": "3.5万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海亚新生活广场",
+      "open_date": "1996-12-08",
+      "area": "4.5万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海旭辉里",
+      "open_date": "2021-10-29",
+      "area": "2万㎡",
+      "jun_daily_avg": "2.9万人次",
+      "weekday_avg": "2.8万人次",
+      "holiday_avg": "3万人次"
+    },
+    {
+      "name": "上海瑞安鸿寿坊",
+      "open_date": "2023-09-28",
+      "area": "1.5万㎡",
+      "jun_daily_avg": "1.9万人次",
+      "weekday_avg": "1.9万人次",
+      "holiday_avg": "2.1万人次"
+    },
+    {
+      "name": "上海我格广场",
+      "open_date": "2010-06-06",
+      "area": "4.8万㎡",
+      "jun_daily_avg": "1.7万人次",
+      "weekday_avg": "1.6万人次",
+      "holiday_avg": "1.9万人次"
+    },
+    {
+      "name": "上海189弄购物中心",
+      "open_date": "2017-01-18",
+      "area": "2万㎡",
+      "jun_daily_avg": "1.4万人次",
+      "weekday_avg": "1.3万人次",
+      "holiday_avg": "1.4万人次"
+    },
+    {
+      "name": "上海星方汇",
+      "open_date": "2019-01-01",
+      "area": "5万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海巴黎春天(陕西路店)",
+      "open_date": "2011-11-01",
+      "area": "4.2万㎡",
+      "jun_daily_avg": "1.2万人次",
+      "weekday_avg": "1.1万人次",
+      "holiday_avg": "1.3万人次"
+    },
+    {
+      "name": "上海悦达889广场",
+      "open_date": "2010-05-05",
+      "area": "4.7万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海绿地·柒彩里",
+      "open_date": "2019-03-01",
+      "area": "3.2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 265.0,
+      "within_1yr_pct": 28.3,
+      "1_3yr_pct": 30.2,
+      "over_3yr_pct": 41.5
+    },
+    {
+      "type": "购物",
+      "count": 148.0,
+      "within_1yr_pct": 18.2,
+      "1_3yr_pct": 28.4,
+      "over_3yr_pct": 53.4
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 51.0,
+      "within_1yr_pct": 13.7,
+      "1_3yr_pct": 39.2,
+      "over_3yr_pct": 47.1
+    },
+    {
+      "type": "教育培训",
+      "count": 57.0,
+      "within_1yr_pct": 31.6,
+      "1_3yr_pct": 15.8,
+      "over_3yr_pct": 52.6
+    },
+    {
+      "type": "酒店住宿",
+      "count": 55.0,
+      "within_1yr_pct": 32.7,
+      "1_3yr_pct": 20.0,
+      "over_3yr_pct": 47.3
+    },
+    {
+      "type": "生活服务",
+      "count": 217.0,
+      "within_1yr_pct": 15.7,
+      "1_3yr_pct": 27.2,
+      "over_3yr_pct": 57.1
+    },
+    {
+      "type": "运动健身",
+      "count": 23.0,
+      "within_1yr_pct": 26.1,
+      "1_3yr_pct": 34.8,
+      "over_3yr_pct": 39.1
+    },
+    {
+      "type": "车辆服务",
+      "count": 13.0,
+      "within_1yr_pct": 15.4,
+      "1_3yr_pct": 38.5,
+      "over_3yr_pct": 46.2
+    }
+  ]
+}

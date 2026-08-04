@@ -1,0 +1,479 @@
+{
+  "name": "上海环球金融中心",
+  "city": "上海市",
+  "address": "上海市浦东新区陆家嘴街道上海环球金融中心上海柏悦酒店",
+  "lat": 31.234352,
+  "lng": 121.507439,
+  "overview": {
+    "score": 90.2,
+    "score_rank": "市内前30%",
+    "population_score": 77.0,
+    "area_score": 83.3,
+    "consumption_score": 89.4,
+    "industry_score": 90.3,
+    "annual_sales": "上海环球金融中心是一座集金融中心和信息中心双重功能的“城中之城”，聚集城市的多种元素，进行丰富多彩的经济和文化交流。它是一座能吸引全球权威人士汇聚于此，启迪无限智慧，孕育多样文化的“城市”，形成一股向周边发散的影响力",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 1.36,
+    "open_date": "2008-08-29",
+    "operator": "上海上实物业管理有限公司",
+    "brand": "",
+    "type": "美食型",
+    "floors": "B2-L1"
+  },
+  "traffic": {
+    "annual_daily": 1.2,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第217",
+    "jun_total": 57.3,
+    "jun_total_rank": "市内商场第197名",
+    "jun_daily_avg": 1.9,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第197名",
+    "weekday_avg": 2.2,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第165名",
+    "holiday_avg": 1.0,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第321名"
+  },
+  "population": {
+    "residential": {
+      "500m": 1.3,
+      "1_5km": 13.7,
+      "3km": 71.3
+    },
+    "office": {
+      "500m": 6.8,
+      "1_5km": 30.3,
+      "3km": 100.1
+    },
+    "permanent": {
+      "500m": 3.4,
+      "1_5km": 20.2,
+      "3km": 85.8
+    }
+  },
+  "business": {
+    "competitors": 18.0,
+    "food": 273.0,
+    "shopping": 150.0,
+    "leisure": 10.0,
+    "education": 5.0,
+    "hotel": 31.0,
+    "services": 119.0,
+    "fitness": 18.0,
+    "auto": 27.0,
+    "total_stores": 86.0,
+    "old_store_3yr_pct": 65.0
+  },
+  "nearby_poi": {
+    "business": 18.0,
+    "community": 596.0,
+    "office": 147.0,
+    "school": 24.0,
+    "hospital": 155.0,
+    "transport": 18.0,
+    "scenic": 692.0
+  },
+  "demographics": {
+    "male_pct": 47.6,
+    "female_pct": null,
+    "education": {
+      "小学": 10.0,
+      "初中": 18.3,
+      "高中": 11.3,
+      "大专": 7.9,
+      "本科": 46.3,
+      "硕士": 4.7,
+      "博士": 1.5
+    },
+    "has_children_pct": 58.5,
+    "no_children_pct": 41.5
+  },
+  "scraped_at": "2026-07-31T16:58:41.347Z",
+  "nearby_restaurants": [
+    {
+      "brand": "胡子大厨·湖南小炒(环球金融中心店)",
+      "address": "世纪大道100号地下一层商场B102-1",
+      "distance": "10m"
+    },
+    {
+      "brand": "纹兵卫·手打荞麦面日料(环球金融中心店)",
+      "address": "上海环球金融中心B1层(陆家嘴地铁站8号口步行400米)",
+      "distance": "24m"
+    },
+    {
+      "brand": "阿里疆Alijiang·丝路美食·清真(环球金融中心店)",
+      "address": "世纪大道100号上海环球金融中心3楼317-320",
+      "distance": "27m"
+    },
+    {
+      "brand": "蒗葶泰式酒吧餐厅(上海环球金融中心商场店)",
+      "address": "世纪大道100号上海环球金融中心商场3层",
+      "distance": "30m"
+    },
+    {
+      "brand": "上海柏悦酒店·悦轩",
+      "address": "世纪大道100号柏悦酒店8层",
+      "distance": "32m"
+    },
+    {
+      "brand": "藕巷·藕汤饭",
+      "address": "世纪大道100号上海环球金融中心地下商场1楼B10-2",
+      "distance": "32m"
+    },
+    {
+      "brand": "猪角·闽南猪脚饭(环球金融中心店)",
+      "address": "中国(上海)自由贸易试验区世纪大道100号B2楼B202-11室",
+      "distance": "35m"
+    },
+    {
+      "brand": "炊可可江西小炒(环球金融中心店)",
+      "address": "世纪大道100号上海环球金融中心商场B2层",
+      "distance": "35m"
+    },
+    {
+      "brand": "上海柏悦酒店·世纪100牛排馆",
+      "address": "浦东大道100号柏悦酒店91层",
+      "distance": "35m"
+    },
+    {
+      "brand": "上海柏悦酒店·世纪100餐厅粤菜馆",
+      "address": "世纪大道100号上海柏悦酒店91层",
+      "distance": "35m"
+    },
+    {
+      "brand": "胡子大厨·湖南小炒(环球金融中心店)",
+      "address": "世纪大道100号地下一层商场B102-1",
+      "distance": "10m"
+    },
+    {
+      "brand": "纹兵卫·手打荞麦面日料(环球金融中心店)",
+      "address": "上海环球金融中心B1层(陆家嘴地铁站8号口步行400米)",
+      "distance": "24m"
+    },
+    {
+      "brand": "阿里疆Alijiang·丝路美食·清真(环球金融中心店)",
+      "address": "世纪大道100号上海环球金融中心3楼317-320",
+      "distance": "27m"
+    },
+    {
+      "brand": "蒗葶泰式酒吧餐厅(上海环球金融中心商场店)",
+      "address": "世纪大道100号上海环球金融中心商场3层",
+      "distance": "30m"
+    },
+    {
+      "brand": "上海柏悦酒店·悦轩",
+      "address": "世纪大道100号柏悦酒店8层",
+      "distance": "32m"
+    },
+    {
+      "brand": "藕巷·藕汤饭",
+      "address": "世纪大道100号上海环球金融中心地下商场1楼B10-2",
+      "distance": "32m"
+    },
+    {
+      "brand": "猪角·闽南猪脚饭(环球金融中心店)",
+      "address": "中国(上海)自由贸易试验区世纪大道100号B2楼B202-11室",
+      "distance": "35m"
+    },
+    {
+      "brand": "炊可可江西小炒(环球金融中心店)",
+      "address": "世纪大道100号上海环球金融中心商场B2层",
+      "distance": "35m"
+    },
+    {
+      "brand": "上海柏悦酒店·世纪100牛排馆",
+      "address": "浦东大道100号柏悦酒店91层",
+      "distance": "35m"
+    },
+    {
+      "brand": "上海柏悦酒店·世纪100餐厅粤菜馆",
+      "address": "世纪大道100号上海柏悦酒店91层",
+      "distance": "35m"
+    },
+    {
+      "brand": "胡子大厨·湖南小炒(环球金融中心店)",
+      "address": "世纪大道100号地下一层商场B102-1",
+      "distance": "10m"
+    },
+    {
+      "brand": "纹兵卫·手打荞麦面日料(环球金融中心店)",
+      "address": "上海环球金融中心B1层(陆家嘴地铁站8号口步行400米)",
+      "distance": "24m"
+    },
+    {
+      "brand": "阿里疆Alijiang·丝路美食·清真(环球金融中心店)",
+      "address": "世纪大道100号上海环球金融中心3楼317-320",
+      "distance": "27m"
+    },
+    {
+      "brand": "蒗葶泰式酒吧餐厅(上海环球金融中心商场店)",
+      "address": "世纪大道100号上海环球金融中心商场3层",
+      "distance": "30m"
+    },
+    {
+      "brand": "上海柏悦酒店·悦轩",
+      "address": "世纪大道100号柏悦酒店8层",
+      "distance": "32m"
+    },
+    {
+      "brand": "藕巷·藕汤饭",
+      "address": "世纪大道100号上海环球金融中心地下商场1楼B10-2",
+      "distance": "32m"
+    },
+    {
+      "brand": "猪角·闽南猪脚饭(环球金融中心店)",
+      "address": "中国(上海)自由贸易试验区世纪大道100号B2楼B202-11室",
+      "distance": "35m"
+    },
+    {
+      "brand": "炊可可江西小炒(环球金融中心店)",
+      "address": "世纪大道100号上海环球金融中心商场B2层",
+      "distance": "35m"
+    },
+    {
+      "brand": "上海柏悦酒店·世纪100牛排馆",
+      "address": "浦东大道100号柏悦酒店91层",
+      "distance": "35m"
+    },
+    {
+      "brand": "上海柏悦酒店·世纪100餐厅粤菜馆",
+      "address": "世纪大道100号上海柏悦酒店91层",
+      "distance": "35m"
+    },
+    {
+      "brand": "胡子大厨·湖南小炒(环球金融中心店)",
+      "address": "世纪大道100号地下一层商场B102-1",
+      "distance": "10m"
+    },
+    {
+      "brand": "纹兵卫·手打荞麦面日料(环球金融中心店)",
+      "address": "上海环球金融中心B1层(陆家嘴地铁站8号口步行400米)",
+      "distance": "24m"
+    },
+    {
+      "brand": "阿里疆Alijiang·丝路美食·清真(环球金融中心店)",
+      "address": "世纪大道100号上海环球金融中心3楼317-320",
+      "distance": "27m"
+    },
+    {
+      "brand": "蒗葶泰式酒吧餐厅(上海环球金融中心商场店)",
+      "address": "世纪大道100号上海环球金融中心商场3层",
+      "distance": "30m"
+    },
+    {
+      "brand": "上海柏悦酒店·悦轩",
+      "address": "世纪大道100号柏悦酒店8层",
+      "distance": "32m"
+    },
+    {
+      "brand": "藕巷·藕汤饭",
+      "address": "世纪大道100号上海环球金融中心地下商场1楼B10-2",
+      "distance": "32m"
+    },
+    {
+      "brand": "猪角·闽南猪脚饭(环球金融中心店)",
+      "address": "中国(上海)自由贸易试验区世纪大道100号B2楼B202-11室",
+      "distance": "35m"
+    },
+    {
+      "brand": "炊可可江西小炒(环球金融中心店)",
+      "address": "世纪大道100号上海环球金融中心商场B2层",
+      "distance": "35m"
+    },
+    {
+      "brand": "上海柏悦酒店·世纪100牛排馆",
+      "address": "浦东大道100号柏悦酒店91层",
+      "distance": "35m"
+    },
+    {
+      "brand": "上海柏悦酒店·世纪100餐厅粤菜馆",
+      "address": "世纪大道100号上海柏悦酒店91层",
+      "distance": "35m"
+    },
+    {
+      "brand": "胡子大厨·湖南小炒(环球金融中心店)",
+      "address": "世纪大道100号地下一层商场B102-1",
+      "distance": "10m"
+    },
+    {
+      "brand": "纹兵卫·手打荞麦面日料(环球金融中心店)",
+      "address": "上海环球金融中心B1层(陆家嘴地铁站8号口步行400米)",
+      "distance": "24m"
+    },
+    {
+      "brand": "阿里疆Alijiang·丝路美食·清真(环球金融中心店)",
+      "address": "世纪大道100号上海环球金融中心3楼317-320",
+      "distance": "27m"
+    },
+    {
+      "brand": "蒗葶泰式酒吧餐厅(上海环球金融中心商场店)",
+      "address": "世纪大道100号上海环球金融中心商场3层",
+      "distance": "30m"
+    },
+    {
+      "brand": "上海柏悦酒店·悦轩",
+      "address": "世纪大道100号柏悦酒店8层",
+      "distance": "32m"
+    },
+    {
+      "brand": "藕巷·藕汤饭",
+      "address": "世纪大道100号上海环球金融中心地下商场1楼B10-2",
+      "distance": "32m"
+    },
+    {
+      "brand": "猪角·闽南猪脚饭(环球金融中心店)",
+      "address": "中国(上海)自由贸易试验区世纪大道100号B2楼B202-11室",
+      "distance": "35m"
+    },
+    {
+      "brand": "炊可可江西小炒(环球金融中心店)",
+      "address": "世纪大道100号上海环球金融中心商场B2层",
+      "distance": "35m"
+    },
+    {
+      "brand": "上海柏悦酒店·世纪100牛排馆",
+      "address": "浦东大道100号柏悦酒店91层",
+      "distance": "35m"
+    },
+    {
+      "brand": "上海柏悦酒店·世纪100餐厅粤菜馆",
+      "address": "世纪大道100号上海柏悦酒店91层",
+      "distance": "35m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海览海国际广场",
+      "open_date": "2017-11-28",
+      "area": "3.7万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海之品商场",
+      "open_date": "-",
+      "area": "7万㎡",
+      "jun_daily_avg": "3.3万人次",
+      "weekday_avg": "3.4万人次",
+      "holiday_avg": "3.2万人次"
+    },
+    {
+      "name": "上海金茂J·LIFE生活时尚中心",
+      "open_date": "2005-09-01",
+      "area": "2.3万㎡",
+      "jun_daily_avg": "1.4万人次",
+      "weekday_avg": "1.4万人次",
+      "holiday_avg": "1.4万人次"
+    },
+    {
+      "name": "上海IFC",
+      "open_date": "2010-04-28",
+      "area": "11万㎡",
+      "jun_daily_avg": "5.2万人次",
+      "weekday_avg": "5.2万人次",
+      "holiday_avg": "5万人次"
+    },
+    {
+      "name": "上海GALA MALL尚悦湾广场",
+      "open_date": "2017-12-23",
+      "area": "7万㎡",
+      "jun_daily_avg": "2.8万人次",
+      "weekday_avg": "3.2万人次",
+      "holiday_avg": "1.6万人次"
+    },
+    {
+      "name": "上海正大广场",
+      "open_date": "2002-01-01",
+      "area": "24.3万㎡",
+      "jun_daily_avg": "5.2万人次",
+      "weekday_avg": "4.7万人次",
+      "holiday_avg": "6.3万人次"
+    },
+    {
+      "name": "上海陆家嘴中心L+Mall",
+      "open_date": "2018-12-23",
+      "area": "14万㎡",
+      "jun_daily_avg": "7.2万人次",
+      "weekday_avg": "7.4万人次",
+      "holiday_avg": "6.6万人次"
+    },
+    {
+      "name": "上海新梅联合广场",
+      "open_date": "2005-01-01",
+      "area": "6万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海1088广场",
+      "open_date": "2014-12-12",
+      "area": "3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海陆家嘴1885广场",
+      "open_date": "2009-01-01",
+      "area": "-",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 43.0,
+      "within_1yr_pct": 11.6,
+      "1_3yr_pct": 16.3,
+      "over_3yr_pct": 72.1
+    },
+    {
+      "type": "购物",
+      "count": 14.0,
+      "within_1yr_pct": 21.4,
+      "1_3yr_pct": 7.1,
+      "over_3yr_pct": 71.4
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    },
+    {
+      "type": "生活服务",
+      "count": 17.0,
+      "within_1yr_pct": 11.8,
+      "1_3yr_pct": 29.4,
+      "over_3yr_pct": 58.8
+    },
+    {
+      "type": "运动健身",
+      "count": 5.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 40.0,
+      "over_3yr_pct": 40.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 4.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 25.0
+    }
+  ]
+}

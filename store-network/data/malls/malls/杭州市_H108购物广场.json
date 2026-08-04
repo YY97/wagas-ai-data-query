@@ -1,0 +1,439 @@
+{
+  "name": "H108购物广场",
+  "city": "杭州市",
+  "address": "浙江省杭州市拱墅区登云路410号",
+  "lat": 30.29756,
+  "lng": 120.117803,
+  "overview": {
+    "score": null,
+    "score_rank": "",
+    "population_score": 92.0,
+    "area_score": 75.2,
+    "consumption_score": 90.4,
+    "industry_score": 69.0,
+    "annual_sales": "",
+    "annual_sales_unit": "",
+    "area_size_sqm": null,
+    "open_date": "",
+    "operator": "",
+    "brand": "",
+    "type": "综合型",
+    "floors": "L1-L5"
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "",
+    "annual_daily_rank": "",
+    "jun_total": 5.5,
+    "jun_total_rank": "市内商场第207名",
+    "jun_daily_avg": 1833.0,
+    "jun_daily_unit": "人次",
+    "jun_daily_rank": "市内商场第207名",
+    "weekday_avg": 1837.0,
+    "weekday_unit": "人次",
+    "weekday_rank": "市内商场第209名",
+    "holiday_avg": 1822.0,
+    "holiday_unit": "人次",
+    "holiday_rank": "市内商场第209名"
+  },
+  "population": {
+    "residential": {
+      "500m": 1.7,
+      "1_5km": 15.9,
+      "3km": 57.7
+    },
+    "office": {
+      "500m": 5500.0,
+      "1_5km": 8.3,
+      "3km": 33.0
+    },
+    "permanent": {
+      "500m": 1.4,
+      "1_5km": 15.0,
+      "3km": 55.2
+    }
+  },
+  "business": {
+    "competitors": 1.0,
+    "food": 122.0,
+    "shopping": 125.0,
+    "leisure": 13.0,
+    "education": 20.0,
+    "hotel": 18.0,
+    "services": 119.0,
+    "fitness": 20.0,
+    "auto": 12.0,
+    "total_stores": 30.0,
+    "old_store_3yr_pct": 33.0
+  },
+  "nearby_poi": {
+    "business": 5.0,
+    "community": 454.0,
+    "office": 47.0,
+    "school": 41.0,
+    "hospital": 102.0,
+    "transport": 16.0,
+    "scenic": 209.0
+  },
+  "demographics": {
+    "male_pct": 48.9,
+    "female_pct": null,
+    "education": {
+      "小学": 7.9,
+      "初中": 14.3,
+      "高中": 11.8,
+      "大专": 9.3,
+      "本科": 48.8,
+      "硕士": 6.6,
+      "博士": 1.3
+    },
+    "has_children_pct": 61.0,
+    "no_children_pct": 39.0
+  },
+  "scraped_at": "2026-08-02T09:17:35.699Z",
+  "nearby_restaurants": [
+    {
+      "brand": "笨姐居民楼火锅(城西云合店)",
+      "address": "登云路518号西城时代商务中心3幢",
+      "distance": "40m"
+    },
+    {
+      "brand": "河鲜生石锅鱼",
+      "address": "云合中心3幢A-103",
+      "distance": "41m"
+    },
+    {
+      "brand": "瑞幸咖啡(云合中心店)",
+      "address": "登云路410号西城时代商务中心3幢外围底商",
+      "distance": "45m"
+    },
+    {
+      "brand": "衢小开私房菜(云合店)",
+      "address": "登云路518号西城时代商务中心3幢F1层",
+      "distance": "45m"
+    },
+    {
+      "brand": "馋嘴嘴火锅串串",
+      "address": "登云路518号西城时代商务中心3幢F1层",
+      "distance": "49m"
+    },
+    {
+      "brand": "赣红火江西小炒(云合中心店)",
+      "address": "登云路518号赛码楼A001号",
+      "distance": "49m"
+    },
+    {
+      "brand": "贵香妹贵州菜·鲜货烧烤山野火锅(登云路店)",
+      "address": "登云路518号恒策西城时代中心一层A102",
+      "distance": "49m"
+    },
+    {
+      "brand": "肯德基(杭州赛码DT店)",
+      "address": "登云路518号赛码楼A001号",
+      "distance": "52m"
+    },
+    {
+      "brand": "怡满分(西城时代商务中心店)",
+      "address": "登云路与拱苑路交叉口西南100米",
+      "distance": "52m"
+    },
+    {
+      "brand": "胖哥地摊鲜肉烧烤",
+      "address": "登云路518号西城时代商务中心3幢",
+      "distance": "54m"
+    },
+    {
+      "brand": "笨姐居民楼火锅(城西云合店)",
+      "address": "登云路518号西城时代商务中心3幢",
+      "distance": "40m"
+    },
+    {
+      "brand": "河鲜生石锅鱼",
+      "address": "云合中心3幢A-103",
+      "distance": "41m"
+    },
+    {
+      "brand": "瑞幸咖啡(云合中心店)",
+      "address": "登云路410号西城时代商务中心3幢外围底商",
+      "distance": "45m"
+    },
+    {
+      "brand": "衢小开私房菜(云合店)",
+      "address": "登云路518号西城时代商务中心3幢F1层",
+      "distance": "45m"
+    },
+    {
+      "brand": "馋嘴嘴火锅串串",
+      "address": "登云路518号西城时代商务中心3幢F1层",
+      "distance": "49m"
+    },
+    {
+      "brand": "赣红火江西小炒(云合中心店)",
+      "address": "登云路518号赛码楼A001号",
+      "distance": "49m"
+    },
+    {
+      "brand": "贵香妹贵州菜·鲜货烧烤山野火锅(登云路店)",
+      "address": "登云路518号恒策西城时代中心一层A102",
+      "distance": "49m"
+    },
+    {
+      "brand": "肯德基(杭州赛码DT店)",
+      "address": "登云路518号赛码楼A001号",
+      "distance": "52m"
+    },
+    {
+      "brand": "怡满分(西城时代商务中心店)",
+      "address": "登云路与拱苑路交叉口西南100米",
+      "distance": "52m"
+    },
+    {
+      "brand": "胖哥地摊鲜肉烧烤",
+      "address": "登云路518号西城时代商务中心3幢",
+      "distance": "54m"
+    },
+    {
+      "brand": "笨姐居民楼火锅(城西云合店)",
+      "address": "登云路518号西城时代商务中心3幢",
+      "distance": "40m"
+    },
+    {
+      "brand": "河鲜生石锅鱼",
+      "address": "云合中心3幢A-103",
+      "distance": "41m"
+    },
+    {
+      "brand": "瑞幸咖啡(云合中心店)",
+      "address": "登云路410号西城时代商务中心3幢外围底商",
+      "distance": "45m"
+    },
+    {
+      "brand": "衢小开私房菜(云合店)",
+      "address": "登云路518号西城时代商务中心3幢F1层",
+      "distance": "45m"
+    },
+    {
+      "brand": "馋嘴嘴火锅串串",
+      "address": "登云路518号西城时代商务中心3幢F1层",
+      "distance": "49m"
+    },
+    {
+      "brand": "赣红火江西小炒(云合中心店)",
+      "address": "登云路518号赛码楼A001号",
+      "distance": "49m"
+    },
+    {
+      "brand": "贵香妹贵州菜·鲜货烧烤山野火锅(登云路店)",
+      "address": "登云路518号恒策西城时代中心一层A102",
+      "distance": "49m"
+    },
+    {
+      "brand": "肯德基(杭州赛码DT店)",
+      "address": "登云路518号赛码楼A001号",
+      "distance": "52m"
+    },
+    {
+      "brand": "怡满分(西城时代商务中心店)",
+      "address": "登云路与拱苑路交叉口西南100米",
+      "distance": "52m"
+    },
+    {
+      "brand": "胖哥地摊鲜肉烧烤",
+      "address": "登云路518号西城时代商务中心3幢",
+      "distance": "54m"
+    },
+    {
+      "brand": "笨姐居民楼火锅(城西云合店)",
+      "address": "登云路518号西城时代商务中心3幢",
+      "distance": "40m"
+    },
+    {
+      "brand": "河鲜生石锅鱼",
+      "address": "云合中心3幢A-103",
+      "distance": "41m"
+    },
+    {
+      "brand": "瑞幸咖啡(云合中心店)",
+      "address": "登云路410号西城时代商务中心3幢外围底商",
+      "distance": "45m"
+    },
+    {
+      "brand": "衢小开私房菜(云合店)",
+      "address": "登云路518号西城时代商务中心3幢F1层",
+      "distance": "45m"
+    },
+    {
+      "brand": "馋嘴嘴火锅串串",
+      "address": "登云路518号西城时代商务中心3幢F1层",
+      "distance": "49m"
+    },
+    {
+      "brand": "赣红火江西小炒(云合中心店)",
+      "address": "登云路518号赛码楼A001号",
+      "distance": "49m"
+    },
+    {
+      "brand": "贵香妹贵州菜·鲜货烧烤山野火锅(登云路店)",
+      "address": "登云路518号恒策西城时代中心一层A102",
+      "distance": "49m"
+    },
+    {
+      "brand": "肯德基(杭州赛码DT店)",
+      "address": "登云路518号赛码楼A001号",
+      "distance": "52m"
+    },
+    {
+      "brand": "怡满分(西城时代商务中心店)",
+      "address": "登云路与拱苑路交叉口西南100米",
+      "distance": "52m"
+    },
+    {
+      "brand": "胖哥地摊鲜肉烧烤",
+      "address": "登云路518号西城时代商务中心3幢",
+      "distance": "54m"
+    },
+    {
+      "brand": "笨姐居民楼火锅(城西云合店)",
+      "address": "登云路518号西城时代商务中心3幢",
+      "distance": "40m"
+    },
+    {
+      "brand": "河鲜生石锅鱼",
+      "address": "云合中心3幢A-103",
+      "distance": "41m"
+    },
+    {
+      "brand": "瑞幸咖啡(云合中心店)",
+      "address": "登云路410号西城时代商务中心3幢外围底商",
+      "distance": "45m"
+    },
+    {
+      "brand": "衢小开私房菜(云合店)",
+      "address": "登云路518号西城时代商务中心3幢F1层",
+      "distance": "45m"
+    },
+    {
+      "brand": "馋嘴嘴火锅串串",
+      "address": "登云路518号西城时代商务中心3幢F1层",
+      "distance": "49m"
+    },
+    {
+      "brand": "赣红火江西小炒(云合中心店)",
+      "address": "登云路518号赛码楼A001号",
+      "distance": "49m"
+    },
+    {
+      "brand": "贵香妹贵州菜·鲜货烧烤山野火锅(登云路店)",
+      "address": "登云路518号恒策西城时代中心一层A102",
+      "distance": "49m"
+    },
+    {
+      "brand": "肯德基(杭州赛码DT店)",
+      "address": "登云路518号赛码楼A001号",
+      "distance": "52m"
+    },
+    {
+      "brand": "怡满分(西城时代商务中心店)",
+      "address": "登云路与拱苑路交叉口西南100米",
+      "distance": "52m"
+    },
+    {
+      "brand": "胖哥地摊鲜肉烧烤",
+      "address": "登云路518号西城时代商务中心3幢",
+      "distance": "54m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "杭州城西银泰城",
+      "open_date": "2013-09-08",
+      "area": "19万㎡",
+      "jun_daily_avg": "6.2万人次",
+      "weekday_avg": "5.6万人次",
+      "holiday_avg": "7.9万人次"
+    },
+    {
+      "name": "杭州汇和城(翠苑店)",
+      "open_date": "2015-08-01",
+      "area": "1万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "杭州铂澜大象城",
+      "open_date": "2016-01-01",
+      "area": "7万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "杭州七乐汇生活广场",
+      "open_date": "2017-01-01",
+      "area": "7万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "杭州大悦城",
+      "open_date": "2018-08-28",
+      "area": "15万㎡",
+      "jun_daily_avg": "9.5万人次",
+      "weekday_avg": "8.1万人次",
+      "holiday_avg": "13.3万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 7.0,
+      "within_1yr_pct": 42.9,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 57.1
+    },
+    {
+      "type": "购物",
+      "count": 8.0,
+      "within_1yr_pct": 62.5,
+      "1_3yr_pct": 37.5,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 4.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 25.0
+    },
+    {
+      "type": "教育培训",
+      "count": 1.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    },
+    {
+      "type": "生活服务",
+      "count": 5.0,
+      "within_1yr_pct": 40.0,
+      "1_3yr_pct": 40.0,
+      "over_3yr_pct": 20.0
+    },
+    {
+      "type": "运动健身",
+      "count": 4.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 75.0
+    }
+  ]
+}

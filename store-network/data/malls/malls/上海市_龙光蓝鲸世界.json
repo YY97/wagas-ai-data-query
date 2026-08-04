@@ -1,0 +1,154 @@
+{
+  "name": "龙光蓝鲸世界",
+  "city": "上海市",
+  "address": "上海市嘉定区南翔镇锅知鲜自助火锅(旭辉U天地店)旭辉U天地",
+  "lat": 31.302705,
+  "lng": 121.326109,
+  "overview": {
+    "score": 79.6,
+    "score_rank": "市内前30%",
+    "population_score": 76.8,
+    "area_score": 67.4,
+    "consumption_score": 68.4,
+    "industry_score": 79.6,
+    "annual_sales": "",
+    "annual_sales_unit": "",
+    "area_size_sqm": null,
+    "open_date": "",
+    "operator": "",
+    "brand": "",
+    "type": "",
+    "floors": ""
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "",
+    "annual_daily_rank": "",
+    "jun_total": null,
+    "jun_total_rank": "",
+    "jun_daily_avg": null,
+    "jun_daily_unit": "",
+    "jun_daily_rank": "",
+    "weekday_avg": null,
+    "weekday_unit": "",
+    "weekday_rank": "",
+    "holiday_avg": null,
+    "holiday_unit": "",
+    "holiday_rank": ""
+  },
+  "population": {
+    "residential": {
+      "500m": 1.4,
+      "1_5km": 11.1,
+      "3km": 42.4
+    },
+    "office": {
+      "500m": 4600.0,
+      "1_5km": 5.5,
+      "3km": 21.8
+    },
+    "permanent": {
+      "500m": 1.2,
+      "1_5km": 10.3,
+      "3km": 40.0
+    }
+  },
+  "business": {
+    "competitors": 3.0,
+    "food": 77.0,
+    "shopping": 53.0,
+    "leisure": 9.0,
+    "education": 35.0,
+    "hotel": 11.0,
+    "services": 57.0,
+    "fitness": 16.0,
+    "auto": 14.0,
+    "total_stores": 274.0,
+    "old_store_3yr_pct": 41.0
+  },
+  "nearby_poi": {
+    "business": 3.0,
+    "community": 178.0,
+    "office": 19.0,
+    "school": 14.0,
+    "hospital": 20.0,
+    "transport": 7.0,
+    "scenic": 161.0
+  },
+  "demographics": {
+    "male_pct": 53.4,
+    "female_pct": null,
+    "education": {
+      "小学": 10.2,
+      "初中": 19.1,
+      "高中": 11.8,
+      "大专": 9.2,
+      "本科": 44.9,
+      "硕士": 3.9,
+      "博士": 0.9
+    },
+    "has_children_pct": null,
+    "no_children_pct": null
+  },
+  "scraped_at": "2026-08-01T09:23:01.610Z",
+  "nearby_restaurants": [],
+  "nearby_malls": [],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 77.0,
+      "within_1yr_pct": 23.4,
+      "1_3yr_pct": 39.0,
+      "over_3yr_pct": 37.7
+    },
+    {
+      "type": "购物",
+      "count": 53.0,
+      "within_1yr_pct": 18.9,
+      "1_3yr_pct": 32.1,
+      "over_3yr_pct": 49.1
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 11.0,
+      "within_1yr_pct": 45.5,
+      "1_3yr_pct": 36.4,
+      "over_3yr_pct": 18.2
+    },
+    {
+      "type": "教育培训",
+      "count": 35.0,
+      "within_1yr_pct": 22.9,
+      "1_3yr_pct": 40.0,
+      "over_3yr_pct": 37.1
+    },
+    {
+      "type": "酒店住宿",
+      "count": 11.0,
+      "within_1yr_pct": 36.4,
+      "1_3yr_pct": 18.2,
+      "over_3yr_pct": 45.5
+    },
+    {
+      "type": "生活服务",
+      "count": 57.0,
+      "within_1yr_pct": 24.6,
+      "1_3yr_pct": 29.8,
+      "over_3yr_pct": 45.6
+    },
+    {
+      "type": "运动健身",
+      "count": 16.0,
+      "within_1yr_pct": 6.3,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 43.8
+    },
+    {
+      "type": "车辆服务",
+      "count": 14.0,
+      "within_1yr_pct": 14.3,
+      "1_3yr_pct": 64.3,
+      "over_3yr_pct": 21.4
+    }
+  ]
+}

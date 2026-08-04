@@ -1,0 +1,261 @@
+{
+  "name": "金光汇",
+  "city": "上海市",
+  "address": "北京市东城区建国门街道民生金融中心",
+  "lat": null,
+  "lng": null,
+  "overview": {
+    "score": 74.6,
+    "score_rank": "市内前50%",
+    "population_score": 77.3,
+    "area_score": 71.6,
+    "consumption_score": 86.6,
+    "industry_score": 74.6,
+    "annual_sales": "",
+    "annual_sales_unit": "",
+    "area_size_sqm": null,
+    "open_date": "",
+    "operator": "",
+    "brand": "",
+    "type": "",
+    "floors": ""
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "",
+    "annual_daily_rank": "",
+    "jun_total": null,
+    "jun_total_rank": "",
+    "jun_daily_avg": null,
+    "jun_daily_unit": "",
+    "jun_daily_rank": "",
+    "weekday_avg": null,
+    "weekday_unit": "",
+    "weekday_rank": "",
+    "holiday_avg": null,
+    "holiday_unit": "",
+    "holiday_rank": ""
+  },
+  "population": {
+    "residential": {
+      "500m": 1.2,
+      "1_5km": 17.5,
+      "3km": 60.7
+    },
+    "office": {
+      "500m": 2.7,
+      "1_5km": 22.1,
+      "3km": 65.2
+    },
+    "permanent": {
+      "500m": 1.5,
+      "1_5km": 24.6,
+      "3km": 73.0
+    }
+  },
+  "business": {
+    "competitors": 6.0,
+    "food": 105.0,
+    "shopping": 71.0,
+    "leisure": 5.0,
+    "education": 5.0,
+    "hotel": 47.0,
+    "services": 39.0,
+    "fitness": 19.0,
+    "auto": 5.0,
+    "total_stores": 296.0,
+    "old_store_3yr_pct": 57.0
+  },
+  "nearby_poi": {
+    "business": 15.0,
+    "community": 340.0,
+    "office": 94.0,
+    "school": 43.0,
+    "hospital": 126.0,
+    "transport": 10.0,
+    "scenic": 911.0
+  },
+  "demographics": {
+    "male_pct": 46.7,
+    "female_pct": null,
+    "education": {
+      "小学": 10.2,
+      "初中": 17.5,
+      "高中": 11.3,
+      "大专": 6.6,
+      "本科": 46.2,
+      "硕士": 6.5,
+      "博士": 1.7
+    },
+    "has_children_pct": null,
+    "no_children_pct": null
+  },
+  "scraped_at": "2026-08-01T09:09:16.898Z",
+  "nearby_restaurants": [
+    {
+      "brand": "三禾牌北京稻香村(物美便利店)",
+      "address": "北京城区北京站西街一号物美便利店内",
+      "distance": "481m"
+    },
+    {
+      "brand": "段家包子铺",
+      "address": "东单北大街与新开路胡同交叉口南40米",
+      "distance": "496m"
+    },
+    {
+      "brand": "星巴克(北京东方广场4店)",
+      "address": "东华门街道东单三条8-16号",
+      "distance": "498m"
+    },
+    {
+      "brand": "湖南大厦·首湘缘中餐厅",
+      "address": "北京站街9号湖南大厦(北京站地铁站A西北口步行200米)",
+      "distance": "498m"
+    },
+    {
+      "brand": "前田珈琲·清吧(东方新天地店)",
+      "address": "东长安街1号北京东方新天地商城平台层P-E101-02",
+      "distance": "499m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "北京国瑞购物中心",
+      "open_date": "2024-06-09",
+      "area": "13万㎡",
+      "jun_daily_avg": "4万人次",
+      "weekday_avg": "3.8万人次",
+      "holiday_avg": "4.5万人次"
+    },
+    {
+      "name": "北京崇文门新世界百货",
+      "open_date": "1998-01-01",
+      "area": "7万㎡",
+      "jun_daily_avg": "5.1万人次",
+      "weekday_avg": "4.9万人次",
+      "holiday_avg": "5.6万人次"
+    },
+    {
+      "name": "北京新活馆",
+      "open_date": "2012-10-01",
+      "area": "4万㎡",
+      "jun_daily_avg": "1.8万人次",
+      "weekday_avg": "1.8万人次",
+      "holiday_avg": "2万人次"
+    },
+    {
+      "name": "北京APM",
+      "open_date": "2008-01-01",
+      "area": "9万㎡",
+      "jun_daily_avg": "8.5万人次",
+      "weekday_avg": "7.5万人次",
+      "holiday_avg": "11.1万人次"
+    },
+    {
+      "name": "北京澳门中心",
+      "open_date": "2008-01-01",
+      "area": "8.8万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "北京王府中环",
+      "open_date": "2018-05-29",
+      "area": "4.3万㎡",
+      "jun_daily_avg": "3.7万人次",
+      "weekday_avg": "3.2万人次",
+      "holiday_avg": "5万人次"
+    },
+    {
+      "name": "北京市百货大楼",
+      "open_date": "1955-09-01",
+      "area": "1.8万㎡",
+      "jun_daily_avg": "4.4万人次",
+      "weekday_avg": "3.9万人次",
+      "holiday_avg": "5.7万人次"
+    },
+    {
+      "name": "北京淘汇新天购物中心",
+      "open_date": "2014-02-16",
+      "area": "3.8万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "北京银泰in88",
+      "open_date": "2018-01-01",
+      "area": "3万㎡",
+      "jun_daily_avg": "1.4万人次",
+      "weekday_avg": "1.2万人次",
+      "holiday_avg": "1.9万人次"
+    },
+    {
+      "name": "北京利生体育商厦",
+      "open_date": "1996-11-25",
+      "area": "1.2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 105.0,
+      "within_1yr_pct": 22.9,
+      "1_3yr_pct": 21.9,
+      "over_3yr_pct": 55.2
+    },
+    {
+      "type": "购物",
+      "count": 71.0,
+      "within_1yr_pct": 32.4,
+      "1_3yr_pct": 16.9,
+      "over_3yr_pct": 50.7
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 5.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 20.0,
+      "over_3yr_pct": 60.0
+    },
+    {
+      "type": "教育培训",
+      "count": 5.0,
+      "within_1yr_pct": 60.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 40.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 47.0,
+      "within_1yr_pct": 2.1,
+      "1_3yr_pct": 8.5,
+      "over_3yr_pct": 89.4
+    },
+    {
+      "type": "生活服务",
+      "count": 39.0,
+      "within_1yr_pct": 35.9,
+      "1_3yr_pct": 20.5,
+      "over_3yr_pct": 43.6
+    },
+    {
+      "type": "运动健身",
+      "count": 19.0,
+      "within_1yr_pct": 26.3,
+      "1_3yr_pct": 31.6,
+      "over_3yr_pct": 42.1
+    },
+    {
+      "type": "车辆服务",
+      "count": 5.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 20.0,
+      "over_3yr_pct": 80.0
+    }
+  ]
+}

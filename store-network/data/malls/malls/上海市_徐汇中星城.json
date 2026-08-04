@@ -1,0 +1,154 @@
+{
+  "name": "徐汇中星城",
+  "city": "上海市",
+  "address": "北京市朝阳区建外街道盛世嘉园郎园VINTAGE",
+  "lat": null,
+  "lng": null,
+  "overview": {
+    "score": 78.5,
+    "score_rank": "市内前30%",
+    "population_score": 82.9,
+    "area_score": 89.9,
+    "consumption_score": 77.9,
+    "industry_score": 78.4,
+    "annual_sales": "",
+    "annual_sales_unit": "",
+    "area_size_sqm": null,
+    "open_date": "",
+    "operator": "",
+    "brand": "",
+    "type": "",
+    "floors": ""
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "",
+    "annual_daily_rank": "",
+    "jun_total": null,
+    "jun_total_rank": "",
+    "jun_daily_avg": null,
+    "jun_daily_unit": "",
+    "jun_daily_rank": "",
+    "weekday_avg": null,
+    "weekday_unit": "",
+    "weekday_rank": "",
+    "holiday_avg": null,
+    "holiday_unit": "",
+    "holiday_rank": ""
+  },
+  "population": {
+    "residential": {
+      "500m": 1.5,
+      "1_5km": 14.8,
+      "3km": 80.2
+    },
+    "office": {
+      "500m": 3.0,
+      "1_5km": 26.5,
+      "3km": 74.0
+    },
+    "permanent": {
+      "500m": 2.0,
+      "1_5km": 19.3,
+      "3km": 86.2
+    }
+  },
+  "business": {
+    "competitors": 11.0,
+    "food": 230.0,
+    "shopping": 130.0,
+    "leisure": 24.0,
+    "education": 44.0,
+    "hotel": 28.0,
+    "services": 219.0,
+    "fitness": 34.0,
+    "auto": 22.0,
+    "total_stores": 748.0,
+    "old_store_3yr_pct": 44.0
+  },
+  "nearby_poi": {
+    "business": 13.0,
+    "community": 448.0,
+    "office": 138.0,
+    "school": 18.0,
+    "hospital": 172.0,
+    "transport": 8.0,
+    "scenic": 186.0
+  },
+  "demographics": {
+    "male_pct": 52.8,
+    "female_pct": null,
+    "education": {
+      "小学": 9.0,
+      "初中": 15.8,
+      "高中": 10.7,
+      "大专": 6.8,
+      "本科": 49.2,
+      "硕士": 7.0,
+      "博士": 1.5
+    },
+    "has_children_pct": null,
+    "no_children_pct": null
+  },
+  "scraped_at": "2026-08-01T17:22:31.549Z",
+  "nearby_restaurants": [],
+  "nearby_malls": [],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 230.0,
+      "within_1yr_pct": 27.0,
+      "1_3yr_pct": 30.4,
+      "over_3yr_pct": 42.6
+    },
+    {
+      "type": "购物",
+      "count": 130.0,
+      "within_1yr_pct": 25.4,
+      "1_3yr_pct": 26.9,
+      "over_3yr_pct": 47.7
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 41.0,
+      "within_1yr_pct": 31.7,
+      "1_3yr_pct": 22.0,
+      "over_3yr_pct": 46.3
+    },
+    {
+      "type": "教育培训",
+      "count": 44.0,
+      "within_1yr_pct": 18.2,
+      "1_3yr_pct": 38.6,
+      "over_3yr_pct": 43.2
+    },
+    {
+      "type": "酒店住宿",
+      "count": 28.0,
+      "within_1yr_pct": 32.1,
+      "1_3yr_pct": 17.9,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "生活服务",
+      "count": 219.0,
+      "within_1yr_pct": 26.9,
+      "1_3yr_pct": 28.8,
+      "over_3yr_pct": 44.3
+    },
+    {
+      "type": "运动健身",
+      "count": 34.0,
+      "within_1yr_pct": 23.5,
+      "1_3yr_pct": 44.1,
+      "over_3yr_pct": 32.4
+    },
+    {
+      "type": "车辆服务",
+      "count": 22.0,
+      "within_1yr_pct": 31.8,
+      "1_3yr_pct": 31.8,
+      "over_3yr_pct": 36.4
+    }
+  ]
+}

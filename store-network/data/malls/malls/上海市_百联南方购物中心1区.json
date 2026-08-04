@@ -1,0 +1,455 @@
+{
+  "name": "百联南方购物中心1区",
+  "city": "上海市",
+  "address": "上海市闵行区梅陇镇百联南方购物中心",
+  "lat": 31.131272,
+  "lng": 121.400835,
+  "overview": {
+    "score": 95.1,
+    "score_rank": "市内前30%",
+    "population_score": 78.9,
+    "area_score": 90.0,
+    "consumption_score": 78.6,
+    "industry_score": 95.2,
+    "annual_sales": "百联南方购物中心前身为1994年开业的“八佰伴南方商城”，1999年友谊集团收购接盘，更名为“友谊南方商城”，2004年翻牌为“百联南方购物中心”，是上海早期几家较有代表性的特色社区型购物中心之一。",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 10.0,
+    "open_date": "1999-09-01",
+    "operator": "上海百联集团股份有限公司",
+    "brand": "百联",
+    "type": "购物型",
+    "floors": "L1-L5"
+  },
+  "traffic": {
+    "annual_daily": 2.31,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第122",
+    "jun_total": 289.7,
+    "jun_total_rank": "市内商场第5名",
+    "jun_daily_avg": 9.7,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第5名",
+    "weekday_avg": 8.8,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第5名",
+    "holiday_avg": 12.0,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第4名"
+  },
+  "population": {
+    "residential": {
+      "500m": 1.5,
+      "1_5km": 19.9,
+      "3km": 75.8
+    },
+    "office": {
+      "500m": 2.0,
+      "1_5km": 9.2,
+      "3km": 30.2
+    },
+    "permanent": {
+      "500m": 2.7,
+      "1_5km": 21.1,
+      "3km": 74.2
+    }
+  },
+  "business": {
+    "competitors": 12.0,
+    "food": 376.0,
+    "shopping": 265.0,
+    "leisure": 46.0,
+    "education": 103.0,
+    "hotel": 17.0,
+    "services": 195.0,
+    "fitness": 45.0,
+    "auto": 31.0,
+    "total_stores": 157.0,
+    "old_store_3yr_pct": 65.0
+  },
+  "nearby_poi": {
+    "business": 7.0,
+    "community": 369.0,
+    "office": 19.0,
+    "school": 37.0,
+    "hospital": 41.0,
+    "transport": 13.0,
+    "scenic": 79.0
+  },
+  "demographics": {
+    "male_pct": 47.8,
+    "female_pct": null,
+    "education": {
+      "小学": 8.7,
+      "初中": 15.8,
+      "高中": 11.0,
+      "大专": 6.8,
+      "本科": 49.7,
+      "硕士": 6.2,
+      "博士": 1.8
+    },
+    "has_children_pct": 61.2,
+    "no_children_pct": 38.8
+  },
+  "scraped_at": "2026-07-31T12:06:17.345Z",
+  "nearby_restaurants": [
+    {
+      "brand": "顺风江南宴(南方商城店)",
+      "address": "沪闵路7388号百联南方购物中心",
+      "distance": "1m"
+    },
+    {
+      "brand": "小龙坎火锅(南方店)",
+      "address": "沪闵路7388号百联南方购物中心5层小龙坎",
+      "distance": "4m"
+    },
+    {
+      "brand": "胖哥俩肉蟹煲(上海百联南方店)",
+      "address": "百联南方购物中心",
+      "distance": "8m"
+    },
+    {
+      "brand": "多乐之日(南方商城店)",
+      "address": "沪闵路7388号一层G04-F01-1-020室",
+      "distance": "9m"
+    },
+    {
+      "brand": "瑞幸咖啡(百联南方购物中心店)",
+      "address": "沪闵路7388号百联南方购物中心二层1区-F02号",
+      "distance": "18m"
+    },
+    {
+      "brand": "湊湊火锅·茶憩(百联南方购物中心店)",
+      "address": "上海市闵行区沪闵路7388号G04-F05-1-006a号商铺",
+      "distance": "21m"
+    },
+    {
+      "brand": "必胜客(上海新南方商城店)",
+      "address": "沪闵路7250号百联南方购物中心二区二层G44-F02-1-012商铺",
+      "distance": "26m"
+    },
+    {
+      "brand": "斗牛士牛排(友谊南方商城店)",
+      "address": "沪闵路7388号友谊南方商城5楼",
+      "distance": "27m"
+    },
+    {
+      "brand": "很久以前羊肉串(百联南方商城店)",
+      "address": "沪闵路7388号百联南方购物中心一区5层",
+      "distance": "30m"
+    },
+    {
+      "brand": "小菜园新徽菜(上海闵行百联南方店)",
+      "address": "沪闵路7388号百联南方购物中心5F层",
+      "distance": "31m"
+    },
+    {
+      "brand": "顺风江南宴(南方商城店)",
+      "address": "沪闵路7388号百联南方购物中心",
+      "distance": "1m"
+    },
+    {
+      "brand": "小龙坎火锅(南方店)",
+      "address": "沪闵路7388号百联南方购物中心5层小龙坎",
+      "distance": "4m"
+    },
+    {
+      "brand": "胖哥俩肉蟹煲(上海百联南方店)",
+      "address": "百联南方购物中心",
+      "distance": "8m"
+    },
+    {
+      "brand": "多乐之日(南方商城店)",
+      "address": "沪闵路7388号一层G04-F01-1-020室",
+      "distance": "9m"
+    },
+    {
+      "brand": "瑞幸咖啡(百联南方购物中心店)",
+      "address": "沪闵路7388号百联南方购物中心二层1区-F02号",
+      "distance": "18m"
+    },
+    {
+      "brand": "湊湊火锅·茶憩(百联南方购物中心店)",
+      "address": "上海市闵行区沪闵路7388号G04-F05-1-006a号商铺",
+      "distance": "21m"
+    },
+    {
+      "brand": "必胜客(上海新南方商城店)",
+      "address": "沪闵路7250号百联南方购物中心二区二层G44-F02-1-012商铺",
+      "distance": "26m"
+    },
+    {
+      "brand": "斗牛士牛排(友谊南方商城店)",
+      "address": "沪闵路7388号友谊南方商城5楼",
+      "distance": "27m"
+    },
+    {
+      "brand": "很久以前羊肉串(百联南方商城店)",
+      "address": "沪闵路7388号百联南方购物中心一区5层",
+      "distance": "30m"
+    },
+    {
+      "brand": "小菜园新徽菜(上海闵行百联南方店)",
+      "address": "沪闵路7388号百联南方购物中心5F层",
+      "distance": "31m"
+    },
+    {
+      "brand": "顺风江南宴(南方商城店)",
+      "address": "沪闵路7388号百联南方购物中心",
+      "distance": "1m"
+    },
+    {
+      "brand": "小龙坎火锅(南方店)",
+      "address": "沪闵路7388号百联南方购物中心5层小龙坎",
+      "distance": "4m"
+    },
+    {
+      "brand": "胖哥俩肉蟹煲(上海百联南方店)",
+      "address": "百联南方购物中心",
+      "distance": "8m"
+    },
+    {
+      "brand": "多乐之日(南方商城店)",
+      "address": "沪闵路7388号一层G04-F01-1-020室",
+      "distance": "9m"
+    },
+    {
+      "brand": "瑞幸咖啡(百联南方购物中心店)",
+      "address": "沪闵路7388号百联南方购物中心二层1区-F02号",
+      "distance": "18m"
+    },
+    {
+      "brand": "湊湊火锅·茶憩(百联南方购物中心店)",
+      "address": "上海市闵行区沪闵路7388号G04-F05-1-006a号商铺",
+      "distance": "21m"
+    },
+    {
+      "brand": "必胜客(上海新南方商城店)",
+      "address": "沪闵路7250号百联南方购物中心二区二层G44-F02-1-012商铺",
+      "distance": "26m"
+    },
+    {
+      "brand": "斗牛士牛排(友谊南方商城店)",
+      "address": "沪闵路7388号友谊南方商城5楼",
+      "distance": "27m"
+    },
+    {
+      "brand": "很久以前羊肉串(百联南方商城店)",
+      "address": "沪闵路7388号百联南方购物中心一区5层",
+      "distance": "30m"
+    },
+    {
+      "brand": "小菜园新徽菜(上海闵行百联南方店)",
+      "address": "沪闵路7388号百联南方购物中心5F层",
+      "distance": "31m"
+    },
+    {
+      "brand": "顺风江南宴(南方商城店)",
+      "address": "沪闵路7388号百联南方购物中心",
+      "distance": "1m"
+    },
+    {
+      "brand": "小龙坎火锅(南方店)",
+      "address": "沪闵路7388号百联南方购物中心5层小龙坎",
+      "distance": "4m"
+    },
+    {
+      "brand": "胖哥俩肉蟹煲(上海百联南方店)",
+      "address": "百联南方购物中心",
+      "distance": "8m"
+    },
+    {
+      "brand": "多乐之日(南方商城店)",
+      "address": "沪闵路7388号一层G04-F01-1-020室",
+      "distance": "9m"
+    },
+    {
+      "brand": "瑞幸咖啡(百联南方购物中心店)",
+      "address": "沪闵路7388号百联南方购物中心二层1区-F02号",
+      "distance": "18m"
+    },
+    {
+      "brand": "湊湊火锅·茶憩(百联南方购物中心店)",
+      "address": "上海市闵行区沪闵路7388号G04-F05-1-006a号商铺",
+      "distance": "21m"
+    },
+    {
+      "brand": "必胜客(上海新南方商城店)",
+      "address": "沪闵路7250号百联南方购物中心二区二层G44-F02-1-012商铺",
+      "distance": "26m"
+    },
+    {
+      "brand": "斗牛士牛排(友谊南方商城店)",
+      "address": "沪闵路7388号友谊南方商城5楼",
+      "distance": "27m"
+    },
+    {
+      "brand": "很久以前羊肉串(百联南方商城店)",
+      "address": "沪闵路7388号百联南方购物中心一区5层",
+      "distance": "30m"
+    },
+    {
+      "brand": "小菜园新徽菜(上海闵行百联南方店)",
+      "address": "沪闵路7388号百联南方购物中心5F层",
+      "distance": "31m"
+    },
+    {
+      "brand": "顺风江南宴(南方商城店)",
+      "address": "沪闵路7388号百联南方购物中心",
+      "distance": "1m"
+    },
+    {
+      "brand": "小龙坎火锅(南方店)",
+      "address": "沪闵路7388号百联南方购物中心5层小龙坎",
+      "distance": "4m"
+    },
+    {
+      "brand": "胖哥俩肉蟹煲(上海百联南方店)",
+      "address": "百联南方购物中心",
+      "distance": "8m"
+    },
+    {
+      "brand": "多乐之日(南方商城店)",
+      "address": "沪闵路7388号一层G04-F01-1-020室",
+      "distance": "9m"
+    },
+    {
+      "brand": "瑞幸咖啡(百联南方购物中心店)",
+      "address": "沪闵路7388号百联南方购物中心二层1区-F02号",
+      "distance": "18m"
+    },
+    {
+      "brand": "湊湊火锅·茶憩(百联南方购物中心店)",
+      "address": "上海市闵行区沪闵路7388号G04-F05-1-006a号商铺",
+      "distance": "21m"
+    },
+    {
+      "brand": "必胜客(上海新南方商城店)",
+      "address": "沪闵路7250号百联南方购物中心二区二层G44-F02-1-012商铺",
+      "distance": "26m"
+    },
+    {
+      "brand": "斗牛士牛排(友谊南方商城店)",
+      "address": "沪闵路7388号友谊南方商城5楼",
+      "distance": "27m"
+    },
+    {
+      "brand": "很久以前羊肉串(百联南方商城店)",
+      "address": "沪闵路7388号百联南方购物中心一区5层",
+      "distance": "30m"
+    },
+    {
+      "brand": "小菜园新徽菜(上海闵行百联南方店)",
+      "address": "沪闵路7388号百联南方购物中心5F层",
+      "distance": "31m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海百联南方购物中心二区",
+      "open_date": "1999-01-01",
+      "area": "6万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "LaLa station上海莲花路",
+      "open_date": "2021-12-22",
+      "area": "3.1万㎡",
+      "jun_daily_avg": "1.7万人次",
+      "weekday_avg": "1.6万人次",
+      "holiday_avg": "1.9万人次"
+    },
+    {
+      "name": "上海莲花国际广场",
+      "open_date": "2011-01-01",
+      "area": "5万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海中庚漫游城",
+      "open_date": "2018-10-26",
+      "area": "15万㎡",
+      "jun_daily_avg": "7.8万人次",
+      "weekday_avg": "6.8万人次",
+      "holiday_avg": "10.5万人次"
+    },
+    {
+      "name": "上海城开优享+",
+      "open_date": "2021-07-09",
+      "area": "8000㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海万源坊",
+      "open_date": "2005-06-10",
+      "area": "3万㎡",
+      "jun_daily_avg": "1.7万人次",
+      "weekday_avg": "1.6万人次",
+      "holiday_avg": "1.9万人次"
+    },
+    {
+      "name": "上海力波·九坊",
+      "open_date": "2023-08-15",
+      "area": "3.9万㎡",
+      "jun_daily_avg": "1.7万人次",
+      "weekday_avg": "1.6万人次",
+      "holiday_avg": "1.9万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 43.0,
+      "within_1yr_pct": 7.0,
+      "1_3yr_pct": 16.3,
+      "over_3yr_pct": 76.7
+    },
+    {
+      "type": "购物",
+      "count": 79.0,
+      "within_1yr_pct": 15.2,
+      "1_3yr_pct": 17.7,
+      "over_3yr_pct": 67.1
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 8.0,
+      "within_1yr_pct": 37.5,
+      "1_3yr_pct": 12.5,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "教育培训",
+      "count": 8.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "生活服务",
+      "count": 11.0,
+      "within_1yr_pct": 27.3,
+      "1_3yr_pct": 36.4,
+      "over_3yr_pct": 36.4
+    },
+    {
+      "type": "运动健身",
+      "count": 4.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 25.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 4.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 75.0
+    }
+  ]
+}

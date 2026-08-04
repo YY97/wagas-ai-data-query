@@ -1,0 +1,424 @@
+{
+  "name": "北京枫尚奥特莱斯京通店",
+  "city": "北京市",
+  "address": "北京市朝阳区管庄乡朝阳路1号",
+  "lat": 39.915789,
+  "lng": 116.562243,
+  "overview": {
+    "score": 80.6,
+    "score_rank": "市内前30%",
+    "population_score": 86.6,
+    "area_score": 82.7,
+    "consumption_score": 68.3,
+    "industry_score": 80.6,
+    "annual_sales": "北京华润Plus365购物中心是华润置地精心打造的邻里社区购物中心，主要面向华润住宅项目业主及周边小区居民，集餐饮、超市、影院、服饰、儿童、个人护理等多种业态于一体，设有门头沟区域内首家电影院——幸福蓝海国际影城等多种商铺，旨在满足家庭基本生活和公共服务需求 。",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 1.9,
+    "open_date": "2011-11-01",
+    "operator": "华润万象生活有限公司",
+    "brand": "",
+    "type": "购物型",
+    "floors": "B2-L3"
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "-",
+    "annual_daily_rank": "",
+    "jun_total": 14.1,
+    "jun_total_rank": "市内商场第304名",
+    "jun_daily_avg": 4693.0,
+    "jun_daily_unit": "人次",
+    "jun_daily_rank": "市内商场第304名",
+    "weekday_avg": 4593.0,
+    "weekday_unit": "人次",
+    "weekday_rank": "市内商场第301名",
+    "holiday_avg": 4971.0,
+    "holiday_unit": "人次",
+    "holiday_rank": "市内商场第303名"
+  },
+  "population": {
+    "residential": {
+      "500m": 1.9,
+      "1_5km": 16.7,
+      "3km": 47.9
+    },
+    "office": {
+      "500m": 1.1,
+      "1_5km": 7.4,
+      "3km": 19.1
+    },
+    "permanent": {
+      "500m": 1.8,
+      "1_5km": 16.4,
+      "3km": 44.8
+    }
+  },
+  "business": {
+    "competitors": 1.0,
+    "food": 174.0,
+    "shopping": 108.0,
+    "leisure": 12.0,
+    "education": 17.0,
+    "hotel": 22.0,
+    "services": 103.0,
+    "fitness": 13.0,
+    "auto": 13.0,
+    "total_stores": 51.0,
+    "old_store_3yr_pct": 57.0
+  },
+  "nearby_poi": {
+    "business": 4.0,
+    "community": 211.0,
+    "office": 36.0,
+    "school": 29.0,
+    "hospital": 50.0,
+    "transport": 8.0,
+    "scenic": 62.0
+  },
+  "demographics": {
+    "male_pct": 46.5,
+    "female_pct": null,
+    "education": {
+      "小学": 7.8,
+      "初中": 14.4,
+      "高中": 11.6,
+      "大专": 7.9,
+      "本科": 51.5,
+      "硕士": 5.7,
+      "博士": 1.1
+    },
+    "has_children_pct": 62.5,
+    "no_children_pct": 37.5
+  },
+  "scraped_at": "2026-07-31T18:52:49.674Z",
+  "nearby_restaurants": [
+    {
+      "brand": "遇见小面(枫尚奥莱朝阳店)",
+      "address": "京通苑30号楼1层(枫尚奥莱广场南1门)",
+      "distance": "10m"
+    },
+    {
+      "brand": "金凤成祥(杨闸奥莱店)",
+      "address": "北京城区京通苑30号楼1层1-2内L112",
+      "distance": "10m"
+    },
+    {
+      "brand": "鱼你在一起(京通苑店)",
+      "address": "朝阳路京通苑30号楼枫尚奥特莱斯1F层",
+      "distance": "17m"
+    },
+    {
+      "brand": "瑞幸咖啡(枫尚奥特莱斯店)",
+      "address": "北京城区京通苑30号楼一层1-2内L126",
+      "distance": "23m"
+    },
+    {
+      "brand": "陈小娇·馋嘴猪脚饭",
+      "address": "京通快速路入口与建国路交叉口北320米",
+      "distance": "25m"
+    },
+    {
+      "brand": "茶百道(北京朝阳枫尚奥特莱斯店)",
+      "address": "北京市北京市朝阳区京通苑30号楼1层1-2内L130",
+      "distance": "32m"
+    },
+    {
+      "brand": "星巴克(枫尚奥特莱斯店)",
+      "address": "北京城区京通苑30号楼1层1-2内L111号",
+      "distance": "32m"
+    },
+    {
+      "brand": "喜煮捞自助旋转小火锅",
+      "address": "京通快速路入口与建国路交叉口北320米",
+      "distance": "36m"
+    },
+    {
+      "brand": "好适口(管庄枫尚奥莱店)",
+      "address": "北京城区北京通苑30号楼1层1-2内L117(西少爷旁)",
+      "distance": "36m"
+    },
+    {
+      "brand": "乡村基·川味现炒大王(枫尚奥莱店)",
+      "address": "京通苑30号楼1层1-2内L108",
+      "distance": "45m"
+    },
+    {
+      "brand": "遇见小面(枫尚奥莱朝阳店)",
+      "address": "京通苑30号楼1层(枫尚奥莱广场南1门)",
+      "distance": "10m"
+    },
+    {
+      "brand": "金凤成祥(杨闸奥莱店)",
+      "address": "北京城区京通苑30号楼1层1-2内L112",
+      "distance": "10m"
+    },
+    {
+      "brand": "鱼你在一起(京通苑店)",
+      "address": "朝阳路京通苑30号楼枫尚奥特莱斯1F层",
+      "distance": "17m"
+    },
+    {
+      "brand": "瑞幸咖啡(枫尚奥特莱斯店)",
+      "address": "北京城区京通苑30号楼一层1-2内L126",
+      "distance": "23m"
+    },
+    {
+      "brand": "陈小娇·馋嘴猪脚饭",
+      "address": "京通快速路入口与建国路交叉口北320米",
+      "distance": "25m"
+    },
+    {
+      "brand": "茶百道(北京朝阳枫尚奥特莱斯店)",
+      "address": "北京市北京市朝阳区京通苑30号楼1层1-2内L130",
+      "distance": "32m"
+    },
+    {
+      "brand": "星巴克(枫尚奥特莱斯店)",
+      "address": "北京城区京通苑30号楼1层1-2内L111号",
+      "distance": "32m"
+    },
+    {
+      "brand": "喜煮捞自助旋转小火锅",
+      "address": "京通快速路入口与建国路交叉口北320米",
+      "distance": "36m"
+    },
+    {
+      "brand": "好适口(管庄枫尚奥莱店)",
+      "address": "北京城区北京通苑30号楼1层1-2内L117(西少爷旁)",
+      "distance": "36m"
+    },
+    {
+      "brand": "乡村基·川味现炒大王(枫尚奥莱店)",
+      "address": "京通苑30号楼1层1-2内L108",
+      "distance": "45m"
+    },
+    {
+      "brand": "遇见小面(枫尚奥莱朝阳店)",
+      "address": "京通苑30号楼1层(枫尚奥莱广场南1门)",
+      "distance": "10m"
+    },
+    {
+      "brand": "金凤成祥(杨闸奥莱店)",
+      "address": "北京城区京通苑30号楼1层1-2内L112",
+      "distance": "10m"
+    },
+    {
+      "brand": "鱼你在一起(京通苑店)",
+      "address": "朝阳路京通苑30号楼枫尚奥特莱斯1F层",
+      "distance": "17m"
+    },
+    {
+      "brand": "瑞幸咖啡(枫尚奥特莱斯店)",
+      "address": "北京城区京通苑30号楼一层1-2内L126",
+      "distance": "23m"
+    },
+    {
+      "brand": "陈小娇·馋嘴猪脚饭",
+      "address": "京通快速路入口与建国路交叉口北320米",
+      "distance": "25m"
+    },
+    {
+      "brand": "茶百道(北京朝阳枫尚奥特莱斯店)",
+      "address": "北京市北京市朝阳区京通苑30号楼1层1-2内L130",
+      "distance": "32m"
+    },
+    {
+      "brand": "星巴克(枫尚奥特莱斯店)",
+      "address": "北京城区京通苑30号楼1层1-2内L111号",
+      "distance": "32m"
+    },
+    {
+      "brand": "喜煮捞自助旋转小火锅",
+      "address": "京通快速路入口与建国路交叉口北320米",
+      "distance": "36m"
+    },
+    {
+      "brand": "好适口(管庄枫尚奥莱店)",
+      "address": "北京城区北京通苑30号楼1层1-2内L117(西少爷旁)",
+      "distance": "36m"
+    },
+    {
+      "brand": "乡村基·川味现炒大王(枫尚奥莱店)",
+      "address": "京通苑30号楼1层1-2内L108",
+      "distance": "45m"
+    },
+    {
+      "brand": "遇见小面(枫尚奥莱朝阳店)",
+      "address": "京通苑30号楼1层(枫尚奥莱广场南1门)",
+      "distance": "10m"
+    },
+    {
+      "brand": "金凤成祥(杨闸奥莱店)",
+      "address": "北京城区京通苑30号楼1层1-2内L112",
+      "distance": "10m"
+    },
+    {
+      "brand": "鱼你在一起(京通苑店)",
+      "address": "朝阳路京通苑30号楼枫尚奥特莱斯1F层",
+      "distance": "17m"
+    },
+    {
+      "brand": "瑞幸咖啡(枫尚奥特莱斯店)",
+      "address": "北京城区京通苑30号楼一层1-2内L126",
+      "distance": "23m"
+    },
+    {
+      "brand": "陈小娇·馋嘴猪脚饭",
+      "address": "京通快速路入口与建国路交叉口北320米",
+      "distance": "25m"
+    },
+    {
+      "brand": "茶百道(北京朝阳枫尚奥特莱斯店)",
+      "address": "北京市北京市朝阳区京通苑30号楼1层1-2内L130",
+      "distance": "32m"
+    },
+    {
+      "brand": "星巴克(枫尚奥特莱斯店)",
+      "address": "北京城区京通苑30号楼1层1-2内L111号",
+      "distance": "32m"
+    },
+    {
+      "brand": "喜煮捞自助旋转小火锅",
+      "address": "京通快速路入口与建国路交叉口北320米",
+      "distance": "36m"
+    },
+    {
+      "brand": "好适口(管庄枫尚奥莱店)",
+      "address": "北京城区北京通苑30号楼1层1-2内L117(西少爷旁)",
+      "distance": "36m"
+    },
+    {
+      "brand": "乡村基·川味现炒大王(枫尚奥莱店)",
+      "address": "京通苑30号楼1层1-2内L108",
+      "distance": "45m"
+    },
+    {
+      "brand": "遇见小面(枫尚奥莱朝阳店)",
+      "address": "京通苑30号楼1层(枫尚奥莱广场南1门)",
+      "distance": "10m"
+    },
+    {
+      "brand": "金凤成祥(杨闸奥莱店)",
+      "address": "北京城区京通苑30号楼1层1-2内L112",
+      "distance": "10m"
+    },
+    {
+      "brand": "鱼你在一起(京通苑店)",
+      "address": "朝阳路京通苑30号楼枫尚奥特莱斯1F层",
+      "distance": "17m"
+    },
+    {
+      "brand": "瑞幸咖啡(枫尚奥特莱斯店)",
+      "address": "北京城区京通苑30号楼一层1-2内L126",
+      "distance": "23m"
+    },
+    {
+      "brand": "陈小娇·馋嘴猪脚饭",
+      "address": "京通快速路入口与建国路交叉口北320米",
+      "distance": "25m"
+    },
+    {
+      "brand": "茶百道(北京朝阳枫尚奥特莱斯店)",
+      "address": "北京市北京市朝阳区京通苑30号楼1层1-2内L130",
+      "distance": "32m"
+    },
+    {
+      "brand": "星巴克(枫尚奥特莱斯店)",
+      "address": "北京城区京通苑30号楼1层1-2内L111号",
+      "distance": "32m"
+    },
+    {
+      "brand": "喜煮捞自助旋转小火锅",
+      "address": "京通快速路入口与建国路交叉口北320米",
+      "distance": "36m"
+    },
+    {
+      "brand": "好适口(管庄枫尚奥莱店)",
+      "address": "北京城区北京通苑30号楼1层1-2内L117(西少爷旁)",
+      "distance": "36m"
+    },
+    {
+      "brand": "乡村基·川味现炒大王(枫尚奥莱店)",
+      "address": "京通苑30号楼1层1-2内L108",
+      "distance": "45m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "万鑫佰隆购物商城",
+      "open_date": "-",
+      "area": "-",
+      "jun_daily_avg": "12.4万人次",
+      "weekday_avg": "11.2万人次",
+      "holiday_avg": "15.6万人次"
+    },
+    {
+      "name": "龙湖北京长楹天街",
+      "open_date": "2014-12-02",
+      "area": "27万㎡",
+      "jun_daily_avg": "12.4万人次",
+      "weekday_avg": "11.2万人次",
+      "holiday_avg": "15.6万人次"
+    },
+    {
+      "name": "陆港城",
+      "open_date": "2019-12-31",
+      "area": "-",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "BHG Mall北京华联常营购物中心",
+      "open_date": "2013-08-01",
+      "area": "11万㎡",
+      "jun_daily_avg": "2.3万人次",
+      "weekday_avg": "2.1万人次",
+      "holiday_avg": "3.1万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 14.0,
+      "within_1yr_pct": 7.1,
+      "1_3yr_pct": 21.4,
+      "over_3yr_pct": 71.4
+    },
+    {
+      "type": "购物",
+      "count": 22.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 27.3,
+      "over_3yr_pct": 72.7
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 2.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "教育培训",
+      "count": 3.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 33.3
+    },
+    {
+      "type": "生活服务",
+      "count": 7.0,
+      "within_1yr_pct": 42.9,
+      "1_3yr_pct": 42.9,
+      "over_3yr_pct": 14.3
+    },
+    {
+      "type": "运动健身",
+      "count": 3.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 66.7,
+      "over_3yr_pct": 33.3
+    }
+  ]
+}

@@ -1,0 +1,454 @@
+{
+  "name": "建邺吾悦广场",
+  "city": "南京市",
+  "address": "江苏省南京市建邺区江东门北街43号",
+  "lat": 32.037501,
+  "lng": 118.735707,
+  "overview": {
+    "score": 95.6,
+    "score_rank": "市内前30%",
+    "population_score": 87.5,
+    "area_score": 83.4,
+    "consumption_score": 92.1,
+    "industry_score": 95.7,
+    "annual_sales": "14.1",
+    "annual_sales_unit": "亿元",
+    "area_size_sqm": 8.0,
+    "open_date": "2021-09-19",
+    "operator": "新城控股集团股份有限公司",
+    "brand": "吾悦广场",
+    "type": "综合型",
+    "floors": "B1-L6"
+  },
+  "traffic": {
+    "annual_daily": 3.44,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第24",
+    "jun_total": 143.8,
+    "jun_total_rank": "市内商场第29名",
+    "jun_daily_avg": 4.8,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第29名",
+    "weekday_avg": 4.3,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第28名",
+    "holiday_avg": 6.1,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第31名"
+  },
+  "population": {
+    "residential": {
+      "500m": 1.7,
+      "1_5km": 16.3,
+      "3km": 52.3
+    },
+    "office": {
+      "500m": 1.3,
+      "1_5km": 10.6,
+      "3km": 27.5
+    },
+    "permanent": {
+      "500m": 1.8,
+      "1_5km": 16.4,
+      "3km": 51.7
+    }
+  },
+  "business": {
+    "competitors": 3.0,
+    "food": 165.0,
+    "shopping": 208.0,
+    "leisure": 36.0,
+    "education": 34.0,
+    "hotel": 25.0,
+    "services": 107.0,
+    "fitness": 19.0,
+    "auto": 39.0,
+    "total_stores": 418.0,
+    "old_store_3yr_pct": 39.0
+  },
+  "nearby_poi": {
+    "business": 6.0,
+    "community": 424.0,
+    "office": 52.0,
+    "school": 31.0,
+    "hospital": 72.0,
+    "transport": 10.0,
+    "scenic": 233.0
+  },
+  "demographics": {
+    "male_pct": 47.1,
+    "female_pct": null,
+    "education": {
+      "小学": 9.5,
+      "初中": 16.1,
+      "高中": 11.7,
+      "大专": 7.5,
+      "本科": 45.4,
+      "硕士": 8.0,
+      "博士": 1.8
+    },
+    "has_children_pct": 58.9,
+    "no_children_pct": 41.1
+  },
+  "scraped_at": "2026-08-02T09:23:07.465Z",
+  "nearby_restaurants": [
+    {
+      "brand": "独钓一叶(建邺吾悦广场店)",
+      "address": "吾悦广场负一楼B1068店铺",
+      "distance": "6m"
+    },
+    {
+      "brand": "麦卷凉皮造物局(建邺吾悦店)",
+      "address": "汉中大街299号吾悦广场B1层B1-037商铺",
+      "distance": "6m"
+    },
+    {
+      "brand": "十尾鲜自助小火锅(建邺吾悦店)",
+      "address": "吾悦广场(南京建邺店)",
+      "distance": "15m"
+    },
+    {
+      "brand": "东方墨兰(南京建邺吾悦店)",
+      "address": "吾悦广场负一楼B1070(学而思学习机)",
+      "distance": "18m"
+    },
+    {
+      "brand": "正烧记现捞卤味(建邺吾悦店)",
+      "address": "江东门北街10号建邺吾悦负一楼(十尾鲜小火锅旁)",
+      "distance": "20m"
+    },
+    {
+      "brand": "酸奶罐罐(南京建邺吾悦店)",
+      "address": "吾悦广场负一楼B1025",
+      "distance": "28m"
+    },
+    {
+      "brand": "新发现(建邺吾悦店)",
+      "address": "汉中门大街299号河西吾悦广发4楼4027-4028-4029-4030",
+      "distance": "32m"
+    },
+    {
+      "brand": "红森林(南京吾悦店)",
+      "address": "兴隆街道汉中门大街299号吾悦广场B1020商铺",
+      "distance": "39m"
+    },
+    {
+      "brand": "磨逗(建邺吾悦广场店)",
+      "address": "汉中门大街299号吾悦广场3号门B1盒马鲜生内磨豆",
+      "distance": "40m"
+    },
+    {
+      "brand": "普希金牛排馆(建邺吾悦广场店)",
+      "address": "吾悦广场四楼",
+      "distance": "43m"
+    },
+    {
+      "brand": "独钓一叶(建邺吾悦广场店)",
+      "address": "吾悦广场负一楼B1068店铺",
+      "distance": "6m"
+    },
+    {
+      "brand": "麦卷凉皮造物局(建邺吾悦店)",
+      "address": "汉中大街299号吾悦广场B1层B1-037商铺",
+      "distance": "6m"
+    },
+    {
+      "brand": "十尾鲜自助小火锅(建邺吾悦店)",
+      "address": "吾悦广场(南京建邺店)",
+      "distance": "15m"
+    },
+    {
+      "brand": "东方墨兰(南京建邺吾悦店)",
+      "address": "吾悦广场负一楼B1070(学而思学习机)",
+      "distance": "18m"
+    },
+    {
+      "brand": "正烧记现捞卤味(建邺吾悦店)",
+      "address": "江东门北街10号建邺吾悦负一楼(十尾鲜小火锅旁)",
+      "distance": "20m"
+    },
+    {
+      "brand": "酸奶罐罐(南京建邺吾悦店)",
+      "address": "吾悦广场负一楼B1025",
+      "distance": "28m"
+    },
+    {
+      "brand": "新发现(建邺吾悦店)",
+      "address": "汉中门大街299号河西吾悦广发4楼4027-4028-4029-4030",
+      "distance": "32m"
+    },
+    {
+      "brand": "红森林(南京吾悦店)",
+      "address": "兴隆街道汉中门大街299号吾悦广场B1020商铺",
+      "distance": "39m"
+    },
+    {
+      "brand": "磨逗(建邺吾悦广场店)",
+      "address": "汉中门大街299号吾悦广场3号门B1盒马鲜生内磨豆",
+      "distance": "40m"
+    },
+    {
+      "brand": "普希金牛排馆(建邺吾悦广场店)",
+      "address": "吾悦广场四楼",
+      "distance": "43m"
+    },
+    {
+      "brand": "独钓一叶(建邺吾悦广场店)",
+      "address": "吾悦广场负一楼B1068店铺",
+      "distance": "6m"
+    },
+    {
+      "brand": "麦卷凉皮造物局(建邺吾悦店)",
+      "address": "汉中大街299号吾悦广场B1层B1-037商铺",
+      "distance": "6m"
+    },
+    {
+      "brand": "十尾鲜自助小火锅(建邺吾悦店)",
+      "address": "吾悦广场(南京建邺店)",
+      "distance": "15m"
+    },
+    {
+      "brand": "东方墨兰(南京建邺吾悦店)",
+      "address": "吾悦广场负一楼B1070(学而思学习机)",
+      "distance": "18m"
+    },
+    {
+      "brand": "正烧记现捞卤味(建邺吾悦店)",
+      "address": "江东门北街10号建邺吾悦负一楼(十尾鲜小火锅旁)",
+      "distance": "20m"
+    },
+    {
+      "brand": "酸奶罐罐(南京建邺吾悦店)",
+      "address": "吾悦广场负一楼B1025",
+      "distance": "28m"
+    },
+    {
+      "brand": "新发现(建邺吾悦店)",
+      "address": "汉中门大街299号河西吾悦广发4楼4027-4028-4029-4030",
+      "distance": "32m"
+    },
+    {
+      "brand": "红森林(南京吾悦店)",
+      "address": "兴隆街道汉中门大街299号吾悦广场B1020商铺",
+      "distance": "39m"
+    },
+    {
+      "brand": "磨逗(建邺吾悦广场店)",
+      "address": "汉中门大街299号吾悦广场3号门B1盒马鲜生内磨豆",
+      "distance": "40m"
+    },
+    {
+      "brand": "普希金牛排馆(建邺吾悦广场店)",
+      "address": "吾悦广场四楼",
+      "distance": "43m"
+    },
+    {
+      "brand": "独钓一叶(建邺吾悦广场店)",
+      "address": "吾悦广场负一楼B1068店铺",
+      "distance": "6m"
+    },
+    {
+      "brand": "麦卷凉皮造物局(建邺吾悦店)",
+      "address": "汉中大街299号吾悦广场B1层B1-037商铺",
+      "distance": "6m"
+    },
+    {
+      "brand": "十尾鲜自助小火锅(建邺吾悦店)",
+      "address": "吾悦广场(南京建邺店)",
+      "distance": "15m"
+    },
+    {
+      "brand": "东方墨兰(南京建邺吾悦店)",
+      "address": "吾悦广场负一楼B1070(学而思学习机)",
+      "distance": "18m"
+    },
+    {
+      "brand": "正烧记现捞卤味(建邺吾悦店)",
+      "address": "江东门北街10号建邺吾悦负一楼(十尾鲜小火锅旁)",
+      "distance": "20m"
+    },
+    {
+      "brand": "酸奶罐罐(南京建邺吾悦店)",
+      "address": "吾悦广场负一楼B1025",
+      "distance": "28m"
+    },
+    {
+      "brand": "新发现(建邺吾悦店)",
+      "address": "汉中门大街299号河西吾悦广发4楼4027-4028-4029-4030",
+      "distance": "32m"
+    },
+    {
+      "brand": "红森林(南京吾悦店)",
+      "address": "兴隆街道汉中门大街299号吾悦广场B1020商铺",
+      "distance": "39m"
+    },
+    {
+      "brand": "磨逗(建邺吾悦广场店)",
+      "address": "汉中门大街299号吾悦广场3号门B1盒马鲜生内磨豆",
+      "distance": "40m"
+    },
+    {
+      "brand": "普希金牛排馆(建邺吾悦广场店)",
+      "address": "吾悦广场四楼",
+      "distance": "43m"
+    },
+    {
+      "brand": "独钓一叶(建邺吾悦广场店)",
+      "address": "吾悦广场负一楼B1068店铺",
+      "distance": "6m"
+    },
+    {
+      "brand": "麦卷凉皮造物局(建邺吾悦店)",
+      "address": "汉中大街299号吾悦广场B1层B1-037商铺",
+      "distance": "6m"
+    },
+    {
+      "brand": "十尾鲜自助小火锅(建邺吾悦店)",
+      "address": "吾悦广场(南京建邺店)",
+      "distance": "15m"
+    },
+    {
+      "brand": "东方墨兰(南京建邺吾悦店)",
+      "address": "吾悦广场负一楼B1070(学而思学习机)",
+      "distance": "18m"
+    },
+    {
+      "brand": "正烧记现捞卤味(建邺吾悦店)",
+      "address": "江东门北街10号建邺吾悦负一楼(十尾鲜小火锅旁)",
+      "distance": "20m"
+    },
+    {
+      "brand": "酸奶罐罐(南京建邺吾悦店)",
+      "address": "吾悦广场负一楼B1025",
+      "distance": "28m"
+    },
+    {
+      "brand": "新发现(建邺吾悦店)",
+      "address": "汉中门大街299号河西吾悦广发4楼4027-4028-4029-4030",
+      "distance": "32m"
+    },
+    {
+      "brand": "红森林(南京吾悦店)",
+      "address": "兴隆街道汉中门大街299号吾悦广场B1020商铺",
+      "distance": "39m"
+    },
+    {
+      "brand": "磨逗(建邺吾悦广场店)",
+      "address": "汉中门大街299号吾悦广场3号门B1盒马鲜生内磨豆",
+      "distance": "40m"
+    },
+    {
+      "brand": "普希金牛排馆(建邺吾悦广场店)",
+      "address": "吾悦广场四楼",
+      "distance": "43m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "南京建邺万达广场",
+      "open_date": "2009-12-18",
+      "area": "27万㎡",
+      "jun_daily_avg": "4.8万人次",
+      "weekday_avg": "4.3万人次",
+      "holiday_avg": "6.3万人次"
+    },
+    {
+      "name": "南京清江苏宁广场",
+      "open_date": "2015-09-30",
+      "area": "6万㎡",
+      "jun_daily_avg": "2.1万人次",
+      "weekday_avg": "1.9万人次",
+      "holiday_avg": "2.8万人次"
+    },
+    {
+      "name": "南京苏宁环球商贸城",
+      "open_date": "2008-01-18",
+      "area": "3.3万㎡",
+      "jun_daily_avg": "1.5万人次",
+      "weekday_avg": "1.4万人次",
+      "holiday_avg": "1.7万人次"
+    },
+    {
+      "name": "南京西城广场",
+      "open_date": "-",
+      "area": "9.8万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "南京河西嘉勒彼广场",
+      "open_date": "2016-01-01",
+      "area": "2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "南京金鹰世界",
+      "open_date": "2017-11-18",
+      "area": "50万㎡",
+      "jun_daily_avg": "8.4万人次",
+      "weekday_avg": "7.4万人次",
+      "holiday_avg": "11.2万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 131.0,
+      "within_1yr_pct": 26.7,
+      "1_3yr_pct": 38.2,
+      "over_3yr_pct": 35.1
+    },
+    {
+      "type": "购物",
+      "count": 114.0,
+      "within_1yr_pct": 26.3,
+      "1_3yr_pct": 32.5,
+      "over_3yr_pct": 41.2
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 35.0,
+      "within_1yr_pct": 22.9,
+      "1_3yr_pct": 40.0,
+      "over_3yr_pct": 37.1
+    },
+    {
+      "type": "教育培训",
+      "count": 29.0,
+      "within_1yr_pct": 24.1,
+      "1_3yr_pct": 48.3,
+      "over_3yr_pct": 27.6
+    },
+    {
+      "type": "酒店住宿",
+      "count": 17.0,
+      "within_1yr_pct": 23.5,
+      "1_3yr_pct": 11.8,
+      "over_3yr_pct": 64.7
+    },
+    {
+      "type": "生活服务",
+      "count": 59.0,
+      "within_1yr_pct": 15.3,
+      "1_3yr_pct": 40.7,
+      "over_3yr_pct": 44.1
+    },
+    {
+      "type": "运动健身",
+      "count": 13.0,
+      "within_1yr_pct": 23.1,
+      "1_3yr_pct": 30.8,
+      "over_3yr_pct": 46.2
+    },
+    {
+      "type": "车辆服务",
+      "count": 20.0,
+      "within_1yr_pct": 15.0,
+      "1_3yr_pct": 45.0,
+      "over_3yr_pct": 40.0
+    }
+  ]
+}

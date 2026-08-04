@@ -1,0 +1,154 @@
+{
+  "name": "南飞鸿乐荟中心",
+  "city": "西安市",
+  "address": "北京市平谷区迎宾花园2号楼",
+  "lat": 34.226247,
+  "lng": 108.912302,
+  "overview": {
+    "score": null,
+    "score_rank": "",
+    "population_score": 74.8,
+    "area_score": 72.8,
+    "consumption_score": 62.3,
+    "industry_score": 65.0,
+    "annual_sales": "北京枫尚城市奥特莱斯位于北京朝阳区管庄杨闸环岛西，集公交枢纽与地铁接驳于一身，拥有首屈一指的人流量。枫尚奥莱依托丰富的品牌资源以及对本地消费人群的深入了解，以丰富的时尚、运动品牌为亮点，为消费者精心打造了全新的购物场所。一方面对标中高端品牌入驻，调整品牌布局，嵌入年轻客群消费观，以品牌直营及工厂店等特色合作方式，强化市场占有率，丰富品牌业态；另一方面针对多元化服务需求，强化现场管理，以消费者需求出发，沉浸式购物，提升消费体验",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 2.5,
+    "open_date": "2023-03-08",
+    "operator": "枫尚世纪（北京）投资管理有限公司",
+    "brand": "",
+    "type": "综合型",
+    "floors": "L1-L3"
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "-",
+    "annual_daily_rank": "",
+    "jun_total": null,
+    "jun_total_rank": "",
+    "jun_daily_avg": null,
+    "jun_daily_unit": "",
+    "jun_daily_rank": "",
+    "weekday_avg": null,
+    "weekday_unit": "",
+    "weekday_rank": "",
+    "holiday_avg": null,
+    "holiday_unit": "",
+    "holiday_rank": ""
+  },
+  "population": {
+    "residential": {
+      "500m": 1.0,
+      "1_5km": 6.8,
+      "3km": 19.3
+    },
+    "office": {
+      "500m": 6000.0,
+      "1_5km": 3.5,
+      "3km": 9.0
+    },
+    "permanent": {
+      "500m": 1.2,
+      "1_5km": 7.4,
+      "3km": 20.6
+    }
+  },
+  "business": {
+    "competitors": 2.0,
+    "food": 72.0,
+    "shopping": 119.0,
+    "leisure": 12.0,
+    "education": 11.0,
+    "hotel": 5.0,
+    "services": 61.0,
+    "fitness": 8.0,
+    "auto": 18.0,
+    "total_stores": 22.0,
+    "old_store_3yr_pct": 50.0
+  },
+  "nearby_poi": {
+    "business": 2.0,
+    "community": 102.0,
+    "office": 8.0,
+    "school": 27.0,
+    "hospital": 47.0,
+    "transport": 11.0,
+    "scenic": 30.0
+  },
+  "demographics": {
+    "male_pct": 45.9,
+    "female_pct": null,
+    "education": {
+      "小学": 10.9,
+      "初中": 20.8,
+      "高中": 11.8,
+      "大专": 7.2,
+      "本科": 46.3,
+      "硕士": 2.1,
+      "博士": 0.9
+    },
+    "has_children_pct": 62.8,
+    "no_children_pct": 37.2
+  },
+  "scraped_at": "2026-08-02T07:09:23.731Z",
+  "nearby_restaurants": [
+    {
+      "brand": "金谷园酒楼(紫贵庄园西南)",
+      "address": "金谷园小区8号楼(近怡民环岛)",
+      "distance": "491m"
+    },
+    {
+      "brand": "牧田家围炉烧饼卷肉筋炒米粉",
+      "address": "大发路与北环路交叉口南200米",
+      "distance": "495m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "北京华联平谷购物中心",
+      "open_date": "2016-01-28",
+      "area": "5.9万㎡",
+      "jun_daily_avg": "2万人次",
+      "weekday_avg": "1.8万人次",
+      "holiday_avg": "2.6万人次"
+    },
+    {
+      "name": "北京国泰百货(平谷店)",
+      "open_date": "2004-09-01",
+      "area": "2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 3.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 66.7
+    },
+    {
+      "type": "购物",
+      "count": 14.0,
+      "within_1yr_pct": 28.6,
+      "1_3yr_pct": 28.6,
+      "over_3yr_pct": 42.9
+    },
+    {
+      "type": "生活服务",
+      "count": 4.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 75.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
+    }
+  ]
+}

@@ -1,0 +1,441 @@
+{
+  "name": "上海汇锦里",
+  "city": "上海市",
+  "address": "上海市杨浦区国权路39号附近(近黄兴路)",
+  "lat": 31.282729,
+  "lng": 121.523557,
+  "overview": {
+    "score": 79.9,
+    "score_rank": "市内前30%",
+    "population_score": 100.0,
+    "area_score": 82.3,
+    "consumption_score": 75.9,
+    "industry_score": 79.8,
+    "annual_sales": "汇锦里位于上海杨浦五角场的核心地段，具体地址为上海市杨浦区国权路49号。该项目地处繁华的商业区域，周边配套设施丰富，包括万达广场、百联城、苏宁电器广场等知名商场，满足居民日常生活和购物的需求",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 4.5,
+    "open_date": "",
+    "operator": "上海宝城物业服务有限公司",
+    "brand": "",
+    "type": "美食型",
+    "floors": "L1-L4"
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "-",
+    "annual_daily_rank": "",
+    "jun_total": 11.5,
+    "jun_total_rank": "市内商场第470名",
+    "jun_daily_avg": 3845.0,
+    "jun_daily_unit": "人次",
+    "jun_daily_rank": "市内商场第470名",
+    "weekday_avg": 3825.0,
+    "weekday_unit": "人次",
+    "weekday_rank": "市内商场第466名",
+    "holiday_avg": 3901.0,
+    "holiday_unit": "人次",
+    "holiday_rank": "市内商场第475名"
+  },
+  "population": {
+    "residential": {
+      "500m": 4.1,
+      "1_5km": 28.2,
+      "3km": 117.4
+    },
+    "office": {
+      "500m": 2.0,
+      "1_5km": 15.4,
+      "3km": 65.1
+    },
+    "permanent": {
+      "500m": 4.0,
+      "1_5km": 29.4,
+      "3km": 119.7
+    }
+  },
+  "business": {
+    "competitors": 3.0,
+    "food": 302.0,
+    "shopping": 118.0,
+    "leisure": 32.0,
+    "education": 26.0,
+    "hotel": 44.0,
+    "services": 161.0,
+    "fitness": 15.0,
+    "auto": 19.0,
+    "total_stores": 60.0,
+    "old_store_3yr_pct": 23.0
+  },
+  "nearby_poi": {
+    "business": 7.0,
+    "community": 714.0,
+    "office": 50.0,
+    "school": 60.0,
+    "hospital": 82.0,
+    "transport": 9.0,
+    "scenic": 196.0
+  },
+  "demographics": {
+    "male_pct": 50.2,
+    "female_pct": null,
+    "education": {
+      "小学": 8.5,
+      "初中": 17.3,
+      "高中": 13.8,
+      "大专": 6.2,
+      "本科": 46.7,
+      "硕士": 5.5,
+      "博士": 2.0
+    },
+    "has_children_pct": 58.3,
+    "no_children_pct": 41.7
+  },
+  "scraped_at": "2026-07-31T16:49:38.528Z",
+  "nearby_restaurants": [
+    {
+      "brand": "小时候凉皮(五角场店)",
+      "address": "五角场街道国权路69号地下1层45-1室",
+      "distance": "3m"
+    },
+    {
+      "brand": "黔来锋烫耙菜",
+      "address": "国权路与政仁路交叉口东80米",
+      "distance": "5m"
+    },
+    {
+      "brand": "烤卤爷·卤味烧烤",
+      "address": "国权路与政仁路交叉口东80米",
+      "distance": "5m"
+    },
+    {
+      "brand": "麦悠悠养生小馆(汇锦里店)",
+      "address": "国权路69号地下一层31号",
+      "distance": "6m"
+    },
+    {
+      "brand": "夸父炸串(上海杨浦汇锦里店)",
+      "address": "国权路49号",
+      "distance": "11m"
+    },
+    {
+      "brand": "塔斯汀中国汉堡(上海市杨浦汇锦里店)",
+      "address": "国权路与政仁路交叉口东80米",
+      "distance": "11m"
+    },
+    {
+      "brand": "LELECHA乐乐茶(上海汇锦里店)",
+      "address": "国权路51号",
+      "distance": "12m"
+    },
+    {
+      "brand": "星巴克沿街取餐点(上海汇锦里店)",
+      "address": "国权路73号",
+      "distance": "16m"
+    },
+    {
+      "brand": "湖南辣椒拌肘子",
+      "address": "五角场街道国权路69号地下一层42室",
+      "distance": "16m"
+    },
+    {
+      "brand": "星巴克(汇锦里店)",
+      "address": "国权路73号绿色米兰广场1层",
+      "distance": "17m"
+    },
+    {
+      "brand": "小时候凉皮(五角场店)",
+      "address": "五角场街道国权路69号地下1层45-1室",
+      "distance": "3m"
+    },
+    {
+      "brand": "黔来锋烫耙菜",
+      "address": "国权路与政仁路交叉口东80米",
+      "distance": "5m"
+    },
+    {
+      "brand": "烤卤爷·卤味烧烤",
+      "address": "国权路与政仁路交叉口东80米",
+      "distance": "5m"
+    },
+    {
+      "brand": "麦悠悠养生小馆(汇锦里店)",
+      "address": "国权路69号地下一层31号",
+      "distance": "6m"
+    },
+    {
+      "brand": "夸父炸串(上海杨浦汇锦里店)",
+      "address": "国权路49号",
+      "distance": "11m"
+    },
+    {
+      "brand": "塔斯汀中国汉堡(上海市杨浦汇锦里店)",
+      "address": "国权路与政仁路交叉口东80米",
+      "distance": "11m"
+    },
+    {
+      "brand": "LELECHA乐乐茶(上海汇锦里店)",
+      "address": "国权路51号",
+      "distance": "12m"
+    },
+    {
+      "brand": "星巴克沿街取餐点(上海汇锦里店)",
+      "address": "国权路73号",
+      "distance": "16m"
+    },
+    {
+      "brand": "湖南辣椒拌肘子",
+      "address": "五角场街道国权路69号地下一层42室",
+      "distance": "16m"
+    },
+    {
+      "brand": "星巴克(汇锦里店)",
+      "address": "国权路73号绿色米兰广场1层",
+      "distance": "17m"
+    },
+    {
+      "brand": "小时候凉皮(五角场店)",
+      "address": "五角场街道国权路69号地下1层45-1室",
+      "distance": "3m"
+    },
+    {
+      "brand": "黔来锋烫耙菜",
+      "address": "国权路与政仁路交叉口东80米",
+      "distance": "5m"
+    },
+    {
+      "brand": "烤卤爷·卤味烧烤",
+      "address": "国权路与政仁路交叉口东80米",
+      "distance": "5m"
+    },
+    {
+      "brand": "麦悠悠养生小馆(汇锦里店)",
+      "address": "国权路69号地下一层31号",
+      "distance": "6m"
+    },
+    {
+      "brand": "夸父炸串(上海杨浦汇锦里店)",
+      "address": "国权路49号",
+      "distance": "11m"
+    },
+    {
+      "brand": "塔斯汀中国汉堡(上海市杨浦汇锦里店)",
+      "address": "国权路与政仁路交叉口东80米",
+      "distance": "11m"
+    },
+    {
+      "brand": "LELECHA乐乐茶(上海汇锦里店)",
+      "address": "国权路51号",
+      "distance": "12m"
+    },
+    {
+      "brand": "星巴克沿街取餐点(上海汇锦里店)",
+      "address": "国权路73号",
+      "distance": "16m"
+    },
+    {
+      "brand": "湖南辣椒拌肘子",
+      "address": "五角场街道国权路69号地下一层42室",
+      "distance": "16m"
+    },
+    {
+      "brand": "星巴克(汇锦里店)",
+      "address": "国权路73号绿色米兰广场1层",
+      "distance": "17m"
+    },
+    {
+      "brand": "小时候凉皮(五角场店)",
+      "address": "五角场街道国权路69号地下1层45-1室",
+      "distance": "3m"
+    },
+    {
+      "brand": "黔来锋烫耙菜",
+      "address": "国权路与政仁路交叉口东80米",
+      "distance": "5m"
+    },
+    {
+      "brand": "烤卤爷·卤味烧烤",
+      "address": "国权路与政仁路交叉口东80米",
+      "distance": "5m"
+    },
+    {
+      "brand": "麦悠悠养生小馆(汇锦里店)",
+      "address": "国权路69号地下一层31号",
+      "distance": "6m"
+    },
+    {
+      "brand": "夸父炸串(上海杨浦汇锦里店)",
+      "address": "国权路49号",
+      "distance": "11m"
+    },
+    {
+      "brand": "塔斯汀中国汉堡(上海市杨浦汇锦里店)",
+      "address": "国权路与政仁路交叉口东80米",
+      "distance": "11m"
+    },
+    {
+      "brand": "LELECHA乐乐茶(上海汇锦里店)",
+      "address": "国权路51号",
+      "distance": "12m"
+    },
+    {
+      "brand": "星巴克沿街取餐点(上海汇锦里店)",
+      "address": "国权路73号",
+      "distance": "16m"
+    },
+    {
+      "brand": "湖南辣椒拌肘子",
+      "address": "五角场街道国权路69号地下一层42室",
+      "distance": "16m"
+    },
+    {
+      "brand": "星巴克(汇锦里店)",
+      "address": "国权路73号绿色米兰广场1层",
+      "distance": "17m"
+    },
+    {
+      "brand": "小时候凉皮(五角场店)",
+      "address": "五角场街道国权路69号地下1层45-1室",
+      "distance": "3m"
+    },
+    {
+      "brand": "黔来锋烫耙菜",
+      "address": "国权路与政仁路交叉口东80米",
+      "distance": "5m"
+    },
+    {
+      "brand": "烤卤爷·卤味烧烤",
+      "address": "国权路与政仁路交叉口东80米",
+      "distance": "5m"
+    },
+    {
+      "brand": "麦悠悠养生小馆(汇锦里店)",
+      "address": "国权路69号地下一层31号",
+      "distance": "6m"
+    },
+    {
+      "brand": "夸父炸串(上海杨浦汇锦里店)",
+      "address": "国权路49号",
+      "distance": "11m"
+    },
+    {
+      "brand": "塔斯汀中国汉堡(上海市杨浦汇锦里店)",
+      "address": "国权路与政仁路交叉口东80米",
+      "distance": "11m"
+    },
+    {
+      "brand": "LELECHA乐乐茶(上海汇锦里店)",
+      "address": "国权路51号",
+      "distance": "12m"
+    },
+    {
+      "brand": "星巴克沿街取餐点(上海汇锦里店)",
+      "address": "国权路73号",
+      "distance": "16m"
+    },
+    {
+      "brand": "湖南辣椒拌肘子",
+      "address": "五角场街道国权路69号地下一层42室",
+      "distance": "16m"
+    },
+    {
+      "brand": "星巴克(汇锦里店)",
+      "address": "国权路73号绿色米兰广场1层",
+      "distance": "17m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海九隆坊",
+      "open_date": "2006-12-01",
+      "area": "-",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海UMAX悠迈生活广场",
+      "open_date": "2018-01-19",
+      "area": "8万㎡",
+      "jun_daily_avg": "2.4万人次",
+      "weekday_avg": "2万人次",
+      "holiday_avg": "3.6万人次"
+    },
+    {
+      "name": "上海苏宁生活广场(五角场店)",
+      "open_date": "2019-11-01",
+      "area": "3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海五角场合生汇",
+      "open_date": "2016-01-01",
+      "area": "17万㎡",
+      "jun_daily_avg": "11.3万人次",
+      "weekday_avg": "9.6万人次",
+      "holiday_avg": "15.8万人次"
+    },
+    {
+      "name": "上海紫荆广场",
+      "open_date": "2015-12-05",
+      "area": "7万㎡",
+      "jun_daily_avg": "5.2万人次",
+      "weekday_avg": "4.9万人次",
+      "holiday_avg": "5.8万人次"
+    },
+    {
+      "name": "上海百联又一城购物中心",
+      "open_date": "2007-01-26",
+      "area": "10.2万㎡",
+      "jun_daily_avg": "7.1万人次",
+      "weekday_avg": "6.1万人次",
+      "holiday_avg": "9.6万人次"
+    },
+    {
+      "name": "上海五角场万达广场",
+      "open_date": "2006-12-23",
+      "area": "20万㎡",
+      "jun_daily_avg": "1.2万人次",
+      "weekday_avg": "1万人次",
+      "holiday_avg": "1.7万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 46.0,
+      "within_1yr_pct": 34.8,
+      "1_3yr_pct": 45.7,
+      "over_3yr_pct": 19.6
+    },
+    {
+      "type": "购物",
+      "count": 3.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 66.7
+    },
+    {
+      "type": "酒店住宿",
+      "count": 1.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "生活服务",
+      "count": 6.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 16.7
+    },
+    {
+      "type": "运动健身",
+      "count": 4.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 50.0
+    }
+  ]
+}

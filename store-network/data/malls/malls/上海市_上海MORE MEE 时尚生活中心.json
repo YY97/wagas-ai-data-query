@@ -1,0 +1,479 @@
+{
+  "name": "上海MORE MEE 时尚生活中心",
+  "city": "上海市",
+  "address": "上海市浦东新区张杨路588号",
+  "lat": 31.227862,
+  "lng": 121.519128,
+  "overview": {
+    "score": 78.7,
+    "score_rank": "市内前30%",
+    "population_score": 98.8,
+    "area_score": 100.0,
+    "consumption_score": 80.9,
+    "industry_score": 78.5,
+    "annual_sales": "MORE MEE时尚生活中心位于浦东八佰伴核心商圈，作为市级核心商圈，也如同徐家汇一样，正进入整个商圈的新一轮改造升级。升级后于2018年12月开业，项目的商业建筑面积约为3万平方米，MORE MEE共有五层，1至2层主打零售，3至5层的定位分别为亲子空间、生活方式、美食天地。主要服务于区域内年轻白领客群，各阶层白领以及年轻家庭。在每个楼层开创性引进“直播”概念，精选线上线下网红品牌。直播、录音棚等",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 3.0,
+    "open_date": "2018-12-15",
+    "operator": "",
+    "brand": "",
+    "type": "综合型",
+    "floors": "L1-L5"
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "-",
+    "annual_daily_rank": "",
+    "jun_total": 10.0,
+    "jun_total_rank": "市内商场第486名",
+    "jun_daily_avg": 3339.0,
+    "jun_daily_unit": "人次",
+    "jun_daily_rank": "市内商场第486名",
+    "weekday_avg": 3582.0,
+    "weekday_unit": "人次",
+    "weekday_rank": "市内商场第476名",
+    "holiday_avg": 2671.0,
+    "holiday_unit": "人次",
+    "holiday_rank": "市内商场第514名"
+  },
+  "population": {
+    "residential": {
+      "500m": 3.6,
+      "1_5km": 27.5,
+      "3km": 67.2
+    },
+    "office": {
+      "500m": 6.1,
+      "1_5km": 28.2,
+      "3km": 81.9
+    },
+    "permanent": {
+      "500m": 4.6,
+      "1_5km": 30.6,
+      "3km": 77.5
+    }
+  },
+  "business": {
+    "competitors": 14.0,
+    "food": 595.0,
+    "shopping": 558.0,
+    "leisure": 78.0,
+    "education": 113.0,
+    "hotel": 74.0,
+    "services": 489.0,
+    "fitness": 70.0,
+    "auto": 44.0,
+    "total_stores": 54.0,
+    "old_store_3yr_pct": 59.0
+  },
+  "nearby_poi": {
+    "business": 14.0,
+    "community": 437.0,
+    "office": 152.0,
+    "school": 55.0,
+    "hospital": 132.0,
+    "transport": 13.0,
+    "scenic": 493.0
+  },
+  "demographics": {
+    "male_pct": 50.5,
+    "female_pct": null,
+    "education": {
+      "小学": 9.0,
+      "初中": 16.4,
+      "高中": 10.6,
+      "大专": 6.9,
+      "本科": 48.6,
+      "硕士": 6.7,
+      "博士": 1.8
+    },
+    "has_children_pct": 57.9,
+    "no_children_pct": 42.1
+  },
+  "scraped_at": "2026-07-31T15:04:02.313Z",
+  "nearby_restaurants": [
+    {
+      "brand": "米香园智选餐厅(光年汇店)",
+      "address": "张杨路588号光年汇L1层",
+      "distance": "4m"
+    },
+    {
+      "brand": "库迪咖啡(光年汇店)",
+      "address": "张杨路588号光年汇L1层内西端商铺",
+      "distance": "15m"
+    },
+    {
+      "brand": "青鹤谷(浦东店)(暂停营业)",
+      "address": "张杨路588号光年汇403",
+      "distance": "26m"
+    },
+    {
+      "brand": "元祖食品(张杨路店)",
+      "address": "张杨路588号光年汇L1层",
+      "distance": "33m"
+    },
+    {
+      "brand": "春风松月楼(中融恒瑞国际大厦店)",
+      "address": "张杨路620号中融恒瑞国际大厦F1层",
+      "distance": "49m"
+    },
+    {
+      "brand": "瑞幸咖啡(中融恒瑞国际大厦店)",
+      "address": "张杨路560号中融恒瑞国际大厦底商",
+      "distance": "49m"
+    },
+    {
+      "brand": "浙東頭(中融恒瑞国际大厦店)",
+      "address": "张杨路620号中融恒瑞国际大厦F6层",
+      "distance": "64m"
+    },
+    {
+      "brand": "GZ CAFE芒果榴莲千层蛋糕(浦东食品城店)",
+      "address": "张杨路601号4层(商城路地铁站2号口步行430米)",
+      "distance": "85m"
+    },
+    {
+      "brand": "谢大牛馆·中式卤牛排(浦东八佰伴店)",
+      "address": "张杨路601号华诚大厦F1层",
+      "distance": "86m"
+    },
+    {
+      "brand": "Manner Coffee(三鑫世界商厦店)",
+      "address": "张杨路579号三鑫世界商厦F1层",
+      "distance": "87m"
+    },
+    {
+      "brand": "米香园智选餐厅(光年汇店)",
+      "address": "张杨路588号光年汇L1层",
+      "distance": "4m"
+    },
+    {
+      "brand": "库迪咖啡(光年汇店)",
+      "address": "张杨路588号光年汇L1层内西端商铺",
+      "distance": "15m"
+    },
+    {
+      "brand": "青鹤谷(浦东店)(暂停营业)",
+      "address": "张杨路588号光年汇403",
+      "distance": "26m"
+    },
+    {
+      "brand": "元祖食品(张杨路店)",
+      "address": "张杨路588号光年汇L1层",
+      "distance": "33m"
+    },
+    {
+      "brand": "春风松月楼(中融恒瑞国际大厦店)",
+      "address": "张杨路620号中融恒瑞国际大厦F1层",
+      "distance": "49m"
+    },
+    {
+      "brand": "瑞幸咖啡(中融恒瑞国际大厦店)",
+      "address": "张杨路560号中融恒瑞国际大厦底商",
+      "distance": "49m"
+    },
+    {
+      "brand": "浙東頭(中融恒瑞国际大厦店)",
+      "address": "张杨路620号中融恒瑞国际大厦F6层",
+      "distance": "64m"
+    },
+    {
+      "brand": "GZ CAFE芒果榴莲千层蛋糕(浦东食品城店)",
+      "address": "张杨路601号4层(商城路地铁站2号口步行430米)",
+      "distance": "85m"
+    },
+    {
+      "brand": "谢大牛馆·中式卤牛排(浦东八佰伴店)",
+      "address": "张杨路601号华诚大厦F1层",
+      "distance": "86m"
+    },
+    {
+      "brand": "Manner Coffee(三鑫世界商厦店)",
+      "address": "张杨路579号三鑫世界商厦F1层",
+      "distance": "87m"
+    },
+    {
+      "brand": "米香园智选餐厅(光年汇店)",
+      "address": "张杨路588号光年汇L1层",
+      "distance": "4m"
+    },
+    {
+      "brand": "库迪咖啡(光年汇店)",
+      "address": "张杨路588号光年汇L1层内西端商铺",
+      "distance": "15m"
+    },
+    {
+      "brand": "青鹤谷(浦东店)(暂停营业)",
+      "address": "张杨路588号光年汇403",
+      "distance": "26m"
+    },
+    {
+      "brand": "元祖食品(张杨路店)",
+      "address": "张杨路588号光年汇L1层",
+      "distance": "33m"
+    },
+    {
+      "brand": "春风松月楼(中融恒瑞国际大厦店)",
+      "address": "张杨路620号中融恒瑞国际大厦F1层",
+      "distance": "49m"
+    },
+    {
+      "brand": "瑞幸咖啡(中融恒瑞国际大厦店)",
+      "address": "张杨路560号中融恒瑞国际大厦底商",
+      "distance": "49m"
+    },
+    {
+      "brand": "浙東頭(中融恒瑞国际大厦店)",
+      "address": "张杨路620号中融恒瑞国际大厦F6层",
+      "distance": "64m"
+    },
+    {
+      "brand": "GZ CAFE芒果榴莲千层蛋糕(浦东食品城店)",
+      "address": "张杨路601号4层(商城路地铁站2号口步行430米)",
+      "distance": "85m"
+    },
+    {
+      "brand": "谢大牛馆·中式卤牛排(浦东八佰伴店)",
+      "address": "张杨路601号华诚大厦F1层",
+      "distance": "86m"
+    },
+    {
+      "brand": "Manner Coffee(三鑫世界商厦店)",
+      "address": "张杨路579号三鑫世界商厦F1层",
+      "distance": "87m"
+    },
+    {
+      "brand": "米香园智选餐厅(光年汇店)",
+      "address": "张杨路588号光年汇L1层",
+      "distance": "4m"
+    },
+    {
+      "brand": "库迪咖啡(光年汇店)",
+      "address": "张杨路588号光年汇L1层内西端商铺",
+      "distance": "15m"
+    },
+    {
+      "brand": "青鹤谷(浦东店)(暂停营业)",
+      "address": "张杨路588号光年汇403",
+      "distance": "26m"
+    },
+    {
+      "brand": "元祖食品(张杨路店)",
+      "address": "张杨路588号光年汇L1层",
+      "distance": "33m"
+    },
+    {
+      "brand": "春风松月楼(中融恒瑞国际大厦店)",
+      "address": "张杨路620号中融恒瑞国际大厦F1层",
+      "distance": "49m"
+    },
+    {
+      "brand": "瑞幸咖啡(中融恒瑞国际大厦店)",
+      "address": "张杨路560号中融恒瑞国际大厦底商",
+      "distance": "49m"
+    },
+    {
+      "brand": "浙東頭(中融恒瑞国际大厦店)",
+      "address": "张杨路620号中融恒瑞国际大厦F6层",
+      "distance": "64m"
+    },
+    {
+      "brand": "GZ CAFE芒果榴莲千层蛋糕(浦东食品城店)",
+      "address": "张杨路601号4层(商城路地铁站2号口步行430米)",
+      "distance": "85m"
+    },
+    {
+      "brand": "谢大牛馆·中式卤牛排(浦东八佰伴店)",
+      "address": "张杨路601号华诚大厦F1层",
+      "distance": "86m"
+    },
+    {
+      "brand": "Manner Coffee(三鑫世界商厦店)",
+      "address": "张杨路579号三鑫世界商厦F1层",
+      "distance": "87m"
+    },
+    {
+      "brand": "米香园智选餐厅(光年汇店)",
+      "address": "张杨路588号光年汇L1层",
+      "distance": "4m"
+    },
+    {
+      "brand": "库迪咖啡(光年汇店)",
+      "address": "张杨路588号光年汇L1层内西端商铺",
+      "distance": "15m"
+    },
+    {
+      "brand": "青鹤谷(浦东店)(暂停营业)",
+      "address": "张杨路588号光年汇403",
+      "distance": "26m"
+    },
+    {
+      "brand": "元祖食品(张杨路店)",
+      "address": "张杨路588号光年汇L1层",
+      "distance": "33m"
+    },
+    {
+      "brand": "春风松月楼(中融恒瑞国际大厦店)",
+      "address": "张杨路620号中融恒瑞国际大厦F1层",
+      "distance": "49m"
+    },
+    {
+      "brand": "瑞幸咖啡(中融恒瑞国际大厦店)",
+      "address": "张杨路560号中融恒瑞国际大厦底商",
+      "distance": "49m"
+    },
+    {
+      "brand": "浙東頭(中融恒瑞国际大厦店)",
+      "address": "张杨路620号中融恒瑞国际大厦F6层",
+      "distance": "64m"
+    },
+    {
+      "brand": "GZ CAFE芒果榴莲千层蛋糕(浦东食品城店)",
+      "address": "张杨路601号4层(商城路地铁站2号口步行430米)",
+      "distance": "85m"
+    },
+    {
+      "brand": "谢大牛馆·中式卤牛排(浦东八佰伴店)",
+      "address": "张杨路601号华诚大厦F1层",
+      "distance": "86m"
+    },
+    {
+      "brand": "Manner Coffee(三鑫世界商厦店)",
+      "address": "张杨路579号三鑫世界商厦F1层",
+      "distance": "87m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海华润时代广场",
+      "open_date": "2019-12-01",
+      "area": "5.1万㎡",
+      "jun_daily_avg": "2.3万人次",
+      "weekday_avg": "2.2万人次",
+      "holiday_avg": "2.7万人次"
+    },
+    {
+      "name": "上海第一八佰伴",
+      "open_date": "1995-12-20",
+      "area": "10.8万㎡",
+      "jun_daily_avg": "3.2万人次",
+      "weekday_avg": "2.9万人次",
+      "holiday_avg": "3.8万人次"
+    },
+    {
+      "name": "上海浦东新大陆广场",
+      "open_date": "1997-06-03",
+      "area": "4万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海新梅联合广场",
+      "open_date": "2005-01-01",
+      "area": "6万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海1088广场",
+      "open_date": "2014-12-12",
+      "area": "3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海湾生活时尚中心",
+      "open_date": "2013-03-18",
+      "area": "3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海陆家嘴1885广场",
+      "open_date": "2009-01-01",
+      "area": "-",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海陆家嘴中心L+Mall",
+      "open_date": "2018-12-23",
+      "area": "14万㎡",
+      "jun_daily_avg": "7.2万人次",
+      "weekday_avg": "7.4万人次",
+      "holiday_avg": "6.6万人次"
+    },
+    {
+      "name": "上海九六广场",
+      "open_date": "2008-11-28",
+      "area": "6.5万㎡",
+      "jun_daily_avg": "1.1万人次",
+      "weekday_avg": "1万人次",
+      "holiday_avg": "1.2万人次"
+    },
+    {
+      "name": "上海滨江世茂52+",
+      "open_date": "2018-12-21",
+      "area": "1.2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 6.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 66.7
+    },
+    {
+      "type": "购物",
+      "count": 24.0,
+      "within_1yr_pct": 8.3,
+      "1_3yr_pct": 8.3,
+      "over_3yr_pct": 83.3
+    },
+    {
+      "type": "教育培训",
+      "count": 3.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "生活服务",
+      "count": 12.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 41.7
+    },
+    {
+      "type": "运动健身",
+      "count": 4.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 75.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 4.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 75.0
+    }
+  ]
+}

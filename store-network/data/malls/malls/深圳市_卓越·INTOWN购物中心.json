@@ -1,0 +1,479 @@
+{
+  "name": "卓越·INTOWN购物中心",
+  "city": "深圳市",
+  "address": "广东省深圳市福田区金田路2034号",
+  "lat": 22.531481,
+  "lng": 114.065007,
+  "overview": {
+    "score": 95.0,
+    "score_rank": "市内前30%",
+    "population_score": 82.3,
+    "area_score": 96.1,
+    "consumption_score": 80.9,
+    "industry_score": 95.0,
+    "annual_sales": "6",
+    "annual_sales_unit": "亿元",
+    "area_size_sqm": 5.0,
+    "open_date": "2015-01-01",
+    "operator": "卓越置业集团有限公司",
+    "brand": "卓越置业集团有限公司",
+    "type": "美食型",
+    "floors": "B1-L4"
+  },
+  "traffic": {
+    "annual_daily": 3.67,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第48",
+    "jun_total": 161.7,
+    "jun_total_rank": "市内商场第46名",
+    "jun_daily_avg": 5.4,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第46名",
+    "weekday_avg": 5.6,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第39名",
+    "holiday_avg": 4.8,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第70名"
+  },
+  "population": {
+    "residential": {
+      "500m": 2.7,
+      "1_5km": 31.5,
+      "3km": 97.6
+    },
+    "office": {
+      "500m": 6.1,
+      "1_5km": 32.4,
+      "3km": 79.5
+    },
+    "permanent": {
+      "500m": 4.3,
+      "1_5km": 33.7,
+      "3km": 98.2
+    }
+  },
+  "business": {
+    "competitors": 12.0,
+    "food": 546.0,
+    "shopping": 485.0,
+    "leisure": 74.0,
+    "education": 80.0,
+    "hotel": 135.0,
+    "services": 781.0,
+    "fitness": 51.0,
+    "auto": 45.0,
+    "total_stores": 269.0,
+    "old_store_3yr_pct": 41.0
+  },
+  "nearby_poi": {
+    "business": 11.0,
+    "community": 402.0,
+    "office": 142.0,
+    "school": 42.0,
+    "hospital": 204.0,
+    "transport": 13.0,
+    "scenic": 233.0
+  },
+  "demographics": {
+    "male_pct": 53.5,
+    "female_pct": null,
+    "education": {
+      "小学": 11.8,
+      "初中": 20.5,
+      "高中": 11.6,
+      "大专": 8.9,
+      "本科": 42.3,
+      "硕士": 4.2,
+      "博士": 0.7
+    },
+    "has_children_pct": 54.9,
+    "no_children_pct": 45.1
+  },
+  "scraped_at": "2026-08-02T10:26:33.188Z",
+  "nearby_restaurants": [
+    {
+      "brand": "美野商店·日式茶餐厅",
+      "address": "金田路2030号卓悦INTOWN购物中心东区L1层",
+      "distance": "4m"
+    },
+    {
+      "brand": "面签(卓越INTOWN购物中心)",
+      "address": "金田路2030号卓悦INTOWN购物中心东区B1层",
+      "distance": "8m"
+    },
+    {
+      "brand": "麦当劳(福华三路餐厅)",
+      "address": "福华三路卓越世纪中心3、4号裙楼二层2078号部分铺位",
+      "distance": "8m"
+    },
+    {
+      "brand": "海底捞火锅(卓越店)",
+      "address": "福华三路卓越世纪中心intown四楼L401L402号",
+      "distance": "10m"
+    },
+    {
+      "brand": "潮发潮汕牛肉店(卓悦intown店)",
+      "address": "福华三路卓悦intown购物中心4栋3层",
+      "distance": "17m"
+    },
+    {
+      "brand": "小女当家(卓越世纪中心店)",
+      "address": "金田路2030号卓悦INTOWN购物中心东区B1层",
+      "distance": "20m"
+    },
+    {
+      "brand": "粤陈记粥底海鲜火锅(深圳福田卓悦INTOWN店)",
+      "address": "金田路2030号卓越·世纪中心",
+      "distance": "23m"
+    },
+    {
+      "brand": "RR ROLLING(卓悦INTOWN购物中心)",
+      "address": "金田路2030号卓悦INTOWN购物中心东区B1层1110号",
+      "distance": "26m"
+    },
+    {
+      "brand": "19th HUB·餐酒秀(卓悦INTOWN店)",
+      "address": "福华三路与金田路交叉口卓越intown4楼L4-J",
+      "distance": "27m"
+    },
+    {
+      "brand": "太极堡TAICHI BURGER(深圳卓越世纪中心店)",
+      "address": "金田路2030号卓越世纪中心裙楼104",
+      "distance": "32m"
+    },
+    {
+      "brand": "美野商店·日式茶餐厅",
+      "address": "金田路2030号卓悦INTOWN购物中心东区L1层",
+      "distance": "4m"
+    },
+    {
+      "brand": "面签(卓越INTOWN购物中心)",
+      "address": "金田路2030号卓悦INTOWN购物中心东区B1层",
+      "distance": "8m"
+    },
+    {
+      "brand": "麦当劳(福华三路餐厅)",
+      "address": "福华三路卓越世纪中心3、4号裙楼二层2078号部分铺位",
+      "distance": "8m"
+    },
+    {
+      "brand": "海底捞火锅(卓越店)",
+      "address": "福华三路卓越世纪中心intown四楼L401L402号",
+      "distance": "10m"
+    },
+    {
+      "brand": "潮发潮汕牛肉店(卓悦intown店)",
+      "address": "福华三路卓悦intown购物中心4栋3层",
+      "distance": "17m"
+    },
+    {
+      "brand": "小女当家(卓越世纪中心店)",
+      "address": "金田路2030号卓悦INTOWN购物中心东区B1层",
+      "distance": "20m"
+    },
+    {
+      "brand": "粤陈记粥底海鲜火锅(深圳福田卓悦INTOWN店)",
+      "address": "金田路2030号卓越·世纪中心",
+      "distance": "23m"
+    },
+    {
+      "brand": "RR ROLLING(卓悦INTOWN购物中心)",
+      "address": "金田路2030号卓悦INTOWN购物中心东区B1层1110号",
+      "distance": "26m"
+    },
+    {
+      "brand": "19th HUB·餐酒秀(卓悦INTOWN店)",
+      "address": "福华三路与金田路交叉口卓越intown4楼L4-J",
+      "distance": "27m"
+    },
+    {
+      "brand": "太极堡TAICHI BURGER(深圳卓越世纪中心店)",
+      "address": "金田路2030号卓越世纪中心裙楼104",
+      "distance": "32m"
+    },
+    {
+      "brand": "美野商店·日式茶餐厅",
+      "address": "金田路2030号卓悦INTOWN购物中心东区L1层",
+      "distance": "4m"
+    },
+    {
+      "brand": "面签(卓越INTOWN购物中心)",
+      "address": "金田路2030号卓悦INTOWN购物中心东区B1层",
+      "distance": "8m"
+    },
+    {
+      "brand": "麦当劳(福华三路餐厅)",
+      "address": "福华三路卓越世纪中心3、4号裙楼二层2078号部分铺位",
+      "distance": "8m"
+    },
+    {
+      "brand": "海底捞火锅(卓越店)",
+      "address": "福华三路卓越世纪中心intown四楼L401L402号",
+      "distance": "10m"
+    },
+    {
+      "brand": "潮发潮汕牛肉店(卓悦intown店)",
+      "address": "福华三路卓悦intown购物中心4栋3层",
+      "distance": "17m"
+    },
+    {
+      "brand": "小女当家(卓越世纪中心店)",
+      "address": "金田路2030号卓悦INTOWN购物中心东区B1层",
+      "distance": "20m"
+    },
+    {
+      "brand": "粤陈记粥底海鲜火锅(深圳福田卓悦INTOWN店)",
+      "address": "金田路2030号卓越·世纪中心",
+      "distance": "23m"
+    },
+    {
+      "brand": "RR ROLLING(卓悦INTOWN购物中心)",
+      "address": "金田路2030号卓悦INTOWN购物中心东区B1层1110号",
+      "distance": "26m"
+    },
+    {
+      "brand": "19th HUB·餐酒秀(卓悦INTOWN店)",
+      "address": "福华三路与金田路交叉口卓越intown4楼L4-J",
+      "distance": "27m"
+    },
+    {
+      "brand": "太极堡TAICHI BURGER(深圳卓越世纪中心店)",
+      "address": "金田路2030号卓越世纪中心裙楼104",
+      "distance": "32m"
+    },
+    {
+      "brand": "美野商店·日式茶餐厅",
+      "address": "金田路2030号卓悦INTOWN购物中心东区L1层",
+      "distance": "4m"
+    },
+    {
+      "brand": "面签(卓越INTOWN购物中心)",
+      "address": "金田路2030号卓悦INTOWN购物中心东区B1层",
+      "distance": "8m"
+    },
+    {
+      "brand": "麦当劳(福华三路餐厅)",
+      "address": "福华三路卓越世纪中心3、4号裙楼二层2078号部分铺位",
+      "distance": "8m"
+    },
+    {
+      "brand": "海底捞火锅(卓越店)",
+      "address": "福华三路卓越世纪中心intown四楼L401L402号",
+      "distance": "10m"
+    },
+    {
+      "brand": "潮发潮汕牛肉店(卓悦intown店)",
+      "address": "福华三路卓悦intown购物中心4栋3层",
+      "distance": "17m"
+    },
+    {
+      "brand": "小女当家(卓越世纪中心店)",
+      "address": "金田路2030号卓悦INTOWN购物中心东区B1层",
+      "distance": "20m"
+    },
+    {
+      "brand": "粤陈记粥底海鲜火锅(深圳福田卓悦INTOWN店)",
+      "address": "金田路2030号卓越·世纪中心",
+      "distance": "23m"
+    },
+    {
+      "brand": "RR ROLLING(卓悦INTOWN购物中心)",
+      "address": "金田路2030号卓悦INTOWN购物中心东区B1层1110号",
+      "distance": "26m"
+    },
+    {
+      "brand": "19th HUB·餐酒秀(卓悦INTOWN店)",
+      "address": "福华三路与金田路交叉口卓越intown4楼L4-J",
+      "distance": "27m"
+    },
+    {
+      "brand": "太极堡TAICHI BURGER(深圳卓越世纪中心店)",
+      "address": "金田路2030号卓越世纪中心裙楼104",
+      "distance": "32m"
+    },
+    {
+      "brand": "美野商店·日式茶餐厅",
+      "address": "金田路2030号卓悦INTOWN购物中心东区L1层",
+      "distance": "4m"
+    },
+    {
+      "brand": "面签(卓越INTOWN购物中心)",
+      "address": "金田路2030号卓悦INTOWN购物中心东区B1层",
+      "distance": "8m"
+    },
+    {
+      "brand": "麦当劳(福华三路餐厅)",
+      "address": "福华三路卓越世纪中心3、4号裙楼二层2078号部分铺位",
+      "distance": "8m"
+    },
+    {
+      "brand": "海底捞火锅(卓越店)",
+      "address": "福华三路卓越世纪中心intown四楼L401L402号",
+      "distance": "10m"
+    },
+    {
+      "brand": "潮发潮汕牛肉店(卓悦intown店)",
+      "address": "福华三路卓悦intown购物中心4栋3层",
+      "distance": "17m"
+    },
+    {
+      "brand": "小女当家(卓越世纪中心店)",
+      "address": "金田路2030号卓悦INTOWN购物中心东区B1层",
+      "distance": "20m"
+    },
+    {
+      "brand": "粤陈记粥底海鲜火锅(深圳福田卓悦INTOWN店)",
+      "address": "金田路2030号卓越·世纪中心",
+      "distance": "23m"
+    },
+    {
+      "brand": "RR ROLLING(卓悦INTOWN购物中心)",
+      "address": "金田路2030号卓悦INTOWN购物中心东区B1层1110号",
+      "distance": "26m"
+    },
+    {
+      "brand": "19th HUB·餐酒秀(卓悦INTOWN店)",
+      "address": "福华三路与金田路交叉口卓越intown4楼L4-J",
+      "distance": "27m"
+    },
+    {
+      "brand": "太极堡TAICHI BURGER(深圳卓越世纪中心店)",
+      "address": "金田路2030号卓越世纪中心裙楼104",
+      "distance": "32m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "深圳Galaxy·星河中心",
+      "open_date": "2008-02-01",
+      "area": "5万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "深圳One Avenue卓悦中心",
+      "open_date": "2019-09-28",
+      "area": "18.6万㎡",
+      "jun_daily_avg": "10.7万人次",
+      "weekday_avg": "9.7万人次",
+      "holiday_avg": "13.5万人次"
+    },
+    {
+      "name": "深圳大中华·HUA广场",
+      "open_date": "2005-12-18",
+      "area": "8.5万㎡",
+      "jun_daily_avg": "4.2万人次",
+      "weekday_avg": "3.7万人次",
+      "holiday_avg": "5.6万人次"
+    },
+    {
+      "name": "深圳皇庭广场",
+      "open_date": "2013-12-25",
+      "area": "8.1万㎡",
+      "jun_daily_avg": "7.6万人次",
+      "weekday_avg": "6.9万人次",
+      "holiday_avg": "9.4万人次"
+    },
+    {
+      "name": "深圳领展中心城",
+      "open_date": "2007-04-28",
+      "area": "13万㎡",
+      "jun_daily_avg": "6.1万人次",
+      "weekday_avg": "5.5万人次",
+      "holiday_avg": "7.6万人次"
+    },
+    {
+      "name": "深圳平安金融中心PAFCmall",
+      "open_date": "2019-12-01",
+      "area": "8万㎡",
+      "jun_daily_avg": "5.3万人次",
+      "weekday_avg": "5.8万人次",
+      "holiday_avg": "4.1万人次"
+    },
+    {
+      "name": "东方新天地广场",
+      "open_date": "2000-01-01",
+      "area": "-",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "深圳福田COCO Park二期",
+      "open_date": "2020-05-30",
+      "area": "4.3万㎡",
+      "jun_daily_avg": "1.9万人次",
+      "weekday_avg": "1.9万人次",
+      "holiday_avg": "2.1万人次"
+    },
+    {
+      "name": "深圳福田COCO park",
+      "open_date": "2006-09-30",
+      "area": "8万㎡",
+      "jun_daily_avg": "8.2万人次",
+      "weekday_avg": "7.5万人次",
+      "holiday_avg": "10万人次"
+    },
+    {
+      "name": "深圳购物公园",
+      "open_date": "2006-09-30",
+      "area": "-",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 75.0,
+      "within_1yr_pct": 9.3,
+      "1_3yr_pct": 32.0,
+      "over_3yr_pct": 58.7
+    },
+    {
+      "type": "购物",
+      "count": 46.0,
+      "within_1yr_pct": 26.1,
+      "1_3yr_pct": 39.1,
+      "over_3yr_pct": 34.8
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 13.0,
+      "within_1yr_pct": 30.8,
+      "1_3yr_pct": 53.8,
+      "over_3yr_pct": 15.4
+    },
+    {
+      "type": "教育培训",
+      "count": 8.0,
+      "within_1yr_pct": 12.5,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 37.5
+    },
+    {
+      "type": "生活服务",
+      "count": 107.0,
+      "within_1yr_pct": 26.2,
+      "1_3yr_pct": 43.0,
+      "over_3yr_pct": 30.8
+    },
+    {
+      "type": "运动健身",
+      "count": 17.0,
+      "within_1yr_pct": 11.8,
+      "1_3yr_pct": 35.3,
+      "over_3yr_pct": 52.9
+    },
+    {
+      "type": "车辆服务",
+      "count": 3.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 66.7
+    }
+  ]
+}

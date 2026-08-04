@@ -1,0 +1,147 @@
+{
+  "name": "悦园商厦",
+  "city": "上海市",
+  "address": "上海市奉贤区泽丰路269号",
+  "lat": 30.929377,
+  "lng": 121.486346,
+  "overview": {
+    "score": 72.9,
+    "score_rank": "市内前70%",
+    "population_score": 73.3,
+    "area_score": 65.0,
+    "consumption_score": 69.0,
+    "industry_score": 73.0,
+    "annual_sales": "恒龙金尊广场位于上海市奉贤区泽丰路与泽园路交叉路口往西南约50米，靠近望园南路、泽丰路、德丰路和展园路。项目包含商住楼，总户数169户，容积率2.5，绿化率30%，周边交通便利，配套有待完善",
+    "annual_sales_unit": "-",
+    "area_size_sqm": null,
+    "open_date": "2017-01-01",
+    "operator": "",
+    "brand": "",
+    "type": "综合型",
+    "floors": "L1-L3"
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "-",
+    "annual_daily_rank": "",
+    "jun_total": 3.0,
+    "jun_total_rank": "市内商场第577名",
+    "jun_daily_avg": 1015.0,
+    "jun_daily_unit": "人次",
+    "jun_daily_rank": "市内商场第577名",
+    "weekday_avg": 996.0,
+    "weekday_unit": "人次",
+    "weekday_rank": "市内商场第575名",
+    "holiday_avg": 1069.0,
+    "holiday_unit": "人次",
+    "holiday_rank": "市内商场第579名"
+  },
+  "population": {
+    "residential": {
+      "500m": 1.1,
+      "1_5km": 7.8,
+      "3km": 27.5
+    },
+    "office": {
+      "500m": 4900.0,
+      "1_5km": 3.7,
+      "3km": 12.7
+    },
+    "permanent": {
+      "500m": 1.1,
+      "1_5km": 7.8,
+      "3km": 27.6
+    }
+  },
+  "business": {
+    "competitors": 1.0,
+    "food": 30.0,
+    "shopping": 30.0,
+    "leisure": 4.0,
+    "education": 15.0,
+    "hotel": 7.0,
+    "services": 55.0,
+    "fitness": 5.0,
+    "auto": 18.0,
+    "total_stores": 31.0,
+    "old_store_3yr_pct": 42.0
+  },
+  "nearby_poi": {
+    "business": 7.0,
+    "community": 165.0,
+    "office": 11.0,
+    "school": 10.0,
+    "hospital": 33.0,
+    "transport": 10.0,
+    "scenic": 181.0
+  },
+  "demographics": {
+    "male_pct": 53.0,
+    "female_pct": null,
+    "education": {
+      "小学": 10.1,
+      "初中": 20.6,
+      "高中": 13.3,
+      "大专": 7.5,
+      "本科": 44.3,
+      "硕士": 3.0,
+      "博士": 1.2
+    },
+    "has_children_pct": 66.0,
+    "no_children_pct": 34.0
+  },
+  "scraped_at": "2026-08-01T10:34:56.764Z",
+  "nearby_restaurants": [],
+  "nearby_malls": [],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 7.0,
+      "within_1yr_pct": 14.3,
+      "1_3yr_pct": 42.9,
+      "over_3yr_pct": 42.9
+    },
+    {
+      "type": "购物",
+      "count": 4.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 75.0
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    },
+    {
+      "type": "教育培训",
+      "count": 2.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "生活服务",
+      "count": 12.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 33.3
+    },
+    {
+      "type": "运动健身",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 4.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 25.0
+    }
+  ]
+}

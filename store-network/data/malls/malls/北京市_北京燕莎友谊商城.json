@@ -1,0 +1,446 @@
+{
+  "name": "北京燕莎友谊商城",
+  "city": "北京市",
+  "address": "北京市朝阳区亮马桥路52号",
+  "lat": 39.948892,
+  "lng": 116.46314,
+  "overview": {
+    "score": 75.9,
+    "score_rank": "市内前50%",
+    "population_score": 70.2,
+    "area_score": 85.2,
+    "consumption_score": 85.1,
+    "industry_score": 75.8,
+    "annual_sales": "93",
+    "annual_sales_unit": "亿元",
+    "area_size_sqm": 2.2,
+    "open_date": "1992-06-30",
+    "operator": "王府井集团股份有限公司",
+    "brand": "",
+    "type": "购物型",
+    "floors": "B1-L5"
+  },
+  "traffic": {
+    "annual_daily": 1.37,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第170",
+    "jun_total": 60.2,
+    "jun_total_rank": "市内商场第162名",
+    "jun_daily_avg": 2.0,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第162名",
+    "weekday_avg": 2.0,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第159名",
+    "holiday_avg": 2.1,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第165名"
+  },
+  "population": {
+    "residential": {
+      "500m": 6800.0,
+      "1_5km": 10.6,
+      "3km": 54.7
+    },
+    "office": {
+      "500m": 2.5,
+      "1_5km": 12.6,
+      "3km": 44.2
+    },
+    "permanent": {
+      "500m": 1.2,
+      "1_5km": 11.6,
+      "3km": 57.6
+    }
+  },
+  "business": {
+    "competitors": 7.0,
+    "food": 230.0,
+    "shopping": 176.0,
+    "leisure": 12.0,
+    "education": 10.0,
+    "hotel": 28.0,
+    "services": 73.0,
+    "fitness": 22.0,
+    "auto": 18.0,
+    "total_stores": 126.0,
+    "old_store_3yr_pct": 46.0
+  },
+  "nearby_poi": {
+    "business": 5.0,
+    "community": 387.0,
+    "office": 83.0,
+    "school": 30.0,
+    "hospital": 137.0,
+    "transport": 9.0,
+    "scenic": 220.0
+  },
+  "demographics": {
+    "male_pct": 54.2,
+    "female_pct": null,
+    "education": {
+      "小学": 8.8,
+      "初中": 15.2,
+      "高中": 10.6,
+      "大专": 6.7,
+      "本科": 49.3,
+      "硕士": 7.9,
+      "博士": 1.5
+    },
+    "has_children_pct": 60.8,
+    "no_children_pct": 39.2
+  },
+  "scraped_at": "2026-07-31T18:57:29.012Z",
+  "nearby_restaurants": [
+    {
+      "brand": "paulanerbrauhaus",
+      "address": "亮马桥路与东三环北路辅路交叉口东80米",
+      "distance": "12m"
+    },
+    {
+      "brand": "Tineco添可专柜(亮马桥燕莎友谊商城店)",
+      "address": "麦子店街道亮马桥路52号燕莎友谊商城五层中区",
+      "distance": "15m"
+    },
+    {
+      "brand": "阿尔法蛋(燕莎友谊商城店)",
+      "address": "亮马桥路52号燕莎友谊商城5层L5-175",
+      "distance": "19m"
+    },
+    {
+      "brand": "普拉那啤酒坊(北京凯宾斯基饭店)",
+      "address": "朝阳路亮马河路50号北京凯宾斯基饭店(西花园)",
+      "distance": "36m"
+    },
+    {
+      "brand": "萨拉伯尔(燕莎友谊商城店)",
+      "address": "亮马桥路50号燕莎友谊商城B1楼",
+      "distance": "53m"
+    },
+    {
+      "brand": "潮有范儿&Double u coffee(燕莎友谊商城店)",
+      "address": "亮马桥路52号燕莎友谊商城(亮马桥地铁站C东南口步行70米)",
+      "distance": "58m"
+    },
+    {
+      "brand": "Tims 天好咖啡(燕莎友谊商城店)",
+      "address": "亮马桥路50号5号楼01层002号",
+      "distance": "61m"
+    },
+    {
+      "brand": "瑞幸咖啡(燕莎友谊商城店)",
+      "address": "亮马桥路52号燕莎友谊商城(亮马桥店)F1层F1041",
+      "distance": "68m"
+    },
+    {
+      "brand": "喜茶(北京燕莎友谊商城店)",
+      "address": "亮马桥路52号燕莎友谊商城F1层",
+      "distance": "75m"
+    },
+    {
+      "brand": "QCJamaicablue燕莎店",
+      "address": "亮马桥路52号燕莎友谊商城F5层",
+      "distance": "82m"
+    },
+    {
+      "brand": "paulanerbrauhaus",
+      "address": "亮马桥路与东三环北路辅路交叉口东80米",
+      "distance": "12m"
+    },
+    {
+      "brand": "Tineco添可专柜(亮马桥燕莎友谊商城店)",
+      "address": "麦子店街道亮马桥路52号燕莎友谊商城五层中区",
+      "distance": "15m"
+    },
+    {
+      "brand": "阿尔法蛋(燕莎友谊商城店)",
+      "address": "亮马桥路52号燕莎友谊商城5层L5-175",
+      "distance": "19m"
+    },
+    {
+      "brand": "普拉那啤酒坊(北京凯宾斯基饭店)",
+      "address": "朝阳路亮马河路50号北京凯宾斯基饭店(西花园)",
+      "distance": "36m"
+    },
+    {
+      "brand": "萨拉伯尔(燕莎友谊商城店)",
+      "address": "亮马桥路50号燕莎友谊商城B1楼",
+      "distance": "53m"
+    },
+    {
+      "brand": "潮有范儿&Double u coffee(燕莎友谊商城店)",
+      "address": "亮马桥路52号燕莎友谊商城(亮马桥地铁站C东南口步行70米)",
+      "distance": "58m"
+    },
+    {
+      "brand": "Tims 天好咖啡(燕莎友谊商城店)",
+      "address": "亮马桥路50号5号楼01层002号",
+      "distance": "61m"
+    },
+    {
+      "brand": "瑞幸咖啡(燕莎友谊商城店)",
+      "address": "亮马桥路52号燕莎友谊商城(亮马桥店)F1层F1041",
+      "distance": "68m"
+    },
+    {
+      "brand": "喜茶(北京燕莎友谊商城店)",
+      "address": "亮马桥路52号燕莎友谊商城F1层",
+      "distance": "75m"
+    },
+    {
+      "brand": "QCJamaicablue燕莎店",
+      "address": "亮马桥路52号燕莎友谊商城F5层",
+      "distance": "82m"
+    },
+    {
+      "brand": "paulanerbrauhaus",
+      "address": "亮马桥路与东三环北路辅路交叉口东80米",
+      "distance": "12m"
+    },
+    {
+      "brand": "Tineco添可专柜(亮马桥燕莎友谊商城店)",
+      "address": "麦子店街道亮马桥路52号燕莎友谊商城五层中区",
+      "distance": "15m"
+    },
+    {
+      "brand": "阿尔法蛋(燕莎友谊商城店)",
+      "address": "亮马桥路52号燕莎友谊商城5层L5-175",
+      "distance": "19m"
+    },
+    {
+      "brand": "普拉那啤酒坊(北京凯宾斯基饭店)",
+      "address": "朝阳路亮马河路50号北京凯宾斯基饭店(西花园)",
+      "distance": "36m"
+    },
+    {
+      "brand": "萨拉伯尔(燕莎友谊商城店)",
+      "address": "亮马桥路50号燕莎友谊商城B1楼",
+      "distance": "53m"
+    },
+    {
+      "brand": "潮有范儿&Double u coffee(燕莎友谊商城店)",
+      "address": "亮马桥路52号燕莎友谊商城(亮马桥地铁站C东南口步行70米)",
+      "distance": "58m"
+    },
+    {
+      "brand": "Tims 天好咖啡(燕莎友谊商城店)",
+      "address": "亮马桥路50号5号楼01层002号",
+      "distance": "61m"
+    },
+    {
+      "brand": "瑞幸咖啡(燕莎友谊商城店)",
+      "address": "亮马桥路52号燕莎友谊商城(亮马桥店)F1层F1041",
+      "distance": "68m"
+    },
+    {
+      "brand": "喜茶(北京燕莎友谊商城店)",
+      "address": "亮马桥路52号燕莎友谊商城F1层",
+      "distance": "75m"
+    },
+    {
+      "brand": "QCJamaicablue燕莎店",
+      "address": "亮马桥路52号燕莎友谊商城F5层",
+      "distance": "82m"
+    },
+    {
+      "brand": "paulanerbrauhaus",
+      "address": "亮马桥路与东三环北路辅路交叉口东80米",
+      "distance": "12m"
+    },
+    {
+      "brand": "Tineco添可专柜(亮马桥燕莎友谊商城店)",
+      "address": "麦子店街道亮马桥路52号燕莎友谊商城五层中区",
+      "distance": "15m"
+    },
+    {
+      "brand": "阿尔法蛋(燕莎友谊商城店)",
+      "address": "亮马桥路52号燕莎友谊商城5层L5-175",
+      "distance": "19m"
+    },
+    {
+      "brand": "普拉那啤酒坊(北京凯宾斯基饭店)",
+      "address": "朝阳路亮马河路50号北京凯宾斯基饭店(西花园)",
+      "distance": "36m"
+    },
+    {
+      "brand": "萨拉伯尔(燕莎友谊商城店)",
+      "address": "亮马桥路50号燕莎友谊商城B1楼",
+      "distance": "53m"
+    },
+    {
+      "brand": "潮有范儿&Double u coffee(燕莎友谊商城店)",
+      "address": "亮马桥路52号燕莎友谊商城(亮马桥地铁站C东南口步行70米)",
+      "distance": "58m"
+    },
+    {
+      "brand": "Tims 天好咖啡(燕莎友谊商城店)",
+      "address": "亮马桥路50号5号楼01层002号",
+      "distance": "61m"
+    },
+    {
+      "brand": "瑞幸咖啡(燕莎友谊商城店)",
+      "address": "亮马桥路52号燕莎友谊商城(亮马桥店)F1层F1041",
+      "distance": "68m"
+    },
+    {
+      "brand": "喜茶(北京燕莎友谊商城店)",
+      "address": "亮马桥路52号燕莎友谊商城F1层",
+      "distance": "75m"
+    },
+    {
+      "brand": "QCJamaicablue燕莎店",
+      "address": "亮马桥路52号燕莎友谊商城F5层",
+      "distance": "82m"
+    },
+    {
+      "brand": "paulanerbrauhaus",
+      "address": "亮马桥路与东三环北路辅路交叉口东80米",
+      "distance": "12m"
+    },
+    {
+      "brand": "Tineco添可专柜(亮马桥燕莎友谊商城店)",
+      "address": "麦子店街道亮马桥路52号燕莎友谊商城五层中区",
+      "distance": "15m"
+    },
+    {
+      "brand": "阿尔法蛋(燕莎友谊商城店)",
+      "address": "亮马桥路52号燕莎友谊商城5层L5-175",
+      "distance": "19m"
+    },
+    {
+      "brand": "普拉那啤酒坊(北京凯宾斯基饭店)",
+      "address": "朝阳路亮马河路50号北京凯宾斯基饭店(西花园)",
+      "distance": "36m"
+    },
+    {
+      "brand": "萨拉伯尔(燕莎友谊商城店)",
+      "address": "亮马桥路50号燕莎友谊商城B1楼",
+      "distance": "53m"
+    },
+    {
+      "brand": "潮有范儿&Double u coffee(燕莎友谊商城店)",
+      "address": "亮马桥路52号燕莎友谊商城(亮马桥地铁站C东南口步行70米)",
+      "distance": "58m"
+    },
+    {
+      "brand": "Tims 天好咖啡(燕莎友谊商城店)",
+      "address": "亮马桥路50号5号楼01层002号",
+      "distance": "61m"
+    },
+    {
+      "brand": "瑞幸咖啡(燕莎友谊商城店)",
+      "address": "亮马桥路52号燕莎友谊商城(亮马桥店)F1层F1041",
+      "distance": "68m"
+    },
+    {
+      "brand": "喜茶(北京燕莎友谊商城店)",
+      "address": "亮马桥路52号燕莎友谊商城F1层",
+      "distance": "75m"
+    },
+    {
+      "brand": "QCJamaicablue燕莎店",
+      "address": "亮马桥路52号燕莎友谊商城F5层",
+      "distance": "82m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "北京都汇天地",
+      "open_date": "2010-09-27",
+      "area": "2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "北京官舍",
+      "open_date": "2012-02-18",
+      "area": "1.1万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "北京佳亿广场",
+      "open_date": "2001-09-18",
+      "area": "3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "北京SOLANA蓝色港湾",
+      "open_date": "2024-12-08",
+      "area": "13.6万㎡",
+      "jun_daily_avg": "6.3万人次",
+      "weekday_avg": "5.3万人次",
+      "holiday_avg": "9.2万人次"
+    },
+    {
+      "name": "北京三里屯3.3大厦",
+      "open_date": "2005-10-01",
+      "area": "4万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 11.0,
+      "within_1yr_pct": 27.3,
+      "1_3yr_pct": 36.4,
+      "over_3yr_pct": 36.4
+    },
+    {
+      "type": "购物",
+      "count": 107.0,
+      "within_1yr_pct": 15.9,
+      "1_3yr_pct": 36.4,
+      "over_3yr_pct": 47.7
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 2.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "教育培训",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "生活服务",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    },
+    {
+      "type": "运动健身",
+      "count": 2.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    }
+  ]
+}

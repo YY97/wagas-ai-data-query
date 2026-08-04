@@ -1,0 +1,154 @@
+{
+  "name": "复城国际广场",
+  "city": "成都市",
+  "address": "四川省成都市武侯区益州大道中段772号",
+  "lat": 30.550317,
+  "lng": 104.055397,
+  "overview": {
+    "score": 90.5,
+    "score_rank": "市内前30%",
+    "population_score": 82.4,
+    "area_score": 71.1,
+    "consumption_score": 89.0,
+    "industry_score": 90.6,
+    "annual_sales": "成都复城国际广场是复地集团在成都打造的第一个商业综合体，以Street Mall为核心，汇集约写字楼、涉外公寓、精品酒店等多种业态为一体。打造一个充满亲切自然、温馨舒适的大众性时尚体验中心",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 10.0,
+    "open_date": "2014-09-01",
+    "operator": "上海复地产业发展集团有限公司",
+    "brand": "",
+    "type": "综合型",
+    "floors": "L1-L5"
+  },
+  "traffic": {
+    "annual_daily": 1.42,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第121",
+    "jun_total": 39.8,
+    "jun_total_rank": "市内商场第148名",
+    "jun_daily_avg": 1.3,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第148名",
+    "weekday_avg": 1.4,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第133名",
+    "holiday_avg": 1.0,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第173名"
+  },
+  "population": {
+    "residential": {
+      "500m": 1.6,
+      "1_5km": 17.8,
+      "3km": 42.5
+    },
+    "office": {
+      "500m": 3.7,
+      "1_5km": 19.7,
+      "3km": 31.9
+    },
+    "permanent": {
+      "500m": 2.0,
+      "1_5km": 18.7,
+      "3km": 39.8
+    }
+  },
+  "business": {
+    "competitors": 1.0,
+    "food": 135.0,
+    "shopping": 81.0,
+    "leisure": 16.0,
+    "education": 18.0,
+    "hotel": 57.0,
+    "services": 110.0,
+    "fitness": 28.0,
+    "auto": 20.0,
+    "total_stores": 157.0,
+    "old_store_3yr_pct": 40.0
+  },
+  "nearby_poi": {
+    "business": 11.0,
+    "community": 193.0,
+    "office": 102.0,
+    "school": 20.0,
+    "hospital": 61.0,
+    "transport": 8.0,
+    "scenic": 188.0
+  },
+  "demographics": {
+    "male_pct": 45.9,
+    "female_pct": null,
+    "education": {
+      "小学": 6.8,
+      "初中": 13.3,
+      "高中": 10.6,
+      "大专": 11.5,
+      "本科": 50.5,
+      "硕士": 6.5,
+      "博士": 0.8
+    },
+    "has_children_pct": 58.2,
+    "no_children_pct": 41.8
+  },
+  "scraped_at": "2026-08-02T07:15:58.159Z",
+  "nearby_restaurants": [],
+  "nearby_malls": [],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 51.0,
+      "within_1yr_pct": 19.6,
+      "1_3yr_pct": 41.2,
+      "over_3yr_pct": 39.2
+    },
+    {
+      "type": "购物",
+      "count": 24.0,
+      "within_1yr_pct": 20.8,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 45.8
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 8.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 37.5,
+      "over_3yr_pct": 12.5
+    },
+    {
+      "type": "教育培训",
+      "count": 8.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 37.5,
+      "over_3yr_pct": 37.5
+    },
+    {
+      "type": "酒店住宿",
+      "count": 10.0,
+      "within_1yr_pct": 30.0,
+      "1_3yr_pct": 20.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "生活服务",
+      "count": 36.0,
+      "within_1yr_pct": 13.9,
+      "1_3yr_pct": 36.1,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "运动健身",
+      "count": 13.0,
+      "within_1yr_pct": 23.1,
+      "1_3yr_pct": 53.8,
+      "over_3yr_pct": 23.1
+    },
+    {
+      "type": "车辆服务",
+      "count": 7.0,
+      "within_1yr_pct": 28.6,
+      "1_3yr_pct": 42.9,
+      "over_3yr_pct": 28.6
+    }
+  ]
+}

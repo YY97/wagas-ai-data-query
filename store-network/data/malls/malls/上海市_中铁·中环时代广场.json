@@ -1,0 +1,414 @@
+{
+  "name": "中铁·中环时代广场",
+  "city": "上海市",
+  "address": "上海市静安区大宁路街道中铁·中环时代广场",
+  "lat": 31.296589,
+  "lng": 121.442232,
+  "overview": {
+    "score": 80.5,
+    "score_rank": "市内前30%",
+    "population_score": 76.8,
+    "area_score": 72.1,
+    "consumption_score": 85.3,
+    "industry_score": 80.6,
+    "annual_sales": "",
+    "annual_sales_unit": "",
+    "area_size_sqm": null,
+    "open_date": "",
+    "operator": "",
+    "brand": "",
+    "type": "",
+    "floors": ""
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "",
+    "annual_daily_rank": "",
+    "jun_total": null,
+    "jun_total_rank": "",
+    "jun_daily_avg": null,
+    "jun_daily_unit": "",
+    "jun_daily_rank": "",
+    "weekday_avg": null,
+    "weekday_unit": "",
+    "weekday_rank": "",
+    "holiday_avg": null,
+    "holiday_unit": "",
+    "holiday_rank": ""
+  },
+  "population": {
+    "residential": {
+      "500m": 1.3,
+      "1_5km": 17.1,
+      "3km": 80.9
+    },
+    "office": {
+      "500m": 2.8,
+      "1_5km": 14.1,
+      "3km": 46.1
+    },
+    "permanent": {
+      "500m": 1.3,
+      "1_5km": 18.3,
+      "3km": 86.2
+    }
+  },
+  "business": {
+    "competitors": 3.0,
+    "food": 75.0,
+    "shopping": 36.0,
+    "leisure": 7.0,
+    "education": 5.0,
+    "hotel": 8.0,
+    "services": 40.0,
+    "fitness": 9.0,
+    "auto": 24.0,
+    "total_stores": 206.0,
+    "old_store_3yr_pct": 43.0
+  },
+  "nearby_poi": {
+    "business": 1.0,
+    "community": 443.0,
+    "office": 100.0,
+    "school": 26.0,
+    "hospital": 80.0,
+    "transport": 8.0,
+    "scenic": 94.0
+  },
+  "demographics": {
+    "male_pct": 49.0,
+    "female_pct": null,
+    "education": {
+      "小学": 9.1,
+      "初中": 18.1,
+      "高中": 11.7,
+      "大专": 7.5,
+      "本科": 48.1,
+      "硕士": 3.8,
+      "博士": 1.7
+    },
+    "has_children_pct": null,
+    "no_children_pct": null
+  },
+  "scraped_at": "2026-07-31T12:57:32.229Z",
+  "nearby_restaurants": [
+    {
+      "brand": "蟹无恙鲜烧砂锅煲(静安店)",
+      "address": "江场西路与万荣路交叉口东南160米",
+      "distance": "7m"
+    },
+    {
+      "brand": "冒二麻一麻辣香锅·冒菜中环时代广场店",
+      "address": "江场西路与万荣路交叉口东南160米",
+      "distance": "12m"
+    },
+    {
+      "brand": "遇上青春酸菜小鱼儿(中铁·中环时代广场店)",
+      "address": "江场西路299弄50号中铁·中环时代广场F1层",
+      "distance": "19m"
+    },
+    {
+      "brand": "霸碗盖码饭(上海中铁中环时代广场店)",
+      "address": "静安区江场西路299弄33号、36号一层",
+      "distance": "28m"
+    },
+    {
+      "brand": "鲜小厨",
+      "address": "万荣路与江场西路交叉口东南160米",
+      "distance": "33m"
+    },
+    {
+      "brand": "东池便当(江场西路店)",
+      "address": "江场西路299弄14号102室",
+      "distance": "42m"
+    },
+    {
+      "brand": "陕老顺(江场西路店)",
+      "address": "中环时代广场2号楼东侧",
+      "distance": "42m"
+    },
+    {
+      "brand": "刘小刘饮品店",
+      "address": "江场西路与万荣路交叉口东140米",
+      "distance": "45m"
+    },
+    {
+      "brand": "渝味重庆小面(江场西路店)",
+      "address": "江场西路与江场二路交叉口西南180米",
+      "distance": "51m"
+    },
+    {
+      "brand": "瑞幸咖啡(晋润海棠大厦店)",
+      "address": "江场西路307号晋润海棠大厦一层",
+      "distance": "56m"
+    },
+    {
+      "brand": "蟹无恙鲜烧砂锅煲(静安店)",
+      "address": "江场西路与万荣路交叉口东南160米",
+      "distance": "7m"
+    },
+    {
+      "brand": "冒二麻一麻辣香锅·冒菜中环时代广场店",
+      "address": "江场西路与万荣路交叉口东南160米",
+      "distance": "12m"
+    },
+    {
+      "brand": "遇上青春酸菜小鱼儿(中铁·中环时代广场店)",
+      "address": "江场西路299弄50号中铁·中环时代广场F1层",
+      "distance": "19m"
+    },
+    {
+      "brand": "霸碗盖码饭(上海中铁中环时代广场店)",
+      "address": "静安区江场西路299弄33号、36号一层",
+      "distance": "28m"
+    },
+    {
+      "brand": "鲜小厨",
+      "address": "万荣路与江场西路交叉口东南160米",
+      "distance": "33m"
+    },
+    {
+      "brand": "东池便当(江场西路店)",
+      "address": "江场西路299弄14号102室",
+      "distance": "42m"
+    },
+    {
+      "brand": "陕老顺(江场西路店)",
+      "address": "中环时代广场2号楼东侧",
+      "distance": "42m"
+    },
+    {
+      "brand": "刘小刘饮品店",
+      "address": "江场西路与万荣路交叉口东140米",
+      "distance": "45m"
+    },
+    {
+      "brand": "渝味重庆小面(江场西路店)",
+      "address": "江场西路与江场二路交叉口西南180米",
+      "distance": "51m"
+    },
+    {
+      "brand": "瑞幸咖啡(晋润海棠大厦店)",
+      "address": "江场西路307号晋润海棠大厦一层",
+      "distance": "56m"
+    },
+    {
+      "brand": "蟹无恙鲜烧砂锅煲(静安店)",
+      "address": "江场西路与万荣路交叉口东南160米",
+      "distance": "7m"
+    },
+    {
+      "brand": "冒二麻一麻辣香锅·冒菜中环时代广场店",
+      "address": "江场西路与万荣路交叉口东南160米",
+      "distance": "12m"
+    },
+    {
+      "brand": "遇上青春酸菜小鱼儿(中铁·中环时代广场店)",
+      "address": "江场西路299弄50号中铁·中环时代广场F1层",
+      "distance": "19m"
+    },
+    {
+      "brand": "霸碗盖码饭(上海中铁中环时代广场店)",
+      "address": "静安区江场西路299弄33号、36号一层",
+      "distance": "28m"
+    },
+    {
+      "brand": "鲜小厨",
+      "address": "万荣路与江场西路交叉口东南160米",
+      "distance": "33m"
+    },
+    {
+      "brand": "东池便当(江场西路店)",
+      "address": "江场西路299弄14号102室",
+      "distance": "42m"
+    },
+    {
+      "brand": "陕老顺(江场西路店)",
+      "address": "中环时代广场2号楼东侧",
+      "distance": "42m"
+    },
+    {
+      "brand": "刘小刘饮品店",
+      "address": "江场西路与万荣路交叉口东140米",
+      "distance": "45m"
+    },
+    {
+      "brand": "渝味重庆小面(江场西路店)",
+      "address": "江场西路与江场二路交叉口西南180米",
+      "distance": "51m"
+    },
+    {
+      "brand": "瑞幸咖啡(晋润海棠大厦店)",
+      "address": "江场西路307号晋润海棠大厦一层",
+      "distance": "56m"
+    },
+    {
+      "brand": "蟹无恙鲜烧砂锅煲(静安店)",
+      "address": "江场西路与万荣路交叉口东南160米",
+      "distance": "7m"
+    },
+    {
+      "brand": "冒二麻一麻辣香锅·冒菜中环时代广场店",
+      "address": "江场西路与万荣路交叉口东南160米",
+      "distance": "12m"
+    },
+    {
+      "brand": "遇上青春酸菜小鱼儿(中铁·中环时代广场店)",
+      "address": "江场西路299弄50号中铁·中环时代广场F1层",
+      "distance": "19m"
+    },
+    {
+      "brand": "霸碗盖码饭(上海中铁中环时代广场店)",
+      "address": "静安区江场西路299弄33号、36号一层",
+      "distance": "28m"
+    },
+    {
+      "brand": "鲜小厨",
+      "address": "万荣路与江场西路交叉口东南160米",
+      "distance": "33m"
+    },
+    {
+      "brand": "东池便当(江场西路店)",
+      "address": "江场西路299弄14号102室",
+      "distance": "42m"
+    },
+    {
+      "brand": "陕老顺(江场西路店)",
+      "address": "中环时代广场2号楼东侧",
+      "distance": "42m"
+    },
+    {
+      "brand": "刘小刘饮品店",
+      "address": "江场西路与万荣路交叉口东140米",
+      "distance": "45m"
+    },
+    {
+      "brand": "渝味重庆小面(江场西路店)",
+      "address": "江场西路与江场二路交叉口西南180米",
+      "distance": "51m"
+    },
+    {
+      "brand": "瑞幸咖啡(晋润海棠大厦店)",
+      "address": "江场西路307号晋润海棠大厦一层",
+      "distance": "56m"
+    },
+    {
+      "brand": "蟹无恙鲜烧砂锅煲(静安店)",
+      "address": "江场西路与万荣路交叉口东南160米",
+      "distance": "7m"
+    },
+    {
+      "brand": "冒二麻一麻辣香锅·冒菜中环时代广场店",
+      "address": "江场西路与万荣路交叉口东南160米",
+      "distance": "12m"
+    },
+    {
+      "brand": "遇上青春酸菜小鱼儿(中铁·中环时代广场店)",
+      "address": "江场西路299弄50号中铁·中环时代广场F1层",
+      "distance": "19m"
+    },
+    {
+      "brand": "霸碗盖码饭(上海中铁中环时代广场店)",
+      "address": "静安区江场西路299弄33号、36号一层",
+      "distance": "28m"
+    },
+    {
+      "brand": "鲜小厨",
+      "address": "万荣路与江场西路交叉口东南160米",
+      "distance": "33m"
+    },
+    {
+      "brand": "东池便当(江场西路店)",
+      "address": "江场西路299弄14号102室",
+      "distance": "42m"
+    },
+    {
+      "brand": "陕老顺(江场西路店)",
+      "address": "中环时代广场2号楼东侧",
+      "distance": "42m"
+    },
+    {
+      "brand": "刘小刘饮品店",
+      "address": "江场西路与万荣路交叉口东140米",
+      "distance": "45m"
+    },
+    {
+      "brand": "渝味重庆小面(江场西路店)",
+      "address": "江场西路与江场二路交叉口西南180米",
+      "distance": "51m"
+    },
+    {
+      "brand": "瑞幸咖啡(晋润海棠大厦店)",
+      "address": "江场西路307号晋润海棠大厦一层",
+      "distance": "56m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海协信星光广场",
+      "open_date": "2015-12-24",
+      "area": "5.7万㎡",
+      "jun_daily_avg": "2.7万人次",
+      "weekday_avg": "2.9万人次",
+      "holiday_avg": "2.3万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 75.0,
+      "within_1yr_pct": 37.3,
+      "1_3yr_pct": 20.0,
+      "over_3yr_pct": 42.7
+    },
+    {
+      "type": "购物",
+      "count": 36.0,
+      "within_1yr_pct": 13.9,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 52.8
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 9.0,
+      "within_1yr_pct": 22.2,
+      "1_3yr_pct": 44.4,
+      "over_3yr_pct": 33.3
+    },
+    {
+      "type": "教育培训",
+      "count": 5.0,
+      "within_1yr_pct": 40.0,
+      "1_3yr_pct": 60.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 8.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "生活服务",
+      "count": 40.0,
+      "within_1yr_pct": 32.5,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 42.5
+    },
+    {
+      "type": "运动健身",
+      "count": 9.0,
+      "within_1yr_pct": 11.1,
+      "1_3yr_pct": 66.7,
+      "over_3yr_pct": 22.2
+    },
+    {
+      "type": "车辆服务",
+      "count": 24.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 16.7,
+      "over_3yr_pct": 50.0
+    }
+  ]
+}

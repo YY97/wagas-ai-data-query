@@ -1,0 +1,414 @@
+{
+  "name": "世纪联华(吴淞店)",
+  "city": "上海市",
+  "address": "上海市松江区莘砖公路",
+  "lat": 31.093133,
+  "lng": 121.300381,
+  "overview": {
+    "score": 90.6,
+    "score_rank": "市内前30%",
+    "population_score": 64.3,
+    "area_score": 66.9,
+    "consumption_score": 71.6,
+    "industry_score": 90.8,
+    "annual_sales": "上海云廊天街位于松江区G60科创云廊，是一座集商务办公、五星级酒店、美食餐饮、休闲娱乐及生活配套为一体的城市产业综合体，总长度超过1.5公里，23栋高层商务办公建筑群组成商业总面积达到11.2万平方米，旨在打造融合G60制造基因的新型商业，以栖息之所、都市乐活、商务社交、文娱配套的复合型功能定位，激活G60策源枢纽的商业活力，为辐射区内近百万品质新中产及商务科创客群构筑都市社交新方式云廊天街以其独特的“观天赏云”的空间形态，结合上部巨大的天幕，构成了丰富的空中景象，提供独特的消费体验",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 11.2,
+    "open_date": "2023-09-28",
+    "operator": "龙湖集团控股有限公司",
+    "brand": "",
+    "type": "美食型",
+    "floors": "L1-L3"
+  },
+  "traffic": {
+    "annual_daily": 1.03,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第248",
+    "jun_total": 39.6,
+    "jun_total_rank": "市内商场第251名",
+    "jun_daily_avg": 1.3,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第251名",
+    "weekday_avg": 1.4,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第236名",
+    "holiday_avg": 1.2,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第291名"
+  },
+  "population": {
+    "residential": {
+      "500m": 3500.0,
+      "1_5km": 4.9,
+      "3km": 27.5
+    },
+    "office": {
+      "500m": 9400.0,
+      "1_5km": 5.1,
+      "3km": 12.0
+    },
+    "permanent": {
+      "500m": 5800.0,
+      "1_5km": 4.7,
+      "3km": 23.8
+    }
+  },
+  "business": {
+    "competitors": 5.0,
+    "food": 76.0,
+    "shopping": 21.0,
+    "leisure": 5.0,
+    "education": 3.0,
+    "hotel": 6.0,
+    "services": 18.0,
+    "fitness": 5.0,
+    "auto": 6.0,
+    "total_stores": 98.0,
+    "old_store_3yr_pct": 46.0
+  },
+  "nearby_poi": {
+    "business": 1.0,
+    "community": 109.0,
+    "office": 29.0,
+    "school": 7.0,
+    "hospital": 10.0,
+    "transport": 1.0,
+    "scenic": 24.0
+  },
+  "demographics": {
+    "male_pct": 48.3,
+    "female_pct": null,
+    "education": {
+      "小学": 11.1,
+      "初中": 20.0,
+      "高中": 12.2,
+      "大专": 8.9,
+      "本科": 43.6,
+      "硕士": 3.2,
+      "博士": 1.0
+    },
+    "has_children_pct": 58.1,
+    "no_children_pct": 41.9
+  },
+  "scraped_at": "2026-08-01T07:51:20.248Z",
+  "nearby_restaurants": [
+    {
+      "brand": "七叶松熟成和牛烧肉料理(龙湖上海云廊天街店)",
+      "address": "千帆路G60科创云廊7号楼1层1号",
+      "distance": "32m"
+    },
+    {
+      "brand": "桥水汀(龙湖上海云廊天街店)",
+      "address": "千帆路239弄8号楼2楼",
+      "distance": "53m"
+    },
+    {
+      "brand": "黔涟山·云贵川bistro(G60科创云廊店)",
+      "address": "新桥镇千帆路288弄G60科创云廊8号楼2楼(影院斜对面天桥旁边)",
+      "distance": "70m"
+    },
+    {
+      "brand": "双门洞1988韩式烤肉(龙湖上海云廊天街店)",
+      "address": "新桥镇千帆路288弄G60科创云廊8号楼一层L113号",
+      "distance": "82m"
+    },
+    {
+      "brand": "麦当劳(龙湖上海云廊天街店)",
+      "address": "千帆路288弄6幢",
+      "distance": "85m"
+    },
+    {
+      "brand": "云吉纳·云南主题餐厅(科创云廊店)",
+      "address": "千帆路288号龙湖上海云廊天街F2层",
+      "distance": "88m"
+    },
+    {
+      "brand": "暹迦·东南亚融合菜",
+      "address": "千帆路288号龙湖上海云廊天街F2层",
+      "distance": "95m"
+    },
+    {
+      "brand": "兴乐富面馆(G60科创云廊店)",
+      "address": "新桥镇龙湖天街科创云廊2层L203号近8号楼云廊一期二期交界处",
+      "distance": "97m"
+    },
+    {
+      "brand": "Manner Coffee(龙湖上海云廊天街店)",
+      "address": "千帆路288号龙湖上海云廊天街F1层",
+      "distance": "98m"
+    },
+    {
+      "brand": "宴归坊·本帮江浙菜·海鲜",
+      "address": "千帆路288弄G60科创云廊9号楼2层201室(地址)",
+      "distance": "105m"
+    },
+    {
+      "brand": "七叶松熟成和牛烧肉料理(龙湖上海云廊天街店)",
+      "address": "千帆路G60科创云廊7号楼1层1号",
+      "distance": "32m"
+    },
+    {
+      "brand": "桥水汀(龙湖上海云廊天街店)",
+      "address": "千帆路239弄8号楼2楼",
+      "distance": "53m"
+    },
+    {
+      "brand": "黔涟山·云贵川bistro(G60科创云廊店)",
+      "address": "新桥镇千帆路288弄G60科创云廊8号楼2楼(影院斜对面天桥旁边)",
+      "distance": "70m"
+    },
+    {
+      "brand": "双门洞1988韩式烤肉(龙湖上海云廊天街店)",
+      "address": "新桥镇千帆路288弄G60科创云廊8号楼一层L113号",
+      "distance": "82m"
+    },
+    {
+      "brand": "麦当劳(龙湖上海云廊天街店)",
+      "address": "千帆路288弄6幢",
+      "distance": "85m"
+    },
+    {
+      "brand": "云吉纳·云南主题餐厅(科创云廊店)",
+      "address": "千帆路288号龙湖上海云廊天街F2层",
+      "distance": "88m"
+    },
+    {
+      "brand": "暹迦·东南亚融合菜",
+      "address": "千帆路288号龙湖上海云廊天街F2层",
+      "distance": "95m"
+    },
+    {
+      "brand": "兴乐富面馆(G60科创云廊店)",
+      "address": "新桥镇龙湖天街科创云廊2层L203号近8号楼云廊一期二期交界处",
+      "distance": "97m"
+    },
+    {
+      "brand": "Manner Coffee(龙湖上海云廊天街店)",
+      "address": "千帆路288号龙湖上海云廊天街F1层",
+      "distance": "98m"
+    },
+    {
+      "brand": "宴归坊·本帮江浙菜·海鲜",
+      "address": "千帆路288弄G60科创云廊9号楼2层201室(地址)",
+      "distance": "105m"
+    },
+    {
+      "brand": "七叶松熟成和牛烧肉料理(龙湖上海云廊天街店)",
+      "address": "千帆路G60科创云廊7号楼1层1号",
+      "distance": "32m"
+    },
+    {
+      "brand": "桥水汀(龙湖上海云廊天街店)",
+      "address": "千帆路239弄8号楼2楼",
+      "distance": "53m"
+    },
+    {
+      "brand": "黔涟山·云贵川bistro(G60科创云廊店)",
+      "address": "新桥镇千帆路288弄G60科创云廊8号楼2楼(影院斜对面天桥旁边)",
+      "distance": "70m"
+    },
+    {
+      "brand": "双门洞1988韩式烤肉(龙湖上海云廊天街店)",
+      "address": "新桥镇千帆路288弄G60科创云廊8号楼一层L113号",
+      "distance": "82m"
+    },
+    {
+      "brand": "麦当劳(龙湖上海云廊天街店)",
+      "address": "千帆路288弄6幢",
+      "distance": "85m"
+    },
+    {
+      "brand": "云吉纳·云南主题餐厅(科创云廊店)",
+      "address": "千帆路288号龙湖上海云廊天街F2层",
+      "distance": "88m"
+    },
+    {
+      "brand": "暹迦·东南亚融合菜",
+      "address": "千帆路288号龙湖上海云廊天街F2层",
+      "distance": "95m"
+    },
+    {
+      "brand": "兴乐富面馆(G60科创云廊店)",
+      "address": "新桥镇龙湖天街科创云廊2层L203号近8号楼云廊一期二期交界处",
+      "distance": "97m"
+    },
+    {
+      "brand": "Manner Coffee(龙湖上海云廊天街店)",
+      "address": "千帆路288号龙湖上海云廊天街F1层",
+      "distance": "98m"
+    },
+    {
+      "brand": "宴归坊·本帮江浙菜·海鲜",
+      "address": "千帆路288弄G60科创云廊9号楼2层201室(地址)",
+      "distance": "105m"
+    },
+    {
+      "brand": "七叶松熟成和牛烧肉料理(龙湖上海云廊天街店)",
+      "address": "千帆路G60科创云廊7号楼1层1号",
+      "distance": "32m"
+    },
+    {
+      "brand": "桥水汀(龙湖上海云廊天街店)",
+      "address": "千帆路239弄8号楼2楼",
+      "distance": "53m"
+    },
+    {
+      "brand": "黔涟山·云贵川bistro(G60科创云廊店)",
+      "address": "新桥镇千帆路288弄G60科创云廊8号楼2楼(影院斜对面天桥旁边)",
+      "distance": "70m"
+    },
+    {
+      "brand": "双门洞1988韩式烤肉(龙湖上海云廊天街店)",
+      "address": "新桥镇千帆路288弄G60科创云廊8号楼一层L113号",
+      "distance": "82m"
+    },
+    {
+      "brand": "麦当劳(龙湖上海云廊天街店)",
+      "address": "千帆路288弄6幢",
+      "distance": "85m"
+    },
+    {
+      "brand": "云吉纳·云南主题餐厅(科创云廊店)",
+      "address": "千帆路288号龙湖上海云廊天街F2层",
+      "distance": "88m"
+    },
+    {
+      "brand": "暹迦·东南亚融合菜",
+      "address": "千帆路288号龙湖上海云廊天街F2层",
+      "distance": "95m"
+    },
+    {
+      "brand": "兴乐富面馆(G60科创云廊店)",
+      "address": "新桥镇龙湖天街科创云廊2层L203号近8号楼云廊一期二期交界处",
+      "distance": "97m"
+    },
+    {
+      "brand": "Manner Coffee(龙湖上海云廊天街店)",
+      "address": "千帆路288号龙湖上海云廊天街F1层",
+      "distance": "98m"
+    },
+    {
+      "brand": "宴归坊·本帮江浙菜·海鲜",
+      "address": "千帆路288弄G60科创云廊9号楼2层201室(地址)",
+      "distance": "105m"
+    },
+    {
+      "brand": "七叶松熟成和牛烧肉料理(龙湖上海云廊天街店)",
+      "address": "千帆路G60科创云廊7号楼1层1号",
+      "distance": "32m"
+    },
+    {
+      "brand": "桥水汀(龙湖上海云廊天街店)",
+      "address": "千帆路239弄8号楼2楼",
+      "distance": "53m"
+    },
+    {
+      "brand": "黔涟山·云贵川bistro(G60科创云廊店)",
+      "address": "新桥镇千帆路288弄G60科创云廊8号楼2楼(影院斜对面天桥旁边)",
+      "distance": "70m"
+    },
+    {
+      "brand": "双门洞1988韩式烤肉(龙湖上海云廊天街店)",
+      "address": "新桥镇千帆路288弄G60科创云廊8号楼一层L113号",
+      "distance": "82m"
+    },
+    {
+      "brand": "麦当劳(龙湖上海云廊天街店)",
+      "address": "千帆路288弄6幢",
+      "distance": "85m"
+    },
+    {
+      "brand": "云吉纳·云南主题餐厅(科创云廊店)",
+      "address": "千帆路288号龙湖上海云廊天街F2层",
+      "distance": "88m"
+    },
+    {
+      "brand": "暹迦·东南亚融合菜",
+      "address": "千帆路288号龙湖上海云廊天街F2层",
+      "distance": "95m"
+    },
+    {
+      "brand": "兴乐富面馆(G60科创云廊店)",
+      "address": "新桥镇龙湖天街科创云廊2层L203号近8号楼云廊一期二期交界处",
+      "distance": "97m"
+    },
+    {
+      "brand": "Manner Coffee(龙湖上海云廊天街店)",
+      "address": "千帆路288号龙湖上海云廊天街F1层",
+      "distance": "98m"
+    },
+    {
+      "brand": "宴归坊·本帮江浙菜·海鲜",
+      "address": "千帆路288弄G60科创云廊9号楼2层201室(地址)",
+      "distance": "105m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海绿地金御广场",
+      "open_date": "2012-12-31",
+      "area": "4万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 45.0,
+      "within_1yr_pct": 22.2,
+      "1_3yr_pct": 28.9,
+      "over_3yr_pct": 48.9
+    },
+    {
+      "type": "购物",
+      "count": 18.0,
+      "within_1yr_pct": 11.1,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 55.6
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 5.0,
+      "within_1yr_pct": 40.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 60.0
+    },
+    {
+      "type": "教育培训",
+      "count": 2.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 3.0,
+      "within_1yr_pct": 66.7,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "生活服务",
+      "count": 15.0,
+      "within_1yr_pct": 26.7,
+      "1_3yr_pct": 40.0,
+      "over_3yr_pct": 33.3
+    },
+    {
+      "type": "运动健身",
+      "count": 4.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 25.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 6.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 66.7
+    }
+  ]
+}

@@ -1,0 +1,472 @@
+{
+  "name": "上海利通广场",
+  "city": "上海市",
+  "address": "上海市虹口区四川北路1350号(近武进路)(四川北路地铁站1号口旁)",
+  "lat": 31.255156,
+  "lng": 121.489518,
+  "overview": {
+    "score": 80.7,
+    "score_rank": "市内前30%",
+    "population_score": 88.4,
+    "area_score": 87.1,
+    "consumption_score": 79.3,
+    "industry_score": 80.7,
+    "annual_sales": "上海利通广场位于虹口区四川北路1350号，紧靠四川北路公园，周边主要交通干道有吴淞路、四平路、海宁路及四川北路。项目为大型办公商业综合体，分B、C两块开发，形成了集购物，休闲，娱乐于一体的综合消费区域",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 2.0,
+    "open_date": "2012-01-01",
+    "operator": "上海利通置业有限公司",
+    "brand": "",
+    "type": "美食型",
+    "floors": "B2-L3"
+  },
+  "traffic": {
+    "annual_daily": 2877.0,
+    "annual_daily_unit": "人次",
+    "annual_daily_rank": "市内第444",
+    "jun_total": 11.5,
+    "jun_total_rank": "市内商场第472名",
+    "jun_daily_avg": 3825.0,
+    "jun_daily_unit": "人次",
+    "jun_daily_rank": "市内商场第472名",
+    "weekday_avg": 4298.0,
+    "weekday_unit": "人次",
+    "weekday_rank": "市内商场第446名",
+    "holiday_avg": 2528.0,
+    "holiday_unit": "人次",
+    "holiday_rank": "市内商场第521名"
+  },
+  "population": {
+    "residential": {
+      "500m": 2.2,
+      "1_5km": 23.0,
+      "3km": 94.8
+    },
+    "office": {
+      "500m": 3.7,
+      "1_5km": 22.5,
+      "3km": 101.3
+    },
+    "permanent": {
+      "500m": 2.7,
+      "1_5km": 24.5,
+      "3km": 114.3
+    }
+  },
+  "business": {
+    "competitors": 6.0,
+    "food": 329.0,
+    "shopping": 170.0,
+    "leisure": 32.0,
+    "education": 17.0,
+    "hotel": 23.0,
+    "services": 112.0,
+    "fitness": 13.0,
+    "auto": 25.0,
+    "total_stores": 33.0,
+    "old_store_3yr_pct": 61.0
+  },
+  "nearby_poi": {
+    "business": 17.0,
+    "community": 849.0,
+    "office": 157.0,
+    "school": 54.0,
+    "hospital": 156.0,
+    "transport": 12.0,
+    "scenic": 705.0
+  },
+  "demographics": {
+    "male_pct": 49.6,
+    "female_pct": null,
+    "education": {
+      "小学": 9.2,
+      "初中": 18.4,
+      "高中": 12.4,
+      "大专": 7.0,
+      "本科": 46.6,
+      "硕士": 4.7,
+      "博士": 1.7
+    },
+    "has_children_pct": 60.7,
+    "no_children_pct": 39.3
+  },
+  "scraped_at": "2026-07-31T15:38:50.734Z",
+  "nearby_restaurants": [
+    {
+      "brand": "包一切中国馅饼(四川北路店)",
+      "address": "四川北路1350号B207-208",
+      "distance": "6m"
+    },
+    {
+      "brand": "辣掌厨·山野小炒(利通广场店)",
+      "address": "四川北路1350号利通广场B2层",
+      "distance": "7m"
+    },
+    {
+      "brand": "爱食之城(利通广场店)",
+      "address": "四川北路1350号利通广场(四川北路地铁站出入口步行90米)",
+      "distance": "8m"
+    },
+    {
+      "brand": "雅客喜新疆餐厅(利通广场店)",
+      "address": "四川北路1350号利通广场B2层",
+      "distance": "10m"
+    },
+    {
+      "brand": "山西刀削面(利通广场店)",
+      "address": "乍浦路与海南路交叉口西南60米",
+      "distance": "10m"
+    },
+    {
+      "brand": "萨莉亚意式餐厅(利通广场店)",
+      "address": "四川北路1350号利通广场3楼",
+      "distance": "13m"
+    },
+    {
+      "brand": "阿拉丁麻辣烫(利通广场店)",
+      "address": "乍浦路与海南路交叉口西南60米",
+      "distance": "15m"
+    },
+    {
+      "brand": "小满手工粉(利通广场店)",
+      "address": "四川北路1350号利通广场F1层",
+      "distance": "20m"
+    },
+    {
+      "brand": "京云华(利通广场)",
+      "address": "四川北路1350号利通广场3楼",
+      "distance": "22m"
+    },
+    {
+      "brand": "坊门老街(利通广场店)",
+      "address": "四川北路1350号利通广场B2层",
+      "distance": "22m"
+    },
+    {
+      "brand": "包一切中国馅饼(四川北路店)",
+      "address": "四川北路1350号B207-208",
+      "distance": "6m"
+    },
+    {
+      "brand": "辣掌厨·山野小炒(利通广场店)",
+      "address": "四川北路1350号利通广场B2层",
+      "distance": "7m"
+    },
+    {
+      "brand": "爱食之城(利通广场店)",
+      "address": "四川北路1350号利通广场(四川北路地铁站出入口步行90米)",
+      "distance": "8m"
+    },
+    {
+      "brand": "雅客喜新疆餐厅(利通广场店)",
+      "address": "四川北路1350号利通广场B2层",
+      "distance": "10m"
+    },
+    {
+      "brand": "山西刀削面(利通广场店)",
+      "address": "乍浦路与海南路交叉口西南60米",
+      "distance": "10m"
+    },
+    {
+      "brand": "萨莉亚意式餐厅(利通广场店)",
+      "address": "四川北路1350号利通广场3楼",
+      "distance": "13m"
+    },
+    {
+      "brand": "阿拉丁麻辣烫(利通广场店)",
+      "address": "乍浦路与海南路交叉口西南60米",
+      "distance": "15m"
+    },
+    {
+      "brand": "小满手工粉(利通广场店)",
+      "address": "四川北路1350号利通广场F1层",
+      "distance": "20m"
+    },
+    {
+      "brand": "京云华(利通广场)",
+      "address": "四川北路1350号利通广场3楼",
+      "distance": "22m"
+    },
+    {
+      "brand": "坊门老街(利通广场店)",
+      "address": "四川北路1350号利通广场B2层",
+      "distance": "22m"
+    },
+    {
+      "brand": "包一切中国馅饼(四川北路店)",
+      "address": "四川北路1350号B207-208",
+      "distance": "6m"
+    },
+    {
+      "brand": "辣掌厨·山野小炒(利通广场店)",
+      "address": "四川北路1350号利通广场B2层",
+      "distance": "7m"
+    },
+    {
+      "brand": "爱食之城(利通广场店)",
+      "address": "四川北路1350号利通广场(四川北路地铁站出入口步行90米)",
+      "distance": "8m"
+    },
+    {
+      "brand": "雅客喜新疆餐厅(利通广场店)",
+      "address": "四川北路1350号利通广场B2层",
+      "distance": "10m"
+    },
+    {
+      "brand": "山西刀削面(利通广场店)",
+      "address": "乍浦路与海南路交叉口西南60米",
+      "distance": "10m"
+    },
+    {
+      "brand": "萨莉亚意式餐厅(利通广场店)",
+      "address": "四川北路1350号利通广场3楼",
+      "distance": "13m"
+    },
+    {
+      "brand": "阿拉丁麻辣烫(利通广场店)",
+      "address": "乍浦路与海南路交叉口西南60米",
+      "distance": "15m"
+    },
+    {
+      "brand": "小满手工粉(利通广场店)",
+      "address": "四川北路1350号利通广场F1层",
+      "distance": "20m"
+    },
+    {
+      "brand": "京云华(利通广场)",
+      "address": "四川北路1350号利通广场3楼",
+      "distance": "22m"
+    },
+    {
+      "brand": "坊门老街(利通广场店)",
+      "address": "四川北路1350号利通广场B2层",
+      "distance": "22m"
+    },
+    {
+      "brand": "包一切中国馅饼(四川北路店)",
+      "address": "四川北路1350号B207-208",
+      "distance": "6m"
+    },
+    {
+      "brand": "辣掌厨·山野小炒(利通广场店)",
+      "address": "四川北路1350号利通广场B2层",
+      "distance": "7m"
+    },
+    {
+      "brand": "爱食之城(利通广场店)",
+      "address": "四川北路1350号利通广场(四川北路地铁站出入口步行90米)",
+      "distance": "8m"
+    },
+    {
+      "brand": "雅客喜新疆餐厅(利通广场店)",
+      "address": "四川北路1350号利通广场B2层",
+      "distance": "10m"
+    },
+    {
+      "brand": "山西刀削面(利通广场店)",
+      "address": "乍浦路与海南路交叉口西南60米",
+      "distance": "10m"
+    },
+    {
+      "brand": "萨莉亚意式餐厅(利通广场店)",
+      "address": "四川北路1350号利通广场3楼",
+      "distance": "13m"
+    },
+    {
+      "brand": "阿拉丁麻辣烫(利通广场店)",
+      "address": "乍浦路与海南路交叉口西南60米",
+      "distance": "15m"
+    },
+    {
+      "brand": "小满手工粉(利通广场店)",
+      "address": "四川北路1350号利通广场F1层",
+      "distance": "20m"
+    },
+    {
+      "brand": "京云华(利通广场)",
+      "address": "四川北路1350号利通广场3楼",
+      "distance": "22m"
+    },
+    {
+      "brand": "坊门老街(利通广场店)",
+      "address": "四川北路1350号利通广场B2层",
+      "distance": "22m"
+    },
+    {
+      "brand": "包一切中国馅饼(四川北路店)",
+      "address": "四川北路1350号B207-208",
+      "distance": "6m"
+    },
+    {
+      "brand": "辣掌厨·山野小炒(利通广场店)",
+      "address": "四川北路1350号利通广场B2层",
+      "distance": "7m"
+    },
+    {
+      "brand": "爱食之城(利通广场店)",
+      "address": "四川北路1350号利通广场(四川北路地铁站出入口步行90米)",
+      "distance": "8m"
+    },
+    {
+      "brand": "雅客喜新疆餐厅(利通广场店)",
+      "address": "四川北路1350号利通广场B2层",
+      "distance": "10m"
+    },
+    {
+      "brand": "山西刀削面(利通广场店)",
+      "address": "乍浦路与海南路交叉口西南60米",
+      "distance": "10m"
+    },
+    {
+      "brand": "萨莉亚意式餐厅(利通广场店)",
+      "address": "四川北路1350号利通广场3楼",
+      "distance": "13m"
+    },
+    {
+      "brand": "阿拉丁麻辣烫(利通广场店)",
+      "address": "乍浦路与海南路交叉口西南60米",
+      "distance": "15m"
+    },
+    {
+      "brand": "小满手工粉(利通广场店)",
+      "address": "四川北路1350号利通广场F1层",
+      "distance": "20m"
+    },
+    {
+      "brand": "京云华(利通广场)",
+      "address": "四川北路1350号利通广场3楼",
+      "distance": "22m"
+    },
+    {
+      "brand": "坊门老街(利通广场店)",
+      "address": "四川北路1350号利通广场B2层",
+      "distance": "22m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海壹丰广场",
+      "open_date": "2012-11-09",
+      "area": "2.8万㎡",
+      "jun_daily_avg": "1.1万人次",
+      "weekday_avg": "1.1万人次",
+      "holiday_avg": "1.1万人次"
+    },
+    {
+      "name": "上海滨港商业中心",
+      "open_date": "2025-01",
+      "area": "11万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海中信广场",
+      "open_date": "2010-01-01",
+      "area": "10万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海ist艾尚天地",
+      "open_date": "2019-06-01",
+      "area": "3万㎡",
+      "jun_daily_avg": "1.1万人次",
+      "weekday_avg": "1.1万人次",
+      "holiday_avg": "1.1万人次"
+    },
+    {
+      "name": "合新里",
+      "open_date": "2021-01-01",
+      "area": "2.4万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海星荟中心",
+      "open_date": "2016-01-01",
+      "area": "7.2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海圣和圣时尚汇",
+      "open_date": "2009-01-01",
+      "area": "2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "新金浦时尚服装市场",
+      "open_date": "2006-12-01",
+      "area": "1.8万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海联富服饰市场",
+      "open_date": "2006-09-28",
+      "area": "-",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海多伦生活广场(四川北路商业街店)",
+      "open_date": "-",
+      "area": "-",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 22.0,
+      "within_1yr_pct": 27.3,
+      "1_3yr_pct": 9.1,
+      "over_3yr_pct": 63.6
+    },
+    {
+      "type": "购物",
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    },
+    {
+      "type": "教育培训",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    },
+    {
+      "type": "生活服务",
+      "count": 6.0,
+      "within_1yr_pct": 16.7,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 33.3
+    },
+    {
+      "type": "运动健身",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    }
+  ]
+}

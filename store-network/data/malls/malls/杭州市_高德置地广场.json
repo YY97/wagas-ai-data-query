@@ -1,0 +1,446 @@
+{
+  "name": "高德置地广场",
+  "city": "杭州市",
+  "address": "重庆市渝中区石油路街道时代汇6号楼龙湖时代汇",
+  "lat": null,
+  "lng": null,
+  "overview": {
+    "score": 83.9,
+    "score_rank": "市内前30%",
+    "population_score": 97.3,
+    "area_score": 100.0,
+    "consumption_score": 85.9,
+    "industry_score": 83.7,
+    "annual_sales": "龙湖时代天街系百万方城市核心超级综合体，商业规模亚洲第一，近60万的商业体量超过4个龙湖北城天街。项目规划“两条商业街”、“三大Shopping mall”、“八大公共广场”，建筑业态涵盖购物中心、商务楼宇、soho空间、豪华住宅、城市广场等，完美融合休闲购物、行政办公、星级酒店、城市豪宅、交通换乘、餐饮娱乐、创意产业、城市广场、文化艺术九大城市功能",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 5.2,
+    "open_date": "2012",
+    "operator": "龙湖商业管理公司",
+    "brand": "龙湖",
+    "type": "美食型",
+    "floors": "B1-L4"
+  },
+  "traffic": {
+    "annual_daily": 2904.0,
+    "annual_daily_unit": "人次",
+    "annual_daily_rank": "市内第197",
+    "jun_total": 22.8,
+    "jun_total_rank": "市内商场第162名",
+    "jun_daily_avg": 7588.0,
+    "jun_daily_unit": "人次",
+    "jun_daily_rank": "市内商场第162名",
+    "weekday_avg": 7200.0,
+    "weekday_unit": "人次",
+    "weekday_rank": "市内商场第164名",
+    "holiday_avg": 8656.0,
+    "holiday_unit": "人次",
+    "holiday_rank": "市内商场第156名"
+  },
+  "population": {
+    "residential": {
+      "500m": 4.0,
+      "1_5km": 21.1,
+      "3km": 47.9
+    },
+    "office": {
+      "500m": 4.7,
+      "1_5km": 15.7,
+      "3km": 28.9
+    },
+    "permanent": {
+      "500m": 5.2,
+      "1_5km": 22.6,
+      "3km": 47.4
+    }
+  },
+  "business": {
+    "competitors": 12.0,
+    "food": 1126.0,
+    "shopping": 893.0,
+    "leisure": 186.0,
+    "education": 102.0,
+    "hotel": 123.0,
+    "services": 715.0,
+    "fitness": 58.0,
+    "auto": 73.0,
+    "total_stores": 420.0,
+    "old_store_3yr_pct": 35.0
+  },
+  "nearby_poi": {
+    "business": 5.0,
+    "community": 417.0,
+    "office": 41.0,
+    "school": 49.0,
+    "hospital": 142.0,
+    "transport": 14.0,
+    "scenic": 233.0
+  },
+  "demographics": {
+    "male_pct": 48.3,
+    "female_pct": null,
+    "education": {
+      "小学": 10.3,
+      "初中": 18.4,
+      "高中": 13.3,
+      "大专": 10.4,
+      "本科": 43.0,
+      "硕士": 3.7,
+      "博士": 0.9
+    },
+    "has_children_pct": 59.8,
+    "no_children_pct": 40.2
+  },
+  "scraped_at": "2026-08-02T07:55:21.954Z",
+  "nearby_restaurants": [
+    {
+      "brand": "林食天中国台湾便当(龙湖时代汇店)",
+      "address": "大坪正街38号龙湖·时代汇F1层",
+      "distance": "2m"
+    },
+    {
+      "brand": "来一锅川菜馆(时代汇店)",
+      "address": "石油路街道时代天街19号2-36",
+      "distance": "6m"
+    },
+    {
+      "brand": "胖多德·肉蟹煲(龙湖时代天街店)",
+      "address": "龙湖时代汇北区6栋正街二楼sp3-0207(来蛙馆旁)",
+      "distance": "18m"
+    },
+    {
+      "brand": "三茶六饭(龙湖·时代汇店)",
+      "address": "大坪正街38号龙湖时代汇F2层",
+      "distance": "19m"
+    },
+    {
+      "brand": "来蛙馆(时代汇6号楼店)",
+      "address": "大坪龙湖时代天街时代汇北区6栋正街朝花园方向二楼sp3-0218来蛙馆",
+      "distance": "19m"
+    },
+    {
+      "brand": "王財記传统糖水铺(时代天街店)",
+      "address": "大坪正街38号龙湖·时代汇F2层",
+      "distance": "22m"
+    },
+    {
+      "brand": "GTAN COFFEE(时代汇店)",
+      "address": "大坪正街38号龙湖·时代汇F3层",
+      "distance": "23m"
+    },
+    {
+      "brand": "如玉甜汤",
+      "address": "时代天街19号1-40号",
+      "distance": "26m"
+    },
+    {
+      "brand": "擂饭(大坪时代天街店)",
+      "address": "大坪正街38号龙湖·时代汇(石油路地铁站1B口步行340米)",
+      "distance": "28m"
+    },
+    {
+      "brand": "虾潮荟·小龙虾(时代天街总店)",
+      "address": "时代天街时代汇6号楼3层SP3-O324",
+      "distance": "29m"
+    },
+    {
+      "brand": "林食天中国台湾便当(龙湖时代汇店)",
+      "address": "大坪正街38号龙湖·时代汇F1层",
+      "distance": "2m"
+    },
+    {
+      "brand": "来一锅川菜馆(时代汇店)",
+      "address": "石油路街道时代天街19号2-36",
+      "distance": "6m"
+    },
+    {
+      "brand": "胖多德·肉蟹煲(龙湖时代天街店)",
+      "address": "龙湖时代汇北区6栋正街二楼sp3-0207(来蛙馆旁)",
+      "distance": "18m"
+    },
+    {
+      "brand": "三茶六饭(龙湖·时代汇店)",
+      "address": "大坪正街38号龙湖时代汇F2层",
+      "distance": "19m"
+    },
+    {
+      "brand": "来蛙馆(时代汇6号楼店)",
+      "address": "大坪龙湖时代天街时代汇北区6栋正街朝花园方向二楼sp3-0218来蛙馆",
+      "distance": "19m"
+    },
+    {
+      "brand": "王財記传统糖水铺(时代天街店)",
+      "address": "大坪正街38号龙湖·时代汇F2层",
+      "distance": "22m"
+    },
+    {
+      "brand": "GTAN COFFEE(时代汇店)",
+      "address": "大坪正街38号龙湖·时代汇F3层",
+      "distance": "23m"
+    },
+    {
+      "brand": "如玉甜汤",
+      "address": "时代天街19号1-40号",
+      "distance": "26m"
+    },
+    {
+      "brand": "擂饭(大坪时代天街店)",
+      "address": "大坪正街38号龙湖·时代汇(石油路地铁站1B口步行340米)",
+      "distance": "28m"
+    },
+    {
+      "brand": "虾潮荟·小龙虾(时代天街总店)",
+      "address": "时代天街时代汇6号楼3层SP3-O324",
+      "distance": "29m"
+    },
+    {
+      "brand": "林食天中国台湾便当(龙湖时代汇店)",
+      "address": "大坪正街38号龙湖·时代汇F1层",
+      "distance": "2m"
+    },
+    {
+      "brand": "来一锅川菜馆(时代汇店)",
+      "address": "石油路街道时代天街19号2-36",
+      "distance": "6m"
+    },
+    {
+      "brand": "胖多德·肉蟹煲(龙湖时代天街店)",
+      "address": "龙湖时代汇北区6栋正街二楼sp3-0207(来蛙馆旁)",
+      "distance": "18m"
+    },
+    {
+      "brand": "三茶六饭(龙湖·时代汇店)",
+      "address": "大坪正街38号龙湖时代汇F2层",
+      "distance": "19m"
+    },
+    {
+      "brand": "来蛙馆(时代汇6号楼店)",
+      "address": "大坪龙湖时代天街时代汇北区6栋正街朝花园方向二楼sp3-0218来蛙馆",
+      "distance": "19m"
+    },
+    {
+      "brand": "王財記传统糖水铺(时代天街店)",
+      "address": "大坪正街38号龙湖·时代汇F2层",
+      "distance": "22m"
+    },
+    {
+      "brand": "GTAN COFFEE(时代汇店)",
+      "address": "大坪正街38号龙湖·时代汇F3层",
+      "distance": "23m"
+    },
+    {
+      "brand": "如玉甜汤",
+      "address": "时代天街19号1-40号",
+      "distance": "26m"
+    },
+    {
+      "brand": "擂饭(大坪时代天街店)",
+      "address": "大坪正街38号龙湖·时代汇(石油路地铁站1B口步行340米)",
+      "distance": "28m"
+    },
+    {
+      "brand": "虾潮荟·小龙虾(时代天街总店)",
+      "address": "时代天街时代汇6号楼3层SP3-O324",
+      "distance": "29m"
+    },
+    {
+      "brand": "林食天中国台湾便当(龙湖时代汇店)",
+      "address": "大坪正街38号龙湖·时代汇F1层",
+      "distance": "2m"
+    },
+    {
+      "brand": "来一锅川菜馆(时代汇店)",
+      "address": "石油路街道时代天街19号2-36",
+      "distance": "6m"
+    },
+    {
+      "brand": "胖多德·肉蟹煲(龙湖时代天街店)",
+      "address": "龙湖时代汇北区6栋正街二楼sp3-0207(来蛙馆旁)",
+      "distance": "18m"
+    },
+    {
+      "brand": "三茶六饭(龙湖·时代汇店)",
+      "address": "大坪正街38号龙湖时代汇F2层",
+      "distance": "19m"
+    },
+    {
+      "brand": "来蛙馆(时代汇6号楼店)",
+      "address": "大坪龙湖时代天街时代汇北区6栋正街朝花园方向二楼sp3-0218来蛙馆",
+      "distance": "19m"
+    },
+    {
+      "brand": "王財記传统糖水铺(时代天街店)",
+      "address": "大坪正街38号龙湖·时代汇F2层",
+      "distance": "22m"
+    },
+    {
+      "brand": "GTAN COFFEE(时代汇店)",
+      "address": "大坪正街38号龙湖·时代汇F3层",
+      "distance": "23m"
+    },
+    {
+      "brand": "如玉甜汤",
+      "address": "时代天街19号1-40号",
+      "distance": "26m"
+    },
+    {
+      "brand": "擂饭(大坪时代天街店)",
+      "address": "大坪正街38号龙湖·时代汇(石油路地铁站1B口步行340米)",
+      "distance": "28m"
+    },
+    {
+      "brand": "虾潮荟·小龙虾(时代天街总店)",
+      "address": "时代天街时代汇6号楼3层SP3-O324",
+      "distance": "29m"
+    },
+    {
+      "brand": "林食天中国台湾便当(龙湖时代汇店)",
+      "address": "大坪正街38号龙湖·时代汇F1层",
+      "distance": "2m"
+    },
+    {
+      "brand": "来一锅川菜馆(时代汇店)",
+      "address": "石油路街道时代天街19号2-36",
+      "distance": "6m"
+    },
+    {
+      "brand": "胖多德·肉蟹煲(龙湖时代天街店)",
+      "address": "龙湖时代汇北区6栋正街二楼sp3-0207(来蛙馆旁)",
+      "distance": "18m"
+    },
+    {
+      "brand": "三茶六饭(龙湖·时代汇店)",
+      "address": "大坪正街38号龙湖时代汇F2层",
+      "distance": "19m"
+    },
+    {
+      "brand": "来蛙馆(时代汇6号楼店)",
+      "address": "大坪龙湖时代天街时代汇北区6栋正街朝花园方向二楼sp3-0218来蛙馆",
+      "distance": "19m"
+    },
+    {
+      "brand": "王財記传统糖水铺(时代天街店)",
+      "address": "大坪正街38号龙湖·时代汇F2层",
+      "distance": "22m"
+    },
+    {
+      "brand": "GTAN COFFEE(时代汇店)",
+      "address": "大坪正街38号龙湖·时代汇F3层",
+      "distance": "23m"
+    },
+    {
+      "brand": "如玉甜汤",
+      "address": "时代天街19号1-40号",
+      "distance": "26m"
+    },
+    {
+      "brand": "擂饭(大坪时代天街店)",
+      "address": "大坪正街38号龙湖·时代汇(石油路地铁站1B口步行340米)",
+      "distance": "28m"
+    },
+    {
+      "brand": "虾潮荟·小龙虾(时代天街总店)",
+      "address": "时代天街时代汇6号楼3层SP3-O324",
+      "distance": "29m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "龙湖重庆时代天街",
+      "open_date": "2022-01-01",
+      "area": "32.5万㎡",
+      "jun_daily_avg": "17.4万人次",
+      "weekday_avg": "15.7万人次",
+      "holiday_avg": "22.1万人次"
+    },
+    {
+      "name": "龙湖·时代汇南区(龙湖重庆时代天街ABC馆店)",
+      "open_date": "2012-12-01",
+      "area": "-",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "重庆大坪英利大融城",
+      "open_date": "2012",
+      "area": "10万㎡",
+      "jun_daily_avg": "4.1万人次",
+      "weekday_avg": "4.1万人次",
+      "holiday_avg": "4.2万人次"
+    },
+    {
+      "name": "重庆协信星光天地(大坪店)",
+      "open_date": "2015-01-01",
+      "area": "4万㎡",
+      "jun_daily_avg": "4万人次",
+      "weekday_avg": "4.3万人次",
+      "holiday_avg": "3.3万人次"
+    },
+    {
+      "name": "重庆嘉陵中心",
+      "open_date": "2020-03-06",
+      "area": "10万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 276.0,
+      "within_1yr_pct": 39.9,
+      "1_3yr_pct": 30.8,
+      "over_3yr_pct": 29.3
+    },
+    {
+      "type": "购物",
+      "count": 38.0,
+      "within_1yr_pct": 21.1,
+      "1_3yr_pct": 28.9,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 15.0,
+      "within_1yr_pct": 26.7,
+      "1_3yr_pct": 26.7,
+      "over_3yr_pct": 46.7
+    },
+    {
+      "type": "教育培训",
+      "count": 8.0,
+      "within_1yr_pct": 12.5,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 87.5
+    },
+    {
+      "type": "酒店住宿",
+      "count": 11.0,
+      "within_1yr_pct": 54.5,
+      "1_3yr_pct": 18.2,
+      "over_3yr_pct": 27.3
+    },
+    {
+      "type": "生活服务",
+      "count": 67.0,
+      "within_1yr_pct": 16.4,
+      "1_3yr_pct": 37.3,
+      "over_3yr_pct": 46.3
+    },
+    {
+      "type": "运动健身",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 4.0,
+      "within_1yr_pct": 75.0,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 0.0
+    }
+  ]
+}

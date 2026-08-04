@@ -1,0 +1,465 @@
+{
+  "name": "城隍庙第一购物中心(丽水路店)",
+  "city": "上海市",
+  "address": "上海市黄浦区丽水路88号",
+  "lat": 31.228015,
+  "lng": 121.490335,
+  "overview": {
+    "score": 70.6,
+    "score_rank": "市内前70%",
+    "population_score": 75.6,
+    "area_score": 93.2,
+    "consumption_score": 86.9,
+    "industry_score": 70.4,
+    "annual_sales": "城隍庙第一购物中心位于上海著名的豫园老城隍庙地区，建筑外观呈明清风格，典雅古朴。商场主要经营黄金珠宝玉器、工艺礼品、文物古玩等，以弘扬中华优秀传统文化为己任，利用地域商业经营的文化历史传统，打造具有特色的商业氛围。",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 1.6,
+    "open_date": "1995-01-01",
+    "operator": "上海城隍庙第一购物中心有限公司",
+    "brand": "",
+    "type": "综合型",
+    "floors": "B1-L5"
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "-",
+    "annual_daily_rank": "",
+    "jun_total": 11.0,
+    "jun_total_rank": "市内商场第479名",
+    "jun_daily_avg": 3654.0,
+    "jun_daily_unit": "人次",
+    "jun_daily_rank": "市内商场第479名",
+    "weekday_avg": 2788.0,
+    "weekday_unit": "人次",
+    "weekday_rank": "市内商场第497名",
+    "holiday_avg": 6032.0,
+    "holiday_unit": "人次",
+    "holiday_rank": "市内商场第411名"
+  },
+  "population": {
+    "residential": {
+      "500m": 1.2,
+      "1_5km": 14.7,
+      "3km": 77.8
+    },
+    "office": {
+      "500m": 3.4,
+      "1_5km": 29.0,
+      "3km": 109.1
+    },
+    "permanent": {
+      "500m": 2.6,
+      "1_5km": 21.5,
+      "3km": 97.5
+    }
+  },
+  "business": {
+    "competitors": 7.0,
+    "food": 285.0,
+    "shopping": 582.0,
+    "leisure": 28.0,
+    "education": 7.0,
+    "hotel": 57.0,
+    "services": 108.0,
+    "fitness": 3.0,
+    "auto": 10.0,
+    "total_stores": 43.0,
+    "old_store_3yr_pct": 44.0
+  },
+  "nearby_poi": {
+    "business": 29.0,
+    "community": 747.0,
+    "office": 199.0,
+    "school": 55.0,
+    "hospital": 178.0,
+    "transport": 21.0,
+    "scenic": 897.0
+  },
+  "demographics": {
+    "male_pct": null,
+    "female_pct": null,
+    "education": {
+      "小学": 9.4,
+      "初中": 17.0,
+      "高中": 11.5,
+      "大专": 7.1,
+      "本科": 47.5,
+      "硕士": 5.8,
+      "博士": 1.7
+    },
+    "has_children_pct": 59.0,
+    "no_children_pct": 41.0
+  },
+  "scraped_at": "2026-07-31T17:59:35.700Z",
+  "nearby_restaurants": [
+    {
+      "brand": "一米茶缘",
+      "address": "丽水路与福佑路交叉口西北60米",
+      "distance": "2m"
+    },
+    {
+      "brand": "土豆驾到(丽客隆商业广场店)",
+      "address": "丽水路88号(豫园地铁站7号口步行240米)",
+      "distance": "11m"
+    },
+    {
+      "brand": "麦当劳(豫园餐厅)",
+      "address": "丽水路88号城隍庙第一购物中心1-2层",
+      "distance": "19m"
+    },
+    {
+      "brand": "麦咖啡(豫园1号)",
+      "address": "丽水路88号城隍庙第一购物中心F1层",
+      "distance": "22m"
+    },
+    {
+      "brand": "星巴克(城隍珠宝店)",
+      "address": "丽水路88号1F116单元(豫园地铁站7号口步行170米)",
+      "distance": "36m"
+    },
+    {
+      "brand": "沪三姐蟹黄小笼包",
+      "address": "丽水路1号悦园商厦F1层(豫园地铁站7号口步行120米)",
+      "distance": "82m"
+    },
+    {
+      "brand": "上海老饭店(豫园店)",
+      "address": "老城隍庙福佑路242号(豫园地铁站7号口步行260米)",
+      "distance": "88m"
+    },
+    {
+      "brand": "净山云舍·湘西湘菜馆",
+      "address": "安平街51号(豫园地铁站7号口步行120米)",
+      "distance": "91m"
+    },
+    {
+      "brand": "杂粮煎饼",
+      "address": "安平街49号",
+      "distance": "109m"
+    },
+    {
+      "brand": "喜茶(上海豫园店)",
+      "address": "福佑路168号(豫园地铁站7号口步行300米)",
+      "distance": "113m"
+    },
+    {
+      "brand": "一米茶缘",
+      "address": "丽水路与福佑路交叉口西北60米",
+      "distance": "2m"
+    },
+    {
+      "brand": "土豆驾到(丽客隆商业广场店)",
+      "address": "丽水路88号(豫园地铁站7号口步行240米)",
+      "distance": "11m"
+    },
+    {
+      "brand": "麦当劳(豫园餐厅)",
+      "address": "丽水路88号城隍庙第一购物中心1-2层",
+      "distance": "19m"
+    },
+    {
+      "brand": "麦咖啡(豫园1号)",
+      "address": "丽水路88号城隍庙第一购物中心F1层",
+      "distance": "22m"
+    },
+    {
+      "brand": "星巴克(城隍珠宝店)",
+      "address": "丽水路88号1F116单元(豫园地铁站7号口步行170米)",
+      "distance": "36m"
+    },
+    {
+      "brand": "沪三姐蟹黄小笼包",
+      "address": "丽水路1号悦园商厦F1层(豫园地铁站7号口步行120米)",
+      "distance": "82m"
+    },
+    {
+      "brand": "上海老饭店(豫园店)",
+      "address": "老城隍庙福佑路242号(豫园地铁站7号口步行260米)",
+      "distance": "88m"
+    },
+    {
+      "brand": "净山云舍·湘西湘菜馆",
+      "address": "安平街51号(豫园地铁站7号口步行120米)",
+      "distance": "91m"
+    },
+    {
+      "brand": "杂粮煎饼",
+      "address": "安平街49号",
+      "distance": "109m"
+    },
+    {
+      "brand": "喜茶(上海豫园店)",
+      "address": "福佑路168号(豫园地铁站7号口步行300米)",
+      "distance": "113m"
+    },
+    {
+      "brand": "一米茶缘",
+      "address": "丽水路与福佑路交叉口西北60米",
+      "distance": "2m"
+    },
+    {
+      "brand": "土豆驾到(丽客隆商业广场店)",
+      "address": "丽水路88号(豫园地铁站7号口步行240米)",
+      "distance": "11m"
+    },
+    {
+      "brand": "麦当劳(豫园餐厅)",
+      "address": "丽水路88号城隍庙第一购物中心1-2层",
+      "distance": "19m"
+    },
+    {
+      "brand": "麦咖啡(豫园1号)",
+      "address": "丽水路88号城隍庙第一购物中心F1层",
+      "distance": "22m"
+    },
+    {
+      "brand": "星巴克(城隍珠宝店)",
+      "address": "丽水路88号1F116单元(豫园地铁站7号口步行170米)",
+      "distance": "36m"
+    },
+    {
+      "brand": "沪三姐蟹黄小笼包",
+      "address": "丽水路1号悦园商厦F1层(豫园地铁站7号口步行120米)",
+      "distance": "82m"
+    },
+    {
+      "brand": "上海老饭店(豫园店)",
+      "address": "老城隍庙福佑路242号(豫园地铁站7号口步行260米)",
+      "distance": "88m"
+    },
+    {
+      "brand": "净山云舍·湘西湘菜馆",
+      "address": "安平街51号(豫园地铁站7号口步行120米)",
+      "distance": "91m"
+    },
+    {
+      "brand": "杂粮煎饼",
+      "address": "安平街49号",
+      "distance": "109m"
+    },
+    {
+      "brand": "喜茶(上海豫园店)",
+      "address": "福佑路168号(豫园地铁站7号口步行300米)",
+      "distance": "113m"
+    },
+    {
+      "brand": "一米茶缘",
+      "address": "丽水路与福佑路交叉口西北60米",
+      "distance": "2m"
+    },
+    {
+      "brand": "土豆驾到(丽客隆商业广场店)",
+      "address": "丽水路88号(豫园地铁站7号口步行240米)",
+      "distance": "11m"
+    },
+    {
+      "brand": "麦当劳(豫园餐厅)",
+      "address": "丽水路88号城隍庙第一购物中心1-2层",
+      "distance": "19m"
+    },
+    {
+      "brand": "麦咖啡(豫园1号)",
+      "address": "丽水路88号城隍庙第一购物中心F1层",
+      "distance": "22m"
+    },
+    {
+      "brand": "星巴克(城隍珠宝店)",
+      "address": "丽水路88号1F116单元(豫园地铁站7号口步行170米)",
+      "distance": "36m"
+    },
+    {
+      "brand": "沪三姐蟹黄小笼包",
+      "address": "丽水路1号悦园商厦F1层(豫园地铁站7号口步行120米)",
+      "distance": "82m"
+    },
+    {
+      "brand": "上海老饭店(豫园店)",
+      "address": "老城隍庙福佑路242号(豫园地铁站7号口步行260米)",
+      "distance": "88m"
+    },
+    {
+      "brand": "净山云舍·湘西湘菜馆",
+      "address": "安平街51号(豫园地铁站7号口步行120米)",
+      "distance": "91m"
+    },
+    {
+      "brand": "杂粮煎饼",
+      "address": "安平街49号",
+      "distance": "109m"
+    },
+    {
+      "brand": "喜茶(上海豫园店)",
+      "address": "福佑路168号(豫园地铁站7号口步行300米)",
+      "distance": "113m"
+    },
+    {
+      "brand": "一米茶缘",
+      "address": "丽水路与福佑路交叉口西北60米",
+      "distance": "2m"
+    },
+    {
+      "brand": "土豆驾到(丽客隆商业广场店)",
+      "address": "丽水路88号(豫园地铁站7号口步行240米)",
+      "distance": "11m"
+    },
+    {
+      "brand": "麦当劳(豫园餐厅)",
+      "address": "丽水路88号城隍庙第一购物中心1-2层",
+      "distance": "19m"
+    },
+    {
+      "brand": "麦咖啡(豫园1号)",
+      "address": "丽水路88号城隍庙第一购物中心F1层",
+      "distance": "22m"
+    },
+    {
+      "brand": "星巴克(城隍珠宝店)",
+      "address": "丽水路88号1F116单元(豫园地铁站7号口步行170米)",
+      "distance": "36m"
+    },
+    {
+      "brand": "沪三姐蟹黄小笼包",
+      "address": "丽水路1号悦园商厦F1层(豫园地铁站7号口步行120米)",
+      "distance": "82m"
+    },
+    {
+      "brand": "上海老饭店(豫园店)",
+      "address": "老城隍庙福佑路242号(豫园地铁站7号口步行260米)",
+      "distance": "88m"
+    },
+    {
+      "brand": "净山云舍·湘西湘菜馆",
+      "address": "安平街51号(豫园地铁站7号口步行120米)",
+      "distance": "91m"
+    },
+    {
+      "brand": "杂粮煎饼",
+      "address": "安平街49号",
+      "distance": "109m"
+    },
+    {
+      "brand": "喜茶(上海豫园店)",
+      "address": "福佑路168号(豫园地铁站7号口步行300米)",
+      "distance": "113m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海悦园商厦",
+      "open_date": "2005-01-01",
+      "area": "1.7万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海福佑商厦",
+      "open_date": "1998-01-01",
+      "area": "-",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海豫园商城",
+      "open_date": "-",
+      "area": "1000㎡",
+      "jun_daily_avg": "7.6万人次",
+      "weekday_avg": "6.5万人次",
+      "holiday_avg": "10.7万人次"
+    },
+    {
+      "name": "上海香港名都",
+      "open_date": "2010-09-01",
+      "area": "4万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海BFC外滩金融中心",
+      "open_date": "2019-12-12",
+      "area": "9.6万㎡",
+      "jun_daily_avg": "6.4万人次",
+      "weekday_avg": "6.3万人次",
+      "holiday_avg": "6.6万人次"
+    },
+    {
+      "name": "上海亚龙国际广场",
+      "open_date": "2007-01-01",
+      "area": "1.5万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海宏伊国际广场",
+      "open_date": "2005-07-24",
+      "area": "2.8万㎡",
+      "jun_daily_avg": "2.2万人次",
+      "weekday_avg": "1.9万人次",
+      "holiday_avg": "2.9万人次"
+    },
+    {
+      "name": "上海悦荟广场",
+      "open_date": "2014-12-01",
+      "area": "2.5万㎡",
+      "jun_daily_avg": "1.3万人次",
+      "weekday_avg": "1.1万人次",
+      "holiday_avg": "1.8万人次"
+    },
+    {
+      "name": "上海外滩中央广场",
+      "open_date": "2017-09-24",
+      "area": "4.5万㎡",
+      "jun_daily_avg": "1.8万人次",
+      "weekday_avg": "1.6万人次",
+      "holiday_avg": "2.5万人次"
+    },
+    {
+      "name": "大上海时代广场",
+      "open_date": "2000-01-01",
+      "area": "5万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 5.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 40.0,
+      "over_3yr_pct": 40.0
+    },
+    {
+      "type": "购物",
+      "count": 23.0,
+      "within_1yr_pct": 17.4,
+      "1_3yr_pct": 26.1,
+      "over_3yr_pct": 56.5
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 1.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    },
+    {
+      "type": "生活服务",
+      "count": 13.0,
+      "within_1yr_pct": 38.5,
+      "1_3yr_pct": 38.5,
+      "over_3yr_pct": 23.1
+    }
+  ]
+}

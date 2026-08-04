@@ -1,0 +1,415 @@
+{
+  "name": "上海张江商业广场",
+  "city": "上海市",
+  "address": "上海市浦东新区建中路68号",
+  "lat": 31.202567,
+  "lng": 121.612691,
+  "overview": {
+    "score": 82.6,
+    "score_rank": "市内前30%",
+    "population_score": 92.6,
+    "area_score": 76.8,
+    "consumption_score": 73.0,
+    "industry_score": 82.6,
+    "annual_sales": "",
+    "annual_sales_unit": "",
+    "area_size_sqm": null,
+    "open_date": "",
+    "operator": "",
+    "brand": "",
+    "type": "美食型",
+    "floors": "L1-L3"
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "",
+    "annual_daily_rank": "",
+    "jun_total": 7.8,
+    "jun_total_rank": "市内商场第509名",
+    "jun_daily_avg": 2584.0,
+    "jun_daily_unit": "人次",
+    "jun_daily_rank": "市内商场第509名",
+    "weekday_avg": 2604.0,
+    "weekday_unit": "人次",
+    "weekday_rank": "市内商场第504名",
+    "holiday_avg": 2530.0,
+    "holiday_unit": "人次",
+    "holiday_rank": "市内商场第520名"
+  },
+  "population": {
+    "residential": {
+      "500m": 2.7,
+      "1_5km": 8.3,
+      "3km": 31.4
+    },
+    "office": {
+      "500m": 8800.0,
+      "1_5km": 11.4,
+      "3km": 39.8
+    },
+    "permanent": {
+      "500m": 2.1,
+      "1_5km": 8.8,
+      "3km": 29.9
+    }
+  },
+  "business": {
+    "competitors": null,
+    "food": 234.0,
+    "shopping": 102.0,
+    "leisure": 17.0,
+    "education": 3.0,
+    "hotel": 51.0,
+    "services": 120.0,
+    "fitness": 6.0,
+    "auto": 12.0,
+    "total_stores": 35.0,
+    "old_store_3yr_pct": 51.0
+  },
+  "nearby_poi": {
+    "business": 2.0,
+    "community": 153.0,
+    "office": 66.0,
+    "school": 15.0,
+    "hospital": 26.0,
+    "transport": 9.0,
+    "scenic": 75.0
+  },
+  "demographics": {
+    "male_pct": 54.9,
+    "female_pct": null,
+    "education": {
+      "小学": 7.4,
+      "初中": 14.2,
+      "高中": 11.1,
+      "大专": 6.7,
+      "本科": 46.7,
+      "硕士": 12.1,
+      "博士": 1.8
+    },
+    "has_children_pct": 58.4,
+    "no_children_pct": 41.6
+  },
+  "scraped_at": "2026-07-31T16:13:52.996Z",
+  "nearby_restaurants": [
+    {
+      "brand": "沙县小吃(张江商业广场店)",
+      "address": "建中路242弄176号张江商业广场F1层",
+      "distance": "27m"
+    },
+    {
+      "brand": "老上海菜饭馆(张江商业广场店)",
+      "address": "建中路242弄176号张江商业广场F1层",
+      "distance": "28m"
+    },
+    {
+      "brand": "秦唐会陕面(张江商业广场店)",
+      "address": "建中路242弄176号张江商业广场F1层",
+      "distance": "29m"
+    },
+    {
+      "brand": "达美乐比萨(建中路店)",
+      "address": "建中路242弄29号",
+      "distance": "31m"
+    },
+    {
+      "brand": "东北大碗麻辣烫",
+      "address": "建中路与古桐路交叉口西南120米",
+      "distance": "31m"
+    },
+    {
+      "brand": "柳州肥姨妈大骨螺蛳粉(张江店)",
+      "address": "建中路242弄252号临街店铺",
+      "distance": "33m"
+    },
+    {
+      "brand": "老张烧烤(张江商业广场店)",
+      "address": "建中路242弄176号张江商业广场F1层",
+      "distance": "33m"
+    },
+    {
+      "brand": "南粤兴烧腊",
+      "address": "张江镇建中路246号",
+      "distance": "36m"
+    },
+    {
+      "brand": "豪情炒饭炒面(张江商业广场店)",
+      "address": "建中路242弄176号张江商业广场",
+      "distance": "37m"
+    },
+    {
+      "brand": "华莱士·全鸡汉堡(上海建中店)",
+      "address": "张江镇建中路242弄3号25号",
+      "distance": "37m"
+    },
+    {
+      "brand": "沙县小吃(张江商业广场店)",
+      "address": "建中路242弄176号张江商业广场F1层",
+      "distance": "27m"
+    },
+    {
+      "brand": "老上海菜饭馆(张江商业广场店)",
+      "address": "建中路242弄176号张江商业广场F1层",
+      "distance": "28m"
+    },
+    {
+      "brand": "秦唐会陕面(张江商业广场店)",
+      "address": "建中路242弄176号张江商业广场F1层",
+      "distance": "29m"
+    },
+    {
+      "brand": "达美乐比萨(建中路店)",
+      "address": "建中路242弄29号",
+      "distance": "31m"
+    },
+    {
+      "brand": "东北大碗麻辣烫",
+      "address": "建中路与古桐路交叉口西南120米",
+      "distance": "31m"
+    },
+    {
+      "brand": "柳州肥姨妈大骨螺蛳粉(张江店)",
+      "address": "建中路242弄252号临街店铺",
+      "distance": "33m"
+    },
+    {
+      "brand": "老张烧烤(张江商业广场店)",
+      "address": "建中路242弄176号张江商业广场F1层",
+      "distance": "33m"
+    },
+    {
+      "brand": "南粤兴烧腊",
+      "address": "张江镇建中路246号",
+      "distance": "36m"
+    },
+    {
+      "brand": "豪情炒饭炒面(张江商业广场店)",
+      "address": "建中路242弄176号张江商业广场",
+      "distance": "37m"
+    },
+    {
+      "brand": "华莱士·全鸡汉堡(上海建中店)",
+      "address": "张江镇建中路242弄3号25号",
+      "distance": "37m"
+    },
+    {
+      "brand": "沙县小吃(张江商业广场店)",
+      "address": "建中路242弄176号张江商业广场F1层",
+      "distance": "27m"
+    },
+    {
+      "brand": "老上海菜饭馆(张江商业广场店)",
+      "address": "建中路242弄176号张江商业广场F1层",
+      "distance": "28m"
+    },
+    {
+      "brand": "秦唐会陕面(张江商业广场店)",
+      "address": "建中路242弄176号张江商业广场F1层",
+      "distance": "29m"
+    },
+    {
+      "brand": "达美乐比萨(建中路店)",
+      "address": "建中路242弄29号",
+      "distance": "31m"
+    },
+    {
+      "brand": "东北大碗麻辣烫",
+      "address": "建中路与古桐路交叉口西南120米",
+      "distance": "31m"
+    },
+    {
+      "brand": "柳州肥姨妈大骨螺蛳粉(张江店)",
+      "address": "建中路242弄252号临街店铺",
+      "distance": "33m"
+    },
+    {
+      "brand": "老张烧烤(张江商业广场店)",
+      "address": "建中路242弄176号张江商业广场F1层",
+      "distance": "33m"
+    },
+    {
+      "brand": "南粤兴烧腊",
+      "address": "张江镇建中路246号",
+      "distance": "36m"
+    },
+    {
+      "brand": "豪情炒饭炒面(张江商业广场店)",
+      "address": "建中路242弄176号张江商业广场",
+      "distance": "37m"
+    },
+    {
+      "brand": "华莱士·全鸡汉堡(上海建中店)",
+      "address": "张江镇建中路242弄3号25号",
+      "distance": "37m"
+    },
+    {
+      "brand": "沙县小吃(张江商业广场店)",
+      "address": "建中路242弄176号张江商业广场F1层",
+      "distance": "27m"
+    },
+    {
+      "brand": "老上海菜饭馆(张江商业广场店)",
+      "address": "建中路242弄176号张江商业广场F1层",
+      "distance": "28m"
+    },
+    {
+      "brand": "秦唐会陕面(张江商业广场店)",
+      "address": "建中路242弄176号张江商业广场F1层",
+      "distance": "29m"
+    },
+    {
+      "brand": "达美乐比萨(建中路店)",
+      "address": "建中路242弄29号",
+      "distance": "31m"
+    },
+    {
+      "brand": "东北大碗麻辣烫",
+      "address": "建中路与古桐路交叉口西南120米",
+      "distance": "31m"
+    },
+    {
+      "brand": "柳州肥姨妈大骨螺蛳粉(张江店)",
+      "address": "建中路242弄252号临街店铺",
+      "distance": "33m"
+    },
+    {
+      "brand": "老张烧烤(张江商业广场店)",
+      "address": "建中路242弄176号张江商业广场F1层",
+      "distance": "33m"
+    },
+    {
+      "brand": "南粤兴烧腊",
+      "address": "张江镇建中路246号",
+      "distance": "36m"
+    },
+    {
+      "brand": "豪情炒饭炒面(张江商业广场店)",
+      "address": "建中路242弄176号张江商业广场",
+      "distance": "37m"
+    },
+    {
+      "brand": "华莱士·全鸡汉堡(上海建中店)",
+      "address": "张江镇建中路242弄3号25号",
+      "distance": "37m"
+    },
+    {
+      "brand": "沙县小吃(张江商业广场店)",
+      "address": "建中路242弄176号张江商业广场F1层",
+      "distance": "27m"
+    },
+    {
+      "brand": "老上海菜饭馆(张江商业广场店)",
+      "address": "建中路242弄176号张江商业广场F1层",
+      "distance": "28m"
+    },
+    {
+      "brand": "秦唐会陕面(张江商业广场店)",
+      "address": "建中路242弄176号张江商业广场F1层",
+      "distance": "29m"
+    },
+    {
+      "brand": "达美乐比萨(建中路店)",
+      "address": "建中路242弄29号",
+      "distance": "31m"
+    },
+    {
+      "brand": "东北大碗麻辣烫",
+      "address": "建中路与古桐路交叉口西南120米",
+      "distance": "31m"
+    },
+    {
+      "brand": "柳州肥姨妈大骨螺蛳粉(张江店)",
+      "address": "建中路242弄252号临街店铺",
+      "distance": "33m"
+    },
+    {
+      "brand": "老张烧烤(张江商业广场店)",
+      "address": "建中路242弄176号张江商业广场F1层",
+      "distance": "33m"
+    },
+    {
+      "brand": "南粤兴烧腊",
+      "address": "张江镇建中路246号",
+      "distance": "36m"
+    },
+    {
+      "brand": "豪情炒饭炒面(张江商业广场店)",
+      "address": "建中路242弄176号张江商业广场",
+      "distance": "37m"
+    },
+    {
+      "brand": "华莱士·全鸡汉堡(上海建中店)",
+      "address": "张江镇建中路242弄3号25号",
+      "distance": "37m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海汇智国际商业中心",
+      "open_date": "2014-12-24",
+      "area": "6.4万㎡",
+      "jun_daily_avg": "3.4万人次",
+      "weekday_avg": "3.4万人次",
+      "holiday_avg": "3.4万人次"
+    },
+    {
+      "name": "上海长泰广场",
+      "open_date": "2014-11-18",
+      "area": "20万㎡",
+      "jun_daily_avg": "9.4万人次",
+      "weekday_avg": "9.2万人次",
+      "holiday_avg": "10万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 15.0,
+      "within_1yr_pct": 26.7,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 40.0
+    },
+    {
+      "type": "购物",
+      "count": 5.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 20.0,
+      "over_3yr_pct": 80.0
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 3.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 66.7
+    },
+    {
+      "type": "教育培训",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 2.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "生活服务",
+      "count": 7.0,
+      "within_1yr_pct": 14.3,
+      "1_3yr_pct": 42.9,
+      "over_3yr_pct": 42.9
+    },
+    {
+      "type": "运动健身",
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 50.0
+    }
+  ]
+}

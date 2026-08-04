@@ -1,0 +1,154 @@
+{
+  "name": "华冠天地(长阳店)",
+  "city": "北京市",
+  "address": "上海市宝山区塘西街221号",
+  "lat": null,
+  "lng": null,
+  "overview": {
+    "score": 87.5,
+    "score_rank": "市内前30%",
+    "population_score": 83.3,
+    "area_score": 72.4,
+    "consumption_score": 62.1,
+    "industry_score": 87.6,
+    "annual_sales": "上坤上街作为宝山区域内少有的高端社区商业，由5栋2层楼宇组成，每栋楼有连廊连接，此次开业将一定程度上弥补区域内商业的不足。项目的开业率达70%，招商率目前达95%。在业态配比上，餐饮占据所有业态的40%，亲子体验和休闲娱乐类占30%",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 2.6,
+    "open_date": "2017-03-18",
+    "operator": "上坤商业",
+    "brand": "",
+    "type": "美食型",
+    "floors": "B1-L4"
+  },
+  "traffic": {
+    "annual_daily": 2630.0,
+    "annual_daily_unit": "人次",
+    "annual_daily_rank": "市内第457",
+    "jun_total": 27.9,
+    "jun_total_rank": "市内商场第321名",
+    "jun_daily_avg": 9304.0,
+    "jun_daily_unit": "人次",
+    "jun_daily_rank": "市内商场第321名",
+    "weekday_avg": 8304.0,
+    "weekday_unit": "人次",
+    "weekday_rank": "市内商场第334名",
+    "holiday_avg": 1.2,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第287名"
+  },
+  "population": {
+    "residential": {
+      "500m": 1.8,
+      "1_5km": 10.0,
+      "3km": 23.3
+    },
+    "office": {
+      "500m": 6700.0,
+      "1_5km": 4.1,
+      "3km": 9.8
+    },
+    "permanent": {
+      "500m": 1.7,
+      "1_5km": 9.2,
+      "3km": 21.4
+    }
+  },
+  "business": {
+    "competitors": 1.0,
+    "food": 153.0,
+    "shopping": 124.0,
+    "leisure": 5.0,
+    "education": 11.0,
+    "hotel": 17.0,
+    "services": 90.0,
+    "fitness": 11.0,
+    "auto": 20.0,
+    "total_stores": 109.0,
+    "old_store_3yr_pct": 33.0
+  },
+  "nearby_poi": {
+    "business": 1.0,
+    "community": 81.0,
+    "office": 3.0,
+    "school": 15.0,
+    "hospital": 11.0,
+    "transport": 8.0,
+    "scenic": 102.0
+  },
+  "demographics": {
+    "male_pct": 51.2,
+    "female_pct": null,
+    "education": {
+      "小学": 11.2,
+      "初中": 21.5,
+      "高中": 13.0,
+      "大专": 9.1,
+      "本科": 42.4,
+      "硕士": 2.0,
+      "博士": 0.8
+    },
+    "has_children_pct": 60.0,
+    "no_children_pct": 40.0
+  },
+  "scraped_at": "2026-08-01T09:28:39.703Z",
+  "nearby_restaurants": [],
+  "nearby_malls": [],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 68.0,
+      "within_1yr_pct": 38.2,
+      "1_3yr_pct": 32.4,
+      "over_3yr_pct": 29.4
+    },
+    {
+      "type": "购物",
+      "count": 11.0,
+      "within_1yr_pct": 45.5,
+      "1_3yr_pct": 45.5,
+      "over_3yr_pct": 9.1
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 2.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "教育培训",
+      "count": 6.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 33.3
+    },
+    {
+      "type": "酒店住宿",
+      "count": 2.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "生活服务",
+      "count": 12.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 41.7,
+      "over_3yr_pct": 33.3
+    },
+    {
+      "type": "运动健身",
+      "count": 5.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 80.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 3.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    }
+  ]
+}

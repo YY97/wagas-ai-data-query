@@ -1,0 +1,422 @@
+{
+  "name": "南翔印象城MEGA",
+  "city": "上海市",
+  "address": "上海市嘉定区陈翔公路2299号",
+  "lat": 31.305041,
+  "lng": 121.305834,
+  "overview": {
+    "score": 96.3,
+    "score_rank": "市内前30%",
+    "population_score": 76.0,
+    "area_score": 76.4,
+    "consumption_score": 72.6,
+    "industry_score": 96.5,
+    "annual_sales": "46",
+    "annual_sales_unit": "亿元",
+    "area_size_sqm": 19.0,
+    "open_date": "2020-08-25",
+    "operator": "印力商用置业有限公司",
+    "brand": "印力",
+    "type": "购物型",
+    "floors": "B1-L6"
+  },
+  "traffic": {
+    "annual_daily": 5.85,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第14",
+    "jun_total": 291.6,
+    "jun_total_rank": "市内商场第4名",
+    "jun_daily_avg": 9.7,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第4名",
+    "weekday_avg": 8.2,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第9名",
+    "holiday_avg": 13.9,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第3名"
+  },
+  "population": {
+    "residential": {
+      "500m": 1.3,
+      "1_5km": 12.8,
+      "3km": 38.3
+    },
+    "office": {
+      "500m": 1.2,
+      "1_5km": 5.5,
+      "3km": 17.2
+    },
+    "permanent": {
+      "500m": 2.3,
+      "1_5km": 12.7,
+      "3km": 35.7
+    }
+  },
+  "business": {
+    "competitors": 7.0,
+    "food": 202.0,
+    "shopping": 203.0,
+    "leisure": 23.0,
+    "education": 19.0,
+    "hotel": 1.0,
+    "services": 108.0,
+    "fitness": 16.0,
+    "auto": 36.0,
+    "total_stores": 417.0,
+    "old_store_3yr_pct": 57.0
+  },
+  "nearby_poi": {
+    "business": 2.0,
+    "community": 165.0,
+    "office": 14.0,
+    "school": 22.0,
+    "hospital": 22.0,
+    "transport": 4.0,
+    "scenic": 157.0
+  },
+  "demographics": {
+    "male_pct": 48.1,
+    "female_pct": null,
+    "education": {
+      "小学": 10.2,
+      "初中": 19.2,
+      "高中": 11.8,
+      "大专": 9.2,
+      "本科": 44.7,
+      "硕士": 4.0,
+      "博士": 0.9
+    },
+    "has_children_pct": 71.4,
+    "no_children_pct": 28.6
+  },
+  "scraped_at": "2026-08-01T04:26:23.919Z",
+  "nearby_restaurants": [
+    {
+      "brand": "鱼酷活鱼烤鱼(南翔印象城店)",
+      "address": "南翔镇陈翔公路2299号3层03-15号",
+      "distance": "4m"
+    },
+    {
+      "brand": "香港美心月饼团购中心(南翔印象城店)",
+      "address": "三老园路与依仁路交叉口西北100米",
+      "distance": "6m"
+    },
+    {
+      "brand": "煲珠公·老红糖珍珠奶茶(南翔印象城店)",
+      "address": "南翔印象城B1楼19C(陈翔公路地铁站3号口步行350米)",
+      "distance": "7m"
+    },
+    {
+      "brand": "b3coffee必三咖啡(南翔印象城店)",
+      "address": "南翔镇陈翔公路2299号地下一层B1-14-B04",
+      "distance": "7m"
+    },
+    {
+      "brand": "云中鱼蒸汽石锅鱼(南翔印象城店)",
+      "address": "陈翔公路2299号(陈翔公路地铁站3号口步行330米)南翔印象城六楼",
+      "distance": "7m"
+    },
+    {
+      "brand": "桂满陇(南翔印象城)",
+      "address": "南翔印象城5层37-38号",
+      "distance": "7m"
+    },
+    {
+      "brand": "九十叶·抹茶专门店(上海·南翔印象城店)",
+      "address": "南翔镇陈翔公路2299号1层01-K9号商铺(商场内优衣库旁边)",
+      "distance": "7m"
+    },
+    {
+      "brand": "Popeyes炸鸡·汉堡·奶昔(南翔印象城店)",
+      "address": "南翔印象城MEGA1层外街1l10b",
+      "distance": "7m"
+    },
+    {
+      "brand": "印象城烤鸭店(南翔印象城永辉超市店)",
+      "address": "南翔镇陈翔公路2299号上海南翔印象城MEGAB1层",
+      "distance": "9m"
+    },
+    {
+      "brand": "牛New寿喜烧(南翔印象城MEGA店)",
+      "address": "陈翔公路2299号南翔印象城6楼电影院旁边",
+      "distance": "9m"
+    },
+    {
+      "brand": "鱼酷活鱼烤鱼(南翔印象城店)",
+      "address": "南翔镇陈翔公路2299号3层03-15号",
+      "distance": "4m"
+    },
+    {
+      "brand": "香港美心月饼团购中心(南翔印象城店)",
+      "address": "三老园路与依仁路交叉口西北100米",
+      "distance": "6m"
+    },
+    {
+      "brand": "煲珠公·老红糖珍珠奶茶(南翔印象城店)",
+      "address": "南翔印象城B1楼19C(陈翔公路地铁站3号口步行350米)",
+      "distance": "7m"
+    },
+    {
+      "brand": "b3coffee必三咖啡(南翔印象城店)",
+      "address": "南翔镇陈翔公路2299号地下一层B1-14-B04",
+      "distance": "7m"
+    },
+    {
+      "brand": "云中鱼蒸汽石锅鱼(南翔印象城店)",
+      "address": "陈翔公路2299号(陈翔公路地铁站3号口步行330米)南翔印象城六楼",
+      "distance": "7m"
+    },
+    {
+      "brand": "桂满陇(南翔印象城)",
+      "address": "南翔印象城5层37-38号",
+      "distance": "7m"
+    },
+    {
+      "brand": "九十叶·抹茶专门店(上海·南翔印象城店)",
+      "address": "南翔镇陈翔公路2299号1层01-K9号商铺(商场内优衣库旁边)",
+      "distance": "7m"
+    },
+    {
+      "brand": "Popeyes炸鸡·汉堡·奶昔(南翔印象城店)",
+      "address": "南翔印象城MEGA1层外街1l10b",
+      "distance": "7m"
+    },
+    {
+      "brand": "印象城烤鸭店(南翔印象城永辉超市店)",
+      "address": "南翔镇陈翔公路2299号上海南翔印象城MEGAB1层",
+      "distance": "9m"
+    },
+    {
+      "brand": "牛New寿喜烧(南翔印象城MEGA店)",
+      "address": "陈翔公路2299号南翔印象城6楼电影院旁边",
+      "distance": "9m"
+    },
+    {
+      "brand": "鱼酷活鱼烤鱼(南翔印象城店)",
+      "address": "南翔镇陈翔公路2299号3层03-15号",
+      "distance": "4m"
+    },
+    {
+      "brand": "香港美心月饼团购中心(南翔印象城店)",
+      "address": "三老园路与依仁路交叉口西北100米",
+      "distance": "6m"
+    },
+    {
+      "brand": "煲珠公·老红糖珍珠奶茶(南翔印象城店)",
+      "address": "南翔印象城B1楼19C(陈翔公路地铁站3号口步行350米)",
+      "distance": "7m"
+    },
+    {
+      "brand": "b3coffee必三咖啡(南翔印象城店)",
+      "address": "南翔镇陈翔公路2299号地下一层B1-14-B04",
+      "distance": "7m"
+    },
+    {
+      "brand": "云中鱼蒸汽石锅鱼(南翔印象城店)",
+      "address": "陈翔公路2299号(陈翔公路地铁站3号口步行330米)南翔印象城六楼",
+      "distance": "7m"
+    },
+    {
+      "brand": "桂满陇(南翔印象城)",
+      "address": "南翔印象城5层37-38号",
+      "distance": "7m"
+    },
+    {
+      "brand": "九十叶·抹茶专门店(上海·南翔印象城店)",
+      "address": "南翔镇陈翔公路2299号1层01-K9号商铺(商场内优衣库旁边)",
+      "distance": "7m"
+    },
+    {
+      "brand": "Popeyes炸鸡·汉堡·奶昔(南翔印象城店)",
+      "address": "南翔印象城MEGA1层外街1l10b",
+      "distance": "7m"
+    },
+    {
+      "brand": "印象城烤鸭店(南翔印象城永辉超市店)",
+      "address": "南翔镇陈翔公路2299号上海南翔印象城MEGAB1层",
+      "distance": "9m"
+    },
+    {
+      "brand": "牛New寿喜烧(南翔印象城MEGA店)",
+      "address": "陈翔公路2299号南翔印象城6楼电影院旁边",
+      "distance": "9m"
+    },
+    {
+      "brand": "鱼酷活鱼烤鱼(南翔印象城店)",
+      "address": "南翔镇陈翔公路2299号3层03-15号",
+      "distance": "4m"
+    },
+    {
+      "brand": "香港美心月饼团购中心(南翔印象城店)",
+      "address": "三老园路与依仁路交叉口西北100米",
+      "distance": "6m"
+    },
+    {
+      "brand": "煲珠公·老红糖珍珠奶茶(南翔印象城店)",
+      "address": "南翔印象城B1楼19C(陈翔公路地铁站3号口步行350米)",
+      "distance": "7m"
+    },
+    {
+      "brand": "b3coffee必三咖啡(南翔印象城店)",
+      "address": "南翔镇陈翔公路2299号地下一层B1-14-B04",
+      "distance": "7m"
+    },
+    {
+      "brand": "云中鱼蒸汽石锅鱼(南翔印象城店)",
+      "address": "陈翔公路2299号(陈翔公路地铁站3号口步行330米)南翔印象城六楼",
+      "distance": "7m"
+    },
+    {
+      "brand": "桂满陇(南翔印象城)",
+      "address": "南翔印象城5层37-38号",
+      "distance": "7m"
+    },
+    {
+      "brand": "九十叶·抹茶专门店(上海·南翔印象城店)",
+      "address": "南翔镇陈翔公路2299号1层01-K9号商铺(商场内优衣库旁边)",
+      "distance": "7m"
+    },
+    {
+      "brand": "Popeyes炸鸡·汉堡·奶昔(南翔印象城店)",
+      "address": "南翔印象城MEGA1层外街1l10b",
+      "distance": "7m"
+    },
+    {
+      "brand": "印象城烤鸭店(南翔印象城永辉超市店)",
+      "address": "南翔镇陈翔公路2299号上海南翔印象城MEGAB1层",
+      "distance": "9m"
+    },
+    {
+      "brand": "牛New寿喜烧(南翔印象城MEGA店)",
+      "address": "陈翔公路2299号南翔印象城6楼电影院旁边",
+      "distance": "9m"
+    },
+    {
+      "brand": "鱼酷活鱼烤鱼(南翔印象城店)",
+      "address": "南翔镇陈翔公路2299号3层03-15号",
+      "distance": "4m"
+    },
+    {
+      "brand": "香港美心月饼团购中心(南翔印象城店)",
+      "address": "三老园路与依仁路交叉口西北100米",
+      "distance": "6m"
+    },
+    {
+      "brand": "煲珠公·老红糖珍珠奶茶(南翔印象城店)",
+      "address": "南翔印象城B1楼19C(陈翔公路地铁站3号口步行350米)",
+      "distance": "7m"
+    },
+    {
+      "brand": "b3coffee必三咖啡(南翔印象城店)",
+      "address": "南翔镇陈翔公路2299号地下一层B1-14-B04",
+      "distance": "7m"
+    },
+    {
+      "brand": "云中鱼蒸汽石锅鱼(南翔印象城店)",
+      "address": "陈翔公路2299号(陈翔公路地铁站3号口步行330米)南翔印象城六楼",
+      "distance": "7m"
+    },
+    {
+      "brand": "桂满陇(南翔印象城)",
+      "address": "南翔印象城5层37-38号",
+      "distance": "7m"
+    },
+    {
+      "brand": "九十叶·抹茶专门店(上海·南翔印象城店)",
+      "address": "南翔镇陈翔公路2299号1层01-K9号商铺(商场内优衣库旁边)",
+      "distance": "7m"
+    },
+    {
+      "brand": "Popeyes炸鸡·汉堡·奶昔(南翔印象城店)",
+      "address": "南翔印象城MEGA1层外街1l10b",
+      "distance": "7m"
+    },
+    {
+      "brand": "印象城烤鸭店(南翔印象城永辉超市店)",
+      "address": "南翔镇陈翔公路2299号上海南翔印象城MEGAB1层",
+      "distance": "9m"
+    },
+    {
+      "brand": "牛New寿喜烧(南翔印象城MEGA店)",
+      "address": "陈翔公路2299号南翔印象城6楼电影院旁边",
+      "distance": "9m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海南翔558商业生活广场",
+      "open_date": "2020-12-12",
+      "area": "1.2万㎡",
+      "jun_daily_avg": "2.4万人次",
+      "weekday_avg": "2.2万人次",
+      "holiday_avg": "3万人次"
+    },
+    {
+      "name": "上海华润五彩城",
+      "open_date": "2014-10-25",
+      "area": "1.6万㎡",
+      "jun_daily_avg": "2.4万人次",
+      "weekday_avg": "2.2万人次",
+      "holiday_avg": "3万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 160.0,
+      "within_1yr_pct": 26.9,
+      "1_3yr_pct": 21.3,
+      "over_3yr_pct": 51.9
+    },
+    {
+      "type": "购物",
+      "count": 168.0,
+      "within_1yr_pct": 18.5,
+      "1_3yr_pct": 16.7,
+      "over_3yr_pct": 64.9
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 21.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 19.0,
+      "over_3yr_pct": 47.6
+    },
+    {
+      "type": "教育培训",
+      "count": 7.0,
+      "within_1yr_pct": 14.3,
+      "1_3yr_pct": 42.9,
+      "over_3yr_pct": 42.9
+    },
+    {
+      "type": "酒店住宿",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "生活服务",
+      "count": 29.0,
+      "within_1yr_pct": 24.1,
+      "1_3yr_pct": 17.2,
+      "over_3yr_pct": 58.6
+    },
+    {
+      "type": "运动健身",
+      "count": 6.0,
+      "within_1yr_pct": 16.7,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 33.3
+    },
+    {
+      "type": "车辆服务",
+      "count": 25.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 32.0,
+      "over_3yr_pct": 48.0
+    }
+  ]
+}

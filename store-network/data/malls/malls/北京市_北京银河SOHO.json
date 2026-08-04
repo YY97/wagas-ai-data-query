@@ -1,0 +1,462 @@
+{
+  "name": "北京银河SOHO",
+  "city": "北京市",
+  "address": "北京市东城区南竹杆胡同2号",
+  "lat": 39.920797,
+  "lng": 116.433216,
+  "overview": {
+    "score": 92.6,
+    "score_rank": "市内前30%",
+    "population_score": 93.9,
+    "area_score": 87.0,
+    "consumption_score": 86.0,
+    "industry_score": 92.6,
+    "annual_sales": "3",
+    "annual_sales_unit": "亿元",
+    "area_size_sqm": 8.6,
+    "open_date": "2012-12-01",
+    "operator": "SOHO中国商业运营公司",
+    "brand": "SOHO中国",
+    "type": "综合型",
+    "floors": "B1-L3"
+  },
+  "traffic": {
+    "annual_daily": 2.24,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第109",
+    "jun_total": 70.7,
+    "jun_total_rank": "市内商场第140名",
+    "jun_daily_avg": 2.4,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第140名",
+    "weekday_avg": 2.6,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第115名",
+    "holiday_avg": 1.8,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第198名"
+  },
+  "population": {
+    "residential": {
+      "500m": 2.8,
+      "1_5km": 18.9,
+      "3km": 69.8
+    },
+    "office": {
+      "500m": 4.6,
+      "1_5km": 23.8,
+      "3km": 84.9
+    },
+    "permanent": {
+      "500m": 3.2,
+      "1_5km": 21.9,
+      "3km": 84.1
+    }
+  },
+  "business": {
+    "competitors": 9.0,
+    "food": 237.0,
+    "shopping": 108.0,
+    "leisure": 24.0,
+    "education": 66.0,
+    "hotel": 17.0,
+    "services": 194.0,
+    "fitness": 42.0,
+    "auto": 16.0,
+    "total_stores": 263.0,
+    "old_store_3yr_pct": 46.0
+  },
+  "nearby_poi": {
+    "business": 7.0,
+    "community": 433.0,
+    "office": 121.0,
+    "school": 42.0,
+    "hospital": 172.0,
+    "transport": 4.0,
+    "scenic": 527.0
+  },
+  "demographics": {
+    "male_pct": 47.5,
+    "female_pct": null,
+    "education": {
+      "小学": 10.1,
+      "初中": 17.4,
+      "高中": 11.1,
+      "大专": 6.5,
+      "本科": 46.7,
+      "硕士": 6.6,
+      "博士": 1.6
+    },
+    "has_children_pct": 56.5,
+    "no_children_pct": 43.5
+  },
+  "scraped_at": "2026-07-31T19:10:12.018Z",
+  "nearby_restaurants": [
+    {
+      "brand": "葛大姐私房手工馄饨水饺(银河SOHO购物中心店)",
+      "address": "南竹杆胡同2号银河SOHO购物中心1F层",
+      "distance": "0m"
+    },
+    {
+      "brand": "巴黎西饼(银河SOHO购物中心店)",
+      "address": "南竹杆胡同2号银河SOHO购物中心",
+      "distance": "1m"
+    },
+    {
+      "brand": "烩集鲜(银河SOHO店)",
+      "address": "南竹杆胡同2号银河SOHO",
+      "distance": "5m"
+    },
+    {
+      "brand": "悠悠稻香(银河SOHO购物中心店)",
+      "address": "南竹杆胡同2号银河SOHO购物中心B1F层",
+      "distance": "5m"
+    },
+    {
+      "brand": "佬十九黑鸭煲(银河SOHO购物中心店)",
+      "address": "南竹杆胡同2号银河SOHO购物中心",
+      "distance": "6m"
+    },
+    {
+      "brand": "星巴克北京银河SOHO店",
+      "address": "北京城区南竹杆胡同2号1幢-1层1-123&1-126",
+      "distance": "17m"
+    },
+    {
+      "brand": "辣千汇(银河SOHO店)",
+      "address": "南竹杆胡同2号银河SOHO",
+      "distance": "17m"
+    },
+    {
+      "brand": "魔礼花源(银河soho店)",
+      "address": "南竹杆胡同2号1幢-1层5-160",
+      "distance": "19m"
+    },
+    {
+      "brand": "无名缘米粉(银河SOHO店)",
+      "address": "北京城区南竹杆胡同2号",
+      "distance": "19m"
+    },
+    {
+      "brand": "安徽牛肉板面(奇顺美食城)",
+      "address": "南竹杆胡同2号银河SOHO购物中心B1F层",
+      "distance": "25m"
+    },
+    {
+      "brand": "葛大姐私房手工馄饨水饺(银河SOHO购物中心店)",
+      "address": "南竹杆胡同2号银河SOHO购物中心1F层",
+      "distance": "0m"
+    },
+    {
+      "brand": "巴黎西饼(银河SOHO购物中心店)",
+      "address": "南竹杆胡同2号银河SOHO购物中心",
+      "distance": "1m"
+    },
+    {
+      "brand": "烩集鲜(银河SOHO店)",
+      "address": "南竹杆胡同2号银河SOHO",
+      "distance": "5m"
+    },
+    {
+      "brand": "悠悠稻香(银河SOHO购物中心店)",
+      "address": "南竹杆胡同2号银河SOHO购物中心B1F层",
+      "distance": "5m"
+    },
+    {
+      "brand": "佬十九黑鸭煲(银河SOHO购物中心店)",
+      "address": "南竹杆胡同2号银河SOHO购物中心",
+      "distance": "6m"
+    },
+    {
+      "brand": "星巴克北京银河SOHO店",
+      "address": "北京城区南竹杆胡同2号1幢-1层1-123&1-126",
+      "distance": "17m"
+    },
+    {
+      "brand": "辣千汇(银河SOHO店)",
+      "address": "南竹杆胡同2号银河SOHO",
+      "distance": "17m"
+    },
+    {
+      "brand": "魔礼花源(银河soho店)",
+      "address": "南竹杆胡同2号1幢-1层5-160",
+      "distance": "19m"
+    },
+    {
+      "brand": "无名缘米粉(银河SOHO店)",
+      "address": "北京城区南竹杆胡同2号",
+      "distance": "19m"
+    },
+    {
+      "brand": "安徽牛肉板面(奇顺美食城)",
+      "address": "南竹杆胡同2号银河SOHO购物中心B1F层",
+      "distance": "25m"
+    },
+    {
+      "brand": "葛大姐私房手工馄饨水饺(银河SOHO购物中心店)",
+      "address": "南竹杆胡同2号银河SOHO购物中心1F层",
+      "distance": "0m"
+    },
+    {
+      "brand": "巴黎西饼(银河SOHO购物中心店)",
+      "address": "南竹杆胡同2号银河SOHO购物中心",
+      "distance": "1m"
+    },
+    {
+      "brand": "烩集鲜(银河SOHO店)",
+      "address": "南竹杆胡同2号银河SOHO",
+      "distance": "5m"
+    },
+    {
+      "brand": "悠悠稻香(银河SOHO购物中心店)",
+      "address": "南竹杆胡同2号银河SOHO购物中心B1F层",
+      "distance": "5m"
+    },
+    {
+      "brand": "佬十九黑鸭煲(银河SOHO购物中心店)",
+      "address": "南竹杆胡同2号银河SOHO购物中心",
+      "distance": "6m"
+    },
+    {
+      "brand": "星巴克北京银河SOHO店",
+      "address": "北京城区南竹杆胡同2号1幢-1层1-123&1-126",
+      "distance": "17m"
+    },
+    {
+      "brand": "辣千汇(银河SOHO店)",
+      "address": "南竹杆胡同2号银河SOHO",
+      "distance": "17m"
+    },
+    {
+      "brand": "魔礼花源(银河soho店)",
+      "address": "南竹杆胡同2号1幢-1层5-160",
+      "distance": "19m"
+    },
+    {
+      "brand": "无名缘米粉(银河SOHO店)",
+      "address": "北京城区南竹杆胡同2号",
+      "distance": "19m"
+    },
+    {
+      "brand": "安徽牛肉板面(奇顺美食城)",
+      "address": "南竹杆胡同2号银河SOHO购物中心B1F层",
+      "distance": "25m"
+    },
+    {
+      "brand": "葛大姐私房手工馄饨水饺(银河SOHO购物中心店)",
+      "address": "南竹杆胡同2号银河SOHO购物中心1F层",
+      "distance": "0m"
+    },
+    {
+      "brand": "巴黎西饼(银河SOHO购物中心店)",
+      "address": "南竹杆胡同2号银河SOHO购物中心",
+      "distance": "1m"
+    },
+    {
+      "brand": "烩集鲜(银河SOHO店)",
+      "address": "南竹杆胡同2号银河SOHO",
+      "distance": "5m"
+    },
+    {
+      "brand": "悠悠稻香(银河SOHO购物中心店)",
+      "address": "南竹杆胡同2号银河SOHO购物中心B1F层",
+      "distance": "5m"
+    },
+    {
+      "brand": "佬十九黑鸭煲(银河SOHO购物中心店)",
+      "address": "南竹杆胡同2号银河SOHO购物中心",
+      "distance": "6m"
+    },
+    {
+      "brand": "星巴克北京银河SOHO店",
+      "address": "北京城区南竹杆胡同2号1幢-1层1-123&1-126",
+      "distance": "17m"
+    },
+    {
+      "brand": "辣千汇(银河SOHO店)",
+      "address": "南竹杆胡同2号银河SOHO",
+      "distance": "17m"
+    },
+    {
+      "brand": "魔礼花源(银河soho店)",
+      "address": "南竹杆胡同2号1幢-1层5-160",
+      "distance": "19m"
+    },
+    {
+      "brand": "无名缘米粉(银河SOHO店)",
+      "address": "北京城区南竹杆胡同2号",
+      "distance": "19m"
+    },
+    {
+      "brand": "安徽牛肉板面(奇顺美食城)",
+      "address": "南竹杆胡同2号银河SOHO购物中心B1F层",
+      "distance": "25m"
+    },
+    {
+      "brand": "葛大姐私房手工馄饨水饺(银河SOHO购物中心店)",
+      "address": "南竹杆胡同2号银河SOHO购物中心1F层",
+      "distance": "0m"
+    },
+    {
+      "brand": "巴黎西饼(银河SOHO购物中心店)",
+      "address": "南竹杆胡同2号银河SOHO购物中心",
+      "distance": "1m"
+    },
+    {
+      "brand": "烩集鲜(银河SOHO店)",
+      "address": "南竹杆胡同2号银河SOHO",
+      "distance": "5m"
+    },
+    {
+      "brand": "悠悠稻香(银河SOHO购物中心店)",
+      "address": "南竹杆胡同2号银河SOHO购物中心B1F层",
+      "distance": "5m"
+    },
+    {
+      "brand": "佬十九黑鸭煲(银河SOHO购物中心店)",
+      "address": "南竹杆胡同2号银河SOHO购物中心",
+      "distance": "6m"
+    },
+    {
+      "brand": "星巴克北京银河SOHO店",
+      "address": "北京城区南竹杆胡同2号1幢-1层1-123&1-126",
+      "distance": "17m"
+    },
+    {
+      "brand": "辣千汇(银河SOHO店)",
+      "address": "南竹杆胡同2号银河SOHO",
+      "distance": "17m"
+    },
+    {
+      "brand": "魔礼花源(银河soho店)",
+      "address": "南竹杆胡同2号1幢-1层5-160",
+      "distance": "19m"
+    },
+    {
+      "brand": "无名缘米粉(银河SOHO店)",
+      "address": "北京城区南竹杆胡同2号",
+      "distance": "19m"
+    },
+    {
+      "brand": "安徽牛肉板面(奇顺美食城)",
+      "address": "南竹杆胡同2号银河SOHO购物中心B1F层",
+      "distance": "25m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "北京悠唐购物中心",
+      "open_date": "2009-04-01",
+      "area": "12万㎡",
+      "jun_daily_avg": "6.5万人次",
+      "weekday_avg": "6.4万人次",
+      "holiday_avg": "6.7万人次"
+    },
+    {
+      "name": "北京丰联广场",
+      "open_date": "1997-01-01",
+      "area": "1.6万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "北京国雅大厦",
+      "open_date": "2007-09-01",
+      "area": "2.9万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "北京THE BOX 朝外｜年轻力中心",
+      "open_date": "2023-06-10",
+      "area": "1.8万㎡",
+      "jun_daily_avg": "1.9万人次",
+      "weekday_avg": "1.6万人次",
+      "holiday_avg": "2.9万人次"
+    },
+    {
+      "name": "北京金宝汇购物中心",
+      "open_date": "2009-05-01",
+      "area": "4万㎡",
+      "jun_daily_avg": "1.3万人次",
+      "weekday_avg": "1.3万人次",
+      "holiday_avg": "1.4万人次"
+    },
+    {
+      "name": "北京侨福芳草地",
+      "open_date": "2012-09-01",
+      "area": "4.7万㎡",
+      "jun_daily_avg": "2.3万人次",
+      "weekday_avg": "2.4万人次",
+      "holiday_avg": "2.2万人次"
+    },
+    {
+      "name": "北京蓝岛大厦金隅百货",
+      "open_date": "2007-01-27",
+      "area": "1.6万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 89.0,
+      "within_1yr_pct": 34.8,
+      "1_3yr_pct": 33.7,
+      "over_3yr_pct": 31.5
+    },
+    {
+      "type": "购物",
+      "count": 34.0,
+      "within_1yr_pct": 20.6,
+      "1_3yr_pct": 20.6,
+      "over_3yr_pct": 58.8
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 11.0,
+      "within_1yr_pct": 45.5,
+      "1_3yr_pct": 36.4,
+      "over_3yr_pct": 18.2
+    },
+    {
+      "type": "教育培训",
+      "count": 39.0,
+      "within_1yr_pct": 15.4,
+      "1_3yr_pct": 23.1,
+      "over_3yr_pct": 61.5
+    },
+    {
+      "type": "酒店住宿",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    },
+    {
+      "type": "生活服务",
+      "count": 65.0,
+      "within_1yr_pct": 29.2,
+      "1_3yr_pct": 21.5,
+      "over_3yr_pct": 49.2
+    },
+    {
+      "type": "运动健身",
+      "count": 21.0,
+      "within_1yr_pct": 4.8,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 61.9
+    },
+    {
+      "type": "车辆服务",
+      "count": 3.0,
+      "within_1yr_pct": 66.7,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 33.3
+    }
+  ]
+}

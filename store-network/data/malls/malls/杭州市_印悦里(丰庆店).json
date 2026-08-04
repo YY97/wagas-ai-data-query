@@ -1,0 +1,168 @@
+{
+  "name": "印悦里(丰庆店)",
+  "city": "杭州市",
+  "address": "浙江省杭州市拱墅区浙祥符街道印悦里(丰庆店)",
+  "lat": 30.329811,
+  "lng": 120.096815,
+  "overview": {
+    "score": 81.9,
+    "score_rank": "市内前30%",
+    "population_score": 93.6,
+    "area_score": 74.9,
+    "consumption_score": 76.4,
+    "industry_score": 81.9,
+    "annual_sales": "印悦里丰庆店是杭州联华华商集团旗下的社区邻里生活中心，以提供一站式便利服务为特色。首层集中餐、茶饮咖啡、轻食小吃、珠宝饰品、生活杂货、宠物服务、服饰集合于一体，打造“灯彩食集”“丰庆生活”“四方民生”“休闲时光”四大主题楼层。二层引入儿童乐园、趣味手作、烘焙甜点等门店集群，构建起融合母婴零售、亲子娱乐、益智、教育、服务、体验为一体的亲子关怀空间。此外，印悦里丰庆店将骑楼着重打造成一个类户外灰空间，增加社交空间，提高商业体休闲属性",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 3.3,
+    "open_date": "2024-03-08",
+    "operator": "联华超市股份有限公司",
+    "brand": "",
+    "type": "综合型",
+    "floors": "L1-L4"
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "-",
+    "annual_daily_rank": "",
+    "jun_total": 9.1,
+    "jun_total_rank": "市内商场第195名",
+    "jun_daily_avg": 3027.0,
+    "jun_daily_unit": "人次",
+    "jun_daily_rank": "市内商场第195名",
+    "weekday_avg": 2617.0,
+    "weekday_unit": "人次",
+    "weekday_rank": "市内商场第200名",
+    "holiday_avg": 4151.0,
+    "holiday_unit": "人次",
+    "holiday_rank": "市内商场第189名"
+  },
+  "population": {
+    "residential": {
+      "500m": 1.9,
+      "1_5km": 12.5,
+      "3km": 48.0
+    },
+    "office": {
+      "500m": 6800.0,
+      "1_5km": 5.9,
+      "3km": 24.5
+    },
+    "permanent": {
+      "500m": 1.6,
+      "1_5km": 11.3,
+      "3km": 41.7
+    }
+  },
+  "business": {
+    "competitors": 3.0,
+    "food": 114.0,
+    "shopping": 125.0,
+    "leisure": 19.0,
+    "education": 17.0,
+    "hotel": 23.0,
+    "services": 105.0,
+    "fitness": 18.0,
+    "auto": 31.0,
+    "total_stores": 49.0,
+    "old_store_3yr_pct": 39.0
+  },
+  "nearby_poi": {
+    "business": 2.0,
+    "community": 282.0,
+    "office": 30.0,
+    "school": 26.0,
+    "hospital": 72.0,
+    "transport": 15.0,
+    "scenic": 85.0
+  },
+  "demographics": {
+    "male_pct": 45.3,
+    "female_pct": null,
+    "education": {
+      "小学": 7.6,
+      "初中": 15.7,
+      "高中": 14.9,
+      "大专": 9.8,
+      "本科": 45.8,
+      "硕士": 5.1,
+      "博士": 1.1
+    },
+    "has_children_pct": 63.4,
+    "no_children_pct": 36.6
+  },
+  "scraped_at": "2026-08-02T05:43:00.740Z",
+  "nearby_restaurants": [
+    {
+      "brand": "杂粮煎饼",
+      "address": "长阳路319号都市水乡水月苑",
+      "distance": "432m"
+    },
+    {
+      "brand": "和善园(阳光郡店)",
+      "address": "灯彩东街24号-2",
+      "distance": "449m"
+    },
+    {
+      "brand": "聚友楼(都市水乡水月苑店)",
+      "address": "长阳路319号都市水乡水月苑",
+      "distance": "452m"
+    },
+    {
+      "brand": "牛肉汤馆(长青嘉苑店)",
+      "address": "长青嘉苑",
+      "distance": "481m"
+    }
+  ],
+  "nearby_malls": [],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 14.0,
+      "within_1yr_pct": 21.4,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 28.6
+    },
+    {
+      "type": "购物",
+      "count": 18.0,
+      "within_1yr_pct": 11.1,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 55.6
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 5.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 60.0,
+      "over_3yr_pct": 20.0
+    },
+    {
+      "type": "教育培训",
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "生活服务",
+      "count": 3.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 66.7
+    },
+    {
+      "type": "运动健身",
+      "count": 5.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 60.0,
+      "over_3yr_pct": 20.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 50.0
+    }
+  ]
+}

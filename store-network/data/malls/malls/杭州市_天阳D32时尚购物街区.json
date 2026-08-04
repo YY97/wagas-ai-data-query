@@ -1,0 +1,425 @@
+{
+  "name": "天阳D32时尚购物街区",
+  "city": "杭州市",
+  "address": "浙江省杭州市上城区解放东路8号(市民中心地铁站L口步行100米)",
+  "lat": 30.241885,
+  "lng": 120.214146,
+  "overview": {
+    "score": 80.6,
+    "score_rank": "市内前30%",
+    "population_score": 64.9,
+    "area_score": 87.3,
+    "consumption_score": 60.0,
+    "industry_score": 80.7,
+    "annual_sales": "杭州砂之船奥特莱斯位于钱江新城核心区，是砂之船集团打造的旗舰项目，拥有可使用停车位逾2000个，集合OUTLETS广场，辅以欧式风情街景、特色美食、主题影院、儿童服饰区等，拥有国际国内知名服饰品牌200余家",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 4.5,
+    "open_date": "2011-06-14",
+    "operator": "砂之船商业管理集团有限公司",
+    "brand": "砂之船商业管理集团有限公司",
+    "type": "购物型",
+    "floors": "B1-L1"
+  },
+  "traffic": {
+    "annual_daily": 2.06,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第66",
+    "jun_total": 92.6,
+    "jun_total_rank": "市内商场第58名",
+    "jun_daily_avg": 3.1,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第58名",
+    "weekday_avg": 2.6,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第65名",
+    "holiday_avg": 4.5,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第48名"
+  },
+  "population": {
+    "residential": {
+      "500m": 1900.0,
+      "1_5km": 5.7,
+      "3km": 31.2
+    },
+    "office": {
+      "500m": 2.5,
+      "1_5km": 10.7,
+      "3km": 29.7
+    },
+    "permanent": {
+      "500m": 8500.0,
+      "1_5km": 7.2,
+      "3km": 33.4
+    }
+  },
+  "business": {
+    "competitors": 17.0,
+    "food": 252.0,
+    "shopping": 285.0,
+    "leisure": 21.0,
+    "education": 21.0,
+    "hotel": 19.0,
+    "services": 138.0,
+    "fitness": 17.0,
+    "auto": 37.0,
+    "total_stores": 172.0,
+    "old_store_3yr_pct": 52.0
+  },
+  "nearby_poi": {
+    "business": 5.0,
+    "community": 272.0,
+    "office": 61.0,
+    "school": 14.0,
+    "hospital": 100.0,
+    "transport": 9.0,
+    "scenic": 110.0
+  },
+  "demographics": {
+    "male_pct": 46.4,
+    "female_pct": null,
+    "education": {
+      "小学": 9.9,
+      "初中": 18.4,
+      "高中": 12.3,
+      "大专": 8.1,
+      "本科": 45.0,
+      "硕士": 5.2,
+      "博士": 1.1
+    },
+    "has_children_pct": 58.6,
+    "no_children_pct": 41.4
+  },
+  "scraped_at": "2026-08-02T09:10:18.776Z",
+  "nearby_restaurants": [
+    {
+      "brand": "LuckHaHa好运椰(杭州钱江万达)",
+      "address": "四季青街道解放东路8号砂之船国际生活广场负一楼天鹅街088号",
+      "distance": "19m"
+    },
+    {
+      "brand": "鲜目录中国寿司(砂之船奥特莱斯广场解放东路店)",
+      "address": "解放东路与公园路交叉口东北220米",
+      "distance": "41m"
+    },
+    {
+      "brand": "MIRABELL(砂之船奥特莱斯广场解放东路店)",
+      "address": "解放东路8号砂之船国际生活广场",
+      "distance": "51m"
+    },
+    {
+      "brand": "爷爷不泡茶NOYEYENOTEA(杭州砂之船奥特莱斯店)",
+      "address": "解放东路8号波浪文化城商业中心天鹅街B-L1-24",
+      "distance": "68m"
+    },
+    {
+      "brand": "1点点(砂之船国际生活广场店)",
+      "address": "解放路砂之船生活广场地下一层",
+      "distance": "107m"
+    },
+    {
+      "brand": "星巴克咖啡",
+      "address": "解放东路8号砂之船国际生活广场B1层",
+      "distance": "110m"
+    },
+    {
+      "brand": "星巴克杭州砂之船店",
+      "address": "解放东路6号",
+      "distance": "114m"
+    },
+    {
+      "brand": "围炉锅盔(砂之船国际生活广场店)",
+      "address": "解放东路8号砂之船国际生活广场(市民中心地铁站K口旁)",
+      "distance": "115m"
+    },
+    {
+      "brand": "职工3食堂",
+      "address": "解放东路8号砂之船国际生活广场",
+      "distance": "122m"
+    },
+    {
+      "brand": "肯德基(杭州砂之船奥莱店)",
+      "address": "四季青街道解放东路8号砂之船奥特莱斯人马街030号",
+      "distance": "122m"
+    },
+    {
+      "brand": "LuckHaHa好运椰(杭州钱江万达)",
+      "address": "四季青街道解放东路8号砂之船国际生活广场负一楼天鹅街088号",
+      "distance": "19m"
+    },
+    {
+      "brand": "鲜目录中国寿司(砂之船奥特莱斯广场解放东路店)",
+      "address": "解放东路与公园路交叉口东北220米",
+      "distance": "41m"
+    },
+    {
+      "brand": "MIRABELL(砂之船奥特莱斯广场解放东路店)",
+      "address": "解放东路8号砂之船国际生活广场",
+      "distance": "51m"
+    },
+    {
+      "brand": "爷爷不泡茶NOYEYENOTEA(杭州砂之船奥特莱斯店)",
+      "address": "解放东路8号波浪文化城商业中心天鹅街B-L1-24",
+      "distance": "68m"
+    },
+    {
+      "brand": "1点点(砂之船国际生活广场店)",
+      "address": "解放路砂之船生活广场地下一层",
+      "distance": "107m"
+    },
+    {
+      "brand": "星巴克咖啡",
+      "address": "解放东路8号砂之船国际生活广场B1层",
+      "distance": "110m"
+    },
+    {
+      "brand": "星巴克杭州砂之船店",
+      "address": "解放东路6号",
+      "distance": "114m"
+    },
+    {
+      "brand": "围炉锅盔(砂之船国际生活广场店)",
+      "address": "解放东路8号砂之船国际生活广场(市民中心地铁站K口旁)",
+      "distance": "115m"
+    },
+    {
+      "brand": "职工3食堂",
+      "address": "解放东路8号砂之船国际生活广场",
+      "distance": "122m"
+    },
+    {
+      "brand": "肯德基(杭州砂之船奥莱店)",
+      "address": "四季青街道解放东路8号砂之船奥特莱斯人马街030号",
+      "distance": "122m"
+    },
+    {
+      "brand": "LuckHaHa好运椰(杭州钱江万达)",
+      "address": "四季青街道解放东路8号砂之船国际生活广场负一楼天鹅街088号",
+      "distance": "19m"
+    },
+    {
+      "brand": "鲜目录中国寿司(砂之船奥特莱斯广场解放东路店)",
+      "address": "解放东路与公园路交叉口东北220米",
+      "distance": "41m"
+    },
+    {
+      "brand": "MIRABELL(砂之船奥特莱斯广场解放东路店)",
+      "address": "解放东路8号砂之船国际生活广场",
+      "distance": "51m"
+    },
+    {
+      "brand": "爷爷不泡茶NOYEYENOTEA(杭州砂之船奥特莱斯店)",
+      "address": "解放东路8号波浪文化城商业中心天鹅街B-L1-24",
+      "distance": "68m"
+    },
+    {
+      "brand": "1点点(砂之船国际生活广场店)",
+      "address": "解放路砂之船生活广场地下一层",
+      "distance": "107m"
+    },
+    {
+      "brand": "星巴克咖啡",
+      "address": "解放东路8号砂之船国际生活广场B1层",
+      "distance": "110m"
+    },
+    {
+      "brand": "星巴克杭州砂之船店",
+      "address": "解放东路6号",
+      "distance": "114m"
+    },
+    {
+      "brand": "围炉锅盔(砂之船国际生活广场店)",
+      "address": "解放东路8号砂之船国际生活广场(市民中心地铁站K口旁)",
+      "distance": "115m"
+    },
+    {
+      "brand": "职工3食堂",
+      "address": "解放东路8号砂之船国际生活广场",
+      "distance": "122m"
+    },
+    {
+      "brand": "肯德基(杭州砂之船奥莱店)",
+      "address": "四季青街道解放东路8号砂之船奥特莱斯人马街030号",
+      "distance": "122m"
+    },
+    {
+      "brand": "LuckHaHa好运椰(杭州钱江万达)",
+      "address": "四季青街道解放东路8号砂之船国际生活广场负一楼天鹅街088号",
+      "distance": "19m"
+    },
+    {
+      "brand": "鲜目录中国寿司(砂之船奥特莱斯广场解放东路店)",
+      "address": "解放东路与公园路交叉口东北220米",
+      "distance": "41m"
+    },
+    {
+      "brand": "MIRABELL(砂之船奥特莱斯广场解放东路店)",
+      "address": "解放东路8号砂之船国际生活广场",
+      "distance": "51m"
+    },
+    {
+      "brand": "爷爷不泡茶NOYEYENOTEA(杭州砂之船奥特莱斯店)",
+      "address": "解放东路8号波浪文化城商业中心天鹅街B-L1-24",
+      "distance": "68m"
+    },
+    {
+      "brand": "1点点(砂之船国际生活广场店)",
+      "address": "解放路砂之船生活广场地下一层",
+      "distance": "107m"
+    },
+    {
+      "brand": "星巴克咖啡",
+      "address": "解放东路8号砂之船国际生活广场B1层",
+      "distance": "110m"
+    },
+    {
+      "brand": "星巴克杭州砂之船店",
+      "address": "解放东路6号",
+      "distance": "114m"
+    },
+    {
+      "brand": "围炉锅盔(砂之船国际生活广场店)",
+      "address": "解放东路8号砂之船国际生活广场(市民中心地铁站K口旁)",
+      "distance": "115m"
+    },
+    {
+      "brand": "职工3食堂",
+      "address": "解放东路8号砂之船国际生活广场",
+      "distance": "122m"
+    },
+    {
+      "brand": "肯德基(杭州砂之船奥莱店)",
+      "address": "四季青街道解放东路8号砂之船奥特莱斯人马街030号",
+      "distance": "122m"
+    },
+    {
+      "brand": "LuckHaHa好运椰(杭州钱江万达)",
+      "address": "四季青街道解放东路8号砂之船国际生活广场负一楼天鹅街088号",
+      "distance": "19m"
+    },
+    {
+      "brand": "鲜目录中国寿司(砂之船奥特莱斯广场解放东路店)",
+      "address": "解放东路与公园路交叉口东北220米",
+      "distance": "41m"
+    },
+    {
+      "brand": "MIRABELL(砂之船奥特莱斯广场解放东路店)",
+      "address": "解放东路8号砂之船国际生活广场",
+      "distance": "51m"
+    },
+    {
+      "brand": "爷爷不泡茶NOYEYENOTEA(杭州砂之船奥特莱斯店)",
+      "address": "解放东路8号波浪文化城商业中心天鹅街B-L1-24",
+      "distance": "68m"
+    },
+    {
+      "brand": "1点点(砂之船国际生活广场店)",
+      "address": "解放路砂之船生活广场地下一层",
+      "distance": "107m"
+    },
+    {
+      "brand": "星巴克咖啡",
+      "address": "解放东路8号砂之船国际生活广场B1层",
+      "distance": "110m"
+    },
+    {
+      "brand": "星巴克杭州砂之船店",
+      "address": "解放东路6号",
+      "distance": "114m"
+    },
+    {
+      "brand": "围炉锅盔(砂之船国际生活广场店)",
+      "address": "解放东路8号砂之船国际生活广场(市民中心地铁站K口旁)",
+      "distance": "115m"
+    },
+    {
+      "brand": "职工3食堂",
+      "address": "解放东路8号砂之船国际生活广场",
+      "distance": "122m"
+    },
+    {
+      "brand": "肯德基(杭州砂之船奥莱店)",
+      "address": "四季青街道解放东路8号砂之船奥特莱斯人马街030号",
+      "distance": "122m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "杭州来福士广场",
+      "open_date": "2017-11-24",
+      "area": "7.5万㎡",
+      "jun_daily_avg": "6万人次",
+      "weekday_avg": "5.6万人次",
+      "holiday_avg": "7万人次"
+    },
+    {
+      "name": "杭州高德置地广场",
+      "open_date": "2020-10-01",
+      "area": "10万㎡",
+      "jun_daily_avg": "2万人次",
+      "weekday_avg": "2.2万人次",
+      "holiday_avg": "1.5万人次"
+    },
+    {
+      "name": "杭州平安悦坊PACE LIVING",
+      "open_date": "2019-04-01",
+      "area": "2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "杭州万象城",
+      "open_date": "2010-04-07",
+      "area": "18万㎡",
+      "jun_daily_avg": "6.6万人次",
+      "weekday_avg": "6.1万人次",
+      "holiday_avg": "8.2万人次"
+    },
+    {
+      "name": "杭州中纺中心",
+      "open_date": "2009-10-20",
+      "area": "10万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 18.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 16.7,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "购物",
+      "count": 144.0,
+      "within_1yr_pct": 23.6,
+      "1_3yr_pct": 23.6,
+      "over_3yr_pct": 52.8
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 5.0,
+      "within_1yr_pct": 60.0,
+      "1_3yr_pct": 20.0,
+      "over_3yr_pct": 20.0
+    },
+    {
+      "type": "生活服务",
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 3.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 66.7
+    }
+  ]
+}

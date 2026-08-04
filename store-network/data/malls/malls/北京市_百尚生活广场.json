@@ -1,0 +1,177 @@
+{
+  "name": "百尚生活广场",
+  "city": "北京市",
+  "address": "北京市通州区马驹桥兴华中街潼关三区9号楼",
+  "lat": 39.753974,
+  "lng": 116.544373,
+  "overview": {
+    "score": 87.8,
+    "score_rank": "市内前30%",
+    "population_score": 93.1,
+    "area_score": 81.9,
+    "consumption_score": 65.6,
+    "industry_score": 87.8,
+    "annual_sales": "北京百尚生活广场位于北京市通州区马驹桥镇潼关三区，是一个面向周边居民的社区型商场，主要经营百货和超市。商场总经营面积达3万平方米，汇集了近300个国际国内知名品牌，商品达4万余种",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 3.0,
+    "open_date": "2009-01-01",
+    "operator": "北京百尚家和商贸有限公司",
+    "brand": "",
+    "type": "综合型",
+    "floors": "B2-L3"
+  },
+  "traffic": {
+    "annual_daily": 1.04,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第208",
+    "jun_total": 47.8,
+    "jun_total_rank": "市内商场第193名",
+    "jun_daily_avg": 1.6,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第193名",
+    "weekday_avg": 1.5,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第197名",
+    "holiday_avg": 2.0,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第177名"
+  },
+  "population": {
+    "residential": {
+      "500m": 2.6,
+      "1_5km": 17.8,
+      "3km": 30.1
+    },
+    "office": {
+      "500m": 8300.0,
+      "1_5km": 5.5,
+      "3km": 16.5
+    },
+    "permanent": {
+      "500m": 2.5,
+      "1_5km": 15.0,
+      "3km": 25.0
+    }
+  },
+  "business": {
+    "competitors": 2.0,
+    "food": 204.0,
+    "shopping": 155.0,
+    "leisure": 13.0,
+    "education": 18.0,
+    "hotel": 19.0,
+    "services": 140.0,
+    "fitness": 14.0,
+    "auto": 15.0,
+    "total_stores": 114.0,
+    "old_store_3yr_pct": 63.0
+  },
+  "nearby_poi": {
+    "business": 1.0,
+    "community": 64.0,
+    "office": 7.0,
+    "school": 24.0,
+    "hospital": 16.0,
+    "transport": 8.0,
+    "scenic": 28.0
+  },
+  "demographics": {
+    "male_pct": 51.6,
+    "female_pct": null,
+    "education": {
+      "小学": 11.7,
+      "初中": 19.0,
+      "高中": 11.8,
+      "大专": 10.1,
+      "本科": 43.0,
+      "硕士": 3.8,
+      "博士": 0.6
+    },
+    "has_children_pct": 59.4,
+    "no_children_pct": 40.6
+  },
+  "scraped_at": "2026-08-01T11:27:22.468Z",
+  "nearby_restaurants": [
+    {
+      "brand": "巴都府卤味火锅(马驹桥店)",
+      "address": "北京城区中心一路与兴华中街交叉口北250米",
+      "distance": "487m"
+    },
+    {
+      "brand": "老味熟食",
+      "address": "神龙辛屯小区西北门西南200米",
+      "distance": "488m"
+    },
+    {
+      "brand": "晋香源家常菜",
+      "address": "兴华中街与马桥西路交叉口西180米",
+      "distance": "489m"
+    },
+    {
+      "brand": "乡村名厨烧烤城(分店)",
+      "address": "北京城区神龙餐饮一条街",
+      "distance": "495m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "金马商场(兴华中街店)",
+      "open_date": "-",
+      "area": "-",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 54.0,
+      "within_1yr_pct": 18.5,
+      "1_3yr_pct": 20.4,
+      "over_3yr_pct": 61.1
+    },
+    {
+      "type": "购物",
+      "count": 46.0,
+      "within_1yr_pct": 6.5,
+      "1_3yr_pct": 19.6,
+      "over_3yr_pct": 73.9
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 1.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 2.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "生活服务",
+      "count": 8.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "运动健身",
+      "count": 2.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 1.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
+    }
+  ]
+}

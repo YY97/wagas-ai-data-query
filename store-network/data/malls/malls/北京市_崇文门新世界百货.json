@@ -1,0 +1,462 @@
+{
+  "name": "崇文门新世界百货",
+  "city": "北京市",
+  "address": "北京市东城区崇文门外大街29号",
+  "lat": 39.897082,
+  "lng": 116.419583,
+  "overview": {
+    "score": 95.0,
+    "score_rank": "市内前30%",
+    "population_score": 97.2,
+    "area_score": 100.0,
+    "consumption_score": 87.9,
+    "industry_score": 95.0,
+    "annual_sales": "5",
+    "annual_sales_unit": "亿元",
+    "area_size_sqm": 7.0,
+    "open_date": "1998-01-01",
+    "operator": "新世界发展有限公司",
+    "brand": "新世界",
+    "type": "购物型",
+    "floors": "B1-L5"
+  },
+  "traffic": {
+    "annual_daily": 4.17,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第34",
+    "jun_total": 152.2,
+    "jun_total_rank": "市内商场第47名",
+    "jun_daily_avg": 5.1,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第47名",
+    "weekday_avg": 4.9,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第40名",
+    "holiday_avg": 5.6,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第60名"
+  },
+  "population": {
+    "residential": {
+      "500m": 3.4,
+      "1_5km": 17.7,
+      "3km": 57.1
+    },
+    "office": {
+      "500m": 3.3,
+      "1_5km": 18.3,
+      "3km": 52.4
+    },
+    "permanent": {
+      "500m": 4.2,
+      "1_5km": 21.9,
+      "3km": 68.2
+    }
+  },
+  "business": {
+    "competitors": 13.0,
+    "food": 438.0,
+    "shopping": 523.0,
+    "leisure": 66.0,
+    "education": 81.0,
+    "hotel": 80.0,
+    "services": 334.0,
+    "fitness": 62.0,
+    "auto": 27.0,
+    "total_stores": 435.0,
+    "old_store_3yr_pct": 53.0
+  },
+  "nearby_poi": {
+    "business": 7.0,
+    "community": 323.0,
+    "office": 83.0,
+    "school": 38.0,
+    "hospital": 119.0,
+    "transport": 15.0,
+    "scenic": 773.0
+  },
+  "demographics": {
+    "male_pct": 47.2,
+    "female_pct": null,
+    "education": {
+      "小学": 10.3,
+      "初中": 17.4,
+      "高中": 11.2,
+      "大专": 6.5,
+      "本科": 46.1,
+      "硕士": 6.6,
+      "博士": 1.9
+    },
+    "has_children_pct": 58.6,
+    "no_children_pct": 41.4
+  },
+  "scraped_at": "2026-08-01T04:49:18.971Z",
+  "nearby_restaurants": [
+    {
+      "brand": "久久丫鸭脖(崇文门新世界百货店)",
+      "address": "崇文门新世界百货一层西门便利店内",
+      "distance": "9m"
+    },
+    {
+      "brand": "水果先生现榨纯果汁(新世界百货崇文门店1期店)",
+      "address": "崇文门外大街3-5号新世界1期L2层",
+      "distance": "9m"
+    },
+    {
+      "brand": "太二酸菜鱼(北京崇文门新世界店)",
+      "address": "崇文门外大街3号新世界购物中心5层023号商铺5楼",
+      "distance": "11m"
+    },
+    {
+      "brand": "松鹤楼面馆(新世界百货崇文门店)",
+      "address": "北京城区崇文门外大街3-5号新世界百货(崇文店)综合馆5F层",
+      "distance": "13m"
+    },
+    {
+      "brand": "江边城外烤全鱼(新世界1期店)",
+      "address": "大街3-5新世界综合馆新世界百货五层",
+      "distance": "19m"
+    },
+    {
+      "brand": "季源溪(新世界百货崇文门店)",
+      "address": "崇文门外大街3新世界百货崇文门店L5层",
+      "distance": "19m"
+    },
+    {
+      "brand": "辛胖仔老北京冰糖葫芦(崇文门新世界百货店)",
+      "address": "崇文门外大街3新世界百货崇文门店B1层",
+      "distance": "23m"
+    },
+    {
+      "brand": "糕糕手作店(崇文门新世界百货1期店)",
+      "address": "崇文门外大街辅路与东打磨厂街交叉口西南120米",
+      "distance": "25m"
+    },
+    {
+      "brand": "口福小吃(崇文门新世界百货1期店)",
+      "address": "崇文门外大街3-5号新世界1期B1层",
+      "distance": "27m"
+    },
+    {
+      "brand": "森隆饭庄(崇文门新世界百货1期店)",
+      "address": "崇文门外大街新世界一期百货4-5层",
+      "distance": "34m"
+    },
+    {
+      "brand": "久久丫鸭脖(崇文门新世界百货店)",
+      "address": "崇文门新世界百货一层西门便利店内",
+      "distance": "9m"
+    },
+    {
+      "brand": "水果先生现榨纯果汁(新世界百货崇文门店1期店)",
+      "address": "崇文门外大街3-5号新世界1期L2层",
+      "distance": "9m"
+    },
+    {
+      "brand": "太二酸菜鱼(北京崇文门新世界店)",
+      "address": "崇文门外大街3号新世界购物中心5层023号商铺5楼",
+      "distance": "11m"
+    },
+    {
+      "brand": "松鹤楼面馆(新世界百货崇文门店)",
+      "address": "北京城区崇文门外大街3-5号新世界百货(崇文店)综合馆5F层",
+      "distance": "13m"
+    },
+    {
+      "brand": "江边城外烤全鱼(新世界1期店)",
+      "address": "大街3-5新世界综合馆新世界百货五层",
+      "distance": "19m"
+    },
+    {
+      "brand": "季源溪(新世界百货崇文门店)",
+      "address": "崇文门外大街3新世界百货崇文门店L5层",
+      "distance": "19m"
+    },
+    {
+      "brand": "辛胖仔老北京冰糖葫芦(崇文门新世界百货店)",
+      "address": "崇文门外大街3新世界百货崇文门店B1层",
+      "distance": "23m"
+    },
+    {
+      "brand": "糕糕手作店(崇文门新世界百货1期店)",
+      "address": "崇文门外大街辅路与东打磨厂街交叉口西南120米",
+      "distance": "25m"
+    },
+    {
+      "brand": "口福小吃(崇文门新世界百货1期店)",
+      "address": "崇文门外大街3-5号新世界1期B1层",
+      "distance": "27m"
+    },
+    {
+      "brand": "森隆饭庄(崇文门新世界百货1期店)",
+      "address": "崇文门外大街新世界一期百货4-5层",
+      "distance": "34m"
+    },
+    {
+      "brand": "久久丫鸭脖(崇文门新世界百货店)",
+      "address": "崇文门新世界百货一层西门便利店内",
+      "distance": "9m"
+    },
+    {
+      "brand": "水果先生现榨纯果汁(新世界百货崇文门店1期店)",
+      "address": "崇文门外大街3-5号新世界1期L2层",
+      "distance": "9m"
+    },
+    {
+      "brand": "太二酸菜鱼(北京崇文门新世界店)",
+      "address": "崇文门外大街3号新世界购物中心5层023号商铺5楼",
+      "distance": "11m"
+    },
+    {
+      "brand": "松鹤楼面馆(新世界百货崇文门店)",
+      "address": "北京城区崇文门外大街3-5号新世界百货(崇文店)综合馆5F层",
+      "distance": "13m"
+    },
+    {
+      "brand": "江边城外烤全鱼(新世界1期店)",
+      "address": "大街3-5新世界综合馆新世界百货五层",
+      "distance": "19m"
+    },
+    {
+      "brand": "季源溪(新世界百货崇文门店)",
+      "address": "崇文门外大街3新世界百货崇文门店L5层",
+      "distance": "19m"
+    },
+    {
+      "brand": "辛胖仔老北京冰糖葫芦(崇文门新世界百货店)",
+      "address": "崇文门外大街3新世界百货崇文门店B1层",
+      "distance": "23m"
+    },
+    {
+      "brand": "糕糕手作店(崇文门新世界百货1期店)",
+      "address": "崇文门外大街辅路与东打磨厂街交叉口西南120米",
+      "distance": "25m"
+    },
+    {
+      "brand": "口福小吃(崇文门新世界百货1期店)",
+      "address": "崇文门外大街3-5号新世界1期B1层",
+      "distance": "27m"
+    },
+    {
+      "brand": "森隆饭庄(崇文门新世界百货1期店)",
+      "address": "崇文门外大街新世界一期百货4-5层",
+      "distance": "34m"
+    },
+    {
+      "brand": "久久丫鸭脖(崇文门新世界百货店)",
+      "address": "崇文门新世界百货一层西门便利店内",
+      "distance": "9m"
+    },
+    {
+      "brand": "水果先生现榨纯果汁(新世界百货崇文门店1期店)",
+      "address": "崇文门外大街3-5号新世界1期L2层",
+      "distance": "9m"
+    },
+    {
+      "brand": "太二酸菜鱼(北京崇文门新世界店)",
+      "address": "崇文门外大街3号新世界购物中心5层023号商铺5楼",
+      "distance": "11m"
+    },
+    {
+      "brand": "松鹤楼面馆(新世界百货崇文门店)",
+      "address": "北京城区崇文门外大街3-5号新世界百货(崇文店)综合馆5F层",
+      "distance": "13m"
+    },
+    {
+      "brand": "江边城外烤全鱼(新世界1期店)",
+      "address": "大街3-5新世界综合馆新世界百货五层",
+      "distance": "19m"
+    },
+    {
+      "brand": "季源溪(新世界百货崇文门店)",
+      "address": "崇文门外大街3新世界百货崇文门店L5层",
+      "distance": "19m"
+    },
+    {
+      "brand": "辛胖仔老北京冰糖葫芦(崇文门新世界百货店)",
+      "address": "崇文门外大街3新世界百货崇文门店B1层",
+      "distance": "23m"
+    },
+    {
+      "brand": "糕糕手作店(崇文门新世界百货1期店)",
+      "address": "崇文门外大街辅路与东打磨厂街交叉口西南120米",
+      "distance": "25m"
+    },
+    {
+      "brand": "口福小吃(崇文门新世界百货1期店)",
+      "address": "崇文门外大街3-5号新世界1期B1层",
+      "distance": "27m"
+    },
+    {
+      "brand": "森隆饭庄(崇文门新世界百货1期店)",
+      "address": "崇文门外大街新世界一期百货4-5层",
+      "distance": "34m"
+    },
+    {
+      "brand": "久久丫鸭脖(崇文门新世界百货店)",
+      "address": "崇文门新世界百货一层西门便利店内",
+      "distance": "9m"
+    },
+    {
+      "brand": "水果先生现榨纯果汁(新世界百货崇文门店1期店)",
+      "address": "崇文门外大街3-5号新世界1期L2层",
+      "distance": "9m"
+    },
+    {
+      "brand": "太二酸菜鱼(北京崇文门新世界店)",
+      "address": "崇文门外大街3号新世界购物中心5层023号商铺5楼",
+      "distance": "11m"
+    },
+    {
+      "brand": "松鹤楼面馆(新世界百货崇文门店)",
+      "address": "北京城区崇文门外大街3-5号新世界百货(崇文店)综合馆5F层",
+      "distance": "13m"
+    },
+    {
+      "brand": "江边城外烤全鱼(新世界1期店)",
+      "address": "大街3-5新世界综合馆新世界百货五层",
+      "distance": "19m"
+    },
+    {
+      "brand": "季源溪(新世界百货崇文门店)",
+      "address": "崇文门外大街3新世界百货崇文门店L5层",
+      "distance": "19m"
+    },
+    {
+      "brand": "辛胖仔老北京冰糖葫芦(崇文门新世界百货店)",
+      "address": "崇文门外大街3新世界百货崇文门店B1层",
+      "distance": "23m"
+    },
+    {
+      "brand": "糕糕手作店(崇文门新世界百货1期店)",
+      "address": "崇文门外大街辅路与东打磨厂街交叉口西南120米",
+      "distance": "25m"
+    },
+    {
+      "brand": "口福小吃(崇文门新世界百货1期店)",
+      "address": "崇文门外大街3-5号新世界1期B1层",
+      "distance": "27m"
+    },
+    {
+      "brand": "森隆饭庄(崇文门新世界百货1期店)",
+      "address": "崇文门外大街新世界一期百货4-5层",
+      "distance": "34m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "合景·摩方(北京店)",
+      "open_date": "2008-10-11",
+      "area": "3.9万㎡",
+      "jun_daily_avg": "1.9万人次",
+      "weekday_avg": "1.8万人次",
+      "holiday_avg": "2万人次"
+    },
+    {
+      "name": "北京国瑞购物中心",
+      "open_date": "2024-06-09",
+      "area": "13万㎡",
+      "jun_daily_avg": "4万人次",
+      "weekday_avg": "3.8万人次",
+      "holiday_avg": "4.5万人次"
+    },
+    {
+      "name": "北京新活馆",
+      "open_date": "2012-10-01",
+      "area": "4万㎡",
+      "jun_daily_avg": "1.8万人次",
+      "weekday_avg": "1.8万人次",
+      "holiday_avg": "2万人次"
+    },
+    {
+      "name": "北京东方新天地",
+      "open_date": "2000-09-01",
+      "area": "12万㎡",
+      "jun_daily_avg": "5.4万人次",
+      "weekday_avg": "5.4万人次",
+      "holiday_avg": "5.2万人次"
+    },
+    {
+      "name": "北京红桥市场",
+      "open_date": "1987-01-01",
+      "area": "5万㎡",
+      "jun_daily_avg": "1.2万人次",
+      "weekday_avg": "1.1万人次",
+      "holiday_avg": "1.4万人次"
+    },
+    {
+      "name": "王府井喜悦购物中心",
+      "open_date": "2023-12-30",
+      "area": "7万㎡",
+      "jun_daily_avg": "6.1万人次",
+      "weekday_avg": "5.2万人次",
+      "holiday_avg": "8.5万人次"
+    },
+    {
+      "name": "北京王府井工美大厦",
+      "open_date": "1996-07-01",
+      "area": "2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 68.0,
+      "within_1yr_pct": 22.1,
+      "1_3yr_pct": 30.9,
+      "over_3yr_pct": 47.1
+    },
+    {
+      "type": "购物",
+      "count": 249.0,
+      "within_1yr_pct": 20.9,
+      "1_3yr_pct": 21.3,
+      "over_3yr_pct": 57.8
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 16.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 12.5,
+      "over_3yr_pct": 37.5
+    },
+    {
+      "type": "教育培训",
+      "count": 17.0,
+      "within_1yr_pct": 23.5,
+      "1_3yr_pct": 17.6,
+      "over_3yr_pct": 58.8
+    },
+    {
+      "type": "酒店住宿",
+      "count": 10.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 40.0,
+      "over_3yr_pct": 40.0
+    },
+    {
+      "type": "生活服务",
+      "count": 53.0,
+      "within_1yr_pct": 32.1,
+      "1_3yr_pct": 20.8,
+      "over_3yr_pct": 47.2
+    },
+    {
+      "type": "运动健身",
+      "count": 19.0,
+      "within_1yr_pct": 31.6,
+      "1_3yr_pct": 26.3,
+      "over_3yr_pct": 42.1
+    },
+    {
+      "type": "车辆服务",
+      "count": 3.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 66.7,
+      "over_3yr_pct": 0.0
+    }
+  ]
+}

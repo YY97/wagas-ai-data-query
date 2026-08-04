@@ -1,0 +1,415 @@
+{
+  "name": "复地活力城",
+  "city": "上海市",
+  "address": "上海市浦东新区御桥路2152号",
+  "lat": 31.158263,
+  "lng": 121.57463,
+  "overview": {
+    "score": 96.0,
+    "score_rank": "市内前30%",
+    "population_score": 76.9,
+    "area_score": 85.2,
+    "consumption_score": 83.1,
+    "industry_score": 96.1,
+    "annual_sales": "上海复地活力城是复星集团旗下的商业项目，位于浦东北蔡地区，致力于为周边消费群打造一个全能的都市生活体，填补区域一站式商业消费空白。项目引入了盒马鲜生、CITY MART城市集市、CGV影院、星聚会KTV、一兆韦德、西西弗书店等主力店，以及超200个各类型当红潮流品牌",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 10.92,
+    "open_date": "2019-12-20",
+    "operator": "上海复地产业发展集团有限公司",
+    "brand": "豫园股份",
+    "type": "综合型",
+    "floors": "B1-L5"
+  },
+  "traffic": {
+    "annual_daily": 4.46,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第41",
+    "jun_total": 224.0,
+    "jun_total_rank": "市内商场第22名",
+    "jun_daily_avg": 7.5,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第22名",
+    "weekday_avg": 6.4,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第29名",
+    "holiday_avg": 10.3,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第15名"
+  },
+  "population": {
+    "residential": {
+      "500m": 1.3,
+      "1_5km": 12.1,
+      "3km": 43.7
+    },
+    "office": {
+      "500m": 1.8,
+      "1_5km": 6.9,
+      "3km": 19.1
+    },
+    "permanent": {
+      "500m": 1.9,
+      "1_5km": 11.6,
+      "3km": 41.8
+    }
+  },
+  "business": {
+    "competitors": 4.0,
+    "food": 132.0,
+    "shopping": 175.0,
+    "leisure": 24.0,
+    "education": 36.0,
+    "hotel": 2.0,
+    "services": 91.0,
+    "fitness": 21.0,
+    "auto": 41.0,
+    "total_stores": 249.0,
+    "old_store_3yr_pct": 53.0
+  },
+  "nearby_poi": {
+    "business": 2.0,
+    "community": 207.0,
+    "office": 32.0,
+    "school": 18.0,
+    "hospital": 31.0,
+    "transport": 4.0,
+    "scenic": 37.0
+  },
+  "demographics": {
+    "male_pct": 48.4,
+    "female_pct": null,
+    "education": {
+      "小学": 9.4,
+      "初中": 17.9,
+      "高中": 12.3,
+      "大专": 7.9,
+      "本科": 45.5,
+      "硕士": 5.7,
+      "博士": 1.3
+    },
+    "has_children_pct": 62.8,
+    "no_children_pct": 37.2
+  },
+  "scraped_at": "2026-08-01T04:37:31.966Z",
+  "nearby_restaurants": [
+    {
+      "brand": "赵记传承·中式甜品(上海复地活力城店)",
+      "address": "北蔡镇沪南路2229号复地活力城B1015赵记传承",
+      "distance": "8m"
+    },
+    {
+      "brand": "旧村·砂锅焗海鲜(复地活力城店)",
+      "address": "沪南路2229号复地活力城L4层L4013、L4014、L4015",
+      "distance": "10m"
+    },
+    {
+      "brand": "罗宋千礼·罗宋面包(复地活力城店)",
+      "address": "沪南路2229号复地活力城B1层B1014",
+      "distance": "15m"
+    },
+    {
+      "brand": "云中鱼蒸汽石锅鱼(复地活力城店)",
+      "address": "沪南路2229号复地活力城L5层",
+      "distance": "16m"
+    },
+    {
+      "brand": "姚稷大铁锅(复地活力城店)",
+      "address": "沪南路2229号复地活力城L5层L5016",
+      "distance": "17m"
+    },
+    {
+      "brand": "很久以前羊肉串(复地活力城店)",
+      "address": "沪南路2229号复地活力城4层L4016号商铺",
+      "distance": "21m"
+    },
+    {
+      "brand": "西贝(复地活力城店)(暂停营业)",
+      "address": "沪南路2229号复地活力城L5层L5011、L5012",
+      "distance": "21m"
+    },
+    {
+      "brand": "1点点(复地活力城店)",
+      "address": "沪南路2229号复地活力城",
+      "distance": "21m"
+    },
+    {
+      "brand": "塔哈尔(复地活力城店)",
+      "address": "沪南路2229号复地活力城4F塔L4011、L4012-2",
+      "distance": "23m"
+    },
+    {
+      "brand": "秦䩊会·陕西biangbiang面(复地活力城店)",
+      "address": "沪南路2229号复地活力城B1层",
+      "distance": "24m"
+    },
+    {
+      "brand": "赵记传承·中式甜品(上海复地活力城店)",
+      "address": "北蔡镇沪南路2229号复地活力城B1015赵记传承",
+      "distance": "8m"
+    },
+    {
+      "brand": "旧村·砂锅焗海鲜(复地活力城店)",
+      "address": "沪南路2229号复地活力城L4层L4013、L4014、L4015",
+      "distance": "10m"
+    },
+    {
+      "brand": "罗宋千礼·罗宋面包(复地活力城店)",
+      "address": "沪南路2229号复地活力城B1层B1014",
+      "distance": "15m"
+    },
+    {
+      "brand": "云中鱼蒸汽石锅鱼(复地活力城店)",
+      "address": "沪南路2229号复地活力城L5层",
+      "distance": "16m"
+    },
+    {
+      "brand": "姚稷大铁锅(复地活力城店)",
+      "address": "沪南路2229号复地活力城L5层L5016",
+      "distance": "17m"
+    },
+    {
+      "brand": "很久以前羊肉串(复地活力城店)",
+      "address": "沪南路2229号复地活力城4层L4016号商铺",
+      "distance": "21m"
+    },
+    {
+      "brand": "西贝(复地活力城店)(暂停营业)",
+      "address": "沪南路2229号复地活力城L5层L5011、L5012",
+      "distance": "21m"
+    },
+    {
+      "brand": "1点点(复地活力城店)",
+      "address": "沪南路2229号复地活力城",
+      "distance": "21m"
+    },
+    {
+      "brand": "塔哈尔(复地活力城店)",
+      "address": "沪南路2229号复地活力城4F塔L4011、L4012-2",
+      "distance": "23m"
+    },
+    {
+      "brand": "秦䩊会·陕西biangbiang面(复地活力城店)",
+      "address": "沪南路2229号复地活力城B1层",
+      "distance": "24m"
+    },
+    {
+      "brand": "赵记传承·中式甜品(上海复地活力城店)",
+      "address": "北蔡镇沪南路2229号复地活力城B1015赵记传承",
+      "distance": "8m"
+    },
+    {
+      "brand": "旧村·砂锅焗海鲜(复地活力城店)",
+      "address": "沪南路2229号复地活力城L4层L4013、L4014、L4015",
+      "distance": "10m"
+    },
+    {
+      "brand": "罗宋千礼·罗宋面包(复地活力城店)",
+      "address": "沪南路2229号复地活力城B1层B1014",
+      "distance": "15m"
+    },
+    {
+      "brand": "云中鱼蒸汽石锅鱼(复地活力城店)",
+      "address": "沪南路2229号复地活力城L5层",
+      "distance": "16m"
+    },
+    {
+      "brand": "姚稷大铁锅(复地活力城店)",
+      "address": "沪南路2229号复地活力城L5层L5016",
+      "distance": "17m"
+    },
+    {
+      "brand": "很久以前羊肉串(复地活力城店)",
+      "address": "沪南路2229号复地活力城4层L4016号商铺",
+      "distance": "21m"
+    },
+    {
+      "brand": "西贝(复地活力城店)(暂停营业)",
+      "address": "沪南路2229号复地活力城L5层L5011、L5012",
+      "distance": "21m"
+    },
+    {
+      "brand": "1点点(复地活力城店)",
+      "address": "沪南路2229号复地活力城",
+      "distance": "21m"
+    },
+    {
+      "brand": "塔哈尔(复地活力城店)",
+      "address": "沪南路2229号复地活力城4F塔L4011、L4012-2",
+      "distance": "23m"
+    },
+    {
+      "brand": "秦䩊会·陕西biangbiang面(复地活力城店)",
+      "address": "沪南路2229号复地活力城B1层",
+      "distance": "24m"
+    },
+    {
+      "brand": "赵记传承·中式甜品(上海复地活力城店)",
+      "address": "北蔡镇沪南路2229号复地活力城B1015赵记传承",
+      "distance": "8m"
+    },
+    {
+      "brand": "旧村·砂锅焗海鲜(复地活力城店)",
+      "address": "沪南路2229号复地活力城L4层L4013、L4014、L4015",
+      "distance": "10m"
+    },
+    {
+      "brand": "罗宋千礼·罗宋面包(复地活力城店)",
+      "address": "沪南路2229号复地活力城B1层B1014",
+      "distance": "15m"
+    },
+    {
+      "brand": "云中鱼蒸汽石锅鱼(复地活力城店)",
+      "address": "沪南路2229号复地活力城L5层",
+      "distance": "16m"
+    },
+    {
+      "brand": "姚稷大铁锅(复地活力城店)",
+      "address": "沪南路2229号复地活力城L5层L5016",
+      "distance": "17m"
+    },
+    {
+      "brand": "很久以前羊肉串(复地活力城店)",
+      "address": "沪南路2229号复地活力城4层L4016号商铺",
+      "distance": "21m"
+    },
+    {
+      "brand": "西贝(复地活力城店)(暂停营业)",
+      "address": "沪南路2229号复地活力城L5层L5011、L5012",
+      "distance": "21m"
+    },
+    {
+      "brand": "1点点(复地活力城店)",
+      "address": "沪南路2229号复地活力城",
+      "distance": "21m"
+    },
+    {
+      "brand": "塔哈尔(复地活力城店)",
+      "address": "沪南路2229号复地活力城4F塔L4011、L4012-2",
+      "distance": "23m"
+    },
+    {
+      "brand": "秦䩊会·陕西biangbiang面(复地活力城店)",
+      "address": "沪南路2229号复地活力城B1层",
+      "distance": "24m"
+    },
+    {
+      "brand": "赵记传承·中式甜品(上海复地活力城店)",
+      "address": "北蔡镇沪南路2229号复地活力城B1015赵记传承",
+      "distance": "8m"
+    },
+    {
+      "brand": "旧村·砂锅焗海鲜(复地活力城店)",
+      "address": "沪南路2229号复地活力城L4层L4013、L4014、L4015",
+      "distance": "10m"
+    },
+    {
+      "brand": "罗宋千礼·罗宋面包(复地活力城店)",
+      "address": "沪南路2229号复地活力城B1层B1014",
+      "distance": "15m"
+    },
+    {
+      "brand": "云中鱼蒸汽石锅鱼(复地活力城店)",
+      "address": "沪南路2229号复地活力城L5层",
+      "distance": "16m"
+    },
+    {
+      "brand": "姚稷大铁锅(复地活力城店)",
+      "address": "沪南路2229号复地活力城L5层L5016",
+      "distance": "17m"
+    },
+    {
+      "brand": "很久以前羊肉串(复地活力城店)",
+      "address": "沪南路2229号复地活力城4层L4016号商铺",
+      "distance": "21m"
+    },
+    {
+      "brand": "西贝(复地活力城店)(暂停营业)",
+      "address": "沪南路2229号复地活力城L5层L5011、L5012",
+      "distance": "21m"
+    },
+    {
+      "brand": "1点点(复地活力城店)",
+      "address": "沪南路2229号复地活力城",
+      "distance": "21m"
+    },
+    {
+      "brand": "塔哈尔(复地活力城店)",
+      "address": "沪南路2229号复地活力城4F塔L4011、L4012-2",
+      "distance": "23m"
+    },
+    {
+      "brand": "秦䩊会·陕西biangbiang面(复地活力城店)",
+      "address": "沪南路2229号复地活力城B1层",
+      "distance": "24m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海百联东郊购物中心",
+      "open_date": "-",
+      "area": "-",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海THE hood开新里",
+      "open_date": "2015-07-18",
+      "area": "1.5万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 97.0,
+      "within_1yr_pct": 10.3,
+      "1_3yr_pct": 33.0,
+      "over_3yr_pct": 56.7
+    },
+    {
+      "type": "购物",
+      "count": 80.0,
+      "within_1yr_pct": 16.3,
+      "1_3yr_pct": 26.3,
+      "over_3yr_pct": 57.5
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 14.0,
+      "within_1yr_pct": 21.4,
+      "1_3yr_pct": 28.6,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "教育培训",
+      "count": 9.0,
+      "within_1yr_pct": 44.4,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 55.6
+    },
+    {
+      "type": "生活服务",
+      "count": 25.0,
+      "within_1yr_pct": 32.0,
+      "1_3yr_pct": 28.0,
+      "over_3yr_pct": 40.0
+    },
+    {
+      "type": "运动健身",
+      "count": 10.0,
+      "within_1yr_pct": 30.0,
+      "1_3yr_pct": 60.0,
+      "over_3yr_pct": 10.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 14.0,
+      "within_1yr_pct": 35.7,
+      "1_3yr_pct": 14.3,
+      "over_3yr_pct": 50.0
+    }
+  ]
+}

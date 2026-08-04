@@ -1,0 +1,486 @@
+{
+  "name": "上海汇联商厦",
+  "city": "上海市",
+  "address": "上海市徐汇区徐家汇街道尊园",
+  "lat": 31.191272,
+  "lng": 121.43982,
+  "overview": {
+    "score": 88.6,
+    "score_rank": "市内前30%",
+    "population_score": 96.1,
+    "area_score": 100.0,
+    "consumption_score": 87.3,
+    "industry_score": 88.5,
+    "annual_sales": "",
+    "annual_sales_unit": "",
+    "area_size_sqm": null,
+    "open_date": "",
+    "operator": "",
+    "brand": "",
+    "type": "",
+    "floors": ""
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "",
+    "annual_daily_rank": "",
+    "jun_total": null,
+    "jun_total_rank": "",
+    "jun_daily_avg": null,
+    "jun_daily_unit": "",
+    "jun_daily_rank": "",
+    "weekday_avg": null,
+    "weekday_unit": "",
+    "weekday_rank": "",
+    "holiday_avg": null,
+    "holiday_unit": "",
+    "holiday_rank": ""
+  },
+  "population": {
+    "residential": {
+      "500m": 3.1,
+      "1_5km": 26.9,
+      "3km": 95.5
+    },
+    "office": {
+      "500m": 5.3,
+      "1_5km": 25.5,
+      "3km": 80.6
+    },
+    "permanent": {
+      "500m": 5.6,
+      "1_5km": 31.2,
+      "3km": 105.3
+    }
+  },
+  "business": {
+    "competitors": 22.0,
+    "food": 589.0,
+    "shopping": 561.0,
+    "leisure": 75.0,
+    "education": 107.0,
+    "hotel": 68.0,
+    "services": 451.0,
+    "fitness": 59.0,
+    "auto": 32.0,
+    "total_stores": 1958.0,
+    "old_store_3yr_pct": 47.0
+  },
+  "nearby_poi": {
+    "business": 15.0,
+    "community": 1061.0,
+    "office": 144.0,
+    "school": 73.0,
+    "hospital": 150.0,
+    "transport": 12.0,
+    "scenic": 366.0
+  },
+  "demographics": {
+    "male_pct": 47.4,
+    "female_pct": null,
+    "education": {
+      "小学": 8.1,
+      "初中": 15.5,
+      "高中": 11.6,
+      "大专": 6.6,
+      "本科": 49.4,
+      "硕士": 6.7,
+      "博士": 2.1
+    },
+    "has_children_pct": null,
+    "no_children_pct": null
+  },
+  "scraped_at": "2026-07-31T16:46:09.934Z",
+  "nearby_restaurants": [
+    {
+      "brand": "星巴克(中金国际广场店)",
+      "address": "漕溪北路331号中金国际广场A座1层03",
+      "distance": "61m"
+    },
+    {
+      "brand": "星巴克沿街取餐点(中金国际广场店)",
+      "address": "星巴克(中金国际广场店)",
+      "distance": "99m"
+    },
+    {
+      "brand": "真光路鸡公煲",
+      "address": "漕溪北路99弄之1-3号尊园",
+      "distance": "99m"
+    },
+    {
+      "brand": "迪拜阿拉伯餐厅(航空科技大厦店)",
+      "address": "漕溪北路45号航空科技大厦F2层",
+      "distance": "106m"
+    },
+    {
+      "brand": "周黑鸭(上海地铁徐家汇店)",
+      "address": "徐家汇地铁站9-112商铺靠地铁1号线11号口",
+      "distance": "107m"
+    },
+    {
+      "brand": "Tims天好咖啡(美罗城店)",
+      "address": "漕溪北路45号",
+      "distance": "116m"
+    },
+    {
+      "brand": "玖集小食堂(美罗城店)",
+      "address": "漕溪北路45号航空科技大厦F1层",
+      "distance": "116m"
+    },
+    {
+      "brand": "MAKAN(迪拜餐厅店)",
+      "address": "漕溪北路45号2楼(徐家汇地铁站9号口步行170米)",
+      "distance": "119m"
+    },
+    {
+      "brand": "逸匠关东煮牛肉饭(漕溪北路店)",
+      "address": "中金国际广场B楼(徐家汇地铁站出入口步行110米)",
+      "distance": "123m"
+    },
+    {
+      "brand": "肖四女乐山跷脚牛肉",
+      "address": "漕溪北路339号百脑汇B1层0Y02室",
+      "distance": "133m"
+    },
+    {
+      "brand": "星巴克(中金国际广场店)",
+      "address": "漕溪北路331号中金国际广场A座1层03",
+      "distance": "61m"
+    },
+    {
+      "brand": "星巴克沿街取餐点(中金国际广场店)",
+      "address": "星巴克(中金国际广场店)",
+      "distance": "99m"
+    },
+    {
+      "brand": "真光路鸡公煲",
+      "address": "漕溪北路99弄之1-3号尊园",
+      "distance": "99m"
+    },
+    {
+      "brand": "迪拜阿拉伯餐厅(航空科技大厦店)",
+      "address": "漕溪北路45号航空科技大厦F2层",
+      "distance": "106m"
+    },
+    {
+      "brand": "周黑鸭(上海地铁徐家汇店)",
+      "address": "徐家汇地铁站9-112商铺靠地铁1号线11号口",
+      "distance": "107m"
+    },
+    {
+      "brand": "Tims天好咖啡(美罗城店)",
+      "address": "漕溪北路45号",
+      "distance": "116m"
+    },
+    {
+      "brand": "玖集小食堂(美罗城店)",
+      "address": "漕溪北路45号航空科技大厦F1层",
+      "distance": "116m"
+    },
+    {
+      "brand": "MAKAN(迪拜餐厅店)",
+      "address": "漕溪北路45号2楼(徐家汇地铁站9号口步行170米)",
+      "distance": "119m"
+    },
+    {
+      "brand": "逸匠关东煮牛肉饭(漕溪北路店)",
+      "address": "中金国际广场B楼(徐家汇地铁站出入口步行110米)",
+      "distance": "123m"
+    },
+    {
+      "brand": "肖四女乐山跷脚牛肉",
+      "address": "漕溪北路339号百脑汇B1层0Y02室",
+      "distance": "133m"
+    },
+    {
+      "brand": "星巴克(中金国际广场店)",
+      "address": "漕溪北路331号中金国际广场A座1层03",
+      "distance": "61m"
+    },
+    {
+      "brand": "星巴克沿街取餐点(中金国际广场店)",
+      "address": "星巴克(中金国际广场店)",
+      "distance": "99m"
+    },
+    {
+      "brand": "真光路鸡公煲",
+      "address": "漕溪北路99弄之1-3号尊园",
+      "distance": "99m"
+    },
+    {
+      "brand": "迪拜阿拉伯餐厅(航空科技大厦店)",
+      "address": "漕溪北路45号航空科技大厦F2层",
+      "distance": "106m"
+    },
+    {
+      "brand": "周黑鸭(上海地铁徐家汇店)",
+      "address": "徐家汇地铁站9-112商铺靠地铁1号线11号口",
+      "distance": "107m"
+    },
+    {
+      "brand": "Tims天好咖啡(美罗城店)",
+      "address": "漕溪北路45号",
+      "distance": "116m"
+    },
+    {
+      "brand": "玖集小食堂(美罗城店)",
+      "address": "漕溪北路45号航空科技大厦F1层",
+      "distance": "116m"
+    },
+    {
+      "brand": "MAKAN(迪拜餐厅店)",
+      "address": "漕溪北路45号2楼(徐家汇地铁站9号口步行170米)",
+      "distance": "119m"
+    },
+    {
+      "brand": "逸匠关东煮牛肉饭(漕溪北路店)",
+      "address": "中金国际广场B楼(徐家汇地铁站出入口步行110米)",
+      "distance": "123m"
+    },
+    {
+      "brand": "肖四女乐山跷脚牛肉",
+      "address": "漕溪北路339号百脑汇B1层0Y02室",
+      "distance": "133m"
+    },
+    {
+      "brand": "星巴克(中金国际广场店)",
+      "address": "漕溪北路331号中金国际广场A座1层03",
+      "distance": "61m"
+    },
+    {
+      "brand": "星巴克沿街取餐点(中金国际广场店)",
+      "address": "星巴克(中金国际广场店)",
+      "distance": "99m"
+    },
+    {
+      "brand": "真光路鸡公煲",
+      "address": "漕溪北路99弄之1-3号尊园",
+      "distance": "99m"
+    },
+    {
+      "brand": "迪拜阿拉伯餐厅(航空科技大厦店)",
+      "address": "漕溪北路45号航空科技大厦F2层",
+      "distance": "106m"
+    },
+    {
+      "brand": "周黑鸭(上海地铁徐家汇店)",
+      "address": "徐家汇地铁站9-112商铺靠地铁1号线11号口",
+      "distance": "107m"
+    },
+    {
+      "brand": "Tims天好咖啡(美罗城店)",
+      "address": "漕溪北路45号",
+      "distance": "116m"
+    },
+    {
+      "brand": "玖集小食堂(美罗城店)",
+      "address": "漕溪北路45号航空科技大厦F1层",
+      "distance": "116m"
+    },
+    {
+      "brand": "MAKAN(迪拜餐厅店)",
+      "address": "漕溪北路45号2楼(徐家汇地铁站9号口步行170米)",
+      "distance": "119m"
+    },
+    {
+      "brand": "逸匠关东煮牛肉饭(漕溪北路店)",
+      "address": "中金国际广场B楼(徐家汇地铁站出入口步行110米)",
+      "distance": "123m"
+    },
+    {
+      "brand": "肖四女乐山跷脚牛肉",
+      "address": "漕溪北路339号百脑汇B1层0Y02室",
+      "distance": "133m"
+    },
+    {
+      "brand": "星巴克(中金国际广场店)",
+      "address": "漕溪北路331号中金国际广场A座1层03",
+      "distance": "61m"
+    },
+    {
+      "brand": "星巴克沿街取餐点(中金国际广场店)",
+      "address": "星巴克(中金国际广场店)",
+      "distance": "99m"
+    },
+    {
+      "brand": "真光路鸡公煲",
+      "address": "漕溪北路99弄之1-3号尊园",
+      "distance": "99m"
+    },
+    {
+      "brand": "迪拜阿拉伯餐厅(航空科技大厦店)",
+      "address": "漕溪北路45号航空科技大厦F2层",
+      "distance": "106m"
+    },
+    {
+      "brand": "周黑鸭(上海地铁徐家汇店)",
+      "address": "徐家汇地铁站9-112商铺靠地铁1号线11号口",
+      "distance": "107m"
+    },
+    {
+      "brand": "Tims天好咖啡(美罗城店)",
+      "address": "漕溪北路45号",
+      "distance": "116m"
+    },
+    {
+      "brand": "玖集小食堂(美罗城店)",
+      "address": "漕溪北路45号航空科技大厦F1层",
+      "distance": "116m"
+    },
+    {
+      "brand": "MAKAN(迪拜餐厅店)",
+      "address": "漕溪北路45号2楼(徐家汇地铁站9号口步行170米)",
+      "distance": "119m"
+    },
+    {
+      "brand": "逸匠关东煮牛肉饭(漕溪北路店)",
+      "address": "中金国际广场B楼(徐家汇地铁站出入口步行110米)",
+      "distance": "123m"
+    },
+    {
+      "brand": "肖四女乐山跷脚牛肉",
+      "address": "漕溪北路339号百脑汇B1层0Y02室",
+      "distance": "133m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海美罗城",
+      "open_date": "1998-01-01",
+      "area": "6.7万㎡",
+      "jun_daily_avg": "6.5万人次",
+      "weekday_avg": "5.7万人次",
+      "holiday_avg": "8.7万人次"
+    },
+    {
+      "name": "上海徐家汇TPY中心",
+      "open_date": "2024-04-30",
+      "area": "1.5万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海汇联商厦",
+      "open_date": "1991-07-18",
+      "area": "1.3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海城开YOYO",
+      "open_date": "2018-09-30",
+      "area": "1.4万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海东方商厦(旗舰店)",
+      "open_date": "1993-01-01",
+      "area": "9万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海永新坊",
+      "open_date": "2007-12-01",
+      "area": "1.2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海腾飞广场",
+      "open_date": "2009-01-01",
+      "area": "1.3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海港汇恒隆广场",
+      "open_date": "1999-12-28",
+      "area": "7万㎡",
+      "jun_daily_avg": "6.3万人次",
+      "weekday_avg": "6.2万人次",
+      "holiday_avg": "6.7万人次"
+    },
+    {
+      "name": "上海汇金百货(徐汇店)",
+      "open_date": "1998-09-01",
+      "area": "4万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海TWO ITC",
+      "open_date": "2019-01-01",
+      "area": "3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 589.0,
+      "within_1yr_pct": 24.8,
+      "1_3yr_pct": 28.9,
+      "over_3yr_pct": 46.3
+    },
+    {
+      "type": "购物",
+      "count": 561.0,
+      "within_1yr_pct": 20.7,
+      "1_3yr_pct": 21.0,
+      "over_3yr_pct": 58.3
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 91.0,
+      "within_1yr_pct": 37.4,
+      "1_3yr_pct": 33.0,
+      "over_3yr_pct": 29.7
+    },
+    {
+      "type": "教育培训",
+      "count": 107.0,
+      "within_1yr_pct": 21.5,
+      "1_3yr_pct": 29.0,
+      "over_3yr_pct": 49.5
+    },
+    {
+      "type": "酒店住宿",
+      "count": 68.0,
+      "within_1yr_pct": 45.6,
+      "1_3yr_pct": 14.7,
+      "over_3yr_pct": 39.7
+    },
+    {
+      "type": "生活服务",
+      "count": 451.0,
+      "within_1yr_pct": 27.9,
+      "1_3yr_pct": 32.6,
+      "over_3yr_pct": 39.5
+    },
+    {
+      "type": "运动健身",
+      "count": 59.0,
+      "within_1yr_pct": 23.7,
+      "1_3yr_pct": 28.8,
+      "over_3yr_pct": 47.5
+    },
+    {
+      "type": "车辆服务",
+      "count": 32.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 31.3,
+      "over_3yr_pct": 43.8
+    }
+  ]
+}

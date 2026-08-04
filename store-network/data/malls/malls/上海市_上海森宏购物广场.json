@@ -1,0 +1,454 @@
+{
+  "name": "上海森宏购物广场",
+  "city": "上海市",
+  "address": "上海市浦东新区长清路1200弄(灵岩南路地铁站3号口步行370米)",
+  "lat": 31.149288,
+  "lng": 121.492142,
+  "overview": {
+    "score": 89.7,
+    "score_rank": "市内前30%",
+    "population_score": 82.1,
+    "area_score": 69.6,
+    "consumption_score": 76.9,
+    "industry_score": 89.9,
+    "annual_sales": "森宏购物广场位于上海市浦东新区长清路，一幢多层商场、一幢高层商务办公楼共同组成城市快速干道内环线和外环线与基地距离均在1.5-6公里内，无论客运或货运交通都十分便捷一期，已入驻大润发、海澜湾渔港大酒店、汤连得浴场、肯德基、西安印象、康师傅牛肉面、宝岛眼镜、以纯、达芙妮、大通旅游、可诺丹婷美容、谭木匠、森蜂园等商户二期商务楼，3-16层为4.5米层高、户户通煤气，兼具居住和办公功能的LOFT办公楼560套，已对外售馨（销售均价4万/平米），90%办公入住率地下2层车库1层商业配套，已有星巴克、味多美面包房、快乐小孩海洋之星儿童游乐园、金果教育培训商户入驻三期影视娱乐休闲中心，涵盖影院、娱乐、健身、文化休闲于一体，已招商完成",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 5.0,
+    "open_date": "2010-01-01",
+    "operator": "上海浦阳置业有限公司",
+    "brand": "",
+    "type": "休闲娱乐型",
+    "floors": "B1-L3"
+  },
+  "traffic": {
+    "annual_daily": 1.55,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第172",
+    "jun_total": 52.3,
+    "jun_total_rank": "市内商场第205名",
+    "jun_daily_avg": 1.7,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第205名",
+    "weekday_avg": 1.6,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第207名",
+    "holiday_avg": 2.0,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第209名"
+  },
+  "population": {
+    "residential": {
+      "500m": 1.8,
+      "1_5km": 19.1,
+      "3km": 56.3
+    },
+    "office": {
+      "500m": 6600.0,
+      "1_5km": 11.3,
+      "3km": 27.3
+    },
+    "permanent": {
+      "500m": 1.9,
+      "1_5km": 20.5,
+      "3km": 57.1
+    }
+  },
+  "business": {
+    "competitors": 2.0,
+    "food": 84.0,
+    "shopping": 79.0,
+    "leisure": 9.0,
+    "education": 20.0,
+    "hotel": 12.0,
+    "services": 139.0,
+    "fitness": 28.0,
+    "auto": 17.0,
+    "total_stores": 216.0,
+    "old_store_3yr_pct": 46.0
+  },
+  "nearby_poi": {
+    "business": 6.0,
+    "community": 287.0,
+    "office": 29.0,
+    "school": 19.0,
+    "hospital": 35.0,
+    "transport": 10.0,
+    "scenic": 112.0
+  },
+  "demographics": {
+    "male_pct": 47.2,
+    "female_pct": null,
+    "education": {
+      "小学": 9.4,
+      "初中": 17.5,
+      "高中": 11.0,
+      "大专": 7.8,
+      "本科": 47.1,
+      "硕士": 5.6,
+      "博士": 1.6
+    },
+    "has_children_pct": 63.3,
+    "no_children_pct": 36.7
+  },
+  "scraped_at": "2026-07-31T16:41:02.108Z",
+  "nearby_restaurants": [
+    {
+      "brand": "瑞幸咖啡(森宏购物广场店)",
+      "address": "长清路1200号森宏购物广场F1层大润发1056号",
+      "distance": "75m"
+    },
+    {
+      "brand": "萨莉亚意式餐厅(森宏购物广场店)",
+      "address": "长清路1200弄森宏购物广场F1",
+      "distance": "84m"
+    },
+    {
+      "brand": "潮阔茶室棋牌(上海大润发店)",
+      "address": "长清路1200弄大润发北门入口一层",
+      "distance": "88m"
+    },
+    {
+      "brand": "过路人饭团(森宏购物广场店)",
+      "address": "三林镇长清路1200弄1号森宏购物广场一层10063-1051",
+      "distance": "90m"
+    },
+    {
+      "brand": "老乡鸡(上海三林大润发店)",
+      "address": "长清路1200弄1号大润发1层",
+      "distance": "103m"
+    },
+    {
+      "brand": "沪上阿姨·精选茶饮(上海浦东三林大润发店)",
+      "address": "长清路1200弄1-32号1层10063-1013号商铺",
+      "distance": "105m"
+    },
+    {
+      "brand": "沪咖·鲜果咖啡(森宏广场店)",
+      "address": "长清路1200号1号1层18号",
+      "distance": "106m"
+    },
+    {
+      "brand": "蜀风小火锅(三林大润发店)",
+      "address": "长清路1200弄2号大润发三林店一楼",
+      "distance": "119m"
+    },
+    {
+      "brand": "谷田稻香(浦东森宏广场店)",
+      "address": "长清路1200号大润发1层",
+      "distance": "125m"
+    },
+    {
+      "brand": "1+1朝鲜族烤肉(浦东长清店)",
+      "address": "长清路1200弄森宏购物广场",
+      "distance": "131m"
+    },
+    {
+      "brand": "瑞幸咖啡(森宏购物广场店)",
+      "address": "长清路1200号森宏购物广场F1层大润发1056号",
+      "distance": "75m"
+    },
+    {
+      "brand": "萨莉亚意式餐厅(森宏购物广场店)",
+      "address": "长清路1200弄森宏购物广场F1",
+      "distance": "84m"
+    },
+    {
+      "brand": "潮阔茶室棋牌(上海大润发店)",
+      "address": "长清路1200弄大润发北门入口一层",
+      "distance": "88m"
+    },
+    {
+      "brand": "过路人饭团(森宏购物广场店)",
+      "address": "三林镇长清路1200弄1号森宏购物广场一层10063-1051",
+      "distance": "90m"
+    },
+    {
+      "brand": "老乡鸡(上海三林大润发店)",
+      "address": "长清路1200弄1号大润发1层",
+      "distance": "103m"
+    },
+    {
+      "brand": "沪上阿姨·精选茶饮(上海浦东三林大润发店)",
+      "address": "长清路1200弄1-32号1层10063-1013号商铺",
+      "distance": "105m"
+    },
+    {
+      "brand": "沪咖·鲜果咖啡(森宏广场店)",
+      "address": "长清路1200号1号1层18号",
+      "distance": "106m"
+    },
+    {
+      "brand": "蜀风小火锅(三林大润发店)",
+      "address": "长清路1200弄2号大润发三林店一楼",
+      "distance": "119m"
+    },
+    {
+      "brand": "谷田稻香(浦东森宏广场店)",
+      "address": "长清路1200号大润发1层",
+      "distance": "125m"
+    },
+    {
+      "brand": "1+1朝鲜族烤肉(浦东长清店)",
+      "address": "长清路1200弄森宏购物广场",
+      "distance": "131m"
+    },
+    {
+      "brand": "瑞幸咖啡(森宏购物广场店)",
+      "address": "长清路1200号森宏购物广场F1层大润发1056号",
+      "distance": "75m"
+    },
+    {
+      "brand": "萨莉亚意式餐厅(森宏购物广场店)",
+      "address": "长清路1200弄森宏购物广场F1",
+      "distance": "84m"
+    },
+    {
+      "brand": "潮阔茶室棋牌(上海大润发店)",
+      "address": "长清路1200弄大润发北门入口一层",
+      "distance": "88m"
+    },
+    {
+      "brand": "过路人饭团(森宏购物广场店)",
+      "address": "三林镇长清路1200弄1号森宏购物广场一层10063-1051",
+      "distance": "90m"
+    },
+    {
+      "brand": "老乡鸡(上海三林大润发店)",
+      "address": "长清路1200弄1号大润发1层",
+      "distance": "103m"
+    },
+    {
+      "brand": "沪上阿姨·精选茶饮(上海浦东三林大润发店)",
+      "address": "长清路1200弄1-32号1层10063-1013号商铺",
+      "distance": "105m"
+    },
+    {
+      "brand": "沪咖·鲜果咖啡(森宏广场店)",
+      "address": "长清路1200号1号1层18号",
+      "distance": "106m"
+    },
+    {
+      "brand": "蜀风小火锅(三林大润发店)",
+      "address": "长清路1200弄2号大润发三林店一楼",
+      "distance": "119m"
+    },
+    {
+      "brand": "谷田稻香(浦东森宏广场店)",
+      "address": "长清路1200号大润发1层",
+      "distance": "125m"
+    },
+    {
+      "brand": "1+1朝鲜族烤肉(浦东长清店)",
+      "address": "长清路1200弄森宏购物广场",
+      "distance": "131m"
+    },
+    {
+      "brand": "瑞幸咖啡(森宏购物广场店)",
+      "address": "长清路1200号森宏购物广场F1层大润发1056号",
+      "distance": "75m"
+    },
+    {
+      "brand": "萨莉亚意式餐厅(森宏购物广场店)",
+      "address": "长清路1200弄森宏购物广场F1",
+      "distance": "84m"
+    },
+    {
+      "brand": "潮阔茶室棋牌(上海大润发店)",
+      "address": "长清路1200弄大润发北门入口一层",
+      "distance": "88m"
+    },
+    {
+      "brand": "过路人饭团(森宏购物广场店)",
+      "address": "三林镇长清路1200弄1号森宏购物广场一层10063-1051",
+      "distance": "90m"
+    },
+    {
+      "brand": "老乡鸡(上海三林大润发店)",
+      "address": "长清路1200弄1号大润发1层",
+      "distance": "103m"
+    },
+    {
+      "brand": "沪上阿姨·精选茶饮(上海浦东三林大润发店)",
+      "address": "长清路1200弄1-32号1层10063-1013号商铺",
+      "distance": "105m"
+    },
+    {
+      "brand": "沪咖·鲜果咖啡(森宏广场店)",
+      "address": "长清路1200号1号1层18号",
+      "distance": "106m"
+    },
+    {
+      "brand": "蜀风小火锅(三林大润发店)",
+      "address": "长清路1200弄2号大润发三林店一楼",
+      "distance": "119m"
+    },
+    {
+      "brand": "谷田稻香(浦东森宏广场店)",
+      "address": "长清路1200号大润发1层",
+      "distance": "125m"
+    },
+    {
+      "brand": "1+1朝鲜族烤肉(浦东长清店)",
+      "address": "长清路1200弄森宏购物广场",
+      "distance": "131m"
+    },
+    {
+      "brand": "瑞幸咖啡(森宏购物广场店)",
+      "address": "长清路1200号森宏购物广场F1层大润发1056号",
+      "distance": "75m"
+    },
+    {
+      "brand": "萨莉亚意式餐厅(森宏购物广场店)",
+      "address": "长清路1200弄森宏购物广场F1",
+      "distance": "84m"
+    },
+    {
+      "brand": "潮阔茶室棋牌(上海大润发店)",
+      "address": "长清路1200弄大润发北门入口一层",
+      "distance": "88m"
+    },
+    {
+      "brand": "过路人饭团(森宏购物广场店)",
+      "address": "三林镇长清路1200弄1号森宏购物广场一层10063-1051",
+      "distance": "90m"
+    },
+    {
+      "brand": "老乡鸡(上海三林大润发店)",
+      "address": "长清路1200弄1号大润发1层",
+      "distance": "103m"
+    },
+    {
+      "brand": "沪上阿姨·精选茶饮(上海浦东三林大润发店)",
+      "address": "长清路1200弄1-32号1层10063-1013号商铺",
+      "distance": "105m"
+    },
+    {
+      "brand": "沪咖·鲜果咖啡(森宏广场店)",
+      "address": "长清路1200号1号1层18号",
+      "distance": "106m"
+    },
+    {
+      "brand": "蜀风小火锅(三林大润发店)",
+      "address": "长清路1200弄2号大润发三林店一楼",
+      "distance": "119m"
+    },
+    {
+      "brand": "谷田稻香(浦东森宏广场店)",
+      "address": "长清路1200号大润发1层",
+      "distance": "125m"
+    },
+    {
+      "brand": "1+1朝鲜族烤肉(浦东长清店)",
+      "address": "长清路1200弄森宏购物广场",
+      "distance": "131m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海前滩31乐荟",
+      "open_date": "2023-04-01",
+      "area": "4万㎡",
+      "jun_daily_avg": "1.1万人次",
+      "weekday_avg": "1万人次",
+      "holiday_avg": "1.4万人次"
+    },
+    {
+      "name": "上海前滩太古里",
+      "open_date": "2021-09-30",
+      "area": "12万㎡",
+      "jun_daily_avg": "7.6万人次",
+      "weekday_avg": "7万人次",
+      "holiday_avg": "9.4万人次"
+    },
+    {
+      "name": "上海前难L+PLAZA陆家嘴广场",
+      "open_date": "2023-01-01",
+      "area": "3.1万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海陆悦汇",
+      "open_date": "2022-10-10",
+      "area": "3.4万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海晶耀前滩",
+      "open_date": "2019-08-23",
+      "area": "6.8万㎡",
+      "jun_daily_avg": "4万人次",
+      "weekday_avg": "3.8万人次",
+      "holiday_avg": "4.5万人次"
+    },
+    {
+      "name": "宝丰生活广场",
+      "open_date": "-",
+      "area": "-",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 35.0,
+      "within_1yr_pct": 25.7,
+      "1_3yr_pct": 22.9,
+      "over_3yr_pct": 51.4
+    },
+    {
+      "type": "购物",
+      "count": 31.0,
+      "within_1yr_pct": 25.8,
+      "1_3yr_pct": 25.8,
+      "over_3yr_pct": 48.4
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 6.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 66.7
+    },
+    {
+      "type": "教育培训",
+      "count": 19.0,
+      "within_1yr_pct": 42.1,
+      "1_3yr_pct": 21.1,
+      "over_3yr_pct": 36.8
+    },
+    {
+      "type": "酒店住宿",
+      "count": 11.0,
+      "within_1yr_pct": 18.2,
+      "1_3yr_pct": 18.2,
+      "over_3yr_pct": 63.6
+    },
+    {
+      "type": "生活服务",
+      "count": 80.0,
+      "within_1yr_pct": 32.5,
+      "1_3yr_pct": 30.0,
+      "over_3yr_pct": 37.5
+    },
+    {
+      "type": "运动健身",
+      "count": 26.0,
+      "within_1yr_pct": 30.8,
+      "1_3yr_pct": 19.2,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 8.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 37.5,
+      "over_3yr_pct": 62.5
+    }
+  ]
+}

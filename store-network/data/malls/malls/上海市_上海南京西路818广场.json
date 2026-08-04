@@ -1,0 +1,465 @@
+{
+  "name": "上海南京西路818广场",
+  "city": "上海市",
+  "address": "上海市静安区南京西路818号",
+  "lat": 31.231078,
+  "lng": 121.460864,
+  "overview": {
+    "score": null,
+    "score_rank": "",
+    "population_score": 84.4,
+    "area_score": 100.0,
+    "consumption_score": 90.1,
+    "industry_score": 68.1,
+    "annual_sales": "818",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 2.06,
+    "open_date": "2009-10-26",
+    "operator": "上海城利房地产有限公司",
+    "brand": "",
+    "type": "休闲娱乐型",
+    "floors": "B1-L7"
+  },
+  "traffic": {
+    "annual_daily": 986.0,
+    "annual_daily_unit": "人次",
+    "annual_daily_rank": "市内第510",
+    "jun_total": null,
+    "jun_total_rank": "",
+    "jun_daily_avg": null,
+    "jun_daily_unit": "",
+    "jun_daily_rank": "",
+    "weekday_avg": null,
+    "weekday_unit": "",
+    "weekday_rank": "",
+    "holiday_avg": null,
+    "holiday_unit": "",
+    "holiday_rank": ""
+  },
+  "population": {
+    "residential": {
+      "500m": 1.9,
+      "1_5km": 20.8,
+      "3km": 93.1
+    },
+    "office": {
+      "500m": 5.3,
+      "1_5km": 30.2,
+      "3km": 111.2
+    },
+    "permanent": {
+      "500m": 3.0,
+      "1_5km": 27.2,
+      "3km": 115.7
+    }
+  },
+  "business": {
+    "competitors": 18.0,
+    "food": 475.0,
+    "shopping": 419.0,
+    "leisure": 45.0,
+    "education": 41.0,
+    "hotel": 95.0,
+    "services": 383.0,
+    "fitness": 38.0,
+    "auto": 37.0,
+    "total_stores": 31.0,
+    "old_store_3yr_pct": 45.0
+  },
+  "nearby_poi": {
+    "business": 32.0,
+    "community": 1133.0,
+    "office": 210.0,
+    "school": 59.0,
+    "hospital": 226.0,
+    "transport": 14.0,
+    "scenic": 872.0
+  },
+  "demographics": {
+    "male_pct": 46.5,
+    "female_pct": null,
+    "education": {
+      "小学": 9.1,
+      "初中": 17.9,
+      "高中": 12.0,
+      "大专": 6.8,
+      "本科": 47.9,
+      "硕士": 4.7,
+      "博士": 1.6
+    },
+    "has_children_pct": 57.7,
+    "no_children_pct": 42.3
+  },
+  "scraped_at": "2026-07-31T15:48:06.177Z",
+  "nearby_restaurants": [
+    {
+      "brand": "PUPU扑扑轻食粥(818广场店)",
+      "address": "南京西路818号818广场B1",
+      "distance": "4m"
+    },
+    {
+      "brand": "棒约翰比萨(818广场店)",
+      "address": "南京西路818号818广场B1层",
+      "distance": "8m"
+    },
+    {
+      "brand": "大森の大众食堂(南京西路818店)(暂停营业)",
+      "address": "南京西路818广场B1层103a室(很久以前旁)",
+      "distance": "10m"
+    },
+    {
+      "brand": "很久以前羊肉串(南京西路818广场店)",
+      "address": "南京西路818广场B1层B102a102b商铺(王家沙对面)",
+      "distance": "16m"
+    },
+    {
+      "brand": "Dal Cuore达可芮冰淇淋(南京西路海上驿快闪店)",
+      "address": "南京西路818号长春藤运通大厦",
+      "distance": "33m"
+    },
+    {
+      "brand": "香港華心糖水鋪(南西总店)",
+      "address": "南京西路790号地铺(南京西路地铁站2号口步行150米)",
+      "distance": "36m"
+    },
+    {
+      "brand": "A'ha BOX盲盒咖咖(南京西路店)",
+      "address": "石门一路与吴江路交叉口西140米",
+      "distance": "47m"
+    },
+    {
+      "brand": "闽燕记八闽特色美食(兴业太古汇店)",
+      "address": "奉贤路61号",
+      "distance": "51m"
+    },
+    {
+      "brand": "SIMPUR COFFEE(奉贤路店)",
+      "address": "石门二路街道奉贤路94号(南京西路地铁站2号口步行130米)",
+      "distance": "55m"
+    },
+    {
+      "brand": "泉仔·闽南小吃(奉贤路店)",
+      "address": "奉贤路60号(南京西路地铁站2号口步行220米)",
+      "distance": "60m"
+    },
+    {
+      "brand": "PUPU扑扑轻食粥(818广场店)",
+      "address": "南京西路818号818广场B1",
+      "distance": "4m"
+    },
+    {
+      "brand": "棒约翰比萨(818广场店)",
+      "address": "南京西路818号818广场B1层",
+      "distance": "8m"
+    },
+    {
+      "brand": "大森の大众食堂(南京西路818店)(暂停营业)",
+      "address": "南京西路818广场B1层103a室(很久以前旁)",
+      "distance": "10m"
+    },
+    {
+      "brand": "很久以前羊肉串(南京西路818广场店)",
+      "address": "南京西路818广场B1层B102a102b商铺(王家沙对面)",
+      "distance": "16m"
+    },
+    {
+      "brand": "Dal Cuore达可芮冰淇淋(南京西路海上驿快闪店)",
+      "address": "南京西路818号长春藤运通大厦",
+      "distance": "33m"
+    },
+    {
+      "brand": "香港華心糖水鋪(南西总店)",
+      "address": "南京西路790号地铺(南京西路地铁站2号口步行150米)",
+      "distance": "36m"
+    },
+    {
+      "brand": "A'ha BOX盲盒咖咖(南京西路店)",
+      "address": "石门一路与吴江路交叉口西140米",
+      "distance": "47m"
+    },
+    {
+      "brand": "闽燕记八闽特色美食(兴业太古汇店)",
+      "address": "奉贤路61号",
+      "distance": "51m"
+    },
+    {
+      "brand": "SIMPUR COFFEE(奉贤路店)",
+      "address": "石门二路街道奉贤路94号(南京西路地铁站2号口步行130米)",
+      "distance": "55m"
+    },
+    {
+      "brand": "泉仔·闽南小吃(奉贤路店)",
+      "address": "奉贤路60号(南京西路地铁站2号口步行220米)",
+      "distance": "60m"
+    },
+    {
+      "brand": "PUPU扑扑轻食粥(818广场店)",
+      "address": "南京西路818号818广场B1",
+      "distance": "4m"
+    },
+    {
+      "brand": "棒约翰比萨(818广场店)",
+      "address": "南京西路818号818广场B1层",
+      "distance": "8m"
+    },
+    {
+      "brand": "大森の大众食堂(南京西路818店)(暂停营业)",
+      "address": "南京西路818广场B1层103a室(很久以前旁)",
+      "distance": "10m"
+    },
+    {
+      "brand": "很久以前羊肉串(南京西路818广场店)",
+      "address": "南京西路818广场B1层B102a102b商铺(王家沙对面)",
+      "distance": "16m"
+    },
+    {
+      "brand": "Dal Cuore达可芮冰淇淋(南京西路海上驿快闪店)",
+      "address": "南京西路818号长春藤运通大厦",
+      "distance": "33m"
+    },
+    {
+      "brand": "香港華心糖水鋪(南西总店)",
+      "address": "南京西路790号地铺(南京西路地铁站2号口步行150米)",
+      "distance": "36m"
+    },
+    {
+      "brand": "A'ha BOX盲盒咖咖(南京西路店)",
+      "address": "石门一路与吴江路交叉口西140米",
+      "distance": "47m"
+    },
+    {
+      "brand": "闽燕记八闽特色美食(兴业太古汇店)",
+      "address": "奉贤路61号",
+      "distance": "51m"
+    },
+    {
+      "brand": "SIMPUR COFFEE(奉贤路店)",
+      "address": "石门二路街道奉贤路94号(南京西路地铁站2号口步行130米)",
+      "distance": "55m"
+    },
+    {
+      "brand": "泉仔·闽南小吃(奉贤路店)",
+      "address": "奉贤路60号(南京西路地铁站2号口步行220米)",
+      "distance": "60m"
+    },
+    {
+      "brand": "PUPU扑扑轻食粥(818广场店)",
+      "address": "南京西路818号818广场B1",
+      "distance": "4m"
+    },
+    {
+      "brand": "棒约翰比萨(818广场店)",
+      "address": "南京西路818号818广场B1层",
+      "distance": "8m"
+    },
+    {
+      "brand": "大森の大众食堂(南京西路818店)(暂停营业)",
+      "address": "南京西路818广场B1层103a室(很久以前旁)",
+      "distance": "10m"
+    },
+    {
+      "brand": "很久以前羊肉串(南京西路818广场店)",
+      "address": "南京西路818广场B1层B102a102b商铺(王家沙对面)",
+      "distance": "16m"
+    },
+    {
+      "brand": "Dal Cuore达可芮冰淇淋(南京西路海上驿快闪店)",
+      "address": "南京西路818号长春藤运通大厦",
+      "distance": "33m"
+    },
+    {
+      "brand": "香港華心糖水鋪(南西总店)",
+      "address": "南京西路790号地铺(南京西路地铁站2号口步行150米)",
+      "distance": "36m"
+    },
+    {
+      "brand": "A'ha BOX盲盒咖咖(南京西路店)",
+      "address": "石门一路与吴江路交叉口西140米",
+      "distance": "47m"
+    },
+    {
+      "brand": "闽燕记八闽特色美食(兴业太古汇店)",
+      "address": "奉贤路61号",
+      "distance": "51m"
+    },
+    {
+      "brand": "SIMPUR COFFEE(奉贤路店)",
+      "address": "石门二路街道奉贤路94号(南京西路地铁站2号口步行130米)",
+      "distance": "55m"
+    },
+    {
+      "brand": "泉仔·闽南小吃(奉贤路店)",
+      "address": "奉贤路60号(南京西路地铁站2号口步行220米)",
+      "distance": "60m"
+    },
+    {
+      "brand": "PUPU扑扑轻食粥(818广场店)",
+      "address": "南京西路818号818广场B1",
+      "distance": "4m"
+    },
+    {
+      "brand": "棒约翰比萨(818广场店)",
+      "address": "南京西路818号818广场B1层",
+      "distance": "8m"
+    },
+    {
+      "brand": "大森の大众食堂(南京西路818店)(暂停营业)",
+      "address": "南京西路818广场B1层103a室(很久以前旁)",
+      "distance": "10m"
+    },
+    {
+      "brand": "很久以前羊肉串(南京西路818广场店)",
+      "address": "南京西路818广场B1层B102a102b商铺(王家沙对面)",
+      "distance": "16m"
+    },
+    {
+      "brand": "Dal Cuore达可芮冰淇淋(南京西路海上驿快闪店)",
+      "address": "南京西路818号长春藤运通大厦",
+      "distance": "33m"
+    },
+    {
+      "brand": "香港華心糖水鋪(南西总店)",
+      "address": "南京西路790号地铺(南京西路地铁站2号口步行150米)",
+      "distance": "36m"
+    },
+    {
+      "brand": "A'ha BOX盲盒咖咖(南京西路店)",
+      "address": "石门一路与吴江路交叉口西140米",
+      "distance": "47m"
+    },
+    {
+      "brand": "闽燕记八闽特色美食(兴业太古汇店)",
+      "address": "奉贤路61号",
+      "distance": "51m"
+    },
+    {
+      "brand": "SIMPUR COFFEE(奉贤路店)",
+      "address": "石门二路街道奉贤路94号(南京西路地铁站2号口步行130米)",
+      "distance": "55m"
+    },
+    {
+      "brand": "泉仔·闽南小吃(奉贤路店)",
+      "address": "奉贤路60号(南京西路地铁站2号口步行220米)",
+      "distance": "60m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海通利商厦",
+      "open_date": "2004-11-01",
+      "area": "-",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海湟普汇商场",
+      "open_date": "-",
+      "area": "2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海兴业太古汇",
+      "open_date": "2017-11-03",
+      "area": "10.3万㎡",
+      "jun_daily_avg": "6万人次",
+      "weekday_avg": "5.9万人次",
+      "holiday_avg": "6.4万人次"
+    },
+    {
+      "name": "上海张园·丰盛里",
+      "open_date": "2017-04-01",
+      "area": "1.4万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海中信泰富广场",
+      "open_date": "2002-06-15",
+      "area": "3.5万㎡",
+      "jun_daily_avg": "1.1万人次",
+      "weekday_avg": "1.1万人次",
+      "holiday_avg": "1.1万人次"
+    },
+    {
+      "name": "上海金鹰国际购物广场",
+      "open_date": "2024-01-26",
+      "area": "3.8万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海仙乐斯广场",
+      "open_date": "2001",
+      "area": "2.3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海恒隆广场",
+      "open_date": "2001-07-14",
+      "area": "11.4万㎡",
+      "jun_daily_avg": "2.2万人次",
+      "weekday_avg": "2.2万人次",
+      "holiday_avg": "2万人次"
+    },
+    {
+      "name": "上海JC PLAZA锦沧文华广场",
+      "open_date": "2022-08-18",
+      "area": "2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海世茂52+",
+      "open_date": "2010-01-01",
+      "area": "1.5万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 5.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 80.0
+    },
+    {
+      "type": "购物",
+      "count": 7.0,
+      "within_1yr_pct": 42.9,
+      "1_3yr_pct": 42.9,
+      "over_3yr_pct": 14.3
+    },
+    {
+      "type": "教育培训",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    },
+    {
+      "type": "生活服务",
+      "count": 17.0,
+      "within_1yr_pct": 23.5,
+      "1_3yr_pct": 29.4,
+      "over_3yr_pct": 47.1
+    },
+    {
+      "type": "车辆服务",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
+    }
+  ]
+}

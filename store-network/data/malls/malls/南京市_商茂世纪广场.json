@@ -1,0 +1,486 @@
+{
+  "name": "商茂世纪广场",
+  "city": "南京市",
+  "address": "江苏省南京市秦淮区五老村街道新街口步行街中央商场(新街口店)",
+  "lat": 32.039606,
+  "lng": 118.786154,
+  "overview": {
+    "score": 89.9,
+    "score_rank": "市内前30%",
+    "population_score": 93.1,
+    "area_score": 100.0,
+    "consumption_score": 87.9,
+    "industry_score": 89.9,
+    "annual_sales": "",
+    "annual_sales_unit": "",
+    "area_size_sqm": null,
+    "open_date": "",
+    "operator": "",
+    "brand": "",
+    "type": "",
+    "floors": ""
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "",
+    "annual_daily_rank": "",
+    "jun_total": null,
+    "jun_total_rank": "",
+    "jun_daily_avg": null,
+    "jun_daily_unit": "",
+    "jun_daily_rank": "",
+    "weekday_avg": null,
+    "weekday_unit": "",
+    "weekday_rank": "",
+    "holiday_avg": null,
+    "holiday_unit": "",
+    "holiday_rank": ""
+  },
+  "population": {
+    "residential": {
+      "500m": 2.2,
+      "1_5km": 23.9,
+      "3km": 74.4
+    },
+    "office": {
+      "500m": 5.5,
+      "1_5km": 25.7,
+      "3km": 61.5
+    },
+    "permanent": {
+      "500m": 4.9,
+      "1_5km": 29.5,
+      "3km": 84.2
+    }
+  },
+  "business": {
+    "competitors": 30.0,
+    "food": 1181.0,
+    "shopping": 1417.0,
+    "leisure": 198.0,
+    "education": 149.0,
+    "hotel": 357.0,
+    "services": 494.0,
+    "fitness": 44.0,
+    "auto": 36.0,
+    "total_stores": 3918.0,
+    "old_store_3yr_pct": 44.0
+  },
+  "nearby_poi": {
+    "business": 21.0,
+    "community": 732.0,
+    "office": 192.0,
+    "school": 78.0,
+    "hospital": 188.0,
+    "transport": 12.0,
+    "scenic": 1182.0
+  },
+  "demographics": {
+    "male_pct": 44.8,
+    "female_pct": null,
+    "education": {
+      "小学": 9.7,
+      "初中": 17.6,
+      "高中": 11.5,
+      "大专": 7.7,
+      "本科": 45.1,
+      "硕士": 6.6,
+      "博士": 1.8
+    },
+    "has_children_pct": null,
+    "no_children_pct": null
+  },
+  "scraped_at": "2026-07-31T13:03:46.539Z",
+  "nearby_restaurants": [
+    {
+      "brand": "壹煎如故",
+      "address": "新街口步行街与金贸里交叉口北120米",
+      "distance": "7m"
+    },
+    {
+      "brand": "肯德基(正洪店)",
+      "address": "中山南路77号中央商场二楼",
+      "distance": "10m"
+    },
+    {
+      "brand": "一姐炒麻辣(莱迪店)",
+      "address": "正洪街8号新B1层C街020号(莱通广场)",
+      "distance": "19m"
+    },
+    {
+      "brand": "米立粒MiLiLi服饰(中央商场新街口商业步行区店)",
+      "address": "中山南路79号中央商场新街口店2F层",
+      "distance": "19m"
+    },
+    {
+      "brand": "沪上阿姨·精选茶饮(南京新街口中央商场店)",
+      "address": "中山南路79号南京中央商场1层1F3008铺位",
+      "distance": "22m"
+    },
+    {
+      "brand": "CoCo都可(莱迪一店)",
+      "address": "正洪街8号莱迪时尚购物广场B1层",
+      "distance": "23m"
+    },
+    {
+      "brand": "牛天宝自助牛肉串串香(新街口店)",
+      "address": "正洪街61号中央商务楼楼3楼肯德基楼上右侧",
+      "distance": "23m"
+    },
+    {
+      "brand": "铁板饭(南京时尚莱迪购物广场店)",
+      "address": "新街口步行街与金贸里交叉口北140米",
+      "distance": "23m"
+    },
+    {
+      "brand": "Boneless Chicken Feet无骨鸡爪(莱迪店)",
+      "address": "正洪街8号南京时尚莱迪购物广场B2层",
+      "distance": "24m"
+    },
+    {
+      "brand": "第三阶钵钵鸡串串(时尚莱迪店)",
+      "address": "正洪街8号南京时尚莱迪购物广场B1层",
+      "distance": "25m"
+    },
+    {
+      "brand": "壹煎如故",
+      "address": "新街口步行街与金贸里交叉口北120米",
+      "distance": "7m"
+    },
+    {
+      "brand": "肯德基(正洪店)",
+      "address": "中山南路77号中央商场二楼",
+      "distance": "10m"
+    },
+    {
+      "brand": "一姐炒麻辣(莱迪店)",
+      "address": "正洪街8号新B1层C街020号(莱通广场)",
+      "distance": "19m"
+    },
+    {
+      "brand": "米立粒MiLiLi服饰(中央商场新街口商业步行区店)",
+      "address": "中山南路79号中央商场新街口店2F层",
+      "distance": "19m"
+    },
+    {
+      "brand": "沪上阿姨·精选茶饮(南京新街口中央商场店)",
+      "address": "中山南路79号南京中央商场1层1F3008铺位",
+      "distance": "22m"
+    },
+    {
+      "brand": "CoCo都可(莱迪一店)",
+      "address": "正洪街8号莱迪时尚购物广场B1层",
+      "distance": "23m"
+    },
+    {
+      "brand": "牛天宝自助牛肉串串香(新街口店)",
+      "address": "正洪街61号中央商务楼楼3楼肯德基楼上右侧",
+      "distance": "23m"
+    },
+    {
+      "brand": "铁板饭(南京时尚莱迪购物广场店)",
+      "address": "新街口步行街与金贸里交叉口北140米",
+      "distance": "23m"
+    },
+    {
+      "brand": "Boneless Chicken Feet无骨鸡爪(莱迪店)",
+      "address": "正洪街8号南京时尚莱迪购物广场B2层",
+      "distance": "24m"
+    },
+    {
+      "brand": "第三阶钵钵鸡串串(时尚莱迪店)",
+      "address": "正洪街8号南京时尚莱迪购物广场B1层",
+      "distance": "25m"
+    },
+    {
+      "brand": "壹煎如故",
+      "address": "新街口步行街与金贸里交叉口北120米",
+      "distance": "7m"
+    },
+    {
+      "brand": "肯德基(正洪店)",
+      "address": "中山南路77号中央商场二楼",
+      "distance": "10m"
+    },
+    {
+      "brand": "一姐炒麻辣(莱迪店)",
+      "address": "正洪街8号新B1层C街020号(莱通广场)",
+      "distance": "19m"
+    },
+    {
+      "brand": "米立粒MiLiLi服饰(中央商场新街口商业步行区店)",
+      "address": "中山南路79号中央商场新街口店2F层",
+      "distance": "19m"
+    },
+    {
+      "brand": "沪上阿姨·精选茶饮(南京新街口中央商场店)",
+      "address": "中山南路79号南京中央商场1层1F3008铺位",
+      "distance": "22m"
+    },
+    {
+      "brand": "CoCo都可(莱迪一店)",
+      "address": "正洪街8号莱迪时尚购物广场B1层",
+      "distance": "23m"
+    },
+    {
+      "brand": "牛天宝自助牛肉串串香(新街口店)",
+      "address": "正洪街61号中央商务楼楼3楼肯德基楼上右侧",
+      "distance": "23m"
+    },
+    {
+      "brand": "铁板饭(南京时尚莱迪购物广场店)",
+      "address": "新街口步行街与金贸里交叉口北140米",
+      "distance": "23m"
+    },
+    {
+      "brand": "Boneless Chicken Feet无骨鸡爪(莱迪店)",
+      "address": "正洪街8号南京时尚莱迪购物广场B2层",
+      "distance": "24m"
+    },
+    {
+      "brand": "第三阶钵钵鸡串串(时尚莱迪店)",
+      "address": "正洪街8号南京时尚莱迪购物广场B1层",
+      "distance": "25m"
+    },
+    {
+      "brand": "壹煎如故",
+      "address": "新街口步行街与金贸里交叉口北120米",
+      "distance": "7m"
+    },
+    {
+      "brand": "肯德基(正洪店)",
+      "address": "中山南路77号中央商场二楼",
+      "distance": "10m"
+    },
+    {
+      "brand": "一姐炒麻辣(莱迪店)",
+      "address": "正洪街8号新B1层C街020号(莱通广场)",
+      "distance": "19m"
+    },
+    {
+      "brand": "米立粒MiLiLi服饰(中央商场新街口商业步行区店)",
+      "address": "中山南路79号中央商场新街口店2F层",
+      "distance": "19m"
+    },
+    {
+      "brand": "沪上阿姨·精选茶饮(南京新街口中央商场店)",
+      "address": "中山南路79号南京中央商场1层1F3008铺位",
+      "distance": "22m"
+    },
+    {
+      "brand": "CoCo都可(莱迪一店)",
+      "address": "正洪街8号莱迪时尚购物广场B1层",
+      "distance": "23m"
+    },
+    {
+      "brand": "牛天宝自助牛肉串串香(新街口店)",
+      "address": "正洪街61号中央商务楼楼3楼肯德基楼上右侧",
+      "distance": "23m"
+    },
+    {
+      "brand": "铁板饭(南京时尚莱迪购物广场店)",
+      "address": "新街口步行街与金贸里交叉口北140米",
+      "distance": "23m"
+    },
+    {
+      "brand": "Boneless Chicken Feet无骨鸡爪(莱迪店)",
+      "address": "正洪街8号南京时尚莱迪购物广场B2层",
+      "distance": "24m"
+    },
+    {
+      "brand": "第三阶钵钵鸡串串(时尚莱迪店)",
+      "address": "正洪街8号南京时尚莱迪购物广场B1层",
+      "distance": "25m"
+    },
+    {
+      "brand": "壹煎如故",
+      "address": "新街口步行街与金贸里交叉口北120米",
+      "distance": "7m"
+    },
+    {
+      "brand": "肯德基(正洪店)",
+      "address": "中山南路77号中央商场二楼",
+      "distance": "10m"
+    },
+    {
+      "brand": "一姐炒麻辣(莱迪店)",
+      "address": "正洪街8号新B1层C街020号(莱通广场)",
+      "distance": "19m"
+    },
+    {
+      "brand": "米立粒MiLiLi服饰(中央商场新街口商业步行区店)",
+      "address": "中山南路79号中央商场新街口店2F层",
+      "distance": "19m"
+    },
+    {
+      "brand": "沪上阿姨·精选茶饮(南京新街口中央商场店)",
+      "address": "中山南路79号南京中央商场1层1F3008铺位",
+      "distance": "22m"
+    },
+    {
+      "brand": "CoCo都可(莱迪一店)",
+      "address": "正洪街8号莱迪时尚购物广场B1层",
+      "distance": "23m"
+    },
+    {
+      "brand": "牛天宝自助牛肉串串香(新街口店)",
+      "address": "正洪街61号中央商务楼楼3楼肯德基楼上右侧",
+      "distance": "23m"
+    },
+    {
+      "brand": "铁板饭(南京时尚莱迪购物广场店)",
+      "address": "新街口步行街与金贸里交叉口北140米",
+      "distance": "23m"
+    },
+    {
+      "brand": "Boneless Chicken Feet无骨鸡爪(莱迪店)",
+      "address": "正洪街8号南京时尚莱迪购物广场B2层",
+      "distance": "24m"
+    },
+    {
+      "brand": "第三阶钵钵鸡串串(时尚莱迪店)",
+      "address": "正洪街8号南京时尚莱迪购物广场B1层",
+      "distance": "25m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "南京时尚莱迪商城",
+      "open_date": "2005-04-01",
+      "area": "2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "南京中央商场(新街口店)",
+      "open_date": "1989-08-10",
+      "area": "7万㎡",
+      "jun_daily_avg": "7.5万人次",
+      "weekday_avg": "6.3万人次",
+      "holiday_avg": "10.7万人次"
+    },
+    {
+      "name": "南京新百",
+      "open_date": "2021-08-01",
+      "area": "6万㎡",
+      "jun_daily_avg": "8.9万人次",
+      "weekday_avg": "7.6万人次",
+      "holiday_avg": "12.5万人次"
+    },
+    {
+      "name": "南京新街口印象汇",
+      "open_date": "2004-01-01",
+      "area": "5万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "南京新街口大洋百货",
+      "open_date": "2003-01-01",
+      "area": "4万㎡",
+      "jun_daily_avg": "4.7万人次",
+      "weekday_avg": "4万人次",
+      "holiday_avg": "6.6万人次"
+    },
+    {
+      "name": "南京House of Fraser 东方福来德",
+      "open_date": "2016-12-01",
+      "area": "5.5万㎡",
+      "jun_daily_avg": "12.5万人次",
+      "weekday_avg": "10.8万人次",
+      "holiday_avg": "17.2万人次"
+    },
+    {
+      "name": "南京新街口苏宁生活广场",
+      "open_date": "2015",
+      "area": "6万㎡",
+      "jun_daily_avg": "1.9万人次",
+      "weekday_avg": "1.7万人次",
+      "holiday_avg": "2.4万人次"
+    },
+    {
+      "name": "南京JLC金陵中環",
+      "open_date": "2023-09-28",
+      "area": "8.6万㎡",
+      "jun_daily_avg": "9.1万人次",
+      "weekday_avg": "7.9万人次",
+      "holiday_avg": "12.3万人次"
+    },
+    {
+      "name": "南京友谊广场",
+      "open_date": "2016-09-30",
+      "area": "3.5万㎡",
+      "jun_daily_avg": "1.8万人次",
+      "weekday_avg": "1.6万人次",
+      "holiday_avg": "2.3万人次"
+    },
+    {
+      "name": "南京德基广场",
+      "open_date": "2006-06-26",
+      "area": "12.8万㎡",
+      "jun_daily_avg": "15.1万人次",
+      "weekday_avg": "13.2万人次",
+      "holiday_avg": "20.5万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 1181.0,
+      "within_1yr_pct": 27.8,
+      "1_3yr_pct": 33.9,
+      "over_3yr_pct": 38.4
+    },
+    {
+      "type": "购物",
+      "count": 1417.0,
+      "within_1yr_pct": 23.8,
+      "1_3yr_pct": 25.9,
+      "over_3yr_pct": 50.3
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 240.0,
+      "within_1yr_pct": 38.3,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 28.3
+    },
+    {
+      "type": "教育培训",
+      "count": 149.0,
+      "within_1yr_pct": 24.2,
+      "1_3yr_pct": 19.5,
+      "over_3yr_pct": 56.4
+    },
+    {
+      "type": "酒店住宿",
+      "count": 357.0,
+      "within_1yr_pct": 28.6,
+      "1_3yr_pct": 30.3,
+      "over_3yr_pct": 41.2
+    },
+    {
+      "type": "生活服务",
+      "count": 494.0,
+      "within_1yr_pct": 24.3,
+      "1_3yr_pct": 30.2,
+      "over_3yr_pct": 45.5
+    },
+    {
+      "type": "运动健身",
+      "count": 44.0,
+      "within_1yr_pct": 13.6,
+      "1_3yr_pct": 36.4,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 36.0,
+      "within_1yr_pct": 27.8,
+      "1_3yr_pct": 47.2,
+      "over_3yr_pct": 25.0
+    }
+  ]
+}

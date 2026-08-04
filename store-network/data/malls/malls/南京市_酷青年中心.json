@@ -1,0 +1,470 @@
+{
+  "name": "酷青年中心",
+  "city": "南京市",
+  "address": "江苏省南京市鼓楼区山西路1号",
+  "lat": 32.067746,
+  "lng": 118.772814,
+  "overview": {
+    "score": 70.6,
+    "score_rank": "市内前70%",
+    "population_score": 94.3,
+    "area_score": 91.8,
+    "consumption_score": 84.2,
+    "industry_score": 70.3,
+    "annual_sales": "项目位于地铁上盖周边超过50个小区及公寓消费群体、超过30栋写字楼汇聚在项目周围，拥有海量的办公消费人群，3公里范围辐射人口达105万人。已经营品牌有：盒马NB、星巴克、麦当劳、纯K、香山湖、永和大王、库迪咖啡、网鱼网咖、新东方等知名品牌",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 1.5,
+    "open_date": "2024-10-18",
+    "operator": "南京银河房地产开发有限公司",
+    "brand": "",
+    "type": "",
+    "floors": ""
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "-",
+    "annual_daily_rank": "",
+    "jun_total": null,
+    "jun_total_rank": "",
+    "jun_daily_avg": null,
+    "jun_daily_unit": "",
+    "jun_daily_rank": "",
+    "weekday_avg": null,
+    "weekday_unit": "",
+    "weekday_rank": "",
+    "holiday_avg": null,
+    "holiday_unit": "",
+    "holiday_rank": ""
+  },
+  "population": {
+    "residential": {
+      "500m": 2.3,
+      "1_5km": 17.7,
+      "3km": 58.9
+    },
+    "office": {
+      "500m": 2.4,
+      "1_5km": 14.9,
+      "3km": 45.3
+    },
+    "permanent": {
+      "500m": 2.7,
+      "1_5km": 19.1,
+      "3km": 62.7
+    }
+  },
+  "business": {
+    "competitors": 10.0,
+    "food": 541.0,
+    "shopping": 345.0,
+    "leisure": 46.0,
+    "education": 75.0,
+    "hotel": 113.0,
+    "services": 222.0,
+    "fitness": 35.0,
+    "auto": 17.0,
+    "total_stores": 37.0,
+    "old_store_3yr_pct": 30.0
+  },
+  "nearby_poi": {
+    "business": 8.0,
+    "community": 645.0,
+    "office": 89.0,
+    "school": 64.0,
+    "hospital": 107.0,
+    "transport": 13.0,
+    "scenic": 633.0
+  },
+  "demographics": {
+    "male_pct": 45.5,
+    "female_pct": null,
+    "education": {
+      "小学": 8.3,
+      "初中": 16.6,
+      "高中": 14.0,
+      "大专": 7.1,
+      "本科": 44.6,
+      "硕士": 7.3,
+      "博士": 2.1
+    },
+    "has_children_pct": 61.8,
+    "no_children_pct": 38.2
+  },
+  "scraped_at": "2026-08-02T09:27:23.414Z",
+  "nearby_restaurants": [
+    {
+      "brand": "库迪咖啡(银河大厦店)",
+      "address": "山西路1号银河国际购物广场(近湖南路)",
+      "distance": "6m"
+    },
+    {
+      "brand": "BOPEYE·波派炸鸡(湖南路青春广场店)",
+      "address": "山西路1号1层1B034店",
+      "distance": "16m"
+    },
+    {
+      "brand": "麦当劳(银河大厦店)",
+      "address": "山西路1号银河大厦F1层",
+      "distance": "18m"
+    },
+    {
+      "brand": "星巴克(南京苏宁银河店)",
+      "address": "山西路1号乐购仕生活广场F1层",
+      "distance": "25m"
+    },
+    {
+      "brand": "索菲特银河宫中餐厅",
+      "address": "山西路9号索菲特银河大酒店7楼(近中山北路)",
+      "distance": "31m"
+    },
+    {
+      "brand": "DRAGON DELICIOUS龙食记(分店)",
+      "address": "中山北路与山西路交叉口南80米",
+      "distance": "32m"
+    },
+    {
+      "brand": "福隆旺鸡腿便当(中山北路店)",
+      "address": "山西路1号银河大厦F1层",
+      "distance": "35m"
+    },
+    {
+      "brand": "煨民·围炉鸡煲(鼓楼店)",
+      "address": "山西路1号1层1B061铺位(青春广场地铁站4号口旁)",
+      "distance": "36m"
+    },
+    {
+      "brand": "鮨极kiwami(苏宁银河国际广场店)",
+      "address": "山西路9号银河索菲特大酒店7层",
+      "distance": "36m"
+    },
+    {
+      "brand": "南京索菲特银河大酒店-宴会厅",
+      "address": "山西路9号索菲特银河大酒店8楼",
+      "distance": "37m"
+    },
+    {
+      "brand": "库迪咖啡(银河大厦店)",
+      "address": "山西路1号银河国际购物广场(近湖南路)",
+      "distance": "6m"
+    },
+    {
+      "brand": "BOPEYE·波派炸鸡(湖南路青春广场店)",
+      "address": "山西路1号1层1B034店",
+      "distance": "16m"
+    },
+    {
+      "brand": "麦当劳(银河大厦店)",
+      "address": "山西路1号银河大厦F1层",
+      "distance": "18m"
+    },
+    {
+      "brand": "星巴克(南京苏宁银河店)",
+      "address": "山西路1号乐购仕生活广场F1层",
+      "distance": "25m"
+    },
+    {
+      "brand": "索菲特银河宫中餐厅",
+      "address": "山西路9号索菲特银河大酒店7楼(近中山北路)",
+      "distance": "31m"
+    },
+    {
+      "brand": "DRAGON DELICIOUS龙食记(分店)",
+      "address": "中山北路与山西路交叉口南80米",
+      "distance": "32m"
+    },
+    {
+      "brand": "福隆旺鸡腿便当(中山北路店)",
+      "address": "山西路1号银河大厦F1层",
+      "distance": "35m"
+    },
+    {
+      "brand": "煨民·围炉鸡煲(鼓楼店)",
+      "address": "山西路1号1层1B061铺位(青春广场地铁站4号口旁)",
+      "distance": "36m"
+    },
+    {
+      "brand": "鮨极kiwami(苏宁银河国际广场店)",
+      "address": "山西路9号银河索菲特大酒店7层",
+      "distance": "36m"
+    },
+    {
+      "brand": "南京索菲特银河大酒店-宴会厅",
+      "address": "山西路9号索菲特银河大酒店8楼",
+      "distance": "37m"
+    },
+    {
+      "brand": "库迪咖啡(银河大厦店)",
+      "address": "山西路1号银河国际购物广场(近湖南路)",
+      "distance": "6m"
+    },
+    {
+      "brand": "BOPEYE·波派炸鸡(湖南路青春广场店)",
+      "address": "山西路1号1层1B034店",
+      "distance": "16m"
+    },
+    {
+      "brand": "麦当劳(银河大厦店)",
+      "address": "山西路1号银河大厦F1层",
+      "distance": "18m"
+    },
+    {
+      "brand": "星巴克(南京苏宁银河店)",
+      "address": "山西路1号乐购仕生活广场F1层",
+      "distance": "25m"
+    },
+    {
+      "brand": "索菲特银河宫中餐厅",
+      "address": "山西路9号索菲特银河大酒店7楼(近中山北路)",
+      "distance": "31m"
+    },
+    {
+      "brand": "DRAGON DELICIOUS龙食记(分店)",
+      "address": "中山北路与山西路交叉口南80米",
+      "distance": "32m"
+    },
+    {
+      "brand": "福隆旺鸡腿便当(中山北路店)",
+      "address": "山西路1号银河大厦F1层",
+      "distance": "35m"
+    },
+    {
+      "brand": "煨民·围炉鸡煲(鼓楼店)",
+      "address": "山西路1号1层1B061铺位(青春广场地铁站4号口旁)",
+      "distance": "36m"
+    },
+    {
+      "brand": "鮨极kiwami(苏宁银河国际广场店)",
+      "address": "山西路9号银河索菲特大酒店7层",
+      "distance": "36m"
+    },
+    {
+      "brand": "南京索菲特银河大酒店-宴会厅",
+      "address": "山西路9号索菲特银河大酒店8楼",
+      "distance": "37m"
+    },
+    {
+      "brand": "库迪咖啡(银河大厦店)",
+      "address": "山西路1号银河国际购物广场(近湖南路)",
+      "distance": "6m"
+    },
+    {
+      "brand": "BOPEYE·波派炸鸡(湖南路青春广场店)",
+      "address": "山西路1号1层1B034店",
+      "distance": "16m"
+    },
+    {
+      "brand": "麦当劳(银河大厦店)",
+      "address": "山西路1号银河大厦F1层",
+      "distance": "18m"
+    },
+    {
+      "brand": "星巴克(南京苏宁银河店)",
+      "address": "山西路1号乐购仕生活广场F1层",
+      "distance": "25m"
+    },
+    {
+      "brand": "索菲特银河宫中餐厅",
+      "address": "山西路9号索菲特银河大酒店7楼(近中山北路)",
+      "distance": "31m"
+    },
+    {
+      "brand": "DRAGON DELICIOUS龙食记(分店)",
+      "address": "中山北路与山西路交叉口南80米",
+      "distance": "32m"
+    },
+    {
+      "brand": "福隆旺鸡腿便当(中山北路店)",
+      "address": "山西路1号银河大厦F1层",
+      "distance": "35m"
+    },
+    {
+      "brand": "煨民·围炉鸡煲(鼓楼店)",
+      "address": "山西路1号1层1B061铺位(青春广场地铁站4号口旁)",
+      "distance": "36m"
+    },
+    {
+      "brand": "鮨极kiwami(苏宁银河国际广场店)",
+      "address": "山西路9号银河索菲特大酒店7层",
+      "distance": "36m"
+    },
+    {
+      "brand": "南京索菲特银河大酒店-宴会厅",
+      "address": "山西路9号索菲特银河大酒店8楼",
+      "distance": "37m"
+    },
+    {
+      "brand": "库迪咖啡(银河大厦店)",
+      "address": "山西路1号银河国际购物广场(近湖南路)",
+      "distance": "6m"
+    },
+    {
+      "brand": "BOPEYE·波派炸鸡(湖南路青春广场店)",
+      "address": "山西路1号1层1B034店",
+      "distance": "16m"
+    },
+    {
+      "brand": "麦当劳(银河大厦店)",
+      "address": "山西路1号银河大厦F1层",
+      "distance": "18m"
+    },
+    {
+      "brand": "星巴克(南京苏宁银河店)",
+      "address": "山西路1号乐购仕生活广场F1层",
+      "distance": "25m"
+    },
+    {
+      "brand": "索菲特银河宫中餐厅",
+      "address": "山西路9号索菲特银河大酒店7楼(近中山北路)",
+      "distance": "31m"
+    },
+    {
+      "brand": "DRAGON DELICIOUS龙食记(分店)",
+      "address": "中山北路与山西路交叉口南80米",
+      "distance": "32m"
+    },
+    {
+      "brand": "福隆旺鸡腿便当(中山北路店)",
+      "address": "山西路1号银河大厦F1层",
+      "distance": "35m"
+    },
+    {
+      "brand": "煨民·围炉鸡煲(鼓楼店)",
+      "address": "山西路1号1层1B061铺位(青春广场地铁站4号口旁)",
+      "distance": "36m"
+    },
+    {
+      "brand": "鮨极kiwami(苏宁银河国际广场店)",
+      "address": "山西路9号银河索菲特大酒店7层",
+      "distance": "36m"
+    },
+    {
+      "brand": "南京索菲特银河大酒店-宴会厅",
+      "address": "山西路9号索菲特银河大酒店8楼",
+      "distance": "37m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "南京山西路百货大楼",
+      "open_date": "2012-04-01",
+      "area": "1万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "南京中央城市奥莱(山西路店)",
+      "open_date": "2016-10-01",
+      "area": "1.4万㎡",
+      "jun_daily_avg": "1.6万人次",
+      "weekday_avg": "1.6万人次",
+      "holiday_avg": "1.7万人次"
+    },
+    {
+      "name": "南京鼓楼吾悦广场",
+      "open_date": "2017-12-15",
+      "area": "6.8万㎡",
+      "jun_daily_avg": "3万人次",
+      "weekday_avg": "2.7万人次",
+      "holiday_avg": "3.9万人次"
+    },
+    {
+      "name": "南京马台街99号生活广场",
+      "open_date": "2015-09-15",
+      "area": "2.1万㎡",
+      "jun_daily_avg": "1.3万人次",
+      "weekday_avg": "1.2万人次",
+      "holiday_avg": "1.6万人次"
+    },
+    {
+      "name": "南京苏宁环球购物中心",
+      "open_date": "2004-01-08",
+      "area": "-",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "南京金茂览秀城",
+      "open_date": "2015-01-01",
+      "area": "14万㎡",
+      "jun_daily_avg": "5.4万人次",
+      "weekday_avg": "4.7万人次",
+      "holiday_avg": "7.3万人次"
+    },
+    {
+      "name": "南京紫峰购物广场",
+      "open_date": "2009-06-01",
+      "area": "4万㎡",
+      "jun_daily_avg": "1.3万人次",
+      "weekday_avg": "1.3万人次",
+      "holiday_avg": "1.4万人次"
+    },
+    {
+      "name": "南京新城市虹桥中心",
+      "open_date": "2007-01-01",
+      "area": "4万㎡",
+      "jun_daily_avg": "1.9万人次",
+      "weekday_avg": "1.9万人次",
+      "holiday_avg": "1.9万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 10.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 40.0,
+      "over_3yr_pct": 40.0
+    },
+    {
+      "type": "购物",
+      "count": 6.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 66.7,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 6.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 16.7
+    },
+    {
+      "type": "教育培训",
+      "count": 2.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 6.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "生活服务",
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "运动健身",
+      "count": 3.0,
+      "within_1yr_pct": 66.7,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 33.3
+    },
+    {
+      "type": "车辆服务",
+      "count": 2.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 50.0
+    }
+  ]
+}

@@ -1,0 +1,147 @@
+{
+  "name": "福田COCO park",
+  "city": "深圳市",
+  "address": "广东省深圳市福田区福华三路272号",
+  "lat": 22.532886,
+  "lng": 114.061876,
+  "overview": {
+    "score": 96.3,
+    "score_rank": "市内前30%",
+    "population_score": 73.5,
+    "area_score": 89.2,
+    "consumption_score": 88.6,
+    "industry_score": 96.4,
+    "annual_sales": "15",
+    "annual_sales_unit": "亿元",
+    "area_size_sqm": 8.0,
+    "open_date": "2006-09-30",
+    "operator": "深圳市星河商置集团有限公司",
+    "brand": "星河地产",
+    "type": "综合型",
+    "floors": "B2-L3"
+  },
+  "traffic": {
+    "annual_daily": 5.94,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第10",
+    "jun_total": 245.5,
+    "jun_total_rank": "市内商场第20名",
+    "jun_daily_avg": 8.2,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第20名",
+    "weekday_avg": 7.5,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第20名",
+    "holiday_avg": 10.0,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第24名"
+  },
+  "population": {
+    "residential": {
+      "500m": 1.6,
+      "1_5km": 27.8,
+      "3km": 113.3
+    },
+    "office": {
+      "500m": 8.4,
+      "1_5km": 33.3,
+      "3km": 78.8
+    },
+    "permanent": {
+      "500m": 3.7,
+      "1_5km": 31.7,
+      "3km": 108.5
+    }
+  },
+  "business": {
+    "competitors": 14.0,
+    "food": 455.0,
+    "shopping": 431.0,
+    "leisure": 43.0,
+    "education": 63.0,
+    "hotel": 19.0,
+    "services": 266.0,
+    "fitness": 54.0,
+    "auto": 55.0,
+    "total_stores": 346.0,
+    "old_store_3yr_pct": 49.0
+  },
+  "nearby_poi": {
+    "business": 13.0,
+    "community": 459.0,
+    "office": 124.0,
+    "school": 37.0,
+    "hospital": 200.0,
+    "transport": 21.0,
+    "scenic": 255.0
+  },
+  "demographics": {
+    "male_pct": 48.3,
+    "female_pct": null,
+    "education": {
+      "小学": 11.1,
+      "初中": 19.0,
+      "高中": 11.2,
+      "大专": 9.3,
+      "本科": 44.0,
+      "硕士": 4.6,
+      "博士": 0.8
+    },
+    "has_children_pct": 58.3,
+    "no_children_pct": 41.7
+  },
+  "scraped_at": "2026-08-02T06:25:23.072Z",
+  "nearby_restaurants": [],
+  "nearby_malls": [],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 138.0,
+      "within_1yr_pct": 22.5,
+      "1_3yr_pct": 29.7,
+      "over_3yr_pct": 47.8
+    },
+    {
+      "type": "购物",
+      "count": 162.0,
+      "within_1yr_pct": 20.4,
+      "1_3yr_pct": 23.5,
+      "over_3yr_pct": 56.2
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 15.0,
+      "within_1yr_pct": 40.0,
+      "1_3yr_pct": 40.0,
+      "over_3yr_pct": 20.0
+    },
+    {
+      "type": "教育培训",
+      "count": 1.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "生活服务",
+      "count": 21.0,
+      "within_1yr_pct": 23.8,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 42.9
+    },
+    {
+      "type": "运动健身",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 8.0,
+      "within_1yr_pct": 62.5,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 12.5
+    }
+  ]
+}

@@ -1,0 +1,462 @@
+{
+  "name": "上海高·尚领域国际购物城",
+  "city": "上海市",
+  "address": "上海市普陀区真如镇街道醉辉皇(海逸店)领寓高·尚领域南区",
+  "lat": 31.252955,
+  "lng": 121.40899,
+  "overview": {
+    "score": 84.1,
+    "score_rank": "市内前30%",
+    "population_score": 83.8,
+    "area_score": 80.0,
+    "consumption_score": 84.7,
+    "industry_score": 84.1,
+    "annual_sales": "",
+    "annual_sales_unit": "",
+    "area_size_sqm": null,
+    "open_date": "",
+    "operator": "",
+    "brand": "",
+    "type": "综合型",
+    "floors": "B2-L5"
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "",
+    "annual_daily_rank": "",
+    "jun_total": 21.6,
+    "jun_total_rank": "市内商场第371名",
+    "jun_daily_avg": 7202.0,
+    "jun_daily_unit": "人次",
+    "jun_daily_rank": "市内商场第371名",
+    "weekday_avg": 7933.0,
+    "weekday_unit": "人次",
+    "weekday_rank": "市内商场第348名",
+    "holiday_avg": 5197.0,
+    "holiday_unit": "人次",
+    "holiday_rank": "市内商场第433名"
+  },
+  "population": {
+    "residential": {
+      "500m": 1.9,
+      "1_5km": 23.1,
+      "3km": 108.0
+    },
+    "office": {
+      "500m": 2.5,
+      "1_5km": 13.0,
+      "3km": 55.1
+    },
+    "permanent": {
+      "500m": 2.7,
+      "1_5km": 24.0,
+      "3km": 111.9
+    }
+  },
+  "business": {
+    "competitors": 7.0,
+    "food": 243.0,
+    "shopping": 173.0,
+    "leisure": 20.0,
+    "education": 23.0,
+    "hotel": 18.0,
+    "services": 107.0,
+    "fitness": 28.0,
+    "auto": 27.0,
+    "total_stores": 37.0,
+    "old_store_3yr_pct": 32.0
+  },
+  "nearby_poi": {
+    "business": 7.0,
+    "community": 567.0,
+    "office": 44.0,
+    "school": 36.0,
+    "hospital": 60.0,
+    "transport": 7.0,
+    "scenic": 143.0
+  },
+  "demographics": {
+    "male_pct": 50.0,
+    "female_pct": null,
+    "education": {
+      "小学": 9.3,
+      "初中": 17.7,
+      "高中": 11.6,
+      "大专": 7.2,
+      "本科": 48.3,
+      "硕士": 4.2,
+      "博士": 1.7
+    },
+    "has_children_pct": 56.7,
+    "no_children_pct": 43.3
+  },
+  "scraped_at": "2026-07-31T17:54:07.894Z",
+  "nearby_restaurants": [
+    {
+      "brand": "相思正岩丨茶空间(领寓高·尚领域南区店)",
+      "address": "礼泉路128弄领寓高·尚领域南区",
+      "distance": "29m"
+    },
+    {
+      "brand": "库迪咖啡(高尚领域店)",
+      "address": "礼泉路128弄领寓高·尚领域南区",
+      "distance": "49m"
+    },
+    {
+      "brand": "CUBIC3三立方咖啡(大都会店)",
+      "address": "礼泉路128弄领寓高·尚领域南区",
+      "distance": "49m"
+    },
+    {
+      "brand": "醉辉皇(大都会海逸店)",
+      "address": "礼泉路689弄55号2层(真如地铁站1号口步行300米)",
+      "distance": "52m"
+    },
+    {
+      "brand": "昆仑唐府纯汤兰州牛肉面",
+      "address": "曹杨路1602号一楼L120号",
+      "distance": "57m"
+    },
+    {
+      "brand": "名粤乘龙·潮粤融合菜(LOVE大都会店)",
+      "address": "曹杨路1660号LOVE大都会A5栋整三楼",
+      "distance": "60m"
+    },
+    {
+      "brand": "上海大都会海逸酒店·逸廊",
+      "address": "礼泉路689弄55号(真如地铁站1号口步行270米)",
+      "distance": "64m"
+    },
+    {
+      "brand": "上海大都会海逸酒店·Cafe Metro",
+      "address": "礼泉路689弄55号(大都会海逸酒店1楼)",
+      "distance": "65m"
+    },
+    {
+      "brand": "李与白包子铺(LOVE大都会店)",
+      "address": "铜川路735号LOVE大都会F1层",
+      "distance": "72m"
+    },
+    {
+      "brand": "钱珑·江浙菜",
+      "address": "真如镇街道曹杨路LOVE大都会二楼(龙头位置)",
+      "distance": "74m"
+    },
+    {
+      "brand": "相思正岩丨茶空间(领寓高·尚领域南区店)",
+      "address": "礼泉路128弄领寓高·尚领域南区",
+      "distance": "29m"
+    },
+    {
+      "brand": "库迪咖啡(高尚领域店)",
+      "address": "礼泉路128弄领寓高·尚领域南区",
+      "distance": "49m"
+    },
+    {
+      "brand": "CUBIC3三立方咖啡(大都会店)",
+      "address": "礼泉路128弄领寓高·尚领域南区",
+      "distance": "49m"
+    },
+    {
+      "brand": "醉辉皇(大都会海逸店)",
+      "address": "礼泉路689弄55号2层(真如地铁站1号口步行300米)",
+      "distance": "52m"
+    },
+    {
+      "brand": "昆仑唐府纯汤兰州牛肉面",
+      "address": "曹杨路1602号一楼L120号",
+      "distance": "57m"
+    },
+    {
+      "brand": "名粤乘龙·潮粤融合菜(LOVE大都会店)",
+      "address": "曹杨路1660号LOVE大都会A5栋整三楼",
+      "distance": "60m"
+    },
+    {
+      "brand": "上海大都会海逸酒店·逸廊",
+      "address": "礼泉路689弄55号(真如地铁站1号口步行270米)",
+      "distance": "64m"
+    },
+    {
+      "brand": "上海大都会海逸酒店·Cafe Metro",
+      "address": "礼泉路689弄55号(大都会海逸酒店1楼)",
+      "distance": "65m"
+    },
+    {
+      "brand": "李与白包子铺(LOVE大都会店)",
+      "address": "铜川路735号LOVE大都会F1层",
+      "distance": "72m"
+    },
+    {
+      "brand": "钱珑·江浙菜",
+      "address": "真如镇街道曹杨路LOVE大都会二楼(龙头位置)",
+      "distance": "74m"
+    },
+    {
+      "brand": "相思正岩丨茶空间(领寓高·尚领域南区店)",
+      "address": "礼泉路128弄领寓高·尚领域南区",
+      "distance": "29m"
+    },
+    {
+      "brand": "库迪咖啡(高尚领域店)",
+      "address": "礼泉路128弄领寓高·尚领域南区",
+      "distance": "49m"
+    },
+    {
+      "brand": "CUBIC3三立方咖啡(大都会店)",
+      "address": "礼泉路128弄领寓高·尚领域南区",
+      "distance": "49m"
+    },
+    {
+      "brand": "醉辉皇(大都会海逸店)",
+      "address": "礼泉路689弄55号2层(真如地铁站1号口步行300米)",
+      "distance": "52m"
+    },
+    {
+      "brand": "昆仑唐府纯汤兰州牛肉面",
+      "address": "曹杨路1602号一楼L120号",
+      "distance": "57m"
+    },
+    {
+      "brand": "名粤乘龙·潮粤融合菜(LOVE大都会店)",
+      "address": "曹杨路1660号LOVE大都会A5栋整三楼",
+      "distance": "60m"
+    },
+    {
+      "brand": "上海大都会海逸酒店·逸廊",
+      "address": "礼泉路689弄55号(真如地铁站1号口步行270米)",
+      "distance": "64m"
+    },
+    {
+      "brand": "上海大都会海逸酒店·Cafe Metro",
+      "address": "礼泉路689弄55号(大都会海逸酒店1楼)",
+      "distance": "65m"
+    },
+    {
+      "brand": "李与白包子铺(LOVE大都会店)",
+      "address": "铜川路735号LOVE大都会F1层",
+      "distance": "72m"
+    },
+    {
+      "brand": "钱珑·江浙菜",
+      "address": "真如镇街道曹杨路LOVE大都会二楼(龙头位置)",
+      "distance": "74m"
+    },
+    {
+      "brand": "相思正岩丨茶空间(领寓高·尚领域南区店)",
+      "address": "礼泉路128弄领寓高·尚领域南区",
+      "distance": "29m"
+    },
+    {
+      "brand": "库迪咖啡(高尚领域店)",
+      "address": "礼泉路128弄领寓高·尚领域南区",
+      "distance": "49m"
+    },
+    {
+      "brand": "CUBIC3三立方咖啡(大都会店)",
+      "address": "礼泉路128弄领寓高·尚领域南区",
+      "distance": "49m"
+    },
+    {
+      "brand": "醉辉皇(大都会海逸店)",
+      "address": "礼泉路689弄55号2层(真如地铁站1号口步行300米)",
+      "distance": "52m"
+    },
+    {
+      "brand": "昆仑唐府纯汤兰州牛肉面",
+      "address": "曹杨路1602号一楼L120号",
+      "distance": "57m"
+    },
+    {
+      "brand": "名粤乘龙·潮粤融合菜(LOVE大都会店)",
+      "address": "曹杨路1660号LOVE大都会A5栋整三楼",
+      "distance": "60m"
+    },
+    {
+      "brand": "上海大都会海逸酒店·逸廊",
+      "address": "礼泉路689弄55号(真如地铁站1号口步行270米)",
+      "distance": "64m"
+    },
+    {
+      "brand": "上海大都会海逸酒店·Cafe Metro",
+      "address": "礼泉路689弄55号(大都会海逸酒店1楼)",
+      "distance": "65m"
+    },
+    {
+      "brand": "李与白包子铺(LOVE大都会店)",
+      "address": "铜川路735号LOVE大都会F1层",
+      "distance": "72m"
+    },
+    {
+      "brand": "钱珑·江浙菜",
+      "address": "真如镇街道曹杨路LOVE大都会二楼(龙头位置)",
+      "distance": "74m"
+    },
+    {
+      "brand": "相思正岩丨茶空间(领寓高·尚领域南区店)",
+      "address": "礼泉路128弄领寓高·尚领域南区",
+      "distance": "29m"
+    },
+    {
+      "brand": "库迪咖啡(高尚领域店)",
+      "address": "礼泉路128弄领寓高·尚领域南区",
+      "distance": "49m"
+    },
+    {
+      "brand": "CUBIC3三立方咖啡(大都会店)",
+      "address": "礼泉路128弄领寓高·尚领域南区",
+      "distance": "49m"
+    },
+    {
+      "brand": "醉辉皇(大都会海逸店)",
+      "address": "礼泉路689弄55号2层(真如地铁站1号口步行300米)",
+      "distance": "52m"
+    },
+    {
+      "brand": "昆仑唐府纯汤兰州牛肉面",
+      "address": "曹杨路1602号一楼L120号",
+      "distance": "57m"
+    },
+    {
+      "brand": "名粤乘龙·潮粤融合菜(LOVE大都会店)",
+      "address": "曹杨路1660号LOVE大都会A5栋整三楼",
+      "distance": "60m"
+    },
+    {
+      "brand": "上海大都会海逸酒店·逸廊",
+      "address": "礼泉路689弄55号(真如地铁站1号口步行270米)",
+      "distance": "64m"
+    },
+    {
+      "brand": "上海大都会海逸酒店·Cafe Metro",
+      "address": "礼泉路689弄55号(大都会海逸酒店1楼)",
+      "distance": "65m"
+    },
+    {
+      "brand": "李与白包子铺(LOVE大都会店)",
+      "address": "铜川路735号LOVE大都会F1层",
+      "distance": "72m"
+    },
+    {
+      "brand": "钱珑·江浙菜",
+      "address": "真如镇街道曹杨路LOVE大都会二楼(龙头位置)",
+      "distance": "74m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海真如环宇城MAX",
+      "open_date": "2023-12-22",
+      "area": "7.1万㎡",
+      "jun_daily_avg": "9.5万人次",
+      "weekday_avg": "8.7万人次",
+      "holiday_avg": "11.6万人次"
+    },
+    {
+      "name": "上海真如复悦荟",
+      "open_date": "2019-01-11",
+      "area": "4.8万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海普陀绿地缤纷城",
+      "open_date": "2021-04-30",
+      "area": "3.4万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海弘基时尚生活中心(铜川路店)",
+      "open_date": "2012-03-01",
+      "area": "3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海信泰中心",
+      "open_date": "2023-09-26",
+      "area": "6.7万㎡",
+      "jun_daily_avg": "4.5万人次",
+      "weekday_avg": "4.7万人次",
+      "holiday_avg": "4.1万人次"
+    },
+    {
+      "name": "上海曹杨商城",
+      "open_date": "2011-01-01",
+      "area": "2.5万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海星邻·生活荟",
+      "open_date": "2025-07-31",
+      "area": "3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 15.0,
+      "within_1yr_pct": 13.3,
+      "1_3yr_pct": 60.0,
+      "over_3yr_pct": 26.7
+    },
+    {
+      "type": "购物",
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "教育培训",
+      "count": 2.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 2.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "生活服务",
+      "count": 10.0,
+      "within_1yr_pct": 30.0,
+      "1_3yr_pct": 40.0,
+      "over_3yr_pct": 30.0
+    },
+    {
+      "type": "运动健身",
+      "count": 3.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 66.7
+    },
+    {
+      "type": "车辆服务",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    }
+  ]
+}

@@ -1,0 +1,147 @@
+{
+  "name": "文峰广场",
+  "city": "上海市",
+  "address": "上海市金山区金龙新街458号",
+  "lat": 30.886647,
+  "lng": 121.171294,
+  "overview": {
+    "score": 70.1,
+    "score_rank": "市内前70%",
+    "population_score": 74.3,
+    "area_score": 71.8,
+    "consumption_score": 61.1,
+    "industry_score": 70.1,
+    "annual_sales": "金龙新世界广场位于上海市金山区金龙新街458号，靠近罗星南路、众益街、沈浦泾南路等，交通便利，周边有多条公交线路。项目为内街式商业广场，共5层。广场周边常驻人口约30万，是金山区朱泾镇的重要商业中心。",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 1.68,
+    "open_date": "",
+    "operator": "",
+    "brand": "",
+    "type": "综合型",
+    "floors": "L1-L5"
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "-",
+    "annual_daily_rank": "",
+    "jun_total": null,
+    "jun_total_rank": "",
+    "jun_daily_avg": null,
+    "jun_daily_unit": "",
+    "jun_daily_rank": "",
+    "weekday_avg": null,
+    "weekday_unit": "",
+    "weekday_rank": "",
+    "holiday_avg": null,
+    "holiday_unit": "",
+    "holiday_rank": ""
+  },
+  "population": {
+    "residential": {
+      "500m": 1.1,
+      "1_5km": 7.2,
+      "3km": 13.3
+    },
+    "office": {
+      "500m": 5700.0,
+      "1_5km": 3.2,
+      "3km": 5.7
+    },
+    "permanent": {
+      "500m": 1.2,
+      "1_5km": 7.5,
+      "3km": 13.3
+    }
+  },
+  "business": {
+    "competitors": null,
+    "food": 141.0,
+    "shopping": 84.0,
+    "leisure": 15.0,
+    "education": 26.0,
+    "hotel": 10.0,
+    "services": 98.0,
+    "fitness": 8.0,
+    "auto": 21.0,
+    "total_stores": 27.0,
+    "old_store_3yr_pct": 52.0
+  },
+  "nearby_poi": {
+    "business": 2.0,
+    "community": 76.0,
+    "office": 5.0,
+    "school": 19.0,
+    "hospital": 19.0,
+    "transport": 10.0,
+    "scenic": 54.0
+  },
+  "demographics": {
+    "male_pct": 46.3,
+    "female_pct": null,
+    "education": {
+      "小学": 12.4,
+      "初中": 23.9,
+      "高中": 12.1,
+      "大专": 8.2,
+      "本科": 40.9,
+      "硕士": 1.6,
+      "博士": 0.9
+    },
+    "has_children_pct": 58.1,
+    "no_children_pct": 41.9
+  },
+  "scraped_at": "2026-08-01T17:13:19.013Z",
+  "nearby_restaurants": [],
+  "nearby_malls": [],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 7.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 42.9,
+      "over_3yr_pct": 57.1
+    },
+    {
+      "type": "购物",
+      "count": 11.0,
+      "within_1yr_pct": 45.5,
+      "1_3yr_pct": 18.2,
+      "over_3yr_pct": 36.4
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "教育培训",
+      "count": 2.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "生活服务",
+      "count": 3.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 66.7
+    },
+    {
+      "type": "运动健身",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    }
+  ]
+}

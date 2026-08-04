@@ -1,0 +1,454 @@
+{
+  "name": "百联川沙购物中心",
+  "city": "上海市",
+  "address": "上海市浦东新区川沙路5394号",
+  "lat": 31.186415,
+  "lng": 121.702079,
+  "overview": {
+    "score": 95.9,
+    "score_rank": "市内前30%",
+    "population_score": 82.8,
+    "area_score": 80.5,
+    "consumption_score": 69.3,
+    "industry_score": 96.0,
+    "annual_sales": "百联川沙购物中心定位为“时尚、家庭、社交”全天候体验式生活新中心，立足于川沙新镇核心地区，将充分融合购物、休闲餐饮、文化娱乐和社区服务，以多元化的功能业态、品味优质的购物空间、线上线下的互动购物体验，力争树立起百联川沙购物中心在川沙地区，乃至在浦东新区的独特标杆形象，为浦东商业的发展做出积极贡献",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 6.26,
+    "open_date": "2017-04-27",
+    "operator": "上海百联集团股份有限公司",
+    "brand": "百联",
+    "type": "综合型",
+    "floors": "B1-L5"
+  },
+  "traffic": {
+    "annual_daily": 5.02,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第26",
+    "jun_total": 198.3,
+    "jun_total_rank": "市内商场第34名",
+    "jun_daily_avg": 6.6,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第34名",
+    "weekday_avg": 5.8,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第39名",
+    "holiday_avg": 8.8,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第30名"
+  },
+  "population": {
+    "residential": {
+      "500m": 1.8,
+      "1_5km": 16.2,
+      "3km": 35.5
+    },
+    "office": {
+      "500m": 1.2,
+      "1_5km": 6.5,
+      "3km": 13.8
+    },
+    "permanent": {
+      "500m": 2.3,
+      "1_5km": 16.3,
+      "3km": 33.2
+    }
+  },
+  "business": {
+    "competitors": 5.0,
+    "food": 266.0,
+    "shopping": 187.0,
+    "leisure": 27.0,
+    "education": 44.0,
+    "hotel": 43.0,
+    "services": 190.0,
+    "fitness": 32.0,
+    "auto": 22.0,
+    "total_stores": 206.0,
+    "old_store_3yr_pct": 63.0
+  },
+  "nearby_poi": {
+    "business": 6.0,
+    "community": 205.0,
+    "office": 9.0,
+    "school": 37.0,
+    "hospital": 31.0,
+    "transport": 14.0,
+    "scenic": 82.0
+  },
+  "demographics": {
+    "male_pct": 48.8,
+    "female_pct": null,
+    "education": {
+      "小学": 9.2,
+      "初中": 17.5,
+      "高中": 11.1,
+      "大专": 8.9,
+      "本科": 47.0,
+      "硕士": 5.2,
+      "博士": 1.1
+    },
+    "has_children_pct": 64.5,
+    "no_children_pct": 35.5
+  },
+  "scraped_at": "2026-08-01T04:44:09.909Z",
+  "nearby_restaurants": [
+    {
+      "brand": "左庭右院鲜牛肉火锅(川沙百联店)",
+      "address": "川沙路5398号百联川沙购物中心4楼",
+      "distance": "9m"
+    },
+    {
+      "brand": "云中鱼蒸汽石锅鱼(川沙百联店)",
+      "address": "川沙路5398号百联川沙购物中心F3层F3-01-0001(南5门进入向左走30m,扶梯上到F3可见)",
+      "distance": "12m"
+    },
+    {
+      "brand": "汤伯府·骨汤猪肚鸡(百联川沙店)",
+      "address": "川沙路5398号百联川沙购物中心F4层F4-01-0001",
+      "distance": "17m"
+    },
+    {
+      "brand": "厚贞日式烤肉(百联川沙购物中心店)",
+      "address": "川沙路5398号百联川沙购物中心F3层F3-01-0053",
+      "distance": "20m"
+    },
+    {
+      "brand": "江边城外烤全鱼(百联川沙购物中心店)",
+      "address": "川沙路5398号百联川沙购物中心4楼",
+      "distance": "22m"
+    },
+    {
+      "brand": "西贝(上海百联川沙店)",
+      "address": "川沙路5398号百联川沙购物中心F4层F4-01-0002(南5门进入向左走30m,扶梯上到F4可见)",
+      "distance": "27m"
+    },
+    {
+      "brand": "本来川菜(川沙百联店)",
+      "address": "川沙路5398川沙百联购物中心3层",
+      "distance": "27m"
+    },
+    {
+      "brand": "眉州东坡(百联川沙购物中心店)",
+      "address": "川沙路5398号百联川沙购物中心F4层F4-01-0003",
+      "distance": "32m"
+    },
+    {
+      "brand": "萨莉亚意式餐厅(百联川沙购物中心店)",
+      "address": "川沙路百联川沙购物中心677号4楼",
+      "distance": "42m"
+    },
+    {
+      "brand": "新石器烤肉(百联川沙购物中心店)",
+      "address": "川沙新镇川沙路5398号百联川沙购物中心4楼",
+      "distance": "42m"
+    },
+    {
+      "brand": "左庭右院鲜牛肉火锅(川沙百联店)",
+      "address": "川沙路5398号百联川沙购物中心4楼",
+      "distance": "9m"
+    },
+    {
+      "brand": "云中鱼蒸汽石锅鱼(川沙百联店)",
+      "address": "川沙路5398号百联川沙购物中心F3层F3-01-0001(南5门进入向左走30m,扶梯上到F3可见)",
+      "distance": "12m"
+    },
+    {
+      "brand": "汤伯府·骨汤猪肚鸡(百联川沙店)",
+      "address": "川沙路5398号百联川沙购物中心F4层F4-01-0001",
+      "distance": "17m"
+    },
+    {
+      "brand": "厚贞日式烤肉(百联川沙购物中心店)",
+      "address": "川沙路5398号百联川沙购物中心F3层F3-01-0053",
+      "distance": "20m"
+    },
+    {
+      "brand": "江边城外烤全鱼(百联川沙购物中心店)",
+      "address": "川沙路5398号百联川沙购物中心4楼",
+      "distance": "22m"
+    },
+    {
+      "brand": "西贝(上海百联川沙店)",
+      "address": "川沙路5398号百联川沙购物中心F4层F4-01-0002(南5门进入向左走30m,扶梯上到F4可见)",
+      "distance": "27m"
+    },
+    {
+      "brand": "本来川菜(川沙百联店)",
+      "address": "川沙路5398川沙百联购物中心3层",
+      "distance": "27m"
+    },
+    {
+      "brand": "眉州东坡(百联川沙购物中心店)",
+      "address": "川沙路5398号百联川沙购物中心F4层F4-01-0003",
+      "distance": "32m"
+    },
+    {
+      "brand": "萨莉亚意式餐厅(百联川沙购物中心店)",
+      "address": "川沙路百联川沙购物中心677号4楼",
+      "distance": "42m"
+    },
+    {
+      "brand": "新石器烤肉(百联川沙购物中心店)",
+      "address": "川沙新镇川沙路5398号百联川沙购物中心4楼",
+      "distance": "42m"
+    },
+    {
+      "brand": "左庭右院鲜牛肉火锅(川沙百联店)",
+      "address": "川沙路5398号百联川沙购物中心4楼",
+      "distance": "9m"
+    },
+    {
+      "brand": "云中鱼蒸汽石锅鱼(川沙百联店)",
+      "address": "川沙路5398号百联川沙购物中心F3层F3-01-0001(南5门进入向左走30m,扶梯上到F3可见)",
+      "distance": "12m"
+    },
+    {
+      "brand": "汤伯府·骨汤猪肚鸡(百联川沙店)",
+      "address": "川沙路5398号百联川沙购物中心F4层F4-01-0001",
+      "distance": "17m"
+    },
+    {
+      "brand": "厚贞日式烤肉(百联川沙购物中心店)",
+      "address": "川沙路5398号百联川沙购物中心F3层F3-01-0053",
+      "distance": "20m"
+    },
+    {
+      "brand": "江边城外烤全鱼(百联川沙购物中心店)",
+      "address": "川沙路5398号百联川沙购物中心4楼",
+      "distance": "22m"
+    },
+    {
+      "brand": "西贝(上海百联川沙店)",
+      "address": "川沙路5398号百联川沙购物中心F4层F4-01-0002(南5门进入向左走30m,扶梯上到F4可见)",
+      "distance": "27m"
+    },
+    {
+      "brand": "本来川菜(川沙百联店)",
+      "address": "川沙路5398川沙百联购物中心3层",
+      "distance": "27m"
+    },
+    {
+      "brand": "眉州东坡(百联川沙购物中心店)",
+      "address": "川沙路5398号百联川沙购物中心F4层F4-01-0003",
+      "distance": "32m"
+    },
+    {
+      "brand": "萨莉亚意式餐厅(百联川沙购物中心店)",
+      "address": "川沙路百联川沙购物中心677号4楼",
+      "distance": "42m"
+    },
+    {
+      "brand": "新石器烤肉(百联川沙购物中心店)",
+      "address": "川沙新镇川沙路5398号百联川沙购物中心4楼",
+      "distance": "42m"
+    },
+    {
+      "brand": "左庭右院鲜牛肉火锅(川沙百联店)",
+      "address": "川沙路5398号百联川沙购物中心4楼",
+      "distance": "9m"
+    },
+    {
+      "brand": "云中鱼蒸汽石锅鱼(川沙百联店)",
+      "address": "川沙路5398号百联川沙购物中心F3层F3-01-0001(南5门进入向左走30m,扶梯上到F3可见)",
+      "distance": "12m"
+    },
+    {
+      "brand": "汤伯府·骨汤猪肚鸡(百联川沙店)",
+      "address": "川沙路5398号百联川沙购物中心F4层F4-01-0001",
+      "distance": "17m"
+    },
+    {
+      "brand": "厚贞日式烤肉(百联川沙购物中心店)",
+      "address": "川沙路5398号百联川沙购物中心F3层F3-01-0053",
+      "distance": "20m"
+    },
+    {
+      "brand": "江边城外烤全鱼(百联川沙购物中心店)",
+      "address": "川沙路5398号百联川沙购物中心4楼",
+      "distance": "22m"
+    },
+    {
+      "brand": "西贝(上海百联川沙店)",
+      "address": "川沙路5398号百联川沙购物中心F4层F4-01-0002(南5门进入向左走30m,扶梯上到F4可见)",
+      "distance": "27m"
+    },
+    {
+      "brand": "本来川菜(川沙百联店)",
+      "address": "川沙路5398川沙百联购物中心3层",
+      "distance": "27m"
+    },
+    {
+      "brand": "眉州东坡(百联川沙购物中心店)",
+      "address": "川沙路5398号百联川沙购物中心F4层F4-01-0003",
+      "distance": "32m"
+    },
+    {
+      "brand": "萨莉亚意式餐厅(百联川沙购物中心店)",
+      "address": "川沙路百联川沙购物中心677号4楼",
+      "distance": "42m"
+    },
+    {
+      "brand": "新石器烤肉(百联川沙购物中心店)",
+      "address": "川沙新镇川沙路5398号百联川沙购物中心4楼",
+      "distance": "42m"
+    },
+    {
+      "brand": "左庭右院鲜牛肉火锅(川沙百联店)",
+      "address": "川沙路5398号百联川沙购物中心4楼",
+      "distance": "9m"
+    },
+    {
+      "brand": "云中鱼蒸汽石锅鱼(川沙百联店)",
+      "address": "川沙路5398号百联川沙购物中心F3层F3-01-0001(南5门进入向左走30m,扶梯上到F3可见)",
+      "distance": "12m"
+    },
+    {
+      "brand": "汤伯府·骨汤猪肚鸡(百联川沙店)",
+      "address": "川沙路5398号百联川沙购物中心F4层F4-01-0001",
+      "distance": "17m"
+    },
+    {
+      "brand": "厚贞日式烤肉(百联川沙购物中心店)",
+      "address": "川沙路5398号百联川沙购物中心F3层F3-01-0053",
+      "distance": "20m"
+    },
+    {
+      "brand": "江边城外烤全鱼(百联川沙购物中心店)",
+      "address": "川沙路5398号百联川沙购物中心4楼",
+      "distance": "22m"
+    },
+    {
+      "brand": "西贝(上海百联川沙店)",
+      "address": "川沙路5398号百联川沙购物中心F4层F4-01-0002(南5门进入向左走30m,扶梯上到F4可见)",
+      "distance": "27m"
+    },
+    {
+      "brand": "本来川菜(川沙百联店)",
+      "address": "川沙路5398川沙百联购物中心3层",
+      "distance": "27m"
+    },
+    {
+      "brand": "眉州东坡(百联川沙购物中心店)",
+      "address": "川沙路5398号百联川沙购物中心F4层F4-01-0003",
+      "distance": "32m"
+    },
+    {
+      "brand": "萨莉亚意式餐厅(百联川沙购物中心店)",
+      "address": "川沙路百联川沙购物中心677号4楼",
+      "distance": "42m"
+    },
+    {
+      "brand": "新石器烤肉(百联川沙购物中心店)",
+      "address": "川沙新镇川沙路5398号百联川沙购物中心4楼",
+      "distance": "42m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海绿地东海岸国际广场",
+      "open_date": "2009-01-01",
+      "area": "14.6万㎡",
+      "jun_daily_avg": "1.3万人次",
+      "weekday_avg": "1.2万人次",
+      "holiday_avg": "1.6万人次"
+    },
+    {
+      "name": "川沙商业广场",
+      "open_date": "-",
+      "area": "-",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海川沙九六广场",
+      "open_date": "2024-12-27",
+      "area": "3.5万㎡",
+      "jun_daily_avg": "1.9万人次",
+      "weekday_avg": "1.7万人次",
+      "holiday_avg": "2.4万人次"
+    },
+    {
+      "name": "上海潮人商场",
+      "open_date": "-",
+      "area": "6万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海浦东现代商业广场(川沙店)",
+      "open_date": "2023-07-01",
+      "area": "4万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海玛雅现代生活广场",
+      "open_date": "-",
+      "area": "-",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 87.0,
+      "within_1yr_pct": 11.5,
+      "1_3yr_pct": 23.0,
+      "over_3yr_pct": 65.5
+    },
+    {
+      "type": "购物",
+      "count": 90.0,
+      "within_1yr_pct": 10.0,
+      "1_3yr_pct": 25.6,
+      "over_3yr_pct": 64.4
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 3.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 66.7
+    },
+    {
+      "type": "教育培训",
+      "count": 5.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 20.0,
+      "over_3yr_pct": 80.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 1.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "生活服务",
+      "count": 10.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 20.0,
+      "over_3yr_pct": 60.0
+    },
+    {
+      "type": "运动健身",
+      "count": 4.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 25.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 6.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 33.3
+    }
+  ]
+}

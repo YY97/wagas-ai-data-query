@@ -1,0 +1,446 @@
+{
+  "name": "新世纪商城(三宫庙胡同店)",
+  "city": "北京市",
+  "address": "北京市昌平区城北街道东户部街新世纪商城",
+  "lat": 40.21954,
+  "lng": 116.233549,
+  "overview": {
+    "score": 87.1,
+    "score_rank": "市内前30%",
+    "population_score": 89.3,
+    "area_score": 92.8,
+    "consumption_score": 66.1,
+    "industry_score": 87.0,
+    "annual_sales": "",
+    "annual_sales_unit": "",
+    "area_size_sqm": null,
+    "open_date": "",
+    "operator": "",
+    "brand": "",
+    "type": "",
+    "floors": ""
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "",
+    "annual_daily_rank": "",
+    "jun_total": null,
+    "jun_total_rank": "",
+    "jun_daily_avg": null,
+    "jun_daily_unit": "",
+    "jun_daily_rank": "",
+    "weekday_avg": null,
+    "weekday_unit": "",
+    "weekday_rank": "",
+    "holiday_avg": null,
+    "holiday_unit": "",
+    "holiday_rank": ""
+  },
+  "population": {
+    "residential": {
+      "500m": 2.1,
+      "1_5km": 19.7,
+      "3km": 37.3
+    },
+    "office": {
+      "500m": 1.4,
+      "1_5km": 9.8,
+      "3km": 18.5
+    },
+    "permanent": {
+      "500m": 2.1,
+      "1_5km": 19.0,
+      "3km": 34.9
+    }
+  },
+  "business": {
+    "competitors": null,
+    "food": 244.0,
+    "shopping": 215.0,
+    "leisure": 25.0,
+    "education": 45.0,
+    "hotel": 55.0,
+    "services": 262.0,
+    "fitness": 14.0,
+    "auto": 6.0,
+    "total_stores": 868.0,
+    "old_store_3yr_pct": 48.0
+  },
+  "nearby_poi": {
+    "business": 5.0,
+    "community": 213.0,
+    "office": 25.0,
+    "school": 50.0,
+    "hospital": 81.0,
+    "transport": 9.0,
+    "scenic": 55.0
+  },
+  "demographics": {
+    "male_pct": 50.6,
+    "female_pct": null,
+    "education": {
+      "小学": 7.7,
+      "初中": 14.5,
+      "高中": 12.1,
+      "大专": 8.0,
+      "本科": 48.7,
+      "硕士": 7.6,
+      "博士": 1.4
+    },
+    "has_children_pct": null,
+    "no_children_pct": null
+  },
+  "scraped_at": "2026-08-01T22:34:19.170Z",
+  "nearby_restaurants": [
+    {
+      "brand": "怪会卷·徐州肉筋卷饼",
+      "address": "东户部街与鼓楼南街交叉口西100米",
+      "distance": "6m"
+    },
+    {
+      "brand": "锡盟羊杂",
+      "address": "新世纪商城东北门西100米(昌平地铁站A西北口步行300米)",
+      "distance": "7m"
+    },
+    {
+      "brand": "老北京串串香(新世纪店)",
+      "address": "城北街道五街营坊胡同11号(昌平地铁站A西北口步行300米)",
+      "distance": "7m"
+    },
+    {
+      "brand": "三米粥铺(昌平店)",
+      "address": "城北街道城区政府街16号3号楼三米粥铺",
+      "distance": "7m"
+    },
+    {
+      "brand": "安徽太和板面(政府街店)",
+      "address": "政府街阳光青年公寓旁(昌平地铁站A西北口步行250米)",
+      "distance": "12m"
+    },
+    {
+      "brand": "瑞鼎源东北菜馆",
+      "address": "五城社区营房胡同15号(昌平地铁站A西北口步行330米)",
+      "distance": "36m"
+    },
+    {
+      "brand": "湘川小吃麻辣烫米线(新世纪商城店)",
+      "address": "鼓楼南大街17号新世纪商城B1层",
+      "distance": "39m"
+    },
+    {
+      "brand": "重庆鸡公煲(昌平店)",
+      "address": "新世纪商城东北门西50米(昌平地铁站A西北口步行260米)",
+      "distance": "46m"
+    },
+    {
+      "brand": "阳光烤串",
+      "address": "东户部街(昌平地铁站A西北口步行360米)",
+      "distance": "50m"
+    },
+    {
+      "brand": "黄隐厨成都老妈蹄花汤(总店)",
+      "address": "北京城区鼓楼南街20号中国黄金2层(昌平地铁站A西北口步行250米)",
+      "distance": "58m"
+    },
+    {
+      "brand": "怪会卷·徐州肉筋卷饼",
+      "address": "东户部街与鼓楼南街交叉口西100米",
+      "distance": "6m"
+    },
+    {
+      "brand": "锡盟羊杂",
+      "address": "新世纪商城东北门西100米(昌平地铁站A西北口步行300米)",
+      "distance": "7m"
+    },
+    {
+      "brand": "老北京串串香(新世纪店)",
+      "address": "城北街道五街营坊胡同11号(昌平地铁站A西北口步行300米)",
+      "distance": "7m"
+    },
+    {
+      "brand": "三米粥铺(昌平店)",
+      "address": "城北街道城区政府街16号3号楼三米粥铺",
+      "distance": "7m"
+    },
+    {
+      "brand": "安徽太和板面(政府街店)",
+      "address": "政府街阳光青年公寓旁(昌平地铁站A西北口步行250米)",
+      "distance": "12m"
+    },
+    {
+      "brand": "瑞鼎源东北菜馆",
+      "address": "五城社区营房胡同15号(昌平地铁站A西北口步行330米)",
+      "distance": "36m"
+    },
+    {
+      "brand": "湘川小吃麻辣烫米线(新世纪商城店)",
+      "address": "鼓楼南大街17号新世纪商城B1层",
+      "distance": "39m"
+    },
+    {
+      "brand": "重庆鸡公煲(昌平店)",
+      "address": "新世纪商城东北门西50米(昌平地铁站A西北口步行260米)",
+      "distance": "46m"
+    },
+    {
+      "brand": "阳光烤串",
+      "address": "东户部街(昌平地铁站A西北口步行360米)",
+      "distance": "50m"
+    },
+    {
+      "brand": "黄隐厨成都老妈蹄花汤(总店)",
+      "address": "北京城区鼓楼南街20号中国黄金2层(昌平地铁站A西北口步行250米)",
+      "distance": "58m"
+    },
+    {
+      "brand": "怪会卷·徐州肉筋卷饼",
+      "address": "东户部街与鼓楼南街交叉口西100米",
+      "distance": "6m"
+    },
+    {
+      "brand": "锡盟羊杂",
+      "address": "新世纪商城东北门西100米(昌平地铁站A西北口步行300米)",
+      "distance": "7m"
+    },
+    {
+      "brand": "老北京串串香(新世纪店)",
+      "address": "城北街道五街营坊胡同11号(昌平地铁站A西北口步行300米)",
+      "distance": "7m"
+    },
+    {
+      "brand": "三米粥铺(昌平店)",
+      "address": "城北街道城区政府街16号3号楼三米粥铺",
+      "distance": "7m"
+    },
+    {
+      "brand": "安徽太和板面(政府街店)",
+      "address": "政府街阳光青年公寓旁(昌平地铁站A西北口步行250米)",
+      "distance": "12m"
+    },
+    {
+      "brand": "瑞鼎源东北菜馆",
+      "address": "五城社区营房胡同15号(昌平地铁站A西北口步行330米)",
+      "distance": "36m"
+    },
+    {
+      "brand": "湘川小吃麻辣烫米线(新世纪商城店)",
+      "address": "鼓楼南大街17号新世纪商城B1层",
+      "distance": "39m"
+    },
+    {
+      "brand": "重庆鸡公煲(昌平店)",
+      "address": "新世纪商城东北门西50米(昌平地铁站A西北口步行260米)",
+      "distance": "46m"
+    },
+    {
+      "brand": "阳光烤串",
+      "address": "东户部街(昌平地铁站A西北口步行360米)",
+      "distance": "50m"
+    },
+    {
+      "brand": "黄隐厨成都老妈蹄花汤(总店)",
+      "address": "北京城区鼓楼南街20号中国黄金2层(昌平地铁站A西北口步行250米)",
+      "distance": "58m"
+    },
+    {
+      "brand": "怪会卷·徐州肉筋卷饼",
+      "address": "东户部街与鼓楼南街交叉口西100米",
+      "distance": "6m"
+    },
+    {
+      "brand": "锡盟羊杂",
+      "address": "新世纪商城东北门西100米(昌平地铁站A西北口步行300米)",
+      "distance": "7m"
+    },
+    {
+      "brand": "老北京串串香(新世纪店)",
+      "address": "城北街道五街营坊胡同11号(昌平地铁站A西北口步行300米)",
+      "distance": "7m"
+    },
+    {
+      "brand": "三米粥铺(昌平店)",
+      "address": "城北街道城区政府街16号3号楼三米粥铺",
+      "distance": "7m"
+    },
+    {
+      "brand": "安徽太和板面(政府街店)",
+      "address": "政府街阳光青年公寓旁(昌平地铁站A西北口步行250米)",
+      "distance": "12m"
+    },
+    {
+      "brand": "瑞鼎源东北菜馆",
+      "address": "五城社区营房胡同15号(昌平地铁站A西北口步行330米)",
+      "distance": "36m"
+    },
+    {
+      "brand": "湘川小吃麻辣烫米线(新世纪商城店)",
+      "address": "鼓楼南大街17号新世纪商城B1层",
+      "distance": "39m"
+    },
+    {
+      "brand": "重庆鸡公煲(昌平店)",
+      "address": "新世纪商城东北门西50米(昌平地铁站A西北口步行260米)",
+      "distance": "46m"
+    },
+    {
+      "brand": "阳光烤串",
+      "address": "东户部街(昌平地铁站A西北口步行360米)",
+      "distance": "50m"
+    },
+    {
+      "brand": "黄隐厨成都老妈蹄花汤(总店)",
+      "address": "北京城区鼓楼南街20号中国黄金2层(昌平地铁站A西北口步行250米)",
+      "distance": "58m"
+    },
+    {
+      "brand": "怪会卷·徐州肉筋卷饼",
+      "address": "东户部街与鼓楼南街交叉口西100米",
+      "distance": "6m"
+    },
+    {
+      "brand": "锡盟羊杂",
+      "address": "新世纪商城东北门西100米(昌平地铁站A西北口步行300米)",
+      "distance": "7m"
+    },
+    {
+      "brand": "老北京串串香(新世纪店)",
+      "address": "城北街道五街营坊胡同11号(昌平地铁站A西北口步行300米)",
+      "distance": "7m"
+    },
+    {
+      "brand": "三米粥铺(昌平店)",
+      "address": "城北街道城区政府街16号3号楼三米粥铺",
+      "distance": "7m"
+    },
+    {
+      "brand": "安徽太和板面(政府街店)",
+      "address": "政府街阳光青年公寓旁(昌平地铁站A西北口步行250米)",
+      "distance": "12m"
+    },
+    {
+      "brand": "瑞鼎源东北菜馆",
+      "address": "五城社区营房胡同15号(昌平地铁站A西北口步行330米)",
+      "distance": "36m"
+    },
+    {
+      "brand": "湘川小吃麻辣烫米线(新世纪商城店)",
+      "address": "鼓楼南大街17号新世纪商城B1层",
+      "distance": "39m"
+    },
+    {
+      "brand": "重庆鸡公煲(昌平店)",
+      "address": "新世纪商城东北门西50米(昌平地铁站A西北口步行260米)",
+      "distance": "46m"
+    },
+    {
+      "brand": "阳光烤串",
+      "address": "东户部街(昌平地铁站A西北口步行360米)",
+      "distance": "50m"
+    },
+    {
+      "brand": "黄隐厨成都老妈蹄花汤(总店)",
+      "address": "北京城区鼓楼南街20号中国黄金2层(昌平地铁站A西北口步行250米)",
+      "distance": "58m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "北京新世纪商城(三宫庙胡同店)",
+      "open_date": "1994-09-28",
+      "area": "1.7万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "北京佳莲时代广场",
+      "open_date": "2015-07-07",
+      "area": "3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "北京国泰百货(昌平店)",
+      "open_date": "2006-01-01",
+      "area": "1.5万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "北京阳光商厦(燕平路店)",
+      "open_date": "2016-01-01",
+      "area": "2.7万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "北京悦荟万科广场",
+      "open_date": "2013-12-24",
+      "area": "14万㎡",
+      "jun_daily_avg": "4.9万人次",
+      "weekday_avg": "4.3万人次",
+      "holiday_avg": "6.5万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 244.0,
+      "within_1yr_pct": 29.1,
+      "1_3yr_pct": 27.9,
+      "over_3yr_pct": 43.0
+    },
+    {
+      "type": "购物",
+      "count": 215.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 27.9,
+      "over_3yr_pct": 52.1
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 27.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 29.6,
+      "over_3yr_pct": 37.0
+    },
+    {
+      "type": "教育培训",
+      "count": 45.0,
+      "within_1yr_pct": 15.6,
+      "1_3yr_pct": 35.6,
+      "over_3yr_pct": 48.9
+    },
+    {
+      "type": "酒店住宿",
+      "count": 55.0,
+      "within_1yr_pct": 25.5,
+      "1_3yr_pct": 27.3,
+      "over_3yr_pct": 47.3
+    },
+    {
+      "type": "生活服务",
+      "count": 262.0,
+      "within_1yr_pct": 22.5,
+      "1_3yr_pct": 28.6,
+      "over_3yr_pct": 48.9
+    },
+    {
+      "type": "运动健身",
+      "count": 14.0,
+      "within_1yr_pct": 14.3,
+      "1_3yr_pct": 35.7,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 6.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 16.7,
+      "over_3yr_pct": 50.0
+    }
+  ]
+}

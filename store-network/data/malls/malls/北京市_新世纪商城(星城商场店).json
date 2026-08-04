@@ -1,0 +1,241 @@
+{
+  "name": "新世纪商城(星城商场店)",
+  "city": "北京市",
+  "address": "上海市浦东新区川沙新镇玛雅·现代生活广场玛雅·现代生活广场B座",
+  "lat": null,
+  "lng": null,
+  "overview": {
+    "score": null,
+    "score_rank": "",
+    "population_score": 89.7,
+    "area_score": 85.4,
+    "consumption_score": 65.3,
+    "industry_score": 66.5,
+    "annual_sales": "",
+    "annual_sales_unit": "",
+    "area_size_sqm": null,
+    "open_date": "",
+    "operator": "",
+    "brand": "",
+    "type": "综合型",
+    "floors": "B1-L4"
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "",
+    "annual_daily_rank": "",
+    "jun_total": null,
+    "jun_total_rank": "",
+    "jun_daily_avg": null,
+    "jun_daily_unit": "",
+    "jun_daily_rank": "",
+    "weekday_avg": null,
+    "weekday_unit": "",
+    "weekday_rank": "",
+    "holiday_avg": null,
+    "holiday_unit": "",
+    "holiday_rank": ""
+  },
+  "population": {
+    "residential": {
+      "500m": 2.4,
+      "1_5km": 15.8,
+      "3km": 37.4
+    },
+    "office": {
+      "500m": 1.2,
+      "1_5km": 6.8,
+      "3km": 14.4
+    },
+    "permanent": {
+      "500m": 2.5,
+      "1_5km": 16.0,
+      "3km": 34.4
+    }
+  },
+  "business": {
+    "competitors": 1.0,
+    "food": 189.0,
+    "shopping": 270.0,
+    "leisure": 18.0,
+    "education": 36.0,
+    "hotel": 35.0,
+    "services": 182.0,
+    "fitness": 13.0,
+    "auto": 17.0,
+    "total_stores": 14.0,
+    "old_store_3yr_pct": 36.0
+  },
+  "nearby_poi": {
+    "business": 5.0,
+    "community": 213.0,
+    "office": 12.0,
+    "school": 33.0,
+    "hospital": 35.0,
+    "transport": 12.0,
+    "scenic": 63.0
+  },
+  "demographics": {
+    "male_pct": 49.3,
+    "female_pct": null,
+    "education": {
+      "小学": 9.3,
+      "初中": 17.5,
+      "高中": 11.2,
+      "大专": 8.9,
+      "本科": 46.7,
+      "硕士": 5.2,
+      "博士": 1.2
+    },
+    "has_children_pct": 64.9,
+    "no_children_pct": 35.1
+  },
+  "scraped_at": "2026-08-01T09:37:32.405Z",
+  "nearby_restaurants": [
+    {
+      "brand": "煎饼果子(川沙路店)",
+      "address": "临园小区西区东门旁",
+      "distance": "489m"
+    },
+    {
+      "brand": "陈冉红烧牛肉面(新川路店)",
+      "address": "新川路272号120.121.122室",
+      "distance": "490m"
+    },
+    {
+      "brand": "上海老式葱油饼",
+      "address": "川沙镇北市街112号",
+      "distance": "490m"
+    },
+    {
+      "brand": "渝味川旋转小火锅",
+      "address": "新川路272号",
+      "distance": "494m"
+    },
+    {
+      "brand": "甲家铺子烧烤",
+      "address": "北市街212号",
+      "distance": "495m"
+    },
+    {
+      "brand": "胡记锅贴",
+      "address": "新川路272号2幢117室",
+      "distance": "496m"
+    },
+    {
+      "brand": "万三烤猪蹄(新川店)",
+      "address": "川沙路5015弄1-3号临园小区",
+      "distance": "497m"
+    },
+    {
+      "brand": "江西小炒·木桶饭(新川路店)",
+      "address": "川沙镇新川路272号-116室",
+      "distance": "498m"
+    },
+    {
+      "brand": "老李哥狮子头(川沙店)",
+      "address": "北市街167号",
+      "distance": "498m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海浦东现代商业广场(川沙店)",
+      "open_date": "2023-07-01",
+      "area": "4万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海潮人商场",
+      "open_date": "-",
+      "area": "6万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海浦东新区金汇广场",
+      "open_date": "2014-01-01",
+      "area": "15万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海百联川沙购物中心",
+      "open_date": "2017-04-27",
+      "area": "6.3万㎡",
+      "jun_daily_avg": "6.6万人次",
+      "weekday_avg": "5.8万人次",
+      "holiday_avg": "8.8万人次"
+    },
+    {
+      "name": "上海绿地东海岸国际广场",
+      "open_date": "2009-01-01",
+      "area": "14.6万㎡",
+      "jun_daily_avg": "1.3万人次",
+      "weekday_avg": "1.2万人次",
+      "holiday_avg": "1.6万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 55.0,
+      "within_1yr_pct": 23.6,
+      "1_3yr_pct": 29.1,
+      "over_3yr_pct": 47.3
+    },
+    {
+      "type": "购物",
+      "count": 31.0,
+      "within_1yr_pct": 19.4,
+      "1_3yr_pct": 25.8,
+      "over_3yr_pct": 54.8
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 8.0,
+      "within_1yr_pct": 12.5,
+      "1_3yr_pct": 37.5,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "教育培训",
+      "count": 3.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 3.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 33.3
+    },
+    {
+      "type": "生活服务",
+      "count": 23.0,
+      "within_1yr_pct": 21.7,
+      "1_3yr_pct": 21.7,
+      "over_3yr_pct": 56.5
+    },
+    {
+      "type": "运动健身",
+      "count": 5.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 40.0,
+      "over_3yr_pct": 40.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 50.0
+    }
+  ]
+}

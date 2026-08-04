@@ -1,0 +1,422 @@
+{
+  "name": "家家福购物中心",
+  "city": "北京市",
+  "address": "北京市丰台区青塔街道民岳家园民岳家园西区",
+  "lat": 39.87973,
+  "lng": 116.269839,
+  "overview": {
+    "score": 75.8,
+    "score_rank": "市内前50%",
+    "population_score": 93.9,
+    "area_score": 82.1,
+    "consumption_score": 71.9,
+    "industry_score": 75.7,
+    "annual_sales": "",
+    "annual_sales_unit": "",
+    "area_size_sqm": null,
+    "open_date": "",
+    "operator": "",
+    "brand": "",
+    "type": "",
+    "floors": ""
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "",
+    "annual_daily_rank": "",
+    "jun_total": null,
+    "jun_total_rank": "",
+    "jun_daily_avg": null,
+    "jun_daily_unit": "",
+    "jun_daily_rank": "",
+    "weekday_avg": null,
+    "weekday_unit": "",
+    "weekday_rank": "",
+    "holiday_avg": null,
+    "holiday_unit": "",
+    "holiday_rank": ""
+  },
+  "population": {
+    "residential": {
+      "500m": 2.8,
+      "1_5km": 14.8,
+      "3km": 62.1
+    },
+    "office": {
+      "500m": 9600.0,
+      "1_5km": 6.3,
+      "3km": 26.1
+    },
+    "permanent": {
+      "500m": 2.7,
+      "1_5km": 14.1,
+      "3km": 60.1
+    }
+  },
+  "business": {
+    "competitors": null,
+    "food": 126.0,
+    "shopping": 99.0,
+    "leisure": 2.0,
+    "education": 3.0,
+    "hotel": 12.0,
+    "services": 98.0,
+    "fitness": 8.0,
+    "auto": 21.0,
+    "total_stores": 370.0,
+    "old_store_3yr_pct": 45.0
+  },
+  "nearby_poi": {
+    "business": 2.0,
+    "community": 284.0,
+    "office": 24.0,
+    "school": 20.0,
+    "hospital": 47.0,
+    "transport": 5.0,
+    "scenic": 52.0
+  },
+  "demographics": {
+    "male_pct": 50.5,
+    "female_pct": null,
+    "education": {
+      "小学": 10.0,
+      "初中": 16.6,
+      "高中": 11.3,
+      "大专": 7.0,
+      "本科": 46.9,
+      "硕士": 6.5,
+      "博士": 1.7
+    },
+    "has_children_pct": null,
+    "no_children_pct": null
+  },
+  "scraped_at": "2026-08-01T09:47:59.090Z",
+  "nearby_restaurants": [
+    {
+      "brand": "北京稻香村(梅市口店)",
+      "address": "梅市口路12号院4号楼底商133室",
+      "distance": "31m"
+    },
+    {
+      "brand": "蟹宝宝蟹黄拌饭(民岳家园西区店)",
+      "address": "梅市口路12号民岳家园西区",
+      "distance": "49m"
+    },
+    {
+      "brand": "味多美(民岳家园)",
+      "address": "北京城区梅市口路12号院1号楼1层",
+      "distance": "55m"
+    },
+    {
+      "brand": "金鱼道小龙虾(岳各庄店)",
+      "address": "梅市口路与田各庄东路交叉口西60米",
+      "distance": "59m"
+    },
+    {
+      "brand": "木屋烧烤(丰台梅市口店)",
+      "address": "梅市口路15号院7号楼1层7-6",
+      "distance": "61m"
+    },
+    {
+      "brand": "田老师红烧肉(梅市口店)",
+      "address": "岳各庄梅市口路8号院(民岳家园附近)",
+      "distance": "62m"
+    },
+    {
+      "brand": "庆丰包子铺(梅市口店)",
+      "address": "梅市口路15号院7号楼",
+      "distance": "63m"
+    },
+    {
+      "brand": "无名缘米粉(梅市口店)",
+      "address": "北京城区梅市口路12号院1号楼",
+      "distance": "65m"
+    },
+    {
+      "brand": "紫光园·烤鸭(梅市口店)",
+      "address": "梅市口路15号西府景园",
+      "distance": "66m"
+    },
+    {
+      "brand": "艺搏金牌肥肠芋儿鸡(岳各庄店)",
+      "address": "北京城区梅市口路12号院1号楼1层106-1",
+      "distance": "67m"
+    },
+    {
+      "brand": "北京稻香村(梅市口店)",
+      "address": "梅市口路12号院4号楼底商133室",
+      "distance": "31m"
+    },
+    {
+      "brand": "蟹宝宝蟹黄拌饭(民岳家园西区店)",
+      "address": "梅市口路12号民岳家园西区",
+      "distance": "49m"
+    },
+    {
+      "brand": "味多美(民岳家园)",
+      "address": "北京城区梅市口路12号院1号楼1层",
+      "distance": "55m"
+    },
+    {
+      "brand": "金鱼道小龙虾(岳各庄店)",
+      "address": "梅市口路与田各庄东路交叉口西60米",
+      "distance": "59m"
+    },
+    {
+      "brand": "木屋烧烤(丰台梅市口店)",
+      "address": "梅市口路15号院7号楼1层7-6",
+      "distance": "61m"
+    },
+    {
+      "brand": "田老师红烧肉(梅市口店)",
+      "address": "岳各庄梅市口路8号院(民岳家园附近)",
+      "distance": "62m"
+    },
+    {
+      "brand": "庆丰包子铺(梅市口店)",
+      "address": "梅市口路15号院7号楼",
+      "distance": "63m"
+    },
+    {
+      "brand": "无名缘米粉(梅市口店)",
+      "address": "北京城区梅市口路12号院1号楼",
+      "distance": "65m"
+    },
+    {
+      "brand": "紫光园·烤鸭(梅市口店)",
+      "address": "梅市口路15号西府景园",
+      "distance": "66m"
+    },
+    {
+      "brand": "艺搏金牌肥肠芋儿鸡(岳各庄店)",
+      "address": "北京城区梅市口路12号院1号楼1层106-1",
+      "distance": "67m"
+    },
+    {
+      "brand": "北京稻香村(梅市口店)",
+      "address": "梅市口路12号院4号楼底商133室",
+      "distance": "31m"
+    },
+    {
+      "brand": "蟹宝宝蟹黄拌饭(民岳家园西区店)",
+      "address": "梅市口路12号民岳家园西区",
+      "distance": "49m"
+    },
+    {
+      "brand": "味多美(民岳家园)",
+      "address": "北京城区梅市口路12号院1号楼1层",
+      "distance": "55m"
+    },
+    {
+      "brand": "金鱼道小龙虾(岳各庄店)",
+      "address": "梅市口路与田各庄东路交叉口西60米",
+      "distance": "59m"
+    },
+    {
+      "brand": "木屋烧烤(丰台梅市口店)",
+      "address": "梅市口路15号院7号楼1层7-6",
+      "distance": "61m"
+    },
+    {
+      "brand": "田老师红烧肉(梅市口店)",
+      "address": "岳各庄梅市口路8号院(民岳家园附近)",
+      "distance": "62m"
+    },
+    {
+      "brand": "庆丰包子铺(梅市口店)",
+      "address": "梅市口路15号院7号楼",
+      "distance": "63m"
+    },
+    {
+      "brand": "无名缘米粉(梅市口店)",
+      "address": "北京城区梅市口路12号院1号楼",
+      "distance": "65m"
+    },
+    {
+      "brand": "紫光园·烤鸭(梅市口店)",
+      "address": "梅市口路15号西府景园",
+      "distance": "66m"
+    },
+    {
+      "brand": "艺搏金牌肥肠芋儿鸡(岳各庄店)",
+      "address": "北京城区梅市口路12号院1号楼1层106-1",
+      "distance": "67m"
+    },
+    {
+      "brand": "北京稻香村(梅市口店)",
+      "address": "梅市口路12号院4号楼底商133室",
+      "distance": "31m"
+    },
+    {
+      "brand": "蟹宝宝蟹黄拌饭(民岳家园西区店)",
+      "address": "梅市口路12号民岳家园西区",
+      "distance": "49m"
+    },
+    {
+      "brand": "味多美(民岳家园)",
+      "address": "北京城区梅市口路12号院1号楼1层",
+      "distance": "55m"
+    },
+    {
+      "brand": "金鱼道小龙虾(岳各庄店)",
+      "address": "梅市口路与田各庄东路交叉口西60米",
+      "distance": "59m"
+    },
+    {
+      "brand": "木屋烧烤(丰台梅市口店)",
+      "address": "梅市口路15号院7号楼1层7-6",
+      "distance": "61m"
+    },
+    {
+      "brand": "田老师红烧肉(梅市口店)",
+      "address": "岳各庄梅市口路8号院(民岳家园附近)",
+      "distance": "62m"
+    },
+    {
+      "brand": "庆丰包子铺(梅市口店)",
+      "address": "梅市口路15号院7号楼",
+      "distance": "63m"
+    },
+    {
+      "brand": "无名缘米粉(梅市口店)",
+      "address": "北京城区梅市口路12号院1号楼",
+      "distance": "65m"
+    },
+    {
+      "brand": "紫光园·烤鸭(梅市口店)",
+      "address": "梅市口路15号西府景园",
+      "distance": "66m"
+    },
+    {
+      "brand": "艺搏金牌肥肠芋儿鸡(岳各庄店)",
+      "address": "北京城区梅市口路12号院1号楼1层106-1",
+      "distance": "67m"
+    },
+    {
+      "brand": "北京稻香村(梅市口店)",
+      "address": "梅市口路12号院4号楼底商133室",
+      "distance": "31m"
+    },
+    {
+      "brand": "蟹宝宝蟹黄拌饭(民岳家园西区店)",
+      "address": "梅市口路12号民岳家园西区",
+      "distance": "49m"
+    },
+    {
+      "brand": "味多美(民岳家园)",
+      "address": "北京城区梅市口路12号院1号楼1层",
+      "distance": "55m"
+    },
+    {
+      "brand": "金鱼道小龙虾(岳各庄店)",
+      "address": "梅市口路与田各庄东路交叉口西60米",
+      "distance": "59m"
+    },
+    {
+      "brand": "木屋烧烤(丰台梅市口店)",
+      "address": "梅市口路15号院7号楼1层7-6",
+      "distance": "61m"
+    },
+    {
+      "brand": "田老师红烧肉(梅市口店)",
+      "address": "岳各庄梅市口路8号院(民岳家园附近)",
+      "distance": "62m"
+    },
+    {
+      "brand": "庆丰包子铺(梅市口店)",
+      "address": "梅市口路15号院7号楼",
+      "distance": "63m"
+    },
+    {
+      "brand": "无名缘米粉(梅市口店)",
+      "address": "北京城区梅市口路12号院1号楼",
+      "distance": "65m"
+    },
+    {
+      "brand": "紫光园·烤鸭(梅市口店)",
+      "address": "梅市口路15号西府景园",
+      "distance": "66m"
+    },
+    {
+      "brand": "艺搏金牌肥肠芋儿鸡(岳各庄店)",
+      "address": "北京城区梅市口路12号院1号楼1层106-1",
+      "distance": "67m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "北京翠微百货(大成路店)",
+      "open_date": "2011-12-30",
+      "area": "3.5万㎡",
+      "jun_daily_avg": "1.9万人次",
+      "weekday_avg": "1.8万人次",
+      "holiday_avg": "2.2万人次"
+    },
+    {
+      "name": "千禧商业街",
+      "open_date": "2007-10-01",
+      "area": "-",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 126.0,
+      "within_1yr_pct": 39.7,
+      "1_3yr_pct": 31.0,
+      "over_3yr_pct": 29.4
+    },
+    {
+      "type": "购物",
+      "count": 99.0,
+      "within_1yr_pct": 6.1,
+      "1_3yr_pct": 35.4,
+      "over_3yr_pct": 58.6
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 3.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "教育培训",
+      "count": 3.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 33.3
+    },
+    {
+      "type": "酒店住宿",
+      "count": 12.0,
+      "within_1yr_pct": 16.7,
+      "1_3yr_pct": 41.7,
+      "over_3yr_pct": 41.7
+    },
+    {
+      "type": "生活服务",
+      "count": 98.0,
+      "within_1yr_pct": 22.4,
+      "1_3yr_pct": 20.4,
+      "over_3yr_pct": 57.1
+    },
+    {
+      "type": "运动健身",
+      "count": 8.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 25.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 21.0,
+      "within_1yr_pct": 14.3,
+      "1_3yr_pct": 47.6,
+      "over_3yr_pct": 38.1
+    }
+  ]
+}

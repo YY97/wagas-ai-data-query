@@ -1,0 +1,479 @@
+{
+  "name": "和义大道购物中心",
+  "city": "宁波市",
+  "address": "浙江省宁波市海曙区和义路64号",
+  "lat": 29.872345,
+  "lng": 121.55589,
+  "overview": {
+    "score": 90.0,
+    "score_rank": "市内前30%",
+    "population_score": 77.4,
+    "area_score": 97.9,
+    "consumption_score": 85.1,
+    "industry_score": 90.0,
+    "annual_sales": "102",
+    "annual_sales_unit": "亿元",
+    "area_size_sqm": 5.63,
+    "open_date": "2009-09-01",
+    "operator": "宁波城建投资控股有限公司",
+    "brand": "",
+    "type": "购物型",
+    "floors": "B1-L4"
+  },
+  "traffic": {
+    "annual_daily": 1.09,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第62",
+    "jun_total": 36.0,
+    "jun_total_rank": "市内商场第71名",
+    "jun_daily_avg": 1.2,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第71名",
+    "weekday_avg": 1.0,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第73名",
+    "holiday_avg": 1.7,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第59名"
+  },
+  "population": {
+    "residential": {
+      "500m": 5600.0,
+      "1_5km": 8.2,
+      "3km": 38.1
+    },
+    "office": {
+      "500m": 1.9,
+      "1_5km": 10.6,
+      "3km": 27.3
+    },
+    "permanent": {
+      "500m": 1.7,
+      "1_5km": 11.6,
+      "3km": 45.4
+    }
+  },
+  "business": {
+    "competitors": 12.0,
+    "food": 371.0,
+    "shopping": 580.0,
+    "leisure": 105.0,
+    "education": 34.0,
+    "hotel": 33.0,
+    "services": 226.0,
+    "fitness": 22.0,
+    "auto": 20.0,
+    "total_stores": 135.0,
+    "old_store_3yr_pct": 65.0
+  },
+  "nearby_poi": {
+    "business": 16.0,
+    "community": 444.0,
+    "office": 94.0,
+    "school": 31.0,
+    "hospital": 119.0,
+    "transport": 13.0,
+    "scenic": 508.0
+  },
+  "demographics": {
+    "male_pct": 48.2,
+    "female_pct": null,
+    "education": {
+      "小学": 11.5,
+      "初中": 20.2,
+      "高中": 13.5,
+      "大专": 9.2,
+      "本科": 41.8,
+      "硕士": 3.0,
+      "博士": 0.8
+    },
+    "has_children_pct": 60.0,
+    "no_children_pct": 40.0
+  },
+  "scraped_at": "2026-08-02T09:46:49.330Z",
+  "nearby_restaurants": [
+    {
+      "brand": "品诚茶院(和义大道购物中心店)",
+      "address": "和义路66号和义大道购物中心二楼B区2034号",
+      "distance": "11m"
+    },
+    {
+      "brand": "BAROLO巴罗洛意大利餐厅(和义大道购物中心店)",
+      "address": "和义大道购物中心B区三楼3020",
+      "distance": "12m"
+    },
+    {
+      "brand": "一斗ONETEA(宁波和义大道店)",
+      "address": "和义路66号和义大道购物中心B1层",
+      "distance": "12m"
+    },
+    {
+      "brand": "库迪咖啡(海曙印象城店)",
+      "address": "中山西路3666号海曙印象城B1-27(商场内负一楼中庭)",
+      "distance": "13m"
+    },
+    {
+      "brand": "寿鲜亭(和义大道店)",
+      "address": "和义路66号和义大道购物中心B1",
+      "distance": "24m"
+    },
+    {
+      "brand": "嵜本面包(和义大道购物中心店)",
+      "address": "和义路66号和义大道购物中心F1层",
+      "distance": "31m"
+    },
+    {
+      "brand": "壹创食集",
+      "address": "和义路66号和义大道购物中心B1层",
+      "distance": "35m"
+    },
+    {
+      "brand": "炙赏肉丼(和义大道店)",
+      "address": "和义路66号和义大道购物中心B1层",
+      "distance": "38m"
+    },
+    {
+      "brand": "LeBRESSO(和义大道购物中心店)",
+      "address": "和义路66号和义大道购物中心F1层",
+      "distance": "39m"
+    },
+    {
+      "brand": "wawapho越南米粉",
+      "address": "鼓楼街道和义路78号和义大道购物中地下一层B016号商铺",
+      "distance": "39m"
+    },
+    {
+      "brand": "品诚茶院(和义大道购物中心店)",
+      "address": "和义路66号和义大道购物中心二楼B区2034号",
+      "distance": "11m"
+    },
+    {
+      "brand": "BAROLO巴罗洛意大利餐厅(和义大道购物中心店)",
+      "address": "和义大道购物中心B区三楼3020",
+      "distance": "12m"
+    },
+    {
+      "brand": "一斗ONETEA(宁波和义大道店)",
+      "address": "和义路66号和义大道购物中心B1层",
+      "distance": "12m"
+    },
+    {
+      "brand": "库迪咖啡(海曙印象城店)",
+      "address": "中山西路3666号海曙印象城B1-27(商场内负一楼中庭)",
+      "distance": "13m"
+    },
+    {
+      "brand": "寿鲜亭(和义大道店)",
+      "address": "和义路66号和义大道购物中心B1",
+      "distance": "24m"
+    },
+    {
+      "brand": "嵜本面包(和义大道购物中心店)",
+      "address": "和义路66号和义大道购物中心F1层",
+      "distance": "31m"
+    },
+    {
+      "brand": "壹创食集",
+      "address": "和义路66号和义大道购物中心B1层",
+      "distance": "35m"
+    },
+    {
+      "brand": "炙赏肉丼(和义大道店)",
+      "address": "和义路66号和义大道购物中心B1层",
+      "distance": "38m"
+    },
+    {
+      "brand": "LeBRESSO(和义大道购物中心店)",
+      "address": "和义路66号和义大道购物中心F1层",
+      "distance": "39m"
+    },
+    {
+      "brand": "wawapho越南米粉",
+      "address": "鼓楼街道和义路78号和义大道购物中地下一层B016号商铺",
+      "distance": "39m"
+    },
+    {
+      "brand": "品诚茶院(和义大道购物中心店)",
+      "address": "和义路66号和义大道购物中心二楼B区2034号",
+      "distance": "11m"
+    },
+    {
+      "brand": "BAROLO巴罗洛意大利餐厅(和义大道购物中心店)",
+      "address": "和义大道购物中心B区三楼3020",
+      "distance": "12m"
+    },
+    {
+      "brand": "一斗ONETEA(宁波和义大道店)",
+      "address": "和义路66号和义大道购物中心B1层",
+      "distance": "12m"
+    },
+    {
+      "brand": "库迪咖啡(海曙印象城店)",
+      "address": "中山西路3666号海曙印象城B1-27(商场内负一楼中庭)",
+      "distance": "13m"
+    },
+    {
+      "brand": "寿鲜亭(和义大道店)",
+      "address": "和义路66号和义大道购物中心B1",
+      "distance": "24m"
+    },
+    {
+      "brand": "嵜本面包(和义大道购物中心店)",
+      "address": "和义路66号和义大道购物中心F1层",
+      "distance": "31m"
+    },
+    {
+      "brand": "壹创食集",
+      "address": "和义路66号和义大道购物中心B1层",
+      "distance": "35m"
+    },
+    {
+      "brand": "炙赏肉丼(和义大道店)",
+      "address": "和义路66号和义大道购物中心B1层",
+      "distance": "38m"
+    },
+    {
+      "brand": "LeBRESSO(和义大道购物中心店)",
+      "address": "和义路66号和义大道购物中心F1层",
+      "distance": "39m"
+    },
+    {
+      "brand": "wawapho越南米粉",
+      "address": "鼓楼街道和义路78号和义大道购物中地下一层B016号商铺",
+      "distance": "39m"
+    },
+    {
+      "brand": "品诚茶院(和义大道购物中心店)",
+      "address": "和义路66号和义大道购物中心二楼B区2034号",
+      "distance": "11m"
+    },
+    {
+      "brand": "BAROLO巴罗洛意大利餐厅(和义大道购物中心店)",
+      "address": "和义大道购物中心B区三楼3020",
+      "distance": "12m"
+    },
+    {
+      "brand": "一斗ONETEA(宁波和义大道店)",
+      "address": "和义路66号和义大道购物中心B1层",
+      "distance": "12m"
+    },
+    {
+      "brand": "库迪咖啡(海曙印象城店)",
+      "address": "中山西路3666号海曙印象城B1-27(商场内负一楼中庭)",
+      "distance": "13m"
+    },
+    {
+      "brand": "寿鲜亭(和义大道店)",
+      "address": "和义路66号和义大道购物中心B1",
+      "distance": "24m"
+    },
+    {
+      "brand": "嵜本面包(和义大道购物中心店)",
+      "address": "和义路66号和义大道购物中心F1层",
+      "distance": "31m"
+    },
+    {
+      "brand": "壹创食集",
+      "address": "和义路66号和义大道购物中心B1层",
+      "distance": "35m"
+    },
+    {
+      "brand": "炙赏肉丼(和义大道店)",
+      "address": "和义路66号和义大道购物中心B1层",
+      "distance": "38m"
+    },
+    {
+      "brand": "LeBRESSO(和义大道购物中心店)",
+      "address": "和义路66号和义大道购物中心F1层",
+      "distance": "39m"
+    },
+    {
+      "brand": "wawapho越南米粉",
+      "address": "鼓楼街道和义路78号和义大道购物中地下一层B016号商铺",
+      "distance": "39m"
+    },
+    {
+      "brand": "品诚茶院(和义大道购物中心店)",
+      "address": "和义路66号和义大道购物中心二楼B区2034号",
+      "distance": "11m"
+    },
+    {
+      "brand": "BAROLO巴罗洛意大利餐厅(和义大道购物中心店)",
+      "address": "和义大道购物中心B区三楼3020",
+      "distance": "12m"
+    },
+    {
+      "brand": "一斗ONETEA(宁波和义大道店)",
+      "address": "和义路66号和义大道购物中心B1层",
+      "distance": "12m"
+    },
+    {
+      "brand": "库迪咖啡(海曙印象城店)",
+      "address": "中山西路3666号海曙印象城B1-27(商场内负一楼中庭)",
+      "distance": "13m"
+    },
+    {
+      "brand": "寿鲜亭(和义大道店)",
+      "address": "和义路66号和义大道购物中心B1",
+      "distance": "24m"
+    },
+    {
+      "brand": "嵜本面包(和义大道购物中心店)",
+      "address": "和义路66号和义大道购物中心F1层",
+      "distance": "31m"
+    },
+    {
+      "brand": "壹创食集",
+      "address": "和义路66号和义大道购物中心B1层",
+      "distance": "35m"
+    },
+    {
+      "brand": "炙赏肉丼(和义大道店)",
+      "address": "和义路66号和义大道购物中心B1层",
+      "distance": "38m"
+    },
+    {
+      "brand": "LeBRESSO(和义大道购物中心店)",
+      "address": "和义路66号和义大道购物中心F1层",
+      "distance": "39m"
+    },
+    {
+      "brand": "wawapho越南米粉",
+      "address": "鼓楼街道和义路78号和义大道购物中地下一层B016号商铺",
+      "distance": "39m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "宁波江荟151",
+      "open_date": "2019-02-01",
+      "area": "1.3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "宁波新华联商厦",
+      "open_date": "2005-01-01",
+      "area": "4.5万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "宁波东鼓道",
+      "open_date": "2017-08-21",
+      "area": "-",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "宁波1844·新天地",
+      "open_date": "2015-08-01",
+      "area": "4万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "宁波第二百货",
+      "open_date": "1997-09-01",
+      "area": "2.8万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "宁波天一广场",
+      "open_date": "2002-10-01",
+      "area": "22万㎡",
+      "jun_daily_avg": "11.2万人次",
+      "weekday_avg": "9.6万人次",
+      "holiday_avg": "15.7万人次"
+    },
+    {
+      "name": "宁波东门银泰百货",
+      "open_date": "2000-11-18",
+      "area": "2.7万㎡",
+      "jun_daily_avg": "1.6万人次",
+      "weekday_avg": "1.4万人次",
+      "holiday_avg": "2.1万人次"
+    },
+    {
+      "name": "宁波亿彩购物中心",
+      "open_date": "2013-04-28",
+      "area": "3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "宁波亚细亚商业广场",
+      "open_date": "2010-05-01",
+      "area": "5万㎡",
+      "jun_daily_avg": "1.2万人次",
+      "weekday_avg": "1.1万人次",
+      "holiday_avg": "1.6万人次"
+    },
+    {
+      "name": "宁波甬安里",
+      "open_date": "2022-07-31",
+      "area": "8800㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 27.0,
+      "within_1yr_pct": 22.2,
+      "1_3yr_pct": 14.8,
+      "over_3yr_pct": 63.0
+    },
+    {
+      "type": "购物",
+      "count": 88.0,
+      "within_1yr_pct": 12.5,
+      "1_3yr_pct": 19.3,
+      "over_3yr_pct": 68.2
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 6.0,
+      "within_1yr_pct": 16.7,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 33.3
+    },
+    {
+      "type": "教育培训",
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 1.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "生活服务",
+      "count": 9.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 66.7
+    },
+    {
+      "type": "车辆服务",
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    }
+  ]
+}

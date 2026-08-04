@@ -1,0 +1,438 @@
+{
+  "name": "和平之星生活广场",
+  "city": "北京市",
+  "address": "北京市顺义区胜利街道锦荟港",
+  "lat": 40.12612,
+  "lng": 116.647481,
+  "overview": {
+    "score": 88.1,
+    "score_rank": "市内前30%",
+    "population_score": 74.3,
+    "area_score": 96.1,
+    "consumption_score": 67.3,
+    "industry_score": 88.2,
+    "annual_sales": "锦荟港商业中心是顺义首家集商业、商务办公于一身的5A智能化高档商业综合体，以“轻运动+娱乐”的双消费动线组合，为80-90后年轻家庭为主力市场打造的全服务链城市综合体，以儿童业态为核心展开布局，将家庭休闲与家庭娱乐相结合，打造现代家庭引以共鸣的全新消费场景 。项目融亲子、轻运动、餐饮、超市、影院五大主力业态于一体，设有儿童游乐区、笼式运动区、健身步道、超市、餐饮、影院等配套设施",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 6.8,
+    "open_date": "2021-11-01",
+    "operator": "北京上诚文化发展集团有限公司",
+    "brand": "",
+    "type": "综合型",
+    "floors": "B2-L6"
+  },
+  "traffic": {
+    "annual_daily": 1.5,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第159",
+    "jun_total": 44.5,
+    "jun_total_rank": "市内商场第205名",
+    "jun_daily_avg": 1.5,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第205名",
+    "weekday_avg": 1.3,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第219名",
+    "holiday_avg": 2.0,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第174名"
+  },
+  "population": {
+    "residential": {
+      "500m": 9900.0,
+      "1_5km": 13.0,
+      "3km": 31.6
+    },
+    "office": {
+      "500m": 1.3,
+      "1_5km": 6.7,
+      "3km": 15.0
+    },
+    "permanent": {
+      "500m": 1.9,
+      "1_5km": 14.0,
+      "3km": 31.5
+    }
+  },
+  "business": {
+    "competitors": 6.0,
+    "food": 350.0,
+    "shopping": 373.0,
+    "leisure": 34.0,
+    "education": 28.0,
+    "hotel": 14.0,
+    "services": 162.0,
+    "fitness": 25.0,
+    "auto": 24.0,
+    "total_stores": 110.0,
+    "old_store_3yr_pct": 45.0
+  },
+  "nearby_poi": {
+    "business": 9.0,
+    "community": 116.0,
+    "office": 12.0,
+    "school": 26.0,
+    "hospital": 45.0,
+    "transport": 11.0,
+    "scenic": 51.0
+  },
+  "demographics": {
+    "male_pct": 46.9,
+    "female_pct": null,
+    "education": {
+      "小学": 8.7,
+      "初中": 15.6,
+      "高中": 10.3,
+      "大专": 7.9,
+      "本科": 51.0,
+      "硕士": 5.3,
+      "博士": 1.2
+    },
+    "has_children_pct": 64.8,
+    "no_children_pct": 35.2
+  },
+  "scraped_at": "2026-08-01T07:18:08.154Z",
+  "nearby_restaurants": [
+    {
+      "brand": "路路家老式土豆粉·小吃店",
+      "address": "北京城区胜利街道站前街3号院1号楼锦荟港南门底商",
+      "distance": "3m"
+    },
+    {
+      "brand": "巍记粮品烤面筋公社(锦荟港店)",
+      "address": "北京城区站前街3号院1号楼1层101C号房",
+      "distance": "3m"
+    },
+    {
+      "brand": "十锦烤肉",
+      "address": "站前街3号院锦荟港4楼",
+      "distance": "4m"
+    },
+    {
+      "brand": "朝家村拌饭(锦荟港店)",
+      "address": "北京城区站前街3号院锦荟港B1层地下一层",
+      "distance": "12m"
+    },
+    {
+      "brand": "肖蘸罐罐米线(北京顺义锦荟港店)",
+      "address": "北京城区站前街3号院1号楼104",
+      "distance": "18m"
+    },
+    {
+      "brand": "麦多和馅饼(锦荟港店)",
+      "address": "北京城区站前街3号院1号楼1层103-008",
+      "distance": "33m"
+    },
+    {
+      "brand": "蜜雪冰城(锦荟港店)",
+      "address": "站前街3号院1号楼1层102-008室",
+      "distance": "34m"
+    },
+    {
+      "brand": "燕京啤酒(锦荟港店)",
+      "address": "站前街3号院锦荟港购物中心F1层",
+      "distance": "36m"
+    },
+    {
+      "brand": "壹佳拼豆",
+      "address": "站前西街与钱粮北路交叉口西北120米",
+      "distance": "39m"
+    },
+    {
+      "brand": "口水鸡排(锦荟港店)",
+      "address": "北京城区胜利街道锦荟港四层",
+      "distance": "40m"
+    },
+    {
+      "brand": "路路家老式土豆粉·小吃店",
+      "address": "北京城区胜利街道站前街3号院1号楼锦荟港南门底商",
+      "distance": "3m"
+    },
+    {
+      "brand": "巍记粮品烤面筋公社(锦荟港店)",
+      "address": "北京城区站前街3号院1号楼1层101C号房",
+      "distance": "3m"
+    },
+    {
+      "brand": "十锦烤肉",
+      "address": "站前街3号院锦荟港4楼",
+      "distance": "4m"
+    },
+    {
+      "brand": "朝家村拌饭(锦荟港店)",
+      "address": "北京城区站前街3号院锦荟港B1层地下一层",
+      "distance": "12m"
+    },
+    {
+      "brand": "肖蘸罐罐米线(北京顺义锦荟港店)",
+      "address": "北京城区站前街3号院1号楼104",
+      "distance": "18m"
+    },
+    {
+      "brand": "麦多和馅饼(锦荟港店)",
+      "address": "北京城区站前街3号院1号楼1层103-008",
+      "distance": "33m"
+    },
+    {
+      "brand": "蜜雪冰城(锦荟港店)",
+      "address": "站前街3号院1号楼1层102-008室",
+      "distance": "34m"
+    },
+    {
+      "brand": "燕京啤酒(锦荟港店)",
+      "address": "站前街3号院锦荟港购物中心F1层",
+      "distance": "36m"
+    },
+    {
+      "brand": "壹佳拼豆",
+      "address": "站前西街与钱粮北路交叉口西北120米",
+      "distance": "39m"
+    },
+    {
+      "brand": "口水鸡排(锦荟港店)",
+      "address": "北京城区胜利街道锦荟港四层",
+      "distance": "40m"
+    },
+    {
+      "brand": "路路家老式土豆粉·小吃店",
+      "address": "北京城区胜利街道站前街3号院1号楼锦荟港南门底商",
+      "distance": "3m"
+    },
+    {
+      "brand": "巍记粮品烤面筋公社(锦荟港店)",
+      "address": "北京城区站前街3号院1号楼1层101C号房",
+      "distance": "3m"
+    },
+    {
+      "brand": "十锦烤肉",
+      "address": "站前街3号院锦荟港4楼",
+      "distance": "4m"
+    },
+    {
+      "brand": "朝家村拌饭(锦荟港店)",
+      "address": "北京城区站前街3号院锦荟港B1层地下一层",
+      "distance": "12m"
+    },
+    {
+      "brand": "肖蘸罐罐米线(北京顺义锦荟港店)",
+      "address": "北京城区站前街3号院1号楼104",
+      "distance": "18m"
+    },
+    {
+      "brand": "麦多和馅饼(锦荟港店)",
+      "address": "北京城区站前街3号院1号楼1层103-008",
+      "distance": "33m"
+    },
+    {
+      "brand": "蜜雪冰城(锦荟港店)",
+      "address": "站前街3号院1号楼1层102-008室",
+      "distance": "34m"
+    },
+    {
+      "brand": "燕京啤酒(锦荟港店)",
+      "address": "站前街3号院锦荟港购物中心F1层",
+      "distance": "36m"
+    },
+    {
+      "brand": "壹佳拼豆",
+      "address": "站前西街与钱粮北路交叉口西北120米",
+      "distance": "39m"
+    },
+    {
+      "brand": "口水鸡排(锦荟港店)",
+      "address": "北京城区胜利街道锦荟港四层",
+      "distance": "40m"
+    },
+    {
+      "brand": "路路家老式土豆粉·小吃店",
+      "address": "北京城区胜利街道站前街3号院1号楼锦荟港南门底商",
+      "distance": "3m"
+    },
+    {
+      "brand": "巍记粮品烤面筋公社(锦荟港店)",
+      "address": "北京城区站前街3号院1号楼1层101C号房",
+      "distance": "3m"
+    },
+    {
+      "brand": "十锦烤肉",
+      "address": "站前街3号院锦荟港4楼",
+      "distance": "4m"
+    },
+    {
+      "brand": "朝家村拌饭(锦荟港店)",
+      "address": "北京城区站前街3号院锦荟港B1层地下一层",
+      "distance": "12m"
+    },
+    {
+      "brand": "肖蘸罐罐米线(北京顺义锦荟港店)",
+      "address": "北京城区站前街3号院1号楼104",
+      "distance": "18m"
+    },
+    {
+      "brand": "麦多和馅饼(锦荟港店)",
+      "address": "北京城区站前街3号院1号楼1层103-008",
+      "distance": "33m"
+    },
+    {
+      "brand": "蜜雪冰城(锦荟港店)",
+      "address": "站前街3号院1号楼1层102-008室",
+      "distance": "34m"
+    },
+    {
+      "brand": "燕京啤酒(锦荟港店)",
+      "address": "站前街3号院锦荟港购物中心F1层",
+      "distance": "36m"
+    },
+    {
+      "brand": "壹佳拼豆",
+      "address": "站前西街与钱粮北路交叉口西北120米",
+      "distance": "39m"
+    },
+    {
+      "brand": "口水鸡排(锦荟港店)",
+      "address": "北京城区胜利街道锦荟港四层",
+      "distance": "40m"
+    },
+    {
+      "brand": "路路家老式土豆粉·小吃店",
+      "address": "北京城区胜利街道站前街3号院1号楼锦荟港南门底商",
+      "distance": "3m"
+    },
+    {
+      "brand": "巍记粮品烤面筋公社(锦荟港店)",
+      "address": "北京城区站前街3号院1号楼1层101C号房",
+      "distance": "3m"
+    },
+    {
+      "brand": "十锦烤肉",
+      "address": "站前街3号院锦荟港4楼",
+      "distance": "4m"
+    },
+    {
+      "brand": "朝家村拌饭(锦荟港店)",
+      "address": "北京城区站前街3号院锦荟港B1层地下一层",
+      "distance": "12m"
+    },
+    {
+      "brand": "肖蘸罐罐米线(北京顺义锦荟港店)",
+      "address": "北京城区站前街3号院1号楼104",
+      "distance": "18m"
+    },
+    {
+      "brand": "麦多和馅饼(锦荟港店)",
+      "address": "北京城区站前街3号院1号楼1层103-008",
+      "distance": "33m"
+    },
+    {
+      "brand": "蜜雪冰城(锦荟港店)",
+      "address": "站前街3号院1号楼1层102-008室",
+      "distance": "34m"
+    },
+    {
+      "brand": "燕京啤酒(锦荟港店)",
+      "address": "站前街3号院锦荟港购物中心F1层",
+      "distance": "36m"
+    },
+    {
+      "brand": "壹佳拼豆",
+      "address": "站前西街与钱粮北路交叉口西北120米",
+      "distance": "39m"
+    },
+    {
+      "brand": "口水鸡排(锦荟港店)",
+      "address": "北京城区胜利街道锦荟港四层",
+      "distance": "40m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "北京顺义国泰商业大厦",
+      "open_date": "1993-11-28",
+      "area": "3.3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "北京鑫海韵通百货",
+      "open_date": "2006-07-08",
+      "area": "1.8万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "北京聚乐汇",
+      "open_date": "2014-06-01",
+      "area": "1.1万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "北京卧龙悦购时代购物中心(前进花园玉兰苑店)",
+      "open_date": "2024-01-01",
+      "area": "2.3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 19.0,
+      "within_1yr_pct": 10.5,
+      "1_3yr_pct": 31.6,
+      "over_3yr_pct": 57.9
+    },
+    {
+      "type": "购物",
+      "count": 38.0,
+      "within_1yr_pct": 21.1,
+      "1_3yr_pct": 42.1,
+      "over_3yr_pct": 36.8
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 11.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 27.3,
+      "over_3yr_pct": 72.7
+    },
+    {
+      "type": "教育培训",
+      "count": 5.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 40.0,
+      "over_3yr_pct": 40.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "生活服务",
+      "count": 22.0,
+      "within_1yr_pct": 13.6,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 36.4
+    },
+    {
+      "type": "运动健身",
+      "count": 9.0,
+      "within_1yr_pct": 44.4,
+      "1_3yr_pct": 11.1,
+      "over_3yr_pct": 44.4
+    },
+    {
+      "type": "车辆服务",
+      "count": 4.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 75.0,
+      "over_3yr_pct": 25.0
+    }
+  ]
+}

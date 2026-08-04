@@ -1,0 +1,156 @@
+{
+  "name": "斯普瑞斯奥特莱斯",
+  "city": "北京市",
+  "address": "北京市朝阳区金盏北路8号",
+  "lat": 40.014975,
+  "lng": 116.588895,
+  "overview": {
+    "score": 88.1,
+    "score_rank": "市内前30%",
+    "population_score": 60.8,
+    "area_score": 66.4,
+    "consumption_score": 60.0,
+    "industry_score": 88.4,
+    "annual_sales": "15",
+    "annual_sales_unit": "亿元",
+    "area_size_sqm": 8.5,
+    "open_date": "2022-01-22",
+    "operator": "北京斯普瑞斯奥特莱斯商城有限公司",
+    "brand": "",
+    "type": "购物型",
+    "floors": "L1-L4"
+  },
+  "traffic": {
+    "annual_daily": 1.66,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第152",
+    "jun_total": 54.6,
+    "jun_total_rank": "市内商场第171名",
+    "jun_daily_avg": 1.8,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第171名",
+    "weekday_avg": 1.6,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第183名",
+    "holiday_avg": 2.4,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第148名"
+  },
+  "population": {
+    "residential": {
+      "500m": 300.0,
+      "1_5km": 2.8,
+      "3km": 11.5
+    },
+    "office": {
+      "500m": 1600.0,
+      "1_5km": 6600.0,
+      "3km": 3.2
+    },
+    "permanent": {
+      "500m": 1700.0,
+      "1_5km": 1.9,
+      "3km": 8.2
+    }
+  },
+  "business": {
+    "competitors": 1.0,
+    "food": 23.0,
+    "shopping": 136.0,
+    "leisure": 4.0,
+    "education": 2.0,
+    "hotel": 4.0,
+    "services": 3.0,
+    "fitness": null,
+    "auto": 3.0,
+    "total_stores": 168.0,
+    "old_store_3yr_pct": 61.0
+  },
+  "nearby_poi": {
+    "business": null,
+    "community": 21.0,
+    "office": 3.0,
+    "school": 4.0,
+    "hospital": 13.0,
+    "transport": null,
+    "scenic": 13.0
+  },
+  "demographics": {
+    "male_pct": 56.4,
+    "female_pct": null,
+    "education": {
+      "小学": 8.8,
+      "初中": 15.2,
+      "高中": 10.6,
+      "大专": 6.7,
+      "本科": 49.3,
+      "硕士": 7.9,
+      "博士": 1.5
+    },
+    "has_children_pct": 52.9,
+    "no_children_pct": 47.1
+  },
+  "scraped_at": "2026-08-01T06:37:05.257Z",
+  "nearby_restaurants": [
+    {
+      "brand": "星粤·廣東顺德菜(斯普瑞斯奥莱店)",
+      "address": "S51机场第二高速与S51机场第二高速出口交叉口北480米",
+      "distance": "330m"
+    },
+    {
+      "brand": "陈香贵·兰州牛肉面(北京斯普瑞斯奥莱店)",
+      "address": "金盏乡森林公园东1号北京斯普瑞斯奥特莱斯商城二期二层B2-42号",
+      "distance": "334m"
+    },
+    {
+      "brand": "老屋川菜·水煮鱼(斯普瑞斯奥特莱斯2期店)",
+      "address": "金盏乡森林公园东1号斯普瑞斯奥特莱斯商场二期二层B2-38号商铺",
+      "distance": "336m"
+    }
+  ],
+  "nearby_malls": [],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 23.0,
+      "within_1yr_pct": 30.4,
+      "1_3yr_pct": 26.1,
+      "over_3yr_pct": 43.5
+    },
+    {
+      "type": "购物",
+      "count": 135.0,
+      "within_1yr_pct": 10.4,
+      "1_3yr_pct": 24.4,
+      "over_3yr_pct": 65.2
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 4.0,
+      "within_1yr_pct": 75.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 25.0
+    },
+    {
+      "type": "教育培训",
+      "count": 1.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "生活服务",
+      "count": 3.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 66.7
+    },
+    {
+      "type": "车辆服务",
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    }
+  ]
+}

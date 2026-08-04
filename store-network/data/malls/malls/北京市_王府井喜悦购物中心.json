@@ -1,0 +1,472 @@
+{
+  "name": "王府井喜悦购物中心",
+  "city": "北京市",
+  "address": "北京市东城区王府井大街301-1号",
+  "lat": 39.91091,
+  "lng": 116.411792,
+  "overview": {
+    "score": 95.0,
+    "score_rank": "市内前30%",
+    "population_score": 75.1,
+    "area_score": 100.0,
+    "consumption_score": 94.7,
+    "industry_score": 95.1,
+    "annual_sales": "王府井喜悦购物中心位于北京王府井大街，总建筑面积7.8万平方米，共九层，与地铁1号线及8号线王府井站接驳。项目是北京国际消费中心城市建设重点项目，同时也是首旅集团和王府井集团双背景资源加持下的首个新国潮主理人互创共生项目。项目涵盖71家北京首店，61家王府井区域首进店，并且囊括多个明星品牌及米其林餐厅等多文化融合业态",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 7.0,
+    "open_date": "2023-12-30",
+    "operator": "王府井集团股份有限公司",
+    "brand": "王府井",
+    "type": "美食型",
+    "floors": "B2-L7"
+  },
+  "traffic": {
+    "annual_daily": 3.85,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第42",
+    "jun_total": 183.8,
+    "jun_total_rank": "市内商场第28名",
+    "jun_daily_avg": 6.1,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第28名",
+    "weekday_avg": 5.2,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第34名",
+    "holiday_avg": 8.5,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第24名"
+  },
+  "population": {
+    "residential": {
+      "500m": 1.0,
+      "1_5km": 11.2,
+      "3km": 56.0
+    },
+    "office": {
+      "500m": 3.7,
+      "1_5km": 18.0,
+      "3km": 58.4
+    },
+    "permanent": {
+      "500m": 3.0,
+      "1_5km": 17.4,
+      "3km": 67.8
+    }
+  },
+  "business": {
+    "competitors": 12.0,
+    "food": 422.0,
+    "shopping": 746.0,
+    "leisure": 36.0,
+    "education": 10.0,
+    "hotel": 49.0,
+    "services": 120.0,
+    "fitness": 11.0,
+    "auto": 24.0,
+    "total_stores": 218.0,
+    "old_store_3yr_pct": 29.0
+  },
+  "nearby_poi": {
+    "business": 14.0,
+    "community": 304.0,
+    "office": 74.0,
+    "school": 39.0,
+    "hospital": 117.0,
+    "transport": 9.0,
+    "scenic": 1033.0
+  },
+  "demographics": {
+    "male_pct": 47.1,
+    "female_pct": null,
+    "education": {
+      "小学": 10.4,
+      "初中": 17.6,
+      "高中": 11.4,
+      "大专": 6.7,
+      "本科": 45.8,
+      "硕士": 6.3,
+      "博士": 1.8
+    },
+    "has_children_pct": 58.4,
+    "no_children_pct": 41.6
+  },
+  "scraped_at": "2026-07-31T19:16:22.249Z",
+  "nearby_restaurants": [
+    {
+      "brand": "BUTTER&FISH(王府井喜悦店)",
+      "address": "王府井大街与霞公府街交叉口西北100米",
+      "distance": "3m"
+    },
+    {
+      "brand": "CHOC REVIVE(王府井喜悦购物中心店)",
+      "address": "王府井大街与霞公府街交叉口西北80米",
+      "distance": "3m"
+    },
+    {
+      "brand": "重庆老山城手信",
+      "address": "王府井大街与霞公府街交叉口西北80米(王府井地铁站E1口旁)",
+      "distance": "3m"
+    },
+    {
+      "brand": "黄油&渔(王府井喜悦购物中心店)",
+      "address": "王府井大街301号王府井喜悦B1层",
+      "distance": "4m"
+    },
+    {
+      "brand": "三元梅园(王府井喜悦店)",
+      "address": "王府井大街301号王府井喜悦-1F层",
+      "distance": "7m"
+    },
+    {
+      "brand": "海棠居·徽厨(王府井店)",
+      "address": "王府井大街301号王府井喜悦6层",
+      "distance": "7m"
+    },
+    {
+      "brand": "梅潭村(王府井喜悦)",
+      "address": "王府井大街301号王府井喜悦1F层",
+      "distance": "7m"
+    },
+    {
+      "brand": "黔阿叔·贵州烙锅烤肉(王府井喜悦店)",
+      "address": "王府井大街301号王府井喜悦F6层",
+      "distance": "8m"
+    },
+    {
+      "brand": "巴基斯坦餐厅王府井店(王府井喜悦购物中心店)",
+      "address": "王府井大街301号王府井喜悦(王府井地铁站E1口旁)",
+      "distance": "10m"
+    },
+    {
+      "brand": "欢喜Curry咖喱餐厅(王府井喜悦店)(暂停营业)",
+      "address": "王府井大街301号王府井喜悦B1层",
+      "distance": "11m"
+    },
+    {
+      "brand": "BUTTER&FISH(王府井喜悦店)",
+      "address": "王府井大街与霞公府街交叉口西北100米",
+      "distance": "3m"
+    },
+    {
+      "brand": "CHOC REVIVE(王府井喜悦购物中心店)",
+      "address": "王府井大街与霞公府街交叉口西北80米",
+      "distance": "3m"
+    },
+    {
+      "brand": "重庆老山城手信",
+      "address": "王府井大街与霞公府街交叉口西北80米(王府井地铁站E1口旁)",
+      "distance": "3m"
+    },
+    {
+      "brand": "黄油&渔(王府井喜悦购物中心店)",
+      "address": "王府井大街301号王府井喜悦B1层",
+      "distance": "4m"
+    },
+    {
+      "brand": "三元梅园(王府井喜悦店)",
+      "address": "王府井大街301号王府井喜悦-1F层",
+      "distance": "7m"
+    },
+    {
+      "brand": "海棠居·徽厨(王府井店)",
+      "address": "王府井大街301号王府井喜悦6层",
+      "distance": "7m"
+    },
+    {
+      "brand": "梅潭村(王府井喜悦)",
+      "address": "王府井大街301号王府井喜悦1F层",
+      "distance": "7m"
+    },
+    {
+      "brand": "黔阿叔·贵州烙锅烤肉(王府井喜悦店)",
+      "address": "王府井大街301号王府井喜悦F6层",
+      "distance": "8m"
+    },
+    {
+      "brand": "巴基斯坦餐厅王府井店(王府井喜悦购物中心店)",
+      "address": "王府井大街301号王府井喜悦(王府井地铁站E1口旁)",
+      "distance": "10m"
+    },
+    {
+      "brand": "欢喜Curry咖喱餐厅(王府井喜悦店)(暂停营业)",
+      "address": "王府井大街301号王府井喜悦B1层",
+      "distance": "11m"
+    },
+    {
+      "brand": "BUTTER&FISH(王府井喜悦店)",
+      "address": "王府井大街与霞公府街交叉口西北100米",
+      "distance": "3m"
+    },
+    {
+      "brand": "CHOC REVIVE(王府井喜悦购物中心店)",
+      "address": "王府井大街与霞公府街交叉口西北80米",
+      "distance": "3m"
+    },
+    {
+      "brand": "重庆老山城手信",
+      "address": "王府井大街与霞公府街交叉口西北80米(王府井地铁站E1口旁)",
+      "distance": "3m"
+    },
+    {
+      "brand": "黄油&渔(王府井喜悦购物中心店)",
+      "address": "王府井大街301号王府井喜悦B1层",
+      "distance": "4m"
+    },
+    {
+      "brand": "三元梅园(王府井喜悦店)",
+      "address": "王府井大街301号王府井喜悦-1F层",
+      "distance": "7m"
+    },
+    {
+      "brand": "海棠居·徽厨(王府井店)",
+      "address": "王府井大街301号王府井喜悦6层",
+      "distance": "7m"
+    },
+    {
+      "brand": "梅潭村(王府井喜悦)",
+      "address": "王府井大街301号王府井喜悦1F层",
+      "distance": "7m"
+    },
+    {
+      "brand": "黔阿叔·贵州烙锅烤肉(王府井喜悦店)",
+      "address": "王府井大街301号王府井喜悦F6层",
+      "distance": "8m"
+    },
+    {
+      "brand": "巴基斯坦餐厅王府井店(王府井喜悦购物中心店)",
+      "address": "王府井大街301号王府井喜悦(王府井地铁站E1口旁)",
+      "distance": "10m"
+    },
+    {
+      "brand": "欢喜Curry咖喱餐厅(王府井喜悦店)(暂停营业)",
+      "address": "王府井大街301号王府井喜悦B1层",
+      "distance": "11m"
+    },
+    {
+      "brand": "BUTTER&FISH(王府井喜悦店)",
+      "address": "王府井大街与霞公府街交叉口西北100米",
+      "distance": "3m"
+    },
+    {
+      "brand": "CHOC REVIVE(王府井喜悦购物中心店)",
+      "address": "王府井大街与霞公府街交叉口西北80米",
+      "distance": "3m"
+    },
+    {
+      "brand": "重庆老山城手信",
+      "address": "王府井大街与霞公府街交叉口西北80米(王府井地铁站E1口旁)",
+      "distance": "3m"
+    },
+    {
+      "brand": "黄油&渔(王府井喜悦购物中心店)",
+      "address": "王府井大街301号王府井喜悦B1层",
+      "distance": "4m"
+    },
+    {
+      "brand": "三元梅园(王府井喜悦店)",
+      "address": "王府井大街301号王府井喜悦-1F层",
+      "distance": "7m"
+    },
+    {
+      "brand": "海棠居·徽厨(王府井店)",
+      "address": "王府井大街301号王府井喜悦6层",
+      "distance": "7m"
+    },
+    {
+      "brand": "梅潭村(王府井喜悦)",
+      "address": "王府井大街301号王府井喜悦1F层",
+      "distance": "7m"
+    },
+    {
+      "brand": "黔阿叔·贵州烙锅烤肉(王府井喜悦店)",
+      "address": "王府井大街301号王府井喜悦F6层",
+      "distance": "8m"
+    },
+    {
+      "brand": "巴基斯坦餐厅王府井店(王府井喜悦购物中心店)",
+      "address": "王府井大街301号王府井喜悦(王府井地铁站E1口旁)",
+      "distance": "10m"
+    },
+    {
+      "brand": "欢喜Curry咖喱餐厅(王府井喜悦店)(暂停营业)",
+      "address": "王府井大街301号王府井喜悦B1层",
+      "distance": "11m"
+    },
+    {
+      "brand": "BUTTER&FISH(王府井喜悦店)",
+      "address": "王府井大街与霞公府街交叉口西北100米",
+      "distance": "3m"
+    },
+    {
+      "brand": "CHOC REVIVE(王府井喜悦购物中心店)",
+      "address": "王府井大街与霞公府街交叉口西北80米",
+      "distance": "3m"
+    },
+    {
+      "brand": "重庆老山城手信",
+      "address": "王府井大街与霞公府街交叉口西北80米(王府井地铁站E1口旁)",
+      "distance": "3m"
+    },
+    {
+      "brand": "黄油&渔(王府井喜悦购物中心店)",
+      "address": "王府井大街301号王府井喜悦B1层",
+      "distance": "4m"
+    },
+    {
+      "brand": "三元梅园(王府井喜悦店)",
+      "address": "王府井大街301号王府井喜悦-1F层",
+      "distance": "7m"
+    },
+    {
+      "brand": "海棠居·徽厨(王府井店)",
+      "address": "王府井大街301号王府井喜悦6层",
+      "distance": "7m"
+    },
+    {
+      "brand": "梅潭村(王府井喜悦)",
+      "address": "王府井大街301号王府井喜悦1F层",
+      "distance": "7m"
+    },
+    {
+      "brand": "黔阿叔·贵州烙锅烤肉(王府井喜悦店)",
+      "address": "王府井大街301号王府井喜悦F6层",
+      "distance": "8m"
+    },
+    {
+      "brand": "巴基斯坦餐厅王府井店(王府井喜悦购物中心店)",
+      "address": "王府井大街301号王府井喜悦(王府井地铁站E1口旁)",
+      "distance": "10m"
+    },
+    {
+      "brand": "欢喜Curry咖喱餐厅(王府井喜悦店)(暂停营业)",
+      "address": "王府井大街301号王府井喜悦B1层",
+      "distance": "11m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "北京王府井工美大厦",
+      "open_date": "1996-07-01",
+      "area": "2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "北京王府中环",
+      "open_date": "2018-05-29",
+      "area": "4.3万㎡",
+      "jun_daily_avg": "3.7万人次",
+      "weekday_avg": "3.2万人次",
+      "holiday_avg": "5万人次"
+    },
+    {
+      "name": "北京东方新天地",
+      "open_date": "2000-09-01",
+      "area": "12万㎡",
+      "jun_daily_avg": "5.4万人次",
+      "weekday_avg": "5.4万人次",
+      "holiday_avg": "5.2万人次"
+    },
+    {
+      "name": "北京APM",
+      "open_date": "2008-01-01",
+      "area": "9万㎡",
+      "jun_daily_avg": "8.5万人次",
+      "weekday_avg": "7.5万人次",
+      "holiday_avg": "11.1万人次"
+    },
+    {
+      "name": "北京市百货大楼",
+      "open_date": "1955-09-01",
+      "area": "1.8万㎡",
+      "jun_daily_avg": "4.4万人次",
+      "weekday_avg": "3.9万人次",
+      "holiday_avg": "5.7万人次"
+    },
+    {
+      "name": "北京澳门中心",
+      "open_date": "2008-01-01",
+      "area": "8.8万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "北京淘汇新天购物中心",
+      "open_date": "2014-02-16",
+      "area": "3.8万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "北京利生体育商厦",
+      "open_date": "1996-11-25",
+      "area": "1.2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "北京银泰in88",
+      "open_date": "2018-01-01",
+      "area": "3万㎡",
+      "jun_daily_avg": "1.4万人次",
+      "weekday_avg": "1.2万人次",
+      "holiday_avg": "1.9万人次"
+    },
+    {
+      "name": "北京金宝汇购物中心",
+      "open_date": "2009-05-01",
+      "area": "4万㎡",
+      "jun_daily_avg": "1.3万人次",
+      "weekday_avg": "1.3万人次",
+      "holiday_avg": "1.4万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 98.0,
+      "within_1yr_pct": 30.6,
+      "1_3yr_pct": 33.7,
+      "over_3yr_pct": 35.7
+    },
+    {
+      "type": "购物",
+      "count": 94.0,
+      "within_1yr_pct": 30.9,
+      "1_3yr_pct": 44.7,
+      "over_3yr_pct": 24.5
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 12.0,
+      "within_1yr_pct": 75.0,
+      "1_3yr_pct": 16.7,
+      "over_3yr_pct": 8.3
+    },
+    {
+      "type": "教育培训",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "生活服务",
+      "count": 12.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 41.7,
+      "over_3yr_pct": 33.3
+    },
+    {
+      "type": "运动健身",
+      "count": 1.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
+    }
+  ]
+}

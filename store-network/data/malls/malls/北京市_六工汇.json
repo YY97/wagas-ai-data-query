@@ -1,0 +1,423 @@
+{
+  "name": "六工汇",
+  "city": "北京市",
+  "address": "北京市石景山区古城街道肯德基(首钢园店)六工汇",
+  "lat": 39.915338,
+  "lng": 116.154903,
+  "overview": {
+    "score": 86.0,
+    "score_rank": "市内前30%",
+    "population_score": 61.8,
+    "area_score": 65.5,
+    "consumption_score": 60.0,
+    "industry_score": 86.2,
+    "annual_sales": "1.5",
+    "annual_sales_unit": "亿元",
+    "area_size_sqm": 6.7,
+    "open_date": "2021-12-18",
+    "operator": "北京首狮昌泰商贸有限公司",
+    "brand": "",
+    "type": "美食型",
+    "floors": "B1-L4"
+  },
+  "traffic": {
+    "annual_daily": 1.27,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第180",
+    "jun_total": 54.0,
+    "jun_total_rank": "市内商场第175名",
+    "jun_daily_avg": 1.8,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第175名",
+    "weekday_avg": 1.3,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第220名",
+    "holiday_avg": 3.2,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第118名"
+  },
+  "population": {
+    "residential": {
+      "500m": 800.0,
+      "1_5km": 5.3,
+      "3km": 29.5
+    },
+    "office": {
+      "500m": 4900.0,
+      "1_5km": 3.2,
+      "3km": 15.3
+    },
+    "permanent": {
+      "500m": 2400.0,
+      "1_5km": 5.2,
+      "3km": 29.5
+    }
+  },
+  "business": {
+    "competitors": 5.0,
+    "food": 52.0,
+    "shopping": 22.0,
+    "leisure": 10.0,
+    "education": 3.0,
+    "hotel": 5.0,
+    "services": 15.0,
+    "fitness": 12.0,
+    "auto": 19.0,
+    "total_stores": 53.0,
+    "old_store_3yr_pct": 51.0
+  },
+  "nearby_poi": {
+    "business": 3.0,
+    "community": 159.0,
+    "office": 11.0,
+    "school": 7.0,
+    "hospital": 33.0,
+    "transport": 6.0,
+    "scenic": 170.0
+  },
+  "demographics": {
+    "male_pct": 46.9,
+    "female_pct": null,
+    "education": {
+      "小学": 9.3,
+      "初中": 15.6,
+      "高中": 10.2,
+      "大专": 7.5,
+      "本科": 49.5,
+      "硕士": 6.4,
+      "博士": 1.5
+    },
+    "has_children_pct": 58.4,
+    "no_children_pct": 41.6
+  },
+  "scraped_at": "2026-08-01T21:32:54.145Z",
+  "nearby_restaurants": [
+    {
+      "brand": "Sol Morrow(六工汇购物广场店)",
+      "address": "五一剧场南路与群明湖大街交叉口西南120米",
+      "distance": "6m"
+    },
+    {
+      "brand": "江北北火锅馆·熊猫主题(首钢店)",
+      "address": "北京城区石景山路68号首钢园区五一剧场南路2号院六工汇购物广场2层",
+      "distance": "8m"
+    },
+    {
+      "brand": "墨佬SolMolo墨西哥餐厅(首钢园店)",
+      "address": "北京城区北京市北京城区首钢园北区六工汇购物广场4层",
+      "distance": "9m"
+    },
+    {
+      "brand": "小吊梨汤·北京菜·烤鸭(首钢店)",
+      "address": "北京城区五一剧场南路2号院1号楼六工汇购物广场4层409",
+      "distance": "15m"
+    },
+    {
+      "brand": "江边城外烤全鱼(六工汇购物广场店)",
+      "address": "首钢园六工汇购物广场四楼",
+      "distance": "15m"
+    },
+    {
+      "brand": "书亦烧仙草(六工汇购物广场店)",
+      "address": "首钢园六工汇购物广场4楼书亦烧仙草",
+      "distance": "15m"
+    },
+    {
+      "brand": "湘采·隐小厨(首钢店)",
+      "address": "北京城区石景山路68号首钢园区五一剧场南路2号院六工汇商场4层",
+      "distance": "18m"
+    },
+    {
+      "brand": "北冰洋北平制冰厂(六工汇购物广场店)",
+      "address": "首钢园北区六工汇购物广场L1层D1-1-02",
+      "distance": "18m"
+    },
+    {
+      "brand": "原麦山丘(六工汇购物广场店)",
+      "address": "首钢园北区六工汇购物广场L1层D1-1-05",
+      "distance": "22m"
+    },
+    {
+      "brand": "野人先生现做冰淇淋(北京石景山六工汇店)",
+      "address": "古城街道五一剧场南路2号院1层05B单元",
+      "distance": "31m"
+    },
+    {
+      "brand": "Sol Morrow(六工汇购物广场店)",
+      "address": "五一剧场南路与群明湖大街交叉口西南120米",
+      "distance": "6m"
+    },
+    {
+      "brand": "江北北火锅馆·熊猫主题(首钢店)",
+      "address": "北京城区石景山路68号首钢园区五一剧场南路2号院六工汇购物广场2层",
+      "distance": "8m"
+    },
+    {
+      "brand": "墨佬SolMolo墨西哥餐厅(首钢园店)",
+      "address": "北京城区北京市北京城区首钢园北区六工汇购物广场4层",
+      "distance": "9m"
+    },
+    {
+      "brand": "小吊梨汤·北京菜·烤鸭(首钢店)",
+      "address": "北京城区五一剧场南路2号院1号楼六工汇购物广场4层409",
+      "distance": "15m"
+    },
+    {
+      "brand": "江边城外烤全鱼(六工汇购物广场店)",
+      "address": "首钢园六工汇购物广场四楼",
+      "distance": "15m"
+    },
+    {
+      "brand": "书亦烧仙草(六工汇购物广场店)",
+      "address": "首钢园六工汇购物广场4楼书亦烧仙草",
+      "distance": "15m"
+    },
+    {
+      "brand": "湘采·隐小厨(首钢店)",
+      "address": "北京城区石景山路68号首钢园区五一剧场南路2号院六工汇商场4层",
+      "distance": "18m"
+    },
+    {
+      "brand": "北冰洋北平制冰厂(六工汇购物广场店)",
+      "address": "首钢园北区六工汇购物广场L1层D1-1-02",
+      "distance": "18m"
+    },
+    {
+      "brand": "原麦山丘(六工汇购物广场店)",
+      "address": "首钢园北区六工汇购物广场L1层D1-1-05",
+      "distance": "22m"
+    },
+    {
+      "brand": "野人先生现做冰淇淋(北京石景山六工汇店)",
+      "address": "古城街道五一剧场南路2号院1层05B单元",
+      "distance": "31m"
+    },
+    {
+      "brand": "Sol Morrow(六工汇购物广场店)",
+      "address": "五一剧场南路与群明湖大街交叉口西南120米",
+      "distance": "6m"
+    },
+    {
+      "brand": "江北北火锅馆·熊猫主题(首钢店)",
+      "address": "北京城区石景山路68号首钢园区五一剧场南路2号院六工汇购物广场2层",
+      "distance": "8m"
+    },
+    {
+      "brand": "墨佬SolMolo墨西哥餐厅(首钢园店)",
+      "address": "北京城区北京市北京城区首钢园北区六工汇购物广场4层",
+      "distance": "9m"
+    },
+    {
+      "brand": "小吊梨汤·北京菜·烤鸭(首钢店)",
+      "address": "北京城区五一剧场南路2号院1号楼六工汇购物广场4层409",
+      "distance": "15m"
+    },
+    {
+      "brand": "江边城外烤全鱼(六工汇购物广场店)",
+      "address": "首钢园六工汇购物广场四楼",
+      "distance": "15m"
+    },
+    {
+      "brand": "书亦烧仙草(六工汇购物广场店)",
+      "address": "首钢园六工汇购物广场4楼书亦烧仙草",
+      "distance": "15m"
+    },
+    {
+      "brand": "湘采·隐小厨(首钢店)",
+      "address": "北京城区石景山路68号首钢园区五一剧场南路2号院六工汇商场4层",
+      "distance": "18m"
+    },
+    {
+      "brand": "北冰洋北平制冰厂(六工汇购物广场店)",
+      "address": "首钢园北区六工汇购物广场L1层D1-1-02",
+      "distance": "18m"
+    },
+    {
+      "brand": "原麦山丘(六工汇购物广场店)",
+      "address": "首钢园北区六工汇购物广场L1层D1-1-05",
+      "distance": "22m"
+    },
+    {
+      "brand": "野人先生现做冰淇淋(北京石景山六工汇店)",
+      "address": "古城街道五一剧场南路2号院1层05B单元",
+      "distance": "31m"
+    },
+    {
+      "brand": "Sol Morrow(六工汇购物广场店)",
+      "address": "五一剧场南路与群明湖大街交叉口西南120米",
+      "distance": "6m"
+    },
+    {
+      "brand": "江北北火锅馆·熊猫主题(首钢店)",
+      "address": "北京城区石景山路68号首钢园区五一剧场南路2号院六工汇购物广场2层",
+      "distance": "8m"
+    },
+    {
+      "brand": "墨佬SolMolo墨西哥餐厅(首钢园店)",
+      "address": "北京城区北京市北京城区首钢园北区六工汇购物广场4层",
+      "distance": "9m"
+    },
+    {
+      "brand": "小吊梨汤·北京菜·烤鸭(首钢店)",
+      "address": "北京城区五一剧场南路2号院1号楼六工汇购物广场4层409",
+      "distance": "15m"
+    },
+    {
+      "brand": "江边城外烤全鱼(六工汇购物广场店)",
+      "address": "首钢园六工汇购物广场四楼",
+      "distance": "15m"
+    },
+    {
+      "brand": "书亦烧仙草(六工汇购物广场店)",
+      "address": "首钢园六工汇购物广场4楼书亦烧仙草",
+      "distance": "15m"
+    },
+    {
+      "brand": "湘采·隐小厨(首钢店)",
+      "address": "北京城区石景山路68号首钢园区五一剧场南路2号院六工汇商场4层",
+      "distance": "18m"
+    },
+    {
+      "brand": "北冰洋北平制冰厂(六工汇购物广场店)",
+      "address": "首钢园北区六工汇购物广场L1层D1-1-02",
+      "distance": "18m"
+    },
+    {
+      "brand": "原麦山丘(六工汇购物广场店)",
+      "address": "首钢园北区六工汇购物广场L1层D1-1-05",
+      "distance": "22m"
+    },
+    {
+      "brand": "野人先生现做冰淇淋(北京石景山六工汇店)",
+      "address": "古城街道五一剧场南路2号院1层05B单元",
+      "distance": "31m"
+    },
+    {
+      "brand": "Sol Morrow(六工汇购物广场店)",
+      "address": "五一剧场南路与群明湖大街交叉口西南120米",
+      "distance": "6m"
+    },
+    {
+      "brand": "江北北火锅馆·熊猫主题(首钢店)",
+      "address": "北京城区石景山路68号首钢园区五一剧场南路2号院六工汇购物广场2层",
+      "distance": "8m"
+    },
+    {
+      "brand": "墨佬SolMolo墨西哥餐厅(首钢园店)",
+      "address": "北京城区北京市北京城区首钢园北区六工汇购物广场4层",
+      "distance": "9m"
+    },
+    {
+      "brand": "小吊梨汤·北京菜·烤鸭(首钢店)",
+      "address": "北京城区五一剧场南路2号院1号楼六工汇购物广场4层409",
+      "distance": "15m"
+    },
+    {
+      "brand": "江边城外烤全鱼(六工汇购物广场店)",
+      "address": "首钢园六工汇购物广场四楼",
+      "distance": "15m"
+    },
+    {
+      "brand": "书亦烧仙草(六工汇购物广场店)",
+      "address": "首钢园六工汇购物广场4楼书亦烧仙草",
+      "distance": "15m"
+    },
+    {
+      "brand": "湘采·隐小厨(首钢店)",
+      "address": "北京城区石景山路68号首钢园区五一剧场南路2号院六工汇商场4层",
+      "distance": "18m"
+    },
+    {
+      "brand": "北冰洋北平制冰厂(六工汇购物广场店)",
+      "address": "首钢园北区六工汇购物广场L1层D1-1-02",
+      "distance": "18m"
+    },
+    {
+      "brand": "原麦山丘(六工汇购物广场店)",
+      "address": "首钢园北区六工汇购物广场L1层D1-1-05",
+      "distance": "22m"
+    },
+    {
+      "brand": "野人先生现做冰淇淋(北京石景山六工汇店)",
+      "address": "古城街道五一剧场南路2号院1层05B单元",
+      "distance": "31m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "北京首钢融石广场",
+      "open_date": "2025-10-01",
+      "area": "2.8万㎡",
+      "jun_daily_avg": "2.1万人次",
+      "weekday_avg": "2.3万人次",
+      "holiday_avg": "1.6万人次"
+    },
+    {
+      "name": "北京中海金安环宇荟",
+      "open_date": "2022-06-25",
+      "area": "2万㎡",
+      "jun_daily_avg": "2.1万人次",
+      "weekday_avg": "2.3万人次",
+      "holiday_avg": "1.6万人次"
+    },
+    {
+      "name": "北京喜隆多Xirondo Plaza",
+      "open_date": "2014-11-28",
+      "area": "10万㎡",
+      "jun_daily_avg": "6万人次",
+      "weekday_avg": "5.1万人次",
+      "holiday_avg": "8.3万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 24.0,
+      "within_1yr_pct": 12.5,
+      "1_3yr_pct": 29.2,
+      "over_3yr_pct": 58.3
+    },
+    {
+      "type": "购物",
+      "count": 7.0,
+      "within_1yr_pct": 28.6,
+      "1_3yr_pct": 42.9,
+      "over_3yr_pct": 28.6
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 4.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "教育培训",
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "生活服务",
+      "count": 2.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "运动健身",
+      "count": 3.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 66.7,
+      "over_3yr_pct": 33.3
+    },
+    {
+      "type": "车辆服务",
+      "count": 11.0,
+      "within_1yr_pct": 9.1,
+      "1_3yr_pct": 27.3,
+      "over_3yr_pct": 63.6
+    }
+  ]
+}

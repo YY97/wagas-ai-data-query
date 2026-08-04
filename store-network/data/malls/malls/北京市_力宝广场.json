@@ -1,0 +1,407 @@
+{
+  "name": "力宝广场",
+  "city": "北京市",
+  "address": "北京市大兴区宏达北路甲5号",
+  "lat": 39.804557,
+  "lng": 116.502974,
+  "overview": {
+    "score": 93.5,
+    "score_rank": "市内前30%",
+    "population_score": 75.0,
+    "area_score": 84.4,
+    "consumption_score": 69.2,
+    "industry_score": 93.7,
+    "annual_sales": "北京华联力宝购物中心位于北京经济技术开发区门户位置，驻守BDA咽喉要道荣华路，与地铁万源街站咫尺相通且路网发达。作为亦庄开发区核心区域内唯一一家综合性商业购物中心，集生活配套、休闲娱乐、饕餮美食等商业形态于一体，形成一站式的社区型购物中心。",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 7.3,
+    "open_date": "2014-07-31",
+    "operator": "北京华联商厦股份有限公司",
+    "brand": "华联",
+    "type": "综合型",
+    "floors": "B1-L4"
+  },
+  "traffic": {
+    "annual_daily": 2.66,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第89",
+    "jun_total": 74.2,
+    "jun_total_rank": "市内商场第130名",
+    "jun_daily_avg": 2.5,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第130名",
+    "weekday_avg": 2.3,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第140名",
+    "holiday_avg": 3.1,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第123名"
+  },
+  "population": {
+    "residential": {
+      "500m": 1.0,
+      "1_5km": 5.9,
+      "3km": 21.3
+    },
+    "office": {
+      "500m": 1.7,
+      "1_5km": 6.2,
+      "3km": 20.6
+    },
+    "permanent": {
+      "500m": 1.4,
+      "1_5km": 6.5,
+      "3km": 21.9
+    }
+  },
+  "business": {
+    "competitors": 4.0,
+    "food": 246.0,
+    "shopping": 126.0,
+    "leisure": 29.0,
+    "education": 41.0,
+    "hotel": 20.0,
+    "services": 163.0,
+    "fitness": 35.0,
+    "auto": 20.0,
+    "total_stores": 202.0,
+    "old_store_3yr_pct": 54.0
+  },
+  "nearby_poi": {
+    "business": 1.0,
+    "community": 116.0,
+    "office": 51.0,
+    "school": 8.0,
+    "hospital": 35.0,
+    "transport": 3.0,
+    "scenic": 48.0
+  },
+  "demographics": {
+    "male_pct": 51.9,
+    "female_pct": null,
+    "education": {
+      "小学": 10.7,
+      "初中": 18.0,
+      "高中": 11.1,
+      "大专": 8.1,
+      "本科": 46.0,
+      "硕士": 5.1,
+      "博士": 1.0
+    },
+    "has_children_pct": 59.9,
+    "no_children_pct": 40.1
+  },
+  "scraped_at": "2026-07-31T11:18:34.303Z",
+  "nearby_restaurants": [
+    {
+      "brand": "管氏翅吧(亦庄华联店)",
+      "address": "荣华中路8号院华联力宝购物中心4层(唐阁影城旁)",
+      "distance": "24m"
+    },
+    {
+      "brand": "老北京柴氏(BHG Mall亦庄店)",
+      "address": "经济开发区荣花中路8号院1号楼4层",
+      "distance": "27m"
+    },
+    {
+      "brand": "蜀湘曹氏鸭脖(力宝广场店)",
+      "address": "北京城区荣华中路8号院力宝广场B1层",
+      "distance": "28m"
+    },
+    {
+      "brand": "江边城外烤全鱼(力宝广场店)",
+      "address": "荣华中路8号院1号北京华联BHG Mall(亦庄店)F4层F4-18A",
+      "distance": "29m"
+    },
+    {
+      "brand": "熊喵来了火锅(北京华联BHG Mall亦庄店)(装修中)",
+      "address": "万源北小街与荣华东二路交叉口西北120米",
+      "distance": "30m"
+    },
+    {
+      "brand": "一麻一辣麻辣香锅(亦庄华联店)",
+      "address": "经济技术开发区荣华中路8号院1号楼4层F4-01",
+      "distance": "32m"
+    },
+    {
+      "brand": "Salud撒露欧洲冻酸奶(北京华联亦庄购物中心店)",
+      "address": "荣华中路8号力宝广场4层ZD-01号商铺",
+      "distance": "35m"
+    },
+    {
+      "brand": "ITA GELATO意式手工冰淇淋",
+      "address": "经济技术开发区荣华中路8号院1号楼1层F1-SNDJ-88",
+      "distance": "39m"
+    },
+    {
+      "brand": "新辣道鱼火锅(北京亦庄华联店)",
+      "address": "荣华街道亦庄华联4层F4-11、F4-12",
+      "distance": "40m"
+    },
+    {
+      "brand": "小菜园新徽菜(北京亦庄华联购物中心店)",
+      "address": "亦庄镇北环东路荣华中路华联亦庄购物中心4层-03号",
+      "distance": "42m"
+    },
+    {
+      "brand": "管氏翅吧(亦庄华联店)",
+      "address": "荣华中路8号院华联力宝购物中心4层(唐阁影城旁)",
+      "distance": "24m"
+    },
+    {
+      "brand": "老北京柴氏(BHG Mall亦庄店)",
+      "address": "经济开发区荣花中路8号院1号楼4层",
+      "distance": "27m"
+    },
+    {
+      "brand": "蜀湘曹氏鸭脖(力宝广场店)",
+      "address": "北京城区荣华中路8号院力宝广场B1层",
+      "distance": "28m"
+    },
+    {
+      "brand": "江边城外烤全鱼(力宝广场店)",
+      "address": "荣华中路8号院1号北京华联BHG Mall(亦庄店)F4层F4-18A",
+      "distance": "29m"
+    },
+    {
+      "brand": "熊喵来了火锅(北京华联BHG Mall亦庄店)(装修中)",
+      "address": "万源北小街与荣华东二路交叉口西北120米",
+      "distance": "30m"
+    },
+    {
+      "brand": "一麻一辣麻辣香锅(亦庄华联店)",
+      "address": "经济技术开发区荣华中路8号院1号楼4层F4-01",
+      "distance": "32m"
+    },
+    {
+      "brand": "Salud撒露欧洲冻酸奶(北京华联亦庄购物中心店)",
+      "address": "荣华中路8号力宝广场4层ZD-01号商铺",
+      "distance": "35m"
+    },
+    {
+      "brand": "ITA GELATO意式手工冰淇淋",
+      "address": "经济技术开发区荣华中路8号院1号楼1层F1-SNDJ-88",
+      "distance": "39m"
+    },
+    {
+      "brand": "新辣道鱼火锅(北京亦庄华联店)",
+      "address": "荣华街道亦庄华联4层F4-11、F4-12",
+      "distance": "40m"
+    },
+    {
+      "brand": "小菜园新徽菜(北京亦庄华联购物中心店)",
+      "address": "亦庄镇北环东路荣华中路华联亦庄购物中心4层-03号",
+      "distance": "42m"
+    },
+    {
+      "brand": "管氏翅吧(亦庄华联店)",
+      "address": "荣华中路8号院华联力宝购物中心4层(唐阁影城旁)",
+      "distance": "24m"
+    },
+    {
+      "brand": "老北京柴氏(BHG Mall亦庄店)",
+      "address": "经济开发区荣花中路8号院1号楼4层",
+      "distance": "27m"
+    },
+    {
+      "brand": "蜀湘曹氏鸭脖(力宝广场店)",
+      "address": "北京城区荣华中路8号院力宝广场B1层",
+      "distance": "28m"
+    },
+    {
+      "brand": "江边城外烤全鱼(力宝广场店)",
+      "address": "荣华中路8号院1号北京华联BHG Mall(亦庄店)F4层F4-18A",
+      "distance": "29m"
+    },
+    {
+      "brand": "熊喵来了火锅(北京华联BHG Mall亦庄店)(装修中)",
+      "address": "万源北小街与荣华东二路交叉口西北120米",
+      "distance": "30m"
+    },
+    {
+      "brand": "一麻一辣麻辣香锅(亦庄华联店)",
+      "address": "经济技术开发区荣华中路8号院1号楼4层F4-01",
+      "distance": "32m"
+    },
+    {
+      "brand": "Salud撒露欧洲冻酸奶(北京华联亦庄购物中心店)",
+      "address": "荣华中路8号力宝广场4层ZD-01号商铺",
+      "distance": "35m"
+    },
+    {
+      "brand": "ITA GELATO意式手工冰淇淋",
+      "address": "经济技术开发区荣华中路8号院1号楼1层F1-SNDJ-88",
+      "distance": "39m"
+    },
+    {
+      "brand": "新辣道鱼火锅(北京亦庄华联店)",
+      "address": "荣华街道亦庄华联4层F4-11、F4-12",
+      "distance": "40m"
+    },
+    {
+      "brand": "小菜园新徽菜(北京亦庄华联购物中心店)",
+      "address": "亦庄镇北环东路荣华中路华联亦庄购物中心4层-03号",
+      "distance": "42m"
+    },
+    {
+      "brand": "管氏翅吧(亦庄华联店)",
+      "address": "荣华中路8号院华联力宝购物中心4层(唐阁影城旁)",
+      "distance": "24m"
+    },
+    {
+      "brand": "老北京柴氏(BHG Mall亦庄店)",
+      "address": "经济开发区荣花中路8号院1号楼4层",
+      "distance": "27m"
+    },
+    {
+      "brand": "蜀湘曹氏鸭脖(力宝广场店)",
+      "address": "北京城区荣华中路8号院力宝广场B1层",
+      "distance": "28m"
+    },
+    {
+      "brand": "江边城外烤全鱼(力宝广场店)",
+      "address": "荣华中路8号院1号北京华联BHG Mall(亦庄店)F4层F4-18A",
+      "distance": "29m"
+    },
+    {
+      "brand": "熊喵来了火锅(北京华联BHG Mall亦庄店)(装修中)",
+      "address": "万源北小街与荣华东二路交叉口西北120米",
+      "distance": "30m"
+    },
+    {
+      "brand": "一麻一辣麻辣香锅(亦庄华联店)",
+      "address": "经济技术开发区荣华中路8号院1号楼4层F4-01",
+      "distance": "32m"
+    },
+    {
+      "brand": "Salud撒露欧洲冻酸奶(北京华联亦庄购物中心店)",
+      "address": "荣华中路8号力宝广场4层ZD-01号商铺",
+      "distance": "35m"
+    },
+    {
+      "brand": "ITA GELATO意式手工冰淇淋",
+      "address": "经济技术开发区荣华中路8号院1号楼1层F1-SNDJ-88",
+      "distance": "39m"
+    },
+    {
+      "brand": "新辣道鱼火锅(北京亦庄华联店)",
+      "address": "荣华街道亦庄华联4层F4-11、F4-12",
+      "distance": "40m"
+    },
+    {
+      "brand": "小菜园新徽菜(北京亦庄华联购物中心店)",
+      "address": "亦庄镇北环东路荣华中路华联亦庄购物中心4层-03号",
+      "distance": "42m"
+    },
+    {
+      "brand": "管氏翅吧(亦庄华联店)",
+      "address": "荣华中路8号院华联力宝购物中心4层(唐阁影城旁)",
+      "distance": "24m"
+    },
+    {
+      "brand": "老北京柴氏(BHG Mall亦庄店)",
+      "address": "经济开发区荣花中路8号院1号楼4层",
+      "distance": "27m"
+    },
+    {
+      "brand": "蜀湘曹氏鸭脖(力宝广场店)",
+      "address": "北京城区荣华中路8号院力宝广场B1层",
+      "distance": "28m"
+    },
+    {
+      "brand": "江边城外烤全鱼(力宝广场店)",
+      "address": "荣华中路8号院1号北京华联BHG Mall(亦庄店)F4层F4-18A",
+      "distance": "29m"
+    },
+    {
+      "brand": "熊喵来了火锅(北京华联BHG Mall亦庄店)(装修中)",
+      "address": "万源北小街与荣华东二路交叉口西北120米",
+      "distance": "30m"
+    },
+    {
+      "brand": "一麻一辣麻辣香锅(亦庄华联店)",
+      "address": "经济技术开发区荣华中路8号院1号楼4层F4-01",
+      "distance": "32m"
+    },
+    {
+      "brand": "Salud撒露欧洲冻酸奶(北京华联亦庄购物中心店)",
+      "address": "荣华中路8号力宝广场4层ZD-01号商铺",
+      "distance": "35m"
+    },
+    {
+      "brand": "ITA GELATO意式手工冰淇淋",
+      "address": "经济技术开发区荣华中路8号院1号楼1层F1-SNDJ-88",
+      "distance": "39m"
+    },
+    {
+      "brand": "新辣道鱼火锅(北京亦庄华联店)",
+      "address": "荣华街道亦庄华联4层F4-11、F4-12",
+      "distance": "40m"
+    },
+    {
+      "brand": "小菜园新徽菜(北京亦庄华联购物中心店)",
+      "address": "亦庄镇北环东路荣华中路华联亦庄购物中心4层-03号",
+      "distance": "42m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "北京大雄商业中心",
+      "open_date": "2002-01-01",
+      "area": "-",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 72.0,
+      "within_1yr_pct": 23.6,
+      "1_3yr_pct": 20.8,
+      "over_3yr_pct": 55.6
+    },
+    {
+      "type": "购物",
+      "count": 78.0,
+      "within_1yr_pct": 14.1,
+      "1_3yr_pct": 21.8,
+      "over_3yr_pct": 64.1
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 9.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 33.3
+    },
+    {
+      "type": "教育培训",
+      "count": 9.0,
+      "within_1yr_pct": 44.4,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 22.2
+    },
+    {
+      "type": "生活服务",
+      "count": 20.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 35.0,
+      "over_3yr_pct": 45.0
+    },
+    {
+      "type": "运动健身",
+      "count": 11.0,
+      "within_1yr_pct": 18.2,
+      "1_3yr_pct": 36.4,
+      "over_3yr_pct": 45.5
+    },
+    {
+      "type": "车辆服务",
+      "count": 3.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 33.3
+    }
+  ]
+}

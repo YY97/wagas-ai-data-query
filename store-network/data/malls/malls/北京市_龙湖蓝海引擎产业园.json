@@ -1,0 +1,405 @@
+{
+  "name": "龙湖蓝海引擎产业园",
+  "city": "北京市",
+  "address": "北京市朝阳区来广营乡北苑东路174号龙湖蓝海引擎产业园",
+  "lat": 40.027547,
+  "lng": 116.437898,
+  "overview": {
+    "score": 82.3,
+    "score_rank": "市内前30%",
+    "population_score": 83.5,
+    "area_score": 88.4,
+    "consumption_score": 77.4,
+    "industry_score": 82.3,
+    "annual_sales": "",
+    "annual_sales_unit": "",
+    "area_size_sqm": null,
+    "open_date": "",
+    "operator": "",
+    "brand": "",
+    "type": "",
+    "floors": ""
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "",
+    "annual_daily_rank": "",
+    "jun_total": null,
+    "jun_total_rank": "",
+    "jun_daily_avg": null,
+    "jun_daily_unit": "",
+    "jun_daily_rank": "",
+    "weekday_avg": null,
+    "weekday_unit": "",
+    "weekday_rank": "",
+    "holiday_avg": null,
+    "holiday_unit": "",
+    "holiday_rank": ""
+  },
+  "population": {
+    "residential": {
+      "500m": 1.6,
+      "1_5km": 8.8,
+      "3km": 33.1
+    },
+    "office": {
+      "500m": 1.4,
+      "1_5km": 4.5,
+      "3km": 19.6
+    },
+    "permanent": {
+      "500m": 1.7,
+      "1_5km": 8.3,
+      "3km": 31.8
+    }
+  },
+  "business": {
+    "competitors": 2.0,
+    "food": 165.0,
+    "shopping": 84.0,
+    "leisure": 4.0,
+    "education": 5.0,
+    "hotel": 16.0,
+    "services": 57.0,
+    "fitness": 12.0,
+    "auto": 55.0,
+    "total_stores": 398.0,
+    "old_store_3yr_pct": 53.0
+  },
+  "nearby_poi": {
+    "business": null,
+    "community": 138.0,
+    "office": 15.0,
+    "school": 22.0,
+    "hospital": 33.0,
+    "transport": 6.0,
+    "scenic": 110.0
+  },
+  "demographics": {
+    "male_pct": 49.9,
+    "female_pct": null,
+    "education": {
+      "小学": 7.7,
+      "初中": 13.7,
+      "高中": 12.1,
+      "大专": 5.8,
+      "本科": 49.3,
+      "硕士": 9.2,
+      "博士": 2.2
+    },
+    "has_children_pct": null,
+    "no_children_pct": null
+  },
+  "scraped_at": "2026-07-31T12:15:19.674Z",
+  "nearby_restaurants": [
+    {
+      "brand": "鸽子林烧烤海鲜大排档",
+      "address": "北京城区北苑东路顾家庄桥北300米路西潮漫酒店后侧鸽子林烧烤大排档",
+      "distance": "63m"
+    },
+    {
+      "brand": "肯德基(红军营店)",
+      "address": "来广营北京龙湖蓝海引擎产业园一层(L1-007)",
+      "distance": "74m"
+    },
+    {
+      "brand": "眉州东坡(龙湖店)",
+      "address": "红军营东路6号龙湖蓝海引擎产业园F1层",
+      "distance": "75m"
+    },
+    {
+      "brand": "麻辣坊·黏糊麻辣烫·麻辣拌(第二档口浩蓝美食城店)",
+      "address": "红军营东路与北苑中街交叉口南120米",
+      "distance": "75m"
+    },
+    {
+      "brand": "杨国福麻辣烫(红军营店)",
+      "address": "来广营乡红军营村北京蓝海引擎产业园1号楼S-1-8",
+      "distance": "75m"
+    },
+    {
+      "brand": "红军营餐厅",
+      "address": "红军营东路6号龙湖蓝海引擎产业园",
+      "distance": "76m"
+    },
+    {
+      "brand": "Tims天好咖啡(龙湖总部二店)",
+      "address": "Tims咖啡(龙湖总部二店)",
+      "distance": "79m"
+    },
+    {
+      "brand": "Grid Coffee(龙湖总部店)",
+      "address": "龙湖蓝海引擎产业园西门西大堂",
+      "distance": "79m"
+    },
+    {
+      "brand": "超级碗(龙湖蓝海店)",
+      "address": "北京城区红军营东路6号",
+      "distance": "81m"
+    },
+    {
+      "brand": "赛百味(龙湖蓝海引擎产业园)",
+      "address": "来广营乡北苑小街8号6号楼一层010室",
+      "distance": "83m"
+    },
+    {
+      "brand": "鸽子林烧烤海鲜大排档",
+      "address": "北京城区北苑东路顾家庄桥北300米路西潮漫酒店后侧鸽子林烧烤大排档",
+      "distance": "63m"
+    },
+    {
+      "brand": "肯德基(红军营店)",
+      "address": "来广营北京龙湖蓝海引擎产业园一层(L1-007)",
+      "distance": "74m"
+    },
+    {
+      "brand": "眉州东坡(龙湖店)",
+      "address": "红军营东路6号龙湖蓝海引擎产业园F1层",
+      "distance": "75m"
+    },
+    {
+      "brand": "麻辣坊·黏糊麻辣烫·麻辣拌(第二档口浩蓝美食城店)",
+      "address": "红军营东路与北苑中街交叉口南120米",
+      "distance": "75m"
+    },
+    {
+      "brand": "杨国福麻辣烫(红军营店)",
+      "address": "来广营乡红军营村北京蓝海引擎产业园1号楼S-1-8",
+      "distance": "75m"
+    },
+    {
+      "brand": "红军营餐厅",
+      "address": "红军营东路6号龙湖蓝海引擎产业园",
+      "distance": "76m"
+    },
+    {
+      "brand": "Tims天好咖啡(龙湖总部二店)",
+      "address": "Tims咖啡(龙湖总部二店)",
+      "distance": "79m"
+    },
+    {
+      "brand": "Grid Coffee(龙湖总部店)",
+      "address": "龙湖蓝海引擎产业园西门西大堂",
+      "distance": "79m"
+    },
+    {
+      "brand": "超级碗(龙湖蓝海店)",
+      "address": "北京城区红军营东路6号",
+      "distance": "81m"
+    },
+    {
+      "brand": "赛百味(龙湖蓝海引擎产业园)",
+      "address": "来广营乡北苑小街8号6号楼一层010室",
+      "distance": "83m"
+    },
+    {
+      "brand": "鸽子林烧烤海鲜大排档",
+      "address": "北京城区北苑东路顾家庄桥北300米路西潮漫酒店后侧鸽子林烧烤大排档",
+      "distance": "63m"
+    },
+    {
+      "brand": "肯德基(红军营店)",
+      "address": "来广营北京龙湖蓝海引擎产业园一层(L1-007)",
+      "distance": "74m"
+    },
+    {
+      "brand": "眉州东坡(龙湖店)",
+      "address": "红军营东路6号龙湖蓝海引擎产业园F1层",
+      "distance": "75m"
+    },
+    {
+      "brand": "麻辣坊·黏糊麻辣烫·麻辣拌(第二档口浩蓝美食城店)",
+      "address": "红军营东路与北苑中街交叉口南120米",
+      "distance": "75m"
+    },
+    {
+      "brand": "杨国福麻辣烫(红军营店)",
+      "address": "来广营乡红军营村北京蓝海引擎产业园1号楼S-1-8",
+      "distance": "75m"
+    },
+    {
+      "brand": "红军营餐厅",
+      "address": "红军营东路6号龙湖蓝海引擎产业园",
+      "distance": "76m"
+    },
+    {
+      "brand": "Tims天好咖啡(龙湖总部二店)",
+      "address": "Tims咖啡(龙湖总部二店)",
+      "distance": "79m"
+    },
+    {
+      "brand": "Grid Coffee(龙湖总部店)",
+      "address": "龙湖蓝海引擎产业园西门西大堂",
+      "distance": "79m"
+    },
+    {
+      "brand": "超级碗(龙湖蓝海店)",
+      "address": "北京城区红军营东路6号",
+      "distance": "81m"
+    },
+    {
+      "brand": "赛百味(龙湖蓝海引擎产业园)",
+      "address": "来广营乡北苑小街8号6号楼一层010室",
+      "distance": "83m"
+    },
+    {
+      "brand": "鸽子林烧烤海鲜大排档",
+      "address": "北京城区北苑东路顾家庄桥北300米路西潮漫酒店后侧鸽子林烧烤大排档",
+      "distance": "63m"
+    },
+    {
+      "brand": "肯德基(红军营店)",
+      "address": "来广营北京龙湖蓝海引擎产业园一层(L1-007)",
+      "distance": "74m"
+    },
+    {
+      "brand": "眉州东坡(龙湖店)",
+      "address": "红军营东路6号龙湖蓝海引擎产业园F1层",
+      "distance": "75m"
+    },
+    {
+      "brand": "麻辣坊·黏糊麻辣烫·麻辣拌(第二档口浩蓝美食城店)",
+      "address": "红军营东路与北苑中街交叉口南120米",
+      "distance": "75m"
+    },
+    {
+      "brand": "杨国福麻辣烫(红军营店)",
+      "address": "来广营乡红军营村北京蓝海引擎产业园1号楼S-1-8",
+      "distance": "75m"
+    },
+    {
+      "brand": "红军营餐厅",
+      "address": "红军营东路6号龙湖蓝海引擎产业园",
+      "distance": "76m"
+    },
+    {
+      "brand": "Tims天好咖啡(龙湖总部二店)",
+      "address": "Tims咖啡(龙湖总部二店)",
+      "distance": "79m"
+    },
+    {
+      "brand": "Grid Coffee(龙湖总部店)",
+      "address": "龙湖蓝海引擎产业园西门西大堂",
+      "distance": "79m"
+    },
+    {
+      "brand": "超级碗(龙湖蓝海店)",
+      "address": "北京城区红军营东路6号",
+      "distance": "81m"
+    },
+    {
+      "brand": "赛百味(龙湖蓝海引擎产业园)",
+      "address": "来广营乡北苑小街8号6号楼一层010室",
+      "distance": "83m"
+    },
+    {
+      "brand": "鸽子林烧烤海鲜大排档",
+      "address": "北京城区北苑东路顾家庄桥北300米路西潮漫酒店后侧鸽子林烧烤大排档",
+      "distance": "63m"
+    },
+    {
+      "brand": "肯德基(红军营店)",
+      "address": "来广营北京龙湖蓝海引擎产业园一层(L1-007)",
+      "distance": "74m"
+    },
+    {
+      "brand": "眉州东坡(龙湖店)",
+      "address": "红军营东路6号龙湖蓝海引擎产业园F1层",
+      "distance": "75m"
+    },
+    {
+      "brand": "麻辣坊·黏糊麻辣烫·麻辣拌(第二档口浩蓝美食城店)",
+      "address": "红军营东路与北苑中街交叉口南120米",
+      "distance": "75m"
+    },
+    {
+      "brand": "杨国福麻辣烫(红军营店)",
+      "address": "来广营乡红军营村北京蓝海引擎产业园1号楼S-1-8",
+      "distance": "75m"
+    },
+    {
+      "brand": "红军营餐厅",
+      "address": "红军营东路6号龙湖蓝海引擎产业园",
+      "distance": "76m"
+    },
+    {
+      "brand": "Tims天好咖啡(龙湖总部二店)",
+      "address": "Tims咖啡(龙湖总部二店)",
+      "distance": "79m"
+    },
+    {
+      "brand": "Grid Coffee(龙湖总部店)",
+      "address": "龙湖蓝海引擎产业园西门西大堂",
+      "distance": "79m"
+    },
+    {
+      "brand": "超级碗(龙湖蓝海店)",
+      "address": "北京城区红军营东路6号",
+      "distance": "81m"
+    },
+    {
+      "brand": "赛百味(龙湖蓝海引擎产业园)",
+      "address": "来广营乡北苑小街8号6号楼一层010室",
+      "distance": "83m"
+    }
+  ],
+  "nearby_malls": [],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 165.0,
+      "within_1yr_pct": 25.5,
+      "1_3yr_pct": 26.1,
+      "over_3yr_pct": 48.5
+    },
+    {
+      "type": "购物",
+      "count": 84.0,
+      "within_1yr_pct": 15.5,
+      "1_3yr_pct": 31.0,
+      "over_3yr_pct": 53.6
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 4.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "教育培训",
+      "count": 5.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 20.0,
+      "over_3yr_pct": 60.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 16.0,
+      "within_1yr_pct": 31.3,
+      "1_3yr_pct": 12.5,
+      "over_3yr_pct": 56.3
+    },
+    {
+      "type": "生活服务",
+      "count": 57.0,
+      "within_1yr_pct": 10.5,
+      "1_3yr_pct": 26.3,
+      "over_3yr_pct": 63.2
+    },
+    {
+      "type": "运动健身",
+      "count": 12.0,
+      "within_1yr_pct": 16.7,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 33.3
+    },
+    {
+      "type": "车辆服务",
+      "count": 55.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 25.5,
+      "over_3yr_pct": 54.5
+    }
+  ]
+}

@@ -1,0 +1,424 @@
+{
+  "name": "上品+(互联网城市奥莱)",
+  "city": "北京市",
+  "address": "北京市朝阳区奥运村街道神州泰岳上品+(奥运村店)",
+  "lat": 40.031715,
+  "lng": 116.417016,
+  "overview": {
+    "score": 93.0,
+    "score_rank": "市内前30%",
+    "population_score": 84.9,
+    "area_score": 88.5,
+    "consumption_score": 76.5,
+    "industry_score": 93.1,
+    "annual_sales": "8",
+    "annual_sales_unit": "亿元",
+    "area_size_sqm": 2.4,
+    "open_date": "2017-05-01",
+    "operator": "北京市上品商业发展有限责任公司",
+    "brand": "",
+    "type": "购物型",
+    "floors": "B1-L6"
+  },
+  "traffic": {
+    "annual_daily": 2.83,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第77",
+    "jun_total": 114.3,
+    "jun_total_rank": "市内商场第81名",
+    "jun_daily_avg": 3.8,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第81名",
+    "weekday_avg": 3.8,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第73名",
+    "holiday_avg": 3.7,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第100名"
+  },
+  "population": {
+    "residential": {
+      "500m": 1.7,
+      "1_5km": 14.1,
+      "3km": 36.4
+    },
+    "office": {
+      "500m": 2.3,
+      "1_5km": 8.1,
+      "3km": 18.2
+    },
+    "permanent": {
+      "500m": 2.4,
+      "1_5km": 13.9,
+      "3km": 34.6
+    }
+  },
+  "business": {
+    "competitors": 5.0,
+    "food": 215.0,
+    "shopping": 166.0,
+    "leisure": 22.0,
+    "education": 46.0,
+    "hotel": 10.0,
+    "services": 139.0,
+    "fitness": 33.0,
+    "auto": 10.0,
+    "total_stores": 180.0,
+    "old_store_3yr_pct": 47.0
+  },
+  "nearby_poi": {
+    "business": 4.0,
+    "community": 161.0,
+    "office": 25.0,
+    "school": 23.0,
+    "hospital": 28.0,
+    "transport": 8.0,
+    "scenic": 105.0
+  },
+  "demographics": {
+    "male_pct": 47.5,
+    "female_pct": null,
+    "education": {
+      "小学": 7.6,
+      "初中": 13.3,
+      "高中": 9.6,
+      "大专": 6.4,
+      "本科": 51.6,
+      "硕士": 9.5,
+      "博士": 2.0
+    },
+    "has_children_pct": 58.3,
+    "no_children_pct": 41.7
+  },
+  "scraped_at": "2026-08-01T05:27:16.533Z",
+  "nearby_restaurants": [
+    {
+      "brand": "和合谷(奥运村上品+店)",
+      "address": "北京城区北苑路13号上品地下一层009",
+      "distance": "4m"
+    },
+    {
+      "brand": "山西刀削面(北苑上品店)",
+      "address": "拂林北路与拂林东街交叉口东北120米",
+      "distance": "9m"
+    },
+    {
+      "brand": "霸蛮湖南米粉(奥运村上品+店)",
+      "address": "北京城区北苑路甲13号院上品奥运村店B1层",
+      "distance": "14m"
+    },
+    {
+      "brand": "渝八两重庆鸡公煲(北京暖山生活广场店)",
+      "address": "北京城区红军营南路36号院1号楼-3至1层101地下一层1017",
+      "distance": "16m"
+    },
+    {
+      "brand": "八珍王(北京朝阳区上品店)",
+      "address": "亚运村街道北苑路甲13号院2号楼B1-1层-101内B1-093",
+      "distance": "16m"
+    },
+    {
+      "brand": "村上一屋(上品+店)",
+      "address": "北苑路甲13号院2号楼-1层-101内B1-086",
+      "distance": "16m"
+    },
+    {
+      "brand": "咏巷炸鸡(上品购物中心)",
+      "address": "奥运村街道北苑路甲13号院2号楼-1层-101内B1-012",
+      "distance": "17m"
+    },
+    {
+      "brand": "元宝甑糕(上品店)",
+      "address": "北京城区北苑路甲13号院2号楼-1层-101内B1-102",
+      "distance": "18m"
+    },
+    {
+      "brand": "必胜客(奥运村上品+店)",
+      "address": "北苑路甲13号院2号楼上品1层",
+      "distance": "20m"
+    },
+    {
+      "brand": "武松家(奥运村上品+店)",
+      "address": "奥运村街道北苑路甲13号院2号楼6层F0-004",
+      "distance": "21m"
+    },
+    {
+      "brand": "和合谷(奥运村上品+店)",
+      "address": "北京城区北苑路13号上品地下一层009",
+      "distance": "4m"
+    },
+    {
+      "brand": "山西刀削面(北苑上品店)",
+      "address": "拂林北路与拂林东街交叉口东北120米",
+      "distance": "9m"
+    },
+    {
+      "brand": "霸蛮湖南米粉(奥运村上品+店)",
+      "address": "北京城区北苑路甲13号院上品奥运村店B1层",
+      "distance": "14m"
+    },
+    {
+      "brand": "渝八两重庆鸡公煲(北京暖山生活广场店)",
+      "address": "北京城区红军营南路36号院1号楼-3至1层101地下一层1017",
+      "distance": "16m"
+    },
+    {
+      "brand": "八珍王(北京朝阳区上品店)",
+      "address": "亚运村街道北苑路甲13号院2号楼B1-1层-101内B1-093",
+      "distance": "16m"
+    },
+    {
+      "brand": "村上一屋(上品+店)",
+      "address": "北苑路甲13号院2号楼-1层-101内B1-086",
+      "distance": "16m"
+    },
+    {
+      "brand": "咏巷炸鸡(上品购物中心)",
+      "address": "奥运村街道北苑路甲13号院2号楼-1层-101内B1-012",
+      "distance": "17m"
+    },
+    {
+      "brand": "元宝甑糕(上品店)",
+      "address": "北京城区北苑路甲13号院2号楼-1层-101内B1-102",
+      "distance": "18m"
+    },
+    {
+      "brand": "必胜客(奥运村上品+店)",
+      "address": "北苑路甲13号院2号楼上品1层",
+      "distance": "20m"
+    },
+    {
+      "brand": "武松家(奥运村上品+店)",
+      "address": "奥运村街道北苑路甲13号院2号楼6层F0-004",
+      "distance": "21m"
+    },
+    {
+      "brand": "和合谷(奥运村上品+店)",
+      "address": "北京城区北苑路13号上品地下一层009",
+      "distance": "4m"
+    },
+    {
+      "brand": "山西刀削面(北苑上品店)",
+      "address": "拂林北路与拂林东街交叉口东北120米",
+      "distance": "9m"
+    },
+    {
+      "brand": "霸蛮湖南米粉(奥运村上品+店)",
+      "address": "北京城区北苑路甲13号院上品奥运村店B1层",
+      "distance": "14m"
+    },
+    {
+      "brand": "渝八两重庆鸡公煲(北京暖山生活广场店)",
+      "address": "北京城区红军营南路36号院1号楼-3至1层101地下一层1017",
+      "distance": "16m"
+    },
+    {
+      "brand": "八珍王(北京朝阳区上品店)",
+      "address": "亚运村街道北苑路甲13号院2号楼B1-1层-101内B1-093",
+      "distance": "16m"
+    },
+    {
+      "brand": "村上一屋(上品+店)",
+      "address": "北苑路甲13号院2号楼-1层-101内B1-086",
+      "distance": "16m"
+    },
+    {
+      "brand": "咏巷炸鸡(上品购物中心)",
+      "address": "奥运村街道北苑路甲13号院2号楼-1层-101内B1-012",
+      "distance": "17m"
+    },
+    {
+      "brand": "元宝甑糕(上品店)",
+      "address": "北京城区北苑路甲13号院2号楼-1层-101内B1-102",
+      "distance": "18m"
+    },
+    {
+      "brand": "必胜客(奥运村上品+店)",
+      "address": "北苑路甲13号院2号楼上品1层",
+      "distance": "20m"
+    },
+    {
+      "brand": "武松家(奥运村上品+店)",
+      "address": "奥运村街道北苑路甲13号院2号楼6层F0-004",
+      "distance": "21m"
+    },
+    {
+      "brand": "和合谷(奥运村上品+店)",
+      "address": "北京城区北苑路13号上品地下一层009",
+      "distance": "4m"
+    },
+    {
+      "brand": "山西刀削面(北苑上品店)",
+      "address": "拂林北路与拂林东街交叉口东北120米",
+      "distance": "9m"
+    },
+    {
+      "brand": "霸蛮湖南米粉(奥运村上品+店)",
+      "address": "北京城区北苑路甲13号院上品奥运村店B1层",
+      "distance": "14m"
+    },
+    {
+      "brand": "渝八两重庆鸡公煲(北京暖山生活广场店)",
+      "address": "北京城区红军营南路36号院1号楼-3至1层101地下一层1017",
+      "distance": "16m"
+    },
+    {
+      "brand": "八珍王(北京朝阳区上品店)",
+      "address": "亚运村街道北苑路甲13号院2号楼B1-1层-101内B1-093",
+      "distance": "16m"
+    },
+    {
+      "brand": "村上一屋(上品+店)",
+      "address": "北苑路甲13号院2号楼-1层-101内B1-086",
+      "distance": "16m"
+    },
+    {
+      "brand": "咏巷炸鸡(上品购物中心)",
+      "address": "奥运村街道北苑路甲13号院2号楼-1层-101内B1-012",
+      "distance": "17m"
+    },
+    {
+      "brand": "元宝甑糕(上品店)",
+      "address": "北京城区北苑路甲13号院2号楼-1层-101内B1-102",
+      "distance": "18m"
+    },
+    {
+      "brand": "必胜客(奥运村上品+店)",
+      "address": "北苑路甲13号院2号楼上品1层",
+      "distance": "20m"
+    },
+    {
+      "brand": "武松家(奥运村上品+店)",
+      "address": "奥运村街道北苑路甲13号院2号楼6层F0-004",
+      "distance": "21m"
+    },
+    {
+      "brand": "和合谷(奥运村上品+店)",
+      "address": "北京城区北苑路13号上品地下一层009",
+      "distance": "4m"
+    },
+    {
+      "brand": "山西刀削面(北苑上品店)",
+      "address": "拂林北路与拂林东街交叉口东北120米",
+      "distance": "9m"
+    },
+    {
+      "brand": "霸蛮湖南米粉(奥运村上品+店)",
+      "address": "北京城区北苑路甲13号院上品奥运村店B1层",
+      "distance": "14m"
+    },
+    {
+      "brand": "渝八两重庆鸡公煲(北京暖山生活广场店)",
+      "address": "北京城区红军营南路36号院1号楼-3至1层101地下一层1017",
+      "distance": "16m"
+    },
+    {
+      "brand": "八珍王(北京朝阳区上品店)",
+      "address": "亚运村街道北苑路甲13号院2号楼B1-1层-101内B1-093",
+      "distance": "16m"
+    },
+    {
+      "brand": "村上一屋(上品+店)",
+      "address": "北苑路甲13号院2号楼-1层-101内B1-086",
+      "distance": "16m"
+    },
+    {
+      "brand": "咏巷炸鸡(上品购物中心)",
+      "address": "奥运村街道北苑路甲13号院2号楼-1层-101内B1-012",
+      "distance": "17m"
+    },
+    {
+      "brand": "元宝甑糕(上品店)",
+      "address": "北京城区北苑路甲13号院2号楼-1层-101内B1-102",
+      "distance": "18m"
+    },
+    {
+      "brand": "必胜客(奥运村上品+店)",
+      "address": "北苑路甲13号院2号楼上品1层",
+      "distance": "20m"
+    },
+    {
+      "brand": "武松家(奥运村上品+店)",
+      "address": "奥运村街道北苑路甲13号院2号楼6层F0-004",
+      "distance": "21m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "北京暖山生活广场",
+      "open_date": "2019-10-01",
+      "area": "1.5万㎡",
+      "jun_daily_avg": "1.6万人次",
+      "weekday_avg": "1.6万人次",
+      "holiday_avg": "1.4万人次"
+    },
+    {
+      "name": "北京K酷时尚广场",
+      "open_date": "2011-08-01",
+      "area": "5万㎡",
+      "jun_daily_avg": "1.2万人次",
+      "weekday_avg": "1.1万人次",
+      "holiday_avg": "1.3万人次"
+    },
+    {
+      "name": "北京林奥CITY PARK",
+      "open_date": "2023-09-28",
+      "area": "10万㎡",
+      "jun_daily_avg": "1.3万人次",
+      "weekday_avg": "1.1万人次",
+      "holiday_avg": "1.7万人次"
+    },
+    {
+      "name": "北京城悦荟",
+      "open_date": "2023-09-28",
+      "area": "5万㎡",
+      "jun_daily_avg": "2.8万人次",
+      "weekday_avg": "2.6万人次",
+      "holiday_avg": "3.4万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 59.0,
+      "within_1yr_pct": 33.9,
+      "1_3yr_pct": 25.4,
+      "over_3yr_pct": 40.7
+    },
+    {
+      "type": "购物",
+      "count": 83.0,
+      "within_1yr_pct": 14.5,
+      "1_3yr_pct": 30.1,
+      "over_3yr_pct": 55.4
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 9.0,
+      "within_1yr_pct": 44.4,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 55.6
+    },
+    {
+      "type": "教育培训",
+      "count": 6.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 16.7
+    },
+    {
+      "type": "生活服务",
+      "count": 21.0,
+      "within_1yr_pct": 23.8,
+      "1_3yr_pct": 38.1,
+      "over_3yr_pct": 38.1
+    },
+    {
+      "type": "运动健身",
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 50.0
+    }
+  ]
+}

@@ -1,0 +1,479 @@
+{
+  "name": "坂田万科广场",
+  "city": "深圳市",
+  "address": "广东省深圳市龙岗区坂雪岗大道5号",
+  "lat": 22.629211,
+  "lng": 114.069326,
+  "overview": {
+    "score": 93.8,
+    "score_rank": "市内前30%",
+    "population_score": 92.6,
+    "area_score": 87.4,
+    "consumption_score": 76.8,
+    "industry_score": 93.9,
+    "annual_sales": "地处深圳坂田，是集购物、餐饮、休闲、娱乐为一体的商业综合体，有多种品牌入驻，为周边居民提供多元消费体验。",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 15.0,
+    "open_date": "2023-09-28",
+    "operator": "万科企业股份有限公司",
+    "brand": "引力",
+    "type": "综合型",
+    "floors": "B1-L4"
+  },
+  "traffic": {
+    "annual_daily": 4.7,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第21",
+    "jun_total": 299.9,
+    "jun_total_rank": "市内商场第10名",
+    "jun_daily_avg": 10.0,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第10名",
+    "weekday_avg": 8.8,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第11名",
+    "holiday_avg": 13.3,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第12名"
+  },
+  "population": {
+    "residential": {
+      "500m": 4.5,
+      "1_5km": 45.5,
+      "3km": 95.8
+    },
+    "office": {
+      "500m": 2.8,
+      "1_5km": 17.9,
+      "3km": 53.5
+    },
+    "permanent": {
+      "500m": 4.0,
+      "1_5km": 36.3,
+      "3km": 77.4
+    }
+  },
+  "business": {
+    "competitors": 5.0,
+    "food": 483.0,
+    "shopping": 315.0,
+    "leisure": 52.0,
+    "education": 43.0,
+    "hotel": 113.0,
+    "services": 247.0,
+    "fitness": 20.0,
+    "auto": 31.0,
+    "total_stores": 196.0,
+    "old_store_3yr_pct": 1.0
+  },
+  "nearby_poi": {
+    "business": 12.0,
+    "community": 289.0,
+    "office": 146.0,
+    "school": 45.0,
+    "hospital": 102.0,
+    "transport": 9.0,
+    "scenic": 87.0
+  },
+  "demographics": {
+    "male_pct": 54.3,
+    "female_pct": null,
+    "education": {
+      "小学": 9.0,
+      "初中": 17.5,
+      "高中": 11.9,
+      "大专": 13.4,
+      "本科": 44.6,
+      "硕士": 3.2,
+      "博士": 0.4
+    },
+    "has_children_pct": 58.1,
+    "no_children_pct": 41.9
+  },
+  "scraped_at": "2026-07-31T13:19:14.159Z",
+  "nearby_restaurants": [
+    {
+      "brand": "1-7 Bread(坂田万科广场店)",
+      "address": "坂田万科广场L1-22a",
+      "distance": "2m"
+    },
+    {
+      "brand": "小杨生煎(深圳坂田万科店)",
+      "address": "坂田街道杨美社区东坡街3号坂田万科广场",
+      "distance": "3m"
+    },
+    {
+      "brand": "潮牛庄潮汕牛肉火锅(坂田万科店)",
+      "address": "坂田万科广场(坂田地铁站出入口步行220米)",
+      "distance": "6m"
+    },
+    {
+      "brand": "老碗会(坂田万科广场店)",
+      "address": "东坡街3号坂田万科广场B1层",
+      "distance": "7m"
+    },
+    {
+      "brand": "野妹经典火锅(坂田万科广场店)",
+      "address": "坂田万科广场L4-18(坂田地铁站D口)",
+      "distance": "8m"
+    },
+    {
+      "brand": "巴蜀熊猫牛肉冒菜(坂田万科广场店)(装修中)",
+      "address": "东坡路3号坂田万科广场B1层",
+      "distance": "8m"
+    },
+    {
+      "brand": "老城鲜贝贝煲(坂田万科广场店)",
+      "address": "坂田街道杨美社区东坡街3号坂田万科广场L6层",
+      "distance": "8m"
+    },
+    {
+      "brand": "老乡鸡(坂田万科广场)",
+      "address": "东坡街3号坂田万科广场B1层",
+      "distance": "8m"
+    },
+    {
+      "brand": "马记永兰州牛肉面(坂田万科广场店)",
+      "address": "坂田万科广场负一楼马记永兰州牛肉面",
+      "distance": "8m"
+    },
+    {
+      "brand": "徐鼎盛川味馆(坂田万科广场店)",
+      "address": "坂田街道杨美社区东坡路3号坂田万科广场L3C层44a-45号",
+      "distance": "8m"
+    },
+    {
+      "brand": "1-7 Bread(坂田万科广场店)",
+      "address": "坂田万科广场L1-22a",
+      "distance": "2m"
+    },
+    {
+      "brand": "小杨生煎(深圳坂田万科店)",
+      "address": "坂田街道杨美社区东坡街3号坂田万科广场",
+      "distance": "3m"
+    },
+    {
+      "brand": "潮牛庄潮汕牛肉火锅(坂田万科店)",
+      "address": "坂田万科广场(坂田地铁站出入口步行220米)",
+      "distance": "6m"
+    },
+    {
+      "brand": "老碗会(坂田万科广场店)",
+      "address": "东坡街3号坂田万科广场B1层",
+      "distance": "7m"
+    },
+    {
+      "brand": "野妹经典火锅(坂田万科广场店)",
+      "address": "坂田万科广场L4-18(坂田地铁站D口)",
+      "distance": "8m"
+    },
+    {
+      "brand": "巴蜀熊猫牛肉冒菜(坂田万科广场店)(装修中)",
+      "address": "东坡路3号坂田万科广场B1层",
+      "distance": "8m"
+    },
+    {
+      "brand": "老城鲜贝贝煲(坂田万科广场店)",
+      "address": "坂田街道杨美社区东坡街3号坂田万科广场L6层",
+      "distance": "8m"
+    },
+    {
+      "brand": "老乡鸡(坂田万科广场)",
+      "address": "东坡街3号坂田万科广场B1层",
+      "distance": "8m"
+    },
+    {
+      "brand": "马记永兰州牛肉面(坂田万科广场店)",
+      "address": "坂田万科广场负一楼马记永兰州牛肉面",
+      "distance": "8m"
+    },
+    {
+      "brand": "徐鼎盛川味馆(坂田万科广场店)",
+      "address": "坂田街道杨美社区东坡路3号坂田万科广场L3C层44a-45号",
+      "distance": "8m"
+    },
+    {
+      "brand": "1-7 Bread(坂田万科广场店)",
+      "address": "坂田万科广场L1-22a",
+      "distance": "2m"
+    },
+    {
+      "brand": "小杨生煎(深圳坂田万科店)",
+      "address": "坂田街道杨美社区东坡街3号坂田万科广场",
+      "distance": "3m"
+    },
+    {
+      "brand": "潮牛庄潮汕牛肉火锅(坂田万科店)",
+      "address": "坂田万科广场(坂田地铁站出入口步行220米)",
+      "distance": "6m"
+    },
+    {
+      "brand": "老碗会(坂田万科广场店)",
+      "address": "东坡街3号坂田万科广场B1层",
+      "distance": "7m"
+    },
+    {
+      "brand": "野妹经典火锅(坂田万科广场店)",
+      "address": "坂田万科广场L4-18(坂田地铁站D口)",
+      "distance": "8m"
+    },
+    {
+      "brand": "巴蜀熊猫牛肉冒菜(坂田万科广场店)(装修中)",
+      "address": "东坡路3号坂田万科广场B1层",
+      "distance": "8m"
+    },
+    {
+      "brand": "老城鲜贝贝煲(坂田万科广场店)",
+      "address": "坂田街道杨美社区东坡街3号坂田万科广场L6层",
+      "distance": "8m"
+    },
+    {
+      "brand": "老乡鸡(坂田万科广场)",
+      "address": "东坡街3号坂田万科广场B1层",
+      "distance": "8m"
+    },
+    {
+      "brand": "马记永兰州牛肉面(坂田万科广场店)",
+      "address": "坂田万科广场负一楼马记永兰州牛肉面",
+      "distance": "8m"
+    },
+    {
+      "brand": "徐鼎盛川味馆(坂田万科广场店)",
+      "address": "坂田街道杨美社区东坡路3号坂田万科广场L3C层44a-45号",
+      "distance": "8m"
+    },
+    {
+      "brand": "1-7 Bread(坂田万科广场店)",
+      "address": "坂田万科广场L1-22a",
+      "distance": "2m"
+    },
+    {
+      "brand": "小杨生煎(深圳坂田万科店)",
+      "address": "坂田街道杨美社区东坡街3号坂田万科广场",
+      "distance": "3m"
+    },
+    {
+      "brand": "潮牛庄潮汕牛肉火锅(坂田万科店)",
+      "address": "坂田万科广场(坂田地铁站出入口步行220米)",
+      "distance": "6m"
+    },
+    {
+      "brand": "老碗会(坂田万科广场店)",
+      "address": "东坡街3号坂田万科广场B1层",
+      "distance": "7m"
+    },
+    {
+      "brand": "野妹经典火锅(坂田万科广场店)",
+      "address": "坂田万科广场L4-18(坂田地铁站D口)",
+      "distance": "8m"
+    },
+    {
+      "brand": "巴蜀熊猫牛肉冒菜(坂田万科广场店)(装修中)",
+      "address": "东坡路3号坂田万科广场B1层",
+      "distance": "8m"
+    },
+    {
+      "brand": "老城鲜贝贝煲(坂田万科广场店)",
+      "address": "坂田街道杨美社区东坡街3号坂田万科广场L6层",
+      "distance": "8m"
+    },
+    {
+      "brand": "老乡鸡(坂田万科广场)",
+      "address": "东坡街3号坂田万科广场B1层",
+      "distance": "8m"
+    },
+    {
+      "brand": "马记永兰州牛肉面(坂田万科广场店)",
+      "address": "坂田万科广场负一楼马记永兰州牛肉面",
+      "distance": "8m"
+    },
+    {
+      "brand": "徐鼎盛川味馆(坂田万科广场店)",
+      "address": "坂田街道杨美社区东坡路3号坂田万科广场L3C层44a-45号",
+      "distance": "8m"
+    },
+    {
+      "brand": "1-7 Bread(坂田万科广场店)",
+      "address": "坂田万科广场L1-22a",
+      "distance": "2m"
+    },
+    {
+      "brand": "小杨生煎(深圳坂田万科店)",
+      "address": "坂田街道杨美社区东坡街3号坂田万科广场",
+      "distance": "3m"
+    },
+    {
+      "brand": "潮牛庄潮汕牛肉火锅(坂田万科店)",
+      "address": "坂田万科广场(坂田地铁站出入口步行220米)",
+      "distance": "6m"
+    },
+    {
+      "brand": "老碗会(坂田万科广场店)",
+      "address": "东坡街3号坂田万科广场B1层",
+      "distance": "7m"
+    },
+    {
+      "brand": "野妹经典火锅(坂田万科广场店)",
+      "address": "坂田万科广场L4-18(坂田地铁站D口)",
+      "distance": "8m"
+    },
+    {
+      "brand": "巴蜀熊猫牛肉冒菜(坂田万科广场店)(装修中)",
+      "address": "东坡路3号坂田万科广场B1层",
+      "distance": "8m"
+    },
+    {
+      "brand": "老城鲜贝贝煲(坂田万科广场店)",
+      "address": "坂田街道杨美社区东坡街3号坂田万科广场L6层",
+      "distance": "8m"
+    },
+    {
+      "brand": "老乡鸡(坂田万科广场)",
+      "address": "东坡街3号坂田万科广场B1层",
+      "distance": "8m"
+    },
+    {
+      "brand": "马记永兰州牛肉面(坂田万科广场店)",
+      "address": "坂田万科广场负一楼马记永兰州牛肉面",
+      "distance": "8m"
+    },
+    {
+      "brand": "徐鼎盛川味馆(坂田万科广场店)",
+      "address": "坂田街道杨美社区东坡路3号坂田万科广场L3C层44a-45号",
+      "distance": "8m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "深圳城立方商业中心",
+      "open_date": "-",
+      "area": "6万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "深圳海达和成购物广场",
+      "open_date": "2016-04-25",
+      "area": "2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "深圳坂田湾畔Mall",
+      "open_date": "2021-01-23",
+      "area": "8万㎡",
+      "jun_daily_avg": "1.9万人次",
+      "weekday_avg": "1.7万人次",
+      "holiday_avg": "2.4万人次"
+    },
+    {
+      "name": "深圳坂田商业广场",
+      "open_date": "2024-09-26",
+      "area": "5万㎡",
+      "jun_daily_avg": "1.6万人次",
+      "weekday_avg": "1.4万人次",
+      "holiday_avg": "2万人次"
+    },
+    {
+      "name": "深圳乐汇东街",
+      "open_date": "-",
+      "area": "-",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "深圳五和伍城市广场",
+      "open_date": "2023-11-08",
+      "area": "2.3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "深圳美家福百货(环城路店)",
+      "open_date": "-",
+      "area": "-",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "深圳宝银商业广场",
+      "open_date": "2019-10-01",
+      "area": "6万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "深圳max city 百佳华购物中心(坂田店)",
+      "open_date": "2016-12-24",
+      "area": "5万㎡",
+      "jun_daily_avg": "3.6万人次",
+      "weekday_avg": "3.1万人次",
+      "holiday_avg": "5万人次"
+    },
+    {
+      "name": "深圳天虹商场(坂田店)",
+      "open_date": "2019-06-07",
+      "area": "5万㎡",
+      "jun_daily_avg": "3.2万人次",
+      "weekday_avg": "2.8万人次",
+      "holiday_avg": "4.4万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 89.0,
+      "within_1yr_pct": 11.2,
+      "1_3yr_pct": 88.8,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "购物",
+      "count": 73.0,
+      "within_1yr_pct": 19.2,
+      "1_3yr_pct": 80.8,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 8.0,
+      "within_1yr_pct": 12.5,
+      "1_3yr_pct": 87.5,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "教育培训",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    },
+    {
+      "type": "生活服务",
+      "count": 18.0,
+      "within_1yr_pct": 11.1,
+      "1_3yr_pct": 88.9,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 6.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
+    }
+  ]
+}

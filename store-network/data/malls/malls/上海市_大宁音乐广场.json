@@ -1,0 +1,439 @@
+{
+  "name": "大宁音乐广场",
+  "city": "上海市",
+  "address": "上海市静安区万荣路777号",
+  "lat": 31.280676,
+  "lng": 121.443748,
+  "overview": {
+    "score": 92.8,
+    "score_rank": "市内前30%",
+    "population_score": 71.2,
+    "area_score": 76.8,
+    "consumption_score": 73.1,
+    "industry_score": 93.0,
+    "annual_sales": "大宁音乐广场是一个集文化、艺术、休闲、娱乐于一体的综合性文化广场，位于上海市静安区万荣路777号，总建筑面积近14.5万平方米",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 4.0,
+    "open_date": "2016-05-27",
+    "operator": "上海大宁资产经营（集团）有限公司",
+    "brand": "上海大宁资产经营（集团）有限公司",
+    "type": "美食型",
+    "floors": ""
+  },
+  "traffic": {
+    "annual_daily": 1.76,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第155",
+    "jun_total": 66.9,
+    "jun_total_rank": "市内商场第176名",
+    "jun_daily_avg": 2.2,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第176名",
+    "weekday_avg": 2.2,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第168名",
+    "holiday_avg": 2.4,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第180名"
+  },
+  "population": {
+    "residential": {
+      "500m": 8300.0,
+      "1_5km": 18.4,
+      "3km": 99.5
+    },
+    "office": {
+      "500m": 2.5,
+      "1_5km": 14.0,
+      "3km": 54.0
+    },
+    "permanent": {
+      "500m": 1.2,
+      "1_5km": 20.1,
+      "3km": 104.0
+    }
+  },
+  "business": {
+    "competitors": 7.0,
+    "food": 228.0,
+    "shopping": 81.0,
+    "leisure": 17.0,
+    "education": 25.0,
+    "hotel": 13.0,
+    "services": 76.0,
+    "fitness": 19.0,
+    "auto": 19.0,
+    "total_stores": 118.0,
+    "old_store_3yr_pct": 62.0
+  },
+  "nearby_poi": {
+    "business": 5.0,
+    "community": 557.0,
+    "office": 88.0,
+    "school": 27.0,
+    "hospital": 91.0,
+    "transport": 6.0,
+    "scenic": 123.0
+  },
+  "demographics": {
+    "male_pct": 48.3,
+    "female_pct": null,
+    "education": {
+      "小学": 9.4,
+      "初中": 18.4,
+      "高中": 11.8,
+      "大专": 7.4,
+      "本科": 47.4,
+      "硕士": 4.0,
+      "博士": 1.6
+    },
+    "has_children_pct": 63.1,
+    "no_children_pct": 36.9
+  },
+  "scraped_at": "2026-07-31T11:44:48.753Z",
+  "nearby_restaurants": [
+    {
+      "brand": "喜家德虾仁水饺(大宁音乐广场店)",
+      "address": "万荣路651、703号大宁音乐广场B109室",
+      "distance": "20m"
+    },
+    {
+      "brand": "糕小心烘焙坊(大宁国际店)",
+      "address": "广中西路与万荣路交叉口北240米",
+      "distance": "22m"
+    },
+    {
+      "brand": "来咖(大宁音乐广场万荣路二152L店)",
+      "address": "广中西路与万荣路交叉口北240米",
+      "distance": "22m"
+    },
+    {
+      "brand": "稻状元(大宁店)",
+      "address": "上海城区万荣路651、703号B134-3、4号",
+      "distance": "23m"
+    },
+    {
+      "brand": "悦庭荟·融宴",
+      "address": "万荣路777号大宁音乐广场E座4楼",
+      "distance": "23m"
+    },
+    {
+      "brand": "Manner Coffee(大宁音乐广场店)",
+      "address": "大宁中心广场万荣路777弄5号102室",
+      "distance": "23m"
+    },
+    {
+      "brand": "小龙坎火锅(大宁店)",
+      "address": "彭浦镇万荣路777号大宁音乐广场E座402室",
+      "distance": "25m"
+    },
+    {
+      "brand": "付二娘鲜鱼美蛙馆(大宁店)",
+      "address": "万荣路777号大宁音乐广场E栋北1楼(210公交车站旁边)",
+      "distance": "27m"
+    },
+    {
+      "brand": "喜茶(上海大宁音乐广场店)",
+      "address": "万荣路777号大宁音乐广场F1层",
+      "distance": "30m"
+    },
+    {
+      "brand": "芙气满满(大宁音乐广场店)",
+      "address": "万荣路与灵石路交叉口东南220米",
+      "distance": "30m"
+    },
+    {
+      "brand": "喜家德虾仁水饺(大宁音乐广场店)",
+      "address": "万荣路651、703号大宁音乐广场B109室",
+      "distance": "20m"
+    },
+    {
+      "brand": "糕小心烘焙坊(大宁国际店)",
+      "address": "广中西路与万荣路交叉口北240米",
+      "distance": "22m"
+    },
+    {
+      "brand": "来咖(大宁音乐广场万荣路二152L店)",
+      "address": "广中西路与万荣路交叉口北240米",
+      "distance": "22m"
+    },
+    {
+      "brand": "稻状元(大宁店)",
+      "address": "上海城区万荣路651、703号B134-3、4号",
+      "distance": "23m"
+    },
+    {
+      "brand": "悦庭荟·融宴",
+      "address": "万荣路777号大宁音乐广场E座4楼",
+      "distance": "23m"
+    },
+    {
+      "brand": "Manner Coffee(大宁音乐广场店)",
+      "address": "大宁中心广场万荣路777弄5号102室",
+      "distance": "23m"
+    },
+    {
+      "brand": "小龙坎火锅(大宁店)",
+      "address": "彭浦镇万荣路777号大宁音乐广场E座402室",
+      "distance": "25m"
+    },
+    {
+      "brand": "付二娘鲜鱼美蛙馆(大宁店)",
+      "address": "万荣路777号大宁音乐广场E栋北1楼(210公交车站旁边)",
+      "distance": "27m"
+    },
+    {
+      "brand": "喜茶(上海大宁音乐广场店)",
+      "address": "万荣路777号大宁音乐广场F1层",
+      "distance": "30m"
+    },
+    {
+      "brand": "芙气满满(大宁音乐广场店)",
+      "address": "万荣路与灵石路交叉口东南220米",
+      "distance": "30m"
+    },
+    {
+      "brand": "喜家德虾仁水饺(大宁音乐广场店)",
+      "address": "万荣路651、703号大宁音乐广场B109室",
+      "distance": "20m"
+    },
+    {
+      "brand": "糕小心烘焙坊(大宁国际店)",
+      "address": "广中西路与万荣路交叉口北240米",
+      "distance": "22m"
+    },
+    {
+      "brand": "来咖(大宁音乐广场万荣路二152L店)",
+      "address": "广中西路与万荣路交叉口北240米",
+      "distance": "22m"
+    },
+    {
+      "brand": "稻状元(大宁店)",
+      "address": "上海城区万荣路651、703号B134-3、4号",
+      "distance": "23m"
+    },
+    {
+      "brand": "悦庭荟·融宴",
+      "address": "万荣路777号大宁音乐广场E座4楼",
+      "distance": "23m"
+    },
+    {
+      "brand": "Manner Coffee(大宁音乐广场店)",
+      "address": "大宁中心广场万荣路777弄5号102室",
+      "distance": "23m"
+    },
+    {
+      "brand": "小龙坎火锅(大宁店)",
+      "address": "彭浦镇万荣路777号大宁音乐广场E座402室",
+      "distance": "25m"
+    },
+    {
+      "brand": "付二娘鲜鱼美蛙馆(大宁店)",
+      "address": "万荣路777号大宁音乐广场E栋北1楼(210公交车站旁边)",
+      "distance": "27m"
+    },
+    {
+      "brand": "喜茶(上海大宁音乐广场店)",
+      "address": "万荣路777号大宁音乐广场F1层",
+      "distance": "30m"
+    },
+    {
+      "brand": "芙气满满(大宁音乐广场店)",
+      "address": "万荣路与灵石路交叉口东南220米",
+      "distance": "30m"
+    },
+    {
+      "brand": "喜家德虾仁水饺(大宁音乐广场店)",
+      "address": "万荣路651、703号大宁音乐广场B109室",
+      "distance": "20m"
+    },
+    {
+      "brand": "糕小心烘焙坊(大宁国际店)",
+      "address": "广中西路与万荣路交叉口北240米",
+      "distance": "22m"
+    },
+    {
+      "brand": "来咖(大宁音乐广场万荣路二152L店)",
+      "address": "广中西路与万荣路交叉口北240米",
+      "distance": "22m"
+    },
+    {
+      "brand": "稻状元(大宁店)",
+      "address": "上海城区万荣路651、703号B134-3、4号",
+      "distance": "23m"
+    },
+    {
+      "brand": "悦庭荟·融宴",
+      "address": "万荣路777号大宁音乐广场E座4楼",
+      "distance": "23m"
+    },
+    {
+      "brand": "Manner Coffee(大宁音乐广场店)",
+      "address": "大宁中心广场万荣路777弄5号102室",
+      "distance": "23m"
+    },
+    {
+      "brand": "小龙坎火锅(大宁店)",
+      "address": "彭浦镇万荣路777号大宁音乐广场E座402室",
+      "distance": "25m"
+    },
+    {
+      "brand": "付二娘鲜鱼美蛙馆(大宁店)",
+      "address": "万荣路777号大宁音乐广场E栋北1楼(210公交车站旁边)",
+      "distance": "27m"
+    },
+    {
+      "brand": "喜茶(上海大宁音乐广场店)",
+      "address": "万荣路777号大宁音乐广场F1层",
+      "distance": "30m"
+    },
+    {
+      "brand": "芙气满满(大宁音乐广场店)",
+      "address": "万荣路与灵石路交叉口东南220米",
+      "distance": "30m"
+    },
+    {
+      "brand": "喜家德虾仁水饺(大宁音乐广场店)",
+      "address": "万荣路651、703号大宁音乐广场B109室",
+      "distance": "20m"
+    },
+    {
+      "brand": "糕小心烘焙坊(大宁国际店)",
+      "address": "广中西路与万荣路交叉口北240米",
+      "distance": "22m"
+    },
+    {
+      "brand": "来咖(大宁音乐广场万荣路二152L店)",
+      "address": "广中西路与万荣路交叉口北240米",
+      "distance": "22m"
+    },
+    {
+      "brand": "稻状元(大宁店)",
+      "address": "上海城区万荣路651、703号B134-3、4号",
+      "distance": "23m"
+    },
+    {
+      "brand": "悦庭荟·融宴",
+      "address": "万荣路777号大宁音乐广场E座4楼",
+      "distance": "23m"
+    },
+    {
+      "brand": "Manner Coffee(大宁音乐广场店)",
+      "address": "大宁中心广场万荣路777弄5号102室",
+      "distance": "23m"
+    },
+    {
+      "brand": "小龙坎火锅(大宁店)",
+      "address": "彭浦镇万荣路777号大宁音乐广场E座402室",
+      "distance": "25m"
+    },
+    {
+      "brand": "付二娘鲜鱼美蛙馆(大宁店)",
+      "address": "万荣路777号大宁音乐广场E栋北1楼(210公交车站旁边)",
+      "distance": "27m"
+    },
+    {
+      "brand": "喜茶(上海大宁音乐广场店)",
+      "address": "万荣路777号大宁音乐广场F1层",
+      "distance": "30m"
+    },
+    {
+      "brand": "芙气满满(大宁音乐广场店)",
+      "address": "万荣路与灵石路交叉口东南220米",
+      "distance": "30m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海宝燕商城(大宁店)",
+      "open_date": "-",
+      "area": "-",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海久光中心",
+      "open_date": "2021-11-27",
+      "area": "18万㎡",
+      "jun_daily_avg": "4.5万人次",
+      "weekday_avg": "4万人次",
+      "holiday_avg": "5.8万人次"
+    },
+    {
+      "name": "上海火星一号商业广场",
+      "open_date": "-",
+      "area": "2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海大宁国际商业广场",
+      "open_date": "2006-01-01",
+      "area": "10.5万㎡",
+      "jun_daily_avg": "3.3万人次",
+      "weekday_avg": "2.9万人次",
+      "holiday_avg": "4.2万人次"
+    },
+    {
+      "name": "上海静安大融城",
+      "open_date": "2018-06-29",
+      "area": "11万㎡",
+      "jun_daily_avg": "7.5万人次",
+      "weekday_avg": "6.6万人次",
+      "holiday_avg": "10.2万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 56.0,
+      "within_1yr_pct": 19.6,
+      "1_3yr_pct": 19.6,
+      "over_3yr_pct": 60.7
+    },
+    {
+      "type": "购物",
+      "count": 20.0,
+      "within_1yr_pct": 10.0,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 65.0
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 5.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 80.0
+    },
+    {
+      "type": "教育培训",
+      "count": 11.0,
+      "within_1yr_pct": 18.2,
+      "1_3yr_pct": 27.3,
+      "over_3yr_pct": 54.5
+    },
+    {
+      "type": "生活服务",
+      "count": 16.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 12.5,
+      "over_3yr_pct": 62.5
+    },
+    {
+      "type": "运动健身",
+      "count": 5.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 40.0,
+      "over_3yr_pct": 40.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 5.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 20.0,
+      "over_3yr_pct": 80.0
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "name": "优客广场",
+  "city": "成都市",
+  "address": "四川省成都市武侯区长荣路666号",
+  "lat": 30.61256,
+  "lng": 104.078859,
+  "overview": {
+    "score": 93.0,
+    "score_rank": "市内前30%",
+    "population_score": 97.3,
+    "area_score": 79.6,
+    "consumption_score": 79.9,
+    "industry_score": 93.1,
+    "annual_sales": "成都莱蒙都会由韩国衣恋集团在成都打造的第二个城市奥莱项目，聚焦家庭客群一站式消费目的地。项目集购物、休闲、娱乐、餐饮为一体，致力于打造一个“价实质优，玩购一体”的综合型品牌生活俱乐部，为都市主流人群打造一个“价实质优，玩购一体”的综合型品牌生活俱乐部，为80后90后、家庭型顾客，提供一站式购物娱乐新体验",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 9.0,
+    "open_date": "2013-01-01",
+    "operator": "成都中创泽商业管理有限公司",
+    "brand": "",
+    "type": "综合型",
+    "floors": "B1-L4"
+  },
+  "traffic": {
+    "annual_daily": 1.79,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第100",
+    "jun_total": 75.7,
+    "jun_total_rank": "市内商场第99名",
+    "jun_daily_avg": 2.5,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第99名",
+    "weekday_avg": 2.5,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第95名",
+    "holiday_avg": 2.6,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第104名"
+  },
+  "population": {
+    "residential": {
+      "500m": 3.3,
+      "1_5km": 19.9,
+      "3km": 61.8
+    },
+    "office": {
+      "500m": 1.5,
+      "1_5km": 12.6,
+      "3km": 44.0
+    },
+    "permanent": {
+      "500m": 3.0,
+      "1_5km": 20.5,
+      "3km": 60.3
+    }
+  },
+  "business": {
+    "competitors": 5.0,
+    "food": 336.0,
+    "shopping": 255.0,
+    "leisure": 29.0,
+    "education": 24.0,
+    "hotel": 28.0,
+    "services": 154.0,
+    "fitness": 21.0,
+    "auto": 38.0,
+    "total_stores": 200.0,
+    "old_store_3yr_pct": 34.0
+  },
+  "nearby_poi": {
+    "business": 4.0,
+    "community": 716.0,
+    "office": 37.0,
+    "school": 24.0,
+    "hospital": 157.0,
+    "transport": 16.0,
+    "scenic": 153.0
+  },
+  "demographics": {
+    "male_pct": 46.7,
+    "female_pct": null,
+    "education": {
+      "小学": 8.5,
+      "初中": 15.7,
+      "高中": 12.9,
+      "大专": 9.7,
+      "本科": 45.7,
+      "硕士": 6.0,
+      "博士": 1.5
+    },
+    "has_children_pct": 57.3,
+    "no_children_pct": 42.7
+  },
+  "scraped_at": "2026-08-02T07:28:31.408Z",
+  "nearby_restaurants": [],
+  "nearby_malls": [],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 85.0,
+      "within_1yr_pct": 23.5,
+      "1_3yr_pct": 35.3,
+      "over_3yr_pct": 41.2
+    },
+    {
+      "type": "购物",
+      "count": 61.0,
+      "within_1yr_pct": 29.5,
+      "1_3yr_pct": 44.3,
+      "over_3yr_pct": 26.2
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 10.0,
+      "within_1yr_pct": 60.0,
+      "1_3yr_pct": 20.0,
+      "over_3yr_pct": 20.0
+    },
+    {
+      "type": "教育培训",
+      "count": 8.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 25.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 3.0,
+      "within_1yr_pct": 66.7,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 33.3
+    },
+    {
+      "type": "生活服务",
+      "count": 17.0,
+      "within_1yr_pct": 5.9,
+      "1_3yr_pct": 52.9,
+      "over_3yr_pct": 41.2
+    },
+    {
+      "type": "运动健身",
+      "count": 9.0,
+      "within_1yr_pct": 22.2,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 44.4
+    },
+    {
+      "type": "车辆服务",
+      "count": 7.0,
+      "within_1yr_pct": 28.6,
+      "1_3yr_pct": 57.1,
+      "over_3yr_pct": 14.3
+    }
+  ]
+}

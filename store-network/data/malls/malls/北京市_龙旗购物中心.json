@@ -1,0 +1,190 @@
+{
+  "name": "龙旗购物中心",
+  "city": "北京市",
+  "address": "北京市昌平区黄平路19号",
+  "lat": 40.066765,
+  "lng": 116.347283,
+  "overview": {
+    "score": 92.5,
+    "score_rank": "市内前30%",
+    "population_score": 87.4,
+    "area_score": 76.1,
+    "consumption_score": 71.3,
+    "industry_score": 92.6,
+    "annual_sales": "1.5",
+    "annual_sales_unit": "亿元",
+    "area_size_sqm": 6.2,
+    "open_date": "2012-04-26",
+    "operator": "北京市泰华房地产开发集团有限公司",
+    "brand": "",
+    "type": "综合型",
+    "floors": "B2-L3"
+  },
+  "traffic": {
+    "annual_daily": 2.15,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第116",
+    "jun_total": 75.1,
+    "jun_total_rank": "市内商场第128名",
+    "jun_daily_avg": 2.5,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第128名",
+    "weekday_avg": 2.3,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第136名",
+    "holiday_avg": 3.1,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第126名"
+  },
+  "population": {
+    "residential": {
+      "500m": 2.0,
+      "1_5km": 16.9,
+      "3km": 58.3
+    },
+    "office": {
+      "500m": 1.0,
+      "1_5km": 6.7,
+      "3km": 24.9
+    },
+    "permanent": {
+      "500m": 2.0,
+      "1_5km": 15.4,
+      "3km": 53.8
+    }
+  },
+  "business": {
+    "competitors": 3.0,
+    "food": 145.0,
+    "shopping": 102.0,
+    "leisure": 25.0,
+    "education": 35.0,
+    "hotel": 9.0,
+    "services": 89.0,
+    "fitness": 18.0,
+    "auto": 5.0,
+    "total_stores": 185.0,
+    "old_store_3yr_pct": 59.0
+  },
+  "nearby_poi": {
+    "business": 2.0,
+    "community": 240.0,
+    "office": 14.0,
+    "school": 31.0,
+    "hospital": 64.0,
+    "transport": 8.0,
+    "scenic": 46.0
+  },
+  "demographics": {
+    "male_pct": 53.4,
+    "female_pct": null,
+    "education": {
+      "小学": 6.9,
+      "初中": 11.6,
+      "高中": 9.3,
+      "大专": 6.8,
+      "本科": 51.8,
+      "硕士": 11.4,
+      "博士": 2.2
+    },
+    "has_children_pct": 60.0,
+    "no_children_pct": 40.0
+  },
+  "scraped_at": "2026-08-01T05:38:11.994Z",
+  "nearby_restaurants": [
+    {
+      "brand": "粤福气·黑金叉烧·超级焖肉饭(第11档口嘉旺美食城店)",
+      "address": "太平庄北街与文博路交叉口东100米",
+      "distance": "493m"
+    },
+    {
+      "brand": "湘城炊烟",
+      "address": "太平庄北街与文博路交叉口东100米",
+      "distance": "493m"
+    },
+    {
+      "brand": "陈记拉面(太平庄北街店)",
+      "address": "三旗百汇3号楼底商陈记拉面",
+      "distance": "496m"
+    },
+    {
+      "brand": "池宝炒饭",
+      "address": "太平庄北街与文博路交叉口东80米",
+      "distance": "496m"
+    },
+    {
+      "brand": "鲜味麻辣小龙虾",
+      "address": "太平庄北街与文博路交叉口东100米",
+      "distance": "498m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "BHG Mall北京华联同成街购物中心",
+      "open_date": "2013-05-01",
+      "area": "4万㎡",
+      "jun_daily_avg": "1.3万人次",
+      "weekday_avg": "1.2万人次",
+      "holiday_avg": "1.8万人次"
+    },
+    {
+      "name": "北京沁春汇",
+      "open_date": "2018-01-01",
+      "area": "3.2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 53.0,
+      "within_1yr_pct": 17.0,
+      "1_3yr_pct": 18.9,
+      "over_3yr_pct": 64.2
+    },
+    {
+      "type": "购物",
+      "count": 46.0,
+      "within_1yr_pct": 6.5,
+      "1_3yr_pct": 15.2,
+      "over_3yr_pct": 78.3
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 23.0,
+      "within_1yr_pct": 26.1,
+      "1_3yr_pct": 39.1,
+      "over_3yr_pct": 34.8
+    },
+    {
+      "type": "教育培训",
+      "count": 14.0,
+      "within_1yr_pct": 14.3,
+      "1_3yr_pct": 21.4,
+      "over_3yr_pct": 64.3
+    },
+    {
+      "type": "酒店住宿",
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "生活服务",
+      "count": 40.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 32.5,
+      "over_3yr_pct": 47.5
+    },
+    {
+      "type": "运动健身",
+      "count": 7.0,
+      "within_1yr_pct": 28.6,
+      "1_3yr_pct": 42.9,
+      "over_3yr_pct": 28.6
+    }
+  ]
+}

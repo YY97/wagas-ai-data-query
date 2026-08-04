@@ -1,0 +1,225 @@
+{
+  "name": "阳光新生活广场",
+  "city": "北京市",
+  "address": "上海市宝山区共和新路5219号",
+  "lat": null,
+  "lng": null,
+  "overview": {
+    "score": 89.8,
+    "score_rank": "市内前30%",
+    "population_score": 94.3,
+    "area_score": 91.8,
+    "consumption_score": 71.1,
+    "industry_score": 89.8,
+    "annual_sales": "龙湖上海宝山天街是龙湖集团布局上海的第二座天街系城市商业综合体，位于上海“新顾城”板块核心区域，辐射常驻人口达40万，项目涵盖了亲子、零售、餐饮、休闲娱乐等全业态布局",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 4.0,
+    "open_date": "2017-12-16",
+    "operator": "龙湖集团控股有限公司",
+    "brand": "",
+    "type": "美食型",
+    "floors": "L1-L5"
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "-",
+    "annual_daily_rank": "",
+    "jun_total": 19.7,
+    "jun_total_rank": "市内商场第387名",
+    "jun_daily_avg": 6564.0,
+    "jun_daily_unit": "人次",
+    "jun_daily_rank": "市内商场第387名",
+    "weekday_avg": 6010.0,
+    "weekday_unit": "人次",
+    "weekday_rank": "市内商场第393名",
+    "holiday_avg": 8081.0,
+    "holiday_unit": "人次",
+    "holiday_rank": "市内商场第367名"
+  },
+  "population": {
+    "residential": {
+      "500m": 2.9,
+      "1_5km": 30.0,
+      "3km": 84.2
+    },
+    "office": {
+      "500m": 2.0,
+      "1_5km": 12.2,
+      "3km": 34.6
+    },
+    "permanent": {
+      "500m": 3.6,
+      "1_5km": 32.3,
+      "3km": 86.7
+    }
+  },
+  "business": {
+    "competitors": 7.0,
+    "food": 364.0,
+    "shopping": 275.0,
+    "leisure": 80.0,
+    "education": 80.0,
+    "hotel": 21.0,
+    "services": 369.0,
+    "fitness": 37.0,
+    "auto": 40.0,
+    "total_stores": 101.0,
+    "old_store_3yr_pct": 29.0
+  },
+  "nearby_poi": {
+    "business": 7.0,
+    "community": 332.0,
+    "office": 21.0,
+    "school": 50.0,
+    "hospital": 48.0,
+    "transport": 10.0,
+    "scenic": 93.0
+  },
+  "demographics": {
+    "male_pct": 45.6,
+    "female_pct": null,
+    "education": {
+      "小学": 9.8,
+      "初中": 19.6,
+      "高中": 11.4,
+      "大专": 8.2,
+      "本科": 46.8,
+      "硕士": 2.8,
+      "博士": 1.4
+    },
+    "has_children_pct": 65.5,
+    "no_children_pct": 34.5
+  },
+  "scraped_at": "2026-08-01T06:51:41.318Z",
+  "nearby_restaurants": [
+    {
+      "brand": "7分甜(凯旋丽都广场店)",
+      "address": "共和新路与长江西路交叉口南160米",
+      "distance": "484m"
+    },
+    {
+      "brand": "大肆撸串(凯旋丽都广场店)",
+      "address": "共和新路与长江西路交叉口南160米",
+      "distance": "484m"
+    },
+    {
+      "brand": "土家鲜肉饼(共和新路4739弄店)",
+      "address": "共和新路4739弄2-39号共和新路4739弄",
+      "distance": "491m"
+    },
+    {
+      "brand": "中华鲜货烤鸡卷饼",
+      "address": "共和新路辅路与共康路交叉口北40米",
+      "distance": "498m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海宝山万达广场",
+      "open_date": "2012-06-29",
+      "area": "20.6万㎡",
+      "jun_daily_avg": "6.2万人次",
+      "weekday_avg": "5.5万人次",
+      "holiday_avg": "8.2万人次"
+    },
+    {
+      "name": "上海吾品田·风尚天地",
+      "open_date": "2020-07-01",
+      "area": "4万㎡",
+      "jun_daily_avg": "1.3万人次",
+      "weekday_avg": "1.2万人次",
+      "holiday_avg": "1.6万人次"
+    },
+    {
+      "name": "凯旋丽都广场",
+      "open_date": "2016-10-01",
+      "area": "-",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "宝业购物广场",
+      "open_date": "-",
+      "area": "-",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海百渠广场",
+      "open_date": "2024-01-01",
+      "area": "3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "北斗星商业广场",
+      "open_date": "2008-01-01",
+      "area": "3.6万㎡",
+      "jun_daily_avg": "2万人次",
+      "weekday_avg": "1.9万人次",
+      "holiday_avg": "2.4万人次"
+    },
+    {
+      "name": "上海红太阳商业广场",
+      "open_date": "2014-09-01",
+      "area": "3.8万㎡",
+      "jun_daily_avg": "2万人次",
+      "weekday_avg": "1.9万人次",
+      "holiday_avg": "2.4万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 61.0,
+      "within_1yr_pct": 32.8,
+      "1_3yr_pct": 41.0,
+      "over_3yr_pct": 26.2
+    },
+    {
+      "type": "购物",
+      "count": 12.0,
+      "within_1yr_pct": 8.3,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 41.7
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "教育培训",
+      "count": 8.0,
+      "within_1yr_pct": 12.5,
+      "1_3yr_pct": 62.5,
+      "over_3yr_pct": 25.0
+    },
+    {
+      "type": "生活服务",
+      "count": 11.0,
+      "within_1yr_pct": 27.3,
+      "1_3yr_pct": 54.5,
+      "over_3yr_pct": 18.2
+    },
+    {
+      "type": "运动健身",
+      "count": 6.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 50.0
+    }
+  ]
+}

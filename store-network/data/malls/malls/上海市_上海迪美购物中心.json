@@ -1,0 +1,465 @@
+{
+  "name": "上海迪美购物中心",
+  "city": "上海市",
+  "address": "上海市黄浦区南京东路街道上海人民广场上海迪美购物中心",
+  "lat": 31.228154,
+  "lng": 121.473495,
+  "overview": {
+    "score": 87.5,
+    "score_rank": "市内前30%",
+    "population_score": 79.5,
+    "area_score": 74.2,
+    "consumption_score": 85.1,
+    "industry_score": 87.6,
+    "annual_sales": "上海迪美购物中心是上海首家地下“都市中心型多功能购物中心”，位于上海市中心人民广场西南侧，临近上海市政府大厦、上海大剧院、上海博物馆。购物中心占地面积50000平方米，建筑面积49557平方米，商场中央购物大道宽达12米，中央大厅钢琴吧为标志，地下二层为停车场。迪美购物中心集购物、旅游、美食、休闲为一体的购物中心，拥有5万平方米的建筑面积",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 5.0,
+    "open_date": "1995-01-01",
+    "operator": "上海迪美广场有限公司",
+    "brand": "",
+    "type": "美食型",
+    "floors": "B1-L1"
+  },
+  "traffic": {
+    "annual_daily": 1.05,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第242",
+    "jun_total": 21.6,
+    "jun_total_rank": "市内商场第369名",
+    "jun_daily_avg": 7213.0,
+    "jun_daily_unit": "人次",
+    "jun_daily_rank": "市内商场第369名",
+    "weekday_avg": 6455.0,
+    "weekday_unit": "人次",
+    "weekday_rank": "市内商场第382名",
+    "holiday_avg": 9298.0,
+    "holiday_unit": "人次",
+    "holiday_rank": "市内商场第339名"
+  },
+  "population": {
+    "residential": {
+      "500m": 1.5,
+      "1_5km": 18.8,
+      "3km": 85.3
+    },
+    "office": {
+      "500m": 2.7,
+      "1_5km": 33.6,
+      "3km": 112.0
+    },
+    "permanent": {
+      "500m": 2.4,
+      "1_5km": 26.6,
+      "3km": 109.3
+    }
+  },
+  "business": {
+    "competitors": 10.0,
+    "food": 175.0,
+    "shopping": 123.0,
+    "leisure": 24.0,
+    "education": 6.0,
+    "hotel": 41.0,
+    "services": 65.0,
+    "fitness": 4.0,
+    "auto": 19.0,
+    "total_stores": 78.0,
+    "old_store_3yr_pct": 46.0
+  },
+  "nearby_poi": {
+    "business": 37.0,
+    "community": 1029.0,
+    "office": 206.0,
+    "school": 55.0,
+    "hospital": 215.0,
+    "transport": 24.0,
+    "scenic": 988.0
+  },
+  "demographics": {
+    "male_pct": 47.1,
+    "female_pct": null,
+    "education": {
+      "小学": 8.3,
+      "初中": 15.8,
+      "高中": 11.6,
+      "大专": 6.7,
+      "本科": 49.1,
+      "硕士": 6.6,
+      "博士": 1.9
+    },
+    "has_children_pct": 67.5,
+    "no_children_pct": 32.5
+  },
+  "scraped_at": "2026-07-31T17:37:41.503Z",
+  "nearby_restaurants": [
+    {
+      "brand": "小满手工粉(上海迪美购物中心店)",
+      "address": "武胜路218号上海迪美购物中心B1层",
+      "distance": "18m"
+    },
+    {
+      "brand": "花小小新疆炒米粉·烤包子(人民广场店)",
+      "address": "人民大道221号B1层224-W05号商铺",
+      "distance": "22m"
+    },
+    {
+      "brand": "肯德基(迪美购物中心店)",
+      "address": "人民大道221号迪美购物中心B1层242-244号",
+      "distance": "22m"
+    },
+    {
+      "brand": "羊入虎口羊肉手抓饭羊肉串(人民广场店)",
+      "address": "武胜路218号上海迪美购物中心B1层",
+      "distance": "22m"
+    },
+    {
+      "brand": "湘沪一家人·木桶饭(黄埔店)",
+      "address": "人民大道与黄陂北路交叉口东180米",
+      "distance": "22m"
+    },
+    {
+      "brand": "麦记牛奶(迪美购物店)",
+      "address": "人民大道221号地下一层240-2铺位",
+      "distance": "23m"
+    },
+    {
+      "brand": "苏式酒酿红豆汤专卖店(上海迪美购物中心店)",
+      "address": "人民大道221号B1层105、107-109、113-115、117-129号",
+      "distance": "25m"
+    },
+    {
+      "brand": "谷気包",
+      "address": "人民大道与黄陂北路交叉口东180米",
+      "distance": "28m"
+    },
+    {
+      "brand": "湘太煲湘式煲仔饭",
+      "address": "黄陂北路与大沽路交叉口东北180米",
+      "distance": "33m"
+    },
+    {
+      "brand": "爷爷不泡茶NOYEYENOTEA(上海迪美购物中心店)",
+      "address": "人民大道221号上海迪美购物中心地下一层90铺",
+      "distance": "34m"
+    },
+    {
+      "brand": "小满手工粉(上海迪美购物中心店)",
+      "address": "武胜路218号上海迪美购物中心B1层",
+      "distance": "18m"
+    },
+    {
+      "brand": "花小小新疆炒米粉·烤包子(人民广场店)",
+      "address": "人民大道221号B1层224-W05号商铺",
+      "distance": "22m"
+    },
+    {
+      "brand": "肯德基(迪美购物中心店)",
+      "address": "人民大道221号迪美购物中心B1层242-244号",
+      "distance": "22m"
+    },
+    {
+      "brand": "羊入虎口羊肉手抓饭羊肉串(人民广场店)",
+      "address": "武胜路218号上海迪美购物中心B1层",
+      "distance": "22m"
+    },
+    {
+      "brand": "湘沪一家人·木桶饭(黄埔店)",
+      "address": "人民大道与黄陂北路交叉口东180米",
+      "distance": "22m"
+    },
+    {
+      "brand": "麦记牛奶(迪美购物店)",
+      "address": "人民大道221号地下一层240-2铺位",
+      "distance": "23m"
+    },
+    {
+      "brand": "苏式酒酿红豆汤专卖店(上海迪美购物中心店)",
+      "address": "人民大道221号B1层105、107-109、113-115、117-129号",
+      "distance": "25m"
+    },
+    {
+      "brand": "谷気包",
+      "address": "人民大道与黄陂北路交叉口东180米",
+      "distance": "28m"
+    },
+    {
+      "brand": "湘太煲湘式煲仔饭",
+      "address": "黄陂北路与大沽路交叉口东北180米",
+      "distance": "33m"
+    },
+    {
+      "brand": "爷爷不泡茶NOYEYENOTEA(上海迪美购物中心店)",
+      "address": "人民大道221号上海迪美购物中心地下一层90铺",
+      "distance": "34m"
+    },
+    {
+      "brand": "小满手工粉(上海迪美购物中心店)",
+      "address": "武胜路218号上海迪美购物中心B1层",
+      "distance": "18m"
+    },
+    {
+      "brand": "花小小新疆炒米粉·烤包子(人民广场店)",
+      "address": "人民大道221号B1层224-W05号商铺",
+      "distance": "22m"
+    },
+    {
+      "brand": "肯德基(迪美购物中心店)",
+      "address": "人民大道221号迪美购物中心B1层242-244号",
+      "distance": "22m"
+    },
+    {
+      "brand": "羊入虎口羊肉手抓饭羊肉串(人民广场店)",
+      "address": "武胜路218号上海迪美购物中心B1层",
+      "distance": "22m"
+    },
+    {
+      "brand": "湘沪一家人·木桶饭(黄埔店)",
+      "address": "人民大道与黄陂北路交叉口东180米",
+      "distance": "22m"
+    },
+    {
+      "brand": "麦记牛奶(迪美购物店)",
+      "address": "人民大道221号地下一层240-2铺位",
+      "distance": "23m"
+    },
+    {
+      "brand": "苏式酒酿红豆汤专卖店(上海迪美购物中心店)",
+      "address": "人民大道221号B1层105、107-109、113-115、117-129号",
+      "distance": "25m"
+    },
+    {
+      "brand": "谷気包",
+      "address": "人民大道与黄陂北路交叉口东180米",
+      "distance": "28m"
+    },
+    {
+      "brand": "湘太煲湘式煲仔饭",
+      "address": "黄陂北路与大沽路交叉口东北180米",
+      "distance": "33m"
+    },
+    {
+      "brand": "爷爷不泡茶NOYEYENOTEA(上海迪美购物中心店)",
+      "address": "人民大道221号上海迪美购物中心地下一层90铺",
+      "distance": "34m"
+    },
+    {
+      "brand": "小满手工粉(上海迪美购物中心店)",
+      "address": "武胜路218号上海迪美购物中心B1层",
+      "distance": "18m"
+    },
+    {
+      "brand": "花小小新疆炒米粉·烤包子(人民广场店)",
+      "address": "人民大道221号B1层224-W05号商铺",
+      "distance": "22m"
+    },
+    {
+      "brand": "肯德基(迪美购物中心店)",
+      "address": "人民大道221号迪美购物中心B1层242-244号",
+      "distance": "22m"
+    },
+    {
+      "brand": "羊入虎口羊肉手抓饭羊肉串(人民广场店)",
+      "address": "武胜路218号上海迪美购物中心B1层",
+      "distance": "22m"
+    },
+    {
+      "brand": "湘沪一家人·木桶饭(黄埔店)",
+      "address": "人民大道与黄陂北路交叉口东180米",
+      "distance": "22m"
+    },
+    {
+      "brand": "麦记牛奶(迪美购物店)",
+      "address": "人民大道221号地下一层240-2铺位",
+      "distance": "23m"
+    },
+    {
+      "brand": "苏式酒酿红豆汤专卖店(上海迪美购物中心店)",
+      "address": "人民大道221号B1层105、107-109、113-115、117-129号",
+      "distance": "25m"
+    },
+    {
+      "brand": "谷気包",
+      "address": "人民大道与黄陂北路交叉口东180米",
+      "distance": "28m"
+    },
+    {
+      "brand": "湘太煲湘式煲仔饭",
+      "address": "黄陂北路与大沽路交叉口东北180米",
+      "distance": "33m"
+    },
+    {
+      "brand": "爷爷不泡茶NOYEYENOTEA(上海迪美购物中心店)",
+      "address": "人民大道221号上海迪美购物中心地下一层90铺",
+      "distance": "34m"
+    },
+    {
+      "brand": "小满手工粉(上海迪美购物中心店)",
+      "address": "武胜路218号上海迪美购物中心B1层",
+      "distance": "18m"
+    },
+    {
+      "brand": "花小小新疆炒米粉·烤包子(人民广场店)",
+      "address": "人民大道221号B1层224-W05号商铺",
+      "distance": "22m"
+    },
+    {
+      "brand": "肯德基(迪美购物中心店)",
+      "address": "人民大道221号迪美购物中心B1层242-244号",
+      "distance": "22m"
+    },
+    {
+      "brand": "羊入虎口羊肉手抓饭羊肉串(人民广场店)",
+      "address": "武胜路218号上海迪美购物中心B1层",
+      "distance": "22m"
+    },
+    {
+      "brand": "湘沪一家人·木桶饭(黄埔店)",
+      "address": "人民大道与黄陂北路交叉口东180米",
+      "distance": "22m"
+    },
+    {
+      "brand": "麦记牛奶(迪美购物店)",
+      "address": "人民大道221号地下一层240-2铺位",
+      "distance": "23m"
+    },
+    {
+      "brand": "苏式酒酿红豆汤专卖店(上海迪美购物中心店)",
+      "address": "人民大道221号B1层105、107-109、113-115、117-129号",
+      "distance": "25m"
+    },
+    {
+      "brand": "谷気包",
+      "address": "人民大道与黄陂北路交叉口东180米",
+      "distance": "28m"
+    },
+    {
+      "brand": "湘太煲湘式煲仔饭",
+      "address": "黄陂北路与大沽路交叉口东北180米",
+      "distance": "33m"
+    },
+    {
+      "brand": "爷爷不泡茶NOYEYENOTEA(上海迪美购物中心店)",
+      "address": "人民大道221号上海迪美购物中心地下一层90铺",
+      "distance": "34m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海世茂52+",
+      "open_date": "2010-01-01",
+      "area": "1.5万㎡",
+      "jun_daily_avg": "2.7万人次",
+      "weekday_avg": "2.4万人次",
+      "holiday_avg": "3.3万人次"
+    },
+    {
+      "name": "上海力宝广场",
+      "open_date": "1999-01-01",
+      "area": "1万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海来福士广场",
+      "open_date": "2003-11-01",
+      "area": "4.6万㎡",
+      "jun_daily_avg": "2.7万人次",
+      "weekday_avg": "2.4万人次",
+      "holiday_avg": "3.3万人次"
+    },
+    {
+      "name": "上海仙乐斯广场",
+      "open_date": "2001",
+      "area": "2.3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海K11",
+      "open_date": "2013-06-01",
+      "area": "13万㎡",
+      "jun_daily_avg": "1.8万人次",
+      "weekday_avg": "1.7万人次",
+      "holiday_avg": "2.1万人次"
+    },
+    {
+      "name": "上海广场",
+      "open_date": "2020-09-29",
+      "area": "4万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海香港广场",
+      "open_date": "1998-01-01",
+      "area": "3.8万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海亚龙国际广场",
+      "open_date": "2007-01-01",
+      "area": "1.5万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "大上海时代广场",
+      "open_date": "2000-01-01",
+      "area": "5万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海新天地广场",
+      "open_date": "2001-06-01",
+      "area": "2.7万㎡",
+      "jun_daily_avg": "1.4万人次",
+      "weekday_avg": "1.2万人次",
+      "holiday_avg": "1.9万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 40.0,
+      "within_1yr_pct": 67.5,
+      "1_3yr_pct": 12.5,
+      "over_3yr_pct": 20.0
+    },
+    {
+      "type": "购物",
+      "count": 27.0,
+      "within_1yr_pct": 18.5,
+      "1_3yr_pct": 3.7,
+      "over_3yr_pct": 77.8
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 6.0,
+      "within_1yr_pct": 16.7,
+      "1_3yr_pct": 16.7,
+      "over_3yr_pct": 66.7
+    },
+    {
+      "type": "生活服务",
+      "count": 4.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    }
+  ]
+}

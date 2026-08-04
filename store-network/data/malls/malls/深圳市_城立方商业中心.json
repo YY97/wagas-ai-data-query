@@ -1,0 +1,486 @@
+{
+  "name": "城立方商业中心",
+  "city": "深圳市",
+  "address": "广东省深圳市龙岗区坂田街道新河街4-2号金方华电商产业园三期园区",
+  "lat": 22.625081,
+  "lng": 114.074422,
+  "overview": {
+    "score": 84.9,
+    "score_rank": "市内前30%",
+    "population_score": 96.7,
+    "area_score": 81.9,
+    "consumption_score": 74.9,
+    "industry_score": 84.9,
+    "annual_sales": "",
+    "annual_sales_unit": "",
+    "area_size_sqm": null,
+    "open_date": "",
+    "operator": "",
+    "brand": "",
+    "type": "",
+    "floors": ""
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "",
+    "annual_daily_rank": "",
+    "jun_total": null,
+    "jun_total_rank": "",
+    "jun_daily_avg": null,
+    "jun_daily_unit": "",
+    "jun_daily_rank": "",
+    "weekday_avg": null,
+    "weekday_unit": "",
+    "weekday_rank": "",
+    "holiday_avg": null,
+    "holiday_unit": "",
+    "holiday_rank": ""
+  },
+  "population": {
+    "residential": {
+      "500m": 5.6,
+      "1_5km": 34.3,
+      "3km": 82.3
+    },
+    "office": {
+      "500m": 2.3,
+      "1_5km": 14.7,
+      "3km": 45.2
+    },
+    "permanent": {
+      "500m": 4.3,
+      "1_5km": 27.4,
+      "3km": 67.4
+    }
+  },
+  "business": {
+    "competitors": null,
+    "food": 342.0,
+    "shopping": 187.0,
+    "leisure": 42.0,
+    "education": 27.0,
+    "hotel": 70.0,
+    "services": 200.0,
+    "fitness": 15.0,
+    "auto": 41.0,
+    "total_stores": 932.0,
+    "old_store_3yr_pct": 47.0
+  },
+  "nearby_poi": {
+    "business": 10.0,
+    "community": 248.0,
+    "office": 117.0,
+    "school": 42.0,
+    "hospital": 87.0,
+    "transport": 9.0,
+    "scenic": 75.0
+  },
+  "demographics": {
+    "male_pct": 56.1,
+    "female_pct": null,
+    "education": {
+      "小学": 8.4,
+      "初中": 16.1,
+      "高中": 11.3,
+      "大专": 13.6,
+      "本科": 46.6,
+      "硕士": 3.4,
+      "博士": 0.6
+    },
+    "has_children_pct": null,
+    "no_children_pct": null
+  },
+  "scraped_at": "2026-08-02T10:01:17.648Z",
+  "nearby_restaurants": [
+    {
+      "brand": "歡喜茶院",
+      "address": "坂田街道新河街4号美成工业园4栋一层",
+      "distance": "9m"
+    },
+    {
+      "brand": "好富来港式烧腊",
+      "address": "新河街与禾塘光二巷交叉口南40米",
+      "distance": "14m"
+    },
+    {
+      "brand": "勇大厨现炒木桶饭(新河店)",
+      "address": "美成工业区东南门东北60米",
+      "distance": "17m"
+    },
+    {
+      "brand": "元中堂小火锅店",
+      "address": "新河街与禾塘光二巷交叉口东南20米",
+      "distance": "18m"
+    },
+    {
+      "brand": "酒点半烧烤",
+      "address": "新河街4-3号(坂田地铁站B口步行490米)",
+      "distance": "18m"
+    },
+    {
+      "brand": "贵州牛肉粉",
+      "address": "坂田街道马安堂社区新河街5-1号109",
+      "distance": "27m"
+    },
+    {
+      "brand": "豫耕鲜汤老烩面",
+      "address": "坂田街道马安堂社区新河街5-1号109",
+      "distance": "27m"
+    },
+    {
+      "brand": "百味卤坊",
+      "address": "新河街与禾塘光二巷交叉口南40米",
+      "distance": "27m"
+    },
+    {
+      "brand": "纤万嘉正宗麻辣烫",
+      "address": "坂田街道马安堂社区河背村新河街47-6号",
+      "distance": "32m"
+    },
+    {
+      "brand": "和顺佰味(河背店)",
+      "address": "美成工业区东南门旁(坂田地铁站B口步行450米)",
+      "distance": "33m"
+    },
+    {
+      "brand": "歡喜茶院",
+      "address": "坂田街道新河街4号美成工业园4栋一层",
+      "distance": "9m"
+    },
+    {
+      "brand": "好富来港式烧腊",
+      "address": "新河街与禾塘光二巷交叉口南40米",
+      "distance": "14m"
+    },
+    {
+      "brand": "勇大厨现炒木桶饭(新河店)",
+      "address": "美成工业区东南门东北60米",
+      "distance": "17m"
+    },
+    {
+      "brand": "元中堂小火锅店",
+      "address": "新河街与禾塘光二巷交叉口东南20米",
+      "distance": "18m"
+    },
+    {
+      "brand": "酒点半烧烤",
+      "address": "新河街4-3号(坂田地铁站B口步行490米)",
+      "distance": "18m"
+    },
+    {
+      "brand": "贵州牛肉粉",
+      "address": "坂田街道马安堂社区新河街5-1号109",
+      "distance": "27m"
+    },
+    {
+      "brand": "豫耕鲜汤老烩面",
+      "address": "坂田街道马安堂社区新河街5-1号109",
+      "distance": "27m"
+    },
+    {
+      "brand": "百味卤坊",
+      "address": "新河街与禾塘光二巷交叉口南40米",
+      "distance": "27m"
+    },
+    {
+      "brand": "纤万嘉正宗麻辣烫",
+      "address": "坂田街道马安堂社区河背村新河街47-6号",
+      "distance": "32m"
+    },
+    {
+      "brand": "和顺佰味(河背店)",
+      "address": "美成工业区东南门旁(坂田地铁站B口步行450米)",
+      "distance": "33m"
+    },
+    {
+      "brand": "歡喜茶院",
+      "address": "坂田街道新河街4号美成工业园4栋一层",
+      "distance": "9m"
+    },
+    {
+      "brand": "好富来港式烧腊",
+      "address": "新河街与禾塘光二巷交叉口南40米",
+      "distance": "14m"
+    },
+    {
+      "brand": "勇大厨现炒木桶饭(新河店)",
+      "address": "美成工业区东南门东北60米",
+      "distance": "17m"
+    },
+    {
+      "brand": "元中堂小火锅店",
+      "address": "新河街与禾塘光二巷交叉口东南20米",
+      "distance": "18m"
+    },
+    {
+      "brand": "酒点半烧烤",
+      "address": "新河街4-3号(坂田地铁站B口步行490米)",
+      "distance": "18m"
+    },
+    {
+      "brand": "贵州牛肉粉",
+      "address": "坂田街道马安堂社区新河街5-1号109",
+      "distance": "27m"
+    },
+    {
+      "brand": "豫耕鲜汤老烩面",
+      "address": "坂田街道马安堂社区新河街5-1号109",
+      "distance": "27m"
+    },
+    {
+      "brand": "百味卤坊",
+      "address": "新河街与禾塘光二巷交叉口南40米",
+      "distance": "27m"
+    },
+    {
+      "brand": "纤万嘉正宗麻辣烫",
+      "address": "坂田街道马安堂社区河背村新河街47-6号",
+      "distance": "32m"
+    },
+    {
+      "brand": "和顺佰味(河背店)",
+      "address": "美成工业区东南门旁(坂田地铁站B口步行450米)",
+      "distance": "33m"
+    },
+    {
+      "brand": "歡喜茶院",
+      "address": "坂田街道新河街4号美成工业园4栋一层",
+      "distance": "9m"
+    },
+    {
+      "brand": "好富来港式烧腊",
+      "address": "新河街与禾塘光二巷交叉口南40米",
+      "distance": "14m"
+    },
+    {
+      "brand": "勇大厨现炒木桶饭(新河店)",
+      "address": "美成工业区东南门东北60米",
+      "distance": "17m"
+    },
+    {
+      "brand": "元中堂小火锅店",
+      "address": "新河街与禾塘光二巷交叉口东南20米",
+      "distance": "18m"
+    },
+    {
+      "brand": "酒点半烧烤",
+      "address": "新河街4-3号(坂田地铁站B口步行490米)",
+      "distance": "18m"
+    },
+    {
+      "brand": "贵州牛肉粉",
+      "address": "坂田街道马安堂社区新河街5-1号109",
+      "distance": "27m"
+    },
+    {
+      "brand": "豫耕鲜汤老烩面",
+      "address": "坂田街道马安堂社区新河街5-1号109",
+      "distance": "27m"
+    },
+    {
+      "brand": "百味卤坊",
+      "address": "新河街与禾塘光二巷交叉口南40米",
+      "distance": "27m"
+    },
+    {
+      "brand": "纤万嘉正宗麻辣烫",
+      "address": "坂田街道马安堂社区河背村新河街47-6号",
+      "distance": "32m"
+    },
+    {
+      "brand": "和顺佰味(河背店)",
+      "address": "美成工业区东南门旁(坂田地铁站B口步行450米)",
+      "distance": "33m"
+    },
+    {
+      "brand": "歡喜茶院",
+      "address": "坂田街道新河街4号美成工业园4栋一层",
+      "distance": "9m"
+    },
+    {
+      "brand": "好富来港式烧腊",
+      "address": "新河街与禾塘光二巷交叉口南40米",
+      "distance": "14m"
+    },
+    {
+      "brand": "勇大厨现炒木桶饭(新河店)",
+      "address": "美成工业区东南门东北60米",
+      "distance": "17m"
+    },
+    {
+      "brand": "元中堂小火锅店",
+      "address": "新河街与禾塘光二巷交叉口东南20米",
+      "distance": "18m"
+    },
+    {
+      "brand": "酒点半烧烤",
+      "address": "新河街4-3号(坂田地铁站B口步行490米)",
+      "distance": "18m"
+    },
+    {
+      "brand": "贵州牛肉粉",
+      "address": "坂田街道马安堂社区新河街5-1号109",
+      "distance": "27m"
+    },
+    {
+      "brand": "豫耕鲜汤老烩面",
+      "address": "坂田街道马安堂社区新河街5-1号109",
+      "distance": "27m"
+    },
+    {
+      "brand": "百味卤坊",
+      "address": "新河街与禾塘光二巷交叉口南40米",
+      "distance": "27m"
+    },
+    {
+      "brand": "纤万嘉正宗麻辣烫",
+      "address": "坂田街道马安堂社区河背村新河街47-6号",
+      "distance": "32m"
+    },
+    {
+      "brand": "和顺佰味(河背店)",
+      "address": "美成工业区东南门旁(坂田地铁站B口步行450米)",
+      "distance": "33m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "深圳城立方商业中心",
+      "open_date": "-",
+      "area": "6万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "深圳坂田湾畔Mall",
+      "open_date": "2021-01-23",
+      "area": "8万㎡",
+      "jun_daily_avg": "1.9万人次",
+      "weekday_avg": "1.7万人次",
+      "holiday_avg": "2.4万人次"
+    },
+    {
+      "name": "深圳万科万致天地",
+      "open_date": "2023-09-28",
+      "area": "15万㎡",
+      "jun_daily_avg": "10万人次",
+      "weekday_avg": "8.8万人次",
+      "holiday_avg": "13.3万人次"
+    },
+    {
+      "name": "深圳美家福百货(环城路店)",
+      "open_date": "-",
+      "area": "-",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "深圳万科里购物中心",
+      "open_date": "2017-09-27",
+      "area": "4.5万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "深圳海达和成购物广场",
+      "open_date": "2016-04-25",
+      "area": "2万㎡",
+      "jun_daily_avg": "1.6万人次",
+      "weekday_avg": "1.4万人次",
+      "holiday_avg": "2万人次"
+    },
+    {
+      "name": "深圳宝银商业广场",
+      "open_date": "2019-10-01",
+      "area": "6万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "深圳五和伍城市广场",
+      "open_date": "2023-11-08",
+      "area": "2.3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "深圳乐汇东街",
+      "open_date": "-",
+      "area": "-",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "深圳坂田商业广场",
+      "open_date": "2024-09-26",
+      "area": "5万㎡",
+      "jun_daily_avg": "1.6万人次",
+      "weekday_avg": "1.4万人次",
+      "holiday_avg": "2万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 342.0,
+      "within_1yr_pct": 27.2,
+      "1_3yr_pct": 29.8,
+      "over_3yr_pct": 43.0
+    },
+    {
+      "type": "购物",
+      "count": 187.0,
+      "within_1yr_pct": 17.6,
+      "1_3yr_pct": 22.5,
+      "over_3yr_pct": 59.9
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 50.0,
+      "within_1yr_pct": 36.0,
+      "1_3yr_pct": 32.0,
+      "over_3yr_pct": 32.0
+    },
+    {
+      "type": "教育培训",
+      "count": 27.0,
+      "within_1yr_pct": 14.8,
+      "1_3yr_pct": 40.7,
+      "over_3yr_pct": 44.4
+    },
+    {
+      "type": "酒店住宿",
+      "count": 70.0,
+      "within_1yr_pct": 32.9,
+      "1_3yr_pct": 22.9,
+      "over_3yr_pct": 44.3
+    },
+    {
+      "type": "生活服务",
+      "count": 200.0,
+      "within_1yr_pct": 19.5,
+      "1_3yr_pct": 36.0,
+      "over_3yr_pct": 44.5
+    },
+    {
+      "type": "运动健身",
+      "count": 15.0,
+      "within_1yr_pct": 26.7,
+      "1_3yr_pct": 40.0,
+      "over_3yr_pct": 33.3
+    },
+    {
+      "type": "车辆服务",
+      "count": 41.0,
+      "within_1yr_pct": 12.2,
+      "1_3yr_pct": 26.8,
+      "over_3yr_pct": 61.0
+    }
+  ]
+}

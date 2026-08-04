@@ -1,0 +1,407 @@
+{
+  "name": "亿丰时代广场",
+  "city": "上海市",
+  "address": "上海市浦东新区板泉路800号",
+  "lat": 31.163784,
+  "lng": 121.506898,
+  "overview": {
+    "score": 93.1,
+    "score_rank": "市内前30%",
+    "population_score": 90.3,
+    "area_score": 68.8,
+    "consumption_score": 76.6,
+    "industry_score": 93.3,
+    "annual_sales": "上海亿丰时代广场总建筑面积8万平方米，旨在打造一个以儿童主题为亮点，集餐饮、娱乐、购物、文化于一体的都市型购物中心",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 5.5,
+    "open_date": "2015-11-29",
+    "operator": "上海亿丰企业集团投资有限公司",
+    "brand": "",
+    "type": "综合型",
+    "floors": "B1-L3"
+  },
+  "traffic": {
+    "annual_daily": 1.92,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第145",
+    "jun_total": 72.8,
+    "jun_total_rank": "市内商场第163名",
+    "jun_daily_avg": 2.4,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第163名",
+    "weekday_avg": 2.2,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第162名",
+    "holiday_avg": 2.9,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第166名"
+  },
+  "population": {
+    "residential": {
+      "500m": 2.4,
+      "1_5km": 19.3,
+      "3km": 76.3
+    },
+    "office": {
+      "500m": 7900.0,
+      "1_5km": 7.3,
+      "3km": 35.3
+    },
+    "permanent": {
+      "500m": 2.4,
+      "1_5km": 19.2,
+      "3km": 78.5
+    }
+  },
+  "business": {
+    "competitors": 4.0,
+    "food": 79.0,
+    "shopping": 69.0,
+    "leisure": 16.0,
+    "education": 14.0,
+    "hotel": 12.0,
+    "services": 64.0,
+    "fitness": 12.0,
+    "auto": 12.0,
+    "total_stores": 102.0,
+    "old_store_3yr_pct": 63.0
+  },
+  "nearby_poi": {
+    "business": 1.0,
+    "community": 371.0,
+    "office": 25.0,
+    "school": 34.0,
+    "hospital": 48.0,
+    "transport": 10.0,
+    "scenic": 100.0
+  },
+  "demographics": {
+    "male_pct": 51.2,
+    "female_pct": null,
+    "education": {
+      "小学": 9.1,
+      "初中": 16.9,
+      "高中": 10.8,
+      "大专": 7.6,
+      "本科": 48.2,
+      "硕士": 5.7,
+      "博士": 1.7
+    },
+    "has_children_pct": 63.2,
+    "no_children_pct": 36.8
+  },
+  "scraped_at": "2026-08-01T06:01:48.966Z",
+  "nearby_restaurants": [
+    {
+      "brand": "鱼小喵高端日料宅配(浦东店)",
+      "address": "三林镇板泉路亿丰时代广场",
+      "distance": "5m"
+    },
+    {
+      "brand": "七欣天(上海亿丰时代广场店)",
+      "address": "云台路800号亿丰时代广场3层390-392-398号",
+      "distance": "7m"
+    },
+    {
+      "brand": "鱼你在一起(浦东亿丰时代广场店 )",
+      "address": "三林镇云台路800号亿丰时代广场1层",
+      "distance": "9m"
+    },
+    {
+      "brand": "1点点(亿丰时代广场店)",
+      "address": "杨思路1196号亿丰时代广场一楼180室",
+      "distance": "9m"
+    },
+    {
+      "brand": "和府捞面(上海亿丰时代广场店)",
+      "address": "云台路800号亿丰时代广场F1层",
+      "distance": "16m"
+    },
+    {
+      "brand": "陈香贵·兰州牛肉面(上海浦东亿丰广场店)",
+      "address": "云台路800号最家空间·亿丰时代广场F1层",
+      "distance": "21m"
+    },
+    {
+      "brand": "桂桂茶(亿丰时代广场一店)",
+      "address": "云台路800号最家空间·亿丰时代广场F1",
+      "distance": "21m"
+    },
+    {
+      "brand": "Manner Coffee(最家空间·亿丰时代广场店)",
+      "address": "云台路800号最家空间·亿丰时代广场1层",
+      "distance": "23m"
+    },
+    {
+      "brand": "大师卤肉饭(上海亿丰时代广场店)",
+      "address": "云台路800号最家空间·亿丰时代广场F1层",
+      "distance": "28m"
+    },
+    {
+      "brand": "库迪咖啡(上海亿丰时代广场店)",
+      "address": "云台路800号亿丰时代广场120-3室(亿丰时代广场西2门处)",
+      "distance": "36m"
+    },
+    {
+      "brand": "鱼小喵高端日料宅配(浦东店)",
+      "address": "三林镇板泉路亿丰时代广场",
+      "distance": "5m"
+    },
+    {
+      "brand": "七欣天(上海亿丰时代广场店)",
+      "address": "云台路800号亿丰时代广场3层390-392-398号",
+      "distance": "7m"
+    },
+    {
+      "brand": "鱼你在一起(浦东亿丰时代广场店 )",
+      "address": "三林镇云台路800号亿丰时代广场1层",
+      "distance": "9m"
+    },
+    {
+      "brand": "1点点(亿丰时代广场店)",
+      "address": "杨思路1196号亿丰时代广场一楼180室",
+      "distance": "9m"
+    },
+    {
+      "brand": "和府捞面(上海亿丰时代广场店)",
+      "address": "云台路800号亿丰时代广场F1层",
+      "distance": "16m"
+    },
+    {
+      "brand": "陈香贵·兰州牛肉面(上海浦东亿丰广场店)",
+      "address": "云台路800号最家空间·亿丰时代广场F1层",
+      "distance": "21m"
+    },
+    {
+      "brand": "桂桂茶(亿丰时代广场一店)",
+      "address": "云台路800号最家空间·亿丰时代广场F1",
+      "distance": "21m"
+    },
+    {
+      "brand": "Manner Coffee(最家空间·亿丰时代广场店)",
+      "address": "云台路800号最家空间·亿丰时代广场1层",
+      "distance": "23m"
+    },
+    {
+      "brand": "大师卤肉饭(上海亿丰时代广场店)",
+      "address": "云台路800号最家空间·亿丰时代广场F1层",
+      "distance": "28m"
+    },
+    {
+      "brand": "库迪咖啡(上海亿丰时代广场店)",
+      "address": "云台路800号亿丰时代广场120-3室(亿丰时代广场西2门处)",
+      "distance": "36m"
+    },
+    {
+      "brand": "鱼小喵高端日料宅配(浦东店)",
+      "address": "三林镇板泉路亿丰时代广场",
+      "distance": "5m"
+    },
+    {
+      "brand": "七欣天(上海亿丰时代广场店)",
+      "address": "云台路800号亿丰时代广场3层390-392-398号",
+      "distance": "7m"
+    },
+    {
+      "brand": "鱼你在一起(浦东亿丰时代广场店 )",
+      "address": "三林镇云台路800号亿丰时代广场1层",
+      "distance": "9m"
+    },
+    {
+      "brand": "1点点(亿丰时代广场店)",
+      "address": "杨思路1196号亿丰时代广场一楼180室",
+      "distance": "9m"
+    },
+    {
+      "brand": "和府捞面(上海亿丰时代广场店)",
+      "address": "云台路800号亿丰时代广场F1层",
+      "distance": "16m"
+    },
+    {
+      "brand": "陈香贵·兰州牛肉面(上海浦东亿丰广场店)",
+      "address": "云台路800号最家空间·亿丰时代广场F1层",
+      "distance": "21m"
+    },
+    {
+      "brand": "桂桂茶(亿丰时代广场一店)",
+      "address": "云台路800号最家空间·亿丰时代广场F1",
+      "distance": "21m"
+    },
+    {
+      "brand": "Manner Coffee(最家空间·亿丰时代广场店)",
+      "address": "云台路800号最家空间·亿丰时代广场1层",
+      "distance": "23m"
+    },
+    {
+      "brand": "大师卤肉饭(上海亿丰时代广场店)",
+      "address": "云台路800号最家空间·亿丰时代广场F1层",
+      "distance": "28m"
+    },
+    {
+      "brand": "库迪咖啡(上海亿丰时代广场店)",
+      "address": "云台路800号亿丰时代广场120-3室(亿丰时代广场西2门处)",
+      "distance": "36m"
+    },
+    {
+      "brand": "鱼小喵高端日料宅配(浦东店)",
+      "address": "三林镇板泉路亿丰时代广场",
+      "distance": "5m"
+    },
+    {
+      "brand": "七欣天(上海亿丰时代广场店)",
+      "address": "云台路800号亿丰时代广场3层390-392-398号",
+      "distance": "7m"
+    },
+    {
+      "brand": "鱼你在一起(浦东亿丰时代广场店 )",
+      "address": "三林镇云台路800号亿丰时代广场1层",
+      "distance": "9m"
+    },
+    {
+      "brand": "1点点(亿丰时代广场店)",
+      "address": "杨思路1196号亿丰时代广场一楼180室",
+      "distance": "9m"
+    },
+    {
+      "brand": "和府捞面(上海亿丰时代广场店)",
+      "address": "云台路800号亿丰时代广场F1层",
+      "distance": "16m"
+    },
+    {
+      "brand": "陈香贵·兰州牛肉面(上海浦东亿丰广场店)",
+      "address": "云台路800号最家空间·亿丰时代广场F1层",
+      "distance": "21m"
+    },
+    {
+      "brand": "桂桂茶(亿丰时代广场一店)",
+      "address": "云台路800号最家空间·亿丰时代广场F1",
+      "distance": "21m"
+    },
+    {
+      "brand": "Manner Coffee(最家空间·亿丰时代广场店)",
+      "address": "云台路800号最家空间·亿丰时代广场1层",
+      "distance": "23m"
+    },
+    {
+      "brand": "大师卤肉饭(上海亿丰时代广场店)",
+      "address": "云台路800号最家空间·亿丰时代广场F1层",
+      "distance": "28m"
+    },
+    {
+      "brand": "库迪咖啡(上海亿丰时代广场店)",
+      "address": "云台路800号亿丰时代广场120-3室(亿丰时代广场西2门处)",
+      "distance": "36m"
+    },
+    {
+      "brand": "鱼小喵高端日料宅配(浦东店)",
+      "address": "三林镇板泉路亿丰时代广场",
+      "distance": "5m"
+    },
+    {
+      "brand": "七欣天(上海亿丰时代广场店)",
+      "address": "云台路800号亿丰时代广场3层390-392-398号",
+      "distance": "7m"
+    },
+    {
+      "brand": "鱼你在一起(浦东亿丰时代广场店 )",
+      "address": "三林镇云台路800号亿丰时代广场1层",
+      "distance": "9m"
+    },
+    {
+      "brand": "1点点(亿丰时代广场店)",
+      "address": "杨思路1196号亿丰时代广场一楼180室",
+      "distance": "9m"
+    },
+    {
+      "brand": "和府捞面(上海亿丰时代广场店)",
+      "address": "云台路800号亿丰时代广场F1层",
+      "distance": "16m"
+    },
+    {
+      "brand": "陈香贵·兰州牛肉面(上海浦东亿丰广场店)",
+      "address": "云台路800号最家空间·亿丰时代广场F1层",
+      "distance": "21m"
+    },
+    {
+      "brand": "桂桂茶(亿丰时代广场一店)",
+      "address": "云台路800号最家空间·亿丰时代广场F1",
+      "distance": "21m"
+    },
+    {
+      "brand": "Manner Coffee(最家空间·亿丰时代广场店)",
+      "address": "云台路800号最家空间·亿丰时代广场1层",
+      "distance": "23m"
+    },
+    {
+      "brand": "大师卤肉饭(上海亿丰时代广场店)",
+      "address": "云台路800号最家空间·亿丰时代广场F1层",
+      "distance": "28m"
+    },
+    {
+      "brand": "库迪咖啡(上海亿丰时代广场店)",
+      "address": "云台路800号亿丰时代广场120-3室(亿丰时代广场西2门处)",
+      "distance": "36m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "宝丰生活广场",
+      "open_date": "-",
+      "area": "-",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 41.0,
+      "within_1yr_pct": 9.8,
+      "1_3yr_pct": 29.3,
+      "over_3yr_pct": 61.0
+    },
+    {
+      "type": "购物",
+      "count": 22.0,
+      "within_1yr_pct": 13.6,
+      "1_3yr_pct": 27.3,
+      "over_3yr_pct": 59.1
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 5.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 20.0,
+      "over_3yr_pct": 60.0
+    },
+    {
+      "type": "教育培训",
+      "count": 10.0,
+      "within_1yr_pct": 10.0,
+      "1_3yr_pct": 20.0,
+      "over_3yr_pct": 70.0
+    },
+    {
+      "type": "生活服务",
+      "count": 14.0,
+      "within_1yr_pct": 21.4,
+      "1_3yr_pct": 14.3,
+      "over_3yr_pct": 64.3
+    },
+    {
+      "type": "运动健身",
+      "count": 8.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 12.5,
+      "over_3yr_pct": 62.5
+    },
+    {
+      "type": "车辆服务",
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    }
+  ]
+}

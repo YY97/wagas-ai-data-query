@@ -1,0 +1,422 @@
+{
+  "name": "吾悦生活广场(上海飞航店)",
+  "city": "上海市",
+  "address": "上海市松江区永丰街道草长浜路137号吾悦生活广场(上海飞航店)",
+  "lat": 31.005986,
+  "lng": 121.200223,
+  "overview": {
+    "score": 93.8,
+    "score_rank": "市内前30%",
+    "population_score": 84.9,
+    "area_score": 75.1,
+    "consumption_score": 64.9,
+    "industry_score": 93.9,
+    "annual_sales": "3.4",
+    "annual_sales_unit": "亿元",
+    "area_size_sqm": 4.0,
+    "open_date": "2024-07-26",
+    "operator": "新城控股集团股份有限公司",
+    "brand": "吾悦广场",
+    "type": "综合型",
+    "floors": "L1-L5"
+  },
+  "traffic": {
+    "annual_daily": 2.0,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第137",
+    "jun_total": 93.4,
+    "jun_total_rank": "市内商场第133名",
+    "jun_daily_avg": 3.1,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第133名",
+    "weekday_avg": 2.8,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第137名",
+    "holiday_avg": 4.0,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第117名"
+  },
+  "population": {
+    "residential": {
+      "500m": 1.9,
+      "1_5km": 13.7,
+      "3km": 38.2
+    },
+    "office": {
+      "500m": 9100.0,
+      "1_5km": 4.8,
+      "3km": 15.7
+    },
+    "permanent": {
+      "500m": 2.1,
+      "1_5km": 12.9,
+      "3km": 37.0
+    }
+  },
+  "business": {
+    "competitors": 5.0,
+    "food": 204.0,
+    "shopping": 110.0,
+    "leisure": 22.0,
+    "education": 14.0,
+    "hotel": 16.0,
+    "services": 102.0,
+    "fitness": 16.0,
+    "auto": 19.0,
+    "total_stores": 180.0,
+    "old_store_3yr_pct": 36.0
+  },
+  "nearby_poi": {
+    "business": 2.0,
+    "community": 185.0,
+    "office": 11.0,
+    "school": 25.0,
+    "hospital": 35.0,
+    "transport": 15.0,
+    "scenic": 140.0
+  },
+  "demographics": {
+    "male_pct": 48.2,
+    "female_pct": null,
+    "education": {
+      "小学": 10.1,
+      "初中": 21.3,
+      "高中": 12.1,
+      "大专": 8.1,
+      "本科": 44.6,
+      "硕士": 2.9,
+      "博士": 0.9
+    },
+    "has_children_pct": 63.8,
+    "no_children_pct": 36.2
+  },
+  "scraped_at": "2026-08-01T05:52:27.459Z",
+  "nearby_restaurants": [
+    {
+      "brand": "谷田稻香·砂锅菜(飞航吾悦广场店)",
+      "address": "玉树路2559号吾悦生活广场上海飞航店F1层",
+      "distance": "21m"
+    },
+    {
+      "brand": "等鱼柒·豆花烤鱼(上海飞航吾悦生活广场店)(暂停营业)",
+      "address": "玉树路2559号吾悦生活广场上海飞航店F3层",
+      "distance": "23m"
+    },
+    {
+      "brand": "阿狗手打手作黑糖珍珠奶茶",
+      "address": "玉树路2599号吾悦广场2楼(蜜雪冰城旁边)",
+      "distance": "27m"
+    },
+    {
+      "brand": "柠季·手打柠檬茶(上海松江吾悦广场店)",
+      "address": "玉树路2559号吾悦生活广场(上海飞航店)一楼1018号",
+      "distance": "27m"
+    },
+    {
+      "brand": "Yee3·三号耶(松江吾悦广场店)",
+      "address": "松江吾悦生活广场2号门1层112铺",
+      "distance": "27m"
+    },
+    {
+      "brand": "飞航大酒店(飞航广场店)",
+      "address": "玉树路2575-88号飞航广场1层",
+      "distance": "47m"
+    },
+    {
+      "brand": "衢州鸭头",
+      "address": "仓丰路与玉树路交叉口西180米",
+      "distance": "51m"
+    },
+    {
+      "brand": "飞航茶艺馆(吾悦生活广场店)",
+      "address": "玉树路2575-13号飞航广场内(飞航大酒店旁)",
+      "distance": "52m"
+    },
+    {
+      "brand": "鸿运喜宴中心(飞航广场店)",
+      "address": "玉树路2575-2583号上海飞航广场F1层",
+      "distance": "56m"
+    },
+    {
+      "brand": "松沪名灶(飞航吾悦广场店)",
+      "address": "玉树路2575-2583号上海飞航广场F1层",
+      "distance": "63m"
+    },
+    {
+      "brand": "谷田稻香·砂锅菜(飞航吾悦广场店)",
+      "address": "玉树路2559号吾悦生活广场上海飞航店F1层",
+      "distance": "21m"
+    },
+    {
+      "brand": "等鱼柒·豆花烤鱼(上海飞航吾悦生活广场店)(暂停营业)",
+      "address": "玉树路2559号吾悦生活广场上海飞航店F3层",
+      "distance": "23m"
+    },
+    {
+      "brand": "阿狗手打手作黑糖珍珠奶茶",
+      "address": "玉树路2599号吾悦广场2楼(蜜雪冰城旁边)",
+      "distance": "27m"
+    },
+    {
+      "brand": "柠季·手打柠檬茶(上海松江吾悦广场店)",
+      "address": "玉树路2559号吾悦生活广场(上海飞航店)一楼1018号",
+      "distance": "27m"
+    },
+    {
+      "brand": "Yee3·三号耶(松江吾悦广场店)",
+      "address": "松江吾悦生活广场2号门1层112铺",
+      "distance": "27m"
+    },
+    {
+      "brand": "飞航大酒店(飞航广场店)",
+      "address": "玉树路2575-88号飞航广场1层",
+      "distance": "47m"
+    },
+    {
+      "brand": "衢州鸭头",
+      "address": "仓丰路与玉树路交叉口西180米",
+      "distance": "51m"
+    },
+    {
+      "brand": "飞航茶艺馆(吾悦生活广场店)",
+      "address": "玉树路2575-13号飞航广场内(飞航大酒店旁)",
+      "distance": "52m"
+    },
+    {
+      "brand": "鸿运喜宴中心(飞航广场店)",
+      "address": "玉树路2575-2583号上海飞航广场F1层",
+      "distance": "56m"
+    },
+    {
+      "brand": "松沪名灶(飞航吾悦广场店)",
+      "address": "玉树路2575-2583号上海飞航广场F1层",
+      "distance": "63m"
+    },
+    {
+      "brand": "谷田稻香·砂锅菜(飞航吾悦广场店)",
+      "address": "玉树路2559号吾悦生活广场上海飞航店F1层",
+      "distance": "21m"
+    },
+    {
+      "brand": "等鱼柒·豆花烤鱼(上海飞航吾悦生活广场店)(暂停营业)",
+      "address": "玉树路2559号吾悦生活广场上海飞航店F3层",
+      "distance": "23m"
+    },
+    {
+      "brand": "阿狗手打手作黑糖珍珠奶茶",
+      "address": "玉树路2599号吾悦广场2楼(蜜雪冰城旁边)",
+      "distance": "27m"
+    },
+    {
+      "brand": "柠季·手打柠檬茶(上海松江吾悦广场店)",
+      "address": "玉树路2559号吾悦生活广场(上海飞航店)一楼1018号",
+      "distance": "27m"
+    },
+    {
+      "brand": "Yee3·三号耶(松江吾悦广场店)",
+      "address": "松江吾悦生活广场2号门1层112铺",
+      "distance": "27m"
+    },
+    {
+      "brand": "飞航大酒店(飞航广场店)",
+      "address": "玉树路2575-88号飞航广场1层",
+      "distance": "47m"
+    },
+    {
+      "brand": "衢州鸭头",
+      "address": "仓丰路与玉树路交叉口西180米",
+      "distance": "51m"
+    },
+    {
+      "brand": "飞航茶艺馆(吾悦生活广场店)",
+      "address": "玉树路2575-13号飞航广场内(飞航大酒店旁)",
+      "distance": "52m"
+    },
+    {
+      "brand": "鸿运喜宴中心(飞航广场店)",
+      "address": "玉树路2575-2583号上海飞航广场F1层",
+      "distance": "56m"
+    },
+    {
+      "brand": "松沪名灶(飞航吾悦广场店)",
+      "address": "玉树路2575-2583号上海飞航广场F1层",
+      "distance": "63m"
+    },
+    {
+      "brand": "谷田稻香·砂锅菜(飞航吾悦广场店)",
+      "address": "玉树路2559号吾悦生活广场上海飞航店F1层",
+      "distance": "21m"
+    },
+    {
+      "brand": "等鱼柒·豆花烤鱼(上海飞航吾悦生活广场店)(暂停营业)",
+      "address": "玉树路2559号吾悦生活广场上海飞航店F3层",
+      "distance": "23m"
+    },
+    {
+      "brand": "阿狗手打手作黑糖珍珠奶茶",
+      "address": "玉树路2599号吾悦广场2楼(蜜雪冰城旁边)",
+      "distance": "27m"
+    },
+    {
+      "brand": "柠季·手打柠檬茶(上海松江吾悦广场店)",
+      "address": "玉树路2559号吾悦生活广场(上海飞航店)一楼1018号",
+      "distance": "27m"
+    },
+    {
+      "brand": "Yee3·三号耶(松江吾悦广场店)",
+      "address": "松江吾悦生活广场2号门1层112铺",
+      "distance": "27m"
+    },
+    {
+      "brand": "飞航大酒店(飞航广场店)",
+      "address": "玉树路2575-88号飞航广场1层",
+      "distance": "47m"
+    },
+    {
+      "brand": "衢州鸭头",
+      "address": "仓丰路与玉树路交叉口西180米",
+      "distance": "51m"
+    },
+    {
+      "brand": "飞航茶艺馆(吾悦生活广场店)",
+      "address": "玉树路2575-13号飞航广场内(飞航大酒店旁)",
+      "distance": "52m"
+    },
+    {
+      "brand": "鸿运喜宴中心(飞航广场店)",
+      "address": "玉树路2575-2583号上海飞航广场F1层",
+      "distance": "56m"
+    },
+    {
+      "brand": "松沪名灶(飞航吾悦广场店)",
+      "address": "玉树路2575-2583号上海飞航广场F1层",
+      "distance": "63m"
+    },
+    {
+      "brand": "谷田稻香·砂锅菜(飞航吾悦广场店)",
+      "address": "玉树路2559号吾悦生活广场上海飞航店F1层",
+      "distance": "21m"
+    },
+    {
+      "brand": "等鱼柒·豆花烤鱼(上海飞航吾悦生活广场店)(暂停营业)",
+      "address": "玉树路2559号吾悦生活广场上海飞航店F3层",
+      "distance": "23m"
+    },
+    {
+      "brand": "阿狗手打手作黑糖珍珠奶茶",
+      "address": "玉树路2599号吾悦广场2楼(蜜雪冰城旁边)",
+      "distance": "27m"
+    },
+    {
+      "brand": "柠季·手打柠檬茶(上海松江吾悦广场店)",
+      "address": "玉树路2559号吾悦生活广场(上海飞航店)一楼1018号",
+      "distance": "27m"
+    },
+    {
+      "brand": "Yee3·三号耶(松江吾悦广场店)",
+      "address": "松江吾悦生活广场2号门1层112铺",
+      "distance": "27m"
+    },
+    {
+      "brand": "飞航大酒店(飞航广场店)",
+      "address": "玉树路2575-88号飞航广场1层",
+      "distance": "47m"
+    },
+    {
+      "brand": "衢州鸭头",
+      "address": "仓丰路与玉树路交叉口西180米",
+      "distance": "51m"
+    },
+    {
+      "brand": "飞航茶艺馆(吾悦生活广场店)",
+      "address": "玉树路2575-13号飞航广场内(飞航大酒店旁)",
+      "distance": "52m"
+    },
+    {
+      "brand": "鸿运喜宴中心(飞航广场店)",
+      "address": "玉树路2575-2583号上海飞航广场F1层",
+      "distance": "56m"
+    },
+    {
+      "brand": "松沪名灶(飞航吾悦广场店)",
+      "address": "玉树路2575-2583号上海飞航广场F1层",
+      "distance": "63m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海松江乐都商业广场",
+      "open_date": "2021-12-25",
+      "area": "4万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海三新汇开元里",
+      "open_date": "2023-05-28",
+      "area": "1.6万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 81.0,
+      "within_1yr_pct": 16.0,
+      "1_3yr_pct": 48.1,
+      "over_3yr_pct": 35.8
+    },
+    {
+      "type": "购物",
+      "count": 37.0,
+      "within_1yr_pct": 10.8,
+      "1_3yr_pct": 56.8,
+      "over_3yr_pct": 32.4
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 10.0,
+      "within_1yr_pct": 10.0,
+      "1_3yr_pct": 60.0,
+      "over_3yr_pct": 30.0
+    },
+    {
+      "type": "教育培训",
+      "count": 5.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 20.0,
+      "over_3yr_pct": 60.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 3.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    },
+    {
+      "type": "生活服务",
+      "count": 23.0,
+      "within_1yr_pct": 17.4,
+      "1_3yr_pct": 52.2,
+      "over_3yr_pct": 30.4
+    },
+    {
+      "type": "运动健身",
+      "count": 12.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 41.7,
+      "over_3yr_pct": 33.3
+    },
+    {
+      "type": "车辆服务",
+      "count": 9.0,
+      "within_1yr_pct": 11.1,
+      "1_3yr_pct": 44.4,
+      "over_3yr_pct": 44.4
+    }
+  ]
+}

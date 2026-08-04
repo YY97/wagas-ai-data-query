@@ -1,0 +1,423 @@
+{
+  "name": "LCM置汇旭辉广场",
+  "city": "上海市",
+  "address": "上海市浦东新区张杨路2389号",
+  "lat": 31.242385,
+  "lng": 121.555662,
+  "overview": {
+    "score": 96.2,
+    "score_rank": "市内前30%",
+    "population_score": 94.9,
+    "area_score": 77.8,
+    "consumption_score": 82.3,
+    "industry_score": 96.3,
+    "annual_sales": "上海LCM置汇旭辉广场是一个集购物、生态公园、人文体验、社交体验等全方位融汇整合的高端城市综合体，位于浦东内环陆家嘴东扩板块，提供约10万平方米的自持商业面积，涵盖零售、娱乐、亲自乐园等多元化需求。",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 13.0,
+    "open_date": "2018-09-22",
+    "operator": "旭辉控股（集团）有限公司",
+    "brand": "旭辉商业",
+    "type": "美食型",
+    "floors": "B1-L4"
+  },
+  "traffic": {
+    "annual_daily": 4.95,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第29",
+    "jun_total": 233.8,
+    "jun_total_rank": "市内商场第13名",
+    "jun_daily_avg": 7.8,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第13名",
+    "weekday_avg": 7.1,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第13名",
+    "holiday_avg": 9.7,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第18名"
+  },
+  "population": {
+    "residential": {
+      "500m": 3.0,
+      "1_5km": 23.5,
+      "3km": 64.4
+    },
+    "office": {
+      "500m": 2.0,
+      "1_5km": 11.1,
+      "3km": 38.4
+    },
+    "permanent": {
+      "500m": 3.5,
+      "1_5km": 23.7,
+      "3km": 65.3
+    }
+  },
+  "business": {
+    "competitors": 4.0,
+    "food": 212.0,
+    "shopping": 143.0,
+    "leisure": 16.0,
+    "education": 29.0,
+    "hotel": 19.0,
+    "services": 124.0,
+    "fitness": 18.0,
+    "auto": 22.0,
+    "total_stores": 248.0,
+    "old_store_3yr_pct": 52.0
+  },
+  "nearby_poi": {
+    "business": 3.0,
+    "community": 402.0,
+    "office": 34.0,
+    "school": 47.0,
+    "hospital": 59.0,
+    "transport": 8.0,
+    "scenic": 170.0
+  },
+  "demographics": {
+    "male_pct": 50.3,
+    "female_pct": null,
+    "education": {
+      "小学": 8.9,
+      "初中": 17.0,
+      "高中": 10.7,
+      "大专": 6.4,
+      "本科": 47.9,
+      "硕士": 7.4,
+      "博士": 1.7
+    },
+    "has_children_pct": 67.0,
+    "no_children_pct": 33.0
+  },
+  "scraped_at": "2026-07-31T12:53:46.257Z",
+  "nearby_restaurants": [
+    {
+      "brand": "KUMO KUMO 甜品·冰淇淋(上海LCM置汇店)",
+      "address": "浦东新区自由贸易试验区张杨路2389弄1-2号B1层",
+      "distance": "5m"
+    },
+    {
+      "brand": "麦记牛奶",
+      "address": "洋泾街道张杨路LCM置汇旭辉广场B1-51号",
+      "distance": "7m"
+    },
+    {
+      "brand": "湘辣辣鲜炒黄牛肉(LCM置汇旭辉广场店)",
+      "address": "张扬路2389弄1-2号4F层S5-4F-08号商铺",
+      "distance": "11m"
+    },
+    {
+      "brand": "南京大牌档",
+      "address": "泾南路与张杨路交叉口北180米",
+      "distance": "11m"
+    },
+    {
+      "brand": "皖荟·山野徽菜(旭辉广场店)",
+      "address": "张杨路2389弄旭辉LCM1层103AA室",
+      "distance": "13m"
+    },
+    {
+      "brand": "Peet's皮爷咖啡(置汇旭辉广场店)",
+      "address": "张杨路2389弄置汇旭辉广场购物中心层(1F-29b)室",
+      "distance": "13m"
+    },
+    {
+      "brand": "Potato Corner(上海LCM置汇旭辉广场店)",
+      "address": "博山路191号置地旭辉广场B座B1-10B",
+      "distance": "17m"
+    },
+    {
+      "brand": "朱全璋贵州羊肉粉面(LCM置地旭辉广场店)",
+      "address": "博山路212号LCM置汇旭辉广场B1层",
+      "distance": "18m"
+    },
+    {
+      "brand": "稻状元(上海置汇旭辉店)",
+      "address": "中国(上海)自由贸易试验区张杨路2389弄1-2号B1层B1-61号商铺",
+      "distance": "18m"
+    },
+    {
+      "brand": "蛙来哒(LCM置汇旭辉店)",
+      "address": "张杨路2389弄1-2号LCM置汇旭辉广场4楼",
+      "distance": "18m"
+    },
+    {
+      "brand": "KUMO KUMO 甜品·冰淇淋(上海LCM置汇店)",
+      "address": "浦东新区自由贸易试验区张杨路2389弄1-2号B1层",
+      "distance": "5m"
+    },
+    {
+      "brand": "麦记牛奶",
+      "address": "洋泾街道张杨路LCM置汇旭辉广场B1-51号",
+      "distance": "7m"
+    },
+    {
+      "brand": "湘辣辣鲜炒黄牛肉(LCM置汇旭辉广场店)",
+      "address": "张扬路2389弄1-2号4F层S5-4F-08号商铺",
+      "distance": "11m"
+    },
+    {
+      "brand": "南京大牌档",
+      "address": "泾南路与张杨路交叉口北180米",
+      "distance": "11m"
+    },
+    {
+      "brand": "皖荟·山野徽菜(旭辉广场店)",
+      "address": "张杨路2389弄旭辉LCM1层103AA室",
+      "distance": "13m"
+    },
+    {
+      "brand": "Peet's皮爷咖啡(置汇旭辉广场店)",
+      "address": "张杨路2389弄置汇旭辉广场购物中心层(1F-29b)室",
+      "distance": "13m"
+    },
+    {
+      "brand": "Potato Corner(上海LCM置汇旭辉广场店)",
+      "address": "博山路191号置地旭辉广场B座B1-10B",
+      "distance": "17m"
+    },
+    {
+      "brand": "朱全璋贵州羊肉粉面(LCM置地旭辉广场店)",
+      "address": "博山路212号LCM置汇旭辉广场B1层",
+      "distance": "18m"
+    },
+    {
+      "brand": "稻状元(上海置汇旭辉店)",
+      "address": "中国(上海)自由贸易试验区张杨路2389弄1-2号B1层B1-61号商铺",
+      "distance": "18m"
+    },
+    {
+      "brand": "蛙来哒(LCM置汇旭辉店)",
+      "address": "张杨路2389弄1-2号LCM置汇旭辉广场4楼",
+      "distance": "18m"
+    },
+    {
+      "brand": "KUMO KUMO 甜品·冰淇淋(上海LCM置汇店)",
+      "address": "浦东新区自由贸易试验区张杨路2389弄1-2号B1层",
+      "distance": "5m"
+    },
+    {
+      "brand": "麦记牛奶",
+      "address": "洋泾街道张杨路LCM置汇旭辉广场B1-51号",
+      "distance": "7m"
+    },
+    {
+      "brand": "湘辣辣鲜炒黄牛肉(LCM置汇旭辉广场店)",
+      "address": "张扬路2389弄1-2号4F层S5-4F-08号商铺",
+      "distance": "11m"
+    },
+    {
+      "brand": "南京大牌档",
+      "address": "泾南路与张杨路交叉口北180米",
+      "distance": "11m"
+    },
+    {
+      "brand": "皖荟·山野徽菜(旭辉广场店)",
+      "address": "张杨路2389弄旭辉LCM1层103AA室",
+      "distance": "13m"
+    },
+    {
+      "brand": "Peet's皮爷咖啡(置汇旭辉广场店)",
+      "address": "张杨路2389弄置汇旭辉广场购物中心层(1F-29b)室",
+      "distance": "13m"
+    },
+    {
+      "brand": "Potato Corner(上海LCM置汇旭辉广场店)",
+      "address": "博山路191号置地旭辉广场B座B1-10B",
+      "distance": "17m"
+    },
+    {
+      "brand": "朱全璋贵州羊肉粉面(LCM置地旭辉广场店)",
+      "address": "博山路212号LCM置汇旭辉广场B1层",
+      "distance": "18m"
+    },
+    {
+      "brand": "稻状元(上海置汇旭辉店)",
+      "address": "中国(上海)自由贸易试验区张杨路2389弄1-2号B1层B1-61号商铺",
+      "distance": "18m"
+    },
+    {
+      "brand": "蛙来哒(LCM置汇旭辉店)",
+      "address": "张杨路2389弄1-2号LCM置汇旭辉广场4楼",
+      "distance": "18m"
+    },
+    {
+      "brand": "KUMO KUMO 甜品·冰淇淋(上海LCM置汇店)",
+      "address": "浦东新区自由贸易试验区张杨路2389弄1-2号B1层",
+      "distance": "5m"
+    },
+    {
+      "brand": "麦记牛奶",
+      "address": "洋泾街道张杨路LCM置汇旭辉广场B1-51号",
+      "distance": "7m"
+    },
+    {
+      "brand": "湘辣辣鲜炒黄牛肉(LCM置汇旭辉广场店)",
+      "address": "张扬路2389弄1-2号4F层S5-4F-08号商铺",
+      "distance": "11m"
+    },
+    {
+      "brand": "南京大牌档",
+      "address": "泾南路与张杨路交叉口北180米",
+      "distance": "11m"
+    },
+    {
+      "brand": "皖荟·山野徽菜(旭辉广场店)",
+      "address": "张杨路2389弄旭辉LCM1层103AA室",
+      "distance": "13m"
+    },
+    {
+      "brand": "Peet's皮爷咖啡(置汇旭辉广场店)",
+      "address": "张杨路2389弄置汇旭辉广场购物中心层(1F-29b)室",
+      "distance": "13m"
+    },
+    {
+      "brand": "Potato Corner(上海LCM置汇旭辉广场店)",
+      "address": "博山路191号置地旭辉广场B座B1-10B",
+      "distance": "17m"
+    },
+    {
+      "brand": "朱全璋贵州羊肉粉面(LCM置地旭辉广场店)",
+      "address": "博山路212号LCM置汇旭辉广场B1层",
+      "distance": "18m"
+    },
+    {
+      "brand": "稻状元(上海置汇旭辉店)",
+      "address": "中国(上海)自由贸易试验区张杨路2389弄1-2号B1层B1-61号商铺",
+      "distance": "18m"
+    },
+    {
+      "brand": "蛙来哒(LCM置汇旭辉店)",
+      "address": "张杨路2389弄1-2号LCM置汇旭辉广场4楼",
+      "distance": "18m"
+    },
+    {
+      "brand": "KUMO KUMO 甜品·冰淇淋(上海LCM置汇店)",
+      "address": "浦东新区自由贸易试验区张杨路2389弄1-2号B1层",
+      "distance": "5m"
+    },
+    {
+      "brand": "麦记牛奶",
+      "address": "洋泾街道张杨路LCM置汇旭辉广场B1-51号",
+      "distance": "7m"
+    },
+    {
+      "brand": "湘辣辣鲜炒黄牛肉(LCM置汇旭辉广场店)",
+      "address": "张扬路2389弄1-2号4F层S5-4F-08号商铺",
+      "distance": "11m"
+    },
+    {
+      "brand": "南京大牌档",
+      "address": "泾南路与张杨路交叉口北180米",
+      "distance": "11m"
+    },
+    {
+      "brand": "皖荟·山野徽菜(旭辉广场店)",
+      "address": "张杨路2389弄旭辉LCM1层103AA室",
+      "distance": "13m"
+    },
+    {
+      "brand": "Peet's皮爷咖啡(置汇旭辉广场店)",
+      "address": "张杨路2389弄置汇旭辉广场购物中心层(1F-29b)室",
+      "distance": "13m"
+    },
+    {
+      "brand": "Potato Corner(上海LCM置汇旭辉广场店)",
+      "address": "博山路191号置地旭辉广场B座B1-10B",
+      "distance": "17m"
+    },
+    {
+      "brand": "朱全璋贵州羊肉粉面(LCM置地旭辉广场店)",
+      "address": "博山路212号LCM置汇旭辉广场B1层",
+      "distance": "18m"
+    },
+    {
+      "brand": "稻状元(上海置汇旭辉店)",
+      "address": "中国(上海)自由贸易试验区张杨路2389弄1-2号B1层B1-61号商铺",
+      "distance": "18m"
+    },
+    {
+      "brand": "蛙来哒(LCM置汇旭辉店)",
+      "address": "张杨路2389弄1-2号LCM置汇旭辉广场4楼",
+      "distance": "18m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海乐坊羽山生活广场",
+      "open_date": "2017-04-01",
+      "area": "2.2万㎡",
+      "jun_daily_avg": "1.7万人次",
+      "weekday_avg": "1.5万人次",
+      "holiday_avg": "2.1万人次"
+    },
+    {
+      "name": "浦商百货(博山店)",
+      "open_date": "2018-01-01",
+      "area": "-",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海FOR天物空间",
+      "open_date": "2020-03-01",
+      "area": "-",
+      "jun_daily_avg": "1.7万人次",
+      "weekday_avg": "1.5万人次",
+      "holiday_avg": "2.1万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 119.0,
+      "within_1yr_pct": 18.5,
+      "1_3yr_pct": 30.3,
+      "over_3yr_pct": 51.3
+    },
+    {
+      "type": "购物",
+      "count": 71.0,
+      "within_1yr_pct": 18.3,
+      "1_3yr_pct": 21.1,
+      "over_3yr_pct": 60.6
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 10.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 10.0,
+      "over_3yr_pct": 40.0
+    },
+    {
+      "type": "教育培训",
+      "count": 3.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 66.7
+    },
+    {
+      "type": "生活服务",
+      "count": 32.0,
+      "within_1yr_pct": 18.8,
+      "1_3yr_pct": 37.5,
+      "over_3yr_pct": 43.8
+    },
+    {
+      "type": "运动健身",
+      "count": 5.0,
+      "within_1yr_pct": 40.0,
+      "1_3yr_pct": 20.0,
+      "over_3yr_pct": 40.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 8.0,
+      "within_1yr_pct": 12.5,
+      "1_3yr_pct": 62.5,
+      "over_3yr_pct": 25.0
+    }
+  ]
+}

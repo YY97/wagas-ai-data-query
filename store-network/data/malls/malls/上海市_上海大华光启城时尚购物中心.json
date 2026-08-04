@@ -1,0 +1,479 @@
+{
+  "name": "上海大华光启城时尚购物中心",
+  "city": "上海市",
+  "address": "上海市徐汇区宜山路425号",
+  "lat": 31.183807,
+  "lng": 121.428622,
+  "overview": {
+    "score": 93.9,
+    "score_rank": "市内前30%",
+    "population_score": 90.6,
+    "area_score": 100.0,
+    "consumption_score": 85.8,
+    "industry_score": 93.9,
+    "annual_sales": "3.5",
+    "annual_sales_unit": "亿元",
+    "area_size_sqm": 12.0,
+    "open_date": "2012-05-28",
+    "operator": "大华(集团)有限公司",
+    "brand": "",
+    "type": "美食型",
+    "floors": "B2-L5"
+  },
+  "traffic": {
+    "annual_daily": 1.27,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第203",
+    "jun_total": 54.7,
+    "jun_total_rank": "市内商场第200名",
+    "jun_daily_avg": 1.8,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第200名",
+    "weekday_avg": 1.8,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第190名",
+    "holiday_avg": 1.8,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第226名"
+  },
+  "population": {
+    "residential": {
+      "500m": 2.5,
+      "1_5km": 24.8,
+      "3km": 87.7
+    },
+    "office": {
+      "500m": 4.1,
+      "1_5km": 23.8,
+      "3km": 83.3
+    },
+    "permanent": {
+      "500m": 3.1,
+      "1_5km": 29.3,
+      "3km": 96.1
+    }
+  },
+  "business": {
+    "competitors": 9.0,
+    "food": 300.0,
+    "shopping": 357.0,
+    "leisure": 52.0,
+    "education": 88.0,
+    "hotel": 46.0,
+    "services": 336.0,
+    "fitness": 37.0,
+    "auto": 46.0,
+    "total_stores": 172.0,
+    "old_store_3yr_pct": 48.0
+  },
+  "nearby_poi": {
+    "business": 12.0,
+    "community": 805.0,
+    "office": 143.0,
+    "school": 59.0,
+    "hospital": 134.0,
+    "transport": 11.0,
+    "scenic": 309.0
+  },
+  "demographics": {
+    "male_pct": 48.9,
+    "female_pct": null,
+    "education": {
+      "小学": 8.1,
+      "初中": 15.5,
+      "高中": 11.6,
+      "大专": 6.6,
+      "本科": 49.4,
+      "硕士": 6.7,
+      "博士": 2.1
+    },
+    "has_children_pct": 59.9,
+    "no_children_pct": 40.1
+  },
+  "scraped_at": "2026-07-31T15:57:37.879Z",
+  "nearby_restaurants": [
+    {
+      "brand": "悦沢书店(上海徐汇店)",
+      "address": "宜山路455号光启城B2层01-1",
+      "distance": "7m"
+    },
+    {
+      "brand": "起上料理(光启城店)",
+      "address": "宜山路455号光启城B2层(宜山路地铁站出入口步行180米)",
+      "distance": "12m"
+    },
+    {
+      "brand": "十二湘·湖南山野小炒(光启城超级悦沢店)",
+      "address": "宜山路455号光启城B2层(宜山路地铁站出入口步行180米)",
+      "distance": "16m"
+    },
+    {
+      "brand": "简单茶坊(上海光启城店)",
+      "address": "宜山路455号大华光启城B1-63简单茶坊",
+      "distance": "16m"
+    },
+    {
+      "brand": "咖呲·丸饼炙造&猪排咖喱蛋包饭",
+      "address": "宜山路455号地下2层01部位Z011、Z013、Z015",
+      "distance": "16m"
+    },
+    {
+      "brand": "牛元宝牛肉饭(光启城超级悦沢店)",
+      "address": "宜山路455号",
+      "distance": "16m"
+    },
+    {
+      "brand": "沈大成(光启城店)",
+      "address": "田林街道宜山路455号光启城地下二层78商铺",
+      "distance": "16m"
+    },
+    {
+      "brand": "MIKA MAKA马卡龙甜品(上海光启城店)",
+      "address": "宜山路455号光启城B2层",
+      "distance": "16m"
+    },
+    {
+      "brand": "味师蒋大厨(光启城时尚购物中心店)",
+      "address": "宜山路455号光启城B2层(宜山路地铁站出入口步行200米)",
+      "distance": "16m"
+    },
+    {
+      "brand": "醉芙蓉(光启城店)",
+      "address": "宜山路455号光启城L4层407",
+      "distance": "22m"
+    },
+    {
+      "brand": "悦沢书店(上海徐汇店)",
+      "address": "宜山路455号光启城B2层01-1",
+      "distance": "7m"
+    },
+    {
+      "brand": "起上料理(光启城店)",
+      "address": "宜山路455号光启城B2层(宜山路地铁站出入口步行180米)",
+      "distance": "12m"
+    },
+    {
+      "brand": "十二湘·湖南山野小炒(光启城超级悦沢店)",
+      "address": "宜山路455号光启城B2层(宜山路地铁站出入口步行180米)",
+      "distance": "16m"
+    },
+    {
+      "brand": "简单茶坊(上海光启城店)",
+      "address": "宜山路455号大华光启城B1-63简单茶坊",
+      "distance": "16m"
+    },
+    {
+      "brand": "咖呲·丸饼炙造&猪排咖喱蛋包饭",
+      "address": "宜山路455号地下2层01部位Z011、Z013、Z015",
+      "distance": "16m"
+    },
+    {
+      "brand": "牛元宝牛肉饭(光启城超级悦沢店)",
+      "address": "宜山路455号",
+      "distance": "16m"
+    },
+    {
+      "brand": "沈大成(光启城店)",
+      "address": "田林街道宜山路455号光启城地下二层78商铺",
+      "distance": "16m"
+    },
+    {
+      "brand": "MIKA MAKA马卡龙甜品(上海光启城店)",
+      "address": "宜山路455号光启城B2层",
+      "distance": "16m"
+    },
+    {
+      "brand": "味师蒋大厨(光启城时尚购物中心店)",
+      "address": "宜山路455号光启城B2层(宜山路地铁站出入口步行200米)",
+      "distance": "16m"
+    },
+    {
+      "brand": "醉芙蓉(光启城店)",
+      "address": "宜山路455号光启城L4层407",
+      "distance": "22m"
+    },
+    {
+      "brand": "悦沢书店(上海徐汇店)",
+      "address": "宜山路455号光启城B2层01-1",
+      "distance": "7m"
+    },
+    {
+      "brand": "起上料理(光启城店)",
+      "address": "宜山路455号光启城B2层(宜山路地铁站出入口步行180米)",
+      "distance": "12m"
+    },
+    {
+      "brand": "十二湘·湖南山野小炒(光启城超级悦沢店)",
+      "address": "宜山路455号光启城B2层(宜山路地铁站出入口步行180米)",
+      "distance": "16m"
+    },
+    {
+      "brand": "简单茶坊(上海光启城店)",
+      "address": "宜山路455号大华光启城B1-63简单茶坊",
+      "distance": "16m"
+    },
+    {
+      "brand": "咖呲·丸饼炙造&猪排咖喱蛋包饭",
+      "address": "宜山路455号地下2层01部位Z011、Z013、Z015",
+      "distance": "16m"
+    },
+    {
+      "brand": "牛元宝牛肉饭(光启城超级悦沢店)",
+      "address": "宜山路455号",
+      "distance": "16m"
+    },
+    {
+      "brand": "沈大成(光启城店)",
+      "address": "田林街道宜山路455号光启城地下二层78商铺",
+      "distance": "16m"
+    },
+    {
+      "brand": "MIKA MAKA马卡龙甜品(上海光启城店)",
+      "address": "宜山路455号光启城B2层",
+      "distance": "16m"
+    },
+    {
+      "brand": "味师蒋大厨(光启城时尚购物中心店)",
+      "address": "宜山路455号光启城B2层(宜山路地铁站出入口步行200米)",
+      "distance": "16m"
+    },
+    {
+      "brand": "醉芙蓉(光启城店)",
+      "address": "宜山路455号光启城L4层407",
+      "distance": "22m"
+    },
+    {
+      "brand": "悦沢书店(上海徐汇店)",
+      "address": "宜山路455号光启城B2层01-1",
+      "distance": "7m"
+    },
+    {
+      "brand": "起上料理(光启城店)",
+      "address": "宜山路455号光启城B2层(宜山路地铁站出入口步行180米)",
+      "distance": "12m"
+    },
+    {
+      "brand": "十二湘·湖南山野小炒(光启城超级悦沢店)",
+      "address": "宜山路455号光启城B2层(宜山路地铁站出入口步行180米)",
+      "distance": "16m"
+    },
+    {
+      "brand": "简单茶坊(上海光启城店)",
+      "address": "宜山路455号大华光启城B1-63简单茶坊",
+      "distance": "16m"
+    },
+    {
+      "brand": "咖呲·丸饼炙造&猪排咖喱蛋包饭",
+      "address": "宜山路455号地下2层01部位Z011、Z013、Z015",
+      "distance": "16m"
+    },
+    {
+      "brand": "牛元宝牛肉饭(光启城超级悦沢店)",
+      "address": "宜山路455号",
+      "distance": "16m"
+    },
+    {
+      "brand": "沈大成(光启城店)",
+      "address": "田林街道宜山路455号光启城地下二层78商铺",
+      "distance": "16m"
+    },
+    {
+      "brand": "MIKA MAKA马卡龙甜品(上海光启城店)",
+      "address": "宜山路455号光启城B2层",
+      "distance": "16m"
+    },
+    {
+      "brand": "味师蒋大厨(光启城时尚购物中心店)",
+      "address": "宜山路455号光启城B2层(宜山路地铁站出入口步行200米)",
+      "distance": "16m"
+    },
+    {
+      "brand": "醉芙蓉(光启城店)",
+      "address": "宜山路455号光启城L4层407",
+      "distance": "22m"
+    },
+    {
+      "brand": "悦沢书店(上海徐汇店)",
+      "address": "宜山路455号光启城B2层01-1",
+      "distance": "7m"
+    },
+    {
+      "brand": "起上料理(光启城店)",
+      "address": "宜山路455号光启城B2层(宜山路地铁站出入口步行180米)",
+      "distance": "12m"
+    },
+    {
+      "brand": "十二湘·湖南山野小炒(光启城超级悦沢店)",
+      "address": "宜山路455号光启城B2层(宜山路地铁站出入口步行180米)",
+      "distance": "16m"
+    },
+    {
+      "brand": "简单茶坊(上海光启城店)",
+      "address": "宜山路455号大华光启城B1-63简单茶坊",
+      "distance": "16m"
+    },
+    {
+      "brand": "咖呲·丸饼炙造&猪排咖喱蛋包饭",
+      "address": "宜山路455号地下2层01部位Z011、Z013、Z015",
+      "distance": "16m"
+    },
+    {
+      "brand": "牛元宝牛肉饭(光启城超级悦沢店)",
+      "address": "宜山路455号",
+      "distance": "16m"
+    },
+    {
+      "brand": "沈大成(光启城店)",
+      "address": "田林街道宜山路455号光启城地下二层78商铺",
+      "distance": "16m"
+    },
+    {
+      "brand": "MIKA MAKA马卡龙甜品(上海光启城店)",
+      "address": "宜山路455号光启城B2层",
+      "distance": "16m"
+    },
+    {
+      "brand": "味师蒋大厨(光启城时尚购物中心店)",
+      "address": "宜山路455号光启城B2层(宜山路地铁站出入口步行200米)",
+      "distance": "16m"
+    },
+    {
+      "brand": "醉芙蓉(光启城店)",
+      "address": "宜山路455号光启城L4层407",
+      "distance": "22m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海南洋1931",
+      "open_date": "2018-07-03",
+      "area": "2.2万㎡",
+      "jun_daily_avg": "1.5万人次",
+      "weekday_avg": "1.4万人次",
+      "holiday_avg": "1.6万人次"
+    },
+    {
+      "name": "上海飞洲国际广场",
+      "open_date": "2004-03-08",
+      "area": "3万㎡",
+      "jun_daily_avg": "2.9万人次",
+      "weekday_avg": "2.6万人次",
+      "holiday_avg": "3.6万人次"
+    },
+    {
+      "name": "上海田尚坊",
+      "open_date": "2015-01-01",
+      "area": "3万㎡",
+      "jun_daily_avg": "1.7万人次",
+      "weekday_avg": "1.8万人次",
+      "holiday_avg": "1.6万人次"
+    },
+    {
+      "name": "上海汇阳广场",
+      "open_date": "2013-01-01",
+      "area": "3.5万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海徐汇古北时尚广场",
+      "open_date": "2012-01-01",
+      "area": "3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海东方商厦(旗舰店)",
+      "open_date": "1993-01-01",
+      "area": "9万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海腾飞广场",
+      "open_date": "2009-01-01",
+      "area": "1.3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海徐家汇TPY中心",
+      "open_date": "2024-04-30",
+      "area": "1.5万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海汇京国际广场",
+      "open_date": "2015-09-01",
+      "area": "2万㎡",
+      "jun_daily_avg": "1.5万人次",
+      "weekday_avg": "1.6万人次",
+      "holiday_avg": "1.2万人次"
+    },
+    {
+      "name": "上海港汇恒隆广场",
+      "open_date": "1999-12-28",
+      "area": "7万㎡",
+      "jun_daily_avg": "6.3万人次",
+      "weekday_avg": "6.2万人次",
+      "holiday_avg": "6.7万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 87.0,
+      "within_1yr_pct": 36.8,
+      "1_3yr_pct": 20.7,
+      "over_3yr_pct": 42.5
+    },
+    {
+      "type": "购物",
+      "count": 32.0,
+      "within_1yr_pct": 21.9,
+      "1_3yr_pct": 28.1,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 5.0,
+      "within_1yr_pct": 40.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 60.0
+    },
+    {
+      "type": "教育培训",
+      "count": 8.0,
+      "within_1yr_pct": 12.5,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 62.5
+    },
+    {
+      "type": "生活服务",
+      "count": 29.0,
+      "within_1yr_pct": 17.2,
+      "1_3yr_pct": 20.7,
+      "over_3yr_pct": 62.1
+    },
+    {
+      "type": "运动健身",
+      "count": 5.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 60.0,
+      "over_3yr_pct": 40.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 6.0,
+      "within_1yr_pct": 16.7,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 33.3
+    }
+  ]
+}

@@ -1,0 +1,423 @@
+{
+  "name": "西铁营万达广场",
+  "city": "北京市",
+  "address": "北京市丰台区西铁营中路1号院1号楼",
+  "lat": 39.860777,
+  "lng": 116.355731,
+  "overview": {
+    "score": 95.7,
+    "score_rank": "市内前30%",
+    "population_score": 92.5,
+    "area_score": 75.4,
+    "consumption_score": 79.6,
+    "industry_score": 95.8,
+    "annual_sales": "5",
+    "annual_sales_unit": "亿元",
+    "area_size_sqm": 10.83,
+    "open_date": "2017-12-22",
+    "operator": "珠海万达商业管理集团股份有限公司",
+    "brand": "万达",
+    "type": "美食型",
+    "floors": "B2-L7"
+  },
+  "traffic": {
+    "annual_daily": 4.46,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第25",
+    "jun_total": 179.0,
+    "jun_total_rank": "市内商场第30名",
+    "jun_daily_avg": 6.0,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第30名",
+    "weekday_avg": 5.6,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第25名",
+    "holiday_avg": 6.9,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第37名"
+  },
+  "population": {
+    "residential": {
+      "500m": 2.5,
+      "1_5km": 16.8,
+      "3km": 74.4
+    },
+    "office": {
+      "500m": 1.9,
+      "1_5km": 8.7,
+      "3km": 39.6
+    },
+    "permanent": {
+      "500m": 2.6,
+      "1_5km": 16.7,
+      "3km": 78.9
+    }
+  },
+  "business": {
+    "competitors": 7.0,
+    "food": 140.0,
+    "shopping": 85.0,
+    "leisure": 20.0,
+    "education": 13.0,
+    "hotel": 16.0,
+    "services": 75.0,
+    "fitness": 11.0,
+    "auto": 8.0,
+    "total_stores": 231.0,
+    "old_store_3yr_pct": 58.0
+  },
+  "nearby_poi": {
+    "business": 3.0,
+    "community": 404.0,
+    "office": 32.0,
+    "school": 28.0,
+    "hospital": 75.0,
+    "transport": 6.0,
+    "scenic": 245.0
+  },
+  "demographics": {
+    "male_pct": 52.0,
+    "female_pct": null,
+    "education": {
+      "小学": 9.7,
+      "初中": 16.0,
+      "高中": 10.6,
+      "大专": 6.4,
+      "本科": 47.6,
+      "硕士": 7.8,
+      "博士": 1.9
+    },
+    "has_children_pct": 58.5,
+    "no_children_pct": 41.5
+  },
+  "scraped_at": "2026-08-01T04:33:23.271Z",
+  "nearby_restaurants": [
+    {
+      "brand": "野人先生现做冰淇淋(北京西铁营万达店)",
+      "address": "西铁营中路1号万达广场北京西铁营店F3层",
+      "distance": "0m"
+    },
+    {
+      "brand": "沪上阿姨·精选茶饮(北京西铁营万达广场店)",
+      "address": "北京城区西铁营中路1号院1号楼-5至16层101内B1层B1039A号",
+      "distance": "2m"
+    },
+    {
+      "brand": "LINLEE·手打柠檬茶(西铁营万达店)",
+      "address": "北京城区西铁营中路1号万达广场6层6005A",
+      "distance": "3m"
+    },
+    {
+      "brand": "桥头排骨(西铁营万达广场店)",
+      "address": "西铁营中路1号万达广场6层6003B",
+      "distance": "5m"
+    },
+    {
+      "brand": "露天大排档烧烤",
+      "address": "西铁营中路1号万达广场(西铁营店)",
+      "distance": "5m"
+    },
+    {
+      "brand": "蜜雪冰城(西铁营万达店)",
+      "address": "西铁营中路1号院1号楼-5至16层101内B1层B1033B,B1035B号",
+      "distance": "6m"
+    },
+    {
+      "brand": "笔记安顺夺夺粉火锅(西铁营万达广场店)",
+      "address": "北京城区西铁营中路1号院1号楼北京西铁营万达广场5层5005号",
+      "distance": "9m"
+    },
+    {
+      "brand": "阿甘锅盔( 丰台西铁营万达店)",
+      "address": "右安门街道西铁营中路1号万达广场负一层美食街B1035A号",
+      "distance": "11m"
+    },
+    {
+      "brand": "Halo Yogurt希腊酸奶(西铁营万达店)",
+      "address": "北京城区西铁营中路1号万达广场西铁营店B1层B1007号",
+      "distance": "11m"
+    },
+    {
+      "brand": "沪咖·鲜果咖啡(北京西铁营万达店)",
+      "address": "西铁营中路1号万达广场西铁营店5F层",
+      "distance": "12m"
+    },
+    {
+      "brand": "野人先生现做冰淇淋(北京西铁营万达店)",
+      "address": "西铁营中路1号万达广场北京西铁营店F3层",
+      "distance": "0m"
+    },
+    {
+      "brand": "沪上阿姨·精选茶饮(北京西铁营万达广场店)",
+      "address": "北京城区西铁营中路1号院1号楼-5至16层101内B1层B1039A号",
+      "distance": "2m"
+    },
+    {
+      "brand": "LINLEE·手打柠檬茶(西铁营万达店)",
+      "address": "北京城区西铁营中路1号万达广场6层6005A",
+      "distance": "3m"
+    },
+    {
+      "brand": "桥头排骨(西铁营万达广场店)",
+      "address": "西铁营中路1号万达广场6层6003B",
+      "distance": "5m"
+    },
+    {
+      "brand": "露天大排档烧烤",
+      "address": "西铁营中路1号万达广场(西铁营店)",
+      "distance": "5m"
+    },
+    {
+      "brand": "蜜雪冰城(西铁营万达店)",
+      "address": "西铁营中路1号院1号楼-5至16层101内B1层B1033B,B1035B号",
+      "distance": "6m"
+    },
+    {
+      "brand": "笔记安顺夺夺粉火锅(西铁营万达广场店)",
+      "address": "北京城区西铁营中路1号院1号楼北京西铁营万达广场5层5005号",
+      "distance": "9m"
+    },
+    {
+      "brand": "阿甘锅盔( 丰台西铁营万达店)",
+      "address": "右安门街道西铁营中路1号万达广场负一层美食街B1035A号",
+      "distance": "11m"
+    },
+    {
+      "brand": "Halo Yogurt希腊酸奶(西铁营万达店)",
+      "address": "北京城区西铁营中路1号万达广场西铁营店B1层B1007号",
+      "distance": "11m"
+    },
+    {
+      "brand": "沪咖·鲜果咖啡(北京西铁营万达店)",
+      "address": "西铁营中路1号万达广场西铁营店5F层",
+      "distance": "12m"
+    },
+    {
+      "brand": "野人先生现做冰淇淋(北京西铁营万达店)",
+      "address": "西铁营中路1号万达广场北京西铁营店F3层",
+      "distance": "0m"
+    },
+    {
+      "brand": "沪上阿姨·精选茶饮(北京西铁营万达广场店)",
+      "address": "北京城区西铁营中路1号院1号楼-5至16层101内B1层B1039A号",
+      "distance": "2m"
+    },
+    {
+      "brand": "LINLEE·手打柠檬茶(西铁营万达店)",
+      "address": "北京城区西铁营中路1号万达广场6层6005A",
+      "distance": "3m"
+    },
+    {
+      "brand": "桥头排骨(西铁营万达广场店)",
+      "address": "西铁营中路1号万达广场6层6003B",
+      "distance": "5m"
+    },
+    {
+      "brand": "露天大排档烧烤",
+      "address": "西铁营中路1号万达广场(西铁营店)",
+      "distance": "5m"
+    },
+    {
+      "brand": "蜜雪冰城(西铁营万达店)",
+      "address": "西铁营中路1号院1号楼-5至16层101内B1层B1033B,B1035B号",
+      "distance": "6m"
+    },
+    {
+      "brand": "笔记安顺夺夺粉火锅(西铁营万达广场店)",
+      "address": "北京城区西铁营中路1号院1号楼北京西铁营万达广场5层5005号",
+      "distance": "9m"
+    },
+    {
+      "brand": "阿甘锅盔( 丰台西铁营万达店)",
+      "address": "右安门街道西铁营中路1号万达广场负一层美食街B1035A号",
+      "distance": "11m"
+    },
+    {
+      "brand": "Halo Yogurt希腊酸奶(西铁营万达店)",
+      "address": "北京城区西铁营中路1号万达广场西铁营店B1层B1007号",
+      "distance": "11m"
+    },
+    {
+      "brand": "沪咖·鲜果咖啡(北京西铁营万达店)",
+      "address": "西铁营中路1号万达广场西铁营店5F层",
+      "distance": "12m"
+    },
+    {
+      "brand": "野人先生现做冰淇淋(北京西铁营万达店)",
+      "address": "西铁营中路1号万达广场北京西铁营店F3层",
+      "distance": "0m"
+    },
+    {
+      "brand": "沪上阿姨·精选茶饮(北京西铁营万达广场店)",
+      "address": "北京城区西铁营中路1号院1号楼-5至16层101内B1层B1039A号",
+      "distance": "2m"
+    },
+    {
+      "brand": "LINLEE·手打柠檬茶(西铁营万达店)",
+      "address": "北京城区西铁营中路1号万达广场6层6005A",
+      "distance": "3m"
+    },
+    {
+      "brand": "桥头排骨(西铁营万达广场店)",
+      "address": "西铁营中路1号万达广场6层6003B",
+      "distance": "5m"
+    },
+    {
+      "brand": "露天大排档烧烤",
+      "address": "西铁营中路1号万达广场(西铁营店)",
+      "distance": "5m"
+    },
+    {
+      "brand": "蜜雪冰城(西铁营万达店)",
+      "address": "西铁营中路1号院1号楼-5至16层101内B1层B1033B,B1035B号",
+      "distance": "6m"
+    },
+    {
+      "brand": "笔记安顺夺夺粉火锅(西铁营万达广场店)",
+      "address": "北京城区西铁营中路1号院1号楼北京西铁营万达广场5层5005号",
+      "distance": "9m"
+    },
+    {
+      "brand": "阿甘锅盔( 丰台西铁营万达店)",
+      "address": "右安门街道西铁营中路1号万达广场负一层美食街B1035A号",
+      "distance": "11m"
+    },
+    {
+      "brand": "Halo Yogurt希腊酸奶(西铁营万达店)",
+      "address": "北京城区西铁营中路1号万达广场西铁营店B1层B1007号",
+      "distance": "11m"
+    },
+    {
+      "brand": "沪咖·鲜果咖啡(北京西铁营万达店)",
+      "address": "西铁营中路1号万达广场西铁营店5F层",
+      "distance": "12m"
+    },
+    {
+      "brand": "野人先生现做冰淇淋(北京西铁营万达店)",
+      "address": "西铁营中路1号万达广场北京西铁营店F3层",
+      "distance": "0m"
+    },
+    {
+      "brand": "沪上阿姨·精选茶饮(北京西铁营万达广场店)",
+      "address": "北京城区西铁营中路1号院1号楼-5至16层101内B1层B1039A号",
+      "distance": "2m"
+    },
+    {
+      "brand": "LINLEE·手打柠檬茶(西铁营万达店)",
+      "address": "北京城区西铁营中路1号万达广场6层6005A",
+      "distance": "3m"
+    },
+    {
+      "brand": "桥头排骨(西铁营万达广场店)",
+      "address": "西铁营中路1号万达广场6层6003B",
+      "distance": "5m"
+    },
+    {
+      "brand": "露天大排档烧烤",
+      "address": "西铁营中路1号万达广场(西铁营店)",
+      "distance": "5m"
+    },
+    {
+      "brand": "蜜雪冰城(西铁营万达店)",
+      "address": "西铁营中路1号院1号楼-5至16层101内B1层B1033B,B1035B号",
+      "distance": "6m"
+    },
+    {
+      "brand": "笔记安顺夺夺粉火锅(西铁营万达广场店)",
+      "address": "北京城区西铁营中路1号院1号楼北京西铁营万达广场5层5005号",
+      "distance": "9m"
+    },
+    {
+      "brand": "阿甘锅盔( 丰台西铁营万达店)",
+      "address": "右安门街道西铁营中路1号万达广场负一层美食街B1035A号",
+      "distance": "11m"
+    },
+    {
+      "brand": "Halo Yogurt希腊酸奶(西铁营万达店)",
+      "address": "北京城区西铁营中路1号万达广场西铁营店B1层B1007号",
+      "distance": "11m"
+    },
+    {
+      "brand": "沪咖·鲜果咖啡(北京西铁营万达店)",
+      "address": "西铁营中路1号万达广场西铁营店5F层",
+      "distance": "12m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "北京上品折扣(草桥店)",
+      "open_date": "2013-12-01",
+      "area": "3.3万㎡",
+      "jun_daily_avg": "3万人次",
+      "weekday_avg": "2.7万人次",
+      "holiday_avg": "3.7万人次"
+    },
+    {
+      "name": "北京凯德MALL大峡谷",
+      "open_date": "2010-01-01",
+      "area": "1.2万㎡",
+      "jun_daily_avg": "3万人次",
+      "weekday_avg": "2.7万人次",
+      "holiday_avg": "3.7万人次"
+    },
+    {
+      "name": "北京王府井购物中心(右安门店)",
+      "open_date": "2016-03-26",
+      "area": "1.2万㎡",
+      "jun_daily_avg": "1.8万人次",
+      "weekday_avg": "1.7万人次",
+      "holiday_avg": "2万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 98.0,
+      "within_1yr_pct": 13.3,
+      "1_3yr_pct": 24.5,
+      "over_3yr_pct": 62.2
+    },
+    {
+      "type": "购物",
+      "count": 59.0,
+      "within_1yr_pct": 18.6,
+      "1_3yr_pct": 23.7,
+      "over_3yr_pct": 57.6
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 13.0,
+      "within_1yr_pct": 7.7,
+      "1_3yr_pct": 23.1,
+      "over_3yr_pct": 69.2
+    },
+    {
+      "type": "教育培训",
+      "count": 13.0,
+      "within_1yr_pct": 30.8,
+      "1_3yr_pct": 23.1,
+      "over_3yr_pct": 46.2
+    },
+    {
+      "type": "生活服务",
+      "count": 40.0,
+      "within_1yr_pct": 27.5,
+      "1_3yr_pct": 20.0,
+      "over_3yr_pct": 52.5
+    },
+    {
+      "type": "运动健身",
+      "count": 5.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 40.0,
+      "over_3yr_pct": 60.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 3.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 33.3
+    }
+  ]
+}

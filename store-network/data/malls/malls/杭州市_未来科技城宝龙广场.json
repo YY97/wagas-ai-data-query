@@ -1,0 +1,230 @@
+{
+  "name": "未来科技城宝龙广场",
+  "city": "杭州市",
+  "address": "浙江省杭州市余杭区余杭塘路与龙舟路交叉口",
+  "lat": 30.279247,
+  "lng": 119.984551,
+  "overview": {
+    "score": 93.5,
+    "score_rank": "市内前30%",
+    "population_score": 74.0,
+    "area_score": 83.4,
+    "consumption_score": 60.0,
+    "industry_score": 93.7,
+    "annual_sales": "杭州未来科技城宝龙广场位于余杭区绿汀路与余杭塘路交汇处，地处城西核心板块，是一个集酒店式公寓、办公写字楼以及shopping mall为一体的开放式商业综合体。项目商业总体量9万方，打造以饕餮美食、休闲娱乐、儿童教培为主业态的区域型购物中心，并拥有浙江首个景观运河生活空间，6300㎡下沉广场",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 9.58,
+    "open_date": "2022-09-30",
+    "operator": "宝龙商业管理控股有限公司",
+    "brand": "宝龙",
+    "type": "美食型",
+    "floors": "B1-L3"
+  },
+  "traffic": {
+    "annual_daily": 1.61,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第89",
+    "jun_total": 81.9,
+    "jun_total_rank": "市内商场第66名",
+    "jun_daily_avg": 2.7,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第66名",
+    "weekday_avg": 2.7,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第60名",
+    "holiday_avg": 2.8,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第79名"
+  },
+  "population": {
+    "residential": {
+      "500m": 6000.0,
+      "1_5km": 6.5,
+      "3km": 17.7
+    },
+    "office": {
+      "500m": 1.4,
+      "1_5km": 7.5,
+      "3km": 17.3
+    },
+    "permanent": {
+      "500m": 8200.0,
+      "1_5km": 6.6,
+      "3km": 17.0
+    }
+  },
+  "business": {
+    "competitors": 6.0,
+    "food": 220.0,
+    "shopping": 138.0,
+    "leisure": 27.0,
+    "education": 16.0,
+    "hotel": 49.0,
+    "services": 81.0,
+    "fitness": 33.0,
+    "auto": 47.0,
+    "total_stores": 223.0,
+    "old_store_3yr_pct": 35.0
+  },
+  "nearby_poi": {
+    "business": 3.0,
+    "community": 102.0,
+    "office": 42.0,
+    "school": 17.0,
+    "hospital": 18.0,
+    "transport": 5.0,
+    "scenic": 73.0
+  },
+  "demographics": {
+    "male_pct": 55.2,
+    "female_pct": null,
+    "education": {
+      "小学": 7.9,
+      "初中": 14.5,
+      "高中": 15.3,
+      "大专": 10.1,
+      "本科": 46.0,
+      "硕士": 5.4,
+      "博士": 0.8
+    },
+    "has_children_pct": 67.3,
+    "no_children_pct": 32.7
+  },
+  "scraped_at": "2026-08-02T08:02:25.534Z",
+  "nearby_restaurants": [
+    {
+      "brand": "阿祥嫂隆江猪脚饭(绿汀路店)",
+      "address": "仓前街道文一西路1338号海创大厦A座1层106-3室",
+      "distance": "483m"
+    },
+    {
+      "brand": "THE 101 BURGER·美式汉堡(未来科技城店)",
+      "address": "仓前街道朱庙社区四号农居点7幢1号102号",
+      "distance": "489m"
+    },
+    {
+      "brand": "南昌李记水煮油炸总店",
+      "address": "仓前街道余杭塘路2799号朱庙幸福里",
+      "distance": "489m"
+    },
+    {
+      "brand": "沈府家宴(未来科技城店)",
+      "address": "仓前街道龙泉路2号崇安云谷三号楼",
+      "distance": "491m"
+    },
+    {
+      "brand": "我们家私房烧烤东北菜(未来科技城店)",
+      "address": "龙潭路1326号利尔达物联网科技园5幢102室",
+      "distance": "492m"
+    },
+    {
+      "brand": "万香渝重庆凉拌菜(杭州余杭店)",
+      "address": "仓前街道余杭塘路2799号朱庙幸福里",
+      "distance": "493m"
+    },
+    {
+      "brand": "金福记衢州小碗菜",
+      "address": "龙潭路与绿汀路交叉口东60米",
+      "distance": "494m"
+    },
+    {
+      "brand": "兴杭叔",
+      "address": "海曙路128号仓溢·绿苑",
+      "distance": "496m"
+    },
+    {
+      "brand": "来甲麦大食堂(健康园店)",
+      "address": "未来健康科创园北门东70米",
+      "distance": "497m"
+    },
+    {
+      "brand": "七迦食堂(海创大厦店)",
+      "address": "文一西路1338号海创大厦a座105",
+      "distance": "499m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "杭州未来科技城万达广场",
+      "open_date": "2019-08-09",
+      "area": "6.7万㎡",
+      "jun_daily_avg": "1.4万人次",
+      "weekday_avg": "1.3万人次",
+      "holiday_avg": "1.7万人次"
+    },
+    {
+      "name": "亿佳邻里",
+      "open_date": "2021-12-31",
+      "area": "-",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "杭州EFC LIVE欧美广场",
+      "open_date": "2019-04-28",
+      "area": "10万㎡",
+      "jun_daily_avg": "7.1万人次",
+      "weekday_avg": "7.4万人次",
+      "holiday_avg": "6万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 77.0,
+      "within_1yr_pct": 24.7,
+      "1_3yr_pct": 46.8,
+      "over_3yr_pct": 28.6
+    },
+    {
+      "type": "购物",
+      "count": 43.0,
+      "within_1yr_pct": 18.6,
+      "1_3yr_pct": 37.2,
+      "over_3yr_pct": 44.2
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 15.0,
+      "within_1yr_pct": 40.0,
+      "1_3yr_pct": 26.7,
+      "over_3yr_pct": 33.3
+    },
+    {
+      "type": "教育培训",
+      "count": 5.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 26.0,
+      "within_1yr_pct": 38.5,
+      "1_3yr_pct": 38.5,
+      "over_3yr_pct": 23.1
+    },
+    {
+      "type": "生活服务",
+      "count": 40.0,
+      "within_1yr_pct": 27.5,
+      "1_3yr_pct": 27.5,
+      "over_3yr_pct": 45.0
+    },
+    {
+      "type": "运动健身",
+      "count": 9.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 55.6,
+      "over_3yr_pct": 44.4
+    },
+    {
+      "type": "车辆服务",
+      "count": 8.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 12.5,
+      "over_3yr_pct": 62.5
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "name": "汉威国际广场2区",
+  "city": "北京市",
+  "address": "北京市丰台区看丹街道汉威国际广场4区汉威城",
+  "lat": 39.821385,
+  "lng": 116.29521,
+  "overview": {
+    "score": 78.9,
+    "score_rank": "市内前30%",
+    "population_score": 70.8,
+    "area_score": 95.1,
+    "consumption_score": 77.5,
+    "industry_score": 78.9,
+    "annual_sales": "",
+    "annual_sales_unit": "",
+    "area_size_sqm": null,
+    "open_date": "",
+    "operator": "",
+    "brand": "",
+    "type": "",
+    "floors": ""
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "",
+    "annual_daily_rank": "",
+    "jun_total": null,
+    "jun_total_rank": "",
+    "jun_daily_avg": null,
+    "jun_daily_unit": "",
+    "jun_daily_rank": "",
+    "weekday_avg": null,
+    "weekday_unit": "",
+    "weekday_rank": "",
+    "holiday_avg": null,
+    "holiday_unit": "",
+    "holiday_rank": ""
+  },
+  "population": {
+    "residential": {
+      "500m": 6000.0,
+      "1_5km": 10.7,
+      "3km": 31.3
+    },
+    "office": {
+      "500m": 3.5,
+      "1_5km": 17.3,
+      "3km": 27.5
+    },
+    "permanent": {
+      "500m": 1.6,
+      "1_5km": 12.3,
+      "3km": 31.6
+    }
+  },
+  "business": {
+    "competitors": 8.0,
+    "food": 340.0,
+    "shopping": 167.0,
+    "leisure": 31.0,
+    "education": 23.0,
+    "hotel": 10.0,
+    "services": 182.0,
+    "fitness": 23.0,
+    "auto": 29.0,
+    "total_stores": 807.0,
+    "old_store_3yr_pct": 42.0
+  },
+  "nearby_poi": {
+    "business": 2.0,
+    "community": 152.0,
+    "office": 104.0,
+    "school": 15.0,
+    "hospital": 36.0,
+    "transport": 8.0,
+    "scenic": 160.0
+  },
+  "demographics": {
+    "male_pct": 49.6,
+    "female_pct": null,
+    "education": {
+      "小学": 8.8,
+      "初中": 15.3,
+      "高中": 11.8,
+      "大专": 7.2,
+      "本科": 48.6,
+      "硕士": 6.9,
+      "博士": 1.4
+    },
+    "has_children_pct": null,
+    "no_children_pct": null
+  },
+  "scraped_at": "2026-07-31T14:28:53.230Z",
+  "nearby_restaurants": [],
+  "nearby_malls": [],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 340.0,
+      "within_1yr_pct": 31.2,
+      "1_3yr_pct": 25.6,
+      "over_3yr_pct": 43.2
+    },
+    {
+      "type": "购物",
+      "count": 167.0,
+      "within_1yr_pct": 17.4,
+      "1_3yr_pct": 27.5,
+      "over_3yr_pct": 55.1
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 33.0,
+      "within_1yr_pct": 30.3,
+      "1_3yr_pct": 39.4,
+      "over_3yr_pct": 30.3
+    },
+    {
+      "type": "教育培训",
+      "count": 23.0,
+      "within_1yr_pct": 26.1,
+      "1_3yr_pct": 43.5,
+      "over_3yr_pct": 30.4
+    },
+    {
+      "type": "酒店住宿",
+      "count": 10.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 30.0,
+      "over_3yr_pct": 20.0
+    },
+    {
+      "type": "生活服务",
+      "count": 182.0,
+      "within_1yr_pct": 20.3,
+      "1_3yr_pct": 42.3,
+      "over_3yr_pct": 37.4
+    },
+    {
+      "type": "运动健身",
+      "count": 23.0,
+      "within_1yr_pct": 39.1,
+      "1_3yr_pct": 34.8,
+      "over_3yr_pct": 26.1
+    },
+    {
+      "type": "车辆服务",
+      "count": 29.0,
+      "within_1yr_pct": 24.1,
+      "1_3yr_pct": 58.6,
+      "over_3yr_pct": 17.2
+    }
+  ]
+}

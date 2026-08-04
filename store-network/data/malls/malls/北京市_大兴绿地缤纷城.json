@@ -1,0 +1,214 @@
+{
+  "name": "大兴绿地缤纷城",
+  "city": "北京市",
+  "address": "北京市大兴区高米店街道金星西路3号",
+  "lat": 39.764758,
+  "lng": 116.333375,
+  "overview": {
+    "score": 93.7,
+    "score_rank": "市内前30%",
+    "population_score": 77.5,
+    "area_score": 81.5,
+    "consumption_score": 74.4,
+    "industry_score": 93.8,
+    "annual_sales": "1.7",
+    "annual_sales_unit": "亿元",
+    "area_size_sqm": 4.0,
+    "open_date": "2016-12-01",
+    "operator": "绿地控股集团股份有限公司",
+    "brand": "绿地控股greenland",
+    "type": "综合型",
+    "floors": "B1-L4"
+  },
+  "traffic": {
+    "annual_daily": 3.54,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第54",
+    "jun_total": 100.2,
+    "jun_total_rank": "市内商场第92名",
+    "jun_daily_avg": 3.3,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第92名",
+    "weekday_avg": 3.3,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第89名",
+    "holiday_avg": 3.6,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第105名"
+  },
+  "population": {
+    "residential": {
+      "500m": 1.2,
+      "1_5km": 11.9,
+      "3km": 38.8
+    },
+    "office": {
+      "500m": 1.4,
+      "1_5km": 5.8,
+      "3km": 20.0
+    },
+    "permanent": {
+      "500m": 1.7,
+      "1_5km": 12.1,
+      "3km": 38.2
+    }
+  },
+  "business": {
+    "competitors": 3.0,
+    "food": 100.0,
+    "shopping": 105.0,
+    "leisure": 19.0,
+    "education": 45.0,
+    "hotel": 39.0,
+    "services": 180.0,
+    "fitness": 34.0,
+    "auto": 23.0,
+    "total_stores": 281.0,
+    "old_store_3yr_pct": 45.0
+  },
+  "nearby_poi": {
+    "business": 1.0,
+    "community": 150.0,
+    "office": 23.0,
+    "school": 24.0,
+    "hospital": 28.0,
+    "transport": 7.0,
+    "scenic": 69.0
+  },
+  "demographics": {
+    "male_pct": 52.2,
+    "female_pct": null,
+    "education": {
+      "小学": 8.7,
+      "初中": 15.9,
+      "高中": 12.3,
+      "大专": 7.5,
+      "本科": 48.8,
+      "硕士": 5.6,
+      "博士": 1.2
+    },
+    "has_children_pct": 60.2,
+    "no_children_pct": 39.8
+  },
+  "scraped_at": "2026-08-01T05:15:54.285Z",
+  "nearby_restaurants": [
+    {
+      "brand": "好利生日蛋糕(兴创大厦店)",
+      "address": "高米店街道金星西路6号院1号楼兴创大厦地下一层-104",
+      "distance": "371m"
+    },
+    {
+      "brand": "便宜坊烤鸭(兴创大厦店)",
+      "address": "金星西路6号院1号楼兴创大厦3层",
+      "distance": "371m"
+    },
+    {
+      "brand": "川食佬",
+      "address": "北京城区兴丰大街(一段)18号院25号楼1至2层02",
+      "distance": "391m"
+    },
+    {
+      "brand": "郁京湘(湘粤菜)",
+      "address": "北京城区双高路与兴华大街交叉口西80米",
+      "distance": "445m"
+    },
+    {
+      "brand": "LAC咖酒制造局(新里西斯莱公馆西区店)",
+      "address": "金星西路与兴丰大街交叉口东北160米",
+      "distance": "465m"
+    },
+    {
+      "brand": "喏町咖啡NODDINCOFFEE(阻尼运动中心店)",
+      "address": "双高路6号院1号楼1层101",
+      "distance": "469m"
+    },
+    {
+      "brand": "树屋茶餐厅",
+      "address": "金星西路与兴丰大街交叉口东60米",
+      "distance": "476m"
+    },
+    {
+      "brand": "仁人居火锅烧烤(大兴店)",
+      "address": "康颐园北巷与兴华大街交叉口西南20米",
+      "distance": "481m"
+    },
+    {
+      "brand": "金星公园音乐餐厅(鹤岗小串)",
+      "address": "金星路临2号(高米店南地铁站B2东北口步行370米)",
+      "distance": "490m"
+    },
+    {
+      "brand": "开心甜源",
+      "address": "北京城区滨河公园南区东门1幢1层101",
+      "distance": "497m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "北京水晶港生活广场",
+      "open_date": "2018-01-01",
+      "area": "2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 50.0,
+      "within_1yr_pct": 16.0,
+      "1_3yr_pct": 20.0,
+      "over_3yr_pct": 64.0
+    },
+    {
+      "type": "购物",
+      "count": 57.0,
+      "within_1yr_pct": 17.5,
+      "1_3yr_pct": 21.1,
+      "over_3yr_pct": 61.4
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 11.0,
+      "within_1yr_pct": 27.3,
+      "1_3yr_pct": 18.2,
+      "over_3yr_pct": 54.5
+    },
+    {
+      "type": "教育培训",
+      "count": 13.0,
+      "within_1yr_pct": 15.4,
+      "1_3yr_pct": 38.5,
+      "over_3yr_pct": 46.2
+    },
+    {
+      "type": "酒店住宿",
+      "count": 27.0,
+      "within_1yr_pct": 51.9,
+      "1_3yr_pct": 40.7,
+      "over_3yr_pct": 7.4
+    },
+    {
+      "type": "生活服务",
+      "count": 101.0,
+      "within_1yr_pct": 30.7,
+      "1_3yr_pct": 32.7,
+      "over_3yr_pct": 36.6
+    },
+    {
+      "type": "运动健身",
+      "count": 15.0,
+      "within_1yr_pct": 6.7,
+      "1_3yr_pct": 53.3,
+      "over_3yr_pct": 40.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 7.0,
+      "within_1yr_pct": 57.1,
+      "1_3yr_pct": 14.3,
+      "over_3yr_pct": 28.6
+    }
+  ]
+}

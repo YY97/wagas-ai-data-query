@@ -1,0 +1,438 @@
+{
+  "name": "北京赛特碧乐城",
+  "city": "北京市",
+  "address": "北京市丰台区马家堡街道红黄蓝亲子园明日商厦(明日嘉园店)",
+  "lat": 39.845378,
+  "lng": 116.366344,
+  "overview": {
+    "score": 84.5,
+    "score_rank": "市内前30%",
+    "population_score": 97.5,
+    "area_score": 76.3,
+    "consumption_score": 76.0,
+    "industry_score": 84.5,
+    "annual_sales": "",
+    "annual_sales_unit": "",
+    "area_size_sqm": null,
+    "open_date": "",
+    "operator": "",
+    "brand": "",
+    "type": "",
+    "floors": ""
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "",
+    "annual_daily_rank": "",
+    "jun_total": null,
+    "jun_total_rank": "",
+    "jun_daily_avg": null,
+    "jun_daily_unit": "",
+    "jun_daily_rank": "",
+    "weekday_avg": null,
+    "weekday_unit": "",
+    "weekday_rank": "",
+    "holiday_avg": null,
+    "holiday_unit": "",
+    "holiday_rank": ""
+  },
+  "population": {
+    "residential": {
+      "500m": 3.4,
+      "1_5km": 22.4,
+      "3km": 62.1
+    },
+    "office": {
+      "500m": 1.3,
+      "1_5km": 9.6,
+      "3km": 27.9
+    },
+    "permanent": {
+      "500m": 3.5,
+      "1_5km": 22.1,
+      "3km": 66.5
+    }
+  },
+  "business": {
+    "competitors": null,
+    "food": 151.0,
+    "shopping": 84.0,
+    "leisure": 16.0,
+    "education": 36.0,
+    "hotel": 17.0,
+    "services": 129.0,
+    "fitness": 17.0,
+    "auto": 4.0,
+    "total_stores": 458.0,
+    "old_store_3yr_pct": 48.0
+  },
+  "nearby_poi": {
+    "business": 4.0,
+    "community": 288.0,
+    "office": 15.0,
+    "school": 32.0,
+    "hospital": 50.0,
+    "transport": 12.0,
+    "scenic": 113.0
+  },
+  "demographics": {
+    "male_pct": 48.9,
+    "female_pct": null,
+    "education": {
+      "小学": 9.8,
+      "初中": 16.4,
+      "高中": 11.0,
+      "大专": 7.0,
+      "本科": 47.6,
+      "硕士": 6.7,
+      "博士": 1.5
+    },
+    "has_children_pct": null,
+    "no_children_pct": null
+  },
+  "scraped_at": "2026-07-31T19:06:52.873Z",
+  "nearby_restaurants": [
+    {
+      "brand": "东北家园清逸东北菜(明日商厦店)",
+      "address": "马家堡街道嘉园三里3号楼3-4幢-1层128号天美美食汇",
+      "distance": "2m"
+    },
+    {
+      "brand": "北漂一族板面(明日商厦店)",
+      "address": "马家堡街道嘉园三里3号楼3-4幢-1层128号天美美食汇",
+      "distance": "2m"
+    },
+    {
+      "brand": "粤茗客茶点.港式茶餐厅(丰台店)",
+      "address": "明日商厦(角门西地铁站E西北口步行340米)",
+      "distance": "12m"
+    },
+    {
+      "brand": "大齐炖牛肉浇面",
+      "address": "嘉园路与嘉和路交叉口东100米",
+      "distance": "12m"
+    },
+    {
+      "brand": "太太好粥(角门店)",
+      "address": "马家堡街道嘉园三里3号楼3-4幢-1层128号天美美食汇6号",
+      "distance": "14m"
+    },
+    {
+      "brand": "薯之缘砂锅土豆粉(角门店)",
+      "address": "北京城区嘉园三里3号楼3-4幢128号内天美美食汇",
+      "distance": "18m"
+    },
+    {
+      "brand": "久香正宗烤炉鸡蛋灌饼(明日嘉园明日商厦店)",
+      "address": "镇国寺北街嘉园三里3号楼3-4幢-1层128号",
+      "distance": "21m"
+    },
+    {
+      "brand": "金昱北京烤鸭(明日商厦店)",
+      "address": "马家堡街道嘉园三里3号楼1层18号-2",
+      "distance": "23m"
+    },
+    {
+      "brand": "这里有家盐酥鸡(明日嘉园明日商厦店)",
+      "address": "明日商厦(角门西地铁站E西北口步行330米)",
+      "distance": "24m"
+    },
+    {
+      "brand": "热核虾工现烤大虾干",
+      "address": "明日商厦(角门西地铁站E西北口步行320米)",
+      "distance": "25m"
+    },
+    {
+      "brand": "东北家园清逸东北菜(明日商厦店)",
+      "address": "马家堡街道嘉园三里3号楼3-4幢-1层128号天美美食汇",
+      "distance": "2m"
+    },
+    {
+      "brand": "北漂一族板面(明日商厦店)",
+      "address": "马家堡街道嘉园三里3号楼3-4幢-1层128号天美美食汇",
+      "distance": "2m"
+    },
+    {
+      "brand": "粤茗客茶点.港式茶餐厅(丰台店)",
+      "address": "明日商厦(角门西地铁站E西北口步行340米)",
+      "distance": "12m"
+    },
+    {
+      "brand": "大齐炖牛肉浇面",
+      "address": "嘉园路与嘉和路交叉口东100米",
+      "distance": "12m"
+    },
+    {
+      "brand": "太太好粥(角门店)",
+      "address": "马家堡街道嘉园三里3号楼3-4幢-1层128号天美美食汇6号",
+      "distance": "14m"
+    },
+    {
+      "brand": "薯之缘砂锅土豆粉(角门店)",
+      "address": "北京城区嘉园三里3号楼3-4幢128号内天美美食汇",
+      "distance": "18m"
+    },
+    {
+      "brand": "久香正宗烤炉鸡蛋灌饼(明日嘉园明日商厦店)",
+      "address": "镇国寺北街嘉园三里3号楼3-4幢-1层128号",
+      "distance": "21m"
+    },
+    {
+      "brand": "金昱北京烤鸭(明日商厦店)",
+      "address": "马家堡街道嘉园三里3号楼1层18号-2",
+      "distance": "23m"
+    },
+    {
+      "brand": "这里有家盐酥鸡(明日嘉园明日商厦店)",
+      "address": "明日商厦(角门西地铁站E西北口步行330米)",
+      "distance": "24m"
+    },
+    {
+      "brand": "热核虾工现烤大虾干",
+      "address": "明日商厦(角门西地铁站E西北口步行320米)",
+      "distance": "25m"
+    },
+    {
+      "brand": "东北家园清逸东北菜(明日商厦店)",
+      "address": "马家堡街道嘉园三里3号楼3-4幢-1层128号天美美食汇",
+      "distance": "2m"
+    },
+    {
+      "brand": "北漂一族板面(明日商厦店)",
+      "address": "马家堡街道嘉园三里3号楼3-4幢-1层128号天美美食汇",
+      "distance": "2m"
+    },
+    {
+      "brand": "粤茗客茶点.港式茶餐厅(丰台店)",
+      "address": "明日商厦(角门西地铁站E西北口步行340米)",
+      "distance": "12m"
+    },
+    {
+      "brand": "大齐炖牛肉浇面",
+      "address": "嘉园路与嘉和路交叉口东100米",
+      "distance": "12m"
+    },
+    {
+      "brand": "太太好粥(角门店)",
+      "address": "马家堡街道嘉园三里3号楼3-4幢-1层128号天美美食汇6号",
+      "distance": "14m"
+    },
+    {
+      "brand": "薯之缘砂锅土豆粉(角门店)",
+      "address": "北京城区嘉园三里3号楼3-4幢128号内天美美食汇",
+      "distance": "18m"
+    },
+    {
+      "brand": "久香正宗烤炉鸡蛋灌饼(明日嘉园明日商厦店)",
+      "address": "镇国寺北街嘉园三里3号楼3-4幢-1层128号",
+      "distance": "21m"
+    },
+    {
+      "brand": "金昱北京烤鸭(明日商厦店)",
+      "address": "马家堡街道嘉园三里3号楼1层18号-2",
+      "distance": "23m"
+    },
+    {
+      "brand": "这里有家盐酥鸡(明日嘉园明日商厦店)",
+      "address": "明日商厦(角门西地铁站E西北口步行330米)",
+      "distance": "24m"
+    },
+    {
+      "brand": "热核虾工现烤大虾干",
+      "address": "明日商厦(角门西地铁站E西北口步行320米)",
+      "distance": "25m"
+    },
+    {
+      "brand": "东北家园清逸东北菜(明日商厦店)",
+      "address": "马家堡街道嘉园三里3号楼3-4幢-1层128号天美美食汇",
+      "distance": "2m"
+    },
+    {
+      "brand": "北漂一族板面(明日商厦店)",
+      "address": "马家堡街道嘉园三里3号楼3-4幢-1层128号天美美食汇",
+      "distance": "2m"
+    },
+    {
+      "brand": "粤茗客茶点.港式茶餐厅(丰台店)",
+      "address": "明日商厦(角门西地铁站E西北口步行340米)",
+      "distance": "12m"
+    },
+    {
+      "brand": "大齐炖牛肉浇面",
+      "address": "嘉园路与嘉和路交叉口东100米",
+      "distance": "12m"
+    },
+    {
+      "brand": "太太好粥(角门店)",
+      "address": "马家堡街道嘉园三里3号楼3-4幢-1层128号天美美食汇6号",
+      "distance": "14m"
+    },
+    {
+      "brand": "薯之缘砂锅土豆粉(角门店)",
+      "address": "北京城区嘉园三里3号楼3-4幢128号内天美美食汇",
+      "distance": "18m"
+    },
+    {
+      "brand": "久香正宗烤炉鸡蛋灌饼(明日嘉园明日商厦店)",
+      "address": "镇国寺北街嘉园三里3号楼3-4幢-1层128号",
+      "distance": "21m"
+    },
+    {
+      "brand": "金昱北京烤鸭(明日商厦店)",
+      "address": "马家堡街道嘉园三里3号楼1层18号-2",
+      "distance": "23m"
+    },
+    {
+      "brand": "这里有家盐酥鸡(明日嘉园明日商厦店)",
+      "address": "明日商厦(角门西地铁站E西北口步行330米)",
+      "distance": "24m"
+    },
+    {
+      "brand": "热核虾工现烤大虾干",
+      "address": "明日商厦(角门西地铁站E西北口步行320米)",
+      "distance": "25m"
+    },
+    {
+      "brand": "东北家园清逸东北菜(明日商厦店)",
+      "address": "马家堡街道嘉园三里3号楼3-4幢-1层128号天美美食汇",
+      "distance": "2m"
+    },
+    {
+      "brand": "北漂一族板面(明日商厦店)",
+      "address": "马家堡街道嘉园三里3号楼3-4幢-1层128号天美美食汇",
+      "distance": "2m"
+    },
+    {
+      "brand": "粤茗客茶点.港式茶餐厅(丰台店)",
+      "address": "明日商厦(角门西地铁站E西北口步行340米)",
+      "distance": "12m"
+    },
+    {
+      "brand": "大齐炖牛肉浇面",
+      "address": "嘉园路与嘉和路交叉口东100米",
+      "distance": "12m"
+    },
+    {
+      "brand": "太太好粥(角门店)",
+      "address": "马家堡街道嘉园三里3号楼3-4幢-1层128号天美美食汇6号",
+      "distance": "14m"
+    },
+    {
+      "brand": "薯之缘砂锅土豆粉(角门店)",
+      "address": "北京城区嘉园三里3号楼3-4幢128号内天美美食汇",
+      "distance": "18m"
+    },
+    {
+      "brand": "久香正宗烤炉鸡蛋灌饼(明日嘉园明日商厦店)",
+      "address": "镇国寺北街嘉园三里3号楼3-4幢-1层128号",
+      "distance": "21m"
+    },
+    {
+      "brand": "金昱北京烤鸭(明日商厦店)",
+      "address": "马家堡街道嘉园三里3号楼1层18号-2",
+      "distance": "23m"
+    },
+    {
+      "brand": "这里有家盐酥鸡(明日嘉园明日商厦店)",
+      "address": "明日商厦(角门西地铁站E西北口步行330米)",
+      "distance": "24m"
+    },
+    {
+      "brand": "热核虾工现烤大虾干",
+      "address": "明日商厦(角门西地铁站E西北口步行320米)",
+      "distance": "25m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "北京上品折扣(草桥店)",
+      "open_date": "2013-12-01",
+      "area": "3.3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "北京凯德MALL大峡谷",
+      "open_date": "2010-01-01",
+      "area": "1.2万㎡",
+      "jun_daily_avg": "3万人次",
+      "weekday_avg": "2.7万人次",
+      "holiday_avg": "3.7万人次"
+    },
+    {
+      "name": "今日草桥商城",
+      "open_date": "2021-06-27",
+      "area": "11.2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "北京华联公益西桥购物中心",
+      "open_date": "2010-04-01",
+      "area": "3万㎡",
+      "jun_daily_avg": "2.4万人次",
+      "weekday_avg": "2.1万人次",
+      "holiday_avg": "3万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 151.0,
+      "within_1yr_pct": 29.8,
+      "1_3yr_pct": 29.8,
+      "over_3yr_pct": 40.4
+    },
+    {
+      "type": "购物",
+      "count": 84.0,
+      "within_1yr_pct": 23.8,
+      "1_3yr_pct": 19.0,
+      "over_3yr_pct": 57.1
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 20.0,
+      "within_1yr_pct": 15.0,
+      "1_3yr_pct": 30.0,
+      "over_3yr_pct": 55.0
+    },
+    {
+      "type": "教育培训",
+      "count": 36.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 22.2,
+      "over_3yr_pct": 44.4
+    },
+    {
+      "type": "酒店住宿",
+      "count": 17.0,
+      "within_1yr_pct": 17.6,
+      "1_3yr_pct": 23.5,
+      "over_3yr_pct": 58.8
+    },
+    {
+      "type": "生活服务",
+      "count": 129.0,
+      "within_1yr_pct": 27.1,
+      "1_3yr_pct": 30.2,
+      "over_3yr_pct": 42.6
+    },
+    {
+      "type": "运动健身",
+      "count": 17.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 5.9,
+      "over_3yr_pct": 94.1
+    },
+    {
+      "type": "车辆服务",
+      "count": 4.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 50.0
+    }
+  ]
+}

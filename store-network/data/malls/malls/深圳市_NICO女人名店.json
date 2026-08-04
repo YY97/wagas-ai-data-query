@@ -1,0 +1,479 @@
+{
+  "name": "NICO女人名店",
+  "city": "深圳市",
+  "address": "广东省深圳市福田区振华路98号",
+  "lat": 22.544684,
+  "lng": 114.085606,
+  "overview": {
+    "score": 79.8,
+    "score_rank": "市内前30%",
+    "population_score": 84.0,
+    "area_score": 100.0,
+    "consumption_score": 84.9,
+    "industry_score": 79.7,
+    "annual_sales": "女人名店位于深圳市福田区华强北商场，该商场共有三层，主要以女性用品为主，一楼珠宝餐饮为主，二楼女性化妆品位置，三楼女性服装为主。",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 1.1,
+    "open_date": "1997-05-01",
+    "operator": "世茂商业管理公司",
+    "brand": "",
+    "type": "综合型",
+    "floors": "L1-L4"
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "-",
+    "annual_daily_rank": "",
+    "jun_total": null,
+    "jun_total_rank": "",
+    "jun_daily_avg": null,
+    "jun_daily_unit": "",
+    "jun_daily_rank": "",
+    "weekday_avg": null,
+    "weekday_unit": "",
+    "weekday_rank": "",
+    "holiday_avg": null,
+    "holiday_unit": "",
+    "holiday_rank": ""
+  },
+  "population": {
+    "residential": {
+      "500m": 3.0,
+      "1_5km": 30.8,
+      "3km": 91.9
+    },
+    "office": {
+      "500m": 10.3,
+      "1_5km": 29.0,
+      "3km": 79.6
+    },
+    "permanent": {
+      "500m": 6.0,
+      "1_5km": 32.5,
+      "3km": 93.7
+    }
+  },
+  "business": {
+    "competitors": 15.0,
+    "food": 910.0,
+    "shopping": 1304.0,
+    "leisure": 77.0,
+    "education": 48.0,
+    "hotel": 46.0,
+    "services": 512.0,
+    "fitness": 26.0,
+    "auto": 87.0,
+    "total_stores": 48.0,
+    "old_store_3yr_pct": 42.0
+  },
+  "nearby_poi": {
+    "business": 12.0,
+    "community": 374.0,
+    "office": 150.0,
+    "school": 48.0,
+    "hospital": 210.0,
+    "transport": 29.0,
+    "scenic": 266.0
+  },
+  "demographics": {
+    "male_pct": 47.2,
+    "female_pct": null,
+    "education": {
+      "小学": 12.1,
+      "初中": 21.6,
+      "高中": 12.0,
+      "大专": 9.0,
+      "本科": 41.0,
+      "硕士": 3.6,
+      "博士": 0.7
+    },
+    "has_children_pct": 58.1,
+    "no_children_pct": 41.9
+  },
+  "scraped_at": "2026-08-02T10:30:00.288Z",
+  "nearby_restaurants": [
+    {
+      "brand": "鱼你在一起(深纺有谷荟店 )",
+      "address": "华强北街道深纺大厦A座1楼",
+      "distance": "13m"
+    },
+    {
+      "brand": "清清冬瓜茶(华强北店)",
+      "address": "华强北街道深纺大厦1层L1-07/26铺",
+      "distance": "25m"
+    },
+    {
+      "brand": "华强隆江猪脚饭(深纺大厦店)",
+      "address": "华强北路2001号深纺大厦A座F1层",
+      "distance": "25m"
+    },
+    {
+      "brand": "肯悦咖啡佳兆业中心店",
+      "address": "南园路佳兆业中心一楼B103",
+      "distance": "26m"
+    },
+    {
+      "brand": "肯悦咖啡深纺大厦店",
+      "address": "华强北路2001号深纺大厦F1层(华强北地铁站A口旁)",
+      "distance": "28m"
+    },
+    {
+      "brand": "瑞幸咖啡(深纺大厦有谷荟店)",
+      "address": "华强北路2001号深纺大厦一层L1-08",
+      "distance": "30m"
+    },
+    {
+      "brand": "潮汕老佳牛肉店(华强北店)",
+      "address": "华强北街道华航社区华强北路2001号深纺大厦AB座L1-30A-1(即是深纺B座招商银行后门)",
+      "distance": "31m"
+    },
+    {
+      "brand": "有谷芸",
+      "address": "华强北路2001号深纺大厦",
+      "distance": "32m"
+    },
+    {
+      "brand": "韩江味·老潮州粿条面卤鹅饭店(华强北店)",
+      "address": "华强北路2001号(华强北地铁站B口步行70米)",
+      "distance": "33m"
+    },
+    {
+      "brand": "家乐缘(振旺店)",
+      "address": "振华路深纺大厦A座东一楼L1-27-35",
+      "distance": "33m"
+    },
+    {
+      "brand": "鱼你在一起(深纺有谷荟店 )",
+      "address": "华强北街道深纺大厦A座1楼",
+      "distance": "13m"
+    },
+    {
+      "brand": "清清冬瓜茶(华强北店)",
+      "address": "华强北街道深纺大厦1层L1-07/26铺",
+      "distance": "25m"
+    },
+    {
+      "brand": "华强隆江猪脚饭(深纺大厦店)",
+      "address": "华强北路2001号深纺大厦A座F1层",
+      "distance": "25m"
+    },
+    {
+      "brand": "肯悦咖啡佳兆业中心店",
+      "address": "南园路佳兆业中心一楼B103",
+      "distance": "26m"
+    },
+    {
+      "brand": "肯悦咖啡深纺大厦店",
+      "address": "华强北路2001号深纺大厦F1层(华强北地铁站A口旁)",
+      "distance": "28m"
+    },
+    {
+      "brand": "瑞幸咖啡(深纺大厦有谷荟店)",
+      "address": "华强北路2001号深纺大厦一层L1-08",
+      "distance": "30m"
+    },
+    {
+      "brand": "潮汕老佳牛肉店(华强北店)",
+      "address": "华强北街道华航社区华强北路2001号深纺大厦AB座L1-30A-1(即是深纺B座招商银行后门)",
+      "distance": "31m"
+    },
+    {
+      "brand": "有谷芸",
+      "address": "华强北路2001号深纺大厦",
+      "distance": "32m"
+    },
+    {
+      "brand": "韩江味·老潮州粿条面卤鹅饭店(华强北店)",
+      "address": "华强北路2001号(华强北地铁站B口步行70米)",
+      "distance": "33m"
+    },
+    {
+      "brand": "家乐缘(振旺店)",
+      "address": "振华路深纺大厦A座东一楼L1-27-35",
+      "distance": "33m"
+    },
+    {
+      "brand": "鱼你在一起(深纺有谷荟店 )",
+      "address": "华强北街道深纺大厦A座1楼",
+      "distance": "13m"
+    },
+    {
+      "brand": "清清冬瓜茶(华强北店)",
+      "address": "华强北街道深纺大厦1层L1-07/26铺",
+      "distance": "25m"
+    },
+    {
+      "brand": "华强隆江猪脚饭(深纺大厦店)",
+      "address": "华强北路2001号深纺大厦A座F1层",
+      "distance": "25m"
+    },
+    {
+      "brand": "肯悦咖啡佳兆业中心店",
+      "address": "南园路佳兆业中心一楼B103",
+      "distance": "26m"
+    },
+    {
+      "brand": "肯悦咖啡深纺大厦店",
+      "address": "华强北路2001号深纺大厦F1层(华强北地铁站A口旁)",
+      "distance": "28m"
+    },
+    {
+      "brand": "瑞幸咖啡(深纺大厦有谷荟店)",
+      "address": "华强北路2001号深纺大厦一层L1-08",
+      "distance": "30m"
+    },
+    {
+      "brand": "潮汕老佳牛肉店(华强北店)",
+      "address": "华强北街道华航社区华强北路2001号深纺大厦AB座L1-30A-1(即是深纺B座招商银行后门)",
+      "distance": "31m"
+    },
+    {
+      "brand": "有谷芸",
+      "address": "华强北路2001号深纺大厦",
+      "distance": "32m"
+    },
+    {
+      "brand": "韩江味·老潮州粿条面卤鹅饭店(华强北店)",
+      "address": "华强北路2001号(华强北地铁站B口步行70米)",
+      "distance": "33m"
+    },
+    {
+      "brand": "家乐缘(振旺店)",
+      "address": "振华路深纺大厦A座东一楼L1-27-35",
+      "distance": "33m"
+    },
+    {
+      "brand": "鱼你在一起(深纺有谷荟店 )",
+      "address": "华强北街道深纺大厦A座1楼",
+      "distance": "13m"
+    },
+    {
+      "brand": "清清冬瓜茶(华强北店)",
+      "address": "华强北街道深纺大厦1层L1-07/26铺",
+      "distance": "25m"
+    },
+    {
+      "brand": "华强隆江猪脚饭(深纺大厦店)",
+      "address": "华强北路2001号深纺大厦A座F1层",
+      "distance": "25m"
+    },
+    {
+      "brand": "肯悦咖啡佳兆业中心店",
+      "address": "南园路佳兆业中心一楼B103",
+      "distance": "26m"
+    },
+    {
+      "brand": "肯悦咖啡深纺大厦店",
+      "address": "华强北路2001号深纺大厦F1层(华强北地铁站A口旁)",
+      "distance": "28m"
+    },
+    {
+      "brand": "瑞幸咖啡(深纺大厦有谷荟店)",
+      "address": "华强北路2001号深纺大厦一层L1-08",
+      "distance": "30m"
+    },
+    {
+      "brand": "潮汕老佳牛肉店(华强北店)",
+      "address": "华强北街道华航社区华强北路2001号深纺大厦AB座L1-30A-1(即是深纺B座招商银行后门)",
+      "distance": "31m"
+    },
+    {
+      "brand": "有谷芸",
+      "address": "华强北路2001号深纺大厦",
+      "distance": "32m"
+    },
+    {
+      "brand": "韩江味·老潮州粿条面卤鹅饭店(华强北店)",
+      "address": "华强北路2001号(华强北地铁站B口步行70米)",
+      "distance": "33m"
+    },
+    {
+      "brand": "家乐缘(振旺店)",
+      "address": "振华路深纺大厦A座东一楼L1-27-35",
+      "distance": "33m"
+    },
+    {
+      "brand": "鱼你在一起(深纺有谷荟店 )",
+      "address": "华强北街道深纺大厦A座1楼",
+      "distance": "13m"
+    },
+    {
+      "brand": "清清冬瓜茶(华强北店)",
+      "address": "华强北街道深纺大厦1层L1-07/26铺",
+      "distance": "25m"
+    },
+    {
+      "brand": "华强隆江猪脚饭(深纺大厦店)",
+      "address": "华强北路2001号深纺大厦A座F1层",
+      "distance": "25m"
+    },
+    {
+      "brand": "肯悦咖啡佳兆业中心店",
+      "address": "南园路佳兆业中心一楼B103",
+      "distance": "26m"
+    },
+    {
+      "brand": "肯悦咖啡深纺大厦店",
+      "address": "华强北路2001号深纺大厦F1层(华强北地铁站A口旁)",
+      "distance": "28m"
+    },
+    {
+      "brand": "瑞幸咖啡(深纺大厦有谷荟店)",
+      "address": "华强北路2001号深纺大厦一层L1-08",
+      "distance": "30m"
+    },
+    {
+      "brand": "潮汕老佳牛肉店(华强北店)",
+      "address": "华强北街道华航社区华强北路2001号深纺大厦AB座L1-30A-1(即是深纺B座招商银行后门)",
+      "distance": "31m"
+    },
+    {
+      "brand": "有谷芸",
+      "address": "华强北路2001号深纺大厦",
+      "distance": "32m"
+    },
+    {
+      "brand": "韩江味·老潮州粿条面卤鹅饭店(华强北店)",
+      "address": "华强北路2001号(华强北地铁站B口步行70米)",
+      "distance": "33m"
+    },
+    {
+      "brand": "家乐缘(振旺店)",
+      "address": "振华路深纺大厦A座东一楼L1-27-35",
+      "distance": "33m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "深圳华强茂业天地",
+      "open_date": "2003-10-01",
+      "area": "8万㎡",
+      "jun_daily_avg": "1.8万人次",
+      "weekday_avg": "1.6万人次",
+      "holiday_avg": "2.3万人次"
+    },
+    {
+      "name": "深圳紫荆城(振兴中路店)",
+      "open_date": "2012-08-01",
+      "area": "7000㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "深圳中航城君尚购物中心",
+      "open_date": "2021-05-01",
+      "area": "18万㎡",
+      "jun_daily_avg": "8.7万人次",
+      "weekday_avg": "8.3万人次",
+      "holiday_avg": "9.7万人次"
+    },
+    {
+      "name": "深圳世纪汇",
+      "open_date": "2014-01-01",
+      "area": "5.9万㎡",
+      "jun_daily_avg": "3.4万人次",
+      "weekday_avg": "3.4万人次",
+      "holiday_avg": "3.3万人次"
+    },
+    {
+      "name": "深圳群星购物",
+      "open_date": "1995",
+      "area": "1.2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "深圳茂业百货(深南店)",
+      "open_date": "2004-12-07",
+      "area": "2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "深圳汇时代",
+      "open_date": "2019-10-01",
+      "area": "4.5万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "深圳华强南商业中心",
+      "open_date": "2024-09-26",
+      "area": "9.1万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "深圳中信信荟",
+      "open_date": "2024-04-30",
+      "area": "3万㎡",
+      "jun_daily_avg": "2.7万人次",
+      "weekday_avg": "2.9万人次",
+      "holiday_avg": "2.3万人次"
+    },
+    {
+      "name": "深圳百花新天地",
+      "open_date": "2007-12-01",
+      "area": "3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 20.0,
+      "within_1yr_pct": 30.0,
+      "1_3yr_pct": 40.0,
+      "over_3yr_pct": 30.0
+    },
+    {
+      "type": "购物",
+      "count": 9.0,
+      "within_1yr_pct": 11.1,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 55.6
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "教育培训",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    },
+    {
+      "type": "生活服务",
+      "count": 13.0,
+      "within_1yr_pct": 23.1,
+      "1_3yr_pct": 23.1,
+      "over_3yr_pct": 53.8
+    },
+    {
+      "type": "车辆服务",
+      "count": 2.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 0.0
+    }
+  ]
+}

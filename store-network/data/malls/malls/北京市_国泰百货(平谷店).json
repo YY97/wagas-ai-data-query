@@ -1,0 +1,233 @@
+{
+  "name": "国泰百货(平谷店)",
+  "city": "北京市",
+  "address": "北京市丰台区大红门街道珠江骏景(北区)珠江骏景北区",
+  "lat": 39.855138,
+  "lng": 116.395718,
+  "overview": {
+    "score": 87.8,
+    "score_rank": "市内前30%",
+    "population_score": 96.3,
+    "area_score": 88.6,
+    "consumption_score": 74.1,
+    "industry_score": 87.8,
+    "annual_sales": "",
+    "annual_sales_unit": "",
+    "area_size_sqm": null,
+    "open_date": "",
+    "operator": "",
+    "brand": "",
+    "type": "",
+    "floors": ""
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "",
+    "annual_daily_rank": "",
+    "jun_total": null,
+    "jun_total_rank": "",
+    "jun_daily_avg": null,
+    "jun_daily_unit": "",
+    "jun_daily_rank": "",
+    "weekday_avg": null,
+    "weekday_unit": "",
+    "weekday_rank": "",
+    "holiday_avg": null,
+    "holiday_unit": "",
+    "holiday_rank": ""
+  },
+  "population": {
+    "residential": {
+      "500m": 3.2,
+      "1_5km": 25.7,
+      "3km": 83.5
+    },
+    "office": {
+      "500m": 1.7,
+      "1_5km": 11.3,
+      "3km": 36.6
+    },
+    "permanent": {
+      "500m": 3.3,
+      "1_5km": 25.9,
+      "3km": 88.0
+    }
+  },
+  "business": {
+    "competitors": 4.0,
+    "food": 209.0,
+    "shopping": 207.0,
+    "leisure": 22.0,
+    "education": 22.0,
+    "hotel": 26.0,
+    "services": 146.0,
+    "fitness": 13.0,
+    "auto": 19.0,
+    "total_stores": 666.0,
+    "old_store_3yr_pct": 48.0
+  },
+  "nearby_poi": {
+    "business": 4.0,
+    "community": 444.0,
+    "office": 35.0,
+    "school": 42.0,
+    "hospital": 73.0,
+    "transport": 12.0,
+    "scenic": 194.0
+  },
+  "demographics": {
+    "male_pct": 51.8,
+    "female_pct": null,
+    "education": {
+      "小学": 10.0,
+      "初中": 16.5,
+      "高中": 10.6,
+      "大专": 6.9,
+      "本科": 47.9,
+      "硕士": 6.5,
+      "博士": 1.6
+    },
+    "has_children_pct": null,
+    "no_children_pct": null
+  },
+  "scraped_at": "2026-08-01T12:33:30.163Z",
+  "nearby_restaurants": [
+    {
+      "brand": "成都小厨",
+      "address": "南木樨园94号(木樨园地铁站C西南口步行440米)",
+      "distance": "490m"
+    },
+    {
+      "brand": "安徽早点",
+      "address": "西罗园路与南三环中路辅路交叉口北180米",
+      "distance": "492m"
+    },
+    {
+      "brand": "山西美食",
+      "address": "木樨园桥与大红门路交叉口东20米",
+      "distance": "494m"
+    },
+    {
+      "brand": "老兴烧烤",
+      "address": "木樨园桥与大红门路交叉口东20米",
+      "distance": "494m"
+    },
+    {
+      "brand": "贵州酸友记酸汤火锅",
+      "address": "大红门路2号",
+      "distance": "496m"
+    },
+    {
+      "brand": "肯德基车速取餐点(木樨园店)",
+      "address": "永定门外大街101号百荣世贸商城南侧临街",
+      "distance": "496m"
+    },
+    {
+      "brand": "兰州拉面烤鱼(西罗园店)",
+      "address": "西罗园一社区北区南1门旁",
+      "distance": "497m"
+    },
+    {
+      "brand": "和荣轩河间驴肉火烧(西罗园路店)",
+      "address": "西罗园一社区北区南门旁",
+      "distance": "498m"
+    },
+    {
+      "brand": "木樨园老头烧烤(南苑路店)",
+      "address": "南木樨园94号一层109号",
+      "distance": "498m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "北京木樨园合生广场",
+      "open_date": "2017-01-01",
+      "area": "4万㎡",
+      "jun_daily_avg": "3.9万人次",
+      "weekday_avg": "3.6万人次",
+      "holiday_avg": "4.6万人次"
+    },
+    {
+      "name": "北京百荣世贸商城",
+      "open_date": "2004-04-29",
+      "area": "40万㎡",
+      "jun_daily_avg": "8.4万人次",
+      "weekday_avg": "7.3万人次",
+      "holiday_avg": "11.5万人次"
+    },
+    {
+      "name": "北京丹陛华广场",
+      "open_date": "-",
+      "area": "2.9万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "北京银泰百货(大红门店)",
+      "open_date": "2011-12-31",
+      "area": "6万㎡",
+      "jun_daily_avg": "3.7万人次",
+      "weekday_avg": "3.4万人次",
+      "holiday_avg": "4.4万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 209.0,
+      "within_1yr_pct": 23.0,
+      "1_3yr_pct": 30.1,
+      "over_3yr_pct": 46.9
+    },
+    {
+      "type": "购物",
+      "count": 207.0,
+      "within_1yr_pct": 16.9,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 49.8
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 24.0,
+      "within_1yr_pct": 20.8,
+      "1_3yr_pct": 41.7,
+      "over_3yr_pct": 37.5
+    },
+    {
+      "type": "教育培训",
+      "count": 22.0,
+      "within_1yr_pct": 22.7,
+      "1_3yr_pct": 22.7,
+      "over_3yr_pct": 54.5
+    },
+    {
+      "type": "酒店住宿",
+      "count": 26.0,
+      "within_1yr_pct": 19.2,
+      "1_3yr_pct": 38.5,
+      "over_3yr_pct": 42.3
+    },
+    {
+      "type": "生活服务",
+      "count": 146.0,
+      "within_1yr_pct": 23.3,
+      "1_3yr_pct": 26.7,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "运动健身",
+      "count": 13.0,
+      "within_1yr_pct": 15.4,
+      "1_3yr_pct": 46.2,
+      "over_3yr_pct": 38.5
+    },
+    {
+      "type": "车辆服务",
+      "count": 19.0,
+      "within_1yr_pct": 21.1,
+      "1_3yr_pct": 26.3,
+      "over_3yr_pct": 52.6
+    }
+  ]
+}

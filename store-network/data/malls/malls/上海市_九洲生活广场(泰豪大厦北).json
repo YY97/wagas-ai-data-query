@@ -1,0 +1,454 @@
+{
+  "name": "九洲生活广场(泰豪大厦北)",
+  "city": "上海市",
+  "address": "上海市闵行区虹桥镇轩意餐厅华光花园",
+  "lat": 31.188564,
+  "lng": 121.386609,
+  "overview": {
+    "score": 73.6,
+    "score_rank": "市内前50%",
+    "population_score": 86.8,
+    "area_score": 72.3,
+    "consumption_score": 78.3,
+    "industry_score": 73.5,
+    "annual_sales": "",
+    "annual_sales_unit": "",
+    "area_size_sqm": null,
+    "open_date": "",
+    "operator": "",
+    "brand": "",
+    "type": "",
+    "floors": ""
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "",
+    "annual_daily_rank": "",
+    "jun_total": null,
+    "jun_total_rank": "",
+    "jun_daily_avg": null,
+    "jun_daily_unit": "",
+    "jun_daily_rank": "",
+    "weekday_avg": null,
+    "weekday_unit": "",
+    "weekday_rank": "",
+    "holiday_avg": null,
+    "holiday_unit": "",
+    "holiday_rank": ""
+  },
+  "population": {
+    "residential": {
+      "500m": 2.1,
+      "1_5km": 12.7,
+      "3km": 59.1
+    },
+    "office": {
+      "500m": 9800.0,
+      "1_5km": 9.1,
+      "3km": 59.1
+    },
+    "permanent": {
+      "500m": 2.1,
+      "1_5km": 13.1,
+      "3km": 65.2
+    }
+  },
+  "business": {
+    "competitors": 2.0,
+    "food": 117.0,
+    "shopping": 114.0,
+    "leisure": 8.0,
+    "education": 21.0,
+    "hotel": 16.0,
+    "services": 103.0,
+    "fitness": 25.0,
+    "auto": 5.0,
+    "total_stores": 418.0,
+    "old_store_3yr_pct": 53.0
+  },
+  "nearby_poi": {
+    "business": 6.0,
+    "community": 543.0,
+    "office": 74.0,
+    "school": 30.0,
+    "hospital": 93.0,
+    "transport": 7.0,
+    "scenic": 212.0
+  },
+  "demographics": {
+    "male_pct": 48.1,
+    "female_pct": null,
+    "education": {
+      "小学": 9.4,
+      "初中": 17.5,
+      "高中": 11.3,
+      "大专": 8.1,
+      "本科": 47.6,
+      "硕士": 4.9,
+      "博士": 1.2
+    },
+    "has_children_pct": null,
+    "no_children_pct": null
+  },
+  "scraped_at": "2026-07-31T17:57:00.017Z",
+  "nearby_restaurants": [
+    {
+      "brand": "甜蜜蜜港式茶餐厅(虹梅路店)",
+      "address": "虹桥镇虹梅路3293号",
+      "distance": "19m"
+    },
+    {
+      "brand": "老上海馄饨铺(虹梅路店)",
+      "address": "虹桥镇虹梅路3291号底层2号铺位",
+      "distance": "22m"
+    },
+    {
+      "brand": "轩意餐厅(华光花园店)",
+      "address": "虹梅路3295号",
+      "distance": "23m"
+    },
+    {
+      "brand": "九鼎轩脆毛肚火锅(虹梅路店)",
+      "address": "虹梅路3279号",
+      "distance": "29m"
+    },
+    {
+      "brand": "e品茗茶&喫茶園",
+      "address": "虹梅路3291号2号铺位",
+      "distance": "34m"
+    },
+    {
+      "brand": "煨传奇·台州菜(虹梅路店)",
+      "address": "虹梅路3194-2号",
+      "distance": "47m"
+    },
+    {
+      "brand": "习善餐厅",
+      "address": "虹梅路3196号",
+      "distance": "52m"
+    },
+    {
+      "brand": "天嘉(天妇罗专门店)",
+      "address": "虹梅路3194-3号一楼",
+      "distance": "52m"
+    },
+    {
+      "brand": "鮨岐寿司(虹桥花苑店)",
+      "address": "虹桥镇虹梅路3194-3",
+      "distance": "53m"
+    },
+    {
+      "brand": "池田家",
+      "address": "虹梅路与华光路交叉口南100米",
+      "distance": "54m"
+    },
+    {
+      "brand": "甜蜜蜜港式茶餐厅(虹梅路店)",
+      "address": "虹桥镇虹梅路3293号",
+      "distance": "19m"
+    },
+    {
+      "brand": "老上海馄饨铺(虹梅路店)",
+      "address": "虹桥镇虹梅路3291号底层2号铺位",
+      "distance": "22m"
+    },
+    {
+      "brand": "轩意餐厅(华光花园店)",
+      "address": "虹梅路3295号",
+      "distance": "23m"
+    },
+    {
+      "brand": "九鼎轩脆毛肚火锅(虹梅路店)",
+      "address": "虹梅路3279号",
+      "distance": "29m"
+    },
+    {
+      "brand": "e品茗茶&喫茶園",
+      "address": "虹梅路3291号2号铺位",
+      "distance": "34m"
+    },
+    {
+      "brand": "煨传奇·台州菜(虹梅路店)",
+      "address": "虹梅路3194-2号",
+      "distance": "47m"
+    },
+    {
+      "brand": "习善餐厅",
+      "address": "虹梅路3196号",
+      "distance": "52m"
+    },
+    {
+      "brand": "天嘉(天妇罗专门店)",
+      "address": "虹梅路3194-3号一楼",
+      "distance": "52m"
+    },
+    {
+      "brand": "鮨岐寿司(虹桥花苑店)",
+      "address": "虹桥镇虹梅路3194-3",
+      "distance": "53m"
+    },
+    {
+      "brand": "池田家",
+      "address": "虹梅路与华光路交叉口南100米",
+      "distance": "54m"
+    },
+    {
+      "brand": "甜蜜蜜港式茶餐厅(虹梅路店)",
+      "address": "虹桥镇虹梅路3293号",
+      "distance": "19m"
+    },
+    {
+      "brand": "老上海馄饨铺(虹梅路店)",
+      "address": "虹桥镇虹梅路3291号底层2号铺位",
+      "distance": "22m"
+    },
+    {
+      "brand": "轩意餐厅(华光花园店)",
+      "address": "虹梅路3295号",
+      "distance": "23m"
+    },
+    {
+      "brand": "九鼎轩脆毛肚火锅(虹梅路店)",
+      "address": "虹梅路3279号",
+      "distance": "29m"
+    },
+    {
+      "brand": "e品茗茶&喫茶園",
+      "address": "虹梅路3291号2号铺位",
+      "distance": "34m"
+    },
+    {
+      "brand": "煨传奇·台州菜(虹梅路店)",
+      "address": "虹梅路3194-2号",
+      "distance": "47m"
+    },
+    {
+      "brand": "习善餐厅",
+      "address": "虹梅路3196号",
+      "distance": "52m"
+    },
+    {
+      "brand": "天嘉(天妇罗专门店)",
+      "address": "虹梅路3194-3号一楼",
+      "distance": "52m"
+    },
+    {
+      "brand": "鮨岐寿司(虹桥花苑店)",
+      "address": "虹桥镇虹梅路3194-3",
+      "distance": "53m"
+    },
+    {
+      "brand": "池田家",
+      "address": "虹梅路与华光路交叉口南100米",
+      "distance": "54m"
+    },
+    {
+      "brand": "甜蜜蜜港式茶餐厅(虹梅路店)",
+      "address": "虹桥镇虹梅路3293号",
+      "distance": "19m"
+    },
+    {
+      "brand": "老上海馄饨铺(虹梅路店)",
+      "address": "虹桥镇虹梅路3291号底层2号铺位",
+      "distance": "22m"
+    },
+    {
+      "brand": "轩意餐厅(华光花园店)",
+      "address": "虹梅路3295号",
+      "distance": "23m"
+    },
+    {
+      "brand": "九鼎轩脆毛肚火锅(虹梅路店)",
+      "address": "虹梅路3279号",
+      "distance": "29m"
+    },
+    {
+      "brand": "e品茗茶&喫茶園",
+      "address": "虹梅路3291号2号铺位",
+      "distance": "34m"
+    },
+    {
+      "brand": "煨传奇·台州菜(虹梅路店)",
+      "address": "虹梅路3194-2号",
+      "distance": "47m"
+    },
+    {
+      "brand": "习善餐厅",
+      "address": "虹梅路3196号",
+      "distance": "52m"
+    },
+    {
+      "brand": "天嘉(天妇罗专门店)",
+      "address": "虹梅路3194-3号一楼",
+      "distance": "52m"
+    },
+    {
+      "brand": "鮨岐寿司(虹桥花苑店)",
+      "address": "虹桥镇虹梅路3194-3",
+      "distance": "53m"
+    },
+    {
+      "brand": "池田家",
+      "address": "虹梅路与华光路交叉口南100米",
+      "distance": "54m"
+    },
+    {
+      "brand": "甜蜜蜜港式茶餐厅(虹梅路店)",
+      "address": "虹桥镇虹梅路3293号",
+      "distance": "19m"
+    },
+    {
+      "brand": "老上海馄饨铺(虹梅路店)",
+      "address": "虹桥镇虹梅路3291号底层2号铺位",
+      "distance": "22m"
+    },
+    {
+      "brand": "轩意餐厅(华光花园店)",
+      "address": "虹梅路3295号",
+      "distance": "23m"
+    },
+    {
+      "brand": "九鼎轩脆毛肚火锅(虹梅路店)",
+      "address": "虹梅路3279号",
+      "distance": "29m"
+    },
+    {
+      "brand": "e品茗茶&喫茶園",
+      "address": "虹梅路3291号2号铺位",
+      "distance": "34m"
+    },
+    {
+      "brand": "煨传奇·台州菜(虹梅路店)",
+      "address": "虹梅路3194-2号",
+      "distance": "47m"
+    },
+    {
+      "brand": "习善餐厅",
+      "address": "虹梅路3196号",
+      "distance": "52m"
+    },
+    {
+      "brand": "天嘉(天妇罗专门店)",
+      "address": "虹梅路3194-3号一楼",
+      "distance": "52m"
+    },
+    {
+      "brand": "鮨岐寿司(虹桥花苑店)",
+      "address": "虹桥镇虹梅路3194-3",
+      "distance": "53m"
+    },
+    {
+      "brand": "池田家",
+      "address": "虹梅路与华光路交叉口南100米",
+      "distance": "54m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "九洲生活广场(泰豪大厦北)",
+      "open_date": "-",
+      "area": "-",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "六月汇广场",
+      "open_date": "2022-10-10",
+      "area": "2.4万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "虹霞商城",
+      "open_date": "-",
+      "area": "-",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海金汇四季广场",
+      "open_date": "2012-05-01",
+      "area": "3.3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海星空广场",
+      "open_date": "2015-09-27",
+      "area": "6.5万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海古北1699",
+      "open_date": "2016-01-01",
+      "area": "2.6万㎡",
+      "jun_daily_avg": "1.6万人次",
+      "weekday_avg": "1.7万人次",
+      "holiday_avg": "1.6万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 117.0,
+      "within_1yr_pct": 16.2,
+      "1_3yr_pct": 28.2,
+      "over_3yr_pct": 55.6
+    },
+    {
+      "type": "购物",
+      "count": 114.0,
+      "within_1yr_pct": 14.0,
+      "1_3yr_pct": 28.9,
+      "over_3yr_pct": 57.0
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 17.0,
+      "within_1yr_pct": 35.3,
+      "1_3yr_pct": 23.5,
+      "over_3yr_pct": 41.2
+    },
+    {
+      "type": "教育培训",
+      "count": 21.0,
+      "within_1yr_pct": 38.1,
+      "1_3yr_pct": 14.3,
+      "over_3yr_pct": 47.6
+    },
+    {
+      "type": "酒店住宿",
+      "count": 16.0,
+      "within_1yr_pct": 18.8,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 56.3
+    },
+    {
+      "type": "生活服务",
+      "count": 103.0,
+      "within_1yr_pct": 18.4,
+      "1_3yr_pct": 34.0,
+      "over_3yr_pct": 47.6
+    },
+    {
+      "type": "运动健身",
+      "count": 25.0,
+      "within_1yr_pct": 8.0,
+      "1_3yr_pct": 24.0,
+      "over_3yr_pct": 68.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 5.0,
+      "within_1yr_pct": 40.0,
+      "1_3yr_pct": 40.0,
+      "over_3yr_pct": 20.0
+    }
+  ]
+}

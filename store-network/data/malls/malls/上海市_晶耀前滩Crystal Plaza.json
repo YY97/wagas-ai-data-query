@@ -1,0 +1,447 @@
+{
+  "name": "晶耀前滩Crystal Plaza",
+  "city": "上海市",
+  "address": "上海市浦东新区海阳西路268弄1-17号",
+  "lat": 31.150944,
+  "lng": 121.47637,
+  "overview": {
+    "score": 95.1,
+    "score_rank": "市内前30%",
+    "population_score": 70.4,
+    "area_score": 79.8,
+    "consumption_score": 91.9,
+    "industry_score": 95.2,
+    "annual_sales": "晶耀前滩位于上海市浦东新区耀体路308号，是前滩国际商务区核心区域的一个城市综合体，美国开发商铁狮门与陆家嘴集团合作开发包括6栋国际甲级写字楼、6.8万平方米的全新购物中心，以及11万平方米的住宅晶耀前滩的商业部分CRYSTAL PLAZA于2019年8月开始试营业，提供全球美食餐饮、国际化生活方式、精品买手集合零售、国际超市等多元业态建筑设计世界著名建筑事务所KPF创始人之一威廉·佩特森（William Pedersen）亲自操刀，建筑整体呈水晶状集合造型，线条干净利落晶耀前滩以其独特的空间结构布局设计和大量的户外空间布局，为商业提供了理想的布局，旨在服务于在其中工作和生活的人们",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 6.8,
+    "open_date": "2019-08-23",
+    "operator": "铁狮门房地产咨询（北京）有限公司",
+    "brand": "",
+    "type": "美食型",
+    "floors": "L1-L3"
+  },
+  "traffic": {
+    "annual_daily": 2.65,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第101",
+    "jun_total": 119.4,
+    "jun_total_rank": "市内商场第96名",
+    "jun_daily_avg": 4.0,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第96名",
+    "weekday_avg": 3.8,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第91名",
+    "holiday_avg": 4.5,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第102名"
+  },
+  "population": {
+    "residential": {
+      "500m": 8100.0,
+      "1_5km": 6.3,
+      "3km": 48.1
+    },
+    "office": {
+      "500m": 2.7,
+      "1_5km": 8.0,
+      "3km": 30.3
+    },
+    "permanent": {
+      "500m": 2.0,
+      "1_5km": 8.2,
+      "3km": 49.3
+    }
+  },
+  "business": {
+    "competitors": 15.0,
+    "food": 247.0,
+    "shopping": 255.0,
+    "leisure": 16.0,
+    "education": 16.0,
+    "hotel": 8.0,
+    "services": 73.0,
+    "fitness": 34.0,
+    "auto": 13.0,
+    "total_stores": 184.0,
+    "old_store_3yr_pct": 51.0
+  },
+  "nearby_poi": {
+    "business": 6.0,
+    "community": 278.0,
+    "office": 19.0,
+    "school": 12.0,
+    "hospital": 35.0,
+    "transport": 10.0,
+    "scenic": 131.0
+  },
+  "demographics": {
+    "male_pct": 48.3,
+    "female_pct": null,
+    "education": {
+      "小学": 9.6,
+      "初中": 17.9,
+      "高中": 11.1,
+      "大专": 7.7,
+      "本科": 46.6,
+      "硕士": 5.6,
+      "博士": 1.5
+    },
+    "has_children_pct": 67.8,
+    "no_children_pct": 32.2
+  },
+  "scraped_at": "2026-07-31T12:58:17.318Z",
+  "nearby_restaurants": [
+    {
+      "brand": "星洲小馆·新加坡料理(晶耀前滩店)",
+      "address": "三林镇耀体路308号晶耀前滩东区2层L248号",
+      "distance": "23m"
+    },
+    {
+      "brand": "DQ·蛋糕·冰淇淋(上海晶耀前滩店)",
+      "address": "耀体路308号晶耀前滩负一层B026K",
+      "distance": "35m"
+    },
+    {
+      "brand": "荣先森·福建小馆(晶耀前滩Crystal Plaza店)",
+      "address": "三林镇耀体路308号晶耀前滩北区209",
+      "distance": "36m"
+    },
+    {
+      "brand": "臻选星巴克专星送(上海晶耀前滩店)",
+      "address": "耀体路212号1层L119室",
+      "distance": "37m"
+    },
+    {
+      "brand": "沼津港精致料理·寿喜烧·烧鸟(晶耀前滩店)",
+      "address": "耀体路308号晶耀前滩Crystal Plaza F2层",
+      "distance": "37m"
+    },
+    {
+      "brand": "潮界(晶耀前滩店)",
+      "address": "中国(上海)自由贸易试验区耀体路308号B1层B149C单元",
+      "distance": "39m"
+    },
+    {
+      "brand": "云上TO CLOUD云南菜",
+      "address": "耀体路308号晶耀前滩Crystal Plaza F1层",
+      "distance": "40m"
+    },
+    {
+      "brand": "盡膳口福跷脚牛肉火锅(晶耀前滩店)",
+      "address": "耀体路308号晶耀前滩商城东区2层",
+      "distance": "41m"
+    },
+    {
+      "brand": "鹅岛餐厅",
+      "address": "三林镇耀体路308号晶耀前滩东区一楼L120商铺",
+      "distance": "41m"
+    },
+    {
+      "brand": "怒小咖nunucoffee(晶耀前滩店)",
+      "address": "耀体路308号晶耀前滩西区F1层",
+      "distance": "46m"
+    },
+    {
+      "brand": "星洲小馆·新加坡料理(晶耀前滩店)",
+      "address": "三林镇耀体路308号晶耀前滩东区2层L248号",
+      "distance": "23m"
+    },
+    {
+      "brand": "DQ·蛋糕·冰淇淋(上海晶耀前滩店)",
+      "address": "耀体路308号晶耀前滩负一层B026K",
+      "distance": "35m"
+    },
+    {
+      "brand": "荣先森·福建小馆(晶耀前滩Crystal Plaza店)",
+      "address": "三林镇耀体路308号晶耀前滩北区209",
+      "distance": "36m"
+    },
+    {
+      "brand": "臻选星巴克专星送(上海晶耀前滩店)",
+      "address": "耀体路212号1层L119室",
+      "distance": "37m"
+    },
+    {
+      "brand": "沼津港精致料理·寿喜烧·烧鸟(晶耀前滩店)",
+      "address": "耀体路308号晶耀前滩Crystal Plaza F2层",
+      "distance": "37m"
+    },
+    {
+      "brand": "潮界(晶耀前滩店)",
+      "address": "中国(上海)自由贸易试验区耀体路308号B1层B149C单元",
+      "distance": "39m"
+    },
+    {
+      "brand": "云上TO CLOUD云南菜",
+      "address": "耀体路308号晶耀前滩Crystal Plaza F1层",
+      "distance": "40m"
+    },
+    {
+      "brand": "盡膳口福跷脚牛肉火锅(晶耀前滩店)",
+      "address": "耀体路308号晶耀前滩商城东区2层",
+      "distance": "41m"
+    },
+    {
+      "brand": "鹅岛餐厅",
+      "address": "三林镇耀体路308号晶耀前滩东区一楼L120商铺",
+      "distance": "41m"
+    },
+    {
+      "brand": "怒小咖nunucoffee(晶耀前滩店)",
+      "address": "耀体路308号晶耀前滩西区F1层",
+      "distance": "46m"
+    },
+    {
+      "brand": "星洲小馆·新加坡料理(晶耀前滩店)",
+      "address": "三林镇耀体路308号晶耀前滩东区2层L248号",
+      "distance": "23m"
+    },
+    {
+      "brand": "DQ·蛋糕·冰淇淋(上海晶耀前滩店)",
+      "address": "耀体路308号晶耀前滩负一层B026K",
+      "distance": "35m"
+    },
+    {
+      "brand": "荣先森·福建小馆(晶耀前滩Crystal Plaza店)",
+      "address": "三林镇耀体路308号晶耀前滩北区209",
+      "distance": "36m"
+    },
+    {
+      "brand": "臻选星巴克专星送(上海晶耀前滩店)",
+      "address": "耀体路212号1层L119室",
+      "distance": "37m"
+    },
+    {
+      "brand": "沼津港精致料理·寿喜烧·烧鸟(晶耀前滩店)",
+      "address": "耀体路308号晶耀前滩Crystal Plaza F2层",
+      "distance": "37m"
+    },
+    {
+      "brand": "潮界(晶耀前滩店)",
+      "address": "中国(上海)自由贸易试验区耀体路308号B1层B149C单元",
+      "distance": "39m"
+    },
+    {
+      "brand": "云上TO CLOUD云南菜",
+      "address": "耀体路308号晶耀前滩Crystal Plaza F1层",
+      "distance": "40m"
+    },
+    {
+      "brand": "盡膳口福跷脚牛肉火锅(晶耀前滩店)",
+      "address": "耀体路308号晶耀前滩商城东区2层",
+      "distance": "41m"
+    },
+    {
+      "brand": "鹅岛餐厅",
+      "address": "三林镇耀体路308号晶耀前滩东区一楼L120商铺",
+      "distance": "41m"
+    },
+    {
+      "brand": "怒小咖nunucoffee(晶耀前滩店)",
+      "address": "耀体路308号晶耀前滩西区F1层",
+      "distance": "46m"
+    },
+    {
+      "brand": "星洲小馆·新加坡料理(晶耀前滩店)",
+      "address": "三林镇耀体路308号晶耀前滩东区2层L248号",
+      "distance": "23m"
+    },
+    {
+      "brand": "DQ·蛋糕·冰淇淋(上海晶耀前滩店)",
+      "address": "耀体路308号晶耀前滩负一层B026K",
+      "distance": "35m"
+    },
+    {
+      "brand": "荣先森·福建小馆(晶耀前滩Crystal Plaza店)",
+      "address": "三林镇耀体路308号晶耀前滩北区209",
+      "distance": "36m"
+    },
+    {
+      "brand": "臻选星巴克专星送(上海晶耀前滩店)",
+      "address": "耀体路212号1层L119室",
+      "distance": "37m"
+    },
+    {
+      "brand": "沼津港精致料理·寿喜烧·烧鸟(晶耀前滩店)",
+      "address": "耀体路308号晶耀前滩Crystal Plaza F2层",
+      "distance": "37m"
+    },
+    {
+      "brand": "潮界(晶耀前滩店)",
+      "address": "中国(上海)自由贸易试验区耀体路308号B1层B149C单元",
+      "distance": "39m"
+    },
+    {
+      "brand": "云上TO CLOUD云南菜",
+      "address": "耀体路308号晶耀前滩Crystal Plaza F1层",
+      "distance": "40m"
+    },
+    {
+      "brand": "盡膳口福跷脚牛肉火锅(晶耀前滩店)",
+      "address": "耀体路308号晶耀前滩商城东区2层",
+      "distance": "41m"
+    },
+    {
+      "brand": "鹅岛餐厅",
+      "address": "三林镇耀体路308号晶耀前滩东区一楼L120商铺",
+      "distance": "41m"
+    },
+    {
+      "brand": "怒小咖nunucoffee(晶耀前滩店)",
+      "address": "耀体路308号晶耀前滩西区F1层",
+      "distance": "46m"
+    },
+    {
+      "brand": "星洲小馆·新加坡料理(晶耀前滩店)",
+      "address": "三林镇耀体路308号晶耀前滩东区2层L248号",
+      "distance": "23m"
+    },
+    {
+      "brand": "DQ·蛋糕·冰淇淋(上海晶耀前滩店)",
+      "address": "耀体路308号晶耀前滩负一层B026K",
+      "distance": "35m"
+    },
+    {
+      "brand": "荣先森·福建小馆(晶耀前滩Crystal Plaza店)",
+      "address": "三林镇耀体路308号晶耀前滩北区209",
+      "distance": "36m"
+    },
+    {
+      "brand": "臻选星巴克专星送(上海晶耀前滩店)",
+      "address": "耀体路212号1层L119室",
+      "distance": "37m"
+    },
+    {
+      "brand": "沼津港精致料理·寿喜烧·烧鸟(晶耀前滩店)",
+      "address": "耀体路308号晶耀前滩Crystal Plaza F2层",
+      "distance": "37m"
+    },
+    {
+      "brand": "潮界(晶耀前滩店)",
+      "address": "中国(上海)自由贸易试验区耀体路308号B1层B149C单元",
+      "distance": "39m"
+    },
+    {
+      "brand": "云上TO CLOUD云南菜",
+      "address": "耀体路308号晶耀前滩Crystal Plaza F1层",
+      "distance": "40m"
+    },
+    {
+      "brand": "盡膳口福跷脚牛肉火锅(晶耀前滩店)",
+      "address": "耀体路308号晶耀前滩商城东区2层",
+      "distance": "41m"
+    },
+    {
+      "brand": "鹅岛餐厅",
+      "address": "三林镇耀体路308号晶耀前滩东区一楼L120商铺",
+      "distance": "41m"
+    },
+    {
+      "brand": "怒小咖nunucoffee(晶耀前滩店)",
+      "address": "耀体路308号晶耀前滩西区F1层",
+      "distance": "46m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海前滩太古里",
+      "open_date": "2021-09-30",
+      "area": "12万㎡",
+      "jun_daily_avg": "7.6万人次",
+      "weekday_avg": "7万人次",
+      "holiday_avg": "9.4万人次"
+    },
+    {
+      "name": "上海前难L+PLAZA陆家嘴广场",
+      "open_date": "2023-01-01",
+      "area": "3.1万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海前滩31乐荟",
+      "open_date": "2023-04-01",
+      "area": "4万㎡",
+      "jun_daily_avg": "1.1万人次",
+      "weekday_avg": "1万人次",
+      "holiday_avg": "1.4万人次"
+    },
+    {
+      "name": "上海陆悦汇",
+      "open_date": "2022-10-10",
+      "area": "3.4万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海森宏购物广场",
+      "open_date": "2010-01-01",
+      "area": "5万㎡",
+      "jun_daily_avg": "1.7万人次",
+      "weekday_avg": "1.6万人次",
+      "holiday_avg": "2万人次"
+    },
+    {
+      "name": "上海Gate M西岸梦中心",
+      "open_date": "2024-09-26",
+      "area": "10万㎡",
+      "jun_daily_avg": "5.7万人次",
+      "weekday_avg": "4.9万人次",
+      "holiday_avg": "7.9万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 81.0,
+      "within_1yr_pct": 12.3,
+      "1_3yr_pct": 37.0,
+      "over_3yr_pct": 50.6
+    },
+    {
+      "type": "购物",
+      "count": 57.0,
+      "within_1yr_pct": 15.8,
+      "1_3yr_pct": 28.1,
+      "over_3yr_pct": 56.1
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 10.0,
+      "within_1yr_pct": 40.0,
+      "1_3yr_pct": 20.0,
+      "over_3yr_pct": 40.0
+    },
+    {
+      "type": "教育培训",
+      "count": 5.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 20.0,
+      "over_3yr_pct": 80.0
+    },
+    {
+      "type": "生活服务",
+      "count": 23.0,
+      "within_1yr_pct": 30.4,
+      "1_3yr_pct": 26.1,
+      "over_3yr_pct": 43.5
+    },
+    {
+      "type": "运动健身",
+      "count": 5.0,
+      "within_1yr_pct": 40.0,
+      "1_3yr_pct": 20.0,
+      "over_3yr_pct": 40.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 3.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 33.3
+    }
+  ]
+}

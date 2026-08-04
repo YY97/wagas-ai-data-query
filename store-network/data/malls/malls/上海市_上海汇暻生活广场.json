@@ -1,0 +1,456 @@
+{
+  "name": "上海汇暻生活广场",
+  "city": "上海市",
+  "address": "上海市黄浦区五里桥街道汇暻生活广场",
+  "lat": 31.198646,
+  "lng": 121.47785,
+  "overview": {
+    "score": 73.4,
+    "score_rank": "市内前70%",
+    "population_score": 100.0,
+    "area_score": 84.5,
+    "consumption_score": 85.6,
+    "industry_score": 73.2,
+    "annual_sales": "汇暻生活广场位于上海城南的打浦桥区域，临近黄浦江和浦西世博园区域，紧邻上海市内交通主干道内环高架和南北高架，处于上海市内环周边黄金地段，地理位置优越该广场是一个集餐饮、休闲、娱乐、购物为一体的高品质社区型生活广场，占地35000平方米，提供一站式购物理念交通便利，地铁4号线鲁班路站可直达商场B2层，周边即有21条公交线路，停车位充裕，是绝佳的购物休闲场所广场内入驻了H&M、ZARA、NEW BALANCE、NIKE等时尚品牌，味千拉面、肯德基、五芳斋、小杨生煎等知名餐饮，永辉超市、瑞尔齿科等配套设施，极具潜力",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 3.5,
+    "open_date": "2012-01-01",
+    "operator": "上海璟合实业有限公司",
+    "brand": "上海金叠房地产开发有限公司",
+    "type": "综合型",
+    "floors": "B3-L4"
+  },
+  "traffic": {
+    "annual_daily": 3288.0,
+    "annual_daily_unit": "人次",
+    "annual_daily_rank": "市内第428",
+    "jun_total": 6.2,
+    "jun_total_rank": "市内商场第533名",
+    "jun_daily_avg": 2059.0,
+    "jun_daily_unit": "人次",
+    "jun_daily_rank": "市内商场第533名",
+    "weekday_avg": 2128.0,
+    "weekday_unit": "人次",
+    "weekday_rank": "市内商场第526名",
+    "holiday_avg": 1868.0,
+    "holiday_unit": "人次",
+    "holiday_rank": "市内商场第542名"
+  },
+  "population": {
+    "residential": {
+      "500m": 4.0,
+      "1_5km": 28.6,
+      "3km": 79.6
+    },
+    "office": {
+      "500m": 3.6,
+      "1_5km": 20.3,
+      "3km": 71.5
+    },
+    "permanent": {
+      "500m": 4.6,
+      "1_5km": 30.7,
+      "3km": 88.8
+    }
+  },
+  "business": {
+    "competitors": 13.0,
+    "food": 258.0,
+    "shopping": 171.0,
+    "leisure": 14.0,
+    "education": 24.0,
+    "hotel": 31.0,
+    "services": 135.0,
+    "fitness": 17.0,
+    "auto": 14.0,
+    "total_stores": 23.0,
+    "old_store_3yr_pct": 65.0
+  },
+  "nearby_poi": {
+    "business": 8.0,
+    "community": 822.0,
+    "office": 107.0,
+    "school": 61.0,
+    "hospital": 131.0,
+    "transport": 21.0,
+    "scenic": 470.0
+  },
+  "demographics": {
+    "male_pct": 51.4,
+    "female_pct": null,
+    "education": {
+      "小学": 9.4,
+      "初中": 17.0,
+      "高中": 11.5,
+      "大专": 7.2,
+      "本科": 47.4,
+      "硕士": 5.8,
+      "博士": 1.7
+    },
+    "has_children_pct": 61.7,
+    "no_children_pct": 38.3
+  },
+  "scraped_at": "2026-07-31T16:45:13.227Z",
+  "nearby_restaurants": [
+    {
+      "brand": "淮南牛肉汤·特色锅贴(汇暻生活广场店)",
+      "address": "瞿溪路988号汇暻生活广场B1层",
+      "distance": "13m"
+    },
+    {
+      "brand": "谷田稻香(汇暻生活广场店)",
+      "address": "鲁班路615号汇暻广场1楼",
+      "distance": "44m"
+    },
+    {
+      "brand": "星巴克(汇暻生活广场)",
+      "address": "鲁班路615号汇暻生活广场1楼",
+      "distance": "47m"
+    },
+    {
+      "brand": "大富贵酒楼(鲁班店)",
+      "address": "鲁班路615号105-106室",
+      "distance": "74m"
+    },
+    {
+      "brand": "好肉来",
+      "address": "汇暻生活广场出入口通往地铁旁",
+      "distance": "101m"
+    },
+    {
+      "brand": "山林大红(瞿溪路店)",
+      "address": "瞿溪路1009号",
+      "distance": "102m"
+    },
+    {
+      "brand": "稻草鹅(瞿溪路1003弄小区店)",
+      "address": "鲁班路1013号(鲁班路地铁站2号口步行90米)",
+      "distance": "111m"
+    },
+    {
+      "brand": "盛阳冷饮批发(瞿溪路店)",
+      "address": "瞿溪路1003弄1-4号瞿溪路1003弄小区",
+      "distance": "113m"
+    },
+    {
+      "brand": "丰裕生煎(鲁班店)",
+      "address": "五里桥街道鲁班路529号(鲁班路地铁站2号口步行110米)",
+      "distance": "121m"
+    },
+    {
+      "brand": "雨润优选(江南新苑店)",
+      "address": "瞿溪路926弄3-9号江南新苑",
+      "distance": "124m"
+    },
+    {
+      "brand": "淮南牛肉汤·特色锅贴(汇暻生活广场店)",
+      "address": "瞿溪路988号汇暻生活广场B1层",
+      "distance": "13m"
+    },
+    {
+      "brand": "谷田稻香(汇暻生活广场店)",
+      "address": "鲁班路615号汇暻广场1楼",
+      "distance": "44m"
+    },
+    {
+      "brand": "星巴克(汇暻生活广场)",
+      "address": "鲁班路615号汇暻生活广场1楼",
+      "distance": "47m"
+    },
+    {
+      "brand": "大富贵酒楼(鲁班店)",
+      "address": "鲁班路615号105-106室",
+      "distance": "74m"
+    },
+    {
+      "brand": "好肉来",
+      "address": "汇暻生活广场出入口通往地铁旁",
+      "distance": "101m"
+    },
+    {
+      "brand": "山林大红(瞿溪路店)",
+      "address": "瞿溪路1009号",
+      "distance": "102m"
+    },
+    {
+      "brand": "稻草鹅(瞿溪路1003弄小区店)",
+      "address": "鲁班路1013号(鲁班路地铁站2号口步行90米)",
+      "distance": "111m"
+    },
+    {
+      "brand": "盛阳冷饮批发(瞿溪路店)",
+      "address": "瞿溪路1003弄1-4号瞿溪路1003弄小区",
+      "distance": "113m"
+    },
+    {
+      "brand": "丰裕生煎(鲁班店)",
+      "address": "五里桥街道鲁班路529号(鲁班路地铁站2号口步行110米)",
+      "distance": "121m"
+    },
+    {
+      "brand": "雨润优选(江南新苑店)",
+      "address": "瞿溪路926弄3-9号江南新苑",
+      "distance": "124m"
+    },
+    {
+      "brand": "淮南牛肉汤·特色锅贴(汇暻生活广场店)",
+      "address": "瞿溪路988号汇暻生活广场B1层",
+      "distance": "13m"
+    },
+    {
+      "brand": "谷田稻香(汇暻生活广场店)",
+      "address": "鲁班路615号汇暻广场1楼",
+      "distance": "44m"
+    },
+    {
+      "brand": "星巴克(汇暻生活广场)",
+      "address": "鲁班路615号汇暻生活广场1楼",
+      "distance": "47m"
+    },
+    {
+      "brand": "大富贵酒楼(鲁班店)",
+      "address": "鲁班路615号105-106室",
+      "distance": "74m"
+    },
+    {
+      "brand": "好肉来",
+      "address": "汇暻生活广场出入口通往地铁旁",
+      "distance": "101m"
+    },
+    {
+      "brand": "山林大红(瞿溪路店)",
+      "address": "瞿溪路1009号",
+      "distance": "102m"
+    },
+    {
+      "brand": "稻草鹅(瞿溪路1003弄小区店)",
+      "address": "鲁班路1013号(鲁班路地铁站2号口步行90米)",
+      "distance": "111m"
+    },
+    {
+      "brand": "盛阳冷饮批发(瞿溪路店)",
+      "address": "瞿溪路1003弄1-4号瞿溪路1003弄小区",
+      "distance": "113m"
+    },
+    {
+      "brand": "丰裕生煎(鲁班店)",
+      "address": "五里桥街道鲁班路529号(鲁班路地铁站2号口步行110米)",
+      "distance": "121m"
+    },
+    {
+      "brand": "雨润优选(江南新苑店)",
+      "address": "瞿溪路926弄3-9号江南新苑",
+      "distance": "124m"
+    },
+    {
+      "brand": "淮南牛肉汤·特色锅贴(汇暻生活广场店)",
+      "address": "瞿溪路988号汇暻生活广场B1层",
+      "distance": "13m"
+    },
+    {
+      "brand": "谷田稻香(汇暻生活广场店)",
+      "address": "鲁班路615号汇暻广场1楼",
+      "distance": "44m"
+    },
+    {
+      "brand": "星巴克(汇暻生活广场)",
+      "address": "鲁班路615号汇暻生活广场1楼",
+      "distance": "47m"
+    },
+    {
+      "brand": "大富贵酒楼(鲁班店)",
+      "address": "鲁班路615号105-106室",
+      "distance": "74m"
+    },
+    {
+      "brand": "好肉来",
+      "address": "汇暻生活广场出入口通往地铁旁",
+      "distance": "101m"
+    },
+    {
+      "brand": "山林大红(瞿溪路店)",
+      "address": "瞿溪路1009号",
+      "distance": "102m"
+    },
+    {
+      "brand": "稻草鹅(瞿溪路1003弄小区店)",
+      "address": "鲁班路1013号(鲁班路地铁站2号口步行90米)",
+      "distance": "111m"
+    },
+    {
+      "brand": "盛阳冷饮批发(瞿溪路店)",
+      "address": "瞿溪路1003弄1-4号瞿溪路1003弄小区",
+      "distance": "113m"
+    },
+    {
+      "brand": "丰裕生煎(鲁班店)",
+      "address": "五里桥街道鲁班路529号(鲁班路地铁站2号口步行110米)",
+      "distance": "121m"
+    },
+    {
+      "brand": "雨润优选(江南新苑店)",
+      "address": "瞿溪路926弄3-9号江南新苑",
+      "distance": "124m"
+    },
+    {
+      "brand": "淮南牛肉汤·特色锅贴(汇暻生活广场店)",
+      "address": "瞿溪路988号汇暻生活广场B1层",
+      "distance": "13m"
+    },
+    {
+      "brand": "谷田稻香(汇暻生活广场店)",
+      "address": "鲁班路615号汇暻广场1楼",
+      "distance": "44m"
+    },
+    {
+      "brand": "星巴克(汇暻生活广场)",
+      "address": "鲁班路615号汇暻生活广场1楼",
+      "distance": "47m"
+    },
+    {
+      "brand": "大富贵酒楼(鲁班店)",
+      "address": "鲁班路615号105-106室",
+      "distance": "74m"
+    },
+    {
+      "brand": "好肉来",
+      "address": "汇暻生活广场出入口通往地铁旁",
+      "distance": "101m"
+    },
+    {
+      "brand": "山林大红(瞿溪路店)",
+      "address": "瞿溪路1009号",
+      "distance": "102m"
+    },
+    {
+      "brand": "稻草鹅(瞿溪路1003弄小区店)",
+      "address": "鲁班路1013号(鲁班路地铁站2号口步行90米)",
+      "distance": "111m"
+    },
+    {
+      "brand": "盛阳冷饮批发(瞿溪路店)",
+      "address": "瞿溪路1003弄1-4号瞿溪路1003弄小区",
+      "distance": "113m"
+    },
+    {
+      "brand": "丰裕生煎(鲁班店)",
+      "address": "五里桥街道鲁班路529号(鲁班路地铁站2号口步行110米)",
+      "distance": "121m"
+    },
+    {
+      "brand": "雨润优选(江南新苑店)",
+      "address": "瞿溪路926弄3-9号江南新苑",
+      "distance": "124m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海博荟广场ONE EAST",
+      "open_date": "2021-12-31",
+      "area": "7.5万㎡",
+      "jun_daily_avg": "5.7万人次",
+      "weekday_avg": "6.2万人次",
+      "holiday_avg": "4.4万人次"
+    },
+    {
+      "name": "上海歌斐中心",
+      "open_date": "2016-01-01",
+      "area": "2.8万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海黄浦绿地缤纷城",
+      "open_date": "2018-06-27",
+      "area": "4.9万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海日月光中心",
+      "open_date": "2010-06-18",
+      "area": "14万㎡",
+      "jun_daily_avg": "11.1万人次",
+      "weekday_avg": "11.3万人次",
+      "holiday_avg": "10.4万人次"
+    },
+    {
+      "name": "上海LuOne凯德晶萃广场",
+      "open_date": "2018-09-22",
+      "area": "13万㎡",
+      "jun_daily_avg": "3.1万人次",
+      "weekday_avg": "3.1万人次",
+      "holiday_avg": "3.3万人次"
+    },
+    {
+      "name": "田子坊",
+      "open_date": "1998-01-01",
+      "area": "3万㎡",
+      "jun_daily_avg": "1.3万人次",
+      "weekday_avg": "1.2万人次",
+      "holiday_avg": "1.6万人次"
+    },
+    {
+      "name": "上海中海环宇荟",
+      "open_date": "2018-07-02",
+      "area": "3万㎡",
+      "jun_daily_avg": "2万人次",
+      "weekday_avg": "2.1万人次",
+      "holiday_avg": "1.6万人次"
+    },
+    {
+      "name": "上海恒基·旭辉天地",
+      "open_date": "2021-04-30",
+      "area": "1万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 4.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    },
+    {
+      "type": "购物",
+      "count": 3.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 66.7
+    },
+    {
+      "type": "教育培训",
+      "count": 2.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 5.0,
+      "within_1yr_pct": 40.0,
+      "1_3yr_pct": 20.0,
+      "over_3yr_pct": 40.0
+    },
+    {
+      "type": "生活服务",
+      "count": 8.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 75.0
+    },
+    {
+      "type": "运动健身",
+      "count": 1.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
+    }
+  ]
+}

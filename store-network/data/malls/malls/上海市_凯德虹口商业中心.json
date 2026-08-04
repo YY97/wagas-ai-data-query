@@ -1,0 +1,455 @@
+{
+  "name": "凯德虹口商业中心",
+  "city": "上海市",
+  "address": "上海市虹口区花园路388号",
+  "lat": 31.270869,
+  "lng": 121.477868,
+  "overview": {
+    "score": 96.9,
+    "score_rank": "市内前30%",
+    "population_score": 92.8,
+    "area_score": 91.1,
+    "consumption_score": 76.8,
+    "industry_score": 96.9,
+    "annual_sales": "20",
+    "annual_sales_unit": "亿元",
+    "area_size_sqm": 17.3,
+    "open_date": "2010-01-01",
+    "operator": "凯德置地（中国）投资有限公司",
+    "brand": "凯德",
+    "type": "综合型",
+    "floors": "B2-L7"
+  },
+  "traffic": {
+    "annual_daily": 6.98,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第6",
+    "jun_total": 226.5,
+    "jun_total_rank": "市内商场第19名",
+    "jun_daily_avg": 7.5,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第19名",
+    "weekday_avg": 7.1,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第15名",
+    "holiday_avg": 8.8,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第32名"
+  },
+  "population": {
+    "residential": {
+      "500m": 2.7,
+      "1_5km": 34.5,
+      "3km": 121.7
+    },
+    "office": {
+      "500m": 2.9,
+      "1_5km": 16.9,
+      "3km": 69.2
+    },
+    "permanent": {
+      "500m": 3.8,
+      "1_5km": 35.3,
+      "3km": 124.0
+    }
+  },
+  "business": {
+    "competitors": 11.0,
+    "food": 341.0,
+    "shopping": 234.0,
+    "leisure": 44.0,
+    "education": 72.0,
+    "hotel": 14.0,
+    "services": 266.0,
+    "fitness": 49.0,
+    "auto": 23.0,
+    "total_stores": 357.0,
+    "old_store_3yr_pct": 49.0
+  },
+  "nearby_poi": {
+    "business": 7.0,
+    "community": 922.0,
+    "office": 98.0,
+    "school": 75.0,
+    "hospital": 111.0,
+    "transport": 12.0,
+    "scenic": 259.0
+  },
+  "demographics": {
+    "male_pct": 48.1,
+    "female_pct": null,
+    "education": {
+      "小学": 9.2,
+      "初中": 18.4,
+      "高中": 12.4,
+      "大专": 7.0,
+      "本科": 46.6,
+      "硕士": 4.7,
+      "博士": 1.7
+    },
+    "has_children_pct": 67.2,
+    "no_children_pct": 32.8
+  },
+  "scraped_at": "2026-07-31T12:37:29.104Z",
+  "nearby_restaurants": [
+    {
+      "brand": "寿司郎(凯德虹口商业中心店)",
+      "address": "花园路388号凯德虹口商业中心A座5层(虹口足球场地铁站出入口步行240米)",
+      "distance": "4m"
+    },
+    {
+      "brand": "煲仔皇(虹口龙之梦店)",
+      "address": "西江湾路388号凯德虹口商业中心B2层",
+      "distance": "8m"
+    },
+    {
+      "brand": "迷丝卷Ms.Juan(虹口龙之梦店)",
+      "address": "西江湾路388号凯德虹口商业中心A座B2层",
+      "distance": "9m"
+    },
+    {
+      "brand": "太善南洋茶餐厅(虹口龙之梦店)",
+      "address": "西江湾路388号凯德龙之梦B座B2层81号",
+      "distance": "10m"
+    },
+    {
+      "brand": "云海肴云南菜(虹口龙之梦店)",
+      "address": "凯德虹口商业中心B座B2层79A室云海肴云南菜(火车头/太二旁边)",
+      "distance": "10m"
+    },
+    {
+      "brand": "鱼酷活鱼烤鱼(鱼酷Pro虹口龙之梦店)",
+      "address": "西江湾路388号凯德龙之梦虹口B2层82/83号",
+      "distance": "11m"
+    },
+    {
+      "brand": "T0炭火烧肉",
+      "address": "西江湾路388号凯德虹口商业中心A座",
+      "distance": "11m"
+    },
+    {
+      "brand": "聚鲜菌·菌子火锅(凯德虹口商业中心店)",
+      "address": "西江湾路388号凯德虹口商业中心A座B1层",
+      "distance": "12m"
+    },
+    {
+      "brand": "太二酸菜鱼(龙马环球凯德龙之梦店)",
+      "address": "西江湾路388号凯德龙之梦B座B2层80号",
+      "distance": "12m"
+    },
+    {
+      "brand": "欢喜花生(虹口龙之梦B2欢囍店)",
+      "address": "西江湾路388号(虹口凯德龙之梦A座)B2层欢囍花生店铺",
+      "distance": "13m"
+    },
+    {
+      "brand": "寿司郎(凯德虹口商业中心店)",
+      "address": "花园路388号凯德虹口商业中心A座5层(虹口足球场地铁站出入口步行240米)",
+      "distance": "4m"
+    },
+    {
+      "brand": "煲仔皇(虹口龙之梦店)",
+      "address": "西江湾路388号凯德虹口商业中心B2层",
+      "distance": "8m"
+    },
+    {
+      "brand": "迷丝卷Ms.Juan(虹口龙之梦店)",
+      "address": "西江湾路388号凯德虹口商业中心A座B2层",
+      "distance": "9m"
+    },
+    {
+      "brand": "太善南洋茶餐厅(虹口龙之梦店)",
+      "address": "西江湾路388号凯德龙之梦B座B2层81号",
+      "distance": "10m"
+    },
+    {
+      "brand": "云海肴云南菜(虹口龙之梦店)",
+      "address": "凯德虹口商业中心B座B2层79A室云海肴云南菜(火车头/太二旁边)",
+      "distance": "10m"
+    },
+    {
+      "brand": "鱼酷活鱼烤鱼(鱼酷Pro虹口龙之梦店)",
+      "address": "西江湾路388号凯德龙之梦虹口B2层82/83号",
+      "distance": "11m"
+    },
+    {
+      "brand": "T0炭火烧肉",
+      "address": "西江湾路388号凯德虹口商业中心A座",
+      "distance": "11m"
+    },
+    {
+      "brand": "聚鲜菌·菌子火锅(凯德虹口商业中心店)",
+      "address": "西江湾路388号凯德虹口商业中心A座B1层",
+      "distance": "12m"
+    },
+    {
+      "brand": "太二酸菜鱼(龙马环球凯德龙之梦店)",
+      "address": "西江湾路388号凯德龙之梦B座B2层80号",
+      "distance": "12m"
+    },
+    {
+      "brand": "欢喜花生(虹口龙之梦B2欢囍店)",
+      "address": "西江湾路388号(虹口凯德龙之梦A座)B2层欢囍花生店铺",
+      "distance": "13m"
+    },
+    {
+      "brand": "寿司郎(凯德虹口商业中心店)",
+      "address": "花园路388号凯德虹口商业中心A座5层(虹口足球场地铁站出入口步行240米)",
+      "distance": "4m"
+    },
+    {
+      "brand": "煲仔皇(虹口龙之梦店)",
+      "address": "西江湾路388号凯德虹口商业中心B2层",
+      "distance": "8m"
+    },
+    {
+      "brand": "迷丝卷Ms.Juan(虹口龙之梦店)",
+      "address": "西江湾路388号凯德虹口商业中心A座B2层",
+      "distance": "9m"
+    },
+    {
+      "brand": "太善南洋茶餐厅(虹口龙之梦店)",
+      "address": "西江湾路388号凯德龙之梦B座B2层81号",
+      "distance": "10m"
+    },
+    {
+      "brand": "云海肴云南菜(虹口龙之梦店)",
+      "address": "凯德虹口商业中心B座B2层79A室云海肴云南菜(火车头/太二旁边)",
+      "distance": "10m"
+    },
+    {
+      "brand": "鱼酷活鱼烤鱼(鱼酷Pro虹口龙之梦店)",
+      "address": "西江湾路388号凯德龙之梦虹口B2层82/83号",
+      "distance": "11m"
+    },
+    {
+      "brand": "T0炭火烧肉",
+      "address": "西江湾路388号凯德虹口商业中心A座",
+      "distance": "11m"
+    },
+    {
+      "brand": "聚鲜菌·菌子火锅(凯德虹口商业中心店)",
+      "address": "西江湾路388号凯德虹口商业中心A座B1层",
+      "distance": "12m"
+    },
+    {
+      "brand": "太二酸菜鱼(龙马环球凯德龙之梦店)",
+      "address": "西江湾路388号凯德龙之梦B座B2层80号",
+      "distance": "12m"
+    },
+    {
+      "brand": "欢喜花生(虹口龙之梦B2欢囍店)",
+      "address": "西江湾路388号(虹口凯德龙之梦A座)B2层欢囍花生店铺",
+      "distance": "13m"
+    },
+    {
+      "brand": "寿司郎(凯德虹口商业中心店)",
+      "address": "花园路388号凯德虹口商业中心A座5层(虹口足球场地铁站出入口步行240米)",
+      "distance": "4m"
+    },
+    {
+      "brand": "煲仔皇(虹口龙之梦店)",
+      "address": "西江湾路388号凯德虹口商业中心B2层",
+      "distance": "8m"
+    },
+    {
+      "brand": "迷丝卷Ms.Juan(虹口龙之梦店)",
+      "address": "西江湾路388号凯德虹口商业中心A座B2层",
+      "distance": "9m"
+    },
+    {
+      "brand": "太善南洋茶餐厅(虹口龙之梦店)",
+      "address": "西江湾路388号凯德龙之梦B座B2层81号",
+      "distance": "10m"
+    },
+    {
+      "brand": "云海肴云南菜(虹口龙之梦店)",
+      "address": "凯德虹口商业中心B座B2层79A室云海肴云南菜(火车头/太二旁边)",
+      "distance": "10m"
+    },
+    {
+      "brand": "鱼酷活鱼烤鱼(鱼酷Pro虹口龙之梦店)",
+      "address": "西江湾路388号凯德龙之梦虹口B2层82/83号",
+      "distance": "11m"
+    },
+    {
+      "brand": "T0炭火烧肉",
+      "address": "西江湾路388号凯德虹口商业中心A座",
+      "distance": "11m"
+    },
+    {
+      "brand": "聚鲜菌·菌子火锅(凯德虹口商业中心店)",
+      "address": "西江湾路388号凯德虹口商业中心A座B1层",
+      "distance": "12m"
+    },
+    {
+      "brand": "太二酸菜鱼(龙马环球凯德龙之梦店)",
+      "address": "西江湾路388号凯德龙之梦B座B2层80号",
+      "distance": "12m"
+    },
+    {
+      "brand": "欢喜花生(虹口龙之梦B2欢囍店)",
+      "address": "西江湾路388号(虹口凯德龙之梦A座)B2层欢囍花生店铺",
+      "distance": "13m"
+    },
+    {
+      "brand": "寿司郎(凯德虹口商业中心店)",
+      "address": "花园路388号凯德虹口商业中心A座5层(虹口足球场地铁站出入口步行240米)",
+      "distance": "4m"
+    },
+    {
+      "brand": "煲仔皇(虹口龙之梦店)",
+      "address": "西江湾路388号凯德虹口商业中心B2层",
+      "distance": "8m"
+    },
+    {
+      "brand": "迷丝卷Ms.Juan(虹口龙之梦店)",
+      "address": "西江湾路388号凯德虹口商业中心A座B2层",
+      "distance": "9m"
+    },
+    {
+      "brand": "太善南洋茶餐厅(虹口龙之梦店)",
+      "address": "西江湾路388号凯德龙之梦B座B2层81号",
+      "distance": "10m"
+    },
+    {
+      "brand": "云海肴云南菜(虹口龙之梦店)",
+      "address": "凯德虹口商业中心B座B2层79A室云海肴云南菜(火车头/太二旁边)",
+      "distance": "10m"
+    },
+    {
+      "brand": "鱼酷活鱼烤鱼(鱼酷Pro虹口龙之梦店)",
+      "address": "西江湾路388号凯德龙之梦虹口B2层82/83号",
+      "distance": "11m"
+    },
+    {
+      "brand": "T0炭火烧肉",
+      "address": "西江湾路388号凯德虹口商业中心A座",
+      "distance": "11m"
+    },
+    {
+      "brand": "聚鲜菌·菌子火锅(凯德虹口商业中心店)",
+      "address": "西江湾路388号凯德虹口商业中心A座B1层",
+      "distance": "12m"
+    },
+    {
+      "brand": "太二酸菜鱼(龙马环球凯德龙之梦店)",
+      "address": "西江湾路388号凯德龙之梦B座B2层80号",
+      "distance": "12m"
+    },
+    {
+      "brand": "欢喜花生(虹口龙之梦B2欢囍店)",
+      "address": "西江湾路388号(虹口凯德龙之梦A座)B2层欢囍花生店铺",
+      "distance": "13m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海宏慧新里",
+      "open_date": "2024-02-21",
+      "area": "2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海虹口宝华商业广场",
+      "open_date": "2023-05-20",
+      "area": "2.2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海时装商厦",
+      "open_date": "-",
+      "area": "-",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海多伦生活广场(四川北路商业街店)",
+      "open_date": "-",
+      "area": "-",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海虹口万泰广场",
+      "open_date": "2021-08-28",
+      "area": "6万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "合新里",
+      "open_date": "2021-01-01",
+      "area": "2.4万㎡",
+      "jun_daily_avg": "1.1万人次",
+      "weekday_avg": "1.1万人次",
+      "holiday_avg": "1.1万人次"
+    },
+    {
+      "name": "上海ist艾尚天地",
+      "open_date": "2019-06-01",
+      "area": "3万㎡",
+      "jun_daily_avg": "1.1万人次",
+      "weekday_avg": "1.1万人次",
+      "holiday_avg": "1.1万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 163.0,
+      "within_1yr_pct": 16.6,
+      "1_3yr_pct": 33.7,
+      "over_3yr_pct": 49.7
+    },
+    {
+      "type": "购物",
+      "count": 107.0,
+      "within_1yr_pct": 22.4,
+      "1_3yr_pct": 28.0,
+      "over_3yr_pct": 49.5
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 12.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 16.7,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "教育培训",
+      "count": 10.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 40.0,
+      "over_3yr_pct": 60.0
+    },
+    {
+      "type": "生活服务",
+      "count": 45.0,
+      "within_1yr_pct": 28.9,
+      "1_3yr_pct": 26.7,
+      "over_3yr_pct": 44.4
+    },
+    {
+      "type": "运动健身",
+      "count": 11.0,
+      "within_1yr_pct": 27.3,
+      "1_3yr_pct": 27.3,
+      "over_3yr_pct": 45.5
+    },
+    {
+      "type": "车辆服务",
+      "count": 9.0,
+      "within_1yr_pct": 22.2,
+      "1_3yr_pct": 44.4,
+      "over_3yr_pct": 33.3
+    }
+  ]
+}

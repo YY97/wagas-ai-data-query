@@ -1,0 +1,400 @@
+{
+  "name": "甘家口百货",
+  "city": "北京市",
+  "address": "北京市海淀区甘家口街道甘家口大厦甘家口百货",
+  "lat": 39.927491,
+  "lng": 116.333262,
+  "overview": {
+    "score": 94.3,
+    "score_rank": "市内前30%",
+    "population_score": 93.6,
+    "area_score": 77.4,
+    "consumption_score": 86.8,
+    "industry_score": 94.4,
+    "annual_sales": "北京甘家口百货是在具有40多年经营历史的甘家口商业区基础上兴建而成的，是一座以购物为主，集餐饮、娱乐、休闲、金融、服务、写字楼为一体的现代化购物中心。甘家口大厦购物环境优美、典雅，地下二层至地上五层的共享空间将各层连在一起，使整个大厦通透亮丽。大厦设有硬件设施，全方位的彩色监控系统、消防监控系统、中央空调，为消费者提供高雅、舒适、安全的现代化购物环境",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 2.1,
+    "open_date": "2000-01-09",
+    "operator": "北京翠微大厦股份有限公司",
+    "brand": "",
+    "type": "购物型",
+    "floors": "B2-L5"
+  },
+  "traffic": {
+    "annual_daily": 3.28,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第60",
+    "jun_total": 150.9,
+    "jun_total_rank": "市内商场第48名",
+    "jun_daily_avg": 5.0,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第48名",
+    "weekday_avg": 5.0,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第38名",
+    "holiday_avg": 5.0,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第73名"
+  },
+  "population": {
+    "residential": {
+      "500m": 2.7,
+      "1_5km": 20.1,
+      "3km": 77.6
+    },
+    "office": {
+      "500m": 2.3,
+      "1_5km": 17.1,
+      "3km": 71.7
+    },
+    "permanent": {
+      "500m": 2.8,
+      "1_5km": 19.8,
+      "3km": 80.4
+    }
+  },
+  "business": {
+    "competitors": 2.0,
+    "food": 124.0,
+    "shopping": 156.0,
+    "leisure": 5.0,
+    "education": 16.0,
+    "hotel": 26.0,
+    "services": 86.0,
+    "fitness": 13.0,
+    "auto": 6.0,
+    "total_stores": 194.0,
+    "old_store_3yr_pct": 47.0
+  },
+  "nearby_poi": {
+    "business": 1.0,
+    "community": 511.0,
+    "office": 76.0,
+    "school": 43.0,
+    "hospital": 105.0,
+    "transport": 13.0,
+    "scenic": 489.0
+  },
+  "demographics": {
+    "male_pct": 52.5,
+    "female_pct": null,
+    "education": {
+      "小学": 8.2,
+      "初中": 14.2,
+      "高中": 13.4,
+      "大专": 4.8,
+      "本科": 46.7,
+      "硕士": 9.6,
+      "博士": 3.1
+    },
+    "has_children_pct": 58.6,
+    "no_children_pct": 41.4
+  },
+  "scraped_at": "2026-07-31T11:57:47.828Z",
+  "nearby_restaurants": [
+    {
+      "brand": "来份炒饼",
+      "address": "增光路与三里河路交叉口西南80米",
+      "distance": "3m"
+    },
+    {
+      "brand": "京嘴儿(甘家口百货店)",
+      "address": "甘家口路大厦6楼6008(近增光路)",
+      "distance": "4m"
+    },
+    {
+      "brand": "鲜芋仙(甘家口店)",
+      "address": "甘家口百货大楼3层(甘家口地铁站A西北口步行360米)",
+      "distance": "10m"
+    },
+    {
+      "brand": "吉星火状元酥饼(甘家口百货店)",
+      "address": "甘家口街道三里河路17号甘家口百货六层603、608、613",
+      "distance": "13m"
+    },
+    {
+      "brand": "稻香村(三里河路店)",
+      "address": "三里河路17号甘家口百货B1层",
+      "distance": "13m"
+    },
+    {
+      "brand": "百年義利(甘家口大厦店)",
+      "address": "三里河路17号甘家口百货(甘家口地铁站A西北口步行370米)",
+      "distance": "17m"
+    },
+    {
+      "brand": "LINLEE·手打柠檬茶(甘家口大厦店)",
+      "address": "甘家口街道三里河路17号甘家口百货6层(刀小蛮右侧)",
+      "distance": "18m"
+    },
+    {
+      "brand": "野人先生现做冰淇淋(北京甘家口店)",
+      "address": "北京城区三里河路17号甘家口百货一楼",
+      "distance": "19m"
+    },
+    {
+      "brand": "呷哺呷哺(甘家口店)",
+      "address": "甘家口商场六层",
+      "distance": "19m"
+    },
+    {
+      "brand": "序茉奶咖",
+      "address": "甘家口商场六层三里河路17号",
+      "distance": "19m"
+    },
+    {
+      "brand": "来份炒饼",
+      "address": "增光路与三里河路交叉口西南80米",
+      "distance": "3m"
+    },
+    {
+      "brand": "京嘴儿(甘家口百货店)",
+      "address": "甘家口路大厦6楼6008(近增光路)",
+      "distance": "4m"
+    },
+    {
+      "brand": "鲜芋仙(甘家口店)",
+      "address": "甘家口百货大楼3层(甘家口地铁站A西北口步行360米)",
+      "distance": "10m"
+    },
+    {
+      "brand": "吉星火状元酥饼(甘家口百货店)",
+      "address": "甘家口街道三里河路17号甘家口百货六层603、608、613",
+      "distance": "13m"
+    },
+    {
+      "brand": "稻香村(三里河路店)",
+      "address": "三里河路17号甘家口百货B1层",
+      "distance": "13m"
+    },
+    {
+      "brand": "百年義利(甘家口大厦店)",
+      "address": "三里河路17号甘家口百货(甘家口地铁站A西北口步行370米)",
+      "distance": "17m"
+    },
+    {
+      "brand": "LINLEE·手打柠檬茶(甘家口大厦店)",
+      "address": "甘家口街道三里河路17号甘家口百货6层(刀小蛮右侧)",
+      "distance": "18m"
+    },
+    {
+      "brand": "野人先生现做冰淇淋(北京甘家口店)",
+      "address": "北京城区三里河路17号甘家口百货一楼",
+      "distance": "19m"
+    },
+    {
+      "brand": "呷哺呷哺(甘家口店)",
+      "address": "甘家口商场六层",
+      "distance": "19m"
+    },
+    {
+      "brand": "序茉奶咖",
+      "address": "甘家口商场六层三里河路17号",
+      "distance": "19m"
+    },
+    {
+      "brand": "来份炒饼",
+      "address": "增光路与三里河路交叉口西南80米",
+      "distance": "3m"
+    },
+    {
+      "brand": "京嘴儿(甘家口百货店)",
+      "address": "甘家口路大厦6楼6008(近增光路)",
+      "distance": "4m"
+    },
+    {
+      "brand": "鲜芋仙(甘家口店)",
+      "address": "甘家口百货大楼3层(甘家口地铁站A西北口步行360米)",
+      "distance": "10m"
+    },
+    {
+      "brand": "吉星火状元酥饼(甘家口百货店)",
+      "address": "甘家口街道三里河路17号甘家口百货六层603、608、613",
+      "distance": "13m"
+    },
+    {
+      "brand": "稻香村(三里河路店)",
+      "address": "三里河路17号甘家口百货B1层",
+      "distance": "13m"
+    },
+    {
+      "brand": "百年義利(甘家口大厦店)",
+      "address": "三里河路17号甘家口百货(甘家口地铁站A西北口步行370米)",
+      "distance": "17m"
+    },
+    {
+      "brand": "LINLEE·手打柠檬茶(甘家口大厦店)",
+      "address": "甘家口街道三里河路17号甘家口百货6层(刀小蛮右侧)",
+      "distance": "18m"
+    },
+    {
+      "brand": "野人先生现做冰淇淋(北京甘家口店)",
+      "address": "北京城区三里河路17号甘家口百货一楼",
+      "distance": "19m"
+    },
+    {
+      "brand": "呷哺呷哺(甘家口店)",
+      "address": "甘家口商场六层",
+      "distance": "19m"
+    },
+    {
+      "brand": "序茉奶咖",
+      "address": "甘家口商场六层三里河路17号",
+      "distance": "19m"
+    },
+    {
+      "brand": "来份炒饼",
+      "address": "增光路与三里河路交叉口西南80米",
+      "distance": "3m"
+    },
+    {
+      "brand": "京嘴儿(甘家口百货店)",
+      "address": "甘家口路大厦6楼6008(近增光路)",
+      "distance": "4m"
+    },
+    {
+      "brand": "鲜芋仙(甘家口店)",
+      "address": "甘家口百货大楼3层(甘家口地铁站A西北口步行360米)",
+      "distance": "10m"
+    },
+    {
+      "brand": "吉星火状元酥饼(甘家口百货店)",
+      "address": "甘家口街道三里河路17号甘家口百货六层603、608、613",
+      "distance": "13m"
+    },
+    {
+      "brand": "稻香村(三里河路店)",
+      "address": "三里河路17号甘家口百货B1层",
+      "distance": "13m"
+    },
+    {
+      "brand": "百年義利(甘家口大厦店)",
+      "address": "三里河路17号甘家口百货(甘家口地铁站A西北口步行370米)",
+      "distance": "17m"
+    },
+    {
+      "brand": "LINLEE·手打柠檬茶(甘家口大厦店)",
+      "address": "甘家口街道三里河路17号甘家口百货6层(刀小蛮右侧)",
+      "distance": "18m"
+    },
+    {
+      "brand": "野人先生现做冰淇淋(北京甘家口店)",
+      "address": "北京城区三里河路17号甘家口百货一楼",
+      "distance": "19m"
+    },
+    {
+      "brand": "呷哺呷哺(甘家口店)",
+      "address": "甘家口商场六层",
+      "distance": "19m"
+    },
+    {
+      "brand": "序茉奶咖",
+      "address": "甘家口商场六层三里河路17号",
+      "distance": "19m"
+    },
+    {
+      "brand": "来份炒饼",
+      "address": "增光路与三里河路交叉口西南80米",
+      "distance": "3m"
+    },
+    {
+      "brand": "京嘴儿(甘家口百货店)",
+      "address": "甘家口路大厦6楼6008(近增光路)",
+      "distance": "4m"
+    },
+    {
+      "brand": "鲜芋仙(甘家口店)",
+      "address": "甘家口百货大楼3层(甘家口地铁站A西北口步行360米)",
+      "distance": "10m"
+    },
+    {
+      "brand": "吉星火状元酥饼(甘家口百货店)",
+      "address": "甘家口街道三里河路17号甘家口百货六层603、608、613",
+      "distance": "13m"
+    },
+    {
+      "brand": "稻香村(三里河路店)",
+      "address": "三里河路17号甘家口百货B1层",
+      "distance": "13m"
+    },
+    {
+      "brand": "百年義利(甘家口大厦店)",
+      "address": "三里河路17号甘家口百货(甘家口地铁站A西北口步行370米)",
+      "distance": "17m"
+    },
+    {
+      "brand": "LINLEE·手打柠檬茶(甘家口大厦店)",
+      "address": "甘家口街道三里河路17号甘家口百货6层(刀小蛮右侧)",
+      "distance": "18m"
+    },
+    {
+      "brand": "野人先生现做冰淇淋(北京甘家口店)",
+      "address": "北京城区三里河路17号甘家口百货一楼",
+      "distance": "19m"
+    },
+    {
+      "brand": "呷哺呷哺(甘家口店)",
+      "address": "甘家口商场六层",
+      "distance": "19m"
+    },
+    {
+      "brand": "序茉奶咖",
+      "address": "甘家口商场六层三里河路17号",
+      "distance": "19m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "北京JK FUN商城",
+      "open_date": "2024-12-21",
+      "area": "1.2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 47.0,
+      "within_1yr_pct": 44.7,
+      "1_3yr_pct": 14.9,
+      "over_3yr_pct": 40.4
+    },
+    {
+      "type": "购物",
+      "count": 113.0,
+      "within_1yr_pct": 27.4,
+      "1_3yr_pct": 24.8,
+      "over_3yr_pct": 47.8
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 3.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    },
+    {
+      "type": "教育培训",
+      "count": 10.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 10.0,
+      "over_3yr_pct": 40.0
+    },
+    {
+      "type": "生活服务",
+      "count": 12.0,
+      "within_1yr_pct": 8.3,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 66.7
+    },
+    {
+      "type": "运动健身",
+      "count": 9.0,
+      "within_1yr_pct": 22.2,
+      "1_3yr_pct": 44.4,
+      "over_3yr_pct": 33.3
+    }
+  ]
+}

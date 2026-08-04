@@ -1,0 +1,486 @@
+{
+  "name": "领展中心城",
+  "city": "深圳市",
+  "address": "广东省深圳市福田区福田福华一路3号",
+  "lat": 22.535865,
+  "lng": 114.059301,
+  "overview": {
+    "score": 96.0,
+    "score_rank": "市内前30%",
+    "population_score": 64.8,
+    "area_score": 93.9,
+    "consumption_score": 76.4,
+    "industry_score": 96.2,
+    "annual_sales": "1.2",
+    "annual_sales_unit": "亿元",
+    "area_size_sqm": 13.0,
+    "open_date": "2007-04-28",
+    "operator": "领展资产管理有限公司",
+    "brand": "领展资产管理有限公司",
+    "type": "美食型",
+    "floors": "B2-L4"
+  },
+  "traffic": {
+    "annual_daily": 3.95,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第40",
+    "jun_total": 182.4,
+    "jun_total_rank": "市内商场第42名",
+    "jun_daily_avg": 6.1,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第42名",
+    "weekday_avg": 5.5,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第40名",
+    "holiday_avg": 7.6,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第45名"
+  },
+  "population": {
+    "residential": {
+      "500m": 7300.0,
+      "1_5km": 27.6,
+      "3km": 107.8
+    },
+    "office": {
+      "500m": 6.5,
+      "1_5km": 36.0,
+      "3km": 80.2
+    },
+    "permanent": {
+      "500m": 3.2,
+      "1_5km": 31.8,
+      "3km": 106.8
+    }
+  },
+  "business": {
+    "competitors": 13.0,
+    "food": 682.0,
+    "shopping": 408.0,
+    "leisure": 58.0,
+    "education": 52.0,
+    "hotel": 34.0,
+    "services": 551.0,
+    "fitness": 40.0,
+    "auto": 55.0,
+    "total_stores": 322.0,
+    "old_store_3yr_pct": 41.0
+  },
+  "nearby_poi": {
+    "business": 11.0,
+    "community": 450.0,
+    "office": 152.0,
+    "school": 42.0,
+    "hospital": 203.0,
+    "transport": 22.0,
+    "scenic": 257.0
+  },
+  "demographics": {
+    "male_pct": 51.8,
+    "female_pct": null,
+    "education": {
+      "小学": 11.5,
+      "初中": 19.7,
+      "高中": 11.4,
+      "大专": 8.9,
+      "本科": 43.3,
+      "硕士": 4.5,
+      "博士": 0.7
+    },
+    "has_children_pct": 56.7,
+    "no_children_pct": 43.3
+  },
+  "scraped_at": "2026-08-02T10:12:01.672Z",
+  "nearby_restaurants": [
+    {
+      "brand": "简菓·煎饼果子(领展中心城店)",
+      "address": "福华一路3号领展中心城F1层(会展中心地铁站出入口旁)",
+      "distance": "0m"
+    },
+    {
+      "brand": "豆腐家dubujib(领展中心城店)",
+      "address": "福华一路3号领展中心城B楼FB1049号",
+      "distance": "1m"
+    },
+    {
+      "brand": "探鱼·鲜青椒爽麻烤鱼(深圳福田领展中心城店)",
+      "address": "福华一路3号领展中心城RB1009号",
+      "distance": "1m"
+    },
+    {
+      "brand": "农本方茶饮(领展中心城店)",
+      "address": "福华一路3号领展中心城",
+      "distance": "3m"
+    },
+    {
+      "brand": "煲珠公·老红糖珍珠奶茶(深圳领展中心城店)",
+      "address": "福田街道福安社区福华一路3号领展购物广场RG011B",
+      "distance": "3m"
+    },
+    {
+      "brand": "元气寿司(领展中心城店)",
+      "address": "福华一路3号领展中心城G层",
+      "distance": "3m"
+    },
+    {
+      "brand": "OLALoungeClub",
+      "address": "领展中心城",
+      "distance": "8m"
+    },
+    {
+      "brand": "Roye·若也(领展中心城店)",
+      "address": "福华一路3号领展中心城",
+      "distance": "8m"
+    },
+    {
+      "brand": "八合里潮汕鲜牛肉火锅(深圳领展中心城店)",
+      "address": "福华一路3号领展购物广场FL1013A",
+      "distance": "9m"
+    },
+    {
+      "brand": "混果汁(福田领展中心城店)",
+      "address": "福田街道福安社区福华一路3号领展购物广场G层RG029A铺",
+      "distance": "13m"
+    },
+    {
+      "brand": "简菓·煎饼果子(领展中心城店)",
+      "address": "福华一路3号领展中心城F1层(会展中心地铁站出入口旁)",
+      "distance": "0m"
+    },
+    {
+      "brand": "豆腐家dubujib(领展中心城店)",
+      "address": "福华一路3号领展中心城B楼FB1049号",
+      "distance": "1m"
+    },
+    {
+      "brand": "探鱼·鲜青椒爽麻烤鱼(深圳福田领展中心城店)",
+      "address": "福华一路3号领展中心城RB1009号",
+      "distance": "1m"
+    },
+    {
+      "brand": "农本方茶饮(领展中心城店)",
+      "address": "福华一路3号领展中心城",
+      "distance": "3m"
+    },
+    {
+      "brand": "煲珠公·老红糖珍珠奶茶(深圳领展中心城店)",
+      "address": "福田街道福安社区福华一路3号领展购物广场RG011B",
+      "distance": "3m"
+    },
+    {
+      "brand": "元气寿司(领展中心城店)",
+      "address": "福华一路3号领展中心城G层",
+      "distance": "3m"
+    },
+    {
+      "brand": "OLALoungeClub",
+      "address": "领展中心城",
+      "distance": "8m"
+    },
+    {
+      "brand": "Roye·若也(领展中心城店)",
+      "address": "福华一路3号领展中心城",
+      "distance": "8m"
+    },
+    {
+      "brand": "八合里潮汕鲜牛肉火锅(深圳领展中心城店)",
+      "address": "福华一路3号领展购物广场FL1013A",
+      "distance": "9m"
+    },
+    {
+      "brand": "混果汁(福田领展中心城店)",
+      "address": "福田街道福安社区福华一路3号领展购物广场G层RG029A铺",
+      "distance": "13m"
+    },
+    {
+      "brand": "简菓·煎饼果子(领展中心城店)",
+      "address": "福华一路3号领展中心城F1层(会展中心地铁站出入口旁)",
+      "distance": "0m"
+    },
+    {
+      "brand": "豆腐家dubujib(领展中心城店)",
+      "address": "福华一路3号领展中心城B楼FB1049号",
+      "distance": "1m"
+    },
+    {
+      "brand": "探鱼·鲜青椒爽麻烤鱼(深圳福田领展中心城店)",
+      "address": "福华一路3号领展中心城RB1009号",
+      "distance": "1m"
+    },
+    {
+      "brand": "农本方茶饮(领展中心城店)",
+      "address": "福华一路3号领展中心城",
+      "distance": "3m"
+    },
+    {
+      "brand": "煲珠公·老红糖珍珠奶茶(深圳领展中心城店)",
+      "address": "福田街道福安社区福华一路3号领展购物广场RG011B",
+      "distance": "3m"
+    },
+    {
+      "brand": "元气寿司(领展中心城店)",
+      "address": "福华一路3号领展中心城G层",
+      "distance": "3m"
+    },
+    {
+      "brand": "OLALoungeClub",
+      "address": "领展中心城",
+      "distance": "8m"
+    },
+    {
+      "brand": "Roye·若也(领展中心城店)",
+      "address": "福华一路3号领展中心城",
+      "distance": "8m"
+    },
+    {
+      "brand": "八合里潮汕鲜牛肉火锅(深圳领展中心城店)",
+      "address": "福华一路3号领展购物广场FL1013A",
+      "distance": "9m"
+    },
+    {
+      "brand": "混果汁(福田领展中心城店)",
+      "address": "福田街道福安社区福华一路3号领展购物广场G层RG029A铺",
+      "distance": "13m"
+    },
+    {
+      "brand": "简菓·煎饼果子(领展中心城店)",
+      "address": "福华一路3号领展中心城F1层(会展中心地铁站出入口旁)",
+      "distance": "0m"
+    },
+    {
+      "brand": "豆腐家dubujib(领展中心城店)",
+      "address": "福华一路3号领展中心城B楼FB1049号",
+      "distance": "1m"
+    },
+    {
+      "brand": "探鱼·鲜青椒爽麻烤鱼(深圳福田领展中心城店)",
+      "address": "福华一路3号领展中心城RB1009号",
+      "distance": "1m"
+    },
+    {
+      "brand": "农本方茶饮(领展中心城店)",
+      "address": "福华一路3号领展中心城",
+      "distance": "3m"
+    },
+    {
+      "brand": "煲珠公·老红糖珍珠奶茶(深圳领展中心城店)",
+      "address": "福田街道福安社区福华一路3号领展购物广场RG011B",
+      "distance": "3m"
+    },
+    {
+      "brand": "元气寿司(领展中心城店)",
+      "address": "福华一路3号领展中心城G层",
+      "distance": "3m"
+    },
+    {
+      "brand": "OLALoungeClub",
+      "address": "领展中心城",
+      "distance": "8m"
+    },
+    {
+      "brand": "Roye·若也(领展中心城店)",
+      "address": "福华一路3号领展中心城",
+      "distance": "8m"
+    },
+    {
+      "brand": "八合里潮汕鲜牛肉火锅(深圳领展中心城店)",
+      "address": "福华一路3号领展购物广场FL1013A",
+      "distance": "9m"
+    },
+    {
+      "brand": "混果汁(福田领展中心城店)",
+      "address": "福田街道福安社区福华一路3号领展购物广场G层RG029A铺",
+      "distance": "13m"
+    },
+    {
+      "brand": "简菓·煎饼果子(领展中心城店)",
+      "address": "福华一路3号领展中心城F1层(会展中心地铁站出入口旁)",
+      "distance": "0m"
+    },
+    {
+      "brand": "豆腐家dubujib(领展中心城店)",
+      "address": "福华一路3号领展中心城B楼FB1049号",
+      "distance": "1m"
+    },
+    {
+      "brand": "探鱼·鲜青椒爽麻烤鱼(深圳福田领展中心城店)",
+      "address": "福华一路3号领展中心城RB1009号",
+      "distance": "1m"
+    },
+    {
+      "brand": "农本方茶饮(领展中心城店)",
+      "address": "福华一路3号领展中心城",
+      "distance": "3m"
+    },
+    {
+      "brand": "煲珠公·老红糖珍珠奶茶(深圳领展中心城店)",
+      "address": "福田街道福安社区福华一路3号领展购物广场RG011B",
+      "distance": "3m"
+    },
+    {
+      "brand": "元气寿司(领展中心城店)",
+      "address": "福华一路3号领展中心城G层",
+      "distance": "3m"
+    },
+    {
+      "brand": "OLALoungeClub",
+      "address": "领展中心城",
+      "distance": "8m"
+    },
+    {
+      "brand": "Roye·若也(领展中心城店)",
+      "address": "福华一路3号领展中心城",
+      "distance": "8m"
+    },
+    {
+      "brand": "八合里潮汕鲜牛肉火锅(深圳领展中心城店)",
+      "address": "福华一路3号领展购物广场FL1013A",
+      "distance": "9m"
+    },
+    {
+      "brand": "混果汁(福田领展中心城店)",
+      "address": "福田街道福安社区福华一路3号领展购物广场G层RG029A铺",
+      "distance": "13m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "深圳皇庭广场",
+      "open_date": "2013-12-25",
+      "area": "8.1万㎡",
+      "jun_daily_avg": "7.6万人次",
+      "weekday_avg": "6.9万人次",
+      "holiday_avg": "9.4万人次"
+    },
+    {
+      "name": "深圳大中华·HUA广场",
+      "open_date": "2005-12-18",
+      "area": "8.5万㎡",
+      "jun_daily_avg": "4.2万人次",
+      "weekday_avg": "3.7万人次",
+      "holiday_avg": "5.6万人次"
+    },
+    {
+      "name": "深圳Galaxy·星河中心",
+      "open_date": "2008-02-01",
+      "area": "5万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "深圳平安金融中心PAFCmall",
+      "open_date": "2019-12-01",
+      "area": "8万㎡",
+      "jun_daily_avg": "5.3万人次",
+      "weekday_avg": "5.8万人次",
+      "holiday_avg": "4.1万人次"
+    },
+    {
+      "name": "深圳One Avenue卓悦中心",
+      "open_date": "2019-09-28",
+      "area": "18.6万㎡",
+      "jun_daily_avg": "10.7万人次",
+      "weekday_avg": "9.7万人次",
+      "holiday_avg": "13.5万人次"
+    },
+    {
+      "name": "深圳购物公园",
+      "open_date": "2006-09-30",
+      "area": "-",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "深圳卓越·INTOWN购物中心",
+      "open_date": "2015-01-01",
+      "area": "5万㎡",
+      "jun_daily_avg": "5.4万人次",
+      "weekday_avg": "5.6万人次",
+      "holiday_avg": "4.8万人次"
+    },
+    {
+      "name": "深圳福田COCO park",
+      "open_date": "2006-09-30",
+      "area": "8万㎡",
+      "jun_daily_avg": "8.2万人次",
+      "weekday_avg": "7.5万人次",
+      "holiday_avg": "10万人次"
+    },
+    {
+      "name": "深圳福田COCO Park二期",
+      "open_date": "2020-05-30",
+      "area": "4.3万㎡",
+      "jun_daily_avg": "1.9万人次",
+      "weekday_avg": "1.9万人次",
+      "holiday_avg": "2.1万人次"
+    },
+    {
+      "name": "东方新天地广场",
+      "open_date": "2000-01-01",
+      "area": "-",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 154.0,
+      "within_1yr_pct": 20.8,
+      "1_3yr_pct": 39.0,
+      "over_3yr_pct": 40.3
+    },
+    {
+      "type": "购物",
+      "count": 94.0,
+      "within_1yr_pct": 27.7,
+      "1_3yr_pct": 30.9,
+      "over_3yr_pct": 41.5
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 18.0,
+      "within_1yr_pct": 27.8,
+      "1_3yr_pct": 11.1,
+      "over_3yr_pct": 61.1
+    },
+    {
+      "type": "教育培训",
+      "count": 1.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "生活服务",
+      "count": 46.0,
+      "within_1yr_pct": 19.6,
+      "1_3yr_pct": 41.3,
+      "over_3yr_pct": 39.1
+    },
+    {
+      "type": "运动健身",
+      "count": 5.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 80.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 3.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 66.7,
+      "over_3yr_pct": 33.3
+    }
+  ]
+}

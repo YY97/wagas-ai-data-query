@@ -1,0 +1,179 @@
+{
+  "name": "汇暻宝山广场",
+  "city": "上海市",
+  "address": "上海市宝山区大场镇苏宁电器汇暻宝山广场",
+  "lat": 31.326221,
+  "lng": 121.407603,
+  "overview": {
+    "score": 70.0,
+    "score_rank": "市内前70%",
+    "population_score": 78.8,
+    "area_score": 67.3,
+    "consumption_score": 72.1,
+    "industry_score": 70.0,
+    "annual_sales": "",
+    "annual_sales_unit": "",
+    "area_size_sqm": null,
+    "open_date": "",
+    "operator": "",
+    "brand": "",
+    "type": "综合型",
+    "floors": ""
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "",
+    "annual_daily_rank": "",
+    "jun_total": null,
+    "jun_total_rank": "",
+    "jun_daily_avg": null,
+    "jun_daily_unit": "",
+    "jun_daily_rank": "",
+    "weekday_avg": null,
+    "weekday_unit": "",
+    "weekday_rank": "",
+    "holiday_avg": null,
+    "holiday_unit": "",
+    "holiday_rank": ""
+  },
+  "population": {
+    "residential": {
+      "500m": 1.5,
+      "1_5km": 8.0,
+      "3km": 50.2
+    },
+    "office": {
+      "500m": 5000.0,
+      "1_5km": 3.9,
+      "3km": 18.5
+    },
+    "permanent": {
+      "500m": 1.4,
+      "1_5km": 7.6,
+      "3km": 45.3
+    }
+  },
+  "business": {
+    "competitors": 1.0,
+    "food": 49.0,
+    "shopping": 100.0,
+    "leisure": 10.0,
+    "education": 2.0,
+    "hotel": 12.0,
+    "services": 52.0,
+    "fitness": 5.0,
+    "auto": 10.0,
+    "total_stores": 27.0,
+    "old_store_3yr_pct": 56.0
+  },
+  "nearby_poi": {
+    "business": 1.0,
+    "community": 191.0,
+    "office": 10.0,
+    "school": 12.0,
+    "hospital": 17.0,
+    "transport": 5.0,
+    "scenic": 43.0
+  },
+  "demographics": {
+    "male_pct": 59.1,
+    "female_pct": null,
+    "education": {
+      "小学": 9.3,
+      "初中": 18.4,
+      "高中": 13.2,
+      "大专": 7.7,
+      "本科": 46.4,
+      "硕士": 3.6,
+      "博士": 1.4
+    },
+    "has_children_pct": 54.8,
+    "no_children_pct": 45.2
+  },
+  "scraped_at": "2026-08-01T14:26:00.648Z",
+  "nearby_restaurants": [
+    {
+      "brand": "小胖墩两元串炭火烧烤火锅(沪太路店)",
+      "address": "朗韵路与环文路交叉口北20米",
+      "distance": "158m"
+    },
+    {
+      "brand": "醉东北熏酱饺子馆(纬地店)",
+      "address": "纬地路73号",
+      "distance": "170m"
+    },
+    {
+      "brand": "江湖菜",
+      "address": "沪太路3769号",
+      "distance": "181m"
+    },
+    {
+      "brand": "棒约翰披萨(上海大学店)",
+      "address": "纬地路79号1楼(棒约翰)",
+      "distance": "198m"
+    },
+    {
+      "brand": "全球时令海鲜分享中心(经纬·学士逸居家园店)",
+      "address": "经纬·学士逸居家园北2门旁",
+      "distance": "227m"
+    },
+    {
+      "brand": "小邢海鲜龙虾烧烤(上海大学店)",
+      "address": "纬地路89号",
+      "distance": "228m"
+    },
+    {
+      "brand": "国贸小吃店(东方国贸新城店)",
+      "address": "沪太路3999号东方国贸新城F1层",
+      "distance": "260m"
+    },
+    {
+      "brand": "巴比馒头(纬地路二店)",
+      "address": "纬地路113号",
+      "distance": "286m"
+    },
+    {
+      "brand": "懒猫(东方国贸新城店)",
+      "address": "沪太路3999号东方国贸新城",
+      "distance": "346m"
+    }
+  ],
+  "nearby_malls": [],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 8.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 37.5,
+      "over_3yr_pct": 37.5
+    },
+    {
+      "type": "购物",
+      "count": 9.0,
+      "within_1yr_pct": 22.2,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 77.8
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 3.0,
+      "within_1yr_pct": 66.7,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 33.3
+    },
+    {
+      "type": "酒店住宿",
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    },
+    {
+      "type": "生活服务",
+      "count": 5.0,
+      "within_1yr_pct": 60.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 40.0
+    }
+  ]
+}

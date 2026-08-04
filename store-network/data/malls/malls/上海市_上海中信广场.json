@@ -1,0 +1,465 @@
+{
+  "name": "上海中信广场",
+  "city": "上海市",
+  "address": "上海市虹口区北外滩街道luckin coffee 瑞幸咖啡(中信广场店)中信广场",
+  "lat": 31.294249,
+  "lng": 121.484004,
+  "overview": {
+    "score": 80.2,
+    "score_rank": "市内前30%",
+    "population_score": 86.1,
+    "area_score": 94.9,
+    "consumption_score": 83.9,
+    "industry_score": 80.1,
+    "annual_sales": "上海中信广场位于北外滩中心，坐拥黄浦江、浦东陆家嘴金融建筑群、外滩万国建筑群、苏州河畔四景，是北外滩新地标，高度为228米，共55层",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 10.0,
+    "open_date": "2010-01-01",
+    "operator": "海泰物业",
+    "brand": "",
+    "type": "综合型",
+    "floors": "B3-L3"
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "-",
+    "annual_daily_rank": "",
+    "jun_total": 10.6,
+    "jun_total_rank": "市内商场第480名",
+    "jun_daily_avg": 3526.0,
+    "jun_daily_unit": "人次",
+    "jun_daily_rank": "市内商场第480名",
+    "weekday_avg": 4324.0,
+    "weekday_unit": "人次",
+    "weekday_rank": "市内商场第444名",
+    "holiday_avg": 1330.0,
+    "holiday_unit": "人次",
+    "holiday_rank": "市内商场第567名"
+  },
+  "population": {
+    "residential": {
+      "500m": 1.9,
+      "1_5km": 18.7,
+      "3km": 87.7
+    },
+    "office": {
+      "500m": 4.4,
+      "1_5km": 25.7,
+      "3km": 107.2
+    },
+    "permanent": {
+      "500m": 2.7,
+      "1_5km": 23.0,
+      "3km": 109.8
+    }
+  },
+  "business": {
+    "competitors": 9.0,
+    "food": 389.0,
+    "shopping": 443.0,
+    "leisure": 36.0,
+    "education": 19.0,
+    "hotel": 83.0,
+    "services": 136.0,
+    "fitness": 18.0,
+    "auto": 35.0,
+    "total_stores": 28.0,
+    "old_store_3yr_pct": 46.0
+  },
+  "nearby_poi": {
+    "business": 22.0,
+    "community": 835.0,
+    "office": 194.0,
+    "school": 56.0,
+    "hospital": 167.0,
+    "transport": 13.0,
+    "scenic": 791.0
+  },
+  "demographics": {
+    "male_pct": 52.2,
+    "female_pct": null,
+    "education": {
+      "小学": 9.2,
+      "初中": 18.4,
+      "高中": 12.4,
+      "大专": 7.0,
+      "本科": 46.6,
+      "硕士": 4.7,
+      "博士": 1.7
+    },
+    "has_children_pct": 58.8,
+    "no_children_pct": 41.2
+  },
+  "scraped_at": "2026-07-31T15:20:39.393Z",
+  "nearby_restaurants": [
+    {
+      "brand": "幸福西饼(中信广场店)",
+      "address": "四川北路855号2层(四川北路地铁站2号口步行470米)",
+      "distance": "11m"
+    },
+    {
+      "brand": "LELECHA乐乐茶(上海苏河湾万象天地店)",
+      "address": "四川北路865号中信广场(四川北路地铁站2号口步行420米)",
+      "distance": "30m"
+    },
+    {
+      "brand": "云庞府·本帮菜(中信广场店)",
+      "address": "四川北路865号中信广场(四川北路地铁站2号口步行400米)",
+      "distance": "50m"
+    },
+    {
+      "brand": "山姆上校芝士牛肉卷(东华美钻商务楼店)",
+      "address": "四川北路与塘沽路交叉口西北40米",
+      "distance": "63m"
+    },
+    {
+      "brand": "臻嗪(中信广场店)",
+      "address": "四川北路859号中信广场2F层",
+      "distance": "66m"
+    },
+    {
+      "brand": "53°黔风烙贵州特色烙锅",
+      "address": "北外滩街道四川北路838号柳阳美食城二楼",
+      "distance": "67m"
+    },
+    {
+      "brand": "罗森咖啡",
+      "address": "中信广场东北3门旁(四川北路地铁站2号口步行380米)",
+      "distance": "85m"
+    },
+    {
+      "brand": "水城羊肉粉面",
+      "address": "中信广场东北3门旁(四川北路地铁站2号口步行380米)",
+      "distance": "86m"
+    },
+    {
+      "brand": "饭香居扬州炒饭",
+      "address": "四川北路与塘沽路交叉口北40米",
+      "distance": "87m"
+    },
+    {
+      "brand": "瑞幸咖啡(上海中信广场店)",
+      "address": "四川北路865号中信广场一层101-D号",
+      "distance": "87m"
+    },
+    {
+      "brand": "幸福西饼(中信广场店)",
+      "address": "四川北路855号2层(四川北路地铁站2号口步行470米)",
+      "distance": "11m"
+    },
+    {
+      "brand": "LELECHA乐乐茶(上海苏河湾万象天地店)",
+      "address": "四川北路865号中信广场(四川北路地铁站2号口步行420米)",
+      "distance": "30m"
+    },
+    {
+      "brand": "云庞府·本帮菜(中信广场店)",
+      "address": "四川北路865号中信广场(四川北路地铁站2号口步行400米)",
+      "distance": "50m"
+    },
+    {
+      "brand": "山姆上校芝士牛肉卷(东华美钻商务楼店)",
+      "address": "四川北路与塘沽路交叉口西北40米",
+      "distance": "63m"
+    },
+    {
+      "brand": "臻嗪(中信广场店)",
+      "address": "四川北路859号中信广场2F层",
+      "distance": "66m"
+    },
+    {
+      "brand": "53°黔风烙贵州特色烙锅",
+      "address": "北外滩街道四川北路838号柳阳美食城二楼",
+      "distance": "67m"
+    },
+    {
+      "brand": "罗森咖啡",
+      "address": "中信广场东北3门旁(四川北路地铁站2号口步行380米)",
+      "distance": "85m"
+    },
+    {
+      "brand": "水城羊肉粉面",
+      "address": "中信广场东北3门旁(四川北路地铁站2号口步行380米)",
+      "distance": "86m"
+    },
+    {
+      "brand": "饭香居扬州炒饭",
+      "address": "四川北路与塘沽路交叉口北40米",
+      "distance": "87m"
+    },
+    {
+      "brand": "瑞幸咖啡(上海中信广场店)",
+      "address": "四川北路865号中信广场一层101-D号",
+      "distance": "87m"
+    },
+    {
+      "brand": "幸福西饼(中信广场店)",
+      "address": "四川北路855号2层(四川北路地铁站2号口步行470米)",
+      "distance": "11m"
+    },
+    {
+      "brand": "LELECHA乐乐茶(上海苏河湾万象天地店)",
+      "address": "四川北路865号中信广场(四川北路地铁站2号口步行420米)",
+      "distance": "30m"
+    },
+    {
+      "brand": "云庞府·本帮菜(中信广场店)",
+      "address": "四川北路865号中信广场(四川北路地铁站2号口步行400米)",
+      "distance": "50m"
+    },
+    {
+      "brand": "山姆上校芝士牛肉卷(东华美钻商务楼店)",
+      "address": "四川北路与塘沽路交叉口西北40米",
+      "distance": "63m"
+    },
+    {
+      "brand": "臻嗪(中信广场店)",
+      "address": "四川北路859号中信广场2F层",
+      "distance": "66m"
+    },
+    {
+      "brand": "53°黔风烙贵州特色烙锅",
+      "address": "北外滩街道四川北路838号柳阳美食城二楼",
+      "distance": "67m"
+    },
+    {
+      "brand": "罗森咖啡",
+      "address": "中信广场东北3门旁(四川北路地铁站2号口步行380米)",
+      "distance": "85m"
+    },
+    {
+      "brand": "水城羊肉粉面",
+      "address": "中信广场东北3门旁(四川北路地铁站2号口步行380米)",
+      "distance": "86m"
+    },
+    {
+      "brand": "饭香居扬州炒饭",
+      "address": "四川北路与塘沽路交叉口北40米",
+      "distance": "87m"
+    },
+    {
+      "brand": "瑞幸咖啡(上海中信广场店)",
+      "address": "四川北路865号中信广场一层101-D号",
+      "distance": "87m"
+    },
+    {
+      "brand": "幸福西饼(中信广场店)",
+      "address": "四川北路855号2层(四川北路地铁站2号口步行470米)",
+      "distance": "11m"
+    },
+    {
+      "brand": "LELECHA乐乐茶(上海苏河湾万象天地店)",
+      "address": "四川北路865号中信广场(四川北路地铁站2号口步行420米)",
+      "distance": "30m"
+    },
+    {
+      "brand": "云庞府·本帮菜(中信广场店)",
+      "address": "四川北路865号中信广场(四川北路地铁站2号口步行400米)",
+      "distance": "50m"
+    },
+    {
+      "brand": "山姆上校芝士牛肉卷(东华美钻商务楼店)",
+      "address": "四川北路与塘沽路交叉口西北40米",
+      "distance": "63m"
+    },
+    {
+      "brand": "臻嗪(中信广场店)",
+      "address": "四川北路859号中信广场2F层",
+      "distance": "66m"
+    },
+    {
+      "brand": "53°黔风烙贵州特色烙锅",
+      "address": "北外滩街道四川北路838号柳阳美食城二楼",
+      "distance": "67m"
+    },
+    {
+      "brand": "罗森咖啡",
+      "address": "中信广场东北3门旁(四川北路地铁站2号口步行380米)",
+      "distance": "85m"
+    },
+    {
+      "brand": "水城羊肉粉面",
+      "address": "中信广场东北3门旁(四川北路地铁站2号口步行380米)",
+      "distance": "86m"
+    },
+    {
+      "brand": "饭香居扬州炒饭",
+      "address": "四川北路与塘沽路交叉口北40米",
+      "distance": "87m"
+    },
+    {
+      "brand": "瑞幸咖啡(上海中信广场店)",
+      "address": "四川北路865号中信广场一层101-D号",
+      "distance": "87m"
+    },
+    {
+      "brand": "幸福西饼(中信广场店)",
+      "address": "四川北路855号2层(四川北路地铁站2号口步行470米)",
+      "distance": "11m"
+    },
+    {
+      "brand": "LELECHA乐乐茶(上海苏河湾万象天地店)",
+      "address": "四川北路865号中信广场(四川北路地铁站2号口步行420米)",
+      "distance": "30m"
+    },
+    {
+      "brand": "云庞府·本帮菜(中信广场店)",
+      "address": "四川北路865号中信广场(四川北路地铁站2号口步行400米)",
+      "distance": "50m"
+    },
+    {
+      "brand": "山姆上校芝士牛肉卷(东华美钻商务楼店)",
+      "address": "四川北路与塘沽路交叉口西北40米",
+      "distance": "63m"
+    },
+    {
+      "brand": "臻嗪(中信广场店)",
+      "address": "四川北路859号中信广场2F层",
+      "distance": "66m"
+    },
+    {
+      "brand": "53°黔风烙贵州特色烙锅",
+      "address": "北外滩街道四川北路838号柳阳美食城二楼",
+      "distance": "67m"
+    },
+    {
+      "brand": "罗森咖啡",
+      "address": "中信广场东北3门旁(四川北路地铁站2号口步行380米)",
+      "distance": "85m"
+    },
+    {
+      "brand": "水城羊肉粉面",
+      "address": "中信广场东北3门旁(四川北路地铁站2号口步行380米)",
+      "distance": "86m"
+    },
+    {
+      "brand": "饭香居扬州炒饭",
+      "address": "四川北路与塘沽路交叉口北40米",
+      "distance": "87m"
+    },
+    {
+      "brand": "瑞幸咖啡(上海中信广场店)",
+      "address": "四川北路865号中信广场一层101-D号",
+      "distance": "87m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海滨港商业中心",
+      "open_date": "2025-01",
+      "area": "11万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海星荟中心",
+      "open_date": "2016-01-01",
+      "area": "7.2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海圣和圣时尚汇",
+      "open_date": "2009-01-01",
+      "area": "2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海壹丰广场",
+      "open_date": "2012-11-09",
+      "area": "2.8万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "新金浦时尚服装市场",
+      "open_date": "2006-12-01",
+      "area": "1.8万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海利通广场",
+      "open_date": "2012-01-01",
+      "area": "2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海联富服饰市场",
+      "open_date": "2006-09-28",
+      "area": "-",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海苏河湾万象天地",
+      "open_date": "2022-01-01",
+      "area": "6万㎡",
+      "jun_daily_avg": "2.7万人次",
+      "weekday_avg": "2.4万人次",
+      "holiday_avg": "3.5万人次"
+    },
+    {
+      "name": "上海ist艾尚天地",
+      "open_date": "2019-06-01",
+      "area": "3万㎡",
+      "jun_daily_avg": "1.1万人次",
+      "weekday_avg": "1.1万人次",
+      "holiday_avg": "1.1万人次"
+    },
+    {
+      "name": "上海益丰外滩源",
+      "open_date": "2012-05-17",
+      "area": "6000㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 7.0,
+      "within_1yr_pct": 14.3,
+      "1_3yr_pct": 14.3,
+      "over_3yr_pct": 71.4
+    },
+    {
+      "type": "购物",
+      "count": 4.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 25.0
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "生活服务",
+      "count": 10.0,
+      "within_1yr_pct": 30.0,
+      "1_3yr_pct": 40.0,
+      "over_3yr_pct": 30.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 5.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 40.0,
+      "over_3yr_pct": 60.0
+    }
+  ]
+}

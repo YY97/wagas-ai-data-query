@@ -1,0 +1,447 @@
+{
+  "name": "上海新华联国际中心",
+  "city": "上海市",
+  "address": "上海市闵行区新虹街道新华联购物中心",
+  "lat": 31.201407,
+  "lng": 121.308778,
+  "overview": {
+    "score": 74.1,
+    "score_rank": "市内前50%",
+    "population_score": 72.1,
+    "area_score": 66.4,
+    "consumption_score": 79.6,
+    "industry_score": 74.2,
+    "annual_sales": "上海新华联国际中心是位于虹桥商务区核心区的高端综合体项目，总建筑面积约29万平方米。项目由新华联集团开发，包含纯法式商墅、高层甲级办公、新华联索菲特大酒店、国际会议中心、大型购物中心及国际风情商业街。建筑风格采用经典法式设计，外立面选用葡萄牙米黄石材，绿化率高达60%。项目紧邻虹桥交通枢纽和国家会展中心，交通便利。",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 2.3,
+    "open_date": "2016-11-19",
+    "operator": "新华联文化旅游发展股份有限公司",
+    "brand": "",
+    "type": "美食型",
+    "floors": ""
+  },
+  "traffic": {
+    "annual_daily": 3671.0,
+    "annual_daily_unit": "人次",
+    "annual_daily_rank": "市内第406",
+    "jun_total": 14.9,
+    "jun_total_rank": "市内商场第424名",
+    "jun_daily_avg": 4975.0,
+    "jun_daily_unit": "人次",
+    "jun_daily_rank": "市内商场第424名",
+    "weekday_avg": 4982.0,
+    "weekday_unit": "人次",
+    "weekday_rank": "市内商场第422名",
+    "holiday_avg": 4958.0,
+    "holiday_unit": "人次",
+    "holiday_rank": "市内商场第441名"
+  },
+  "population": {
+    "residential": {
+      "500m": 9800.0,
+      "1_5km": 12.2,
+      "3km": 31.3
+    },
+    "office": {
+      "500m": 5500.0,
+      "1_5km": 10.7,
+      "3km": 24.1
+    },
+    "permanent": {
+      "500m": 8500.0,
+      "1_5km": 14.1,
+      "3km": 37.3
+    }
+  },
+  "business": {
+    "competitors": 3.0,
+    "food": 69.0,
+    "shopping": 33.0,
+    "leisure": 12.0,
+    "education": 12.0,
+    "hotel": 19.0,
+    "services": 37.0,
+    "fitness": 19.0,
+    "auto": 11.0,
+    "total_stores": 15.0,
+    "old_store_3yr_pct": 40.0
+  },
+  "nearby_poi": {
+    "business": 6.0,
+    "community": 125.0,
+    "office": 53.0,
+    "school": 11.0,
+    "hospital": 43.0,
+    "transport": 4.0,
+    "scenic": 37.0
+  },
+  "demographics": {
+    "male_pct": 52.5,
+    "female_pct": null,
+    "education": {
+      "小学": 9.6,
+      "初中": 18.1,
+      "高中": 11.8,
+      "大专": 10.1,
+      "本科": 45.7,
+      "硕士": 4.0,
+      "博士": 0.7
+    },
+    "has_children_pct": 59.6,
+    "no_children_pct": 40.4
+  },
+  "scraped_at": "2026-07-31T16:25:59.983Z",
+  "nearby_restaurants": [
+    {
+      "brand": "上海新华联索菲特大酒店-乐轩华中餐厅",
+      "address": "泰虹路666号新华联索菲特大酒店1层",
+      "distance": "94m"
+    },
+    {
+      "brand": "虹桥索菲特·锦厨自助餐厅·海鲜小火锅",
+      "address": "华漕镇泰虹路666号新华联索菲特大酒店B1层",
+      "distance": "106m"
+    },
+    {
+      "brand": "PARTICLECOFFEE",
+      "address": "兴虹路与泰虹路交叉口东40米",
+      "distance": "151m"
+    },
+    {
+      "brand": "PARTICLE COFFEE",
+      "address": "兴虹路583号",
+      "distance": "162m"
+    },
+    {
+      "brand": "魔都奇记(新华联购物中心店)",
+      "address": "申滨路与兴虹路交叉口西南160米",
+      "distance": "172m"
+    },
+    {
+      "brand": "BOLI咖喱蛋包饭(虹桥店)",
+      "address": "申滨路473号新华联购物中心",
+      "distance": "177m"
+    },
+    {
+      "brand": "云山汤品(新华联国际中心店)",
+      "address": "申滨路519弄10号",
+      "distance": "178m"
+    },
+    {
+      "brand": "鲑与鲔三文鱼·刺身·捞汁小海鲜",
+      "address": "申滨路519弄102号1层",
+      "distance": "180m"
+    },
+    {
+      "brand": "小满食光",
+      "address": "申滨路519弄48号1层",
+      "distance": "180m"
+    },
+    {
+      "brand": "尊宝比萨(新华联店)",
+      "address": "申滨路519弄72号1层-1室",
+      "distance": "186m"
+    },
+    {
+      "brand": "上海新华联索菲特大酒店-乐轩华中餐厅",
+      "address": "泰虹路666号新华联索菲特大酒店1层",
+      "distance": "94m"
+    },
+    {
+      "brand": "虹桥索菲特·锦厨自助餐厅·海鲜小火锅",
+      "address": "华漕镇泰虹路666号新华联索菲特大酒店B1层",
+      "distance": "106m"
+    },
+    {
+      "brand": "PARTICLECOFFEE",
+      "address": "兴虹路与泰虹路交叉口东40米",
+      "distance": "151m"
+    },
+    {
+      "brand": "PARTICLE COFFEE",
+      "address": "兴虹路583号",
+      "distance": "162m"
+    },
+    {
+      "brand": "魔都奇记(新华联购物中心店)",
+      "address": "申滨路与兴虹路交叉口西南160米",
+      "distance": "172m"
+    },
+    {
+      "brand": "BOLI咖喱蛋包饭(虹桥店)",
+      "address": "申滨路473号新华联购物中心",
+      "distance": "177m"
+    },
+    {
+      "brand": "云山汤品(新华联国际中心店)",
+      "address": "申滨路519弄10号",
+      "distance": "178m"
+    },
+    {
+      "brand": "鲑与鲔三文鱼·刺身·捞汁小海鲜",
+      "address": "申滨路519弄102号1层",
+      "distance": "180m"
+    },
+    {
+      "brand": "小满食光",
+      "address": "申滨路519弄48号1层",
+      "distance": "180m"
+    },
+    {
+      "brand": "尊宝比萨(新华联店)",
+      "address": "申滨路519弄72号1层-1室",
+      "distance": "186m"
+    },
+    {
+      "brand": "上海新华联索菲特大酒店-乐轩华中餐厅",
+      "address": "泰虹路666号新华联索菲特大酒店1层",
+      "distance": "94m"
+    },
+    {
+      "brand": "虹桥索菲特·锦厨自助餐厅·海鲜小火锅",
+      "address": "华漕镇泰虹路666号新华联索菲特大酒店B1层",
+      "distance": "106m"
+    },
+    {
+      "brand": "PARTICLECOFFEE",
+      "address": "兴虹路与泰虹路交叉口东40米",
+      "distance": "151m"
+    },
+    {
+      "brand": "PARTICLE COFFEE",
+      "address": "兴虹路583号",
+      "distance": "162m"
+    },
+    {
+      "brand": "魔都奇记(新华联购物中心店)",
+      "address": "申滨路与兴虹路交叉口西南160米",
+      "distance": "172m"
+    },
+    {
+      "brand": "BOLI咖喱蛋包饭(虹桥店)",
+      "address": "申滨路473号新华联购物中心",
+      "distance": "177m"
+    },
+    {
+      "brand": "云山汤品(新华联国际中心店)",
+      "address": "申滨路519弄10号",
+      "distance": "178m"
+    },
+    {
+      "brand": "鲑与鲔三文鱼·刺身·捞汁小海鲜",
+      "address": "申滨路519弄102号1层",
+      "distance": "180m"
+    },
+    {
+      "brand": "小满食光",
+      "address": "申滨路519弄48号1层",
+      "distance": "180m"
+    },
+    {
+      "brand": "尊宝比萨(新华联店)",
+      "address": "申滨路519弄72号1层-1室",
+      "distance": "186m"
+    },
+    {
+      "brand": "上海新华联索菲特大酒店-乐轩华中餐厅",
+      "address": "泰虹路666号新华联索菲特大酒店1层",
+      "distance": "94m"
+    },
+    {
+      "brand": "虹桥索菲特·锦厨自助餐厅·海鲜小火锅",
+      "address": "华漕镇泰虹路666号新华联索菲特大酒店B1层",
+      "distance": "106m"
+    },
+    {
+      "brand": "PARTICLECOFFEE",
+      "address": "兴虹路与泰虹路交叉口东40米",
+      "distance": "151m"
+    },
+    {
+      "brand": "PARTICLE COFFEE",
+      "address": "兴虹路583号",
+      "distance": "162m"
+    },
+    {
+      "brand": "魔都奇记(新华联购物中心店)",
+      "address": "申滨路与兴虹路交叉口西南160米",
+      "distance": "172m"
+    },
+    {
+      "brand": "BOLI咖喱蛋包饭(虹桥店)",
+      "address": "申滨路473号新华联购物中心",
+      "distance": "177m"
+    },
+    {
+      "brand": "云山汤品(新华联国际中心店)",
+      "address": "申滨路519弄10号",
+      "distance": "178m"
+    },
+    {
+      "brand": "鲑与鲔三文鱼·刺身·捞汁小海鲜",
+      "address": "申滨路519弄102号1层",
+      "distance": "180m"
+    },
+    {
+      "brand": "小满食光",
+      "address": "申滨路519弄48号1层",
+      "distance": "180m"
+    },
+    {
+      "brand": "尊宝比萨(新华联店)",
+      "address": "申滨路519弄72号1层-1室",
+      "distance": "186m"
+    },
+    {
+      "brand": "上海新华联索菲特大酒店-乐轩华中餐厅",
+      "address": "泰虹路666号新华联索菲特大酒店1层",
+      "distance": "94m"
+    },
+    {
+      "brand": "虹桥索菲特·锦厨自助餐厅·海鲜小火锅",
+      "address": "华漕镇泰虹路666号新华联索菲特大酒店B1层",
+      "distance": "106m"
+    },
+    {
+      "brand": "PARTICLECOFFEE",
+      "address": "兴虹路与泰虹路交叉口东40米",
+      "distance": "151m"
+    },
+    {
+      "brand": "PARTICLE COFFEE",
+      "address": "兴虹路583号",
+      "distance": "162m"
+    },
+    {
+      "brand": "魔都奇记(新华联购物中心店)",
+      "address": "申滨路与兴虹路交叉口西南160米",
+      "distance": "172m"
+    },
+    {
+      "brand": "BOLI咖喱蛋包饭(虹桥店)",
+      "address": "申滨路473号新华联购物中心",
+      "distance": "177m"
+    },
+    {
+      "brand": "云山汤品(新华联国际中心店)",
+      "address": "申滨路519弄10号",
+      "distance": "178m"
+    },
+    {
+      "brand": "鲑与鲔三文鱼·刺身·捞汁小海鲜",
+      "address": "申滨路519弄102号1层",
+      "distance": "180m"
+    },
+    {
+      "brand": "小满食光",
+      "address": "申滨路519弄48号1层",
+      "distance": "180m"
+    },
+    {
+      "brand": "尊宝比萨(新华联店)",
+      "address": "申滨路519弄72号1层-1室",
+      "distance": "186m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海虹桥丽宝乐园",
+      "open_date": "2019-09-13",
+      "area": "7万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海虹桥阿里中心",
+      "open_date": "2019-05-10",
+      "area": "2.1万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海虹桥良华购物广场",
+      "open_date": "2014-04-12",
+      "area": "10.6万㎡",
+      "jun_daily_avg": "1.3万人次",
+      "weekday_avg": "1.2万人次",
+      "holiday_avg": "1.4万人次"
+    },
+    {
+      "name": "上海虹桥天地",
+      "open_date": "2015-12-12",
+      "area": "11万㎡",
+      "jun_daily_avg": "7.4万人次",
+      "weekday_avg": "7.1万人次",
+      "holiday_avg": "8.1万人次"
+    },
+    {
+      "name": "龙湖上海虹桥天街",
+      "open_date": "2016-12-17",
+      "area": "17万㎡",
+      "jun_daily_avg": "3.7万人次",
+      "weekday_avg": "3.7万人次",
+      "holiday_avg": "3.5万人次"
+    },
+    {
+      "name": "上海虹顺商业广场",
+      "open_date": "-",
+      "area": "-",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 3.0,
+      "within_1yr_pct": 66.7,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 33.3
+    },
+    {
+      "type": "购物",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "教育培训",
+      "count": 2.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 3.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    },
+    {
+      "type": "生活服务",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    },
+    {
+      "type": "运动健身",
+      "count": 4.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 25.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 1.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
+    }
+  ]
+}

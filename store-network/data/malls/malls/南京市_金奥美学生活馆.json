@@ -1,0 +1,454 @@
+{
+  "name": "金奥美学生活馆",
+  "city": "南京市",
+  "address": "江苏省南京市建邺区江东中路329号",
+  "lat": 31.998838,
+  "lng": 118.725539,
+  "overview": {
+    "score": 86.6,
+    "score_rank": "市内前30%",
+    "population_score": 79.4,
+    "area_score": 85.8,
+    "consumption_score": 93.4,
+    "industry_score": 86.6,
+    "annual_sales": "3000",
+    "annual_sales_unit": "万元",
+    "area_size_sqm": 6.0,
+    "open_date": "2019-09-01",
+    "operator": "江苏金大地房地产开发有限责任公司",
+    "brand": "",
+    "type": "综合型",
+    "floors": "B1-L5"
+  },
+  "traffic": {
+    "annual_daily": 5973.0,
+    "annual_daily_unit": "人次",
+    "annual_daily_rank": "市内第130",
+    "jun_total": 18.3,
+    "jun_total_rank": "市内商场第145名",
+    "jun_daily_avg": 6102.0,
+    "jun_daily_unit": "人次",
+    "jun_daily_rank": "市内商场第145名",
+    "weekday_avg": 6015.0,
+    "weekday_unit": "人次",
+    "weekday_rank": "市内商场第142名",
+    "holiday_avg": 6342.0,
+    "holiday_unit": "人次",
+    "holiday_rank": "市内商场第149名"
+  },
+  "population": {
+    "residential": {
+      "500m": 1.1,
+      "1_5km": 8.2,
+      "3km": 28.0
+    },
+    "office": {
+      "500m": 2.8,
+      "1_5km": 9.8,
+      "3km": 29.0
+    },
+    "permanent": {
+      "500m": 1.7,
+      "1_5km": 9.2,
+      "3km": 29.8
+    }
+  },
+  "business": {
+    "competitors": 10.0,
+    "food": 330.0,
+    "shopping": 226.0,
+    "leisure": 26.0,
+    "education": 53.0,
+    "hotel": 28.0,
+    "services": 136.0,
+    "fitness": 46.0,
+    "auto": 29.0,
+    "total_stores": 70.0,
+    "old_store_3yr_pct": 43.0
+  },
+  "nearby_poi": {
+    "business": 6.0,
+    "community": 183.0,
+    "office": 45.0,
+    "school": 16.0,
+    "hospital": 48.0,
+    "transport": 10.0,
+    "scenic": 131.0
+  },
+  "demographics": {
+    "male_pct": 48.9,
+    "female_pct": null,
+    "education": {
+      "小学": 9.2,
+      "初中": 15.8,
+      "高中": 9.6,
+      "大专": 7.8,
+      "本科": 47.2,
+      "硕士": 8.9,
+      "博士": 1.5
+    },
+    "has_children_pct": 59.2,
+    "no_children_pct": 40.8
+  },
+  "scraped_at": "2026-08-02T09:24:29.592Z",
+  "nearby_restaurants": [
+    {
+      "brand": "Lilliput粒粒堡亲子餐厅(金奥店)",
+      "address": "江东中路333号金奥国际购物中心3楼",
+      "distance": "14m"
+    },
+    {
+      "brand": "Lilliput kids cafe(金奥店)",
+      "address": "江东中路333号南京金奥中心F3层",
+      "distance": "25m"
+    },
+    {
+      "brand": "天素宫·素食餐厅(金奥店)",
+      "address": "江东中路333号南京金奥中心F4层",
+      "distance": "30m"
+    },
+    {
+      "brand": "菊次郎炭火烧肉(金奥店)",
+      "address": "江东中路333号金奥美学生活馆B1",
+      "distance": "32m"
+    },
+    {
+      "brand": "大萝卜·南京地标菜·面馆·烧烤(江东中路店)",
+      "address": "江东中路325号金奥美学生活馆西门一楼",
+      "distance": "35m"
+    },
+    {
+      "brand": "金喜记广式烧腊",
+      "address": "江东中路329号金奥美学生活馆B1-111室",
+      "distance": "37m"
+    },
+    {
+      "brand": "女王下午茶",
+      "address": "江东中路329号2层(元通地铁站5号口步行490米)",
+      "distance": "40m"
+    },
+    {
+      "brand": "鸿姐老火锅(金奥店)",
+      "address": "富春江东街金奥美学生活馆B1层101-103室星巴克楼下",
+      "distance": "43m"
+    },
+    {
+      "brand": "星巴克(南京金奥国际中心店)",
+      "address": "江东中路329号金奥国际中心商场一层132、133号铺位",
+      "distance": "47m"
+    },
+    {
+      "brand": "同福面馆",
+      "address": "江东中路333号南京金奥中心",
+      "distance": "60m"
+    },
+    {
+      "brand": "Lilliput粒粒堡亲子餐厅(金奥店)",
+      "address": "江东中路333号金奥国际购物中心3楼",
+      "distance": "14m"
+    },
+    {
+      "brand": "Lilliput kids cafe(金奥店)",
+      "address": "江东中路333号南京金奥中心F3层",
+      "distance": "25m"
+    },
+    {
+      "brand": "天素宫·素食餐厅(金奥店)",
+      "address": "江东中路333号南京金奥中心F4层",
+      "distance": "30m"
+    },
+    {
+      "brand": "菊次郎炭火烧肉(金奥店)",
+      "address": "江东中路333号金奥美学生活馆B1",
+      "distance": "32m"
+    },
+    {
+      "brand": "大萝卜·南京地标菜·面馆·烧烤(江东中路店)",
+      "address": "江东中路325号金奥美学生活馆西门一楼",
+      "distance": "35m"
+    },
+    {
+      "brand": "金喜记广式烧腊",
+      "address": "江东中路329号金奥美学生活馆B1-111室",
+      "distance": "37m"
+    },
+    {
+      "brand": "女王下午茶",
+      "address": "江东中路329号2层(元通地铁站5号口步行490米)",
+      "distance": "40m"
+    },
+    {
+      "brand": "鸿姐老火锅(金奥店)",
+      "address": "富春江东街金奥美学生活馆B1层101-103室星巴克楼下",
+      "distance": "43m"
+    },
+    {
+      "brand": "星巴克(南京金奥国际中心店)",
+      "address": "江东中路329号金奥国际中心商场一层132、133号铺位",
+      "distance": "47m"
+    },
+    {
+      "brand": "同福面馆",
+      "address": "江东中路333号南京金奥中心",
+      "distance": "60m"
+    },
+    {
+      "brand": "Lilliput粒粒堡亲子餐厅(金奥店)",
+      "address": "江东中路333号金奥国际购物中心3楼",
+      "distance": "14m"
+    },
+    {
+      "brand": "Lilliput kids cafe(金奥店)",
+      "address": "江东中路333号南京金奥中心F3层",
+      "distance": "25m"
+    },
+    {
+      "brand": "天素宫·素食餐厅(金奥店)",
+      "address": "江东中路333号南京金奥中心F4层",
+      "distance": "30m"
+    },
+    {
+      "brand": "菊次郎炭火烧肉(金奥店)",
+      "address": "江东中路333号金奥美学生活馆B1",
+      "distance": "32m"
+    },
+    {
+      "brand": "大萝卜·南京地标菜·面馆·烧烤(江东中路店)",
+      "address": "江东中路325号金奥美学生活馆西门一楼",
+      "distance": "35m"
+    },
+    {
+      "brand": "金喜记广式烧腊",
+      "address": "江东中路329号金奥美学生活馆B1-111室",
+      "distance": "37m"
+    },
+    {
+      "brand": "女王下午茶",
+      "address": "江东中路329号2层(元通地铁站5号口步行490米)",
+      "distance": "40m"
+    },
+    {
+      "brand": "鸿姐老火锅(金奥店)",
+      "address": "富春江东街金奥美学生活馆B1层101-103室星巴克楼下",
+      "distance": "43m"
+    },
+    {
+      "brand": "星巴克(南京金奥国际中心店)",
+      "address": "江东中路329号金奥国际中心商场一层132、133号铺位",
+      "distance": "47m"
+    },
+    {
+      "brand": "同福面馆",
+      "address": "江东中路333号南京金奥中心",
+      "distance": "60m"
+    },
+    {
+      "brand": "Lilliput粒粒堡亲子餐厅(金奥店)",
+      "address": "江东中路333号金奥国际购物中心3楼",
+      "distance": "14m"
+    },
+    {
+      "brand": "Lilliput kids cafe(金奥店)",
+      "address": "江东中路333号南京金奥中心F3层",
+      "distance": "25m"
+    },
+    {
+      "brand": "天素宫·素食餐厅(金奥店)",
+      "address": "江东中路333号南京金奥中心F4层",
+      "distance": "30m"
+    },
+    {
+      "brand": "菊次郎炭火烧肉(金奥店)",
+      "address": "江东中路333号金奥美学生活馆B1",
+      "distance": "32m"
+    },
+    {
+      "brand": "大萝卜·南京地标菜·面馆·烧烤(江东中路店)",
+      "address": "江东中路325号金奥美学生活馆西门一楼",
+      "distance": "35m"
+    },
+    {
+      "brand": "金喜记广式烧腊",
+      "address": "江东中路329号金奥美学生活馆B1-111室",
+      "distance": "37m"
+    },
+    {
+      "brand": "女王下午茶",
+      "address": "江东中路329号2层(元通地铁站5号口步行490米)",
+      "distance": "40m"
+    },
+    {
+      "brand": "鸿姐老火锅(金奥店)",
+      "address": "富春江东街金奥美学生活馆B1层101-103室星巴克楼下",
+      "distance": "43m"
+    },
+    {
+      "brand": "星巴克(南京金奥国际中心店)",
+      "address": "江东中路329号金奥国际中心商场一层132、133号铺位",
+      "distance": "47m"
+    },
+    {
+      "brand": "同福面馆",
+      "address": "江东中路333号南京金奥中心",
+      "distance": "60m"
+    },
+    {
+      "brand": "Lilliput粒粒堡亲子餐厅(金奥店)",
+      "address": "江东中路333号金奥国际购物中心3楼",
+      "distance": "14m"
+    },
+    {
+      "brand": "Lilliput kids cafe(金奥店)",
+      "address": "江东中路333号南京金奥中心F3层",
+      "distance": "25m"
+    },
+    {
+      "brand": "天素宫·素食餐厅(金奥店)",
+      "address": "江东中路333号南京金奥中心F4层",
+      "distance": "30m"
+    },
+    {
+      "brand": "菊次郎炭火烧肉(金奥店)",
+      "address": "江东中路333号金奥美学生活馆B1",
+      "distance": "32m"
+    },
+    {
+      "brand": "大萝卜·南京地标菜·面馆·烧烤(江东中路店)",
+      "address": "江东中路325号金奥美学生活馆西门一楼",
+      "distance": "35m"
+    },
+    {
+      "brand": "金喜记广式烧腊",
+      "address": "江东中路329号金奥美学生活馆B1-111室",
+      "distance": "37m"
+    },
+    {
+      "brand": "女王下午茶",
+      "address": "江东中路329号2层(元通地铁站5号口步行490米)",
+      "distance": "40m"
+    },
+    {
+      "brand": "鸿姐老火锅(金奥店)",
+      "address": "富春江东街金奥美学生活馆B1层101-103室星巴克楼下",
+      "distance": "43m"
+    },
+    {
+      "brand": "星巴克(南京金奥国际中心店)",
+      "address": "江东中路329号金奥国际中心商场一层132、133号铺位",
+      "distance": "47m"
+    },
+    {
+      "brand": "同福面馆",
+      "address": "江东中路333号南京金奥中心",
+      "distance": "60m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "南京嘉业国际城购物中心",
+      "open_date": "2011-01-01",
+      "area": "3.4万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "南京华采天地",
+      "open_date": "2019-05-18",
+      "area": "17万㎡",
+      "jun_daily_avg": "7.4万人次",
+      "weekday_avg": "6.2万人次",
+      "holiday_avg": "10.6万人次"
+    },
+    {
+      "name": "南京IFC",
+      "open_date": "2024-07-26",
+      "area": "10万㎡",
+      "jun_daily_avg": "2.9万人次",
+      "weekday_avg": "3万人次",
+      "holiday_avg": "2.9万人次"
+    },
+    {
+      "name": "南京金奥缤润汇",
+      "open_date": "2016-11-14",
+      "area": "7.8万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "南京中央商场(河西店)",
+      "open_date": "2013-06-28",
+      "area": "5万㎡",
+      "jun_daily_avg": "1.5万人次",
+      "weekday_avg": "1.4万人次",
+      "holiday_avg": "1.8万人次"
+    },
+    {
+      "name": "好邻居生活广场(黄山路店)",
+      "open_date": "-",
+      "area": "-",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 21.0,
+      "within_1yr_pct": 42.9,
+      "1_3yr_pct": 28.6,
+      "over_3yr_pct": 28.6
+    },
+    {
+      "type": "购物",
+      "count": 16.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 31.3,
+      "over_3yr_pct": 43.8
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 3.0,
+      "within_1yr_pct": 66.7,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 33.3
+    },
+    {
+      "type": "教育培训",
+      "count": 7.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 28.6,
+      "over_3yr_pct": 71.4
+    },
+    {
+      "type": "酒店住宿",
+      "count": 2.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "生活服务",
+      "count": 12.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 41.7,
+      "over_3yr_pct": 33.3
+    },
+    {
+      "type": "运动健身",
+      "count": 6.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 66.7
+    },
+    {
+      "type": "车辆服务",
+      "count": 3.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 66.7
+    }
+  ]
+}

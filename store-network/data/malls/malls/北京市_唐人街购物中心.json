@@ -1,0 +1,422 @@
+{
+  "name": "唐人街购物中心",
+  "city": "北京市",
+  "address": "北京市朝阳区亚运村街道民族园路2号",
+  "lat": 39.977499,
+  "lng": 116.392633,
+  "overview": {
+    "score": 73.2,
+    "score_rank": "市内前50%",
+    "population_score": 75.1,
+    "area_score": 68.8,
+    "consumption_score": 81.7,
+    "industry_score": 73.2,
+    "annual_sales": "北京唐人街购物中心位于朝阳区民族园路上，隔壁是中华民族园，靠近北四环，临近奥运会场馆集中区域，外国游客相对多些，因此也十分受益。购物中心内有商家入住，也有一些餐馆，客流量最大的还是超市，毕竟周边居民有日常需要。这个唐人街也是一道风景，对于没有出过国的人们来说，可以来此感受唐人街的文化，同时感受中华文化的伟大",
+    "annual_sales_unit": "-",
+    "area_size_sqm": null,
+    "open_date": "2008-12-01",
+    "operator": "",
+    "brand": "",
+    "type": "综合型",
+    "floors": "B1-L1"
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "-",
+    "annual_daily_rank": "",
+    "jun_total": null,
+    "jun_total_rank": "",
+    "jun_daily_avg": null,
+    "jun_daily_unit": "",
+    "jun_daily_rank": "",
+    "weekday_avg": null,
+    "weekday_unit": "",
+    "weekday_rank": "",
+    "holiday_avg": null,
+    "holiday_unit": "",
+    "holiday_rank": ""
+  },
+  "population": {
+    "residential": {
+      "500m": 1.1,
+      "1_5km": 13.2,
+      "3km": 82.3
+    },
+    "office": {
+      "500m": 1.1,
+      "1_5km": 11.3,
+      "3km": 55.7
+    },
+    "permanent": {
+      "500m": 1.1,
+      "1_5km": 14.0,
+      "3km": 80.6
+    }
+  },
+  "business": {
+    "competitors": null,
+    "food": 67.0,
+    "shopping": 39.0,
+    "leisure": 7.0,
+    "education": 17.0,
+    "hotel": 14.0,
+    "services": 31.0,
+    "fitness": 14.0,
+    "auto": 2.0,
+    "total_stores": 57.0,
+    "old_store_3yr_pct": 44.0
+  },
+  "nearby_poi": {
+    "business": 2.0,
+    "community": 435.0,
+    "office": 59.0,
+    "school": 34.0,
+    "hospital": 113.0,
+    "transport": 11.0,
+    "scenic": 312.0
+  },
+  "demographics": {
+    "male_pct": 52.3,
+    "female_pct": null,
+    "education": {
+      "小学": 8.1,
+      "初中": 13.8,
+      "高中": 12.0,
+      "大专": 5.1,
+      "本科": 47.3,
+      "硕士": 10.7,
+      "博士": 3.0
+    },
+    "has_children_pct": 56.7,
+    "no_children_pct": 43.3
+  },
+  "scraped_at": "2026-08-01T23:28:27.058Z",
+  "nearby_restaurants": [
+    {
+      "brand": "鑫百万烤鸭店(唐人街购物中心店)",
+      "address": "民族园唐人街内1层邻街",
+      "distance": "45m"
+    },
+    {
+      "brand": "北京天外印象餐饮服务有限公司(唐人街购物中心店)",
+      "address": "唐人街购物中心",
+      "distance": "62m"
+    },
+    {
+      "brand": "天外天烤鸭店(唐人街购物中心店)",
+      "address": "亚运村街道民族园路2号唐人街购物中心2楼",
+      "distance": "65m"
+    },
+    {
+      "brand": "唐人茶社(唐人街购物中心店)",
+      "address": "民族园路2号唐人街购物中心F1层",
+      "distance": "77m"
+    },
+    {
+      "brand": "相遇很久湘菜馆(民族园店)",
+      "address": "民族园路2号唐人街购物广场1层唐人街购物中心一层",
+      "distance": "80m"
+    },
+    {
+      "brand": "茶舍沉香(唐人街购物中心店)",
+      "address": "唐人街购物中心",
+      "distance": "89m"
+    },
+    {
+      "brand": "伊澜源兰州牛肉面",
+      "address": "唐人街购物中心",
+      "distance": "124m"
+    },
+    {
+      "brand": "中国兰州牛肉拉面(北京民族园店)",
+      "address": "民族园路与北辰路辅路交叉口西220米",
+      "distance": "129m"
+    },
+    {
+      "brand": "麦当劳(民族园餐厅)",
+      "address": "民族园路1号唐人街购物广场一层",
+      "distance": "129m"
+    },
+    {
+      "brand": "花少爷特色餐厅",
+      "address": "唐人街购物中心",
+      "distance": "131m"
+    },
+    {
+      "brand": "鑫百万烤鸭店(唐人街购物中心店)",
+      "address": "民族园唐人街内1层邻街",
+      "distance": "45m"
+    },
+    {
+      "brand": "北京天外印象餐饮服务有限公司(唐人街购物中心店)",
+      "address": "唐人街购物中心",
+      "distance": "62m"
+    },
+    {
+      "brand": "天外天烤鸭店(唐人街购物中心店)",
+      "address": "亚运村街道民族园路2号唐人街购物中心2楼",
+      "distance": "65m"
+    },
+    {
+      "brand": "唐人茶社(唐人街购物中心店)",
+      "address": "民族园路2号唐人街购物中心F1层",
+      "distance": "77m"
+    },
+    {
+      "brand": "相遇很久湘菜馆(民族园店)",
+      "address": "民族园路2号唐人街购物广场1层唐人街购物中心一层",
+      "distance": "80m"
+    },
+    {
+      "brand": "茶舍沉香(唐人街购物中心店)",
+      "address": "唐人街购物中心",
+      "distance": "89m"
+    },
+    {
+      "brand": "伊澜源兰州牛肉面",
+      "address": "唐人街购物中心",
+      "distance": "124m"
+    },
+    {
+      "brand": "中国兰州牛肉拉面(北京民族园店)",
+      "address": "民族园路与北辰路辅路交叉口西220米",
+      "distance": "129m"
+    },
+    {
+      "brand": "麦当劳(民族园餐厅)",
+      "address": "民族园路1号唐人街购物广场一层",
+      "distance": "129m"
+    },
+    {
+      "brand": "花少爷特色餐厅",
+      "address": "唐人街购物中心",
+      "distance": "131m"
+    },
+    {
+      "brand": "鑫百万烤鸭店(唐人街购物中心店)",
+      "address": "民族园唐人街内1层邻街",
+      "distance": "45m"
+    },
+    {
+      "brand": "北京天外印象餐饮服务有限公司(唐人街购物中心店)",
+      "address": "唐人街购物中心",
+      "distance": "62m"
+    },
+    {
+      "brand": "天外天烤鸭店(唐人街购物中心店)",
+      "address": "亚运村街道民族园路2号唐人街购物中心2楼",
+      "distance": "65m"
+    },
+    {
+      "brand": "唐人茶社(唐人街购物中心店)",
+      "address": "民族园路2号唐人街购物中心F1层",
+      "distance": "77m"
+    },
+    {
+      "brand": "相遇很久湘菜馆(民族园店)",
+      "address": "民族园路2号唐人街购物广场1层唐人街购物中心一层",
+      "distance": "80m"
+    },
+    {
+      "brand": "茶舍沉香(唐人街购物中心店)",
+      "address": "唐人街购物中心",
+      "distance": "89m"
+    },
+    {
+      "brand": "伊澜源兰州牛肉面",
+      "address": "唐人街购物中心",
+      "distance": "124m"
+    },
+    {
+      "brand": "中国兰州牛肉拉面(北京民族园店)",
+      "address": "民族园路与北辰路辅路交叉口西220米",
+      "distance": "129m"
+    },
+    {
+      "brand": "麦当劳(民族园餐厅)",
+      "address": "民族园路1号唐人街购物广场一层",
+      "distance": "129m"
+    },
+    {
+      "brand": "花少爷特色餐厅",
+      "address": "唐人街购物中心",
+      "distance": "131m"
+    },
+    {
+      "brand": "鑫百万烤鸭店(唐人街购物中心店)",
+      "address": "民族园唐人街内1层邻街",
+      "distance": "45m"
+    },
+    {
+      "brand": "北京天外印象餐饮服务有限公司(唐人街购物中心店)",
+      "address": "唐人街购物中心",
+      "distance": "62m"
+    },
+    {
+      "brand": "天外天烤鸭店(唐人街购物中心店)",
+      "address": "亚运村街道民族园路2号唐人街购物中心2楼",
+      "distance": "65m"
+    },
+    {
+      "brand": "唐人茶社(唐人街购物中心店)",
+      "address": "民族园路2号唐人街购物中心F1层",
+      "distance": "77m"
+    },
+    {
+      "brand": "相遇很久湘菜馆(民族园店)",
+      "address": "民族园路2号唐人街购物广场1层唐人街购物中心一层",
+      "distance": "80m"
+    },
+    {
+      "brand": "茶舍沉香(唐人街购物中心店)",
+      "address": "唐人街购物中心",
+      "distance": "89m"
+    },
+    {
+      "brand": "伊澜源兰州牛肉面",
+      "address": "唐人街购物中心",
+      "distance": "124m"
+    },
+    {
+      "brand": "中国兰州牛肉拉面(北京民族园店)",
+      "address": "民族园路与北辰路辅路交叉口西220米",
+      "distance": "129m"
+    },
+    {
+      "brand": "麦当劳(民族园餐厅)",
+      "address": "民族园路1号唐人街购物广场一层",
+      "distance": "129m"
+    },
+    {
+      "brand": "花少爷特色餐厅",
+      "address": "唐人街购物中心",
+      "distance": "131m"
+    },
+    {
+      "brand": "鑫百万烤鸭店(唐人街购物中心店)",
+      "address": "民族园唐人街内1层邻街",
+      "distance": "45m"
+    },
+    {
+      "brand": "北京天外印象餐饮服务有限公司(唐人街购物中心店)",
+      "address": "唐人街购物中心",
+      "distance": "62m"
+    },
+    {
+      "brand": "天外天烤鸭店(唐人街购物中心店)",
+      "address": "亚运村街道民族园路2号唐人街购物中心2楼",
+      "distance": "65m"
+    },
+    {
+      "brand": "唐人茶社(唐人街购物中心店)",
+      "address": "民族园路2号唐人街购物中心F1层",
+      "distance": "77m"
+    },
+    {
+      "brand": "相遇很久湘菜馆(民族园店)",
+      "address": "民族园路2号唐人街购物广场1层唐人街购物中心一层",
+      "distance": "80m"
+    },
+    {
+      "brand": "茶舍沉香(唐人街购物中心店)",
+      "address": "唐人街购物中心",
+      "distance": "89m"
+    },
+    {
+      "brand": "伊澜源兰州牛肉面",
+      "address": "唐人街购物中心",
+      "distance": "124m"
+    },
+    {
+      "brand": "中国兰州牛肉拉面(北京民族园店)",
+      "address": "民族园路与北辰路辅路交叉口西220米",
+      "distance": "129m"
+    },
+    {
+      "brand": "麦当劳(民族园餐厅)",
+      "address": "民族园路1号唐人街购物广场一层",
+      "distance": "129m"
+    },
+    {
+      "brand": "花少爷特色餐厅",
+      "address": "唐人街购物中心",
+      "distance": "131m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "北京北投购物公园",
+      "open_date": "2022-09-01",
+      "area": "4.5万㎡",
+      "jun_daily_avg": "3.2万人次",
+      "weekday_avg": "3.2万人次",
+      "holiday_avg": "3.3万人次"
+    },
+    {
+      "name": "北京中海环宇荟",
+      "open_date": "2018-05-26",
+      "area": "4万㎡",
+      "jun_daily_avg": "3.3万人次",
+      "weekday_avg": "3.3万人次",
+      "holiday_avg": "3.2万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 13.0,
+      "within_1yr_pct": 30.8,
+      "1_3yr_pct": 23.1,
+      "over_3yr_pct": 46.2
+    },
+    {
+      "type": "购物",
+      "count": 16.0,
+      "within_1yr_pct": 12.5,
+      "1_3yr_pct": 18.8,
+      "over_3yr_pct": 68.8
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 4.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 25.0
+    },
+    {
+      "type": "教育培训",
+      "count": 7.0,
+      "within_1yr_pct": 14.3,
+      "1_3yr_pct": 28.6,
+      "over_3yr_pct": 57.1
+    },
+    {
+      "type": "酒店住宿",
+      "count": 6.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "生活服务",
+      "count": 9.0,
+      "within_1yr_pct": 11.1,
+      "1_3yr_pct": 66.7,
+      "over_3yr_pct": 22.2
+    },
+    {
+      "type": "运动健身",
+      "count": 1.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    }
+  ]
+}

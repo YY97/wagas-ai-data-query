@@ -1,0 +1,486 @@
+{
+  "name": "红唐购物中心",
+  "city": "苏州市",
+  "address": "江苏省苏州市虎丘区喜年街999号",
+  "lat": 31.291794,
+  "lng": 120.562811,
+  "overview": {
+    "score": 81.6,
+    "score_rank": "市内前30%",
+    "population_score": 89.7,
+    "area_score": 80.3,
+    "consumption_score": 84.4,
+    "industry_score": 81.6,
+    "annual_sales": "苏州红唐是花样年商旅文旗下的购物中心旗舰项目，位于苏州高新区狮山CBD核心地区。项目旨在通过新颖有趣的室内场景空间、趣味业态布局及创新商业模式，以人文、品质、艺术为形象定位，为苏州消费者打造一个集趣味、享受、体验于一身的都市潮趣新主场",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 12.0,
+    "open_date": "2021-09-01",
+    "operator": "花样年控股集团有限公司",
+    "brand": "花样年FANTASIA",
+    "type": "综合型",
+    "floors": "B1-L5"
+  },
+  "traffic": {
+    "annual_daily": 4274.0,
+    "annual_daily_unit": "人次",
+    "annual_daily_rank": "市内第196",
+    "jun_total": 24.1,
+    "jun_total_rank": "市内商场第177名",
+    "jun_daily_avg": 8044.0,
+    "jun_daily_unit": "人次",
+    "jun_daily_rank": "市内商场第177名",
+    "weekday_avg": 7202.0,
+    "weekday_unit": "人次",
+    "weekday_rank": "市内商场第177名",
+    "holiday_avg": 1.0,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第169名"
+  },
+  "population": {
+    "residential": {
+      "500m": 1.3,
+      "1_5km": 9.5,
+      "3km": 37.0
+    },
+    "office": {
+      "500m": 1.0,
+      "1_5km": 7.7,
+      "3km": 21.6
+    },
+    "permanent": {
+      "500m": 1.4,
+      "1_5km": 10.4,
+      "3km": 36.8
+    }
+  },
+  "business": {
+    "competitors": 4.0,
+    "food": 233.0,
+    "shopping": 90.0,
+    "leisure": 32.0,
+    "education": 30.0,
+    "hotel": 45.0,
+    "services": 133.0,
+    "fitness": 25.0,
+    "auto": 15.0,
+    "total_stores": 53.0,
+    "old_store_3yr_pct": 47.0
+  },
+  "nearby_poi": {
+    "business": 10.0,
+    "community": 300.0,
+    "office": 56.0,
+    "school": 24.0,
+    "hospital": 48.0,
+    "transport": 13.0,
+    "scenic": 202.0
+  },
+  "demographics": {
+    "male_pct": 53.3,
+    "female_pct": null,
+    "education": {
+      "小学": 9.4,
+      "初中": 19.0,
+      "高中": 13.4,
+      "大专": 10.1,
+      "本科": 43.0,
+      "硕士": 4.1,
+      "博士": 1.0
+    },
+    "has_children_pct": 58.4,
+    "no_children_pct": 41.6
+  },
+  "scraped_at": "2026-08-02T10:36:50.739Z",
+  "nearby_restaurants": [
+    {
+      "brand": "马厚厚品质鱼火锅(苏州红唐购物中心店)",
+      "address": "滨河路999号红唐购物中心西区一层",
+      "distance": "42m"
+    },
+    {
+      "brand": "万恋日本料理(红唐购物中心店)",
+      "address": "红唐购物中心北1门东130米",
+      "distance": "42m"
+    },
+    {
+      "brand": "横店味道(红唐购物中心店)",
+      "address": "滨河路999号苏州红唐购物中心F3层",
+      "distance": "48m"
+    },
+    {
+      "brand": "新岸香私房菜(新区红唐店)",
+      "address": "狮山街道滨河路999号红唐购物中心西区4楼",
+      "distance": "53m"
+    },
+    {
+      "brand": "尚食·怀石料理(苏州红唐购物中心店)",
+      "address": "狮山街道狮山路35号红唐购物中心西区2楼",
+      "distance": "59m"
+    },
+    {
+      "brand": "苏小炉市井排档地摊烧烤(苏州红唐购物中心店)",
+      "address": "滨河路999号苏州红唐购物中心F1层",
+      "distance": "60m"
+    },
+    {
+      "brand": "徽小碗·江浙皖土菜(新区淮海街店)",
+      "address": "喜年街999号红唐西区一楼(淮海街方向近西大门)",
+      "distance": "93m"
+    },
+    {
+      "brand": "露娜咖啡吧",
+      "address": "喜年街与淮海街交叉口东南20米",
+      "distance": "142m"
+    },
+    {
+      "brand": "藤家日本料理·炭烤海鲜·寿喜锅(淮海街店)",
+      "address": "淮海街25号(狮山路地铁站2东南口步行400米)",
+      "distance": "146m"
+    },
+    {
+      "brand": "神宫日本料理(淮海街商业街店)",
+      "address": "淮海街29号(狮山路地铁站2东南口步行470米)",
+      "distance": "149m"
+    },
+    {
+      "brand": "马厚厚品质鱼火锅(苏州红唐购物中心店)",
+      "address": "滨河路999号红唐购物中心西区一层",
+      "distance": "42m"
+    },
+    {
+      "brand": "万恋日本料理(红唐购物中心店)",
+      "address": "红唐购物中心北1门东130米",
+      "distance": "42m"
+    },
+    {
+      "brand": "横店味道(红唐购物中心店)",
+      "address": "滨河路999号苏州红唐购物中心F3层",
+      "distance": "48m"
+    },
+    {
+      "brand": "新岸香私房菜(新区红唐店)",
+      "address": "狮山街道滨河路999号红唐购物中心西区4楼",
+      "distance": "53m"
+    },
+    {
+      "brand": "尚食·怀石料理(苏州红唐购物中心店)",
+      "address": "狮山街道狮山路35号红唐购物中心西区2楼",
+      "distance": "59m"
+    },
+    {
+      "brand": "苏小炉市井排档地摊烧烤(苏州红唐购物中心店)",
+      "address": "滨河路999号苏州红唐购物中心F1层",
+      "distance": "60m"
+    },
+    {
+      "brand": "徽小碗·江浙皖土菜(新区淮海街店)",
+      "address": "喜年街999号红唐西区一楼(淮海街方向近西大门)",
+      "distance": "93m"
+    },
+    {
+      "brand": "露娜咖啡吧",
+      "address": "喜年街与淮海街交叉口东南20米",
+      "distance": "142m"
+    },
+    {
+      "brand": "藤家日本料理·炭烤海鲜·寿喜锅(淮海街店)",
+      "address": "淮海街25号(狮山路地铁站2东南口步行400米)",
+      "distance": "146m"
+    },
+    {
+      "brand": "神宫日本料理(淮海街商业街店)",
+      "address": "淮海街29号(狮山路地铁站2东南口步行470米)",
+      "distance": "149m"
+    },
+    {
+      "brand": "马厚厚品质鱼火锅(苏州红唐购物中心店)",
+      "address": "滨河路999号红唐购物中心西区一层",
+      "distance": "42m"
+    },
+    {
+      "brand": "万恋日本料理(红唐购物中心店)",
+      "address": "红唐购物中心北1门东130米",
+      "distance": "42m"
+    },
+    {
+      "brand": "横店味道(红唐购物中心店)",
+      "address": "滨河路999号苏州红唐购物中心F3层",
+      "distance": "48m"
+    },
+    {
+      "brand": "新岸香私房菜(新区红唐店)",
+      "address": "狮山街道滨河路999号红唐购物中心西区4楼",
+      "distance": "53m"
+    },
+    {
+      "brand": "尚食·怀石料理(苏州红唐购物中心店)",
+      "address": "狮山街道狮山路35号红唐购物中心西区2楼",
+      "distance": "59m"
+    },
+    {
+      "brand": "苏小炉市井排档地摊烧烤(苏州红唐购物中心店)",
+      "address": "滨河路999号苏州红唐购物中心F1层",
+      "distance": "60m"
+    },
+    {
+      "brand": "徽小碗·江浙皖土菜(新区淮海街店)",
+      "address": "喜年街999号红唐西区一楼(淮海街方向近西大门)",
+      "distance": "93m"
+    },
+    {
+      "brand": "露娜咖啡吧",
+      "address": "喜年街与淮海街交叉口东南20米",
+      "distance": "142m"
+    },
+    {
+      "brand": "藤家日本料理·炭烤海鲜·寿喜锅(淮海街店)",
+      "address": "淮海街25号(狮山路地铁站2东南口步行400米)",
+      "distance": "146m"
+    },
+    {
+      "brand": "神宫日本料理(淮海街商业街店)",
+      "address": "淮海街29号(狮山路地铁站2东南口步行470米)",
+      "distance": "149m"
+    },
+    {
+      "brand": "马厚厚品质鱼火锅(苏州红唐购物中心店)",
+      "address": "滨河路999号红唐购物中心西区一层",
+      "distance": "42m"
+    },
+    {
+      "brand": "万恋日本料理(红唐购物中心店)",
+      "address": "红唐购物中心北1门东130米",
+      "distance": "42m"
+    },
+    {
+      "brand": "横店味道(红唐购物中心店)",
+      "address": "滨河路999号苏州红唐购物中心F3层",
+      "distance": "48m"
+    },
+    {
+      "brand": "新岸香私房菜(新区红唐店)",
+      "address": "狮山街道滨河路999号红唐购物中心西区4楼",
+      "distance": "53m"
+    },
+    {
+      "brand": "尚食·怀石料理(苏州红唐购物中心店)",
+      "address": "狮山街道狮山路35号红唐购物中心西区2楼",
+      "distance": "59m"
+    },
+    {
+      "brand": "苏小炉市井排档地摊烧烤(苏州红唐购物中心店)",
+      "address": "滨河路999号苏州红唐购物中心F1层",
+      "distance": "60m"
+    },
+    {
+      "brand": "徽小碗·江浙皖土菜(新区淮海街店)",
+      "address": "喜年街999号红唐西区一楼(淮海街方向近西大门)",
+      "distance": "93m"
+    },
+    {
+      "brand": "露娜咖啡吧",
+      "address": "喜年街与淮海街交叉口东南20米",
+      "distance": "142m"
+    },
+    {
+      "brand": "藤家日本料理·炭烤海鲜·寿喜锅(淮海街店)",
+      "address": "淮海街25号(狮山路地铁站2东南口步行400米)",
+      "distance": "146m"
+    },
+    {
+      "brand": "神宫日本料理(淮海街商业街店)",
+      "address": "淮海街29号(狮山路地铁站2东南口步行470米)",
+      "distance": "149m"
+    },
+    {
+      "brand": "马厚厚品质鱼火锅(苏州红唐购物中心店)",
+      "address": "滨河路999号红唐购物中心西区一层",
+      "distance": "42m"
+    },
+    {
+      "brand": "万恋日本料理(红唐购物中心店)",
+      "address": "红唐购物中心北1门东130米",
+      "distance": "42m"
+    },
+    {
+      "brand": "横店味道(红唐购物中心店)",
+      "address": "滨河路999号苏州红唐购物中心F3层",
+      "distance": "48m"
+    },
+    {
+      "brand": "新岸香私房菜(新区红唐店)",
+      "address": "狮山街道滨河路999号红唐购物中心西区4楼",
+      "distance": "53m"
+    },
+    {
+      "brand": "尚食·怀石料理(苏州红唐购物中心店)",
+      "address": "狮山街道狮山路35号红唐购物中心西区2楼",
+      "distance": "59m"
+    },
+    {
+      "brand": "苏小炉市井排档地摊烧烤(苏州红唐购物中心店)",
+      "address": "滨河路999号苏州红唐购物中心F1层",
+      "distance": "60m"
+    },
+    {
+      "brand": "徽小碗·江浙皖土菜(新区淮海街店)",
+      "address": "喜年街999号红唐西区一楼(淮海街方向近西大门)",
+      "distance": "93m"
+    },
+    {
+      "brand": "露娜咖啡吧",
+      "address": "喜年街与淮海街交叉口东南20米",
+      "distance": "142m"
+    },
+    {
+      "brand": "藤家日本料理·炭烤海鲜·寿喜锅(淮海街店)",
+      "address": "淮海街25号(狮山路地铁站2东南口步行400米)",
+      "distance": "146m"
+    },
+    {
+      "brand": "神宫日本料理(淮海街商业街店)",
+      "address": "淮海街29号(狮山路地铁站2东南口步行470米)",
+      "distance": "149m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "苏州佐阾锦华购物中心",
+      "open_date": "2002-01-01",
+      "area": "1万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "苏州吴宫丽都",
+      "open_date": "2006-01-01",
+      "area": "6.8万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "苏州龙湖狮山天街",
+      "open_date": "2017-09-28",
+      "area": "27万㎡",
+      "jun_daily_avg": "10.1万人次",
+      "weekday_avg": "8.8万人次",
+      "holiday_avg": "13.6万人次"
+    },
+    {
+      "name": "龙湖苏州狮山天街北里(B馆)",
+      "open_date": "2021-04-30",
+      "area": "4万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "苏州狮山天街生活广场",
+      "open_date": "2017-09-28",
+      "area": "27万㎡",
+      "jun_daily_avg": "1.5万人次",
+      "weekday_avg": "1.4万人次",
+      "holiday_avg": "1.7万人次"
+    },
+    {
+      "name": "苏州狮山永利广场",
+      "open_date": "2010-08-01",
+      "area": "4万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "苏州金鹰国际购物中心(高新店)",
+      "open_date": "2017-01-18",
+      "area": "17万㎡",
+      "jun_daily_avg": "4万人次",
+      "weekday_avg": "3.4万人次",
+      "holiday_avg": "5.5万人次"
+    },
+    {
+      "name": "苏州狮山梦之城生活广场",
+      "open_date": "2023-10-28",
+      "area": "2.1万㎡",
+      "jun_daily_avg": "1.4万人次",
+      "weekday_avg": "1.4万人次",
+      "holiday_avg": "1.5万人次"
+    },
+    {
+      "name": "苏州If Mall易生活购物公园",
+      "open_date": "2016-12-10",
+      "area": "6万㎡",
+      "jun_daily_avg": "1.8万人次",
+      "weekday_avg": "1.7万人次",
+      "holiday_avg": "2.4万人次"
+    },
+    {
+      "name": "苏州绿宝广场",
+      "open_date": "2007-04-28",
+      "area": "30万㎡",
+      "jun_daily_avg": "4.7万人次",
+      "weekday_avg": "4万人次",
+      "holiday_avg": "6.6万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 7.0,
+      "within_1yr_pct": 14.3,
+      "1_3yr_pct": 14.3,
+      "over_3yr_pct": 71.4
+    },
+    {
+      "type": "购物",
+      "count": 11.0,
+      "within_1yr_pct": 18.2,
+      "1_3yr_pct": 63.6,
+      "over_3yr_pct": 18.2
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 7.0,
+      "within_1yr_pct": 14.3,
+      "1_3yr_pct": 42.9,
+      "over_3yr_pct": 42.9
+    },
+    {
+      "type": "教育培训",
+      "count": 7.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 28.6,
+      "over_3yr_pct": 71.4
+    },
+    {
+      "type": "酒店住宿",
+      "count": 4.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 25.0
+    },
+    {
+      "type": "生活服务",
+      "count": 11.0,
+      "within_1yr_pct": 18.2,
+      "1_3yr_pct": 36.4,
+      "over_3yr_pct": 45.5
+    },
+    {
+      "type": "运动健身",
+      "count": 5.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 20.0,
+      "over_3yr_pct": 80.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
+    }
+  ]
+}

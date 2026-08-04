@@ -1,0 +1,479 @@
+{
+  "name": "ycc!天宜",
+  "city": "广州市",
+  "address": "广东省广州市天河区林和中路156-160号",
+  "lat": 23.146404,
+  "lng": 113.325889,
+  "overview": {
+    "score": 69.5,
+    "score_rank": "市内前70%",
+    "population_score": 90.5,
+    "area_score": 88.8,
+    "consumption_score": 93.1,
+    "industry_score": 69.3,
+    "annual_sales": "2",
+    "annual_sales_unit": "亿元",
+    "area_size_sqm": 1.6,
+    "open_date": "2021-05-12",
+    "operator": "YCC!天宜团队",
+    "brand": "",
+    "type": "亲子型",
+    "floors": "B1-L2"
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "-",
+    "annual_daily_rank": "",
+    "jun_total": null,
+    "jun_total_rank": "",
+    "jun_daily_avg": null,
+    "jun_daily_unit": "",
+    "jun_daily_rank": "",
+    "weekday_avg": null,
+    "weekday_unit": "",
+    "weekday_rank": "",
+    "holiday_avg": null,
+    "holiday_unit": "",
+    "holiday_rank": ""
+  },
+  "population": {
+    "residential": {
+      "500m": 3.5,
+      "1_5km": 23.9,
+      "3km": 98.7
+    },
+    "office": {
+      "500m": 5.0,
+      "1_5km": 24.5,
+      "3km": 90.4
+    },
+    "permanent": {
+      "500m": 6.0,
+      "1_5km": 26.5,
+      "3km": 100.2
+    }
+  },
+  "business": {
+    "competitors": 13.0,
+    "food": 475.0,
+    "shopping": 258.0,
+    "leisure": 40.0,
+    "education": 71.0,
+    "hotel": 101.0,
+    "services": 250.0,
+    "fitness": 39.0,
+    "auto": 32.0,
+    "total_stores": 25.0,
+    "old_store_3yr_pct": 32.0
+  },
+  "nearby_poi": {
+    "business": 16.0,
+    "community": 478.0,
+    "office": 132.0,
+    "school": 63.0,
+    "hospital": 211.0,
+    "transport": 12.0,
+    "scenic": 378.0
+  },
+  "demographics": {
+    "male_pct": 47.8,
+    "female_pct": null,
+    "education": {
+      "小学": 9.1,
+      "初中": 18.1,
+      "高中": 14.9,
+      "大专": 8.1,
+      "本科": 42.1,
+      "硕士": 6.1,
+      "博士": 1.6
+    },
+    "has_children_pct": 58.1,
+    "no_children_pct": 41.9
+  },
+  "scraped_at": "2026-08-02T09:04:02.667Z",
+  "nearby_restaurants": [
+    {
+      "brand": "御品食府",
+      "address": "林和中路156号五楼自编4号",
+      "distance": "1m"
+    },
+    {
+      "brand": "优雅阁",
+      "address": "林和中路150-152号天誉花园一期",
+      "distance": "10m"
+    },
+    {
+      "brand": "EMAN FRESH PASTA(天誉花园店)",
+      "address": "林和中路156号YCC天宜",
+      "distance": "33m"
+    },
+    {
+      "brand": "星月咖XY COFFEE(天誉花园一期店)",
+      "address": "林和中路150-152号天誉花园一期",
+      "distance": "39m"
+    },
+    {
+      "brand": "奢韵·乐咖啡LECOFFEE",
+      "address": "林和中路156号102房",
+      "distance": "51m"
+    },
+    {
+      "brand": "友会日式猪排(林和中路店)",
+      "address": "广州市天河区林和中路136号104铺自编H05",
+      "distance": "92m"
+    },
+    {
+      "brand": "点都德(和兴楼)",
+      "address": "林和中路148号嘉逸豪庭酒店2层",
+      "distance": "96m"
+    },
+    {
+      "brand": "林和荟馆",
+      "address": "林和中路与紫荆路交叉口东北180米",
+      "distance": "100m"
+    },
+    {
+      "brand": "春夏日本料理(林和中路店)",
+      "address": "林和中路148号嘉逸豪庭酒店大堂一楼",
+      "distance": "101m"
+    },
+    {
+      "brand": "米悦朝鲜族拌饭(广州东站店)",
+      "address": "林和中路与紫荆路交叉口东南60米",
+      "distance": "105m"
+    },
+    {
+      "brand": "御品食府",
+      "address": "林和中路156号五楼自编4号",
+      "distance": "1m"
+    },
+    {
+      "brand": "优雅阁",
+      "address": "林和中路150-152号天誉花园一期",
+      "distance": "10m"
+    },
+    {
+      "brand": "EMAN FRESH PASTA(天誉花园店)",
+      "address": "林和中路156号YCC天宜",
+      "distance": "33m"
+    },
+    {
+      "brand": "星月咖XY COFFEE(天誉花园一期店)",
+      "address": "林和中路150-152号天誉花园一期",
+      "distance": "39m"
+    },
+    {
+      "brand": "奢韵·乐咖啡LECOFFEE",
+      "address": "林和中路156号102房",
+      "distance": "51m"
+    },
+    {
+      "brand": "友会日式猪排(林和中路店)",
+      "address": "广州市天河区林和中路136号104铺自编H05",
+      "distance": "92m"
+    },
+    {
+      "brand": "点都德(和兴楼)",
+      "address": "林和中路148号嘉逸豪庭酒店2层",
+      "distance": "96m"
+    },
+    {
+      "brand": "林和荟馆",
+      "address": "林和中路与紫荆路交叉口东北180米",
+      "distance": "100m"
+    },
+    {
+      "brand": "春夏日本料理(林和中路店)",
+      "address": "林和中路148号嘉逸豪庭酒店大堂一楼",
+      "distance": "101m"
+    },
+    {
+      "brand": "米悦朝鲜族拌饭(广州东站店)",
+      "address": "林和中路与紫荆路交叉口东南60米",
+      "distance": "105m"
+    },
+    {
+      "brand": "御品食府",
+      "address": "林和中路156号五楼自编4号",
+      "distance": "1m"
+    },
+    {
+      "brand": "优雅阁",
+      "address": "林和中路150-152号天誉花园一期",
+      "distance": "10m"
+    },
+    {
+      "brand": "EMAN FRESH PASTA(天誉花园店)",
+      "address": "林和中路156号YCC天宜",
+      "distance": "33m"
+    },
+    {
+      "brand": "星月咖XY COFFEE(天誉花园一期店)",
+      "address": "林和中路150-152号天誉花园一期",
+      "distance": "39m"
+    },
+    {
+      "brand": "奢韵·乐咖啡LECOFFEE",
+      "address": "林和中路156号102房",
+      "distance": "51m"
+    },
+    {
+      "brand": "友会日式猪排(林和中路店)",
+      "address": "广州市天河区林和中路136号104铺自编H05",
+      "distance": "92m"
+    },
+    {
+      "brand": "点都德(和兴楼)",
+      "address": "林和中路148号嘉逸豪庭酒店2层",
+      "distance": "96m"
+    },
+    {
+      "brand": "林和荟馆",
+      "address": "林和中路与紫荆路交叉口东北180米",
+      "distance": "100m"
+    },
+    {
+      "brand": "春夏日本料理(林和中路店)",
+      "address": "林和中路148号嘉逸豪庭酒店大堂一楼",
+      "distance": "101m"
+    },
+    {
+      "brand": "米悦朝鲜族拌饭(广州东站店)",
+      "address": "林和中路与紫荆路交叉口东南60米",
+      "distance": "105m"
+    },
+    {
+      "brand": "御品食府",
+      "address": "林和中路156号五楼自编4号",
+      "distance": "1m"
+    },
+    {
+      "brand": "优雅阁",
+      "address": "林和中路150-152号天誉花园一期",
+      "distance": "10m"
+    },
+    {
+      "brand": "EMAN FRESH PASTA(天誉花园店)",
+      "address": "林和中路156号YCC天宜",
+      "distance": "33m"
+    },
+    {
+      "brand": "星月咖XY COFFEE(天誉花园一期店)",
+      "address": "林和中路150-152号天誉花园一期",
+      "distance": "39m"
+    },
+    {
+      "brand": "奢韵·乐咖啡LECOFFEE",
+      "address": "林和中路156号102房",
+      "distance": "51m"
+    },
+    {
+      "brand": "友会日式猪排(林和中路店)",
+      "address": "广州市天河区林和中路136号104铺自编H05",
+      "distance": "92m"
+    },
+    {
+      "brand": "点都德(和兴楼)",
+      "address": "林和中路148号嘉逸豪庭酒店2层",
+      "distance": "96m"
+    },
+    {
+      "brand": "林和荟馆",
+      "address": "林和中路与紫荆路交叉口东北180米",
+      "distance": "100m"
+    },
+    {
+      "brand": "春夏日本料理(林和中路店)",
+      "address": "林和中路148号嘉逸豪庭酒店大堂一楼",
+      "distance": "101m"
+    },
+    {
+      "brand": "米悦朝鲜族拌饭(广州东站店)",
+      "address": "林和中路与紫荆路交叉口东南60米",
+      "distance": "105m"
+    },
+    {
+      "brand": "御品食府",
+      "address": "林和中路156号五楼自编4号",
+      "distance": "1m"
+    },
+    {
+      "brand": "优雅阁",
+      "address": "林和中路150-152号天誉花园一期",
+      "distance": "10m"
+    },
+    {
+      "brand": "EMAN FRESH PASTA(天誉花园店)",
+      "address": "林和中路156号YCC天宜",
+      "distance": "33m"
+    },
+    {
+      "brand": "星月咖XY COFFEE(天誉花园一期店)",
+      "address": "林和中路150-152号天誉花园一期",
+      "distance": "39m"
+    },
+    {
+      "brand": "奢韵·乐咖啡LECOFFEE",
+      "address": "林和中路156号102房",
+      "distance": "51m"
+    },
+    {
+      "brand": "友会日式猪排(林和中路店)",
+      "address": "广州市天河区林和中路136号104铺自编H05",
+      "distance": "92m"
+    },
+    {
+      "brand": "点都德(和兴楼)",
+      "address": "林和中路148号嘉逸豪庭酒店2层",
+      "distance": "96m"
+    },
+    {
+      "brand": "林和荟馆",
+      "address": "林和中路与紫荆路交叉口东北180米",
+      "distance": "100m"
+    },
+    {
+      "brand": "春夏日本料理(林和中路店)",
+      "address": "林和中路148号嘉逸豪庭酒店大堂一楼",
+      "distance": "101m"
+    },
+    {
+      "brand": "米悦朝鲜族拌饭(广州东站店)",
+      "address": "林和中路与紫荆路交叉口东南60米",
+      "distance": "105m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "广州东方宝泰购物广场",
+      "open_date": "2009-10-01",
+      "area": "12万㎡",
+      "jun_daily_avg": "5.6万人次",
+      "weekday_avg": "5.1万人次",
+      "holiday_avg": "6.8万人次"
+    },
+    {
+      "name": "广州ICC 环贸天地",
+      "open_date": "2021-09-29",
+      "area": "4.5万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "广州中天购物城",
+      "open_date": "1997-01-01",
+      "area": "4.5万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "广州佳兆业广场",
+      "open_date": "2008-06-01",
+      "area": "4万㎡",
+      "jun_daily_avg": "2.2万人次",
+      "weekday_avg": "2.3万人次",
+      "holiday_avg": "1.8万人次"
+    },
+    {
+      "name": "广州友谊OUTLETS(时代广场)",
+      "open_date": "2013-11-30",
+      "area": "2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "广州天河汇运动商城",
+      "open_date": "2006-09-01",
+      "area": "-",
+      "jun_daily_avg": "8.1万人次",
+      "weekday_avg": "6.3万人次",
+      "holiday_avg": "13.1万人次"
+    },
+    {
+      "name": "广州时尚天河商业广场",
+      "open_date": "2011-01-01",
+      "area": "14万㎡",
+      "jun_daily_avg": "8.1万人次",
+      "weekday_avg": "6.3万人次",
+      "holiday_avg": "13.1万人次"
+    },
+    {
+      "name": "百福广场",
+      "open_date": "-",
+      "area": "-",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "广州VT101维多利广场",
+      "open_date": "2002-01-01",
+      "area": "2.7万㎡",
+      "jun_daily_avg": "2.1万人次",
+      "weekday_avg": "1.9万人次",
+      "holiday_avg": "2.6万人次"
+    },
+    {
+      "name": "天平商业广场",
+      "open_date": "-",
+      "area": "-",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 5.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 80.0,
+      "over_3yr_pct": 20.0
+    },
+    {
+      "type": "购物",
+      "count": 1.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 1.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "教育培训",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 5.0,
+      "within_1yr_pct": 40.0,
+      "1_3yr_pct": 20.0,
+      "over_3yr_pct": 40.0
+    },
+    {
+      "type": "生活服务",
+      "count": 5.0,
+      "within_1yr_pct": 40.0,
+      "1_3yr_pct": 60.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "运动健身",
+      "count": 7.0,
+      "within_1yr_pct": 28.6,
+      "1_3yr_pct": 14.3,
+      "over_3yr_pct": 57.1
+    }
+  ]
+}

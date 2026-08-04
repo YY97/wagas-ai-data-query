@@ -1,0 +1,213 @@
+{
+  "name": "博览汇广场",
+  "city": "上海市",
+  "address": "上海市嘉定区真新街道浙商商业广场曹丰建材家居商场",
+  "lat": 31.252137,
+  "lng": 121.365302,
+  "overview": {
+    "score": 86.3,
+    "score_rank": "市内前30%",
+    "population_score": 93.6,
+    "area_score": 92.8,
+    "consumption_score": 69.4,
+    "industry_score": 86.2,
+    "annual_sales": "",
+    "annual_sales_unit": "",
+    "area_size_sqm": null,
+    "open_date": "",
+    "operator": "",
+    "brand": "",
+    "type": "",
+    "floors": ""
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "",
+    "annual_daily_rank": "",
+    "jun_total": null,
+    "jun_total_rank": "",
+    "jun_daily_avg": null,
+    "jun_daily_unit": "",
+    "jun_daily_rank": "",
+    "weekday_avg": null,
+    "weekday_unit": "",
+    "weekday_rank": "",
+    "holiday_avg": null,
+    "holiday_unit": "",
+    "holiday_rank": ""
+  },
+  "population": {
+    "residential": {
+      "500m": 2.8,
+      "1_5km": 24.0,
+      "3km": 63.7
+    },
+    "office": {
+      "500m": 1.8,
+      "1_5km": 8.9,
+      "3km": 34.9
+    },
+    "permanent": {
+      "500m": 2.9,
+      "1_5km": 23.8,
+      "3km": 64.0
+    }
+  },
+  "business": {
+    "competitors": 1.0,
+    "food": 245.0,
+    "shopping": 406.0,
+    "leisure": 26.0,
+    "education": 10.0,
+    "hotel": 38.0,
+    "services": 133.0,
+    "fitness": 8.0,
+    "auto": 43.0,
+    "total_stores": 915.0,
+    "old_store_3yr_pct": 50.0
+  },
+  "nearby_poi": {
+    "business": 4.0,
+    "community": 240.0,
+    "office": 32.0,
+    "school": 21.0,
+    "hospital": 43.0,
+    "transport": 18.0,
+    "scenic": 75.0
+  },
+  "demographics": {
+    "male_pct": 47.1,
+    "female_pct": null,
+    "education": {
+      "小学": 10.1,
+      "初中": 18.9,
+      "高中": 11.5,
+      "大专": 8.7,
+      "本科": 46.2,
+      "硕士": 3.4,
+      "博士": 1.2
+    },
+    "has_children_pct": null,
+    "no_children_pct": null
+  },
+  "scraped_at": "2026-08-01T08:59:38.097Z",
+  "nearby_restaurants": [
+    {
+      "brand": "福建馄饨(好乐广场店)",
+      "address": "丰庄北路567号",
+      "distance": "479m"
+    },
+    {
+      "brand": "大胡子烤吧",
+      "address": "延川路与丰庄北路交叉口南100米",
+      "distance": "487m"
+    },
+    {
+      "brand": "福建千里香馄饨王(铜川路店)",
+      "address": "逸香园西南门旁(定边路地铁站1号口步行250米)",
+      "distance": "492m"
+    },
+    {
+      "brand": "独秀馒头(逸香园店)",
+      "address": "逸香园西南门旁(定边路地铁站1号口步行260米)",
+      "distance": "492m"
+    },
+    {
+      "brand": "周黑鸭(嘉定丰庄路店)",
+      "address": "丰庄路393号1层-1号",
+      "distance": "495m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "好乐广场",
+      "open_date": "2023-09-28",
+      "area": "3.8万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海盈嘉生活广场",
+      "open_date": "2013-01-01",
+      "area": "2.5万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海丰庄茶城",
+      "open_date": "2011-09-18",
+      "area": "1.5万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海金鼎悦乐坊",
+      "open_date": "2014-07-10",
+      "area": "2.4万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 245.0,
+      "within_1yr_pct": 31.4,
+      "1_3yr_pct": 24.1,
+      "over_3yr_pct": 44.5
+    },
+    {
+      "type": "购物",
+      "count": 406.0,
+      "within_1yr_pct": 32.8,
+      "1_3yr_pct": 16.0,
+      "over_3yr_pct": 51.2
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 32.0,
+      "within_1yr_pct": 28.1,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 46.9
+    },
+    {
+      "type": "教育培训",
+      "count": 10.0,
+      "within_1yr_pct": 40.0,
+      "1_3yr_pct": 20.0,
+      "over_3yr_pct": 40.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 38.0,
+      "within_1yr_pct": 15.8,
+      "1_3yr_pct": 26.3,
+      "over_3yr_pct": 57.9
+    },
+    {
+      "type": "生活服务",
+      "count": 133.0,
+      "within_1yr_pct": 19.5,
+      "1_3yr_pct": 26.3,
+      "over_3yr_pct": 54.1
+    },
+    {
+      "type": "运动健身",
+      "count": 8.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 37.5,
+      "over_3yr_pct": 37.5
+    },
+    {
+      "type": "车辆服务",
+      "count": 43.0,
+      "within_1yr_pct": 20.9,
+      "1_3yr_pct": 30.2,
+      "over_3yr_pct": 48.8
+    }
+  ]
+}

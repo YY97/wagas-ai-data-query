@@ -1,0 +1,431 @@
+{
+  "name": "苏宁易购(莘庄仲盛店)",
+  "city": "上海市",
+  "address": "上海市闵行区莘朱路5083号",
+  "lat": 31.107075,
+  "lng": 121.387105,
+  "overview": {
+    "score": 95.2,
+    "score_rank": "市内前30%",
+    "population_score": 86.2,
+    "area_score": 77.1,
+    "consumption_score": 77.8,
+    "industry_score": 95.3,
+    "annual_sales": "2",
+    "annual_sales_unit": "亿元",
+    "area_size_sqm": 29.2,
+    "open_date": "2016-05-06",
+    "operator": "仲盛房地产（上海）有限公司",
+    "brand": "",
+    "type": "购物型",
+    "floors": "B1-L5"
+  },
+  "traffic": {
+    "annual_daily": 3.25,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第77",
+    "jun_total": 164.7,
+    "jun_total_rank": "市内商场第58名",
+    "jun_daily_avg": 5.5,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第58名",
+    "weekday_avg": 4.7,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第62名",
+    "holiday_avg": 7.6,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第43名"
+  },
+  "population": {
+    "residential": {
+      "500m": 2.0,
+      "1_5km": 18.1,
+      "3km": 62.3
+    },
+    "office": {
+      "500m": 1.2,
+      "1_5km": 8.7,
+      "3km": 28.9
+    },
+    "permanent": {
+      "500m": 2.2,
+      "1_5km": 18.3,
+      "3km": 62.0
+    }
+  },
+  "business": {
+    "competitors": 6.0,
+    "food": 202.0,
+    "shopping": 184.0,
+    "leisure": 30.0,
+    "education": 30.0,
+    "hotel": 18.0,
+    "services": 138.0,
+    "fitness": 28.0,
+    "auto": 24.0,
+    "total_stores": 289.0,
+    "old_store_3yr_pct": 49.0
+  },
+  "nearby_poi": {
+    "business": 4.0,
+    "community": 294.0,
+    "office": 43.0,
+    "school": 31.0,
+    "hospital": 30.0,
+    "transport": 13.0,
+    "scenic": 102.0
+  },
+  "demographics": {
+    "male_pct": 51.5,
+    "female_pct": null,
+    "education": {
+      "小学": 8.8,
+      "初中": 16.0,
+      "高中": 11.0,
+      "大专": 7.5,
+      "本科": 49.7,
+      "硕士": 5.6,
+      "博士": 1.4
+    },
+    "has_children_pct": 59.3,
+    "no_children_pct": 40.7
+  },
+  "scraped_at": "2026-07-31T11:33:20.952Z",
+  "nearby_restaurants": [
+    {
+      "brand": "KOI PLUS(上海仲盛世界商城店)",
+      "address": "都市路5001号地上1层113B",
+      "distance": "7m"
+    },
+    {
+      "brand": "M Stand(仲盛世界商城店)",
+      "address": "都市路5001号仲盛世界商城1F层",
+      "distance": "12m"
+    },
+    {
+      "brand": "汕心·潮汕甜汤(上海仲盛世界商场店)",
+      "address": "都市路5001号仲盛世界商城B1层",
+      "distance": "17m"
+    },
+    {
+      "brand": "很久以前羊肉串(仲盛世界商城店)",
+      "address": "都市路5001号仲盛世界商城4层",
+      "distance": "28m"
+    },
+    {
+      "brand": "大象无隅素食餐厅(仲盛世界商城店)",
+      "address": "莘庄镇都市路5001号仲盛世界商城5楼",
+      "distance": "33m"
+    },
+    {
+      "brand": "喜多藏·精致便当(仲盛店)",
+      "address": "都市路5001号仲盛世界商城地下1层22B、23号商铺",
+      "distance": "33m"
+    },
+    {
+      "brand": "小句号(仲盛世界商城店)",
+      "address": "莘庄镇都市路5001号仲盛世界商城4楼",
+      "distance": "34m"
+    },
+    {
+      "brand": "星巴克(上海莘庄仲盛B1店)",
+      "address": "莘庄镇都市路5001号仲盛世界商城地下1层15A号商铺",
+      "distance": "35m"
+    },
+    {
+      "brand": "祺吉斋(仲盛世界商城店)",
+      "address": "都市路与珠城路交叉口西南160米",
+      "distance": "35m"
+    },
+    {
+      "brand": "伊客徕麻辣香锅",
+      "address": "莘朱路与梅陇西路交叉口南140米",
+      "distance": "35m"
+    },
+    {
+      "brand": "KOI PLUS(上海仲盛世界商城店)",
+      "address": "都市路5001号地上1层113B",
+      "distance": "7m"
+    },
+    {
+      "brand": "M Stand(仲盛世界商城店)",
+      "address": "都市路5001号仲盛世界商城1F层",
+      "distance": "12m"
+    },
+    {
+      "brand": "汕心·潮汕甜汤(上海仲盛世界商场店)",
+      "address": "都市路5001号仲盛世界商城B1层",
+      "distance": "17m"
+    },
+    {
+      "brand": "很久以前羊肉串(仲盛世界商城店)",
+      "address": "都市路5001号仲盛世界商城4层",
+      "distance": "28m"
+    },
+    {
+      "brand": "大象无隅素食餐厅(仲盛世界商城店)",
+      "address": "莘庄镇都市路5001号仲盛世界商城5楼",
+      "distance": "33m"
+    },
+    {
+      "brand": "喜多藏·精致便当(仲盛店)",
+      "address": "都市路5001号仲盛世界商城地下1层22B、23号商铺",
+      "distance": "33m"
+    },
+    {
+      "brand": "小句号(仲盛世界商城店)",
+      "address": "莘庄镇都市路5001号仲盛世界商城4楼",
+      "distance": "34m"
+    },
+    {
+      "brand": "星巴克(上海莘庄仲盛B1店)",
+      "address": "莘庄镇都市路5001号仲盛世界商城地下1层15A号商铺",
+      "distance": "35m"
+    },
+    {
+      "brand": "祺吉斋(仲盛世界商城店)",
+      "address": "都市路与珠城路交叉口西南160米",
+      "distance": "35m"
+    },
+    {
+      "brand": "伊客徕麻辣香锅",
+      "address": "莘朱路与梅陇西路交叉口南140米",
+      "distance": "35m"
+    },
+    {
+      "brand": "KOI PLUS(上海仲盛世界商城店)",
+      "address": "都市路5001号地上1层113B",
+      "distance": "7m"
+    },
+    {
+      "brand": "M Stand(仲盛世界商城店)",
+      "address": "都市路5001号仲盛世界商城1F层",
+      "distance": "12m"
+    },
+    {
+      "brand": "汕心·潮汕甜汤(上海仲盛世界商场店)",
+      "address": "都市路5001号仲盛世界商城B1层",
+      "distance": "17m"
+    },
+    {
+      "brand": "很久以前羊肉串(仲盛世界商城店)",
+      "address": "都市路5001号仲盛世界商城4层",
+      "distance": "28m"
+    },
+    {
+      "brand": "大象无隅素食餐厅(仲盛世界商城店)",
+      "address": "莘庄镇都市路5001号仲盛世界商城5楼",
+      "distance": "33m"
+    },
+    {
+      "brand": "喜多藏·精致便当(仲盛店)",
+      "address": "都市路5001号仲盛世界商城地下1层22B、23号商铺",
+      "distance": "33m"
+    },
+    {
+      "brand": "小句号(仲盛世界商城店)",
+      "address": "莘庄镇都市路5001号仲盛世界商城4楼",
+      "distance": "34m"
+    },
+    {
+      "brand": "星巴克(上海莘庄仲盛B1店)",
+      "address": "莘庄镇都市路5001号仲盛世界商城地下1层15A号商铺",
+      "distance": "35m"
+    },
+    {
+      "brand": "祺吉斋(仲盛世界商城店)",
+      "address": "都市路与珠城路交叉口西南160米",
+      "distance": "35m"
+    },
+    {
+      "brand": "伊客徕麻辣香锅",
+      "address": "莘朱路与梅陇西路交叉口南140米",
+      "distance": "35m"
+    },
+    {
+      "brand": "KOI PLUS(上海仲盛世界商城店)",
+      "address": "都市路5001号地上1层113B",
+      "distance": "7m"
+    },
+    {
+      "brand": "M Stand(仲盛世界商城店)",
+      "address": "都市路5001号仲盛世界商城1F层",
+      "distance": "12m"
+    },
+    {
+      "brand": "汕心·潮汕甜汤(上海仲盛世界商场店)",
+      "address": "都市路5001号仲盛世界商城B1层",
+      "distance": "17m"
+    },
+    {
+      "brand": "很久以前羊肉串(仲盛世界商城店)",
+      "address": "都市路5001号仲盛世界商城4层",
+      "distance": "28m"
+    },
+    {
+      "brand": "大象无隅素食餐厅(仲盛世界商城店)",
+      "address": "莘庄镇都市路5001号仲盛世界商城5楼",
+      "distance": "33m"
+    },
+    {
+      "brand": "喜多藏·精致便当(仲盛店)",
+      "address": "都市路5001号仲盛世界商城地下1层22B、23号商铺",
+      "distance": "33m"
+    },
+    {
+      "brand": "小句号(仲盛世界商城店)",
+      "address": "莘庄镇都市路5001号仲盛世界商城4楼",
+      "distance": "34m"
+    },
+    {
+      "brand": "星巴克(上海莘庄仲盛B1店)",
+      "address": "莘庄镇都市路5001号仲盛世界商城地下1层15A号商铺",
+      "distance": "35m"
+    },
+    {
+      "brand": "祺吉斋(仲盛世界商城店)",
+      "address": "都市路与珠城路交叉口西南160米",
+      "distance": "35m"
+    },
+    {
+      "brand": "伊客徕麻辣香锅",
+      "address": "莘朱路与梅陇西路交叉口南140米",
+      "distance": "35m"
+    },
+    {
+      "brand": "KOI PLUS(上海仲盛世界商城店)",
+      "address": "都市路5001号地上1层113B",
+      "distance": "7m"
+    },
+    {
+      "brand": "M Stand(仲盛世界商城店)",
+      "address": "都市路5001号仲盛世界商城1F层",
+      "distance": "12m"
+    },
+    {
+      "brand": "汕心·潮汕甜汤(上海仲盛世界商场店)",
+      "address": "都市路5001号仲盛世界商城B1层",
+      "distance": "17m"
+    },
+    {
+      "brand": "很久以前羊肉串(仲盛世界商城店)",
+      "address": "都市路5001号仲盛世界商城4层",
+      "distance": "28m"
+    },
+    {
+      "brand": "大象无隅素食餐厅(仲盛世界商城店)",
+      "address": "莘庄镇都市路5001号仲盛世界商城5楼",
+      "distance": "33m"
+    },
+    {
+      "brand": "喜多藏·精致便当(仲盛店)",
+      "address": "都市路5001号仲盛世界商城地下1层22B、23号商铺",
+      "distance": "33m"
+    },
+    {
+      "brand": "小句号(仲盛世界商城店)",
+      "address": "莘庄镇都市路5001号仲盛世界商城4楼",
+      "distance": "34m"
+    },
+    {
+      "brand": "星巴克(上海莘庄仲盛B1店)",
+      "address": "莘庄镇都市路5001号仲盛世界商城地下1层15A号商铺",
+      "distance": "35m"
+    },
+    {
+      "brand": "祺吉斋(仲盛世界商城店)",
+      "address": "都市路与珠城路交叉口西南160米",
+      "distance": "35m"
+    },
+    {
+      "brand": "伊客徕麻辣香锅",
+      "address": "莘朱路与梅陇西路交叉口南140米",
+      "distance": "35m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海凯德闵行商业中心",
+      "open_date": "2022-06-01",
+      "area": "9万㎡",
+      "jun_daily_avg": "4.1万人次",
+      "weekday_avg": "3.8万人次",
+      "holiday_avg": "5万人次"
+    },
+    {
+      "name": "上海东苑丽宝广场",
+      "open_date": "2015-01-01",
+      "area": "2.5万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海春申里",
+      "open_date": "2015-12-01",
+      "area": "-",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海莘庄畹町坊",
+      "open_date": "2018-11-18",
+      "area": "1万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 101.0,
+      "within_1yr_pct": 29.7,
+      "1_3yr_pct": 22.8,
+      "over_3yr_pct": 47.5
+    },
+    {
+      "type": "购物",
+      "count": 110.0,
+      "within_1yr_pct": 11.8,
+      "1_3yr_pct": 34.5,
+      "over_3yr_pct": 53.6
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 13.0,
+      "within_1yr_pct": 30.8,
+      "1_3yr_pct": 46.2,
+      "over_3yr_pct": 23.1
+    },
+    {
+      "type": "教育培训",
+      "count": 13.0,
+      "within_1yr_pct": 15.4,
+      "1_3yr_pct": 23.1,
+      "over_3yr_pct": 61.5
+    },
+    {
+      "type": "生活服务",
+      "count": 30.0,
+      "within_1yr_pct": 16.7,
+      "1_3yr_pct": 26.7,
+      "over_3yr_pct": 56.7
+    },
+    {
+      "type": "运动健身",
+      "count": 8.0,
+      "within_1yr_pct": 37.5,
+      "1_3yr_pct": 37.5,
+      "over_3yr_pct": 25.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 14.0,
+      "within_1yr_pct": 7.1,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 42.9
+    }
+  ]
+}

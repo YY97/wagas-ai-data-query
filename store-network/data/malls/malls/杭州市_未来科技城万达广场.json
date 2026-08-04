@@ -1,0 +1,486 @@
+{
+  "name": "未来科技城万达广场",
+  "city": "杭州市",
+  "address": "广东省广州市天河区天河路228号之2",
+  "lat": 30.035761,
+  "lng": 119.937292,
+  "overview": {
+    "score": 97.0,
+    "score_rank": "市内前30%",
+    "population_score": 85.1,
+    "area_score": 100.0,
+    "consumption_score": 87.4,
+    "industry_score": 97.0,
+    "annual_sales": "64",
+    "annual_sales_unit": "亿元",
+    "area_size_sqm": 30.0,
+    "open_date": "2005-01-15",
+    "operator": "正佳企业集团有限公司",
+    "brand": "正佳广场",
+    "type": "综合型",
+    "floors": "B2-L7"
+  },
+  "traffic": {
+    "annual_daily": 10.3,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第1",
+    "jun_total": 463.9,
+    "jun_total_rank": "市内商场第1名",
+    "jun_daily_avg": 15.5,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第1名",
+    "weekday_avg": 12.4,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第1名",
+    "holiday_avg": 23.9,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第1名"
+  },
+  "population": {
+    "residential": {
+      "500m": 2.6,
+      "1_5km": 30.1,
+      "3km": 99.6
+    },
+    "office": {
+      "500m": 5.3,
+      "1_5km": 44.4,
+      "3km": 102.0
+    },
+    "permanent": {
+      "500m": 4.7,
+      "1_5km": 36.9,
+      "3km": 108.0
+    }
+  },
+  "business": {
+    "competitors": 22.0,
+    "food": 1093.0,
+    "shopping": 1349.0,
+    "leisure": 171.0,
+    "education": 74.0,
+    "hotel": 88.0,
+    "services": 737.0,
+    "fitness": 46.0,
+    "auto": 47.0,
+    "total_stores": 805.0,
+    "old_store_3yr_pct": 51.0
+  },
+  "nearby_poi": {
+    "business": 26.0,
+    "community": 535.0,
+    "office": 191.0,
+    "school": 60.0,
+    "hospital": 210.0,
+    "transport": 21.0,
+    "scenic": 492.0
+  },
+  "demographics": {
+    "male_pct": 45.4,
+    "female_pct": null,
+    "education": {
+      "小学": 8.9,
+      "初中": 17.6,
+      "高中": 13.2,
+      "大专": 8.1,
+      "本科": 43.9,
+      "硕士": 6.7,
+      "博士": 1.6
+    },
+    "has_children_pct": 54.1,
+    "no_children_pct": 45.9
+  },
+  "scraped_at": "2026-08-02T08:03:24.456Z",
+  "nearby_restaurants": [
+    {
+      "brand": "土庐·张家界菜(正佳广场店)",
+      "address": "天河路228号正佳广场4F层",
+      "distance": "2m"
+    },
+    {
+      "brand": "寿司郎(正佳广场店)",
+      "address": "天河路228号正佳广场6层(体育中心地铁站出入口旁)",
+      "distance": "2m"
+    },
+    {
+      "brand": "蜀渝你的菜(正佳广场店)",
+      "address": "天河路228号正佳广场1F层",
+      "distance": "2m"
+    },
+    {
+      "brand": "天母甜甜圈(正佳店)",
+      "address": "天河路228号正佳广场M层B51号",
+      "distance": "3m"
+    },
+    {
+      "brand": "上山喝茶(正佳广场店)",
+      "address": "天河路228号正佳广场F1层",
+      "distance": "4m"
+    },
+    {
+      "brand": "翠华餐厅(正佳广场店)",
+      "address": "正佳大街228号正佳广场B1-7",
+      "distance": "4m"
+    },
+    {
+      "brand": "重庆美食(正佳广场店)",
+      "address": "天河路228号正佳广场M层",
+      "distance": "4m"
+    },
+    {
+      "brand": "寻觅甜心·生日蛋糕(正佳广场)",
+      "address": "天河路228号正佳广场M层",
+      "distance": "5m"
+    },
+    {
+      "brand": "Ameigo梅果云贵川bistro(正佳广场店)",
+      "address": "正佳商业广场四层4F-4A031号商铺",
+      "distance": "5m"
+    },
+    {
+      "brand": "小荔园·广州名菜豉油鸡(正佳店)",
+      "address": "天河路228号正佳广场3楼东街020a-b",
+      "distance": "5m"
+    },
+    {
+      "brand": "土庐·张家界菜(正佳广场店)",
+      "address": "天河路228号正佳广场4F层",
+      "distance": "2m"
+    },
+    {
+      "brand": "寿司郎(正佳广场店)",
+      "address": "天河路228号正佳广场6层(体育中心地铁站出入口旁)",
+      "distance": "2m"
+    },
+    {
+      "brand": "蜀渝你的菜(正佳广场店)",
+      "address": "天河路228号正佳广场1F层",
+      "distance": "2m"
+    },
+    {
+      "brand": "天母甜甜圈(正佳店)",
+      "address": "天河路228号正佳广场M层B51号",
+      "distance": "3m"
+    },
+    {
+      "brand": "上山喝茶(正佳广场店)",
+      "address": "天河路228号正佳广场F1层",
+      "distance": "4m"
+    },
+    {
+      "brand": "翠华餐厅(正佳广场店)",
+      "address": "正佳大街228号正佳广场B1-7",
+      "distance": "4m"
+    },
+    {
+      "brand": "重庆美食(正佳广场店)",
+      "address": "天河路228号正佳广场M层",
+      "distance": "4m"
+    },
+    {
+      "brand": "寻觅甜心·生日蛋糕(正佳广场)",
+      "address": "天河路228号正佳广场M层",
+      "distance": "5m"
+    },
+    {
+      "brand": "Ameigo梅果云贵川bistro(正佳广场店)",
+      "address": "正佳商业广场四层4F-4A031号商铺",
+      "distance": "5m"
+    },
+    {
+      "brand": "小荔园·广州名菜豉油鸡(正佳店)",
+      "address": "天河路228号正佳广场3楼东街020a-b",
+      "distance": "5m"
+    },
+    {
+      "brand": "土庐·张家界菜(正佳广场店)",
+      "address": "天河路228号正佳广场4F层",
+      "distance": "2m"
+    },
+    {
+      "brand": "寿司郎(正佳广场店)",
+      "address": "天河路228号正佳广场6层(体育中心地铁站出入口旁)",
+      "distance": "2m"
+    },
+    {
+      "brand": "蜀渝你的菜(正佳广场店)",
+      "address": "天河路228号正佳广场1F层",
+      "distance": "2m"
+    },
+    {
+      "brand": "天母甜甜圈(正佳店)",
+      "address": "天河路228号正佳广场M层B51号",
+      "distance": "3m"
+    },
+    {
+      "brand": "上山喝茶(正佳广场店)",
+      "address": "天河路228号正佳广场F1层",
+      "distance": "4m"
+    },
+    {
+      "brand": "翠华餐厅(正佳广场店)",
+      "address": "正佳大街228号正佳广场B1-7",
+      "distance": "4m"
+    },
+    {
+      "brand": "重庆美食(正佳广场店)",
+      "address": "天河路228号正佳广场M层",
+      "distance": "4m"
+    },
+    {
+      "brand": "寻觅甜心·生日蛋糕(正佳广场)",
+      "address": "天河路228号正佳广场M层",
+      "distance": "5m"
+    },
+    {
+      "brand": "Ameigo梅果云贵川bistro(正佳广场店)",
+      "address": "正佳商业广场四层4F-4A031号商铺",
+      "distance": "5m"
+    },
+    {
+      "brand": "小荔园·广州名菜豉油鸡(正佳店)",
+      "address": "天河路228号正佳广场3楼东街020a-b",
+      "distance": "5m"
+    },
+    {
+      "brand": "土庐·张家界菜(正佳广场店)",
+      "address": "天河路228号正佳广场4F层",
+      "distance": "2m"
+    },
+    {
+      "brand": "寿司郎(正佳广场店)",
+      "address": "天河路228号正佳广场6层(体育中心地铁站出入口旁)",
+      "distance": "2m"
+    },
+    {
+      "brand": "蜀渝你的菜(正佳广场店)",
+      "address": "天河路228号正佳广场1F层",
+      "distance": "2m"
+    },
+    {
+      "brand": "天母甜甜圈(正佳店)",
+      "address": "天河路228号正佳广场M层B51号",
+      "distance": "3m"
+    },
+    {
+      "brand": "上山喝茶(正佳广场店)",
+      "address": "天河路228号正佳广场F1层",
+      "distance": "4m"
+    },
+    {
+      "brand": "翠华餐厅(正佳广场店)",
+      "address": "正佳大街228号正佳广场B1-7",
+      "distance": "4m"
+    },
+    {
+      "brand": "重庆美食(正佳广场店)",
+      "address": "天河路228号正佳广场M层",
+      "distance": "4m"
+    },
+    {
+      "brand": "寻觅甜心·生日蛋糕(正佳广场)",
+      "address": "天河路228号正佳广场M层",
+      "distance": "5m"
+    },
+    {
+      "brand": "Ameigo梅果云贵川bistro(正佳广场店)",
+      "address": "正佳商业广场四层4F-4A031号商铺",
+      "distance": "5m"
+    },
+    {
+      "brand": "小荔园·广州名菜豉油鸡(正佳店)",
+      "address": "天河路228号正佳广场3楼东街020a-b",
+      "distance": "5m"
+    },
+    {
+      "brand": "土庐·张家界菜(正佳广场店)",
+      "address": "天河路228号正佳广场4F层",
+      "distance": "2m"
+    },
+    {
+      "brand": "寿司郎(正佳广场店)",
+      "address": "天河路228号正佳广场6层(体育中心地铁站出入口旁)",
+      "distance": "2m"
+    },
+    {
+      "brand": "蜀渝你的菜(正佳广场店)",
+      "address": "天河路228号正佳广场1F层",
+      "distance": "2m"
+    },
+    {
+      "brand": "天母甜甜圈(正佳店)",
+      "address": "天河路228号正佳广场M层B51号",
+      "distance": "3m"
+    },
+    {
+      "brand": "上山喝茶(正佳广场店)",
+      "address": "天河路228号正佳广场F1层",
+      "distance": "4m"
+    },
+    {
+      "brand": "翠华餐厅(正佳广场店)",
+      "address": "正佳大街228号正佳广场B1-7",
+      "distance": "4m"
+    },
+    {
+      "brand": "重庆美食(正佳广场店)",
+      "address": "天河路228号正佳广场M层",
+      "distance": "4m"
+    },
+    {
+      "brand": "寻觅甜心·生日蛋糕(正佳广场)",
+      "address": "天河路228号正佳广场M层",
+      "distance": "5m"
+    },
+    {
+      "brand": "Ameigo梅果云贵川bistro(正佳广场店)",
+      "address": "正佳商业广场四层4F-4A031号商铺",
+      "distance": "5m"
+    },
+    {
+      "brand": "小荔园·广州名菜豉油鸡(正佳店)",
+      "address": "天河路228号正佳广场3楼东街020a-b",
+      "distance": "5m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "广州天环Parc Central",
+      "open_date": "2016-01-01",
+      "area": "11万㎡",
+      "jun_daily_avg": "9.8万人次",
+      "weekday_avg": "7.8万人次",
+      "holiday_avg": "15.3万人次"
+    },
+    {
+      "name": "广州万菱汇",
+      "open_date": "2010-11-01",
+      "area": "5.8万㎡",
+      "jun_daily_avg": "4.5万人次",
+      "weekday_avg": "4万人次",
+      "holiday_avg": "6万人次"
+    },
+    {
+      "name": "广州时尚天河商业广场",
+      "open_date": "2011-01-01",
+      "area": "14万㎡",
+      "jun_daily_avg": "8.1万人次",
+      "weekday_avg": "6.3万人次",
+      "holiday_avg": "13.1万人次"
+    },
+    {
+      "name": "百福广场",
+      "open_date": "-",
+      "area": "-",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "广州天河城",
+      "open_date": "1996-08-18",
+      "area": "16万㎡",
+      "jun_daily_avg": "9.1万人次",
+      "weekday_avg": "7.7万人次",
+      "holiday_avg": "13.1万人次"
+    },
+    {
+      "name": "广州太古汇",
+      "open_date": "2011-01-01",
+      "area": "13.8万㎡",
+      "jun_daily_avg": "6.6万人次",
+      "weekday_avg": "6.3万人次",
+      "holiday_avg": "7.4万人次"
+    },
+    {
+      "name": "广州广百百货(天河中怡店)",
+      "open_date": "2006-09-29",
+      "area": "7万㎡",
+      "jun_daily_avg": "1.9万人次",
+      "weekday_avg": "1.7万人次",
+      "holiday_avg": "2.6万人次"
+    },
+    {
+      "name": "广州VT101维多利广场",
+      "open_date": "2002-01-01",
+      "area": "2.7万㎡",
+      "jun_daily_avg": "2.1万人次",
+      "weekday_avg": "1.9万人次",
+      "holiday_avg": "2.6万人次"
+    },
+    {
+      "name": "广州粤海天地",
+      "open_date": "2023-12-20",
+      "area": "3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "广州保利时光汇·克洛维",
+      "open_date": "2013-01-01",
+      "area": "3.7万㎡",
+      "jun_daily_avg": "2.5万人次",
+      "weekday_avg": "2.8万人次",
+      "holiday_avg": "1.5万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 197.0,
+      "within_1yr_pct": 19.3,
+      "1_3yr_pct": 28.9,
+      "over_3yr_pct": 51.8
+    },
+    {
+      "type": "购物",
+      "count": 300.0,
+      "within_1yr_pct": 19.3,
+      "1_3yr_pct": 26.7,
+      "over_3yr_pct": 54.0
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 35.0,
+      "within_1yr_pct": 31.4,
+      "1_3yr_pct": 31.4,
+      "over_3yr_pct": 37.1
+    },
+    {
+      "type": "教育培训",
+      "count": 11.0,
+      "within_1yr_pct": 36.4,
+      "1_3yr_pct": 27.3,
+      "over_3yr_pct": 36.4
+    },
+    {
+      "type": "酒店住宿",
+      "count": 13.0,
+      "within_1yr_pct": 38.5,
+      "1_3yr_pct": 15.4,
+      "over_3yr_pct": 46.2
+    },
+    {
+      "type": "生活服务",
+      "count": 227.0,
+      "within_1yr_pct": 22.0,
+      "1_3yr_pct": 27.8,
+      "over_3yr_pct": 50.2
+    },
+    {
+      "type": "运动健身",
+      "count": 5.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 60.0,
+      "over_3yr_pct": 40.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 17.0,
+      "within_1yr_pct": 5.9,
+      "1_3yr_pct": 41.2,
+      "over_3yr_pct": 52.9
+    }
+  ]
+}

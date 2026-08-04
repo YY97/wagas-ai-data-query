@@ -1,0 +1,462 @@
+{
+  "name": "港城新天地",
+  "city": "上海市",
+  "address": "北京市朝阳区北苑家园秋实街一号",
+  "lat": 30.722766,
+  "lng": 121.271694,
+  "overview": {
+    "score": 90.5,
+    "score_rank": "市内前30%",
+    "population_score": 96.3,
+    "area_score": 71.3,
+    "consumption_score": 71.9,
+    "industry_score": 90.6,
+    "annual_sales": "北京城建·城悦荟位于朝阳区北苑家园核心区域，建筑面积近5万平方米，地上9层，地下1层。城悦荟以打造“北苑新名片”为设计初心理念，以“一城一悦 荟聚全家新趣处”为愿景，以全新商业美学缔造“六悦”购物体验，把空间还给生活。城悦荟携手京东七鲜超市、情满四合院、合禧淮扬、聚宝源、艾米西厨、木屋烧烤、麦当劳、南城香、星巴克、喜茶、麦颂KTV、华为、乐刻健身、观澜书院、乐高、九木杂物社、吉睿游艺、悠乐堡等130余家精选品牌，打造餐饮、儿童、零售、休闲娱乐、生活配套等多业态组合，满足周边居民生活需求，营造和谐幸福邻里关系",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 5.0,
+    "open_date": "2023-09-28",
+    "operator": "",
+    "brand": "",
+    "type": "综合型",
+    "floors": "B1-L6"
+  },
+  "traffic": {
+    "annual_daily": 1.98,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第123",
+    "jun_total": 85.2,
+    "jun_total_rank": "市内商场第110名",
+    "jun_daily_avg": 2.8,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第110名",
+    "weekday_avg": 2.6,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第112名",
+    "holiday_avg": 3.4,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第110名"
+  },
+  "population": {
+    "residential": {
+      "500m": 3.1,
+      "1_5km": 17.6,
+      "3km": 41.7
+    },
+    "office": {
+      "500m": 1.2,
+      "1_5km": 8.4,
+      "3km": 20.0
+    },
+    "permanent": {
+      "500m": 2.9,
+      "1_5km": 17.2,
+      "3km": 40.1
+    }
+  },
+  "business": {
+    "competitors": 2.0,
+    "food": 77.0,
+    "shopping": 62.0,
+    "leisure": 12.0,
+    "education": 18.0,
+    "hotel": 13.0,
+    "services": 93.0,
+    "fitness": 14.0,
+    "auto": 8.0,
+    "total_stores": 110.0,
+    "old_store_3yr_pct": 58.0
+  },
+  "nearby_poi": {
+    "business": 7.0,
+    "community": 160.0,
+    "office": 21.0,
+    "school": 28.0,
+    "hospital": 32.0,
+    "transport": 12.0,
+    "scenic": 109.0
+  },
+  "demographics": {
+    "male_pct": 47.8,
+    "female_pct": null,
+    "education": {
+      "小学": 7.4,
+      "初中": 12.9,
+      "高中": 9.5,
+      "大专": 6.9,
+      "本科": 52.3,
+      "硕士": 9.0,
+      "博士": 2.0
+    },
+    "has_children_pct": 58.4,
+    "no_children_pct": 41.6
+  },
+  "scraped_at": "2026-08-01T06:30:54.346Z",
+  "nearby_restaurants": [
+    {
+      "brand": "砂锅婆砂锅下饭菜(城悦荟店)",
+      "address": "北京城区秋实街1号北京城建·城悦荟F4层",
+      "distance": "15m"
+    },
+    {
+      "brand": "呷哺呷哺(北京易事达广场)",
+      "address": "来广营地区秋实街1号城悦荟4F",
+      "distance": "15m"
+    },
+    {
+      "brand": "烤面筋公社(烧烤·北苑城悦荟店)",
+      "address": "北京城区城悦荟4楼烤面筋公社",
+      "distance": "15m"
+    },
+    {
+      "brand": "阿上阿上(北京城建·城悦荟店)",
+      "address": "秋实街1号北京城建·城悦荟F4层",
+      "distance": "16m"
+    },
+    {
+      "brand": "悠乐堡儿童乐园(城悦荟店)",
+      "address": "秋实街1号北京城建·城悦荟F3层",
+      "distance": "16m"
+    },
+    {
+      "brand": "吴记浇汁臭豆腐·麻辣烫",
+      "address": "来广营乡秋实街1号北京城建·城悦荟4层004室",
+      "distance": "16m"
+    },
+    {
+      "brand": "半天妖烤鱼(北京城建·城悦荟店)",
+      "address": "来广营乡秋实街1号4层012、013",
+      "distance": "17m"
+    },
+    {
+      "brand": "夸父炸串(城悦荟店)",
+      "address": "来广营乡秋实街1号5层015号",
+      "distance": "21m"
+    },
+    {
+      "brand": "望牛滇云南酸菜牛肉火锅(城悦荟店)",
+      "address": "北苑家园秋实街1号北京城建·城悦荟4层",
+      "distance": "21m"
+    },
+    {
+      "brand": "夸父炸串(城建·城悦荟店)",
+      "address": "北京城区来广营地区城悦荟F4层",
+      "distance": "21m"
+    },
+    {
+      "brand": "砂锅婆砂锅下饭菜(城悦荟店)",
+      "address": "北京城区秋实街1号北京城建·城悦荟F4层",
+      "distance": "15m"
+    },
+    {
+      "brand": "呷哺呷哺(北京易事达广场)",
+      "address": "来广营地区秋实街1号城悦荟4F",
+      "distance": "15m"
+    },
+    {
+      "brand": "烤面筋公社(烧烤·北苑城悦荟店)",
+      "address": "北京城区城悦荟4楼烤面筋公社",
+      "distance": "15m"
+    },
+    {
+      "brand": "阿上阿上(北京城建·城悦荟店)",
+      "address": "秋实街1号北京城建·城悦荟F4层",
+      "distance": "16m"
+    },
+    {
+      "brand": "悠乐堡儿童乐园(城悦荟店)",
+      "address": "秋实街1号北京城建·城悦荟F3层",
+      "distance": "16m"
+    },
+    {
+      "brand": "吴记浇汁臭豆腐·麻辣烫",
+      "address": "来广营乡秋实街1号北京城建·城悦荟4层004室",
+      "distance": "16m"
+    },
+    {
+      "brand": "半天妖烤鱼(北京城建·城悦荟店)",
+      "address": "来广营乡秋实街1号4层012、013",
+      "distance": "17m"
+    },
+    {
+      "brand": "夸父炸串(城悦荟店)",
+      "address": "来广营乡秋实街1号5层015号",
+      "distance": "21m"
+    },
+    {
+      "brand": "望牛滇云南酸菜牛肉火锅(城悦荟店)",
+      "address": "北苑家园秋实街1号北京城建·城悦荟4层",
+      "distance": "21m"
+    },
+    {
+      "brand": "夸父炸串(城建·城悦荟店)",
+      "address": "北京城区来广营地区城悦荟F4层",
+      "distance": "21m"
+    },
+    {
+      "brand": "砂锅婆砂锅下饭菜(城悦荟店)",
+      "address": "北京城区秋实街1号北京城建·城悦荟F4层",
+      "distance": "15m"
+    },
+    {
+      "brand": "呷哺呷哺(北京易事达广场)",
+      "address": "来广营地区秋实街1号城悦荟4F",
+      "distance": "15m"
+    },
+    {
+      "brand": "烤面筋公社(烧烤·北苑城悦荟店)",
+      "address": "北京城区城悦荟4楼烤面筋公社",
+      "distance": "15m"
+    },
+    {
+      "brand": "阿上阿上(北京城建·城悦荟店)",
+      "address": "秋实街1号北京城建·城悦荟F4层",
+      "distance": "16m"
+    },
+    {
+      "brand": "悠乐堡儿童乐园(城悦荟店)",
+      "address": "秋实街1号北京城建·城悦荟F3层",
+      "distance": "16m"
+    },
+    {
+      "brand": "吴记浇汁臭豆腐·麻辣烫",
+      "address": "来广营乡秋实街1号北京城建·城悦荟4层004室",
+      "distance": "16m"
+    },
+    {
+      "brand": "半天妖烤鱼(北京城建·城悦荟店)",
+      "address": "来广营乡秋实街1号4层012、013",
+      "distance": "17m"
+    },
+    {
+      "brand": "夸父炸串(城悦荟店)",
+      "address": "来广营乡秋实街1号5层015号",
+      "distance": "21m"
+    },
+    {
+      "brand": "望牛滇云南酸菜牛肉火锅(城悦荟店)",
+      "address": "北苑家园秋实街1号北京城建·城悦荟4层",
+      "distance": "21m"
+    },
+    {
+      "brand": "夸父炸串(城建·城悦荟店)",
+      "address": "北京城区来广营地区城悦荟F4层",
+      "distance": "21m"
+    },
+    {
+      "brand": "砂锅婆砂锅下饭菜(城悦荟店)",
+      "address": "北京城区秋实街1号北京城建·城悦荟F4层",
+      "distance": "15m"
+    },
+    {
+      "brand": "呷哺呷哺(北京易事达广场)",
+      "address": "来广营地区秋实街1号城悦荟4F",
+      "distance": "15m"
+    },
+    {
+      "brand": "烤面筋公社(烧烤·北苑城悦荟店)",
+      "address": "北京城区城悦荟4楼烤面筋公社",
+      "distance": "15m"
+    },
+    {
+      "brand": "阿上阿上(北京城建·城悦荟店)",
+      "address": "秋实街1号北京城建·城悦荟F4层",
+      "distance": "16m"
+    },
+    {
+      "brand": "悠乐堡儿童乐园(城悦荟店)",
+      "address": "秋实街1号北京城建·城悦荟F3层",
+      "distance": "16m"
+    },
+    {
+      "brand": "吴记浇汁臭豆腐·麻辣烫",
+      "address": "来广营乡秋实街1号北京城建·城悦荟4层004室",
+      "distance": "16m"
+    },
+    {
+      "brand": "半天妖烤鱼(北京城建·城悦荟店)",
+      "address": "来广营乡秋实街1号4层012、013",
+      "distance": "17m"
+    },
+    {
+      "brand": "夸父炸串(城悦荟店)",
+      "address": "来广营乡秋实街1号5层015号",
+      "distance": "21m"
+    },
+    {
+      "brand": "望牛滇云南酸菜牛肉火锅(城悦荟店)",
+      "address": "北苑家园秋实街1号北京城建·城悦荟4层",
+      "distance": "21m"
+    },
+    {
+      "brand": "夸父炸串(城建·城悦荟店)",
+      "address": "北京城区来广营地区城悦荟F4层",
+      "distance": "21m"
+    },
+    {
+      "brand": "砂锅婆砂锅下饭菜(城悦荟店)",
+      "address": "北京城区秋实街1号北京城建·城悦荟F4层",
+      "distance": "15m"
+    },
+    {
+      "brand": "呷哺呷哺(北京易事达广场)",
+      "address": "来广营地区秋实街1号城悦荟4F",
+      "distance": "15m"
+    },
+    {
+      "brand": "烤面筋公社(烧烤·北苑城悦荟店)",
+      "address": "北京城区城悦荟4楼烤面筋公社",
+      "distance": "15m"
+    },
+    {
+      "brand": "阿上阿上(北京城建·城悦荟店)",
+      "address": "秋实街1号北京城建·城悦荟F4层",
+      "distance": "16m"
+    },
+    {
+      "brand": "悠乐堡儿童乐园(城悦荟店)",
+      "address": "秋实街1号北京城建·城悦荟F3层",
+      "distance": "16m"
+    },
+    {
+      "brand": "吴记浇汁臭豆腐·麻辣烫",
+      "address": "来广营乡秋实街1号北京城建·城悦荟4层004室",
+      "distance": "16m"
+    },
+    {
+      "brand": "半天妖烤鱼(北京城建·城悦荟店)",
+      "address": "来广营乡秋实街1号4层012、013",
+      "distance": "17m"
+    },
+    {
+      "brand": "夸父炸串(城悦荟店)",
+      "address": "来广营乡秋实街1号5层015号",
+      "distance": "21m"
+    },
+    {
+      "brand": "望牛滇云南酸菜牛肉火锅(城悦荟店)",
+      "address": "北苑家园秋实街1号北京城建·城悦荟4层",
+      "distance": "21m"
+    },
+    {
+      "brand": "夸父炸串(城建·城悦荟店)",
+      "address": "北京城区来广营地区城悦荟F4层",
+      "distance": "21m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "北京华贸天地",
+      "open_date": "2012-09-23",
+      "area": "7万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "北京K酷时尚广场",
+      "open_date": "2011-08-01",
+      "area": "5万㎡",
+      "jun_daily_avg": "1.2万人次",
+      "weekday_avg": "1.1万人次",
+      "holiday_avg": "1.3万人次"
+    },
+    {
+      "name": "北京暖山生活广场",
+      "open_date": "2019-10-01",
+      "area": "1.5万㎡",
+      "jun_daily_avg": "1.6万人次",
+      "weekday_avg": "1.6万人次",
+      "holiday_avg": "1.4万人次"
+    },
+    {
+      "name": "北京上品+(互联网城市奥莱)",
+      "open_date": "2017-05-01",
+      "area": "2.4万㎡",
+      "jun_daily_avg": "3.8万人次",
+      "weekday_avg": "3.8万人次",
+      "holiday_avg": "3.7万人次"
+    },
+    {
+      "name": "北京林奥CITY PARK",
+      "open_date": "2023-09-28",
+      "area": "10万㎡",
+      "jun_daily_avg": "1.3万人次",
+      "weekday_avg": "1.1万人次",
+      "holiday_avg": "1.7万人次"
+    },
+    {
+      "name": "北京北苑龙湖",
+      "open_date": "2023-09-01",
+      "area": "10万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "佳运广场",
+      "open_date": "2008-10-01",
+      "area": "-",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 40.0,
+      "within_1yr_pct": 10.0,
+      "1_3yr_pct": 22.5,
+      "over_3yr_pct": 67.5
+    },
+    {
+      "type": "购物",
+      "count": 28.0,
+      "within_1yr_pct": 17.9,
+      "1_3yr_pct": 28.6,
+      "over_3yr_pct": 53.6
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 7.0,
+      "within_1yr_pct": 14.3,
+      "1_3yr_pct": 57.1,
+      "over_3yr_pct": 28.6
+    },
+    {
+      "type": "教育培训",
+      "count": 5.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 20.0,
+      "over_3yr_pct": 80.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "生活服务",
+      "count": 18.0,
+      "within_1yr_pct": 16.7,
+      "1_3yr_pct": 27.8,
+      "over_3yr_pct": 55.6
+    },
+    {
+      "type": "运动健身",
+      "count": 9.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 44.4,
+      "over_3yr_pct": 55.6
+    },
+    {
+      "type": "车辆服务",
+      "count": 1.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
+    }
+  ]
+}

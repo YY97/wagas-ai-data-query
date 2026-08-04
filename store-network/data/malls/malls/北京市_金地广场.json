@@ -1,0 +1,446 @@
+{
+  "name": "金地广场",
+  "city": "北京市",
+  "address": "上海市松江区九里亭街道九亭中心北区",
+  "lat": null,
+  "lng": null,
+  "overview": {
+    "score": 89.3,
+    "score_rank": "市内前30%",
+    "population_score": 89.3,
+    "area_score": 81.5,
+    "consumption_score": 68.9,
+    "industry_score": 89.3,
+    "annual_sales": "",
+    "annual_sales_unit": "",
+    "area_size_sqm": null,
+    "open_date": "",
+    "operator": "",
+    "brand": "",
+    "type": "",
+    "floors": ""
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "",
+    "annual_daily_rank": "",
+    "jun_total": null,
+    "jun_total_rank": "",
+    "jun_daily_avg": null,
+    "jun_daily_unit": "",
+    "jun_daily_rank": "",
+    "weekday_avg": null,
+    "weekday_unit": "",
+    "weekday_rank": "",
+    "holiday_avg": null,
+    "holiday_unit": "",
+    "holiday_rank": ""
+  },
+  "population": {
+    "residential": {
+      "500m": 2.3,
+      "1_5km": 18.4,
+      "3km": 50.5
+    },
+    "office": {
+      "500m": 1.6,
+      "1_5km": 7.4,
+      "3km": 23.0
+    },
+    "permanent": {
+      "500m": 2.5,
+      "1_5km": 16.4,
+      "3km": 43.5
+    }
+  },
+  "business": {
+    "competitors": 7.0,
+    "food": 337.0,
+    "shopping": 140.0,
+    "leisure": 29.0,
+    "education": 28.0,
+    "hotel": 18.0,
+    "services": 184.0,
+    "fitness": 25.0,
+    "auto": 16.0,
+    "total_stores": 785.0,
+    "old_store_3yr_pct": 41.0
+  },
+  "nearby_poi": {
+    "business": 5.0,
+    "community": 206.0,
+    "office": 35.0,
+    "school": 22.0,
+    "hospital": 28.0,
+    "transport": 18.0,
+    "scenic": 39.0
+  },
+  "demographics": {
+    "male_pct": 52.4,
+    "female_pct": null,
+    "education": {
+      "小学": 10.0,
+      "初中": 18.5,
+      "高中": 11.9,
+      "大专": 9.1,
+      "本科": 46.0,
+      "硕士": 3.7,
+      "博士": 0.8
+    },
+    "has_children_pct": null,
+    "no_children_pct": null
+  },
+  "scraped_at": "2026-07-31T11:36:56.776Z",
+  "nearby_restaurants": [
+    {
+      "brand": "七町工坊羊乳咖啡(九亭中心店)",
+      "address": "卓亭路302号靠近九亭中心北区",
+      "distance": "10m"
+    },
+    {
+      "brand": "贡茶(九亭中心店)",
+      "address": "九亭中心北区",
+      "distance": "15m"
+    },
+    {
+      "brand": "吉添喜",
+      "address": "九里亭路与沪亭北路交叉口西南140米",
+      "distance": "28m"
+    },
+    {
+      "brand": "张正发茶餐厅(上海九亭店)",
+      "address": "九里亭街道卓亭路与滨亭路交叉口东北160米",
+      "distance": "33m"
+    },
+    {
+      "brand": "老上海混沌(九亭中心店)",
+      "address": "沪亭北路与卓亭路交叉口西140米",
+      "distance": "34m"
+    },
+    {
+      "brand": "汪记大王锅贴",
+      "address": "沪亭北路199弄7号117室",
+      "distance": "34m"
+    },
+    {
+      "brand": "烫小锅砂锅麻辣烫",
+      "address": "沪亭北路与九里亭路交叉口西南140米",
+      "distance": "34m"
+    },
+    {
+      "brand": "落汤鱼(沪亭北路店)",
+      "address": "沪亭北路199弄九亭中心7-113",
+      "distance": "36m"
+    },
+    {
+      "brand": "豪杰天下功夫煲仔(九亭中心店)",
+      "address": "九亭中心北区",
+      "distance": "39m"
+    },
+    {
+      "brand": "有锅巴的煲仔饭",
+      "address": "7号楼115",
+      "distance": "40m"
+    },
+    {
+      "brand": "七町工坊羊乳咖啡(九亭中心店)",
+      "address": "卓亭路302号靠近九亭中心北区",
+      "distance": "10m"
+    },
+    {
+      "brand": "贡茶(九亭中心店)",
+      "address": "九亭中心北区",
+      "distance": "15m"
+    },
+    {
+      "brand": "吉添喜",
+      "address": "九里亭路与沪亭北路交叉口西南140米",
+      "distance": "28m"
+    },
+    {
+      "brand": "张正发茶餐厅(上海九亭店)",
+      "address": "九里亭街道卓亭路与滨亭路交叉口东北160米",
+      "distance": "33m"
+    },
+    {
+      "brand": "老上海混沌(九亭中心店)",
+      "address": "沪亭北路与卓亭路交叉口西140米",
+      "distance": "34m"
+    },
+    {
+      "brand": "汪记大王锅贴",
+      "address": "沪亭北路199弄7号117室",
+      "distance": "34m"
+    },
+    {
+      "brand": "烫小锅砂锅麻辣烫",
+      "address": "沪亭北路与九里亭路交叉口西南140米",
+      "distance": "34m"
+    },
+    {
+      "brand": "落汤鱼(沪亭北路店)",
+      "address": "沪亭北路199弄九亭中心7-113",
+      "distance": "36m"
+    },
+    {
+      "brand": "豪杰天下功夫煲仔(九亭中心店)",
+      "address": "九亭中心北区",
+      "distance": "39m"
+    },
+    {
+      "brand": "有锅巴的煲仔饭",
+      "address": "7号楼115",
+      "distance": "40m"
+    },
+    {
+      "brand": "七町工坊羊乳咖啡(九亭中心店)",
+      "address": "卓亭路302号靠近九亭中心北区",
+      "distance": "10m"
+    },
+    {
+      "brand": "贡茶(九亭中心店)",
+      "address": "九亭中心北区",
+      "distance": "15m"
+    },
+    {
+      "brand": "吉添喜",
+      "address": "九里亭路与沪亭北路交叉口西南140米",
+      "distance": "28m"
+    },
+    {
+      "brand": "张正发茶餐厅(上海九亭店)",
+      "address": "九里亭街道卓亭路与滨亭路交叉口东北160米",
+      "distance": "33m"
+    },
+    {
+      "brand": "老上海混沌(九亭中心店)",
+      "address": "沪亭北路与卓亭路交叉口西140米",
+      "distance": "34m"
+    },
+    {
+      "brand": "汪记大王锅贴",
+      "address": "沪亭北路199弄7号117室",
+      "distance": "34m"
+    },
+    {
+      "brand": "烫小锅砂锅麻辣烫",
+      "address": "沪亭北路与九里亭路交叉口西南140米",
+      "distance": "34m"
+    },
+    {
+      "brand": "落汤鱼(沪亭北路店)",
+      "address": "沪亭北路199弄九亭中心7-113",
+      "distance": "36m"
+    },
+    {
+      "brand": "豪杰天下功夫煲仔(九亭中心店)",
+      "address": "九亭中心北区",
+      "distance": "39m"
+    },
+    {
+      "brand": "有锅巴的煲仔饭",
+      "address": "7号楼115",
+      "distance": "40m"
+    },
+    {
+      "brand": "七町工坊羊乳咖啡(九亭中心店)",
+      "address": "卓亭路302号靠近九亭中心北区",
+      "distance": "10m"
+    },
+    {
+      "brand": "贡茶(九亭中心店)",
+      "address": "九亭中心北区",
+      "distance": "15m"
+    },
+    {
+      "brand": "吉添喜",
+      "address": "九里亭路与沪亭北路交叉口西南140米",
+      "distance": "28m"
+    },
+    {
+      "brand": "张正发茶餐厅(上海九亭店)",
+      "address": "九里亭街道卓亭路与滨亭路交叉口东北160米",
+      "distance": "33m"
+    },
+    {
+      "brand": "老上海混沌(九亭中心店)",
+      "address": "沪亭北路与卓亭路交叉口西140米",
+      "distance": "34m"
+    },
+    {
+      "brand": "汪记大王锅贴",
+      "address": "沪亭北路199弄7号117室",
+      "distance": "34m"
+    },
+    {
+      "brand": "烫小锅砂锅麻辣烫",
+      "address": "沪亭北路与九里亭路交叉口西南140米",
+      "distance": "34m"
+    },
+    {
+      "brand": "落汤鱼(沪亭北路店)",
+      "address": "沪亭北路199弄九亭中心7-113",
+      "distance": "36m"
+    },
+    {
+      "brand": "豪杰天下功夫煲仔(九亭中心店)",
+      "address": "九亭中心北区",
+      "distance": "39m"
+    },
+    {
+      "brand": "有锅巴的煲仔饭",
+      "address": "7号楼115",
+      "distance": "40m"
+    },
+    {
+      "brand": "七町工坊羊乳咖啡(九亭中心店)",
+      "address": "卓亭路302号靠近九亭中心北区",
+      "distance": "10m"
+    },
+    {
+      "brand": "贡茶(九亭中心店)",
+      "address": "九亭中心北区",
+      "distance": "15m"
+    },
+    {
+      "brand": "吉添喜",
+      "address": "九里亭路与沪亭北路交叉口西南140米",
+      "distance": "28m"
+    },
+    {
+      "brand": "张正发茶餐厅(上海九亭店)",
+      "address": "九里亭街道卓亭路与滨亭路交叉口东北160米",
+      "distance": "33m"
+    },
+    {
+      "brand": "老上海混沌(九亭中心店)",
+      "address": "沪亭北路与卓亭路交叉口西140米",
+      "distance": "34m"
+    },
+    {
+      "brand": "汪记大王锅贴",
+      "address": "沪亭北路199弄7号117室",
+      "distance": "34m"
+    },
+    {
+      "brand": "烫小锅砂锅麻辣烫",
+      "address": "沪亭北路与九里亭路交叉口西南140米",
+      "distance": "34m"
+    },
+    {
+      "brand": "落汤鱼(沪亭北路店)",
+      "address": "沪亭北路199弄九亭中心7-113",
+      "distance": "36m"
+    },
+    {
+      "brand": "豪杰天下功夫煲仔(九亭中心店)",
+      "address": "九亭中心北区",
+      "distance": "39m"
+    },
+    {
+      "brand": "有锅巴的煲仔饭",
+      "address": "7号楼115",
+      "distance": "40m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海九亭金地广场",
+      "open_date": "2019-09-21",
+      "area": "8万㎡",
+      "jun_daily_avg": "6.3万人次",
+      "weekday_avg": "5.8万人次",
+      "holiday_avg": "7.7万人次"
+    },
+    {
+      "name": "上海贝尚坊时尚生活中心",
+      "open_date": "2010-01-01",
+      "area": "4.2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海九亭旭辉U天地",
+      "open_date": "2017-03-19",
+      "area": "4万㎡",
+      "jun_daily_avg": "1.1万人次",
+      "weekday_avg": "1.1万人次",
+      "holiday_avg": "1.1万人次"
+    },
+    {
+      "name": "上海摩立盛汇生活广场",
+      "open_date": "-",
+      "area": "2.2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "佳预广场",
+      "open_date": "2022-12-18",
+      "area": "3.3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 337.0,
+      "within_1yr_pct": 24.3,
+      "1_3yr_pct": 33.5,
+      "over_3yr_pct": 42.1
+    },
+    {
+      "type": "购物",
+      "count": 140.0,
+      "within_1yr_pct": 23.6,
+      "1_3yr_pct": 30.0,
+      "over_3yr_pct": 46.4
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 37.0,
+      "within_1yr_pct": 29.7,
+      "1_3yr_pct": 35.1,
+      "over_3yr_pct": 35.1
+    },
+    {
+      "type": "教育培训",
+      "count": 28.0,
+      "within_1yr_pct": 21.4,
+      "1_3yr_pct": 39.3,
+      "over_3yr_pct": 39.3
+    },
+    {
+      "type": "酒店住宿",
+      "count": 18.0,
+      "within_1yr_pct": 27.8,
+      "1_3yr_pct": 22.2,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "生活服务",
+      "count": 184.0,
+      "within_1yr_pct": 27.7,
+      "1_3yr_pct": 34.2,
+      "over_3yr_pct": 38.0
+    },
+    {
+      "type": "运动健身",
+      "count": 25.0,
+      "within_1yr_pct": 28.0,
+      "1_3yr_pct": 48.0,
+      "over_3yr_pct": 24.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 16.0,
+      "within_1yr_pct": 31.3,
+      "1_3yr_pct": 31.3,
+      "over_3yr_pct": 37.5
+    }
+  ]
+}

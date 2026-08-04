@@ -1,0 +1,478 @@
+{
+  "name": "上海国华广场",
+  "city": "上海市",
+  "address": "上海市杨浦区三门路109号",
+  "lat": 31.311277,
+  "lng": 121.512666,
+  "overview": {
+    "score": 92.5,
+    "score_rank": "市内前30%",
+    "population_score": 86.2,
+    "area_score": 75.9,
+    "consumption_score": 75.4,
+    "industry_score": 92.7,
+    "annual_sales": "国华广场位于闸殷路、三门路、淞沪路交汇之地，以TOD城市综合体模式，带来5A办公、酒店式公寓、购物中心三大业态，商业MALL将打造为饕餮美食、设计时尚、影音感官、萌娃宝贝4大秀场，且内装空间、公共景观及业态选择均以休闲体验为出发点，为城市居民缔造更具情怀的休闲场所",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 6.0,
+    "open_date": "2019-12-01",
+    "operator": "华润万象生活有限公司",
+    "brand": "国华置业",
+    "type": "美食型",
+    "floors": "B1-L5"
+  },
+  "traffic": {
+    "annual_daily": 1.28,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第200",
+    "jun_total": 78.1,
+    "jun_total_rank": "市内商场第156名",
+    "jun_daily_avg": 2.6,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第156名",
+    "weekday_avg": 2.5,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第151名",
+    "holiday_avg": 3.0,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第162名"
+  },
+  "population": {
+    "residential": {
+      "500m": 2.0,
+      "1_5km": 18.7,
+      "3km": 85.0
+    },
+    "office": {
+      "500m": 3.2,
+      "1_5km": 16.8,
+      "3km": 47.2
+    },
+    "permanent": {
+      "500m": 2.4,
+      "1_5km": 19.9,
+      "3km": 86.8
+    }
+  },
+  "business": {
+    "competitors": 7.0,
+    "food": 194.0,
+    "shopping": 81.0,
+    "leisure": 10.0,
+    "education": 17.0,
+    "hotel": 11.0,
+    "services": 100.0,
+    "fitness": 20.0,
+    "auto": 20.0,
+    "total_stores": 126.0,
+    "old_store_3yr_pct": 40.0
+  },
+  "nearby_poi": {
+    "business": 9.0,
+    "community": 485.0,
+    "office": 66.0,
+    "school": 28.0,
+    "hospital": 44.0,
+    "transport": 12.0,
+    "scenic": 151.0
+  },
+  "demographics": {
+    "male_pct": 47.5,
+    "female_pct": null,
+    "education": {
+      "小学": 8.3,
+      "初中": 16.8,
+      "高中": 13.4,
+      "大专": 6.1,
+      "本科": 47.4,
+      "硕士": 5.9,
+      "博士": 2.1
+    },
+    "has_children_pct": 59.6,
+    "no_children_pct": 40.4
+  },
+  "scraped_at": "2026-07-31T15:53:54.457Z",
+  "nearby_restaurants": [
+    {
+      "brand": "沪三馋小笼馄饨(国华广场店)",
+      "address": "闸殷路1555号地下一层017-1",
+      "distance": "7m"
+    },
+    {
+      "brand": "酸究究·酸奶果汁冰(国华广场店)",
+      "address": "国京路与三门路交叉口西北160米",
+      "distance": "8m"
+    },
+    {
+      "brand": "奔跑的寿司酱(国华广场店)(暂停营业)",
+      "address": "闸殷路1555号2层225号房屋",
+      "distance": "14m"
+    },
+    {
+      "brand": "辛一铜锣烧(上海国华店)",
+      "address": "长海路街道闸殷路1555号国华广场B楼",
+      "distance": "16m"
+    },
+    {
+      "brand": "酸小七(国华广场店)",
+      "address": "闸殷路1555号国华广场A区B1-015",
+      "distance": "21m"
+    },
+    {
+      "brand": "稻状元(国华广场店)",
+      "address": "国京路与三门路交叉口西160米",
+      "distance": "22m"
+    },
+    {
+      "brand": "老乡鸡(上海国华广场店)",
+      "address": "三门路与国京路交叉口西160米G MALLA区B1层B1-021",
+      "distance": "23m"
+    },
+    {
+      "brand": "云庄里云南铜锅米线(上海国华店)",
+      "address": "长海路街道闸殷路1555号国华广场地下一层017-2号",
+      "distance": "29m"
+    },
+    {
+      "brand": "LINLEE·手打柠檬茶(杨浦国华店)",
+      "address": "长海路街道闸殷路1599号国华国际广场B1016商铺",
+      "distance": "29m"
+    },
+    {
+      "brand": "厚贞日式烤肉(国华广场A区店)",
+      "address": "长海路街道闸殷路1555号国华广场A区L2层",
+      "distance": "31m"
+    },
+    {
+      "brand": "沪三馋小笼馄饨(国华广场店)",
+      "address": "闸殷路1555号地下一层017-1",
+      "distance": "7m"
+    },
+    {
+      "brand": "酸究究·酸奶果汁冰(国华广场店)",
+      "address": "国京路与三门路交叉口西北160米",
+      "distance": "8m"
+    },
+    {
+      "brand": "奔跑的寿司酱(国华广场店)(暂停营业)",
+      "address": "闸殷路1555号2层225号房屋",
+      "distance": "14m"
+    },
+    {
+      "brand": "辛一铜锣烧(上海国华店)",
+      "address": "长海路街道闸殷路1555号国华广场B楼",
+      "distance": "16m"
+    },
+    {
+      "brand": "酸小七(国华广场店)",
+      "address": "闸殷路1555号国华广场A区B1-015",
+      "distance": "21m"
+    },
+    {
+      "brand": "稻状元(国华广场店)",
+      "address": "国京路与三门路交叉口西160米",
+      "distance": "22m"
+    },
+    {
+      "brand": "老乡鸡(上海国华广场店)",
+      "address": "三门路与国京路交叉口西160米G MALLA区B1层B1-021",
+      "distance": "23m"
+    },
+    {
+      "brand": "云庄里云南铜锅米线(上海国华店)",
+      "address": "长海路街道闸殷路1555号国华广场地下一层017-2号",
+      "distance": "29m"
+    },
+    {
+      "brand": "LINLEE·手打柠檬茶(杨浦国华店)",
+      "address": "长海路街道闸殷路1599号国华国际广场B1016商铺",
+      "distance": "29m"
+    },
+    {
+      "brand": "厚贞日式烤肉(国华广场A区店)",
+      "address": "长海路街道闸殷路1555号国华广场A区L2层",
+      "distance": "31m"
+    },
+    {
+      "brand": "沪三馋小笼馄饨(国华广场店)",
+      "address": "闸殷路1555号地下一层017-1",
+      "distance": "7m"
+    },
+    {
+      "brand": "酸究究·酸奶果汁冰(国华广场店)",
+      "address": "国京路与三门路交叉口西北160米",
+      "distance": "8m"
+    },
+    {
+      "brand": "奔跑的寿司酱(国华广场店)(暂停营业)",
+      "address": "闸殷路1555号2层225号房屋",
+      "distance": "14m"
+    },
+    {
+      "brand": "辛一铜锣烧(上海国华店)",
+      "address": "长海路街道闸殷路1555号国华广场B楼",
+      "distance": "16m"
+    },
+    {
+      "brand": "酸小七(国华广场店)",
+      "address": "闸殷路1555号国华广场A区B1-015",
+      "distance": "21m"
+    },
+    {
+      "brand": "稻状元(国华广场店)",
+      "address": "国京路与三门路交叉口西160米",
+      "distance": "22m"
+    },
+    {
+      "brand": "老乡鸡(上海国华广场店)",
+      "address": "三门路与国京路交叉口西160米G MALLA区B1层B1-021",
+      "distance": "23m"
+    },
+    {
+      "brand": "云庄里云南铜锅米线(上海国华店)",
+      "address": "长海路街道闸殷路1555号国华广场地下一层017-2号",
+      "distance": "29m"
+    },
+    {
+      "brand": "LINLEE·手打柠檬茶(杨浦国华店)",
+      "address": "长海路街道闸殷路1599号国华国际广场B1016商铺",
+      "distance": "29m"
+    },
+    {
+      "brand": "厚贞日式烤肉(国华广场A区店)",
+      "address": "长海路街道闸殷路1555号国华广场A区L2层",
+      "distance": "31m"
+    },
+    {
+      "brand": "沪三馋小笼馄饨(国华广场店)",
+      "address": "闸殷路1555号地下一层017-1",
+      "distance": "7m"
+    },
+    {
+      "brand": "酸究究·酸奶果汁冰(国华广场店)",
+      "address": "国京路与三门路交叉口西北160米",
+      "distance": "8m"
+    },
+    {
+      "brand": "奔跑的寿司酱(国华广场店)(暂停营业)",
+      "address": "闸殷路1555号2层225号房屋",
+      "distance": "14m"
+    },
+    {
+      "brand": "辛一铜锣烧(上海国华店)",
+      "address": "长海路街道闸殷路1555号国华广场B楼",
+      "distance": "16m"
+    },
+    {
+      "brand": "酸小七(国华广场店)",
+      "address": "闸殷路1555号国华广场A区B1-015",
+      "distance": "21m"
+    },
+    {
+      "brand": "稻状元(国华广场店)",
+      "address": "国京路与三门路交叉口西160米",
+      "distance": "22m"
+    },
+    {
+      "brand": "老乡鸡(上海国华广场店)",
+      "address": "三门路与国京路交叉口西160米G MALLA区B1层B1-021",
+      "distance": "23m"
+    },
+    {
+      "brand": "云庄里云南铜锅米线(上海国华店)",
+      "address": "长海路街道闸殷路1555号国华广场地下一层017-2号",
+      "distance": "29m"
+    },
+    {
+      "brand": "LINLEE·手打柠檬茶(杨浦国华店)",
+      "address": "长海路街道闸殷路1599号国华国际广场B1016商铺",
+      "distance": "29m"
+    },
+    {
+      "brand": "厚贞日式烤肉(国华广场A区店)",
+      "address": "长海路街道闸殷路1555号国华广场A区L2层",
+      "distance": "31m"
+    },
+    {
+      "brand": "沪三馋小笼馄饨(国华广场店)",
+      "address": "闸殷路1555号地下一层017-1",
+      "distance": "7m"
+    },
+    {
+      "brand": "酸究究·酸奶果汁冰(国华广场店)",
+      "address": "国京路与三门路交叉口西北160米",
+      "distance": "8m"
+    },
+    {
+      "brand": "奔跑的寿司酱(国华广场店)(暂停营业)",
+      "address": "闸殷路1555号2层225号房屋",
+      "distance": "14m"
+    },
+    {
+      "brand": "辛一铜锣烧(上海国华店)",
+      "address": "长海路街道闸殷路1555号国华广场B楼",
+      "distance": "16m"
+    },
+    {
+      "brand": "酸小七(国华广场店)",
+      "address": "闸殷路1555号国华广场A区B1-015",
+      "distance": "21m"
+    },
+    {
+      "brand": "稻状元(国华广场店)",
+      "address": "国京路与三门路交叉口西160米",
+      "distance": "22m"
+    },
+    {
+      "brand": "老乡鸡(上海国华广场店)",
+      "address": "三门路与国京路交叉口西160米G MALLA区B1层B1-021",
+      "distance": "23m"
+    },
+    {
+      "brand": "云庄里云南铜锅米线(上海国华店)",
+      "address": "长海路街道闸殷路1555号国华广场地下一层017-2号",
+      "distance": "29m"
+    },
+    {
+      "brand": "LINLEE·手打柠檬茶(杨浦国华店)",
+      "address": "长海路街道闸殷路1599号国华国际广场B1016商铺",
+      "distance": "29m"
+    },
+    {
+      "brand": "厚贞日式烤肉(国华广场A区店)",
+      "address": "长海路街道闸殷路1555号国华广场A区L2层",
+      "distance": "31m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海云际π",
+      "open_date": "2025-11-11",
+      "area": "4万㎡",
+      "jun_daily_avg": "1.2万人次",
+      "weekday_avg": "1万人次",
+      "holiday_avg": "1.7万人次"
+    },
+    {
+      "name": "上海太平洋森活天地",
+      "open_date": "2017-09-01",
+      "area": "1.8万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海瑞安INNO创智",
+      "open_date": "2019-04-01",
+      "area": "-",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海中原城市广场",
+      "open_date": "2012-10-28",
+      "area": "6万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海五角场万达广场",
+      "open_date": "2006-12-23",
+      "area": "20万㎡",
+      "jun_daily_avg": "1.2万人次",
+      "weekday_avg": "1万人次",
+      "holiday_avg": "1.7万人次"
+    },
+    {
+      "name": "上海百联又一城购物中心",
+      "open_date": "2007-01-26",
+      "area": "10.2万㎡",
+      "jun_daily_avg": "7.1万人次",
+      "weekday_avg": "6.1万人次",
+      "holiday_avg": "9.6万人次"
+    },
+    {
+      "name": "上海苏宁生活广场(五角场店)",
+      "open_date": "2019-11-01",
+      "area": "3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海五角场合生汇",
+      "open_date": "2016-01-01",
+      "area": "17万㎡",
+      "jun_daily_avg": "11.3万人次",
+      "weekday_avg": "9.6万人次",
+      "holiday_avg": "15.8万人次"
+    },
+    {
+      "name": "上海UMAX悠迈生活广场",
+      "open_date": "2018-01-19",
+      "area": "8万㎡",
+      "jun_daily_avg": "2.4万人次",
+      "weekday_avg": "2万人次",
+      "holiday_avg": "3.6万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 67.0,
+      "within_1yr_pct": 13.4,
+      "1_3yr_pct": 32.8,
+      "over_3yr_pct": 53.7
+    },
+    {
+      "type": "购物",
+      "count": 18.0,
+      "within_1yr_pct": 27.8,
+      "1_3yr_pct": 61.1,
+      "over_3yr_pct": 11.1
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 7.0,
+      "within_1yr_pct": 28.6,
+      "1_3yr_pct": 42.9,
+      "over_3yr_pct": 28.6
+    },
+    {
+      "type": "教育培训",
+      "count": 6.0,
+      "within_1yr_pct": 16.7,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 2.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "生活服务",
+      "count": 18.0,
+      "within_1yr_pct": 44.4,
+      "1_3yr_pct": 38.9,
+      "over_3yr_pct": 16.7
+    },
+    {
+      "type": "运动健身",
+      "count": 5.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 80.0,
+      "over_3yr_pct": 20.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 3.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 66.7
+    }
+  ]
+}

@@ -1,0 +1,423 @@
+{
+  "name": "望馨商业中心",
+  "city": "北京市",
+  "address": "北京市朝阳区东湖街道望馨商业中心",
+  "lat": 40.008896,
+  "lng": 116.462371,
+  "overview": {
+    "score": 75.8,
+    "score_rank": "市内前50%",
+    "population_score": 92.4,
+    "area_score": 75.1,
+    "consumption_score": 83.6,
+    "industry_score": 75.7,
+    "annual_sales": "望京利泽西园社区型商业体，5层独立商业楼，以零售、餐饮、生活服务为主，服务周边居民。",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 2.0,
+    "open_date": "",
+    "operator": "北京望京筑成物业管理有限责任公司",
+    "brand": "",
+    "type": "综合型",
+    "floors": "L1-L5"
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "-",
+    "annual_daily_rank": "",
+    "jun_total": 3.7,
+    "jun_total_rank": "市内商场第354名",
+    "jun_daily_avg": 1245.0,
+    "jun_daily_unit": "人次",
+    "jun_daily_rank": "市内商场第354名",
+    "weekday_avg": 1117.0,
+    "weekday_unit": "人次",
+    "weekday_rank": "市内商场第355名",
+    "holiday_avg": 1601.0,
+    "holiday_unit": "人次",
+    "holiday_rank": "市内商场第352名"
+  },
+  "population": {
+    "residential": {
+      "500m": 2.5,
+      "1_5km": 13.8,
+      "3km": 34.5
+    },
+    "office": {
+      "500m": 1.1,
+      "1_5km": 8.7,
+      "3km": 33.2
+    },
+    "permanent": {
+      "500m": 2.4,
+      "1_5km": 13.6,
+      "3km": 35.6
+    }
+  },
+  "business": {
+    "competitors": 2.0,
+    "food": 162.0,
+    "shopping": 78.0,
+    "leisure": 10.0,
+    "education": 29.0,
+    "hotel": 4.0,
+    "services": 124.0,
+    "fitness": 26.0,
+    "auto": 6.0,
+    "total_stores": 68.0,
+    "old_store_3yr_pct": 56.0
+  },
+  "nearby_poi": {
+    "business": 3.0,
+    "community": 149.0,
+    "office": 47.0,
+    "school": 31.0,
+    "hospital": 51.0,
+    "transport": 11.0,
+    "scenic": 115.0
+  },
+  "demographics": {
+    "male_pct": 45.5,
+    "female_pct": null,
+    "education": {
+      "小学": 8.3,
+      "初中": 14.1,
+      "高中": 10.9,
+      "大专": 6.1,
+      "本科": 50.2,
+      "硕士": 8.7,
+      "博士": 1.7
+    },
+    "has_children_pct": 55.5,
+    "no_children_pct": 44.5
+  },
+  "scraped_at": "2026-07-31T19:15:29.170Z",
+  "nearby_restaurants": [
+    {
+      "brand": "魔人餐厅(望馨商业中心店)",
+      "address": "利泽西园209号楼望馨商业中心1层115",
+      "distance": "3m"
+    },
+    {
+      "brand": "美蛙四季(望京店)",
+      "address": "利泽西园209号楼2层208(望馨商业中心)",
+      "distance": "6m"
+    },
+    {
+      "brand": "师姐茶楼(望馨商业中心店)",
+      "address": "望馨商业中心5层509-B",
+      "distance": "7m"
+    },
+    {
+      "brand": "成都小吃(望馨商业中心店)",
+      "address": "望馨商业中心二层(利泽西街209号楼215号)",
+      "distance": "10m"
+    },
+    {
+      "brand": "SHAKEN(望馨商业中心)",
+      "address": "北京城区利泽西街209号望馨商业中心2层207号",
+      "distance": "10m"
+    },
+    {
+      "brand": "打满·烧鸟(望京创始人店)",
+      "address": "望京利泽西街209号望馨商业中心三层303",
+      "distance": "13m"
+    },
+    {
+      "brand": "暴走小鸡·炸鸡(第一风味北京桦伟餐饮管理有限公司)",
+      "address": "望馨商业中心",
+      "distance": "15m"
+    },
+    {
+      "brand": "锦源安东鸡",
+      "address": "利泽西二路与利泽西街交叉口西北60米",
+      "distance": "15m"
+    },
+    {
+      "brand": "SHANKEN餐厅(望馨商业中心店)",
+      "address": "望京利泽西二路海鲜大卖场二楼",
+      "distance": "15m"
+    },
+    {
+      "brand": "万家早安",
+      "address": "利泽西二路与利泽西街交叉口西北80米",
+      "distance": "16m"
+    },
+    {
+      "brand": "魔人餐厅(望馨商业中心店)",
+      "address": "利泽西园209号楼望馨商业中心1层115",
+      "distance": "3m"
+    },
+    {
+      "brand": "美蛙四季(望京店)",
+      "address": "利泽西园209号楼2层208(望馨商业中心)",
+      "distance": "6m"
+    },
+    {
+      "brand": "师姐茶楼(望馨商业中心店)",
+      "address": "望馨商业中心5层509-B",
+      "distance": "7m"
+    },
+    {
+      "brand": "成都小吃(望馨商业中心店)",
+      "address": "望馨商业中心二层(利泽西街209号楼215号)",
+      "distance": "10m"
+    },
+    {
+      "brand": "SHAKEN(望馨商业中心)",
+      "address": "北京城区利泽西街209号望馨商业中心2层207号",
+      "distance": "10m"
+    },
+    {
+      "brand": "打满·烧鸟(望京创始人店)",
+      "address": "望京利泽西街209号望馨商业中心三层303",
+      "distance": "13m"
+    },
+    {
+      "brand": "暴走小鸡·炸鸡(第一风味北京桦伟餐饮管理有限公司)",
+      "address": "望馨商业中心",
+      "distance": "15m"
+    },
+    {
+      "brand": "锦源安东鸡",
+      "address": "利泽西二路与利泽西街交叉口西北60米",
+      "distance": "15m"
+    },
+    {
+      "brand": "SHANKEN餐厅(望馨商业中心店)",
+      "address": "望京利泽西二路海鲜大卖场二楼",
+      "distance": "15m"
+    },
+    {
+      "brand": "万家早安",
+      "address": "利泽西二路与利泽西街交叉口西北80米",
+      "distance": "16m"
+    },
+    {
+      "brand": "魔人餐厅(望馨商业中心店)",
+      "address": "利泽西园209号楼望馨商业中心1层115",
+      "distance": "3m"
+    },
+    {
+      "brand": "美蛙四季(望京店)",
+      "address": "利泽西园209号楼2层208(望馨商业中心)",
+      "distance": "6m"
+    },
+    {
+      "brand": "师姐茶楼(望馨商业中心店)",
+      "address": "望馨商业中心5层509-B",
+      "distance": "7m"
+    },
+    {
+      "brand": "成都小吃(望馨商业中心店)",
+      "address": "望馨商业中心二层(利泽西街209号楼215号)",
+      "distance": "10m"
+    },
+    {
+      "brand": "SHAKEN(望馨商业中心)",
+      "address": "北京城区利泽西街209号望馨商业中心2层207号",
+      "distance": "10m"
+    },
+    {
+      "brand": "打满·烧鸟(望京创始人店)",
+      "address": "望京利泽西街209号望馨商业中心三层303",
+      "distance": "13m"
+    },
+    {
+      "brand": "暴走小鸡·炸鸡(第一风味北京桦伟餐饮管理有限公司)",
+      "address": "望馨商业中心",
+      "distance": "15m"
+    },
+    {
+      "brand": "锦源安东鸡",
+      "address": "利泽西二路与利泽西街交叉口西北60米",
+      "distance": "15m"
+    },
+    {
+      "brand": "SHANKEN餐厅(望馨商业中心店)",
+      "address": "望京利泽西二路海鲜大卖场二楼",
+      "distance": "15m"
+    },
+    {
+      "brand": "万家早安",
+      "address": "利泽西二路与利泽西街交叉口西北80米",
+      "distance": "16m"
+    },
+    {
+      "brand": "魔人餐厅(望馨商业中心店)",
+      "address": "利泽西园209号楼望馨商业中心1层115",
+      "distance": "3m"
+    },
+    {
+      "brand": "美蛙四季(望京店)",
+      "address": "利泽西园209号楼2层208(望馨商业中心)",
+      "distance": "6m"
+    },
+    {
+      "brand": "师姐茶楼(望馨商业中心店)",
+      "address": "望馨商业中心5层509-B",
+      "distance": "7m"
+    },
+    {
+      "brand": "成都小吃(望馨商业中心店)",
+      "address": "望馨商业中心二层(利泽西街209号楼215号)",
+      "distance": "10m"
+    },
+    {
+      "brand": "SHAKEN(望馨商业中心)",
+      "address": "北京城区利泽西街209号望馨商业中心2层207号",
+      "distance": "10m"
+    },
+    {
+      "brand": "打满·烧鸟(望京创始人店)",
+      "address": "望京利泽西街209号望馨商业中心三层303",
+      "distance": "13m"
+    },
+    {
+      "brand": "暴走小鸡·炸鸡(第一风味北京桦伟餐饮管理有限公司)",
+      "address": "望馨商业中心",
+      "distance": "15m"
+    },
+    {
+      "brand": "锦源安东鸡",
+      "address": "利泽西二路与利泽西街交叉口西北60米",
+      "distance": "15m"
+    },
+    {
+      "brand": "SHANKEN餐厅(望馨商业中心店)",
+      "address": "望京利泽西二路海鲜大卖场二楼",
+      "distance": "15m"
+    },
+    {
+      "brand": "万家早安",
+      "address": "利泽西二路与利泽西街交叉口西北80米",
+      "distance": "16m"
+    },
+    {
+      "brand": "魔人餐厅(望馨商业中心店)",
+      "address": "利泽西园209号楼望馨商业中心1层115",
+      "distance": "3m"
+    },
+    {
+      "brand": "美蛙四季(望京店)",
+      "address": "利泽西园209号楼2层208(望馨商业中心)",
+      "distance": "6m"
+    },
+    {
+      "brand": "师姐茶楼(望馨商业中心店)",
+      "address": "望馨商业中心5层509-B",
+      "distance": "7m"
+    },
+    {
+      "brand": "成都小吃(望馨商业中心店)",
+      "address": "望馨商业中心二层(利泽西街209号楼215号)",
+      "distance": "10m"
+    },
+    {
+      "brand": "SHAKEN(望馨商业中心)",
+      "address": "北京城区利泽西街209号望馨商业中心2层207号",
+      "distance": "10m"
+    },
+    {
+      "brand": "打满·烧鸟(望京创始人店)",
+      "address": "望京利泽西街209号望馨商业中心三层303",
+      "distance": "13m"
+    },
+    {
+      "brand": "暴走小鸡·炸鸡(第一风味北京桦伟餐饮管理有限公司)",
+      "address": "望馨商业中心",
+      "distance": "15m"
+    },
+    {
+      "brand": "锦源安东鸡",
+      "address": "利泽西二路与利泽西街交叉口西北60米",
+      "distance": "15m"
+    },
+    {
+      "brand": "SHANKEN餐厅(望馨商业中心店)",
+      "address": "望京利泽西二路海鲜大卖场二楼",
+      "distance": "15m"
+    },
+    {
+      "brand": "万家早安",
+      "address": "利泽西二路与利泽西街交叉口西北80米",
+      "distance": "16m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "北京望京万象汇",
+      "open_date": "2024-12-31",
+      "area": "5万㎡",
+      "jun_daily_avg": "4.6万人次",
+      "weekday_avg": "4.3万人次",
+      "holiday_avg": "5.3万人次"
+    },
+    {
+      "name": "北京旺角购物广场",
+      "open_date": "2006-05-28",
+      "area": "4万㎡",
+      "jun_daily_avg": "1.7万人次",
+      "weekday_avg": "1.6万人次",
+      "holiday_avg": "1.9万人次"
+    },
+    {
+      "name": "北京保利广场·新座",
+      "open_date": "2024",
+      "area": "3.3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 21.0,
+      "within_1yr_pct": 19.0,
+      "1_3yr_pct": 14.3,
+      "over_3yr_pct": 66.7
+    },
+    {
+      "type": "购物",
+      "count": 6.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 33.3
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 3.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "教育培训",
+      "count": 10.0,
+      "within_1yr_pct": 10.0,
+      "1_3yr_pct": 10.0,
+      "over_3yr_pct": 80.0
+    },
+    {
+      "type": "生活服务",
+      "count": 19.0,
+      "within_1yr_pct": 21.1,
+      "1_3yr_pct": 36.8,
+      "over_3yr_pct": 42.1
+    },
+    {
+      "type": "运动健身",
+      "count": 8.0,
+      "within_1yr_pct": 12.5,
+      "1_3yr_pct": 12.5,
+      "over_3yr_pct": 75.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 1.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
+    }
+  ]
+}

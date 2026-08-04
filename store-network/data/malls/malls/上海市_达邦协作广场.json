@@ -1,0 +1,486 @@
+{
+  "name": "达邦协作广场",
+  "city": "上海市",
+  "address": "上海市静安区天目西路街道达邦协作广场",
+  "lat": 31.244696,
+  "lng": 121.455464,
+  "overview": {
+    "score": 84.3,
+    "score_rank": "市内前30%",
+    "population_score": 84.8,
+    "area_score": 97.1,
+    "consumption_score": 84.0,
+    "industry_score": 84.2,
+    "annual_sales": "",
+    "annual_sales_unit": "",
+    "area_size_sqm": null,
+    "open_date": "",
+    "operator": "",
+    "brand": "",
+    "type": "",
+    "floors": ""
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "",
+    "annual_daily_rank": "",
+    "jun_total": null,
+    "jun_total_rank": "",
+    "jun_daily_avg": null,
+    "jun_daily_unit": "",
+    "jun_daily_rank": "",
+    "weekday_avg": null,
+    "weekday_unit": "",
+    "weekday_rank": "",
+    "holiday_avg": null,
+    "holiday_unit": "",
+    "holiday_rank": ""
+  },
+  "population": {
+    "residential": {
+      "500m": 1.9,
+      "1_5km": 28.4,
+      "3km": 117.7
+    },
+    "office": {
+      "500m": 5.7,
+      "1_5km": 23.3,
+      "3km": 96.5
+    },
+    "permanent": {
+      "500m": 3.4,
+      "1_5km": 33.0,
+      "3km": 132.2
+    }
+  },
+  "business": {
+    "competitors": 17.0,
+    "food": 289.0,
+    "shopping": 250.0,
+    "leisure": 28.0,
+    "education": 27.0,
+    "hotel": 77.0,
+    "services": 207.0,
+    "fitness": 36.0,
+    "auto": 41.0,
+    "total_stores": 964.0,
+    "old_store_3yr_pct": 54.0
+  },
+  "nearby_poi": {
+    "business": 11.0,
+    "community": 985.0,
+    "office": 176.0,
+    "school": 47.0,
+    "hospital": 167.0,
+    "transport": 20.0,
+    "scenic": 505.0
+  },
+  "demographics": {
+    "male_pct": 49.8,
+    "female_pct": null,
+    "education": {
+      "小学": 9.3,
+      "初中": 18.1,
+      "高中": 11.8,
+      "大专": 7.1,
+      "本科": 47.7,
+      "硕士": 4.3,
+      "博士": 1.7
+    },
+    "has_children_pct": null,
+    "no_children_pct": null
+  },
+  "scraped_at": "2026-07-31T11:56:02.576Z",
+  "nearby_restaurants": [
+    {
+      "brand": "YogurtDay酸奶(达邦协作广场店)",
+      "address": "天目西路街道恒丰路371、375号108B单元(达邦协作广场)",
+      "distance": "28m"
+    },
+    {
+      "brand": "每日贝果(达邦协作广场店)",
+      "address": "恒丰路399号达邦协作广场F1层",
+      "distance": "29m"
+    },
+    {
+      "brand": "Woodside Coffee(达邦协作广场店)",
+      "address": "恒丰路399号达邦协作广场F1层",
+      "distance": "31m"
+    },
+    {
+      "brand": "逸焙咖啡·现烤贝果(恒丰路店)",
+      "address": "恒丰路399号达邦协作广场",
+      "distance": "57m"
+    },
+    {
+      "brand": "津富贵港式烧腊(达邦协作广场店)",
+      "address": "恒丰路379号1层L106A单元",
+      "distance": "60m"
+    },
+    {
+      "brand": "博风白领食堂(达邦店)",
+      "address": "恒丰路399号达邦协作广场F2层",
+      "distance": "63m"
+    },
+    {
+      "brand": "兰甄亭·兰州牛肉面(民立路店)",
+      "address": "民立路128号(上海火车站地铁站5号口步行180米)",
+      "distance": "67m"
+    },
+    {
+      "brand": "超级碗FOODBOWL(上海达邦协作广场店)",
+      "address": "恒丰路399号达邦协作广场1层106号",
+      "distance": "67m"
+    },
+    {
+      "brand": "谷田稻香(上海火车站店)",
+      "address": "天目西路街道恒丰路399号达邦协作广场1层L107室",
+      "distance": "70m"
+    },
+    {
+      "brand": "星巴克(达邦协作广场店)",
+      "address": "恒丰路399号达邦大厦L101单元",
+      "distance": "74m"
+    },
+    {
+      "brand": "YogurtDay酸奶(达邦协作广场店)",
+      "address": "天目西路街道恒丰路371、375号108B单元(达邦协作广场)",
+      "distance": "28m"
+    },
+    {
+      "brand": "每日贝果(达邦协作广场店)",
+      "address": "恒丰路399号达邦协作广场F1层",
+      "distance": "29m"
+    },
+    {
+      "brand": "Woodside Coffee(达邦协作广场店)",
+      "address": "恒丰路399号达邦协作广场F1层",
+      "distance": "31m"
+    },
+    {
+      "brand": "逸焙咖啡·现烤贝果(恒丰路店)",
+      "address": "恒丰路399号达邦协作广场",
+      "distance": "57m"
+    },
+    {
+      "brand": "津富贵港式烧腊(达邦协作广场店)",
+      "address": "恒丰路379号1层L106A单元",
+      "distance": "60m"
+    },
+    {
+      "brand": "博风白领食堂(达邦店)",
+      "address": "恒丰路399号达邦协作广场F2层",
+      "distance": "63m"
+    },
+    {
+      "brand": "兰甄亭·兰州牛肉面(民立路店)",
+      "address": "民立路128号(上海火车站地铁站5号口步行180米)",
+      "distance": "67m"
+    },
+    {
+      "brand": "超级碗FOODBOWL(上海达邦协作广场店)",
+      "address": "恒丰路399号达邦协作广场1层106号",
+      "distance": "67m"
+    },
+    {
+      "brand": "谷田稻香(上海火车站店)",
+      "address": "天目西路街道恒丰路399号达邦协作广场1层L107室",
+      "distance": "70m"
+    },
+    {
+      "brand": "星巴克(达邦协作广场店)",
+      "address": "恒丰路399号达邦大厦L101单元",
+      "distance": "74m"
+    },
+    {
+      "brand": "YogurtDay酸奶(达邦协作广场店)",
+      "address": "天目西路街道恒丰路371、375号108B单元(达邦协作广场)",
+      "distance": "28m"
+    },
+    {
+      "brand": "每日贝果(达邦协作广场店)",
+      "address": "恒丰路399号达邦协作广场F1层",
+      "distance": "29m"
+    },
+    {
+      "brand": "Woodside Coffee(达邦协作广场店)",
+      "address": "恒丰路399号达邦协作广场F1层",
+      "distance": "31m"
+    },
+    {
+      "brand": "逸焙咖啡·现烤贝果(恒丰路店)",
+      "address": "恒丰路399号达邦协作广场",
+      "distance": "57m"
+    },
+    {
+      "brand": "津富贵港式烧腊(达邦协作广场店)",
+      "address": "恒丰路379号1层L106A单元",
+      "distance": "60m"
+    },
+    {
+      "brand": "博风白领食堂(达邦店)",
+      "address": "恒丰路399号达邦协作广场F2层",
+      "distance": "63m"
+    },
+    {
+      "brand": "兰甄亭·兰州牛肉面(民立路店)",
+      "address": "民立路128号(上海火车站地铁站5号口步行180米)",
+      "distance": "67m"
+    },
+    {
+      "brand": "超级碗FOODBOWL(上海达邦协作广场店)",
+      "address": "恒丰路399号达邦协作广场1层106号",
+      "distance": "67m"
+    },
+    {
+      "brand": "谷田稻香(上海火车站店)",
+      "address": "天目西路街道恒丰路399号达邦协作广场1层L107室",
+      "distance": "70m"
+    },
+    {
+      "brand": "星巴克(达邦协作广场店)",
+      "address": "恒丰路399号达邦大厦L101单元",
+      "distance": "74m"
+    },
+    {
+      "brand": "YogurtDay酸奶(达邦协作广场店)",
+      "address": "天目西路街道恒丰路371、375号108B单元(达邦协作广场)",
+      "distance": "28m"
+    },
+    {
+      "brand": "每日贝果(达邦协作广场店)",
+      "address": "恒丰路399号达邦协作广场F1层",
+      "distance": "29m"
+    },
+    {
+      "brand": "Woodside Coffee(达邦协作广场店)",
+      "address": "恒丰路399号达邦协作广场F1层",
+      "distance": "31m"
+    },
+    {
+      "brand": "逸焙咖啡·现烤贝果(恒丰路店)",
+      "address": "恒丰路399号达邦协作广场",
+      "distance": "57m"
+    },
+    {
+      "brand": "津富贵港式烧腊(达邦协作广场店)",
+      "address": "恒丰路379号1层L106A单元",
+      "distance": "60m"
+    },
+    {
+      "brand": "博风白领食堂(达邦店)",
+      "address": "恒丰路399号达邦协作广场F2层",
+      "distance": "63m"
+    },
+    {
+      "brand": "兰甄亭·兰州牛肉面(民立路店)",
+      "address": "民立路128号(上海火车站地铁站5号口步行180米)",
+      "distance": "67m"
+    },
+    {
+      "brand": "超级碗FOODBOWL(上海达邦协作广场店)",
+      "address": "恒丰路399号达邦协作广场1层106号",
+      "distance": "67m"
+    },
+    {
+      "brand": "谷田稻香(上海火车站店)",
+      "address": "天目西路街道恒丰路399号达邦协作广场1层L107室",
+      "distance": "70m"
+    },
+    {
+      "brand": "星巴克(达邦协作广场店)",
+      "address": "恒丰路399号达邦大厦L101单元",
+      "distance": "74m"
+    },
+    {
+      "brand": "YogurtDay酸奶(达邦协作广场店)",
+      "address": "天目西路街道恒丰路371、375号108B单元(达邦协作广场)",
+      "distance": "28m"
+    },
+    {
+      "brand": "每日贝果(达邦协作广场店)",
+      "address": "恒丰路399号达邦协作广场F1层",
+      "distance": "29m"
+    },
+    {
+      "brand": "Woodside Coffee(达邦协作广场店)",
+      "address": "恒丰路399号达邦协作广场F1层",
+      "distance": "31m"
+    },
+    {
+      "brand": "逸焙咖啡·现烤贝果(恒丰路店)",
+      "address": "恒丰路399号达邦协作广场",
+      "distance": "57m"
+    },
+    {
+      "brand": "津富贵港式烧腊(达邦协作广场店)",
+      "address": "恒丰路379号1层L106A单元",
+      "distance": "60m"
+    },
+    {
+      "brand": "博风白领食堂(达邦店)",
+      "address": "恒丰路399号达邦协作广场F2层",
+      "distance": "63m"
+    },
+    {
+      "brand": "兰甄亭·兰州牛肉面(民立路店)",
+      "address": "民立路128号(上海火车站地铁站5号口步行180米)",
+      "distance": "67m"
+    },
+    {
+      "brand": "超级碗FOODBOWL(上海达邦协作广场店)",
+      "address": "恒丰路399号达邦协作广场1层106号",
+      "distance": "67m"
+    },
+    {
+      "brand": "谷田稻香(上海火车站店)",
+      "address": "天目西路街道恒丰路399号达邦协作广场1层L107室",
+      "distance": "70m"
+    },
+    {
+      "brand": "星巴克(达邦协作广场店)",
+      "address": "恒丰路399号达邦大厦L101单元",
+      "distance": "74m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海环龙商厦",
+      "open_date": "1992-01-01",
+      "area": "3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海太阳CITY广场",
+      "open_date": "2015-01-01",
+      "area": "-",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海静安国际中心",
+      "open_date": "2019-10-01",
+      "area": "7.6万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海凯德星贸中心",
+      "open_date": "2017-09-01",
+      "area": "1.7万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海金融街·融悦汇",
+      "open_date": "2021-01-01",
+      "area": "6万㎡",
+      "jun_daily_avg": "1.5万人次",
+      "weekday_avg": "1.6万人次",
+      "holiday_avg": "1.2万人次"
+    },
+    {
+      "name": "上海大洋晶典·天安千树",
+      "open_date": "2021-12-22",
+      "area": "3.9万㎡",
+      "jun_daily_avg": "2.4万人次",
+      "weekday_avg": "2.1万人次",
+      "holiday_avg": "3.1万人次"
+    },
+    {
+      "name": "上海MOHO",
+      "open_date": "2023-01-13",
+      "area": "8万㎡",
+      "jun_daily_avg": "2万人次",
+      "weekday_avg": "2万人次",
+      "holiday_avg": "1.9万人次"
+    },
+    {
+      "name": "上海五月花生活广场",
+      "open_date": "2012-03-15",
+      "area": "3.1万㎡",
+      "jun_daily_avg": "1.2万人次",
+      "weekday_avg": "1.2万人次",
+      "holiday_avg": "1.2万人次"
+    },
+    {
+      "name": "上海巴黎春天(陕西路店)",
+      "open_date": "2011-11-01",
+      "area": "4.2万㎡",
+      "jun_daily_avg": "1.2万人次",
+      "weekday_avg": "1.1万人次",
+      "holiday_avg": "1.3万人次"
+    },
+    {
+      "name": "上海189弄购物中心",
+      "open_date": "2017-01-18",
+      "area": "2万㎡",
+      "jun_daily_avg": "1.4万人次",
+      "weekday_avg": "1.3万人次",
+      "holiday_avg": "1.4万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 289.0,
+      "within_1yr_pct": 24.6,
+      "1_3yr_pct": 22.5,
+      "over_3yr_pct": 52.9
+    },
+    {
+      "type": "购物",
+      "count": 250.0,
+      "within_1yr_pct": 14.8,
+      "1_3yr_pct": 20.0,
+      "over_3yr_pct": 65.2
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 37.0,
+      "within_1yr_pct": 21.6,
+      "1_3yr_pct": 54.1,
+      "over_3yr_pct": 24.3
+    },
+    {
+      "type": "教育培训",
+      "count": 27.0,
+      "within_1yr_pct": 18.5,
+      "1_3yr_pct": 37.0,
+      "over_3yr_pct": 44.4
+    },
+    {
+      "type": "酒店住宿",
+      "count": 77.0,
+      "within_1yr_pct": 23.4,
+      "1_3yr_pct": 16.9,
+      "over_3yr_pct": 59.7
+    },
+    {
+      "type": "生活服务",
+      "count": 207.0,
+      "within_1yr_pct": 20.8,
+      "1_3yr_pct": 29.0,
+      "over_3yr_pct": 50.2
+    },
+    {
+      "type": "运动健身",
+      "count": 36.0,
+      "within_1yr_pct": 22.2,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 44.4
+    },
+    {
+      "type": "车辆服务",
+      "count": 41.0,
+      "within_1yr_pct": 22.0,
+      "1_3yr_pct": 29.3,
+      "over_3yr_pct": 48.8
+    }
+  ]
+}

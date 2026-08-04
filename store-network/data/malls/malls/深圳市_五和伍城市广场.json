@@ -1,0 +1,472 @@
+{
+  "name": "五和伍城市广场",
+  "city": "深圳市",
+  "address": "广东省深圳市龙岗区坂田街道五和社区五和南路82号",
+  "lat": 22.621596,
+  "lng": 114.061348,
+  "overview": {
+    "score": 85.4,
+    "score_rank": "市内前30%",
+    "population_score": 100.0,
+    "area_score": 92.9,
+    "consumption_score": 71.4,
+    "industry_score": 85.3,
+    "annual_sales": "位于梅林至坂田交通主干道“五和大道”的万科四季花城路段。毗邻五和大道、布龙公路、吉华路、梅观高速，交通方便快捷，20多路公交线路畅通直达。以“时尚百货+大型超市”为主经营业态。科学合理规划了餐饮、名烟酒茶、药店、手机通讯等配套项目。是一家集购物、休闲、娱乐、餐饮、服务于一体的商业综合体。",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 2.3,
+    "open_date": "2023-11-08",
+    "operator": "深圳市汇江实业有限公司",
+    "brand": "",
+    "type": "综合型",
+    "floors": "L1-L5"
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "-",
+    "annual_daily_rank": "",
+    "jun_total": 31.3,
+    "jun_total_rank": "市内商场第208名",
+    "jun_daily_avg": 1.0,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第208名",
+    "weekday_avg": 9166.0,
+    "weekday_unit": "人次",
+    "weekday_rank": "市内商场第213名",
+    "holiday_avg": 1.4,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第194名"
+  },
+  "population": {
+    "residential": {
+      "500m": 8.1,
+      "1_5km": 36.3,
+      "3km": 120.1
+    },
+    "office": {
+      "500m": 2.1,
+      "1_5km": 15.0,
+      "3km": 58.4
+    },
+    "permanent": {
+      "500m": 6.2,
+      "1_5km": 29.9,
+      "3km": 97.3
+    }
+  },
+  "business": {
+    "competitors": 2.0,
+    "food": 741.0,
+    "shopping": 412.0,
+    "leisure": 55.0,
+    "education": 44.0,
+    "hotel": 154.0,
+    "services": 400.0,
+    "fitness": 41.0,
+    "auto": 33.0,
+    "total_stores": 89.0,
+    "old_store_3yr_pct": 27.0
+  },
+  "nearby_poi": {
+    "business": 12.0,
+    "community": 351.0,
+    "office": 122.0,
+    "school": 40.0,
+    "hospital": 109.0,
+    "transport": 7.0,
+    "scenic": 108.0
+  },
+  "demographics": {
+    "male_pct": 48.3,
+    "female_pct": null,
+    "education": {
+      "小学": 8.3,
+      "初中": 16.2,
+      "高中": 11.4,
+      "大专": 13.9,
+      "本科": 46.5,
+      "硕士": 3.3,
+      "博士": 0.4
+    },
+    "has_children_pct": 61.8,
+    "no_children_pct": 38.2
+  },
+  "scraped_at": "2026-08-02T10:22:07.668Z",
+  "nearby_restaurants": [
+    {
+      "brand": "煲珠公·老红糖珍珠奶茶(深圳五和伍城市广场店)",
+      "address": "坂田街道五和社区五和大道82号五和伍城市广场101-26",
+      "distance": "2m"
+    },
+    {
+      "brand": "鬼才包子·手工鲜肉(五和伍城市广场店)",
+      "address": "五和社区五和南路82号五和伍城市广场(奈雪的茶对面)",
+      "distance": "3m"
+    },
+    {
+      "brand": "赵记传承·中式甜品(深圳坂田五和伍城市广场店)",
+      "address": "五和南路82号五和伍城市广场1F",
+      "distance": "7m"
+    },
+    {
+      "brand": "蒙自源(深圳坂田伍和店)",
+      "address": "五和大道与永香路交叉口东南80米",
+      "distance": "11m"
+    },
+    {
+      "brand": "喜兄妹·鲜虾煲(板田五和伍广场店)",
+      "address": "五和大道与永香路交叉口东南80米",
+      "distance": "16m"
+    },
+    {
+      "brand": "NOWWA挪瓦咖啡(深圳五和广场地标酒吧店)",
+      "address": "坂田街道五和五商业广场3层地标服务站",
+      "distance": "18m"
+    },
+    {
+      "brand": "森林子 · 果蔬茶(五和伍城市广场店)",
+      "address": "坂田街道五和社区五和大道南82号101-17号",
+      "distance": "25m"
+    },
+    {
+      "brand": "黔有财·贵州地摊酸汤火锅(五和店)",
+      "address": "五和大道82号101-12",
+      "distance": "27m"
+    },
+    {
+      "brand": "红荔村肠粉(五和伍店)",
+      "address": "五和南路82号板田五和综合市场阳光湾畔百货商场一层S10-10号",
+      "distance": "28m"
+    },
+    {
+      "brand": "徕黔筷贵州钢盆毛血旺(深圳首店)",
+      "address": "坂田街道五和大道82号101-7",
+      "distance": "30m"
+    },
+    {
+      "brand": "煲珠公·老红糖珍珠奶茶(深圳五和伍城市广场店)",
+      "address": "坂田街道五和社区五和大道82号五和伍城市广场101-26",
+      "distance": "2m"
+    },
+    {
+      "brand": "鬼才包子·手工鲜肉(五和伍城市广场店)",
+      "address": "五和社区五和南路82号五和伍城市广场(奈雪的茶对面)",
+      "distance": "3m"
+    },
+    {
+      "brand": "赵记传承·中式甜品(深圳坂田五和伍城市广场店)",
+      "address": "五和南路82号五和伍城市广场1F",
+      "distance": "7m"
+    },
+    {
+      "brand": "蒙自源(深圳坂田伍和店)",
+      "address": "五和大道与永香路交叉口东南80米",
+      "distance": "11m"
+    },
+    {
+      "brand": "喜兄妹·鲜虾煲(板田五和伍广场店)",
+      "address": "五和大道与永香路交叉口东南80米",
+      "distance": "16m"
+    },
+    {
+      "brand": "NOWWA挪瓦咖啡(深圳五和广场地标酒吧店)",
+      "address": "坂田街道五和五商业广场3层地标服务站",
+      "distance": "18m"
+    },
+    {
+      "brand": "森林子 · 果蔬茶(五和伍城市广场店)",
+      "address": "坂田街道五和社区五和大道南82号101-17号",
+      "distance": "25m"
+    },
+    {
+      "brand": "黔有财·贵州地摊酸汤火锅(五和店)",
+      "address": "五和大道82号101-12",
+      "distance": "27m"
+    },
+    {
+      "brand": "红荔村肠粉(五和伍店)",
+      "address": "五和南路82号板田五和综合市场阳光湾畔百货商场一层S10-10号",
+      "distance": "28m"
+    },
+    {
+      "brand": "徕黔筷贵州钢盆毛血旺(深圳首店)",
+      "address": "坂田街道五和大道82号101-7",
+      "distance": "30m"
+    },
+    {
+      "brand": "煲珠公·老红糖珍珠奶茶(深圳五和伍城市广场店)",
+      "address": "坂田街道五和社区五和大道82号五和伍城市广场101-26",
+      "distance": "2m"
+    },
+    {
+      "brand": "鬼才包子·手工鲜肉(五和伍城市广场店)",
+      "address": "五和社区五和南路82号五和伍城市广场(奈雪的茶对面)",
+      "distance": "3m"
+    },
+    {
+      "brand": "赵记传承·中式甜品(深圳坂田五和伍城市广场店)",
+      "address": "五和南路82号五和伍城市广场1F",
+      "distance": "7m"
+    },
+    {
+      "brand": "蒙自源(深圳坂田伍和店)",
+      "address": "五和大道与永香路交叉口东南80米",
+      "distance": "11m"
+    },
+    {
+      "brand": "喜兄妹·鲜虾煲(板田五和伍广场店)",
+      "address": "五和大道与永香路交叉口东南80米",
+      "distance": "16m"
+    },
+    {
+      "brand": "NOWWA挪瓦咖啡(深圳五和广场地标酒吧店)",
+      "address": "坂田街道五和五商业广场3层地标服务站",
+      "distance": "18m"
+    },
+    {
+      "brand": "森林子 · 果蔬茶(五和伍城市广场店)",
+      "address": "坂田街道五和社区五和大道南82号101-17号",
+      "distance": "25m"
+    },
+    {
+      "brand": "黔有财·贵州地摊酸汤火锅(五和店)",
+      "address": "五和大道82号101-12",
+      "distance": "27m"
+    },
+    {
+      "brand": "红荔村肠粉(五和伍店)",
+      "address": "五和南路82号板田五和综合市场阳光湾畔百货商场一层S10-10号",
+      "distance": "28m"
+    },
+    {
+      "brand": "徕黔筷贵州钢盆毛血旺(深圳首店)",
+      "address": "坂田街道五和大道82号101-7",
+      "distance": "30m"
+    },
+    {
+      "brand": "煲珠公·老红糖珍珠奶茶(深圳五和伍城市广场店)",
+      "address": "坂田街道五和社区五和大道82号五和伍城市广场101-26",
+      "distance": "2m"
+    },
+    {
+      "brand": "鬼才包子·手工鲜肉(五和伍城市广场店)",
+      "address": "五和社区五和南路82号五和伍城市广场(奈雪的茶对面)",
+      "distance": "3m"
+    },
+    {
+      "brand": "赵记传承·中式甜品(深圳坂田五和伍城市广场店)",
+      "address": "五和南路82号五和伍城市广场1F",
+      "distance": "7m"
+    },
+    {
+      "brand": "蒙自源(深圳坂田伍和店)",
+      "address": "五和大道与永香路交叉口东南80米",
+      "distance": "11m"
+    },
+    {
+      "brand": "喜兄妹·鲜虾煲(板田五和伍广场店)",
+      "address": "五和大道与永香路交叉口东南80米",
+      "distance": "16m"
+    },
+    {
+      "brand": "NOWWA挪瓦咖啡(深圳五和广场地标酒吧店)",
+      "address": "坂田街道五和五商业广场3层地标服务站",
+      "distance": "18m"
+    },
+    {
+      "brand": "森林子 · 果蔬茶(五和伍城市广场店)",
+      "address": "坂田街道五和社区五和大道南82号101-17号",
+      "distance": "25m"
+    },
+    {
+      "brand": "黔有财·贵州地摊酸汤火锅(五和店)",
+      "address": "五和大道82号101-12",
+      "distance": "27m"
+    },
+    {
+      "brand": "红荔村肠粉(五和伍店)",
+      "address": "五和南路82号板田五和综合市场阳光湾畔百货商场一层S10-10号",
+      "distance": "28m"
+    },
+    {
+      "brand": "徕黔筷贵州钢盆毛血旺(深圳首店)",
+      "address": "坂田街道五和大道82号101-7",
+      "distance": "30m"
+    },
+    {
+      "brand": "煲珠公·老红糖珍珠奶茶(深圳五和伍城市广场店)",
+      "address": "坂田街道五和社区五和大道82号五和伍城市广场101-26",
+      "distance": "2m"
+    },
+    {
+      "brand": "鬼才包子·手工鲜肉(五和伍城市广场店)",
+      "address": "五和社区五和南路82号五和伍城市广场(奈雪的茶对面)",
+      "distance": "3m"
+    },
+    {
+      "brand": "赵记传承·中式甜品(深圳坂田五和伍城市广场店)",
+      "address": "五和南路82号五和伍城市广场1F",
+      "distance": "7m"
+    },
+    {
+      "brand": "蒙自源(深圳坂田伍和店)",
+      "address": "五和大道与永香路交叉口东南80米",
+      "distance": "11m"
+    },
+    {
+      "brand": "喜兄妹·鲜虾煲(板田五和伍广场店)",
+      "address": "五和大道与永香路交叉口东南80米",
+      "distance": "16m"
+    },
+    {
+      "brand": "NOWWA挪瓦咖啡(深圳五和广场地标酒吧店)",
+      "address": "坂田街道五和五商业广场3层地标服务站",
+      "distance": "18m"
+    },
+    {
+      "brand": "森林子 · 果蔬茶(五和伍城市广场店)",
+      "address": "坂田街道五和社区五和大道南82号101-17号",
+      "distance": "25m"
+    },
+    {
+      "brand": "黔有财·贵州地摊酸汤火锅(五和店)",
+      "address": "五和大道82号101-12",
+      "distance": "27m"
+    },
+    {
+      "brand": "红荔村肠粉(五和伍店)",
+      "address": "五和南路82号板田五和综合市场阳光湾畔百货商场一层S10-10号",
+      "distance": "28m"
+    },
+    {
+      "brand": "徕黔筷贵州钢盆毛血旺(深圳首店)",
+      "address": "坂田街道五和大道82号101-7",
+      "distance": "30m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "深圳宝银商业广场",
+      "open_date": "2019-10-01",
+      "area": "6万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "深圳海达和成购物广场",
+      "open_date": "2016-04-25",
+      "area": "2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "深圳8号仓奥特莱斯",
+      "open_date": "2012-01-01",
+      "area": "8万㎡",
+      "jun_daily_avg": "1.6万人次",
+      "weekday_avg": "1.3万人次",
+      "holiday_avg": "2.4万人次"
+    },
+    {
+      "name": "深圳坂田湾畔Mall",
+      "open_date": "2021-01-23",
+      "area": "8万㎡",
+      "jun_daily_avg": "1.9万人次",
+      "weekday_avg": "1.7万人次",
+      "holiday_avg": "2.4万人次"
+    },
+    {
+      "name": "深圳万科万致天地",
+      "open_date": "2023-09-28",
+      "area": "15万㎡",
+      "jun_daily_avg": "10万人次",
+      "weekday_avg": "8.8万人次",
+      "holiday_avg": "13.3万人次"
+    },
+    {
+      "name": "深圳max city 百佳华购物中心(坂田店)",
+      "open_date": "2016-12-24",
+      "area": "5万㎡",
+      "jun_daily_avg": "3.6万人次",
+      "weekday_avg": "3.1万人次",
+      "holiday_avg": "5万人次"
+    },
+    {
+      "name": "深圳万科里购物中心",
+      "open_date": "2017-09-27",
+      "area": "4.5万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "深圳佳华领汇广场",
+      "open_date": "2015-07-21",
+      "area": "8万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "深圳坂田商业广场",
+      "open_date": "2024-09-26",
+      "area": "5万㎡",
+      "jun_daily_avg": "1.6万人次",
+      "weekday_avg": "1.4万人次",
+      "holiday_avg": "2万人次"
+    },
+    {
+      "name": "深圳城立方商业中心",
+      "open_date": "-",
+      "area": "6万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 44.0,
+      "within_1yr_pct": 34.1,
+      "1_3yr_pct": 38.6,
+      "over_3yr_pct": 27.3
+    },
+    {
+      "type": "购物",
+      "count": 19.0,
+      "within_1yr_pct": 31.6,
+      "1_3yr_pct": 36.8,
+      "over_3yr_pct": 31.6
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 8.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "教育培训",
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "生活服务",
+      "count": 13.0,
+      "within_1yr_pct": 30.8,
+      "1_3yr_pct": 61.5,
+      "over_3yr_pct": 7.7
+    },
+    {
+      "type": "运动健身",
+      "count": 3.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 66.7,
+      "over_3yr_pct": 33.3
+    }
+  ]
+}

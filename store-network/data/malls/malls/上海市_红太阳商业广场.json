@@ -1,0 +1,154 @@
+{
+  "name": "红太阳商业广场",
+  "city": "上海市",
+  "address": "上海市青浦区盈浦街道399商业广场",
+  "lat": 31.145775,
+  "lng": 121.114796,
+  "overview": {
+    "score": 79.6,
+    "score_rank": "市内前30%",
+    "population_score": 69.3,
+    "area_score": 72.3,
+    "consumption_score": 66.1,
+    "industry_score": 79.7,
+    "annual_sales": "",
+    "annual_sales_unit": "",
+    "area_size_sqm": null,
+    "open_date": "",
+    "operator": "",
+    "brand": "",
+    "type": "",
+    "floors": ""
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "",
+    "annual_daily_rank": "",
+    "jun_total": null,
+    "jun_total_rank": "",
+    "jun_daily_avg": null,
+    "jun_daily_unit": "",
+    "jun_daily_rank": "",
+    "weekday_avg": null,
+    "weekday_unit": "",
+    "weekday_rank": "",
+    "holiday_avg": null,
+    "holiday_unit": "",
+    "holiday_rank": ""
+  },
+  "population": {
+    "residential": {
+      "500m": 7700.0,
+      "1_5km": 9.4,
+      "3km": 30.4
+    },
+    "office": {
+      "500m": 6800.0,
+      "1_5km": 3.4,
+      "3km": 11.9
+    },
+    "permanent": {
+      "500m": 1.1,
+      "1_5km": 8.8,
+      "3km": 29.5
+    }
+  },
+  "business": {
+    "competitors": 6.0,
+    "food": 169.0,
+    "shopping": 128.0,
+    "leisure": 24.0,
+    "education": 35.0,
+    "hotel": 3.0,
+    "services": 92.0,
+    "fitness": 21.0,
+    "auto": 18.0,
+    "total_stores": 492.0,
+    "old_store_3yr_pct": 53.0
+  },
+  "nearby_poi": {
+    "business": 4.0,
+    "community": 177.0,
+    "office": 5.0,
+    "school": 18.0,
+    "hospital": 25.0,
+    "transport": 9.0,
+    "scenic": 60.0
+  },
+  "demographics": {
+    "male_pct": 46.2,
+    "female_pct": null,
+    "education": {
+      "小学": 10.6,
+      "初中": 19.9,
+      "高中": 12.1,
+      "大专": 8.2,
+      "本科": 45.6,
+      "硕士": 2.7,
+      "博士": 0.9
+    },
+    "has_children_pct": null,
+    "no_children_pct": null
+  },
+  "scraped_at": "2026-08-01T15:25:26.112Z",
+  "nearby_restaurants": [],
+  "nearby_malls": [],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 169.0,
+      "within_1yr_pct": 17.8,
+      "1_3yr_pct": 30.8,
+      "over_3yr_pct": 51.5
+    },
+    {
+      "type": "购物",
+      "count": 128.0,
+      "within_1yr_pct": 15.6,
+      "1_3yr_pct": 22.7,
+      "over_3yr_pct": 61.7
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 26.0,
+      "within_1yr_pct": 23.1,
+      "1_3yr_pct": 42.3,
+      "over_3yr_pct": 34.6
+    },
+    {
+      "type": "教育培训",
+      "count": 35.0,
+      "within_1yr_pct": 14.3,
+      "1_3yr_pct": 40.0,
+      "over_3yr_pct": 45.7
+    },
+    {
+      "type": "酒店住宿",
+      "count": 3.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 66.7
+    },
+    {
+      "type": "生活服务",
+      "count": 92.0,
+      "within_1yr_pct": 16.3,
+      "1_3yr_pct": 27.2,
+      "over_3yr_pct": 56.5
+    },
+    {
+      "type": "运动健身",
+      "count": 21.0,
+      "within_1yr_pct": 14.3,
+      "1_3yr_pct": 47.6,
+      "over_3yr_pct": 38.1
+    },
+    {
+      "type": "车辆服务",
+      "count": 18.0,
+      "within_1yr_pct": 16.7,
+      "1_3yr_pct": 44.4,
+      "over_3yr_pct": 38.9
+    }
+  ]
+}

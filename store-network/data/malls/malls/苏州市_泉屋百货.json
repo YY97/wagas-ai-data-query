@@ -1,0 +1,439 @@
+{
+  "name": "泉屋百货",
+  "city": "苏州市",
+  "address": "江苏省苏州市虎丘区江狮山街道美罗百货(新区店)",
+  "lat": 31.281846,
+  "lng": 120.549569,
+  "overview": {
+    "score": 87.2,
+    "score_rank": "市内前30%",
+    "population_score": 86.3,
+    "area_score": 73.6,
+    "consumption_score": 83.2,
+    "industry_score": 87.3,
+    "annual_sales": "美罗新区店是美罗百货的连锁店，拥有2000余地下停车位，汇集了包括GUCCI、Hermes、Bvlgari、Ferragamo、FENDI、Loewe、Emporio Armani、Armani Collezioni、MAXMARA等28个国际一线品牌以及500多个国内著名品牌",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 12.6,
+    "open_date": "2012-01-05",
+    "operator": "苏州美罗百货有限公司",
+    "brand": "",
+    "type": "购物型",
+    "floors": "B1-L6"
+  },
+  "traffic": {
+    "annual_daily": 1.05,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第117",
+    "jun_total": 51.9,
+    "jun_total_rank": "市内商场第108名",
+    "jun_daily_avg": 1.7,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第108名",
+    "weekday_avg": 1.6,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第104名",
+    "holiday_avg": 2.0,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第111名"
+  },
+  "population": {
+    "residential": {
+      "500m": 1.0,
+      "1_5km": 7.9,
+      "3km": 36.4
+    },
+    "office": {
+      "500m": 7700.0,
+      "1_5km": 5.4,
+      "3km": 22.3
+    },
+    "permanent": {
+      "500m": 1.1,
+      "1_5km": 8.6,
+      "3km": 34.5
+    }
+  },
+  "business": {
+    "competitors": 5.0,
+    "food": 99.0,
+    "shopping": 165.0,
+    "leisure": 8.0,
+    "education": 14.0,
+    "hotel": 4.0,
+    "services": 74.0,
+    "fitness": 9.0,
+    "auto": 8.0,
+    "total_stores": 100.0,
+    "old_store_3yr_pct": 67.0
+  },
+  "nearby_poi": {
+    "business": 5.0,
+    "community": 241.0,
+    "office": 22.0,
+    "school": 24.0,
+    "hospital": 34.0,
+    "transport": 9.0,
+    "scenic": 90.0
+  },
+  "demographics": {
+    "male_pct": 44.9,
+    "female_pct": null,
+    "education": {
+      "小学": 9.8,
+      "初中": 19.5,
+      "高中": 14.3,
+      "大专": 10.6,
+      "本科": 41.6,
+      "硕士": 3.5,
+      "博士": 0.7
+    },
+    "has_children_pct": 65.0,
+    "no_children_pct": 35.0
+  },
+  "scraped_at": "2026-08-02T10:43:00.842Z",
+  "nearby_restaurants": [
+    {
+      "brand": "陶玉梅旗袍新中式生活馆(美罗新区店)",
+      "address": "长江路211号美罗MATRO新区店F2层",
+      "distance": "8m"
+    },
+    {
+      "brand": "Snow Peak Cafe(新区美罗店)",
+      "address": "长江路211号美罗百货新区店1F",
+      "distance": "9m"
+    },
+    {
+      "brand": "米村拌饭(虎丘美罗商城店)",
+      "address": "玉山路美罗商场B1层B020号",
+      "distance": "25m"
+    },
+    {
+      "brand": "潮汕酱记鲜牛肉火锅(新区美罗店)",
+      "address": "美罗百货新区店4层(玉山路地铁站2号口步行100米)",
+      "distance": "26m"
+    },
+    {
+      "brand": "STITCH COFFEE(美罗百货新区店)",
+      "address": "狮山街道长江路211号美罗百货1楼",
+      "distance": "27m"
+    },
+    {
+      "brand": "皖香览约·徽菜(新区美罗店)",
+      "address": "长江路211号美罗MATRO新区店F4层",
+      "distance": "33m"
+    },
+    {
+      "brand": "八百里秦味(新区美罗店)",
+      "address": "长江路211号美罗MATRO新区店B1层",
+      "distance": "41m"
+    },
+    {
+      "brand": "金海华·小爱·老广餐厅(美罗百货店)",
+      "address": "苏州高新区长江路211号美罗百货4楼",
+      "distance": "43m"
+    },
+    {
+      "brand": "乡村基·川味现炒(美罗百货店)",
+      "address": "长江路213号1层(玉山路地铁站1号口步行60米)",
+      "distance": "49m"
+    },
+    {
+      "brand": "1点点(新区美罗MATRO店)",
+      "address": "长江路211号美罗MATRO新区店B1层",
+      "distance": "51m"
+    },
+    {
+      "brand": "陶玉梅旗袍新中式生活馆(美罗新区店)",
+      "address": "长江路211号美罗MATRO新区店F2层",
+      "distance": "8m"
+    },
+    {
+      "brand": "Snow Peak Cafe(新区美罗店)",
+      "address": "长江路211号美罗百货新区店1F",
+      "distance": "9m"
+    },
+    {
+      "brand": "米村拌饭(虎丘美罗商城店)",
+      "address": "玉山路美罗商场B1层B020号",
+      "distance": "25m"
+    },
+    {
+      "brand": "潮汕酱记鲜牛肉火锅(新区美罗店)",
+      "address": "美罗百货新区店4层(玉山路地铁站2号口步行100米)",
+      "distance": "26m"
+    },
+    {
+      "brand": "STITCH COFFEE(美罗百货新区店)",
+      "address": "狮山街道长江路211号美罗百货1楼",
+      "distance": "27m"
+    },
+    {
+      "brand": "皖香览约·徽菜(新区美罗店)",
+      "address": "长江路211号美罗MATRO新区店F4层",
+      "distance": "33m"
+    },
+    {
+      "brand": "八百里秦味(新区美罗店)",
+      "address": "长江路211号美罗MATRO新区店B1层",
+      "distance": "41m"
+    },
+    {
+      "brand": "金海华·小爱·老广餐厅(美罗百货店)",
+      "address": "苏州高新区长江路211号美罗百货4楼",
+      "distance": "43m"
+    },
+    {
+      "brand": "乡村基·川味现炒(美罗百货店)",
+      "address": "长江路213号1层(玉山路地铁站1号口步行60米)",
+      "distance": "49m"
+    },
+    {
+      "brand": "1点点(新区美罗MATRO店)",
+      "address": "长江路211号美罗MATRO新区店B1层",
+      "distance": "51m"
+    },
+    {
+      "brand": "陶玉梅旗袍新中式生活馆(美罗新区店)",
+      "address": "长江路211号美罗MATRO新区店F2层",
+      "distance": "8m"
+    },
+    {
+      "brand": "Snow Peak Cafe(新区美罗店)",
+      "address": "长江路211号美罗百货新区店1F",
+      "distance": "9m"
+    },
+    {
+      "brand": "米村拌饭(虎丘美罗商城店)",
+      "address": "玉山路美罗商场B1层B020号",
+      "distance": "25m"
+    },
+    {
+      "brand": "潮汕酱记鲜牛肉火锅(新区美罗店)",
+      "address": "美罗百货新区店4层(玉山路地铁站2号口步行100米)",
+      "distance": "26m"
+    },
+    {
+      "brand": "STITCH COFFEE(美罗百货新区店)",
+      "address": "狮山街道长江路211号美罗百货1楼",
+      "distance": "27m"
+    },
+    {
+      "brand": "皖香览约·徽菜(新区美罗店)",
+      "address": "长江路211号美罗MATRO新区店F4层",
+      "distance": "33m"
+    },
+    {
+      "brand": "八百里秦味(新区美罗店)",
+      "address": "长江路211号美罗MATRO新区店B1层",
+      "distance": "41m"
+    },
+    {
+      "brand": "金海华·小爱·老广餐厅(美罗百货店)",
+      "address": "苏州高新区长江路211号美罗百货4楼",
+      "distance": "43m"
+    },
+    {
+      "brand": "乡村基·川味现炒(美罗百货店)",
+      "address": "长江路213号1层(玉山路地铁站1号口步行60米)",
+      "distance": "49m"
+    },
+    {
+      "brand": "1点点(新区美罗MATRO店)",
+      "address": "长江路211号美罗MATRO新区店B1层",
+      "distance": "51m"
+    },
+    {
+      "brand": "陶玉梅旗袍新中式生活馆(美罗新区店)",
+      "address": "长江路211号美罗MATRO新区店F2层",
+      "distance": "8m"
+    },
+    {
+      "brand": "Snow Peak Cafe(新区美罗店)",
+      "address": "长江路211号美罗百货新区店1F",
+      "distance": "9m"
+    },
+    {
+      "brand": "米村拌饭(虎丘美罗商城店)",
+      "address": "玉山路美罗商场B1层B020号",
+      "distance": "25m"
+    },
+    {
+      "brand": "潮汕酱记鲜牛肉火锅(新区美罗店)",
+      "address": "美罗百货新区店4层(玉山路地铁站2号口步行100米)",
+      "distance": "26m"
+    },
+    {
+      "brand": "STITCH COFFEE(美罗百货新区店)",
+      "address": "狮山街道长江路211号美罗百货1楼",
+      "distance": "27m"
+    },
+    {
+      "brand": "皖香览约·徽菜(新区美罗店)",
+      "address": "长江路211号美罗MATRO新区店F4层",
+      "distance": "33m"
+    },
+    {
+      "brand": "八百里秦味(新区美罗店)",
+      "address": "长江路211号美罗MATRO新区店B1层",
+      "distance": "41m"
+    },
+    {
+      "brand": "金海华·小爱·老广餐厅(美罗百货店)",
+      "address": "苏州高新区长江路211号美罗百货4楼",
+      "distance": "43m"
+    },
+    {
+      "brand": "乡村基·川味现炒(美罗百货店)",
+      "address": "长江路213号1层(玉山路地铁站1号口步行60米)",
+      "distance": "49m"
+    },
+    {
+      "brand": "1点点(新区美罗MATRO店)",
+      "address": "长江路211号美罗MATRO新区店B1层",
+      "distance": "51m"
+    },
+    {
+      "brand": "陶玉梅旗袍新中式生活馆(美罗新区店)",
+      "address": "长江路211号美罗MATRO新区店F2层",
+      "distance": "8m"
+    },
+    {
+      "brand": "Snow Peak Cafe(新区美罗店)",
+      "address": "长江路211号美罗百货新区店1F",
+      "distance": "9m"
+    },
+    {
+      "brand": "米村拌饭(虎丘美罗商城店)",
+      "address": "玉山路美罗商场B1层B020号",
+      "distance": "25m"
+    },
+    {
+      "brand": "潮汕酱记鲜牛肉火锅(新区美罗店)",
+      "address": "美罗百货新区店4层(玉山路地铁站2号口步行100米)",
+      "distance": "26m"
+    },
+    {
+      "brand": "STITCH COFFEE(美罗百货新区店)",
+      "address": "狮山街道长江路211号美罗百货1楼",
+      "distance": "27m"
+    },
+    {
+      "brand": "皖香览约·徽菜(新区美罗店)",
+      "address": "长江路211号美罗MATRO新区店F4层",
+      "distance": "33m"
+    },
+    {
+      "brand": "八百里秦味(新区美罗店)",
+      "address": "长江路211号美罗MATRO新区店B1层",
+      "distance": "41m"
+    },
+    {
+      "brand": "金海华·小爱·老广餐厅(美罗百货店)",
+      "address": "苏州高新区长江路211号美罗百货4楼",
+      "distance": "43m"
+    },
+    {
+      "brand": "乡村基·川味现炒(美罗百货店)",
+      "address": "长江路213号1层(玉山路地铁站1号口步行60米)",
+      "distance": "49m"
+    },
+    {
+      "brand": "1点点(新区美罗MATRO店)",
+      "address": "长江路211号美罗MATRO新区店B1层",
+      "distance": "51m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "苏州泉屋百货",
+      "open_date": "2011-09-01",
+      "area": "3万㎡",
+      "jun_daily_avg": "1.7万人次",
+      "weekday_avg": "1.6万人次",
+      "holiday_avg": "2.1万人次"
+    },
+    {
+      "name": "苏州金鹰国际购物中心(高新店)",
+      "open_date": "2017-01-18",
+      "area": "17万㎡",
+      "jun_daily_avg": "4万人次",
+      "weekday_avg": "3.4万人次",
+      "holiday_avg": "5.5万人次"
+    },
+    {
+      "name": "苏州吴宫丽都",
+      "open_date": "2006-01-01",
+      "area": "6.8万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "苏州狮山天街生活广场",
+      "open_date": "2017-09-28",
+      "area": "27万㎡",
+      "jun_daily_avg": "1.5万人次",
+      "weekday_avg": "1.4万人次",
+      "holiday_avg": "1.7万人次"
+    },
+    {
+      "name": "苏州龙湖狮山天街",
+      "open_date": "2017-09-28",
+      "area": "27万㎡",
+      "jun_daily_avg": "10.1万人次",
+      "weekday_avg": "8.8万人次",
+      "holiday_avg": "13.6万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 23.0,
+      "within_1yr_pct": 26.1,
+      "1_3yr_pct": 30.4,
+      "over_3yr_pct": 43.5
+    },
+    {
+      "type": "购物",
+      "count": 61.0,
+      "within_1yr_pct": 6.6,
+      "1_3yr_pct": 13.1,
+      "over_3yr_pct": 80.3
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 3.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 66.7,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "教育培训",
+      "count": 2.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "生活服务",
+      "count": 9.0,
+      "within_1yr_pct": 22.2,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 77.8
+    },
+    {
+      "type": "运动健身",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    }
+  ]
+}

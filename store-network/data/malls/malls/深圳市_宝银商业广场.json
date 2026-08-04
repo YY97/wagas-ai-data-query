@@ -1,0 +1,472 @@
+{
+  "name": "宝银商业广场",
+  "city": "深圳市",
+  "address": "广东省深圳市龙岗区美食街2-2号",
+  "lat": 22.620483,
+  "lng": 114.0634,
+  "overview": {
+    "score": 80.6,
+    "score_rank": "市内前30%",
+    "population_score": 100.0,
+    "area_score": 92.2,
+    "consumption_score": 68.7,
+    "industry_score": 80.5,
+    "annual_sales": "宝银商业广场位于坂田社区五和大道旁，附近有五和地铁站，还有阳光湾畔、海达和成购物广场等购物中心，这里城中村很多，旁边是条商业街，每天有大量的人流经过，很多人都来这里消费玩乐，适合做一些行用卡、电话卡、网络推广。",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 6.0,
+    "open_date": "2019-10-01",
+    "operator": "深圳宝银商业管理有限公司",
+    "brand": "",
+    "type": "美食型",
+    "floors": "B1-L5"
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "-",
+    "annual_daily_rank": "",
+    "jun_total": null,
+    "jun_total_rank": "",
+    "jun_daily_avg": null,
+    "jun_daily_unit": "",
+    "jun_daily_rank": "",
+    "weekday_avg": null,
+    "weekday_unit": "",
+    "weekday_rank": "",
+    "holiday_avg": null,
+    "holiday_unit": "",
+    "holiday_rank": ""
+  },
+  "population": {
+    "residential": {
+      "500m": 8.2,
+      "1_5km": 36.2,
+      "3km": 117.0
+    },
+    "office": {
+      "500m": 2.2,
+      "1_5km": 15.0,
+      "3km": 54.6
+    },
+    "permanent": {
+      "500m": 6.1,
+      "1_5km": 29.6,
+      "3km": 94.2
+    }
+  },
+  "business": {
+    "competitors": 1.0,
+    "food": 677.0,
+    "shopping": 400.0,
+    "leisure": 49.0,
+    "education": 21.0,
+    "hotel": 152.0,
+    "services": 360.0,
+    "fitness": 35.0,
+    "auto": 44.0,
+    "total_stores": 33.0,
+    "old_store_3yr_pct": 64.0
+  },
+  "nearby_poi": {
+    "business": 10.0,
+    "community": 341.0,
+    "office": 114.0,
+    "school": 40.0,
+    "hospital": 104.0,
+    "transport": 7.0,
+    "scenic": 105.0
+  },
+  "demographics": {
+    "male_pct": 49.8,
+    "female_pct": null,
+    "education": {
+      "小学": 8.3,
+      "初中": 16.0,
+      "高中": 11.3,
+      "大专": 13.9,
+      "本科": 46.7,
+      "硕士": 3.3,
+      "博士": 0.5
+    },
+    "has_children_pct": 62.8,
+    "no_children_pct": 37.2
+  },
+  "scraped_at": "2026-08-02T09:58:17.540Z",
+  "nearby_restaurants": [
+    {
+      "brand": "海鮨瑧·三文鱼刺身馆",
+      "address": "新安路1号122",
+      "distance": "27m"
+    },
+    {
+      "brand": "淮南牛肉汤(光雅园店)",
+      "address": "坂田街道五和社区光雅园新安路1号宝银商业广场124号",
+      "distance": "28m"
+    },
+    {
+      "brand": "1号糖水店(宝银商业广场店)",
+      "address": "新安路1号(光雅园地铁站B口步行490米)",
+      "distance": "39m"
+    },
+    {
+      "brand": "时食在在",
+      "address": "宝银商业广场(光雅园地铁站B口步行490米)",
+      "distance": "43m"
+    },
+    {
+      "brand": "三胖子大油边",
+      "address": "雅园街市东1门旁",
+      "distance": "44m"
+    },
+    {
+      "brand": "金禧糖水铺",
+      "address": "坂田街道五和社区光雅园宝银商业广场(五和社区1号8)",
+      "distance": "45m"
+    },
+    {
+      "brand": "穆记脆皮手撕鸡(光雅园店)",
+      "address": "坂田街道五和社区新安路1号D003",
+      "distance": "48m"
+    },
+    {
+      "brand": "愿者上钩(五和店)(暂停营业)",
+      "address": "新安路与美食街交叉口西南40米",
+      "distance": "50m"
+    },
+    {
+      "brand": "云髻山肠粉(五和店)",
+      "address": "雅园街市东2门北70米(光雅园地铁站B口步行470米)",
+      "distance": "52m"
+    },
+    {
+      "brand": "蜜雪冰城(光雅园步行街店)",
+      "address": "新安路1号北楼宝银商业广场F1",
+      "distance": "52m"
+    },
+    {
+      "brand": "海鮨瑧·三文鱼刺身馆",
+      "address": "新安路1号122",
+      "distance": "27m"
+    },
+    {
+      "brand": "淮南牛肉汤(光雅园店)",
+      "address": "坂田街道五和社区光雅园新安路1号宝银商业广场124号",
+      "distance": "28m"
+    },
+    {
+      "brand": "1号糖水店(宝银商业广场店)",
+      "address": "新安路1号(光雅园地铁站B口步行490米)",
+      "distance": "39m"
+    },
+    {
+      "brand": "时食在在",
+      "address": "宝银商业广场(光雅园地铁站B口步行490米)",
+      "distance": "43m"
+    },
+    {
+      "brand": "三胖子大油边",
+      "address": "雅园街市东1门旁",
+      "distance": "44m"
+    },
+    {
+      "brand": "金禧糖水铺",
+      "address": "坂田街道五和社区光雅园宝银商业广场(五和社区1号8)",
+      "distance": "45m"
+    },
+    {
+      "brand": "穆记脆皮手撕鸡(光雅园店)",
+      "address": "坂田街道五和社区新安路1号D003",
+      "distance": "48m"
+    },
+    {
+      "brand": "愿者上钩(五和店)(暂停营业)",
+      "address": "新安路与美食街交叉口西南40米",
+      "distance": "50m"
+    },
+    {
+      "brand": "云髻山肠粉(五和店)",
+      "address": "雅园街市东2门北70米(光雅园地铁站B口步行470米)",
+      "distance": "52m"
+    },
+    {
+      "brand": "蜜雪冰城(光雅园步行街店)",
+      "address": "新安路1号北楼宝银商业广场F1",
+      "distance": "52m"
+    },
+    {
+      "brand": "海鮨瑧·三文鱼刺身馆",
+      "address": "新安路1号122",
+      "distance": "27m"
+    },
+    {
+      "brand": "淮南牛肉汤(光雅园店)",
+      "address": "坂田街道五和社区光雅园新安路1号宝银商业广场124号",
+      "distance": "28m"
+    },
+    {
+      "brand": "1号糖水店(宝银商业广场店)",
+      "address": "新安路1号(光雅园地铁站B口步行490米)",
+      "distance": "39m"
+    },
+    {
+      "brand": "时食在在",
+      "address": "宝银商业广场(光雅园地铁站B口步行490米)",
+      "distance": "43m"
+    },
+    {
+      "brand": "三胖子大油边",
+      "address": "雅园街市东1门旁",
+      "distance": "44m"
+    },
+    {
+      "brand": "金禧糖水铺",
+      "address": "坂田街道五和社区光雅园宝银商业广场(五和社区1号8)",
+      "distance": "45m"
+    },
+    {
+      "brand": "穆记脆皮手撕鸡(光雅园店)",
+      "address": "坂田街道五和社区新安路1号D003",
+      "distance": "48m"
+    },
+    {
+      "brand": "愿者上钩(五和店)(暂停营业)",
+      "address": "新安路与美食街交叉口西南40米",
+      "distance": "50m"
+    },
+    {
+      "brand": "云髻山肠粉(五和店)",
+      "address": "雅园街市东2门北70米(光雅园地铁站B口步行470米)",
+      "distance": "52m"
+    },
+    {
+      "brand": "蜜雪冰城(光雅园步行街店)",
+      "address": "新安路1号北楼宝银商业广场F1",
+      "distance": "52m"
+    },
+    {
+      "brand": "海鮨瑧·三文鱼刺身馆",
+      "address": "新安路1号122",
+      "distance": "27m"
+    },
+    {
+      "brand": "淮南牛肉汤(光雅园店)",
+      "address": "坂田街道五和社区光雅园新安路1号宝银商业广场124号",
+      "distance": "28m"
+    },
+    {
+      "brand": "1号糖水店(宝银商业广场店)",
+      "address": "新安路1号(光雅园地铁站B口步行490米)",
+      "distance": "39m"
+    },
+    {
+      "brand": "时食在在",
+      "address": "宝银商业广场(光雅园地铁站B口步行490米)",
+      "distance": "43m"
+    },
+    {
+      "brand": "三胖子大油边",
+      "address": "雅园街市东1门旁",
+      "distance": "44m"
+    },
+    {
+      "brand": "金禧糖水铺",
+      "address": "坂田街道五和社区光雅园宝银商业广场(五和社区1号8)",
+      "distance": "45m"
+    },
+    {
+      "brand": "穆记脆皮手撕鸡(光雅园店)",
+      "address": "坂田街道五和社区新安路1号D003",
+      "distance": "48m"
+    },
+    {
+      "brand": "愿者上钩(五和店)(暂停营业)",
+      "address": "新安路与美食街交叉口西南40米",
+      "distance": "50m"
+    },
+    {
+      "brand": "云髻山肠粉(五和店)",
+      "address": "雅园街市东2门北70米(光雅园地铁站B口步行470米)",
+      "distance": "52m"
+    },
+    {
+      "brand": "蜜雪冰城(光雅园步行街店)",
+      "address": "新安路1号北楼宝银商业广场F1",
+      "distance": "52m"
+    },
+    {
+      "brand": "海鮨瑧·三文鱼刺身馆",
+      "address": "新安路1号122",
+      "distance": "27m"
+    },
+    {
+      "brand": "淮南牛肉汤(光雅园店)",
+      "address": "坂田街道五和社区光雅园新安路1号宝银商业广场124号",
+      "distance": "28m"
+    },
+    {
+      "brand": "1号糖水店(宝银商业广场店)",
+      "address": "新安路1号(光雅园地铁站B口步行490米)",
+      "distance": "39m"
+    },
+    {
+      "brand": "时食在在",
+      "address": "宝银商业广场(光雅园地铁站B口步行490米)",
+      "distance": "43m"
+    },
+    {
+      "brand": "三胖子大油边",
+      "address": "雅园街市东1门旁",
+      "distance": "44m"
+    },
+    {
+      "brand": "金禧糖水铺",
+      "address": "坂田街道五和社区光雅园宝银商业广场(五和社区1号8)",
+      "distance": "45m"
+    },
+    {
+      "brand": "穆记脆皮手撕鸡(光雅园店)",
+      "address": "坂田街道五和社区新安路1号D003",
+      "distance": "48m"
+    },
+    {
+      "brand": "愿者上钩(五和店)(暂停营业)",
+      "address": "新安路与美食街交叉口西南40米",
+      "distance": "50m"
+    },
+    {
+      "brand": "云髻山肠粉(五和店)",
+      "address": "雅园街市东2门北70米(光雅园地铁站B口步行470米)",
+      "distance": "52m"
+    },
+    {
+      "brand": "蜜雪冰城(光雅园步行街店)",
+      "address": "新安路1号北楼宝银商业广场F1",
+      "distance": "52m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "深圳五和伍城市广场",
+      "open_date": "2023-11-08",
+      "area": "2.3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "深圳海达和成购物广场",
+      "open_date": "2016-04-25",
+      "area": "2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "深圳8号仓奥特莱斯",
+      "open_date": "2012-01-01",
+      "area": "8万㎡",
+      "jun_daily_avg": "1.6万人次",
+      "weekday_avg": "1.3万人次",
+      "holiday_avg": "2.4万人次"
+    },
+    {
+      "name": "深圳坂田湾畔Mall",
+      "open_date": "2021-01-23",
+      "area": "8万㎡",
+      "jun_daily_avg": "1.9万人次",
+      "weekday_avg": "1.7万人次",
+      "holiday_avg": "2.4万人次"
+    },
+    {
+      "name": "深圳万科里购物中心",
+      "open_date": "2017-09-27",
+      "area": "4.5万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "深圳万科万致天地",
+      "open_date": "2023-09-28",
+      "area": "15万㎡",
+      "jun_daily_avg": "10万人次",
+      "weekday_avg": "8.8万人次",
+      "holiday_avg": "13.3万人次"
+    },
+    {
+      "name": "深圳城立方商业中心",
+      "open_date": "-",
+      "area": "6万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "深圳max city 百佳华购物中心(坂田店)",
+      "open_date": "2016-12-24",
+      "area": "5万㎡",
+      "jun_daily_avg": "3.6万人次",
+      "weekday_avg": "3.1万人次",
+      "holiday_avg": "5万人次"
+    },
+    {
+      "name": "深圳坂田商业广场",
+      "open_date": "2024-09-26",
+      "area": "5万㎡",
+      "jun_daily_avg": "1.6万人次",
+      "weekday_avg": "1.4万人次",
+      "holiday_avg": "2万人次"
+    },
+    {
+      "name": "深圳佳华领汇广场",
+      "open_date": "2015-07-21",
+      "area": "8万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 12.0,
+      "within_1yr_pct": 16.7,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "购物",
+      "count": 5.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 20.0,
+      "over_3yr_pct": 80.0
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 7.0,
+      "within_1yr_pct": 14.3,
+      "1_3yr_pct": 14.3,
+      "over_3yr_pct": 71.4
+    },
+    {
+      "type": "教育培训",
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    },
+    {
+      "type": "生活服务",
+      "count": 4.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 75.0
+    },
+    {
+      "type": "运动健身",
+      "count": 3.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 33.3
+    }
+  ]
+}

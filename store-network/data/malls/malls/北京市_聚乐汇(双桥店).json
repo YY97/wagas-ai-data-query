@@ -1,0 +1,194 @@
+{
+  "name": "聚乐汇(双桥店)",
+  "city": "北京市",
+  "address": "上海市嘉定区嘉定镇街道第五元素撞球俱乐部嘉定商城(清河路)",
+  "lat": null,
+  "lng": null,
+  "overview": {
+    "score": 80.8,
+    "score_rank": "市内前30%",
+    "population_score": 89.4,
+    "area_score": 92.4,
+    "consumption_score": 62.7,
+    "industry_score": 80.7,
+    "annual_sales": "嘉定商城是一个充满现代气息，又蕴含古典庄重韵味的跨世纪大型商业中心，占地13亩，主楼一至四层是商场，五至八层为办公楼；娱乐楼底层为室内恒温游泳池，二层为浴室，三至五层为桑纳浴室、芬兰浴室、健身房、舞厅、咖啡厅等。辅楼一层为停车场，三至四层为客房、餐厅和会议室",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 1.2,
+    "open_date": "1998-01-01",
+    "operator": "上海新嘉商业投资（集团）有限公司",
+    "brand": "",
+    "type": "购物型",
+    "floors": "L1-L8"
+  },
+  "traffic": {
+    "annual_daily": 5014.0,
+    "annual_daily_unit": "人次",
+    "annual_daily_rank": "市内第359",
+    "jun_total": 14.4,
+    "jun_total_rank": "市内商场第431名",
+    "jun_daily_avg": 4797.0,
+    "jun_daily_unit": "人次",
+    "jun_daily_rank": "市内商场第431名",
+    "weekday_avg": 4036.0,
+    "weekday_unit": "人次",
+    "weekday_rank": "市内商场第453名",
+    "holiday_avg": 6891.0,
+    "holiday_unit": "人次",
+    "holiday_rank": "市内商场第390名"
+  },
+  "population": {
+    "residential": {
+      "500m": 2.3,
+      "1_5km": 15.5,
+      "3km": 47.0
+    },
+    "office": {
+      "500m": 1.8,
+      "1_5km": 8.6,
+      "3km": 20.7
+    },
+    "permanent": {
+      "500m": 2.9,
+      "1_5km": 16.0,
+      "3km": 45.1
+    }
+  },
+  "business": {
+    "competitors": 3.0,
+    "food": 301.0,
+    "shopping": 421.0,
+    "leisure": 25.0,
+    "education": 35.0,
+    "hotel": 29.0,
+    "services": 248.0,
+    "fitness": 13.0,
+    "auto": 13.0,
+    "total_stores": 31.0,
+    "old_store_3yr_pct": 48.0
+  },
+  "nearby_poi": {
+    "business": 5.0,
+    "community": 249.0,
+    "office": 22.0,
+    "school": 33.0,
+    "hospital": 37.0,
+    "transport": 10.0,
+    "scenic": 123.0
+  },
+  "demographics": {
+    "male_pct": 45.5,
+    "female_pct": null,
+    "education": {
+      "小学": 10.3,
+      "初中": 20.4,
+      "高中": 13.5,
+      "大专": 7.8,
+      "本科": 43.5,
+      "硕士": 3.4,
+      "博士": 1.1
+    },
+    "has_children_pct": 61.2,
+    "no_children_pct": 38.8
+  },
+  "scraped_at": "2026-08-01T13:31:03.030Z",
+  "nearby_restaurants": [
+    {
+      "brand": "老家定本帮融合菜茶餐厅",
+      "address": "嘉定梅园路与和硕路交叉口北100米和硕园停车场内",
+      "distance": "499m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海罗宾森购物广场",
+      "open_date": "2007-01-01",
+      "area": "6万㎡",
+      "jun_daily_avg": "1.7万人次",
+      "weekday_avg": "1.6万人次",
+      "holiday_avg": "2.2万人次"
+    },
+    {
+      "name": "上海疁城新天地",
+      "open_date": "-",
+      "area": "-",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海嘉定日月光中心",
+      "open_date": "2017-07-01",
+      "area": "3.8万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海信业购物中心",
+      "open_date": "2019-09-14",
+      "area": "6.5万㎡",
+      "jun_daily_avg": "2.9万人次",
+      "weekday_avg": "2.6万人次",
+      "holiday_avg": "3.8万人次"
+    },
+    {
+      "name": "上海花都荟购物广场",
+      "open_date": "2019-09-26",
+      "area": "5万㎡",
+      "jun_daily_avg": "1.1万人次",
+      "weekday_avg": "1.1万人次",
+      "holiday_avg": "1.2万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 6.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "购物",
+      "count": 9.0,
+      "within_1yr_pct": 22.2,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 44.4
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 5.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 20.0,
+      "over_3yr_pct": 60.0
+    },
+    {
+      "type": "教育培训",
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "生活服务",
+      "count": 5.0,
+      "within_1yr_pct": 40.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 60.0
+    },
+    {
+      "type": "运动健身",
+      "count": 3.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 66.7
+    },
+    {
+      "type": "车辆服务",
+      "count": 1.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
+    }
+  ]
+}

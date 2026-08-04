@@ -1,0 +1,422 @@
+{
+  "name": "汇琴购物中心",
+  "city": "北京市",
+  "address": "北京市丰台区石榴庄街道榴乡路86号",
+  "lat": 39.843585,
+  "lng": 116.423324,
+  "overview": {
+    "score": 93.6,
+    "score_rank": "市内前30%",
+    "population_score": 94.8,
+    "area_score": 90.9,
+    "consumption_score": 76.4,
+    "industry_score": 93.6,
+    "annual_sales": "汇琴购物中心位于北京市丰台区石榴庄街道榴乡路86号院，是一家集亲子、餐饮、办公、娱乐、休闲于一体的全场景空间生活城市综合体。购物中心设有两层地下停车场，建筑外形流畅，楼体上设置了3D裸眼大屏。依托1.5万平方米户外活动广场，将这里打造成公园式商业空间。商场引入大型室内儿童游乐场、3000平方米便民精品超市以及巨幕影院等，消费者可体验4K杜比全景声影厅。美食方面，“86号胡同美食街”24小时营业，100余家铺位汇聚天南地北各类美食",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 6.2,
+    "open_date": "2024-09-22",
+    "operator": "汇琴商业管理（北京）有限公司",
+    "brand": "",
+    "type": "美食型",
+    "floors": "B1-L4"
+  },
+  "traffic": {
+    "annual_daily": 1.14,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第194",
+    "jun_total": 165.6,
+    "jun_total_rank": "市内商场第38名",
+    "jun_daily_avg": 5.5,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第38名",
+    "weekday_avg": 5.3,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第32名",
+    "holiday_avg": 6.2,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第50名"
+  },
+  "population": {
+    "residential": {
+      "500m": 2.9,
+      "1_5km": 21.3,
+      "3km": 67.8
+    },
+    "office": {
+      "500m": 1.8,
+      "1_5km": 7.8,
+      "3km": 28.9
+    },
+    "permanent": {
+      "500m": 3.3,
+      "1_5km": 20.2,
+      "3km": 66.0
+    }
+  },
+  "business": {
+    "competitors": 5.0,
+    "food": 276.0,
+    "shopping": 157.0,
+    "leisure": 28.0,
+    "education": 15.0,
+    "hotel": 81.0,
+    "services": 153.0,
+    "fitness": 28.0,
+    "auto": 22.0,
+    "total_stores": 158.0,
+    "old_store_3yr_pct": 2.0
+  },
+  "nearby_poi": {
+    "business": 2.0,
+    "community": 349.0,
+    "office": 27.0,
+    "school": 32.0,
+    "hospital": 55.0,
+    "transport": 6.0,
+    "scenic": 69.0
+  },
+  "demographics": {
+    "male_pct": 47.2,
+    "female_pct": null,
+    "education": {
+      "小学": 10.1,
+      "初中": 16.8,
+      "高中": 10.9,
+      "大专": 7.4,
+      "本科": 47.6,
+      "硕士": 5.8,
+      "博士": 1.4
+    },
+    "has_children_pct": 60.9,
+    "no_children_pct": 39.1
+  },
+  "scraped_at": "2026-08-01T05:16:27.301Z",
+  "nearby_restaurants": [
+    {
+      "brand": "爆脾气生炸鸡架",
+      "address": "榴乡路86号院1号楼-3至15层101内负一层A-112",
+      "distance": "3m"
+    },
+    {
+      "brand": "苏姐爆浆榴莲芝士饼店(汇琴购物中心店)",
+      "address": "石榴庄街道榴乡路汇琴购物中心B1层美食城158号",
+      "distance": "3m"
+    },
+    {
+      "brand": "小嫩牛潮汕牛肉火锅",
+      "address": "南顶路244号汇琴数字中心F4层",
+      "distance": "3m"
+    },
+    {
+      "brand": "ROLLINGBEANS瑞士卷(北京汇琴购物中心店)",
+      "address": "南顶路244号汇琴数字中心F1层",
+      "distance": "3m"
+    },
+    {
+      "brand": "和府捞面(北京汇琴购物中心店)",
+      "address": "石榴庄街道榴乡路86号汇琴购物中心3层(近中庭区域)",
+      "distance": "3m"
+    },
+    {
+      "brand": "野人先生现做冰淇淋(北京汇琴购物中心店)",
+      "address": "北京城区汇琴购物中心",
+      "distance": "3m"
+    },
+    {
+      "brand": "阿芮烤鸡爪(汇琴购物中心)",
+      "address": "北京城区南顶路244号汇琴数字中心B1层",
+      "distance": "3m"
+    },
+    {
+      "brand": "犟骨头超级排骨饭(北京丰台汇琴购物中心店)",
+      "address": "北京城区汇琴购物中心店负一层",
+      "distance": "3m"
+    },
+    {
+      "brand": "海底捞火锅(汇琴购物中心店)",
+      "address": "北京城区榴乡路汇琴购物中心86号院1号楼三层A309",
+      "distance": "18m"
+    },
+    {
+      "brand": "有璟阁港式餐厅(汇琴店)",
+      "address": "榴乡路86号院1号楼汇琴购物中心三层314",
+      "distance": "20m"
+    },
+    {
+      "brand": "爆脾气生炸鸡架",
+      "address": "榴乡路86号院1号楼-3至15层101内负一层A-112",
+      "distance": "3m"
+    },
+    {
+      "brand": "苏姐爆浆榴莲芝士饼店(汇琴购物中心店)",
+      "address": "石榴庄街道榴乡路汇琴购物中心B1层美食城158号",
+      "distance": "3m"
+    },
+    {
+      "brand": "小嫩牛潮汕牛肉火锅",
+      "address": "南顶路244号汇琴数字中心F4层",
+      "distance": "3m"
+    },
+    {
+      "brand": "ROLLINGBEANS瑞士卷(北京汇琴购物中心店)",
+      "address": "南顶路244号汇琴数字中心F1层",
+      "distance": "3m"
+    },
+    {
+      "brand": "和府捞面(北京汇琴购物中心店)",
+      "address": "石榴庄街道榴乡路86号汇琴购物中心3层(近中庭区域)",
+      "distance": "3m"
+    },
+    {
+      "brand": "野人先生现做冰淇淋(北京汇琴购物中心店)",
+      "address": "北京城区汇琴购物中心",
+      "distance": "3m"
+    },
+    {
+      "brand": "阿芮烤鸡爪(汇琴购物中心)",
+      "address": "北京城区南顶路244号汇琴数字中心B1层",
+      "distance": "3m"
+    },
+    {
+      "brand": "犟骨头超级排骨饭(北京丰台汇琴购物中心店)",
+      "address": "北京城区汇琴购物中心店负一层",
+      "distance": "3m"
+    },
+    {
+      "brand": "海底捞火锅(汇琴购物中心店)",
+      "address": "北京城区榴乡路汇琴购物中心86号院1号楼三层A309",
+      "distance": "18m"
+    },
+    {
+      "brand": "有璟阁港式餐厅(汇琴店)",
+      "address": "榴乡路86号院1号楼汇琴购物中心三层314",
+      "distance": "20m"
+    },
+    {
+      "brand": "爆脾气生炸鸡架",
+      "address": "榴乡路86号院1号楼-3至15层101内负一层A-112",
+      "distance": "3m"
+    },
+    {
+      "brand": "苏姐爆浆榴莲芝士饼店(汇琴购物中心店)",
+      "address": "石榴庄街道榴乡路汇琴购物中心B1层美食城158号",
+      "distance": "3m"
+    },
+    {
+      "brand": "小嫩牛潮汕牛肉火锅",
+      "address": "南顶路244号汇琴数字中心F4层",
+      "distance": "3m"
+    },
+    {
+      "brand": "ROLLINGBEANS瑞士卷(北京汇琴购物中心店)",
+      "address": "南顶路244号汇琴数字中心F1层",
+      "distance": "3m"
+    },
+    {
+      "brand": "和府捞面(北京汇琴购物中心店)",
+      "address": "石榴庄街道榴乡路86号汇琴购物中心3层(近中庭区域)",
+      "distance": "3m"
+    },
+    {
+      "brand": "野人先生现做冰淇淋(北京汇琴购物中心店)",
+      "address": "北京城区汇琴购物中心",
+      "distance": "3m"
+    },
+    {
+      "brand": "阿芮烤鸡爪(汇琴购物中心)",
+      "address": "北京城区南顶路244号汇琴数字中心B1层",
+      "distance": "3m"
+    },
+    {
+      "brand": "犟骨头超级排骨饭(北京丰台汇琴购物中心店)",
+      "address": "北京城区汇琴购物中心店负一层",
+      "distance": "3m"
+    },
+    {
+      "brand": "海底捞火锅(汇琴购物中心店)",
+      "address": "北京城区榴乡路汇琴购物中心86号院1号楼三层A309",
+      "distance": "18m"
+    },
+    {
+      "brand": "有璟阁港式餐厅(汇琴店)",
+      "address": "榴乡路86号院1号楼汇琴购物中心三层314",
+      "distance": "20m"
+    },
+    {
+      "brand": "爆脾气生炸鸡架",
+      "address": "榴乡路86号院1号楼-3至15层101内负一层A-112",
+      "distance": "3m"
+    },
+    {
+      "brand": "苏姐爆浆榴莲芝士饼店(汇琴购物中心店)",
+      "address": "石榴庄街道榴乡路汇琴购物中心B1层美食城158号",
+      "distance": "3m"
+    },
+    {
+      "brand": "小嫩牛潮汕牛肉火锅",
+      "address": "南顶路244号汇琴数字中心F4层",
+      "distance": "3m"
+    },
+    {
+      "brand": "ROLLINGBEANS瑞士卷(北京汇琴购物中心店)",
+      "address": "南顶路244号汇琴数字中心F1层",
+      "distance": "3m"
+    },
+    {
+      "brand": "和府捞面(北京汇琴购物中心店)",
+      "address": "石榴庄街道榴乡路86号汇琴购物中心3层(近中庭区域)",
+      "distance": "3m"
+    },
+    {
+      "brand": "野人先生现做冰淇淋(北京汇琴购物中心店)",
+      "address": "北京城区汇琴购物中心",
+      "distance": "3m"
+    },
+    {
+      "brand": "阿芮烤鸡爪(汇琴购物中心)",
+      "address": "北京城区南顶路244号汇琴数字中心B1层",
+      "distance": "3m"
+    },
+    {
+      "brand": "犟骨头超级排骨饭(北京丰台汇琴购物中心店)",
+      "address": "北京城区汇琴购物中心店负一层",
+      "distance": "3m"
+    },
+    {
+      "brand": "海底捞火锅(汇琴购物中心店)",
+      "address": "北京城区榴乡路汇琴购物中心86号院1号楼三层A309",
+      "distance": "18m"
+    },
+    {
+      "brand": "有璟阁港式餐厅(汇琴店)",
+      "address": "榴乡路86号院1号楼汇琴购物中心三层314",
+      "distance": "20m"
+    },
+    {
+      "brand": "爆脾气生炸鸡架",
+      "address": "榴乡路86号院1号楼-3至15层101内负一层A-112",
+      "distance": "3m"
+    },
+    {
+      "brand": "苏姐爆浆榴莲芝士饼店(汇琴购物中心店)",
+      "address": "石榴庄街道榴乡路汇琴购物中心B1层美食城158号",
+      "distance": "3m"
+    },
+    {
+      "brand": "小嫩牛潮汕牛肉火锅",
+      "address": "南顶路244号汇琴数字中心F4层",
+      "distance": "3m"
+    },
+    {
+      "brand": "ROLLINGBEANS瑞士卷(北京汇琴购物中心店)",
+      "address": "南顶路244号汇琴数字中心F1层",
+      "distance": "3m"
+    },
+    {
+      "brand": "和府捞面(北京汇琴购物中心店)",
+      "address": "石榴庄街道榴乡路86号汇琴购物中心3层(近中庭区域)",
+      "distance": "3m"
+    },
+    {
+      "brand": "野人先生现做冰淇淋(北京汇琴购物中心店)",
+      "address": "北京城区汇琴购物中心",
+      "distance": "3m"
+    },
+    {
+      "brand": "阿芮烤鸡爪(汇琴购物中心)",
+      "address": "北京城区南顶路244号汇琴数字中心B1层",
+      "distance": "3m"
+    },
+    {
+      "brand": "犟骨头超级排骨饭(北京丰台汇琴购物中心店)",
+      "address": "北京城区汇琴购物中心店负一层",
+      "distance": "3m"
+    },
+    {
+      "brand": "海底捞火锅(汇琴购物中心店)",
+      "address": "北京城区榴乡路汇琴购物中心86号院1号楼三层A309",
+      "distance": "18m"
+    },
+    {
+      "brand": "有璟阁港式餐厅(汇琴店)",
+      "address": "榴乡路86号院1号楼汇琴购物中心三层314",
+      "distance": "20m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "北京首开福茂购物中心(宋家庄店)",
+      "open_date": "2015-08-01",
+      "area": "2.5万㎡",
+      "jun_daily_avg": "3.7万人次",
+      "weekday_avg": "3.6万人次",
+      "holiday_avg": "4.1万人次"
+    },
+    {
+      "name": "北京京港城生活广场",
+      "open_date": "2016-12-01",
+      "area": "2.3万㎡",
+      "jun_daily_avg": "1.5万人次",
+      "weekday_avg": "1.4万人次",
+      "holiday_avg": "1.6万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 72.0,
+      "within_1yr_pct": 19.4,
+      "1_3yr_pct": 80.6,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "购物",
+      "count": 30.0,
+      "within_1yr_pct": 30.0,
+      "1_3yr_pct": 70.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 11.0,
+      "within_1yr_pct": 18.2,
+      "1_3yr_pct": 81.8,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "教育培训",
+      "count": 3.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 66.7,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 12.0,
+      "within_1yr_pct": 41.7,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 25.0
+    },
+    {
+      "type": "生活服务",
+      "count": 20.0,
+      "within_1yr_pct": 35.0,
+      "1_3yr_pct": 65.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "运动健身",
+      "count": 6.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 66.7,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 4.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
+    }
+  ]
+}

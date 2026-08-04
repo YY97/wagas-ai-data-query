@@ -1,0 +1,414 @@
+{
+  "name": "五道口购物中心",
+  "city": "北京市",
+  "address": "北京市海淀区成府路28号",
+  "lat": 39.992039,
+  "lng": 116.339208,
+  "overview": {
+    "score": 95.5,
+    "score_rank": "市内前30%",
+    "population_score": 100.0,
+    "area_score": 89.2,
+    "consumption_score": 86.3,
+    "industry_score": 95.5,
+    "annual_sales": "五道口购物中心位于海淀区五道口商场旧址，占地5万平方米，共有7层，地下一层为1.1万平方米的大型综合超市，一至四层为大型百货及品牌专卖店，五至六层为特色餐饮街、美容店。五道口购物中心集品味购物、主题餐饮、时尚娱乐及教育培训等多元化主题为一体，是都市生活的时尚代言，是五道口地区具有代表性的大型商业中心。",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 5.3,
+    "open_date": "2008-01-30",
+    "operator": "北京邦泰摩尔资产管理有限公司",
+    "brand": "",
+    "type": "综合型",
+    "floors": "B1-L6"
+  },
+  "traffic": {
+    "annual_daily": 3.65,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第49",
+    "jun_total": 146.4,
+    "jun_total_rank": "市内商场第54名",
+    "jun_daily_avg": 4.9,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第54名",
+    "weekday_avg": 4.6,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第48名",
+    "holiday_avg": 5.7,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第59名"
+  },
+  "population": {
+    "residential": {
+      "500m": 3.9,
+      "1_5km": 20.5,
+      "3km": 78.5
+    },
+    "office": {
+      "500m": 1.9,
+      "1_5km": 18.9,
+      "3km": 64.6
+    },
+    "permanent": {
+      "500m": 3.5,
+      "1_5km": 16.9,
+      "3km": 70.2
+    }
+  },
+  "business": {
+    "competitors": 7.0,
+    "food": 274.0,
+    "shopping": 157.0,
+    "leisure": 27.0,
+    "education": 39.0,
+    "hotel": 26.0,
+    "services": 193.0,
+    "fitness": 15.0,
+    "auto": 7.0,
+    "total_stores": 179.0,
+    "old_store_3yr_pct": 64.0
+  },
+  "nearby_poi": {
+    "business": 1.0,
+    "community": 273.0,
+    "office": 85.0,
+    "school": 44.0,
+    "hospital": 80.0,
+    "transport": 10.0,
+    "scenic": 302.0
+  },
+  "demographics": {
+    "male_pct": 47.7,
+    "female_pct": null,
+    "education": {
+      "小学": 6.0,
+      "初中": 12.7,
+      "高中": 17.8,
+      "大专": 3.6,
+      "本科": 45.4,
+      "硕士": 10.6,
+      "博士": 3.9
+    },
+    "has_children_pct": 46.7,
+    "no_children_pct": 53.3
+  },
+  "scraped_at": "2026-07-31T11:50:20.681Z",
+  "nearby_restaurants": [
+    {
+      "brand": "嘉食熙景餐饮管理有限公司五道口分公司(五道口购物中心子固路拌粉店)",
+      "address": "成府路28号五道口购物中心(五道口地铁站B南口步行220米)",
+      "distance": "6m"
+    },
+    {
+      "brand": "宝珠奶酪(五道口购物中心店)",
+      "address": "北京城区成府路28号五道口购物中心F5-08",
+      "distance": "9m"
+    },
+    {
+      "brand": "夹捡盛·鲜鱼汤麻辣烫(五道口购物中心店)",
+      "address": "北京城区成府路28号五道口购物中心B1层",
+      "distance": "9m"
+    },
+    {
+      "brand": "台巷里·台湾菜(五道口购物中心店)",
+      "address": "成府路28号五道口购物中心5层",
+      "distance": "10m"
+    },
+    {
+      "brand": "白鹿原西安肉夹馍·油泼面(五道口购物中心店)",
+      "address": "成府路28号五道口购物中心B1层",
+      "distance": "10m"
+    },
+    {
+      "brand": "CoCo都可(五道口购物中心店)",
+      "address": "成府路28号-B1层(五道口地铁站B南口步行230米)",
+      "distance": "10m"
+    },
+    {
+      "brand": "茉酸奶(五道口购物中心店)",
+      "address": "成府路28号五道口购物中心B1层",
+      "distance": "12m"
+    },
+    {
+      "brand": "和府捞面(北京五道口购物中心店)",
+      "address": "成府路28号五道口购物中心5F层",
+      "distance": "13m"
+    },
+    {
+      "brand": "茶百道(北京林业大学北路店)",
+      "address": "学院路街道成府路28号五道口购物中心B1层",
+      "distance": "14m"
+    },
+    {
+      "brand": "三元梅园(五道口店)",
+      "address": "成府路28号五道口购物中心B1",
+      "distance": "14m"
+    },
+    {
+      "brand": "嘉食熙景餐饮管理有限公司五道口分公司(五道口购物中心子固路拌粉店)",
+      "address": "成府路28号五道口购物中心(五道口地铁站B南口步行220米)",
+      "distance": "6m"
+    },
+    {
+      "brand": "宝珠奶酪(五道口购物中心店)",
+      "address": "北京城区成府路28号五道口购物中心F5-08",
+      "distance": "9m"
+    },
+    {
+      "brand": "夹捡盛·鲜鱼汤麻辣烫(五道口购物中心店)",
+      "address": "北京城区成府路28号五道口购物中心B1层",
+      "distance": "9m"
+    },
+    {
+      "brand": "台巷里·台湾菜(五道口购物中心店)",
+      "address": "成府路28号五道口购物中心5层",
+      "distance": "10m"
+    },
+    {
+      "brand": "白鹿原西安肉夹馍·油泼面(五道口购物中心店)",
+      "address": "成府路28号五道口购物中心B1层",
+      "distance": "10m"
+    },
+    {
+      "brand": "CoCo都可(五道口购物中心店)",
+      "address": "成府路28号-B1层(五道口地铁站B南口步行230米)",
+      "distance": "10m"
+    },
+    {
+      "brand": "茉酸奶(五道口购物中心店)",
+      "address": "成府路28号五道口购物中心B1层",
+      "distance": "12m"
+    },
+    {
+      "brand": "和府捞面(北京五道口购物中心店)",
+      "address": "成府路28号五道口购物中心5F层",
+      "distance": "13m"
+    },
+    {
+      "brand": "茶百道(北京林业大学北路店)",
+      "address": "学院路街道成府路28号五道口购物中心B1层",
+      "distance": "14m"
+    },
+    {
+      "brand": "三元梅园(五道口店)",
+      "address": "成府路28号五道口购物中心B1",
+      "distance": "14m"
+    },
+    {
+      "brand": "嘉食熙景餐饮管理有限公司五道口分公司(五道口购物中心子固路拌粉店)",
+      "address": "成府路28号五道口购物中心(五道口地铁站B南口步行220米)",
+      "distance": "6m"
+    },
+    {
+      "brand": "宝珠奶酪(五道口购物中心店)",
+      "address": "北京城区成府路28号五道口购物中心F5-08",
+      "distance": "9m"
+    },
+    {
+      "brand": "夹捡盛·鲜鱼汤麻辣烫(五道口购物中心店)",
+      "address": "北京城区成府路28号五道口购物中心B1层",
+      "distance": "9m"
+    },
+    {
+      "brand": "台巷里·台湾菜(五道口购物中心店)",
+      "address": "成府路28号五道口购物中心5层",
+      "distance": "10m"
+    },
+    {
+      "brand": "白鹿原西安肉夹馍·油泼面(五道口购物中心店)",
+      "address": "成府路28号五道口购物中心B1层",
+      "distance": "10m"
+    },
+    {
+      "brand": "CoCo都可(五道口购物中心店)",
+      "address": "成府路28号-B1层(五道口地铁站B南口步行230米)",
+      "distance": "10m"
+    },
+    {
+      "brand": "茉酸奶(五道口购物中心店)",
+      "address": "成府路28号五道口购物中心B1层",
+      "distance": "12m"
+    },
+    {
+      "brand": "和府捞面(北京五道口购物中心店)",
+      "address": "成府路28号五道口购物中心5F层",
+      "distance": "13m"
+    },
+    {
+      "brand": "茶百道(北京林业大学北路店)",
+      "address": "学院路街道成府路28号五道口购物中心B1层",
+      "distance": "14m"
+    },
+    {
+      "brand": "三元梅园(五道口店)",
+      "address": "成府路28号五道口购物中心B1",
+      "distance": "14m"
+    },
+    {
+      "brand": "嘉食熙景餐饮管理有限公司五道口分公司(五道口购物中心子固路拌粉店)",
+      "address": "成府路28号五道口购物中心(五道口地铁站B南口步行220米)",
+      "distance": "6m"
+    },
+    {
+      "brand": "宝珠奶酪(五道口购物中心店)",
+      "address": "北京城区成府路28号五道口购物中心F5-08",
+      "distance": "9m"
+    },
+    {
+      "brand": "夹捡盛·鲜鱼汤麻辣烫(五道口购物中心店)",
+      "address": "北京城区成府路28号五道口购物中心B1层",
+      "distance": "9m"
+    },
+    {
+      "brand": "台巷里·台湾菜(五道口购物中心店)",
+      "address": "成府路28号五道口购物中心5层",
+      "distance": "10m"
+    },
+    {
+      "brand": "白鹿原西安肉夹馍·油泼面(五道口购物中心店)",
+      "address": "成府路28号五道口购物中心B1层",
+      "distance": "10m"
+    },
+    {
+      "brand": "CoCo都可(五道口购物中心店)",
+      "address": "成府路28号-B1层(五道口地铁站B南口步行230米)",
+      "distance": "10m"
+    },
+    {
+      "brand": "茉酸奶(五道口购物中心店)",
+      "address": "成府路28号五道口购物中心B1层",
+      "distance": "12m"
+    },
+    {
+      "brand": "和府捞面(北京五道口购物中心店)",
+      "address": "成府路28号五道口购物中心5F层",
+      "distance": "13m"
+    },
+    {
+      "brand": "茶百道(北京林业大学北路店)",
+      "address": "学院路街道成府路28号五道口购物中心B1层",
+      "distance": "14m"
+    },
+    {
+      "brand": "三元梅园(五道口店)",
+      "address": "成府路28号五道口购物中心B1",
+      "distance": "14m"
+    },
+    {
+      "brand": "嘉食熙景餐饮管理有限公司五道口分公司(五道口购物中心子固路拌粉店)",
+      "address": "成府路28号五道口购物中心(五道口地铁站B南口步行220米)",
+      "distance": "6m"
+    },
+    {
+      "brand": "宝珠奶酪(五道口购物中心店)",
+      "address": "北京城区成府路28号五道口购物中心F5-08",
+      "distance": "9m"
+    },
+    {
+      "brand": "夹捡盛·鲜鱼汤麻辣烫(五道口购物中心店)",
+      "address": "北京城区成府路28号五道口购物中心B1层",
+      "distance": "9m"
+    },
+    {
+      "brand": "台巷里·台湾菜(五道口购物中心店)",
+      "address": "成府路28号五道口购物中心5层",
+      "distance": "10m"
+    },
+    {
+      "brand": "白鹿原西安肉夹馍·油泼面(五道口购物中心店)",
+      "address": "成府路28号五道口购物中心B1层",
+      "distance": "10m"
+    },
+    {
+      "brand": "CoCo都可(五道口购物中心店)",
+      "address": "成府路28号-B1层(五道口地铁站B南口步行230米)",
+      "distance": "10m"
+    },
+    {
+      "brand": "茉酸奶(五道口购物中心店)",
+      "address": "成府路28号五道口购物中心B1层",
+      "distance": "12m"
+    },
+    {
+      "brand": "和府捞面(北京五道口购物中心店)",
+      "address": "成府路28号五道口购物中心5F层",
+      "distance": "13m"
+    },
+    {
+      "brand": "茶百道(北京林业大学北路店)",
+      "address": "学院路街道成府路28号五道口购物中心B1层",
+      "distance": "14m"
+    },
+    {
+      "brand": "三元梅园(五道口店)",
+      "address": "成府路28号五道口购物中心B1",
+      "distance": "14m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "融科天地(融科资讯中心)",
+      "open_date": "2002-01-01",
+      "area": "2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 66.0,
+      "within_1yr_pct": 6.1,
+      "1_3yr_pct": 18.2,
+      "over_3yr_pct": 75.8
+    },
+    {
+      "type": "购物",
+      "count": 64.0,
+      "within_1yr_pct": 10.9,
+      "1_3yr_pct": 23.4,
+      "over_3yr_pct": 65.6
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 7.0,
+      "within_1yr_pct": 14.3,
+      "1_3yr_pct": 42.9,
+      "over_3yr_pct": 42.9
+    },
+    {
+      "type": "教育培训",
+      "count": 8.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 12.5,
+      "over_3yr_pct": 62.5
+    },
+    {
+      "type": "酒店住宿",
+      "count": 2.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "生活服务",
+      "count": 23.0,
+      "within_1yr_pct": 13.0,
+      "1_3yr_pct": 39.1,
+      "over_3yr_pct": 47.8
+    },
+    {
+      "type": "运动健身",
+      "count": 8.0,
+      "within_1yr_pct": 12.5,
+      "1_3yr_pct": 37.5,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
+    }
+  ]
+}

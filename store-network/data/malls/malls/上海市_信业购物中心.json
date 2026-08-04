@@ -1,0 +1,238 @@
+{
+  "name": "信业购物中心",
+  "city": "上海市",
+  "address": "上海市嘉定区嘉定环城路762号",
+  "lat": 31.396324,
+  "lng": 121.248605,
+  "overview": {
+    "score": 94.0,
+    "score_rank": "市内前30%",
+    "population_score": 84.2,
+    "area_score": 72.3,
+    "consumption_score": 66.8,
+    "industry_score": 94.2,
+    "annual_sales": "上海信业购物中心位于上海嘉定区环城路与柳湖路交叉口，距地铁11号线嘉定北站约1.5公里，一条商业风情街和一座MALL（4.3万平方米）组成 围绕“现代&自然亲水”的设计理念，依附自然生态公园及护城河，定位为亲水文化购物公园，致力于打造集创意文化、购物、餐饮、休闲、娱乐、社交为一体的时尚新生活主题中心 购物中心部分开业率近100%，携上蔬永辉、红星电影世界、爱婴室以及上海首家嗨马乐动等160家品牌正式亮相，涵盖购物、美食、文化、休闲娱乐等业态，满足周边家庭型客群的消费需求 信业购物中心是嘉定首个滨水休闲文化购物公园，打破传统购物中心“大盒子”的思维定式，用商业、酒店、办公、公寓、亲水公园、天穹花园串联起整个空间，形成“嘉上海，家生活”的主题公共空间",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 6.5,
+    "open_date": "2019-09-14",
+    "operator": "广东信业地产集团有限公司",
+    "brand": "",
+    "type": "美食型",
+    "floors": "B2-L3"
+  },
+  "traffic": {
+    "annual_daily": 2.44,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第114",
+    "jun_total": 86.6,
+    "jun_total_rank": "市内商场第142名",
+    "jun_daily_avg": 2.9,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第142名",
+    "weekday_avg": 2.6,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第147名",
+    "holiday_avg": 3.8,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第128名"
+  },
+  "population": {
+    "residential": {
+      "500m": 1.9,
+      "1_5km": 13.7,
+      "3km": 38.2
+    },
+    "office": {
+      "500m": 8900.0,
+      "1_5km": 6.3,
+      "3km": 17.9
+    },
+    "permanent": {
+      "500m": 2.0,
+      "1_5km": 13.8,
+      "3km": 36.9
+    }
+  },
+  "business": {
+    "competitors": 3.0,
+    "food": 160.0,
+    "shopping": 94.0,
+    "leisure": 16.0,
+    "education": 20.0,
+    "hotel": 9.0,
+    "services": 97.0,
+    "fitness": 14.0,
+    "auto": 15.0,
+    "total_stores": 218.0,
+    "old_store_3yr_pct": 40.0
+  },
+  "nearby_poi": {
+    "business": 4.0,
+    "community": 214.0,
+    "office": 12.0,
+    "school": 26.0,
+    "hospital": 34.0,
+    "transport": 12.0,
+    "scenic": 122.0
+  },
+  "demographics": {
+    "male_pct": 47.0,
+    "female_pct": null,
+    "education": {
+      "小学": 9.6,
+      "初中": 19.5,
+      "高中": 13.6,
+      "大专": 7.7,
+      "本科": 44.4,
+      "硕士": 4.2,
+      "博士": 1.0
+    },
+    "has_children_pct": 64.2,
+    "no_children_pct": 35.8
+  },
+  "scraped_at": "2026-08-01T05:45:32.435Z",
+  "nearby_restaurants": [
+    {
+      "brand": "安琪早点",
+      "address": "棋盘路1151号巴比馒头旁",
+      "distance": "453m"
+    },
+    {
+      "brand": "翔云饭店(嘉定棋盘路店)",
+      "address": "嘉邦小区北1门旁",
+      "distance": "460m"
+    },
+    {
+      "brand": "东北饼店(棋盘路店)",
+      "address": "嘉邦小区北1门旁",
+      "distance": "467m"
+    },
+    {
+      "brand": "巴比馒头(棋盘路店)",
+      "address": "棋盘路1145号",
+      "distance": "469m"
+    },
+    {
+      "brand": "灵官面馆(棋盘路店)",
+      "address": "棋盘路1131号-1133号",
+      "distance": "477m"
+    },
+    {
+      "brand": "禄源餐馆",
+      "address": "棋盘路1135号",
+      "distance": "478m"
+    },
+    {
+      "brand": "国茶·低卡新式奶茶(棋盘路店)",
+      "address": "棋盘路1329号",
+      "distance": "481m"
+    },
+    {
+      "brand": "兰州牛肉拉面(棋盘路店)",
+      "address": "棋盘路1142号",
+      "distance": "495m"
+    },
+    {
+      "brand": "吴江路生煎",
+      "address": "菊园新区棋盘路1110弄6号101室",
+      "distance": "499m"
+    },
+    {
+      "brand": "山东手工水饺(嘉康坊东区店)",
+      "address": "棋盘路1136号",
+      "distance": "499m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "嘉定泰宸新e街",
+      "open_date": "-",
+      "area": "-",
+      "jun_daily_avg": "1.7万人次",
+      "weekday_avg": "1.6万人次",
+      "holiday_avg": "2.2万人次"
+    },
+    {
+      "name": "上海嘉定日月光中心",
+      "open_date": "2017-07-01",
+      "area": "3.8万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海嘉定商城",
+      "open_date": "1998-01-01",
+      "area": "1.2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海罗宾森购物广场",
+      "open_date": "2007-01-01",
+      "area": "6万㎡",
+      "jun_daily_avg": "1.7万人次",
+      "weekday_avg": "1.6万人次",
+      "holiday_avg": "2.2万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 85.0,
+      "within_1yr_pct": 23.5,
+      "1_3yr_pct": 32.9,
+      "over_3yr_pct": 43.5
+    },
+    {
+      "type": "购物",
+      "count": 43.0,
+      "within_1yr_pct": 32.6,
+      "1_3yr_pct": 25.6,
+      "over_3yr_pct": 41.9
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 13.0,
+      "within_1yr_pct": 23.1,
+      "1_3yr_pct": 53.8,
+      "over_3yr_pct": 23.1
+    },
+    {
+      "type": "教育培训",
+      "count": 18.0,
+      "within_1yr_pct": 16.7,
+      "1_3yr_pct": 38.9,
+      "over_3yr_pct": 44.4
+    },
+    {
+      "type": "酒店住宿",
+      "count": 3.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 66.7
+    },
+    {
+      "type": "生活服务",
+      "count": 42.0,
+      "within_1yr_pct": 31.0,
+      "1_3yr_pct": 40.5,
+      "over_3yr_pct": 28.6
+    },
+    {
+      "type": "运动健身",
+      "count": 10.0,
+      "within_1yr_pct": 10.0,
+      "1_3yr_pct": 40.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 4.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 75.0
+    }
+  ]
+}

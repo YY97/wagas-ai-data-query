@@ -1,0 +1,193 @@
+{
+  "name": "长安商场",
+  "city": "北京市",
+  "address": "北京市西城区复兴门外大街15号长安商场",
+  "lat": 39.908096,
+  "lng": 116.34527,
+  "overview": {
+    "score": 92.2,
+    "score_rank": "市内前30%",
+    "population_score": 96.3,
+    "area_score": 76.9,
+    "consumption_score": 93.4,
+    "industry_score": 92.2,
+    "annual_sales": "北京长安商场位于北京市西城区复兴门外大街15号，是一座以流行服装、服饰用品为主，集超市、餐饮于一体的现代化综合性商场。商场总建筑面积32000平方米，营业面积20000平方米，地上五层，地下二层，分别经营22个大类、十万余种商品",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 2.0,
+    "open_date": "1990-05-18",
+    "operator": "王府井集团股份有限公司",
+    "brand": "",
+    "type": "综合型",
+    "floors": "B2-L5"
+  },
+  "traffic": {
+    "annual_daily": 1.91,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第127",
+    "jun_total": 80.6,
+    "jun_total_rank": "市内商场第120名",
+    "jun_daily_avg": 2.7,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第120名",
+    "weekday_avg": 2.6,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第114名",
+    "holiday_avg": 3.0,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第129名"
+  },
+  "population": {
+    "residential": {
+      "500m": 3.2,
+      "1_5km": 21.4,
+      "3km": 86.5
+    },
+    "office": {
+      "500m": 2.2,
+      "1_5km": 22.8,
+      "3km": 80.7
+    },
+    "permanent": {
+      "500m": 3.3,
+      "1_5km": 22.9,
+      "3km": 97.4
+    }
+  },
+  "business": {
+    "competitors": 5.0,
+    "food": 134.0,
+    "shopping": 181.0,
+    "leisure": 11.0,
+    "education": 23.0,
+    "hotel": 15.0,
+    "services": 89.0,
+    "fitness": 11.0,
+    "auto": 8.0,
+    "total_stores": 159.0,
+    "old_store_3yr_pct": 45.0
+  },
+  "nearby_poi": {
+    "business": 3.0,
+    "community": 520.0,
+    "office": 84.0,
+    "school": 47.0,
+    "hospital": 112.0,
+    "transport": 10.0,
+    "scenic": 349.0
+  },
+  "demographics": {
+    "male_pct": 46.5,
+    "female_pct": null,
+    "education": {
+      "小学": 9.5,
+      "初中": 15.6,
+      "高中": 11.0,
+      "大专": 5.4,
+      "本科": 46.5,
+      "硕士": 9.4,
+      "博士": 2.6
+    },
+    "has_children_pct": 59.4,
+    "no_children_pct": 40.6
+  },
+  "scraped_at": "2026-08-01T05:43:21.054Z",
+  "nearby_restaurants": [
+    {
+      "brand": "山西刀削面",
+      "address": "真武庙东一巷与真武庙路头条交叉口东南20米",
+      "distance": "494m"
+    },
+    {
+      "brand": "水饺刀削面(西城金茂中心店)",
+      "address": "中国铁路总公司第一住宅区北院北门旁",
+      "distance": "499m"
+    },
+    {
+      "brand": "家和饺子馆(复兴门店)",
+      "address": "北京城区真武庙路头条4号中国铁路总公司第一住宅区北院",
+      "distance": "499m"
+    },
+    {
+      "brand": "星巴克(北京复兴门外店)",
+      "address": "复兴门外大街A2号楼(南礼士路地铁站D1西南口步行80米)",
+      "distance": "499m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "北京复兴商业城",
+      "open_date": "1992-01-01",
+      "area": "1.2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "北京京饮华天商厦",
+      "open_date": "2021-12-09",
+      "area": "1万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "北京复兴门百盛购物中心",
+      "open_date": "1994-03-01",
+      "area": "3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 41.0,
+      "within_1yr_pct": 14.6,
+      "1_3yr_pct": 26.8,
+      "over_3yr_pct": 58.5
+    },
+    {
+      "type": "购物",
+      "count": 85.0,
+      "within_1yr_pct": 49.4,
+      "1_3yr_pct": 8.2,
+      "over_3yr_pct": 42.4
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 5.0,
+      "within_1yr_pct": 40.0,
+      "1_3yr_pct": 20.0,
+      "over_3yr_pct": 40.0
+    },
+    {
+      "type": "教育培训",
+      "count": 11.0,
+      "within_1yr_pct": 81.8,
+      "1_3yr_pct": 9.1,
+      "over_3yr_pct": 9.1
+    },
+    {
+      "type": "生活服务",
+      "count": 13.0,
+      "within_1yr_pct": 15.4,
+      "1_3yr_pct": 30.8,
+      "over_3yr_pct": 53.8
+    },
+    {
+      "type": "运动健身",
+      "count": 3.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 33.3
+    },
+    {
+      "type": "车辆服务",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
+    }
+  ]
+}

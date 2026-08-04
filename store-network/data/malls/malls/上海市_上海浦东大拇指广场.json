@@ -1,0 +1,431 @@
+{
+  "name": "上海浦东大拇指广场",
+  "city": "上海市",
+  "address": "上海市浦东新区芳甸路1208号",
+  "lat": 31.226921,
+  "lng": 121.559768,
+  "overview": {
+    "score": 88.4,
+    "score_rank": "市内前30%",
+    "population_score": 84.9,
+    "area_score": 69.4,
+    "consumption_score": 88.3,
+    "industry_score": 88.5,
+    "annual_sales": "上海浦东大拇指广场是一个以融购物、休闲、娱乐、美食、酒店、艺术于一体的复合式社区商业中心。位于芳甸路、丁香路口，与浦东联洋商业广场隔一条马路相望。广场入口有证大集团收藏的法国超现实主义艺术大师恺撒的名作“大拇指”雕塑，因此得名。广场以金融、美食、休闲、购物四条主题性步行街为主，同时与多个主题广场曲折相连。餐饮区域、购物区域、聚会休闲区域相对隔离，广场上经常有一些主题活动",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 11.0,
+    "open_date": "2005-03-01",
+    "operator": "上海证大置业有限公司",
+    "brand": "",
+    "type": "综合型",
+    "floors": "B2-L3"
+  },
+  "traffic": {
+    "annual_daily": 8740.0,
+    "annual_daily_unit": "人次",
+    "annual_daily_rank": "市内第281",
+    "jun_total": 26.6,
+    "jun_total_rank": "市内商场第326名",
+    "jun_daily_avg": 8862.0,
+    "jun_daily_unit": "人次",
+    "jun_daily_rank": "市内商场第326名",
+    "weekday_avg": 8480.0,
+    "weekday_unit": "人次",
+    "weekday_rank": "市内商场第329名",
+    "holiday_avg": 9910.0,
+    "holiday_unit": "人次",
+    "holiday_rank": "市内商场第327名"
+  },
+  "population": {
+    "residential": {
+      "500m": 2.0,
+      "1_5km": 11.7,
+      "3km": 52.1
+    },
+    "office": {
+      "500m": 1.0,
+      "1_5km": 8.0,
+      "3km": 40.1
+    },
+    "permanent": {
+      "500m": 2.0,
+      "1_5km": 12.1,
+      "3km": 56.2
+    }
+  },
+  "business": {
+    "competitors": 4.0,
+    "food": 74.0,
+    "shopping": 62.0,
+    "leisure": 3.0,
+    "education": 30.0,
+    "hotel": 6.0,
+    "services": 99.0,
+    "fitness": 31.0,
+    "auto": 9.0,
+    "total_stores": 109.0,
+    "old_store_3yr_pct": 66.0
+  },
+  "nearby_poi": {
+    "business": 4.0,
+    "community": 321.0,
+    "office": 19.0,
+    "school": 21.0,
+    "hospital": 69.0,
+    "transport": 14.0,
+    "scenic": 174.0
+  },
+  "demographics": {
+    "male_pct": 54.5,
+    "female_pct": null,
+    "education": {
+      "小学": 8.8,
+      "初中": 16.7,
+      "高中": 10.6,
+      "大专": 6.5,
+      "本科": 48.0,
+      "硕士": 7.6,
+      "博士": 1.8
+    },
+    "has_children_pct": 57.9,
+    "no_children_pct": 42.1
+  },
+  "scraped_at": "2026-07-31T16:51:15.700Z",
+  "nearby_restaurants": [
+    {
+      "brand": "龙虾风暴(证大大拇指店)",
+      "address": "芳甸路199弄大拇指广场北区一层17号",
+      "distance": "13m"
+    },
+    {
+      "brand": "吉林烧烤",
+      "address": "芳甸路与丁香路交叉口东南180米",
+      "distance": "20m"
+    },
+    {
+      "brand": "Wagas沃歌斯(上海浦东大拇指广场店)",
+      "address": "花木街道芳甸路199弄证大大拇指广场31号",
+      "distance": "23m"
+    },
+    {
+      "brand": "巴黎贝甜(芳甸店)",
+      "address": "芳甸路199弄证大大拇指广场F1层L147",
+      "distance": "24m"
+    },
+    {
+      "brand": "Brut Eatery悦璞食堂(大拇指店)",
+      "address": "芳甸路199弄证大大拇指广场30号1层A室",
+      "distance": "26m"
+    },
+    {
+      "brand": "很久以前羊肉串(大拇指广场店)",
+      "address": "芳甸路199弄28号(大拇指广场一层商铺)",
+      "distance": "31m"
+    },
+    {
+      "brand": "煌上煌酱鸭(直属上海家乐福联洋店)",
+      "address": "芳甸路185号家乐福负一楼收银出口处对面煌上煌匠鸭",
+      "distance": "41m"
+    },
+    {
+      "brand": "克比印度餐厅(证大大拇指广场店)",
+      "address": "芳甸路大拇指广场二层255室",
+      "distance": "42m"
+    },
+    {
+      "brand": "大益茶(证大大拇指广场店)",
+      "address": "中国(上海)自由贸易试验区芳甸路199弄15号1层",
+      "distance": "46m"
+    },
+    {
+      "brand": "瑞幸咖啡(证大大拇指广场店)",
+      "address": "芳甸路1208号证大大拇指广场底商",
+      "distance": "47m"
+    },
+    {
+      "brand": "龙虾风暴(证大大拇指店)",
+      "address": "芳甸路199弄大拇指广场北区一层17号",
+      "distance": "13m"
+    },
+    {
+      "brand": "吉林烧烤",
+      "address": "芳甸路与丁香路交叉口东南180米",
+      "distance": "20m"
+    },
+    {
+      "brand": "Wagas沃歌斯(上海浦东大拇指广场店)",
+      "address": "花木街道芳甸路199弄证大大拇指广场31号",
+      "distance": "23m"
+    },
+    {
+      "brand": "巴黎贝甜(芳甸店)",
+      "address": "芳甸路199弄证大大拇指广场F1层L147",
+      "distance": "24m"
+    },
+    {
+      "brand": "Brut Eatery悦璞食堂(大拇指店)",
+      "address": "芳甸路199弄证大大拇指广场30号1层A室",
+      "distance": "26m"
+    },
+    {
+      "brand": "很久以前羊肉串(大拇指广场店)",
+      "address": "芳甸路199弄28号(大拇指广场一层商铺)",
+      "distance": "31m"
+    },
+    {
+      "brand": "煌上煌酱鸭(直属上海家乐福联洋店)",
+      "address": "芳甸路185号家乐福负一楼收银出口处对面煌上煌匠鸭",
+      "distance": "41m"
+    },
+    {
+      "brand": "克比印度餐厅(证大大拇指广场店)",
+      "address": "芳甸路大拇指广场二层255室",
+      "distance": "42m"
+    },
+    {
+      "brand": "大益茶(证大大拇指广场店)",
+      "address": "中国(上海)自由贸易试验区芳甸路199弄15号1层",
+      "distance": "46m"
+    },
+    {
+      "brand": "瑞幸咖啡(证大大拇指广场店)",
+      "address": "芳甸路1208号证大大拇指广场底商",
+      "distance": "47m"
+    },
+    {
+      "brand": "龙虾风暴(证大大拇指店)",
+      "address": "芳甸路199弄大拇指广场北区一层17号",
+      "distance": "13m"
+    },
+    {
+      "brand": "吉林烧烤",
+      "address": "芳甸路与丁香路交叉口东南180米",
+      "distance": "20m"
+    },
+    {
+      "brand": "Wagas沃歌斯(上海浦东大拇指广场店)",
+      "address": "花木街道芳甸路199弄证大大拇指广场31号",
+      "distance": "23m"
+    },
+    {
+      "brand": "巴黎贝甜(芳甸店)",
+      "address": "芳甸路199弄证大大拇指广场F1层L147",
+      "distance": "24m"
+    },
+    {
+      "brand": "Brut Eatery悦璞食堂(大拇指店)",
+      "address": "芳甸路199弄证大大拇指广场30号1层A室",
+      "distance": "26m"
+    },
+    {
+      "brand": "很久以前羊肉串(大拇指广场店)",
+      "address": "芳甸路199弄28号(大拇指广场一层商铺)",
+      "distance": "31m"
+    },
+    {
+      "brand": "煌上煌酱鸭(直属上海家乐福联洋店)",
+      "address": "芳甸路185号家乐福负一楼收银出口处对面煌上煌匠鸭",
+      "distance": "41m"
+    },
+    {
+      "brand": "克比印度餐厅(证大大拇指广场店)",
+      "address": "芳甸路大拇指广场二层255室",
+      "distance": "42m"
+    },
+    {
+      "brand": "大益茶(证大大拇指广场店)",
+      "address": "中国(上海)自由贸易试验区芳甸路199弄15号1层",
+      "distance": "46m"
+    },
+    {
+      "brand": "瑞幸咖啡(证大大拇指广场店)",
+      "address": "芳甸路1208号证大大拇指广场底商",
+      "distance": "47m"
+    },
+    {
+      "brand": "龙虾风暴(证大大拇指店)",
+      "address": "芳甸路199弄大拇指广场北区一层17号",
+      "distance": "13m"
+    },
+    {
+      "brand": "吉林烧烤",
+      "address": "芳甸路与丁香路交叉口东南180米",
+      "distance": "20m"
+    },
+    {
+      "brand": "Wagas沃歌斯(上海浦东大拇指广场店)",
+      "address": "花木街道芳甸路199弄证大大拇指广场31号",
+      "distance": "23m"
+    },
+    {
+      "brand": "巴黎贝甜(芳甸店)",
+      "address": "芳甸路199弄证大大拇指广场F1层L147",
+      "distance": "24m"
+    },
+    {
+      "brand": "Brut Eatery悦璞食堂(大拇指店)",
+      "address": "芳甸路199弄证大大拇指广场30号1层A室",
+      "distance": "26m"
+    },
+    {
+      "brand": "很久以前羊肉串(大拇指广场店)",
+      "address": "芳甸路199弄28号(大拇指广场一层商铺)",
+      "distance": "31m"
+    },
+    {
+      "brand": "煌上煌酱鸭(直属上海家乐福联洋店)",
+      "address": "芳甸路185号家乐福负一楼收银出口处对面煌上煌匠鸭",
+      "distance": "41m"
+    },
+    {
+      "brand": "克比印度餐厅(证大大拇指广场店)",
+      "address": "芳甸路大拇指广场二层255室",
+      "distance": "42m"
+    },
+    {
+      "brand": "大益茶(证大大拇指广场店)",
+      "address": "中国(上海)自由贸易试验区芳甸路199弄15号1层",
+      "distance": "46m"
+    },
+    {
+      "brand": "瑞幸咖啡(证大大拇指广场店)",
+      "address": "芳甸路1208号证大大拇指广场底商",
+      "distance": "47m"
+    },
+    {
+      "brand": "龙虾风暴(证大大拇指店)",
+      "address": "芳甸路199弄大拇指广场北区一层17号",
+      "distance": "13m"
+    },
+    {
+      "brand": "吉林烧烤",
+      "address": "芳甸路与丁香路交叉口东南180米",
+      "distance": "20m"
+    },
+    {
+      "brand": "Wagas沃歌斯(上海浦东大拇指广场店)",
+      "address": "花木街道芳甸路199弄证大大拇指广场31号",
+      "distance": "23m"
+    },
+    {
+      "brand": "巴黎贝甜(芳甸店)",
+      "address": "芳甸路199弄证大大拇指广场F1层L147",
+      "distance": "24m"
+    },
+    {
+      "brand": "Brut Eatery悦璞食堂(大拇指店)",
+      "address": "芳甸路199弄证大大拇指广场30号1层A室",
+      "distance": "26m"
+    },
+    {
+      "brand": "很久以前羊肉串(大拇指广场店)",
+      "address": "芳甸路199弄28号(大拇指广场一层商铺)",
+      "distance": "31m"
+    },
+    {
+      "brand": "煌上煌酱鸭(直属上海家乐福联洋店)",
+      "address": "芳甸路185号家乐福负一楼收银出口处对面煌上煌匠鸭",
+      "distance": "41m"
+    },
+    {
+      "brand": "克比印度餐厅(证大大拇指广场店)",
+      "address": "芳甸路大拇指广场二层255室",
+      "distance": "42m"
+    },
+    {
+      "brand": "大益茶(证大大拇指广场店)",
+      "address": "中国(上海)自由贸易试验区芳甸路199弄15号1层",
+      "distance": "46m"
+    },
+    {
+      "brand": "瑞幸咖啡(证大大拇指广场店)",
+      "address": "芳甸路1208号证大大拇指广场底商",
+      "distance": "47m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海联洋广场",
+      "open_date": "2008-12-24",
+      "area": "5.8万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海FOR天物空间",
+      "open_date": "2020-03-01",
+      "area": "-",
+      "jun_daily_avg": "1.7万人次",
+      "weekday_avg": "1.5万人次",
+      "holiday_avg": "2.1万人次"
+    },
+    {
+      "name": "上海丁香国际商业中心",
+      "open_date": "2017-07-09",
+      "area": "4.7万㎡",
+      "jun_daily_avg": "2.7万人次",
+      "weekday_avg": "2.7万人次",
+      "holiday_avg": "2.6万人次"
+    },
+    {
+      "name": "上海乐坊羽山生活广场",
+      "open_date": "2017-04-01",
+      "area": "2.2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 33.0,
+      "within_1yr_pct": 9.1,
+      "1_3yr_pct": 18.2,
+      "over_3yr_pct": 72.7
+    },
+    {
+      "type": "购物",
+      "count": 22.0,
+      "within_1yr_pct": 13.6,
+      "1_3yr_pct": 18.2,
+      "over_3yr_pct": 68.2
+    },
+    {
+      "type": "教育培训",
+      "count": 10.0,
+      "within_1yr_pct": 30.0,
+      "1_3yr_pct": 40.0,
+      "over_3yr_pct": 30.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 3.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    },
+    {
+      "type": "生活服务",
+      "count": 26.0,
+      "within_1yr_pct": 11.5,
+      "1_3yr_pct": 19.2,
+      "over_3yr_pct": 69.2
+    },
+    {
+      "type": "运动健身",
+      "count": 9.0,
+      "within_1yr_pct": 11.1,
+      "1_3yr_pct": 11.1,
+      "over_3yr_pct": 77.8
+    },
+    {
+      "type": "车辆服务",
+      "count": 6.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 33.3
+    }
+  ]
+}

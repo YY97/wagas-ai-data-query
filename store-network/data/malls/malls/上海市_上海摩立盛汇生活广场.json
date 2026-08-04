@@ -1,0 +1,431 @@
+{
+  "name": "上海摩立盛汇生活广场",
+  "city": "上海市",
+  "address": "上海市松江区九里亭街道绿庭尚城摩立盛汇生活广场",
+  "lat": 31.147273,
+  "lng": 121.315403,
+  "overview": {
+    "score": 80.1,
+    "score_rank": "市内前30%",
+    "population_score": 97.4,
+    "area_score": 73.1,
+    "consumption_score": 69.7,
+    "industry_score": 80.1,
+    "annual_sales": "上海摩立盛汇生活广场位于松江区九亭商圈，具体地址为松江涞寅路350号 广场是一个综合体/购物中心，提供购物、餐饮等多功能服务 周边配套设施相对完善，包括交通、教育、医疗、购物和休闲等 交通配套方面，周边2km内有1个地铁站（九亭）和70个公交站 教育配套方面，周边3km内有31个幼儿园、5个小学和5个中学 医疗配套方面，周边3km内有1个医院，其中三甲医院0个 购物配套方面，周边3km内有9个购物中心和151个超市 休闲配套方面，周边3km内有15个公园",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 2.2,
+    "open_date": "",
+    "operator": "",
+    "brand": "",
+    "type": "综合型",
+    "floors": "L1-L5"
+  },
+  "traffic": {
+    "annual_daily": 2356.0,
+    "annual_daily_unit": "人次",
+    "annual_daily_rank": "市内第465",
+    "jun_total": 5.0,
+    "jun_total_rank": "市内商场第550名",
+    "jun_daily_avg": 1655.0,
+    "jun_daily_unit": "人次",
+    "jun_daily_rank": "市内商场第550名",
+    "weekday_avg": 1547.0,
+    "weekday_unit": "人次",
+    "weekday_rank": "市内商场第550名",
+    "holiday_avg": 1950.0,
+    "holiday_unit": "人次",
+    "holiday_rank": "市内商场第538名"
+  },
+  "population": {
+    "residential": {
+      "500m": 3.5,
+      "1_5km": 18.9,
+      "3km": 46.2
+    },
+    "office": {
+      "500m": 9900.0,
+      "1_5km": 7.1,
+      "3km": 21.0
+    },
+    "permanent": {
+      "500m": 3.1,
+      "1_5km": 16.8,
+      "3km": 40.3
+    }
+  },
+  "business": {
+    "competitors": 4.0,
+    "food": 163.0,
+    "shopping": 93.0,
+    "leisure": 22.0,
+    "education": 41.0,
+    "hotel": 12.0,
+    "services": 146.0,
+    "fitness": 22.0,
+    "auto": 7.0,
+    "total_stores": 145.0,
+    "old_store_3yr_pct": 47.0
+  },
+  "nearby_poi": {
+    "business": 4.0,
+    "community": 206.0,
+    "office": 27.0,
+    "school": 21.0,
+    "hospital": 25.0,
+    "transport": 14.0,
+    "scenic": 44.0
+  },
+  "demographics": {
+    "male_pct": 52.4,
+    "female_pct": null,
+    "education": {
+      "小学": 9.8,
+      "初中": 18.2,
+      "高中": 11.7,
+      "大专": 9.1,
+      "本科": 46.6,
+      "硕士": 3.9,
+      "博士": 0.7
+    },
+    "has_children_pct": 64.9,
+    "no_children_pct": 35.1
+  },
+  "scraped_at": "2026-07-31T16:23:31.716Z",
+  "nearby_restaurants": [
+    {
+      "brand": "DALNOW咖啡(九亭摩立盛汇生活广场店)",
+      "address": "沪亭北路607弄12号摩立盛汇生活广场F1层",
+      "distance": "21m"
+    },
+    {
+      "brand": "东方一串烧烤·烤鱼·鸡公煲(北九亭店)",
+      "address": "沪亭北路630号",
+      "distance": "47m"
+    },
+    {
+      "brand": "东方一串·烧烤·烤鱼·小龙虾",
+      "address": "九里亭街道沪亭北路626、628、630号一层",
+      "distance": "47m"
+    },
+    {
+      "brand": "紫燕百味鸡(上海沪亭北店)",
+      "address": "沪亭北路632号一层",
+      "distance": "49m"
+    },
+    {
+      "brand": "茶百道(上海沪亭店)",
+      "address": "松江区沪亭北路625号",
+      "distance": "50m"
+    },
+    {
+      "brand": "小熊牛肉汤馆(九城湖滨店)",
+      "address": "九城湖滨西南门旁",
+      "distance": "51m"
+    },
+    {
+      "brand": "文武王氏烧饼·无矾油条(九城湖滨店)",
+      "address": "上海城区沪亭北路622-624号",
+      "distance": "51m"
+    },
+    {
+      "brand": "留夫鸭(松江沪亭北路四店)",
+      "address": "九亭镇沪亭北路610号",
+      "distance": "55m"
+    },
+    {
+      "brand": "咖佰莉烘焙(上海虹桥国展九亭中心如家精选酒店店)",
+      "address": "沪亭北路620号",
+      "distance": "59m"
+    },
+    {
+      "brand": "红宝石(沪亭北路店)",
+      "address": "沪亭北路646号",
+      "distance": "68m"
+    },
+    {
+      "brand": "DALNOW咖啡(九亭摩立盛汇生活广场店)",
+      "address": "沪亭北路607弄12号摩立盛汇生活广场F1层",
+      "distance": "21m"
+    },
+    {
+      "brand": "东方一串烧烤·烤鱼·鸡公煲(北九亭店)",
+      "address": "沪亭北路630号",
+      "distance": "47m"
+    },
+    {
+      "brand": "东方一串·烧烤·烤鱼·小龙虾",
+      "address": "九里亭街道沪亭北路626、628、630号一层",
+      "distance": "47m"
+    },
+    {
+      "brand": "紫燕百味鸡(上海沪亭北店)",
+      "address": "沪亭北路632号一层",
+      "distance": "49m"
+    },
+    {
+      "brand": "茶百道(上海沪亭店)",
+      "address": "松江区沪亭北路625号",
+      "distance": "50m"
+    },
+    {
+      "brand": "小熊牛肉汤馆(九城湖滨店)",
+      "address": "九城湖滨西南门旁",
+      "distance": "51m"
+    },
+    {
+      "brand": "文武王氏烧饼·无矾油条(九城湖滨店)",
+      "address": "上海城区沪亭北路622-624号",
+      "distance": "51m"
+    },
+    {
+      "brand": "留夫鸭(松江沪亭北路四店)",
+      "address": "九亭镇沪亭北路610号",
+      "distance": "55m"
+    },
+    {
+      "brand": "咖佰莉烘焙(上海虹桥国展九亭中心如家精选酒店店)",
+      "address": "沪亭北路620号",
+      "distance": "59m"
+    },
+    {
+      "brand": "红宝石(沪亭北路店)",
+      "address": "沪亭北路646号",
+      "distance": "68m"
+    },
+    {
+      "brand": "DALNOW咖啡(九亭摩立盛汇生活广场店)",
+      "address": "沪亭北路607弄12号摩立盛汇生活广场F1层",
+      "distance": "21m"
+    },
+    {
+      "brand": "东方一串烧烤·烤鱼·鸡公煲(北九亭店)",
+      "address": "沪亭北路630号",
+      "distance": "47m"
+    },
+    {
+      "brand": "东方一串·烧烤·烤鱼·小龙虾",
+      "address": "九里亭街道沪亭北路626、628、630号一层",
+      "distance": "47m"
+    },
+    {
+      "brand": "紫燕百味鸡(上海沪亭北店)",
+      "address": "沪亭北路632号一层",
+      "distance": "49m"
+    },
+    {
+      "brand": "茶百道(上海沪亭店)",
+      "address": "松江区沪亭北路625号",
+      "distance": "50m"
+    },
+    {
+      "brand": "小熊牛肉汤馆(九城湖滨店)",
+      "address": "九城湖滨西南门旁",
+      "distance": "51m"
+    },
+    {
+      "brand": "文武王氏烧饼·无矾油条(九城湖滨店)",
+      "address": "上海城区沪亭北路622-624号",
+      "distance": "51m"
+    },
+    {
+      "brand": "留夫鸭(松江沪亭北路四店)",
+      "address": "九亭镇沪亭北路610号",
+      "distance": "55m"
+    },
+    {
+      "brand": "咖佰莉烘焙(上海虹桥国展九亭中心如家精选酒店店)",
+      "address": "沪亭北路620号",
+      "distance": "59m"
+    },
+    {
+      "brand": "红宝石(沪亭北路店)",
+      "address": "沪亭北路646号",
+      "distance": "68m"
+    },
+    {
+      "brand": "DALNOW咖啡(九亭摩立盛汇生活广场店)",
+      "address": "沪亭北路607弄12号摩立盛汇生活广场F1层",
+      "distance": "21m"
+    },
+    {
+      "brand": "东方一串烧烤·烤鱼·鸡公煲(北九亭店)",
+      "address": "沪亭北路630号",
+      "distance": "47m"
+    },
+    {
+      "brand": "东方一串·烧烤·烤鱼·小龙虾",
+      "address": "九里亭街道沪亭北路626、628、630号一层",
+      "distance": "47m"
+    },
+    {
+      "brand": "紫燕百味鸡(上海沪亭北店)",
+      "address": "沪亭北路632号一层",
+      "distance": "49m"
+    },
+    {
+      "brand": "茶百道(上海沪亭店)",
+      "address": "松江区沪亭北路625号",
+      "distance": "50m"
+    },
+    {
+      "brand": "小熊牛肉汤馆(九城湖滨店)",
+      "address": "九城湖滨西南门旁",
+      "distance": "51m"
+    },
+    {
+      "brand": "文武王氏烧饼·无矾油条(九城湖滨店)",
+      "address": "上海城区沪亭北路622-624号",
+      "distance": "51m"
+    },
+    {
+      "brand": "留夫鸭(松江沪亭北路四店)",
+      "address": "九亭镇沪亭北路610号",
+      "distance": "55m"
+    },
+    {
+      "brand": "咖佰莉烘焙(上海虹桥国展九亭中心如家精选酒店店)",
+      "address": "沪亭北路620号",
+      "distance": "59m"
+    },
+    {
+      "brand": "红宝石(沪亭北路店)",
+      "address": "沪亭北路646号",
+      "distance": "68m"
+    },
+    {
+      "brand": "DALNOW咖啡(九亭摩立盛汇生活广场店)",
+      "address": "沪亭北路607弄12号摩立盛汇生活广场F1层",
+      "distance": "21m"
+    },
+    {
+      "brand": "东方一串烧烤·烤鱼·鸡公煲(北九亭店)",
+      "address": "沪亭北路630号",
+      "distance": "47m"
+    },
+    {
+      "brand": "东方一串·烧烤·烤鱼·小龙虾",
+      "address": "九里亭街道沪亭北路626、628、630号一层",
+      "distance": "47m"
+    },
+    {
+      "brand": "紫燕百味鸡(上海沪亭北店)",
+      "address": "沪亭北路632号一层",
+      "distance": "49m"
+    },
+    {
+      "brand": "茶百道(上海沪亭店)",
+      "address": "松江区沪亭北路625号",
+      "distance": "50m"
+    },
+    {
+      "brand": "小熊牛肉汤馆(九城湖滨店)",
+      "address": "九城湖滨西南门旁",
+      "distance": "51m"
+    },
+    {
+      "brand": "文武王氏烧饼·无矾油条(九城湖滨店)",
+      "address": "上海城区沪亭北路622-624号",
+      "distance": "51m"
+    },
+    {
+      "brand": "留夫鸭(松江沪亭北路四店)",
+      "address": "九亭镇沪亭北路610号",
+      "distance": "55m"
+    },
+    {
+      "brand": "咖佰莉烘焙(上海虹桥国展九亭中心如家精选酒店店)",
+      "address": "沪亭北路620号",
+      "distance": "59m"
+    },
+    {
+      "brand": "红宝石(沪亭北路店)",
+      "address": "沪亭北路646号",
+      "distance": "68m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海贝尚坊时尚生活中心",
+      "open_date": "2010-01-01",
+      "area": "4.2万㎡",
+      "jun_daily_avg": "6.3万人次",
+      "weekday_avg": "5.8万人次",
+      "holiday_avg": "7.7万人次"
+    },
+    {
+      "name": "上海九亭金地广场",
+      "open_date": "2019-09-21",
+      "area": "8万㎡",
+      "jun_daily_avg": "6.3万人次",
+      "weekday_avg": "5.8万人次",
+      "holiday_avg": "7.7万人次"
+    },
+    {
+      "name": "上海九亭旭辉U天地",
+      "open_date": "2017-03-19",
+      "area": "4万㎡",
+      "jun_daily_avg": "1.1万人次",
+      "weekday_avg": "1.1万人次",
+      "holiday_avg": "1.1万人次"
+    },
+    {
+      "name": "佳预广场",
+      "open_date": "2022-12-18",
+      "area": "3.3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 38.0,
+      "within_1yr_pct": 21.1,
+      "1_3yr_pct": 26.3,
+      "over_3yr_pct": 52.6
+    },
+    {
+      "type": "购物",
+      "count": 20.0,
+      "within_1yr_pct": 10.0,
+      "1_3yr_pct": 45.0,
+      "over_3yr_pct": 45.0
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 13.0,
+      "within_1yr_pct": 23.1,
+      "1_3yr_pct": 23.1,
+      "over_3yr_pct": 53.8
+    },
+    {
+      "type": "教育培训",
+      "count": 22.0,
+      "within_1yr_pct": 13.6,
+      "1_3yr_pct": 45.5,
+      "over_3yr_pct": 40.9
+    },
+    {
+      "type": "生活服务",
+      "count": 45.0,
+      "within_1yr_pct": 22.2,
+      "1_3yr_pct": 37.8,
+      "over_3yr_pct": 40.0
+    },
+    {
+      "type": "运动健身",
+      "count": 6.0,
+      "within_1yr_pct": 16.7,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 83.3
+    },
+    {
+      "type": "车辆服务",
+      "count": 1.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
+    }
+  ]
+}

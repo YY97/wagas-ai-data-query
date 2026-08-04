@@ -1,0 +1,415 @@
+{
+  "name": "凯德MALL天宫院",
+  "city": "北京市",
+  "address": "北京市大兴区华佗路2号院",
+  "lat": 39.672354,
+  "lng": 116.318875,
+  "overview": {
+    "score": 94.7,
+    "score_rank": "市内前30%",
+    "population_score": 81.3,
+    "area_score": 74.3,
+    "consumption_score": 68.3,
+    "industry_score": 94.9,
+    "annual_sales": "西直门凯德MALL是一个时尚购物中心、青春时尚的集中地，吸引邻近中关村科技和高教育区、金融街和政府办公楼的专业人士和学生。",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 8.9,
+    "open_date": "2018-12-01",
+    "operator": "凯德置地（中国）投资有限公司",
+    "brand": "凯德",
+    "type": "综合型",
+    "floors": "B1-L5"
+  },
+  "traffic": {
+    "annual_daily": 3.33,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第59",
+    "jun_total": 160.0,
+    "jun_total_rank": "市内商场第41名",
+    "jun_daily_avg": 5.3,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第41名",
+    "weekday_avg": 4.8,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第41名",
+    "holiday_avg": 6.8,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第39名"
+  },
+  "population": {
+    "residential": {
+      "500m": 1.5,
+      "1_5km": 6.0,
+      "3km": 12.8
+    },
+    "office": {
+      "500m": 6300.0,
+      "1_5km": 3.0,
+      "3km": 8.2
+    },
+    "permanent": {
+      "500m": 1.7,
+      "1_5km": 5.6,
+      "3km": 11.9
+    }
+  },
+  "business": {
+    "competitors": 4.0,
+    "food": 125.0,
+    "shopping": 144.0,
+    "leisure": 21.0,
+    "education": 26.0,
+    "hotel": 3.0,
+    "services": 83.0,
+    "fitness": 26.0,
+    "auto": 10.0,
+    "total_stores": 286.0,
+    "old_store_3yr_pct": 52.0
+  },
+  "nearby_poi": {
+    "business": 2.0,
+    "community": 26.0,
+    "office": 2.0,
+    "school": 16.0,
+    "hospital": 17.0,
+    "transport": 7.0,
+    "scenic": 12.0
+  },
+  "demographics": {
+    "male_pct": 50.1,
+    "female_pct": null,
+    "education": {
+      "小学": 10.2,
+      "初中": 16.9,
+      "高中": 11.0,
+      "大专": 8.2,
+      "本科": 46.5,
+      "硕士": 6.2,
+      "博士": 1.0
+    },
+    "has_children_pct": 55.7,
+    "no_children_pct": 44.3
+  },
+  "scraped_at": "2026-08-01T04:53:12.454Z",
+  "nearby_restaurants": [
+    {
+      "brand": "咏巷炸鸡(天宫院凯德店)",
+      "address": "华佗路2号院凯德MALL·大兴B1层",
+      "distance": "5m"
+    },
+    {
+      "brand": "东方炉匠现烤牛肉干(大兴凯德店)",
+      "address": "华佗路2号B1-K20",
+      "distance": "7m"
+    },
+    {
+      "brand": "一心饭团(大兴店)",
+      "address": "北京城区华佗路2号B1-K16(天宫院地铁站A西北口步行160米)",
+      "distance": "8m"
+    },
+    {
+      "brand": "北京稻香村(凯德MALL·大兴店)",
+      "address": "天宫院凯德广场B2层永辉超市内(天宫院地铁站A西北口旁)",
+      "distance": "13m"
+    },
+    {
+      "brand": "幽兰东南亚餐厅(大兴凯德MALL店)",
+      "address": "新源大街天宫院凯德mallL6-09B",
+      "distance": "14m"
+    },
+    {
+      "brand": "茶百道(北京天宫院凯德店)",
+      "address": "北京城区北京城区华佗路2号凯德mall B1层K07号",
+      "distance": "15m"
+    },
+    {
+      "brand": "炉匠先生现烤牛肉干(大兴凯德店)",
+      "address": "华佗路2号院凯德MALL·大兴B1层",
+      "distance": "15m"
+    },
+    {
+      "brand": "大理寺过桥米线",
+      "address": "天宫院凯德mall商场b2层永辉超市门口",
+      "distance": "16m"
+    },
+    {
+      "brand": "泡泡玛特POPMART(大兴凯德1f店)",
+      "address": "华佗路2号院凯德MALL·大兴L1层",
+      "distance": "16m"
+    },
+    {
+      "brand": "一辈子串串香(凯德MALL·大兴店)",
+      "address": "凯德MALL·大兴",
+      "distance": "16m"
+    },
+    {
+      "brand": "咏巷炸鸡(天宫院凯德店)",
+      "address": "华佗路2号院凯德MALL·大兴B1层",
+      "distance": "5m"
+    },
+    {
+      "brand": "东方炉匠现烤牛肉干(大兴凯德店)",
+      "address": "华佗路2号B1-K20",
+      "distance": "7m"
+    },
+    {
+      "brand": "一心饭团(大兴店)",
+      "address": "北京城区华佗路2号B1-K16(天宫院地铁站A西北口步行160米)",
+      "distance": "8m"
+    },
+    {
+      "brand": "北京稻香村(凯德MALL·大兴店)",
+      "address": "天宫院凯德广场B2层永辉超市内(天宫院地铁站A西北口旁)",
+      "distance": "13m"
+    },
+    {
+      "brand": "幽兰东南亚餐厅(大兴凯德MALL店)",
+      "address": "新源大街天宫院凯德mallL6-09B",
+      "distance": "14m"
+    },
+    {
+      "brand": "茶百道(北京天宫院凯德店)",
+      "address": "北京城区北京城区华佗路2号凯德mall B1层K07号",
+      "distance": "15m"
+    },
+    {
+      "brand": "炉匠先生现烤牛肉干(大兴凯德店)",
+      "address": "华佗路2号院凯德MALL·大兴B1层",
+      "distance": "15m"
+    },
+    {
+      "brand": "大理寺过桥米线",
+      "address": "天宫院凯德mall商场b2层永辉超市门口",
+      "distance": "16m"
+    },
+    {
+      "brand": "泡泡玛特POPMART(大兴凯德1f店)",
+      "address": "华佗路2号院凯德MALL·大兴L1层",
+      "distance": "16m"
+    },
+    {
+      "brand": "一辈子串串香(凯德MALL·大兴店)",
+      "address": "凯德MALL·大兴",
+      "distance": "16m"
+    },
+    {
+      "brand": "咏巷炸鸡(天宫院凯德店)",
+      "address": "华佗路2号院凯德MALL·大兴B1层",
+      "distance": "5m"
+    },
+    {
+      "brand": "东方炉匠现烤牛肉干(大兴凯德店)",
+      "address": "华佗路2号B1-K20",
+      "distance": "7m"
+    },
+    {
+      "brand": "一心饭团(大兴店)",
+      "address": "北京城区华佗路2号B1-K16(天宫院地铁站A西北口步行160米)",
+      "distance": "8m"
+    },
+    {
+      "brand": "北京稻香村(凯德MALL·大兴店)",
+      "address": "天宫院凯德广场B2层永辉超市内(天宫院地铁站A西北口旁)",
+      "distance": "13m"
+    },
+    {
+      "brand": "幽兰东南亚餐厅(大兴凯德MALL店)",
+      "address": "新源大街天宫院凯德mallL6-09B",
+      "distance": "14m"
+    },
+    {
+      "brand": "茶百道(北京天宫院凯德店)",
+      "address": "北京城区北京城区华佗路2号凯德mall B1层K07号",
+      "distance": "15m"
+    },
+    {
+      "brand": "炉匠先生现烤牛肉干(大兴凯德店)",
+      "address": "华佗路2号院凯德MALL·大兴B1层",
+      "distance": "15m"
+    },
+    {
+      "brand": "大理寺过桥米线",
+      "address": "天宫院凯德mall商场b2层永辉超市门口",
+      "distance": "16m"
+    },
+    {
+      "brand": "泡泡玛特POPMART(大兴凯德1f店)",
+      "address": "华佗路2号院凯德MALL·大兴L1层",
+      "distance": "16m"
+    },
+    {
+      "brand": "一辈子串串香(凯德MALL·大兴店)",
+      "address": "凯德MALL·大兴",
+      "distance": "16m"
+    },
+    {
+      "brand": "咏巷炸鸡(天宫院凯德店)",
+      "address": "华佗路2号院凯德MALL·大兴B1层",
+      "distance": "5m"
+    },
+    {
+      "brand": "东方炉匠现烤牛肉干(大兴凯德店)",
+      "address": "华佗路2号B1-K20",
+      "distance": "7m"
+    },
+    {
+      "brand": "一心饭团(大兴店)",
+      "address": "北京城区华佗路2号B1-K16(天宫院地铁站A西北口步行160米)",
+      "distance": "8m"
+    },
+    {
+      "brand": "北京稻香村(凯德MALL·大兴店)",
+      "address": "天宫院凯德广场B2层永辉超市内(天宫院地铁站A西北口旁)",
+      "distance": "13m"
+    },
+    {
+      "brand": "幽兰东南亚餐厅(大兴凯德MALL店)",
+      "address": "新源大街天宫院凯德mallL6-09B",
+      "distance": "14m"
+    },
+    {
+      "brand": "茶百道(北京天宫院凯德店)",
+      "address": "北京城区北京城区华佗路2号凯德mall B1层K07号",
+      "distance": "15m"
+    },
+    {
+      "brand": "炉匠先生现烤牛肉干(大兴凯德店)",
+      "address": "华佗路2号院凯德MALL·大兴B1层",
+      "distance": "15m"
+    },
+    {
+      "brand": "大理寺过桥米线",
+      "address": "天宫院凯德mall商场b2层永辉超市门口",
+      "distance": "16m"
+    },
+    {
+      "brand": "泡泡玛特POPMART(大兴凯德1f店)",
+      "address": "华佗路2号院凯德MALL·大兴L1层",
+      "distance": "16m"
+    },
+    {
+      "brand": "一辈子串串香(凯德MALL·大兴店)",
+      "address": "凯德MALL·大兴",
+      "distance": "16m"
+    },
+    {
+      "brand": "咏巷炸鸡(天宫院凯德店)",
+      "address": "华佗路2号院凯德MALL·大兴B1层",
+      "distance": "5m"
+    },
+    {
+      "brand": "东方炉匠现烤牛肉干(大兴凯德店)",
+      "address": "华佗路2号B1-K20",
+      "distance": "7m"
+    },
+    {
+      "brand": "一心饭团(大兴店)",
+      "address": "北京城区华佗路2号B1-K16(天宫院地铁站A西北口步行160米)",
+      "distance": "8m"
+    },
+    {
+      "brand": "北京稻香村(凯德MALL·大兴店)",
+      "address": "天宫院凯德广场B2层永辉超市内(天宫院地铁站A西北口旁)",
+      "distance": "13m"
+    },
+    {
+      "brand": "幽兰东南亚餐厅(大兴凯德MALL店)",
+      "address": "新源大街天宫院凯德mallL6-09B",
+      "distance": "14m"
+    },
+    {
+      "brand": "茶百道(北京天宫院凯德店)",
+      "address": "北京城区北京城区华佗路2号凯德mall B1层K07号",
+      "distance": "15m"
+    },
+    {
+      "brand": "炉匠先生现烤牛肉干(大兴凯德店)",
+      "address": "华佗路2号院凯德MALL·大兴B1层",
+      "distance": "15m"
+    },
+    {
+      "brand": "大理寺过桥米线",
+      "address": "天宫院凯德mall商场b2层永辉超市门口",
+      "distance": "16m"
+    },
+    {
+      "brand": "泡泡玛特POPMART(大兴凯德1f店)",
+      "address": "华佗路2号院凯德MALL·大兴L1层",
+      "distance": "16m"
+    },
+    {
+      "brand": "一辈子串串香(凯德MALL·大兴店)",
+      "address": "凯德MALL·大兴",
+      "distance": "16m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "北京住总正华时代广场",
+      "open_date": "2017-01-01",
+      "area": "2.9万㎡",
+      "jun_daily_avg": "7.6万人次",
+      "weekday_avg": "7.2万人次",
+      "holiday_avg": "8.9万人次"
+    },
+    {
+      "name": "龙湖北京大兴天街",
+      "open_date": "2016-07-01",
+      "area": "15万㎡",
+      "jun_daily_avg": "7.6万人次",
+      "weekday_avg": "7.2万人次",
+      "holiday_avg": "8.9万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 95.0,
+      "within_1yr_pct": 24.2,
+      "1_3yr_pct": 23.2,
+      "over_3yr_pct": 52.6
+    },
+    {
+      "type": "购物",
+      "count": 108.0,
+      "within_1yr_pct": 23.1,
+      "1_3yr_pct": 18.5,
+      "over_3yr_pct": 58.3
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 20.0,
+      "within_1yr_pct": 30.0,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 45.0
+    },
+    {
+      "type": "教育培训",
+      "count": 11.0,
+      "within_1yr_pct": 36.4,
+      "1_3yr_pct": 27.3,
+      "over_3yr_pct": 36.4
+    },
+    {
+      "type": "生活服务",
+      "count": 29.0,
+      "within_1yr_pct": 24.1,
+      "1_3yr_pct": 31.0,
+      "over_3yr_pct": 44.8
+    },
+    {
+      "type": "运动健身",
+      "count": 18.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 16.7,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 5.0,
+      "within_1yr_pct": 40.0,
+      "1_3yr_pct": 20.0,
+      "over_3yr_pct": 40.0
+    }
+  ]
+}

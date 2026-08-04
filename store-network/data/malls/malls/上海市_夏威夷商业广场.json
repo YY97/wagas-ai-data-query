@@ -1,0 +1,200 @@
+{
+  "name": "夏威夷商业广场",
+  "city": "上海市",
+  "address": "上海市浦东新区北蔡镇大华·锦绣华城(北区)大华锦绣华城十二街区",
+  "lat": 31.181795,
+  "lng": 121.539294,
+  "overview": {
+    "score": 85.8,
+    "score_rank": "市内前30%",
+    "population_score": 89.2,
+    "area_score": 71.1,
+    "consumption_score": 76.6,
+    "industry_score": 85.9,
+    "annual_sales": "",
+    "annual_sales_unit": "",
+    "area_size_sqm": null,
+    "open_date": "",
+    "operator": "",
+    "brand": "",
+    "type": "",
+    "floors": ""
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "",
+    "annual_daily_rank": "",
+    "jun_total": null,
+    "jun_total_rank": "",
+    "jun_daily_avg": null,
+    "jun_daily_unit": "",
+    "jun_daily_rank": "",
+    "weekday_avg": null,
+    "weekday_unit": "",
+    "weekday_rank": "",
+    "holiday_avg": null,
+    "holiday_unit": "",
+    "holiday_rank": ""
+  },
+  "population": {
+    "residential": {
+      "500m": 2.4,
+      "1_5km": 19.4,
+      "3km": 71.2
+    },
+    "office": {
+      "500m": 1.0,
+      "1_5km": 7.0,
+      "3km": 26.3
+    },
+    "permanent": {
+      "500m": 2.5,
+      "1_5km": 19.2,
+      "3km": 69.5
+    }
+  },
+  "business": {
+    "competitors": 5.0,
+    "food": 119.0,
+    "shopping": 96.0,
+    "leisure": 9.0,
+    "education": 46.0,
+    "hotel": 5.0,
+    "services": 107.0,
+    "fitness": 18.0,
+    "auto": 3.0,
+    "total_stores": 404.0,
+    "old_store_3yr_pct": 56.0
+  },
+  "nearby_poi": {
+    "business": 5.0,
+    "community": 378.0,
+    "office": 5.0,
+    "school": 24.0,
+    "hospital": 54.0,
+    "transport": 7.0,
+    "scenic": 72.0
+  },
+  "demographics": {
+    "male_pct": 47.3,
+    "female_pct": null,
+    "education": {
+      "小学": 8.8,
+      "初中": 16.0,
+      "高中": 10.6,
+      "大专": 7.2,
+      "本科": 48.6,
+      "硕士": 7.0,
+      "博士": 1.8
+    },
+    "has_children_pct": null,
+    "no_children_pct": null
+  },
+  "scraped_at": "2026-08-02T03:31:21.648Z",
+  "nearby_restaurants": [
+    {
+      "brand": "非人类鲜调鸡尾酒(成山路店)",
+      "address": "成山路2355-2357单号2层(海上国际花园南门)",
+      "distance": "479m"
+    },
+    {
+      "brand": "玩儿串串",
+      "address": "巴黎春天成山店B1层",
+      "distance": "480m"
+    },
+    {
+      "brand": "煲仔皇(巴黎春天店)",
+      "address": "成山路1993号巴黎春天(成山店)B1层",
+      "distance": "485m"
+    },
+    {
+      "brand": "鲜山季·野山菌火锅(巴黎春天成山店)",
+      "address": "成山路巴黎春天",
+      "distance": "489m"
+    },
+    {
+      "brand": "第六味早餐点心(莲园路店)",
+      "address": "北蔡镇莲园路天之菜市场第六味早餐店",
+      "distance": "490m"
+    },
+    {
+      "brand": "天之海派烤鸭",
+      "address": "北艾路与锦绣路交叉口东北60米",
+      "distance": "492m"
+    },
+    {
+      "brand": "前阳邨铁锅炖烀饼·东北菜(巴黎春天成山店)(暂停营业)",
+      "address": "巴黎春天B1层208室(下南路地铁站3号口步行450米)",
+      "distance": "496m"
+    },
+    {
+      "brand": "重庆高老九火锅(成山巴黎春天)",
+      "address": "成山路1993号巴黎春天B1",
+      "distance": "498m"
+    },
+    {
+      "brand": "绿茶餐厅(上海成山路巴黎春天店)",
+      "address": "成山路与锦尊路交叉口东120米",
+      "distance": "499m"
+    }
+  ],
+  "nearby_malls": [],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 119.0,
+      "within_1yr_pct": 12.6,
+      "1_3yr_pct": 31.1,
+      "over_3yr_pct": 56.3
+    },
+    {
+      "type": "购物",
+      "count": 96.0,
+      "within_1yr_pct": 18.8,
+      "1_3yr_pct": 20.8,
+      "over_3yr_pct": 60.4
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 10.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 30.0,
+      "over_3yr_pct": 20.0
+    },
+    {
+      "type": "教育培训",
+      "count": 46.0,
+      "within_1yr_pct": 28.3,
+      "1_3yr_pct": 26.1,
+      "over_3yr_pct": 45.7
+    },
+    {
+      "type": "酒店住宿",
+      "count": 5.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 40.0,
+      "over_3yr_pct": 40.0
+    },
+    {
+      "type": "生活服务",
+      "count": 107.0,
+      "within_1yr_pct": 18.7,
+      "1_3yr_pct": 21.5,
+      "over_3yr_pct": 59.8
+    },
+    {
+      "type": "运动健身",
+      "count": 18.0,
+      "within_1yr_pct": 5.6,
+      "1_3yr_pct": 27.8,
+      "over_3yr_pct": 66.7
+    },
+    {
+      "type": "车辆服务",
+      "count": 3.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 33.3
+    }
+  ]
+}

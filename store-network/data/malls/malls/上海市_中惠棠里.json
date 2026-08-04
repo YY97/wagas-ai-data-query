@@ -1,0 +1,465 @@
+{
+  "name": "中惠棠里",
+  "city": "上海市",
+  "address": "北京市海淀区清河街道清河百货商场",
+  "lat": null,
+  "lng": null,
+  "overview": {
+    "score": 73.2,
+    "score_rank": "市内前50%",
+    "population_score": 98.1,
+    "area_score": 75.0,
+    "consumption_score": 77.7,
+    "industry_score": 73.1,
+    "annual_sales": "清河老街区两层传统百货，主营百货、针纺、日杂等，服务周边居民。",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 3000.0,
+    "open_date": "",
+    "operator": "北京市海淀区百货公司",
+    "brand": "",
+    "type": "综合型",
+    "floors": "L1-L2"
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "-",
+    "annual_daily_rank": "",
+    "jun_total": null,
+    "jun_total_rank": "",
+    "jun_daily_avg": null,
+    "jun_daily_unit": "",
+    "jun_daily_rank": "",
+    "weekday_avg": null,
+    "weekday_unit": "",
+    "weekday_rank": "",
+    "holiday_avg": null,
+    "holiday_unit": "",
+    "holiday_rank": ""
+  },
+  "population": {
+    "residential": {
+      "500m": 3.4,
+      "1_5km": 17.5,
+      "3km": 56.1
+    },
+    "office": {
+      "500m": 1.3,
+      "1_5km": 7.4,
+      "3km": 28.4
+    },
+    "permanent": {
+      "500m": 3.1,
+      "1_5km": 16.0,
+      "3km": 51.7
+    }
+  },
+  "business": {
+    "competitors": null,
+    "food": 142.0,
+    "shopping": 70.0,
+    "leisure": 9.0,
+    "education": 30.0,
+    "hotel": 18.0,
+    "services": 88.0,
+    "fitness": 28.0,
+    "auto": 1.0,
+    "total_stores": 30.0,
+    "old_store_3yr_pct": 37.0
+  },
+  "nearby_poi": {
+    "business": 3.0,
+    "community": 261.0,
+    "office": 27.0,
+    "school": 39.0,
+    "hospital": 47.0,
+    "transport": 5.0,
+    "scenic": 72.0
+  },
+  "demographics": {
+    "male_pct": null,
+    "female_pct": null,
+    "education": {
+      "小学": 6.1,
+      "初中": 12.9,
+      "高中": 17.5,
+      "大专": 3.7,
+      "本科": 45.5,
+      "硕士": 10.5,
+      "博士": 3.8
+    },
+    "has_children_pct": 55.6,
+    "no_children_pct": 44.4
+  },
+  "scraped_at": "2026-08-01T10:21:55.093Z",
+  "nearby_restaurants": [
+    {
+      "brand": "晨燕烧烤·卷饼",
+      "address": "清河中街辅路与清文路交叉口西100米",
+      "distance": "2m"
+    },
+    {
+      "brand": "粒上皇(北京海淀清河店)",
+      "address": "清河三街98号清河百货商场一层",
+      "distance": "2m"
+    },
+    {
+      "brand": "酥本味(清河中街店)",
+      "address": "清河百货商场南门旁",
+      "distance": "2m"
+    },
+    {
+      "brand": "布符(清河百货商场店)",
+      "address": "清河中街辅路与清文路交叉口西100米",
+      "distance": "8m"
+    },
+    {
+      "brand": "luckin coffee 瑞幸咖啡(清河百货商场店)",
+      "address": "清河三街98号清河百货商场F1层",
+      "distance": "10m"
+    },
+    {
+      "brand": "肯德基(清河百货店)",
+      "address": "北京城区清河三街98号一层西第三间",
+      "distance": "13m"
+    },
+    {
+      "brand": "肯悦咖啡清河百货(装修中)",
+      "address": "清河三街98号一层西起第三间",
+      "distance": "14m"
+    },
+    {
+      "brand": "青悦咖啡(清河百货商场店)",
+      "address": "清河三街98号清河百货商场",
+      "distance": "14m"
+    },
+    {
+      "brand": "宏祥南门铜锅炭火涮肉·烧烤(清河店)",
+      "address": "清河三街98号清河百货商场2层208号",
+      "distance": "19m"
+    },
+    {
+      "brand": "南城香(清河店)",
+      "address": "北京城区清河三街98号1层102",
+      "distance": "23m"
+    },
+    {
+      "brand": "晨燕烧烤·卷饼",
+      "address": "清河中街辅路与清文路交叉口西100米",
+      "distance": "2m"
+    },
+    {
+      "brand": "粒上皇(北京海淀清河店)",
+      "address": "清河三街98号清河百货商场一层",
+      "distance": "2m"
+    },
+    {
+      "brand": "酥本味(清河中街店)",
+      "address": "清河百货商场南门旁",
+      "distance": "2m"
+    },
+    {
+      "brand": "布符(清河百货商场店)",
+      "address": "清河中街辅路与清文路交叉口西100米",
+      "distance": "8m"
+    },
+    {
+      "brand": "luckin coffee 瑞幸咖啡(清河百货商场店)",
+      "address": "清河三街98号清河百货商场F1层",
+      "distance": "10m"
+    },
+    {
+      "brand": "肯德基(清河百货店)",
+      "address": "北京城区清河三街98号一层西第三间",
+      "distance": "13m"
+    },
+    {
+      "brand": "肯悦咖啡清河百货(装修中)",
+      "address": "清河三街98号一层西起第三间",
+      "distance": "14m"
+    },
+    {
+      "brand": "青悦咖啡(清河百货商场店)",
+      "address": "清河三街98号清河百货商场",
+      "distance": "14m"
+    },
+    {
+      "brand": "宏祥南门铜锅炭火涮肉·烧烤(清河店)",
+      "address": "清河三街98号清河百货商场2层208号",
+      "distance": "19m"
+    },
+    {
+      "brand": "南城香(清河店)",
+      "address": "北京城区清河三街98号1层102",
+      "distance": "23m"
+    },
+    {
+      "brand": "晨燕烧烤·卷饼",
+      "address": "清河中街辅路与清文路交叉口西100米",
+      "distance": "2m"
+    },
+    {
+      "brand": "粒上皇(北京海淀清河店)",
+      "address": "清河三街98号清河百货商场一层",
+      "distance": "2m"
+    },
+    {
+      "brand": "酥本味(清河中街店)",
+      "address": "清河百货商场南门旁",
+      "distance": "2m"
+    },
+    {
+      "brand": "布符(清河百货商场店)",
+      "address": "清河中街辅路与清文路交叉口西100米",
+      "distance": "8m"
+    },
+    {
+      "brand": "luckin coffee 瑞幸咖啡(清河百货商场店)",
+      "address": "清河三街98号清河百货商场F1层",
+      "distance": "10m"
+    },
+    {
+      "brand": "肯德基(清河百货店)",
+      "address": "北京城区清河三街98号一层西第三间",
+      "distance": "13m"
+    },
+    {
+      "brand": "肯悦咖啡清河百货(装修中)",
+      "address": "清河三街98号一层西起第三间",
+      "distance": "14m"
+    },
+    {
+      "brand": "青悦咖啡(清河百货商场店)",
+      "address": "清河三街98号清河百货商场",
+      "distance": "14m"
+    },
+    {
+      "brand": "宏祥南门铜锅炭火涮肉·烧烤(清河店)",
+      "address": "清河三街98号清河百货商场2层208号",
+      "distance": "19m"
+    },
+    {
+      "brand": "南城香(清河店)",
+      "address": "北京城区清河三街98号1层102",
+      "distance": "23m"
+    },
+    {
+      "brand": "晨燕烧烤·卷饼",
+      "address": "清河中街辅路与清文路交叉口西100米",
+      "distance": "2m"
+    },
+    {
+      "brand": "粒上皇(北京海淀清河店)",
+      "address": "清河三街98号清河百货商场一层",
+      "distance": "2m"
+    },
+    {
+      "brand": "酥本味(清河中街店)",
+      "address": "清河百货商场南门旁",
+      "distance": "2m"
+    },
+    {
+      "brand": "布符(清河百货商场店)",
+      "address": "清河中街辅路与清文路交叉口西100米",
+      "distance": "8m"
+    },
+    {
+      "brand": "luckin coffee 瑞幸咖啡(清河百货商场店)",
+      "address": "清河三街98号清河百货商场F1层",
+      "distance": "10m"
+    },
+    {
+      "brand": "肯德基(清河百货店)",
+      "address": "北京城区清河三街98号一层西第三间",
+      "distance": "13m"
+    },
+    {
+      "brand": "肯悦咖啡清河百货(装修中)",
+      "address": "清河三街98号一层西起第三间",
+      "distance": "14m"
+    },
+    {
+      "brand": "青悦咖啡(清河百货商场店)",
+      "address": "清河三街98号清河百货商场",
+      "distance": "14m"
+    },
+    {
+      "brand": "宏祥南门铜锅炭火涮肉·烧烤(清河店)",
+      "address": "清河三街98号清河百货商场2层208号",
+      "distance": "19m"
+    },
+    {
+      "brand": "南城香(清河店)",
+      "address": "北京城区清河三街98号1层102",
+      "distance": "23m"
+    },
+    {
+      "brand": "晨燕烧烤·卷饼",
+      "address": "清河中街辅路与清文路交叉口西100米",
+      "distance": "2m"
+    },
+    {
+      "brand": "粒上皇(北京海淀清河店)",
+      "address": "清河三街98号清河百货商场一层",
+      "distance": "2m"
+    },
+    {
+      "brand": "酥本味(清河中街店)",
+      "address": "清河百货商场南门旁",
+      "distance": "2m"
+    },
+    {
+      "brand": "布符(清河百货商场店)",
+      "address": "清河中街辅路与清文路交叉口西100米",
+      "distance": "8m"
+    },
+    {
+      "brand": "luckin coffee 瑞幸咖啡(清河百货商场店)",
+      "address": "清河三街98号清河百货商场F1层",
+      "distance": "10m"
+    },
+    {
+      "brand": "肯德基(清河百货店)",
+      "address": "北京城区清河三街98号一层西第三间",
+      "distance": "13m"
+    },
+    {
+      "brand": "肯悦咖啡清河百货(装修中)",
+      "address": "清河三街98号一层西起第三间",
+      "distance": "14m"
+    },
+    {
+      "brand": "青悦咖啡(清河百货商场店)",
+      "address": "清河三街98号清河百货商场",
+      "distance": "14m"
+    },
+    {
+      "brand": "宏祥南门铜锅炭火涮肉·烧烤(清河店)",
+      "address": "清河三街98号清河百货商场2层208号",
+      "distance": "19m"
+    },
+    {
+      "brand": "南城香(清河店)",
+      "address": "北京城区清河三街98号1层102",
+      "distance": "23m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "北京王府井工美大厦",
+      "open_date": "1996-07-01",
+      "area": "2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "王府井喜悦购物中心",
+      "open_date": "2023-12-30",
+      "area": "7万㎡",
+      "jun_daily_avg": "6.1万人次",
+      "weekday_avg": "5.2万人次",
+      "holiday_avg": "8.5万人次"
+    },
+    {
+      "name": "北京APM",
+      "open_date": "2008-01-01",
+      "area": "9万㎡",
+      "jun_daily_avg": "8.5万人次",
+      "weekday_avg": "7.5万人次",
+      "holiday_avg": "11.1万人次"
+    },
+    {
+      "name": "北京王府中环",
+      "open_date": "2018-05-29",
+      "area": "4.3万㎡",
+      "jun_daily_avg": "3.7万人次",
+      "weekday_avg": "3.2万人次",
+      "holiday_avg": "5万人次"
+    },
+    {
+      "name": "北京市百货大楼",
+      "open_date": "1955-09-01",
+      "area": "1.8万㎡",
+      "jun_daily_avg": "4.4万人次",
+      "weekday_avg": "3.9万人次",
+      "holiday_avg": "5.7万人次"
+    },
+    {
+      "name": "北京澳门中心",
+      "open_date": "2008-01-01",
+      "area": "8.8万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "北京淘汇新天购物中心",
+      "open_date": "2014-02-16",
+      "area": "3.8万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "北京银泰in88",
+      "open_date": "2018-01-01",
+      "area": "3万㎡",
+      "jun_daily_avg": "1.4万人次",
+      "weekday_avg": "1.2万人次",
+      "holiday_avg": "1.9万人次"
+    },
+    {
+      "name": "北京金宝汇购物中心",
+      "open_date": "2009-05-01",
+      "area": "4万㎡",
+      "jun_daily_avg": "1.3万人次",
+      "weekday_avg": "1.3万人次",
+      "holiday_avg": "1.4万人次"
+    },
+    {
+      "name": "北京利生体育商厦",
+      "open_date": "1996-11-25",
+      "area": "1.2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 13.0,
+      "within_1yr_pct": 23.1,
+      "1_3yr_pct": 46.2,
+      "over_3yr_pct": 30.8
+    },
+    {
+      "type": "购物",
+      "count": 10.0,
+      "within_1yr_pct": 30.0,
+      "1_3yr_pct": 20.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 1.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "生活服务",
+      "count": 5.0,
+      "within_1yr_pct": 40.0,
+      "1_3yr_pct": 40.0,
+      "over_3yr_pct": 20.0
+    },
+    {
+      "type": "运动健身",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    }
+  ]
+}

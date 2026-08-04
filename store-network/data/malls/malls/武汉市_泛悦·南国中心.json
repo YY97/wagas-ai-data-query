@@ -1,0 +1,486 @@
+{
+  "name": "泛悦·南国中心",
+  "city": "武汉市",
+  "address": "湖北省武汉市江汉区西马后路28号",
+  "lat": 30.584986,
+  "lng": 114.282036,
+  "overview": {
+    "score": 88.6,
+    "score_rank": "市内前30%",
+    "population_score": 93.2,
+    "area_score": 90.6,
+    "consumption_score": 83.7,
+    "industry_score": 88.6,
+    "annual_sales": "云尚·武汉国际时尚中心位于武汉市硚口区中山大道388号，是一座集购物、餐饮、娱乐、办公等功能于一体的商业综合体。项目总体量约18万平方米，拥有众多国际一线品牌的旗舰店、百货店、餐厅等业态，是武汉市的地标性建筑之一。项目定位为“原创服装采批中心”，旨在打造一座涵盖服装产业研发、智造、生产、商贸、展示、办公全产业链的生态平台。云尚·武汉国际时尚中心由武汉复星汉正街房地产开发有限公司开发，是复星快乐时尚产业旗舰平台豫园股份旗下云尚产业控股匠心智造的项目。",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 18.0,
+    "open_date": "2019-08-01",
+    "operator": "大洋晶典商业集团有限公司",
+    "brand": "南国置业",
+    "type": "综合型",
+    "floors": "B2-L6"
+  },
+  "traffic": {
+    "annual_daily": 8603.0,
+    "annual_daily_unit": "人次",
+    "annual_daily_rank": "市内第106",
+    "jun_total": 71.4,
+    "jun_total_rank": "市内商场第73名",
+    "jun_daily_avg": 2.4,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第73名",
+    "weekday_avg": 2.2,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第72名",
+    "holiday_avg": 2.8,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第75名"
+  },
+  "population": {
+    "residential": {
+      "500m": 3.1,
+      "1_5km": 24.6,
+      "3km": 72.7
+    },
+    "office": {
+      "500m": 2.4,
+      "1_5km": 17.9,
+      "3km": 55.3
+    },
+    "permanent": {
+      "500m": 3.9,
+      "1_5km": 28.3,
+      "3km": 77.6
+    }
+  },
+  "business": {
+    "competitors": 9.0,
+    "food": 427.0,
+    "shopping": 373.0,
+    "leisure": 106.0,
+    "education": 36.0,
+    "hotel": 96.0,
+    "services": 261.0,
+    "fitness": 31.0,
+    "auto": 13.0,
+    "total_stores": 105.0,
+    "old_store_3yr_pct": 29.0
+  },
+  "nearby_poi": {
+    "business": 19.0,
+    "community": 642.0,
+    "office": 114.0,
+    "school": 65.0,
+    "hospital": 162.0,
+    "transport": 10.0,
+    "scenic": 531.0
+  },
+  "demographics": {
+    "male_pct": 51.7,
+    "female_pct": null,
+    "education": {
+      "小学": 11.9,
+      "初中": 18.8,
+      "高中": 12.7,
+      "大专": 7.9,
+      "本科": 43.7,
+      "硕士": 3.8,
+      "博士": 1.2
+    },
+    "has_children_pct": 57.9,
+    "no_children_pct": 42.1
+  },
+  "scraped_at": "2026-08-02T11:00:22.421Z",
+  "nearby_restaurants": [
+    {
+      "brand": "半秋山(汉口南国中心店)",
+      "address": "解放大道路1385号泛悦南国中心二期B-F4",
+      "distance": "18m"
+    },
+    {
+      "brand": "果梦令·鲜榨果汁",
+      "address": "泛悦·南国大洋中心B馆1楼中厅(正对8号门)",
+      "distance": "21m"
+    },
+    {
+      "brand": "星巴克武汉大洋中心店",
+      "address": "解放大道1385号",
+      "distance": "25m"
+    },
+    {
+      "brand": "CHAGEE霸王茶姬(湖北武汉大洋中心店)",
+      "address": "江汉大道669号泛悦·南国中心二期购物中心F1层",
+      "distance": "26m"
+    },
+    {
+      "brand": "老武汉大食堂",
+      "address": "解放大道1381号泛悦·南国中心二期",
+      "distance": "35m"
+    },
+    {
+      "brand": "LunaMu-慕上餐厅",
+      "address": "新华街道解放大道大洋中心1381号B馆1F-023(星巴克旁边)",
+      "distance": "37m"
+    },
+    {
+      "brand": "茶港·点心·啫啫(泛悦·南国中心购物中心店)",
+      "address": "泛悦南国中心二期购物中心4楼茶港",
+      "distance": "39m"
+    },
+    {
+      "brand": "Manner Coffee(泛悦·南国中心店)",
+      "address": "解放大道1381号循礼门大洋中心B馆1楼5号门",
+      "distance": "40m"
+    },
+    {
+      "brand": "小户人家湖北菜馆(泛悦·南国中心二期购物中心店)",
+      "address": "解放大道1385号泛悦·南国中心(二期)B-F4-022、B-F4-023",
+      "distance": "63m"
+    },
+    {
+      "brand": "棠拾壹小馆(武汉泛悦·南国中心店)",
+      "address": "泛悦·南国中心B馆1楼(6号门入口处)",
+      "distance": "71m"
+    },
+    {
+      "brand": "半秋山(汉口南国中心店)",
+      "address": "解放大道路1385号泛悦南国中心二期B-F4",
+      "distance": "18m"
+    },
+    {
+      "brand": "果梦令·鲜榨果汁",
+      "address": "泛悦·南国大洋中心B馆1楼中厅(正对8号门)",
+      "distance": "21m"
+    },
+    {
+      "brand": "星巴克武汉大洋中心店",
+      "address": "解放大道1385号",
+      "distance": "25m"
+    },
+    {
+      "brand": "CHAGEE霸王茶姬(湖北武汉大洋中心店)",
+      "address": "江汉大道669号泛悦·南国中心二期购物中心F1层",
+      "distance": "26m"
+    },
+    {
+      "brand": "老武汉大食堂",
+      "address": "解放大道1381号泛悦·南国中心二期",
+      "distance": "35m"
+    },
+    {
+      "brand": "LunaMu-慕上餐厅",
+      "address": "新华街道解放大道大洋中心1381号B馆1F-023(星巴克旁边)",
+      "distance": "37m"
+    },
+    {
+      "brand": "茶港·点心·啫啫(泛悦·南国中心购物中心店)",
+      "address": "泛悦南国中心二期购物中心4楼茶港",
+      "distance": "39m"
+    },
+    {
+      "brand": "Manner Coffee(泛悦·南国中心店)",
+      "address": "解放大道1381号循礼门大洋中心B馆1楼5号门",
+      "distance": "40m"
+    },
+    {
+      "brand": "小户人家湖北菜馆(泛悦·南国中心二期购物中心店)",
+      "address": "解放大道1385号泛悦·南国中心(二期)B-F4-022、B-F4-023",
+      "distance": "63m"
+    },
+    {
+      "brand": "棠拾壹小馆(武汉泛悦·南国中心店)",
+      "address": "泛悦·南国中心B馆1楼(6号门入口处)",
+      "distance": "71m"
+    },
+    {
+      "brand": "半秋山(汉口南国中心店)",
+      "address": "解放大道路1385号泛悦南国中心二期B-F4",
+      "distance": "18m"
+    },
+    {
+      "brand": "果梦令·鲜榨果汁",
+      "address": "泛悦·南国大洋中心B馆1楼中厅(正对8号门)",
+      "distance": "21m"
+    },
+    {
+      "brand": "星巴克武汉大洋中心店",
+      "address": "解放大道1385号",
+      "distance": "25m"
+    },
+    {
+      "brand": "CHAGEE霸王茶姬(湖北武汉大洋中心店)",
+      "address": "江汉大道669号泛悦·南国中心二期购物中心F1层",
+      "distance": "26m"
+    },
+    {
+      "brand": "老武汉大食堂",
+      "address": "解放大道1381号泛悦·南国中心二期",
+      "distance": "35m"
+    },
+    {
+      "brand": "LunaMu-慕上餐厅",
+      "address": "新华街道解放大道大洋中心1381号B馆1F-023(星巴克旁边)",
+      "distance": "37m"
+    },
+    {
+      "brand": "茶港·点心·啫啫(泛悦·南国中心购物中心店)",
+      "address": "泛悦南国中心二期购物中心4楼茶港",
+      "distance": "39m"
+    },
+    {
+      "brand": "Manner Coffee(泛悦·南国中心店)",
+      "address": "解放大道1381号循礼门大洋中心B馆1楼5号门",
+      "distance": "40m"
+    },
+    {
+      "brand": "小户人家湖北菜馆(泛悦·南国中心二期购物中心店)",
+      "address": "解放大道1385号泛悦·南国中心(二期)B-F4-022、B-F4-023",
+      "distance": "63m"
+    },
+    {
+      "brand": "棠拾壹小馆(武汉泛悦·南国中心店)",
+      "address": "泛悦·南国中心B馆1楼(6号门入口处)",
+      "distance": "71m"
+    },
+    {
+      "brand": "半秋山(汉口南国中心店)",
+      "address": "解放大道路1385号泛悦南国中心二期B-F4",
+      "distance": "18m"
+    },
+    {
+      "brand": "果梦令·鲜榨果汁",
+      "address": "泛悦·南国大洋中心B馆1楼中厅(正对8号门)",
+      "distance": "21m"
+    },
+    {
+      "brand": "星巴克武汉大洋中心店",
+      "address": "解放大道1385号",
+      "distance": "25m"
+    },
+    {
+      "brand": "CHAGEE霸王茶姬(湖北武汉大洋中心店)",
+      "address": "江汉大道669号泛悦·南国中心二期购物中心F1层",
+      "distance": "26m"
+    },
+    {
+      "brand": "老武汉大食堂",
+      "address": "解放大道1381号泛悦·南国中心二期",
+      "distance": "35m"
+    },
+    {
+      "brand": "LunaMu-慕上餐厅",
+      "address": "新华街道解放大道大洋中心1381号B馆1F-023(星巴克旁边)",
+      "distance": "37m"
+    },
+    {
+      "brand": "茶港·点心·啫啫(泛悦·南国中心购物中心店)",
+      "address": "泛悦南国中心二期购物中心4楼茶港",
+      "distance": "39m"
+    },
+    {
+      "brand": "Manner Coffee(泛悦·南国中心店)",
+      "address": "解放大道1381号循礼门大洋中心B馆1楼5号门",
+      "distance": "40m"
+    },
+    {
+      "brand": "小户人家湖北菜馆(泛悦·南国中心二期购物中心店)",
+      "address": "解放大道1385号泛悦·南国中心(二期)B-F4-022、B-F4-023",
+      "distance": "63m"
+    },
+    {
+      "brand": "棠拾壹小馆(武汉泛悦·南国中心店)",
+      "address": "泛悦·南国中心B馆1楼(6号门入口处)",
+      "distance": "71m"
+    },
+    {
+      "brand": "半秋山(汉口南国中心店)",
+      "address": "解放大道路1385号泛悦南国中心二期B-F4",
+      "distance": "18m"
+    },
+    {
+      "brand": "果梦令·鲜榨果汁",
+      "address": "泛悦·南国大洋中心B馆1楼中厅(正对8号门)",
+      "distance": "21m"
+    },
+    {
+      "brand": "星巴克武汉大洋中心店",
+      "address": "解放大道1385号",
+      "distance": "25m"
+    },
+    {
+      "brand": "CHAGEE霸王茶姬(湖北武汉大洋中心店)",
+      "address": "江汉大道669号泛悦·南国中心二期购物中心F1层",
+      "distance": "26m"
+    },
+    {
+      "brand": "老武汉大食堂",
+      "address": "解放大道1381号泛悦·南国中心二期",
+      "distance": "35m"
+    },
+    {
+      "brand": "LunaMu-慕上餐厅",
+      "address": "新华街道解放大道大洋中心1381号B馆1F-023(星巴克旁边)",
+      "distance": "37m"
+    },
+    {
+      "brand": "茶港·点心·啫啫(泛悦·南国中心购物中心店)",
+      "address": "泛悦南国中心二期购物中心4楼茶港",
+      "distance": "39m"
+    },
+    {
+      "brand": "Manner Coffee(泛悦·南国中心店)",
+      "address": "解放大道1381号循礼门大洋中心B馆1楼5号门",
+      "distance": "40m"
+    },
+    {
+      "brand": "小户人家湖北菜馆(泛悦·南国中心二期购物中心店)",
+      "address": "解放大道1385号泛悦·南国中心(二期)B-F4-022、B-F4-023",
+      "distance": "63m"
+    },
+    {
+      "brand": "棠拾壹小馆(武汉泛悦·南国中心店)",
+      "address": "泛悦·南国中心B馆1楼(6号门入口处)",
+      "distance": "71m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "武汉M+购物中心",
+      "open_date": "2017-04-30",
+      "area": "12万㎡",
+      "jun_daily_avg": "3.9万人次",
+      "weekday_avg": "3.2万人次",
+      "holiday_avg": "5.8万人次"
+    },
+    {
+      "name": "武汉越秀IFC国金天地",
+      "open_date": "2023-06-28",
+      "area": "11.4万㎡",
+      "jun_daily_avg": "6.1万人次",
+      "weekday_avg": "6.1万人次",
+      "holiday_avg": "6.3万人次"
+    },
+    {
+      "name": "武汉潮流盒子x118",
+      "open_date": "2013-10-01",
+      "area": "4万㎡",
+      "jun_daily_avg": "3.5万人次",
+      "weekday_avg": "2.8万人次",
+      "holiday_avg": "5.5万人次"
+    },
+    {
+      "name": "武汉中心百货",
+      "open_date": "2011-11-20",
+      "area": "4万㎡",
+      "jun_daily_avg": "3.2万人次",
+      "weekday_avg": "2.6万人次",
+      "holiday_avg": "4.9万人次"
+    },
+    {
+      "name": "武汉新崇光时尚广场",
+      "open_date": "2017-09-27",
+      "area": "3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "武汉汉商武展购物中心",
+      "open_date": "2015-01-01",
+      "area": "4.2万㎡",
+      "jun_daily_avg": "3万人次",
+      "weekday_avg": "2.7万人次",
+      "holiday_avg": "3.8万人次"
+    },
+    {
+      "name": "武汉新佳丽时尚广场",
+      "open_date": "2008-04-28",
+      "area": "5.5万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "武汉HAPPY站台一号仓",
+      "open_date": "1998-01-01",
+      "area": "3万㎡",
+      "jun_daily_avg": "3.1万人次",
+      "weekday_avg": "2.6万人次",
+      "holiday_avg": "4.6万人次"
+    },
+    {
+      "name": "大智商城",
+      "open_date": "-",
+      "area": "-",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "武汉大洋百货(中山大道店)",
+      "open_date": "2004-12-18",
+      "area": "9万㎡",
+      "jun_daily_avg": "1.4万人次",
+      "weekday_avg": "1.2万人次",
+      "holiday_avg": "1.9万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 29.0,
+      "within_1yr_pct": 27.6,
+      "1_3yr_pct": 44.8,
+      "over_3yr_pct": 27.6
+    },
+    {
+      "type": "购物",
+      "count": 20.0,
+      "within_1yr_pct": 15.0,
+      "1_3yr_pct": 35.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 17.0,
+      "within_1yr_pct": 17.6,
+      "1_3yr_pct": 58.8,
+      "over_3yr_pct": 23.5
+    },
+    {
+      "type": "教育培训",
+      "count": 6.0,
+      "within_1yr_pct": 16.7,
+      "1_3yr_pct": 66.7,
+      "over_3yr_pct": 16.7
+    },
+    {
+      "type": "酒店住宿",
+      "count": 5.0,
+      "within_1yr_pct": 60.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 40.0
+    },
+    {
+      "type": "生活服务",
+      "count": 9.0,
+      "within_1yr_pct": 55.6,
+      "1_3yr_pct": 11.1,
+      "over_3yr_pct": 33.3
+    },
+    {
+      "type": "运动健身",
+      "count": 16.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 62.5,
+      "over_3yr_pct": 12.5
+    },
+    {
+      "type": "车辆服务",
+      "count": 3.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
+    }
+  ]
+}

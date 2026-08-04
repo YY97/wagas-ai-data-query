@@ -1,0 +1,479 @@
+{
+  "name": "上海苏河湾万象天地",
+  "city": "上海市",
+  "address": "上海市静安区北苏州路466号",
+  "lat": 31.242258,
+  "lng": 121.478666,
+  "overview": {
+    "score": 93.1,
+    "score_rank": "市内前30%",
+    "population_score": 83.5,
+    "area_score": 93.0,
+    "consumption_score": 88.5,
+    "industry_score": 93.2,
+    "annual_sales": "上海苏河湾万象天地位于上海苏州河畔，由Kokaistudios设计，采用“城市峡谷”概念，将商业空间与周边环境有机融合，打造出一个全新的城市公共空间",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 6.0,
+    "open_date": "2022-01-01",
+    "operator": "上海华筵房地产开发有限公司",
+    "brand": "华润",
+    "type": "美食型",
+    "floors": "B2-L4"
+  },
+  "traffic": {
+    "annual_daily": 1.44,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第181",
+    "jun_total": 81.3,
+    "jun_total_rank": "市内商场第149名",
+    "jun_daily_avg": 2.7,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第149名",
+    "weekday_avg": 2.4,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第154名",
+    "holiday_avg": 3.5,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第140名"
+  },
+  "population": {
+    "residential": {
+      "500m": 1.7,
+      "1_5km": 20.3,
+      "3km": 84.3
+    },
+    "office": {
+      "500m": 3.0,
+      "1_5km": 31.1,
+      "3km": 106.9
+    },
+    "permanent": {
+      "500m": 2.2,
+      "1_5km": 26.2,
+      "3km": 105.1
+    }
+  },
+  "business": {
+    "competitors": 8.0,
+    "food": 242.0,
+    "shopping": 553.0,
+    "leisure": 25.0,
+    "education": 9.0,
+    "hotel": 89.0,
+    "services": 151.0,
+    "fitness": 17.0,
+    "auto": 40.0,
+    "total_stores": 160.0,
+    "old_store_3yr_pct": 36.0
+  },
+  "nearby_poi": {
+    "business": 26.0,
+    "community": 871.0,
+    "office": 232.0,
+    "school": 51.0,
+    "hospital": 175.0,
+    "transport": 16.0,
+    "scenic": 899.0
+  },
+  "demographics": {
+    "male_pct": 48.8,
+    "female_pct": null,
+    "education": {
+      "小学": 10.1,
+      "初中": 20.0,
+      "高中": 12.2,
+      "大专": 7.7,
+      "本科": 44.8,
+      "硕士": 3.7,
+      "博士": 1.5
+    },
+    "has_children_pct": 58.3,
+    "no_children_pct": 41.7
+  },
+  "scraped_at": "2026-07-31T17:24:25.948Z",
+  "nearby_restaurants": [
+    {
+      "brand": "火热哒哒滚·海鲜食堂(苏河湾万象天地店)",
+      "address": "北站街道福建北路100号上海苏河湾万象天地西里LG238b",
+      "distance": "11m"
+    },
+    {
+      "brand": "一绪寿喜烧(上海苏河湾万象天地店)",
+      "address": "北苏州路470-1016号",
+      "distance": "12m"
+    },
+    {
+      "brand": "眉州东坡(上海苏河湾万象天地店)",
+      "address": "北站街道福建北路139号上海苏河湾万象天地西里LG2层LG219号商铺",
+      "distance": "23m"
+    },
+    {
+      "brand": "Kiki Ennios(万象天地店)(暂停营业)",
+      "address": "苏河湾万象天地东里B2层253楼号商铺(去茶山对面)",
+      "distance": "23m"
+    },
+    {
+      "brand": "苍山·云贵Bistro(万象天地店)",
+      "address": "福建北路139号苏河湾万象天地西里LG1层120商铺",
+      "distance": "33m"
+    },
+    {
+      "brand": "CHAGEE霸王茶姬(上海苏河湾万象天地店)",
+      "address": "北站街道福建北路100号苏河湾万象天地西里B1层LG122号商铺",
+      "distance": "35m"
+    },
+    {
+      "brand": "山石榴贵州菜(上海苏河湾万象天地店)",
+      "address": "福建北路100号上海苏河湾万象天地B2层",
+      "distance": "42m"
+    },
+    {
+      "brand": "大馥·串烧酒馆(苏河湾万象天地店)",
+      "address": "福建北路100号上海苏河湾万象天地B2层",
+      "distance": "44m"
+    },
+    {
+      "brand": "胡恰·景德江西菜(苏河湾万象天地店)",
+      "address": "北站街道苏河湾万象天地西里LG2层228-229号店铺",
+      "distance": "46m"
+    },
+    {
+      "brand": "洞庭3000里·乡野湖南菜(上海万象天地店)",
+      "address": "苏河湾万象天地西里负二楼(天潼路地铁站5号口步行490米)",
+      "distance": "46m"
+    },
+    {
+      "brand": "火热哒哒滚·海鲜食堂(苏河湾万象天地店)",
+      "address": "北站街道福建北路100号上海苏河湾万象天地西里LG238b",
+      "distance": "11m"
+    },
+    {
+      "brand": "一绪寿喜烧(上海苏河湾万象天地店)",
+      "address": "北苏州路470-1016号",
+      "distance": "12m"
+    },
+    {
+      "brand": "眉州东坡(上海苏河湾万象天地店)",
+      "address": "北站街道福建北路139号上海苏河湾万象天地西里LG2层LG219号商铺",
+      "distance": "23m"
+    },
+    {
+      "brand": "Kiki Ennios(万象天地店)(暂停营业)",
+      "address": "苏河湾万象天地东里B2层253楼号商铺(去茶山对面)",
+      "distance": "23m"
+    },
+    {
+      "brand": "苍山·云贵Bistro(万象天地店)",
+      "address": "福建北路139号苏河湾万象天地西里LG1层120商铺",
+      "distance": "33m"
+    },
+    {
+      "brand": "CHAGEE霸王茶姬(上海苏河湾万象天地店)",
+      "address": "北站街道福建北路100号苏河湾万象天地西里B1层LG122号商铺",
+      "distance": "35m"
+    },
+    {
+      "brand": "山石榴贵州菜(上海苏河湾万象天地店)",
+      "address": "福建北路100号上海苏河湾万象天地B2层",
+      "distance": "42m"
+    },
+    {
+      "brand": "大馥·串烧酒馆(苏河湾万象天地店)",
+      "address": "福建北路100号上海苏河湾万象天地B2层",
+      "distance": "44m"
+    },
+    {
+      "brand": "胡恰·景德江西菜(苏河湾万象天地店)",
+      "address": "北站街道苏河湾万象天地西里LG2层228-229号店铺",
+      "distance": "46m"
+    },
+    {
+      "brand": "洞庭3000里·乡野湖南菜(上海万象天地店)",
+      "address": "苏河湾万象天地西里负二楼(天潼路地铁站5号口步行490米)",
+      "distance": "46m"
+    },
+    {
+      "brand": "火热哒哒滚·海鲜食堂(苏河湾万象天地店)",
+      "address": "北站街道福建北路100号上海苏河湾万象天地西里LG238b",
+      "distance": "11m"
+    },
+    {
+      "brand": "一绪寿喜烧(上海苏河湾万象天地店)",
+      "address": "北苏州路470-1016号",
+      "distance": "12m"
+    },
+    {
+      "brand": "眉州东坡(上海苏河湾万象天地店)",
+      "address": "北站街道福建北路139号上海苏河湾万象天地西里LG2层LG219号商铺",
+      "distance": "23m"
+    },
+    {
+      "brand": "Kiki Ennios(万象天地店)(暂停营业)",
+      "address": "苏河湾万象天地东里B2层253楼号商铺(去茶山对面)",
+      "distance": "23m"
+    },
+    {
+      "brand": "苍山·云贵Bistro(万象天地店)",
+      "address": "福建北路139号苏河湾万象天地西里LG1层120商铺",
+      "distance": "33m"
+    },
+    {
+      "brand": "CHAGEE霸王茶姬(上海苏河湾万象天地店)",
+      "address": "北站街道福建北路100号苏河湾万象天地西里B1层LG122号商铺",
+      "distance": "35m"
+    },
+    {
+      "brand": "山石榴贵州菜(上海苏河湾万象天地店)",
+      "address": "福建北路100号上海苏河湾万象天地B2层",
+      "distance": "42m"
+    },
+    {
+      "brand": "大馥·串烧酒馆(苏河湾万象天地店)",
+      "address": "福建北路100号上海苏河湾万象天地B2层",
+      "distance": "44m"
+    },
+    {
+      "brand": "胡恰·景德江西菜(苏河湾万象天地店)",
+      "address": "北站街道苏河湾万象天地西里LG2层228-229号店铺",
+      "distance": "46m"
+    },
+    {
+      "brand": "洞庭3000里·乡野湖南菜(上海万象天地店)",
+      "address": "苏河湾万象天地西里负二楼(天潼路地铁站5号口步行490米)",
+      "distance": "46m"
+    },
+    {
+      "brand": "火热哒哒滚·海鲜食堂(苏河湾万象天地店)",
+      "address": "北站街道福建北路100号上海苏河湾万象天地西里LG238b",
+      "distance": "11m"
+    },
+    {
+      "brand": "一绪寿喜烧(上海苏河湾万象天地店)",
+      "address": "北苏州路470-1016号",
+      "distance": "12m"
+    },
+    {
+      "brand": "眉州东坡(上海苏河湾万象天地店)",
+      "address": "北站街道福建北路139号上海苏河湾万象天地西里LG2层LG219号商铺",
+      "distance": "23m"
+    },
+    {
+      "brand": "Kiki Ennios(万象天地店)(暂停营业)",
+      "address": "苏河湾万象天地东里B2层253楼号商铺(去茶山对面)",
+      "distance": "23m"
+    },
+    {
+      "brand": "苍山·云贵Bistro(万象天地店)",
+      "address": "福建北路139号苏河湾万象天地西里LG1层120商铺",
+      "distance": "33m"
+    },
+    {
+      "brand": "CHAGEE霸王茶姬(上海苏河湾万象天地店)",
+      "address": "北站街道福建北路100号苏河湾万象天地西里B1层LG122号商铺",
+      "distance": "35m"
+    },
+    {
+      "brand": "山石榴贵州菜(上海苏河湾万象天地店)",
+      "address": "福建北路100号上海苏河湾万象天地B2层",
+      "distance": "42m"
+    },
+    {
+      "brand": "大馥·串烧酒馆(苏河湾万象天地店)",
+      "address": "福建北路100号上海苏河湾万象天地B2层",
+      "distance": "44m"
+    },
+    {
+      "brand": "胡恰·景德江西菜(苏河湾万象天地店)",
+      "address": "北站街道苏河湾万象天地西里LG2层228-229号店铺",
+      "distance": "46m"
+    },
+    {
+      "brand": "洞庭3000里·乡野湖南菜(上海万象天地店)",
+      "address": "苏河湾万象天地西里负二楼(天潼路地铁站5号口步行490米)",
+      "distance": "46m"
+    },
+    {
+      "brand": "火热哒哒滚·海鲜食堂(苏河湾万象天地店)",
+      "address": "北站街道福建北路100号上海苏河湾万象天地西里LG238b",
+      "distance": "11m"
+    },
+    {
+      "brand": "一绪寿喜烧(上海苏河湾万象天地店)",
+      "address": "北苏州路470-1016号",
+      "distance": "12m"
+    },
+    {
+      "brand": "眉州东坡(上海苏河湾万象天地店)",
+      "address": "北站街道福建北路139号上海苏河湾万象天地西里LG2层LG219号商铺",
+      "distance": "23m"
+    },
+    {
+      "brand": "Kiki Ennios(万象天地店)(暂停营业)",
+      "address": "苏河湾万象天地东里B2层253楼号商铺(去茶山对面)",
+      "distance": "23m"
+    },
+    {
+      "brand": "苍山·云贵Bistro(万象天地店)",
+      "address": "福建北路139号苏河湾万象天地西里LG1层120商铺",
+      "distance": "33m"
+    },
+    {
+      "brand": "CHAGEE霸王茶姬(上海苏河湾万象天地店)",
+      "address": "北站街道福建北路100号苏河湾万象天地西里B1层LG122号商铺",
+      "distance": "35m"
+    },
+    {
+      "brand": "山石榴贵州菜(上海苏河湾万象天地店)",
+      "address": "福建北路100号上海苏河湾万象天地B2层",
+      "distance": "42m"
+    },
+    {
+      "brand": "大馥·串烧酒馆(苏河湾万象天地店)",
+      "address": "福建北路100号上海苏河湾万象天地B2层",
+      "distance": "44m"
+    },
+    {
+      "brand": "胡恰·景德江西菜(苏河湾万象天地店)",
+      "address": "北站街道苏河湾万象天地西里LG2层228-229号店铺",
+      "distance": "46m"
+    },
+    {
+      "brand": "洞庭3000里·乡野湖南菜(上海万象天地店)",
+      "address": "苏河湾万象天地西里负二楼(天潼路地铁站5号口步行490米)",
+      "distance": "46m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海联富服饰市场",
+      "open_date": "2006-09-28",
+      "area": "-",
+      "jun_daily_avg": "5.9万人次",
+      "weekday_avg": "4.9万人次",
+      "holiday_avg": "8.6万人次"
+    },
+    {
+      "name": "新金浦时尚服装市场",
+      "open_date": "2006-12-01",
+      "area": "1.8万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海圣和圣时尚汇",
+      "open_date": "2009-01-01",
+      "area": "2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海静安大悦城",
+      "open_date": "2010-12-28",
+      "area": "12万㎡",
+      "jun_daily_avg": "5.9万人次",
+      "weekday_avg": "4.9万人次",
+      "holiday_avg": "8.6万人次"
+    },
+    {
+      "name": "上海阳光商厦",
+      "open_date": "-",
+      "area": "-",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海恒基名人购物中心",
+      "open_date": "2011-11-11",
+      "area": "4万㎡",
+      "jun_daily_avg": "1.2万人次",
+      "weekday_avg": "1.1万人次",
+      "holiday_avg": "1.4万人次"
+    },
+    {
+      "name": "上海百联ZX创趣场",
+      "open_date": "2023-01-15",
+      "area": "1万㎡",
+      "jun_daily_avg": "3.4万人次",
+      "weekday_avg": "2.7万人次",
+      "holiday_avg": "5.6万人次"
+    },
+    {
+      "name": "上海U479",
+      "open_date": "2021-06-01",
+      "area": "1万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海新世界大丸百货",
+      "open_date": "2015-05-15",
+      "area": "7万㎡",
+      "jun_daily_avg": "5.2万人次",
+      "weekday_avg": "4.6万人次",
+      "holiday_avg": "6.9万人次"
+    },
+    {
+      "name": "上海悦荟广场",
+      "open_date": "2014-12-01",
+      "area": "2.5万㎡",
+      "jun_daily_avg": "1.3万人次",
+      "weekday_avg": "1.1万人次",
+      "holiday_avg": "1.8万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 60.0,
+      "within_1yr_pct": 13.3,
+      "1_3yr_pct": 40.0,
+      "over_3yr_pct": 46.7
+    },
+    {
+      "type": "购物",
+      "count": 52.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 40.4,
+      "over_3yr_pct": 34.6
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 16.0,
+      "within_1yr_pct": 31.3,
+      "1_3yr_pct": 68.8,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "教育培训",
+      "count": 3.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 66.7,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "生活服务",
+      "count": 19.0,
+      "within_1yr_pct": 26.3,
+      "1_3yr_pct": 31.6,
+      "over_3yr_pct": 42.1
+    },
+    {
+      "type": "运动健身",
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 8.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 25.0
+    }
+  ]
+}

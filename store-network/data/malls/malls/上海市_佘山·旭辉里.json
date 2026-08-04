@@ -1,0 +1,140 @@
+{
+  "name": "佘山·旭辉里",
+  "city": "上海市",
+  "address": "北京市昌平区东小口立水桥佳运园小区26号楼",
+  "lat": null,
+  "lng": null,
+  "overview": {
+    "score": 71.3,
+    "score_rank": "市内前70%",
+    "population_score": 91.6,
+    "area_score": 71.6,
+    "consumption_score": 69.5,
+    "industry_score": 71.2,
+    "annual_sales": "位于立水桥地铁5/13号线西南侧，花园式下沉商街，集超市、餐饮、办公、健身于一体，181个车位，40年商业产权。",
+    "annual_sales_unit": "-",
+    "area_size_sqm": null,
+    "open_date": "2008-10-01",
+    "operator": "北京裕发弘瑞物业管理有限公司",
+    "brand": "",
+    "type": "综合型",
+    "floors": "B1-L4"
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "-",
+    "annual_daily_rank": "",
+    "jun_total": null,
+    "jun_total_rank": "",
+    "jun_daily_avg": null,
+    "jun_daily_unit": "",
+    "jun_daily_rank": "",
+    "weekday_avg": null,
+    "weekday_unit": "",
+    "weekday_rank": "",
+    "holiday_avg": null,
+    "holiday_unit": "",
+    "holiday_rank": ""
+  },
+  "population": {
+    "residential": {
+      "500m": 2.4,
+      "1_5km": 10.9,
+      "3km": 40.0
+    },
+    "office": {
+      "500m": 5600.0,
+      "1_5km": 4.4,
+      "3km": 18.2
+    },
+    "permanent": {
+      "500m": 2.1,
+      "1_5km": 9.9,
+      "3km": 38.1
+    }
+  },
+  "business": {
+    "competitors": null,
+    "food": 114.0,
+    "shopping": 54.0,
+    "leisure": 4.0,
+    "education": 12.0,
+    "hotel": 4.0,
+    "services": 105.0,
+    "fitness": 5.0,
+    "auto": 17.0,
+    "total_stores": 24.0,
+    "old_store_3yr_pct": 63.0
+  },
+  "nearby_poi": {
+    "business": 3.0,
+    "community": 146.0,
+    "office": 15.0,
+    "school": 14.0,
+    "hospital": 30.0,
+    "transport": 6.0,
+    "scenic": 87.0
+  },
+  "demographics": {
+    "male_pct": 53.3,
+    "female_pct": null,
+    "education": {
+      "小学": 7.3,
+      "初中": 12.6,
+      "高中": 9.5,
+      "大专": 7.2,
+      "本科": 52.6,
+      "硕士": 8.9,
+      "博士": 1.9
+    },
+    "has_children_pct": 50.4,
+    "no_children_pct": 49.6
+  },
+  "scraped_at": "2026-08-01T12:11:34.764Z",
+  "nearby_restaurants": [],
+  "nearby_malls": [],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 8.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 37.5,
+      "over_3yr_pct": 62.5
+    },
+    {
+      "type": "购物",
+      "count": 5.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    },
+    {
+      "type": "教育培训",
+      "count": 2.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 3.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 66.7
+    },
+    {
+      "type": "生活服务",
+      "count": 5.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 40.0,
+      "over_3yr_pct": 40.0
+    },
+    {
+      "type": "运动健身",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    }
+  ]
+}

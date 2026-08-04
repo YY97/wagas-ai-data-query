@@ -1,0 +1,165 @@
+{
+  "name": "浦东新区天和广场",
+  "city": "上海市",
+  "address": "上海市浦东新区祝桥镇百熙路与华星路交界处",
+  "lat": 31.118145,
+  "lng": 121.760351,
+  "overview": {
+    "score": 92.1,
+    "score_rank": "市内前30%",
+    "population_score": 80.4,
+    "area_score": 77.3,
+    "consumption_score": 63.3,
+    "industry_score": 92.2,
+    "annual_sales": "天和广场位于上海市浦东新区祝桥镇百熙路606号（靠华星路），毗邻浦东国际航空城核心生活区祝桥新镇，距离上海高铁东站约2公里，距离浦东国际机场约5公里天和广场汲取了欧式建筑的精髓，营造出高档典雅的风格，从产品定位、规划设计、建筑造型到景观布局均精心打造作为航空城核心生活区内独有的一站式大型商业综合体，天和广场将为大批旅游人群和区内消费者配套服务，提供全新的生活方式和消费体验，包含酒店、餐饮、娱乐、体育、零售、教育培训等综合业态，满足全龄段家庭消费者的需求天和广场已成功吸引希尔顿欢朋酒店、永辉超市BRAVO YH、中影国际影城的率先进驻，全面树立天和广场的商业地标形象",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 7.7,
+    "open_date": "2021-12-31",
+    "operator": "上海天和投资有限公司",
+    "brand": "",
+    "type": "美食型",
+    "floors": "L1-L3"
+  },
+  "traffic": {
+    "annual_daily": 1.42,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第182",
+    "jun_total": 58.4,
+    "jun_total_rank": "市内商场第194名",
+    "jun_daily_avg": 1.9,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第194名",
+    "weekday_avg": 1.8,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第193名",
+    "holiday_avg": 2.3,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第189名"
+  },
+  "population": {
+    "residential": {
+      "500m": 1.6,
+      "1_5km": 8.7,
+      "3km": 16.1
+    },
+    "office": {
+      "500m": 7300.0,
+      "1_5km": 3.1,
+      "3km": 7.8
+    },
+    "permanent": {
+      "500m": 1.7,
+      "1_5km": 8.1,
+      "3km": 14.0
+    }
+  },
+  "business": {
+    "competitors": 2.0,
+    "food": 222.0,
+    "shopping": 143.0,
+    "leisure": 15.0,
+    "education": 14.0,
+    "hotel": 14.0,
+    "services": 122.0,
+    "fitness": 8.0,
+    "auto": 10.0,
+    "total_stores": 122.0,
+    "old_store_3yr_pct": 53.0
+  },
+  "nearby_poi": {
+    "business": null,
+    "community": 45.0,
+    "office": 8.0,
+    "school": 12.0,
+    "hospital": 9.0,
+    "transport": 10.0,
+    "scenic": 29.0
+  },
+  "demographics": {
+    "male_pct": 49.4,
+    "female_pct": null,
+    "education": {
+      "小学": 12.0,
+      "初中": 22.8,
+      "高中": 13.4,
+      "大专": 9.4,
+      "本科": 39.7,
+      "硕士": 2.1,
+      "博士": 0.6
+    },
+    "has_children_pct": 63.4,
+    "no_children_pct": 36.6
+  },
+  "scraped_at": "2026-08-01T06:19:08.803Z",
+  "nearby_restaurants": [
+    {
+      "brand": "河南烩面红烧牛肉面(华星路店)",
+      "address": "祝桥镇华星路387号",
+      "distance": "497m"
+    },
+    {
+      "brand": "冰糖炖雪梨",
+      "address": "祝桥镇明星村退役军人服务站东侧60米",
+      "distance": "499m"
+    }
+  ],
+  "nearby_malls": [],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 67.0,
+      "within_1yr_pct": 22.4,
+      "1_3yr_pct": 29.9,
+      "over_3yr_pct": 47.8
+    },
+    {
+      "type": "购物",
+      "count": 23.0,
+      "within_1yr_pct": 17.4,
+      "1_3yr_pct": 21.7,
+      "over_3yr_pct": 60.9
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 3.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 66.7
+    },
+    {
+      "type": "教育培训",
+      "count": 6.0,
+      "within_1yr_pct": 16.7,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 33.3
+    },
+    {
+      "type": "酒店住宿",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    },
+    {
+      "type": "生活服务",
+      "count": 17.0,
+      "within_1yr_pct": 11.8,
+      "1_3yr_pct": 29.4,
+      "over_3yr_pct": 58.8
+    },
+    {
+      "type": "运动健身",
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 3.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    }
+  ]
+}

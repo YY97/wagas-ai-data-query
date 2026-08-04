@@ -1,0 +1,486 @@
+{
+  "name": "下沉式广场",
+  "city": "上海市",
+  "address": "上海市浦东新区陆家嘴街道星展银行大厦",
+  "lat": 31.242082,
+  "lng": 121.503414,
+  "overview": {
+    "score": 73.1,
+    "score_rank": "市内前70%",
+    "population_score": 62.4,
+    "area_score": 69.0,
+    "consumption_score": 60.0,
+    "industry_score": 73.2,
+    "annual_sales": "",
+    "annual_sales_unit": "",
+    "area_size_sqm": null,
+    "open_date": "",
+    "operator": "",
+    "brand": "",
+    "type": "",
+    "floors": ""
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "",
+    "annual_daily_rank": "",
+    "jun_total": null,
+    "jun_total_rank": "",
+    "jun_daily_avg": null,
+    "jun_daily_unit": "",
+    "jun_daily_rank": "",
+    "weekday_avg": null,
+    "weekday_unit": "",
+    "weekday_rank": "",
+    "holiday_avg": null,
+    "holiday_unit": "",
+    "holiday_rank": ""
+  },
+  "population": {
+    "residential": {
+      "500m": 2200.0,
+      "1_5km": 8.8,
+      "3km": 71.4
+    },
+    "office": {
+      "500m": 4.4,
+      "1_5km": 28.7,
+      "3km": 100.2
+    },
+    "permanent": {
+      "500m": 1.3,
+      "1_5km": 15.4,
+      "3km": 89.1
+    }
+  },
+  "business": {
+    "competitors": 10.0,
+    "food": 92.0,
+    "shopping": 37.0,
+    "leisure": 6.0,
+    "education": 2.0,
+    "hotel": 8.0,
+    "services": 28.0,
+    "fitness": 3.0,
+    "auto": 19.0,
+    "total_stores": 199.0,
+    "old_store_3yr_pct": 62.0
+  },
+  "nearby_poi": {
+    "business": 12.0,
+    "community": 649.0,
+    "office": 161.0,
+    "school": 20.0,
+    "hospital": 140.0,
+    "transport": 14.0,
+    "scenic": 709.0
+  },
+  "demographics": {
+    "male_pct": 48.0,
+    "female_pct": null,
+    "education": {
+      "小学": 9.8,
+      "初中": 18.0,
+      "高中": 11.3,
+      "大专": 7.9,
+      "本科": 46.3,
+      "硕士": 5.2,
+      "博士": 1.5
+    },
+    "has_children_pct": null,
+    "no_children_pct": null
+  },
+  "scraped_at": "2026-07-31T12:53:08.032Z",
+  "nearby_restaurants": [
+    {
+      "brand": "遇见小面(星展银行大厦店)",
+      "address": "陆家嘴环路1318号星展银行大厦B1层",
+      "distance": "5m"
+    },
+    {
+      "brand": "Tims咖啡(星展店)",
+      "address": "陆家嘴环路1318号星展银行大厦地下一层04室",
+      "distance": "17m"
+    },
+    {
+      "brand": "鹿港小镇(星展银行大厦店)",
+      "address": "陆家嘴环路1318号星展银行大厦B1层6号",
+      "distance": "19m"
+    },
+    {
+      "brand": "Manner Coffee(星展银行大厦店)",
+      "address": "陆家嘴环路1318号星展银行大厦",
+      "distance": "21m"
+    },
+    {
+      "brand": "三味拌川(星展大厦店)",
+      "address": "陆家嘴环路1318号星展银行大厦B1层",
+      "distance": "46m"
+    },
+    {
+      "brand": "麦当劳(星展银行大厦店)",
+      "address": "陆家嘴环路1318号星展银行大厦B1层",
+      "distance": "49m"
+    },
+    {
+      "brand": "吾妻家(陆家嘴店)",
+      "address": "中国(上海)自由贸易试验区陆家嘴环路1318号地下一层03单元",
+      "distance": "49m"
+    },
+    {
+      "brand": "喜家德虾仁水饺(星展银行大厦店)",
+      "address": "陆家嘴环路1318号B1层02室",
+      "distance": "55m"
+    },
+    {
+      "brand": "星巴克(上海富士康大厦)",
+      "address": "陆家嘴环路1366号地上1层01单元",
+      "distance": "59m"
+    },
+    {
+      "brand": "星巴克沿街取餐点(上海富士康大厦)",
+      "address": "陆家嘴环路1368号",
+      "distance": "62m"
+    },
+    {
+      "brand": "遇见小面(星展银行大厦店)",
+      "address": "陆家嘴环路1318号星展银行大厦B1层",
+      "distance": "5m"
+    },
+    {
+      "brand": "Tims咖啡(星展店)",
+      "address": "陆家嘴环路1318号星展银行大厦地下一层04室",
+      "distance": "17m"
+    },
+    {
+      "brand": "鹿港小镇(星展银行大厦店)",
+      "address": "陆家嘴环路1318号星展银行大厦B1层6号",
+      "distance": "19m"
+    },
+    {
+      "brand": "Manner Coffee(星展银行大厦店)",
+      "address": "陆家嘴环路1318号星展银行大厦",
+      "distance": "21m"
+    },
+    {
+      "brand": "三味拌川(星展大厦店)",
+      "address": "陆家嘴环路1318号星展银行大厦B1层",
+      "distance": "46m"
+    },
+    {
+      "brand": "麦当劳(星展银行大厦店)",
+      "address": "陆家嘴环路1318号星展银行大厦B1层",
+      "distance": "49m"
+    },
+    {
+      "brand": "吾妻家(陆家嘴店)",
+      "address": "中国(上海)自由贸易试验区陆家嘴环路1318号地下一层03单元",
+      "distance": "49m"
+    },
+    {
+      "brand": "喜家德虾仁水饺(星展银行大厦店)",
+      "address": "陆家嘴环路1318号B1层02室",
+      "distance": "55m"
+    },
+    {
+      "brand": "星巴克(上海富士康大厦)",
+      "address": "陆家嘴环路1366号地上1层01单元",
+      "distance": "59m"
+    },
+    {
+      "brand": "星巴克沿街取餐点(上海富士康大厦)",
+      "address": "陆家嘴环路1368号",
+      "distance": "62m"
+    },
+    {
+      "brand": "遇见小面(星展银行大厦店)",
+      "address": "陆家嘴环路1318号星展银行大厦B1层",
+      "distance": "5m"
+    },
+    {
+      "brand": "Tims咖啡(星展店)",
+      "address": "陆家嘴环路1318号星展银行大厦地下一层04室",
+      "distance": "17m"
+    },
+    {
+      "brand": "鹿港小镇(星展银行大厦店)",
+      "address": "陆家嘴环路1318号星展银行大厦B1层6号",
+      "distance": "19m"
+    },
+    {
+      "brand": "Manner Coffee(星展银行大厦店)",
+      "address": "陆家嘴环路1318号星展银行大厦",
+      "distance": "21m"
+    },
+    {
+      "brand": "三味拌川(星展大厦店)",
+      "address": "陆家嘴环路1318号星展银行大厦B1层",
+      "distance": "46m"
+    },
+    {
+      "brand": "麦当劳(星展银行大厦店)",
+      "address": "陆家嘴环路1318号星展银行大厦B1层",
+      "distance": "49m"
+    },
+    {
+      "brand": "吾妻家(陆家嘴店)",
+      "address": "中国(上海)自由贸易试验区陆家嘴环路1318号地下一层03单元",
+      "distance": "49m"
+    },
+    {
+      "brand": "喜家德虾仁水饺(星展银行大厦店)",
+      "address": "陆家嘴环路1318号B1层02室",
+      "distance": "55m"
+    },
+    {
+      "brand": "星巴克(上海富士康大厦)",
+      "address": "陆家嘴环路1366号地上1层01单元",
+      "distance": "59m"
+    },
+    {
+      "brand": "星巴克沿街取餐点(上海富士康大厦)",
+      "address": "陆家嘴环路1368号",
+      "distance": "62m"
+    },
+    {
+      "brand": "遇见小面(星展银行大厦店)",
+      "address": "陆家嘴环路1318号星展银行大厦B1层",
+      "distance": "5m"
+    },
+    {
+      "brand": "Tims咖啡(星展店)",
+      "address": "陆家嘴环路1318号星展银行大厦地下一层04室",
+      "distance": "17m"
+    },
+    {
+      "brand": "鹿港小镇(星展银行大厦店)",
+      "address": "陆家嘴环路1318号星展银行大厦B1层6号",
+      "distance": "19m"
+    },
+    {
+      "brand": "Manner Coffee(星展银行大厦店)",
+      "address": "陆家嘴环路1318号星展银行大厦",
+      "distance": "21m"
+    },
+    {
+      "brand": "三味拌川(星展大厦店)",
+      "address": "陆家嘴环路1318号星展银行大厦B1层",
+      "distance": "46m"
+    },
+    {
+      "brand": "麦当劳(星展银行大厦店)",
+      "address": "陆家嘴环路1318号星展银行大厦B1层",
+      "distance": "49m"
+    },
+    {
+      "brand": "吾妻家(陆家嘴店)",
+      "address": "中国(上海)自由贸易试验区陆家嘴环路1318号地下一层03单元",
+      "distance": "49m"
+    },
+    {
+      "brand": "喜家德虾仁水饺(星展银行大厦店)",
+      "address": "陆家嘴环路1318号B1层02室",
+      "distance": "55m"
+    },
+    {
+      "brand": "星巴克(上海富士康大厦)",
+      "address": "陆家嘴环路1366号地上1层01单元",
+      "distance": "59m"
+    },
+    {
+      "brand": "星巴克沿街取餐点(上海富士康大厦)",
+      "address": "陆家嘴环路1368号",
+      "distance": "62m"
+    },
+    {
+      "brand": "遇见小面(星展银行大厦店)",
+      "address": "陆家嘴环路1318号星展银行大厦B1层",
+      "distance": "5m"
+    },
+    {
+      "brand": "Tims咖啡(星展店)",
+      "address": "陆家嘴环路1318号星展银行大厦地下一层04室",
+      "distance": "17m"
+    },
+    {
+      "brand": "鹿港小镇(星展银行大厦店)",
+      "address": "陆家嘴环路1318号星展银行大厦B1层6号",
+      "distance": "19m"
+    },
+    {
+      "brand": "Manner Coffee(星展银行大厦店)",
+      "address": "陆家嘴环路1318号星展银行大厦",
+      "distance": "21m"
+    },
+    {
+      "brand": "三味拌川(星展大厦店)",
+      "address": "陆家嘴环路1318号星展银行大厦B1层",
+      "distance": "46m"
+    },
+    {
+      "brand": "麦当劳(星展银行大厦店)",
+      "address": "陆家嘴环路1318号星展银行大厦B1层",
+      "distance": "49m"
+    },
+    {
+      "brand": "吾妻家(陆家嘴店)",
+      "address": "中国(上海)自由贸易试验区陆家嘴环路1318号地下一层03单元",
+      "distance": "49m"
+    },
+    {
+      "brand": "喜家德虾仁水饺(星展银行大厦店)",
+      "address": "陆家嘴环路1318号B1层02室",
+      "distance": "55m"
+    },
+    {
+      "brand": "星巴克(上海富士康大厦)",
+      "address": "陆家嘴环路1366号地上1层01单元",
+      "distance": "59m"
+    },
+    {
+      "brand": "星巴克沿街取餐点(上海富士康大厦)",
+      "address": "陆家嘴环路1368号",
+      "distance": "62m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海GALA MALL尚悦湾广场",
+      "open_date": "2017-12-23",
+      "area": "7万㎡",
+      "jun_daily_avg": "2.8万人次",
+      "weekday_avg": "3.2万人次",
+      "holiday_avg": "1.6万人次"
+    },
+    {
+      "name": "上海IFC",
+      "open_date": "2010-04-28",
+      "area": "11万㎡",
+      "jun_daily_avg": "5.2万人次",
+      "weekday_avg": "5.2万人次",
+      "holiday_avg": "5万人次"
+    },
+    {
+      "name": "上海正大广场",
+      "open_date": "2002-01-01",
+      "area": "24.3万㎡",
+      "jun_daily_avg": "5.2万人次",
+      "weekday_avg": "4.7万人次",
+      "holiday_avg": "6.3万人次"
+    },
+    {
+      "name": "上海金茂J·LIFE生活时尚中心",
+      "open_date": "2005-09-01",
+      "area": "2.3万㎡",
+      "jun_daily_avg": "1.4万人次",
+      "weekday_avg": "1.4万人次",
+      "holiday_avg": "1.4万人次"
+    },
+    {
+      "name": "上海环球金融中心",
+      "open_date": "2008-08-29",
+      "area": "1.4万㎡",
+      "jun_daily_avg": "1.9万人次",
+      "weekday_avg": "2.2万人次",
+      "holiday_avg": "1万人次"
+    },
+    {
+      "name": "上海白玉兰广场",
+      "open_date": "2017-01-04",
+      "area": "11万㎡",
+      "jun_daily_avg": "5.7万人次",
+      "weekday_avg": "5.7万人次",
+      "holiday_avg": "5.7万人次"
+    },
+    {
+      "name": "上海之品商场",
+      "open_date": "-",
+      "area": "7万㎡",
+      "jun_daily_avg": "3.3万人次",
+      "weekday_avg": "3.4万人次",
+      "holiday_avg": "3.2万人次"
+    },
+    {
+      "name": "上海览海国际广场",
+      "open_date": "2017-11-28",
+      "area": "3.7万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "金茂时尚生活中心",
+      "open_date": "2005-09-01",
+      "area": "2.3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海1862时尚艺术中心",
+      "open_date": "2018-05-06",
+      "area": "1.6万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 92.0,
+      "within_1yr_pct": 12.0,
+      "1_3yr_pct": 14.1,
+      "over_3yr_pct": 73.9
+    },
+    {
+      "type": "购物",
+      "count": 37.0,
+      "within_1yr_pct": 24.3,
+      "1_3yr_pct": 27.0,
+      "over_3yr_pct": 48.6
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 10.0,
+      "within_1yr_pct": 10.0,
+      "1_3yr_pct": 40.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "教育培训",
+      "count": 2.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 8.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 12.5,
+      "over_3yr_pct": 87.5
+    },
+    {
+      "type": "生活服务",
+      "count": 28.0,
+      "within_1yr_pct": 21.4,
+      "1_3yr_pct": 21.4,
+      "over_3yr_pct": 57.1
+    },
+    {
+      "type": "运动健身",
+      "count": 3.0,
+      "within_1yr_pct": 66.7,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 33.3
+    },
+    {
+      "type": "车辆服务",
+      "count": 19.0,
+      "within_1yr_pct": 15.8,
+      "1_3yr_pct": 36.8,
+      "over_3yr_pct": 47.4
+    }
+  ]
+}

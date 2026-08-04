@@ -1,0 +1,407 @@
+{
+  "name": "上海南翔太茂商业广场",
+  "city": "上海市",
+  "address": "上海市嘉定区南翔镇丰翔路3168号上海南翔太茂商业广场",
+  "lat": 31.299554,
+  "lng": 121.326333,
+  "overview": {
+    "score": 90.1,
+    "score_rank": "市内前30%",
+    "population_score": 74.2,
+    "area_score": 72.4,
+    "consumption_score": 71.9,
+    "industry_score": 90.3,
+    "annual_sales": "南翔太茂商业广场拥有浓浓欧式普罗旺斯风情，集零售、餐饮、娱乐、健康、文化、教育和生活配套于一体，满足高品质生活需求",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 3.7,
+    "open_date": "2016-10-01",
+    "operator": "博枫资产管理公司(Brookfield)",
+    "brand": "",
+    "type": "亲子型",
+    "floors": "L1-L4"
+  },
+  "traffic": {
+    "annual_daily": 1.41,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第186",
+    "jun_total": 63.3,
+    "jun_total_rank": "市内商场第183名",
+    "jun_daily_avg": 2.1,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第183名",
+    "weekday_avg": 1.8,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第195名",
+    "holiday_avg": 3.0,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第165名"
+  },
+  "population": {
+    "residential": {
+      "500m": 1.1,
+      "1_5km": 12.2,
+      "3km": 42.1
+    },
+    "office": {
+      "500m": 6600.0,
+      "1_5km": 6.1,
+      "3km": 21.7
+    },
+    "permanent": {
+      "500m": 1.4,
+      "1_5km": 11.6,
+      "3km": 40.0
+    }
+  },
+  "business": {
+    "competitors": 6.0,
+    "food": 123.0,
+    "shopping": 68.0,
+    "leisure": 20.0,
+    "education": 48.0,
+    "hotel": 24.0,
+    "services": 120.0,
+    "fitness": 26.0,
+    "auto": 12.0,
+    "total_stores": 92.0,
+    "old_store_3yr_pct": 46.0
+  },
+  "nearby_poi": {
+    "business": 1.0,
+    "community": 179.0,
+    "office": 26.0,
+    "school": 19.0,
+    "hospital": 20.0,
+    "transport": 10.0,
+    "scenic": 166.0
+  },
+  "demographics": {
+    "male_pct": 52.2,
+    "female_pct": null,
+    "education": {
+      "小学": 10.0,
+      "初中": 19.1,
+      "高中": 11.7,
+      "大专": 9.3,
+      "本科": 45.1,
+      "硕士": 3.9,
+      "博士": 0.9
+    },
+    "has_children_pct": 64.8,
+    "no_children_pct": 35.2
+  },
+  "scraped_at": "2026-07-31T15:49:48.465Z",
+  "nearby_restaurants": [
+    {
+      "brand": "茉酸奶(上海南翔太茂商业广场店)",
+      "address": "丰翔路3168号南翔太茂商业广场1层B区124A",
+      "distance": "14m"
+    },
+    {
+      "brand": "欧味多(南翔太茂商业广场店)",
+      "address": "丰翔路3168号上海南翔太茂商业广场F1层",
+      "distance": "16m"
+    },
+    {
+      "brand": "厨魔牛排(南翔太茂商业广场店)",
+      "address": "南翔镇丰翔路3168号上海南翔太茂商业广场4楼",
+      "distance": "17m"
+    },
+    {
+      "brand": "润妃鲜炖(南翔太茂商业广场店)",
+      "address": "丰翔路3168号南翔太茂商业广场1层",
+      "distance": "20m"
+    },
+    {
+      "brand": "谷田稻香·砂锅菜(南翔太茂店)",
+      "address": "丰翔路3168号南翔太茂广场B区125",
+      "distance": "21m"
+    },
+    {
+      "brand": "香港美心月饼(南翔太茂店)",
+      "address": "丰翔路3168号南翔太茂商场1楼中庭(靠近火辣炸鸡)",
+      "distance": "22m"
+    },
+    {
+      "brand": "EBT中国移动(上海南翔太茂商业广场店)",
+      "address": "丰翔路3168号上海南翔太茂商业广场F2层",
+      "distance": "22m"
+    },
+    {
+      "brand": "湘八爷辣椒炒肉",
+      "address": "南翔镇丰翔路3168号1幢一层B区128湘八爷辣椒炒肉",
+      "distance": "23m"
+    },
+    {
+      "brand": "萨莉亚意式餐厅(上海南翔太茂商业广场店)",
+      "address": "丰翔路3168号上海南翔太茂商业广场F1层",
+      "distance": "24m"
+    },
+    {
+      "brand": "嗨炒嗨炒土鸡蛋炒饭(南翔太茂店)(暂停营业)",
+      "address": "南翔镇丰翔路3168号1幢1层B区126",
+      "distance": "24m"
+    },
+    {
+      "brand": "茉酸奶(上海南翔太茂商业广场店)",
+      "address": "丰翔路3168号南翔太茂商业广场1层B区124A",
+      "distance": "14m"
+    },
+    {
+      "brand": "欧味多(南翔太茂商业广场店)",
+      "address": "丰翔路3168号上海南翔太茂商业广场F1层",
+      "distance": "16m"
+    },
+    {
+      "brand": "厨魔牛排(南翔太茂商业广场店)",
+      "address": "南翔镇丰翔路3168号上海南翔太茂商业广场4楼",
+      "distance": "17m"
+    },
+    {
+      "brand": "润妃鲜炖(南翔太茂商业广场店)",
+      "address": "丰翔路3168号南翔太茂商业广场1层",
+      "distance": "20m"
+    },
+    {
+      "brand": "谷田稻香·砂锅菜(南翔太茂店)",
+      "address": "丰翔路3168号南翔太茂广场B区125",
+      "distance": "21m"
+    },
+    {
+      "brand": "香港美心月饼(南翔太茂店)",
+      "address": "丰翔路3168号南翔太茂商场1楼中庭(靠近火辣炸鸡)",
+      "distance": "22m"
+    },
+    {
+      "brand": "EBT中国移动(上海南翔太茂商业广场店)",
+      "address": "丰翔路3168号上海南翔太茂商业广场F2层",
+      "distance": "22m"
+    },
+    {
+      "brand": "湘八爷辣椒炒肉",
+      "address": "南翔镇丰翔路3168号1幢一层B区128湘八爷辣椒炒肉",
+      "distance": "23m"
+    },
+    {
+      "brand": "萨莉亚意式餐厅(上海南翔太茂商业广场店)",
+      "address": "丰翔路3168号上海南翔太茂商业广场F1层",
+      "distance": "24m"
+    },
+    {
+      "brand": "嗨炒嗨炒土鸡蛋炒饭(南翔太茂店)(暂停营业)",
+      "address": "南翔镇丰翔路3168号1幢1层B区126",
+      "distance": "24m"
+    },
+    {
+      "brand": "茉酸奶(上海南翔太茂商业广场店)",
+      "address": "丰翔路3168号南翔太茂商业广场1层B区124A",
+      "distance": "14m"
+    },
+    {
+      "brand": "欧味多(南翔太茂商业广场店)",
+      "address": "丰翔路3168号上海南翔太茂商业广场F1层",
+      "distance": "16m"
+    },
+    {
+      "brand": "厨魔牛排(南翔太茂商业广场店)",
+      "address": "南翔镇丰翔路3168号上海南翔太茂商业广场4楼",
+      "distance": "17m"
+    },
+    {
+      "brand": "润妃鲜炖(南翔太茂商业广场店)",
+      "address": "丰翔路3168号南翔太茂商业广场1层",
+      "distance": "20m"
+    },
+    {
+      "brand": "谷田稻香·砂锅菜(南翔太茂店)",
+      "address": "丰翔路3168号南翔太茂广场B区125",
+      "distance": "21m"
+    },
+    {
+      "brand": "香港美心月饼(南翔太茂店)",
+      "address": "丰翔路3168号南翔太茂商场1楼中庭(靠近火辣炸鸡)",
+      "distance": "22m"
+    },
+    {
+      "brand": "EBT中国移动(上海南翔太茂商业广场店)",
+      "address": "丰翔路3168号上海南翔太茂商业广场F2层",
+      "distance": "22m"
+    },
+    {
+      "brand": "湘八爷辣椒炒肉",
+      "address": "南翔镇丰翔路3168号1幢一层B区128湘八爷辣椒炒肉",
+      "distance": "23m"
+    },
+    {
+      "brand": "萨莉亚意式餐厅(上海南翔太茂商业广场店)",
+      "address": "丰翔路3168号上海南翔太茂商业广场F1层",
+      "distance": "24m"
+    },
+    {
+      "brand": "嗨炒嗨炒土鸡蛋炒饭(南翔太茂店)(暂停营业)",
+      "address": "南翔镇丰翔路3168号1幢1层B区126",
+      "distance": "24m"
+    },
+    {
+      "brand": "茉酸奶(上海南翔太茂商业广场店)",
+      "address": "丰翔路3168号南翔太茂商业广场1层B区124A",
+      "distance": "14m"
+    },
+    {
+      "brand": "欧味多(南翔太茂商业广场店)",
+      "address": "丰翔路3168号上海南翔太茂商业广场F1层",
+      "distance": "16m"
+    },
+    {
+      "brand": "厨魔牛排(南翔太茂商业广场店)",
+      "address": "南翔镇丰翔路3168号上海南翔太茂商业广场4楼",
+      "distance": "17m"
+    },
+    {
+      "brand": "润妃鲜炖(南翔太茂商业广场店)",
+      "address": "丰翔路3168号南翔太茂商业广场1层",
+      "distance": "20m"
+    },
+    {
+      "brand": "谷田稻香·砂锅菜(南翔太茂店)",
+      "address": "丰翔路3168号南翔太茂广场B区125",
+      "distance": "21m"
+    },
+    {
+      "brand": "香港美心月饼(南翔太茂店)",
+      "address": "丰翔路3168号南翔太茂商场1楼中庭(靠近火辣炸鸡)",
+      "distance": "22m"
+    },
+    {
+      "brand": "EBT中国移动(上海南翔太茂商业广场店)",
+      "address": "丰翔路3168号上海南翔太茂商业广场F2层",
+      "distance": "22m"
+    },
+    {
+      "brand": "湘八爷辣椒炒肉",
+      "address": "南翔镇丰翔路3168号1幢一层B区128湘八爷辣椒炒肉",
+      "distance": "23m"
+    },
+    {
+      "brand": "萨莉亚意式餐厅(上海南翔太茂商业广场店)",
+      "address": "丰翔路3168号上海南翔太茂商业广场F1层",
+      "distance": "24m"
+    },
+    {
+      "brand": "嗨炒嗨炒土鸡蛋炒饭(南翔太茂店)(暂停营业)",
+      "address": "南翔镇丰翔路3168号1幢1层B区126",
+      "distance": "24m"
+    },
+    {
+      "brand": "茉酸奶(上海南翔太茂商业广场店)",
+      "address": "丰翔路3168号南翔太茂商业广场1层B区124A",
+      "distance": "14m"
+    },
+    {
+      "brand": "欧味多(南翔太茂商业广场店)",
+      "address": "丰翔路3168号上海南翔太茂商业广场F1层",
+      "distance": "16m"
+    },
+    {
+      "brand": "厨魔牛排(南翔太茂商业广场店)",
+      "address": "南翔镇丰翔路3168号上海南翔太茂商业广场4楼",
+      "distance": "17m"
+    },
+    {
+      "brand": "润妃鲜炖(南翔太茂商业广场店)",
+      "address": "丰翔路3168号南翔太茂商业广场1层",
+      "distance": "20m"
+    },
+    {
+      "brand": "谷田稻香·砂锅菜(南翔太茂店)",
+      "address": "丰翔路3168号南翔太茂广场B区125",
+      "distance": "21m"
+    },
+    {
+      "brand": "香港美心月饼(南翔太茂店)",
+      "address": "丰翔路3168号南翔太茂商场1楼中庭(靠近火辣炸鸡)",
+      "distance": "22m"
+    },
+    {
+      "brand": "EBT中国移动(上海南翔太茂商业广场店)",
+      "address": "丰翔路3168号上海南翔太茂商业广场F2层",
+      "distance": "22m"
+    },
+    {
+      "brand": "湘八爷辣椒炒肉",
+      "address": "南翔镇丰翔路3168号1幢一层B区128湘八爷辣椒炒肉",
+      "distance": "23m"
+    },
+    {
+      "brand": "萨莉亚意式餐厅(上海南翔太茂商业广场店)",
+      "address": "丰翔路3168号上海南翔太茂商业广场F1层",
+      "distance": "24m"
+    },
+    {
+      "brand": "嗨炒嗨炒土鸡蛋炒饭(南翔太茂店)(暂停营业)",
+      "address": "南翔镇丰翔路3168号1幢1层B区126",
+      "distance": "24m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海中冶祥腾城市广场",
+      "open_date": "2013-04-30",
+      "area": "3.4万㎡",
+      "jun_daily_avg": "2.7万人次",
+      "weekday_avg": "2.6万人次",
+      "holiday_avg": "3.1万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 39.0,
+      "within_1yr_pct": 23.1,
+      "1_3yr_pct": 28.2,
+      "over_3yr_pct": 48.7
+    },
+    {
+      "type": "购物",
+      "count": 13.0,
+      "within_1yr_pct": 15.4,
+      "1_3yr_pct": 38.5,
+      "over_3yr_pct": 46.2
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 3.0,
+      "within_1yr_pct": 66.7,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "教育培训",
+      "count": 15.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 40.0,
+      "over_3yr_pct": 40.0
+    },
+    {
+      "type": "生活服务",
+      "count": 8.0,
+      "within_1yr_pct": 12.5,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 62.5
+    },
+    {
+      "type": "运动健身",
+      "count": 8.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 37.5,
+      "over_3yr_pct": 62.5
+    },
+    {
+      "type": "车辆服务",
+      "count": 6.0,
+      "within_1yr_pct": 16.7,
+      "1_3yr_pct": 66.7,
+      "over_3yr_pct": 16.7
+    }
+  ]
+}

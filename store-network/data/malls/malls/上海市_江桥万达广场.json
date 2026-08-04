@@ -1,0 +1,405 @@
+{
+  "name": "江桥万达广场",
+  "city": "上海市",
+  "address": "上海市嘉定区江桥镇金沙江西路1051号",
+  "lat": 31.239601,
+  "lng": 121.323609,
+  "overview": {
+    "score": 96.6,
+    "score_rank": "市内前30%",
+    "population_score": 93.3,
+    "area_score": 94.4,
+    "consumption_score": 70.6,
+    "industry_score": 96.7,
+    "annual_sales": "上海江桥万达广场是集城市公寓、商业广场、SOHO、餐饮酒吧街等多重物业类型于一体的大型城市综合体，建成后将聚合形成全功能都会居住区、集群式超级商业区、集成式中央商务区三大主要功能区",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 21.39,
+    "open_date": "2011-06-18",
+    "operator": "珠海万达商业管理集团股份有限公司",
+    "brand": "万达",
+    "type": "综合型",
+    "floors": "B1-L5"
+  },
+  "traffic": {
+    "annual_daily": 5.7,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第17",
+    "jun_total": 232.0,
+    "jun_total_rank": "市内商场第15名",
+    "jun_daily_avg": 7.7,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第15名",
+    "weekday_avg": 7.1,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第17名",
+    "holiday_avg": 9.5,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第21名"
+  },
+  "population": {
+    "residential": {
+      "500m": 2.8,
+      "1_5km": 15.7,
+      "3km": 48.4
+    },
+    "office": {
+      "500m": 2.1,
+      "1_5km": 8.3,
+      "3km": 21.6
+    },
+    "permanent": {
+      "500m": 3.2,
+      "1_5km": 14.9,
+      "3km": 42.8
+    }
+  },
+  "business": {
+    "competitors": 8.0,
+    "food": 484.0,
+    "shopping": 276.0,
+    "leisure": 70.0,
+    "education": 49.0,
+    "hotel": 65.0,
+    "services": 337.0,
+    "fitness": 44.0,
+    "auto": 32.0,
+    "total_stores": 931.0,
+    "old_store_3yr_pct": 40.0
+  },
+  "nearby_poi": {
+    "business": null,
+    "community": 159.0,
+    "office": 43.0,
+    "school": 8.0,
+    "hospital": 18.0,
+    "transport": 7.0,
+    "scenic": 45.0
+  },
+  "demographics": {
+    "male_pct": 58.8,
+    "female_pct": null,
+    "education": {
+      "小学": 10.9,
+      "初中": 20.2,
+      "高中": 12.2,
+      "大专": 9.9,
+      "本科": 43.2,
+      "硕士": 2.7,
+      "博士": 0.9
+    },
+    "has_children_pct": 50.7,
+    "no_children_pct": 49.3
+  },
+  "scraped_at": "2026-08-01T04:22:21.045Z",
+  "nearby_restaurants": [
+    {
+      "brand": "食巷(万达广场上海江桥店)",
+      "address": "金沙江西路1053号万达广场上海江桥店F1层",
+      "distance": "10m"
+    },
+    {
+      "brand": "格瑞思(江桥万达店)(暂停营业)",
+      "address": "江桥镇金沙江西路1051号万达广场(上海江桥店)F1层",
+      "distance": "11m"
+    },
+    {
+      "brand": "胡子大厨·湖南小炒(江桥万达店)",
+      "address": "金沙江西路1063号万达广场1层综合楼1216B室",
+      "distance": "15m"
+    },
+    {
+      "brand": "野人先生Gelato(上海江桥万达店)",
+      "address": "江桥万达广场1F中岛野人先生",
+      "distance": "22m"
+    },
+    {
+      "brand": "DQ(8号写字楼东北)",
+      "address": "金沙江西路1075弄49号万达百货3层3072",
+      "distance": "23m"
+    },
+    {
+      "brand": "KOI Thé(江桥万达店)",
+      "address": "嘉定区金沙江西路1051号江桥万达广场1楼1004号商铺",
+      "distance": "23m"
+    },
+    {
+      "brand": "煲仔皇(上海江桥万达广场店)",
+      "address": "江桥万达广场3层(金运路地铁站1号口步行280米)",
+      "distance": "24m"
+    },
+    {
+      "brand": "和府小面小酒(上海江桥万达店)(暂停营业)",
+      "address": "江桥镇金沙江西路1051号万达广场(江桥店)F3层",
+      "distance": "26m"
+    },
+    {
+      "brand": "望丘山(江桥万达店)",
+      "address": "江桥镇金沙江西路1051弄30号1层1030-1031室",
+      "distance": "27m"
+    },
+    {
+      "brand": "和府捞面(上海江桥万达广场店)",
+      "address": "江桥镇金沙江西路1063号万达广场五楼",
+      "distance": "28m"
+    },
+    {
+      "brand": "食巷(万达广场上海江桥店)",
+      "address": "金沙江西路1053号万达广场上海江桥店F1层",
+      "distance": "10m"
+    },
+    {
+      "brand": "格瑞思(江桥万达店)(暂停营业)",
+      "address": "江桥镇金沙江西路1051号万达广场(上海江桥店)F1层",
+      "distance": "11m"
+    },
+    {
+      "brand": "胡子大厨·湖南小炒(江桥万达店)",
+      "address": "金沙江西路1063号万达广场1层综合楼1216B室",
+      "distance": "15m"
+    },
+    {
+      "brand": "野人先生Gelato(上海江桥万达店)",
+      "address": "江桥万达广场1F中岛野人先生",
+      "distance": "22m"
+    },
+    {
+      "brand": "DQ(8号写字楼东北)",
+      "address": "金沙江西路1075弄49号万达百货3层3072",
+      "distance": "23m"
+    },
+    {
+      "brand": "KOI Thé(江桥万达店)",
+      "address": "嘉定区金沙江西路1051号江桥万达广场1楼1004号商铺",
+      "distance": "23m"
+    },
+    {
+      "brand": "煲仔皇(上海江桥万达广场店)",
+      "address": "江桥万达广场3层(金运路地铁站1号口步行280米)",
+      "distance": "24m"
+    },
+    {
+      "brand": "和府小面小酒(上海江桥万达店)(暂停营业)",
+      "address": "江桥镇金沙江西路1051号万达广场(江桥店)F3层",
+      "distance": "26m"
+    },
+    {
+      "brand": "望丘山(江桥万达店)",
+      "address": "江桥镇金沙江西路1051弄30号1层1030-1031室",
+      "distance": "27m"
+    },
+    {
+      "brand": "和府捞面(上海江桥万达广场店)",
+      "address": "江桥镇金沙江西路1063号万达广场五楼",
+      "distance": "28m"
+    },
+    {
+      "brand": "食巷(万达广场上海江桥店)",
+      "address": "金沙江西路1053号万达广场上海江桥店F1层",
+      "distance": "10m"
+    },
+    {
+      "brand": "格瑞思(江桥万达店)(暂停营业)",
+      "address": "江桥镇金沙江西路1051号万达广场(上海江桥店)F1层",
+      "distance": "11m"
+    },
+    {
+      "brand": "胡子大厨·湖南小炒(江桥万达店)",
+      "address": "金沙江西路1063号万达广场1层综合楼1216B室",
+      "distance": "15m"
+    },
+    {
+      "brand": "野人先生Gelato(上海江桥万达店)",
+      "address": "江桥万达广场1F中岛野人先生",
+      "distance": "22m"
+    },
+    {
+      "brand": "DQ(8号写字楼东北)",
+      "address": "金沙江西路1075弄49号万达百货3层3072",
+      "distance": "23m"
+    },
+    {
+      "brand": "KOI Thé(江桥万达店)",
+      "address": "嘉定区金沙江西路1051号江桥万达广场1楼1004号商铺",
+      "distance": "23m"
+    },
+    {
+      "brand": "煲仔皇(上海江桥万达广场店)",
+      "address": "江桥万达广场3层(金运路地铁站1号口步行280米)",
+      "distance": "24m"
+    },
+    {
+      "brand": "和府小面小酒(上海江桥万达店)(暂停营业)",
+      "address": "江桥镇金沙江西路1051号万达广场(江桥店)F3层",
+      "distance": "26m"
+    },
+    {
+      "brand": "望丘山(江桥万达店)",
+      "address": "江桥镇金沙江西路1051弄30号1层1030-1031室",
+      "distance": "27m"
+    },
+    {
+      "brand": "和府捞面(上海江桥万达广场店)",
+      "address": "江桥镇金沙江西路1063号万达广场五楼",
+      "distance": "28m"
+    },
+    {
+      "brand": "食巷(万达广场上海江桥店)",
+      "address": "金沙江西路1053号万达广场上海江桥店F1层",
+      "distance": "10m"
+    },
+    {
+      "brand": "格瑞思(江桥万达店)(暂停营业)",
+      "address": "江桥镇金沙江西路1051号万达广场(上海江桥店)F1层",
+      "distance": "11m"
+    },
+    {
+      "brand": "胡子大厨·湖南小炒(江桥万达店)",
+      "address": "金沙江西路1063号万达广场1层综合楼1216B室",
+      "distance": "15m"
+    },
+    {
+      "brand": "野人先生Gelato(上海江桥万达店)",
+      "address": "江桥万达广场1F中岛野人先生",
+      "distance": "22m"
+    },
+    {
+      "brand": "DQ(8号写字楼东北)",
+      "address": "金沙江西路1075弄49号万达百货3层3072",
+      "distance": "23m"
+    },
+    {
+      "brand": "KOI Thé(江桥万达店)",
+      "address": "嘉定区金沙江西路1051号江桥万达广场1楼1004号商铺",
+      "distance": "23m"
+    },
+    {
+      "brand": "煲仔皇(上海江桥万达广场店)",
+      "address": "江桥万达广场3层(金运路地铁站1号口步行280米)",
+      "distance": "24m"
+    },
+    {
+      "brand": "和府小面小酒(上海江桥万达店)(暂停营业)",
+      "address": "江桥镇金沙江西路1051号万达广场(江桥店)F3层",
+      "distance": "26m"
+    },
+    {
+      "brand": "望丘山(江桥万达店)",
+      "address": "江桥镇金沙江西路1051弄30号1层1030-1031室",
+      "distance": "27m"
+    },
+    {
+      "brand": "和府捞面(上海江桥万达广场店)",
+      "address": "江桥镇金沙江西路1063号万达广场五楼",
+      "distance": "28m"
+    },
+    {
+      "brand": "食巷(万达广场上海江桥店)",
+      "address": "金沙江西路1053号万达广场上海江桥店F1层",
+      "distance": "10m"
+    },
+    {
+      "brand": "格瑞思(江桥万达店)(暂停营业)",
+      "address": "江桥镇金沙江西路1051号万达广场(上海江桥店)F1层",
+      "distance": "11m"
+    },
+    {
+      "brand": "胡子大厨·湖南小炒(江桥万达店)",
+      "address": "金沙江西路1063号万达广场1层综合楼1216B室",
+      "distance": "15m"
+    },
+    {
+      "brand": "野人先生Gelato(上海江桥万达店)",
+      "address": "江桥万达广场1F中岛野人先生",
+      "distance": "22m"
+    },
+    {
+      "brand": "DQ(8号写字楼东北)",
+      "address": "金沙江西路1075弄49号万达百货3层3072",
+      "distance": "23m"
+    },
+    {
+      "brand": "KOI Thé(江桥万达店)",
+      "address": "嘉定区金沙江西路1051号江桥万达广场1楼1004号商铺",
+      "distance": "23m"
+    },
+    {
+      "brand": "煲仔皇(上海江桥万达广场店)",
+      "address": "江桥万达广场3层(金运路地铁站1号口步行280米)",
+      "distance": "24m"
+    },
+    {
+      "brand": "和府小面小酒(上海江桥万达店)(暂停营业)",
+      "address": "江桥镇金沙江西路1051号万达广场(江桥店)F3层",
+      "distance": "26m"
+    },
+    {
+      "brand": "望丘山(江桥万达店)",
+      "address": "江桥镇金沙江西路1051弄30号1层1030-1031室",
+      "distance": "27m"
+    },
+    {
+      "brand": "和府捞面(上海江桥万达广场店)",
+      "address": "江桥镇金沙江西路1063号万达广场五楼",
+      "distance": "28m"
+    }
+  ],
+  "nearby_malls": [],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 286.0,
+      "within_1yr_pct": 24.5,
+      "1_3yr_pct": 33.9,
+      "over_3yr_pct": 41.6
+    },
+    {
+      "type": "购物",
+      "count": 215.0,
+      "within_1yr_pct": 19.5,
+      "1_3yr_pct": 31.6,
+      "over_3yr_pct": 48.8
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 54.0,
+      "within_1yr_pct": 40.7,
+      "1_3yr_pct": 35.2,
+      "over_3yr_pct": 24.1
+    },
+    {
+      "type": "教育培训",
+      "count": 33.0,
+      "within_1yr_pct": 9.1,
+      "1_3yr_pct": 39.4,
+      "over_3yr_pct": 51.5
+    },
+    {
+      "type": "酒店住宿",
+      "count": 46.0,
+      "within_1yr_pct": 45.7,
+      "1_3yr_pct": 19.6,
+      "over_3yr_pct": 34.8
+    },
+    {
+      "type": "生活服务",
+      "count": 251.0,
+      "within_1yr_pct": 29.1,
+      "1_3yr_pct": 35.9,
+      "over_3yr_pct": 35.1
+    },
+    {
+      "type": "运动健身",
+      "count": 29.0,
+      "within_1yr_pct": 34.5,
+      "1_3yr_pct": 27.6,
+      "over_3yr_pct": 37.9
+    },
+    {
+      "type": "车辆服务",
+      "count": 17.0,
+      "within_1yr_pct": 17.6,
+      "1_3yr_pct": 47.1,
+      "over_3yr_pct": 35.3
+    }
+  ]
+}

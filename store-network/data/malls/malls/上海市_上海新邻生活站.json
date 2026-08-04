@@ -1,0 +1,472 @@
+{
+  "name": "上海新邻生活站",
+  "city": "上海市",
+  "address": "上海市黄浦区陆家浜路1100号",
+  "lat": 31.211542,
+  "lng": 121.487041,
+  "overview": {
+    "score": 92.0,
+    "score_rank": "市内前30%",
+    "population_score": 100.0,
+    "area_score": 87.1,
+    "consumption_score": 85.8,
+    "industry_score": 92.0,
+    "annual_sales": "上海新邻生活站位于黄浦区西藏南路陆家浜路路口，建筑面积约2万多平方米，为轨道交通8、9号线陆家浜路上盖项目，从规划之初，就充分考察了周围的住宅配套，是一个周边居民步行距离内的生活场所，满足都市社区人群更加高品质的生活需求。目前的业态充分整合潮流风尚、健康美容、甜品乐宠、时尚餐饮、亲子享乐等多元业态，旨在打造一个“Timeout in STATION”的魅力生活港",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 2.3,
+    "open_date": "2015-04-01",
+    "operator": "上海新凌房地产开发有限公司",
+    "brand": "",
+    "type": "美食型",
+    "floors": "B2-L3"
+  },
+  "traffic": {
+    "annual_daily": 1.08,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第238",
+    "jun_total": 36.9,
+    "jun_total_rank": "市内商场第266名",
+    "jun_daily_avg": 1.2,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第266名",
+    "weekday_avg": 1.2,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第251名",
+    "holiday_avg": 1.2,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第288名"
+  },
+  "population": {
+    "residential": {
+      "500m": 4.7,
+      "1_5km": 32.1,
+      "3km": 83.1
+    },
+    "office": {
+      "500m": 3.0,
+      "1_5km": 20.8,
+      "3km": 87.2
+    },
+    "permanent": {
+      "500m": 4.8,
+      "1_5km": 33.0,
+      "3km": 96.5
+    }
+  },
+  "business": {
+    "competitors": 4.0,
+    "food": 198.0,
+    "shopping": 208.0,
+    "leisure": 27.0,
+    "education": 36.0,
+    "hotel": 84.0,
+    "services": 189.0,
+    "fitness": 32.0,
+    "auto": 4.0,
+    "total_stores": 78.0,
+    "old_store_3yr_pct": 59.0
+  },
+  "nearby_poi": {
+    "business": 11.0,
+    "community": 833.0,
+    "office": 117.0,
+    "school": 91.0,
+    "hospital": 165.0,
+    "transport": 16.0,
+    "scenic": 675.0
+  },
+  "demographics": {
+    "male_pct": 48.2,
+    "female_pct": null,
+    "education": {
+      "小学": 9.3,
+      "初中": 17.0,
+      "高中": 11.4,
+      "大专": 7.0,
+      "本科": 47.4,
+      "硕士": 6.1,
+      "博士": 1.8
+    },
+    "has_children_pct": 59.9,
+    "no_children_pct": 40.1
+  },
+  "scraped_at": "2026-07-31T16:30:58.836Z",
+  "nearby_restaurants": [
+    {
+      "brand": "大米先生(新邻生活站店)",
+      "address": "陆家浜路1100号新邻生活站B2F层09B室",
+      "distance": "3m"
+    },
+    {
+      "brand": "孙七姐砂锅麻酱土豆粉刀削面(PLAYNE新邻店)",
+      "address": "陆家浜路1100号B1F-12",
+      "distance": "4m"
+    },
+    {
+      "brand": "香港美心月饼(黄浦店)",
+      "address": "陆家浜路1100号新邻生活站商场B1层自动扶梯旁(靠近名创优品)",
+      "distance": "4m"
+    },
+    {
+      "brand": "柠季·手打柠檬茶(上海新邻生活广场店)",
+      "address": "半淞园路街道陆家浜路1100号新邻生活站商场B1F-21铺",
+      "distance": "4m"
+    },
+    {
+      "brand": "粤个厨子厨师做饭服务",
+      "address": "陆家浜路1100号PLAYNE新邻",
+      "distance": "4m"
+    },
+    {
+      "brand": "韩匠汤饭(新邻店)",
+      "address": "陆家浜路1100号PLAYNE新邻B1层",
+      "distance": "4m"
+    },
+    {
+      "brand": "老娘舅(上海陆家浜路新邻生活站店)",
+      "address": "陆家浜路1100号B1层B1F-03丶04",
+      "distance": "6m"
+    },
+    {
+      "brand": "精悦蓉(黄浦新邻店)",
+      "address": "西藏南路1107号黄浦逸城B1层",
+      "distance": "6m"
+    },
+    {
+      "brand": "酸汤米粉",
+      "address": "陆家浜路1100号PLAYNE新邻",
+      "distance": "6m"
+    },
+    {
+      "brand": "李忘川·本帮面(新邻店)",
+      "address": "陆家浜路与林荫路交叉口东南60米",
+      "distance": "7m"
+    },
+    {
+      "brand": "大米先生(新邻生活站店)",
+      "address": "陆家浜路1100号新邻生活站B2F层09B室",
+      "distance": "3m"
+    },
+    {
+      "brand": "孙七姐砂锅麻酱土豆粉刀削面(PLAYNE新邻店)",
+      "address": "陆家浜路1100号B1F-12",
+      "distance": "4m"
+    },
+    {
+      "brand": "香港美心月饼(黄浦店)",
+      "address": "陆家浜路1100号新邻生活站商场B1层自动扶梯旁(靠近名创优品)",
+      "distance": "4m"
+    },
+    {
+      "brand": "柠季·手打柠檬茶(上海新邻生活广场店)",
+      "address": "半淞园路街道陆家浜路1100号新邻生活站商场B1F-21铺",
+      "distance": "4m"
+    },
+    {
+      "brand": "粤个厨子厨师做饭服务",
+      "address": "陆家浜路1100号PLAYNE新邻",
+      "distance": "4m"
+    },
+    {
+      "brand": "韩匠汤饭(新邻店)",
+      "address": "陆家浜路1100号PLAYNE新邻B1层",
+      "distance": "4m"
+    },
+    {
+      "brand": "老娘舅(上海陆家浜路新邻生活站店)",
+      "address": "陆家浜路1100号B1层B1F-03丶04",
+      "distance": "6m"
+    },
+    {
+      "brand": "精悦蓉(黄浦新邻店)",
+      "address": "西藏南路1107号黄浦逸城B1层",
+      "distance": "6m"
+    },
+    {
+      "brand": "酸汤米粉",
+      "address": "陆家浜路1100号PLAYNE新邻",
+      "distance": "6m"
+    },
+    {
+      "brand": "李忘川·本帮面(新邻店)",
+      "address": "陆家浜路与林荫路交叉口东南60米",
+      "distance": "7m"
+    },
+    {
+      "brand": "大米先生(新邻生活站店)",
+      "address": "陆家浜路1100号新邻生活站B2F层09B室",
+      "distance": "3m"
+    },
+    {
+      "brand": "孙七姐砂锅麻酱土豆粉刀削面(PLAYNE新邻店)",
+      "address": "陆家浜路1100号B1F-12",
+      "distance": "4m"
+    },
+    {
+      "brand": "香港美心月饼(黄浦店)",
+      "address": "陆家浜路1100号新邻生活站商场B1层自动扶梯旁(靠近名创优品)",
+      "distance": "4m"
+    },
+    {
+      "brand": "柠季·手打柠檬茶(上海新邻生活广场店)",
+      "address": "半淞园路街道陆家浜路1100号新邻生活站商场B1F-21铺",
+      "distance": "4m"
+    },
+    {
+      "brand": "粤个厨子厨师做饭服务",
+      "address": "陆家浜路1100号PLAYNE新邻",
+      "distance": "4m"
+    },
+    {
+      "brand": "韩匠汤饭(新邻店)",
+      "address": "陆家浜路1100号PLAYNE新邻B1层",
+      "distance": "4m"
+    },
+    {
+      "brand": "老娘舅(上海陆家浜路新邻生活站店)",
+      "address": "陆家浜路1100号B1层B1F-03丶04",
+      "distance": "6m"
+    },
+    {
+      "brand": "精悦蓉(黄浦新邻店)",
+      "address": "西藏南路1107号黄浦逸城B1层",
+      "distance": "6m"
+    },
+    {
+      "brand": "酸汤米粉",
+      "address": "陆家浜路1100号PLAYNE新邻",
+      "distance": "6m"
+    },
+    {
+      "brand": "李忘川·本帮面(新邻店)",
+      "address": "陆家浜路与林荫路交叉口东南60米",
+      "distance": "7m"
+    },
+    {
+      "brand": "大米先生(新邻生活站店)",
+      "address": "陆家浜路1100号新邻生活站B2F层09B室",
+      "distance": "3m"
+    },
+    {
+      "brand": "孙七姐砂锅麻酱土豆粉刀削面(PLAYNE新邻店)",
+      "address": "陆家浜路1100号B1F-12",
+      "distance": "4m"
+    },
+    {
+      "brand": "香港美心月饼(黄浦店)",
+      "address": "陆家浜路1100号新邻生活站商场B1层自动扶梯旁(靠近名创优品)",
+      "distance": "4m"
+    },
+    {
+      "brand": "柠季·手打柠檬茶(上海新邻生活广场店)",
+      "address": "半淞园路街道陆家浜路1100号新邻生活站商场B1F-21铺",
+      "distance": "4m"
+    },
+    {
+      "brand": "粤个厨子厨师做饭服务",
+      "address": "陆家浜路1100号PLAYNE新邻",
+      "distance": "4m"
+    },
+    {
+      "brand": "韩匠汤饭(新邻店)",
+      "address": "陆家浜路1100号PLAYNE新邻B1层",
+      "distance": "4m"
+    },
+    {
+      "brand": "老娘舅(上海陆家浜路新邻生活站店)",
+      "address": "陆家浜路1100号B1层B1F-03丶04",
+      "distance": "6m"
+    },
+    {
+      "brand": "精悦蓉(黄浦新邻店)",
+      "address": "西藏南路1107号黄浦逸城B1层",
+      "distance": "6m"
+    },
+    {
+      "brand": "酸汤米粉",
+      "address": "陆家浜路1100号PLAYNE新邻",
+      "distance": "6m"
+    },
+    {
+      "brand": "李忘川·本帮面(新邻店)",
+      "address": "陆家浜路与林荫路交叉口东南60米",
+      "distance": "7m"
+    },
+    {
+      "brand": "大米先生(新邻生活站店)",
+      "address": "陆家浜路1100号新邻生活站B2F层09B室",
+      "distance": "3m"
+    },
+    {
+      "brand": "孙七姐砂锅麻酱土豆粉刀削面(PLAYNE新邻店)",
+      "address": "陆家浜路1100号B1F-12",
+      "distance": "4m"
+    },
+    {
+      "brand": "香港美心月饼(黄浦店)",
+      "address": "陆家浜路1100号新邻生活站商场B1层自动扶梯旁(靠近名创优品)",
+      "distance": "4m"
+    },
+    {
+      "brand": "柠季·手打柠檬茶(上海新邻生活广场店)",
+      "address": "半淞园路街道陆家浜路1100号新邻生活站商场B1F-21铺",
+      "distance": "4m"
+    },
+    {
+      "brand": "粤个厨子厨师做饭服务",
+      "address": "陆家浜路1100号PLAYNE新邻",
+      "distance": "4m"
+    },
+    {
+      "brand": "韩匠汤饭(新邻店)",
+      "address": "陆家浜路1100号PLAYNE新邻B1层",
+      "distance": "4m"
+    },
+    {
+      "brand": "老娘舅(上海陆家浜路新邻生活站店)",
+      "address": "陆家浜路1100号B1层B1F-03丶04",
+      "distance": "6m"
+    },
+    {
+      "brand": "精悦蓉(黄浦新邻店)",
+      "address": "西藏南路1107号黄浦逸城B1层",
+      "distance": "6m"
+    },
+    {
+      "brand": "酸汤米粉",
+      "address": "陆家浜路1100号PLAYNE新邻",
+      "distance": "6m"
+    },
+    {
+      "brand": "李忘川·本帮面(新邻店)",
+      "address": "陆家浜路与林荫路交叉口东南60米",
+      "distance": "7m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海中海环宇荟",
+      "open_date": "2018-07-02",
+      "area": "3万㎡",
+      "jun_daily_avg": "2万人次",
+      "weekday_avg": "2.1万人次",
+      "holiday_avg": "1.6万人次"
+    },
+    {
+      "name": "上海LuOne凯德晶萃广场",
+      "open_date": "2018-09-22",
+      "area": "13万㎡",
+      "jun_daily_avg": "3.1万人次",
+      "weekday_avg": "3.1万人次",
+      "holiday_avg": "3.3万人次"
+    },
+    {
+      "name": "上海恒基·旭辉天地",
+      "open_date": "2021-04-30",
+      "area": "1万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海SOHO复兴广场",
+      "open_date": "2014",
+      "area": "2.2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海融创·外滩壹号汇",
+      "open_date": "2021-11-26",
+      "area": "2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海香港名都",
+      "open_date": "2010-09-01",
+      "area": "4万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海湖滨道购物中心",
+      "open_date": "2015-01-01",
+      "area": "5.1万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海太平洋新天地商业广场",
+      "open_date": "2025",
+      "area": "8.3万㎡",
+      "jun_daily_avg": "2万人次",
+      "weekday_avg": "2万人次",
+      "holiday_avg": "2.1万人次"
+    },
+    {
+      "name": "上海新天地时尚Ⅱ",
+      "open_date": "2023-01-12",
+      "area": "2.6万㎡",
+      "jun_daily_avg": "1.3万人次",
+      "weekday_avg": "1.1万人次",
+      "holiday_avg": "1.8万人次"
+    },
+    {
+      "name": "上海无限极荟",
+      "open_date": "2016-12-03",
+      "area": "3万㎡",
+      "jun_daily_avg": "1.5万人次",
+      "weekday_avg": "1.6万人次",
+      "holiday_avg": "1.2万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 40.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 12.5,
+      "over_3yr_pct": 67.5
+    },
+    {
+      "type": "购物",
+      "count": 24.0,
+      "within_1yr_pct": 45.8,
+      "1_3yr_pct": 8.3,
+      "over_3yr_pct": 45.8
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 2.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "教育培训",
+      "count": 3.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    },
+    {
+      "type": "生活服务",
+      "count": 8.0,
+      "within_1yr_pct": 12.5,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 62.5
+    },
+    {
+      "type": "运动健身",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
+    }
+  ]
+}

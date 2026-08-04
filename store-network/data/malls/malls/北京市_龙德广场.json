@@ -1,0 +1,431 @@
+{
+  "name": "龙德广场",
+  "city": "北京市",
+  "address": "北京市昌平区立汤路186号楼",
+  "lat": 40.059602,
+  "lng": 116.415754,
+  "overview": {
+    "score": 95.7,
+    "score_rank": "市内前30%",
+    "population_score": 89.6,
+    "area_score": 97.1,
+    "consumption_score": 71.5,
+    "industry_score": 95.7,
+    "annual_sales": "25",
+    "annual_sales_unit": "亿元",
+    "area_size_sqm": 24.0,
+    "open_date": "2008-08-16",
+    "operator": "北京华联商厦股份有限公司",
+    "brand": "华联",
+    "type": "综合型",
+    "floors": "B1-L5"
+  },
+  "traffic": {
+    "annual_daily": 4.53,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第23",
+    "jun_total": 143.4,
+    "jun_total_rank": "市内商场第60名",
+    "jun_daily_avg": 4.8,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第60名",
+    "weekday_avg": 4.0,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第66名",
+    "holiday_avg": 6.8,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第40名"
+  },
+  "population": {
+    "residential": {
+      "500m": 2.2,
+      "1_5km": 15.5,
+      "3km": 53.3
+    },
+    "office": {
+      "500m": 1.5,
+      "1_5km": 6.1,
+      "3km": 21.0
+    },
+    "permanent": {
+      "500m": 2.4,
+      "1_5km": 14.8,
+      "3km": 50.6
+    }
+  },
+  "business": {
+    "competitors": 5.0,
+    "food": 337.0,
+    "shopping": 351.0,
+    "leisure": 33.0,
+    "education": 48.0,
+    "hotel": 33.0,
+    "services": 279.0,
+    "fitness": 30.0,
+    "auto": 36.0,
+    "total_stores": 393.0,
+    "old_store_3yr_pct": 55.0
+  },
+  "nearby_poi": {
+    "business": 4.0,
+    "community": 151.0,
+    "office": 10.0,
+    "school": 28.0,
+    "hospital": 37.0,
+    "transport": 6.0,
+    "scenic": 77.0
+  },
+  "demographics": {
+    "male_pct": 49.7,
+    "female_pct": null,
+    "education": {
+      "小学": 7.1,
+      "初中": 12.5,
+      "高中": 9.5,
+      "大专": 8.0,
+      "本科": 53.1,
+      "硕士": 8.0,
+      "博士": 1.8
+    },
+    "has_children_pct": 58.1,
+    "no_children_pct": 41.9
+  },
+  "scraped_at": "2026-08-01T04:34:07.833Z",
+  "nearby_restaurants": [
+    {
+      "brand": "玖铭家国潮炸鸡腿(北京昌平龙德广场店)",
+      "address": "天通苑北街道立汤路186号龙德广场四层",
+      "distance": "1m"
+    },
+    {
+      "brand": "正新鸡排(龙德广场店)",
+      "address": "东小口镇立汤路186号院1号楼5层F5232",
+      "distance": "8m"
+    },
+    {
+      "brand": "火炉火(龙德广场店)",
+      "address": "立汤路186号翠微百货(龙德广场店)5F层",
+      "distance": "10m"
+    },
+    {
+      "brand": "金掌勺(龙德广场)",
+      "address": "东小口镇立汤路186号院1号楼5层f5027",
+      "distance": "11m"
+    },
+    {
+      "brand": "凉皮先生(龙德广场店)",
+      "address": "北京城区龙德广场四层宝食港内",
+      "distance": "11m"
+    },
+    {
+      "brand": "渝婆老灶重庆火锅(龙德广场店)",
+      "address": "北京城区龙德广场4层宝食港",
+      "distance": "14m"
+    },
+    {
+      "brand": "武圣羊汤·西北面(龙德广场店)",
+      "address": "龙德广场4层F4325武圣羊汤",
+      "distance": "14m"
+    },
+    {
+      "brand": "烧腊·猪脚饭",
+      "address": "立汤路186号龙德广场F4层",
+      "distance": "15m"
+    },
+    {
+      "brand": "烤悠悠旋转自助烤肉(北京首店)",
+      "address": "北京城区立汤路186号龙德广场",
+      "distance": "17m"
+    },
+    {
+      "brand": "米字格新疆炒米粉",
+      "address": "北京城区立汤路186号楼",
+      "distance": "17m"
+    },
+    {
+      "brand": "玖铭家国潮炸鸡腿(北京昌平龙德广场店)",
+      "address": "天通苑北街道立汤路186号龙德广场四层",
+      "distance": "1m"
+    },
+    {
+      "brand": "正新鸡排(龙德广场店)",
+      "address": "东小口镇立汤路186号院1号楼5层F5232",
+      "distance": "8m"
+    },
+    {
+      "brand": "火炉火(龙德广场店)",
+      "address": "立汤路186号翠微百货(龙德广场店)5F层",
+      "distance": "10m"
+    },
+    {
+      "brand": "金掌勺(龙德广场)",
+      "address": "东小口镇立汤路186号院1号楼5层f5027",
+      "distance": "11m"
+    },
+    {
+      "brand": "凉皮先生(龙德广场店)",
+      "address": "北京城区龙德广场四层宝食港内",
+      "distance": "11m"
+    },
+    {
+      "brand": "渝婆老灶重庆火锅(龙德广场店)",
+      "address": "北京城区龙德广场4层宝食港",
+      "distance": "14m"
+    },
+    {
+      "brand": "武圣羊汤·西北面(龙德广场店)",
+      "address": "龙德广场4层F4325武圣羊汤",
+      "distance": "14m"
+    },
+    {
+      "brand": "烧腊·猪脚饭",
+      "address": "立汤路186号龙德广场F4层",
+      "distance": "15m"
+    },
+    {
+      "brand": "烤悠悠旋转自助烤肉(北京首店)",
+      "address": "北京城区立汤路186号龙德广场",
+      "distance": "17m"
+    },
+    {
+      "brand": "米字格新疆炒米粉",
+      "address": "北京城区立汤路186号楼",
+      "distance": "17m"
+    },
+    {
+      "brand": "玖铭家国潮炸鸡腿(北京昌平龙德广场店)",
+      "address": "天通苑北街道立汤路186号龙德广场四层",
+      "distance": "1m"
+    },
+    {
+      "brand": "正新鸡排(龙德广场店)",
+      "address": "东小口镇立汤路186号院1号楼5层F5232",
+      "distance": "8m"
+    },
+    {
+      "brand": "火炉火(龙德广场店)",
+      "address": "立汤路186号翠微百货(龙德广场店)5F层",
+      "distance": "10m"
+    },
+    {
+      "brand": "金掌勺(龙德广场)",
+      "address": "东小口镇立汤路186号院1号楼5层f5027",
+      "distance": "11m"
+    },
+    {
+      "brand": "凉皮先生(龙德广场店)",
+      "address": "北京城区龙德广场四层宝食港内",
+      "distance": "11m"
+    },
+    {
+      "brand": "渝婆老灶重庆火锅(龙德广场店)",
+      "address": "北京城区龙德广场4层宝食港",
+      "distance": "14m"
+    },
+    {
+      "brand": "武圣羊汤·西北面(龙德广场店)",
+      "address": "龙德广场4层F4325武圣羊汤",
+      "distance": "14m"
+    },
+    {
+      "brand": "烧腊·猪脚饭",
+      "address": "立汤路186号龙德广场F4层",
+      "distance": "15m"
+    },
+    {
+      "brand": "烤悠悠旋转自助烤肉(北京首店)",
+      "address": "北京城区立汤路186号龙德广场",
+      "distance": "17m"
+    },
+    {
+      "brand": "米字格新疆炒米粉",
+      "address": "北京城区立汤路186号楼",
+      "distance": "17m"
+    },
+    {
+      "brand": "玖铭家国潮炸鸡腿(北京昌平龙德广场店)",
+      "address": "天通苑北街道立汤路186号龙德广场四层",
+      "distance": "1m"
+    },
+    {
+      "brand": "正新鸡排(龙德广场店)",
+      "address": "东小口镇立汤路186号院1号楼5层F5232",
+      "distance": "8m"
+    },
+    {
+      "brand": "火炉火(龙德广场店)",
+      "address": "立汤路186号翠微百货(龙德广场店)5F层",
+      "distance": "10m"
+    },
+    {
+      "brand": "金掌勺(龙德广场)",
+      "address": "东小口镇立汤路186号院1号楼5层f5027",
+      "distance": "11m"
+    },
+    {
+      "brand": "凉皮先生(龙德广场店)",
+      "address": "北京城区龙德广场四层宝食港内",
+      "distance": "11m"
+    },
+    {
+      "brand": "渝婆老灶重庆火锅(龙德广场店)",
+      "address": "北京城区龙德广场4层宝食港",
+      "distance": "14m"
+    },
+    {
+      "brand": "武圣羊汤·西北面(龙德广场店)",
+      "address": "龙德广场4层F4325武圣羊汤",
+      "distance": "14m"
+    },
+    {
+      "brand": "烧腊·猪脚饭",
+      "address": "立汤路186号龙德广场F4层",
+      "distance": "15m"
+    },
+    {
+      "brand": "烤悠悠旋转自助烤肉(北京首店)",
+      "address": "北京城区立汤路186号龙德广场",
+      "distance": "17m"
+    },
+    {
+      "brand": "米字格新疆炒米粉",
+      "address": "北京城区立汤路186号楼",
+      "distance": "17m"
+    },
+    {
+      "brand": "玖铭家国潮炸鸡腿(北京昌平龙德广场店)",
+      "address": "天通苑北街道立汤路186号龙德广场四层",
+      "distance": "1m"
+    },
+    {
+      "brand": "正新鸡排(龙德广场店)",
+      "address": "东小口镇立汤路186号院1号楼5层F5232",
+      "distance": "8m"
+    },
+    {
+      "brand": "火炉火(龙德广场店)",
+      "address": "立汤路186号翠微百货(龙德广场店)5F层",
+      "distance": "10m"
+    },
+    {
+      "brand": "金掌勺(龙德广场)",
+      "address": "东小口镇立汤路186号院1号楼5层f5027",
+      "distance": "11m"
+    },
+    {
+      "brand": "凉皮先生(龙德广场店)",
+      "address": "北京城区龙德广场四层宝食港内",
+      "distance": "11m"
+    },
+    {
+      "brand": "渝婆老灶重庆火锅(龙德广场店)",
+      "address": "北京城区龙德广场4层宝食港",
+      "distance": "14m"
+    },
+    {
+      "brand": "武圣羊汤·西北面(龙德广场店)",
+      "address": "龙德广场4层F4325武圣羊汤",
+      "distance": "14m"
+    },
+    {
+      "brand": "烧腊·猪脚饭",
+      "address": "立汤路186号龙德广场F4层",
+      "distance": "15m"
+    },
+    {
+      "brand": "烤悠悠旋转自助烤肉(北京首店)",
+      "address": "北京城区立汤路186号龙德广场",
+      "distance": "17m"
+    },
+    {
+      "brand": "米字格新疆炒米粉",
+      "address": "北京城区立汤路186号楼",
+      "distance": "17m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "北京万优汇Unit One",
+      "open_date": "2021-05-01",
+      "area": "6.6万㎡",
+      "jun_daily_avg": "1.7万人次",
+      "weekday_avg": "1.6万人次",
+      "holiday_avg": "2.2万人次"
+    },
+    {
+      "name": "北京西单商场天通苑购物中心",
+      "open_date": "2002-11-01",
+      "area": "1.5万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "北京天通苑华联购物中心",
+      "open_date": "2011-09-01",
+      "area": "7.5万㎡",
+      "jun_daily_avg": "2.6万人次",
+      "weekday_avg": "2.4万人次",
+      "holiday_avg": "3.2万人次"
+    },
+    {
+      "name": "北京华贸天地",
+      "open_date": "2012-09-23",
+      "area": "7万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 143.0,
+      "within_1yr_pct": 23.8,
+      "1_3yr_pct": 36.4,
+      "over_3yr_pct": 39.9
+    },
+    {
+      "type": "购物",
+      "count": 195.0,
+      "within_1yr_pct": 13.3,
+      "1_3yr_pct": 16.9,
+      "over_3yr_pct": 69.7
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 10.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 30.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "教育培训",
+      "count": 9.0,
+      "within_1yr_pct": 22.2,
+      "1_3yr_pct": 22.2,
+      "over_3yr_pct": 55.6
+    },
+    {
+      "type": "生活服务",
+      "count": 20.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "运动健身",
+      "count": 4.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 12.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 16.7
+    }
+  ]
+}

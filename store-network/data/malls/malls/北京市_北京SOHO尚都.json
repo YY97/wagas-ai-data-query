@@ -1,0 +1,479 @@
+{
+  "name": "北京SOHO尚都",
+  "city": "北京市",
+  "address": "北京市朝阳区东大桥路8号",
+  "lat": 39.918767,
+  "lng": 116.452116,
+  "overview": {
+    "score": 90.9,
+    "score_rank": "市内前30%",
+    "population_score": 88.3,
+    "area_score": 100.0,
+    "consumption_score": 81.5,
+    "industry_score": 90.8,
+    "annual_sales": "SOHO尚都位于北京东大桥路，是北京CBD区域内一个以室内商业街区+小型办公为主的SOHO建筑，共17万平方米，占地2.2公顷。包括一条贯穿3.7万平方米的室内商业街，两栋办公楼",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 3.7,
+    "open_date": "2005-01-06",
+    "operator": "北京锦荣物业管理有限公司",
+    "brand": "",
+    "type": "美食型",
+    "floors": "B1-L4"
+  },
+  "traffic": {
+    "annual_daily": 1.41,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第166",
+    "jun_total": 65.5,
+    "jun_total_rank": "市内商场第148名",
+    "jun_daily_avg": 2.2,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第148名",
+    "weekday_avg": 2.3,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第137名",
+    "holiday_avg": 1.9,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第182名"
+  },
+  "population": {
+    "residential": {
+      "500m": 2.0,
+      "1_5km": 15.9,
+      "3km": 71.8
+    },
+    "office": {
+      "500m": 4.3,
+      "1_5km": 32.2,
+      "3km": 85.5
+    },
+    "permanent": {
+      "500m": 2.6,
+      "1_5km": 21.1,
+      "3km": 83.0
+    }
+  },
+  "business": {
+    "competitors": 14.0,
+    "food": 467.0,
+    "shopping": 277.0,
+    "leisure": 49.0,
+    "education": 82.0,
+    "hotel": 38.0,
+    "services": 345.0,
+    "fitness": 61.0,
+    "auto": 34.0,
+    "total_stores": 354.0,
+    "old_store_3yr_pct": 39.0
+  },
+  "nearby_poi": {
+    "business": 20.0,
+    "community": 483.0,
+    "office": 190.0,
+    "school": 34.0,
+    "hospital": 171.0,
+    "transport": 15.0,
+    "scenic": 312.0
+  },
+  "demographics": {
+    "male_pct": 53.0,
+    "female_pct": null,
+    "education": {
+      "小学": 9.6,
+      "初中": 16.8,
+      "高中": 10.9,
+      "大专": 6.7,
+      "本科": 47.4,
+      "硕士": 6.9,
+      "博士": 1.7
+    },
+    "has_children_pct": 54.8,
+    "no_children_pct": 45.2
+  },
+  "scraped_at": "2026-07-31T18:11:53.580Z",
+  "nearby_restaurants": [
+    {
+      "brand": "EricDeGarden 艾里克的花园",
+      "address": "东大桥路8号院SOHO尚都北塔(南北塔)A座2层2255",
+      "distance": "9m"
+    },
+    {
+      "brand": "瑞幸咖啡(尚都SOHO南塔店)",
+      "address": "东大桥路8号院尚都南塔大厦一层2162室",
+      "distance": "19m"
+    },
+    {
+      "brand": "TripleS小输胜(SOHO·尚都店)",
+      "address": "尚都soho南塔一层2157中骏世界城E座东门对面",
+      "distance": "25m"
+    },
+    {
+      "brand": "MOJI 日式生活馆(世贸天阶店)",
+      "address": "金桐西路与景华北街交叉口南160米",
+      "distance": "26m"
+    },
+    {
+      "brand": "烤冷面手抓饼",
+      "address": "金桐西路与景华北街交叉口西南140米",
+      "distance": "26m"
+    },
+    {
+      "brand": "来一休智能茶室(SOHO尚都店)",
+      "address": "东大桥路8号SOHO·尚都南北塔F3层",
+      "distance": "33m"
+    },
+    {
+      "brand": "BANG BAGEL(国贸店)",
+      "address": "东大桥8号soho尚都2163号",
+      "distance": "33m"
+    },
+    {
+      "brand": "葡道PUDAO WINES(中骏世界城店)",
+      "address": "金汇路6号中骏世界城",
+      "distance": "40m"
+    },
+    {
+      "brand": "素彩发素食餐厅",
+      "address": "金桐西路与景华北街交叉口西南80米",
+      "distance": "46m"
+    },
+    {
+      "brand": "打酒铺Sake Bar·Shop",
+      "address": "东大桥路8号院3号楼1至2层2168",
+      "distance": "47m"
+    },
+    {
+      "brand": "EricDeGarden 艾里克的花园",
+      "address": "东大桥路8号院SOHO尚都北塔(南北塔)A座2层2255",
+      "distance": "9m"
+    },
+    {
+      "brand": "瑞幸咖啡(尚都SOHO南塔店)",
+      "address": "东大桥路8号院尚都南塔大厦一层2162室",
+      "distance": "19m"
+    },
+    {
+      "brand": "TripleS小输胜(SOHO·尚都店)",
+      "address": "尚都soho南塔一层2157中骏世界城E座东门对面",
+      "distance": "25m"
+    },
+    {
+      "brand": "MOJI 日式生活馆(世贸天阶店)",
+      "address": "金桐西路与景华北街交叉口南160米",
+      "distance": "26m"
+    },
+    {
+      "brand": "烤冷面手抓饼",
+      "address": "金桐西路与景华北街交叉口西南140米",
+      "distance": "26m"
+    },
+    {
+      "brand": "来一休智能茶室(SOHO尚都店)",
+      "address": "东大桥路8号SOHO·尚都南北塔F3层",
+      "distance": "33m"
+    },
+    {
+      "brand": "BANG BAGEL(国贸店)",
+      "address": "东大桥8号soho尚都2163号",
+      "distance": "33m"
+    },
+    {
+      "brand": "葡道PUDAO WINES(中骏世界城店)",
+      "address": "金汇路6号中骏世界城",
+      "distance": "40m"
+    },
+    {
+      "brand": "素彩发素食餐厅",
+      "address": "金桐西路与景华北街交叉口西南80米",
+      "distance": "46m"
+    },
+    {
+      "brand": "打酒铺Sake Bar·Shop",
+      "address": "东大桥路8号院3号楼1至2层2168",
+      "distance": "47m"
+    },
+    {
+      "brand": "EricDeGarden 艾里克的花园",
+      "address": "东大桥路8号院SOHO尚都北塔(南北塔)A座2层2255",
+      "distance": "9m"
+    },
+    {
+      "brand": "瑞幸咖啡(尚都SOHO南塔店)",
+      "address": "东大桥路8号院尚都南塔大厦一层2162室",
+      "distance": "19m"
+    },
+    {
+      "brand": "TripleS小输胜(SOHO·尚都店)",
+      "address": "尚都soho南塔一层2157中骏世界城E座东门对面",
+      "distance": "25m"
+    },
+    {
+      "brand": "MOJI 日式生活馆(世贸天阶店)",
+      "address": "金桐西路与景华北街交叉口南160米",
+      "distance": "26m"
+    },
+    {
+      "brand": "烤冷面手抓饼",
+      "address": "金桐西路与景华北街交叉口西南140米",
+      "distance": "26m"
+    },
+    {
+      "brand": "来一休智能茶室(SOHO尚都店)",
+      "address": "东大桥路8号SOHO·尚都南北塔F3层",
+      "distance": "33m"
+    },
+    {
+      "brand": "BANG BAGEL(国贸店)",
+      "address": "东大桥8号soho尚都2163号",
+      "distance": "33m"
+    },
+    {
+      "brand": "葡道PUDAO WINES(中骏世界城店)",
+      "address": "金汇路6号中骏世界城",
+      "distance": "40m"
+    },
+    {
+      "brand": "素彩发素食餐厅",
+      "address": "金桐西路与景华北街交叉口西南80米",
+      "distance": "46m"
+    },
+    {
+      "brand": "打酒铺Sake Bar·Shop",
+      "address": "东大桥路8号院3号楼1至2层2168",
+      "distance": "47m"
+    },
+    {
+      "brand": "EricDeGarden 艾里克的花园",
+      "address": "东大桥路8号院SOHO尚都北塔(南北塔)A座2层2255",
+      "distance": "9m"
+    },
+    {
+      "brand": "瑞幸咖啡(尚都SOHO南塔店)",
+      "address": "东大桥路8号院尚都南塔大厦一层2162室",
+      "distance": "19m"
+    },
+    {
+      "brand": "TripleS小输胜(SOHO·尚都店)",
+      "address": "尚都soho南塔一层2157中骏世界城E座东门对面",
+      "distance": "25m"
+    },
+    {
+      "brand": "MOJI 日式生活馆(世贸天阶店)",
+      "address": "金桐西路与景华北街交叉口南160米",
+      "distance": "26m"
+    },
+    {
+      "brand": "烤冷面手抓饼",
+      "address": "金桐西路与景华北街交叉口西南140米",
+      "distance": "26m"
+    },
+    {
+      "brand": "来一休智能茶室(SOHO尚都店)",
+      "address": "东大桥路8号SOHO·尚都南北塔F3层",
+      "distance": "33m"
+    },
+    {
+      "brand": "BANG BAGEL(国贸店)",
+      "address": "东大桥8号soho尚都2163号",
+      "distance": "33m"
+    },
+    {
+      "brand": "葡道PUDAO WINES(中骏世界城店)",
+      "address": "金汇路6号中骏世界城",
+      "distance": "40m"
+    },
+    {
+      "brand": "素彩发素食餐厅",
+      "address": "金桐西路与景华北街交叉口西南80米",
+      "distance": "46m"
+    },
+    {
+      "brand": "打酒铺Sake Bar·Shop",
+      "address": "东大桥路8号院3号楼1至2层2168",
+      "distance": "47m"
+    },
+    {
+      "brand": "EricDeGarden 艾里克的花园",
+      "address": "东大桥路8号院SOHO尚都北塔(南北塔)A座2层2255",
+      "distance": "9m"
+    },
+    {
+      "brand": "瑞幸咖啡(尚都SOHO南塔店)",
+      "address": "东大桥路8号院尚都南塔大厦一层2162室",
+      "distance": "19m"
+    },
+    {
+      "brand": "TripleS小输胜(SOHO·尚都店)",
+      "address": "尚都soho南塔一层2157中骏世界城E座东门对面",
+      "distance": "25m"
+    },
+    {
+      "brand": "MOJI 日式生活馆(世贸天阶店)",
+      "address": "金桐西路与景华北街交叉口南160米",
+      "distance": "26m"
+    },
+    {
+      "brand": "烤冷面手抓饼",
+      "address": "金桐西路与景华北街交叉口西南140米",
+      "distance": "26m"
+    },
+    {
+      "brand": "来一休智能茶室(SOHO尚都店)",
+      "address": "东大桥路8号SOHO·尚都南北塔F3层",
+      "distance": "33m"
+    },
+    {
+      "brand": "BANG BAGEL(国贸店)",
+      "address": "东大桥8号soho尚都2163号",
+      "distance": "33m"
+    },
+    {
+      "brand": "葡道PUDAO WINES(中骏世界城店)",
+      "address": "金汇路6号中骏世界城",
+      "distance": "40m"
+    },
+    {
+      "brand": "素彩发素食餐厅",
+      "address": "金桐西路与景华北街交叉口西南80米",
+      "distance": "46m"
+    },
+    {
+      "brand": "打酒铺Sake Bar·Shop",
+      "address": "东大桥路8号院3号楼1至2层2168",
+      "distance": "47m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "北京CBD中骏世界城",
+      "open_date": "2009-12-01",
+      "area": "3万㎡",
+      "jun_daily_avg": "2.4万人次",
+      "weekday_avg": "2.4万人次",
+      "holiday_avg": "2.4万人次"
+    },
+    {
+      "name": "北京世贸天阶",
+      "open_date": "2007-09-15",
+      "area": "8万㎡",
+      "jun_daily_avg": "2.2万人次",
+      "weekday_avg": "2.4万人次",
+      "holiday_avg": "1.9万人次"
+    },
+    {
+      "name": "北京侨福芳草地",
+      "open_date": "2012-09-01",
+      "area": "4.7万㎡",
+      "jun_daily_avg": "2.3万人次",
+      "weekday_avg": "2.4万人次",
+      "holiday_avg": "2.2万人次"
+    },
+    {
+      "name": "北京财富购物中心",
+      "open_date": "2010-11-01",
+      "area": "3.8万㎡",
+      "jun_daily_avg": "1.7万人次",
+      "weekday_avg": "1.9万人次",
+      "holiday_avg": "1.2万人次"
+    },
+    {
+      "name": "北京蓝岛大厦金隅百货",
+      "open_date": "2007-01-27",
+      "area": "1.6万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "北京春平广场",
+      "open_date": "2007-01-01",
+      "area": "2500㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "北京嘉里城",
+      "open_date": "2012-09-08",
+      "area": "1.3万㎡",
+      "jun_daily_avg": "1.4万人次",
+      "weekday_avg": "1.6万人次",
+      "holiday_avg": "1万人次"
+    },
+    {
+      "name": "北京建外环宇荟",
+      "open_date": "2018-05-29",
+      "area": "4万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "北京THE BOX 朝外｜年轻力中心",
+      "open_date": "2023-06-10",
+      "area": "1.8万㎡",
+      "jun_daily_avg": "1.9万人次",
+      "weekday_avg": "1.6万人次",
+      "holiday_avg": "2.9万人次"
+    },
+    {
+      "name": "北京好世界商业广场",
+      "open_date": "2015-01-01",
+      "area": "2.4万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 151.0,
+      "within_1yr_pct": 37.1,
+      "1_3yr_pct": 29.8,
+      "over_3yr_pct": 33.1
+    },
+    {
+      "type": "购物",
+      "count": 42.0,
+      "within_1yr_pct": 26.2,
+      "1_3yr_pct": 31.0,
+      "over_3yr_pct": 42.9
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 9.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 33.3
+    },
+    {
+      "type": "教育培训",
+      "count": 33.0,
+      "within_1yr_pct": 18.2,
+      "1_3yr_pct": 21.2,
+      "over_3yr_pct": 60.6
+    },
+    {
+      "type": "酒店住宿",
+      "count": 5.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 60.0,
+      "over_3yr_pct": 20.0
+    },
+    {
+      "type": "生活服务",
+      "count": 101.0,
+      "within_1yr_pct": 23.8,
+      "1_3yr_pct": 35.6,
+      "over_3yr_pct": 40.6
+    },
+    {
+      "type": "运动健身",
+      "count": 13.0,
+      "within_1yr_pct": 23.1,
+      "1_3yr_pct": 46.2,
+      "over_3yr_pct": 30.8
+    }
+  ]
+}

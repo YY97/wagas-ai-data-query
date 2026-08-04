@@ -1,0 +1,439 @@
+{
+  "name": "茂业百货(春熙店)",
+  "city": "成都市",
+  "address": "广东省广州市天河区林和西路59号",
+  "lat": null,
+  "lng": null,
+  "overview": {
+    "score": 95.2,
+    "score_rank": "市内前30%",
+    "population_score": 84.0,
+    "area_score": 82.0,
+    "consumption_score": 91.8,
+    "industry_score": 95.3,
+    "annual_sales": "18",
+    "annual_sales_unit": "亿元",
+    "area_size_sqm": 12.0,
+    "open_date": "2009-10-01",
+    "operator": "广州东站天汇城有限公司",
+    "brand": "广州东站天汇城",
+    "type": "美食型",
+    "floors": "B3-L1"
+  },
+  "traffic": {
+    "annual_daily": 3.37,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第36",
+    "jun_total": 167.5,
+    "jun_total_rank": "市内商场第34名",
+    "jun_daily_avg": 5.6,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第34名",
+    "weekday_avg": 5.1,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第31名",
+    "holiday_avg": 6.8,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第36名"
+  },
+  "population": {
+    "residential": {
+      "500m": 2.4,
+      "1_5km": 22.8,
+      "3km": 96.9
+    },
+    "office": {
+      "500m": 3.9,
+      "1_5km": 23.8,
+      "3km": 87.0
+    },
+    "permanent": {
+      "500m": 4.9,
+      "1_5km": 25.7,
+      "3km": 97.5
+    }
+  },
+  "business": {
+    "competitors": 10.0,
+    "food": 364.0,
+    "shopping": 208.0,
+    "leisure": 30.0,
+    "education": 34.0,
+    "hotel": 140.0,
+    "services": 224.0,
+    "fitness": 34.0,
+    "auto": 24.0,
+    "total_stores": 241.0,
+    "old_store_3yr_pct": 44.0
+  },
+  "nearby_poi": {
+    "business": 10.0,
+    "community": 465.0,
+    "office": 121.0,
+    "school": 64.0,
+    "hospital": 213.0,
+    "transport": 10.0,
+    "scenic": 373.0
+  },
+  "demographics": {
+    "male_pct": 47.9,
+    "female_pct": null,
+    "education": {
+      "小学": 9.2,
+      "初中": 18.3,
+      "高中": 14.7,
+      "大专": 8.2,
+      "本科": 42.0,
+      "硕士": 6.0,
+      "博士": 1.6
+    },
+    "has_children_pct": 57.9,
+    "no_children_pct": 42.1
+  },
+  "scraped_at": "2026-08-02T07:35:59.114Z",
+  "nearby_restaurants": [
+    {
+      "brand": "流浪泡泡·破破烂烂的烤肉店(广州天河东方宝泰店)",
+      "address": "林和中路63号PO PARK东方宝泰B3层",
+      "distance": "0m"
+    },
+    {
+      "brand": "OhDoki 韩料 BISTRO",
+      "address": "东方宝泰购物广场B3楼3005铺",
+      "distance": "0m"
+    },
+    {
+      "brand": "永利烧鹅濑",
+      "address": "林和中路63号PO PARK东方宝泰",
+      "distance": "3m"
+    },
+    {
+      "brand": "马小火·手工拉面·新疆小馆(东方宝泰店)",
+      "address": "林和中路63号PO PARK东方宝泰B1层",
+      "distance": "3m"
+    },
+    {
+      "brand": "川古里东方宝泰店",
+      "address": "林和中路63号东方宝泰购物广场B3层3015铺",
+      "distance": "4m"
+    },
+    {
+      "brand": "煲仔正·老广州煲仔饭(天河宝泰店)",
+      "address": "林和西路东方宝泰购物广场负一楼(广州东站B1出口)J1316铺",
+      "distance": "4m"
+    },
+    {
+      "brand": "UNCLE FONG芳叔(东方宝泰店)",
+      "address": "林和中路63号东方宝泰购物广场B2楼aeon(近AEON超市)",
+      "distance": "4m"
+    },
+    {
+      "brand": "丘大叔UncleQ",
+      "address": "东站路与林和中路交叉口西南160米",
+      "distance": "4m"
+    },
+    {
+      "brand": "白玉·朝鲜族烤串(广州东方宝泰店)",
+      "address": "林和中路63号PO PARK东方宝泰B3层",
+      "distance": "4m"
+    },
+    {
+      "brand": "三立方咖啡(东方宝泰店)",
+      "address": "东方宝泰购物广场B1层1318(地铁B口)",
+      "distance": "8m"
+    },
+    {
+      "brand": "流浪泡泡·破破烂烂的烤肉店(广州天河东方宝泰店)",
+      "address": "林和中路63号PO PARK东方宝泰B3层",
+      "distance": "0m"
+    },
+    {
+      "brand": "OhDoki 韩料 BISTRO",
+      "address": "东方宝泰购物广场B3楼3005铺",
+      "distance": "0m"
+    },
+    {
+      "brand": "永利烧鹅濑",
+      "address": "林和中路63号PO PARK东方宝泰",
+      "distance": "3m"
+    },
+    {
+      "brand": "马小火·手工拉面·新疆小馆(东方宝泰店)",
+      "address": "林和中路63号PO PARK东方宝泰B1层",
+      "distance": "3m"
+    },
+    {
+      "brand": "川古里东方宝泰店",
+      "address": "林和中路63号东方宝泰购物广场B3层3015铺",
+      "distance": "4m"
+    },
+    {
+      "brand": "煲仔正·老广州煲仔饭(天河宝泰店)",
+      "address": "林和西路东方宝泰购物广场负一楼(广州东站B1出口)J1316铺",
+      "distance": "4m"
+    },
+    {
+      "brand": "UNCLE FONG芳叔(东方宝泰店)",
+      "address": "林和中路63号东方宝泰购物广场B2楼aeon(近AEON超市)",
+      "distance": "4m"
+    },
+    {
+      "brand": "丘大叔UncleQ",
+      "address": "东站路与林和中路交叉口西南160米",
+      "distance": "4m"
+    },
+    {
+      "brand": "白玉·朝鲜族烤串(广州东方宝泰店)",
+      "address": "林和中路63号PO PARK东方宝泰B3层",
+      "distance": "4m"
+    },
+    {
+      "brand": "三立方咖啡(东方宝泰店)",
+      "address": "东方宝泰购物广场B1层1318(地铁B口)",
+      "distance": "8m"
+    },
+    {
+      "brand": "流浪泡泡·破破烂烂的烤肉店(广州天河东方宝泰店)",
+      "address": "林和中路63号PO PARK东方宝泰B3层",
+      "distance": "0m"
+    },
+    {
+      "brand": "OhDoki 韩料 BISTRO",
+      "address": "东方宝泰购物广场B3楼3005铺",
+      "distance": "0m"
+    },
+    {
+      "brand": "永利烧鹅濑",
+      "address": "林和中路63号PO PARK东方宝泰",
+      "distance": "3m"
+    },
+    {
+      "brand": "马小火·手工拉面·新疆小馆(东方宝泰店)",
+      "address": "林和中路63号PO PARK东方宝泰B1层",
+      "distance": "3m"
+    },
+    {
+      "brand": "川古里东方宝泰店",
+      "address": "林和中路63号东方宝泰购物广场B3层3015铺",
+      "distance": "4m"
+    },
+    {
+      "brand": "煲仔正·老广州煲仔饭(天河宝泰店)",
+      "address": "林和西路东方宝泰购物广场负一楼(广州东站B1出口)J1316铺",
+      "distance": "4m"
+    },
+    {
+      "brand": "UNCLE FONG芳叔(东方宝泰店)",
+      "address": "林和中路63号东方宝泰购物广场B2楼aeon(近AEON超市)",
+      "distance": "4m"
+    },
+    {
+      "brand": "丘大叔UncleQ",
+      "address": "东站路与林和中路交叉口西南160米",
+      "distance": "4m"
+    },
+    {
+      "brand": "白玉·朝鲜族烤串(广州东方宝泰店)",
+      "address": "林和中路63号PO PARK东方宝泰B3层",
+      "distance": "4m"
+    },
+    {
+      "brand": "三立方咖啡(东方宝泰店)",
+      "address": "东方宝泰购物广场B1层1318(地铁B口)",
+      "distance": "8m"
+    },
+    {
+      "brand": "流浪泡泡·破破烂烂的烤肉店(广州天河东方宝泰店)",
+      "address": "林和中路63号PO PARK东方宝泰B3层",
+      "distance": "0m"
+    },
+    {
+      "brand": "OhDoki 韩料 BISTRO",
+      "address": "东方宝泰购物广场B3楼3005铺",
+      "distance": "0m"
+    },
+    {
+      "brand": "永利烧鹅濑",
+      "address": "林和中路63号PO PARK东方宝泰",
+      "distance": "3m"
+    },
+    {
+      "brand": "马小火·手工拉面·新疆小馆(东方宝泰店)",
+      "address": "林和中路63号PO PARK东方宝泰B1层",
+      "distance": "3m"
+    },
+    {
+      "brand": "川古里东方宝泰店",
+      "address": "林和中路63号东方宝泰购物广场B3层3015铺",
+      "distance": "4m"
+    },
+    {
+      "brand": "煲仔正·老广州煲仔饭(天河宝泰店)",
+      "address": "林和西路东方宝泰购物广场负一楼(广州东站B1出口)J1316铺",
+      "distance": "4m"
+    },
+    {
+      "brand": "UNCLE FONG芳叔(东方宝泰店)",
+      "address": "林和中路63号东方宝泰购物广场B2楼aeon(近AEON超市)",
+      "distance": "4m"
+    },
+    {
+      "brand": "丘大叔UncleQ",
+      "address": "东站路与林和中路交叉口西南160米",
+      "distance": "4m"
+    },
+    {
+      "brand": "白玉·朝鲜族烤串(广州东方宝泰店)",
+      "address": "林和中路63号PO PARK东方宝泰B3层",
+      "distance": "4m"
+    },
+    {
+      "brand": "三立方咖啡(东方宝泰店)",
+      "address": "东方宝泰购物广场B1层1318(地铁B口)",
+      "distance": "8m"
+    },
+    {
+      "brand": "流浪泡泡·破破烂烂的烤肉店(广州天河东方宝泰店)",
+      "address": "林和中路63号PO PARK东方宝泰B3层",
+      "distance": "0m"
+    },
+    {
+      "brand": "OhDoki 韩料 BISTRO",
+      "address": "东方宝泰购物广场B3楼3005铺",
+      "distance": "0m"
+    },
+    {
+      "brand": "永利烧鹅濑",
+      "address": "林和中路63号PO PARK东方宝泰",
+      "distance": "3m"
+    },
+    {
+      "brand": "马小火·手工拉面·新疆小馆(东方宝泰店)",
+      "address": "林和中路63号PO PARK东方宝泰B1层",
+      "distance": "3m"
+    },
+    {
+      "brand": "川古里东方宝泰店",
+      "address": "林和中路63号东方宝泰购物广场B3层3015铺",
+      "distance": "4m"
+    },
+    {
+      "brand": "煲仔正·老广州煲仔饭(天河宝泰店)",
+      "address": "林和西路东方宝泰购物广场负一楼(广州东站B1出口)J1316铺",
+      "distance": "4m"
+    },
+    {
+      "brand": "UNCLE FONG芳叔(东方宝泰店)",
+      "address": "林和中路63号东方宝泰购物广场B2楼aeon(近AEON超市)",
+      "distance": "4m"
+    },
+    {
+      "brand": "丘大叔UncleQ",
+      "address": "东站路与林和中路交叉口西南160米",
+      "distance": "4m"
+    },
+    {
+      "brand": "白玉·朝鲜族烤串(广州东方宝泰店)",
+      "address": "林和中路63号PO PARK东方宝泰B3层",
+      "distance": "4m"
+    },
+    {
+      "brand": "三立方咖啡(东方宝泰店)",
+      "address": "东方宝泰购物广场B1层1318(地铁B口)",
+      "distance": "8m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "广州天河汇运动商城",
+      "open_date": "2006-09-01",
+      "area": "-",
+      "jun_daily_avg": "8.1万人次",
+      "weekday_avg": "6.3万人次",
+      "holiday_avg": "13.1万人次"
+    },
+    {
+      "name": "天平商业广场",
+      "open_date": "-",
+      "area": "-",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "广州时尚天河商业广场",
+      "open_date": "2011-01-01",
+      "area": "14万㎡",
+      "jun_daily_avg": "8.1万人次",
+      "weekday_avg": "6.3万人次",
+      "holiday_avg": "13.1万人次"
+    },
+    {
+      "name": "百福广场",
+      "open_date": "-",
+      "area": "-",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "广州VT101维多利广场",
+      "open_date": "2002-01-01",
+      "area": "2.7万㎡",
+      "jun_daily_avg": "2.1万人次",
+      "weekday_avg": "1.9万人次",
+      "holiday_avg": "2.6万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 109.0,
+      "within_1yr_pct": 21.1,
+      "1_3yr_pct": 31.2,
+      "over_3yr_pct": 47.7
+    },
+    {
+      "type": "购物",
+      "count": 87.0,
+      "within_1yr_pct": 18.4,
+      "1_3yr_pct": 36.8,
+      "over_3yr_pct": 44.8
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 6.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 16.7,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 2.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "生活服务",
+      "count": 27.0,
+      "within_1yr_pct": 25.9,
+      "1_3yr_pct": 40.7,
+      "over_3yr_pct": 33.3
+    },
+    {
+      "type": "运动健身",
+      "count": 2.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 8.0,
+      "within_1yr_pct": 37.5,
+      "1_3yr_pct": 37.5,
+      "over_3yr_pct": 25.0
+    }
+  ]
+}

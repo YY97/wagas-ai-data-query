@@ -1,0 +1,405 @@
+{
+  "name": "中粮·祥云小镇",
+  "city": "北京市",
+  "address": "北京市顺义区安泰大街9号院",
+  "lat": 40.087511,
+  "lng": 116.537291,
+  "overview": {
+    "score": 95.2,
+    "score_rank": "市内前30%",
+    "population_score": 69.4,
+    "area_score": 84.8,
+    "consumption_score": 73.3,
+    "industry_score": 95.4,
+    "annual_sales": "16",
+    "annual_sales_unit": "亿元",
+    "area_size_sqm": 10.0,
+    "open_date": "2014-10-01",
+    "operator": "大悦城控股集团股份有限公司",
+    "brand": "大悦城",
+    "type": "亲子型",
+    "floors": "L1-L4"
+  },
+  "traffic": {
+    "annual_daily": 4.23,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第31",
+    "jun_total": 209.2,
+    "jun_total_rank": "市内商场第19名",
+    "jun_daily_avg": 7.0,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第19名",
+    "weekday_avg": 6.2,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第20名",
+    "holiday_avg": 9.1,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第21名"
+  },
+  "population": {
+    "residential": {
+      "500m": 6200.0,
+      "1_5km": 5.9,
+      "3km": 16.0
+    },
+    "office": {
+      "500m": 1.1,
+      "1_5km": 3.6,
+      "3km": 9.1
+    },
+    "permanent": {
+      "500m": 1.1,
+      "1_5km": 5.8,
+      "3km": 15.1
+    }
+  },
+  "business": {
+    "competitors": 5.0,
+    "food": 183.0,
+    "shopping": 155.0,
+    "leisure": 18.0,
+    "education": 73.0,
+    "hotel": 6.0,
+    "services": 261.0,
+    "fitness": 35.0,
+    "auto": 10.0,
+    "total_stores": 512.0,
+    "old_store_3yr_pct": 44.0
+  },
+  "nearby_poi": {
+    "business": null,
+    "community": 110.0,
+    "office": 10.0,
+    "school": 12.0,
+    "hospital": 12.0,
+    "transport": 8.0,
+    "scenic": 29.0
+  },
+  "demographics": {
+    "male_pct": 53.0,
+    "female_pct": null,
+    "education": {
+      "小学": 10.0,
+      "初中": 16.7,
+      "高中": 10.8,
+      "大专": 7.6,
+      "本科": 47.8,
+      "硕士": 6.0,
+      "博士": 1.1
+    },
+    "has_children_pct": 58.6,
+    "no_children_pct": 41.4
+  },
+  "scraped_at": "2026-08-01T04:43:18.111Z",
+  "nearby_restaurants": [
+    {
+      "brand": "瑞幸咖啡(中粮祥云小镇南区店)",
+      "address": "安泰大街6号院3号楼二层206号",
+      "distance": "19m"
+    },
+    {
+      "brand": "喜茶(北京中粮祥云小镇店)",
+      "address": "安泰大街6号院的中粮祥云小镇南区(3-104)号商铺",
+      "distance": "20m"
+    },
+    {
+      "brand": "中粮·祥云小镇茶铺(安泰大街店)",
+      "address": "安泰大街9号中粮·祥云小镇南区",
+      "distance": "20m"
+    },
+    {
+      "brand": "很久以前羊肉串(祥云小镇店)",
+      "address": "安泰大街9号祥云小镇南区3号楼1层103商铺",
+      "distance": "21m"
+    },
+    {
+      "brand": "烹然四季椰子鸡火锅(中粮·祥云小镇北区店)",
+      "address": "安泰大街中粮祥云小镇北区购物中心10号楼2层",
+      "distance": "34m"
+    },
+    {
+      "brand": "麻六记(祥云小镇店)",
+      "address": "安泰大街9号中粮·祥云小镇南区1层S3-101号",
+      "distance": "38m"
+    },
+    {
+      "brand": "轻遇三明治",
+      "address": "安泰大街9号中粮·祥云小镇北区F1层",
+      "distance": "42m"
+    },
+    {
+      "brand": "云山雀·现舂野果云南酸汤火锅(祥云小镇店)",
+      "address": "安泰大街8号祥云小镇南区四号楼201云山雀",
+      "distance": "46m"
+    },
+    {
+      "brand": "苏帮袁Sue Cuisine(祥云小镇店)",
+      "address": "安泰大街中粮祥云小镇北区购物中心9号楼1层",
+      "distance": "53m"
+    },
+    {
+      "brand": "OUR Bakery(中粮祥云小镇店)",
+      "address": "安泰大街9号院中粮祥云小镇北区10号楼105号1层",
+      "distance": "56m"
+    },
+    {
+      "brand": "瑞幸咖啡(中粮祥云小镇南区店)",
+      "address": "安泰大街6号院3号楼二层206号",
+      "distance": "19m"
+    },
+    {
+      "brand": "喜茶(北京中粮祥云小镇店)",
+      "address": "安泰大街6号院的中粮祥云小镇南区(3-104)号商铺",
+      "distance": "20m"
+    },
+    {
+      "brand": "中粮·祥云小镇茶铺(安泰大街店)",
+      "address": "安泰大街9号中粮·祥云小镇南区",
+      "distance": "20m"
+    },
+    {
+      "brand": "很久以前羊肉串(祥云小镇店)",
+      "address": "安泰大街9号祥云小镇南区3号楼1层103商铺",
+      "distance": "21m"
+    },
+    {
+      "brand": "烹然四季椰子鸡火锅(中粮·祥云小镇北区店)",
+      "address": "安泰大街中粮祥云小镇北区购物中心10号楼2层",
+      "distance": "34m"
+    },
+    {
+      "brand": "麻六记(祥云小镇店)",
+      "address": "安泰大街9号中粮·祥云小镇南区1层S3-101号",
+      "distance": "38m"
+    },
+    {
+      "brand": "轻遇三明治",
+      "address": "安泰大街9号中粮·祥云小镇北区F1层",
+      "distance": "42m"
+    },
+    {
+      "brand": "云山雀·现舂野果云南酸汤火锅(祥云小镇店)",
+      "address": "安泰大街8号祥云小镇南区四号楼201云山雀",
+      "distance": "46m"
+    },
+    {
+      "brand": "苏帮袁Sue Cuisine(祥云小镇店)",
+      "address": "安泰大街中粮祥云小镇北区购物中心9号楼1层",
+      "distance": "53m"
+    },
+    {
+      "brand": "OUR Bakery(中粮祥云小镇店)",
+      "address": "安泰大街9号院中粮祥云小镇北区10号楼105号1层",
+      "distance": "56m"
+    },
+    {
+      "brand": "瑞幸咖啡(中粮祥云小镇南区店)",
+      "address": "安泰大街6号院3号楼二层206号",
+      "distance": "19m"
+    },
+    {
+      "brand": "喜茶(北京中粮祥云小镇店)",
+      "address": "安泰大街6号院的中粮祥云小镇南区(3-104)号商铺",
+      "distance": "20m"
+    },
+    {
+      "brand": "中粮·祥云小镇茶铺(安泰大街店)",
+      "address": "安泰大街9号中粮·祥云小镇南区",
+      "distance": "20m"
+    },
+    {
+      "brand": "很久以前羊肉串(祥云小镇店)",
+      "address": "安泰大街9号祥云小镇南区3号楼1层103商铺",
+      "distance": "21m"
+    },
+    {
+      "brand": "烹然四季椰子鸡火锅(中粮·祥云小镇北区店)",
+      "address": "安泰大街中粮祥云小镇北区购物中心10号楼2层",
+      "distance": "34m"
+    },
+    {
+      "brand": "麻六记(祥云小镇店)",
+      "address": "安泰大街9号中粮·祥云小镇南区1层S3-101号",
+      "distance": "38m"
+    },
+    {
+      "brand": "轻遇三明治",
+      "address": "安泰大街9号中粮·祥云小镇北区F1层",
+      "distance": "42m"
+    },
+    {
+      "brand": "云山雀·现舂野果云南酸汤火锅(祥云小镇店)",
+      "address": "安泰大街8号祥云小镇南区四号楼201云山雀",
+      "distance": "46m"
+    },
+    {
+      "brand": "苏帮袁Sue Cuisine(祥云小镇店)",
+      "address": "安泰大街中粮祥云小镇北区购物中心9号楼1层",
+      "distance": "53m"
+    },
+    {
+      "brand": "OUR Bakery(中粮祥云小镇店)",
+      "address": "安泰大街9号院中粮祥云小镇北区10号楼105号1层",
+      "distance": "56m"
+    },
+    {
+      "brand": "瑞幸咖啡(中粮祥云小镇南区店)",
+      "address": "安泰大街6号院3号楼二层206号",
+      "distance": "19m"
+    },
+    {
+      "brand": "喜茶(北京中粮祥云小镇店)",
+      "address": "安泰大街6号院的中粮祥云小镇南区(3-104)号商铺",
+      "distance": "20m"
+    },
+    {
+      "brand": "中粮·祥云小镇茶铺(安泰大街店)",
+      "address": "安泰大街9号中粮·祥云小镇南区",
+      "distance": "20m"
+    },
+    {
+      "brand": "很久以前羊肉串(祥云小镇店)",
+      "address": "安泰大街9号祥云小镇南区3号楼1层103商铺",
+      "distance": "21m"
+    },
+    {
+      "brand": "烹然四季椰子鸡火锅(中粮·祥云小镇北区店)",
+      "address": "安泰大街中粮祥云小镇北区购物中心10号楼2层",
+      "distance": "34m"
+    },
+    {
+      "brand": "麻六记(祥云小镇店)",
+      "address": "安泰大街9号中粮·祥云小镇南区1层S3-101号",
+      "distance": "38m"
+    },
+    {
+      "brand": "轻遇三明治",
+      "address": "安泰大街9号中粮·祥云小镇北区F1层",
+      "distance": "42m"
+    },
+    {
+      "brand": "云山雀·现舂野果云南酸汤火锅(祥云小镇店)",
+      "address": "安泰大街8号祥云小镇南区四号楼201云山雀",
+      "distance": "46m"
+    },
+    {
+      "brand": "苏帮袁Sue Cuisine(祥云小镇店)",
+      "address": "安泰大街中粮祥云小镇北区购物中心9号楼1层",
+      "distance": "53m"
+    },
+    {
+      "brand": "OUR Bakery(中粮祥云小镇店)",
+      "address": "安泰大街9号院中粮祥云小镇北区10号楼105号1层",
+      "distance": "56m"
+    },
+    {
+      "brand": "瑞幸咖啡(中粮祥云小镇南区店)",
+      "address": "安泰大街6号院3号楼二层206号",
+      "distance": "19m"
+    },
+    {
+      "brand": "喜茶(北京中粮祥云小镇店)",
+      "address": "安泰大街6号院的中粮祥云小镇南区(3-104)号商铺",
+      "distance": "20m"
+    },
+    {
+      "brand": "中粮·祥云小镇茶铺(安泰大街店)",
+      "address": "安泰大街9号中粮·祥云小镇南区",
+      "distance": "20m"
+    },
+    {
+      "brand": "很久以前羊肉串(祥云小镇店)",
+      "address": "安泰大街9号祥云小镇南区3号楼1层103商铺",
+      "distance": "21m"
+    },
+    {
+      "brand": "烹然四季椰子鸡火锅(中粮·祥云小镇北区店)",
+      "address": "安泰大街中粮祥云小镇北区购物中心10号楼2层",
+      "distance": "34m"
+    },
+    {
+      "brand": "麻六记(祥云小镇店)",
+      "address": "安泰大街9号中粮·祥云小镇南区1层S3-101号",
+      "distance": "38m"
+    },
+    {
+      "brand": "轻遇三明治",
+      "address": "安泰大街9号中粮·祥云小镇北区F1层",
+      "distance": "42m"
+    },
+    {
+      "brand": "云山雀·现舂野果云南酸汤火锅(祥云小镇店)",
+      "address": "安泰大街8号祥云小镇南区四号楼201云山雀",
+      "distance": "46m"
+    },
+    {
+      "brand": "苏帮袁Sue Cuisine(祥云小镇店)",
+      "address": "安泰大街中粮祥云小镇北区购物中心9号楼1层",
+      "distance": "53m"
+    },
+    {
+      "brand": "OUR Bakery(中粮祥云小镇店)",
+      "address": "安泰大街9号院中粮祥云小镇北区10号楼105号1层",
+      "distance": "56m"
+    }
+  ],
+  "nearby_malls": [],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 92.0,
+      "within_1yr_pct": 18.5,
+      "1_3yr_pct": 32.6,
+      "over_3yr_pct": 48.9
+    },
+    {
+      "type": "购物",
+      "count": 120.0,
+      "within_1yr_pct": 25.8,
+      "1_3yr_pct": 28.3,
+      "over_3yr_pct": 45.8
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 18.0,
+      "within_1yr_pct": 22.2,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 27.8
+    },
+    {
+      "type": "教育培训",
+      "count": 60.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 31.7,
+      "over_3yr_pct": 48.3
+    },
+    {
+      "type": "酒店住宿",
+      "count": 3.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 66.7,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "生活服务",
+      "count": 184.0,
+      "within_1yr_pct": 27.7,
+      "1_3yr_pct": 33.2,
+      "over_3yr_pct": 39.1
+    },
+    {
+      "type": "运动健身",
+      "count": 26.0,
+      "within_1yr_pct": 11.5,
+      "1_3yr_pct": 34.6,
+      "over_3yr_pct": 53.8
+    },
+    {
+      "type": "车辆服务",
+      "count": 9.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 33.3
+    }
+  ]
+}

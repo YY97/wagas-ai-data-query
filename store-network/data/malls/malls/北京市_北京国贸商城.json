@@ -1,0 +1,486 @@
+{
+  "name": "北京国贸商城",
+  "city": "北京市",
+  "address": "北京市朝阳区建国门外大街1号(国贸地铁站E2西北口步行280米)",
+  "lat": 39.909863,
+  "lng": 116.458855,
+  "overview": {
+    "score": 96.3,
+    "score_rank": "市内前30%",
+    "population_score": 78.4,
+    "area_score": 100.0,
+    "consumption_score": 79.6,
+    "industry_score": 96.4,
+    "annual_sales": "国贸商城由美国著名设计公司ARQUITECTONICA担纲整体设计，采用循环式结构布局，展现出流畅的弧型曲线，将国贸中心的庞大建筑群体有机地联系起来。商场内部设计现代、豪华，营造出高端的购物氛围。",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 7.5,
+    "open_date": "1990-08-01",
+    "operator": "中国国际贸易中心股份有限公司",
+    "brand": "",
+    "type": "购物型",
+    "floors": "B2-L7"
+  },
+  "traffic": {
+    "annual_daily": 8.17,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第9",
+    "jun_total": 413.7,
+    "jun_total_rank": "市内商场第4名",
+    "jun_daily_avg": 13.8,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第4名",
+    "weekday_avg": 13.7,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第4名",
+    "holiday_avg": 14.0,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第9名"
+  },
+  "population": {
+    "residential": {
+      "500m": 1.2,
+      "1_5km": 13.7,
+      "3km": 78.5
+    },
+    "office": {
+      "500m": 5.8,
+      "1_5km": 30.6,
+      "3km": 84.8
+    },
+    "permanent": {
+      "500m": 3.1,
+      "1_5km": 18.5,
+      "3km": 90.3
+    }
+  },
+  "business": {
+    "competitors": 23.0,
+    "food": 375.0,
+    "shopping": 478.0,
+    "leisure": 20.0,
+    "education": 23.0,
+    "hotel": 32.0,
+    "services": 169.0,
+    "fitness": 34.0,
+    "auto": 33.0,
+    "total_stores": 660.0,
+    "old_store_3yr_pct": 60.0
+  },
+  "nearby_poi": {
+    "business": 15.0,
+    "community": 478.0,
+    "office": 163.0,
+    "school": 28.0,
+    "hospital": 171.0,
+    "transport": 10.0,
+    "scenic": 275.0
+  },
+  "demographics": {
+    "male_pct": 52.5,
+    "female_pct": null,
+    "education": {
+      "小学": 8.9,
+      "初中": 15.6,
+      "高中": 10.6,
+      "大专": 6.8,
+      "本科": 49.5,
+      "硕士": 7.1,
+      "博士": 1.5
+    },
+    "has_children_pct": 54.8,
+    "no_children_pct": 45.2
+  },
+  "scraped_at": "2026-07-31T18:40:16.133Z",
+  "nearby_restaurants": [
+    {
+      "brand": "木屋烤吧·烧烤(国贸店)",
+      "address": "建外街道建国门外大街1号国贸商城中区地下一层NB122",
+      "distance": "34m"
+    },
+    {
+      "brand": "滋色盐帮菜·水煮鱼(国贸商城店)",
+      "address": "建国门外大街1号国贸商城中区B2层",
+      "distance": "36m"
+    },
+    {
+      "brand": "BACHA COFFEE",
+      "address": "建国门外大街1号国贸商城中区(国贸地铁站出入口步行460米)",
+      "distance": "42m"
+    },
+    {
+      "brand": "合兴记港式烧腊",
+      "address": "共享际5l酒店1层(国贸地铁站E2西北口步行360米)",
+      "distance": "42m"
+    },
+    {
+      "brand": "国贸店",
+      "address": "建国门外大街1号国贸商城中区L5层",
+      "distance": "45m"
+    },
+    {
+      "brand": "南门小馆·清真(国贸商城店)",
+      "address": "建国门外大街1号国贸商城中区B2层NB202、NB204、NB206、NB208",
+      "distance": "47m"
+    },
+    {
+      "brand": "星巴克(国贸商城中区东段店)",
+      "address": "建国门外大街1号国贸商城L2层",
+      "distance": "47m"
+    },
+    {
+      "brand": "玉风铁锅小吃",
+      "address": "建国门外大街1号国贸商城(国贸地铁站E2西北口步行360米)",
+      "distance": "52m"
+    },
+    {
+      "brand": "山大口牛肉面(国贸商城店)",
+      "address": "建国门外大街1号国贸商城(国贸地铁站E2西北口步行360米)",
+      "distance": "54m"
+    },
+    {
+      "brand": "花盐街·四川乐山小吃(国贸商城店)",
+      "address": "建国门外大街1号(国贸二期)B2-NB203",
+      "distance": "56m"
+    },
+    {
+      "brand": "木屋烤吧·烧烤(国贸店)",
+      "address": "建外街道建国门外大街1号国贸商城中区地下一层NB122",
+      "distance": "34m"
+    },
+    {
+      "brand": "滋色盐帮菜·水煮鱼(国贸商城店)",
+      "address": "建国门外大街1号国贸商城中区B2层",
+      "distance": "36m"
+    },
+    {
+      "brand": "BACHA COFFEE",
+      "address": "建国门外大街1号国贸商城中区(国贸地铁站出入口步行460米)",
+      "distance": "42m"
+    },
+    {
+      "brand": "合兴记港式烧腊",
+      "address": "共享际5l酒店1层(国贸地铁站E2西北口步行360米)",
+      "distance": "42m"
+    },
+    {
+      "brand": "国贸店",
+      "address": "建国门外大街1号国贸商城中区L5层",
+      "distance": "45m"
+    },
+    {
+      "brand": "南门小馆·清真(国贸商城店)",
+      "address": "建国门外大街1号国贸商城中区B2层NB202、NB204、NB206、NB208",
+      "distance": "47m"
+    },
+    {
+      "brand": "星巴克(国贸商城中区东段店)",
+      "address": "建国门外大街1号国贸商城L2层",
+      "distance": "47m"
+    },
+    {
+      "brand": "玉风铁锅小吃",
+      "address": "建国门外大街1号国贸商城(国贸地铁站E2西北口步行360米)",
+      "distance": "52m"
+    },
+    {
+      "brand": "山大口牛肉面(国贸商城店)",
+      "address": "建国门外大街1号国贸商城(国贸地铁站E2西北口步行360米)",
+      "distance": "54m"
+    },
+    {
+      "brand": "花盐街·四川乐山小吃(国贸商城店)",
+      "address": "建国门外大街1号(国贸二期)B2-NB203",
+      "distance": "56m"
+    },
+    {
+      "brand": "木屋烤吧·烧烤(国贸店)",
+      "address": "建外街道建国门外大街1号国贸商城中区地下一层NB122",
+      "distance": "34m"
+    },
+    {
+      "brand": "滋色盐帮菜·水煮鱼(国贸商城店)",
+      "address": "建国门外大街1号国贸商城中区B2层",
+      "distance": "36m"
+    },
+    {
+      "brand": "BACHA COFFEE",
+      "address": "建国门外大街1号国贸商城中区(国贸地铁站出入口步行460米)",
+      "distance": "42m"
+    },
+    {
+      "brand": "合兴记港式烧腊",
+      "address": "共享际5l酒店1层(国贸地铁站E2西北口步行360米)",
+      "distance": "42m"
+    },
+    {
+      "brand": "国贸店",
+      "address": "建国门外大街1号国贸商城中区L5层",
+      "distance": "45m"
+    },
+    {
+      "brand": "南门小馆·清真(国贸商城店)",
+      "address": "建国门外大街1号国贸商城中区B2层NB202、NB204、NB206、NB208",
+      "distance": "47m"
+    },
+    {
+      "brand": "星巴克(国贸商城中区东段店)",
+      "address": "建国门外大街1号国贸商城L2层",
+      "distance": "47m"
+    },
+    {
+      "brand": "玉风铁锅小吃",
+      "address": "建国门外大街1号国贸商城(国贸地铁站E2西北口步行360米)",
+      "distance": "52m"
+    },
+    {
+      "brand": "山大口牛肉面(国贸商城店)",
+      "address": "建国门外大街1号国贸商城(国贸地铁站E2西北口步行360米)",
+      "distance": "54m"
+    },
+    {
+      "brand": "花盐街·四川乐山小吃(国贸商城店)",
+      "address": "建国门外大街1号(国贸二期)B2-NB203",
+      "distance": "56m"
+    },
+    {
+      "brand": "木屋烤吧·烧烤(国贸店)",
+      "address": "建外街道建国门外大街1号国贸商城中区地下一层NB122",
+      "distance": "34m"
+    },
+    {
+      "brand": "滋色盐帮菜·水煮鱼(国贸商城店)",
+      "address": "建国门外大街1号国贸商城中区B2层",
+      "distance": "36m"
+    },
+    {
+      "brand": "BACHA COFFEE",
+      "address": "建国门外大街1号国贸商城中区(国贸地铁站出入口步行460米)",
+      "distance": "42m"
+    },
+    {
+      "brand": "合兴记港式烧腊",
+      "address": "共享际5l酒店1层(国贸地铁站E2西北口步行360米)",
+      "distance": "42m"
+    },
+    {
+      "brand": "国贸店",
+      "address": "建国门外大街1号国贸商城中区L5层",
+      "distance": "45m"
+    },
+    {
+      "brand": "南门小馆·清真(国贸商城店)",
+      "address": "建国门外大街1号国贸商城中区B2层NB202、NB204、NB206、NB208",
+      "distance": "47m"
+    },
+    {
+      "brand": "星巴克(国贸商城中区东段店)",
+      "address": "建国门外大街1号国贸商城L2层",
+      "distance": "47m"
+    },
+    {
+      "brand": "玉风铁锅小吃",
+      "address": "建国门外大街1号国贸商城(国贸地铁站E2西北口步行360米)",
+      "distance": "52m"
+    },
+    {
+      "brand": "山大口牛肉面(国贸商城店)",
+      "address": "建国门外大街1号国贸商城(国贸地铁站E2西北口步行360米)",
+      "distance": "54m"
+    },
+    {
+      "brand": "花盐街·四川乐山小吃(国贸商城店)",
+      "address": "建国门外大街1号(国贸二期)B2-NB203",
+      "distance": "56m"
+    },
+    {
+      "brand": "木屋烤吧·烧烤(国贸店)",
+      "address": "建外街道建国门外大街1号国贸商城中区地下一层NB122",
+      "distance": "34m"
+    },
+    {
+      "brand": "滋色盐帮菜·水煮鱼(国贸商城店)",
+      "address": "建国门外大街1号国贸商城中区B2层",
+      "distance": "36m"
+    },
+    {
+      "brand": "BACHA COFFEE",
+      "address": "建国门外大街1号国贸商城中区(国贸地铁站出入口步行460米)",
+      "distance": "42m"
+    },
+    {
+      "brand": "合兴记港式烧腊",
+      "address": "共享际5l酒店1层(国贸地铁站E2西北口步行360米)",
+      "distance": "42m"
+    },
+    {
+      "brand": "国贸店",
+      "address": "建国门外大街1号国贸商城中区L5层",
+      "distance": "45m"
+    },
+    {
+      "brand": "南门小馆·清真(国贸商城店)",
+      "address": "建国门外大街1号国贸商城中区B2层NB202、NB204、NB206、NB208",
+      "distance": "47m"
+    },
+    {
+      "brand": "星巴克(国贸商城中区东段店)",
+      "address": "建国门外大街1号国贸商城L2层",
+      "distance": "47m"
+    },
+    {
+      "brand": "玉风铁锅小吃",
+      "address": "建国门外大街1号国贸商城(国贸地铁站E2西北口步行360米)",
+      "distance": "52m"
+    },
+    {
+      "brand": "山大口牛肉面(国贸商城店)",
+      "address": "建国门外大街1号国贸商城(国贸地铁站E2西北口步行360米)",
+      "distance": "54m"
+    },
+    {
+      "brand": "花盐街·四川乐山小吃(国贸商城店)",
+      "address": "建国门外大街1号(国贸二期)B2-NB203",
+      "distance": "56m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "北京建外环宇荟",
+      "open_date": "2018-05-29",
+      "area": "4万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "北京嘉里城",
+      "open_date": "2012-09-08",
+      "area": "1.3万㎡",
+      "jun_daily_avg": "1.4万人次",
+      "weekday_avg": "1.6万人次",
+      "holiday_avg": "1万人次"
+    },
+    {
+      "name": "北京银泰中心in01",
+      "open_date": "2018-10-01",
+      "area": "3万㎡",
+      "jun_daily_avg": "1.8万人次",
+      "weekday_avg": "1.9万人次",
+      "holiday_avg": "1.5万人次"
+    },
+    {
+      "name": "北京财富购物中心",
+      "open_date": "2010-11-01",
+      "area": "3.8万㎡",
+      "jun_daily_avg": "1.7万人次",
+      "weekday_avg": "1.9万人次",
+      "holiday_avg": "1.2万人次"
+    },
+    {
+      "name": "北京贵友大厦",
+      "open_date": "1990-06-12",
+      "area": "9000㎡",
+      "jun_daily_avg": "1.3万人次",
+      "weekday_avg": "1.3万人次",
+      "holiday_avg": "1.2万人次"
+    },
+    {
+      "name": "北京秀水街大厦",
+      "open_date": "2005-03-19",
+      "area": "2.8万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "北京世贸天阶",
+      "open_date": "2007-09-15",
+      "area": "8万㎡",
+      "jun_daily_avg": "2.2万人次",
+      "weekday_avg": "2.4万人次",
+      "holiday_avg": "1.9万人次"
+    },
+    {
+      "name": "北京SOHO尚都",
+      "open_date": "2005-01-06",
+      "area": "3.7万㎡",
+      "jun_daily_avg": "2.2万人次",
+      "weekday_avg": "2.3万人次",
+      "holiday_avg": "1.9万人次"
+    },
+    {
+      "name": "北京CBD中骏世界城",
+      "open_date": "2009-12-01",
+      "area": "3万㎡",
+      "jun_daily_avg": "2.4万人次",
+      "weekday_avg": "2.4万人次",
+      "holiday_avg": "2.4万人次"
+    },
+    {
+      "name": "北京汇京双子座大厦",
+      "open_date": "2005-11-01",
+      "area": "5万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 159.0,
+      "within_1yr_pct": 17.6,
+      "1_3yr_pct": 22.0,
+      "over_3yr_pct": 60.4
+    },
+    {
+      "type": "购物",
+      "count": 373.0,
+      "within_1yr_pct": 13.4,
+      "1_3yr_pct": 25.7,
+      "over_3yr_pct": 60.9
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 19.0,
+      "within_1yr_pct": 5.3,
+      "1_3yr_pct": 47.4,
+      "over_3yr_pct": 47.4
+    },
+    {
+      "type": "教育培训",
+      "count": 6.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 16.7,
+      "over_3yr_pct": 33.3
+    },
+    {
+      "type": "酒店住宿",
+      "count": 19.0,
+      "within_1yr_pct": 5.3,
+      "1_3yr_pct": 21.1,
+      "over_3yr_pct": 73.7
+    },
+    {
+      "type": "生活服务",
+      "count": 62.0,
+      "within_1yr_pct": 19.4,
+      "1_3yr_pct": 19.4,
+      "over_3yr_pct": 61.3
+    },
+    {
+      "type": "运动健身",
+      "count": 11.0,
+      "within_1yr_pct": 18.2,
+      "1_3yr_pct": 9.1,
+      "over_3yr_pct": 72.7
+    },
+    {
+      "type": "车辆服务",
+      "count": 11.0,
+      "within_1yr_pct": 18.2,
+      "1_3yr_pct": 54.5,
+      "over_3yr_pct": 27.3
+    }
+  ]
+}

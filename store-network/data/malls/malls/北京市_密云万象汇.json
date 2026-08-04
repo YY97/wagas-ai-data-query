@@ -1,0 +1,147 @@
+{
+  "name": "密云万象汇",
+  "city": "北京市",
+  "address": "北京市密云区顺密路178号",
+  "lat": 40.356206,
+  "lng": 116.835463,
+  "overview": {
+    "score": 92.6,
+    "score_rank": "市内前30%",
+    "population_score": 67.3,
+    "area_score": 69.1,
+    "consumption_score": 64.8,
+    "industry_score": 92.9,
+    "annual_sales": "8.5",
+    "annual_sales_unit": "亿元",
+    "area_size_sqm": 15.0,
+    "open_date": "2017-11-10",
+    "operator": "华润万象生活有限公司",
+    "brand": "华润",
+    "type": "综合型",
+    "floors": "B2-L3"
+  },
+  "traffic": {
+    "annual_daily": 2.73,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第82",
+    "jun_total": 83.9,
+    "jun_total_rank": "市内商场第114名",
+    "jun_daily_avg": 2.8,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第114名",
+    "weekday_avg": 2.3,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第132名",
+    "holiday_avg": 4.0,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第92名"
+  },
+  "population": {
+    "residential": {
+      "500m": 4600.0,
+      "1_5km": 2.7,
+      "3km": 16.9
+    },
+    "office": {
+      "500m": 3700.0,
+      "1_5km": 1.5,
+      "3km": 8.5
+    },
+    "permanent": {
+      "500m": 7400.0,
+      "1_5km": 3.1,
+      "3km": 18.1
+    }
+  },
+  "business": {
+    "competitors": 3.0,
+    "food": 83.0,
+    "shopping": 113.0,
+    "leisure": 13.0,
+    "education": 3.0,
+    "hotel": 1.0,
+    "services": 25.0,
+    "fitness": 3.0,
+    "auto": 7.0,
+    "total_stores": 204.0,
+    "old_store_3yr_pct": 55.0
+  },
+  "nearby_poi": {
+    "business": null,
+    "community": 107.0,
+    "office": 5.0,
+    "school": 8.0,
+    "hospital": 47.0,
+    "transport": 13.0,
+    "scenic": 45.0
+  },
+  "demographics": {
+    "male_pct": 44.7,
+    "female_pct": null,
+    "education": {
+      "小学": 11.2,
+      "初中": 21.0,
+      "高中": 12.2,
+      "大专": 8.2,
+      "本科": 44.3,
+      "硕士": 2.3,
+      "博士": 0.8
+    },
+    "has_children_pct": 66.6,
+    "no_children_pct": 33.4
+  },
+  "scraped_at": "2026-08-01T05:39:26.747Z",
+  "nearby_restaurants": [],
+  "nearby_malls": [],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 70.0,
+      "within_1yr_pct": 12.9,
+      "1_3yr_pct": 30.0,
+      "over_3yr_pct": 57.1
+    },
+    {
+      "type": "购物",
+      "count": 95.0,
+      "within_1yr_pct": 25.3,
+      "1_3yr_pct": 18.9,
+      "over_3yr_pct": 55.8
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 14.0,
+      "within_1yr_pct": 28.6,
+      "1_3yr_pct": 21.4,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "教育培训",
+      "count": 3.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 66.7
+    },
+    {
+      "type": "生活服务",
+      "count": 13.0,
+      "within_1yr_pct": 23.1,
+      "1_3yr_pct": 30.8,
+      "over_3yr_pct": 46.2
+    },
+    {
+      "type": "运动健身",
+      "count": 3.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 33.3
+    },
+    {
+      "type": "车辆服务",
+      "count": 6.0,
+      "within_1yr_pct": 16.7,
+      "1_3yr_pct": 16.7,
+      "over_3yr_pct": 66.7
+    }
+  ]
+}

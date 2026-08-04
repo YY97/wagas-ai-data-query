@@ -1,0 +1,430 @@
+{
+  "name": "龙湖北京丽泽天街",
+  "city": "北京市",
+  "address": "北京市丰台区三路居27号",
+  "lat": 39.867341,
+  "lng": 116.330975,
+  "overview": {
+    "score": 94.6,
+    "score_rank": "市内前30%",
+    "population_score": 74.6,
+    "area_score": 74.6,
+    "consumption_score": 72.4,
+    "industry_score": 94.8,
+    "annual_sales": "11.8",
+    "annual_sales_unit": "亿元",
+    "area_size_sqm": 9.2,
+    "open_date": "2021-04-16",
+    "operator": "龙湖集团控股有限公司",
+    "brand": "首创钜大有限公司",
+    "type": "综合型",
+    "floors": "B2-L5"
+  },
+  "traffic": {
+    "annual_daily": 2.9,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第74",
+    "jun_total": 143.5,
+    "jun_total_rank": "市内商场第58名",
+    "jun_daily_avg": 4.8,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第58名",
+    "weekday_avg": 4.6,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第47名",
+    "holiday_avg": 5.3,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第66名"
+  },
+  "population": {
+    "residential": {
+      "500m": 9400.0,
+      "1_5km": 13.2,
+      "3km": 76.2
+    },
+    "office": {
+      "500m": 3.1,
+      "1_5km": 10.5,
+      "3km": 41.3
+    },
+    "permanent": {
+      "500m": 1.5,
+      "1_5km": 12.9,
+      "3km": 74.6
+    }
+  },
+  "business": {
+    "competitors": 4.0,
+    "food": 114.0,
+    "shopping": 98.0,
+    "leisure": 13.0,
+    "education": 5.0,
+    "hotel": 15.0,
+    "services": 84.0,
+    "fitness": 15.0,
+    "auto": 22.0,
+    "total_stores": 239.0,
+    "old_store_3yr_pct": 41.0
+  },
+  "nearby_poi": {
+    "business": 3.0,
+    "community": 384.0,
+    "office": 41.0,
+    "school": 11.0,
+    "hospital": 70.0,
+    "transport": 7.0,
+    "scenic": 169.0
+  },
+  "demographics": {
+    "male_pct": 47.4,
+    "female_pct": null,
+    "education": {
+      "小学": 9.6,
+      "初中": 15.9,
+      "高中": 10.7,
+      "大专": 6.4,
+      "本科": 47.5,
+      "硕士": 7.9,
+      "博士": 2.0
+    },
+    "has_children_pct": 58.4,
+    "no_children_pct": 41.6
+  },
+  "scraped_at": "2026-08-01T04:54:54.427Z",
+  "nearby_restaurants": [
+    {
+      "brand": "DQ冰淇淋(丽泽龙湖店)(暂停营业)",
+      "address": "丽泽路16号院1号楼1至5层105内3层C02号",
+      "distance": "6m"
+    },
+    {
+      "brand": "打川川·川蜀冒肚(龙湖北京丽泽天街店)",
+      "address": "丽泽路300号龙湖北京丽泽天街B1层B1-16、B1-17",
+      "distance": "8m"
+    },
+    {
+      "brand": "麦记牛奶(龙湖丽泽天街店)",
+      "address": "丽泽天街A-4F-15",
+      "distance": "8m"
+    },
+    {
+      "brand": "PHO THE ONE福万越南餐厅(龙湖北京丽泽天街店)",
+      "address": "丽泽路300号龙湖北京丽泽天街5F层5F-14、5F-15",
+      "distance": "11m"
+    },
+    {
+      "brand": "布歌东京(龙湖北京丽泽天街店)",
+      "address": "丽泽天街负一层19号",
+      "distance": "11m"
+    },
+    {
+      "brand": "龙湖天街攀多渔",
+      "address": "太平桥街道丽泽路300号龙湖北京丽泽天街B2层",
+      "distance": "14m"
+    },
+    {
+      "brand": "北岛里板前寿司(丽泽天街店)",
+      "address": "丽泽路46号",
+      "distance": "14m"
+    },
+    {
+      "brand": "麦檬",
+      "address": "丰台区丽泽天街购物中心二楼",
+      "distance": "14m"
+    },
+    {
+      "brand": "SALOOD(龙湖北京丽泽天街店)",
+      "address": "丽泽路300号龙湖北京丽泽天街B2层B2-18",
+      "distance": "16m"
+    },
+    {
+      "brand": "肉问屋·元气一番烧肉(丽泽天街店)",
+      "address": "丽泽路龙湖丽泽天街地下一层12号",
+      "distance": "17m"
+    },
+    {
+      "brand": "DQ冰淇淋(丽泽龙湖店)(暂停营业)",
+      "address": "丽泽路16号院1号楼1至5层105内3层C02号",
+      "distance": "6m"
+    },
+    {
+      "brand": "打川川·川蜀冒肚(龙湖北京丽泽天街店)",
+      "address": "丽泽路300号龙湖北京丽泽天街B1层B1-16、B1-17",
+      "distance": "8m"
+    },
+    {
+      "brand": "麦记牛奶(龙湖丽泽天街店)",
+      "address": "丽泽天街A-4F-15",
+      "distance": "8m"
+    },
+    {
+      "brand": "PHO THE ONE福万越南餐厅(龙湖北京丽泽天街店)",
+      "address": "丽泽路300号龙湖北京丽泽天街5F层5F-14、5F-15",
+      "distance": "11m"
+    },
+    {
+      "brand": "布歌东京(龙湖北京丽泽天街店)",
+      "address": "丽泽天街负一层19号",
+      "distance": "11m"
+    },
+    {
+      "brand": "龙湖天街攀多渔",
+      "address": "太平桥街道丽泽路300号龙湖北京丽泽天街B2层",
+      "distance": "14m"
+    },
+    {
+      "brand": "北岛里板前寿司(丽泽天街店)",
+      "address": "丽泽路46号",
+      "distance": "14m"
+    },
+    {
+      "brand": "麦檬",
+      "address": "丰台区丽泽天街购物中心二楼",
+      "distance": "14m"
+    },
+    {
+      "brand": "SALOOD(龙湖北京丽泽天街店)",
+      "address": "丽泽路300号龙湖北京丽泽天街B2层B2-18",
+      "distance": "16m"
+    },
+    {
+      "brand": "肉问屋·元气一番烧肉(丽泽天街店)",
+      "address": "丽泽路龙湖丽泽天街地下一层12号",
+      "distance": "17m"
+    },
+    {
+      "brand": "DQ冰淇淋(丽泽龙湖店)(暂停营业)",
+      "address": "丽泽路16号院1号楼1至5层105内3层C02号",
+      "distance": "6m"
+    },
+    {
+      "brand": "打川川·川蜀冒肚(龙湖北京丽泽天街店)",
+      "address": "丽泽路300号龙湖北京丽泽天街B1层B1-16、B1-17",
+      "distance": "8m"
+    },
+    {
+      "brand": "麦记牛奶(龙湖丽泽天街店)",
+      "address": "丽泽天街A-4F-15",
+      "distance": "8m"
+    },
+    {
+      "brand": "PHO THE ONE福万越南餐厅(龙湖北京丽泽天街店)",
+      "address": "丽泽路300号龙湖北京丽泽天街5F层5F-14、5F-15",
+      "distance": "11m"
+    },
+    {
+      "brand": "布歌东京(龙湖北京丽泽天街店)",
+      "address": "丽泽天街负一层19号",
+      "distance": "11m"
+    },
+    {
+      "brand": "龙湖天街攀多渔",
+      "address": "太平桥街道丽泽路300号龙湖北京丽泽天街B2层",
+      "distance": "14m"
+    },
+    {
+      "brand": "北岛里板前寿司(丽泽天街店)",
+      "address": "丽泽路46号",
+      "distance": "14m"
+    },
+    {
+      "brand": "麦檬",
+      "address": "丰台区丽泽天街购物中心二楼",
+      "distance": "14m"
+    },
+    {
+      "brand": "SALOOD(龙湖北京丽泽天街店)",
+      "address": "丽泽路300号龙湖北京丽泽天街B2层B2-18",
+      "distance": "16m"
+    },
+    {
+      "brand": "肉问屋·元气一番烧肉(丽泽天街店)",
+      "address": "丽泽路龙湖丽泽天街地下一层12号",
+      "distance": "17m"
+    },
+    {
+      "brand": "DQ冰淇淋(丽泽龙湖店)(暂停营业)",
+      "address": "丽泽路16号院1号楼1至5层105内3层C02号",
+      "distance": "6m"
+    },
+    {
+      "brand": "打川川·川蜀冒肚(龙湖北京丽泽天街店)",
+      "address": "丽泽路300号龙湖北京丽泽天街B1层B1-16、B1-17",
+      "distance": "8m"
+    },
+    {
+      "brand": "麦记牛奶(龙湖丽泽天街店)",
+      "address": "丽泽天街A-4F-15",
+      "distance": "8m"
+    },
+    {
+      "brand": "PHO THE ONE福万越南餐厅(龙湖北京丽泽天街店)",
+      "address": "丽泽路300号龙湖北京丽泽天街5F层5F-14、5F-15",
+      "distance": "11m"
+    },
+    {
+      "brand": "布歌东京(龙湖北京丽泽天街店)",
+      "address": "丽泽天街负一层19号",
+      "distance": "11m"
+    },
+    {
+      "brand": "龙湖天街攀多渔",
+      "address": "太平桥街道丽泽路300号龙湖北京丽泽天街B2层",
+      "distance": "14m"
+    },
+    {
+      "brand": "北岛里板前寿司(丽泽天街店)",
+      "address": "丽泽路46号",
+      "distance": "14m"
+    },
+    {
+      "brand": "麦檬",
+      "address": "丰台区丽泽天街购物中心二楼",
+      "distance": "14m"
+    },
+    {
+      "brand": "SALOOD(龙湖北京丽泽天街店)",
+      "address": "丽泽路300号龙湖北京丽泽天街B2层B2-18",
+      "distance": "16m"
+    },
+    {
+      "brand": "肉问屋·元气一番烧肉(丽泽天街店)",
+      "address": "丽泽路龙湖丽泽天街地下一层12号",
+      "distance": "17m"
+    },
+    {
+      "brand": "DQ冰淇淋(丽泽龙湖店)(暂停营业)",
+      "address": "丽泽路16号院1号楼1至5层105内3层C02号",
+      "distance": "6m"
+    },
+    {
+      "brand": "打川川·川蜀冒肚(龙湖北京丽泽天街店)",
+      "address": "丽泽路300号龙湖北京丽泽天街B1层B1-16、B1-17",
+      "distance": "8m"
+    },
+    {
+      "brand": "麦记牛奶(龙湖丽泽天街店)",
+      "address": "丽泽天街A-4F-15",
+      "distance": "8m"
+    },
+    {
+      "brand": "PHO THE ONE福万越南餐厅(龙湖北京丽泽天街店)",
+      "address": "丽泽路300号龙湖北京丽泽天街5F层5F-14、5F-15",
+      "distance": "11m"
+    },
+    {
+      "brand": "布歌东京(龙湖北京丽泽天街店)",
+      "address": "丽泽天街负一层19号",
+      "distance": "11m"
+    },
+    {
+      "brand": "龙湖天街攀多渔",
+      "address": "太平桥街道丽泽路300号龙湖北京丽泽天街B2层",
+      "distance": "14m"
+    },
+    {
+      "brand": "北岛里板前寿司(丽泽天街店)",
+      "address": "丽泽路46号",
+      "distance": "14m"
+    },
+    {
+      "brand": "麦檬",
+      "address": "丰台区丽泽天街购物中心二楼",
+      "distance": "14m"
+    },
+    {
+      "brand": "SALOOD(龙湖北京丽泽天街店)",
+      "address": "丽泽路300号龙湖北京丽泽天街B2层B2-18",
+      "distance": "16m"
+    },
+    {
+      "brand": "肉问屋·元气一番烧肉(丽泽天街店)",
+      "address": "丽泽路龙湖丽泽天街地下一层12号",
+      "distance": "17m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "北京平安幸福汇",
+      "open_date": "2021-12-01",
+      "area": "1.5万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "北京泛悦坊(西城店)",
+      "open_date": "2018-12-22",
+      "area": "1.7万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "北京新年华购物中心",
+      "open_date": "2012-01-01",
+      "area": "4万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 92.0,
+      "within_1yr_pct": 17.4,
+      "1_3yr_pct": 41.3,
+      "over_3yr_pct": 41.3
+    },
+    {
+      "type": "购物",
+      "count": 82.0,
+      "within_1yr_pct": 17.1,
+      "1_3yr_pct": 39.0,
+      "over_3yr_pct": 43.9
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 7.0,
+      "within_1yr_pct": 42.9,
+      "1_3yr_pct": 14.3,
+      "over_3yr_pct": 42.9
+    },
+    {
+      "type": "教育培训",
+      "count": 2.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 3.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 66.7,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "生活服务",
+      "count": 37.0,
+      "within_1yr_pct": 21.6,
+      "1_3yr_pct": 37.8,
+      "over_3yr_pct": 40.5
+    },
+    {
+      "type": "运动健身",
+      "count": 3.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 33.3
+    },
+    {
+      "type": "车辆服务",
+      "count": 13.0,
+      "within_1yr_pct": 38.5,
+      "1_3yr_pct": 23.1,
+      "over_3yr_pct": 38.5
+    }
+  ]
+}

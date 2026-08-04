@@ -1,0 +1,486 @@
+{
+  "name": "金鹰国际购物中心",
+  "city": "南京市",
+  "address": "江苏省南京市玄武区中山路53号",
+  "lat": 32.050587,
+  "lng": 118.784529,
+  "overview": {
+    "score": 92.9,
+    "score_rank": "市内前30%",
+    "population_score": 100.0,
+    "area_score": 94.4,
+    "consumption_score": 85.6,
+    "industry_score": 92.8,
+    "annual_sales": "3300",
+    "annual_sales_unit": "万元",
+    "area_size_sqm": 4.0,
+    "open_date": "2008-05-01",
+    "operator": "金鹰商贸集团有限公司",
+    "brand": "金鹰",
+    "type": "购物型",
+    "floors": "B1-L5"
+  },
+  "traffic": {
+    "annual_daily": 2.92,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第34",
+    "jun_total": 137.4,
+    "jun_total_rank": "市内商场第32名",
+    "jun_daily_avg": 4.6,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第32名",
+    "weekday_avg": 4.4,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第26名",
+    "holiday_avg": 5.2,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第38名"
+  },
+  "population": {
+    "residential": {
+      "500m": 3.6,
+      "1_5km": 20.1,
+      "3km": 63.7
+    },
+    "office": {
+      "500m": 3.8,
+      "1_5km": 24.5,
+      "3km": 58.6
+    },
+    "permanent": {
+      "500m": 4.1,
+      "1_5km": 25.1,
+      "3km": 72.6
+    }
+  },
+  "business": {
+    "competitors": 12.0,
+    "food": 579.0,
+    "shopping": 390.0,
+    "leisure": 49.0,
+    "education": 98.0,
+    "hotel": 165.0,
+    "services": 314.0,
+    "fitness": 50.0,
+    "auto": 23.0,
+    "total_stores": 155.0,
+    "old_store_3yr_pct": 52.0
+  },
+  "nearby_poi": {
+    "business": 21.0,
+    "community": 675.0,
+    "office": 153.0,
+    "school": 65.0,
+    "hospital": 166.0,
+    "transport": 12.0,
+    "scenic": 908.0
+  },
+  "demographics": {
+    "male_pct": 45.1,
+    "female_pct": null,
+    "education": {
+      "小学": 9.1,
+      "初中": 17.0,
+      "高中": 11.8,
+      "大专": 7.4,
+      "本科": 45.5,
+      "硕士": 7.2,
+      "博士": 2.0
+    },
+    "has_children_pct": 58.8,
+    "no_children_pct": 41.2
+  },
+  "scraped_at": "2026-07-31T13:11:07.596Z",
+  "nearby_restaurants": [
+    {
+      "brand": "宝珠奶酪(金鹰购物中心店)",
+      "address": "珠江路金鹰南区一楼(珠江路地铁站出入口旁)",
+      "distance": "13m"
+    },
+    {
+      "brand": "酸奶罐罐(南京玄武金鹰珠江路店)",
+      "address": "珠江路1号",
+      "distance": "16m"
+    },
+    {
+      "brand": "天尝喱脊肉串(珠江路金鹰店)",
+      "address": "同仁西街与同仁街交叉口西80米",
+      "distance": "16m"
+    },
+    {
+      "brand": "金鹰珠江一号国际酒店宴会厅",
+      "address": "珠江路1号珠江壹号大厦",
+      "distance": "27m"
+    },
+    {
+      "brand": "陇上秦轩(金鹰购物中心金鹰南馆店)",
+      "address": "珠江路1号金鹰南馆B1层(停车场出入口扶梯附近)",
+      "distance": "29m"
+    },
+    {
+      "brand": "喜茶(南京金鹰珠江路店)",
+      "address": "珠江路1号金鹰南馆F1层(南2门附近)",
+      "distance": "30m"
+    },
+    {
+      "brand": "果燃掂·东方甜品(珠江路金鹰店)",
+      "address": "珠江路1号金鹰购物中心南馆B2层",
+      "distance": "31m"
+    },
+    {
+      "brand": "李若桃·手作酸奶铺(南京玄武珠江路金鹰店)",
+      "address": "中山路与珠江路交叉口东北60米(珠江路地铁站出入口旁)",
+      "distance": "35m"
+    },
+    {
+      "brand": "好利来(珠江路金鹰店)",
+      "address": "珠江路1号金鹰购物中心店一层A01-00324铺位",
+      "distance": "37m"
+    },
+    {
+      "brand": "Costa Coffee(南京珠江路金鹰店)",
+      "address": "珠江路1号金鹰天地1楼(近同仁街)",
+      "distance": "39m"
+    },
+    {
+      "brand": "宝珠奶酪(金鹰购物中心店)",
+      "address": "珠江路金鹰南区一楼(珠江路地铁站出入口旁)",
+      "distance": "13m"
+    },
+    {
+      "brand": "酸奶罐罐(南京玄武金鹰珠江路店)",
+      "address": "珠江路1号",
+      "distance": "16m"
+    },
+    {
+      "brand": "天尝喱脊肉串(珠江路金鹰店)",
+      "address": "同仁西街与同仁街交叉口西80米",
+      "distance": "16m"
+    },
+    {
+      "brand": "金鹰珠江一号国际酒店宴会厅",
+      "address": "珠江路1号珠江壹号大厦",
+      "distance": "27m"
+    },
+    {
+      "brand": "陇上秦轩(金鹰购物中心金鹰南馆店)",
+      "address": "珠江路1号金鹰南馆B1层(停车场出入口扶梯附近)",
+      "distance": "29m"
+    },
+    {
+      "brand": "喜茶(南京金鹰珠江路店)",
+      "address": "珠江路1号金鹰南馆F1层(南2门附近)",
+      "distance": "30m"
+    },
+    {
+      "brand": "果燃掂·东方甜品(珠江路金鹰店)",
+      "address": "珠江路1号金鹰购物中心南馆B2层",
+      "distance": "31m"
+    },
+    {
+      "brand": "李若桃·手作酸奶铺(南京玄武珠江路金鹰店)",
+      "address": "中山路与珠江路交叉口东北60米(珠江路地铁站出入口旁)",
+      "distance": "35m"
+    },
+    {
+      "brand": "好利来(珠江路金鹰店)",
+      "address": "珠江路1号金鹰购物中心店一层A01-00324铺位",
+      "distance": "37m"
+    },
+    {
+      "brand": "Costa Coffee(南京珠江路金鹰店)",
+      "address": "珠江路1号金鹰天地1楼(近同仁街)",
+      "distance": "39m"
+    },
+    {
+      "brand": "宝珠奶酪(金鹰购物中心店)",
+      "address": "珠江路金鹰南区一楼(珠江路地铁站出入口旁)",
+      "distance": "13m"
+    },
+    {
+      "brand": "酸奶罐罐(南京玄武金鹰珠江路店)",
+      "address": "珠江路1号",
+      "distance": "16m"
+    },
+    {
+      "brand": "天尝喱脊肉串(珠江路金鹰店)",
+      "address": "同仁西街与同仁街交叉口西80米",
+      "distance": "16m"
+    },
+    {
+      "brand": "金鹰珠江一号国际酒店宴会厅",
+      "address": "珠江路1号珠江壹号大厦",
+      "distance": "27m"
+    },
+    {
+      "brand": "陇上秦轩(金鹰购物中心金鹰南馆店)",
+      "address": "珠江路1号金鹰南馆B1层(停车场出入口扶梯附近)",
+      "distance": "29m"
+    },
+    {
+      "brand": "喜茶(南京金鹰珠江路店)",
+      "address": "珠江路1号金鹰南馆F1层(南2门附近)",
+      "distance": "30m"
+    },
+    {
+      "brand": "果燃掂·东方甜品(珠江路金鹰店)",
+      "address": "珠江路1号金鹰购物中心南馆B2层",
+      "distance": "31m"
+    },
+    {
+      "brand": "李若桃·手作酸奶铺(南京玄武珠江路金鹰店)",
+      "address": "中山路与珠江路交叉口东北60米(珠江路地铁站出入口旁)",
+      "distance": "35m"
+    },
+    {
+      "brand": "好利来(珠江路金鹰店)",
+      "address": "珠江路1号金鹰购物中心店一层A01-00324铺位",
+      "distance": "37m"
+    },
+    {
+      "brand": "Costa Coffee(南京珠江路金鹰店)",
+      "address": "珠江路1号金鹰天地1楼(近同仁街)",
+      "distance": "39m"
+    },
+    {
+      "brand": "宝珠奶酪(金鹰购物中心店)",
+      "address": "珠江路金鹰南区一楼(珠江路地铁站出入口旁)",
+      "distance": "13m"
+    },
+    {
+      "brand": "酸奶罐罐(南京玄武金鹰珠江路店)",
+      "address": "珠江路1号",
+      "distance": "16m"
+    },
+    {
+      "brand": "天尝喱脊肉串(珠江路金鹰店)",
+      "address": "同仁西街与同仁街交叉口西80米",
+      "distance": "16m"
+    },
+    {
+      "brand": "金鹰珠江一号国际酒店宴会厅",
+      "address": "珠江路1号珠江壹号大厦",
+      "distance": "27m"
+    },
+    {
+      "brand": "陇上秦轩(金鹰购物中心金鹰南馆店)",
+      "address": "珠江路1号金鹰南馆B1层(停车场出入口扶梯附近)",
+      "distance": "29m"
+    },
+    {
+      "brand": "喜茶(南京金鹰珠江路店)",
+      "address": "珠江路1号金鹰南馆F1层(南2门附近)",
+      "distance": "30m"
+    },
+    {
+      "brand": "果燃掂·东方甜品(珠江路金鹰店)",
+      "address": "珠江路1号金鹰购物中心南馆B2层",
+      "distance": "31m"
+    },
+    {
+      "brand": "李若桃·手作酸奶铺(南京玄武珠江路金鹰店)",
+      "address": "中山路与珠江路交叉口东北60米(珠江路地铁站出入口旁)",
+      "distance": "35m"
+    },
+    {
+      "brand": "好利来(珠江路金鹰店)",
+      "address": "珠江路1号金鹰购物中心店一层A01-00324铺位",
+      "distance": "37m"
+    },
+    {
+      "brand": "Costa Coffee(南京珠江路金鹰店)",
+      "address": "珠江路1号金鹰天地1楼(近同仁街)",
+      "distance": "39m"
+    },
+    {
+      "brand": "宝珠奶酪(金鹰购物中心店)",
+      "address": "珠江路金鹰南区一楼(珠江路地铁站出入口旁)",
+      "distance": "13m"
+    },
+    {
+      "brand": "酸奶罐罐(南京玄武金鹰珠江路店)",
+      "address": "珠江路1号",
+      "distance": "16m"
+    },
+    {
+      "brand": "天尝喱脊肉串(珠江路金鹰店)",
+      "address": "同仁西街与同仁街交叉口西80米",
+      "distance": "16m"
+    },
+    {
+      "brand": "金鹰珠江一号国际酒店宴会厅",
+      "address": "珠江路1号珠江壹号大厦",
+      "distance": "27m"
+    },
+    {
+      "brand": "陇上秦轩(金鹰购物中心金鹰南馆店)",
+      "address": "珠江路1号金鹰南馆B1层(停车场出入口扶梯附近)",
+      "distance": "29m"
+    },
+    {
+      "brand": "喜茶(南京金鹰珠江路店)",
+      "address": "珠江路1号金鹰南馆F1层(南2门附近)",
+      "distance": "30m"
+    },
+    {
+      "brand": "果燃掂·东方甜品(珠江路金鹰店)",
+      "address": "珠江路1号金鹰购物中心南馆B2层",
+      "distance": "31m"
+    },
+    {
+      "brand": "李若桃·手作酸奶铺(南京玄武珠江路金鹰店)",
+      "address": "中山路与珠江路交叉口东北60米(珠江路地铁站出入口旁)",
+      "distance": "35m"
+    },
+    {
+      "brand": "好利来(珠江路金鹰店)",
+      "address": "珠江路1号金鹰购物中心店一层A01-00324铺位",
+      "distance": "37m"
+    },
+    {
+      "brand": "Costa Coffee(南京珠江路金鹰店)",
+      "address": "珠江路1号金鹰天地1楼(近同仁街)",
+      "distance": "39m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "南京新世界百货(珠江路店)",
+      "open_date": "2007-11-01",
+      "area": "3万㎡",
+      "jun_daily_avg": "2.1万人次",
+      "weekday_avg": "2.1万人次",
+      "holiday_avg": "2.3万人次"
+    },
+    {
+      "name": "南京ist艾尚天地购物中心",
+      "open_date": "2012-10-01",
+      "area": "5万㎡",
+      "jun_daily_avg": "2.7万人次",
+      "weekday_avg": "2.4万人次",
+      "holiday_avg": "3.4万人次"
+    },
+    {
+      "name": "南京羲和商业广场",
+      "open_date": "2015-06-02",
+      "area": "-",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "南京德基广场",
+      "open_date": "2006-06-26",
+      "area": "12.8万㎡",
+      "jun_daily_avg": "15.1万人次",
+      "weekday_avg": "13.2万人次",
+      "holiday_avg": "20.5万人次"
+    },
+    {
+      "name": "南京荔枝广场",
+      "open_date": "2023-12-01",
+      "area": "13万㎡",
+      "jun_daily_avg": "1.3万人次",
+      "weekday_avg": "1.3万人次",
+      "holiday_avg": "1.5万人次"
+    },
+    {
+      "name": "南京金盛百货(长江路店)",
+      "open_date": "-",
+      "area": "-",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "南京金轮新天地",
+      "open_date": "2008-08-01",
+      "area": "1.8万㎡",
+      "jun_daily_avg": "1.8万人次",
+      "weekday_avg": "1.7万人次",
+      "holiday_avg": "1.9万人次"
+    },
+    {
+      "name": "南京环亚凯瑟琳广场",
+      "open_date": "2015-05-22",
+      "area": "6万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "南京曼度广场",
+      "open_date": "-",
+      "area": "3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "南京紫峰购物广场",
+      "open_date": "2009-06-01",
+      "area": "4万㎡",
+      "jun_daily_avg": "1.3万人次",
+      "weekday_avg": "1.3万人次",
+      "holiday_avg": "1.4万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 40.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 15.0,
+      "over_3yr_pct": 65.0
+    },
+    {
+      "type": "购物",
+      "count": 83.0,
+      "within_1yr_pct": 32.5,
+      "1_3yr_pct": 16.9,
+      "over_3yr_pct": 50.6
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 6.0,
+      "within_1yr_pct": 16.7,
+      "1_3yr_pct": 66.7,
+      "over_3yr_pct": 16.7
+    },
+    {
+      "type": "教育培训",
+      "count": 4.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 4.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 75.0
+    },
+    {
+      "type": "生活服务",
+      "count": 11.0,
+      "within_1yr_pct": 27.3,
+      "1_3yr_pct": 27.3,
+      "over_3yr_pct": 45.5
+    },
+    {
+      "type": "运动健身",
+      "count": 4.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 75.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 3.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 66.7
+    }
+  ]
+}

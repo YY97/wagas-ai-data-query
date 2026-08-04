@@ -1,0 +1,398 @@
+{
+  "name": "平谷区万达广场",
+  "city": "北京市",
+  "address": "北京市平谷区平谷大街与平翔路交汇处西北侧",
+  "lat": 40.157633,
+  "lng": 117.122038,
+  "overview": {
+    "score": 93.5,
+    "score_rank": "市内前30%",
+    "population_score": 69.7,
+    "area_score": 72.3,
+    "consumption_score": 62.3,
+    "industry_score": 93.8,
+    "annual_sales": "平谷万达广场位于北京市平谷区平谷大街与平翔路交汇处西北侧，总用地面积约4.67万㎡。项目将打造一个集社交、文化、旅游、美食、娱乐、购物于一体的新消费综合体，项目建成后将成为平谷区最大的商业商务中心",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 14.93,
+    "open_date": "2024-12-22",
+    "operator": "珠海万达商业管理集团股份有限公司",
+    "brand": "万达",
+    "type": "美食型",
+    "floors": "B1-L4"
+  },
+  "traffic": {
+    "annual_daily": 3.54,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第53",
+    "jun_total": 106.5,
+    "jun_total_rank": "市内商场第87名",
+    "jun_daily_avg": 3.5,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第87名",
+    "weekday_avg": 2.9,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第99名",
+    "holiday_avg": 5.5,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第63名"
+  },
+  "population": {
+    "residential": {
+      "500m": 6600.0,
+      "1_5km": 5.7,
+      "3km": 17.3
+    },
+    "office": {
+      "500m": 5700.0,
+      "1_5km": 3.0,
+      "3km": 9.2
+    },
+    "permanent": {
+      "500m": 1.1,
+      "1_5km": 6.2,
+      "3km": 18.5
+    }
+  },
+  "business": {
+    "competitors": 4.0,
+    "food": 134.0,
+    "shopping": 105.0,
+    "leisure": 24.0,
+    "education": 13.0,
+    "hotel": 4.0,
+    "services": 41.0,
+    "fitness": 11.0,
+    "auto": 22.0,
+    "total_stores": 221.0,
+    "old_store_3yr_pct": 1.0
+  },
+  "nearby_poi": {
+    "business": null,
+    "community": 90.0,
+    "office": 2.0,
+    "school": 28.0,
+    "hospital": 49.0,
+    "transport": 7.0,
+    "scenic": 23.0
+  },
+  "demographics": {
+    "male_pct": 48.4,
+    "female_pct": null,
+    "education": {
+      "小学": 10.9,
+      "初中": 20.8,
+      "高中": 11.8,
+      "大专": 7.2,
+      "本科": 46.3,
+      "硕士": 2.2,
+      "博士": 0.8
+    },
+    "has_children_pct": 49.5,
+    "no_children_pct": 50.5
+  },
+  "scraped_at": "2026-08-01T05:21:06.865Z",
+  "nearby_restaurants": [
+    {
+      "brand": "半天妖烤鱼(平谷万达广场店)",
+      "address": "平谷万达广场4楼半天妖烤鱼4038",
+      "distance": "4m"
+    },
+    {
+      "brand": "醉人椒麻辣香锅(平谷万达店)",
+      "address": "北京城区谷丰东路14号院3层3020室",
+      "distance": "6m"
+    },
+    {
+      "brand": "绝味鸭脖(平谷万达广场店)",
+      "address": "平谷大街37号万达广场北京平谷店F3层",
+      "distance": "10m"
+    },
+    {
+      "brand": "李记猪肚鸡火锅(万达广场北京平谷店)",
+      "address": "平谷大街37号万达广场(北京平谷店)",
+      "distance": "11m"
+    },
+    {
+      "brand": "农小锅(北京平谷万达店)",
+      "address": "平谷大街与平翔路交汇处西北侧万达广场三层3021号",
+      "distance": "12m"
+    },
+    {
+      "brand": "炽焱喜自助餐厅(万达广场北京平谷店)",
+      "address": "平谷大街37号万达广场北京平谷店F3层",
+      "distance": "18m"
+    },
+    {
+      "brand": "延奶奶朝鲜族汤饭(平谷万达广场店)",
+      "address": "平谷大街37号万达广场北京平谷店F3层",
+      "distance": "18m"
+    },
+    {
+      "brand": "围炉三国锅盔(平谷万达广场店)",
+      "address": "平谷大街37号万达广场北京平谷店F4层",
+      "distance": "18m"
+    },
+    {
+      "brand": "脸红秦田田(平谷万达店)",
+      "address": "北京城区平谷大街37号万达广场(北京平谷店)",
+      "distance": "18m"
+    },
+    {
+      "brand": "旺火鼎火锅(平谷万达广场店)",
+      "address": "平谷大街37号万达广场北京平谷店F4层",
+      "distance": "18m"
+    },
+    {
+      "brand": "半天妖烤鱼(平谷万达广场店)",
+      "address": "平谷万达广场4楼半天妖烤鱼4038",
+      "distance": "4m"
+    },
+    {
+      "brand": "醉人椒麻辣香锅(平谷万达店)",
+      "address": "北京城区谷丰东路14号院3层3020室",
+      "distance": "6m"
+    },
+    {
+      "brand": "绝味鸭脖(平谷万达广场店)",
+      "address": "平谷大街37号万达广场北京平谷店F3层",
+      "distance": "10m"
+    },
+    {
+      "brand": "李记猪肚鸡火锅(万达广场北京平谷店)",
+      "address": "平谷大街37号万达广场(北京平谷店)",
+      "distance": "11m"
+    },
+    {
+      "brand": "农小锅(北京平谷万达店)",
+      "address": "平谷大街与平翔路交汇处西北侧万达广场三层3021号",
+      "distance": "12m"
+    },
+    {
+      "brand": "炽焱喜自助餐厅(万达广场北京平谷店)",
+      "address": "平谷大街37号万达广场北京平谷店F3层",
+      "distance": "18m"
+    },
+    {
+      "brand": "延奶奶朝鲜族汤饭(平谷万达广场店)",
+      "address": "平谷大街37号万达广场北京平谷店F3层",
+      "distance": "18m"
+    },
+    {
+      "brand": "围炉三国锅盔(平谷万达广场店)",
+      "address": "平谷大街37号万达广场北京平谷店F4层",
+      "distance": "18m"
+    },
+    {
+      "brand": "脸红秦田田(平谷万达店)",
+      "address": "北京城区平谷大街37号万达广场(北京平谷店)",
+      "distance": "18m"
+    },
+    {
+      "brand": "旺火鼎火锅(平谷万达广场店)",
+      "address": "平谷大街37号万达广场北京平谷店F4层",
+      "distance": "18m"
+    },
+    {
+      "brand": "半天妖烤鱼(平谷万达广场店)",
+      "address": "平谷万达广场4楼半天妖烤鱼4038",
+      "distance": "4m"
+    },
+    {
+      "brand": "醉人椒麻辣香锅(平谷万达店)",
+      "address": "北京城区谷丰东路14号院3层3020室",
+      "distance": "6m"
+    },
+    {
+      "brand": "绝味鸭脖(平谷万达广场店)",
+      "address": "平谷大街37号万达广场北京平谷店F3层",
+      "distance": "10m"
+    },
+    {
+      "brand": "李记猪肚鸡火锅(万达广场北京平谷店)",
+      "address": "平谷大街37号万达广场(北京平谷店)",
+      "distance": "11m"
+    },
+    {
+      "brand": "农小锅(北京平谷万达店)",
+      "address": "平谷大街与平翔路交汇处西北侧万达广场三层3021号",
+      "distance": "12m"
+    },
+    {
+      "brand": "炽焱喜自助餐厅(万达广场北京平谷店)",
+      "address": "平谷大街37号万达广场北京平谷店F3层",
+      "distance": "18m"
+    },
+    {
+      "brand": "延奶奶朝鲜族汤饭(平谷万达广场店)",
+      "address": "平谷大街37号万达广场北京平谷店F3层",
+      "distance": "18m"
+    },
+    {
+      "brand": "围炉三国锅盔(平谷万达广场店)",
+      "address": "平谷大街37号万达广场北京平谷店F4层",
+      "distance": "18m"
+    },
+    {
+      "brand": "脸红秦田田(平谷万达店)",
+      "address": "北京城区平谷大街37号万达广场(北京平谷店)",
+      "distance": "18m"
+    },
+    {
+      "brand": "旺火鼎火锅(平谷万达广场店)",
+      "address": "平谷大街37号万达广场北京平谷店F4层",
+      "distance": "18m"
+    },
+    {
+      "brand": "半天妖烤鱼(平谷万达广场店)",
+      "address": "平谷万达广场4楼半天妖烤鱼4038",
+      "distance": "4m"
+    },
+    {
+      "brand": "醉人椒麻辣香锅(平谷万达店)",
+      "address": "北京城区谷丰东路14号院3层3020室",
+      "distance": "6m"
+    },
+    {
+      "brand": "绝味鸭脖(平谷万达广场店)",
+      "address": "平谷大街37号万达广场北京平谷店F3层",
+      "distance": "10m"
+    },
+    {
+      "brand": "李记猪肚鸡火锅(万达广场北京平谷店)",
+      "address": "平谷大街37号万达广场(北京平谷店)",
+      "distance": "11m"
+    },
+    {
+      "brand": "农小锅(北京平谷万达店)",
+      "address": "平谷大街与平翔路交汇处西北侧万达广场三层3021号",
+      "distance": "12m"
+    },
+    {
+      "brand": "炽焱喜自助餐厅(万达广场北京平谷店)",
+      "address": "平谷大街37号万达广场北京平谷店F3层",
+      "distance": "18m"
+    },
+    {
+      "brand": "延奶奶朝鲜族汤饭(平谷万达广场店)",
+      "address": "平谷大街37号万达广场北京平谷店F3层",
+      "distance": "18m"
+    },
+    {
+      "brand": "围炉三国锅盔(平谷万达广场店)",
+      "address": "平谷大街37号万达广场北京平谷店F4层",
+      "distance": "18m"
+    },
+    {
+      "brand": "脸红秦田田(平谷万达店)",
+      "address": "北京城区平谷大街37号万达广场(北京平谷店)",
+      "distance": "18m"
+    },
+    {
+      "brand": "旺火鼎火锅(平谷万达广场店)",
+      "address": "平谷大街37号万达广场北京平谷店F4层",
+      "distance": "18m"
+    },
+    {
+      "brand": "半天妖烤鱼(平谷万达广场店)",
+      "address": "平谷万达广场4楼半天妖烤鱼4038",
+      "distance": "4m"
+    },
+    {
+      "brand": "醉人椒麻辣香锅(平谷万达店)",
+      "address": "北京城区谷丰东路14号院3层3020室",
+      "distance": "6m"
+    },
+    {
+      "brand": "绝味鸭脖(平谷万达广场店)",
+      "address": "平谷大街37号万达广场北京平谷店F3层",
+      "distance": "10m"
+    },
+    {
+      "brand": "李记猪肚鸡火锅(万达广场北京平谷店)",
+      "address": "平谷大街37号万达广场(北京平谷店)",
+      "distance": "11m"
+    },
+    {
+      "brand": "农小锅(北京平谷万达店)",
+      "address": "平谷大街与平翔路交汇处西北侧万达广场三层3021号",
+      "distance": "12m"
+    },
+    {
+      "brand": "炽焱喜自助餐厅(万达广场北京平谷店)",
+      "address": "平谷大街37号万达广场北京平谷店F3层",
+      "distance": "18m"
+    },
+    {
+      "brand": "延奶奶朝鲜族汤饭(平谷万达广场店)",
+      "address": "平谷大街37号万达广场北京平谷店F3层",
+      "distance": "18m"
+    },
+    {
+      "brand": "围炉三国锅盔(平谷万达广场店)",
+      "address": "平谷大街37号万达广场北京平谷店F4层",
+      "distance": "18m"
+    },
+    {
+      "brand": "脸红秦田田(平谷万达店)",
+      "address": "北京城区平谷大街37号万达广场(北京平谷店)",
+      "distance": "18m"
+    },
+    {
+      "brand": "旺火鼎火锅(平谷万达广场店)",
+      "address": "平谷大街37号万达广场北京平谷店F4层",
+      "distance": "18m"
+    }
+  ],
+  "nearby_malls": [],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 96.0,
+      "within_1yr_pct": 30.2,
+      "1_3yr_pct": 69.8,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "购物",
+      "count": 74.0,
+      "within_1yr_pct": 24.3,
+      "1_3yr_pct": 75.7,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 17.0,
+      "within_1yr_pct": 41.2,
+      "1_3yr_pct": 58.8,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "教育培训",
+      "count": 3.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "生活服务",
+      "count": 21.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 57.1,
+      "over_3yr_pct": 9.5
+    },
+    {
+      "type": "运动健身",
+      "count": 5.0,
+      "within_1yr_pct": 40.0,
+      "1_3yr_pct": 60.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 5.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 80.0,
+      "over_3yr_pct": 0.0
+    }
+  ]
+}

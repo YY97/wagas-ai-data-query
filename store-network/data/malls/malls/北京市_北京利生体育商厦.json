@@ -1,0 +1,472 @@
+{
+  "name": "北京利生体育商厦",
+  "city": "北京市",
+  "address": "北京市东城区东华门街道天元利生健身俱乐部北京利生体育商厦",
+  "lat": 39.916601,
+  "lng": 116.410545,
+  "overview": {
+    "score": 72.3,
+    "score_rank": "市内前50%",
+    "population_score": 87.0,
+    "area_score": 100.0,
+    "consumption_score": 90.6,
+    "industry_score": 72.1,
+    "annual_sales": "北京利生体育商厦位于王府井大街201号，是一家有着悠久历史的体育用品商厦，现有员工800余人，经营十五个大类的2万余种商品 。",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 1.2,
+    "open_date": "1996-11-25",
+    "operator": "北京利生体育商厦有限公司",
+    "brand": "",
+    "type": "综合型",
+    "floors": "B1-L3"
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "-",
+    "annual_daily_rank": "",
+    "jun_total": null,
+    "jun_total_rank": "",
+    "jun_daily_avg": null,
+    "jun_daily_unit": "",
+    "jun_daily_rank": "",
+    "weekday_avg": null,
+    "weekday_unit": "",
+    "weekday_rank": "",
+    "holiday_avg": null,
+    "holiday_unit": "",
+    "holiday_rank": ""
+  },
+  "population": {
+    "residential": {
+      "500m": 1.9,
+      "1_5km": 11.2,
+      "3km": 56.0
+    },
+    "office": {
+      "500m": 3.3,
+      "1_5km": 16.5,
+      "3km": 61.7
+    },
+    "permanent": {
+      "500m": 3.1,
+      "1_5km": 16.2,
+      "3km": 69.0
+    }
+  },
+  "business": {
+    "competitors": 10.0,
+    "food": 419.0,
+    "shopping": 721.0,
+    "leisure": 44.0,
+    "education": 21.0,
+    "hotel": 76.0,
+    "services": 341.0,
+    "fitness": 15.0,
+    "auto": 15.0,
+    "total_stores": 54.0,
+    "old_store_3yr_pct": 35.0
+  },
+  "nearby_poi": {
+    "business": 11.0,
+    "community": 295.0,
+    "office": 73.0,
+    "school": 48.0,
+    "hospital": 122.0,
+    "transport": 8.0,
+    "scenic": 1146.0
+  },
+  "demographics": {
+    "male_pct": 47.3,
+    "female_pct": null,
+    "education": {
+      "小学": 10.4,
+      "初中": 17.8,
+      "高中": 11.5,
+      "大专": 6.7,
+      "本科": 45.6,
+      "硕士": 6.3,
+      "博士": 1.7
+    },
+    "has_children_pct": 56.6,
+    "no_children_pct": 43.4
+  },
+  "scraped_at": "2026-07-31T18:33:00.563Z",
+  "nearby_restaurants": [
+    {
+      "brand": "全满堂烤鸭(王府井店)",
+      "address": "王府井大街201号利生大厦1层",
+      "distance": "28m"
+    },
+    {
+      "brand": "沙县小吃(王府井步行街店)",
+      "address": "老舍故居南门旁(金鱼胡同地铁站出入口步行480米)",
+      "distance": "36m"
+    },
+    {
+      "brand": "LOLA意大利手工冰淇淋工厂店",
+      "address": "王府井大街219号淘汇新天F1层",
+      "distance": "38m"
+    },
+    {
+      "brand": "小酒馆(北京利生体育商厦店)",
+      "address": "王府井大街201号北京利生体育商厦",
+      "distance": "38m"
+    },
+    {
+      "brand": "扬名烧腊(北京利生体育商厦店)",
+      "address": "王府井大街201号北京利生体育商厦",
+      "distance": "44m"
+    },
+    {
+      "brand": "牛约堡-牛肉汉堡(王府国际店)",
+      "address": "王府井大街219号B1层D15号",
+      "distance": "44m"
+    },
+    {
+      "brand": "武汉热干面",
+      "address": "韶九胡同与北官场胡同交叉口东80米",
+      "distance": "45m"
+    },
+    {
+      "brand": "仟仟多乐牛肉小火锅(王府井银泰in88店)",
+      "address": "北京城区王府井大街88号1幢4层L4003号",
+      "distance": "51m"
+    },
+    {
+      "brand": "房山小茶馆",
+      "address": "王府井大街与锡拉胡同交叉口西南20米",
+      "distance": "54m"
+    },
+    {
+      "brand": "老王府羊蝎子",
+      "address": "王府井大街西辅路C4号1幢2层",
+      "distance": "55m"
+    },
+    {
+      "brand": "全满堂烤鸭(王府井店)",
+      "address": "王府井大街201号利生大厦1层",
+      "distance": "28m"
+    },
+    {
+      "brand": "沙县小吃(王府井步行街店)",
+      "address": "老舍故居南门旁(金鱼胡同地铁站出入口步行480米)",
+      "distance": "36m"
+    },
+    {
+      "brand": "LOLA意大利手工冰淇淋工厂店",
+      "address": "王府井大街219号淘汇新天F1层",
+      "distance": "38m"
+    },
+    {
+      "brand": "小酒馆(北京利生体育商厦店)",
+      "address": "王府井大街201号北京利生体育商厦",
+      "distance": "38m"
+    },
+    {
+      "brand": "扬名烧腊(北京利生体育商厦店)",
+      "address": "王府井大街201号北京利生体育商厦",
+      "distance": "44m"
+    },
+    {
+      "brand": "牛约堡-牛肉汉堡(王府国际店)",
+      "address": "王府井大街219号B1层D15号",
+      "distance": "44m"
+    },
+    {
+      "brand": "武汉热干面",
+      "address": "韶九胡同与北官场胡同交叉口东80米",
+      "distance": "45m"
+    },
+    {
+      "brand": "仟仟多乐牛肉小火锅(王府井银泰in88店)",
+      "address": "北京城区王府井大街88号1幢4层L4003号",
+      "distance": "51m"
+    },
+    {
+      "brand": "房山小茶馆",
+      "address": "王府井大街与锡拉胡同交叉口西南20米",
+      "distance": "54m"
+    },
+    {
+      "brand": "老王府羊蝎子",
+      "address": "王府井大街西辅路C4号1幢2层",
+      "distance": "55m"
+    },
+    {
+      "brand": "全满堂烤鸭(王府井店)",
+      "address": "王府井大街201号利生大厦1层",
+      "distance": "28m"
+    },
+    {
+      "brand": "沙县小吃(王府井步行街店)",
+      "address": "老舍故居南门旁(金鱼胡同地铁站出入口步行480米)",
+      "distance": "36m"
+    },
+    {
+      "brand": "LOLA意大利手工冰淇淋工厂店",
+      "address": "王府井大街219号淘汇新天F1层",
+      "distance": "38m"
+    },
+    {
+      "brand": "小酒馆(北京利生体育商厦店)",
+      "address": "王府井大街201号北京利生体育商厦",
+      "distance": "38m"
+    },
+    {
+      "brand": "扬名烧腊(北京利生体育商厦店)",
+      "address": "王府井大街201号北京利生体育商厦",
+      "distance": "44m"
+    },
+    {
+      "brand": "牛约堡-牛肉汉堡(王府国际店)",
+      "address": "王府井大街219号B1层D15号",
+      "distance": "44m"
+    },
+    {
+      "brand": "武汉热干面",
+      "address": "韶九胡同与北官场胡同交叉口东80米",
+      "distance": "45m"
+    },
+    {
+      "brand": "仟仟多乐牛肉小火锅(王府井银泰in88店)",
+      "address": "北京城区王府井大街88号1幢4层L4003号",
+      "distance": "51m"
+    },
+    {
+      "brand": "房山小茶馆",
+      "address": "王府井大街与锡拉胡同交叉口西南20米",
+      "distance": "54m"
+    },
+    {
+      "brand": "老王府羊蝎子",
+      "address": "王府井大街西辅路C4号1幢2层",
+      "distance": "55m"
+    },
+    {
+      "brand": "全满堂烤鸭(王府井店)",
+      "address": "王府井大街201号利生大厦1层",
+      "distance": "28m"
+    },
+    {
+      "brand": "沙县小吃(王府井步行街店)",
+      "address": "老舍故居南门旁(金鱼胡同地铁站出入口步行480米)",
+      "distance": "36m"
+    },
+    {
+      "brand": "LOLA意大利手工冰淇淋工厂店",
+      "address": "王府井大街219号淘汇新天F1层",
+      "distance": "38m"
+    },
+    {
+      "brand": "小酒馆(北京利生体育商厦店)",
+      "address": "王府井大街201号北京利生体育商厦",
+      "distance": "38m"
+    },
+    {
+      "brand": "扬名烧腊(北京利生体育商厦店)",
+      "address": "王府井大街201号北京利生体育商厦",
+      "distance": "44m"
+    },
+    {
+      "brand": "牛约堡-牛肉汉堡(王府国际店)",
+      "address": "王府井大街219号B1层D15号",
+      "distance": "44m"
+    },
+    {
+      "brand": "武汉热干面",
+      "address": "韶九胡同与北官场胡同交叉口东80米",
+      "distance": "45m"
+    },
+    {
+      "brand": "仟仟多乐牛肉小火锅(王府井银泰in88店)",
+      "address": "北京城区王府井大街88号1幢4层L4003号",
+      "distance": "51m"
+    },
+    {
+      "brand": "房山小茶馆",
+      "address": "王府井大街与锡拉胡同交叉口西南20米",
+      "distance": "54m"
+    },
+    {
+      "brand": "老王府羊蝎子",
+      "address": "王府井大街西辅路C4号1幢2层",
+      "distance": "55m"
+    },
+    {
+      "brand": "全满堂烤鸭(王府井店)",
+      "address": "王府井大街201号利生大厦1层",
+      "distance": "28m"
+    },
+    {
+      "brand": "沙县小吃(王府井步行街店)",
+      "address": "老舍故居南门旁(金鱼胡同地铁站出入口步行480米)",
+      "distance": "36m"
+    },
+    {
+      "brand": "LOLA意大利手工冰淇淋工厂店",
+      "address": "王府井大街219号淘汇新天F1层",
+      "distance": "38m"
+    },
+    {
+      "brand": "小酒馆(北京利生体育商厦店)",
+      "address": "王府井大街201号北京利生体育商厦",
+      "distance": "38m"
+    },
+    {
+      "brand": "扬名烧腊(北京利生体育商厦店)",
+      "address": "王府井大街201号北京利生体育商厦",
+      "distance": "44m"
+    },
+    {
+      "brand": "牛约堡-牛肉汉堡(王府国际店)",
+      "address": "王府井大街219号B1层D15号",
+      "distance": "44m"
+    },
+    {
+      "brand": "武汉热干面",
+      "address": "韶九胡同与北官场胡同交叉口东80米",
+      "distance": "45m"
+    },
+    {
+      "brand": "仟仟多乐牛肉小火锅(王府井银泰in88店)",
+      "address": "北京城区王府井大街88号1幢4层L4003号",
+      "distance": "51m"
+    },
+    {
+      "brand": "房山小茶馆",
+      "address": "王府井大街与锡拉胡同交叉口西南20米",
+      "distance": "54m"
+    },
+    {
+      "brand": "老王府羊蝎子",
+      "address": "王府井大街西辅路C4号1幢2层",
+      "distance": "55m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "北京淘汇新天购物中心",
+      "open_date": "2014-02-16",
+      "area": "3.8万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "北京银泰in88",
+      "open_date": "2018-01-01",
+      "area": "3万㎡",
+      "jun_daily_avg": "1.4万人次",
+      "weekday_avg": "1.2万人次",
+      "holiday_avg": "1.9万人次"
+    },
+    {
+      "name": "北京澳门中心",
+      "open_date": "2008-01-01",
+      "area": "8.8万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "北京市百货大楼",
+      "open_date": "1955-09-01",
+      "area": "1.8万㎡",
+      "jun_daily_avg": "4.4万人次",
+      "weekday_avg": "3.9万人次",
+      "holiday_avg": "5.7万人次"
+    },
+    {
+      "name": "北京APM",
+      "open_date": "2008-01-01",
+      "area": "9万㎡",
+      "jun_daily_avg": "8.5万人次",
+      "weekday_avg": "7.5万人次",
+      "holiday_avg": "11.1万人次"
+    },
+    {
+      "name": "北京王府中环",
+      "open_date": "2018-05-29",
+      "area": "4.3万㎡",
+      "jun_daily_avg": "3.7万人次",
+      "weekday_avg": "3.2万人次",
+      "holiday_avg": "5万人次"
+    },
+    {
+      "name": "北京王府井工美大厦",
+      "open_date": "1996-07-01",
+      "area": "2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "王府井喜悦购物中心",
+      "open_date": "2023-12-30",
+      "area": "7万㎡",
+      "jun_daily_avg": "6.1万人次",
+      "weekday_avg": "5.2万人次",
+      "holiday_avg": "8.5万人次"
+    },
+    {
+      "name": "北京东方新天地",
+      "open_date": "2000-09-01",
+      "area": "12万㎡",
+      "jun_daily_avg": "5.4万人次",
+      "weekday_avg": "5.4万人次",
+      "holiday_avg": "5.2万人次"
+    },
+    {
+      "name": "北京金宝汇购物中心",
+      "open_date": "2009-05-01",
+      "area": "4万㎡",
+      "jun_daily_avg": "1.3万人次",
+      "weekday_avg": "1.3万人次",
+      "holiday_avg": "1.4万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 4.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 75.0,
+      "over_3yr_pct": 25.0
+    },
+    {
+      "type": "购物",
+      "count": 25.0,
+      "within_1yr_pct": 4.0,
+      "1_3yr_pct": 60.0,
+      "over_3yr_pct": 36.0
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    },
+    {
+      "type": "生活服务",
+      "count": 21.0,
+      "within_1yr_pct": 38.1,
+      "1_3yr_pct": 38.1,
+      "over_3yr_pct": 23.8
+    },
+    {
+      "type": "运动健身",
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    }
+  ]
+}

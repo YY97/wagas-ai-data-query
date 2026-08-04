@@ -1,0 +1,454 @@
+{
+  "name": "国瑞购物中心",
+  "city": "北京市",
+  "address": "北京市东城区崇文门外大街18号",
+  "lat": 39.898323,
+  "lng": 116.419971,
+  "overview": {
+    "score": 94.5,
+    "score_rank": "市内前30%",
+    "population_score": 97.5,
+    "area_score": 100.0,
+    "consumption_score": 87.9,
+    "industry_score": 94.5,
+    "annual_sales": "3.5",
+    "annual_sales_unit": "亿元",
+    "area_size_sqm": 13.0,
+    "open_date": "2024-06-09",
+    "operator": "国瑞置业有限公司",
+    "brand": "",
+    "type": "美食型",
+    "floors": "B2-L3"
+  },
+  "traffic": {
+    "annual_daily": 3.48,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第55",
+    "jun_total": 120.4,
+    "jun_total_rank": "市内商场第75名",
+    "jun_daily_avg": 4.0,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第75名",
+    "weekday_avg": 3.8,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第72名",
+    "holiday_avg": 4.5,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第85名"
+  },
+  "population": {
+    "residential": {
+      "500m": 3.4,
+      "1_5km": 18.7,
+      "3km": 58.5
+    },
+    "office": {
+      "500m": 3.2,
+      "1_5km": 18.9,
+      "3km": 53.7
+    },
+    "permanent": {
+      "500m": 4.2,
+      "1_5km": 22.6,
+      "3km": 69.7
+    }
+  },
+  "business": {
+    "competitors": 12.0,
+    "food": 408.0,
+    "shopping": 500.0,
+    "leisure": 62.0,
+    "education": 70.0,
+    "hotel": 76.0,
+    "services": 321.0,
+    "fitness": 50.0,
+    "auto": 25.0,
+    "total_stores": 207.0,
+    "old_store_3yr_pct": 47.0
+  },
+  "nearby_poi": {
+    "business": 6.0,
+    "community": 332.0,
+    "office": 91.0,
+    "school": 45.0,
+    "hospital": 118.0,
+    "transport": 12.0,
+    "scenic": 726.0
+  },
+  "demographics": {
+    "male_pct": 47.2,
+    "female_pct": null,
+    "education": {
+      "小学": 10.2,
+      "初中": 17.3,
+      "高中": 11.2,
+      "大专": 6.5,
+      "本科": 46.3,
+      "硕士": 6.7,
+      "博士": 1.8
+    },
+    "has_children_pct": 57.0,
+    "no_children_pct": 43.0
+  },
+  "scraped_at": "2026-08-01T04:57:20.205Z",
+  "nearby_restaurants": [
+    {
+      "brand": "Salud撒露欧洲冻酸奶(国瑞购物中心店)",
+      "address": "崇文门外大街18号国瑞购物中心G层中岛4-7号铺位",
+      "distance": "2m"
+    },
+    {
+      "brand": "LELECHA乐乐茶(国瑞购物中心店)",
+      "address": "崇文门大街18号一幢B1层G-9号",
+      "distance": "4m"
+    },
+    {
+      "brand": "砂锅婆砂锅下饭菜(国瑞购物中心店)",
+      "address": "崇文门外大街20号",
+      "distance": "4m"
+    },
+    {
+      "brand": "夸父炸串(崇文门国瑞购物中心店)(暂停营业)",
+      "address": "北京城区崇文门外大街18号1幢G层FC-30",
+      "distance": "4m"
+    },
+    {
+      "brand": "正南柒百泡椒砂锅米线",
+      "address": "崇文门外大街辅路与西花市大街交叉口东北140米",
+      "distance": "5m"
+    },
+    {
+      "brand": "咖喱状元·咖喱蛋包饭(第五档口聚芮源餐饮美食城店)",
+      "address": "崇文门外大街18号国瑞购物中心",
+      "distance": "6m"
+    },
+    {
+      "brand": "Kaze ladyの泡芙工房(国瑞店)",
+      "address": "崇文门外大街18号国瑞购物中心F1层",
+      "distance": "6m"
+    },
+    {
+      "brand": "北京鑫盛长锦餐饮有限公司",
+      "address": "崇文门外大街18号国瑞购物中心",
+      "distance": "6m"
+    },
+    {
+      "brand": "LINLEE·手打柠檬茶(国瑞购物中心店)",
+      "address": "北京城区北京城区崇文门外大街18号国瑞购物中心B1层FC-14号铺",
+      "distance": "6m"
+    },
+    {
+      "brand": "起点寿司(国瑞城店)",
+      "address": "崇文门外大街18号1幢国瑞购物中心地下一层",
+      "distance": "6m"
+    },
+    {
+      "brand": "Salud撒露欧洲冻酸奶(国瑞购物中心店)",
+      "address": "崇文门外大街18号国瑞购物中心G层中岛4-7号铺位",
+      "distance": "2m"
+    },
+    {
+      "brand": "LELECHA乐乐茶(国瑞购物中心店)",
+      "address": "崇文门大街18号一幢B1层G-9号",
+      "distance": "4m"
+    },
+    {
+      "brand": "砂锅婆砂锅下饭菜(国瑞购物中心店)",
+      "address": "崇文门外大街20号",
+      "distance": "4m"
+    },
+    {
+      "brand": "夸父炸串(崇文门国瑞购物中心店)(暂停营业)",
+      "address": "北京城区崇文门外大街18号1幢G层FC-30",
+      "distance": "4m"
+    },
+    {
+      "brand": "正南柒百泡椒砂锅米线",
+      "address": "崇文门外大街辅路与西花市大街交叉口东北140米",
+      "distance": "5m"
+    },
+    {
+      "brand": "咖喱状元·咖喱蛋包饭(第五档口聚芮源餐饮美食城店)",
+      "address": "崇文门外大街18号国瑞购物中心",
+      "distance": "6m"
+    },
+    {
+      "brand": "Kaze ladyの泡芙工房(国瑞店)",
+      "address": "崇文门外大街18号国瑞购物中心F1层",
+      "distance": "6m"
+    },
+    {
+      "brand": "北京鑫盛长锦餐饮有限公司",
+      "address": "崇文门外大街18号国瑞购物中心",
+      "distance": "6m"
+    },
+    {
+      "brand": "LINLEE·手打柠檬茶(国瑞购物中心店)",
+      "address": "北京城区北京城区崇文门外大街18号国瑞购物中心B1层FC-14号铺",
+      "distance": "6m"
+    },
+    {
+      "brand": "起点寿司(国瑞城店)",
+      "address": "崇文门外大街18号1幢国瑞购物中心地下一层",
+      "distance": "6m"
+    },
+    {
+      "brand": "Salud撒露欧洲冻酸奶(国瑞购物中心店)",
+      "address": "崇文门外大街18号国瑞购物中心G层中岛4-7号铺位",
+      "distance": "2m"
+    },
+    {
+      "brand": "LELECHA乐乐茶(国瑞购物中心店)",
+      "address": "崇文门大街18号一幢B1层G-9号",
+      "distance": "4m"
+    },
+    {
+      "brand": "砂锅婆砂锅下饭菜(国瑞购物中心店)",
+      "address": "崇文门外大街20号",
+      "distance": "4m"
+    },
+    {
+      "brand": "夸父炸串(崇文门国瑞购物中心店)(暂停营业)",
+      "address": "北京城区崇文门外大街18号1幢G层FC-30",
+      "distance": "4m"
+    },
+    {
+      "brand": "正南柒百泡椒砂锅米线",
+      "address": "崇文门外大街辅路与西花市大街交叉口东北140米",
+      "distance": "5m"
+    },
+    {
+      "brand": "咖喱状元·咖喱蛋包饭(第五档口聚芮源餐饮美食城店)",
+      "address": "崇文门外大街18号国瑞购物中心",
+      "distance": "6m"
+    },
+    {
+      "brand": "Kaze ladyの泡芙工房(国瑞店)",
+      "address": "崇文门外大街18号国瑞购物中心F1层",
+      "distance": "6m"
+    },
+    {
+      "brand": "北京鑫盛长锦餐饮有限公司",
+      "address": "崇文门外大街18号国瑞购物中心",
+      "distance": "6m"
+    },
+    {
+      "brand": "LINLEE·手打柠檬茶(国瑞购物中心店)",
+      "address": "北京城区北京城区崇文门外大街18号国瑞购物中心B1层FC-14号铺",
+      "distance": "6m"
+    },
+    {
+      "brand": "起点寿司(国瑞城店)",
+      "address": "崇文门外大街18号1幢国瑞购物中心地下一层",
+      "distance": "6m"
+    },
+    {
+      "brand": "Salud撒露欧洲冻酸奶(国瑞购物中心店)",
+      "address": "崇文门外大街18号国瑞购物中心G层中岛4-7号铺位",
+      "distance": "2m"
+    },
+    {
+      "brand": "LELECHA乐乐茶(国瑞购物中心店)",
+      "address": "崇文门大街18号一幢B1层G-9号",
+      "distance": "4m"
+    },
+    {
+      "brand": "砂锅婆砂锅下饭菜(国瑞购物中心店)",
+      "address": "崇文门外大街20号",
+      "distance": "4m"
+    },
+    {
+      "brand": "夸父炸串(崇文门国瑞购物中心店)(暂停营业)",
+      "address": "北京城区崇文门外大街18号1幢G层FC-30",
+      "distance": "4m"
+    },
+    {
+      "brand": "正南柒百泡椒砂锅米线",
+      "address": "崇文门外大街辅路与西花市大街交叉口东北140米",
+      "distance": "5m"
+    },
+    {
+      "brand": "咖喱状元·咖喱蛋包饭(第五档口聚芮源餐饮美食城店)",
+      "address": "崇文门外大街18号国瑞购物中心",
+      "distance": "6m"
+    },
+    {
+      "brand": "Kaze ladyの泡芙工房(国瑞店)",
+      "address": "崇文门外大街18号国瑞购物中心F1层",
+      "distance": "6m"
+    },
+    {
+      "brand": "北京鑫盛长锦餐饮有限公司",
+      "address": "崇文门外大街18号国瑞购物中心",
+      "distance": "6m"
+    },
+    {
+      "brand": "LINLEE·手打柠檬茶(国瑞购物中心店)",
+      "address": "北京城区北京城区崇文门外大街18号国瑞购物中心B1层FC-14号铺",
+      "distance": "6m"
+    },
+    {
+      "brand": "起点寿司(国瑞城店)",
+      "address": "崇文门外大街18号1幢国瑞购物中心地下一层",
+      "distance": "6m"
+    },
+    {
+      "brand": "Salud撒露欧洲冻酸奶(国瑞购物中心店)",
+      "address": "崇文门外大街18号国瑞购物中心G层中岛4-7号铺位",
+      "distance": "2m"
+    },
+    {
+      "brand": "LELECHA乐乐茶(国瑞购物中心店)",
+      "address": "崇文门大街18号一幢B1层G-9号",
+      "distance": "4m"
+    },
+    {
+      "brand": "砂锅婆砂锅下饭菜(国瑞购物中心店)",
+      "address": "崇文门外大街20号",
+      "distance": "4m"
+    },
+    {
+      "brand": "夸父炸串(崇文门国瑞购物中心店)(暂停营业)",
+      "address": "北京城区崇文门外大街18号1幢G层FC-30",
+      "distance": "4m"
+    },
+    {
+      "brand": "正南柒百泡椒砂锅米线",
+      "address": "崇文门外大街辅路与西花市大街交叉口东北140米",
+      "distance": "5m"
+    },
+    {
+      "brand": "咖喱状元·咖喱蛋包饭(第五档口聚芮源餐饮美食城店)",
+      "address": "崇文门外大街18号国瑞购物中心",
+      "distance": "6m"
+    },
+    {
+      "brand": "Kaze ladyの泡芙工房(国瑞店)",
+      "address": "崇文门外大街18号国瑞购物中心F1层",
+      "distance": "6m"
+    },
+    {
+      "brand": "北京鑫盛长锦餐饮有限公司",
+      "address": "崇文门外大街18号国瑞购物中心",
+      "distance": "6m"
+    },
+    {
+      "brand": "LINLEE·手打柠檬茶(国瑞购物中心店)",
+      "address": "北京城区北京城区崇文门外大街18号国瑞购物中心B1层FC-14号铺",
+      "distance": "6m"
+    },
+    {
+      "brand": "起点寿司(国瑞城店)",
+      "address": "崇文门外大街18号1幢国瑞购物中心地下一层",
+      "distance": "6m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "北京崇文门新世界百货",
+      "open_date": "1998-01-01",
+      "area": "7万㎡",
+      "jun_daily_avg": "5.1万人次",
+      "weekday_avg": "4.9万人次",
+      "holiday_avg": "5.6万人次"
+    },
+    {
+      "name": "合景·摩方(北京店)",
+      "open_date": "2008-10-11",
+      "area": "3.9万㎡",
+      "jun_daily_avg": "1.9万人次",
+      "weekday_avg": "1.8万人次",
+      "holiday_avg": "2万人次"
+    },
+    {
+      "name": "北京新活馆",
+      "open_date": "2012-10-01",
+      "area": "4万㎡",
+      "jun_daily_avg": "1.8万人次",
+      "weekday_avg": "1.8万人次",
+      "holiday_avg": "2万人次"
+    },
+    {
+      "name": "北京红桥市场",
+      "open_date": "1987-01-01",
+      "area": "5万㎡",
+      "jun_daily_avg": "1.2万人次",
+      "weekday_avg": "1.1万人次",
+      "holiday_avg": "1.4万人次"
+    },
+    {
+      "name": "北京东方新天地",
+      "open_date": "2000-09-01",
+      "area": "12万㎡",
+      "jun_daily_avg": "5.4万人次",
+      "weekday_avg": "5.4万人次",
+      "holiday_avg": "5.2万人次"
+    },
+    {
+      "name": "王府井喜悦购物中心",
+      "open_date": "2023-12-30",
+      "area": "7万㎡",
+      "jun_daily_avg": "6.1万人次",
+      "weekday_avg": "5.2万人次",
+      "holiday_avg": "8.5万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 102.0,
+      "within_1yr_pct": 29.4,
+      "1_3yr_pct": 25.5,
+      "over_3yr_pct": 45.1
+    },
+    {
+      "type": "购物",
+      "count": 59.0,
+      "within_1yr_pct": 16.9,
+      "1_3yr_pct": 23.7,
+      "over_3yr_pct": 59.3
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 8.0,
+      "within_1yr_pct": 37.5,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 37.5
+    },
+    {
+      "type": "教育培训",
+      "count": 3.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 33.3
+    },
+    {
+      "type": "酒店住宿",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "生活服务",
+      "count": 24.0,
+      "within_1yr_pct": 29.2,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 37.5
+    },
+    {
+      "type": "运动健身",
+      "count": 4.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 6.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 16.7
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "name": "百联南桥购物中心",
+  "city": "上海市",
+  "address": "上海市奉贤区南桥镇百兴路588号百联南桥购物中心",
+  "lat": 30.914794,
+  "lng": 121.484846,
+  "overview": {
+    "score": 94.7,
+    "score_rank": "市内前30%",
+    "population_score": 69.3,
+    "area_score": 87.8,
+    "consumption_score": 65.1,
+    "industry_score": 94.8,
+    "annual_sales": "百联南桥购物中心是一家集餐饮、娱乐、休闲、购物于一体的综合性大型购物中心，拥有停车位2000个、经营商户400余家。",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 11.06,
+    "open_date": "2007-11-23",
+    "operator": "上海百联集团股份有限公司",
+    "brand": "百联",
+    "type": "购物型",
+    "floors": "L1-L4"
+  },
+  "traffic": {
+    "annual_daily": 3.59,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第66",
+    "jun_total": 123.7,
+    "jun_total_rank": "市内商场第88名",
+    "jun_daily_avg": 4.1,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第88名",
+    "weekday_avg": 3.6,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第95名",
+    "holiday_avg": 5.5,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第79名"
+  },
+  "population": {
+    "residential": {
+      "500m": 7300.0,
+      "1_5km": 10.8,
+      "3km": 33.4
+    },
+    "office": {
+      "500m": 1.7,
+      "1_5km": 5.7,
+      "3km": 16.4
+    },
+    "permanent": {
+      "500m": 1.4,
+      "1_5km": 11.0,
+      "3km": 33.1
+    }
+  },
+  "business": {
+    "competitors": 7.0,
+    "food": 233.0,
+    "shopping": 271.0,
+    "leisure": 34.0,
+    "education": 48.0,
+    "hotel": 22.0,
+    "services": 197.0,
+    "fitness": 26.0,
+    "auto": 28.0,
+    "total_stores": 268.0,
+    "old_store_3yr_pct": 58.0
+  },
+  "nearby_poi": {
+    "business": 8.0,
+    "community": 174.0,
+    "office": 20.0,
+    "school": 16.0,
+    "hospital": 35.0,
+    "transport": 16.0,
+    "scenic": 193.0
+  },
+  "demographics": {
+    "male_pct": 46.4,
+    "female_pct": null,
+    "education": {
+      "小学": 10.2,
+      "初中": 20.9,
+      "高中": 13.0,
+      "大专": 7.7,
+      "本科": 44.5,
+      "硕士": 2.8,
+      "博士": 0.9
+    },
+    "has_children_pct": 62.5,
+    "no_children_pct": 37.5
+  },
+  "scraped_at": "2026-08-01T17:12:23.355Z",
+  "nearby_restaurants": [],
+  "nearby_malls": [],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 70.0,
+      "within_1yr_pct": 14.3,
+      "1_3yr_pct": 31.4,
+      "over_3yr_pct": 54.3
+    },
+    {
+      "type": "购物",
+      "count": 156.0,
+      "within_1yr_pct": 16.7,
+      "1_3yr_pct": 19.9,
+      "over_3yr_pct": 63.5
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 4.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "教育培训",
+      "count": 3.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 66.7
+    },
+    {
+      "type": "酒店住宿",
+      "count": 1.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "生活服务",
+      "count": 17.0,
+      "within_1yr_pct": 17.6,
+      "1_3yr_pct": 29.4,
+      "over_3yr_pct": 52.9
+    },
+    {
+      "type": "运动健身",
+      "count": 6.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 66.7,
+      "over_3yr_pct": 33.3
+    },
+    {
+      "type": "车辆服务",
+      "count": 11.0,
+      "within_1yr_pct": 18.2,
+      "1_3yr_pct": 45.5,
+      "over_3yr_pct": 36.4
+    }
+  ]
+}

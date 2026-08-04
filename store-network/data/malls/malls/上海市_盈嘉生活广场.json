@@ -1,0 +1,147 @@
+{
+  "name": "盈嘉生活广场",
+  "city": "上海市",
+  "address": "上海市闵行区联友路和雅乐路交叉口",
+  "lat": 31.216361,
+  "lng": 121.275211,
+  "overview": {
+    "score": 79.7,
+    "score_rank": "市内前30%",
+    "population_score": 68.2,
+    "area_score": 74.2,
+    "consumption_score": 74.3,
+    "industry_score": 79.8,
+    "annual_sales": "上海虹桥前湾印象城MEGA是位于闵行区联友路和雅乐路交叉口东南面的大型商业综合体，占地面积约6.8万平方米，总建筑面积达25.6万平方米。该项目总投资35亿元，定位为“国际化社交度假漫游湾”，预计2025年年底开业。",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 25.6,
+    "open_date": "2025-12-01",
+    "operator": "印力商用置业有限公司",
+    "brand": "印力",
+    "type": "综合型",
+    "floors": ""
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "-",
+    "annual_daily_rank": "",
+    "jun_total": 128.3,
+    "jun_total_rank": "市内商场第86名",
+    "jun_daily_avg": 4.3,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第86名",
+    "weekday_avg": 3.6,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第96名",
+    "holiday_avg": 6.2,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第63名"
+  },
+  "population": {
+    "residential": {
+      "500m": 6500.0,
+      "1_5km": 7.7,
+      "3km": 32.7
+    },
+    "office": {
+      "500m": 1.0,
+      "1_5km": 4.2,
+      "3km": 14.2
+    },
+    "permanent": {
+      "500m": 7900.0,
+      "1_5km": 7.1,
+      "3km": 28.3
+    }
+  },
+  "business": {
+    "competitors": 5.0,
+    "food": 163.0,
+    "shopping": 170.0,
+    "leisure": 16.0,
+    "education": 4.0,
+    "hotel": 23.0,
+    "services": 28.0,
+    "fitness": 7.0,
+    "auto": 19.0,
+    "total_stores": 299.0,
+    "old_store_3yr_pct": 0.0
+  },
+  "nearby_poi": {
+    "business": 2.0,
+    "community": 119.0,
+    "office": 13.0,
+    "school": 6.0,
+    "hospital": 28.0,
+    "transport": 4.0,
+    "scenic": 36.0
+  },
+  "demographics": {
+    "male_pct": 49.5,
+    "female_pct": null,
+    "education": {
+      "小学": 10.5,
+      "初中": 19.4,
+      "高中": 12.1,
+      "大专": 10.3,
+      "本科": 43.8,
+      "硕士": 3.1,
+      "博士": 0.8
+    },
+    "has_children_pct": 57.4,
+    "no_children_pct": 42.6
+  },
+  "scraped_at": "2026-08-01T15:48:04.812Z",
+  "nearby_restaurants": [],
+  "nearby_malls": [],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 122.0,
+      "within_1yr_pct": 7.4,
+      "1_3yr_pct": 92.6,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "购物",
+      "count": 136.0,
+      "within_1yr_pct": 8.8,
+      "1_3yr_pct": 91.2,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 15.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 80.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "教育培训",
+      "count": 2.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "生活服务",
+      "count": 12.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 58.3,
+      "over_3yr_pct": 8.3
+    },
+    {
+      "type": "运动健身",
+      "count": 5.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 80.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 7.0,
+      "within_1yr_pct": 14.3,
+      "1_3yr_pct": 85.7,
+      "over_3yr_pct": 0.0
+    }
+  ]
+}

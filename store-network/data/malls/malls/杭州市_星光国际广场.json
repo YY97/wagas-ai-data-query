@@ -1,0 +1,454 @@
+{
+  "name": "星光国际广场",
+  "city": "杭州市",
+  "address": "浙江省杭州市滨江区浙长河街道丹枫路4号楼星光国际广场",
+  "lat": 30.207905,
+  "lng": 120.20873,
+  "overview": {
+    "score": 91.5,
+    "score_rank": "市内前30%",
+    "population_score": 79.2,
+    "area_score": 81.8,
+    "consumption_score": 80.5,
+    "industry_score": 91.7,
+    "annual_sales": "12",
+    "annual_sales_unit": "亿元",
+    "area_size_sqm": 17.0,
+    "open_date": "2015-12-01",
+    "operator": "浙江华联杭州湾创业有限公司",
+    "brand": "华联",
+    "type": "美食型",
+    "floors": "B2-L5"
+  },
+  "traffic": {
+    "annual_daily": 1.82,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第79",
+    "jun_total": 38.9,
+    "jun_total_rank": "市内商场第123名",
+    "jun_daily_avg": 1.3,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第123名",
+    "weekday_avg": 1.2,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第122名",
+    "holiday_avg": 1.5,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第120名"
+  },
+  "population": {
+    "residential": {
+      "500m": 9100.0,
+      "1_5km": 9.1,
+      "3km": 33.0
+    },
+    "office": {
+      "500m": 1.5,
+      "1_5km": 11.6,
+      "3km": 33.3
+    },
+    "permanent": {
+      "500m": 1.1,
+      "1_5km": 9.9,
+      "3km": 32.1
+    }
+  },
+  "business": {
+    "competitors": 6.0,
+    "food": 214.0,
+    "shopping": 123.0,
+    "leisure": 35.0,
+    "education": 53.0,
+    "hotel": 87.0,
+    "services": 164.0,
+    "fitness": 24.0,
+    "auto": 24.0,
+    "total_stores": 210.0,
+    "old_store_3yr_pct": 48.0
+  },
+  "nearby_poi": {
+    "business": 6.0,
+    "community": 172.0,
+    "office": 76.0,
+    "school": 18.0,
+    "hospital": 38.0,
+    "transport": 18.0,
+    "scenic": 95.0
+  },
+  "demographics": {
+    "male_pct": 50.7,
+    "female_pct": null,
+    "education": {
+      "小学": 6.9,
+      "初中": 13.1,
+      "高中": 10.8,
+      "大专": 9.8,
+      "本科": 50.5,
+      "硕士": 7.9,
+      "博士": 1.0
+    },
+    "has_children_pct": 56.2,
+    "no_children_pct": 43.8
+  },
+  "scraped_at": "2026-08-02T05:41:27.166Z",
+  "nearby_restaurants": [
+    {
+      "brand": "M Stand(杭州滨江星光大道店)",
+      "address": "江南大道228号星光国际广场F1层",
+      "distance": "11m"
+    },
+    {
+      "brand": "何所有玉米说(杭州滨江星光大道店)",
+      "address": "长河街道星光大道一期中央广场靠1幢扶梯旁",
+      "distance": "19m"
+    },
+    {
+      "brand": "赛百味(星光大道店)",
+      "address": "长河街道星光国际广场1幢1-112号商铺",
+      "distance": "26m"
+    },
+    {
+      "brand": "汶兴记潮汕粥底火锅(星光国际广场店)",
+      "address": "星光大道一期二楼(赛百味边上扶梯上)",
+      "distance": "28m"
+    },
+    {
+      "brand": "星光专列小火车笼太仔建德豆腐包(星光国际广场店)",
+      "address": "江南大道228号星光国际广场",
+      "distance": "28m"
+    },
+    {
+      "brand": "一席地·本地鸡窝(星光大道)",
+      "address": "长河街道星光国际广场(3-203)号",
+      "distance": "28m"
+    },
+    {
+      "brand": "糖可滋·冰糖葫芦·炒酸奶(星光大道店)(暂停营业)",
+      "address": "星光大道国际广场2幢步行街中间小圆亭玻璃房",
+      "distance": "29m"
+    },
+    {
+      "brand": "肯悦咖啡杭州星光店",
+      "address": "江南大道228号星光大道商业街1楼",
+      "distance": "31m"
+    },
+    {
+      "brand": "吾沫(星光国际广场店)",
+      "address": "江南大道228号星光国际广场F1层",
+      "distance": "38m"
+    },
+    {
+      "brand": "Manner Coffee",
+      "address": "长河街道江南大道228号星光国际广场1幢117室",
+      "distance": "42m"
+    },
+    {
+      "brand": "M Stand(杭州滨江星光大道店)",
+      "address": "江南大道228号星光国际广场F1层",
+      "distance": "11m"
+    },
+    {
+      "brand": "何所有玉米说(杭州滨江星光大道店)",
+      "address": "长河街道星光大道一期中央广场靠1幢扶梯旁",
+      "distance": "19m"
+    },
+    {
+      "brand": "赛百味(星光大道店)",
+      "address": "长河街道星光国际广场1幢1-112号商铺",
+      "distance": "26m"
+    },
+    {
+      "brand": "汶兴记潮汕粥底火锅(星光国际广场店)",
+      "address": "星光大道一期二楼(赛百味边上扶梯上)",
+      "distance": "28m"
+    },
+    {
+      "brand": "星光专列小火车笼太仔建德豆腐包(星光国际广场店)",
+      "address": "江南大道228号星光国际广场",
+      "distance": "28m"
+    },
+    {
+      "brand": "一席地·本地鸡窝(星光大道)",
+      "address": "长河街道星光国际广场(3-203)号",
+      "distance": "28m"
+    },
+    {
+      "brand": "糖可滋·冰糖葫芦·炒酸奶(星光大道店)(暂停营业)",
+      "address": "星光大道国际广场2幢步行街中间小圆亭玻璃房",
+      "distance": "29m"
+    },
+    {
+      "brand": "肯悦咖啡杭州星光店",
+      "address": "江南大道228号星光大道商业街1楼",
+      "distance": "31m"
+    },
+    {
+      "brand": "吾沫(星光国际广场店)",
+      "address": "江南大道228号星光国际广场F1层",
+      "distance": "38m"
+    },
+    {
+      "brand": "Manner Coffee",
+      "address": "长河街道江南大道228号星光国际广场1幢117室",
+      "distance": "42m"
+    },
+    {
+      "brand": "M Stand(杭州滨江星光大道店)",
+      "address": "江南大道228号星光国际广场F1层",
+      "distance": "11m"
+    },
+    {
+      "brand": "何所有玉米说(杭州滨江星光大道店)",
+      "address": "长河街道星光大道一期中央广场靠1幢扶梯旁",
+      "distance": "19m"
+    },
+    {
+      "brand": "赛百味(星光大道店)",
+      "address": "长河街道星光国际广场1幢1-112号商铺",
+      "distance": "26m"
+    },
+    {
+      "brand": "汶兴记潮汕粥底火锅(星光国际广场店)",
+      "address": "星光大道一期二楼(赛百味边上扶梯上)",
+      "distance": "28m"
+    },
+    {
+      "brand": "星光专列小火车笼太仔建德豆腐包(星光国际广场店)",
+      "address": "江南大道228号星光国际广场",
+      "distance": "28m"
+    },
+    {
+      "brand": "一席地·本地鸡窝(星光大道)",
+      "address": "长河街道星光国际广场(3-203)号",
+      "distance": "28m"
+    },
+    {
+      "brand": "糖可滋·冰糖葫芦·炒酸奶(星光大道店)(暂停营业)",
+      "address": "星光大道国际广场2幢步行街中间小圆亭玻璃房",
+      "distance": "29m"
+    },
+    {
+      "brand": "肯悦咖啡杭州星光店",
+      "address": "江南大道228号星光大道商业街1楼",
+      "distance": "31m"
+    },
+    {
+      "brand": "吾沫(星光国际广场店)",
+      "address": "江南大道228号星光国际广场F1层",
+      "distance": "38m"
+    },
+    {
+      "brand": "Manner Coffee",
+      "address": "长河街道江南大道228号星光国际广场1幢117室",
+      "distance": "42m"
+    },
+    {
+      "brand": "M Stand(杭州滨江星光大道店)",
+      "address": "江南大道228号星光国际广场F1层",
+      "distance": "11m"
+    },
+    {
+      "brand": "何所有玉米说(杭州滨江星光大道店)",
+      "address": "长河街道星光大道一期中央广场靠1幢扶梯旁",
+      "distance": "19m"
+    },
+    {
+      "brand": "赛百味(星光大道店)",
+      "address": "长河街道星光国际广场1幢1-112号商铺",
+      "distance": "26m"
+    },
+    {
+      "brand": "汶兴记潮汕粥底火锅(星光国际广场店)",
+      "address": "星光大道一期二楼(赛百味边上扶梯上)",
+      "distance": "28m"
+    },
+    {
+      "brand": "星光专列小火车笼太仔建德豆腐包(星光国际广场店)",
+      "address": "江南大道228号星光国际广场",
+      "distance": "28m"
+    },
+    {
+      "brand": "一席地·本地鸡窝(星光大道)",
+      "address": "长河街道星光国际广场(3-203)号",
+      "distance": "28m"
+    },
+    {
+      "brand": "糖可滋·冰糖葫芦·炒酸奶(星光大道店)(暂停营业)",
+      "address": "星光大道国际广场2幢步行街中间小圆亭玻璃房",
+      "distance": "29m"
+    },
+    {
+      "brand": "肯悦咖啡杭州星光店",
+      "address": "江南大道228号星光大道商业街1楼",
+      "distance": "31m"
+    },
+    {
+      "brand": "吾沫(星光国际广场店)",
+      "address": "江南大道228号星光国际广场F1层",
+      "distance": "38m"
+    },
+    {
+      "brand": "Manner Coffee",
+      "address": "长河街道江南大道228号星光国际广场1幢117室",
+      "distance": "42m"
+    },
+    {
+      "brand": "M Stand(杭州滨江星光大道店)",
+      "address": "江南大道228号星光国际广场F1层",
+      "distance": "11m"
+    },
+    {
+      "brand": "何所有玉米说(杭州滨江星光大道店)",
+      "address": "长河街道星光大道一期中央广场靠1幢扶梯旁",
+      "distance": "19m"
+    },
+    {
+      "brand": "赛百味(星光大道店)",
+      "address": "长河街道星光国际广场1幢1-112号商铺",
+      "distance": "26m"
+    },
+    {
+      "brand": "汶兴记潮汕粥底火锅(星光国际广场店)",
+      "address": "星光大道一期二楼(赛百味边上扶梯上)",
+      "distance": "28m"
+    },
+    {
+      "brand": "星光专列小火车笼太仔建德豆腐包(星光国际广场店)",
+      "address": "江南大道228号星光国际广场",
+      "distance": "28m"
+    },
+    {
+      "brand": "一席地·本地鸡窝(星光大道)",
+      "address": "长河街道星光国际广场(3-203)号",
+      "distance": "28m"
+    },
+    {
+      "brand": "糖可滋·冰糖葫芦·炒酸奶(星光大道店)(暂停营业)",
+      "address": "星光大道国际广场2幢步行街中间小圆亭玻璃房",
+      "distance": "29m"
+    },
+    {
+      "brand": "肯悦咖啡杭州星光店",
+      "address": "江南大道228号星光大道商业街1楼",
+      "distance": "31m"
+    },
+    {
+      "brand": "吾沫(星光国际广场店)",
+      "address": "江南大道228号星光国际广场F1层",
+      "distance": "38m"
+    },
+    {
+      "brand": "Manner Coffee",
+      "address": "长河街道江南大道228号星光国际广场1幢117室",
+      "distance": "42m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "杭州星光百货",
+      "open_date": "2016-03-27",
+      "area": "9.3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "杭州星光大道二期",
+      "open_date": "2007",
+      "area": "7万㎡",
+      "jun_daily_avg": "2.1万人次",
+      "weekday_avg": "1.9万人次",
+      "holiday_avg": "2.7万人次"
+    },
+    {
+      "name": "杭州星耀城乐宜城生活广场",
+      "open_date": "2017-03-18",
+      "area": "2万㎡",
+      "jun_daily_avg": "2.2万人次",
+      "weekday_avg": "2.3万人次",
+      "holiday_avg": "2万人次"
+    },
+    {
+      "name": "龙湖杭州滨江天街",
+      "open_date": "2017-09-23",
+      "area": "18万㎡",
+      "jun_daily_avg": "7.2万人次",
+      "weekday_avg": "6.4万人次",
+      "holiday_avg": "9.5万人次"
+    },
+    {
+      "name": "杭州中蠃国际生活广场",
+      "open_date": "2016-12-24",
+      "area": "4万㎡",
+      "jun_daily_avg": "1.8万人次",
+      "weekday_avg": "1.7万人次",
+      "holiday_avg": "2.2万人次"
+    },
+    {
+      "name": "杭州银泰百货滨江店",
+      "open_date": "2022-09-01",
+      "area": "13万㎡",
+      "jun_daily_avg": "7.1万人次",
+      "weekday_avg": "6.7万人次",
+      "holiday_avg": "8.3万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 77.0,
+      "within_1yr_pct": 13.0,
+      "1_3yr_pct": 32.5,
+      "over_3yr_pct": 54.5
+    },
+    {
+      "type": "购物",
+      "count": 33.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 18.2,
+      "over_3yr_pct": 48.5
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 9.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 33.3
+    },
+    {
+      "type": "教育培训",
+      "count": 8.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 12.5,
+      "over_3yr_pct": 37.5
+    },
+    {
+      "type": "酒店住宿",
+      "count": 15.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 6.7,
+      "over_3yr_pct": 73.3
+    },
+    {
+      "type": "生活服务",
+      "count": 59.0,
+      "within_1yr_pct": 32.2,
+      "1_3yr_pct": 27.1,
+      "over_3yr_pct": 40.7
+    },
+    {
+      "type": "运动健身",
+      "count": 8.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 75.0,
+      "over_3yr_pct": 25.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
+    }
+  ]
+}

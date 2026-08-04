@@ -1,0 +1,414 @@
+{
+  "name": "首开龙湖北京熙悦天街",
+  "city": "北京市",
+  "address": "北京市房山区长于大街28号院",
+  "lat": 39.733635,
+  "lng": 116.185183,
+  "overview": {
+    "score": 95.6,
+    "score_rank": "市内前30%",
+    "population_score": 83.6,
+    "area_score": 82.1,
+    "consumption_score": 66.7,
+    "industry_score": 95.7,
+    "annual_sales": "10.1",
+    "annual_sales_unit": "亿元",
+    "area_size_sqm": 10.5,
+    "open_date": "2021-09-19",
+    "operator": "龙湖集团控股有限公司",
+    "brand": "龙湖",
+    "type": "美食型",
+    "floors": "B1-L6"
+  },
+  "traffic": {
+    "annual_daily": 4.25,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第29",
+    "jun_total": 175.1,
+    "jun_total_rank": "市内商场第32名",
+    "jun_daily_avg": 5.8,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第32名",
+    "weekday_avg": 5.2,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第35名",
+    "holiday_avg": 7.6,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第30名"
+  },
+  "population": {
+    "residential": {
+      "500m": 1.6,
+      "1_5km": 7.2,
+      "3km": 24.2
+    },
+    "office": {
+      "500m": 1.2,
+      "1_5km": 4.0,
+      "3km": 8.8
+    },
+    "permanent": {
+      "500m": 2.0,
+      "1_5km": 6.4,
+      "3km": 20.1
+    }
+  },
+  "business": {
+    "competitors": 5.0,
+    "food": 189.0,
+    "shopping": 156.0,
+    "leisure": 26.0,
+    "education": 38.0,
+    "hotel": 15.0,
+    "services": 144.0,
+    "fitness": 20.0,
+    "auto": 19.0,
+    "total_stores": 298.0,
+    "old_store_3yr_pct": 49.0
+  },
+  "nearby_poi": {
+    "business": 1.0,
+    "community": 101.0,
+    "office": 11.0,
+    "school": 14.0,
+    "hospital": 26.0,
+    "transport": 10.0,
+    "scenic": 72.0
+  },
+  "demographics": {
+    "male_pct": 45.7,
+    "female_pct": null,
+    "education": {
+      "小学": 6.9,
+      "初中": 17.0,
+      "高中": 19.7,
+      "大专": 6.7,
+      "本科": 43.6,
+      "硕士": 4.8,
+      "博士": 1.3
+    },
+    "has_children_pct": 58.2,
+    "no_children_pct": 41.8
+  },
+  "scraped_at": "2026-08-01T04:38:15.234Z",
+  "nearby_restaurants": [
+    {
+      "brand": "北往西·西安油泼面(熙悦天街店)",
+      "address": "长阳镇长于大街28号院熙悦天街A馆B1-12",
+      "distance": "10m"
+    },
+    {
+      "brand": "醉人椒麻辣香锅(熙悦天街店)",
+      "address": "北京城区长于大街28号院101幢-负1层-101-43",
+      "distance": "10m"
+    },
+    {
+      "brand": "吉祥家的大铁锅·铁锅炖(房山熙悦天街店)",
+      "address": "长于大街28号院北京房山熙悦天街4F层",
+      "distance": "11m"
+    },
+    {
+      "brand": "青年公社(熙悦天街店)",
+      "address": "长于大街28号院2号楼B馆4F14-15",
+      "distance": "11m"
+    },
+    {
+      "brand": "脸红秦田田(房山熙悦天街店)",
+      "address": "熙悦天街b座5楼",
+      "distance": "12m"
+    },
+    {
+      "brand": "江边城外烤全鱼(北京房山熙悦天街店)",
+      "address": "长阳镇长于大街28号院北京房山熙悦天街5F层B-5F-14",
+      "distance": "16m"
+    },
+    {
+      "brand": "荔银肠粉(房山熙悦天街店)",
+      "address": "长阳镇长于大街28号院首开龙湖熙悦天街B馆4层-16号",
+      "distance": "19m"
+    },
+    {
+      "brand": "小楠湘(北京房山熙悦天街店)",
+      "address": "北京城区长阳镇长于大街28号院北京房山熙悦天街5F层B-5F-16",
+      "distance": "20m"
+    },
+    {
+      "brand": "爆脾气生炸鸡架(熙悦天街店)",
+      "address": "北京城区长于大街28号院",
+      "distance": "21m"
+    },
+    {
+      "brand": "欢囍花生(北京熙悦天街店)",
+      "address": "北京城区长于大街28号院100幢-1层",
+      "distance": "24m"
+    },
+    {
+      "brand": "北往西·西安油泼面(熙悦天街店)",
+      "address": "长阳镇长于大街28号院熙悦天街A馆B1-12",
+      "distance": "10m"
+    },
+    {
+      "brand": "醉人椒麻辣香锅(熙悦天街店)",
+      "address": "北京城区长于大街28号院101幢-负1层-101-43",
+      "distance": "10m"
+    },
+    {
+      "brand": "吉祥家的大铁锅·铁锅炖(房山熙悦天街店)",
+      "address": "长于大街28号院北京房山熙悦天街4F层",
+      "distance": "11m"
+    },
+    {
+      "brand": "青年公社(熙悦天街店)",
+      "address": "长于大街28号院2号楼B馆4F14-15",
+      "distance": "11m"
+    },
+    {
+      "brand": "脸红秦田田(房山熙悦天街店)",
+      "address": "熙悦天街b座5楼",
+      "distance": "12m"
+    },
+    {
+      "brand": "江边城外烤全鱼(北京房山熙悦天街店)",
+      "address": "长阳镇长于大街28号院北京房山熙悦天街5F层B-5F-14",
+      "distance": "16m"
+    },
+    {
+      "brand": "荔银肠粉(房山熙悦天街店)",
+      "address": "长阳镇长于大街28号院首开龙湖熙悦天街B馆4层-16号",
+      "distance": "19m"
+    },
+    {
+      "brand": "小楠湘(北京房山熙悦天街店)",
+      "address": "北京城区长阳镇长于大街28号院北京房山熙悦天街5F层B-5F-16",
+      "distance": "20m"
+    },
+    {
+      "brand": "爆脾气生炸鸡架(熙悦天街店)",
+      "address": "北京城区长于大街28号院",
+      "distance": "21m"
+    },
+    {
+      "brand": "欢囍花生(北京熙悦天街店)",
+      "address": "北京城区长于大街28号院100幢-1层",
+      "distance": "24m"
+    },
+    {
+      "brand": "北往西·西安油泼面(熙悦天街店)",
+      "address": "长阳镇长于大街28号院熙悦天街A馆B1-12",
+      "distance": "10m"
+    },
+    {
+      "brand": "醉人椒麻辣香锅(熙悦天街店)",
+      "address": "北京城区长于大街28号院101幢-负1层-101-43",
+      "distance": "10m"
+    },
+    {
+      "brand": "吉祥家的大铁锅·铁锅炖(房山熙悦天街店)",
+      "address": "长于大街28号院北京房山熙悦天街4F层",
+      "distance": "11m"
+    },
+    {
+      "brand": "青年公社(熙悦天街店)",
+      "address": "长于大街28号院2号楼B馆4F14-15",
+      "distance": "11m"
+    },
+    {
+      "brand": "脸红秦田田(房山熙悦天街店)",
+      "address": "熙悦天街b座5楼",
+      "distance": "12m"
+    },
+    {
+      "brand": "江边城外烤全鱼(北京房山熙悦天街店)",
+      "address": "长阳镇长于大街28号院北京房山熙悦天街5F层B-5F-14",
+      "distance": "16m"
+    },
+    {
+      "brand": "荔银肠粉(房山熙悦天街店)",
+      "address": "长阳镇长于大街28号院首开龙湖熙悦天街B馆4层-16号",
+      "distance": "19m"
+    },
+    {
+      "brand": "小楠湘(北京房山熙悦天街店)",
+      "address": "北京城区长阳镇长于大街28号院北京房山熙悦天街5F层B-5F-16",
+      "distance": "20m"
+    },
+    {
+      "brand": "爆脾气生炸鸡架(熙悦天街店)",
+      "address": "北京城区长于大街28号院",
+      "distance": "21m"
+    },
+    {
+      "brand": "欢囍花生(北京熙悦天街店)",
+      "address": "北京城区长于大街28号院100幢-1层",
+      "distance": "24m"
+    },
+    {
+      "brand": "北往西·西安油泼面(熙悦天街店)",
+      "address": "长阳镇长于大街28号院熙悦天街A馆B1-12",
+      "distance": "10m"
+    },
+    {
+      "brand": "醉人椒麻辣香锅(熙悦天街店)",
+      "address": "北京城区长于大街28号院101幢-负1层-101-43",
+      "distance": "10m"
+    },
+    {
+      "brand": "吉祥家的大铁锅·铁锅炖(房山熙悦天街店)",
+      "address": "长于大街28号院北京房山熙悦天街4F层",
+      "distance": "11m"
+    },
+    {
+      "brand": "青年公社(熙悦天街店)",
+      "address": "长于大街28号院2号楼B馆4F14-15",
+      "distance": "11m"
+    },
+    {
+      "brand": "脸红秦田田(房山熙悦天街店)",
+      "address": "熙悦天街b座5楼",
+      "distance": "12m"
+    },
+    {
+      "brand": "江边城外烤全鱼(北京房山熙悦天街店)",
+      "address": "长阳镇长于大街28号院北京房山熙悦天街5F层B-5F-14",
+      "distance": "16m"
+    },
+    {
+      "brand": "荔银肠粉(房山熙悦天街店)",
+      "address": "长阳镇长于大街28号院首开龙湖熙悦天街B馆4层-16号",
+      "distance": "19m"
+    },
+    {
+      "brand": "小楠湘(北京房山熙悦天街店)",
+      "address": "北京城区长阳镇长于大街28号院北京房山熙悦天街5F层B-5F-16",
+      "distance": "20m"
+    },
+    {
+      "brand": "爆脾气生炸鸡架(熙悦天街店)",
+      "address": "北京城区长于大街28号院",
+      "distance": "21m"
+    },
+    {
+      "brand": "欢囍花生(北京熙悦天街店)",
+      "address": "北京城区长于大街28号院100幢-1层",
+      "distance": "24m"
+    },
+    {
+      "brand": "北往西·西安油泼面(熙悦天街店)",
+      "address": "长阳镇长于大街28号院熙悦天街A馆B1-12",
+      "distance": "10m"
+    },
+    {
+      "brand": "醉人椒麻辣香锅(熙悦天街店)",
+      "address": "北京城区长于大街28号院101幢-负1层-101-43",
+      "distance": "10m"
+    },
+    {
+      "brand": "吉祥家的大铁锅·铁锅炖(房山熙悦天街店)",
+      "address": "长于大街28号院北京房山熙悦天街4F层",
+      "distance": "11m"
+    },
+    {
+      "brand": "青年公社(熙悦天街店)",
+      "address": "长于大街28号院2号楼B馆4F14-15",
+      "distance": "11m"
+    },
+    {
+      "brand": "脸红秦田田(房山熙悦天街店)",
+      "address": "熙悦天街b座5楼",
+      "distance": "12m"
+    },
+    {
+      "brand": "江边城外烤全鱼(北京房山熙悦天街店)",
+      "address": "长阳镇长于大街28号院北京房山熙悦天街5F层B-5F-14",
+      "distance": "16m"
+    },
+    {
+      "brand": "荔银肠粉(房山熙悦天街店)",
+      "address": "长阳镇长于大街28号院首开龙湖熙悦天街B馆4层-16号",
+      "distance": "19m"
+    },
+    {
+      "brand": "小楠湘(北京房山熙悦天街店)",
+      "address": "北京城区长阳镇长于大街28号院北京房山熙悦天街5F层B-5F-16",
+      "distance": "20m"
+    },
+    {
+      "brand": "爆脾气生炸鸡架(熙悦天街店)",
+      "address": "北京城区长于大街28号院",
+      "distance": "21m"
+    },
+    {
+      "brand": "欢囍花生(北京熙悦天街店)",
+      "address": "北京城区长于大街28号院100幢-1层",
+      "distance": "24m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "北京时代广场",
+      "open_date": "2000-01-01",
+      "area": "4.9万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 123.0,
+      "within_1yr_pct": 19.5,
+      "1_3yr_pct": 36.6,
+      "over_3yr_pct": 43.9
+    },
+    {
+      "type": "购物",
+      "count": 103.0,
+      "within_1yr_pct": 17.5,
+      "1_3yr_pct": 25.2,
+      "over_3yr_pct": 57.3
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 11.0,
+      "within_1yr_pct": 27.3,
+      "1_3yr_pct": 27.3,
+      "over_3yr_pct": 45.5
+    },
+    {
+      "type": "教育培训",
+      "count": 16.0,
+      "within_1yr_pct": 12.5,
+      "1_3yr_pct": 37.5,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 2.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "生活服务",
+      "count": 25.0,
+      "within_1yr_pct": 24.0,
+      "1_3yr_pct": 28.0,
+      "over_3yr_pct": 48.0
+    },
+    {
+      "type": "运动健身",
+      "count": 8.0,
+      "within_1yr_pct": 12.5,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 37.5
+    },
+    {
+      "type": "车辆服务",
+      "count": 10.0,
+      "within_1yr_pct": 30.0,
+      "1_3yr_pct": 10.0,
+      "over_3yr_pct": 60.0
+    }
+  ]
+}

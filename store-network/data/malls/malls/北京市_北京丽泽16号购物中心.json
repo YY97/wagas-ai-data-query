@@ -1,0 +1,471 @@
+{
+  "name": "北京丽泽16号购物中心",
+  "city": "北京市",
+  "address": "北京市丰台区太平桥街道西三环南路22号",
+  "lat": 39.871518,
+  "lng": 116.309838,
+  "overview": {
+    "score": 82.9,
+    "score_rank": "市内前30%",
+    "population_score": 88.8,
+    "area_score": 75.1,
+    "consumption_score": 80.4,
+    "industry_score": 83.0,
+    "annual_sales": "北京丽泽16号商业综合体位于丽泽金融商务区西北角，依托1万平方米绿地，打造公园型美育潮流交互商业。综合体以“社交、时尚、动感、美学、极限”为核心，打造城市年轻活力社交悦动场，集聚运动、娱乐、餐饮、美育、潮玩五大业态的创新型生活城市综合体，为周边居民提供健康、活力、潮流的生活空间",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 5.5,
+    "open_date": "2024-06-29",
+    "operator": "北京精图科工贸集团",
+    "brand": "",
+    "type": "综合型",
+    "floors": "B2-L5"
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "-",
+    "annual_daily_rank": "",
+    "jun_total": 17.7,
+    "jun_total_rank": "市内商场第290名",
+    "jun_daily_avg": 5906.0,
+    "jun_daily_unit": "人次",
+    "jun_daily_rank": "市内商场第290名",
+    "weekday_avg": 5733.0,
+    "weekday_unit": "人次",
+    "weekday_rank": "市内商场第290名",
+    "holiday_avg": 6386.0,
+    "holiday_unit": "人次",
+    "holiday_rank": "市内商场第289名"
+  },
+  "population": {
+    "residential": {
+      "500m": 2.1,
+      "1_5km": 17.6,
+      "3km": 76.1
+    },
+    "office": {
+      "500m": 1.0,
+      "1_5km": 9.8,
+      "3km": 40.7
+    },
+    "permanent": {
+      "500m": 2.0,
+      "1_5km": 17.9,
+      "3km": 81.0
+    }
+  },
+  "business": {
+    "competitors": 3.0,
+    "food": 96.0,
+    "shopping": 81.0,
+    "leisure": 13.0,
+    "education": 16.0,
+    "hotel": 12.0,
+    "services": 75.0,
+    "fitness": 25.0,
+    "auto": 26.0,
+    "total_stores": 53.0,
+    "old_store_3yr_pct": 13.0
+  },
+  "nearby_poi": {
+    "business": 9.0,
+    "community": 359.0,
+    "office": 45.0,
+    "school": 23.0,
+    "hospital": 58.0,
+    "transport": 7.0,
+    "scenic": 105.0
+  },
+  "demographics": {
+    "male_pct": 46.3,
+    "female_pct": null,
+    "education": {
+      "小学": 9.2,
+      "初中": 15.8,
+      "高中": 11.2,
+      "大专": 6.5,
+      "本科": 47.8,
+      "硕士": 7.6,
+      "博士": 1.9
+    },
+    "has_children_pct": 60.7,
+    "no_children_pct": 39.3
+  },
+  "scraped_at": "2026-07-31T18:23:28.607Z",
+  "nearby_restaurants": [
+    {
+      "brand": "佳木斯烧烤·绝无预制菜·熊猫说(丽泽16号购物中心店)",
+      "address": "西三环南路16号丽泽16号F1层",
+      "distance": "59m"
+    },
+    {
+      "brand": "同仁堂知嘛健康(丽泽16号店)",
+      "address": "北京城区西三环南路16号丽泽16号F1层",
+      "distance": "59m"
+    },
+    {
+      "brand": "旺付姐重庆山野火锅",
+      "address": "西三环南路丽泽16号1F-8",
+      "distance": "64m"
+    },
+    {
+      "brand": "夸父炸串(丽泽16号店)",
+      "address": "西三环南路16号丽泽16号F1层",
+      "distance": "67m"
+    },
+    {
+      "brand": "阿凡提小镇全羊自助",
+      "address": "北京城区西三环南路16号丽泽16号购物中心",
+      "distance": "72m"
+    },
+    {
+      "brand": "陕味居(六里桥店)",
+      "address": "丽源路与西三环南路辅路交叉口东60米",
+      "distance": "108m"
+    },
+    {
+      "brand": "柳州螺蛳郎骨汤螺蛳粉(丽泽16号店)",
+      "address": "西三环南路16号丽泽16号负一层",
+      "distance": "122m"
+    },
+    {
+      "brand": "CHAGEE霸王茶姬(北京丽泽购物中心店)",
+      "address": "西三环南路16号丽泽16号1F-6",
+      "distance": "151m"
+    },
+    {
+      "brand": "瑞幸咖啡(丽泽16号店)",
+      "address": "北京城区西三环南路16号院1号楼一层1F-23B",
+      "distance": "152m"
+    },
+    {
+      "brand": "悦己时光",
+      "address": "西局东街与西三环南路辅路交叉口东100米",
+      "distance": "153m"
+    },
+    {
+      "brand": "佳木斯烧烤·绝无预制菜·熊猫说(丽泽16号购物中心店)",
+      "address": "西三环南路16号丽泽16号F1层",
+      "distance": "59m"
+    },
+    {
+      "brand": "同仁堂知嘛健康(丽泽16号店)",
+      "address": "北京城区西三环南路16号丽泽16号F1层",
+      "distance": "59m"
+    },
+    {
+      "brand": "旺付姐重庆山野火锅",
+      "address": "西三环南路丽泽16号1F-8",
+      "distance": "64m"
+    },
+    {
+      "brand": "夸父炸串(丽泽16号店)",
+      "address": "西三环南路16号丽泽16号F1层",
+      "distance": "67m"
+    },
+    {
+      "brand": "阿凡提小镇全羊自助",
+      "address": "北京城区西三环南路16号丽泽16号购物中心",
+      "distance": "72m"
+    },
+    {
+      "brand": "陕味居(六里桥店)",
+      "address": "丽源路与西三环南路辅路交叉口东60米",
+      "distance": "108m"
+    },
+    {
+      "brand": "柳州螺蛳郎骨汤螺蛳粉(丽泽16号店)",
+      "address": "西三环南路16号丽泽16号负一层",
+      "distance": "122m"
+    },
+    {
+      "brand": "CHAGEE霸王茶姬(北京丽泽购物中心店)",
+      "address": "西三环南路16号丽泽16号1F-6",
+      "distance": "151m"
+    },
+    {
+      "brand": "瑞幸咖啡(丽泽16号店)",
+      "address": "北京城区西三环南路16号院1号楼一层1F-23B",
+      "distance": "152m"
+    },
+    {
+      "brand": "悦己时光",
+      "address": "西局东街与西三环南路辅路交叉口东100米",
+      "distance": "153m"
+    },
+    {
+      "brand": "佳木斯烧烤·绝无预制菜·熊猫说(丽泽16号购物中心店)",
+      "address": "西三环南路16号丽泽16号F1层",
+      "distance": "59m"
+    },
+    {
+      "brand": "同仁堂知嘛健康(丽泽16号店)",
+      "address": "北京城区西三环南路16号丽泽16号F1层",
+      "distance": "59m"
+    },
+    {
+      "brand": "旺付姐重庆山野火锅",
+      "address": "西三环南路丽泽16号1F-8",
+      "distance": "64m"
+    },
+    {
+      "brand": "夸父炸串(丽泽16号店)",
+      "address": "西三环南路16号丽泽16号F1层",
+      "distance": "67m"
+    },
+    {
+      "brand": "阿凡提小镇全羊自助",
+      "address": "北京城区西三环南路16号丽泽16号购物中心",
+      "distance": "72m"
+    },
+    {
+      "brand": "陕味居(六里桥店)",
+      "address": "丽源路与西三环南路辅路交叉口东60米",
+      "distance": "108m"
+    },
+    {
+      "brand": "柳州螺蛳郎骨汤螺蛳粉(丽泽16号店)",
+      "address": "西三环南路16号丽泽16号负一层",
+      "distance": "122m"
+    },
+    {
+      "brand": "CHAGEE霸王茶姬(北京丽泽购物中心店)",
+      "address": "西三环南路16号丽泽16号1F-6",
+      "distance": "151m"
+    },
+    {
+      "brand": "瑞幸咖啡(丽泽16号店)",
+      "address": "北京城区西三环南路16号院1号楼一层1F-23B",
+      "distance": "152m"
+    },
+    {
+      "brand": "悦己时光",
+      "address": "西局东街与西三环南路辅路交叉口东100米",
+      "distance": "153m"
+    },
+    {
+      "brand": "佳木斯烧烤·绝无预制菜·熊猫说(丽泽16号购物中心店)",
+      "address": "西三环南路16号丽泽16号F1层",
+      "distance": "59m"
+    },
+    {
+      "brand": "同仁堂知嘛健康(丽泽16号店)",
+      "address": "北京城区西三环南路16号丽泽16号F1层",
+      "distance": "59m"
+    },
+    {
+      "brand": "旺付姐重庆山野火锅",
+      "address": "西三环南路丽泽16号1F-8",
+      "distance": "64m"
+    },
+    {
+      "brand": "夸父炸串(丽泽16号店)",
+      "address": "西三环南路16号丽泽16号F1层",
+      "distance": "67m"
+    },
+    {
+      "brand": "阿凡提小镇全羊自助",
+      "address": "北京城区西三环南路16号丽泽16号购物中心",
+      "distance": "72m"
+    },
+    {
+      "brand": "陕味居(六里桥店)",
+      "address": "丽源路与西三环南路辅路交叉口东60米",
+      "distance": "108m"
+    },
+    {
+      "brand": "柳州螺蛳郎骨汤螺蛳粉(丽泽16号店)",
+      "address": "西三环南路16号丽泽16号负一层",
+      "distance": "122m"
+    },
+    {
+      "brand": "CHAGEE霸王茶姬(北京丽泽购物中心店)",
+      "address": "西三环南路16号丽泽16号1F-6",
+      "distance": "151m"
+    },
+    {
+      "brand": "瑞幸咖啡(丽泽16号店)",
+      "address": "北京城区西三环南路16号院1号楼一层1F-23B",
+      "distance": "152m"
+    },
+    {
+      "brand": "悦己时光",
+      "address": "西局东街与西三环南路辅路交叉口东100米",
+      "distance": "153m"
+    },
+    {
+      "brand": "佳木斯烧烤·绝无预制菜·熊猫说(丽泽16号购物中心店)",
+      "address": "西三环南路16号丽泽16号F1层",
+      "distance": "59m"
+    },
+    {
+      "brand": "同仁堂知嘛健康(丽泽16号店)",
+      "address": "北京城区西三环南路16号丽泽16号F1层",
+      "distance": "59m"
+    },
+    {
+      "brand": "旺付姐重庆山野火锅",
+      "address": "西三环南路丽泽16号1F-8",
+      "distance": "64m"
+    },
+    {
+      "brand": "夸父炸串(丽泽16号店)",
+      "address": "西三环南路16号丽泽16号F1层",
+      "distance": "67m"
+    },
+    {
+      "brand": "阿凡提小镇全羊自助",
+      "address": "北京城区西三环南路16号丽泽16号购物中心",
+      "distance": "72m"
+    },
+    {
+      "brand": "陕味居(六里桥店)",
+      "address": "丽源路与西三环南路辅路交叉口东60米",
+      "distance": "108m"
+    },
+    {
+      "brand": "柳州螺蛳郎骨汤螺蛳粉(丽泽16号店)",
+      "address": "西三环南路16号丽泽16号负一层",
+      "distance": "122m"
+    },
+    {
+      "brand": "CHAGEE霸王茶姬(北京丽泽购物中心店)",
+      "address": "西三环南路16号丽泽16号1F-6",
+      "distance": "151m"
+    },
+    {
+      "brand": "瑞幸咖啡(丽泽16号店)",
+      "address": "北京城区西三环南路16号院1号楼一层1F-23B",
+      "distance": "152m"
+    },
+    {
+      "brand": "悦己时光",
+      "address": "西局东街与西三环南路辅路交叉口东100米",
+      "distance": "153m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "北京月恒正大新生活广场",
+      "open_date": "2018-07-01",
+      "area": "3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "北京米兰life",
+      "open_date": "2018-05-01",
+      "area": "2.4万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "北京丽泽天地商业中心",
+      "open_date": "2022-09-30",
+      "area": "8.2万㎡",
+      "jun_daily_avg": "2.9万人次",
+      "weekday_avg": "2.5万人次",
+      "holiday_avg": "3.8万人次"
+    },
+    {
+      "name": "北京新年华购物中心",
+      "open_date": "2012-01-01",
+      "area": "4万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "北京金唐新光界",
+      "open_date": "2021-10-01",
+      "area": "10万㎡",
+      "jun_daily_avg": "3万人次",
+      "weekday_avg": "2.9万人次",
+      "holiday_avg": "3.1万人次"
+    },
+    {
+      "name": "北京平安幸福汇",
+      "open_date": "2021-12-01",
+      "area": "1.5万㎡",
+      "jun_daily_avg": "2.1万人次",
+      "weekday_avg": "2万人次",
+      "holiday_avg": "2.4万人次"
+    },
+    {
+      "name": "鸿兴广场",
+      "open_date": "-",
+      "area": "-",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "北京亿潼隆万丰购物中心",
+      "open_date": "2010-12-25",
+      "area": "3.7万㎡",
+      "jun_daily_avg": "2.1万人次",
+      "weekday_avg": "2万人次",
+      "holiday_avg": "2.4万人次"
+    },
+    {
+      "name": "北京银座和谐广场",
+      "open_date": "2016-09-10",
+      "area": "8.5万㎡",
+      "jun_daily_avg": "5.1万人次",
+      "weekday_avg": "4.5万人次",
+      "holiday_avg": "6.7万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 17.0,
+      "within_1yr_pct": 17.6,
+      "1_3yr_pct": 70.6,
+      "over_3yr_pct": 11.8
+    },
+    {
+      "type": "购物",
+      "count": 9.0,
+      "within_1yr_pct": 11.1,
+      "1_3yr_pct": 88.9,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "教育培训",
+      "count": 3.0,
+      "within_1yr_pct": 66.7,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 33.3
+    },
+    {
+      "type": "生活服务",
+      "count": 14.0,
+      "within_1yr_pct": 21.4,
+      "1_3yr_pct": 64.3,
+      "over_3yr_pct": 14.3
+    },
+    {
+      "type": "运动健身",
+      "count": 3.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 5.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 60.0,
+      "over_3yr_pct": 40.0
+    }
+  ]
+}

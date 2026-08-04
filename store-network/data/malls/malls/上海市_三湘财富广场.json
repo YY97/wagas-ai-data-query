@@ -1,0 +1,248 @@
+{
+  "name": "三湘财富广场",
+  "city": "上海市",
+  "address": "上海市闵行区虹桥镇先锋街66号阿拉城",
+  "lat": 31.177126,
+  "lng": 121.373745,
+  "overview": {
+    "score": 88.7,
+    "score_rank": "市内前30%",
+    "population_score": 85.9,
+    "area_score": 90.8,
+    "consumption_score": 78.5,
+    "industry_score": 88.8,
+    "annual_sales": "",
+    "annual_sales_unit": "",
+    "area_size_sqm": null,
+    "open_date": "",
+    "operator": "",
+    "brand": "",
+    "type": "",
+    "floors": ""
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "",
+    "annual_daily_rank": "",
+    "jun_total": 12.1,
+    "jun_total_rank": "市内商场第463名",
+    "jun_daily_avg": 4029.0,
+    "jun_daily_unit": "人次",
+    "jun_daily_rank": "市内商场第463名",
+    "weekday_avg": 3873.0,
+    "weekday_unit": "人次",
+    "weekday_rank": "市内商场第462名",
+    "holiday_avg": 4459.0,
+    "holiday_unit": "人次",
+    "holiday_rank": "市内商场第458名"
+  },
+  "population": {
+    "residential": {
+      "500m": 35.0,
+      "1_5km": null,
+      "3km": null
+    },
+    "office": {
+      "500m": 35.0,
+      "1_5km": null,
+      "3km": null
+    },
+    "permanent": {
+      "500m": 1.0,
+      "1_5km": null,
+      "3km": null
+    }
+  },
+  "business": {
+    "competitors": null,
+    "food": null,
+    "shopping": null,
+    "leisure": null,
+    "education": null,
+    "hotel": null,
+    "services": null,
+    "fitness": null,
+    "auto": null,
+    "total_stores": 66.0,
+    "old_store_3yr_pct": 58.0
+  },
+  "nearby_poi": {
+    "business": null,
+    "community": null,
+    "office": null,
+    "school": null,
+    "hospital": null,
+    "transport": null,
+    "scenic": null
+  },
+  "demographics": {
+    "male_pct": null,
+    "female_pct": null,
+    "education": {
+      "小学": null,
+      "初中": null,
+      "高中": null,
+      "大专": null,
+      "本科": null,
+      "硕士": null,
+      "博士": null
+    },
+    "has_children_pct": null,
+    "no_children_pct": null
+  },
+  "scraped_at": "2026-08-01T08:49:11.535Z",
+  "nearby_restaurants": [
+    {
+      "brand": "山下衢味(吴中路店)",
+      "address": "虹桥镇吴中路1339号",
+      "distance": "486m"
+    },
+    {
+      "brand": "德克士(龙柏店)",
+      "address": "吴中路1686号B栋B1层",
+      "distance": "488m"
+    },
+    {
+      "brand": "福田花雨茶舍",
+      "address": "金汇路528号虹桥花卉古玩城010-011",
+      "distance": "490m"
+    },
+    {
+      "brand": "林家茶邸上海旗舰店",
+      "address": "金汇路528号(虹桥古玩城一楼075号)",
+      "distance": "491m"
+    },
+    {
+      "brand": "王老六铁锅炖鱼(吴中路店)",
+      "address": "吴中路1339号首乌丽亚商务楼F1层",
+      "distance": "493m"
+    },
+    {
+      "brand": "采茶铺",
+      "address": "虹桥古玩城六楼006A(观光电梯对面)",
+      "distance": "494m"
+    },
+    {
+      "brand": "福建千里香馄饨王(青杉路)",
+      "address": "虹桥镇龙柏五村10-2号底层",
+      "distance": "498m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海金石广场",
+      "open_date": "2023-01-01",
+      "area": "5.3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海乐坊·虹井生活广场",
+      "open_date": "2010-07-01",
+      "area": "2.4万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海爱琴海购物公园",
+      "open_date": "2017-12-16",
+      "area": "24万㎡",
+      "jun_daily_avg": "6万人次",
+      "weekday_avg": "5.6万人次",
+      "holiday_avg": "7.1万人次"
+    },
+    {
+      "name": "上海金汇四季广场",
+      "open_date": "2012-05-01",
+      "area": "3.3万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海井亭天地生活广场",
+      "open_date": "2010-10-10",
+      "area": "2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海万象城",
+      "open_date": "2017-09-23",
+      "area": "24万㎡",
+      "jun_daily_avg": "6.8万人次",
+      "weekday_avg": "6万人次",
+      "holiday_avg": "8.8万人次"
+    },
+    {
+      "name": "风度国际生活广场",
+      "open_date": "-",
+      "area": "-",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "虹霞商城",
+      "open_date": "-",
+      "area": "-",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 35.0,
+      "within_1yr_pct": 17.1,
+      "1_3yr_pct": 17.1,
+      "over_3yr_pct": 65.7
+    },
+    {
+      "type": "购物",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 13.0,
+      "within_1yr_pct": 15.4,
+      "1_3yr_pct": 30.8,
+      "over_3yr_pct": 53.8
+    },
+    {
+      "type": "教育培训",
+      "count": 10.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "生活服务",
+      "count": 4.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 25.0
+    },
+    {
+      "type": "运动健身",
+      "count": 2.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    }
+  ]
+}

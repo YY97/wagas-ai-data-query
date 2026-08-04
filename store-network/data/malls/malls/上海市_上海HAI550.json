@@ -1,0 +1,465 @@
+{
+  "name": "上海HAI550",
+  "city": "上海市",
+  "address": "上海市黄浦区淮海中路550号(淮海中路地铁站1号口步行380米)",
+  "lat": 31.219395,
+  "lng": 121.464801,
+  "overview": {
+    "score": null,
+    "score_rank": "",
+    "population_score": 84.0,
+    "area_score": 85.2,
+    "consumption_score": 90.1,
+    "industry_score": 68.6,
+    "annual_sales": "HAI550位于上海市淮海中路550号，是雅戈尔集团与天目里联合打造的国内首个可持续生活方式主题商业综合体。共8层，涵盖零售、展览、画廊、餐饮、手工坊、买手店及永续实验室等多元业态。商场以“自然而然”为设计理念，强调可持续生活理念，使用大量循环再生材料进行改造。",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 7200.0,
+    "open_date": "2024-08-03",
+    "operator": "慧展科技（杭州）有限公司",
+    "brand": "",
+    "type": "综合型",
+    "floors": "L1-L6"
+  },
+  "traffic": {
+    "annual_daily": null,
+    "annual_daily_unit": "-",
+    "annual_daily_rank": "",
+    "jun_total": 138.4,
+    "jun_total_rank": "市内商场第73名",
+    "jun_daily_avg": 4.6,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第73名",
+    "weekday_avg": 3.9,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第86名",
+    "holiday_avg": 6.5,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第60名"
+  },
+  "population": {
+    "residential": {
+      "500m": 1.9,
+      "1_5km": 18.0,
+      "3km": 97.6
+    },
+    "office": {
+      "500m": 2.1,
+      "1_5km": 30.8,
+      "3km": 111.9
+    },
+    "permanent": {
+      "500m": 2.2,
+      "1_5km": 24.8,
+      "3km": 118.0
+    }
+  },
+  "business": {
+    "competitors": 6.0,
+    "food": 234.0,
+    "shopping": 293.0,
+    "leisure": 26.0,
+    "education": 8.0,
+    "hotel": 100.0,
+    "services": 133.0,
+    "fitness": 10.0,
+    "auto": 7.0,
+    "total_stores": 24.0,
+    "old_store_3yr_pct": 0.0
+  },
+  "nearby_poi": {
+    "business": 38.0,
+    "community": 1243.0,
+    "office": 180.0,
+    "school": 66.0,
+    "hospital": 234.0,
+    "transport": 22.0,
+    "scenic": 979.0
+  },
+  "demographics": {
+    "male_pct": null,
+    "female_pct": null,
+    "education": {
+      "小学": 10.1,
+      "初中": 18.1,
+      "高中": 11.4,
+      "大专": 7.4,
+      "本科": 46.0,
+      "硕士": 5.4,
+      "博士": 1.6
+    },
+    "has_children_pct": 57.7,
+    "no_children_pct": 42.3
+  },
+  "scraped_at": "2026-07-31T14:58:30.944Z",
+  "nearby_restaurants": [
+    {
+      "brand": "DD流心巴斯克(淮海中路店)",
+      "address": "淮海中路550号(淮海中路地铁站1号口步行440米)",
+      "distance": "2m"
+    },
+    {
+      "brand": "Matcha Wang(HAI550店)",
+      "address": "淮海中路550号HAI550商场L1层2号",
+      "distance": "16m"
+    },
+    {
+      "brand": "UNDEFEATED CAFE(HAI550店)",
+      "address": "淮海中路550号HAI550",
+      "distance": "17m"
+    },
+    {
+      "brand": "鹅一品庭院铁锅炖·东北菜(HAI550店)",
+      "address": "淮海中路550号HAI550 F7层",
+      "distance": "18m"
+    },
+    {
+      "brand": "Yakibirdie居酒屋(淮海路店)",
+      "address": "成都南路127号2楼(淮海中路地铁站1号口步行390米)",
+      "distance": "18m"
+    },
+    {
+      "brand": "纪州豚骨酱油拉面·Japanese Noodle",
+      "address": "成都南路127号1层沿街(淮海中路地铁站1号口步行390米)",
+      "distance": "18m"
+    },
+    {
+      "brand": "饼OK",
+      "address": "成都南路127号3层(淮海中路地铁站1号口步行390米)",
+      "distance": "21m"
+    },
+    {
+      "brand": "云里·云南铜锅米线(淮海中路店)",
+      "address": "淮海中路540号",
+      "distance": "21m"
+    },
+    {
+      "brand": "BASAO tea(淮海550店)",
+      "address": "淮海中路550号二楼201",
+      "distance": "22m"
+    },
+    {
+      "brand": "pecher wine bar",
+      "address": "成都南路127号1楼沿街(淮海中路地铁站1号口步行390米)",
+      "distance": "23m"
+    },
+    {
+      "brand": "DD流心巴斯克(淮海中路店)",
+      "address": "淮海中路550号(淮海中路地铁站1号口步行440米)",
+      "distance": "2m"
+    },
+    {
+      "brand": "Matcha Wang(HAI550店)",
+      "address": "淮海中路550号HAI550商场L1层2号",
+      "distance": "16m"
+    },
+    {
+      "brand": "UNDEFEATED CAFE(HAI550店)",
+      "address": "淮海中路550号HAI550",
+      "distance": "17m"
+    },
+    {
+      "brand": "鹅一品庭院铁锅炖·东北菜(HAI550店)",
+      "address": "淮海中路550号HAI550 F7层",
+      "distance": "18m"
+    },
+    {
+      "brand": "Yakibirdie居酒屋(淮海路店)",
+      "address": "成都南路127号2楼(淮海中路地铁站1号口步行390米)",
+      "distance": "18m"
+    },
+    {
+      "brand": "纪州豚骨酱油拉面·Japanese Noodle",
+      "address": "成都南路127号1层沿街(淮海中路地铁站1号口步行390米)",
+      "distance": "18m"
+    },
+    {
+      "brand": "饼OK",
+      "address": "成都南路127号3层(淮海中路地铁站1号口步行390米)",
+      "distance": "21m"
+    },
+    {
+      "brand": "云里·云南铜锅米线(淮海中路店)",
+      "address": "淮海中路540号",
+      "distance": "21m"
+    },
+    {
+      "brand": "BASAO tea(淮海550店)",
+      "address": "淮海中路550号二楼201",
+      "distance": "22m"
+    },
+    {
+      "brand": "pecher wine bar",
+      "address": "成都南路127号1楼沿街(淮海中路地铁站1号口步行390米)",
+      "distance": "23m"
+    },
+    {
+      "brand": "DD流心巴斯克(淮海中路店)",
+      "address": "淮海中路550号(淮海中路地铁站1号口步行440米)",
+      "distance": "2m"
+    },
+    {
+      "brand": "Matcha Wang(HAI550店)",
+      "address": "淮海中路550号HAI550商场L1层2号",
+      "distance": "16m"
+    },
+    {
+      "brand": "UNDEFEATED CAFE(HAI550店)",
+      "address": "淮海中路550号HAI550",
+      "distance": "17m"
+    },
+    {
+      "brand": "鹅一品庭院铁锅炖·东北菜(HAI550店)",
+      "address": "淮海中路550号HAI550 F7层",
+      "distance": "18m"
+    },
+    {
+      "brand": "Yakibirdie居酒屋(淮海路店)",
+      "address": "成都南路127号2楼(淮海中路地铁站1号口步行390米)",
+      "distance": "18m"
+    },
+    {
+      "brand": "纪州豚骨酱油拉面·Japanese Noodle",
+      "address": "成都南路127号1层沿街(淮海中路地铁站1号口步行390米)",
+      "distance": "18m"
+    },
+    {
+      "brand": "饼OK",
+      "address": "成都南路127号3层(淮海中路地铁站1号口步行390米)",
+      "distance": "21m"
+    },
+    {
+      "brand": "云里·云南铜锅米线(淮海中路店)",
+      "address": "淮海中路540号",
+      "distance": "21m"
+    },
+    {
+      "brand": "BASAO tea(淮海550店)",
+      "address": "淮海中路550号二楼201",
+      "distance": "22m"
+    },
+    {
+      "brand": "pecher wine bar",
+      "address": "成都南路127号1楼沿街(淮海中路地铁站1号口步行390米)",
+      "distance": "23m"
+    },
+    {
+      "brand": "DD流心巴斯克(淮海中路店)",
+      "address": "淮海中路550号(淮海中路地铁站1号口步行440米)",
+      "distance": "2m"
+    },
+    {
+      "brand": "Matcha Wang(HAI550店)",
+      "address": "淮海中路550号HAI550商场L1层2号",
+      "distance": "16m"
+    },
+    {
+      "brand": "UNDEFEATED CAFE(HAI550店)",
+      "address": "淮海中路550号HAI550",
+      "distance": "17m"
+    },
+    {
+      "brand": "鹅一品庭院铁锅炖·东北菜(HAI550店)",
+      "address": "淮海中路550号HAI550 F7层",
+      "distance": "18m"
+    },
+    {
+      "brand": "Yakibirdie居酒屋(淮海路店)",
+      "address": "成都南路127号2楼(淮海中路地铁站1号口步行390米)",
+      "distance": "18m"
+    },
+    {
+      "brand": "纪州豚骨酱油拉面·Japanese Noodle",
+      "address": "成都南路127号1层沿街(淮海中路地铁站1号口步行390米)",
+      "distance": "18m"
+    },
+    {
+      "brand": "饼OK",
+      "address": "成都南路127号3层(淮海中路地铁站1号口步行390米)",
+      "distance": "21m"
+    },
+    {
+      "brand": "云里·云南铜锅米线(淮海中路店)",
+      "address": "淮海中路540号",
+      "distance": "21m"
+    },
+    {
+      "brand": "BASAO tea(淮海550店)",
+      "address": "淮海中路550号二楼201",
+      "distance": "22m"
+    },
+    {
+      "brand": "pecher wine bar",
+      "address": "成都南路127号1楼沿街(淮海中路地铁站1号口步行390米)",
+      "distance": "23m"
+    },
+    {
+      "brand": "DD流心巴斯克(淮海中路店)",
+      "address": "淮海中路550号(淮海中路地铁站1号口步行440米)",
+      "distance": "2m"
+    },
+    {
+      "brand": "Matcha Wang(HAI550店)",
+      "address": "淮海中路550号HAI550商场L1层2号",
+      "distance": "16m"
+    },
+    {
+      "brand": "UNDEFEATED CAFE(HAI550店)",
+      "address": "淮海中路550号HAI550",
+      "distance": "17m"
+    },
+    {
+      "brand": "鹅一品庭院铁锅炖·东北菜(HAI550店)",
+      "address": "淮海中路550号HAI550 F7层",
+      "distance": "18m"
+    },
+    {
+      "brand": "Yakibirdie居酒屋(淮海路店)",
+      "address": "成都南路127号2楼(淮海中路地铁站1号口步行390米)",
+      "distance": "18m"
+    },
+    {
+      "brand": "纪州豚骨酱油拉面·Japanese Noodle",
+      "address": "成都南路127号1层沿街(淮海中路地铁站1号口步行390米)",
+      "distance": "18m"
+    },
+    {
+      "brand": "饼OK",
+      "address": "成都南路127号3层(淮海中路地铁站1号口步行390米)",
+      "distance": "21m"
+    },
+    {
+      "brand": "云里·云南铜锅米线(淮海中路店)",
+      "address": "淮海中路540号",
+      "distance": "21m"
+    },
+    {
+      "brand": "BASAO tea(淮海550店)",
+      "address": "淮海中路550号二楼201",
+      "distance": "22m"
+    },
+    {
+      "brand": "pecher wine bar",
+      "address": "成都南路127号1楼沿街(淮海中路地铁站1号口步行390米)",
+      "distance": "23m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海TX淮海",
+      "open_date": "2019-12-31",
+      "area": "2.7万㎡",
+      "jun_daily_avg": "2.5万人次",
+      "weekday_avg": "2.1万人次",
+      "holiday_avg": "3.6万人次"
+    },
+    {
+      "name": "上海中环广场",
+      "open_date": "1999-01-01",
+      "area": "1.2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海淮海755",
+      "open_date": "2015-12-12",
+      "area": "1.6万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海K11",
+      "open_date": "2013-06-01",
+      "area": "13万㎡",
+      "jun_daily_avg": "1.8万人次",
+      "weekday_avg": "1.7万人次",
+      "holiday_avg": "2.1万人次"
+    },
+    {
+      "name": "上海新天地广场",
+      "open_date": "2001-06-01",
+      "area": "2.7万㎡",
+      "jun_daily_avg": "1.4万人次",
+      "weekday_avg": "1.2万人次",
+      "holiday_avg": "1.9万人次"
+    },
+    {
+      "name": "上海新天地北里",
+      "open_date": "2001-01-01",
+      "area": "5.7万㎡",
+      "jun_daily_avg": "1.5万人次",
+      "weekday_avg": "1.4万人次",
+      "holiday_avg": "2万人次"
+    },
+    {
+      "name": "上海香港广场",
+      "open_date": "1998-01-01",
+      "area": "3.8万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海新天地时尚Ⅱ",
+      "open_date": "2023-01-12",
+      "area": "2.6万㎡",
+      "jun_daily_avg": "1.3万人次",
+      "weekday_avg": "1.1万人次",
+      "holiday_avg": "1.8万人次"
+    },
+    {
+      "name": "上海力宝广场",
+      "open_date": "1999-01-01",
+      "area": "1万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海思南公馆",
+      "open_date": "2010-10-01",
+      "area": "2.2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 5.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 80.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "购物",
+      "count": 16.0,
+      "within_1yr_pct": 31.3,
+      "1_3yr_pct": 68.8,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "教育培训",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "生活服务",
+      "count": 1.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
+    }
+  ]
+}

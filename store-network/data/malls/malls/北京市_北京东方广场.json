@@ -1,0 +1,486 @@
+{
+  "name": "北京东方广场",
+  "city": "北京市",
+  "address": "北京市东城区东长安街1号",
+  "lat": 39.909331,
+  "lng": 116.41455,
+  "overview": {
+    "score": 96.4,
+    "score_rank": "市内前30%",
+    "population_score": 77.9,
+    "area_score": 96.1,
+    "consumption_score": 90.5,
+    "industry_score": 96.5,
+    "annual_sales": "30",
+    "annual_sales_unit": "亿元",
+    "area_size_sqm": 12.0,
+    "open_date": "2000-09-01",
+    "operator": "北京东方广场有限公司",
+    "brand": "长江地产",
+    "type": "购物型",
+    "floors": "B2-L2"
+  },
+  "traffic": {
+    "annual_daily": 4.13,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第35",
+    "jun_total": 160.5,
+    "jun_total_rank": "市内商场第40名",
+    "jun_daily_avg": 5.4,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第40名",
+    "weekday_avg": 5.4,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第28名",
+    "holiday_avg": 5.2,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第69名"
+  },
+  "population": {
+    "residential": {
+      "500m": 1.2,
+      "1_5km": 14.6,
+      "3km": 57.1
+    },
+    "office": {
+      "500m": 4.0,
+      "1_5km": 20.6,
+      "3km": 59.8
+    },
+    "permanent": {
+      "500m": 3.1,
+      "1_5km": 21.7,
+      "3km": 69.0
+    }
+  },
+  "business": {
+    "competitors": 13.0,
+    "food": 357.0,
+    "shopping": 407.0,
+    "leisure": 23.0,
+    "education": 6.0,
+    "hotel": 39.0,
+    "services": 106.0,
+    "fitness": 18.0,
+    "auto": 16.0,
+    "total_stores": 354.0,
+    "old_store_3yr_pct": 56.0
+  },
+  "nearby_poi": {
+    "business": 14.0,
+    "community": 314.0,
+    "office": 83.0,
+    "school": 40.0,
+    "hospital": 119.0,
+    "transport": 10.0,
+    "scenic": 1019.0
+  },
+  "demographics": {
+    "male_pct": 47.0,
+    "female_pct": null,
+    "education": {
+      "小学": 10.4,
+      "初中": 17.6,
+      "高中": 11.4,
+      "大专": 6.6,
+      "本科": 45.9,
+      "硕士": 6.4,
+      "博士": 1.7
+    },
+    "has_children_pct": 54.1,
+    "no_children_pct": 45.9
+  },
+  "scraped_at": "2026-07-31T11:44:03.283Z",
+  "nearby_restaurants": [
+    {
+      "brand": "LINLEE林里·手打柠檬茶(东方新天地店)",
+      "address": "北京城区东长安街1号东方新天地LG层EE07-08号店铺",
+      "distance": "9m"
+    },
+    {
+      "brand": "茶话弄(北京东方新天地店)",
+      "address": "东长安街1号北京东方新天地LG层",
+      "distance": "14m"
+    },
+    {
+      "brand": "酥小柳韩式炸鸡",
+      "address": "东长安街1号北京东方新天地",
+      "distance": "18m"
+    },
+    {
+      "brand": "星巴克(北京东方广场西区店)",
+      "address": "北京城区东城区北京城区东长安街1号东方广场东方新天地商场地下一层",
+      "distance": "19m"
+    },
+    {
+      "brand": "茶百道(北京东方新天地店)",
+      "address": "北京城区东长安街1号东方广场B1集结号美食街B1-03号",
+      "distance": "22m"
+    },
+    {
+      "brand": "冰期时代(大食代东方广场店)",
+      "address": "东长安街1号东方广场B1层CC36-46",
+      "distance": "22m"
+    },
+    {
+      "brand": "川渝家常自选餐(北京东方新天地店)",
+      "address": "东长安街1号北京东方新天地(东单地铁站E西北口步行280米)",
+      "distance": "26m"
+    },
+    {
+      "brand": "牛茶燕窝饮品(东方新天地店)",
+      "address": "长安街东方新天地地铁层B1层第三区EE06B",
+      "distance": "27m"
+    },
+    {
+      "brand": "山西刀削面(东方新天地东单店)",
+      "address": "东长安街1号北京东方新天地",
+      "distance": "30m"
+    },
+    {
+      "brand": "南昌拌粉",
+      "address": "东华门街道东长安街1号北京东方新天地LG层",
+      "distance": "30m"
+    },
+    {
+      "brand": "LINLEE林里·手打柠檬茶(东方新天地店)",
+      "address": "北京城区东长安街1号东方新天地LG层EE07-08号店铺",
+      "distance": "9m"
+    },
+    {
+      "brand": "茶话弄(北京东方新天地店)",
+      "address": "东长安街1号北京东方新天地LG层",
+      "distance": "14m"
+    },
+    {
+      "brand": "酥小柳韩式炸鸡",
+      "address": "东长安街1号北京东方新天地",
+      "distance": "18m"
+    },
+    {
+      "brand": "星巴克(北京东方广场西区店)",
+      "address": "北京城区东城区北京城区东长安街1号东方广场东方新天地商场地下一层",
+      "distance": "19m"
+    },
+    {
+      "brand": "茶百道(北京东方新天地店)",
+      "address": "北京城区东长安街1号东方广场B1集结号美食街B1-03号",
+      "distance": "22m"
+    },
+    {
+      "brand": "冰期时代(大食代东方广场店)",
+      "address": "东长安街1号东方广场B1层CC36-46",
+      "distance": "22m"
+    },
+    {
+      "brand": "川渝家常自选餐(北京东方新天地店)",
+      "address": "东长安街1号北京东方新天地(东单地铁站E西北口步行280米)",
+      "distance": "26m"
+    },
+    {
+      "brand": "牛茶燕窝饮品(东方新天地店)",
+      "address": "长安街东方新天地地铁层B1层第三区EE06B",
+      "distance": "27m"
+    },
+    {
+      "brand": "山西刀削面(东方新天地东单店)",
+      "address": "东长安街1号北京东方新天地",
+      "distance": "30m"
+    },
+    {
+      "brand": "南昌拌粉",
+      "address": "东华门街道东长安街1号北京东方新天地LG层",
+      "distance": "30m"
+    },
+    {
+      "brand": "LINLEE林里·手打柠檬茶(东方新天地店)",
+      "address": "北京城区东长安街1号东方新天地LG层EE07-08号店铺",
+      "distance": "9m"
+    },
+    {
+      "brand": "茶话弄(北京东方新天地店)",
+      "address": "东长安街1号北京东方新天地LG层",
+      "distance": "14m"
+    },
+    {
+      "brand": "酥小柳韩式炸鸡",
+      "address": "东长安街1号北京东方新天地",
+      "distance": "18m"
+    },
+    {
+      "brand": "星巴克(北京东方广场西区店)",
+      "address": "北京城区东城区北京城区东长安街1号东方广场东方新天地商场地下一层",
+      "distance": "19m"
+    },
+    {
+      "brand": "茶百道(北京东方新天地店)",
+      "address": "北京城区东长安街1号东方广场B1集结号美食街B1-03号",
+      "distance": "22m"
+    },
+    {
+      "brand": "冰期时代(大食代东方广场店)",
+      "address": "东长安街1号东方广场B1层CC36-46",
+      "distance": "22m"
+    },
+    {
+      "brand": "川渝家常自选餐(北京东方新天地店)",
+      "address": "东长安街1号北京东方新天地(东单地铁站E西北口步行280米)",
+      "distance": "26m"
+    },
+    {
+      "brand": "牛茶燕窝饮品(东方新天地店)",
+      "address": "长安街东方新天地地铁层B1层第三区EE06B",
+      "distance": "27m"
+    },
+    {
+      "brand": "山西刀削面(东方新天地东单店)",
+      "address": "东长安街1号北京东方新天地",
+      "distance": "30m"
+    },
+    {
+      "brand": "南昌拌粉",
+      "address": "东华门街道东长安街1号北京东方新天地LG层",
+      "distance": "30m"
+    },
+    {
+      "brand": "LINLEE林里·手打柠檬茶(东方新天地店)",
+      "address": "北京城区东长安街1号东方新天地LG层EE07-08号店铺",
+      "distance": "9m"
+    },
+    {
+      "brand": "茶话弄(北京东方新天地店)",
+      "address": "东长安街1号北京东方新天地LG层",
+      "distance": "14m"
+    },
+    {
+      "brand": "酥小柳韩式炸鸡",
+      "address": "东长安街1号北京东方新天地",
+      "distance": "18m"
+    },
+    {
+      "brand": "星巴克(北京东方广场西区店)",
+      "address": "北京城区东城区北京城区东长安街1号东方广场东方新天地商场地下一层",
+      "distance": "19m"
+    },
+    {
+      "brand": "茶百道(北京东方新天地店)",
+      "address": "北京城区东长安街1号东方广场B1集结号美食街B1-03号",
+      "distance": "22m"
+    },
+    {
+      "brand": "冰期时代(大食代东方广场店)",
+      "address": "东长安街1号东方广场B1层CC36-46",
+      "distance": "22m"
+    },
+    {
+      "brand": "川渝家常自选餐(北京东方新天地店)",
+      "address": "东长安街1号北京东方新天地(东单地铁站E西北口步行280米)",
+      "distance": "26m"
+    },
+    {
+      "brand": "牛茶燕窝饮品(东方新天地店)",
+      "address": "长安街东方新天地地铁层B1层第三区EE06B",
+      "distance": "27m"
+    },
+    {
+      "brand": "山西刀削面(东方新天地东单店)",
+      "address": "东长安街1号北京东方新天地",
+      "distance": "30m"
+    },
+    {
+      "brand": "南昌拌粉",
+      "address": "东华门街道东长安街1号北京东方新天地LG层",
+      "distance": "30m"
+    },
+    {
+      "brand": "LINLEE林里·手打柠檬茶(东方新天地店)",
+      "address": "北京城区东长安街1号东方新天地LG层EE07-08号店铺",
+      "distance": "9m"
+    },
+    {
+      "brand": "茶话弄(北京东方新天地店)",
+      "address": "东长安街1号北京东方新天地LG层",
+      "distance": "14m"
+    },
+    {
+      "brand": "酥小柳韩式炸鸡",
+      "address": "东长安街1号北京东方新天地",
+      "distance": "18m"
+    },
+    {
+      "brand": "星巴克(北京东方广场西区店)",
+      "address": "北京城区东城区北京城区东长安街1号东方广场东方新天地商场地下一层",
+      "distance": "19m"
+    },
+    {
+      "brand": "茶百道(北京东方新天地店)",
+      "address": "北京城区东长安街1号东方广场B1集结号美食街B1-03号",
+      "distance": "22m"
+    },
+    {
+      "brand": "冰期时代(大食代东方广场店)",
+      "address": "东长安街1号东方广场B1层CC36-46",
+      "distance": "22m"
+    },
+    {
+      "brand": "川渝家常自选餐(北京东方新天地店)",
+      "address": "东长安街1号北京东方新天地(东单地铁站E西北口步行280米)",
+      "distance": "26m"
+    },
+    {
+      "brand": "牛茶燕窝饮品(东方新天地店)",
+      "address": "长安街东方新天地地铁层B1层第三区EE06B",
+      "distance": "27m"
+    },
+    {
+      "brand": "山西刀削面(东方新天地东单店)",
+      "address": "东长安街1号北京东方新天地",
+      "distance": "30m"
+    },
+    {
+      "brand": "南昌拌粉",
+      "address": "东华门街道东长安街1号北京东方新天地LG层",
+      "distance": "30m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "北京王府井工美大厦",
+      "open_date": "1996-07-01",
+      "area": "2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "王府井喜悦购物中心",
+      "open_date": "2023-12-30",
+      "area": "7万㎡",
+      "jun_daily_avg": "6.1万人次",
+      "weekday_avg": "5.2万人次",
+      "holiday_avg": "8.5万人次"
+    },
+    {
+      "name": "北京APM",
+      "open_date": "2008-01-01",
+      "area": "9万㎡",
+      "jun_daily_avg": "8.5万人次",
+      "weekday_avg": "7.5万人次",
+      "holiday_avg": "11.1万人次"
+    },
+    {
+      "name": "北京王府中环",
+      "open_date": "2018-05-29",
+      "area": "4.3万㎡",
+      "jun_daily_avg": "3.7万人次",
+      "weekday_avg": "3.2万人次",
+      "holiday_avg": "5万人次"
+    },
+    {
+      "name": "北京市百货大楼",
+      "open_date": "1955-09-01",
+      "area": "1.8万㎡",
+      "jun_daily_avg": "4.4万人次",
+      "weekday_avg": "3.9万人次",
+      "holiday_avg": "5.7万人次"
+    },
+    {
+      "name": "北京澳门中心",
+      "open_date": "2008-01-01",
+      "area": "8.8万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "北京淘汇新天购物中心",
+      "open_date": "2014-02-16",
+      "area": "3.8万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "北京银泰in88",
+      "open_date": "2018-01-01",
+      "area": "3万㎡",
+      "jun_daily_avg": "1.4万人次",
+      "weekday_avg": "1.2万人次",
+      "holiday_avg": "1.9万人次"
+    },
+    {
+      "name": "北京金宝汇购物中心",
+      "open_date": "2009-05-01",
+      "area": "4万㎡",
+      "jun_daily_avg": "1.3万人次",
+      "weekday_avg": "1.3万人次",
+      "holiday_avg": "1.4万人次"
+    },
+    {
+      "name": "北京利生体育商厦",
+      "open_date": "1996-11-25",
+      "area": "1.2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 110.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 22.7,
+      "over_3yr_pct": 57.3
+    },
+    {
+      "type": "购物",
+      "count": 154.0,
+      "within_1yr_pct": 14.3,
+      "1_3yr_pct": 24.0,
+      "over_3yr_pct": 61.7
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 9.0,
+      "within_1yr_pct": 22.2,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 44.4
+    },
+    {
+      "type": "教育培训",
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "酒店住宿",
+      "count": 12.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 16.7,
+      "over_3yr_pct": 58.3
+    },
+    {
+      "type": "生活服务",
+      "count": 51.0,
+      "within_1yr_pct": 23.5,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 43.1
+    },
+    {
+      "type": "运动健身",
+      "count": 4.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 75.0,
+      "over_3yr_pct": 25.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 12.0,
+      "within_1yr_pct": 16.7,
+      "1_3yr_pct": 33.3,
+      "over_3yr_pct": 50.0
+    }
+  ]
+}

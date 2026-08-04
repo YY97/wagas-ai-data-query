@@ -1,0 +1,486 @@
+{
+  "name": "上海巴黎春天(天山店)",
+  "city": "上海市",
+  "address": "上海市长宁区天山路街道泓鑫时尚广场巴黎春天(天山路店)",
+  "lat": 31.209169,
+  "lng": 121.407102,
+  "overview": {
+    "score": 89.0,
+    "score_rank": "市内前30%",
+    "population_score": 100.0,
+    "area_score": 90.8,
+    "consumption_score": 76.3,
+    "industry_score": 89.0,
+    "annual_sales": "上海巴黎春天（天山店）位于上海市长宁区天山路762号，是集美食、休闲、娱乐、教育等业态于一体的社区型购物中心。商场总建筑面积为43,000平方米，共9层，其中地下3层、地上6层。商场与地铁2号线娄山关路站直连，交通十分便利。未来，待地铁15号线贯通后，商场地下二层还将与娄山关路站直连",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 4.3,
+    "open_date": "2013-01-01",
+    "operator": "新世界发展有限公司",
+    "brand": "新世界",
+    "type": "美食型",
+    "floors": "B3-L6"
+  },
+  "traffic": {
+    "annual_daily": 1.18,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第220",
+    "jun_total": 18.3,
+    "jun_total_rank": "市内商场第395名",
+    "jun_daily_avg": 6095.0,
+    "jun_daily_unit": "人次",
+    "jun_daily_rank": "市内商场第395名",
+    "weekday_avg": 5639.0,
+    "weekday_unit": "人次",
+    "weekday_rank": "市内商场第400名",
+    "holiday_avg": 7347.0,
+    "holiday_unit": "人次",
+    "holiday_rank": "市内商场第379名"
+  },
+  "population": {
+    "residential": {
+      "500m": 4.0,
+      "1_5km": 23.3,
+      "3km": 85.5
+    },
+    "office": {
+      "500m": 3.7,
+      "1_5km": 19.9,
+      "3km": 66.7
+    },
+    "permanent": {
+      "500m": 5.2,
+      "1_5km": 26.3,
+      "3km": 93.2
+    }
+  },
+  "business": {
+    "competitors": 15.0,
+    "food": 436.0,
+    "shopping": 291.0,
+    "leisure": 23.0,
+    "education": 31.0,
+    "hotel": 37.0,
+    "services": 201.0,
+    "fitness": 48.0,
+    "auto": 21.0,
+    "total_stores": 67.0,
+    "old_store_3yr_pct": 28.0
+  },
+  "nearby_poi": {
+    "business": 10.0,
+    "community": 795.0,
+    "office": 89.0,
+    "school": 45.0,
+    "hospital": 135.0,
+    "transport": 12.0,
+    "scenic": 312.0
+  },
+  "demographics": {
+    "male_pct": 47.1,
+    "female_pct": null,
+    "education": {
+      "小学": 8.8,
+      "初中": 17.1,
+      "高中": 11.7,
+      "大专": 6.7,
+      "本科": 48.4,
+      "硕士": 5.4,
+      "博士": 1.9
+    },
+    "has_children_pct": 58.9,
+    "no_children_pct": 41.1
+  },
+  "scraped_at": "2026-07-31T16:06:57.359Z",
+  "nearby_restaurants": [
+    {
+      "brand": "入魂喵(巴黎春天悦汇天山店)",
+      "address": "天山路762号巴黎春天·悦汇天山B1层",
+      "distance": "3m"
+    },
+    {
+      "brand": "申楠小馆(巴黎春天·悦汇天山店)",
+      "address": "天山路762号巴黎春天·悦汇天山F4",
+      "distance": "3m"
+    },
+    {
+      "brand": "无限萌界(巴黎春天·悦汇天山店)",
+      "address": "天山路762号巴黎春天·悦汇天山F4层",
+      "distance": "4m"
+    },
+    {
+      "brand": "鹅匠·潮汕卤味集市(天山巴黎春天店)",
+      "address": "天山路762号巴黎春天1层",
+      "distance": "6m"
+    },
+    {
+      "brand": "野人先生Gelato(上海巴黎春天天山店)",
+      "address": "天山路街道天山路762号巴黎春天·悦汇天山B1层09号",
+      "distance": "7m"
+    },
+    {
+      "brand": "厚睦日式食堂(巴黎春天悦汇天山店)",
+      "address": "天山路762号4层01室18号商铺宇宙裂缝大舞台对面",
+      "distance": "8m"
+    },
+    {
+      "brand": "Manner Coffee(巴黎春天·悦汇天山店)",
+      "address": "天山路762号巴黎春天·悦汇天山1层13商铺",
+      "distance": "15m"
+    },
+    {
+      "brand": "Lusa宝岛小馆",
+      "address": "巴黎春天悦汇天山(娄山关路地铁站4号口旁)",
+      "distance": "15m"
+    },
+    {
+      "brand": "宇宙裂缝咖啡吧",
+      "address": "天山路与古北路交叉口东160米",
+      "distance": "16m"
+    },
+    {
+      "brand": "LELECHA乐乐茶(巴黎春天店)",
+      "address": "天山路762-780号巴黎春天·悦汇天山B1层",
+      "distance": "16m"
+    },
+    {
+      "brand": "入魂喵(巴黎春天悦汇天山店)",
+      "address": "天山路762号巴黎春天·悦汇天山B1层",
+      "distance": "3m"
+    },
+    {
+      "brand": "申楠小馆(巴黎春天·悦汇天山店)",
+      "address": "天山路762号巴黎春天·悦汇天山F4",
+      "distance": "3m"
+    },
+    {
+      "brand": "无限萌界(巴黎春天·悦汇天山店)",
+      "address": "天山路762号巴黎春天·悦汇天山F4层",
+      "distance": "4m"
+    },
+    {
+      "brand": "鹅匠·潮汕卤味集市(天山巴黎春天店)",
+      "address": "天山路762号巴黎春天1层",
+      "distance": "6m"
+    },
+    {
+      "brand": "野人先生Gelato(上海巴黎春天天山店)",
+      "address": "天山路街道天山路762号巴黎春天·悦汇天山B1层09号",
+      "distance": "7m"
+    },
+    {
+      "brand": "厚睦日式食堂(巴黎春天悦汇天山店)",
+      "address": "天山路762号4层01室18号商铺宇宙裂缝大舞台对面",
+      "distance": "8m"
+    },
+    {
+      "brand": "Manner Coffee(巴黎春天·悦汇天山店)",
+      "address": "天山路762号巴黎春天·悦汇天山1层13商铺",
+      "distance": "15m"
+    },
+    {
+      "brand": "Lusa宝岛小馆",
+      "address": "巴黎春天悦汇天山(娄山关路地铁站4号口旁)",
+      "distance": "15m"
+    },
+    {
+      "brand": "宇宙裂缝咖啡吧",
+      "address": "天山路与古北路交叉口东160米",
+      "distance": "16m"
+    },
+    {
+      "brand": "LELECHA乐乐茶(巴黎春天店)",
+      "address": "天山路762-780号巴黎春天·悦汇天山B1层",
+      "distance": "16m"
+    },
+    {
+      "brand": "入魂喵(巴黎春天悦汇天山店)",
+      "address": "天山路762号巴黎春天·悦汇天山B1层",
+      "distance": "3m"
+    },
+    {
+      "brand": "申楠小馆(巴黎春天·悦汇天山店)",
+      "address": "天山路762号巴黎春天·悦汇天山F4",
+      "distance": "3m"
+    },
+    {
+      "brand": "无限萌界(巴黎春天·悦汇天山店)",
+      "address": "天山路762号巴黎春天·悦汇天山F4层",
+      "distance": "4m"
+    },
+    {
+      "brand": "鹅匠·潮汕卤味集市(天山巴黎春天店)",
+      "address": "天山路762号巴黎春天1层",
+      "distance": "6m"
+    },
+    {
+      "brand": "野人先生Gelato(上海巴黎春天天山店)",
+      "address": "天山路街道天山路762号巴黎春天·悦汇天山B1层09号",
+      "distance": "7m"
+    },
+    {
+      "brand": "厚睦日式食堂(巴黎春天悦汇天山店)",
+      "address": "天山路762号4层01室18号商铺宇宙裂缝大舞台对面",
+      "distance": "8m"
+    },
+    {
+      "brand": "Manner Coffee(巴黎春天·悦汇天山店)",
+      "address": "天山路762号巴黎春天·悦汇天山1层13商铺",
+      "distance": "15m"
+    },
+    {
+      "brand": "Lusa宝岛小馆",
+      "address": "巴黎春天悦汇天山(娄山关路地铁站4号口旁)",
+      "distance": "15m"
+    },
+    {
+      "brand": "宇宙裂缝咖啡吧",
+      "address": "天山路与古北路交叉口东160米",
+      "distance": "16m"
+    },
+    {
+      "brand": "LELECHA乐乐茶(巴黎春天店)",
+      "address": "天山路762-780号巴黎春天·悦汇天山B1层",
+      "distance": "16m"
+    },
+    {
+      "brand": "入魂喵(巴黎春天悦汇天山店)",
+      "address": "天山路762号巴黎春天·悦汇天山B1层",
+      "distance": "3m"
+    },
+    {
+      "brand": "申楠小馆(巴黎春天·悦汇天山店)",
+      "address": "天山路762号巴黎春天·悦汇天山F4",
+      "distance": "3m"
+    },
+    {
+      "brand": "无限萌界(巴黎春天·悦汇天山店)",
+      "address": "天山路762号巴黎春天·悦汇天山F4层",
+      "distance": "4m"
+    },
+    {
+      "brand": "鹅匠·潮汕卤味集市(天山巴黎春天店)",
+      "address": "天山路762号巴黎春天1层",
+      "distance": "6m"
+    },
+    {
+      "brand": "野人先生Gelato(上海巴黎春天天山店)",
+      "address": "天山路街道天山路762号巴黎春天·悦汇天山B1层09号",
+      "distance": "7m"
+    },
+    {
+      "brand": "厚睦日式食堂(巴黎春天悦汇天山店)",
+      "address": "天山路762号4层01室18号商铺宇宙裂缝大舞台对面",
+      "distance": "8m"
+    },
+    {
+      "brand": "Manner Coffee(巴黎春天·悦汇天山店)",
+      "address": "天山路762号巴黎春天·悦汇天山1层13商铺",
+      "distance": "15m"
+    },
+    {
+      "brand": "Lusa宝岛小馆",
+      "address": "巴黎春天悦汇天山(娄山关路地铁站4号口旁)",
+      "distance": "15m"
+    },
+    {
+      "brand": "宇宙裂缝咖啡吧",
+      "address": "天山路与古北路交叉口东160米",
+      "distance": "16m"
+    },
+    {
+      "brand": "LELECHA乐乐茶(巴黎春天店)",
+      "address": "天山路762-780号巴黎春天·悦汇天山B1层",
+      "distance": "16m"
+    },
+    {
+      "brand": "入魂喵(巴黎春天悦汇天山店)",
+      "address": "天山路762号巴黎春天·悦汇天山B1层",
+      "distance": "3m"
+    },
+    {
+      "brand": "申楠小馆(巴黎春天·悦汇天山店)",
+      "address": "天山路762号巴黎春天·悦汇天山F4",
+      "distance": "3m"
+    },
+    {
+      "brand": "无限萌界(巴黎春天·悦汇天山店)",
+      "address": "天山路762号巴黎春天·悦汇天山F4层",
+      "distance": "4m"
+    },
+    {
+      "brand": "鹅匠·潮汕卤味集市(天山巴黎春天店)",
+      "address": "天山路762号巴黎春天1层",
+      "distance": "6m"
+    },
+    {
+      "brand": "野人先生Gelato(上海巴黎春天天山店)",
+      "address": "天山路街道天山路762号巴黎春天·悦汇天山B1层09号",
+      "distance": "7m"
+    },
+    {
+      "brand": "厚睦日式食堂(巴黎春天悦汇天山店)",
+      "address": "天山路762号4层01室18号商铺宇宙裂缝大舞台对面",
+      "distance": "8m"
+    },
+    {
+      "brand": "Manner Coffee(巴黎春天·悦汇天山店)",
+      "address": "天山路762号巴黎春天·悦汇天山1层13商铺",
+      "distance": "15m"
+    },
+    {
+      "brand": "Lusa宝岛小馆",
+      "address": "巴黎春天悦汇天山(娄山关路地铁站4号口旁)",
+      "distance": "15m"
+    },
+    {
+      "brand": "宇宙裂缝咖啡吧",
+      "address": "天山路与古北路交叉口东160米",
+      "distance": "16m"
+    },
+    {
+      "brand": "LELECHA乐乐茶(巴黎春天店)",
+      "address": "天山路762-780号巴黎春天·悦汇天山B1层",
+      "distance": "16m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "上海百盛优客城市广场",
+      "open_date": "2015-12-19",
+      "area": "5万㎡",
+      "jun_daily_avg": "3万人次",
+      "weekday_avg": "2.7万人次",
+      "holiday_avg": "3.6万人次"
+    },
+    {
+      "name": "上海汇金百货(虹桥店)",
+      "open_date": "2008-12-01",
+      "area": "4万㎡",
+      "jun_daily_avg": "1.3万人次",
+      "weekday_avg": "1.2万人次",
+      "holiday_avg": "1.5万人次"
+    },
+    {
+      "name": "上海金虹桥商场",
+      "open_date": "2014-09-26",
+      "area": "8.3万㎡",
+      "jun_daily_avg": "4.6万人次",
+      "weekday_avg": "4.6万人次",
+      "holiday_avg": "4.5万人次"
+    },
+    {
+      "name": "上海虹桥南丰城",
+      "open_date": "2014-12-19",
+      "area": "11万㎡",
+      "jun_daily_avg": "5.6万人次",
+      "weekday_avg": "5.5万人次",
+      "holiday_avg": "6万人次"
+    },
+    {
+      "name": "上海尚嘉中心",
+      "open_date": "2013-06-01",
+      "area": "4.9万㎡",
+      "jun_daily_avg": "1.6万人次",
+      "weekday_avg": "1.7万人次",
+      "holiday_avg": "1.3万人次"
+    },
+    {
+      "name": "上海世贸商城",
+      "open_date": "1999-01-01",
+      "area": "19万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海长宁来福士广场",
+      "open_date": "2017-06-30",
+      "area": "12万㎡",
+      "jun_daily_avg": "3.6万人次",
+      "weekday_avg": "3.4万人次",
+      "holiday_avg": "4.1万人次"
+    },
+    {
+      "name": "上海长风大悦城",
+      "open_date": "2018-05-01",
+      "area": "12万㎡",
+      "jun_daily_avg": "3.4万人次",
+      "weekday_avg": "3.2万人次",
+      "holiday_avg": "3.9万人次"
+    },
+    {
+      "name": "上海缤谷文化休闲广场",
+      "open_date": "2016-05-01",
+      "area": "3.2万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    },
+    {
+      "name": "上海星空广场",
+      "open_date": "2015-09-27",
+      "area": "6.5万㎡",
+      "jun_daily_avg": "",
+      "weekday_avg": "",
+      "holiday_avg": ""
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 24.0,
+      "within_1yr_pct": 16.7,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 33.3
+    },
+    {
+      "type": "购物",
+      "count": 14.0,
+      "within_1yr_pct": 21.4,
+      "1_3yr_pct": 57.1,
+      "over_3yr_pct": 21.4
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 4.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "教育培训",
+      "count": 7.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 57.1,
+      "over_3yr_pct": 42.9
+    },
+    {
+      "type": "酒店住宿",
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "生活服务",
+      "count": 10.0,
+      "within_1yr_pct": 10.0,
+      "1_3yr_pct": 70.0,
+      "over_3yr_pct": 20.0
+    },
+    {
+      "type": "运动健身",
+      "count": 5.0,
+      "within_1yr_pct": 60.0,
+      "1_3yr_pct": 20.0,
+      "over_3yr_pct": 20.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
+    }
+  ]
+}

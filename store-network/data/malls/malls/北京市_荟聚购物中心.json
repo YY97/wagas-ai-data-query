@@ -1,0 +1,422 @@
+{
+  "name": "荟聚购物中心",
+  "city": "北京市",
+  "address": "北京市大兴区欣宁街15号",
+  "lat": 39.788045,
+  "lng": 116.326151,
+  "overview": {
+    "score": 96.8,
+    "score_rank": "市内前30%",
+    "population_score": 72.9,
+    "area_score": 99.6,
+    "consumption_score": 68.2,
+    "industry_score": 96.9,
+    "annual_sales": "北京荟聚中心是一个具有国际标准的一站式超区域型购物中心，拥有宜家家居、欧尚超市、苏宁电器、迪卡侬及金逸影院等400余家商户，包含丰富的时尚品牌组合、近百家知名餐饮、IMAX影院、大型超市、KTV、书店等 。北京荟聚中心与地铁4号线无缝衔接，同时与五环相连，拥有近7050个停车位，曾获得世界最大地下停车场的吉尼斯纪录",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 21.0,
+    "open_date": "2014-12-19",
+    "operator": "英格卡购物中心（ 中国 ）管理有限公司",
+    "brand": "英格卡购物中心（ 中国 ）管理有限公司",
+    "type": "购物型",
+    "floors": "L1-L3"
+  },
+  "traffic": {
+    "annual_daily": 11.18,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第1",
+    "jun_total": 509.2,
+    "jun_total_rank": "市内商场第2名",
+    "jun_daily_avg": 17.0,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第2名",
+    "weekday_avg": 13.9,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第3名",
+    "holiday_avg": 25.5,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第2名"
+  },
+  "population": {
+    "residential": {
+      "500m": 8900.0,
+      "1_5km": 8.6,
+      "3km": 28.3
+    },
+    "office": {
+      "500m": 2.0,
+      "1_5km": 4.5,
+      "3km": 13.8
+    },
+    "permanent": {
+      "500m": 2.4,
+      "1_5km": 9.5,
+      "3km": 28.1
+    }
+  },
+  "business": {
+    "competitors": 7.0,
+    "food": 301.0,
+    "shopping": 415.0,
+    "leisure": 59.0,
+    "education": 31.0,
+    "hotel": 8.0,
+    "services": 261.0,
+    "fitness": 23.0,
+    "auto": 48.0,
+    "total_stores": 588.0,
+    "old_store_3yr_pct": 51.0
+  },
+  "nearby_poi": {
+    "business": 2.0,
+    "community": 142.0,
+    "office": 11.0,
+    "school": 9.0,
+    "hospital": 23.0,
+    "transport": 7.0,
+    "scenic": 49.0
+  },
+  "demographics": {
+    "male_pct": 53.2,
+    "female_pct": null,
+    "education": {
+      "小学": 10.1,
+      "初中": 16.9,
+      "高中": 11.0,
+      "大专": 8.0,
+      "本科": 47.7,
+      "硕士": 5.2,
+      "博士": 1.1
+    },
+    "has_children_pct": 58.2,
+    "no_children_pct": 41.8
+  },
+  "scraped_at": "2026-08-01T04:19:45.774Z",
+  "nearby_restaurants": [
+    {
+      "brand": "城市集市",
+      "address": "欣宁街15号院北京荟聚购物中心3F层City-Mart",
+      "distance": "3m"
+    },
+    {
+      "brand": "椿田熟成茶行(北京荟聚店)",
+      "address": "荟聚3层椿田熟成茶行(猛古里对面)",
+      "distance": "5m"
+    },
+    {
+      "brand": "元气寿司(北京荟聚店)",
+      "address": "西红门镇欣宁街15号院北京荟聚购物中心2F层6-02-22-R",
+      "distance": "7m"
+    },
+    {
+      "brand": "渔村岁月海鲜大馅蒸饺(城市集市北京荟聚店)",
+      "address": "北京城区荟聚商场3层",
+      "distance": "8m"
+    },
+    {
+      "brand": "冒泡小火锅(大兴荟聚店)",
+      "address": "欣宁街15号院北京荟聚购物中心4F层",
+      "distance": "10m"
+    },
+    {
+      "brand": "HOT CRUSH趁热集合·现烤面包(北京荟聚)",
+      "address": "北京城区欣宁街15号院1号楼1层01F21(东2门入口同仁堂旁)",
+      "distance": "12m"
+    },
+    {
+      "brand": "8Blue(北京荟聚店)",
+      "address": "欣宁街15号院北京荟聚购物中心1F层",
+      "distance": "12m"
+    },
+    {
+      "brand": "灰小鸭咖啡(北京荟聚店)",
+      "address": "欣宁街15号院1号楼荟聚购物中心4层04F02",
+      "distance": "15m"
+    },
+    {
+      "brand": "Tamkoko泰柯茶园(城市集市北京荟聚店)",
+      "address": "西红门地区北京荟聚L3城市集市内A5铺",
+      "distance": "15m"
+    },
+    {
+      "brand": "费大厨辣椒炒肉(大兴荟聚店)",
+      "address": "欣宁街15号北京荟聚3F层(西红门地铁站出入口步行290米)",
+      "distance": "15m"
+    },
+    {
+      "brand": "城市集市",
+      "address": "欣宁街15号院北京荟聚购物中心3F层City-Mart",
+      "distance": "3m"
+    },
+    {
+      "brand": "椿田熟成茶行(北京荟聚店)",
+      "address": "荟聚3层椿田熟成茶行(猛古里对面)",
+      "distance": "5m"
+    },
+    {
+      "brand": "元气寿司(北京荟聚店)",
+      "address": "西红门镇欣宁街15号院北京荟聚购物中心2F层6-02-22-R",
+      "distance": "7m"
+    },
+    {
+      "brand": "渔村岁月海鲜大馅蒸饺(城市集市北京荟聚店)",
+      "address": "北京城区荟聚商场3层",
+      "distance": "8m"
+    },
+    {
+      "brand": "冒泡小火锅(大兴荟聚店)",
+      "address": "欣宁街15号院北京荟聚购物中心4F层",
+      "distance": "10m"
+    },
+    {
+      "brand": "HOT CRUSH趁热集合·现烤面包(北京荟聚)",
+      "address": "北京城区欣宁街15号院1号楼1层01F21(东2门入口同仁堂旁)",
+      "distance": "12m"
+    },
+    {
+      "brand": "8Blue(北京荟聚店)",
+      "address": "欣宁街15号院北京荟聚购物中心1F层",
+      "distance": "12m"
+    },
+    {
+      "brand": "灰小鸭咖啡(北京荟聚店)",
+      "address": "欣宁街15号院1号楼荟聚购物中心4层04F02",
+      "distance": "15m"
+    },
+    {
+      "brand": "Tamkoko泰柯茶园(城市集市北京荟聚店)",
+      "address": "西红门地区北京荟聚L3城市集市内A5铺",
+      "distance": "15m"
+    },
+    {
+      "brand": "费大厨辣椒炒肉(大兴荟聚店)",
+      "address": "欣宁街15号北京荟聚3F层(西红门地铁站出入口步行290米)",
+      "distance": "15m"
+    },
+    {
+      "brand": "城市集市",
+      "address": "欣宁街15号院北京荟聚购物中心3F层City-Mart",
+      "distance": "3m"
+    },
+    {
+      "brand": "椿田熟成茶行(北京荟聚店)",
+      "address": "荟聚3层椿田熟成茶行(猛古里对面)",
+      "distance": "5m"
+    },
+    {
+      "brand": "元气寿司(北京荟聚店)",
+      "address": "西红门镇欣宁街15号院北京荟聚购物中心2F层6-02-22-R",
+      "distance": "7m"
+    },
+    {
+      "brand": "渔村岁月海鲜大馅蒸饺(城市集市北京荟聚店)",
+      "address": "北京城区荟聚商场3层",
+      "distance": "8m"
+    },
+    {
+      "brand": "冒泡小火锅(大兴荟聚店)",
+      "address": "欣宁街15号院北京荟聚购物中心4F层",
+      "distance": "10m"
+    },
+    {
+      "brand": "HOT CRUSH趁热集合·现烤面包(北京荟聚)",
+      "address": "北京城区欣宁街15号院1号楼1层01F21(东2门入口同仁堂旁)",
+      "distance": "12m"
+    },
+    {
+      "brand": "8Blue(北京荟聚店)",
+      "address": "欣宁街15号院北京荟聚购物中心1F层",
+      "distance": "12m"
+    },
+    {
+      "brand": "灰小鸭咖啡(北京荟聚店)",
+      "address": "欣宁街15号院1号楼荟聚购物中心4层04F02",
+      "distance": "15m"
+    },
+    {
+      "brand": "Tamkoko泰柯茶园(城市集市北京荟聚店)",
+      "address": "西红门地区北京荟聚L3城市集市内A5铺",
+      "distance": "15m"
+    },
+    {
+      "brand": "费大厨辣椒炒肉(大兴荟聚店)",
+      "address": "欣宁街15号北京荟聚3F层(西红门地铁站出入口步行290米)",
+      "distance": "15m"
+    },
+    {
+      "brand": "城市集市",
+      "address": "欣宁街15号院北京荟聚购物中心3F层City-Mart",
+      "distance": "3m"
+    },
+    {
+      "brand": "椿田熟成茶行(北京荟聚店)",
+      "address": "荟聚3层椿田熟成茶行(猛古里对面)",
+      "distance": "5m"
+    },
+    {
+      "brand": "元气寿司(北京荟聚店)",
+      "address": "西红门镇欣宁街15号院北京荟聚购物中心2F层6-02-22-R",
+      "distance": "7m"
+    },
+    {
+      "brand": "渔村岁月海鲜大馅蒸饺(城市集市北京荟聚店)",
+      "address": "北京城区荟聚商场3层",
+      "distance": "8m"
+    },
+    {
+      "brand": "冒泡小火锅(大兴荟聚店)",
+      "address": "欣宁街15号院北京荟聚购物中心4F层",
+      "distance": "10m"
+    },
+    {
+      "brand": "HOT CRUSH趁热集合·现烤面包(北京荟聚)",
+      "address": "北京城区欣宁街15号院1号楼1层01F21(东2门入口同仁堂旁)",
+      "distance": "12m"
+    },
+    {
+      "brand": "8Blue(北京荟聚店)",
+      "address": "欣宁街15号院北京荟聚购物中心1F层",
+      "distance": "12m"
+    },
+    {
+      "brand": "灰小鸭咖啡(北京荟聚店)",
+      "address": "欣宁街15号院1号楼荟聚购物中心4层04F02",
+      "distance": "15m"
+    },
+    {
+      "brand": "Tamkoko泰柯茶园(城市集市北京荟聚店)",
+      "address": "西红门地区北京荟聚L3城市集市内A5铺",
+      "distance": "15m"
+    },
+    {
+      "brand": "费大厨辣椒炒肉(大兴荟聚店)",
+      "address": "欣宁街15号北京荟聚3F层(西红门地铁站出入口步行290米)",
+      "distance": "15m"
+    },
+    {
+      "brand": "城市集市",
+      "address": "欣宁街15号院北京荟聚购物中心3F层City-Mart",
+      "distance": "3m"
+    },
+    {
+      "brand": "椿田熟成茶行(北京荟聚店)",
+      "address": "荟聚3层椿田熟成茶行(猛古里对面)",
+      "distance": "5m"
+    },
+    {
+      "brand": "元气寿司(北京荟聚店)",
+      "address": "西红门镇欣宁街15号院北京荟聚购物中心2F层6-02-22-R",
+      "distance": "7m"
+    },
+    {
+      "brand": "渔村岁月海鲜大馅蒸饺(城市集市北京荟聚店)",
+      "address": "北京城区荟聚商场3层",
+      "distance": "8m"
+    },
+    {
+      "brand": "冒泡小火锅(大兴荟聚店)",
+      "address": "欣宁街15号院北京荟聚购物中心4F层",
+      "distance": "10m"
+    },
+    {
+      "brand": "HOT CRUSH趁热集合·现烤面包(北京荟聚)",
+      "address": "北京城区欣宁街15号院1号楼1层01F21(东2门入口同仁堂旁)",
+      "distance": "12m"
+    },
+    {
+      "brand": "8Blue(北京荟聚店)",
+      "address": "欣宁街15号院北京荟聚购物中心1F层",
+      "distance": "12m"
+    },
+    {
+      "brand": "灰小鸭咖啡(北京荟聚店)",
+      "address": "欣宁街15号院1号楼荟聚购物中心4层04F02",
+      "distance": "15m"
+    },
+    {
+      "brand": "Tamkoko泰柯茶园(城市集市北京荟聚店)",
+      "address": "西红门地区北京荟聚L3城市集市内A5铺",
+      "distance": "15m"
+    },
+    {
+      "brand": "费大厨辣椒炒肉(大兴荟聚店)",
+      "address": "欣宁街15号北京荟聚3F层(西红门地铁站出入口步行290米)",
+      "distance": "15m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "北京西红门新光界",
+      "open_date": "2022-12-24",
+      "area": "5.5万㎡",
+      "jun_daily_avg": "5.7万人次",
+      "weekday_avg": "4.5万人次",
+      "holiday_avg": "9万人次"
+    },
+    {
+      "name": "北京鸿坤广场购物中心",
+      "open_date": "2014-12-20",
+      "area": "14万㎡",
+      "jun_daily_avg": "2.3万人次",
+      "weekday_avg": "2.1万人次",
+      "holiday_avg": "2.8万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 181.0,
+      "within_1yr_pct": 21.0,
+      "1_3yr_pct": 30.4,
+      "over_3yr_pct": 48.6
+    },
+    {
+      "type": "购物",
+      "count": 316.0,
+      "within_1yr_pct": 10.8,
+      "1_3yr_pct": 37.0,
+      "over_3yr_pct": 52.2
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 23.0,
+      "within_1yr_pct": 8.7,
+      "1_3yr_pct": 43.5,
+      "over_3yr_pct": 47.8
+    },
+    {
+      "type": "教育培训",
+      "count": 7.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 42.9,
+      "over_3yr_pct": 57.1
+    },
+    {
+      "type": "酒店住宿",
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "生活服务",
+      "count": 33.0,
+      "within_1yr_pct": 9.1,
+      "1_3yr_pct": 36.4,
+      "over_3yr_pct": 54.5
+    },
+    {
+      "type": "运动健身",
+      "count": 5.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 40.0,
+      "over_3yr_pct": 60.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 21.0,
+      "within_1yr_pct": 14.3,
+      "1_3yr_pct": 38.1,
+      "over_3yr_pct": 47.6
+    }
+  ]
+}

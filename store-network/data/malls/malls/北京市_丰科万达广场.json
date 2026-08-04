@@ -1,0 +1,422 @@
+{
+  "name": "丰科万达广场",
+  "city": "北京市",
+  "address": "北京市丰台区丰科路6号院",
+  "lat": 39.825022,
+  "lng": 116.282928,
+  "overview": {
+    "score": 96.5,
+    "score_rank": "市内前30%",
+    "population_score": 66.6,
+    "area_score": 100.0,
+    "consumption_score": 60.0,
+    "industry_score": 96.6,
+    "annual_sales": "14",
+    "annual_sales_unit": "亿元",
+    "area_size_sqm": 14.0,
+    "open_date": "2016-12-01",
+    "operator": "珠海万达商业管理集团股份有限公司",
+    "brand": "万达",
+    "type": "美食型",
+    "floors": "B1-L6"
+  },
+  "traffic": {
+    "annual_daily": 7.16,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第11",
+    "jun_total": 317.3,
+    "jun_total_rank": "市内商场第10名",
+    "jun_daily_avg": 10.6,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第10名",
+    "weekday_avg": 10.3,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第6名",
+    "holiday_avg": 11.4,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第15名"
+  },
+  "population": {
+    "residential": {
+      "500m": 4100.0,
+      "1_5km": 13.1,
+      "3km": 37.1
+    },
+    "office": {
+      "500m": 4.4,
+      "1_5km": 18.0,
+      "3km": 29.0
+    },
+    "permanent": {
+      "500m": 1.4,
+      "1_5km": 14.4,
+      "3km": 38.0
+    }
+  },
+  "business": {
+    "competitors": 11.0,
+    "food": 433.0,
+    "shopping": 202.0,
+    "leisure": 31.0,
+    "education": 31.0,
+    "hotel": 34.0,
+    "services": 217.0,
+    "fitness": 36.0,
+    "auto": 32.0,
+    "total_stores": 637.0,
+    "old_store_3yr_pct": 45.0
+  },
+  "nearby_poi": {
+    "business": 2.0,
+    "community": 179.0,
+    "office": 99.0,
+    "school": 18.0,
+    "hospital": 42.0,
+    "transport": 9.0,
+    "scenic": 161.0
+  },
+  "demographics": {
+    "male_pct": 48.5,
+    "female_pct": null,
+    "education": {
+      "小学": 8.8,
+      "初中": 15.3,
+      "高中": 11.9,
+      "大专": 7.2,
+      "本科": 48.5,
+      "硕士": 6.9,
+      "博士": 1.4
+    },
+    "has_children_pct": 59.7,
+    "no_children_pct": 40.3
+  },
+  "scraped_at": "2026-08-01T04:25:39.224Z",
+  "nearby_restaurants": [
+    {
+      "brand": "杨铭宇黄焖鸡米饭(丰科万达广场店)",
+      "address": "万达金街(丰台科技园地铁站C东南口步行170米)",
+      "distance": "10m"
+    },
+    {
+      "brand": "鱼酷活鱼烤鱼(北京丰科万达店)",
+      "address": "北京城区丰科路6号院丰台万达广场室内步行街5F层5022、5023号商铺",
+      "distance": "11m"
+    },
+    {
+      "brand": "喜家德虾仁水饺(丰科万达店)",
+      "address": "看丹街道丰科路6号院万达广场(丰科店)F4层",
+      "distance": "13m"
+    },
+    {
+      "brand": "西塔老太太泥炉烤肉(北京丰科万达广场店)",
+      "address": "丰科路1号万达广场(北京丰科店)5F层",
+      "distance": "19m"
+    },
+    {
+      "brand": "正新鸡排(丰科万达店)",
+      "address": "看丹街道丰科路6号院6号楼1层2-107",
+      "distance": "20m"
+    },
+    {
+      "brand": "老北京冰糖葫芦(风味3北京恺运嘉源餐饮有限公司)",
+      "address": "丰科路1号万达广场北京丰科店6F层",
+      "distance": "25m"
+    },
+    {
+      "brand": "Yee3·三号椰(北京丰科万达店)",
+      "address": "北京城区丰科路6号院7幢-1层001-JY-B113号",
+      "distance": "25m"
+    },
+    {
+      "brand": "乐山钵钵鸡串",
+      "address": "汽车博物馆西路与五圈路交叉口西南160米",
+      "distance": "26m"
+    },
+    {
+      "brand": "野人先生现做冰淇淋(北京丰科万达店)",
+      "address": "北京城区丰科路6号院7栋-1层001-B1008号铺",
+      "distance": "26m"
+    },
+    {
+      "brand": "江边城外烤全鱼(丰科万达广场店)",
+      "address": "丰科路6号万达广场(北京丰科店)4F层4023-4025",
+      "distance": "26m"
+    },
+    {
+      "brand": "杨铭宇黄焖鸡米饭(丰科万达广场店)",
+      "address": "万达金街(丰台科技园地铁站C东南口步行170米)",
+      "distance": "10m"
+    },
+    {
+      "brand": "鱼酷活鱼烤鱼(北京丰科万达店)",
+      "address": "北京城区丰科路6号院丰台万达广场室内步行街5F层5022、5023号商铺",
+      "distance": "11m"
+    },
+    {
+      "brand": "喜家德虾仁水饺(丰科万达店)",
+      "address": "看丹街道丰科路6号院万达广场(丰科店)F4层",
+      "distance": "13m"
+    },
+    {
+      "brand": "西塔老太太泥炉烤肉(北京丰科万达广场店)",
+      "address": "丰科路1号万达广场(北京丰科店)5F层",
+      "distance": "19m"
+    },
+    {
+      "brand": "正新鸡排(丰科万达店)",
+      "address": "看丹街道丰科路6号院6号楼1层2-107",
+      "distance": "20m"
+    },
+    {
+      "brand": "老北京冰糖葫芦(风味3北京恺运嘉源餐饮有限公司)",
+      "address": "丰科路1号万达广场北京丰科店6F层",
+      "distance": "25m"
+    },
+    {
+      "brand": "Yee3·三号椰(北京丰科万达店)",
+      "address": "北京城区丰科路6号院7幢-1层001-JY-B113号",
+      "distance": "25m"
+    },
+    {
+      "brand": "乐山钵钵鸡串",
+      "address": "汽车博物馆西路与五圈路交叉口西南160米",
+      "distance": "26m"
+    },
+    {
+      "brand": "野人先生现做冰淇淋(北京丰科万达店)",
+      "address": "北京城区丰科路6号院7栋-1层001-B1008号铺",
+      "distance": "26m"
+    },
+    {
+      "brand": "江边城外烤全鱼(丰科万达广场店)",
+      "address": "丰科路6号万达广场(北京丰科店)4F层4023-4025",
+      "distance": "26m"
+    },
+    {
+      "brand": "杨铭宇黄焖鸡米饭(丰科万达广场店)",
+      "address": "万达金街(丰台科技园地铁站C东南口步行170米)",
+      "distance": "10m"
+    },
+    {
+      "brand": "鱼酷活鱼烤鱼(北京丰科万达店)",
+      "address": "北京城区丰科路6号院丰台万达广场室内步行街5F层5022、5023号商铺",
+      "distance": "11m"
+    },
+    {
+      "brand": "喜家德虾仁水饺(丰科万达店)",
+      "address": "看丹街道丰科路6号院万达广场(丰科店)F4层",
+      "distance": "13m"
+    },
+    {
+      "brand": "西塔老太太泥炉烤肉(北京丰科万达广场店)",
+      "address": "丰科路1号万达广场(北京丰科店)5F层",
+      "distance": "19m"
+    },
+    {
+      "brand": "正新鸡排(丰科万达店)",
+      "address": "看丹街道丰科路6号院6号楼1层2-107",
+      "distance": "20m"
+    },
+    {
+      "brand": "老北京冰糖葫芦(风味3北京恺运嘉源餐饮有限公司)",
+      "address": "丰科路1号万达广场北京丰科店6F层",
+      "distance": "25m"
+    },
+    {
+      "brand": "Yee3·三号椰(北京丰科万达店)",
+      "address": "北京城区丰科路6号院7幢-1层001-JY-B113号",
+      "distance": "25m"
+    },
+    {
+      "brand": "乐山钵钵鸡串",
+      "address": "汽车博物馆西路与五圈路交叉口西南160米",
+      "distance": "26m"
+    },
+    {
+      "brand": "野人先生现做冰淇淋(北京丰科万达店)",
+      "address": "北京城区丰科路6号院7栋-1层001-B1008号铺",
+      "distance": "26m"
+    },
+    {
+      "brand": "江边城外烤全鱼(丰科万达广场店)",
+      "address": "丰科路6号万达广场(北京丰科店)4F层4023-4025",
+      "distance": "26m"
+    },
+    {
+      "brand": "杨铭宇黄焖鸡米饭(丰科万达广场店)",
+      "address": "万达金街(丰台科技园地铁站C东南口步行170米)",
+      "distance": "10m"
+    },
+    {
+      "brand": "鱼酷活鱼烤鱼(北京丰科万达店)",
+      "address": "北京城区丰科路6号院丰台万达广场室内步行街5F层5022、5023号商铺",
+      "distance": "11m"
+    },
+    {
+      "brand": "喜家德虾仁水饺(丰科万达店)",
+      "address": "看丹街道丰科路6号院万达广场(丰科店)F4层",
+      "distance": "13m"
+    },
+    {
+      "brand": "西塔老太太泥炉烤肉(北京丰科万达广场店)",
+      "address": "丰科路1号万达广场(北京丰科店)5F层",
+      "distance": "19m"
+    },
+    {
+      "brand": "正新鸡排(丰科万达店)",
+      "address": "看丹街道丰科路6号院6号楼1层2-107",
+      "distance": "20m"
+    },
+    {
+      "brand": "老北京冰糖葫芦(风味3北京恺运嘉源餐饮有限公司)",
+      "address": "丰科路1号万达广场北京丰科店6F层",
+      "distance": "25m"
+    },
+    {
+      "brand": "Yee3·三号椰(北京丰科万达店)",
+      "address": "北京城区丰科路6号院7幢-1层001-JY-B113号",
+      "distance": "25m"
+    },
+    {
+      "brand": "乐山钵钵鸡串",
+      "address": "汽车博物馆西路与五圈路交叉口西南160米",
+      "distance": "26m"
+    },
+    {
+      "brand": "野人先生现做冰淇淋(北京丰科万达店)",
+      "address": "北京城区丰科路6号院7栋-1层001-B1008号铺",
+      "distance": "26m"
+    },
+    {
+      "brand": "江边城外烤全鱼(丰科万达广场店)",
+      "address": "丰科路6号万达广场(北京丰科店)4F层4023-4025",
+      "distance": "26m"
+    },
+    {
+      "brand": "杨铭宇黄焖鸡米饭(丰科万达广场店)",
+      "address": "万达金街(丰台科技园地铁站C东南口步行170米)",
+      "distance": "10m"
+    },
+    {
+      "brand": "鱼酷活鱼烤鱼(北京丰科万达店)",
+      "address": "北京城区丰科路6号院丰台万达广场室内步行街5F层5022、5023号商铺",
+      "distance": "11m"
+    },
+    {
+      "brand": "喜家德虾仁水饺(丰科万达店)",
+      "address": "看丹街道丰科路6号院万达广场(丰科店)F4层",
+      "distance": "13m"
+    },
+    {
+      "brand": "西塔老太太泥炉烤肉(北京丰科万达广场店)",
+      "address": "丰科路1号万达广场(北京丰科店)5F层",
+      "distance": "19m"
+    },
+    {
+      "brand": "正新鸡排(丰科万达店)",
+      "address": "看丹街道丰科路6号院6号楼1层2-107",
+      "distance": "20m"
+    },
+    {
+      "brand": "老北京冰糖葫芦(风味3北京恺运嘉源餐饮有限公司)",
+      "address": "丰科路1号万达广场北京丰科店6F层",
+      "distance": "25m"
+    },
+    {
+      "brand": "Yee3·三号椰(北京丰科万达店)",
+      "address": "北京城区丰科路6号院7幢-1层001-JY-B113号",
+      "distance": "25m"
+    },
+    {
+      "brand": "乐山钵钵鸡串",
+      "address": "汽车博物馆西路与五圈路交叉口西南160米",
+      "distance": "26m"
+    },
+    {
+      "brand": "野人先生现做冰淇淋(北京丰科万达店)",
+      "address": "北京城区丰科路6号院7栋-1层001-B1008号铺",
+      "distance": "26m"
+    },
+    {
+      "brand": "江边城外烤全鱼(丰科万达广场店)",
+      "address": "丰科路6号万达广场(北京丰科店)4F层4023-4025",
+      "distance": "26m"
+    }
+  ],
+  "nearby_malls": [
+    {
+      "name": "北京鑫嘉汇购物中心",
+      "open_date": "2025-10-01",
+      "area": "1.5万㎡",
+      "jun_daily_avg": "2.6万人次",
+      "weekday_avg": "2.5万人次",
+      "holiday_avg": "2.8万人次"
+    },
+    {
+      "name": "北京欧尚超市(科兴店)",
+      "open_date": "2007-12-28",
+      "area": "3.2万㎡",
+      "jun_daily_avg": "1.8万人次",
+      "weekday_avg": "1.7万人次",
+      "holiday_avg": "2.1万人次"
+    }
+  ],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 254.0,
+      "within_1yr_pct": 25.6,
+      "1_3yr_pct": 29.1,
+      "over_3yr_pct": 45.3
+    },
+    {
+      "type": "购物",
+      "count": 145.0,
+      "within_1yr_pct": 13.8,
+      "1_3yr_pct": 26.2,
+      "over_3yr_pct": 60.0
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 28.0,
+      "within_1yr_pct": 21.4,
+      "1_3yr_pct": 35.7,
+      "over_3yr_pct": 42.9
+    },
+    {
+      "type": "教育培训",
+      "count": 21.0,
+      "within_1yr_pct": 28.6,
+      "1_3yr_pct": 47.6,
+      "over_3yr_pct": 23.8
+    },
+    {
+      "type": "酒店住宿",
+      "count": 3.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "生活服务",
+      "count": 157.0,
+      "within_1yr_pct": 20.4,
+      "1_3yr_pct": 41.4,
+      "over_3yr_pct": 38.2
+    },
+    {
+      "type": "运动健身",
+      "count": 14.0,
+      "within_1yr_pct": 42.9,
+      "1_3yr_pct": 28.6,
+      "over_3yr_pct": 28.6
+    },
+    {
+      "type": "车辆服务",
+      "count": 15.0,
+      "within_1yr_pct": 6.7,
+      "1_3yr_pct": 66.7,
+      "over_3yr_pct": 26.7
+    }
+  ]
+}

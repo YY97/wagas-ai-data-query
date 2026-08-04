@@ -1,0 +1,154 @@
+{
+  "name": "百联西郊购物中心",
+  "city": "上海市",
+  "address": "上海市长宁区仙霞西路88号",
+  "lat": 31.209053,
+  "lng": 121.370137,
+  "overview": {
+    "score": 94.3,
+    "score_rank": "市内前30%",
+    "population_score": 92.2,
+    "area_score": 72.9,
+    "consumption_score": 77.4,
+    "industry_score": 94.5,
+    "annual_sales": "上海百联西郊购物中心是中国第一个开放式社区型购物中心，也是全国社区购物中心的典范。项目总体量11万平方米，商业部分近7万平方米，以服务周边社区居民为主要理念进行开发建设、经营。",
+    "annual_sales_unit": "-",
+    "area_size_sqm": 11.0,
+    "open_date": "2004-12-01",
+    "operator": "上海百联集团股份有限公司",
+    "brand": "百联",
+    "type": "综合型",
+    "floors": "B2-L5"
+  },
+  "traffic": {
+    "annual_daily": 2.05,
+    "annual_daily_unit": "万人次",
+    "annual_daily_rank": "市内第134",
+    "jun_total": 96.4,
+    "jun_total_rank": "市内商场第130名",
+    "jun_daily_avg": 3.2,
+    "jun_daily_unit": "万人次",
+    "jun_daily_rank": "市内商场第130名",
+    "weekday_avg": 2.9,
+    "weekday_unit": "万人次",
+    "weekday_rank": "市内商场第131名",
+    "holiday_avg": 4.0,
+    "holiday_unit": "万人次",
+    "holiday_rank": "市内商场第119名"
+  },
+  "population": {
+    "residential": {
+      "500m": 2.7,
+      "1_5km": 19.1,
+      "3km": 52.4
+    },
+    "office": {
+      "500m": 1.2,
+      "1_5km": 9.1,
+      "3km": 41.7
+    },
+    "permanent": {
+      "500m": 3.0,
+      "1_5km": 20.1,
+      "3km": 55.6
+    }
+  },
+  "business": {
+    "competitors": 3.0,
+    "food": 107.0,
+    "shopping": 120.0,
+    "leisure": 17.0,
+    "education": 13.0,
+    "hotel": 7.0,
+    "services": 99.0,
+    "fitness": 14.0,
+    "auto": 12.0,
+    "total_stores": 151.0,
+    "old_store_3yr_pct": 62.0
+  },
+  "nearby_poi": {
+    "business": 4.0,
+    "community": 412.0,
+    "office": 29.0,
+    "school": 38.0,
+    "hospital": 68.0,
+    "transport": 10.0,
+    "scenic": 204.0
+  },
+  "demographics": {
+    "male_pct": 45.8,
+    "female_pct": null,
+    "education": {
+      "小学": 9.3,
+      "初中": 16.9,
+      "高中": 10.9,
+      "大专": 7.5,
+      "本科": 48.7,
+      "硕士": 5.1,
+      "博士": 1.6
+    },
+    "has_children_pct": 63.5,
+    "no_children_pct": 36.5
+  },
+  "scraped_at": "2026-08-01T05:36:38.185Z",
+  "nearby_restaurants": [],
+  "nearby_malls": [],
+  "business_survival": [
+    {
+      "type": "餐饮",
+      "count": 64.0,
+      "within_1yr_pct": 9.4,
+      "1_3yr_pct": 21.9,
+      "over_3yr_pct": 68.8
+    },
+    {
+      "type": "购物",
+      "count": 40.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 12.5,
+      "over_3yr_pct": 62.5
+    },
+    {
+      "type": "休闲娱乐",
+      "count": 10.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 40.0,
+      "over_3yr_pct": 40.0
+    },
+    {
+      "type": "教育培训",
+      "count": 9.0,
+      "within_1yr_pct": 33.3,
+      "1_3yr_pct": 55.6,
+      "over_3yr_pct": 11.1
+    },
+    {
+      "type": "酒店住宿",
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
+    },
+    {
+      "type": "生活服务",
+      "count": 14.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 14.3,
+      "over_3yr_pct": 85.7
+    },
+    {
+      "type": "运动健身",
+      "count": 8.0,
+      "within_1yr_pct": 12.5,
+      "1_3yr_pct": 37.5,
+      "over_3yr_pct": 50.0
+    },
+    {
+      "type": "车辆服务",
+      "count": 5.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 20.0,
+      "over_3yr_pct": 80.0
+    }
+  ]
+}
