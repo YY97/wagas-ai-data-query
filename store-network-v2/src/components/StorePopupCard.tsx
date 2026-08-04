@@ -330,7 +330,7 @@ export default function StorePopupCard({
 
           const handleMallClick = (mall: typeof nearbyMalls[0]) => {
             const safeName = `${mall.city}_${mall.name}`.replace(/[\\/:*?"<>|#]/g, '_');
-            fetch(`/data/malls/${encodeURIComponent(safeName)}.json`)
+            fetch(`${import.meta.env.BASE_URL}data/malls/${encodeURIComponent(safeName)}.json`)
               .then(r => r.json())
               .then(detail => onSelectMall(detail))
               .catch(console.warn);
