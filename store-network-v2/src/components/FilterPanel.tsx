@@ -288,6 +288,7 @@ export default function FilterPanel() {
         <ToggleItem label="按销售额着色" checked={layers.colorByAds} onChange={v => setLayer('colorByAds', v)} />
         <ToggleItem label="配送范围对比" checked={layers.showDeliveryContour} onChange={v => setLayer('showDeliveryContour', v)} />
         <ToggleItem label="竞品门店" checked={layers.showCompetitors} onChange={v => setLayer('showCompetitors', v)} />
+        <ToggleItem label="商场标记" checked={layers.showMalls} onChange={v => setLayer('showMalls', v)} />
         {layers.showCompetitors && (
           <div style={{ paddingLeft: '10px', marginTop: '2px' }}>
             <ToggleItem label="焦点模式（底图置灰）" checked={layers.competitorFocus} onChange={v => setLayer('competitorFocus', v)} />
