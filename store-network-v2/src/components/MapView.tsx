@@ -334,7 +334,7 @@ export default function MapView({ selectedSite, onSiteSelect }: MapViewProps) {
         {heatPoints.length > 0 && <HeatmapLayer points={heatPoints} />}
         {topLocMarkers.length > 0 && <TopLocationMarkers locations={topLocMarkers} />}
 
-        <MallLayer onSelectMall={(mall) => setSelectedMall(mall)} />
+        {layers.showMalls && <MallLayer onSelectMall={(mall) => setSelectedMall(mall)} />}
 
         <PopupFollow store={selectedStore} visible={popupVisible}
           onClose={() => setPopupVisible(false)} showDelivery={showDelivery}
