@@ -7,20 +7,26 @@ import type { MallIndexItem, MallDetail } from '../types';
 // 商场统一用紫色，与门店(蓝绿橙红)/圈层(蓝绿)/高亮(红)区分
 const MALL_COLOR = '#8b5cf6';
 
+// 商场建筑 SVG 图标
 function createMallIcon(): L.DivIcon {
-  const size = 24;
+  const size = 28;
   const svg = `
-    <svg width="${size}" height="${size * 1.3}" viewBox="0 0 24 31" xmlns="http://www.w3.org/2000/svg">
-      <path d="M12 0C5.373 0 0 5.373 0 12c0 7.2 12 19 12 19s12-11.8 12-19C24 5.373 18.627 0 12 0z" fill="${MALL_COLOR}" stroke="#fff" stroke-width="1.5"/>
-      <circle cx="12" cy="10" r="4" fill="#fff" opacity="0.9"/>
-      <text x="12" y="13" text-anchor="middle" font-size="7" font-weight="700" fill="${MALL_COLOR}">M</text>
+    <svg width="${size}" height="${size}" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <path d="M3 21V7L8 4V21" stroke="${MALL_COLOR}" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M8 21V4L16 8V21" stroke="${MALL_COLOR}" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M16 21V8L21 11V21" stroke="${MALL_COLOR}" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M3 21H21" stroke="${MALL_COLOR}" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M10 12H11" stroke="${MALL_COLOR}" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M10 16H11" stroke="${MALL_COLOR}" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M18 14H19" stroke="${MALL_COLOR}" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M18 18H19" stroke="${MALL_COLOR}" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
     </svg>`;
   return L.divIcon({
     className: '',
-    html: svg,
-    iconSize: [size, size * 1.3],
-    iconAnchor: [size / 2, size * 1.3],
-    popupAnchor: [0, -(size * 1.3)],
+    html: `<div style="background:#fff;border-radius:50%;width:${size}px;height:${size}px;display:flex;align-items:center;justify-content:center;box-shadow:0 2px 6px rgba(0,0,0,0.3);border:2px solid ${MALL_COLOR};">${svg}</div>`,
+    iconSize: [size, size],
+    iconAnchor: [size / 2, size / 2],
+    popupAnchor: [0, -size / 2],
   });
 }
 
