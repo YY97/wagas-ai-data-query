@@ -205,6 +205,10 @@ export interface MallDetail {
     transport: number | null;
     scenic: number | null;
   };
+  nearby_communities?: NearbyCommunity[];
+  avg_housing_price?: number;
+  total_households?: number;
+  community_count?: number;
   nearby_malls: NearbyMallItem[];
   nearby_restaurants: NearbyRestaurantItem[];
   business_survival: BusinessSurvivalItem[];
@@ -232,4 +236,11 @@ export interface BusinessSurvivalItem {
   within_1yr_pct: number;
   '1_3yr_pct': number;
   over_3yr_pct: number;
+}
+
+export interface NearbyCommunity {
+  name: string;
+  households: number | null;
+  residents: string | null;
+  year: string | null;
 }

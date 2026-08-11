@@ -22,6 +22,7 @@ export interface LayerToggles {
 
   competitorFocus: boolean;
   showMalls: boolean;
+  mallSearch: string;
 
   // 选址模式
 
@@ -141,6 +142,7 @@ const defaultLayers: LayerToggles = {
 
   competitorFocus: false,
   showMalls: true,
+  mallSearch: '',
 
   // 选址模式默认关闭
 

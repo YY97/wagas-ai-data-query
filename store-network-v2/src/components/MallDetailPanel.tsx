@@ -244,6 +244,54 @@ export default function MallDetailPanel({
           </div>
         </div>
 
+        {/* 周边小区明细 */}
+        {mall.nearby_communities && mall.nearby_communities.length > 0 && (
+          <div style={{ ...sectionBase, background: '#fef2f2', borderLeft: '3px solid #dc2626', marginTop: '8px' }}>
+            <div style={{ fontWeight: 700, color: '#991b1b', marginBottom: '4px' }}>
+              周边小区 ({mall.community_count || mall.nearby_communities.length}个)
+              {mall.avg_housing_price && (
+                <span style={{ marginLeft: '8px', fontSize: '11px', color: '#b91c1c' }}>
+                  均价 {mall.avg_housing_price.toLocaleString()} 元/㎡
+                </span>
+              )}
+              {mall.total_households && (
+                <span style={{ marginLeft: '8px', fontSize: '10px', color: '#9ca3af' }}>
+                  总户数 {mall.total_households.toLocaleString()}
+                </span>
+              )}
+            </div>
+            <div style={{ fontSize: '10px', maxHeight: '220px', overflowY: 'auto' }}>
+              <table style={{ width: '100%', borderCollapse: 'collapse' }}>
+                <thead>
+                  <tr style={{ color: '#991b1b', borderBottom: '1px solid #fecaca', fontSize: '9px' }}>
+                    <th style={{ textAlign: 'left', padding: '2px 0' }}>小区名</th>
+                    <th style={{ textAlign: 'right', padding: '2px 2px', width: '40px' }}>户数</th>
+                    <th style={{ textAlign: 'right', padding: '2px 2px', width: '40px' }}>人口</th>
+                    <th style={{ textAlign: 'right', padding: '2px 0', width: '36px' }}>年份</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  {mall.nearby_communities.slice(0, 100).map((c, i) => (
+                    <tr key={i} style={{ borderBottom: '1px solid #fee2e2' }}>
+                      <td style={{ padding: '1px 0', fontWeight: 500 }}>{c.name}</td>
+                      <td style={{ padding: '1px 2px', textAlign: 'right' }}>{c.households ?? '-'}</td>
+                      <td style={{ padding: '1px 2px', textAlign: 'right' }}>{c.residents ?? '-'}</td>
+                      <td style={{ padding: '1px 0', textAlign: 'right', color: c.year && c.year !== '-' ? '#065f46' : '#9ca3af' }}>
+                        {c.year === '-' ? '-' : c.year}
+                      </td>
+                    </tr>
+                  ))}
+                </tbody>
+              </table>
+              {mall.nearby_communities.length > 100 && (
+                <div style={{ textAlign: 'center', color: '#9ca3af', marginTop: '4px', fontSize: '9px' }}>
+                  仅展示前100个，共 {mall.nearby_communities.length} 个小区
+                </div>
+              )}
+            </div>
+          </div>
+        )}
+
         {/* Nearby malls */}
         {mall.nearby_malls.length > 0 && (
           <div style={{ ...sectionBase, background: '#fff7ed', borderLeft: '3px solid #ea580c', marginTop: '8px' }}>

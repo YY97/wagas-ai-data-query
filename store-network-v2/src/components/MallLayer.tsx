@@ -32,7 +32,15 @@ function createMallIcon(): L.DivIcon {
 
 export default function MallLayer({ onSelectMall }: { onSelectMall: (mall: MallDetail) => void }) {
   const mallIndex = useAppStore(s => s.mallIndex);
+  const mallSearch = useAppStore(s => s.layers.mallSearch);
   const map = useMap();
+
+  // Filter by mall name (fuzzy)
+  const filteredMalls = useMemo(() => {
+    if (!mallSearch.trim()) return mallIndex;
+    const q = mallSearch.trim().toLowerCase();
+    return mallIndex.filter(m => m.name.toLowerCase().includes(q) || m.city.toLowerCase().includes(q));
+  }, [mallIndex, mallSearch]);
   const [loading, setLoading] = useState(false);
 
   // Load index on mount
@@ -71,7 +79,7 @@ export default function MallLayer({ onSelectMall }: { onSelectMall: (mall: MallD
 
   return (
     <>
-      {mallIndex.map(mall => {
+      {filteredMalls.map(mall => {
         if (mall.lat == null || mall.lng == null) return null;
         return (
           <Marker
