@@ -1,5 +1,6 @@
-import { useState, useRef, useEffect } from 'react';
+import { useState, useRef, useEffect, useMemo } from 'react';
 import { useAppStore } from '../store';
+import type { MallIndexItem } from '../types';
 
 const selectStyle: React.CSSProperties = {
   width: '100%', padding: '6px 8px', borderRadius: '6px',
@@ -116,6 +117,46 @@ function MultiSelect({
   );
 }
 
+// Mall search with autocomplete dropdown
+function MallSearch({ mallIndex: malls, onSelect }: { mallIndex: MallIndexItem[]; onSelect: (mall: MallIndexItem) => void }) {
+  const [q, setQ] = useState('');
+  const [open, setOpen] = useState(false);
+  const ref = useRef<HTMLDivElement>(null);
+  const matches = useMemo(() => {
+    if (!q.trim()) return [];
+    const lower = q.trim().toLowerCase();
+    return malls.filter(m => m.name.toLowerCase().includes(lower)).slice(0, 8);
+  }, [malls, q]);
+  useEffect(() => {
+    const h = (e: MouseEvent) => { if (ref.current && !ref.current.contains(e.target as Node)) setOpen(false); };
+    document.addEventListener('mousedown', h);
+    return () => document.removeEventListener('mousedown', h);
+  }, []);
+  return (
+    <div ref={ref} style={{ position: 'relative', marginBottom: '8px' }}>
+      <input type="text" placeholder="商场搜索（输入后选择）..." value={q}
+        onChange={e => { setQ(e.target.value); setOpen(true); }}
+        onFocus={() => setOpen(true)}
+        style={{ ...selectStyle, fontSize: '12px', padding: '6px 8px' }} />
+      {open && matches.length > 0 && (
+        <div style={{ position: 'absolute', top: '100%', left: 0, right: 0, zIndex: 9999,
+          background: '#fff', border: '1px solid #e2e8f0', borderRadius: '0 0 6px 6px',
+          maxHeight: '240px', overflowY: 'auto', boxShadow: '0 4px 12px rgba(0,0,0,0.1)' }}>
+          {matches.map(m => (
+            <div key={`${m.city}_${m.name}`} onClick={() => { setQ(''); setOpen(false); onSelect(m); }}
+              style={{ padding: '6px 8px', cursor: 'pointer', fontSize: '11px', color: '#1e293b', borderBottom: '1px solid #f1f5f9' }}
+              onMouseEnter={e => (e.currentTarget.style.background = '#f8fafc')}
+              onMouseLeave={e => (e.currentTarget.style.background = '#fff')} >
+              <div style={{ fontWeight: 600 }}>{m.name}</div>
+              <div style={{ fontSize: '10px', color: '#64748b' }}>{m.city} · 评分{m.score ?? '-'} · {m.type}</div>
+            </div>
+          ))}
+        </div>
+      )}
+    </div>
+  );
+}
+
 // 图层开关
 function ToggleItem({ label, checked, onChange }: { label: string; checked: boolean; onChange: (v: boolean) => void }) {
   return (
@@ -153,7 +194,7 @@ const COMPETITOR_COLORS: Record<string, string> = {
 };
 
 export default function FilterPanel() {
-  const { stores, filters, setFilter, layers, setLayer, dateRange, allDates, setDateRange, setShowHelp, competitors, competitorBrands, setCompetitorBrand } = useAppStore();
+  const { stores, filters, setFilter, layers, setLayer, dateRange, allDates, setDateRange, setShowHelp, competitors, competitorBrands, setCompetitorBrand, mallIndex } = useAppStore();
 
   // === 联动筛选 ===
   // 先按城市过滤，计算可用品牌（带计数）
@@ -277,16 +318,14 @@ export default function FilterPanel() {
         <MultiSelect label="Store ID(多选)" items={storeIdItems} selected={filters.storeIds}
           onChange={v => setFilter('storeIds', v)} />
         {layers.showMalls && (
-          <input
-            type="text"
-            placeholder="商场搜索（模糊匹配）..."
-            value={layers.mallSearch || ''}
-            onChange={e => setLayer('mallSearch', e.target.value)}
-            style={{
-              ...selectStyle, marginTop: '4px', marginBottom: '4px', fontSize: '12px',
-              padding: '6px 8px',
-            }}
-          />
+          <MallSearch mallIndex={mallIndex} onSelect={(mall) => {
+            setLayer('mallSearch', mall.name);
+            // Fly to mall location
+            const mapEl = document.querySelector('.leaflet-container') as any;
+            if (mapEl && mapEl._leaflet_map) {
+              mapEl._leaflet_map.flyTo([mall.lat, mall.lng], 16);
+            }
+          }} />
         )}
       </div>
 
