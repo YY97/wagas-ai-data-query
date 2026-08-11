@@ -9,11 +9,11 @@
     "score_rank": "市内前30%",
     "population_score": 62.2,
     "area_score": 62.6,
-    "consumption_score": 60,
+    "consumption_score": 60.0,
     "industry_score": 86.7,
     "annual_sales": "",
     "annual_sales_unit": "",
-    "area_size_sqm": 4,
+    "area_size_sqm": 4.0,
     "open_date": "2024-11-29",
     "operator": "万芊荟（上海）商业管理有限公司",
     "brand": "",
@@ -38,45 +38,45 @@
   },
   "population": {
     "residential": {
-      "500m": 1400,
+      "500m": 1400.0,
       "1_5km": 3.9,
       "3km": 8.9
     },
     "office": {
-      "500m": 4800,
+      "500m": 4800.0,
       "1_5km": 2.7,
       "3km": 6.1
     },
     "permanent": {
-      "500m": 3300,
-      "1_5km": 3,
+      "500m": 3300.0,
+      "1_5km": 3.0,
       "3km": 6.3
     }
   },
   "business": {
-    "competitors": 2,
-    "food": 49,
-    "shopping": 20,
-    "leisure": 3,
+    "competitors": 2.0,
+    "food": 49.0,
+    "shopping": 20.0,
+    "leisure": 3.0,
     "education": null,
-    "hotel": 4,
-    "services": 11,
-    "fitness": 3,
-    "auto": 1,
-    "total_stores": 40,
-    "old_store_3yr_pct": 0
+    "hotel": 4.0,
+    "services": 11.0,
+    "fitness": 3.0,
+    "auto": 1.0,
+    "total_stores": 40.0,
+    "old_store_3yr_pct": 0.0
   },
   "nearby_poi": {
     "business": null,
-    "community": 15,
-    "office": 1,
-    "school": 4,
-    "hospital": 4,
-    "transport": 2,
-    "scenic": 3
+    "community": 15.0,
+    "office": 1.0,
+    "school": 4.0,
+    "hospital": 4.0,
+    "transport": 2.0,
+    "scenic": 3.0
   },
   "demographics": {
-    "male_pct": 53,
+    "male_pct": 53.0,
     "female_pct": null,
     "education": {
       "小学": 12.3,
@@ -85,7 +85,7 @@
       "大专": 6.7,
       "本科": 41.7,
       "硕士": 1.9,
-      "博士": 1
+      "博士": 1.0
     },
     "has_children_pct": 58.7,
     "no_children_pct": 41.3
@@ -347,146 +347,38 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 21,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 100,
-      "over_3yr_pct": 0
+      "count": 21.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
     },
     {
       "type": "购物",
-      "count": 9,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 100,
-      "over_3yr_pct": 0
+      "count": 9.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
     },
     {
       "type": "休闲娱乐",
-      "count": 3,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 100,
-      "over_3yr_pct": 0
+      "count": 3.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
     },
     {
       "type": "生活服务",
-      "count": 5,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 100,
-      "over_3yr_pct": 0
+      "count": 5.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
     },
     {
       "type": "运动健身",
-      "count": 2,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 100,
-      "over_3yr_pct": 0
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
     }
-  ],
-  "nearby_communities": [
-    {
-      "name": "上海长兴阳光天地",
-      "households": 212,
-      "residents": "140+",
-      "year": "-",
-      "raw": "上海长兴阳光天地 户数:212 居住人数:140+ 建筑年份:-"
-    },
-    {
-      "name": "东部生活区",
-      "households": 2332,
-      "residents": "4456",
-      "year": "-",
-      "raw": "东部生活区 户数:2332 居住人数:4456 建筑年份:-"
-    },
-    {
-      "name": "幸筑华庭-南苑",
-      "households": 918,
-      "residents": "4736",
-      "year": "2018",
-      "raw": "幸筑华庭-南苑 户数:918 居住人数:4736 建筑年份:2018-05"
-    },
-    {
-      "name": "城投宽庭泊湾社区",
-      "households": 377,
-      "residents": "2209",
-      "year": "-",
-      "raw": "城投宽庭泊湾社区 户数:377 居住人数:2209 建筑年份:-"
-    },
-    {
-      "name": "幸筑华庭-北苑",
-      "households": 1134,
-      "residents": "6911",
-      "year": "-",
-      "raw": "幸筑华庭-北苑 户数:1134 居住人数:6911 建筑年份:-"
-    },
-    {
-      "name": "中南江山美宸",
-      "households": 415,
-      "residents": "1672",
-      "year": "2019",
-      "raw": "中南江山美宸 户数:415 居住人数:1672 建筑年份:2019"
-    },
-    {
-      "name": "长兴北庭-82弄",
-      "households": 1138,
-      "residents": "5449",
-      "year": "2012",
-      "raw": "长兴北庭-82弄 户数:1138 居住人数:5449 建筑年份:2012"
-    },
-    {
-      "name": "长兴北庭83弄",
-      "households": 1014,
-      "residents": "5641",
-      "year": "2018",
-      "raw": "长兴北庭83弄 户数:1014 居住人数:5641 建筑年份:2018"
-    },
-    {
-      "name": "东方渔港家园",
-      "households": 1546,
-      "residents": "8063",
-      "year": "2018",
-      "raw": "东方渔港家园 户数:1546 居住人数:8063 建筑年份:2018"
-    },
-    {
-      "name": "江南清水苑-西苑",
-      "households": 514,
-      "residents": "3265",
-      "year": "2006",
-      "raw": "江南清水苑-西苑 户数:514 居住人数:3265 建筑年份:2006"
-    },
-    {
-      "name": "恒俪景苑",
-      "households": 1372,
-      "residents": "7735",
-      "year": "2017",
-      "raw": "恒俪景苑 户数:1372 居住人数:7735 建筑年份:2017"
-    },
-    {
-      "name": "江南清水苑东苑",
-      "households": 1040,
-      "residents": "2837",
-      "year": "2006",
-      "raw": "江南清水苑东苑 户数:1040 居住人数:2837 建筑年份:2006"
-    },
-    {
-      "name": "长兴岛渔港公寓",
-      "households": 32,
-      "residents": null,
-      "year": "-",
-      "raw": "长兴岛渔港公寓 户数:32 居住人数:小于100 建筑年份:-"
-    },
-    {
-      "name": "江南船厂西部生活区",
-      "households": 973,
-      "residents": "9708",
-      "year": "-",
-      "raw": "江南船厂西部生活区 户数:973 居住人数:9708 建筑年份:-"
-    },
-    {
-      "name": "新建小区",
-      "households": 2068,
-      "residents": "15923",
-      "year": "-",
-      "raw": "新建小区 户数:2068 居住人数:15923 建筑年份:-"
-    }
-  ],
-  "community_count": 15
+  ]
 }

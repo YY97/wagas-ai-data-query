@@ -13,7 +13,7 @@
     "industry_score": 96.5,
     "annual_sales": "30",
     "annual_sales_unit": "亿元",
-    "area_size_sqm": 12,
+    "area_size_sqm": 12.0,
     "open_date": "2000-09-01",
     "operator": "北京东方广场有限公司",
     "brand": "长江地产",
@@ -43,40 +43,40 @@
       "3km": 57.1
     },
     "office": {
-      "500m": 4,
+      "500m": 4.0,
       "1_5km": 20.6,
       "3km": 59.8
     },
     "permanent": {
       "500m": 3.1,
       "1_5km": 21.7,
-      "3km": 69
+      "3km": 69.0
     }
   },
   "business": {
-    "competitors": 13,
-    "food": 357,
-    "shopping": 407,
-    "leisure": 23,
-    "education": 6,
-    "hotel": 39,
-    "services": 106,
-    "fitness": 18,
-    "auto": 16,
-    "total_stores": 354,
-    "old_store_3yr_pct": 56
+    "competitors": 13.0,
+    "food": 357.0,
+    "shopping": 407.0,
+    "leisure": 23.0,
+    "education": 6.0,
+    "hotel": 39.0,
+    "services": 106.0,
+    "fitness": 18.0,
+    "auto": 16.0,
+    "total_stores": 354.0,
+    "old_store_3yr_pct": 56.0
   },
   "nearby_poi": {
-    "business": 14,
-    "community": 314,
-    "office": 83,
-    "school": 40,
-    "hospital": 119,
-    "transport": 10,
-    "scenic": 1019
+    "business": 14.0,
+    "community": 314.0,
+    "office": 83.0,
+    "school": 40.0,
+    "hospital": 119.0,
+    "transport": 10.0,
+    "scenic": 1019.0
   },
   "demographics": {
-    "male_pct": 47,
+    "male_pct": 47.0,
     "female_pct": null,
     "education": {
       "小学": 10.4,
@@ -347,440 +347,59 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 110,
-      "within_1yr_pct": 20,
+      "count": 110.0,
+      "within_1yr_pct": 20.0,
       "1_3yr_pct": 22.7,
       "over_3yr_pct": 57.3
     },
     {
       "type": "购物",
-      "count": 154,
+      "count": 154.0,
       "within_1yr_pct": 14.3,
-      "1_3yr_pct": 24,
+      "1_3yr_pct": 24.0,
       "over_3yr_pct": 61.7
     },
     {
       "type": "休闲娱乐",
-      "count": 9,
+      "count": 9.0,
       "within_1yr_pct": 22.2,
       "1_3yr_pct": 33.3,
       "over_3yr_pct": 44.4
     },
     {
       "type": "教育培训",
-      "count": 2,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 50,
-      "over_3yr_pct": 50
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 50.0
     },
     {
       "type": "酒店住宿",
-      "count": 12,
-      "within_1yr_pct": 25,
+      "count": 12.0,
+      "within_1yr_pct": 25.0,
       "1_3yr_pct": 16.7,
       "over_3yr_pct": 58.3
     },
     {
       "type": "生活服务",
-      "count": 51,
+      "count": 51.0,
       "within_1yr_pct": 23.5,
       "1_3yr_pct": 33.3,
       "over_3yr_pct": 43.1
     },
     {
       "type": "运动健身",
-      "count": 4,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 75,
-      "over_3yr_pct": 25
+      "count": 4.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 75.0,
+      "over_3yr_pct": 25.0
     },
     {
       "type": "车辆服务",
-      "count": 12,
+      "count": 12.0,
       "within_1yr_pct": 16.7,
       "1_3yr_pct": 33.3,
-      "over_3yr_pct": 50
+      "over_3yr_pct": 50.0
     }
-  ],
-  "nearby_communities": [
-    {
-      "name": "杨园一村",
-      "households": 1109,
-      "residents": "5033",
-      "year": "1994",
-      "raw": "杨园一村 户数:1109 居住人数:5033 建筑年份:1994"
-    },
-    {
-      "name": "杨园新苑",
-      "households": 124,
-      "residents": "780+",
-      "year": "2007",
-      "raw": "杨园新苑 户数:124 居住人数:780+ 建筑年份:2007"
-    },
-    {
-      "name": "杨园四村-北区",
-      "households": 571,
-      "residents": "870+",
-      "year": "2003",
-      "raw": "杨园四村-北区 户数:571 居住人数:870+ 建筑年份:2003"
-    },
-    {
-      "name": "欣连苑社区",
-      "households": 375,
-      "residents": "1687",
-      "year": "2004",
-      "raw": "欣连苑社区 户数:375 居住人数:1687 建筑年份:2004"
-    },
-    {
-      "name": "杨园三村",
-      "households": 1050,
-      "residents": "3772",
-      "year": "1994",
-      "raw": "杨园三村 户数:1050 居住人数:3772 建筑年份:1994"
-    },
-    {
-      "name": "迪黎公寓",
-      "households": 27,
-      "residents": "440+",
-      "year": "-",
-      "raw": "迪黎公寓 户数:27 居住人数:440+ 建筑年份:-"
-    },
-    {
-      "name": "杨园二村",
-      "households": 1042,
-      "residents": "3441",
-      "year": "1996",
-      "raw": "杨园二村 户数:1042 居住人数:3441 建筑年份:1996"
-    },
-    {
-      "name": "杨园四村-南区",
-      "households": 384,
-      "residents": "1382",
-      "year": "1996",
-      "raw": "杨园四村-南区 户数:384 居住人数:1382 建筑年份:1996"
-    },
-    {
-      "name": "龙桥公寓房",
-      "households": 26,
-      "residents": "190+",
-      "year": "-",
-      "raw": "龙桥公寓房 户数:26 居住人数:190+ 建筑年份:-"
-    },
-    {
-      "name": "楼下佳苑",
-      "households": 1098,
-      "residents": "5214",
-      "year": "2015",
-      "raw": "楼下佳苑 户数:1098 居住人数:5214 建筑年份:2015"
-    },
-    {
-      "name": "杨园七村",
-      "households": 504,
-      "residents": "2138",
-      "year": "1994",
-      "raw": "杨园七村 户数:504 居住人数:2138 建筑年份:1994"
-    },
-    {
-      "name": "广盛佳苑",
-      "households": 884,
-      "residents": "4230",
-      "year": "2011",
-      "raw": "广盛佳苑 户数:884 居住人数:4230 建筑年份:2011"
-    },
-    {
-      "name": "楼夏景园",
-      "households": 969,
-      "residents": "4598",
-      "year": "2012",
-      "raw": "楼夏景园 户数:969 居住人数:4598 建筑年份:2012"
-    },
-    {
-      "name": "金纬东苑",
-      "households": 346,
-      "residents": "1734",
-      "year": "2004",
-      "raw": "金纬东苑 户数:346 居住人数:1734 建筑年份:2004"
-    },
-    {
-      "name": "欣杨景苑",
-      "households": 550,
-      "residents": "2598",
-      "year": "2015",
-      "raw": "欣杨景苑 户数:550 居住人数:2598 建筑年份:2015"
-    },
-    {
-      "name": "扬盛佳苑",
-      "households": 1176,
-      "residents": "5647",
-      "year": "2007",
-      "raw": "扬盛佳苑 户数:1176 居住人数:5647 建筑年份:2007"
-    },
-    {
-      "name": "金隆家园",
-      "households": 408,
-      "residents": "1717",
-      "year": "2007",
-      "raw": "金隆家园 户数:408 居住人数:1717 建筑年份:2007"
-    },
-    {
-      "name": "品欣雅苑",
-      "households": 2040,
-      "residents": "10419",
-      "year": "2014",
-      "raw": "品欣雅苑 户数:2040 居住人数:10419 建筑年份:2014"
-    },
-    {
-      "name": "外高桥新高职工宿舍",
-      "households": 27,
-      "residents": "270+",
-      "year": "-",
-      "raw": "外高桥新高职工宿舍 户数:27 居住人数:270+ 建筑年份:-"
-    },
-    {
-      "name": "杨园别墅",
-      "households": 240,
-      "residents": "1614",
-      "year": "2015",
-      "raw": "杨园别墅 户数:240 居住人数:1614 建筑年份:2015"
-    },
-    {
-      "name": "千秋嘉苑",
-      "households": 732,
-      "residents": "2659",
-      "year": "2003",
-      "raw": "千秋嘉苑 户数:732 居住人数:2659 建筑年份:2003"
-    },
-    {
-      "name": "绿杨家园",
-      "households": 1328,
-      "residents": "3966",
-      "year": "2023",
-      "raw": "绿杨家园 户数:1328 居住人数:3966 建筑年份:2023-07"
-    },
-    {
-      "name": "逸墅新苑",
-      "households": 104,
-      "residents": "730+",
-      "year": "2005",
-      "raw": "逸墅新苑 户数:104 居住人数:730+ 建筑年份:2005"
-    },
-    {
-      "name": "龙桥村叠桥宅",
-      "households": 792,
-      "residents": "510+",
-      "year": "-",
-      "raw": "龙桥村叠桥宅 户数:792 居住人数:510+ 建筑年份:-"
-    },
-    {
-      "name": "绿尚家园",
-      "households": 937,
-      "residents": "1050",
-      "year": "2024",
-      "raw": "绿尚家园 户数:937 居住人数:1050 建筑年份:2024-02"
-    },
-    {
-      "name": "东滨花苑-西区",
-      "households": 269,
-      "residents": "240+",
-      "year": "-",
-      "raw": "东滨花苑-西区 户数:269 居住人数:240+ 建筑年份:-"
-    },
-    {
-      "name": "东滨花苑-东区",
-      "households": 29,
-      "residents": "220+",
-      "year": "2002",
-      "raw": "东滨花苑-东区 户数:29 居住人数:220+ 建筑年份:2002"
-    },
-    {
-      "name": "王朱家宅",
-      "households": 311,
-      "residents": "890+",
-      "year": "-",
-      "raw": "王朱家宅 户数:311 居住人数:890+ 建筑年份:-"
-    },
-    {
-      "name": "乐嘉公寓",
-      "households": 13,
-      "residents": "260+",
-      "year": "-",
-      "raw": "乐嘉公寓 户数:13 居住人数:260+ 建筑年份:-"
-    },
-    {
-      "name": "高东馨苑",
-      "households": 1128,
-      "residents": "4611",
-      "year": "2007",
-      "raw": "高东馨苑 户数:1128 居住人数:4611 建筑年份:2007"
-    },
-    {
-      "name": "珊黄村苍头小",
-      "households": null,
-      "residents": null,
-      "year": "-",
-      "raw": "珊黄村苍头小 建筑年份:- 上海市浦东新区高东镇港建路2号临洲海路"
-    },
-    {
-      "name": "新发展11号园区-北区",
-      "households": 397,
-      "residents": null,
-      "year": "-",
-      "raw": "新发展11号园区-北区 户数:397 居住人数:小于100 建筑年份:-"
-    },
-    {
-      "name": "欣连佳苑",
-      "households": 552,
-      "residents": "2818",
-      "year": "2007",
-      "raw": "欣连佳苑 户数:552 居住人数:2818 建筑年份:2007"
-    },
-    {
-      "name": "龙腾阁",
-      "households": 192,
-      "residents": "400+",
-      "year": "2003",
-      "raw": "龙腾阁 户数:192 居住人数:400+ 建筑年份:2003"
-    },
-    {
-      "name": "外高桥珊黄职工公寓",
-      "households": 46,
-      "residents": "1168",
-      "year": "-",
-      "raw": "外高桥珊黄职工公寓 户数:46 居住人数:1168 建筑年份:-"
-    },
-    {
-      "name": "天邦家园",
-      "households": 72,
-      "residents": "550+",
-      "year": "2002",
-      "raw": "天邦家园 户数:72 居住人数:550+ 建筑年份:2002"
-    },
-    {
-      "name": "高东公寓",
-      "households": 141,
-      "residents": "1301",
-      "year": "-",
-      "raw": "高东公寓 户数:141 居住人数:1301 建筑年份:-"
-    },
-    {
-      "name": "腾飞白领公寓",
-      "households": 51,
-      "residents": "910+",
-      "year": "-",
-      "raw": "腾飞白领公寓 户数:51 居住人数:910+ 建筑年份:-"
-    },
-    {
-      "name": "紫翠苑",
-      "households": 562,
-      "residents": "4235",
-      "year": "2006",
-      "raw": "紫翠苑 户数:562 居住人数:4235 建筑年份:2006"
-    },
-    {
-      "name": "盛世东苑",
-      "households": 1102,
-      "residents": "4551",
-      "year": "2005",
-      "raw": "盛世东苑 户数:1102 居住人数:4551 建筑年份:2005"
-    },
-    {
-      "name": "高东光明路61弄",
-      "households": 126,
-      "residents": "400+",
-      "year": "1995",
-      "raw": "高东光明路61弄 户数:126 居住人数:400+ 建筑年份:1995"
-    },
-    {
-      "name": "紫翠·新行苑",
-      "households": 1190,
-      "residents": "1780",
-      "year": "2007",
-      "raw": "紫翠·新行苑 户数:1190 居住人数:1780 建筑年份:2007"
-    },
-    {
-      "name": "高行馨苑",
-      "households": 972,
-      "residents": "3856",
-      "year": "2005",
-      "raw": "高行馨苑 户数:972 居住人数:3856 建筑年份:2005"
-    },
-    {
-      "name": "乐乎有朋(新高苑店)",
-      "households": 33,
-      "residents": "250+",
-      "year": "-",
-      "raw": "乐乎有朋(新高苑店) 户数:33 居住人数:250+ 建筑年份:-"
-    },
-    {
-      "name": "宝佳苑",
-      "households": 2769,
-      "residents": "8991",
-      "year": "2009",
-      "raw": "宝佳苑 户数:2769 居住人数:8991 建筑年份:2009"
-    },
-    {
-      "name": "幸福小镇明丰绿都",
-      "households": 2955,
-      "residents": "9767",
-      "year": "2005",
-      "raw": "幸福小镇明丰绿都 户数:2955 居住人数:9767 建筑年份:2005"
-    },
-    {
-      "name": "新高苑兰园",
-      "households": 1731,
-      "residents": "5855",
-      "year": "2008",
-      "raw": "新高苑兰园 户数:1731 居住人数:5855 建筑年份:2008"
-    },
-    {
-      "name": "杨高北路1887弄小区",
-      "households": 148,
-      "residents": "580+",
-      "year": "-",
-      "raw": "杨高北路1887弄小区 户数:148 居住人数:580+ 建筑年份:-"
-    },
-    {
-      "name": "乐乎璞寓·无舍",
-      "households": 31,
-      "residents": "290+",
-      "year": "-",
-      "raw": "乐乎璞寓·无舍 户数:31 居住人数:290+ 建筑年份:-"
-    },
-    {
-      "name": "高行家园-东区",
-      "households": 941,
-      "residents": "4164",
-      "year": "2009",
-      "raw": "高行家园-东区 户数:941 居住人数:4164 建筑年份:2009"
-    },
-    {
-      "name": "森兰·万安里",
-      "households": 359,
-      "residents": null,
-      "year": "-",
-      "raw": "森兰·万安里 户数:359 居住人数:小于100 建筑年份:-"
-    },
-    {
-      "name": "金鼎·阅府-东区",
-      "households": 525,
-      "residents": "520+",
-      "year": "2025",
-      "raw": "金鼎·阅府-东区 户数:525 居住人数:520+ 建筑年份:2025-05"
-    },
-    {
-      "name": "高行家园-西区",
-      "households": 276,
-      "residents": "1051",
-      "year": "2009",
-      "raw": "高行家园-西区 户数:276 居住人数:1051 建筑年份:2009"
-    },
-    {
-      "name": "新高苑·春园",
-      "households": 1432,
-      "residents": "4429",
-      "year": "2006",
-      "raw": "新高苑·春园 户数:1432 居住人数:4429 建筑年份:2006"
-    }
-  ],
-  "community_count": 54
+  ]
 }

@@ -9,11 +9,11 @@
     "score_rank": "市内前30%",
     "population_score": 81.2,
     "area_score": 65.3,
-    "consumption_score": 60,
+    "consumption_score": 60.0,
     "industry_score": 92.1,
     "annual_sales": "乐尚天地生活广场是车墩地区集吃、喝、玩、乐、购为一体的生活服务配套旗舰，位于松江出口加工区、上海国际中心企业城、车墩镇的中心位置，覆盖人口超过30万",
     "annual_sales_unit": "-",
-    "area_size_sqm": 4,
+    "area_size_sqm": 4.0,
     "open_date": "2017-06-17",
     "operator": "开元旅业集团有限公司",
     "brand": "海伦堡商业集团",
@@ -43,7 +43,7 @@
       "3km": 23.1
     },
     "office": {
-      "500m": 8300,
+      "500m": 8300.0,
       "1_5km": 5.7,
       "3km": 19.2
     },
@@ -54,26 +54,26 @@
     }
   },
   "business": {
-    "competitors": 5,
-    "food": 79,
-    "shopping": 23,
-    "leisure": 6,
+    "competitors": 5.0,
+    "food": 79.0,
+    "shopping": 23.0,
+    "leisure": 6.0,
     "education": null,
-    "hotel": 5,
-    "services": 17,
-    "fitness": 1,
-    "auto": 2,
-    "total_stores": 90,
-    "old_store_3yr_pct": 67
+    "hotel": 5.0,
+    "services": 17.0,
+    "fitness": 1.0,
+    "auto": 2.0,
+    "total_stores": 90.0,
+    "old_store_3yr_pct": 67.0
   },
   "nearby_poi": {
     "business": null,
-    "community": 71,
-    "office": 24,
-    "school": 7,
-    "hospital": 5,
-    "transport": 2,
-    "scenic": 42
+    "community": 71.0,
+    "office": 24.0,
+    "school": 7.0,
+    "hospital": 5.0,
+    "transport": 2.0,
+    "scenic": 42.0
   },
   "demographics": {
     "male_pct": 54.6,
@@ -81,8 +81,8 @@
     "education": {
       "小学": 12.9,
       "初中": 23.5,
-      "高中": 14,
-      "大专": 10,
+      "高中": 14.0,
+      "大专": 10.0,
       "本科": 38.2,
       "硕士": 1.2,
       "博士": 0.2
@@ -142,552 +142,52 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 55,
+      "count": 55.0,
       "within_1yr_pct": 10.9,
-      "1_3yr_pct": 20,
+      "1_3yr_pct": 20.0,
       "over_3yr_pct": 69.1
     },
     {
       "type": "购物",
-      "count": 12,
+      "count": 12.0,
       "within_1yr_pct": 16.7,
       "1_3yr_pct": 16.7,
       "over_3yr_pct": 66.7
     },
     {
       "type": "休闲娱乐",
-      "count": 5,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 40,
-      "over_3yr_pct": 60
+      "count": 5.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 40.0,
+      "over_3yr_pct": 60.0
     },
     {
       "type": "酒店住宿",
-      "count": 2,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 100
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
     },
     {
       "type": "生活服务",
-      "count": 13,
+      "count": 13.0,
       "within_1yr_pct": 15.4,
       "1_3yr_pct": 23.1,
       "over_3yr_pct": 61.5
     },
     {
       "type": "运动健身",
-      "count": 1,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 100
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
     },
     {
       "type": "车辆服务",
-      "count": 2,
-      "within_1yr_pct": 50,
-      "1_3yr_pct": 50,
-      "over_3yr_pct": 0
+      "count": 2.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 0.0
     }
-  ],
-  "nearby_communities": [
-    {
-      "name": "吉普公寓",
-      "households": 102,
-      "residents": "1293",
-      "year": "-",
-      "raw": "吉普公寓 户数:102 居住人数:1293 建筑年份:-"
-    },
-    {
-      "name": "吉普宿舍",
-      "households": 180,
-      "residents": "460+",
-      "year": "-",
-      "raw": "吉普宿舍 户数:180 居住人数:460+ 建筑年份:-"
-    },
-    {
-      "name": "达丰生活区-1期",
-      "households": 1593,
-      "residents": "12310",
-      "year": "-",
-      "raw": "达丰生活区-1期 户数:1593 居住人数:12310 建筑年份:-"
-    },
-    {
-      "name": "茸华公寓",
-      "households": 26,
-      "residents": "150+",
-      "year": "-",
-      "raw": "茸华公寓 户数:26 居住人数:150+ 建筑年份:-"
-    },
-    {
-      "name": "庆业电子宿舍",
-      "households": 47,
-      "residents": "170+",
-      "year": "-",
-      "raw": "庆业电子宿舍 户数:47 居住人数:170+ 建筑年份:-"
-    },
-    {
-      "name": "茅山公寓",
-      "households": 457,
-      "residents": "2471",
-      "year": "-",
-      "raw": "茅山公寓 户数:457 居住人数:2471 建筑年份:-"
-    },
-    {
-      "name": "殿华酒店公寓",
-      "households": 18,
-      "residents": "410+",
-      "year": "-",
-      "raw": "殿华酒店公寓 户数:18 居住人数:410+ 建筑年份:-"
-    },
-    {
-      "name": "达丰生活区宿舍-2期",
-      "households": 1506,
-      "residents": "9007",
-      "year": "-",
-      "raw": "达丰生活区宿舍-2期 户数:1506 居住人数:9007 建筑年份:-"
-    },
-    {
-      "name": "联阳小区",
-      "households": 860,
-      "residents": "8433",
-      "year": "2016",
-      "raw": "联阳小区 户数:860 居住人数:8433 建筑年份:2016"
-    },
-    {
-      "name": "阳光理想城",
-      "households": 2920,
-      "residents": "23389",
-      "year": "2015",
-      "raw": "阳光理想城 户数:2920 居住人数:23389 建筑年份:2015"
-    },
-    {
-      "name": "芳茂宿舍",
-      "households": 80,
-      "residents": "440+",
-      "year": "-",
-      "raw": "芳茂宿舍 户数:80 居住人数:440+ 建筑年份:-"
-    },
-    {
-      "name": "南新公寓",
-      "households": 21,
-      "residents": "200+",
-      "year": "-",
-      "raw": "南新公寓 户数:21 居住人数:200+ 建筑年份:-"
-    },
-    {
-      "name": "上海三星广电员工宿舍",
-      "households": 115,
-      "residents": null,
-      "year": "-",
-      "raw": "上海三星广电员工宿舍 户数:115 居住人数:小于100 建筑年份:-"
-    },
-    {
-      "name": "新余公房",
-      "households": 84,
-      "residents": "570+",
-      "year": "2017",
-      "raw": "新余公房 户数:84 居住人数:570+ 建筑年份:2017"
-    },
-    {
-      "name": "幸福宜居",
-      "households": 272,
-      "residents": "1057",
-      "year": "2004",
-      "raw": "幸福宜居 户数:272 居住人数:1057 建筑年份:2004"
-    },
-    {
-      "name": "车墩庵前小区",
-      "households": 132,
-      "residents": "1056",
-      "year": "1995",
-      "raw": "车墩庵前小区 户数:132 居住人数:1056 建筑年份:1995"
-    },
-    {
-      "name": "南乐公寓",
-      "households": 118,
-      "residents": "520+",
-      "year": "-",
-      "raw": "南乐公寓 户数:118 居住人数:520+ 建筑年份:-"
-    },
-    {
-      "name": "南联小区",
-      "households": 238,
-      "residents": "2305",
-      "year": "2006",
-      "raw": "南联小区 户数:238 居住人数:2305 建筑年份:2006"
-    },
-    {
-      "name": "辉旺公寓",
-      "households": 70,
-      "residents": null,
-      "year": "-",
-      "raw": "辉旺公寓 户数:70 居住人数:小于100 建筑年份:-"
-    },
-    {
-      "name": "虬中小区",
-      "households": 60,
-      "residents": "560+",
-      "year": "2019",
-      "raw": "虬中小区 户数:60 居住人数:560+ 建筑年份:2019"
-    },
-    {
-      "name": "影都小区",
-      "households": 573,
-      "residents": "3813",
-      "year": "2000",
-      "raw": "影都小区 户数:573 居住人数:3813 建筑年份:2000"
-    },
-    {
-      "name": "南姚小区",
-      "households": 380,
-      "residents": "2123",
-      "year": "1995",
-      "raw": "南姚小区 户数:380 居住人数:2123 建筑年份:1995"
-    },
-    {
-      "name": "棉花站小区",
-      "households": 141,
-      "residents": "470+",
-      "year": "2018",
-      "raw": "棉花站小区 户数:141 居住人数:470+ 建筑年份:2018"
-    },
-    {
-      "name": "高雅公寓",
-      "households": 202,
-      "residents": "1553",
-      "year": "2000",
-      "raw": "高雅公寓 户数:202 居住人数:1553 建筑年份:2000"
-    },
-    {
-      "name": "乐嘉公寓",
-      "households": 97,
-      "residents": "1035",
-      "year": "-",
-      "raw": "乐嘉公寓 户数:97 居住人数:1035 建筑年份:-"
-    },
-    {
-      "name": "华微宿舍楼",
-      "households": 78,
-      "residents": "1109",
-      "year": "-",
-      "raw": "华微宿舍楼 户数:78 居住人数:1109 建筑年份:-"
-    },
-    {
-      "name": "高桥村外来人员居住区",
-      "households": 113,
-      "residents": "1771",
-      "year": "-",
-      "raw": "高桥村外来人员居住区 户数:113 居住人数:1771 建筑年份:-"
-    },
-    {
-      "name": "李高路69弄小区",
-      "households": 169,
-      "residents": "1966",
-      "year": "-",
-      "raw": "李高路69弄小区 户数:169 居住人数:1966 建筑年份:-"
-    },
-    {
-      "name": "嘉宸白领公寓",
-      "households": 17,
-      "residents": "520+",
-      "year": "-",
-      "raw": "嘉宸白领公寓 户数:17 居住人数:520+ 建筑年份:-"
-    },
-    {
-      "name": "虬长路17弄小区",
-      "households": 99,
-      "residents": "1205",
-      "year": "2010",
-      "raw": "虬长路17弄小区 户数:99 居住人数:1205 建筑年份:2010"
-    },
-    {
-      "name": "影视公寓",
-      "households": 886,
-      "residents": "2909",
-      "year": "1984",
-      "raw": "影视公寓 户数:886 居住人数:2909 建筑年份:1984"
-    },
-    {
-      "name": "金地新乐里-西区",
-      "households": 184,
-      "residents": "880+",
-      "year": "2023",
-      "raw": "金地新乐里-西区 户数:184 居住人数:880+ 建筑年份:2023-12"
-    },
-    {
-      "name": "东兴公寓",
-      "households": 22,
-      "residents": "350+",
-      "year": "-",
-      "raw": "东兴公寓 户数:22 居住人数:350+ 建筑年份:-"
-    },
-    {
-      "name": "其灵人才公寓(G60科创走廊)",
-      "households": 21,
-      "residents": "290+",
-      "year": "-",
-      "raw": "其灵人才公寓(G60科创走廊) 户数:21 居住人数:290+ 建筑年份:-"
-    },
-    {
-      "name": "高馨雅苑",
-      "households": 932,
-      "residents": "3742",
-      "year": "2025",
-      "raw": "高馨雅苑 户数:932 居住人数:3742 建筑年份:2025-06"
-    },
-    {
-      "name": "金地新乐里-东区",
-      "households": 907,
-      "residents": "2575",
-      "year": "2023",
-      "raw": "金地新乐里-东区 户数:907 居住人数:2575 建筑年份:2023-12"
-    },
-    {
-      "name": "影维花园",
-      "households": 376,
-      "residents": "1489",
-      "year": "-",
-      "raw": "影维花园 户数:376 居住人数:1489 建筑年份:-"
-    },
-    {
-      "name": "金地JIMU积木",
-      "households": 856,
-      "residents": "2708",
-      "year": "2018",
-      "raw": "金地JIMU积木 户数:856 居住人数:2708 建筑年份:2018"
-    },
-    {
-      "name": "华阳社区",
-      "households": 122,
-      "residents": "130+",
-      "year": "-",
-      "raw": "华阳社区 户数:122 居住人数:130+ 建筑年份:-"
-    },
-    {
-      "name": "康欣公寓",
-      "households": 60,
-      "residents": null,
-      "year": "-",
-      "raw": "康欣公寓 户数:60 居住人数:小于100 建筑年份:-"
-    },
-    {
-      "name": "好莱坞花园",
-      "households": 840,
-      "residents": "3611",
-      "year": "1999",
-      "raw": "好莱坞花园 户数:840 居住人数:3611 建筑年份:1999"
-    },
-    {
-      "name": "安贝尔花园",
-      "households": 1312,
-      "residents": "5107",
-      "year": "2012",
-      "raw": "安贝尔花园 户数:1312 居住人数:5107 建筑年份:2012"
-    },
-    {
-      "name": "松源公寓",
-      "households": 20,
-      "residents": "430+",
-      "year": "-",
-      "raw": "松源公寓 户数:20 居住人数:430+ 建筑年份:-"
-    },
-    {
-      "name": "G60科创走廊沁尚茗寓(东部开发区店)",
-      "households": 269,
-      "residents": "2071",
-      "year": "-",
-      "raw": "G60科创走廊沁尚茗寓(东部开发区店) 户数:269 居住人数:2071 建筑年份:-"
-    },
-    {
-      "name": "晨星小区",
-      "households": 5896,
-      "residents": "24900",
-      "year": "2008",
-      "raw": "晨星小区 户数:5896 居住人数:24900 建筑年份:2008"
-    },
-    {
-      "name": "富士康宿舍",
-      "households": null,
-      "residents": null,
-      "year": "-",
-      "raw": "富士康宿舍 建筑年份:- 上海市松江区松江出口加工区南乐路1980号"
-    },
-    {
-      "name": "杉华公寓",
-      "households": 240,
-      "residents": "1793",
-      "year": "2005",
-      "raw": "杉华公寓 户数:240 居住人数:1793 建筑年份:2005"
-    },
-    {
-      "name": "雅居乐星徽",
-      "households": 1167,
-      "residents": "4649",
-      "year": "2015",
-      "raw": "雅居乐星徽 户数:1167 居住人数:4649 建筑年份:2015"
-    },
-    {
-      "name": "华景公寓",
-      "households": 216,
-      "residents": "570+",
-      "year": "2002",
-      "raw": "华景公寓 户数:216 居住人数:570+ 建筑年份:2002"
-    },
-    {
-      "name": "有巢国际公寓社区(上海东部经开区店)",
-      "households": 377,
-      "residents": "3816",
-      "year": "-",
-      "raw": "有巢国际公寓社区(上海东部经开区店) 户数:377 居住人数:3816 建筑年份:-"
-    },
-    {
-      "name": "祥峰家园",
-      "households": 812,
-      "residents": "5193",
-      "year": "2016",
-      "raw": "祥峰家园 户数:812 居住人数:5193 建筑年份:2016"
-    },
-    {
-      "name": "茸锦人才公寓",
-      "households": 129,
-      "residents": "240+",
-      "year": "-",
-      "raw": "茸锦人才公寓 户数:129 居住人数:240+ 建筑年份:-"
-    },
-    {
-      "name": "同润魅影商苑-西区",
-      "households": 38,
-      "residents": "160+",
-      "year": "-",
-      "raw": "同润魅影商苑-西区 户数:38 居住人数:160+ 建筑年份:-"
-    },
-    {
-      "name": "晨星四季苑",
-      "households": 734,
-      "residents": "4814",
-      "year": "1994",
-      "raw": "晨星四季苑 户数:734 居住人数:4814 建筑年份:1994"
-    },
-    {
-      "name": "俞塘一村",
-      "households": 157,
-      "residents": "1012",
-      "year": "2017",
-      "raw": "俞塘一村 户数:157 居住人数:1012 建筑年份:2017"
-    },
-    {
-      "name": "华明小区",
-      "households": 317,
-      "residents": "1029",
-      "year": "-",
-      "raw": "华明小区 户数:317 居住人数:1029 建筑年份:-"
-    },
-    {
-      "name": "同润魅影商苑-南区",
-      "households": 779,
-      "residents": "510+",
-      "year": "2012",
-      "raw": "同润魅影商苑-南区 户数:779 居住人数:510+ 建筑年份:2012"
-    },
-    {
-      "name": "中交·松香源著",
-      "households": 319,
-      "residents": "300+",
-      "year": "-",
-      "raw": "中交·松香源著 户数:319 居住人数:300+ 建筑年份:-"
-    },
-    {
-      "name": "好佳公寓",
-      "households": 25,
-      "residents": "400+",
-      "year": "-",
-      "raw": "好佳公寓 户数:25 居住人数:400+ 建筑年份:-"
-    },
-    {
-      "name": "俊旭公寓",
-      "households": 17,
-      "residents": "110+",
-      "year": "-",
-      "raw": "俊旭公寓 户数:17 居住人数:110+ 建筑年份:-"
-    },
-    {
-      "name": "宝华紫薇星城",
-      "households": 418,
-      "residents": null,
-      "year": "-",
-      "raw": "宝华紫薇星城 户数:418 居住人数:小于100 建筑年份:-"
-    },
-    {
-      "name": "西上海高尔夫乡村俱乐部-B区别墅",
-      "households": 1367,
-      "residents": "650+",
-      "year": "2011",
-      "raw": "西上海高尔夫乡村俱乐部-B区别墅 户数:1367 居住人数:650+ 建筑年份:2011"
-    },
-    {
-      "name": "四季公寓",
-      "households": 19,
-      "residents": "160+",
-      "year": "-",
-      "raw": "四季公寓 户数:19 居住人数:160+ 建筑年份:-"
-    },
-    {
-      "name": "晨星-东区",
-      "households": 1344,
-      "residents": "7746",
-      "year": "2008",
-      "raw": "晨星-东区 户数:1344 居住人数:7746 建筑年份:2008"
-    },
-    {
-      "name": "G60云智天地-A区",
-      "households": 339,
-      "residents": null,
-      "year": "-",
-      "raw": "G60云智天地-A区 户数:339 居住人数:小于100 建筑年份:-"
-    },
-    {
-      "name": "君临世家",
-      "households": 244,
-      "residents": null,
-      "year": "-",
-      "raw": "君临世家 户数:244 居住人数:小于100 建筑年份:-"
-    },
-    {
-      "name": "上海龙工新桥生活区",
-      "households": 567,
-      "residents": "5729",
-      "year": "-",
-      "raw": "上海龙工新桥生活区 户数:567 居住人数:5729 建筑年份:-"
-    },
-    {
-      "name": "同润玫瑰芳苑",
-      "households": 1034,
-      "residents": "3366",
-      "year": "2015",
-      "raw": "同润玫瑰芳苑 户数:1034 居住人数:3366 建筑年份:2015"
-    },
-    {
-      "name": "祥东小区-1期",
-      "households": 1975,
-      "residents": "9532",
-      "year": "2005",
-      "raw": "祥东小区-1期 户数:1975 居住人数:9532 建筑年份:2005"
-    },
-    {
-      "name": "同润玫瑰园",
-      "households": 241,
-      "residents": "350+",
-      "year": "2015",
-      "raw": "同润玫瑰园 户数:241 居住人数:350+ 建筑年份:2015"
-    },
-    {
-      "name": "祥东小区2期",
-      "households": 581,
-      "residents": "2532",
-      "year": "-",
-      "raw": "祥东小区2期 户数:581 居住人数:2532 建筑年份:-"
-    }
-  ],
-  "community_count": 71
+  ]
 }

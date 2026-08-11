@@ -10,10 +10,10 @@
     "population_score": 88.9,
     "area_score": 64.8,
     "consumption_score": 81.8,
-    "industry_score": 84,
+    "industry_score": 84.0,
     "annual_sales": "上海金地·喜悦荟Oopcity作为上海徐汇区的城市更新社区商业项目，其设计灵感来源于西班牙童话故事“云朵工厂”，呈现具有互动参与感和趣味创意性的商业空间。同时围绕“悦生活，在一起”的主题，旨在塑造集品质、体验和视觉享受于一体的、具有“惊喜感”的全新社区商业形态，汇聚众多优质及知名品牌，为消费者创造“有趣、新鲜、活力”的全新生活方式，焕新城市“一公里生活圈”",
     "annual_sales_unit": "-",
-    "area_size_sqm": 2,
+    "area_size_sqm": 2.0,
     "open_date": "2020-12-01",
     "operator": "金地商置集团有限公司",
     "brand": "",
@@ -26,13 +26,13 @@
     "annual_daily_rank": "",
     "jun_total": 25.6,
     "jun_total_rank": "市内商场第341名",
-    "jun_daily_avg": 8538,
+    "jun_daily_avg": 8538.0,
     "jun_daily_unit": "人次",
     "jun_daily_rank": "市内商场第341名",
-    "weekday_avg": 8230,
+    "weekday_avg": 8230.0,
     "weekday_unit": "人次",
     "weekday_rank": "市内商场第337名",
-    "holiday_avg": 9385,
+    "holiday_avg": 9385.0,
     "holiday_unit": "人次",
     "holiday_rank": "市内商场第338名"
   },
@@ -40,11 +40,11 @@
     "residential": {
       "500m": 2.3,
       "1_5km": 23.6,
-      "3km": 79
+      "3km": 79.0
     },
     "office": {
-      "500m": 9200,
-      "1_5km": 9,
+      "500m": 9200.0,
+      "1_5km": 9.0,
       "3km": 59.8
     },
     "permanent": {
@@ -54,26 +54,26 @@
     }
   },
   "business": {
-    "competitors": 3,
-    "food": 45,
-    "shopping": 37,
-    "leisure": 3,
-    "education": 11,
-    "hotel": 1,
-    "services": 36,
-    "fitness": 5,
-    "auto": 4,
-    "total_stores": 46,
-    "old_store_3yr_pct": 35
+    "competitors": 3.0,
+    "food": 45.0,
+    "shopping": 37.0,
+    "leisure": 3.0,
+    "education": 11.0,
+    "hotel": 1.0,
+    "services": 36.0,
+    "fitness": 5.0,
+    "auto": 4.0,
+    "total_stores": 46.0,
+    "old_store_3yr_pct": 35.0
   },
   "nearby_poi": {
     "business": null,
-    "community": 414,
-    "office": 28,
-    "school": 54,
-    "hospital": 67,
-    "transport": 14,
-    "scenic": 126
+    "community": 414.0,
+    "office": 28.0,
+    "school": 54.0,
+    "hospital": 67.0,
+    "transport": 14.0,
+    "scenic": 126.0
   },
   "demographics": {
     "male_pct": 47.4,
@@ -87,8 +87,8 @@
       "硕士": 6.4,
       "博士": 1.9
     },
-    "has_children_pct": 60,
-    "no_children_pct": 40
+    "has_children_pct": 60.0,
+    "no_children_pct": 40.0
   },
   "scraped_at": "2026-08-02T03:20:15.971Z",
   "nearby_restaurants": [
@@ -122,293 +122,52 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 18,
+      "count": 18.0,
       "within_1yr_pct": 33.3,
       "1_3yr_pct": 44.4,
       "over_3yr_pct": 22.2
     },
     {
       "type": "购物",
-      "count": 7,
+      "count": 7.0,
       "within_1yr_pct": 28.6,
-      "1_3yr_pct": 0,
+      "1_3yr_pct": 0.0,
       "over_3yr_pct": 71.4
     },
     {
       "type": "休闲娱乐",
-      "count": 1,
-      "within_1yr_pct": 100,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 0
+      "count": 1.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
     },
     {
       "type": "教育培训",
-      "count": 6,
+      "count": 6.0,
       "within_1yr_pct": 16.7,
       "1_3yr_pct": 16.7,
       "over_3yr_pct": 66.7
     },
     {
       "type": "生活服务",
-      "count": 11,
+      "count": 11.0,
       "within_1yr_pct": 36.4,
       "1_3yr_pct": 45.5,
       "over_3yr_pct": 18.2
     },
     {
       "type": "运动健身",
-      "count": 2,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 50,
-      "over_3yr_pct": 50
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 50.0
     },
     {
       "type": "车辆服务",
-      "count": 1,
-      "within_1yr_pct": 100,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 0
+      "count": 1.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
     }
-  ],
-  "nearby_communities": [
-    {
-      "name": "永旭家苑",
-      "households": 348,
-      "residents": "1032",
-      "year": "2005",
-      "raw": "永旭家苑 户数:348 居住人数:1032 建筑年份:2005"
-    },
-    {
-      "name": "庆荣苑",
-      "households": 300,
-      "residents": "620+",
-      "year": "2005",
-      "raw": "庆荣苑 户数:300 居住人数:620+ 建筑年份:2005"
-    },
-    {
-      "name": "庆华花苑",
-      "households": 29,
-      "residents": "220+",
-      "year": "1998",
-      "raw": "庆华花苑 户数:29 居住人数:220+ 建筑年份:1998"
-    },
-    {
-      "name": "地纬家苑",
-      "households": 792,
-      "residents": "2523",
-      "year": "2007",
-      "raw": "地纬家苑 户数:792 居住人数:2523 建筑年份:2007"
-    },
-    {
-      "name": "云舒苑",
-      "households": 496,
-      "residents": "1850",
-      "year": "2012",
-      "raw": "云舒苑 户数:496 居住人数:1850 建筑年份:2012"
-    },
-    {
-      "name": "海馨苑",
-      "households": 964,
-      "residents": "3129",
-      "year": "2008",
-      "raw": "海馨苑 户数:964 居住人数:3129 建筑年份:2008"
-    },
-    {
-      "name": "前哨路231弄小区",
-      "households": 225,
-      "residents": "820+",
-      "year": "1997",
-      "raw": "前哨路231弄小区 户数:225 居住人数:820+ 建筑年份:1997"
-    },
-    {
-      "name": "前哨288弄",
-      "households": 706,
-      "residents": "2188",
-      "year": "1998",
-      "raw": "前哨288弄 户数:706 居住人数:2188 建筑年份:1998"
-    },
-    {
-      "name": "前哨路198弄小区",
-      "households": 470,
-      "residents": "1614",
-      "year": "1995",
-      "raw": "前哨路198弄小区 户数:470 居住人数:1614 建筑年份:1995"
-    },
-    {
-      "name": "荣华苑",
-      "households": 307,
-      "residents": "1113",
-      "year": "2003",
-      "raw": "荣华苑 户数:307 居住人数:1113 建筑年份:2003"
-    },
-    {
-      "name": "范家新村",
-      "households": 381,
-      "residents": "1261",
-      "year": "-",
-      "raw": "范家新村 户数:381 居住人数:1261 建筑年份:-"
-    },
-    {
-      "name": "海湾新城",
-      "households": 1692,
-      "residents": "4801",
-      "year": "2009",
-      "raw": "海湾新城 户数:1692 居住人数:4801 建筑年份:2009"
-    },
-    {
-      "name": "庆利苑",
-      "households": 939,
-      "residents": "3784",
-      "year": "-",
-      "raw": "庆利苑 户数:939 居住人数:3784 建筑年份:-"
-    },
-    {
-      "name": "庆丰村社区6队-东区",
-      "households": 1248,
-      "residents": "1520",
-      "year": "-",
-      "raw": "庆丰村社区6队-东区 户数:1248 居住人数:1520 建筑年份:-"
-    },
-    {
-      "name": "绿地海岸城",
-      "households": 241,
-      "residents": "1306",
-      "year": "2017",
-      "raw": "绿地海岸城 户数:241 居住人数:1306 建筑年份:2017"
-    },
-    {
-      "name": "浦东璟泊社区",
-      "households": 561,
-      "residents": "1344",
-      "year": "-",
-      "raw": "浦东璟泊社区 户数:561 居住人数:1344 建筑年份:-"
-    },
-    {
-      "name": "庆丰村社区6队-西区",
-      "households": 918,
-      "residents": "850+",
-      "year": "-",
-      "raw": "庆丰村社区6队-西区 户数:918 居住人数:850+ 建筑年份:-"
-    },
-    {
-      "name": "向东村七队张家宅",
-      "households": null,
-      "residents": null,
-      "year": "-",
-      "raw": "向东村七队张家宅 建筑年份:- 前哨支路与向东环村路交叉口东北100米"
-    },
-    {
-      "name": "前哨苑",
-      "households": 461,
-      "residents": "1384",
-      "year": "-",
-      "raw": "前哨苑 户数:461 居住人数:1384 建筑年份:-"
-    },
-    {
-      "name": "菁舍公寓(绿地国际教育园区店)",
-      "households": 184,
-      "residents": "2176",
-      "year": "-",
-      "raw": "菁舍公寓(绿地国际教育园区店) 户数:184 居住人数:2176 建筑年份:-"
-    },
-    {
-      "name": "新成人才公寓",
-      "households": 16,
-      "residents": "120+",
-      "year": "-",
-      "raw": "新成人才公寓 户数:16 居住人数:120+ 建筑年份:-"
-    },
-    {
-      "name": "友谊小区(联星支路)",
-      "households": 237,
-      "residents": "180+",
-      "year": "-",
-      "raw": "友谊小区(联星支路) 户数:237 居住人数:180+ 建筑年份:-"
-    },
-    {
-      "name": "大星村青六路小区",
-      "households": 150,
-      "residents": "340+",
-      "year": "-",
-      "raw": "大星村青六路小区 户数:150 居住人数:340+ 建筑年份:-"
-    },
-    {
-      "name": "朝阳村徐家宅",
-      "households": 1149,
-      "residents": "1065",
-      "year": "-",
-      "raw": "朝阳村徐家宅 户数:1149 居住人数:1065 建筑年份:-"
-    },
-    {
-      "name": "蔡路村水产宅",
-      "households": 116,
-      "residents": "180+",
-      "year": "-",
-      "raw": "蔡路村水产宅 户数:116 居住人数:180+ 建筑年份:-"
-    },
-    {
-      "name": "张江东区人才公寓",
-      "households": 945,
-      "residents": "6310",
-      "year": "2007",
-      "raw": "张江东区人才公寓 户数:945 居住人数:6310 建筑年份:2007"
-    },
-    {
-      "name": "勤奋村七队张家宅",
-      "households": 2,
-      "residents": null,
-      "year": "-",
-      "raw": "勤奋村七队张家宅 户数:2 居住人数:小于100 建筑年份:-"
-    },
-    {
-      "name": "胜利小区",
-      "households": 288,
-      "residents": "550+",
-      "year": "1995",
-      "raw": "胜利小区 户数:288 居住人数:550+ 建筑年份:1995"
-    },
-    {
-      "name": "远东小区",
-      "households": 585,
-      "residents": "1777",
-      "year": "1998",
-      "raw": "远东小区 户数:585 居住人数:1777 建筑年份:1998"
-    },
-    {
-      "name": "曼德利海滨别墅",
-      "households": 524,
-      "residents": null,
-      "year": "-",
-      "raw": "曼德利海滨别墅 户数:524 居住人数:小于100 建筑年份:-"
-    },
-    {
-      "name": "向阳村外来人员居住区2西小区",
-      "households": 283,
-      "residents": "1051",
-      "year": "-",
-      "raw": "向阳村外来人员居住区2西小区 户数:283 居住人数:1051 建筑年份:-"
-    },
-    {
-      "name": "棠清雅苑",
-      "households": 644,
-      "residents": "1720",
-      "year": "2023",
-      "raw": "棠清雅苑 户数:644 居住人数:1720 建筑年份:2023-12"
-    },
-    {
-      "name": "幸福里",
-      "households": 683,
-      "residents": "2389",
-      "year": "2013",
-      "raw": "幸福里 户数:683 居住人数:2389 建筑年份:2013"
-    },
-    {
-      "name": "环龙苑",
-      "households": 458,
-      "residents": "970+",
-      "year": "1993",
-      "raw": "环龙苑 户数:458 居住人数:970+ 建筑年份:1993"
-    }
-  ],
-  "community_count": 34
+  ]
 }

@@ -13,7 +13,7 @@
     "industry_score": 92.2,
     "annual_sales": "北京长安商场位于北京市西城区复兴门外大街15号，是一座以流行服装、服饰用品为主，集超市、餐饮于一体的现代化综合性商场。商场总建筑面积32000平方米，营业面积20000平方米，地上五层，地下二层，分别经营22个大类、十万余种商品",
     "annual_sales_unit": "-",
-    "area_size_sqm": 2,
+    "area_size_sqm": 2.0,
     "open_date": "1990-05-18",
     "operator": "王府井集团股份有限公司",
     "brand": "",
@@ -32,7 +32,7 @@
     "weekday_avg": 2.6,
     "weekday_unit": "万人次",
     "weekday_rank": "市内商场第114名",
-    "holiday_avg": 3,
+    "holiday_avg": 3.0,
     "holiday_unit": "万人次",
     "holiday_rank": "市内商场第129名"
   },
@@ -54,26 +54,26 @@
     }
   },
   "business": {
-    "competitors": 5,
-    "food": 134,
-    "shopping": 181,
-    "leisure": 11,
-    "education": 23,
-    "hotel": 15,
-    "services": 89,
-    "fitness": 11,
-    "auto": 8,
-    "total_stores": 159,
-    "old_store_3yr_pct": 45
+    "competitors": 5.0,
+    "food": 134.0,
+    "shopping": 181.0,
+    "leisure": 11.0,
+    "education": 23.0,
+    "hotel": 15.0,
+    "services": 89.0,
+    "fitness": 11.0,
+    "auto": 8.0,
+    "total_stores": 159.0,
+    "old_store_3yr_pct": 45.0
   },
   "nearby_poi": {
-    "business": 3,
-    "community": 520,
-    "office": 84,
-    "school": 47,
-    "hospital": 112,
-    "transport": 10,
-    "scenic": 349
+    "business": 3.0,
+    "community": 520.0,
+    "office": 84.0,
+    "school": 47.0,
+    "hospital": 112.0,
+    "transport": 10.0,
+    "scenic": 349.0
   },
   "demographics": {
     "male_pct": 46.5,
@@ -81,7 +81,7 @@
     "education": {
       "小学": 9.5,
       "初中": 15.6,
-      "高中": 11,
+      "高中": 11.0,
       "大专": 5.4,
       "本科": 46.5,
       "硕士": 9.4,
@@ -142,475 +142,52 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 41,
+      "count": 41.0,
       "within_1yr_pct": 14.6,
       "1_3yr_pct": 26.8,
       "over_3yr_pct": 58.5
     },
     {
       "type": "购物",
-      "count": 85,
+      "count": 85.0,
       "within_1yr_pct": 49.4,
       "1_3yr_pct": 8.2,
       "over_3yr_pct": 42.4
     },
     {
       "type": "休闲娱乐",
-      "count": 5,
-      "within_1yr_pct": 40,
-      "1_3yr_pct": 20,
-      "over_3yr_pct": 40
+      "count": 5.0,
+      "within_1yr_pct": 40.0,
+      "1_3yr_pct": 20.0,
+      "over_3yr_pct": 40.0
     },
     {
       "type": "教育培训",
-      "count": 11,
+      "count": 11.0,
       "within_1yr_pct": 81.8,
       "1_3yr_pct": 9.1,
       "over_3yr_pct": 9.1
     },
     {
       "type": "生活服务",
-      "count": 13,
+      "count": 13.0,
       "within_1yr_pct": 15.4,
       "1_3yr_pct": 30.8,
       "over_3yr_pct": 53.8
     },
     {
       "type": "运动健身",
-      "count": 3,
+      "count": 3.0,
       "within_1yr_pct": 33.3,
       "1_3yr_pct": 33.3,
       "over_3yr_pct": 33.3
     },
     {
       "type": "车辆服务",
-      "count": 1,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 100,
-      "over_3yr_pct": 0
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
     }
-  ],
-  "nearby_communities": [
-    {
-      "name": "路劲世界城",
-      "households": 1941,
-      "residents": "4224",
-      "year": "2013",
-      "raw": "路劲世界城 户数:1941 居住人数:4224 建筑年份:2013"
-    },
-    {
-      "name": "昌平泰禾拾景园-2期",
-      "households": 580,
-      "residents": "1217",
-      "year": "-",
-      "raw": "昌平泰禾拾景园-2期 户数:580 居住人数:1217 建筑年份:-"
-    },
-    {
-      "name": "昌平泰禾拾景园3期",
-      "households": 1147,
-      "residents": "960+",
-      "year": "2022",
-      "raw": "昌平泰禾拾景园3期 户数:1147 居住人数:960+ 建筑年份:2022"
-    },
-    {
-      "name": "张营小区",
-      "households": 901,
-      "residents": "2276",
-      "year": "2009",
-      "raw": "张营小区 户数:901 居住人数:2276 建筑年份:2009"
-    },
-    {
-      "name": "昌平泰禾拾景园1期",
-      "households": 1043,
-      "residents": "1450",
-      "year": "2019",
-      "raw": "昌平泰禾拾景园1期 户数:1043 居住人数:1450 建筑年份:2019"
-    },
-    {
-      "name": "北京风景",
-      "households": 2676,
-      "residents": "6440",
-      "year": "2015",
-      "raw": "北京风景 户数:2676 居住人数:6440 建筑年份:2015"
-    },
-    {
-      "name": "北京风景-68号院",
-      "households": 689,
-      "residents": "1860",
-      "year": "-",
-      "raw": "北京风景-68号院 户数:689 居住人数:1860 建筑年份:-"
-    },
-    {
-      "name": "景昌南街4号院",
-      "households": 586,
-      "residents": "2658",
-      "year": "-",
-      "raw": "景昌南街4号院 户数:586 居住人数:2658 建筑年份:-"
-    },
-    {
-      "name": "南邵教师楼",
-      "households": 144,
-      "residents": "160+",
-      "year": "2000",
-      "raw": "南邵教师楼 户数:144 居住人数:160+ 建筑年份:2000"
-    },
-    {
-      "name": "景昌南街2号院",
-      "households": 730,
-      "residents": "3483",
-      "year": "-",
-      "raw": "景昌南街2号院 户数:730 居住人数:3483 建筑年份:-"
-    },
-    {
-      "name": "中国铁建青秀尚城-一区",
-      "households": 1768,
-      "residents": "2405",
-      "year": "2015",
-      "raw": "中国铁建青秀尚城-一区 户数:1768 居住人数:2405 建筑年份:2015"
-    },
-    {
-      "name": "金明园",
-      "households": 235,
-      "residents": "1055",
-      "year": "2004",
-      "raw": "金明园 户数:235 居住人数:1055 建筑年份:2004"
-    },
-    {
-      "name": "青秀尚城二区",
-      "households": 449,
-      "residents": "2107",
-      "year": "-",
-      "raw": "青秀尚城二区 户数:449 居住人数:2107 建筑年份:-"
-    },
-    {
-      "name": "北京风景-65号院",
-      "households": 372,
-      "residents": "1092",
-      "year": "2012",
-      "raw": "北京风景-65号院 户数:372 居住人数:1092 建筑年份:2012"
-    },
-    {
-      "name": "北京风景-66号院",
-      "households": 661,
-      "residents": "1773",
-      "year": "2011",
-      "raw": "北京风景-66号院 户数:661 居住人数:1773 建筑年份:2011"
-    },
-    {
-      "name": "东营村靠山街46号院",
-      "households": 3,
-      "residents": null,
-      "year": "-",
-      "raw": "东营村靠山街46号院 户数:3 居住人数:小于100 建筑年份:-"
-    },
-    {
-      "name": "景昌南街5号院",
-      "households": 477,
-      "residents": "1727",
-      "year": "-",
-      "raw": "景昌南街5号院 户数:477 居住人数:1727 建筑年份:-"
-    },
-    {
-      "name": "景昌南街3号院",
-      "households": 769,
-      "residents": "2971",
-      "year": "-",
-      "raw": "景昌南街3号院 户数:769 居住人数:2971 建筑年份:-"
-    },
-    {
-      "name": "宜山居-四区",
-      "households": 386,
-      "residents": "1202",
-      "year": "2004",
-      "raw": "宜山居-四区 户数:386 居住人数:1202 建筑年份:2004"
-    },
-    {
-      "name": "招商·都会湾一期",
-      "households": 1468,
-      "residents": "1821",
-      "year": "2021",
-      "raw": "招商·都会湾一期 户数:1468 居住人数:1821 建筑年份:2021"
-    },
-    {
-      "name": "招商都会湾二期",
-      "households": 620,
-      "residents": "1440",
-      "year": "2021",
-      "raw": "招商都会湾二期 户数:620 居住人数:1440 建筑年份:2021"
-    },
-    {
-      "name": "四合新村东区",
-      "households": 246,
-      "residents": "870+",
-      "year": "-",
-      "raw": "四合新村东区 户数:246 居住人数:870+ 建筑年份:-"
-    },
-    {
-      "name": "招商·都会湾四期",
-      "households": 324,
-      "residents": "990+",
-      "year": "-",
-      "raw": "招商·都会湾四期 户数:324 居住人数:990+ 建筑年份:-"
-    },
-    {
-      "name": "招商·都会湾三期",
-      "households": 298,
-      "residents": "1668",
-      "year": "-",
-      "raw": "招商·都会湾三期 户数:298 居住人数:1668 建筑年份:-"
-    },
-    {
-      "name": "四合新村",
-      "households": 300,
-      "residents": "1129",
-      "year": "2003",
-      "raw": "四合新村 户数:300 居住人数:1129 建筑年份:2003"
-    },
-    {
-      "name": "建发·观堂府",
-      "households": 1789,
-      "residents": null,
-      "year": "-",
-      "raw": "建发·观堂府 户数:1789 居住人数:小于100 建筑年份:-"
-    },
-    {
-      "name": "兴昌佳苑",
-      "households": 2267,
-      "residents": "6064",
-      "year": "2013",
-      "raw": "兴昌佳苑 户数:2267 居住人数:6064 建筑年份:2013"
-    },
-    {
-      "name": "正宏玖瀛府",
-      "households": 4314,
-      "residents": "2595",
-      "year": "-",
-      "raw": "正宏玖瀛府 户数:4314 居住人数:2595 建筑年份:-"
-    },
-    {
-      "name": "中国水电北郡嘉源",
-      "households": 1340,
-      "residents": "3342",
-      "year": "2011",
-      "raw": "中国水电北郡嘉源 户数:1340 居住人数:3342 建筑年份:2011"
-    },
-    {
-      "name": "金科廊桥水岸东区",
-      "households": 650,
-      "residents": "1294",
-      "year": "-",
-      "raw": "金科廊桥水岸东区 户数:650 居住人数:1294 建筑年份:-"
-    },
-    {
-      "name": "融创长滩壹号",
-      "households": 781,
-      "residents": "1732",
-      "year": "2012",
-      "raw": "融创长滩壹号 户数:781 居住人数:1732 建筑年份:2012"
-    },
-    {
-      "name": "首开·梧桐山语",
-      "households": 1294,
-      "residents": null,
-      "year": "-",
-      "raw": "首开·梧桐山语 户数:1294 居住人数:小于100 建筑年份:-"
-    },
-    {
-      "name": "建新家园",
-      "households": 3,
-      "residents": null,
-      "year": "-",
-      "raw": "建新家园 户数:3 居住人数:小于100 建筑年份:-"
-    },
-    {
-      "name": "金科廊桥水岸-西区",
-      "households": 1196,
-      "residents": "1532",
-      "year": "2016",
-      "raw": "金科廊桥水岸-西区 户数:1196 居住人数:1532 建筑年份:2016"
-    },
-    {
-      "name": "南地绿都庄园",
-      "households": null,
-      "residents": null,
-      "year": "-",
-      "raw": "南地绿都庄园 建筑年份:- 张各庄村南地"
-    },
-    {
-      "name": "甜馨公寓",
-      "households": 4,
-      "residents": "140+",
-      "year": "-",
-      "raw": "甜馨公寓 户数:4 居住人数:140+ 建筑年份:-"
-    },
-    {
-      "name": "海宝公寓",
-      "households": 4,
-      "residents": null,
-      "year": "-",
-      "raw": "海宝公寓 户数:4 居住人数:小于100 建筑年份:-"
-    },
-    {
-      "name": "张各庄村南3号院",
-      "households": null,
-      "residents": null,
-      "year": "-",
-      "raw": "张各庄村南3号院 建筑年份:- 北京市昌平区张各庄中街"
-    },
-    {
-      "name": "金隅·澜湾南区",
-      "households": 254,
-      "residents": "350+",
-      "year": "2015",
-      "raw": "金隅·澜湾南区 户数:254 居住人数:350+ 建筑年份:2015"
-    },
-    {
-      "name": "金隅红石座-北区",
-      "households": 780,
-      "residents": "840+",
-      "year": "2015",
-      "raw": "金隅红石座-北区 户数:780 居住人数:840+ 建筑年份:2015"
-    },
-    {
-      "name": "金隅水晶屿",
-      "households": 716,
-      "residents": "300+",
-      "year": "2016",
-      "raw": "金隅水晶屿 户数:716 居住人数:300+ 建筑年份:2016"
-    },
-    {
-      "name": "金隅红石座-南区",
-      "households": 91,
-      "residents": "440+",
-      "year": "-",
-      "raw": "金隅红石座-南区 户数:91 居住人数:440+ 建筑年份:-"
-    },
-    {
-      "name": "昌崔路198号院",
-      "households": 959,
-      "residents": "3084",
-      "year": "-",
-      "raw": "昌崔路198号院 户数:959 居住人数:3084 建筑年份:-"
-    },
-    {
-      "name": "金隅嘉和园-南区",
-      "households": 827,
-      "residents": "1462",
-      "year": "2010",
-      "raw": "金隅嘉和园-南区 户数:827 居住人数:1462 建筑年份:2010"
-    },
-    {
-      "name": "金隅嘉和园-北区",
-      "households": 104,
-      "residents": "820+",
-      "year": "-",
-      "raw": "金隅嘉和园-北区 户数:104 居住人数:820+ 建筑年份:-"
-    },
-    {
-      "name": "畅椿园",
-      "households": 725,
-      "residents": null,
-      "year": "-",
-      "raw": "畅椿园 户数:725 居住人数:小于100 建筑年份:-"
-    },
-    {
-      "name": "金隅观澜时代",
-      "households": 845,
-      "residents": "2019",
-      "year": "2012",
-      "raw": "金隅观澜时代 户数:845 居住人数:2019 建筑年份:2012"
-    },
-    {
-      "name": "龙水路22号院",
-      "households": 379,
-      "residents": "950+",
-      "year": "1980",
-      "raw": "龙水路22号院 户数:379 居住人数:950+ 建筑年份:1980"
-    },
-    {
-      "name": "畅椿阁-南区",
-      "households": 832,
-      "residents": "1343",
-      "year": "1992",
-      "raw": "畅椿阁-南区 户数:832 居住人数:1343 建筑年份:1992"
-    },
-    {
-      "name": "清朗园",
-      "households": 289,
-      "residents": "530+",
-      "year": "1999",
-      "raw": "清朗园 户数:289 居住人数:530+ 建筑年份:1999"
-    },
-    {
-      "name": "畅椿阁-北区",
-      "households": 359,
-      "residents": "380+",
-      "year": "2000",
-      "raw": "畅椿阁-北区 户数:359 居住人数:380+ 建筑年份:2000"
-    },
-    {
-      "name": "果岭小镇国通家园-2区",
-      "households": 1110,
-      "residents": "3121",
-      "year": "2005",
-      "raw": "果岭小镇国通家园-2区 户数:1110 居住人数:3121 建筑年份:2005"
-    },
-    {
-      "name": "菓岭小镇别墅区",
-      "households": 1014,
-      "residents": "360+",
-      "year": "2006",
-      "raw": "菓岭小镇别墅区 户数:1014 居住人数:360+ 建筑年份:2006"
-    },
-    {
-      "name": "中国软件与技术服务股份有限公司家属院",
-      "households": 1081,
-      "residents": "820+",
-      "year": "-",
-      "raw": "中国软件与技术服务股份有限公司家属院 户数:1081 居住人数:820+ 建筑年份:-"
-    },
-    {
-      "name": "昌盛园-二区",
-      "households": 980,
-      "residents": "2229",
-      "year": "1994",
-      "raw": "昌盛园-二区 户数:980 居住人数:2229 建筑年份:1994"
-    },
-    {
-      "name": "东关管厂宿舍",
-      "households": 174,
-      "residents": "450+",
-      "year": "2000",
-      "raw": "东关管厂宿舍 户数:174 居住人数:450+ 建筑年份:2000"
-    },
-    {
-      "name": "军蓝嘉园",
-      "households": 133,
-      "residents": "600+",
-      "year": "-",
-      "raw": "军蓝嘉园 户数:133 居住人数:600+ 建筑年份:-"
-    },
-    {
-      "name": "介山社区",
-      "households": 277,
-      "residents": "1338",
-      "year": "-",
-      "raw": "介山社区 户数:277 居住人数:1338 建筑年份:-"
-    },
-    {
-      "name": "宁馨苑-北区",
-      "households": 1955,
-      "residents": "3803",
-      "year": "2004",
-      "raw": "宁馨苑-北区 户数:1955 居住人数:3803 建筑年份:2004"
-    },
-    {
-      "name": "世涛天朗",
-      "households": 1343,
-      "residents": "4216",
-      "year": "2007",
-      "raw": "世涛天朗 户数:1343 居住人数:4216 建筑年份:2007"
-    }
-  ],
-  "community_count": 60
+  ]
 }
