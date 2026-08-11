@@ -26,13 +26,13 @@
     "annual_daily_rank": "",
     "jun_total": 4.4,
     "jun_total_rank": "市内商场第556名",
-    "jun_daily_avg": 1460.0,
+    "jun_daily_avg": 1460,
     "jun_daily_unit": "人次",
     "jun_daily_rank": "市内商场第556名",
-    "weekday_avg": 1403.0,
+    "weekday_avg": 1403,
     "weekday_unit": "人次",
     "weekday_rank": "市内商场第556名",
-    "holiday_avg": 1614.0,
+    "holiday_avg": 1614,
     "holiday_unit": "人次",
     "holiday_rank": "市内商场第554名"
   },
@@ -40,10 +40,10 @@
     "residential": {
       "500m": 2.4,
       "1_5km": 9.8,
-      "3km": 14.0
+      "3km": 14
     },
     "office": {
-      "500m": 5400.0,
+      "500m": 5400,
       "1_5km": 3.2,
       "3km": 5.3
     },
@@ -55,25 +55,25 @@
   },
   "business": {
     "competitors": null,
-    "food": 108.0,
-    "shopping": 17.0,
-    "leisure": 5.0,
-    "education": 3.0,
+    "food": 108,
+    "shopping": 17,
+    "leisure": 5,
+    "education": 3,
     "hotel": null,
-    "services": 12.0,
-    "fitness": 2.0,
-    "auto": 2.0,
-    "total_stores": 83.0,
-    "old_store_3yr_pct": 43.0
+    "services": 12,
+    "fitness": 2,
+    "auto": 2,
+    "total_stores": 83,
+    "old_store_3yr_pct": 43
   },
   "nearby_poi": {
-    "business": 1.0,
-    "community": 36.0,
-    "office": 2.0,
-    "school": 11.0,
-    "hospital": 4.0,
-    "transport": 3.0,
-    "scenic": 45.0
+    "business": 1,
+    "community": 36,
+    "office": 2,
+    "school": 11,
+    "hospital": 4,
+    "transport": 3,
+    "scenic": 45
   },
   "demographics": {
     "male_pct": 51.1,
@@ -146,38 +146,293 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 74.0,
+      "count": 74,
       "within_1yr_pct": 28.4,
       "1_3yr_pct": 28.4,
       "over_3yr_pct": 43.2
     },
     {
       "type": "购物",
-      "count": 2.0,
-      "within_1yr_pct": 0.0,
-      "1_3yr_pct": 50.0,
-      "over_3yr_pct": 50.0
+      "count": 2,
+      "within_1yr_pct": 0,
+      "1_3yr_pct": 50,
+      "over_3yr_pct": 50
     },
     {
       "type": "休闲娱乐",
-      "count": 2.0,
-      "within_1yr_pct": 0.0,
-      "1_3yr_pct": 50.0,
-      "over_3yr_pct": 50.0
+      "count": 2,
+      "within_1yr_pct": 0,
+      "1_3yr_pct": 50,
+      "over_3yr_pct": 50
     },
     {
       "type": "教育培训",
-      "count": 2.0,
-      "within_1yr_pct": 100.0,
-      "1_3yr_pct": 0.0,
-      "over_3yr_pct": 0.0
+      "count": 2,
+      "within_1yr_pct": 100,
+      "1_3yr_pct": 0,
+      "over_3yr_pct": 0
     },
     {
       "type": "生活服务",
-      "count": 3.0,
-      "within_1yr_pct": 0.0,
+      "count": 3,
+      "within_1yr_pct": 0,
       "1_3yr_pct": 33.3,
       "over_3yr_pct": 66.7
     }
-  ]
+  ],
+  "nearby_communities": [
+    {
+      "name": "海尚墅林苑",
+      "households": 833,
+      "residents": "2181",
+      "year": "2011",
+      "raw": "海尚墅林苑 户数:833 居住人数:2181 建筑年份:2011"
+    },
+    {
+      "name": "泰禾海上院子",
+      "households": 590,
+      "residents": "1262",
+      "year": "2019",
+      "raw": "泰禾海上院子 户数:590 居住人数:1262 建筑年份:2019"
+    },
+    {
+      "name": "华东理工大学(奉贤校区)-学生公寓15号楼",
+      "households": 13,
+      "residents": "510+",
+      "year": "-",
+      "raw": "华东理工大学(奉贤校区)-学生公寓15号楼 户数:13 居住人数:510+ 建筑年份:-"
+    },
+    {
+      "name": "华东理工大学奉贤校区后勤宿舍楼",
+      "households": 20,
+      "residents": null,
+      "year": "-",
+      "raw": "华东理工大学奉贤校区后勤宿舍楼 户数:20 居住人数:小于100 建筑年份:-"
+    },
+    {
+      "name": "上海应用技术大学26号学生公寓",
+      "households": 23,
+      "residents": "630+",
+      "year": "-",
+      "raw": "上海应用技术大学26号学生公寓 户数:23 居住人数:630+ 建筑年份:-"
+    },
+    {
+      "name": "柘林佳源新都3期",
+      "households": 762,
+      "residents": "3303",
+      "year": "-",
+      "raw": "柘林佳源新都3期 户数:762 居住人数:3303 建筑年份:-"
+    },
+    {
+      "name": "圣地雅歌海墅",
+      "households": 104,
+      "residents": "290+",
+      "year": "2015",
+      "raw": "圣地雅歌海墅 户数:104 居住人数:290+ 建筑年份:2015"
+    },
+    {
+      "name": "营房社区文明苑",
+      "households": 241,
+      "residents": null,
+      "year": "-",
+      "raw": "营房社区文明苑 户数:241 居住人数:小于100 建筑年份:-"
+    },
+    {
+      "name": "招商海廷-北区",
+      "households": 106,
+      "residents": "300+",
+      "year": "2012",
+      "raw": "招商海廷-北区 户数:106 居住人数:300+ 建筑年份:2012"
+    },
+    {
+      "name": "柘林佳源新都2期",
+      "households": 427,
+      "residents": "1904",
+      "year": "-",
+      "raw": "柘林佳源新都2期 户数:427 居住人数:1904 建筑年份:-"
+    },
+    {
+      "name": "上海绿地香颂",
+      "households": 879,
+      "residents": "6480",
+      "year": "2013",
+      "raw": "上海绿地香颂 户数:879 居住人数:6480 建筑年份:2013"
+    },
+    {
+      "name": "柘林佳源新都-4期",
+      "households": 333,
+      "residents": "1536",
+      "year": "-",
+      "raw": "柘林佳源新都-4期 户数:333 居住人数:1536 建筑年份:-"
+    },
+    {
+      "name": "招商海廷(南区)",
+      "households": 292,
+      "residents": "1019",
+      "year": "2015",
+      "raw": "招商海廷(南区) 户数:292 居住人数:1019 建筑年份:2015"
+    },
+    {
+      "name": "新院邨",
+      "households": 264,
+      "residents": "730+",
+      "year": "1982",
+      "raw": "新院邨 户数:264 居住人数:730+ 建筑年份:1982"
+    },
+    {
+      "name": "阳光家园",
+      "households": 11,
+      "residents": null,
+      "year": "2013",
+      "raw": "阳光家园 户数:11 居住人数:小于100 建筑年份:2013"
+    },
+    {
+      "name": "海湾新家园北区",
+      "households": 388,
+      "residents": "1131",
+      "year": "-",
+      "raw": "海湾新家园北区 户数:388 居住人数:1131 建筑年份:-"
+    },
+    {
+      "name": "一号新村",
+      "households": 1142,
+      "residents": "1405",
+      "year": "-",
+      "raw": "一号新村 户数:1142 居住人数:1405 建筑年份:-"
+    },
+    {
+      "name": "柘林海韵馨苑",
+      "households": 1790,
+      "residents": "5941",
+      "year": "2009",
+      "raw": "柘林海韵馨苑 户数:1790 居住人数:5941 建筑年份:2009"
+    },
+    {
+      "name": "文化新村",
+      "households": 76,
+      "residents": "480+",
+      "year": "-",
+      "raw": "文化新村 户数:76 居住人数:480+ 建筑年份:-"
+    },
+    {
+      "name": "海湾社区",
+      "households": 78,
+      "residents": "140+",
+      "year": "-",
+      "raw": "海湾社区 户数:78 居住人数:140+ 建筑年份:-"
+    },
+    {
+      "name": "明鸿苑",
+      "households": 133,
+      "residents": "170+",
+      "year": "-",
+      "raw": "明鸿苑 户数:133 居住人数:170+ 建筑年份:-"
+    },
+    {
+      "name": "阳光海岸",
+      "households": 120,
+      "residents": "830+",
+      "year": "2005",
+      "raw": "阳光海岸 户数:120 居住人数:830+ 建筑年份:2005"
+    },
+    {
+      "name": "旭辉圆石滩",
+      "households": 334,
+      "residents": "930+",
+      "year": "2012",
+      "raw": "旭辉圆石滩 户数:334 居住人数:930+ 建筑年份:2012"
+    },
+    {
+      "name": "海湾艺墅",
+      "households": 355,
+      "residents": "450+",
+      "year": "2008",
+      "raw": "海湾艺墅 户数:355 居住人数:450+ 建筑年份:2008"
+    },
+    {
+      "name": "海湾艺墅-东区",
+      "households": 236,
+      "residents": "340+",
+      "year": "-",
+      "raw": "海湾艺墅-东区 户数:236 居住人数:340+ 建筑年份:-"
+    },
+    {
+      "name": "海湾健康花苑",
+      "households": 138,
+      "residents": "400+",
+      "year": "2004",
+      "raw": "海湾健康花苑 户数:138 居住人数:400+ 建筑年份:2004"
+    },
+    {
+      "name": "棕榈滩东海岸",
+      "households": 112,
+      "residents": "320+",
+      "year": "2001",
+      "raw": "棕榈滩东海岸 户数:112 居住人数:320+ 建筑年份:2001"
+    },
+    {
+      "name": "三景苑",
+      "households": 26,
+      "residents": "130+",
+      "year": "2003",
+      "raw": "三景苑 户数:26 居住人数:130+ 建筑年份:2003"
+    },
+    {
+      "name": "海湾世纪佳苑",
+      "households": 58,
+      "residents": "210+",
+      "year": "2002",
+      "raw": "海湾世纪佳苑 户数:58 居住人数:210+ 建筑年份:2002"
+    },
+    {
+      "name": "滩浒新村",
+      "households": 80,
+      "residents": "230+",
+      "year": "2007",
+      "raw": "滩浒新村 户数:80 居住人数:230+ 建筑年份:2007"
+    },
+    {
+      "name": "棕榈滩别墅",
+      "households": 180,
+      "residents": "390+",
+      "year": "2016",
+      "raw": "棕榈滩别墅 户数:180 居住人数:390+ 建筑年份:2016"
+    },
+    {
+      "name": "海岸景苑",
+      "households": 504,
+      "residents": "2357",
+      "year": "2006",
+      "raw": "海岸景苑 户数:504 居住人数:2357 建筑年份:2006"
+    },
+    {
+      "name": "嘉业海悦",
+      "households": 990,
+      "residents": "1294",
+      "year": "2018",
+      "raw": "嘉业海悦 户数:990 居住人数:1294 建筑年份:2018"
+    },
+    {
+      "name": "佳兆业珊瑚湾",
+      "households": 1414,
+      "residents": "2731",
+      "year": "2009",
+      "raw": "佳兆业珊瑚湾 户数:1414 居住人数:2731 建筑年份:2009"
+    },
+    {
+      "name": "奉贤金海湾花苑",
+      "households": 130,
+      "residents": "310+",
+      "year": "2004",
+      "raw": "奉贤金海湾花苑 户数:130 居住人数:310+ 建筑年份:2004"
+    },
+    {
+      "name": "棕榈滩海景城",
+      "households": 1228,
+      "residents": "2297",
+      "year": "2013",
+      "raw": "棕榈滩海景城 户数:1228 居住人数:2297 建筑年份:2013"
+    }
+  ],
+  "community_count": 36
 }

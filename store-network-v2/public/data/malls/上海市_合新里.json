@@ -7,8 +7,8 @@
   "overview": {
     "score": 83.5,
     "score_rank": "市内前30%",
-    "population_score": 100.0,
-    "area_score": 88.0,
+    "population_score": 100,
+    "area_score": 88,
     "consumption_score": 79.3,
     "industry_score": 83.5,
     "annual_sales": "",
@@ -54,29 +54,29 @@
     }
   },
   "business": {
-    "competitors": 4.0,
-    "food": 277.0,
-    "shopping": 188.0,
-    "leisure": 32.0,
-    "education": 18.0,
-    "hotel": 58.0,
-    "services": 198.0,
-    "fitness": 22.0,
-    "auto": 11.0,
-    "total_stores": 807.0,
-    "old_store_3yr_pct": 50.0
+    "competitors": 4,
+    "food": 277,
+    "shopping": 188,
+    "leisure": 32,
+    "education": 18,
+    "hotel": 58,
+    "services": 198,
+    "fitness": 22,
+    "auto": 11,
+    "total_stores": 807,
+    "old_store_3yr_pct": 50
   },
   "nearby_poi": {
-    "business": 12.0,
-    "community": 926.0,
-    "office": 133.0,
-    "school": 67.0,
-    "hospital": 128.0,
-    "transport": 12.0,
-    "scenic": 516.0
+    "business": 12,
+    "community": 926,
+    "office": 133,
+    "school": 67,
+    "hospital": 128,
+    "transport": 12,
+    "scenic": 516
   },
   "demographics": {
-    "male_pct": 48.0,
+    "male_pct": 48,
     "female_pct": null,
     "education": {
       "小学": 9.4,
@@ -428,59 +428,419 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 277.0,
+      "count": 277,
       "within_1yr_pct": 28.2,
       "1_3yr_pct": 27.4,
       "over_3yr_pct": 44.4
     },
     {
       "type": "购物",
-      "count": 188.0,
+      "count": 188,
       "within_1yr_pct": 19.7,
       "1_3yr_pct": 21.3,
-      "over_3yr_pct": 59.0
+      "over_3yr_pct": 59
     },
     {
       "type": "休闲娱乐",
-      "count": 35.0,
+      "count": 35,
       "within_1yr_pct": 34.3,
       "1_3yr_pct": 25.7,
-      "over_3yr_pct": 40.0
+      "over_3yr_pct": 40
     },
     {
       "type": "教育培训",
-      "count": 18.0,
+      "count": 18,
       "within_1yr_pct": 16.7,
       "1_3yr_pct": 33.3,
-      "over_3yr_pct": 50.0
+      "over_3yr_pct": 50
     },
     {
       "type": "酒店住宿",
-      "count": 58.0,
+      "count": 58,
       "within_1yr_pct": 43.1,
       "1_3yr_pct": 20.7,
       "over_3yr_pct": 36.2
     },
     {
       "type": "生活服务",
-      "count": 198.0,
+      "count": 198,
       "within_1yr_pct": 17.2,
       "1_3yr_pct": 25.8,
       "over_3yr_pct": 57.1
     },
     {
       "type": "运动健身",
-      "count": 22.0,
+      "count": 22,
       "within_1yr_pct": 18.2,
       "1_3yr_pct": 36.4,
       "over_3yr_pct": 45.5
     },
     {
       "type": "车辆服务",
-      "count": 11.0,
+      "count": 11,
       "within_1yr_pct": 18.2,
       "1_3yr_pct": 36.4,
       "over_3yr_pct": 45.5
     }
-  ]
+  ],
+  "nearby_communities": [
+    {
+      "name": "华腾苑",
+      "households": 1624,
+      "residents": "5325",
+      "year": "2015",
+      "raw": "华腾苑 户数:1624 居住人数:5325 建筑年份:2015"
+    },
+    {
+      "name": "新大洲华新家苑",
+      "households": 260,
+      "residents": "1018",
+      "year": "2004",
+      "raw": "新大洲华新家苑 户数:260 居住人数:1018 建筑年份:2004"
+    },
+    {
+      "name": "虹桥金茂悦-1期",
+      "households": 1322,
+      "residents": "1587",
+      "year": "2021",
+      "raw": "虹桥金茂悦-1期 户数:1322 居住人数:1587 建筑年份:2021"
+    },
+    {
+      "name": "上实云端",
+      "households": 462,
+      "residents": "980+",
+      "year": "2024",
+      "raw": "上实云端 户数:462 居住人数:980+ 建筑年份:2024-08-31"
+    },
+    {
+      "name": "生宏公寓",
+      "households": 26,
+      "residents": "270+",
+      "year": "-",
+      "raw": "生宏公寓 户数:26 居住人数:270+ 建筑年份:-"
+    },
+    {
+      "name": "徐谢小区",
+      "households": 800,
+      "residents": "1679",
+      "year": "2008",
+      "raw": "徐谢小区 户数:800 居住人数:1679 建筑年份:2008"
+    },
+    {
+      "name": "新大洲华庭苑",
+      "households": 426,
+      "residents": "1661",
+      "year": "2009",
+      "raw": "新大洲华庭苑 户数:426 居住人数:1661 建筑年份:2009"
+    },
+    {
+      "name": "兆地尊庭",
+      "households": 244,
+      "residents": "1383",
+      "year": "2014",
+      "raw": "兆地尊庭 户数:244 居住人数:1383 建筑年份:2014"
+    },
+    {
+      "name": "华强景苑",
+      "households": 284,
+      "residents": "1059",
+      "year": "2004",
+      "raw": "华强景苑 户数:284 居住人数:1059 建筑年份:2004"
+    },
+    {
+      "name": "海玥金茂悦",
+      "households": 1048,
+      "residents": "1853",
+      "year": "2022",
+      "raw": "海玥金茂悦 户数:1048 居住人数:1853 建筑年份:2022"
+    },
+    {
+      "name": "公园小区",
+      "households": 104,
+      "residents": "570+",
+      "year": "1997",
+      "raw": "公园小区 户数:104 居住人数:570+ 建筑年份:1997"
+    },
+    {
+      "name": "虹桥金茂悦-2期",
+      "households": 649,
+      "residents": "1629",
+      "year": "2021",
+      "raw": "虹桥金茂悦-2期 户数:649 居住人数:1629 建筑年份:2021-04"
+    },
+    {
+      "name": "华悦雅苑",
+      "households": 727,
+      "residents": "1875",
+      "year": "-",
+      "raw": "华悦雅苑 户数:727 居住人数:1875 建筑年份:-"
+    },
+    {
+      "name": "新苗路28弄-新大洲干部楼",
+      "households": 60,
+      "residents": "230+",
+      "year": "2002",
+      "raw": "新苗路28弄-新大洲干部楼 户数:60 居住人数:230+ 建筑年份:2002"
+    },
+    {
+      "name": "三友星墅",
+      "households": 418,
+      "residents": "3053",
+      "year": "2007",
+      "raw": "三友星墅 户数:418 居住人数:3053 建筑年份:2007"
+    },
+    {
+      "name": "戏院新村",
+      "households": 346,
+      "residents": "1801",
+      "year": "2005",
+      "raw": "戏院新村 户数:346 居住人数:1801 建筑年份:2005"
+    },
+    {
+      "name": "华志路五五五号-B区",
+      "households": 387,
+      "residents": "1607",
+      "year": "-",
+      "raw": "华志路五五五号-B区 户数:387 居住人数:1607 建筑年份:-"
+    },
+    {
+      "name": "华新明珠苑",
+      "households": 100,
+      "residents": "770+",
+      "year": "2011",
+      "raw": "华新明珠苑 户数:100 居住人数:770+ 建筑年份:2011"
+    },
+    {
+      "name": "华富公寓",
+      "households": 417,
+      "residents": "1491",
+      "year": "2003",
+      "raw": "华富公寓 户数:417 居住人数:1491 建筑年份:2003"
+    },
+    {
+      "name": "虹桥宝龙城一期",
+      "households": 468,
+      "residents": "1894",
+      "year": "2014",
+      "raw": "虹桥宝龙城一期 户数:468 居住人数:1894 建筑年份:2014"
+    },
+    {
+      "name": "华巷小区",
+      "households": 170,
+      "residents": "1236",
+      "year": "2000",
+      "raw": "华巷小区 户数:170 居住人数:1236 建筑年份:2000"
+    },
+    {
+      "name": "华富街54弄小区",
+      "households": 17,
+      "residents": "250+",
+      "year": "2002",
+      "raw": "华富街54弄小区 户数:17 居住人数:250+ 建筑年份:2002"
+    },
+    {
+      "name": "华腾佳苑",
+      "households": 1038,
+      "residents": "3752",
+      "year": "2007",
+      "raw": "华腾佳苑 户数:1038 居住人数:3752 建筑年份:2007"
+    },
+    {
+      "name": "徐谢新村",
+      "households": 212,
+      "residents": "1363",
+      "year": "2008",
+      "raw": "徐谢新村 户数:212 居住人数:1363 建筑年份:2008"
+    },
+    {
+      "name": "西联建新村",
+      "households": 96,
+      "residents": "400+",
+      "year": "2010",
+      "raw": "西联建新村 户数:96 居住人数:400+ 建筑年份:2010"
+    },
+    {
+      "name": "东联建小区",
+      "households": 27,
+      "residents": "260+",
+      "year": "2002",
+      "raw": "东联建小区 户数:27 居住人数:260+ 建筑年份:2002"
+    },
+    {
+      "name": "绿地逸湾",
+      "households": 812,
+      "residents": "3267",
+      "year": "2011",
+      "raw": "绿地逸湾 户数:812 居住人数:3267 建筑年份:2011"
+    },
+    {
+      "name": "梦里水乡花园",
+      "households": 750,
+      "residents": "4282",
+      "year": "2007",
+      "raw": "梦里水乡花园 户数:750 居住人数:4282 建筑年份:2007"
+    },
+    {
+      "name": "虹桥宝龙城二期",
+      "households": 1028,
+      "residents": "4213",
+      "year": "2014",
+      "raw": "虹桥宝龙城二期 户数:1028 居住人数:4213 建筑年份:2014"
+    },
+    {
+      "name": "虹桥宝龙城2期1558弄",
+      "households": 233,
+      "residents": "510+",
+      "year": "2014",
+      "raw": "虹桥宝龙城2期1558弄 户数:233 居住人数:510+ 建筑年份:2014"
+    },
+    {
+      "name": "青浦光明荟-南区",
+      "households": 190,
+      "residents": "160+",
+      "year": "-",
+      "raw": "青浦光明荟-南区 户数:190 居住人数:160+ 建筑年份:-"
+    },
+    {
+      "name": "嘉壹智汇",
+      "households": 544,
+      "residents": "310+",
+      "year": "-",
+      "raw": "嘉壹智汇 户数:544 居住人数:310+ 建筑年份:-"
+    },
+    {
+      "name": "建安小区",
+      "households": 96,
+      "residents": "590+",
+      "year": "1986",
+      "raw": "建安小区 户数:96 居住人数:590+ 建筑年份:1986"
+    },
+    {
+      "name": "西郊半岛名苑",
+      "households": 2560,
+      "residents": "9322",
+      "year": "2013",
+      "raw": "西郊半岛名苑 户数:2560 居住人数:9322 建筑年份:2013"
+    },
+    {
+      "name": "大亨花园别墅",
+      "households": 172,
+      "residents": "430+",
+      "year": "1999",
+      "raw": "大亨花园别墅 户数:172 居住人数:430+ 建筑年份:1999"
+    },
+    {
+      "name": "恒文星尚湾",
+      "households": 2558,
+      "residents": "9654",
+      "year": "2016",
+      "raw": "恒文星尚湾 户数:2558 居住人数:9654 建筑年份:2016"
+    },
+    {
+      "name": "陆象小区",
+      "households": 2972,
+      "residents": "6950",
+      "year": "2012",
+      "raw": "陆象小区 户数:2972 居住人数:6950 建筑年份:2012"
+    },
+    {
+      "name": "华益小区",
+      "households": 981,
+      "residents": "1910",
+      "year": "2004",
+      "raw": "华益小区 户数:981 居住人数:1910 建筑年份:2004"
+    },
+    {
+      "name": "陆家圩小区-北区",
+      "households": 1076,
+      "residents": "3025",
+      "year": "2005",
+      "raw": "陆家圩小区-北区 户数:1076 居住人数:3025 建筑年份:2005"
+    },
+    {
+      "name": "陆家圩小区-南区",
+      "households": 615,
+      "residents": "1863",
+      "year": "-",
+      "raw": "陆家圩小区-南区 户数:615 居住人数:1863 建筑年份:-"
+    },
+    {
+      "name": "姜苑居(纪秀路)",
+      "households": 4,
+      "residents": null,
+      "year": "-",
+      "raw": "姜苑居(纪秀路) 户数:4 居住人数:小于100 建筑年份:-"
+    },
+    {
+      "name": "鹫山村永丰苑小区",
+      "households": 384,
+      "residents": "2034",
+      "year": "-",
+      "raw": "鹫山村永丰苑小区 户数:384 居住人数:2034 建筑年份:-"
+    },
+    {
+      "name": "秀龙人才公寓办公",
+      "households": 12,
+      "residents": "350+",
+      "year": "-",
+      "raw": "秀龙人才公寓办公 户数:12 居住人数:350+ 建筑年份:-"
+    },
+    {
+      "name": "鹫山小区",
+      "households": 401,
+      "residents": "2455",
+      "year": "1998",
+      "raw": "鹫山小区 户数:401 居住人数:2455 建筑年份:1998"
+    },
+    {
+      "name": "秀龙中心村",
+      "households": 2816,
+      "residents": "8487",
+      "year": "2011",
+      "raw": "秀龙中心村 户数:2816 居住人数:8487 建筑年份:2011"
+    },
+    {
+      "name": "华南路建兢公寓",
+      "households": 23,
+      "residents": "270+",
+      "year": "-",
+      "raw": "华南路建兢公寓 户数:23 居住人数:270+ 建筑年份:-"
+    },
+    {
+      "name": "宏村公寓",
+      "households": 6,
+      "residents": "100+",
+      "year": "-",
+      "raw": "宏村公寓 户数:6 居住人数:100+ 建筑年份:-"
+    },
+    {
+      "name": "北新家园",
+      "households": 123,
+      "residents": "730+",
+      "year": "1982",
+      "raw": "北新家园 户数:123 居住人数:730+ 建筑年份:1982"
+    },
+    {
+      "name": "普洲华新园",
+      "households": 78,
+      "residents": null,
+      "year": "-",
+      "raw": "普洲华新园 户数:78 居住人数:小于100 建筑年份:-"
+    },
+    {
+      "name": "北港花园",
+      "households": null,
+      "residents": null,
+      "year": "-",
+      "raw": "北港花园 建筑年份:- 上海市闵行区华漕镇赵家村"
+    },
+    {
+      "name": "中交·凤启虹桥",
+      "households": 2311,
+      "residents": "650+",
+      "year": "2025",
+      "raw": "中交·凤启虹桥 户数:2311 居住人数:650+ 建筑年份:2025-03"
+    }
+  ],
+  "community_count": 51
 }

@@ -24,7 +24,7 @@
     "annual_daily": 3.33,
     "annual_daily_unit": "万人次",
     "annual_daily_rank": "市内第59",
-    "jun_total": 160.0,
+    "jun_total": 160,
     "jun_total_rank": "市内商场第41名",
     "jun_daily_avg": 5.3,
     "jun_daily_unit": "万人次",
@@ -39,12 +39,12 @@
   "population": {
     "residential": {
       "500m": 1.5,
-      "1_5km": 6.0,
+      "1_5km": 6,
       "3km": 12.8
     },
     "office": {
-      "500m": 6300.0,
-      "1_5km": 3.0,
+      "500m": 6300,
+      "1_5km": 3,
       "3km": 8.2
     },
     "permanent": {
@@ -54,26 +54,26 @@
     }
   },
   "business": {
-    "competitors": 4.0,
-    "food": 125.0,
-    "shopping": 144.0,
-    "leisure": 21.0,
-    "education": 26.0,
-    "hotel": 3.0,
-    "services": 83.0,
-    "fitness": 26.0,
-    "auto": 10.0,
-    "total_stores": 286.0,
-    "old_store_3yr_pct": 52.0
+    "competitors": 4,
+    "food": 125,
+    "shopping": 144,
+    "leisure": 21,
+    "education": 26,
+    "hotel": 3,
+    "services": 83,
+    "fitness": 26,
+    "auto": 10,
+    "total_stores": 286,
+    "old_store_3yr_pct": 52
   },
   "nearby_poi": {
-    "business": 2.0,
-    "community": 26.0,
-    "office": 2.0,
-    "school": 16.0,
-    "hospital": 17.0,
-    "transport": 7.0,
-    "scenic": 12.0
+    "business": 2,
+    "community": 26,
+    "office": 2,
+    "school": 16,
+    "hospital": 17,
+    "transport": 7,
+    "scenic": 12
   },
   "demographics": {
     "male_pct": 50.1,
@@ -81,11 +81,11 @@
     "education": {
       "小学": 10.2,
       "初中": 16.9,
-      "高中": 11.0,
+      "高中": 11,
       "大专": 8.2,
       "本科": 46.5,
       "硕士": 6.2,
-      "博士": 1.0
+      "博士": 1
     },
     "has_children_pct": 55.7,
     "no_children_pct": 44.3
@@ -364,52 +364,237 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 95.0,
+      "count": 95,
       "within_1yr_pct": 24.2,
       "1_3yr_pct": 23.2,
       "over_3yr_pct": 52.6
     },
     {
       "type": "购物",
-      "count": 108.0,
+      "count": 108,
       "within_1yr_pct": 23.1,
       "1_3yr_pct": 18.5,
       "over_3yr_pct": 58.3
     },
     {
       "type": "休闲娱乐",
-      "count": 20.0,
-      "within_1yr_pct": 30.0,
-      "1_3yr_pct": 25.0,
-      "over_3yr_pct": 45.0
+      "count": 20,
+      "within_1yr_pct": 30,
+      "1_3yr_pct": 25,
+      "over_3yr_pct": 45
     },
     {
       "type": "教育培训",
-      "count": 11.0,
+      "count": 11,
       "within_1yr_pct": 36.4,
       "1_3yr_pct": 27.3,
       "over_3yr_pct": 36.4
     },
     {
       "type": "生活服务",
-      "count": 29.0,
+      "count": 29,
       "within_1yr_pct": 24.1,
-      "1_3yr_pct": 31.0,
+      "1_3yr_pct": 31,
       "over_3yr_pct": 44.8
     },
     {
       "type": "运动健身",
-      "count": 18.0,
+      "count": 18,
       "within_1yr_pct": 33.3,
       "1_3yr_pct": 16.7,
-      "over_3yr_pct": 50.0
+      "over_3yr_pct": 50
     },
     {
       "type": "车辆服务",
-      "count": 5.0,
-      "within_1yr_pct": 40.0,
-      "1_3yr_pct": 20.0,
-      "over_3yr_pct": 40.0
+      "count": 5,
+      "within_1yr_pct": 40,
+      "1_3yr_pct": 20,
+      "over_3yr_pct": 40
     }
-  ]
+  ],
+  "nearby_communities": [
+    {
+      "name": "保利·春天里",
+      "households": 2880,
+      "residents": "7318",
+      "year": "2015",
+      "raw": "保利·春天里 户数:2880 居住人数:7318 建筑年份:2015"
+    },
+    {
+      "name": "保利春天派",
+      "households": 829,
+      "residents": "990+",
+      "year": "2015",
+      "raw": "保利春天派 户数:829 居住人数:990+ 建筑年份:2015"
+    },
+    {
+      "name": "熙悦春天",
+      "households": 1850,
+      "residents": "4263",
+      "year": "2019",
+      "raw": "熙悦春天 户数:1850 居住人数:4263 建筑年份:2019"
+    },
+    {
+      "name": "天堂河小区南区",
+      "households": 660,
+      "residents": "1150",
+      "year": "2007",
+      "raw": "天堂河小区南区 户数:660 居住人数:1150 建筑年份:2007"
+    },
+    {
+      "name": "金融街融汇",
+      "households": 3566,
+      "residents": "6912",
+      "year": "2006",
+      "raw": "金融街融汇 户数:3566 居住人数:6912 建筑年份:2006"
+    },
+    {
+      "name": "天堂河小区北区",
+      "households": 955,
+      "residents": "1876",
+      "year": "2007",
+      "raw": "天堂河小区北区 户数:955 居住人数:1876 建筑年份:2007"
+    },
+    {
+      "name": "中国水电云立方",
+      "households": 1151,
+      "residents": "2344",
+      "year": "2014",
+      "raw": "中国水电云立方 户数:1151 居住人数:2344 建筑年份:2014"
+    },
+    {
+      "name": "天宫院小区",
+      "households": 2506,
+      "residents": "5494",
+      "year": "2012",
+      "raw": "天宫院小区 户数:2506 居住人数:5494 建筑年份:2012"
+    },
+    {
+      "name": "天荣街18号院",
+      "households": 137,
+      "residents": null,
+      "year": "-",
+      "raw": "天荣街18号院 户数:137 居住人数:小于100 建筑年份:-"
+    },
+    {
+      "name": "天堂河小区-东区",
+      "households": 240,
+      "residents": "720+",
+      "year": "2007",
+      "raw": "天堂河小区-东区 户数:240 居住人数:720+ 建筑年份:2007"
+    },
+    {
+      "name": "住总正华多彩嘉园",
+      "households": 77,
+      "residents": "1181",
+      "year": "-",
+      "raw": "住总正华多彩嘉园 户数:77 居住人数:1181 建筑年份:-"
+    },
+    {
+      "name": "天荣街-19号院",
+      "households": 99,
+      "residents": null,
+      "year": "-",
+      "raw": "天荣街-19号院 户数:99 居住人数:小于100 建筑年份:-"
+    },
+    {
+      "name": "金科嘉苑",
+      "households": 588,
+      "residents": "4938",
+      "year": "-",
+      "raw": "金科嘉苑 户数:588 居住人数:4938 建筑年份:-"
+    },
+    {
+      "name": "龙湖时代天街-西2区",
+      "households": 42,
+      "residents": "840+",
+      "year": "-",
+      "raw": "龙湖时代天街-西2区 户数:42 居住人数:840+ 建筑年份:-"
+    },
+    {
+      "name": "龙湖时代天街-北区",
+      "households": 916,
+      "residents": "1084",
+      "year": "2014",
+      "raw": "龙湖时代天街-北区 户数:916 居住人数:1084 建筑年份:2014"
+    },
+    {
+      "name": "龙湖时代天街西区",
+      "households": 448,
+      "residents": "2281",
+      "year": "-",
+      "raw": "龙湖时代天街西区 户数:448 居住人数:2281 建筑年份:-"
+    },
+    {
+      "name": "龙湖时代天街-东区",
+      "households": 3430,
+      "residents": "5099",
+      "year": "2014",
+      "raw": "龙湖时代天街-东区 户数:3430 居住人数:5099 建筑年份:2014"
+    },
+    {
+      "name": "珺悦国际",
+      "households": 4067,
+      "residents": "6843",
+      "year": "2014",
+      "raw": "珺悦国际 户数:4067 居住人数:6843 建筑年份:2014"
+    },
+    {
+      "name": "明发雅苑",
+      "households": 729,
+      "residents": "2381",
+      "year": "2016",
+      "raw": "明发雅苑 户数:729 居住人数:2381 建筑年份:2016"
+    },
+    {
+      "name": "鑫苑鑫都汇",
+      "households": 1535,
+      "residents": "3394",
+      "year": "2015",
+      "raw": "鑫苑鑫都汇 户数:1535 居住人数:3394 建筑年份:2015"
+    },
+    {
+      "name": "兴源幸福城",
+      "households": 342,
+      "residents": "1794",
+      "year": "-",
+      "raw": "兴源幸福城 户数:342 居住人数:1794 建筑年份:-"
+    },
+    {
+      "name": "住总万科橙",
+      "households": 1355,
+      "residents": "3958",
+      "year": "2015",
+      "raw": "住总万科橙 户数:1355 居住人数:3958 建筑年份:2015"
+    },
+    {
+      "name": "新源时代小区",
+      "households": 2090,
+      "residents": "5510",
+      "year": "2013",
+      "raw": "新源时代小区 户数:2090 居住人数:5510 建筑年份:2013"
+    },
+    {
+      "name": "金隅i立方",
+      "households": 2363,
+      "residents": "2742",
+      "year": "2012",
+      "raw": "金隅i立方 户数:2363 居住人数:2742 建筑年份:2012"
+    },
+    {
+      "name": "绿地智汇健康城",
+      "households": 552,
+      "residents": "940+",
+      "year": "-",
+      "raw": "绿地智汇健康城 户数:552 居住人数:940+ 建筑年份:-"
+    },
+    {
+      "name": "德贤华府",
+      "households": 1337,
+      "residents": "790+",
+      "year": "-",
+      "raw": "德贤华府 户数:1337 居住人数:790+ 建筑年份:-"
+    }
+  ],
+  "community_count": 26
 }

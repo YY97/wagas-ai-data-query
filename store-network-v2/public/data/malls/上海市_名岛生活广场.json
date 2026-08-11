@@ -9,7 +9,7 @@
     "score_rank": "市内前30%",
     "population_score": 64.3,
     "area_score": 68.4,
-    "consumption_score": 63.0,
+    "consumption_score": 63,
     "industry_score": 80.6,
     "annual_sales": "",
     "annual_sales_unit": "",
@@ -26,57 +26,57 @@
     "annual_daily_rank": "",
     "jun_total": 17.9,
     "jun_total_rank": "市内商场第398名",
-    "jun_daily_avg": 5956.0,
+    "jun_daily_avg": 5956,
     "jun_daily_unit": "人次",
     "jun_daily_rank": "市内商场第398名",
-    "weekday_avg": 5730.0,
+    "weekday_avg": 5730,
     "weekday_unit": "人次",
     "weekday_rank": "市内商场第398名",
-    "holiday_avg": 6581.0,
+    "holiday_avg": 6581,
     "holiday_unit": "人次",
     "holiday_rank": "市内商场第397名"
   },
   "population": {
     "residential": {
-      "500m": 3600.0,
+      "500m": 3600,
       "1_5km": 1.1,
       "3km": 2.9
     },
     "office": {
-      "500m": 3200.0,
-      "1_5km": 6500.0,
+      "500m": 3200,
+      "1_5km": 6500,
       "3km": 1.3
     },
     "permanent": {
-      "500m": 4700.0,
+      "500m": 4700,
       "1_5km": 1.2,
       "3km": 2.9
     }
   },
   "business": {
-    "competitors": 1.0,
-    "food": 116.0,
-    "shopping": 60.0,
-    "leisure": 9.0,
-    "education": 8.0,
-    "hotel": 27.0,
-    "services": 48.0,
-    "fitness": 4.0,
-    "auto": 3.0,
-    "total_stores": 79.0,
-    "old_store_3yr_pct": 44.0
+    "competitors": 1,
+    "food": 116,
+    "shopping": 60,
+    "leisure": 9,
+    "education": 8,
+    "hotel": 27,
+    "services": 48,
+    "fitness": 4,
+    "auto": 3,
+    "total_stores": 79,
+    "old_store_3yr_pct": 44
   },
   "nearby_poi": {
     "business": null,
-    "community": 8.0,
-    "office": 1.0,
-    "school": 6.0,
-    "hospital": 4.0,
-    "transport": 2.0,
-    "scenic": 2.0
+    "community": 8,
+    "office": 1,
+    "school": 6,
+    "hospital": 4,
+    "transport": 2,
+    "scenic": 2
   },
   "demographics": {
-    "male_pct": 53.0,
+    "male_pct": 53,
     "female_pct": null,
     "education": {
       "小学": 12.3,
@@ -85,7 +85,7 @@
       "大专": 6.7,
       "本科": 41.7,
       "硕士": 1.9,
-      "博士": 1.0
+      "博士": 1
     },
     "has_children_pct": 59.5,
     "no_children_pct": 40.5
@@ -127,59 +127,118 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 37.0,
+      "count": 37,
       "within_1yr_pct": 29.7,
       "1_3yr_pct": 35.1,
       "over_3yr_pct": 35.1
     },
     {
       "type": "购物",
-      "count": 9.0,
+      "count": 9,
       "within_1yr_pct": 22.2,
       "1_3yr_pct": 33.3,
       "over_3yr_pct": 44.4
     },
     {
       "type": "休闲娱乐",
-      "count": 3.0,
+      "count": 3,
       "within_1yr_pct": 33.3,
       "1_3yr_pct": 33.3,
       "over_3yr_pct": 33.3
     },
     {
       "type": "教育培训",
-      "count": 5.0,
-      "within_1yr_pct": 20.0,
-      "1_3yr_pct": 40.0,
-      "over_3yr_pct": 40.0
+      "count": 5,
+      "within_1yr_pct": 20,
+      "1_3yr_pct": 40,
+      "over_3yr_pct": 40
     },
     {
       "type": "酒店住宿",
-      "count": 4.0,
-      "within_1yr_pct": 0.0,
-      "1_3yr_pct": 0.0,
-      "over_3yr_pct": 100.0
+      "count": 4,
+      "within_1yr_pct": 0,
+      "1_3yr_pct": 0,
+      "over_3yr_pct": 100
     },
     {
       "type": "生活服务",
-      "count": 16.0,
+      "count": 16,
       "within_1yr_pct": 37.5,
-      "1_3yr_pct": 0.0,
+      "1_3yr_pct": 0,
       "over_3yr_pct": 62.5
     },
     {
       "type": "运动健身",
-      "count": 4.0,
-      "within_1yr_pct": 25.0,
-      "1_3yr_pct": 50.0,
-      "over_3yr_pct": 25.0
+      "count": 4,
+      "within_1yr_pct": 25,
+      "1_3yr_pct": 50,
+      "over_3yr_pct": 25
     },
     {
       "type": "车辆服务",
-      "count": 1.0,
-      "within_1yr_pct": 0.0,
-      "1_3yr_pct": 100.0,
-      "over_3yr_pct": 0.0
+      "count": 1,
+      "within_1yr_pct": 0,
+      "1_3yr_pct": 100,
+      "over_3yr_pct": 0
     }
-  ]
+  ],
+  "nearby_communities": [
+    {
+      "name": "陈东小区",
+      "households": 40,
+      "residents": null,
+      "year": "2007",
+      "raw": "陈东小区 户数:40 居住人数:小于100 建筑年份:2007"
+    },
+    {
+      "name": "东滩雍禧",
+      "households": 429,
+      "residents": "890+",
+      "year": "2018",
+      "raw": "东滩雍禧 户数:429 居住人数:890+ 建筑年份:2018-12"
+    },
+    {
+      "name": "仁恒海明院",
+      "households": 632,
+      "residents": "730+",
+      "year": "2023",
+      "raw": "仁恒海明院 户数:632 居住人数:730+ 建筑年份:2023-05-31"
+    },
+    {
+      "name": "路劲象屿岛上的院子",
+      "households": 857,
+      "residents": "1193",
+      "year": "2023",
+      "raw": "路劲象屿岛上的院子 户数:857 居住人数:1193 建筑年份:2023-03"
+    },
+    {
+      "name": "建发和玺",
+      "households": 373,
+      "residents": "370+",
+      "year": "2023",
+      "raw": "建发和玺 户数:373 居住人数:370+ 建筑年份:2023-11"
+    },
+    {
+      "name": "光明墅",
+      "households": 736,
+      "residents": "1125",
+      "year": "2022",
+      "raw": "光明墅 户数:736 居住人数:1125 建筑年份:2022-04-30"
+    },
+    {
+      "name": "海和院",
+      "households": 176,
+      "residents": "1336",
+      "year": "2022",
+      "raw": "海和院 户数:176 居住人数:1336 建筑年份:2022"
+    },
+    {
+      "name": "东滩云墅",
+      "households": 790,
+      "residents": "660+",
+      "year": "2022",
+      "raw": "东滩云墅 户数:790 居住人数:660+ 建筑年份:2022"
+    }
+  ],
+  "community_count": 8
 }

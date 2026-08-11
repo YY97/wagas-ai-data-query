@@ -304,6 +304,18 @@ def main():
         # Per-mall JSON
         fname = safe_filename(city, name)
         fpath = os.path.join(args.out_dir, fname)
+
+        # 保留已有的小区字段（防止 ETL 覆盖手工补充的社区数据）
+        if os.path.exists(fpath):
+            try:
+                with open(fpath, "r", encoding="utf-8") as fr:
+                    existing = json.load(fr)
+                for keep_key in ("nearby_communities", "avg_housing_price", "total_households", "community_count"):
+                    if keep_key in existing:
+                        mall[keep_key] = existing[keep_key]
+            except Exception:
+                pass
+
         with open(fpath, "w", encoding="utf-8") as f:
             json.dump(mall, f, ensure_ascii=False, indent=2)
         write_count += 1

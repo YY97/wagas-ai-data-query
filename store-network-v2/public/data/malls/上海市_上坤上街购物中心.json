@@ -21,18 +21,18 @@
     "floors": ""
   },
   "traffic": {
-    "annual_daily": 3096.0,
+    "annual_daily": 3096,
     "annual_daily_unit": "人次",
     "annual_daily_rank": "市内第435",
     "jun_total": 3.1,
     "jun_total_rank": "市内商场第575名",
-    "jun_daily_avg": 1041.0,
+    "jun_daily_avg": 1041,
     "jun_daily_unit": "人次",
     "jun_daily_rank": "市内商场第575名",
-    "weekday_avg": 974.0,
+    "weekday_avg": 974,
     "weekday_unit": "人次",
     "weekday_rank": "市内商场第576名",
-    "holiday_avg": 1228.0,
+    "holiday_avg": 1228,
     "holiday_unit": "人次",
     "holiday_rank": "市内商场第571名"
   },
@@ -43,8 +43,8 @@
       "3km": 35.3
     },
     "office": {
-      "500m": 4100.0,
-      "1_5km": 4.0,
+      "500m": 4100,
+      "1_5km": 4,
       "3km": 16.4
     },
     "permanent": {
@@ -55,25 +55,25 @@
   },
   "business": {
     "competitors": null,
-    "food": 30.0,
-    "shopping": 39.0,
-    "leisure": 2.0,
-    "education": 4.0,
-    "hotel": 10.0,
-    "services": 28.0,
-    "fitness": 4.0,
-    "auto": 15.0,
-    "total_stores": 49.0,
-    "old_store_3yr_pct": 55.0
+    "food": 30,
+    "shopping": 39,
+    "leisure": 2,
+    "education": 4,
+    "hotel": 10,
+    "services": 28,
+    "fitness": 4,
+    "auto": 15,
+    "total_stores": 49,
+    "old_store_3yr_pct": 55
   },
   "nearby_poi": {
-    "business": 2.0,
-    "community": 180.0,
-    "office": 5.0,
-    "school": 8.0,
-    "hospital": 27.0,
-    "transport": 6.0,
-    "scenic": 102.0
+    "business": 2,
+    "community": 180,
+    "office": 5,
+    "school": 8,
+    "hospital": 27,
+    "transport": 6,
+    "scenic": 102
   },
   "demographics": {
     "male_pct": 53.7,
@@ -85,10 +85,10 @@
       "大专": 9.3,
       "本科": 44.4,
       "硕士": 4.5,
-      "博士": 1.0
+      "博士": 1
     },
-    "has_children_pct": 62.0,
-    "no_children_pct": 38.0
+    "has_children_pct": 62,
+    "no_children_pct": 38
   },
   "scraped_at": "2026-08-01T08:11:14.935Z",
   "nearby_restaurants": [
@@ -159,59 +159,622 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 20.0,
-      "within_1yr_pct": 25.0,
-      "1_3yr_pct": 20.0,
-      "over_3yr_pct": 55.0
+      "count": 20,
+      "within_1yr_pct": 25,
+      "1_3yr_pct": 20,
+      "over_3yr_pct": 55
     },
     {
       "type": "购物",
-      "count": 10.0,
-      "within_1yr_pct": 40.0,
-      "1_3yr_pct": 0.0,
-      "over_3yr_pct": 60.0
+      "count": 10,
+      "within_1yr_pct": 40,
+      "1_3yr_pct": 0,
+      "over_3yr_pct": 60
     },
     {
       "type": "休闲娱乐",
-      "count": 2.0,
-      "within_1yr_pct": 0.0,
-      "1_3yr_pct": 50.0,
-      "over_3yr_pct": 50.0
+      "count": 2,
+      "within_1yr_pct": 0,
+      "1_3yr_pct": 50,
+      "over_3yr_pct": 50
     },
     {
       "type": "教育培训",
-      "count": 1.0,
-      "within_1yr_pct": 0.0,
-      "1_3yr_pct": 0.0,
-      "over_3yr_pct": 100.0
+      "count": 1,
+      "within_1yr_pct": 0,
+      "1_3yr_pct": 0,
+      "over_3yr_pct": 100
     },
     {
       "type": "酒店住宿",
-      "count": 3.0,
+      "count": 3,
       "within_1yr_pct": 33.3,
       "1_3yr_pct": 66.7,
-      "over_3yr_pct": 0.0
+      "over_3yr_pct": 0
     },
     {
       "type": "生活服务",
-      "count": 6.0,
+      "count": 6,
       "within_1yr_pct": 33.3,
       "1_3yr_pct": 33.3,
       "over_3yr_pct": 33.3
     },
     {
       "type": "运动健身",
-      "count": 3.0,
-      "within_1yr_pct": 0.0,
-      "1_3yr_pct": 0.0,
-      "over_3yr_pct": 100.0
+      "count": 3,
+      "within_1yr_pct": 0,
+      "1_3yr_pct": 0,
+      "over_3yr_pct": 100
     },
     {
       "type": "车辆服务",
-      "count": 4.0,
-      "within_1yr_pct": 25.0,
-      "1_3yr_pct": 0.0,
-      "over_3yr_pct": 75.0
+      "count": 4,
+      "within_1yr_pct": 25,
+      "1_3yr_pct": 0,
+      "over_3yr_pct": 75
     }
-  ]
+  ],
+  "nearby_communities": [
+    {
+      "name": "祁北佳苑",
+      "households": 624,
+      "residents": "1013",
+      "year": "2023",
+      "raw": "祁北佳苑 户数:624 居住人数:1013 建筑年份:2023-06"
+    },
+    {
+      "name": "罗溪花苑",
+      "households": 864,
+      "residents": "3087",
+      "year": "1998",
+      "raw": "罗溪花苑 户数:864 居住人数:3087 建筑年份:1998"
+    },
+    {
+      "name": "罗盛苑-1期",
+      "households": 568,
+      "residents": "1983",
+      "year": "2012",
+      "raw": "罗盛苑-1期 户数:568 居住人数:1983 建筑年份:2012"
+    },
+    {
+      "name": "罗盛苑2期",
+      "households": 605,
+      "residents": "1837",
+      "year": "2014",
+      "raw": "罗盛苑2期 户数:605 居住人数:1837 建筑年份:2014"
+    },
+    {
+      "name": "古镇苑",
+      "households": 196,
+      "residents": "880+",
+      "year": "2000",
+      "raw": "古镇苑 户数:196 居住人数:880+ 建筑年份:2000"
+    },
+    {
+      "name": "东西巷街79弄小区",
+      "households": 146,
+      "residents": "800+",
+      "year": "1996",
+      "raw": "东西巷街79弄小区 户数:146 居住人数:800+ 建筑年份:1996"
+    },
+    {
+      "name": "罗店镇阳光家园",
+      "households": 195,
+      "residents": "140+",
+      "year": "-",
+      "raw": "罗店镇阳光家园 户数:195 居住人数:140+ 建筑年份:-"
+    },
+    {
+      "name": "向阳新村-东区",
+      "households": 328,
+      "residents": "650+",
+      "year": "1986",
+      "raw": "向阳新村-东区 户数:328 居住人数:650+ 建筑年份:1986"
+    },
+    {
+      "name": "市一路256弄小区",
+      "households": 57,
+      "residents": "300+",
+      "year": "1998",
+      "raw": "市一路256弄小区 户数:57 居住人数:300+ 建筑年份:1998"
+    },
+    {
+      "name": "金星家园",
+      "households": 343,
+      "residents": "1502",
+      "year": "-",
+      "raw": "金星家园 户数:343 居住人数:1502 建筑年份:-"
+    },
+    {
+      "name": "镇东新村",
+      "households": 435,
+      "residents": "1161",
+      "year": "1986",
+      "raw": "镇东新村 户数:435 居住人数:1161 建筑年份:1986"
+    },
+    {
+      "name": "罗溪佳苑",
+      "households": 218,
+      "residents": "1039",
+      "year": "2021",
+      "raw": "罗溪佳苑 户数:218 居住人数:1039 建筑年份:2021-12"
+    },
+    {
+      "name": "罗闻雅苑",
+      "households": 508,
+      "residents": "1362",
+      "year": "2023",
+      "raw": "罗闻雅苑 户数:508 居住人数:1362 建筑年份:2023-03"
+    },
+    {
+      "name": "佳运名邸",
+      "households": 956,
+      "residents": "340+",
+      "year": "2025",
+      "raw": "佳运名邸 户数:956 居住人数:340+ 建筑年份:2025-05-30"
+    },
+    {
+      "name": "罗太路449弄小区",
+      "households": 48,
+      "residents": "270+",
+      "year": "2016",
+      "raw": "罗太路449弄小区 户数:48 居住人数:270+ 建筑年份:2016"
+    },
+    {
+      "name": "宝房月浦物业祁南-一村",
+      "households": 375,
+      "residents": "1322",
+      "year": "1988",
+      "raw": "宝房月浦物业祁南-一村 户数:375 居住人数:1322 建筑年份:1988"
+    },
+    {
+      "name": "金星绿苑西区",
+      "households": 869,
+      "residents": "2932",
+      "year": "2006",
+      "raw": "金星绿苑西区 户数:869 居住人数:2932 建筑年份:2006"
+    },
+    {
+      "name": "宣桥小区",
+      "households": 6,
+      "residents": null,
+      "year": "-",
+      "raw": "宣桥小区 户数:6 居住人数:小于100 建筑年份:-"
+    },
+    {
+      "name": "罗新苑-南区",
+      "households": 144,
+      "residents": "730+",
+      "year": "-",
+      "raw": "罗新苑-南区 户数:144 居住人数:730+ 建筑年份:-"
+    },
+    {
+      "name": "祁南二村",
+      "households": 947,
+      "residents": "3110",
+      "year": "1996",
+      "raw": "祁南二村 户数:947 居住人数:3110 建筑年份:1996"
+    },
+    {
+      "name": "罗升路257弄小区",
+      "households": 77,
+      "residents": "130+",
+      "year": "1994",
+      "raw": "罗升路257弄小区 户数:77 居住人数:130+ 建筑年份:1994"
+    },
+    {
+      "name": "英伦美墅馆",
+      "households": 28,
+      "residents": "110+",
+      "year": "2008",
+      "raw": "英伦美墅馆 户数:28 居住人数:110+ 建筑年份:2008"
+    },
+    {
+      "name": "景罗苑",
+      "households": 708,
+      "residents": "1208",
+      "year": "2003",
+      "raw": "景罗苑 户数:708 居住人数:1208 建筑年份:2003"
+    },
+    {
+      "name": "东南弄村公寓",
+      "households": 276,
+      "residents": "870+",
+      "year": "2001",
+      "raw": "东南弄村公寓 户数:276 居住人数:870+ 建筑年份:2001"
+    },
+    {
+      "name": "罗新苑西区",
+      "households": 892,
+      "residents": "3098",
+      "year": "2009",
+      "raw": "罗新苑西区 户数:892 居住人数:3098 建筑年份:2009"
+    },
+    {
+      "name": "罗新苑东区祁北路",
+      "households": 1245,
+      "residents": "4391",
+      "year": "2009",
+      "raw": "罗新苑东区祁北路 户数:1245 居住人数:4391 建筑年份:2009"
+    },
+    {
+      "name": "罗溪路60弄小区",
+      "households": 250,
+      "residents": "1548",
+      "year": "1995",
+      "raw": "罗溪路60弄小区 户数:250 居住人数:1548 建筑年份:1995"
+    },
+    {
+      "name": "云雅新苑",
+      "households": 868,
+      "residents": "2523",
+      "year": "-",
+      "raw": "云雅新苑 户数:868 居住人数:2523 建筑年份:-"
+    },
+    {
+      "name": "四方花苑",
+      "households": 1248,
+      "residents": "2473",
+      "year": "2003",
+      "raw": "四方花苑 户数:1248 居住人数:2473 建筑年份:2003"
+    },
+    {
+      "name": "罗溪人才苑",
+      "households": 131,
+      "residents": "600+",
+      "year": "-",
+      "raw": "罗溪人才苑 户数:131 居住人数:600+ 建筑年份:-"
+    },
+    {
+      "name": "瑞福苑",
+      "households": 36,
+      "residents": "350+",
+      "year": "-",
+      "raw": "瑞福苑 户数:36 居住人数:350+ 建筑年份:-"
+    },
+    {
+      "name": "兰湖美域",
+      "households": 791,
+      "residents": "1944",
+      "year": "-",
+      "raw": "兰湖美域 户数:791 居住人数:1944 建筑年份:-"
+    },
+    {
+      "name": "石太路3512弄",
+      "households": 240,
+      "residents": "1009",
+      "year": "2017",
+      "raw": "石太路3512弄 户数:240 居住人数:1009 建筑年份:2017"
+    },
+    {
+      "name": "金星绿苑-2期",
+      "households": 2632,
+      "residents": "5338",
+      "year": "2005",
+      "raw": "金星绿苑-2期 户数:2632 居住人数:5338 建筑年份:2005"
+    },
+    {
+      "name": "轧花记忆",
+      "households": 180,
+      "residents": null,
+      "year": "-",
+      "raw": "轧花记忆 户数:180 居住人数:小于100 建筑年份:-"
+    },
+    {
+      "name": "铂珏公馆",
+      "households": 686,
+      "residents": "2671",
+      "year": "2013",
+      "raw": "铂珏公馆 户数:686 居住人数:2671 建筑年份:2013"
+    },
+    {
+      "name": "远洋美兰公寓",
+      "households": 611,
+      "residents": "2217",
+      "year": "2013",
+      "raw": "远洋美兰公寓 户数:611 居住人数:2217 建筑年份:2013"
+    },
+    {
+      "name": "朗诗绿岛",
+      "households": 942,
+      "residents": "1632",
+      "year": "2010",
+      "raw": "朗诗绿岛 户数:942 居住人数:1632 建筑年份:2010"
+    },
+    {
+      "name": "美兰湖花园",
+      "households": 613,
+      "residents": "1555",
+      "year": "2012",
+      "raw": "美兰湖花园 户数:613 居住人数:1555 建筑年份:2012"
+    },
+    {
+      "name": "上置绿洲香岛原墅别墅",
+      "households": 334,
+      "residents": "2269",
+      "year": "2011",
+      "raw": "上置绿洲香岛原墅别墅 户数:334 居住人数:2269 建筑年份:2011"
+    },
+    {
+      "name": "保翔苑",
+      "households": 928,
+      "residents": "3097",
+      "year": "2014",
+      "raw": "保翔苑 户数:928 居住人数:3097 建筑年份:2014"
+    },
+    {
+      "name": "美罗家园年吉苑",
+      "households": 1620,
+      "residents": "6931",
+      "year": "2018",
+      "raw": "美罗家园年吉苑 户数:1620 居住人数:6931 建筑年份:2018"
+    },
+    {
+      "name": "美罗家园保申苑",
+      "households": 756,
+      "residents": "2308",
+      "year": "2005",
+      "raw": "美罗家园保申苑 户数:756 居住人数:2308 建筑年份:2005"
+    },
+    {
+      "name": "华府美墅",
+      "households": 46,
+      "residents": null,
+      "year": "2014",
+      "raw": "华府美墅 户数:46 居住人数:小于100 建筑年份:2014"
+    },
+    {
+      "name": "中集金地美兰城一期-东区",
+      "households": 91,
+      "residents": "490+",
+      "year": "-",
+      "raw": "中集金地美兰城一期-东区 户数:91 居住人数:490+ 建筑年份:-"
+    },
+    {
+      "name": "顺驰美兰湖畔雅苑",
+      "households": 909,
+      "residents": "2988",
+      "year": "2005",
+      "raw": "顺驰美兰湖畔雅苑 户数:909 居住人数:2988 建筑年份:2005"
+    },
+    {
+      "name": "施庙399号",
+      "households": 19,
+      "residents": null,
+      "year": "-",
+      "raw": "施庙399号 户数:19 居住人数:小于100 建筑年份:-"
+    },
+    {
+      "name": "美罗家园吉翔苑",
+      "households": 1134,
+      "residents": "1515",
+      "year": "2014",
+      "raw": "美罗家园吉翔苑 户数:1134 居住人数:1515 建筑年份:2014"
+    },
+    {
+      "name": "信达·郡庭",
+      "households": 259,
+      "residents": "780+",
+      "year": "2017",
+      "raw": "信达·郡庭 户数:259 居住人数:780+ 建筑年份:2017"
+    },
+    {
+      "name": "美兰湖中华园",
+      "households": 1344,
+      "residents": "4294",
+      "year": "2011",
+      "raw": "美兰湖中华园 户数:1344 居住人数:4294 建筑年份:2011"
+    },
+    {
+      "name": "万科启宸",
+      "households": 1171,
+      "residents": "3920",
+      "year": "2019",
+      "raw": "万科启宸 户数:1171 居住人数:3920 建筑年份:2019"
+    },
+    {
+      "name": "佳翔苑",
+      "households": 1760,
+      "residents": "4960",
+      "year": "2016",
+      "raw": "佳翔苑 户数:1760 居住人数:4960 建筑年份:2016"
+    },
+    {
+      "name": "大华兰湖天境",
+      "households": 144,
+      "residents": "600+",
+      "year": "-",
+      "raw": "大华兰湖天境 户数:144 居住人数:600+ 建筑年份:-"
+    },
+    {
+      "name": "中集金地美兰城",
+      "households": 607,
+      "residents": "3702",
+      "year": "2022",
+      "raw": "中集金地美兰城 户数:607 居住人数:3702 建筑年份:2022"
+    },
+    {
+      "name": "招商主城",
+      "households": 2124,
+      "residents": "5944",
+      "year": "2018",
+      "raw": "招商主城 户数:2124 居住人数:5944 建筑年份:2018"
+    },
+    {
+      "name": "中集金地美兰城-二期南区",
+      "households": 302,
+      "residents": "1039",
+      "year": "2022",
+      "raw": "中集金地美兰城-二期南区 户数:302 居住人数:1039 建筑年份:2022-10"
+    },
+    {
+      "name": "美罗家园润苑",
+      "households": 1880,
+      "residents": "5026",
+      "year": "2015",
+      "raw": "美罗家园润苑 户数:1880 居住人数:5026 建筑年份:2015"
+    },
+    {
+      "name": "中建阅澜山",
+      "households": 1349,
+      "residents": "4830",
+      "year": "2021",
+      "raw": "中建阅澜山 户数:1349 居住人数:4830 建筑年份:2021"
+    },
+    {
+      "name": "保利云上浔光",
+      "households": 1210,
+      "residents": "1618",
+      "year": "2024",
+      "raw": "保利云上浔光 户数:1210 居住人数:1618 建筑年份:2024"
+    },
+    {
+      "name": "正荣国领",
+      "households": 665,
+      "residents": "2388",
+      "year": "2017",
+      "raw": "正荣国领 户数:665 居住人数:2388 建筑年份:2017"
+    },
+    {
+      "name": "中集中央公园",
+      "households": 372,
+      "residents": "2317",
+      "year": "2022",
+      "raw": "中集中央公园 户数:372 居住人数:2317 建筑年份:2022-06"
+    },
+    {
+      "name": "红星铂雅名都",
+      "households": 1398,
+      "residents": "2783",
+      "year": "-",
+      "raw": "红星铂雅名都 户数:1398 居住人数:2783 建筑年份:-"
+    },
+    {
+      "name": "金兰雅墅",
+      "households": 216,
+      "residents": "860+",
+      "year": "2007",
+      "raw": "金兰雅墅 户数:216 居住人数:860+ 建筑年份:2007"
+    },
+    {
+      "name": "罗兰佳苑-东区",
+      "households": 1264,
+      "residents": "2417",
+      "year": "2016",
+      "raw": "罗兰佳苑-东区 户数:1264 居住人数:2417 建筑年份:2016-10"
+    },
+    {
+      "name": "建发·云湖玥",
+      "households": 734,
+      "residents": null,
+      "year": "-",
+      "raw": "建发·云湖玥 户数:734 居住人数:小于100 建筑年份:-"
+    },
+    {
+      "name": "罗兰佳苑-西区",
+      "households": 1856,
+      "residents": "3593",
+      "year": "2017",
+      "raw": "罗兰佳苑-西区 户数:1856 居住人数:3593 建筑年份:2017-04"
+    },
+    {
+      "name": "宫园巧筑",
+      "households": 373,
+      "residents": "1251",
+      "year": "2018",
+      "raw": "宫园巧筑 户数:373 居住人数:1251 建筑年份:2018"
+    },
+    {
+      "name": "天安象屿萃湖臻境",
+      "households": 500,
+      "residents": "550+",
+      "year": "-",
+      "raw": "天安象屿萃湖臻境 户数:500 居住人数:550+ 建筑年份:-"
+    },
+    {
+      "name": "建发云锦湾",
+      "households": 945,
+      "residents": "2250",
+      "year": "2023",
+      "raw": "建发云锦湾 户数:945 居住人数:2250 建筑年份:2023-06"
+    },
+    {
+      "name": "佳欣苑",
+      "households": 1320,
+      "residents": "2771",
+      "year": "2015",
+      "raw": "佳欣苑 户数:1320 居住人数:2771 建筑年份:2015-04"
+    },
+    {
+      "name": "金丰苑一居",
+      "households": 1675,
+      "residents": "3976",
+      "year": "2016",
+      "raw": "金丰苑一居 户数:1675 居住人数:3976 建筑年份:2016"
+    },
+    {
+      "name": "阳光城·花满墅",
+      "households": 161,
+      "residents": "610+",
+      "year": "2015",
+      "raw": "阳光城·花满墅 户数:161 居住人数:610+ 建筑年份:2015"
+    },
+    {
+      "name": "远洋丽兹堡",
+      "households": 287,
+      "residents": null,
+      "year": "2013",
+      "raw": "远洋丽兹堡 户数:287 居住人数:小于100 建筑年份:2013"
+    },
+    {
+      "name": "美罗家园金丰苑-2期",
+      "households": 1405,
+      "residents": "3731",
+      "year": "2015",
+      "raw": "美罗家园金丰苑-2期 户数:1405 居住人数:3731 建筑年份:2015"
+    },
+    {
+      "name": "美兰湖别墅",
+      "households": 50,
+      "residents": "140+",
+      "year": "2007",
+      "raw": "美兰湖别墅 户数:50 居住人数:140+ 建筑年份:2007"
+    },
+    {
+      "name": "佳境苑",
+      "households": 2382,
+      "residents": "6500",
+      "year": "2015",
+      "raw": "佳境苑 户数:2382 居住人数:6500 建筑年份:2015"
+    },
+    {
+      "name": "卓越华润玲珑悦府",
+      "households": 757,
+      "residents": "2885",
+      "year": "2022",
+      "raw": "卓越华润玲珑悦府 户数:757 居住人数:2885 建筑年份:2022"
+    },
+    {
+      "name": "美兰金邸",
+      "households": 1874,
+      "residents": "970+",
+      "year": "2007",
+      "raw": "美兰金邸 户数:1874 居住人数:970+ 建筑年份:2007"
+    },
+    {
+      "name": "美罗家园金丰苑",
+      "households": 1516,
+      "residents": "11690",
+      "year": "2014",
+      "raw": "美罗家园金丰苑 户数:1516 居住人数:11690 建筑年份:2014"
+    },
+    {
+      "name": "名人天地",
+      "households": 89,
+      "residents": "230+",
+      "year": "2016",
+      "raw": "名人天地 户数:89 居住人数:230+ 建筑年份:2016"
+    }
+  ],
+  "community_count": 80
 }
