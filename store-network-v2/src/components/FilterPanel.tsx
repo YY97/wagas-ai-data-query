@@ -276,24 +276,23 @@ export default function FilterPanel() {
           onChange={v => setFilter('storeNames', v)} />
         <MultiSelect label="Store ID(多选)" items={storeIdItems} selected={filters.storeIds}
           onChange={v => setFilter('storeIds', v)} />
+        {layers.showMalls && (
+          <input
+            type="text"
+            placeholder="商场搜索（模糊匹配）..."
+            value={layers.mallSearch || ''}
+            onChange={e => setLayer('mallSearch', e.target.value)}
+            style={{
+              ...selectStyle, marginTop: '4px', marginBottom: '4px', fontSize: '12px',
+              padding: '6px 8px',
+            }}
+          />
+        )}
       </div>
 
       {/* 图层 */}
       <div style={{ marginBottom: '14px' }}>
         <SectionTitle>图层</SectionTitle>
-        <ToggleItem label="商场标记" checked={layers.showMalls} onChange={v => setLayer('showMalls', v)} />
-        {layers.showMalls && (
-          <input
-            type="text"
-            placeholder="搜索商场（模糊匹配）..."
-            value={layers.mallSearch || ''}
-            onChange={e => setLayer('mallSearch', e.target.value)}
-            style={{
-              ...selectStyle, marginTop: '4px', marginBottom: '4px', fontSize: '11px',
-              padding: '5px 8px',
-            }}
-          />
-        )}
         <ToggleItem label="门店点位" checked={layers.showMarkers} onChange={v => setLayer('showMarkers', v)} />
         <ToggleItem label="1km 覆盖圈" checked={layers.showCircles1km} onChange={v => setLayer('showCircles1km', v)} />
         <ToggleItem label="3km 覆盖圈" checked={layers.showCircles3km} onChange={v => setLayer('showCircles3km', v)} />
