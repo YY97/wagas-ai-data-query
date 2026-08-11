@@ -26,24 +26,24 @@
     "annual_daily_rank": "",
     "jun_total": 3.1,
     "jun_total_rank": "市内商场第360名",
-    "jun_daily_avg": 1015.0,
+    "jun_daily_avg": 1015,
     "jun_daily_unit": "人次",
     "jun_daily_rank": "市内商场第360名",
-    "weekday_avg": 1030.0,
+    "weekday_avg": 1030,
     "weekday_unit": "人次",
     "weekday_rank": "市内商场第360名",
-    "holiday_avg": 976.0,
+    "holiday_avg": 976,
     "holiday_unit": "人次",
     "holiday_rank": "市内商场第366名"
   },
   "population": {
     "residential": {
-      "500m": 2.0,
+      "500m": 2,
       "1_5km": 9.8,
-      "3km": 58.0
+      "3km": 58
     },
     "office": {
-      "500m": 5800.0,
+      "500m": 5800,
       "1_5km": 5.1,
       "3km": 29.2
     },
@@ -55,33 +55,33 @@
   },
   "business": {
     "competitors": null,
-    "food": 26.0,
-    "shopping": 34.0,
-    "leisure": 2.0,
-    "education": 5.0,
-    "hotel": 2.0,
-    "services": 60.0,
-    "fitness": 5.0,
-    "auto": 6.0,
-    "total_stores": 23.0,
-    "old_store_3yr_pct": 65.0
+    "food": 26,
+    "shopping": 34,
+    "leisure": 2,
+    "education": 5,
+    "hotel": 2,
+    "services": 60,
+    "fitness": 5,
+    "auto": 6,
+    "total_stores": 23,
+    "old_store_3yr_pct": 65
   },
   "nearby_poi": {
-    "business": 2.0,
-    "community": 234.0,
-    "office": 14.0,
-    "school": 23.0,
-    "hospital": 70.0,
-    "transport": 9.0,
-    "scenic": 71.0
+    "business": 2,
+    "community": 234,
+    "office": 14,
+    "school": 23,
+    "hospital": 70,
+    "transport": 9,
+    "scenic": 71
   },
   "demographics": {
     "male_pct": 52.8,
     "female_pct": null,
     "education": {
-      "小学": 9.0,
+      "小学": 9,
       "初中": 15.4,
-      "高中": 11.0,
+      "高中": 11,
       "大专": 6.6,
       "本科": 49.2,
       "硕士": 7.1,
@@ -96,38 +96,454 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 8.0,
+      "count": 8,
       "within_1yr_pct": 12.5,
       "1_3yr_pct": 12.5,
-      "over_3yr_pct": 75.0
+      "over_3yr_pct": 75
     },
     {
       "type": "购物",
-      "count": 4.0,
-      "within_1yr_pct": 0.0,
-      "1_3yr_pct": 25.0,
-      "over_3yr_pct": 75.0
+      "count": 4,
+      "within_1yr_pct": 0,
+      "1_3yr_pct": 25,
+      "over_3yr_pct": 75
     },
     {
       "type": "休闲娱乐",
-      "count": 2.0,
-      "within_1yr_pct": 50.0,
-      "1_3yr_pct": 0.0,
-      "over_3yr_pct": 50.0
+      "count": 2,
+      "within_1yr_pct": 50,
+      "1_3yr_pct": 0,
+      "over_3yr_pct": 50
     },
     {
       "type": "生活服务",
-      "count": 8.0,
-      "within_1yr_pct": 0.0,
-      "1_3yr_pct": 50.0,
-      "over_3yr_pct": 50.0
+      "count": 8,
+      "within_1yr_pct": 0,
+      "1_3yr_pct": 50,
+      "over_3yr_pct": 50
     },
     {
       "type": "运动健身",
-      "count": 1.0,
-      "within_1yr_pct": 0.0,
-      "1_3yr_pct": 0.0,
-      "over_3yr_pct": 100.0
+      "count": 1,
+      "within_1yr_pct": 0,
+      "1_3yr_pct": 0,
+      "over_3yr_pct": 100
     }
-  ]
+  ],
+  "nearby_communities": [
+    {
+      "name": "航欣苑-北区",
+      "households": 456,
+      "residents": "930+",
+      "year": "2013",
+      "raw": "航欣苑-北区 户数:456 居住人数:930+ 建筑年份:2013"
+    },
+    {
+      "name": "航欣苑-南区",
+      "households": 433,
+      "residents": "970+",
+      "year": "2013",
+      "raw": "航欣苑-南区 户数:433 居住人数:970+ 建筑年份:2013"
+    },
+    {
+      "name": "聚鑫苑",
+      "households": 187,
+      "residents": "1011",
+      "year": "2005",
+      "raw": "聚鑫苑 户数:187 居住人数:1011 建筑年份:2005"
+    },
+    {
+      "name": "百联公寓",
+      "households": 132,
+      "residents": "760+",
+      "year": "2015",
+      "raw": "百联公寓 户数:132 居住人数:760+ 建筑年份:2015"
+    },
+    {
+      "name": "池鑫苑",
+      "households": 550,
+      "residents": "2369",
+      "year": "2007",
+      "raw": "池鑫苑 户数:550 居住人数:2369 建筑年份:2007"
+    },
+    {
+      "name": "富康别墅",
+      "households": 235,
+      "residents": "220+",
+      "year": "2000",
+      "raw": "富康别墅 户数:235 居住人数:220+ 建筑年份:2000"
+    },
+    {
+      "name": "海洲桃花园二期(咸塘汇景)",
+      "households": 859,
+      "residents": "3153",
+      "year": "-",
+      "raw": "海洲桃花园二期(咸塘汇景) 户数:859 居住人数:3153 建筑年份:-"
+    },
+    {
+      "name": "海洲桃花园-一期",
+      "households": 832,
+      "residents": "3785",
+      "year": "2006",
+      "raw": "海洲桃花园-一期 户数:832 居住人数:3785 建筑年份:2006"
+    },
+    {
+      "name": "东方夏威夷",
+      "households": 272,
+      "residents": "1132",
+      "year": "2008",
+      "raw": "东方夏威夷 户数:272 居住人数:1132 建筑年份:2008"
+    },
+    {
+      "name": "枫林雅苑",
+      "households": 663,
+      "residents": "820+",
+      "year": "2000",
+      "raw": "枫林雅苑 户数:663 居住人数:820+ 建筑年份:2000"
+    },
+    {
+      "name": "森兰航荟名庭",
+      "households": 874,
+      "residents": "150+",
+      "year": "-",
+      "raw": "森兰航荟名庭 户数:874 居住人数:150+ 建筑年份:-"
+    },
+    {
+      "name": "富鑫苑",
+      "households": 263,
+      "residents": "960+",
+      "year": "2009",
+      "raw": "富鑫苑 户数:263 居住人数:960+ 建筑年份:2009"
+    },
+    {
+      "name": "沪航公寓",
+      "households": 114,
+      "residents": "560+",
+      "year": "1997",
+      "raw": "沪航公寓 户数:114 居住人数:560+ 建筑年份:1997"
+    },
+    {
+      "name": "航兴北路95弄小区",
+      "households": 161,
+      "residents": "860+",
+      "year": "-",
+      "raw": "航兴北路95弄小区 户数:161 居住人数:860+ 建筑年份:-"
+    },
+    {
+      "name": "亚兰公寓",
+      "households": 28,
+      "residents": "270+",
+      "year": "2011",
+      "raw": "亚兰公寓 户数:28 居住人数:270+ 建筑年份:2011"
+    },
+    {
+      "name": "生茂养园",
+      "households": 162,
+      "residents": "430+",
+      "year": "2006",
+      "raw": "生茂养园 户数:162 居住人数:430+ 建筑年份:2006"
+    },
+    {
+      "name": "浦航公寓",
+      "households": 12,
+      "residents": "400+",
+      "year": "-",
+      "raw": "浦航公寓 户数:12 居住人数:400+ 建筑年份:-"
+    },
+    {
+      "name": "贤诺公寓",
+      "households": 22,
+      "residents": "260+",
+      "year": "-",
+      "raw": "贤诺公寓 户数:22 居住人数:260+ 建筑年份:-"
+    },
+    {
+      "name": "爱法·奥朗新庄园",
+      "households": 173,
+      "residents": "600+",
+      "year": "2010",
+      "raw": "爱法·奥朗新庄园 户数:173 居住人数:600+ 建筑年份:2010"
+    },
+    {
+      "name": "馨明雅苑",
+      "households": 215,
+      "residents": "340+",
+      "year": "2024",
+      "raw": "馨明雅苑 户数:215 居住人数:340+ 建筑年份:2024-06"
+    },
+    {
+      "name": "航景华庭",
+      "households": 869,
+      "residents": "1072",
+      "year": "2024",
+      "raw": "航景华庭 户数:869 居住人数:1072 建筑年份:2024-06"
+    },
+    {
+      "name": "生茂绿洲别墅",
+      "households": 1442,
+      "residents": "180+",
+      "year": "-",
+      "raw": "生茂绿洲别墅 户数:1442 居住人数:180+ 建筑年份:-"
+    },
+    {
+      "name": "航景华庭中区",
+      "households": 293,
+      "residents": "450+",
+      "year": "2024",
+      "raw": "航景华庭中区 户数:293 居住人数:450+ 建筑年份:2024-06"
+    },
+    {
+      "name": "长泰公馆",
+      "households": 1208,
+      "residents": "3563",
+      "year": "2015",
+      "raw": "长泰公馆 户数:1208 居住人数:3563 建筑年份:2015"
+    },
+    {
+      "name": "航宏景庭",
+      "households": 249,
+      "residents": null,
+      "year": "2024",
+      "raw": "航宏景庭 户数:249 居住人数:小于100 建筑年份:2024-07"
+    },
+    {
+      "name": "陆家嘴锦绣澜湾",
+      "households": 1206,
+      "residents": "160+",
+      "year": "2025",
+      "raw": "陆家嘴锦绣澜湾 户数:1206 居住人数:160+ 建筑年份:2025-12-31"
+    },
+    {
+      "name": "航景华庭东区",
+      "households": 135,
+      "residents": "180+",
+      "year": "-",
+      "raw": "航景华庭东区 户数:135 居住人数:180+ 建筑年份:-"
+    },
+    {
+      "name": "云麓里",
+      "households": 1047,
+      "residents": "4357",
+      "year": "2016",
+      "raw": "云麓里 户数:1047 居住人数:4357 建筑年份:2016"
+    },
+    {
+      "name": "航南社区",
+      "households": 39,
+      "residents": "130+",
+      "year": "-",
+      "raw": "航南社区 户数:39 居住人数:130+ 建筑年份:-"
+    },
+    {
+      "name": "长泰东郊御园",
+      "households": 3392,
+      "residents": "7558",
+      "year": "2013",
+      "raw": "长泰东郊御园 户数:3392 居住人数:7558 建筑年份:2013"
+    },
+    {
+      "name": "金地艺华年",
+      "households": 593,
+      "residents": "4350",
+      "year": "2016",
+      "raw": "金地艺华年 户数:593 居住人数:4350 建筑年份:2016"
+    },
+    {
+      "name": "金千东区",
+      "households": 46,
+      "residents": "600+",
+      "year": "-",
+      "raw": "金千东区 户数:46 居住人数:600+ 建筑年份:-"
+    },
+    {
+      "name": "东升家园-北区",
+      "households": 452,
+      "residents": "850+",
+      "year": "2002",
+      "raw": "东升家园-北区 户数:452 居住人数:850+ 建筑年份:2002"
+    },
+    {
+      "name": "鹤鸣小区",
+      "households": 817,
+      "residents": "1627",
+      "year": "-",
+      "raw": "鹤鸣小区 户数:817 居住人数:1627 建筑年份:-"
+    },
+    {
+      "name": "海鑫苑",
+      "households": 378,
+      "residents": "1319",
+      "year": "2005",
+      "raw": "海鑫苑 户数:378 居住人数:1319 建筑年份:2005"
+    },
+    {
+      "name": "东升家园-西区",
+      "households": 992,
+      "residents": "3411",
+      "year": "2006",
+      "raw": "东升家园-西区 户数:992 居住人数:3411 建筑年份:2006"
+    },
+    {
+      "name": "航头镇下沙街社区",
+      "households": 6,
+      "residents": null,
+      "year": "-",
+      "raw": "航头镇下沙街社区 户数:6 居住人数:小于100 建筑年份:-"
+    },
+    {
+      "name": "聚航苑三期",
+      "households": 1268,
+      "residents": "4991",
+      "year": "-",
+      "raw": "聚航苑三期 户数:1268 居住人数:4991 建筑年份:-"
+    },
+    {
+      "name": "未来城",
+      "households": null,
+      "residents": null,
+      "year": "-",
+      "raw": "未来城 建筑年份:- 上海市浦东新区航头镇航梅路1100号"
+    },
+    {
+      "name": "鹤鸣新苑-二村",
+      "households": 847,
+      "residents": "1973",
+      "year": "2007",
+      "raw": "鹤鸣新苑-二村 户数:847 居住人数:1973 建筑年份:2007"
+    },
+    {
+      "name": "东升家园东区",
+      "households": 655,
+      "residents": "2018",
+      "year": "2006",
+      "raw": "东升家园东区 户数:655 居住人数:2018 建筑年份:2006"
+    },
+    {
+      "name": "青庭公寓",
+      "households": 61,
+      "residents": "410+",
+      "year": "-",
+      "raw": "青庭公寓 户数:61 居住人数:410+ 建筑年份:-"
+    },
+    {
+      "name": "聚航苑-东区",
+      "households": 573,
+      "residents": "1971",
+      "year": "-",
+      "raw": "聚航苑-东区 户数:573 居住人数:1971 建筑年份:-"
+    },
+    {
+      "name": "聚航苑-西区",
+      "households": 3294,
+      "residents": "2825",
+      "year": "2008",
+      "raw": "聚航苑-西区 户数:3294 居住人数:2825 建筑年份:2008"
+    },
+    {
+      "name": "南郊中华园",
+      "households": 762,
+      "residents": "2250",
+      "year": "2009",
+      "raw": "南郊中华园 户数:762 居住人数:2250 建筑年份:2009"
+    },
+    {
+      "name": "福善家园",
+      "households": 959,
+      "residents": "1699",
+      "year": "-",
+      "raw": "福善家园 户数:959 居住人数:1699 建筑年份:-"
+    },
+    {
+      "name": "长达佳苑",
+      "households": 2345,
+      "residents": "8260",
+      "year": "2006",
+      "raw": "长达佳苑 户数:2345 居住人数:8260 建筑年份:2006"
+    },
+    {
+      "name": "品悦居公寓",
+      "households": 77,
+      "residents": "480+",
+      "year": "-",
+      "raw": "品悦居公寓 户数:77 居住人数:480+ 建筑年份:-"
+    },
+    {
+      "name": "鹤鸣新苑-一村",
+      "households": 584,
+      "residents": "1895",
+      "year": "2006",
+      "raw": "鹤鸣新苑-一村 户数:584 居住人数:1895 建筑年份:2006"
+    },
+    {
+      "name": "梅园村-南区",
+      "households": 233,
+      "residents": "240+",
+      "year": "-",
+      "raw": "梅园村-南区 户数:233 居住人数:240+ 建筑年份:-"
+    },
+    {
+      "name": "沙北新村住宅区",
+      "households": 297,
+      "residents": "850+",
+      "year": "1998",
+      "raw": "沙北新村住宅区 户数:297 居住人数:850+ 建筑年份:1998"
+    },
+    {
+      "name": "航头别墅",
+      "households": 38,
+      "residents": null,
+      "year": "-",
+      "raw": "航头别墅 户数:38 居住人数:小于100 建筑年份:-"
+    },
+    {
+      "name": "鹤雄公寓",
+      "households": 14,
+      "residents": "410+",
+      "year": "-",
+      "raw": "鹤雄公寓 户数:14 居住人数:410+ 建筑年份:-"
+    },
+    {
+      "name": "梅园村-北区",
+      "households": 316,
+      "residents": "670+",
+      "year": "-",
+      "raw": "梅园村-北区 户数:316 居住人数:670+ 建筑年份:-"
+    },
+    {
+      "name": "橙艺青年公寓(鹤立西路店)",
+      "households": 27,
+      "residents": "350+",
+      "year": "-",
+      "raw": "橙艺青年公寓(鹤立西路店) 户数:27 居住人数:350+ 建筑年份:-"
+    },
+    {
+      "name": "南郊艺墅",
+      "households": 634,
+      "residents": "590+",
+      "year": "2008",
+      "raw": "南郊艺墅 户数:634 居住人数:590+ 建筑年份:2008"
+    },
+    {
+      "name": "绿洲千岛花园",
+      "households": 193,
+      "residents": "770+",
+      "year": "2007",
+      "raw": "绿洲千岛花园 户数:193 居住人数:770+ 建筑年份:2007"
+    },
+    {
+      "name": "鹤东村沿江-311",
+      "households": 79,
+      "residents": "220+",
+      "year": "-",
+      "raw": "鹤东村沿江-311 户数:79 居住人数:220+ 建筑年份:-"
+    },
+    {
+      "name": "汉实文化园",
+      "households": 84,
+      "residents": "110+",
+      "year": "-",
+      "raw": "汉实文化园 户数:84 居住人数:110+ 建筑年份:-"
+    }
+  ],
+  "community_count": 59
 }
