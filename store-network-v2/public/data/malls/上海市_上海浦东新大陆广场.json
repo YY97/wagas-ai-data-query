@@ -8,12 +8,12 @@
     "score": 87.5,
     "score_rank": "市内前30%",
     "population_score": 94.2,
-    "area_score": 100,
+    "area_score": 100.0,
     "consumption_score": 81.4,
     "industry_score": 87.4,
     "annual_sales": "上海新大陆广场位于浦东新区崂山西路588号，一至四层商场和地下一层停车场组成两栋各4层的商业楼宇，共8个楼面，每个楼面约4000平方米两端与相邻17栋建筑连接贯通，中间为6000平方米内庭花园的商业步行街入口设四层的中庭，屋顶有多边穹行开窗，入口两边设有二座自动扶梯，正对入口是观光电梯上海新大陆广场基本定位为多元化的购物和娱乐主题新大陆广场于1997年开业，经营已有26年，面对不断更新的消费需求，新大陆广场结合整体市场环境与企业发展方向，提出“三期建设”新战略发展计划其中，第一期“新大陆中心广场体育生活圈”已顺利完成；第二期“陆家嘴街道-囍龙街”以太空露营为主题，配合热点人物IP，辅之特色品牌文化，打造网红街区服务周边邻里；第三期将启动楼宇内场业态调整改造，从整体的招商到内部商户管理，完成楼内楼外共同提升，全方位提升新大陆广场整体形象和运营效能",
     "annual_sales_unit": "-",
-    "area_size_sqm": 4,
+    "area_size_sqm": 4.0,
     "open_date": "1997-06-03",
     "operator": "新大陆发展（上海）有限公司",
     "brand": "",
@@ -21,18 +21,18 @@
     "floors": "B1-L4"
   },
   "traffic": {
-    "annual_daily": 3397,
+    "annual_daily": 3397.0,
     "annual_daily_unit": "人次",
     "annual_daily_rank": "市内第425",
     "jun_total": 5.9,
     "jun_total_rank": "市内商场第534名",
-    "jun_daily_avg": 1970,
+    "jun_daily_avg": 1970.0,
     "jun_daily_unit": "人次",
     "jun_daily_rank": "市内商场第534名",
-    "weekday_avg": 2015,
+    "weekday_avg": 2015.0,
     "weekday_unit": "人次",
     "weekday_rank": "市内商场第532名",
-    "holiday_avg": 1846,
+    "holiday_avg": 1846.0,
     "holiday_unit": "人次",
     "holiday_rank": "市内商场第543名"
   },
@@ -54,35 +54,35 @@
     }
   },
   "business": {
-    "competitors": 20,
-    "food": 678,
-    "shopping": 623,
-    "leisure": 75,
-    "education": 118,
-    "hotel": 76,
-    "services": 508,
-    "fitness": 77,
-    "auto": 47,
-    "total_stores": 114,
-    "old_store_3yr_pct": 42
+    "competitors": 20.0,
+    "food": 678.0,
+    "shopping": 623.0,
+    "leisure": 75.0,
+    "education": 118.0,
+    "hotel": 76.0,
+    "services": 508.0,
+    "fitness": 77.0,
+    "auto": 47.0,
+    "total_stores": 114.0,
+    "old_store_3yr_pct": 42.0
   },
   "nearby_poi": {
-    "business": 16,
-    "community": 444,
-    "office": 158,
-    "school": 55,
-    "hospital": 131,
-    "transport": 17,
-    "scenic": 525
+    "business": 16.0,
+    "community": 444.0,
+    "office": 158.0,
+    "school": 55.0,
+    "hospital": 131.0,
+    "transport": 17.0,
+    "scenic": 525.0
   },
   "demographics": {
     "male_pct": 51.6,
     "female_pct": null,
     "education": {
-      "小学": 9,
+      "小学": 9.0,
       "初中": 16.4,
       "高中": 10.6,
-      "大专": 7,
+      "大专": 7.0,
       "本科": 48.6,
       "硕士": 6.7,
       "博士": 1.7
@@ -428,56 +428,56 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 44,
+      "count": 44.0,
       "within_1yr_pct": 18.2,
       "1_3yr_pct": 40.9,
       "over_3yr_pct": 40.9
     },
     {
       "type": "购物",
-      "count": 13,
+      "count": 13.0,
       "within_1yr_pct": 23.1,
       "1_3yr_pct": 38.5,
       "over_3yr_pct": 38.5
     },
     {
       "type": "休闲娱乐",
-      "count": 15,
-      "within_1yr_pct": 20,
+      "count": 15.0,
+      "within_1yr_pct": 20.0,
       "1_3yr_pct": 33.3,
       "over_3yr_pct": 46.7
     },
     {
       "type": "教育培训",
-      "count": 3,
+      "count": 3.0,
       "within_1yr_pct": 33.3,
-      "1_3yr_pct": 0,
+      "1_3yr_pct": 0.0,
       "over_3yr_pct": 66.7
     },
     {
       "type": "酒店住宿",
-      "count": 1,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 100,
-      "over_3yr_pct": 0
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
     },
     {
       "type": "生活服务",
-      "count": 26,
+      "count": 26.0,
       "within_1yr_pct": 19.2,
       "1_3yr_pct": 34.6,
       "over_3yr_pct": 46.2
     },
     {
       "type": "运动健身",
-      "count": 9,
+      "count": 9.0,
       "within_1yr_pct": 11.1,
       "1_3yr_pct": 55.6,
       "over_3yr_pct": 33.3
     },
     {
       "type": "车辆服务",
-      "count": 3,
+      "count": 3.0,
       "within_1yr_pct": 33.3,
       "1_3yr_pct": 33.3,
       "over_3yr_pct": 33.3
@@ -1885,7 +1885,7 @@
       "raw": "上海滩花园 户数:724 居住人数:1728 建筑年份:2009"
     }
   ],
-  "community_count": 200,
   "avg_housing_price": 88001.53,
-  "total_households": 209176
+  "total_households": 209176,
+  "community_count": 200
 }

@@ -21,15 +21,15 @@
     "floors": "L1-L6"
   },
   "traffic": {
-    "annual_daily": 7507,
+    "annual_daily": 7507.0,
     "annual_daily_unit": "人次",
     "annual_daily_rank": "市内第304",
-    "jun_total": 28,
+    "jun_total": 28.0,
     "jun_total_rank": "市内商场第320名",
-    "jun_daily_avg": 9317,
+    "jun_daily_avg": 9317.0,
     "jun_daily_unit": "人次",
     "jun_daily_rank": "市内商场第320名",
-    "weekday_avg": 8768,
+    "weekday_avg": 8768.0,
     "weekday_unit": "人次",
     "weekday_rank": "市内商场第323名",
     "holiday_avg": 1.1,
@@ -54,35 +54,35 @@
     }
   },
   "business": {
-    "competitors": 3,
-    "food": 191,
-    "shopping": 96,
-    "leisure": 6,
-    "education": 38,
-    "hotel": 59,
-    "services": 125,
-    "fitness": 18,
-    "auto": 4,
-    "total_stores": 69,
-    "old_store_3yr_pct": 59
+    "competitors": 3.0,
+    "food": 191.0,
+    "shopping": 96.0,
+    "leisure": 6.0,
+    "education": 38.0,
+    "hotel": 59.0,
+    "services": 125.0,
+    "fitness": 18.0,
+    "auto": 4.0,
+    "total_stores": 69.0,
+    "old_store_3yr_pct": 59.0
   },
   "nearby_poi": {
-    "business": 5,
-    "community": 433,
-    "office": 85,
-    "school": 54,
-    "hospital": 101,
-    "transport": 9,
-    "scenic": 253
+    "business": 5.0,
+    "community": 433.0,
+    "office": 85.0,
+    "school": 54.0,
+    "hospital": 101.0,
+    "transport": 9.0,
+    "scenic": 253.0
   },
   "demographics": {
     "male_pct": 47.8,
     "female_pct": null,
     "education": {
-      "小学": 9,
+      "小学": 9.0,
       "初中": 16.4,
       "高中": 10.6,
-      "大专": 7,
+      "大专": 7.0,
       "本科": 48.6,
       "硕士": 6.6,
       "博士": 1.8
@@ -388,45 +388,45 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 24,
+      "count": 24.0,
       "within_1yr_pct": 20.8,
       "1_3yr_pct": 12.5,
       "over_3yr_pct": 66.7
     },
     {
       "type": "购物",
-      "count": 9,
+      "count": 9.0,
       "within_1yr_pct": 11.1,
       "1_3yr_pct": 22.2,
       "over_3yr_pct": 66.7
     },
     {
       "type": "教育培训",
-      "count": 10,
-      "within_1yr_pct": 10,
-      "1_3yr_pct": 30,
-      "over_3yr_pct": 60
+      "count": 10.0,
+      "within_1yr_pct": 10.0,
+      "1_3yr_pct": 30.0,
+      "over_3yr_pct": 60.0
     },
     {
       "type": "酒店住宿",
-      "count": 3,
-      "within_1yr_pct": 100,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 0
+      "count": 3.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
     },
     {
       "type": "生活服务",
-      "count": 17,
+      "count": 17.0,
       "within_1yr_pct": 29.4,
       "1_3yr_pct": 11.8,
       "over_3yr_pct": 58.8
     },
     {
       "type": "运动健身",
-      "count": 6,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 50,
-      "over_3yr_pct": 50
+      "count": 6.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 50.0
     }
   ],
   "nearby_communities": [
@@ -1831,7 +1831,7 @@
       "raw": "杜鹃路55弄小区 户数:372 居住人数:1181 建筑年份:1995"
     }
   ],
-  "community_count": 200,
   "avg_housing_price": 80098.22,
-  "total_households": 258587
+  "total_households": 258587,
+  "community_count": 200
 }

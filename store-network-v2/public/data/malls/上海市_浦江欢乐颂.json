@@ -7,13 +7,13 @@
   "overview": {
     "score": 87.1,
     "score_rank": "市内前30%",
-    "population_score": 100,
+    "population_score": 100.0,
     "area_score": 73.8,
     "consumption_score": 72.1,
     "industry_score": 87.1,
     "annual_sales": "国和1000广场是上海市老城区的社区商业综合体，旨在打造立体街式、全天候全开放的家门口第三空间社区客厅，以服务周边居民",
     "annual_sales_unit": "-",
-    "area_size_sqm": 3,
+    "area_size_sqm": 3.0,
     "open_date": "2018-05-01",
     "operator": "上海杨浦商贸（集团）有限公司",
     "brand": "杨浦商贸集团",
@@ -21,18 +21,18 @@
     "floors": "B1-L4"
   },
   "traffic": {
-    "annual_daily": 4795,
+    "annual_daily": 4795.0,
     "annual_daily_unit": "人次",
     "annual_daily_rank": "市内第368",
     "jun_total": 17.1,
     "jun_total_rank": "市内商场第410名",
-    "jun_daily_avg": 5715,
+    "jun_daily_avg": 5715.0,
     "jun_daily_unit": "人次",
     "jun_daily_rank": "市内商场第410名",
-    "weekday_avg": 5444,
+    "weekday_avg": 5444.0,
     "weekday_unit": "人次",
     "weekday_rank": "市内商场第405名",
-    "holiday_avg": 6464,
+    "holiday_avg": 6464.0,
     "holiday_unit": "人次",
     "holiday_rank": "市内商场第403名"
   },
@@ -54,26 +54,26 @@
     }
   },
   "business": {
-    "competitors": 2,
-    "food": 164,
-    "shopping": 89,
-    "leisure": 6,
-    "education": 11,
-    "hotel": 15,
-    "services": 68,
-    "fitness": 7,
-    "auto": 9,
-    "total_stores": 41,
-    "old_store_3yr_pct": 61
+    "competitors": 2.0,
+    "food": 164.0,
+    "shopping": 89.0,
+    "leisure": 6.0,
+    "education": 11.0,
+    "hotel": 15.0,
+    "services": 68.0,
+    "fitness": 7.0,
+    "auto": 9.0,
+    "total_stores": 41.0,
+    "old_store_3yr_pct": 61.0
   },
   "nearby_poi": {
-    "business": 3,
-    "community": 344,
-    "office": 12,
-    "school": 54,
-    "hospital": 36,
-    "transport": 11,
-    "scenic": 186
+    "business": 3.0,
+    "community": 344.0,
+    "office": 12.0,
+    "school": 54.0,
+    "hospital": 36.0,
+    "transport": 11.0,
+    "scenic": 186.0
   },
   "demographics": {
     "male_pct": 47.7,
@@ -81,14 +81,14 @@
     "education": {
       "小学": 8.9,
       "初中": 17.7,
-      "高中": 13,
+      "高中": 13.0,
       "大专": 6.6,
       "本科": 46.7,
       "硕士": 5.1,
-      "博士": 2
+      "博士": 2.0
     },
-    "has_children_pct": 56,
-    "no_children_pct": 44
+    "has_children_pct": 56.0,
+    "no_children_pct": 44.0
   },
   "scraped_at": "2026-08-01T07:25:10.425Z",
   "nearby_restaurants": [
@@ -142,45 +142,45 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 25,
-      "within_1yr_pct": 8,
-      "1_3yr_pct": 24,
-      "over_3yr_pct": 68
+      "count": 25.0,
+      "within_1yr_pct": 8.0,
+      "1_3yr_pct": 24.0,
+      "over_3yr_pct": 68.0
     },
     {
       "type": "购物",
-      "count": 4,
-      "within_1yr_pct": 25,
-      "1_3yr_pct": 25,
-      "over_3yr_pct": 50
+      "count": 4.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 50.0
     },
     {
       "type": "教育培训",
-      "count": 2,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 100,
-      "over_3yr_pct": 0
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
     },
     {
       "type": "生活服务",
-      "count": 5,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 40,
-      "over_3yr_pct": 60
+      "count": 5.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 40.0,
+      "over_3yr_pct": 60.0
     },
     {
       "type": "运动健身",
-      "count": 3,
+      "count": 3.0,
       "within_1yr_pct": 33.3,
       "1_3yr_pct": 33.3,
       "over_3yr_pct": 33.3
     },
     {
       "type": "车辆服务",
-      "count": 2,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 100
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
     }
   ],
   "nearby_communities": [

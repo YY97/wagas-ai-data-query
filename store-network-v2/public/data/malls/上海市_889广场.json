@@ -5,12 +5,12 @@
   "lat": 31.229326,
   "lng": 121.428517,
   "overview": {
-    "score": 90,
+    "score": 90.0,
     "score_rank": "市内前30%",
     "population_score": 99.3,
     "area_score": 81.9,
     "consumption_score": 84.4,
-    "industry_score": 90,
+    "industry_score": 90.0,
     "annual_sales": "上海悦达889广场位于上海市静安区长寿路1111号，是一个集办公、购物、休闲、娱乐于一体的城市综合体，属于曹家渡板块内较高端的写字楼产品总建筑面积约10万余平方米，其中办公面积达4万多平方米，开放式广场约1.6万平方米配备了现代化的办公设施，如架空地板和新风系统，提供了舒适的办公环境悦达889广场以其独特的玻璃幕墙外立面和内部黑白色大理石装饰，展现出强烈的现代气息商场内部设计国际知名设计公司如英国Benoy贝诺建筑设计公司量身打造，提供了新颖、奇特的环境体验悦达889广场以其国际化视野、艺术与商业融合的定位，旨在成为像东京六本木一样的时尚城市生活中心，满足曹家渡商圈日益提高的消费层次和日益丰富的消费需求，带给顾客独特的消费体验和生活方式悦达889广场拥有亚洲首创的“幻影云顶”，独特的个性、轻盈流畅的云顶式设计，将整个上海的风貌浓缩于云顶天空之下，给人以通透感和现代节奏感商场内部还设有1600平方米的休闲中心广场，作为串联办公与购物的核心点，成为一个吸引人流的主要场所以上是上海悦达889广场的基本信息概览如果需要更详细的信息，可以提供具体的查询要求",
     "annual_sales_unit": "-",
     "area_size_sqm": 4.7,
@@ -26,13 +26,13 @@
     "annual_daily_rank": "市内第195",
     "jun_total": 18.9,
     "jun_total_rank": "市内商场第392名",
-    "jun_daily_avg": 6301,
+    "jun_daily_avg": 6301.0,
     "jun_daily_unit": "人次",
     "jun_daily_rank": "市内商场第392名",
-    "weekday_avg": 6247,
+    "weekday_avg": 6247.0,
     "weekday_unit": "人次",
     "weekday_rank": "市内商场第384名",
-    "holiday_avg": 6444,
+    "holiday_avg": 6444.0,
     "holiday_unit": "人次",
     "holiday_rank": "市内商场第404名"
   },
@@ -54,37 +54,37 @@
     }
   },
   "business": {
-    "competitors": 6,
-    "food": 200,
-    "shopping": 127,
-    "leisure": 53,
-    "education": 32,
-    "hotel": 43,
-    "services": 196,
-    "fitness": 60,
-    "auto": 20,
-    "total_stores": 93,
-    "old_store_3yr_pct": 48
+    "competitors": 6.0,
+    "food": 200.0,
+    "shopping": 127.0,
+    "leisure": 53.0,
+    "education": 32.0,
+    "hotel": 43.0,
+    "services": 196.0,
+    "fitness": 60.0,
+    "auto": 20.0,
+    "total_stores": 93.0,
+    "old_store_3yr_pct": 48.0
   },
   "nearby_poi": {
-    "business": 15,
-    "community": 1142,
-    "office": 138,
-    "school": 84,
-    "hospital": 157,
-    "transport": 18,
-    "scenic": 553
+    "business": 15.0,
+    "community": 1142.0,
+    "office": 138.0,
+    "school": 84.0,
+    "hospital": 157.0,
+    "transport": 18.0,
+    "scenic": 553.0
   },
   "demographics": {
     "male_pct": 48.4,
     "female_pct": null,
     "education": {
-      "小学": 9,
+      "小学": 9.0,
       "初中": 17.5,
       "高中": 11.9,
       "大专": 6.8,
       "本科": 48.1,
-      "硕士": 5,
+      "硕士": 5.0,
       "博士": 1.7
     },
     "has_children_pct": 58.1,
@@ -428,52 +428,52 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 39,
+      "count": 39.0,
       "within_1yr_pct": 15.4,
       "1_3yr_pct": 20.5,
       "over_3yr_pct": 64.1
     },
     {
       "type": "购物",
-      "count": 23,
+      "count": 23.0,
       "within_1yr_pct": 21.7,
       "1_3yr_pct": 47.8,
       "over_3yr_pct": 30.4
     },
     {
       "type": "休闲娱乐",
-      "count": 4,
-      "within_1yr_pct": 25,
-      "1_3yr_pct": 75,
-      "over_3yr_pct": 0
+      "count": 4.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 75.0,
+      "over_3yr_pct": 0.0
     },
     {
       "type": "教育培训",
-      "count": 10,
-      "within_1yr_pct": 40,
-      "1_3yr_pct": 40,
-      "over_3yr_pct": 20
+      "count": 10.0,
+      "within_1yr_pct": 40.0,
+      "1_3yr_pct": 40.0,
+      "over_3yr_pct": 20.0
     },
     {
       "type": "生活服务",
-      "count": 12,
+      "count": 12.0,
       "within_1yr_pct": 8.3,
-      "1_3yr_pct": 25,
+      "1_3yr_pct": 25.0,
       "over_3yr_pct": 66.7
     },
     {
       "type": "运动健身",
-      "count": 2,
-      "within_1yr_pct": 50,
-      "1_3yr_pct": 50,
-      "over_3yr_pct": 0
+      "count": 2.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 0.0
     },
     {
       "type": "车辆服务",
-      "count": 3,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 100
+      "count": 3.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
     }
   ],
   "nearby_communities": [
@@ -4678,7 +4678,7 @@
       "raw": "兰花园 户数:632 居住人数:1437 建筑年份:1991"
     }
   ],
-  "community_count": 600,
   "avg_housing_price": 90182.81,
-  "total_households": 407816
+  "total_households": 407816,
+  "community_count": 600
 }

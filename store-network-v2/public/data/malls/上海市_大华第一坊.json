@@ -8,7 +8,7 @@
     "score": 77.6,
     "score_rank": "市内前30%",
     "population_score": 70.4,
-    "area_score": 73,
+    "area_score": 73.0,
     "consumption_score": 63.3,
     "industry_score": 77.7,
     "annual_sales": "朋联国际购物中心（赵重店）位于上海市青浦区赵巷镇赵重公路55号，周边有多家商铺和餐饮单位。商场内有多种业态，如餐饮、购物等。",
@@ -38,48 +38,48 @@
   },
   "population": {
     "residential": {
-      "500m": 7700,
+      "500m": 7700.0,
       "1_5km": 4.8,
       "3km": 15.3
     },
     "office": {
-      "500m": 4100,
+      "500m": 4100.0,
       "1_5km": 2.8,
-      "3km": 9
+      "3km": 9.0
     },
     "permanent": {
-      "500m": 7400,
+      "500m": 7400.0,
       "1_5km": 4.2,
       "3km": 12.8
     }
   },
   "business": {
-    "competitors": 1,
-    "food": 134,
-    "shopping": 74,
-    "leisure": 6,
+    "competitors": 1.0,
+    "food": 134.0,
+    "shopping": 74.0,
+    "leisure": 6.0,
     "education": null,
-    "hotel": 6,
-    "services": 73,
-    "fitness": 6,
-    "auto": 14,
-    "total_stores": 31,
-    "old_store_3yr_pct": 32
+    "hotel": 6.0,
+    "services": 73.0,
+    "fitness": 6.0,
+    "auto": 14.0,
+    "total_stores": 31.0,
+    "old_store_3yr_pct": 32.0
   },
   "nearby_poi": {
     "business": null,
-    "community": 75,
-    "office": 10,
-    "school": 7,
-    "hospital": 10,
-    "transport": 5,
-    "scenic": 14
+    "community": 75.0,
+    "office": 10.0,
+    "school": 7.0,
+    "hospital": 10.0,
+    "transport": 5.0,
+    "scenic": 14.0
   },
   "demographics": {
     "male_pct": null,
     "female_pct": null,
     "education": {
-      "小学": 11,
+      "小学": 11.0,
       "初中": 20.5,
       "高中": 12.4,
       "大专": 8.2,
@@ -87,8 +87,8 @@
       "硕士": 2.5,
       "博士": 0.7
     },
-    "has_children_pct": 60,
-    "no_children_pct": 40
+    "has_children_pct": 60.0,
+    "no_children_pct": 40.0
   },
   "scraped_at": "2026-08-01T08:43:55.445Z",
   "nearby_restaurants": [
@@ -364,38 +364,38 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 14,
+      "count": 14.0,
       "within_1yr_pct": 35.7,
       "1_3yr_pct": 42.9,
       "over_3yr_pct": 21.4
     },
     {
       "type": "购物",
-      "count": 6,
+      "count": 6.0,
       "within_1yr_pct": 33.3,
-      "1_3yr_pct": 0,
+      "1_3yr_pct": 0.0,
       "over_3yr_pct": 66.7
     },
     {
       "type": "休闲娱乐",
-      "count": 1,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 100
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
     },
     {
       "type": "生活服务",
-      "count": 8,
+      "count": 8.0,
       "within_1yr_pct": 62.5,
-      "1_3yr_pct": 25,
+      "1_3yr_pct": 25.0,
       "over_3yr_pct": 12.5
     },
     {
       "type": "车辆服务",
-      "count": 2,
-      "within_1yr_pct": 50,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 50
+      "count": 2.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 50.0
     }
   ],
   "nearby_communities": [

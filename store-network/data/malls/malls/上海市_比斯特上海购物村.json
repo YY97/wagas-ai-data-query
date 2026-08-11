@@ -150,5 +150,57 @@
       "1_3yr_pct": 0.0,
       "over_3yr_pct": 100.0
     }
-  ]
+  ],
+  "nearby_communities": [
+    {
+      "name": "二期工人宿舍",
+      "households": 25,
+      "residents": null,
+      "year": "-",
+      "raw": "二期工人宿舍 户数:25 居住人数:小于100 建筑年份:-"
+    },
+    {
+      "name": "申迪东路员工社区-员工社区",
+      "households": 373,
+      "residents": "810+",
+      "year": "-",
+      "raw": "申迪东路员工社区-员工社区 户数:373 居住人数:810+ 建筑年份:-"
+    },
+    {
+      "name": "川沙新镇七星村社区",
+      "households": null,
+      "residents": null,
+      "year": "-",
+      "raw": "川沙新镇七星村社区 建筑年份:- 上海市浦东新区鹿川路145号附近"
+    },
+    {
+      "name": "上海蓝堡独栋别墅",
+      "households": 141,
+      "residents": "510+",
+      "year": "2006",
+      "raw": "上海蓝堡独栋别墅 户数:141 居住人数:510+ 建筑年份:2006"
+    },
+    {
+      "name": "上海东道园",
+      "households": 27,
+      "residents": null,
+      "year": "-",
+      "raw": "上海东道园 户数:27 居住人数:小于100 建筑年份:-"
+    },
+    {
+      "name": "鹿汇花园",
+      "households": 71,
+      "residents": "270+",
+      "year": "1997",
+      "raw": "鹿汇花园 户数:71 居住人数:270+ 建筑年份:1997"
+    },
+    {
+      "name": "绿地国际家园",
+      "households": 74,
+      "residents": "320+",
+      "year": "-",
+      "raw": "绿地国际家园 户数:74 居住人数:320+ 建筑年份:-"
+    }
+  ],
+  "community_count": 7
 }

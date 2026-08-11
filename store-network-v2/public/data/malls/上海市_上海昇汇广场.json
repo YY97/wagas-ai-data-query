@@ -13,7 +13,7 @@
     "industry_score": 66.7,
     "annual_sales": "上海昇汇广场位于虹口区大连路555号，靠近大连路地铁站（4号线、12号线），交通便利。项目共5层，适合各类商业业态。",
     "annual_sales_unit": "-",
-    "area_size_sqm": 3200,
+    "area_size_sqm": 3200.0,
     "open_date": "2018-12-01",
     "operator": "上海世纪汇置业有限公司",
     "brand": "",
@@ -49,31 +49,31 @@
     },
     "permanent": {
       "500m": 2.4,
-      "1_5km": 23,
+      "1_5km": 23.0,
       "3km": 102.5
     }
   },
   "business": {
-    "competitors": 5,
-    "food": 178,
-    "shopping": 88,
-    "leisure": 15,
-    "education": 13,
-    "hotel": 23,
-    "services": 107,
-    "fitness": 17,
-    "auto": 16,
-    "total_stores": 5,
-    "old_store_3yr_pct": 80
+    "competitors": 5.0,
+    "food": 178.0,
+    "shopping": 88.0,
+    "leisure": 15.0,
+    "education": 13.0,
+    "hotel": 23.0,
+    "services": 107.0,
+    "fitness": 17.0,
+    "auto": 16.0,
+    "total_stores": 5.0,
+    "old_store_3yr_pct": 80.0
   },
   "nearby_poi": {
-    "business": 8,
-    "community": 760,
-    "office": 115,
-    "school": 52,
-    "hospital": 119,
-    "transport": 12,
-    "scenic": 429
+    "business": 8.0,
+    "community": 760.0,
+    "office": 115.0,
+    "school": 52.0,
+    "hospital": 119.0,
+    "transport": 12.0,
+    "scenic": 429.0
   },
   "demographics": {
     "male_pct": null,
@@ -412,17 +412,17 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 4,
-      "within_1yr_pct": 25,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 75
+      "count": 4.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 75.0
     },
     {
       "type": "生活服务",
-      "count": 1,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 100
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
     }
   ],
   "nearby_communities": [
@@ -1827,7 +1827,7 @@
       "raw": "平凉路742弄小区 户数:72 居住人数:400+ 建筑年份:1978"
     }
   ],
-  "community_count": 200,
   "avg_housing_price": 73363.18,
-  "total_households": 399813
+  "total_households": 399813,
+  "community_count": 200
 }

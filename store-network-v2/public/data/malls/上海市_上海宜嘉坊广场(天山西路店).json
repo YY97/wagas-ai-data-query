@@ -26,13 +26,13 @@
     "annual_daily_rank": "",
     "jun_total": 4.6,
     "jun_total_rank": "市内商场第554名",
-    "jun_daily_avg": 1516,
+    "jun_daily_avg": 1516.0,
     "jun_daily_unit": "人次",
     "jun_daily_rank": "市内商场第554名",
-    "weekday_avg": 1538,
+    "weekday_avg": 1538.0,
     "weekday_unit": "人次",
     "weekday_rank": "市内商场第551名",
-    "holiday_avg": 1456,
+    "holiday_avg": 1456.0,
     "holiday_unit": "人次",
     "holiday_rank": "市内商场第565名"
   },
@@ -54,26 +54,26 @@
     }
   },
   "business": {
-    "competitors": 3,
-    "food": 140,
-    "shopping": 88,
-    "leisure": 5,
-    "education": 13,
-    "hotel": 15,
-    "services": 107,
-    "fitness": 14,
-    "auto": 7,
-    "total_stores": 75,
-    "old_store_3yr_pct": 44
+    "competitors": 3.0,
+    "food": 140.0,
+    "shopping": 88.0,
+    "leisure": 5.0,
+    "education": 13.0,
+    "hotel": 15.0,
+    "services": 107.0,
+    "fitness": 14.0,
+    "auto": 7.0,
+    "total_stores": 75.0,
+    "old_store_3yr_pct": 44.0
   },
   "nearby_poi": {
-    "business": 4,
-    "community": 400,
-    "office": 59,
-    "school": 39,
-    "hospital": 70,
-    "transport": 7,
-    "scenic": 231
+    "business": 4.0,
+    "community": 400.0,
+    "office": 59.0,
+    "school": 39.0,
+    "hospital": 70.0,
+    "transport": 7.0,
+    "scenic": 231.0
   },
   "demographics": {
     "male_pct": 45.6,
@@ -380,52 +380,52 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 24,
+      "count": 24.0,
       "within_1yr_pct": 29.2,
       "1_3yr_pct": 16.7,
       "over_3yr_pct": 54.2
     },
     {
       "type": "购物",
-      "count": 7,
+      "count": 7.0,
       "within_1yr_pct": 14.3,
       "1_3yr_pct": 42.9,
       "over_3yr_pct": 42.9
     },
     {
       "type": "休闲娱乐",
-      "count": 2,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 100,
-      "over_3yr_pct": 0
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
     },
     {
       "type": "教育培训",
-      "count": 3,
+      "count": 3.0,
       "within_1yr_pct": 33.3,
       "1_3yr_pct": 33.3,
       "over_3yr_pct": 33.3
     },
     {
       "type": "酒店住宿",
-      "count": 6,
+      "count": 6.0,
       "within_1yr_pct": 16.7,
       "1_3yr_pct": 16.7,
       "over_3yr_pct": 66.7
     },
     {
       "type": "生活服务",
-      "count": 28,
+      "count": 28.0,
       "within_1yr_pct": 39.3,
       "1_3yr_pct": 28.6,
       "over_3yr_pct": 32.1
     },
     {
       "type": "运动健身",
-      "count": 5,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 40,
-      "over_3yr_pct": 60
+      "count": 5.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 40.0,
+      "over_3yr_pct": 60.0
     }
   ],
   "nearby_communities": [
@@ -1830,7 +1830,7 @@
       "raw": "浙铁绿城长风中心一期-诚公馆 户数:192 居住人数:520+ 建筑年份:-"
     }
   ],
-  "community_count": 200,
   "avg_housing_price": 69531.2,
-  "total_households": 236490
+  "total_households": 236490,
+  "community_count": 200
 }

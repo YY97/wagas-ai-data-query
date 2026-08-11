@@ -13,7 +13,7 @@
     "industry_score": 95.4,
     "annual_sales": "上海浦江万达广场定位区域家庭型购物中心，通过汇集超市、潮流服饰、餐饮美食、生活精品、影院健身、综合儿童等多种业态，满足区域内消费者吃喝玩乐逛购的一站式消费需求",
     "annual_sales_unit": "-",
-    "area_size_sqm": 10,
+    "area_size_sqm": 10.0,
     "open_date": "2019-12-31",
     "operator": "珠海万达商业管理集团股份有限公司",
     "brand": "万达",
@@ -32,18 +32,18 @@
     "weekday_avg": 4.1,
     "weekday_unit": "万人次",
     "weekday_rank": "市内商场第81名",
-    "holiday_avg": 7,
+    "holiday_avg": 7.0,
     "holiday_unit": "万人次",
     "holiday_rank": "市内商场第52名"
   },
   "population": {
     "residential": {
       "500m": 2.2,
-      "1_5km": 12,
+      "1_5km": 12.0,
       "3km": 21.4
     },
     "office": {
-      "500m": 8200,
+      "500m": 8200.0,
       "1_5km": 3.3,
       "3km": 6.4
     },
@@ -54,26 +54,26 @@
     }
   },
   "business": {
-    "competitors": 4,
-    "food": 114,
-    "shopping": 125,
-    "leisure": 12,
-    "education": 8,
-    "hotel": 3,
-    "services": 49,
-    "fitness": 9,
-    "auto": 27,
-    "total_stores": 291,
-    "old_store_3yr_pct": 50
+    "competitors": 4.0,
+    "food": 114.0,
+    "shopping": 125.0,
+    "leisure": 12.0,
+    "education": 8.0,
+    "hotel": 3.0,
+    "services": 49.0,
+    "fitness": 9.0,
+    "auto": 27.0,
+    "total_stores": 291.0,
+    "old_store_3yr_pct": 50.0
   },
   "nearby_poi": {
-    "business": 1,
-    "community": 71,
+    "business": 1.0,
+    "community": 71.0,
     "office": null,
-    "school": 16,
-    "hospital": 8,
-    "transport": 8,
-    "scenic": 52
+    "school": 16.0,
+    "hospital": 8.0,
+    "transport": 8.0,
+    "scenic": 52.0
   },
   "demographics": {
     "male_pct": 52.4,
@@ -83,9 +83,9 @@
       "初中": 19.9,
       "高中": 12.4,
       "大专": 10.1,
-      "本科": 44,
+      "本科": 44.0,
       "硕士": 2.3,
-      "博士": 1
+      "博士": 1.0
     },
     "has_children_pct": 70.2,
     "no_children_pct": 29.8
@@ -356,49 +356,49 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 100,
-      "within_1yr_pct": 17,
-      "1_3yr_pct": 28,
-      "over_3yr_pct": 55
+      "count": 100.0,
+      "within_1yr_pct": 17.0,
+      "1_3yr_pct": 28.0,
+      "over_3yr_pct": 55.0
     },
     {
       "type": "购物",
-      "count": 115,
+      "count": 115.0,
       "within_1yr_pct": 17.4,
       "1_3yr_pct": 32.2,
       "over_3yr_pct": 50.4
     },
     {
       "type": "休闲娱乐",
-      "count": 11,
+      "count": 11.0,
       "within_1yr_pct": 36.4,
       "1_3yr_pct": 27.3,
       "over_3yr_pct": 36.4
     },
     {
       "type": "教育培训",
-      "count": 7,
+      "count": 7.0,
       "within_1yr_pct": 14.3,
       "1_3yr_pct": 42.9,
       "over_3yr_pct": 42.9
     },
     {
       "type": "生活服务",
-      "count": 37,
+      "count": 37.0,
       "within_1yr_pct": 10.8,
       "1_3yr_pct": 37.8,
       "over_3yr_pct": 51.4
     },
     {
       "type": "运动健身",
-      "count": 5,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 60,
-      "over_3yr_pct": 40
+      "count": 5.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 60.0,
+      "over_3yr_pct": 40.0
     },
     {
       "type": "车辆服务",
-      "count": 16,
+      "count": 16.0,
       "within_1yr_pct": 31.3,
       "1_3yr_pct": 37.5,
       "over_3yr_pct": 31.3

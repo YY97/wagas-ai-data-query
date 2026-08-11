@@ -8,7 +8,7 @@
     "score": 89.6,
     "score_rank": "市内前30%",
     "population_score": 99.4,
-    "area_score": 100,
+    "area_score": 100.0,
     "consumption_score": 84.8,
     "industry_score": 89.5,
     "annual_sales": "",
@@ -54,35 +54,35 @@
     }
   },
   "business": {
-    "competitors": 16,
-    "food": 600,
-    "shopping": 571,
-    "leisure": 47,
-    "education": 88,
-    "hotel": 84,
-    "services": 463,
-    "fitness": 53,
-    "auto": 37,
-    "total_stores": 1957,
-    "old_store_3yr_pct": 50
+    "competitors": 16.0,
+    "food": 600.0,
+    "shopping": 571.0,
+    "leisure": 47.0,
+    "education": 88.0,
+    "hotel": 84.0,
+    "services": 463.0,
+    "fitness": 53.0,
+    "auto": 37.0,
+    "total_stores": 1957.0,
+    "old_store_3yr_pct": 50.0
   },
   "nearby_poi": {
-    "business": 19,
-    "community": 503,
-    "office": 155,
-    "school": 46,
-    "hospital": 133,
-    "transport": 21,
-    "scenic": 602
+    "business": 19.0,
+    "community": 503.0,
+    "office": 155.0,
+    "school": 46.0,
+    "hospital": 133.0,
+    "transport": 21.0,
+    "scenic": 602.0
   },
   "demographics": {
     "male_pct": 48.1,
     "female_pct": null,
     "education": {
-      "小学": 9,
+      "小学": 9.0,
       "初中": 16.4,
       "高中": 10.6,
-      "大专": 7,
+      "大专": 7.0,
       "本科": 48.6,
       "硕士": 6.6,
       "博士": 1.8
@@ -428,56 +428,56 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 600,
-      "within_1yr_pct": 27,
-      "1_3yr_pct": 29,
-      "over_3yr_pct": 44
+      "count": 600.0,
+      "within_1yr_pct": 27.0,
+      "1_3yr_pct": 29.0,
+      "over_3yr_pct": 44.0
     },
     {
       "type": "购物",
-      "count": 571,
+      "count": 571.0,
       "within_1yr_pct": 19.3,
       "1_3yr_pct": 21.7,
-      "over_3yr_pct": 59
+      "over_3yr_pct": 59.0
     },
     {
       "type": "休闲娱乐",
-      "count": 61,
+      "count": 61.0,
       "within_1yr_pct": 34.4,
       "1_3yr_pct": 32.8,
       "over_3yr_pct": 32.8
     },
     {
       "type": "教育培训",
-      "count": 88,
-      "within_1yr_pct": 17,
+      "count": 88.0,
+      "within_1yr_pct": 17.0,
       "1_3yr_pct": 28.4,
       "over_3yr_pct": 54.5
     },
     {
       "type": "酒店住宿",
-      "count": 84,
+      "count": 84.0,
       "within_1yr_pct": 40.5,
-      "1_3yr_pct": 19,
+      "1_3yr_pct": 19.0,
       "over_3yr_pct": 40.5
     },
     {
       "type": "生活服务",
-      "count": 463,
+      "count": 463.0,
       "within_1yr_pct": 23.5,
       "1_3yr_pct": 25.3,
       "over_3yr_pct": 51.2
     },
     {
       "type": "运动健身",
-      "count": 53,
+      "count": 53.0,
       "within_1yr_pct": 20.8,
       "1_3yr_pct": 41.5,
       "over_3yr_pct": 37.7
     },
     {
       "type": "车辆服务",
-      "count": 37,
+      "count": 37.0,
       "within_1yr_pct": 35.1,
       "1_3yr_pct": 18.9,
       "over_3yr_pct": 45.9
@@ -1885,7 +1885,7 @@
       "raw": "临潼路99弄小区 户数:94 居住人数:110+ 建筑年份:2000"
     }
   ],
-  "community_count": 200,
   "avg_housing_price": 87426.61,
-  "total_households": 206554
+  "total_households": 206554,
+  "community_count": 200
 }

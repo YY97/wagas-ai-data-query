@@ -10,7 +10,7 @@
     "population_score": 91.1,
     "area_score": 70.6,
     "consumption_score": 71.8,
-    "industry_score": 91,
+    "industry_score": 91.0,
     "annual_sales": "力波·九坊定位为上海首个“酒+”文化综合体，跨界融合，焕新力波IP，以崭新方式传承力波品牌内涵和基因，立足上海，辐射华东，吸引全球酒类产业链上下游企业扎根落地，链接集聚酒类产业生态，打造上海酒类总部集群项目内约3.8“力波·九坊”，以啤酒文化为支撑，以微醺社交与新潮体验为特色，将打造集跨界餐饮、潮流文化娱乐、海派生活体验、多元生活购物为一体的城市24小时欢聚空间",
     "annual_sales_unit": "-",
     "area_size_sqm": 3.9,
@@ -43,37 +43,37 @@
       "3km": 82.1
     },
     "office": {
-      "500m": 1,
+      "500m": 1.0,
       "1_5km": 9.5,
       "3km": 32.4
     },
     "permanent": {
       "500m": 2.6,
       "1_5km": 22.5,
-      "3km": 82
+      "3km": 82.0
     }
   },
   "business": {
-    "competitors": 2,
-    "food": 99,
-    "shopping": 68,
-    "leisure": 12,
-    "education": 9,
-    "hotel": 12,
-    "services": 84,
-    "fitness": 9,
-    "auto": 9,
-    "total_stores": 86,
-    "old_store_3yr_pct": 40
+    "competitors": 2.0,
+    "food": 99.0,
+    "shopping": 68.0,
+    "leisure": 12.0,
+    "education": 9.0,
+    "hotel": 12.0,
+    "services": 84.0,
+    "fitness": 9.0,
+    "auto": 9.0,
+    "total_stores": 86.0,
+    "old_store_3yr_pct": 40.0
   },
   "nearby_poi": {
-    "business": 7,
-    "community": 387,
-    "office": 28,
-    "school": 53,
-    "hospital": 46,
-    "transport": 7,
-    "scenic": 85
+    "business": 7.0,
+    "community": 387.0,
+    "office": 28.0,
+    "school": 53.0,
+    "hospital": 46.0,
+    "transport": 7.0,
+    "scenic": 85.0
   },
   "demographics": {
     "male_pct": 50.2,
@@ -404,59 +404,59 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 40,
-      "within_1yr_pct": 10,
-      "1_3yr_pct": 40,
-      "over_3yr_pct": 50
+      "count": 40.0,
+      "within_1yr_pct": 10.0,
+      "1_3yr_pct": 40.0,
+      "over_3yr_pct": 50.0
     },
     {
       "type": "购物",
-      "count": 9,
+      "count": 9.0,
       "within_1yr_pct": 11.1,
       "1_3yr_pct": 44.4,
       "over_3yr_pct": 44.4
     },
     {
       "type": "休闲娱乐",
-      "count": 6,
+      "count": 6.0,
       "within_1yr_pct": 16.7,
-      "1_3yr_pct": 50,
+      "1_3yr_pct": 50.0,
       "over_3yr_pct": 33.3
     },
     {
       "type": "教育培训",
-      "count": 6,
-      "within_1yr_pct": 50,
+      "count": 6.0,
+      "within_1yr_pct": 50.0,
       "1_3yr_pct": 33.3,
       "over_3yr_pct": 16.7
     },
     {
       "type": "酒店住宿",
-      "count": 1,
-      "within_1yr_pct": 100,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 0
+      "count": 1.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
     },
     {
       "type": "生活服务",
-      "count": 16,
-      "within_1yr_pct": 25,
-      "1_3yr_pct": 50,
-      "over_3yr_pct": 25
+      "count": 16.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 25.0
     },
     {
       "type": "运动健身",
-      "count": 7,
+      "count": 7.0,
       "within_1yr_pct": 28.6,
       "1_3yr_pct": 28.6,
       "over_3yr_pct": 42.9
     },
     {
       "type": "车辆服务",
-      "count": 1,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 100,
-      "over_3yr_pct": 0
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
     }
   ],
   "nearby_communities": [
@@ -1861,7 +1861,7 @@
       "raw": "东苑绿世界花园北区 户数:337 居住人数:1130 建筑年份:2000"
     }
   ],
-  "community_count": 200,
   "avg_housing_price": 63621.89,
-  "total_households": 284439
+  "total_households": 284439,
+  "community_count": 200
 }

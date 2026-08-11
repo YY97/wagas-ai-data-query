@@ -13,7 +13,7 @@
     "industry_score": 92.5,
     "annual_sales": "500",
     "annual_sales_unit": "万元",
-    "area_size_sqm": 4,
+    "area_size_sqm": 4.0,
     "open_date": "2018-09-22",
     "operator": "北京盈泰控股有限公司",
     "brand": "",
@@ -49,42 +49,42 @@
     },
     "permanent": {
       "500m": 3.1,
-      "1_5km": 20,
+      "1_5km": 20.0,
       "3km": 55.9
     }
   },
   "business": {
-    "competitors": 2,
-    "food": 221,
-    "shopping": 110,
-    "leisure": 14,
-    "education": 73,
-    "hotel": 17,
-    "services": 136,
-    "fitness": 18,
-    "auto": 7,
-    "total_stores": 199,
-    "old_store_3yr_pct": 39
+    "competitors": 2.0,
+    "food": 221.0,
+    "shopping": 110.0,
+    "leisure": 14.0,
+    "education": 73.0,
+    "hotel": 17.0,
+    "services": 136.0,
+    "fitness": 18.0,
+    "auto": 7.0,
+    "total_stores": 199.0,
+    "old_store_3yr_pct": 39.0
   },
   "nearby_poi": {
-    "business": 6,
-    "community": 283,
-    "office": 71,
-    "school": 34,
-    "hospital": 58,
-    "transport": 9,
-    "scenic": 312
+    "business": 6.0,
+    "community": 283.0,
+    "office": 71.0,
+    "school": 34.0,
+    "hospital": 58.0,
+    "transport": 9.0,
+    "scenic": 312.0
   },
   "demographics": {
     "male_pct": 52.5,
     "female_pct": null,
     "education": {
-      "小学": 8,
-      "初中": 14,
+      "小学": 8.0,
+      "初中": 14.0,
       "高中": 12.6,
       "大专": 5.3,
       "本科": 47.3,
-      "硕士": 10,
+      "硕士": 10.0,
       "博士": 2.8
     },
     "has_children_pct": 57.9,
@@ -396,59 +396,59 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 80,
+      "count": 80.0,
       "within_1yr_pct": 43.8,
       "1_3yr_pct": 32.5,
       "over_3yr_pct": 23.8
     },
     {
       "type": "购物",
-      "count": 45,
+      "count": 45.0,
       "within_1yr_pct": 11.1,
       "1_3yr_pct": 44.4,
       "over_3yr_pct": 44.4
     },
     {
       "type": "休闲娱乐",
-      "count": 7,
+      "count": 7.0,
       "within_1yr_pct": 57.1,
       "1_3yr_pct": 14.3,
       "over_3yr_pct": 28.6
     },
     {
       "type": "教育培训",
-      "count": 15,
+      "count": 15.0,
       "within_1yr_pct": 13.3,
-      "1_3yr_pct": 20,
+      "1_3yr_pct": 20.0,
       "over_3yr_pct": 66.7
     },
     {
       "type": "酒店住宿",
-      "count": 1,
-      "within_1yr_pct": 100,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 0
+      "count": 1.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
     },
     {
       "type": "生活服务",
-      "count": 44,
+      "count": 44.0,
       "within_1yr_pct": 15.9,
       "1_3yr_pct": 31.8,
       "over_3yr_pct": 52.3
     },
     {
       "type": "运动健身",
-      "count": 6,
+      "count": 6.0,
       "within_1yr_pct": 16.7,
       "1_3yr_pct": 16.7,
       "over_3yr_pct": 66.7
     },
     {
       "type": "车辆服务",
-      "count": 1,
-      "within_1yr_pct": 100,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 0
+      "count": 1.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
     }
   ],
   "nearby_communities": [

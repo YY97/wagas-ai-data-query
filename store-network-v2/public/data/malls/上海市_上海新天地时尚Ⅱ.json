@@ -21,7 +21,7 @@
     "floors": "L1-L4"
   },
   "traffic": {
-    "annual_daily": 7699,
+    "annual_daily": 7699.0,
     "annual_daily_unit": "人次",
     "annual_daily_rank": "市内第300",
     "jun_total": 38.1,
@@ -39,7 +39,7 @@
   "population": {
     "residential": {
       "500m": 1.9,
-      "1_5km": 22,
+      "1_5km": 22.0,
       "3km": 93.2
     },
     "office": {
@@ -50,39 +50,39 @@
     "permanent": {
       "500m": 2.6,
       "1_5km": 25.9,
-      "3km": 112
+      "3km": 112.0
     }
   },
   "business": {
-    "competitors": 16,
-    "food": 346,
-    "shopping": 342,
-    "leisure": 29,
-    "education": 20,
-    "hotel": 62,
-    "services": 226,
-    "fitness": 35,
-    "auto": 22,
-    "total_stores": 210,
-    "old_store_3yr_pct": 45
+    "competitors": 16.0,
+    "food": 346.0,
+    "shopping": 342.0,
+    "leisure": 29.0,
+    "education": 20.0,
+    "hotel": 62.0,
+    "services": 226.0,
+    "fitness": 35.0,
+    "auto": 22.0,
+    "total_stores": 210.0,
+    "old_store_3yr_pct": 45.0
   },
   "nearby_poi": {
-    "business": 28,
-    "community": 1101,
-    "office": 155,
-    "school": 71,
-    "hospital": 212,
-    "transport": 21,
-    "scenic": 952
+    "business": 28.0,
+    "community": 1101.0,
+    "office": 155.0,
+    "school": 71.0,
+    "hospital": 212.0,
+    "transport": 21.0,
+    "scenic": 952.0
   },
   "demographics": {
     "male_pct": 47.1,
     "female_pct": null,
     "education": {
       "小学": 9.4,
-      "初中": 17,
+      "初中": 17.0,
       "高中": 11.4,
-      "大专": 7,
+      "大专": 7.0,
       "本科": 47.3,
       "硕士": 6.1,
       "博士": 1.8
@@ -428,52 +428,52 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 60,
+      "count": 60.0,
       "within_1yr_pct": 13.3,
       "1_3yr_pct": 38.3,
       "over_3yr_pct": 48.3
     },
     {
       "type": "购物",
-      "count": 116,
+      "count": 116.0,
       "within_1yr_pct": 19.8,
       "1_3yr_pct": 35.3,
       "over_3yr_pct": 44.8
     },
     {
       "type": "休闲娱乐",
-      "count": 11,
+      "count": 11.0,
       "within_1yr_pct": 45.5,
       "1_3yr_pct": 27.3,
       "over_3yr_pct": 27.3
     },
     {
       "type": "教育培训",
-      "count": 1,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 100
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
     },
     {
       "type": "酒店住宿",
-      "count": 3,
+      "count": 3.0,
       "within_1yr_pct": 33.3,
       "1_3yr_pct": 66.7,
-      "over_3yr_pct": 0
+      "over_3yr_pct": 0.0
     },
     {
       "type": "生活服务",
-      "count": 14,
+      "count": 14.0,
       "within_1yr_pct": 21.4,
       "1_3yr_pct": 28.6,
-      "over_3yr_pct": 50
+      "over_3yr_pct": 50.0
     },
     {
       "type": "运动健身",
-      "count": 5,
-      "within_1yr_pct": 20,
-      "1_3yr_pct": 40,
-      "over_3yr_pct": 40
+      "count": 5.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 40.0,
+      "over_3yr_pct": 40.0
     }
   ],
   "nearby_communities": [
@@ -3278,7 +3278,7 @@
       "raw": "新兴顺里 户数:100 居住人数:470+ 建筑年份:1940"
     }
   ],
-  "community_count": 400,
   "avg_housing_price": 108459.22,
-  "total_households": 253586
+  "total_households": 253586,
+  "community_count": 400
 }

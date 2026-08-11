@@ -13,7 +13,7 @@
     "industry_score": 95.1,
     "annual_sales": "上海颛桥万达广场位于上海市闵行区颛桥镇。商场引入了众多国内外知名品牌，设有大型超市、影院、儿童乐园等多种业态，致力于为消费者提供一站式购物、娱乐和休闲体验",
     "annual_sales_unit": "-",
-    "area_size_sqm": 10,
+    "area_size_sqm": 10.0,
     "open_date": "2014-12-01",
     "operator": "珠海万达商业管理集团股份有限公司",
     "brand": "万达",
@@ -26,7 +26,7 @@
     "annual_daily_rank": "市内第79",
     "jun_total": 119.9,
     "jun_total_rank": "市内商场第93名",
-    "jun_daily_avg": 4,
+    "jun_daily_avg": 4.0,
     "jun_daily_unit": "万人次",
     "jun_daily_rank": "市内商场第93名",
     "weekday_avg": 3.4,
@@ -39,49 +39,49 @@
   "population": {
     "residential": {
       "500m": 1.1,
-      "1_5km": 12,
+      "1_5km": 12.0,
       "3km": 39.5
     },
     "office": {
-      "500m": 7500,
+      "500m": 7500.0,
       "1_5km": 6.3,
       "3km": 23.7
     },
     "permanent": {
       "500m": 1.4,
       "1_5km": 11.3,
-      "3km": 36
+      "3km": 36.0
     }
   },
   "business": {
-    "competitors": 7,
-    "food": 129,
-    "shopping": 127,
-    "leisure": 21,
-    "education": 31,
-    "hotel": 7,
-    "services": 77,
-    "fitness": 22,
-    "auto": 14,
-    "total_stores": 286,
-    "old_store_3yr_pct": 60
+    "competitors": 7.0,
+    "food": 129.0,
+    "shopping": 127.0,
+    "leisure": 21.0,
+    "education": 31.0,
+    "hotel": 7.0,
+    "services": 77.0,
+    "fitness": 22.0,
+    "auto": 14.0,
+    "total_stores": 286.0,
+    "old_store_3yr_pct": 60.0
   },
   "nearby_poi": {
-    "business": 2,
-    "community": 136,
-    "office": 34,
-    "school": 20,
-    "hospital": 22,
-    "transport": 5,
-    "scenic": 34
+    "business": 2.0,
+    "community": 136.0,
+    "office": 34.0,
+    "school": 20.0,
+    "hospital": 22.0,
+    "transport": 5.0,
+    "scenic": 34.0
   },
   "demographics": {
     "male_pct": 51.8,
     "female_pct": null,
     "education": {
-      "小学": 10,
+      "小学": 10.0,
       "初中": 18.1,
-      "高中": 12,
+      "高中": 12.0,
       "大专": 8.9,
       "本科": 44.5,
       "硕士": 5.1,
@@ -364,50 +364,50 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 101,
+      "count": 101.0,
       "within_1yr_pct": 12.9,
       "1_3yr_pct": 26.7,
       "over_3yr_pct": 60.4
     },
     {
       "type": "购物",
-      "count": 107,
-      "within_1yr_pct": 15,
+      "count": 107.0,
+      "within_1yr_pct": 15.0,
       "1_3yr_pct": 24.3,
       "over_3yr_pct": 60.7
     },
     {
       "type": "休闲娱乐",
-      "count": 16,
+      "count": 16.0,
       "within_1yr_pct": 37.5,
       "1_3yr_pct": 18.8,
       "over_3yr_pct": 43.8
     },
     {
       "type": "教育培训",
-      "count": 15,
+      "count": 15.0,
       "within_1yr_pct": 6.7,
       "1_3yr_pct": 6.7,
       "over_3yr_pct": 86.7
     },
     {
       "type": "生活服务",
-      "count": 33,
+      "count": 33.0,
       "within_1yr_pct": 12.1,
       "1_3yr_pct": 24.2,
       "over_3yr_pct": 63.6
     },
     {
       "type": "运动健身",
-      "count": 6,
+      "count": 6.0,
       "within_1yr_pct": 16.7,
       "1_3yr_pct": 66.7,
       "over_3yr_pct": 16.7
     },
     {
       "type": "车辆服务",
-      "count": 8,
-      "within_1yr_pct": 25,
+      "count": 8.0,
+      "within_1yr_pct": 25.0,
       "1_3yr_pct": 12.5,
       "over_3yr_pct": 62.5
     }

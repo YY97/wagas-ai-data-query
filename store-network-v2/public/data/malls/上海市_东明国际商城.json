@@ -8,12 +8,12 @@
     "score": 82.5,
     "score_rank": "市内前30%",
     "population_score": 75.1,
-    "area_score": 72,
+    "area_score": 72.0,
     "consumption_score": 63.9,
     "industry_score": 82.6,
     "annual_sales": "佘山新天地休闲广场位于松江区佘山镇桃源路外青松路口，占地50余亩，集餐饮娱乐、休闲购物以及酒店式公寓于一体的生活广场，是上海市重点开发的佘山旅游度假功能区的重要组成部分",
     "annual_sales_unit": "-",
-    "area_size_sqm": 6,
+    "area_size_sqm": 6.0,
     "open_date": "2010-02-01",
     "operator": "上海鎏元置业有限公司",
     "brand": "",
@@ -21,18 +21,18 @@
     "floors": "B1-L4"
   },
   "traffic": {
-    "annual_daily": 7918,
+    "annual_daily": 7918.0,
     "annual_daily_unit": "人次",
     "annual_daily_rank": "市内第295",
-    "jun_total": 26,
+    "jun_total": 26.0,
     "jun_total_rank": "市内商场第334名",
-    "jun_daily_avg": 8656,
+    "jun_daily_avg": 8656.0,
     "jun_daily_unit": "人次",
     "jun_daily_rank": "市内商场第334名",
-    "weekday_avg": 8039,
+    "weekday_avg": 8039.0,
     "weekday_unit": "人次",
     "weekday_rank": "市内商场第344名",
-    "holiday_avg": 1,
+    "holiday_avg": 1.0,
     "holiday_unit": "万人次",
     "holiday_rank": "市内商场第317名"
   },
@@ -43,7 +43,7 @@
       "3km": 10.5
     },
     "office": {
-      "500m": 5600,
+      "500m": 5600.0,
       "1_5km": 1.9,
       "3km": 4.9
     },
@@ -55,31 +55,31 @@
   },
   "business": {
     "competitors": null,
-    "food": 150,
-    "shopping": 100,
-    "leisure": 13,
-    "education": 8,
-    "hotel": 22,
-    "services": 84,
-    "fitness": 4,
-    "auto": 11,
-    "total_stores": 137,
-    "old_store_3yr_pct": 63
+    "food": 150.0,
+    "shopping": 100.0,
+    "leisure": 13.0,
+    "education": 8.0,
+    "hotel": 22.0,
+    "services": 84.0,
+    "fitness": 4.0,
+    "auto": 11.0,
+    "total_stores": 137.0,
+    "old_store_3yr_pct": 63.0
   },
   "nearby_poi": {
     "business": null,
-    "community": 47,
-    "office": 3,
-    "school": 7,
-    "hospital": 7,
-    "transport": 7,
-    "scenic": 201
+    "community": 47.0,
+    "office": 3.0,
+    "school": 7.0,
+    "hospital": 7.0,
+    "transport": 7.0,
+    "scenic": 201.0
   },
   "demographics": {
-    "male_pct": 53,
+    "male_pct": 53.0,
     "female_pct": null,
     "education": {
-      "小学": 9,
+      "小学": 9.0,
       "初中": 20.6,
       "高中": 20.3,
       "大专": 7.8,
@@ -147,59 +147,59 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 49,
+      "count": 49.0,
       "within_1yr_pct": 6.1,
       "1_3yr_pct": 26.5,
       "over_3yr_pct": 67.3
     },
     {
       "type": "购物",
-      "count": 33,
+      "count": 33.0,
       "within_1yr_pct": 18.2,
       "1_3yr_pct": 9.1,
       "over_3yr_pct": 72.7
     },
     {
       "type": "休闲娱乐",
-      "count": 10,
-      "within_1yr_pct": 30,
-      "1_3yr_pct": 20,
-      "over_3yr_pct": 50
+      "count": 10.0,
+      "within_1yr_pct": 30.0,
+      "1_3yr_pct": 20.0,
+      "over_3yr_pct": 50.0
     },
     {
       "type": "教育培训",
-      "count": 8,
-      "within_1yr_pct": 0,
+      "count": 8.0,
+      "within_1yr_pct": 0.0,
       "1_3yr_pct": 12.5,
       "over_3yr_pct": 87.5
     },
     {
       "type": "酒店住宿",
-      "count": 8,
+      "count": 8.0,
       "within_1yr_pct": 12.5,
       "1_3yr_pct": 62.5,
-      "over_3yr_pct": 25
+      "over_3yr_pct": 25.0
     },
     {
       "type": "生活服务",
-      "count": 20,
-      "within_1yr_pct": 15,
-      "1_3yr_pct": 35,
-      "over_3yr_pct": 50
+      "count": 20.0,
+      "within_1yr_pct": 15.0,
+      "1_3yr_pct": 35.0,
+      "over_3yr_pct": 50.0
     },
     {
       "type": "运动健身",
-      "count": 4,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 100
+      "count": 4.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
     },
     {
       "type": "车辆服务",
-      "count": 5,
-      "within_1yr_pct": 60,
-      "1_3yr_pct": 20,
-      "over_3yr_pct": 20
+      "count": 5.0,
+      "within_1yr_pct": 60.0,
+      "1_3yr_pct": 20.0,
+      "over_3yr_pct": 20.0
     }
   ],
   "nearby_communities": [

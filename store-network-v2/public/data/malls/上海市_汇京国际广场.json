@@ -5,7 +5,7 @@
   "lat": 31.195956,
   "lng": 121.423459,
   "overview": {
-    "score": 91,
+    "score": 91.0,
     "score_rank": "市内前30%",
     "population_score": 95.6,
     "area_score": 79.5,
@@ -13,7 +13,7 @@
     "industry_score": 91.1,
     "annual_sales": "汇京国际广场位于上海市徐汇区虹桥路777号，是一个集办公楼、时尚商业、高端住宅和商业会馆于一体的高端综合体项目。项目写字楼总面积3.2万平方米，享有得天独厚的地理优势，坐落于虹桥路淮海西路，徐家汇门户地段，四大核心CBD交汇，3号线、4号线、10号线三轨交汇，立体出行，交通便捷",
     "annual_sales_unit": "-",
-    "area_size_sqm": 2,
+    "area_size_sqm": 2.0,
     "open_date": "2015-09-01",
     "operator": "上海汇京置业发展有限公司",
     "brand": "",
@@ -21,10 +21,10 @@
     "floors": "B2-L3"
   },
   "traffic": {
-    "annual_daily": 9260,
+    "annual_daily": 9260.0,
     "annual_daily_unit": "人次",
     "annual_daily_rank": "市内第264",
-    "jun_total": 46,
+    "jun_total": 46.0,
     "jun_total_rank": "市内商场第229名",
     "jun_daily_avg": 1.5,
     "jun_daily_unit": "万人次",
@@ -49,31 +49,31 @@
     },
     "permanent": {
       "500m": 3.3,
-      "1_5km": 28,
+      "1_5km": 28.0,
       "3km": 103.9
     }
   },
   "business": {
-    "competitors": 9,
-    "food": 247,
-    "shopping": 99,
-    "leisure": 14,
-    "education": 36,
-    "hotel": 35,
-    "services": 104,
-    "fitness": 20,
-    "auto": 23,
-    "total_stores": 60,
-    "old_store_3yr_pct": 47
+    "competitors": 9.0,
+    "food": 247.0,
+    "shopping": 99.0,
+    "leisure": 14.0,
+    "education": 36.0,
+    "hotel": 35.0,
+    "services": 104.0,
+    "fitness": 20.0,
+    "auto": 23.0,
+    "total_stores": 60.0,
+    "old_store_3yr_pct": 47.0
   },
   "nearby_poi": {
-    "business": 11,
-    "community": 995,
-    "office": 152,
-    "school": 66,
-    "hospital": 171,
-    "transport": 12,
-    "scenic": 374
+    "business": 11.0,
+    "community": 995.0,
+    "office": 152.0,
+    "school": 66.0,
+    "hospital": 171.0,
+    "transport": 12.0,
+    "scenic": 374.0
   },
   "demographics": {
     "male_pct": 47.5,
@@ -82,8 +82,8 @@
       "小学": 8.7,
       "初中": 16.3,
       "高中": 11.4,
-      "大专": 7,
-      "本科": 49,
+      "大专": 7.0,
+      "本科": 49.0,
       "硕士": 5.9,
       "博士": 1.7
     },
@@ -428,52 +428,52 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 30,
+      "count": 30.0,
       "within_1yr_pct": 16.7,
       "1_3yr_pct": 33.3,
-      "over_3yr_pct": 50
+      "over_3yr_pct": 50.0
     },
     {
       "type": "购物",
-      "count": 9,
+      "count": 9.0,
       "within_1yr_pct": 44.4,
       "1_3yr_pct": 22.2,
       "over_3yr_pct": 33.3
     },
     {
       "type": "休闲娱乐",
-      "count": 1,
-      "within_1yr_pct": 100,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 0
+      "count": 1.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
     },
     {
       "type": "教育培训",
-      "count": 4,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 25,
-      "over_3yr_pct": 75
+      "count": 4.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 75.0
     },
     {
       "type": "生活服务",
-      "count": 9,
+      "count": 9.0,
       "within_1yr_pct": 22.2,
       "1_3yr_pct": 44.4,
       "over_3yr_pct": 33.3
     },
     {
       "type": "运动健身",
-      "count": 5,
-      "within_1yr_pct": 20,
-      "1_3yr_pct": 20,
-      "over_3yr_pct": 60
+      "count": 5.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 20.0,
+      "over_3yr_pct": 60.0
     },
     {
       "type": "车辆服务",
-      "count": 2,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 50,
-      "over_3yr_pct": 50
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 50.0
     }
   ],
   "nearby_communities": [

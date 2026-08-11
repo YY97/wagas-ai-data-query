@@ -38,42 +38,42 @@
   },
   "population": {
     "residential": {
-      "500m": 6500,
+      "500m": 6500.0,
       "1_5km": 7.7,
       "3km": 32.7
     },
     "office": {
-      "500m": 1,
+      "500m": 1.0,
       "1_5km": 4.2,
       "3km": 14.2
     },
     "permanent": {
-      "500m": 7900,
+      "500m": 7900.0,
       "1_5km": 7.1,
       "3km": 28.3
     }
   },
   "business": {
-    "competitors": 5,
-    "food": 163,
-    "shopping": 170,
-    "leisure": 16,
-    "education": 4,
-    "hotel": 23,
-    "services": 28,
-    "fitness": 7,
-    "auto": 19,
+    "competitors": 5.0,
+    "food": 163.0,
+    "shopping": 170.0,
+    "leisure": 16.0,
+    "education": 4.0,
+    "hotel": 23.0,
+    "services": 28.0,
+    "fitness": 7.0,
+    "auto": 19.0,
     "total_stores": null,
     "old_store_3yr_pct": null
   },
   "nearby_poi": {
-    "business": 2,
-    "community": 119,
-    "office": 13,
-    "school": 6,
-    "hospital": 28,
-    "transport": 4,
-    "scenic": 36
+    "business": 2.0,
+    "community": 119.0,
+    "office": 13.0,
+    "school": 6.0,
+    "hospital": 28.0,
+    "transport": 4.0,
+    "scenic": 36.0
   },
   "demographics": {
     "male_pct": 49.5,

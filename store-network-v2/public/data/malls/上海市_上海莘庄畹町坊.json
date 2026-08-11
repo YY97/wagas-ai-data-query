@@ -13,7 +13,7 @@
     "industry_score": 95.4,
     "annual_sales": "位于上海市莘庄镇，东临沪闵路，南临莘建路，西侧为莘东路，北靠莘松路，临近轨道交通 1 号线、5 号线。由一幢 4 层综合购物中心和一幢 32 层酒店综合楼组成，是集购物、休闲、娱乐、商务于一体的大型综合体.",
     "annual_sales_unit": "-",
-    "area_size_sqm": 9,
+    "area_size_sqm": 9.0,
     "open_date": "2022-06-01",
     "operator": "凯德置地（中国）投资有限公司",
     "brand": "凯德",
@@ -32,7 +32,7 @@
     "weekday_avg": 3.8,
     "weekday_unit": "万人次",
     "weekday_rank": "市内商场第93名",
-    "holiday_avg": 5,
+    "holiday_avg": 5.0,
     "holiday_unit": "万人次",
     "holiday_rank": "市内商场第86名"
   },
@@ -43,45 +43,45 @@
       "3km": 60.7
     },
     "office": {
-      "500m": 2,
+      "500m": 2.0,
       "1_5km": 9.3,
       "3km": 28.7
     },
     "permanent": {
       "500m": 2.7,
       "1_5km": 18.2,
-      "3km": 60
+      "3km": 60.0
     }
   },
   "business": {
-    "competitors": 7,
-    "food": 284,
-    "shopping": 269,
-    "leisure": 27,
-    "education": 71,
-    "hotel": 39,
-    "services": 193,
-    "fitness": 24,
-    "auto": 12,
-    "total_stores": 197,
-    "old_store_3yr_pct": 56
+    "competitors": 7.0,
+    "food": 284.0,
+    "shopping": 269.0,
+    "leisure": 27.0,
+    "education": 71.0,
+    "hotel": 39.0,
+    "services": 193.0,
+    "fitness": 24.0,
+    "auto": 12.0,
+    "total_stores": 197.0,
+    "old_store_3yr_pct": 56.0
   },
   "nearby_poi": {
-    "business": 3,
-    "community": 281,
-    "office": 49,
-    "school": 42,
-    "hospital": 33,
-    "transport": 10,
-    "scenic": 93
+    "business": 3.0,
+    "community": 281.0,
+    "office": 49.0,
+    "school": 42.0,
+    "hospital": 33.0,
+    "transport": 10.0,
+    "scenic": 93.0
   },
   "demographics": {
     "male_pct": 52.4,
     "female_pct": null,
     "education": {
       "小学": 8.8,
-      "初中": 16,
-      "高中": 11,
+      "初中": 16.0,
+      "高中": 11.0,
       "大专": 7.5,
       "本科": 49.7,
       "硕士": 5.6,
@@ -372,59 +372,59 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 81,
+      "count": 81.0,
       "within_1yr_pct": 9.9,
       "1_3yr_pct": 33.3,
       "over_3yr_pct": 56.8
     },
     {
       "type": "购物",
-      "count": 57,
+      "count": 57.0,
       "within_1yr_pct": 17.5,
       "1_3yr_pct": 19.3,
       "over_3yr_pct": 63.2
     },
     {
       "type": "休闲娱乐",
-      "count": 9,
+      "count": 9.0,
       "within_1yr_pct": 11.1,
       "1_3yr_pct": 33.3,
       "over_3yr_pct": 55.6
     },
     {
       "type": "教育培训",
-      "count": 13,
+      "count": 13.0,
       "within_1yr_pct": 7.7,
       "1_3yr_pct": 38.5,
       "over_3yr_pct": 53.8
     },
     {
       "type": "酒店住宿",
-      "count": 1,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 100,
-      "over_3yr_pct": 0
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
     },
     {
       "type": "生活服务",
-      "count": 23,
+      "count": 23.0,
       "within_1yr_pct": 30.4,
       "1_3yr_pct": 26.1,
       "over_3yr_pct": 43.5
     },
     {
       "type": "运动健身",
-      "count": 7,
+      "count": 7.0,
       "within_1yr_pct": 42.9,
       "1_3yr_pct": 14.3,
       "over_3yr_pct": 42.9
     },
     {
       "type": "车辆服务",
-      "count": 6,
+      "count": 6.0,
       "within_1yr_pct": 33.3,
       "1_3yr_pct": 16.7,
-      "over_3yr_pct": 50
+      "over_3yr_pct": 50.0
     }
   ],
   "nearby_communities": [
@@ -2396,7 +2396,7 @@
       "raw": "乔爱别墅城 户数:392 居住人数:1341 建筑年份:2002"
     }
   ],
-  "community_count": 281,
   "avg_housing_price": 54082.06,
-  "total_households": 200594
+  "total_households": 200594,
+  "community_count": 281
 }

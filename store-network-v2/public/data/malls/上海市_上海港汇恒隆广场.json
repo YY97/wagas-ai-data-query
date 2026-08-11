@@ -8,12 +8,12 @@
     "score": 95.9,
     "score_rank": "市内前30%",
     "population_score": 85.1,
-    "area_score": 100,
+    "area_score": 100.0,
     "consumption_score": 86.9,
-    "industry_score": 96,
+    "industry_score": 96.0,
     "annual_sales": "上海港汇恒隆广场位于上海市徐汇区华山路与虹桥路交界处，毗邻徐家汇商业中心，地理位置优越。商场内设有7个营业层面，包括地下一层和地上六层，汇聚了众多国际知名品牌，涵盖时尚、餐饮、娱乐等多元化业态",
     "annual_sales_unit": "-",
-    "area_size_sqm": 7,
+    "area_size_sqm": 7.0,
     "open_date": "1999-12-28",
     "operator": "恒隆地产有限公司",
     "brand": "恒隆地产有限公司",
@@ -24,7 +24,7 @@
     "annual_daily": 4.44,
     "annual_daily_unit": "万人次",
     "annual_daily_rank": "市内第42",
-    "jun_total": 190,
+    "jun_total": 190.0,
     "jun_total_rank": "市内商场第39名",
     "jun_daily_avg": 6.3,
     "jun_daily_unit": "万人次",
@@ -54,26 +54,26 @@
     }
   },
   "business": {
-    "competitors": 33,
-    "food": 560,
-    "shopping": 749,
-    "leisure": 76,
-    "education": 107,
-    "hotel": 49,
-    "services": 347,
-    "fitness": 42,
-    "auto": 41,
-    "total_stores": 401,
-    "old_store_3yr_pct": 56
+    "competitors": 33.0,
+    "food": 560.0,
+    "shopping": 749.0,
+    "leisure": 76.0,
+    "education": 107.0,
+    "hotel": 49.0,
+    "services": 347.0,
+    "fitness": 42.0,
+    "auto": 41.0,
+    "total_stores": 401.0,
+    "old_store_3yr_pct": 56.0
   },
   "nearby_poi": {
-    "business": 16,
-    "community": 1124,
-    "office": 160,
-    "school": 77,
-    "hospital": 158,
-    "transport": 12,
-    "scenic": 420
+    "business": 16.0,
+    "community": 1124.0,
+    "office": 160.0,
+    "school": 77.0,
+    "hospital": 158.0,
+    "transport": 12.0,
+    "scenic": 420.0
   },
   "demographics": {
     "male_pct": 47.7,
@@ -428,56 +428,56 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 89,
+      "count": 89.0,
       "within_1yr_pct": 23.6,
       "1_3yr_pct": 34.8,
       "over_3yr_pct": 41.6
     },
     {
       "type": "购物",
-      "count": 257,
+      "count": 257.0,
       "within_1yr_pct": 12.5,
       "1_3yr_pct": 22.6,
-      "over_3yr_pct": 65
+      "over_3yr_pct": 65.0
     },
     {
       "type": "休闲娱乐",
-      "count": 5,
-      "within_1yr_pct": 60,
-      "1_3yr_pct": 20,
-      "over_3yr_pct": 20
+      "count": 5.0,
+      "within_1yr_pct": 60.0,
+      "1_3yr_pct": 20.0,
+      "over_3yr_pct": 20.0
     },
     {
       "type": "教育培训",
-      "count": 3,
-      "within_1yr_pct": 100,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 0
+      "count": 3.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
     },
     {
       "type": "酒店住宿",
-      "count": 2,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 50,
-      "over_3yr_pct": 50
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 50.0
     },
     {
       "type": "生活服务",
-      "count": 34,
+      "count": 34.0,
       "within_1yr_pct": 26.5,
       "1_3yr_pct": 23.5,
-      "over_3yr_pct": 50
+      "over_3yr_pct": 50.0
     },
     {
       "type": "运动健身",
-      "count": 2,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 50,
-      "over_3yr_pct": 50
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 50.0
     },
     {
       "type": "车辆服务",
-      "count": 9,
+      "count": 9.0,
       "within_1yr_pct": 33.3,
       "1_3yr_pct": 55.6,
       "over_3yr_pct": 11.1
@@ -3285,7 +3285,7 @@
       "raw": "新华苑 户数:240 居住人数:630+ 建筑年份:1998"
     }
   ],
-  "community_count": 400,
   "avg_housing_price": 100304.12,
-  "total_households": 341823
+  "total_households": 341823,
+  "community_count": 400
 }

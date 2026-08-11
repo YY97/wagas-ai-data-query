@@ -8,12 +8,12 @@
     "score": 87.5,
     "score_rank": "市内前30%",
     "population_score": 87.6,
-    "area_score": 100,
+    "area_score": 100.0,
     "consumption_score": 81.5,
     "industry_score": 87.4,
     "annual_sales": "北京CBD中骏世界城位于北京国贸CBD核心腹地，是中骏旗下最早的商业项目，也是当下北京CBD核心商圈中租金最高的商业中心之一。这里不仅是北京国贸白领们心中的“深夜食堂”，也是北京唯一营业至凌晨两点的商业项目。凭借海底捞首家科技智慧门店和北京首条“酒巷”等头部餐饮品牌的创新店铺成功出圈，吸引众多知名品牌进驻，形成了独特的“首店经济”、“夜间经济”持续引爆商业流量",
     "annual_sales_unit": "-",
-    "area_size_sqm": 3,
+    "area_size_sqm": 3.0,
     "open_date": "2009-12-01",
     "operator": "中骏商管智慧服务控股有限公司",
     "brand": "中骏",
@@ -39,7 +39,7 @@
   "population": {
     "residential": {
       "500m": 1.9,
-      "1_5km": 16,
+      "1_5km": 16.0,
       "3km": 72.4
     },
     "office": {
@@ -54,26 +54,26 @@
     }
   },
   "business": {
-    "competitors": 12,
-    "food": 443,
-    "shopping": 262,
-    "leisure": 49,
-    "education": 86,
-    "hotel": 37,
-    "services": 338,
-    "fitness": 60,
-    "auto": 28,
-    "total_stores": 67,
-    "old_store_3yr_pct": 61
+    "competitors": 12.0,
+    "food": 443.0,
+    "shopping": 262.0,
+    "leisure": 49.0,
+    "education": 86.0,
+    "hotel": 37.0,
+    "services": 338.0,
+    "fitness": 60.0,
+    "auto": 28.0,
+    "total_stores": 67.0,
+    "old_store_3yr_pct": 61.0
   },
   "nearby_poi": {
-    "business": 20,
-    "community": 484,
-    "office": 185,
-    "school": 34,
-    "hospital": 175,
-    "transport": 14,
-    "scenic": 315
+    "business": 20.0,
+    "community": 484.0,
+    "office": 185.0,
+    "school": 34.0,
+    "hospital": 175.0,
+    "transport": 14.0,
+    "scenic": 315.0
   },
   "demographics": {
     "male_pct": 54.7,
@@ -84,7 +84,7 @@
       "高中": 10.8,
       "大专": 6.7,
       "本科": 47.5,
-      "硕士": 7,
+      "硕士": 7.0,
       "博士": 1.6
     },
     "has_children_pct": 54.5,
@@ -428,52 +428,52 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 26,
+      "count": 26.0,
       "within_1yr_pct": 26.9,
       "1_3yr_pct": 26.9,
       "over_3yr_pct": 46.2
     },
     {
       "type": "购物",
-      "count": 5,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 20,
-      "over_3yr_pct": 80
+      "count": 5.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 20.0,
+      "over_3yr_pct": 80.0
     },
     {
       "type": "休闲娱乐",
-      "count": 6,
-      "within_1yr_pct": 0,
+      "count": 6.0,
+      "within_1yr_pct": 0.0,
       "1_3yr_pct": 16.7,
       "over_3yr_pct": 83.3
     },
     {
       "type": "酒店住宿",
-      "count": 14,
+      "count": 14.0,
       "within_1yr_pct": 21.4,
       "1_3yr_pct": 7.1,
       "over_3yr_pct": 71.4
     },
     {
       "type": "生活服务",
-      "count": 12,
+      "count": 12.0,
       "within_1yr_pct": 8.3,
       "1_3yr_pct": 33.3,
       "over_3yr_pct": 58.3
     },
     {
       "type": "运动健身",
-      "count": 2,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 100
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
     },
     {
       "type": "车辆服务",
-      "count": 2,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 50,
-      "over_3yr_pct": 50
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 50.0
     }
   ],
   "nearby_communities": [

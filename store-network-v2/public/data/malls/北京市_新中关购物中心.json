@@ -8,7 +8,7 @@
     "score": 95.5,
     "score_rank": "市内前30%",
     "population_score": 88.6,
-    "area_score": 100,
+    "area_score": 100.0,
     "consumption_score": 87.6,
     "industry_score": 95.5,
     "annual_sales": "北京新中关购物中心位于海淀区中关村大街19号，是一个集购物中心、写字楼、酒店式公寓为一体的综合体，总建筑面积11.7万平方米。购物中心建筑面积4.5万平方米，分为地上4层，地下2层，于2006年10月正式营业，是集吃、购、娱、休闲于一身的综合购物中心",
@@ -50,30 +50,30 @@
     "permanent": {
       "500m": 3.4,
       "1_5km": 22.3,
-      "3km": 67
+      "3km": 67.0
     }
   },
   "business": {
-    "competitors": 12,
-    "food": 497,
-    "shopping": 387,
-    "leisure": 37,
-    "education": 131,
-    "hotel": 37,
-    "services": 263,
-    "fitness": 26,
-    "auto": 29,
-    "total_stores": 277,
-    "old_store_3yr_pct": 54
+    "competitors": 12.0,
+    "food": 497.0,
+    "shopping": 387.0,
+    "leisure": 37.0,
+    "education": 131.0,
+    "hotel": 37.0,
+    "services": 263.0,
+    "fitness": 26.0,
+    "auto": 29.0,
+    "total_stores": 277.0,
+    "old_store_3yr_pct": 54.0
   },
   "nearby_poi": {
-    "business": 5,
-    "community": 310,
-    "office": 127,
-    "school": 54,
-    "hospital": 90,
-    "transport": 9,
-    "scenic": 291
+    "business": 5.0,
+    "community": 310.0,
+    "office": 127.0,
+    "school": 54.0,
+    "hospital": 90.0,
+    "transport": 9.0,
+    "scenic": 291.0
   },
   "demographics": {
     "male_pct": 47.5,
@@ -87,8 +87,8 @@
       "硕士": 10.3,
       "博士": 3.2
     },
-    "has_children_pct": 51,
-    "no_children_pct": 49
+    "has_children_pct": 51.0,
+    "no_children_pct": 49.0
   },
   "scraped_at": "2026-07-31T11:45:48.219Z",
   "nearby_restaurants": [
@@ -388,57 +388,57 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 102,
+      "count": 102.0,
       "within_1yr_pct": 21.6,
       "1_3yr_pct": 23.5,
       "over_3yr_pct": 54.9
     },
     {
       "type": "购物",
-      "count": 81,
+      "count": 81.0,
       "within_1yr_pct": 29.6,
       "1_3yr_pct": 19.8,
       "over_3yr_pct": 50.6
     },
     {
       "type": "休闲娱乐",
-      "count": 7,
+      "count": 7.0,
       "within_1yr_pct": 42.9,
-      "1_3yr_pct": 0,
+      "1_3yr_pct": 0.0,
       "over_3yr_pct": 57.1
     },
     {
       "type": "教育培训",
-      "count": 29,
+      "count": 29.0,
       "within_1yr_pct": 13.8,
       "1_3yr_pct": 34.5,
       "over_3yr_pct": 51.7
     },
     {
       "type": "酒店住宿",
-      "count": 9,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 100
+      "count": 9.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
     },
     {
       "type": "生活服务",
-      "count": 45,
+      "count": 45.0,
       "within_1yr_pct": 33.3,
       "1_3yr_pct": 17.8,
       "over_3yr_pct": 48.9
     },
     {
       "type": "运动健身",
-      "count": 1,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 100,
-      "over_3yr_pct": 0
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
     },
     {
       "type": "车辆服务",
-      "count": 3,
-      "within_1yr_pct": 0,
+      "count": 3.0,
+      "within_1yr_pct": 0.0,
       "1_3yr_pct": 33.3,
       "over_3yr_pct": 66.7
     }

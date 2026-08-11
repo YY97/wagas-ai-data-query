@@ -43,7 +43,7 @@
       "3km": 43.5
     },
     "office": {
-      "500m": 6600,
+      "500m": 6600.0,
       "1_5km": 4.5,
       "3km": 21.4
     },
@@ -54,37 +54,37 @@
     }
   },
   "business": {
-    "competitors": 1,
-    "food": 113,
-    "shopping": 59,
-    "leisure": 12,
-    "education": 72,
-    "hotel": 27,
-    "services": 88,
-    "fitness": 8,
-    "auto": 12,
+    "competitors": 1.0,
+    "food": 113.0,
+    "shopping": 59.0,
+    "leisure": 12.0,
+    "education": 72.0,
+    "hotel": 27.0,
+    "services": 88.0,
+    "fitness": 8.0,
+    "auto": 12.0,
     "total_stores": null,
     "old_store_3yr_pct": null
   },
   "nearby_poi": {
-    "business": 2,
-    "community": 189,
-    "office": 18,
-    "school": 20,
-    "hospital": 25,
-    "transport": 12,
-    "scenic": 71
+    "business": 2.0,
+    "community": 189.0,
+    "office": 18.0,
+    "school": 20.0,
+    "hospital": 25.0,
+    "transport": 12.0,
+    "scenic": 71.0
   },
   "demographics": {
-    "male_pct": 47,
+    "male_pct": 47.0,
     "female_pct": null,
     "education": {
       "小学": 8.3,
       "初中": 18.7,
       "高中": 15.6,
-      "大专": 7,
+      "大专": 7.0,
       "本科": 45.3,
-      "硕士": 4,
+      "硕士": 4.0,
       "博士": 1.1
     },
     "has_children_pct": null,

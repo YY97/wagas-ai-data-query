@@ -43,37 +43,37 @@
       "3km": 58.9
     },
     "office": {
-      "500m": 4400,
+      "500m": 4400.0,
       "1_5km": 8.6,
       "3km": 32.1
     },
     "permanent": {
       "500m": 1.3,
       "1_5km": 12.1,
-      "3km": 59
+      "3km": 59.0
     }
   },
   "business": {
     "competitors": null,
-    "food": 35,
-    "shopping": 77,
-    "leisure": 8,
-    "education": 3,
-    "hotel": 9,
-    "services": 32,
-    "fitness": 5,
-    "auto": 12,
-    "total_stores": 30,
-    "old_store_3yr_pct": 77
+    "food": 35.0,
+    "shopping": 77.0,
+    "leisure": 8.0,
+    "education": 3.0,
+    "hotel": 9.0,
+    "services": 32.0,
+    "fitness": 5.0,
+    "auto": 12.0,
+    "total_stores": 30.0,
+    "old_store_3yr_pct": 77.0
   },
   "nearby_poi": {
-    "business": 4,
-    "community": 288,
-    "office": 36,
-    "school": 24,
-    "hospital": 37,
-    "transport": 5,
-    "scenic": 134
+    "business": 4.0,
+    "community": 288.0,
+    "office": 36.0,
+    "school": 24.0,
+    "hospital": 37.0,
+    "transport": 5.0,
+    "scenic": 134.0
   },
   "demographics": {
     "male_pct": 49.4,
@@ -81,7 +81,7 @@
     "education": {
       "小学": 9.3,
       "初中": 16.8,
-      "高中": 11,
+      "高中": 11.0,
       "大专": 7.5,
       "本科": 48.5,
       "硕士": 5.6,
@@ -330,52 +330,52 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 5,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 20,
-      "over_3yr_pct": 80
+      "count": 5.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 20.0,
+      "over_3yr_pct": 80.0
     },
     {
       "type": "购物",
-      "count": 11,
+      "count": 11.0,
       "within_1yr_pct": 9.1,
-      "1_3yr_pct": 0,
+      "1_3yr_pct": 0.0,
       "over_3yr_pct": 90.9
     },
     {
       "type": "休闲娱乐",
-      "count": 3,
+      "count": 3.0,
       "within_1yr_pct": 33.3,
-      "1_3yr_pct": 0,
+      "1_3yr_pct": 0.0,
       "over_3yr_pct": 66.7
     },
     {
       "type": "教育培训",
-      "count": 1,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 100
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
     },
     {
       "type": "酒店住宿",
-      "count": 3,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 100
+      "count": 3.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
     },
     {
       "type": "生活服务",
-      "count": 5,
-      "within_1yr_pct": 20,
-      "1_3yr_pct": 20,
-      "over_3yr_pct": 60
+      "count": 5.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 20.0,
+      "over_3yr_pct": 60.0
     },
     {
       "type": "车辆服务",
-      "count": 2,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 100,
-      "over_3yr_pct": 0
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
     }
   ],
   "nearby_communities": [
@@ -2396,7 +2396,7 @@
       "raw": "大上海国际花园 户数:3355 居住人数:13052 建筑年份:1997"
     }
   ],
-  "community_count": 288,
   "avg_housing_price": 61100.74,
-  "total_households": 192393
+  "total_households": 192393,
+  "community_count": 288
 }

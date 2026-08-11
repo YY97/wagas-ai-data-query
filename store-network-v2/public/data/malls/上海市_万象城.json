@@ -13,7 +13,7 @@
     "industry_score": 86.4,
     "annual_sales": "马利来广场位于上海市松江区广富林路光星路交口，是上海市唯一的国际生态商务区核心位置距地铁9号线松江大学城站步行10分钟，9号线可直达徐家汇、上海世博园、陆家嘴金融区等多个商业中心，并与轨道交通1、2、3、4、6、11号线接驳周边有G50、G60、沪杭高速、嘉金高速构成立体化的交通网络商铺主力面积为60-130平方米，户型方正，通燃气，可做餐饮，不限业态提供自营、部分带租约出售的运营模式均价约为5万元/平方米，总价区间为342-600万物业费为35元/平方米，首付约为6成左右交房时间为款清后一个月",
     "annual_sales_unit": "-",
-    "area_size_sqm": 5,
+    "area_size_sqm": 5.0,
     "open_date": "2018-05-01",
     "operator": "上海融慧置业有限公司",
     "brand": "",
@@ -21,18 +21,18 @@
     "floors": "L1-L3"
   },
   "traffic": {
-    "annual_daily": 1151,
+    "annual_daily": 1151.0,
     "annual_daily_unit": "人次",
     "annual_daily_rank": "市内第501",
     "jun_total": 7.2,
     "jun_total_rank": "市内商场第521名",
-    "jun_daily_avg": 2384,
+    "jun_daily_avg": 2384.0,
     "jun_daily_unit": "人次",
     "jun_daily_rank": "市内商场第521名",
-    "weekday_avg": 2204,
+    "weekday_avg": 2204.0,
     "weekday_unit": "人次",
     "weekday_rank": "市内商场第520名",
-    "holiday_avg": 2879,
+    "holiday_avg": 2879.0,
     "holiday_unit": "人次",
     "holiday_rank": "市内商场第505名"
   },
@@ -49,31 +49,31 @@
     },
     "permanent": {
       "500m": 2.2,
-      "1_5km": 11,
+      "1_5km": 11.0,
       "3km": 24.4
     }
   },
   "business": {
-    "competitors": 7,
-    "food": 282,
-    "shopping": 273,
-    "leisure": 64,
-    "education": 65,
-    "hotel": 32,
-    "services": 354,
-    "fitness": 24,
-    "auto": 41,
-    "total_stores": 62,
-    "old_store_3yr_pct": 39
+    "competitors": 7.0,
+    "food": 282.0,
+    "shopping": 273.0,
+    "leisure": 64.0,
+    "education": 65.0,
+    "hotel": 32.0,
+    "services": 354.0,
+    "fitness": 24.0,
+    "auto": 41.0,
+    "total_stores": 62.0,
+    "old_store_3yr_pct": 39.0
   },
   "nearby_poi": {
-    "business": 4,
-    "community": 91,
-    "office": 20,
-    "school": 13,
-    "hospital": 16,
-    "transport": 7,
-    "scenic": 38
+    "business": 4.0,
+    "community": 91.0,
+    "office": 20.0,
+    "school": 13.0,
+    "hospital": 16.0,
+    "transport": 7.0,
+    "scenic": 38.0
   },
   "demographics": {
     "male_pct": 47.3,
@@ -84,7 +84,7 @@
       "高中": 16.1,
       "大专": 6.9,
       "本科": 45.2,
-      "硕士": 5,
+      "硕士": 5.0,
       "博士": 1.4
     },
     "has_children_pct": 60.4,
@@ -129,51 +129,51 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 27,
+      "count": 27.0,
       "within_1yr_pct": 18.5,
       "1_3yr_pct": 44.4,
-      "over_3yr_pct": 37
+      "over_3yr_pct": 37.0
     },
     {
       "type": "购物",
-      "count": 10,
-      "within_1yr_pct": 30,
-      "1_3yr_pct": 50,
-      "over_3yr_pct": 20
+      "count": 10.0,
+      "within_1yr_pct": 30.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 20.0
     },
     {
       "type": "休闲娱乐",
-      "count": 5,
-      "within_1yr_pct": 20,
-      "1_3yr_pct": 20,
-      "over_3yr_pct": 60
+      "count": 5.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 20.0,
+      "over_3yr_pct": 60.0
     },
     {
       "type": "教育培训",
-      "count": 7,
+      "count": 7.0,
       "within_1yr_pct": 14.3,
       "1_3yr_pct": 42.9,
       "over_3yr_pct": 42.9
     },
     {
       "type": "生活服务",
-      "count": 7,
+      "count": 7.0,
       "within_1yr_pct": 42.9,
       "1_3yr_pct": 28.6,
       "over_3yr_pct": 28.6
     },
     {
       "type": "运动健身",
-      "count": 3,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 100
+      "count": 3.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
     },
     {
       "type": "车辆服务",
-      "count": 3,
+      "count": 3.0,
       "within_1yr_pct": 66.7,
-      "1_3yr_pct": 0,
+      "1_3yr_pct": 0.0,
       "over_3yr_pct": 33.3
     }
   ],
@@ -1579,7 +1579,7 @@
       "raw": "黄金花园 户数:1288 居住人数:1610 建筑年份:1997"
     }
   ],
-  "community_count": 200,
   "avg_housing_price": 39693.94,
-  "total_households": 293685
+  "total_households": 293685,
+  "community_count": 200
 }

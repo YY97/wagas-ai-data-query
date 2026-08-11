@@ -7,7 +7,7 @@
   "overview": {
     "score": 90.2,
     "score_rank": "市内前30%",
-    "population_score": 77,
+    "population_score": 77.0,
     "area_score": 83.3,
     "consumption_score": 89.4,
     "industry_score": 90.3,
@@ -32,7 +32,7 @@
     "weekday_avg": 2.2,
     "weekday_unit": "万人次",
     "weekday_rank": "市内商场第165名",
-    "holiday_avg": 1,
+    "holiday_avg": 1.0,
     "holiday_unit": "万人次",
     "holiday_rank": "市内商场第321名"
   },
@@ -54,32 +54,32 @@
     }
   },
   "business": {
-    "competitors": 18,
-    "food": 273,
-    "shopping": 150,
-    "leisure": 10,
-    "education": 5,
-    "hotel": 31,
-    "services": 119,
-    "fitness": 18,
-    "auto": 27,
-    "total_stores": 86,
-    "old_store_3yr_pct": 65
+    "competitors": 18.0,
+    "food": 273.0,
+    "shopping": 150.0,
+    "leisure": 10.0,
+    "education": 5.0,
+    "hotel": 31.0,
+    "services": 119.0,
+    "fitness": 18.0,
+    "auto": 27.0,
+    "total_stores": 86.0,
+    "old_store_3yr_pct": 65.0
   },
   "nearby_poi": {
-    "business": 18,
-    "community": 596,
-    "office": 147,
-    "school": 24,
-    "hospital": 155,
-    "transport": 18,
-    "scenic": 692
+    "business": 18.0,
+    "community": 596.0,
+    "office": 147.0,
+    "school": 24.0,
+    "hospital": 155.0,
+    "transport": 18.0,
+    "scenic": 692.0
   },
   "demographics": {
     "male_pct": 47.6,
     "female_pct": null,
     "education": {
-      "小学": 10,
+      "小学": 10.0,
       "初中": 18.3,
       "高中": 11.3,
       "大专": 7.9,
@@ -428,52 +428,52 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 43,
+      "count": 43.0,
       "within_1yr_pct": 11.6,
       "1_3yr_pct": 16.3,
       "over_3yr_pct": 72.1
     },
     {
       "type": "购物",
-      "count": 14,
+      "count": 14.0,
       "within_1yr_pct": 21.4,
       "1_3yr_pct": 7.1,
       "over_3yr_pct": 71.4
     },
     {
       "type": "休闲娱乐",
-      "count": 2,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 50,
-      "over_3yr_pct": 50
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 50.0
     },
     {
       "type": "酒店住宿",
-      "count": 1,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 100
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
     },
     {
       "type": "生活服务",
-      "count": 17,
+      "count": 17.0,
       "within_1yr_pct": 11.8,
       "1_3yr_pct": 29.4,
       "over_3yr_pct": 58.8
     },
     {
       "type": "运动健身",
-      "count": 5,
-      "within_1yr_pct": 20,
-      "1_3yr_pct": 40,
-      "over_3yr_pct": 40
+      "count": 5.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 40.0,
+      "over_3yr_pct": 40.0
     },
     {
       "type": "车辆服务",
-      "count": 4,
-      "within_1yr_pct": 25,
-      "1_3yr_pct": 50,
-      "over_3yr_pct": 25
+      "count": 4.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 25.0
     }
   ],
   "nearby_communities": [
@@ -1878,7 +1878,7 @@
       "raw": "海翔小区-北区 户数:50 居住人数:280+ 建筑年份:1988"
     }
   ],
-  "community_count": 200,
   "avg_housing_price": 89363.11,
-  "total_households": 211532
+  "total_households": 211532,
+  "community_count": 200
 }

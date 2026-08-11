@@ -9,11 +9,11 @@
     "score_rank": "市内前30%",
     "population_score": 61.8,
     "area_score": 73.2,
-    "consumption_score": 60,
+    "consumption_score": 60.0,
     "industry_score": 94.6,
     "annual_sales": "61.7",
     "annual_sales_unit": "亿元",
-    "area_size_sqm": 3,
+    "area_size_sqm": 3.0,
     "open_date": "2005-01-01",
     "operator": "上海百联集团股份有限公司",
     "brand": "百联",
@@ -38,50 +38,50 @@
   },
   "population": {
     "residential": {
-      "500m": 1200,
+      "500m": 1200.0,
       "1_5km": 2.9,
       "3km": 15.2
     },
     "office": {
-      "500m": 5500,
+      "500m": 5500.0,
       "1_5km": 2.6,
       "3km": 6.4
     },
     "permanent": {
-      "500m": 5300,
+      "500m": 5300.0,
       "1_5km": 3.3,
       "3km": 13.7
     }
   },
   "business": {
-    "competitors": 3,
-    "food": 47,
-    "shopping": 306,
-    "leisure": 3,
-    "education": 2,
+    "competitors": 3.0,
+    "food": 47.0,
+    "shopping": 306.0,
+    "leisure": 3.0,
+    "education": 2.0,
     "hotel": null,
-    "services": 12,
-    "fitness": 3,
-    "auto": 19,
-    "total_stores": 351,
-    "old_store_3yr_pct": 57
+    "services": 12.0,
+    "fitness": 3.0,
+    "auto": 19.0,
+    "total_stores": 351.0,
+    "old_store_3yr_pct": 57.0
   },
   "nearby_poi": {
-    "business": 3,
-    "community": 96,
-    "office": 6,
-    "school": 1,
-    "hospital": 10,
-    "transport": 7,
-    "scenic": 20
+    "business": 3.0,
+    "community": 96.0,
+    "office": 6.0,
+    "school": 1.0,
+    "hospital": 10.0,
+    "transport": 7.0,
+    "scenic": 20.0
   },
   "demographics": {
     "male_pct": 45.5,
     "female_pct": null,
     "education": {
       "小学": 10.3,
-      "初中": 19,
-      "高中": 12,
+      "初中": 19.0,
+      "高中": 12.0,
       "大专": 9.3,
       "本科": 45.4,
       "硕士": 3.1,
@@ -372,45 +372,45 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 42,
+      "count": 42.0,
       "within_1yr_pct": 9.5,
       "1_3yr_pct": 33.3,
       "over_3yr_pct": 57.1
     },
     {
       "type": "购物",
-      "count": 293,
+      "count": 293.0,
       "within_1yr_pct": 8.5,
       "1_3yr_pct": 31.7,
       "over_3yr_pct": 59.7
     },
     {
       "type": "休闲娱乐",
-      "count": 3,
+      "count": 3.0,
       "within_1yr_pct": 66.7,
-      "1_3yr_pct": 0,
+      "1_3yr_pct": 0.0,
       "over_3yr_pct": 33.3
     },
     {
       "type": "生活服务",
-      "count": 6,
-      "within_1yr_pct": 50,
+      "count": 6.0,
+      "within_1yr_pct": 50.0,
       "1_3yr_pct": 33.3,
       "over_3yr_pct": 16.7
     },
     {
       "type": "运动健身",
-      "count": 2,
-      "within_1yr_pct": 100,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 0
+      "count": 2.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
     },
     {
       "type": "车辆服务",
-      "count": 5,
-      "within_1yr_pct": 100,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 0
+      "count": 5.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
     }
   ],
   "nearby_communities": [

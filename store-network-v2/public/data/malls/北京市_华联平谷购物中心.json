@@ -13,7 +13,7 @@
     "industry_score": 91.9,
     "annual_sales": "北京远洋乐堤港位于京杭大运河的北起点，项目总体量37万平方米，由三个主体板块搭建，包括两栋甲级写字楼及配套10万平方米高端购物中心，其中商业综合体将承载260余家商铺入驻，首店品牌超过三成 。项目设计为风帆造型，融入运河情结，象征着“扬帆起航，一帆风顺” 。购物中心正门前“眼睛”状的设计被称为“运河之眼” 。远洋乐堤港集影院、健身中心、生鲜超市、潮流剧场等多种业态于一体，引进诸多有特色项目",
     "annual_sales_unit": "-",
-    "area_size_sqm": 10,
+    "area_size_sqm": 10.0,
     "open_date": "2023-06-30",
     "operator": "远洋集团控股有限公司",
     "brand": "远洋集团SINOOCEAN",
@@ -38,42 +38,42 @@
   },
   "population": {
     "residential": {
-      "500m": 5200,
+      "500m": 5200.0,
       "1_5km": 7.6,
       "3km": 40.7
     },
     "office": {
-      "500m": 9700,
+      "500m": 9700.0,
       "1_5km": 4.7,
       "3km": 19.6
     },
     "permanent": {
-      "500m": 7600,
+      "500m": 7600.0,
       "1_5km": 7.2,
       "3km": 39.4
     }
   },
   "business": {
-    "competitors": 2,
-    "food": 120,
-    "shopping": 83,
-    "leisure": 17,
-    "education": 8,
-    "hotel": 14,
-    "services": 84,
-    "fitness": 7,
-    "auto": 15,
-    "total_stores": 123,
-    "old_store_3yr_pct": 49
+    "competitors": 2.0,
+    "food": 120.0,
+    "shopping": 83.0,
+    "leisure": 17.0,
+    "education": 8.0,
+    "hotel": 14.0,
+    "services": 84.0,
+    "fitness": 7.0,
+    "auto": 15.0,
+    "total_stores": 123.0,
+    "old_store_3yr_pct": 49.0
   },
   "nearby_poi": {
     "business": null,
-    "community": 259,
-    "office": 17,
-    "school": 20,
-    "hospital": 38,
-    "transport": 4,
-    "scenic": 103
+    "community": 259.0,
+    "office": 17.0,
+    "school": 20.0,
+    "hospital": 38.0,
+    "transport": 4.0,
+    "scenic": 103.0
   },
   "demographics": {
     "male_pct": 48.3,
@@ -347,49 +347,49 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 52,
+      "count": 52.0,
       "within_1yr_pct": 19.2,
       "1_3yr_pct": 19.2,
       "over_3yr_pct": 61.5
     },
     {
       "type": "购物",
-      "count": 34,
+      "count": 34.0,
       "within_1yr_pct": 23.5,
       "1_3yr_pct": 35.3,
       "over_3yr_pct": 41.2
     },
     {
       "type": "休闲娱乐",
-      "count": 11,
+      "count": 11.0,
       "within_1yr_pct": 36.4,
       "1_3yr_pct": 27.3,
       "over_3yr_pct": 36.4
     },
     {
       "type": "教育培训",
-      "count": 2,
-      "within_1yr_pct": 100,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 0
+      "count": 2.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
     },
     {
       "type": "生活服务",
-      "count": 12,
-      "within_1yr_pct": 0,
+      "count": 12.0,
+      "within_1yr_pct": 0.0,
       "1_3yr_pct": 58.3,
       "over_3yr_pct": 41.7
     },
     {
       "type": "运动健身",
-      "count": 3,
+      "count": 3.0,
       "within_1yr_pct": 33.3,
       "1_3yr_pct": 33.3,
       "over_3yr_pct": 33.3
     },
     {
       "type": "车辆服务",
-      "count": 9,
+      "count": 9.0,
       "within_1yr_pct": 11.1,
       "1_3yr_pct": 44.4,
       "over_3yr_pct": 44.4

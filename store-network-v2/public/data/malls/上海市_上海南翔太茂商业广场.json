@@ -32,7 +32,7 @@
     "weekday_avg": 1.8,
     "weekday_unit": "万人次",
     "weekday_rank": "市内商场第195名",
-    "holiday_avg": 3,
+    "holiday_avg": 3.0,
     "holiday_unit": "万人次",
     "holiday_rank": "市内商场第165名"
   },
@@ -43,43 +43,43 @@
       "3km": 42.1
     },
     "office": {
-      "500m": 6600,
+      "500m": 6600.0,
       "1_5km": 6.1,
       "3km": 21.7
     },
     "permanent": {
       "500m": 1.4,
       "1_5km": 11.6,
-      "3km": 40
+      "3km": 40.0
     }
   },
   "business": {
-    "competitors": 6,
-    "food": 123,
-    "shopping": 68,
-    "leisure": 20,
-    "education": 48,
-    "hotel": 24,
-    "services": 120,
-    "fitness": 26,
-    "auto": 12,
-    "total_stores": 92,
-    "old_store_3yr_pct": 46
+    "competitors": 6.0,
+    "food": 123.0,
+    "shopping": 68.0,
+    "leisure": 20.0,
+    "education": 48.0,
+    "hotel": 24.0,
+    "services": 120.0,
+    "fitness": 26.0,
+    "auto": 12.0,
+    "total_stores": 92.0,
+    "old_store_3yr_pct": 46.0
   },
   "nearby_poi": {
-    "business": 1,
-    "community": 179,
-    "office": 26,
-    "school": 19,
-    "hospital": 20,
-    "transport": 10,
-    "scenic": 166
+    "business": 1.0,
+    "community": 179.0,
+    "office": 26.0,
+    "school": 19.0,
+    "hospital": 20.0,
+    "transport": 10.0,
+    "scenic": 166.0
   },
   "demographics": {
     "male_pct": 52.2,
     "female_pct": null,
     "education": {
-      "小学": 10,
+      "小学": 10.0,
       "初中": 19.1,
       "高中": 11.7,
       "大专": 9.3,
@@ -356,49 +356,49 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 39,
+      "count": 39.0,
       "within_1yr_pct": 23.1,
       "1_3yr_pct": 28.2,
       "over_3yr_pct": 48.7
     },
     {
       "type": "购物",
-      "count": 13,
+      "count": 13.0,
       "within_1yr_pct": 15.4,
       "1_3yr_pct": 38.5,
       "over_3yr_pct": 46.2
     },
     {
       "type": "休闲娱乐",
-      "count": 3,
+      "count": 3.0,
       "within_1yr_pct": 66.7,
       "1_3yr_pct": 33.3,
-      "over_3yr_pct": 0
+      "over_3yr_pct": 0.0
     },
     {
       "type": "教育培训",
-      "count": 15,
-      "within_1yr_pct": 20,
-      "1_3yr_pct": 40,
-      "over_3yr_pct": 40
+      "count": 15.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 40.0,
+      "over_3yr_pct": 40.0
     },
     {
       "type": "生活服务",
-      "count": 8,
+      "count": 8.0,
       "within_1yr_pct": 12.5,
-      "1_3yr_pct": 25,
+      "1_3yr_pct": 25.0,
       "over_3yr_pct": 62.5
     },
     {
       "type": "运动健身",
-      "count": 8,
-      "within_1yr_pct": 0,
+      "count": 8.0,
+      "within_1yr_pct": 0.0,
       "1_3yr_pct": 37.5,
       "over_3yr_pct": 62.5
     },
     {
       "type": "车辆服务",
-      "count": 6,
+      "count": 6.0,
       "within_1yr_pct": 16.7,
       "1_3yr_pct": 66.7,
       "over_3yr_pct": 16.7
@@ -1659,7 +1659,7 @@
       "raw": "翔和雅苑-2区 户数:1692 居住人数:4593 建筑年份:2013"
     }
   ],
-  "community_count": 179,
   "avg_housing_price": 43138.89,
-  "total_households": 116767
+  "total_households": 116767,
+  "community_count": 179
 }

@@ -13,7 +13,7 @@
     "industry_score": 95.4,
     "annual_sales": "嘉定宝龙广场位于上海市嘉定新城（马陆镇），总建筑面积20万平米，由2幢商业裙房及3幢高层写字楼组成，是集购物、餐饮、休闲、娱乐和商务于一体的现代化商业办公城市综合体建筑。嘉定宝龙广场的美食有本帮菜、日本料理、西北菜、北京菜、火锅、烧烤、烤肉、甜品、川菜、意大利菜、牛排、湘菜，购物有服饰、美妆等品牌，该商场亲子教育项目较多。",
     "annual_sales_unit": "-",
-    "area_size_sqm": 6,
+    "area_size_sqm": 6.0,
     "open_date": "2016-10-01",
     "operator": "上海宝龙地产商业管理有限公司",
     "brand": "宝龙地产",
@@ -54,26 +54,26 @@
     }
   },
   "business": {
-    "competitors": 4,
-    "food": 228,
-    "shopping": 111,
-    "leisure": 31,
-    "education": 27,
-    "hotel": 15,
-    "services": 173,
-    "fitness": 16,
-    "auto": 23,
-    "total_stores": 302,
-    "old_store_3yr_pct": 46
+    "competitors": 4.0,
+    "food": 228.0,
+    "shopping": 111.0,
+    "leisure": 31.0,
+    "education": 27.0,
+    "hotel": 15.0,
+    "services": 173.0,
+    "fitness": 16.0,
+    "auto": 23.0,
+    "total_stores": 302.0,
+    "old_store_3yr_pct": 46.0
   },
   "nearby_poi": {
-    "business": 3,
-    "community": 151,
-    "office": 28,
-    "school": 15,
-    "hospital": 28,
-    "transport": 8,
-    "scenic": 34
+    "business": 3.0,
+    "community": 151.0,
+    "office": 28.0,
+    "school": 15.0,
+    "hospital": 28.0,
+    "transport": 8.0,
+    "scenic": 34.0
   },
   "demographics": {
     "male_pct": 50.6,
@@ -85,7 +85,7 @@
       "大专": 9.4,
       "本科": 44.7,
       "硕士": 4.6,
-      "博士": 1
+      "博士": 1.0
     },
     "has_children_pct": 60.7,
     "no_children_pct": 39.3
@@ -372,58 +372,58 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 140,
+      "count": 140.0,
       "within_1yr_pct": 19.3,
       "1_3yr_pct": 38.6,
       "over_3yr_pct": 42.1
     },
     {
       "type": "购物",
-      "count": 61,
+      "count": 61.0,
       "within_1yr_pct": 31.1,
       "1_3yr_pct": 14.8,
       "over_3yr_pct": 54.1
     },
     {
       "type": "休闲娱乐",
-      "count": 15,
+      "count": 15.0,
       "within_1yr_pct": 13.3,
       "1_3yr_pct": 53.3,
       "over_3yr_pct": 33.3
     },
     {
       "type": "教育培训",
-      "count": 16,
-      "within_1yr_pct": 25,
+      "count": 16.0,
+      "within_1yr_pct": 25.0,
       "1_3yr_pct": 31.3,
       "over_3yr_pct": 43.8
     },
     {
       "type": "酒店住宿",
-      "count": 2,
-      "within_1yr_pct": 100,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 0
+      "count": 2.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
     },
     {
       "type": "生活服务",
-      "count": 51,
+      "count": 51.0,
       "within_1yr_pct": 21.6,
       "1_3yr_pct": 31.4,
       "over_3yr_pct": 47.1
     },
     {
       "type": "运动健身",
-      "count": 9,
-      "within_1yr_pct": 0,
+      "count": 9.0,
+      "within_1yr_pct": 0.0,
       "1_3yr_pct": 11.1,
       "over_3yr_pct": 88.9
     },
     {
       "type": "车辆服务",
-      "count": 8,
+      "count": 8.0,
       "within_1yr_pct": 37.5,
-      "1_3yr_pct": 25,
+      "1_3yr_pct": 25.0,
       "over_3yr_pct": 37.5
     }
   ],

@@ -13,7 +13,7 @@
     "industry_score": 81.4,
     "annual_sales": "环龙商厦是一家大型综合性现代化百货商场，位于铁路上海站南广场，以中档商品为主，兼顾大众化需求，支持零售和批发业务。商场内部设计独特，布局合理，层次分明，营造出立体而高雅的购物环境",
     "annual_sales_unit": "-",
-    "area_size_sqm": 3,
+    "area_size_sqm": 3.0,
     "open_date": "1992-01-01",
     "operator": "上海招商局广场",
     "brand": "",
@@ -21,18 +21,18 @@
     "floors": "L1-L5"
   },
   "traffic": {
-    "annual_daily": 5233,
+    "annual_daily": 5233.0,
     "annual_daily_unit": "人次",
     "annual_daily_rank": "市内第353",
     "jun_total": 14.2,
     "jun_total_rank": "市内商场第433名",
-    "jun_daily_avg": 4734,
+    "jun_daily_avg": 4734.0,
     "jun_daily_unit": "人次",
     "jun_daily_rank": "市内商场第433名",
-    "weekday_avg": 4489,
+    "weekday_avg": 4489.0,
     "weekday_unit": "人次",
     "weekday_rank": "市内商场第435名",
-    "holiday_avg": 5411,
+    "holiday_avg": 5411.0,
     "holiday_unit": "人次",
     "holiday_rank": "市内商场第427名"
   },
@@ -45,35 +45,35 @@
     "office": {
       "500m": 4.8,
       "1_5km": 22.4,
-      "3km": 97
+      "3km": 97.0
     },
     "permanent": {
-      "500m": 6,
+      "500m": 6.0,
       "1_5km": 33.6,
       "3km": 133.7
     }
   },
   "business": {
-    "competitors": 15,
-    "food": 270,
-    "shopping": 248,
-    "leisure": 23,
-    "education": 22,
-    "hotel": 80,
-    "services": 191,
-    "fitness": 28,
-    "auto": 43,
-    "total_stores": 179,
-    "old_store_3yr_pct": 66
+    "competitors": 15.0,
+    "food": 270.0,
+    "shopping": 248.0,
+    "leisure": 23.0,
+    "education": 22.0,
+    "hotel": 80.0,
+    "services": 191.0,
+    "fitness": 28.0,
+    "auto": 43.0,
+    "total_stores": 179.0,
+    "old_store_3yr_pct": 66.0
   },
   "nearby_poi": {
-    "business": 9,
-    "community": 973,
-    "office": 168,
-    "school": 44,
-    "hospital": 168,
-    "transport": 20,
-    "scenic": 522
+    "business": 9.0,
+    "community": 973.0,
+    "office": 168.0,
+    "school": 44.0,
+    "hospital": 168.0,
+    "transport": 20.0,
+    "scenic": 522.0
   },
   "demographics": {
     "male_pct": 52.1,
@@ -84,7 +84,7 @@
       "高中": 11.8,
       "大专": 7.4,
       "本科": 47.5,
-      "硕士": 4,
+      "硕士": 4.0,
       "博士": 1.5
     },
     "has_children_pct": 67.3,
@@ -420,59 +420,59 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 23,
+      "count": 23.0,
       "within_1yr_pct": 8.7,
       "1_3yr_pct": 43.5,
       "over_3yr_pct": 47.8
     },
     {
       "type": "购物",
-      "count": 108,
+      "count": 108.0,
       "within_1yr_pct": 7.4,
-      "1_3yr_pct": 13,
+      "1_3yr_pct": 13.0,
       "over_3yr_pct": 79.6
     },
     {
       "type": "休闲娱乐",
-      "count": 1,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 100,
-      "over_3yr_pct": 0
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
     },
     {
       "type": "教育培训",
-      "count": 4,
-      "within_1yr_pct": 50,
-      "1_3yr_pct": 50,
-      "over_3yr_pct": 0
+      "count": 4.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 0.0
     },
     {
       "type": "酒店住宿",
-      "count": 5,
-      "within_1yr_pct": 20,
-      "1_3yr_pct": 20,
-      "over_3yr_pct": 60
+      "count": 5.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 20.0,
+      "over_3yr_pct": 60.0
     },
     {
       "type": "生活服务",
-      "count": 32,
+      "count": 32.0,
       "within_1yr_pct": 18.8,
       "1_3yr_pct": 31.3,
-      "over_3yr_pct": 50
+      "over_3yr_pct": 50.0
     },
     {
       "type": "运动健身",
-      "count": 4,
-      "within_1yr_pct": 25,
-      "1_3yr_pct": 50,
-      "over_3yr_pct": 25
+      "count": 4.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 25.0
     },
     {
       "type": "车辆服务",
-      "count": 2,
-      "within_1yr_pct": 50,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 50
+      "count": 2.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 50.0
     }
   ],
   "nearby_communities": [
@@ -1877,7 +1877,7 @@
       "raw": "沁园邨 户数:112 居住人数:780+ 建筑年份:2005"
     }
   ],
-  "community_count": 200,
   "avg_housing_price": 82078.06,
-  "total_households": 364467
+  "total_households": 364467,
+  "community_count": 200
 }

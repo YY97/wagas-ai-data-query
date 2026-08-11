@@ -5,12 +5,12 @@
   "lat": 31.211542,
   "lng": 121.487041,
   "overview": {
-    "score": 92,
+    "score": 92.0,
     "score_rank": "市内前30%",
-    "population_score": 100,
+    "population_score": 100.0,
     "area_score": 87.1,
     "consumption_score": 85.8,
-    "industry_score": 92,
+    "industry_score": 92.0,
     "annual_sales": "上海新邻生活站位于黄浦区西藏南路陆家浜路路口，建筑面积约2万多平方米，为轨道交通8、9号线陆家浜路上盖项目，从规划之初，就充分考察了周围的住宅配套，是一个周边居民步行距离内的生活场所，满足都市社区人群更加高品质的生活需求。目前的业态充分整合潮流风尚、健康美容、甜品乐宠、时尚餐饮、亲子享乐等多元业态，旨在打造一个“Timeout in STATION”的魅力生活港",
     "annual_sales_unit": "-",
     "area_size_sqm": 2.3,
@@ -43,46 +43,46 @@
       "3km": 83.1
     },
     "office": {
-      "500m": 3,
+      "500m": 3.0,
       "1_5km": 20.8,
       "3km": 87.2
     },
     "permanent": {
       "500m": 4.8,
-      "1_5km": 33,
+      "1_5km": 33.0,
       "3km": 96.5
     }
   },
   "business": {
-    "competitors": 4,
-    "food": 198,
-    "shopping": 208,
-    "leisure": 27,
-    "education": 36,
-    "hotel": 84,
-    "services": 189,
-    "fitness": 32,
-    "auto": 4,
-    "total_stores": 78,
-    "old_store_3yr_pct": 59
+    "competitors": 4.0,
+    "food": 198.0,
+    "shopping": 208.0,
+    "leisure": 27.0,
+    "education": 36.0,
+    "hotel": 84.0,
+    "services": 189.0,
+    "fitness": 32.0,
+    "auto": 4.0,
+    "total_stores": 78.0,
+    "old_store_3yr_pct": 59.0
   },
   "nearby_poi": {
-    "business": 11,
-    "community": 833,
-    "office": 117,
-    "school": 91,
-    "hospital": 165,
-    "transport": 16,
-    "scenic": 675
+    "business": 11.0,
+    "community": 833.0,
+    "office": 117.0,
+    "school": 91.0,
+    "hospital": 165.0,
+    "transport": 16.0,
+    "scenic": 675.0
   },
   "demographics": {
     "male_pct": 48.2,
     "female_pct": null,
     "education": {
       "小学": 9.3,
-      "初中": 17,
+      "初中": 17.0,
       "高中": 11.4,
-      "大专": 7,
+      "大专": 7.0,
       "本科": 47.4,
       "硕士": 6.1,
       "博士": 1.8
@@ -428,45 +428,45 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 40,
-      "within_1yr_pct": 20,
+      "count": 40.0,
+      "within_1yr_pct": 20.0,
       "1_3yr_pct": 12.5,
       "over_3yr_pct": 67.5
     },
     {
       "type": "购物",
-      "count": 24,
+      "count": 24.0,
       "within_1yr_pct": 45.8,
       "1_3yr_pct": 8.3,
       "over_3yr_pct": 45.8
     },
     {
       "type": "休闲娱乐",
-      "count": 2,
-      "within_1yr_pct": 50,
-      "1_3yr_pct": 50,
-      "over_3yr_pct": 0
+      "count": 2.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 0.0
     },
     {
       "type": "教育培训",
-      "count": 3,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 100
+      "count": 3.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
     },
     {
       "type": "生活服务",
-      "count": 8,
+      "count": 8.0,
       "within_1yr_pct": 12.5,
-      "1_3yr_pct": 25,
+      "1_3yr_pct": 25.0,
       "over_3yr_pct": 62.5
     },
     {
       "type": "运动健身",
-      "count": 1,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 100,
-      "over_3yr_pct": 0
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
     }
   ],
   "nearby_communities": [
@@ -1871,7 +1871,7 @@
       "raw": "永华里 户数:33 居住人数:小于100 建筑年份:2014"
     }
   ],
-  "community_count": 200,
   "avg_housing_price": 104225.6,
-  "total_households": 238346
+  "total_households": 238346,
+  "community_count": 200
 }

@@ -26,29 +26,29 @@
     "annual_daily_rank": "",
     "jun_total": 12.1,
     "jun_total_rank": "市内商场第463名",
-    "jun_daily_avg": 4029,
+    "jun_daily_avg": 4029.0,
     "jun_daily_unit": "人次",
     "jun_daily_rank": "市内商场第463名",
-    "weekday_avg": 3873,
+    "weekday_avg": 3873.0,
     "weekday_unit": "人次",
     "weekday_rank": "市内商场第462名",
-    "holiday_avg": 4459,
+    "holiday_avg": 4459.0,
     "holiday_unit": "人次",
     "holiday_rank": "市内商场第458名"
   },
   "population": {
     "residential": {
-      "500m": 35,
+      "500m": 35.0,
       "1_5km": null,
       "3km": null
     },
     "office": {
-      "500m": 35,
+      "500m": 35.0,
       "1_5km": null,
       "3km": null
     },
     "permanent": {
-      "500m": 1,
+      "500m": 1.0,
       "1_5km": null,
       "3km": null
     }
@@ -63,8 +63,8 @@
     "services": null,
     "fitness": null,
     "auto": null,
-    "total_stores": 66,
-    "old_store_3yr_pct": 58
+    "total_stores": 66.0,
+    "old_store_3yr_pct": 58.0
   },
   "nearby_poi": {
     "business": null,
@@ -197,52 +197,52 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 35,
+      "count": 35.0,
       "within_1yr_pct": 17.1,
       "1_3yr_pct": 17.1,
       "over_3yr_pct": 65.7
     },
     {
       "type": "购物",
-      "count": 1,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 100
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
     },
     {
       "type": "休闲娱乐",
-      "count": 13,
+      "count": 13.0,
       "within_1yr_pct": 15.4,
       "1_3yr_pct": 30.8,
       "over_3yr_pct": 53.8
     },
     {
       "type": "教育培训",
-      "count": 10,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 50,
-      "over_3yr_pct": 50
+      "count": 10.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 50.0
     },
     {
       "type": "生活服务",
-      "count": 4,
-      "within_1yr_pct": 50,
-      "1_3yr_pct": 25,
-      "over_3yr_pct": 25
+      "count": 4.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 25.0
     },
     {
       "type": "运动健身",
-      "count": 2,
-      "within_1yr_pct": 50,
-      "1_3yr_pct": 50,
-      "over_3yr_pct": 0
+      "count": 2.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 0.0
     },
     {
       "type": "车辆服务",
-      "count": 1,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 100
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
     }
   ],
   "nearby_communities": [
@@ -1017,7 +1017,7 @@
       "raw": "西林花园北区 户数:147 居住人数:830+ 建筑年份:2000"
     }
   ],
-  "community_count": 110,
   "avg_housing_price": 43456.31,
-  "total_households": 93141
+  "total_households": 93141,
+  "community_count": 110
 }

@@ -13,7 +13,7 @@
     "industry_score": 93.9,
     "annual_sales": "2",
     "annual_sales_unit": "亿元",
-    "area_size_sqm": 4,
+    "area_size_sqm": 4.0,
     "open_date": "2018-05-26",
     "operator": "中海地产集团有限责任公司",
     "brand": "中海",
@@ -54,26 +54,26 @@
     }
   },
   "business": {
-    "competitors": 6,
-    "food": 152,
-    "shopping": 75,
-    "leisure": 24,
-    "education": 7,
-    "hotel": 19,
-    "services": 63,
-    "fitness": 19,
-    "auto": 25,
-    "total_stores": 111,
-    "old_store_3yr_pct": 54
+    "competitors": 6.0,
+    "food": 152.0,
+    "shopping": 75.0,
+    "leisure": 24.0,
+    "education": 7.0,
+    "hotel": 19.0,
+    "services": 63.0,
+    "fitness": 19.0,
+    "auto": 25.0,
+    "total_stores": 111.0,
+    "old_store_3yr_pct": 54.0
   },
   "nearby_poi": {
-    "business": 3,
-    "community": 442,
-    "office": 85,
-    "school": 42,
-    "hospital": 107,
-    "transport": 9,
-    "scenic": 371
+    "business": 3.0,
+    "community": 442.0,
+    "office": 85.0,
+    "school": 42.0,
+    "hospital": 107.0,
+    "transport": 9.0,
+    "scenic": 371.0
   },
   "demographics": {
     "male_pct": 50.9,
@@ -81,7 +81,7 @@
     "education": {
       "小学": 8.1,
       "初中": 13.7,
-      "高中": 12,
+      "高中": 12.0,
       "大专": 5.2,
       "本科": 48.1,
       "硕士": 10.1,
@@ -372,45 +372,45 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 70,
+      "count": 70.0,
       "within_1yr_pct": 11.4,
       "1_3yr_pct": 34.3,
       "over_3yr_pct": 54.3
     },
     {
       "type": "购物",
-      "count": 22,
+      "count": 22.0,
       "within_1yr_pct": 22.7,
       "1_3yr_pct": 36.4,
       "over_3yr_pct": 40.9
     },
     {
       "type": "休闲娱乐",
-      "count": 2,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 100
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
     },
     {
       "type": "生活服务",
-      "count": 10,
-      "within_1yr_pct": 20,
-      "1_3yr_pct": 20,
-      "over_3yr_pct": 60
+      "count": 10.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 20.0,
+      "over_3yr_pct": 60.0
     },
     {
       "type": "运动健身",
-      "count": 2,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 100
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
     },
     {
       "type": "车辆服务",
-      "count": 5,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 40,
-      "over_3yr_pct": 60
+      "count": 5.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 40.0,
+      "over_3yr_pct": 60.0
     }
   ],
   "nearby_communities": [

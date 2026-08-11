@@ -13,7 +13,7 @@
     "industry_score": 76.9,
     "annual_sales": "星东天地生活购物广场位于北京市怀柔区开放东路13号院，是怀柔区的一个购物中心，拥有首家巨幕影院、大型仓储超市、大型儿童室内水上乐园等特色设施",
     "annual_sales_unit": "-",
-    "area_size_sqm": 5,
+    "area_size_sqm": 5.0,
     "open_date": "2017-10-01",
     "operator": "北京大星发商贸有限公司",
     "brand": "",
@@ -21,15 +21,15 @@
     "floors": "B1-L2"
   },
   "traffic": {
-    "annual_daily": 8055,
+    "annual_daily": 8055.0,
     "annual_daily_unit": "人次",
     "annual_daily_rank": "市内第238",
     "jun_total": 23.7,
     "jun_total_rank": "市内商场第263名",
-    "jun_daily_avg": 7911,
+    "jun_daily_avg": 7911.0,
     "jun_daily_unit": "人次",
     "jun_daily_rank": "市内商场第263名",
-    "weekday_avg": 6850,
+    "weekday_avg": 6850.0,
     "weekday_unit": "人次",
     "weekday_rank": "市内商场第271名",
     "holiday_avg": 1.1,
@@ -38,42 +38,42 @@
   },
   "population": {
     "residential": {
-      "500m": 1900,
+      "500m": 1900.0,
       "1_5km": 6.2,
       "3km": 19.6
     },
     "office": {
-      "500m": 2200,
+      "500m": 2200.0,
       "1_5km": 2.9,
       "3km": 9.5
     },
     "permanent": {
-      "500m": 2600,
+      "500m": 2600.0,
       "1_5km": 6.4,
       "3km": 20.4
     }
   },
   "business": {
     "competitors": null,
-    "food": 35,
-    "shopping": 29,
-    "leisure": 6,
-    "education": 1,
+    "food": 35.0,
+    "shopping": 29.0,
+    "leisure": 6.0,
+    "education": 1.0,
     "hotel": null,
-    "services": 14,
-    "fitness": 11,
-    "auto": 15,
-    "total_stores": 38,
-    "old_store_3yr_pct": 42
+    "services": 14.0,
+    "fitness": 11.0,
+    "auto": 15.0,
+    "total_stores": 38.0,
+    "old_store_3yr_pct": 42.0
   },
   "nearby_poi": {
     "business": null,
-    "community": 147,
-    "office": 6,
-    "school": 22,
-    "hospital": 43,
-    "transport": 4,
-    "scenic": 28
+    "community": 147.0,
+    "office": 6.0,
+    "school": 22.0,
+    "hospital": 43.0,
+    "transport": 4.0,
+    "scenic": 28.0
   },
   "demographics": {
     "male_pct": 47.4,
@@ -85,10 +85,10 @@
       "大专": 7.3,
       "本科": 44.6,
       "硕士": 2.5,
-      "博士": 1
+      "博士": 1.0
     },
-    "has_children_pct": 66,
-    "no_children_pct": 34
+    "has_children_pct": 66.0,
+    "no_children_pct": 34.0
   },
   "scraped_at": "2026-08-01T18:46:10.295Z",
   "nearby_restaurants": [
@@ -297,35 +297,35 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 19,
+      "count": 19.0,
       "within_1yr_pct": 47.4,
       "1_3yr_pct": 21.1,
       "over_3yr_pct": 31.6
     },
     {
       "type": "购物",
-      "count": 8,
-      "within_1yr_pct": 25,
+      "count": 8.0,
+      "within_1yr_pct": 25.0,
       "1_3yr_pct": 37.5,
       "over_3yr_pct": 37.5
     },
     {
       "type": "休闲娱乐",
-      "count": 2,
-      "within_1yr_pct": 50,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 50
+      "count": 2.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 50.0
     },
     {
       "type": "生活服务",
-      "count": 2,
-      "within_1yr_pct": 50,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 50
+      "count": 2.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 50.0
     },
     {
       "type": "运动健身",
-      "count": 7,
+      "count": 7.0,
       "within_1yr_pct": 14.3,
       "1_3yr_pct": 14.3,
       "over_3yr_pct": 71.4

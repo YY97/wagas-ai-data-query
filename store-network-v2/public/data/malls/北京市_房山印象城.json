@@ -8,8 +8,8 @@
     "score": 91.5,
     "score_rank": "市内前30%",
     "population_score": 84.4,
-    "area_score": 67,
-    "consumption_score": 64,
+    "area_score": 67.0,
+    "consumption_score": 64.0,
     "industry_score": 91.7,
     "annual_sales": "港城新天地是临港主城区第一个综合商业体，以餐饮、休闲娱乐及生活服务配套为主",
     "annual_sales_unit": "-",
@@ -26,13 +26,13 @@
     "annual_daily_rank": "市内第243",
     "jun_total": 22.8,
     "jun_total_rank": "市内商场第360名",
-    "jun_daily_avg": 7595,
+    "jun_daily_avg": 7595.0,
     "jun_daily_unit": "人次",
     "jun_daily_rank": "市内商场第360名",
-    "weekday_avg": 7028,
+    "weekday_avg": 7028.0,
     "weekday_unit": "人次",
     "weekday_rank": "市内商场第361名",
-    "holiday_avg": 9153,
+    "holiday_avg": 9153.0,
     "holiday_unit": "人次",
     "holiday_rank": "市内商场第343名"
   },
@@ -43,7 +43,7 @@
       "3km": 23.1
     },
     "office": {
-      "500m": 5600,
+      "500m": 5600.0,
       "1_5km": 3.2,
       "3km": 10.7
     },
@@ -54,26 +54,26 @@
     }
   },
   "business": {
-    "competitors": 3,
-    "food": 128,
-    "shopping": 34,
-    "leisure": 6,
-    "education": 12,
-    "hotel": 20,
-    "services": 54,
-    "fitness": 2,
+    "competitors": 3.0,
+    "food": 128.0,
+    "shopping": 34.0,
+    "leisure": 6.0,
+    "education": 12.0,
+    "hotel": 20.0,
+    "services": 54.0,
+    "fitness": 2.0,
     "auto": null,
-    "total_stores": 110,
-    "old_store_3yr_pct": 60
+    "total_stores": 110.0,
+    "old_store_3yr_pct": 60.0
   },
   "nearby_poi": {
-    "business": 2,
-    "community": 73,
+    "business": 2.0,
+    "community": 73.0,
     "office": null,
-    "school": 17,
-    "hospital": 6,
-    "transport": 4,
-    "scenic": 121
+    "school": 17.0,
+    "hospital": 6.0,
+    "transport": 4.0,
+    "scenic": 121.0
   },
   "demographics": {
     "male_pct": 48.8,
@@ -84,7 +84,7 @@
       "高中": 31.1,
       "大专": 4.9,
       "本科": 35.1,
-      "硕士": 4,
+      "硕士": 4.0,
       "博士": 1.1
     },
     "has_children_pct": 58.6,
@@ -154,52 +154,52 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 59,
+      "count": 59.0,
       "within_1yr_pct": 18.6,
       "1_3yr_pct": 20.3,
-      "over_3yr_pct": 61
+      "over_3yr_pct": 61.0
     },
     {
       "type": "购物",
-      "count": 18,
+      "count": 18.0,
       "within_1yr_pct": 5.6,
       "1_3yr_pct": 27.8,
       "over_3yr_pct": 66.7
     },
     {
       "type": "休闲娱乐",
-      "count": 5,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 40,
-      "over_3yr_pct": 60
+      "count": 5.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 40.0,
+      "over_3yr_pct": 60.0
     },
     {
       "type": "教育培训",
-      "count": 8,
-      "within_1yr_pct": 25,
+      "count": 8.0,
+      "within_1yr_pct": 25.0,
       "1_3yr_pct": 37.5,
       "over_3yr_pct": 37.5
     },
     {
       "type": "酒店住宿",
-      "count": 1,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 100
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
     },
     {
       "type": "生活服务",
-      "count": 18,
+      "count": 18.0,
       "within_1yr_pct": 16.7,
       "1_3yr_pct": 22.2,
       "over_3yr_pct": 61.1
     },
     {
       "type": "运动健身",
-      "count": 1,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 100,
-      "over_3yr_pct": 0
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
     }
   ],
   "nearby_communities": [

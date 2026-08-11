@@ -13,7 +13,7 @@
     "industry_score": 94.1,
     "annual_sales": "经纬汇是集体育Sports、音乐Music、艺术Art、休闲Recreation、科技Technology五大主题，集亲子、购物、体验、餐饮、休闲为一体的“创新乐活”生长系社区型商业",
     "annual_sales_unit": "-",
-    "area_size_sqm": 11,
+    "area_size_sqm": 11.0,
     "open_date": "2019-12-21",
     "operator": "经纬置地有限公司",
     "brand": "香港经纬集团",
@@ -43,7 +43,7 @@
       "3km": 46.1
     },
     "office": {
-      "500m": 6500,
+      "500m": 6500.0,
       "1_5km": 5.1,
       "3km": 16.2
     },
@@ -54,26 +54,26 @@
     }
   },
   "business": {
-    "competitors": 4,
-    "food": 77,
-    "shopping": 43,
-    "leisure": 12,
-    "education": 16,
-    "hotel": 1,
-    "services": 31,
-    "fitness": 11,
-    "auto": 9,
-    "total_stores": 161,
-    "old_store_3yr_pct": 55
+    "competitors": 4.0,
+    "food": 77.0,
+    "shopping": 43.0,
+    "leisure": 12.0,
+    "education": 16.0,
+    "hotel": 1.0,
+    "services": 31.0,
+    "fitness": 11.0,
+    "auto": 9.0,
+    "total_stores": 161.0,
+    "old_store_3yr_pct": 55.0
   },
   "nearby_poi": {
-    "business": 2,
-    "community": 173,
-    "office": 11,
-    "school": 14,
-    "hospital": 14,
-    "transport": 7,
-    "scenic": 64
+    "business": 2.0,
+    "community": 173.0,
+    "office": 11.0,
+    "school": 14.0,
+    "hospital": 14.0,
+    "transport": 7.0,
+    "scenic": 64.0
   },
   "demographics": {
     "male_pct": 55.4,
@@ -364,51 +364,51 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 67,
+      "count": 67.0,
       "within_1yr_pct": 11.9,
       "1_3yr_pct": 17.9,
       "over_3yr_pct": 70.1
     },
     {
       "type": "购物",
-      "count": 36,
+      "count": 36.0,
       "within_1yr_pct": 16.7,
       "1_3yr_pct": 22.2,
       "over_3yr_pct": 61.1
     },
     {
       "type": "休闲娱乐",
-      "count": 15,
+      "count": 15.0,
       "within_1yr_pct": 33.3,
       "1_3yr_pct": 46.7,
-      "over_3yr_pct": 20
+      "over_3yr_pct": 20.0
     },
     {
       "type": "教育培训",
-      "count": 10,
-      "within_1yr_pct": 20,
-      "1_3yr_pct": 40,
-      "over_3yr_pct": 40
+      "count": 10.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 40.0,
+      "over_3yr_pct": 40.0
     },
     {
       "type": "生活服务",
-      "count": 17,
+      "count": 17.0,
       "within_1yr_pct": 17.6,
       "1_3yr_pct": 35.3,
       "over_3yr_pct": 47.1
     },
     {
       "type": "运动健身",
-      "count": 9,
+      "count": 9.0,
       "within_1yr_pct": 33.3,
       "1_3yr_pct": 55.6,
       "over_3yr_pct": 11.1
     },
     {
       "type": "车辆服务",
-      "count": 7,
+      "count": 7.0,
       "within_1yr_pct": 42.9,
-      "1_3yr_pct": 0,
+      "1_3yr_pct": 0.0,
       "over_3yr_pct": 57.1
     }
   ],

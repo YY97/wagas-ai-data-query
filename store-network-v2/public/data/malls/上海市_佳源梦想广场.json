@@ -13,7 +13,7 @@
     "industry_score": 84.6,
     "annual_sales": "瑞虹坊位于地铁4号线临平路站出口处，与瑞虹新城二期相连接，是虹口区一处地标性大型综合商场升级后的瑞虹坊迎来新形象，外型运用“海上绿洲”概念，采用“邮轮”与“自然”元素的结合，充分营造舒适轻松的居家感瑞虹坊对空间布局有了更为明确的规划，从地下一层到地上二层，家门口的美食中心+生活驿站，时尚购物与生活服务中心+美食步行街，一站式吃喝玩乐定位于“家门口的生活驿站”，瑞虹坊主要改造了一楼和地下一楼的空间，升级了原本快20年的大型超市卖场业态，更新为精品超市和优质品牌的组合，时尚网红店的加盟更提升品质生活",
     "annual_sales_unit": "-",
-    "area_size_sqm": 3,
+    "area_size_sqm": 3.0,
     "open_date": "2020-10-03",
     "operator": "瑞安新天地有限公司",
     "brand": "",
@@ -21,18 +21,18 @@
     "floors": "B1-L2"
   },
   "traffic": {
-    "annual_daily": 1945,
+    "annual_daily": 1945.0,
     "annual_daily_unit": "人次",
     "annual_daily_rank": "市内第474",
     "jun_total": 6.6,
     "jun_total_rank": "市内商场第528名",
-    "jun_daily_avg": 2185,
+    "jun_daily_avg": 2185.0,
     "jun_daily_unit": "人次",
     "jun_daily_rank": "市内商场第528名",
-    "weekday_avg": 2161,
+    "weekday_avg": 2161.0,
     "weekday_unit": "人次",
     "weekday_rank": "市内商场第524名",
-    "holiday_avg": 2248,
+    "holiday_avg": 2248.0,
     "holiday_unit": "人次",
     "holiday_rank": "市内商场第526名"
   },
@@ -45,7 +45,7 @@
     "office": {
       "500m": 2.6,
       "1_5km": 21.5,
-      "3km": 85
+      "3km": 85.0
     },
     "permanent": {
       "500m": 4.5,
@@ -54,26 +54,26 @@
     }
   },
   "business": {
-    "competitors": 15,
-    "food": 395,
-    "shopping": 334,
-    "leisure": 47,
-    "education": 55,
-    "hotel": 14,
-    "services": 224,
-    "fitness": 48,
-    "auto": 23,
-    "total_stores": 71,
-    "old_store_3yr_pct": 56
+    "competitors": 15.0,
+    "food": 395.0,
+    "shopping": 334.0,
+    "leisure": 47.0,
+    "education": 55.0,
+    "hotel": 14.0,
+    "services": 224.0,
+    "fitness": 48.0,
+    "auto": 23.0,
+    "total_stores": 71.0,
+    "old_store_3yr_pct": 56.0
   },
   "nearby_poi": {
-    "business": 12,
-    "community": 819,
-    "office": 141,
-    "school": 58,
-    "hospital": 116,
-    "transport": 18,
-    "scenic": 498
+    "business": 12.0,
+    "community": 819.0,
+    "office": 141.0,
+    "school": 58.0,
+    "hospital": 116.0,
+    "transport": 18.0,
+    "scenic": 498.0
   },
   "demographics": {
     "male_pct": 47.5,
@@ -82,7 +82,7 @@
       "小学": 9.2,
       "初中": 18.4,
       "高中": 12.4,
-      "大专": 7,
+      "大专": 7.0,
       "本科": 46.6,
       "硕士": 4.7,
       "博士": 1.7
@@ -96,45 +96,45 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 18,
+      "count": 18.0,
       "within_1yr_pct": 5.6,
       "1_3yr_pct": 22.2,
       "over_3yr_pct": 72.2
     },
     {
       "type": "购物",
-      "count": 24,
+      "count": 24.0,
       "within_1yr_pct": 8.3,
       "1_3yr_pct": 29.2,
       "over_3yr_pct": 62.5
     },
     {
       "type": "休闲娱乐",
-      "count": 1,
-      "within_1yr_pct": 100,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 0
+      "count": 1.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
     },
     {
       "type": "教育培训",
-      "count": 7,
+      "count": 7.0,
       "within_1yr_pct": 14.3,
       "1_3yr_pct": 42.9,
       "over_3yr_pct": 42.9
     },
     {
       "type": "生活服务",
-      "count": 19,
+      "count": 19.0,
       "within_1yr_pct": 15.8,
       "1_3yr_pct": 36.8,
       "over_3yr_pct": 47.4
     },
     {
       "type": "运动健身",
-      "count": 2,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 100,
-      "over_3yr_pct": 0
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
     }
   ],
   "nearby_communities": [

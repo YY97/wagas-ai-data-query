@@ -9,7 +9,7 @@
     "score_rank": "市内前30%",
     "population_score": 65.4,
     "area_score": 65.1,
-    "consumption_score": 60,
+    "consumption_score": 60.0,
     "industry_score": 88.8,
     "annual_sales": "17",
     "annual_sales_unit": "-",
@@ -38,42 +38,42 @@
   },
   "population": {
     "residential": {
-      "500m": 5000,
+      "500m": 5000.0,
       "1_5km": 2.9,
       "3km": 18.8
     },
     "office": {
-      "500m": 6300,
+      "500m": 6300.0,
       "1_5km": 2.2,
       "3km": 7.7
     },
     "permanent": {
-      "500m": 8100,
+      "500m": 8100.0,
       "1_5km": 3.1,
       "3km": 16.7
     }
   },
   "business": {
-    "competitors": 4,
-    "food": 70,
-    "shopping": 23,
-    "leisure": 5,
-    "education": 1,
-    "hotel": 1,
-    "services": 14,
-    "fitness": 12,
-    "auto": 8,
-    "total_stores": 90,
-    "old_store_3yr_pct": 2
+    "competitors": 4.0,
+    "food": 70.0,
+    "shopping": 23.0,
+    "leisure": 5.0,
+    "education": 1.0,
+    "hotel": 1.0,
+    "services": 14.0,
+    "fitness": 12.0,
+    "auto": 8.0,
+    "total_stores": 90.0,
+    "old_store_3yr_pct": 2.0
   },
   "nearby_poi": {
-    "business": 2,
-    "community": 104,
-    "office": 5,
-    "school": 1,
-    "hospital": 14,
-    "transport": 10,
-    "scenic": 24
+    "business": 2.0,
+    "community": 104.0,
+    "office": 5.0,
+    "school": 1.0,
+    "hospital": 14.0,
+    "transport": 10.0,
+    "scenic": 24.0
   },
   "demographics": {
     "male_pct": 53.2,
@@ -87,8 +87,8 @@
       "硕士": 2.3,
       "博士": 0.8
     },
-    "has_children_pct": 60,
-    "no_children_pct": 40
+    "has_children_pct": 60.0,
+    "no_children_pct": 40.0
   },
   "scraped_at": "2026-07-31T17:18:38.363Z",
   "nearby_restaurants": [
@@ -364,52 +364,52 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 51,
+      "count": 51.0,
       "within_1yr_pct": 19.6,
       "1_3yr_pct": 80.4,
-      "over_3yr_pct": 0
+      "over_3yr_pct": 0.0
     },
     {
       "type": "购物",
-      "count": 14,
+      "count": 14.0,
       "within_1yr_pct": 21.4,
       "1_3yr_pct": 78.6,
-      "over_3yr_pct": 0
+      "over_3yr_pct": 0.0
     },
     {
       "type": "休闲娱乐",
-      "count": 5,
-      "within_1yr_pct": 40,
-      "1_3yr_pct": 60,
-      "over_3yr_pct": 0
+      "count": 5.0,
+      "within_1yr_pct": 40.0,
+      "1_3yr_pct": 60.0,
+      "over_3yr_pct": 0.0
     },
     {
       "type": "教育培训",
-      "count": 1,
-      "within_1yr_pct": 100,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 0
+      "count": 1.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
     },
     {
       "type": "生活服务",
-      "count": 8,
+      "count": 8.0,
       "within_1yr_pct": 12.5,
       "1_3yr_pct": 62.5,
-      "over_3yr_pct": 25
+      "over_3yr_pct": 25.0
     },
     {
       "type": "运动健身",
-      "count": 9,
+      "count": 9.0,
       "within_1yr_pct": 11.1,
       "1_3yr_pct": 88.9,
-      "over_3yr_pct": 0
+      "over_3yr_pct": 0.0
     },
     {
       "type": "车辆服务",
-      "count": 2,
-      "within_1yr_pct": 50,
-      "1_3yr_pct": 50,
-      "over_3yr_pct": 0
+      "count": 2.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 0.0
     }
   ],
   "nearby_communities": [
@@ -1142,7 +1142,7 @@
       "raw": "UNICITY万科天空之城星之屿 户数:725 居住人数:2111 建筑年份:2020"
     }
   ],
-  "community_count": 104,
   "avg_housing_price": 43324.89,
-  "total_households": 68287
+  "total_households": 68287,
+  "community_count": 104
 }

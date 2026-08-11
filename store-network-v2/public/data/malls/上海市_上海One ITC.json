@@ -21,7 +21,7 @@
     "floors": "B2-L3"
   },
   "traffic": {
-    "annual_daily": 1,
+    "annual_daily": 1.0,
     "annual_daily_unit": "万人次",
     "annual_daily_rank": "市内第253",
     "jun_total": 41.5,
@@ -45,7 +45,7 @@
     "office": {
       "500m": 3.3,
       "1_5km": 25.3,
-      "3km": 88
+      "3km": 88.0
     },
     "permanent": {
       "500m": 2.8,
@@ -54,26 +54,26 @@
     }
   },
   "business": {
-    "competitors": 22,
-    "food": 295,
-    "shopping": 560,
-    "leisure": 31,
-    "education": 48,
-    "hotel": 27,
-    "services": 207,
-    "fitness": 25,
-    "auto": 31,
-    "total_stores": 115,
-    "old_store_3yr_pct": 52
+    "competitors": 22.0,
+    "food": 295.0,
+    "shopping": 560.0,
+    "leisure": 31.0,
+    "education": 48.0,
+    "hotel": 27.0,
+    "services": 207.0,
+    "fitness": 25.0,
+    "auto": 31.0,
+    "total_stores": 115.0,
+    "old_store_3yr_pct": 52.0
   },
   "nearby_poi": {
-    "business": 15,
-    "community": 1163,
-    "office": 148,
-    "school": 73,
-    "hospital": 166,
-    "transport": 11,
-    "scenic": 500
+    "business": 15.0,
+    "community": 1163.0,
+    "office": 148.0,
+    "school": 73.0,
+    "hospital": 166.0,
+    "transport": 11.0,
+    "scenic": 500.0
   },
   "demographics": {
     "male_pct": 48.5,
@@ -428,52 +428,52 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 34,
+      "count": 34.0,
       "within_1yr_pct": 20.6,
       "1_3yr_pct": 32.4,
       "over_3yr_pct": 47.1
     },
     {
       "type": "购物",
-      "count": 61,
+      "count": 61.0,
       "within_1yr_pct": 16.4,
-      "1_3yr_pct": 18,
+      "1_3yr_pct": 18.0,
       "over_3yr_pct": 65.6
     },
     {
       "type": "休闲娱乐",
-      "count": 1,
-      "within_1yr_pct": 100,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 0
+      "count": 1.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
     },
     {
       "type": "教育培训",
-      "count": 1,
-      "within_1yr_pct": 100,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 0
+      "count": 1.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
     },
     {
       "type": "生活服务",
-      "count": 12,
+      "count": 12.0,
       "within_1yr_pct": 41.7,
       "1_3yr_pct": 33.3,
-      "over_3yr_pct": 25
+      "over_3yr_pct": 25.0
     },
     {
       "type": "运动健身",
-      "count": 2,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 100,
-      "over_3yr_pct": 0
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
     },
     {
       "type": "车辆服务",
-      "count": 4,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 75,
-      "over_3yr_pct": 25
+      "count": 4.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 75.0,
+      "over_3yr_pct": 25.0
     }
   ],
   "nearby_communities": [
@@ -3278,7 +3278,7 @@
       "raw": "静怡村 户数:35 居住人数:380+ 建筑年份:1991"
     }
   ],
-  "community_count": 400,
   "avg_housing_price": 101825.43,
-  "total_households": 337992
+  "total_households": 337992,
+  "community_count": 400
 }

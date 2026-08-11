@@ -5,15 +5,15 @@
   "lat": 40.008784,
   "lng": 116.353977,
   "overview": {
-    "score": 93,
+    "score": 93.0,
     "score_rank": "市内前30%",
     "population_score": 90.9,
-    "area_score": 81,
+    "area_score": 81.0,
     "consumption_score": 80.3,
     "industry_score": 93.1,
     "annual_sales": "1200",
     "annual_sales_unit": "万元",
-    "area_size_sqm": 5,
+    "area_size_sqm": 5.0,
     "open_date": "2010-01-01",
     "operator": "北京新辰商业集团有限公司",
     "brand": "",
@@ -54,26 +54,26 @@
     }
   },
   "business": {
-    "competitors": 5,
-    "food": 201,
-    "shopping": 123,
-    "leisure": 20,
-    "education": 36,
-    "hotel": 17,
-    "services": 91,
-    "fitness": 28,
-    "auto": 11,
-    "total_stores": 224,
-    "old_store_3yr_pct": 28
+    "competitors": 5.0,
+    "food": 201.0,
+    "shopping": 123.0,
+    "leisure": 20.0,
+    "education": 36.0,
+    "hotel": 17.0,
+    "services": 91.0,
+    "fitness": 28.0,
+    "auto": 11.0,
+    "total_stores": 224.0,
+    "old_store_3yr_pct": 28.0
   },
   "nearby_poi": {
-    "business": 1,
-    "community": 246,
-    "office": 31,
-    "school": 34,
-    "hospital": 55,
-    "transport": 8,
-    "scenic": 185
+    "business": 1.0,
+    "community": 246.0,
+    "office": 31.0,
+    "school": 34.0,
+    "hospital": 55.0,
+    "transport": 8.0,
+    "scenic": 185.0
   },
   "demographics": {
     "male_pct": 46.8,
@@ -356,59 +356,59 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 80,
+      "count": 80.0,
       "within_1yr_pct": 22.5,
       "1_3yr_pct": 51.3,
       "over_3yr_pct": 26.3
     },
     {
       "type": "购物",
-      "count": 77,
+      "count": 77.0,
       "within_1yr_pct": 15.6,
       "1_3yr_pct": 50.6,
       "over_3yr_pct": 33.8
     },
     {
       "type": "休闲娱乐",
-      "count": 15,
-      "within_1yr_pct": 20,
-      "1_3yr_pct": 60,
-      "over_3yr_pct": 20
+      "count": 15.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 60.0,
+      "over_3yr_pct": 20.0
     },
     {
       "type": "教育培训",
-      "count": 9,
+      "count": 9.0,
       "within_1yr_pct": 11.1,
       "1_3yr_pct": 55.6,
       "over_3yr_pct": 33.3
     },
     {
       "type": "酒店住宿",
-      "count": 3,
-      "within_1yr_pct": 0,
+      "count": 3.0,
+      "within_1yr_pct": 0.0,
       "1_3yr_pct": 66.7,
       "over_3yr_pct": 33.3
     },
     {
       "type": "生活服务",
-      "count": 28,
+      "count": 28.0,
       "within_1yr_pct": 14.3,
       "1_3yr_pct": 60.7,
-      "over_3yr_pct": 25
+      "over_3yr_pct": 25.0
     },
     {
       "type": "运动健身",
-      "count": 11,
+      "count": 11.0,
       "within_1yr_pct": 27.3,
       "1_3yr_pct": 63.6,
       "over_3yr_pct": 9.1
     },
     {
       "type": "车辆服务",
-      "count": 1,
-      "within_1yr_pct": 100,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 0
+      "count": 1.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
     }
   ],
   "nearby_communities": [

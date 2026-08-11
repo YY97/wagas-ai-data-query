@@ -21,7 +21,7 @@
     "floors": "B1-L3"
   },
   "traffic": {
-    "annual_daily": 1068,
+    "annual_daily": 1068.0,
     "annual_daily_unit": "人次",
     "annual_daily_rank": "市内第504",
     "jun_total": null,
@@ -54,26 +54,26 @@
     }
   },
   "business": {
-    "competitors": 5,
-    "food": 61,
-    "shopping": 28,
-    "leisure": 7,
-    "education": 9,
-    "hotel": 2,
-    "services": 36,
-    "fitness": 13,
-    "auto": 18,
-    "total_stores": 25,
-    "old_store_3yr_pct": 32
+    "competitors": 5.0,
+    "food": 61.0,
+    "shopping": 28.0,
+    "leisure": 7.0,
+    "education": 9.0,
+    "hotel": 2.0,
+    "services": 36.0,
+    "fitness": 13.0,
+    "auto": 18.0,
+    "total_stores": 25.0,
+    "old_store_3yr_pct": 32.0
   },
   "nearby_poi": {
-    "business": 7,
-    "community": 536,
-    "office": 79,
-    "school": 19,
-    "hospital": 79,
-    "transport": 9,
-    "scenic": 197
+    "business": 7.0,
+    "community": 536.0,
+    "office": 79.0,
+    "school": 19.0,
+    "hospital": 79.0,
+    "transport": 9.0,
+    "scenic": 197.0
   },
   "demographics": {
     "male_pct": 46.5,
@@ -82,7 +82,7 @@
       "小学": 8.8,
       "初中": 16.4,
       "高中": 11.3,
-      "大专": 7,
+      "大专": 7.0,
       "本科": 49.3,
       "硕士": 5.6,
       "博士": 1.6
@@ -404,45 +404,45 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 13,
+      "count": 13.0,
       "within_1yr_pct": 23.1,
       "1_3yr_pct": 38.5,
       "over_3yr_pct": 38.5
     },
     {
       "type": "购物",
-      "count": 4,
-      "within_1yr_pct": 25,
-      "1_3yr_pct": 75,
-      "over_3yr_pct": 0
+      "count": 4.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 75.0,
+      "over_3yr_pct": 0.0
     },
     {
       "type": "酒店住宿",
-      "count": 1,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 100,
-      "over_3yr_pct": 0
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
     },
     {
       "type": "生活服务",
-      "count": 4,
-      "within_1yr_pct": 50,
-      "1_3yr_pct": 25,
-      "over_3yr_pct": 25
+      "count": 4.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 25.0
     },
     {
       "type": "运动健身",
-      "count": 1,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 100
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
     },
     {
       "type": "车辆服务",
-      "count": 2,
-      "within_1yr_pct": 50,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 50
+      "count": 2.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 50.0
     }
   ],
   "nearby_communities": [
@@ -1847,7 +1847,7 @@
       "raw": "五洲大厦 户数:186 居住人数:550+ 建筑年份:1996"
     }
   ],
-  "community_count": 200,
   "avg_housing_price": 65054.87,
-  "total_households": 381304
+  "total_households": 381304,
+  "community_count": 200
 }

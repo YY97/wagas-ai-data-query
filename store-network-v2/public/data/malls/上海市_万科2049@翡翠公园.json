@@ -13,7 +13,7 @@
     "industry_score": 93.2,
     "annual_sales": "上海吴泾宝龙广场集风情商业街、高端商务写字楼、大型ShoppingMall、艺术酒店为一体的商业综合体，购物、餐饮、娱乐、商务、文化等一站式解决",
     "annual_sales_unit": "-",
-    "area_size_sqm": 4,
+    "area_size_sqm": 4.0,
     "open_date": "2017-07-08",
     "operator": "宝龙商业管理控股有限公司",
     "brand": "宝龙",
@@ -43,7 +43,7 @@
       "3km": 33.6
     },
     "office": {
-      "500m": 9500,
+      "500m": 9500.0,
       "1_5km": 6.7,
       "3km": 19.1
     },
@@ -54,26 +54,26 @@
     }
   },
   "business": {
-    "competitors": 5,
-    "food": 186,
-    "shopping": 42,
-    "leisure": 16,
-    "education": 13,
-    "hotel": 18,
-    "services": 64,
-    "fitness": 21,
-    "auto": 17,
-    "total_stores": 157,
-    "old_store_3yr_pct": 39
+    "competitors": 5.0,
+    "food": 186.0,
+    "shopping": 42.0,
+    "leisure": 16.0,
+    "education": 13.0,
+    "hotel": 18.0,
+    "services": 64.0,
+    "fitness": 21.0,
+    "auto": 17.0,
+    "total_stores": 157.0,
+    "old_store_3yr_pct": 39.0
   },
   "nearby_poi": {
-    "business": 2,
-    "community": 80,
-    "office": 7,
-    "school": 21,
-    "hospital": 13,
-    "transport": 6,
-    "scenic": 34
+    "business": 2.0,
+    "community": 80.0,
+    "office": 7.0,
+    "school": 21.0,
+    "hospital": 13.0,
+    "transport": 6.0,
+    "scenic": 34.0
   },
   "demographics": {
     "male_pct": 46.3,
@@ -144,59 +144,59 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 103,
+      "count": 103.0,
       "within_1yr_pct": 26.2,
       "1_3yr_pct": 36.9,
       "over_3yr_pct": 36.9
     },
     {
       "type": "购物",
-      "count": 13,
+      "count": 13.0,
       "within_1yr_pct": 23.1,
       "1_3yr_pct": 30.8,
       "over_3yr_pct": 46.2
     },
     {
       "type": "休闲娱乐",
-      "count": 4,
-      "within_1yr_pct": 25,
-      "1_3yr_pct": 50,
-      "over_3yr_pct": 25
+      "count": 4.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 25.0
     },
     {
       "type": "教育培训",
-      "count": 6,
+      "count": 6.0,
       "within_1yr_pct": 16.7,
       "1_3yr_pct": 16.7,
       "over_3yr_pct": 66.7
     },
     {
       "type": "酒店住宿",
-      "count": 1,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 100
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
     },
     {
       "type": "生活服务",
-      "count": 17,
+      "count": 17.0,
       "within_1yr_pct": 11.8,
       "1_3yr_pct": 47.1,
       "over_3yr_pct": 41.2
     },
     {
       "type": "运动健身",
-      "count": 10,
-      "within_1yr_pct": 20,
-      "1_3yr_pct": 30,
-      "over_3yr_pct": 50
+      "count": 10.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 30.0,
+      "over_3yr_pct": 50.0
     },
     {
       "type": "车辆服务",
-      "count": 3,
+      "count": 3.0,
       "within_1yr_pct": 33.3,
       "1_3yr_pct": 66.7,
-      "over_3yr_pct": 0
+      "over_3yr_pct": 0.0
     }
   ],
   "nearby_communities": [
@@ -943,7 +943,7 @@
       "raw": "兰沁苑 户数:748 居住人数:3137 建筑年份:2004"
     }
   ],
-  "community_count": 106,
   "avg_housing_price": 62161.29,
-  "total_households": 66326
+  "total_households": 66326,
+  "community_count": 106
 }

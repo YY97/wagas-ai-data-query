@@ -13,7 +13,7 @@
     "industry_score": 82.4,
     "annual_sales": "置业广场位于上海东川路和沪闵路路口，是一座集购物、餐饮、休闲、娱乐为一体的多功能社区商业中心，是当地的地标性建筑2024，置业广场迎来了首次升级规划，保留商业综合体，植入品牌型商业、文化、体育等，形成生活休闲综合体，并更名为“置业梦享家”",
     "annual_sales_unit": "-",
-    "area_size_sqm": 6,
+    "area_size_sqm": 6.0,
     "open_date": "2004-11-30",
     "operator": "上海闵行置业发展有限公司",
     "brand": "",
@@ -24,28 +24,28 @@
     "annual_daily": null,
     "annual_daily_unit": "-",
     "annual_daily_rank": "",
-    "jun_total": 22,
+    "jun_total": 22.0,
     "jun_total_rank": "市内商场第367名",
-    "jun_daily_avg": 7336,
+    "jun_daily_avg": 7336.0,
     "jun_daily_unit": "人次",
     "jun_daily_rank": "市内商场第367名",
-    "weekday_avg": 6501,
+    "weekday_avg": 6501.0,
     "weekday_unit": "人次",
     "weekday_rank": "市内商场第381名",
-    "holiday_avg": 9636,
+    "holiday_avg": 9636.0,
     "holiday_unit": "人次",
     "holiday_rank": "市内商场第331名"
   },
   "population": {
     "residential": {
-      "500m": 2,
+      "500m": 2.0,
       "1_5km": 17.5,
       "3km": 44.7
     },
     "office": {
-      "500m": 8300,
+      "500m": 8300.0,
       "1_5km": 8.2,
-      "3km": 22
+      "3km": 22.0
     },
     "permanent": {
       "500m": 2.1,
@@ -54,26 +54,26 @@
     }
   },
   "business": {
-    "competitors": 1,
-    "food": 104,
-    "shopping": 75,
-    "leisure": 7,
-    "education": 20,
-    "hotel": 5,
-    "services": 108,
-    "fitness": 8,
-    "auto": 9,
-    "total_stores": 56,
-    "old_store_3yr_pct": 21
+    "competitors": 1.0,
+    "food": 104.0,
+    "shopping": 75.0,
+    "leisure": 7.0,
+    "education": 20.0,
+    "hotel": 5.0,
+    "services": 108.0,
+    "fitness": 8.0,
+    "auto": 9.0,
+    "total_stores": 56.0,
+    "old_store_3yr_pct": 21.0
   },
   "nearby_poi": {
-    "business": 2,
-    "community": 143,
-    "office": 19,
-    "school": 36,
-    "hospital": 16,
-    "transport": 14,
-    "scenic": 59
+    "business": 2.0,
+    "community": 143.0,
+    "office": 19.0,
+    "school": 36.0,
+    "hospital": 16.0,
+    "transport": 14.0,
+    "scenic": 59.0
   },
   "demographics": {
     "male_pct": 49.4,
@@ -83,7 +83,7 @@
       "初中": 18.2,
       "高中": 13.6,
       "大专": 7.2,
-      "本科": 44,
+      "本科": 44.0,
       "硕士": 5.8,
       "博士": 2.3
     },
@@ -364,52 +364,52 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 26,
+      "count": 26.0,
       "within_1yr_pct": 23.1,
-      "1_3yr_pct": 50,
+      "1_3yr_pct": 50.0,
       "over_3yr_pct": 26.9
     },
     {
       "type": "购物",
-      "count": 6,
-      "within_1yr_pct": 0,
+      "count": 6.0,
+      "within_1yr_pct": 0.0,
       "1_3yr_pct": 83.3,
       "over_3yr_pct": 16.7
     },
     {
       "type": "休闲娱乐",
-      "count": 4,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 75,
-      "over_3yr_pct": 25
+      "count": 4.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 75.0,
+      "over_3yr_pct": 25.0
     },
     {
       "type": "教育培训",
-      "count": 4,
-      "within_1yr_pct": 50,
-      "1_3yr_pct": 50,
-      "over_3yr_pct": 0
+      "count": 4.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 0.0
     },
     {
       "type": "生活服务",
-      "count": 10,
-      "within_1yr_pct": 20,
-      "1_3yr_pct": 70,
-      "over_3yr_pct": 10
+      "count": 10.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 70.0,
+      "over_3yr_pct": 10.0
     },
     {
       "type": "运动健身",
-      "count": 5,
-      "within_1yr_pct": 80,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 20
+      "count": 5.0,
+      "within_1yr_pct": 80.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 20.0
     },
     {
       "type": "车辆服务",
-      "count": 1,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 100
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
     }
   ],
   "nearby_communities": [

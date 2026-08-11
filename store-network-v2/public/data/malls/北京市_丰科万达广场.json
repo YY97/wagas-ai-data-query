@@ -8,12 +8,12 @@
     "score": 96.5,
     "score_rank": "市内前30%",
     "population_score": 66.6,
-    "area_score": 100,
-    "consumption_score": 60,
+    "area_score": 100.0,
+    "consumption_score": 60.0,
     "industry_score": 96.6,
     "annual_sales": "14",
     "annual_sales_unit": "亿元",
-    "area_size_sqm": 14,
+    "area_size_sqm": 14.0,
     "open_date": "2016-12-01",
     "operator": "珠海万达商业管理集团股份有限公司",
     "brand": "万达",
@@ -38,42 +38,42 @@
   },
   "population": {
     "residential": {
-      "500m": 4100,
+      "500m": 4100.0,
       "1_5km": 13.1,
       "3km": 37.1
     },
     "office": {
       "500m": 4.4,
-      "1_5km": 18,
-      "3km": 29
+      "1_5km": 18.0,
+      "3km": 29.0
     },
     "permanent": {
       "500m": 1.4,
       "1_5km": 14.4,
-      "3km": 38
+      "3km": 38.0
     }
   },
   "business": {
-    "competitors": 11,
-    "food": 433,
-    "shopping": 202,
-    "leisure": 31,
-    "education": 31,
-    "hotel": 34,
-    "services": 217,
-    "fitness": 36,
-    "auto": 32,
-    "total_stores": 637,
-    "old_store_3yr_pct": 45
+    "competitors": 11.0,
+    "food": 433.0,
+    "shopping": 202.0,
+    "leisure": 31.0,
+    "education": 31.0,
+    "hotel": 34.0,
+    "services": 217.0,
+    "fitness": 36.0,
+    "auto": 32.0,
+    "total_stores": 637.0,
+    "old_store_3yr_pct": 45.0
   },
   "nearby_poi": {
-    "business": 2,
-    "community": 179,
-    "office": 99,
-    "school": 18,
-    "hospital": 42,
-    "transport": 9,
-    "scenic": 161
+    "business": 2.0,
+    "community": 179.0,
+    "office": 99.0,
+    "school": 18.0,
+    "hospital": 42.0,
+    "transport": 9.0,
+    "scenic": 161.0
   },
   "demographics": {
     "male_pct": 48.5,
@@ -364,56 +364,56 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 254,
+      "count": 254.0,
       "within_1yr_pct": 25.6,
       "1_3yr_pct": 29.1,
       "over_3yr_pct": 45.3
     },
     {
       "type": "购物",
-      "count": 145,
+      "count": 145.0,
       "within_1yr_pct": 13.8,
       "1_3yr_pct": 26.2,
-      "over_3yr_pct": 60
+      "over_3yr_pct": 60.0
     },
     {
       "type": "休闲娱乐",
-      "count": 28,
+      "count": 28.0,
       "within_1yr_pct": 21.4,
       "1_3yr_pct": 35.7,
       "over_3yr_pct": 42.9
     },
     {
       "type": "教育培训",
-      "count": 21,
+      "count": 21.0,
       "within_1yr_pct": 28.6,
       "1_3yr_pct": 47.6,
       "over_3yr_pct": 23.8
     },
     {
       "type": "酒店住宿",
-      "count": 3,
-      "within_1yr_pct": 100,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 0
+      "count": 3.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
     },
     {
       "type": "生活服务",
-      "count": 157,
+      "count": 157.0,
       "within_1yr_pct": 20.4,
       "1_3yr_pct": 41.4,
       "over_3yr_pct": 38.2
     },
     {
       "type": "运动健身",
-      "count": 14,
+      "count": 14.0,
       "within_1yr_pct": 42.9,
       "1_3yr_pct": 28.6,
       "over_3yr_pct": 28.6
     },
     {
       "type": "车辆服务",
-      "count": 15,
+      "count": 15.0,
       "within_1yr_pct": 6.7,
       "1_3yr_pct": 66.7,
       "over_3yr_pct": 26.7

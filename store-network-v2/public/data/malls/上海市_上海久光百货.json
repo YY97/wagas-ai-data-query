@@ -8,7 +8,7 @@
     "score": 94.2,
     "score_rank": "市内前30%",
     "population_score": 80.6,
-    "area_score": 100,
+    "area_score": 100.0,
     "consumption_score": 89.5,
     "industry_score": 94.3,
     "annual_sales": "9.9",
@@ -39,7 +39,7 @@
   "population": {
     "residential": {
       "500m": 1.6,
-      "1_5km": 23,
+      "1_5km": 23.0,
       "3km": 97.1
     },
     "office": {
@@ -54,26 +54,26 @@
     }
   },
   "business": {
-    "competitors": 23,
-    "food": 703,
-    "shopping": 762,
-    "leisure": 35,
-    "education": 47,
-    "hotel": 83,
-    "services": 480,
-    "fitness": 47,
-    "auto": 36,
-    "total_stores": 357,
-    "old_store_3yr_pct": 64
+    "competitors": 23.0,
+    "food": 703.0,
+    "shopping": 762.0,
+    "leisure": 35.0,
+    "education": 47.0,
+    "hotel": 83.0,
+    "services": 480.0,
+    "fitness": 47.0,
+    "auto": 36.0,
+    "total_stores": 357.0,
+    "old_store_3yr_pct": 64.0
   },
   "nearby_poi": {
-    "business": 17,
-    "community": 1287,
-    "office": 219,
-    "school": 93,
-    "hospital": 198,
-    "transport": 17,
-    "scenic": 828
+    "business": 17.0,
+    "community": 1287.0,
+    "office": 219.0,
+    "school": 93.0,
+    "hospital": 198.0,
+    "transport": 17.0,
+    "scenic": 828.0
   },
   "demographics": {
     "male_pct": 45.3,
@@ -81,14 +81,14 @@
     "education": {
       "小学": 9.1,
       "初中": 17.9,
-      "高中": 12,
+      "高中": 12.0,
       "大专": 6.8,
       "本科": 47.9,
       "硕士": 4.7,
       "博士": 1.6
     },
-    "has_children_pct": 58,
-    "no_children_pct": 42
+    "has_children_pct": 58.0,
+    "no_children_pct": 42.0
   },
   "scraped_at": "2026-07-31T15:26:08.756Z",
   "nearby_restaurants": [
@@ -428,38 +428,38 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 64,
+      "count": 64.0,
       "within_1yr_pct": 14.1,
       "1_3yr_pct": 29.7,
       "over_3yr_pct": 56.3
     },
     {
       "type": "购物",
-      "count": 273,
-      "within_1yr_pct": 15,
+      "count": 273.0,
+      "within_1yr_pct": 15.0,
       "1_3yr_pct": 16.8,
       "over_3yr_pct": 68.1
     },
     {
       "type": "休闲娱乐",
-      "count": 2,
-      "within_1yr_pct": 100,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 0
+      "count": 2.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
     },
     {
       "type": "生活服务",
-      "count": 17,
+      "count": 17.0,
       "within_1yr_pct": 23.5,
       "1_3yr_pct": 29.4,
       "over_3yr_pct": 47.1
     },
     {
       "type": "运动健身",
-      "count": 1,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 100,
-      "over_3yr_pct": 0
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
     }
   ],
   "nearby_communities": [
@@ -3264,7 +3264,7 @@
       "raw": "襄阳南路124弄小区 户数:27 居住人数:230+ 建筑年份:1936"
     }
   ],
-  "community_count": 400,
   "avg_housing_price": 104365.45,
-  "total_households": 308461
+  "total_households": 308461,
+  "community_count": 400
 }

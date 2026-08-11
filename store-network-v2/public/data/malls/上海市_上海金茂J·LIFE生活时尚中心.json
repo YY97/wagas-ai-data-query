@@ -38,14 +38,14 @@
   },
   "population": {
     "residential": {
-      "500m": 6500,
+      "500m": 6500.0,
       "1_5km": 11.5,
       "3km": 70.5
     },
     "office": {
       "500m": 7.5,
-      "1_5km": 29,
-      "3km": 101
+      "1_5km": 29.0,
+      "3km": 101.0
     },
     "permanent": {
       "500m": 3.1,
@@ -54,35 +54,35 @@
     }
   },
   "business": {
-    "competitors": 21,
-    "food": 310,
-    "shopping": 251,
-    "leisure": 12,
-    "education": 5,
-    "hotel": 22,
-    "services": 112,
-    "fitness": 22,
-    "auto": 32,
-    "total_stores": 22,
-    "old_store_3yr_pct": 64
+    "competitors": 21.0,
+    "food": 310.0,
+    "shopping": 251.0,
+    "leisure": 12.0,
+    "education": 5.0,
+    "hotel": 22.0,
+    "services": 112.0,
+    "fitness": 22.0,
+    "auto": 32.0,
+    "total_stores": 22.0,
+    "old_store_3yr_pct": 64.0
   },
   "nearby_poi": {
-    "business": 18,
-    "community": 619,
-    "office": 136,
-    "school": 23,
-    "hospital": 151,
-    "transport": 19,
-    "scenic": 729
+    "business": 18.0,
+    "community": 619.0,
+    "office": 136.0,
+    "school": 23.0,
+    "hospital": 151.0,
+    "transport": 19.0,
+    "scenic": 729.0
   },
   "demographics": {
     "male_pct": 47.4,
     "female_pct": null,
     "education": {
-      "小学": 10,
+      "小学": 10.0,
       "初中": 18.3,
       "高中": 11.4,
-      "大专": 8,
+      "大专": 8.0,
       "本科": 46.3,
       "硕士": 4.6,
       "博士": 1.4
@@ -428,21 +428,21 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 12,
+      "count": 12.0,
       "within_1yr_pct": 8.3,
-      "1_3yr_pct": 25,
+      "1_3yr_pct": 25.0,
       "over_3yr_pct": 66.7
     },
     {
       "type": "购物",
-      "count": 3,
-      "within_1yr_pct": 0,
+      "count": 3.0,
+      "within_1yr_pct": 0.0,
       "1_3yr_pct": 33.3,
       "over_3yr_pct": 66.7
     },
     {
       "type": "生活服务",
-      "count": 7,
+      "count": 7.0,
       "within_1yr_pct": 14.3,
       "1_3yr_pct": 28.6,
       "over_3yr_pct": 57.1
@@ -1850,7 +1850,7 @@
       "raw": "外滩豪景苑 户数:445 居住人数:650+ 建筑年份:2011"
     }
   ],
-  "community_count": 200,
   "avg_housing_price": 91073.85,
-  "total_households": 212415
+  "total_households": 212415,
+  "community_count": 200
 }

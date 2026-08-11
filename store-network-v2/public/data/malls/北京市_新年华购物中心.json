@@ -8,12 +8,12 @@
     "score": 87.5,
     "score_rank": "市内前30%",
     "population_score": 92.8,
-    "area_score": 89,
+    "area_score": 89.0,
     "consumption_score": 82.8,
     "industry_score": 87.5,
     "annual_sales": "新年华购物中心是由北京中基信和置业有限公司历时5年精心打造的精品时尚购物中心，位于丽泽和马连道两大商圈，将成为时尚达人、潮流新贵休闲购物的首选之地。购物中心总共有七个经营楼层，包括地下一层和地上六层，每一层都主打一个概念，并由这些概念为她的家庭式消费群体构筑了一个面向世界的全方位体验空间",
     "annual_sales_unit": "-",
-    "area_size_sqm": 4,
+    "area_size_sqm": 4.0,
     "open_date": "2012-01-01",
     "operator": "北京中基信和置业有限公司",
     "brand": "",
@@ -26,10 +26,10 @@
     "annual_daily_rank": "市内第179",
     "jun_total": 29.4,
     "jun_total_rank": "市内商场第253名",
-    "jun_daily_avg": 9782,
+    "jun_daily_avg": 9782.0,
     "jun_daily_unit": "人次",
     "jun_daily_rank": "市内商场第253名",
-    "weekday_avg": 9498,
+    "weekday_avg": 9498.0,
     "weekday_unit": "人次",
     "weekday_rank": "市内商场第249名",
     "holiday_avg": 1.1,
@@ -55,25 +55,25 @@
   },
   "business": {
     "competitors": null,
-    "food": 126,
-    "shopping": 429,
-    "leisure": 11,
-    "education": 28,
-    "hotel": 19,
-    "services": 101,
-    "fitness": 10,
-    "auto": 11,
-    "total_stores": 56,
-    "old_store_3yr_pct": 64
+    "food": 126.0,
+    "shopping": 429.0,
+    "leisure": 11.0,
+    "education": 28.0,
+    "hotel": 19.0,
+    "services": 101.0,
+    "fitness": 10.0,
+    "auto": 11.0,
+    "total_stores": 56.0,
+    "old_store_3yr_pct": 64.0
   },
   "nearby_poi": {
-    "business": 7,
-    "community": 403,
-    "office": 58,
-    "school": 28,
-    "hospital": 71,
-    "transport": 15,
-    "scenic": 186
+    "business": 7.0,
+    "community": 403.0,
+    "office": 58.0,
+    "school": 28.0,
+    "hospital": 71.0,
+    "transport": 15.0,
+    "scenic": 186.0
   },
   "demographics": {
     "male_pct": 52.4,
@@ -144,52 +144,52 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 22,
+      "count": 22.0,
       "within_1yr_pct": 4.5,
       "1_3yr_pct": 13.6,
       "over_3yr_pct": 81.8
     },
     {
       "type": "购物",
-      "count": 17,
+      "count": 17.0,
       "within_1yr_pct": 23.5,
       "1_3yr_pct": 11.8,
       "over_3yr_pct": 64.7
     },
     {
       "type": "休闲娱乐",
-      "count": 4,
-      "within_1yr_pct": 25,
-      "1_3yr_pct": 25,
-      "over_3yr_pct": 50
+      "count": 4.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 50.0
     },
     {
       "type": "教育培训",
-      "count": 6,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 50,
-      "over_3yr_pct": 50
+      "count": 6.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 50.0
     },
     {
       "type": "生活服务",
-      "count": 5,
-      "within_1yr_pct": 40,
-      "1_3yr_pct": 40,
-      "over_3yr_pct": 20
+      "count": 5.0,
+      "within_1yr_pct": 40.0,
+      "1_3yr_pct": 40.0,
+      "over_3yr_pct": 20.0
     },
     {
       "type": "运动健身",
-      "count": 1,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 100,
-      "over_3yr_pct": 0
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
     },
     {
       "type": "车辆服务",
-      "count": 1,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 100
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
     }
   ],
   "nearby_communities": [

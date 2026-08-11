@@ -13,7 +13,7 @@
     "industry_score": 86.8,
     "annual_sales": "杭州七乐汇生活广场是好安居蓝钻天城的商业配套，位处莫干山路与萍水街交叉口，属于被喻为杭州未来“徐家汇”的申花板块。申花板块主要由三墩路、莫干山路、登云路、余杭塘河和古墩路围合而成，举步城西银泰城，板块日渐成熟的商业、交通、学区等配套为众多客户所青睐。在城市化进程如火如荼的时代背景下，申花商圈无疑是继武林商圈、钱江新城商圈之后最热的商业核心。项目于2017年1月开业，目前已入驻大量的知名品牌，包含餐饮、休闲、购物、娱乐等多重业态。其中包括星巴克、汉堡王、花季餐厅等，地下负一层已入驻世纪联华超市。除此之外，七乐汇广场还成功引入了主题电竞游乐——全游电竞馆，四层则以影食在线为主，大地影院神画国际影城与美食同步七彩生活。",
     "annual_sales_unit": "-",
-    "area_size_sqm": 7,
+    "area_size_sqm": 7.0,
     "open_date": "2017-01-01",
     "operator": "浙江好安好居置业有限公司",
     "brand": "",
@@ -26,13 +26,13 @@
     "annual_daily_rank": "市内第96",
     "jun_total": 27.2,
     "jun_total_rank": "市内商场第149名",
-    "jun_daily_avg": 9074,
+    "jun_daily_avg": 9074.0,
     "jun_daily_unit": "人次",
     "jun_daily_rank": "市内商场第149名",
-    "weekday_avg": 8847,
+    "weekday_avg": 8847.0,
     "weekday_unit": "人次",
     "weekday_rank": "市内商场第147名",
-    "holiday_avg": 9695,
+    "holiday_avg": 9695.0,
     "holiday_unit": "人次",
     "holiday_rank": "市内商场第148名"
   },
@@ -43,7 +43,7 @@
       "3km": 53.6
     },
     "office": {
-      "500m": 8000,
+      "500m": 8000.0,
       "1_5km": 6.3,
       "3km": 29.7
     },
@@ -54,26 +54,26 @@
     }
   },
   "business": {
-    "competitors": 1,
-    "food": 121,
-    "shopping": 99,
-    "leisure": 22,
-    "education": 26,
-    "hotel": 20,
-    "services": 149,
-    "fitness": 13,
-    "auto": 12,
-    "total_stores": 102,
-    "old_store_3yr_pct": 34
+    "competitors": 1.0,
+    "food": 121.0,
+    "shopping": 99.0,
+    "leisure": 22.0,
+    "education": 26.0,
+    "hotel": 20.0,
+    "services": 149.0,
+    "fitness": 13.0,
+    "auto": 12.0,
+    "total_stores": 102.0,
+    "old_store_3yr_pct": 34.0
   },
   "nearby_poi": {
-    "business": 4,
-    "community": 387,
-    "office": 34,
-    "school": 33,
-    "hospital": 101,
-    "transport": 8,
-    "scenic": 223
+    "business": 4.0,
+    "community": 387.0,
+    "office": 34.0,
+    "school": 33.0,
+    "hospital": 101.0,
+    "transport": 8.0,
+    "scenic": 223.0
   },
   "demographics": {
     "male_pct": 47.2,
@@ -380,56 +380,56 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 31,
+      "count": 31.0,
       "within_1yr_pct": 22.6,
       "1_3yr_pct": 22.6,
       "over_3yr_pct": 54.8
     },
     {
       "type": "购物",
-      "count": 11,
+      "count": 11.0,
       "within_1yr_pct": 18.2,
       "1_3yr_pct": 36.4,
       "over_3yr_pct": 45.5
     },
     {
       "type": "休闲娱乐",
-      "count": 13,
+      "count": 13.0,
       "within_1yr_pct": 69.2,
       "1_3yr_pct": 23.1,
       "over_3yr_pct": 7.7
     },
     {
       "type": "教育培训",
-      "count": 2,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 100
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
     },
     {
       "type": "酒店住宿",
-      "count": 9,
+      "count": 9.0,
       "within_1yr_pct": 77.8,
-      "1_3yr_pct": 0,
+      "1_3yr_pct": 0.0,
       "over_3yr_pct": 22.2
     },
     {
       "type": "生活服务",
-      "count": 27,
+      "count": 27.0,
       "within_1yr_pct": 33.3,
       "1_3yr_pct": 48.1,
       "over_3yr_pct": 18.5
     },
     {
       "type": "运动健身",
-      "count": 3,
+      "count": 3.0,
       "within_1yr_pct": 33.3,
       "1_3yr_pct": 33.3,
       "over_3yr_pct": 33.3
     },
     {
       "type": "车辆服务",
-      "count": 6,
+      "count": 6.0,
       "within_1yr_pct": 33.3,
       "1_3yr_pct": 33.3,
       "over_3yr_pct": 33.3

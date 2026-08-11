@@ -13,7 +13,7 @@
     "industry_score": 87.6,
     "annual_sales": "上海迪美购物中心是上海首家地下“都市中心型多功能购物中心”，位于上海市中心人民广场西南侧，临近上海市政府大厦、上海大剧院、上海博物馆。购物中心占地面积50000平方米，建筑面积49557平方米，商场中央购物大道宽达12米，中央大厅钢琴吧为标志，地下二层为停车场。迪美购物中心集购物、旅游、美食、休闲为一体的购物中心，拥有5万平方米的建筑面积",
     "annual_sales_unit": "-",
-    "area_size_sqm": 5,
+    "area_size_sqm": 5.0,
     "open_date": "1995-01-01",
     "operator": "上海迪美广场有限公司",
     "brand": "",
@@ -26,13 +26,13 @@
     "annual_daily_rank": "市内第242",
     "jun_total": 21.6,
     "jun_total_rank": "市内商场第369名",
-    "jun_daily_avg": 7213,
+    "jun_daily_avg": 7213.0,
     "jun_daily_unit": "人次",
     "jun_daily_rank": "市内商场第369名",
-    "weekday_avg": 6455,
+    "weekday_avg": 6455.0,
     "weekday_unit": "人次",
     "weekday_rank": "市内商场第382名",
-    "holiday_avg": 9298,
+    "holiday_avg": 9298.0,
     "holiday_unit": "人次",
     "holiday_rank": "市内商场第339名"
   },
@@ -45,7 +45,7 @@
     "office": {
       "500m": 2.7,
       "1_5km": 33.6,
-      "3km": 112
+      "3km": 112.0
     },
     "permanent": {
       "500m": 2.4,
@@ -54,26 +54,26 @@
     }
   },
   "business": {
-    "competitors": 10,
-    "food": 175,
-    "shopping": 123,
-    "leisure": 24,
-    "education": 6,
-    "hotel": 41,
-    "services": 65,
-    "fitness": 4,
-    "auto": 19,
-    "total_stores": 78,
-    "old_store_3yr_pct": 46
+    "competitors": 10.0,
+    "food": 175.0,
+    "shopping": 123.0,
+    "leisure": 24.0,
+    "education": 6.0,
+    "hotel": 41.0,
+    "services": 65.0,
+    "fitness": 4.0,
+    "auto": 19.0,
+    "total_stores": 78.0,
+    "old_store_3yr_pct": 46.0
   },
   "nearby_poi": {
-    "business": 37,
-    "community": 1029,
-    "office": 206,
-    "school": 55,
-    "hospital": 215,
-    "transport": 24,
-    "scenic": 988
+    "business": 37.0,
+    "community": 1029.0,
+    "office": 206.0,
+    "school": 55.0,
+    "hospital": 215.0,
+    "transport": 24.0,
+    "scenic": 988.0
   },
   "demographics": {
     "male_pct": 47.1,
@@ -428,38 +428,38 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 40,
+      "count": 40.0,
       "within_1yr_pct": 67.5,
       "1_3yr_pct": 12.5,
-      "over_3yr_pct": 20
+      "over_3yr_pct": 20.0
     },
     {
       "type": "购物",
-      "count": 27,
+      "count": 27.0,
       "within_1yr_pct": 18.5,
       "1_3yr_pct": 3.7,
       "over_3yr_pct": 77.8
     },
     {
       "type": "休闲娱乐",
-      "count": 6,
+      "count": 6.0,
       "within_1yr_pct": 16.7,
       "1_3yr_pct": 16.7,
       "over_3yr_pct": 66.7
     },
     {
       "type": "生活服务",
-      "count": 4,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 50,
-      "over_3yr_pct": 50
+      "count": 4.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 50.0
     },
     {
       "type": "车辆服务",
-      "count": 1,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 100
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
     }
   ],
   "nearby_communities": [
@@ -3264,7 +3264,7 @@
       "raw": "恒丰古北家苑 户数:139 居住人数:420+ 建筑年份:1999"
     }
   ],
-  "community_count": 400,
   "avg_housing_price": 105830.99,
-  "total_households": 229411
+  "total_households": 229411,
+  "community_count": 400
 }

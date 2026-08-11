@@ -26,13 +26,13 @@
     "annual_daily_rank": "",
     "jun_total": 6.6,
     "jun_total_rank": "市内商场第330名",
-    "jun_daily_avg": 2200,
+    "jun_daily_avg": 2200.0,
     "jun_daily_unit": "人次",
     "jun_daily_rank": "市内商场第330名",
-    "weekday_avg": 2007,
+    "weekday_avg": 2007.0,
     "weekday_unit": "人次",
     "weekday_rank": "市内商场第334名",
-    "holiday_avg": 2729,
+    "holiday_avg": 2729.0,
     "holiday_unit": "人次",
     "holiday_rank": "市内商场第326名"
   },
@@ -43,48 +43,48 @@
       "3km": 70.3
     },
     "office": {
-      "500m": 3,
+      "500m": 3.0,
       "1_5km": 12.3,
       "3km": 52.2
     },
     "permanent": {
       "500m": 3.3,
-      "1_5km": 20,
-      "3km": 72
+      "1_5km": 20.0,
+      "3km": 72.0
     }
   },
   "business": {
-    "competitors": 8,
-    "food": 304,
-    "shopping": 116,
-    "leisure": 18,
-    "education": 43,
-    "hotel": 27,
-    "services": 153,
-    "fitness": 38,
-    "auto": 16,
-    "total_stores": 39,
-    "old_store_3yr_pct": 38
+    "competitors": 8.0,
+    "food": 304.0,
+    "shopping": 116.0,
+    "leisure": 18.0,
+    "education": 43.0,
+    "hotel": 27.0,
+    "services": 153.0,
+    "fitness": 38.0,
+    "auto": 16.0,
+    "total_stores": 39.0,
+    "old_store_3yr_pct": 38.0
   },
   "nearby_poi": {
-    "business": 4,
-    "community": 351,
-    "office": 66,
-    "school": 41,
-    "hospital": 103,
-    "transport": 6,
-    "scenic": 217
+    "business": 4.0,
+    "community": 351.0,
+    "office": 66.0,
+    "school": 41.0,
+    "hospital": 103.0,
+    "transport": 6.0,
+    "scenic": 217.0
   },
   "demographics": {
     "male_pct": 47.6,
     "female_pct": null,
     "education": {
-      "小学": 9,
+      "小学": 9.0,
       "初中": 15.6,
       "高中": 10.6,
-      "大专": 7,
+      "大专": 7.0,
       "本科": 49.2,
-      "硕士": 7,
+      "硕士": 7.0,
       "博士": 1.6
     },
     "has_children_pct": 58.1,
@@ -150,45 +150,45 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 15,
-      "within_1yr_pct": 20,
+      "count": 15.0,
+      "within_1yr_pct": 20.0,
       "1_3yr_pct": 33.3,
       "over_3yr_pct": 46.7
     },
     {
       "type": "购物",
-      "count": 12,
+      "count": 12.0,
       "within_1yr_pct": 16.7,
-      "1_3yr_pct": 50,
+      "1_3yr_pct": 50.0,
       "over_3yr_pct": 33.3
     },
     {
       "type": "酒店住宿",
-      "count": 1,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 100,
-      "over_3yr_pct": 0
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
     },
     {
       "type": "生活服务",
-      "count": 6,
-      "within_1yr_pct": 50,
+      "count": 6.0,
+      "within_1yr_pct": 50.0,
       "1_3yr_pct": 16.7,
       "over_3yr_pct": 33.3
     },
     {
       "type": "运动健身",
-      "count": 4,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 50,
-      "over_3yr_pct": 50
+      "count": 4.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 50.0
     },
     {
       "type": "车辆服务",
-      "count": 1,
-      "within_1yr_pct": 100,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 0
+      "count": 1.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
     }
   ],
   "nearby_communities": [

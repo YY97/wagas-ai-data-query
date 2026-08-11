@@ -5,15 +5,15 @@
   "lat": 31.26954,
   "lng": 121.610191,
   "overview": {
-    "score": 77,
+    "score": 77.0,
     "score_rank": "市内前50%",
     "population_score": 79.6,
     "area_score": 73.8,
     "consumption_score": 76.1,
-    "industry_score": 77,
+    "industry_score": 77.0,
     "annual_sales": "金桥佳邻坊位于浦东新区金桥镇中心，紧邻金桥市民文化广场及阳光欧洲城、阳光国际公寓等中高端住宅小区，周边社区成熟，1.5公里范围内拥有成熟社区人口10万人",
     "annual_sales_unit": "-",
-    "area_size_sqm": 5,
+    "area_size_sqm": 5.0,
     "open_date": "2016-05-15",
     "operator": "常州荣盛物业管理有限公司",
     "brand": "",
@@ -43,7 +43,7 @@
       "3km": 52.9
     },
     "office": {
-      "500m": 8000,
+      "500m": 8000.0,
       "1_5km": 7.4,
       "3km": 34.8
     },
@@ -54,32 +54,32 @@
     }
   },
   "business": {
-    "competitors": 5,
-    "food": 155,
-    "shopping": 119,
-    "leisure": 12,
-    "education": 21,
-    "hotel": 6,
-    "services": 110,
-    "fitness": 15,
-    "auto": 8,
-    "total_stores": 26,
-    "old_store_3yr_pct": 69
+    "competitors": 5.0,
+    "food": 155.0,
+    "shopping": 119.0,
+    "leisure": 12.0,
+    "education": 21.0,
+    "hotel": 6.0,
+    "services": 110.0,
+    "fitness": 15.0,
+    "auto": 8.0,
+    "total_stores": 26.0,
+    "old_store_3yr_pct": 69.0
   },
   "nearby_poi": {
-    "business": 3,
-    "community": 231,
-    "office": 21,
-    "school": 22,
-    "hospital": 27,
-    "transport": 9,
-    "scenic": 58
+    "business": 3.0,
+    "community": 231.0,
+    "office": 21.0,
+    "school": 22.0,
+    "hospital": 27.0,
+    "transport": 9.0,
+    "scenic": 58.0
   },
   "demographics": {
     "male_pct": 50.2,
     "female_pct": null,
     "education": {
-      "小学": 9,
+      "小学": 9.0,
       "初中": 16.6,
       "高中": 10.9,
       "大专": 7.7,
@@ -121,59 +121,59 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 10,
-      "within_1yr_pct": 10,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 90
+      "count": 10.0,
+      "within_1yr_pct": 10.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 90.0
     },
     {
       "type": "购物",
-      "count": 4,
-      "within_1yr_pct": 50,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 50
+      "count": 4.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 50.0
     },
     {
       "type": "休闲娱乐",
-      "count": 1,
-      "within_1yr_pct": 100,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 0
+      "count": 1.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
     },
     {
       "type": "教育培训",
-      "count": 3,
-      "within_1yr_pct": 0,
+      "count": 3.0,
+      "within_1yr_pct": 0.0,
       "1_3yr_pct": 66.7,
       "over_3yr_pct": 33.3
     },
     {
       "type": "酒店住宿",
-      "count": 1,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 100
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
     },
     {
       "type": "生活服务",
-      "count": 4,
-      "within_1yr_pct": 25,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 75
+      "count": 4.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 75.0
     },
     {
       "type": "运动健身",
-      "count": 1,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 100
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
     },
     {
       "type": "车辆服务",
-      "count": 2,
-      "within_1yr_pct": 50,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 50
+      "count": 2.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 50.0
     }
   ],
   "nearby_communities": [

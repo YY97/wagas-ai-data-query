@@ -13,7 +13,7 @@
     "industry_score": 72.4,
     "annual_sales": "佳亿时尚广场已经形成有别于其他市场消费模式的特色经营，在开业之初就以“白领女性”消费主体，以“时尚”作为商品特色，围绕这两个主题挑选经营精品时装和特色商品的商户入场经营",
     "annual_sales_unit": "-",
-    "area_size_sqm": 3,
+    "area_size_sqm": 3.0,
     "open_date": "2001-09-18",
     "operator": "北京佳亿置业有限公司",
     "brand": "",
@@ -26,20 +26,20 @@
     "annual_daily_rank": "",
     "jun_total": 6.2,
     "jun_total_rank": "市内商场第333名",
-    "jun_daily_avg": 2063,
+    "jun_daily_avg": 2063.0,
     "jun_daily_unit": "人次",
     "jun_daily_rank": "市内商场第333名",
-    "weekday_avg": 2117,
+    "weekday_avg": 2117.0,
     "weekday_unit": "人次",
     "weekday_rank": "市内商场第329名",
-    "holiday_avg": 1916,
+    "holiday_avg": 1916.0,
     "holiday_unit": "人次",
     "holiday_rank": "市内商场第343名"
   },
   "population": {
     "residential": {
       "500m": 1.3,
-      "1_5km": 13,
+      "1_5km": 13.0,
       "3km": 58.3
     },
     "office": {
@@ -54,26 +54,26 @@
     }
   },
   "business": {
-    "competitors": 7,
-    "food": 219,
-    "shopping": 217,
-    "leisure": 8,
-    "education": 4,
-    "hotel": 32,
-    "services": 111,
-    "fitness": 16,
-    "auto": 19,
-    "total_stores": 40,
-    "old_store_3yr_pct": 53
+    "competitors": 7.0,
+    "food": 219.0,
+    "shopping": 217.0,
+    "leisure": 8.0,
+    "education": 4.0,
+    "hotel": 32.0,
+    "services": 111.0,
+    "fitness": 16.0,
+    "auto": 19.0,
+    "total_stores": 40.0,
+    "old_store_3yr_pct": 53.0
   },
   "nearby_poi": {
-    "business": 6,
-    "community": 404,
-    "office": 96,
-    "school": 39,
-    "hospital": 138,
-    "transport": 10,
-    "scenic": 246
+    "business": 6.0,
+    "community": 404.0,
+    "office": 96.0,
+    "school": 39.0,
+    "hospital": 138.0,
+    "transport": 10.0,
+    "scenic": 246.0
   },
   "demographics": {
     "male_pct": 53.1,
@@ -396,52 +396,52 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 12,
+      "count": 12.0,
       "within_1yr_pct": 33.3,
       "1_3yr_pct": 33.3,
       "over_3yr_pct": 33.3
     },
     {
       "type": "购物",
-      "count": 12,
+      "count": 12.0,
       "within_1yr_pct": 16.7,
       "1_3yr_pct": 8.3,
-      "over_3yr_pct": 75
+      "over_3yr_pct": 75.0
     },
     {
       "type": "休闲娱乐",
-      "count": 1,
-      "within_1yr_pct": 100,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 0
+      "count": 1.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
     },
     {
       "type": "教育培训",
-      "count": 1,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 100,
-      "over_3yr_pct": 0
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
     },
     {
       "type": "酒店住宿",
-      "count": 2,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 50,
-      "over_3yr_pct": 50
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 50.0
     },
     {
       "type": "生活服务",
-      "count": 8,
+      "count": 8.0,
       "within_1yr_pct": 12.5,
-      "1_3yr_pct": 25,
+      "1_3yr_pct": 25.0,
       "over_3yr_pct": 62.5
     },
     {
       "type": "运动健身",
-      "count": 4,
-      "within_1yr_pct": 25,
-      "1_3yr_pct": 25,
-      "over_3yr_pct": 50
+      "count": 4.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 50.0
     }
   ],
   "nearby_communities": [

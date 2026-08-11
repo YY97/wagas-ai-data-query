@@ -7,13 +7,13 @@
   "overview": {
     "score": 93.9,
     "score_rank": "市内前30%",
-    "population_score": 100,
+    "population_score": 100.0,
     "area_score": 78.8,
     "consumption_score": 77.2,
     "industry_score": 93.9,
     "annual_sales": "控江旭辉MALL是旭辉集团打造的商业项目，位于杨浦区控江路近打虎山路，为轨交8号线鞍山新村站上盖项目。项目由地下3层，地上5层组成，B2-B3层为大型立体停车库，拥有600个停车位。商场定位社区商业，服务周边居民，提供全方位的社区型配套商业综合体",
     "annual_sales_unit": "-",
-    "area_size_sqm": 3,
+    "area_size_sqm": 3.0,
     "open_date": "2016-08-27",
     "operator": "旭辉控股（集团）有限公司",
     "brand": "旭辉商业",
@@ -54,26 +54,26 @@
     }
   },
   "business": {
-    "competitors": 3,
-    "food": 204,
-    "shopping": 155,
-    "leisure": 17,
-    "education": 36,
-    "hotel": 40,
-    "services": 148,
-    "fitness": 24,
-    "auto": 6,
-    "total_stores": 110,
-    "old_store_3yr_pct": 45
+    "competitors": 3.0,
+    "food": 204.0,
+    "shopping": 155.0,
+    "leisure": 17.0,
+    "education": 36.0,
+    "hotel": 40.0,
+    "services": 148.0,
+    "fitness": 24.0,
+    "auto": 6.0,
+    "total_stores": 110.0,
+    "old_store_3yr_pct": 45.0
   },
   "nearby_poi": {
-    "business": 7,
-    "community": 857,
-    "office": 75,
-    "school": 67,
-    "hospital": 106,
-    "transport": 10,
-    "scenic": 320
+    "business": 7.0,
+    "community": 857.0,
+    "office": 75.0,
+    "school": 67.0,
+    "hospital": 106.0,
+    "transport": 10.0,
+    "scenic": 320.0
   },
   "demographics": {
     "male_pct": 47.4,
@@ -404,59 +404,59 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 48,
-      "within_1yr_pct": 25,
+      "count": 48.0,
+      "within_1yr_pct": 25.0,
       "1_3yr_pct": 27.1,
       "over_3yr_pct": 47.9
     },
     {
       "type": "购物",
-      "count": 11,
+      "count": 11.0,
       "within_1yr_pct": 18.2,
       "1_3yr_pct": 27.3,
       "over_3yr_pct": 54.5
     },
     {
       "type": "休闲娱乐",
-      "count": 1,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 100
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
     },
     {
       "type": "教育培训",
-      "count": 14,
+      "count": 14.0,
       "within_1yr_pct": 14.3,
-      "1_3yr_pct": 50,
+      "1_3yr_pct": 50.0,
       "over_3yr_pct": 35.7
     },
     {
       "type": "酒店住宿",
-      "count": 10,
-      "within_1yr_pct": 30,
-      "1_3yr_pct": 10,
-      "over_3yr_pct": 60
+      "count": 10.0,
+      "within_1yr_pct": 30.0,
+      "1_3yr_pct": 10.0,
+      "over_3yr_pct": 60.0
     },
     {
       "type": "生活服务",
-      "count": 18,
+      "count": 18.0,
       "within_1yr_pct": 22.2,
       "1_3yr_pct": 38.9,
       "over_3yr_pct": 38.9
     },
     {
       "type": "运动健身",
-      "count": 7,
+      "count": 7.0,
       "within_1yr_pct": 42.9,
       "1_3yr_pct": 42.9,
       "over_3yr_pct": 14.3
     },
     {
       "type": "车辆服务",
-      "count": 1,
-      "within_1yr_pct": 100,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 0
+      "count": 1.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
     }
   ],
   "nearby_communities": [
@@ -1861,7 +1861,7 @@
       "raw": "玉田大楼 户数:100 居住人数:290+ 建筑年份:1996"
     }
   ],
-  "community_count": 200,
   "avg_housing_price": 68437.94,
-  "total_households": 443075
+  "total_households": 443075,
+  "community_count": 200
 }

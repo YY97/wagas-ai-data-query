@@ -29,7 +29,7 @@
     "jun_daily_avg": 4.5,
     "jun_daily_unit": "万人次",
     "jun_daily_rank": "市内商场第79名",
-    "weekday_avg": 4,
+    "weekday_avg": 4.0,
     "weekday_unit": "万人次",
     "weekday_rank": "市内商场第82名",
     "holiday_avg": 5.9,
@@ -54,26 +54,26 @@
     }
   },
   "business": {
-    "competitors": 12,
-    "food": 341,
-    "shopping": 279,
-    "leisure": 35,
-    "education": 30,
-    "hotel": 10,
-    "services": 204,
-    "fitness": 43,
-    "auto": 21,
-    "total_stores": 137,
-    "old_store_3yr_pct": 32
+    "competitors": 12.0,
+    "food": 341.0,
+    "shopping": 279.0,
+    "leisure": 35.0,
+    "education": 30.0,
+    "hotel": 10.0,
+    "services": 204.0,
+    "fitness": 43.0,
+    "auto": 21.0,
+    "total_stores": 137.0,
+    "old_store_3yr_pct": 32.0
   },
   "nearby_poi": {
-    "business": 11,
-    "community": 849,
-    "office": 112,
-    "school": 70,
-    "hospital": 110,
-    "transport": 12,
-    "scenic": 463
+    "business": 11.0,
+    "community": 849.0,
+    "office": 112.0,
+    "school": 70.0,
+    "hospital": 110.0,
+    "transport": 12.0,
+    "scenic": 463.0
   },
   "demographics": {
     "male_pct": 49.9,
@@ -82,7 +82,7 @@
       "小学": 9.2,
       "初中": 18.4,
       "高中": 12.4,
-      "大专": 7,
+      "大专": 7.0,
       "本科": 46.6,
       "硕士": 4.7,
       "博士": 1.7
@@ -378,56 +378,56 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 67,
+      "count": 67.0,
       "within_1yr_pct": 28.4,
       "1_3yr_pct": 41.8,
       "over_3yr_pct": 29.9
     },
     {
       "type": "购物",
-      "count": 21,
+      "count": 21.0,
       "within_1yr_pct": 14.3,
       "1_3yr_pct": 52.4,
       "over_3yr_pct": 33.3
     },
     {
       "type": "休闲娱乐",
-      "count": 13,
+      "count": 13.0,
       "within_1yr_pct": 7.7,
       "1_3yr_pct": 69.2,
       "over_3yr_pct": 23.1
     },
     {
       "type": "教育培训",
-      "count": 2,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 50,
-      "over_3yr_pct": 50
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 50.0
     },
     {
       "type": "酒店住宿",
-      "count": 2,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 50,
-      "over_3yr_pct": 50
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 50.0
     },
     {
       "type": "生活服务",
-      "count": 21,
+      "count": 21.0,
       "within_1yr_pct": 23.8,
       "1_3yr_pct": 28.6,
       "over_3yr_pct": 47.6
     },
     {
       "type": "运动健身",
-      "count": 8,
+      "count": 8.0,
       "within_1yr_pct": 12.5,
-      "1_3yr_pct": 75,
+      "1_3yr_pct": 75.0,
       "over_3yr_pct": 12.5
     },
     {
       "type": "车辆服务",
-      "count": 3,
+      "count": 3.0,
       "within_1yr_pct": 33.3,
       "1_3yr_pct": 33.3,
       "over_3yr_pct": 33.3
@@ -1835,7 +1835,7 @@
       "raw": "昆明路155弄小区 户数:80 居住人数:190+ 建筑年份:1983"
     }
   ],
-  "community_count": 200,
   "avg_housing_price": 70710.31,
-  "total_households": 404290
+  "total_households": 404290,
+  "community_count": 200
 }

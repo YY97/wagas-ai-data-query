@@ -8,7 +8,7 @@
     "score": 88.6,
     "score_rank": "市内前30%",
     "population_score": 96.1,
-    "area_score": 100,
+    "area_score": 100.0,
     "consumption_score": 87.3,
     "industry_score": 88.5,
     "annual_sales": "",
@@ -54,26 +54,26 @@
     }
   },
   "business": {
-    "competitors": 22,
-    "food": 589,
-    "shopping": 561,
-    "leisure": 75,
-    "education": 107,
-    "hotel": 68,
-    "services": 451,
-    "fitness": 59,
-    "auto": 32,
-    "total_stores": 1958,
-    "old_store_3yr_pct": 47
+    "competitors": 22.0,
+    "food": 589.0,
+    "shopping": 561.0,
+    "leisure": 75.0,
+    "education": 107.0,
+    "hotel": 68.0,
+    "services": 451.0,
+    "fitness": 59.0,
+    "auto": 32.0,
+    "total_stores": 1958.0,
+    "old_store_3yr_pct": 47.0
   },
   "nearby_poi": {
-    "business": 15,
-    "community": 1061,
-    "office": 144,
-    "school": 73,
-    "hospital": 150,
-    "transport": 12,
-    "scenic": 366
+    "business": 15.0,
+    "community": 1061.0,
+    "office": 144.0,
+    "school": 73.0,
+    "hospital": 150.0,
+    "transport": 12.0,
+    "scenic": 366.0
   },
   "demographics": {
     "male_pct": 47.4,
@@ -428,57 +428,57 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 589,
+      "count": 589.0,
       "within_1yr_pct": 24.8,
       "1_3yr_pct": 28.9,
       "over_3yr_pct": 46.3
     },
     {
       "type": "购物",
-      "count": 561,
+      "count": 561.0,
       "within_1yr_pct": 20.7,
-      "1_3yr_pct": 21,
+      "1_3yr_pct": 21.0,
       "over_3yr_pct": 58.3
     },
     {
       "type": "休闲娱乐",
-      "count": 91,
+      "count": 91.0,
       "within_1yr_pct": 37.4,
-      "1_3yr_pct": 33,
+      "1_3yr_pct": 33.0,
       "over_3yr_pct": 29.7
     },
     {
       "type": "教育培训",
-      "count": 107,
+      "count": 107.0,
       "within_1yr_pct": 21.5,
-      "1_3yr_pct": 29,
+      "1_3yr_pct": 29.0,
       "over_3yr_pct": 49.5
     },
     {
       "type": "酒店住宿",
-      "count": 68,
+      "count": 68.0,
       "within_1yr_pct": 45.6,
       "1_3yr_pct": 14.7,
       "over_3yr_pct": 39.7
     },
     {
       "type": "生活服务",
-      "count": 451,
+      "count": 451.0,
       "within_1yr_pct": 27.9,
       "1_3yr_pct": 32.6,
       "over_3yr_pct": 39.5
     },
     {
       "type": "运动健身",
-      "count": 59,
+      "count": 59.0,
       "within_1yr_pct": 23.7,
       "1_3yr_pct": 28.8,
       "over_3yr_pct": 47.5
     },
     {
       "type": "车辆服务",
-      "count": 32,
-      "within_1yr_pct": 25,
+      "count": 32.0,
+      "within_1yr_pct": 25.0,
       "1_3yr_pct": 31.3,
       "over_3yr_pct": 43.8
     }
@@ -1885,7 +1885,7 @@
       "raw": "红庄小区 户数:486 居住人数:960+ 建筑年份:1991"
     }
   ],
-  "community_count": 200,
   "avg_housing_price": 100152.27,
-  "total_households": 320543
+  "total_households": 320543,
+  "community_count": 200
 }

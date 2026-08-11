@@ -21,18 +21,18 @@
     "floors": "L1-L4"
   },
   "traffic": {
-    "annual_daily": 3616,
+    "annual_daily": 3616.0,
     "annual_daily_unit": "人次",
     "annual_daily_rank": "市内第409",
-    "jun_total": 13,
+    "jun_total": 13.0,
     "jun_total_rank": "市内商场第449名",
-    "jun_daily_avg": 4344,
+    "jun_daily_avg": 4344.0,
     "jun_daily_unit": "人次",
     "jun_daily_rank": "市内商场第449名",
-    "weekday_avg": 4424,
+    "weekday_avg": 4424.0,
     "weekday_unit": "人次",
     "weekday_rank": "市内商场第440名",
-    "holiday_avg": 4123,
+    "holiday_avg": 4123.0,
     "holiday_unit": "人次",
     "holiday_rank": "市内商场第471名"
   },
@@ -54,26 +54,26 @@
     }
   },
   "business": {
-    "competitors": 19,
-    "food": 411,
-    "shopping": 467,
-    "leisure": 31,
-    "education": 20,
-    "hotel": 68,
-    "services": 239,
-    "fitness": 27,
-    "auto": 31,
-    "total_stores": 28,
-    "old_store_3yr_pct": 50
+    "competitors": 19.0,
+    "food": 411.0,
+    "shopping": 467.0,
+    "leisure": 31.0,
+    "education": 20.0,
+    "hotel": 68.0,
+    "services": 239.0,
+    "fitness": 27.0,
+    "auto": 31.0,
+    "total_stores": 28.0,
+    "old_store_3yr_pct": 50.0
   },
   "nearby_poi": {
-    "business": 36,
-    "community": 1142,
-    "office": 179,
-    "school": 56,
-    "hospital": 227,
-    "transport": 28,
-    "scenic": 954
+    "business": 36.0,
+    "community": 1142.0,
+    "office": 179.0,
+    "school": 56.0,
+    "hospital": 227.0,
+    "transport": 28.0,
+    "scenic": 954.0
   },
   "demographics": {
     "male_pct": 53.2,
@@ -82,9 +82,9 @@
       "小学": 9.3,
       "初中": 16.9,
       "高中": 11.4,
-      "大专": 7,
+      "大专": 7.0,
       "本科": 47.5,
-      "硕士": 6,
+      "硕士": 6.0,
       "博士": 1.9
     },
     "has_children_pct": 60.9,
@@ -428,45 +428,45 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 13,
+      "count": 13.0,
       "within_1yr_pct": 23.1,
       "1_3yr_pct": 30.8,
       "over_3yr_pct": 46.2
     },
     {
       "type": "购物",
-      "count": 6,
-      "within_1yr_pct": 0,
+      "count": 6.0,
+      "within_1yr_pct": 0.0,
       "1_3yr_pct": 33.3,
       "over_3yr_pct": 66.7
     },
     {
       "type": "休闲娱乐",
-      "count": 2,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 50,
-      "over_3yr_pct": 50
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 50.0
     },
     {
       "type": "生活服务",
-      "count": 2,
-      "within_1yr_pct": 50,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 50
+      "count": 2.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 50.0
     },
     {
       "type": "运动健身",
-      "count": 3,
+      "count": 3.0,
       "within_1yr_pct": 33.3,
-      "1_3yr_pct": 0,
+      "1_3yr_pct": 0.0,
       "over_3yr_pct": 66.7
     },
     {
       "type": "车辆服务",
-      "count": 2,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 100,
-      "over_3yr_pct": 0
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
     }
   ],
   "nearby_communities": [
@@ -1871,7 +1871,7 @@
       "raw": "中福城-三期 户数:1157 居住人数:670+ 建筑年份:2005"
     }
   ],
-  "community_count": 200,
   "avg_housing_price": 107892.7,
-  "total_households": 265417
+  "total_households": 265417,
+  "community_count": 200
 }

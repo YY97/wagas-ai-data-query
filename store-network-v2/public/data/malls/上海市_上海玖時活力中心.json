@@ -7,13 +7,13 @@
   "overview": {
     "score": 84.3,
     "score_rank": "市内前30%",
-    "population_score": 100,
+    "population_score": 100.0,
     "area_score": 87.8,
     "consumption_score": 86.2,
     "industry_score": 84.2,
     "annual_sales": "玖時活力中心集商业零售、餐饮、超市、休闲于一体的城市型\\\"小世界\\\"，致力于打造城市新客厅＆集合邻里中心，与周边地块形成联动，提升邻里中心的体验感",
     "annual_sales_unit": "-",
-    "area_size_sqm": 2,
+    "area_size_sqm": 2.0,
     "open_date": "2021-12-31",
     "operator": "上海久事（集团）有限公司",
     "brand": "",
@@ -26,13 +26,13 @@
     "annual_daily_rank": "",
     "jun_total": 24.4,
     "jun_total_rank": "市内商场第348名",
-    "jun_daily_avg": 8124,
+    "jun_daily_avg": 8124.0,
     "jun_daily_unit": "人次",
     "jun_daily_rank": "市内商场第348名",
-    "weekday_avg": 7814,
+    "weekday_avg": 7814.0,
     "weekday_unit": "人次",
     "weekday_rank": "市内商场第350名",
-    "holiday_avg": 8979,
+    "holiday_avg": 8979.0,
     "holiday_unit": "人次",
     "holiday_rank": "市内商场第346名"
   },
@@ -54,26 +54,26 @@
     }
   },
   "business": {
-    "competitors": 4,
-    "food": 226,
-    "shopping": 213,
-    "leisure": 23,
-    "education": 32,
-    "hotel": 108,
-    "services": 191,
-    "fitness": 49,
-    "auto": 17,
-    "total_stores": 48,
-    "old_store_3yr_pct": 63
+    "competitors": 4.0,
+    "food": 226.0,
+    "shopping": 213.0,
+    "leisure": 23.0,
+    "education": 32.0,
+    "hotel": 108.0,
+    "services": 191.0,
+    "fitness": 49.0,
+    "auto": 17.0,
+    "total_stores": 48.0,
+    "old_store_3yr_pct": 63.0
   },
   "nearby_poi": {
-    "business": 5,
-    "community": 1111,
-    "office": 122,
-    "school": 81,
-    "hospital": 166,
-    "transport": 15,
-    "scenic": 647
+    "business": 5.0,
+    "community": 1111.0,
+    "office": 122.0,
+    "school": 81.0,
+    "hospital": 166.0,
+    "transport": 15.0,
+    "scenic": 647.0
   },
   "demographics": {
     "male_pct": 42.6,
@@ -83,7 +83,7 @@
       "初中": 15.9,
       "高中": 11.5,
       "大专": 6.7,
-      "本科": 49,
+      "本科": 49.0,
       "硕士": 6.6,
       "博士": 1.9
     },
@@ -388,43 +388,43 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 22,
+      "count": 22.0,
       "within_1yr_pct": 9.1,
       "1_3yr_pct": 13.6,
       "over_3yr_pct": 77.3
     },
     {
       "type": "购物",
-      "count": 8,
+      "count": 8.0,
       "within_1yr_pct": 37.5,
       "1_3yr_pct": 12.5,
-      "over_3yr_pct": 50
+      "over_3yr_pct": 50.0
     },
     {
       "type": "休闲娱乐",
-      "count": 1,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 100,
-      "over_3yr_pct": 0
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
     },
     {
       "type": "教育培训",
-      "count": 5,
-      "within_1yr_pct": 20,
-      "1_3yr_pct": 20,
-      "over_3yr_pct": 60
+      "count": 5.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 20.0,
+      "over_3yr_pct": 60.0
     },
     {
       "type": "生活服务",
-      "count": 6,
+      "count": 6.0,
       "within_1yr_pct": 16.7,
       "1_3yr_pct": 16.7,
       "over_3yr_pct": 66.7
     },
     {
       "type": "运动健身",
-      "count": 6,
-      "within_1yr_pct": 50,
+      "count": 6.0,
+      "within_1yr_pct": 50.0,
       "1_3yr_pct": 16.7,
       "over_3yr_pct": 33.3
     }
@@ -1831,7 +1831,7 @@
       "raw": "莱兴公寓 户数:160 居住人数:230+ 建筑年份:1996"
     }
   ],
-  "community_count": 200,
   "avg_housing_price": 110657.6,
-  "total_households": 280937
+  "total_households": 280937,
+  "community_count": 200
 }
