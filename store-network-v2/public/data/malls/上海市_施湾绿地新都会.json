@@ -48,32 +48,32 @@
       "3km": 43.1
     },
     "permanent": {
-      "500m": 3,
+      "500m": 3.0,
       "1_5km": 18.9,
-      "3km": 54
+      "3km": 54.0
     }
   },
   "business": {
-    "competitors": 7,
-    "food": 378,
-    "shopping": 289,
-    "leisure": 65,
-    "education": 70,
-    "hotel": 37,
-    "services": 274,
-    "fitness": 40,
-    "auto": 36,
-    "total_stores": 11,
-    "old_store_3yr_pct": 73
+    "competitors": 7.0,
+    "food": 378.0,
+    "shopping": 289.0,
+    "leisure": 65.0,
+    "education": 70.0,
+    "hotel": 37.0,
+    "services": 274.0,
+    "fitness": 40.0,
+    "auto": 36.0,
+    "total_stores": 11.0,
+    "old_store_3yr_pct": 73.0
   },
   "nearby_poi": {
-    "business": 8,
-    "community": 416,
-    "office": 80,
-    "school": 32,
-    "hospital": 45,
-    "transport": 12,
-    "scenic": 204
+    "business": 8.0,
+    "community": 416.0,
+    "office": 80.0,
+    "school": 32.0,
+    "hospital": 45.0,
+    "transport": 12.0,
+    "scenic": 204.0
   },
   "demographics": {
     "male_pct": 50.2,
@@ -82,7 +82,7 @@
       "小学": 9.4,
       "初中": 18.2,
       "高中": 11.4,
-      "大专": 8,
+      "大专": 8.0,
       "本科": 47.1,
       "硕士": 4.7,
       "博士": 1.2
@@ -96,447 +96,45 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 4,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 100
+      "count": 4.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
     },
     {
       "type": "购物",
-      "count": 2,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 100
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
     },
     {
       "type": "休闲娱乐",
-      "count": 1,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 100,
-      "over_3yr_pct": 0
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
     },
     {
       "type": "酒店住宿",
-      "count": 2,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 50,
-      "over_3yr_pct": 50
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 50.0
     },
     {
       "type": "生活服务",
-      "count": 1,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 100
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
     },
     {
       "type": "车辆服务",
-      "count": 1,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 100,
-      "over_3yr_pct": 0
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
     }
-  ],
-  "nearby_communities": [
-    {
-      "name": "施新路773弄",
-      "households": 47,
-      "residents": "360+",
-      "year": "1998",
-      "raw": "施新路773弄 户数:47 居住人数:360+ 建筑年份:1998"
-    },
-    {
-      "name": "施湾家园北区",
-      "households": 1824,
-      "residents": "1427",
-      "year": "2007",
-      "raw": "施湾家园北区 户数:1824 居住人数:1427 建筑年份:2007"
-    },
-    {
-      "name": "川南奉公路3424弄小区",
-      "households": 120,
-      "residents": "550+",
-      "year": "1998",
-      "raw": "川南奉公路3424弄小区 户数:120 居住人数:550+ 建筑年份:1998"
-    },
-    {
-      "name": "施宏公寓",
-      "households": 72,
-      "residents": "250+",
-      "year": "-",
-      "raw": "施宏公寓 户数:72 居住人数:250+ 建筑年份:-"
-    },
-    {
-      "name": "施镇公寓",
-      "households": 528,
-      "residents": "1543",
-      "year": "2013",
-      "raw": "施镇公寓 户数:528 居住人数:1543 建筑年份:2013"
-    },
-    {
-      "name": "施湾家园南区",
-      "households": 1015,
-      "residents": "2468",
-      "year": "-",
-      "raw": "施湾家园南区 户数:1015 居住人数:2468 建筑年份:-"
-    },
-    {
-      "name": "思凡花苑-一街坊",
-      "households": 970,
-      "residents": "2266",
-      "year": "1997",
-      "raw": "思凡花苑-一街坊 户数:970 居住人数:2266 建筑年份:1997"
-    },
-    {
-      "name": "恒纬家苑",
-      "households": 656,
-      "residents": "1719",
-      "year": "2009",
-      "raw": "恒纬家苑 户数:656 居住人数:1719 建筑年份:2009"
-    },
-    {
-      "name": "航城园",
-      "households": 421,
-      "residents": "1707",
-      "year": "2003",
-      "raw": "航城园 户数:421 居住人数:1707 建筑年份:2003"
-    },
-    {
-      "name": "金湾佳园",
-      "households": 1092,
-      "residents": "2734",
-      "year": "2007",
-      "raw": "金湾佳园 户数:1092 居住人数:2734 建筑年份:2007"
-    },
-    {
-      "name": "思凡馨苑-东区",
-      "households": 510,
-      "residents": "1042",
-      "year": "-",
-      "raw": "思凡馨苑-东区 户数:510 居住人数:1042 建筑年份:-"
-    },
-    {
-      "name": "施湾社区",
-      "households": 275,
-      "residents": null,
-      "year": "-",
-      "raw": "施湾社区 户数:275 居住人数:小于100 建筑年份:-"
-    },
-    {
-      "name": "东亚启航公馆",
-      "households": 686,
-      "residents": "1621",
-      "year": "2018",
-      "raw": "东亚启航公馆 户数:686 居住人数:1621 建筑年份:2018"
-    },
-    {
-      "name": "思凡花苑-二街坊",
-      "households": 824,
-      "residents": "2394",
-      "year": "1997",
-      "raw": "思凡花苑-二街坊 户数:824 居住人数:2394 建筑年份:1997"
-    },
-    {
-      "name": "盛世联弈苑",
-      "households": 1249,
-      "residents": "3039",
-      "year": "2009",
-      "raw": "盛世联弈苑 户数:1249 居住人数:3039 建筑年份:2009"
-    },
-    {
-      "name": "施宏小区",
-      "households": 139,
-      "residents": "580+",
-      "year": "2008",
-      "raw": "施宏小区 户数:139 居住人数:580+ 建筑年份:2008"
-    },
-    {
-      "name": "同悦湾华庭-南区",
-      "households": 124,
-      "residents": "850+",
-      "year": "2017",
-      "raw": "同悦湾华庭-南区 户数:124 居住人数:850+ 建筑年份:2017"
-    },
-    {
-      "name": "思凡馨苑-西区",
-      "households": 654,
-      "residents": "1805",
-      "year": "2005",
-      "raw": "思凡馨苑-西区 户数:654 居住人数:1805 建筑年份:2005"
-    },
-    {
-      "name": "同济东时区",
-      "households": 382,
-      "residents": "100+",
-      "year": "-",
-      "raw": "同济东时区 户数:382 居住人数:100+ 建筑年份:-"
-    },
-    {
-      "name": "思凡南苑东区",
-      "households": 677,
-      "residents": "1491",
-      "year": "2007",
-      "raw": "思凡南苑东区 户数:677 居住人数:1491 建筑年份:2007"
-    },
-    {
-      "name": "同悦湾华庭-北区",
-      "households": 236,
-      "residents": "1777",
-      "year": "2017",
-      "raw": "同悦湾华庭-北区 户数:236 居住人数:1777 建筑年份:2017-11"
-    },
-    {
-      "name": "思凡花苑-六号街坊",
-      "households": 712,
-      "residents": "1811",
-      "year": "1998",
-      "raw": "思凡花苑-六号街坊 户数:712 居住人数:1811 建筑年份:1998"
-    },
-    {
-      "name": "思凡花苑-三号街坊",
-      "households": 324,
-      "residents": "750+",
-      "year": "1997",
-      "raw": "思凡花苑-三号街坊 户数:324 居住人数:750+ 建筑年份:1997"
-    },
-    {
-      "name": "思凡南苑-西区",
-      "households": 749,
-      "residents": "1701",
-      "year": "2007",
-      "raw": "思凡南苑-西区 户数:749 居住人数:1701 建筑年份:2007"
-    },
-    {
-      "name": "金顺佳苑",
-      "households": 764,
-      "residents": "1262",
-      "year": "2009",
-      "raw": "金顺佳苑 户数:764 居住人数:1262 建筑年份:2009"
-    },
-    {
-      "name": "鑫唐绿波庭",
-      "households": 900,
-      "residents": "1971",
-      "year": "2009",
-      "raw": "鑫唐绿波庭 户数:900 居住人数:1971 建筑年份:2009"
-    },
-    {
-      "name": "供销四村",
-      "households": 187,
-      "residents": "150+",
-      "year": "-",
-      "raw": "供销四村 户数:187 居住人数:150+ 建筑年份:-"
-    },
-    {
-      "name": "闻居苑",
-      "households": 412,
-      "residents": "230+",
-      "year": "-",
-      "raw": "闻居苑 户数:412 居住人数:230+ 建筑年份:-"
-    },
-    {
-      "name": "湾镇新村",
-      "households": 1489,
-      "residents": "1090",
-      "year": "-",
-      "raw": "湾镇新村 户数:1489 居住人数:1090 建筑年份:-"
-    },
-    {
-      "name": "祝安苑",
-      "households": 2196,
-      "residents": "7175",
-      "year": "2012",
-      "raw": "祝安苑 户数:2196 居住人数:7175 建筑年份:2012"
-    },
-    {
-      "name": "祝康苑",
-      "households": 477,
-      "residents": "1170",
-      "year": "-",
-      "raw": "祝康苑 户数:477 居住人数:1170 建筑年份:-"
-    },
-    {
-      "name": "祝祥苑",
-      "households": 2268,
-      "residents": "4390",
-      "year": "2013",
-      "raw": "祝祥苑 户数:2268 居住人数:4390 建筑年份:2013"
-    },
-    {
-      "name": "储店民沁园",
-      "households": 77,
-      "residents": null,
-      "year": "-",
-      "raw": "储店民沁园 户数:77 居住人数:小于100 建筑年份:-"
-    },
-    {
-      "name": "中国国际航空公司-飞行员公寓",
-      "households": 180,
-      "residents": "240+",
-      "year": "-",
-      "raw": "中国国际航空公司-飞行员公寓 户数:180 居住人数:240+ 建筑年份:-"
-    },
-    {
-      "name": "东方航空公司-机组公寓",
-      "households": 535,
-      "residents": null,
-      "year": "-",
-      "raw": "东方航空公司-机组公寓 户数:535 居住人数:小于100 建筑年份:-"
-    },
-    {
-      "name": "百顺苑",
-      "households": 845,
-      "residents": "420+",
-      "year": "-",
-      "raw": "百顺苑 户数:845 居住人数:420+ 建筑年份:-"
-    },
-    {
-      "name": "祝顺苑-北区",
-      "households": 551,
-      "residents": "1047",
-      "year": "-",
-      "raw": "祝顺苑-北区 户数:551 居住人数:1047 建筑年份:-"
-    },
-    {
-      "name": "锦绣东郊B区",
-      "households": 868,
-      "residents": "310+",
-      "year": "-",
-      "raw": "锦绣东郊B区 户数:868 居住人数:310+ 建筑年份:-"
-    },
-    {
-      "name": "百欣苑",
-      "households": 936,
-      "residents": "2729",
-      "year": "2005",
-      "raw": "百欣苑 户数:936 居住人数:2729 建筑年份:2005"
-    },
-    {
-      "name": "祝桥社区",
-      "households": 91,
-      "residents": null,
-      "year": "-",
-      "raw": "祝桥社区 户数:91 居住人数:小于100 建筑年份:-"
-    },
-    {
-      "name": "东航浦东公寓K4",
-      "households": 134,
-      "residents": "130+",
-      "year": "-",
-      "raw": "东航浦东公寓K4 户数:134 居住人数:130+ 建筑年份:-"
-    },
-    {
-      "name": "普陀新村",
-      "households": 248,
-      "residents": "1017",
-      "year": "2000",
-      "raw": "普陀新村 户数:248 居住人数:1017 建筑年份:2000"
-    },
-    {
-      "name": "海霞佳苑",
-      "households": 1410,
-      "residents": "3392",
-      "year": "2008",
-      "raw": "海霞佳苑 户数:1410 居住人数:3392 建筑年份:2008"
-    },
-    {
-      "name": "龙馨茗园",
-      "households": 47,
-      "residents": "110+",
-      "year": "-",
-      "raw": "龙馨茗园 户数:47 居住人数:110+ 建筑年份:-"
-    },
-    {
-      "name": "祝和苑-北区",
-      "households": 2641,
-      "residents": "4073",
-      "year": "2009",
-      "raw": "祝和苑-北区 户数:2641 居住人数:4073 建筑年份:2009"
-    },
-    {
-      "name": "祝和苑-南区",
-      "households": 3083,
-      "residents": "5003",
-      "year": "2009",
-      "raw": "祝和苑-南区 户数:3083 居住人数:5003 建筑年份:2009"
-    },
-    {
-      "name": "祝顺苑-南区",
-      "households": 2020,
-      "residents": "4244",
-      "year": "2021",
-      "raw": "祝顺苑-南区 户数:2020 居住人数:4244 建筑年份:2021-12"
-    },
-    {
-      "name": "锦绣东郊A区",
-      "households": 625,
-      "residents": "270+",
-      "year": "-",
-      "raw": "锦绣东郊A区 户数:625 居住人数:270+ 建筑年份:-"
-    },
-    {
-      "name": "江邻公寓",
-      "households": 20,
-      "residents": "240+",
-      "year": "-",
-      "raw": "江邻公寓 户数:20 居住人数:240+ 建筑年份:-"
-    },
-    {
-      "name": "海霞新苑",
-      "households": 965,
-      "residents": "1853",
-      "year": "2014",
-      "raw": "海霞新苑 户数:965 居住人数:1853 建筑年份:2014"
-    },
-    {
-      "name": "渔民新村小区",
-      "households": 251,
-      "residents": "260+",
-      "year": "-",
-      "raw": "渔民新村小区 户数:251 居住人数:260+ 建筑年份:-"
-    },
-    {
-      "name": "江绣苑",
-      "households": 828,
-      "residents": "1671",
-      "year": "2014",
-      "raw": "江绣苑 户数:828 居住人数:1671 建筑年份:2014"
-    },
-    {
-      "name": "普园路34弄小区",
-      "households": 162,
-      "residents": "380+",
-      "year": "1995",
-      "raw": "普园路34弄小区 户数:162 居住人数:380+ 建筑年份:1995"
-    },
-    {
-      "name": "天竹新村",
-      "households": 128,
-      "residents": "660+",
-      "year": "1995",
-      "raw": "天竹新村 户数:128 居住人数:660+ 建筑年份:1995"
-    },
-    {
-      "name": "大华锦绣东郊-C区",
-      "households": 583,
-      "residents": "310+",
-      "year": "-",
-      "raw": "大华锦绣东郊-C区 户数:583 居住人数:310+ 建筑年份:-"
-    },
-    {
-      "name": "祝康南苑",
-      "households": 1814,
-      "residents": "3747",
-      "year": "2018",
-      "raw": "祝康南苑 户数:1814 居住人数:3747 建筑年份:2018"
-    },
-    {
-      "name": "优安天地(西区)",
-      "households": 1518,
-      "residents": null,
-      "year": "-",
-      "raw": "优安天地(西区) 户数:1518 居住人数:小于100 建筑年份:-"
-    }
-  ],
-  "community_count": 57
+  ]
 }

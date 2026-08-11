@@ -9,11 +9,11 @@
     "score_rank": "市内前30%",
     "population_score": 62.8,
     "area_score": 67.8,
-    "consumption_score": 60,
+    "consumption_score": 60.0,
     "industry_score": 91.8,
     "annual_sales": "5",
     "annual_sales_unit": "亿元",
-    "area_size_sqm": 16,
+    "area_size_sqm": 16.0,
     "open_date": "2020-12-28",
     "operator": "珠海万达商业管理集团股份有限公司",
     "brand": "万达",
@@ -38,42 +38,42 @@
   },
   "population": {
     "residential": {
-      "500m": 1400,
+      "500m": 1400.0,
       "1_5km": 2.5,
       "3km": 11.6
     },
     "office": {
-      "500m": 2500,
-      "1_5km": 9800,
+      "500m": 2500.0,
+      "1_5km": 9800.0,
       "3km": 3.9
     },
     "permanent": {
-      "500m": 4000,
+      "500m": 4000.0,
       "1_5km": 2.2,
       "3km": 10.7
     }
   },
   "business": {
-    "competitors": 3,
-    "food": 63,
-    "shopping": 80,
-    "leisure": 24,
+    "competitors": 3.0,
+    "food": 63.0,
+    "shopping": 80.0,
+    "leisure": 24.0,
     "education": null,
-    "hotel": 4,
-    "services": 14,
-    "fitness": 8,
-    "auto": 11,
-    "total_stores": 181,
-    "old_store_3yr_pct": 56
+    "hotel": 4.0,
+    "services": 14.0,
+    "fitness": 8.0,
+    "auto": 11.0,
+    "total_stores": 181.0,
+    "old_store_3yr_pct": 56.0
   },
   "nearby_poi": {
     "business": null,
-    "community": 52,
-    "office": 1,
-    "school": 7,
-    "hospital": 28,
-    "transport": 5,
-    "scenic": 15
+    "community": 52.0,
+    "office": 1.0,
+    "school": 7.0,
+    "hospital": 28.0,
+    "transport": 5.0,
+    "scenic": 15.0
   },
   "demographics": {
     "male_pct": 50.4,
@@ -85,7 +85,7 @@
       "大专": 8.5,
       "本科": 43.5,
       "硕士": 3.6,
-      "博士": 1
+      "博士": 1.0
     },
     "has_children_pct": 67.4,
     "no_children_pct": 32.6
@@ -112,419 +112,52 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 57,
+      "count": 57.0,
       "within_1yr_pct": 15.8,
       "1_3yr_pct": 22.8,
       "over_3yr_pct": 61.4
     },
     {
       "type": "购物",
-      "count": 75,
+      "count": 75.0,
       "within_1yr_pct": 13.3,
       "1_3yr_pct": 29.3,
       "over_3yr_pct": 57.3
     },
     {
       "type": "休闲娱乐",
-      "count": 21,
+      "count": 21.0,
       "within_1yr_pct": 28.6,
       "1_3yr_pct": 23.8,
       "over_3yr_pct": 47.6
     },
     {
       "type": "酒店住宿",
-      "count": 2,
-      "within_1yr_pct": 50,
-      "1_3yr_pct": 50,
-      "over_3yr_pct": 0
+      "count": 2.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 0.0
     },
     {
       "type": "生活服务",
-      "count": 11,
+      "count": 11.0,
       "within_1yr_pct": 45.5,
       "1_3yr_pct": 18.2,
       "over_3yr_pct": 36.4
     },
     {
       "type": "运动健身",
-      "count": 6,
+      "count": 6.0,
       "within_1yr_pct": 16.7,
       "1_3yr_pct": 16.7,
       "over_3yr_pct": 66.7
     },
     {
       "type": "车辆服务",
-      "count": 9,
+      "count": 9.0,
       "within_1yr_pct": 11.1,
       "1_3yr_pct": 33.3,
       "over_3yr_pct": 55.6
     }
-  ],
-  "nearby_communities": [
-    {
-      "name": "乐多港假日广场",
-      "households": 5768,
-      "residents": "590+",
-      "year": "-",
-      "raw": "乐多港假日广场 户数:5768 居住人数:590+ 建筑年份:-"
-    },
-    {
-      "name": "新汇园",
-      "households": 127,
-      "residents": "620+",
-      "year": "1990",
-      "raw": "新汇园 户数:127 居住人数:620+ 建筑年份:1990"
-    },
-    {
-      "name": "胧月公寓",
-      "households": 19,
-      "residents": null,
-      "year": "-",
-      "raw": "胧月公寓 户数:19 居住人数:小于100 建筑年份:-"
-    },
-    {
-      "name": "金研公寓",
-      "households": 30,
-      "residents": "240+",
-      "year": "-",
-      "raw": "金研公寓 户数:30 居住人数:240+ 建筑年份:-"
-    },
-    {
-      "name": "北京湾",
-      "households": 231,
-      "residents": "710+",
-      "year": "2012",
-      "raw": "北京湾 户数:231 居住人数:710+ 建筑年份:2012"
-    },
-    {
-      "name": "祥园小区",
-      "households": 39,
-      "residents": "140+",
-      "year": "-",
-      "raw": "祥园小区 户数:39 居住人数:140+ 建筑年份:-"
-    },
-    {
-      "name": "绿海家园",
-      "households": 1220,
-      "residents": "3029",
-      "year": "-",
-      "raw": "绿海家园 户数:1220 居住人数:3029 建筑年份:-"
-    },
-    {
-      "name": "创业庭院公寓",
-      "households": null,
-      "residents": null,
-      "year": "-",
-      "raw": "创业庭院公寓 建筑年份:- 北京市昌平区G7京新高速北100米"
-    },
-    {
-      "name": "创客公寓",
-      "households": null,
-      "residents": null,
-      "year": "-",
-      "raw": "创客公寓 建筑年份:- 北京市昌平区涧头村涧头路90号"
-    },
-    {
-      "name": "林场宿舍",
-      "households": 160,
-      "residents": "310+",
-      "year": "1992",
-      "raw": "林场宿舍 户数:160 居住人数:310+ 建筑年份:1992"
-    },
-    {
-      "name": "秋实家园",
-      "households": 431,
-      "residents": "1046",
-      "year": "2002",
-      "raw": "秋实家园 户数:431 居住人数:1046 建筑年份:2002"
-    },
-    {
-      "name": "拉斐水岸",
-      "households": 5,
-      "residents": null,
-      "year": "-",
-      "raw": "拉斐水岸 户数:5 居住人数:小于100 建筑年份:-"
-    },
-    {
-      "name": "郝庄家园-北区",
-      "households": 747,
-      "residents": "2221",
-      "year": "1994",
-      "raw": "郝庄家园-北区 户数:747 居住人数:2221 建筑年份:1994"
-    },
-    {
-      "name": "吉祥屋公寓",
-      "households": 6,
-      "residents": "110+",
-      "year": "-",
-      "raw": "吉祥屋公寓 户数:6 居住人数:110+ 建筑年份:-"
-    },
-    {
-      "name": "伊舍小镇-北区",
-      "households": 616,
-      "residents": "1283",
-      "year": "2011",
-      "raw": "伊舍小镇-北区 户数:616 居住人数:1283 建筑年份:2011"
-    },
-    {
-      "name": "西关环岛甲1号院",
-      "households": 118,
-      "residents": "160+",
-      "year": "-",
-      "raw": "西关环岛甲1号院 户数:118 居住人数:160+ 建筑年份:-"
-    },
-    {
-      "name": "胜利嘉园",
-      "households": 336,
-      "residents": "700+",
-      "year": "2003",
-      "raw": "胜利嘉园 户数:336 居住人数:700+ 建筑年份:2003"
-    },
-    {
-      "name": "润泽玉苑",
-      "households": 426,
-      "residents": "330+",
-      "year": "-",
-      "raw": "润泽玉苑 户数:426 居住人数:330+ 建筑年份:-"
-    },
-    {
-      "name": "西关大宅",
-      "households": 59,
-      "residents": null,
-      "year": "-",
-      "raw": "西关大宅 户数:59 居住人数:小于100 建筑年份:-"
-    },
-    {
-      "name": "国华泰龙庄园1号院",
-      "households": 118,
-      "residents": null,
-      "year": "-",
-      "raw": "国华泰龙庄园1号院 户数:118 居住人数:小于100 建筑年份:-"
-    },
-    {
-      "name": "西关小区",
-      "households": 812,
-      "residents": "3376",
-      "year": "-",
-      "raw": "西关小区 户数:812 居住人数:3376 建筑年份:-"
-    },
-    {
-      "name": "郝庄家园-西区",
-      "households": 770,
-      "residents": "1724",
-      "year": "2001",
-      "raw": "郝庄家园-西区 户数:770 居住人数:1724 建筑年份:2001"
-    },
-    {
-      "name": "大三尖",
-      "households": 180,
-      "residents": "670+",
-      "year": "1996",
-      "raw": "大三尖 户数:180 居住人数:670+ 建筑年份:1996"
-    },
-    {
-      "name": "新郝家园",
-      "households": 451,
-      "residents": "1559",
-      "year": "2005",
-      "raw": "新郝家园 户数:451 居住人数:1559 建筑年份:2005"
-    },
-    {
-      "name": "伊舍小镇-南区",
-      "households": 989,
-      "residents": "2597",
-      "year": "2011",
-      "raw": "伊舍小镇-南区 户数:989 居住人数:2597 建筑年份:2011"
-    },
-    {
-      "name": "郝庄家园-南区",
-      "households": 408,
-      "residents": "2182",
-      "year": "2001",
-      "raw": "郝庄家园-南区 户数:408 居住人数:2182 建筑年份:2001"
-    },
-    {
-      "name": "国家物资储备局直属处家属院",
-      "households": 36,
-      "residents": null,
-      "year": "1996",
-      "raw": "国家物资储备局直属处家属院 户数:36 居住人数:小于100 建筑年份:1996"
-    },
-    {
-      "name": "西环里",
-      "households": 3110,
-      "residents": "9327",
-      "year": "2000",
-      "raw": "西环里 户数:3110 居住人数:9327 建筑年份:2000"
-    },
-    {
-      "name": "燕大宿舍",
-      "households": 165,
-      "residents": null,
-      "year": "1998",
-      "raw": "燕大宿舍 户数:165 居住人数:小于100 建筑年份:1998"
-    },
-    {
-      "name": "西关乡镇经委宿舍",
-      "households": 60,
-      "residents": "130+",
-      "year": "1995",
-      "raw": "西关乡镇经委宿舍 户数:60 居住人数:130+ 建筑年份:1995"
-    },
-    {
-      "name": "静心苑(东区)",
-      "households": 205,
-      "residents": "890+",
-      "year": "-",
-      "raw": "静心苑(东区) 户数:205 居住人数:890+ 建筑年份:-"
-    },
-    {
-      "name": "西关北路小区",
-      "households": 586,
-      "residents": "2013",
-      "year": "2000",
-      "raw": "西关北路小区 户数:586 居住人数:2013 建筑年份:2000"
-    },
-    {
-      "name": "郝庄家园南区-南郝庄回迁楼",
-      "households": 306,
-      "residents": "710+",
-      "year": "2001",
-      "raw": "郝庄家园南区-南郝庄回迁楼 户数:306 居住人数:710+ 建筑年份:2001"
-    },
-    {
-      "name": "大都公寓",
-      "households": 6,
-      "residents": null,
-      "year": "-",
-      "raw": "大都公寓 户数:6 居住人数:小于100 建筑年份:-"
-    },
-    {
-      "name": "永宁大院",
-      "households": 25,
-      "residents": null,
-      "year": "-",
-      "raw": "永宁大院 户数:25 居住人数:小于100 建筑年份:-"
-    },
-    {
-      "name": "祥和家园公寓",
-      "households": 40,
-      "residents": null,
-      "year": "-",
-      "raw": "祥和家园公寓 户数:40 居住人数:小于100 建筑年份:-"
-    },
-    {
-      "name": "琥珀郡",
-      "households": 1402,
-      "residents": "1450",
-      "year": "2012",
-      "raw": "琥珀郡 户数:1402 居住人数:1450 建筑年份:2012"
-    },
-    {
-      "name": "御路园北区",
-      "households": 1847,
-      "residents": "2714",
-      "year": "2004",
-      "raw": "御路园北区 户数:1847 居住人数:2714 建筑年份:2004"
-    },
-    {
-      "name": "西环里-西区",
-      "households": 75,
-      "residents": "200+",
-      "year": "-",
-      "raw": "西环里-西区 户数:75 居住人数:200+ 建筑年份:-"
-    },
-    {
-      "name": "昌平华尔森住宅小区",
-      "households": 240,
-      "residents": "870+",
-      "year": "1981",
-      "raw": "昌平华尔森住宅小区 户数:240 居住人数:870+ 建筑年份:1981"
-    },
-    {
-      "name": "灰厂路",
-      "households": 85,
-      "residents": "170+",
-      "year": "1984",
-      "raw": "灰厂路 户数:85 居住人数:170+ 建筑年份:1984"
-    },
-    {
-      "name": "建明里",
-      "households": 1820,
-      "residents": "3925",
-      "year": "1994",
-      "raw": "建明里 户数:1820 居住人数:3925 建筑年份:1994"
-    },
-    {
-      "name": "二建宿舍",
-      "households": 54,
-      "residents": "190+",
-      "year": "1993",
-      "raw": "二建宿舍 户数:54 居住人数:190+ 建筑年份:1993"
-    },
-    {
-      "name": "峥仁公寓",
-      "households": 50,
-      "residents": "160+",
-      "year": "2008",
-      "raw": "峥仁公寓 户数:50 居住人数:160+ 建筑年份:2008"
-    },
-    {
-      "name": "乐家公寓",
-      "households": 46,
-      "residents": "350+",
-      "year": "-",
-      "raw": "乐家公寓 户数:46 居住人数:350+ 建筑年份:-"
-    },
-    {
-      "name": "御路园中区",
-      "households": 112,
-      "residents": "450+",
-      "year": "-",
-      "raw": "御路园中区 户数:112 居住人数:450+ 建筑年份:-"
-    },
-    {
-      "name": "西环里-北区",
-      "households": 478,
-      "residents": "2160",
-      "year": "-",
-      "raw": "西环里-北区 户数:478 居住人数:2160 建筑年份:-"
-    },
-    {
-      "name": "奤夿屯新区",
-      "households": 2510,
-      "residents": "6455",
-      "year": "2015",
-      "raw": "奤夿屯新区 户数:2510 居住人数:6455 建筑年份:2015"
-    },
-    {
-      "name": "槐树巷小区",
-      "households": 76,
-      "residents": "810+",
-      "year": "-",
-      "raw": "槐树巷小区 户数:76 居住人数:810+ 建筑年份:-"
-    },
-    {
-      "name": "红杉公寓",
-      "households": 37,
-      "residents": "250+",
-      "year": "-",
-      "raw": "红杉公寓 户数:37 居住人数:250+ 建筑年份:-"
-    },
-    {
-      "name": "鑫基家园",
-      "households": 462,
-      "residents": "930+",
-      "year": "2010",
-      "raw": "鑫基家园 户数:462 居住人数:930+ 建筑年份:2010"
-    },
-    {
-      "name": "珺璟家园",
-      "households": 318,
-      "residents": "1206",
-      "year": "2003",
-      "raw": "珺璟家园 户数:318 居住人数:1206 建筑年份:2003"
-    }
-  ],
-  "community_count": 52
+  ]
 }

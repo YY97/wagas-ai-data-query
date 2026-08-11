@@ -10,10 +10,10 @@
     "population_score": 88.9,
     "area_score": 64.8,
     "consumption_score": 81.8,
-    "industry_score": 84,
+    "industry_score": 84.0,
     "annual_sales": "上海金地·喜悦荟Oopcity作为上海徐汇区的城市更新社区商业项目，其设计灵感来源于西班牙童话故事“云朵工厂”，呈现具有互动参与感和趣味创意性的商业空间。同时围绕“悦生活，在一起”的主题，旨在塑造集品质、体验和视觉享受于一体的、具有“惊喜感”的全新社区商业形态，汇聚众多优质及知名品牌，为消费者创造“有趣、新鲜、活力”的全新生活方式，焕新城市“一公里生活圈”",
     "annual_sales_unit": "-",
-    "area_size_sqm": 2,
+    "area_size_sqm": 2.0,
     "open_date": "2020-12-01",
     "operator": "金地商置集团有限公司",
     "brand": "",
@@ -26,13 +26,13 @@
     "annual_daily_rank": "",
     "jun_total": 25.6,
     "jun_total_rank": "市内商场第341名",
-    "jun_daily_avg": 8538,
+    "jun_daily_avg": 8538.0,
     "jun_daily_unit": "人次",
     "jun_daily_rank": "市内商场第341名",
-    "weekday_avg": 8230,
+    "weekday_avg": 8230.0,
     "weekday_unit": "人次",
     "weekday_rank": "市内商场第337名",
-    "holiday_avg": 9385,
+    "holiday_avg": 9385.0,
     "holiday_unit": "人次",
     "holiday_rank": "市内商场第338名"
   },
@@ -40,11 +40,11 @@
     "residential": {
       "500m": 2.3,
       "1_5km": 23.6,
-      "3km": 79
+      "3km": 79.0
     },
     "office": {
-      "500m": 9200,
-      "1_5km": 9,
+      "500m": 9200.0,
+      "1_5km": 9.0,
       "3km": 59.8
     },
     "permanent": {
@@ -54,26 +54,26 @@
     }
   },
   "business": {
-    "competitors": 3,
-    "food": 45,
-    "shopping": 37,
-    "leisure": 3,
-    "education": 11,
-    "hotel": 1,
-    "services": 36,
-    "fitness": 5,
-    "auto": 4,
-    "total_stores": 46,
-    "old_store_3yr_pct": 35
+    "competitors": 3.0,
+    "food": 45.0,
+    "shopping": 37.0,
+    "leisure": 3.0,
+    "education": 11.0,
+    "hotel": 1.0,
+    "services": 36.0,
+    "fitness": 5.0,
+    "auto": 4.0,
+    "total_stores": 46.0,
+    "old_store_3yr_pct": 35.0
   },
   "nearby_poi": {
     "business": null,
-    "community": 414,
-    "office": 28,
-    "school": 54,
-    "hospital": 67,
-    "transport": 14,
-    "scenic": 126
+    "community": 414.0,
+    "office": 28.0,
+    "school": 54.0,
+    "hospital": 67.0,
+    "transport": 14.0,
+    "scenic": 126.0
   },
   "demographics": {
     "male_pct": 47.4,
@@ -87,8 +87,8 @@
       "硕士": 6.4,
       "博士": 1.9
     },
-    "has_children_pct": 60,
-    "no_children_pct": 40
+    "has_children_pct": 60.0,
+    "no_children_pct": 40.0
   },
   "scraped_at": "2026-08-01T07:50:53.591Z",
   "nearby_restaurants": [
@@ -122,538 +122,52 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 18,
+      "count": 18.0,
       "within_1yr_pct": 33.3,
       "1_3yr_pct": 44.4,
       "over_3yr_pct": 22.2
     },
     {
       "type": "购物",
-      "count": 7,
+      "count": 7.0,
       "within_1yr_pct": 28.6,
-      "1_3yr_pct": 0,
+      "1_3yr_pct": 0.0,
       "over_3yr_pct": 71.4
     },
     {
       "type": "休闲娱乐",
-      "count": 1,
-      "within_1yr_pct": 100,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 0
+      "count": 1.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
     },
     {
       "type": "教育培训",
-      "count": 6,
+      "count": 6.0,
       "within_1yr_pct": 16.7,
       "1_3yr_pct": 16.7,
       "over_3yr_pct": 66.7
     },
     {
       "type": "生活服务",
-      "count": 11,
+      "count": 11.0,
       "within_1yr_pct": 36.4,
       "1_3yr_pct": 45.5,
       "over_3yr_pct": 18.2
     },
     {
       "type": "运动健身",
-      "count": 2,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 50,
-      "over_3yr_pct": 50
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 50.0
     },
     {
       "type": "车辆服务",
-      "count": 1,
-      "within_1yr_pct": 100,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 0
+      "count": 1.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
     }
-  ],
-  "nearby_communities": [
-    {
-      "name": "北京悦康宿舍",
-      "households": 120,
-      "residents": "1437",
-      "year": "-",
-      "raw": "北京悦康宿舍 户数:120 居住人数:1437 建筑年份:-"
-    },
-    {
-      "name": "富士康-2期",
-      "households": 93,
-      "residents": "1382",
-      "year": "-",
-      "raw": "富士康-2期 户数:93 居住人数:1382 建筑年份:-"
-    },
-    {
-      "name": "东燊公寓",
-      "households": 121,
-      "residents": "2173",
-      "year": "-",
-      "raw": "东燊公寓 户数:121 居住人数:2173 建筑年份:-"
-    },
-    {
-      "name": "兴达公寓",
-      "households": 240,
-      "residents": "480+",
-      "year": "2000",
-      "raw": "兴达公寓 户数:240 居住人数:480+ 建筑年份:2000"
-    },
-    {
-      "name": "新雅佳苑",
-      "households": 58,
-      "residents": "800+",
-      "year": "-",
-      "raw": "新雅佳苑 户数:58 居住人数:800+ 建筑年份:-"
-    },
-    {
-      "name": "福安公寓",
-      "households": 132,
-      "residents": "1384",
-      "year": "-",
-      "raw": "福安公寓 户数:132 居住人数:1384 建筑年份:-"
-    },
-    {
-      "name": "同辉公寓",
-      "households": 15,
-      "residents": "300+",
-      "year": "-",
-      "raw": "同辉公寓 户数:15 居住人数:300+ 建筑年份:-"
-    },
-    {
-      "name": "光谷公寓",
-      "households": 263,
-      "residents": "3377",
-      "year": "-",
-      "raw": "光谷公寓 户数:263 居住人数:3377 建筑年份:-"
-    },
-    {
-      "name": "武夷公寓",
-      "households": 195,
-      "residents": "2973",
-      "year": "-",
-      "raw": "武夷公寓 户数:195 居住人数:2973 建筑年份:-"
-    },
-    {
-      "name": "同辉家园",
-      "households": 99,
-      "residents": "840+",
-      "year": "-",
-      "raw": "同辉家园 户数:99 居住人数:840+ 建筑年份:-"
-    },
-    {
-      "name": "神兴园公寓",
-      "households": 38,
-      "residents": "720+",
-      "year": "-",
-      "raw": "神兴园公寓 户数:38 居住人数:720+ 建筑年份:-"
-    },
-    {
-      "name": "国际e庄",
-      "households": 780,
-      "residents": "1593",
-      "year": "2010",
-      "raw": "国际e庄 户数:780 居住人数:1593 建筑年份:2010"
-    },
-    {
-      "name": "亦园公寓",
-      "households": 60,
-      "residents": "1267",
-      "year": "-",
-      "raw": "亦园公寓 户数:60 居住人数:1267 建筑年份:-"
-    },
-    {
-      "name": "未来里社区商业中心",
-      "households": 67,
-      "residents": "110+",
-      "year": "-",
-      "raw": "未来里社区商业中心 户数:67 居住人数:110+ 建筑年份:-"
-    },
-    {
-      "name": "榕城家园",
-      "households": 144,
-      "residents": "1805",
-      "year": "2015",
-      "raw": "榕城家园 户数:144 居住人数:1805 建筑年份:2015"
-    },
-    {
-      "name": "新华园",
-      "households": 5,
-      "residents": null,
-      "year": "-",
-      "raw": "新华园 户数:5 居住人数:小于100 建筑年份:-"
-    },
-    {
-      "name": "远洋天著澜湾",
-      "households": 340,
-      "residents": "890+",
-      "year": "2014",
-      "raw": "远洋天著澜湾 户数:340 居住人数:890+ 建筑年份:2014"
-    },
-    {
-      "name": "远洋天著悦山",
-      "households": 250,
-      "residents": "830+",
-      "year": "2014",
-      "raw": "远洋天著悦山 户数:250 居住人数:830+ 建筑年份:2014"
-    },
-    {
-      "name": "SMC(中国)有限公司单身宿舍",
-      "households": 44,
-      "residents": "350+",
-      "year": "-",
-      "raw": "SMC(中国)有限公司单身宿舍 户数:44 居住人数:350+ 建筑年份:-"
-    },
-    {
-      "name": "远洋天著云庭",
-      "households": 653,
-      "residents": "1354",
-      "year": "2014",
-      "raw": "远洋天著云庭 户数:653 居住人数:1354 建筑年份:2014"
-    },
-    {
-      "name": "京东方显示技术有限公司-S2宿舍",
-      "households": 235,
-      "residents": "2613",
-      "year": "-",
-      "raw": "京东方显示技术有限公司-S2宿舍 户数:235 居住人数:2613 建筑年份:-"
-    },
-    {
-      "name": "三羊里",
-      "households": 1500,
-      "residents": "4380",
-      "year": "2010",
-      "raw": "三羊里 户数:1500 居住人数:4380 建筑年份:2010"
-    },
-    {
-      "name": "晓康东里西区",
-      "households": 1018,
-      "residents": "2097",
-      "year": "2001",
-      "raw": "晓康东里西区 户数:1018 居住人数:2097 建筑年份:2001"
-    },
-    {
-      "name": "晓康东里-东区",
-      "households": 970,
-      "residents": "780+",
-      "year": "2009",
-      "raw": "晓康东里-东区 户数:970 居住人数:780+ 建筑年份:2009"
-    },
-    {
-      "name": "懿菲大厦",
-      "households": 18,
-      "residents": null,
-      "year": "-",
-      "raw": "懿菲大厦 户数:18 居住人数:小于100 建筑年份:-"
-    },
-    {
-      "name": "富诺登生活广场",
-      "households": 134,
-      "residents": "1316",
-      "year": "-",
-      "raw": "富诺登生活广场 户数:134 居住人数:1316 建筑年份:-"
-    },
-    {
-      "name": "小康家园",
-      "households": 1300,
-      "residents": "4113",
-      "year": "2003",
-      "raw": "小康家园 户数:1300 居住人数:4113 建筑年份:2003"
-    },
-    {
-      "name": "林肯公寓",
-      "households": 904,
-      "residents": "1639",
-      "year": "2010",
-      "raw": "林肯公寓 户数:904 居住人数:1639 建筑年份:2010"
-    },
-    {
-      "name": "国锐·金嵿",
-      "households": 2452,
-      "residents": "3156",
-      "year": "2016",
-      "raw": "国锐·金嵿 户数:2452 居住人数:3156 建筑年份:2016"
-    },
-    {
-      "name": "金泰公寓(北环东路店)",
-      "households": 150,
-      "residents": "470+",
-      "year": "2002",
-      "raw": "金泰公寓(北环东路店) 户数:150 居住人数:470+ 建筑年份:2002"
-    },
-    {
-      "name": "管委会宿舍",
-      "households": 13,
-      "residents": null,
-      "year": "-",
-      "raw": "管委会宿舍 户数:13 居住人数:小于100 建筑年份:-"
-    },
-    {
-      "name": "华腾锦绣FunsTown",
-      "households": 838,
-      "residents": null,
-      "year": "-",
-      "raw": "华腾锦绣FunsTown 户数:838 居住人数:小于100 建筑年份:-"
-    },
-    {
-      "name": "金色漫香林(三期)",
-      "households": 126,
-      "residents": "450+",
-      "year": "2010",
-      "raw": "金色漫香林(三期) 户数:126 居住人数:450+ 建筑年份:2010"
-    },
-    {
-      "name": "金色漫香林中区",
-      "households": 453,
-      "residents": "160+",
-      "year": "-",
-      "raw": "金色漫香林中区 户数:453 居住人数:160+ 建筑年份:-"
-    },
-    {
-      "name": "金色漫香林芳苑小区",
-      "households": 1295,
-      "residents": "2707",
-      "year": "2012",
-      "raw": "金色漫香林芳苑小区 户数:1295 居住人数:2707 建筑年份:2012"
-    },
-    {
-      "name": "金融街金色漫香林-1期",
-      "households": 682,
-      "residents": "1466",
-      "year": "2009",
-      "raw": "金融街金色漫香林-1期 户数:682 居住人数:1466 建筑年份:2009"
-    },
-    {
-      "name": "力宝诗礼庭",
-      "households": 874,
-      "residents": "880+",
-      "year": "2014",
-      "raw": "力宝诗礼庭 户数:874 居住人数:880+ 建筑年份:2014"
-    },
-    {
-      "name": "定海园一里",
-      "households": 841,
-      "residents": "3423",
-      "year": "2009",
-      "raw": "定海园一里 户数:841 居住人数:3423 建筑年份:2009"
-    },
-    {
-      "name": "金融街金色漫香林-2期",
-      "households": 760,
-      "residents": "1760",
-      "year": "2008",
-      "raw": "金融街金色漫香林-2期 户数:760 居住人数:1760 建筑年份:2008"
-    },
-    {
-      "name": "金融街金色漫香林-四期",
-      "households": 314,
-      "residents": "720+",
-      "year": "2011",
-      "raw": "金融街金色漫香林-四期 户数:314 居住人数:720+ 建筑年份:2011"
-    },
-    {
-      "name": "金融街漫香林第6区",
-      "households": 408,
-      "residents": "970+",
-      "year": "2010",
-      "raw": "金融街漫香林第6区 户数:408 居住人数:970+ 建筑年份:2010"
-    },
-    {
-      "name": "长新花园别墅",
-      "households": 116,
-      "residents": "550+",
-      "year": "1996",
-      "raw": "长新花园别墅 户数:116 居住人数:550+ 建筑年份:1996"
-    },
-    {
-      "name": "和成璟园",
-      "households": 866,
-      "residents": "2039",
-      "year": "2014",
-      "raw": "和成璟园 户数:866 居住人数:2039 建筑年份:2014"
-    },
-    {
-      "name": "东居时代小区",
-      "households": 841,
-      "residents": "3249",
-      "year": "2005",
-      "raw": "东居时代小区 户数:841 居住人数:3249 建筑年份:2005"
-    },
-    {
-      "name": "鹿鸣苑-商住楼",
-      "households": 320,
-      "residents": "400+",
-      "year": "2000",
-      "raw": "鹿鸣苑-商住楼 户数:320 居住人数:400+ 建筑年份:2000"
-    },
-    {
-      "name": "鹿鸣苑",
-      "households": 558,
-      "residents": "1780",
-      "year": "2000",
-      "raw": "鹿鸣苑 户数:558 居住人数:1780 建筑年份:2000"
-    },
-    {
-      "name": "和裕·林肯时代",
-      "households": 1076,
-      "residents": "2011",
-      "year": "2019",
-      "raw": "和裕·林肯时代 户数:1076 居住人数:2011 建筑年份:2019"
-    },
-    {
-      "name": "易居国际",
-      "households": 424,
-      "residents": "680+",
-      "year": "2012",
-      "raw": "易居国际 户数:424 居住人数:680+ 建筑年份:2012"
-    },
-    {
-      "name": "亦庄郁金香舍",
-      "households": 1347,
-      "residents": "3566",
-      "year": "2005",
-      "raw": "亦庄郁金香舍 户数:1347 居住人数:3566 建筑年份:2005"
-    },
-    {
-      "name": "定海园二里",
-      "households": 1718,
-      "residents": "4071",
-      "year": "2009",
-      "raw": "定海园二里 户数:1718 居住人数:4071 建筑年份:2009"
-    },
-    {
-      "name": "泊寓(北京亦庄经海路店)",
-      "households": 24,
-      "residents": "580+",
-      "year": "-",
-      "raw": "泊寓(北京亦庄经海路店) 户数:24 居住人数:580+ 建筑年份:-"
-    },
-    {
-      "name": "定海园三里",
-      "households": 647,
-      "residents": "2784",
-      "year": "2008",
-      "raw": "定海园三里 户数:647 居住人数:2784 建筑年份:2008"
-    },
-    {
-      "name": "恒泰家园",
-      "households": 418,
-      "residents": "1960",
-      "year": "-",
-      "raw": "恒泰家园 户数:418 居住人数:1960 建筑年份:-"
-    },
-    {
-      "name": "天尊苑",
-      "households": 298,
-      "residents": "110+",
-      "year": "1996",
-      "raw": "天尊苑 户数:298 居住人数:110+ 建筑年份:1996"
-    },
-    {
-      "name": "天华园三里四区-一栋洋房",
-      "households": 121,
-      "residents": "100+",
-      "year": "-",
-      "raw": "天华园三里四区-一栋洋房 户数:121 居住人数:100+ 建筑年份:-"
-    },
-    {
-      "name": "康定街-21号院",
-      "households": 508,
-      "residents": null,
-      "year": "-",
-      "raw": "康定街-21号院 户数:508 居住人数:小于100 建筑年份:-"
-    },
-    {
-      "name": "一品亦庄",
-      "households": 648,
-      "residents": "2142",
-      "year": "2004",
-      "raw": "一品亦庄 户数:648 居住人数:2142 建筑年份:2004"
-    },
-    {
-      "name": "亦城文园",
-      "households": 362,
-      "residents": "1521",
-      "year": "-",
-      "raw": "亦城文园 户数:362 居住人数:1521 建筑年份:-"
-    },
-    {
-      "name": "北京润府",
-      "households": 1314,
-      "residents": "160+",
-      "year": "-",
-      "raw": "北京润府 户数:1314 居住人数:160+ 建筑年份:-"
-    },
-    {
-      "name": "博客雅居",
-      "households": 936,
-      "residents": "910+",
-      "year": "2008",
-      "raw": "博客雅居 户数:936 居住人数:910+ 建筑年份:2008"
-    },
-    {
-      "name": "林肯公园-A区",
-      "households": 755,
-      "residents": "1469",
-      "year": "2014",
-      "raw": "林肯公园-A区 户数:755 居住人数:1469 建筑年份:2014"
-    },
-    {
-      "name": "阳光花庭",
-      "households": 769,
-      "residents": "2472",
-      "year": "2018",
-      "raw": "阳光花庭 户数:769 居住人数:2472 建筑年份:2018"
-    },
-    {
-      "name": "京东方宿舍区",
-      "households": 486,
-      "residents": "2063",
-      "year": "-",
-      "raw": "京东方宿舍区 户数:486 居住人数:2063 建筑年份:-"
-    },
-    {
-      "name": "首创美林湾",
-      "households": 778,
-      "residents": "810+",
-      "year": "-",
-      "raw": "首创美林湾 户数:778 居住人数:810+ 建筑年份:-"
-    },
-    {
-      "name": "天华园三里社区",
-      "households": 3491,
-      "residents": "1751",
-      "year": "-",
-      "raw": "天华园三里社区 户数:3491 居住人数:1751 建筑年份:-"
-    },
-    {
-      "name": "尊爵府别墅",
-      "households": 851,
-      "residents": "220+",
-      "year": "2000",
-      "raw": "尊爵府别墅 户数:851 居住人数:220+ 建筑年份:2000"
-    },
-    {
-      "name": "天华园三里-五区",
-      "households": 550,
-      "residents": "320+",
-      "year": "-",
-      "raw": "天华园三里-五区 户数:550 居住人数:320+ 建筑年份:-"
-    },
-    {
-      "name": "天华园一里社区",
-      "households": 11000,
-      "residents": "22639",
-      "year": "1999",
-      "raw": "天华园一里社区 户数:11000 居住人数:22639 建筑年份:1999"
-    },
-    {
-      "name": "金地格林小镇",
-      "households": 1942,
-      "residents": "4927",
-      "year": "2005",
-      "raw": "金地格林小镇 户数:1942 居住人数:4927 建筑年份:2005"
-    }
-  ],
-  "community_count": 69
+  ]
 }

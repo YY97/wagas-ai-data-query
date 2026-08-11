@@ -26,24 +26,24 @@
     "annual_daily_rank": "",
     "jun_total": 3.1,
     "jun_total_rank": "市内商场第360名",
-    "jun_daily_avg": 1015,
+    "jun_daily_avg": 1015.0,
     "jun_daily_unit": "人次",
     "jun_daily_rank": "市内商场第360名",
-    "weekday_avg": 1030,
+    "weekday_avg": 1030.0,
     "weekday_unit": "人次",
     "weekday_rank": "市内商场第360名",
-    "holiday_avg": 976,
+    "holiday_avg": 976.0,
     "holiday_unit": "人次",
     "holiday_rank": "市内商场第366名"
   },
   "population": {
     "residential": {
-      "500m": 2,
+      "500m": 2.0,
       "1_5km": 9.8,
-      "3km": 58
+      "3km": 58.0
     },
     "office": {
-      "500m": 5800,
+      "500m": 5800.0,
       "1_5km": 5.1,
       "3km": 29.2
     },
@@ -55,33 +55,33 @@
   },
   "business": {
     "competitors": null,
-    "food": 26,
-    "shopping": 34,
-    "leisure": 2,
-    "education": 5,
-    "hotel": 2,
-    "services": 60,
-    "fitness": 5,
-    "auto": 6,
-    "total_stores": 23,
-    "old_store_3yr_pct": 65
+    "food": 26.0,
+    "shopping": 34.0,
+    "leisure": 2.0,
+    "education": 5.0,
+    "hotel": 2.0,
+    "services": 60.0,
+    "fitness": 5.0,
+    "auto": 6.0,
+    "total_stores": 23.0,
+    "old_store_3yr_pct": 65.0
   },
   "nearby_poi": {
-    "business": 2,
-    "community": 234,
-    "office": 14,
-    "school": 23,
-    "hospital": 70,
-    "transport": 9,
-    "scenic": 71
+    "business": 2.0,
+    "community": 234.0,
+    "office": 14.0,
+    "school": 23.0,
+    "hospital": 70.0,
+    "transport": 9.0,
+    "scenic": 71.0
   },
   "demographics": {
     "male_pct": 52.8,
     "female_pct": null,
     "education": {
-      "小学": 9,
+      "小学": 9.0,
       "初中": 15.4,
-      "高中": 11,
+      "高中": 11.0,
       "大专": 6.6,
       "本科": 49.2,
       "硕士": 7.1,
@@ -144,195 +144,38 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 8,
+      "count": 8.0,
       "within_1yr_pct": 12.5,
       "1_3yr_pct": 12.5,
-      "over_3yr_pct": 75
+      "over_3yr_pct": 75.0
     },
     {
       "type": "购物",
-      "count": 4,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 25,
-      "over_3yr_pct": 75
+      "count": 4.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 75.0
     },
     {
       "type": "休闲娱乐",
-      "count": 2,
-      "within_1yr_pct": 50,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 50
+      "count": 2.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 50.0
     },
     {
       "type": "生活服务",
-      "count": 8,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 50,
-      "over_3yr_pct": 50
+      "count": 8.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 50.0
     },
     {
       "type": "运动健身",
-      "count": 1,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 100
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
     }
-  ],
-  "nearby_communities": [
-    {
-      "name": "盛桥东四村",
-      "households": 181,
-      "residents": "990+",
-      "year": "-",
-      "raw": "盛桥东四村 户数:181 居住人数:990+ 建筑年份:-"
-    },
-    {
-      "name": "盛桥四村(西块)",
-      "households": 600,
-      "residents": "1071",
-      "year": "1995",
-      "raw": "盛桥四村(西块) 户数:600 居住人数:1071 建筑年份:1995"
-    },
-    {
-      "name": "盛桥一村",
-      "households": 665,
-      "residents": "2584",
-      "year": "-",
-      "raw": "盛桥一村 户数:665 居住人数:2584 建筑年份:-"
-    },
-    {
-      "name": "宝华盛世花园",
-      "households": 896,
-      "residents": "3929",
-      "year": "2012",
-      "raw": "宝华盛世花园 户数:896 居住人数:3929 建筑年份:2012"
-    },
-    {
-      "name": "盛桥二村",
-      "households": 949,
-      "residents": "2683",
-      "year": "1985",
-      "raw": "盛桥二村 户数:949 居住人数:2683 建筑年份:1985"
-    },
-    {
-      "name": "青舍客国际青年社区",
-      "households": 8,
-      "residents": "150+",
-      "year": "-",
-      "raw": "青舍客国际青年社区 户数:8 居住人数:150+ 建筑年份:-"
-    },
-    {
-      "name": "新月明月园",
-      "households": 1032,
-      "residents": "3642",
-      "year": "2007",
-      "raw": "新月明月园 户数:1032 居住人数:3642 建筑年份:2007"
-    },
-    {
-      "name": "盛桥三村社区",
-      "households": 1321,
-      "residents": "3468",
-      "year": "1987",
-      "raw": "盛桥三村社区 户数:1321 居住人数:3468 建筑年份:1987"
-    },
-    {
-      "name": "鹤林路250弄小区",
-      "households": 204,
-      "residents": "350+",
-      "year": "2000",
-      "raw": "鹤林路250弄小区 户数:204 居住人数:350+ 建筑年份:2000"
-    },
-    {
-      "name": "新月明珠园",
-      "households": 1408,
-      "residents": "4537",
-      "year": "2006",
-      "raw": "新月明珠园 户数:1408 居住人数:4537 建筑年份:2006"
-    },
-    {
-      "name": "新月桃苑",
-      "households": 372,
-      "residents": "1201",
-      "year": "2004",
-      "raw": "新月桃苑 户数:372 居住人数:1201 建筑年份:2004"
-    },
-    {
-      "name": "新竹小区",
-      "households": 104,
-      "residents": "470+",
-      "year": "-",
-      "raw": "新竹小区 户数:104 居住人数:470+ 建筑年份:-"
-    },
-    {
-      "name": "新丰花苑",
-      "households": 381,
-      "residents": "1381",
-      "year": "1999",
-      "raw": "新丰花苑 户数:381 居住人数:1381 建筑年份:1999"
-    },
-    {
-      "name": "新月明星园",
-      "households": 922,
-      "residents": "3526",
-      "year": "2006",
-      "raw": "新月明星园 户数:922 居住人数:3526 建筑年份:2006"
-    },
-    {
-      "name": "宝华北岸郡庭别墅",
-      "households": 233,
-      "residents": "1265",
-      "year": "2013",
-      "raw": "宝华北岸郡庭别墅 户数:233 居住人数:1265 建筑年份:2013"
-    },
-    {
-      "name": "盛安暝园",
-      "households": 871,
-      "residents": null,
-      "year": "-",
-      "raw": "盛安暝园 户数:871 居住人数:小于100 建筑年份:-"
-    },
-    {
-      "name": "新月明璟苑",
-      "households": 1174,
-      "residents": "730+",
-      "year": "-",
-      "raw": "新月明璟苑 户数:1174 居住人数:730+ 建筑年份:-"
-    },
-    {
-      "name": "新城昱翠湾",
-      "households": 1112,
-      "residents": "4276",
-      "year": "2014",
-      "raw": "新城昱翠湾 户数:1112 居住人数:4276 建筑年份:2014"
-    },
-    {
-      "name": "中冶锦园",
-      "households": 960,
-      "residents": "3076",
-      "year": "2015",
-      "raw": "中冶锦园 户数:960 居住人数:3076 建筑年份:2015"
-    },
-    {
-      "name": "阳光美林",
-      "households": 901,
-      "residents": "2837",
-      "year": "2015",
-      "raw": "阳光美林 户数:901 居住人数:2837 建筑年份:2015"
-    },
-    {
-      "name": "中冶尚园",
-      "households": 976,
-      "residents": "3648",
-      "year": "2012",
-      "raw": "中冶尚园 户数:976 居住人数:3648 建筑年份:2012"
-    },
-    {
-      "name": "中冶祥腾宝月花园",
-      "households": 926,
-      "residents": "3690",
-      "year": "2012",
-      "raw": "中冶祥腾宝月花园 户数:926 居住人数:3690 建筑年份:2012"
-    }
-  ],
-  "community_count": 22
+  ]
 }

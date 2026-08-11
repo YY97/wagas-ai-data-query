@@ -8,12 +8,12 @@
     "score": 73.2,
     "score_rank": "市内前50%",
     "population_score": 98.1,
-    "area_score": 75,
+    "area_score": 75.0,
     "consumption_score": 77.7,
     "industry_score": 73.1,
     "annual_sales": "清河老街区两层传统百货，主营百货、针纺、日杂等，服务周边居民。",
     "annual_sales_unit": "-",
-    "area_size_sqm": 3000,
+    "area_size_sqm": 3000.0,
     "open_date": "",
     "operator": "北京市海淀区百货公司",
     "brand": "",
@@ -49,31 +49,31 @@
     },
     "permanent": {
       "500m": 3.1,
-      "1_5km": 16,
+      "1_5km": 16.0,
       "3km": 51.7
     }
   },
   "business": {
     "competitors": null,
-    "food": 142,
-    "shopping": 70,
-    "leisure": 9,
-    "education": 30,
-    "hotel": 18,
-    "services": 88,
-    "fitness": 28,
-    "auto": 1,
-    "total_stores": 30,
-    "old_store_3yr_pct": 37
+    "food": 142.0,
+    "shopping": 70.0,
+    "leisure": 9.0,
+    "education": 30.0,
+    "hotel": 18.0,
+    "services": 88.0,
+    "fitness": 28.0,
+    "auto": 1.0,
+    "total_stores": 30.0,
+    "old_store_3yr_pct": 37.0
   },
   "nearby_poi": {
-    "business": 3,
-    "community": 261,
-    "office": 27,
-    "school": 39,
-    "hospital": 47,
-    "transport": 5,
-    "scenic": 72
+    "business": 3.0,
+    "community": 261.0,
+    "office": 27.0,
+    "school": 39.0,
+    "hospital": 47.0,
+    "transport": 5.0,
+    "scenic": 72.0
   },
   "demographics": {
     "male_pct": null,
@@ -428,265 +428,38 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 13,
+      "count": 13.0,
       "within_1yr_pct": 23.1,
       "1_3yr_pct": 46.2,
       "over_3yr_pct": 30.8
     },
     {
       "type": "购物",
-      "count": 10,
-      "within_1yr_pct": 30,
-      "1_3yr_pct": 20,
-      "over_3yr_pct": 50
+      "count": 10.0,
+      "within_1yr_pct": 30.0,
+      "1_3yr_pct": 20.0,
+      "over_3yr_pct": 50.0
     },
     {
       "type": "休闲娱乐",
-      "count": 1,
-      "within_1yr_pct": 100,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 0
+      "count": 1.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
     },
     {
       "type": "生活服务",
-      "count": 5,
-      "within_1yr_pct": 40,
-      "1_3yr_pct": 40,
-      "over_3yr_pct": 20
+      "count": 5.0,
+      "within_1yr_pct": 40.0,
+      "1_3yr_pct": 40.0,
+      "over_3yr_pct": 20.0
     },
     {
       "type": "运动健身",
-      "count": 1,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 100
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
     }
-  ],
-  "nearby_communities": [
-    {
-      "name": "中惠棠里",
-      "households": 210,
-      "residents": "150+",
-      "year": "2021",
-      "raw": "中惠棠里 户数:210 居住人数:150+ 建筑年份:2021-06-10"
-    },
-    {
-      "name": "供销社小区",
-      "households": 156,
-      "residents": "670+",
-      "year": "2000",
-      "raw": "供销社小区 户数:156 居住人数:670+ 建筑年份:2000"
-    },
-    {
-      "name": "东华新村",
-      "households": 384,
-      "residents": "1340",
-      "year": "2015",
-      "raw": "东华新村 户数:384 居住人数:1340 建筑年份:2015"
-    },
-    {
-      "name": "西苑新村",
-      "households": 718,
-      "residents": "2786",
-      "year": "2005",
-      "raw": "西苑新村 户数:718 居住人数:2786 建筑年份:2005"
-    },
-    {
-      "name": "中海阅麓山",
-      "households": 1812,
-      "residents": "5508",
-      "year": "2018",
-      "raw": "中海阅麓山 户数:1812 居住人数:5508 建筑年份:2018"
-    },
-    {
-      "name": "清河新村",
-      "households": 504,
-      "residents": "2063",
-      "year": "2002",
-      "raw": "清河新村 户数:504 居住人数:2063 建筑年份:2002"
-    },
-    {
-      "name": "中海阅麓山-二期",
-      "households": 412,
-      "residents": "1274",
-      "year": "-",
-      "raw": "中海阅麓山-二期 户数:412 居住人数:1274 建筑年份:-"
-    },
-    {
-      "name": "西苑小区",
-      "households": 136,
-      "residents": "370+",
-      "year": "2014",
-      "raw": "西苑小区 户数:136 居住人数:370+ 建筑年份:2014"
-    },
-    {
-      "name": "临云园",
-      "households": 377,
-      "residents": "210+",
-      "year": "-",
-      "raw": "临云园 户数:377 居住人数:210+ 建筑年份:-"
-    },
-    {
-      "name": "东苑新村",
-      "households": 313,
-      "residents": "1482",
-      "year": "-",
-      "raw": "东苑新村 户数:313 居住人数:1482 建筑年份:-"
-    },
-    {
-      "name": "中海·九峯里玉苑",
-      "households": 759,
-      "residents": "2035",
-      "year": "2021",
-      "raw": "中海·九峯里玉苑 户数:759 居住人数:2035 建筑年份:2021-12"
-    },
-    {
-      "name": "平原新村",
-      "households": 456,
-      "residents": "1972",
-      "year": "2005",
-      "raw": "平原新村 户数:456 居住人数:1972 建筑年份:2005"
-    },
-    {
-      "name": "中海阅麓山-三期",
-      "households": 652,
-      "residents": "2175",
-      "year": "-",
-      "raw": "中海阅麓山-三期 户数:652 居住人数:2175 建筑年份:-"
-    },
-    {
-      "name": "路劲佘山院子西园",
-      "households": 626,
-      "residents": "1910",
-      "year": "2019",
-      "raw": "路劲佘山院子西园 户数:626 居住人数:1910 建筑年份:2019"
-    },
-    {
-      "name": "路劲佘山院子东园",
-      "households": 1149,
-      "residents": "4961",
-      "year": "-",
-      "raw": "路劲佘山院子东园 户数:1149 居住人数:4961 建筑年份:-"
-    },
-    {
-      "name": "谷安小区",
-      "households": 212,
-      "residents": "240+",
-      "year": "-",
-      "raw": "谷安小区 户数:212 居住人数:240+ 建筑年份:-"
-    },
-    {
-      "name": "文泓苑",
-      "households": 1059,
-      "residents": "2818",
-      "year": "-",
-      "raw": "文泓苑 户数:1059 居住人数:2818 建筑年份:-"
-    },
-    {
-      "name": "文晋苑",
-      "households": 1783,
-      "residents": "4738",
-      "year": "2015",
-      "raw": "文晋苑 户数:1783 居住人数:4738 建筑年份:2015"
-    },
-    {
-      "name": "平复苑",
-      "households": 1549,
-      "residents": "5063",
-      "year": "2012",
-      "raw": "平复苑 户数:1549 居住人数:5063 建筑年份:2012"
-    },
-    {
-      "name": "文翔花苑",
-      "households": 231,
-      "residents": "900+",
-      "year": "2017",
-      "raw": "文翔花苑 户数:231 居住人数:900+ 建筑年份:2017"
-    },
-    {
-      "name": "文赋苑",
-      "households": 2304,
-      "residents": "2781",
-      "year": "-",
-      "raw": "文赋苑 户数:2304 居住人数:2781 建筑年份:-"
-    },
-    {
-      "name": "玉昆小区-C区",
-      "households": 1244,
-      "residents": "3337",
-      "year": "2000",
-      "raw": "玉昆小区-C区 户数:1244 居住人数:3337 建筑年份:2000"
-    },
-    {
-      "name": "翔昆苑",
-      "households": 2046,
-      "residents": "8859",
-      "year": "2016",
-      "raw": "翔昆苑 户数:2046 居住人数:8859 建筑年份:2016"
-    },
-    {
-      "name": "玉昆小区A区",
-      "households": 2016,
-      "residents": "7019",
-      "year": "2000",
-      "raw": "玉昆小区A区 户数:2016 居住人数:7019 建筑年份:2000"
-    },
-    {
-      "name": "玉昆小区B区",
-      "households": 1344,
-      "residents": "4255",
-      "year": "2015",
-      "raw": "玉昆小区B区 户数:1344 居住人数:4255 建筑年份:2015"
-    },
-    {
-      "name": "绿洲阳光",
-      "households": 82,
-      "residents": "310+",
-      "year": "-",
-      "raw": "绿洲阳光 户数:82 居住人数:310+ 建筑年份:-"
-    },
-    {
-      "name": "阳光领寓",
-      "households": 90,
-      "residents": "1513",
-      "year": "2012",
-      "raw": "阳光领寓 户数:90 居住人数:1513 建筑年份:2012"
-    },
-    {
-      "name": "有巢公寓(上海天安金谷店)",
-      "households": 19,
-      "residents": "590+",
-      "year": "-",
-      "raw": "有巢公寓(上海天安金谷店) 户数:19 居住人数:590+ 建筑年份:-"
-    },
-    {
-      "name": "新港新村",
-      "households": 224,
-      "residents": "940+",
-      "year": "2009",
-      "raw": "新港新村 户数:224 居住人数:940+ 建筑年份:2009"
-    },
-    {
-      "name": "大昆苑",
-      "households": 332,
-      "residents": "1836",
-      "year": "2009",
-      "raw": "大昆苑 户数:332 居住人数:1836 建筑年份:2009"
-    },
-    {
-      "name": "上海松江西部科技园柚米社区",
-      "households": 764,
-      "residents": "2713",
-      "year": "-",
-      "raw": "上海松江西部科技园柚米社区 户数:764 居住人数:2713 建筑年份:-"
-    },
-    {
-      "name": "星月大业领地",
-      "households": 1948,
-      "residents": "250+",
-      "year": "-",
-      "raw": "星月大业领地 户数:1948 居住人数:250+ 建筑年份:-"
-    }
-  ],
-  "community_count": 32
+  ]
 }

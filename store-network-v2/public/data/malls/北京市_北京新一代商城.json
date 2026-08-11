@@ -7,9 +7,9 @@
   "overview": {
     "score": 84.3,
     "score_rank": "市内前30%",
-    "population_score": 95,
+    "population_score": 95.0,
     "area_score": 80.8,
-    "consumption_score": 60,
+    "consumption_score": 60.0,
     "industry_score": 84.3,
     "annual_sales": "",
     "annual_sales_unit": "",
@@ -39,11 +39,11 @@
   "population": {
     "residential": {
       "500m": 2.8,
-      "1_5km": 5,
+      "1_5km": 5.0,
       "3km": 7.4
     },
     "office": {
-      "500m": 6000,
+      "500m": 6000.0,
       "1_5km": 1.7,
       "3km": 2.5
     },
@@ -55,25 +55,25 @@
   },
   "business": {
     "competitors": null,
-    "food": 226,
-    "shopping": 108,
-    "leisure": 3,
+    "food": 226.0,
+    "shopping": 108.0,
+    "leisure": 3.0,
     "education": null,
-    "hotel": 83,
-    "services": 104,
-    "fitness": 5,
-    "auto": 5,
-    "total_stores": 536,
-    "old_store_3yr_pct": 49
+    "hotel": 83.0,
+    "services": 104.0,
+    "fitness": 5.0,
+    "auto": 5.0,
+    "total_stores": 536.0,
+    "old_store_3yr_pct": 49.0
   },
   "nearby_poi": {
     "business": null,
-    "community": 29,
-    "office": 4,
-    "school": 11,
-    "hospital": 15,
-    "transport": 1,
-    "scenic": 37
+    "community": 29.0,
+    "office": 4.0,
+    "school": 11.0,
+    "hospital": 15.0,
+    "transport": 1.0,
+    "scenic": 37.0
   },
   "demographics": {
     "male_pct": 53.6,
@@ -347,258 +347,52 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 226,
+      "count": 226.0,
       "within_1yr_pct": 28.8,
       "1_3yr_pct": 29.2,
-      "over_3yr_pct": 42
+      "over_3yr_pct": 42.0
     },
     {
       "type": "购物",
-      "count": 108,
+      "count": 108.0,
       "within_1yr_pct": 15.7,
       "1_3yr_pct": 19.4,
       "over_3yr_pct": 64.8
     },
     {
       "type": "休闲娱乐",
-      "count": 5,
-      "within_1yr_pct": 60,
-      "1_3yr_pct": 20,
-      "over_3yr_pct": 20
+      "count": 5.0,
+      "within_1yr_pct": 60.0,
+      "1_3yr_pct": 20.0,
+      "over_3yr_pct": 20.0
     },
     {
       "type": "酒店住宿",
-      "count": 83,
+      "count": 83.0,
       "within_1yr_pct": 18.1,
       "1_3yr_pct": 24.1,
       "over_3yr_pct": 57.8
     },
     {
       "type": "生活服务",
-      "count": 104,
+      "count": 104.0,
       "within_1yr_pct": 16.3,
       "1_3yr_pct": 40.4,
       "over_3yr_pct": 43.3
     },
     {
       "type": "运动健身",
-      "count": 5,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 40,
-      "over_3yr_pct": 60
+      "count": 5.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 40.0,
+      "over_3yr_pct": 60.0
     },
     {
       "type": "车辆服务",
-      "count": 5,
-      "within_1yr_pct": 20,
-      "1_3yr_pct": 20,
-      "over_3yr_pct": 60
+      "count": 5.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 20.0,
+      "over_3yr_pct": 60.0
     }
-  ],
-  "nearby_communities": [
-    {
-      "name": "景虹公寓",
-      "households": 11,
-      "residents": "200+",
-      "year": "-",
-      "raw": "景虹公寓 户数:11 居住人数:200+ 建筑年份:-"
-    },
-    {
-      "name": "欣雅公寓",
-      "households": 4,
-      "residents": null,
-      "year": "-",
-      "raw": "欣雅公寓 户数:4 居住人数:小于100 建筑年份:-"
-    },
-    {
-      "name": "99号院公寓",
-      "households": 5,
-      "residents": "120+",
-      "year": "-",
-      "raw": "99号院公寓 户数:5 居住人数:120+ 建筑年份:-"
-    },
-    {
-      "name": "宏达公寓",
-      "households": 10,
-      "residents": "220+",
-      "year": "-",
-      "raw": "宏达公寓 户数:10 居住人数:220+ 建筑年份:-"
-    },
-    {
-      "name": "兴胜路1号公寓",
-      "households": 8,
-      "residents": null,
-      "year": "-",
-      "raw": "兴胜路1号公寓 户数:8 居住人数:小于100 建筑年份:-"
-    },
-    {
-      "name": "鑫辉公寓二部",
-      "households": 5,
-      "residents": "130+",
-      "year": "-",
-      "raw": "鑫辉公寓二部 户数:5 居住人数:130+ 建筑年份:-"
-    },
-    {
-      "name": "彩俸北区",
-      "households": 700,
-      "residents": "1466",
-      "year": "2004",
-      "raw": "彩俸北区 户数:700 居住人数:1466 建筑年份:2004"
-    },
-    {
-      "name": "京乐公寓",
-      "households": 9,
-      "residents": "170+",
-      "year": "-",
-      "raw": "京乐公寓 户数:9 居住人数:170+ 建筑年份:-"
-    },
-    {
-      "name": "佳鹏公寓",
-      "households": 6,
-      "residents": null,
-      "year": "-",
-      "raw": "佳鹏公寓 户数:6 居住人数:小于100 建筑年份:-"
-    },
-    {
-      "name": "彩俸小区-南区",
-      "households": 2509,
-      "residents": "4797",
-      "year": "1995",
-      "raw": "彩俸小区-南区 户数:2509 居住人数:4797 建筑年份:1995"
-    },
-    {
-      "name": "天河小区",
-      "households": 1242,
-      "residents": "3221",
-      "year": "2009",
-      "raw": "天河小区 户数:1242 居住人数:3221 建筑年份:2009"
-    },
-    {
-      "name": "文体大院",
-      "households": 187,
-      "residents": null,
-      "year": "-",
-      "raw": "文体大院 户数:187 居住人数:小于100 建筑年份:-"
-    },
-    {
-      "name": "住总青年ONE",
-      "households": 479,
-      "residents": null,
-      "year": "-",
-      "raw": "住总青年ONE 户数:479 居住人数:小于100 建筑年份:-"
-    },
-    {
-      "name": "榆钱树公寓",
-      "households": 7,
-      "residents": null,
-      "year": "-",
-      "raw": "榆钱树公寓 户数:7 居住人数:小于100 建筑年份:-"
-    },
-    {
-      "name": "艳阳高照公寓",
-      "households": 9,
-      "residents": null,
-      "year": "-",
-      "raw": "艳阳高照公寓 户数:9 居住人数:小于100 建筑年份:-"
-    },
-    {
-      "name": "望潮家园",
-      "households": 548,
-      "residents": "1673",
-      "year": "2009",
-      "raw": "望潮家园 户数:548 居住人数:1673 建筑年份:2009"
-    },
-    {
-      "name": "观潮园",
-      "households": 161,
-      "residents": "280+",
-      "year": "1993",
-      "raw": "观潮园 户数:161 居住人数:280+ 建筑年份:1993"
-    },
-    {
-      "name": "忠吉公寓",
-      "households": 6,
-      "residents": null,
-      "year": "-",
-      "raw": "忠吉公寓 户数:6 居住人数:小于100 建筑年份:-"
-    },
-    {
-      "name": "滨河小区",
-      "households": 3154,
-      "residents": "7730",
-      "year": "1996",
-      "raw": "滨河小区 户数:3154 居住人数:7730 建筑年份:1996"
-    },
-    {
-      "name": "毓秀园-北园",
-      "households": 255,
-      "residents": "100+",
-      "year": "-",
-      "raw": "毓秀园-北园 户数:255 居住人数:100+ 建筑年份:-"
-    },
-    {
-      "name": "裕龙花园五区",
-      "households": 1434,
-      "residents": "3694",
-      "year": "2005",
-      "raw": "裕龙花园五区 户数:1434 居住人数:3694 建筑年份:2005"
-    },
-    {
-      "name": "御河壹号庄园",
-      "households": 53,
-      "residents": "190+",
-      "year": "1991",
-      "raw": "御河壹号庄园 户数:53 居住人数:190+ 建筑年份:1991"
-    },
-    {
-      "name": "河南村农行家属院",
-      "households": 396,
-      "residents": "380+",
-      "year": "1995",
-      "raw": "河南村农行家属院 户数:396 居住人数:380+ 建筑年份:1995"
-    },
-    {
-      "name": "花舍公寓",
-      "households": 8,
-      "residents": null,
-      "year": "-",
-      "raw": "花舍公寓 户数:8 居住人数:小于100 建筑年份:-"
-    },
-    {
-      "name": "波特兰花园",
-      "households": 2415,
-      "residents": "300+",
-      "year": "2006",
-      "raw": "波特兰花园 户数:2415 居住人数:300+ 建筑年份:2006"
-    },
-    {
-      "name": "裕龙花园社区",
-      "households": 10095,
-      "residents": "25987",
-      "year": "2009",
-      "raw": "裕龙花园社区 户数:10095 居住人数:25987 建筑年份:2009"
-    },
-    {
-      "name": "毓秀园-南园",
-      "households": 44,
-      "residents": "190+",
-      "year": "2004",
-      "raw": "毓秀园-南园 户数:44 居住人数:190+ 建筑年份:2004"
-    },
-    {
-      "name": "御墅-南区",
-      "households": 73,
-      "residents": "150+",
-      "year": "2005",
-      "raw": "御墅-南区 户数:73 居住人数:150+ 建筑年份:2005"
-    },
-    {
-      "name": "裕龙花园三区",
-      "households": 3212,
-      "residents": "7048",
-      "year": "2009",
-      "raw": "裕龙花园三区 户数:3212 居住人数:7048 建筑年份:2009"
-    }
-  ],
-  "community_count": 29
+  ]
 }

@@ -21,7 +21,7 @@
     "floors": "L1-L3"
   },
   "traffic": {
-    "annual_daily": 8438,
+    "annual_daily": 8438.0,
     "annual_daily_unit": "人次",
     "annual_daily_rank": "市内第288",
     "jun_total": 39.8,
@@ -43,37 +43,37 @@
       "3km": 12.5
     },
     "office": {
-      "500m": 5200,
-      "1_5km": 2,
+      "500m": 5200.0,
+      "1_5km": 2.0,
       "3km": 5.9
     },
     "permanent": {
       "500m": 1.7,
-      "1_5km": 5,
+      "1_5km": 5.0,
       "3km": 11.4
     }
   },
   "business": {
-    "competitors": 4,
-    "food": 75,
-    "shopping": 30,
-    "leisure": 6,
-    "education": 15,
-    "hotel": 2,
-    "services": 47,
-    "fitness": 9,
-    "auto": 10,
-    "total_stores": 104,
-    "old_store_3yr_pct": 60
+    "competitors": 4.0,
+    "food": 75.0,
+    "shopping": 30.0,
+    "leisure": 6.0,
+    "education": 15.0,
+    "hotel": 2.0,
+    "services": 47.0,
+    "fitness": 9.0,
+    "auto": 10.0,
+    "total_stores": 104.0,
+    "old_store_3yr_pct": 60.0
   },
   "nearby_poi": {
     "business": null,
-    "community": 39,
+    "community": 39.0,
     "office": null,
-    "school": 9,
-    "hospital": 8,
-    "transport": 7,
-    "scenic": 80
+    "school": 9.0,
+    "hospital": 8.0,
+    "transport": 7.0,
+    "scenic": 80.0
   },
   "demographics": {
     "male_pct": 53.2,
@@ -122,328 +122,52 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 53,
-      "within_1yr_pct": 17,
+      "count": 53.0,
+      "within_1yr_pct": 17.0,
       "1_3yr_pct": 24.5,
       "over_3yr_pct": 58.5
     },
     {
       "type": "购物",
-      "count": 18,
+      "count": 18.0,
       "within_1yr_pct": 11.1,
       "1_3yr_pct": 11.1,
       "over_3yr_pct": 77.8
     },
     {
       "type": "休闲娱乐",
-      "count": 5,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 40,
-      "over_3yr_pct": 60
+      "count": 5.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 40.0,
+      "over_3yr_pct": 60.0
     },
     {
       "type": "教育培训",
-      "count": 8,
+      "count": 8.0,
       "within_1yr_pct": 12.5,
-      "1_3yr_pct": 25,
+      "1_3yr_pct": 25.0,
       "over_3yr_pct": 62.5
     },
     {
       "type": "生活服务",
-      "count": 13,
+      "count": 13.0,
       "within_1yr_pct": 7.7,
       "1_3yr_pct": 23.1,
       "over_3yr_pct": 69.2
     },
     {
       "type": "运动健身",
-      "count": 5,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 100,
-      "over_3yr_pct": 0
+      "count": 5.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
     },
     {
       "type": "车辆服务",
-      "count": 2,
-      "within_1yr_pct": 50,
-      "1_3yr_pct": 50,
-      "over_3yr_pct": 0
+      "count": 2.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 0.0
     }
-  ],
-  "nearby_communities": [
-    {
-      "name": "汇锦城四期",
-      "households": 60,
-      "residents": "260+",
-      "year": "2012",
-      "raw": "汇锦城四期 户数:60 居住人数:260+ 建筑年份:2012"
-    },
-    {
-      "name": "汇锦城-2期",
-      "households": 1321,
-      "residents": "4247",
-      "year": "2013",
-      "raw": "汇锦城-2期 户数:1321 居住人数:4247 建筑年份:2013"
-    },
-    {
-      "name": "中洲华庭",
-      "households": 853,
-      "residents": "3127",
-      "year": "2016",
-      "raw": "中洲华庭 户数:853 居住人数:3127 建筑年份:2016"
-    },
-    {
-      "name": "吉宝汇锦城-一期",
-      "households": 450,
-      "residents": "1025",
-      "year": "2007",
-      "raw": "吉宝汇锦城-一期 户数:450 居住人数:1025 建筑年份:2007"
-    },
-    {
-      "name": "吉宝汇锦城3期",
-      "households": 960,
-      "residents": "3352",
-      "year": "2011",
-      "raw": "吉宝汇锦城3期 户数:960 居住人数:3352 建筑年份:2011"
-    },
-    {
-      "name": "汇吉苑",
-      "households": 1144,
-      "residents": "3499",
-      "year": "2006",
-      "raw": "汇吉苑 户数:1144 居住人数:3499 建筑年份:2006"
-    },
-    {
-      "name": "通秀新苑",
-      "households": 849,
-      "residents": "1087",
-      "year": "2024",
-      "raw": "通秀新苑 户数:849 居住人数:1087 建筑年份:2024-11"
-    },
-    {
-      "name": "新苑公寓",
-      "households": 30,
-      "residents": null,
-      "year": "2005",
-      "raw": "新苑公寓 户数:30 居住人数:小于100 建筑年份:2005"
-    },
-    {
-      "name": "古馨苑",
-      "households": 346,
-      "residents": "1102",
-      "year": "1998",
-      "raw": "古馨苑 户数:346 居住人数:1102 建筑年份:1998"
-    },
-    {
-      "name": "红波浪小区",
-      "households": 93,
-      "residents": "390+",
-      "year": "-",
-      "raw": "红波浪小区 户数:93 居住人数:390+ 建筑年份:-"
-    },
-    {
-      "name": "洪园新村",
-      "households": 84,
-      "residents": "380+",
-      "year": "2000",
-      "raw": "洪园新村 户数:84 居住人数:380+ 建筑年份:2000"
-    },
-    {
-      "name": "车站新村",
-      "households": 90,
-      "residents": "490+",
-      "year": "1982",
-      "raw": "车站新村 户数:90 居住人数:490+ 建筑年份:1982"
-    },
-    {
-      "name": "军民新村",
-      "households": 339,
-      "residents": "450+",
-      "year": "1992",
-      "raw": "军民新村 户数:339 居住人数:450+ 建筑年份:1992"
-    },
-    {
-      "name": "安广苑2期",
-      "households": 61,
-      "residents": "410+",
-      "year": "-",
-      "raw": "安广苑2期 户数:61 居住人数:410+ 建筑年份:-"
-    },
-    {
-      "name": "石笋新村",
-      "households": 362,
-      "residents": "670+",
-      "year": "-",
-      "raw": "石笋新村 户数:362 居住人数:670+ 建筑年份:-"
-    },
-    {
-      "name": "石笋一村",
-      "households": 680,
-      "residents": "1463",
-      "year": "1988",
-      "raw": "石笋一村 户数:680 居住人数:1463 建筑年份:1988"
-    },
-    {
-      "name": "新环西路546弄小区",
-      "households": 60,
-      "residents": "280+",
-      "year": "2004",
-      "raw": "新环西路546弄小区 户数:60 居住人数:280+ 建筑年份:2004"
-    },
-    {
-      "name": "朝晖新村",
-      "households": 56,
-      "residents": null,
-      "year": "-",
-      "raw": "朝晖新村 户数:56 居住人数:小于100 建筑年份:-"
-    },
-    {
-      "name": "石笋二村",
-      "households": 258,
-      "residents": "500+",
-      "year": "-",
-      "raw": "石笋二村 户数:258 居住人数:500+ 建筑年份:-"
-    },
-    {
-      "name": "古镇檀香湾",
-      "households": 157,
-      "residents": "290+",
-      "year": "-",
-      "raw": "古镇檀香湾 户数:157 居住人数:290+ 建筑年份:-"
-    },
-    {
-      "name": "石笋二村-东区",
-      "households": 201,
-      "residents": "1044",
-      "year": "2004",
-      "raw": "石笋二村-东区 户数:201 居住人数:1044 建筑年份:2004"
-    },
-    {
-      "name": "工农新村",
-      "households": 389,
-      "residents": "1105",
-      "year": "1986",
-      "raw": "工农新村 户数:389 居住人数:1105 建筑年份:1986"
-    },
-    {
-      "name": "兴欣花苑",
-      "households": 170,
-      "residents": "870+",
-      "year": "2004",
-      "raw": "兴欣花苑 户数:170 居住人数:870+ 建筑年份:2004"
-    },
-    {
-      "name": "通汇新村",
-      "households": 253,
-      "residents": "700+",
-      "year": "1996",
-      "raw": "通汇新村 户数:253 居住人数:700+ 建筑年份:1996"
-    },
-    {
-      "name": "冠郡1期",
-      "households": 1448,
-      "residents": "1688",
-      "year": "2006",
-      "raw": "冠郡1期 户数:1448 居住人数:1688 建筑年份:2006"
-    },
-    {
-      "name": "古佳苑",
-      "households": 786,
-      "residents": "2128",
-      "year": "2008",
-      "raw": "古佳苑 户数:786 居住人数:2128 建筑年份:2008"
-    },
-    {
-      "name": "古春苑",
-      "households": 1546,
-      "residents": "3829",
-      "year": "2014",
-      "raw": "古春苑 户数:1546 居住人数:3829 建筑年份:2014"
-    },
-    {
-      "name": "万科·清林径",
-      "households": 1269,
-      "residents": "3573",
-      "year": "2012",
-      "raw": "万科·清林径 户数:1269 居住人数:3573 建筑年份:2012"
-    },
-    {
-      "name": "丝庐雅苑1期",
-      "households": 640,
-      "residents": "2186",
-      "year": "2017",
-      "raw": "丝庐雅苑1期 户数:640 居住人数:2186 建筑年份:2017"
-    },
-    {
-      "name": "丝庐雅苑2期",
-      "households": 1476,
-      "residents": "4328",
-      "year": "2015",
-      "raw": "丝庐雅苑2期 户数:1476 居住人数:4328 建筑年份:2015"
-    },
-    {
-      "name": "东方冠郡-二期",
-      "households": 1277,
-      "residents": "4114",
-      "year": "2012",
-      "raw": "东方冠郡-二期 户数:1277 居住人数:4114 建筑年份:2012"
-    },
-    {
-      "name": "新场鑫庆里",
-      "households": 333,
-      "residents": null,
-      "year": "-",
-      "raw": "新场鑫庆里 户数:333 居住人数:小于100 建筑年份:-"
-    },
-    {
-      "name": "东方冠郡别墅",
-      "households": 76,
-      "residents": "520+",
-      "year": "2013",
-      "raw": "东方冠郡别墅 户数:76 居住人数:520+ 建筑年份:2013"
-    },
-    {
-      "name": "同润欣汇名邸",
-      "households": 522,
-      "residents": "410+",
-      "year": "2025",
-      "raw": "同润欣汇名邸 户数:522 居住人数:410+ 建筑年份:2025"
-    },
-    {
-      "name": "招商象屿·星耀翠湾",
-      "households": 438,
-      "residents": "130+",
-      "year": "-",
-      "raw": "招商象屿·星耀翠湾 户数:438 居住人数:130+ 建筑年份:-"
-    },
-    {
-      "name": "福善家园",
-      "households": 959,
-      "residents": "1699",
-      "year": "-",
-      "raw": "福善家园 户数:959 居住人数:1699 建筑年份:-"
-    },
-    {
-      "name": "禧瑞祥云",
-      "households": 657,
-      "residents": "2069",
-      "year": "2020",
-      "raw": "禧瑞祥云 户数:657 居住人数:2069 建筑年份:2020"
-    },
-    {
-      "name": "硅谷商墅",
-      "households": 981,
-      "residents": "290+",
-      "year": "2015",
-      "raw": "硅谷商墅 户数:981 居住人数:290+ 建筑年份:2015"
-    },
-    {
-      "name": "安集协康公寓",
-      "households": 9,
-      "residents": null,
-      "year": "-",
-      "raw": "安集协康公寓 户数:9 居住人数:小于100 建筑年份:-"
-    }
-  ],
-  "community_count": 39
+  ]
 }

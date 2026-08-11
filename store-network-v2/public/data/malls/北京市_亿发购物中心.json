@@ -7,7 +7,7 @@
   "overview": {
     "score": null,
     "score_rank": "",
-    "population_score": 87,
+    "population_score": 87.0,
     "area_score": 66.7,
     "consumption_score": 70.9,
     "industry_score": 68.1,
@@ -43,8 +43,8 @@
       "3km": 45.5
     },
     "office": {
-      "500m": 5300,
-      "1_5km": 5,
+      "500m": 5300.0,
+      "1_5km": 5.0,
       "3km": 21.9
     },
     "permanent": {
@@ -55,25 +55,25 @@
   },
   "business": {
     "competitors": null,
-    "food": 100,
-    "shopping": 60,
-    "leisure": 4,
-    "education": 7,
-    "hotel": 4,
-    "services": 50,
-    "fitness": 3,
-    "auto": 4,
-    "total_stores": 232,
-    "old_store_3yr_pct": 52
+    "food": 100.0,
+    "shopping": 60.0,
+    "leisure": 4.0,
+    "education": 7.0,
+    "hotel": 4.0,
+    "services": 50.0,
+    "fitness": 3.0,
+    "auto": 4.0,
+    "total_stores": 232.0,
+    "old_store_3yr_pct": 52.0
   },
   "nearby_poi": {
     "business": null,
-    "community": 177,
-    "office": 12,
-    "school": 18,
-    "hospital": 19,
-    "transport": 7,
-    "scenic": 44
+    "community": 177.0,
+    "office": 12.0,
+    "school": 18.0,
+    "hospital": 19.0,
+    "transport": 7.0,
+    "scenic": 44.0
   },
   "demographics": {
     "male_pct": 51.9,
@@ -147,468 +147,59 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 100,
-      "within_1yr_pct": 30,
-      "1_3yr_pct": 28,
-      "over_3yr_pct": 42
+      "count": 100.0,
+      "within_1yr_pct": 30.0,
+      "1_3yr_pct": 28.0,
+      "over_3yr_pct": 42.0
     },
     {
       "type": "购物",
-      "count": 60,
+      "count": 60.0,
       "within_1yr_pct": 21.7,
       "1_3yr_pct": 13.3,
-      "over_3yr_pct": 65
+      "over_3yr_pct": 65.0
     },
     {
       "type": "休闲娱乐",
-      "count": 4,
-      "within_1yr_pct": 25,
-      "1_3yr_pct": 25,
-      "over_3yr_pct": 50
+      "count": 4.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 50.0
     },
     {
       "type": "教育培训",
-      "count": 7,
-      "within_1yr_pct": 0,
+      "count": 7.0,
+      "within_1yr_pct": 0.0,
       "1_3yr_pct": 14.3,
       "over_3yr_pct": 85.7
     },
     {
       "type": "酒店住宿",
-      "count": 4,
-      "within_1yr_pct": 50,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 50
+      "count": 4.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 50.0
     },
     {
       "type": "生活服务",
-      "count": 50,
-      "within_1yr_pct": 12,
-      "1_3yr_pct": 32,
-      "over_3yr_pct": 56
+      "count": 50.0,
+      "within_1yr_pct": 12.0,
+      "1_3yr_pct": 32.0,
+      "over_3yr_pct": 56.0
     },
     {
       "type": "运动健身",
-      "count": 3,
+      "count": 3.0,
       "within_1yr_pct": 33.3,
       "1_3yr_pct": 33.3,
       "over_3yr_pct": 33.3
     },
     {
       "type": "车辆服务",
-      "count": 4,
-      "within_1yr_pct": 25,
-      "1_3yr_pct": 50,
-      "over_3yr_pct": 25
+      "count": 4.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 25.0
     }
-  ],
-  "nearby_communities": [
-    {
-      "name": "宏福苑小区-北区",
-      "households": 1308,
-      "residents": "3345",
-      "year": "2002",
-      "raw": "宏福苑小区-北区 户数:1308 居住人数:3345 建筑年份:2002"
-    },
-    {
-      "name": "悦园湖畔",
-      "households": 345,
-      "residents": "2201",
-      "year": "-",
-      "raw": "悦园湖畔 户数:345 居住人数:2201 建筑年份:-"
-    },
-    {
-      "name": "宏福苑中区",
-      "households": 12506,
-      "residents": "19123",
-      "year": "2002",
-      "raw": "宏福苑中区 户数:12506 居住人数:19123 建筑年份:2002"
-    },
-    {
-      "name": "沙河镇白各庄商业中心",
-      "households": 4849,
-      "residents": "950+",
-      "year": "2000",
-      "raw": "沙河镇白各庄商业中心 户数:4849 居住人数:950+ 建筑年份:2000"
-    },
-    {
-      "name": "顺正和小区",
-      "households": 172,
-      "residents": "710+",
-      "year": "-",
-      "raw": "顺正和小区 户数:172 居住人数:710+ 建筑年份:-"
-    },
-    {
-      "name": "万福兴公寓",
-      "households": 17,
-      "residents": "220+",
-      "year": "-",
-      "raw": "万福兴公寓 户数:17 居住人数:220+ 建筑年份:-"
-    },
-    {
-      "name": "白各庄村-三区",
-      "households": 9875,
-      "residents": "4503",
-      "year": "2000",
-      "raw": "白各庄村-三区 户数:9875 居住人数:4503 建筑年份:2000"
-    },
-    {
-      "name": "金万众空调厂宿舍楼",
-      "households": 17,
-      "residents": "130+",
-      "year": "-",
-      "raw": "金万众空调厂宿舍楼 户数:17 居住人数:130+ 建筑年份:-"
-    },
-    {
-      "name": "利成小区",
-      "households": 95,
-      "residents": null,
-      "year": "-",
-      "raw": "利成小区 户数:95 居住人数:小于100 建筑年份:-"
-    },
-    {
-      "name": "花筑精品公寓",
-      "households": 30,
-      "residents": "150+",
-      "year": "-",
-      "raw": "花筑精品公寓 户数:30 居住人数:150+ 建筑年份:-"
-    },
-    {
-      "name": "白各庄新村-2期",
-      "households": 1241,
-      "residents": "7136",
-      "year": "-",
-      "raw": "白各庄新村-2期 户数:1241 居住人数:7136 建筑年份:-"
-    },
-    {
-      "name": "宏福苑小区南一区",
-      "households": 3657,
-      "residents": "6734",
-      "year": "1999",
-      "raw": "宏福苑小区南一区 户数:3657 居住人数:6734 建筑年份:1999"
-    },
-    {
-      "name": "宏福苑南二区",
-      "households": 3697,
-      "residents": "5039",
-      "year": "1999",
-      "raw": "宏福苑南二区 户数:3697 居住人数:5039 建筑年份:1999"
-    },
-    {
-      "name": "宏福苑青年公寓-南楼",
-      "households": 68,
-      "residents": "1370",
-      "year": "-",
-      "raw": "宏福苑青年公寓-南楼 户数:68 居住人数:1370 建筑年份:-"
-    },
-    {
-      "name": "宏福11号院",
-      "households": 206,
-      "residents": "170+",
-      "year": "-",
-      "raw": "宏福11号院 户数:206 居住人数:170+ 建筑年份:-"
-    },
-    {
-      "name": "白各庄新村西-一区",
-      "households": 1078,
-      "residents": "5341",
-      "year": "-",
-      "raw": "白各庄新村西-一区 户数:1078 居住人数:5341 建筑年份:-"
-    },
-    {
-      "name": "红枫湖宿舍区",
-      "households": 101,
-      "residents": null,
-      "year": "-",
-      "raw": "红枫湖宿舍区 户数:101 居住人数:小于100 建筑年份:-"
-    },
-    {
-      "name": "白各庄新村-西区",
-      "households": 817,
-      "residents": "770+",
-      "year": "-",
-      "raw": "白各庄新村-西区 户数:817 居住人数:770+ 建筑年份:-"
-    },
-    {
-      "name": "北京城建畅悦居D区",
-      "households": 507,
-      "residents": "1139",
-      "year": "2016",
-      "raw": "北京城建畅悦居D区 户数:507 居住人数:1139 建筑年份:2016"
-    },
-    {
-      "name": "北京城建龙樾华府",
-      "households": 325,
-      "residents": "680+",
-      "year": "2018",
-      "raw": "北京城建龙樾华府 户数:325 居住人数:680+ 建筑年份:2018"
-    },
-    {
-      "name": "京城建畅悦居-西区",
-      "households": 207,
-      "residents": "1663",
-      "year": "-",
-      "raw": "京城建畅悦居-西区 户数:207 居住人数:1663 建筑年份:-"
-    },
-    {
-      "name": "顺玮阁小区",
-      "households": 552,
-      "residents": "1544",
-      "year": "2008",
-      "raw": "顺玮阁小区 户数:552 居住人数:1544 建筑年份:2008"
-    },
-    {
-      "name": "珠江紫宸山",
-      "households": 7828,
-      "residents": "1122",
-      "year": "2012",
-      "raw": "珠江紫宸山 户数:7828 居住人数:1122 建筑年份:2012"
-    },
-    {
-      "name": "白鹭园",
-      "households": 2024,
-      "residents": null,
-      "year": "-",
-      "raw": "白鹭园 户数:2024 居住人数:小于100 建筑年份:-"
-    },
-    {
-      "name": "荟萃楼",
-      "households": null,
-      "residents": null,
-      "year": "-",
-      "raw": "荟萃楼 建筑年份:- 北京市昌平区定泗路顺玮阁小区北侧约90米"
-    },
-    {
-      "name": "珠江茉香郡",
-      "households": 1683,
-      "residents": "290+",
-      "year": "-",
-      "raw": "珠江茉香郡 户数:1683 居住人数:290+ 建筑年份:-"
-    },
-    {
-      "name": "TBD云集中心",
-      "households": 1739,
-      "residents": "1934",
-      "year": "2015",
-      "raw": "TBD云集中心 户数:1739 居住人数:1934 建筑年份:2015"
-    },
-    {
-      "name": "白各庄龙腾公寓",
-      "households": 46,
-      "residents": "230+",
-      "year": "-",
-      "raw": "白各庄龙腾公寓 户数:46 居住人数:230+ 建筑年份:-"
-    },
-    {
-      "name": "海龙公寓",
-      "households": 21,
-      "residents": "460+",
-      "year": "-",
-      "raw": "海龙公寓 户数:21 居住人数:460+ 建筑年份:-"
-    },
-    {
-      "name": "北清橡树湾",
-      "households": 743,
-      "residents": "1293",
-      "year": "-",
-      "raw": "北清橡树湾 户数:743 居住人数:1293 建筑年份:-"
-    },
-    {
-      "name": "王府街31号院",
-      "households": 120,
-      "residents": "120+",
-      "year": "-",
-      "raw": "王府街31号院 户数:120 居住人数:120+ 建筑年份:-"
-    },
-    {
-      "name": "平西府村甲317号院",
-      "households": 46,
-      "residents": null,
-      "year": "-",
-      "raw": "平西府村甲317号院 户数:46 居住人数:小于100 建筑年份:-"
-    },
-    {
-      "name": "珠江天樾书院",
-      "households": 1144,
-      "residents": "140+",
-      "year": "-",
-      "raw": "珠江天樾书院 户数:1144 居住人数:140+ 建筑年份:-"
-    },
-    {
-      "name": "靖安居",
-      "households": 7,
-      "residents": "450+",
-      "year": "-",
-      "raw": "靖安居 户数:7 居住人数:450+ 建筑年份:-"
-    },
-    {
-      "name": "祥和公寓",
-      "households": 7,
-      "residents": "260+",
-      "year": "-",
-      "raw": "祥和公寓 户数:7 居住人数:260+ 建筑年份:-"
-    },
-    {
-      "name": "王府公寓",
-      "households": 113,
-      "residents": null,
-      "year": "-",
-      "raw": "王府公寓 户数:113 居住人数:小于100 建筑年份:-"
-    },
-    {
-      "name": "王府西苑",
-      "households": 42,
-      "residents": "220+",
-      "year": "2000",
-      "raw": "王府西苑 户数:42 居住人数:220+ 建筑年份:2000"
-    },
-    {
-      "name": "港湾公寓",
-      "households": 5,
-      "residents": "270+",
-      "year": "-",
-      "raw": "港湾公寓 户数:5 居住人数:270+ 建筑年份:-"
-    },
-    {
-      "name": "平西府66号院",
-      "households": 118,
-      "residents": null,
-      "year": "-",
-      "raw": "平西府66号院 户数:118 居住人数:小于100 建筑年份:-"
-    },
-    {
-      "name": "启泽公寓",
-      "households": 7,
-      "residents": null,
-      "year": "-",
-      "raw": "启泽公寓 户数:7 居住人数:小于100 建筑年份:-"
-    },
-    {
-      "name": "垂钓园小区",
-      "households": 167,
-      "residents": "760+",
-      "year": "2000",
-      "raw": "垂钓园小区 户数:167 居住人数:760+ 建筑年份:2000"
-    },
-    {
-      "name": "平安家园",
-      "households": 7,
-      "residents": null,
-      "year": "-",
-      "raw": "平安家园 户数:7 居住人数:小于100 建筑年份:-"
-    },
-    {
-      "name": "欣馨公寓",
-      "households": 13,
-      "residents": "200+",
-      "year": "-",
-      "raw": "欣馨公寓 户数:13 居住人数:200+ 建筑年份:-"
-    },
-    {
-      "name": "天巨基业公寓楼",
-      "households": 11,
-      "residents": null,
-      "year": "-",
-      "raw": "天巨基业公寓楼 户数:11 居住人数:小于100 建筑年份:-"
-    },
-    {
-      "name": "德利公寓",
-      "households": 24,
-      "residents": "110+",
-      "year": "-",
-      "raw": "德利公寓 户数:24 居住人数:110+ 建筑年份:-"
-    },
-    {
-      "name": "523公寓",
-      "households": 8,
-      "residents": null,
-      "year": "-",
-      "raw": "523公寓 户数:8 居住人数:小于100 建筑年份:-"
-    },
-    {
-      "name": "如家公寓",
-      "households": null,
-      "residents": null,
-      "year": "-",
-      "raw": "如家公寓 建筑年份:- 北京市昌平区北清路"
-    },
-    {
-      "name": "东方公寓",
-      "households": 6,
-      "residents": null,
-      "year": "-",
-      "raw": "东方公寓 户数:6 居住人数:小于100 建筑年份:-"
-    },
-    {
-      "name": "丹青语堂",
-      "households": 90,
-      "residents": "250+",
-      "year": "2007",
-      "raw": "丹青语堂 户数:90 居住人数:250+ 建筑年份:2007"
-    },
-    {
-      "name": "王府温馨公寓",
-      "households": 1158,
-      "residents": "2818",
-      "year": "1998",
-      "raw": "王府温馨公寓 户数:1158 居住人数:2818 建筑年份:1998"
-    },
-    {
-      "name": "公园悦府二区",
-      "households": 1460,
-      "residents": "5658",
-      "year": "2015",
-      "raw": "公园悦府二区 户数:1460 居住人数:5658 建筑年份:2015"
-    },
-    {
-      "name": "富贵公寓",
-      "households": 481,
-      "residents": null,
-      "year": "-",
-      "raw": "富贵公寓 户数:481 居住人数:小于100 建筑年份:-"
-    },
-    {
-      "name": "园中园-五区",
-      "households": 321,
-      "residents": "190+",
-      "year": "-",
-      "raw": "园中园-五区 户数:321 居住人数:190+ 建筑年份:-"
-    },
-    {
-      "name": "城北人家",
-      "households": 204,
-      "residents": "660+",
-      "year": "2005",
-      "raw": "城北人家 户数:204 居住人数:660+ 建筑年份:2005"
-    },
-    {
-      "name": "公园悦府一区",
-      "households": 2071,
-      "residents": "4306",
-      "year": "2018",
-      "raw": "公园悦府一区 户数:2071 居住人数:4306 建筑年份:2018"
-    },
-    {
-      "name": "尚信四合院",
-      "households": 287,
-      "residents": "100+",
-      "year": "-",
-      "raw": "尚信四合院 户数:287 居住人数:100+ 建筑年份:-"
-    },
-    {
-      "name": "龙锦苑-东一区",
-      "households": 1512,
-      "residents": "5022",
-      "year": "2007",
-      "raw": "龙锦苑-东一区 户数:1512 居住人数:5022 建筑年份:2007"
-    },
-    {
-      "name": "园中园",
-      "households": 401,
-      "residents": "1093",
-      "year": "2007",
-      "raw": "园中园 户数:401 居住人数:1093 建筑年份:2007"
-    }
-  ],
-  "community_count": 58
+  ]
 }
