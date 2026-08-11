@@ -43,48 +43,48 @@
       "3km": 80.2
     },
     "office": {
-      "500m": 3.0,
+      "500m": 3,
       "1_5km": 26.5,
-      "3km": 74.0
+      "3km": 74
     },
     "permanent": {
-      "500m": 2.0,
+      "500m": 2,
       "1_5km": 19.3,
       "3km": 86.2
     }
   },
   "business": {
-    "competitors": 11.0,
-    "food": 230.0,
-    "shopping": 130.0,
-    "leisure": 24.0,
-    "education": 44.0,
-    "hotel": 28.0,
-    "services": 219.0,
-    "fitness": 34.0,
-    "auto": 22.0,
-    "total_stores": 748.0,
-    "old_store_3yr_pct": 44.0
+    "competitors": 11,
+    "food": 230,
+    "shopping": 130,
+    "leisure": 24,
+    "education": 44,
+    "hotel": 28,
+    "services": 219,
+    "fitness": 34,
+    "auto": 22,
+    "total_stores": 748,
+    "old_store_3yr_pct": 44
   },
   "nearby_poi": {
-    "business": 13.0,
-    "community": 448.0,
-    "office": 138.0,
-    "school": 18.0,
-    "hospital": 172.0,
-    "transport": 8.0,
-    "scenic": 186.0
+    "business": 13,
+    "community": 448,
+    "office": 138,
+    "school": 18,
+    "hospital": 172,
+    "transport": 8,
+    "scenic": 186
   },
   "demographics": {
     "male_pct": 52.8,
     "female_pct": null,
     "education": {
-      "小学": 9.0,
+      "小学": 9,
       "初中": 15.8,
       "高中": 10.7,
       "大专": 6.8,
       "本科": 49.2,
-      "硕士": 7.0,
+      "硕士": 7,
       "博士": 1.5
     },
     "has_children_pct": null,
@@ -428,59 +428,559 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 230.0,
-      "within_1yr_pct": 27.0,
+      "count": 230,
+      "within_1yr_pct": 27,
       "1_3yr_pct": 30.4,
       "over_3yr_pct": 42.6
     },
     {
       "type": "购物",
-      "count": 130.0,
+      "count": 130,
       "within_1yr_pct": 25.4,
       "1_3yr_pct": 26.9,
       "over_3yr_pct": 47.7
     },
     {
       "type": "休闲娱乐",
-      "count": 41.0,
+      "count": 41,
       "within_1yr_pct": 31.7,
-      "1_3yr_pct": 22.0,
+      "1_3yr_pct": 22,
       "over_3yr_pct": 46.3
     },
     {
       "type": "教育培训",
-      "count": 44.0,
+      "count": 44,
       "within_1yr_pct": 18.2,
       "1_3yr_pct": 38.6,
       "over_3yr_pct": 43.2
     },
     {
       "type": "酒店住宿",
-      "count": 28.0,
+      "count": 28,
       "within_1yr_pct": 32.1,
       "1_3yr_pct": 17.9,
-      "over_3yr_pct": 50.0
+      "over_3yr_pct": 50
     },
     {
       "type": "生活服务",
-      "count": 219.0,
+      "count": 219,
       "within_1yr_pct": 26.9,
       "1_3yr_pct": 28.8,
       "over_3yr_pct": 44.3
     },
     {
       "type": "运动健身",
-      "count": 34.0,
+      "count": 34,
       "within_1yr_pct": 23.5,
       "1_3yr_pct": 44.1,
       "over_3yr_pct": 32.4
     },
     {
       "type": "车辆服务",
-      "count": 22.0,
+      "count": 22,
       "within_1yr_pct": 31.8,
       "1_3yr_pct": 31.8,
       "over_3yr_pct": 36.4
     }
-  ]
+  ],
+  "nearby_communities": [
+    {
+      "name": "清风花苑",
+      "households": 537,
+      "residents": "1339",
+      "year": "2009",
+      "raw": "清风花苑 户数:537 居住人数:1339 建筑年份:2009"
+    },
+    {
+      "name": "丽都璟庭",
+      "households": 522,
+      "residents": "1469",
+      "year": "2016",
+      "raw": "丽都璟庭 户数:522 居住人数:1469 建筑年份:2016"
+    },
+    {
+      "name": "清风名苑",
+      "households": 552,
+      "residents": "1466",
+      "year": "2009",
+      "raw": "清风名苑 户数:552 居住人数:1466 建筑年份:2009"
+    },
+    {
+      "name": "颐和泊雅轩",
+      "households": 96,
+      "residents": "280+",
+      "year": "2016",
+      "raw": "颐和泊雅轩 户数:96 居住人数:280+ 建筑年份:2016"
+    },
+    {
+      "name": "东亚阳光里",
+      "households": 906,
+      "residents": "1625",
+      "year": "2010",
+      "raw": "东亚阳光里 户数:906 居住人数:1625 建筑年份:2010"
+    },
+    {
+      "name": "泥城清风雅苑",
+      "households": 1022,
+      "residents": "2992",
+      "year": "2009",
+      "raw": "泥城清风雅苑 户数:1022 居住人数:2992 建筑年份:2009"
+    },
+    {
+      "name": "清风丽苑",
+      "households": 958,
+      "residents": "2810",
+      "year": "2009",
+      "raw": "清风丽苑 户数:958 居住人数:2810 建筑年份:2009"
+    },
+    {
+      "name": "云帆花苑",
+      "households": 931,
+      "residents": "2483",
+      "year": "-",
+      "raw": "云帆花苑 户数:931 居住人数:2483 建筑年份:-"
+    },
+    {
+      "name": "蓝色城邦",
+      "households": 757,
+      "residents": "2173",
+      "year": "2011",
+      "raw": "蓝色城邦 户数:757 居住人数:2173 建筑年份:2011-03"
+    },
+    {
+      "name": "蔡家住宅",
+      "households": 3,
+      "residents": null,
+      "year": "-",
+      "raw": "蔡家住宅 户数:3 居住人数:小于100 建筑年份:-"
+    },
+    {
+      "name": "浦纳逸墅(奉贤开发区店)",
+      "households": 193,
+      "residents": null,
+      "year": "-",
+      "raw": "浦纳逸墅(奉贤开发区店) 户数:193 居住人数:小于100 建筑年份:-"
+    },
+    {
+      "name": "云帆名苑",
+      "households": 904,
+      "residents": "2242",
+      "year": "2007",
+      "raw": "云帆名苑 户数:904 居住人数:2242 建筑年份:2007"
+    },
+    {
+      "name": "云帆佳苑",
+      "households": 1014,
+      "residents": "2703",
+      "year": "2007",
+      "raw": "云帆佳苑 户数:1014 居住人数:2703 建筑年份:2007"
+    },
+    {
+      "name": "丽都华庭",
+      "households": 986,
+      "residents": "2888",
+      "year": "2014",
+      "raw": "丽都华庭 户数:986 居住人数:2888 建筑年份:2014"
+    },
+    {
+      "name": "云松翠庭",
+      "households": 1220,
+      "residents": "3384",
+      "year": "2008",
+      "raw": "云松翠庭 户数:1220 居住人数:3384 建筑年份:2008"
+    },
+    {
+      "name": "荷风翠庭",
+      "households": 1474,
+      "residents": "4154",
+      "year": "2010",
+      "raw": "荷风翠庭 户数:1474 居住人数:4154 建筑年份:2010"
+    },
+    {
+      "name": "崇峻实业公寓",
+      "households": 20,
+      "residents": null,
+      "year": "-",
+      "raw": "崇峻实业公寓 户数:20 居住人数:小于100 建筑年份:-"
+    },
+    {
+      "name": "云帆雅苑",
+      "households": 776,
+      "residents": "2188",
+      "year": "2007",
+      "raw": "云帆雅苑 户数:776 居住人数:2188 建筑年份:2007"
+    },
+    {
+      "name": "荷风景庭",
+      "households": 1138,
+      "residents": "3504",
+      "year": "2009",
+      "raw": "荷风景庭 户数:1138 居住人数:3504 建筑年份:2009"
+    },
+    {
+      "name": "美仑新村",
+      "households": 144,
+      "residents": "600+",
+      "year": "1998",
+      "raw": "美仑新村 户数:144 居住人数:600+ 建筑年份:1998"
+    },
+    {
+      "name": "碧桂园浦东星作",
+      "households": 400,
+      "residents": "1505",
+      "year": "2018",
+      "raw": "碧桂园浦东星作 户数:400 居住人数:1505 建筑年份:2018"
+    },
+    {
+      "name": "云松华庭",
+      "households": 532,
+      "residents": "1582",
+      "year": "2008",
+      "raw": "云松华庭 户数:532 居住人数:1582 建筑年份:2008"
+    },
+    {
+      "name": "临港溪语别院",
+      "households": 11,
+      "residents": null,
+      "year": "-",
+      "raw": "临港溪语别院 户数:11 居住人数:小于100 建筑年份:-"
+    },
+    {
+      "name": "云锦名苑",
+      "households": 804,
+      "residents": "2392",
+      "year": "2005",
+      "raw": "云锦名苑 户数:804 居住人数:2392 建筑年份:2005"
+    },
+    {
+      "name": "云锦雅苑",
+      "households": 576,
+      "residents": "1748",
+      "year": "2006",
+      "raw": "云锦雅苑 户数:576 居住人数:1748 建筑年份:2006"
+    },
+    {
+      "name": "云锦佳苑",
+      "households": 312,
+      "residents": "870+",
+      "year": "2006",
+      "raw": "云锦佳苑 户数:312 居住人数:870+ 建筑年份:2006"
+    },
+    {
+      "name": "金利都新村",
+      "households": 47,
+      "residents": "340+",
+      "year": "-",
+      "raw": "金利都新村 户数:47 居住人数:340+ 建筑年份:-"
+    },
+    {
+      "name": "荷风华庭",
+      "households": 1685,
+      "residents": "4651",
+      "year": "2008",
+      "raw": "荷风华庭 户数:1685 居住人数:4651 建筑年份:2008"
+    },
+    {
+      "name": "云松景庭",
+      "households": 600,
+      "residents": "1341",
+      "year": "2008",
+      "raw": "云松景庭 户数:600 居住人数:1341 建筑年份:2008"
+    },
+    {
+      "name": "农具新村",
+      "households": 92,
+      "residents": "720+",
+      "year": "1999",
+      "raw": "农具新村 户数:92 居住人数:720+ 建筑年份:1999"
+    },
+    {
+      "name": "云锦新苑",
+      "households": 564,
+      "residents": "1314",
+      "year": "2006",
+      "raw": "云锦新苑 户数:564 居住人数:1314 建筑年份:2006"
+    },
+    {
+      "name": "乾耀东港",
+      "households": 888,
+      "residents": "2787",
+      "year": "2013",
+      "raw": "乾耀东港 户数:888 居住人数:2787 建筑年份:2013"
+    },
+    {
+      "name": "文卫新村-北区",
+      "households": 324,
+      "residents": "1186",
+      "year": "2000",
+      "raw": "文卫新村-北区 户数:324 居住人数:1186 建筑年份:2000"
+    },
+    {
+      "name": "云树雅居",
+      "households": 633,
+      "residents": "1572",
+      "year": "2009",
+      "raw": "云树雅居 户数:633 居住人数:1572 建筑年份:2009"
+    },
+    {
+      "name": "云树欣居",
+      "households": 690,
+      "residents": "2119",
+      "year": "2007",
+      "raw": "云树欣居 户数:690 居住人数:2119 建筑年份:2007"
+    },
+    {
+      "name": "文卫新村-南区",
+      "households": 47,
+      "residents": "260+",
+      "year": "-",
+      "raw": "文卫新村-南区 户数:47 居住人数:260+ 建筑年份:-"
+    },
+    {
+      "name": "云水盛兴居",
+      "households": 508,
+      "residents": "1500",
+      "year": "-",
+      "raw": "云水盛兴居 户数:508 居住人数:1500 建筑年份:-"
+    },
+    {
+      "name": "彭平花园",
+      "households": 440,
+      "residents": "2069",
+      "year": "-",
+      "raw": "彭平花园 户数:440 居住人数:2069 建筑年份:-"
+    },
+    {
+      "name": "云汉富颐苑",
+      "households": 1544,
+      "residents": "5294",
+      "year": "2017",
+      "raw": "云汉富颐苑 户数:1544 居住人数:5294 建筑年份:2017"
+    },
+    {
+      "name": "云树仁居",
+      "households": 758,
+      "residents": "2203",
+      "year": "2009",
+      "raw": "云树仁居 户数:758 居住人数:2203 建筑年份:2009"
+    },
+    {
+      "name": "临港泥城苑",
+      "households": 553,
+      "residents": "1765",
+      "year": "2013",
+      "raw": "临港泥城苑 户数:553 居住人数:1765 建筑年份:2013"
+    },
+    {
+      "name": "新元露华苑",
+      "households": 627,
+      "residents": "550+",
+      "year": "-",
+      "raw": "新元露华苑 户数:627 居住人数:550+ 建筑年份:-"
+    },
+    {
+      "name": "云汉和雅苑",
+      "households": 332,
+      "residents": "1289",
+      "year": "2017",
+      "raw": "云汉和雅苑 户数:332 居住人数:1289 建筑年份:2017"
+    },
+    {
+      "name": "海云苑",
+      "households": 944,
+      "residents": "2536",
+      "year": "-",
+      "raw": "海云苑 户数:944 居住人数:2536 建筑年份:-"
+    },
+    {
+      "name": "万达·未来城",
+      "households": 392,
+      "residents": "960+",
+      "year": "2024",
+      "raw": "万达·未来城 户数:392 居住人数:960+ 建筑年份:2024-09"
+    },
+    {
+      "name": "雨浥苑",
+      "households": 1016,
+      "residents": "3143",
+      "year": "-",
+      "raw": "雨浥苑 户数:1016 居住人数:3143 建筑年份:-"
+    },
+    {
+      "name": "泽辉苑",
+      "households": 302,
+      "residents": "530+",
+      "year": "2023",
+      "raw": "泽辉苑 户数:302 居住人数:530+ 建筑年份:2023-11"
+    },
+    {
+      "name": "泥城镇彭镇社区",
+      "households": 60,
+      "residents": "230+",
+      "year": "-",
+      "raw": "泥城镇彭镇社区 户数:60 居住人数:230+ 建筑年份:-"
+    },
+    {
+      "name": "瓴舍城苑小区",
+      "households": 563,
+      "residents": "1777",
+      "year": "2023",
+      "raw": "瓴舍城苑小区 户数:563 居住人数:1777 建筑年份:2023-12"
+    },
+    {
+      "name": "新元里",
+      "households": 118,
+      "residents": "170+",
+      "year": "-",
+      "raw": "新元里 户数:118 居住人数:170+ 建筑年份:-"
+    },
+    {
+      "name": "美换新村",
+      "households": null,
+      "residents": null,
+      "year": "-",
+      "raw": "美换新村 建筑年份:- 上海市浦东新区泥城镇泥城路2号"
+    },
+    {
+      "name": "新元林彩苑",
+      "households": 293,
+      "residents": "240+",
+      "year": "-",
+      "raw": "新元林彩苑 户数:293 居住人数:240+ 建筑年份:-"
+    },
+    {
+      "name": "新元著雨苑",
+      "households": 328,
+      "residents": null,
+      "year": "-",
+      "raw": "新元著雨苑 户数:328 居住人数:小于100 建筑年份:-"
+    },
+    {
+      "name": "新元清涛苑",
+      "households": 798,
+      "residents": "520+",
+      "year": "-",
+      "raw": "新元清涛苑 户数:798 居住人数:520+ 建筑年份:-"
+    },
+    {
+      "name": "云汉白领公寓",
+      "households": 56,
+      "residents": "360+",
+      "year": "-",
+      "raw": "云汉白领公寓 户数:56 居住人数:360+ 建筑年份:-"
+    },
+    {
+      "name": "春晓苑",
+      "households": 638,
+      "residents": "1006",
+      "year": "-",
+      "raw": "春晓苑 户数:638 居住人数:1006 建筑年份:-"
+    },
+    {
+      "name": "凌波苑",
+      "households": 1085,
+      "residents": "3797",
+      "year": "-",
+      "raw": "凌波苑 户数:1085 居住人数:3797 建筑年份:-"
+    },
+    {
+      "name": "华丽新村",
+      "households": 235,
+      "residents": "350+",
+      "year": "-",
+      "raw": "华丽新村 户数:235 居住人数:350+ 建筑年份:-"
+    },
+    {
+      "name": "新元芳菲苑",
+      "households": 1636,
+      "residents": "3278",
+      "year": "-",
+      "raw": "新元芳菲苑 户数:1636 居住人数:3278 建筑年份:-"
+    },
+    {
+      "name": "新元盛璟苑",
+      "households": 1108,
+      "residents": "4561",
+      "year": "2021",
+      "raw": "新元盛璟苑 户数:1108 居住人数:4561 建筑年份:2021-08"
+    },
+    {
+      "name": "港城领寓(泥城)1期",
+      "households": 578,
+      "residents": "1487",
+      "year": "-",
+      "raw": "港城领寓(泥城)1期 户数:578 居住人数:1487 建筑年份:-"
+    },
+    {
+      "name": "泥城五建生活区",
+      "households": 639,
+      "residents": "140+",
+      "year": "-",
+      "raw": "泥城五建生活区 户数:639 居住人数:140+ 建筑年份:-"
+    },
+    {
+      "name": "蓝宝石园",
+      "households": 338,
+      "residents": null,
+      "year": "-",
+      "raw": "蓝宝石园 户数:338 居住人数:小于100 建筑年份:-"
+    },
+    {
+      "name": "华府花园",
+      "households": 101,
+      "residents": null,
+      "year": "-",
+      "raw": "华府花园 户数:101 居住人数:小于100 建筑年份:-"
+    },
+    {
+      "name": "群峰雅苑",
+      "households": 835,
+      "residents": "3034",
+      "year": "2024",
+      "raw": "群峰雅苑 户数:835 居住人数:3034 建筑年份:2024-01"
+    },
+    {
+      "name": "浦东新区美芦苑小区",
+      "households": 154,
+      "residents": "860+",
+      "year": "2001",
+      "raw": "浦东新区美芦苑小区 户数:154 居住人数:860+ 建筑年份:2001"
+    },
+    {
+      "name": "万鹏苑",
+      "households": 166,
+      "residents": "370+",
+      "year": "2005",
+      "raw": "万鹏苑 户数:166 居住人数:370+ 建筑年份:2005"
+    },
+    {
+      "name": "光明星城一期",
+      "households": 712,
+      "residents": "1773",
+      "year": "2023",
+      "raw": "光明星城一期 户数:712 居住人数:1773 建筑年份:2023-12"
+    },
+    {
+      "name": "明珠园",
+      "households": 1370,
+      "residents": null,
+      "year": "-",
+      "raw": "明珠园 户数:1370 居住人数:小于100 建筑年份:-"
+    },
+    {
+      "name": "光明星城二期",
+      "households": 1037,
+      "residents": "1511",
+      "year": "2024",
+      "raw": "光明星城二期 户数:1037 居住人数:1511 建筑年份:2024-08"
+    },
+    {
+      "name": "光明星城三期",
+      "households": 1862,
+      "residents": null,
+      "year": "-",
+      "raw": "光明星城三期 户数:1862 居住人数:小于100 建筑年份:-"
+    }
+  ],
+  "community_count": 71
 }

@@ -13,7 +13,7 @@
     "industry_score": 84.7,
     "annual_sales": "2",
     "annual_sales_unit": "-",
-    "area_size_sqm": 2.0,
+    "area_size_sqm": 2,
     "open_date": "1998-04-28",
     "operator": "",
     "brand": "",
@@ -26,13 +26,13 @@
     "annual_daily_rank": "",
     "jun_total": 11.4,
     "jun_total_rank": "市内商场第311名",
-    "jun_daily_avg": 3797.0,
+    "jun_daily_avg": 3797,
     "jun_daily_unit": "人次",
     "jun_daily_rank": "市内商场第311名",
-    "weekday_avg": 3869.0,
+    "weekday_avg": 3869,
     "weekday_unit": "人次",
     "weekday_rank": "市内商场第309名",
-    "holiday_avg": 3597.0,
+    "holiday_avg": 3597,
     "holiday_unit": "人次",
     "holiday_rank": "市内商场第316名"
   },
@@ -54,41 +54,41 @@
     }
   },
   "business": {
-    "competitors": 6.0,
-    "food": 236.0,
-    "shopping": 92.0,
-    "leisure": 12.0,
-    "education": 17.0,
-    "hotel": 69.0,
-    "services": 79.0,
-    "fitness": 19.0,
-    "auto": 14.0,
-    "total_stores": 73.0,
-    "old_store_3yr_pct": 36.0
+    "competitors": 6,
+    "food": 236,
+    "shopping": 92,
+    "leisure": 12,
+    "education": 17,
+    "hotel": 69,
+    "services": 79,
+    "fitness": 19,
+    "auto": 14,
+    "total_stores": 73,
+    "old_store_3yr_pct": 36
   },
   "nearby_poi": {
-    "business": 2.0,
-    "community": 452.0,
-    "office": 63.0,
-    "school": 29.0,
-    "hospital": 77.0,
-    "transport": 6.0,
-    "scenic": 234.0
+    "business": 2,
+    "community": 452,
+    "office": 63,
+    "school": 29,
+    "hospital": 77,
+    "transport": 6,
+    "scenic": 234
   },
   "demographics": {
     "male_pct": 50.5,
     "female_pct": null,
     "education": {
       "小学": 7.9,
-      "初中": 13.0,
+      "初中": 13,
       "高中": 11.1,
-      "大专": 6.0,
+      "大专": 6,
       "本科": 47.7,
       "硕士": 11.3,
-      "博士": 3.0
+      "博士": 3
     },
-    "has_children_pct": 58.0,
-    "no_children_pct": 42.0
+    "has_children_pct": 58,
+    "no_children_pct": 42
   },
   "scraped_at": "2026-08-01T11:30:47.260Z",
   "nearby_restaurants": [
@@ -144,52 +144,580 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 43.0,
+      "count": 43,
       "within_1yr_pct": 39.5,
       "1_3yr_pct": 34.9,
       "over_3yr_pct": 25.6
     },
     {
       "type": "购物",
-      "count": 13.0,
+      "count": 13,
       "within_1yr_pct": 7.7,
       "1_3yr_pct": 30.8,
       "over_3yr_pct": 61.5
     },
     {
       "type": "休闲娱乐",
-      "count": 1.0,
-      "within_1yr_pct": 0.0,
-      "1_3yr_pct": 100.0,
-      "over_3yr_pct": 0.0
+      "count": 1,
+      "within_1yr_pct": 0,
+      "1_3yr_pct": 100,
+      "over_3yr_pct": 0
     },
     {
       "type": "教育培训",
-      "count": 1.0,
-      "within_1yr_pct": 100.0,
-      "1_3yr_pct": 0.0,
-      "over_3yr_pct": 0.0
+      "count": 1,
+      "within_1yr_pct": 100,
+      "1_3yr_pct": 0,
+      "over_3yr_pct": 0
     },
     {
       "type": "酒店住宿",
-      "count": 2.0,
-      "within_1yr_pct": 0.0,
-      "1_3yr_pct": 0.0,
-      "over_3yr_pct": 100.0
+      "count": 2,
+      "within_1yr_pct": 0,
+      "1_3yr_pct": 0,
+      "over_3yr_pct": 100
     },
     {
       "type": "生活服务",
-      "count": 10.0,
-      "within_1yr_pct": 30.0,
-      "1_3yr_pct": 20.0,
-      "over_3yr_pct": 50.0
+      "count": 10,
+      "within_1yr_pct": 30,
+      "1_3yr_pct": 20,
+      "over_3yr_pct": 50
     },
     {
       "type": "运动健身",
-      "count": 3.0,
-      "within_1yr_pct": 0.0,
-      "1_3yr_pct": 100.0,
-      "over_3yr_pct": 0.0
+      "count": 3,
+      "within_1yr_pct": 0,
+      "1_3yr_pct": 100,
+      "over_3yr_pct": 0
     }
-  ]
+  ],
+  "nearby_communities": [
+    {
+      "name": "东楼",
+      "households": 21,
+      "residents": "400+",
+      "year": "-",
+      "raw": "东楼 户数:21 居住人数:400+ 建筑年份:-"
+    },
+    {
+      "name": "怡静园",
+      "households": 75,
+      "residents": "1082",
+      "year": "2015",
+      "raw": "怡静园 户数:75 居住人数:1082 建筑年份:2015"
+    },
+    {
+      "name": "神龙坚桥小区",
+      "households": 264,
+      "residents": "1623",
+      "year": "2000",
+      "raw": "神龙坚桥小区 户数:264 居住人数:1623 建筑年份:2000"
+    },
+    {
+      "name": "华顺公寓",
+      "households": 24,
+      "residents": "650+",
+      "year": "-",
+      "raw": "华顺公寓 户数:24 居住人数:650+ 建筑年份:-"
+    },
+    {
+      "name": "众达公寓",
+      "households": 4,
+      "residents": "150+",
+      "year": "-",
+      "raw": "众达公寓 户数:4 居住人数:150+ 建筑年份:-"
+    },
+    {
+      "name": "福星公寓",
+      "households": 128,
+      "residents": "1416",
+      "year": "-",
+      "raw": "福星公寓 户数:128 居住人数:1416 建筑年份:-"
+    },
+    {
+      "name": "运通家园",
+      "households": 309,
+      "residents": "1264",
+      "year": "2006",
+      "raw": "运通家园 户数:309 居住人数:1264 建筑年份:2006"
+    },
+    {
+      "name": "神龙自成小区",
+      "households": 136,
+      "residents": "1230",
+      "year": "2000",
+      "raw": "神龙自成小区 户数:136 居住人数:1230 建筑年份:2000"
+    },
+    {
+      "name": "如意公寓",
+      "households": 24,
+      "residents": "1154",
+      "year": "-",
+      "raw": "如意公寓 户数:24 居住人数:1154 建筑年份:-"
+    },
+    {
+      "name": "兴华嘉园-东区",
+      "households": 902,
+      "residents": "2798",
+      "year": "2009",
+      "raw": "兴华嘉园-东区 户数:902 居住人数:2798 建筑年份:2009"
+    },
+    {
+      "name": "腾达公寓",
+      "households": 27,
+      "residents": "440+",
+      "year": "-",
+      "raw": "腾达公寓 户数:27 居住人数:440+ 建筑年份:-"
+    },
+    {
+      "name": "兴华嘉园-西区",
+      "households": 2440,
+      "residents": "3096",
+      "year": "2015",
+      "raw": "兴华嘉园-西区 户数:2440 居住人数:3096 建筑年份:2015"
+    },
+    {
+      "name": "通州第二医院宿舍楼",
+      "households": 46,
+      "residents": "370+",
+      "year": "-",
+      "raw": "通州第二医院宿舍楼 户数:46 居住人数:370+ 建筑年份:-"
+    },
+    {
+      "name": "神龙辛屯小区",
+      "households": 1186,
+      "residents": "3803",
+      "year": "2002",
+      "raw": "神龙辛屯小区 户数:1186 居住人数:3803 建筑年份:2002"
+    },
+    {
+      "name": "莲水怡园",
+      "households": 1118,
+      "residents": "3654",
+      "year": "2007",
+      "raw": "莲水怡园 户数:1118 居住人数:3654 建筑年份:2007"
+    },
+    {
+      "name": "兴华嘉园高层区",
+      "households": 744,
+      "residents": "1311",
+      "year": "-",
+      "raw": "兴华嘉园高层区 户数:744 居住人数:1311 建筑年份:-"
+    },
+    {
+      "name": "一世情园",
+      "households": 352,
+      "residents": "1358",
+      "year": "2006",
+      "raw": "一世情园 户数:352 居住人数:1358 建筑年份:2006"
+    },
+    {
+      "name": "财神楼",
+      "households": 13,
+      "residents": "230+",
+      "year": "-",
+      "raw": "财神楼 户数:13 居住人数:230+ 建筑年份:-"
+    },
+    {
+      "name": "米拉小镇",
+      "households": 1091,
+      "residents": "980+",
+      "year": "2012",
+      "raw": "米拉小镇 户数:1091 居住人数:980+ 建筑年份:2012"
+    },
+    {
+      "name": "神龙潼关-1区",
+      "households": 410,
+      "residents": "1120",
+      "year": "2004",
+      "raw": "神龙潼关-1区 户数:410 居住人数:1120 建筑年份:2004"
+    },
+    {
+      "name": "亦庄·橡树湾-北区",
+      "households": 2453,
+      "residents": "2651",
+      "year": "2023",
+      "raw": "亦庄·橡树湾-北区 户数:2453 居住人数:2651 建筑年份:2023"
+    },
+    {
+      "name": "神龙潼关2区",
+      "households": 456,
+      "residents": "960+",
+      "year": "2007",
+      "raw": "神龙潼关2区 户数:456 居住人数:960+ 建筑年份:2007"
+    },
+    {
+      "name": "宏仁家园",
+      "households": 1698,
+      "residents": "4494",
+      "year": "2013",
+      "raw": "宏仁家园 户数:1698 居住人数:4494 建筑年份:2013"
+    },
+    {
+      "name": "新海祥和社区",
+      "households": 613,
+      "residents": "1223",
+      "year": "2006",
+      "raw": "新海祥和社区 户数:613 居住人数:1223 建筑年份:2006"
+    },
+    {
+      "name": "亦庄橡树湾-南区",
+      "households": 1040,
+      "residents": "2570",
+      "year": "2022",
+      "raw": "亦庄橡树湾-南区 户数:1040 居住人数:2570 建筑年份:2022-12-13"
+    },
+    {
+      "name": "金桥花园-北区",
+      "households": 110,
+      "residents": "250+",
+      "year": "2002",
+      "raw": "金桥花园-北区 户数:110 居住人数:250+ 建筑年份:2002"
+    },
+    {
+      "name": "钻石空间",
+      "households": 298,
+      "residents": "1814",
+      "year": "2012",
+      "raw": "钻石空间 户数:298 居住人数:1814 建筑年份:2012"
+    },
+    {
+      "name": "神龙潼关3区",
+      "households": 930,
+      "residents": "2500",
+      "year": "1990",
+      "raw": "神龙潼关3区 户数:930 居住人数:2500 建筑年份:1990"
+    },
+    {
+      "name": "神龙金桥小区",
+      "households": 1114,
+      "residents": "3376",
+      "year": "2001",
+      "raw": "神龙金桥小区 户数:1114 居住人数:3376 建筑年份:2001"
+    },
+    {
+      "name": "新海北里",
+      "households": 1806,
+      "residents": "3295",
+      "year": "2006",
+      "raw": "新海北里 户数:1806 居住人数:3295 建筑年份:2006"
+    },
+    {
+      "name": "天和嘉园",
+      "households": 480,
+      "residents": "900+",
+      "year": "2013",
+      "raw": "天和嘉园 户数:480 居住人数:900+ 建筑年份:2013"
+    },
+    {
+      "name": "凉水河公园5区",
+      "households": 853,
+      "residents": null,
+      "year": "-",
+      "raw": "凉水河公园5区 户数:853 居住人数:小于100 建筑年份:-"
+    },
+    {
+      "name": "新海南里",
+      "households": 653,
+      "residents": "2114",
+      "year": "2006",
+      "raw": "新海南里 户数:653 居住人数:2114 建筑年份:2006"
+    },
+    {
+      "name": "样本",
+      "households": 1059,
+      "residents": "3464",
+      "year": "2006",
+      "raw": "样本 户数:1059 居住人数:3464 建筑年份:2006"
+    },
+    {
+      "name": "格林小镇",
+      "households": 1141,
+      "residents": "1400",
+      "year": "2008",
+      "raw": "格林小镇 户数:1141 居住人数:1400 建筑年份:2008"
+    },
+    {
+      "name": "神龙盛唐",
+      "households": 226,
+      "residents": "810+",
+      "year": "-",
+      "raw": "神龙盛唐 户数:226 居住人数:810+ 建筑年份:-"
+    },
+    {
+      "name": "IN北京",
+      "households": 992,
+      "residents": "2077",
+      "year": "2010",
+      "raw": "IN北京 户数:992 居住人数:2077 建筑年份:2010"
+    },
+    {
+      "name": "晶彩亦庄",
+      "households": 1635,
+      "residents": "4433",
+      "year": "2001",
+      "raw": "晶彩亦庄 户数:1635 居住人数:4433 建筑年份:2001"
+    },
+    {
+      "name": "金地格林小镇6",
+      "households": 1183,
+      "residents": "2835",
+      "year": "2008",
+      "raw": "金地格林小镇6 户数:1183 居住人数:2835 建筑年份:2008"
+    },
+    {
+      "name": "星悦国际",
+      "households": 1629,
+      "residents": "2731",
+      "year": "2012",
+      "raw": "星悦国际 户数:1629 居住人数:2731 建筑年份:2012"
+    },
+    {
+      "name": "云景国际",
+      "households": 395,
+      "residents": "1913",
+      "year": "-",
+      "raw": "云景国际 户数:395 居住人数:1913 建筑年份:-"
+    },
+    {
+      "name": "永康公寓社区",
+      "households": 21,
+      "residents": "430+",
+      "year": "-",
+      "raw": "永康公寓社区 户数:21 居住人数:430+ 建筑年份:-"
+    },
+    {
+      "name": "永康公寓",
+      "households": 652,
+      "residents": "6685",
+      "year": "2015",
+      "raw": "永康公寓 户数:652 居住人数:6685 建筑年份:2015"
+    },
+    {
+      "name": "珠江四季悦城",
+      "households": 3853,
+      "residents": "8368",
+      "year": "2016",
+      "raw": "珠江四季悦城 户数:3853 居住人数:8368 建筑年份:2016"
+    },
+    {
+      "name": "众和万家公寓",
+      "households": 12,
+      "residents": "260+",
+      "year": "-",
+      "raw": "众和万家公寓 户数:12 居住人数:260+ 建筑年份:-"
+    },
+    {
+      "name": "东亚瑞晶苑",
+      "households": 1683,
+      "residents": "3324",
+      "year": "2011",
+      "raw": "东亚瑞晶苑 户数:1683 居住人数:3324 建筑年份:2011"
+    },
+    {
+      "name": "合生世界花园",
+      "households": 3053,
+      "residents": "4159",
+      "year": "2014",
+      "raw": "合生世界花园 户数:3053 居住人数:4159 建筑年份:2014"
+    },
+    {
+      "name": "温馨家园-北区",
+      "households": 999,
+      "residents": "1533",
+      "year": "2005",
+      "raw": "温馨家园-北区 户数:999 居住人数:1533 建筑年份:2005"
+    },
+    {
+      "name": "温馨家园-东区",
+      "households": 1140,
+      "residents": "3640",
+      "year": "1999",
+      "raw": "温馨家园-东区 户数:1140 居住人数:3640 建筑年份:1999"
+    },
+    {
+      "name": "珠江逸景家园北区",
+      "households": 652,
+      "residents": "1043",
+      "year": "2010",
+      "raw": "珠江逸景家园北区 户数:652 居住人数:1043 建筑年份:2010"
+    },
+    {
+      "name": "康定街-21号院",
+      "households": 508,
+      "residents": null,
+      "year": "-",
+      "raw": "康定街-21号院 户数:508 居住人数:小于100 建筑年份:-"
+    },
+    {
+      "name": "天鹅堡",
+      "households": 689,
+      "residents": "1956",
+      "year": "2010",
+      "raw": "天鹅堡 户数:689 居住人数:1956 建筑年份:2010"
+    },
+    {
+      "name": "温馨家园-西区",
+      "households": 1296,
+      "residents": "3167",
+      "year": "1999",
+      "raw": "温馨家园-西区 户数:1296 居住人数:3167 建筑年份:1999"
+    },
+    {
+      "name": "温馨家园-南区",
+      "households": 1110,
+      "residents": "2959",
+      "year": "2005",
+      "raw": "温馨家园-南区 户数:1110 居住人数:2959 建筑年份:2005"
+    },
+    {
+      "name": "青宜居",
+      "households": 16,
+      "residents": "420+",
+      "year": "-",
+      "raw": "青宜居 户数:16 居住人数:420+ 建筑年份:-"
+    },
+    {
+      "name": "珠江逸景家园南区",
+      "households": 2642,
+      "residents": "6518",
+      "year": "2009",
+      "raw": "珠江逸景家园南区 户数:2642 居住人数:6518 建筑年份:2009"
+    },
+    {
+      "name": "泊寓(北京亦庄经海路店)",
+      "households": 24,
+      "residents": "580+",
+      "year": "-",
+      "raw": "泊寓(北京亦庄经海路店) 户数:24 居住人数:580+ 建筑年份:-"
+    },
+    {
+      "name": "万泽经海广场-菁英荟",
+      "households": 413,
+      "residents": null,
+      "year": "2016",
+      "raw": "万泽经海广场-菁英荟 户数:413 居住人数:小于100 建筑年份:2016"
+    },
+    {
+      "name": "亦城亦嘉",
+      "households": 864,
+      "residents": "2288",
+      "year": "-",
+      "raw": "亦城亦嘉 户数:864 居住人数:2288 建筑年份:-"
+    },
+    {
+      "name": "融科香雪兰溪",
+      "households": 2109,
+      "residents": "6081",
+      "year": "2011",
+      "raw": "融科香雪兰溪 户数:2109 居住人数:6081 建筑年份:2011"
+    },
+    {
+      "name": "首开·国风美仑",
+      "households": 2970,
+      "residents": "7573",
+      "year": "2014",
+      "raw": "首开·国风美仑 户数:2970 居住人数:7573 建筑年份:2014"
+    },
+    {
+      "name": "融科·钧廷",
+      "households": 1106,
+      "residents": "3301",
+      "year": "2014",
+      "raw": "融科·钧廷 户数:1106 居住人数:3301 建筑年份:2014"
+    },
+    {
+      "name": "合生世界村",
+      "households": 1162,
+      "residents": "10834",
+      "year": "2014",
+      "raw": "合生世界村 户数:1162 居住人数:10834 建筑年份:2014"
+    },
+    {
+      "name": "合生世界村-D区",
+      "households": 305,
+      "residents": "1383",
+      "year": "-",
+      "raw": "合生世界村-D区 户数:305 居住人数:1383 建筑年份:-"
+    },
+    {
+      "name": "经海五路77号院",
+      "households": 112,
+      "residents": "380+",
+      "year": "-",
+      "raw": "经海五路77号院 户数:112 居住人数:380+ 建筑年份:-"
+    },
+    {
+      "name": "中航天生活区",
+      "households": null,
+      "residents": null,
+      "year": "-",
+      "raw": "中航天生活区 建筑年份:- 北京市通州区博兴一路与泰河二街交叉路口往西约110米"
+    },
+    {
+      "name": "合生世界村-I区",
+      "households": 328,
+      "residents": "3608",
+      "year": "-",
+      "raw": "合生世界村-I区 户数:328 居住人数:3608 建筑年份:-"
+    },
+    {
+      "name": "京东亦庄新城-0303街区地块",
+      "households": 1098,
+      "residents": "100+",
+      "year": "-",
+      "raw": "京东亦庄新城-0303街区地块 户数:1098 居住人数:100+ 建筑年份:-"
+    },
+    {
+      "name": "富力尚悦居E区",
+      "households": 73,
+      "residents": "290+",
+      "year": "-",
+      "raw": "富力尚悦居E区 户数:73 居住人数:290+ 建筑年份:-"
+    },
+    {
+      "name": "富力尚悦居A区",
+      "households": 867,
+      "residents": "2339",
+      "year": "2015",
+      "raw": "富力尚悦居A区 户数:867 居住人数:2339 建筑年份:2015"
+    },
+    {
+      "name": "金悦郡北区",
+      "households": 985,
+      "residents": "2042",
+      "year": "2022",
+      "raw": "金悦郡北区 户数:985 居住人数:2042 建筑年份:2022-12-19"
+    },
+    {
+      "name": "景盛南二街21号院",
+      "households": null,
+      "residents": null,
+      "year": "-",
+      "raw": "景盛南二街21号院 建筑年份:- 北京市通州区小古路联东U谷北侧约220米"
+    },
+    {
+      "name": "亦嘉·韶华颂-A区",
+      "households": 269,
+      "residents": "3632",
+      "year": "-",
+      "raw": "亦嘉·韶华颂-A区 户数:269 居住人数:3632 建筑年份:-"
+    },
+    {
+      "name": "合生世界村-E区西区",
+      "households": 1618,
+      "residents": "2103",
+      "year": "2011",
+      "raw": "合生世界村-E区西区 户数:1618 居住人数:2103 建筑年份:2011"
+    },
+    {
+      "name": "富力尚悦居C区",
+      "households": 620,
+      "residents": "1888",
+      "year": "2015",
+      "raw": "富力尚悦居C区 户数:620 居住人数:1888 建筑年份:2015"
+    }
+  ],
+  "community_count": 75
 }

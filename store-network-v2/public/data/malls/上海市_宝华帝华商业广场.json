@@ -24,15 +24,15 @@
     "annual_daily": null,
     "annual_daily_unit": "-",
     "annual_daily_rank": "",
-    "jun_total": 26.0,
+    "jun_total": 26,
     "jun_total_rank": "市内商场第333名",
-    "jun_daily_avg": 8671.0,
+    "jun_daily_avg": 8671,
     "jun_daily_unit": "人次",
     "jun_daily_rank": "市内商场第333名",
-    "weekday_avg": 8480.0,
+    "weekday_avg": 8480,
     "weekday_unit": "人次",
     "weekday_rank": "市内商场第329名",
-    "holiday_avg": 9196.0,
+    "holiday_avg": 9196,
     "holiday_unit": "人次",
     "holiday_rank": "市内商场第342名"
   },
@@ -44,7 +44,7 @@
     },
     "office": {
       "500m": 2.2,
-      "1_5km": 11.0,
+      "1_5km": 11,
       "3km": 41.4
     },
     "permanent": {
@@ -54,26 +54,26 @@
     }
   },
   "business": {
-    "competitors": 7.0,
-    "food": 340.0,
-    "shopping": 208.0,
-    "leisure": 64.0,
-    "education": 64.0,
-    "hotel": 34.0,
-    "services": 268.0,
-    "fitness": 42.0,
-    "auto": 50.0,
-    "total_stores": 83.0,
-    "old_store_3yr_pct": 43.0
+    "competitors": 7,
+    "food": 340,
+    "shopping": 208,
+    "leisure": 64,
+    "education": 64,
+    "hotel": 34,
+    "services": 268,
+    "fitness": 42,
+    "auto": 50,
+    "total_stores": 83,
+    "old_store_3yr_pct": 43
   },
   "nearby_poi": {
-    "business": 8.0,
-    "community": 406.0,
-    "office": 74.0,
-    "school": 27.0,
-    "hospital": 43.0,
-    "transport": 14.0,
-    "scenic": 234.0
+    "business": 8,
+    "community": 406,
+    "office": 74,
+    "school": 27,
+    "hospital": 43,
+    "transport": 14,
+    "scenic": 234
   },
   "demographics": {
     "male_pct": 52.7,
@@ -172,59 +172,188 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 35.0,
+      "count": 35,
       "within_1yr_pct": 25.7,
       "1_3yr_pct": 28.6,
       "over_3yr_pct": 45.7
     },
     {
       "type": "购物",
-      "count": 7.0,
+      "count": 7,
       "within_1yr_pct": 42.9,
       "1_3yr_pct": 14.3,
       "over_3yr_pct": 42.9
     },
     {
       "type": "休闲娱乐",
-      "count": 4.0,
-      "within_1yr_pct": 0.0,
-      "1_3yr_pct": 25.0,
-      "over_3yr_pct": 75.0
+      "count": 4,
+      "within_1yr_pct": 0,
+      "1_3yr_pct": 25,
+      "over_3yr_pct": 75
     },
     {
       "type": "教育培训",
-      "count": 10.0,
-      "within_1yr_pct": 30.0,
-      "1_3yr_pct": 40.0,
-      "over_3yr_pct": 30.0
+      "count": 10,
+      "within_1yr_pct": 30,
+      "1_3yr_pct": 40,
+      "over_3yr_pct": 30
     },
     {
       "type": "酒店住宿",
-      "count": 5.0,
-      "within_1yr_pct": 60.0,
-      "1_3yr_pct": 40.0,
-      "over_3yr_pct": 0.0
+      "count": 5,
+      "within_1yr_pct": 60,
+      "1_3yr_pct": 40,
+      "over_3yr_pct": 0
     },
     {
       "type": "生活服务",
-      "count": 12.0,
-      "within_1yr_pct": 0.0,
-      "1_3yr_pct": 50.0,
-      "over_3yr_pct": 50.0
+      "count": 12,
+      "within_1yr_pct": 0,
+      "1_3yr_pct": 50,
+      "over_3yr_pct": 50
     },
     {
       "type": "运动健身",
-      "count": 9.0,
+      "count": 9,
       "within_1yr_pct": 33.3,
       "1_3yr_pct": 22.2,
       "over_3yr_pct": 44.4
     },
     {
       "type": "车辆服务",
-      "count": 1.0,
-      "within_1yr_pct": 0.0,
-      "1_3yr_pct": 0.0,
-      "over_3yr_pct": 100.0
+      "count": 1,
+      "within_1yr_pct": 0,
+      "1_3yr_pct": 0,
+      "over_3yr_pct": 100
     }
-  ]
+  ],
+  "nearby_communities": [
+    {
+      "name": "青村小镇",
+      "households": 144,
+      "residents": "830+",
+      "year": "2008",
+      "raw": "青村小镇 户数:144 居住人数:830+ 建筑年份:2008"
+    },
+    {
+      "name": "宝华帝华园",
+      "households": 1224,
+      "residents": "2947",
+      "year": "2019",
+      "raw": "宝华帝华园 户数:1224 居住人数:2947 建筑年份:2019"
+    },
+    {
+      "name": "青益苑",
+      "households": 95,
+      "residents": "220+",
+      "year": "-",
+      "raw": "青益苑 户数:95 居住人数:220+ 建筑年份:-"
+    },
+    {
+      "name": "青港丽苑",
+      "households": 341,
+      "residents": "1084",
+      "year": "2006",
+      "raw": "青港丽苑 户数:341 居住人数:1084 建筑年份:2006"
+    },
+    {
+      "name": "青成西苑",
+      "households": 224,
+      "residents": "970+",
+      "year": "-",
+      "raw": "青成西苑 户数:224 居住人数:970+ 建筑年份:-"
+    },
+    {
+      "name": "北唐新苑-C区",
+      "households": 454,
+      "residents": "1288",
+      "year": "2006",
+      "raw": "北唐新苑-C区 户数:454 居住人数:1288 建筑年份:2006"
+    },
+    {
+      "name": "岳和花苑",
+      "households": 153,
+      "residents": "170+",
+      "year": "-",
+      "raw": "岳和花苑 户数:153 居住人数:170+ 建筑年份:-"
+    },
+    {
+      "name": "原筑江南",
+      "households": 101,
+      "residents": "150+",
+      "year": "2021",
+      "raw": "原筑江南 户数:101 居住人数:150+ 建筑年份:2021-03"
+    },
+    {
+      "name": "北唐新苑-西区",
+      "households": 2406,
+      "residents": "4155",
+      "year": "-",
+      "raw": "北唐新苑-西区 户数:2406 居住人数:4155 建筑年份:-"
+    },
+    {
+      "name": "北唐新苑-东区",
+      "households": 711,
+      "residents": "2264",
+      "year": "2006",
+      "raw": "北唐新苑-东区 户数:711 居住人数:2264 建筑年份:2006"
+    },
+    {
+      "name": "东方华璟园",
+      "households": 408,
+      "residents": "1253",
+      "year": "2018",
+      "raw": "东方华璟园 户数:408 居住人数:1253 建筑年份:2018"
+    },
+    {
+      "name": "北港和景苑",
+      "households": 512,
+      "residents": "2433",
+      "year": "2007",
+      "raw": "北港和景苑 户数:512 居住人数:2433 建筑年份:2007"
+    },
+    {
+      "name": "青港丽苑-二期",
+      "households": 678,
+      "residents": "2638",
+      "year": "-",
+      "raw": "青港丽苑-二期 户数:678 居住人数:2638 建筑年份:-"
+    },
+    {
+      "name": "李窑小区",
+      "households": 102,
+      "residents": "510+",
+      "year": "-",
+      "raw": "李窑小区 户数:102 居住人数:510+ 建筑年份:-"
+    },
+    {
+      "name": "宝业·青春里",
+      "households": 187,
+      "residents": "390+",
+      "year": "-",
+      "raw": "宝业·青春里 户数:187 居住人数:390+ 建筑年份:-"
+    },
+    {
+      "name": "阳光城青溪水岸",
+      "households": 746,
+      "residents": "1380",
+      "year": "2007",
+      "raw": "阳光城青溪水岸 户数:746 居住人数:1380 建筑年份:2007"
+    },
+    {
+      "name": "阳光家园",
+      "households": null,
+      "residents": null,
+      "year": "-",
+      "raw": "阳光家园 建筑年份:- 上海市奉贤区北唐村唐家1131号"
+    },
+    {
+      "name": "盐行花苑",
+      "households": 454,
+      "residents": "370+",
+      "year": "-",
+      "raw": "盐行花苑 户数:454 居住人数:370+ 建筑年份:-"
+    }
+  ],
+  "community_count": 18
 }

@@ -9,11 +9,11 @@
     "score_rank": "市内前30%",
     "population_score": 62.8,
     "area_score": 67.8,
-    "consumption_score": 60.0,
+    "consumption_score": 60,
     "industry_score": 91.8,
     "annual_sales": "5",
     "annual_sales_unit": "亿元",
-    "area_size_sqm": 16.0,
+    "area_size_sqm": 16,
     "open_date": "2020-12-28",
     "operator": "珠海万达商业管理集团股份有限公司",
     "brand": "万达",
@@ -38,42 +38,42 @@
   },
   "population": {
     "residential": {
-      "500m": 1400.0,
+      "500m": 1400,
       "1_5km": 2.5,
       "3km": 11.6
     },
     "office": {
-      "500m": 2500.0,
-      "1_5km": 9800.0,
+      "500m": 2500,
+      "1_5km": 9800,
       "3km": 3.9
     },
     "permanent": {
-      "500m": 4000.0,
+      "500m": 4000,
       "1_5km": 2.2,
       "3km": 10.7
     }
   },
   "business": {
-    "competitors": 3.0,
-    "food": 63.0,
-    "shopping": 80.0,
-    "leisure": 24.0,
+    "competitors": 3,
+    "food": 63,
+    "shopping": 80,
+    "leisure": 24,
     "education": null,
-    "hotel": 4.0,
-    "services": 14.0,
-    "fitness": 8.0,
-    "auto": 11.0,
-    "total_stores": 181.0,
-    "old_store_3yr_pct": 56.0
+    "hotel": 4,
+    "services": 14,
+    "fitness": 8,
+    "auto": 11,
+    "total_stores": 181,
+    "old_store_3yr_pct": 56
   },
   "nearby_poi": {
     "business": null,
-    "community": 52.0,
-    "office": 1.0,
-    "school": 7.0,
-    "hospital": 28.0,
-    "transport": 5.0,
-    "scenic": 15.0
+    "community": 52,
+    "office": 1,
+    "school": 7,
+    "hospital": 28,
+    "transport": 5,
+    "scenic": 15
   },
   "demographics": {
     "male_pct": 50.4,
@@ -85,7 +85,7 @@
       "大专": 8.5,
       "本科": 43.5,
       "硕士": 3.6,
-      "博士": 1.0
+      "博士": 1
     },
     "has_children_pct": 67.4,
     "no_children_pct": 32.6
@@ -347,52 +347,468 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 57.0,
+      "count": 57,
       "within_1yr_pct": 15.8,
       "1_3yr_pct": 22.8,
       "over_3yr_pct": 61.4
     },
     {
       "type": "购物",
-      "count": 75.0,
+      "count": 75,
       "within_1yr_pct": 13.3,
       "1_3yr_pct": 29.3,
       "over_3yr_pct": 57.3
     },
     {
       "type": "休闲娱乐",
-      "count": 21.0,
+      "count": 21,
       "within_1yr_pct": 28.6,
       "1_3yr_pct": 23.8,
       "over_3yr_pct": 47.6
     },
     {
       "type": "酒店住宿",
-      "count": 2.0,
-      "within_1yr_pct": 50.0,
-      "1_3yr_pct": 50.0,
-      "over_3yr_pct": 0.0
+      "count": 2,
+      "within_1yr_pct": 50,
+      "1_3yr_pct": 50,
+      "over_3yr_pct": 0
     },
     {
       "type": "生活服务",
-      "count": 11.0,
+      "count": 11,
       "within_1yr_pct": 45.5,
       "1_3yr_pct": 18.2,
       "over_3yr_pct": 36.4
     },
     {
       "type": "运动健身",
-      "count": 6.0,
+      "count": 6,
       "within_1yr_pct": 16.7,
       "1_3yr_pct": 16.7,
       "over_3yr_pct": 66.7
     },
     {
       "type": "车辆服务",
-      "count": 9.0,
+      "count": 9,
       "within_1yr_pct": 11.1,
       "1_3yr_pct": 33.3,
       "over_3yr_pct": 55.6
     }
-  ]
+  ],
+  "nearby_communities": [
+    {
+      "name": "泰和宜园1期",
+      "households": 2278,
+      "residents": "2073",
+      "year": "2009",
+      "raw": "泰和宜园1期 户数:2278 居住人数:2073 建筑年份:2009"
+    },
+    {
+      "name": "合景香悦四季西区-乾安路3号院3区",
+      "households": 592,
+      "residents": "2142",
+      "year": "-",
+      "raw": "合景香悦四季西区-乾安路3号院3区 户数:592 居住人数:2142 建筑年份:-"
+    },
+    {
+      "name": "泰和宜园-2期",
+      "households": 2248,
+      "residents": "3786",
+      "year": "2009",
+      "raw": "泰和宜园-2期 户数:2248 居住人数:3786 建筑年份:2009"
+    },
+    {
+      "name": "马坡花园-二区",
+      "households": 1570,
+      "residents": "4487",
+      "year": "2003",
+      "raw": "马坡花园-二区 户数:1570 居住人数:4487 建筑年份:2003"
+    },
+    {
+      "name": "合景香悦四季-西区",
+      "households": 3004,
+      "residents": "6120",
+      "year": "2009",
+      "raw": "合景香悦四季-西区 户数:3004 居住人数:6120 建筑年份:2009"
+    },
+    {
+      "name": "合景香悦四季东区-顺安路33号院二区",
+      "households": 41,
+      "residents": null,
+      "year": "2010",
+      "raw": "合景香悦四季东区-顺安路33号院二区 户数:41 居住人数:小于100 建筑年份:2010"
+    },
+    {
+      "name": "佳和宜园",
+      "households": 3930,
+      "residents": "8969",
+      "year": "2009",
+      "raw": "佳和宜园 户数:3930 居住人数:8969 建筑年份:2009"
+    },
+    {
+      "name": "合景香悦四季东区-顺安路33号院三区",
+      "households": 2107,
+      "residents": "2906",
+      "year": "2014",
+      "raw": "合景香悦四季东区-顺安路33号院三区 户数:2107 居住人数:2906 建筑年份:2014"
+    },
+    {
+      "name": "马坡花园-一区",
+      "households": 1441,
+      "residents": "3392",
+      "year": "1998",
+      "raw": "马坡花园-一区 户数:1441 居住人数:3392 建筑年份:1998"
+    },
+    {
+      "name": "顺兴街十七号院",
+      "households": 1231,
+      "residents": "3723",
+      "year": "2013",
+      "raw": "顺兴街十七号院 户数:1231 居住人数:3723 建筑年份:2013"
+    },
+    {
+      "name": "顺悦家园",
+      "households": 2481,
+      "residents": "7633",
+      "year": "2014",
+      "raw": "顺悦家园 户数:2481 居住人数:7633 建筑年份:2014"
+    },
+    {
+      "name": "北辰墅院1900",
+      "households": 922,
+      "residents": "2470",
+      "year": "2016",
+      "raw": "北辰墅院1900 户数:922 居住人数:2470 建筑年份:2016"
+    },
+    {
+      "name": "中铁花溪渡",
+      "households": 1363,
+      "residents": "3586",
+      "year": "2015",
+      "raw": "中铁花溪渡 户数:1363 居住人数:3586 建筑年份:2015"
+    },
+    {
+      "name": "新马家园社区",
+      "households": 563,
+      "residents": "2847",
+      "year": "-",
+      "raw": "新马家园社区 户数:563 居住人数:2847 建筑年份:-"
+    },
+    {
+      "name": "海棠园",
+      "households": null,
+      "residents": null,
+      "year": "2008",
+      "raw": "海棠园 建筑年份:2008 北京市顺义区白马路与Y055交叉路口往北约200米"
+    },
+    {
+      "name": "金宝花园别墅区",
+      "households": 75,
+      "residents": "330+",
+      "year": "2003",
+      "raw": "金宝花园别墅区 户数:75 居住人数:330+ 建筑年份:2003"
+    },
+    {
+      "name": "金宝花园-北区",
+      "households": 1552,
+      "residents": "3521",
+      "year": "2015",
+      "raw": "金宝花园-北区 户数:1552 居住人数:3521 建筑年份:2015"
+    },
+    {
+      "name": "金宝PARK天阶",
+      "households": 967,
+      "residents": "1109",
+      "year": "2016",
+      "raw": "金宝PARK天阶 户数:967 居住人数:1109 建筑年份:2016"
+    },
+    {
+      "name": "顺义新城-颐景润园",
+      "households": 875,
+      "residents": "3214",
+      "year": "2012",
+      "raw": "顺义新城-颐景润园 户数:875 居住人数:3214 建筑年份:2012"
+    },
+    {
+      "name": "丽园小区",
+      "households": 507,
+      "residents": "890+",
+      "year": "2003",
+      "raw": "丽园小区 户数:507 居住人数:890+ 建筑年份:2003"
+    },
+    {
+      "name": "秦武姚一街56号公寓",
+      "households": 17,
+      "residents": "130+",
+      "year": "-",
+      "raw": "秦武姚一街56号公寓 户数:17 居住人数:130+ 建筑年份:-"
+    },
+    {
+      "name": "顺义新城-颐景溪园",
+      "households": 2624,
+      "residents": "5115",
+      "year": "-",
+      "raw": "顺义新城-颐景溪园 户数:2624 居住人数:5115 建筑年份:-"
+    },
+    {
+      "name": "水映兰庭",
+      "households": 642,
+      "residents": "1997",
+      "year": "-",
+      "raw": "水映兰庭 户数:642 居住人数:1997 建筑年份:-"
+    },
+    {
+      "name": "橡树珑湾",
+      "households": 389,
+      "residents": "940+",
+      "year": "2021",
+      "raw": "橡树珑湾 户数:389 居住人数:940+ 建筑年份:2021"
+    },
+    {
+      "name": "首开中晟广场",
+      "households": 338,
+      "residents": "740+",
+      "year": "2016",
+      "raw": "首开中晟广场 户数:338 居住人数:740+ 建筑年份:2016"
+    },
+    {
+      "name": "中建宸庐一期",
+      "households": 345,
+      "residents": "650+",
+      "year": "-",
+      "raw": "中建宸庐一期 户数:345 居住人数:650+ 建筑年份:-"
+    },
+    {
+      "name": "首开中晟馨苑-1号院",
+      "households": 1258,
+      "residents": "2813",
+      "year": "2017",
+      "raw": "首开中晟馨苑-1号院 户数:1258 居住人数:2813 建筑年份:2017"
+    },
+    {
+      "name": "鲁能泰山7号别墅西区",
+      "households": 422,
+      "residents": "580+",
+      "year": "2017",
+      "raw": "鲁能泰山7号别墅西区 户数:422 居住人数:580+ 建筑年份:2017"
+    },
+    {
+      "name": "北京恒大上和府",
+      "households": 1389,
+      "residents": "970+",
+      "year": "2024",
+      "raw": "北京恒大上和府 户数:1389 居住人数:970+ 建筑年份:2024"
+    },
+    {
+      "name": "首开中晟馨苑-3号院",
+      "households": 989,
+      "residents": "1931",
+      "year": "2017",
+      "raw": "首开中晟馨苑-3号院 户数:989 居住人数:1931 建筑年份:2017"
+    },
+    {
+      "name": "首开中晟馨苑",
+      "households": 2289,
+      "residents": "11395",
+      "year": "2017",
+      "raw": "首开中晟馨苑 户数:2289 居住人数:11395 建筑年份:2017"
+    },
+    {
+      "name": "首开中晟馨苑-2号院",
+      "households": 1380,
+      "residents": "3327",
+      "year": "2017",
+      "raw": "首开中晟馨苑-2号院 户数:1380 居住人数:3327 建筑年份:2017"
+    },
+    {
+      "name": "鲁能泰山7号别墅东区",
+      "households": 936,
+      "residents": "360+",
+      "year": "-",
+      "raw": "鲁能泰山7号别墅东区 户数:936 居住人数:360+ 建筑年份:-"
+    },
+    {
+      "name": "恒丰花园",
+      "households": 36,
+      "residents": "190+",
+      "year": "1995",
+      "raw": "恒丰花园 户数:36 居住人数:190+ 建筑年份:1995"
+    },
+    {
+      "name": "保利·颐璟和煦",
+      "households": 1096,
+      "residents": null,
+      "year": "-",
+      "raw": "保利·颐璟和煦 户数:1096 居住人数:小于100 建筑年份:-"
+    },
+    {
+      "name": "首开中晟馨苑-4号院",
+      "households": 1281,
+      "residents": "3023",
+      "year": "2017",
+      "raw": "首开中晟馨苑-4号院 户数:1281 居住人数:3023 建筑年份:2017"
+    },
+    {
+      "name": "国誉府A区",
+      "households": 1220,
+      "residents": "1463",
+      "year": "2022",
+      "raw": "国誉府A区 户数:1220 居住人数:1463 建筑年份:2022"
+    },
+    {
+      "name": "阳光花园别墅",
+      "households": 886,
+      "residents": "190+",
+      "year": "2001",
+      "raw": "阳光花园别墅 户数:886 居住人数:190+ 建筑年份:2001"
+    },
+    {
+      "name": "民生花园2区",
+      "households": 1161,
+      "residents": "690+",
+      "year": "-",
+      "raw": "民生花园2区 户数:1161 居住人数:690+ 建筑年份:-"
+    },
+    {
+      "name": "和锦华宸悦境-西区",
+      "households": 380,
+      "residents": "330+",
+      "year": "-",
+      "raw": "和锦华宸悦境-西区 户数:380 居住人数:330+ 建筑年份:-"
+    },
+    {
+      "name": "招商中建顺义臻珑府",
+      "households": 856,
+      "residents": "950+",
+      "year": "2024",
+      "raw": "招商中建顺义臻珑府 户数:856 居住人数:950+ 建筑年份:2024-06-24"
+    },
+    {
+      "name": "北京明悦安家园",
+      "households": 97,
+      "residents": null,
+      "year": "-",
+      "raw": "北京明悦安家园 户数:97 居住人数:小于100 建筑年份:-"
+    },
+    {
+      "name": "民生花园1区",
+      "households": 92,
+      "residents": "130+",
+      "year": "2015",
+      "raw": "民生花园1区 户数:92 居住人数:130+ 建筑年份:2015"
+    },
+    {
+      "name": "中建宸庐云起西区",
+      "households": 612,
+      "residents": "400+",
+      "year": "-",
+      "raw": "中建宸庐云起西区 户数:612 居住人数:400+ 建筑年份:-"
+    },
+    {
+      "name": "龙苑别墅",
+      "households": 167,
+      "residents": "420+",
+      "year": "2000",
+      "raw": "龙苑别墅 户数:167 居住人数:420+ 建筑年份:2000"
+    },
+    {
+      "name": "中建宸庐云起东区",
+      "households": 442,
+      "residents": "370+",
+      "year": "2023",
+      "raw": "中建宸庐云起东区 户数:442 居住人数:370+ 建筑年份:2023-12"
+    },
+    {
+      "name": "和锦华宸东区",
+      "households": 439,
+      "residents": "730+",
+      "year": "-",
+      "raw": "和锦华宸东区 户数:439 居住人数:730+ 建筑年份:-"
+    },
+    {
+      "name": "和锦华宸-西区",
+      "households": 789,
+      "residents": "700+",
+      "year": "2023",
+      "raw": "和锦华宸-西区 户数:789 居住人数:700+ 建筑年份:2023"
+    },
+    {
+      "name": "富力湾",
+      "households": 348,
+      "residents": "980+",
+      "year": "2010",
+      "raw": "富力湾 户数:348 居住人数:980+ 建筑年份:2010"
+    },
+    {
+      "name": "恒华·湖公馆",
+      "households": 1080,
+      "residents": "4925",
+      "year": "2016",
+      "raw": "恒华·湖公馆 户数:1080 居住人数:4925 建筑年份:2016"
+    },
+    {
+      "name": "兴旺公寓",
+      "households": 4,
+      "residents": "110+",
+      "year": "-",
+      "raw": "兴旺公寓 户数:4 居住人数:110+ 建筑年份:-"
+    },
+    {
+      "name": "北京乡村高尔夫别墅",
+      "households": 930,
+      "residents": "240+",
+      "year": "1995",
+      "raw": "北京乡村高尔夫别墅 户数:930 居住人数:240+ 建筑年份:1995"
+    },
+    {
+      "name": "纳帕尔湾",
+      "households": 183,
+      "residents": "500+",
+      "year": "2009",
+      "raw": "纳帕尔湾 户数:183 居住人数:500+ 建筑年份:2009"
+    },
+    {
+      "name": "恒华湖公馆-北区",
+      "households": 972,
+      "residents": "3206",
+      "year": "-",
+      "raw": "恒华湖公馆-北区 户数:972 居住人数:3206 建筑年份:-"
+    },
+    {
+      "name": "恒华西街-1号院",
+      "households": 609,
+      "residents": "1873",
+      "year": "2011",
+      "raw": "恒华西街-1号院 户数:609 居住人数:1873 建筑年份:2011"
+    },
+    {
+      "name": "龙湖好望山(西区)",
+      "households": null,
+      "residents": null,
+      "year": "-",
+      "raw": "龙湖好望山(西区) 建筑年份:- 北京市顺义区金牛街与通顺路交叉口东南方向171米"
+    },
+    {
+      "name": "枫桥别墅",
+      "households": null,
+      "residents": null,
+      "year": "2002",
+      "raw": "枫桥别墅 建筑年份:2002 北京市顺义区马坡华中路与右堤路交叉口西北"
+    },
+    {
+      "name": "龙湖香醍漫步2区",
+      "households": 515,
+      "residents": "630+",
+      "year": "2009",
+      "raw": "龙湖香醍漫步2区 户数:515 居住人数:630+ 建筑年份:2009"
+    },
+    {
+      "name": "龙湖香醍漫步1区",
+      "households": 498,
+      "residents": "590+",
+      "year": "2008",
+      "raw": "龙湖香醍漫步1区 户数:498 居住人数:590+ 建筑年份:2008"
+    }
+  ],
+  "community_count": 59
 }
