@@ -13,7 +13,7 @@
     "industry_score": 94.4,
     "annual_sales": "GALA MALL尚悦湾广场位于上海市浦东新区银城路66号，是陆家嘴滨江金融城的商业部分，建筑形态丰富的各个商业地块组成各商业地块以文化艺术为亮点，通过引入差异化、体验型的特色业态和品牌，突出各自优势，打造了一条颇具特色的品牌街区尚悦湾广场继承了HBC文艺基因，融合了众多艺术展览与时尚活动，漫步GALA MALL本身就成为了一种新的观展形式，每一步都有可能与艺术不期而遇广场本身整体造型与周边林立的艺术装置就是最佳体现，KPF建筑事务所设计，将整体建筑定位成一个聚集能量和记忆的巨轮",
     "annual_sales_unit": "-",
-    "area_size_sqm": 7.0,
+    "area_size_sqm": 7,
     "open_date": "2017-12-23",
     "operator": "中信泰富（中国）投资有限公司",
     "brand": "",
@@ -38,7 +38,7 @@
   },
   "population": {
     "residential": {
-      "500m": 9400.0,
+      "500m": 9400,
       "1_5km": 13.3,
       "3km": 71.5
     },
@@ -54,35 +54,35 @@
     }
   },
   "business": {
-    "competitors": 10.0,
-    "food": 179.0,
-    "shopping": 82.0,
-    "leisure": 13.0,
-    "education": 11.0,
-    "hotel": 22.0,
-    "services": 92.0,
-    "fitness": 16.0,
-    "auto": 36.0,
-    "total_stores": 142.0,
-    "old_store_3yr_pct": 53.0
+    "competitors": 10,
+    "food": 179,
+    "shopping": 82,
+    "leisure": 13,
+    "education": 11,
+    "hotel": 22,
+    "services": 92,
+    "fitness": 16,
+    "auto": 36,
+    "total_stores": 142,
+    "old_store_3yr_pct": 53
   },
   "nearby_poi": {
-    "business": 16.0,
-    "community": 596.0,
-    "office": 152.0,
-    "school": 25.0,
-    "hospital": 133.0,
-    "transport": 15.0,
-    "scenic": 638.0
+    "business": 16,
+    "community": 596,
+    "office": 152,
+    "school": 25,
+    "hospital": 133,
+    "transport": 15,
+    "scenic": 638
   },
   "demographics": {
-    "male_pct": 54.0,
+    "male_pct": 54,
     "female_pct": null,
     "education": {
-      "小学": 9.0,
+      "小学": 9,
       "初中": 16.4,
       "高中": 10.6,
-      "大专": 7.0,
+      "大专": 7,
       "本科": 48.6,
       "硕士": 6.7,
       "博士": 1.7
@@ -96,56 +96,56 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 77.0,
+      "count": 77,
       "within_1yr_pct": 14.3,
       "1_3yr_pct": 24.7,
-      "over_3yr_pct": 61.0
+      "over_3yr_pct": 61
     },
     {
       "type": "购物",
-      "count": 26.0,
+      "count": 26,
       "within_1yr_pct": 23.1,
       "1_3yr_pct": 23.1,
       "over_3yr_pct": 53.8
     },
     {
       "type": "休闲娱乐",
-      "count": 1.0,
-      "within_1yr_pct": 0.0,
-      "1_3yr_pct": 0.0,
-      "over_3yr_pct": 100.0
+      "count": 1,
+      "within_1yr_pct": 0,
+      "1_3yr_pct": 0,
+      "over_3yr_pct": 100
     },
     {
       "type": "教育培训",
-      "count": 3.0,
+      "count": 3,
       "within_1yr_pct": 33.3,
-      "1_3yr_pct": 0.0,
+      "1_3yr_pct": 0,
       "over_3yr_pct": 66.7
     },
     {
       "type": "酒店住宿",
-      "count": 1.0,
-      "within_1yr_pct": 100.0,
-      "1_3yr_pct": 0.0,
-      "over_3yr_pct": 0.0
+      "count": 1,
+      "within_1yr_pct": 100,
+      "1_3yr_pct": 0,
+      "over_3yr_pct": 0
     },
     {
       "type": "生活服务",
-      "count": 21.0,
+      "count": 21,
       "within_1yr_pct": 14.3,
       "1_3yr_pct": 38.1,
       "over_3yr_pct": 47.6
     },
     {
       "type": "运动健身",
-      "count": 4.0,
-      "within_1yr_pct": 25.0,
-      "1_3yr_pct": 75.0,
-      "over_3yr_pct": 0.0
+      "count": 4,
+      "within_1yr_pct": 25,
+      "1_3yr_pct": 75,
+      "over_3yr_pct": 0
     },
     {
       "type": "车辆服务",
-      "count": 9.0,
+      "count": 9,
       "within_1yr_pct": 22.2,
       "1_3yr_pct": 66.7,
       "over_3yr_pct": 11.1

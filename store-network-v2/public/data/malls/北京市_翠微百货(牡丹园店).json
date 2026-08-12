@@ -24,7 +24,7 @@
     "annual_daily": 2.26,
     "annual_daily_unit": "万人次",
     "annual_daily_rank": "市内第108",
-    "jun_total": 134.0,
+    "jun_total": 134,
     "jun_total_rank": "市内商场第67名",
     "jun_daily_avg": 4.5,
     "jun_daily_unit": "万人次",
@@ -43,7 +43,7 @@
       "3km": 90.8
     },
     "office": {
-      "500m": 2.0,
+      "500m": 2,
       "1_5km": 16.3,
       "3km": 58.3
     },
@@ -54,26 +54,26 @@
     }
   },
   "business": {
-    "competitors": 3.0,
-    "food": 220.0,
-    "shopping": 177.0,
-    "leisure": 16.0,
-    "education": 25.0,
-    "hotel": 32.0,
-    "services": 106.0,
-    "fitness": 15.0,
-    "auto": 6.0,
-    "total_stores": 147.0,
-    "old_store_3yr_pct": 64.0
+    "competitors": 3,
+    "food": 220,
+    "shopping": 177,
+    "leisure": 16,
+    "education": 25,
+    "hotel": 32,
+    "services": 106,
+    "fitness": 15,
+    "auto": 6,
+    "total_stores": 147,
+    "old_store_3yr_pct": 64
   },
   "nearby_poi": {
     "business": null,
-    "community": 408.0,
-    "office": 80.0,
-    "school": 46.0,
-    "hospital": 102.0,
-    "transport": 9.0,
-    "scenic": 319.0
+    "community": 408,
+    "office": 80,
+    "school": 46,
+    "hospital": 102,
+    "transport": 9,
+    "scenic": 319
   },
   "demographics": {
     "male_pct": 51.9,
@@ -347,31 +347,31 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 30.0,
+      "count": 30,
       "within_1yr_pct": 23.3,
       "1_3yr_pct": 33.3,
       "over_3yr_pct": 43.3
     },
     {
       "type": "购物",
-      "count": 107.0,
+      "count": 107,
       "within_1yr_pct": 16.8,
       "1_3yr_pct": 11.2,
-      "over_3yr_pct": 72.0
+      "over_3yr_pct": 72
     },
     {
       "type": "生活服务",
-      "count": 9.0,
+      "count": 9,
       "within_1yr_pct": 22.2,
       "1_3yr_pct": 33.3,
       "over_3yr_pct": 44.4
     },
     {
       "type": "运动健身",
-      "count": 1.0,
-      "within_1yr_pct": 0.0,
-      "1_3yr_pct": 100.0,
-      "over_3yr_pct": 0.0
+      "count": 1,
+      "within_1yr_pct": 0,
+      "1_3yr_pct": 100,
+      "over_3yr_pct": 0
     }
   ],
   "nearby_communities": [

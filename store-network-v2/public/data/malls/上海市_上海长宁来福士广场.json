@@ -8,12 +8,12 @@
     "score": 95.4,
     "score_rank": "市内前30%",
     "population_score": 95.6,
-    "area_score": 100.0,
+    "area_score": 100,
     "consumption_score": 81.6,
     "industry_score": 95.4,
     "annual_sales": "长宁来福士广场位于中山公园商圈，是一个集甲级写字楼、世界级购物商场于一体的综合体项目，分为东、西两区",
     "annual_sales_unit": "-",
-    "area_size_sqm": 12.0,
+    "area_size_sqm": 12,
     "open_date": "2017-06-30",
     "operator": "凯德置地（中国）投资有限公司",
     "brand": "凯德",
@@ -38,7 +38,7 @@
   },
   "population": {
     "residential": {
-      "500m": 3.0,
+      "500m": 3,
       "1_5km": 28.5,
       "3km": 100.8
     },
@@ -54,26 +54,26 @@
     }
   },
   "business": {
-    "competitors": 17.0,
-    "food": 490.0,
-    "shopping": 507.0,
-    "leisure": 51.0,
-    "education": 57.0,
-    "hotel": 63.0,
-    "services": 288.0,
-    "fitness": 36.0,
-    "auto": 40.0,
-    "total_stores": 306.0,
-    "old_store_3yr_pct": 50.0
+    "competitors": 17,
+    "food": 490,
+    "shopping": 507,
+    "leisure": 51,
+    "education": 57,
+    "hotel": 63,
+    "services": 288,
+    "fitness": 36,
+    "auto": 40,
+    "total_stores": 306,
+    "old_store_3yr_pct": 50
   },
   "nearby_poi": {
-    "business": 14.0,
-    "community": 1002.0,
-    "office": 120.0,
-    "school": 58.0,
-    "hospital": 161.0,
-    "transport": 17.0,
-    "scenic": 404.0
+    "business": 14,
+    "community": 1002,
+    "office": 120,
+    "school": 58,
+    "hospital": 161,
+    "transport": 17,
+    "scenic": 404
   },
   "demographics": {
     "male_pct": 46.9,
@@ -428,56 +428,56 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 114.0,
+      "count": 114,
       "within_1yr_pct": 15.8,
       "1_3yr_pct": 30.7,
       "over_3yr_pct": 53.5
     },
     {
       "type": "购物",
-      "count": 86.0,
+      "count": 86,
       "within_1yr_pct": 23.3,
       "1_3yr_pct": 25.6,
       "over_3yr_pct": 51.2
     },
     {
       "type": "休闲娱乐",
-      "count": 10.0,
-      "within_1yr_pct": 10.0,
-      "1_3yr_pct": 40.0,
-      "over_3yr_pct": 50.0
+      "count": 10,
+      "within_1yr_pct": 10,
+      "1_3yr_pct": 40,
+      "over_3yr_pct": 50
     },
     {
       "type": "教育培训",
-      "count": 21.0,
+      "count": 21,
       "within_1yr_pct": 28.6,
       "1_3yr_pct": 38.1,
       "over_3yr_pct": 33.3
     },
     {
       "type": "酒店住宿",
-      "count": 1.0,
-      "within_1yr_pct": 0.0,
-      "1_3yr_pct": 100.0,
-      "over_3yr_pct": 0.0
+      "count": 1,
+      "within_1yr_pct": 0,
+      "1_3yr_pct": 100,
+      "over_3yr_pct": 0
     },
     {
       "type": "生活服务",
-      "count": 47.0,
+      "count": 47,
       "within_1yr_pct": 14.9,
       "1_3yr_pct": 31.9,
       "over_3yr_pct": 53.2
     },
     {
       "type": "运动健身",
-      "count": 13.0,
+      "count": 13,
       "within_1yr_pct": 15.4,
       "1_3yr_pct": 38.5,
       "over_3yr_pct": 46.2
     },
     {
       "type": "车辆服务",
-      "count": 14.0,
+      "count": 14,
       "within_1yr_pct": 21.4,
       "1_3yr_pct": 35.7,
       "over_3yr_pct": 42.9

@@ -13,7 +13,7 @@
     "industry_score": 95.1,
     "annual_sales": "8000",
     "annual_sales_unit": "万元",
-    "area_size_sqm": 4.0,
+    "area_size_sqm": 4,
     "open_date": "2013-03-10",
     "operator": "上海金贵缘投资管理有限公司",
     "brand": "",
@@ -26,24 +26,24 @@
     "annual_daily_rank": "市内第107",
     "jun_total": 118.7,
     "jun_total_rank": "市内商场第97名",
-    "jun_daily_avg": 4.0,
+    "jun_daily_avg": 4,
     "jun_daily_unit": "万人次",
     "jun_daily_rank": "市内商场第97名",
     "weekday_avg": 3.9,
     "weekday_unit": "万人次",
     "weekday_rank": "市内商场第85名",
-    "holiday_avg": 4.0,
+    "holiday_avg": 4,
     "holiday_unit": "万人次",
     "holiday_rank": "市内商场第120名"
   },
   "population": {
     "residential": {
-      "500m": 9700.0,
+      "500m": 9700,
       "1_5km": 13.7,
       "3km": 43.4
     },
     "office": {
-      "500m": 9500.0,
+      "500m": 9500,
       "1_5km": 7.3,
       "3km": 31.4
     },
@@ -54,26 +54,26 @@
     }
   },
   "business": {
-    "competitors": 7.0,
-    "food": 179.0,
-    "shopping": 72.0,
-    "leisure": 15.0,
-    "education": 25.0,
-    "hotel": 19.0,
-    "services": 59.0,
-    "fitness": 33.0,
-    "auto": 22.0,
-    "total_stores": 167.0,
-    "old_store_3yr_pct": 57.0
+    "competitors": 7,
+    "food": 179,
+    "shopping": 72,
+    "leisure": 15,
+    "education": 25,
+    "hotel": 19,
+    "services": 59,
+    "fitness": 33,
+    "auto": 22,
+    "total_stores": 167,
+    "old_store_3yr_pct": 57
   },
   "nearby_poi": {
-    "business": 5.0,
-    "community": 281.0,
-    "office": 15.0,
-    "school": 18.0,
-    "hospital": 53.0,
-    "transport": 9.0,
-    "scenic": 160.0
+    "business": 5,
+    "community": 281,
+    "office": 15,
+    "school": 18,
+    "hospital": 53,
+    "transport": 9,
+    "scenic": 160
   },
   "demographics": {
     "male_pct": 47.5,
@@ -388,56 +388,56 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 94.0,
+      "count": 94,
       "within_1yr_pct": 11.7,
       "1_3yr_pct": 31.9,
       "over_3yr_pct": 56.4
     },
     {
       "type": "购物",
-      "count": 28.0,
+      "count": 28,
       "within_1yr_pct": 17.9,
       "1_3yr_pct": 17.9,
       "over_3yr_pct": 64.3
     },
     {
       "type": "休闲娱乐",
-      "count": 4.0,
-      "within_1yr_pct": 50.0,
-      "1_3yr_pct": 0.0,
-      "over_3yr_pct": 50.0
+      "count": 4,
+      "within_1yr_pct": 50,
+      "1_3yr_pct": 0,
+      "over_3yr_pct": 50
     },
     {
       "type": "教育培训",
-      "count": 9.0,
+      "count": 9,
       "within_1yr_pct": 11.1,
       "1_3yr_pct": 33.3,
       "over_3yr_pct": 55.6
     },
     {
       "type": "酒店住宿",
-      "count": 3.0,
-      "within_1yr_pct": 0.0,
-      "1_3yr_pct": 0.0,
-      "over_3yr_pct": 100.0
+      "count": 3,
+      "within_1yr_pct": 0,
+      "1_3yr_pct": 0,
+      "over_3yr_pct": 100
     },
     {
       "type": "生活服务",
-      "count": 22.0,
+      "count": 22,
       "within_1yr_pct": 27.3,
       "1_3yr_pct": 22.7,
-      "over_3yr_pct": 50.0
+      "over_3yr_pct": 50
     },
     {
       "type": "运动健身",
-      "count": 4.0,
-      "within_1yr_pct": 0.0,
-      "1_3yr_pct": 50.0,
-      "over_3yr_pct": 50.0
+      "count": 4,
+      "within_1yr_pct": 0,
+      "1_3yr_pct": 50,
+      "over_3yr_pct": 50
     },
     {
       "type": "车辆服务",
-      "count": 3.0,
+      "count": 3,
       "within_1yr_pct": 33.3,
       "1_3yr_pct": 33.3,
       "over_3yr_pct": 33.3

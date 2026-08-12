@@ -8,12 +8,12 @@
     "score": 79.7,
     "score_rank": "市内前30%",
     "population_score": 86.9,
-    "area_score": 69.0,
+    "area_score": 69,
     "consumption_score": 80.5,
     "industry_score": 79.7,
     "annual_sales": "上海虹口今雨荟位于虹口区广粤路283号，是融通地产首个自主改造的城市更新项目。项目以“亲子家庭友好”为核心，打造“城市焕新生活欢聚地”，引入众多上海首店、虹口区域首店及品牌旗舰店。商场分为六大主题区域——“荟生活”“荟童趣”“荟食尚”“荟臻味”“荟欢聚”“荟时光”，涵盖购物、餐饮、娱乐、文化等多元功能。",
     "annual_sales_unit": "-",
-    "area_size_sqm": 7.0,
+    "area_size_sqm": 7,
     "open_date": "2025-01-01",
     "operator": "上海捷之晟投资管理有限公司",
     "brand": "",
@@ -26,13 +26,13 @@
     "annual_daily_rank": "",
     "jun_total": 11.6,
     "jun_total_rank": "市内商场第469名",
-    "jun_daily_avg": 3871.0,
+    "jun_daily_avg": 3871,
     "jun_daily_unit": "人次",
     "jun_daily_rank": "市内商场第469名",
-    "weekday_avg": 3569.0,
+    "weekday_avg": 3569,
     "weekday_unit": "人次",
     "weekday_rank": "市内商场第477名",
-    "holiday_avg": 4698.0,
+    "holiday_avg": 4698,
     "holiday_unit": "人次",
     "holiday_rank": "市内商场第445名"
   },
@@ -43,37 +43,37 @@
       "3km": 101.5
     },
     "office": {
-      "500m": 8700.0,
+      "500m": 8700,
       "1_5km": 11.6,
       "3km": 58.5
     },
     "permanent": {
       "500m": 2.2,
       "1_5km": 24.5,
-      "3km": 107.0
+      "3km": 107
     }
   },
   "business": {
-    "competitors": 3.0,
-    "food": 94.0,
-    "shopping": 79.0,
-    "leisure": 12.0,
-    "education": 9.0,
-    "hotel": 5.0,
-    "services": 61.0,
-    "fitness": 17.0,
-    "auto": 15.0,
-    "total_stores": 87.0,
-    "old_store_3yr_pct": 5.0
+    "competitors": 3,
+    "food": 94,
+    "shopping": 79,
+    "leisure": 12,
+    "education": 9,
+    "hotel": 5,
+    "services": 61,
+    "fitness": 17,
+    "auto": 15,
+    "total_stores": 87,
+    "old_store_3yr_pct": 5
   },
   "nearby_poi": {
-    "business": 4.0,
-    "community": 702.0,
-    "office": 51.0,
-    "school": 47.0,
-    "hospital": 101.0,
-    "transport": 6.0,
-    "scenic": 173.0
+    "business": 4,
+    "community": 702,
+    "office": 51,
+    "school": 47,
+    "hospital": 101,
+    "transport": 6,
+    "scenic": 173
   },
   "demographics": {
     "male_pct": 47.5,
@@ -82,7 +82,7 @@
       "小学": 9.2,
       "初中": 18.4,
       "高中": 12.4,
-      "大专": 7.0,
+      "大专": 7,
       "本科": 46.6,
       "硕士": 4.7,
       "博士": 1.7
@@ -380,52 +380,52 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 30.0,
+      "count": 30,
       "within_1yr_pct": 36.7,
-      "1_3yr_pct": 60.0,
+      "1_3yr_pct": 60,
       "over_3yr_pct": 3.3
     },
     {
       "type": "购物",
-      "count": 18.0,
+      "count": 18,
       "within_1yr_pct": 44.4,
       "1_3yr_pct": 55.6,
-      "over_3yr_pct": 0.0
+      "over_3yr_pct": 0
     },
     {
       "type": "休闲娱乐",
-      "count": 8.0,
-      "within_1yr_pct": 25.0,
+      "count": 8,
+      "within_1yr_pct": 25,
       "1_3yr_pct": 62.5,
       "over_3yr_pct": 12.5
     },
     {
       "type": "教育培训",
-      "count": 8.0,
+      "count": 8,
       "within_1yr_pct": 12.5,
-      "1_3yr_pct": 75.0,
+      "1_3yr_pct": 75,
       "over_3yr_pct": 12.5
     },
     {
       "type": "生活服务",
-      "count": 9.0,
+      "count": 9,
       "within_1yr_pct": 66.7,
       "1_3yr_pct": 33.3,
-      "over_3yr_pct": 0.0
+      "over_3yr_pct": 0
     },
     {
       "type": "运动健身",
-      "count": 12.0,
+      "count": 12,
       "within_1yr_pct": 41.7,
       "1_3yr_pct": 58.3,
-      "over_3yr_pct": 0.0
+      "over_3yr_pct": 0
     },
     {
       "type": "车辆服务",
-      "count": 2.0,
-      "within_1yr_pct": 0.0,
-      "1_3yr_pct": 50.0,
-      "over_3yr_pct": 50.0
+      "count": 2,
+      "within_1yr_pct": 0,
+      "1_3yr_pct": 50,
+      "over_3yr_pct": 50
     }
   ],
   "nearby_communities": [

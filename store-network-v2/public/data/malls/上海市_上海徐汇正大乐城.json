@@ -9,8 +9,8 @@
     "score_rank": "市内前30%",
     "population_score": 75.1,
     "area_score": 74.5,
-    "consumption_score": 89.0,
-    "industry_score": 93.0,
+    "consumption_score": 89,
+    "industry_score": 93,
     "annual_sales": "位于上海徐汇滨江商圈核心区域，是上海首个女性消费主题的购物公园，定位中高端，周边居住氛围成熟，商务楼众多，人气较旺",
     "annual_sales_unit": "-",
     "area_size_sqm": 5.5,
@@ -38,7 +38,7 @@
   },
   "population": {
     "residential": {
-      "500m": 1.0,
+      "500m": 1,
       "1_5km": 22.4,
       "3km": 77.5
     },
@@ -54,26 +54,26 @@
     }
   },
   "business": {
-    "competitors": 12.0,
-    "food": 193.0,
-    "shopping": 80.0,
-    "leisure": 16.0,
-    "education": 37.0,
-    "hotel": 44.0,
-    "services": 102.0,
-    "fitness": 26.0,
-    "auto": 26.0,
-    "total_stores": 128.0,
-    "old_store_3yr_pct": 45.0
+    "competitors": 12,
+    "food": 193,
+    "shopping": 80,
+    "leisure": 16,
+    "education": 37,
+    "hotel": 44,
+    "services": 102,
+    "fitness": 26,
+    "auto": 26,
+    "total_stores": 128,
+    "old_store_3yr_pct": 45
   },
   "nearby_poi": {
-    "business": 6.0,
-    "community": 766.0,
-    "office": 69.0,
-    "school": 49.0,
-    "hospital": 97.0,
-    "transport": 9.0,
-    "scenic": 374.0
+    "business": 6,
+    "community": 766,
+    "office": 69,
+    "school": 49,
+    "hospital": 97,
+    "transport": 9,
+    "scenic": 374
   },
   "demographics": {
     "male_pct": 48.3,
@@ -396,52 +396,52 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 53.0,
+      "count": 53,
       "within_1yr_pct": 15.1,
-      "1_3yr_pct": 34.0,
+      "1_3yr_pct": 34,
       "over_3yr_pct": 50.9
     },
     {
       "type": "购物",
-      "count": 21.0,
+      "count": 21,
       "within_1yr_pct": 14.3,
       "1_3yr_pct": 52.4,
       "over_3yr_pct": 33.3
     },
     {
       "type": "休闲娱乐",
-      "count": 6.0,
-      "within_1yr_pct": 0.0,
-      "1_3yr_pct": 50.0,
-      "over_3yr_pct": 50.0
+      "count": 6,
+      "within_1yr_pct": 0,
+      "1_3yr_pct": 50,
+      "over_3yr_pct": 50
     },
     {
       "type": "教育培训",
-      "count": 14.0,
+      "count": 14,
       "within_1yr_pct": 21.4,
       "1_3yr_pct": 28.6,
-      "over_3yr_pct": 50.0
+      "over_3yr_pct": 50
     },
     {
       "type": "生活服务",
-      "count": 27.0,
+      "count": 27,
       "within_1yr_pct": 22.2,
       "1_3yr_pct": 33.3,
       "over_3yr_pct": 44.4
     },
     {
       "type": "运动健身",
-      "count": 3.0,
-      "within_1yr_pct": 0.0,
+      "count": 3,
+      "within_1yr_pct": 0,
       "1_3yr_pct": 66.7,
       "over_3yr_pct": 33.3
     },
     {
       "type": "车辆服务",
-      "count": 4.0,
-      "within_1yr_pct": 50.0,
-      "1_3yr_pct": 50.0,
-      "over_3yr_pct": 0.0
+      "count": 4,
+      "within_1yr_pct": 50,
+      "1_3yr_pct": 50,
+      "over_3yr_pct": 0
     }
   ],
   "nearby_communities": [

@@ -8,7 +8,7 @@
     "score": 92.7,
     "score_rank": "市内前30%",
     "population_score": 90.6,
-    "area_score": 100.0,
+    "area_score": 100,
     "consumption_score": 76.8,
     "industry_score": 92.7,
     "annual_sales": "上海五角场万达广场位于上海市杨浦区五角场中心区域，是上海市政府确定的上海10大商业中心之一。广场平面呈“品”字型布置，地上划分为五个大型业态和三幢甲级高层办公楼",
@@ -29,7 +29,7 @@
     "jun_daily_avg": 1.2,
     "jun_daily_unit": "万人次",
     "jun_daily_rank": "市内商场第269名",
-    "weekday_avg": 1.0,
+    "weekday_avg": 1,
     "weekday_unit": "万人次",
     "weekday_rank": "市内商场第299名",
     "holiday_avg": 1.7,
@@ -43,7 +43,7 @@
       "3km": 104.1
     },
     "office": {
-      "500m": 4.0,
+      "500m": 4,
       "1_5km": 18.4,
       "3km": 57.3
     },
@@ -54,35 +54,35 @@
     }
   },
   "business": {
-    "competitors": 20.0,
-    "food": 732.0,
-    "shopping": 697.0,
-    "leisure": 130.0,
-    "education": 114.0,
-    "hotel": 30.0,
-    "services": 583.0,
-    "fitness": 52.0,
-    "auto": 42.0,
-    "total_stores": 740.0,
-    "old_store_3yr_pct": 37.0
+    "competitors": 20,
+    "food": 732,
+    "shopping": 697,
+    "leisure": 130,
+    "education": 114,
+    "hotel": 30,
+    "services": 583,
+    "fitness": 52,
+    "auto": 42,
+    "total_stores": 740,
+    "old_store_3yr_pct": 37
   },
   "nearby_poi": {
-    "business": 9.0,
-    "community": 593.0,
-    "office": 73.0,
-    "school": 44.0,
-    "hospital": 60.0,
-    "transport": 23.0,
-    "scenic": 182.0
+    "business": 9,
+    "community": 593,
+    "office": 73,
+    "school": 44,
+    "hospital": 60,
+    "transport": 23,
+    "scenic": 182
   },
   "demographics": {
     "male_pct": 44.1,
     "female_pct": null,
     "education": {
       "小学": 8.2,
-      "初中": 17.0,
+      "初中": 17,
       "高中": 14.1,
-      "大专": 6.0,
+      "大专": 6,
       "本科": 46.8,
       "硕士": 5.8,
       "博士": 2.1
@@ -420,59 +420,59 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 188.0,
+      "count": 188,
       "within_1yr_pct": 28.2,
       "1_3yr_pct": 30.9,
-      "over_3yr_pct": 41.0
+      "over_3yr_pct": 41
     },
     {
       "type": "购物",
-      "count": 214.0,
-      "within_1yr_pct": 22.0,
+      "count": 214,
+      "within_1yr_pct": 22,
       "1_3yr_pct": 24.3,
       "over_3yr_pct": 53.7
     },
     {
       "type": "休闲娱乐",
-      "count": 41.0,
+      "count": 41,
       "within_1yr_pct": 36.6,
       "1_3yr_pct": 48.8,
       "over_3yr_pct": 14.6
     },
     {
       "type": "教育培训",
-      "count": 50.0,
-      "within_1yr_pct": 28.0,
-      "1_3yr_pct": 42.0,
-      "over_3yr_pct": 30.0
+      "count": 50,
+      "within_1yr_pct": 28,
+      "1_3yr_pct": 42,
+      "over_3yr_pct": 30
     },
     {
       "type": "酒店住宿",
-      "count": 1.0,
-      "within_1yr_pct": 0.0,
-      "1_3yr_pct": 100.0,
-      "over_3yr_pct": 0.0
+      "count": 1,
+      "within_1yr_pct": 0,
+      "1_3yr_pct": 100,
+      "over_3yr_pct": 0
     },
     {
       "type": "生活服务",
-      "count": 206.0,
+      "count": 206,
       "within_1yr_pct": 31.1,
       "1_3yr_pct": 45.6,
       "over_3yr_pct": 23.3
     },
     {
       "type": "运动健身",
-      "count": 25.0,
-      "within_1yr_pct": 20.0,
-      "1_3yr_pct": 60.0,
-      "over_3yr_pct": 20.0
+      "count": 25,
+      "within_1yr_pct": 20,
+      "1_3yr_pct": 60,
+      "over_3yr_pct": 20
     },
     {
       "type": "车辆服务",
-      "count": 15.0,
-      "within_1yr_pct": 40.0,
-      "1_3yr_pct": 20.0,
-      "over_3yr_pct": 40.0
+      "count": 15,
+      "within_1yr_pct": 40,
+      "1_3yr_pct": 20,
+      "over_3yr_pct": 40
     }
   ],
   "nearby_communities": [

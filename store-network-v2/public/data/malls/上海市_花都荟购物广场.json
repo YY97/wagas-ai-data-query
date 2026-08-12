@@ -13,7 +13,7 @@
     "industry_score": 90.3,
     "annual_sales": "花都荟购物广场位于上海市嘉定区城中路2号，是嘉定花都大酒店集团打造的首个集潮流商业、家居生活和高档酒店为一体的“新商业共生综合体”自带“一河两桥三公园”的绝佳环境，打造滨水休闲文化购物公园，打破传统购物中心的思维定式，用商业、酒店、办公、公寓、亲水公园、天穹花园串联起整个空间引入了多个嘉定首店品牌，如红星电影世界、牛垚鲜牛肉火锅、蜀大侠等；多个首入上海品牌，如嗨马乐动，海囧烤肉、大浪炭火鲜牛肉酒场等；多个网红品牌，如肥猫、多伦多海鲜自助、台北夜市等；及众多知名品牌，如上蔬永辉、星巴克、KFC、棒约翰、萨莉亚、me&city，jack&jones，selected、only、vero moda、爱婴室等，其中还藏有米其林一星品牌三不牛腩花都荟的一大亮点是4000㎡的盒马菜市，区别于盒马鲜生，盒马菜市主要经营新鲜果蔬、鱼肉禽蛋、水产零食等，商品价格相对于盒马鲜生更为亲民",
     "annual_sales_unit": "-",
-    "area_size_sqm": 5.0,
+    "area_size_sqm": 5,
     "open_date": "2019-09-26",
     "operator": "上海嘉定花都大酒店有限公司",
     "brand": "",
@@ -21,7 +21,7 @@
     "floors": "B2-L4"
   },
   "traffic": {
-    "annual_daily": 7425.0,
+    "annual_daily": 7425,
     "annual_daily_unit": "人次",
     "annual_daily_rank": "市内第305",
     "jun_total": 33.2,
@@ -39,11 +39,11 @@
   "population": {
     "residential": {
       "500m": 1.8,
-      "1_5km": 14.0,
-      "3km": 46.0
+      "1_5km": 14,
+      "3km": 46
     },
     "office": {
-      "500m": 8000.0,
+      "500m": 8000,
       "1_5km": 8.1,
       "3km": 22.3
     },
@@ -54,26 +54,26 @@
     }
   },
   "business": {
-    "competitors": 3.0,
-    "food": 94.0,
-    "shopping": 54.0,
-    "leisure": 8.0,
-    "education": 6.0,
-    "hotel": 13.0,
-    "services": 61.0,
-    "fitness": 10.0,
-    "auto": 7.0,
-    "total_stores": 77.0,
-    "old_store_3yr_pct": 61.0
+    "competitors": 3,
+    "food": 94,
+    "shopping": 54,
+    "leisure": 8,
+    "education": 6,
+    "hotel": 13,
+    "services": 61,
+    "fitness": 10,
+    "auto": 7,
+    "total_stores": 77,
+    "old_store_3yr_pct": 61
   },
   "nearby_poi": {
-    "business": 3.0,
-    "community": 263.0,
-    "office": 26.0,
-    "school": 29.0,
-    "hospital": 46.0,
-    "transport": 9.0,
-    "scenic": 123.0
+    "business": 3,
+    "community": 263,
+    "office": 26,
+    "school": 29,
+    "hospital": 46,
+    "transport": 9,
+    "scenic": 123
   },
   "demographics": {
     "male_pct": 48.9,
@@ -81,7 +81,7 @@
     "education": {
       "小学": 9.5,
       "初中": 17.2,
-      "高中": 11.0,
+      "高中": 11,
       "大专": 8.8,
       "本科": 46.9,
       "硕士": 5.5,
@@ -142,58 +142,58 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 43.0,
+      "count": 43,
       "within_1yr_pct": 20.9,
       "1_3yr_pct": 20.9,
       "over_3yr_pct": 58.1
     },
     {
       "type": "购物",
-      "count": 7.0,
-      "within_1yr_pct": 0.0,
+      "count": 7,
+      "within_1yr_pct": 0,
       "1_3yr_pct": 14.3,
       "over_3yr_pct": 85.7
     },
     {
       "type": "休闲娱乐",
-      "count": 3.0,
-      "within_1yr_pct": 0.0,
+      "count": 3,
+      "within_1yr_pct": 0,
       "1_3yr_pct": 66.7,
       "over_3yr_pct": 33.3
     },
     {
       "type": "教育培训",
-      "count": 3.0,
-      "within_1yr_pct": 0.0,
+      "count": 3,
+      "within_1yr_pct": 0,
       "1_3yr_pct": 33.3,
       "over_3yr_pct": 66.7
     },
     {
       "type": "酒店住宿",
-      "count": 3.0,
+      "count": 3,
       "within_1yr_pct": 33.3,
       "1_3yr_pct": 33.3,
       "over_3yr_pct": 33.3
     },
     {
       "type": "生活服务",
-      "count": 9.0,
+      "count": 9,
       "within_1yr_pct": 11.1,
       "1_3yr_pct": 22.2,
       "over_3yr_pct": 66.7
     },
     {
       "type": "运动健身",
-      "count": 6.0,
-      "within_1yr_pct": 0.0,
+      "count": 6,
+      "within_1yr_pct": 0,
       "1_3yr_pct": 16.7,
       "over_3yr_pct": 83.3
     },
     {
       "type": "车辆服务",
-      "count": 3.0,
+      "count": 3,
       "within_1yr_pct": 66.7,
-      "1_3yr_pct": 0.0,
+      "1_3yr_pct": 0,
       "over_3yr_pct": 33.3
     }
   ],

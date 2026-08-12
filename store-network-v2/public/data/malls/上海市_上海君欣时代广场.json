@@ -7,13 +7,13 @@
   "overview": {
     "score": 80.1,
     "score_rank": "市内前30%",
-    "population_score": 100.0,
+    "population_score": 100,
     "area_score": 89.5,
     "consumption_score": 77.4,
-    "industry_score": 80.0,
+    "industry_score": 80,
     "annual_sales": "君欣时代广场位于上海市杨浦区控江路1777号，由一幢6层的精品商场及上部6至23层的甲级办公塔楼组成项目核心辐射区位于三街交汇之地，拥有商圈常驻和流动人口共计约44万人，并且拥有约400的机动车位商场内部装修设计围绕城市绿洲主题，营造自然舒适的购物环境，同时设置了多个挑空中庭和景观平台，提供丰富的公共空间办公楼部分则以高品质甲级写字楼标准打造，为企业提供优质的办公环境",
     "annual_sales_unit": "-",
-    "area_size_sqm": 4.0,
+    "area_size_sqm": 4,
     "open_date": "2018-04-01",
     "operator": "江苏文峰集团有限公司",
     "brand": "",
@@ -21,18 +21,18 @@
     "floors": "B1-L5"
   },
   "traffic": {
-    "annual_daily": 4685.0,
+    "annual_daily": 4685,
     "annual_daily_unit": "人次",
     "annual_daily_rank": "市内第372",
     "jun_total": 25.1,
     "jun_total_rank": "市内商场第344名",
-    "jun_daily_avg": 8352.0,
+    "jun_daily_avg": 8352,
     "jun_daily_unit": "人次",
     "jun_daily_rank": "市内商场第344名",
-    "weekday_avg": 7944.0,
+    "weekday_avg": 7944,
     "weekday_unit": "人次",
     "weekday_rank": "市内商场第347名",
-    "holiday_avg": 9476.0,
+    "holiday_avg": 9476,
     "holiday_unit": "人次",
     "holiday_rank": "市内商场第334名"
   },
@@ -44,8 +44,8 @@
     },
     "office": {
       "500m": 3.2,
-      "1_5km": 18.0,
-      "3km": 68.0
+      "1_5km": 18,
+      "3km": 68
     },
     "permanent": {
       "500m": 6.5,
@@ -54,26 +54,26 @@
     }
   },
   "business": {
-    "competitors": 5.0,
-    "food": 294.0,
-    "shopping": 256.0,
-    "leisure": 11.0,
-    "education": 70.0,
-    "hotel": 41.0,
-    "services": 214.0,
-    "fitness": 26.0,
-    "auto": 9.0,
-    "total_stores": 34.0,
-    "old_store_3yr_pct": 38.0
+    "competitors": 5,
+    "food": 294,
+    "shopping": 256,
+    "leisure": 11,
+    "education": 70,
+    "hotel": 41,
+    "services": 214,
+    "fitness": 26,
+    "auto": 9,
+    "total_stores": 34,
+    "old_store_3yr_pct": 38
   },
   "nearby_poi": {
-    "business": 3.0,
-    "community": 839.0,
-    "office": 76.0,
-    "school": 64.0,
-    "hospital": 94.0,
-    "transport": 11.0,
-    "scenic": 267.0
+    "business": 3,
+    "community": 839,
+    "office": 76,
+    "school": 64,
+    "hospital": 94,
+    "transport": 11,
+    "scenic": 267
   },
   "demographics": {
     "male_pct": 49.3,
@@ -372,52 +372,52 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 7.0,
+      "count": 7,
       "within_1yr_pct": 14.3,
       "1_3yr_pct": 14.3,
       "over_3yr_pct": 71.4
     },
     {
       "type": "购物",
-      "count": 4.0,
-      "within_1yr_pct": 50.0,
-      "1_3yr_pct": 25.0,
-      "over_3yr_pct": 25.0
+      "count": 4,
+      "within_1yr_pct": 50,
+      "1_3yr_pct": 25,
+      "over_3yr_pct": 25
     },
     {
       "type": "休闲娱乐",
-      "count": 2.0,
-      "within_1yr_pct": 0.0,
-      "1_3yr_pct": 50.0,
-      "over_3yr_pct": 50.0
+      "count": 2,
+      "within_1yr_pct": 0,
+      "1_3yr_pct": 50,
+      "over_3yr_pct": 50
     },
     {
       "type": "教育培训",
-      "count": 6.0,
+      "count": 6,
       "within_1yr_pct": 16.7,
       "1_3yr_pct": 33.3,
-      "over_3yr_pct": 50.0
+      "over_3yr_pct": 50
     },
     {
       "type": "酒店住宿",
-      "count": 1.0,
-      "within_1yr_pct": 100.0,
-      "1_3yr_pct": 0.0,
-      "over_3yr_pct": 0.0
+      "count": 1,
+      "within_1yr_pct": 100,
+      "1_3yr_pct": 0,
+      "over_3yr_pct": 0
     },
     {
       "type": "生活服务",
-      "count": 5.0,
-      "within_1yr_pct": 40.0,
-      "1_3yr_pct": 0.0,
-      "over_3yr_pct": 60.0
+      "count": 5,
+      "within_1yr_pct": 40,
+      "1_3yr_pct": 0,
+      "over_3yr_pct": 60
     },
     {
       "type": "运动健身",
-      "count": 9.0,
+      "count": 9,
       "within_1yr_pct": 55.6,
       "1_3yr_pct": 44.4,
-      "over_3yr_pct": 0.0
+      "over_3yr_pct": 0
     }
   ],
   "nearby_communities": [

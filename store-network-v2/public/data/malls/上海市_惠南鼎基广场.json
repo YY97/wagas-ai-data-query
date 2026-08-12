@@ -10,7 +10,7 @@
     "population_score": 84.9,
     "area_score": 93.3,
     "consumption_score": 62.4,
-    "industry_score": 69.0,
+    "industry_score": 69,
     "annual_sales": "",
     "annual_sales_unit": "",
     "area_size_sqm": null,
@@ -38,7 +38,7 @@
   },
   "population": {
     "residential": {
-      "500m": 2.0,
+      "500m": 2,
       "1_5km": 14.6,
       "3km": 37.8
     },
@@ -54,26 +54,26 @@
     }
   },
   "business": {
-    "competitors": 1.0,
-    "food": 326.0,
-    "shopping": 419.0,
-    "leisure": 10.0,
-    "education": 22.0,
-    "hotel": 29.0,
-    "services": 289.0,
-    "fitness": 8.0,
-    "auto": 6.0,
+    "competitors": 1,
+    "food": 326,
+    "shopping": 419,
+    "leisure": 10,
+    "education": 22,
+    "hotel": 29,
+    "services": 289,
+    "fitness": 8,
+    "auto": 6,
     "total_stores": null,
     "old_store_3yr_pct": null
   },
   "nearby_poi": {
-    "business": 3.0,
-    "community": 216.0,
-    "office": 18.0,
-    "school": 34.0,
-    "hospital": 46.0,
-    "transport": 23.0,
-    "scenic": 55.0
+    "business": 3,
+    "community": 216,
+    "office": 18,
+    "school": 34,
+    "hospital": 46,
+    "transport": 23,
+    "scenic": 55
   },
   "demographics": {
     "male_pct": 49.2,
@@ -83,7 +83,7 @@
       "初中": 22.8,
       "高中": 14.8,
       "大专": 8.2,
-      "本科": 41.0,
+      "本科": 41,
       "硕士": 2.8,
       "博士": 0.9
     },

@@ -13,7 +13,7 @@
     "industry_score": 95.5,
     "annual_sales": "上海天空万科广场是上海万科联合申通资产开发的首个TOD模式多元业态综合体项目，与17号线徐盈路站无缝连接，集商业、办公、住宅和青年公寓、公共绿地和教育为一体，是现代版的“微缩城市”",
     "annual_sales_unit": "-",
-    "area_size_sqm": 10.0,
+    "area_size_sqm": 10,
     "open_date": "2022-09-30",
     "operator": "印力商用置业有限公司",
     "brand": "引力",
@@ -43,7 +43,7 @@
       "3km": 29.9
     },
     "office": {
-      "500m": 8900.0,
+      "500m": 8900,
       "1_5km": 3.3,
       "3km": 12.6
     },
@@ -54,26 +54,26 @@
     }
   },
   "business": {
-    "competitors": 3.0,
-    "food": 115.0,
-    "shopping": 102.0,
-    "leisure": 15.0,
-    "education": 13.0,
-    "hotel": 13.0,
-    "services": 70.0,
-    "fitness": 15.0,
-    "auto": 23.0,
-    "total_stores": 237.0,
-    "old_store_3yr_pct": 40.0
+    "competitors": 3,
+    "food": 115,
+    "shopping": 102,
+    "leisure": 15,
+    "education": 13,
+    "hotel": 13,
+    "services": 70,
+    "fitness": 15,
+    "auto": 23,
+    "total_stores": 237,
+    "old_store_3yr_pct": 40
   },
   "nearby_poi": {
     "business": null,
-    "community": 145.0,
-    "office": 5.0,
-    "school": 6.0,
-    "hospital": 34.0,
-    "transport": 7.0,
-    "scenic": 37.0
+    "community": 145,
+    "office": 5,
+    "school": 6,
+    "hospital": 34,
+    "transport": 7,
+    "scenic": 37
   },
   "demographics": {
     "male_pct": 47.9,
@@ -347,49 +347,49 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 101.0,
+      "count": 101,
       "within_1yr_pct": 18.8,
       "1_3yr_pct": 32.7,
       "over_3yr_pct": 48.5
     },
     {
       "type": "购物",
-      "count": 81.0,
-      "within_1yr_pct": 42.0,
+      "count": 81,
+      "within_1yr_pct": 42,
       "1_3yr_pct": 24.7,
       "over_3yr_pct": 33.3
     },
     {
       "type": "休闲娱乐",
-      "count": 14.0,
+      "count": 14,
       "within_1yr_pct": 42.9,
       "1_3yr_pct": 21.4,
       "over_3yr_pct": 35.7
     },
     {
       "type": "教育培训",
-      "count": 8.0,
-      "within_1yr_pct": 25.0,
+      "count": 8,
+      "within_1yr_pct": 25,
       "1_3yr_pct": 37.5,
       "over_3yr_pct": 37.5
     },
     {
       "type": "生活服务",
-      "count": 15.0,
-      "within_1yr_pct": 40.0,
+      "count": 15,
+      "within_1yr_pct": 40,
       "1_3yr_pct": 26.7,
       "over_3yr_pct": 33.3
     },
     {
       "type": "运动健身",
-      "count": 4.0,
-      "within_1yr_pct": 0.0,
-      "1_3yr_pct": 75.0,
-      "over_3yr_pct": 25.0
+      "count": 4,
+      "within_1yr_pct": 0,
+      "1_3yr_pct": 75,
+      "over_3yr_pct": 25
     },
     {
       "type": "车辆服务",
-      "count": 14.0,
+      "count": 14,
       "within_1yr_pct": 35.7,
       "1_3yr_pct": 35.7,
       "over_3yr_pct": 28.6

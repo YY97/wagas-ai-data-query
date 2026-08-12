@@ -13,7 +13,7 @@
     "industry_score": 86.9,
     "annual_sales": "融信上坤中心先番城位于闵行七宝生态商务园区，地铁10号线直连，聚焦Z世代社群，聚力社群运营，秉持着新社群、新文化、新商业模式，致力于打造Z世代的在工作之外回归内心所需要的社交空间先番城作为一个综合发展，三座商务楼、一座酒店及一座购物中心组成，以多样性的生态布局，打造一个小而美的多元化社交空间，成为集零售、时尚、餐饮、娱乐、艺术为一体的一站式潮流生活聚集地中引进了欧洲高端酒店品牌美仑美奂MAXX by Steigenberger中国首店、上海首家老鹰室内高尔夫、精品甬菜结合茶道的泓尚融府私宴、Omakase高级料理店鮨匠·割烹料理等国内外知名品牌同时还打造两大主题空间——中庭互动体验乐园、下沉星空夜宴广场，营造沉浸式氛围，四大特色场景——水舞、云梦、风谷、光影，提供打卡与休闲空间先番城定位“Z世代”社群第三空间，以社交体验为核心，打造一个“潮玩圣地”、“爱宠基地”、“新社群集散地”，将为闵行七宝乃至整个上海年轻客群呈现一个“好奇、好看、好玩、好味”的多元化体验空间",
     "annual_sales_unit": "-",
-    "area_size_sqm": 3.0,
+    "area_size_sqm": 3,
     "open_date": "2021-10-29",
     "operator": "上坤置业有限公司",
     "brand": "金帝集团",
@@ -21,31 +21,31 @@
     "floors": "B1-L3"
   },
   "traffic": {
-    "annual_daily": 4795.0,
+    "annual_daily": 4795,
     "annual_daily_unit": "人次",
     "annual_daily_rank": "市内第367",
     "jun_total": 24.4,
     "jun_total_rank": "市内商场第347名",
-    "jun_daily_avg": 8130.0,
+    "jun_daily_avg": 8130,
     "jun_daily_unit": "人次",
     "jun_daily_rank": "市内商场第347名",
-    "weekday_avg": 8732.0,
+    "weekday_avg": 8732,
     "weekday_unit": "人次",
     "weekday_rank": "市内商场第324名",
-    "holiday_avg": 6473.0,
+    "holiday_avg": 6473,
     "holiday_unit": "人次",
     "holiday_rank": "市内商场第401名"
   },
   "population": {
     "residential": {
-      "500m": 9500.0,
+      "500m": 9500,
       "1_5km": 16.1,
       "3km": 55.6
     },
     "office": {
       "500m": 2.3,
       "1_5km": 10.1,
-      "3km": 30.0
+      "3km": 30
     },
     "permanent": {
       "500m": 1.1,
@@ -54,26 +54,26 @@
     }
   },
   "business": {
-    "competitors": 6.0,
-    "food": 117.0,
-    "shopping": 75.0,
-    "leisure": 13.0,
-    "education": 24.0,
-    "hotel": 1.0,
-    "services": 70.0,
-    "fitness": 13.0,
-    "auto": 26.0,
-    "total_stores": 63.0,
-    "old_store_3yr_pct": 65.0
+    "competitors": 6,
+    "food": 117,
+    "shopping": 75,
+    "leisure": 13,
+    "education": 24,
+    "hotel": 1,
+    "services": 70,
+    "fitness": 13,
+    "auto": 26,
+    "total_stores": 63,
+    "old_store_3yr_pct": 65
   },
   "nearby_poi": {
-    "business": 7.0,
-    "community": 334.0,
-    "office": 32.0,
-    "school": 27.0,
-    "hospital": 29.0,
-    "transport": 11.0,
-    "scenic": 155.0
+    "business": 7,
+    "community": 334,
+    "office": 32,
+    "school": 27,
+    "hospital": 29,
+    "transport": 11,
+    "scenic": 155
   },
   "demographics": {
     "male_pct": 54.2,
@@ -404,59 +404,59 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 31.0,
+      "count": 31,
       "within_1yr_pct": 9.7,
       "1_3yr_pct": 22.6,
       "over_3yr_pct": 67.7
     },
     {
       "type": "购物",
-      "count": 11.0,
+      "count": 11,
       "within_1yr_pct": 9.1,
       "1_3yr_pct": 27.3,
       "over_3yr_pct": 63.6
     },
     {
       "type": "休闲娱乐",
-      "count": 3.0,
+      "count": 3,
       "within_1yr_pct": 33.3,
       "1_3yr_pct": 33.3,
       "over_3yr_pct": 33.3
     },
     {
       "type": "教育培训",
-      "count": 2.0,
-      "within_1yr_pct": 0.0,
-      "1_3yr_pct": 0.0,
-      "over_3yr_pct": 100.0
+      "count": 2,
+      "within_1yr_pct": 0,
+      "1_3yr_pct": 0,
+      "over_3yr_pct": 100
     },
     {
       "type": "酒店住宿",
-      "count": 1.0,
-      "within_1yr_pct": 0.0,
-      "1_3yr_pct": 0.0,
-      "over_3yr_pct": 100.0
+      "count": 1,
+      "within_1yr_pct": 0,
+      "1_3yr_pct": 0,
+      "over_3yr_pct": 100
     },
     {
       "type": "生活服务",
-      "count": 8.0,
-      "within_1yr_pct": 25.0,
-      "1_3yr_pct": 0.0,
-      "over_3yr_pct": 75.0
+      "count": 8,
+      "within_1yr_pct": 25,
+      "1_3yr_pct": 0,
+      "over_3yr_pct": 75
     },
     {
       "type": "运动健身",
-      "count": 3.0,
-      "within_1yr_pct": 0.0,
+      "count": 3,
+      "within_1yr_pct": 0,
       "1_3yr_pct": 33.3,
       "over_3yr_pct": 66.7
     },
     {
       "type": "车辆服务",
-      "count": 4.0,
-      "within_1yr_pct": 25.0,
-      "1_3yr_pct": 50.0,
-      "over_3yr_pct": 25.0
+      "count": 4,
+      "within_1yr_pct": 25,
+      "1_3yr_pct": 50,
+      "over_3yr_pct": 25
     }
   ],
   "nearby_communities": [

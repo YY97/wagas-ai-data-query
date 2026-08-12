@@ -43,7 +43,7 @@
       "3km": 22.4
     },
     "office": {
-      "500m": 7900.0,
+      "500m": 7900,
       "1_5km": 4.4,
       "3km": 10.2
     },
@@ -54,26 +54,26 @@
     }
   },
   "business": {
-    "competitors": 1.0,
-    "food": 90.0,
-    "shopping": 89.0,
-    "leisure": 10.0,
-    "education": 2.0,
-    "hotel": 27.0,
-    "services": 65.0,
-    "fitness": 6.0,
-    "auto": 5.0,
-    "total_stores": 16.0,
-    "old_store_3yr_pct": 88.0
+    "competitors": 1,
+    "food": 90,
+    "shopping": 89,
+    "leisure": 10,
+    "education": 2,
+    "hotel": 27,
+    "services": 65,
+    "fitness": 6,
+    "auto": 5,
+    "total_stores": 16,
+    "old_store_3yr_pct": 88
   },
   "nearby_poi": {
     "business": null,
-    "community": 92.0,
-    "office": 18.0,
-    "school": 28.0,
-    "hospital": 17.0,
-    "transport": 17.0,
-    "scenic": 63.0
+    "community": 92,
+    "office": 18,
+    "school": 28,
+    "hospital": 17,
+    "transport": 17,
+    "scenic": 63
   },
   "demographics": {
     "male_pct": null,
@@ -147,17 +147,17 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 7.0,
+      "count": 7,
       "within_1yr_pct": 14.3,
       "1_3yr_pct": 14.3,
       "over_3yr_pct": 71.4
     },
     {
       "type": "购物",
-      "count": 9.0,
-      "within_1yr_pct": 0.0,
-      "1_3yr_pct": 0.0,
-      "over_3yr_pct": 100.0
+      "count": 9,
+      "within_1yr_pct": 0,
+      "1_3yr_pct": 0,
+      "over_3yr_pct": 100
     }
   ],
   "nearby_communities": [

@@ -13,7 +13,7 @@
     "industry_score": 91.2,
     "annual_sales": "北京庄胜SOGO崇光百货商场位于宣武门外大街庄胜广场内，是北京市单店面积最大的集购物、饮食、休闲于一体的百货商场。商场由北馆、中央和南馆三个各具特色的建筑物构成，总投资为5亿美元，分二期完成。",
     "annual_sales_unit": "-",
-    "area_size_sqm": 14.0,
+    "area_size_sqm": 14,
     "open_date": "2000-01-01",
     "operator": "Sogo株式会社",
     "brand": "北京庄胜崇光房地产开发有限公司",
@@ -48,41 +48,41 @@
       "3km": 63.1
     },
     "permanent": {
-      "500m": 3.0,
+      "500m": 3,
       "1_5km": 21.2,
       "3km": 75.5
     }
   },
   "business": {
-    "competitors": 5.0,
-    "food": 147.0,
-    "shopping": 108.0,
-    "leisure": 7.0,
-    "education": 72.0,
-    "hotel": 10.0,
-    "services": 133.0,
-    "fitness": 21.0,
-    "auto": 10.0,
-    "total_stores": 168.0,
-    "old_store_3yr_pct": 44.0
+    "competitors": 5,
+    "food": 147,
+    "shopping": 108,
+    "leisure": 7,
+    "education": 72,
+    "hotel": 10,
+    "services": 133,
+    "fitness": 21,
+    "auto": 10,
+    "total_stores": 168,
+    "old_store_3yr_pct": 44
   },
   "nearby_poi": {
-    "business": 4.0,
-    "community": 410.0,
-    "office": 54.0,
-    "school": 68.0,
-    "hospital": 112.0,
-    "transport": 7.0,
-    "scenic": 721.0
+    "business": 4,
+    "community": 410,
+    "office": 54,
+    "school": 68,
+    "hospital": 112,
+    "transport": 7,
+    "scenic": 721
   },
   "demographics": {
-    "male_pct": 50.0,
+    "male_pct": 50,
     "female_pct": null,
     "education": {
       "小学": 10.1,
       "初中": 16.6,
       "高中": 10.9,
-      "大专": 6.0,
+      "大专": 6,
       "本科": 46.4,
       "硕士": 7.8,
       "博士": 2.2
@@ -380,58 +380,58 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 50.0,
-      "within_1yr_pct": 16.0,
-      "1_3yr_pct": 32.0,
-      "over_3yr_pct": 52.0
+      "count": 50,
+      "within_1yr_pct": 16,
+      "1_3yr_pct": 32,
+      "over_3yr_pct": 52
     },
     {
       "type": "购物",
-      "count": 30.0,
-      "within_1yr_pct": 20.0,
-      "1_3yr_pct": 30.0,
-      "over_3yr_pct": 50.0
+      "count": 30,
+      "within_1yr_pct": 20,
+      "1_3yr_pct": 30,
+      "over_3yr_pct": 50
     },
     {
       "type": "休闲娱乐",
-      "count": 4.0,
-      "within_1yr_pct": 25.0,
-      "1_3yr_pct": 75.0,
-      "over_3yr_pct": 0.0
+      "count": 4,
+      "within_1yr_pct": 25,
+      "1_3yr_pct": 75,
+      "over_3yr_pct": 0
     },
     {
       "type": "教育培训",
-      "count": 29.0,
+      "count": 29,
       "within_1yr_pct": 34.5,
       "1_3yr_pct": 34.5,
-      "over_3yr_pct": 31.0
+      "over_3yr_pct": 31
     },
     {
       "type": "酒店住宿",
-      "count": 2.0,
-      "within_1yr_pct": 0.0,
-      "1_3yr_pct": 0.0,
-      "over_3yr_pct": 100.0
+      "count": 2,
+      "within_1yr_pct": 0,
+      "1_3yr_pct": 0,
+      "over_3yr_pct": 100
     },
     {
       "type": "生活服务",
-      "count": 40.0,
+      "count": 40,
       "within_1yr_pct": 42.5,
       "1_3yr_pct": 22.5,
-      "over_3yr_pct": 35.0
+      "over_3yr_pct": 35
     },
     {
       "type": "运动健身",
-      "count": 10.0,
-      "within_1yr_pct": 20.0,
-      "1_3yr_pct": 20.0,
-      "over_3yr_pct": 60.0
+      "count": 10,
+      "within_1yr_pct": 20,
+      "1_3yr_pct": 20,
+      "over_3yr_pct": 60
     },
     {
       "type": "车辆服务",
-      "count": 3.0,
+      "count": 3,
       "within_1yr_pct": 33.3,
-      "1_3yr_pct": 0.0,
+      "1_3yr_pct": 0,
       "over_3yr_pct": 66.7
     }
   ],

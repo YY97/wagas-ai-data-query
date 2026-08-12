@@ -8,12 +8,12 @@
     "score": 82.5,
     "score_rank": "市内前30%",
     "population_score": 97.7,
-    "area_score": 85.0,
+    "area_score": 85,
     "consumption_score": 78.9,
     "industry_score": 82.5,
     "annual_sales": "800",
     "annual_sales_unit": "万元",
-    "area_size_sqm": 3000.0,
+    "area_size_sqm": 3000,
     "open_date": "2016-06-07",
     "operator": "北京日购商城有限责任公司",
     "brand": "",
@@ -54,26 +54,26 @@
     }
   },
   "business": {
-    "competitors": 1.0,
-    "food": 216.0,
-    "shopping": 134.0,
-    "leisure": 24.0,
-    "education": 84.0,
-    "hotel": 25.0,
-    "services": 165.0,
-    "fitness": 25.0,
-    "auto": 8.0,
-    "total_stores": 81.0,
-    "old_store_3yr_pct": 59.0
+    "competitors": 1,
+    "food": 216,
+    "shopping": 134,
+    "leisure": 24,
+    "education": 84,
+    "hotel": 25,
+    "services": 165,
+    "fitness": 25,
+    "auto": 8,
+    "total_stores": 81,
+    "old_store_3yr_pct": 59
   },
   "nearby_poi": {
-    "business": 5.0,
-    "community": 250.0,
-    "office": 58.0,
-    "school": 26.0,
-    "hospital": 49.0,
-    "transport": 14.0,
-    "scenic": 323.0
+    "business": 5,
+    "community": 250,
+    "office": 58,
+    "school": 26,
+    "hospital": 49,
+    "transport": 14,
+    "scenic": 323
   },
   "demographics": {
     "male_pct": 52.1,
@@ -83,7 +83,7 @@
       "初中": 13.5,
       "高中": 12.8,
       "大专": 5.2,
-      "本科": 48.0,
+      "本科": 48,
       "硕士": 10.1,
       "博士": 2.6
     },
@@ -388,38 +388,38 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 22.0,
+      "count": 22,
       "within_1yr_pct": 22.7,
       "1_3yr_pct": 22.7,
       "over_3yr_pct": 54.5
     },
     {
       "type": "购物",
-      "count": 27.0,
+      "count": 27,
       "within_1yr_pct": 18.5,
       "1_3yr_pct": 18.5,
-      "over_3yr_pct": 63.0
+      "over_3yr_pct": 63
     },
     {
       "type": "休闲娱乐",
-      "count": 1.0,
-      "within_1yr_pct": 100.0,
-      "1_3yr_pct": 0.0,
-      "over_3yr_pct": 0.0
+      "count": 1,
+      "within_1yr_pct": 100,
+      "1_3yr_pct": 0,
+      "over_3yr_pct": 0
     },
     {
       "type": "教育培训",
-      "count": 11.0,
+      "count": 11,
       "within_1yr_pct": 27.3,
       "1_3yr_pct": 9.1,
       "over_3yr_pct": 63.6
     },
     {
       "type": "生活服务",
-      "count": 20.0,
-      "within_1yr_pct": 25.0,
-      "1_3yr_pct": 15.0,
-      "over_3yr_pct": 60.0
+      "count": 20,
+      "within_1yr_pct": 25,
+      "1_3yr_pct": 15,
+      "over_3yr_pct": 60
     }
   ],
   "nearby_communities": [

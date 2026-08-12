@@ -8,12 +8,12 @@
     "score": 95.1,
     "score_rank": "市内前30%",
     "population_score": 78.9,
-    "area_score": 90.0,
+    "area_score": 90,
     "consumption_score": 78.6,
     "industry_score": 95.2,
     "annual_sales": "百联南方购物中心前身为1994年开业的“八佰伴南方商城”，1999年友谊集团收购接盘，更名为“友谊南方商城”，2004年翻牌为“百联南方购物中心”，是上海早期几家较有代表性的特色社区型购物中心之一。",
     "annual_sales_unit": "-",
-    "area_size_sqm": 10.0,
+    "area_size_sqm": 10,
     "open_date": "1999-09-01",
     "operator": "上海百联集团股份有限公司",
     "brand": "百联",
@@ -32,7 +32,7 @@
     "weekday_avg": 8.8,
     "weekday_unit": "万人次",
     "weekday_rank": "市内商场第5名",
-    "holiday_avg": 12.0,
+    "holiday_avg": 12,
     "holiday_unit": "万人次",
     "holiday_rank": "市内商场第4名"
   },
@@ -43,7 +43,7 @@
       "3km": 75.8
     },
     "office": {
-      "500m": 2.0,
+      "500m": 2,
       "1_5km": 9.2,
       "3km": 30.2
     },
@@ -54,26 +54,26 @@
     }
   },
   "business": {
-    "competitors": 12.0,
-    "food": 376.0,
-    "shopping": 265.0,
-    "leisure": 46.0,
-    "education": 103.0,
-    "hotel": 17.0,
-    "services": 195.0,
-    "fitness": 45.0,
-    "auto": 31.0,
-    "total_stores": 157.0,
-    "old_store_3yr_pct": 65.0
+    "competitors": 12,
+    "food": 376,
+    "shopping": 265,
+    "leisure": 46,
+    "education": 103,
+    "hotel": 17,
+    "services": 195,
+    "fitness": 45,
+    "auto": 31,
+    "total_stores": 157,
+    "old_store_3yr_pct": 65
   },
   "nearby_poi": {
-    "business": 7.0,
-    "community": 369.0,
-    "office": 19.0,
-    "school": 37.0,
-    "hospital": 41.0,
-    "transport": 13.0,
-    "scenic": 79.0
+    "business": 7,
+    "community": 369,
+    "office": 19,
+    "school": 37,
+    "hospital": 41,
+    "transport": 13,
+    "scenic": 79
   },
   "demographics": {
     "male_pct": 47.8,
@@ -81,7 +81,7 @@
     "education": {
       "小学": 8.7,
       "初中": 15.8,
-      "高中": 11.0,
+      "高中": 11,
       "大专": 6.8,
       "本科": 49.7,
       "硕士": 6.2,
@@ -404,52 +404,52 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 43.0,
-      "within_1yr_pct": 7.0,
+      "count": 43,
+      "within_1yr_pct": 7,
       "1_3yr_pct": 16.3,
       "over_3yr_pct": 76.7
     },
     {
       "type": "购物",
-      "count": 79.0,
+      "count": 79,
       "within_1yr_pct": 15.2,
       "1_3yr_pct": 17.7,
       "over_3yr_pct": 67.1
     },
     {
       "type": "休闲娱乐",
-      "count": 8.0,
+      "count": 8,
       "within_1yr_pct": 37.5,
       "1_3yr_pct": 12.5,
-      "over_3yr_pct": 50.0
+      "over_3yr_pct": 50
     },
     {
       "type": "教育培训",
-      "count": 8.0,
-      "within_1yr_pct": 0.0,
-      "1_3yr_pct": 50.0,
-      "over_3yr_pct": 50.0
+      "count": 8,
+      "within_1yr_pct": 0,
+      "1_3yr_pct": 50,
+      "over_3yr_pct": 50
     },
     {
       "type": "生活服务",
-      "count": 11.0,
+      "count": 11,
       "within_1yr_pct": 27.3,
       "1_3yr_pct": 36.4,
       "over_3yr_pct": 36.4
     },
     {
       "type": "运动健身",
-      "count": 4.0,
-      "within_1yr_pct": 25.0,
-      "1_3yr_pct": 50.0,
-      "over_3yr_pct": 25.0
+      "count": 4,
+      "within_1yr_pct": 25,
+      "1_3yr_pct": 50,
+      "over_3yr_pct": 25
     },
     {
       "type": "车辆服务",
-      "count": 4.0,
-      "within_1yr_pct": 0.0,
-      "1_3yr_pct": 25.0,
-      "over_3yr_pct": 75.0
+      "count": 4,
+      "within_1yr_pct": 0,
+      "1_3yr_pct": 25,
+      "over_3yr_pct": 75
     }
   ],
   "nearby_communities": [

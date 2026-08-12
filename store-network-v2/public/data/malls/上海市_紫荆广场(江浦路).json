@@ -7,13 +7,13 @@
   "overview": {
     "score": 95.1,
     "score_rank": "市内前30%",
-    "population_score": 100.0,
+    "population_score": 100,
     "area_score": 85.9,
     "consumption_score": 77.6,
     "industry_score": 95.1,
     "annual_sales": "上海紫荆广场位于8号线江浦路站，对面就是新华医院。紫荆广场地上11层，地下3层，停车位530个，纯正港式风格。里面服饰旗舰店、品牌零售店、豪华影院、精品超市、健身房、量贩式KTV、儿童主题乐园、护理与培训、精品港式餐厅、特色休闲餐饮等一应俱全",
     "annual_sales_unit": "-",
-    "area_size_sqm": 7.0,
+    "area_size_sqm": 7,
     "open_date": "2015-12-05",
     "operator": "上海海锦房地产有限公司",
     "brand": "海锦地产",
@@ -24,7 +24,7 @@
     "annual_daily": 3.63,
     "annual_daily_unit": "万人次",
     "annual_daily_rank": "市内第60",
-    "jun_total": 155.0,
+    "jun_total": 155,
     "jun_total_rank": "市内商场第65名",
     "jun_daily_avg": 5.2,
     "jun_daily_unit": "万人次",
@@ -43,7 +43,7 @@
       "3km": 113.7
     },
     "office": {
-      "500m": 3.0,
+      "500m": 3,
       "1_5km": 17.6,
       "3km": 69.3
     },
@@ -54,26 +54,26 @@
     }
   },
   "business": {
-    "competitors": 3.0,
-    "food": 230.0,
-    "shopping": 208.0,
-    "leisure": 18.0,
-    "education": 77.0,
-    "hotel": 36.0,
-    "services": 175.0,
-    "fitness": 27.0,
-    "auto": 13.0,
-    "total_stores": 151.0,
-    "old_store_3yr_pct": 55.0
+    "competitors": 3,
+    "food": 230,
+    "shopping": 208,
+    "leisure": 18,
+    "education": 77,
+    "hotel": 36,
+    "services": 175,
+    "fitness": 27,
+    "auto": 13,
+    "total_stores": 151,
+    "old_store_3yr_pct": 55
   },
   "nearby_poi": {
-    "business": 4.0,
-    "community": 846.0,
-    "office": 61.0,
-    "school": 69.0,
-    "hospital": 91.0,
-    "transport": 8.0,
-    "scenic": 227.0
+    "business": 4,
+    "community": 846,
+    "office": 61,
+    "school": 69,
+    "hospital": 91,
+    "transport": 8,
+    "scenic": 227
   },
   "demographics": {
     "male_pct": 46.7,
@@ -380,59 +380,59 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 71.0,
+      "count": 71,
       "within_1yr_pct": 15.5,
       "1_3yr_pct": 26.8,
       "over_3yr_pct": 57.7
     },
     {
       "type": "购物",
-      "count": 36.0,
+      "count": 36,
       "within_1yr_pct": 13.9,
       "1_3yr_pct": 19.4,
       "over_3yr_pct": 66.7
     },
     {
       "type": "休闲娱乐",
-      "count": 2.0,
-      "within_1yr_pct": 0.0,
-      "1_3yr_pct": 0.0,
-      "over_3yr_pct": 100.0
+      "count": 2,
+      "within_1yr_pct": 0,
+      "1_3yr_pct": 0,
+      "over_3yr_pct": 100
     },
     {
       "type": "教育培训",
-      "count": 14.0,
+      "count": 14,
       "within_1yr_pct": 21.4,
       "1_3yr_pct": 35.7,
       "over_3yr_pct": 42.9
     },
     {
       "type": "酒店住宿",
-      "count": 3.0,
-      "within_1yr_pct": 0.0,
+      "count": 3,
+      "within_1yr_pct": 0,
       "1_3yr_pct": 66.7,
       "over_3yr_pct": 33.3
     },
     {
       "type": "生活服务",
-      "count": 17.0,
+      "count": 17,
       "within_1yr_pct": 23.5,
       "1_3yr_pct": 41.2,
       "over_3yr_pct": 35.3
     },
     {
       "type": "运动健身",
-      "count": 6.0,
+      "count": 6,
       "within_1yr_pct": 33.3,
       "1_3yr_pct": 33.3,
       "over_3yr_pct": 33.3
     },
     {
       "type": "车辆服务",
-      "count": 2.0,
-      "within_1yr_pct": 50.0,
-      "1_3yr_pct": 0.0,
-      "over_3yr_pct": 50.0
+      "count": 2,
+      "within_1yr_pct": 50,
+      "1_3yr_pct": 0,
+      "over_3yr_pct": 50
     }
   ],
   "nearby_communities": [

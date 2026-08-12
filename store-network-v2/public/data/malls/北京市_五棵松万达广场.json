@@ -13,7 +13,7 @@
     "industry_score": 96.5,
     "annual_sales": "北京五棵松万达广场位于海淀区复兴路69号，长安街、西四环交汇处，毗邻华熙LIVE，处于五棵松商圈的核心位置。项目在建筑外轮廓不变、建筑面积不增加的前提下，对建筑平面布局和人流动线进行调整，重新规划商场布局，提升空间场景的体验性。改造后的项目将成为五棵松商圈的活力中心，也是轻资产打造闲置老旧楼宇升级改造的典型案例。此次更新由传统零售向体验消费过渡，以“未来之城”“天空花园”“地心引力”为主题，围绕情景娱乐、文化休闲、圈层社交、先锋科技4大功能，打造昼夜全时段消费中心",
     "annual_sales_unit": "-",
-    "area_size_sqm": 30.0,
+    "area_size_sqm": 30,
     "open_date": "2023-09-28",
     "operator": "珠海万达商业管理集团股份有限公司",
     "brand": "万达",
@@ -39,7 +39,7 @@
   "population": {
     "residential": {
       "500m": 1.1,
-      "1_5km": 20.0,
+      "1_5km": 20,
       "3km": 74.3
     },
     "office": {
@@ -54,26 +54,26 @@
     }
   },
   "business": {
-    "competitors": 9.0,
-    "food": 358.0,
-    "shopping": 208.0,
-    "leisure": 56.0,
-    "education": 16.0,
-    "hotel": 14.0,
-    "services": 137.0,
-    "fitness": 34.0,
-    "auto": 33.0,
-    "total_stores": 414.0,
-    "old_store_3yr_pct": 44.0
+    "competitors": 9,
+    "food": 358,
+    "shopping": 208,
+    "leisure": 56,
+    "education": 16,
+    "hotel": 14,
+    "services": 137,
+    "fitness": 34,
+    "auto": 33,
+    "total_stores": 414,
+    "old_store_3yr_pct": 44
   },
   "nearby_poi": {
-    "business": 3.0,
-    "community": 394.0,
-    "office": 28.0,
-    "school": 23.0,
-    "hospital": 71.0,
-    "transport": 5.0,
-    "scenic": 157.0
+    "business": 3,
+    "community": 394,
+    "office": 28,
+    "school": 23,
+    "hospital": 71,
+    "transport": 5,
+    "scenic": 157
   },
   "demographics": {
     "male_pct": 47.8,
@@ -85,7 +85,7 @@
       "大专": 5.5,
       "本科": 46.7,
       "硕士": 11.1,
-      "博士": 3.0
+      "博士": 3
     },
     "has_children_pct": 57.9,
     "no_children_pct": 42.1
@@ -372,52 +372,52 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 173.0,
+      "count": 173,
       "within_1yr_pct": 23.7,
       "1_3yr_pct": 33.5,
       "over_3yr_pct": 42.8
     },
     {
       "type": "购物",
-      "count": 126.0,
+      "count": 126,
       "within_1yr_pct": 16.7,
       "1_3yr_pct": 30.2,
       "over_3yr_pct": 53.2
     },
     {
       "type": "休闲娱乐",
-      "count": 30.0,
+      "count": 30,
       "within_1yr_pct": 23.3,
       "1_3yr_pct": 33.3,
       "over_3yr_pct": 43.3
     },
     {
       "type": "教育培训",
-      "count": 12.0,
-      "within_1yr_pct": 25.0,
-      "1_3yr_pct": 25.0,
-      "over_3yr_pct": 50.0
+      "count": 12,
+      "within_1yr_pct": 25,
+      "1_3yr_pct": 25,
+      "over_3yr_pct": 50
     },
     {
       "type": "生活服务",
-      "count": 49.0,
+      "count": 49,
       "within_1yr_pct": 32.7,
       "1_3yr_pct": 42.9,
       "over_3yr_pct": 24.5
     },
     {
       "type": "运动健身",
-      "count": 14.0,
+      "count": 14,
       "within_1yr_pct": 14.3,
       "1_3yr_pct": 21.4,
       "over_3yr_pct": 64.3
     },
     {
       "type": "车辆服务",
-      "count": 10.0,
-      "within_1yr_pct": 40.0,
-      "1_3yr_pct": 30.0,
-      "over_3yr_pct": 30.0
+      "count": 10,
+      "within_1yr_pct": 40,
+      "1_3yr_pct": 30,
+      "over_3yr_pct": 30
     }
   ],
   "nearby_communities": [

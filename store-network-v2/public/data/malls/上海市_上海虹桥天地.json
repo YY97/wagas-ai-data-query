@@ -9,11 +9,11 @@
     "score_rank": "市内前30%",
     "population_score": 65.3,
     "area_score": 90.6,
-    "consumption_score": 60.0,
+    "consumption_score": 60,
     "industry_score": 96.5,
     "annual_sales": "16.5",
     "annual_sales_unit": "亿元",
-    "area_size_sqm": 11.0,
+    "area_size_sqm": 11,
     "open_date": "2015-12-12",
     "operator": "上海瑞安房地产发展管理有限公司",
     "brand": "瑞安房地产",
@@ -38,7 +38,7 @@
   },
   "population": {
     "residential": {
-      "500m": 4300.0,
+      "500m": 4300,
       "1_5km": 3.4,
       "3km": 22.1
     },
@@ -54,26 +54,26 @@
     }
   },
   "business": {
-    "competitors": 21.0,
-    "food": 438.0,
-    "shopping": 263.0,
-    "leisure": 39.0,
-    "education": 11.0,
-    "hotel": 14.0,
-    "services": 151.0,
-    "fitness": 20.0,
-    "auto": 41.0,
-    "total_stores": 355.0,
-    "old_store_3yr_pct": 48.0
+    "competitors": 21,
+    "food": 438,
+    "shopping": 263,
+    "leisure": 39,
+    "education": 11,
+    "hotel": 14,
+    "services": 151,
+    "fitness": 20,
+    "auto": 41,
+    "total_stores": 355,
+    "old_store_3yr_pct": 48
   },
   "nearby_poi": {
-    "business": 4.0,
-    "community": 96.0,
-    "office": 56.0,
-    "school": 3.0,
-    "hospital": 33.0,
-    "transport": 23.0,
-    "scenic": 37.0
+    "business": 4,
+    "community": 96,
+    "office": 56,
+    "school": 3,
+    "hospital": 33,
+    "transport": 23,
+    "scenic": 37
   },
   "demographics": {
     "male_pct": 50.3,
@@ -380,58 +380,58 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 144.0,
-      "within_1yr_pct": 25.0,
+      "count": 144,
+      "within_1yr_pct": 25,
       "1_3yr_pct": 21.5,
       "over_3yr_pct": 53.5
     },
     {
       "type": "购物",
-      "count": 125.0,
+      "count": 125,
       "within_1yr_pct": 34.4,
       "1_3yr_pct": 21.6,
-      "over_3yr_pct": 44.0
+      "over_3yr_pct": 44
     },
     {
       "type": "休闲娱乐",
-      "count": 20.0,
-      "within_1yr_pct": 35.0,
-      "1_3yr_pct": 20.0,
-      "over_3yr_pct": 45.0
+      "count": 20,
+      "within_1yr_pct": 35,
+      "1_3yr_pct": 20,
+      "over_3yr_pct": 45
     },
     {
       "type": "教育培训",
-      "count": 2.0,
-      "within_1yr_pct": 50.0,
-      "1_3yr_pct": 0.0,
-      "over_3yr_pct": 50.0
+      "count": 2,
+      "within_1yr_pct": 50,
+      "1_3yr_pct": 0,
+      "over_3yr_pct": 50
     },
     {
       "type": "酒店住宿",
-      "count": 4.0,
-      "within_1yr_pct": 0.0,
-      "1_3yr_pct": 25.0,
-      "over_3yr_pct": 75.0
+      "count": 4,
+      "within_1yr_pct": 0,
+      "1_3yr_pct": 25,
+      "over_3yr_pct": 75
     },
     {
       "type": "生活服务",
-      "count": 41.0,
+      "count": 41,
       "within_1yr_pct": 29.3,
       "1_3yr_pct": 19.5,
       "over_3yr_pct": 51.2
     },
     {
       "type": "运动健身",
-      "count": 7.0,
+      "count": 7,
       "within_1yr_pct": 57.1,
       "1_3yr_pct": 28.6,
       "over_3yr_pct": 14.3
     },
     {
       "type": "车辆服务",
-      "count": 12.0,
+      "count": 12,
       "within_1yr_pct": 33.3,
-      "1_3yr_pct": 25.0,
+      "1_3yr_pct": 25,
       "over_3yr_pct": 41.7
     }
   ],

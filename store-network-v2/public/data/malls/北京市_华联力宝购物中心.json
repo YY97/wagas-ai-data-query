@@ -8,12 +8,12 @@
     "score": 96.1,
     "score_rank": "市内前30%",
     "population_score": 95.3,
-    "area_score": 100.0,
+    "area_score": 100,
     "consumption_score": 84.6,
     "industry_score": 96.1,
     "annual_sales": "上海陆家嘴中心L+Mall是陆家嘴金融贸易区开发股份有限公司耗时6年精心开发的高端商业中心，是陆家嘴核心区大型城市综合体——陆家嘴金融广场的重要组成部分。项目商业体量约14万方，位于世纪大道、浦东南路、南泉北路、商城路交汇处，这里是陆家嘴核心区域黄金角",
     "annual_sales_unit": "-",
-    "area_size_sqm": 14.0,
+    "area_size_sqm": 14,
     "open_date": "2018-12-23",
     "operator": "上海陆家嘴（集团）有限公司",
     "brand": "陆家嘴商业",
@@ -38,7 +38,7 @@
   },
   "population": {
     "residential": {
-      "500m": 3.0,
+      "500m": 3,
       "1_5km": 23.8,
       "3km": 67.3
     },
@@ -54,35 +54,35 @@
     }
   },
   "business": {
-    "competitors": 20.0,
-    "food": 661.0,
-    "shopping": 627.0,
-    "leisure": 58.0,
-    "education": 102.0,
-    "hotel": 78.0,
-    "services": 507.0,
-    "fitness": 65.0,
-    "auto": 40.0,
-    "total_stores": 209.0,
-    "old_store_3yr_pct": 51.0
+    "competitors": 20,
+    "food": 661,
+    "shopping": 627,
+    "leisure": 58,
+    "education": 102,
+    "hotel": 78,
+    "services": 507,
+    "fitness": 65,
+    "auto": 40,
+    "total_stores": 209,
+    "old_store_3yr_pct": 51
   },
   "nearby_poi": {
-    "business": 18.0,
-    "community": 487.0,
-    "office": 156.0,
-    "school": 46.0,
-    "hospital": 133.0,
-    "transport": 17.0,
-    "scenic": 616.0
+    "business": 18,
+    "community": 487,
+    "office": 156,
+    "school": 46,
+    "hospital": 133,
+    "transport": 17,
+    "scenic": 616
   },
   "demographics": {
-    "male_pct": 46.0,
+    "male_pct": 46,
     "female_pct": null,
     "education": {
-      "小学": 9.0,
+      "小学": 9,
       "初中": 16.4,
       "高中": 10.6,
-      "大专": 7.0,
+      "大专": 7,
       "本科": 48.6,
       "硕士": 6.7,
       "博士": 1.7
@@ -183,59 +183,59 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 74.0,
+      "count": 74,
       "within_1yr_pct": 14.9,
-      "1_3yr_pct": 27.0,
+      "1_3yr_pct": 27,
       "over_3yr_pct": 58.1
     },
     {
       "type": "购物",
-      "count": 85.0,
-      "within_1yr_pct": 20.0,
+      "count": 85,
+      "within_1yr_pct": 20,
       "1_3yr_pct": 30.6,
       "over_3yr_pct": 49.4
     },
     {
       "type": "休闲娱乐",
-      "count": 9.0,
+      "count": 9,
       "within_1yr_pct": 44.4,
       "1_3yr_pct": 33.3,
       "over_3yr_pct": 22.2
     },
     {
       "type": "教育培训",
-      "count": 5.0,
-      "within_1yr_pct": 40.0,
-      "1_3yr_pct": 20.0,
-      "over_3yr_pct": 40.0
+      "count": 5,
+      "within_1yr_pct": 40,
+      "1_3yr_pct": 20,
+      "over_3yr_pct": 40
     },
     {
       "type": "酒店住宿",
-      "count": 2.0,
-      "within_1yr_pct": 0.0,
-      "1_3yr_pct": 100.0,
-      "over_3yr_pct": 0.0
+      "count": 2,
+      "within_1yr_pct": 0,
+      "1_3yr_pct": 100,
+      "over_3yr_pct": 0
     },
     {
       "type": "生活服务",
-      "count": 20.0,
-      "within_1yr_pct": 30.0,
-      "1_3yr_pct": 20.0,
-      "over_3yr_pct": 50.0
+      "count": 20,
+      "within_1yr_pct": 30,
+      "1_3yr_pct": 20,
+      "over_3yr_pct": 50
     },
     {
       "type": "运动健身",
-      "count": 6.0,
+      "count": 6,
       "within_1yr_pct": 16.7,
       "1_3yr_pct": 33.3,
-      "over_3yr_pct": 50.0
+      "over_3yr_pct": 50
     },
     {
       "type": "车辆服务",
-      "count": 8.0,
-      "within_1yr_pct": 25.0,
-      "1_3yr_pct": 25.0,
-      "over_3yr_pct": 50.0
+      "count": 8,
+      "within_1yr_pct": 25,
+      "1_3yr_pct": 25,
+      "over_3yr_pct": 50
     }
   ],
   "nearby_communities": [

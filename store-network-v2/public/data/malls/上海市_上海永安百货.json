@@ -8,7 +8,7 @@
     "score": 72.2,
     "score_rank": "市内前70%",
     "population_score": 96.4,
-    "area_score": 100.0,
+    "area_score": 100,
     "consumption_score": 85.8,
     "industry_score": 71.9,
     "annual_sales": "永安百货是中国最早的民族百货商店之一，定位于中高档特色化品牌经营与综合性功能开发，具有深厚的历史底蕴与独特文化，集购物、餐饮、休闲于一体的经典百货",
@@ -54,41 +54,41 @@
     }
   },
   "business": {
-    "competitors": 31.0,
-    "food": 907.0,
-    "shopping": 1108.0,
-    "leisure": 199.0,
-    "education": 57.0,
-    "hotel": 202.0,
-    "services": 391.0,
-    "fitness": 33.0,
-    "auto": 48.0,
-    "total_stores": 71.0,
-    "old_store_3yr_pct": 45.0
+    "competitors": 31,
+    "food": 907,
+    "shopping": 1108,
+    "leisure": 199,
+    "education": 57,
+    "hotel": 202,
+    "services": 391,
+    "fitness": 33,
+    "auto": 48,
+    "total_stores": 71,
+    "old_store_3yr_pct": 45
   },
   "nearby_poi": {
-    "business": 39.0,
-    "community": 881.0,
-    "office": 252.0,
-    "school": 46.0,
-    "hospital": 199.0,
-    "transport": 25.0,
-    "scenic": 943.0
+    "business": 39,
+    "community": 881,
+    "office": 252,
+    "school": 46,
+    "hospital": 199,
+    "transport": 25,
+    "scenic": 943
   },
   "demographics": {
     "male_pct": 45.9,
     "female_pct": null,
     "education": {
       "小学": 9.3,
-      "初中": 17.0,
+      "初中": 17,
       "高中": 11.5,
-      "大专": 7.0,
+      "大专": 7,
       "本科": 47.5,
       "硕士": 5.9,
       "博士": 1.8
     },
-    "has_children_pct": 59.0,
-    "no_children_pct": 41.0
+    "has_children_pct": 59,
+    "no_children_pct": 41
   },
   "scraped_at": "2026-07-31T16:41:58.632Z",
   "nearby_restaurants": [
@@ -428,52 +428,52 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 5.0,
-      "within_1yr_pct": 20.0,
-      "1_3yr_pct": 0.0,
-      "over_3yr_pct": 80.0
+      "count": 5,
+      "within_1yr_pct": 20,
+      "1_3yr_pct": 0,
+      "over_3yr_pct": 80
     },
     {
       "type": "购物",
-      "count": 49.0,
+      "count": 49,
       "within_1yr_pct": 20.4,
       "1_3yr_pct": 26.5,
       "over_3yr_pct": 53.1
     },
     {
       "type": "休闲娱乐",
-      "count": 5.0,
-      "within_1yr_pct": 0.0,
-      "1_3yr_pct": 80.0,
-      "over_3yr_pct": 20.0
+      "count": 5,
+      "within_1yr_pct": 0,
+      "1_3yr_pct": 80,
+      "over_3yr_pct": 20
     },
     {
       "type": "教育培训",
-      "count": 1.0,
-      "within_1yr_pct": 0.0,
-      "1_3yr_pct": 100.0,
-      "over_3yr_pct": 0.0
+      "count": 1,
+      "within_1yr_pct": 0,
+      "1_3yr_pct": 100,
+      "over_3yr_pct": 0
     },
     {
       "type": "酒店住宿",
-      "count": 3.0,
+      "count": 3,
       "within_1yr_pct": 33.3,
       "1_3yr_pct": 66.7,
-      "over_3yr_pct": 0.0
+      "over_3yr_pct": 0
     },
     {
       "type": "生活服务",
-      "count": 7.0,
+      "count": 7,
       "within_1yr_pct": 57.1,
       "1_3yr_pct": 28.6,
       "over_3yr_pct": 14.3
     },
     {
       "type": "运动健身",
-      "count": 1.0,
-      "within_1yr_pct": 0.0,
-      "1_3yr_pct": 100.0,
-      "over_3yr_pct": 0.0
+      "count": 1,
+      "within_1yr_pct": 0,
+      "1_3yr_pct": 100,
+      "over_3yr_pct": 0
     }
   ],
   "nearby_communities": [

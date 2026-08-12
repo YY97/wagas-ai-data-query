@@ -9,11 +9,11 @@
     "score_rank": "市内前30%",
     "population_score": 62.2,
     "area_score": 62.6,
-    "consumption_score": 60.0,
+    "consumption_score": 60,
     "industry_score": 86.7,
     "annual_sales": "",
     "annual_sales_unit": "",
-    "area_size_sqm": 4.0,
+    "area_size_sqm": 4,
     "open_date": "2024-11-29",
     "operator": "万芊荟（上海）商业管理有限公司",
     "brand": "",
@@ -38,45 +38,45 @@
   },
   "population": {
     "residential": {
-      "500m": 1400.0,
+      "500m": 1400,
       "1_5km": 3.9,
       "3km": 8.9
     },
     "office": {
-      "500m": 4800.0,
+      "500m": 4800,
       "1_5km": 2.7,
       "3km": 6.1
     },
     "permanent": {
-      "500m": 3300.0,
-      "1_5km": 3.0,
+      "500m": 3300,
+      "1_5km": 3,
       "3km": 6.3
     }
   },
   "business": {
-    "competitors": 2.0,
-    "food": 49.0,
-    "shopping": 20.0,
-    "leisure": 3.0,
+    "competitors": 2,
+    "food": 49,
+    "shopping": 20,
+    "leisure": 3,
     "education": null,
-    "hotel": 4.0,
-    "services": 11.0,
-    "fitness": 3.0,
-    "auto": 1.0,
-    "total_stores": 40.0,
-    "old_store_3yr_pct": 0.0
+    "hotel": 4,
+    "services": 11,
+    "fitness": 3,
+    "auto": 1,
+    "total_stores": 40,
+    "old_store_3yr_pct": 0
   },
   "nearby_poi": {
     "business": null,
-    "community": 15.0,
-    "office": 1.0,
-    "school": 4.0,
-    "hospital": 4.0,
-    "transport": 2.0,
-    "scenic": 3.0
+    "community": 15,
+    "office": 1,
+    "school": 4,
+    "hospital": 4,
+    "transport": 2,
+    "scenic": 3
   },
   "demographics": {
-    "male_pct": 53.0,
+    "male_pct": 53,
     "female_pct": null,
     "education": {
       "小学": 12.3,
@@ -85,7 +85,7 @@
       "大专": 6.7,
       "本科": 41.7,
       "硕士": 1.9,
-      "博士": 1.0
+      "博士": 1
     },
     "has_children_pct": 58.7,
     "no_children_pct": 41.3
@@ -347,38 +347,38 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 21.0,
-      "within_1yr_pct": 0.0,
-      "1_3yr_pct": 100.0,
-      "over_3yr_pct": 0.0
+      "count": 21,
+      "within_1yr_pct": 0,
+      "1_3yr_pct": 100,
+      "over_3yr_pct": 0
     },
     {
       "type": "购物",
-      "count": 9.0,
-      "within_1yr_pct": 0.0,
-      "1_3yr_pct": 100.0,
-      "over_3yr_pct": 0.0
+      "count": 9,
+      "within_1yr_pct": 0,
+      "1_3yr_pct": 100,
+      "over_3yr_pct": 0
     },
     {
       "type": "休闲娱乐",
-      "count": 3.0,
-      "within_1yr_pct": 0.0,
-      "1_3yr_pct": 100.0,
-      "over_3yr_pct": 0.0
+      "count": 3,
+      "within_1yr_pct": 0,
+      "1_3yr_pct": 100,
+      "over_3yr_pct": 0
     },
     {
       "type": "生活服务",
-      "count": 5.0,
-      "within_1yr_pct": 0.0,
-      "1_3yr_pct": 100.0,
-      "over_3yr_pct": 0.0
+      "count": 5,
+      "within_1yr_pct": 0,
+      "1_3yr_pct": 100,
+      "over_3yr_pct": 0
     },
     {
       "type": "运动健身",
-      "count": 2.0,
-      "within_1yr_pct": 0.0,
-      "1_3yr_pct": 100.0,
-      "over_3yr_pct": 0.0
+      "count": 2,
+      "within_1yr_pct": 0,
+      "1_3yr_pct": 100,
+      "over_3yr_pct": 0
     }
   ],
   "nearby_communities": [

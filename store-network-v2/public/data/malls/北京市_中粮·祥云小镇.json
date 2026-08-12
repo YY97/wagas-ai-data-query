@@ -13,7 +13,7 @@
     "industry_score": 95.4,
     "annual_sales": "16",
     "annual_sales_unit": "亿元",
-    "area_size_sqm": 10.0,
+    "area_size_sqm": 10,
     "open_date": "2014-10-01",
     "operator": "大悦城控股集团股份有限公司",
     "brand": "大悦城",
@@ -26,7 +26,7 @@
     "annual_daily_rank": "市内第31",
     "jun_total": 209.2,
     "jun_total_rank": "市内商场第19名",
-    "jun_daily_avg": 7.0,
+    "jun_daily_avg": 7,
     "jun_daily_unit": "万人次",
     "jun_daily_rank": "市内商场第19名",
     "weekday_avg": 6.2,
@@ -38,9 +38,9 @@
   },
   "population": {
     "residential": {
-      "500m": 6200.0,
+      "500m": 6200,
       "1_5km": 5.9,
-      "3km": 16.0
+      "3km": 16
     },
     "office": {
       "500m": 1.1,
@@ -54,37 +54,37 @@
     }
   },
   "business": {
-    "competitors": 5.0,
-    "food": 183.0,
-    "shopping": 155.0,
-    "leisure": 18.0,
-    "education": 73.0,
-    "hotel": 6.0,
-    "services": 261.0,
-    "fitness": 35.0,
-    "auto": 10.0,
-    "total_stores": 512.0,
-    "old_store_3yr_pct": 44.0
+    "competitors": 5,
+    "food": 183,
+    "shopping": 155,
+    "leisure": 18,
+    "education": 73,
+    "hotel": 6,
+    "services": 261,
+    "fitness": 35,
+    "auto": 10,
+    "total_stores": 512,
+    "old_store_3yr_pct": 44
   },
   "nearby_poi": {
     "business": null,
-    "community": 110.0,
-    "office": 10.0,
-    "school": 12.0,
-    "hospital": 12.0,
-    "transport": 8.0,
-    "scenic": 29.0
+    "community": 110,
+    "office": 10,
+    "school": 12,
+    "hospital": 12,
+    "transport": 8,
+    "scenic": 29
   },
   "demographics": {
-    "male_pct": 53.0,
+    "male_pct": 53,
     "female_pct": null,
     "education": {
-      "小学": 10.0,
+      "小学": 10,
       "初中": 16.7,
       "高中": 10.8,
       "大专": 7.6,
       "本科": 47.8,
-      "硕士": 6.0,
+      "硕士": 6,
       "博士": 1.1
     },
     "has_children_pct": 58.6,
@@ -347,56 +347,56 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 92.0,
+      "count": 92,
       "within_1yr_pct": 18.5,
       "1_3yr_pct": 32.6,
       "over_3yr_pct": 48.9
     },
     {
       "type": "购物",
-      "count": 120.0,
+      "count": 120,
       "within_1yr_pct": 25.8,
       "1_3yr_pct": 28.3,
       "over_3yr_pct": 45.8
     },
     {
       "type": "休闲娱乐",
-      "count": 18.0,
+      "count": 18,
       "within_1yr_pct": 22.2,
-      "1_3yr_pct": 50.0,
+      "1_3yr_pct": 50,
       "over_3yr_pct": 27.8
     },
     {
       "type": "教育培训",
-      "count": 60.0,
-      "within_1yr_pct": 20.0,
+      "count": 60,
+      "within_1yr_pct": 20,
       "1_3yr_pct": 31.7,
       "over_3yr_pct": 48.3
     },
     {
       "type": "酒店住宿",
-      "count": 3.0,
+      "count": 3,
       "within_1yr_pct": 33.3,
       "1_3yr_pct": 66.7,
-      "over_3yr_pct": 0.0
+      "over_3yr_pct": 0
     },
     {
       "type": "生活服务",
-      "count": 184.0,
+      "count": 184,
       "within_1yr_pct": 27.7,
       "1_3yr_pct": 33.2,
       "over_3yr_pct": 39.1
     },
     {
       "type": "运动健身",
-      "count": 26.0,
+      "count": 26,
       "within_1yr_pct": 11.5,
       "1_3yr_pct": 34.6,
       "over_3yr_pct": 53.8
     },
     {
       "type": "车辆服务",
-      "count": 9.0,
+      "count": 9,
       "within_1yr_pct": 33.3,
       "1_3yr_pct": 33.3,
       "over_3yr_pct": 33.3

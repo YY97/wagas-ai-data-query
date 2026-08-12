@@ -13,7 +13,7 @@
     "industry_score": 74.4,
     "annual_sales": "益丰外滩源前身为1911年建成的益丰洋行大楼，是一座英国文艺复兴风格、砖木结构的百年历史建筑。项目由优秀历史建筑益丰洋行大楼与其南侧拆除旧建筑改造而成的新楼相连组成，集精品百货、餐饮休闲娱乐为一体，致力于打造顶级生活体验",
     "annual_sales_unit": "-",
-    "area_size_sqm": 6000.0,
+    "area_size_sqm": 6000,
     "open_date": "2012-05-17",
     "operator": "上海外滩投资开发（集团）有限公司",
     "brand": "",
@@ -21,7 +21,7 @@
     "floors": ""
   },
   "traffic": {
-    "annual_daily": 1151.0,
+    "annual_daily": 1151,
     "annual_daily_unit": "人次",
     "annual_daily_rank": "市内第499",
     "jun_total": null,
@@ -38,7 +38,7 @@
   },
   "population": {
     "residential": {
-      "500m": 8800.0,
+      "500m": 8800,
       "1_5km": 12.9,
       "3km": 78.3
     },
@@ -54,33 +54,33 @@
     }
   },
   "business": {
-    "competitors": 9.0,
-    "food": 326.0,
-    "shopping": 403.0,
-    "leisure": 15.0,
-    "education": 7.0,
-    "hotel": 93.0,
-    "services": 97.0,
-    "fitness": 6.0,
-    "auto": 12.0,
-    "total_stores": 21.0,
-    "old_store_3yr_pct": 43.0
+    "competitors": 9,
+    "food": 326,
+    "shopping": 403,
+    "leisure": 15,
+    "education": 7,
+    "hotel": 93,
+    "services": 97,
+    "fitness": 6,
+    "auto": 12,
+    "total_stores": 21,
+    "old_store_3yr_pct": 43
   },
   "nearby_poi": {
-    "business": 28.0,
-    "community": 789.0,
-    "office": 228.0,
-    "school": 39.0,
-    "hospital": 165.0,
-    "transport": 21.0,
-    "scenic": 881.0
+    "business": 28,
+    "community": 789,
+    "office": 228,
+    "school": 39,
+    "hospital": 165,
+    "transport": 21,
+    "scenic": 881
   },
   "demographics": {
     "male_pct": 49.2,
     "female_pct": null,
     "education": {
       "小学": 9.3,
-      "初中": 17.0,
+      "初中": 17,
       "高中": 11.4,
       "大专": 7.1,
       "本科": 47.5,
@@ -428,31 +428,31 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 12.0,
+      "count": 12,
       "within_1yr_pct": 8.3,
       "1_3yr_pct": 33.3,
       "over_3yr_pct": 58.3
     },
     {
       "type": "购物",
-      "count": 4.0,
-      "within_1yr_pct": 50.0,
-      "1_3yr_pct": 0.0,
-      "over_3yr_pct": 50.0
+      "count": 4,
+      "within_1yr_pct": 50,
+      "1_3yr_pct": 0,
+      "over_3yr_pct": 50
     },
     {
       "type": "休闲娱乐",
-      "count": 4.0,
-      "within_1yr_pct": 75.0,
-      "1_3yr_pct": 25.0,
-      "over_3yr_pct": 0.0
+      "count": 4,
+      "within_1yr_pct": 75,
+      "1_3yr_pct": 25,
+      "over_3yr_pct": 0
     },
     {
       "type": "生活服务",
-      "count": 1.0,
-      "within_1yr_pct": 0.0,
-      "1_3yr_pct": 100.0,
-      "over_3yr_pct": 0.0
+      "count": 1,
+      "within_1yr_pct": 0,
+      "1_3yr_pct": 100,
+      "over_3yr_pct": 0
     }
   ],
   "nearby_communities": [

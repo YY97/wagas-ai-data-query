@@ -8,7 +8,7 @@
     "score": 95.2,
     "score_rank": "市内前30%",
     "population_score": 88.4,
-    "area_score": 100.0,
+    "area_score": 100,
     "consumption_score": 90.4,
     "industry_score": 95.2,
     "annual_sales": "兴业太古汇是上海市地标级商业综合项目，位处上海主要购物区南京西路商圈核心地段。这个潮奢生活时尚发展项目包括一座购物中心、两幢甲级办公楼、两家精品酒店、一家公寓式酒店，以及一幢百年历史建筑查公馆。兴业太古汇场域由石门一路、商场南北内线、愉景大道三条平行动线构成，坐拥北广场、南花园两个室外大型活动广场，更配备一个全天候、开放式的多功能厅和一个独特的市中心屋顶花园，全场域灵活联动，释放无尽潮奢灵感",
@@ -26,7 +26,7 @@
     "annual_daily_rank": "市内第75",
     "jun_total": 179.7,
     "jun_total_rank": "市内商场第46名",
-    "jun_daily_avg": 6.0,
+    "jun_daily_avg": 6,
     "jun_daily_unit": "万人次",
     "jun_daily_rank": "市内商场第46名",
     "weekday_avg": 5.9,
@@ -40,7 +40,7 @@
     "residential": {
       "500m": 2.1,
       "1_5km": 19.3,
-      "3km": 91.0
+      "3km": 91
     },
     "office": {
       "500m": 5.5,
@@ -54,26 +54,26 @@
     }
   },
   "business": {
-    "competitors": 15.0,
-    "food": 483.0,
-    "shopping": 455.0,
-    "leisure": 40.0,
-    "education": 41.0,
-    "hotel": 103.0,
-    "services": 330.0,
-    "fitness": 42.0,
-    "auto": 34.0,
-    "total_stores": 267.0,
-    "old_store_3yr_pct": 46.0
+    "competitors": 15,
+    "food": 483,
+    "shopping": 455,
+    "leisure": 40,
+    "education": 41,
+    "hotel": 103,
+    "services": 330,
+    "fitness": 42,
+    "auto": 34,
+    "total_stores": 267,
+    "old_store_3yr_pct": 46
   },
   "nearby_poi": {
-    "business": 35.0,
-    "community": 1149.0,
-    "office": 206.0,
-    "school": 67.0,
-    "hospital": 229.0,
-    "transport": 15.0,
-    "scenic": 959.0
+    "business": 35,
+    "community": 1149,
+    "office": 206,
+    "school": 67,
+    "hospital": 229,
+    "transport": 15,
+    "scenic": 959
   },
   "demographics": {
     "male_pct": 46.1,
@@ -428,45 +428,45 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 68.0,
+      "count": 68,
       "within_1yr_pct": 8.8,
       "1_3yr_pct": 39.7,
       "over_3yr_pct": 51.5
     },
     {
       "type": "购物",
-      "count": 157.0,
+      "count": 157,
       "within_1yr_pct": 19.7,
       "1_3yr_pct": 36.3,
       "over_3yr_pct": 43.9
     },
     {
       "type": "休闲娱乐",
-      "count": 10.0,
-      "within_1yr_pct": 30.0,
-      "1_3yr_pct": 60.0,
-      "over_3yr_pct": 10.0
+      "count": 10,
+      "within_1yr_pct": 30,
+      "1_3yr_pct": 60,
+      "over_3yr_pct": 10
     },
     {
       "type": "生活服务",
-      "count": 23.0,
+      "count": 23,
       "within_1yr_pct": 17.4,
       "1_3yr_pct": 21.7,
       "over_3yr_pct": 60.9
     },
     {
       "type": "运动健身",
-      "count": 3.0,
+      "count": 3,
       "within_1yr_pct": 33.3,
       "1_3yr_pct": 33.3,
       "over_3yr_pct": 33.3
     },
     {
       "type": "车辆服务",
-      "count": 6.0,
+      "count": 6,
       "within_1yr_pct": 16.7,
       "1_3yr_pct": 33.3,
-      "over_3yr_pct": 50.0
+      "over_3yr_pct": 50
     }
   ],
   "nearby_communities": [

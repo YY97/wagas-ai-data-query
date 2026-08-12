@@ -13,7 +13,7 @@
     "industry_score": 92.9,
     "annual_sales": "森兰花园城位于上海浦东森兰国际商业商务区核心，打造29万方集高阶时尚、主题餐饮、创意街区、艺术场景地标商业综合体。与项目周边高档写字楼、进口商品特色商业区、艺术中心、主题精品酒店、服务式公寓和餐饮娱乐休闲区集群，形成国际化现代化的都市时尚生活体验区，为消费者带来不出国门的环球之旅",
     "annual_sales_unit": "-",
-    "area_size_sqm": 8.0,
+    "area_size_sqm": 8,
     "open_date": "2020-09-30",
     "operator": "招商局蛇口工业区控股股份有限公司",
     "brand": "招商",
@@ -32,13 +32,13 @@
     "weekday_avg": 2.1,
     "weekday_unit": "万人次",
     "weekday_rank": "市内商场第177名",
-    "holiday_avg": 3.0,
+    "holiday_avg": 3,
     "holiday_unit": "万人次",
     "holiday_rank": "市内商场第161名"
   },
   "population": {
     "residential": {
-      "500m": 4600.0,
+      "500m": 4600,
       "1_5km": 6.2,
       "3km": 27.7
     },
@@ -48,32 +48,32 @@
       "3km": 16.1
     },
     "permanent": {
-      "500m": 9500.0,
+      "500m": 9500,
       "1_5km": 6.1,
       "3km": 25.6
     }
   },
   "business": {
-    "competitors": 8.0,
-    "food": 183.0,
-    "shopping": 99.0,
-    "leisure": 22.0,
-    "education": 40.0,
-    "hotel": 7.0,
-    "services": 104.0,
-    "fitness": 24.0,
-    "auto": 21.0,
-    "total_stores": 188.0,
-    "old_store_3yr_pct": 39.0
+    "competitors": 8,
+    "food": 183,
+    "shopping": 99,
+    "leisure": 22,
+    "education": 40,
+    "hotel": 7,
+    "services": 104,
+    "fitness": 24,
+    "auto": 21,
+    "total_stores": 188,
+    "old_store_3yr_pct": 39
   },
   "nearby_poi": {
-    "business": 2.0,
-    "community": 118.0,
-    "office": 22.0,
-    "school": 10.0,
-    "hospital": 14.0,
-    "transport": 9.0,
-    "scenic": 31.0
+    "business": 2,
+    "community": 118,
+    "office": 22,
+    "school": 10,
+    "hospital": 14,
+    "transport": 9,
+    "scenic": 31
   },
   "demographics": {
     "male_pct": 51.9,
@@ -82,7 +82,7 @@
       "小学": 9.3,
       "初中": 17.5,
       "高中": 10.9,
-      "大专": 9.0,
+      "大专": 9,
       "本科": 46.2,
       "硕士": 5.9,
       "博士": 1.2
@@ -364,52 +364,52 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 88.0,
+      "count": 88,
       "within_1yr_pct": 20.5,
       "1_3yr_pct": 39.8,
       "over_3yr_pct": 39.8
     },
     {
       "type": "购物",
-      "count": 44.0,
+      "count": 44,
       "within_1yr_pct": 34.1,
-      "1_3yr_pct": 25.0,
+      "1_3yr_pct": 25,
       "over_3yr_pct": 40.9
     },
     {
       "type": "休闲娱乐",
-      "count": 9.0,
+      "count": 9,
       "within_1yr_pct": 22.2,
       "1_3yr_pct": 11.1,
       "over_3yr_pct": 66.7
     },
     {
       "type": "教育培训",
-      "count": 11.0,
+      "count": 11,
       "within_1yr_pct": 36.4,
       "1_3yr_pct": 27.3,
       "over_3yr_pct": 36.4
     },
     {
       "type": "生活服务",
-      "count": 24.0,
+      "count": 24,
       "within_1yr_pct": 45.8,
       "1_3yr_pct": 20.8,
       "over_3yr_pct": 33.3
     },
     {
       "type": "运动健身",
-      "count": 7.0,
+      "count": 7,
       "within_1yr_pct": 42.9,
       "1_3yr_pct": 42.9,
       "over_3yr_pct": 14.3
     },
     {
       "type": "车辆服务",
-      "count": 5.0,
-      "within_1yr_pct": 20.0,
-      "1_3yr_pct": 40.0,
-      "over_3yr_pct": 40.0
+      "count": 5,
+      "within_1yr_pct": 20,
+      "1_3yr_pct": 40,
+      "over_3yr_pct": 40
     }
   ],
   "nearby_communities": [

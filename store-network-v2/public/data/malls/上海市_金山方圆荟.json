@@ -13,7 +13,7 @@
     "industry_score": 68.5,
     "annual_sales": "上海金山方圆荟是世纪金源集团在上海的第一个大型商业综合体项目。项目结合枫泾水乡特色，打造“微度假”特色商业，涵盖购物、餐饮、娱乐、儿童、婚宴等业态，预计2024年底开业。",
     "annual_sales_unit": "-",
-    "area_size_sqm": 8.0,
+    "area_size_sqm": 8,
     "open_date": "2024-01-01",
     "operator": "世纪金源投资集团有限公司",
     "brand": "世纪金源",
@@ -24,12 +24,12 @@
     "annual_daily": null,
     "annual_daily_unit": "-",
     "annual_daily_rank": "",
-    "jun_total": 34.0,
+    "jun_total": 34,
     "jun_total_rank": "市内商场第280名",
     "jun_daily_avg": 1.1,
     "jun_daily_unit": "万人次",
     "jun_daily_rank": "市内商场第280名",
-    "weekday_avg": 1.0,
+    "weekday_avg": 1,
     "weekday_unit": "万人次",
     "weekday_rank": "市内商场第297名",
     "holiday_avg": 1.5,
@@ -38,42 +38,42 @@
   },
   "population": {
     "residential": {
-      "500m": 3200.0,
+      "500m": 3200,
       "1_5km": 3.7,
-      "3km": 8.0
+      "3km": 8
     },
     "office": {
-      "500m": 2100.0,
+      "500m": 2100,
       "1_5km": 1.8,
       "3km": 3.1
     },
     "permanent": {
-      "500m": 3400.0,
+      "500m": 3400,
       "1_5km": 3.8,
       "3km": 7.8
     }
   },
   "business": {
-    "competitors": 1.0,
-    "food": 47.0,
-    "shopping": 48.0,
-    "leisure": 8.0,
-    "education": 1.0,
-    "hotel": 6.0,
-    "services": 23.0,
-    "fitness": 3.0,
-    "auto": 8.0,
-    "total_stores": 74.0,
-    "old_store_3yr_pct": 1.0
+    "competitors": 1,
+    "food": 47,
+    "shopping": 48,
+    "leisure": 8,
+    "education": 1,
+    "hotel": 6,
+    "services": 23,
+    "fitness": 3,
+    "auto": 8,
+    "total_stores": 74,
+    "old_store_3yr_pct": 1
   },
   "nearby_poi": {
-    "business": 1.0,
-    "community": 49.0,
-    "office": 3.0,
-    "school": 6.0,
-    "hospital": 10.0,
-    "transport": 7.0,
-    "scenic": 68.0
+    "business": 1,
+    "community": 49,
+    "office": 3,
+    "school": 6,
+    "hospital": 10,
+    "transport": 7,
+    "scenic": 68
   },
   "demographics": {
     "male_pct": 52.4,
@@ -356,45 +356,45 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 31.0,
+      "count": 31,
       "within_1yr_pct": 83.9,
       "1_3yr_pct": 16.1,
-      "over_3yr_pct": 0.0
+      "over_3yr_pct": 0
     },
     {
       "type": "购物",
-      "count": 24.0,
+      "count": 24,
       "within_1yr_pct": 79.2,
       "1_3yr_pct": 16.7,
       "over_3yr_pct": 4.2
     },
     {
       "type": "休闲娱乐",
-      "count": 8.0,
+      "count": 8,
       "within_1yr_pct": 62.5,
       "1_3yr_pct": 37.5,
-      "over_3yr_pct": 0.0
+      "over_3yr_pct": 0
     },
     {
       "type": "生活服务",
-      "count": 8.0,
+      "count": 8,
       "within_1yr_pct": 87.5,
       "1_3yr_pct": 12.5,
-      "over_3yr_pct": 0.0
+      "over_3yr_pct": 0
     },
     {
       "type": "运动健身",
-      "count": 2.0,
-      "within_1yr_pct": 50.0,
-      "1_3yr_pct": 50.0,
-      "over_3yr_pct": 0.0
+      "count": 2,
+      "within_1yr_pct": 50,
+      "1_3yr_pct": 50,
+      "over_3yr_pct": 0
     },
     {
       "type": "车辆服务",
-      "count": 1.0,
-      "within_1yr_pct": 100.0,
-      "1_3yr_pct": 0.0,
-      "over_3yr_pct": 0.0
+      "count": 1,
+      "within_1yr_pct": 100,
+      "1_3yr_pct": 0,
+      "over_3yr_pct": 0
     }
   ],
   "nearby_communities": [

@@ -7,13 +7,13 @@
   "overview": {
     "score": 92.5,
     "score_rank": "市内前30%",
-    "population_score": 95.0,
+    "population_score": 95,
     "area_score": 81.1,
     "consumption_score": 83.4,
     "industry_score": 92.6,
     "annual_sales": "北京光耀东方广场位于长安街世纪坛南800米，总建筑面积超过20万平方米，是集公寓、商业、商务楼于一体的大型综合体项目。项目坐拥中央交通区——西客站交通枢纽的中心，莲花池长途客运站；近享1、2号线及规划中9号线地铁的纵贯通行；更有数十条公交线路交错抵达。广场自地下一层至地上四层拥有近10万平方米的商业面积，在全新的时尚生活理念引领下，形成\\\"集客式商业+餐饮商业+购物商业\\\"业态规划组合",
     "annual_sales_unit": "-",
-    "area_size_sqm": 10.0,
+    "area_size_sqm": 10,
     "open_date": "2012-10-01",
     "operator": "北京天佑万荣物业管理有限公司",
     "brand": "",
@@ -48,32 +48,32 @@
       "3km": 53.6
     },
     "permanent": {
-      "500m": 3.0,
+      "500m": 3,
       "1_5km": 25.2,
       "3km": 94.2
     }
   },
   "business": {
-    "competitors": 5.0,
-    "food": 226.0,
-    "shopping": 91.0,
-    "leisure": 10.0,
-    "education": 17.0,
-    "hotel": 64.0,
-    "services": 89.0,
-    "fitness": 19.0,
-    "auto": 12.0,
-    "total_stores": 220.0,
-    "old_store_3yr_pct": 38.0
+    "competitors": 5,
+    "food": 226,
+    "shopping": 91,
+    "leisure": 10,
+    "education": 17,
+    "hotel": 64,
+    "services": 89,
+    "fitness": 19,
+    "auto": 12,
+    "total_stores": 220,
+    "old_store_3yr_pct": 38
   },
   "nearby_poi": {
-    "business": 1.0,
-    "community": 453.0,
-    "office": 59.0,
-    "school": 27.0,
-    "hospital": 80.0,
-    "transport": 5.0,
-    "scenic": 227.0
+    "business": 1,
+    "community": 453,
+    "office": 59,
+    "school": 27,
+    "hospital": 80,
+    "transport": 5,
+    "scenic": 227
   },
   "demographics": {
     "male_pct": 48.5,
@@ -82,10 +82,10 @@
       "小学": 7.8,
       "初中": 13.1,
       "高中": 11.1,
-      "大专": 6.0,
+      "大专": 6,
       "本科": 47.8,
       "硕士": 11.2,
-      "博士": 3.0
+      "博士": 3
     },
     "has_children_pct": 58.1,
     "no_children_pct": 41.9
@@ -356,56 +356,56 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 97.0,
+      "count": 97,
       "within_1yr_pct": 22.7,
       "1_3yr_pct": 25.8,
       "over_3yr_pct": 51.5
     },
     {
       "type": "购物",
-      "count": 24.0,
+      "count": 24,
       "within_1yr_pct": 37.5,
       "1_3yr_pct": 12.5,
-      "over_3yr_pct": 50.0
+      "over_3yr_pct": 50
     },
     {
       "type": "休闲娱乐",
-      "count": 7.0,
+      "count": 7,
       "within_1yr_pct": 42.9,
       "1_3yr_pct": 42.9,
       "over_3yr_pct": 14.3
     },
     {
       "type": "教育培训",
-      "count": 11.0,
+      "count": 11,
       "within_1yr_pct": 63.6,
       "1_3yr_pct": 27.3,
       "over_3yr_pct": 9.1
     },
     {
       "type": "酒店住宿",
-      "count": 30.0,
+      "count": 30,
       "within_1yr_pct": 33.3,
       "1_3yr_pct": 63.3,
       "over_3yr_pct": 3.3
     },
     {
       "type": "生活服务",
-      "count": 32.0,
+      "count": 32,
       "within_1yr_pct": 34.4,
       "1_3yr_pct": 28.1,
       "over_3yr_pct": 37.5
     },
     {
       "type": "运动健身",
-      "count": 16.0,
+      "count": 16,
       "within_1yr_pct": 43.8,
-      "1_3yr_pct": 25.0,
+      "1_3yr_pct": 25,
       "over_3yr_pct": 31.3
     },
     {
       "type": "车辆服务",
-      "count": 3.0,
+      "count": 3,
       "within_1yr_pct": 33.3,
       "1_3yr_pct": 33.3,
       "over_3yr_pct": 33.3

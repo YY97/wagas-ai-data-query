@@ -13,7 +13,7 @@
     "industry_score": 76.3,
     "annual_sales": "圣和圣时尚汇位于上海市，毗邻两大国际金融中心——外滩和浦东，坐拥南京路、四川北路、不夜城三大市级商圈。商场是一幢地上5层、地下2层的高档市场；中央空调、观光电梯及专用货运电梯等配套设施完善，商场安装有闭路LED系统、智能监控系统，其中大型地下车库有近2万平方米，330个车位；仓库近3千平米，为圈内首屈一指",
     "annual_sales_unit": "-",
-    "area_size_sqm": 2.0,
+    "area_size_sqm": 2,
     "open_date": "2009-01-01",
     "operator": "",
     "brand": "",
@@ -26,13 +26,13 @@
     "annual_daily_rank": "",
     "jun_total": 3.4,
     "jun_total_rank": "市内商场第572名",
-    "jun_daily_avg": 1115.0,
+    "jun_daily_avg": 1115,
     "jun_daily_unit": "人次",
     "jun_daily_rank": "市内商场第572名",
-    "weekday_avg": 998.0,
+    "weekday_avg": 998,
     "weekday_unit": "人次",
     "weekday_rank": "市内商场第574名",
-    "holiday_avg": 1438.0,
+    "holiday_avg": 1438,
     "holiday_unit": "人次",
     "holiday_rank": "市内商场第566名"
   },
@@ -54,26 +54,26 @@
     }
   },
   "business": {
-    "competitors": 6.0,
-    "food": 265.0,
-    "shopping": 612.0,
-    "leisure": 23.0,
-    "education": 9.0,
-    "hotel": 70.0,
-    "services": 137.0,
-    "fitness": 14.0,
-    "auto": 38.0,
-    "total_stores": 60.0,
-    "old_store_3yr_pct": 65.0
+    "competitors": 6,
+    "food": 265,
+    "shopping": 612,
+    "leisure": 23,
+    "education": 9,
+    "hotel": 70,
+    "services": 137,
+    "fitness": 14,
+    "auto": 38,
+    "total_stores": 60,
+    "old_store_3yr_pct": 65
   },
   "nearby_poi": {
-    "business": 26.0,
-    "community": 833.0,
-    "office": 217.0,
-    "school": 52.0,
-    "hospital": 169.0,
-    "transport": 14.0,
-    "scenic": 832.0
+    "business": 26,
+    "community": 833,
+    "office": 217,
+    "school": 52,
+    "hospital": 169,
+    "transport": 14,
+    "scenic": 832
   },
   "demographics": {
     "male_pct": 47.5,
@@ -81,7 +81,7 @@
     "education": {
       "小学": 9.6,
       "初中": 18.8,
-      "高中": 12.0,
+      "高中": 12,
       "大专": 7.3,
       "本科": 46.7,
       "硕士": 4.1,
@@ -428,38 +428,38 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 7.0,
-      "within_1yr_pct": 0.0,
+      "count": 7,
+      "within_1yr_pct": 0,
       "1_3yr_pct": 42.9,
       "over_3yr_pct": 57.1
     },
     {
       "type": "购物",
-      "count": 40.0,
+      "count": 40,
       "within_1yr_pct": 12.5,
       "1_3yr_pct": 22.5,
-      "over_3yr_pct": 65.0
+      "over_3yr_pct": 65
     },
     {
       "type": "酒店住宿",
-      "count": 7.0,
-      "within_1yr_pct": 0.0,
+      "count": 7,
+      "within_1yr_pct": 0,
       "1_3yr_pct": 14.3,
       "over_3yr_pct": 85.7
     },
     {
       "type": "生活服务",
-      "count": 1.0,
-      "within_1yr_pct": 0.0,
-      "1_3yr_pct": 0.0,
-      "over_3yr_pct": 100.0
+      "count": 1,
+      "within_1yr_pct": 0,
+      "1_3yr_pct": 0,
+      "over_3yr_pct": 100
     },
     {
       "type": "车辆服务",
-      "count": 5.0,
-      "within_1yr_pct": 0.0,
-      "1_3yr_pct": 60.0,
-      "over_3yr_pct": 40.0
+      "count": 5,
+      "within_1yr_pct": 0,
+      "1_3yr_pct": 60,
+      "over_3yr_pct": 40
     }
   ],
   "nearby_communities": [

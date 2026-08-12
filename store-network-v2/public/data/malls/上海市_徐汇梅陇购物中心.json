@@ -7,13 +7,13 @@
   "overview": {
     "score": 89.2,
     "score_rank": "市内前30%",
-    "population_score": 95.0,
-    "area_score": 67.0,
+    "population_score": 95,
+    "area_score": 67,
     "consumption_score": 72.9,
     "industry_score": 89.3,
     "annual_sales": "徐汇梅陇购物中心经过改造升级，成为集购物、体验、服务于一体的新型商场，新增了餐饮业态，形成吃喝玩乐一站式解决的新局面",
     "annual_sales_unit": "-",
-    "area_size_sqm": 3.0,
+    "area_size_sqm": 3,
     "open_date": "1998-05-08",
     "operator": "上海华轻投资管理有限公司",
     "brand": "",
@@ -26,19 +26,19 @@
     "annual_daily_rank": "市内第175",
     "jun_total": 23.3,
     "jun_total_rank": "市内商场第354名",
-    "jun_daily_avg": 7766.0,
+    "jun_daily_avg": 7766,
     "jun_daily_unit": "人次",
     "jun_daily_rank": "市内商场第354名",
-    "weekday_avg": 7475.0,
+    "weekday_avg": 7475,
     "weekday_unit": "人次",
     "weekday_rank": "市内商场第353名",
-    "holiday_avg": 8564.0,
+    "holiday_avg": 8564,
     "holiday_unit": "人次",
     "holiday_rank": "市内商场第353名"
   },
   "population": {
     "residential": {
-      "500m": 3.0,
+      "500m": 3,
       "1_5km": 25.1,
       "3km": 81.3
     },
@@ -54,33 +54,33 @@
     }
   },
   "business": {
-    "competitors": 1.0,
-    "food": 84.0,
-    "shopping": 69.0,
-    "leisure": 8.0,
-    "education": 7.0,
-    "hotel": 7.0,
-    "services": 45.0,
-    "fitness": 9.0,
-    "auto": 4.0,
-    "total_stores": 67.0,
-    "old_store_3yr_pct": 63.0
+    "competitors": 1,
+    "food": 84,
+    "shopping": 69,
+    "leisure": 8,
+    "education": 7,
+    "hotel": 7,
+    "services": 45,
+    "fitness": 9,
+    "auto": 4,
+    "total_stores": 67,
+    "old_store_3yr_pct": 63
   },
   "nearby_poi": {
-    "business": 1.0,
-    "community": 397.0,
-    "office": 18.0,
-    "school": 55.0,
-    "hospital": 49.0,
-    "transport": 12.0,
-    "scenic": 154.0
+    "business": 1,
+    "community": 397,
+    "office": 18,
+    "school": 55,
+    "hospital": 49,
+    "transport": 12,
+    "scenic": 154
   },
   "demographics": {
-    "male_pct": 47.0,
+    "male_pct": 47,
     "female_pct": null,
     "education": {
       "小学": 8.6,
-      "初中": 16.0,
+      "初中": 16,
       "高中": 11.3,
       "大专": 6.7,
       "本科": 49.2,
@@ -126,45 +126,45 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 18.0,
+      "count": 18,
       "within_1yr_pct": 22.2,
       "1_3yr_pct": 5.6,
       "over_3yr_pct": 72.2
     },
     {
       "type": "购物",
-      "count": 26.0,
+      "count": 26,
       "within_1yr_pct": 11.5,
       "1_3yr_pct": 23.1,
       "over_3yr_pct": 65.4
     },
     {
       "type": "休闲娱乐",
-      "count": 2.0,
-      "within_1yr_pct": 50.0,
-      "1_3yr_pct": 50.0,
-      "over_3yr_pct": 0.0
+      "count": 2,
+      "within_1yr_pct": 50,
+      "1_3yr_pct": 50,
+      "over_3yr_pct": 0
     },
     {
       "type": "教育培训",
-      "count": 3.0,
-      "within_1yr_pct": 0.0,
+      "count": 3,
+      "within_1yr_pct": 0,
       "1_3yr_pct": 33.3,
       "over_3yr_pct": 66.7
     },
     {
       "type": "生活服务",
-      "count": 15.0,
+      "count": 15,
       "within_1yr_pct": 13.3,
-      "1_3yr_pct": 40.0,
+      "1_3yr_pct": 40,
       "over_3yr_pct": 46.7
     },
     {
       "type": "运动健身",
-      "count": 3.0,
-      "within_1yr_pct": 0.0,
-      "1_3yr_pct": 0.0,
-      "over_3yr_pct": 100.0
+      "count": 3,
+      "within_1yr_pct": 0,
+      "1_3yr_pct": 0,
+      "over_3yr_pct": 100
     }
   ],
   "nearby_communities": [

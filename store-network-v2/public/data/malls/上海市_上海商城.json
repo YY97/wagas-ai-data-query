@@ -5,15 +5,15 @@
   "lat": 31.22684,
   "lng": 121.451849,
   "overview": {
-    "score": 90.0,
+    "score": 90,
     "score_rank": "市内前30%",
     "population_score": 83.4,
-    "area_score": 100.0,
+    "area_score": 100,
     "consumption_score": 88.6,
-    "industry_score": 90.0,
+    "industry_score": 90,
     "annual_sales": "上海商城是一座集办公、剧院、酒店和商场为一体的综合性建筑整个建筑内有472间豪华服务公寓，30000的甲级写字楼，一个城市超市，三层高档商场，上海商城剧院，贸易展览中心，和一个五星级的酒店-波特曼丽嘉酒店",
     "annual_sales_unit": "-",
-    "area_size_sqm": 3.0,
+    "area_size_sqm": 3,
     "open_date": "1990-04-27",
     "operator": "上海商城有限公司",
     "brand": "",
@@ -40,7 +40,7 @@
     "residential": {
       "500m": 1.8,
       "1_5km": 21.1,
-      "3km": 95.0
+      "3km": 95
     },
     "office": {
       "500m": 4.7,
@@ -54,26 +54,26 @@
     }
   },
   "business": {
-    "competitors": 19.0,
-    "food": 479.0,
-    "shopping": 554.0,
-    "leisure": 22.0,
-    "education": 31.0,
-    "hotel": 88.0,
-    "services": 240.0,
-    "fitness": 35.0,
-    "auto": 31.0,
-    "total_stores": 77.0,
-    "old_store_3yr_pct": 60.0
+    "competitors": 19,
+    "food": 479,
+    "shopping": 554,
+    "leisure": 22,
+    "education": 31,
+    "hotel": 88,
+    "services": 240,
+    "fitness": 35,
+    "auto": 31,
+    "total_stores": 77,
+    "old_store_3yr_pct": 60
   },
   "nearby_poi": {
-    "business": 20.0,
-    "community": 1244.0,
-    "office": 218.0,
-    "school": 78.0,
-    "hospital": 211.0,
-    "transport": 12.0,
-    "scenic": 781.0
+    "business": 20,
+    "community": 1244,
+    "office": 218,
+    "school": 78,
+    "hospital": 211,
+    "transport": 12,
+    "scenic": 781
   },
   "demographics": {
     "male_pct": 53.5,
@@ -428,52 +428,52 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 28.0,
-      "within_1yr_pct": 25.0,
+      "count": 28,
+      "within_1yr_pct": 25,
       "1_3yr_pct": 14.3,
       "over_3yr_pct": 60.7
     },
     {
       "type": "购物",
-      "count": 30.0,
-      "within_1yr_pct": 20.0,
+      "count": 30,
+      "within_1yr_pct": 20,
       "1_3yr_pct": 26.7,
       "over_3yr_pct": 53.3
     },
     {
       "type": "休闲娱乐",
-      "count": 5.0,
-      "within_1yr_pct": 40.0,
-      "1_3yr_pct": 0.0,
-      "over_3yr_pct": 60.0
+      "count": 5,
+      "within_1yr_pct": 40,
+      "1_3yr_pct": 0,
+      "over_3yr_pct": 60
     },
     {
       "type": "酒店住宿",
-      "count": 3.0,
-      "within_1yr_pct": 0.0,
-      "1_3yr_pct": 0.0,
-      "over_3yr_pct": 100.0
+      "count": 3,
+      "within_1yr_pct": 0,
+      "1_3yr_pct": 0,
+      "over_3yr_pct": 100
     },
     {
       "type": "生活服务",
-      "count": 8.0,
-      "within_1yr_pct": 25.0,
+      "count": 8,
+      "within_1yr_pct": 25,
       "1_3yr_pct": 12.5,
       "over_3yr_pct": 62.5
     },
     {
       "type": "运动健身",
-      "count": 1.0,
-      "within_1yr_pct": 0.0,
-      "1_3yr_pct": 0.0,
-      "over_3yr_pct": 100.0
+      "count": 1,
+      "within_1yr_pct": 0,
+      "1_3yr_pct": 0,
+      "over_3yr_pct": 100
     },
     {
       "type": "车辆服务",
-      "count": 2.0,
-      "within_1yr_pct": 0.0,
-      "1_3yr_pct": 50.0,
-      "over_3yr_pct": 50.0
+      "count": 2,
+      "within_1yr_pct": 0,
+      "1_3yr_pct": 50,
+      "over_3yr_pct": 50
     }
   ],
   "nearby_communities": [

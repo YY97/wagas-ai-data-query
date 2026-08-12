@@ -13,7 +13,7 @@
     "industry_score": 76.3,
     "annual_sales": "商场项目简介：方恒购物中心是集购物、餐饮、娱乐为一体的商业中心，位于望京核心区阜通东大街",
     "annual_sales_unit": "-",
-    "area_size_sqm": 4.0,
+    "area_size_sqm": 4,
     "open_date": "2008-07-18",
     "operator": "北京新辰商业集团有限公司",
     "brand": "",
@@ -39,41 +39,41 @@
   "population": {
     "residential": {
       "500m": 1.2,
-      "1_5km": 15.0,
+      "1_5km": 15,
       "3km": 45.1
     },
     "office": {
       "500m": 2.3,
       "1_5km": 17.4,
-      "3km": 40.0
+      "3km": 40
     },
     "permanent": {
       "500m": 1.7,
-      "1_5km": 16.0,
+      "1_5km": 16,
       "3km": 44.4
     }
   },
   "business": {
-    "competitors": 8.0,
-    "food": 338.0,
-    "shopping": 166.0,
-    "leisure": 37.0,
-    "education": 43.0,
-    "hotel": 40.0,
-    "services": 199.0,
-    "fitness": 33.0,
-    "auto": 18.0,
-    "total_stores": 20.0,
-    "old_store_3yr_pct": 20.0
+    "competitors": 8,
+    "food": 338,
+    "shopping": 166,
+    "leisure": 37,
+    "education": 43,
+    "hotel": 40,
+    "services": 199,
+    "fitness": 33,
+    "auto": 18,
+    "total_stores": 20,
+    "old_store_3yr_pct": 20
   },
   "nearby_poi": {
-    "business": 5.0,
-    "community": 185.0,
-    "office": 95.0,
-    "school": 34.0,
-    "hospital": 78.0,
-    "transport": 4.0,
-    "scenic": 169.0
+    "business": 5,
+    "community": 185,
+    "office": 95,
+    "school": 34,
+    "hospital": 78,
+    "transport": 4,
+    "scenic": 169
   },
   "demographics": {
     "male_pct": 52.9,
@@ -96,49 +96,49 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 9.0,
+      "count": 9,
       "within_1yr_pct": 66.7,
       "1_3yr_pct": 22.2,
       "over_3yr_pct": 11.1
     },
     {
       "type": "购物",
-      "count": 2.0,
-      "within_1yr_pct": 50.0,
-      "1_3yr_pct": 50.0,
-      "over_3yr_pct": 0.0
+      "count": 2,
+      "within_1yr_pct": 50,
+      "1_3yr_pct": 50,
+      "over_3yr_pct": 0
     },
     {
       "type": "休闲娱乐",
-      "count": 3.0,
+      "count": 3,
       "within_1yr_pct": 66.7,
-      "1_3yr_pct": 0.0,
+      "1_3yr_pct": 0,
       "over_3yr_pct": 33.3
     },
     {
       "type": "教育培训",
-      "count": 1.0,
-      "within_1yr_pct": 0.0,
-      "1_3yr_pct": 100.0,
-      "over_3yr_pct": 0.0
+      "count": 1,
+      "within_1yr_pct": 0,
+      "1_3yr_pct": 100,
+      "over_3yr_pct": 0
     },
     {
       "type": "酒店住宿",
-      "count": 1.0,
-      "within_1yr_pct": 0.0,
-      "1_3yr_pct": 0.0,
-      "over_3yr_pct": 100.0
+      "count": 1,
+      "within_1yr_pct": 0,
+      "1_3yr_pct": 0,
+      "over_3yr_pct": 100
     },
     {
       "type": "生活服务",
-      "count": 1.0,
-      "within_1yr_pct": 100.0,
-      "1_3yr_pct": 0.0,
-      "over_3yr_pct": 0.0
+      "count": 1,
+      "within_1yr_pct": 100,
+      "1_3yr_pct": 0,
+      "over_3yr_pct": 0
     },
     {
       "type": "运动健身",
-      "count": 3.0,
+      "count": 3,
       "within_1yr_pct": 33.3,
       "1_3yr_pct": 33.3,
       "over_3yr_pct": 33.3

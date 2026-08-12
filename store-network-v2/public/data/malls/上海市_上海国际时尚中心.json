@@ -7,13 +7,13 @@
   "overview": {
     "score": 84.6,
     "score_rank": "市内前30%",
-    "population_score": 70.0,
+    "population_score": 70,
     "area_score": 64.5,
-    "consumption_score": 79.0,
+    "consumption_score": 79,
     "industry_score": 84.8,
     "annual_sales": "上海国际时尚中心位于杨浦区杨树浦路2866号，原为上海第十七棉纺织总厂，成功转型为上海国际时尚中心，总建筑面积约13万平方米，2015年正式挂牌国家AAAA级旅游景区，拥有300多米的黄浦江岸线，被定位为国际时尚业界互动对接的地标性载体和营运承载基地。该中心具备时尚多功能秀场、接待会所、创意办公、精品仓、公寓酒店和餐饮娱乐等六大功能；是上海乃至全国设施最完备、配套最齐全专业秀场，也是很多国际品牌发布地，是上海国际服装文化节、上海时装周主场",
     "annual_sales_unit": "-",
-    "area_size_sqm": 13.0,
+    "area_size_sqm": 13,
     "open_date": "2010-01-01",
     "operator": "上海国际时尚中心园区管理有限公司",
     "brand": "",
@@ -38,42 +38,42 @@
   },
   "population": {
     "residential": {
-      "500m": 7800.0,
-      "1_5km": 12.0,
+      "500m": 7800,
+      "1_5km": 12,
       "3km": 77.4
     },
     "office": {
-      "500m": 3300.0,
+      "500m": 3300,
       "1_5km": 6.1,
       "3km": 36.8
     },
     "permanent": {
-      "500m": 8100.0,
+      "500m": 8100,
       "1_5km": 11.1,
       "3km": 76.2
     }
   },
   "business": {
-    "competitors": 1.0,
-    "food": 18.0,
-    "shopping": 82.0,
-    "leisure": 4.0,
-    "education": 1.0,
+    "competitors": 1,
+    "food": 18,
+    "shopping": 82,
+    "leisure": 4,
+    "education": 1,
     "hotel": null,
-    "services": 19.0,
-    "fitness": 2.0,
-    "auto": 6.0,
-    "total_stores": 98.0,
-    "old_store_3yr_pct": 63.0
+    "services": 19,
+    "fitness": 2,
+    "auto": 6,
+    "total_stores": 98,
+    "old_store_3yr_pct": 63
   },
   "nearby_poi": {
-    "business": 2.0,
-    "community": 488.0,
-    "office": 28.0,
-    "school": 30.0,
-    "hospital": 52.0,
-    "transport": 12.0,
-    "scenic": 108.0
+    "business": 2,
+    "community": 488,
+    "office": 28,
+    "school": 30,
+    "hospital": 52,
+    "transport": 12,
+    "scenic": 108
   },
   "demographics": {
     "male_pct": 52.1,
@@ -214,38 +214,38 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 13.0,
+      "count": 13,
       "within_1yr_pct": 15.4,
       "1_3yr_pct": 15.4,
       "over_3yr_pct": 69.2
     },
     {
       "type": "购物",
-      "count": 75.0,
+      "count": 75,
       "within_1yr_pct": 21.3,
       "1_3yr_pct": 14.7,
-      "over_3yr_pct": 64.0
+      "over_3yr_pct": 64
     },
     {
       "type": "休闲娱乐",
-      "count": 2.0,
-      "within_1yr_pct": 50.0,
-      "1_3yr_pct": 0.0,
-      "over_3yr_pct": 50.0
+      "count": 2,
+      "within_1yr_pct": 50,
+      "1_3yr_pct": 0,
+      "over_3yr_pct": 50
     },
     {
       "type": "生活服务",
-      "count": 4.0,
-      "within_1yr_pct": 0.0,
-      "1_3yr_pct": 25.0,
-      "over_3yr_pct": 75.0
+      "count": 4,
+      "within_1yr_pct": 0,
+      "1_3yr_pct": 25,
+      "over_3yr_pct": 75
     },
     {
       "type": "车辆服务",
-      "count": 4.0,
-      "within_1yr_pct": 50.0,
-      "1_3yr_pct": 25.0,
-      "over_3yr_pct": 25.0
+      "count": 4,
+      "within_1yr_pct": 50,
+      "1_3yr_pct": 25,
+      "over_3yr_pct": 25
     }
   ],
   "nearby_communities": [

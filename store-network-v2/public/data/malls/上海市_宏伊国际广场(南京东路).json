@@ -8,7 +8,7 @@
     "score": 93.4,
     "score_rank": "市内前30%",
     "population_score": 92.4,
-    "area_score": 100.0,
+    "area_score": 100,
     "consumption_score": 84.8,
     "industry_score": 93.4,
     "annual_sales": "宏伊国际广场位于上海市黄浦区南京东路步行街东端，美国凯里森（Callison）建筑设计事务所设计主体塔楼和裙楼组成，地面29层、地下3层，总建筑面积63,453平方米，总建筑高度142米其中地下1层至裙楼7层为高档时尚购物和休闲餐饮中心，塔楼8至29层为国际甲级办公区，是一幢综合了购物、休闲、餐饮和办公功能的智能化楼宇作为步行街东大门的标志性建筑，宏伊国际广场将瞄准市场高端定位，以国际化的管理理念和设施环境，打造南京路商业和办公楼宇中的优势品牌",
@@ -43,8 +43,8 @@
       "3km": 76.8
     },
     "office": {
-      "500m": 6.0,
-      "1_5km": 31.0,
+      "500m": 6,
+      "1_5km": 31,
       "3km": 108.4
     },
     "permanent": {
@@ -54,38 +54,38 @@
     }
   },
   "business": {
-    "competitors": 16.0,
-    "food": 612.0,
-    "shopping": 709.0,
-    "leisure": 54.0,
-    "education": 25.0,
-    "hotel": 234.0,
-    "services": 248.0,
-    "fitness": 26.0,
-    "auto": 24.0,
-    "total_stores": 83.0,
-    "old_store_3yr_pct": 60.0
+    "competitors": 16,
+    "food": 612,
+    "shopping": 709,
+    "leisure": 54,
+    "education": 25,
+    "hotel": 234,
+    "services": 248,
+    "fitness": 26,
+    "auto": 24,
+    "total_stores": 83,
+    "old_store_3yr_pct": 60
   },
   "nearby_poi": {
-    "business": 32.0,
-    "community": 808.0,
-    "office": 228.0,
-    "school": 42.0,
-    "hospital": 184.0,
-    "transport": 29.0,
-    "scenic": 943.0
+    "business": 32,
+    "community": 808,
+    "office": 228,
+    "school": 42,
+    "hospital": 184,
+    "transport": 29,
+    "scenic": 943
   },
   "demographics": {
     "male_pct": 48.2,
     "female_pct": null,
     "education": {
-      "小学": 9.0,
+      "小学": 9,
       "初中": 16.5,
       "高中": 11.4,
       "大专": 6.8,
       "本科": 47.9,
       "硕士": 6.4,
-      "博士": 2.0
+      "博士": 2
     },
     "has_children_pct": 57.6,
     "no_children_pct": 42.4
@@ -428,38 +428,38 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 39.0,
+      "count": 39,
       "within_1yr_pct": 5.1,
       "1_3yr_pct": 23.1,
       "over_3yr_pct": 71.8
     },
     {
       "type": "购物",
-      "count": 33.0,
+      "count": 33,
       "within_1yr_pct": 27.3,
       "1_3yr_pct": 27.3,
       "over_3yr_pct": 45.5
     },
     {
       "type": "休闲娱乐",
-      "count": 1.0,
-      "within_1yr_pct": 0.0,
-      "1_3yr_pct": 0.0,
-      "over_3yr_pct": 100.0
+      "count": 1,
+      "within_1yr_pct": 0,
+      "1_3yr_pct": 0,
+      "over_3yr_pct": 100
     },
     {
       "type": "生活服务",
-      "count": 9.0,
+      "count": 9,
       "within_1yr_pct": 11.1,
       "1_3yr_pct": 33.3,
       "over_3yr_pct": 55.6
     },
     {
       "type": "运动健身",
-      "count": 1.0,
-      "within_1yr_pct": 0.0,
-      "1_3yr_pct": 0.0,
-      "over_3yr_pct": 100.0
+      "count": 1,
+      "within_1yr_pct": 0,
+      "1_3yr_pct": 0,
+      "over_3yr_pct": 100
     }
   ],
   "nearby_communities": [

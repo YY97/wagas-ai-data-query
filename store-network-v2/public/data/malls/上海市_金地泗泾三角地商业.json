@@ -9,7 +9,7 @@
     "score_rank": "市内前30%",
     "population_score": 94.5,
     "area_score": 75.3,
-    "consumption_score": 68.0,
+    "consumption_score": 68,
     "industry_score": 94.8,
     "annual_sales": "宝山花园城是上海首个“花园城”项目，位于宝山区杨行板块，集品牌零售、休闲餐饮、儿童娱乐、星级影院和运动中心五大主题业态于一体，致力于成为家庭用户的“第二客厅”，提供亲子互动和运动休闲的综合体验",
     "annual_sales_unit": "-",
@@ -48,38 +48,38 @@
       "3km": 17.9
     },
     "permanent": {
-      "500m": 3.0,
+      "500m": 3,
       "1_5km": 12.4,
       "3km": 35.6
     }
   },
   "business": {
-    "competitors": 2.0,
-    "food": 215.0,
-    "shopping": 123.0,
-    "leisure": 23.0,
-    "education": 23.0,
-    "hotel": 10.0,
-    "services": 132.0,
-    "fitness": 20.0,
-    "auto": 23.0,
-    "total_stores": 161.0,
-    "old_store_3yr_pct": 52.0
+    "competitors": 2,
+    "food": 215,
+    "shopping": 123,
+    "leisure": 23,
+    "education": 23,
+    "hotel": 10,
+    "services": 132,
+    "fitness": 20,
+    "auto": 23,
+    "total_stores": 161,
+    "old_store_3yr_pct": 52
   },
   "nearby_poi": {
-    "business": 1.0,
-    "community": 113.0,
-    "office": 4.0,
-    "school": 15.0,
-    "hospital": 11.0,
-    "transport": 9.0,
-    "scenic": 37.0
+    "business": 1,
+    "community": 113,
+    "office": 4,
+    "school": 15,
+    "hospital": 11,
+    "transport": 9,
+    "scenic": 37
   },
   "demographics": {
     "male_pct": 53.5,
     "female_pct": null,
     "education": {
-      "小学": 11.0,
+      "小学": 11,
       "初中": 21.5,
       "高中": 12.9,
       "大专": 8.6,
@@ -96,56 +96,56 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 70.0,
-      "within_1yr_pct": 20.0,
+      "count": 70,
+      "within_1yr_pct": 20,
       "1_3yr_pct": 32.9,
       "over_3yr_pct": 47.1
     },
     {
       "type": "购物",
-      "count": 50.0,
-      "within_1yr_pct": 14.0,
-      "1_3yr_pct": 26.0,
-      "over_3yr_pct": 60.0
+      "count": 50,
+      "within_1yr_pct": 14,
+      "1_3yr_pct": 26,
+      "over_3yr_pct": 60
     },
     {
       "type": "休闲娱乐",
-      "count": 5.0,
-      "within_1yr_pct": 40.0,
-      "1_3yr_pct": 40.0,
-      "over_3yr_pct": 20.0
+      "count": 5,
+      "within_1yr_pct": 40,
+      "1_3yr_pct": 40,
+      "over_3yr_pct": 20
     },
     {
       "type": "教育培训",
-      "count": 5.0,
-      "within_1yr_pct": 20.0,
-      "1_3yr_pct": 20.0,
-      "over_3yr_pct": 60.0
+      "count": 5,
+      "within_1yr_pct": 20,
+      "1_3yr_pct": 20,
+      "over_3yr_pct": 60
     },
     {
       "type": "酒店住宿",
-      "count": 1.0,
-      "within_1yr_pct": 0.0,
-      "1_3yr_pct": 0.0,
-      "over_3yr_pct": 100.0
+      "count": 1,
+      "within_1yr_pct": 0,
+      "1_3yr_pct": 0,
+      "over_3yr_pct": 100
     },
     {
       "type": "生活服务",
-      "count": 14.0,
+      "count": 14,
       "within_1yr_pct": 7.1,
       "1_3yr_pct": 42.9,
-      "over_3yr_pct": 50.0
+      "over_3yr_pct": 50
     },
     {
       "type": "运动健身",
-      "count": 7.0,
+      "count": 7,
       "within_1yr_pct": 71.4,
-      "1_3yr_pct": 0.0,
+      "1_3yr_pct": 0,
       "over_3yr_pct": 28.6
     },
     {
       "type": "车辆服务",
-      "count": 9.0,
+      "count": 9,
       "within_1yr_pct": 22.2,
       "1_3yr_pct": 11.1,
       "over_3yr_pct": 66.7

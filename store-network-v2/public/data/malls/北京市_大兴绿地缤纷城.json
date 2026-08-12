@@ -13,7 +13,7 @@
     "industry_score": 93.8,
     "annual_sales": "1.7",
     "annual_sales_unit": "亿元",
-    "area_size_sqm": 4.0,
+    "area_size_sqm": 4,
     "open_date": "2016-12-01",
     "operator": "绿地控股集团股份有限公司",
     "brand": "绿地控股greenland",
@@ -45,7 +45,7 @@
     "office": {
       "500m": 1.4,
       "1_5km": 5.8,
-      "3km": 20.0
+      "3km": 20
     },
     "permanent": {
       "500m": 1.7,
@@ -54,26 +54,26 @@
     }
   },
   "business": {
-    "competitors": 3.0,
-    "food": 100.0,
-    "shopping": 105.0,
-    "leisure": 19.0,
-    "education": 45.0,
-    "hotel": 39.0,
-    "services": 180.0,
-    "fitness": 34.0,
-    "auto": 23.0,
-    "total_stores": 281.0,
-    "old_store_3yr_pct": 45.0
+    "competitors": 3,
+    "food": 100,
+    "shopping": 105,
+    "leisure": 19,
+    "education": 45,
+    "hotel": 39,
+    "services": 180,
+    "fitness": 34,
+    "auto": 23,
+    "total_stores": 281,
+    "old_store_3yr_pct": 45
   },
   "nearby_poi": {
-    "business": 1.0,
-    "community": 150.0,
-    "office": 23.0,
-    "school": 24.0,
-    "hospital": 28.0,
-    "transport": 7.0,
-    "scenic": 69.0
+    "business": 1,
+    "community": 150,
+    "office": 23,
+    "school": 24,
+    "hospital": 28,
+    "transport": 7,
+    "scenic": 69
   },
   "demographics": {
     "male_pct": 52.2,
@@ -156,56 +156,56 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 50.0,
-      "within_1yr_pct": 16.0,
-      "1_3yr_pct": 20.0,
-      "over_3yr_pct": 64.0
+      "count": 50,
+      "within_1yr_pct": 16,
+      "1_3yr_pct": 20,
+      "over_3yr_pct": 64
     },
     {
       "type": "购物",
-      "count": 57.0,
+      "count": 57,
       "within_1yr_pct": 17.5,
       "1_3yr_pct": 21.1,
       "over_3yr_pct": 61.4
     },
     {
       "type": "休闲娱乐",
-      "count": 11.0,
+      "count": 11,
       "within_1yr_pct": 27.3,
       "1_3yr_pct": 18.2,
       "over_3yr_pct": 54.5
     },
     {
       "type": "教育培训",
-      "count": 13.0,
+      "count": 13,
       "within_1yr_pct": 15.4,
       "1_3yr_pct": 38.5,
       "over_3yr_pct": 46.2
     },
     {
       "type": "酒店住宿",
-      "count": 27.0,
+      "count": 27,
       "within_1yr_pct": 51.9,
       "1_3yr_pct": 40.7,
       "over_3yr_pct": 7.4
     },
     {
       "type": "生活服务",
-      "count": 101.0,
+      "count": 101,
       "within_1yr_pct": 30.7,
       "1_3yr_pct": 32.7,
       "over_3yr_pct": 36.6
     },
     {
       "type": "运动健身",
-      "count": 15.0,
+      "count": 15,
       "within_1yr_pct": 6.7,
       "1_3yr_pct": 53.3,
-      "over_3yr_pct": 40.0
+      "over_3yr_pct": 40
     },
     {
       "type": "车辆服务",
-      "count": 7.0,
+      "count": 7,
       "within_1yr_pct": 57.1,
       "1_3yr_pct": 14.3,
       "over_3yr_pct": 28.6

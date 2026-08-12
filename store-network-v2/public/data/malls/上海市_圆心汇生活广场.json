@@ -13,7 +13,7 @@
     "industry_score": 75.3,
     "annual_sales": "社区型商业",
     "annual_sales_unit": "-",
-    "area_size_sqm": 3.0,
+    "area_size_sqm": 3,
     "open_date": "2025-07-31",
     "operator": "上海泰尔发房地产开发有限公司",
     "brand": "",
@@ -54,26 +54,26 @@
     }
   },
   "business": {
-    "competitors": 3.0,
-    "food": 66.0,
-    "shopping": 77.0,
-    "leisure": 12.0,
-    "education": 11.0,
-    "hotel": 14.0,
-    "services": 96.0,
-    "fitness": 14.0,
-    "auto": 10.0,
-    "total_stores": 84.0,
-    "old_store_3yr_pct": 21.0
+    "competitors": 3,
+    "food": 66,
+    "shopping": 77,
+    "leisure": 12,
+    "education": 11,
+    "hotel": 14,
+    "services": 96,
+    "fitness": 14,
+    "auto": 10,
+    "total_stores": 84,
+    "old_store_3yr_pct": 21
   },
   "nearby_poi": {
-    "business": 3.0,
-    "community": 397.0,
-    "office": 26.0,
-    "school": 35.0,
-    "hospital": 57.0,
-    "transport": 5.0,
-    "scenic": 114.0
+    "business": 3,
+    "community": 397,
+    "office": 26,
+    "school": 35,
+    "hospital": 57,
+    "transport": 5,
+    "scenic": 114
   },
   "demographics": {
     "male_pct": 47.9,
@@ -96,59 +96,59 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 24.0,
+      "count": 24,
       "within_1yr_pct": 16.7,
-      "1_3yr_pct": 75.0,
+      "1_3yr_pct": 75,
       "over_3yr_pct": 8.3
     },
     {
       "type": "购物",
-      "count": 14.0,
+      "count": 14,
       "within_1yr_pct": 14.3,
       "1_3yr_pct": 78.6,
       "over_3yr_pct": 7.1
     },
     {
       "type": "休闲娱乐",
-      "count": 6.0,
+      "count": 6,
       "within_1yr_pct": 83.3,
-      "1_3yr_pct": 0.0,
+      "1_3yr_pct": 0,
       "over_3yr_pct": 16.7
     },
     {
       "type": "教育培训",
-      "count": 3.0,
+      "count": 3,
       "within_1yr_pct": 33.3,
       "1_3yr_pct": 66.7,
-      "over_3yr_pct": 0.0
+      "over_3yr_pct": 0
     },
     {
       "type": "酒店住宿",
-      "count": 7.0,
+      "count": 7,
       "within_1yr_pct": 28.6,
       "1_3yr_pct": 14.3,
       "over_3yr_pct": 57.1
     },
     {
       "type": "生活服务",
-      "count": 23.0,
+      "count": 23,
       "within_1yr_pct": 34.8,
       "1_3yr_pct": 30.4,
       "over_3yr_pct": 34.8
     },
     {
       "type": "运动健身",
-      "count": 6.0,
+      "count": 6,
       "within_1yr_pct": 66.7,
       "1_3yr_pct": 16.7,
       "over_3yr_pct": 16.7
     },
     {
       "type": "车辆服务",
-      "count": 1.0,
-      "within_1yr_pct": 0.0,
-      "1_3yr_pct": 0.0,
-      "over_3yr_pct": 100.0
+      "count": 1,
+      "within_1yr_pct": 0,
+      "1_3yr_pct": 0,
+      "over_3yr_pct": 100
     }
   ],
   "nearby_communities": [

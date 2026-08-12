@@ -13,7 +13,7 @@
     "industry_score": 91.7,
     "annual_sales": "北京燕莎奥特莱斯购物中心是国内第一家奥特莱斯业态的购物中心，位于北京朝阳区东四环南路9号。由A、B、C三座组成，形成了主题鲜明，品类突出的经营布局。A座以欧洲精品、商务休闲、妇女儿童、家居用品以及太阳镜、钟表为主；B座以皮鞋、皮具、运动户外商品为主；C座以国际一线知名品牌、男女服装、餐饮服务为主。燕莎奥特莱斯秉承“品牌+实惠”的经营理念，为广大消费者提供众多的高品质，且具高性价比的品牌商品",
     "annual_sales_unit": "-",
-    "area_size_sqm": 10.0,
+    "area_size_sqm": 10,
     "open_date": "2002-01-01",
     "operator": "王府井集团股份有限公司",
     "brand": "",
@@ -38,42 +38,42 @@
   },
   "population": {
     "residential": {
-      "500m": 9100.0,
+      "500m": 9100,
       "1_5km": 15.1,
       "3km": 68.1
     },
     "office": {
-      "500m": 8300.0,
+      "500m": 8300,
       "1_5km": 7.7,
       "3km": 37.1
     },
     "permanent": {
-      "500m": 9100.0,
+      "500m": 9100,
       "1_5km": 14.2,
       "3km": 67.4
     }
   },
   "business": {
-    "competitors": 3.0,
-    "food": 62.0,
-    "shopping": 241.0,
-    "leisure": 7.0,
-    "education": 3.0,
-    "hotel": 1.0,
-    "services": 29.0,
-    "fitness": 14.0,
-    "auto": 6.0,
-    "total_stores": 291.0,
-    "old_store_3yr_pct": 59.0
+    "competitors": 3,
+    "food": 62,
+    "shopping": 241,
+    "leisure": 7,
+    "education": 3,
+    "hotel": 1,
+    "services": 29,
+    "fitness": 14,
+    "auto": 6,
+    "total_stores": 291,
+    "old_store_3yr_pct": 59
   },
   "nearby_poi": {
-    "business": 2.0,
-    "community": 270.0,
-    "office": 25.0,
-    "school": 27.0,
-    "hospital": 88.0,
-    "transport": 3.0,
-    "scenic": 90.0
+    "business": 2,
+    "community": 270,
+    "office": 25,
+    "school": 27,
+    "hospital": 88,
+    "transport": 3,
+    "scenic": 90
   },
   "demographics": {
     "male_pct": 47.5,
@@ -124,45 +124,45 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 48.0,
+      "count": 48,
       "within_1yr_pct": 43.8,
       "1_3yr_pct": 18.8,
       "over_3yr_pct": 37.5
     },
     {
       "type": "购物",
-      "count": 229.0,
+      "count": 229,
       "within_1yr_pct": 14.4,
       "1_3yr_pct": 19.7,
       "over_3yr_pct": 65.9
     },
     {
       "type": "休闲娱乐",
-      "count": 1.0,
-      "within_1yr_pct": 0.0,
-      "1_3yr_pct": 100.0,
-      "over_3yr_pct": 0.0
+      "count": 1,
+      "within_1yr_pct": 0,
+      "1_3yr_pct": 100,
+      "over_3yr_pct": 0
     },
     {
       "type": "教育培训",
-      "count": 2.0,
-      "within_1yr_pct": 50.0,
-      "1_3yr_pct": 50.0,
-      "over_3yr_pct": 0.0
+      "count": 2,
+      "within_1yr_pct": 50,
+      "1_3yr_pct": 50,
+      "over_3yr_pct": 0
     },
     {
       "type": "生活服务",
-      "count": 9.0,
+      "count": 9,
       "within_1yr_pct": 44.4,
       "1_3yr_pct": 22.2,
       "over_3yr_pct": 33.3
     },
     {
       "type": "车辆服务",
-      "count": 2.0,
-      "within_1yr_pct": 50.0,
-      "1_3yr_pct": 0.0,
-      "over_3yr_pct": 50.0
+      "count": 2,
+      "within_1yr_pct": 50,
+      "1_3yr_pct": 0,
+      "over_3yr_pct": 50
     }
   ],
   "nearby_communities": [

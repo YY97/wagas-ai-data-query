@@ -43,49 +43,49 @@
       "3km": 22.3
     },
     "office": {
-      "500m": 3900.0,
+      "500m": 3900,
       "1_5km": 2.6,
       "3km": 13.9
     },
     "permanent": {
       "500m": 1.2,
-      "1_5km": 4.0,
+      "1_5km": 4,
       "3km": 18.9
     }
   },
   "business": {
     "competitors": null,
-    "food": 31.0,
-    "shopping": 24.0,
-    "leisure": 3.0,
-    "education": 5.0,
-    "hotel": 4.0,
-    "services": 34.0,
-    "fitness": 3.0,
-    "auto": 3.0,
-    "total_stores": 26.0,
-    "old_store_3yr_pct": 50.0
+    "food": 31,
+    "shopping": 24,
+    "leisure": 3,
+    "education": 5,
+    "hotel": 4,
+    "services": 34,
+    "fitness": 3,
+    "auto": 3,
+    "total_stores": 26,
+    "old_store_3yr_pct": 50
   },
   "nearby_poi": {
     "business": null,
-    "community": 86.0,
-    "office": 27.0,
-    "school": 8.0,
-    "hospital": 33.0,
-    "transport": 7.0,
-    "scenic": 35.0
+    "community": 86,
+    "office": 27,
+    "school": 8,
+    "hospital": 33,
+    "transport": 7,
+    "scenic": 35
   },
   "demographics": {
     "male_pct": 53.6,
     "female_pct": null,
     "education": {
       "小学": 10.7,
-      "初中": 18.0,
+      "初中": 18,
       "高中": 11.1,
       "大专": 8.1,
-      "本科": 46.0,
+      "本科": 46,
       "硕士": 5.1,
-      "博士": 1.0
+      "博士": 1
     },
     "has_children_pct": 56.5,
     "no_children_pct": 43.5
@@ -96,38 +96,38 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 13.0,
+      "count": 13,
       "within_1yr_pct": 7.7,
       "1_3yr_pct": 30.8,
       "over_3yr_pct": 61.5
     },
     {
       "type": "购物",
-      "count": 4.0,
-      "within_1yr_pct": 50.0,
-      "1_3yr_pct": 0.0,
-      "over_3yr_pct": 50.0
+      "count": 4,
+      "within_1yr_pct": 50,
+      "1_3yr_pct": 0,
+      "over_3yr_pct": 50
     },
     {
       "type": "休闲娱乐",
-      "count": 1.0,
-      "within_1yr_pct": 0.0,
-      "1_3yr_pct": 0.0,
-      "over_3yr_pct": 100.0
+      "count": 1,
+      "within_1yr_pct": 0,
+      "1_3yr_pct": 0,
+      "over_3yr_pct": 100
     },
     {
       "type": "生活服务",
-      "count": 7.0,
-      "within_1yr_pct": 0.0,
+      "count": 7,
+      "within_1yr_pct": 0,
       "1_3yr_pct": 71.4,
       "over_3yr_pct": 28.6
     },
     {
       "type": "运动健身",
-      "count": 1.0,
-      "within_1yr_pct": 0.0,
-      "1_3yr_pct": 100.0,
-      "over_3yr_pct": 0.0
+      "count": 1,
+      "within_1yr_pct": 0,
+      "1_3yr_pct": 100,
+      "over_3yr_pct": 0
     }
   ],
   "nearby_communities": [

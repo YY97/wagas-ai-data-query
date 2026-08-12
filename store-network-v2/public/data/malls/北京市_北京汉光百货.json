@@ -8,12 +8,12 @@
     "score": 91.5,
     "score_rank": "市内前30%",
     "population_score": 78.7,
-    "area_score": 100.0,
+    "area_score": 100,
     "consumption_score": 91.6,
     "industry_score": 91.6,
     "annual_sales": "北京汉光百货的前身是北京中友百货，位于著名的西单商圈。汉光百货集聚了1200个品牌入驻店内，囊括了化妆品、珠宝首饰、男装、各年龄层女装、童装、床品、家品、大小家电等多个品类的商品，为顾客提供一站式服务。",
     "annual_sales_unit": "-",
-    "area_size_sqm": 4.0,
+    "area_size_sqm": 4,
     "open_date": "1999-01-01",
     "operator": "北京汉光百货有限责任公司",
     "brand": "",
@@ -54,26 +54,26 @@
     }
   },
   "business": {
-    "competitors": 15.0,
-    "food": 375.0,
-    "shopping": 744.0,
-    "leisure": 35.0,
-    "education": 12.0,
-    "hotel": 26.0,
-    "services": 144.0,
-    "fitness": 9.0,
-    "auto": 17.0,
-    "total_stores": 232.0,
-    "old_store_3yr_pct": 68.0
+    "competitors": 15,
+    "food": 375,
+    "shopping": 744,
+    "leisure": 35,
+    "education": 12,
+    "hotel": 26,
+    "services": 144,
+    "fitness": 9,
+    "auto": 17,
+    "total_stores": 232,
+    "old_store_3yr_pct": 68
   },
   "nearby_poi": {
-    "business": 9.0,
-    "community": 373.0,
-    "office": 91.0,
-    "school": 48.0,
-    "hospital": 124.0,
-    "transport": 7.0,
-    "scenic": 1059.0
+    "business": 9,
+    "community": 373,
+    "office": 91,
+    "school": 48,
+    "hospital": 124,
+    "transport": 7,
+    "scenic": 1059
   },
   "demographics": {
     "male_pct": 46.1,
@@ -82,7 +82,7 @@
       "小学": 10.3,
       "初中": 17.2,
       "高中": 11.2,
-      "大专": 6.0,
+      "大专": 6,
       "本科": 45.4,
       "硕士": 7.7,
       "博士": 2.2
@@ -420,38 +420,38 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 22.0,
+      "count": 22,
       "within_1yr_pct": 18.2,
       "1_3yr_pct": 13.6,
       "over_3yr_pct": 68.2
     },
     {
       "type": "购物",
-      "count": 203.0,
+      "count": 203,
       "within_1yr_pct": 9.9,
       "1_3yr_pct": 21.7,
       "over_3yr_pct": 68.5
     },
     {
       "type": "教育培训",
-      "count": 2.0,
-      "within_1yr_pct": 50.0,
-      "1_3yr_pct": 0.0,
-      "over_3yr_pct": 50.0
+      "count": 2,
+      "within_1yr_pct": 50,
+      "1_3yr_pct": 0,
+      "over_3yr_pct": 50
     },
     {
       "type": "生活服务",
-      "count": 4.0,
-      "within_1yr_pct": 0.0,
-      "1_3yr_pct": 25.0,
-      "over_3yr_pct": 75.0
+      "count": 4,
+      "within_1yr_pct": 0,
+      "1_3yr_pct": 25,
+      "over_3yr_pct": 75
     },
     {
       "type": "车辆服务",
-      "count": 1.0,
-      "within_1yr_pct": 0.0,
-      "1_3yr_pct": 100.0,
-      "over_3yr_pct": 0.0
+      "count": 1,
+      "within_1yr_pct": 0,
+      "1_3yr_pct": 100,
+      "over_3yr_pct": 0
     }
   ],
   "nearby_communities": [

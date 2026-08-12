@@ -13,7 +13,7 @@
     "industry_score": 90.3,
     "annual_sales": "5",
     "annual_sales_unit": "亿元",
-    "area_size_sqm": 10.0,
+    "area_size_sqm": 10,
     "open_date": "2024-10-18",
     "operator": "保利发展控股集团股份有限公司",
     "brand": "保利",
@@ -21,7 +21,7 @@
     "floors": "B1-L5"
   },
   "traffic": {
-    "annual_daily": 5863.0,
+    "annual_daily": 5863,
     "annual_daily_unit": "人次",
     "annual_daily_rank": "市内第177",
     "jun_total": 46.2,
@@ -38,7 +38,7 @@
   },
   "population": {
     "residential": {
-      "500m": 6400.0,
+      "500m": 6400,
       "1_5km": 4.4,
       "3km": 20.1
     },
@@ -48,32 +48,32 @@
       "3km": 35.9
     },
     "permanent": {
-      "500m": 8000.0,
+      "500m": 8000,
       "1_5km": 7.7,
       "3km": 23.3
     }
   },
   "business": {
-    "competitors": 6.0,
-    "food": 383.0,
-    "shopping": 214.0,
-    "leisure": 33.0,
-    "education": 22.0,
-    "hotel": 78.0,
-    "services": 184.0,
-    "fitness": 35.0,
-    "auto": 29.0,
-    "total_stores": 174.0,
-    "old_store_3yr_pct": 5.0
+    "competitors": 6,
+    "food": 383,
+    "shopping": 214,
+    "leisure": 33,
+    "education": 22,
+    "hotel": 78,
+    "services": 184,
+    "fitness": 35,
+    "auto": 29,
+    "total_stores": 174,
+    "old_store_3yr_pct": 5
   },
   "nearby_poi": {
-    "business": 6.0,
-    "community": 225.0,
-    "office": 83.0,
-    "school": 11.0,
-    "hospital": 89.0,
-    "transport": 12.0,
-    "scenic": 204.0
+    "business": 6,
+    "community": 225,
+    "office": 83,
+    "school": 11,
+    "hospital": 89,
+    "transport": 12,
+    "scenic": 204
   },
   "demographics": {
     "male_pct": 48.5,
@@ -161,59 +161,59 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 67.0,
+      "count": 67,
       "within_1yr_pct": 34.3,
       "1_3yr_pct": 65.7,
-      "over_3yr_pct": 0.0
+      "over_3yr_pct": 0
     },
     {
       "type": "购物",
-      "count": 54.0,
+      "count": 54,
       "within_1yr_pct": 14.8,
       "1_3yr_pct": 85.2,
-      "over_3yr_pct": 0.0
+      "over_3yr_pct": 0
     },
     {
       "type": "休闲娱乐",
-      "count": 14.0,
-      "within_1yr_pct": 50.0,
+      "count": 14,
+      "within_1yr_pct": 50,
       "1_3yr_pct": 42.9,
       "over_3yr_pct": 7.1
     },
     {
       "type": "教育培训",
-      "count": 2.0,
-      "within_1yr_pct": 50.0,
-      "1_3yr_pct": 50.0,
-      "over_3yr_pct": 0.0
+      "count": 2,
+      "within_1yr_pct": 50,
+      "1_3yr_pct": 50,
+      "over_3yr_pct": 0
     },
     {
       "type": "酒店住宿",
-      "count": 13.0,
+      "count": 13,
       "within_1yr_pct": 7.7,
       "1_3yr_pct": 38.5,
       "over_3yr_pct": 53.8
     },
     {
       "type": "生活服务",
-      "count": 14.0,
+      "count": 14,
       "within_1yr_pct": 28.6,
       "1_3yr_pct": 64.3,
       "over_3yr_pct": 7.1
     },
     {
       "type": "运动健身",
-      "count": 7.0,
+      "count": 7,
       "within_1yr_pct": 57.1,
       "1_3yr_pct": 42.9,
-      "over_3yr_pct": 0.0
+      "over_3yr_pct": 0
     },
     {
       "type": "车辆服务",
-      "count": 3.0,
+      "count": 3,
       "within_1yr_pct": 66.7,
       "1_3yr_pct": 33.3,
-      "over_3yr_pct": 0.0
+      "over_3yr_pct": 0
     }
   ],
   "nearby_communities": [

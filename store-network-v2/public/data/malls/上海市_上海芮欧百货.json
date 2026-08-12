@@ -8,7 +8,7 @@
     "score": 93.3,
     "score_rank": "市内前30%",
     "population_score": 76.8,
-    "area_score": 100.0,
+    "area_score": 100,
     "consumption_score": 89.6,
     "industry_score": 93.3,
     "annual_sales": "芮欧百货以Réel为名，源于法文，代表“真实”之意。芮欧百货希冀以其缤彩纷呈的高端精品，以及精致贴心的服务与梦幻多变的创意，诠释现代女性的万种风貌，创造令人惊艳向往的购物体验，成为现代女性乐为女人的摩登之苑。芮欧百货地理位置优越，位于上海市静安区精华地段，地处时尚、创意、文化交汇的南京西路，临近拥有百年历史的老上海时尚圣地百乐门，直接与地铁2号线与7号线以及机场航站楼的出口相接。项目周边还有久光百货、恒隆广场、静安嘉里中心等高端购物场所，与芮欧共同呈现最摩登的生活理念，促进时尚生活圈的共荣发展。此外，静安公园亦与芮欧毗邻而居，绿荫环绕的天然景致触手可及。芮欧百货的总面积达40,000平方米，总营业面积为约25,000平方米",
@@ -24,7 +24,7 @@
     "annual_daily": 1.93,
     "annual_daily_unit": "万人次",
     "annual_daily_rank": "市内第143",
-    "jun_total": 87.0,
+    "jun_total": 87,
     "jun_total_rank": "市内商场第139名",
     "jun_daily_avg": 2.9,
     "jun_daily_unit": "万人次",
@@ -39,7 +39,7 @@
   "population": {
     "residential": {
       "500m": 1.4,
-      "1_5km": 22.0,
+      "1_5km": 22,
       "3km": 96.8
     },
     "office": {
@@ -54,26 +54,26 @@
     }
   },
   "business": {
-    "competitors": 23.0,
-    "food": 700.0,
-    "shopping": 746.0,
-    "leisure": 33.0,
-    "education": 53.0,
-    "hotel": 81.0,
-    "services": 464.0,
-    "fitness": 47.0,
-    "auto": 33.0,
-    "total_stores": 122.0,
-    "old_store_3yr_pct": 49.0
+    "competitors": 23,
+    "food": 700,
+    "shopping": 746,
+    "leisure": 33,
+    "education": 53,
+    "hotel": 81,
+    "services": 464,
+    "fitness": 47,
+    "auto": 33,
+    "total_stores": 122,
+    "old_store_3yr_pct": 49
   },
   "nearby_poi": {
-    "business": 17.0,
-    "community": 1296.0,
-    "office": 211.0,
-    "school": 91.0,
-    "hospital": 207.0,
-    "transport": 13.0,
-    "scenic": 828.0
+    "business": 17,
+    "community": 1296,
+    "office": 211,
+    "school": 91,
+    "hospital": 207,
+    "transport": 13,
+    "scenic": 828
   },
   "demographics": {
     "male_pct": 45.8,
@@ -81,7 +81,7 @@
     "education": {
       "小学": 9.1,
       "初中": 17.9,
-      "高中": 12.0,
+      "高中": 12,
       "大专": 6.8,
       "本科": 47.9,
       "硕士": 4.7,
@@ -428,38 +428,38 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 51.0,
+      "count": 51,
       "within_1yr_pct": 17.6,
       "1_3yr_pct": 31.4,
-      "over_3yr_pct": 51.0
+      "over_3yr_pct": 51
     },
     {
       "type": "购物",
-      "count": 56.0,
-      "within_1yr_pct": 25.0,
-      "1_3yr_pct": 25.0,
-      "over_3yr_pct": 50.0
+      "count": 56,
+      "within_1yr_pct": 25,
+      "1_3yr_pct": 25,
+      "over_3yr_pct": 50
     },
     {
       "type": "休闲娱乐",
-      "count": 3.0,
+      "count": 3,
       "within_1yr_pct": 33.3,
       "1_3yr_pct": 66.7,
-      "over_3yr_pct": 0.0
+      "over_3yr_pct": 0
     },
     {
       "type": "生活服务",
-      "count": 10.0,
-      "within_1yr_pct": 20.0,
-      "1_3yr_pct": 40.0,
-      "over_3yr_pct": 40.0
+      "count": 10,
+      "within_1yr_pct": 20,
+      "1_3yr_pct": 40,
+      "over_3yr_pct": 40
     },
     {
       "type": "车辆服务",
-      "count": 2.0,
-      "within_1yr_pct": 0.0,
-      "1_3yr_pct": 0.0,
-      "over_3yr_pct": 100.0
+      "count": 2,
+      "within_1yr_pct": 0,
+      "1_3yr_pct": 0,
+      "over_3yr_pct": 100
     }
   ],
   "nearby_communities": [

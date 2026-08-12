@@ -13,7 +13,7 @@
     "industry_score": 80.5,
     "annual_sales": "上海龙光蓝鲸世界位于临港滴水湖核心区，申港大道与沪城环路交叉口，是临港最大的购物中心。项目总建筑面积约13万平方米，共6层（地上4层、地下2层），定位为“标杆型家庭生活购物中心”。其建筑设计灵感来源于蓝鲸，以“蓝鲸逐浪”为主题，立面采用蜿蜒曲线，象征蓝鲸与海浪共舞。 商场业态丰富，涵盖影院、餐饮、零售、娱乐、生活服务、科技创新等，已签约品牌包括博纳IMAX影城、鲜生超市、KFC、华为等。此外，商场还设有海洋科普馆等特色区域。上海龙光蓝鲸世界预计2024年底开业。",
     "annual_sales_unit": "-",
-    "area_size_sqm": 13.0,
+    "area_size_sqm": 13,
     "open_date": "2024-01-01",
     "operator": "龙光集团有限公司",
     "brand": "龙光集团有限公司",
@@ -24,15 +24,15 @@
     "annual_daily": null,
     "annual_daily_unit": "-",
     "annual_daily_rank": "",
-    "jun_total": 9.0,
+    "jun_total": 9,
     "jun_total_rank": "市内商场第497名",
-    "jun_daily_avg": 2992.0,
+    "jun_daily_avg": 2992,
     "jun_daily_unit": "人次",
     "jun_daily_rank": "市内商场第497名",
-    "weekday_avg": 2701.0,
+    "weekday_avg": 2701,
     "weekday_unit": "人次",
     "weekday_rank": "市内商场第499名",
-    "holiday_avg": 3795.0,
+    "holiday_avg": 3795,
     "holiday_unit": "人次",
     "holiday_rank": "市内商场第478名"
   },
@@ -43,7 +43,7 @@
       "3km": 21.6
     },
     "office": {
-      "500m": 7300.0,
+      "500m": 7300,
       "1_5km": 3.9,
       "3km": 9.3
     },
@@ -54,26 +54,26 @@
     }
   },
   "business": {
-    "competitors": 3.0,
-    "food": 116.0,
-    "shopping": 53.0,
-    "leisure": 7.0,
-    "education": 9.0,
-    "hotel": 16.0,
-    "services": 44.0,
-    "fitness": 7.0,
-    "auto": 7.0,
-    "total_stores": 187.0,
-    "old_store_3yr_pct": 1.0
+    "competitors": 3,
+    "food": 116,
+    "shopping": 53,
+    "leisure": 7,
+    "education": 9,
+    "hotel": 16,
+    "services": 44,
+    "fitness": 7,
+    "auto": 7,
+    "total_stores": 187,
+    "old_store_3yr_pct": 1
   },
   "nearby_poi": {
-    "business": 2.0,
-    "community": 58.0,
+    "business": 2,
+    "community": 58,
     "office": null,
-    "school": 20.0,
-    "hospital": 6.0,
-    "transport": 8.0,
-    "scenic": 87.0
+    "school": 20,
+    "hospital": 6,
+    "transport": 8,
+    "scenic": 87
   },
   "demographics": {
     "male_pct": 54.4,
@@ -85,7 +85,7 @@
       "大专": 4.9,
       "本科": 34.6,
       "硕士": 3.8,
-      "博士": 1.0
+      "博士": 1
     },
     "has_children_pct": 40.3,
     "no_children_pct": 59.7
@@ -372,52 +372,52 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 100.0,
-      "within_1yr_pct": 20.0,
-      "1_3yr_pct": 79.0,
-      "over_3yr_pct": 1.0
+      "count": 100,
+      "within_1yr_pct": 20,
+      "1_3yr_pct": 79,
+      "over_3yr_pct": 1
     },
     {
       "type": "购物",
-      "count": 46.0,
+      "count": 46,
       "within_1yr_pct": 15.2,
       "1_3yr_pct": 84.8,
-      "over_3yr_pct": 0.0
+      "over_3yr_pct": 0
     },
     {
       "type": "休闲娱乐",
-      "count": 6.0,
-      "within_1yr_pct": 0.0,
-      "1_3yr_pct": 100.0,
-      "over_3yr_pct": 0.0
+      "count": 6,
+      "within_1yr_pct": 0,
+      "1_3yr_pct": 100,
+      "over_3yr_pct": 0
     },
     {
       "type": "教育培训",
-      "count": 9.0,
+      "count": 9,
       "within_1yr_pct": 66.7,
       "1_3yr_pct": 33.3,
-      "over_3yr_pct": 0.0
+      "over_3yr_pct": 0
     },
     {
       "type": "生活服务",
-      "count": 16.0,
+      "count": 16,
       "within_1yr_pct": 18.8,
       "1_3yr_pct": 81.3,
-      "over_3yr_pct": 0.0
+      "over_3yr_pct": 0
     },
     {
       "type": "运动健身",
-      "count": 6.0,
+      "count": 6,
       "within_1yr_pct": 16.7,
       "1_3yr_pct": 83.3,
-      "over_3yr_pct": 0.0
+      "over_3yr_pct": 0
     },
     {
       "type": "车辆服务",
-      "count": 4.0,
-      "within_1yr_pct": 0.0,
-      "1_3yr_pct": 100.0,
-      "over_3yr_pct": 0.0
+      "count": 4,
+      "within_1yr_pct": 0,
+      "1_3yr_pct": 100,
+      "over_3yr_pct": 0
     }
   ],
   "nearby_communities": [

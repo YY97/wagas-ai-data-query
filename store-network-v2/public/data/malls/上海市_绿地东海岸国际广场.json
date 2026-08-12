@@ -8,7 +8,7 @@
     "score": 91.6,
     "score_rank": "市内前30%",
     "population_score": 75.1,
-    "area_score": 78.0,
+    "area_score": 78,
     "consumption_score": 70.6,
     "industry_score": 91.7,
     "annual_sales": "绿地东海岸国际广场位于川沙路、翔川路口，踞川沙核心区位，集合“体验式商业、甲级/LOFT写字楼、星级酒店”三大优势业态于一体，是绿地集团MAX-MALL品牌旗下又一集群式商业巨舰",
@@ -54,26 +54,26 @@
     }
   },
   "business": {
-    "competitors": 5.0,
-    "food": 244.0,
-    "shopping": 167.0,
-    "leisure": 24.0,
-    "education": 39.0,
-    "hotel": 34.0,
-    "services": 158.0,
-    "fitness": 28.0,
-    "auto": 19.0,
-    "total_stores": 215.0,
-    "old_store_3yr_pct": 52.0
+    "competitors": 5,
+    "food": 244,
+    "shopping": 167,
+    "leisure": 24,
+    "education": 39,
+    "hotel": 34,
+    "services": 158,
+    "fitness": 28,
+    "auto": 19,
+    "total_stores": 215,
+    "old_store_3yr_pct": 52
   },
   "nearby_poi": {
-    "business": 6.0,
-    "community": 203.0,
-    "office": 9.0,
-    "school": 34.0,
-    "hospital": 31.0,
-    "transport": 11.0,
-    "scenic": 82.0
+    "business": 6,
+    "community": 203,
+    "office": 9,
+    "school": 34,
+    "hospital": 31,
+    "transport": 11,
+    "scenic": 82
   },
   "demographics": {
     "male_pct": 49.9,
@@ -396,59 +396,59 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 93.0,
+      "count": 93,
       "within_1yr_pct": 21.5,
       "1_3yr_pct": 22.6,
       "over_3yr_pct": 55.9
     },
     {
       "type": "购物",
-      "count": 29.0,
+      "count": 29,
       "within_1yr_pct": 24.1,
       "1_3yr_pct": 24.1,
       "over_3yr_pct": 51.7
     },
     {
       "type": "休闲娱乐",
-      "count": 11.0,
+      "count": 11,
       "within_1yr_pct": 27.3,
       "1_3yr_pct": 9.1,
       "over_3yr_pct": 63.6
     },
     {
       "type": "教育培训",
-      "count": 18.0,
+      "count": 18,
       "within_1yr_pct": 11.1,
-      "1_3yr_pct": 50.0,
+      "1_3yr_pct": 50,
       "over_3yr_pct": 38.9
     },
     {
       "type": "酒店住宿",
-      "count": 4.0,
-      "within_1yr_pct": 50.0,
-      "1_3yr_pct": 0.0,
-      "over_3yr_pct": 50.0
+      "count": 4,
+      "within_1yr_pct": 50,
+      "1_3yr_pct": 0,
+      "over_3yr_pct": 50
     },
     {
       "type": "生活服务",
-      "count": 49.0,
+      "count": 49,
       "within_1yr_pct": 16.3,
       "1_3yr_pct": 32.7,
-      "over_3yr_pct": 51.0
+      "over_3yr_pct": 51
     },
     {
       "type": "运动健身",
-      "count": 9.0,
+      "count": 9,
       "within_1yr_pct": 22.2,
       "1_3yr_pct": 33.3,
       "over_3yr_pct": 44.4
     },
     {
       "type": "车辆服务",
-      "count": 2.0,
-      "within_1yr_pct": 50.0,
-      "1_3yr_pct": 50.0,
-      "over_3yr_pct": 0.0
+      "count": 2,
+      "within_1yr_pct": 50,
+      "1_3yr_pct": 50,
+      "over_3yr_pct": 0
     }
   ],
   "nearby_communities": [

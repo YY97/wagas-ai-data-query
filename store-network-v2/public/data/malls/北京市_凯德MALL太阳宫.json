@@ -8,12 +8,12 @@
     "score": 95.5,
     "score_rank": "市内前30%",
     "population_score": 95.3,
-    "area_score": 78.0,
+    "area_score": 78,
     "consumption_score": 87.5,
     "industry_score": 95.6,
     "annual_sales": "8",
     "annual_sales_unit": "亿元",
-    "area_size_sqm": 8.0,
+    "area_size_sqm": 8,
     "open_date": "2012-07-14",
     "operator": "凯德置地（中国）投资有限公司",
     "brand": "凯德",
@@ -38,13 +38,13 @@
   },
   "population": {
     "residential": {
-      "500m": 3.0,
+      "500m": 3,
       "1_5km": 15.3,
       "3km": 69.8
     },
     "office": {
       "500m": 2.1,
-      "1_5km": 10.0,
+      "1_5km": 10,
       "3km": 43.6
     },
     "permanent": {
@@ -54,26 +54,26 @@
     }
   },
   "business": {
-    "competitors": 6.0,
-    "food": 133.0,
-    "shopping": 121.0,
-    "leisure": 12.0,
-    "education": 40.0,
-    "hotel": 6.0,
-    "services": 124.0,
-    "fitness": 20.0,
-    "auto": 8.0,
-    "total_stores": 252.0,
-    "old_store_3yr_pct": 58.0
+    "competitors": 6,
+    "food": 133,
+    "shopping": 121,
+    "leisure": 12,
+    "education": 40,
+    "hotel": 6,
+    "services": 124,
+    "fitness": 20,
+    "auto": 8,
+    "total_stores": 252,
+    "old_store_3yr_pct": 58
   },
   "nearby_poi": {
-    "business": 3.0,
-    "community": 362.0,
-    "office": 55.0,
-    "school": 26.0,
-    "hospital": 107.0,
-    "transport": 7.0,
-    "scenic": 121.0
+    "business": 3,
+    "community": 362,
+    "office": 55,
+    "school": 26,
+    "hospital": 107,
+    "transport": 7,
+    "scenic": 121
   },
   "demographics": {
     "male_pct": 46.7,
@@ -81,7 +81,7 @@
     "education": {
       "小学": 8.2,
       "初中": 14.4,
-      "高中": 13.0,
+      "高中": 13,
       "大专": 5.4,
       "本科": 48.4,
       "硕士": 8.7,
@@ -372,52 +372,52 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 102.0,
+      "count": 102,
       "within_1yr_pct": 21.6,
       "1_3yr_pct": 30.4,
-      "over_3yr_pct": 48.0
+      "over_3yr_pct": 48
     },
     {
       "type": "购物",
-      "count": 79.0,
+      "count": 79,
       "within_1yr_pct": 16.5,
       "1_3yr_pct": 13.9,
       "over_3yr_pct": 69.6
     },
     {
       "type": "休闲娱乐",
-      "count": 10.0,
-      "within_1yr_pct": 0.0,
-      "1_3yr_pct": 20.0,
-      "over_3yr_pct": 80.0
+      "count": 10,
+      "within_1yr_pct": 0,
+      "1_3yr_pct": 20,
+      "over_3yr_pct": 80
     },
     {
       "type": "教育培训",
-      "count": 18.0,
+      "count": 18,
       "within_1yr_pct": 11.1,
       "1_3yr_pct": 33.3,
       "over_3yr_pct": 55.6
     },
     {
       "type": "生活服务",
-      "count": 36.0,
+      "count": 36,
       "within_1yr_pct": 16.7,
       "1_3yr_pct": 19.4,
       "over_3yr_pct": 63.9
     },
     {
       "type": "运动健身",
-      "count": 5.0,
-      "within_1yr_pct": 40.0,
-      "1_3yr_pct": 40.0,
-      "over_3yr_pct": 20.0
+      "count": 5,
+      "within_1yr_pct": 40,
+      "1_3yr_pct": 40,
+      "over_3yr_pct": 20
     },
     {
       "type": "车辆服务",
-      "count": 2.0,
-      "within_1yr_pct": 0.0,
-      "1_3yr_pct": 50.0,
-      "over_3yr_pct": 50.0
+      "count": 2,
+      "within_1yr_pct": 0,
+      "1_3yr_pct": 50,
+      "over_3yr_pct": 50
     }
   ],
   "nearby_communities": [

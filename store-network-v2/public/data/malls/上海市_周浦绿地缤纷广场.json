@@ -13,7 +13,7 @@
     "industry_score": 90.9,
     "annual_sales": "周浦绿地缤纷广场是世界五百强企业绿地控股集团在上海的首个高端体验型社区商业旗舰项目，定位周浦地区中高端消费群，打造地标型一站式购物殿堂",
     "annual_sales_unit": "-",
-    "area_size_sqm": 7.0,
+    "area_size_sqm": 7,
     "open_date": "2016-12-01",
     "operator": "绿地控股集团股份有限公司",
     "brand": "",
@@ -38,42 +38,42 @@
   },
   "population": {
     "residential": {
-      "500m": 9100.0,
+      "500m": 9100,
       "1_5km": 13.9,
       "3km": 48.6
     },
     "office": {
-      "500m": 3800.0,
+      "500m": 3800,
       "1_5km": 4.2,
       "3km": 20.6
     },
     "permanent": {
-      "500m": 9300.0,
+      "500m": 9300,
       "1_5km": 12.8,
       "3km": 45.5
     }
   },
   "business": {
-    "competitors": 3.0,
-    "food": 43.0,
-    "shopping": 29.0,
-    "leisure": 16.0,
-    "education": 27.0,
-    "hotel": 11.0,
-    "services": 42.0,
-    "fitness": 16.0,
-    "auto": 4.0,
-    "total_stores": 103.0,
-    "old_store_3yr_pct": 40.0
+    "competitors": 3,
+    "food": 43,
+    "shopping": 29,
+    "leisure": 16,
+    "education": 27,
+    "hotel": 11,
+    "services": 42,
+    "fitness": 16,
+    "auto": 4,
+    "total_stores": 103,
+    "old_store_3yr_pct": 40
   },
   "nearby_poi": {
-    "business": 2.0,
-    "community": 215.0,
-    "office": 6.0,
-    "school": 20.0,
-    "hospital": 47.0,
-    "transport": 3.0,
-    "scenic": 47.0
+    "business": 2,
+    "community": 215,
+    "office": 6,
+    "school": 20,
+    "hospital": 47,
+    "transport": 3,
+    "scenic": 47
   },
   "demographics": {
     "male_pct": 53.7,
@@ -364,51 +364,51 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 38.0,
+      "count": 38,
       "within_1yr_pct": 23.7,
       "1_3yr_pct": 44.7,
       "over_3yr_pct": 31.6
     },
     {
       "type": "购物",
-      "count": 17.0,
+      "count": 17,
       "within_1yr_pct": 23.5,
       "1_3yr_pct": 29.4,
       "over_3yr_pct": 47.1
     },
     {
       "type": "休闲娱乐",
-      "count": 9.0,
+      "count": 9,
       "within_1yr_pct": 66.7,
       "1_3yr_pct": 11.1,
       "over_3yr_pct": 22.2
     },
     {
       "type": "教育培训",
-      "count": 18.0,
+      "count": 18,
       "within_1yr_pct": 5.6,
       "1_3yr_pct": 38.9,
       "over_3yr_pct": 55.6
     },
     {
       "type": "生活服务",
-      "count": 10.0,
-      "within_1yr_pct": 0.0,
-      "1_3yr_pct": 40.0,
-      "over_3yr_pct": 60.0
+      "count": 10,
+      "within_1yr_pct": 0,
+      "1_3yr_pct": 40,
+      "over_3yr_pct": 60
     },
     {
       "type": "运动健身",
-      "count": 8.0,
-      "within_1yr_pct": 0.0,
-      "1_3yr_pct": 75.0,
-      "over_3yr_pct": 25.0
+      "count": 8,
+      "within_1yr_pct": 0,
+      "1_3yr_pct": 75,
+      "over_3yr_pct": 25
     },
     {
       "type": "车辆服务",
-      "count": 3.0,
+      "count": 3,
       "within_1yr_pct": 66.7,
-      "1_3yr_pct": 0.0,
+      "1_3yr_pct": 0,
       "over_3yr_pct": 33.3
     }
   ],

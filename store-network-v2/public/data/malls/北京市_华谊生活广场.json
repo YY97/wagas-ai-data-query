@@ -10,10 +10,10 @@
     "population_score": 75.9,
     "area_score": 92.8,
     "consumption_score": 62.5,
-    "industry_score": 66.0,
+    "industry_score": 66,
     "annual_sales": "华谊生活广场位于北京市朝阳区林萃西里16号，毗邻地铁8号线林萃桥站，总体量约30000平方米。商场定位为社区型商业综合体，一层以餐饮和服装为主，二层有餐饮区，三层设有儿童区，适合亲子消费。",
     "annual_sales_unit": "-",
-    "area_size_sqm": 9.0,
+    "area_size_sqm": 9,
     "open_date": "2013-05-01",
     "operator": "北京兴天阳物业管理有限公司",
     "brand": "",
@@ -54,33 +54,33 @@
     }
   },
   "business": {
-    "competitors": 4.0,
-    "food": 282.0,
-    "shopping": 315.0,
-    "leisure": 26.0,
-    "education": 53.0,
-    "hotel": 16.0,
-    "services": 174.0,
-    "fitness": 16.0,
-    "auto": 11.0,
-    "total_stores": 9.0,
-    "old_store_3yr_pct": 11.0
+    "competitors": 4,
+    "food": 282,
+    "shopping": 315,
+    "leisure": 26,
+    "education": 53,
+    "hotel": 16,
+    "services": 174,
+    "fitness": 16,
+    "auto": 11,
+    "total_stores": 9,
+    "old_store_3yr_pct": 11
   },
   "nearby_poi": {
-    "business": 5.0,
-    "community": 178.0,
-    "office": 17.0,
-    "school": 34.0,
-    "hospital": 59.0,
-    "transport": 19.0,
-    "scenic": 64.0
+    "business": 5,
+    "community": 178,
+    "office": 17,
+    "school": 34,
+    "hospital": 59,
+    "transport": 19,
+    "scenic": 64
   },
   "demographics": {
     "male_pct": null,
     "female_pct": null,
     "education": {
       "小学": 11.2,
-      "初中": 21.0,
+      "初中": 21,
       "高中": 12.2,
       "大专": 8.2,
       "本科": 44.3,
@@ -388,31 +388,31 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 4.0,
-      "within_1yr_pct": 25.0,
-      "1_3yr_pct": 50.0,
-      "over_3yr_pct": 25.0
+      "count": 4,
+      "within_1yr_pct": 25,
+      "1_3yr_pct": 50,
+      "over_3yr_pct": 25
     },
     {
       "type": "购物",
-      "count": 1.0,
-      "within_1yr_pct": 100.0,
-      "1_3yr_pct": 0.0,
-      "over_3yr_pct": 0.0
+      "count": 1,
+      "within_1yr_pct": 100,
+      "1_3yr_pct": 0,
+      "over_3yr_pct": 0
     },
     {
       "type": "休闲娱乐",
-      "count": 3.0,
+      "count": 3,
       "within_1yr_pct": 66.7,
       "1_3yr_pct": 33.3,
-      "over_3yr_pct": 0.0
+      "over_3yr_pct": 0
     },
     {
       "type": "运动健身",
-      "count": 1.0,
-      "within_1yr_pct": 0.0,
-      "1_3yr_pct": 100.0,
-      "over_3yr_pct": 0.0
+      "count": 1,
+      "within_1yr_pct": 0,
+      "1_3yr_pct": 100,
+      "over_3yr_pct": 0
     }
   ],
   "nearby_communities": [

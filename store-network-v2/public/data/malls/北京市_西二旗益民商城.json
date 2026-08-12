@@ -5,12 +5,12 @@
   "lat": null,
   "lng": null,
   "overview": {
-    "score": 76.0,
+    "score": 76,
     "score_rank": "市内前50%",
     "population_score": 94.4,
     "area_score": 64.4,
     "consumption_score": 72.8,
-    "industry_score": 76.0,
+    "industry_score": 76,
     "annual_sales": "商业广场由四栋建筑组成，主楼共三个楼面，一楼为餐饮、大型儿童区域，餐饮区域内特色小吃品种多样，价格实在。更有知名品牌餐饮入驻。二楼为大型生鲜超市、健身房及各类教育培训机构。为区域内的居民们提供新鲜放心的食材及康体平台。三楼为电影院及量贩式KTV，为居民休闲娱乐提供服务。",
     "annual_sales_unit": "-",
     "area_size_sqm": 2.2,
@@ -26,24 +26,24 @@
     "annual_daily_rank": "",
     "jun_total": 5.7,
     "jun_total_rank": "市内商场第539名",
-    "jun_daily_avg": 1903.0,
+    "jun_daily_avg": 1903,
     "jun_daily_unit": "人次",
     "jun_daily_rank": "市内商场第539名",
-    "weekday_avg": 1842.0,
+    "weekday_avg": 1842,
     "weekday_unit": "人次",
     "weekday_rank": "市内商场第538名",
-    "holiday_avg": 2065.0,
+    "holiday_avg": 2065,
     "holiday_unit": "人次",
     "holiday_rank": "市内商场第533名"
   },
   "population": {
     "residential": {
-      "500m": 3.0,
+      "500m": 3,
       "1_5km": 13.3,
       "3km": 62.1
     },
     "office": {
-      "500m": 8200.0,
+      "500m": 8200,
       "1_5km": 5.1,
       "3km": 26.6
     },
@@ -54,26 +54,26 @@
     }
   },
   "business": {
-    "competitors": 1.0,
-    "food": 49.0,
-    "shopping": 28.0,
-    "leisure": 5.0,
-    "education": 8.0,
-    "hotel": 4.0,
-    "services": 40.0,
-    "fitness": 8.0,
-    "auto": 10.0,
-    "total_stores": 58.0,
-    "old_store_3yr_pct": 64.0
+    "competitors": 1,
+    "food": 49,
+    "shopping": 28,
+    "leisure": 5,
+    "education": 8,
+    "hotel": 4,
+    "services": 40,
+    "fitness": 8,
+    "auto": 10,
+    "total_stores": 58,
+    "old_store_3yr_pct": 64
   },
   "nearby_poi": {
-    "business": 3.0,
-    "community": 231.0,
-    "office": 16.0,
-    "school": 13.0,
-    "hospital": 26.0,
-    "transport": 13.0,
-    "scenic": 80.0
+    "business": 3,
+    "community": 231,
+    "office": 16,
+    "school": 13,
+    "hospital": 26,
+    "transport": 13,
+    "scenic": 80
   },
   "demographics": {
     "male_pct": 51.1,
@@ -167,51 +167,51 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 14.0,
+      "count": 14,
       "within_1yr_pct": 14.3,
       "1_3yr_pct": 14.3,
       "over_3yr_pct": 71.4
     },
     {
       "type": "购物",
-      "count": 9.0,
+      "count": 9,
       "within_1yr_pct": 11.1,
       "1_3yr_pct": 11.1,
       "over_3yr_pct": 77.8
     },
     {
       "type": "休闲娱乐",
-      "count": 3.0,
-      "within_1yr_pct": 0.0,
-      "1_3yr_pct": 0.0,
-      "over_3yr_pct": 100.0
+      "count": 3,
+      "within_1yr_pct": 0,
+      "1_3yr_pct": 0,
+      "over_3yr_pct": 100
     },
     {
       "type": "教育培训",
-      "count": 5.0,
-      "within_1yr_pct": 0.0,
-      "1_3yr_pct": 80.0,
-      "over_3yr_pct": 20.0
+      "count": 5,
+      "within_1yr_pct": 0,
+      "1_3yr_pct": 80,
+      "over_3yr_pct": 20
     },
     {
       "type": "生活服务",
-      "count": 19.0,
+      "count": 19,
       "within_1yr_pct": 21.1,
       "1_3yr_pct": 21.1,
       "over_3yr_pct": 57.9
     },
     {
       "type": "运动健身",
-      "count": 5.0,
-      "within_1yr_pct": 20.0,
-      "1_3yr_pct": 20.0,
-      "over_3yr_pct": 60.0
+      "count": 5,
+      "within_1yr_pct": 20,
+      "1_3yr_pct": 20,
+      "over_3yr_pct": 60
     },
     {
       "type": "车辆服务",
-      "count": 3.0,
+      "count": 3,
       "within_1yr_pct": 33.3,
-      "1_3yr_pct": 0.0,
+      "1_3yr_pct": 0,
       "over_3yr_pct": 66.7
     }
   ],

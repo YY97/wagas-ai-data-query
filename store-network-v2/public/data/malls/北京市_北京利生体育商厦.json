@@ -7,8 +7,8 @@
   "overview": {
     "score": 72.3,
     "score_rank": "市内前50%",
-    "population_score": 87.0,
-    "area_score": 100.0,
+    "population_score": 87,
+    "area_score": 100,
     "consumption_score": 90.6,
     "industry_score": 72.1,
     "annual_sales": "北京利生体育商厦位于王府井大街201号，是一家有着悠久历史的体育用品商厦，现有员工800余人，经营十五个大类的2万余种商品 。",
@@ -40,7 +40,7 @@
     "residential": {
       "500m": 1.9,
       "1_5km": 11.2,
-      "3km": 56.0
+      "3km": 56
     },
     "office": {
       "500m": 3.3,
@@ -50,30 +50,30 @@
     "permanent": {
       "500m": 3.1,
       "1_5km": 16.2,
-      "3km": 69.0
+      "3km": 69
     }
   },
   "business": {
-    "competitors": 10.0,
-    "food": 419.0,
-    "shopping": 721.0,
-    "leisure": 44.0,
-    "education": 21.0,
-    "hotel": 76.0,
-    "services": 341.0,
-    "fitness": 15.0,
-    "auto": 15.0,
-    "total_stores": 54.0,
-    "old_store_3yr_pct": 35.0
+    "competitors": 10,
+    "food": 419,
+    "shopping": 721,
+    "leisure": 44,
+    "education": 21,
+    "hotel": 76,
+    "services": 341,
+    "fitness": 15,
+    "auto": 15,
+    "total_stores": 54,
+    "old_store_3yr_pct": 35
   },
   "nearby_poi": {
-    "business": 11.0,
-    "community": 295.0,
-    "office": 73.0,
-    "school": 48.0,
-    "hospital": 122.0,
-    "transport": 8.0,
-    "scenic": 1146.0
+    "business": 11,
+    "community": 295,
+    "office": 73,
+    "school": 48,
+    "hospital": 122,
+    "transport": 8,
+    "scenic": 1146
   },
   "demographics": {
     "male_pct": 47.3,
@@ -428,45 +428,45 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 4.0,
-      "within_1yr_pct": 0.0,
-      "1_3yr_pct": 75.0,
-      "over_3yr_pct": 25.0
+      "count": 4,
+      "within_1yr_pct": 0,
+      "1_3yr_pct": 75,
+      "over_3yr_pct": 25
     },
     {
       "type": "购物",
-      "count": 25.0,
-      "within_1yr_pct": 4.0,
-      "1_3yr_pct": 60.0,
-      "over_3yr_pct": 36.0
+      "count": 25,
+      "within_1yr_pct": 4,
+      "1_3yr_pct": 60,
+      "over_3yr_pct": 36
     },
     {
       "type": "休闲娱乐",
-      "count": 1.0,
-      "within_1yr_pct": 0.0,
-      "1_3yr_pct": 0.0,
-      "over_3yr_pct": 100.0
+      "count": 1,
+      "within_1yr_pct": 0,
+      "1_3yr_pct": 0,
+      "over_3yr_pct": 100
     },
     {
       "type": "酒店住宿",
-      "count": 1.0,
-      "within_1yr_pct": 0.0,
-      "1_3yr_pct": 0.0,
-      "over_3yr_pct": 100.0
+      "count": 1,
+      "within_1yr_pct": 0,
+      "1_3yr_pct": 0,
+      "over_3yr_pct": 100
     },
     {
       "type": "生活服务",
-      "count": 21.0,
+      "count": 21,
       "within_1yr_pct": 38.1,
       "1_3yr_pct": 38.1,
       "over_3yr_pct": 23.8
     },
     {
       "type": "运动健身",
-      "count": 2.0,
-      "within_1yr_pct": 0.0,
-      "1_3yr_pct": 0.0,
-      "over_3yr_pct": 100.0
+      "count": 2,
+      "within_1yr_pct": 0,
+      "1_3yr_pct": 0,
+      "over_3yr_pct": 100
     }
   ],
   "nearby_communities": [

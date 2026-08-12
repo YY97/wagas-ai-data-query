@@ -9,11 +9,11 @@
     "score_rank": "市内前30%",
     "population_score": 62.4,
     "area_score": 67.5,
-    "consumption_score": 60.0,
-    "industry_score": 86.0,
+    "consumption_score": 60,
+    "industry_score": 86,
     "annual_sales": "元祖梦世界是一座亲子类商场，致力于打造儿童一站式亲子成长中心，独特的纯儿童主题商业场馆模式，与丰富的科教娱乐体验模式，让孩子们尽情体会动手造梦的快乐",
     "annual_sales_unit": "-",
-    "area_size_sqm": 15.0,
+    "area_size_sqm": 15,
     "open_date": "2019-12-01",
     "operator": "上海元祖梦果子股份有限公司",
     "brand": "",
@@ -21,15 +21,15 @@
     "floors": "B1-L5"
   },
   "traffic": {
-    "annual_daily": 5178.0,
+    "annual_daily": 5178,
     "annual_daily_unit": "人次",
     "annual_daily_rank": "市内第354",
     "jun_total": 25.7,
     "jun_total_rank": "市内商场第339名",
-    "jun_daily_avg": 8554.0,
+    "jun_daily_avg": 8554,
     "jun_daily_unit": "人次",
     "jun_daily_rank": "市内商场第339名",
-    "weekday_avg": 7399.0,
+    "weekday_avg": 7399,
     "weekday_unit": "人次",
     "weekday_rank": "市内商场第354名",
     "holiday_avg": 1.2,
@@ -38,45 +38,45 @@
   },
   "population": {
     "residential": {
-      "500m": 2100.0,
+      "500m": 2100,
       "1_5km": 2.9,
       "3km": 16.2
     },
     "office": {
-      "500m": 5500.0,
-      "1_5km": 2.0,
+      "500m": 5500,
+      "1_5km": 2,
       "3km": 6.6
     },
     "permanent": {
-      "500m": 3300.0,
+      "500m": 3300,
       "1_5km": 2.9,
       "3km": 14.5
     }
   },
   "business": {
-    "competitors": 1.0,
-    "food": 34.0,
-    "shopping": 47.0,
-    "leisure": 10.0,
-    "education": 29.0,
-    "hotel": 2.0,
-    "services": 33.0,
-    "fitness": 17.0,
-    "auto": 34.0,
-    "total_stores": 85.0,
-    "old_store_3yr_pct": 32.0
+    "competitors": 1,
+    "food": 34,
+    "shopping": 47,
+    "leisure": 10,
+    "education": 29,
+    "hotel": 2,
+    "services": 33,
+    "fitness": 17,
+    "auto": 34,
+    "total_stores": 85,
+    "old_store_3yr_pct": 32
   },
   "nearby_poi": {
-    "business": 3.0,
-    "community": 104.0,
-    "office": 5.0,
-    "school": 5.0,
-    "hospital": 13.0,
-    "transport": 4.0,
-    "scenic": 20.0
+    "business": 3,
+    "community": 104,
+    "office": 5,
+    "school": 5,
+    "hospital": 13,
+    "transport": 4,
+    "scenic": 20
   },
   "demographics": {
-    "male_pct": 63.0,
+    "male_pct": 63,
     "female_pct": null,
     "education": {
       "小学": 10.5,
@@ -85,7 +85,7 @@
       "大专": 8.7,
       "本科": 44.5,
       "硕士": 3.2,
-      "博士": 1.0
+      "博士": 1
     },
     "has_children_pct": 52.4,
     "no_children_pct": 47.6
@@ -322,59 +322,59 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 17.0,
+      "count": 17,
       "within_1yr_pct": 29.4,
       "1_3yr_pct": 35.3,
       "over_3yr_pct": 35.3
     },
     {
       "type": "购物",
-      "count": 17.0,
+      "count": 17,
       "within_1yr_pct": 17.6,
       "1_3yr_pct": 52.9,
       "over_3yr_pct": 29.4
     },
     {
       "type": "休闲娱乐",
-      "count": 9.0,
+      "count": 9,
       "within_1yr_pct": 44.4,
       "1_3yr_pct": 22.2,
       "over_3yr_pct": 33.3
     },
     {
       "type": "教育培训",
-      "count": 17.0,
+      "count": 17,
       "within_1yr_pct": 29.4,
       "1_3yr_pct": 41.2,
       "over_3yr_pct": 29.4
     },
     {
       "type": "酒店住宿",
-      "count": 1.0,
-      "within_1yr_pct": 0.0,
-      "1_3yr_pct": 0.0,
-      "over_3yr_pct": 100.0
+      "count": 1,
+      "within_1yr_pct": 0,
+      "1_3yr_pct": 0,
+      "over_3yr_pct": 100
     },
     {
       "type": "生活服务",
-      "count": 10.0,
-      "within_1yr_pct": 30.0,
-      "1_3yr_pct": 40.0,
-      "over_3yr_pct": 30.0
+      "count": 10,
+      "within_1yr_pct": 30,
+      "1_3yr_pct": 40,
+      "over_3yr_pct": 30
     },
     {
       "type": "运动健身",
-      "count": 12.0,
+      "count": 12,
       "within_1yr_pct": 16.7,
-      "1_3yr_pct": 50.0,
+      "1_3yr_pct": 50,
       "over_3yr_pct": 33.3
     },
     {
       "type": "车辆服务",
-      "count": 2.0,
-      "within_1yr_pct": 0.0,
-      "1_3yr_pct": 100.0,
-      "over_3yr_pct": 0.0
+      "count": 2,
+      "within_1yr_pct": 0,
+      "1_3yr_pct": 100,
+      "over_3yr_pct": 0
     }
   ],
   "nearby_communities": [

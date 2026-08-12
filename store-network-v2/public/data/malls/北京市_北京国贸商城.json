@@ -8,7 +8,7 @@
     "score": 96.3,
     "score_rank": "市内前30%",
     "population_score": 78.4,
-    "area_score": 100.0,
+    "area_score": 100,
     "consumption_score": 79.6,
     "industry_score": 96.4,
     "annual_sales": "国贸商城由美国著名设计公司ARQUITECTONICA担纲整体设计，采用循环式结构布局，展现出流畅的弧型曲线，将国贸中心的庞大建筑群体有机地联系起来。商场内部设计现代、豪华，营造出高端的购物氛围。",
@@ -32,7 +32,7 @@
     "weekday_avg": 13.7,
     "weekday_unit": "万人次",
     "weekday_rank": "市内商场第4名",
-    "holiday_avg": 14.0,
+    "holiday_avg": 14,
     "holiday_unit": "万人次",
     "holiday_rank": "市内商场第9名"
   },
@@ -54,26 +54,26 @@
     }
   },
   "business": {
-    "competitors": 23.0,
-    "food": 375.0,
-    "shopping": 478.0,
-    "leisure": 20.0,
-    "education": 23.0,
-    "hotel": 32.0,
-    "services": 169.0,
-    "fitness": 34.0,
-    "auto": 33.0,
-    "total_stores": 660.0,
-    "old_store_3yr_pct": 60.0
+    "competitors": 23,
+    "food": 375,
+    "shopping": 478,
+    "leisure": 20,
+    "education": 23,
+    "hotel": 32,
+    "services": 169,
+    "fitness": 34,
+    "auto": 33,
+    "total_stores": 660,
+    "old_store_3yr_pct": 60
   },
   "nearby_poi": {
-    "business": 15.0,
-    "community": 478.0,
-    "office": 163.0,
-    "school": 28.0,
-    "hospital": 171.0,
-    "transport": 10.0,
-    "scenic": 275.0
+    "business": 15,
+    "community": 478,
+    "office": 163,
+    "school": 28,
+    "hospital": 171,
+    "transport": 10,
+    "scenic": 275
   },
   "demographics": {
     "male_pct": 52.5,
@@ -428,56 +428,56 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 159.0,
+      "count": 159,
       "within_1yr_pct": 17.6,
-      "1_3yr_pct": 22.0,
+      "1_3yr_pct": 22,
       "over_3yr_pct": 60.4
     },
     {
       "type": "购物",
-      "count": 373.0,
+      "count": 373,
       "within_1yr_pct": 13.4,
       "1_3yr_pct": 25.7,
       "over_3yr_pct": 60.9
     },
     {
       "type": "休闲娱乐",
-      "count": 19.0,
+      "count": 19,
       "within_1yr_pct": 5.3,
       "1_3yr_pct": 47.4,
       "over_3yr_pct": 47.4
     },
     {
       "type": "教育培训",
-      "count": 6.0,
-      "within_1yr_pct": 50.0,
+      "count": 6,
+      "within_1yr_pct": 50,
       "1_3yr_pct": 16.7,
       "over_3yr_pct": 33.3
     },
     {
       "type": "酒店住宿",
-      "count": 19.0,
+      "count": 19,
       "within_1yr_pct": 5.3,
       "1_3yr_pct": 21.1,
       "over_3yr_pct": 73.7
     },
     {
       "type": "生活服务",
-      "count": 62.0,
+      "count": 62,
       "within_1yr_pct": 19.4,
       "1_3yr_pct": 19.4,
       "over_3yr_pct": 61.3
     },
     {
       "type": "运动健身",
-      "count": 11.0,
+      "count": 11,
       "within_1yr_pct": 18.2,
       "1_3yr_pct": 9.1,
       "over_3yr_pct": 72.7
     },
     {
       "type": "车辆服务",
-      "count": 11.0,
+      "count": 11,
       "within_1yr_pct": 18.2,
       "1_3yr_pct": 54.5,
       "over_3yr_pct": 27.3

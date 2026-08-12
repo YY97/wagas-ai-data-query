@@ -10,10 +10,10 @@
     "population_score": 71.2,
     "area_score": 76.8,
     "consumption_score": 73.1,
-    "industry_score": 93.0,
+    "industry_score": 93,
     "annual_sales": "大宁音乐广场是一个集文化、艺术、休闲、娱乐于一体的综合性文化广场，位于上海市静安区万荣路777号，总建筑面积近14.5万平方米",
     "annual_sales_unit": "-",
-    "area_size_sqm": 4.0,
+    "area_size_sqm": 4,
     "open_date": "2016-05-27",
     "operator": "上海大宁资产经营（集团）有限公司",
     "brand": "上海大宁资产经营（集团）有限公司",
@@ -38,42 +38,42 @@
   },
   "population": {
     "residential": {
-      "500m": 8300.0,
+      "500m": 8300,
       "1_5km": 18.4,
       "3km": 99.5
     },
     "office": {
       "500m": 2.5,
-      "1_5km": 14.0,
-      "3km": 54.0
+      "1_5km": 14,
+      "3km": 54
     },
     "permanent": {
       "500m": 1.2,
       "1_5km": 20.1,
-      "3km": 104.0
+      "3km": 104
     }
   },
   "business": {
-    "competitors": 7.0,
-    "food": 228.0,
-    "shopping": 81.0,
-    "leisure": 17.0,
-    "education": 25.0,
-    "hotel": 13.0,
-    "services": 76.0,
-    "fitness": 19.0,
-    "auto": 19.0,
-    "total_stores": 118.0,
-    "old_store_3yr_pct": 62.0
+    "competitors": 7,
+    "food": 228,
+    "shopping": 81,
+    "leisure": 17,
+    "education": 25,
+    "hotel": 13,
+    "services": 76,
+    "fitness": 19,
+    "auto": 19,
+    "total_stores": 118,
+    "old_store_3yr_pct": 62
   },
   "nearby_poi": {
-    "business": 5.0,
-    "community": 557.0,
-    "office": 88.0,
-    "school": 27.0,
-    "hospital": 91.0,
-    "transport": 6.0,
-    "scenic": 123.0
+    "business": 5,
+    "community": 557,
+    "office": 88,
+    "school": 27,
+    "hospital": 91,
+    "transport": 6,
+    "scenic": 123
   },
   "demographics": {
     "male_pct": 48.3,
@@ -84,7 +84,7 @@
       "高中": 11.8,
       "大专": 7.4,
       "本科": 47.4,
-      "硕士": 4.0,
+      "硕士": 4,
       "博士": 1.6
     },
     "has_children_pct": 63.1,
@@ -388,52 +388,52 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 56.0,
+      "count": 56,
       "within_1yr_pct": 19.6,
       "1_3yr_pct": 19.6,
       "over_3yr_pct": 60.7
     },
     {
       "type": "购物",
-      "count": 20.0,
-      "within_1yr_pct": 10.0,
-      "1_3yr_pct": 25.0,
-      "over_3yr_pct": 65.0
+      "count": 20,
+      "within_1yr_pct": 10,
+      "1_3yr_pct": 25,
+      "over_3yr_pct": 65
     },
     {
       "type": "休闲娱乐",
-      "count": 5.0,
-      "within_1yr_pct": 20.0,
-      "1_3yr_pct": 0.0,
-      "over_3yr_pct": 80.0
+      "count": 5,
+      "within_1yr_pct": 20,
+      "1_3yr_pct": 0,
+      "over_3yr_pct": 80
     },
     {
       "type": "教育培训",
-      "count": 11.0,
+      "count": 11,
       "within_1yr_pct": 18.2,
       "1_3yr_pct": 27.3,
       "over_3yr_pct": 54.5
     },
     {
       "type": "生活服务",
-      "count": 16.0,
-      "within_1yr_pct": 25.0,
+      "count": 16,
+      "within_1yr_pct": 25,
       "1_3yr_pct": 12.5,
       "over_3yr_pct": 62.5
     },
     {
       "type": "运动健身",
-      "count": 5.0,
-      "within_1yr_pct": 20.0,
-      "1_3yr_pct": 40.0,
-      "over_3yr_pct": 40.0
+      "count": 5,
+      "within_1yr_pct": 20,
+      "1_3yr_pct": 40,
+      "over_3yr_pct": 40
     },
     {
       "type": "车辆服务",
-      "count": 5.0,
-      "within_1yr_pct": 0.0,
-      "1_3yr_pct": 20.0,
-      "over_3yr_pct": 80.0
+      "count": 5,
+      "within_1yr_pct": 0,
+      "1_3yr_pct": 20,
+      "over_3yr_pct": 80
     }
   ],
   "nearby_communities": [

@@ -10,10 +10,10 @@
     "population_score": 72.9,
     "area_score": 64.7,
     "consumption_score": 71.1,
-    "industry_score": 80.0,
+    "industry_score": 80,
     "annual_sales": "绿地金御广场是一个综合性商业生活广场，主题定位为餐饮娱乐及居家生活购物。位于松江新桥的新南路1号明兴路路口，莘闵别墅区的核心地带，是上海五大别墅集聚地之一",
     "annual_sales_unit": "-",
-    "area_size_sqm": 4.0,
+    "area_size_sqm": 4,
     "open_date": "2012-12-31",
     "operator": "绿地控股集团股份有限公司",
     "brand": "",
@@ -26,13 +26,13 @@
     "annual_daily_rank": "",
     "jun_total": 6.7,
     "jun_total_rank": "市内商场第525名",
-    "jun_daily_avg": 2237.0,
+    "jun_daily_avg": 2237,
     "jun_daily_unit": "人次",
     "jun_daily_rank": "市内商场第525名",
-    "weekday_avg": 2170.0,
+    "weekday_avg": 2170,
     "weekday_unit": "人次",
     "weekday_rank": "市内商场第523名",
-    "holiday_avg": 2426.0,
+    "holiday_avg": 2426,
     "holiday_unit": "人次",
     "holiday_rank": "市内商场第523名"
   },
@@ -43,37 +43,37 @@
       "3km": 31.3
     },
     "office": {
-      "500m": 4000.0,
-      "1_5km": 3.0,
-      "3km": 14.0
+      "500m": 4000,
+      "1_5km": 3,
+      "3km": 14
     },
     "permanent": {
-      "500m": 1.0,
+      "500m": 1,
       "1_5km": 6.8,
       "3km": 27.8
     }
   },
   "business": {
-    "competitors": 1.0,
-    "food": 41.0,
-    "shopping": 32.0,
-    "leisure": 8.0,
-    "education": 13.0,
-    "hotel": 6.0,
-    "services": 46.0,
-    "fitness": 8.0,
-    "auto": 9.0,
-    "total_stores": 60.0,
-    "old_store_3yr_pct": 62.0
+    "competitors": 1,
+    "food": 41,
+    "shopping": 32,
+    "leisure": 8,
+    "education": 13,
+    "hotel": 6,
+    "services": 46,
+    "fitness": 8,
+    "auto": 9,
+    "total_stores": 60,
+    "old_store_3yr_pct": 62
   },
   "nearby_poi": {
-    "business": 2.0,
-    "community": 111.0,
-    "office": 5.0,
-    "school": 14.0,
-    "hospital": 10.0,
-    "transport": 6.0,
-    "scenic": 30.0
+    "business": 2,
+    "community": 111,
+    "office": 5,
+    "school": 14,
+    "hospital": 10,
+    "transport": 6,
+    "scenic": 30
   },
   "demographics": {
     "male_pct": 50.7,
@@ -85,7 +85,7 @@
       "大专": 8.7,
       "本科": 44.8,
       "硕士": 3.4,
-      "博士": 1.0
+      "博士": 1
     },
     "has_children_pct": 68.1,
     "no_children_pct": 31.9
@@ -113,57 +113,57 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 10.0,
-      "within_1yr_pct": 10.0,
-      "1_3yr_pct": 0.0,
-      "over_3yr_pct": 90.0
+      "count": 10,
+      "within_1yr_pct": 10,
+      "1_3yr_pct": 0,
+      "over_3yr_pct": 90
     },
     {
       "type": "购物",
-      "count": 13.0,
-      "within_1yr_pct": 0.0,
+      "count": 13,
+      "within_1yr_pct": 0,
       "1_3yr_pct": 38.5,
       "over_3yr_pct": 61.5
     },
     {
       "type": "休闲娱乐",
-      "count": 3.0,
-      "within_1yr_pct": 100.0,
-      "1_3yr_pct": 0.0,
-      "over_3yr_pct": 0.0
+      "count": 3,
+      "within_1yr_pct": 100,
+      "1_3yr_pct": 0,
+      "over_3yr_pct": 0
     },
     {
       "type": "教育培训",
-      "count": 7.0,
-      "within_1yr_pct": 0.0,
+      "count": 7,
+      "within_1yr_pct": 0,
       "1_3yr_pct": 28.6,
       "over_3yr_pct": 71.4
     },
     {
       "type": "酒店住宿",
-      "count": 2.0,
-      "within_1yr_pct": 0.0,
-      "1_3yr_pct": 50.0,
-      "over_3yr_pct": 50.0
+      "count": 2,
+      "within_1yr_pct": 0,
+      "1_3yr_pct": 50,
+      "over_3yr_pct": 50
     },
     {
       "type": "生活服务",
-      "count": 17.0,
-      "within_1yr_pct": 0.0,
+      "count": 17,
+      "within_1yr_pct": 0,
       "1_3yr_pct": 35.3,
       "over_3yr_pct": 64.7
     },
     {
       "type": "运动健身",
-      "count": 5.0,
-      "within_1yr_pct": 60.0,
-      "1_3yr_pct": 0.0,
-      "over_3yr_pct": 40.0
+      "count": 5,
+      "within_1yr_pct": 60,
+      "1_3yr_pct": 0,
+      "over_3yr_pct": 40
     },
     {
       "type": "车辆服务",
-      "count": 3.0,
-      "within_1yr_pct": 0.0,
+      "count": 3,
+      "within_1yr_pct": 0,
       "1_3yr_pct": 66.7,
       "over_3yr_pct": 33.3
     }

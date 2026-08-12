@@ -8,7 +8,7 @@
     "score": 81.4,
     "score_rank": "市内前30%",
     "population_score": 89.8,
-    "area_score": 100.0,
+    "area_score": 100,
     "consumption_score": 85.9,
     "industry_score": 81.3,
     "annual_sales": "",
@@ -45,7 +45,7 @@
     "office": {
       "500m": 3.4,
       "1_5km": 22.9,
-      "3km": 83.0
+      "3km": 83
     },
     "permanent": {
       "500m": 2.9,
@@ -54,26 +54,26 @@
     }
   },
   "business": {
-    "competitors": 7.0,
-    "food": 269.0,
-    "shopping": 294.0,
-    "leisure": 37.0,
-    "education": 55.0,
-    "hotel": 45.0,
-    "services": 260.0,
-    "fitness": 30.0,
-    "auto": 43.0,
-    "total_stores": 1042.0,
-    "old_store_3yr_pct": 41.0
+    "competitors": 7,
+    "food": 269,
+    "shopping": 294,
+    "leisure": 37,
+    "education": 55,
+    "hotel": 45,
+    "services": 260,
+    "fitness": 30,
+    "auto": 43,
+    "total_stores": 1042,
+    "old_store_3yr_pct": 41
   },
   "nearby_poi": {
-    "business": 10.0,
-    "community": 796.0,
-    "office": 131.0,
-    "school": 65.0,
-    "hospital": 141.0,
-    "transport": 10.0,
-    "scenic": 310.0
+    "business": 10,
+    "community": 796,
+    "office": 131,
+    "school": 65,
+    "hospital": 141,
+    "transport": 10,
+    "scenic": 310
   },
   "demographics": {
     "male_pct": 48.2,
@@ -428,56 +428,56 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 269.0,
+      "count": 269,
       "within_1yr_pct": 33.1,
       "1_3yr_pct": 21.6,
       "over_3yr_pct": 45.4
     },
     {
       "type": "购物",
-      "count": 294.0,
+      "count": 294,
       "within_1yr_pct": 23.8,
-      "1_3yr_pct": 35.0,
+      "1_3yr_pct": 35,
       "over_3yr_pct": 41.2
     },
     {
       "type": "休闲娱乐",
-      "count": 46.0,
+      "count": 46,
       "within_1yr_pct": 32.6,
       "1_3yr_pct": 34.8,
       "over_3yr_pct": 32.6
     },
     {
       "type": "教育培训",
-      "count": 55.0,
-      "within_1yr_pct": 20.0,
+      "count": 55,
+      "within_1yr_pct": 20,
       "1_3yr_pct": 36.4,
       "over_3yr_pct": 43.6
     },
     {
       "type": "酒店住宿",
-      "count": 45.0,
+      "count": 45,
       "within_1yr_pct": 42.2,
       "1_3yr_pct": 24.4,
       "over_3yr_pct": 33.3
     },
     {
       "type": "生活服务",
-      "count": 260.0,
+      "count": 260,
       "within_1yr_pct": 26.9,
       "1_3yr_pct": 32.7,
       "over_3yr_pct": 40.4
     },
     {
       "type": "运动健身",
-      "count": 30.0,
-      "within_1yr_pct": 20.0,
+      "count": 30,
+      "within_1yr_pct": 20,
       "1_3yr_pct": 36.7,
       "over_3yr_pct": 43.3
     },
     {
       "type": "车辆服务",
-      "count": 43.0,
+      "count": 43,
       "within_1yr_pct": 25.6,
       "1_3yr_pct": 34.9,
       "over_3yr_pct": 39.5

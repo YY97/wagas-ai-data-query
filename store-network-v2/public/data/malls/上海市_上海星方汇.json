@@ -9,11 +9,11 @@
     "score_rank": "市内前30%",
     "population_score": 96.7,
     "area_score": 81.5,
-    "consumption_score": 84.0,
+    "consumption_score": 84,
     "industry_score": 78.5,
     "annual_sales": "星方汇广场位于曹家渡核心板块，东沿长寿路，南近万航渡路；建筑模式为商业裙房+两栋双子塔楼。其裙楼原案名为芳汇广场，定位为社区综合商场，初始于2006年开业，2018年被建发集团收购后进行了系统化、有机化的升级改造",
     "annual_sales_unit": "-",
-    "area_size_sqm": 5.0,
+    "area_size_sqm": 5,
     "open_date": "2019-01-01",
     "operator": "厦门建发股份有限公司",
     "brand": "",
@@ -21,18 +21,18 @@
     "floors": "L1-L5"
   },
   "traffic": {
-    "annual_daily": 4438.0,
+    "annual_daily": 4438,
     "annual_daily_unit": "人次",
     "annual_daily_rank": "市内第380",
     "jun_total": 28.4,
     "jun_total_rank": "市内商场第319名",
-    "jun_daily_avg": 9459.0,
+    "jun_daily_avg": 9459,
     "jun_daily_unit": "人次",
     "jun_daily_rank": "市内商场第319名",
-    "weekday_avg": 9168.0,
+    "weekday_avg": 9168,
     "weekday_unit": "人次",
     "weekday_rank": "市内商场第318名",
-    "holiday_avg": 1.0,
+    "holiday_avg": 1,
     "holiday_unit": "万人次",
     "holiday_rank": "市内商场第319名"
   },
@@ -54,26 +54,26 @@
     }
   },
   "business": {
-    "competitors": 6.0,
-    "food": 207.0,
-    "shopping": 117.0,
-    "leisure": 51.0,
-    "education": 36.0,
-    "hotel": 40.0,
-    "services": 201.0,
-    "fitness": 62.0,
-    "auto": 20.0,
-    "total_stores": 128.0,
-    "old_store_3yr_pct": 40.0
+    "competitors": 6,
+    "food": 207,
+    "shopping": 117,
+    "leisure": 51,
+    "education": 36,
+    "hotel": 40,
+    "services": 201,
+    "fitness": 62,
+    "auto": 20,
+    "total_stores": 128,
+    "old_store_3yr_pct": 40
   },
   "nearby_poi": {
-    "business": 14.0,
-    "community": 1112.0,
-    "office": 124.0,
-    "school": 80.0,
-    "hospital": 150.0,
-    "transport": 14.0,
-    "scenic": 534.0
+    "business": 14,
+    "community": 1112,
+    "office": 124,
+    "school": 80,
+    "hospital": 150,
+    "transport": 14,
+    "scenic": 534
   },
   "demographics": {
     "male_pct": 48.2,
@@ -428,49 +428,49 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 20.0,
-      "within_1yr_pct": 40.0,
-      "1_3yr_pct": 20.0,
-      "over_3yr_pct": 40.0
+      "count": 20,
+      "within_1yr_pct": 40,
+      "1_3yr_pct": 20,
+      "over_3yr_pct": 40
     },
     {
       "type": "购物",
-      "count": 11.0,
+      "count": 11,
       "within_1yr_pct": 36.4,
       "1_3yr_pct": 27.3,
       "over_3yr_pct": 36.4
     },
     {
       "type": "休闲娱乐",
-      "count": 19.0,
+      "count": 19,
       "within_1yr_pct": 31.6,
       "1_3yr_pct": 52.6,
       "over_3yr_pct": 15.8
     },
     {
       "type": "教育培训",
-      "count": 6.0,
+      "count": 6,
       "within_1yr_pct": 16.7,
       "1_3yr_pct": 16.7,
       "over_3yr_pct": 66.7
     },
     {
       "type": "酒店住宿",
-      "count": 1.0,
-      "within_1yr_pct": 100.0,
-      "1_3yr_pct": 0.0,
-      "over_3yr_pct": 0.0
+      "count": 1,
+      "within_1yr_pct": 100,
+      "1_3yr_pct": 0,
+      "over_3yr_pct": 0
     },
     {
       "type": "生活服务",
-      "count": 57.0,
+      "count": 57,
       "within_1yr_pct": 28.1,
       "1_3yr_pct": 26.3,
       "over_3yr_pct": 45.6
     },
     {
       "type": "运动健身",
-      "count": 14.0,
+      "count": 14,
       "within_1yr_pct": 28.6,
       "1_3yr_pct": 28.6,
       "over_3yr_pct": 42.9

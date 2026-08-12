@@ -13,7 +13,7 @@
     "industry_score": 96.5,
     "annual_sales": "30",
     "annual_sales_unit": "亿元",
-    "area_size_sqm": 12.0,
+    "area_size_sqm": 12,
     "open_date": "2000-09-01",
     "operator": "北京东方广场有限公司",
     "brand": "长江地产",
@@ -43,40 +43,40 @@
       "3km": 57.1
     },
     "office": {
-      "500m": 4.0,
+      "500m": 4,
       "1_5km": 20.6,
       "3km": 59.8
     },
     "permanent": {
       "500m": 3.1,
       "1_5km": 21.7,
-      "3km": 69.0
+      "3km": 69
     }
   },
   "business": {
-    "competitors": 13.0,
-    "food": 357.0,
-    "shopping": 407.0,
-    "leisure": 23.0,
-    "education": 6.0,
-    "hotel": 39.0,
-    "services": 106.0,
-    "fitness": 18.0,
-    "auto": 16.0,
-    "total_stores": 354.0,
-    "old_store_3yr_pct": 56.0
+    "competitors": 13,
+    "food": 357,
+    "shopping": 407,
+    "leisure": 23,
+    "education": 6,
+    "hotel": 39,
+    "services": 106,
+    "fitness": 18,
+    "auto": 16,
+    "total_stores": 354,
+    "old_store_3yr_pct": 56
   },
   "nearby_poi": {
-    "business": 14.0,
-    "community": 314.0,
-    "office": 83.0,
-    "school": 40.0,
-    "hospital": 119.0,
-    "transport": 10.0,
-    "scenic": 1019.0
+    "business": 14,
+    "community": 314,
+    "office": 83,
+    "school": 40,
+    "hospital": 119,
+    "transport": 10,
+    "scenic": 1019
   },
   "demographics": {
-    "male_pct": 47.0,
+    "male_pct": 47,
     "female_pct": null,
     "education": {
       "小学": 10.4,
@@ -428,59 +428,59 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 110.0,
-      "within_1yr_pct": 20.0,
+      "count": 110,
+      "within_1yr_pct": 20,
       "1_3yr_pct": 22.7,
       "over_3yr_pct": 57.3
     },
     {
       "type": "购物",
-      "count": 154.0,
+      "count": 154,
       "within_1yr_pct": 14.3,
-      "1_3yr_pct": 24.0,
+      "1_3yr_pct": 24,
       "over_3yr_pct": 61.7
     },
     {
       "type": "休闲娱乐",
-      "count": 9.0,
+      "count": 9,
       "within_1yr_pct": 22.2,
       "1_3yr_pct": 33.3,
       "over_3yr_pct": 44.4
     },
     {
       "type": "教育培训",
-      "count": 2.0,
-      "within_1yr_pct": 0.0,
-      "1_3yr_pct": 50.0,
-      "over_3yr_pct": 50.0
+      "count": 2,
+      "within_1yr_pct": 0,
+      "1_3yr_pct": 50,
+      "over_3yr_pct": 50
     },
     {
       "type": "酒店住宿",
-      "count": 12.0,
-      "within_1yr_pct": 25.0,
+      "count": 12,
+      "within_1yr_pct": 25,
       "1_3yr_pct": 16.7,
       "over_3yr_pct": 58.3
     },
     {
       "type": "生活服务",
-      "count": 51.0,
+      "count": 51,
       "within_1yr_pct": 23.5,
       "1_3yr_pct": 33.3,
       "over_3yr_pct": 43.1
     },
     {
       "type": "运动健身",
-      "count": 4.0,
-      "within_1yr_pct": 0.0,
-      "1_3yr_pct": 75.0,
-      "over_3yr_pct": 25.0
+      "count": 4,
+      "within_1yr_pct": 0,
+      "1_3yr_pct": 75,
+      "over_3yr_pct": 25
     },
     {
       "type": "车辆服务",
-      "count": 12.0,
+      "count": 12,
       "within_1yr_pct": 16.7,
       "1_3yr_pct": 33.3,
-      "over_3yr_pct": 50.0
+      "over_3yr_pct": 50
     }
   ],
   "nearby_communities": [

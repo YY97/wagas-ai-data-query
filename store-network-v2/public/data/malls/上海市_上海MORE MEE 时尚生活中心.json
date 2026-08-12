@@ -8,12 +8,12 @@
     "score": 78.7,
     "score_rank": "市内前30%",
     "population_score": 98.8,
-    "area_score": 100.0,
+    "area_score": 100,
     "consumption_score": 80.9,
     "industry_score": 78.5,
     "annual_sales": "MORE MEE时尚生活中心位于浦东八佰伴核心商圈，作为市级核心商圈，也如同徐家汇一样，正进入整个商圈的新一轮改造升级。升级后于2018年12月开业，项目的商业建筑面积约为3万平方米，MORE MEE共有五层，1至2层主打零售，3至5层的定位分别为亲子空间、生活方式、美食天地。主要服务于区域内年轻白领客群，各阶层白领以及年轻家庭。在每个楼层开创性引进“直播”概念，精选线上线下网红品牌。直播、录音棚等",
     "annual_sales_unit": "-",
-    "area_size_sqm": 3.0,
+    "area_size_sqm": 3,
     "open_date": "2018-12-15",
     "operator": "",
     "brand": "",
@@ -24,15 +24,15 @@
     "annual_daily": null,
     "annual_daily_unit": "-",
     "annual_daily_rank": "",
-    "jun_total": 10.0,
+    "jun_total": 10,
     "jun_total_rank": "市内商场第486名",
-    "jun_daily_avg": 3339.0,
+    "jun_daily_avg": 3339,
     "jun_daily_unit": "人次",
     "jun_daily_rank": "市内商场第486名",
-    "weekday_avg": 3582.0,
+    "weekday_avg": 3582,
     "weekday_unit": "人次",
     "weekday_rank": "市内商场第476名",
-    "holiday_avg": 2671.0,
+    "holiday_avg": 2671,
     "holiday_unit": "人次",
     "holiday_rank": "市内商场第514名"
   },
@@ -54,32 +54,32 @@
     }
   },
   "business": {
-    "competitors": 14.0,
-    "food": 595.0,
-    "shopping": 558.0,
-    "leisure": 78.0,
-    "education": 113.0,
-    "hotel": 74.0,
-    "services": 489.0,
-    "fitness": 70.0,
-    "auto": 44.0,
-    "total_stores": 54.0,
-    "old_store_3yr_pct": 59.0
+    "competitors": 14,
+    "food": 595,
+    "shopping": 558,
+    "leisure": 78,
+    "education": 113,
+    "hotel": 74,
+    "services": 489,
+    "fitness": 70,
+    "auto": 44,
+    "total_stores": 54,
+    "old_store_3yr_pct": 59
   },
   "nearby_poi": {
-    "business": 14.0,
-    "community": 437.0,
-    "office": 152.0,
-    "school": 55.0,
-    "hospital": 132.0,
-    "transport": 13.0,
-    "scenic": 493.0
+    "business": 14,
+    "community": 437,
+    "office": 152,
+    "school": 55,
+    "hospital": 132,
+    "transport": 13,
+    "scenic": 493
   },
   "demographics": {
     "male_pct": 50.5,
     "female_pct": null,
     "education": {
-      "小学": 9.0,
+      "小学": 9,
       "初中": 16.4,
       "高中": 10.6,
       "大专": 6.9,
@@ -428,52 +428,52 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 6.0,
-      "within_1yr_pct": 0.0,
+      "count": 6,
+      "within_1yr_pct": 0,
       "1_3yr_pct": 33.3,
       "over_3yr_pct": 66.7
     },
     {
       "type": "购物",
-      "count": 24.0,
+      "count": 24,
       "within_1yr_pct": 8.3,
       "1_3yr_pct": 8.3,
       "over_3yr_pct": 83.3
     },
     {
       "type": "教育培训",
-      "count": 3.0,
-      "within_1yr_pct": 0.0,
-      "1_3yr_pct": 100.0,
-      "over_3yr_pct": 0.0
+      "count": 3,
+      "within_1yr_pct": 0,
+      "1_3yr_pct": 100,
+      "over_3yr_pct": 0
     },
     {
       "type": "酒店住宿",
-      "count": 1.0,
-      "within_1yr_pct": 0.0,
-      "1_3yr_pct": 100.0,
-      "over_3yr_pct": 0.0
+      "count": 1,
+      "within_1yr_pct": 0,
+      "1_3yr_pct": 100,
+      "over_3yr_pct": 0
     },
     {
       "type": "生活服务",
-      "count": 12.0,
+      "count": 12,
       "within_1yr_pct": 33.3,
-      "1_3yr_pct": 25.0,
+      "1_3yr_pct": 25,
       "over_3yr_pct": 41.7
     },
     {
       "type": "运动健身",
-      "count": 4.0,
-      "within_1yr_pct": 25.0,
-      "1_3yr_pct": 75.0,
-      "over_3yr_pct": 0.0
+      "count": 4,
+      "within_1yr_pct": 25,
+      "1_3yr_pct": 75,
+      "over_3yr_pct": 0
     },
     {
       "type": "车辆服务",
-      "count": 4.0,
-      "within_1yr_pct": 25.0,
-      "1_3yr_pct": 0.0,
-      "over_3yr_pct": 75.0
+      "count": 4,
+      "within_1yr_pct": 25,
+      "1_3yr_pct": 0,
+      "over_3yr_pct": 75
     }
   ],
   "nearby_communities": [

@@ -13,7 +13,7 @@
     "industry_score": 76.4,
     "annual_sales": "上海友谊商店位于繁华的普陀区长征镇所属中环商业区的核心地带，坐落在热闹的梅川路时尚休闲特色街上，的百联中环购物广场。商场总建筑面积八千平方米，共有四个经营楼面。拥有一流的硬件设施，为客户提供高雅尊贵的购物体验。一楼名表饰品商场汇聚了劳力士、欧米茄等高端品牌的手表专柜，四楼是收藏品商场，包括古玩藏品、名家字画等。商店秉承高端百货的先进服务理念及管理理念，营业员普遍能用英语、日语接待外宾，并有以市劳模领队的专职导购队伍",
     "annual_sales_unit": "-",
-    "area_size_sqm": 8000.0,
+    "area_size_sqm": 8000,
     "open_date": "2004-01-01",
     "operator": "上海百联集团股份有限公司",
     "brand": "",
@@ -21,26 +21,26 @@
     "floors": "L1-L4"
   },
   "traffic": {
-    "annual_daily": 3479.0,
+    "annual_daily": 3479,
     "annual_daily_unit": "人次",
     "annual_daily_rank": "市内第421",
     "jun_total": 14.8,
     "jun_total_rank": "市内商场第426名",
-    "jun_daily_avg": 4925.0,
+    "jun_daily_avg": 4925,
     "jun_daily_unit": "人次",
     "jun_daily_rank": "市内商场第426名",
-    "weekday_avg": 4908.0,
+    "weekday_avg": 4908,
     "weekday_unit": "人次",
     "weekday_rank": "市内商场第423名",
-    "holiday_avg": 4971.0,
+    "holiday_avg": 4971,
     "holiday_unit": "人次",
     "holiday_rank": "市内商场第439名"
   },
   "population": {
     "residential": {
       "500m": 2.3,
-      "1_5km": 24.0,
-      "3km": 81.0
+      "1_5km": 24,
+      "3km": 81
     },
     "office": {
       "500m": 1.8,
@@ -54,26 +54,26 @@
     }
   },
   "business": {
-    "competitors": 7.0,
-    "food": 252.0,
-    "shopping": 180.0,
-    "leisure": 19.0,
-    "education": 52.0,
-    "hotel": 21.0,
-    "services": 104.0,
-    "fitness": 30.0,
-    "auto": 21.0,
-    "total_stores": 17.0,
-    "old_store_3yr_pct": 41.0
+    "competitors": 7,
+    "food": 252,
+    "shopping": 180,
+    "leisure": 19,
+    "education": 52,
+    "hotel": 21,
+    "services": 104,
+    "fitness": 30,
+    "auto": 21,
+    "total_stores": 17,
+    "old_store_3yr_pct": 41
   },
   "nearby_poi": {
-    "business": 6.0,
-    "community": 353.0,
-    "office": 54.0,
-    "school": 35.0,
-    "hospital": 59.0,
-    "transport": 4.0,
-    "scenic": 164.0
+    "business": 6,
+    "community": 353,
+    "office": 54,
+    "school": 35,
+    "hospital": 59,
+    "transport": 4,
+    "scenic": 164
   },
   "demographics": {
     "male_pct": 46.1,
@@ -83,12 +83,12 @@
       "初中": 16.5,
       "高中": 11.7,
       "大专": 6.8,
-      "本科": 49.0,
+      "本科": 49,
       "硕士": 5.7,
       "博士": 1.7
     },
-    "has_children_pct": 65.0,
-    "no_children_pct": 35.0
+    "has_children_pct": 65,
+    "no_children_pct": 35
   },
   "scraped_at": "2026-07-31T15:50:32.952Z",
   "nearby_restaurants": [
@@ -396,38 +396,38 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 6.0,
+      "count": 6,
       "within_1yr_pct": 16.7,
       "1_3yr_pct": 33.3,
-      "over_3yr_pct": 50.0
+      "over_3yr_pct": 50
     },
     {
       "type": "购物",
-      "count": 5.0,
-      "within_1yr_pct": 40.0,
-      "1_3yr_pct": 20.0,
-      "over_3yr_pct": 40.0
+      "count": 5,
+      "within_1yr_pct": 40,
+      "1_3yr_pct": 20,
+      "over_3yr_pct": 40
     },
     {
       "type": "教育培训",
-      "count": 2.0,
-      "within_1yr_pct": 50.0,
-      "1_3yr_pct": 50.0,
-      "over_3yr_pct": 0.0
+      "count": 2,
+      "within_1yr_pct": 50,
+      "1_3yr_pct": 50,
+      "over_3yr_pct": 0
     },
     {
       "type": "生活服务",
-      "count": 2.0,
-      "within_1yr_pct": 50.0,
-      "1_3yr_pct": 50.0,
-      "over_3yr_pct": 0.0
+      "count": 2,
+      "within_1yr_pct": 50,
+      "1_3yr_pct": 50,
+      "over_3yr_pct": 0
     },
     {
       "type": "运动健身",
-      "count": 2.0,
-      "within_1yr_pct": 0.0,
-      "1_3yr_pct": 0.0,
-      "over_3yr_pct": 100.0
+      "count": 2,
+      "within_1yr_pct": 0,
+      "1_3yr_pct": 0,
+      "over_3yr_pct": 100
     }
   ],
   "nearby_communities": [

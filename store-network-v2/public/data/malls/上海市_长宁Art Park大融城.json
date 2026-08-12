@@ -13,7 +13,7 @@
     "industry_score": 94.7,
     "annual_sales": "上海虹桥中心Art Park大融城位于长宁区淞虹路377号，隶属于虹桥临空商圈，是轨道交通2号线淞虹路站和26号线（规划）上盖项目以“品质点亮生活”的理念打造一座将艺术、品质与商业有机兼容的综合体，致力于打造一座艺术、品质与商业有机兼容的综合体，填补了临空商圈缺乏现代化综合型商业体的空白，为西上海客群带来体验式消费新惊喜",
     "annual_sales_unit": "-",
-    "area_size_sqm": 6.0,
+    "area_size_sqm": 6,
     "open_date": "2021-12-31",
     "operator": "光大安石（北京）资产管理有限公司",
     "brand": "",
@@ -29,7 +29,7 @@
     "jun_daily_avg": 2.9,
     "jun_daily_unit": "万人次",
     "jun_daily_rank": "市内商场第138名",
-    "weekday_avg": 3.0,
+    "weekday_avg": 3,
     "weekday_unit": "万人次",
     "weekday_rank": "市内商场第127名",
     "holiday_avg": 2.9,
@@ -50,30 +50,30 @@
     "permanent": {
       "500m": 2.5,
       "1_5km": 19.1,
-      "3km": 49.0
+      "3km": 49
     }
   },
   "business": {
-    "competitors": 11.0,
-    "food": 250.0,
-    "shopping": 139.0,
-    "leisure": 7.0,
-    "education": 17.0,
-    "hotel": 11.0,
-    "services": 119.0,
-    "fitness": 31.0,
-    "auto": 16.0,
-    "total_stores": 193.0,
-    "old_store_3yr_pct": 49.0
+    "competitors": 11,
+    "food": 250,
+    "shopping": 139,
+    "leisure": 7,
+    "education": 17,
+    "hotel": 11,
+    "services": 119,
+    "fitness": 31,
+    "auto": 16,
+    "total_stores": 193,
+    "old_store_3yr_pct": 49
   },
   "nearby_poi": {
-    "business": 6.0,
-    "community": 301.0,
-    "office": 68.0,
-    "school": 28.0,
-    "hospital": 50.0,
-    "transport": 14.0,
-    "scenic": 169.0
+    "business": 6,
+    "community": 301,
+    "office": 68,
+    "school": 28,
+    "hospital": 50,
+    "transport": 14,
+    "scenic": 169
   },
   "demographics": {
     "male_pct": 48.8,
@@ -396,56 +396,56 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 89.0,
+      "count": 89,
       "within_1yr_pct": 20.2,
       "1_3yr_pct": 29.2,
       "over_3yr_pct": 50.6
     },
     {
       "type": "购物",
-      "count": 49.0,
+      "count": 49,
       "within_1yr_pct": 20.4,
       "1_3yr_pct": 30.6,
-      "over_3yr_pct": 49.0
+      "over_3yr_pct": 49
     },
     {
       "type": "休闲娱乐",
-      "count": 4.0,
-      "within_1yr_pct": 50.0,
-      "1_3yr_pct": 25.0,
-      "over_3yr_pct": 25.0
+      "count": 4,
+      "within_1yr_pct": 50,
+      "1_3yr_pct": 25,
+      "over_3yr_pct": 25
     },
     {
       "type": "教育培训",
-      "count": 9.0,
-      "within_1yr_pct": 0.0,
+      "count": 9,
+      "within_1yr_pct": 0,
       "1_3yr_pct": 44.4,
       "over_3yr_pct": 55.6
     },
     {
       "type": "酒店住宿",
-      "count": 1.0,
-      "within_1yr_pct": 0.0,
-      "1_3yr_pct": 0.0,
-      "over_3yr_pct": 100.0
+      "count": 1,
+      "within_1yr_pct": 0,
+      "1_3yr_pct": 0,
+      "over_3yr_pct": 100
     },
     {
       "type": "生活服务",
-      "count": 20.0,
-      "within_1yr_pct": 25.0,
-      "1_3yr_pct": 35.0,
-      "over_3yr_pct": 40.0
+      "count": 20,
+      "within_1yr_pct": 25,
+      "1_3yr_pct": 35,
+      "over_3yr_pct": 40
     },
     {
       "type": "运动健身",
-      "count": 15.0,
+      "count": 15,
       "within_1yr_pct": 13.3,
       "1_3yr_pct": 46.7,
-      "over_3yr_pct": 40.0
+      "over_3yr_pct": 40
     },
     {
       "type": "车辆服务",
-      "count": 6.0,
+      "count": 6,
       "within_1yr_pct": 16.7,
       "1_3yr_pct": 16.7,
       "over_3yr_pct": 66.7

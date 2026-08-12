@@ -9,7 +9,7 @@
     "score_rank": "市内前50%",
     "population_score": 70.8,
     "area_score": 64.8,
-    "consumption_score": 62.0,
+    "consumption_score": 62,
     "industry_score": 74.3,
     "annual_sales": "荣创时代购物中心（陈宝路店）位于上海市嘉定区，提供购物和休闲选择，品牌和市区的相似，有些商品价格可能更优惠",
     "annual_sales_unit": "-",
@@ -38,42 +38,42 @@
   },
   "population": {
     "residential": {
-      "500m": 8900.0,
+      "500m": 8900,
       "1_5km": 4.6,
-      "3km": 18.0
+      "3km": 18
     },
     "office": {
-      "500m": 4700.0,
+      "500m": 4700,
       "1_5km": 2.4,
       "3km": 9.3
     },
     "permanent": {
-      "500m": 7500.0,
+      "500m": 7500,
       "1_5km": 3.9,
       "3km": 15.3
     }
   },
   "business": {
     "competitors": null,
-    "food": 28.0,
-    "shopping": 20.0,
-    "leisure": 2.0,
+    "food": 28,
+    "shopping": 20,
+    "leisure": 2,
     "education": null,
-    "hotel": 4.0,
-    "services": 24.0,
-    "fitness": 4.0,
-    "auto": 48.0,
-    "total_stores": 19.0,
-    "old_store_3yr_pct": 58.0
+    "hotel": 4,
+    "services": 24,
+    "fitness": 4,
+    "auto": 48,
+    "total_stores": 19,
+    "old_store_3yr_pct": 58
   },
   "nearby_poi": {
     "business": null,
-    "community": 48.0,
-    "office": 5.0,
-    "school": 2.0,
-    "hospital": 6.0,
-    "transport": 5.0,
-    "scenic": 14.0
+    "community": 48,
+    "office": 5,
+    "school": 2,
+    "hospital": 6,
+    "transport": 5,
+    "scenic": 14
   },
   "demographics": {
     "male_pct": 53.3,
@@ -83,9 +83,9 @@
       "初中": 19.1,
       "高中": 11.7,
       "大专": 9.2,
-      "本科": 45.0,
+      "本科": 45,
       "硕士": 3.9,
-      "博士": 1.0
+      "博士": 1
     },
     "has_children_pct": 54.5,
     "no_children_pct": 45.5
@@ -146,31 +146,31 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 13.0,
+      "count": 13,
       "within_1yr_pct": 23.1,
       "1_3yr_pct": 30.8,
       "over_3yr_pct": 46.2
     },
     {
       "type": "购物",
-      "count": 3.0,
-      "within_1yr_pct": 0.0,
-      "1_3yr_pct": 0.0,
-      "over_3yr_pct": 100.0
+      "count": 3,
+      "within_1yr_pct": 0,
+      "1_3yr_pct": 0,
+      "over_3yr_pct": 100
     },
     {
       "type": "生活服务",
-      "count": 1.0,
-      "within_1yr_pct": 0.0,
-      "1_3yr_pct": 0.0,
-      "over_3yr_pct": 100.0
+      "count": 1,
+      "within_1yr_pct": 0,
+      "1_3yr_pct": 0,
+      "over_3yr_pct": 100
     },
     {
       "type": "运动健身",
-      "count": 2.0,
-      "within_1yr_pct": 0.0,
-      "1_3yr_pct": 50.0,
-      "over_3yr_pct": 50.0
+      "count": 2,
+      "within_1yr_pct": 0,
+      "1_3yr_pct": 50,
+      "over_3yr_pct": 50
     }
   ],
   "nearby_communities": [

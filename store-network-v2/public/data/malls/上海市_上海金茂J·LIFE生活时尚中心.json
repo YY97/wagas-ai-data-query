@@ -38,14 +38,14 @@
   },
   "population": {
     "residential": {
-      "500m": 6500.0,
+      "500m": 6500,
       "1_5km": 11.5,
       "3km": 70.5
     },
     "office": {
       "500m": 7.5,
-      "1_5km": 29.0,
-      "3km": 101.0
+      "1_5km": 29,
+      "3km": 101
     },
     "permanent": {
       "500m": 3.1,
@@ -54,35 +54,35 @@
     }
   },
   "business": {
-    "competitors": 21.0,
-    "food": 310.0,
-    "shopping": 251.0,
-    "leisure": 12.0,
-    "education": 5.0,
-    "hotel": 22.0,
-    "services": 112.0,
-    "fitness": 22.0,
-    "auto": 32.0,
-    "total_stores": 22.0,
-    "old_store_3yr_pct": 64.0
+    "competitors": 21,
+    "food": 310,
+    "shopping": 251,
+    "leisure": 12,
+    "education": 5,
+    "hotel": 22,
+    "services": 112,
+    "fitness": 22,
+    "auto": 32,
+    "total_stores": 22,
+    "old_store_3yr_pct": 64
   },
   "nearby_poi": {
-    "business": 18.0,
-    "community": 619.0,
-    "office": 136.0,
-    "school": 23.0,
-    "hospital": 151.0,
-    "transport": 19.0,
-    "scenic": 729.0
+    "business": 18,
+    "community": 619,
+    "office": 136,
+    "school": 23,
+    "hospital": 151,
+    "transport": 19,
+    "scenic": 729
   },
   "demographics": {
     "male_pct": 47.4,
     "female_pct": null,
     "education": {
-      "小学": 10.0,
+      "小学": 10,
       "初中": 18.3,
       "高中": 11.4,
-      "大专": 8.0,
+      "大专": 8,
       "本科": 46.3,
       "硕士": 4.6,
       "博士": 1.4
@@ -428,21 +428,21 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 12.0,
+      "count": 12,
       "within_1yr_pct": 8.3,
-      "1_3yr_pct": 25.0,
+      "1_3yr_pct": 25,
       "over_3yr_pct": 66.7
     },
     {
       "type": "购物",
-      "count": 3.0,
-      "within_1yr_pct": 0.0,
+      "count": 3,
+      "within_1yr_pct": 0,
       "1_3yr_pct": 33.3,
       "over_3yr_pct": 66.7
     },
     {
       "type": "生活服务",
-      "count": 7.0,
+      "count": 7,
       "within_1yr_pct": 14.3,
       "1_3yr_pct": 28.6,
       "over_3yr_pct": 57.1

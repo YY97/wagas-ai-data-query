@@ -9,11 +9,11 @@
     "score_rank": "",
     "population_score": 85.4,
     "area_score": 65.1,
-    "consumption_score": 74.0,
+    "consumption_score": 74,
     "industry_score": 68.5,
     "annual_sales": "燕欣商业京原街区位于北京市石景山区景阳东街东侧，是燕保·京原家园项目的配套商业设施。该项目由北京燕欣商业经营管理有限公司负责运营管理，总商业面积约为2779平方米。街区主要服务于周边公租房租户，已签约业态包括烟酒、洗衣、水果、药店及餐饮等",
     "annual_sales_unit": "-",
-    "area_size_sqm": 2800.0,
+    "area_size_sqm": 2800,
     "open_date": "",
     "operator": "北京燕欣商业经营管理有限公司",
     "brand": "",
@@ -40,10 +40,10 @@
     "residential": {
       "500m": 1.7,
       "1_5km": 11.4,
-      "3km": 39.0
+      "3km": 39
     },
     "office": {
-      "500m": 8300.0,
+      "500m": 8300,
       "1_5km": 5.3,
       "3km": 19.4
     },
@@ -55,25 +55,25 @@
   },
   "business": {
     "competitors": null,
-    "food": 23.0,
-    "shopping": 13.0,
-    "leisure": 5.0,
-    "education": 2.0,
-    "hotel": 4.0,
-    "services": 24.0,
-    "fitness": 5.0,
-    "auto": 4.0,
-    "total_stores": 12.0,
-    "old_store_3yr_pct": 75.0
+    "food": 23,
+    "shopping": 13,
+    "leisure": 5,
+    "education": 2,
+    "hotel": 4,
+    "services": 24,
+    "fitness": 5,
+    "auto": 4,
+    "total_stores": 12,
+    "old_store_3yr_pct": 75
   },
   "nearby_poi": {
-    "business": 1.0,
-    "community": 179.0,
-    "office": 32.0,
-    "school": 19.0,
-    "hospital": 47.0,
-    "transport": 9.0,
-    "scenic": 237.0
+    "business": 1,
+    "community": 179,
+    "office": 32,
+    "school": 19,
+    "hospital": 47,
+    "transport": 9,
+    "scenic": 237
   },
   "demographics": {
     "male_pct": 46.9,
@@ -256,24 +256,24 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 5.0,
-      "within_1yr_pct": 0.0,
-      "1_3yr_pct": 20.0,
-      "over_3yr_pct": 80.0
+      "count": 5,
+      "within_1yr_pct": 0,
+      "1_3yr_pct": 20,
+      "over_3yr_pct": 80
     },
     {
       "type": "购物",
-      "count": 2.0,
-      "within_1yr_pct": 50.0,
-      "1_3yr_pct": 0.0,
-      "over_3yr_pct": 50.0
+      "count": 2,
+      "within_1yr_pct": 50,
+      "1_3yr_pct": 0,
+      "over_3yr_pct": 50
     },
     {
       "type": "生活服务",
-      "count": 5.0,
-      "within_1yr_pct": 20.0,
-      "1_3yr_pct": 0.0,
-      "over_3yr_pct": 80.0
+      "count": 5,
+      "within_1yr_pct": 20,
+      "1_3yr_pct": 0,
+      "over_3yr_pct": 80
     }
   ],
   "nearby_communities": [
