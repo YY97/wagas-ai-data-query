@@ -229,21 +229,6 @@ export default function MallDetailPanel({
           </div>
         )}
 
-        {/* Nearby POI */}
-        <div style={{ ...sectionBase, background: '#f0fdf4', borderLeft: '3px solid #059669', marginTop: '8px' }}>
-          <div style={{ fontWeight: 700, color: '#047857', marginBottom: '4px' }}>周边POI</div>
-          <div style={{ display: 'flex', flexWrap: 'wrap', gap: '3px', fontSize: '10px' }}>
-            {Object.entries(mall.nearby_poi).filter(([,v]) => v != null).map(([k,v]) => (
-              <div key={k} style={{
-                background: '#d1fae5', color: '#065f46', padding: '1px 6px',
-                borderRadius: '3px', fontWeight: 600,
-              }}>
-                {k}: {v}
-              </div>
-            ))}
-          </div>
-        </div>
-
         {/* 周边小区明细 */}
         {mall.nearby_communities && mall.nearby_communities.length > 0 && (
           <div style={{ ...sectionBase, background: '#fef2f2', borderLeft: '3px solid #dc2626', marginTop: '8px' }}>
