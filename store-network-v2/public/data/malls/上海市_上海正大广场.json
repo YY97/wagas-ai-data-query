@@ -10,7 +10,7 @@
     "population_score": 65.1,
     "area_score": 83.6,
     "consumption_score": 99.3,
-    "industry_score": 96,
+    "industry_score": 96.0,
     "annual_sales": "上海正大广场是正大集团在中国最大的投资项目之一，集零售购物、餐饮、娱乐、配套服务、停车为一体的大型国际化都会购物中心，定位于多功能生活场所。",
     "annual_sales_unit": "-",
     "area_size_sqm": 24.3,
@@ -38,14 +38,14 @@
   },
   "population": {
     "residential": {
-      "500m": 4300,
+      "500m": 4300.0,
       "1_5km": 8.4,
       "3km": 72.7
     },
     "office": {
       "500m": 4.3,
-      "1_5km": 32,
-      "3km": 105
+      "1_5km": 32.0,
+      "3km": 105.0
     },
     "permanent": {
       "500m": 2.3,
@@ -54,35 +54,35 @@
     }
   },
   "business": {
-    "competitors": 17,
-    "food": 281,
-    "shopping": 313,
-    "leisure": 26,
-    "education": 8,
-    "hotel": 17,
-    "services": 74,
-    "fitness": 15,
-    "auto": 22,
-    "total_stores": 251,
-    "old_store_3yr_pct": 45
+    "competitors": 17.0,
+    "food": 281.0,
+    "shopping": 313.0,
+    "leisure": 26.0,
+    "education": 8.0,
+    "hotel": 17.0,
+    "services": 74.0,
+    "fitness": 15.0,
+    "auto": 22.0,
+    "total_stores": 251.0,
+    "old_store_3yr_pct": 45.0
   },
   "nearby_poi": {
-    "business": 20,
-    "community": 669,
-    "office": 192,
-    "school": 18,
-    "hospital": 157,
-    "transport": 12,
-    "scenic": 769
+    "business": 20.0,
+    "community": 669.0,
+    "office": 192.0,
+    "school": 18.0,
+    "hospital": 157.0,
+    "transport": 12.0,
+    "scenic": 769.0
   },
   "demographics": {
     "male_pct": 47.7,
     "female_pct": null,
     "education": {
-      "小学": 10,
+      "小学": 10.0,
       "初中": 18.4,
       "高中": 11.4,
-      "大专": 8,
+      "大专": 8.0,
       "本科": 46.2,
       "硕士": 4.6,
       "博士": 1.4
@@ -428,59 +428,59 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 109,
-      "within_1yr_pct": 22,
+      "count": 109.0,
+      "within_1yr_pct": 22.0,
       "1_3yr_pct": 31.2,
       "over_3yr_pct": 46.8
     },
     {
       "type": "购物",
-      "count": 91,
-      "within_1yr_pct": 22,
+      "count": 91.0,
+      "within_1yr_pct": 22.0,
       "1_3yr_pct": 37.4,
       "over_3yr_pct": 40.7
     },
     {
       "type": "休闲娱乐",
-      "count": 18,
+      "count": 18.0,
       "within_1yr_pct": 33.3,
       "1_3yr_pct": 44.4,
       "over_3yr_pct": 22.2
     },
     {
       "type": "教育培训",
-      "count": 1,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 100,
-      "over_3yr_pct": 0
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
     },
     {
       "type": "酒店住宿",
-      "count": 1,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 100,
-      "over_3yr_pct": 0
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
     },
     {
       "type": "生活服务",
-      "count": 24,
+      "count": 24.0,
       "within_1yr_pct": 16.7,
       "1_3yr_pct": 12.5,
       "over_3yr_pct": 70.8
     },
     {
       "type": "运动健身",
-      "count": 3,
+      "count": 3.0,
       "within_1yr_pct": 33.3,
       "1_3yr_pct": 33.3,
       "over_3yr_pct": 33.3
     },
     {
       "type": "车辆服务",
-      "count": 4,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 50,
-      "over_3yr_pct": 50
+      "count": 4.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 50.0
     }
   ],
   "nearby_communities": [

@@ -5,15 +5,15 @@
   "lat": 30.898453,
   "lng": 121.328536,
   "overview": {
-    "score": 84,
+    "score": 84.0,
     "score_rank": "市内前30%",
-    "population_score": 80,
+    "population_score": 80.0,
     "area_score": 70.1,
     "consumption_score": 61.3,
     "industry_score": 84.1,
     "annual_sales": "上海亭林大名悦广场是一个集商业、文娱、教育等于一体的“居住区商业中心”，总建筑面积约3万平方米，旨在为周边居民提供便捷、多元化的社区商业服务",
     "annual_sales_unit": "-",
-    "area_size_sqm": 3,
+    "area_size_sqm": 3.0,
     "open_date": "2022-01-30",
     "operator": "上海新金山投资控股集团有限公司",
     "brand": "",
@@ -21,7 +21,7 @@
     "floors": "B1-L5"
   },
   "traffic": {
-    "annual_daily": 4849,
+    "annual_daily": 4849.0,
     "annual_daily_unit": "人次",
     "annual_daily_rank": "市内第365",
     "jun_total": 33.6,
@@ -29,7 +29,7 @@
     "jun_daily_avg": 1.1,
     "jun_daily_unit": "万人次",
     "jun_daily_rank": "市内商场第285名",
-    "weekday_avg": 1,
+    "weekday_avg": 1.0,
     "weekday_unit": "万人次",
     "weekday_rank": "市内商场第290名",
     "holiday_avg": 1.4,
@@ -43,7 +43,7 @@
       "3km": 9.8
     },
     "office": {
-      "500m": 4600,
+      "500m": 4600.0,
       "1_5km": 1.1,
       "3km": 4.9
     },
@@ -54,26 +54,26 @@
     }
   },
   "business": {
-    "competitors": 3,
-    "food": 131,
-    "shopping": 71,
-    "leisure": 10,
-    "education": 6,
-    "hotel": 2,
-    "services": 73,
-    "fitness": 5,
-    "auto": 14,
-    "total_stores": 29,
-    "old_store_3yr_pct": 31
+    "competitors": 3.0,
+    "food": 131.0,
+    "shopping": 71.0,
+    "leisure": 10.0,
+    "education": 6.0,
+    "hotel": 2.0,
+    "services": 73.0,
+    "fitness": 5.0,
+    "auto": 14.0,
+    "total_stores": 29.0,
+    "old_store_3yr_pct": 31.0
   },
   "nearby_poi": {
     "business": null,
-    "community": 28,
-    "office": 2,
-    "school": 4,
-    "hospital": 8,
-    "transport": 10,
-    "scenic": 15
+    "community": 28.0,
+    "office": 2.0,
+    "school": 4.0,
+    "hospital": 8.0,
+    "transport": 10.0,
+    "scenic": 15.0
   },
   "demographics": {
     "male_pct": null,
@@ -96,45 +96,45 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 11,
+      "count": 11.0,
       "within_1yr_pct": 18.2,
       "1_3yr_pct": 36.4,
       "over_3yr_pct": 45.5
     },
     {
       "type": "购物",
-      "count": 8,
-      "within_1yr_pct": 25,
+      "count": 8.0,
+      "within_1yr_pct": 25.0,
       "1_3yr_pct": 37.5,
       "over_3yr_pct": 37.5
     },
     {
       "type": "休闲娱乐",
-      "count": 3,
+      "count": 3.0,
       "within_1yr_pct": 66.7,
-      "1_3yr_pct": 0,
+      "1_3yr_pct": 0.0,
       "over_3yr_pct": 33.3
     },
     {
       "type": "教育培训",
-      "count": 3,
+      "count": 3.0,
       "within_1yr_pct": 33.3,
       "1_3yr_pct": 66.7,
-      "over_3yr_pct": 0
+      "over_3yr_pct": 0.0
     },
     {
       "type": "生活服务",
-      "count": 3,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 100,
-      "over_3yr_pct": 0
+      "count": 3.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
     },
     {
       "type": "运动健身",
-      "count": 1,
-      "within_1yr_pct": 100,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 0
+      "count": 1.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
     }
   ],
   "nearby_communities": [

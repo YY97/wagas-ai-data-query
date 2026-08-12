@@ -13,7 +13,7 @@
     "industry_score": 96.1,
     "annual_sales": "瑞虹天地太阳宫定位“品质生活力中心”，集艺术、文化、自然、生活美学为一体，打造北上海生活力中心。拥有18万平方米超大商业体量，汇聚30%上海首店、40%北上海首店、70%虹口首店",
     "annual_sales_unit": "-",
-    "area_size_sqm": 18,
+    "area_size_sqm": 18.0,
     "open_date": "2021-09-19",
     "operator": "瑞安新天地有限公司",
     "brand": "瑞安房地产",
@@ -54,26 +54,26 @@
     }
   },
   "business": {
-    "competitors": 14,
-    "food": 386,
-    "shopping": 342,
-    "leisure": 46,
-    "education": 50,
-    "hotel": 12,
-    "services": 238,
-    "fitness": 55,
-    "auto": 25,
-    "total_stores": 399,
-    "old_store_3yr_pct": 50
+    "competitors": 14.0,
+    "food": 386.0,
+    "shopping": 342.0,
+    "leisure": 46.0,
+    "education": 50.0,
+    "hotel": 12.0,
+    "services": 238.0,
+    "fitness": 55.0,
+    "auto": 25.0,
+    "total_stores": 399.0,
+    "old_store_3yr_pct": 50.0
   },
   "nearby_poi": {
-    "business": 10,
-    "community": 839,
-    "office": 125,
-    "school": 62,
-    "hospital": 110,
-    "transport": 18,
-    "scenic": 464
+    "business": 10.0,
+    "community": 839.0,
+    "office": 125.0,
+    "school": 62.0,
+    "hospital": 110.0,
+    "transport": 18.0,
+    "scenic": 464.0
   },
   "demographics": {
     "male_pct": 48.1,
@@ -82,7 +82,7 @@
       "小学": 9.2,
       "初中": 18.4,
       "高中": 12.4,
-      "大专": 7,
+      "大专": 7.0,
       "本科": 46.6,
       "硕士": 4.7,
       "博士": 1.7
@@ -428,59 +428,59 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 165,
+      "count": 165.0,
       "within_1yr_pct": 13.9,
       "1_3yr_pct": 32.7,
       "over_3yr_pct": 53.3
     },
     {
       "type": "购物",
-      "count": 155,
+      "count": 155.0,
       "within_1yr_pct": 27.7,
       "1_3yr_pct": 23.2,
-      "over_3yr_pct": 49
+      "over_3yr_pct": 49.0
     },
     {
       "type": "休闲娱乐",
-      "count": 24,
-      "within_1yr_pct": 25,
+      "count": 24.0,
+      "within_1yr_pct": 25.0,
       "1_3yr_pct": 33.3,
       "over_3yr_pct": 41.7
     },
     {
       "type": "教育培训",
-      "count": 4,
-      "within_1yr_pct": 25,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 75
+      "count": 4.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 75.0
     },
     {
       "type": "酒店住宿",
-      "count": 2,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 50,
-      "over_3yr_pct": 50
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 50.0
     },
     {
       "type": "生活服务",
-      "count": 31,
+      "count": 31.0,
       "within_1yr_pct": 22.6,
       "1_3yr_pct": 32.3,
       "over_3yr_pct": 45.2
     },
     {
       "type": "运动健身",
-      "count": 8,
+      "count": 8.0,
       "within_1yr_pct": 12.5,
       "1_3yr_pct": 37.5,
-      "over_3yr_pct": 50
+      "over_3yr_pct": 50.0
     },
     {
       "type": "车辆服务",
-      "count": 10,
-      "within_1yr_pct": 30,
-      "1_3yr_pct": 50,
-      "over_3yr_pct": 20
+      "count": 10.0,
+      "within_1yr_pct": 30.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 20.0
     }
   ],
   "nearby_communities": [

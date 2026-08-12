@@ -9,8 +9,8 @@
     "score_rank": "市内前30%",
     "population_score": 76.8,
     "area_score": 76.3,
-    "consumption_score": 78,
-    "industry_score": 93,
+    "consumption_score": 78.0,
+    "industry_score": 93.0,
     "annual_sales": "上海宝龙·旭辉广场位于上海市杨浦区的核心地带，是长阳路创新街区的标杆项目之一。该项目距地铁12号线隆昌路站步行10分钟，周边常驻人口约60万，紧临同济大学等多个高等院校的同时，还汇聚了城市概念创意园、复旦软件园、长阳创谷等众多办公项目。宝龙·旭辉广场综合体包含高层办公楼宇和商业街区，其中办公面积约10万平方米，商业面积4.2万平方米左右。项目围绕“漫步轻生活”主题，秉承“城市综合”理念，以林荫、花廊、喷泉、光影等元素筑就“打工人”的“休憩公园”，项目强调人、建筑、生活与自然的和谐共生，为城市居民带来绿色的生活方式和消费空间",
     "annual_sales_unit": "-",
     "area_size_sqm": 4.2,
@@ -39,7 +39,7 @@
   "population": {
     "residential": {
       "500m": 1.4,
-      "1_5km": 29,
+      "1_5km": 29.0,
       "3km": 86.4
     },
     "office": {
@@ -54,26 +54,26 @@
     }
   },
   "business": {
-    "competitors": 6,
-    "food": 219,
-    "shopping": 70,
-    "leisure": 20,
-    "education": 27,
-    "hotel": 15,
-    "services": 83,
-    "fitness": 33,
-    "auto": 32,
-    "total_stores": 128,
-    "old_store_3yr_pct": 42
+    "competitors": 6.0,
+    "food": 219.0,
+    "shopping": 70.0,
+    "leisure": 20.0,
+    "education": 27.0,
+    "hotel": 15.0,
+    "services": 83.0,
+    "fitness": 33.0,
+    "auto": 32.0,
+    "total_stores": 128.0,
+    "old_store_3yr_pct": 42.0
   },
   "nearby_poi": {
-    "business": 4,
-    "community": 556,
-    "office": 47,
-    "school": 60,
-    "hospital": 61,
-    "transport": 16,
-    "scenic": 152
+    "business": 4.0,
+    "community": 556.0,
+    "office": 47.0,
+    "school": 60.0,
+    "hospital": 61.0,
+    "transport": 16.0,
+    "scenic": 152.0
   },
   "demographics": {
     "male_pct": 45.5,
@@ -380,52 +380,52 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 80,
+      "count": 80.0,
       "within_1yr_pct": 23.8,
       "1_3yr_pct": 32.5,
       "over_3yr_pct": 43.8
     },
     {
       "type": "购物",
-      "count": 16,
+      "count": 16.0,
       "within_1yr_pct": 37.5,
       "1_3yr_pct": 12.5,
-      "over_3yr_pct": 50
+      "over_3yr_pct": 50.0
     },
     {
       "type": "休闲娱乐",
-      "count": 4,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 75,
-      "over_3yr_pct": 25
+      "count": 4.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 75.0,
+      "over_3yr_pct": 25.0
     },
     {
       "type": "教育培训",
-      "count": 4,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 25,
-      "over_3yr_pct": 75
+      "count": 4.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 75.0
     },
     {
       "type": "生活服务",
-      "count": 16,
+      "count": 16.0,
       "within_1yr_pct": 31.3,
       "1_3yr_pct": 43.8,
-      "over_3yr_pct": 25
+      "over_3yr_pct": 25.0
     },
     {
       "type": "运动健身",
-      "count": 6,
+      "count": 6.0,
       "within_1yr_pct": 16.7,
-      "1_3yr_pct": 50,
+      "1_3yr_pct": 50.0,
       "over_3yr_pct": 33.3
     },
     {
       "type": "车辆服务",
-      "count": 2,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 50,
-      "over_3yr_pct": 50
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 50.0
     }
   ],
   "nearby_communities": [

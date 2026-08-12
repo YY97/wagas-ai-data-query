@@ -8,7 +8,7 @@
     "score": 93.2,
     "score_rank": "市内前30%",
     "population_score": 98.7,
-    "area_score": 100,
+    "area_score": 100.0,
     "consumption_score": 82.4,
     "industry_score": 93.2,
     "annual_sales": "华润时代广场始建于1993年，坐落在上海浦东陆家嘴核心地段，开创了上海的购物中心时代。2019年12月，焕然一新的华润时代广场重装开业，由日本新锐设计师佐藤大（Nendo）主导设计，设计方案围绕“美丽剧院”核心理念，将经典的剧院元素贯穿在建筑物内外，让购物中心升格为艺术生活空间",
@@ -50,36 +50,36 @@
     "permanent": {
       "500m": 5.2,
       "1_5km": 29.8,
-      "3km": 78
+      "3km": 78.0
     }
   },
   "business": {
-    "competitors": 16,
-    "food": 600,
-    "shopping": 589,
-    "leisure": 67,
-    "education": 105,
-    "hotel": 73,
-    "services": 512,
-    "fitness": 71,
-    "auto": 39,
-    "total_stores": 131,
-    "old_store_3yr_pct": 47
+    "competitors": 16.0,
+    "food": 600.0,
+    "shopping": 589.0,
+    "leisure": 67.0,
+    "education": 105.0,
+    "hotel": 73.0,
+    "services": 512.0,
+    "fitness": 71.0,
+    "auto": 39.0,
+    "total_stores": 131.0,
+    "old_store_3yr_pct": 47.0
   },
   "nearby_poi": {
-    "business": 15,
-    "community": 448,
-    "office": 156,
-    "school": 49,
-    "hospital": 129,
-    "transport": 13,
-    "scenic": 537
+    "business": 15.0,
+    "community": 448.0,
+    "office": 156.0,
+    "school": 49.0,
+    "hospital": 129.0,
+    "transport": 13.0,
+    "scenic": 537.0
   },
   "demographics": {
-    "male_pct": 51,
+    "male_pct": 51.0,
     "female_pct": null,
     "education": {
-      "小学": 9,
+      "小学": 9.0,
       "初中": 16.4,
       "高中": 10.6,
       "大专": 6.9,
@@ -428,52 +428,52 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 57,
+      "count": 57.0,
       "within_1yr_pct": 24.6,
       "1_3yr_pct": 31.6,
       "over_3yr_pct": 43.9
     },
     {
       "type": "购物",
-      "count": 48,
+      "count": 48.0,
       "within_1yr_pct": 22.9,
       "1_3yr_pct": 31.3,
       "over_3yr_pct": 45.8
     },
     {
       "type": "休闲娱乐",
-      "count": 4,
-      "within_1yr_pct": 50,
-      "1_3yr_pct": 25,
-      "over_3yr_pct": 25
+      "count": 4.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 25.0
     },
     {
       "type": "教育培训",
-      "count": 2,
-      "within_1yr_pct": 50,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 50
+      "count": 2.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 50.0
     },
     {
       "type": "酒店住宿",
-      "count": 2,
-      "within_1yr_pct": 50,
-      "1_3yr_pct": 50,
-      "over_3yr_pct": 0
+      "count": 2.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 0.0
     },
     {
       "type": "生活服务",
-      "count": 14,
+      "count": 14.0,
       "within_1yr_pct": 14.3,
       "1_3yr_pct": 21.4,
       "over_3yr_pct": 64.3
     },
     {
       "type": "运动健身",
-      "count": 4,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 25,
-      "over_3yr_pct": 75
+      "count": 4.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 75.0
     }
   ],
   "nearby_communities": [

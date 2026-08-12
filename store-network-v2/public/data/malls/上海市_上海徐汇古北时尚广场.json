@@ -10,10 +10,10 @@
     "population_score": 89.6,
     "area_score": 68.2,
     "consumption_score": 80.8,
-    "industry_score": 74,
+    "industry_score": 74.0,
     "annual_sales": "古北时尚广场位于上海市徐汇区吴中路52号，紧邻中山西路内环及延安路高架，隶属徐汇田林板块地处徐汇区及长宁区主要商业区和高档住宅区域的中心地带，东邻徐家汇城市繁华中心，南行宜山路商业街，西行即达古北高档人文社区周围有10号线宋园路站及3/4/9号线宜山路站，步行约15分钟到达古北时尚以乐享生活+健康娱乐的全新社区型商业定位模式集聚了特色餐饮、休闲餐饮、儿童、休息娱乐、教育、运动健身及生活体验类业态丰富的业态布局及品牌入驻方便周边众多中高端住宅及商务办公人士的商务用餐、健身教育及周末休闲娱乐需求",
     "annual_sales_unit": "-",
-    "area_size_sqm": 3,
+    "area_size_sqm": 3.0,
     "open_date": "2012-01-01",
     "operator": "上海万国置业有限公司",
     "brand": "",
@@ -21,7 +21,7 @@
     "floors": "L1-L7"
   },
   "traffic": {
-    "annual_daily": 1644,
+    "annual_daily": 1644.0,
     "annual_daily_unit": "人次",
     "annual_daily_rank": "市内第483",
     "jun_total": null,
@@ -44,36 +44,36 @@
     },
     "office": {
       "500m": 2.6,
-      "1_5km": 21,
-      "3km": 85
+      "1_5km": 21.0,
+      "3km": 85.0
     },
     "permanent": {
       "500m": 2.4,
       "1_5km": 23.1,
-      "3km": 91
+      "3km": 91.0
     }
   },
   "business": {
-    "competitors": 2,
-    "food": 39,
-    "shopping": 38,
-    "leisure": 6,
-    "education": 5,
-    "hotel": 29,
-    "services": 55,
-    "fitness": 7,
-    "auto": 29,
-    "total_stores": 12,
-    "old_store_3yr_pct": 50
+    "competitors": 2.0,
+    "food": 39.0,
+    "shopping": 38.0,
+    "leisure": 6.0,
+    "education": 5.0,
+    "hotel": 29.0,
+    "services": 55.0,
+    "fitness": 7.0,
+    "auto": 29.0,
+    "total_stores": 12.0,
+    "old_store_3yr_pct": 50.0
   },
   "nearby_poi": {
-    "business": 4,
-    "community": 771,
-    "office": 112,
-    "school": 50,
-    "hospital": 148,
-    "transport": 13,
-    "scenic": 258
+    "business": 4.0,
+    "community": 771.0,
+    "office": 112.0,
+    "school": 50.0,
+    "hospital": 148.0,
+    "transport": 13.0,
+    "scenic": 258.0
   },
   "demographics": {
     "male_pct": 49.7,
@@ -87,8 +87,8 @@
       "硕士": 6.5,
       "博士": 1.5
     },
-    "has_children_pct": 61,
-    "no_children_pct": 39
+    "has_children_pct": 61.0,
+    "no_children_pct": 39.0
   },
   "scraped_at": "2026-07-31T16:15:24.349Z",
   "nearby_restaurants": [
@@ -330,31 +330,31 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 5,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 40,
-      "over_3yr_pct": 60
+      "count": 5.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 40.0,
+      "over_3yr_pct": 60.0
     },
     {
       "type": "休闲娱乐",
-      "count": 1,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 100
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
     },
     {
       "type": "酒店住宿",
-      "count": 1,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 100
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
     },
     {
       "type": "生活服务",
-      "count": 5,
-      "within_1yr_pct": 20,
-      "1_3yr_pct": 60,
-      "over_3yr_pct": 20
+      "count": 5.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 60.0,
+      "over_3yr_pct": 20.0
     }
   ],
   "nearby_communities": [

@@ -7,13 +7,13 @@
   "overview": {
     "score": 96.2,
     "score_rank": "市内前30%",
-    "population_score": 64,
+    "population_score": 64.0,
     "area_score": 77.2,
-    "consumption_score": 60,
+    "consumption_score": 60.0,
     "industry_score": 96.4,
     "annual_sales": "上海长泰广场位于浦东核心地段，规划设计单位为国际顶级的建筑师事务所，美国捷得国际建筑师事务所（THEJERDEPARTNERSHIP）长泰广场包括五栋11层的办公塔楼，2-4层的商业广场和2层地下室组成，地下一层为商业广场及非机动车停车场，地下二层为机动车停车场和人防等，长泰广场主打“PASEO”概念，即“黄昏时散步”的慢生活新潮流，因此在设计上，长泰广场是浦东最大的散步道式的一站购物中心，商业整体地下一层，局部地上二层或三层，庭院错落有致，将室内外空间有机结合，让消费人群享受真正的“慢生活”长泰广场通过产生多样的购物和娱乐休闲体验，来促进商业、娱乐以及办公区域和当地社区的互动，对潜在的高品质租户产生极大的吸引力",
     "annual_sales_unit": "-",
-    "area_size_sqm": 20,
+    "area_size_sqm": 20.0,
     "open_date": "2014-11-18",
     "operator": "长甲集团国际控股有限公司",
     "brand": "",
@@ -32,13 +32,13 @@
     "weekday_avg": 9.2,
     "weekday_unit": "万人次",
     "weekday_rank": "市内商场第4名",
-    "holiday_avg": 10,
+    "holiday_avg": 10.0,
     "holiday_unit": "万人次",
     "holiday_rank": "市内商场第17名"
   },
   "population": {
     "residential": {
-      "500m": 3500,
+      "500m": 3500.0,
       "1_5km": 6.3,
       "3km": 21.4
     },
@@ -49,31 +49,31 @@
     },
     "permanent": {
       "500m": 1.7,
-      "1_5km": 7,
+      "1_5km": 7.0,
       "3km": 21.4
     }
   },
   "business": {
-    "competitors": 8,
-    "food": 200,
-    "shopping": 140,
-    "leisure": 20,
-    "education": 31,
-    "hotel": 1,
-    "services": 68,
-    "fitness": 13,
-    "auto": 34,
-    "total_stores": 281,
-    "old_store_3yr_pct": 52
+    "competitors": 8.0,
+    "food": 200.0,
+    "shopping": 140.0,
+    "leisure": 20.0,
+    "education": 31.0,
+    "hotel": 1.0,
+    "services": 68.0,
+    "fitness": 13.0,
+    "auto": 34.0,
+    "total_stores": 281.0,
+    "old_store_3yr_pct": 52.0
   },
   "nearby_poi": {
-    "business": 2,
-    "community": 128,
-    "office": 59,
-    "school": 14,
-    "hospital": 20,
-    "transport": 6,
-    "scenic": 66
+    "business": 2.0,
+    "community": 128.0,
+    "office": 59.0,
+    "school": 14.0,
+    "hospital": 20.0,
+    "transport": 6.0,
+    "scenic": 66.0
   },
   "demographics": {
     "male_pct": 51.9,
@@ -364,51 +364,51 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 120,
+      "count": 120.0,
       "within_1yr_pct": 15.8,
       "1_3yr_pct": 30.8,
       "over_3yr_pct": 53.3
     },
     {
       "type": "购物",
-      "count": 74,
+      "count": 74.0,
       "within_1yr_pct": 20.3,
       "1_3yr_pct": 24.3,
       "over_3yr_pct": 55.4
     },
     {
       "type": "休闲娱乐",
-      "count": 16,
+      "count": 16.0,
       "within_1yr_pct": 37.5,
-      "1_3yr_pct": 25,
+      "1_3yr_pct": 25.0,
       "over_3yr_pct": 37.5
     },
     {
       "type": "教育培训",
-      "count": 7,
+      "count": 7.0,
       "within_1yr_pct": 28.6,
       "1_3yr_pct": 71.4,
-      "over_3yr_pct": 0
+      "over_3yr_pct": 0.0
     },
     {
       "type": "生活服务",
-      "count": 32,
+      "count": 32.0,
       "within_1yr_pct": 6.3,
       "1_3yr_pct": 21.9,
       "over_3yr_pct": 71.9
     },
     {
       "type": "运动健身",
-      "count": 8,
+      "count": 8.0,
       "within_1yr_pct": 62.5,
       "1_3yr_pct": 37.5,
-      "over_3yr_pct": 0
+      "over_3yr_pct": 0.0
     },
     {
       "type": "车辆服务",
-      "count": 24,
+      "count": 24.0,
       "within_1yr_pct": 20.8,
-      "1_3yr_pct": 25,
+      "1_3yr_pct": 25.0,
       "over_3yr_pct": 54.2
     }
   ],

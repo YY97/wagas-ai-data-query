@@ -8,7 +8,7 @@
     "score": 90.9,
     "score_rank": "市内前30%",
     "population_score": 88.3,
-    "area_score": 100,
+    "area_score": 100.0,
     "consumption_score": 81.5,
     "industry_score": 90.8,
     "annual_sales": "SOHO尚都位于北京东大桥路，是北京CBD区域内一个以室内商业街区+小型办公为主的SOHO建筑，共17万平方米，占地2.2公顷。包括一条贯穿3.7万平方米的室内商业街，两栋办公楼",
@@ -38,7 +38,7 @@
   },
   "population": {
     "residential": {
-      "500m": 2,
+      "500m": 2.0,
       "1_5km": 15.9,
       "3km": 71.8
     },
@@ -50,33 +50,33 @@
     "permanent": {
       "500m": 2.6,
       "1_5km": 21.1,
-      "3km": 83
+      "3km": 83.0
     }
   },
   "business": {
-    "competitors": 14,
-    "food": 467,
-    "shopping": 277,
-    "leisure": 49,
-    "education": 82,
-    "hotel": 38,
-    "services": 345,
-    "fitness": 61,
-    "auto": 34,
-    "total_stores": 354,
-    "old_store_3yr_pct": 39
+    "competitors": 14.0,
+    "food": 467.0,
+    "shopping": 277.0,
+    "leisure": 49.0,
+    "education": 82.0,
+    "hotel": 38.0,
+    "services": 345.0,
+    "fitness": 61.0,
+    "auto": 34.0,
+    "total_stores": 354.0,
+    "old_store_3yr_pct": 39.0
   },
   "nearby_poi": {
-    "business": 20,
-    "community": 483,
-    "office": 190,
-    "school": 34,
-    "hospital": 171,
-    "transport": 15,
-    "scenic": 312
+    "business": 20.0,
+    "community": 483.0,
+    "office": 190.0,
+    "school": 34.0,
+    "hospital": 171.0,
+    "transport": 15.0,
+    "scenic": 312.0
   },
   "demographics": {
-    "male_pct": 53,
+    "male_pct": 53.0,
     "female_pct": null,
     "education": {
       "小学": 9.6,
@@ -428,49 +428,49 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 151,
+      "count": 151.0,
       "within_1yr_pct": 37.1,
       "1_3yr_pct": 29.8,
       "over_3yr_pct": 33.1
     },
     {
       "type": "购物",
-      "count": 42,
+      "count": 42.0,
       "within_1yr_pct": 26.2,
-      "1_3yr_pct": 31,
+      "1_3yr_pct": 31.0,
       "over_3yr_pct": 42.9
     },
     {
       "type": "休闲娱乐",
-      "count": 9,
+      "count": 9.0,
       "within_1yr_pct": 33.3,
       "1_3yr_pct": 33.3,
       "over_3yr_pct": 33.3
     },
     {
       "type": "教育培训",
-      "count": 33,
+      "count": 33.0,
       "within_1yr_pct": 18.2,
       "1_3yr_pct": 21.2,
       "over_3yr_pct": 60.6
     },
     {
       "type": "酒店住宿",
-      "count": 5,
-      "within_1yr_pct": 20,
-      "1_3yr_pct": 60,
-      "over_3yr_pct": 20
+      "count": 5.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 60.0,
+      "over_3yr_pct": 20.0
     },
     {
       "type": "生活服务",
-      "count": 101,
+      "count": 101.0,
       "within_1yr_pct": 23.8,
       "1_3yr_pct": 35.6,
       "over_3yr_pct": 40.6
     },
     {
       "type": "运动健身",
-      "count": 13,
+      "count": 13.0,
       "within_1yr_pct": 23.1,
       "1_3yr_pct": 46.2,
       "over_3yr_pct": 30.8

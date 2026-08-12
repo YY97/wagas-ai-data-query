@@ -8,7 +8,7 @@
     "score": null,
     "score_rank": "",
     "population_score": 86.4,
-    "area_score": 100,
+    "area_score": 100.0,
     "consumption_score": 87.3,
     "industry_score": 68.2,
     "annual_sales": "通利商厦位于南京西路969号，由上海通利杰生房地产有限公司设计并建设，占地面积2609，建筑面积14639",
@@ -38,14 +38,14 @@
   },
   "population": {
     "residential": {
-      "500m": 2,
+      "500m": 2.0,
       "1_5km": 20.6,
       "3km": 94.1
     },
     "office": {
       "500m": 5.4,
       "1_5km": 29.9,
-      "3km": 111
+      "3km": 111.0
     },
     "permanent": {
       "500m": 3.3,
@@ -54,26 +54,26 @@
     }
   },
   "business": {
-    "competitors": 19,
-    "food": 533,
-    "shopping": 498,
-    "leisure": 36,
-    "education": 39,
-    "hotel": 93,
-    "services": 332,
-    "fitness": 31,
-    "auto": 41,
-    "total_stores": 11,
-    "old_store_3yr_pct": 45
+    "competitors": 19.0,
+    "food": 533.0,
+    "shopping": 498.0,
+    "leisure": 36.0,
+    "education": 39.0,
+    "hotel": 93.0,
+    "services": 332.0,
+    "fitness": 31.0,
+    "auto": 41.0,
+    "total_stores": 11.0,
+    "old_store_3yr_pct": 45.0
   },
   "nearby_poi": {
-    "business": 30,
-    "community": 1159,
-    "office": 206,
-    "school": 65,
-    "hospital": 224,
-    "transport": 12,
-    "scenic": 805
+    "business": 30.0,
+    "community": 1159.0,
+    "office": 206.0,
+    "school": 65.0,
+    "hospital": 224.0,
+    "transport": 12.0,
+    "scenic": 805.0
   },
   "demographics": {
     "male_pct": 46.5,
@@ -81,7 +81,7 @@
     "education": {
       "小学": 9.1,
       "初中": 17.9,
-      "高中": 12,
+      "高中": 12.0,
       "大专": 6.8,
       "本科": 47.9,
       "硕士": 4.7,
@@ -428,30 +428,30 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 3,
+      "count": 3.0,
       "within_1yr_pct": 33.3,
       "1_3yr_pct": 33.3,
       "over_3yr_pct": 33.3
     },
     {
       "type": "购物",
-      "count": 3,
+      "count": 3.0,
       "within_1yr_pct": 33.3,
       "1_3yr_pct": 33.3,
       "over_3yr_pct": 33.3
     },
     {
       "type": "酒店住宿",
-      "count": 2,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 50,
-      "over_3yr_pct": 50
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 50.0
     },
     {
       "type": "生活服务",
-      "count": 3,
+      "count": 3.0,
       "within_1yr_pct": 33.3,
-      "1_3yr_pct": 0,
+      "1_3yr_pct": 0.0,
       "over_3yr_pct": 66.7
     }
   ],

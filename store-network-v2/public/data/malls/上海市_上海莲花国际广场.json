@@ -8,12 +8,12 @@
     "score": 89.3,
     "score_rank": "市内前30%",
     "population_score": 80.1,
-    "area_score": 83,
+    "area_score": 83.0,
     "consumption_score": 78.5,
     "industry_score": 89.3,
     "annual_sales": "莲花国际广场位于南方商圈核心地段，上海西南城际主轴，与百联南方购物中心一路之隔，南临沪闵路和沪闵高架，西临古方路，轨道交通连接莘庄、徐汇和闵行大部分区域，出行十分便捷。项目建筑总面积近10万平方米、商业部分莲花广场近5万平方米；双中庭设计，三幢办公塔楼和底部商业裙房呈“品”字布局，加上以玻璃、金属幕墙和石材相结合的现代时尚外立面，凸显其活力与品位的契合。商场以年轻、时尚的风格定位，目标打造青春亮丽的消费主场。",
     "annual_sales_unit": "-",
-    "area_size_sqm": 5,
+    "area_size_sqm": 5.0,
     "open_date": "2011-01-01",
     "operator": "上海碧盛房地产开发经营有限公司",
     "brand": "",
@@ -29,7 +29,7 @@
     "jun_daily_avg": 1.1,
     "jun_daily_unit": "万人次",
     "jun_daily_rank": "市内商场第286名",
-    "weekday_avg": 9639,
+    "weekday_avg": 9639.0,
     "weekday_unit": "人次",
     "weekday_rank": "市内商场第308名",
     "holiday_avg": 1.5,
@@ -40,7 +40,7 @@
     "residential": {
       "500m": 1.6,
       "1_5km": 19.7,
-      "3km": 78
+      "3km": 78.0
     },
     "office": {
       "500m": 1.6,
@@ -54,26 +54,26 @@
     }
   },
   "business": {
-    "competitors": 7,
-    "food": 291,
-    "shopping": 217,
-    "leisure": 35,
-    "education": 89,
-    "hotel": 13,
-    "services": 171,
-    "fitness": 34,
-    "auto": 21,
-    "total_stores": 166,
-    "old_store_3yr_pct": 61
+    "competitors": 7.0,
+    "food": 291.0,
+    "shopping": 217.0,
+    "leisure": 35.0,
+    "education": 89.0,
+    "hotel": 13.0,
+    "services": 171.0,
+    "fitness": 34.0,
+    "auto": 21.0,
+    "total_stores": 166.0,
+    "old_store_3yr_pct": 61.0
   },
   "nearby_poi": {
-    "business": 7,
-    "community": 385,
-    "office": 20,
-    "school": 33,
-    "hospital": 39,
-    "transport": 14,
-    "scenic": 77
+    "business": 7.0,
+    "community": 385.0,
+    "office": 20.0,
+    "school": 33.0,
+    "hospital": 39.0,
+    "transport": 14.0,
+    "scenic": 77.0
   },
   "demographics": {
     "male_pct": 47.6,
@@ -404,52 +404,52 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 29,
+      "count": 29.0,
       "within_1yr_pct": 10.3,
       "1_3yr_pct": 17.2,
       "over_3yr_pct": 72.4
     },
     {
       "type": "购物",
-      "count": 28,
+      "count": 28.0,
       "within_1yr_pct": 14.3,
       "1_3yr_pct": 7.1,
       "over_3yr_pct": 78.6
     },
     {
       "type": "休闲娱乐",
-      "count": 10,
-      "within_1yr_pct": 50,
-      "1_3yr_pct": 10,
-      "over_3yr_pct": 40
+      "count": 10.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 10.0,
+      "over_3yr_pct": 40.0
     },
     {
       "type": "教育培训",
-      "count": 46,
+      "count": 46.0,
       "within_1yr_pct": 15.2,
       "1_3yr_pct": 34.8,
-      "over_3yr_pct": 50
+      "over_3yr_pct": 50.0
     },
     {
       "type": "生活服务",
-      "count": 43,
+      "count": 43.0,
       "within_1yr_pct": 9.3,
       "1_3yr_pct": 27.9,
       "over_3yr_pct": 62.8
     },
     {
       "type": "运动健身",
-      "count": 9,
+      "count": 9.0,
       "within_1yr_pct": 33.3,
       "1_3yr_pct": 22.2,
       "over_3yr_pct": 44.4
     },
     {
       "type": "车辆服务",
-      "count": 1,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 100
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
     }
   ],
   "nearby_communities": [

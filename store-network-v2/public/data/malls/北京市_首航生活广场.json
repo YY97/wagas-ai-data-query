@@ -8,12 +8,12 @@
     "score": 73.2,
     "score_rank": "市内前50%",
     "population_score": 92.6,
-    "area_score": 63,
+    "area_score": 63.0,
     "consumption_score": 66.6,
     "industry_score": 73.2,
     "annual_sales": "首航生活广场是一家集快餐、超市、儿童中心、餐厅服务于一体的综合型购物中心，前身是华堂商场七里庄店。它位于地铁七里庄站，是北京地铁9号线和14号线的换乘车站，周边是冠京写字楼，人流如织。首航生活广场总共分为五层，地下一层，地上四层，其中一层为快餐服务行业，二层为超市，三层为儿童教育及乐园，四层为餐厅。",
     "annual_sales_unit": "-",
-    "area_size_sqm": 1500,
+    "area_size_sqm": 1500.0,
     "open_date": "2018-03-24",
     "operator": "北京首航国力商贸有限公司",
     "brand": "",
@@ -43,9 +43,9 @@
       "3km": 14.1
     },
     "office": {
-      "500m": 5700,
+      "500m": 5700.0,
       "1_5km": 2.5,
-      "3km": 5
+      "3km": 5.0
     },
     "permanent": {
       "500m": 2.3,
@@ -55,37 +55,37 @@
   },
   "business": {
     "competitors": null,
-    "food": 26,
-    "shopping": 9,
-    "leisure": 3,
+    "food": 26.0,
+    "shopping": 9.0,
+    "leisure": 3.0,
     "education": null,
-    "hotel": 3,
-    "services": 13,
-    "fitness": 2,
-    "auto": 9,
-    "total_stores": 30,
-    "old_store_3yr_pct": 47
+    "hotel": 3.0,
+    "services": 13.0,
+    "fitness": 2.0,
+    "auto": 9.0,
+    "total_stores": 30.0,
+    "old_store_3yr_pct": 47.0
   },
   "nearby_poi": {
-    "business": 1,
-    "community": 70,
-    "office": 5,
-    "school": 14,
-    "hospital": 5,
-    "transport": 8,
-    "scenic": 50
+    "business": 1.0,
+    "community": 70.0,
+    "office": 5.0,
+    "school": 14.0,
+    "hospital": 5.0,
+    "transport": 8.0,
+    "scenic": 50.0
   },
   "demographics": {
     "male_pct": 53.4,
     "female_pct": null,
     "education": {
       "小学": 10.7,
-      "初中": 18,
+      "初中": 18.0,
       "高中": 11.1,
       "大专": 8.1,
-      "本科": 46,
+      "本科": 46.0,
       "硕士": 5.1,
-      "博士": 1
+      "博士": 1.0
     },
     "has_children_pct": 58.3,
     "no_children_pct": 41.7
@@ -256,52 +256,52 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 17,
+      "count": 17.0,
       "within_1yr_pct": 23.5,
       "1_3yr_pct": 35.3,
       "over_3yr_pct": 41.2
     },
     {
       "type": "购物",
-      "count": 3,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 100
+      "count": 3.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
     },
     {
       "type": "休闲娱乐",
-      "count": 1,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 100,
-      "over_3yr_pct": 0
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
     },
     {
       "type": "酒店住宿",
-      "count": 1,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 100,
-      "over_3yr_pct": 0
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
     },
     {
       "type": "生活服务",
-      "count": 6,
+      "count": 6.0,
       "within_1yr_pct": 16.7,
       "1_3yr_pct": 33.3,
-      "over_3yr_pct": 50
+      "over_3yr_pct": 50.0
     },
     {
       "type": "运动健身",
-      "count": 1,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 100,
-      "over_3yr_pct": 0
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
     },
     {
       "type": "车辆服务",
-      "count": 1,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 100
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
     }
   ],
   "nearby_communities": [

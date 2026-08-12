@@ -5,15 +5,15 @@
   "lat": 31.003341,
   "lng": 121.283013,
   "overview": {
-    "score": 77,
+    "score": 77.0,
     "score_rank": "市内前30%",
-    "population_score": 96,
-    "area_score": 90,
+    "population_score": 96.0,
+    "area_score": 90.0,
     "consumption_score": 76.9,
     "industry_score": 76.8,
     "annual_sales": "该场地周边有住邦2000写字楼，远洋未来汇，苏宁写字中心等等，商场内有集电器旗舰店、生活配套、餐饮、KTV、健身、甲级办公于一体。项目位于朝阳区中部，隶属于新兴朝青商圈，临近华贸商圈，临近慈云寺桥，该广场业态分布偏电器类品类较多，是周边人流量经常购物的必选场所。",
     "annual_sales_unit": "-",
-    "area_size_sqm": 3,
+    "area_size_sqm": 3.0,
     "open_date": "2015-09-01",
     "operator": "凯德置地（中国）投资有限公司",
     "brand": "凯德",
@@ -24,15 +24,15 @@
     "annual_daily": null,
     "annual_daily_unit": "-",
     "annual_daily_rank": "",
-    "jun_total": 6,
+    "jun_total": 6.0,
     "jun_total_rank": "市内商场第335名",
-    "jun_daily_avg": 1992,
+    "jun_daily_avg": 1992.0,
     "jun_daily_unit": "人次",
     "jun_daily_rank": "市内商场第335名",
-    "weekday_avg": 2076,
+    "weekday_avg": 2076.0,
     "weekday_unit": "人次",
     "weekday_rank": "市内商场第330名",
-    "holiday_avg": 1759,
+    "holiday_avg": 1759.0,
     "holiday_unit": "人次",
     "holiday_rank": "市内商场第348名"
   },
@@ -50,41 +50,41 @@
     "permanent": {
       "500m": 3.3,
       "1_5km": 20.6,
-      "3km": 73
+      "3km": 73.0
     }
   },
   "business": {
-    "competitors": 9,
-    "food": 272,
-    "shopping": 111,
-    "leisure": 14,
-    "education": 40,
-    "hotel": 24,
-    "services": 154,
-    "fitness": 35,
-    "auto": 14,
-    "total_stores": 35,
-    "old_store_3yr_pct": 14
+    "competitors": 9.0,
+    "food": 272.0,
+    "shopping": 111.0,
+    "leisure": 14.0,
+    "education": 40.0,
+    "hotel": 24.0,
+    "services": 154.0,
+    "fitness": 35.0,
+    "auto": 14.0,
+    "total_stores": 35.0,
+    "old_store_3yr_pct": 14.0
   },
   "nearby_poi": {
-    "business": 5,
-    "community": 363,
-    "office": 67,
-    "school": 40,
-    "hospital": 104,
-    "transport": 6,
-    "scenic": 228
+    "business": 5.0,
+    "community": 363.0,
+    "office": 67.0,
+    "school": 40.0,
+    "hospital": 104.0,
+    "transport": 6.0,
+    "scenic": 228.0
   },
   "demographics": {
     "male_pct": 48.7,
     "female_pct": null,
     "education": {
-      "小学": 9,
+      "小学": 9.0,
       "初中": 15.6,
       "高中": 10.6,
-      "大专": 7,
+      "大专": 7.0,
       "本科": 49.2,
-      "硕士": 7,
+      "硕士": 7.0,
       "博士": 1.6
     },
     "has_children_pct": 57.4,
@@ -148,38 +148,38 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 20,
-      "within_1yr_pct": 25,
-      "1_3yr_pct": 65,
-      "over_3yr_pct": 10
+      "count": 20.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 65.0,
+      "over_3yr_pct": 10.0
     },
     {
       "type": "购物",
-      "count": 4,
-      "within_1yr_pct": 25,
-      "1_3yr_pct": 75,
-      "over_3yr_pct": 0
+      "count": 4.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 75.0,
+      "over_3yr_pct": 0.0
     },
     {
       "type": "生活服务",
-      "count": 8,
-      "within_1yr_pct": 50,
-      "1_3yr_pct": 25,
-      "over_3yr_pct": 25
+      "count": 8.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 25.0
     },
     {
       "type": "运动健身",
-      "count": 2,
-      "within_1yr_pct": 50,
-      "1_3yr_pct": 50,
-      "over_3yr_pct": 0
+      "count": 2.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 0.0
     },
     {
       "type": "车辆服务",
-      "count": 1,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 100
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
     }
   ],
   "nearby_communities": [

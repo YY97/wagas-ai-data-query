@@ -13,7 +13,7 @@
     "industry_score": 76.8,
     "annual_sales": "北京华尚金泰广场位于北京市房山区长阳地铁南，于2018年9月开业，项目地下一层4000㎡已签约盒马生鲜周边仅有大型生鲜超市。一层：久久鸭、京八珍、茶锅串串香、森淼国际等。半径3公里内唯一亲子类社区mall，周边覆盖20万优质客群，包括商务白领、时尚青年、中产家庭等。",
     "annual_sales_unit": "-",
-    "area_size_sqm": 4,
+    "area_size_sqm": 4.0,
     "open_date": "2024-09-18",
     "operator": "金氏恒泰（北京）置业集团有限公司",
     "brand": "",
@@ -21,18 +21,18 @@
     "floors": "B1-L4"
   },
   "traffic": {
-    "annual_daily": 5178,
+    "annual_daily": 5178.0,
     "annual_daily_unit": "人次",
     "annual_daily_rank": "市内第274",
     "jun_total": 20.4,
     "jun_total_rank": "市内商场第281名",
-    "jun_daily_avg": 6798,
+    "jun_daily_avg": 6798.0,
     "jun_daily_unit": "人次",
     "jun_daily_rank": "市内商场第281名",
-    "weekday_avg": 6032,
+    "weekday_avg": 6032.0,
     "weekday_unit": "人次",
     "weekday_rank": "市内商场第286名",
-    "holiday_avg": 8907,
+    "holiday_avg": 8907.0,
     "holiday_unit": "人次",
     "holiday_rank": "市内商场第260名"
   },
@@ -43,9 +43,9 @@
       "3km": 15.1
     },
     "office": {
-      "500m": 9000,
-      "1_5km": 3,
-      "3km": 5
+      "500m": 9000.0,
+      "1_5km": 3.0,
+      "3km": 5.0
     },
     "permanent": {
       "500m": 2.4,
@@ -54,26 +54,26 @@
     }
   },
   "business": {
-    "competitors": 2,
-    "food": 203,
-    "shopping": 102,
-    "leisure": 16,
-    "education": 55,
-    "hotel": 67,
-    "services": 224,
-    "fitness": 28,
-    "auto": 10,
-    "total_stores": 34,
-    "old_store_3yr_pct": 53
+    "competitors": 2.0,
+    "food": 203.0,
+    "shopping": 102.0,
+    "leisure": 16.0,
+    "education": 55.0,
+    "hotel": 67.0,
+    "services": 224.0,
+    "fitness": 28.0,
+    "auto": 10.0,
+    "total_stores": 34.0,
+    "old_store_3yr_pct": 53.0
   },
   "nearby_poi": {
-    "business": 3,
-    "community": 76,
-    "office": 5,
-    "school": 18,
-    "hospital": 8,
-    "transport": 7,
-    "scenic": 55
+    "business": 3.0,
+    "community": 76.0,
+    "office": 5.0,
+    "school": 18.0,
+    "hospital": 8.0,
+    "transport": 7.0,
+    "scenic": 55.0
   },
   "demographics": {
     "male_pct": null,
@@ -112,45 +112,45 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 6,
+      "count": 6.0,
       "within_1yr_pct": 16.7,
       "1_3yr_pct": 33.3,
-      "over_3yr_pct": 50
+      "over_3yr_pct": 50.0
     },
     {
       "type": "购物",
-      "count": 8,
+      "count": 8.0,
       "within_1yr_pct": 12.5,
       "1_3yr_pct": 12.5,
-      "over_3yr_pct": 75
+      "over_3yr_pct": 75.0
     },
     {
       "type": "休闲娱乐",
-      "count": 1,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 100,
-      "over_3yr_pct": 0
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
     },
     {
       "type": "教育培训",
-      "count": 12,
+      "count": 12.0,
       "within_1yr_pct": 8.3,
       "1_3yr_pct": 33.3,
       "over_3yr_pct": 58.3
     },
     {
       "type": "生活服务",
-      "count": 3,
+      "count": 3.0,
       "within_1yr_pct": 33.3,
       "1_3yr_pct": 33.3,
       "over_3yr_pct": 33.3
     },
     {
       "type": "运动健身",
-      "count": 4,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 75,
-      "over_3yr_pct": 25
+      "count": 4.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 75.0,
+      "over_3yr_pct": 25.0
     }
   ],
   "nearby_communities": [

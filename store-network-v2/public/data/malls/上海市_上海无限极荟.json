@@ -13,7 +13,7 @@
     "industry_score": 92.5,
     "annual_sales": "上海无限极荟位于新天地湖滨路168号，是一个集商务、社交、娱乐于一体的商业地标商场商业面积为30777，商业楼层分为地下2层和地上3层，每一层都打造不同的主题，如B2小食荟、B1乐活荟、1F有氧荟、2F时髦荟、3F饕餮荟商场主打餐饮和运动两大板块，引进了多个具有“创新性、体验性、时尚性”属性的知名品牌",
     "annual_sales_unit": "-",
-    "area_size_sqm": 3,
+    "area_size_sqm": 3.0,
     "open_date": "2016-12-03",
     "operator": "万科企业股份有限公司",
     "brand": "",
@@ -21,7 +21,7 @@
     "floors": "B2-L3"
   },
   "traffic": {
-    "annual_daily": 9808,
+    "annual_daily": 9808.0,
     "annual_daily_unit": "人次",
     "annual_daily_rank": "市内第258",
     "jun_total": 45.4,
@@ -48,32 +48,32 @@
       "3km": 107.1
     },
     "permanent": {
-      "500m": 2,
+      "500m": 2.0,
       "1_5km": 26.4,
       "3km": 108.3
     }
   },
   "business": {
-    "competitors": 23,
-    "food": 434,
-    "shopping": 444,
-    "leisure": 42,
-    "education": 22,
-    "hotel": 35,
-    "services": 228,
-    "fitness": 45,
-    "auto": 31,
-    "total_stores": 101,
-    "old_store_3yr_pct": 48
+    "competitors": 23.0,
+    "food": 434.0,
+    "shopping": 444.0,
+    "leisure": 42.0,
+    "education": 22.0,
+    "hotel": 35.0,
+    "services": 228.0,
+    "fitness": 45.0,
+    "auto": 31.0,
+    "total_stores": 101.0,
+    "old_store_3yr_pct": 48.0
   },
   "nearby_poi": {
-    "business": 29,
-    "community": 1044,
-    "office": 168,
-    "school": 64,
-    "hospital": 210,
-    "transport": 22,
-    "scenic": 919
+    "business": 29.0,
+    "community": 1044.0,
+    "office": 168.0,
+    "school": 64.0,
+    "hospital": 210.0,
+    "transport": 22.0,
+    "scenic": 919.0
   },
   "demographics": {
     "male_pct": 46.5,
@@ -82,7 +82,7 @@
       "小学": 8.9,
       "初中": 16.4,
       "高中": 11.5,
-      "大专": 7,
+      "大专": 7.0,
       "本科": 48.4,
       "硕士": 6.2,
       "博士": 1.6
@@ -428,52 +428,52 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 45,
+      "count": 45.0,
       "within_1yr_pct": 15.6,
       "1_3yr_pct": 37.8,
       "over_3yr_pct": 46.7
     },
     {
       "type": "购物",
-      "count": 24,
+      "count": 24.0,
       "within_1yr_pct": 29.2,
       "1_3yr_pct": 20.8,
-      "over_3yr_pct": 50
+      "over_3yr_pct": 50.0
     },
     {
       "type": "休闲娱乐",
-      "count": 3,
+      "count": 3.0,
       "within_1yr_pct": 33.3,
       "1_3yr_pct": 33.3,
       "over_3yr_pct": 33.3
     },
     {
       "type": "教育培训",
-      "count": 1,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 100
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
     },
     {
       "type": "生活服务",
-      "count": 24,
-      "within_1yr_pct": 25,
+      "count": 24.0,
+      "within_1yr_pct": 25.0,
       "1_3yr_pct": 33.3,
       "over_3yr_pct": 41.7
     },
     {
       "type": "运动健身",
-      "count": 2,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 50,
-      "over_3yr_pct": 50
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 50.0
     },
     {
       "type": "车辆服务",
-      "count": 2,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 100
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
     }
   ],
   "nearby_communities": [

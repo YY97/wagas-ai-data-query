@@ -10,7 +10,7 @@
     "population_score": 82.8,
     "area_score": 80.5,
     "consumption_score": 69.3,
-    "industry_score": 96,
+    "industry_score": 96.0,
     "annual_sales": "百联川沙购物中心定位为“时尚、家庭、社交”全天候体验式生活新中心，立足于川沙新镇核心地区，将充分融合购物、休闲餐饮、文化娱乐和社区服务，以多元化的功能业态、品味优质的购物空间、线上线下的互动购物体验，力争树立起百联川沙购物中心在川沙地区，乃至在浦东新区的独特标杆形象，为浦东商业的发展做出积极贡献",
     "annual_sales_unit": "-",
     "area_size_sqm": 6.26,
@@ -54,26 +54,26 @@
     }
   },
   "business": {
-    "competitors": 5,
-    "food": 266,
-    "shopping": 187,
-    "leisure": 27,
-    "education": 44,
-    "hotel": 43,
-    "services": 190,
-    "fitness": 32,
-    "auto": 22,
-    "total_stores": 206,
-    "old_store_3yr_pct": 63
+    "competitors": 5.0,
+    "food": 266.0,
+    "shopping": 187.0,
+    "leisure": 27.0,
+    "education": 44.0,
+    "hotel": 43.0,
+    "services": 190.0,
+    "fitness": 32.0,
+    "auto": 22.0,
+    "total_stores": 206.0,
+    "old_store_3yr_pct": 63.0
   },
   "nearby_poi": {
-    "business": 6,
-    "community": 205,
-    "office": 9,
-    "school": 37,
-    "hospital": 31,
-    "transport": 14,
-    "scenic": 82
+    "business": 6.0,
+    "community": 205.0,
+    "office": 9.0,
+    "school": 37.0,
+    "hospital": 31.0,
+    "transport": 14.0,
+    "scenic": 82.0
   },
   "demographics": {
     "male_pct": 48.8,
@@ -83,7 +83,7 @@
       "初中": 17.5,
       "高中": 11.1,
       "大专": 8.9,
-      "本科": 47,
+      "本科": 47.0,
       "硕士": 5.2,
       "博士": 1.1
     },
@@ -396,56 +396,56 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 87,
+      "count": 87.0,
       "within_1yr_pct": 11.5,
-      "1_3yr_pct": 23,
+      "1_3yr_pct": 23.0,
       "over_3yr_pct": 65.5
     },
     {
       "type": "购物",
-      "count": 90,
-      "within_1yr_pct": 10,
+      "count": 90.0,
+      "within_1yr_pct": 10.0,
       "1_3yr_pct": 25.6,
       "over_3yr_pct": 64.4
     },
     {
       "type": "休闲娱乐",
-      "count": 3,
-      "within_1yr_pct": 0,
+      "count": 3.0,
+      "within_1yr_pct": 0.0,
       "1_3yr_pct": 33.3,
       "over_3yr_pct": 66.7
     },
     {
       "type": "教育培训",
-      "count": 5,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 20,
-      "over_3yr_pct": 80
+      "count": 5.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 20.0,
+      "over_3yr_pct": 80.0
     },
     {
       "type": "酒店住宿",
-      "count": 1,
-      "within_1yr_pct": 100,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 0
+      "count": 1.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
     },
     {
       "type": "生活服务",
-      "count": 10,
-      "within_1yr_pct": 20,
-      "1_3yr_pct": 20,
-      "over_3yr_pct": 60
+      "count": 10.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 20.0,
+      "over_3yr_pct": 60.0
     },
     {
       "type": "运动健身",
-      "count": 4,
-      "within_1yr_pct": 50,
-      "1_3yr_pct": 25,
-      "over_3yr_pct": 25
+      "count": 4.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 25.0
     },
     {
       "type": "车辆服务",
-      "count": 6,
+      "count": 6.0,
       "within_1yr_pct": 33.3,
       "1_3yr_pct": 33.3,
       "over_3yr_pct": 33.3

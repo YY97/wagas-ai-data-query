@@ -9,11 +9,11 @@
     "score_rank": "市内前30%",
     "population_score": 76.9,
     "area_score": 96.8,
-    "consumption_score": 87,
+    "consumption_score": 87.0,
     "industry_score": 82.1,
     "annual_sales": "大上海时代广场位于上海具历史及魅力的黄金地段，有东方香榭丽舍之称的淮海中路东首，经过多年发展，现已成为国际大都会的时尚文化地标。项目内七层的大型商场，云集世界精品，提供一站式消费和时尚生活体验",
     "annual_sales_unit": "-",
-    "area_size_sqm": 5,
+    "area_size_sqm": 5.0,
     "open_date": "2000-01-01",
     "operator": "九龙仓集团有限公司",
     "brand": "",
@@ -21,18 +21,18 @@
     "floors": "L1-L7"
   },
   "traffic": {
-    "annual_daily": 3425,
+    "annual_daily": 3425.0,
     "annual_daily_unit": "人次",
     "annual_daily_rank": "市内第424",
     "jun_total": 13.2,
     "jun_total_rank": "市内商场第445名",
-    "jun_daily_avg": 4400,
+    "jun_daily_avg": 4400.0,
     "jun_daily_unit": "人次",
     "jun_daily_rank": "市内商场第445名",
-    "weekday_avg": 4029,
+    "weekday_avg": 4029.0,
     "weekday_unit": "人次",
     "weekday_rank": "市内商场第455名",
-    "holiday_avg": 5422,
+    "holiday_avg": 5422.0,
     "holiday_unit": "人次",
     "holiday_rank": "市内商场第425名"
   },
@@ -44,36 +44,36 @@
     },
     "office": {
       "500m": 4.6,
-      "1_5km": 31,
-      "3km": 110
+      "1_5km": 31.0,
+      "3km": 110.0
     },
     "permanent": {
       "500m": 2.1,
       "1_5km": 26.6,
-      "3km": 106
+      "3km": 106.0
     }
   },
   "business": {
-    "competitors": 24,
-    "food": 475,
-    "shopping": 320,
-    "leisure": 61,
-    "education": 34,
-    "hotel": 37,
-    "services": 289,
-    "fitness": 33,
-    "auto": 35,
-    "total_stores": 59,
-    "old_store_3yr_pct": 51
+    "competitors": 24.0,
+    "food": 475.0,
+    "shopping": 320.0,
+    "leisure": 61.0,
+    "education": 34.0,
+    "hotel": 37.0,
+    "services": 289.0,
+    "fitness": 33.0,
+    "auto": 35.0,
+    "total_stores": 59.0,
+    "old_store_3yr_pct": 51.0
   },
   "nearby_poi": {
-    "business": 40,
-    "community": 993,
-    "office": 192,
-    "school": 62,
-    "hospital": 202,
-    "transport": 33,
-    "scenic": 961
+    "business": 40.0,
+    "community": 993.0,
+    "office": 192.0,
+    "school": 62.0,
+    "hospital": 202.0,
+    "transport": 33.0,
+    "scenic": 961.0
   },
   "demographics": {
     "male_pct": 50.3,
@@ -85,7 +85,7 @@
       "大专": 6.7,
       "本科": 48.9,
       "硕士": 6.6,
-      "博士": 2
+      "博士": 2.0
     },
     "has_children_pct": 58.2,
     "no_children_pct": 41.8
@@ -428,52 +428,52 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 12,
+      "count": 12.0,
       "within_1yr_pct": 16.7,
       "1_3yr_pct": 16.7,
       "over_3yr_pct": 66.7
     },
     {
       "type": "购物",
-      "count": 24,
-      "within_1yr_pct": 25,
+      "count": 24.0,
+      "within_1yr_pct": 25.0,
       "1_3yr_pct": 29.2,
       "over_3yr_pct": 45.8
     },
     {
       "type": "休闲娱乐",
-      "count": 8,
-      "within_1yr_pct": 75,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 25
+      "count": 8.0,
+      "within_1yr_pct": 75.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 25.0
     },
     {
       "type": "教育培训",
-      "count": 1,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 100
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
     },
     {
       "type": "生活服务",
-      "count": 11,
+      "count": 11.0,
       "within_1yr_pct": 18.2,
       "1_3yr_pct": 36.4,
       "over_3yr_pct": 45.5
     },
     {
       "type": "运动健身",
-      "count": 2,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 100
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
     },
     {
       "type": "车辆服务",
-      "count": 1,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 100
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
     }
   ],
   "nearby_communities": [

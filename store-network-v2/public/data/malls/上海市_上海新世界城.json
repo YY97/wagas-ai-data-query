@@ -8,12 +8,12 @@
     "score": 95.5,
     "score_rank": "市内前30%",
     "population_score": 91.9,
-    "area_score": 100,
+    "area_score": 100.0,
     "consumption_score": 86.5,
     "industry_score": 95.5,
     "annual_sales": "上海新世界城集购物、娱乐、宾馆、餐饮、休闲于一体的生活茂，由新世界购物广场、新世界娱乐广场、新世界丽笙大酒店、新世界美食休闲广场、新世界立体停车场五个板块组成",
     "annual_sales_unit": "-",
-    "area_size_sqm": 7,
+    "area_size_sqm": 7.0,
     "open_date": "1995-12-30",
     "operator": "上海新世界股份有限公司",
     "brand": "新世界",
@@ -43,7 +43,7 @@
       "3km": 82.2
     },
     "office": {
-      "500m": 5,
+      "500m": 5.0,
       "1_5km": 34.9,
       "3km": 110.1
     },
@@ -54,26 +54,26 @@
     }
   },
   "business": {
-    "competitors": 27,
-    "food": 777,
-    "shopping": 925,
-    "leisure": 165,
-    "education": 43,
-    "hotel": 173,
-    "services": 287,
-    "fitness": 23,
-    "auto": 39,
-    "total_stores": 325,
-    "old_store_3yr_pct": 57
+    "competitors": 27.0,
+    "food": 777.0,
+    "shopping": 925.0,
+    "leisure": 165.0,
+    "education": 43.0,
+    "hotel": 173.0,
+    "services": 287.0,
+    "fitness": 23.0,
+    "auto": 39.0,
+    "total_stores": 325.0,
+    "old_store_3yr_pct": 57.0
   },
   "nearby_poi": {
-    "business": 34,
-    "community": 943,
-    "office": 249,
-    "school": 47,
-    "hospital": 201,
-    "transport": 24,
-    "scenic": 995
+    "business": 34.0,
+    "community": 943.0,
+    "office": 249.0,
+    "school": 47.0,
+    "hospital": 201.0,
+    "transport": 24.0,
+    "scenic": 995.0
   },
   "demographics": {
     "male_pct": 47.9,
@@ -84,7 +84,7 @@
       "高中": 11.4,
       "大专": 7.1,
       "本科": 47.6,
-      "硕士": 6,
+      "硕士": 6.0,
       "博士": 1.7
     },
     "has_children_pct": 59.9,
@@ -428,52 +428,52 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 75,
+      "count": 75.0,
       "within_1yr_pct": 26.7,
       "1_3yr_pct": 17.3,
-      "over_3yr_pct": 56
+      "over_3yr_pct": 56.0
     },
     {
       "type": "购物",
-      "count": 212,
+      "count": 212.0,
       "within_1yr_pct": 17.5,
       "1_3yr_pct": 20.8,
       "over_3yr_pct": 61.8
     },
     {
       "type": "休闲娱乐",
-      "count": 14,
-      "within_1yr_pct": 50,
+      "count": 14.0,
+      "within_1yr_pct": 50.0,
       "1_3yr_pct": 28.6,
       "over_3yr_pct": 21.4
     },
     {
       "type": "教育培训",
-      "count": 3,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 100,
-      "over_3yr_pct": 0
+      "count": 3.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
     },
     {
       "type": "生活服务",
-      "count": 12,
-      "within_1yr_pct": 25,
-      "1_3yr_pct": 25,
-      "over_3yr_pct": 50
+      "count": 12.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 50.0
     },
     {
       "type": "运动健身",
-      "count": 7,
+      "count": 7.0,
       "within_1yr_pct": 14.3,
       "1_3yr_pct": 42.9,
       "over_3yr_pct": 42.9
     },
     {
       "type": "车辆服务",
-      "count": 2,
-      "within_1yr_pct": 50,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 50
+      "count": 2.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 50.0
     }
   ],
   "nearby_communities": [

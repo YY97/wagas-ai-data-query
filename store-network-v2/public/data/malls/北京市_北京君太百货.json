@@ -8,7 +8,7 @@
     "score": 94.3,
     "score_rank": "市内前30%",
     "population_score": 81.4,
-    "area_score": 100,
+    "area_score": 100.0,
     "consumption_score": 95.1,
     "industry_score": 94.3,
     "annual_sales": "北京君太百货是一家大型商业企业，总部设于北京，由君太百货集团(Grand Pacific)创立，拥有百货零售事业群、商业管理事业群、餐饮文娱事业群、商业地产事业群、品牌贸易事业群、电子商务事业群、商业设计事业群等七大产业。北京君太百货从B1到7F的营业卖场汇集了中外各类流行时尚精品及生活日用品，单店年营业额逾新台币佰亿",
@@ -49,31 +49,31 @@
     },
     "permanent": {
       "500m": 3.4,
-      "1_5km": 18,
+      "1_5km": 18.0,
       "3km": 72.6
     }
   },
   "business": {
-    "competitors": 16,
-    "food": 387,
-    "shopping": 747,
-    "leisure": 39,
-    "education": 13,
-    "hotel": 26,
-    "services": 148,
-    "fitness": 11,
-    "auto": 22,
-    "total_stores": 208,
-    "old_store_3yr_pct": 59
+    "competitors": 16.0,
+    "food": 387.0,
+    "shopping": 747.0,
+    "leisure": 39.0,
+    "education": 13.0,
+    "hotel": 26.0,
+    "services": 148.0,
+    "fitness": 11.0,
+    "auto": 22.0,
+    "total_stores": 208.0,
+    "old_store_3yr_pct": 59.0
   },
   "nearby_poi": {
-    "business": 9,
-    "community": 377,
-    "office": 101,
-    "school": 47,
-    "hospital": 131,
-    "transport": 8,
-    "scenic": 1032
+    "business": 9.0,
+    "community": 377.0,
+    "office": 101.0,
+    "school": 47.0,
+    "hospital": 131.0,
+    "transport": 8.0,
+    "scenic": 1032.0
   },
   "demographics": {
     "male_pct": 45.8,
@@ -82,7 +82,7 @@
       "小学": 10.3,
       "初中": 17.1,
       "高中": 11.2,
-      "大专": 6,
+      "大专": 6.0,
       "本科": 45.4,
       "硕士": 7.8,
       "博士": 2.2
@@ -420,38 +420,38 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 51,
+      "count": 51.0,
       "within_1yr_pct": 21.6,
       "1_3yr_pct": 27.5,
-      "over_3yr_pct": 51
+      "over_3yr_pct": 51.0
     },
     {
       "type": "购物",
-      "count": 148,
+      "count": 148.0,
       "within_1yr_pct": 17.6,
       "1_3yr_pct": 19.6,
       "over_3yr_pct": 62.8
     },
     {
       "type": "休闲娱乐",
-      "count": 1,
-      "within_1yr_pct": 100,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 0
+      "count": 1.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
     },
     {
       "type": "生活服务",
-      "count": 7,
+      "count": 7.0,
       "within_1yr_pct": 14.3,
       "1_3yr_pct": 57.1,
       "over_3yr_pct": 28.6
     },
     {
       "type": "车辆服务",
-      "count": 1,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 100
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
     }
   ],
   "nearby_communities": [

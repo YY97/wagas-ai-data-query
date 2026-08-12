@@ -9,11 +9,11 @@
     "score_rank": "市内前30%",
     "population_score": 72.2,
     "area_score": 71.6,
-    "consumption_score": 60,
+    "consumption_score": 60.0,
     "industry_score": 91.1,
     "annual_sales": "九亭旭辉U天地是旭辉商业旗下主要布局在城市城区住宅人口密集区域的商业项目，位于松江区九亭镇蒲汇路178弄，距九号线九亭站直线距离约650米，步行3分钟可达。项目整体由大型商场、写字楼、loft住宅、酒店构成，打造“定位品质生活家”概念，全方位满足各阶层的消费需求。",
     "annual_sales_unit": "-",
-    "area_size_sqm": 4,
+    "area_size_sqm": 4.0,
     "open_date": "2017-03-19",
     "operator": "兆丰和(上海)商业管理有限公司",
     "brand": "旭辉商业",
@@ -21,10 +21,10 @@
     "floors": "B1-L3"
   },
   "traffic": {
-    "annual_daily": 9178,
+    "annual_daily": 9178.0,
     "annual_daily_unit": "人次",
     "annual_daily_rank": "市内第266",
-    "jun_total": 33,
+    "jun_total": 33.0,
     "jun_total_rank": "市内商场第288名",
     "jun_daily_avg": 1.1,
     "jun_daily_unit": "万人次",
@@ -38,42 +38,42 @@
   },
   "population": {
     "residential": {
-      "500m": 9700,
+      "500m": 9700.0,
       "1_5km": 17.2,
       "3km": 59.2
     },
     "office": {
-      "500m": 9800,
+      "500m": 9800.0,
       "1_5km": 7.3,
       "3km": 24.9
     },
     "permanent": {
-      "500m": 9300,
+      "500m": 9300.0,
       "1_5km": 15.2,
       "3km": 51.6
     }
   },
   "business": {
-    "competitors": 3,
-    "food": 151,
-    "shopping": 64,
-    "leisure": 18,
-    "education": 18,
-    "hotel": 32,
-    "services": 73,
-    "fitness": 17,
-    "auto": 15,
-    "total_stores": 154,
-    "old_store_3yr_pct": 36
+    "competitors": 3.0,
+    "food": 151.0,
+    "shopping": 64.0,
+    "leisure": 18.0,
+    "education": 18.0,
+    "hotel": 32.0,
+    "services": 73.0,
+    "fitness": 17.0,
+    "auto": 15.0,
+    "total_stores": 154.0,
+    "old_store_3yr_pct": 36.0
   },
   "nearby_poi": {
-    "business": 4,
-    "community": 241,
-    "office": 35,
-    "school": 16,
-    "hospital": 34,
-    "transport": 9,
-    "scenic": 43
+    "business": 4.0,
+    "community": 241.0,
+    "office": 35.0,
+    "school": 16.0,
+    "hospital": 34.0,
+    "transport": 9.0,
+    "scenic": 43.0
   },
   "demographics": {
     "male_pct": 53.5,
@@ -380,59 +380,59 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 64,
+      "count": 64.0,
       "within_1yr_pct": 40.6,
       "1_3yr_pct": 28.1,
       "over_3yr_pct": 31.3
     },
     {
       "type": "购物",
-      "count": 25,
-      "within_1yr_pct": 28,
-      "1_3yr_pct": 28,
-      "over_3yr_pct": 44
+      "count": 25.0,
+      "within_1yr_pct": 28.0,
+      "1_3yr_pct": 28.0,
+      "over_3yr_pct": 44.0
     },
     {
       "type": "休闲娱乐",
-      "count": 9,
+      "count": 9.0,
       "within_1yr_pct": 33.3,
       "1_3yr_pct": 33.3,
       "over_3yr_pct": 33.3
     },
     {
       "type": "教育培训",
-      "count": 10,
-      "within_1yr_pct": 20,
-      "1_3yr_pct": 10,
-      "over_3yr_pct": 70
+      "count": 10.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 10.0,
+      "over_3yr_pct": 70.0
     },
     {
       "type": "酒店住宿",
-      "count": 7,
+      "count": 7.0,
       "within_1yr_pct": 28.6,
       "1_3yr_pct": 28.6,
       "over_3yr_pct": 42.9
     },
     {
       "type": "生活服务",
-      "count": 28,
+      "count": 28.0,
       "within_1yr_pct": 17.9,
       "1_3yr_pct": 57.1,
-      "over_3yr_pct": 25
+      "over_3yr_pct": 25.0
     },
     {
       "type": "运动健身",
-      "count": 6,
+      "count": 6.0,
       "within_1yr_pct": 33.3,
       "1_3yr_pct": 33.3,
       "over_3yr_pct": 33.3
     },
     {
       "type": "车辆服务",
-      "count": 5,
-      "within_1yr_pct": 20,
-      "1_3yr_pct": 20,
-      "over_3yr_pct": 60
+      "count": 5.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 20.0,
+      "over_3yr_pct": 60.0
     }
   ],
   "nearby_communities": [

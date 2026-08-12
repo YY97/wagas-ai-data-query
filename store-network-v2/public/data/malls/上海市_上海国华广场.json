@@ -13,7 +13,7 @@
     "industry_score": 92.7,
     "annual_sales": "国华广场位于闸殷路、三门路、淞沪路交汇之地，以TOD城市综合体模式，带来5A办公、酒店式公寓、购物中心三大业态，商业MALL将打造为饕餮美食、设计时尚、影音感官、萌娃宝贝4大秀场，且内装空间、公共景观及业态选择均以休闲体验为出发点，为城市居民缔造更具情怀的休闲场所",
     "annual_sales_unit": "-",
-    "area_size_sqm": 6,
+    "area_size_sqm": 6.0,
     "open_date": "2019-12-01",
     "operator": "华润万象生活有限公司",
     "brand": "国华置业",
@@ -32,15 +32,15 @@
     "weekday_avg": 2.5,
     "weekday_unit": "万人次",
     "weekday_rank": "市内商场第151名",
-    "holiday_avg": 3,
+    "holiday_avg": 3.0,
     "holiday_unit": "万人次",
     "holiday_rank": "市内商场第162名"
   },
   "population": {
     "residential": {
-      "500m": 2,
+      "500m": 2.0,
       "1_5km": 18.7,
-      "3km": 85
+      "3km": 85.0
     },
     "office": {
       "500m": 3.2,
@@ -54,26 +54,26 @@
     }
   },
   "business": {
-    "competitors": 7,
-    "food": 194,
-    "shopping": 81,
-    "leisure": 10,
-    "education": 17,
-    "hotel": 11,
-    "services": 100,
-    "fitness": 20,
-    "auto": 20,
-    "total_stores": 126,
-    "old_store_3yr_pct": 40
+    "competitors": 7.0,
+    "food": 194.0,
+    "shopping": 81.0,
+    "leisure": 10.0,
+    "education": 17.0,
+    "hotel": 11.0,
+    "services": 100.0,
+    "fitness": 20.0,
+    "auto": 20.0,
+    "total_stores": 126.0,
+    "old_store_3yr_pct": 40.0
   },
   "nearby_poi": {
-    "business": 9,
-    "community": 485,
-    "office": 66,
-    "school": 28,
-    "hospital": 44,
-    "transport": 12,
-    "scenic": 151
+    "business": 9.0,
+    "community": 485.0,
+    "office": 66.0,
+    "school": 28.0,
+    "hospital": 44.0,
+    "transport": 12.0,
+    "scenic": 151.0
   },
   "demographics": {
     "male_pct": 47.5,
@@ -420,58 +420,58 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 67,
+      "count": 67.0,
       "within_1yr_pct": 13.4,
       "1_3yr_pct": 32.8,
       "over_3yr_pct": 53.7
     },
     {
       "type": "购物",
-      "count": 18,
+      "count": 18.0,
       "within_1yr_pct": 27.8,
       "1_3yr_pct": 61.1,
       "over_3yr_pct": 11.1
     },
     {
       "type": "休闲娱乐",
-      "count": 7,
+      "count": 7.0,
       "within_1yr_pct": 28.6,
       "1_3yr_pct": 42.9,
       "over_3yr_pct": 28.6
     },
     {
       "type": "教育培训",
-      "count": 6,
+      "count": 6.0,
       "within_1yr_pct": 16.7,
       "1_3yr_pct": 33.3,
-      "over_3yr_pct": 50
+      "over_3yr_pct": 50.0
     },
     {
       "type": "酒店住宿",
-      "count": 2,
-      "within_1yr_pct": 50,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 50
+      "count": 2.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 50.0
     },
     {
       "type": "生活服务",
-      "count": 18,
+      "count": 18.0,
       "within_1yr_pct": 44.4,
       "1_3yr_pct": 38.9,
       "over_3yr_pct": 16.7
     },
     {
       "type": "运动健身",
-      "count": 5,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 80,
-      "over_3yr_pct": 20
+      "count": 5.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 80.0,
+      "over_3yr_pct": 20.0
     },
     {
       "type": "车辆服务",
-      "count": 3,
+      "count": 3.0,
       "within_1yr_pct": 33.3,
-      "1_3yr_pct": 0,
+      "1_3yr_pct": 0.0,
       "over_3yr_pct": 66.7
     }
   ],

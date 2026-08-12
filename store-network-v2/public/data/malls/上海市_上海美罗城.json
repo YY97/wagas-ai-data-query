@@ -8,7 +8,7 @@
     "score": 95.6,
     "score_rank": "市内前30%",
     "population_score": 88.1,
-    "area_score": 100,
+    "area_score": 100.0,
     "consumption_score": 87.8,
     "industry_score": 95.6,
     "annual_sales": "上海美罗城位于上海市肇嘉浜路1111号，是上海市一处购物娱乐中心。美罗城以其巨型玻璃球体为独特标志，素有徐家汇“地标”之美誉。项目由新加坡BJ建筑设计事务所和上海华东建筑设计研究院共同设计，上海住总集团承建，于1994年12月开工，1998年5月竣工开业。美罗城、美罗大厦物业直接相连地铁，又毗邻内环线高架公路和环城轻轨，距市中心、外滩、虹桥机场及浦东新区等中心地带仅需20分钟车程，极便于商业、商务活动开展",
@@ -43,37 +43,37 @@
       "3km": 95.4
     },
     "office": {
-      "500m": 5,
+      "500m": 5.0,
       "1_5km": 26.7,
       "3km": 83.3
     },
     "permanent": {
       "500m": 5.4,
       "1_5km": 31.3,
-      "3km": 106
+      "3km": 106.0
     }
   },
   "business": {
-    "competitors": 24,
-    "food": 618,
-    "shopping": 725,
-    "leisure": 75,
-    "education": 91,
-    "hotel": 59,
-    "services": 353,
-    "fitness": 56,
-    "auto": 33,
-    "total_stores": 213,
-    "old_store_3yr_pct": 55
+    "competitors": 24.0,
+    "food": 618.0,
+    "shopping": 725.0,
+    "leisure": 75.0,
+    "education": 91.0,
+    "hotel": 59.0,
+    "services": 353.0,
+    "fitness": 56.0,
+    "auto": 33.0,
+    "total_stores": 213.0,
+    "old_store_3yr_pct": 55.0
   },
   "nearby_poi": {
-    "business": 15,
-    "community": 1095,
-    "office": 143,
-    "school": 72,
-    "hospital": 149,
-    "transport": 9,
-    "scenic": 398
+    "business": 15.0,
+    "community": 1095.0,
+    "office": 143.0,
+    "school": 72.0,
+    "hospital": 149.0,
+    "transport": 9.0,
+    "scenic": 398.0
   },
   "demographics": {
     "male_pct": 44.6,
@@ -428,52 +428,52 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 111,
+      "count": 111.0,
       "within_1yr_pct": 16.2,
       "1_3yr_pct": 31.5,
       "over_3yr_pct": 52.3
     },
     {
       "type": "购物",
-      "count": 67,
+      "count": 67.0,
       "within_1yr_pct": 16.4,
       "1_3yr_pct": 17.9,
       "over_3yr_pct": 65.7
     },
     {
       "type": "休闲娱乐",
-      "count": 6,
+      "count": 6.0,
       "within_1yr_pct": 66.7,
-      "1_3yr_pct": 0,
+      "1_3yr_pct": 0.0,
       "over_3yr_pct": 33.3
     },
     {
       "type": "教育培训",
-      "count": 1,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 100
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
     },
     {
       "type": "生活服务",
-      "count": 21,
+      "count": 21.0,
       "within_1yr_pct": 28.6,
       "1_3yr_pct": 28.6,
       "over_3yr_pct": 42.9
     },
     {
       "type": "运动健身",
-      "count": 6,
+      "count": 6.0,
       "within_1yr_pct": 33.3,
       "1_3yr_pct": 33.3,
       "over_3yr_pct": 33.3
     },
     {
       "type": "车辆服务",
-      "count": 1,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 100
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
     }
   ],
   "nearby_communities": [

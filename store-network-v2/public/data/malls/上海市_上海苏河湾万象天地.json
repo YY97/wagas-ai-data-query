@@ -8,12 +8,12 @@
     "score": 93.1,
     "score_rank": "市内前30%",
     "population_score": 83.5,
-    "area_score": 93,
+    "area_score": 93.0,
     "consumption_score": 88.5,
     "industry_score": 93.2,
     "annual_sales": "上海苏河湾万象天地位于上海苏州河畔，由Kokaistudios设计，采用“城市峡谷”概念，将商业空间与周边环境有机融合，打造出一个全新的城市公共空间",
     "annual_sales_unit": "-",
-    "area_size_sqm": 6,
+    "area_size_sqm": 6.0,
     "open_date": "2022-01-01",
     "operator": "上海华筵房地产开发有限公司",
     "brand": "华润",
@@ -43,7 +43,7 @@
       "3km": 84.3
     },
     "office": {
-      "500m": 3,
+      "500m": 3.0,
       "1_5km": 31.1,
       "3km": 106.9
     },
@@ -54,33 +54,33 @@
     }
   },
   "business": {
-    "competitors": 8,
-    "food": 242,
-    "shopping": 553,
-    "leisure": 25,
-    "education": 9,
-    "hotel": 89,
-    "services": 151,
-    "fitness": 17,
-    "auto": 40,
-    "total_stores": 160,
-    "old_store_3yr_pct": 36
+    "competitors": 8.0,
+    "food": 242.0,
+    "shopping": 553.0,
+    "leisure": 25.0,
+    "education": 9.0,
+    "hotel": 89.0,
+    "services": 151.0,
+    "fitness": 17.0,
+    "auto": 40.0,
+    "total_stores": 160.0,
+    "old_store_3yr_pct": 36.0
   },
   "nearby_poi": {
-    "business": 26,
-    "community": 871,
-    "office": 232,
-    "school": 51,
-    "hospital": 175,
-    "transport": 16,
-    "scenic": 899
+    "business": 26.0,
+    "community": 871.0,
+    "office": 232.0,
+    "school": 51.0,
+    "hospital": 175.0,
+    "transport": 16.0,
+    "scenic": 899.0
   },
   "demographics": {
     "male_pct": 48.8,
     "female_pct": null,
     "education": {
       "小学": 10.1,
-      "初中": 20,
+      "初中": 20.0,
       "高中": 12.2,
       "大专": 7.7,
       "本科": 44.8,
@@ -428,52 +428,52 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 60,
+      "count": 60.0,
       "within_1yr_pct": 13.3,
-      "1_3yr_pct": 40,
+      "1_3yr_pct": 40.0,
       "over_3yr_pct": 46.7
     },
     {
       "type": "购物",
-      "count": 52,
-      "within_1yr_pct": 25,
+      "count": 52.0,
+      "within_1yr_pct": 25.0,
       "1_3yr_pct": 40.4,
       "over_3yr_pct": 34.6
     },
     {
       "type": "休闲娱乐",
-      "count": 16,
+      "count": 16.0,
       "within_1yr_pct": 31.3,
       "1_3yr_pct": 68.8,
-      "over_3yr_pct": 0
+      "over_3yr_pct": 0.0
     },
     {
       "type": "教育培训",
-      "count": 3,
+      "count": 3.0,
       "within_1yr_pct": 33.3,
       "1_3yr_pct": 66.7,
-      "over_3yr_pct": 0
+      "over_3yr_pct": 0.0
     },
     {
       "type": "生活服务",
-      "count": 19,
+      "count": 19.0,
       "within_1yr_pct": 26.3,
       "1_3yr_pct": 31.6,
       "over_3yr_pct": 42.1
     },
     {
       "type": "运动健身",
-      "count": 2,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 50,
-      "over_3yr_pct": 50
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 50.0
     },
     {
       "type": "车辆服务",
-      "count": 8,
-      "within_1yr_pct": 25,
-      "1_3yr_pct": 50,
-      "over_3yr_pct": 25
+      "count": 8.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 25.0
     }
   ],
   "nearby_communities": [

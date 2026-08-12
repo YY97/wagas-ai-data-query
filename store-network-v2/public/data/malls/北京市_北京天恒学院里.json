@@ -7,7 +7,7 @@
   "overview": {
     "score": 73.6,
     "score_rank": "市内前50%",
-    "population_score": 100,
+    "population_score": 100.0,
     "area_score": 73.8,
     "consumption_score": 85.4,
     "industry_score": 73.4,
@@ -45,42 +45,42 @@
     "office": {
       "500m": 1.2,
       "1_5km": 15.7,
-      "3km": 67
+      "3km": 67.0
     },
     "permanent": {
       "500m": 2.9,
-      "1_5km": 24,
+      "1_5km": 24.0,
       "3km": 87.5
     }
   },
   "business": {
     "competitors": null,
-    "food": 156,
-    "shopping": 52,
-    "leisure": 9,
-    "education": 2,
-    "hotel": 22,
-    "services": 78,
-    "fitness": 7,
-    "auto": 9,
-    "total_stores": 26,
-    "old_store_3yr_pct": 46
+    "food": 156.0,
+    "shopping": 52.0,
+    "leisure": 9.0,
+    "education": 2.0,
+    "hotel": 22.0,
+    "services": 78.0,
+    "fitness": 7.0,
+    "auto": 9.0,
+    "total_stores": 26.0,
+    "old_store_3yr_pct": 46.0
   },
   "nearby_poi": {
-    "business": 2,
-    "community": 497,
-    "office": 63,
-    "school": 45,
-    "hospital": 116,
-    "transport": 6,
-    "scenic": 373
+    "business": 2.0,
+    "community": 497.0,
+    "office": 63.0,
+    "school": 45.0,
+    "hospital": 116.0,
+    "transport": 6.0,
+    "scenic": 373.0
   },
   "demographics": {
     "male_pct": 47.1,
     "female_pct": null,
     "education": {
-      "小学": 7,
-      "初中": 13,
+      "小学": 7.0,
+      "初中": 13.0,
       "高中": 15.2,
       "大专": 4.2,
       "本科": 47.1,
@@ -364,24 +364,24 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 21,
+      "count": 21.0,
       "within_1yr_pct": 38.1,
       "1_3yr_pct": 23.8,
       "over_3yr_pct": 38.1
     },
     {
       "type": "休闲娱乐",
-      "count": 1,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 100,
-      "over_3yr_pct": 0
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
     },
     {
       "type": "生活服务",
-      "count": 4,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 100
+      "count": 4.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
     }
   ],
   "nearby_communities": [

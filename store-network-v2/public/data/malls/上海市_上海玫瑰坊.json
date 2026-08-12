@@ -8,7 +8,7 @@
     "score": 83.2,
     "score_rank": "市内前30%",
     "population_score": 89.4,
-    "area_score": 100,
+    "area_score": 100.0,
     "consumption_score": 84.7,
     "industry_score": 83.1,
     "annual_sales": "上海玫瑰坊商业街总建筑面积约1.7万平方米，共有4层，聚集了上百家特色店铺，走廊为彩色玻璃装饰，汇聚了小吃、餐厅、服饰小店、小商品等店铺，公园、住宅、酒店式公寓等布局周边，是上海市居民休闲购物的好去处",
@@ -45,38 +45,38 @@
     "office": {
       "500m": 3.7,
       "1_5km": 20.3,
-      "3km": 85
+      "3km": 85.0
     },
     "permanent": {
       "500m": 4.3,
       "1_5km": 31.7,
-      "3km": 113
+      "3km": 113.0
     }
   },
   "business": {
-    "competitors": 17,
-    "food": 511,
-    "shopping": 456,
-    "leisure": 53,
-    "education": 84,
-    "hotel": 61,
-    "services": 335,
-    "fitness": 44,
-    "auto": 39,
-    "total_stores": 61,
-    "old_store_3yr_pct": 74
+    "competitors": 17.0,
+    "food": 511.0,
+    "shopping": 456.0,
+    "leisure": 53.0,
+    "education": 84.0,
+    "hotel": 61.0,
+    "services": 335.0,
+    "fitness": 44.0,
+    "auto": 39.0,
+    "total_stores": 61.0,
+    "old_store_3yr_pct": 74.0
   },
   "nearby_poi": {
-    "business": 14,
-    "community": 1046,
-    "office": 137,
-    "school": 63,
-    "hospital": 161,
-    "transport": 16,
-    "scenic": 496
+    "business": 14.0,
+    "community": 1046.0,
+    "office": 137.0,
+    "school": 63.0,
+    "hospital": 161.0,
+    "transport": 16.0,
+    "scenic": 496.0
   },
   "demographics": {
-    "male_pct": 48,
+    "male_pct": 48.0,
     "female_pct": null,
     "education": {
       "小学": 8.8,
@@ -428,45 +428,45 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 25,
-      "within_1yr_pct": 12,
-      "1_3yr_pct": 20,
-      "over_3yr_pct": 68
+      "count": 25.0,
+      "within_1yr_pct": 12.0,
+      "1_3yr_pct": 20.0,
+      "over_3yr_pct": 68.0
     },
     {
       "type": "购物",
-      "count": 25,
-      "within_1yr_pct": 8,
-      "1_3yr_pct": 8,
-      "over_3yr_pct": 84
+      "count": 25.0,
+      "within_1yr_pct": 8.0,
+      "1_3yr_pct": 8.0,
+      "over_3yr_pct": 84.0
     },
     {
       "type": "休闲娱乐",
-      "count": 4,
-      "within_1yr_pct": 50,
-      "1_3yr_pct": 25,
-      "over_3yr_pct": 25
+      "count": 4.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 25.0
     },
     {
       "type": "教育培训",
-      "count": 2,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 50,
-      "over_3yr_pct": 50
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 50.0
     },
     {
       "type": "生活服务",
-      "count": 4,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 100
+      "count": 4.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
     },
     {
       "type": "运动健身",
-      "count": 1,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 100
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
     }
   ],
   "nearby_communities": [

@@ -5,10 +5,10 @@
   "lat": 31.057637,
   "lng": 121.243015,
   "overview": {
-    "score": 96,
+    "score": 96.0,
     "score_rank": "市内前30%",
     "population_score": 86.6,
-    "area_score": 93,
+    "area_score": 93.0,
     "consumption_score": 68.2,
     "industry_score": 96.1,
     "annual_sales": "上海松江万达广场是集购物、休闲、娱乐、餐饮为一体的城市综合体，主力店主要经营中高档时尚百货（万达百货）、五星级数码影院（万达影院）、量贩式KTV（大歌星KTV）、电玩城（大玩家超乐场）、国际知名时尚品牌、大型品牌餐饮等多种业态及室内步行街。",
@@ -44,7 +44,7 @@
     },
     "office": {
       "500m": 1.6,
-      "1_5km": 5,
+      "1_5km": 5.0,
       "3km": 14.5
     },
     "permanent": {
@@ -54,26 +54,26 @@
     }
   },
   "business": {
-    "competitors": 7,
-    "food": 338,
-    "shopping": 294,
-    "leisure": 74,
-    "education": 72,
-    "hotel": 55,
-    "services": 395,
-    "fitness": 35,
-    "auto": 41,
-    "total_stores": 739,
-    "old_store_3yr_pct": 46
+    "competitors": 7.0,
+    "food": 338.0,
+    "shopping": 294.0,
+    "leisure": 74.0,
+    "education": 72.0,
+    "hotel": 55.0,
+    "services": 395.0,
+    "fitness": 35.0,
+    "auto": 41.0,
+    "total_stores": 739.0,
+    "old_store_3yr_pct": 46.0
   },
   "nearby_poi": {
-    "business": 4,
-    "community": 91,
-    "office": 21,
-    "school": 10,
-    "hospital": 17,
-    "transport": 6,
-    "scenic": 38
+    "business": 4.0,
+    "community": 91.0,
+    "office": 21.0,
+    "school": 10.0,
+    "hospital": 17.0,
+    "transport": 6.0,
+    "scenic": 38.0
   },
   "demographics": {
     "male_pct": 47.5,
@@ -84,7 +84,7 @@
       "高中": 16.2,
       "大专": 6.9,
       "本科": 45.4,
-      "硕士": 5,
+      "硕士": 5.0,
       "博士": 1.3
     },
     "has_children_pct": 63.7,
@@ -380,57 +380,57 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 212,
+      "count": 212.0,
       "within_1yr_pct": 19.3,
       "1_3yr_pct": 32.5,
       "over_3yr_pct": 48.1
     },
     {
       "type": "购物",
-      "count": 198,
+      "count": 198.0,
       "within_1yr_pct": 19.7,
       "1_3yr_pct": 28.3,
-      "over_3yr_pct": 52
+      "over_3yr_pct": 52.0
     },
     {
       "type": "休闲娱乐",
-      "count": 53,
+      "count": 53.0,
       "within_1yr_pct": 41.5,
       "1_3yr_pct": 35.8,
       "over_3yr_pct": 22.6
     },
     {
       "type": "教育培训",
-      "count": 25,
-      "within_1yr_pct": 28,
-      "1_3yr_pct": 16,
-      "over_3yr_pct": 56
+      "count": 25.0,
+      "within_1yr_pct": 28.0,
+      "1_3yr_pct": 16.0,
+      "over_3yr_pct": 56.0
     },
     {
       "type": "酒店住宿",
-      "count": 23,
+      "count": 23.0,
       "within_1yr_pct": 30.4,
-      "1_3yr_pct": 13,
+      "1_3yr_pct": 13.0,
       "over_3yr_pct": 56.5
     },
     {
       "type": "生活服务",
-      "count": 203,
-      "within_1yr_pct": 30,
+      "count": 203.0,
+      "within_1yr_pct": 30.0,
       "1_3yr_pct": 28.6,
       "over_3yr_pct": 41.4
     },
     {
       "type": "运动健身",
-      "count": 9,
-      "within_1yr_pct": 0,
+      "count": 9.0,
+      "within_1yr_pct": 0.0,
       "1_3yr_pct": 55.6,
       "over_3yr_pct": 44.4
     },
     {
       "type": "车辆服务",
-      "count": 16,
-      "within_1yr_pct": 50,
+      "count": 16.0,
+      "within_1yr_pct": 50.0,
       "1_3yr_pct": 18.8,
       "over_3yr_pct": 31.3
     }

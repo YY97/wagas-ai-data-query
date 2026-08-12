@@ -13,7 +13,7 @@
     "industry_score": 90.7,
     "annual_sales": "3000",
     "annual_sales_unit": "万元",
-    "area_size_sqm": 5,
+    "area_size_sqm": 5.0,
     "open_date": "2011-08-01",
     "operator": "北京跃活百货市场有限公司",
     "brand": "",
@@ -54,26 +54,26 @@
     }
   },
   "business": {
-    "competitors": 5,
-    "food": 234,
-    "shopping": 179,
-    "leisure": 26,
-    "education": 44,
-    "hotel": 15,
-    "services": 149,
-    "fitness": 31,
-    "auto": 12,
-    "total_stores": 148,
-    "old_store_3yr_pct": 59
+    "competitors": 5.0,
+    "food": 234.0,
+    "shopping": 179.0,
+    "leisure": 26.0,
+    "education": 44.0,
+    "hotel": 15.0,
+    "services": 149.0,
+    "fitness": 31.0,
+    "auto": 12.0,
+    "total_stores": 148.0,
+    "old_store_3yr_pct": 59.0
   },
   "nearby_poi": {
-    "business": 4,
-    "community": 160,
-    "office": 24,
-    "school": 29,
-    "hospital": 25,
-    "transport": 10,
-    "scenic": 94
+    "business": 4.0,
+    "community": 160.0,
+    "office": 24.0,
+    "school": 29.0,
+    "hospital": 25.0,
+    "transport": 10.0,
+    "scenic": 94.0
   },
   "demographics": {
     "male_pct": 50.8,
@@ -150,52 +150,52 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 70,
+      "count": 70.0,
       "within_1yr_pct": 22.9,
       "1_3yr_pct": 18.6,
       "over_3yr_pct": 58.6
     },
     {
       "type": "购物",
-      "count": 22,
+      "count": 22.0,
       "within_1yr_pct": 13.6,
       "1_3yr_pct": 18.2,
       "over_3yr_pct": 68.2
     },
     {
       "type": "休闲娱乐",
-      "count": 7,
+      "count": 7.0,
       "within_1yr_pct": 14.3,
       "1_3yr_pct": 28.6,
       "over_3yr_pct": 57.1
     },
     {
       "type": "教育培训",
-      "count": 17,
+      "count": 17.0,
       "within_1yr_pct": 11.8,
       "1_3yr_pct": 29.4,
       "over_3yr_pct": 58.8
     },
     {
       "type": "生活服务",
-      "count": 25,
-      "within_1yr_pct": 16,
-      "1_3yr_pct": 28,
-      "over_3yr_pct": 56
+      "count": 25.0,
+      "within_1yr_pct": 16.0,
+      "1_3yr_pct": 28.0,
+      "over_3yr_pct": 56.0
     },
     {
       "type": "运动健身",
-      "count": 5,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 40,
-      "over_3yr_pct": 60
+      "count": 5.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 40.0,
+      "over_3yr_pct": 60.0
     },
     {
       "type": "车辆服务",
-      "count": 2,
-      "within_1yr_pct": 50,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 50
+      "count": 2.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 50.0
     }
   ],
   "nearby_communities": [

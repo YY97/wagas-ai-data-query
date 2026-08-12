@@ -13,7 +13,7 @@
     "industry_score": 92.2,
     "annual_sales": "上海中海环宇荟定位为精品社区型商业中心，主要满足周边1-2公里居民和白领生活需求。项目主打餐饮业态，占比近80%，引入了部分首店和特色餐饮品牌。项目位于地铁9号线、13号线马当路站，地下1层、地上2层，已进驻品牌量60-70家",
     "annual_sales_unit": "-",
-    "area_size_sqm": 3,
+    "area_size_sqm": 3.0,
     "open_date": "2018-07-02",
     "operator": "中海地产集团有限责任公司",
     "brand": "中海",
@@ -26,7 +26,7 @@
     "annual_daily_rank": "市内第201",
     "jun_total": 59.3,
     "jun_total_rank": "市内商场第190名",
-    "jun_daily_avg": 2,
+    "jun_daily_avg": 2.0,
     "jun_daily_unit": "万人次",
     "jun_daily_rank": "市内商场第190名",
     "weekday_avg": 2.1,
@@ -54,26 +54,26 @@
     }
   },
   "business": {
-    "competitors": 10,
-    "food": 308,
-    "shopping": 198,
-    "leisure": 26,
-    "education": 20,
-    "hotel": 45,
-    "services": 192,
-    "fitness": 26,
-    "auto": 23,
-    "total_stores": 106,
-    "old_store_3yr_pct": 42
+    "competitors": 10.0,
+    "food": 308.0,
+    "shopping": 198.0,
+    "leisure": 26.0,
+    "education": 20.0,
+    "hotel": 45.0,
+    "services": 192.0,
+    "fitness": 26.0,
+    "auto": 23.0,
+    "total_stores": 106.0,
+    "old_store_3yr_pct": 42.0
   },
   "nearby_poi": {
-    "business": 23,
-    "community": 1006,
-    "office": 151,
-    "school": 93,
-    "hospital": 184,
-    "transport": 13,
-    "scenic": 792
+    "business": 23.0,
+    "community": 1006.0,
+    "office": 151.0,
+    "school": 93.0,
+    "hospital": 184.0,
+    "transport": 13.0,
+    "scenic": 792.0
   },
   "demographics": {
     "male_pct": 48.4,
@@ -428,52 +428,52 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 66,
+      "count": 66.0,
       "within_1yr_pct": 33.3,
       "1_3yr_pct": 24.2,
       "over_3yr_pct": 42.4
     },
     {
       "type": "购物",
-      "count": 13,
+      "count": 13.0,
       "within_1yr_pct": 15.4,
       "1_3yr_pct": 46.2,
       "over_3yr_pct": 38.5
     },
     {
       "type": "休闲娱乐",
-      "count": 9,
+      "count": 9.0,
       "within_1yr_pct": 22.2,
       "1_3yr_pct": 22.2,
       "over_3yr_pct": 55.6
     },
     {
       "type": "教育培训",
-      "count": 2,
-      "within_1yr_pct": 50,
-      "1_3yr_pct": 50,
-      "over_3yr_pct": 0
+      "count": 2.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 0.0
     },
     {
       "type": "生活服务",
-      "count": 6,
-      "within_1yr_pct": 0,
+      "count": 6.0,
+      "within_1yr_pct": 0.0,
       "1_3yr_pct": 33.3,
       "over_3yr_pct": 66.7
     },
     {
       "type": "运动健身",
-      "count": 2,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 50,
-      "over_3yr_pct": 50
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 50.0
     },
     {
       "type": "车辆服务",
-      "count": 8,
+      "count": 8.0,
       "within_1yr_pct": 62.5,
       "1_3yr_pct": 12.5,
-      "over_3yr_pct": 25
+      "over_3yr_pct": 25.0
     }
   ],
   "nearby_communities": [

@@ -13,7 +13,7 @@
     "industry_score": 87.4,
     "annual_sales": "北京百盛购物中心于1994年进驻中国零售业市场，并在北京复兴门内大街开设首家百货店，定位于中高档消费群体。百盛是最早在中国经营时尚百货外资连锁企业之一，并且目前已经发展成为中国最大的时尚百货集团之一 。百盛购物中心复兴门店有二十多年的历史，是我国首家外资百货商场，也是百盛集团进驻中国零售业市场的首家店面。门店于1994年开业，其独特的定位以及标志性的建筑轮廓，成为了一代代北京人成长记忆中最特别的存在。项目地理位置优越，紧邻二环路、面朝长安街、东临中国人民银行总行及其二期，是金融街片区的重要门户。",
     "annual_sales_unit": "-",
-    "area_size_sqm": 3,
+    "area_size_sqm": 3.0,
     "open_date": "1994-03-01",
     "operator": "百盛商业集团有限公司",
     "brand": "",
@@ -26,19 +26,19 @@
     "annual_daily_rank": "市内第206",
     "jun_total": 24.1,
     "jun_total_rank": "市内商场第262名",
-    "jun_daily_avg": 8029,
+    "jun_daily_avg": 8029.0,
     "jun_daily_unit": "人次",
     "jun_daily_rank": "市内商场第262名",
-    "weekday_avg": 9595,
+    "weekday_avg": 9595.0,
     "weekday_unit": "人次",
     "weekday_rank": "市内商场第248名",
-    "holiday_avg": 3723,
+    "holiday_avg": 3723.0,
     "holiday_unit": "人次",
     "holiday_rank": "市内商场第314名"
   },
   "population": {
     "residential": {
-      "500m": 8500,
+      "500m": 8500.0,
       "1_5km": 19.7,
       "3km": 80.7
     },
@@ -48,32 +48,32 @@
       "3km": 75.4
     },
     "permanent": {
-      "500m": 2,
-      "1_5km": 24,
+      "500m": 2.0,
+      "1_5km": 24.0,
       "3km": 85.8
     }
   },
   "business": {
-    "competitors": 5,
-    "food": 61,
-    "shopping": 65,
-    "leisure": 3,
-    "education": 6,
-    "hotel": 8,
-    "services": 41,
-    "fitness": 24,
-    "auto": 2,
-    "total_stores": 72,
-    "old_store_3yr_pct": 60
+    "competitors": 5.0,
+    "food": 61.0,
+    "shopping": 65.0,
+    "leisure": 3.0,
+    "education": 6.0,
+    "hotel": 8.0,
+    "services": 41.0,
+    "fitness": 24.0,
+    "auto": 2.0,
+    "total_stores": 72.0,
+    "old_store_3yr_pct": 60.0
   },
   "nearby_poi": {
-    "business": 10,
-    "community": 498,
-    "office": 130,
-    "school": 54,
-    "hospital": 123,
-    "transport": 13,
-    "scenic": 417
+    "business": 10.0,
+    "community": 498.0,
+    "office": 130.0,
+    "school": 54.0,
+    "hospital": 123.0,
+    "transport": 13.0,
+    "scenic": 417.0
   },
   "demographics": {
     "male_pct": 47.3,
@@ -428,45 +428,45 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 19,
-      "within_1yr_pct": 0,
+      "count": 19.0,
+      "within_1yr_pct": 0.0,
       "1_3yr_pct": 31.6,
       "over_3yr_pct": 68.4
     },
     {
       "type": "购物",
-      "count": 44,
+      "count": 44.0,
       "within_1yr_pct": 15.9,
       "1_3yr_pct": 22.7,
       "over_3yr_pct": 61.4
     },
     {
       "type": "教育培训",
-      "count": 1,
-      "within_1yr_pct": 100,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 0
+      "count": 1.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
     },
     {
       "type": "酒店住宿",
-      "count": 1,
-      "within_1yr_pct": 100,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 0
+      "count": 1.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
     },
     {
       "type": "生活服务",
-      "count": 6,
+      "count": 6.0,
       "within_1yr_pct": 33.3,
       "1_3yr_pct": 33.3,
       "over_3yr_pct": 33.3
     },
     {
       "type": "运动健身",
-      "count": 1,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 100
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
     }
   ],
   "nearby_communities": [

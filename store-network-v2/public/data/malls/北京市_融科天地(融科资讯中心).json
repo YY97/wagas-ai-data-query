@@ -13,7 +13,7 @@
     "industry_score": 87.2,
     "annual_sales": "融科天地位于中关村，是融科资讯中心的配套商业，主要为融科资讯中心写字楼的高端客户服务；项目主要为地下一层，地下二层和一层也有部分商业，以餐饮和服务为主，还有太平洋影城，钟书阁等主力店，整体感觉比较精致和舒适。融科资讯中心商业主要由裙房及主楼的1层至3层、地下1层至2层构成，且A、B、C地下商业全部贯通。",
     "annual_sales_unit": "-",
-    "area_size_sqm": 2,
+    "area_size_sqm": 2.0,
     "open_date": "2002-01-01",
     "operator": "第一太平融科物业管理(北京)有限公司",
     "brand": "",
@@ -26,19 +26,19 @@
     "annual_daily_rank": "",
     "jun_total": 27.8,
     "jun_total_rank": "市内商场第256名",
-    "jun_daily_avg": 9261,
+    "jun_daily_avg": 9261.0,
     "jun_daily_unit": "人次",
     "jun_daily_rank": "市内商场第256名",
-    "weekday_avg": 1,
+    "weekday_avg": 1.0,
     "weekday_unit": "万人次",
     "weekday_rank": "市内商场第238名",
-    "holiday_avg": 6212,
+    "holiday_avg": 6212.0,
     "holiday_unit": "人次",
     "holiday_rank": "市内商场第292名"
   },
   "population": {
     "residential": {
-      "500m": 2,
+      "500m": 2.0,
       "1_5km": 19.6,
       "3km": 75.6
     },
@@ -54,32 +54,32 @@
     }
   },
   "business": {
-    "competitors": 2,
-    "food": 127,
-    "shopping": 35,
-    "leisure": 3,
-    "education": 33,
-    "hotel": 9,
-    "services": 47,
-    "fitness": 17,
-    "auto": 11,
-    "total_stores": 65,
-    "old_store_3yr_pct": 68
+    "competitors": 2.0,
+    "food": 127.0,
+    "shopping": 35.0,
+    "leisure": 3.0,
+    "education": 33.0,
+    "hotel": 9.0,
+    "services": 47.0,
+    "fitness": 17.0,
+    "auto": 11.0,
+    "total_stores": 65.0,
+    "old_store_3yr_pct": 68.0
   },
   "nearby_poi": {
-    "business": 6,
-    "community": 279,
-    "office": 135,
-    "school": 41,
-    "hospital": 91,
-    "transport": 5,
-    "scenic": 352
+    "business": 6.0,
+    "community": 279.0,
+    "office": 135.0,
+    "school": 41.0,
+    "hospital": 91.0,
+    "transport": 5.0,
+    "scenic": 352.0
   },
   "demographics": {
     "male_pct": 49.4,
     "female_pct": null,
     "education": {
-      "小学": 7,
+      "小学": 7.0,
       "初中": 13.1,
       "高中": 15.4,
       "大专": 4.2,
@@ -396,50 +396,50 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 39,
+      "count": 39.0,
       "within_1yr_pct": 12.8,
       "1_3yr_pct": 12.8,
       "over_3yr_pct": 74.4
     },
     {
       "type": "购物",
-      "count": 7,
+      "count": 7.0,
       "within_1yr_pct": 14.3,
       "1_3yr_pct": 42.9,
       "over_3yr_pct": 42.9
     },
     {
       "type": "休闲娱乐",
-      "count": 3,
-      "within_1yr_pct": 0,
+      "count": 3.0,
+      "within_1yr_pct": 0.0,
       "1_3yr_pct": 33.3,
       "over_3yr_pct": 66.7
     },
     {
       "type": "教育培训",
-      "count": 1,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 100
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
     },
     {
       "type": "生活服务",
-      "count": 6,
+      "count": 6.0,
       "within_1yr_pct": 16.7,
       "1_3yr_pct": 16.7,
       "over_3yr_pct": 66.7
     },
     {
       "type": "运动健身",
-      "count": 6,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 50,
-      "over_3yr_pct": 50
+      "count": 6.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 50.0
     },
     {
       "type": "车辆服务",
-      "count": 3,
-      "within_1yr_pct": 0,
+      "count": 3.0,
+      "within_1yr_pct": 0.0,
       "1_3yr_pct": 33.3,
       "over_3yr_pct": 66.7
     }

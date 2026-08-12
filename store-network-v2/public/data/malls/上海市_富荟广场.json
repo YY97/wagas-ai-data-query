@@ -5,7 +5,7 @@
   "lat": 31.204335,
   "lng": 121.545519,
   "overview": {
-    "score": 92,
+    "score": 92.0,
     "score_rank": "市内前30%",
     "population_score": 94.8,
     "area_score": 73.9,
@@ -13,7 +13,7 @@
     "industry_score": 92.1,
     "annual_sales": "富荟广场是位于上海市浦东新区的大型综合商业楼宇，融合居住、商业、商务为一体，总建筑面积约3.2万平方米，由A、B、C三块区域组成的商业综合体。其中A区为5A级写字楼，B、C幢性质为商业，项目地理位置得天独厚，步行距离之内畅达2号线、7号线双地铁，30余条公交线路链接全城",
     "annual_sales_unit": "-",
-    "area_size_sqm": 2,
+    "area_size_sqm": 2.0,
     "open_date": "2006-01-01",
     "operator": "绿城物业服务集团有限公司",
     "brand": "",
@@ -38,7 +38,7 @@
   },
   "population": {
     "residential": {
-      "500m": 3,
+      "500m": 3.0,
       "1_5km": 14.9,
       "3km": 62.4
     },
@@ -48,41 +48,41 @@
       "3km": 42.6
     },
     "permanent": {
-      "500m": 3,
+      "500m": 3.0,
       "1_5km": 15.5,
       "3km": 65.3
     }
   },
   "business": {
-    "competitors": 3,
-    "food": 137,
-    "shopping": 89,
-    "leisure": 13,
-    "education": 35,
-    "hotel": 20,
-    "services": 129,
-    "fitness": 21,
-    "auto": 31,
-    "total_stores": 96,
-    "old_store_3yr_pct": 59
+    "competitors": 3.0,
+    "food": 137.0,
+    "shopping": 89.0,
+    "leisure": 13.0,
+    "education": 35.0,
+    "hotel": 20.0,
+    "services": 129.0,
+    "fitness": 21.0,
+    "auto": 31.0,
+    "total_stores": 96.0,
+    "old_store_3yr_pct": 59.0
   },
   "nearby_poi": {
-    "business": 5,
-    "community": 378,
-    "office": 16,
-    "school": 31,
-    "hospital": 86,
-    "transport": 21,
-    "scenic": 180
+    "business": 5.0,
+    "community": 378.0,
+    "office": 16.0,
+    "school": 31.0,
+    "hospital": 86.0,
+    "transport": 21.0,
+    "scenic": 180.0
   },
   "demographics": {
     "male_pct": 48.2,
     "female_pct": null,
     "education": {
-      "小学": 9,
+      "小学": 9.0,
       "初中": 16.4,
       "高中": 10.6,
-      "大专": 7,
+      "大专": 7.0,
       "本科": 48.6,
       "硕士": 6.6,
       "博士": 1.8
@@ -388,52 +388,52 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 50,
-      "within_1yr_pct": 16,
-      "1_3yr_pct": 26,
-      "over_3yr_pct": 58
+      "count": 50.0,
+      "within_1yr_pct": 16.0,
+      "1_3yr_pct": 26.0,
+      "over_3yr_pct": 58.0
     },
     {
       "type": "购物",
-      "count": 8,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 25,
-      "over_3yr_pct": 75
+      "count": 8.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 75.0
     },
     {
       "type": "休闲娱乐",
-      "count": 4,
-      "within_1yr_pct": 25,
-      "1_3yr_pct": 25,
-      "over_3yr_pct": 50
+      "count": 4.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 50.0
     },
     {
       "type": "教育培训",
-      "count": 11,
-      "within_1yr_pct": 0,
+      "count": 11.0,
+      "within_1yr_pct": 0.0,
       "1_3yr_pct": 36.4,
       "over_3yr_pct": 63.6
     },
     {
       "type": "生活服务",
-      "count": 14,
+      "count": 14.0,
       "within_1yr_pct": 7.1,
       "1_3yr_pct": 7.1,
       "over_3yr_pct": 85.7
     },
     {
       "type": "运动健身",
-      "count": 6,
+      "count": 6.0,
       "within_1yr_pct": 33.3,
-      "1_3yr_pct": 50,
+      "1_3yr_pct": 50.0,
       "over_3yr_pct": 16.7
     },
     {
       "type": "车辆服务",
-      "count": 3,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 100,
-      "over_3yr_pct": 0
+      "count": 3.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
     }
   ],
   "nearby_communities": [

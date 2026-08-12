@@ -13,7 +13,7 @@
     "industry_score": 95.5,
     "annual_sales": "上海前滩太古里位于浦东新区“金靴”地段的前滩国际商务区，是一座街区式购物中心，采用开放式、里巷交错的建筑布局，由南区、北区的建筑及占地8000平方米的中央公园组成。项目以“城市生活轴心”为愿景，打造多元化的业态组合，汇聚高端零售、时尚潮流、餐饮娱乐、生活健康、文化艺术等逾200家商铺，以及体现Wellness主题的体验式店铺空间",
     "annual_sales_unit": "-",
-    "area_size_sqm": 12,
+    "area_size_sqm": 12.0,
     "open_date": "2021-09-30",
     "operator": "太古地产有限公司",
     "brand": "太古地产有限公司",
@@ -29,7 +29,7 @@
     "jun_daily_avg": 7.6,
     "jun_daily_unit": "万人次",
     "jun_daily_rank": "市内商场第18名",
-    "weekday_avg": 7,
+    "weekday_avg": 7.0,
     "weekday_unit": "万人次",
     "weekday_rank": "市内商场第18名",
     "holiday_avg": 9.4,
@@ -38,12 +38,12 @@
   },
   "population": {
     "residential": {
-      "500m": 8300,
-      "1_5km": 11,
+      "500m": 8300.0,
+      "1_5km": 11.0,
       "3km": 51.3
     },
     "office": {
-      "500m": 4,
+      "500m": 4.0,
       "1_5km": 9.1,
       "3km": 31.3
     },
@@ -54,33 +54,33 @@
     }
   },
   "business": {
-    "competitors": 16,
-    "food": 305,
-    "shopping": 267,
-    "leisure": 16,
-    "education": 12,
-    "hotel": 6,
-    "services": 92,
-    "fitness": 32,
-    "auto": 22,
-    "total_stores": 320,
-    "old_store_3yr_pct": 58
+    "competitors": 16.0,
+    "food": 305.0,
+    "shopping": 267.0,
+    "leisure": 16.0,
+    "education": 12.0,
+    "hotel": 6.0,
+    "services": 92.0,
+    "fitness": 32.0,
+    "auto": 22.0,
+    "total_stores": 320.0,
+    "old_store_3yr_pct": 58.0
   },
   "nearby_poi": {
-    "business": 5,
-    "community": 283,
-    "office": 26,
-    "school": 17,
-    "hospital": 32,
-    "transport": 10,
-    "scenic": 128
+    "business": 5.0,
+    "community": 283.0,
+    "office": 26.0,
+    "school": 17.0,
+    "hospital": 32.0,
+    "transport": 10.0,
+    "scenic": 128.0
   },
   "demographics": {
     "male_pct": 51.8,
     "female_pct": null,
     "education": {
       "小学": 9.6,
-      "初中": 18,
+      "初中": 18.0,
       "高中": 11.1,
       "大专": 7.7,
       "本科": 46.4,
@@ -388,59 +388,59 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 102,
+      "count": 102.0,
       "within_1yr_pct": 16.7,
       "1_3yr_pct": 28.4,
       "over_3yr_pct": 54.9
     },
     {
       "type": "购物",
-      "count": 179,
+      "count": 179.0,
       "within_1yr_pct": 12.8,
       "1_3yr_pct": 21.8,
       "over_3yr_pct": 65.4
     },
     {
       "type": "休闲娱乐",
-      "count": 11,
+      "count": 11.0,
       "within_1yr_pct": 27.3,
       "1_3yr_pct": 45.5,
       "over_3yr_pct": 27.3
     },
     {
       "type": "教育培训",
-      "count": 2,
-      "within_1yr_pct": 50,
-      "1_3yr_pct": 50,
-      "over_3yr_pct": 0
+      "count": 2.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 0.0
     },
     {
       "type": "酒店住宿",
-      "count": 3,
+      "count": 3.0,
       "within_1yr_pct": 33.3,
       "1_3yr_pct": 66.7,
-      "over_3yr_pct": 0
+      "over_3yr_pct": 0.0
     },
     {
       "type": "生活服务",
-      "count": 13,
+      "count": 13.0,
       "within_1yr_pct": 38.5,
       "1_3yr_pct": 15.4,
       "over_3yr_pct": 46.2
     },
     {
       "type": "运动健身",
-      "count": 2,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 100
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
     },
     {
       "type": "车辆服务",
-      "count": 8,
-      "within_1yr_pct": 50,
-      "1_3yr_pct": 25,
-      "over_3yr_pct": 25
+      "count": 8.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 25.0
     }
   ],
   "nearby_communities": [

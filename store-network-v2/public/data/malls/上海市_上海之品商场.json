@@ -13,7 +13,7 @@
     "industry_score": 93.3,
     "annual_sales": "上海之品商场位于上海中心大厦裙楼的B2层至4层，充分体现“上海中心”垂直城市的理念商场囊括了品牌零售、汽车展示、商务休闲餐饮、银行、咖啡、文创、衍生品等多种业态，在楼内即可一站式满足各类商务及生活所需上海之品商场与众多品牌携手为每一位顾客提供贴心服务目前已入驻的品牌有蔚来汽车、中国银行、星巴克、瑞尔齿科、威尔士VIP、观复博物馆、翠园、In呷哺呷哺、西贝莜面村、莱美露滋米其林三星法餐等上海之品商场不仅是购物和餐饮的场所，还提供了商务和文化体验，如上海观复博物馆、朵云书院等文化业态，展现了上海中心大厦的文化地标意义以上信息提供了上海之品商场的详细介绍，希望对您有所帮助",
     "annual_sales_unit": "-",
-    "area_size_sqm": 7,
+    "area_size_sqm": 7.0,
     "open_date": "",
     "operator": "上海中心大厦商务运营有限公司",
     "brand": "",
@@ -38,7 +38,7 @@
   },
   "population": {
     "residential": {
-      "500m": 8300,
+      "500m": 8300.0,
       "1_5km": 13.1,
       "3km": 71.3
     },
@@ -54,35 +54,35 @@
     }
   },
   "business": {
-    "competitors": 17,
-    "food": 286,
-    "shopping": 235,
-    "leisure": 12,
-    "education": 6,
-    "hotel": 20,
-    "services": 105,
-    "fitness": 18,
-    "auto": 29,
-    "total_stores": 104,
-    "old_store_3yr_pct": 63
+    "competitors": 17.0,
+    "food": 286.0,
+    "shopping": 235.0,
+    "leisure": 12.0,
+    "education": 6.0,
+    "hotel": 20.0,
+    "services": 105.0,
+    "fitness": 18.0,
+    "auto": 29.0,
+    "total_stores": 104.0,
+    "old_store_3yr_pct": 63.0
   },
   "nearby_poi": {
-    "business": 21,
-    "community": 611,
-    "office": 140,
-    "school": 30,
-    "hospital": 154,
-    "transport": 20,
-    "scenic": 720
+    "business": 21.0,
+    "community": 611.0,
+    "office": 140.0,
+    "school": 30.0,
+    "hospital": 154.0,
+    "transport": 20.0,
+    "scenic": 720.0
   },
   "demographics": {
     "male_pct": 47.6,
     "female_pct": null,
     "education": {
-      "小学": 10,
+      "小学": 10.0,
       "初中": 18.4,
       "高中": 11.4,
-      "大专": 8,
+      "大专": 8.0,
       "本科": 46.3,
       "硕士": 4.6,
       "博士": 1.3
@@ -428,56 +428,56 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 52,
+      "count": 52.0,
       "within_1yr_pct": 17.3,
       "1_3yr_pct": 13.5,
       "over_3yr_pct": 69.2
     },
     {
       "type": "购物",
-      "count": 12,
-      "within_1yr_pct": 25,
+      "count": 12.0,
+      "within_1yr_pct": 25.0,
       "1_3yr_pct": 16.7,
       "over_3yr_pct": 58.3
     },
     {
       "type": "休闲娱乐",
-      "count": 5,
-      "within_1yr_pct": 20,
-      "1_3yr_pct": 40,
-      "over_3yr_pct": 40
+      "count": 5.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 40.0,
+      "over_3yr_pct": 40.0
     },
     {
       "type": "教育培训",
-      "count": 2,
-      "within_1yr_pct": 50,
-      "1_3yr_pct": 50,
-      "over_3yr_pct": 0
+      "count": 2.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 0.0
     },
     {
       "type": "酒店住宿",
-      "count": 3,
+      "count": 3.0,
       "within_1yr_pct": 33.3,
-      "1_3yr_pct": 0,
+      "1_3yr_pct": 0.0,
       "over_3yr_pct": 66.7
     },
     {
       "type": "生活服务",
-      "count": 19,
+      "count": 19.0,
       "within_1yr_pct": 21.1,
       "1_3yr_pct": 21.1,
       "over_3yr_pct": 57.9
     },
     {
       "type": "运动健身",
-      "count": 2,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 50,
-      "over_3yr_pct": 50
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 50.0
     },
     {
       "type": "车辆服务",
-      "count": 9,
+      "count": 9.0,
       "within_1yr_pct": 11.1,
       "1_3yr_pct": 11.1,
       "over_3yr_pct": 77.8

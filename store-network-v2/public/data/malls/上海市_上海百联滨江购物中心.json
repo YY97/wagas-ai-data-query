@@ -13,7 +13,7 @@
     "industry_score": 93.3,
     "annual_sales": "百联滨江购物中心是以“快乐休闲、放心购物”和全方位服务为理念、以家庭休闲为定位的综合性社区型购物中心。",
     "annual_sales_unit": "-",
-    "area_size_sqm": 6,
+    "area_size_sqm": 6.0,
     "open_date": "2014-11-22",
     "operator": "上海百联集团股份有限公司",
     "brand": "百联",
@@ -29,7 +29,7 @@
     "jun_daily_avg": 2.1,
     "jun_daily_unit": "万人次",
     "jun_daily_rank": "市内商场第185名",
-    "weekday_avg": 2,
+    "weekday_avg": 2.0,
     "weekday_unit": "万人次",
     "weekday_rank": "市内商场第181名",
     "holiday_avg": 2.2,
@@ -39,41 +39,41 @@
   "population": {
     "residential": {
       "500m": 2.6,
-      "1_5km": 23,
-      "3km": 90
+      "1_5km": 23.0,
+      "3km": 90.0
     },
     "office": {
       "500m": 1.6,
       "1_5km": 15.1,
-      "3km": 51
+      "3km": 51.0
     },
     "permanent": {
       "500m": 2.7,
-      "1_5km": 23,
+      "1_5km": 23.0,
       "3km": 91.9
     }
   },
   "business": {
-    "competitors": 3,
-    "food": 174,
-    "shopping": 111,
-    "leisure": 18,
-    "education": 19,
-    "hotel": 31,
-    "services": 130,
-    "fitness": 12,
-    "auto": 14,
-    "total_stores": 149,
-    "old_store_3yr_pct": 51
+    "competitors": 3.0,
+    "food": 174.0,
+    "shopping": 111.0,
+    "leisure": 18.0,
+    "education": 19.0,
+    "hotel": 31.0,
+    "services": 130.0,
+    "fitness": 12.0,
+    "auto": 14.0,
+    "total_stores": 149.0,
+    "old_store_3yr_pct": 51.0
   },
   "nearby_poi": {
-    "business": 3,
-    "community": 668,
-    "office": 78,
-    "school": 39,
-    "hospital": 79,
-    "transport": 11,
-    "scenic": 144
+    "business": 3.0,
+    "community": 668.0,
+    "office": 78.0,
+    "school": 39.0,
+    "hospital": 79.0,
+    "transport": 11.0,
+    "scenic": 144.0
   },
   "demographics": {
     "male_pct": 45.2,
@@ -82,7 +82,7 @@
       "小学": 9.4,
       "初中": 17.7,
       "高中": 11.7,
-      "大专": 7,
+      "大专": 7.0,
       "本科": 47.4,
       "硕士": 5.1,
       "博士": 1.7
@@ -372,50 +372,50 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 50,
-      "within_1yr_pct": 14,
-      "1_3yr_pct": 22,
-      "over_3yr_pct": 64
+      "count": 50.0,
+      "within_1yr_pct": 14.0,
+      "1_3yr_pct": 22.0,
+      "over_3yr_pct": 64.0
     },
     {
       "type": "购物",
-      "count": 24,
+      "count": 24.0,
       "within_1yr_pct": 20.8,
       "1_3yr_pct": 20.8,
       "over_3yr_pct": 58.3
     },
     {
       "type": "休闲娱乐",
-      "count": 7,
-      "within_1yr_pct": 0,
+      "count": 7.0,
+      "within_1yr_pct": 0.0,
       "1_3yr_pct": 57.1,
       "over_3yr_pct": 42.9
     },
     {
       "type": "教育培训",
-      "count": 10,
-      "within_1yr_pct": 40,
-      "1_3yr_pct": 40,
-      "over_3yr_pct": 20
+      "count": 10.0,
+      "within_1yr_pct": 40.0,
+      "1_3yr_pct": 40.0,
+      "over_3yr_pct": 20.0
     },
     {
       "type": "生活服务",
-      "count": 47,
+      "count": 47.0,
       "within_1yr_pct": 25.5,
       "1_3yr_pct": 31.9,
       "over_3yr_pct": 42.6
     },
     {
       "type": "运动健身",
-      "count": 5,
-      "within_1yr_pct": 40,
-      "1_3yr_pct": 40,
-      "over_3yr_pct": 20
+      "count": 5.0,
+      "within_1yr_pct": 40.0,
+      "1_3yr_pct": 40.0,
+      "over_3yr_pct": 20.0
     },
     {
       "type": "车辆服务",
-      "count": 6,
-      "within_1yr_pct": 0,
+      "count": 6.0,
+      "within_1yr_pct": 0.0,
       "1_3yr_pct": 33.3,
       "over_3yr_pct": 66.7
     }

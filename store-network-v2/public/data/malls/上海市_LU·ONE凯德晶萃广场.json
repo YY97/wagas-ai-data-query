@@ -13,7 +13,7 @@
     "industry_score": 94.5,
     "annual_sales": "LuOne凯德晶萃广场是一个集商业、办公、零售、娱乐于一体的综合中心，由建筑大师摩西萨夫迪设计，以其独特的“开裂式”穹顶天窗、10米水景幕墙、风铃幕墙等建筑特色而著称。",
     "annual_sales_unit": "-",
-    "area_size_sqm": 13,
+    "area_size_sqm": 13.0,
     "open_date": "2018-09-22",
     "operator": "凯德置地（中国）投资有限公司",
     "brand": "凯德",
@@ -54,26 +54,26 @@
     }
   },
   "business": {
-    "competitors": 11,
-    "food": 315,
-    "shopping": 217,
-    "leisure": 25,
-    "education": 27,
-    "hotel": 45,
-    "services": 174,
-    "fitness": 28,
-    "auto": 23,
-    "total_stores": 214,
-    "old_store_3yr_pct": 49
+    "competitors": 11.0,
+    "food": 315.0,
+    "shopping": 217.0,
+    "leisure": 25.0,
+    "education": 27.0,
+    "hotel": 45.0,
+    "services": 174.0,
+    "fitness": 28.0,
+    "auto": 23.0,
+    "total_stores": 214.0,
+    "old_store_3yr_pct": 49.0
   },
   "nearby_poi": {
-    "business": 22,
-    "community": 993,
-    "office": 151,
-    "school": 93,
-    "hospital": 182,
-    "transport": 13,
-    "scenic": 731
+    "business": 22.0,
+    "community": 993.0,
+    "office": 151.0,
+    "school": 93.0,
+    "hospital": 182.0,
+    "transport": 13.0,
+    "scenic": 731.0
   },
   "demographics": {
     "male_pct": 47.1,
@@ -87,8 +87,8 @@
       "硕士": 5.7,
       "博士": 1.6
     },
-    "has_children_pct": 58,
-    "no_children_pct": 42
+    "has_children_pct": 58.0,
+    "no_children_pct": 42.0
   },
   "scraped_at": "2026-07-31T11:32:42.798Z",
   "nearby_restaurants": [
@@ -428,59 +428,59 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 87,
+      "count": 87.0,
       "within_1yr_pct": 13.8,
       "1_3yr_pct": 42.5,
       "over_3yr_pct": 43.7
     },
     {
       "type": "购物",
-      "count": 70,
+      "count": 70.0,
       "within_1yr_pct": 11.4,
       "1_3yr_pct": 35.7,
       "over_3yr_pct": 52.9
     },
     {
       "type": "休闲娱乐",
-      "count": 8,
-      "within_1yr_pct": 25,
-      "1_3yr_pct": 50,
-      "over_3yr_pct": 25
+      "count": 8.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 25.0
     },
     {
       "type": "教育培训",
-      "count": 6,
-      "within_1yr_pct": 0,
+      "count": 6.0,
+      "within_1yr_pct": 0.0,
       "1_3yr_pct": 66.7,
       "over_3yr_pct": 33.3
     },
     {
       "type": "酒店住宿",
-      "count": 1,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 100,
-      "over_3yr_pct": 0
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
     },
     {
       "type": "生活服务",
-      "count": 35,
+      "count": 35.0,
       "within_1yr_pct": 14.3,
       "1_3yr_pct": 25.7,
-      "over_3yr_pct": 60
+      "over_3yr_pct": 60.0
     },
     {
       "type": "运动健身",
-      "count": 6,
-      "within_1yr_pct": 0,
+      "count": 6.0,
+      "within_1yr_pct": 0.0,
       "1_3yr_pct": 33.3,
       "over_3yr_pct": 66.7
     },
     {
       "type": "车辆服务",
-      "count": 1,
-      "within_1yr_pct": 100,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 0
+      "count": 1.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
     }
   ],
   "nearby_communities": [

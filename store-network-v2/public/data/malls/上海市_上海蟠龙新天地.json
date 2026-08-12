@@ -5,11 +5,11 @@
   "lat": 31.187449,
   "lng": 121.274307,
   "overview": {
-    "score": 92,
+    "score": 92.0,
     "score_rank": "市内前30%",
     "population_score": 62.3,
     "area_score": 66.1,
-    "consumption_score": 60,
+    "consumption_score": 60.0,
     "industry_score": 92.3,
     "annual_sales": "蟠龙天地位于上海虹桥商务区，毗邻国家会展中心，两站直达虹桥枢纽，是2014年上海首批启动的“城中村”改造标杆之一规划总建筑面积超过50万平方米，其中包含23万平方米公共绿地、25万平方米国际住区和一座面向未来的江南新天地蟠龙天地以“Culture文化唤醒、Nature自然融合、Future城市焕新”为理念，焕新了一座江南水乡“蟠龙镇”在保留传统十字街空间肌理下，程祠故里等20+历史建筑修旧如旧，中西合璧的生活方式让老建筑迎来新生，并携手余德耀美术馆、Blue Bottle Coffee蓝瓶咖啡等品牌，带来文化与自然融合的都市理想生活内23万方绿地设有6大主题功能区，3公里环形步道，近万方户外运动空间，满足人们对多功能户外空间的需求蟠龙天地致力于自然、人文、艺术与商业融合，重塑生态、生活与城市的关系，带来自然、自在、无边界的都市理想生活方式蟠龙天地引入了近20家上海首店、超过60家区域首店，带给消费者一个全新的城市微度假概念",
     "annual_sales_unit": "-",
@@ -38,42 +38,42 @@
   },
   "population": {
     "residential": {
-      "500m": 2300,
+      "500m": 2300.0,
       "1_5km": 4.2,
       "3km": 31.8
     },
     "office": {
-      "500m": 4600,
+      "500m": 4600.0,
       "1_5km": 5.1,
       "3km": 18.1
     },
     "permanent": {
-      "500m": 4600,
+      "500m": 4600.0,
       "1_5km": 4.2,
       "3km": 29.9
     }
   },
   "business": {
-    "competitors": 4,
-    "food": 106,
-    "shopping": 77,
-    "leisure": 15,
-    "education": 3,
-    "hotel": 4,
-    "services": 14,
-    "fitness": 7,
-    "auto": 9,
-    "total_stores": 214,
-    "old_store_3yr_pct": 59
+    "competitors": 4.0,
+    "food": 106.0,
+    "shopping": 77.0,
+    "leisure": 15.0,
+    "education": 3.0,
+    "hotel": 4.0,
+    "services": 14.0,
+    "fitness": 7.0,
+    "auto": 9.0,
+    "total_stores": 214.0,
+    "old_store_3yr_pct": 59.0
   },
   "nearby_poi": {
     "business": null,
-    "community": 181,
-    "office": 27,
-    "school": 13,
-    "hospital": 40,
-    "transport": 7,
-    "scenic": 45
+    "community": 181.0,
+    "office": 27.0,
+    "school": 13.0,
+    "hospital": 40.0,
+    "transport": 7.0,
+    "scenic": 45.0
   },
   "demographics": {
     "male_pct": 46.1,
@@ -347,57 +347,57 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 100,
-      "within_1yr_pct": 16,
-      "1_3yr_pct": 18,
-      "over_3yr_pct": 66
+      "count": 100.0,
+      "within_1yr_pct": 16.0,
+      "1_3yr_pct": 18.0,
+      "over_3yr_pct": 66.0
     },
     {
       "type": "购物",
-      "count": 69,
+      "count": 69.0,
       "within_1yr_pct": 21.7,
       "1_3yr_pct": 23.2,
       "over_3yr_pct": 55.1
     },
     {
       "type": "休闲娱乐",
-      "count": 15,
+      "count": 15.0,
       "within_1yr_pct": 33.3,
       "1_3yr_pct": 33.3,
       "over_3yr_pct": 33.3
     },
     {
       "type": "教育培训",
-      "count": 1,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 100
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
     },
     {
       "type": "酒店住宿",
-      "count": 4,
-      "within_1yr_pct": 25,
-      "1_3yr_pct": 25,
-      "over_3yr_pct": 50
+      "count": 4.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 50.0
     },
     {
       "type": "生活服务",
-      "count": 13,
+      "count": 13.0,
       "within_1yr_pct": 38.5,
-      "1_3yr_pct": 0,
+      "1_3yr_pct": 0.0,
       "over_3yr_pct": 61.5
     },
     {
       "type": "运动健身",
-      "count": 5,
-      "within_1yr_pct": 20,
-      "1_3yr_pct": 20,
-      "over_3yr_pct": 60
+      "count": 5.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 20.0,
+      "over_3yr_pct": 60.0
     },
     {
       "type": "车辆服务",
-      "count": 7,
-      "within_1yr_pct": 0,
+      "count": 7.0,
+      "within_1yr_pct": 0.0,
       "1_3yr_pct": 42.9,
       "over_3yr_pct": 57.1
     }

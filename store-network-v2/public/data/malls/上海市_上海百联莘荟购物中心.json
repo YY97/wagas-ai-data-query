@@ -13,7 +13,7 @@
     "industry_score": 81.9,
     "annual_sales": "%莘荟位于上海静安区北宝兴路624号，是一个集特色商业、创意办公与长租公寓为一体的新社区商业中心以原有老厂房为基底，将原本封闭的联华生鲜冷链厂变成提供开放式全龄生活体验的乐园团队以全龄友好为目标，打造大宁新生活体验场，给周边社区居民带来全新的生活方式通过社区共建和共享的方式，重塑亲子、银发、青年、宠物四大友好体验，打造集聚幸福感和归属感的共享社区%莘荟拥有商业、办公、公寓三大核心业态，旨在为周边客群带来更多快乐与精彩，成为大宁新生活体验场和全龄友好社区的典范莘笙市集作为主力店之一，是一个5000余平方米的大型特色生鲜市集，集聚米其林餐厅同款供应链，通过全球产地直采确保商品品质，同时引入精品咖啡烘焙、食材现场烹制、宠物用品及服务、文创香氛美学等多元业态，满足中产家庭的多元化需求百联资控推出的创新品牌“创享驿-共享教室”也是的一部分，通过线上线下的综合解决方案赋能商户和消费者，将传统的空间租赁转变为空间运营和内容经营，提升资产价值",
     "annual_sales_unit": "-",
-    "area_size_sqm": 3,
+    "area_size_sqm": 3.0,
     "open_date": "2021-05-01",
     "operator": "上海百联集团股份有限公司",
     "brand": "百联",
@@ -21,25 +21,25 @@
     "floors": "B1-L4"
   },
   "traffic": {
-    "annual_daily": 3151,
+    "annual_daily": 3151.0,
     "annual_daily_unit": "人次",
     "annual_daily_rank": "市内第432",
     "jun_total": 14.1,
     "jun_total_rank": "市内商场第435名",
-    "jun_daily_avg": 4711,
+    "jun_daily_avg": 4711.0,
     "jun_daily_unit": "人次",
     "jun_daily_rank": "市内商场第435名",
-    "weekday_avg": 4452,
+    "weekday_avg": 4452.0,
     "weekday_unit": "人次",
     "weekday_rank": "市内商场第437名",
-    "holiday_avg": 5422,
+    "holiday_avg": 5422.0,
     "holiday_unit": "人次",
     "holiday_rank": "市内商场第425名"
   },
   "population": {
     "residential": {
       "500m": 3.1,
-      "1_5km": 27,
+      "1_5km": 27.0,
       "3km": 109.8
     },
     "office": {
@@ -54,26 +54,26 @@
     }
   },
   "business": {
-    "competitors": 3,
-    "food": 106,
-    "shopping": 98,
-    "leisure": 15,
-    "education": 25,
-    "hotel": 12,
-    "services": 108,
-    "fitness": 17,
-    "auto": 14,
-    "total_stores": 38,
-    "old_store_3yr_pct": 29
+    "competitors": 3.0,
+    "food": 106.0,
+    "shopping": 98.0,
+    "leisure": 15.0,
+    "education": 25.0,
+    "hotel": 12.0,
+    "services": 108.0,
+    "fitness": 17.0,
+    "auto": 14.0,
+    "total_stores": 38.0,
+    "old_store_3yr_pct": 29.0
   },
   "nearby_poi": {
-    "business": 4,
-    "community": 765,
-    "office": 67,
-    "school": 40,
-    "hospital": 104,
-    "transport": 17,
-    "scenic": 212
+    "business": 4.0,
+    "community": 765.0,
+    "office": 67.0,
+    "school": 40.0,
+    "hospital": 104.0,
+    "transport": 17.0,
+    "scenic": 212.0
   },
   "demographics": {
     "male_pct": 46.2,
@@ -380,59 +380,59 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 14,
+      "count": 14.0,
       "within_1yr_pct": 42.9,
       "1_3yr_pct": 35.7,
       "over_3yr_pct": 21.4
     },
     {
       "type": "购物",
-      "count": 4,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 75,
-      "over_3yr_pct": 25
+      "count": 4.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 75.0,
+      "over_3yr_pct": 25.0
     },
     {
       "type": "休闲娱乐",
-      "count": 1,
-      "within_1yr_pct": 100,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 0
+      "count": 1.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
     },
     {
       "type": "教育培训",
-      "count": 6,
+      "count": 6.0,
       "within_1yr_pct": 16.7,
-      "1_3yr_pct": 50,
+      "1_3yr_pct": 50.0,
       "over_3yr_pct": 33.3
     },
     {
       "type": "酒店住宿",
-      "count": 5,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 40,
-      "over_3yr_pct": 60
+      "count": 5.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 40.0,
+      "over_3yr_pct": 60.0
     },
     {
       "type": "生活服务",
-      "count": 2,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 100,
-      "over_3yr_pct": 0
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
     },
     {
       "type": "运动健身",
-      "count": 2,
-      "within_1yr_pct": 50,
-      "1_3yr_pct": 50,
-      "over_3yr_pct": 0
+      "count": 2.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 0.0
     },
     {
       "type": "车辆服务",
-      "count": 4,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 50,
-      "over_3yr_pct": 50
+      "count": 4.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 50.0
     }
   ],
   "nearby_communities": [

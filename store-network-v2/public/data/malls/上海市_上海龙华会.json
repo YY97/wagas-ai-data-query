@@ -5,7 +5,7 @@
   "lat": 31.188334,
   "lng": 121.436307,
   "overview": {
-    "score": 95,
+    "score": 95.0,
     "score_rank": "市内前30%",
     "population_score": 77.1,
     "area_score": 69.9,
@@ -13,7 +13,7 @@
     "industry_score": 95.2,
     "annual_sales": "上海龙华会定位为集民俗故事、文化碰撞、青年潮流、绿色生态的城市理想街区，以“meet on street 龙华街巷，妙会横生”为品牌内核，打造一座集休闲娱乐、屋顶露台、滨水餐吧、文化展示等于一体的复合型开放场域",
     "annual_sales_unit": "-",
-    "area_size_sqm": 10,
+    "area_size_sqm": 10.0,
     "open_date": "2023-09-26",
     "operator": "印力商用置业有限公司",
     "brand": "印力",
@@ -32,7 +32,7 @@
     "weekday_avg": 3.8,
     "weekday_unit": "万人次",
     "weekday_rank": "市内商场第92名",
-    "holiday_avg": 5,
+    "holiday_avg": 5.0,
     "holiday_unit": "万人次",
     "holiday_rank": "市内商场第90名"
   },
@@ -43,7 +43,7 @@
       "3km": 68.3
     },
     "office": {
-      "500m": 9500,
+      "500m": 9500.0,
       "1_5km": 13.2,
       "3km": 59.1
     },
@@ -54,26 +54,26 @@
     }
   },
   "business": {
-    "competitors": 5,
-    "food": 110,
-    "shopping": 82,
-    "leisure": 8,
-    "education": 6,
-    "hotel": 2,
-    "services": 55,
-    "fitness": 10,
-    "auto": 8,
-    "total_stores": 179,
-    "old_store_3yr_pct": 44
+    "competitors": 5.0,
+    "food": 110.0,
+    "shopping": 82.0,
+    "leisure": 8.0,
+    "education": 6.0,
+    "hotel": 2.0,
+    "services": 55.0,
+    "fitness": 10.0,
+    "auto": 8.0,
+    "total_stores": 179.0,
+    "old_store_3yr_pct": 44.0
   },
   "nearby_poi": {
-    "business": 7,
-    "community": 498,
-    "office": 51,
-    "school": 38,
-    "hospital": 70,
-    "transport": 7,
-    "scenic": 244
+    "business": 7.0,
+    "community": 498.0,
+    "office": 51.0,
+    "school": 38.0,
+    "hospital": 70.0,
+    "transport": 7.0,
+    "scenic": 244.0
   },
   "demographics": {
     "male_pct": 45.8,
@@ -404,59 +404,59 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 89,
+      "count": 89.0,
       "within_1yr_pct": 11.2,
       "1_3yr_pct": 37.1,
       "over_3yr_pct": 51.7
     },
     {
       "type": "购物",
-      "count": 60,
+      "count": 60.0,
       "within_1yr_pct": 13.3,
-      "1_3yr_pct": 45,
+      "1_3yr_pct": 45.0,
       "over_3yr_pct": 41.7
     },
     {
       "type": "休闲娱乐",
-      "count": 6,
+      "count": 6.0,
       "within_1yr_pct": 33.3,
       "1_3yr_pct": 16.7,
-      "over_3yr_pct": 50
+      "over_3yr_pct": 50.0
     },
     {
       "type": "教育培训",
-      "count": 2,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 100,
-      "over_3yr_pct": 0
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
     },
     {
       "type": "酒店住宿",
-      "count": 1,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 100,
-      "over_3yr_pct": 0
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
     },
     {
       "type": "生活服务",
-      "count": 14,
+      "count": 14.0,
       "within_1yr_pct": 14.3,
       "1_3yr_pct": 57.1,
       "over_3yr_pct": 28.6
     },
     {
       "type": "运动健身",
-      "count": 6,
+      "count": 6.0,
       "within_1yr_pct": 16.7,
       "1_3yr_pct": 66.7,
       "over_3yr_pct": 16.7
     },
     {
       "type": "车辆服务",
-      "count": 1,
-      "within_1yr_pct": 100,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 0
+      "count": 1.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
     }
   ],
   "nearby_communities": [

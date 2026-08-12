@@ -13,7 +13,7 @@
     "industry_score": 96.9,
     "annual_sales": "北京荟聚中心是一个具有国际标准的一站式超区域型购物中心，拥有宜家家居、欧尚超市、苏宁电器、迪卡侬及金逸影院等400余家商户，包含丰富的时尚品牌组合、近百家知名餐饮、IMAX影院、大型超市、KTV、书店等 。北京荟聚中心与地铁4号线无缝衔接，同时与五环相连，拥有近7050个停车位，曾获得世界最大地下停车场的吉尼斯纪录",
     "annual_sales_unit": "-",
-    "area_size_sqm": 21,
+    "area_size_sqm": 21.0,
     "open_date": "2014-12-19",
     "operator": "英格卡购物中心（ 中国 ）管理有限公司",
     "brand": "英格卡购物中心（ 中国 ）管理有限公司",
@@ -26,7 +26,7 @@
     "annual_daily_rank": "市内第1",
     "jun_total": 509.2,
     "jun_total_rank": "市内商场第2名",
-    "jun_daily_avg": 17,
+    "jun_daily_avg": 17.0,
     "jun_daily_unit": "万人次",
     "jun_daily_rank": "市内商场第2名",
     "weekday_avg": 13.9,
@@ -38,12 +38,12 @@
   },
   "population": {
     "residential": {
-      "500m": 8900,
+      "500m": 8900.0,
       "1_5km": 8.6,
       "3km": 28.3
     },
     "office": {
-      "500m": 2,
+      "500m": 2.0,
       "1_5km": 4.5,
       "3km": 13.8
     },
@@ -54,26 +54,26 @@
     }
   },
   "business": {
-    "competitors": 7,
-    "food": 301,
-    "shopping": 415,
-    "leisure": 59,
-    "education": 31,
-    "hotel": 8,
-    "services": 261,
-    "fitness": 23,
-    "auto": 48,
-    "total_stores": 588,
-    "old_store_3yr_pct": 51
+    "competitors": 7.0,
+    "food": 301.0,
+    "shopping": 415.0,
+    "leisure": 59.0,
+    "education": 31.0,
+    "hotel": 8.0,
+    "services": 261.0,
+    "fitness": 23.0,
+    "auto": 48.0,
+    "total_stores": 588.0,
+    "old_store_3yr_pct": 51.0
   },
   "nearby_poi": {
-    "business": 2,
-    "community": 142,
-    "office": 11,
-    "school": 9,
-    "hospital": 23,
-    "transport": 7,
-    "scenic": 49
+    "business": 2.0,
+    "community": 142.0,
+    "office": 11.0,
+    "school": 9.0,
+    "hospital": 23.0,
+    "transport": 7.0,
+    "scenic": 49.0
   },
   "demographics": {
     "male_pct": 53.2,
@@ -81,8 +81,8 @@
     "education": {
       "小学": 10.1,
       "初中": 16.9,
-      "高中": 11,
-      "大专": 8,
+      "高中": 11.0,
+      "大专": 8.0,
       "本科": 47.7,
       "硕士": 5.2,
       "博士": 1.1
@@ -364,56 +364,56 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 181,
-      "within_1yr_pct": 21,
+      "count": 181.0,
+      "within_1yr_pct": 21.0,
       "1_3yr_pct": 30.4,
       "over_3yr_pct": 48.6
     },
     {
       "type": "购物",
-      "count": 316,
+      "count": 316.0,
       "within_1yr_pct": 10.8,
-      "1_3yr_pct": 37,
+      "1_3yr_pct": 37.0,
       "over_3yr_pct": 52.2
     },
     {
       "type": "休闲娱乐",
-      "count": 23,
+      "count": 23.0,
       "within_1yr_pct": 8.7,
       "1_3yr_pct": 43.5,
       "over_3yr_pct": 47.8
     },
     {
       "type": "教育培训",
-      "count": 7,
-      "within_1yr_pct": 0,
+      "count": 7.0,
+      "within_1yr_pct": 0.0,
       "1_3yr_pct": 42.9,
       "over_3yr_pct": 57.1
     },
     {
       "type": "酒店住宿",
-      "count": 2,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 50,
-      "over_3yr_pct": 50
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 50.0
     },
     {
       "type": "生活服务",
-      "count": 33,
+      "count": 33.0,
       "within_1yr_pct": 9.1,
       "1_3yr_pct": 36.4,
       "over_3yr_pct": 54.5
     },
     {
       "type": "运动健身",
-      "count": 5,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 40,
-      "over_3yr_pct": 60
+      "count": 5.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 40.0,
+      "over_3yr_pct": 60.0
     },
     {
       "type": "车辆服务",
-      "count": 21,
+      "count": 21.0,
       "within_1yr_pct": 14.3,
       "1_3yr_pct": 38.1,
       "over_3yr_pct": 47.6

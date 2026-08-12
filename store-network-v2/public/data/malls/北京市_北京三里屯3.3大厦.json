@@ -13,7 +13,7 @@
     "industry_score": 85.7,
     "annual_sales": "7",
     "annual_sales_unit": "亿元",
-    "area_size_sqm": 4,
+    "area_size_sqm": 4.0,
     "open_date": "2005-10-01",
     "operator": "华顿国际投资有限公司",
     "brand": "",
@@ -21,15 +21,15 @@
     "floors": "B1-L6"
   },
   "traffic": {
-    "annual_daily": 6274,
+    "annual_daily": 6274.0,
     "annual_daily_unit": "人次",
     "annual_daily_rank": "市内第261",
     "jun_total": 30.4,
     "jun_total_rank": "市内商场第247名",
-    "jun_daily_avg": 1,
+    "jun_daily_avg": 1.0,
     "jun_daily_unit": "万人次",
     "jun_daily_rank": "市内商场第247名",
-    "weekday_avg": 8844,
+    "weekday_avg": 8844.0,
     "weekday_unit": "人次",
     "weekday_rank": "市内商场第254名",
     "holiday_avg": 1.4,
@@ -45,7 +45,7 @@
     "office": {
       "500m": 1.6,
       "1_5km": 15.1,
-      "3km": 72
+      "3km": 72.0
     },
     "permanent": {
       "500m": 1.6,
@@ -54,26 +54,26 @@
     }
   },
   "business": {
-    "competitors": 13,
-    "food": 361,
-    "shopping": 445,
-    "leisure": 67,
-    "education": 26,
-    "hotel": 46,
-    "services": 251,
-    "fitness": 31,
-    "auto": 27,
-    "total_stores": 95,
-    "old_store_3yr_pct": 68
+    "competitors": 13.0,
+    "food": 361.0,
+    "shopping": 445.0,
+    "leisure": 67.0,
+    "education": 26.0,
+    "hotel": 46.0,
+    "services": 251.0,
+    "fitness": 31.0,
+    "auto": 27.0,
+    "total_stores": 95.0,
+    "old_store_3yr_pct": 68.0
   },
   "nearby_poi": {
-    "business": 9,
-    "community": 450,
-    "office": 101,
-    "school": 45,
-    "hospital": 176,
-    "transport": 3,
-    "scenic": 310
+    "business": 9.0,
+    "community": 450.0,
+    "office": 101.0,
+    "school": 45.0,
+    "hospital": 176.0,
+    "transport": 3.0,
+    "scenic": 310.0
   },
   "demographics": {
     "male_pct": 46.1,
@@ -420,44 +420,44 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 28,
+      "count": 28.0,
       "within_1yr_pct": 21.4,
       "1_3yr_pct": 17.9,
       "over_3yr_pct": 60.7
     },
     {
       "type": "购物",
-      "count": 45,
+      "count": 45.0,
       "within_1yr_pct": 8.9,
       "1_3yr_pct": 15.6,
       "over_3yr_pct": 75.6
     },
     {
       "type": "休闲娱乐",
-      "count": 2,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 50,
-      "over_3yr_pct": 50
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 50.0
     },
     {
       "type": "生活服务",
-      "count": 14,
+      "count": 14.0,
       "within_1yr_pct": 35.7,
-      "1_3yr_pct": 0,
+      "1_3yr_pct": 0.0,
       "over_3yr_pct": 64.3
     },
     {
       "type": "运动健身",
-      "count": 3,
-      "within_1yr_pct": 0,
+      "count": 3.0,
+      "within_1yr_pct": 0.0,
       "1_3yr_pct": 33.3,
       "over_3yr_pct": 66.7
     },
     {
       "type": "车辆服务",
-      "count": 3,
+      "count": 3.0,
       "within_1yr_pct": 33.3,
-      "1_3yr_pct": 0,
+      "1_3yr_pct": 0.0,
       "over_3yr_pct": 66.7
     }
   ],

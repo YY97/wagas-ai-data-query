@@ -9,7 +9,7 @@
     "score_rank": "市内前30%",
     "population_score": 96.1,
     "area_score": 70.8,
-    "consumption_score": 79,
+    "consumption_score": 79.0,
     "industry_score": 92.2,
     "annual_sales": "北京中发百旺商城位于北京市海淀区圆明园西路18号，是集购物、休闲、娱乐、餐饮、旅游、文化于一体的一站式购物中心，提供吃、喝、玩、乐、购全方位综合性多元化的消费感受。以独有的经营理念及定位，为消费者打造一个介于商场和市场之间的购物“第三空间”",
     "annual_sales_unit": "-",
@@ -38,12 +38,12 @@
   },
   "population": {
     "residential": {
-      "500m": 3,
+      "500m": 3.0,
       "1_5km": 12.7,
       "3km": 28.7
     },
     "office": {
-      "500m": 9900,
+      "500m": 9900.0,
       "1_5km": 7.2,
       "3km": 25.7
     },
@@ -54,26 +54,26 @@
     }
   },
   "business": {
-    "competitors": 2,
-    "food": 96,
-    "shopping": 114,
-    "leisure": 2,
-    "education": 12,
-    "hotel": 2,
-    "services": 62,
-    "fitness": 5,
-    "auto": 6,
-    "total_stores": 197,
-    "old_store_3yr_pct": 49
+    "competitors": 2.0,
+    "food": 96.0,
+    "shopping": 114.0,
+    "leisure": 2.0,
+    "education": 12.0,
+    "hotel": 2.0,
+    "services": 62.0,
+    "fitness": 5.0,
+    "auto": 6.0,
+    "total_stores": 197.0,
+    "old_store_3yr_pct": 49.0
   },
   "nearby_poi": {
-    "business": 1,
-    "community": 116,
-    "office": 11,
-    "school": 29,
-    "hospital": 23,
-    "transport": 6,
-    "scenic": 213
+    "business": 1.0,
+    "community": 116.0,
+    "office": 11.0,
+    "school": 29.0,
+    "hospital": 23.0,
+    "transport": 6.0,
+    "scenic": 213.0
   },
   "demographics": {
     "male_pct": 50.4,
@@ -356,49 +356,49 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 70,
-      "within_1yr_pct": 40,
+      "count": 70.0,
+      "within_1yr_pct": 40.0,
       "1_3yr_pct": 14.3,
       "over_3yr_pct": 45.7
     },
     {
       "type": "购物",
-      "count": 84,
+      "count": 84.0,
       "within_1yr_pct": 33.3,
       "1_3yr_pct": 13.1,
       "over_3yr_pct": 53.6
     },
     {
       "type": "休闲娱乐",
-      "count": 2,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 100,
-      "over_3yr_pct": 0
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
     },
     {
       "type": "教育培训",
-      "count": 7,
+      "count": 7.0,
       "within_1yr_pct": 57.1,
       "1_3yr_pct": 14.3,
       "over_3yr_pct": 28.6
     },
     {
       "type": "生活服务",
-      "count": 30,
+      "count": 30.0,
       "within_1yr_pct": 33.3,
       "1_3yr_pct": 13.3,
       "over_3yr_pct": 53.3
     },
     {
       "type": "运动健身",
-      "count": 1,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 100,
-      "over_3yr_pct": 0
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
     },
     {
       "type": "车辆服务",
-      "count": 3,
+      "count": 3.0,
       "within_1yr_pct": 33.3,
       "1_3yr_pct": 33.3,
       "over_3yr_pct": 33.3

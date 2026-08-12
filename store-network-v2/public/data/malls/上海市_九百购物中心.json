@@ -13,7 +13,7 @@
     "industry_score": 95.9,
     "annual_sales": "百联中环购物广场是集购物、餐饮、休闲、娱乐为一体的超大型、现代化消费场所，位于上海市普陀区，是上海西北区域的一座商业地标",
     "annual_sales_unit": "-",
-    "area_size_sqm": 25,
+    "area_size_sqm": 25.0,
     "open_date": "2006-12-21",
     "operator": "上海百联集团股份有限公司",
     "brand": "百联",
@@ -50,30 +50,30 @@
     "permanent": {
       "500m": 2.7,
       "1_5km": 25.7,
-      "3km": 88
+      "3km": 88.0
     }
   },
   "business": {
-    "competitors": 5,
-    "food": 234,
-    "shopping": 169,
-    "leisure": 17,
-    "education": 44,
-    "hotel": 11,
-    "services": 91,
-    "fitness": 20,
-    "auto": 25,
-    "total_stores": 346,
-    "old_store_3yr_pct": 55
+    "competitors": 5.0,
+    "food": 234.0,
+    "shopping": 169.0,
+    "leisure": 17.0,
+    "education": 44.0,
+    "hotel": 11.0,
+    "services": 91.0,
+    "fitness": 20.0,
+    "auto": 25.0,
+    "total_stores": 346.0,
+    "old_store_3yr_pct": 55.0
   },
   "nearby_poi": {
-    "business": 3,
-    "community": 371,
-    "office": 48,
-    "school": 42,
-    "hospital": 57,
-    "transport": 3,
-    "scenic": 153
+    "business": 3.0,
+    "community": 371.0,
+    "office": 48.0,
+    "school": 42.0,
+    "hospital": 57.0,
+    "transport": 3.0,
+    "scenic": 153.0
   },
   "demographics": {
     "male_pct": 46.5,
@@ -142,58 +142,58 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 121,
+      "count": 121.0,
       "within_1yr_pct": 13.2,
       "1_3yr_pct": 26.4,
       "over_3yr_pct": 60.3
     },
     {
       "type": "购物",
-      "count": 114,
+      "count": 114.0,
       "within_1yr_pct": 17.5,
       "1_3yr_pct": 26.3,
       "over_3yr_pct": 56.1
     },
     {
       "type": "休闲娱乐",
-      "count": 13,
+      "count": 13.0,
       "within_1yr_pct": 23.1,
       "1_3yr_pct": 30.8,
       "over_3yr_pct": 46.2
     },
     {
       "type": "教育培训",
-      "count": 31,
+      "count": 31.0,
       "within_1yr_pct": 22.6,
       "1_3yr_pct": 35.5,
       "over_3yr_pct": 41.9
     },
     {
       "type": "酒店住宿",
-      "count": 2,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 100,
-      "over_3yr_pct": 0
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
     },
     {
       "type": "生活服务",
-      "count": 40,
-      "within_1yr_pct": 30,
+      "count": 40.0,
+      "within_1yr_pct": 30.0,
       "1_3yr_pct": 17.5,
       "over_3yr_pct": 52.5
     },
     {
       "type": "运动健身",
-      "count": 13,
+      "count": 13.0,
       "within_1yr_pct": 30.8,
       "1_3yr_pct": 30.8,
       "over_3yr_pct": 38.5
     },
     {
       "type": "车辆服务",
-      "count": 12,
+      "count": 12.0,
       "within_1yr_pct": 8.3,
-      "1_3yr_pct": 25,
+      "1_3yr_pct": 25.0,
       "over_3yr_pct": 66.7
     }
   ],

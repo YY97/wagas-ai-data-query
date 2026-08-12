@@ -13,7 +13,7 @@
     "industry_score": 91.2,
     "annual_sales": "上海中原城市广场坐落于国和路、民庆路、规划嫩江路延伸段路口，广场三面沿街，其中地下建筑两层，地上建筑四层局部五层总建筑面积67000平方米，其中可用于商业出租面积约3万平方米作为“综合性社区生活广场”，将建成集购物、休闲、娱乐、社区公共服务于一体的综合性商业广场，与五角场城市副中心大型综合商业体如万达、百联又一城、东方商厦形成错位经营，为周边社区居民提供购物、餐饮、休闲娱乐，社区公益等一站式服务中原城市广场历经8年的发展，致力打造社区商业的典范，不断提升广场品牌形象、优化业态布局、改善购物环境，始终依托社区、立足社区，回馈社区，为社区消费者提供爱与欢乐的公共服务空间坚持“爱家、爱生活”的服务理念，争做“中原亲子遛娃圣地”今年更加大招商力度，先后引入喜茶、木屋烧烤、新东方、桔子健身等一批优质品牌，优化业态品质，更好地服务周边",
     "annual_sales_unit": "-",
-    "area_size_sqm": 6,
+    "area_size_sqm": 6.0,
     "open_date": "2012-10-28",
     "operator": "上海五角场（集团）有限公司",
     "brand": "",
@@ -21,25 +21,25 @@
     "floors": "B1-L5"
   },
   "traffic": {
-    "annual_daily": 9068,
+    "annual_daily": 9068.0,
     "annual_daily_unit": "人次",
     "annual_daily_rank": "市内第271",
     "jun_total": 26.4,
     "jun_total_rank": "市内商场第331名",
-    "jun_daily_avg": 8803,
+    "jun_daily_avg": 8803.0,
     "jun_daily_unit": "人次",
     "jun_daily_rank": "市内商场第331名",
-    "weekday_avg": 8191,
+    "weekday_avg": 8191.0,
     "weekday_unit": "人次",
     "weekday_rank": "市内商场第338名",
-    "holiday_avg": 1,
+    "holiday_avg": 1.0,
     "holiday_unit": "万人次",
     "holiday_rank": "市内商场第314名"
   },
   "population": {
     "residential": {
       "500m": 3.1,
-      "1_5km": 23,
+      "1_5km": 23.0,
       "3km": 78.7
     },
     "office": {
@@ -54,38 +54,38 @@
     }
   },
   "business": {
-    "competitors": 4,
-    "food": 104,
-    "shopping": 70,
-    "leisure": 15,
-    "education": 15,
-    "hotel": 13,
-    "services": 62,
-    "fitness": 21,
-    "auto": 30,
-    "total_stores": 91,
-    "old_store_3yr_pct": 57
+    "competitors": 4.0,
+    "food": 104.0,
+    "shopping": 70.0,
+    "leisure": 15.0,
+    "education": 15.0,
+    "hotel": 13.0,
+    "services": 62.0,
+    "fitness": 21.0,
+    "auto": 30.0,
+    "total_stores": 91.0,
+    "old_store_3yr_pct": 57.0
   },
   "nearby_poi": {
-    "business": 4,
-    "community": 413,
-    "office": 39,
-    "school": 42,
-    "hospital": 41,
-    "transport": 12,
-    "scenic": 171
+    "business": 4.0,
+    "community": 413.0,
+    "office": 39.0,
+    "school": 42.0,
+    "hospital": 41.0,
+    "transport": 12.0,
+    "scenic": 171.0
   },
   "demographics": {
-    "male_pct": 48,
+    "male_pct": 48.0,
     "female_pct": null,
     "education": {
       "小学": 8.7,
       "初中": 17.2,
-      "高中": 13,
+      "高中": 13.0,
       "大专": 6.5,
       "本科": 47.1,
       "硕士": 5.5,
-      "博士": 2
+      "博士": 2.0
     },
     "has_children_pct": 57.8,
     "no_children_pct": 42.2
@@ -380,59 +380,59 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 45,
+      "count": 45.0,
       "within_1yr_pct": 15.6,
       "1_3yr_pct": 22.2,
       "over_3yr_pct": 62.2
     },
     {
       "type": "购物",
-      "count": 12,
+      "count": 12.0,
       "within_1yr_pct": 33.3,
-      "1_3yr_pct": 0,
+      "1_3yr_pct": 0.0,
       "over_3yr_pct": 66.7
     },
     {
       "type": "休闲娱乐",
-      "count": 7,
+      "count": 7.0,
       "within_1yr_pct": 14.3,
       "1_3yr_pct": 28.6,
       "over_3yr_pct": 57.1
     },
     {
       "type": "教育培训",
-      "count": 7,
+      "count": 7.0,
       "within_1yr_pct": 14.3,
       "1_3yr_pct": 28.6,
       "over_3yr_pct": 57.1
     },
     {
       "type": "酒店住宿",
-      "count": 2,
-      "within_1yr_pct": 50,
-      "1_3yr_pct": 50,
-      "over_3yr_pct": 0
+      "count": 2.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 0.0
     },
     {
       "type": "生活服务",
-      "count": 10,
-      "within_1yr_pct": 20,
-      "1_3yr_pct": 40,
-      "over_3yr_pct": 40
+      "count": 10.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 40.0,
+      "over_3yr_pct": 40.0
     },
     {
       "type": "运动健身",
-      "count": 7,
+      "count": 7.0,
       "within_1yr_pct": 14.3,
       "1_3yr_pct": 28.6,
       "over_3yr_pct": 57.1
     },
     {
       "type": "车辆服务",
-      "count": 1,
-      "within_1yr_pct": 100,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 0
+      "count": 1.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
     }
   ],
   "nearby_communities": [

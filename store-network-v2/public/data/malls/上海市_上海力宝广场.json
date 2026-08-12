@@ -13,7 +13,7 @@
     "industry_score": 76.8,
     "annual_sales": "上海力宝广场位于上海市黄浦区最奢华的商业街淮海中路上，是一个集国际奢侈时装手表品牌和知名餐饮服务商家于一体的购物中心",
     "annual_sales_unit": "-",
-    "area_size_sqm": 1,
+    "area_size_sqm": 1.0,
     "open_date": "1999-01-01",
     "operator": "力宝置业（上海）有限公司",
     "brand": "",
@@ -21,7 +21,7 @@
     "floors": "B1-L3"
   },
   "traffic": {
-    "annual_daily": 658,
+    "annual_daily": 658.0,
     "annual_daily_unit": "人次",
     "annual_daily_rank": "市内第520",
     "jun_total": null,
@@ -38,7 +38,7 @@
   },
   "population": {
     "residential": {
-      "500m": 1,
+      "500m": 1.0,
       "1_5km": 19.5,
       "3km": 90.1
     },
@@ -54,26 +54,26 @@
     }
   },
   "business": {
-    "competitors": 26,
-    "food": 424,
-    "shopping": 306,
-    "leisure": 36,
-    "education": 23,
-    "hotel": 30,
-    "services": 229,
-    "fitness": 27,
-    "auto": 43,
-    "total_stores": 29,
-    "old_store_3yr_pct": 52
+    "competitors": 26.0,
+    "food": 424.0,
+    "shopping": 306.0,
+    "leisure": 36.0,
+    "education": 23.0,
+    "hotel": 30.0,
+    "services": 229.0,
+    "fitness": 27.0,
+    "auto": 43.0,
+    "total_stores": 29.0,
+    "old_store_3yr_pct": 52.0
   },
   "nearby_poi": {
-    "business": 35,
-    "community": 1057,
-    "office": 184,
-    "school": 56,
-    "hospital": 219,
-    "transport": 40,
-    "scenic": 968
+    "business": 35.0,
+    "community": 1057.0,
+    "office": 184.0,
+    "school": 56.0,
+    "hospital": 219.0,
+    "transport": 40.0,
+    "scenic": 968.0
   },
   "demographics": {
     "male_pct": 47.2,
@@ -428,43 +428,43 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 6,
-      "within_1yr_pct": 0,
+      "count": 6.0,
+      "within_1yr_pct": 0.0,
       "1_3yr_pct": 16.7,
       "over_3yr_pct": 83.3
     },
     {
       "type": "购物",
-      "count": 9,
+      "count": 9.0,
       "within_1yr_pct": 44.4,
       "1_3yr_pct": 22.2,
       "over_3yr_pct": 33.3
     },
     {
       "type": "教育培训",
-      "count": 2,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 100
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
     },
     {
       "type": "生活服务",
-      "count": 8,
-      "within_1yr_pct": 25,
+      "count": 8.0,
+      "within_1yr_pct": 25.0,
       "1_3yr_pct": 37.5,
       "over_3yr_pct": 37.5
     },
     {
       "type": "运动健身",
-      "count": 1,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 100,
-      "over_3yr_pct": 0
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
     },
     {
       "type": "车辆服务",
-      "count": 3,
-      "within_1yr_pct": 0,
+      "count": 3.0,
+      "within_1yr_pct": 0.0,
       "1_3yr_pct": 33.3,
       "over_3yr_pct": 66.7
     }

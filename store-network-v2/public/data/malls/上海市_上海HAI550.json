@@ -7,13 +7,13 @@
   "overview": {
     "score": null,
     "score_rank": "",
-    "population_score": 84,
+    "population_score": 84.0,
     "area_score": 85.2,
     "consumption_score": 90.1,
     "industry_score": 68.6,
     "annual_sales": "HAI550位于上海市淮海中路550号，是雅戈尔集团与天目里联合打造的国内首个可持续生活方式主题商业综合体。共8层，涵盖零售、展览、画廊、餐饮、手工坊、买手店及永续实验室等多元业态。商场以“自然而然”为设计理念，强调可持续生活理念，使用大量循环再生材料进行改造。",
     "annual_sales_unit": "-",
-    "area_size_sqm": 7200,
+    "area_size_sqm": 7200.0,
     "open_date": "2024-08-03",
     "operator": "慧展科技（杭州）有限公司",
     "brand": "",
@@ -39,7 +39,7 @@
   "population": {
     "residential": {
       "500m": 1.9,
-      "1_5km": 18,
+      "1_5km": 18.0,
       "3km": 97.6
     },
     "office": {
@@ -50,30 +50,30 @@
     "permanent": {
       "500m": 2.2,
       "1_5km": 24.8,
-      "3km": 118
+      "3km": 118.0
     }
   },
   "business": {
-    "competitors": 6,
-    "food": 234,
-    "shopping": 293,
-    "leisure": 26,
-    "education": 8,
-    "hotel": 100,
-    "services": 133,
-    "fitness": 10,
-    "auto": 7,
-    "total_stores": 24,
-    "old_store_3yr_pct": 0
+    "competitors": 6.0,
+    "food": 234.0,
+    "shopping": 293.0,
+    "leisure": 26.0,
+    "education": 8.0,
+    "hotel": 100.0,
+    "services": 133.0,
+    "fitness": 10.0,
+    "auto": 7.0,
+    "total_stores": 24.0,
+    "old_store_3yr_pct": 0.0
   },
   "nearby_poi": {
-    "business": 38,
-    "community": 1243,
-    "office": 180,
-    "school": 66,
-    "hospital": 234,
-    "transport": 22,
-    "scenic": 979
+    "business": 38.0,
+    "community": 1243.0,
+    "office": 180.0,
+    "school": 66.0,
+    "hospital": 234.0,
+    "transport": 22.0,
+    "scenic": 979.0
   },
   "demographics": {
     "male_pct": null,
@@ -83,7 +83,7 @@
       "初中": 18.1,
       "高中": 11.4,
       "大专": 7.4,
-      "本科": 46,
+      "本科": 46.0,
       "硕士": 5.4,
       "博士": 1.6
     },
@@ -428,38 +428,38 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 5,
-      "within_1yr_pct": 20,
-      "1_3yr_pct": 80,
-      "over_3yr_pct": 0
+      "count": 5.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 80.0,
+      "over_3yr_pct": 0.0
     },
     {
       "type": "购物",
-      "count": 16,
+      "count": 16.0,
       "within_1yr_pct": 31.3,
       "1_3yr_pct": 68.8,
-      "over_3yr_pct": 0
+      "over_3yr_pct": 0.0
     },
     {
       "type": "休闲娱乐",
-      "count": 1,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 100,
-      "over_3yr_pct": 0
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
     },
     {
       "type": "教育培训",
-      "count": 1,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 100,
-      "over_3yr_pct": 0
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
     },
     {
       "type": "生活服务",
-      "count": 1,
-      "within_1yr_pct": 100,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 0
+      "count": 1.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
     }
   ],
   "nearby_communities": [

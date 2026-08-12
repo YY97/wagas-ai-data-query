@@ -9,7 +9,7 @@
     "score_rank": "市内前30%",
     "population_score": 76.6,
     "area_score": 82.4,
-    "consumption_score": 94,
+    "consumption_score": 94.0,
     "industry_score": 87.5,
     "annual_sales": "北京新地佰位于西城区地安门外大街，前身是始创于1952年的地安门百货商场，2013年起进行改造，2022年12月31日重张。商场定位“高品质、重文化、强吸引”，聚焦潮玩零售、国潮餐饮、艺术文化和高端办公等多元业态。建筑风格融合传统与现代，沿街立面为地上两层，临前海一面为地上四层，且有观景露台。商场旨在助力北京中轴线申遗，成为连接传统与现代商业的重要纽带",
     "annual_sales_unit": "-",
@@ -43,7 +43,7 @@
       "3km": 63.2
     },
     "office": {
-      "500m": 8200,
+      "500m": 8200.0,
       "1_5km": 7.5,
       "3km": 44.3
     },
@@ -54,26 +54,26 @@
     }
   },
   "business": {
-    "competitors": 6,
-    "food": 373,
-    "shopping": 154,
-    "leisure": 11,
-    "education": 4,
-    "hotel": 20,
-    "services": 58,
-    "fitness": 3,
-    "auto": 4,
-    "total_stores": 40,
-    "old_store_3yr_pct": 43
+    "competitors": 6.0,
+    "food": 373.0,
+    "shopping": 154.0,
+    "leisure": 11.0,
+    "education": 4.0,
+    "hotel": 20.0,
+    "services": 58.0,
+    "fitness": 3.0,
+    "auto": 4.0,
+    "total_stores": 40.0,
+    "old_store_3yr_pct": 43.0
   },
   "nearby_poi": {
     "business": null,
-    "community": 396,
-    "office": 16,
-    "school": 56,
-    "hospital": 135,
-    "transport": 3,
-    "scenic": 1322
+    "community": 396.0,
+    "office": 16.0,
+    "school": 56.0,
+    "hospital": 135.0,
+    "transport": 3.0,
+    "scenic": 1322.0
   },
   "demographics": {
     "male_pct": 46.8,
@@ -85,7 +85,7 @@
       "大专": 6.3,
       "本科": 45.6,
       "硕士": 7.2,
-      "博士": 2
+      "博士": 2.0
     },
     "has_children_pct": 56.6,
     "no_children_pct": 43.4
@@ -347,38 +347,38 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 31,
-      "within_1yr_pct": 29,
+      "count": 31.0,
+      "within_1yr_pct": 29.0,
       "1_3yr_pct": 22.6,
       "over_3yr_pct": 48.4
     },
     {
       "type": "购物",
-      "count": 5,
-      "within_1yr_pct": 60,
-      "1_3yr_pct": 20,
-      "over_3yr_pct": 20
+      "count": 5.0,
+      "within_1yr_pct": 60.0,
+      "1_3yr_pct": 20.0,
+      "over_3yr_pct": 20.0
     },
     {
       "type": "休闲娱乐",
-      "count": 2,
-      "within_1yr_pct": 50,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 50
+      "count": 2.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 50.0
     },
     {
       "type": "生活服务",
-      "count": 1,
-      "within_1yr_pct": 100,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 0
+      "count": 1.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
     },
     {
       "type": "车辆服务",
-      "count": 1,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 100,
-      "over_3yr_pct": 0
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
     }
   ],
   "nearby_communities": [

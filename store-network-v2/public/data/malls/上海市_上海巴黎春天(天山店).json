@@ -5,12 +5,12 @@
   "lat": 31.209169,
   "lng": 121.407102,
   "overview": {
-    "score": 89,
+    "score": 89.0,
     "score_rank": "市内前30%",
-    "population_score": 100,
+    "population_score": 100.0,
     "area_score": 90.8,
     "consumption_score": 76.3,
-    "industry_score": 89,
+    "industry_score": 89.0,
     "annual_sales": "上海巴黎春天（天山店）位于上海市长宁区天山路762号，是集美食、休闲、娱乐、教育等业态于一体的社区型购物中心。商场总建筑面积为43,000平方米，共9层，其中地下3层、地上6层。商场与地铁2号线娄山关路站直连，交通十分便利。未来，待地铁15号线贯通后，商场地下二层还将与娄山关路站直连",
     "annual_sales_unit": "-",
     "area_size_sqm": 4.3,
@@ -26,19 +26,19 @@
     "annual_daily_rank": "市内第220",
     "jun_total": 18.3,
     "jun_total_rank": "市内商场第395名",
-    "jun_daily_avg": 6095,
+    "jun_daily_avg": 6095.0,
     "jun_daily_unit": "人次",
     "jun_daily_rank": "市内商场第395名",
-    "weekday_avg": 5639,
+    "weekday_avg": 5639.0,
     "weekday_unit": "人次",
     "weekday_rank": "市内商场第400名",
-    "holiday_avg": 7347,
+    "holiday_avg": 7347.0,
     "holiday_unit": "人次",
     "holiday_rank": "市内商场第379名"
   },
   "population": {
     "residential": {
-      "500m": 4,
+      "500m": 4.0,
       "1_5km": 23.3,
       "3km": 85.5
     },
@@ -54,26 +54,26 @@
     }
   },
   "business": {
-    "competitors": 15,
-    "food": 436,
-    "shopping": 291,
-    "leisure": 23,
-    "education": 31,
-    "hotel": 37,
-    "services": 201,
-    "fitness": 48,
-    "auto": 21,
-    "total_stores": 67,
-    "old_store_3yr_pct": 28
+    "competitors": 15.0,
+    "food": 436.0,
+    "shopping": 291.0,
+    "leisure": 23.0,
+    "education": 31.0,
+    "hotel": 37.0,
+    "services": 201.0,
+    "fitness": 48.0,
+    "auto": 21.0,
+    "total_stores": 67.0,
+    "old_store_3yr_pct": 28.0
   },
   "nearby_poi": {
-    "business": 10,
-    "community": 795,
-    "office": 89,
-    "school": 45,
-    "hospital": 135,
-    "transport": 12,
-    "scenic": 312
+    "business": 10.0,
+    "community": 795.0,
+    "office": 89.0,
+    "school": 45.0,
+    "hospital": 135.0,
+    "transport": 12.0,
+    "scenic": 312.0
   },
   "demographics": {
     "male_pct": 47.1,
@@ -428,59 +428,59 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 24,
+      "count": 24.0,
       "within_1yr_pct": 16.7,
-      "1_3yr_pct": 50,
+      "1_3yr_pct": 50.0,
       "over_3yr_pct": 33.3
     },
     {
       "type": "购物",
-      "count": 14,
+      "count": 14.0,
       "within_1yr_pct": 21.4,
       "1_3yr_pct": 57.1,
       "over_3yr_pct": 21.4
     },
     {
       "type": "休闲娱乐",
-      "count": 4,
-      "within_1yr_pct": 50,
-      "1_3yr_pct": 50,
-      "over_3yr_pct": 0
+      "count": 4.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 0.0
     },
     {
       "type": "教育培训",
-      "count": 7,
-      "within_1yr_pct": 0,
+      "count": 7.0,
+      "within_1yr_pct": 0.0,
       "1_3yr_pct": 57.1,
       "over_3yr_pct": 42.9
     },
     {
       "type": "酒店住宿",
-      "count": 2,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 50,
-      "over_3yr_pct": 50
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 50.0
     },
     {
       "type": "生活服务",
-      "count": 10,
-      "within_1yr_pct": 10,
-      "1_3yr_pct": 70,
-      "over_3yr_pct": 20
+      "count": 10.0,
+      "within_1yr_pct": 10.0,
+      "1_3yr_pct": 70.0,
+      "over_3yr_pct": 20.0
     },
     {
       "type": "运动健身",
-      "count": 5,
-      "within_1yr_pct": 60,
-      "1_3yr_pct": 20,
-      "over_3yr_pct": 20
+      "count": 5.0,
+      "within_1yr_pct": 60.0,
+      "1_3yr_pct": 20.0,
+      "over_3yr_pct": 20.0
     },
     {
       "type": "车辆服务",
-      "count": 1,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 100
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
     }
   ],
   "nearby_communities": [

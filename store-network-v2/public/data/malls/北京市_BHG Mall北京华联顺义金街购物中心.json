@@ -13,7 +13,7 @@
     "industry_score": 96.3,
     "annual_sales": "北京华联顺义金街购物中心位于顺义区新顺南大街，地处顺义区核心商业区，为顺义首家购物中心。一举涵盖了购物、休息、餐饮、影音、服装等多类业态，成为顺义新城区域最高档的一站式时尚消费购物中心",
     "annual_sales_unit": "-",
-    "area_size_sqm": 8,
+    "area_size_sqm": 8.0,
     "open_date": "2014-01-01",
     "operator": "北京华联商厦股份有限公司",
     "brand": "华联",
@@ -38,7 +38,7 @@
   },
   "population": {
     "residential": {
-      "500m": 9200,
+      "500m": 9200.0,
       "1_5km": 12.7,
       "3km": 30.9
     },
@@ -50,30 +50,30 @@
     "permanent": {
       "500m": 2.1,
       "1_5km": 13.7,
-      "3km": 31
+      "3km": 31.0
     }
   },
   "business": {
-    "competitors": 7,
-    "food": 380,
-    "shopping": 440,
-    "leisure": 46,
-    "education": 36,
-    "hotel": 16,
-    "services": 197,
-    "fitness": 27,
-    "auto": 20,
-    "total_stores": 349,
-    "old_store_3yr_pct": 53
+    "competitors": 7.0,
+    "food": 380.0,
+    "shopping": 440.0,
+    "leisure": 46.0,
+    "education": 36.0,
+    "hotel": 16.0,
+    "services": 197.0,
+    "fitness": 27.0,
+    "auto": 20.0,
+    "total_stores": 349.0,
+    "old_store_3yr_pct": 53.0
   },
   "nearby_poi": {
-    "business": 10,
-    "community": 120,
-    "office": 10,
-    "school": 32,
-    "hospital": 44,
-    "transport": 15,
-    "scenic": 56
+    "business": 10.0,
+    "community": 120.0,
+    "office": 10.0,
+    "school": 32.0,
+    "hospital": 44.0,
+    "transport": 15.0,
+    "scenic": 56.0
   },
   "demographics": {
     "male_pct": 46.8,
@@ -85,7 +85,7 @@
       "大专": 7.8,
       "本科": 51.2,
       "硕士": 5.4,
-      "博士": 1
+      "博士": 1.0
     },
     "has_children_pct": 70.8,
     "no_children_pct": 29.2
@@ -278,49 +278,49 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 160,
+      "count": 160.0,
       "within_1yr_pct": 25.6,
       "1_3yr_pct": 27.5,
       "over_3yr_pct": 46.9
     },
     {
       "type": "购物",
-      "count": 123,
+      "count": 123.0,
       "within_1yr_pct": 8.9,
       "1_3yr_pct": 19.5,
       "over_3yr_pct": 71.5
     },
     {
       "type": "休闲娱乐",
-      "count": 11,
+      "count": 11.0,
       "within_1yr_pct": 18.2,
       "1_3yr_pct": 9.1,
       "over_3yr_pct": 72.7
     },
     {
       "type": "教育培训",
-      "count": 6,
+      "count": 6.0,
       "within_1yr_pct": 33.3,
       "1_3yr_pct": 16.7,
-      "over_3yr_pct": 50
+      "over_3yr_pct": 50.0
     },
     {
       "type": "生活服务",
-      "count": 35,
+      "count": 35.0,
       "within_1yr_pct": 42.9,
       "1_3yr_pct": 25.7,
       "over_3yr_pct": 31.4
     },
     {
       "type": "运动健身",
-      "count": 3,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 100,
-      "over_3yr_pct": 0
+      "count": 3.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
     },
     {
       "type": "车辆服务",
-      "count": 11,
+      "count": 11.0,
       "within_1yr_pct": 27.3,
       "1_3yr_pct": 63.6,
       "over_3yr_pct": 9.1

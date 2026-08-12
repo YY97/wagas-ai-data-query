@@ -13,7 +13,7 @@
     "industry_score": 94.3,
     "annual_sales": "新田360广场上海康桥店，总建筑面积近12万平方米，位于上海浦东新区康桥镇，所在周康板块是浦东新区中西部发展的重要板块，东靠迪士尼，西临后世博，北接自贸区张江板块，地理位置优越。　　项目秉承新田360广场独特的经营模式，力求打造大浦东区域首席家庭体验式消费购物中心。",
     "annual_sales_unit": "-",
-    "area_size_sqm": 10,
+    "area_size_sqm": 10.0,
     "open_date": "2021-06-17",
     "operator": "上海新田投资有限公司",
     "brand": "",
@@ -43,8 +43,8 @@
       "3km": 47.5
     },
     "office": {
-      "500m": 1,
-      "1_5km": 7,
+      "500m": 1.0,
+      "1_5km": 7.0,
       "3km": 19.6
     },
     "permanent": {
@@ -54,26 +54,26 @@
     }
   },
   "business": {
-    "competitors": 2,
-    "food": 102,
-    "shopping": 63,
-    "leisure": 9,
-    "education": 16,
+    "competitors": 2.0,
+    "food": 102.0,
+    "shopping": 63.0,
+    "leisure": 9.0,
+    "education": 16.0,
     "hotel": null,
-    "services": 43,
-    "fitness": 9,
-    "auto": 20,
-    "total_stores": 171,
-    "old_store_3yr_pct": 44
+    "services": 43.0,
+    "fitness": 9.0,
+    "auto": 20.0,
+    "total_stores": 171.0,
+    "old_store_3yr_pct": 44.0
   },
   "nearby_poi": {
-    "business": 3,
-    "community": 227,
-    "office": 10,
-    "school": 24,
-    "hospital": 37,
-    "transport": 3,
-    "scenic": 58
+    "business": 3.0,
+    "community": 227.0,
+    "office": 10.0,
+    "school": 24.0,
+    "hospital": 37.0,
+    "transport": 3.0,
+    "scenic": 58.0
   },
   "demographics": {
     "male_pct": 49.7,
@@ -132,49 +132,49 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 66,
+      "count": 66.0,
       "within_1yr_pct": 10.6,
       "1_3yr_pct": 43.9,
       "over_3yr_pct": 45.5
     },
     {
       "type": "购物",
-      "count": 36,
+      "count": 36.0,
       "within_1yr_pct": 22.2,
       "1_3yr_pct": 27.8,
-      "over_3yr_pct": 50
+      "over_3yr_pct": 50.0
     },
     {
       "type": "休闲娱乐",
-      "count": 10,
-      "within_1yr_pct": 10,
-      "1_3yr_pct": 40,
-      "over_3yr_pct": 50
+      "count": 10.0,
+      "within_1yr_pct": 10.0,
+      "1_3yr_pct": 40.0,
+      "over_3yr_pct": 50.0
     },
     {
       "type": "教育培训",
-      "count": 16,
+      "count": 16.0,
       "within_1yr_pct": 31.3,
       "1_3yr_pct": 43.8,
-      "over_3yr_pct": 25
+      "over_3yr_pct": 25.0
     },
     {
       "type": "生活服务",
-      "count": 21,
+      "count": 21.0,
       "within_1yr_pct": 14.3,
       "1_3yr_pct": 42.9,
       "over_3yr_pct": 42.9
     },
     {
       "type": "运动健身",
-      "count": 9,
+      "count": 9.0,
       "within_1yr_pct": 33.3,
       "1_3yr_pct": 44.4,
       "over_3yr_pct": 22.2
     },
     {
       "type": "车辆服务",
-      "count": 13,
+      "count": 13.0,
       "within_1yr_pct": 15.4,
       "1_3yr_pct": 30.8,
       "over_3yr_pct": 53.8

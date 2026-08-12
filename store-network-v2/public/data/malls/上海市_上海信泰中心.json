@@ -10,7 +10,7 @@
     "population_score": 97.6,
     "area_score": 73.5,
     "consumption_score": 76.6,
-    "industry_score": 92,
+    "industry_score": 92.0,
     "annual_sales": "上海信泰中心位于上海市普陀区大渡河路武宁路路口，总投资额超63亿元原址为上海最大的农副产品市场曹安市场，地上包含2栋高度分别约为171米、180米的甲级双塔写字楼，海派商邸、总部企业独栋和1栋酒店，以及6.7万平方米的地铁上盖商业与轨道交通15号线（梅岭北路站）无缝连接，并紧邻11、13、14号线；距离仅800米的中环高架以及相距不远的内环高架路，驱车可快速通达黄浦、静安、浦东和徐汇等区域，极其便利的交通体系也为其释放出了巨大的枢纽势能上海信泰中心商场作为综合体的重要组成部分，以差异化定位满足全客层消费，锁定商务配套和居民品质进阶需求，锚定“5+2”商业模式，创新提出“五大特色业态”及“两大社交主题空间”，打造一站式品质生活中心“5”即五大特色商业业态，包含泰食尚·特色美食、泰活力·时尚运动、泰闪耀·精品美妆、泰温馨·生活服务、泰酷乐·休闲娱乐五大消费生活维度；“2”即两大社交主题区：白领夜市主题街区“都市夜归人”和旨在全面赋能白领社群生活的“精英第三空间”商业部分引入了7家品牌首店，包括首次引入上海的大润发Super、中体运动生活馆、韩味岛酱蟹，以及普陀首店明谷市集主题街区、新世界集合店、万岛、岩战攀岩俱乐部等众多商业合作伙伴，共同营造轻松、时尚、多元聚合的商业氛围",
     "annual_sales_unit": "-",
     "area_size_sqm": 6.7,
@@ -50,30 +50,30 @@
     "permanent": {
       "500m": 3.7,
       "1_5km": 27.4,
-      "3km": 96
+      "3km": 96.0
     }
   },
   "business": {
-    "competitors": 4,
-    "food": 124,
-    "shopping": 108,
-    "leisure": 12,
-    "education": 8,
-    "hotel": 6,
-    "services": 81,
-    "fitness": 10,
-    "auto": 11,
-    "total_stores": 70,
-    "old_store_3yr_pct": 46
+    "competitors": 4.0,
+    "food": 124.0,
+    "shopping": 108.0,
+    "leisure": 12.0,
+    "education": 8.0,
+    "hotel": 6.0,
+    "services": 81.0,
+    "fitness": 10.0,
+    "auto": 11.0,
+    "total_stores": 70.0,
+    "old_store_3yr_pct": 46.0
   },
   "nearby_poi": {
-    "business": 6,
-    "community": 468,
-    "office": 53,
-    "school": 43,
-    "hospital": 57,
-    "transport": 9,
-    "scenic": 172
+    "business": 6.0,
+    "community": 468.0,
+    "office": 53.0,
+    "school": 43.0,
+    "hospital": 57.0,
+    "transport": 9.0,
+    "scenic": 172.0
   },
   "demographics": {
     "male_pct": 46.4,
@@ -83,7 +83,7 @@
       "初中": 16.5,
       "高中": 11.7,
       "大专": 6.8,
-      "本科": 49,
+      "本科": 49.0,
       "硕士": 5.7,
       "博士": 1.7
     },
@@ -396,59 +396,59 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 30,
+      "count": 30.0,
       "within_1yr_pct": 13.3,
-      "1_3yr_pct": 20,
+      "1_3yr_pct": 20.0,
       "over_3yr_pct": 66.7
     },
     {
       "type": "购物",
-      "count": 8,
+      "count": 8.0,
       "within_1yr_pct": 37.5,
       "1_3yr_pct": 37.5,
-      "over_3yr_pct": 25
+      "over_3yr_pct": 25.0
     },
     {
       "type": "休闲娱乐",
-      "count": 6,
-      "within_1yr_pct": 50,
+      "count": 6.0,
+      "within_1yr_pct": 50.0,
       "1_3yr_pct": 33.3,
       "over_3yr_pct": 16.7
     },
     {
       "type": "教育培训",
-      "count": 2,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 100,
-      "over_3yr_pct": 0
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
     },
     {
       "type": "酒店住宿",
-      "count": 1,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 100,
-      "over_3yr_pct": 0
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
     },
     {
       "type": "生活服务",
-      "count": 16,
+      "count": 16.0,
       "within_1yr_pct": 12.5,
       "1_3yr_pct": 56.3,
       "over_3yr_pct": 31.3
     },
     {
       "type": "运动健身",
-      "count": 5,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 20,
-      "over_3yr_pct": 80
+      "count": 5.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 20.0,
+      "over_3yr_pct": 80.0
     },
     {
       "type": "车辆服务",
-      "count": 2,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 100,
-      "over_3yr_pct": 0
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
     }
   ],
   "nearby_communities": [

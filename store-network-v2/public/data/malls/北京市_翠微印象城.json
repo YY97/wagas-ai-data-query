@@ -7,13 +7,13 @@
   "overview": {
     "score": 94.9,
     "score_rank": "市内前30%",
-    "population_score": 100,
+    "population_score": 100.0,
     "area_score": 89.3,
     "consumption_score": 85.8,
     "industry_score": 94.9,
     "annual_sales": "北京印象城座落于北京市海淀区翠微路，位处公主坟商圈区域，东临西三环主干道，向南通向长安街西沿线。地铁1号线与购物中心咫尺相连。商场周边军队大院、机关单位及教育机构等高素质人群密布，5公里内高档社区成群，辐射人口数近177万。，东西两个大天井的设计，让这个中型体量的购物中心拥有十分舒适的动线。",
     "annual_sales_unit": "-",
-    "area_size_sqm": 7,
+    "area_size_sqm": 7.0,
     "open_date": "2010-01-01",
     "operator": "印力商用置业有限公司",
     "brand": "印力",
@@ -38,13 +38,13 @@
   },
   "population": {
     "residential": {
-      "500m": 4,
+      "500m": 4.0,
       "1_5km": 16.6,
       "3km": 73.8
     },
     "office": {
       "500m": 2.1,
-      "1_5km": 12,
+      "1_5km": 12.0,
       "3km": 51.3
     },
     "permanent": {
@@ -54,26 +54,26 @@
     }
   },
   "business": {
-    "competitors": 4,
-    "food": 174,
-    "shopping": 292,
-    "leisure": 14,
-    "education": 49,
-    "hotel": 13,
-    "services": 177,
-    "fitness": 12,
-    "auto": 16,
-    "total_stores": 183,
-    "old_store_3yr_pct": 47
+    "competitors": 4.0,
+    "food": 174.0,
+    "shopping": 292.0,
+    "leisure": 14.0,
+    "education": 49.0,
+    "hotel": 13.0,
+    "services": 177.0,
+    "fitness": 12.0,
+    "auto": 16.0,
+    "total_stores": 183.0,
+    "old_store_3yr_pct": 47.0
   },
   "nearby_poi": {
-    "business": 3,
-    "community": 415,
-    "office": 40,
-    "school": 34,
-    "hospital": 64,
-    "transport": 9,
-    "scenic": 167
+    "business": 3.0,
+    "community": 415.0,
+    "office": 40.0,
+    "school": 34.0,
+    "hospital": 64.0,
+    "transport": 9.0,
+    "scenic": 167.0
   },
   "demographics": {
     "male_pct": 48.1,
@@ -372,52 +372,52 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 83,
+      "count": 83.0,
       "within_1yr_pct": 20.5,
       "1_3yr_pct": 33.7,
       "over_3yr_pct": 45.8
     },
     {
       "type": "购物",
-      "count": 48,
+      "count": 48.0,
       "within_1yr_pct": 14.6,
       "1_3yr_pct": 35.4,
-      "over_3yr_pct": 50
+      "over_3yr_pct": 50.0
     },
     {
       "type": "休闲娱乐",
-      "count": 9,
+      "count": 9.0,
       "within_1yr_pct": 11.1,
       "1_3yr_pct": 33.3,
       "over_3yr_pct": 55.6
     },
     {
       "type": "教育培训",
-      "count": 13,
+      "count": 13.0,
       "within_1yr_pct": 15.4,
       "1_3yr_pct": 61.5,
       "over_3yr_pct": 23.1
     },
     {
       "type": "生活服务",
-      "count": 25,
-      "within_1yr_pct": 24,
-      "1_3yr_pct": 24,
-      "over_3yr_pct": 52
+      "count": 25.0,
+      "within_1yr_pct": 24.0,
+      "1_3yr_pct": 24.0,
+      "over_3yr_pct": 52.0
     },
     {
       "type": "运动健身",
-      "count": 1,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 100,
-      "over_3yr_pct": 0
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
     },
     {
       "type": "车辆服务",
-      "count": 4,
-      "within_1yr_pct": 25,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 75
+      "count": 4.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 75.0
     }
   ],
   "nearby_communities": [

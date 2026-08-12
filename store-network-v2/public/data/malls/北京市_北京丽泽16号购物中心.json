@@ -10,7 +10,7 @@
     "population_score": 88.8,
     "area_score": 75.1,
     "consumption_score": 80.4,
-    "industry_score": 83,
+    "industry_score": 83.0,
     "annual_sales": "北京丽泽16号商业综合体位于丽泽金融商务区西北角，依托1万平方米绿地，打造公园型美育潮流交互商业。综合体以“社交、时尚、动感、美学、极限”为核心，打造城市年轻活力社交悦动场，集聚运动、娱乐、餐饮、美育、潮玩五大业态的创新型生活城市综合体，为周边居民提供健康、活力、潮流的生活空间",
     "annual_sales_unit": "-",
     "area_size_sqm": 5.5,
@@ -26,13 +26,13 @@
     "annual_daily_rank": "",
     "jun_total": 17.7,
     "jun_total_rank": "市内商场第290名",
-    "jun_daily_avg": 5906,
+    "jun_daily_avg": 5906.0,
     "jun_daily_unit": "人次",
     "jun_daily_rank": "市内商场第290名",
-    "weekday_avg": 5733,
+    "weekday_avg": 5733.0,
     "weekday_unit": "人次",
     "weekday_rank": "市内商场第290名",
-    "holiday_avg": 6386,
+    "holiday_avg": 6386.0,
     "holiday_unit": "人次",
     "holiday_rank": "市内商场第289名"
   },
@@ -43,37 +43,37 @@
       "3km": 76.1
     },
     "office": {
-      "500m": 1,
+      "500m": 1.0,
       "1_5km": 9.8,
       "3km": 40.7
     },
     "permanent": {
-      "500m": 2,
+      "500m": 2.0,
       "1_5km": 17.9,
-      "3km": 81
+      "3km": 81.0
     }
   },
   "business": {
-    "competitors": 3,
-    "food": 96,
-    "shopping": 81,
-    "leisure": 13,
-    "education": 16,
-    "hotel": 12,
-    "services": 75,
-    "fitness": 25,
-    "auto": 26,
-    "total_stores": 53,
-    "old_store_3yr_pct": 13
+    "competitors": 3.0,
+    "food": 96.0,
+    "shopping": 81.0,
+    "leisure": 13.0,
+    "education": 16.0,
+    "hotel": 12.0,
+    "services": 75.0,
+    "fitness": 25.0,
+    "auto": 26.0,
+    "total_stores": 53.0,
+    "old_store_3yr_pct": 13.0
   },
   "nearby_poi": {
-    "business": 9,
-    "community": 359,
-    "office": 45,
-    "school": 23,
-    "hospital": 58,
-    "transport": 7,
-    "scenic": 105
+    "business": 9.0,
+    "community": 359.0,
+    "office": 45.0,
+    "school": 23.0,
+    "hospital": 58.0,
+    "transport": 7.0,
+    "scenic": 105.0
   },
   "demographics": {
     "male_pct": 46.3,
@@ -420,52 +420,52 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 17,
+      "count": 17.0,
       "within_1yr_pct": 17.6,
       "1_3yr_pct": 70.6,
       "over_3yr_pct": 11.8
     },
     {
       "type": "购物",
-      "count": 9,
+      "count": 9.0,
       "within_1yr_pct": 11.1,
       "1_3yr_pct": 88.9,
-      "over_3yr_pct": 0
+      "over_3yr_pct": 0.0
     },
     {
       "type": "休闲娱乐",
-      "count": 2,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 100,
-      "over_3yr_pct": 0
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
     },
     {
       "type": "教育培训",
-      "count": 3,
+      "count": 3.0,
       "within_1yr_pct": 66.7,
-      "1_3yr_pct": 0,
+      "1_3yr_pct": 0.0,
       "over_3yr_pct": 33.3
     },
     {
       "type": "生活服务",
-      "count": 14,
+      "count": 14.0,
       "within_1yr_pct": 21.4,
       "1_3yr_pct": 64.3,
       "over_3yr_pct": 14.3
     },
     {
       "type": "运动健身",
-      "count": 3,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 100,
-      "over_3yr_pct": 0
+      "count": 3.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
     },
     {
       "type": "车辆服务",
-      "count": 5,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 60,
-      "over_3yr_pct": 40
+      "count": 5.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 60.0,
+      "over_3yr_pct": 40.0
     }
   ],
   "nearby_communities": [

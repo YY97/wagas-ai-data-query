@@ -13,7 +13,7 @@
     "industry_score": 90.7,
     "annual_sales": "上海三林印象汇是浦发集团旗下的城市微更新商业项目，位于地铁8号线芦恒路站5号口附近项目以“生活自在印象”为核心，结合精致的生活体验与具有浓郁人情味的客户服务，打造一个让消费者能共情依赖感、亲近感、关怀感、价值感及认同感于一体的高品质陪伴式生活场域项目将对话在地、融合社区，打造更灵动精妙的社区“近”商业",
     "annual_sales_unit": "-",
-    "area_size_sqm": 5,
+    "area_size_sqm": 5.0,
     "open_date": "2024-06-25",
     "operator": "印力商用置业有限公司",
     "brand": "印力",
@@ -29,10 +29,10 @@
     "jun_daily_avg": 3.3,
     "jun_daily_unit": "万人次",
     "jun_daily_rank": "市内商场第127名",
-    "weekday_avg": 3,
+    "weekday_avg": 3.0,
     "weekday_unit": "万人次",
     "weekday_rank": "市内商场第125名",
-    "holiday_avg": 4,
+    "holiday_avg": 4.0,
     "holiday_unit": "万人次",
     "holiday_rank": "市内商场第121名"
   },
@@ -43,7 +43,7 @@
       "3km": 35.8
     },
     "office": {
-      "500m": 9000,
+      "500m": 9000.0,
       "1_5km": 3.2,
       "3km": 13.8
     },
@@ -54,33 +54,33 @@
     }
   },
   "business": {
-    "competitors": 4,
-    "food": 103,
-    "shopping": 53,
-    "leisure": 3,
-    "education": 17,
-    "hotel": 4,
-    "services": 49,
-    "fitness": 14,
-    "auto": 8,
-    "total_stores": 81,
-    "old_store_3yr_pct": 59
+    "competitors": 4.0,
+    "food": 103.0,
+    "shopping": 53.0,
+    "leisure": 3.0,
+    "education": 17.0,
+    "hotel": 4.0,
+    "services": 49.0,
+    "fitness": 14.0,
+    "auto": 8.0,
+    "total_stores": 81.0,
+    "old_store_3yr_pct": 59.0
   },
   "nearby_poi": {
-    "business": 2,
-    "community": 171,
-    "office": 1,
-    "school": 17,
-    "hospital": 17,
-    "transport": 9,
-    "scenic": 37
+    "business": 2.0,
+    "community": 171.0,
+    "office": 1.0,
+    "school": 17.0,
+    "hospital": 17.0,
+    "transport": 9.0,
+    "scenic": 37.0
   },
   "demographics": {
     "male_pct": 45.4,
     "female_pct": null,
     "education": {
       "小学": 9.6,
-      "初中": 18,
+      "初中": 18.0,
       "高中": 11.1,
       "大专": 7.7,
       "本科": 46.4,
@@ -129,52 +129,52 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 42,
+      "count": 42.0,
       "within_1yr_pct": 11.9,
       "1_3yr_pct": 28.6,
       "over_3yr_pct": 59.5
     },
     {
       "type": "购物",
-      "count": 20,
-      "within_1yr_pct": 15,
-      "1_3yr_pct": 25,
-      "over_3yr_pct": 60
+      "count": 20.0,
+      "within_1yr_pct": 15.0,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 60.0
     },
     {
       "type": "休闲娱乐",
-      "count": 1,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 100
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
     },
     {
       "type": "教育培训",
-      "count": 5,
-      "within_1yr_pct": 20,
-      "1_3yr_pct": 20,
-      "over_3yr_pct": 60
+      "count": 5.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 20.0,
+      "over_3yr_pct": 60.0
     },
     {
       "type": "生活服务",
-      "count": 8,
+      "count": 8.0,
       "within_1yr_pct": 12.5,
       "1_3yr_pct": 37.5,
-      "over_3yr_pct": 50
+      "over_3yr_pct": 50.0
     },
     {
       "type": "运动健身",
-      "count": 3,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 100
+      "count": 3.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
     },
     {
       "type": "车辆服务",
-      "count": 2,
-      "within_1yr_pct": 100,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 0
+      "count": 2.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
     }
   ],
   "nearby_communities": [

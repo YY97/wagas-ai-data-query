@@ -13,7 +13,7 @@
     "industry_score": 91.9,
     "annual_sales": "MOHO上海位于静安区江宁路699号，是一个集文化、艺术、美学和思想力于一体的高端商业综合体项目包含MOHO潮奢购物中心、甲级智能写字楼、高端酒店式公寓等，旨在为现代24小时生活方式的城市高端消费群体提供娱乐社交、餐饮休闲、时尚购物、商务办公为一体的超凡城市生活提案，打造“24小时的城市绿洲”",
     "annual_sales_unit": "-",
-    "area_size_sqm": 8,
+    "area_size_sqm": 8.0,
     "open_date": "2023-01-13",
     "operator": "合生创展集团",
     "brand": "",
@@ -26,10 +26,10 @@
     "annual_daily_rank": "市内第218",
     "jun_total": 58.6,
     "jun_total_rank": "市内商场第193名",
-    "jun_daily_avg": 2,
+    "jun_daily_avg": 2.0,
     "jun_daily_unit": "万人次",
     "jun_daily_rank": "市内商场第193名",
-    "weekday_avg": 2,
+    "weekday_avg": 2.0,
     "weekday_unit": "万人次",
     "weekday_rank": "市内商场第184名",
     "holiday_avg": 1.9,
@@ -54,26 +54,26 @@
     }
   },
   "business": {
-    "competitors": 4,
-    "food": 288,
-    "shopping": 234,
-    "leisure": 25,
-    "education": 20,
-    "hotel": 40,
-    "services": 197,
-    "fitness": 27,
-    "auto": 16,
-    "total_stores": 113,
-    "old_store_3yr_pct": 30
+    "competitors": 4.0,
+    "food": 288.0,
+    "shopping": 234.0,
+    "leisure": 25.0,
+    "education": 20.0,
+    "hotel": 40.0,
+    "services": 197.0,
+    "fitness": 27.0,
+    "auto": 16.0,
+    "total_stores": 113.0,
+    "old_store_3yr_pct": 30.0
   },
   "nearby_poi": {
-    "business": 23,
-    "community": 1097,
-    "office": 240,
-    "school": 71,
-    "hospital": 184,
-    "transport": 17,
-    "scenic": 566
+    "business": 23.0,
+    "community": 1097.0,
+    "office": 240.0,
+    "school": 71.0,
+    "hospital": 184.0,
+    "transport": 17.0,
+    "scenic": 566.0
   },
   "demographics": {
     "male_pct": 46.8,
@@ -81,7 +81,7 @@
     "education": {
       "小学": 9.1,
       "初中": 17.9,
-      "高中": 12,
+      "高中": 12.0,
       "大专": 6.8,
       "本科": 47.9,
       "硕士": 4.7,
@@ -428,59 +428,59 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 52,
+      "count": 52.0,
       "within_1yr_pct": 32.7,
       "1_3yr_pct": 30.8,
       "over_3yr_pct": 36.5
     },
     {
       "type": "购物",
-      "count": 30,
+      "count": 30.0,
       "within_1yr_pct": 13.3,
       "1_3yr_pct": 63.3,
       "over_3yr_pct": 23.3
     },
     {
       "type": "休闲娱乐",
-      "count": 5,
-      "within_1yr_pct": 20,
-      "1_3yr_pct": 40,
-      "over_3yr_pct": 40
+      "count": 5.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 40.0,
+      "over_3yr_pct": 40.0
     },
     {
       "type": "教育培训",
-      "count": 2,
-      "within_1yr_pct": 50,
-      "1_3yr_pct": 50,
-      "over_3yr_pct": 0
+      "count": 2.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 0.0
     },
     {
       "type": "酒店住宿",
-      "count": 1,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 100,
-      "over_3yr_pct": 0
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
     },
     {
       "type": "生活服务",
-      "count": 9,
+      "count": 9.0,
       "within_1yr_pct": 11.1,
       "1_3yr_pct": 44.4,
       "over_3yr_pct": 44.4
     },
     {
       "type": "运动健身",
-      "count": 9,
+      "count": 9.0,
       "within_1yr_pct": 22.2,
       "1_3yr_pct": 66.7,
       "over_3yr_pct": 11.1
     },
     {
       "type": "车辆服务",
-      "count": 5,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 80,
-      "over_3yr_pct": 20
+      "count": 5.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 80.0,
+      "over_3yr_pct": 20.0
     }
   ],
   "nearby_communities": [

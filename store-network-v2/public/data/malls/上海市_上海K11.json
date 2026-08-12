@@ -13,7 +13,7 @@
     "industry_score": 92.5,
     "annual_sales": "K11是全球首个品牌率先把艺术·人文·自然三大核心元素融合，将艺术欣赏、人文体验、自然环保完美结合和互动，带出无限创意、自由及个性化的生活品牌，并为大众带来前所未有的感官体验。",
     "annual_sales_unit": "-",
-    "area_size_sqm": 13,
+    "area_size_sqm": 13.0,
     "open_date": "2013-06-01",
     "operator": "香港新世界发展有限公司",
     "brand": "新世界",
@@ -40,7 +40,7 @@
     "residential": {
       "500m": 1.4,
       "1_5km": 19.4,
-      "3km": 93
+      "3km": 93.0
     },
     "office": {
       "500m": 3.9,
@@ -54,29 +54,29 @@
     }
   },
   "business": {
-    "competitors": 19,
-    "food": 373,
-    "shopping": 316,
-    "leisure": 27,
-    "education": 19,
-    "hotel": 54,
-    "services": 206,
-    "fitness": 23,
-    "auto": 33,
-    "total_stores": 142,
-    "old_store_3yr_pct": 48
+    "competitors": 19.0,
+    "food": 373.0,
+    "shopping": 316.0,
+    "leisure": 27.0,
+    "education": 19.0,
+    "hotel": 54.0,
+    "services": 206.0,
+    "fitness": 23.0,
+    "auto": 33.0,
+    "total_stores": 142.0,
+    "old_store_3yr_pct": 48.0
   },
   "nearby_poi": {
-    "business": 36,
-    "community": 1108,
-    "office": 186,
-    "school": 57,
-    "hospital": 225,
-    "transport": 31,
-    "scenic": 959
+    "business": 36.0,
+    "community": 1108.0,
+    "office": 186.0,
+    "school": 57.0,
+    "hospital": 225.0,
+    "transport": 31.0,
+    "scenic": 959.0
   },
   "demographics": {
-    "male_pct": 49,
+    "male_pct": 49.0,
     "female_pct": null,
     "education": {
       "小学": 9.7,
@@ -428,52 +428,52 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 45,
+      "count": 45.0,
       "within_1yr_pct": 26.7,
       "1_3yr_pct": 31.1,
       "over_3yr_pct": 42.2
     },
     {
       "type": "购物",
-      "count": 56,
+      "count": 56.0,
       "within_1yr_pct": 14.3,
       "1_3yr_pct": 33.9,
       "over_3yr_pct": 51.8
     },
     {
       "type": "休闲娱乐",
-      "count": 7,
+      "count": 7.0,
       "within_1yr_pct": 28.6,
       "1_3yr_pct": 14.3,
       "over_3yr_pct": 57.1
     },
     {
       "type": "教育培训",
-      "count": 3,
-      "within_1yr_pct": 0,
+      "count": 3.0,
+      "within_1yr_pct": 0.0,
       "1_3yr_pct": 33.3,
       "over_3yr_pct": 66.7
     },
     {
       "type": "生活服务",
-      "count": 26,
+      "count": 26.0,
       "within_1yr_pct": 30.8,
       "1_3yr_pct": 26.9,
       "over_3yr_pct": 42.3
     },
     {
       "type": "运动健身",
-      "count": 1,
-      "within_1yr_pct": 100,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 0
+      "count": 1.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
     },
     {
       "type": "车辆服务",
-      "count": 4,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 25,
-      "over_3yr_pct": 75
+      "count": 4.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 75.0
     }
   ],
   "nearby_communities": [

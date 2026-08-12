@@ -9,11 +9,11 @@
     "score_rank": "市内前30%",
     "population_score": 62.1,
     "area_score": 73.3,
-    "consumption_score": 60,
+    "consumption_score": 60.0,
     "industry_score": 94.1,
     "annual_sales": "Gate M西岸梦中心前身为亚洲大型水泥厂，后由西岸集团与华之门资本联袂打造，蝶变为16.2万平方米的城市更新典范，成为上海这座城市独具情怀的符号。项目沿海岸线800米铺陈，整体划分为演艺文化区、可持续时尚区、微度假休闲区、梦工场、现象级城市户外区五大分区",
     "annual_sales_unit": "-",
-    "area_size_sqm": 10,
+    "area_size_sqm": 10.0,
     "open_date": "2024-09-26",
     "operator": "上海华之门信息技术有限公司",
     "brand": "",
@@ -38,8 +38,8 @@
   },
   "population": {
     "residential": {
-      "500m": 2000,
-      "1_5km": 7,
+      "500m": 2000.0,
+      "1_5km": 7.0,
       "3km": 48.2
     },
     "office": {
@@ -48,32 +48,32 @@
       "3km": 35.3
     },
     "permanent": {
-      "500m": 9600,
+      "500m": 9600.0,
       "1_5km": 8.5,
       "3km": 50.6
     }
   },
   "business": {
-    "competitors": 9,
-    "food": 214,
-    "shopping": 122,
-    "leisure": 13,
-    "education": 8,
-    "hotel": 7,
-    "services": 30,
-    "fitness": 18,
-    "auto": 23,
-    "total_stores": 192,
-    "old_store_3yr_pct": 30
+    "competitors": 9.0,
+    "food": 214.0,
+    "shopping": 122.0,
+    "leisure": 13.0,
+    "education": 8.0,
+    "hotel": 7.0,
+    "services": 30.0,
+    "fitness": 18.0,
+    "auto": 23.0,
+    "total_stores": 192.0,
+    "old_store_3yr_pct": 30.0
   },
   "nearby_poi": {
-    "business": 6,
-    "community": 313,
-    "office": 39,
-    "school": 17,
-    "hospital": 40,
-    "transport": 1,
-    "scenic": 206
+    "business": 6.0,
+    "community": 313.0,
+    "office": 39.0,
+    "school": 17.0,
+    "hospital": 40.0,
+    "transport": 1.0,
+    "scenic": 206.0
   },
   "demographics": {
     "male_pct": 46.9,
@@ -396,45 +396,45 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 86,
+      "count": 86.0,
       "within_1yr_pct": 19.8,
       "1_3yr_pct": 47.7,
       "over_3yr_pct": 32.6
     },
     {
       "type": "购物",
-      "count": 76,
+      "count": 76.0,
       "within_1yr_pct": 19.7,
-      "1_3yr_pct": 50,
+      "1_3yr_pct": 50.0,
       "over_3yr_pct": 30.3
     },
     {
       "type": "休闲娱乐",
-      "count": 16,
+      "count": 16.0,
       "within_1yr_pct": 6.3,
       "1_3yr_pct": 62.5,
       "over_3yr_pct": 31.3
     },
     {
       "type": "教育培训",
-      "count": 1,
-      "within_1yr_pct": 100,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 0
+      "count": 1.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
     },
     {
       "type": "酒店住宿",
-      "count": 5,
-      "within_1yr_pct": 60,
-      "1_3yr_pct": 20,
-      "over_3yr_pct": 20
+      "count": 5.0,
+      "within_1yr_pct": 60.0,
+      "1_3yr_pct": 20.0,
+      "over_3yr_pct": 20.0
     },
     {
       "type": "生活服务",
-      "count": 8,
+      "count": 8.0,
       "within_1yr_pct": 37.5,
       "1_3yr_pct": 62.5,
-      "over_3yr_pct": 0
+      "over_3yr_pct": 0.0
     }
   ],
   "nearby_communities": [
