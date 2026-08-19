@@ -169,7 +169,8 @@ jobs:
           if [ -f store-network-v2/public/data/stores.json ]; then
             cp -f store-network-v2/public/data/*.json store-network/data/
             cp -rf store-network-v2/public/data/delivery/* store-network/data/delivery/
-            cp -rf store-network-v2/public/data/malls store-network/data/malls
+            rm -rf store-network/data/malls
+            cp -r store-network-v2/public/data/malls store-network/data/malls
             echo "Data files copied"
           fi
         working-directory: ${{ github.workspace }}
