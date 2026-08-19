@@ -2,15 +2,15 @@
   "name": "隆华奥特莱斯购物广场",
   "city": "北京市",
   "address": "上海市嘉定区真新街道伟殳家居上海市轻纺市场",
-  "lat": null,
-  "lng": null,
+  "lat": 40.128497,
+  "lng": 116.642237,
   "overview": {
-    "score": 86,
+    "score": 86.0,
     "score_rank": "市内前30%",
     "population_score": 95.1,
     "area_score": 88.6,
     "consumption_score": 70.9,
-    "industry_score": 86,
+    "industry_score": 86.0,
     "annual_sales": "",
     "annual_sales_unit": "",
     "area_size_sqm": null,
@@ -38,7 +38,7 @@
   },
   "population": {
     "residential": {
-      "500m": 3,
+      "500m": 3.0,
       "1_5km": 22.8,
       "3km": 65.4
     },
@@ -48,32 +48,32 @@
       "3km": 34.2
     },
     "permanent": {
-      "500m": 3,
+      "500m": 3.0,
       "1_5km": 22.5,
       "3km": 65.5
     }
   },
   "business": {
-    "competitors": 1,
-    "food": 202,
-    "shopping": 350,
-    "leisure": 19,
-    "education": 10,
-    "hotel": 35,
-    "services": 101,
-    "fitness": 6,
-    "auto": 42,
-    "total_stores": 765,
-    "old_store_3yr_pct": 48
+    "competitors": 1.0,
+    "food": 202.0,
+    "shopping": 350.0,
+    "leisure": 19.0,
+    "education": 10.0,
+    "hotel": 35.0,
+    "services": 101.0,
+    "fitness": 6.0,
+    "auto": 42.0,
+    "total_stores": 765.0,
+    "old_store_3yr_pct": 48.0
   },
   "nearby_poi": {
-    "business": 4,
-    "community": 243,
-    "office": 36,
-    "school": 22,
-    "hospital": 44,
-    "transport": 17,
-    "scenic": 74
+    "business": 4.0,
+    "community": 243.0,
+    "office": 36.0,
+    "school": 22.0,
+    "hospital": 44.0,
+    "transport": 17.0,
+    "scenic": 74.0
   },
   "demographics": {
     "male_pct": 47.5,
@@ -140,58 +140,58 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 202,
+      "count": 202.0,
       "within_1yr_pct": 31.7,
       "1_3yr_pct": 22.8,
       "over_3yr_pct": 45.5
     },
     {
       "type": "购物",
-      "count": 350,
+      "count": 350.0,
       "within_1yr_pct": 34.3,
       "1_3yr_pct": 16.3,
       "over_3yr_pct": 49.4
     },
     {
       "type": "休闲娱乐",
-      "count": 19,
+      "count": 19.0,
       "within_1yr_pct": 26.3,
       "1_3yr_pct": 26.3,
       "over_3yr_pct": 47.4
     },
     {
       "type": "教育培训",
-      "count": 10,
-      "within_1yr_pct": 40,
-      "1_3yr_pct": 20,
-      "over_3yr_pct": 40
+      "count": 10.0,
+      "within_1yr_pct": 40.0,
+      "1_3yr_pct": 20.0,
+      "over_3yr_pct": 40.0
     },
     {
       "type": "酒店住宿",
-      "count": 35,
+      "count": 35.0,
       "within_1yr_pct": 14.3,
       "1_3yr_pct": 25.7,
-      "over_3yr_pct": 60
+      "over_3yr_pct": 60.0
     },
     {
       "type": "生活服务",
-      "count": 101,
+      "count": 101.0,
       "within_1yr_pct": 21.8,
       "1_3yr_pct": 31.7,
       "over_3yr_pct": 46.5
     },
     {
       "type": "运动健身",
-      "count": 6,
+      "count": 6.0,
       "within_1yr_pct": 16.7,
       "1_3yr_pct": 33.3,
-      "over_3yr_pct": 50
+      "over_3yr_pct": 50.0
     },
     {
       "type": "车辆服务",
-      "count": 42,
+      "count": 42.0,
       "within_1yr_pct": 21.4,
-      "1_3yr_pct": 31,
+      "1_3yr_pct": 31.0,
       "over_3yr_pct": 47.6
     }
   ],

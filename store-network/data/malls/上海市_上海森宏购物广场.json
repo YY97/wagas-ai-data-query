@@ -13,7 +13,7 @@
     "industry_score": 89.9,
     "annual_sales": "森宏购物广场位于上海市浦东新区长清路，一幢多层商场、一幢高层商务办公楼共同组成城市快速干道内环线和外环线与基地距离均在1.5-6公里内，无论客运或货运交通都十分便捷一期，已入驻大润发、海澜湾渔港大酒店、汤连得浴场、肯德基、西安印象、康师傅牛肉面、宝岛眼镜、以纯、达芙妮、大通旅游、可诺丹婷美容、谭木匠、森蜂园等商户二期商务楼，3-16层为4.5米层高、户户通煤气，兼具居住和办公功能的LOFT办公楼560套，已对外售馨（销售均价4万/平米），90%办公入住率地下2层车库1层商业配套，已有星巴克、味多美面包房、快乐小孩海洋之星儿童游乐园、金果教育培训商户入驻三期影视娱乐休闲中心，涵盖影院、娱乐、健身、文化休闲于一体，已招商完成",
     "annual_sales_unit": "-",
-    "area_size_sqm": 5,
+    "area_size_sqm": 5.0,
     "open_date": "2010-01-01",
     "operator": "上海浦阳置业有限公司",
     "brand": "",
@@ -32,7 +32,7 @@
     "weekday_avg": 1.6,
     "weekday_unit": "万人次",
     "weekday_rank": "市内商场第207名",
-    "holiday_avg": 2,
+    "holiday_avg": 2.0,
     "holiday_unit": "万人次",
     "holiday_rank": "市内商场第209名"
   },
@@ -43,7 +43,7 @@
       "3km": 56.3
     },
     "office": {
-      "500m": 6600,
+      "500m": 6600.0,
       "1_5km": 11.3,
       "3km": 27.3
     },
@@ -54,26 +54,26 @@
     }
   },
   "business": {
-    "competitors": 2,
-    "food": 84,
-    "shopping": 79,
-    "leisure": 9,
-    "education": 20,
-    "hotel": 12,
-    "services": 139,
-    "fitness": 28,
-    "auto": 17,
-    "total_stores": 216,
-    "old_store_3yr_pct": 46
+    "competitors": 2.0,
+    "food": 84.0,
+    "shopping": 79.0,
+    "leisure": 9.0,
+    "education": 20.0,
+    "hotel": 12.0,
+    "services": 139.0,
+    "fitness": 28.0,
+    "auto": 17.0,
+    "total_stores": 216.0,
+    "old_store_3yr_pct": 46.0
   },
   "nearby_poi": {
-    "business": 6,
-    "community": 287,
-    "office": 29,
-    "school": 19,
-    "hospital": 35,
-    "transport": 10,
-    "scenic": 112
+    "business": 6.0,
+    "community": 287.0,
+    "office": 29.0,
+    "school": 19.0,
+    "hospital": 35.0,
+    "transport": 10.0,
+    "scenic": 112.0
   },
   "demographics": {
     "male_pct": 47.2,
@@ -81,7 +81,7 @@
     "education": {
       "小学": 9.4,
       "初中": 17.5,
-      "高中": 11,
+      "高中": 11.0,
       "大专": 7.8,
       "本科": 47.1,
       "硕士": 5.6,
@@ -396,57 +396,57 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 35,
+      "count": 35.0,
       "within_1yr_pct": 25.7,
       "1_3yr_pct": 22.9,
       "over_3yr_pct": 51.4
     },
     {
       "type": "购物",
-      "count": 31,
+      "count": 31.0,
       "within_1yr_pct": 25.8,
       "1_3yr_pct": 25.8,
       "over_3yr_pct": 48.4
     },
     {
       "type": "休闲娱乐",
-      "count": 6,
+      "count": 6.0,
       "within_1yr_pct": 33.3,
-      "1_3yr_pct": 0,
+      "1_3yr_pct": 0.0,
       "over_3yr_pct": 66.7
     },
     {
       "type": "教育培训",
-      "count": 19,
+      "count": 19.0,
       "within_1yr_pct": 42.1,
       "1_3yr_pct": 21.1,
       "over_3yr_pct": 36.8
     },
     {
       "type": "酒店住宿",
-      "count": 11,
+      "count": 11.0,
       "within_1yr_pct": 18.2,
       "1_3yr_pct": 18.2,
       "over_3yr_pct": 63.6
     },
     {
       "type": "生活服务",
-      "count": 80,
+      "count": 80.0,
       "within_1yr_pct": 32.5,
-      "1_3yr_pct": 30,
+      "1_3yr_pct": 30.0,
       "over_3yr_pct": 37.5
     },
     {
       "type": "运动健身",
-      "count": 26,
+      "count": 26.0,
       "within_1yr_pct": 30.8,
       "1_3yr_pct": 19.2,
-      "over_3yr_pct": 50
+      "over_3yr_pct": 50.0
     },
     {
       "type": "车辆服务",
-      "count": 8,
-      "within_1yr_pct": 0,
+      "count": 8.0,
+      "within_1yr_pct": 0.0,
       "1_3yr_pct": 37.5,
       "over_3yr_pct": 62.5
     }
@@ -2462,7 +2462,7 @@
       "raw": "云台二小区 户数:1962 居住人数:4892 建筑年份:1998"
     }
   ],
-  "community_count": 287,
   "avg_housing_price": 62949.75,
-  "total_households": 203519
+  "total_households": 203519,
+  "community_count": 287
 }

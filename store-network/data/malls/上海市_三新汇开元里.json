@@ -2,18 +2,18 @@
   "name": "三新汇开元里",
   "city": "上海市",
   "address": "上海市闵行区浦江镇满天星生活广场浦江社区",
-  "lat": 31.042795,
-  "lng": 121.541975,
+  "lat": 31.003714,
+  "lng": 121.194432,
   "overview": {
     "score": 73.6,
     "score_rank": "市内前50%",
-    "population_score": 85,
+    "population_score": 85.0,
     "area_score": 66.8,
     "consumption_score": 64.5,
     "industry_score": 73.6,
     "annual_sales": "满天星生活广场秉承“重塑邻里关系，创造幸福社区”的发展理念，立足社区商业，力争为周边居民提供更加优质的社区商业体验，丰富周边社区居民日常活动",
     "annual_sales_unit": "-",
-    "area_size_sqm": 2,
+    "area_size_sqm": 2.0,
     "open_date": "2018-01-01",
     "operator": "上海澹然资产管理有限公司",
     "brand": "",
@@ -21,7 +21,7 @@
     "floors": "L1-L5"
   },
   "traffic": {
-    "annual_daily": 795,
+    "annual_daily": 795.0,
     "annual_daily_unit": "人次",
     "annual_daily_rank": "市内第517",
     "jun_total": null,
@@ -38,12 +38,12 @@
   },
   "population": {
     "residential": {
-      "500m": 2,
+      "500m": 2.0,
       "1_5km": 9.5,
       "3km": 27.9
     },
     "office": {
-      "500m": 7400,
+      "500m": 7400.0,
       "1_5km": 2.6,
       "3km": 8.1
     },
@@ -54,26 +54,26 @@
     }
   },
   "business": {
-    "competitors": 2,
-    "food": 64,
-    "shopping": 51,
-    "leisure": 4,
-    "education": 12,
-    "hotel": 2,
-    "services": 57,
-    "fitness": 4,
-    "auto": 29,
-    "total_stores": 42,
-    "old_store_3yr_pct": 64
+    "competitors": 2.0,
+    "food": 64.0,
+    "shopping": 51.0,
+    "leisure": 4.0,
+    "education": 12.0,
+    "hotel": 2.0,
+    "services": 57.0,
+    "fitness": 4.0,
+    "auto": 29.0,
+    "total_stores": 42.0,
+    "old_store_3yr_pct": 64.0
   },
   "nearby_poi": {
-    "business": 1,
-    "community": 99,
-    "office": 2,
-    "school": 11,
-    "hospital": 12,
-    "transport": 12,
-    "scenic": 18
+    "business": 1.0,
+    "community": 99.0,
+    "office": 2.0,
+    "school": 11.0,
+    "hospital": 12.0,
+    "transport": 12.0,
+    "scenic": 18.0
   },
   "demographics": {
     "male_pct": 47.8,
@@ -85,7 +85,7 @@
       "大专": 9.8,
       "本科": 45.8,
       "硕士": 3.3,
-      "博士": 1
+      "博士": 1.0
     },
     "has_children_pct": 66.9,
     "no_children_pct": 33.1
@@ -156,45 +156,45 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 10,
-      "within_1yr_pct": 20,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 80
+      "count": 10.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 80.0
     },
     {
       "type": "购物",
-      "count": 16,
-      "within_1yr_pct": 0,
+      "count": 16.0,
+      "within_1yr_pct": 0.0,
       "1_3yr_pct": 43.8,
       "over_3yr_pct": 56.3
     },
     {
       "type": "休闲娱乐",
-      "count": 2,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 100
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
     },
     {
       "type": "教育培训",
-      "count": 3,
+      "count": 3.0,
       "within_1yr_pct": 33.3,
       "1_3yr_pct": 33.3,
       "over_3yr_pct": 33.3
     },
     {
       "type": "生活服务",
-      "count": 9,
+      "count": 9.0,
       "within_1yr_pct": 44.4,
-      "1_3yr_pct": 0,
+      "1_3yr_pct": 0.0,
       "over_3yr_pct": 55.6
     },
     {
       "type": "运动健身",
-      "count": 2,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 100
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
     }
   ],
   "nearby_communities": [
@@ -1018,7 +1018,7 @@
       "raw": "西林花园南区 户数:429 居住人数:620+ 建筑年份:2015"
     }
   ],
-  "community_count": 117,
   "avg_housing_price": 31247.49,
-  "total_households": 79402
+  "total_households": 79402,
+  "community_count": 117
 }

@@ -2,8 +2,8 @@
   "name": "华冠购物中心",
   "city": "北京市",
   "address": "上海市松江区人民北路3088号",
-  "lat": null,
-  "lng": null,
+  "lat": 39.735063,
+  "lng": 116.139337,
   "overview": {
     "score": 94.2,
     "score_rank": "市内前30%",
@@ -26,7 +26,7 @@
     "annual_daily_rank": "市内第91",
     "jun_total": 120.5,
     "jun_total_rank": "市内商场第91名",
-    "jun_daily_avg": 4,
+    "jun_daily_avg": 4.0,
     "jun_daily_unit": "万人次",
     "jun_daily_rank": "市内商场第91名",
     "weekday_avg": 3.5,
@@ -38,42 +38,42 @@
   },
   "population": {
     "residential": {
-      "500m": 9700,
+      "500m": 9700.0,
       "1_5km": 10.5,
       "3km": 28.7
     },
     "office": {
-      "500m": 6600,
+      "500m": 6600.0,
       "1_5km": 4.3,
       "3km": 13.6
     },
     "permanent": {
       "500m": 1.2,
       "1_5km": 8.4,
-      "3km": 25
+      "3km": 25.0
     }
   },
   "business": {
-    "competitors": 4,
-    "food": 91,
-    "shopping": 103,
-    "leisure": 9,
-    "education": 4,
-    "hotel": 1,
-    "services": 25,
-    "fitness": 8,
-    "auto": 16,
-    "total_stores": 240,
-    "old_store_3yr_pct": 60
+    "competitors": 4.0,
+    "food": 91.0,
+    "shopping": 103.0,
+    "leisure": 9.0,
+    "education": 4.0,
+    "hotel": 1.0,
+    "services": 25.0,
+    "fitness": 8.0,
+    "auto": 16.0,
+    "total_stores": 240.0,
+    "old_store_3yr_pct": 60.0
   },
   "nearby_poi": {
-    "business": 2,
-    "community": 77,
-    "office": 2,
-    "school": 15,
-    "hospital": 14,
-    "transport": 6,
-    "scenic": 120
+    "business": 2.0,
+    "community": 77.0,
+    "office": 2.0,
+    "school": 15.0,
+    "hospital": 14.0,
+    "transport": 6.0,
+    "scenic": 120.0
   },
   "demographics": {
     "male_pct": 45.8,
@@ -364,52 +364,52 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 89,
+      "count": 89.0,
       "within_1yr_pct": 11.2,
       "1_3yr_pct": 23.6,
       "over_3yr_pct": 65.2
     },
     {
       "type": "购物",
-      "count": 101,
+      "count": 101.0,
       "within_1yr_pct": 8.9,
       "1_3yr_pct": 33.7,
       "over_3yr_pct": 57.4
     },
     {
       "type": "休闲娱乐",
-      "count": 9,
+      "count": 9.0,
       "within_1yr_pct": 22.2,
-      "1_3yr_pct": 0,
+      "1_3yr_pct": 0.0,
       "over_3yr_pct": 77.8
     },
     {
       "type": "教育培训",
-      "count": 1,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 100
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
     },
     {
       "type": "生活服务",
-      "count": 21,
-      "within_1yr_pct": 19,
+      "count": 21.0,
+      "within_1yr_pct": 19.0,
       "1_3yr_pct": 38.1,
       "over_3yr_pct": 42.9
     },
     {
       "type": "运动健身",
-      "count": 3,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 100
+      "count": 3.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
     },
     {
       "type": "车辆服务",
-      "count": 16,
+      "count": 16.0,
       "within_1yr_pct": 6.3,
       "1_3yr_pct": 43.8,
-      "over_3yr_pct": 50
+      "over_3yr_pct": 50.0
     }
   ],
   "nearby_communities": [

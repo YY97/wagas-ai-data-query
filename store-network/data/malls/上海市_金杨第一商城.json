@@ -2,15 +2,15 @@
   "name": "金杨第一商城",
   "city": "上海市",
   "address": "上海市嘉定区嘉怡路233号嘉尚坊广场5F层",
-  "lat": 31.264448,
-  "lng": 121.347701,
+  "lat": 31.250352,
+  "lng": 121.581506,
   "overview": {
-    "score": 77,
+    "score": 77.0,
     "score_rank": "市内前50%",
-    "population_score": 95,
-    "area_score": 66,
+    "population_score": 95.0,
+    "area_score": 66.0,
     "consumption_score": 68.7,
-    "industry_score": 77,
+    "industry_score": 77.0,
     "annual_sales": "嘉尚坊时尚生活中心地处嘉定江桥地区，隶属曹安商圈，南临嘉莲华国际广场包括沃尔玛超市，独享百万平方米国际生态社区《嘉城》中心区域，是丰柏集团继成功打造闵行“十尚坊”、九亭“贝尚坊”之后又一倾情力作 分四幢建筑呈环形广场分布，包括地下一层停车场、地上四层，总建筑面积33000平方米房屋为框架结构，一层层高4.5米，二、三层层高4.2米，四层层高3.9米，柱间距8米左右，面积大小可自分割 所有物业均为公司大产权，为江桥地区少有纯租赁式商用物业，公司统一招商，统一运营管理 日本HMA建筑事务所规划布局，将现代时尚气息和石库门里弄风情完美融合，更凸显出浓郁的商业氛围 以时尚特色街铺、室内外步行街区、环形生态广场等开启江桥商业步行新风潮，旨在将此打造成为江桥地区乃至大虹桥版块，集购物、休闲、餐饮、娱乐、文化、展示等多种业态于一体的区域时尚中心",
     "annual_sales_unit": "-",
     "area_size_sqm": 3.3,
@@ -21,69 +21,69 @@
     "floors": "L1-L7"
   },
   "traffic": {
-    "annual_daily": 1918,
+    "annual_daily": 1918.0,
     "annual_daily_unit": "人次",
     "annual_daily_rank": "市内第477",
     "jun_total": 6.7,
     "jun_total_rank": "市内商场第524名",
-    "jun_daily_avg": 2248,
+    "jun_daily_avg": 2248.0,
     "jun_daily_unit": "人次",
     "jun_daily_rank": "市内商场第524名",
-    "weekday_avg": 2115,
+    "weekday_avg": 2115.0,
     "weekday_unit": "人次",
     "weekday_rank": "市内商场第528名",
-    "holiday_avg": 2610,
+    "holiday_avg": 2610.0,
     "holiday_unit": "人次",
     "holiday_rank": "市内商场第516名"
   },
   "population": {
     "residential": {
-      "500m": 3,
+      "500m": 3.0,
       "1_5km": 15.1,
       "3km": 56.4
     },
     "office": {
-      "500m": 6700,
+      "500m": 6700.0,
       "1_5km": 5.2,
       "3km": 21.9
     },
     "permanent": {
       "500m": 2.7,
-      "1_5km": 14,
+      "1_5km": 14.0,
       "3km": 52.7
     }
   },
   "business": {
-    "competitors": 2,
-    "food": 69,
-    "shopping": 40,
-    "leisure": 9,
-    "education": 4,
-    "hotel": 17,
-    "services": 62,
-    "fitness": 6,
-    "auto": 20,
-    "total_stores": 55,
-    "old_store_3yr_pct": 71
+    "competitors": 2.0,
+    "food": 69.0,
+    "shopping": 40.0,
+    "leisure": 9.0,
+    "education": 4.0,
+    "hotel": 17.0,
+    "services": 62.0,
+    "fitness": 6.0,
+    "auto": 20.0,
+    "total_stores": 55.0,
+    "old_store_3yr_pct": 71.0
   },
   "nearby_poi": {
-    "business": 2,
-    "community": 198,
-    "office": 13,
-    "school": 10,
-    "hospital": 25,
-    "transport": 6,
-    "scenic": 63
+    "business": 2.0,
+    "community": 198.0,
+    "office": 13.0,
+    "school": 10.0,
+    "hospital": 25.0,
+    "transport": 6.0,
+    "scenic": 63.0
   },
   "demographics": {
     "male_pct": 51.1,
     "female_pct": null,
     "education": {
       "小学": 10.2,
-      "初中": 19,
+      "初中": 19.0,
       "高中": 11.6,
       "大专": 8.8,
-      "本科": 46,
+      "本科": 46.0,
       "硕士": 3.3,
       "博士": 1.1
     },
@@ -159,59 +159,59 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 23,
-      "within_1yr_pct": 13,
+      "count": 23.0,
+      "within_1yr_pct": 13.0,
       "1_3yr_pct": 8.7,
       "over_3yr_pct": 78.3
     },
     {
       "type": "购物",
-      "count": 7,
+      "count": 7.0,
       "within_1yr_pct": 14.3,
-      "1_3yr_pct": 0,
+      "1_3yr_pct": 0.0,
       "over_3yr_pct": 85.7
     },
     {
       "type": "休闲娱乐",
-      "count": 5,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 20,
-      "over_3yr_pct": 80
+      "count": 5.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 20.0,
+      "over_3yr_pct": 80.0
     },
     {
       "type": "教育培训",
-      "count": 2,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 100
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
     },
     {
       "type": "酒店住宿",
-      "count": 6,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 50,
-      "over_3yr_pct": 50
+      "count": 6.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 50.0
     },
     {
       "type": "生活服务",
-      "count": 6,
+      "count": 6.0,
       "within_1yr_pct": 16.7,
       "1_3yr_pct": 16.7,
       "over_3yr_pct": 66.7
     },
     {
       "type": "运动健身",
-      "count": 4,
-      "within_1yr_pct": 25,
-      "1_3yr_pct": 25,
-      "over_3yr_pct": 50
+      "count": 4.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 50.0
     },
     {
       "type": "车辆服务",
-      "count": 2,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 100,
-      "over_3yr_pct": 0
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
     }
   ],
   "nearby_communities": [

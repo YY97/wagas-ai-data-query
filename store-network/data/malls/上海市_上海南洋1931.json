@@ -21,7 +21,7 @@
     "floors": "B1-L3"
   },
   "traffic": {
-    "annual_daily": 9041,
+    "annual_daily": 9041.0,
     "annual_daily_unit": "人次",
     "annual_daily_rank": "市内第272",
     "jun_total": 44.7,
@@ -54,26 +54,26 @@
     }
   },
   "business": {
-    "competitors": 7,
-    "food": 230,
-    "shopping": 278,
-    "leisure": 28,
-    "education": 102,
-    "hotel": 52,
-    "services": 269,
-    "fitness": 45,
-    "auto": 40,
-    "total_stores": 105,
-    "old_store_3yr_pct": 56
+    "competitors": 7.0,
+    "food": 230.0,
+    "shopping": 278.0,
+    "leisure": 28.0,
+    "education": 102.0,
+    "hotel": 52.0,
+    "services": 269.0,
+    "fitness": 45.0,
+    "auto": 40.0,
+    "total_stores": 105.0,
+    "old_store_3yr_pct": 56.0
   },
   "nearby_poi": {
-    "business": 17,
-    "community": 879,
-    "office": 160,
-    "school": 65,
-    "hospital": 123,
-    "transport": 10,
-    "scenic": 335
+    "business": 17.0,
+    "community": 879.0,
+    "office": 160.0,
+    "school": 65.0,
+    "hospital": 123.0,
+    "transport": 10.0,
+    "scenic": 335.0
   },
   "demographics": {
     "male_pct": 47.9,
@@ -428,51 +428,51 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 51,
+      "count": 51.0,
       "within_1yr_pct": 15.7,
       "1_3yr_pct": 23.5,
       "over_3yr_pct": 60.8
     },
     {
       "type": "购物",
-      "count": 17,
+      "count": 17.0,
       "within_1yr_pct": 11.8,
       "1_3yr_pct": 23.5,
       "over_3yr_pct": 64.7
     },
     {
       "type": "休闲娱乐",
-      "count": 3,
+      "count": 3.0,
       "within_1yr_pct": 33.3,
       "1_3yr_pct": 66.7,
-      "over_3yr_pct": 0
+      "over_3yr_pct": 0.0
     },
     {
       "type": "教育培训",
-      "count": 10,
-      "within_1yr_pct": 10,
-      "1_3yr_pct": 40,
-      "over_3yr_pct": 50
+      "count": 10.0,
+      "within_1yr_pct": 10.0,
+      "1_3yr_pct": 40.0,
+      "over_3yr_pct": 50.0
     },
     {
       "type": "生活服务",
-      "count": 16,
+      "count": 16.0,
       "within_1yr_pct": 31.3,
       "1_3yr_pct": 18.8,
-      "over_3yr_pct": 50
+      "over_3yr_pct": 50.0
     },
     {
       "type": "运动健身",
-      "count": 5,
-      "within_1yr_pct": 20,
-      "1_3yr_pct": 40,
-      "over_3yr_pct": 40
+      "count": 5.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 40.0,
+      "over_3yr_pct": 40.0
     },
     {
       "type": "车辆服务",
-      "count": 3,
+      "count": 3.0,
       "within_1yr_pct": 33.3,
-      "1_3yr_pct": 0,
+      "1_3yr_pct": 0.0,
       "over_3yr_pct": 66.7
     }
   ],
@@ -1878,7 +1878,7 @@
       "raw": "长虹小区 户数:1372 居住人数:3541 建筑年份:1986"
     }
   ],
-  "community_count": 200,
   "avg_housing_price": 97004.66,
-  "total_households": 305752
+  "total_households": 305752,
+  "community_count": 200
 }

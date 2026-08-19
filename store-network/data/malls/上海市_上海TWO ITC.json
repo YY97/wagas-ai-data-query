@@ -2,8 +2,8 @@
   "name": "上海TWO ITC",
   "city": "上海市",
   "address": "上海市徐汇区徐家汇街道上海汇银科技创业园百联徐汇商业广场",
-  "lat": 31.197251,
-  "lng": 121.436927,
+  "lat": 31.196758,
+  "lng": 121.436226,
   "overview": {
     "score": 83.4,
     "score_rank": "市内前30%",
@@ -48,32 +48,32 @@
       "3km": 88.9
     },
     "permanent": {
-      "500m": 3,
+      "500m": 3.0,
       "1_5km": 28.6,
       "3km": 107.9
     }
   },
   "business": {
-    "competitors": 24,
-    "food": 320,
-    "shopping": 566,
-    "leisure": 29,
-    "education": 50,
-    "hotel": 33,
-    "services": 200,
-    "fitness": 23,
-    "auto": 31,
-    "total_stores": 194,
-    "old_store_3yr_pct": 55
+    "competitors": 24.0,
+    "food": 320.0,
+    "shopping": 566.0,
+    "leisure": 29.0,
+    "education": 50.0,
+    "hotel": 33.0,
+    "services": 200.0,
+    "fitness": 23.0,
+    "auto": 31.0,
+    "total_stores": 194.0,
+    "old_store_3yr_pct": 55.0
   },
   "nearby_poi": {
-    "business": 15,
-    "community": 1150,
-    "office": 163,
-    "school": 74,
-    "hospital": 164,
-    "transport": 12,
-    "scenic": 488
+    "business": 15.0,
+    "community": 1150.0,
+    "office": 163.0,
+    "school": 74.0,
+    "hospital": 164.0,
+    "transport": 12.0,
+    "scenic": 488.0
   },
   "demographics": {
     "male_pct": 48.7,
@@ -428,59 +428,59 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 31,
-      "within_1yr_pct": 29,
+      "count": 31.0,
+      "within_1yr_pct": 29.0,
       "1_3yr_pct": 22.6,
       "over_3yr_pct": 48.4
     },
     {
       "type": "购物",
-      "count": 22,
+      "count": 22.0,
       "within_1yr_pct": 9.1,
       "1_3yr_pct": 18.2,
       "over_3yr_pct": 72.7
     },
     {
       "type": "休闲娱乐",
-      "count": 13,
+      "count": 13.0,
       "within_1yr_pct": 7.7,
       "1_3yr_pct": 23.1,
       "over_3yr_pct": 69.2
     },
     {
       "type": "教育培训",
-      "count": 29,
+      "count": 29.0,
       "within_1yr_pct": 24.1,
       "1_3yr_pct": 13.8,
       "over_3yr_pct": 62.1
     },
     {
       "type": "酒店住宿",
-      "count": 3,
-      "within_1yr_pct": 0,
+      "count": 3.0,
+      "within_1yr_pct": 0.0,
       "1_3yr_pct": 33.3,
       "over_3yr_pct": 66.7
     },
     {
       "type": "生活服务",
-      "count": 85,
+      "count": 85.0,
       "within_1yr_pct": 17.6,
       "1_3yr_pct": 30.6,
       "over_3yr_pct": 51.8
     },
     {
       "type": "运动健身",
-      "count": 9,
+      "count": 9.0,
       "within_1yr_pct": 22.2,
       "1_3yr_pct": 55.6,
       "over_3yr_pct": 22.2
     },
     {
       "type": "车辆服务",
-      "count": 2,
-      "within_1yr_pct": 50,
-      "1_3yr_pct": 50,
-      "over_3yr_pct": 0
+      "count": 2.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 0.0
     }
   ],
   "nearby_communities": [
@@ -1885,7 +1885,7 @@
       "raw": "金兰良友别墅 户数:38 居住人数:小于100 建筑年份:1950"
     }
   ],
-  "community_count": 200,
   "avg_housing_price": 88097.62,
-  "total_households": 207711
+  "total_households": 207711,
+  "community_count": 200
 }

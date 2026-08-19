@@ -2,15 +2,15 @@
   "name": "天安阳光广场(建设中)",
   "city": "上海市",
   "address": "上海市普陀区苏州河昌化路桥东侧",
-  "lat": 31.249791,
-  "lng": 121.443891,
+  "lat": 31.248986,
+  "lng": 121.445444,
   "overview": {
     "score": 92.9,
     "score_rank": "市内前30%",
     "population_score": 96.1,
     "area_score": 76.6,
     "consumption_score": 84.4,
-    "industry_score": 93,
+    "industry_score": 93.0,
     "annual_sales": "上海大洋晶典·天安千树",
     "annual_sales_unit": "-",
     "area_size_sqm": 3.9,
@@ -48,35 +48,35 @@
       "3km": 85.6
     },
     "permanent": {
-      "500m": 3,
+      "500m": 3.0,
       "1_5km": 37.2,
       "3km": 133.3
     }
   },
   "business": {
-    "competitors": 4,
-    "food": 174,
-    "shopping": 120,
-    "leisure": 28,
-    "education": 20,
-    "hotel": 25,
-    "services": 113,
-    "fitness": 19,
-    "auto": 14,
-    "total_stores": 128,
-    "old_store_3yr_pct": 55
+    "competitors": 4.0,
+    "food": 174.0,
+    "shopping": 120.0,
+    "leisure": 28.0,
+    "education": 20.0,
+    "hotel": 25.0,
+    "services": 113.0,
+    "fitness": 19.0,
+    "auto": 14.0,
+    "total_stores": 128.0,
+    "old_store_3yr_pct": 55.0
   },
   "nearby_poi": {
-    "business": 14,
-    "community": 891,
-    "office": 147,
-    "school": 53,
-    "hospital": 142,
-    "transport": 6,
-    "scenic": 358
+    "business": 14.0,
+    "community": 891.0,
+    "office": 147.0,
+    "school": 53.0,
+    "hospital": 142.0,
+    "transport": 6.0,
+    "scenic": 358.0
   },
   "demographics": {
-    "male_pct": 51,
+    "male_pct": 51.0,
     "female_pct": null,
     "education": {
       "小学": 9.5,
@@ -84,7 +84,7 @@
       "高中": 11.7,
       "大专": 7.1,
       "本科": 47.8,
-      "硕士": 4,
+      "硕士": 4.0,
       "博士": 1.6
     },
     "has_children_pct": 58.5,
@@ -428,52 +428,52 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 57,
+      "count": 57.0,
       "within_1yr_pct": 15.8,
       "1_3yr_pct": 17.5,
       "over_3yr_pct": 66.7
     },
     {
       "type": "购物",
-      "count": 32,
+      "count": 32.0,
       "within_1yr_pct": 9.4,
       "1_3yr_pct": 34.4,
       "over_3yr_pct": 56.3
     },
     {
       "type": "休闲娱乐",
-      "count": 12,
+      "count": 12.0,
       "within_1yr_pct": 41.7,
       "1_3yr_pct": 16.7,
       "over_3yr_pct": 41.7
     },
     {
       "type": "教育培训",
-      "count": 2,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 100,
-      "over_3yr_pct": 0
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
     },
     {
       "type": "生活服务",
-      "count": 14,
+      "count": 14.0,
       "within_1yr_pct": 21.4,
       "1_3yr_pct": 35.7,
       "over_3yr_pct": 42.9
     },
     {
       "type": "运动健身",
-      "count": 5,
-      "within_1yr_pct": 40,
-      "1_3yr_pct": 40,
-      "over_3yr_pct": 20
+      "count": 5.0,
+      "within_1yr_pct": 40.0,
+      "1_3yr_pct": 40.0,
+      "over_3yr_pct": 20.0
     },
     {
       "type": "车辆服务",
-      "count": 6,
+      "count": 6.0,
       "within_1yr_pct": 33.3,
       "1_3yr_pct": 16.7,
-      "over_3yr_pct": 50
+      "over_3yr_pct": 50.0
     }
   ],
   "nearby_communities": [

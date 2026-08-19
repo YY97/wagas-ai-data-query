@@ -2,15 +2,15 @@
   "name": "久光中心",
   "city": "上海市",
   "address": "上海市徐汇区漕宝路1011号",
-  "lat": 31.161667,
-  "lng": 121.399499,
+  "lat": 31.276292,
+  "lng": 121.451283,
   "overview": {
     "score": 94.9,
     "score_rank": "市内前30%",
     "population_score": 82.1,
     "area_score": 82.6,
-    "consumption_score": 83,
-    "industry_score": 95,
+    "consumption_score": 83.0,
+    "industry_score": 95.0,
     "annual_sales": "8",
     "annual_sales_unit": "亿元",
     "area_size_sqm": 5.6,
@@ -29,7 +29,7 @@
     "jun_daily_avg": 3.8,
     "jun_daily_unit": "万人次",
     "jun_daily_rank": "市内商场第102名",
-    "weekday_avg": 4,
+    "weekday_avg": 4.0,
     "weekday_unit": "万人次",
     "weekday_rank": "市内商场第84名",
     "holiday_avg": 3.1,
@@ -39,7 +39,7 @@
   "population": {
     "residential": {
       "500m": 1.6,
-      "1_5km": 14,
+      "1_5km": 14.0,
       "3km": 71.4
     },
     "office": {
@@ -54,26 +54,26 @@
     }
   },
   "business": {
-    "competitors": 13,
-    "food": 285,
-    "shopping": 88,
-    "leisure": 13,
-    "education": 27,
-    "hotel": 22,
-    "services": 85,
-    "fitness": 20,
-    "auto": 23,
-    "total_stores": 149,
-    "old_store_3yr_pct": 51
+    "competitors": 13.0,
+    "food": 285.0,
+    "shopping": 88.0,
+    "leisure": 13.0,
+    "education": 27.0,
+    "hotel": 22.0,
+    "services": 85.0,
+    "fitness": 20.0,
+    "auto": 23.0,
+    "total_stores": 149.0,
+    "old_store_3yr_pct": 51.0
   },
   "nearby_poi": {
-    "business": 1,
-    "community": 411,
-    "office": 131,
-    "school": 24,
-    "hospital": 65,
-    "transport": 9,
-    "scenic": 107
+    "business": 1.0,
+    "community": 411.0,
+    "office": 131.0,
+    "school": 24.0,
+    "hospital": 65.0,
+    "transport": 9.0,
+    "scenic": 107.0
   },
   "demographics": {
     "male_pct": 47.9,
@@ -131,59 +131,59 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 84,
+      "count": 84.0,
       "within_1yr_pct": 13.1,
-      "1_3yr_pct": 31,
-      "over_3yr_pct": 56
+      "1_3yr_pct": 31.0,
+      "over_3yr_pct": 56.0
     },
     {
       "type": "购物",
-      "count": 31,
+      "count": 31.0,
       "within_1yr_pct": 19.4,
       "1_3yr_pct": 25.8,
       "over_3yr_pct": 54.8
     },
     {
       "type": "休闲娱乐",
-      "count": 3,
+      "count": 3.0,
       "within_1yr_pct": 33.3,
       "1_3yr_pct": 33.3,
       "over_3yr_pct": 33.3
     },
     {
       "type": "教育培训",
-      "count": 3,
+      "count": 3.0,
       "within_1yr_pct": 33.3,
-      "1_3yr_pct": 0,
+      "1_3yr_pct": 0.0,
       "over_3yr_pct": 66.7
     },
     {
       "type": "酒店住宿",
-      "count": 1,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 100,
-      "over_3yr_pct": 0
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
     },
     {
       "type": "生活服务",
-      "count": 16,
+      "count": 16.0,
       "within_1yr_pct": 31.3,
       "1_3yr_pct": 43.8,
-      "over_3yr_pct": 25
+      "over_3yr_pct": 25.0
     },
     {
       "type": "运动健身",
-      "count": 6,
-      "within_1yr_pct": 0,
+      "count": 6.0,
+      "within_1yr_pct": 0.0,
       "1_3yr_pct": 83.3,
       "over_3yr_pct": 16.7
     },
     {
       "type": "车辆服务",
-      "count": 5,
-      "within_1yr_pct": 20,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 80
+      "count": 5.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 80.0
     }
   ],
   "nearby_communities": [

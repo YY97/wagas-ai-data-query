@@ -2,8 +2,8 @@
   "name": "悦茂购物中心",
   "city": "北京市",
   "address": "北京市朝阳区东三环北路36幢",
-  "lat": 39.918197,
-  "lng": 116.455309,
+  "lat": 40.043497,
+  "lng": 116.34972,
   "overview": {
     "score": 89.2,
     "score_rank": "市内前30%",
@@ -26,13 +26,13 @@
     "annual_daily_rank": "市内第172",
     "jun_total": 21.9,
     "jun_total_rank": "市内商场第268名",
-    "jun_daily_avg": 7291,
+    "jun_daily_avg": 7291.0,
     "jun_daily_unit": "人次",
     "jun_daily_rank": "市内商场第268名",
-    "weekday_avg": 8020,
+    "weekday_avg": 8020.0,
     "weekday_unit": "人次",
     "weekday_rank": "市内商场第260名",
-    "holiday_avg": 5283,
+    "holiday_avg": 5283.0,
     "holiday_unit": "人次",
     "holiday_rank": "市内商场第298名"
   },
@@ -54,29 +54,29 @@
     }
   },
   "business": {
-    "competitors": 8,
-    "food": 192,
-    "shopping": 54,
-    "leisure": 8,
-    "education": 17,
-    "hotel": 15,
-    "services": 81,
-    "fitness": 4,
-    "auto": 16,
-    "total_stores": 69,
-    "old_store_3yr_pct": 52
+    "competitors": 8.0,
+    "food": 192.0,
+    "shopping": 54.0,
+    "leisure": 8.0,
+    "education": 17.0,
+    "hotel": 15.0,
+    "services": 81.0,
+    "fitness": 4.0,
+    "auto": 16.0,
+    "total_stores": 69.0,
+    "old_store_3yr_pct": 52.0
   },
   "nearby_poi": {
-    "business": 14,
-    "community": 458,
-    "office": 156,
-    "school": 52,
-    "hospital": 159,
-    "transport": 14,
-    "scenic": 326
+    "business": 14.0,
+    "community": 458.0,
+    "office": 156.0,
+    "school": 52.0,
+    "hospital": 159.0,
+    "transport": 14.0,
+    "scenic": 326.0
   },
   "demographics": {
-    "male_pct": 54,
+    "male_pct": 54.0,
     "female_pct": null,
     "education": {
       "小学": 9.6,
@@ -177,37 +177,37 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 50,
-      "within_1yr_pct": 24,
-      "1_3yr_pct": 20,
-      "over_3yr_pct": 56
+      "count": 50.0,
+      "within_1yr_pct": 24.0,
+      "1_3yr_pct": 20.0,
+      "over_3yr_pct": 56.0
     },
     {
       "type": "购物",
-      "count": 9,
+      "count": 9.0,
       "within_1yr_pct": 22.2,
       "1_3yr_pct": 33.3,
       "over_3yr_pct": 44.4
     },
     {
       "type": "休闲娱乐",
-      "count": 1,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 100
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
     },
     {
       "type": "教育培训",
-      "count": 3,
+      "count": 3.0,
       "within_1yr_pct": 33.3,
-      "1_3yr_pct": 0,
+      "1_3yr_pct": 0.0,
       "over_3yr_pct": 66.7
     },
     {
       "type": "生活服务",
-      "count": 6,
+      "count": 6.0,
       "within_1yr_pct": 33.3,
-      "1_3yr_pct": 50,
+      "1_3yr_pct": 50.0,
       "over_3yr_pct": 16.7
     }
   ],

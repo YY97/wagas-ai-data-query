@@ -2,8 +2,8 @@
   "name": "连城商业",
   "city": "上海市",
   "address": "上海市嘉定区澄浏中路3172号",
-  "lat": 31.386572,
-  "lng": 121.278265,
+  "lat": 30.989104,
+  "lng": 121.431363,
   "overview": {
     "score": 92.9,
     "score_rank": "市内前30%",
@@ -13,7 +13,7 @@
     "industry_score": 93.1,
     "annual_sales": "百联嘉定购物中心是嘉定城区第一家大型综合购物中心，也是唯一冠有“嘉定”两字的地标性商业项目。购物中心汇集了众多国际化时尚品牌、特色餐饮、娱乐休闲及知名儿童品牌，以“休闲、时尚、家庭”为经营主线，依托百联股份招商的平台优势，引进了200多个国际和国内知名品牌入驻",
     "annual_sales_unit": "-",
-    "area_size_sqm": 9,
+    "area_size_sqm": 9.0,
     "open_date": "2016-05-27",
     "operator": "上海百联集团股份有限公司",
     "brand": "百联",
@@ -38,12 +38,12 @@
   },
   "population": {
     "residential": {
-      "500m": 9600,
+      "500m": 9600.0,
       "1_5km": 9.3,
       "3km": 28.7
     },
     "office": {
-      "500m": 5000,
+      "500m": 5000.0,
       "1_5km": 3.1,
       "3km": 13.1
     },
@@ -54,26 +54,26 @@
     }
   },
   "business": {
-    "competitors": 3,
-    "food": 74,
-    "shopping": 104,
-    "leisure": 14,
-    "education": 11,
-    "hotel": 5,
-    "services": 79,
-    "fitness": 8,
-    "auto": 15,
-    "total_stores": 201,
-    "old_store_3yr_pct": 49
+    "competitors": 3.0,
+    "food": 74.0,
+    "shopping": 104.0,
+    "leisure": 14.0,
+    "education": 11.0,
+    "hotel": 5.0,
+    "services": 79.0,
+    "fitness": 8.0,
+    "auto": 15.0,
+    "total_stores": 201.0,
+    "old_store_3yr_pct": 49.0
   },
   "nearby_poi": {
     "business": null,
-    "community": 167,
-    "office": 8,
-    "school": 15,
-    "hospital": 27,
-    "transport": 7,
-    "scenic": 94
+    "community": 167.0,
+    "office": 8.0,
+    "school": 15.0,
+    "hospital": 27.0,
+    "transport": 7.0,
+    "scenic": 94.0
   },
   "demographics": {
     "male_pct": 47.2,
@@ -85,7 +85,7 @@
       "大专": 7.8,
       "本科": 43.3,
       "硕士": 3.3,
-      "博士": 1
+      "博士": 1.0
     },
     "has_children_pct": 71.7,
     "no_children_pct": 28.3
@@ -117,59 +117,59 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 45,
+      "count": 45.0,
       "within_1yr_pct": 15.6,
-      "1_3yr_pct": 20,
+      "1_3yr_pct": 20.0,
       "over_3yr_pct": 64.4
     },
     {
       "type": "购物",
-      "count": 81,
+      "count": 81.0,
       "within_1yr_pct": 18.5,
       "1_3yr_pct": 30.9,
       "over_3yr_pct": 50.6
     },
     {
       "type": "休闲娱乐",
-      "count": 7,
+      "count": 7.0,
       "within_1yr_pct": 14.3,
       "1_3yr_pct": 28.6,
       "over_3yr_pct": 57.1
     },
     {
       "type": "教育培训",
-      "count": 8,
+      "count": 8.0,
       "within_1yr_pct": 12.5,
       "1_3yr_pct": 37.5,
-      "over_3yr_pct": 50
+      "over_3yr_pct": 50.0
     },
     {
       "type": "酒店住宿",
-      "count": 5,
-      "within_1yr_pct": 40,
-      "1_3yr_pct": 20,
-      "over_3yr_pct": 40
+      "count": 5.0,
+      "within_1yr_pct": 40.0,
+      "1_3yr_pct": 20.0,
+      "over_3yr_pct": 40.0
     },
     {
       "type": "生活服务",
-      "count": 42,
-      "within_1yr_pct": 19,
+      "count": 42.0,
+      "within_1yr_pct": 19.0,
       "1_3yr_pct": 47.6,
       "over_3yr_pct": 33.3
     },
     {
       "type": "运动健身",
-      "count": 8,
+      "count": 8.0,
       "within_1yr_pct": 62.5,
-      "1_3yr_pct": 25,
+      "1_3yr_pct": 25.0,
       "over_3yr_pct": 12.5
     },
     {
       "type": "车辆服务",
-      "count": 5,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 20,
-      "over_3yr_pct": 80
+      "count": 5.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 20.0,
+      "over_3yr_pct": 80.0
     }
   ],
   "nearby_communities": [

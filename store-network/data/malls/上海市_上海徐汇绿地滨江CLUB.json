@@ -21,24 +21,24 @@
     "floors": "B1-L4"
   },
   "traffic": {
-    "annual_daily": 3479,
+    "annual_daily": 3479.0,
     "annual_daily_unit": "人次",
     "annual_daily_rank": "市内第420",
     "jun_total": 22.1,
     "jun_total_rank": "市内商场第366名",
-    "jun_daily_avg": 7354,
+    "jun_daily_avg": 7354.0,
     "jun_daily_unit": "人次",
     "jun_daily_rank": "市内商场第366名",
-    "weekday_avg": 8384,
+    "weekday_avg": 8384.0,
     "weekday_unit": "人次",
     "weekday_rank": "市内商场第332名",
-    "holiday_avg": 4522,
+    "holiday_avg": 4522.0,
     "holiday_unit": "人次",
     "holiday_rank": "市内商场第452名"
   },
   "population": {
     "residential": {
-      "500m": 9900,
+      "500m": 9900.0,
       "1_5km": 11.2,
       "3km": 53.6
     },
@@ -50,30 +50,30 @@
     "permanent": {
       "500m": 1.5,
       "1_5km": 12.5,
-      "3km": 60
+      "3km": 60.0
     }
   },
   "business": {
-    "competitors": 9,
-    "food": 165,
-    "shopping": 62,
-    "leisure": 10,
-    "education": 23,
-    "hotel": 3,
-    "services": 82,
-    "fitness": 25,
-    "auto": 27,
-    "total_stores": 82,
-    "old_store_3yr_pct": 41
+    "competitors": 9.0,
+    "food": 165.0,
+    "shopping": 62.0,
+    "leisure": 10.0,
+    "education": 23.0,
+    "hotel": 3.0,
+    "services": 82.0,
+    "fitness": 25.0,
+    "auto": 27.0,
+    "total_stores": 82.0,
+    "old_store_3yr_pct": 41.0
   },
   "nearby_poi": {
-    "business": 5,
-    "community": 375,
-    "office": 44,
-    "school": 22,
-    "hospital": 48,
-    "transport": 4,
-    "scenic": 219
+    "business": 5.0,
+    "community": 375.0,
+    "office": 44.0,
+    "school": 22.0,
+    "hospital": 48.0,
+    "transport": 4.0,
+    "scenic": 219.0
   },
   "demographics": {
     "male_pct": 52.7,
@@ -388,52 +388,52 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 35,
+      "count": 35.0,
       "within_1yr_pct": 37.1,
-      "1_3yr_pct": 20,
+      "1_3yr_pct": 20.0,
       "over_3yr_pct": 42.9
     },
     {
       "type": "购物",
-      "count": 9,
+      "count": 9.0,
       "within_1yr_pct": 44.4,
       "1_3yr_pct": 11.1,
       "over_3yr_pct": 44.4
     },
     {
       "type": "休闲娱乐",
-      "count": 1,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 100
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
     },
     {
       "type": "教育培训",
-      "count": 5,
-      "within_1yr_pct": 20,
-      "1_3yr_pct": 40,
-      "over_3yr_pct": 40
+      "count": 5.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 40.0,
+      "over_3yr_pct": 40.0
     },
     {
       "type": "生活服务",
-      "count": 20,
-      "within_1yr_pct": 40,
-      "1_3yr_pct": 20,
-      "over_3yr_pct": 40
+      "count": 20.0,
+      "within_1yr_pct": 40.0,
+      "1_3yr_pct": 20.0,
+      "over_3yr_pct": 40.0
     },
     {
       "type": "运动健身",
-      "count": 8,
+      "count": 8.0,
       "within_1yr_pct": 12.5,
-      "1_3yr_pct": 50,
+      "1_3yr_pct": 50.0,
       "over_3yr_pct": 37.5
     },
     {
       "type": "车辆服务",
-      "count": 4,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 75,
-      "over_3yr_pct": 25
+      "count": 4.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 75.0,
+      "over_3yr_pct": 25.0
     }
   ],
   "nearby_communities": [
@@ -1838,7 +1838,7 @@
       "raw": "沪华公寓 户数:90 居住人数:480+ 建筑年份:1995"
     }
   ],
-  "community_count": 200,
   "avg_housing_price": 85333.91,
-  "total_households": 199807
+  "total_households": 199807,
+  "community_count": 200
 }

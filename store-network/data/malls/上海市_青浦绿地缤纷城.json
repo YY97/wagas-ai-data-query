@@ -5,7 +5,7 @@
   "lat": 31.159446,
   "lng": 121.12533,
   "overview": {
-    "score": 88,
+    "score": 88.0,
     "score_rank": "市内前30%",
     "population_score": 78.9,
     "area_score": 70.8,
@@ -13,7 +13,7 @@
     "industry_score": 88.1,
     "annual_sales": "青浦绿地缤纷城以“聚生活家、享生活+”为定位，融入绿地贸易港旗下进博同款元素，导入品牌餐饮、进口超市、儿童亲子、休闲零售等品牌业态，将成为上海青浦又一座品质社区商业综合体",
     "annual_sales_unit": "-",
-    "area_size_sqm": 5,
+    "area_size_sqm": 5.0,
     "open_date": "2019-12-28",
     "operator": "绿地控股集团股份有限公司",
     "brand": "绿地控股greenland",
@@ -24,7 +24,7 @@
     "annual_daily": 1.14,
     "annual_daily_unit": "万人次",
     "annual_daily_rank": "市内第228",
-    "jun_total": 37,
+    "jun_total": 37.0,
     "jun_total_rank": "市内商场第264名",
     "jun_daily_avg": 1.2,
     "jun_daily_unit": "万人次",
@@ -43,7 +43,7 @@
       "3km": 38.9
     },
     "office": {
-      "500m": 6500,
+      "500m": 6500.0,
       "1_5km": 5.5,
       "3km": 19.7
     },
@@ -54,26 +54,26 @@
     }
   },
   "business": {
-    "competitors": 3,
-    "food": 91,
-    "shopping": 82,
-    "leisure": 7,
-    "education": 8,
-    "hotel": 12,
-    "services": 57,
-    "fitness": 7,
-    "auto": 9,
-    "total_stores": 47,
-    "old_store_3yr_pct": 62
+    "competitors": 3.0,
+    "food": 91.0,
+    "shopping": 82.0,
+    "leisure": 7.0,
+    "education": 8.0,
+    "hotel": 12.0,
+    "services": 57.0,
+    "fitness": 7.0,
+    "auto": 9.0,
+    "total_stores": 47.0,
+    "old_store_3yr_pct": 62.0
   },
   "nearby_poi": {
-    "business": 2,
-    "community": 217,
-    "office": 15,
-    "school": 19,
-    "hospital": 36,
-    "transport": 9,
-    "scenic": 69
+    "business": 2.0,
+    "community": 217.0,
+    "office": 15.0,
+    "school": 19.0,
+    "hospital": 36.0,
+    "transport": 9.0,
+    "scenic": 69.0
   },
   "demographics": {
     "male_pct": 50.9,
@@ -81,9 +81,9 @@
     "education": {
       "小学": 10.2,
       "初中": 19.7,
-      "高中": 12,
+      "高中": 12.0,
       "大专": 8.4,
-      "本科": 46,
+      "本科": 46.0,
       "硕士": 2.9,
       "博士": 0.8
     },
@@ -364,52 +364,52 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 20,
-      "within_1yr_pct": 20,
-      "1_3yr_pct": 10,
-      "over_3yr_pct": 70
+      "count": 20.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 10.0,
+      "over_3yr_pct": 70.0
     },
     {
       "type": "购物",
-      "count": 7,
+      "count": 7.0,
       "within_1yr_pct": 57.1,
-      "1_3yr_pct": 0,
+      "1_3yr_pct": 0.0,
       "over_3yr_pct": 42.9
     },
     {
       "type": "休闲娱乐",
-      "count": 3,
-      "within_1yr_pct": 0,
+      "count": 3.0,
+      "within_1yr_pct": 0.0,
       "1_3yr_pct": 33.3,
       "over_3yr_pct": 66.7
     },
     {
       "type": "教育培训",
-      "count": 5,
-      "within_1yr_pct": 20,
-      "1_3yr_pct": 20,
-      "over_3yr_pct": 60
+      "count": 5.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 20.0,
+      "over_3yr_pct": 60.0
     },
     {
       "type": "生活服务",
-      "count": 7,
+      "count": 7.0,
       "within_1yr_pct": 14.3,
       "1_3yr_pct": 14.3,
       "over_3yr_pct": 71.4
     },
     {
       "type": "运动健身",
-      "count": 4,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 50,
-      "over_3yr_pct": 50
+      "count": 4.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 50.0
     },
     {
       "type": "车辆服务",
-      "count": 1,
-      "within_1yr_pct": 100,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 0
+      "count": 1.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
     }
   ],
   "nearby_communities": [

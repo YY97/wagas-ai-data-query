@@ -2,18 +2,18 @@
   "name": "向日葵广场",
   "city": "北京市",
   "address": "北京市朝阳区西大望路甲22号",
-  "lat": 39.893993,
-  "lng": 116.480133,
+  "lat": 39.937362,
+  "lng": 116.703678,
   "overview": {
-    "score": 97,
+    "score": 97.0,
     "score_rank": "市内前30%",
     "population_score": 85.6,
-    "area_score": 100,
+    "area_score": 100.0,
     "consumption_score": 85.1,
-    "industry_score": 97,
+    "industry_score": 97.0,
     "annual_sales": "85",
     "annual_sales_unit": "亿元",
-    "area_size_sqm": 20,
+    "area_size_sqm": 20.0,
     "open_date": "2017-10-01",
     "operator": "合生创展集团",
     "brand": "合生",
@@ -54,34 +54,34 @@
     }
   },
   "business": {
-    "competitors": 10,
-    "food": 370,
-    "shopping": 452,
-    "leisure": 46,
-    "education": 32,
-    "hotel": 10,
-    "services": 287,
-    "fitness": 30,
-    "auto": 54,
-    "total_stores": 796,
-    "old_store_3yr_pct": 40
+    "competitors": 10.0,
+    "food": 370.0,
+    "shopping": 452.0,
+    "leisure": 46.0,
+    "education": 32.0,
+    "hotel": 10.0,
+    "services": 287.0,
+    "fitness": 30.0,
+    "auto": 54.0,
+    "total_stores": 796.0,
+    "old_store_3yr_pct": 40.0
   },
   "nearby_poi": {
-    "business": 3,
-    "community": 353,
-    "office": 80,
-    "school": 31,
-    "hospital": 121,
-    "transport": 8,
-    "scenic": 122
+    "business": 3.0,
+    "community": 353.0,
+    "office": 80.0,
+    "school": 31.0,
+    "hospital": 121.0,
+    "transport": 8.0,
+    "scenic": 122.0
   },
   "demographics": {
-    "male_pct": 48,
+    "male_pct": 48.0,
     "female_pct": null,
     "education": {
       "小学": 8.7,
       "初中": 15.1,
-      "高中": 11,
+      "高中": 11.0,
       "大专": 6.7,
       "本科": 49.7,
       "硕士": 7.1,
@@ -172,56 +172,56 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 278,
+      "count": 278.0,
       "within_1yr_pct": 26.3,
       "1_3yr_pct": 30.2,
       "over_3yr_pct": 43.5
     },
     {
       "type": "购物",
-      "count": 336,
+      "count": 336.0,
       "within_1yr_pct": 17.6,
       "1_3yr_pct": 41.1,
       "over_3yr_pct": 41.4
     },
     {
       "type": "休闲娱乐",
-      "count": 34,
+      "count": 34.0,
       "within_1yr_pct": 35.3,
       "1_3yr_pct": 47.1,
       "over_3yr_pct": 17.6
     },
     {
       "type": "教育培训",
-      "count": 10,
-      "within_1yr_pct": 20,
-      "1_3yr_pct": 30,
-      "over_3yr_pct": 50
+      "count": 10.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 30.0,
+      "over_3yr_pct": 50.0
     },
     {
       "type": "酒店住宿",
-      "count": 1,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 100,
-      "over_3yr_pct": 0
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
     },
     {
       "type": "生活服务",
-      "count": 97,
+      "count": 97.0,
       "within_1yr_pct": 27.8,
       "1_3yr_pct": 39.2,
-      "over_3yr_pct": 33
+      "over_3yr_pct": 33.0
     },
     {
       "type": "运动健身",
-      "count": 9,
+      "count": 9.0,
       "within_1yr_pct": 44.4,
       "1_3yr_pct": 55.6,
-      "over_3yr_pct": 0
+      "over_3yr_pct": 0.0
     },
     {
       "type": "车辆服务",
-      "count": 31,
+      "count": 31.0,
       "within_1yr_pct": 19.4,
       "1_3yr_pct": 38.7,
       "over_3yr_pct": 41.9

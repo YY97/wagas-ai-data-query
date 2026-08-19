@@ -2,18 +2,18 @@
   "name": "北京银泰中心",
   "city": "北京市",
   "address": "北京市朝阳区建国门外大街2号(国贸地铁站C东南口步行150米)",
-  "lat": 39.909863,
-  "lng": 116.458855,
+  "lat": 39.907356,
+  "lng": 116.459268,
   "overview": {
     "score": 92.1,
     "score_rank": "市内前30%",
     "population_score": 72.6,
-    "area_score": 100,
+    "area_score": 100.0,
     "consumption_score": 79.8,
     "industry_score": 92.1,
     "annual_sales": "北京银泰中心in01位于北京市朝阳区建国门外大街2号，处于CBD核心区域。它是一个集购物、休闲、娱乐于一体的高端购物中心，共有4层（地上3层、地下1层）。in01汇集了超过60家国际知名品牌及设计师品牌，包括RICHARD MILLE、alexanderwang、BURTON等，同时也是Chrome Hearts、华为北京旗舰店的所在地。该商场不仅是一个商业空间，更是一个融合了艺术与生活的高品质消费场所。",
     "annual_sales_unit": "-",
-    "area_size_sqm": 3,
+    "area_size_sqm": 3.0,
     "open_date": "2018-10-01",
     "operator": "银泰商业管理集团有限公司",
     "brand": "银泰",
@@ -38,7 +38,7 @@
   },
   "population": {
     "residential": {
-      "500m": 8500,
+      "500m": 8500.0,
       "1_5km": 15.5,
       "3km": 81.7
     },
@@ -54,26 +54,26 @@
     }
   },
   "business": {
-    "competitors": 20,
-    "food": 406,
-    "shopping": 431,
-    "leisure": 16,
-    "education": 101,
-    "hotel": 40,
-    "services": 357,
-    "fitness": 34,
-    "auto": 35,
-    "total_stores": 96,
-    "old_store_3yr_pct": 63
+    "competitors": 20.0,
+    "food": 406.0,
+    "shopping": 431.0,
+    "leisure": 16.0,
+    "education": 101.0,
+    "hotel": 40.0,
+    "services": 357.0,
+    "fitness": 34.0,
+    "auto": 35.0,
+    "total_stores": 96.0,
+    "old_store_3yr_pct": 63.0
   },
   "nearby_poi": {
-    "business": 16,
-    "community": 474,
-    "office": 163,
-    "school": 25,
-    "hospital": 180,
-    "transport": 10,
-    "scenic": 266
+    "business": 16.0,
+    "community": 474.0,
+    "office": 163.0,
+    "school": 25.0,
+    "hospital": 180.0,
+    "transport": 10.0,
+    "scenic": 266.0
   },
   "demographics": {
     "male_pct": 48.2,
@@ -84,7 +84,7 @@
       "高中": 10.8,
       "大专": 6.7,
       "本科": 48.2,
-      "硕士": 7,
+      "硕士": 7.0,
       "博士": 1.6
     },
     "has_children_pct": 57.7,
@@ -428,59 +428,59 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 45,
+      "count": 45.0,
       "within_1yr_pct": 6.7,
       "1_3yr_pct": 26.7,
       "over_3yr_pct": 66.7
     },
     {
       "type": "购物",
-      "count": 21,
+      "count": 21.0,
       "within_1yr_pct": 9.5,
       "1_3yr_pct": 23.8,
       "over_3yr_pct": 66.7
     },
     {
       "type": "休闲娱乐",
-      "count": 3,
-      "within_1yr_pct": 0,
+      "count": 3.0,
+      "within_1yr_pct": 0.0,
       "1_3yr_pct": 66.7,
       "over_3yr_pct": 33.3
     },
     {
       "type": "教育培训",
-      "count": 4,
-      "within_1yr_pct": 50,
-      "1_3yr_pct": 25,
-      "over_3yr_pct": 25
+      "count": 4.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 25.0
     },
     {
       "type": "酒店住宿",
-      "count": 2,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 100
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
     },
     {
       "type": "生活服务",
-      "count": 12,
+      "count": 12.0,
       "within_1yr_pct": 33.3,
       "1_3yr_pct": 8.3,
       "over_3yr_pct": 58.3
     },
     {
       "type": "运动健身",
-      "count": 3,
-      "within_1yr_pct": 0,
+      "count": 3.0,
+      "within_1yr_pct": 0.0,
       "1_3yr_pct": 33.3,
       "over_3yr_pct": 66.7
     },
     {
       "type": "车辆服务",
-      "count": 6,
+      "count": 6.0,
       "within_1yr_pct": 16.7,
       "1_3yr_pct": 33.3,
-      "over_3yr_pct": 50
+      "over_3yr_pct": 50.0
     }
   ],
   "nearby_communities": [

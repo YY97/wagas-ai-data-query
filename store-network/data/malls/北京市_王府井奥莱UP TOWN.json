@@ -2,10 +2,10 @@
   "name": "王府井奥莱UP TOWN",
   "city": "北京市",
   "address": "上海市浦东新区曹路镇金钻路上川路交叉口恒越荣欣广场",
-  "lat": null,
-  "lng": null,
+  "lat": 39.818134,
+  "lng": 116.420385,
   "overview": {
-    "score": 95,
+    "score": 95.0,
     "score_rank": "市内前30%",
     "population_score": 95.8,
     "area_score": 69.4,
@@ -13,7 +13,7 @@
     "industry_score": 95.1,
     "annual_sales": "恒越荣欣广场是曹路继宝龙城市广场外又一大型商场，填补了区域大型商业的空白，商场总建筑超11万平方米，由8栋建筑组成",
     "annual_sales_unit": "-",
-    "area_size_sqm": 11,
+    "area_size_sqm": 11.0,
     "open_date": "2019-09-28",
     "operator": "上海合越置业有限公司",
     "brand": "",
@@ -21,7 +21,7 @@
     "floors": "B1-L6"
   },
   "traffic": {
-    "annual_daily": 4,
+    "annual_daily": 4.0,
     "annual_daily_unit": "万人次",
     "annual_daily_rank": "市内第51",
     "jun_total": 152.1,
@@ -38,42 +38,42 @@
   },
   "population": {
     "residential": {
-      "500m": 3,
+      "500m": 3.0,
       "1_5km": 14.7,
       "3km": 35.1
     },
     "office": {
-      "500m": 9200,
+      "500m": 9200.0,
       "1_5km": 4.1,
-      "3km": 11
+      "3km": 11.0
     },
     "permanent": {
-      "500m": 3,
+      "500m": 3.0,
       "1_5km": 12.8,
       "3km": 29.9
     }
   },
   "business": {
-    "competitors": 3,
-    "food": 135,
-    "shopping": 58,
-    "leisure": 13,
-    "education": 17,
-    "hotel": 7,
-    "services": 109,
-    "fitness": 7,
-    "auto": 2,
-    "total_stores": 204,
-    "old_store_3yr_pct": 50
+    "competitors": 3.0,
+    "food": 135.0,
+    "shopping": 58.0,
+    "leisure": 13.0,
+    "education": 17.0,
+    "hotel": 7.0,
+    "services": 109.0,
+    "fitness": 7.0,
+    "auto": 2.0,
+    "total_stores": 204.0,
+    "old_store_3yr_pct": 50.0
   },
   "nearby_poi": {
-    "business": 1,
-    "community": 94,
-    "office": 11,
-    "school": 18,
-    "hospital": 21,
-    "transport": 9,
-    "scenic": 30
+    "business": 1.0,
+    "community": 94.0,
+    "office": 11.0,
+    "school": 18.0,
+    "hospital": 21.0,
+    "transport": 9.0,
+    "scenic": 30.0
   },
   "demographics": {
     "male_pct": 46.5,
@@ -356,59 +356,59 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 89,
-      "within_1yr_pct": 18,
+      "count": 89.0,
+      "within_1yr_pct": 18.0,
       "1_3yr_pct": 40.4,
       "over_3yr_pct": 41.6
     },
     {
       "type": "购物",
-      "count": 36,
+      "count": 36.0,
       "within_1yr_pct": 13.9,
       "1_3yr_pct": 22.2,
       "over_3yr_pct": 63.9
     },
     {
       "type": "休闲娱乐",
-      "count": 11,
+      "count": 11.0,
       "within_1yr_pct": 18.2,
       "1_3yr_pct": 36.4,
       "over_3yr_pct": 45.5
     },
     {
       "type": "教育培训",
-      "count": 15,
-      "within_1yr_pct": 20,
-      "1_3yr_pct": 20,
-      "over_3yr_pct": 60
+      "count": 15.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 20.0,
+      "over_3yr_pct": 60.0
     },
     {
       "type": "酒店住宿",
-      "count": 1,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 100
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
     },
     {
       "type": "生活服务",
-      "count": 43,
+      "count": 43.0,
       "within_1yr_pct": 18.6,
       "1_3yr_pct": 27.9,
       "over_3yr_pct": 53.5
     },
     {
       "type": "运动健身",
-      "count": 7,
+      "count": 7.0,
       "within_1yr_pct": 14.3,
       "1_3yr_pct": 42.9,
       "over_3yr_pct": 42.9
     },
     {
       "type": "车辆服务",
-      "count": 2,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 100
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
     }
   ],
   "nearby_communities": [

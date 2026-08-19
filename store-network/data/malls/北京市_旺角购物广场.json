@@ -2,8 +2,8 @@
   "name": "旺角购物广场",
   "city": "北京市",
   "address": "",
-  "lat": null,
-  "lng": null,
+  "lat": 40.001774,
+  "lng": 116.463537,
   "overview": {
     "score": 87.6,
     "score_rank": "市内前30%",
@@ -44,7 +44,7 @@
     },
     "office": {
       "500m": 1.3,
-      "1_5km": 10,
+      "1_5km": 10.0,
       "3km": 37.2
     },
     "permanent": {
@@ -54,36 +54,36 @@
     }
   },
   "business": {
-    "competitors": 3,
-    "food": 290,
-    "shopping": 126,
-    "leisure": 15,
-    "education": 25,
-    "hotel": 20,
-    "services": 112,
-    "fitness": 25,
-    "auto": 14,
+    "competitors": 3.0,
+    "food": 290.0,
+    "shopping": 126.0,
+    "leisure": 15.0,
+    "education": 25.0,
+    "hotel": 20.0,
+    "services": 112.0,
+    "fitness": 25.0,
+    "auto": 14.0,
     "total_stores": null,
     "old_store_3yr_pct": null
   },
   "nearby_poi": {
-    "business": 2,
-    "community": 423,
-    "office": 34,
-    "school": 43,
-    "hospital": 83,
-    "transport": 13,
-    "scenic": 253
+    "business": 2.0,
+    "community": 423.0,
+    "office": 34.0,
+    "school": 43.0,
+    "hospital": 83.0,
+    "transport": 13.0,
+    "scenic": 253.0
   },
   "demographics": {
-    "male_pct": 50,
+    "male_pct": 50.0,
     "female_pct": null,
     "education": {
-      "小学": 10,
+      "小学": 10.0,
       "初中": 16.4,
       "高中": 10.9,
-      "大专": 7,
-      "本科": 48,
+      "大专": 7.0,
+      "本科": 48.0,
       "硕士": 6.2,
       "博士": 1.5
     },

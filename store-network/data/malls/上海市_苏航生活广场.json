@@ -2,8 +2,8 @@
   "name": "苏航生活广场",
   "city": "上海市",
   "address": "北京市朝阳区南磨房乡双龙超市(紫南店)华瀚商业中心",
-  "lat": null,
-  "lng": null,
+  "lat": 31.035065,
+  "lng": 121.595905,
   "overview": {
     "score": 70.9,
     "score_rank": "市内前70%",
@@ -26,24 +26,24 @@
     "annual_daily_rank": "",
     "jun_total": 3.1,
     "jun_total_rank": "市内商场第360名",
-    "jun_daily_avg": 1015,
+    "jun_daily_avg": 1015.0,
     "jun_daily_unit": "人次",
     "jun_daily_rank": "市内商场第360名",
-    "weekday_avg": 1030,
+    "weekday_avg": 1030.0,
     "weekday_unit": "人次",
     "weekday_rank": "市内商场第360名",
-    "holiday_avg": 976,
+    "holiday_avg": 976.0,
     "holiday_unit": "人次",
     "holiday_rank": "市内商场第366名"
   },
   "population": {
     "residential": {
-      "500m": 2,
+      "500m": 2.0,
       "1_5km": 9.8,
-      "3km": 58
+      "3km": 58.0
     },
     "office": {
-      "500m": 5800,
+      "500m": 5800.0,
       "1_5km": 5.1,
       "3km": 29.2
     },
@@ -55,33 +55,33 @@
   },
   "business": {
     "competitors": null,
-    "food": 26,
-    "shopping": 34,
-    "leisure": 2,
-    "education": 5,
-    "hotel": 2,
-    "services": 60,
-    "fitness": 5,
-    "auto": 6,
-    "total_stores": 23,
-    "old_store_3yr_pct": 65
+    "food": 26.0,
+    "shopping": 34.0,
+    "leisure": 2.0,
+    "education": 5.0,
+    "hotel": 2.0,
+    "services": 60.0,
+    "fitness": 5.0,
+    "auto": 6.0,
+    "total_stores": 23.0,
+    "old_store_3yr_pct": 65.0
   },
   "nearby_poi": {
-    "business": 2,
-    "community": 234,
-    "office": 14,
-    "school": 23,
-    "hospital": 70,
-    "transport": 9,
-    "scenic": 71
+    "business": 2.0,
+    "community": 234.0,
+    "office": 14.0,
+    "school": 23.0,
+    "hospital": 70.0,
+    "transport": 9.0,
+    "scenic": 71.0
   },
   "demographics": {
     "male_pct": 52.8,
     "female_pct": null,
     "education": {
-      "小学": 9,
+      "小学": 9.0,
       "初中": 15.4,
-      "高中": 11,
+      "高中": 11.0,
       "大专": 6.6,
       "本科": 49.2,
       "硕士": 7.1,
@@ -96,38 +96,38 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 8,
+      "count": 8.0,
       "within_1yr_pct": 12.5,
       "1_3yr_pct": 12.5,
-      "over_3yr_pct": 75
+      "over_3yr_pct": 75.0
     },
     {
       "type": "购物",
-      "count": 4,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 25,
-      "over_3yr_pct": 75
+      "count": 4.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 75.0
     },
     {
       "type": "休闲娱乐",
-      "count": 2,
-      "within_1yr_pct": 50,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 50
+      "count": 2.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 50.0
     },
     {
       "type": "生活服务",
-      "count": 8,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 50,
-      "over_3yr_pct": 50
+      "count": 8.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 50.0
     },
     {
       "type": "运动健身",
-      "count": 1,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 100
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
     }
   ],
   "nearby_communities": [

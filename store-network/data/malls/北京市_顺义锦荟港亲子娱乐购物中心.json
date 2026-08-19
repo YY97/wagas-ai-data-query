@@ -2,15 +2,15 @@
   "name": "顺义锦荟港亲子娱乐购物中心",
   "city": "北京市",
   "address": "上海市闵行区汇雄路与鲁南路交叉口东北方170米",
-  "lat": null,
-  "lng": null,
+  "lat": 40.126472,
+  "lng": 116.647394,
   "overview": {
     "score": 92.8,
     "score_rank": "市内前30%",
     "population_score": 90.6,
     "area_score": 66.7,
     "consumption_score": 64.1,
-    "industry_score": 93,
+    "industry_score": 93.0,
     "annual_sales": "山钢和润旭辉里项目地处闵行区浦江镇鲁汇组团，总体量约8万平方米，包含酒店、公寓、独栋商墅及购物中心多个功能区域规划有127个铺位。项目围绕“精致社区商业”的定位，致力于为周边品质家庭客群打造“15分钟精致生活圈” 。",
     "annual_sales_unit": "-",
     "area_size_sqm": 3.5,
@@ -24,12 +24,12 @@
     "annual_daily": 1.47,
     "annual_daily_unit": "万人次",
     "annual_daily_rank": "市内第178",
-    "jun_total": 65,
+    "jun_total": 65.0,
     "jun_total_rank": "市内商场第180名",
     "jun_daily_avg": 2.2,
     "jun_daily_unit": "万人次",
     "jun_daily_rank": "市内商场第180名",
-    "weekday_avg": 2,
+    "weekday_avg": 2.0,
     "weekday_unit": "万人次",
     "weekday_rank": "市内商场第182名",
     "holiday_avg": 2.6,
@@ -43,7 +43,7 @@
       "3km": 25.4
     },
     "office": {
-      "500m": 7400,
+      "500m": 7400.0,
       "1_5km": 3.3,
       "3km": 7.5
     },
@@ -54,26 +54,26 @@
     }
   },
   "business": {
-    "competitors": 3,
-    "food": 111,
-    "shopping": 35,
-    "leisure": 4,
-    "education": 7,
-    "hotel": 4,
-    "services": 55,
-    "fitness": 12,
-    "auto": 9,
-    "total_stores": 170,
-    "old_store_3yr_pct": 41
+    "competitors": 3.0,
+    "food": 111.0,
+    "shopping": 35.0,
+    "leisure": 4.0,
+    "education": 7.0,
+    "hotel": 4.0,
+    "services": 55.0,
+    "fitness": 12.0,
+    "auto": 9.0,
+    "total_stores": 170.0,
+    "old_store_3yr_pct": 41.0
   },
   "nearby_poi": {
-    "business": 2,
-    "community": 87,
-    "office": 5,
-    "school": 13,
-    "hospital": 8,
-    "transport": 10,
-    "scenic": 39
+    "business": 2.0,
+    "community": 87.0,
+    "office": 5.0,
+    "school": 13.0,
+    "hospital": 8.0,
+    "transport": 10.0,
+    "scenic": 39.0
   },
   "demographics": {
     "male_pct": 54.3,
@@ -364,59 +364,59 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 92,
+      "count": 92.0,
       "within_1yr_pct": 30.4,
       "1_3yr_pct": 33.7,
       "over_3yr_pct": 35.9
     },
     {
       "type": "购物",
-      "count": 23,
-      "within_1yr_pct": 13,
+      "count": 23.0,
+      "within_1yr_pct": 13.0,
       "1_3yr_pct": 26.1,
       "over_3yr_pct": 60.9
     },
     {
       "type": "休闲娱乐",
-      "count": 4,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 25,
-      "over_3yr_pct": 75
+      "count": 4.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 75.0
     },
     {
       "type": "教育培训",
-      "count": 1,
-      "within_1yr_pct": 100,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 0
+      "count": 1.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
     },
     {
       "type": "酒店住宿",
-      "count": 1,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 100,
-      "over_3yr_pct": 0
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
     },
     {
       "type": "生活服务",
-      "count": 38,
+      "count": 38.0,
       "within_1yr_pct": 13.2,
       "1_3yr_pct": 42.1,
       "over_3yr_pct": 44.7
     },
     {
       "type": "运动健身",
-      "count": 6,
+      "count": 6.0,
       "within_1yr_pct": 33.3,
-      "1_3yr_pct": 50,
+      "1_3yr_pct": 50.0,
       "over_3yr_pct": 16.7
     },
     {
       "type": "车辆服务",
-      "count": 5,
-      "within_1yr_pct": 20,
-      "1_3yr_pct": 40,
-      "over_3yr_pct": 40
+      "count": 5.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 40.0,
+      "over_3yr_pct": 40.0
     }
   ],
   "nearby_communities": [

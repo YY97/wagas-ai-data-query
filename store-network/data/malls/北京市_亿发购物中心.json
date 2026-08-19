@@ -2,12 +2,12 @@
   "name": "亿发购物中心",
   "city": "北京市",
   "address": "上海市松江区九亭镇沪亭南路183号象屿都城4期",
-  "lat": 39.894683,
-  "lng": 116.505025,
+  "lat": 39.783367,
+  "lng": 116.291624,
   "overview": {
     "score": null,
     "score_rank": "",
-    "population_score": 87,
+    "population_score": 87.0,
     "area_score": 66.7,
     "consumption_score": 70.9,
     "industry_score": 68.1,
@@ -43,8 +43,8 @@
       "3km": 45.5
     },
     "office": {
-      "500m": 5300,
-      "1_5km": 5,
+      "500m": 5300.0,
+      "1_5km": 5.0,
       "3km": 21.9
     },
     "permanent": {
@@ -55,25 +55,25 @@
   },
   "business": {
     "competitors": null,
-    "food": 100,
-    "shopping": 60,
-    "leisure": 4,
-    "education": 7,
-    "hotel": 4,
-    "services": 50,
-    "fitness": 3,
-    "auto": 4,
-    "total_stores": 232,
-    "old_store_3yr_pct": 52
+    "food": 100.0,
+    "shopping": 60.0,
+    "leisure": 4.0,
+    "education": 7.0,
+    "hotel": 4.0,
+    "services": 50.0,
+    "fitness": 3.0,
+    "auto": 4.0,
+    "total_stores": 232.0,
+    "old_store_3yr_pct": 52.0
   },
   "nearby_poi": {
     "business": null,
-    "community": 177,
-    "office": 12,
-    "school": 18,
-    "hospital": 19,
-    "transport": 7,
-    "scenic": 44
+    "community": 177.0,
+    "office": 12.0,
+    "school": 18.0,
+    "hospital": 19.0,
+    "transport": 7.0,
+    "scenic": 44.0
   },
   "demographics": {
     "male_pct": 51.9,
@@ -147,59 +147,59 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 100,
-      "within_1yr_pct": 30,
-      "1_3yr_pct": 28,
-      "over_3yr_pct": 42
+      "count": 100.0,
+      "within_1yr_pct": 30.0,
+      "1_3yr_pct": 28.0,
+      "over_3yr_pct": 42.0
     },
     {
       "type": "购物",
-      "count": 60,
+      "count": 60.0,
       "within_1yr_pct": 21.7,
       "1_3yr_pct": 13.3,
-      "over_3yr_pct": 65
+      "over_3yr_pct": 65.0
     },
     {
       "type": "休闲娱乐",
-      "count": 4,
-      "within_1yr_pct": 25,
-      "1_3yr_pct": 25,
-      "over_3yr_pct": 50
+      "count": 4.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 50.0
     },
     {
       "type": "教育培训",
-      "count": 7,
-      "within_1yr_pct": 0,
+      "count": 7.0,
+      "within_1yr_pct": 0.0,
       "1_3yr_pct": 14.3,
       "over_3yr_pct": 85.7
     },
     {
       "type": "酒店住宿",
-      "count": 4,
-      "within_1yr_pct": 50,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 50
+      "count": 4.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 50.0
     },
     {
       "type": "生活服务",
-      "count": 50,
-      "within_1yr_pct": 12,
-      "1_3yr_pct": 32,
-      "over_3yr_pct": 56
+      "count": 50.0,
+      "within_1yr_pct": 12.0,
+      "1_3yr_pct": 32.0,
+      "over_3yr_pct": 56.0
     },
     {
       "type": "运动健身",
-      "count": 3,
+      "count": 3.0,
       "within_1yr_pct": 33.3,
       "1_3yr_pct": 33.3,
       "over_3yr_pct": 33.3
     },
     {
       "type": "车辆服务",
-      "count": 4,
-      "within_1yr_pct": 25,
-      "1_3yr_pct": 50,
-      "over_3yr_pct": 25
+      "count": 4.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 25.0
     }
   ],
   "nearby_communities": [

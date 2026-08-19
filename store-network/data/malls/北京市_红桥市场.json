@@ -2,8 +2,8 @@
   "name": "红桥市场",
   "city": "北京市",
   "address": "上海市奉贤区海湾镇海尚·生活广场",
-  "lat": null,
-  "lng": null,
+  "lat": 39.886248,
+  "lng": 116.420577,
   "overview": {
     "score": 87.5,
     "score_rank": "市内前30%",
@@ -26,13 +26,13 @@
     "annual_daily_rank": "",
     "jun_total": 4.4,
     "jun_total_rank": "市内商场第556名",
-    "jun_daily_avg": 1460,
+    "jun_daily_avg": 1460.0,
     "jun_daily_unit": "人次",
     "jun_daily_rank": "市内商场第556名",
-    "weekday_avg": 1403,
+    "weekday_avg": 1403.0,
     "weekday_unit": "人次",
     "weekday_rank": "市内商场第556名",
-    "holiday_avg": 1614,
+    "holiday_avg": 1614.0,
     "holiday_unit": "人次",
     "holiday_rank": "市内商场第554名"
   },
@@ -40,10 +40,10 @@
     "residential": {
       "500m": 2.4,
       "1_5km": 9.8,
-      "3km": 14
+      "3km": 14.0
     },
     "office": {
-      "500m": 5400,
+      "500m": 5400.0,
       "1_5km": 3.2,
       "3km": 5.3
     },
@@ -55,25 +55,25 @@
   },
   "business": {
     "competitors": null,
-    "food": 108,
-    "shopping": 17,
-    "leisure": 5,
-    "education": 3,
+    "food": 108.0,
+    "shopping": 17.0,
+    "leisure": 5.0,
+    "education": 3.0,
     "hotel": null,
-    "services": 12,
-    "fitness": 2,
-    "auto": 2,
-    "total_stores": 83,
-    "old_store_3yr_pct": 43
+    "services": 12.0,
+    "fitness": 2.0,
+    "auto": 2.0,
+    "total_stores": 83.0,
+    "old_store_3yr_pct": 43.0
   },
   "nearby_poi": {
-    "business": 1,
-    "community": 36,
-    "office": 2,
-    "school": 11,
-    "hospital": 4,
-    "transport": 3,
-    "scenic": 45
+    "business": 1.0,
+    "community": 36.0,
+    "office": 2.0,
+    "school": 11.0,
+    "hospital": 4.0,
+    "transport": 3.0,
+    "scenic": 45.0
   },
   "demographics": {
     "male_pct": 51.1,
@@ -146,36 +146,36 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 74,
+      "count": 74.0,
       "within_1yr_pct": 28.4,
       "1_3yr_pct": 28.4,
       "over_3yr_pct": 43.2
     },
     {
       "type": "购物",
-      "count": 2,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 50,
-      "over_3yr_pct": 50
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 50.0
     },
     {
       "type": "休闲娱乐",
-      "count": 2,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 50,
-      "over_3yr_pct": 50
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 50.0
     },
     {
       "type": "教育培训",
-      "count": 2,
-      "within_1yr_pct": 100,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 0
+      "count": 2.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
     },
     {
       "type": "生活服务",
-      "count": 3,
-      "within_1yr_pct": 0,
+      "count": 3.0,
+      "within_1yr_pct": 0.0,
       "1_3yr_pct": 33.3,
       "over_3yr_pct": 66.7
     }

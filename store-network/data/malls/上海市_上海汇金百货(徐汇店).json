@@ -8,12 +8,12 @@
     "score": 76.5,
     "score_rank": "市内前50%",
     "population_score": 84.3,
-    "area_score": 100,
+    "area_score": 100.0,
     "consumption_score": 86.6,
     "industry_score": 76.4,
     "annual_sales": "汇金百货徐汇店地处上海市级商业中心之一的徐家汇商圈，主营男女服饰、黄金珠宝、手表饰品、家居用品、童装童品等30多个商品大类，近十万种商品。品牌构成涵盖诸多国际国内知名品牌，以中高档商品为主体",
     "annual_sales_unit": "-",
-    "area_size_sqm": 4,
+    "area_size_sqm": 4.0,
     "open_date": "1998-09-01",
     "operator": "上海徐家汇商城股份有限公司",
     "brand": "",
@@ -21,15 +21,15 @@
     "floors": "B1-L8"
   },
   "traffic": {
-    "annual_daily": 5534,
+    "annual_daily": 5534.0,
     "annual_daily_unit": "人次",
     "annual_daily_rank": "市内第345",
     "jun_total": 26.5,
     "jun_total_rank": "市内商场第327名",
-    "jun_daily_avg": 8840,
+    "jun_daily_avg": 8840.0,
     "jun_daily_unit": "人次",
     "jun_daily_rank": "市内商场第327名",
-    "weekday_avg": 7916,
+    "weekday_avg": 7916.0,
     "weekday_unit": "人次",
     "weekday_rank": "市内商场第349名",
     "holiday_avg": 1.1,
@@ -45,7 +45,7 @@
     "office": {
       "500m": 4.8,
       "1_5km": 26.7,
-      "3km": 85
+      "3km": 85.0
     },
     "permanent": {
       "500m": 3.5,
@@ -54,26 +54,26 @@
     }
   },
   "business": {
-    "competitors": 29,
-    "food": 559,
-    "shopping": 721,
-    "leisure": 71,
-    "education": 81,
-    "hotel": 60,
-    "services": 338,
-    "fitness": 41,
-    "auto": 39,
-    "total_stores": 116,
-    "old_store_3yr_pct": 62
+    "competitors": 29.0,
+    "food": 559.0,
+    "shopping": 721.0,
+    "leisure": 71.0,
+    "education": 81.0,
+    "hotel": 60.0,
+    "services": 338.0,
+    "fitness": 41.0,
+    "auto": 39.0,
+    "total_stores": 116.0,
+    "old_store_3yr_pct": 62.0
   },
   "nearby_poi": {
-    "business": 14,
-    "community": 1133,
-    "office": 134,
-    "school": 72,
-    "hospital": 162,
-    "transport": 11,
-    "scenic": 453
+    "business": 14.0,
+    "community": 1133.0,
+    "office": 134.0,
+    "school": 72.0,
+    "hospital": 162.0,
+    "transport": 11.0,
+    "scenic": 453.0
   },
   "demographics": {
     "male_pct": 46.6,
@@ -428,52 +428,52 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 15,
+      "count": 15.0,
       "within_1yr_pct": 33.3,
-      "1_3yr_pct": 20,
+      "1_3yr_pct": 20.0,
       "over_3yr_pct": 46.7
     },
     {
       "type": "购物",
-      "count": 85,
+      "count": 85.0,
       "within_1yr_pct": 16.5,
       "1_3yr_pct": 16.5,
       "over_3yr_pct": 67.1
     },
     {
       "type": "休闲娱乐",
-      "count": 1,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 100,
-      "over_3yr_pct": 0
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
     },
     {
       "type": "教育培训",
-      "count": 1,
-      "within_1yr_pct": 100,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 0
+      "count": 1.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
     },
     {
       "type": "生活服务",
-      "count": 11,
+      "count": 11.0,
       "within_1yr_pct": 18.2,
       "1_3yr_pct": 18.2,
       "over_3yr_pct": 63.6
     },
     {
       "type": "运动健身",
-      "count": 1,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 100
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
     },
     {
       "type": "车辆服务",
-      "count": 2,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 100,
-      "over_3yr_pct": 0
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
     }
   ],
   "nearby_communities": [
@@ -1878,7 +1878,7 @@
       "raw": "科达公寓 户数:64 居住人数:290+ 建筑年份:1997"
     }
   ],
-  "community_count": 200,
   "avg_housing_price": 101986.22,
-  "total_households": 329527
+  "total_households": 329527,
+  "community_count": 200
 }

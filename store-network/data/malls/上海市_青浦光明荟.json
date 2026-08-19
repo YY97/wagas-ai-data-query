@@ -2,8 +2,8 @@
   "name": "青浦光明荟",
   "city": "上海市",
   "address": "北京市大兴区欣雅街15号院",
-  "lat": null,
-  "lng": null,
+  "lat": 31.229019,
+  "lng": 121.230195,
   "overview": {
     "score": 90.4,
     "score_rank": "市内前30%",
@@ -32,13 +32,13 @@
     "weekday_avg": 4.5,
     "weekday_unit": "万人次",
     "weekday_rank": "市内商场第51名",
-    "holiday_avg": 9,
+    "holiday_avg": 9.0,
     "holiday_unit": "万人次",
     "holiday_rank": "市内商场第22名"
   },
   "population": {
     "residential": {
-      "500m": 5300,
+      "500m": 5300.0,
       "1_5km": 9.2,
       "3km": 29.6
     },
@@ -54,38 +54,38 @@
     }
   },
   "business": {
-    "competitors": 5,
-    "food": 272,
-    "shopping": 318,
-    "leisure": 55,
-    "education": 31,
-    "hotel": 9,
-    "services": 238,
-    "fitness": 23,
-    "auto": 37,
-    "total_stores": 72,
-    "old_store_3yr_pct": 36
+    "competitors": 5.0,
+    "food": 272.0,
+    "shopping": 318.0,
+    "leisure": 55.0,
+    "education": 31.0,
+    "hotel": 9.0,
+    "services": 238.0,
+    "fitness": 23.0,
+    "auto": 37.0,
+    "total_stores": 72.0,
+    "old_store_3yr_pct": 36.0
   },
   "nearby_poi": {
-    "business": 2,
-    "community": 147,
-    "office": 11,
-    "school": 11,
-    "hospital": 23,
-    "transport": 6,
-    "scenic": 48
+    "business": 2.0,
+    "community": 147.0,
+    "office": 11.0,
+    "school": 11.0,
+    "hospital": 23.0,
+    "transport": 6.0,
+    "scenic": 48.0
   },
   "demographics": {
     "male_pct": 47.9,
     "female_pct": null,
     "education": {
-      "小学": 10,
+      "小学": 10.0,
       "初中": 16.8,
-      "高中": 11,
+      "高中": 11.0,
       "大专": 8.1,
       "本科": 47.8,
       "硕士": 5.3,
-      "博士": 1
+      "博士": 1.0
     },
     "has_children_pct": 61.4,
     "no_children_pct": 38.6
@@ -364,52 +364,52 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 25,
-      "within_1yr_pct": 12,
-      "1_3yr_pct": 48,
-      "over_3yr_pct": 40
+      "count": 25.0,
+      "within_1yr_pct": 12.0,
+      "1_3yr_pct": 48.0,
+      "over_3yr_pct": 40.0
     },
     {
       "type": "购物",
-      "count": 20,
-      "within_1yr_pct": 30,
-      "1_3yr_pct": 35,
-      "over_3yr_pct": 35
+      "count": 20.0,
+      "within_1yr_pct": 30.0,
+      "1_3yr_pct": 35.0,
+      "over_3yr_pct": 35.0
     },
     {
       "type": "休闲娱乐",
-      "count": 4,
-      "within_1yr_pct": 25,
-      "1_3yr_pct": 25,
-      "over_3yr_pct": 50
+      "count": 4.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 50.0
     },
     {
       "type": "教育培训",
-      "count": 4,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 75,
-      "over_3yr_pct": 25
+      "count": 4.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 75.0,
+      "over_3yr_pct": 25.0
     },
     {
       "type": "生活服务",
-      "count": 15,
+      "count": 15.0,
       "within_1yr_pct": 13.3,
-      "1_3yr_pct": 60,
+      "1_3yr_pct": 60.0,
       "over_3yr_pct": 26.7
     },
     {
       "type": "运动健身",
-      "count": 3,
+      "count": 3.0,
       "within_1yr_pct": 33.3,
-      "1_3yr_pct": 0,
+      "1_3yr_pct": 0.0,
       "over_3yr_pct": 66.7
     },
     {
       "type": "车辆服务",
-      "count": 1,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 100,
-      "over_3yr_pct": 0
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
     }
   ],
   "nearby_communities": [

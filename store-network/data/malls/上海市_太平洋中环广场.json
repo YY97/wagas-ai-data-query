@@ -2,8 +2,8 @@
   "name": "太平洋中环广场",
   "city": "上海市",
   "address": "北京市海淀区曙光街道板井路62号楼世纪金源大饭店",
-  "lat": null,
-  "lng": null,
+  "lat": 31.151958,
+  "lng": 121.579685,
   "overview": {
     "score": 74.5,
     "score_rank": "市内前50%",
@@ -50,33 +50,33 @@
     "permanent": {
       "500m": 2.4,
       "1_5km": 14.9,
-      "3km": 49
+      "3km": 49.0
     }
   },
   "business": {
-    "competitors": 4,
-    "food": 109,
-    "shopping": 34,
-    "leisure": 9,
-    "education": 12,
-    "hotel": 16,
-    "services": 48,
-    "fitness": 15,
-    "auto": 15,
-    "total_stores": 260,
-    "old_store_3yr_pct": 48
+    "competitors": 4.0,
+    "food": 109.0,
+    "shopping": 34.0,
+    "leisure": 9.0,
+    "education": 12.0,
+    "hotel": 16.0,
+    "services": 48.0,
+    "fitness": 15.0,
+    "auto": 15.0,
+    "total_stores": 260.0,
+    "old_store_3yr_pct": 48.0
   },
   "nearby_poi": {
-    "business": 3,
-    "community": 282,
-    "office": 48,
-    "school": 25,
-    "hospital": 71,
-    "transport": 8,
-    "scenic": 93
+    "business": 3.0,
+    "community": 282.0,
+    "office": 48.0,
+    "school": 25.0,
+    "hospital": 71.0,
+    "transport": 8.0,
+    "scenic": 93.0
   },
   "demographics": {
-    "male_pct": 48,
+    "male_pct": 48.0,
     "female_pct": null,
     "education": {
       "小学": 7.5,
@@ -372,56 +372,56 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 109,
+      "count": 109.0,
       "within_1yr_pct": 17.4,
       "1_3yr_pct": 32.1,
       "over_3yr_pct": 50.5
     },
     {
       "type": "购物",
-      "count": 34,
+      "count": 34.0,
       "within_1yr_pct": 23.5,
       "1_3yr_pct": 14.7,
       "over_3yr_pct": 61.8
     },
     {
       "type": "休闲娱乐",
-      "count": 11,
+      "count": 11.0,
       "within_1yr_pct": 45.5,
       "1_3yr_pct": 27.3,
       "over_3yr_pct": 27.3
     },
     {
       "type": "教育培训",
-      "count": 12,
+      "count": 12.0,
       "within_1yr_pct": 16.7,
       "1_3yr_pct": 16.7,
       "over_3yr_pct": 66.7
     },
     {
       "type": "酒店住宿",
-      "count": 16,
+      "count": 16.0,
       "within_1yr_pct": 18.8,
       "1_3yr_pct": 43.8,
       "over_3yr_pct": 37.5
     },
     {
       "type": "生活服务",
-      "count": 48,
+      "count": 48.0,
       "within_1yr_pct": 10.4,
       "1_3yr_pct": 35.4,
       "over_3yr_pct": 54.2
     },
     {
       "type": "运动健身",
-      "count": 15,
+      "count": 15.0,
       "within_1yr_pct": 53.3,
       "1_3yr_pct": 33.3,
       "over_3yr_pct": 13.3
     },
     {
       "type": "车辆服务",
-      "count": 15,
+      "count": 15.0,
       "within_1yr_pct": 13.3,
       "1_3yr_pct": 53.3,
       "over_3yr_pct": 33.3

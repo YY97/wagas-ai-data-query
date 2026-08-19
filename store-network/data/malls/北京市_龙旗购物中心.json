@@ -2,8 +2,8 @@
   "name": "龙旗购物中心",
   "city": "北京市",
   "address": "北京市昌平区黄平路19号",
-  "lat": 40.066765,
-  "lng": 116.347283,
+  "lat": 40.067107,
+  "lng": 116.347187,
   "overview": {
     "score": 92.5,
     "score_rank": "市内前30%",
@@ -38,42 +38,42 @@
   },
   "population": {
     "residential": {
-      "500m": 2,
+      "500m": 2.0,
       "1_5km": 16.9,
       "3km": 58.3
     },
     "office": {
-      "500m": 1,
+      "500m": 1.0,
       "1_5km": 6.7,
       "3km": 24.9
     },
     "permanent": {
-      "500m": 2,
+      "500m": 2.0,
       "1_5km": 15.4,
       "3km": 53.8
     }
   },
   "business": {
-    "competitors": 3,
-    "food": 145,
-    "shopping": 102,
-    "leisure": 25,
-    "education": 35,
-    "hotel": 9,
-    "services": 89,
-    "fitness": 18,
-    "auto": 5,
-    "total_stores": 185,
-    "old_store_3yr_pct": 59
+    "competitors": 3.0,
+    "food": 145.0,
+    "shopping": 102.0,
+    "leisure": 25.0,
+    "education": 35.0,
+    "hotel": 9.0,
+    "services": 89.0,
+    "fitness": 18.0,
+    "auto": 5.0,
+    "total_stores": 185.0,
+    "old_store_3yr_pct": 59.0
   },
   "nearby_poi": {
-    "business": 2,
-    "community": 240,
-    "office": 14,
-    "school": 31,
-    "hospital": 64,
-    "transport": 8,
-    "scenic": 46
+    "business": 2.0,
+    "community": 240.0,
+    "office": 14.0,
+    "school": 31.0,
+    "hospital": 64.0,
+    "transport": 8.0,
+    "scenic": 46.0
   },
   "demographics": {
     "male_pct": 53.4,
@@ -87,8 +87,8 @@
       "硕士": 11.4,
       "博士": 2.2
     },
-    "has_children_pct": 60,
-    "no_children_pct": 40
+    "has_children_pct": 60.0,
+    "no_children_pct": 40.0
   },
   "scraped_at": "2026-08-01T05:38:11.994Z",
   "nearby_restaurants": [
@@ -139,49 +139,49 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 53,
-      "within_1yr_pct": 17,
+      "count": 53.0,
+      "within_1yr_pct": 17.0,
       "1_3yr_pct": 18.9,
       "over_3yr_pct": 64.2
     },
     {
       "type": "购物",
-      "count": 46,
+      "count": 46.0,
       "within_1yr_pct": 6.5,
       "1_3yr_pct": 15.2,
       "over_3yr_pct": 78.3
     },
     {
       "type": "休闲娱乐",
-      "count": 23,
+      "count": 23.0,
       "within_1yr_pct": 26.1,
       "1_3yr_pct": 39.1,
       "over_3yr_pct": 34.8
     },
     {
       "type": "教育培训",
-      "count": 14,
+      "count": 14.0,
       "within_1yr_pct": 14.3,
       "1_3yr_pct": 21.4,
       "over_3yr_pct": 64.3
     },
     {
       "type": "酒店住宿",
-      "count": 2,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 50,
-      "over_3yr_pct": 50
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 50.0
     },
     {
       "type": "生活服务",
-      "count": 40,
-      "within_1yr_pct": 20,
+      "count": 40.0,
+      "within_1yr_pct": 20.0,
       "1_3yr_pct": 32.5,
       "over_3yr_pct": 47.5
     },
     {
       "type": "运动健身",
-      "count": 7,
+      "count": 7.0,
       "within_1yr_pct": 28.6,
       "1_3yr_pct": 42.9,
       "over_3yr_pct": 28.6

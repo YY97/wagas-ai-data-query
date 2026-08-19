@@ -13,7 +13,7 @@
     "industry_score": 80.7,
     "annual_sales": "上海利通广场位于虹口区四川北路1350号，紧靠四川北路公园，周边主要交通干道有吴淞路、四平路、海宁路及四川北路。项目为大型办公商业综合体，分B、C两块开发，形成了集购物，休闲，娱乐于一体的综合消费区域",
     "annual_sales_unit": "-",
-    "area_size_sqm": 2,
+    "area_size_sqm": 2.0,
     "open_date": "2012-01-01",
     "operator": "上海利通置业有限公司",
     "brand": "",
@@ -21,25 +21,25 @@
     "floors": "B2-L3"
   },
   "traffic": {
-    "annual_daily": 2877,
+    "annual_daily": 2877.0,
     "annual_daily_unit": "人次",
     "annual_daily_rank": "市内第444",
     "jun_total": 11.5,
     "jun_total_rank": "市内商场第472名",
-    "jun_daily_avg": 3825,
+    "jun_daily_avg": 3825.0,
     "jun_daily_unit": "人次",
     "jun_daily_rank": "市内商场第472名",
-    "weekday_avg": 4298,
+    "weekday_avg": 4298.0,
     "weekday_unit": "人次",
     "weekday_rank": "市内商场第446名",
-    "holiday_avg": 2528,
+    "holiday_avg": 2528.0,
     "holiday_unit": "人次",
     "holiday_rank": "市内商场第521名"
   },
   "population": {
     "residential": {
       "500m": 2.2,
-      "1_5km": 23,
+      "1_5km": 23.0,
       "3km": 94.8
     },
     "office": {
@@ -54,26 +54,26 @@
     }
   },
   "business": {
-    "competitors": 6,
-    "food": 329,
-    "shopping": 170,
-    "leisure": 32,
-    "education": 17,
-    "hotel": 23,
-    "services": 112,
-    "fitness": 13,
-    "auto": 25,
-    "total_stores": 33,
-    "old_store_3yr_pct": 61
+    "competitors": 6.0,
+    "food": 329.0,
+    "shopping": 170.0,
+    "leisure": 32.0,
+    "education": 17.0,
+    "hotel": 23.0,
+    "services": 112.0,
+    "fitness": 13.0,
+    "auto": 25.0,
+    "total_stores": 33.0,
+    "old_store_3yr_pct": 61.0
   },
   "nearby_poi": {
-    "business": 17,
-    "community": 849,
-    "office": 157,
-    "school": 54,
-    "hospital": 156,
-    "transport": 12,
-    "scenic": 705
+    "business": 17.0,
+    "community": 849.0,
+    "office": 157.0,
+    "school": 54.0,
+    "hospital": 156.0,
+    "transport": 12.0,
+    "scenic": 705.0
   },
   "demographics": {
     "male_pct": 49.6,
@@ -82,7 +82,7 @@
       "小学": 9.2,
       "初中": 18.4,
       "高中": 12.4,
-      "大专": 7,
+      "大专": 7.0,
       "本科": 46.6,
       "硕士": 4.7,
       "博士": 1.7
@@ -428,45 +428,45 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 22,
+      "count": 22.0,
       "within_1yr_pct": 27.3,
       "1_3yr_pct": 9.1,
       "over_3yr_pct": 63.6
     },
     {
       "type": "购物",
-      "count": 2,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 100
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
     },
     {
       "type": "教育培训",
-      "count": 1,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 100
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
     },
     {
       "type": "生活服务",
-      "count": 6,
+      "count": 6.0,
       "within_1yr_pct": 16.7,
-      "1_3yr_pct": 50,
+      "1_3yr_pct": 50.0,
       "over_3yr_pct": 33.3
     },
     {
       "type": "运动健身",
-      "count": 1,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 100,
-      "over_3yr_pct": 0
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
     },
     {
       "type": "车辆服务",
-      "count": 1,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 100
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
     }
   ],
   "nearby_communities": [
@@ -1871,7 +1871,7 @@
       "raw": "河滨豪园 户数:284 居住人数:630+ 建筑年份:2000"
     }
   ],
-  "community_count": 200,
   "avg_housing_price": 77086.2,
-  "total_households": 279649
+  "total_households": 279649,
+  "community_count": 200
 }

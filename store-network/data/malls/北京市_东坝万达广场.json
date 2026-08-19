@@ -10,10 +10,10 @@
     "population_score": 84.1,
     "area_score": 75.4,
     "consumption_score": 78.3,
-    "industry_score": 96,
+    "industry_score": 96.0,
     "annual_sales": "北京东坝万达广场是万达商管集团匠心打造的新一代万达广场，整体分为地下4层、地上6层。商场业态覆盖科技、文体、娱乐、美食、购物等各类，将有258个品牌入驻，包括多个首店和定制店品牌。东坝万达广场引入富有南方气韵的“庭院”建筑结构，屋顶设计有大面积空中花园，北京首条空中超长跑道从花园中穿过，为消费者提供一个探索生活的社交空间",
     "annual_sales_unit": "-",
-    "area_size_sqm": 18,
+    "area_size_sqm": 18.0,
     "open_date": "2023-09-28",
     "operator": "珠海万达商业管理集团股份有限公司",
     "brand": "万达",
@@ -43,43 +43,43 @@
       "3km": 24.8
     },
     "office": {
-      "500m": 8800,
+      "500m": 8800.0,
       "1_5km": 4.8,
       "3km": 8.5
     },
     "permanent": {
       "500m": 1.6,
       "1_5km": 13.8,
-      "3km": 23
+      "3km": 23.0
     }
   },
   "business": {
-    "competitors": 6,
-    "food": 174,
-    "shopping": 125,
-    "leisure": 23,
-    "education": 23,
-    "hotel": 4,
-    "services": 69,
-    "fitness": 14,
-    "auto": 10,
-    "total_stores": 287,
-    "old_store_3yr_pct": 48
+    "competitors": 6.0,
+    "food": 174.0,
+    "shopping": 125.0,
+    "leisure": 23.0,
+    "education": 23.0,
+    "hotel": 4.0,
+    "services": 69.0,
+    "fitness": 14.0,
+    "auto": 10.0,
+    "total_stores": 287.0,
+    "old_store_3yr_pct": 48.0
   },
   "nearby_poi": {
-    "business": 1,
-    "community": 107,
-    "office": 5,
-    "school": 31,
-    "hospital": 18,
-    "transport": 5,
-    "scenic": 54
+    "business": 1.0,
+    "community": 107.0,
+    "office": 5.0,
+    "school": 31.0,
+    "hospital": 18.0,
+    "transport": 5.0,
+    "scenic": 54.0
   },
   "demographics": {
     "male_pct": 45.5,
     "female_pct": null,
     "education": {
-      "小学": 10,
+      "小学": 10.0,
       "初中": 16.9,
       "高中": 10.8,
       "大专": 7.5,
@@ -356,59 +356,59 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 114,
+      "count": 114.0,
       "within_1yr_pct": 20.2,
       "1_3yr_pct": 24.6,
       "over_3yr_pct": 55.3
     },
     {
       "type": "购物",
-      "count": 88,
+      "count": 88.0,
       "within_1yr_pct": 19.3,
-      "1_3yr_pct": 25,
+      "1_3yr_pct": 25.0,
       "over_3yr_pct": 55.7
     },
     {
       "type": "休闲娱乐",
-      "count": 20,
-      "within_1yr_pct": 25,
-      "1_3yr_pct": 30,
-      "over_3yr_pct": 45
+      "count": 20.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 30.0,
+      "over_3yr_pct": 45.0
     },
     {
       "type": "教育培训",
-      "count": 13,
+      "count": 13.0,
       "within_1yr_pct": 30.8,
       "1_3yr_pct": 30.8,
       "over_3yr_pct": 38.5
     },
     {
       "type": "酒店住宿",
-      "count": 3,
-      "within_1yr_pct": 0,
+      "count": 3.0,
+      "within_1yr_pct": 0.0,
       "1_3yr_pct": 33.3,
       "over_3yr_pct": 66.7
     },
     {
       "type": "生活服务",
-      "count": 29,
+      "count": 29.0,
       "within_1yr_pct": 44.8,
       "1_3yr_pct": 34.5,
       "over_3yr_pct": 20.7
     },
     {
       "type": "运动健身",
-      "count": 10,
-      "within_1yr_pct": 30,
-      "1_3yr_pct": 40,
-      "over_3yr_pct": 30
+      "count": 10.0,
+      "within_1yr_pct": 30.0,
+      "1_3yr_pct": 40.0,
+      "over_3yr_pct": 30.0
     },
     {
       "type": "车辆服务",
-      "count": 10,
-      "within_1yr_pct": 50,
-      "1_3yr_pct": 40,
-      "over_3yr_pct": 10
+      "count": 10.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 40.0,
+      "over_3yr_pct": 10.0
     }
   ],
   "nearby_communities": [

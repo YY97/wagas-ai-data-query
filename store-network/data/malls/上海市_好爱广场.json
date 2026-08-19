@@ -2,10 +2,10 @@
   "name": "好爱广场",
   "city": "上海市",
   "address": "上海市闵行区莘庄镇喜茶(上海红象汇店)红象汇",
-  "lat": 31.13802,
-  "lng": 121.380348,
+  "lat": 31.087286,
+  "lng": 121.397927,
   "overview": {
-    "score": 85,
+    "score": 85.0,
     "score_rank": "市内前30%",
     "population_score": 74.9,
     "area_score": 63.1,
@@ -13,7 +13,7 @@
     "industry_score": 85.1,
     "annual_sales": "红象汇购物中心位于闵行区虹莘路2077号，以其交通畅达区位优势，成为西上海又一TOD购物中心力作紧贴外环线顾戴路，轨道交通12号线虹莘路站上盖，南邻顾戴路、东靠虹莘路西侧为闵行七宝板块，东侧为古美板块，南侧邻近莘庄板块，北侧毗邻吴中板块3公里内覆盖65万居住人口、32万办公人口，已成为居民生活、商务白领购物消费聚集地红象汇致力于打造一座集家庭生活、亲子成长、商务消费为一体的综合性购物中心B15F分布“缤纷欢聚街”、“品质风尚荟”、“珍馐美馔巷”、“奇趣FUN肆站”、“潮流运动场”五大主题楼层，目前已有50余家品牌商户陆续签约入驻中，囊括时尚、餐饮、服饰、娱乐、儿童、生活服务等丰富业态红象汇中庭打造了一座航天主题城市乐园，祝融号火星车沉浸式探索、神舟十五号运载火箭1:8等比模型、行星书屋徜徉知识海洋，更有太空泡泡池、童趣滑梯等，为大人孩子提供沉浸式新购物、新生活体验",
     "annual_sales_unit": "-",
-    "area_size_sqm": 3,
+    "area_size_sqm": 3.0,
     "open_date": "2023-09-28",
     "operator": "上海今日荣桓商业管理有限公司",
     "brand": "",
@@ -21,29 +21,29 @@
     "floors": "B1-L7"
   },
   "traffic": {
-    "annual_daily": 5507,
+    "annual_daily": 5507.0,
     "annual_daily_unit": "人次",
     "annual_daily_rank": "市内第346",
     "jun_total": 21.5,
     "jun_total_rank": "市内商场第373名",
-    "jun_daily_avg": 7178,
+    "jun_daily_avg": 7178.0,
     "jun_daily_unit": "人次",
     "jun_daily_rank": "市内商场第373名",
-    "weekday_avg": 6883,
+    "weekday_avg": 6883.0,
     "weekday_unit": "人次",
     "weekday_rank": "市内商场第369名",
-    "holiday_avg": 7992,
+    "holiday_avg": 7992.0,
     "holiday_unit": "人次",
     "holiday_rank": "市内商场第368名"
   },
   "population": {
     "residential": {
       "500m": 1.2,
-      "1_5km": 15,
+      "1_5km": 15.0,
       "3km": 63.3
     },
     "office": {
-      "500m": 4600,
+      "500m": 4600.0,
       "1_5km": 5.1,
       "3km": 32.7
     },
@@ -54,26 +54,26 @@
     }
   },
   "business": {
-    "competitors": 3,
-    "food": 32,
-    "shopping": 18,
-    "leisure": 3,
-    "education": 11,
-    "hotel": 4,
-    "services": 17,
-    "fitness": 9,
-    "auto": 5,
-    "total_stores": 39,
-    "old_store_3yr_pct": 46
+    "competitors": 3.0,
+    "food": 32.0,
+    "shopping": 18.0,
+    "leisure": 3.0,
+    "education": 11.0,
+    "hotel": 4.0,
+    "services": 17.0,
+    "fitness": 9.0,
+    "auto": 5.0,
+    "total_stores": 39.0,
+    "old_store_3yr_pct": 46.0
   },
   "nearby_poi": {
-    "business": 3,
-    "community": 322,
-    "office": 7,
-    "school": 32,
-    "hospital": 39,
-    "transport": 10,
-    "scenic": 132
+    "business": 3.0,
+    "community": 322.0,
+    "office": 7.0,
+    "school": 32.0,
+    "hospital": 39.0,
+    "transport": 10.0,
+    "scenic": 132.0
   },
   "demographics": {
     "male_pct": 53.9,
@@ -82,9 +82,9 @@
       "小学": 8.9,
       "初中": 16.1,
       "高中": 10.9,
-      "大专": 7,
+      "大专": 7.0,
       "本科": 49.5,
-      "硕士": 6,
+      "硕士": 6.0,
       "博士": 1.6
     },
     "has_children_pct": 60.3,
@@ -132,52 +132,52 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 16,
+      "count": 16.0,
       "within_1yr_pct": 37.5,
       "1_3yr_pct": 6.3,
       "over_3yr_pct": 56.3
     },
     {
       "type": "购物",
-      "count": 5,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 20,
-      "over_3yr_pct": 80
+      "count": 5.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 20.0,
+      "over_3yr_pct": 80.0
     },
     {
       "type": "休闲娱乐",
-      "count": 1,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 100,
-      "over_3yr_pct": 0
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
     },
     {
       "type": "教育培训",
-      "count": 5,
-      "within_1yr_pct": 60,
-      "1_3yr_pct": 40,
-      "over_3yr_pct": 0
+      "count": 5.0,
+      "within_1yr_pct": 60.0,
+      "1_3yr_pct": 40.0,
+      "over_3yr_pct": 0.0
     },
     {
       "type": "生活服务",
-      "count": 6,
+      "count": 6.0,
       "within_1yr_pct": 33.3,
-      "1_3yr_pct": 50,
+      "1_3yr_pct": 50.0,
       "over_3yr_pct": 16.7
     },
     {
       "type": "运动健身",
-      "count": 4,
-      "within_1yr_pct": 25,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 75
+      "count": 4.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 75.0
     },
     {
       "type": "车辆服务",
-      "count": 2,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 50,
-      "over_3yr_pct": 50
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 50.0
     }
   ],
   "nearby_communities": [

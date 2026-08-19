@@ -7,7 +7,7 @@
   "overview": {
     "score": 76.4,
     "score_rank": "市内前50%",
-    "population_score": 100,
+    "population_score": 100.0,
     "area_score": 84.3,
     "consumption_score": 84.4,
     "industry_score": 76.3,
@@ -39,7 +39,7 @@
   "population": {
     "residential": {
       "500m": 4.4,
-      "1_5km": 31,
+      "1_5km": 31.0,
       "3km": 110.8
     },
     "office": {
@@ -54,26 +54,26 @@
     }
   },
   "business": {
-    "competitors": 6,
-    "food": 235,
-    "shopping": 149,
-    "leisure": 50,
-    "education": 27,
-    "hotel": 53,
-    "services": 211,
-    "fitness": 56,
-    "auto": 17,
-    "total_stores": 36,
-    "old_store_3yr_pct": 42
+    "competitors": 6.0,
+    "food": 235.0,
+    "shopping": 149.0,
+    "leisure": 50.0,
+    "education": 27.0,
+    "hotel": 53.0,
+    "services": 211.0,
+    "fitness": 56.0,
+    "auto": 17.0,
+    "total_stores": 36.0,
+    "old_store_3yr_pct": 42.0
   },
   "nearby_poi": {
-    "business": 15,
-    "community": 1158,
-    "office": 148,
-    "school": 79,
-    "hospital": 165,
-    "transport": 17,
-    "scenic": 580
+    "business": 15.0,
+    "community": 1158.0,
+    "office": 148.0,
+    "school": 79.0,
+    "hospital": 165.0,
+    "transport": 17.0,
+    "scenic": 580.0
   },
   "demographics": {
     "male_pct": 47.1,
@@ -428,45 +428,45 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 17,
+      "count": 17.0,
       "within_1yr_pct": 47.1,
       "1_3yr_pct": 23.5,
       "over_3yr_pct": 29.4
     },
     {
       "type": "购物",
-      "count": 4,
-      "within_1yr_pct": 25,
-      "1_3yr_pct": 25,
-      "over_3yr_pct": 50
+      "count": 4.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 50.0
     },
     {
       "type": "酒店住宿",
-      "count": 1,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 100
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
     },
     {
       "type": "生活服务",
-      "count": 8,
+      "count": 8.0,
       "within_1yr_pct": 37.5,
       "1_3yr_pct": 37.5,
-      "over_3yr_pct": 25
+      "over_3yr_pct": 25.0
     },
     {
       "type": "运动健身",
-      "count": 5,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 20,
-      "over_3yr_pct": 80
+      "count": 5.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 20.0,
+      "over_3yr_pct": 80.0
     },
     {
       "type": "车辆服务",
-      "count": 1,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 100
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
     }
   ],
   "nearby_communities": [
@@ -4671,7 +4671,7 @@
       "raw": "黎金苑 户数:877 居住人数:2924 建筑年份:1998"
     }
   ],
-  "community_count": 600,
   "avg_housing_price": 91617.7,
-  "total_households": 392974
+  "total_households": 392974,
+  "community_count": 600
 }

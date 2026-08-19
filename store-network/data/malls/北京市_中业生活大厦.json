@@ -8,7 +8,7 @@
     "score": 92.7,
     "score_rank": "市内前30%",
     "population_score": 85.8,
-    "area_score": 100,
+    "area_score": 100.0,
     "consumption_score": 81.1,
     "industry_score": 92.7,
     "annual_sales": "位于北京市朝阳区建国路93号院万达广场，项目交通便利道路四通八达区位优势明显，周边人口密集客流量大，集休闲、购物为一体。项目整体的于2006年4月开业，面对不断变化的市场环境，不断调整经营理念和营销模式.",
@@ -50,30 +50,30 @@
     "permanent": {
       "500m": 2.9,
       "1_5km": 19.3,
-      "3km": 82
+      "3km": 82.0
     }
   },
   "business": {
-    "competitors": 16,
-    "food": 408,
-    "shopping": 227,
-    "leisure": 27,
-    "education": 41,
-    "hotel": 37,
-    "services": 376,
-    "fitness": 59,
-    "auto": 42,
-    "total_stores": 436,
-    "old_store_3yr_pct": 44
+    "competitors": 16.0,
+    "food": 408.0,
+    "shopping": 227.0,
+    "leisure": 27.0,
+    "education": 41.0,
+    "hotel": 37.0,
+    "services": 376.0,
+    "fitness": 59.0,
+    "auto": 42.0,
+    "total_stores": 436.0,
+    "old_store_3yr_pct": 44.0
   },
   "nearby_poi": {
-    "business": 10,
-    "community": 432,
-    "office": 138,
-    "school": 29,
-    "hospital": 169,
-    "transport": 17,
-    "scenic": 238
+    "business": 10.0,
+    "community": 432.0,
+    "office": 138.0,
+    "school": 29.0,
+    "hospital": 169.0,
+    "transport": 17.0,
+    "scenic": 238.0
   },
   "demographics": {
     "male_pct": 51.8,
@@ -137,59 +137,59 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 102,
+      "count": 102.0,
       "within_1yr_pct": 29.4,
       "1_3yr_pct": 33.3,
       "over_3yr_pct": 37.3
     },
     {
       "type": "购物",
-      "count": 72,
+      "count": 72.0,
       "within_1yr_pct": 22.2,
-      "1_3yr_pct": 25,
+      "1_3yr_pct": 25.0,
       "over_3yr_pct": 52.8
     },
     {
       "type": "休闲娱乐",
-      "count": 21,
+      "count": 21.0,
       "within_1yr_pct": 14.3,
       "1_3yr_pct": 33.3,
       "over_3yr_pct": 52.4
     },
     {
       "type": "教育培训",
-      "count": 13,
+      "count": 13.0,
       "within_1yr_pct": 23.1,
       "1_3yr_pct": 46.2,
       "over_3yr_pct": 30.8
     },
     {
       "type": "酒店住宿",
-      "count": 15,
+      "count": 15.0,
       "within_1yr_pct": 33.3,
-      "1_3yr_pct": 20,
+      "1_3yr_pct": 20.0,
       "over_3yr_pct": 46.7
     },
     {
       "type": "生活服务",
-      "count": 185,
+      "count": 185.0,
       "within_1yr_pct": 28.6,
       "1_3yr_pct": 27.6,
       "over_3yr_pct": 43.8
     },
     {
       "type": "运动健身",
-      "count": 22,
+      "count": 22.0,
       "within_1yr_pct": 27.3,
       "1_3yr_pct": 27.3,
       "over_3yr_pct": 45.5
     },
     {
       "type": "车辆服务",
-      "count": 6,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 50,
-      "over_3yr_pct": 50
+      "count": 6.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 50.0
     }
   ],
   "nearby_communities": [

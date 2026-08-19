@@ -2,8 +2,8 @@
   "name": "阳光新生活广场",
   "city": "北京市",
   "address": "上海市宝山区共和新路5219号",
-  "lat": null,
-  "lng": null,
+  "lat": 39.889653,
+  "lng": 116.656179,
   "overview": {
     "score": 89.8,
     "score_rank": "市内前30%",
@@ -13,7 +13,7 @@
     "industry_score": 89.8,
     "annual_sales": "龙湖上海宝山天街是龙湖集团布局上海的第二座天街系城市商业综合体，位于上海“新顾城”板块核心区域，辐射常驻人口达40万，项目涵盖了亲子、零售、餐饮、休闲娱乐等全业态布局",
     "annual_sales_unit": "-",
-    "area_size_sqm": 4,
+    "area_size_sqm": 4.0,
     "open_date": "2017-12-16",
     "operator": "龙湖集团控股有限公司",
     "brand": "",
@@ -26,24 +26,24 @@
     "annual_daily_rank": "",
     "jun_total": 19.7,
     "jun_total_rank": "市内商场第387名",
-    "jun_daily_avg": 6564,
+    "jun_daily_avg": 6564.0,
     "jun_daily_unit": "人次",
     "jun_daily_rank": "市内商场第387名",
-    "weekday_avg": 6010,
+    "weekday_avg": 6010.0,
     "weekday_unit": "人次",
     "weekday_rank": "市内商场第393名",
-    "holiday_avg": 8081,
+    "holiday_avg": 8081.0,
     "holiday_unit": "人次",
     "holiday_rank": "市内商场第367名"
   },
   "population": {
     "residential": {
       "500m": 2.9,
-      "1_5km": 30,
+      "1_5km": 30.0,
       "3km": 84.2
     },
     "office": {
-      "500m": 2,
+      "500m": 2.0,
       "1_5km": 12.2,
       "3km": 34.6
     },
@@ -54,26 +54,26 @@
     }
   },
   "business": {
-    "competitors": 7,
-    "food": 364,
-    "shopping": 275,
-    "leisure": 80,
-    "education": 80,
-    "hotel": 21,
-    "services": 369,
-    "fitness": 37,
-    "auto": 40,
-    "total_stores": 101,
-    "old_store_3yr_pct": 29
+    "competitors": 7.0,
+    "food": 364.0,
+    "shopping": 275.0,
+    "leisure": 80.0,
+    "education": 80.0,
+    "hotel": 21.0,
+    "services": 369.0,
+    "fitness": 37.0,
+    "auto": 40.0,
+    "total_stores": 101.0,
+    "old_store_3yr_pct": 29.0
   },
   "nearby_poi": {
-    "business": 7,
-    "community": 332,
-    "office": 21,
-    "school": 50,
-    "hospital": 48,
-    "transport": 10,
-    "scenic": 93
+    "business": 7.0,
+    "community": 332.0,
+    "office": 21.0,
+    "school": 50.0,
+    "hospital": 48.0,
+    "transport": 10.0,
+    "scenic": 93.0
   },
   "demographics": {
     "male_pct": 45.6,
@@ -174,52 +174,52 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 61,
+      "count": 61.0,
       "within_1yr_pct": 32.8,
-      "1_3yr_pct": 41,
+      "1_3yr_pct": 41.0,
       "over_3yr_pct": 26.2
     },
     {
       "type": "购物",
-      "count": 12,
+      "count": 12.0,
       "within_1yr_pct": 8.3,
-      "1_3yr_pct": 50,
+      "1_3yr_pct": 50.0,
       "over_3yr_pct": 41.7
     },
     {
       "type": "休闲娱乐",
-      "count": 1,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 100,
-      "over_3yr_pct": 0
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
     },
     {
       "type": "教育培训",
-      "count": 8,
+      "count": 8.0,
       "within_1yr_pct": 12.5,
       "1_3yr_pct": 62.5,
-      "over_3yr_pct": 25
+      "over_3yr_pct": 25.0
     },
     {
       "type": "生活服务",
-      "count": 11,
+      "count": 11.0,
       "within_1yr_pct": 27.3,
       "1_3yr_pct": 54.5,
       "over_3yr_pct": 18.2
     },
     {
       "type": "运动健身",
-      "count": 6,
-      "within_1yr_pct": 50,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 50
+      "count": 6.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 50.0
     },
     {
       "type": "车辆服务",
-      "count": 2,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 50,
-      "over_3yr_pct": 50
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 50.0
     }
   ],
   "nearby_communities": [

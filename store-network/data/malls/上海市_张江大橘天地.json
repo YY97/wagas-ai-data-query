@@ -2,8 +2,8 @@
   "name": "张江大橘天地",
   "city": "上海市",
   "address": "上海市宝山区水产路1617号",
-  "lat": 31.376948,
-  "lng": 121.470785,
+  "lat": 31.203853,
+  "lng": 121.638501,
   "overview": {
     "score": 83.6,
     "score_rank": "市内前30%",
@@ -13,7 +13,7 @@
     "industry_score": 83.6,
     "annual_sales": "上海北翼生活广场位于宝山区杨行镇水产路2449号，是一个集餐饮美食、教育培训、休闲娱乐等商家于一体的商业综合体广场万达影院领衔，星巴克、肯德基、巴黎贝甜、音维爱KTV、凯瑞宝贝、京世造型等多家品牌商户入驻，致力于为周边社区创造更美好的生活品质广场毗邻轨交1号线（宝安公路站）、南北高架和外环线，周边多条公交线路，交通便利三幢独立建筑围合成一组开放式商业街，阳光天棚、挑高中庭、双向展示面、环形连廊，引领宝山杨行地区体验式邻里生活中心新潮流，营造慢调生活地",
     "annual_sales_unit": "-",
-    "area_size_sqm": 2,
+    "area_size_sqm": 2.0,
     "open_date": "2017-11-02",
     "operator": "上海北翼（集团）有限公司",
     "brand": "",
@@ -21,7 +21,7 @@
     "floors": "L1-L3"
   },
   "traffic": {
-    "annual_daily": 9370,
+    "annual_daily": 9370.0,
     "annual_daily_unit": "人次",
     "annual_daily_rank": "市内第263",
     "jun_total": 41.5,
@@ -40,7 +40,7 @@
     "residential": {
       "500m": 2.4,
       "1_5km": 15.6,
-      "3km": 43
+      "3km": 43.0
     },
     "office": {
       "500m": 1.1,
@@ -54,26 +54,26 @@
     }
   },
   "business": {
-    "competitors": 4,
-    "food": 98,
-    "shopping": 57,
-    "leisure": 11,
-    "education": 27,
-    "hotel": 10,
-    "services": 71,
-    "fitness": 23,
-    "auto": 23,
-    "total_stores": 35,
-    "old_store_3yr_pct": 49
+    "competitors": 4.0,
+    "food": 98.0,
+    "shopping": 57.0,
+    "leisure": 11.0,
+    "education": 27.0,
+    "hotel": 10.0,
+    "services": 71.0,
+    "fitness": 23.0,
+    "auto": 23.0,
+    "total_stores": 35.0,
+    "old_store_3yr_pct": 49.0
   },
   "nearby_poi": {
-    "business": 1,
-    "community": 130,
-    "office": 7,
-    "school": 16,
-    "hospital": 14,
-    "transport": 14,
-    "scenic": 48
+    "business": 1.0,
+    "community": 130.0,
+    "office": 7.0,
+    "school": 16.0,
+    "hospital": 14.0,
+    "transport": 14.0,
+    "scenic": 48.0
   },
   "demographics": {
     "male_pct": 53.1,
@@ -146,59 +146,59 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 14,
+      "count": 14.0,
       "within_1yr_pct": 28.6,
       "1_3yr_pct": 21.4,
-      "over_3yr_pct": 50
+      "over_3yr_pct": 50.0
     },
     {
       "type": "购物",
-      "count": 4,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 25,
-      "over_3yr_pct": 75
+      "count": 4.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 75.0
     },
     {
       "type": "休闲娱乐",
-      "count": 5,
-      "within_1yr_pct": 20,
-      "1_3yr_pct": 40,
-      "over_3yr_pct": 40
+      "count": 5.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 40.0,
+      "over_3yr_pct": 40.0
     },
     {
       "type": "教育培训",
-      "count": 2,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 100
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
     },
     {
       "type": "酒店住宿",
-      "count": 1,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 100
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
     },
     {
       "type": "生活服务",
-      "count": 3,
-      "within_1yr_pct": 0,
+      "count": 3.0,
+      "within_1yr_pct": 0.0,
       "1_3yr_pct": 66.7,
       "over_3yr_pct": 33.3
     },
     {
       "type": "运动健身",
-      "count": 5,
-      "within_1yr_pct": 20,
-      "1_3yr_pct": 60,
-      "over_3yr_pct": 20
+      "count": 5.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 60.0,
+      "over_3yr_pct": 20.0
     },
     {
       "type": "车辆服务",
-      "count": 1,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 100,
-      "over_3yr_pct": 0
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
     }
   ],
   "nearby_communities": [

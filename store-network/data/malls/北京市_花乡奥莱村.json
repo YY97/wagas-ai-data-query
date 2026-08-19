@@ -2,18 +2,18 @@
   "name": "花乡奥莱村",
   "city": "北京市",
   "address": "上海市长宁区娄山关路555号(娄山关路地铁站3号口步行140米)",
-  "lat": null,
-  "lng": null,
+  "lat": 39.827593,
+  "lng": 116.324004,
   "overview": {
     "score": 94.4,
     "score_rank": "市内前30%",
-    "population_score": 100,
-    "area_score": 97,
+    "population_score": 100.0,
+    "area_score": 97.0,
     "consumption_score": 76.3,
     "industry_score": 94.4,
     "annual_sales": "上海百盛优客城市广场是百盛商业集团与韩国衣恋集团联手打造的首个City Mall城市广场，集聚国际大牌折扣店、前沿时尚品牌及创意个性潮物，多年来，凭借“价实质优，玩购一体”的特点，深受消费者喜爱",
     "annual_sales_unit": "-",
-    "area_size_sqm": 5,
+    "area_size_sqm": 5.0,
     "open_date": "2015-12-19",
     "operator": "百盛商业集团有限公司",
     "brand": "",
@@ -26,7 +26,7 @@
     "annual_daily_rank": "市内第144",
     "jun_total": 88.9,
     "jun_total_rank": "市内商场第136名",
-    "jun_daily_avg": 3,
+    "jun_daily_avg": 3.0,
     "jun_daily_unit": "万人次",
     "jun_daily_rank": "市内商场第136名",
     "weekday_avg": 2.7,
@@ -44,36 +44,36 @@
     },
     "office": {
       "500m": 4.4,
-      "1_5km": 21,
+      "1_5km": 21.0,
       "3km": 68.3
     },
     "permanent": {
       "500m": 5.3,
-      "1_5km": 27,
+      "1_5km": 27.0,
       "3km": 92.7
     }
   },
   "business": {
-    "competitors": 20,
-    "food": 539,
-    "shopping": 333,
-    "leisure": 27,
-    "education": 41,
-    "hotel": 37,
-    "services": 262,
-    "fitness": 57,
-    "auto": 30,
-    "total_stores": 184,
-    "old_store_3yr_pct": 63
+    "competitors": 20.0,
+    "food": 539.0,
+    "shopping": 333.0,
+    "leisure": 27.0,
+    "education": 41.0,
+    "hotel": 37.0,
+    "services": 262.0,
+    "fitness": 57.0,
+    "auto": 30.0,
+    "total_stores": 184.0,
+    "old_store_3yr_pct": 63.0
   },
   "nearby_poi": {
-    "business": 12,
-    "community": 806,
-    "office": 93,
-    "school": 48,
-    "hospital": 140,
-    "transport": 14,
-    "scenic": 315
+    "business": 12.0,
+    "community": 806.0,
+    "office": 93.0,
+    "school": 48.0,
+    "hospital": 140.0,
+    "transport": 14.0,
+    "scenic": 315.0
   },
   "demographics": {
     "male_pct": 46.8,
@@ -153,45 +153,45 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 57,
+      "count": 57.0,
       "within_1yr_pct": 26.3,
       "1_3yr_pct": 12.3,
       "over_3yr_pct": 61.4
     },
     {
       "type": "购物",
-      "count": 108,
+      "count": 108.0,
       "within_1yr_pct": 18.5,
       "1_3yr_pct": 19.4,
-      "over_3yr_pct": 62
+      "over_3yr_pct": 62.0
     },
     {
       "type": "休闲娱乐",
-      "count": 2,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 50,
-      "over_3yr_pct": 50
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 50.0
     },
     {
       "type": "酒店住宿",
-      "count": 8,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 100
+      "count": 8.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
     },
     {
       "type": "生活服务",
-      "count": 7,
+      "count": 7.0,
       "within_1yr_pct": 28.6,
       "1_3yr_pct": 28.6,
       "over_3yr_pct": 42.9
     },
     {
       "type": "车辆服务",
-      "count": 2,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 100
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
     }
   ],
   "nearby_communities": [

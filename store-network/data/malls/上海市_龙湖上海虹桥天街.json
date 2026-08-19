@@ -8,8 +8,8 @@
     "score": 95.4,
     "score_rank": "市内前30%",
     "population_score": 63.8,
-    "area_score": 89,
-    "consumption_score": 60,
+    "area_score": 89.0,
+    "consumption_score": 60.0,
     "industry_score": 95.6,
     "annual_sales": "龙湖虹桥天街位于闵行区虹桥商务区版块，项目紧邻区域内两大功能性项目——虹桥枢纽站，国家会展中心。项目周边有地铁2号线和10号线虹桥火车站站。龙湖虹桥天街共有一站式中高端购物中心、中岛特色商业街、奢华精品酒店等4种业态形式组成，总建筑面积达43万方。其中写字楼均是地下2层、地上9层设计，1-2层为商业，3-9层为办公楼。",
     "annual_sales_unit": "-",
@@ -21,7 +21,7 @@
     "floors": "B2-L6"
   },
   "traffic": {
-    "annual_daily": 3,
+    "annual_daily": 3.0,
     "annual_daily_unit": "万人次",
     "annual_daily_rank": "市内第84",
     "jun_total": 109.9,
@@ -38,14 +38,14 @@
   },
   "population": {
     "residential": {
-      "500m": 3200,
-      "1_5km": 3,
+      "500m": 3200.0,
+      "1_5km": 3.0,
       "3km": 23.2
     },
     "office": {
-      "500m": 3,
+      "500m": 3.0,
       "1_5km": 9.3,
-      "3km": 22
+      "3km": 22.0
     },
     "permanent": {
       "500m": 1.5,
@@ -54,26 +54,26 @@
     }
   },
   "business": {
-    "competitors": 15,
-    "food": 396,
-    "shopping": 234,
-    "leisure": 35,
-    "education": 13,
-    "hotel": 19,
-    "services": 157,
-    "fitness": 20,
-    "auto": 35,
-    "total_stores": 411,
-    "old_store_3yr_pct": 45
+    "competitors": 15.0,
+    "food": 396.0,
+    "shopping": 234.0,
+    "leisure": 35.0,
+    "education": 13.0,
+    "hotel": 19.0,
+    "services": 157.0,
+    "fitness": 20.0,
+    "auto": 35.0,
+    "total_stores": 411.0,
+    "old_store_3yr_pct": 45.0
   },
   "nearby_poi": {
-    "business": 4,
-    "community": 105,
-    "office": 48,
-    "school": 3,
-    "hospital": 40,
-    "transport": 14,
-    "scenic": 34
+    "business": 4.0,
+    "community": 105.0,
+    "office": 48.0,
+    "school": 3.0,
+    "hospital": 40.0,
+    "transport": 14.0,
+    "scenic": 34.0
   },
   "demographics": {
     "male_pct": 54.2,
@@ -87,8 +87,8 @@
       "硕士": 4.3,
       "博士": 0.8
     },
-    "has_children_pct": 58,
-    "no_children_pct": 42
+    "has_children_pct": 58.0,
+    "no_children_pct": 42.0
   },
   "scraped_at": "2026-08-01T04:55:48.690Z",
   "nearby_restaurants": [
@@ -380,59 +380,59 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 195,
-      "within_1yr_pct": 19,
+      "count": 195.0,
+      "within_1yr_pct": 19.0,
       "1_3yr_pct": 34.4,
       "over_3yr_pct": 46.7
     },
     {
       "type": "购物",
-      "count": 79,
+      "count": 79.0,
       "within_1yr_pct": 16.5,
       "1_3yr_pct": 32.9,
       "over_3yr_pct": 50.6
     },
     {
       "type": "休闲娱乐",
-      "count": 24,
+      "count": 24.0,
       "within_1yr_pct": 16.7,
-      "1_3yr_pct": 50,
+      "1_3yr_pct": 50.0,
       "over_3yr_pct": 33.3
     },
     {
       "type": "教育培训",
-      "count": 6,
-      "within_1yr_pct": 0,
+      "count": 6.0,
+      "within_1yr_pct": 0.0,
       "1_3yr_pct": 66.7,
       "over_3yr_pct": 33.3
     },
     {
       "type": "酒店住宿",
-      "count": 3,
+      "count": 3.0,
       "within_1yr_pct": 33.3,
-      "1_3yr_pct": 0,
+      "1_3yr_pct": 0.0,
       "over_3yr_pct": 66.7
     },
     {
       "type": "生活服务",
-      "count": 80,
+      "count": 80.0,
       "within_1yr_pct": 18.8,
-      "1_3yr_pct": 35,
+      "1_3yr_pct": 35.0,
       "over_3yr_pct": 46.3
     },
     {
       "type": "运动健身",
-      "count": 12,
+      "count": 12.0,
       "within_1yr_pct": 16.7,
-      "1_3yr_pct": 50,
+      "1_3yr_pct": 50.0,
       "over_3yr_pct": 33.3
     },
     {
       "type": "车辆服务",
-      "count": 12,
+      "count": 12.0,
       "within_1yr_pct": 41.7,
       "1_3yr_pct": 33.3,
-      "over_3yr_pct": 25
+      "over_3yr_pct": 25.0
     }
   ],
   "nearby_communities": [

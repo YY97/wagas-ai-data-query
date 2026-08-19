@@ -2,18 +2,18 @@
   "name": "王府井喜悦购物中心",
   "city": "北京市",
   "address": "北京市东城区王府井大街301-1号",
-  "lat": 39.91091,
-  "lng": 116.411792,
+  "lat": 39.910338,
+  "lng": 116.411047,
   "overview": {
-    "score": 95,
+    "score": 95.0,
     "score_rank": "市内前30%",
     "population_score": 75.1,
-    "area_score": 100,
+    "area_score": 100.0,
     "consumption_score": 94.7,
     "industry_score": 95.1,
     "annual_sales": "王府井喜悦购物中心位于北京王府井大街，总建筑面积7.8万平方米，共九层，与地铁1号线及8号线王府井站接驳。项目是北京国际消费中心城市建设重点项目，同时也是首旅集团和王府井集团双背景资源加持下的首个新国潮主理人互创共生项目。项目涵盖71家北京首店，61家王府井区域首进店，并且囊括多个明星品牌及米其林餐厅等多文化融合业态",
     "annual_sales_unit": "-",
-    "area_size_sqm": 7,
+    "area_size_sqm": 7.0,
     "open_date": "2023-12-30",
     "operator": "王府井集团股份有限公司",
     "brand": "王府井",
@@ -38,42 +38,42 @@
   },
   "population": {
     "residential": {
-      "500m": 1,
+      "500m": 1.0,
       "1_5km": 11.2,
-      "3km": 56
+      "3km": 56.0
     },
     "office": {
       "500m": 3.7,
-      "1_5km": 18,
+      "1_5km": 18.0,
       "3km": 58.4
     },
     "permanent": {
-      "500m": 3,
+      "500m": 3.0,
       "1_5km": 17.4,
       "3km": 67.8
     }
   },
   "business": {
-    "competitors": 12,
-    "food": 422,
-    "shopping": 746,
-    "leisure": 36,
-    "education": 10,
-    "hotel": 49,
-    "services": 120,
-    "fitness": 11,
-    "auto": 24,
-    "total_stores": 218,
-    "old_store_3yr_pct": 29
+    "competitors": 12.0,
+    "food": 422.0,
+    "shopping": 746.0,
+    "leisure": 36.0,
+    "education": 10.0,
+    "hotel": 49.0,
+    "services": 120.0,
+    "fitness": 11.0,
+    "auto": 24.0,
+    "total_stores": 218.0,
+    "old_store_3yr_pct": 29.0
   },
   "nearby_poi": {
-    "business": 14,
-    "community": 304,
-    "office": 74,
-    "school": 39,
-    "hospital": 117,
-    "transport": 9,
-    "scenic": 1033
+    "business": 14.0,
+    "community": 304.0,
+    "office": 74.0,
+    "school": 39.0,
+    "hospital": 117.0,
+    "transport": 9.0,
+    "scenic": 1033.0
   },
   "demographics": {
     "male_pct": 47.1,
@@ -428,45 +428,45 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 98,
+      "count": 98.0,
       "within_1yr_pct": 30.6,
       "1_3yr_pct": 33.7,
       "over_3yr_pct": 35.7
     },
     {
       "type": "购物",
-      "count": 94,
+      "count": 94.0,
       "within_1yr_pct": 30.9,
       "1_3yr_pct": 44.7,
       "over_3yr_pct": 24.5
     },
     {
       "type": "休闲娱乐",
-      "count": 12,
-      "within_1yr_pct": 75,
+      "count": 12.0,
+      "within_1yr_pct": 75.0,
       "1_3yr_pct": 16.7,
       "over_3yr_pct": 8.3
     },
     {
       "type": "教育培训",
-      "count": 1,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 100,
-      "over_3yr_pct": 0
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
     },
     {
       "type": "生活服务",
-      "count": 12,
-      "within_1yr_pct": 25,
+      "count": 12.0,
+      "within_1yr_pct": 25.0,
       "1_3yr_pct": 41.7,
       "over_3yr_pct": 33.3
     },
     {
       "type": "运动健身",
-      "count": 1,
-      "within_1yr_pct": 100,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 0
+      "count": 1.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
     }
   ],
   "nearby_communities": [

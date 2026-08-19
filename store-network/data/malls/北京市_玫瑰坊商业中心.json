@@ -2,13 +2,13 @@
   "name": "玫瑰坊商业中心",
   "city": "北京市",
   "address": "上海市静安区南京西路街道恒隆广场上海恒隆广场",
-  "lat": null,
-  "lng": null,
+  "lat": 39.880921,
+  "lng": 116.682355,
   "overview": {
     "score": 88.5,
     "score_rank": "市内前30%",
-    "population_score": 86,
-    "area_score": 100,
+    "population_score": 86.0,
+    "area_score": 100.0,
     "consumption_score": 87.9,
     "industry_score": 88.5,
     "annual_sales": "171",
@@ -32,13 +32,13 @@
     "weekday_avg": 2.2,
     "weekday_unit": "万人次",
     "weekday_rank": "市内商场第163名",
-    "holiday_avg": 2,
+    "holiday_avg": 2.0,
     "holiday_unit": "万人次",
     "holiday_rank": "市内商场第211名"
   },
   "population": {
     "residential": {
-      "500m": 2,
+      "500m": 2.0,
       "1_5km": 21.6,
       "3km": 94.7
     },
@@ -54,26 +54,26 @@
     }
   },
   "business": {
-    "competitors": 25,
-    "food": 449,
-    "shopping": 441,
-    "leisure": 22,
-    "education": 29,
-    "hotel": 98,
-    "services": 255,
-    "fitness": 31,
-    "auto": 36,
-    "total_stores": 188,
-    "old_store_3yr_pct": 47
+    "competitors": 25.0,
+    "food": 449.0,
+    "shopping": 441.0,
+    "leisure": 22.0,
+    "education": 29.0,
+    "hotel": 98.0,
+    "services": 255.0,
+    "fitness": 31.0,
+    "auto": 36.0,
+    "total_stores": 188.0,
+    "old_store_3yr_pct": 47.0
   },
   "nearby_poi": {
-    "business": 22,
-    "community": 1215,
-    "office": 223,
-    "school": 75,
-    "hospital": 218,
-    "transport": 13,
-    "scenic": 777
+    "business": 22.0,
+    "community": 1215.0,
+    "office": 223.0,
+    "school": 75.0,
+    "hospital": 218.0,
+    "transport": 13.0,
+    "scenic": 777.0
   },
   "demographics": {
     "male_pct": 51.2,
@@ -96,51 +96,51 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 24,
+      "count": 24.0,
       "within_1yr_pct": 20.8,
       "1_3yr_pct": 37.5,
       "over_3yr_pct": 41.7
     },
     {
       "type": "购物",
-      "count": 124,
+      "count": 124.0,
       "within_1yr_pct": 16.1,
       "1_3yr_pct": 29.8,
-      "over_3yr_pct": 54
+      "over_3yr_pct": 54.0
     },
     {
       "type": "休闲娱乐",
-      "count": 4,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 100,
-      "over_3yr_pct": 0
+      "count": 4.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
     },
     {
       "type": "教育培训",
-      "count": 3,
+      "count": 3.0,
       "within_1yr_pct": 33.3,
       "1_3yr_pct": 33.3,
       "over_3yr_pct": 33.3
     },
     {
       "type": "酒店住宿",
-      "count": 1,
-      "within_1yr_pct": 100,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 0
+      "count": 1.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
     },
     {
       "type": "生活服务",
-      "count": 26,
+      "count": 26.0,
       "within_1yr_pct": 34.6,
       "1_3yr_pct": 26.9,
       "over_3yr_pct": 38.5
     },
     {
       "type": "车辆服务",
-      "count": 6,
+      "count": 6.0,
       "within_1yr_pct": 83.3,
-      "1_3yr_pct": 0,
+      "1_3yr_pct": 0.0,
       "over_3yr_pct": 16.7
     }
   ],

@@ -2,12 +2,12 @@
   "name": "和胤788广场",
   "city": "上海市",
   "address": "上海市普陀区甘泉路街道99旅馆(上海延长路店)展宏大厦",
-  "lat": 31.261797,
-  "lng": 121.437033,
+  "lat": 31.232623,
+  "lng": 121.398727,
   "overview": {
     "score": 78.4,
     "score_rank": "市内前30%",
-    "population_score": 100,
+    "population_score": 100.0,
     "area_score": 71.6,
     "consumption_score": 71.3,
     "industry_score": 78.4,
@@ -39,7 +39,7 @@
   "population": {
     "residential": {
       "500m": 4.8,
-      "1_5km": 35,
+      "1_5km": 35.0,
       "3km": 118.1
     },
     "office": {
@@ -48,32 +48,32 @@
       "3km": 67.4
     },
     "permanent": {
-      "500m": 5,
+      "500m": 5.0,
       "1_5km": 35.6,
       "3km": 126.2
     }
   },
   "business": {
-    "competitors": 1,
-    "food": 133,
-    "shopping": 78,
-    "leisure": 16,
-    "education": 8,
-    "hotel": 16,
-    "services": 99,
-    "fitness": 10,
-    "auto": 6,
-    "total_stores": 366,
-    "old_store_3yr_pct": 55
+    "competitors": 1.0,
+    "food": 133.0,
+    "shopping": 78.0,
+    "leisure": 16.0,
+    "education": 8.0,
+    "hotel": 16.0,
+    "services": 99.0,
+    "fitness": 10.0,
+    "auto": 6.0,
+    "total_stores": 366.0,
+    "old_store_3yr_pct": 55.0
   },
   "nearby_poi": {
-    "business": 3,
-    "community": 686,
-    "office": 46,
-    "school": 66,
-    "hospital": 105,
-    "transport": 11,
-    "scenic": 183
+    "business": 3.0,
+    "community": 686.0,
+    "office": 46.0,
+    "school": 66.0,
+    "hospital": 105.0,
+    "transport": 11.0,
+    "scenic": 183.0
   },
   "demographics": {
     "male_pct": 48.7,
@@ -84,7 +84,7 @@
       "高中": 11.7,
       "大专": 7.1,
       "本科": 47.8,
-      "硕士": 4,
+      "硕士": 4.0,
       "博士": 1.6
     },
     "has_children_pct": null,
@@ -127,57 +127,57 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 133,
+      "count": 133.0,
       "within_1yr_pct": 23.3,
       "1_3yr_pct": 24.1,
       "over_3yr_pct": 52.6
     },
     {
       "type": "购物",
-      "count": 78,
+      "count": 78.0,
       "within_1yr_pct": 16.7,
       "1_3yr_pct": 26.9,
       "over_3yr_pct": 56.4
     },
     {
       "type": "休闲娱乐",
-      "count": 16,
+      "count": 16.0,
       "within_1yr_pct": 31.3,
-      "1_3yr_pct": 0,
+      "1_3yr_pct": 0.0,
       "over_3yr_pct": 68.8
     },
     {
       "type": "教育培训",
-      "count": 8,
-      "within_1yr_pct": 25,
+      "count": 8.0,
+      "within_1yr_pct": 25.0,
       "1_3yr_pct": 37.5,
       "over_3yr_pct": 37.5
     },
     {
       "type": "酒店住宿",
-      "count": 16,
-      "within_1yr_pct": 25,
+      "count": 16.0,
+      "within_1yr_pct": 25.0,
       "1_3yr_pct": 31.3,
       "over_3yr_pct": 43.8
     },
     {
       "type": "生活服务",
-      "count": 99,
+      "count": 99.0,
       "within_1yr_pct": 18.2,
       "1_3yr_pct": 27.3,
       "over_3yr_pct": 54.5
     },
     {
       "type": "运动健身",
-      "count": 10,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 20,
-      "over_3yr_pct": 80
+      "count": 10.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 20.0,
+      "over_3yr_pct": 80.0
     },
     {
       "type": "车辆服务",
-      "count": 6,
-      "within_1yr_pct": 0,
+      "count": 6.0,
+      "within_1yr_pct": 0.0,
       "1_3yr_pct": 33.3,
       "over_3yr_pct": 66.7
     }

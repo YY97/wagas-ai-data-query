@@ -7,13 +7,13 @@
   "overview": {
     "score": 80.2,
     "score_rank": "市内前30%",
-    "population_score": 90,
+    "population_score": 90.0,
     "area_score": 80.4,
     "consumption_score": 89.6,
     "industry_score": 80.2,
     "annual_sales": "北京金宝汇购物中心位于北京东单、王府井核心地段，总建筑面积逾6万平方米，分地下四层，地上七层。聚合国际精品服饰、高级时装定制、名表珠宝、国际影院、高端餐饮及主题休闲餐饮、意大利家居、美容健身等生活服务，致力将优质生活方式和时尚品味完美融合，以精致定制生活，以艺术升华体验，为宾客精心搭建360度全方位“高品质精致生活中心",
     "annual_sales_unit": "-",
-    "area_size_sqm": 4,
+    "area_size_sqm": 4.0,
     "open_date": "2009-05-01",
     "operator": "富华国际集团",
     "brand": "",
@@ -21,7 +21,7 @@
     "floors": "B1-L7"
   },
   "traffic": {
-    "annual_daily": 9123,
+    "annual_daily": 9123.0,
     "annual_daily_unit": "人次",
     "annual_daily_rank": "市内第223",
     "jun_total": 38.9,
@@ -54,26 +54,26 @@
     }
   },
   "business": {
-    "competitors": 3,
-    "food": 194,
-    "shopping": 131,
-    "leisure": 14,
-    "education": 13,
-    "hotel": 45,
-    "services": 78,
-    "fitness": 10,
-    "auto": 17,
-    "total_stores": 68,
-    "old_store_3yr_pct": 62
+    "competitors": 3.0,
+    "food": 194.0,
+    "shopping": 131.0,
+    "leisure": 14.0,
+    "education": 13.0,
+    "hotel": 45.0,
+    "services": 78.0,
+    "fitness": 10.0,
+    "auto": 17.0,
+    "total_stores": 68.0,
+    "old_store_3yr_pct": 62.0
   },
   "nearby_poi": {
-    "business": 13,
-    "community": 348,
-    "office": 104,
-    "school": 54,
-    "hospital": 136,
-    "transport": 3,
-    "scenic": 978
+    "business": 13.0,
+    "community": 348.0,
+    "office": 104.0,
+    "school": 54.0,
+    "hospital": 136.0,
+    "transport": 3.0,
+    "scenic": 978.0
   },
   "demographics": {
     "male_pct": 48.9,
@@ -83,7 +83,7 @@
       "初中": 17.6,
       "高中": 11.3,
       "大专": 6.6,
-      "本科": 46,
+      "本科": 46.0,
       "硕士": 6.4,
       "博士": 1.8
     },
@@ -428,52 +428,52 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 21,
-      "within_1yr_pct": 19,
-      "1_3yr_pct": 19,
+      "count": 21.0,
+      "within_1yr_pct": 19.0,
+      "1_3yr_pct": 19.0,
       "over_3yr_pct": 61.9
     },
     {
       "type": "购物",
-      "count": 14,
+      "count": 14.0,
       "within_1yr_pct": 7.1,
       "1_3yr_pct": 28.6,
       "over_3yr_pct": 64.3
     },
     {
       "type": "休闲娱乐",
-      "count": 8,
+      "count": 8.0,
       "within_1yr_pct": 12.5,
       "1_3yr_pct": 37.5,
-      "over_3yr_pct": 50
+      "over_3yr_pct": 50.0
     },
     {
       "type": "教育培训",
-      "count": 6,
-      "within_1yr_pct": 0,
+      "count": 6.0,
+      "within_1yr_pct": 0.0,
       "1_3yr_pct": 16.7,
       "over_3yr_pct": 83.3
     },
     {
       "type": "生活服务",
-      "count": 14,
+      "count": 14.0,
       "within_1yr_pct": 7.1,
       "1_3yr_pct": 35.7,
       "over_3yr_pct": 57.1
     },
     {
       "type": "运动健身",
-      "count": 4,
-      "within_1yr_pct": 25,
-      "1_3yr_pct": 25,
-      "over_3yr_pct": 50
+      "count": 4.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 50.0
     },
     {
       "type": "车辆服务",
-      "count": 1,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 100
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
     }
   ],
   "nearby_communities": [

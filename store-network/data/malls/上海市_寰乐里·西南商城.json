@@ -2,8 +2,8 @@
   "name": "寰乐里·西南商城",
   "city": "上海市",
   "address": "北京市密云区鼓楼南大街3号",
-  "lat": null,
-  "lng": null,
+  "lat": 31.002296,
+  "lng": 121.425915,
   "overview": {
     "score": 87.3,
     "score_rank": "市内前30%",
@@ -29,7 +29,7 @@
     "jun_daily_avg": 1.2,
     "jun_daily_unit": "万人次",
     "jun_daily_rank": "市内商场第235名",
-    "weekday_avg": 9689,
+    "weekday_avg": 9689.0,
     "weekday_unit": "人次",
     "weekday_rank": "市内商场第244名",
     "holiday_avg": 1.7,
@@ -54,41 +54,41 @@
     }
   },
   "business": {
-    "competitors": 4,
-    "food": 337,
-    "shopping": 353,
-    "leisure": 29,
-    "education": 44,
-    "hotel": 23,
-    "services": 224,
-    "fitness": 15,
-    "auto": 12,
-    "total_stores": 78,
-    "old_store_3yr_pct": 54
+    "competitors": 4.0,
+    "food": 337.0,
+    "shopping": 353.0,
+    "leisure": 29.0,
+    "education": 44.0,
+    "hotel": 23.0,
+    "services": 224.0,
+    "fitness": 15.0,
+    "auto": 12.0,
+    "total_stores": 78.0,
+    "old_store_3yr_pct": 54.0
   },
   "nearby_poi": {
-    "business": 5,
-    "community": 178,
-    "office": 15,
-    "school": 35,
-    "hospital": 61,
-    "transport": 22,
-    "scenic": 63
+    "business": 5.0,
+    "community": 178.0,
+    "office": 15.0,
+    "school": 35.0,
+    "hospital": 61.0,
+    "transport": 22.0,
+    "scenic": 63.0
   },
   "demographics": {
     "male_pct": null,
     "female_pct": null,
     "education": {
-      "小学": 11,
+      "小学": 11.0,
       "初中": 20.8,
-      "高中": 12,
+      "高中": 12.0,
       "大专": 8.2,
       "本科": 44.8,
       "硕士": 2.3,
       "博士": 0.9
     },
-    "has_children_pct": 67,
-    "no_children_pct": 33
+    "has_children_pct": 67.0,
+    "no_children_pct": 33.0
   },
   "scraped_at": "2026-08-01T08:00:29.700Z",
   "nearby_restaurants": [
@@ -288,31 +288,31 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 31,
+      "count": 31.0,
       "within_1yr_pct": 25.8,
       "1_3yr_pct": 9.7,
       "over_3yr_pct": 64.5
     },
     {
       "type": "购物",
-      "count": 40,
-      "within_1yr_pct": 15,
+      "count": 40.0,
+      "within_1yr_pct": 15.0,
       "1_3yr_pct": 32.5,
       "over_3yr_pct": 52.5
     },
     {
       "type": "生活服务",
-      "count": 4,
-      "within_1yr_pct": 75,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 25
+      "count": 4.0,
+      "within_1yr_pct": 75.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 25.0
     },
     {
       "type": "车辆服务",
-      "count": 3,
+      "count": 3.0,
       "within_1yr_pct": 33.3,
       "1_3yr_pct": 66.7,
-      "over_3yr_pct": 0
+      "over_3yr_pct": 0.0
     }
   ],
   "nearby_communities": [

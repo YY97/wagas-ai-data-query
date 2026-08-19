@@ -13,7 +13,7 @@
     "industry_score": 93.5,
     "annual_sales": "上海巴黎春天（浦建店）是香港新世界百货进军上海开设的分店之一，以化妆品、服饰和家居搭配商品为主体，引进国际著名品牌，高中档经营。商场经过改造后，形象、档次及体验感都有所提升，包括多元美食、魔都首个室内最高滑梯、全新入驻美妆博主都爱的境外一线化妆品、汇聚更多主流人气珠宝品牌等，提供一站式吃喝玩乐的体验",
     "annual_sales_unit": "-",
-    "area_size_sqm": 5,
+    "area_size_sqm": 5.0,
     "open_date": "2003-01-01",
     "operator": "新世界发展有限公司",
     "brand": "新世界",
@@ -39,8 +39,8 @@
   "population": {
     "residential": {
       "500m": 3.4,
-      "1_5km": 23,
-      "3km": 80
+      "1_5km": 23.0,
+      "3km": 80.0
     },
     "office": {
       "500m": 2.7,
@@ -54,32 +54,32 @@
     }
   },
   "business": {
-    "competitors": 5,
-    "food": 211,
-    "shopping": 177,
-    "leisure": 13,
-    "education": 22,
-    "hotel": 96,
-    "services": 110,
-    "fitness": 12,
-    "auto": 18,
-    "total_stores": 160,
-    "old_store_3yr_pct": 58
+    "competitors": 5.0,
+    "food": 211.0,
+    "shopping": 177.0,
+    "leisure": 13.0,
+    "education": 22.0,
+    "hotel": 96.0,
+    "services": 110.0,
+    "fitness": 12.0,
+    "auto": 18.0,
+    "total_stores": 160.0,
+    "old_store_3yr_pct": 58.0
   },
   "nearby_poi": {
-    "business": 4,
-    "community": 489,
-    "office": 76,
-    "school": 50,
-    "hospital": 100,
-    "transport": 10,
-    "scenic": 237
+    "business": 4.0,
+    "community": 489.0,
+    "office": 76.0,
+    "school": 50.0,
+    "hospital": 100.0,
+    "transport": 10.0,
+    "scenic": 237.0
   },
   "demographics": {
     "male_pct": 46.8,
     "female_pct": null,
     "education": {
-      "小学": 9,
+      "小学": 9.0,
       "初中": 16.4,
       "高中": 10.6,
       "大专": 6.9,
@@ -380,52 +380,52 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 53,
+      "count": 53.0,
       "within_1yr_pct": 13.2,
       "1_3yr_pct": 32.1,
       "over_3yr_pct": 54.7
     },
     {
       "type": "购物",
-      "count": 78,
+      "count": 78.0,
       "within_1yr_pct": 12.8,
       "1_3yr_pct": 19.2,
       "over_3yr_pct": 67.9
     },
     {
       "type": "休闲娱乐",
-      "count": 5,
-      "within_1yr_pct": 20,
-      "1_3yr_pct": 40,
-      "over_3yr_pct": 40
+      "count": 5.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 40.0,
+      "over_3yr_pct": 40.0
     },
     {
       "type": "教育培训",
-      "count": 1,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 100,
-      "over_3yr_pct": 0
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
     },
     {
       "type": "生活服务",
-      "count": 16,
+      "count": 16.0,
       "within_1yr_pct": 12.5,
       "1_3yr_pct": 37.5,
-      "over_3yr_pct": 50
+      "over_3yr_pct": 50.0
     },
     {
       "type": "运动健身",
-      "count": 3,
+      "count": 3.0,
       "within_1yr_pct": 33.3,
       "1_3yr_pct": 33.3,
       "over_3yr_pct": 33.3
     },
     {
       "type": "车辆服务",
-      "count": 4,
-      "within_1yr_pct": 100,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 0
+      "count": 4.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
     }
   ],
   "nearby_communities": [

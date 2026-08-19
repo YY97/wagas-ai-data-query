@@ -2,8 +2,8 @@
   "name": "景海时代广场",
   "city": "北京市",
   "address": "北京市海淀区西四环北路117号",
-  "lat": 39.943693,
-  "lng": 116.271167,
+  "lat": 39.802513,
+  "lng": 116.563053,
   "overview": {
     "score": 83.4,
     "score_rank": "市内前30%",
@@ -13,7 +13,7 @@
     "industry_score": 83.5,
     "annual_sales": "北京金四季购物中心融合了购物、休闲、娱乐，占地6.6万平方米，由北、中、南三个连体建筑组成，总建筑面积13.2万平方米，其中可经营面积10万平方米，停车位超过1300辆。其中包括2万平方米的主力店法国欧尚超市和2.2万平方米的百安居。购物中心将引进SHOPPING MALL的建筑风格和经营理念，实现一站式购物",
     "annual_sales_unit": "-",
-    "area_size_sqm": 10,
+    "area_size_sqm": 10.0,
     "open_date": "2003-06-01",
     "operator": "",
     "brand": "",
@@ -38,42 +38,42 @@
   },
   "population": {
     "residential": {
-      "500m": 7800,
+      "500m": 7800.0,
       "1_5km": 8.8,
       "3km": 49.5
     },
     "office": {
-      "500m": 7200,
+      "500m": 7200.0,
       "1_5km": 6.3,
       "3km": 26.3
     },
     "permanent": {
-      "500m": 9000,
+      "500m": 9000.0,
       "1_5km": 8.8,
       "3km": 48.4
     }
   },
   "business": {
     "competitors": null,
-    "food": 22,
-    "shopping": 62,
-    "leisure": 2,
-    "education": 9,
-    "hotel": 5,
-    "services": 36,
-    "fitness": 14,
-    "auto": 5,
-    "total_stores": 89,
-    "old_store_3yr_pct": 61
+    "food": 22.0,
+    "shopping": 62.0,
+    "leisure": 2.0,
+    "education": 9.0,
+    "hotel": 5.0,
+    "services": 36.0,
+    "fitness": 14.0,
+    "auto": 5.0,
+    "total_stores": 89.0,
+    "old_store_3yr_pct": 61.0
   },
   "nearby_poi": {
-    "business": 1,
-    "community": 290,
-    "office": 39,
-    "school": 26,
-    "hospital": 54,
-    "transport": 5,
-    "scenic": 85
+    "business": 1.0,
+    "community": 290.0,
+    "office": 39.0,
+    "school": 26.0,
+    "hospital": 54.0,
+    "transport": 5.0,
+    "scenic": 85.0
   },
   "demographics": {
     "male_pct": 50.6,
@@ -107,59 +107,59 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 17,
+      "count": 17.0,
       "within_1yr_pct": 5.9,
       "1_3yr_pct": 11.8,
       "over_3yr_pct": 82.4
     },
     {
       "type": "购物",
-      "count": 44,
+      "count": 44.0,
       "within_1yr_pct": 18.2,
       "1_3yr_pct": 22.7,
       "over_3yr_pct": 59.1
     },
     {
       "type": "休闲娱乐",
-      "count": 1,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 100,
-      "over_3yr_pct": 0
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
     },
     {
       "type": "教育培训",
-      "count": 4,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 75,
-      "over_3yr_pct": 25
+      "count": 4.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 75.0,
+      "over_3yr_pct": 25.0
     },
     {
       "type": "酒店住宿",
-      "count": 3,
+      "count": 3.0,
       "within_1yr_pct": 66.7,
-      "1_3yr_pct": 0,
+      "1_3yr_pct": 0.0,
       "over_3yr_pct": 33.3
     },
     {
       "type": "生活服务",
-      "count": 12,
+      "count": 12.0,
       "within_1yr_pct": 33.3,
       "1_3yr_pct": 8.3,
       "over_3yr_pct": 58.3
     },
     {
       "type": "运动健身",
-      "count": 7,
+      "count": 7.0,
       "within_1yr_pct": 42.9,
-      "1_3yr_pct": 0,
+      "1_3yr_pct": 0.0,
       "over_3yr_pct": 57.1
     },
     {
       "type": "车辆服务",
-      "count": 1,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 100
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
     }
   ],
   "nearby_communities": [

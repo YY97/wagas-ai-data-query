@@ -5,11 +5,11 @@
   "lat": 31.170183,
   "lng": 121.472082,
   "overview": {
-    "score": 74,
+    "score": 74.0,
     "score_rank": "市内前50%",
     "population_score": 68.6,
     "area_score": 65.8,
-    "consumption_score": 60,
+    "consumption_score": 60.0,
     "industry_score": 74.1,
     "annual_sales": "",
     "annual_sales_unit": "",
@@ -38,7 +38,7 @@
   },
   "population": {
     "residential": {
-      "500m": 7200,
+      "500m": 7200.0,
       "1_5km": 7.8,
       "3km": 55.1
     },
@@ -48,32 +48,32 @@
       "3km": 43.9
     },
     "permanent": {
-      "500m": 6400,
+      "500m": 6400.0,
       "1_5km": 8.5,
       "3km": 60.6
     }
   },
   "business": {
-    "competitors": 5,
-    "food": 56,
-    "shopping": 21,
-    "leisure": 6,
-    "education": 3,
-    "hotel": 3,
-    "services": 22,
-    "fitness": 11,
-    "auto": 10,
-    "total_stores": 133,
-    "old_store_3yr_pct": 37
+    "competitors": 5.0,
+    "food": 56.0,
+    "shopping": 21.0,
+    "leisure": 6.0,
+    "education": 3.0,
+    "hotel": 3.0,
+    "services": 22.0,
+    "fitness": 11.0,
+    "auto": 10.0,
+    "total_stores": 133.0,
+    "old_store_3yr_pct": 37.0
   },
   "nearby_poi": {
-    "business": 6,
-    "community": 331,
-    "office": 30,
-    "school": 19,
-    "hospital": 55,
-    "transport": 4,
-    "scenic": 218
+    "business": 6.0,
+    "community": 331.0,
+    "office": 30.0,
+    "school": 19.0,
+    "hospital": 55.0,
+    "transport": 4.0,
+    "scenic": 218.0
   },
   "demographics": {
     "male_pct": 46.7,
@@ -83,7 +83,7 @@
       "初中": 17.2,
       "高中": 10.9,
       "大专": 7.5,
-      "本科": 48,
+      "本科": 48.0,
       "硕士": 5.6,
       "博士": 1.6
     },
@@ -396,59 +396,59 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 56,
-      "within_1yr_pct": 25,
+      "count": 56.0,
+      "within_1yr_pct": 25.0,
       "1_3yr_pct": 33.9,
       "over_3yr_pct": 41.1
     },
     {
       "type": "购物",
-      "count": 21,
+      "count": 21.0,
       "within_1yr_pct": 14.3,
       "1_3yr_pct": 47.6,
       "over_3yr_pct": 38.1
     },
     {
       "type": "休闲娱乐",
-      "count": 7,
+      "count": 7.0,
       "within_1yr_pct": 42.9,
       "1_3yr_pct": 28.6,
       "over_3yr_pct": 28.6
     },
     {
       "type": "教育培训",
-      "count": 3,
-      "within_1yr_pct": 100,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 0
+      "count": 3.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
     },
     {
       "type": "酒店住宿",
-      "count": 3,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 100,
-      "over_3yr_pct": 0
+      "count": 3.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
     },
     {
       "type": "生活服务",
-      "count": 22,
+      "count": 22.0,
       "within_1yr_pct": 27.3,
       "1_3yr_pct": 27.3,
       "over_3yr_pct": 45.5
     },
     {
       "type": "运动健身",
-      "count": 11,
-      "within_1yr_pct": 0,
+      "count": 11.0,
+      "within_1yr_pct": 0.0,
       "1_3yr_pct": 90.9,
       "over_3yr_pct": 9.1
     },
     {
       "type": "车辆服务",
-      "count": 10,
-      "within_1yr_pct": 10,
-      "1_3yr_pct": 40,
-      "over_3yr_pct": 50
+      "count": 10.0,
+      "within_1yr_pct": 10.0,
+      "1_3yr_pct": 40.0,
+      "over_3yr_pct": 50.0
     }
   ],
   "nearby_communities": [
@@ -2770,7 +2770,7 @@
       "raw": "南园新村 户数:1201 居住人数:6318 建筑年份:1996"
     }
   ],
-  "community_count": 331,
   "avg_housing_price": 83110,
-  "total_households": 195545
+  "total_households": 195545,
+  "community_count": 331
 }

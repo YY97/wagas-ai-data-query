@@ -8,12 +8,12 @@
     "score": 89.9,
     "score_rank": "市内前30%",
     "population_score": 81.6,
-    "area_score": 100,
+    "area_score": 100.0,
     "consumption_score": 83.8,
     "industry_score": 89.9,
     "annual_sales": "中关村西区20万㎡POD城市更新旗舰，以“商业+街区+2万㎡屋顶公园”打造北京首座公园式购物中心，已开业西区102家品牌、东区年底亮相，定位国际潮流与生活方式新地标。",
     "annual_sales_unit": "-",
-    "area_size_sqm": 20,
+    "area_size_sqm": 20.0,
     "open_date": "2025-05-16",
     "operator": "光大安石商业地产",
     "brand": "",
@@ -54,29 +54,29 @@
     }
   },
   "business": {
-    "competitors": 21,
-    "food": 578,
-    "shopping": 439,
-    "leisure": 52,
-    "education": 139,
-    "hotel": 52,
-    "services": 428,
-    "fitness": 51,
-    "auto": 45,
-    "total_stores": 154,
-    "old_store_3yr_pct": 6
+    "competitors": 21.0,
+    "food": 578.0,
+    "shopping": 439.0,
+    "leisure": 52.0,
+    "education": 139.0,
+    "hotel": 52.0,
+    "services": 428.0,
+    "fitness": 51.0,
+    "auto": 45.0,
+    "total_stores": 154.0,
+    "old_store_3yr_pct": 6.0
   },
   "nearby_poi": {
-    "business": 5,
-    "community": 260,
-    "office": 111,
-    "school": 45,
-    "hospital": 84,
-    "transport": 16,
-    "scenic": 359
+    "business": 5.0,
+    "community": 260.0,
+    "office": 111.0,
+    "school": 45.0,
+    "hospital": 84.0,
+    "transport": 16.0,
+    "scenic": 359.0
   },
   "demographics": {
-    "male_pct": 51,
+    "male_pct": 51.0,
     "female_pct": null,
     "education": {
       "小学": 7.7,
@@ -388,59 +388,59 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 102,
+      "count": 102.0,
       "within_1yr_pct": 20.6,
       "1_3yr_pct": 76.5,
       "over_3yr_pct": 2.9
     },
     {
       "type": "购物",
-      "count": 27,
+      "count": 27.0,
       "within_1yr_pct": 59.3,
-      "1_3yr_pct": 37,
+      "1_3yr_pct": 37.0,
       "over_3yr_pct": 3.7
     },
     {
       "type": "休闲娱乐",
-      "count": 6,
+      "count": 6.0,
       "within_1yr_pct": 66.7,
       "1_3yr_pct": 33.3,
-      "over_3yr_pct": 0
+      "over_3yr_pct": 0.0
     },
     {
       "type": "教育培训",
-      "count": 4,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 100
+      "count": 4.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
     },
     {
       "type": "酒店住宿",
-      "count": 1,
-      "within_1yr_pct": 100,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 0
+      "count": 1.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
     },
     {
       "type": "生活服务",
-      "count": 10,
-      "within_1yr_pct": 20,
-      "1_3yr_pct": 70,
-      "over_3yr_pct": 10
+      "count": 10.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 70.0,
+      "over_3yr_pct": 10.0
     },
     {
       "type": "运动健身",
-      "count": 2,
-      "within_1yr_pct": 50,
-      "1_3yr_pct": 50,
-      "over_3yr_pct": 0
+      "count": 2.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 0.0
     },
     {
       "type": "车辆服务",
-      "count": 2,
-      "within_1yr_pct": 50,
-      "1_3yr_pct": 50,
-      "over_3yr_pct": 0
+      "count": 2.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 0.0
     }
   ],
   "nearby_communities": [

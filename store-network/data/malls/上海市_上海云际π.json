@@ -9,7 +9,7 @@
     "score_rank": "市内前30%",
     "population_score": 77.5,
     "area_score": 66.7,
-    "consumption_score": 63,
+    "consumption_score": 63.0,
     "industry_score": 78.8,
     "annual_sales": "",
     "annual_sales_unit": "",
@@ -43,7 +43,7 @@
       "3km": 39.9
     },
     "office": {
-      "500m": 4900,
+      "500m": 4900.0,
       "1_5km": 4.6,
       "3km": 16.2
     },
@@ -55,25 +55,25 @@
   },
   "business": {
     "competitors": null,
-    "food": 94,
-    "shopping": 45,
-    "leisure": 12,
-    "education": 5,
-    "hotel": 15,
-    "services": 33,
-    "fitness": 8,
-    "auto": 16,
-    "total_stores": 233,
-    "old_store_3yr_pct": 57
+    "food": 94.0,
+    "shopping": 45.0,
+    "leisure": 12.0,
+    "education": 5.0,
+    "hotel": 15.0,
+    "services": 33.0,
+    "fitness": 8.0,
+    "auto": 16.0,
+    "total_stores": 233.0,
+    "old_store_3yr_pct": 57.0
   },
   "nearby_poi": {
-    "business": 5,
-    "community": 188,
-    "office": 13,
-    "school": 22,
-    "hospital": 32,
-    "transport": 5,
-    "scenic": 171
+    "business": 5.0,
+    "community": 188.0,
+    "office": 13.0,
+    "school": 22.0,
+    "hospital": 32.0,
+    "transport": 5.0,
+    "scenic": 171.0
   },
   "demographics": {
     "male_pct": 49.5,
@@ -388,59 +388,59 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 94,
+      "count": 94.0,
       "within_1yr_pct": 25.5,
       "1_3yr_pct": 25.5,
       "over_3yr_pct": 48.9
     },
     {
       "type": "购物",
-      "count": 45,
+      "count": 45.0,
       "within_1yr_pct": 15.6,
       "1_3yr_pct": 26.7,
       "over_3yr_pct": 57.8
     },
     {
       "type": "休闲娱乐",
-      "count": 17,
+      "count": 17.0,
       "within_1yr_pct": 11.8,
       "1_3yr_pct": 41.2,
       "over_3yr_pct": 47.1
     },
     {
       "type": "教育培训",
-      "count": 5,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 100
+      "count": 5.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
     },
     {
       "type": "酒店住宿",
-      "count": 15,
+      "count": 15.0,
       "within_1yr_pct": 6.7,
-      "1_3yr_pct": 20,
+      "1_3yr_pct": 20.0,
       "over_3yr_pct": 73.3
     },
     {
       "type": "生活服务",
-      "count": 33,
+      "count": 33.0,
       "within_1yr_pct": 9.1,
       "1_3yr_pct": 30.3,
       "over_3yr_pct": 60.6
     },
     {
       "type": "运动健身",
-      "count": 8,
+      "count": 8.0,
       "within_1yr_pct": 37.5,
       "1_3yr_pct": 12.5,
-      "over_3yr_pct": 50
+      "over_3yr_pct": 50.0
     },
     {
       "type": "车辆服务",
-      "count": 16,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 25,
-      "over_3yr_pct": 75
+      "count": 16.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 75.0
     }
   ],
   "nearby_communities": [
@@ -1761,7 +1761,7 @@
       "raw": "明丰公寓 户数:824 居住人数:2945 建筑年份:2002"
     }
   ],
-  "community_count": 188,
   "avg_housing_price": 24578.53,
-  "total_households": 113737
+  "total_households": 113737,
+  "community_count": 188
 }

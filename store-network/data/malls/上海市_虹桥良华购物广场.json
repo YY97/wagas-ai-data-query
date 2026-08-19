@@ -2,10 +2,10 @@
   "name": "虹桥良华购物广场",
   "city": "上海市",
   "address": "上海市闵行区申滨路990号",
-  "lat": 31.209413,
-  "lng": 121.308423,
+  "lat": 31.20944,
+  "lng": 121.308415,
   "overview": {
-    "score": 92,
+    "score": 92.0,
     "score_rank": "市内前30%",
     "population_score": 98.4,
     "area_score": 69.2,
@@ -48,32 +48,32 @@
       "3km": 23.7
     },
     "permanent": {
-      "500m": 3,
+      "500m": 3.0,
       "1_5km": 11.4,
       "3km": 40.6
     }
   },
   "business": {
-    "competitors": 2,
-    "food": 130,
-    "shopping": 51,
-    "leisure": 15,
-    "education": 5,
-    "hotel": 64,
-    "services": 76,
-    "fitness": 14,
-    "auto": 14,
-    "total_stores": 136,
-    "old_store_3yr_pct": 42
+    "competitors": 2.0,
+    "food": 130.0,
+    "shopping": 51.0,
+    "leisure": 15.0,
+    "education": 5.0,
+    "hotel": 64.0,
+    "services": 76.0,
+    "fitness": 14.0,
+    "auto": 14.0,
+    "total_stores": 136.0,
+    "old_store_3yr_pct": 42.0
   },
   "nearby_poi": {
-    "business": 5,
-    "community": 130,
-    "office": 43,
-    "school": 14,
-    "hospital": 38,
-    "transport": 9,
-    "scenic": 41
+    "business": 5.0,
+    "community": 130.0,
+    "office": 43.0,
+    "school": 14.0,
+    "hospital": 38.0,
+    "transport": 9.0,
+    "scenic": 41.0
   },
   "demographics": {
     "male_pct": 51.9,
@@ -388,59 +388,59 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 70,
+      "count": 70.0,
       "within_1yr_pct": 41.4,
       "1_3yr_pct": 25.7,
       "over_3yr_pct": 32.9
     },
     {
       "type": "购物",
-      "count": 16,
+      "count": 16.0,
       "within_1yr_pct": 18.8,
       "1_3yr_pct": 18.8,
       "over_3yr_pct": 62.5
     },
     {
       "type": "休闲娱乐",
-      "count": 8,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 50,
-      "over_3yr_pct": 50
+      "count": 8.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 50.0
     },
     {
       "type": "教育培训",
-      "count": 4,
-      "within_1yr_pct": 25,
-      "1_3yr_pct": 50,
-      "over_3yr_pct": 25
+      "count": 4.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 25.0
     },
     {
       "type": "酒店住宿",
-      "count": 2,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 50,
-      "over_3yr_pct": 50
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 50.0
     },
     {
       "type": "生活服务",
-      "count": 32,
+      "count": 32.0,
       "within_1yr_pct": 15.6,
       "1_3yr_pct": 34.4,
-      "over_3yr_pct": 50
+      "over_3yr_pct": 50.0
     },
     {
       "type": "运动健身",
-      "count": 3,
-      "within_1yr_pct": 0,
+      "count": 3.0,
+      "within_1yr_pct": 0.0,
       "1_3yr_pct": 33.3,
       "over_3yr_pct": 66.7
     },
     {
       "type": "车辆服务",
-      "count": 1,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 100,
-      "over_3yr_pct": 0
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
     }
   ],
   "nearby_communities": [

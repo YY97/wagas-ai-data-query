@@ -5,15 +5,15 @@
   "lat": 39.910138,
   "lng": 116.411096,
   "overview": {
-    "score": 96,
+    "score": 96.0,
     "score_rank": "市内前30%",
-    "population_score": 84,
-    "area_score": 100,
-    "consumption_score": 91,
+    "population_score": 84.0,
+    "area_score": 100.0,
+    "consumption_score": 91.0,
     "industry_score": 96.1,
     "annual_sales": "30",
     "annual_sales_unit": "亿元",
-    "area_size_sqm": 9,
+    "area_size_sqm": 9.0,
     "open_date": "2008-01-01",
     "operator": "新鸿基有限公司",
     "brand": "新鸿基有限公司",
@@ -54,26 +54,26 @@
     }
   },
   "business": {
-    "competitors": 16,
-    "food": 590,
-    "shopping": 891,
-    "leisure": 58,
-    "education": 15,
-    "hotel": 76,
-    "services": 275,
-    "fitness": 13,
-    "auto": 20,
-    "total_stores": 276,
-    "old_store_3yr_pct": 46
+    "competitors": 16.0,
+    "food": 590.0,
+    "shopping": 891.0,
+    "leisure": 58.0,
+    "education": 15.0,
+    "hotel": 76.0,
+    "services": 275.0,
+    "fitness": 13.0,
+    "auto": 20.0,
+    "total_stores": 276.0,
+    "old_store_3yr_pct": 46.0
   },
   "nearby_poi": {
-    "business": 12,
-    "community": 299,
-    "office": 74,
-    "school": 42,
-    "hospital": 117,
-    "transport": 6,
-    "scenic": 1097
+    "business": 12.0,
+    "community": 299.0,
+    "office": 74.0,
+    "school": 42.0,
+    "hospital": 117.0,
+    "transport": 6.0,
+    "scenic": 1097.0
   },
   "demographics": {
     "male_pct": 47.1,
@@ -428,52 +428,52 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 97,
+      "count": 97.0,
       "within_1yr_pct": 23.7,
       "1_3yr_pct": 30.9,
       "over_3yr_pct": 45.4
     },
     {
       "type": "购物",
-      "count": 156,
+      "count": 156.0,
       "within_1yr_pct": 28.8,
       "1_3yr_pct": 22.4,
       "over_3yr_pct": 48.7
     },
     {
       "type": "休闲娱乐",
-      "count": 1,
-      "within_1yr_pct": 100,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 0
+      "count": 1.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
     },
     {
       "type": "教育培训",
-      "count": 1,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 100
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
     },
     {
       "type": "酒店住宿",
-      "count": 1,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 100
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
     },
     {
       "type": "生活服务",
-      "count": 18,
-      "within_1yr_pct": 50,
+      "count": 18.0,
+      "within_1yr_pct": 50.0,
       "1_3yr_pct": 16.7,
       "over_3yr_pct": 33.3
     },
     {
       "type": "车辆服务",
-      "count": 2,
-      "within_1yr_pct": 100,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 0
+      "count": 2.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
     }
   ],
   "nearby_communities": [

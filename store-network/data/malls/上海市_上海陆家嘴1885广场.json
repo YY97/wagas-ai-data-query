@@ -8,7 +8,7 @@
     "score": 80.3,
     "score_rank": "市内前30%",
     "population_score": 95.9,
-    "area_score": 100,
+    "area_score": 100.0,
     "consumption_score": 82.7,
     "industry_score": 80.1,
     "annual_sales": "陆家嘴1885文化休闲中心是以精品及休闲餐饮为主要业态的时尚休闲广场，并以历史人文主题、海派建筑文化及新老建筑共同构建出了丰富的商业空间，同时项目很好地结合了文化传播、交流和文化休闲娱乐的功能，精心打造出了浦东的时尚新地标",
@@ -43,9 +43,9 @@
       "3km": 66.5
     },
     "office": {
-      "500m": 6,
-      "1_5km": 31,
-      "3km": 88
+      "500m": 6.0,
+      "1_5km": 31.0,
+      "3km": 88.0
     },
     "permanent": {
       "500m": 4.4,
@@ -54,32 +54,32 @@
     }
   },
   "business": {
-    "competitors": 18,
-    "food": 585,
-    "shopping": 587,
-    "leisure": 58,
-    "education": 85,
-    "hotel": 68,
-    "services": 467,
-    "fitness": 61,
-    "auto": 44,
-    "total_stores": 32,
-    "old_store_3yr_pct": 19
+    "competitors": 18.0,
+    "food": 585.0,
+    "shopping": 587.0,
+    "leisure": 58.0,
+    "education": 85.0,
+    "hotel": 68.0,
+    "services": 467.0,
+    "fitness": 61.0,
+    "auto": 44.0,
+    "total_stores": 32.0,
+    "old_store_3yr_pct": 19.0
   },
   "nearby_poi": {
-    "business": 18,
-    "community": 473,
-    "office": 166,
-    "school": 51,
-    "hospital": 135,
-    "transport": 19,
-    "scenic": 565
+    "business": 18.0,
+    "community": 473.0,
+    "office": 166.0,
+    "school": 51.0,
+    "hospital": 135.0,
+    "transport": 19.0,
+    "scenic": 565.0
   },
   "demographics": {
     "male_pct": null,
     "female_pct": null,
     "education": {
-      "小学": 9,
+      "小学": 9.0,
       "初中": 16.4,
       "高中": 10.6,
       "大专": 6.9,
@@ -428,45 +428,45 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 18,
+      "count": 18.0,
       "within_1yr_pct": 38.9,
       "1_3yr_pct": 33.3,
       "over_3yr_pct": 27.8
     },
     {
       "type": "购物",
-      "count": 1,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 100,
-      "over_3yr_pct": 0
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
     },
     {
       "type": "休闲娱乐",
-      "count": 6,
+      "count": 6.0,
       "within_1yr_pct": 83.3,
       "1_3yr_pct": 16.7,
-      "over_3yr_pct": 0
+      "over_3yr_pct": 0.0
     },
     {
       "type": "生活服务",
-      "count": 4,
-      "within_1yr_pct": 25,
-      "1_3yr_pct": 50,
-      "over_3yr_pct": 25
+      "count": 4.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 25.0
     },
     {
       "type": "运动健身",
-      "count": 1,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 100,
-      "over_3yr_pct": 0
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
     },
     {
       "type": "车辆服务",
-      "count": 2,
-      "within_1yr_pct": 100,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 0
+      "count": 2.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
     }
   ],
   "nearby_communities": [
@@ -1871,7 +1871,7 @@
       "raw": "上海滩花园 户数:724 居住人数:1728 建筑年份:2009"
     }
   ],
-  "community_count": 200,
   "avg_housing_price": 87096.48,
-  "total_households": 207353
+  "total_households": 207353,
+  "community_count": 200
 }

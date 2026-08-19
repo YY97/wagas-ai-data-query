@@ -8,12 +8,12 @@
     "score": 92.1,
     "score_rank": "市内前30%",
     "population_score": 90.9,
-    "area_score": 100,
+    "area_score": 100.0,
     "consumption_score": 86.3,
     "industry_score": 92.1,
     "annual_sales": "恒基名人商业大厦位于上海市核心商务区——南京东路步行街，是集商务办公与商业购物于一体的综合性项目。项目共有24层（包含2层地下楼层），分别为9层约40万平方呎的大型综合性商业购物中心，领衔南京东路步行街，吸引众多知名品牌在此开设旗舰店",
     "annual_sales_unit": "-",
-    "area_size_sqm": 4,
+    "area_size_sqm": 4.0,
     "open_date": "2011-11-11",
     "operator": "恒基兆业地产有限公司",
     "brand": "",
@@ -54,26 +54,26 @@
     }
   },
   "business": {
-    "competitors": 16,
-    "food": 583,
-    "shopping": 693,
-    "leisure": 50,
-    "education": 23,
-    "hotel": 185,
-    "services": 226,
-    "fitness": 27,
-    "auto": 23,
-    "total_stores": 101,
-    "old_store_3yr_pct": 52
+    "competitors": 16.0,
+    "food": 583.0,
+    "shopping": 693.0,
+    "leisure": 50.0,
+    "education": 23.0,
+    "hotel": 185.0,
+    "services": 226.0,
+    "fitness": 27.0,
+    "auto": 23.0,
+    "total_stores": 101.0,
+    "old_store_3yr_pct": 52.0
   },
   "nearby_poi": {
-    "business": 32,
-    "community": 808,
-    "office": 230,
-    "school": 43,
-    "hospital": 182,
-    "transport": 28,
-    "scenic": 943
+    "business": 32.0,
+    "community": 808.0,
+    "office": 230.0,
+    "school": 43.0,
+    "hospital": 182.0,
+    "transport": 28.0,
+    "scenic": 943.0
   },
   "demographics": {
     "male_pct": 48.2,
@@ -428,52 +428,52 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 38,
+      "count": 38.0,
       "within_1yr_pct": 13.2,
       "1_3yr_pct": 23.7,
       "over_3yr_pct": 63.2
     },
     {
       "type": "购物",
-      "count": 32,
+      "count": 32.0,
       "within_1yr_pct": 28.1,
       "1_3yr_pct": 15.6,
       "over_3yr_pct": 56.3
     },
     {
       "type": "休闲娱乐",
-      "count": 4,
-      "within_1yr_pct": 25,
-      "1_3yr_pct": 50,
-      "over_3yr_pct": 25
+      "count": 4.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 25.0
     },
     {
       "type": "酒店住宿",
-      "count": 1,
-      "within_1yr_pct": 100,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 0
+      "count": 1.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
     },
     {
       "type": "生活服务",
-      "count": 21,
+      "count": 21.0,
       "within_1yr_pct": 14.3,
       "1_3yr_pct": 47.6,
       "over_3yr_pct": 38.1
     },
     {
       "type": "运动健身",
-      "count": 1,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 100,
-      "over_3yr_pct": 0
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
     },
     {
       "type": "车辆服务",
-      "count": 4,
-      "within_1yr_pct": 25,
-      "1_3yr_pct": 25,
-      "over_3yr_pct": 50
+      "count": 4.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 50.0
     }
   ],
   "nearby_communities": [
@@ -1878,7 +1878,7 @@
       "raw": "太阳都市花园-南区 户数:748 居住人数:1946 建筑年份:2000"
     }
   ],
-  "community_count": 200,
   "avg_housing_price": 95686.29,
-  "total_households": 211883
+  "total_households": 211883,
+  "community_count": 200
 }

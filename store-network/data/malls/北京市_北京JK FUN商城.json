@@ -5,12 +5,12 @@
   "lat": 39.938267,
   "lng": 116.345533,
   "overview": {
-    "score": 86,
+    "score": 86.0,
     "score_rank": "市内前30%",
     "population_score": 89.2,
     "area_score": 76.4,
     "consumption_score": 86.4,
-    "industry_score": 86,
+    "industry_score": 86.0,
     "annual_sales": "西直门外“动批”聚龙市场更新项目，4.18万㎡地下商业，定位金科新区潮流绿岛社交地标",
     "annual_sales_unit": "-",
     "area_size_sqm": 1.2,
@@ -26,24 +26,24 @@
     "annual_daily_rank": "",
     "jun_total": 23.4,
     "jun_total_rank": "市内商场第265名",
-    "jun_daily_avg": 7798,
+    "jun_daily_avg": 7798.0,
     "jun_daily_unit": "人次",
     "jun_daily_rank": "市内商场第265名",
-    "weekday_avg": 7525,
+    "weekday_avg": 7525.0,
     "weekday_unit": "人次",
     "weekday_rank": "市内商场第268名",
-    "holiday_avg": 8556,
+    "holiday_avg": 8556.0,
     "holiday_unit": "人次",
     "holiday_rank": "市内商场第262名"
   },
   "population": {
     "residential": {
       "500m": 2.1,
-      "1_5km": 20,
+      "1_5km": 20.0,
       "3km": 86.3
     },
     "office": {
-      "500m": 2,
+      "500m": 2.0,
       "1_5km": 18.1,
       "3km": 68.5
     },
@@ -54,26 +54,26 @@
     }
   },
   "business": {
-    "competitors": 5,
-    "food": 147,
-    "shopping": 57,
-    "leisure": 22,
-    "education": 21,
-    "hotel": 17,
-    "services": 119,
-    "fitness": 21,
-    "auto": 4,
-    "total_stores": 78,
-    "old_store_3yr_pct": 0
+    "competitors": 5.0,
+    "food": 147.0,
+    "shopping": 57.0,
+    "leisure": 22.0,
+    "education": 21.0,
+    "hotel": 17.0,
+    "services": 119.0,
+    "fitness": 21.0,
+    "auto": 4.0,
+    "total_stores": 78.0,
+    "old_store_3yr_pct": 0.0
   },
   "nearby_poi": {
-    "business": 2,
-    "community": 546,
-    "office": 101,
-    "school": 44,
-    "hospital": 124,
-    "transport": 5,
-    "scenic": 482
+    "business": 2.0,
+    "community": 546.0,
+    "office": 101.0,
+    "school": 44.0,
+    "hospital": 124.0,
+    "transport": 5.0,
+    "scenic": 482.0
   },
   "demographics": {
     "male_pct": 50.9,
@@ -364,52 +364,52 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 46,
+      "count": 46.0,
       "within_1yr_pct": 52.2,
       "1_3yr_pct": 47.8,
-      "over_3yr_pct": 0
+      "over_3yr_pct": 0.0
     },
     {
       "type": "购物",
-      "count": 12,
+      "count": 12.0,
       "within_1yr_pct": 58.3,
       "1_3yr_pct": 41.7,
-      "over_3yr_pct": 0
+      "over_3yr_pct": 0.0
     },
     {
       "type": "休闲娱乐",
-      "count": 7,
+      "count": 7.0,
       "within_1yr_pct": 57.1,
       "1_3yr_pct": 42.9,
-      "over_3yr_pct": 0
+      "over_3yr_pct": 0.0
     },
     {
       "type": "教育培训",
-      "count": 3,
+      "count": 3.0,
       "within_1yr_pct": 66.7,
       "1_3yr_pct": 33.3,
-      "over_3yr_pct": 0
+      "over_3yr_pct": 0.0
     },
     {
       "type": "生活服务",
-      "count": 5,
-      "within_1yr_pct": 20,
-      "1_3yr_pct": 80,
-      "over_3yr_pct": 0
+      "count": 5.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 80.0,
+      "over_3yr_pct": 0.0
     },
     {
       "type": "运动健身",
-      "count": 3,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 100,
-      "over_3yr_pct": 0
+      "count": 3.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
     },
     {
       "type": "车辆服务",
-      "count": 2,
-      "within_1yr_pct": 50,
-      "1_3yr_pct": 50,
-      "over_3yr_pct": 0
+      "count": 2.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 0.0
     }
   ],
   "nearby_communities": [

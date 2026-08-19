@@ -2,8 +2,8 @@
   "name": "首开通州万象汇",
   "city": "北京市",
   "address": "上海市闵行区江月路1850号",
-  "lat": null,
-  "lng": null,
+  "lat": 39.904541,
+  "lng": 116.734377,
   "overview": {
     "score": 94.3,
     "score_rank": "市内前30%",
@@ -39,49 +39,49 @@
   "population": {
     "residential": {
       "500m": 1.3,
-      "1_5km": 10,
+      "1_5km": 10.0,
       "3km": 28.5
     },
     "office": {
-      "500m": 7700,
+      "500m": 7700.0,
       "1_5km": 6.9,
       "3km": 21.4
     },
     "permanent": {
       "500m": 1.7,
       "1_5km": 10.4,
-      "3km": 27
+      "3km": 27.0
     }
   },
   "business": {
-    "competitors": 3,
-    "food": 143,
-    "shopping": 68,
-    "leisure": 14,
-    "education": 13,
-    "hotel": 4,
-    "services": 61,
-    "fitness": 14,
-    "auto": 10,
-    "total_stores": 246,
-    "old_store_3yr_pct": 43
+    "competitors": 3.0,
+    "food": 143.0,
+    "shopping": 68.0,
+    "leisure": 14.0,
+    "education": 13.0,
+    "hotel": 4.0,
+    "services": 61.0,
+    "fitness": 14.0,
+    "auto": 10.0,
+    "total_stores": 246.0,
+    "old_store_3yr_pct": 43.0
   },
   "nearby_poi": {
-    "business": 2,
-    "community": 140,
-    "office": 30,
-    "school": 9,
-    "hospital": 15,
-    "transport": 14,
-    "scenic": 68
+    "business": 2.0,
+    "community": 140.0,
+    "office": 30.0,
+    "school": 9.0,
+    "hospital": 15.0,
+    "transport": 14.0,
+    "scenic": 68.0
   },
   "demographics": {
     "male_pct": 50.2,
     "female_pct": null,
     "education": {
-      "小学": 8,
+      "小学": 8.0,
       "初中": 15.8,
-      "高中": 12,
+      "高中": 12.0,
       "大专": 10.1,
       "本科": 47.9,
       "硕士": 5.1,
@@ -364,59 +364,59 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 133,
+      "count": 133.0,
       "within_1yr_pct": 29.3,
       "1_3yr_pct": 27.1,
       "over_3yr_pct": 43.6
     },
     {
       "type": "购物",
-      "count": 39,
+      "count": 39.0,
       "within_1yr_pct": 15.4,
       "1_3yr_pct": 20.5,
       "over_3yr_pct": 64.1
     },
     {
       "type": "休闲娱乐",
-      "count": 13,
+      "count": 13.0,
       "within_1yr_pct": 46.2,
       "1_3yr_pct": 23.1,
       "over_3yr_pct": 30.8
     },
     {
       "type": "教育培训",
-      "count": 11,
+      "count": 11.0,
       "within_1yr_pct": 18.2,
       "1_3yr_pct": 36.4,
       "over_3yr_pct": 45.5
     },
     {
       "type": "酒店住宿",
-      "count": 1,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 100,
-      "over_3yr_pct": 0
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
     },
     {
       "type": "生活服务",
-      "count": 33,
+      "count": 33.0,
       "within_1yr_pct": 39.4,
       "1_3yr_pct": 24.2,
       "over_3yr_pct": 36.4
     },
     {
       "type": "运动健身",
-      "count": 12,
+      "count": 12.0,
       "within_1yr_pct": 33.3,
       "1_3yr_pct": 41.7,
-      "over_3yr_pct": 25
+      "over_3yr_pct": 25.0
     },
     {
       "type": "车辆服务",
-      "count": 4,
-      "within_1yr_pct": 50,
-      "1_3yr_pct": 50,
-      "over_3yr_pct": 0
+      "count": 4.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 0.0
     }
   ],
   "nearby_communities": [

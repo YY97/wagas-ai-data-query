@@ -2,18 +2,18 @@
   "name": "金泽元拾光里",
   "city": "上海市",
   "address": "上海市宝山区杨南路2211号(罗南新村地铁站1号口步行100米)",
-  "lat": 31.388441,
-  "lng": 121.35711,
+  "lat": 31.312558,
+  "lng": 121.473216,
   "overview": {
     "score": 90.6,
     "score_rank": "市内前30%",
     "population_score": 83.6,
-    "area_score": 68,
+    "area_score": 68.0,
     "consumption_score": 64.8,
     "industry_score": 90.8,
     "annual_sales": "上海罗店宝龙广场是宝山政府重点打造的罗店首席社区商业Mall，集美食、童趣、购物、聚会、休闲、娱乐于一体的购物商业综合体，是您身边的精致生活邻里中心",
     "annual_sales_unit": "-",
-    "area_size_sqm": 2,
+    "area_size_sqm": 2.0,
     "open_date": "2015-12-18",
     "operator": "宝龙商业管理控股有限公司",
     "brand": "宝龙",
@@ -21,18 +21,18 @@
     "floors": "B1-L6"
   },
   "traffic": {
-    "annual_daily": 9918,
+    "annual_daily": 9918.0,
     "annual_daily_unit": "人次",
     "annual_daily_rank": "市内第255",
     "jun_total": 25.9,
     "jun_total_rank": "市内商场第337名",
-    "jun_daily_avg": 8623,
+    "jun_daily_avg": 8623.0,
     "jun_daily_unit": "人次",
     "jun_daily_rank": "市内商场第337名",
-    "weekday_avg": 8102,
+    "weekday_avg": 8102.0,
     "weekday_unit": "人次",
     "weekday_rank": "市内商场第341名",
-    "holiday_avg": 1,
+    "holiday_avg": 1.0,
     "holiday_unit": "万人次",
     "holiday_rank": "市内商场第322名"
   },
@@ -43,7 +43,7 @@
       "3km": 32.9
     },
     "office": {
-      "500m": 6000,
+      "500m": 6000.0,
       "1_5km": 3.2,
       "3km": 10.8
     },
@@ -54,26 +54,26 @@
     }
   },
   "business": {
-    "competitors": 4,
-    "food": 107,
-    "shopping": 62,
-    "leisure": 4,
-    "education": 7,
-    "hotel": 6,
-    "services": 58,
-    "fitness": 8,
-    "auto": 4,
-    "total_stores": 121,
-    "old_store_3yr_pct": 62
+    "competitors": 4.0,
+    "food": 107.0,
+    "shopping": 62.0,
+    "leisure": 4.0,
+    "education": 7.0,
+    "hotel": 6.0,
+    "services": 58.0,
+    "fitness": 8.0,
+    "auto": 4.0,
+    "total_stores": 121.0,
+    "old_store_3yr_pct": 62.0
   },
   "nearby_poi": {
-    "business": 1,
-    "community": 114,
-    "office": 7,
-    "school": 10,
-    "hospital": 13,
-    "transport": 8,
-    "scenic": 38
+    "business": 1.0,
+    "community": 114.0,
+    "office": 7.0,
+    "school": 10.0,
+    "hospital": 13.0,
+    "transport": 8.0,
+    "scenic": 38.0
   },
   "demographics": {
     "male_pct": 52.7,
@@ -81,10 +81,10 @@
     "education": {
       "小学": 11.1,
       "初中": 21.5,
-      "高中": 13,
+      "高中": 13.0,
       "大专": 9.1,
       "本科": 42.5,
-      "硕士": 2,
+      "硕士": 2.0,
       "博士": 0.8
     },
     "has_children_pct": 57.6,
@@ -96,59 +96,59 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 68,
+      "count": 68.0,
       "within_1yr_pct": 38.2,
       "1_3yr_pct": 32.4,
       "over_3yr_pct": 29.4
     },
     {
       "type": "购物",
-      "count": 11,
+      "count": 11.0,
       "within_1yr_pct": 45.5,
       "1_3yr_pct": 45.5,
       "over_3yr_pct": 9.1
     },
     {
       "type": "休闲娱乐",
-      "count": 2,
-      "within_1yr_pct": 50,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 50
+      "count": 2.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 50.0
     },
     {
       "type": "教育培训",
-      "count": 6,
+      "count": 6.0,
       "within_1yr_pct": 33.3,
       "1_3yr_pct": 33.3,
       "over_3yr_pct": 33.3
     },
     {
       "type": "酒店住宿",
-      "count": 2,
-      "within_1yr_pct": 50,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 50
+      "count": 2.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 50.0
     },
     {
       "type": "生活服务",
-      "count": 12,
-      "within_1yr_pct": 25,
+      "count": 12.0,
+      "within_1yr_pct": 25.0,
       "1_3yr_pct": 41.7,
       "over_3yr_pct": 33.3
     },
     {
       "type": "运动健身",
-      "count": 5,
-      "within_1yr_pct": 20,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 80
+      "count": 5.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 80.0
     },
     {
       "type": "车辆服务",
-      "count": 3,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 100
+      "count": 3.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
     }
   ],
   "nearby_communities": [

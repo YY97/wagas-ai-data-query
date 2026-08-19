@@ -2,8 +2,8 @@
   "name": "浦东商场(昌里店)",
   "city": "上海市",
   "address": "上海市浦东新区北蔡镇北蔡休闲广场",
-  "lat": 31.183785,
-  "lng": 121.555972,
+  "lat": 31.173743,
+  "lng": 121.49158,
   "overview": {
     "score": 79.5,
     "score_rank": "市内前30%",
@@ -21,18 +21,18 @@
     "floors": "B1-L4"
   },
   "traffic": {
-    "annual_daily": 2877,
+    "annual_daily": 2877.0,
     "annual_daily_unit": "人次",
     "annual_daily_rank": "市内第445",
     "jun_total": 7.6,
     "jun_total_rank": "市内商场第514名",
-    "jun_daily_avg": 2521,
+    "jun_daily_avg": 2521.0,
     "jun_daily_unit": "人次",
     "jun_daily_rank": "市内商场第514名",
-    "weekday_avg": 2371,
+    "weekday_avg": 2371.0,
     "weekday_unit": "人次",
     "weekday_rank": "市内商场第514名",
-    "holiday_avg": 2931,
+    "holiday_avg": 2931.0,
     "holiday_unit": "人次",
     "holiday_rank": "市内商场第502名"
   },
@@ -54,33 +54,33 @@
     }
   },
   "business": {
-    "competitors": 2,
-    "food": 130,
-    "shopping": 140,
-    "leisure": 6,
-    "education": 24,
-    "hotel": 12,
-    "services": 121,
-    "fitness": 4,
-    "auto": 11,
-    "total_stores": 50,
-    "old_store_3yr_pct": 48
+    "competitors": 2.0,
+    "food": 130.0,
+    "shopping": 140.0,
+    "leisure": 6.0,
+    "education": 24.0,
+    "hotel": 12.0,
+    "services": 121.0,
+    "fitness": 4.0,
+    "auto": 11.0,
+    "total_stores": 50.0,
+    "old_store_3yr_pct": 48.0
   },
   "nearby_poi": {
-    "business": 3,
-    "community": 302,
-    "office": 3,
-    "school": 22,
-    "hospital": 47,
-    "transport": 12,
-    "scenic": 61
+    "business": 3.0,
+    "community": 302.0,
+    "office": 3.0,
+    "school": 22.0,
+    "hospital": 47.0,
+    "transport": 12.0,
+    "scenic": 61.0
   },
   "demographics": {
     "male_pct": 49.2,
     "female_pct": null,
     "education": {
       "小学": 7.8,
-      "初中": 15,
+      "初中": 15.0,
       "高中": 12.2,
       "大专": 6.4,
       "本科": 46.8,
@@ -172,52 +172,52 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 10,
-      "within_1yr_pct": 30,
-      "1_3yr_pct": 50,
-      "over_3yr_pct": 20
+      "count": 10.0,
+      "within_1yr_pct": 30.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 20.0
     },
     {
       "type": "购物",
-      "count": 5,
-      "within_1yr_pct": 20,
-      "1_3yr_pct": 40,
-      "over_3yr_pct": 40
+      "count": 5.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 40.0,
+      "over_3yr_pct": 40.0
     },
     {
       "type": "教育培训",
-      "count": 15,
-      "within_1yr_pct": 20,
+      "count": 15.0,
+      "within_1yr_pct": 20.0,
       "1_3yr_pct": 13.3,
       "over_3yr_pct": 66.7
     },
     {
       "type": "酒店住宿",
-      "count": 1,
-      "within_1yr_pct": 100,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 0
+      "count": 1.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
     },
     {
       "type": "生活服务",
-      "count": 14,
+      "count": 14.0,
       "within_1yr_pct": 7.1,
       "1_3yr_pct": 35.7,
       "over_3yr_pct": 57.1
     },
     {
       "type": "运动健身",
-      "count": 2,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 100
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
     },
     {
       "type": "车辆服务",
-      "count": 3,
+      "count": 3.0,
       "within_1yr_pct": 33.3,
       "1_3yr_pct": 66.7,
-      "over_3yr_pct": 0
+      "over_3yr_pct": 0.0
     }
   ],
   "nearby_communities": [

@@ -2,8 +2,8 @@
   "name": "上海仲盛世界商城",
   "city": "上海市",
   "address": "上海市闵行区莘朱路5083号",
-  "lat": 31.107075,
-  "lng": 121.387105,
+  "lat": 31.107101,
+  "lng": 121.38707,
   "overview": {
     "score": 95.2,
     "score_rank": "市内前30%",
@@ -38,7 +38,7 @@
   },
   "population": {
     "residential": {
-      "500m": 2,
+      "500m": 2.0,
       "1_5km": 18.1,
       "3km": 62.3
     },
@@ -50,38 +50,38 @@
     "permanent": {
       "500m": 2.2,
       "1_5km": 18.3,
-      "3km": 62
+      "3km": 62.0
     }
   },
   "business": {
-    "competitors": 6,
-    "food": 202,
-    "shopping": 184,
-    "leisure": 30,
-    "education": 30,
-    "hotel": 18,
-    "services": 138,
-    "fitness": 28,
-    "auto": 24,
-    "total_stores": 289,
-    "old_store_3yr_pct": 49
+    "competitors": 6.0,
+    "food": 202.0,
+    "shopping": 184.0,
+    "leisure": 30.0,
+    "education": 30.0,
+    "hotel": 18.0,
+    "services": 138.0,
+    "fitness": 28.0,
+    "auto": 24.0,
+    "total_stores": 289.0,
+    "old_store_3yr_pct": 49.0
   },
   "nearby_poi": {
-    "business": 4,
-    "community": 294,
-    "office": 43,
-    "school": 31,
-    "hospital": 30,
-    "transport": 13,
-    "scenic": 102
+    "business": 4.0,
+    "community": 294.0,
+    "office": 43.0,
+    "school": 31.0,
+    "hospital": 30.0,
+    "transport": 13.0,
+    "scenic": 102.0
   },
   "demographics": {
     "male_pct": 51.5,
     "female_pct": null,
     "education": {
       "小学": 8.8,
-      "初中": 16,
-      "高中": 11,
+      "初中": 16.0,
+      "高中": 11.0,
       "大专": 7.5,
       "本科": 49.7,
       "硕士": 5.6,
@@ -380,51 +380,51 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 101,
+      "count": 101.0,
       "within_1yr_pct": 29.7,
       "1_3yr_pct": 22.8,
       "over_3yr_pct": 47.5
     },
     {
       "type": "购物",
-      "count": 110,
+      "count": 110.0,
       "within_1yr_pct": 11.8,
       "1_3yr_pct": 34.5,
       "over_3yr_pct": 53.6
     },
     {
       "type": "休闲娱乐",
-      "count": 13,
+      "count": 13.0,
       "within_1yr_pct": 30.8,
       "1_3yr_pct": 46.2,
       "over_3yr_pct": 23.1
     },
     {
       "type": "教育培训",
-      "count": 13,
+      "count": 13.0,
       "within_1yr_pct": 15.4,
       "1_3yr_pct": 23.1,
       "over_3yr_pct": 61.5
     },
     {
       "type": "生活服务",
-      "count": 30,
+      "count": 30.0,
       "within_1yr_pct": 16.7,
       "1_3yr_pct": 26.7,
       "over_3yr_pct": 56.7
     },
     {
       "type": "运动健身",
-      "count": 8,
+      "count": 8.0,
       "within_1yr_pct": 37.5,
       "1_3yr_pct": 37.5,
-      "over_3yr_pct": 25
+      "over_3yr_pct": 25.0
     },
     {
       "type": "车辆服务",
-      "count": 14,
+      "count": 14.0,
       "within_1yr_pct": 7.1,
-      "1_3yr_pct": 50,
+      "1_3yr_pct": 50.0,
       "over_3yr_pct": 42.9
     }
   ],
@@ -2488,7 +2488,7 @@
       "raw": "同润家园 户数:391 居住人数:1206 建筑年份:1996"
     }
   ],
-  "community_count": 294,
   "avg_housing_price": 54053.78,
-  "total_households": 216820
+  "total_households": 216820,
+  "community_count": 294
 }

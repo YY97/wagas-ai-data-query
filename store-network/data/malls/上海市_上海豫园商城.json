@@ -10,10 +10,10 @@
     "population_score": 82.3,
     "area_score": 91.6,
     "consumption_score": 87.4,
-    "industry_score": 95,
+    "industry_score": 95.0,
     "annual_sales": "豫园商城依托豫园股份及复星集团旗下全球平台及资源赋能系统，汇聚1 7个中华老字号、2 0余个品牌时尚演绎中国传统经典为内核的优势产业集群，引领中华文化复兴潮流。",
     "annual_sales_unit": "-",
-    "area_size_sqm": 1000,
+    "area_size_sqm": 1000.0,
     "open_date": "",
     "operator": "上海豫园商贸发展有限公司",
     "brand": "",
@@ -24,7 +24,7 @@
     "annual_daily": 8.93,
     "annual_daily_unit": "万人次",
     "annual_daily_rank": "市内第2",
-    "jun_total": 229,
+    "jun_total": 229.0,
     "jun_total_rank": "市内商场第17名",
     "jun_daily_avg": 7.6,
     "jun_daily_unit": "万人次",
@@ -48,32 +48,32 @@
       "3km": 107.9
     },
     "permanent": {
-      "500m": 3,
+      "500m": 3.0,
       "1_5km": 20.8,
-      "3km": 99
+      "3km": 99.0
     }
   },
   "business": {
-    "competitors": 9,
-    "food": 261,
-    "shopping": 576,
-    "leisure": 33,
-    "education": 11,
-    "hotel": 44,
-    "services": 116,
-    "fitness": 6,
-    "auto": 15,
-    "total_stores": 196,
-    "old_store_3yr_pct": 39
+    "competitors": 9.0,
+    "food": 261.0,
+    "shopping": 576.0,
+    "leisure": 33.0,
+    "education": 11.0,
+    "hotel": 44.0,
+    "services": 116.0,
+    "fitness": 6.0,
+    "auto": 15.0,
+    "total_stores": 196.0,
+    "old_store_3yr_pct": 39.0
   },
   "nearby_poi": {
-    "business": 25,
-    "community": 756,
-    "office": 178,
-    "school": 53,
-    "hospital": 180,
-    "transport": 16,
-    "scenic": 876
+    "business": 25.0,
+    "community": 756.0,
+    "office": 178.0,
+    "school": 53.0,
+    "hospital": 180.0,
+    "transport": 16.0,
+    "scenic": 876.0
   },
   "demographics": {
     "male_pct": 47.8,
@@ -428,28 +428,28 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 92,
+      "count": 92.0,
       "within_1yr_pct": 30.4,
       "1_3yr_pct": 35.9,
       "over_3yr_pct": 33.7
     },
     {
       "type": "购物",
-      "count": 84,
+      "count": 84.0,
       "within_1yr_pct": 20.2,
-      "1_3yr_pct": 31,
+      "1_3yr_pct": 31.0,
       "over_3yr_pct": 48.8
     },
     {
       "type": "休闲娱乐",
-      "count": 7,
+      "count": 7.0,
       "within_1yr_pct": 14.3,
       "1_3yr_pct": 42.9,
       "over_3yr_pct": 42.9
     },
     {
       "type": "生活服务",
-      "count": 13,
+      "count": 13.0,
       "within_1yr_pct": 23.1,
       "1_3yr_pct": 69.2,
       "over_3yr_pct": 7.7
@@ -1857,7 +1857,7 @@
       "raw": "山北小区 户数:547 居住人数:1577 建筑年份:1984"
     }
   ],
-  "community_count": 200,
   "avg_housing_price": 102407.37,
-  "total_households": 225643
+  "total_households": 225643,
+  "community_count": 200
 }

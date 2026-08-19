@@ -2,8 +2,8 @@
   "name": "华冠欢乐城",
   "city": "北京市",
   "address": "上海市闵行区沪星路105号",
-  "lat": null,
-  "lng": null,
+  "lat": 39.693179,
+  "lng": 115.987001,
   "overview": {
     "score": 72.1,
     "score_rank": "市内前70%",
@@ -13,7 +13,7 @@
     "industry_score": 72.1,
     "annual_sales": "金樽广场项目位于上海市闵行区七宝商圈核心位置，沪星路105号。项目总体量约3万平方米，旨在打造一个集合吃、喝、玩、乐以及网红打卡目的地于一身的西上海夜生活新地标2.0",
     "annual_sales_unit": "-",
-    "area_size_sqm": 3,
+    "area_size_sqm": 3.0,
     "open_date": "2015-12-01",
     "operator": "上海金球投资控股有限公司",
     "brand": "",
@@ -21,59 +21,59 @@
     "floors": "B1-L4"
   },
   "traffic": {
-    "annual_daily": 904,
+    "annual_daily": 904.0,
     "annual_daily_unit": "人次",
     "annual_daily_rank": "市内第515",
     "jun_total": 3.8,
     "jun_total_rank": "市内商场第569名",
-    "jun_daily_avg": 1265,
+    "jun_daily_avg": 1265.0,
     "jun_daily_unit": "人次",
     "jun_daily_rank": "市内商场第569名",
-    "weekday_avg": 1260,
+    "weekday_avg": 1260.0,
     "weekday_unit": "人次",
     "weekday_rank": "市内商场第564名",
-    "holiday_avg": 1275,
+    "holiday_avg": 1275.0,
     "holiday_unit": "人次",
     "holiday_rank": "市内商场第569名"
   },
   "population": {
     "residential": {
-      "500m": 9600,
-      "1_5km": 12,
-      "3km": 47
+      "500m": 9600.0,
+      "1_5km": 12.0,
+      "3km": 47.0
     },
     "office": {
-      "500m": 5700,
+      "500m": 5700.0,
       "1_5km": 6.3,
       "3km": 24.3
     },
     "permanent": {
-      "500m": 9000,
+      "500m": 9000.0,
       "1_5km": 11.5,
       "3km": 45.8
     }
   },
   "business": {
     "competitors": null,
-    "food": 97,
-    "shopping": 64,
-    "leisure": 13,
-    "education": 13,
-    "hotel": 36,
-    "services": 52,
-    "fitness": 32,
-    "auto": 39,
-    "total_stores": 31,
-    "old_store_3yr_pct": 45
+    "food": 97.0,
+    "shopping": 64.0,
+    "leisure": 13.0,
+    "education": 13.0,
+    "hotel": 36.0,
+    "services": 52.0,
+    "fitness": 32.0,
+    "auto": 39.0,
+    "total_stores": 31.0,
+    "old_store_3yr_pct": 45.0
   },
   "nearby_poi": {
-    "business": 6,
-    "community": 257,
-    "office": 21,
-    "school": 14,
-    "hospital": 31,
-    "transport": 7,
-    "scenic": 128
+    "business": 6.0,
+    "community": 257.0,
+    "office": 21.0,
+    "school": 14.0,
+    "hospital": 31.0,
+    "transport": 7.0,
+    "scenic": 128.0
   },
   "demographics": {
     "male_pct": 55.2,
@@ -85,10 +85,10 @@
       "大专": 8.1,
       "本科": 46.4,
       "硕士": 4.4,
-      "博士": 1
+      "博士": 1.0
     },
-    "has_children_pct": 57,
-    "no_children_pct": 43
+    "has_children_pct": 57.0,
+    "no_children_pct": 43.0
   },
   "scraped_at": "2026-08-01T14:19:07.529Z",
   "nearby_restaurants": [
@@ -156,51 +156,51 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 11,
+      "count": 11.0,
       "within_1yr_pct": 36.4,
       "1_3yr_pct": 36.4,
       "over_3yr_pct": 27.3
     },
     {
       "type": "购物",
-      "count": 2,
-      "within_1yr_pct": 100,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 0
+      "count": 2.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
     },
     {
       "type": "休闲娱乐",
-      "count": 7,
+      "count": 7.0,
       "within_1yr_pct": 14.3,
       "1_3yr_pct": 28.6,
       "over_3yr_pct": 57.1
     },
     {
       "type": "酒店住宿",
-      "count": 1,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 100
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
     },
     {
       "type": "生活服务",
-      "count": 4,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 50,
-      "over_3yr_pct": 50
+      "count": 4.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 50.0
     },
     {
       "type": "运动健身",
-      "count": 3,
-      "within_1yr_pct": 0,
+      "count": 3.0,
+      "within_1yr_pct": 0.0,
       "1_3yr_pct": 33.3,
       "over_3yr_pct": 66.7
     },
     {
       "type": "车辆服务",
-      "count": 3,
+      "count": 3.0,
       "within_1yr_pct": 33.3,
-      "1_3yr_pct": 0,
+      "1_3yr_pct": 0.0,
       "over_3yr_pct": 66.7
     }
   ],

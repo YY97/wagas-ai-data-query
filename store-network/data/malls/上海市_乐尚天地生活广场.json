@@ -9,11 +9,11 @@
     "score_rank": "市内前30%",
     "population_score": 81.2,
     "area_score": 65.3,
-    "consumption_score": 60,
+    "consumption_score": 60.0,
     "industry_score": 92.1,
     "annual_sales": "乐尚天地生活广场是车墩地区集吃、喝、玩、乐、购为一体的生活服务配套旗舰，位于松江出口加工区、上海国际中心企业城、车墩镇的中心位置，覆盖人口超过30万",
     "annual_sales_unit": "-",
-    "area_size_sqm": 4,
+    "area_size_sqm": 4.0,
     "open_date": "2017-06-17",
     "operator": "开元旅业集团有限公司",
     "brand": "海伦堡商业集团",
@@ -43,7 +43,7 @@
       "3km": 23.1
     },
     "office": {
-      "500m": 8300,
+      "500m": 8300.0,
       "1_5km": 5.7,
       "3km": 19.2
     },
@@ -54,26 +54,26 @@
     }
   },
   "business": {
-    "competitors": 5,
-    "food": 79,
-    "shopping": 23,
-    "leisure": 6,
+    "competitors": 5.0,
+    "food": 79.0,
+    "shopping": 23.0,
+    "leisure": 6.0,
     "education": null,
-    "hotel": 5,
-    "services": 17,
-    "fitness": 1,
-    "auto": 2,
-    "total_stores": 90,
-    "old_store_3yr_pct": 67
+    "hotel": 5.0,
+    "services": 17.0,
+    "fitness": 1.0,
+    "auto": 2.0,
+    "total_stores": 90.0,
+    "old_store_3yr_pct": 67.0
   },
   "nearby_poi": {
     "business": null,
-    "community": 71,
-    "office": 24,
-    "school": 7,
-    "hospital": 5,
-    "transport": 2,
-    "scenic": 42
+    "community": 71.0,
+    "office": 24.0,
+    "school": 7.0,
+    "hospital": 5.0,
+    "transport": 2.0,
+    "scenic": 42.0
   },
   "demographics": {
     "male_pct": 54.6,
@@ -81,8 +81,8 @@
     "education": {
       "小学": 12.9,
       "初中": 23.5,
-      "高中": 14,
-      "大专": 10,
+      "高中": 14.0,
+      "大专": 10.0,
       "本科": 38.2,
       "硕士": 1.2,
       "博士": 0.2
@@ -142,52 +142,52 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 55,
+      "count": 55.0,
       "within_1yr_pct": 10.9,
-      "1_3yr_pct": 20,
+      "1_3yr_pct": 20.0,
       "over_3yr_pct": 69.1
     },
     {
       "type": "购物",
-      "count": 12,
+      "count": 12.0,
       "within_1yr_pct": 16.7,
       "1_3yr_pct": 16.7,
       "over_3yr_pct": 66.7
     },
     {
       "type": "休闲娱乐",
-      "count": 5,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 40,
-      "over_3yr_pct": 60
+      "count": 5.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 40.0,
+      "over_3yr_pct": 60.0
     },
     {
       "type": "酒店住宿",
-      "count": 2,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 100
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
     },
     {
       "type": "生活服务",
-      "count": 13,
+      "count": 13.0,
       "within_1yr_pct": 15.4,
       "1_3yr_pct": 23.1,
       "over_3yr_pct": 61.5
     },
     {
       "type": "运动健身",
-      "count": 1,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 100
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
     },
     {
       "type": "车辆服务",
-      "count": 2,
-      "within_1yr_pct": 50,
-      "1_3yr_pct": 50,
-      "over_3yr_pct": 0
+      "count": 2.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 0.0
     }
   ],
   "nearby_communities": [

@@ -8,7 +8,7 @@
     "score": 89.7,
     "score_rank": "市内前30%",
     "population_score": 86.7,
-    "area_score": 100,
+    "area_score": 100.0,
     "consumption_score": 87.8,
     "industry_score": 89.7,
     "annual_sales": "5",
@@ -21,10 +21,10 @@
     "floors": "B1-L5"
   },
   "traffic": {
-    "annual_daily": 7890,
+    "annual_daily": 7890.0,
     "annual_daily_unit": "人次",
     "annual_daily_rank": "市内第296",
-    "jun_total": 33,
+    "jun_total": 33.0,
     "jun_total_rank": "市内商场第290名",
     "jun_daily_avg": 1.1,
     "jun_daily_unit": "万人次",
@@ -45,35 +45,35 @@
     "office": {
       "500m": 4.6,
       "1_5km": 31.6,
-      "3km": 108
+      "3km": 108.0
     },
     "permanent": {
       "500m": 3.2,
-      "1_5km": 28,
+      "1_5km": 28.0,
       "3km": 114.7
     }
   },
   "business": {
-    "competitors": 22,
-    "food": 530,
-    "shopping": 495,
-    "leisure": 32,
-    "education": 30,
-    "hotel": 111,
-    "services": 308,
-    "fitness": 35,
-    "auto": 39,
-    "total_stores": 76,
-    "old_store_3yr_pct": 54
+    "competitors": 22.0,
+    "food": 530.0,
+    "shopping": 495.0,
+    "leisure": 32.0,
+    "education": 30.0,
+    "hotel": 111.0,
+    "services": 308.0,
+    "fitness": 35.0,
+    "auto": 39.0,
+    "total_stores": 76.0,
+    "old_store_3yr_pct": 54.0
   },
   "nearby_poi": {
-    "business": 25,
-    "community": 1191,
-    "office": 225,
-    "school": 73,
-    "hospital": 221,
-    "transport": 12,
-    "scenic": 770
+    "business": 25.0,
+    "community": 1191.0,
+    "office": 225.0,
+    "school": 73.0,
+    "hospital": 221.0,
+    "transport": 12.0,
+    "scenic": 770.0
   },
   "demographics": {
     "male_pct": 47.1,
@@ -81,7 +81,7 @@
     "education": {
       "小学": 9.1,
       "初中": 17.9,
-      "高中": 12,
+      "高中": 12.0,
       "大专": 6.8,
       "本科": 47.9,
       "硕士": 4.7,
@@ -428,59 +428,59 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 23,
+      "count": 23.0,
       "within_1yr_pct": 21.7,
       "1_3yr_pct": 8.7,
       "over_3yr_pct": 69.6
     },
     {
       "type": "购物",
-      "count": 27,
+      "count": 27.0,
       "within_1yr_pct": 22.2,
       "1_3yr_pct": 25.9,
       "over_3yr_pct": 51.9
     },
     {
       "type": "休闲娱乐",
-      "count": 2,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 100,
-      "over_3yr_pct": 0
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
     },
     {
       "type": "教育培训",
-      "count": 2,
-      "within_1yr_pct": 50,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 50
+      "count": 2.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 50.0
     },
     {
       "type": "酒店住宿",
-      "count": 1,
-      "within_1yr_pct": 100,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 0
+      "count": 1.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
     },
     {
       "type": "生活服务",
-      "count": 15,
-      "within_1yr_pct": 20,
+      "count": 15.0,
+      "within_1yr_pct": 20.0,
       "1_3yr_pct": 33.3,
       "over_3yr_pct": 46.7
     },
     {
       "type": "运动健身",
-      "count": 5,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 60,
-      "over_3yr_pct": 40
+      "count": 5.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 60.0,
+      "over_3yr_pct": 40.0
     },
     {
       "type": "车辆服务",
-      "count": 1,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 100
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
     }
   ],
   "nearby_communities": [
@@ -4685,7 +4685,7 @@
       "raw": "衍庆里 户数:300 居住人数:小于100 建筑年份:2005"
     }
   ],
-  "community_count": 600,
   "avg_housing_price": 106156.57,
-  "total_households": 276065
+  "total_households": 276065,
+  "community_count": 600
 }

@@ -5,15 +5,15 @@
   "lat": 31.207508,
   "lng": 121.40766,
   "overview": {
-    "score": 96,
+    "score": 96.0,
     "score_rank": "市内前30%",
     "population_score": 95.4,
     "area_score": 94.2,
     "consumption_score": 76.6,
-    "industry_score": 96,
+    "industry_score": 96.0,
     "annual_sales": "虹桥南丰城是一个集大型购物中心、商务办公楼和高端住宅项目于一体的国际化城市综合体。购物中心，停车位1000余辆。项目位于以遵义路为主轴的虹桥高级商圈，该商圈位于上海13个市级商业中心之一的「新虹桥——天山商业中心」核心区域。项目距离地铁2号线10分钟步程，同时距离上海虹桥国际机场及虹桥枢纽也仅20分钟车程",
     "annual_sales_unit": "-",
-    "area_size_sqm": 11,
+    "area_size_sqm": 11.0,
     "open_date": "2014-12-19",
     "operator": "香港南丰集团",
     "brand": "",
@@ -32,7 +32,7 @@
     "weekday_avg": 5.5,
     "weekday_unit": "万人次",
     "weekday_rank": "市内商场第47名",
-    "holiday_avg": 6,
+    "holiday_avg": 6.0,
     "holiday_unit": "万人次",
     "holiday_rank": "市内商场第66名"
   },
@@ -54,26 +54,26 @@
     }
   },
   "business": {
-    "competitors": 14,
-    "food": 450,
-    "shopping": 281,
-    "leisure": 37,
-    "education": 43,
-    "hotel": 34,
-    "services": 222,
-    "fitness": 55,
-    "auto": 38,
-    "total_stores": 282,
-    "old_store_3yr_pct": 53
+    "competitors": 14.0,
+    "food": 450.0,
+    "shopping": 281.0,
+    "leisure": 37.0,
+    "education": 43.0,
+    "hotel": 34.0,
+    "services": 222.0,
+    "fitness": 55.0,
+    "auto": 38.0,
+    "total_stores": 282.0,
+    "old_store_3yr_pct": 53.0
   },
   "nearby_poi": {
-    "business": 10,
-    "community": 874,
-    "office": 125,
-    "school": 46,
-    "hospital": 148,
-    "transport": 18,
-    "scenic": 334
+    "business": 10.0,
+    "community": 874.0,
+    "office": 125.0,
+    "school": 46.0,
+    "hospital": 148.0,
+    "transport": 18.0,
+    "scenic": 334.0
   },
   "demographics": {
     "male_pct": 53.3,
@@ -87,8 +87,8 @@
       "硕士": 5.4,
       "博士": 1.8
     },
-    "has_children_pct": 66,
-    "no_children_pct": 34
+    "has_children_pct": 66.0,
+    "no_children_pct": 34.0
   },
   "scraped_at": "2026-07-31T17:30:37.706Z",
   "nearby_restaurants": [
@@ -428,51 +428,51 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 123,
+      "count": 123.0,
       "within_1yr_pct": 17.9,
       "1_3yr_pct": 28.5,
       "over_3yr_pct": 53.7
     },
     {
       "type": "购物",
-      "count": 68,
+      "count": 68.0,
       "within_1yr_pct": 19.1,
       "1_3yr_pct": 23.5,
       "over_3yr_pct": 57.4
     },
     {
       "type": "休闲娱乐",
-      "count": 15,
+      "count": 15.0,
       "within_1yr_pct": 46.7,
-      "1_3yr_pct": 20,
+      "1_3yr_pct": 20.0,
       "over_3yr_pct": 33.3
     },
     {
       "type": "教育培训",
-      "count": 11,
+      "count": 11.0,
       "within_1yr_pct": 9.1,
       "1_3yr_pct": 27.3,
       "over_3yr_pct": 63.6
     },
     {
       "type": "生活服务",
-      "count": 44,
+      "count": 44.0,
       "within_1yr_pct": 13.6,
       "1_3yr_pct": 31.8,
       "over_3yr_pct": 54.5
     },
     {
       "type": "运动健身",
-      "count": 7,
-      "within_1yr_pct": 0,
+      "count": 7.0,
+      "within_1yr_pct": 0.0,
       "1_3yr_pct": 42.9,
       "over_3yr_pct": 57.1
     },
     {
       "type": "车辆服务",
-      "count": 14,
+      "count": 14.0,
       "within_1yr_pct": 14.3,
-      "1_3yr_pct": 50,
+      "1_3yr_pct": 50.0,
       "over_3yr_pct": 35.7
     }
   ],
@@ -1255,7 +1255,7 @@
       "raw": "西郊华城 户数:342 居住人数:970+ 建筑年份:2008"
     }
   ],
-  "community_count": 111,
   "avg_housing_price": 85092.34,
-  "total_households": 337622
+  "total_households": 337622,
+  "community_count": 111
 }

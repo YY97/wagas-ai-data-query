@@ -13,7 +13,7 @@
     "industry_score": 93.6,
     "annual_sales": "上海飞洲国际广场座落于徐家汇商圈核心地段，毗邻八万人体育场、上海体育馆、华亭宾馆、宜家家居、徐汇区政府总层数为31层，建筑面积80000平方米；大厦配备了30000平方米商业中心，餐饮、购物、休闲一应俱全大厦大堂10米挑高，第七层为商务视电会议中心，四国语言同步翻译，远程视讯系统，量身定造商业资讯平台航母级立体车库600-800个停车位，让您的爱车自“起降”，来去自如；写字楼单层面积约2300平方米，得房率高达73以上，10米挑高大堂，多功能弹性自空间彰显大家风范，是上海飞洲置业有限公司开发投建，香港戴德梁行担纲物业管理，为业主提供的物业服务",
     "annual_sales_unit": "-",
-    "area_size_sqm": 3,
+    "area_size_sqm": 3.0,
     "open_date": "2004-03-08",
     "operator": "飞洲集团股份有限公司",
     "brand": "",
@@ -43,7 +43,7 @@
       "3km": 87.4
     },
     "office": {
-      "500m": 2,
+      "500m": 2.0,
       "1_5km": 23.7,
       "3km": 78.2
     },
@@ -54,26 +54,26 @@
     }
   },
   "business": {
-    "competitors": 8,
-    "food": 151,
-    "shopping": 112,
-    "leisure": 19,
-    "education": 62,
-    "hotel": 39,
-    "services": 101,
-    "fitness": 47,
-    "auto": 18,
-    "total_stores": 147,
-    "old_store_3yr_pct": 49
+    "competitors": 8.0,
+    "food": 151.0,
+    "shopping": 112.0,
+    "leisure": 19.0,
+    "education": 62.0,
+    "hotel": 39.0,
+    "services": 101.0,
+    "fitness": 47.0,
+    "auto": 18.0,
+    "total_stores": 147.0,
+    "old_store_3yr_pct": 49.0
   },
   "nearby_poi": {
-    "business": 14,
-    "community": 827,
-    "office": 147,
-    "school": 59,
-    "hospital": 117,
-    "transport": 7,
-    "scenic": 327
+    "business": 14.0,
+    "community": 827.0,
+    "office": 147.0,
+    "school": 59.0,
+    "hospital": 117.0,
+    "transport": 7.0,
+    "scenic": 327.0
   },
   "demographics": {
     "male_pct": 47.7,
@@ -428,49 +428,49 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 43,
-      "within_1yr_pct": 7,
+      "count": 43.0,
+      "within_1yr_pct": 7.0,
       "1_3yr_pct": 41.9,
       "over_3yr_pct": 51.2
     },
     {
       "type": "购物",
-      "count": 51,
+      "count": 51.0,
       "within_1yr_pct": 17.6,
       "1_3yr_pct": 19.6,
       "over_3yr_pct": 62.7
     },
     {
       "type": "休闲娱乐",
-      "count": 5,
-      "within_1yr_pct": 60,
-      "1_3yr_pct": 40,
-      "over_3yr_pct": 0
+      "count": 5.0,
+      "within_1yr_pct": 60.0,
+      "1_3yr_pct": 40.0,
+      "over_3yr_pct": 0.0
     },
     {
       "type": "教育培训",
-      "count": 26,
+      "count": 26.0,
       "within_1yr_pct": 26.9,
       "1_3yr_pct": 38.5,
       "over_3yr_pct": 34.6
     },
     {
       "type": "生活服务",
-      "count": 15,
-      "within_1yr_pct": 40,
-      "1_3yr_pct": 20,
-      "over_3yr_pct": 40
+      "count": 15.0,
+      "within_1yr_pct": 40.0,
+      "1_3yr_pct": 20.0,
+      "over_3yr_pct": 40.0
     },
     {
       "type": "运动健身",
-      "count": 4,
-      "within_1yr_pct": 50,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 50
+      "count": 4.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 50.0
     },
     {
       "type": "车辆服务",
-      "count": 3,
+      "count": 3.0,
       "within_1yr_pct": 33.3,
       "1_3yr_pct": 33.3,
       "over_3yr_pct": 33.3

@@ -2,8 +2,8 @@
   "name": "远洋乐堤港",
   "city": "北京市",
   "address": "北京市门头沟区永定镇西长安中骏世界城奥莱Mall中骏世界城(西长安店)",
-  "lat": 39.911423,
-  "lng": 116.124093,
+  "lat": 39.923563,
+  "lng": 116.658421,
   "overview": {
     "score": 92.3,
     "score_rank": "市内前30%",
@@ -13,7 +13,7 @@
     "industry_score": 92.4,
     "annual_sales": "北京长安中骏世界城位于北京市门头沟区，是中骏集团控股有限公司开发的大型购物中心。作为中骏“一体两翼”战略模式下的标杆级项目，它采用了“超级TOD综合体模式”，旨在焕新城市活力，赋能城市发展。项目一层直通门头沟地区最大的公交总站，并与地铁S1号线桥户营站通过连廊无缝连接，方便市民出行。",
     "annual_sales_unit": "-",
-    "area_size_sqm": 12,
+    "area_size_sqm": 12.0,
     "open_date": "2023-03-17",
     "operator": "中骏商管智慧服务控股有限公司",
     "brand": "中骏",
@@ -43,7 +43,7 @@
       "3km": 26.3
     },
     "office": {
-      "500m": 5600,
+      "500m": 5600.0,
       "1_5km": 3.1,
       "3km": 10.6
     },
@@ -54,33 +54,33 @@
     }
   },
   "business": {
-    "competitors": 4,
-    "food": 108,
-    "shopping": 122,
-    "leisure": 19,
-    "education": 7,
-    "hotel": 29,
-    "services": 62,
-    "fitness": 8,
-    "auto": 5,
-    "total_stores": 160,
-    "old_store_3yr_pct": 46
+    "competitors": 4.0,
+    "food": 108.0,
+    "shopping": 122.0,
+    "leisure": 19.0,
+    "education": 7.0,
+    "hotel": 29.0,
+    "services": 62.0,
+    "fitness": 8.0,
+    "auto": 5.0,
+    "total_stores": 160.0,
+    "old_store_3yr_pct": 46.0
   },
   "nearby_poi": {
-    "business": 2,
-    "community": 143,
-    "office": 9,
-    "school": 8,
-    "hospital": 18,
-    "transport": 3,
-    "scenic": 102
+    "business": 2.0,
+    "community": 143.0,
+    "office": 9.0,
+    "school": 8.0,
+    "hospital": 18.0,
+    "transport": 3.0,
+    "scenic": 102.0
   },
   "demographics": {
     "male_pct": 46.8,
     "female_pct": null,
     "education": {
       "小学": 10.2,
-      "初中": 16,
+      "初中": 16.0,
       "高中": 10.5,
       "大专": 8.6,
       "本科": 48.1,
@@ -154,52 +154,52 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 59,
+      "count": 59.0,
       "within_1yr_pct": 28.8,
       "1_3yr_pct": 20.3,
       "over_3yr_pct": 50.8
     },
     {
       "type": "购物",
-      "count": 73,
+      "count": 73.0,
       "within_1yr_pct": 30.1,
-      "1_3yr_pct": 26,
+      "1_3yr_pct": 26.0,
       "over_3yr_pct": 43.8
     },
     {
       "type": "休闲娱乐",
-      "count": 12,
+      "count": 12.0,
       "within_1yr_pct": 41.7,
       "1_3yr_pct": 8.3,
-      "over_3yr_pct": 50
+      "over_3yr_pct": 50.0
     },
     {
       "type": "教育培训",
-      "count": 3,
-      "within_1yr_pct": 0,
+      "count": 3.0,
+      "within_1yr_pct": 0.0,
       "1_3yr_pct": 66.7,
       "over_3yr_pct": 33.3
     },
     {
       "type": "生活服务",
-      "count": 10,
-      "within_1yr_pct": 10,
-      "1_3yr_pct": 50,
-      "over_3yr_pct": 40
+      "count": 10.0,
+      "within_1yr_pct": 10.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 40.0
     },
     {
       "type": "运动健身",
-      "count": 2,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 50,
-      "over_3yr_pct": 50
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 50.0
     },
     {
       "type": "车辆服务",
-      "count": 1,
-      "within_1yr_pct": 100,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 0
+      "count": 1.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
     }
   ],
   "nearby_communities": [

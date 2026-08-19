@@ -2,8 +2,8 @@
   "name": "枫尚奥特莱斯购物广场",
   "city": "北京市",
   "address": "上海市嘉定区宝安公路3500号",
-  "lat": null,
-  "lng": null,
+  "lat": 40.144868,
+  "lng": 117.094713,
   "overview": {
     "score": null,
     "score_rank": "",
@@ -43,7 +43,7 @@
       "3km": 32.2
     },
     "office": {
-      "500m": 8500,
+      "500m": 8500.0,
       "1_5km": 4.3,
       "3km": 14.4
     },
@@ -54,29 +54,29 @@
     }
   },
   "business": {
-    "competitors": 4,
-    "food": 255,
-    "shopping": 209,
-    "leisure": 24,
-    "education": 17,
-    "hotel": 13,
-    "services": 135,
-    "fitness": 19,
-    "auto": 16,
-    "total_stores": 24,
-    "old_store_3yr_pct": 38
+    "competitors": 4.0,
+    "food": 255.0,
+    "shopping": 209.0,
+    "leisure": 24.0,
+    "education": 17.0,
+    "hotel": 13.0,
+    "services": 135.0,
+    "fitness": 19.0,
+    "auto": 16.0,
+    "total_stores": 24.0,
+    "old_store_3yr_pct": 38.0
   },
   "nearby_poi": {
-    "business": 3,
-    "community": 121,
-    "office": 11,
-    "school": 18,
-    "hospital": 12,
-    "transport": 4,
-    "scenic": 26
+    "business": 3.0,
+    "community": 121.0,
+    "office": 11.0,
+    "school": 18.0,
+    "hospital": 12.0,
+    "transport": 4.0,
+    "scenic": 26.0
   },
   "demographics": {
-    "male_pct": 52,
+    "male_pct": 52.0,
     "female_pct": null,
     "education": {
       "小学": 10.9,
@@ -96,52 +96,52 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 10,
-      "within_1yr_pct": 50,
-      "1_3yr_pct": 40,
-      "over_3yr_pct": 10
+      "count": 10.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 40.0,
+      "over_3yr_pct": 10.0
     },
     {
       "type": "购物",
-      "count": 2,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 100
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
     },
     {
       "type": "休闲娱乐",
-      "count": 4,
-      "within_1yr_pct": 25,
-      "1_3yr_pct": 25,
-      "over_3yr_pct": 50
+      "count": 4.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 50.0
     },
     {
       "type": "教育培训",
-      "count": 1,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 100,
-      "over_3yr_pct": 0
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
     },
     {
       "type": "生活服务",
-      "count": 5,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 40,
-      "over_3yr_pct": 60
+      "count": 5.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 40.0,
+      "over_3yr_pct": 60.0
     },
     {
       "type": "运动健身",
-      "count": 1,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 100,
-      "over_3yr_pct": 0
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
     },
     {
       "type": "车辆服务",
-      "count": 1,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 100
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
     }
   ],
   "nearby_communities": [

@@ -2,10 +2,10 @@
   "name": "李老社区商业中心",
   "city": "北京市",
   "address": "北京市石景山区五里坨西街12院",
-  "lat": 39.955583,
-  "lng": 116.122254,
+  "lat": 39.891105,
+  "lng": 116.635692,
   "overview": {
-    "score": 81,
+    "score": 81.0,
     "score_rank": "市内前30%",
     "population_score": 86.9,
     "area_score": 65.9,
@@ -26,13 +26,13 @@
     "annual_daily_rank": "",
     "jun_total": 5.6,
     "jun_total_rank": "市内商场第342名",
-    "jun_daily_avg": 1857,
+    "jun_daily_avg": 1857.0,
     "jun_daily_unit": "人次",
     "jun_daily_rank": "市内商场第342名",
-    "weekday_avg": 1775,
+    "weekday_avg": 1775.0,
     "weekday_unit": "人次",
     "weekday_rank": "市内商场第341名",
-    "holiday_avg": 2081,
+    "holiday_avg": 2081.0,
     "holiday_unit": "人次",
     "holiday_rank": "市内商场第338名"
   },
@@ -43,7 +43,7 @@
       "3km": 23.1
     },
     "office": {
-      "500m": 6000,
+      "500m": 6000.0,
       "1_5km": 2.6,
       "3km": 9.2
     },
@@ -54,26 +54,26 @@
     }
   },
   "business": {
-    "competitors": 3,
-    "food": 56,
-    "shopping": 25,
-    "leisure": 5,
-    "education": 9,
-    "hotel": 4,
-    "services": 33,
-    "fitness": 15,
-    "auto": 6,
-    "total_stores": 19,
-    "old_store_3yr_pct": 58
+    "competitors": 3.0,
+    "food": 56.0,
+    "shopping": 25.0,
+    "leisure": 5.0,
+    "education": 9.0,
+    "hotel": 4.0,
+    "services": 33.0,
+    "fitness": 15.0,
+    "auto": 6.0,
+    "total_stores": 19.0,
+    "old_store_3yr_pct": 58.0
   },
   "nearby_poi": {
-    "business": 2,
-    "community": 141,
-    "office": 1,
-    "school": 12,
-    "hospital": 30,
-    "transport": 7,
-    "scenic": 56
+    "business": 2.0,
+    "community": 141.0,
+    "office": 1.0,
+    "school": 12.0,
+    "hospital": 30.0,
+    "transport": 7.0,
+    "scenic": 56.0
   },
   "demographics": {
     "male_pct": null,
@@ -87,8 +87,8 @@
       "硕士": 6.8,
       "博士": 1.6
     },
-    "has_children_pct": 57,
-    "no_children_pct": 43
+    "has_children_pct": 57.0,
+    "no_children_pct": 43.0
   },
   "scraped_at": "2026-08-01T11:40:45.823Z",
   "nearby_restaurants": [],
@@ -96,31 +96,31 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 10,
-      "within_1yr_pct": 10,
-      "1_3yr_pct": 30,
-      "over_3yr_pct": 60
+      "count": 10.0,
+      "within_1yr_pct": 10.0,
+      "1_3yr_pct": 30.0,
+      "over_3yr_pct": 60.0
     },
     {
       "type": "购物",
-      "count": 4,
-      "within_1yr_pct": 25,
-      "1_3yr_pct": 25,
-      "over_3yr_pct": 50
+      "count": 4.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 50.0
     },
     {
       "type": "生活服务",
-      "count": 4,
-      "within_1yr_pct": 25,
-      "1_3yr_pct": 25,
-      "over_3yr_pct": 50
+      "count": 4.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 50.0
     },
     {
       "type": "车辆服务",
-      "count": 1,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 100
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
     }
   ],
   "nearby_communities": [

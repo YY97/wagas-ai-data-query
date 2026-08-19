@@ -2,8 +2,8 @@
   "name": "大华老镇嘉年华",
   "city": "上海市",
   "address": "上海市徐汇区浦北路9号(上海南站地铁站8号口步行340米)",
-  "lat": 31.153127,
-  "lng": 121.429462,
+  "lat": 31.302115,
+  "lng": 121.417644,
   "overview": {
     "score": 88.3,
     "score_rank": "市内前30%",
@@ -13,7 +13,7 @@
     "industry_score": 88.4,
     "annual_sales": "徐汇中星城位于南徐家汇国际商务区核心，是总建筑面积17万平方米、商业面积为10万平方米的商业地产，为全资持有型物业上海中星（集团）有限公司投资建设，一栋21层5A甲级写字楼、一栋23层5星级酒店及4层购物中心组成地理位置优越，距离徐家汇CBD仅5分钟车程，凭借轨交、高架、航空、铁路、长途客运5大交通载体构建了通畅的出行网络5A甲级写字楼独具6大人性化办公设计，包括橄榄形外观实现360°采光，4.2米标准层高，无柱特色办公空间，配置6台三菱高速客梯，四管制中央空调，全数字安保系统以及800个停车位目前，五星级酒店已法国雅高集团旗下的五星级铂尔曼商务酒店入驻，世界零售巨头家乐福超市也已入驻中星城，5A甲级写字楼正在火热招租中",
     "annual_sales_unit": "-",
-    "area_size_sqm": 10,
+    "area_size_sqm": 10.0,
     "open_date": "2013-10-18",
     "operator": "上海地产（集团）有限公司",
     "brand": "",
@@ -21,7 +21,7 @@
     "floors": ""
   },
   "traffic": {
-    "annual_daily": 8849,
+    "annual_daily": 8849.0,
     "annual_daily_unit": "人次",
     "annual_daily_rank": "市内第277",
     "jun_total": 34.4,
@@ -43,37 +43,37 @@
       "3km": 81.5
     },
     "office": {
-      "500m": 3,
+      "500m": 3.0,
       "1_5km": 12.7,
       "3km": 59.5
     },
     "permanent": {
-      "500m": 3,
+      "500m": 3.0,
       "1_5km": 23.5,
       "3km": 85.1
     }
   },
   "business": {
-    "competitors": 13,
-    "food": 214,
-    "shopping": 121,
-    "leisure": 10,
-    "education": 30,
-    "hotel": 36,
-    "services": 86,
-    "fitness": 27,
-    "auto": 25,
-    "total_stores": 49,
-    "old_store_3yr_pct": 49
+    "competitors": 13.0,
+    "food": 214.0,
+    "shopping": 121.0,
+    "leisure": 10.0,
+    "education": 30.0,
+    "hotel": 36.0,
+    "services": 86.0,
+    "fitness": 27.0,
+    "auto": 25.0,
+    "total_stores": 49.0,
+    "old_store_3yr_pct": 49.0
   },
   "nearby_poi": {
-    "business": 3,
-    "community": 491,
-    "office": 52,
-    "school": 50,
-    "hospital": 75,
-    "transport": 12,
-    "scenic": 207
+    "business": 3.0,
+    "community": 491.0,
+    "office": 52.0,
+    "school": 50.0,
+    "hospital": 75.0,
+    "transport": 12.0,
+    "scenic": 207.0
   },
   "demographics": {
     "male_pct": 51.8,
@@ -142,59 +142,59 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 15,
+      "count": 15.0,
       "within_1yr_pct": 6.7,
-      "1_3yr_pct": 20,
+      "1_3yr_pct": 20.0,
       "over_3yr_pct": 73.3
     },
     {
       "type": "购物",
-      "count": 8,
-      "within_1yr_pct": 0,
+      "count": 8.0,
+      "within_1yr_pct": 0.0,
       "1_3yr_pct": 12.5,
       "over_3yr_pct": 87.5
     },
     {
       "type": "休闲娱乐",
-      "count": 1,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 100
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
     },
     {
       "type": "教育培训",
-      "count": 4,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 75,
-      "over_3yr_pct": 25
+      "count": 4.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 75.0,
+      "over_3yr_pct": 25.0
     },
     {
       "type": "酒店住宿",
-      "count": 1,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 100
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
     },
     {
       "type": "生活服务",
-      "count": 12,
+      "count": 12.0,
       "within_1yr_pct": 33.3,
       "1_3yr_pct": 58.3,
       "over_3yr_pct": 8.3
     },
     {
       "type": "运动健身",
-      "count": 6,
+      "count": 6.0,
       "within_1yr_pct": 16.7,
-      "1_3yr_pct": 50,
+      "1_3yr_pct": 50.0,
       "over_3yr_pct": 33.3
     },
     {
       "type": "车辆服务",
-      "count": 2,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 100,
-      "over_3yr_pct": 0
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 100.0,
+      "over_3yr_pct": 0.0
     }
   ],
   "nearby_communities": [

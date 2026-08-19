@@ -2,8 +2,8 @@
   "name": "中海金安环宇荟",
   "city": "北京市",
   "address": "",
-  "lat": null,
-  "lng": null,
+  "lat": 39.922909,
+  "lng": 116.163256,
   "overview": {
     "score": 89.9,
     "score_rank": "市内前30%",
@@ -49,31 +49,31 @@
     },
     "permanent": {
       "500m": 2.3,
-      "1_5km": 14,
+      "1_5km": 14.0,
       "3km": 51.4
     }
   },
   "business": {
-    "competitors": 5,
-    "food": 342,
-    "shopping": 327,
-    "leisure": 29,
-    "education": 34,
-    "hotel": 31,
-    "services": 170,
-    "fitness": 26,
-    "auto": 27,
+    "competitors": 5.0,
+    "food": 342.0,
+    "shopping": 327.0,
+    "leisure": 29.0,
+    "education": 34.0,
+    "hotel": 31.0,
+    "services": 170.0,
+    "fitness": 26.0,
+    "auto": 27.0,
     "total_stores": null,
     "old_store_3yr_pct": null
   },
   "nearby_poi": {
-    "business": 5,
-    "community": 154,
-    "office": 11,
-    "school": 26,
-    "hospital": 38,
-    "transport": 8,
-    "scenic": 81
+    "business": 5.0,
+    "community": 154.0,
+    "office": 11.0,
+    "school": 26.0,
+    "hospital": 38.0,
+    "transport": 8.0,
+    "scenic": 81.0
   },
   "demographics": {
     "male_pct": 49.8,
@@ -83,7 +83,7 @@
       "初中": 12.5,
       "高中": 9.5,
       "大专": 7.9,
-      "本科": 53,
+      "本科": 53.0,
       "硕士": 8.1,
       "博士": 1.8
     },

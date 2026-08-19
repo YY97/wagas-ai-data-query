@@ -5,15 +5,15 @@
   "lat": 39.90768,
   "lng": 116.448636,
   "overview": {
-    "score": 88,
+    "score": 88.0,
     "score_rank": "市内前30%",
     "population_score": 85.5,
     "area_score": 89.3,
     "consumption_score": 79.6,
-    "industry_score": 88,
+    "industry_score": 88.0,
     "annual_sales": "汇京双子座大厦坐落于北京CBD商圈的核心地段，坐拥1号线与17号线（在建中）双地铁上盖，“三横两纵”公路交通网环绕，快速通达全城。区位优势得天独厚，国内外商务资源汇聚，已然成为北京时代与繁华的缩影和文化名片。项目通过旧改提升、轻资产输出等方式，打造高端商务地标，推动片区重构和能级提升。依托“3C运营服务体系”为企业提供全生命周期解决方案，赋能城市生长，共创时代未来",
     "annual_sales_unit": "-",
-    "area_size_sqm": 5,
+    "area_size_sqm": 5.0,
     "open_date": "2005-11-01",
     "operator": "大悦城控股及GIC共同开发运营",
     "brand": "",
@@ -21,7 +21,7 @@
     "floors": "B2-L5"
   },
   "traffic": {
-    "annual_daily": 4986,
+    "annual_daily": 4986.0,
     "annual_daily_unit": "人次",
     "annual_daily_rank": "市内第276",
     "jun_total": 37.1,
@@ -32,7 +32,7 @@
     "weekday_avg": 1.5,
     "weekday_unit": "万人次",
     "weekday_rank": "市内商场第198名",
-    "holiday_avg": 6303,
+    "holiday_avg": 6303.0,
     "holiday_unit": "人次",
     "holiday_rank": "市内商场第290名"
   },
@@ -50,30 +50,30 @@
     "permanent": {
       "500m": 2.2,
       "1_5km": 18.5,
-      "3km": 94
+      "3km": 94.0
     }
   },
   "business": {
-    "competitors": 10,
-    "food": 253,
-    "shopping": 153,
-    "leisure": 29,
-    "education": 34,
-    "hotel": 61,
-    "services": 174,
-    "fitness": 16,
-    "auto": 23,
-    "total_stores": 44,
-    "old_store_3yr_pct": 52
+    "competitors": 10.0,
+    "food": 253.0,
+    "shopping": 153.0,
+    "leisure": 29.0,
+    "education": 34.0,
+    "hotel": 61.0,
+    "services": 174.0,
+    "fitness": 16.0,
+    "auto": 23.0,
+    "total_stores": 44.0,
+    "old_store_3yr_pct": 52.0
   },
   "nearby_poi": {
-    "business": 13,
-    "community": 468,
-    "office": 147,
-    "school": 31,
-    "hospital": 168,
-    "transport": 6,
-    "scenic": 316
+    "business": 13.0,
+    "community": 468.0,
+    "office": 147.0,
+    "school": 31.0,
+    "hospital": 168.0,
+    "transport": 6.0,
+    "scenic": 316.0
   },
   "demographics": {
     "male_pct": 52.1,
@@ -428,45 +428,45 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 21,
+      "count": 21.0,
       "within_1yr_pct": 4.8,
       "1_3yr_pct": 23.8,
       "over_3yr_pct": 71.4
     },
     {
       "type": "购物",
-      "count": 10,
-      "within_1yr_pct": 40,
-      "1_3yr_pct": 30,
-      "over_3yr_pct": 30
+      "count": 10.0,
+      "within_1yr_pct": 40.0,
+      "1_3yr_pct": 30.0,
+      "over_3yr_pct": 30.0
     },
     {
       "type": "教育培训",
-      "count": 1,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 100
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
     },
     {
       "type": "生活服务",
-      "count": 10,
-      "within_1yr_pct": 20,
-      "1_3yr_pct": 50,
-      "over_3yr_pct": 30
+      "count": 10.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 30.0
     },
     {
       "type": "运动健身",
-      "count": 1,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 100
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
     },
     {
       "type": "车辆服务",
-      "count": 1,
-      "within_1yr_pct": 100,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 0
+      "count": 1.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
     }
   ],
   "nearby_communities": [

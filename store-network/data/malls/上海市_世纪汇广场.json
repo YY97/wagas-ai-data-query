@@ -7,13 +7,13 @@
   "overview": {
     "score": 96.8,
     "score_rank": "市内前30%",
-    "population_score": 90,
+    "population_score": 90.0,
     "area_score": 94.9,
     "consumption_score": 78.1,
     "industry_score": 96.8,
     "annual_sales": "上海世纪汇广场位于浦东陆家嘴黄金轴线核心世纪大道，是上海四线（2/4/6/9号线）交汇的轨交上盖商业集办公室、酒店、商场、公共交通系统、文化设施、社交场所于一体的城市现代服务业集聚中心世纪汇广场，汇聚了零售、时尚、餐饮、娱乐、亲子为一体的一站式潮流生活聚集地，目前入驻品牌已达300多家商场内打造了独具特色的街区，包括展现沪上十里洋场风情的1192弄、年轻潮流的艺术街区POPARK、以及美食汇聚的食忆里世纪汇广场以其独特的设计和多功能性吸引了来自世界各地的游客和商务人士，提供了无与伦比的商务与购物体验",
     "annual_sales_unit": "-",
-    "area_size_sqm": 14,
+    "area_size_sqm": 14.0,
     "open_date": "2018-12-08",
     "operator": "亚腾投资（上海）有限公司",
     "brand": "",
@@ -26,7 +26,7 @@
     "annual_daily_rank": "市内第8",
     "jun_total": 269.5,
     "jun_total_rank": "市内商场第9名",
-    "jun_daily_avg": 9,
+    "jun_daily_avg": 9.0,
     "jun_daily_unit": "万人次",
     "jun_daily_rank": "市内商场第9名",
     "weekday_avg": 8.5,
@@ -39,7 +39,7 @@
   "population": {
     "residential": {
       "500m": 2.4,
-      "1_5km": 26,
+      "1_5km": 26.0,
       "3km": 67.8
     },
     "office": {
@@ -54,35 +54,35 @@
     }
   },
   "business": {
-    "competitors": 17,
-    "food": 512,
-    "shopping": 270,
-    "leisure": 53,
-    "education": 58,
-    "hotel": 38,
-    "services": 224,
-    "fitness": 42,
-    "auto": 34,
-    "total_stores": 347,
-    "old_store_3yr_pct": 57
+    "competitors": 17.0,
+    "food": 512.0,
+    "shopping": 270.0,
+    "leisure": 53.0,
+    "education": 58.0,
+    "hotel": 38.0,
+    "services": 224.0,
+    "fitness": 42.0,
+    "auto": 34.0,
+    "total_stores": 347.0,
+    "old_store_3yr_pct": 57.0
   },
   "nearby_poi": {
-    "business": 12,
-    "community": 415,
-    "office": 163,
-    "school": 59,
-    "hospital": 126,
-    "transport": 14,
-    "scenic": 353
+    "business": 12.0,
+    "community": 415.0,
+    "office": 163.0,
+    "school": 59.0,
+    "hospital": 126.0,
+    "transport": 14.0,
+    "scenic": 353.0
   },
   "demographics": {
     "male_pct": 46.6,
     "female_pct": null,
     "education": {
-      "小学": 9,
+      "小学": 9.0,
       "初中": 16.4,
       "高中": 10.6,
-      "大专": 7,
+      "大专": 7.0,
       "本科": 48.6,
       "硕士": 6.7,
       "博士": 1.7
@@ -428,49 +428,49 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 132,
+      "count": 132.0,
       "within_1yr_pct": 17.4,
       "1_3yr_pct": 22.7,
       "over_3yr_pct": 59.8
     },
     {
       "type": "购物",
-      "count": 139,
+      "count": 139.0,
       "within_1yr_pct": 18.7,
       "1_3yr_pct": 23.7,
       "over_3yr_pct": 57.6
     },
     {
       "type": "休闲娱乐",
-      "count": 16,
-      "within_1yr_pct": 25,
+      "count": 16.0,
+      "within_1yr_pct": 25.0,
       "1_3yr_pct": 18.8,
       "over_3yr_pct": 56.3
     },
     {
       "type": "教育培训",
-      "count": 9,
+      "count": 9.0,
       "within_1yr_pct": 11.1,
       "1_3yr_pct": 33.3,
       "over_3yr_pct": 55.6
     },
     {
       "type": "生活服务",
-      "count": 34,
+      "count": 34.0,
       "within_1yr_pct": 26.5,
       "1_3yr_pct": 17.6,
       "over_3yr_pct": 55.9
     },
     {
       "type": "运动健身",
-      "count": 5,
-      "within_1yr_pct": 20,
-      "1_3yr_pct": 40,
-      "over_3yr_pct": 40
+      "count": 5.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 40.0,
+      "over_3yr_pct": 40.0
     },
     {
       "type": "车辆服务",
-      "count": 12,
+      "count": 12.0,
       "within_1yr_pct": 16.7,
       "1_3yr_pct": 41.7,
       "over_3yr_pct": 41.7

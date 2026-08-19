@@ -2,8 +2,8 @@
   "name": "港城新天地",
   "city": "上海市",
   "address": "北京市朝阳区北苑家园秋实街一号",
-  "lat": 30.722766,
-  "lng": 121.271694,
+  "lat": 30.89459,
+  "lng": 121.906005,
   "overview": {
     "score": 90.5,
     "score_rank": "市内前30%",
@@ -13,7 +13,7 @@
     "industry_score": 90.6,
     "annual_sales": "北京城建·城悦荟位于朝阳区北苑家园核心区域，建筑面积近5万平方米，地上9层，地下1层。城悦荟以打造“北苑新名片”为设计初心理念，以“一城一悦 荟聚全家新趣处”为愿景，以全新商业美学缔造“六悦”购物体验，把空间还给生活。城悦荟携手京东七鲜超市、情满四合院、合禧淮扬、聚宝源、艾米西厨、木屋烧烤、麦当劳、南城香、星巴克、喜茶、麦颂KTV、华为、乐刻健身、观澜书院、乐高、九木杂物社、吉睿游艺、悠乐堡等130余家精选品牌，打造餐饮、儿童、零售、休闲娱乐、生活配套等多业态组合，满足周边居民生活需求，营造和谐幸福邻里关系",
     "annual_sales_unit": "-",
-    "area_size_sqm": 5,
+    "area_size_sqm": 5.0,
     "open_date": "2023-09-28",
     "operator": "",
     "brand": "",
@@ -45,7 +45,7 @@
     "office": {
       "500m": 1.2,
       "1_5km": 8.4,
-      "3km": 20
+      "3km": 20.0
     },
     "permanent": {
       "500m": 2.9,
@@ -54,26 +54,26 @@
     }
   },
   "business": {
-    "competitors": 2,
-    "food": 77,
-    "shopping": 62,
-    "leisure": 12,
-    "education": 18,
-    "hotel": 13,
-    "services": 93,
-    "fitness": 14,
-    "auto": 8,
-    "total_stores": 110,
-    "old_store_3yr_pct": 58
+    "competitors": 2.0,
+    "food": 77.0,
+    "shopping": 62.0,
+    "leisure": 12.0,
+    "education": 18.0,
+    "hotel": 13.0,
+    "services": 93.0,
+    "fitness": 14.0,
+    "auto": 8.0,
+    "total_stores": 110.0,
+    "old_store_3yr_pct": 58.0
   },
   "nearby_poi": {
-    "business": 7,
-    "community": 160,
-    "office": 21,
-    "school": 28,
-    "hospital": 32,
-    "transport": 12,
-    "scenic": 109
+    "business": 7.0,
+    "community": 160.0,
+    "office": 21.0,
+    "school": 28.0,
+    "hospital": 32.0,
+    "transport": 12.0,
+    "scenic": 109.0
   },
   "demographics": {
     "male_pct": 47.8,
@@ -84,8 +84,8 @@
       "高中": 9.5,
       "大专": 6.9,
       "本科": 52.3,
-      "硕士": 9,
-      "博士": 2
+      "硕士": 9.0,
+      "博士": 2.0
     },
     "has_children_pct": 58.4,
     "no_children_pct": 41.6
@@ -404,59 +404,59 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 40,
-      "within_1yr_pct": 10,
+      "count": 40.0,
+      "within_1yr_pct": 10.0,
       "1_3yr_pct": 22.5,
       "over_3yr_pct": 67.5
     },
     {
       "type": "购物",
-      "count": 28,
+      "count": 28.0,
       "within_1yr_pct": 17.9,
       "1_3yr_pct": 28.6,
       "over_3yr_pct": 53.6
     },
     {
       "type": "休闲娱乐",
-      "count": 7,
+      "count": 7.0,
       "within_1yr_pct": 14.3,
       "1_3yr_pct": 57.1,
       "over_3yr_pct": 28.6
     },
     {
       "type": "教育培训",
-      "count": 5,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 20,
-      "over_3yr_pct": 80
+      "count": 5.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 20.0,
+      "over_3yr_pct": 80.0
     },
     {
       "type": "酒店住宿",
-      "count": 2,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 50,
-      "over_3yr_pct": 50
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 50.0
     },
     {
       "type": "生活服务",
-      "count": 18,
+      "count": 18.0,
       "within_1yr_pct": 16.7,
       "1_3yr_pct": 27.8,
       "over_3yr_pct": 55.6
     },
     {
       "type": "运动健身",
-      "count": 9,
-      "within_1yr_pct": 0,
+      "count": 9.0,
+      "within_1yr_pct": 0.0,
       "1_3yr_pct": 44.4,
       "over_3yr_pct": 55.6
     },
     {
       "type": "车辆服务",
-      "count": 1,
-      "within_1yr_pct": 100,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 0
+      "count": 1.0,
+      "within_1yr_pct": 100.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 0.0
     }
   ],
   "nearby_communities": [

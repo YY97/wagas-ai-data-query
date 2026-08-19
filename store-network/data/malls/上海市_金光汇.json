@@ -2,8 +2,8 @@
   "name": "金光汇",
   "city": "上海市",
   "address": "北京市东城区建国门街道民生金融中心",
-  "lat": null,
-  "lng": null,
+  "lat": 31.292047,
+  "lng": 121.384233,
   "overview": {
     "score": 74.6,
     "score_rank": "市内前50%",
@@ -50,30 +50,30 @@
     "permanent": {
       "500m": 1.5,
       "1_5km": 24.6,
-      "3km": 73
+      "3km": 73.0
     }
   },
   "business": {
-    "competitors": 6,
-    "food": 105,
-    "shopping": 71,
-    "leisure": 5,
-    "education": 5,
-    "hotel": 47,
-    "services": 39,
-    "fitness": 19,
-    "auto": 5,
-    "total_stores": 296,
-    "old_store_3yr_pct": 57
+    "competitors": 6.0,
+    "food": 105.0,
+    "shopping": 71.0,
+    "leisure": 5.0,
+    "education": 5.0,
+    "hotel": 47.0,
+    "services": 39.0,
+    "fitness": 19.0,
+    "auto": 5.0,
+    "total_stores": 296.0,
+    "old_store_3yr_pct": 57.0
   },
   "nearby_poi": {
-    "business": 15,
-    "community": 340,
-    "office": 94,
-    "school": 43,
-    "hospital": 126,
-    "transport": 10,
-    "scenic": 911
+    "business": 15.0,
+    "community": 340.0,
+    "office": 94.0,
+    "school": 43.0,
+    "hospital": 126.0,
+    "transport": 10.0,
+    "scenic": 911.0
   },
   "demographics": {
     "male_pct": 46.7,
@@ -203,59 +203,59 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 105,
+      "count": 105.0,
       "within_1yr_pct": 22.9,
       "1_3yr_pct": 21.9,
       "over_3yr_pct": 55.2
     },
     {
       "type": "购物",
-      "count": 71,
+      "count": 71.0,
       "within_1yr_pct": 32.4,
       "1_3yr_pct": 16.9,
       "over_3yr_pct": 50.7
     },
     {
       "type": "休闲娱乐",
-      "count": 5,
-      "within_1yr_pct": 20,
-      "1_3yr_pct": 20,
-      "over_3yr_pct": 60
+      "count": 5.0,
+      "within_1yr_pct": 20.0,
+      "1_3yr_pct": 20.0,
+      "over_3yr_pct": 60.0
     },
     {
       "type": "教育培训",
-      "count": 5,
-      "within_1yr_pct": 60,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 40
+      "count": 5.0,
+      "within_1yr_pct": 60.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 40.0
     },
     {
       "type": "酒店住宿",
-      "count": 47,
+      "count": 47.0,
       "within_1yr_pct": 2.1,
       "1_3yr_pct": 8.5,
       "over_3yr_pct": 89.4
     },
     {
       "type": "生活服务",
-      "count": 39,
+      "count": 39.0,
       "within_1yr_pct": 35.9,
       "1_3yr_pct": 20.5,
       "over_3yr_pct": 43.6
     },
     {
       "type": "运动健身",
-      "count": 19,
+      "count": 19.0,
       "within_1yr_pct": 26.3,
       "1_3yr_pct": 31.6,
       "over_3yr_pct": 42.1
     },
     {
       "type": "车辆服务",
-      "count": 5,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 20,
-      "over_3yr_pct": 80
+      "count": 5.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 20.0,
+      "over_3yr_pct": 80.0
     }
   ],
   "nearby_communities": [

@@ -7,7 +7,7 @@
   "overview": {
     "score": 80.7,
     "score_rank": "市内前30%",
-    "population_score": 100,
+    "population_score": 100.0,
     "area_score": 80.1,
     "consumption_score": 78.3,
     "industry_score": 80.7,
@@ -44,36 +44,36 @@
     },
     "office": {
       "500m": 2.5,
-      "1_5km": 20,
+      "1_5km": 20.0,
       "3km": 81.8
     },
     "permanent": {
       "500m": 4.6,
-      "1_5km": 38,
+      "1_5km": 38.0,
       "3km": 129.9
     }
   },
   "business": {
-    "competitors": 6,
-    "food": 213,
-    "shopping": 144,
-    "leisure": 18,
-    "education": 13,
-    "hotel": 55,
-    "services": 139,
-    "fitness": 13,
-    "auto": 19,
-    "total_stores": 63,
-    "old_store_3yr_pct": 56
+    "competitors": 6.0,
+    "food": 213.0,
+    "shopping": 144.0,
+    "leisure": 18.0,
+    "education": 13.0,
+    "hotel": 55.0,
+    "services": 139.0,
+    "fitness": 13.0,
+    "auto": 19.0,
+    "total_stores": 63.0,
+    "old_store_3yr_pct": 56.0
   },
   "nearby_poi": {
-    "business": 6,
-    "community": 892,
-    "office": 108,
-    "school": 58,
-    "hospital": 137,
-    "transport": 18,
-    "scenic": 381
+    "business": 6.0,
+    "community": 892.0,
+    "office": 108.0,
+    "school": 58.0,
+    "hospital": 137.0,
+    "transport": 18.0,
+    "scenic": 381.0
   },
   "demographics": {
     "male_pct": 54.3,
@@ -84,7 +84,7 @@
       "高中": 11.7,
       "大专": 7.3,
       "本科": 47.6,
-      "硕士": 4,
+      "硕士": 4.0,
       "博士": 1.6
     },
     "has_children_pct": 60.6,
@@ -396,59 +396,59 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 21,
+      "count": 21.0,
       "within_1yr_pct": 23.8,
       "1_3yr_pct": 42.9,
       "over_3yr_pct": 33.3
     },
     {
       "type": "购物",
-      "count": 13,
+      "count": 13.0,
       "within_1yr_pct": 7.7,
       "1_3yr_pct": 30.8,
       "over_3yr_pct": 61.5
     },
     {
       "type": "休闲娱乐",
-      "count": 4,
-      "within_1yr_pct": 50,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 50
+      "count": 4.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 50.0
     },
     {
       "type": "教育培训",
-      "count": 7,
-      "within_1yr_pct": 0,
+      "count": 7.0,
+      "within_1yr_pct": 0.0,
       "1_3yr_pct": 14.3,
       "over_3yr_pct": 85.7
     },
     {
       "type": "酒店住宿",
-      "count": 3,
+      "count": 3.0,
       "within_1yr_pct": 33.3,
-      "1_3yr_pct": 0,
+      "1_3yr_pct": 0.0,
       "over_3yr_pct": 66.7
     },
     {
       "type": "生活服务",
-      "count": 11,
+      "count": 11.0,
       "within_1yr_pct": 9.1,
       "1_3yr_pct": 18.2,
       "over_3yr_pct": 72.7
     },
     {
       "type": "运动健身",
-      "count": 2,
-      "within_1yr_pct": 50,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 50
+      "count": 2.0,
+      "within_1yr_pct": 50.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 50.0
     },
     {
       "type": "车辆服务",
-      "count": 2,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 50,
-      "over_3yr_pct": 50
+      "count": 2.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 50.0
     }
   ],
   "nearby_communities": [
@@ -3253,7 +3253,7 @@
       "raw": "上海大学(延长校区男3号宿舍) 建筑年份:- 上海市静安区广延路140号"
     }
   ],
-  "community_count": 400,
   "avg_housing_price": 74979.98,
-  "total_households": 373544
+  "total_households": 373544,
+  "community_count": 400
 }

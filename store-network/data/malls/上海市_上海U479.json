@@ -8,12 +8,12 @@
     "score": 79.3,
     "score_rank": "市内前30%",
     "population_score": 99.5,
-    "area_score": 100,
+    "area_score": 100.0,
     "consumption_score": 86.4,
     "industry_score": 79.1,
     "annual_sales": "U479以展示年轻力生活方式的业态为主，拓展“城市夜经济”概念，持续引进品牌首店、旗舰店及潮流体验类门店，贴近当代年轻人更喜欢的生活方式内容，打造中国年轻力MAX的“24H多面潮浪主场”。U479独特的地理位置，决定了它不仅只覆盖周围的人群，也是南京路步行街乃至上海的地标性象",
     "annual_sales_unit": "-",
-    "area_size_sqm": 1,
+    "area_size_sqm": 1.0,
     "open_date": "2021-06-01",
     "operator": "盈展商业管理（上海）有限公司",
     "brand": "",
@@ -21,18 +21,18 @@
     "floors": "B1-L12"
   },
   "traffic": {
-    "annual_daily": 1397,
+    "annual_daily": 1397.0,
     "annual_daily_unit": "人次",
     "annual_daily_rank": "市内第490",
     "jun_total": 5.7,
     "jun_total_rank": "市内商场第538名",
-    "jun_daily_avg": 1913,
+    "jun_daily_avg": 1913.0,
     "jun_daily_unit": "人次",
     "jun_daily_rank": "市内商场第538名",
-    "weekday_avg": 1662,
+    "weekday_avg": 1662.0,
     "weekday_unit": "人次",
     "weekday_rank": "市内商场第547名",
-    "holiday_avg": 2606,
+    "holiday_avg": 2606.0,
     "holiday_unit": "人次",
     "holiday_rank": "市内商场第517名"
   },
@@ -54,32 +54,32 @@
     }
   },
   "business": {
-    "competitors": 22,
-    "food": 826,
-    "shopping": 889,
-    "leisure": 124,
-    "education": 49,
-    "hotel": 303,
-    "services": 373,
-    "fitness": 36,
-    "auto": 34,
-    "total_stores": 20,
-    "old_store_3yr_pct": 50
+    "competitors": 22.0,
+    "food": 826.0,
+    "shopping": 889.0,
+    "leisure": 124.0,
+    "education": 49.0,
+    "hotel": 303.0,
+    "services": 373.0,
+    "fitness": 36.0,
+    "auto": 34.0,
+    "total_stores": 20.0,
+    "old_store_3yr_pct": 50.0
   },
   "nearby_poi": {
-    "business": 35,
-    "community": 827,
-    "office": 233,
-    "school": 43,
-    "hospital": 191,
-    "transport": 32,
-    "scenic": 950
+    "business": 35.0,
+    "community": 827.0,
+    "office": 233.0,
+    "school": 43.0,
+    "hospital": 191.0,
+    "transport": 32.0,
+    "scenic": 950.0
   },
   "demographics": {
     "male_pct": 47.2,
     "female_pct": null,
     "education": {
-      "小学": 10,
+      "小学": 10.0,
       "初中": 17.9,
       "高中": 11.5,
       "大专": 7.4,
@@ -428,31 +428,31 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 9,
+      "count": 9.0,
       "within_1yr_pct": 11.1,
       "1_3yr_pct": 33.3,
       "over_3yr_pct": 55.6
     },
     {
       "type": "购物",
-      "count": 4,
-      "within_1yr_pct": 25,
-      "1_3yr_pct": 50,
-      "over_3yr_pct": 25
+      "count": 4.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 25.0
     },
     {
       "type": "休闲娱乐",
-      "count": 6,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 50,
-      "over_3yr_pct": 50
+      "count": 6.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 50.0
     },
     {
       "type": "教育培训",
-      "count": 1,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 100
+      "count": 1.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
     }
   ],
   "nearby_communities": [
@@ -4657,7 +4657,7 @@
       "raw": "海昌苑 户数:261 居住人数:690+ 建筑年份:2008"
     }
   ],
-  "community_count": 600,
   "avg_housing_price": 98565.85,
-  "total_households": 208737
+  "total_households": 208737,
+  "community_count": 600
 }

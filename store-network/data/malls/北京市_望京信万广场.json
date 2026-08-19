@@ -13,7 +13,7 @@
     "industry_score": 84.1,
     "annual_sales": "项目坐落于北京最具活力和潜能的朝阳区望京西路，项目将于2024年升级开业，定位于‘社区型购物中心’，将打造一个有温度、有亲和力的新型社区商业空间---家庭生活配套服务中心。 项目以亲子家庭、烟火气息、宠物友好、网红打卡等为标签，满足周边社区居民“家门口”逛街的新型生活场景；通过零售、餐饮、儿童、体验、配套等多种业态组合，满足周边社区多样性社交需求。",
     "annual_sales_unit": "-",
-    "area_size_sqm": 4,
+    "area_size_sqm": 4.0,
     "open_date": "2017-01-01",
     "operator": "正见阳光资产管理（北京）有限公司",
     "brand": "",
@@ -32,7 +32,7 @@
     "weekday_avg": 1.8,
     "weekday_unit": "万人次",
     "weekday_rank": "市内商场第168名",
-    "holiday_avg": 2,
+    "holiday_avg": 2.0,
     "holiday_unit": "万人次",
     "holiday_rank": "市内商场第176名"
   },
@@ -43,7 +43,7 @@
       "3km": 55.9
     },
     "office": {
-      "500m": 9700,
+      "500m": 9700.0,
       "1_5km": 6.4,
       "3km": 37.8
     },
@@ -54,26 +54,26 @@
     }
   },
   "business": {
-    "competitors": 3,
-    "food": 83,
-    "shopping": 72,
-    "leisure": 12,
-    "education": 48,
-    "hotel": 12,
-    "services": 100,
-    "fitness": 18,
-    "auto": 12,
-    "total_stores": 56,
-    "old_store_3yr_pct": 36
+    "competitors": 3.0,
+    "food": 83.0,
+    "shopping": 72.0,
+    "leisure": 12.0,
+    "education": 48.0,
+    "hotel": 12.0,
+    "services": 100.0,
+    "fitness": 18.0,
+    "auto": 12.0,
+    "total_stores": 56.0,
+    "old_store_3yr_pct": 36.0
   },
   "nearby_poi": {
-    "business": 2,
-    "community": 247,
-    "office": 27,
-    "school": 30,
-    "hospital": 68,
-    "transport": 6,
-    "scenic": 134
+    "business": 2.0,
+    "community": 247.0,
+    "office": 27.0,
+    "school": 30.0,
+    "hospital": 68.0,
+    "transport": 6.0,
+    "scenic": 134.0
   },
   "demographics": {
     "male_pct": 51.4,
@@ -87,8 +87,8 @@
       "硕士": 6.2,
       "博士": 1.4
     },
-    "has_children_pct": 58,
-    "no_children_pct": 42
+    "has_children_pct": 58.0,
+    "no_children_pct": 42.0
   },
   "scraped_at": "2026-08-01T11:33:42.363Z",
   "nearby_restaurants": [
@@ -129,52 +129,52 @@
   "business_survival": [
     {
       "type": "餐饮",
-      "count": 17,
+      "count": 17.0,
       "within_1yr_pct": 17.6,
       "1_3yr_pct": 41.2,
       "over_3yr_pct": 41.2
     },
     {
       "type": "购物",
-      "count": 12,
-      "within_1yr_pct": 25,
-      "1_3yr_pct": 50,
-      "over_3yr_pct": 25
+      "count": 12.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 25.0
     },
     {
       "type": "休闲娱乐",
-      "count": 4,
-      "within_1yr_pct": 25,
-      "1_3yr_pct": 50,
-      "over_3yr_pct": 25
+      "count": 4.0,
+      "within_1yr_pct": 25.0,
+      "1_3yr_pct": 50.0,
+      "over_3yr_pct": 25.0
     },
     {
       "type": "教育培训",
-      "count": 10,
-      "within_1yr_pct": 40,
-      "1_3yr_pct": 20,
-      "over_3yr_pct": 40
+      "count": 10.0,
+      "within_1yr_pct": 40.0,
+      "1_3yr_pct": 20.0,
+      "over_3yr_pct": 40.0
     },
     {
       "type": "生活服务",
-      "count": 4,
-      "within_1yr_pct": 75,
-      "1_3yr_pct": 25,
-      "over_3yr_pct": 0
+      "count": 4.0,
+      "within_1yr_pct": 75.0,
+      "1_3yr_pct": 25.0,
+      "over_3yr_pct": 0.0
     },
     {
       "type": "运动健身",
-      "count": 6,
-      "within_1yr_pct": 0,
+      "count": 6.0,
+      "within_1yr_pct": 0.0,
       "1_3yr_pct": 66.7,
       "over_3yr_pct": 33.3
     },
     {
       "type": "车辆服务",
-      "count": 3,
-      "within_1yr_pct": 0,
-      "1_3yr_pct": 0,
-      "over_3yr_pct": 100
+      "count": 3.0,
+      "within_1yr_pct": 0.0,
+      "1_3yr_pct": 0.0,
+      "over_3yr_pct": 100.0
     }
   ],
   "nearby_communities": [
