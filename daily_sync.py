@@ -600,6 +600,94 @@ def step5_competitor_json():
     print(f"  competitor_stores.json 已更新：{total} 家（{summary}）")
     return True
 
+def step6_delivery_json():
+    """从 output/delivery_points.json 按城市拆分，同步到前端 public/data/delivery/"""
+    print("\n=== Step 6: 外卖配送点 → delivery/{城市}.json ===")
+    dlv_path = os.path.join(OUTPUT_DIR, "delivery_points.json")
+    if not os.path.exists(dlv_path):
+        print("  [SKIP] delivery_points.json 不存在")
+        return False
+
+    with open(dlv_path, 'r', encoding='utf-8') as f:
+        delivery_data = json.load(f)
+
+    # 读 stores.json 拿 sid → city 映射（stores.json 由 step1 每天更新，最可靠）
+    sid_city = {}
+    stores_path = os.path.join(V2_DATA, "stores.json")
+    if os.path.exists(stores_path):
+        with open(stores_path, 'r', encoding='utf-8') as f:
+            stores = json.load(f)
+        sid_city = {s['sid']: s['city'] for s in stores if s.get('sid') and s.get('city')}
+
+    # 按城市拆分
+    by_city = {}
+    for sid, pts in delivery_data.items():
+        city = sid_city.get(sid, '未知')
+        by_city.setdefault(city, {})[sid] = pts
+
+    # 写 delivery/{城市}.json + index.json
+    delivery_dir = os.path.join(V2_DATA, "delivery")
+    # 先清空旧文件，避免城市列表变化时残留（如旧 unknown.json / 已下架城市）
+    if os.path.exists(delivery_dir):
+        for old_f in os.listdir(delivery_dir):
+            if old_f.endswith('.json'):
+                os.remove(os.path.join(delivery_dir, old_f))
+    os.makedirs(delivery_dir, exist_ok=True)
+    index = {}
+    for city, data in by_city.items():
+        total_points = sum(len(pts) for pts in data.values())
+        index[city] = {"store_count": len(data), "total_points": total_points}
+        with open(os.path.join(delivery_dir, f"{city}.json"), 'w', encoding='utf-8') as f:
+            json.dump(data, f, ensure_ascii=False)
+    with open(os.path.join(delivery_dir, "index.json"), 'w', encoding='utf-8') as f:
+        json.dump(index, f, ensure_ascii=False)
+
+    # 同步全量 delivery_points.json（前端不直接读，但保持数据完整）
+    save_json(delivery_data, os.path.join(V2_DATA, "delivery_points.json"), os.path.join(V2_DEPLOY, "delivery_points.json"))
+
+    store_count = sum(v['store_count'] for v in index.values())
+    print(f"  delivery 按城市拆分完成：{len(by_city)} 城市，{store_count} 门店")
+    return True
+
+def step7_delivery_top_locations():
+    """从 output/delivery_top_locations.csv 生成 delivery_top_locations.json"""
+    print("\n=== Step 7: 热门配送地 → delivery_top_locations.json ===")
+    csv_path = os.path.join(OUTPUT_DIR, "delivery_top_locations.csv")
+    if not os.path.exists(csv_path):
+        print("  [SKIP] delivery_top_locations.csv 不存在（配送地 ETL 未运行过）")
+        return False
+
+    grouped = {}
+    total = 0
+    with open(csv_path, 'r', encoding='utf-8-sig') as f:
+        for row in csv.DictReader(f):
+            sid = row.get('门店ID', '').strip()
+            if not sid:
+                continue
+            try:
+                rank = int(row.get('排名', 0) or 0)
+                dist = float(row.get('距离(km)', 0) or 0)
+                count = int(row.get('配送次数', 0) or 0)
+                lat = float(row.get('纬度', 0) or 0)
+                lng = float(row.get('经度', 0) or 0)
+            except (ValueError, TypeError):
+                continue
+            if lat == 0 or lng == 0:
+                continue
+            grouped.setdefault(sid, []).append({
+                'rank': rank,
+                'name': row.get('地点名称', ''),
+                'dist': round(dist, 2),
+                'count': count,
+                'lat': lat,
+                'lng': lng,
+            })
+            total += 1
+
+    save_json(grouped, os.path.join(V2_DATA, "delivery_top_locations.json"), os.path.join(V2_DEPLOY, "delivery_top_locations.json"))
+    print(f"  delivery_top_locations.json 已更新：{len(grouped)} 门店，{total} 条")
+    return True
+
 def main():
     parser = argparse.ArgumentParser(description="Wagas 门店网络 v2 每日同步")
     parser.add_argument("--skip-weather", action="store_true", help="跳过天气数据")
@@ -615,6 +703,9 @@ def main():
     step3_sales_json()
     step4_channel_json()
     step5_competitor_json()
+    if not args.skip_delivery:
+        step6_delivery_json()
+        step7_delivery_top_locations()
     step2_weather(skip=args.skip_weather)
 
     print("\n" + "=" * 60)
