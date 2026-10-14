@@ -328,7 +328,7 @@ def main():
         time.sleep(SLEEP_BETWEEN)
 
     # 写 CSV（空数据保护：不覆盖有效旧文件）
-    fieldnames = ["门店 ID", "门店名称", "城市", "poi_count", "avg_cost",
+    fieldnames = ["门店ID", "门店名称", "城市", "poi_count", "avg_cost",
                   "median_cost", "avg_rating", "top_categories", "business_area",
                   "office_count", "residential_count", "metro_count", "nearest_metro_km"]
     os.makedirs(output_dir, exist_ok=True)
@@ -341,11 +341,14 @@ def main():
     if valid_ratio < 0.8 and os.path.exists(out_csv) and os.path.getsize(out_csv) > 200:
         print(f"  [WARN] 新数据有效率过低（{valid_count}/{total_count} = {valid_ratio:.1%} < 80%），保留已有 {out_csv}（{os.path.getsize(out_csv)} 字节）")
     else:
-        with open(out_csv, "w", newline="", encoding="utf-8-sig") as f:
+        # 写临时文件后原子替换，避免中途崩溃（如字段名不匹配）清空已有有效数据
+        tmp_csv = out_csv + ".tmp"
+        with open(tmp_csv, "w", newline="", encoding="utf-8-sig") as f:
             w = csv.DictWriter(f, fieldnames=fieldnames)
             w.writeheader()
             for row in results:
                 w.writerow(row)
+        os.replace(tmp_csv, out_csv)
         print(f"  -> {out_csv} ({len(results)} 行，{valid_count} 家有 POI 数据，有效率 {valid_ratio:.1%})")
     print(f"{'=' * 60}")
 
